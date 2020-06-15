@@ -1,0 +1,872 @@
+@~8Q\
+__gmon_start__
+_ITM_deregisterTMCloneTable
+_ITM_registerTMCloneTable
+__cxa_finalize
+_Jv_RegisterClasses
+_end
+libm.so.6
+wine_dbg_printf
+strncasecmp
+__ctype_b_loc
+__ctype_tolower_loc
+__xstat64
+exit
+getenv
+unsetenv
+wine_dbgstr_wn
+wine_get_config_dir
+strlen
+malloc
+memcpy
+free
+__errno_location
+close
+isDemo
+sprintf
+system
+fork
+waitpid
+reloadLicense
+wine_dbg_log
+unlink
+execv
+strtol
+srand
+wrCommandLineToArgvW
+NotifyOnIdle
+socket
+strncpy
+connect
+write
+WinMain
+pipe
+puts
+magicstring
+validateSignature
+fopen64
+fread
+init_certdata
+strptime
+licenseExpired
+licenseName
+licenseEmail
+__wine_main_argv
+__wine_main_argc
+main
+__wine_dll_register
+libwine.so.1
+libc.so.6
+_edata
+__bss_start
+WINE_1.0
+GLIBC_2.3
+GLIBC_2.2
+GLIBC_2.1.3
+GLIBC_2.1
+GLIBC_2.0
+Y[^_]
+D$ 1
+ t'f
+;t$@
+D$ f
+T$,9T$ 
+0^_]
+;t$@
+D$45
+L$,5
+UWVS
+L$8t
+|$#0
+|$#9~
+|$39
+[^_]
+[^_]
+|$30
+/.evf
+UWVS
+[^_]
+[^_]
+|$Pt
+/.evf
+WVSQ
+Y[^_]
+UWVS
+[^_]
+l$Htb
+Y^_]
+"t,f
+Y^_]
+Y^_]
+D$,!
+Eleele
+Y[^_]
+Y[^_]
+tbf;
+t@f9
+UWVS
+[^_]
+[^_]
+T$$=
+;D$(u
+[^_]
+T$$1
+D$0+
+winewrapper.exe
+Could not create the registry key, exiting
+%s:error: cannot get the address of 'wine_get_dos_file_name'
+CX_WINEWRAPPER_ALT_LOADER_SOCKET
+This copy of CrossOver is registered (it is not in demo mode).
+This copy of CrossOver is not registered (it is in demo mode).
+%s/bin/launchurl '%s;extrep_id=%d'
+%s:error: cannot execute %s (%d)
+RegOpenKeyExW(%s) failed (%d)
+unable to get the size of %s->%s (%d)
+%s->%s if of an unsupported type (%u)
+%s:error: unable to get the value of %s->%s (%d)
+%s:error: ExpandEnvironmentStringsW(%s) failed (%u)
+Failed to get target information for %s, hr=%x
+Unable to set up the %s desktop for %s (le=%u)
+Failed to connect to launch-notification socket %s. errno: %d
+%s:error: missing argument for --enable-alt-loader option
+%s:warning: ignoring unknown argument for --enable-alt-loader option: %s
+%s:error: missing argument for --desktop option
+%s:error: missing argument for --workdir option
+%s:error: missing argument for --start-mime option
+%s:error: missing argument for --start-class option
+%s:error: missing argument for --start-verb option
+%s:error: --start and --run are mutually exclusive
+Demo version (expired %d days ago)
+Demo version (%d days remaining)
+%s:error: --start-mime can only be used with the --start option
+%s:error: --start-class can only be used with the --start option
+%s:error: --start-verb can only be used with the --start option
+%s:error: --start-mime and --start-class are mutually exclusive
+%s:error: --no-wait and --wait-children are mutually exclusive
+%s:error: failed to convert arg %s. Perhaps the z: drive is missing?
+%s:error: unable to create wait_child_pipe
+%s:error: start MIME %s not found
+%s:error: no class found for extension %s of MIME %s
+%s:error: start class %s not found
+%s:error: cannot start %s (error %d)
+Error setting registry key
+kernel32
+wine_get_dos_file_name
+file:///
+file://localhost/
+CX_ALT_LOADER_SOCKET
+2015/04/16
+crosslin
+CX_ROOT
+%s/bin/cxregister
+%s:error: fork failed
+CX_BOTTLE
+default
+%s - expand -> %s
+CoInitialize
+CoCreateInstance
+CoUninitialize
+Running %s in the %s desktop
+CX_LAUNCH_NOTIFY_SOCKET
+assocscan
+arg %d -> %s
+%s:error: unknown option %s
+Standard version
+Path conversion:
+%d: %s -> %s
+WINE_WAIT_CHILD_PIPE
+Using desktop: %s
+Command: %s
+%s:error: cannot execute %s
+Waiting for process %p
+waiting for children to exit
+ran for %ums exit_code=0x%x
+DistinctiveDemoIdentifier
+cxcplinfo
+cxmanip
+cxwget
+explorer
+pluginserver
+reboot
+regedit
+rundll32
+uninstaller
+wineboot
+winemenubuilder
+winepath
+550D
+'"v0
+5/QX
+{_41
+BeUNO
+I-`:
+	49Z
+~2]r
+r?RJ
+,Ol @
+rW;=
+sP=*`J
+V-kJ
+}tlr
+=sRWj
+=sRVj
+=sRUj
+=sRTj
+=sRSj
+=sRRj
+=sRQj
+=sRPj
+k7E8
+RX0e
+4"&%
+Ure]
+3)6{
+3)6{
+3)6{
+3)6{
+3)6{
+3)6{
+3)6{
+3)6{
+3)6{
+3)6{
+3)6{
+3)6{
+3)6{
+3)6{
+3)6{
+3)6{
+3)6{
+3)6{
+'1nD
+@Qm6t
+F0:s
+Dw=*
+#3:O
+F0:s
+Dw=@
+FNotifyOnIdle
+WinMain
+do_demo_checks
+Beeb
+get_value
+get_desktop_setting
+setup_desktop
+CryptAcquireContext failed.
+CryptCreateHash  failed.
+hashing %d bytes: %s
+CryptHashData failed.
+Signature is way too big! %s
+keyLen: %d
+Read %d bytes from %s
+CryptDecodeObjectEx failed
+Verify failed: %d (0x%x).
+%s/etc
+%s/license.txt
+%s/license.sig
+customer
+email
+expires
+%Y/%m/%d
+Failed to parse date:  %s
+No name in signature!
+No email in signature!
+%s/share/crossover/data/tie.pub
+Tacocat
+Failed to open license file %s
+Microsoft Enhanced Cryptographic Provider v1.0
+Unable to open the sigfile %s
+Unable to read from the sigfile %s. size: %u
+Failed to open the public key file.
+Failed to read the public key.
+CryptStringToBinary failed: %d
+CryptImportPublicKeyInfo failed
+Failed to parse build date:  %s
+validateSignature
+init_certdata
+licenseExpired
+;*2$"D
+CryptAcquireContextA
+CryptCreateHash
+CryptDestroyHash
+CryptHashData
+CryptReleaseContext
+CryptVerifySignatureA
+RegCloseKey
+A Santa lives evil at NASA
+RegCreateKeyW
+RegDeleteKeyW
+RegDeleteValueW
+RegOpenKeyExW
+RegOpenKeyW
+RegQueryValueExW
+RegSetValueExW
+CryptDecodeObjectEx
+CryptImportPublicKeyInfo
+CryptStringToBinaryA
+CloseHandle
+CreateProcessW
+ExitProcess
+ExpandEnvironmentStringsW
+FindResourceA
+FreeLibrary
+FreeResource
+GetCommandLineA
+GetCommandLineW
+GetExitCodeProcess
+GetFileAttributesW
+GetModuleFileNameW
+GetModuleHandleA
+GetModuleHandleW
+GetPrivateProfileStringA
+GetProcAddress
+GetStartupInfoA
+GetTickCount
+GlobalAlloc
+GlobalFree
+GlobalGetAtomNameW
+GlobalLock
+GlobalReAlloc
+HeapAlloc
+HeapFree
+LoadLibraryA
+LoadLibraryW
+LoadResource
+LockResource
+MultiByteToWideChar
+SetCurrentDirectoryW
+SetEnvironmentVariableW
+Sleep
+WaitForSingleObject
+WideCharToMultiByte
+lstrcatW
+lstrcmpW
+lstrcmpiW
+lstrcpyW
+lstrlenW
+advapi32.dll
+crypt32.dll
+kernel32.dll
+shell32.dll
+user32.dll
+shlwapi.dll
+ShellExecuteExW
+CreateDesktopW
+DialogBoxParamA
+EnableWindow
+EndDialog
+GetDesktopWindow
+GetDlgItem
+GetPropW
+LoadImageA
+LoadStringA
+LoadStringW
+MessageBoxW
+SendMessageA
+SetThreadDesktop
+SetWindowTextW
+WaitForInputIdle
+wsprintfW
+DelayLoadFailureHook
+PathFindFileNameW
+|q}uixpdwnaul_ri]pgZoeXndVjbVh`Vh`VhaWofYqh[sj]tk^xoc}ui
+xmzrful_pfYkaSf\O_XNZTMTQNRPMNNNNNNNNNNNNNNNNNNNNNNNNPONUROYUP_ZRiaVri[wnb}ti
+}r~ujwnbpgZj`RcYMZTKRPMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNQPNYUPe^Usj]zqe
+ynyqerh[kaS^WMSQMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNRQO_ZTsj_}ti
+zozqerh[`ZRQPNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN^ZV{sh
+wkmf]WTQNNNNNNNNNNNNNNNNNNNNNNNNNNNttt
+}}}aaaNNNNNNNNNNNNNNNNNNNNNNNNQPPie_
+~td`[NNNNNNNNNNNNNNNNNNNNNWWW
+iiiNNNNNNNNNNNNNNNNNNNNNVUT
+|ZYWNNNNNNNNNNNNNNNNNN___
+NNNNNNNNNNNNNNNNNNNNNwtp
+|SSRNNNNNNNNNNNNNNN^^^
+NNNNNNNNNNNNNNNNNNlki
+NNNNNNNNNNNNNNNVVV
+eeeNNNNNNNNNNNNNNNcba
+zyxNNNNNNNNNNNNNNNeee
+NNNNNNNNNNNNNNNfee
+o=xY!xY!
+o@{\$
+qFxX!yZ#{\$
+`(~_'
+NNNNNNNNNNNNNNNzzz
+UUUNNNNNNNNNNNNhhh
+o=oK
+l9jD
+vKqO
+o=oK
+|]%jD
+\M. s
+NNNNNNNNNNNNNNN
+bbbNNNNNNNNNNNNjjj
+l9jD
+l9jD
+b+jD
+e2jD
+Borrow or rob
+NNNNNNNNNNNNNNN
+XI-ukW
+aaaNNNNNNNNNNNN}}}
+l9jD
+_YKjD
+WWWNNNNNNNNNNNN
+```NNNNNNNNNNNN
+l9jD
+b+jD
+h5jD
+SSL s
+tttNNNNNNNNNNNNyyy
+TTTNNNNNNNNNNNN
+l9jD
+qFjD
+c1jD
+NNNNNNNNNNNNeee
+NNNNNNNNNNNNjjj
+l9jD
+nDjD
+b+jD
+}SjD
+e2jD
+WWWNNNNNNNNNTTT
+;Ts9X
+yyyNNNNNNNNNNNN
+l9jD
+f3tR
+b+jD
+xY"}`-jD
+Degas are we not drawn onward no In union drawn onward to new eras aged
+rHjD
+|]&jD
+i6yX
+h5jD
+SSL s
+NNNNNNNNNNNN
+]]]NNNNNNNNNWWW
+l9jD
+i6jD
+NNNNNNNNNNNNggg
+OOONNNNNNNNN
+l9jD
+sEjD
+Do nine men interpret Nine men I nod
+tJjD
+{PjD
+TRJ0q
+e2jD
+NNNNNNNNNOOO
+lllPPPNNNNNNWWW
+vGjD
+l9jD
+m>jD
+d1jD
+l9jD
+rDjD
+sDjD
+j7jD
+RTP'o
+WWWNNNNNNPPPlll
+SSSQQQOOONNN
+l9jD
+f3jD
+l9jD
+|]&jD
+g4jD
+k8jD
+NNNOOOQQQTTT
+mmmTTTRRRPPPaaa
+l9jD
+l9jD
+l9jD
+l9jD
+j7jD
+h5jD
+l9jD
+PUW-k
+f3jD
+jjjPPPRRRTTTiii
+zyxb}
+{ocD
+SL<TM<VN=WP>H]yQ|
+XXXUUUSSSPPP
+l9jD
+l9jD
+l9jD
+vP}a.}a.}a.}a.}a.|`-|`-|`-
+i6jD
+g4~a.
+f3jD
+f3jD
+i6jD
+SSL1i
+PPPSSSUUUXXX~~~
+aaaYYYVVVSSS
+l9jD
+l9jD
+l9jD
+pEjD
+f3jD
+h5jD
+i6jD
+E\z/j
+SSSVVVYYY^^^
+eN&cA
+lH	sP
+ppp\\\YYYWWWfff
+l9jD
+l9jD
+l9jD
+m?jD
+l9jD
+j7jD
+OUX0i
+k8jD
+JXj*m
+VVVYYY\\\kkk
+rcIbA
+___]]]ZZZWWW
+l9jD
+l9jD
+l9jD
+b+jD
+uFjD
+l9jD
+l9jD
+k8jD
+j7jD
+PTTD\~:c
+hhhZZZ\\\___uuu
+ddd```]]]ZZZ
+l9jD
+l9jD
+l9jD
+j7jD
+l9jD
+m<cH
+GZs@_
+ZZZ\\\___bbb|||{{z
+oU)cA
+lllccc```]]]
+l9jD
+l9jD
+l9jD
+j7jD
+l9jD
+i6jD
+l9jD
+uxy6e
+XP<`K"?_
+SRJLWa+l
+]]]___bbbeee
+zcb@
+rrrfffccc```
+l9jD
+l9jD
+l9jD
+b+jD
+l9jD
+k8jD
+k8jD
+F[xA^
+___ccceeekkk}}}}}|
+tttiiifffccc
+l9jD
+l9jD
+l9jD
+~^'jD
+l9jD
+i6jD
+`J!/i
+bbbeeehhhnnnzzz
+God A red nugget A fat egg under a dog
+~}{zysdK`?
+wwwtttllliiifffccc
+l9jD
+l9jD
+b+jD
+j7jD
+l9jD
+IYn7e
+eeehhhkkkpppxxx
+sssooollliiifff
+l9jD
+l9jD
+b+jD
+j7jD
+l9jD
+KXfjD
+PUW2g
+F[u.j
+hhhkkknnnqqquuu
+vd^>
+xxxqqqrrrooollliii
+l9jD
+l9jD
+}^'jD
+l9jD
+h5jD
+k8jD
+VQC1h
+XP<jD
+lA\M.E\{.j
+UQE9c
+kkknnnqqqqqqrrr
+}|zywvts
+vut}|{zxw
+bN+_>
+~mmmtttrrrooolll
+l9jD
+l9jD
+l9jD
+i6jD
+IYm0i
+i6jD
+\M-B^
+MV_=a
+mmmppptttqqqooo
+xxwlllwwwtttqqqnnn
+l9jD
+l9jD
+l9jD
+i6jD
+l9jD
+HYnaJ
+[N2:b
+F[wjD
+g4jD
+gF	YO9B]
+HZq1i
+pppsssvvvssslll{zy}{zrpo
+~vts
+`_^}||mmmzzzwwwtttqqq
+l9jD
+l9jD
+j7jD
+l9jD
+ZN4dH
+VP@JXh=a
+g4jD
+KXgUy
+rrruuuyyyvvvhhh
+zxwbZLZ<
+oookkk}}}zzzvvvsss
+l9jD
+l9jD
+l9jD
+l9jD
+i6jD
+_K$D\
+g4jD
+uuuxxx{{{wwweeezzy
+~}sqp
+ykY;
+alula
+wvuk
+`_^lkklll
+|||yyy
+l9jD
+l9jD
+k8jD
+k8jD
+l9jD
+k8jD
+WP>@_
+_b_aJ
+wwwzzz~~~
+~|kbTY;
+iiiqqq
+l9jD
+l9jD
+g4jD
+j7jD
+j7jD
+l9jD
+]L)2h
+LWcdH
+yyy}}}
+dddiihsrpnlk
+pnmvtsrpo}{zvqjW:
+ggf^^^yyy
+l9jD
+k8jD
+h5jD
+l9jD
+h5jD
+_K#LWd>`
+]M,hE
+iiitttwvu
+~}]C
+~}ZZZ
+l9jD
+h5jD
+l9jD
+l9jD
+l9jD
+JXhJXh[M0\M.eG
+uuu[[[
+pon}|zrpo
+[J-^B
+{{xu
+kkk^^^
+l9jD
+k8jD
+g4jD
+zOjD
+GZs0i
+OUYIYkOUX:b
+SSMURFjD
+WWWuut
+}{y|zyytmaF
+tLny
+}}ui
+x|uh
+{pxrgzp_kaNe[G\P:NC,UOB
+ihg[[[kkk
+l9jD
+l9jD
+vGjD
+l9jD
+nCSSMF[u'n
+F[u0i
+NV]A^
+HZo9c
+IYlYO7jD
+```nnnnml
+omltrqpon{zy
+vhOeJ
+_)xW
+jbRZXU
+}|[YYzyySSS
+l9jD
+l9jD
+l9jD
+l9jD
+k8jD
+vGjD
+l9jD
+l9jD
+]L*9d
+HZo9c
+wwwSSS
+jih~|{nmk
+raCjO
+`)zY wW
+k_GfaW
+~iiiYYY
+l9jD
+l9jD
+b+jD
+h5jD
+l9jD
+gF	OUYC]
+TTTrrr
+}|jhgonlwut
+whMoT%qV%sW%vX%xZ%z[%|\%~^'
+_)|]%z[%xZ%vY%tW%rV%oU%mS%jQ%gP%eN$bM$rcGmeV
+_^]{zy\\[OOOttt
+l9jD
+l9jD
+b+jD
+l9jD
+l9jD
+]M,Mj
+kkkUUU
+soX/u[+w\+y]+{^+}_+~`+
+a+~`+}_+{^+z]+x\+v[+tZ+rX+oW+nY1}oTzqa
+xwvbbbSSS
+l9jD
+l9jD
+b+jD
+h5jD
+}^'jD
+b+jD
+l9jD
+dW<>`
+SSSvvulkj
+mM{a3}b3
+d3~c3|b3tfI{c9weG
+j}xp
+{zy~~}NNNxxx
+l9jD
+l9jD
+b+jD
+i6jD
+f3jD
+l9jD
+SSL<a
+xxxUUU
+mBwxv_
+```TTT
+l9jD
+l9jD
+b+jD
+i6jD
+l9jD
+YYYnnn
+xxxNNN
+b+jD
+l9jD
+~_(jD
+i6jD
+l9jD
+QQQfff
+l9jD
+b+jD
+l9jD
+l9jD
+xxxTTT
+cccTTT
+vGjD
+vGjD
+yNjD
+gggVVV
+nmmNNN
+bbbVVV
+oooNNN
+cccVVV
+tttNNN
+cccWWW
+dddNNN
+lllNNN
+VVVVVV
+NNNqqq
+NNNfff
+^^^NNN
+^^^NNN
+WWWNNN
+^^^NNNqqq
+WWWNNNjjj
+NNNNNNrrr
+l9jD
+l9jD
+}}}NNNNNN^^^
+iiiNNNNNNaaa
+lllNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNccc
+wrapper
+wrapper
+GCC: (Debian 4.7.2-5) 4.7.2
+.shstrtab
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rel.dyn
+.rel.plt
+.init
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.data.rel.ro
+.dynamic
+.got
+.got.plt
+.data
+.bss
+.comment

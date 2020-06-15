@@ -1,0 +1,1283 @@
+!This program cannot be run in DOS mode.
+.text
+`.data
+.bss
+.idata
+.rsrc
+/dev/null
+Volume `%s' does not match `%s'
+Error is not recoverable: exiting now
+ Volume [1-9]*
+Archive not labelled to match `%s'
+%s Volume 1
+Cannot open %s
+Cannot update compressed archives
+Cannot verify compressed archives
+Cannot use multi-volume compressed archives
+Cannot verify stdin/stdout archive
+Cannot verify multi-volume archives
+Could not allocate memory for blocking factor %d
+No archive name given
+Invalid value for record_size
+UWVS
+[^_]
+%s Volume %d
+Write checkpoint %d
+UWVS
+gfffF
+[^_]
+8/tG
+8/t:
+$j @
+Only wrote %lu of %lu bytes to %s
+Cannot write to %s
+Total bytes written: 
+%llu
+$p'@
+Read error on %s
+Too many errors, quitting
+At beginning of tape, quitting now
+$0)@
+Archive %s EOF not on block boundary
+Only read %lu bytes from archive %s
+Record size = %lu blocks
+This volume is out of sequence
+%s is the wrong size (%s != %s + %s)
+%s is not continued on this volume
+Reading %s
+WARNING: No volume header
+Read checkpoint %d
+UWVS
+gfffF
+$p*@
+[^_]
+;\$4r|w
+;L$0rt
+$P+@
+$s+@
+WARNING: Cannot close %s (%d, %d)
+t$()
+Could not backspace archive file; it may be unreadable without -i
+$p5@
+Child died with signal %d%s
+ (core dumped)
+Child returned status %d
+WARNING: Cannot truncate %s
+t^@u
+Prepare volume #%d for %s and hit return: 
+No new volume; exiting.
+WARNING: Archive is incomplete
+Cannot fork!
+SHELL
+Cannot exec a shell %s
+/bin/sh
+ n [name]   Give a new file name for the next (and subsequent) volume(s)
+ q          Abort tar
+ !          Spawn a subshell
+ ?          Print this list
+EOF where user reply was expected
+/dev/tty
+UWVS
+[^_]
+$p:@
+D$0<
+T$1< t5<	t1
+$	;@
+$0;@
+Cannot close file #%d
+tar (child)
+(child) Pipe to stdin
+Cannot properly duplicate %s
+((child)) Pipe to stdout
+Cannot exec %s
+tar (grandchild)
+(grandchild) Pipe to stdin
+Cannot read from compression program
+Cannot open archive %s
+Cannot close descriptor %d
+Child cannot fork
+Cannot open pipe
+Archive to stdout
+Cannot fork
+UWVS
+|[^_]
+$0F@
+$UF@
+$lF@
+$lF@
+\$ 1
+$lF@
+$UF@
+$lF@
+(child) Pipe to stdout
+((child)) Pipe to stdin
+(grandchild) Pipe to stdout
+Write to compression program short %lu bytes
+Cannot write to compression program
+Archive to stdin
+UWVS
+[^_]
+$JU@
+$aU@
+$|U@
+$UF@
+$lF@
+$lF@
+l$01
+$lF@
+$UF@
+$lF@
+Unknown file type '%c' for %s, diffed as normal file
+Not a regular file
+%s: %s
+Mode differs
+Uid differs
+Gid differs
+Mod time differs
+Error while closing %s
+Unexpected EOF on archive file
+Cannot open %s
+Size differs
+Cannot stat file %s
+File does not exist
+No longer a directory
+Not linked to %s
+Does not exist
+Symlink differs
+Cannot read link %s
+No such file or directory
+Mode or device-type changed
+Device numbers changed
+Cannot seek to %s in file %s
+Cannot open file %s
+Verify 
+UWVS
+[^_]
+$%d@
+$@d@
+$Md@
+$Yd@
+$ed@
+$vd@
+$@d@
+$	e@
+$)e@
+$9e@
+$Me@
+$ge@
+D$,`|@
+Could not rewind archive file for verify
+VERIFY FAILURE: %d invalid header(s) detected
+Could not allocate memory for diff buffer of %lu bytes
+Error is not recoverable: exiting now
+$Py@
+Could only read %lu of %lu bytes
+Cannot read %s
+Data differs
+$p|@
+t$ 9
+Memory exhausted
+UWVS
+9l$0s9
+;\$0
+9l$0
+D$4r
+D$,w
+|$,9
+D$,1
+D$()l$8
+[^_]
+$p|@
+$p|@
+[^_]
+%s value %s too large (max=%s); substituting %s
+%s value %s too large (max=%s)
+UWVS
+L$,w*
+9|$Lr
+9t$Hw
+T$(K
+T$,t
+T$@!
+[^_]
+mode_t
+uid_t
+gid_t
+off_t
+time_t
+././@LongLink
+Removing leading `/' from absolute path names in the archive
+UWVS
+usta
+A Santa lives evil at NASA
+[^_]
+usta
+D$,)
+T$,)
+uintmax_t
+    
+    
+<Kt <Lt
+Cannot add file %s
+%s: is unchanged; not dumped
+%s: Unknown file type; file ignored
+major_t
+minor_t
+Cannot remove %s
+%s: On a different filesystem; not dumped
+Cannot open directory %s
+Cannot add directory %s
+size_t
+%s: file changed as we read it
+%s: close
+%s: fstat
+File %s shrunk by %s bytes, padding with zeros
+Read error at byte %s, reading %lu bytes, in file %s
+Removing leading `/' from absolute links
+%s is the archive; not dumped
+God A red nugget A fat egg under a dog
+UWVS
+[^_]
+3tO=
+4tF=
+6t==
+Do nine men interpret Nine men I nod
+|$D1
+;T$XrN
+l$`1
+L$\)
+|$\)
+t$<t
+9t$l|
+9D$h
+t";\$t
+;\$t~
+;D$t
+;t$t
+|$,9|$l
+T$(9T$h
+|$|)
+uG@=
+u;@=
+Borrow or rob
+[^_]
+lseek error at byte %s in file %s
+Wrote %s of %s bytes to file %s
+UWVS
+[^_]
+)\$(
+)T$(
+)L$(
+Could not re-position archive file
+Error is not recoverable: exiting now
+Deleting non-header from archive
+This does not look like a tar archive
+Skipping to next header
+[^_]
+9t$d|
+\$h9\$`r
+L$d1
+9\$L|
+t$P9t$Hr
+L$L1
+9\$4|
+t$89t$0r
+L$41
+\$ 9\$
+L$41
+L$L1
+L$d1
+9\$||
+9t$xr
+L$|1
+L$|1
+%s: Could not create file
+%s: Error while closing
+%s: Could only write %lu of %lu bytes
+%s: Could not write to file
+Unexpected EOF on archive file
+Extracting contiguous files as regular files
+%s: Could not create directory
+Added write and execute permission to directory %s
+%s: Cannot change mode to %04lo
+%s: Could not link to `%s'
+%s: Could not create symlink to `%s'
+%s: Could not make node
+%s: Could not make fifo
+Visible long name error
+Cannot extract `%s' -- file is continued from another volume
+Unknown file type '%c' for %s, extracted as normal file
+Reading %s
+%s: Was unable to backup this file
+Removing leading `/' from absolute path names in the archive
+extract
+UWVS
+D$41
+|$;S
+|$;7
+[^_]
+|$;S
+D$H9
+|$L1
+|$;D
+%s: Cannot lchown to uid %lu gid %lu
+%s: Cannot chown to uid %lu gid %lu
+Beeb
+%s: Could not change access and modification times
+UWVS
+,[^_]
+%s: Cannot change owner to uid %lu, gid %lu
+UWVS1
+</tP<.
+[^_]
+%s: Could only write %s of %s bytes
+%s: lseek error at byte %s
+UWVS
+T$(+
+[^_]
+Cannot stat %s
+Directory %s has been renamed
+Directory %s is new
+Cannot open directory %s
+UWVS
+;t$,
+t$81
+9D$|}
+t$T1
+;t$,r
+D$,d
+[^_]
+UWVS
+,[^_]
+,[^_]
+%lu %lu %s
+Cannot write to %s
+ [^_
+Cannot chdir to %s
+UWVS
+l[^_]
+Error while deleting %s
+%s: Deleting %s
+delete
+Unexpected EOF in archive
+Memory exhausted
+Error is not recoverable: exiting now
+UWVS
+,[^_]
+,[^_]
+Inode number out of range
+Device number out of range
+Eleele
+Cannot open %s
+File name %s/%s too long
+Could not get current directory
+UWVS
+[^_]
+Omitting %s
+block %s: ** Block of NULs **
+block %s: ** End of File **
+Hmm, this doesn't look like a tar archive
+Skipping to next file header
+WVS1
+<5tT
+`[^_
+Only wrote %lu of %lu bytes to file %s
+EOF in archive file
+UWVS1
+[^_]
+Unexpected EOF on archive file
+Memory exhausted
+Error is not recoverable: exiting now
+UWVS
+D$,1
+;\$,t
+;|$,
+D$(`
+D$(p
+[^_]
+ustar
+ustar  
+[^_]
+l$$	
+Header contains "%.*s" where octal %s value expected
+Octal value `%.*s' is out of range for %s
+Blanks in header where octal %s value expected
+UWVS
+[^_]
+|$<9|$4w
+l$89l$0w
+gid_t
+major_t
+minor_t
+mode_t
+off_t
+time_t
+uid_t
+t$$O
+%4d-%02d-%02d %02d:%02d:%02d
+%s %s/%s %*s%s %s
+ -> %s
+ link to %s
+uintmax_t
+--Continued at byte %s--
+--Mangled file names--
+ unknown file type `%c'
+--Volume Header--
+%lu,%lu
+Visible longname error
+block %s: 
+UWVS
+[^_]
+size_t
+Creating directory:
+%s %*s %.*s
+UWVS
+D$@d
+t$A%
+L$Bf
+\[^_]
+Memory exhausted
+Error is not recoverable: exiting now
+Rename 
+Symlink 
+ to 
+Symlinked %s to %s
+Cannot symlink %s to %s
+Unknown demangling command %s
+Renamed %s to %s
+Cannot rename %s to %s
+Unexpected EOF in mangled names
+UWVS
+$0 A
+\$()
+,[^_]
+$l A
+UWV1
+[^_]
+<\t,9
+UWVS
+[^_]
+ts<.tU
+Renaming previous `%s' to `%s'
+%s: Cannot rename for backup
+Virtual memory exhausted
+Error is not recoverable: exiting now
+$0+A
+$P+A
+Renaming `%s' back to `%s'
+%s: Cannot rename from backup
+Cannot change to directory %s
+Error is not recoverable: exiting now
+Missing file name after -C
+T$0!
+[^_]
+$00A
+$V0A
+$00A
+t>;50
+$V0A
+$00A
+Could not get current directory
+L$ 1
+<*t:<[t6<?t2
+[^_]
+$05A
+$00A
+$V0A
+$00A
+UWVS
+[^_]
+$00A
+$00A
+%s/%s
+\$ u
+Cannot open file %s
+$00A
+%s: Not found in archive
+$9@A
+$9@A
+$00A
+/etc/rmt
+Cannot execute remote shell
+/usr/bin/rsh
+[^_]
+$dBA
+UWVS
+l[^_]
+R%lu
+UWVS
+[^_]
+W%lu
+UWVS
+[^_]
+UWVS
+[^_]
+UWVS1
+[^_]
+UWVS
+L$$1
+Degas are we not drawn onward no In union drawn onward to new eras aged
+T$ 1
+|[^_]
+absolute-names
+absolute-paths
+after-date
+append
+atime-preserve
+backup
+block-compress
+block-number
+block-size
+blocking-factor
+catenate
+checkpoint
+compare
+compress
+concatenate
+confirmation
+create
+delete
+dereference
+diff
+directory
+exclude
+exclude-from
+extract
+file
+files-from
+force-local
+group
+gunzip
+gzip
+help
+ignore-failed-read
+ignore-zeros
+incremental
+info-script
+interactive
+keep-old-files
+label
+list
+listed-incremental
+mode
+modification-time
+multi-volume
+new-volume-script
+newer
+newer-mtime
+null
+no-recursion
+numeric-owner
+old-archive
+one-file-system
+owner
+portability
+posix
+preserve
+preserve-order
+preserve-permissions
+recursive-unlink
+read-full-blocks
+read-full-records
+record-number
+record-size
+remove-files
+rsh-command
+same-order
+same-owner
+same-permissions
+show-omitted-dirs
+sparse
+starting-file
+suffix
+tape-length
+to-stdout
+totals
+touch
+uncompress
+ungzip
+unlink-first
+update
+use-compress-program
+verbose
+verify
+version
+version-control
+volno-file
+c:/progra~1/Tar/share/locale
+You must specify one of the `-Acdtrux' options
+Try `%s --help' for more information.
+Error exit delayed from previous errors
+$ UA
+Options `-%s' and `-%s' both want standard input
+/dev/tty
+%s %s?
+Cannot read confirmation from user
+Error is not recoverable: exiting now
+$NXA
+$`XA
+SIMPLE_BACKUP_SUFFIX
+-01234567ABC:F:GK:L:MN:OPRST:UV:WX:Zb:cdf:g:hiklmoprstuvwxz
+Options `-[0-7][lmh]' not supported by *this* tar
+You may not specify more than one `-Acdtrux' option
+Invalid tape length
+Invalid date format `%s'
+More than one threshold date
+Conflicting compression options
+Invalid blocking factor
+Conflicting archive format options
+Invalid group given on option
+Memory exhausted
+Invalid mode given on option
+Invalid owner given on option
+Record size must be a multiple of %d.
+Invalid record size
+Obsolete option name replaced by --absolute-names
+Obsolete option, now implied by --blocking-factor
+Obsolete option name replaced by --blocking-factor
+Obsolete option name replaced by --block-number
+Obsolete option name replaced by --read-full-records
+Obsolete option name replaced by --touch
+Obsolete option name replaced by --backup
+--backup
+Cowardly refusing to create an empty archive
+Options `-Aru' are incompatible with `-f -'
+Multiple archive files requires `-M' option
+TAPE
+GNU features wanted on incompatible archive format
+POSIXLY_CORRECT
+GNU `tar' saves many files together into a single tape or disk archive, and
+can restore individual files from the archive.
+Usage: %s [OPTION]... [FILE]...
+If a long option shows an argument as mandatory, then it is mandatory
+for the equivalent short option also.  Similarly for optional arguments.
+Main operation mode:
+  -t, --list              list the contents of an archive
+  -x, --extract, --get    extract files from an archive
+  -c, --create            create a new archive
+  -d, --diff, --compare   find differences between archive and file system
+  -r, --append            append files to the end of an archive
+  -u, --update            only append files newer than copy in archive
+  -A, --catenate          append tar files to an archive
+      --concatenate       same as -A
+      --delete            delete from the archive (not on mag tapes!)
+Operation modifiers:
+  -W, --verify               attempt to verify the archive after writing it
+      --remove-files         remove files after adding them to the archive
+  -k, --keep-old-files       don't overwrite existing files when extracting
+  -U, --unlink-first         remove each file prior to extracting over it
+      --recursive-unlink     empty hierarchies prior to extracting directory
+  -S, --sparse               handle sparse files efficiently
+Tacocat
+  -O, --to-stdout            extract files to standard output
+  -G, --incremental          handle old GNU-format incremental backup
+  -g, --listed-incremental   handle new GNU-format incremental backup
+      --ignore-failed-read   do not exit with nonzero on unreadable files
+Handling of file attributes:
+      --owner=NAME             force NAME as owner for added files
+      --group=NAME             force NAME as group for added files
+      --mode=CHANGES           force (symbolic) mode CHANGES for added files
+      --atime-preserve         don't change access times on dumped files
+  -m, --modification-time      don't extract file modified time
+      --same-owner             try extracting files with the same ownership
+      --numeric-owner          always use numbers for user/group names
+  -p, --same-permissions       extract all protection information
+      --preserve-permissions   same as -p
+  -s, --same-order             sort names to extract to match archive
+      --preserve-order         same as -s
+      --preserve               same as both -p and -s
+Device selection and switching:
+  -f, --file=ARCHIVE             use archive file or device ARCHIVE
+      --force-local              archive file is local even if has a colon
+      --rsh-command=COMMAND      use remote COMMAND instead of rsh
+  -[0-7][lmh]                    specify drive and density
+  -M, --multi-volume             create/list/extract multi-volume archive
+  -L, --tape-length=NUM          change tape after writing NUM x 1024 bytes
+  -F, --info-script=FILE         run script at end of each tape (implies -M)
+      --new-volume-script=FILE   same as -F FILE
+      --volno-file=FILE          use/update the volume number in FILE
+Device blocking:
+  -b, --blocking-factor=BLOCKS   BLOCKS x 512 bytes per record
+      --record-size=SIZE         SIZE bytes per record, multiple of 512
+  -i, --ignore-zeros             ignore zeroed blocks in archive (means EOF)
+  -B, --read-full-records        reblock as we read (for 4.2BSD pipes)
+Archive format selection:
+  -V, --label=NAME                   create archive with volume name NAME
+              PATTERN                at list/extract time, a globbing PATTERN
+  -o, --old-archive, --portability   write a V7 format archive
+      --posix                        write a POSIX conformant archive
+  -z, --gzip, --ungzip               filter the archive through gzip
+  -Z, --compress, --uncompress       filter the archive through compress
+      --use-compress-program=PROG    filter through PROG (must accept -d)
+Local file selection:
+  -C, --directory=DIR          change to directory DIR
+  -T, --files-from=NAME        get names to extract or create from file NAME
+      --null                   -T reads null-terminated names, disable -C
+      --exclude=PATTERN        exclude files, given as a globbing PATTERN
+  -X, --exclude-from=FILE      exclude globbing patterns listed in FILE
+  -P, --absolute-names         don't strip leading `/'s from file names
+  -h, --dereference            dump instead the files symlinks point to
+      --no-recursion           avoid descending automatically in directories
+  -l, --one-file-system        stay in local file system when creating archive
+  -K, --starting-file=NAME     begin at file NAME in the archive
+  -N, --newer=DATE             only store files newer than DATE
+      --newer-mtime            compare date and time when data changed only
+      --after-date=DATE        same as -N
+      --backup[=CONTROL]       backup before removal, choose version control
+      --suffix=SUFFIX          backup before removel, override usual suffix
+Informative output:
+      --help            print this help, then exit
+      --version         print tar program version number, then exit
+  -v, --verbose         verbosely list files processed
+      --checkpoint      print directory names while reading the archive
+      --totals          print total bytes written while creating archive
+  -R, --block-number    show block number within archive with each message
+  -w, --interactive     ask for confirmation for every action
+      --confirmation    same as -w
+The backup suffix is `~', unless set with --suffix or SIMPLE_BACKUP_SUFFIX.
+The version control may be set with --backup or VERSION_CONTROL, values are:
+  t, numbered     make numbered backups
+  nil, existing   numbered if numbered backups exist, simple otherwise
+  never, simple   always make simple backups
+GNU tar cannot read nor produce `--posix' archives.  If POSIXLY_CORRECT
+is set in the environment, GNU extensions are disallowed with `--posix'.
+Support for POSIX is only partially implemented, don't count on it yet.
+ARCHIVE may be FILE, HOST:FILE or USER@HOST:FILE; and FILE may be a file
+or a device.  *This* `tar' defaults to `-f%s -b%d'.
+Report bugs to <tar-bugs@gnu.org>.
+1.13
+tar (GNU %s) %s
+Copyright (C) 1988, 92,93,94,95,96,97,98, 1999 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Written by John Gilmore and Jay Fenlason.
+Old option `%c' requires an argument.
+D$p-
+$ ZA
+alula
+$`ZA
+t$h1
+$@[A
+$`[A
+\$d1
+\$\1
+\$T1
+$ \A
+$F\A
+$`\A
+$ ]A
+$`]A
+[^_]
+$ ^A
+|$,9
+\$,9
+$`^A
+$@_A
+$`sA
+$ xA
+$JxA
+$`xA
+$`yA
+;t$@s
+Cannot stat %s
+This does not look like a tar archive
+Skipping to next header
+p[^_
+T$\9
+%s: File shrunk by %s bytes, (yark!)
+Error is not recoverable: exiting now
+Read error at byte %s reading %lu bytes in file %s
+Cannot open file %s
+UWVS
+9L$4
+9D$0s
+)|$0
+T$4H
+[^_]
++T$0
+Memory exhausted
+[^_]
+: %s
+%s: 
+%s:%d: 
+UWVS
+t$<t
+[^_]
+UWVS
+[^_]
+UWVS1
+[^_]
+UWVS
+<[^_]
+T$0f
+literal
+shell
+shell-always
+escape
+UWVS
+;t$4s
+;|$<
+;t$4s
+;t$4s
+'F;t$4s
+\F;t$4s
+a;t$4
+;t$4s
+\F;t$4s
+F;t$4s
+;t$4s
+>F;t$4s
+[^_]
+;|$<t
+;t$4s
+UWVS
+l$09-`
+[^_]
+UWVS
+[^_]
+</t$1
+.~%d~
+UWVS
+[^_]
+UWVS
+[^_]
+<3.t
+none
+simple
+never
+existing
+numbered
+VERSION_CONTROL
+$VERSION_CONTROL
+xstrtol.c
+0 <= strtol_base && strtol_base <= 36
+UWVS
+[^_]
+t$X1
+t$H1
+t$01
+t$ 1
+T$t1
+t$x1
+t$h1
+parse error
+parser stack overflow
+WVS1
+L$8f
+[^_]
+t?;t$8t
+l$(~
+january
+february
+march
+april
+june
+july
+august
+september
+sept
+october
+november
+december
+sunday
+monday
+tuesday
+tues
+wednesday
+wednes
+thursday
+thur
+thurs
+friday
+saturday
+year
+month
+fortnight
+week
+hour
+minute
+second
+tomorrow
+yesterday
+today
+last
+this
+next
+first
+third
+fourth
+fifth
+sixth
+seventh
+eighth
+ninth
+tenth
+eleventh
+twelfth
+ahst
+idlw
+mewt
+mest
+mesz
+wast
+wadt
+east
+eadt
+nzst
+nzdt
+idle
+(u91
+0[^_
+L$#9
+UWVS
+[^_]
+t$lu
+t$`	
+t$h	
+T$$	
+L$d	
+|$(t
+|$l)
+a.m.
+p.m.
+UWVS
+[^_]
+<.tT
+xstrtol.c
+0 <= strtol_base && strtol_base <= 36
+UWVS
+L[^_]
+T$D1
+L$D1
+L$D1
+9D$Dt
+L$D1
+L$D1
+9D$Dt
+L$D1
+L$D1
+9D$Dt
+L$D1
+L$D1
+9D$Dt
+L$D1
+L$D1
+9D$Dt
+L$D1
+L$D1
+9D$Dt
+L$D1
+L$D1
+9D$Dt
+L$D1
+L$D1
+9D$Dt
+L$D1
+xstrtol.c
+0 <= strtol_base && strtol_base <= 36
+T$D1
+L$D1
+9D$D
+L$D1
+9D$D
+L$D1
+9D$D
+L$D1
+9D$D
+L$D1
+9D$D
+L$D1
+9D$D
+L$D1
+9D$D
+L$D1
+9D$D
+L$D1
+ambiguous argument `%s' for `%s'
+invalid argument `%s' for `%s'
+Valid arguments are:
+  - `%s'
+, `%s'
+UWVS
+,[^_]
+UWVS
+,[^_]
+UWVS
+Z[^_]
+UWVS1
+L$<9
+L$4C
+[^_]
+AUWVS
+L$L1
+D$0M!
+L$8~
+D$X;
+D$<1
+L$l;L$d
+L$\t
+[^_]
+;L$`t
+9D$Dt
+D$D9
+9T$0tK
+|$X)
+D$X)
+)|$8
+\$8)
+L$h)
+UWVS
+[^_]
+*tc1
+[^_]
+<\t%
+ [^_]
+POSIXLY_CORRECT
+%s: option `%c%s' doesn't allow an argument
+%s: option `--%s' doesn't allow an argument
+%s: option `%s' requires an argument
+%s: unrecognized option `%c%s'
+%s: unrecognized option `--%s'
+%s: option requires an argument -- %c
+%s: option `-W %s' doesn't allow an argument
+%s: option `-W %s' is ambiguous
+%s: illegal option -- %c
+%s: invalid option -- %c
+%s: option `%s' is ambiguous
+8-t(
+[^_]
+@Vh 
+@Wh`
+8-t-
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+ResolveLink
+%s: Could not initialize OLE interface
+%s: Could not get path to link target %s
+%s: Could not resolve link %s
+%s: Could not load shortcut %s
+%s: Unicode translation failed%ld
+%s: CoCreateInstance failed
+v(Wh
+ShpoB
+1Ph`QB
+.lnk
+XZh\
+\\.\
+pipef
+KERNEL32
+CreateHardLinkA
+CreateLink
+%s: Could not initialize OLE interface
+%s: Unicode translation failed%ld
+%s: QueryInterface failed
+%s: CoCreateInstance failed
+v+Ph
+QhpoB
+V$XZP
+Ph`QB
+Yx4P
+.lnk
+u!+}
+~)QV
+HOME
+SHELL
+COMSPEC
+$` B
+hi B
+ho B
+HOME
+SHELL
+COMSPEC
+hP!B
+hY!B
+h_!B
+.lnk
+PSVj
+:tl1
+<\t$B
+<\t$B
+<\t8B
+Y_PV
+t5Ph
+RPSW
+CFJu
+CFJu
+=sRUj
+=sRQj
+=sRWj
+=sRRj
+=sRTj
+=sRSj
+	CPf
+@Gp@3
+@Gp@
+FBJ7<
+'1nD
+&7%D,3
+h	7p@8I
+h	7	
+k7E8
+F0:s
+@Qm6t
+FAJ7<
+=sRU
+$@XB
+$@XB
+-LIBGCCW32-EH-SJLJ-GTHR-MINGW32
+Q4_]
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+AAAA
+WVSQ
+[^_]
+,[^_]
+uE;}
+,[^_]
+uE;}
+,[^_]
+uE;}
+UWVS
+|$H$~
+,[^_]
+t$@1
+;D$H
+;l$H
+9T$$wNr
+9D$ wF
+;t$$r
+;\$ s
+libintl_bindtextdomain
+libintl_gettext
+libintl_textdomain
+GetUserNameA
+AddAtomA
+BackupWrite
+CloseHandle
+CopyFileA
+CreateFileA
+CreateNamedPipeA
+ExitProcess
+FindAtomA
+FindClose
+FindFirstFileA
+FindNextFileA
+GetAtomNameA
+GetBinaryTypeA
+GetFileAttributesA
+GetFileInformationByHandle
+GetFileType
+GetFullPathNameA
+GetLastError
+GetProcAddress
+GetShortPathNameA
+GetSystemInfo
+GetSystemTimeAsFileTime
+LoadLibraryA
+MoveFileA
+MultiByteToWideChar
+SetEndOfFile
+SetFileTime
+SetUnhandledExceptionFilter
+lstrcpyA
+_chdir
+_chmod
+_close
+_creat
+_dup
+_execl
+_execlp
+_getcwd
+_open
+_read
+_rmdir
+_strdup
+_umask
+_write
+__getmainargs
+__mb_cur_max
+__p__environ
+__p__fmode
+__p__pgmptr
+__set_app_type
+_access
+_assert
+_cexit
+_chmod
+_errno
+_fileno
+_get_osfhandle
+_iob
+_isctype
+_lseeki64
+_mkdir
+_onexit
+_open_osfhandle
+_pctype
+_pipe
+_setmode
+_stricmp
+_strnicmp
+_unlink
+abort
+atexit
+atoi
+atol
+calloc
+exit
+fclose
+ferror
+fflush
+fgets
+fopen
+fprintf
+fputc
+fputs
+free
+fscanf
+fwrite
+getc
+getenv
+gmtime
+localtime
+malloc
+mbstowcs
+memcpy
+memset
+printf
+putc
+realloc
+setlocale
+signal
+sprintf
+strcat
+strchr
+strcmp
+strcpy
+strerror
+strlen
+strncmp
+strncpy
+strrchr
+strstr
+strtol
+strtoul
+system
+time
+tolower
+toupper
+vfprintf
+CoCreateInstance
+CoUninitialize
+OleInitialize
+libintl-2.dll
+ADVAPI32.DLL
+KERNEL32.dll
+msvcrt.dll
+msvcrt.dll
+OLE32.dll

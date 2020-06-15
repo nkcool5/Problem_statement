@@ -1,0 +1,6447 @@
+/lib64/ld-linux-x86-64.so.2
+libpthread.so.0
+_ITM_deregisterTMCloneTable
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+pthread_self
+sem_timedwait
+__errno_location
+sem_post
+sem_destroy
+pthread_create
+sem_init
+sem_trywait
+sem_wait
+librt.so.1
+__gmon_start__
+clock_gettime
+libc.so.6
+strcpy
+__printf_chk
+exit
+_IO_putc
+fopen
+perror
+ftell
+signal
+strncpy
+__stack_chk_fail
+putchar
+stdin
+isatty
+fgets
+strlen
+memset
+strstr
+tcsetattr
+fseek
+memcmp
+__fprintf_chk
+stdout
+fputs
+memcpy
+fclose
+__vsnprintf_chk
+strtoul
+malloc
+strcat
+__ctype_b_loc
+sscanf
+stderr
+strncat
+usleep
+fwrite
+fread
+gettimeofday
+__memcpy_chk
+strchr
+__vfprintf_chk
+tcgetattr
+__ctype_toupper_loc
+__strcpy_chk
+__ctype_tolower_loc
+memmove
+_IO_getc
+strcmp
+__libc_start_main
+stpcpy
+free
+GLIBC_2.2.5
+GLIBC_2.14
+GLIBC_2.4
+GLIBC_2.3.4
+GLIBC_2.3
+%zL(
+%rL(
+%jL(
+%bL(
+%ZL(
+%RL(
+%JL(
+%BL(
+%:L(
+%2L(
+%*L(
+%"L(
+%zK(
+%rK(
+%jK(
+%bK(
+%ZK(
+%RK(
+%JK(
+%BK(
+%:K(
+%2K(
+%*K(
+%"K(
+[]A\
+59p(
+=*g(
+=4o(
+MAIN
+=pl(
+=AV(
+ATUS
+5oU(
+[]A\
+AWAVI
+AUATE1
+alula
+5iT(
+([]A\A]A^A_
+[]A\A]A^A_
+=iS(
+=TS(
+5!S(
+5iR(
+5hQ(
+5WQ(
+ATUSH
+`tSH
+[]A\
+AUAT
+D$(1
+L$(dH3
+8[]A\A]
+=)O(
+AWAVAUATI
+D$81
+L$8dH3
+H[]A\A]A^A_
+tlE1
+$t`I
+FACPt
+=lL(
+D$81
+D$ H
+D$$H
+T$8dH3
+AUAT1
+={Q(
+d$p1
+D$x@fh
+T$ 1
+|$01
+t$ H
+D$0 
+[]A\A]
+=~d(
+T$PH
+AVUI
+=kC(
+]A\A]A^
+[]A\
+=fB(
+[]A\
+AUATA
+D$x1
+D$0H
+D$(D
+\$PH
+T$ 1
+D$hH
+L$xdH3
+[]A\A]
+wwww
+ATUSH
+ []A\
+AWAVAUATUSH
+D$h1
+t$hdH34%(
+x[]A\A]A^A_
+ tTA
+AWPA
+AZA[D
+QAVD
+L$(D
+=9((
+QAVD
+AXAY
+t$XD
+D$XH
+L$ H
+L$ D
+L$ H
+=)&(
+T$H1
+D:Q u
+L9D$
+H9T$
+|$HD)
+L$@D
+T$8D
+\$0L
+L$(L
+D$ L
+L$(D
+\$0D
+T$8H
+T$OD
+\$@L
+L$8H
+5  (
+D$0H
+L$(L
+D$0L
+L$8H
+t$ L+
+L$(D
+\$@D
+L$ D
+RAVL
+=3#(
+H9T$
+=%"(
+D$\H
+D$XH	
+T$ D
+T$ D
+T$ D
+T$ D
+[]A\
+[]A\
+[]A\
+Inte
+INTL
+AcpiExec
+=DSDTt.=OEM9t
+AVAUATUSH
+FACPt
+DSDT
+FACP
+DSDTu
+$@ch
+RSD PTR D
+Inte
+=W#(
+FACS
+TEST
+BAD!
+]A\A]A^
+]A\A]A^
+D$81
+L$8dH3
+ATUSH
+[]A\
+AWAV
+AUATUSH
+D$Xtg1
+|$0H
+L$P1
+t$PH
+|$8H
+L$P1
+|$@H
+L$P1
+t$PH
+|$HH
+L$P1
+t$PH
+[]A\A]A^A_
+t$PH
+|$P1
+L$`1
+t$pH
+t$PH
+D$hL
+l$ A
+L9l$
+L9|$
+l$ H
+\$(H
+0<	w51
+AUATA
+[]A\A]
+ATUH
+ []A\
+;*t>H
+ATUI
+[]A\D
+[]A\
+ATUI
+[]A\
+[]A\
+AWAVI
+AUATUSH
+([]A\A]A^A_
+t8< t
+AVAUI
+ATUI
+D$(1
+t$ L
+L$(dH3
+0[]A\A]A^
+AVAUATUH
+]A\A]A^
+D$h1
+0<	vwH
+D$hdH3
+AWAVAUATUSH
+]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+<$9_Xw
+AWAVAUATUSH
+D$x1
+D$ H
+ WVH
+D9c8
+D$xdH3
+[]A\A]A^A_
+AUAT1
+\$ H
+[]A\A]
+<\tN</tJ
+AVAUI
+ATUI
+[]A\A]A^
+AUATI
+T$ H
+D$,A;D$(
+A9\$Dv3H
+A;D$(A
+D$0t;I
+[]A\A]
+|$,I
+AWAVAUATUSH
+_PLD
+([]A\A]A^A_
+AVAUATUI
+ []A\A]A^
+ATUSH
+[]A\
+AWAVAUATI
+[]A\A]A^A_
+ATUS
+[]A\
+AWAVAUATI
+[]A\A]A^A_
+< t@<(t|<[
+AWAVAUATI
+([]A\A]A^A_
+t[ATUH
+H+U0I
+[]A\1
+AUATI
+<Lt#
+[]A\A]1
+[]A\A]
+[]A\A]
+[]A\A]
+AWAVAUATA
+[]A\A]A^A_
+F0E1
+D$(1
+|$(dH3<%(
+ATUA
+ []A\
+AUATI
+D$81
+L$8dH3
+H[]A\A]
+ATUI
+D$(1
+L$(dH3
+;_Xr
+[]A\
+[]A\
+AUAT1
+[]A\A]
+$____
+ATUSH
+ []A\
+uZAUATH
+[]A\A]1
+[]A\A]
+uZAUATH
+[]A\A]1
+[]A\A]
+t>S1
+9k,w
+ATUSH
+ATUI
+D$X1
+|$(H
+D$$H
+D$ H
+t$XdH34%(
+`[]A\
+AWAVAUATI
+L$0H
+T$ 1
+[]A\A]A^A_
+t$@H
+D$H1
+D$(H
+D$0H
+D$8H
+T$HdH3
+AWAVAUATUSH
+D$H1
+|$ H
+|$(H
+@wjH
+L$HdH3
+X[]A\A]A^A_
+D$8c
+D$(L
+l$0H
+t$4L
+|$8L
+D$ H
+t$4L
+D$(H
+l$0I
+D$ H
+D$(H
+AUATUSH
+[]A\A]
+[]A\A]
+ATUI
+[]A\
+[]A\H
+[]A\
+A9\$
+[]A\
+[]A\
+[]A\
+[]A\
+t<SH
+</t3<\u
+ZYu9H
+AUATI
+[]A\A]
+D$$H
+I+t$0
+D$(9
+@ugH
+[]A\A]
+AUATUSH
+([]A\A]
+AWAV
+AUATUSH
+[]A\A]A^A_
+AUATUSH
+[]A\A]
+=Dx'
+G(ATUSH
+[]A\
+[]A\
+_PLDu
+_PLDt
+_HIDt
+_CIDu
+N H9O u
+ATUH
+[]A\
+AUAT1
+[]A\A]
+}2	t=H
+[]A\A]
+E2	1
+K1 H
+K1 H
+AVAUATUH
+D$,L
+D$(H
+L; u
+]A\A]A^
+]A\A]A^
+]A\A]A^
+ATUSH
+%Em'
+D$(1
+L$(dH3
+0[]A\
+tmUSH
+.t^@
+/t@@
+-uVH
+8\t?
+	ATI
+=Bh'
+C1[]A\
+[]A\1
+[]A\1
+[]A\H
+[]A\1
+[]A\
+[]A\
+{([]A\
+x([]A\
+]A\H
+{([]A\
+[]A\
+__RDt
+AWAVAUATUSH
+D$(1
+__RDM
+T$'1
+0tlM
+D$'D
+0ti9l$
+D$(dH3
+8[]A\A]A^A_
+D$'D
+D$'D
+AUATA
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+AUATD
+[]A\A]
+AUATA
+@t`@
+[]A\A]
+[]A\A]
+USI9
+w#[]A\
+[]A\
+ATUA
+[]A\
+ATUA
+[]A\
+ATUA
+[]A\
+AUAT
+[]A\A]
+AUATI
+[]A\A]
+AWAVA
+AUAT1
+[]A\A]A^A_
+AVAUI
+[]A\A]A^
+AVAUI
+[]A\A]A^
+AVAUI
+[]A\A]A^
+AWAVD
+AUATI
+([]A\A]A^A_
+ATUA
+[]A\
+[]A\
+[]A\
+tYSH
+tYw6f
+AUATI
+[]A\A]
+tfAVI
+[]A\A]A^
+[]A\A]A^
+D$81
+D$4$
+D$8dH3
+AUATA
+=Qa'
+[]A\A]
+H+P01
+[]A\A]
+=WA'
+tif=
+[ucL
+AWAVI
+AUAT
+[]A\A]A^A_
+[]A\A]A^A_
+XZtAL
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+ATUH
+[]A\
+[]A\
+@t/H
+A[]H
+[]A\
+[]A\
+AYAZf
+@t.S
+@t'A
+AUATI
+[]A\A]
+[]A\A]
+AWAVI
+AUATI
+s(fA
+^_toI
+sdAU
+G8fA
+[]A\A]A^A_
+F(fA
+[]A\
+t$(H
+ATUI
+D$X1
+L$PH
+t$XdH34%(
+`[]A\
+t$(H
+AWAVI
+AUATI
+([]A\A]A^A_
+[tmf=
+ZYu[H
+AUATI
+D$X1
+D$(1
+XZuxI
+d$(H
+T$PH
+L$XdH3
+h[]A\A]
+AUATI
+D$H1
+t$(P
+D$ 1
+t$(P
+XZuhI
+T$@H
+L$HdH3
+X[]A\A]
+ATUH
+C<8E
+AUAT
+D$h1
+l$ 1
+8DSDT
+T$4H
+T$8R
+T$<R
+T$@R
+T$\R
+T$`R
+T$TR
+T$ORH
+D$0P1
+\$hdH3
+x[]A\A]
+Xt$H
+AUATI
+L$ E
+D$0j
+XZuPL
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+ATUH
+H+M0L
+[]A\
+[]A\
+AVAUI
+ATUI
+H;Q tWH
+[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+ATUI
+@uxH
+[]A\
+AWAVI
+AUAT
+|$51
+L$ j
+@t8I
+[]A\A]A^A_
+[]A\A]A^A_
+AXAY
+[]A\A]A^A_
+[]A\A]A^A_
+__A0
+__L0
+ATUH
+@uvH
+@unH
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+AUATI
+wXA9
+[]A\A]
+u/E1
+[]A\A]
+@t'A
+[]A\A]
+AVAUI
+ATUA
+ []A\A]A^
+AWAVAUATA
+D$(1
+L$ H
+T$ H
+\$(dH3
+8[]A\A]A^A_
+UATA
+@t.H
+Y^E1
+AUATI
+3t31
+[]A\A]
+x(D9
+[]A\A]
+AVAUI
+ATUA
+[]A\A]A^
+[]A\A]A^
+f=1[
+AUAT
+dH34%(
+([]A\A]
+@t;PI
+ZYE1
+AWAVAUATUSH
+D9l$
+|$ H
+([]A\A]A^A_
+D9l$
+PAU1
+[]A\A]A^A_
+ATUI
+t>E1
+[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+t@fA
+txfA
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+AUATI
+([]A\A]
+T$0t	
+ PATA
+AVAU
+ATUH
+[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+ATUI
+[]A\
+[]A\
+@uIH
+@tJH
+ATUI
+[]A\
+ATUI
+ATUI
+D$(1
+|$ H
+|$ H
+|$ H
+L$(dH3
+0[]A\
+t$(H
+D$(I
+|$ H
+t$(AX
+[t>f
+AWAVI
+AUAT
+D$H1
+AUAWA
+L$HdH3
+X[]A\A]A^A_
+AVAUA
+AUATI
+qtD1
+D$	 tiH
+[]A\A]
+D$(1
+|$ H
+|$ H
+L$(dH3
+|$ H
+ATUI
+-tP<
+[]A\
+,$E1
+[]A\
+AWAVI
+AUAT
+D$(D
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+J09H0
+@t1H
+AYAZI
+D$(H
+T$ H
+@t/ARATA
+A[A]H
+AVAT1
+WATA
+AXAY
+AWAV
+AUATI
+([]A\A]A^A_
+ARPA
+AXAYD
+|$ A_X
+AUAT
+[]A\A]
+[]A\A]
+[]A\A]
+t$`I
+|$XH
+D$(H
+D$ H
+D$(H
+D$(A
+t$`H
+t$ A
+ATUA
+t$`I
+|$XH
+t{rY
+O,1H
+AVAU
+ATUI
+ []A\A]A^
+} H;=
+AYAZ
+@t<L
+ATPA
+A[A\
+E E1
+AVAU
+t~fA
+[]A\A]A^
+AUATA
+SATA
+SATA
+t$`I
+|$XH
+@t>H
+AUAT
+t$`I
+|$XH
+[t<f=
+t$ A
+ATSA
+AUATA
+[]A\A]
+[]A\A]
+AYAZ%
+AUPA
+AUATUSH
+@uB1
+[]A\A]
+[]A\A]
+PAU1
+AUATUSH
+[]A\A]
+[]A\A]
+@t/SU
+@u1H
+@u?H
+tbAUATA
+[]A\A]
+AVAUI
+[]A\A]A^
+AWAVI
+AUATI
+l$PD
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\
+[]A\
+AVAU
+ATUSH
+[]A\A]A^
+[]A\
+[]A\
+[]A\
+AWAVAUATUSH
+D$81
+A9l$8
+|$0H
+l$4D"l$0t
+l$,E
+	D$(
+|$(D
+	D$(
+A9l$8
+T$8dH3
+H[]A\A]A^A_
+T$DR
+T$HR
+AWAVI
+AUATA
+D$81
+E;o8
+\$8dH3
+H[]A\A]A^A_
+|$ H
+|$(H
+l$ E1
+G8PUA
+G<E1
+AVAU
+ATUI
+D$8E1
+D$(H
+E9t$8w
+]A\A]A^
+]A\A]A^
+D$<E
+AUAT
+Y^E1
+[]A\A]
+_AXE1
+t5AT
+AUAT
+[]A\A]
+[]A\A]
+ZYu5D
+ATUS
+ []A\
+AVAU
+[]A\A]A^
+AUAT
+,$E1
+[]A\A]
+[]A\A]
+[]A\A]
+AWAV
+AUATI
+E9}8
+[]A\A]A^A_
+AUATUSH
+[]A\A]
+[]A\A]1
+]A\A]
+AUPA
+AWAVA
+AUATI
+tFH;
+[]A\A]A^A_
+T$(SAWAVP1
+[]A\
+[]A\
+AWAVAUATA
+k t	
+[]A\A]A^A_
+ATAU
+AWAVE
+AUATI
+D$(1
+} uhH
+L$ L
+T$(dH3
+8[]A\A]A^A_
+E&fA
+E&fA
+D$ I
+ATUA
+_REGH
+AUAT
+$tZD
+([]A\A]
+AWAV
+AUAT
+t<H9
+` H9
+[ H9
+[]A\A]A^A_
+ u)L
+ATUA
+D$h1
+D$hdH3
+p[]A\
+D$0H
+T$ 1
+=Fw&
+ATUI
+T$0E1
+T$(H
+ATUA
+AUAT
+,$E1
+([]A\A]
+D;/sjD
+ATUA
+AWAVD
+AUATA
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+D$(1
+ATU1
+St@H
+[]A\
+=}o&
+=8k&
+=!k&
+AWAVA
+AUATA
+([]A\A]A^A_
+=-|&
+AWAVI
+AUATA
+[]A\A]A^A_
+t"L9` u
+L;` 
+%yp&
+5zp&
+=pp&
+%gp&
+5hp&
+AVAU
+ATUA
+[]A\A]A^
+u*E1
+t$H9h 
+H;k tCH
+=ft&
+[]A\
+=Ys&
+t'H;j
+[]A\
+[]A\
+ATUI
+=tq&
+[]A\
+%Jp&
+[]A\
+AWAV
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUM
+ATUA
+[]A\A]A^
+AVAUM
+ATUA
+[]A\A]A^
+AUATA
+=2l&
+[]A\A]
+[]A\A]
+[]A\A]
+=Bk&
+tKUSH
+5gX&
+=zV&
+ []A\
+ []A\
+ []A\
+=&a&
+[]A\
+=X`&
+[]A\
+AUAT
+[]A\A]
+=6_&
+[]A\
+AVAU
+ATUA
+[]A\A]A^
+=<^&
+]A\A]A^
+[]A\A]A^
+AUAT
+=n\&
+[]A\A]
+A D$
+=x[&
+[]A\
+AUAT
+[]A\A]
+=vZ&
+=HZ&
+[]A\
+AVAUA
+ATUA
+[]A\A]A^
+9-mS&
+AWAVM
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAV
+AUATA
+txL;=i?&
+[]A\A]A^A_
+[]A\A]A^A_
+t!D:h
+AUP1
+[]A\A]A^A_
+`8L9s
+PAV1
+AUAT
+[]A\A]
+AUATUSH
+[]A\A]
+[]A\
+=TL&
+D$81
+L$8dH3
+@[]A\
+t$ H
+t$01
+D$(A
+t$01
+AWAV
+AUATI
+D$(1
+L$(dH3
+8[]A\A]A^A_
+#vJL
+|$ L
+AWAVI
+AUATI
+dH34%(
+([]A\A]A^A_
+ATUI
+ []A\
+ATUI
+[]A\
+=Q6&
+AWAVI
+AUATI
+[]A\A]A^A_
+=84&
+[]A\A]A^A_
+[]A\A]A^A_
+AUATI
+E	A9
+[]A\A]
+[]A\
+[]A\
+AWAVI
+AUAT
+t4E1
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUI
+]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+=a&&
+[]A\A]
+9C,w
+AUATI
+t$	@
+[]A\A]
+[]A\A]
+[]A\A]H
+[]A\A]
+t$,1
+A9\$,w
+[]A\A]
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_1
+[]A\A]A^A_
+T$	H
+[]A\A]A^A_1
+[]A\H
+[]A\1
+[]A\
+v(E1
+D9c,w
+[]A\
+[]A\
+[]A\H
+[]A\1
+[]A\1
+[]A\1
+[]A\
+A[[]A\
+AY[]A\
+[]A\
+XZ[]A\
+AWAVI
+AUAT
+[]A\A]A^A_
+UAVA
+[]A\A]A^A_
+[]A\A]A^A_
+C8P1
+AWAVI
+AUAT
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AVAU
+ATUPS1
+AVAU
+AWAVI
+AUAT
+[]A\A]A^A_
+AWAVA
+T$(A
+ RAT
+D$0AP
+t$4A
+AWAV
+AUATA
+D$81
+|$0D
+L$(I
+l$$A
+|$0I
+D$0D
+|$ H
+\$8dH3
+H[]A\A]A^A_
+D$ t)L
+AUATA
+([]A\A]
+AVAUA
+ATUI
+D$(1
+t$(dH34%(
+0[]A\A]A^
+ PAUI
+PAT1
+T$ 1
+L#t$ L	t$
+AWAV
+AUATA
+D$81
+\$8dH3
+H[]A\A]A^A_
+T$(H
+D$(H
+D9l$
+T$(1
+D$(H
+H	D$0D9l$
+H!D$0L
+D$0I
+T$(1
+t$(H
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+AWAV
+AUATI
+M+t$
+([]A\A]A^A_
+AUATI
+<$H9
+[]A\A]
+ Object]H
+ATUI
+[]A\
+AUATI
+[]A\A]
+AWAVI
+AUATI
+([]A\A]A^A_
+tffA
+Eleele
+tzfA
+tbH9
+ATUI
+[]A\
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+AVAU
+ATUI
+m L;h ttH;
+[]A\A]A^
+[]A\A]A^
+j@tN
+PAV1
+[]A\A]A^
+[]A\A]A^
+AUAT
+w5t{
+[]A\A]
+AVAU
+ATUI
+[]A\A]A^
+AYAZ
+AWAVI
+AUATA
+[]A\A]A^A_
+AYAZ
+3[tW
+ [t<
+D$81
+|$ H9
+t$ H
+T$8dH3
+|$ H9
+D$ H
+t$ 1
+|$ H9
+vVf=([
+f=)[
+t$(H
+D$0tYH
+D$0H
+T$0H
+wnE1
+|$(H
+D$ H
+AUATUSH
+([]A\A]
+ATUSH
+dH34%(
+ []A\
+D$0H
+ATUSH
+[]A\
+ATU1
+[]A\
+AUATUSH
+[]A\A]
+AUATUSH
+dH34%(
+[]A\A]
+@,H9
+P,H9
+AVAUA
+ATUI
+]A\A]A^
+]A\A]A^
+[]A\
+[]A\
+[]A\
+D$ H
+D$(H
+|$(I
+T$%H
+S>fA
+t$(A
+D$$P1
+D$(H
+t$0A
+t$(A
+D$$P1
+S<fA
+t$0A
+t$(A
+D$$P1
+AWAVI
+AUATI
+v L9
+v L9
+[]A\A]A^A_
+[]A\A]A^A_
+@u,H
+AWATA
+AUATI
+[]A\A]
+AVAUA
+ATUI
+[]A\A]A^
+$PAV1
+AUATA
+[]A\A]
+[]A\A]
+AVAU
+[]A\A]A^
+PAU1
+AUATI
+uBE1
+([]A\A]
+5t0f=
+AVAUI
+ATUI
+D$(1
+t$(dH34%(
+0[]A\A]A^
+T$ H
+L$ L
+L$ I
+ATUI
+[]A\
+AWAV
+AUATD
+[]A\A]A^A_
+AUAT
+[]A\A]
+ATAUA
+AWAVI
+AUATA
+dH34%(
+([]A\A]A^A_
+AWUA
+t$ A
+AUATI
+[]A\A]
+AUATI
+I#D$
+[]A\A]
+ATUI
+F	8E	t/H
+H;l$
+ []A\
+,$E1
+AVAUI
+[]A\A]A^
+PAV1
+AUATI
+[]A\A]
+[]A\A]
+[]A\
+[]A\
+[]A\
+[]A\
+ATUI
+[]A\
+ATUH
+[]A\
+[]A\
+=av%
+5+l%
+ATUH
+[]A\
+ATUI
+ []A\
+AWAVAUATUSH
+[]A\A]A^A_
+%]G%
+[]A\A]A^A_
+%AG%
+%EF%
+[]A\A]A^A_
+=^f%
+5Sf%
+=Hf%
+5)f%
+XZE1
+[]A\
+D$(1
+D$(dH3
+=`c%
+=bc%
+=0n%
+tRUSH
+9]8v0
+tZUSH
+9]8v8
+tRUSH
+9]8v0
+tRUSH
+9]8v0
+AUATA
+tpr6A
+[]A\A]
+AUATI
+A*L$
+[]A\A]
+AWAV
+AUATI
+D$(1
+L;d$ 
+T$ H
+l$ H
+t$ H
+L$(dH3
+8[]A\A]A^A_
+D$ E1
+D$ H
+D$ H
+D$ A
+D$.H
+ATUH
+ []A\
+ATUH
+[]A\
+PAT1
+=ZR%
+=x]%
+=Z]%
+ Ph1
+AUAT
+=S[%
+([]A\A]
+[]A\
+ t)1
+[]A\
+t4WVA
+0ATA
+AUATI
+[]A\A]
+AUAT
+[]A\A]
+[]A\A]
+[]A\A]
+AUATA
+([]A\A]
+PAT1
+AVAUA
+ATUA
+[]A\A]A^
+PAT1
+AUAT
+[]A\A]
+[]A\A]
+=c7%
+ATUI
+D$81
+D$ H
+L$8dH3
+@[]A\
+AWAVE
+AUATA
+D$81
+t$8dH34%(
+H[]A\A]A^A_
+l$0H
+-Z0%
+A\A_
+D$0H
+D$0tL
+AZA[
+AYAZ
+|$0M
+D$8A
+L$ H
+tEA9
+L$,I
+D$0D
+|$4H
+D$8P
+L$ H
+ZYurL
+|$0A
+|$0H
+D$0L
+D$0H
+A\A_
+AVATA
+|$0D
+D$DP1
+AVAU
+ []A\A]A^
+AUE1
+5e&%
+=x%%
+;B w3
+ATUI
+[]A\
+PAT1
+XZ[]A\
+B H9
+AWAVA
+AUAT
+s	t	
+[]A\A]A^A_
+AVAU
+ATUI
+[]A\
+ATUI
+[]A\
+[]A\
+[]A\
+AWAVD
+AUATA
+-O %
+tSD:{
+[]A\A]A^A_
+AWAVAUATUSH
+h	@8
+W(AUA
+XZ9\$
+[]A\A]A^A_
+t4USH
+_AXH
+r6v+f
+AYAZ
+ATUI
+$tOH
+[]A\
+ATUH
+dH34%(
+[]A\
+$tsH
+tUATUH
+4z9K
+[]A\
+AUATI
+D$h1
+d$ H
+ZYu{
+L$hdH3
+x[]A\A]
+AVAUATUS
+XZ[1
+]A\A]A^
+AVAUA
+ATUH
+A:D$
+]A\A]A^
+AUAT1
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+AVAUA
+ATUA
+l$	j
+ []A\A]A^
+AUATA
+[]A\A]
+[]A\
+C(AXf
+{PAY
+[]A\
+[]A\
+AWAV
+AUAT
+([]A\A]A^A_
+ATUH
+[]A\
+t%E1
+ []A\
+_INIt
+D$H1
+u=E1
+T$HdH3
+D$8P
+D$PP
+D$DP
+D$\P
+D$PP
+D$hP
+D$\P
+D$tP1
+D$(1
+L$(dH3
+D$$P
+D$0P1
+[]A\
+[]A\
+[]A\
+AUATI
+t[L9
+[]A\A]
+AVAUI
+[]A\A]A^
+]A\A]A^
+]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+ATUA
+[]A\
+t+SU
+XZE1
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+AWAV
+AUATA
+D$(1
+l$ E
+#wNA
+L$(dH3
+8[]A\A]A^A_
+8OSDTu
+H;-H
+u(E1
+AVAUA
+ATUA
+D$h1
+AVPA
+T$hdH3
+p[]A\A]A^
+AUAT
+[]A\A]
+AWAVI
+AUATA
+l$PA
+[]A\A]A^A_
+,0u&H
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+D$@H
+T$@A
+4	A9
+H;l$
+dH3<%(
+([]A\A]A^A_
+B,A9
+B,A9
+L$TI
+T$(E
+AVPA
+AWAVI
+AUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+S(VE
+[]A\A]A^A_
+VAUA
+[]A\A]A^A_
+AUATA
+[]A\A]
+]A\A]
+e,[]A\
+AUATI
+[]A\A]
+AWAVI
+AUATA
+_CRS
+dH3<%(
+[]A\A]A^A_
+AUSA
+FLD!
+AUATUSH
+[]A\A]
+AWAVAUATUS1
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+E9e,w
+[]A\A]A^A_
+AUAT
+[]A\A]
+[]A\A]
+AVAUATUS
+]A\A]A^
+9H,r
+XZ[1
+]A\A]A^
+]A\A]A^
+AWAVAUATA
+[]A\A]A^A_
+W(S1
+AWAVE1
+AUATI
+D9|$
+[]A\A]A^A_
+Do nine men interpret Nine men I nod
+[]A\A]A^A_
+_ALRt(
+AVAUA
+ATUI
+[]A\A]A^
+[]A\A]A^
+PAT1
+D$4P1
+D$4P1
+AWAVI
+AUATA
+\$`dH
+@	PAVH
+D$$P1
+([]A\A]A^A_
+_AXA
+AYAZA
+AWAV
+AUATI
+^A9E w
+[]A\A]A^A_
+[]A\A]A^A_
+D$(1
+T$(dH3
+0[]A\
+AWAVI
+AUATA
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+D;l$
+t#f.
+AVAUI
+ATUI
+D$h1
+T$hdH3
+p[]A\A]A^
+d$ H
+Y^tM
+ATUH
+[]A\
+AWAVA
+AUATI
+uGD;<$
+[]A\A]A^A_
+tsD;<$s5E
+[ E1
+T$`D
+L$hH
+([]A\A]A^A_
+[]A\A]A^A_
+D;<$
+AWAVAUATI
+D$81
+L$8dH3
+H[]A\A]A^A_
+t$(L
+|$(H
+t$0L
+D$0H
+L;|$
+t$$L
+D$$	
+AVAUI
+[]A\A]A^
+KP^_
+AXAY
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+t$PAWD
+AUATI
+uzAUE1
+([]A\A]
+t#ATUI
+[]A\
+t#ATUI
+[]A\
+ATUH
+[]A\
+;\t(1
+ATUI
+[]A\
+[]A\
+AWAVAUATUSH
+D$H1
+L$HdH3
+X[]A\A]A^A_
+D$(I
+l$0H
+D$0H
+l$8H
+L$(H
+T$(A
+D$@H
+|$0H
+|$8H
+|$(H
+t$0H
+t$8H
+D$8f
+t$(H
+t$@H
+D$@f
+AWAVAUATUSH
+D$x1
+=SSDTt9=DSDTA
+\$xdH3
+[]A\A]A^A_
+|$(H
+|$ H
+D$ 1
+XZtfA
+tmUSH
+ATUH
+[]A\
+AVAUI
+ATUI
+[]A\A]A^
+[]A\
+D$H1
+L$HdH3
+D$ H
+D$(H
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$(1
+t$(dH34%(
+\u[H
+</u<H
+AWAVA
+AUAT
+Y^u_E
+l$(A
+[]A\A]A^A_
+0tG1
+ t3A
+AUATA
+[]A\A]
+[]A\A]
+[]A\A]
+AWAVI
+AUATI
+[]A\A]A^A_
+C H9C
+C H9C
+H;s 
+C H+C
+D$(H
+D$XH
+C H9C
+I	G(
+AWAVI
+AUAT
+D$81
+l$(E1
+c8L;c@
+S8H+PX
+S8H+PX
+t$(D
+c8L;c@H
+T$(L
+t$(D
+t$(L
+S8H+PX
+t$0H
+L$0L
+t$(H
+|$8dH3<%(
+H[]A\A]A^A_
+vwf=
+CPL)
+t$(L
+|$(H
+l$(E1
+CPH+C8
+l$8A[A\
+CPL)
+W I9
+t$(D
+D$(1
+H+C0
+l$(E1
+AVAUI
+ATUI
+ []A\A]A^
+AUATI
+k0dH
+([]A\A]
+C E1
+H+C0
+AWAVI
+AUAT
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+t'f=
+ uJH
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+ATUI
+[]A\
+D$(L
+AVAU
+ATUI
+-4|$
+[]A\A]A^
+]A\A]A^
+D$xH
+t$81
+]A\A]A^
+J H9O
+AVAUI
+ATUI
+|$8I
+D$ H
+]A\A]A^
+]A\A]A^
+D$ H
+AVAUI
+ATUI
+ u$[]A\A]A^
+ATUH
+t	[]A\
+t'H9
+t"H9
+{@[]
+[]A\
+@d\___H
+=p_$
+ATUI
+[]A\
+[]A\
+t6ATI
+[]A\
+AVAUI
+5y\$
+-z\$
+[]A\A]A^
+AUAT
+H VD
+=Z[$
+[]A\A]
+[]A\A]
+[]A\A]
+ATUH
+[]A\
+[]A\
+AWAVI
+AUAT
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAV
+AUATA
+([]A\A]A^A_
+SAVA
+AWAV
+AUAT
+[]A\A]A^A_
+[]A\A]A^A_
+AVAU
+ATUI
+ []A\A]A^
+AUAT
+D$(1
+D$ 1
+L$(dH3
+8[]A\A]
+AWAV
+AUAT
+D$81
+L$8dH3
+H[]A\A]A^A_
+D$ A
+L$(H
+t$ H
+ATUI
+ []A\
+AWAVAUATUSH
+[]A\A]A^A_
+fD9l$
+[]A\A]A^A_
+ATUSH
+tNE1
+[]A\
+[]A\
+AVAUA
+ATUM
+]A\A]A^
+UAVA
+]A\A]A^
+]A\A]A^
+AUATL
+,2USH
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+AWAVI
+AUATI
+[]A\A]A^A_
+fD+6A
+fD+6
+fD+6A
+[]A\A]A^A_
+fD+6
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUAT
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+ATUA
+[]A\
+AVAUI
+ATUA
+[]A\A]A^
+]A\A]A^
+<FfA
+ATUA
+[]A\
+AVAUATA
+]A\A]A^A_
+[]A\A]A^A_
+AUATI
+[]A\A]
+[]A\
+D$(1
+L$(dH3
+0[]A\
+ATUI
+[]A\
+AUATUS1
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+AUATI
+=_PRS
+=_CRS
+tN=_AEItGA
+dH34%(
+([]A\A]
+dH34%(
+ATUH
+AVAU
+ATUI
+$tVM
+]A\A]A^
+]A\A]A^
+]A\A]A^
+-h"$
+D-]"$
+5!"$
+[]A\
+=y!$
+=` $
+[]A\
+AWAVAUATUSH
+w E1
+ PS1
+AYAZH
+ PAQ1
+_AXL
+([]A\A]A^A_
+ATUSH
+[]A\
+[]A\
+AWAVAUATI
+D$H1
+L$HdH3
+X[]A\A]A^A_
+D$ 1
+L$0H
+D$(A
+XZE1
+ATUSH
+D$H1
+l$ 1
+D$HdH3
+P[]A\
+D$ L
+PATI
+T$9H
+L$(H
+ATUA
+[]A\
+AUATI
+D$(1
+\$(dH3
+8[]A\A]
+AWAVA
+AUAT
+D$H1
+|$4SSDT
+|$ 1
+L$HdH3
+X[]A\A]A^A_
+|$ 1
+D95$
+|$ A
+SSDT
+|$(H
+L$4I
+tOATUSH
+[]A\
+AUATUSH
+D$(1
+>FACS
+D$(I
+D$0PATS
+D$8P
+D$<P1
+D$(dH3
+8[]A\A]
+=FACStg=S3PTt`
+AWAV
+AUAT
+G$I9
+([]A\A]A^A_
+FACPu
+ATUA
+[]A\
+[]A\
+t_9y
+t39O
+[]A\
+ATUI
+[]A\
+[]A\
+t	H;-
+AWAV
+AUAT
+[]A\A]A^A_
+DSDTu
+vE=SSDTt>A
+PAW1
+AUAT
+[]A\A]
+B E1
+DSDT
+[]A\A]
+[]A\A]
+[]A\
+u'E1
+AUAT
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+AVAUI
+ATUI
+v/E1
+[]A\A]A^
+]A\A]A^
+SAUI
+ AUP
+t"H;h
+[]A\
+[]A\
+ATUH
+[]A\
+AWAVA
+AUATA
+l$,E1
+[]A\A]A^A_
+|$,H
+t$8H
+t$H1
+ RAV
+|$8WD
+[]A\A]A^A_
+$MEMOf
+AWAVAUATUSH
+([]A\A]A^A_
+([]A\A]A^A_
+AWAVAUATI
+T$$1
+l$(D
+t;D9
+D;t$
+8[]A\A]A^A_
+8[]A\A]A^A_
+AUATA
+[]A\A]
+ATUI
+[]A\
+[]A\
+;C v
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+AUATI
+dH3<%(
+[]A\A]
+[]A\
+[]A\H
+[]A\H
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+ []A\
+AWAVI
+AUAT
+[]A\A]A^A_
+AUAT
+[]A\A]
+[]A\A]
+AUATA
+)D$`
+)L$p
+D$(1
+D$(dH3
+[]A\A]
+=Acpit
+=acpiH
+D$0H
+)D$P
+)L$`
+)T$p
+D$ H
+APh'
+H9%|
+APh'
+APh'
+AUATUSH
+[]A\A]
+H9%u
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+~tE@
+t-H;=
+t6SH
+twATU
+uTfE
+[]A\
+[]A\
+[]A\
+ARSA
+tCH9
+J H9
+@ H9
+L$ H
+[]A\
+AXAY
+A\Z%
+AZA[
+AXAY
+AUATUSH
+9k,v
+[]A\A]
+L$Xt:
+)D$`
+)L$p
+D$(1
+D$(dH3
+D$0L
+L$Xt:
+)D$`
+)L$p
+D$(1
+D$(dH3
+D$0L
+L$Xt:
+)D$`
+)L$p
+D$(1
+D$(dH3
+D$0L
+AUATI
+[]A\A]
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVI
+AUAT
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\
+[]A\
+AWAVI
+AUATI
+([]A\A]A^A_
+AUAT
+[]A\A]
+AUAT
+[]A\A]
+AWAV
+AUAT
+D$(1
+\$ H
+L$(dH3
+8[]A\A]A^A_
+H;\$
+ []A\
+\___
+[]A\
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+DSDT
+dH34%(
+ATUH
+[]A\
+AUATI
+;J,r
+dH34%(
+([]A\A]
+ATUI
+ u"H
+ []A\
+[]A\
+[]A\
+[]A\
+[]A\
+AUATA
+@H;,
+[]A\A]
+AUATUS
+[]A\A]
+[]A\A]
+ATUI
+[]A\
+[]A\
+dH34%(
+[]A\
+AVAUA
+ATUI
+[]A\A]A^
+D$(1
+L$(dH3
+T$$E1
+H=@qh
+ATUI
+[]A\
+[]A\
+ATUSH
+tYI9
+[]A\
+AUAT
+[]A\A]
+AWAVI
+AUATI
+D$81
+t$8dH34%(
+H[]A\A]A^A_
+d$+E1
+\$,I
+T$01
+L;d$0
+\$,M
+\$,M
+\$,M
+ATUI
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+AVAUI
+ATUI
+[]A\A]A^
+?_uY
+t\AUATI
+[]A\A]
+NONE
+AWAVI
+AUATI
+|$x1
+D$0H
+L$(H
+T$ H
+D$(H
+|$ A
+H+\$
+t$xdH34%(
+[]A\A]A^A_
+D$00H
+\$1H
+ATUH
+D$(1
+t$(dH34%(
+0[]A\
+AWAVH
+AUATI
+t$(1
+-uLA
+|$(dH3<%(
+8[]A\A]A^A_
+t$ L
+L$ D
+T$ H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AUATI
+=>q#
+[]A\A]
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVI
+AUATI
+D$(1
+D$ y
+<+E1
+t$(dH34%(
+8[]A\A]A^A_
+t$ L
+|$ A
+[]A\
+[]A\
+=xq#
+ATUI
+[]A\
+=@p#
+AWAV1
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+\___tWH
+APAS
+AWAVI
+AUATI
+=me#
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+ATUH
+[]A\
+UStbH
+E0[]A\A]A^
+UStbH
+E0[]A\A]A^
+AVAUI
+ATUI
+u%[]A\A]A^
+[]A\A]A^
+AVAU
+ATUI
+[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+AUATA
+[]A\A]
+=$O#
+=YX#
+=&X#
+AUATI
+[]A\A]
+ATUI
+[]A\
+ATUI
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+[]A\
+ATUI
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+[]A\
+ATUI
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+[]A\
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+ATUI
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+[]A\
+ATUI
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+[]A\
+AWAVA
+AUATL
+[]A\A]A^A_
+Invalid table signature: 0x%8.8X
+Table [%4.4s] is too long for file - needs: 0x%.2X, remaining in file: 0x%.2X
+Table header for [%4.4s] has invalid ASCII character(s)
+Input file %s, Length 0x%X (%u) bytes
+    %s: File does not appear to contain a valid AML table
+    %s: Table [%4.4s] is not an AML table - ignoring
+Table has been corrupted by text mode conversion
+All LFs (%u) were changed to CR/LF pairs
+Could not open input file
+Table cannot be repaired!
+AcValidateTableHeader
+acfileio
+\_OSI
+AcpiGetHandle
+\_SB_
+AcpiUnloadParentTable
+AcpiLoadTable
+\_T96
+\_T99
+AcpiWriteBitRegister
+AcpiReadBitRegister
+AcpiRead
+AcpiWrite
+\_CFG
+\BUF
+Top-level package
+Nested Package
+\_PKG
+\MTX1
+AcpiAcquireMutex
+AcpiReleaseMutex
+AcpiGetSleepTypeData
+AcpiInstallInterface
+Windows 2006
+AcpiRemoveInterface
+XXXXXX
+AnotherTestString
+ExecuteOSI
+Windows 2001
+MichiganTerminalSystem
+AcpiGetName
+AcpiGetDevices
+AcpiGetStatistics
+AcpiInstallGlobalEventHandler
+AcpiEnableEvent
+AcpiInstallGpeHandler
+AcpiEnableGpe
+AcpiRemoveGpeHandler
+AcpiSetGpe
+\_SB
+AcpiSetupGpeForWake
+AcpiSetGpeWakeMask
+AcpiDisableGpe
+\_GPE
+AcpiInstallGpeBlock
+AcpiGetGpeDevice
+\GPE3
+AcpiUpdateAllGpes
+RSRC
+_CRS
+AcpiAcquireGlobalLock
+AcpiReleaseGlobalLock
+\GPE2
+Could not execute _OSI method, %s
+Return value from _OSI method too small, %.8X
+Invalid return type from _OSI method, %.2X
+Invalid return value from _OSI, expected %.8X found %.8X
+Unexpected %s from %s (%s-%d)
+Extended Address Space Descriptor
+aeexec
+[AcpiExec] Received an SCI at handler
+Received an attached data deletion (2) on %4.4s
+Received an attached data deletion (1) on %4.4s
+[AcpiExec] Handler %u: Received a %s Notify on [%4.4s] %p Value 0x%2.2X (%s)
+[AcpiExec] Handler %u: Received a %s notify, Value 0x%2.2X
+[AcpiExec] Global:    Received a Device Notify on [%4.4s] %p Value 0x%2.2X (%s)
+[AcpiExec] Global:    Received a Device Notify, Value 0x%2.2X
+[AcpiExec] Global:    Received a System Notify on [%4.4s] %p Value 0x%2.2X (%s)
+[AcpiExec] Global:    Received a System Notify, Value 0x%2.2X
+[AcpiExec] Exception %s during execution 
+[AcpiExec] Could not execute _ERR method, %s
+[AcpiExec] Exception override, new status %s
+[AcpiExec] Table Event %s, [%4.4s] %p
+Received _OSI ("%s"), is %ssupported
+[AcpiExec] GPE Handler received GPE %02X (GPE block %4.4s)
+[AcpiExec] Global Event Handler received: Type %s Number %.2X Dev %p
+Could not install an SCI handler (1)
+Could not remove an SCI handler
+Could not install an SCI handler (2)
+Could not install interface handler, %s
+Could not install table handler, %s
+Could not install exception handler, %s
+Could not install a global system notify handler, %s
+Could not install a global notify handler, %s
+Could not install a notify handler, %s
+Could not remove a notify handler, %s
+_NOT
+of method [%4.4s]
+at module level (table load)
+ Opcode [%s] @%X
+\_ERR
+Caught a ctrl-c (#%u)
+not 
+FADT
+FixedEvent
+UNKNOWN
+\_TZ.TZ1
+\_PR.CPU0
+AeInstallSciHandler
+AcpiInstallFixedEventHandler
+AcpiInstallNotifyHandler
+AcpiRemoveNotifyHandler
+AcpiAttachData
+AcpiDetachData
+No _SB_ found, %s
+UNLOAD
+AeInterfaceHandler
+aehandlers
+%s %s
+Value Override: %s, 
+New value: 0x%8.8X%8.8X
+Could not open initialization file
+Opened initialization file [%s]
+acpiexec [options] AMLfile1 AMLfile2 ...
+Batch mode command line execution (cmd1;cmd2;...)
+Batch mode method execution. Default=MAIN
+Disable execution of STA/INI methods during init
+Disable Operation Region address simulation
+Disable repair of method return values
+Disable method auto-serialization
+Disable allocation tracking (performance)
+Enable timer output for Debug Object
+Enable display of final memory statistics
+Enable additional tests for ACPICA interfaces
+Enable loading of additional test tables
+Enable grouping of module-level code
+Enable debug semaphore timeout
+Specify namespace initialization file
+Operation Region initialization fill value
+Maximum iterations for AML while loops
+Load tables and namespace only
+  From within the interactive mode, use '?' or "help" to see
+  a list of available AML Debugger commands
+**** The length of command line (%u) exceeded maximum (%u)
+Enabling AML Interpreter slack mode
+Max Loop Iterations is %u (0x%X)
+Using ACPI 5.0 Hardware Reduced Mode via version 5 FADT
+**** Could not install ACPI tables, %s
+**** Could not EnableSubsystem, %s
+**** Could not load ACPI tables, %s
+**** Could not InitializeObjects, %s
+Intel ACPI Component Architecture
+Copyright (c) 2000 - 2016 Intel Corporation
+Usage: %s
+Options:
+-b "CommandLine"
+  %-20s%s
+Display this help message
+-h -?
+-m [Method]
+Disable method abort on error
+Enable Interpreter Slack Mode
+-fi <File>
+-fv <Value>
+-i <Count>
+Use hardware-reduced FADT V5
+Display version information
+Verbose initialization output
+Verbose region handler output
+Debug output level
+-x <DebugLevel>
+AcpiInitializeSubsystem
+AcpiInitializeDebugger
+Unknown option: -d%s
+Unknown option: -e%s
+Unknown option: -f%s
+%s: Invalid max loops value
+Unknown option: -v%s
+Debug Level: 0x%8.8X
+?b:d:e:f^ghi:lm^rv^:x:
+AML Execution/Debug Utility
+%s version %8.8X%s
+aemain
+Could not install an OpRegion handler for PCI device (%p)
+Could not install an OpRegion handler for EC device (%p)
+Region handler received incorrect context %p, should be %p
+Operation Region request on %s at 0x%X
+AcpiExec: %s %s: Attr %X Addr %.4X BaseAddr %.4X Len %.2X Width %X BufLen %X
+AcpiExec: IPMI %s: Attr %X Addr %.4X BaseAddr %.4X Len %.2X Width %X BufLen %X
+AcpiExec: GPIO %s: Addr %.4X Width %X Conn %p
+Request on [%4.4s] is beyond region limit Req-0x%X+0x%X, Base=0x%X, Len-0x%X
+AcpiExec: SystemMemory %s: Val %.8X Addr %.4X Width %X [REGION: BaseAddr %.4X Len %.2X]
+AcpiExec: GeneralPurposeIo %s: Val %.8X Addr %.4X BaseAddr %.4X Len %.2X Width %X AccLen %.2X Conn %p
+Could not install an OpRegion handler for %s space(%u)
+Read 
+AcpiHwReadPort
+AcpiHwWritePort
+ [AccLen %.2X Conn %p]
+PNP0C09
+PNP0A08
+AeRegionHandler
+aeregion
+Already found a DSDT, only one allowed
+XSDT
+FACP
+AcpiInitializeTables
+UEFI
+AcpiGetTableHeader
+AcpiGetTable
+AcpiGetTableByIndex
+AcpiLoadTables
+%s, Could not install method
+aetables
+10EC5640
+Realtek I2S Audio Codec
+80860F09
+Intel PWM Controller
+80860F0A
+Intel Atom UART Controller
+80860F0E
+Intel SPI Controller
+80860F14
+80860F28
+Intel SST Audio DSP
+80860F41
+ACPI0001
+SMBus 1.0 Host Controller
+ACPI0002
+Smart Battery Subsystem
+ACPI0003
+Power Source Device
+ACPI0004
+Module Device
+ACPI0005
+SMBus 2.0 Host Controller
+ACPI0006
+GPE Block Device
+ACPI0007
+Processor Device
+ACPI0008
+Ambient Light Sensor Device
+ACPI0009
+I/O xAPIC Device
+ACPI000A
+I/O APIC Device
+ACPI000B
+I/O SAPIC Device
+ACPI000C
+Processor Aggregator Device
+ACPI000D
+Power Meter Device
+ACPI000E
+Time and Alarm Device
+ACPI000F
+ADMA0F28
+Intel Audio DMA
+AMCR0F28
+Intel Audio Machine Driver
+ATK4001
+Asus Radio Control Button
+ATML1000
+Atmel Touchscreen Controller
+AUTH2750
+AuthenTec AES2750
+BCM2E39
+BCM4752E
+Broadcom GPS Controller
+BMG0160
+Bosch Gyro Sensor
+CPLM3218
+DELLABCE
+DLAC3002
+FTTH5506
+HAD0F28
+Intel HDMI Audio Driver
+INBC0000
+GPIO Expander
+INT0002
+Virtual GPIO Controller
+INT0800
+INT3394
+ACPI System Fan
+INT3396
+INT33A0
+INT33A1
+Intel Power Engine
+INT33BB
+INT33BD
+Intel Baytrail Mailbox Device
+INT33BE
+Camera Sensor OV5693
+INT33C0
+INT33C1
+INT33C2
+INT33C3
+INT33C4
+INT33C5
+INT33C6
+Intel SD Host Controller
+INT33C7
+INT33C8
+INT33C9
+INT33CA
+Intel SPB Peripheral
+INT33CB
+INT33D1
+Intel GPIO Buttons
+INT33D2
+INT33D3
+INT33D4
+INT33D6
+Intel Virtual Buttons Device
+INT33F0
+Camera Sensor MT9M114
+INT33F4
+XPOWER PMIC Controller
+INT33F5
+TI PMIC Controller
+INT33FB
+MIPI-CSI Camera Sensor OV2722
+INT33FC
+INT33FD
+INT33FE
+XPOWER Battery Device
+INT3400
+INT3401
+INT3403
+DPTF Temperature Sensor
+INT3406
+INT3407
+DPTF Platform Power Meter
+INT340E
+INT3420
+Intel Bluetooth RF Kill
+INT3F0D
+ACPI Motherboard Resources
+INTCF1A
+Sony IMX175 Camera Sensor
+INTCFD9
+INTL9C60
+INVN6500
+LNXCPU
+Linux Logical CPU
+LNXPOWER
+LNXPWRBN
+System Power Button
+LNXSYBUS
+System Bus
+LNXSYSTM
+ACPI Root Node
+LNXTHERM
+ACPI Thermal Zone
+LNXVIDEO
+ACPI Video Controller
+MAX17047
+Fuel Gauge Controller
+MSFT0101
+TPM 2.0 Security Device
+NXP5442
+NXP5472
+NXP NFC
+PNP0000
+PNP0001
+EISA Interrupt Controller
+PNP0002
+MCA Interrupt Controller
+PNP0003
+IO-APIC Interrupt Controller
+PNP0100
+PC-class System Timer
+PNP0103
+HPET System Timer
+PNP0200
+PC-class DMA Controller
+PNP0300
+PNP0301
+PNP0302
+PNP0303
+PNP0400
+Standard LPT Parallel Port
+PNP0401
+ECP Parallel Port
+PNP0500
+Standard PC COM Serial Port
+PNP0501
+PNP0510
+PNP0800
+PNP0A03
+PCI Bus
+PNP0A05
+Generic Container Device
+PNP0A06
+PCI Express Bus
+PNP0B00
+AT Real-Time Clock
+PNP0B01
+PNP0B02
+PNP0C01
+System Board
+PNP0C02
+PNP Motherboard Resources
+PNP0C04
+PNP0C08
+ACPI Core Hardware
+Embedded Controller Device
+PNP0C0A
+Control Method Battery
+PNP0C0B
+Fan (Thermal Solution)
+PNP0C0C
+Power Button Device
+PNP0C0D
+Lid Device
+PNP0C0E
+Sleep Button Device
+PNP0C0F
+PCI Interrupt Link Device
+PNP0C10
+System Indicator Device
+PNP0C11
+PNP0C12
+Device Bay Controller
+PNP0C14
+PNP0C15
+Docking Station
+PNP0C40
+Standard Button Controller
+PNP0C50
+HID Protocol Device (I2C bus)
+PNP0C60
+Display Sensor Device
+PNP0C70
+Dock Sensor Device
+PNP0C80
+Memory Device
+PNP0D10
+PNP0D15
+PNP0D20
+PNP0D25
+PNP0D40
+PNP0D80
+PNP0F03
+Microsoft PS/2-style Mouse
+PNP0F13
+PS/2 Mouse
+RTL8723
+Realtek Wireless Controller
+SMB0349
+Charger
+SMO91D0
+Sensor Hub
+SMSC3750
+SMSC 3750 USB MUX
+SSPX0000
+Intel SSP Device
+TBQ24296
+Intel Baytrail SDIO/MMC Host Controller
+Intel Baytrail I2C Host Controller
+User Presence Detection Device
+Broadcom BT Serial Bus Driver over UART Bus Enumerator
+Capella Micro CM3218x Ambient Light Sensor
+Dell Airplane Mode Switch Driver
+Qualcomm Atheros Bluetooth UART Transport
+FocalTech 5506 Touch Controller
+Intel 82802 Firmware Hub Device
+Standard Power Management Controller
+Intel Smart Connect Technology Device
+Intel Baytrail SD Host Controller
+Intel Serial I/O SPI Host Controller
+Intel Serial I/O I2C Host Controller
+Intel Serial I/O UART Host Controller
+Intel Serial I/O GPIO Host Controller
+Intel Smart Sound Technology Host Controller
+Wolfson Microelectronics Audio WM5102
+Intel Smart Sound Technology Audio Codec
+Intel Baytrail GPIO Controller
+Intel Baytrail Power Management IC
+Intel Dynamic Power Performance Management
+Intel Extended Thermal Model CPU
+Intel Dynamic Platform & Thermal Framework Display Participant
+Intel Baytrail SOC GPIO Controller
+Intel Baytrail SOC DMA Controller
+InvenSense MPU-6500 Six Axis Gyroscope and Accelerometer
+ACPI Power Resource (power gating)
+NXP 5442 Near Field Communications Controller
+8259-compatible Programmable Interrupt Controller
+IBM PC/XT Keyboard Controller (83 key)
+IBM PC/XT Keyboard Controller (86 key)
+IBM PC/XT Keyboard Controller (84 key)
+IBM Enhanced Keyboard (101/102-key, PS/2 Mouse)
+16550A-compatible COM Serial Port
+Generic IRDA-compatible Device
+Microsoft Sound System Compatible Device
+Intel PIIX4-compatible RTC/CMOS Device
+Dallas Semiconductor-compatible RTC/CMOS Device
+x87-compatible Floating Point Processing Unit
+Windows Management Instrumentation Device
+XHCI USB Controller with debug
+XHCI USB Controller without debug
+EHCI USB Controller without debug
+EHCI USB Controller with debug
+SDA Standard Compliant SD Host Controller
+Windows-compatible System Power Management Controller
+[Controllers]
+USB Controller
+SATA Controller
+[Devices]
+PCI Host Bridge Device
+HID I2C Device
+[Interfaces]
+Device Labeling Interface
+Physical Presence Interface
+Volatile Memory Region
+Persistent Memory Region
+NVDIMM Control Region
+NVDIMM Data Region
+Volatile Virtual Disk
+Volatile Virtual CD
+Persistent Virtual Disk
+Persistent Virtual CD
+[Miscellaneous]
+Platform-wide Capabilities
+Dynamic Enumeration
+Battery Thermal Limit
+Thermal Extensions
+Device Properties for _DSD
+4f248f40-d5e2-499f-834c-27758ea1cd3f
+ce2ee385-00e6-48cb-9f05-2edb927c4899
+e4db149b-fcfe-425b-a6d8-92357d78fc7f
+33db4d5b-1ff7-401c-9657-7441c03dd766
+3cdff6f7-4267-4555-ad05-b30a3d8938de
+dfbcf3c5-e7a5-44e6-9c1f-29c76f6e059c
+e5c937d0-3553-4d7a-9117-ea4d19c3434d
+3dddfaa6-361b-4eb4-a424-8d10089d1653
+[Non-volatile DIMM and NFIT table]
+7305944f-fdda-44e3-b16c-3f22d252e5d0
+66f0d379-b4f3-4074-ac43-0d3318b78cdb
+92f701f6-13b4-405d-910b-299367e8234c
+91af0530-5d86-470e-a6b0-0a2db9408249
+77ab535a-45fc-624b-5560-f7b281d1f96e
+3d5abd30-4175-87ce-6d64-d2ade523c4bb
+5cea02c9-4d07-69d3-269f-4496fbe096f9
+08018188-42cd-bb48-100f-5387d53ded3d
+0811b06e-4a27-44f9-8d60-3cbbc22e7b48
+d8c1a3a6-be9b-4c9b-91bf-c3cb81fc5daf
+4c2067e3-887d-475c-9720-4af1d3ed602e
+14d399cd-7a27-4b18-8fb4-7cb7b9f4e500
+daffd814-6eba-4d8c-8a91-bc9bbf4aa301
+Could not get file offset
+Could not set file offset
+Sleep state %d out of range (%d max)
+---- Invoking sleep state S%d (%s):
+Could not evaluate [%s] method, %s
+Register values for sleep state S%d: Sleep-A: %.2X, Sleep-B: %.2X
+**** Sleep: Prepare to sleep (S%d) ****
+**** Sleep: Going to sleep (S%d) ****
+**** Wake: Prepare to return from sleep (S%d) ****
+**** Wake: Return from sleep (S%d) ****
+During invocation of sleep state S%d
+GetIrqRoutingTable failed: %s
+AcpiGetCurrentResources failed: %s
+AcpiWalkResourceBuffer failed: %s
+Resource Conversion Comparison:
+AcpiRsCreateAmlResources failed: %s
+**** Buffer length mismatch in converted AML: Original %X, New %X ****
+**** Length mismatch in descriptor [%.2X] type %2.2X, Offset %8.8X Len1 %X, Len2 %X ****
+**** Data mismatch in descriptor [%.2X] type %2.2X, Offset %8.8X ****
+Mismatch at byte offset %.2X: is %2.2X, should be %2.2X
+AcpiSetCurrentResources failed: %s
+AcpiGetPossibleResources failed: %s
+AcpiGetEventResources failed: %s
+Address %p is not a valid namespace node [%s]
+Could not find [%s] in namespace, defaulting to root node
+Invoking all possible sleep states, 0-%d
+Idx ID    Status Type                    TableHeader (Sig, Address, Length, Misc)
+%4.4s - Table has been unloaded
+Parent of [%s] (%p) unloaded and uninstalled
+%s, while unloading parent table of [%s]
+Named object [%4.4s] Type %s, must be Device/Thermal/Processor type
+Missing Interface Name argument
+Not a Buffer object, cannot be a template: %s
+Could not convert Buffer to a resource list: %s, %s
+%4.4s: Name is not a device object (%s)
+Failed to allocate method name (%s)
+_PRT
+_PRS
+_AEI
+Device: %s
+Evaluating _PRT
+Could not evaluate _PRT: %s
+Evaluating _CRS
+Could not evaluate _CRS: %s
+AcpiWalkResources failed: %s
+Could not obtain %s: %s
+Evaluating _SRS
+Evaluating _PRS
+Could not evaluate _PRS: %s
+Evaluating _AEI
+Could not evaluate _AEI: %s
+Address %p is invalid
+Locked
+Unlocked
+%26s : %s
+%3u %.2u 
+NotLoaded 
+   Loaded 
+External/virtual  
+Internal/physical 
+Internal/virtual  
+INVALID TYPE      
+Could not queue notify
+INSTALL
+%s, while installing "%s"
+REMOVE
+%s, while removing "%s"
+Invalid action argument: %s
+Invalid argument: %s
+Raw data buffer:
+Invalid GPE
+ENABLE
+ONCE
+AcpiDbSleep
+dbcmds
+Converted _PLD buffer does not compare. New:
+PLD_Revision
+%20s : %-6X
+PLD_IgnoreColor
+PLD_Red
+PLD_Green
+PLD_Blue
+PLD_Width
+PLD_Height
+PLD_UserVisible
+PLD_Dock
+PLD_Lid
+PLD_Panel
+PLD_VerticalPosition
+PLD_HorizontalPosition
+PLD_Shape
+PLD_GroupOrientation
+PLD_GroupToken
+PLD_GroupPosition
+PLD_Bay
+PLD_Ejectable
+PLD_EjectRequired
+PLD_CabinetNumber
+PLD_CardCageNumber
+PLD_Reference
+PLD_Rotation
+PLD_Order
+PLD_VerticalOffset
+PLD_HorizontalOffset
+dbconvert
+User
+%25s (%.2X) : 
+%-9s (%p)
+ Device Name: %s (%p)
+Parser Op Descriptor:
+%20.20s : %4.4X
+Opcode Name
+%20.20s : %s
+Value/ArgList
+%20.20s : %p
+Parent
+NextOp
+Object (%p) Pathname:  %s
+Attached Object (%p):
+%X Arguments, SyncLevel = %X
+Result%u: 
+    [%4.4s]
+CID %u: %s
+ResultObj: 
+ArgObj:    
+FADT-defined GPE block
+    EventInfo:    %p
+Level, 
+Edge,  
+CanWake, 
+RunOnly, 
+NotUsed
+Implicit Notify on %u devices
+RawHandler
+UNKNOWN: %X
+System Notifications
+Fixed Event Handlers:
+%-9s (%p)
+None
+User-defined ID
+%-9s
+%30s : 
+Device Notifications
+ACPI Table Events
+Control Method Exceptions
+OSI Invocations
+Address %p is invalid in this address space
+Cannot read entire Named object at address %p
+Cannot read entire ACPI object at address %p
+Cannot read entire Parser object at address %p
+Not a known ACPI internal object, descriptor type %2.2X
+Could not convert name to pathname
+Invalid Named object at address %p
+Invalid internal ACPI Object at address %p
+There is no method currently executing
+Currently executing control method is [%4.4s]
+Method contains:       %X AML Opcodes - %X Operators, %X Operands
+Remaining to execute:  %X AML Opcodes - %X Operators, %X Operands
+Method [%4.4s] has %X stacked result objects
+Current Control Method Call Tree
+Could not get object info, %s
+ADR: %8.8X%8.8X, STA: %8.8X, Flags: %X
+S1D-%2.2X S2D-%2.2X S3D-%2.2X S4D-%2.2X
+S0W-%2.2X S1W-%2.2X S2W-%2.2X S3W-%2.2X S4W-%2.2X
+Block %u - Info %p  DeviceNode %p [%s] - %s
+    Registers:    %u (%u GPEs)
+    GPE range:    0x%X to 0x%X on interrupt %u
+    RegisterInfo: %p  Status %8.8X%8.8X Enable %8.8X%8.8X
+    Reg %u: (GPE %.2X-%.2X)  RunEnable %2.2X WakeEnable %2.2X Status %8.8X%8.8X Enable %8.8X%8.8X
+        GPE %.2X: %p  RunRefs %2.2X Flags %2.2X (
+Operation Region Handlers at the namespace root:
+Miscellaneous Global Handlers:
+Operation Region Handlers for specific devices:
+dbdisply
+Evaluating
+Evaluating %s
+Evaluation of [%4.4s] returned %s
+During setup for method execution
+Warning: debug output is not enabled!
+While parsing method arguments
+while executing %s from debugger
+Possible overflow of internal debugger buffer (size 0x%X needed 0x%X)
+%s During evaluation of %s at iteration %X
+Could not signal debugger thread sync semaphore, %s
+Only one debugger execution is allowed.
+0x%X Outstanding allocations after evaluation of %s
+Evaluation of %s failed with status %s
+Evaluation of %s returned object %p, external buffer length %X
+No object was returned from evaluation of %s
+Bad argument: Threads %X, Loops %X
+Could not create semaphore for synchronization with the main thread, %s
+Could not create semaphore for synchronization between the created threads, %s
+Could not create semaphore for synchronization of AcpiGbl_DbMethodInfo, %s
+No memory for thread IDs array
+%s Could not get handle for %s
+Creating %X threads to execute %X times each
+All threads (%X) have completed
+AcpiDbExecuteMethod
+dbexec
+Debug output file %s closed
+Could not open debug file %s
+Debug output file %s opened
+Could not install table, %s
+Table %4.4s is already installed
+Acpi table [%4.4s] successfully installed and loaded
+%3ld  %s
+Invalid history number: %u
+General-Purpose Commands:
+%-38s : %s
+ALLOCATIONS
+%-38s%s
+Method execution terminated
+%s: unknown command
+%1c 
+While parsing command line
+  Dump <Address>|<Namepath>
+  Handlers
+Info about global handlers
+  Help [Command]
+  History
+  Locks
+  Osi [Install|Remove <name>]
+  Quit or Exit
+Exit this command
+  Stats <SubCommand>
+     Allocations
+     Memory
+Dump internal memory lists
+     Misc
+     Objects
+Summary of namespace objects
+     Sizes
+     Stack
+Display CPU stack usage
+     Tables
+  ! <CommandNumber>
+  !!
+Execute last command again
+Namespace Access Commands:
+  Businfo
+Display system bus info
+  Disassemble <Method>
+Disassemble a control method
+  Integrity
+Validate namespace integrity
+  Methods
+  Namespace [Object] [Depth]
+  Notify <Object> <Value>
+  Objects [ObjectType]
+  Owner <OwnerId> [Depth]
+  Paths
+Check all predefined names
+  Prefix [<Namepath>]
+  References <Addr>
+  Resources [DeviceName]
+  Set N <NamedObject> <Value>
+Set value for named integer
+  Template <Object>
+  Type <Object>
+Display object type
+  Arguments (or Args)
+Display method arguments
+  Breakpoint <AmlOffset>
+  Call
+Single Step a control method
+Degas are we not drawn onward no In union drawn onward to new eras aged
+  Evaluate
+Synonym for Execute
+Execute control method
+     Hex Integer
+Integer method argument
+     "Ascii String"
+String method argument
+     (Hex Byte List)
+Buffer method argument
+     [Package Element List]
+Package method argument
+  Go
+  Information
+  Into
+  List [# of Aml Opcodes]
+  Locals
+  Results
+Display method result stack
+  Set <A|L> <#> <Value>
+  Stop
+Terminate control method
+     Enable
+Enable all messages
+     Disable
+Disable tracing
+     Method
+     Opcode
+  Tree
+  <Enter>
+  EnableAcpi
+Enable ACPI (hardware) mode
+  Event <F|G> <Value>
+Simulate a GPE
+  Gpes
+  Sci
+Generate an SCI
+  Sleep [SleepState]
+File I/O Commands:
+  Close
+Close debug output file
+  Load <Input Filename>
+Load ACPI table from a file
+  Open <Output Filename>
+Open a file for debug output
+  Unload <Namepath>
+User Space Commands:
+  Terminate
+Debug Test Commands:
+  Test <TestName>
+Invoke a debug test
+     Predefined
+<NOT FOUND>
+<NULL>
+ARGS
+BREAKPOINT
+BUSINFO
+CALL
+DEBUG
+DISASSEMBLE
+DISASM
+DUMP
+EVALUATE
+EXECUTE
+EXIT
+FIND
+HANDLERS
+HELP
+HISTORY
+INFORMATION
+INTEGRITY
+INTO
+LEVEL
+LIST
+LOCALS
+LOCKS
+METHODS
+NOTIFY
+OBJECTS
+PATHS
+PREDEFINED
+PREFIX
+QUIT
+REFERENCES
+RESULTS
+STATS
+STOP
+TEMPLATE
+TRACE
+TREE
+ENABLEACPI
+EVENT
+GPES
+SLEEP
+CLOSE
+OPEN
+THREADS
+TEST
+Buffer overflow while parsing input line (max %u characters)
+%u parameters entered, [%s] requires %u parameters
+Current debug level for file output is:    %8.8lX
+Current debug level for console output is: %8.8lX
+Debug Level for console output was %8.8lX, now %8.8lX
+Debug Level for file output was %8.8lX, now %8.8lX
+AcpiEnable failed (Status=%X)
+Event command not implemented
+Display list of current memory allocations
+       [Byte|Word|Dword|Qword]
+Display ACPI objects or memory
+This help screen or individual command
+Display command history buffer
+  Level <DebugLevel>] [console]
+Get/Set debug level for file or console
+Current status of internal mutexes
+Display or modify global _OSI list
+Display namespace and memory statistics
+Namespace search and mutex stats
+Sizes for each of the internal objects
+Info about current ACPI table(s)
+Display info about loaded ACPI tables
+Execute command from history buffer
+  Find <AcpiName> (? is wildcard)
+Find ACPI name(s) with wildcards
+Display list of loaded control methods
+Display loaded namespace tree/subtree
+Send a notification on Object
+Display summary of all objects or just given type
+Display loaded namespace by object owner
+Display full pathnames of namespace objects
+Set or Get current execution prefix
+Find all references to object at addr
+Display Device resources (no arg = all devices)
+Format/dump a Buffer/ResourceTemplate
+Control Method Execution Commands:
+Set an AML execution breakpoint
+Run to next control method invocation
+  Debug <Namepath> [Arguments]
+  Execute <Namepath> [Arguments]
+Allow method to run to completion
+Display info about the current method
+Step into (not over) a method call
+Display method ASL statements
+Display method local variables
+Set method data (Arguments/Locals)
+  Trace <State> [<Namepath>] [Once]
+Trace control method execution
+Enable method execution messages
+Enable opcode execution messages
+Display control method calling tree
+Single step next AML opcode (over calls)
+Hardware Simulation Commands:
+Generate AcpiEvent (Fixed/GPE)
+  Gpe <GpeNum> [GpeBlockDevice]
+Display info on all GPE devices
+Simulate sleep/wake sequence(s) (0-5)
+Unload an ACPI table via namespace object
+Delete namespace and all internal objects
+  Thread <Threads><Loops><NamePath>
+Spawn threads to execute method(s)
+Read/write/compare all namespace data objects
+Execute all ACPI predefined names (_STA, etc.)
+dbinput
+Breakpoint %X is beyond current address %X
+Breakpoint set at AML offset %X
+Could not create an internal object
+Arg%u - Invalid argument name
+Local%u - Invalid local variable name
+%s (%s): Object must be a control method
+God A red nugget A fat egg under a dog
+Invalid SET operand: %s
+Can only set Integer nodes
+Arg%u: 
+Local%u: 
+dbmethod
+[%4.4s]: Unknown object type %X
+Could Not get pathname for object %p
+%-32s Arguments %X, Return Types: %s
+ (PkgType %2.2X, ObjType %2.2X, Count %2.2X)
+Invalid Descriptor Type for Node %p [%s] - is %2.2X should be %2.2X
+Invalid Object Type for Node %p, Type = %X
+Invalid Descriptor Type for Object %p [%s]
+Reference at Node->Object %p [%4.4s]
+Could not attach scope: %s, %s
+ACPI Namespace (from %4.4s (%p) subtree):
+Name must be no longer than 4 characters
+Found %u predefined names in the namespace
+Summary of namespace objects:
+%8u   Total namespace objects
+Invalid or unsupported argument
+Objects of type [%s] defined in the current ACPI Namespace:
+Found %u objects of type [%s] in the current ACPI Namespace
+Verified %u namespace nodes with %u Objects
+%32s
+Invalid AcpiName for Node %p
+Object is a Node [%4.4s]
+%-32s Type %X
+  - Is PCI Root Bridge
+_PRT: %p
+_ADR: %8.8X%8.8X
+_ADR: <Not Present>
+Tacocat
+_HID: %s
+_HID: <Not Present>
+_UID: %s
+_UID: <Not Present>
+_CID: %s
+_CID: <Not Present>
+Current scope: %s
+New scope: %s
+ACPI Namespace (from root):
+ACPI Namespace by owner %X:
+%8u   %s
+INTEGERS
+STRINGS
+BUFFERS
+PACKAGES
+DEVICES
+EVENTS
+MUTEXES
+REGIONS
+POWERRESOURCES
+PROCESSORS
+THERMALZONES
+BUFFERFIELDS
+DDBHANDLES
+REGIONFIELDS
+BANKFIELDS
+INDEXFIELDS
+METHODALIASES
+ADDRESSHANDLER
+RESOURCE
+RESOURCEFIELD
+SCOPES
+dbnames
+ Uninitialized
+(%u) "%.24s
+(%u)
+ %2.2X
+<Node>            Name %4.4s
+ [Method Arg]
+ [Method Local]
+<Null Object>
+<Parser>  
+ Type %X [Invalid Type]
+ Uninitialized WHERE pointer
+Unknown index target type
+<Obj>            
+    Local%X: 
+    Arg%u:   
+Uninitialized reference subobject pointer
+<Not a valid ACPI Object Descriptor> [%s]
+No method node (Executing subtree for buffer or opregion)
+Executing subtree for Buffer/Package/Region
+No Local Variables are initialized for method [%4.4s]
+Initialized Local Variables for method [%4.4s]:
+No Arguments are initialized for method [%4.4s]
+Initialized Arguments for Method [%4.4s]:  (%X arguments defined for method invocation)
+NODES
+ACPI_TYPE
+%16.16s %10.10s %10.10s
+%16.16s % 10ld% 10ld
+Misc/Unknown
+TOTALS:
+Miscellaneous Statistics:
+Mutex usage:
+%-28s:       % 7ld
+Internal object sizes:
+Common           %3d
+Number           %3d
+String           %3d
+Buffer           %3d
+Package          %3d
+BufferField      %3d
+Device           %3d
+Event            %3d
+Method           %3d
+Mutex            %3d
+Region           %3d
+PowerResource    %3d
+Processor        %3d
+ThermalZone      %3d
+RegionField      %3d
+BankField        %3d
+IndexField       %3d
+Reference        %3d
+Notify           %3d
+AddressSpace     %3d
+Extra            %3d
+Data             %3d
+ParseObject      %3d
+ParseObjectNamed %3d
+ParseObjectAsl   %3d
+OperandObject    %3d
+NamespaceNode    %3d
+AcpiObject       %3d
+Generic State    %3d
+Common State     %3d
+Control State    %3d
+Update State     %3d
+Scope State      %3d
+Parse Scope      %3d
+Package State    %3d
+Thread State     %3d
+Result Values    %3d
+Notify Info      %3d
+Subsystem Stack Usage:
+MISC
+SIZES
+STACK
+    Cache: [Depth    MaxD Avail  Size]                %8.2X %8.2X %8.2X %8.2X
+    Cache: [Requests Hits Misses ObjSize]             %8.2X %8.2X %8.2X %8.2X
+    Mem:   [Alloc    Free Max    CurSize Outstanding] %8.2X %8.2X %8.2X %8.2X %8.2X
+    Mem:   [Alloc Free Max CurSize Outstanding Total] %8.2X %8.2X %8.2X %8.2X %8.2X %8.2X
+ACPI Table Information (not implemented):
+Objects defined in the current namespace:
+----Object Statistics (all in hex)---------
+----Cache Statistics (all in hex)---------
+Calls to AcpiPsFind:..  ........% 7ld
+Calls to AcpiNsLookup:..........% 7ld
+Entry Stack Pointer          %p
+Lowest Stack Pointer         %p
+Stack Use                    %X (%u)
+Deepest Procedure Nesting    %u
+Could not read from object, %s
+ Type mismatch:  Expected %s, Received %s
+ Unsupported return object type, %s
+This is the default argument string
+%s: Unsupported argument type: %u
+ Ignoring, no attached object
+      %s space is not supported [%4.4s]
+ Invalid length for an Integer: %u
+ MISMATCH 2: %8.8X%8.8X, expecting %8.8X%8.8X
+ MISMATCH 3: %8.8X%8.8X, expecting %8.8X%8.8X
+ MISMATCH 3: While restoring original buffer
+%s, Could not install debugger read method
+Could not obtain handle for debug method %s
+%s, Could not install debugger write method
+Evaluated %u predefined names in the namespace
+%-32s returned %s
+Could not write to object, %s
+%14s: %4.4s
+ (%4.4X/%3.3X) %8.8X%8.8X
+ (%4.4X/%3.3X) "%s"
+Test String from AML Debugger
+ MISMATCH 2: %s, expecting %s
+ MISMATCH 3: %s, expecting %s
+ Ignoring zero length buffer
+ (%4.4X/%3.3X)
+...  
+ MISMATCH 2: New buffer value
+\_T98
+dbtest
+[Null Object]
+[Null Object] (Type=0)
+[Integer] = %8.8X%8.8X
+[String] Length %.2X = 
+[Buffer] Length %.2X = 
+[Object Reference] = 
+[Processor]
+[Power Resource]
+[Unknown Type] %X
+Invalid namestring: %s
+0123456789ABCDEF
+[Package] Contains %u Elements:
+Could not locate name: %s, %s
+dbutils
+**break** Executed AML BreakPoint opcode
+***UserBreakpoint*** at AML offset %X
+[AmlDebug] Next AML Opcode to execute:
+Predicate = [True], IF block was executed
+Predicate = [False], Skipping IF block
+Predicate = [False], ELSE block was executed
+Could not start debugger thread
+***Break*** at AML offset %X
+Could not get debugger mutex
+AcpiInitializeDebugger
+dbxface
+/* %04X */ 
+  /* 
+ /* %s */
+\x%2.2X
+%*.s%-18s = 0x%X,
+%*.s%-18s = "%s",
+%*.s%-18s = 0x%X)
+EisaId ("%s")
+ROUND
+OVAL
+SQUARE
+VERTICALRECTANGLE
+HORIZONTALRECTANGLE
+VERTICALTRAPEZOID
+HORIZONTALTRAPEZOID
+CHAMFERED
+LEFT
+CENTER
+RIGHT
+UPPER
+LOWER
+BOTTOM
+FRONT
+BACK
+"%2.2x%2.2x%2.2x%2.2x-%2.2x%2.2x-%2.2x%2.2x-%2.2x%2.2x-%2.2x%2.2x%2.2x%2.2x%2.2x%2.2x")
+dmbuffer
+ != 
+ <= 
+ >= 
+ << 
+ >> 
+ && 
+ == 
+ || 
+ = (
+ = ~
+ += 
+ -= 
+ *= 
+ /= 
+ <<= 
+ >>= 
+ &= 
+ |= 
+ ^= 
+ %= 
+Parsing deferred opcode %s [%4.4s]
+Unhandled deferred AML opcode [0x%.4X]
+AcpiDmDeferredParse
+dmdeferred
+  [Path not found]
+  (Path %s)
+****Could not get pathname****)
+dmnames
+ /* External reference */
+ // %s
+, %u, 
+Serialized
+FFixedHW, 
+0x%.2X, 
+<NULL OP PTR>
+LNotEqual
+LLessEqual
+LGreaterEqual
+0x%4.4X
+0x%8.8X
+0x%8.8X%8.8X
+ResourceTemplate
+ToUUID (
+Unicode (
+ToPLD (
+,%*.s  %u
+Offset (0x%.2X)
+    ,   %u
+AccessAs (%s, 
+ (0x%2.2X)
+Connection (
+Else
+ElseIf
+/* Unknown Match Keyword encoding */
+/**** Is ResourceTemplate, but EndTag not at buffer end ****/ 
+dmopcode
+0x%2.2X,               // %s
+0x%4.4X,             // %s
+0x%8.8X,         // %s
+0x%8.8X%8.8X, // %s
+NULL byte list in buffer
+/*** Could not validate Resource, type (%X) %s***/
+/*** Disassembler: inserted missing EndDependentFn () ***/
+/**** Invalid Resource Type: 0x%X ****/
+DWord
+QWord
+Extended
+Space (0x%2.2X, 
+ 0x%2.2X,
+%s, %s, %s, %s, %s, %s,
+, %s, %s
+Type-Specific Attributes
+Memory24 (%s,
+Memory32 (%s,
+Memory32Fixed (%s,
+Address Base
+Address Length
+Register (
+Bit Width
+Access Size
+Interrupt (%s, %s, %s, %s, 
+0x%8.8X,
+Vendor%s (
+)      // Length = 0x%.2X
+Long 
+Range Minimum
+Range Maximum
+Alignment
+Granularity
+Translation Offset
+RawDataBuffer (0x%.2X)  // Vendor Data
+UartSerialBus (0x%8.8X, %s, %s,
+SpiSerialBus (0x%4.4X, %s, %s, 0x%2.2X,
+I2cSerialBus (0x%4.4X, %s, 0x%8.8X,
+0x%2.2X, %s, %s, %s,
+%s, 0x%8.8X, %s,
+{   // Pin list
+0x%4.4X%s
+GpioInt (%s, %s, %s, 
+0x%4.4X,
+GpioIo (%s, 
+Unknown GPIO type
+DMA (%s, %s, %s, 
+FixedDMA (0x%4.4X, 0x%4.4X, 
+%X /* INVALID DMA WIDTH */, 
+IO (%s,
+FixedIO (
+StartDependentFnNoPri ()
+EndDependentFn ()
+Short
+StartDependentFn (0x%2.2X, 0x%2.2X)
+AttribQuick
+AttribSendReceive
+AttribByte
+AttribWord
+AttribBlock
+AttribBytes
+AttribProcessCall
+AttribBlockProcessCall
+AttribRawBytes
+AttribRawProcessBytes
+%*.s
+IRQNoFlags
+BusNumber
+UnknownResourceType
+WriteAsOnes
+WriteAsZeros
+InvalidUpdateRule
+NoLock
+AnyAcc
+ByteAcc
+DWordAcc
+QWordAcc
+BufferAcc
+InvalidAccType
+[%4.4s] @%5.5X #%4.4X:  
+*** Unhandled named opcode %X
+[%4.4s] BufferField Arg Init
+[%4.4s] BankField Arg Init
+Buffer Arg Init
+Package Arg Init
+No pointer back to namespace node in buffer object %p
+No pointer back to namespace node in package %p
+[%4.4s] OpRegion Arg Init at AML %p
+AcpiDsGetRegionArguments
+AcpiDsGetPackageArguments
+AcpiDsGetBufferArguments
+AcpiDsGetBankFieldArguments
+AcpiDsExecuteArguments
+AcpiDsGetBufferFieldArguments
+dsargs
+Op=%p Opcode=%2.2X State=%p
+[IF_OP] Op=%p
+[WHILE_OP] Op=%p
+[RETURN_OP] Op=%p Arg=%p
+[WHILE_OP] termination! Op=%p
+Completed RETURN_OP State=%p, RetVal=%p
+Executed AML Breakpoint opcode
+Unknown control opcode=0x%X Op=%p
+AcpiDsExecEndControlOp
+AcpiDsExecBeginControlOp
+dscontrol
+[NULL NAME]
+[%s] (Node %p)
+Method Execution Stack:
+Call to method 
+**** Exception %s during execution of method 
+    Method [%4.4s] executing: 
+AcpiDsPrintNodePathname
+AcpiDsDumpMethodStack
+dsdebug
+Bit offset within field too large (> 0xFFFFFFFF)
+Field [%4.4s] bit offset too large (> 0xFFFFFFFF)
+Invalid opcode in field list: 0x%X
+AcpiDsCreateIndexField
+AcpiDsCreateBankField
+AcpiDsInitFieldObjects
+AcpiDsGetFieldNames
+AcpiDsCreateField
+AcpiDsCreateBufferField
+dsfield
+During Region initialization %p [%4.4s]
+**** Starting initialization of namespace objects ****
+Initializing Namespace objects:
+Table [%4.4s: %-8.8s] (id %.2X) - %4u Objects with %3u Devices, %3u Regions, %4u Methods (%u/%u/%u Serial/Non/Cvt)
+During WalkNamespace
+%u Methods, %u Regions
+AcpiDsInitializeObjects
+dsinit
+Method serialized [%4.4s] %p - [%s] (%4.4X)
+Method auto-serialization parse [%4.4s] %p
+Method reached maximum reentrancy limit (255)
+Cannot acquire Mutex for method [%4.4s], current SyncLevel is too large (%u)
+****Restart [%4.4s] Op %p ReturnValueFromCallee %p
+    ReturnFromThisMethodUsed?=%X ResStack %p Walk %p
+Invalid zero thread count in method
+*** Completed execution of one thread, %u threads remaining
+Marking method %4.4s as Serialized because of AE_ALREADY_EXISTS error
+Calling method %p, currentstate=%p
+**** Begin nested execution of [%4.4s] **** WalkState=%p
+AcpiDsTerminateControlMethod
+AcpiDsRestartControlMethod
+AcpiDsCallControlMethod
+AcpiDsCreateMethodMutex
+AcpiDsBeginMethodExecution
+AcpiDsDetectNamedOpcodes
+AcpiDsAutoSerializeMethod
+dsmethod
+Deleting Local%u=%p
+Deleting Arg%u=%p
+Type %u is invalid
+%u args passed to method
+Not a Arg/Local opcode: 0x%X
+Type=%2.2X Index=%u Obj=%p
+Obj=%p already installed!
+Local index %u is invalid (max %u)
+Arg index %u is invalid (max %u)
+NewObj %p Type %2.2X, Refs=%u [%s]
+No parameter list passed to method
+Null object descriptor pointer
+Uninitialized Arg[%u] at node %p
+Arg (%p) is an ObjRef(Node), storing in node %p
+AcpiDsMethodDataDeleteValue
+AcpiDsStoreObjectToLocal
+AcpiDsMethodDataGetValue
+AcpiDsMethodDataGetNode
+AcpiDsMethodDataSetValue
+AcpiDsMethodDataInitArgs
+AcpiDsMethodDataDeleteAll
+AcpiDsMethodDataInit
+dsmthdat
+Expecting bytelist, found AML opcode 0x%X in op %p
+Buffer defined with zero length in AML, creating
+Truncated 64-bit constant found in 32-bit table: %8.8X%8.8X => %8.8X
+Unimplemented reference type for AML opcode: 0x%4.4X
+Ignoring unresolved reference in package [%4.4s]
+Actual Package length (%u) is larger than NumElements field (%u), truncated
+Package List length (%u) smaller than NumElements count (%u), padded with null elements
+Unknown constant opcode 0x%X
+Unknown Integer type 0x%X
+Unimplemented data type: 0x%X
+AcpiDsInitObjectFromOp
+AcpiDsCreateNode
+AcpiDsBuildInternalObject
+AcpiDsBuildInternalPackageObj
+AcpiDsBuildInternalBufferObj
+dsobject
+Target of Create Field is not a Buffer object - %s
+(%s) destination not a NS Node [%s]
+Attempt to CreateField of length zero
+Unknown field creation opcode 0x%02X
+Field [%4.4s] at %u exceeds Buffer [%4.4s] size %u (bits)
+(%s) bad operand(s), status 0x%X
+RgnObj %p Addr %8.8X%8.8X Len %X
+ACPI Table [%4.4s] OEM:(%s, %s) not found in RSDT/XSDT
+AcpiDsEvalBankFieldOperands
+AcpiDsEvalDataObjectOperands
+AcpiDsEvalTableRegionOperands
+AcpiDsEvalRegionOperands
+AcpiDsInitBufferField
+AcpiDsEvalBufferFieldOperands
+dsopcode
+Removing reference on stale implicit return obj %p
+Result %p will be implicitly returned; Prev=%p
+At Method level, result of [%s] not used
+Result of [%s] used by Parent [%s] Op=%p
+Result of [%s] not used by Parent [%s] Op=%p
+Argument previously created, already stacked
+NumOperands %d, ArgCount %d, Index %d
+Created Arg #%u (%p) %u args total
+Null Op
+Unknown parent opcode Op=%p
+Getting a name: Arg=%p
+Null namepath: Arg=%p
+Missing or null operand
+While creating Arg %u
+AcpiDsEvaluateNamePath
+AcpiDsCreateOperands
+AcpiDsCreateOperand
+AcpiDsClearOperands
+AcpiDsResolveOperands
+AcpiDsDeleteResultIfNotUsed
+AcpiDsIsResultUsed
+AcpiDsDoImplicitReturn
+AcpiDsClearImplicitReturn
+dsutils
+Could not get result from predicate evaluation
+No predicate ObjDesc=%p State=%p
+Bad predicate (not an integer) ObjDesc=%p State=%p Type=0x%X
+Completed a predicate eval=%X Op=%p
+Exec predicate Op=%p State=%p
+While resolving operands for [%s]
+Method Reference in a Package, Op=%p
+Executing CreateField Buffer/Index Op=%p
+Executing CreateObject (Buffer/Package) Op=%p
+Executing OpRegion Address/Length Op=%p
+Executing DataTableRegion Strings Op=%p
+Internal opcode=%X type Op=%p
+Unimplemented opcode, class=0x%X type=0x%X Opcode=0x%X Op=%p
+(%s) Popping scope for Op %p
+Unknown opcode 0x%X
+Method invocation, Op=%p
+Executing BankField Op=%p
+Undefined opcode type Op=%p
+AcpiDsExecEndOp
+AcpiDsExecBeginOp
+AcpiDsGetPredicateValue
+dswexec
+State=%p Op=%p [%s]
+[%s] Override allowed
+[%s] Cannot already exist
+Type override - [%4.4s] had invalid type (%s) for Scope operator, changed to type ANY
+Invalid type (%s) for target of Scope operator [%4.4s] (Cannot override)
+[%s] Both Find or Create allowed
+LOADING-Method: State=%p Op=%p NamedObj=%p
+(%s): Popping scope for Op %p
+AcpiDsLoad1EndOp
+AcpiDsLoad1BeginOp
+dswload
+State=%p Op=%p Type=%X
+Opcode [%s] Op %p State %p
+Ending scope Op=%p State=%p
+Type override - [%4.4s] had invalid type (%s) for Scope operator, changed to type ANY
+***New Node [%4.4s] %p is temporary
+Create-Load [%s] State=%p Op=%p NamedObj=%p
+RESOLVING-MethodCall: State=%p Op=%p NamedObj=%p
+AcpiDsLoad2EndOp
+AcpiDsLoad2BeginOp
+dswload2
+Popped object type (%s)
+Null scope parameter
+Invalid object type: 0x%X
+[%.2d] Pushed scope 
+[%4.4s] (%s)
+[\___] (%s)
+ROOT
+, New scope -> [%4.4s] (%s)
+[\___] (ROOT)
+[%.2d] Popped scope [%4.4s] (%s), New scope -> 
+AcpiDsScopeStackPop
+AcpiDsScopeStackPush
+AcpiDsScopeStackClear
+dswscope
+No results on result stack
+Result stack is full
+Results=%p State=%p
+Obj=%p [%s] State=%p #Ops=%X
+Count=%X State=%p #Ops=%u
+Count=%X State=%p #Ops=%X
+Current WalkState %p
+%p is not a valid walk state
+No result state for result stack
+Result stack is empty! State=%p
+No result objects on result stack, State=%p
+Result stack underflow - State=%p
+Insufficient result stack size
+Result=%p RemainingResults=%X State=%p
+Obj=%p [%s] Index=%X State=%p Num=%X
+Result stack overflow: State=%p Num=%u
+No free elements in result stack
+No result stack frame during push
+Null Object! Obj=%p State=%p Num=%u
+Obj=%p [%s] State=%p Num=%X Cur=%X
+Failed to extend the result stack
+Object stack overflow! Obj=%p State=%p #Ops=%u
+Object stack underflow! Count=%X State=%p #Ops=%u
+%p walk still has a scope list
+AcpiDsDeleteWalkState
+AcpiDsInitAmlWalk
+AcpiDsCreateWalkState
+AcpiDsPopWalkState
+AcpiDsPushWalkState
+AcpiDsGetCurrentWalkState
+AcpiDsObjStackPopAndDelete
+AcpiDsObjStackPop
+AcpiDsObjStackPush
+AcpiDsResultStackPush
+AcpiDsResultPush
+AcpiDsResultStackPop
+AcpiDsResultPop
+dswstate
+Unable to initialize general purpose events
+Unable to initialize fixed events
+Unable to install System Control Interrupt handler
+Unable to initialize Global Lock handler
+Fixed Event Block: Enable %08X Status %08X
+No installed handler for fixed event - %s (%u), disabling
+AcpiEvFixedEventDetect
+AcpiEvInstallXruptHandlers
+AcpiEvInitializeEvents
+evevent
+Could not signal Global Lock semaphore
+No response from Global Lock hardware, disabling lock
+Acquired hardware Global Lock
+Cannot release the ACPI Global Lock, it has not been acquired
+Released hardware Global Lock
+AcpiEvReleaseGlobalLock
+AcpiEvAcquireGlobalLock
+AcpiEvRemoveGlobalLockHandler
+AcpiEvInitGlobalLockHandler
+evglock
+while evaluating GPE method [%4.4s]
+Unable to queue handler for GPE %02X - event disabled
+No handler or method for GPE %02X, disabling event
+Ignore disabled registers for GPE %02X-%02X: RunEnable=%02X, WakeEnable=%02X
+Read registers for GPE %02X-%02X: Status=%02X, Enable=%02X, RunEnable=%02X, WakeEnable=%02X
+Unable to disable GPE %02X
+Unable to clear GPE %02X
+AcpiEvAsynchExecuteGpeMethod
+AcpiEvGpeDispatch
+AcpiEvGpeDetect
+AcpiEvRemoveGpeReference
+AcpiEvAddGpeReference
+AcpiEvEnableGpe
+AcpiEvUpdateGpeEnableMask
+evgpe
+ (SCI)
+Could not enable GPE 0x%02X
+Could not allocate the GpeRegisterInfo table
+Could not allocate the GpeEventInfo table
+    Initialized GPE %02X to %02X [%4.4s] %u regs on interrupt 0x%X%s
+Enabled %u GPEs in block %02X to %02X
+AcpiEvInitializeGpeBlock
+AcpiEvInstallGpeBlock
+AcpiEvCreateGpeInfoBlocks
+AcpiEvCreateGpeBlock
+AcpiEvDeleteGpeBlock
+evgpeblk
+Ignoring unknown GPE method type: %s (name not of form _Lxx or _Exx)
+Could not extract GPE number from name: %s (name is not of form _Lxx or _Exx)
+For GPE 0x%.2X, found both _L%2.2X and _E%2.2X methods
+Registered GPE method %s as GPE number 0x%.2X
+Initializing General Purpose Events (GPEs):
+GPE0 block (GPE 0 to %u) overlaps the GPE1 block (GPE %u to %u) - Ignoring GPE1
+There are no GPE blocks defined in the FADT
+While decoding _Lxx/_Exx methods
+Could not create GPE Block 0
+Could not create GPE Block 1
+Enabled %u new GPEs
+AcpiEvMatchGpeMethod
+AcpiEvGpeInitialize
+evgpeinit
+Could not install GPE interrupt handler at level 0x%X
+AcpiEvDeleteGpeHandlers
+AcpiEvDeleteGpeXrupt
+AcpiEvGetGpeXruptBlock
+AcpiEvWalkGpeList
+evgpeutil
+Found handler for region [%s] in device %p(%p) handler %p
+Creating object on Device %p while installing handler
+Installing address handler for region %s(%X) on Device %4.4s %p(%p)
+AcpiEvInstallHandler
+AcpiEvInstallSpaceHandler
+AcpiEvInstallRegionHandlers
+evhandler
+No notify handler for Notify, ignoring (%4.4s, %X) node %p
+Dispatching Notify on [%4.4s] (%s) Value 0x%2.2X (%s) Node %p
+Could not disable fixed event %u
+Could not remove Global Lock handler
+Could not remove SCI handler
+AcpiDisable failed
+AcpiEvTerminate
+AcpiEvQueueNotifyRequest
+evmisc
+No handler for Region [%4.4s] (%p) [%s]
+No init routine for region(%p) [%s]
+During region initialization: [%s]
+Handler %p (@%p) Address %8.8X%8.8X [%s]
+Adding Region [%4.4s] %p to address handler %p [%s]
+Removing Region %p from address handler %p
+from region handler - deactivate, [%s]
+Circular handler list in region object %p
+Cannot remove region %p from address handler %p
+    Running _REG methods for SpaceId %s
+    Executed %u _REG methods for SpaceId %s
+Returned by Handler for [%s]
+from region _REG, [%s]
+_REG
+AcpiEvOrphanEcRegMethod
+AcpiEvExecuteRegMethods
+AcpiEvExecuteRegMethod
+AcpiEvAssociateRegMethod
+AcpiEvAttachRegion
+AcpiEvDetachRegion
+AcpiEvAddressSpaceDispatch
+AcpiEvInitializeOpRegions
+evregion
+Attempting to init a region %p, with no handler
+Could not install PciConfig handler for Root Bridge %4.4s
+Found handler %p for region %p in obj %p
+No handler for RegionType %s(%X) (RegionObj %p)
+_SEG
+_BBN
+_ADR
+AcpiEvInitializeRegion
+AcpiEvDefaultRegionSetup
+AcpiEvCmosRegionSetup
+AcpiEvPciBarRegionSetup
+AcpiEvPciConfigRegionSetup
+AcpiEvIoSpaceRegionSetup
+AcpiEvSystemMemoryRegionSetup
+evrgnini
+AcpiEvRemoveAllSciHandlers
+AcpiEvSciXruptHandler
+AcpiEvInstallSciHandler
+AcpiEvGpeXruptHandler
+evsci
+GPE type mismatch (level/edge)
+Removing global notify handler
+Could not enable fixed event - %s (%u)
+Enabled fixed event %s (%X), Handler=%p
+Could not disable fixed event - %s (%u)
+Disabled fixed event - %s (%X)
+AcpiRemoveGpeHandler
+AcpiInstallGpeRawHandler
+AcpiEvInstallGpeHandler
+AcpiInstallGpeHandler
+AcpiRemoveFixedEventHandler
+AcpiInstallFixedEventHandler
+AcpiInstallGlobalEventHandler
+AcpiRemoveSciHandler
+AcpiInstallSciHandler
+AcpiInstallExceptionHandler
+AcpiRemoveNotifyHandler
+AcpiInstallNotifyHandler
+evxface
+System is already in ACPI mode
+Could not transition to ACPI mode
+Transition to ACPI mode successful
+System is already in legacy (non-ACPI) mode
+Could not exit ACPI mode to legacy mode
+ACPI mode disabled
+Could not enable %s event
+Could not disable %s events
+AcpiGetEventStatus
+AcpiClearEvent
+AcpiDisableEvent
+AcpiEnableEvent
+AcpiDisable
+AcpiEnable
+evxfevnt
+%u, Invalid action
+AcpiGetGpeDevice
+AcpiRemoveGpeBlock
+AcpiInstallGpeBlock
+AcpiEnableAllWakeupGpes
+AcpiEnableAllRuntimeGpes
+AcpiDisableAllGpes
+A Santa lives evil at NASA
+AcpiFinishGpe
+AcpiGetGpeStatus
+AcpiClearGpe
+AcpiSetGpeWakeMask
+AcpiSetupGpeForWake
+AcpiMarkGpeForWake
+AcpiSetGpe
+AcpiDisableGpe
+AcpiEnableGpe
+AcpiUpdateAllGpes
+evxfgpe
+Removing address handler %p(%p) for region %s on Device %p(%p)
+Unable to remove address handler %p for %s(%X), DevNode %p, obj %p
+AcpiRemoveAddressSpaceHandler
+AcpiInstallAddressSpaceHandler
+evxfregn
+Received request to unload an ACPI table
+Load table from Buffer or Field %p
+Dynamic OEM Table Load:
+Load table from Region %p
+AcpiExUnloadTable
+AcpiExLoadOp
+AcpiExAddTable
+AcpiExLoadTableOp
+exconfig
+Converted value: %8.8X%8.8X
+Explicit operator, will store (%s) over existing type (%s)
+Bad destination type during conversion: 0x%X
+Unknown Target type ID 0x%X AmlOpcode 0x%X DestType %s
+AcpiExConvertToTargetType
+AcpiExConvertToString
+AcpiExConvertToBuffer
+AcpiExConvertToInteger
+exconvrt
+Invalid/unknown Address Space ID: 0x%2.2X
+Region Type - %s (0x%X)
+AcpiExCreateMethod
+AcpiExCreatePowerResource
+AcpiExCreateProcessor
+AcpiExCreateRegion
+AcpiExCreateMutex
+AcpiExCreateEvent
+AcpiExCreateAlias
+excreate
+[ACPI Debug T=0x%8.8X] %*s
+[ACPI Debug] %*s
+(%.2u) 
+%s  
+%p, Invalid Internal Object!
+%s  (Node %p)
+[0x%.2X]
+(Contains 0x%.2X Elements):
+Table Index 0x%X
+Node %p [%4.4s] 
+Device
+Thermal Zone
+Buffer[%u] = 0x%2.2X
+String[%u] = "%c" (0x%2.2X)
+Package[%u] = 
+(Descriptor %p)
+ %p - Not a valid namespace node
+[Uninitialized Package Element]
+Unknown Reference object type %X
+AcpiExDoDebugObject
+exdebug
+Target :
+%22s %p
+ Table Index: %X
+ Target: %p
+[%.2d] 
+[String]  Value: 
+%20s : %2.2X [%s]
+%20s : %2.2X
+%20s : %4.4X
+%20s : %8.8X
+Value
+%20s : %8.8X%8.8X
+%20s : %p
+Package Contents:
+Class Name
+%20s : %s
+%20s : %p
+->%p(%s %2.2X)
+Null Object Descriptor
+%p Namespace Node: 
+%*s[%u] %p 
+Reference: [%s] 
+Table Index %X
+- [%4.4s]
+Buffer length %.2X @ %p
+Integer %8.8X%8.8X
+Region %s (%X)
+ base %8.8X%8.8X Length %X
+String length %X @ %p 
+BankField
+IndexField
+*NULL*
+*not a Buffer*
+Event
+Method(%X) @ %p:%X
+Mutex
+Power
+Processor
+Thermal
+Unknown Type %X
+%20s : %4.4s
+Extra attached Object (%p):
+Owner Id
+Object List
+Child
+Peer
+Field Flags
+Access Byte Width
+Bit Length
+Field Bit Offset
+Base Byte Offset
+Parent Node
+Reference Count
+Raw Data
+_REG Method
+Scope Node
+Region Context
+Aml Start
+Aml Length
+Handler Type
+Next System Notify
+Next Device Notify
+Space Id
+Next
+Region List
+Class
+Target Type
+Object Desc
+Where
+Index Pointer
+Index Object
+Data Object
+Region Object
+Bank Object
+AccessLength
+ResourceBuffer
+Buffer Object
+Processor ID
+System Level
+Resource Order
+Original Sync Level
+Owner Thread
+Acquire Depth
+OsMutex
+Info Flags
+Parameter Count
+Thread Count
+OsSemaphore
+Elements
+Element List
+ Could not convert name to pathname
+[Object Reference] Type [%s] %2.2X
+ExDumpObject: Display not implemented for object type %s
+**** Error: Object list appears to be circular linked
+**** Error: Handler list appears to be circular linked
+**** Error: Region list appears to be circular linked
+**** Invalid table opcode [%X] ****
+%p is not a node or operand object: [%s]
+Buffer Contents: (displaying length 0x%.2X)
+Package [Len %X] ElementArray %p
+RegionField: Bits=%X AccWidth=%X Lock=%X Update=%X at byte=%X bit=%X of below:
+BufferField: %X bits at byte %X bit %X of
+**** Start operand dump for opcode [%s], %u operands
+**** End operand dump for [%s]
+%p is not an ACPI operand object: [%s]
+Not a known object type: %2.2X
+Secondary object is not a known object type: %2.2X
+AcpiExDumpObjectDescriptor
+AcpiExDumpOperands
+AcpiExDumpOperand
+( >F
+0*>F
+0B>F
+8U>F
+8q>F
+0v>F
+,+?F
+0.>F
+ q>F
+@:?F
+ N?F
+5j=F
+0*>F
+  >F
+exdump
+GPIO FieldRead [FROM]:  Pin %u Bits %u
+FieldRead [TO]:   Obj %p, Type %X, Buf %p, ByteLen %X
+FieldRead [FROM]: BitLen %X, BitOff %X, ByteOff %X
+SMBus/IPMI/GenericSerialBus write requires Buffer, found type %s
+SMBus/IPMI/GenericSerialBus write requires Buffer of length %u, found length %u
+GPIO FieldWrite [FROM]: (%s:%X), Val %.8X  [TO]: Pin %u Bits %u
+FieldWrite [FROM]: Obj %p (%s:%X), Buf %p, ByteLen %X
+FieldWrite [TO]:   Obj %p (%s:%X), BitLen %X, BitOff %X, ByteOff %X
+AcpiExWriteDataToField
+AcpiExReadDataFromField
+exfield
+Index value 0x%8.8X%8.8X overflows field width 0x%X
+Needed Region, found type 0x%X (%s)
+Field [%4.4s] access width (%u bytes) too large for region [%4.4s] (length %u)
+Field [%4.4s] Base+Offset+Width %u+%u+%u is beyond end of region [%4.4s] (length %u)
+ Region [%s:%X], Width %X, ByteBase %X, Offset %X at %8.8X%8.8X
+Region %s (ID=%u) not implemented
+Region %s (ID=%u) has no handler
+Write to Index Register: Value %8.8X
+Write to Data Register: Value %8.8X%8.8X
+Wrong object type in field I/O %u
+Value Read %8.8X%8.8X, Width %u
+Value Written %8.8X%8.8X, Width %u
+Unknown UpdateRule value: 0x%X
+Mask %8.8X%8.8X, DatumOffset %X, Width %X, Value %8.8X%8.8X, MergedValue %8.8X%8.8X
+Field size %u (bits) is too large for buffer (%u)
+[READ]
+[WRITE]
+Read from Data Register
+AcpiExInsertIntoField
+AcpiExExtractFromField
+AcpiExFieldDatumIo
+AcpiExWriteWithUpdateRule
+AcpiExSetupRegion
+AcpiExAccessRegion
+exfldio
+Invalid Reference Class 0x%2.2X
+Object %p Type [%s], returning Reference %p
+Invalid descriptor type 0x%X
+AcpiExDoLogicalOp
+AcpiExDoLogicalNumericOp
+AcpiExDoConcatenate
+AcpiExConcatTemplate
+AcpiExGetObjectReference
+exmisc
+Cannot acquire Mutex [%4.4s], null thread info
+Cannot acquire Mutex [%4.4s], current SyncLevel is too large (%u)
+Acquiring: Mutex SyncLevel %u, Thread SyncLevel %u, Depth %u TID %p
+Acquired: Mutex SyncLevel %u, Thread SyncLevel %u, Depth %u
+Cannot release Mutex [%4.4s], not acquired
+Cannot release Mutex [%4.4s], null thread info
+Thread %u cannot release Mutex [%4.4s] acquired by thread %u
+Cannot release Mutex [%4.4s], SyncLevel mismatch: mutex %u current %u
+Releasing: Object SyncLevel %u, Thread SyncLevel %u, Prev SyncLevel %u, Depth %u TID %p
+Released: Object SyncLevel %u, Thread SyncLevel, %u, Prev SyncLevel %u, Depth %u
+Mutex [%4.4s] force-release, SyncLevel %u Depth %u
+AcpiExReleaseAllMutexes
+AcpiExReleaseMutex
+AcpiExReleaseMutexObject
+AcpiExAcquireMutex
+AcpiExAcquireMutexObject
+exmutex
+Could not allocate size %u
+Invalid leading digit: %c
+Bytes from stream:
+Appended to - %s
+No Name string - %s
+RootPrefix(\) at %p
+ParentPrefix (^) at %p
+DualNamePrefix at %p
+MultiNamePrefix at %p
+Malformed Name at %p
+Leading character is not alpha: %02Xh (not a name)
+Bad character 0x%02x in name, at %p
+NameSeg is "\" followed by NULL
+AcpiExNameSegment
+AcpiExAllocateNameString
+AcpiExGetNameString
+exnames
+Unknown AML opcode 0x%X
+AcpiExOpcode_1A_0T_1R
+AcpiExOpcode_1A_1T_1R
+AcpiExOpcode_1A_1T_0R
+AcpiExOpcode_1A_0T_0R
+AcpiExOpcode_0A_0T_1R
+exoparg1
+BCD digit too large (not decimal): 0x%X
+Integer too large to convert to BCD: 0x%8.8X%8.8X
+%s is obsolete and not implemented
+Operand must be Buffer/Integer/String/Package - found type %s
+Unknown Index TargetType 0x%X in reference object %p
+Unknown class in reference(%p) - 0x%2.2X
+Unexpected notify object type [%s]
+Index (0x%X%8.8X) is beyond end of object (length 0x%X)
+AcpiExOpcode_2A_0T_1R
+AcpiExOpcode_2A_1T_1R
+AcpiExOpcode_2A_2T_1R
+AcpiExOpcode_2A_0T_0R
+exoparg2
+FatalOp: Type %X Code %X Arg %X <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+AcpiExOpcode_3A_1T_1R
+AcpiExOpcode_3A_0T_0R
+exoparg3
+AcpiExOpcode_6A_0T_1R
+exoparg6
+Match operator out of range
+Index (0x%8.8X%8.8X) beyond package end (0x%X)
+Unknown field access type 0x%X
+RegionField: BitOff %X, Off %X, Gran %X, Region %p
+Bank Field: BitOff %X, Off %X, Gran %X, Region %p, BankReg %p
+Null Index Object during field prep
+IndexField: BitOff %X, Off %X, Value %X, Gran %X, Index %p, Data %p
+Set NamedObj %p [%4.4s], ObjDesc %p
+AcpiExPrepFieldValue
+AcpiExDecodeFieldAccess
+AcpiExPrepCommonFieldObject
+exprep
+Null RegionNode
+Invalid SystemMemory width %u
+Could not map memory at 0x%8.8X%8.8X, size %u
+System-Memory (width %u) R/W %u Address=%8.8X%8.8X
+System-IO (width %u) R/W %u Address=%8.8X%8.8X
+Pci-Config %u (%u) Seg(%04x) Bus(%04x) Dev(%04x) Func(%04x) Reg(%04x)
+AcpiExDataTableSpaceHandler
+AcpiExPciBarSpaceHandler
+AcpiExCmosSpaceHandler
+AcpiExPciConfigSpaceHandler
+AcpiExSystemIoSpaceHandler
+AcpiExSystemMemorySpaceHandler
+exregion
+Entry=%p SourceDesc=%p [%s]
+Object not a Package, type %s
+Object not a Buffer, type %s
+Object not a String, type %s
+Object not a Integer, type %s
+No object attached to node [%4.4s] %p
+FieldRead Node=%p SourceDesc=%p Type=%X
+Untyped entry %p, no attached object!
+Unsupported Reference type 0x%X
+Node %p - Unknown object type 0x%X
+AcpiExResolveNodeToValue
+exresnte
+Internal - null pointer
+Resolved object %p
+Not a namespace node %p [%s]
+[Arg/Local %X] ValueObj is %p
+Attempt to dereference an Index to NULL package element Idx=%p
+Unknown TargetType 0x%X in Index/Reference object %p
+Unknown Reference type 0x%X in %p
+FieldRead SourceDesc=%p Type=%X
+[%4.4s] Node is unresolved or uninitialized
+Unknown Reference Class 0x%2.2X
+AcpiExResolveMultiple
+AcpiExResolveObjectToValue
+AcpiExResolveToValue
+exresolv
+Needed type [%s], found [%s] %p
+Opcode %X [%s] RequiredOperandTypes=%8.8X
+Bad operand object type [0x%X]
+Operand is a Reference, Class [%s] %2.2X
+Unknown Reference Class 0x%2.2X in %p
+Needed [Integer/String/Buffer], found [%s] %p
+Needed [Buffer/String/Package/Reference], found [%s] %p
+Needed [Buffer/String/Package], found [%s] %p
+Needed [Region/Buffer], found [%s] %p
+Needed Integer/Buffer/String/Package/Ref/Ddb], found [%s] %p
+Internal - Unknown ARGI (required operand) type 0x%X
+Null stack entry at %p
+Invalid descriptor %p [%s]
+AcpiExResolveOperands
+exresop
+Storing [%s] (%p) directly into node [%s] (%p) with no implicit conversion
+Storing %p [%s] to node %p [%s]
+Cannot assign type [%s] to [Package] (source must be type Pkg)
+Target must be [Buffer/Integer/String/Reference], found [%s] (%4.4s)
+Store type [%s] into [%s] via Convert/Attach
+Target is not a Reference or Constant object - [%s] %p
+Source must be type [Integer/Buffer/String], found [%s]
+Target is not of type [Package/BufferField]
+**** Write to Debug Object: Object %p [%s] ****:
+Null parameter
+AcpiExStoreDirectToNode
+AcpiExStoreObjectToNode
+AcpiExStoreObjectToIndex
+AcpiExStore
+exstore
+Cannot assign type [%s] to [%s] (must be type Int/Str/Buf)
+Store into an unresolved Alias object
+Store into type [%s] not implemented
+AcpiExStoreObjectToObject
+AcpiExResolveObject
+exstoren
+Truncating source buffer from %X to %X
+AcpiExStoreStringToString
+AcpiExStoreBufferToBuffer
+exstorob
+*** Thread awake after blocking, %s
+Time parameter is too large (%u)
+AcpiExSystemWaitEvent
+AcpiExSystemSignalEvent
+AcpiExSystemWaitMutex
+AcpiExSystemWaitSemaphore
+exsystem
+Begin
+%s %s [0x%p:%s] execution.
+%s %s [0x%p] execution.
+AcpiExTracePoint
+extrace
+Could not acquire AML Interpreter mutex
+Could not release AML Interpreter mutex
+Expected EISAID is larger than 32 bits: 0x%8.8X%8.8X, truncating
+Could not acquire Global Lock
+Could not release Global Lock
+AcpiExDigitsNeeded
+AcpiExReleaseGlobalLock
+AcpiExAcquireGlobalLock
+AcpiExExitInterpreter
+AcpiExEnterInterpreter
+exutils
+Option requires an argument: -
+Option requires a single-character suboption: -
+%s%c
+Illegal option: -
+No SMI_CMD in FADT, mode transition failed
+No ACPI mode transition supported in this system (enable/disable both zero)
+Attempting to enable ACPI mode
+Attempting to enable Legacy (non-ACPI) mode
+Could not write ACPI mode change
+Mode %X successfully enabled
+Hardware did not change modes
+AcpiHwGetMode
+AcpiHwSetMode
+hwacpi
+While executing method %s
+Entering sleep state [S%u]
+\_SI._SST
+\_WAK
+AcpiHwExtendedWake
+AcpiHwExtendedWakePrep
+AcpiHwExtendedSleep
+AcpiHwExecuteSleepMethod
+hwesleep
+Invalid GPE Action, %u
+AcpiHwEnableAllWakeupGpes
+AcpiHwEnableAllRuntimeGpes
+AcpiHwDisableAllGpes
+hwgpe
+Input PciId:  Seg %4.4X Bus %4.4X Dev %4.4X Func %4.4X
+Output PciId: Seg %4.4X Bus %4.4X Dev %4.4X Func %4.4X Status %X BusNumber %X IsBridge %X
+AcpiHwProcessPciList
+AcpiHwDerivePciId
+hwpci
+Unsupported address space: 0x%X
+Unsupported register bit width: 0x%X
+Unsupported register bit offset: 0x%X
+Read:  %8.8X width %2d from %8.8X%8.8X (%s)
+Wrote: %8.8X width %2d   to %8.8X%8.8X (%s)
+About to write %04X to %8.8X%8.8X
+Invalid BitRegister ID: 0x%X
+Unknown Register ID: 0x%X
+AcpiHwRegisterWrite
+AcpiHwRegisterRead
+AcpiHwWritePm1Control
+AcpiHwClearAcpiStatus
+AcpiHwWrite
+AcpiHwRead
+hwregs
+AcpiHwLegacyWake
+AcpiHwLegacyWakePrep
+AcpiHwLegacySleep
+hwsleep
+Bad BitWidth parameter: %8.8X
+PIC0
+PIT1
+PIT2
+DMA1
+DMA1L
+DMA2
+DMA2L
+ARBC
+SETUP
+PIC1
+IDMA
+ELCR
+Address %8.8X%8.8X LastAddress %8.8X%8.8X Length %X
+Illegal I/O port address/length above 64K: %8.8X%8.8X/0x%X
+Denied AML access to port 0x%8.8X%8.8X/%X (%s 0x%.4X-0x%.4X)
+AcpiHwValidateIoRequest
+hwvalid
+Read:  %8.8X%8.8X width %2d from %8.8X%8.8X (%s)
+Wrote: %8.8X%8.8X width %2d   to %8.8X%8.8X (%s)
+BitReg %X, ParentReg %X, Actual %8.8X, ReturnValue %8.8X
+BitReg %X, ParentReg %X, Value %8.8X, Actual %8.8X
+No Sleep State object returned from [%s]
+Sleep State return object is not a Package
+While evaluating Sleep State [%s]
+AcpiGetSleepTypeData
+AcpiWriteBitRegister
+AcpiReadBitRegister
+AcpiWrite
+AcpiRead
+AcpiReset
+hwxface
+\_PTS
+Sleep values out of range: A=0x%X B=0x%X
+AcpiLeaveSleepState
+AcpiLeaveSleepStatePrep
+AcpiEnterSleepState
+AcpiEnterSleepStatePrep
+AcpiEnterSleepStateS4bios
+AcpiHwSetFirmwareWakingVector
+AcpiSetFirmwareWakingVector
+hwxfsleep
+Null scope prefix, using root node (%p)
+%p is not a namespace node [%s]
+Null Pathname (Zero segments), Flags=%X
+Path is absolute from root [%p]
+Searching relative to prefix scope [%4.4s] (%p)
+%s: Path has too many parent prefixes (^) - reached beyond root node
+Search scope is [%4.4s], path has %u carat(s)
+Prefix-only Pathname (Zero name segments), Flags=%X
+Dual Pathname (2 segments, Flags=%X)
+Multi Pathname (%u Segments, Flags=%X)
+Simple Pathname (1 segment, Flags=%X)
+Name [%4.4s] not found in scope [%4.4s] %p
+NsLookup: Type mismatch on %4.4s (%s), searching for (%s)
+Entering predefined entries into namespace
+Could not create predefined name %s
+Could not override predefined %s
+Unsupported initial type value 0x%X
+_GL_
+AcpiNsLookup
+AcpiNsRootInitialize
+nsaccess
+Node %p, Remaining %X
+Found a grandchild! P=%p C=%p
+%4.4s (%s) [Node %p Owner %X] added to %4.4s (%s) [Node %p]
+AcpiNsDeleteNamespaceByOwner
+AcpiNsDeleteNamespaceSubtree
+AcpiNsDeleteChildren
+AcpiNsInstallNode
+AcpiNsRemoveNode
+AcpiNsDeleteNode
+AcpiNsCreateNode
+nsalloc
+Argument #%u type mismatch - Found [%s], ACPI requires [%s]
+Object (%s) must be a control method with %u arguments
+Object (%s) must be a control method with no arguments and no return value
+Insufficient arguments - ASL declared %u, ACPI requires %u
+Excess arguments - ASL declared %u, ACPI requires %u
+%u arguments were passed to a non-method ACPI object (%s)
+Insufficient arguments - Caller passed %u, method requires %u
+Excess arguments - Caller passed %u, method requires %u
+Insufficient arguments - Caller passed %u, ACPI requires %u
+Excess arguments - Caller passed %u, ACPI requires %u
+nsarguments
+AcpiNsConvertToReference
+nsconvert
+%2d%*s%-12s%*s
+Null object handle
+Invalid object handle %p
+%2d%*s
+ %-12s %p %2.2X 
+(T) 
+<No attached object>
+Notify Object: %p
+Args %X Len %.4X Aml %p
+Elements %.2X
+[Length not yet evaluated]
+Len %.2X
+ %.2hX
+Len %.2X 
+ Addr %8.8X%8.8X Len %.4X
+Buf [%4.4s]
+Rgn [%4.4s]
+Rgn [%4.4s] Bnk [%4.4s]
+Idx [%4.4s] Dat [%4.4s]
+Target %4.4s (%p)
+ Off %.3X Len %.2X Acc %.2hd
+O:%p
+(R%u)
+ M:%p-%X
+ I:%8.8X8.8%X
+ S:%p-%X
+ B:%p-%X
+Attached Object %p: 
+(Ptr to Node)
+Invalid ACPI Object Type 0x%08X
+ID %02X Len %02X Addr %8.8X%8.8X
+ [Address/Length not yet evaluated]
+(Pointer to ACPI Object type %.2X [UNKNOWN])
+(Pointer to ACPI Object type %.2X [%s])
+(Buffer/String pointer %p length %X)
+Could not acquire namespace mutex
+AcpiNsDumpOneObject
+AcpiNsDumpPathname
+AcpiNsPrintPathname
+nsdump
+%s [%p] Value %p
+Returned object %p [%s]
+Excess arguments (%u) - using only %u
+%s: Evaluation of object type [%s] is not supported
+%s: Method has no attached sub-object
+**** Execute method [%s] at AML address %p length %X
+*** Completed evaluation of object %s ***
+Executed module-level code at %p
+Executed %u blocks of module-level executable AML code
+AcpiNsExecModuleCode
+AcpiNsExecModuleCodeList
+AcpiNsEvaluate
+nseval
+Could not execute arguments for [%4.4s] (%s)
+Completing Region/Field/Buffer/Package initialization:
+    Initialized %u/%u Regions %u/%u Fields %u/%u Buffers %u/%u Packages (%u nodes)
+%u Control Methods found
+%u Op Regions found
+Initializing Device/Processor/Thermal objects and executing _INI/_STA methods:
+    Executed %u _INI methods requiring %u _STA executions (examined %u objects)
+AcpiNsInitOneDevice
+AcpiNsInitializeDevices
+AcpiNsInitializeObjects
+nsinit
+_STA
+_INI
+during %s._INI execution
+During device initialization
+**** Loading table into namespace ****
+**** Begin Table Object Initialization
+**** Completed Table Object Initialization
+AcpiNsLoadTable
+nsload
+%s [%X]
+Could not allocate %u bytes
+AcpiNsGetNormalizedPathname
+AcpiNsBuildNormalizedPath
+AcpiNsHandleToPathname
+AcpiNsGetExternalPathname
+nsnames
+Node %p [%4.4s] Object %p
+Null NamedObj handle
+Invalid handle %p [%s]
+Null Node ptr
+Null object, but type not ACPI_TYPE_ANY
+Obj %p already installed in NameObj %p
+Installing %p into Node %p [%4.4s]
+AcpiNsGetSecondaryObject
+AcpiNsGetAttachedObject
+AcpiNsDetachObject
+AcpiNsAttachObject
+nsobject
+*PARSE* pass %u parse
+**** Start pass 1
+**** Start pass 2
+AcpiNsParseTable
+AcpiNsOneCompleteParse
+nsparse
+Invalid return type - Found a Namespace node [%4.4s] type %s
+Return type mismatch - unexpected reference object type [%s] %2.2X
+Expected return object of type %s
+Return type mismatch - found %s, expected %s
+Return Package type mismatch at index %u - found %s, expected %s
+nspredef
+_AC0
+_AC1
+_AC2
+_AC3
+_AC4
+_AC5
+_AC6
+_AC7
+_AC8
+_AC9
+_ADR
+_AEI
+_AL0
+_AL1
+_AL2
+_AL3
+_AL4
+_AL5
+_AL6
+_AL7
+_AL8
+_AL9
+_ALC
+_ALI
+_ALP
+_ALR
+_ALT
+_ART
+_BBN
+_BCL
+_BCM	
+_BCT	
+_BDN
+_BFS	
+_BIF
+_BIX
+_BLTK
+_BMA	
+_BMC	
+_BMD
+_BMS	
+_BQC
+_BST
+_BTH	
+_BTM	
+_BTP	
+_CBA
+_CCA
+_CDM
+_CID
+_CLS
+_CPC
+_CR3
+_CRS
+_CRT
+_CSD
+_CST
+_CWS	
+_DCK	
+_DCS
+_DDC	
+_DDN
+_DEP
+_DGS
+_DIS
+_DLM
+_DMA
+_DOD
+_DOS	
+_DSD
+_DSM\B?_DSS	
+_DSWK
+_DTI	
+_EC_
+_EDL
+_EJ0	
+_EJ1	
+_EJ2	
+_EJ3	
+_EJ4	
+_EJD
+_ERR
+_EVT	
+_FDE
+_FDI
+_FDM	
+_FIF
+_FIX
+_FPS
+_FSL	
+_FST
+_GAI
+_GCP
+_GHL
+_GLK
+_GPD
+_GPE
+_GRT
+_GSB
+_GTF
+_GTM
+_GTS	
+_GWS	
+_HID
+_HOT
+_HPP
+_HPX
+_HRV
+_IFT
+_INI
+_IRC
+_LCK	
+_LID
+_LPD
+_LPI
+_MAT
+_MBM
+_MLS
+_MSG	
+_MSML
+_MTL
+_NTT
+_OFF
+_ON_
+_OS_
+_OSC\2
+_OSTK
+_PAI	
+_PCL
+_PCT
+_PDC
+_PDL
+_PIC	
+_PIF
+_PLD
+_PMC
+_PMD
+_PMM
+_PPC
+_PPE
+_PR0
+_PR1
+_PR2
+_PR3
+_PRE
+_PRL
+_PRR
+_PRS
+_PRT
+_PRW
+_PS0
+_PS1
+_PS2
+_PS3
+_PSC
+_PSD
+_PSE	
+_PSL
+_PSR
+_PSS
+_PSV
+_PSW	
+_PTC
+_PTPJ
+_PTS	
+_PUR
+_PXM
+_RDI
+_REGJ
+_REV
+_RMV
+_ROMJ
+_RST
+_RTV
+_S0_
+_S1_
+_S2_
+_S3_
+_S4_
+_S5_
+_S1D
+_S2D
+_S3D
+_S4D
+_S0W
+_S1W
+_S2W
+_S3W
+_S4W
+_SBS
+_SCP	
+_SDD
+_SEG
+_SHL	
+_SLI
+_SPD	
+_SRS
+_SRT
+_SRV
+_SST	
+_STA
+_STM
+_STPJ
+_STR
+_STVJ
+_SUB
+_SUN
+_SWS
+_TC1
+_TC2
+_TDL
+_TFP
+_TIP	
+_TIV	
+_TMP
+_TPC
+_TPT	
+_TRT
+_TSD
+_TSN
+ _TSP
+_TSS
+_TST
+_TTS	
+_TZD
+_TZM
+ _TZP
+_UID
+_UPC
+_UPD
+_UPP
+_VPO
+_WAK	
+_WDG
+_WED	
+Return SubPackage[%u] is too small - found %u elements, expected %u
+%s Validating return Package of Type %X, Count %X
+Return Package has no elements (empty)
+%s: Return Package is larger than needed - found %u, expected %u
+Invalid length for UUID Buffer
+Invalid internal return type in table entry: %X
+Return Package is too small - found %u elements, expected %u
+AcpiNsCheckPackage
+nsprepkg
+%s: Converted NULL package element to expected %s at index %u
+%s: Found and removed %u NULL elements
+%s: Wrapped %s with expected Package object
+Found unexpected NULL package element
+%s: Converted %s to expected %s at Package index %u
+%s: Converted %s to expected %s
+Missing expected return value
+During return object analysis
+AcpiNsWrapWithPackage
+AcpiNsRemoveNullElements
+AcpiNsRepairNullElement
+AcpiNsSimpleRepair
+_CRS
+_DMA
+_PRS
+_DEP
+_MLS
+_STR
+nsrepair
+PRT[%X]: Fixed reversed SourceName and SourceIndex
+Invalid zero-length _HID or _CID string
+%s: Removed invalid leading asterisk
+Incorrect return buffer length %u, expected %u
+%s Expanded Byte Buffer to expected DWord Buffer
+%s: Repaired unsorted list - now sorted by %s
+SubPackage[%u,%u] - suspicious power dissipation values
+SubPackage[%u] - removing entry due to zero count
+SubPackage[%u] - removing entry due to invalid Type(0)
+^_PSS
+PowerDissipation
+AmbientIlluminance
+CpuFrequency
+C-State Type
+AcpiNsRepair_FDE
+AcpiNsRepair_HID
+AcpiNsCheckSortedList
+_ALR
+_CID
+_CST
+_FDE
+_GTM
+_HID
+_PRT
+_PSS
+_TSS
+nsrepair2
+Searching %s (%p) For [%4.4s] (%s)
+Name [%4.4s] (%s) %p found in scope [%4.4s] %p
+Name [%4.4s] (%s) not found in search in scope [%4.4s] %p first child %p
+Null parameter: Node %p Name 0x%X ReturnNode %p
+Namespace override: %4.4s pass %u type %X Owner %X
+[%4.4s] type [%s] must be local to this scope (no parent search)
+Searching parent [%4.4s] for [%4.4s]
+%4.4s Not found in %p [Not adding]
+[%4.4s] has no parent
+AcpiNsSearchParentTree
+AcpiNsSearchAndEnter
+AcpiNsSearchOneScope
+nssearch
+Null Node parameter
+Invalid Object Type 0x%X
+Returning [%p] (abs) "\%s"
+Returning [%p] (rel) "%s"
+Invalid internal name
+Namespace freed
+%s, %s
+AcpiNsGetNode
+AcpiNsTerminate
+AcpiNsExternalizeName
+AcpiNsInternalizeName
+AcpiNsBuildInternalName
+AcpiNsLocal
+AcpiNsGetType
+nsutils
+AcpiNsWalkNamespace
+nswalk
+Both Handle and Pathname are NULL
+Null Handle with relative pathname [%s]
+Incorrect return type [%s] requested [%s]
+Needed buffer size %X, %s
+No return value
+AcpiGetDevices
+AcpiWalkNamespace
+AcpiEvaluateObject
+AcpiEvaluateObjectTyped
+nsxfeval
+nsxfname
+Could not open file
+Error reading file
+Error writing file
+Could not get terminal attributes!
+Could not set terminal attributes!
+Could not restore terminal attributes!
+clock_gettime
+sem_timedwait
+Create thread failed
+Control Method - %p Desc %p Path=%p
+Control Method %p has no attached object
+Control Method - %p Args %X
+Invalid ArgType 0x%X
+Invalid ArgType: 0x%X
+AcpiPsGetNextField
+AcpiPsGetNextArg
+AcpiPsGetNextSimpleArg
+AcpiPsGetNextNamepath
+AcpiPsGetNextNamestring
+AcpiPsGetNextPackageLength
+AcpiPsGetNextPackageEnd
+psargs
+Invoked method did not return a value
+Create/Link new code block: %p
+Appending to existing code block: %p
+Pass1: Skipping an If/Else/While body
+Unsupported module-level executable opcode 0x%.2X at table offset 0x%.4X
+GetPredicate Failed
+Popped scope, Op=%p
+AcpiPsLinkModuleCode
+AcpiPsGetArguments
+AcpiPsParseLoop
+psloop
+During name lookup/catalog
+Unknown opcode 0x%.2X at table offset 0x%.4X, ignoring
+AML package complete at Op %p
+AcpiPsCompleteFinalOp
+AcpiPsCompleteOp
+AcpiPsGetAmlOpcode
+AcpiPsCreateOp
+AcpiPsBuildNamedOp
+psobject
+ByteConst
+WordConst
+DwordConst
+Local0
+Local1
+Local2
+Local3
+Local4
+Local5
+Local6
+Local7
+Arg0
+Arg1
+Arg2
+Arg3
+Arg4
+Arg5
+Arg6
+Store
+Concatenate
+Subtract
+Increment
+Decrement
+Multiply
+Divide
+ShiftLeft
+ShiftRight
+NAnd
+FindSetLeftBit
+FindSetRightBit
+DerefOf
+SizeOf
+Match
+CreateDWordField
+CreateWordField
+CreateByteField
+CreateBitField
+ObjectType
+LAnd
+LNot
+LEqual
+LGreater
+LLess
+While
+Noop
+Return
+Break
+BreakPoint
+CondRefOf
+CreateField
+Load
+Stall
+Sleep
+Acquire
+Signal
+Wait
+Reset
+Release
+FromBCD
+ToBCD
+Unload
+Debug
+Fatal
+OperationRegion
+Processor
+PowerResource
+ThermalZone
+IndexField
+BankField
+-NamePath-
+-MethodCall-
+-ByteList-
+-ReservedField-
+-NamedField-
+-AccessField-
+-StaticString
+-Return Value-
+-UNKNOWN_OP-
+-ASCII_ONLY-
+-PREFIX_ONLY-
+QwordConst
+ConcatenateResTemplate
+CreateQWordField
+ToBuffer
+ToDecimalString
+ToHexString
+ToInteger
+ToString
+CopyObject
+Continue
+DataTableRegion
+[EvalSubTree]
+-ConnectField-
+-ExtAccessField-
+External
+%s [%4.4X]
+Unknown AML opcode
+AcpiPsGetOpcodeInfo
+kFGkkkkkkkkkkkkkkkHIkkkkkkkkkkk{JKLMNOPQRSTkkkkkUVW~kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkXYZ[\]^_|
+kkkk
+kkkkkkkkkkkkkkkkkkkkkkkcmmgfheidj}
+kkkkkkkllllllllllllllllllllllllllkmkml
+ !"#$%&'()*+,-.pq/01234567r89:;<=stuvkkwxyz>?@ABC`abkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkDkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkE
+psopinfo
+AcpiPsParseAml
+AcpiPsNextParseState
+AcpiPsCompleteThisOp
+psparse
+Entered with WalkState=%p Aml=%p size=%X
+Completed one call to walk loop, %s State=%p
+ReturnValue=%p, ImplicitValue=%p State=%p
+Method parse/execution failed
+Popped Op %p Args %X
+AcpiPsCleanupScope
+AcpiPsPopScope
+AcpiPsPushScope
+AcpiPsInitScope
+psscope
+Invalid AML Opcode: 0x%2.2X
+pstree
+Free retval op: %p
+AcpiPsFreeOp
+psutils
+AcpiPsDeleteParseTree
+pswalk
+**** Begin Method Parse/Execute [%4.4s] **** Node=%p Obj=%p
+Method returned ObjDesc=%p
+AcpiPsExecuteMethod
+psxface
+AcpiRsGetPciRoutingTableLength
+AcpiRsGetListLength
+AcpiRsGetAmlLength
+rscalc
+Type %.2X, AmlLength %.2X InternalLength %.2X
+AmlBuffer = %p
+Status=%X ListSizeNeeded=%X
+OutputBuffer %p Length %X
+BufferSizeNeeded = %X
+ResourceList Buffer = %p
+AmlSizeNeeded=%X, %s
+(PRT[%u]) Need package of length 4, found length %u
+(PRT[%u].Address) Need Integer, found %s
+(PRT[%u].Pin) Need Integer, found %s
+(PRT[%u].Source) Need name, found Reference Class 0x%X
+(PRT[%u].Source) Need Ref/String/Integer, found %s
+(PRT[%u].SourceIndex) Need Integer, found %s
+AcpiRsCreateAmlResources
+AcpiRsCreatePciRoutingTable
+AcpiRsCreateResourceList
+AcpiBufferToResource
+rscreate
+%27s : %s
+[NULL NAMESTRING]
+[Not Specified]
+%s Resource
+%27s : %2.2X
+%27s : %4.4X
+%27s : %8.8X
+%27s : %8.8X%8.8X
+%27s : 
+%25s%2.2X : %2.2X
+Dword
+%25s%2.2X : %8.8X
+%25s%2.2X : %4.4X
+Bus Number Range
+Resource Type
+Resource Source Index
+Resource Source
+[%02X] 
+Invalid descriptor type (%X) in resource list
+Invalid zero length descriptor in resource list
+[%02X] PCI IRQ Routing Table Package
+I/O Range
+Range Type
+Translation Type
+Write Protect
+Caching
+Consumer/Producer
+Address Decode
+Min Relocatability
+Max Relocatability
+Uart Serial Bus
+ProducerConsumer
+SlaveMode
+TypeRevisionId
+TypeDataLength
+ResourceSource
+VendorLength
+VendorData
+FlowControl
+StopBits
+DataBits
+Parity
+LinesEnabled
+RxFifoSize
+TxFifoSize
+ConnectionSpeed
+Spi Serial Bus
+DevicePolarity
+DataBitLength
+ClockPhase
+ClockPolarity
+DeviceSelection
+I2C Serial Bus
+AccessMode
+SlaveAddress
+Common Serial Bus
+FixedDma
+RequestLines
+Channels
+TransferWidth
+GPIO
+ConnectionType
+PinConfig
+Sharing
+IoRestriction
+Triggering
+DriveStrength
+DebounceTimeout
+PinTableLength
+PinTable
+Generic Register
+Space ID
+Extended IRQ
+Interrupt Count
+Interrupt List
+64-Bit Extended Address Space
+Address Minimum
+Address Maximum
+Type-Specific Attribute
+64-Bit QWORD Address Space
+32-Bit DWORD Address Space
+16-Bit WORD Address Space
+32-Bit Fixed Memory Range
+32-Bit Memory Range
+24-Bit Memory Range
+EndTag
+Vendor Specific
+Vendor Data
+Fixed I/O
+Address Decoding
+End-Dependent-Functions
+Start-Dependent-Functions
+Descriptor Length
+Compatibility Priority
+Performance/Robustness
+Mastering
+Transfer Type
+Channel Count
+Channel List
+DB4$
+Misaligned resource pointer %p
+Invalid/unsupported resource descriptor: Type 0x%2.2X
+Could not convert AML resource (Type 0x%X)
+Invalid descriptor type (0x%X) in resource list
+Could not convert resource (type 0x%X) to AML
+AcpiRsConvertResourcesToAml
+AcpiRsConvertAmlToResources
+rslist
+Misaligned resource pointer (get): %p Type 0x%2.2X Length %u
+Invalid conversion sub-opcode
+Invalid conversion opcode
+AcpiRsConvertResourceToAml
+AcpiRsConvertAmlToResource
+rsmisc
+AcpiRsSetSrsMethodData
+AcpiRsGetMethodData
+AcpiRsGetAeiMethodData
+AcpiRsGetPrsMethodData
+AcpiRsGetCrsMethodData
+AcpiRsGetPrtMethodData
+rsutils
+_SRS
+AcpiWalkResources
+AcpiWalkResourceBuffer
+AcpiGetEventResources
+AcpiSetCurrentResources
+AcpiGetPossibleResources
+AcpiGetCurrentResources
+AcpiRsValidateParameters
+AcpiGetIrqRoutingTable
+rsxface
+????
+ACPI Tables freed
+Invalid signature 0x%X for ACPI table, expected [%s]
+%4.4s 0x%8.8X%8.8X Attempted table install failed
+Resize of Root Table Array is not allowed
+Could not allocate new root table array
+AcpiTbGetOwnerId
+AcpiTbReleaseOwnerId
+AcpiTbAllocateOwnerId
+AcpiTbDeleteNamespaceByOwner
+AcpiTbTerminate
+AcpiTbResizeRootTableList
+AcpiTbVerifyTempTable
+AcpiTbInvalidateTable
+AcpiTbValidateTable
+tbdata
+Pm1aEventBlock
+DSDT
+FACS
+Pm1bEventBlock
+Pm1aControlBlock
+Pm1bControlBlock
+Pm2ControlBlock
+PmTimerBlock
+Gpe0Block
+Gpe1Block
+FADT (revision %u) is longer than ACPI 5.0 version, truncating length %u to %u
+32/64X %s address mismatch in FADT: 0x%8.8X/0x%8.8X%8.8X, using %u-bit address
+%s - 32-bit FADT register is too long (%u bytes, %u bits) to convert to GAS struct - 255 bits max, truncating
+32/64X address mismatch in FADT/%s: 0x%8.8X/0x%8.8X%8.8X, using %u-bit address
+32/64X length mismatch in FADT/%s: %u/%u
+Required FADT field %s has zero address and/or length: 0x%8.8X%8.8X/0x%X
+Optional FADT field %s has zero address or length: 0x%8.8X%8.8X/0x%X
+Invalid length for FADT/%s: %u, using default %u
+tbfadt
+Found table [%4.4s]
+AcpiTbFindTable
+tbfind
+Logical
+Physical
+%4.4s 0x%8.8X%8.8X %s table override, new table: 0x%8.8X%8.8X
+Null physical address for ACPI table [%s]
+Could not acquire table length at %8.8X%8.8X
+Ignoring installation of %4.4s at %8.8X%8.8X
+Table has invalid signature [%4.4s] (0x%8.8X), must be SSDT or OEMx
+AcpiTbUninstallTable
+AcpiTbInstallStandardTable
+AcpiTbInstallFixedTable
+tbinstal
+%-4.4s 0x%8.8X%8.8X %06X
+RSD PTR 
+RSDP 0x%8.8X%8.8X %06X (v%.2d %-6.6s)
+%-4.4s 0x%8.8X%8.8X %06X (v%.2d %-6.6s %-8.8s %08X %-4.4s %08X)
+Incorrect checksum in table [%4.4s] - 0x%2.2X, should be 0x%2.2X
+tbprint
+The DSDT has been corrupted or replaced - old, new headers below
+Could not copy DSDT of length 0x%X
+Forced DSDT copy: length 0x%05X copied locally, original unmapped
+Invalid table length 0x%X in RSDT/XSDT
+AcpiTbParseRootTable
+tbutils
+AcpiRemoveTableHandler
+AcpiInstallTableHandler
+AcpiGetTableByIndex
+AcpiReallocateRootTable
+AcpiInitializeTables
+tbxface
+[DSDT] table load failed
+(%4.4s:%8.8s) while loading table
+Table [%4.4s:%8.8s] (id FF) - Table namespace load failed
+%u ACPI AML tables successfully acquired and loaded
+%u table load failures, %u successful
+Borrow or rob
+While loading namespace from ACPI tables
+Host-directed Dynamic ACPI Table Load:
+AcpiUnloadParentTable
+AcpiLoadTable
+AcpiInstallTable
+AcpiTbLoadNamespace
+AcpiLoadTables
+tbxfload
+A valid RSDP was not found
+RSDP located at physical address %p
+Searched entire block from %p, valid RSDP was not found
+Could not map memory at 0x%8.8X for length %u
+AcpiTbScanMemoryForRsdp
+AcpiFindRootPointer
+tbxfroot
+Added [%4.4s] address range: 0x%8.8X%8.8X-0x%8.8X%8.8X
+Removed [%4.4s] address range: 0x%8.8X%8.8X-0x%8.8X%8.8X
+%s range 0x%8.8X%8.8X-0x%8.8X%8.8X conflicts with OpRegion 0x%8.8X%8.8X-0x%8.8X%8.8X (%s)
+AcpiUtCheckAddressRange
+AcpiUtRemoveAddressRange
+AcpiUtAddAddressRange
+utaddress
+Acpi-Namespace
+Acpi-State
+Acpi-Parse
+Acpi-ParseExt
+Acpi-Operand
+Acpi-Global
+utalloc
+Null Buffer Pointer in DumpBuffer!
+%6.4X: 
+%02X 
+%04X 
+%08X 
+%08X
+Object %p from %s cache
+AcpiOsAcquireObject
+utcache
+Unsupported object type, cannot convert to external object: %s
+Unsupported object type, cannot convert to internal object: %s
+AcpiUtCopyIpackageToIpackage
+AcpiUtCopyIobjectToIobject
+AcpiUtCopyEsimpleToIsimple
+AcpiUtCopyEpackageToIpackage
+AcpiUtCopyEobjectToIobject
+AcpiUtCopyIsimpleToEsimple
+AcpiUtCopyIpackageToEpackage
+AcpiUtCopyIobjectToEobject
+utcopy
+Package allocation failure
+**** Context Switch from TID %u to TID %u ****
+%9s-%04ld 
+[%u] 
+[%02ld] 
+%-22.22s: 
+----Entry
+%s %p
+%s %08X
+----Exit-
+%s ****Exception****: %s
+%s %8.8X%8.8X
+UserDefinedRegion
+DataTable
+FunctionalFixedHW
+InvalidSpaceId
+InvalidEventID
+Not a Descriptor
+[NULL Object Descriptor]
+Invalid object
+NULL
+"\" 
+####
+NULL OBJECT
+NULL Object
+Not an Operand object
+Not a Reference object
+Unknown Reference class
+Invalid Mutex ID
+Device-Specific
+Hardware-Specific
+Thermal Status Change
+Thermal Trip Point Change
+Thermal Device List Change
+Thermal Relationship Change
+Performance Capability Change
+C-State Change
+Throttling Capability Change
+Device-Specific Change
+Information Change
+Bus Check
+Device Check
+Device Wake
+Eject Request
+Device Check Light
+Frequency Mismatch
+Bus Mode Mismatch
+Power Fault
+Capabilities Check
+Device PLD Check
+System Locality Update
+Shutdown Request
+ACPI_MTX_Interpreter
+ACPI_MTX_Namespace
+ACPI_MTX_Tables
+ACPI_MTX_Events
+ACPI_MTX_Caches
+ACPI_MTX_Memory
+Local
+Argument
+DdbHandle
+Named Object
+Cached
+State-Generic
+State-Update
+State-Package
+State-Control
+State-RootParseScope
+State-ParseScope
+State-WalkScope
+State-Result
+State-Notify
+State-Thread
+Walk
+Parser
+Untyped
+FieldUnit
+Power
+Thermal
+BufferField
+DebugObject
+RegionField
+MethodAlias
+AddrHandler
+ResourceDesc
+ResourceFld
+Extra
+Invalid
+PM_Timer
+PowerButton
+SleepButton
+RealTimeClock
+SystemMemory
+SystemIO
+PCI_Config
+EmbeddedControl
+SMBus
+SystemCMOS
+PCIBARTarget
+IPMI
+GeneralPurposeIo
+GenericSerialBus
+Invalid object descriptor type: 0x%2.2X [%s] (%p)
+Target object type does not support notifies
+System Resource Affinity Update
+AcpiUtGetObjectTypeName
+UNDEFINED
+utdecode
+Obj %p Current Refs=%X [To Be Decremented]
+Obj %p, Reference Count was zero before increment
+Obj %p Type %.2X Refs %.2X [Incremented]
+Obj %p Type %.2X Refs %.2X [Decremented]
+***** Event %p, OS Semaphore %p
+Circular region list in address handler object %p
+Unknown Reference Count action (0x%X)
+Large Reference Count (0x%X) in object %p, Type=0x%.2X
+Obj %p, Reference Count is already zero, cannot decrement
+Could not update object reference count
+Obj %p Current Refs=%X [To Be Incremented]
+**** String %p, ptr %p
+**** Buffer %p, ptr %p
+ **** Package of count %X
+***** Mutex %p, OS Mutex %p
+***** Method %p
+***** Region %p
+***** Buffer Field %p
+***** Bank Field %p
+Deleting Object Subptr %p
+Deleting Object %p [%s]
+Object %p is NS handle
+AcpiUtRemoveReference
+AcpiUtAddReference
+AcpiUtDeleteInternalObj
+AcpiUtUpdateRefCount
+AcpiUtUpdateObjectReference
+utdelete
+ACPI Warning: %s: 
+ (%8.8X/%s-%u)
+ACPI: %s: 
+ACPI BIOS Error (bug): %s: 
+ACPI Error: 
+[0x%.8X] (NON-ASCII)
+[COULD NOT EXTERNALIZE NAME]
+ Namespace lookup failure, %s
+[Could not get node by pathname]
+uterror
+[%4.4s.%s] was not found
+Method execution failed
+No object was returned from
+Return object type is incorrect
+Type returned from %s was incorrect: %s, expected Btypes: 0x%X
+_STA on %4.4s was not found, assuming device is present
+Failed %s on Device %4.4s, %s
+AcpiUtExecutePowerMethods
+AcpiUtExecute_STA
+AcpiUtEvaluateNumericObject
+AcpiUtEvaluateObject
+uteval
+UNKNOWN_STATUS_CODE
+AE_CTRL_RETURN_VALUE
+AE_CTRL_PENDING
+AE_CTRL_TERMINATE
+AE_CTRL_TRUE
+AE_CTRL_FALSE
+AE_CTRL_DEPTH
+AE_CTRL_END
+AE_CTRL_TRANSFER
+AE_CTRL_BREAK
+AE_CTRL_CONTINUE
+AE_CTRL_SKIP
+AE_CTRL_PARSE_CONTINUE
+AE_CTRL_PARSE_PENDING
+AE_AML_BAD_OPCODE
+AE_AML_NO_OPERAND
+AE_AML_OPERAND_TYPE
+AE_AML_OPERAND_VALUE
+AE_AML_UNINITIALIZED_LOCAL
+AE_AML_UNINITIALIZED_ARG
+AE_AML_UNINITIALIZED_ELEMENT
+AE_AML_NUMERIC_OVERFLOW
+AE_AML_REGION_LIMIT
+AE_AML_BUFFER_LIMIT
+AE_AML_PACKAGE_LIMIT
+AE_AML_DIVIDE_BY_ZERO
+AE_AML_BAD_NAME
+AE_AML_NAME_NOT_FOUND
+AE_AML_INTERNAL
+AE_AML_INVALID_SPACE_ID
+AE_AML_STRING_LIMIT
+AE_AML_NO_RETURN_VALUE
+AE_AML_METHOD_LIMIT
+AE_AML_NOT_OWNER
+AE_AML_MUTEX_ORDER
+AE_AML_MUTEX_NOT_ACQUIRED
+AE_AML_INVALID_RESOURCE_TYPE
+AE_AML_INVALID_INDEX
+AE_AML_REGISTER_LIMIT
+AE_AML_NO_WHILE
+AE_AML_ALIGNMENT
+AE_AML_NO_RESOURCE_END_TAG
+AE_AML_BAD_RESOURCE_VALUE
+AE_AML_CIRCULAR_REFERENCE
+AE_AML_BAD_RESOURCE_LENGTH
+AE_AML_ILLEGAL_ADDRESS
+AE_AML_INFINITE_LOOP
+AE_AML_UNINITIALIZED_NODE
+AE_AML_TARGET_TYPE
+AE_BAD_SIGNATURE
+AE_BAD_HEADER
+AE_BAD_CHECKSUM
+AE_BAD_VALUE
+AE_INVALID_TABLE_LENGTH
+AE_BAD_PARAMETER
+AE_BAD_CHARACTER
+AE_BAD_PATHNAME
+AE_BAD_DATA
+AE_BAD_HEX_CONSTANT
+AE_BAD_OCTAL_CONSTANT
+AE_BAD_DECIMAL_CONSTANT
+AE_MISSING_ARGUMENTS
+AE_BAD_ADDRESS
+AE_OK
+AE_ERROR
+AE_NO_ACPI_TABLES
+AE_NO_NAMESPACE
+AE_NO_MEMORY
+AE_NOT_FOUND
+AE_NOT_EXIST
+AE_ALREADY_EXISTS
+AE_TYPE
+AE_NULL_OBJECT
+AE_NULL_ENTRY
+AE_BUFFER_OVERFLOW
+AE_STACK_OVERFLOW
+AE_STACK_UNDERFLOW
+AE_NOT_IMPLEMENTED
+AE_SUPPORT
+AE_LIMIT
+AE_TIME
+AE_ACQUIRE_DEADLOCK
+AE_RELEASE_DEADLOCK
+AE_NOT_ACQUIRED
+AE_ALREADY_ACQUIRED
+AE_NO_HARDWARE_RESPONSE
+AE_NO_GLOBAL_LOCK
+AE_ABORT_METHOD
+AE_SAME_HANDLER
+AE_NO_HANDLER
+AE_OWNER_ID_LIMIT
+AE_NOT_CONFIGURED
+AE_ACCESS
+AE_IO_ERROR
+Unknown exception code: 0x%8.8X
+utexcep
+_PR_
+_SI_
+_TZ_
+_REV
+_OS_
+Microsoft Windows NT
+_S1D
+_S2D
+_S3D
+_S4D
+_S0W
+_S1W
+_S2W
+_S3W
+_S4W
+\_S0_
+\_S1_
+\_S2_
+\_S3_
+\_S4_
+\_S5_
+0123456789ABCDEF_HID
+_UID
+_CID
+_CLS
+AcpiUtExecute_CLS
+AcpiUtExecute_CID
+AcpiUtExecute_UID
+AcpiUtExecute_HID
+utids
+ACPI Subsystem is already terminated
+Shutting down ACPI Subsystem
+AcpiUtTerminate
+AcpiUtSubsystemShutdown
+AcpiUtInitGlobals
+utinit
+Divide by zero
+AcpiUtDivide
+AcpiUtShortDivide
+utmath
+Executing    
+Initializing 
+%-12s  %s
+AcpiUtWalkPackageTree
+utmisc
+Mutex [%s] already acquired by this thread [%u]
+Invalid acquire order: Thread %u owns [%s], wants [%s]
+Thread %u attempting to acquire Mutex [%s]
+Thread %u acquired Mutex [%s]
+Thread %u could not acquire Mutex [0x%X]
+Thread %u releasing Mutex [%s]
+Mutex [0x%X] is not acquired, cannot release
+Invalid release order: owns [%s], releasing [%s]
+AcpiUtReleaseMutex
+AcpiUtAcquireMutex
+AcpiUtDeleteMutex
+AcpiUtMutexTerminate
+AcpiUtCreateMutex
+AcpiUtMutexInitialize
+utmutex
+Cannot convert to external object - unsupported Reference Class [%s] 0x%X in object %p
+Cannot convert to external object - unsupported type [%s] 0x%X in object %p
+%p is not an ACPI operand obj [%s]
+Could not allocate an object descriptor
+%p is not an ACPI Operand object [%s]
+AcpiUtGetSimpleObjectSize
+AcpiUtGetPackageObjectSize
+AcpiUtDeleteObjectDesc
+AcpiUtAllocateObjectDescDbg
+AcpiUtValidInternalObject
+AcpiUtCreateStringObject
+AcpiUtCreateBufferObject
+AcpiUtCreateIntegerObject
+AcpiUtCreatePackageObject
+AcpiUtCreateInternalObjectDbg
+utobject
+**** Null Object Ptr
+%p Size %X
+Windows 2000
+Windows 2001 SP1
+Windows 2001.1
+Windows 2001 SP2
+Windows 2001.1 SP1
+Windows 2006.1
+Windows 2006 SP1
+Windows 2006 SP2
+Windows 2009
+Windows 2012
+Windows 2013
+Windows 2015
+3.0 Thermal Model
+3.0 _SCP Extensions
+ACPI: BIOS _OSI("%s") is %ssupported
+AcpiUtOsiImplementation
+utosi
+Owner ID [0x%2.2X] already exists
+Could not allocate new OwnerId (255 max), AE_OWNER_ID_LIMIT
+Release of non-allocated OwnerId: 0x%2.2X
+Allocated OwnerId: %2.2X
+Invalid OwnerId: 0x%2.2X
+AcpiUtReleaseOwnerId
+AcpiUtAllocateOwnerId
+utownerid
+AcpiUtStrtoul64
+utnonansi
+/Integer
+/String
+/Buffer
+/Package
+/Reference
+0123456789ABCDEF
+0123456789abcdef
+Invalid/unsupported SerialBus resource descriptor: BusType 0x%2.2X
+Invalid resource descriptor length: Type 0x%2.2X, Length 0x%4.4X, MinLength 0x%4.4X
+/* UNKNOWN flow control keyword */
+3 - ***Invalid Configuration***
+AcpiUtGetResourceEndTag
+AcpiUtWalkAmlResources
+utresrc
+ParityTypeNone
+ParityTypeEven
+ParityTypeOdd
+ParityTypeMark
+ParityTypeSpace
+/* UNKNOWN parity keyword */
+FlowControlNone
+FlowControlHardware
+FlowControlXON
+StopBitsZero
+StopBitsOne
+StopBitsOnePlusHalf
+StopBitsTwo
+DataBitsFive
+DataBitsSix
+DataBitsSeven
+DataBitsEight
+DataBitsNine
+/* UNKNOWN Bits per byte */
+LittleEndian
+BigEndian
+ClockPolarityLow
+ClockPolarityHigh
+ClockPhaseFirst
+ClockPhaseSecond
+FourWireMode
+ThreeWireMode
+ControllerInitiated
+DeviceInitiated
+AddressingMode7Bit
+AddressingMode10Bit
+/* UNKNOWN serial bus type */
+UART
+Interrupt
+Width8bit
+Width16bit
+Width32bit
+Width64bit
+Width128bit
+Width256bit
+IoRestrictionNone
+IoRestrictionInputOnly
+IoRestrictionOutputOnly
+IoRestrictionNoneAndPreserve
+PullDefault
+PullUp
+PullDown
+PullNone
+Compatibility
+TypeA
+TypeB
+TypeF
+TypeStatic
+TypeTranslation
+DenseTranslation
+SparseTranslation
+Transfer8
+Transfer8_16
+Transfer16
+InvalidSize
+Exclusive
+Shared
+ExclusiveAndWake
+SharedAndWake
+ReadOnly
+ReadWrite
+InvalidRanges
+NonISAOnlyRanges
+EntireRange
+AddressRangeMemory
+AddressRangeReserved
+AddressRangeACPI
+AddressRangeNVS
+MinNotFixed
+MinFixed
+NonCacheable
+WriteCombining
+Prefetchable
+MaxNotFixed
+MaxFixed
+ActiveHigh
+ActiveLow
+ActiveBoth
+Decode10
+Decode16
+Edge
+PosDecode
+SubDecode
+ResourceProducer
+ResourceConsumer
+0 - Good Configuration
+1 - Acceptable Configuration
+2 - Suboptimal Configuration
+NotBusMaster
+Invalid zero ID from AcpiOsGetThreadId
+utstate
+<"NULL STRING PTR">
+AcpiUtRepairName
+utstring
+Invalid character(s) in name (0x%.8X), repaired: [%4.4s]
+UtTrackAllocation: Allocation (%p) already present in global list!
+Attempt to allocate zero bytes, allocating 1 byte
+Attempt to delete a NULL address
+Empty allocation list, nothing to free!
+%p Length 0x%04X %9.9s-%u [Not a Descriptor - too small]
+%p Length 0x%04X %9.9s-%u [%s] 
+%u(0x%X) Outstanding allocations
+Freeing %p, size 0%X
+Could not free memory
+%p freed (block %p)
+No outstanding allocations
+%12.12s  RefCount 0x%04X
+AmlOpcode 0x%04hX
+AcpiUtDumpAllocations
+AcpiUtDumpAllocationInfo
+AcpiUtRemoveAllocation
+AcpiUtFreeAndTrack
+AcpiUtTrackAllocation
+uttrack
+ "AcpiPurgeCachedObjects
+AcpiGetStatistics
+AcpiGetSystemInfo
+AcpiTerminate
+utxface
+ACPI Exception: 
+ACPI Exception: %s, 
+ACPI Warning: 
+ACPI: 
+ACPI BIOS Error (bug): 
+ACPI BIOS Warning (bug): 
+During OSL initialization
+During Global Mutex creation
+During Region initialization
+[Init] Going into ACPI mode
+AcpiEnable failed
+Could not map the FACS table
+During initialization of globals
+During Namespace initialization
+During OSI interfaces initialization
+[Init] Initializing ACPI events
+[Init] Installing SCI/GL handlers
+[Init] Executing _REG OpRegion methods
+[Init] Completing Initialization of ACPI Objects
+[Init] Initializing ACPI Devices
+AcpiInitializeObjects
+AcpiEnableSubsystem
+AcpiInitializeSubsystem
+utxfinit
+;*3$"
+DSDTS
+Intel
+MTHDTEST
+	 INTL"
+.._TI__T97	p
+Example installed method
+[1ph[1
+UEFI
+ Intel   UEFI2
+INTL#
+ gE#
+wfUD3"
+This is a string
+\PCI0\ABCD
+ABCDE
+UEFI6
+n Intel   UEFI1
+INTL#
+ECDTN
+ IntelTemplate
+INTL
+	\_SB.PCI0.EC
+OEMX
+TMyOEM
+Test
+INTL1
+_INI
+Table OEMX running
+"\_GPE
+_E07
+_E22
+_L31
+_L66
+OEM1
+_PRW
+OEM2
+_PRW
+&\GPE2
+_L01
+_E07
+_PRW
+\GPE2
+OEM18
+KIntel
+Many
+INTL
+_XT2
+_XT1
+_XT2
+FACP
+INTEL ACPI50  
+INTL
+SSDT-
++Intel
+ssdt4
+INTL 
+_T96
+OEM90
+Intel
+Many
+INTL$
+_T97
+SSDT>
+Intel
+ssdt2
+INTL 
+_T99
+SSDT2 - _T99
+SSDT>
+Intel
+ssdt1
+INTL 
+_T98
+SSDT1 - _T98
+DSDT$
+,Intel
+Local
+INTL0
+SSDT.
+Intel
+DEBUG
+INTL
+	_T99
+SSDT.
+Intel
+DEBUG
+INTL
+	_T98
+1a9aea9c16c681d697d7da34d6fba1185614e0.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+Beeb
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

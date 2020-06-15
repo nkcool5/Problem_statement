@@ -1,0 +1,3780 @@
+/lib64/ld-linux-x86-64.so.2
+$5:j
+B6`A
+}DT(t
+"tj1
+mUYdD
+w65L
+1TLs[
+0Fs[2
+kTIl
+zp^R
+C	/u
+nG~b
+;"4&"
+} OnFs[
+;	@Ap
+!*<g
+.uzR
+]v5@
+%_Ny
+"#"Q
+MF%)
+t|MT
+Fs[M
+wtdP
++]	{
+'{j7
+hdZr
+~?MZD
++"	$
+libm.so.6
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+floor
+ceil
+libdl.so.2
+dlsym
+dlopen
+libc.so.6
+socket
+fflush
+strcpy
+__printf_chk
+exit
+A Santa lives evil at NASA
+strncmp
+__strdup
+perror
+getprotobynumber
+closedir
+ftell
+inet_ntop
+strncpy
+__stack_chk_fail
+putchar
+stdin
+strspn
+inet_pton
+strftime
+strtod
+strtok
+strtol
+isatty
+fgets
+calloc
+strlen
+unshare
+memset
+strstr
+strcspn
+__errno_location
+bind
+memcmp
+asctime
+getsockopt
+setns
+__fprintf_chk
+stdout
+gethostbyaddr
+fputc
+recv
+fputs
+memcpy
+freopen64
+fclose
+setsockopt
+malloc
+strcat
+strcasecmp
+opendir
+__ctype_b_loc
+getenv
+sscanf
+stderr
+__snprintf_chk
+__memset_chk
+fscanf
+if_nametoindex
+sendmsg
+strtoull
+fileno
+sethostent
+__getdelim
+if_indextoname
+fwrite
+fread
+gettimeofday
+__memcpy_chk
+__fread_chk
+localtime
+strchr
+getsockname
+__vfprintf_chk
+readdir64
+__strcpy_chk
+umount2
+__sprintf_chk
+getprotobyname
+mount
+fopen64
+__strcat_chk
+strcmp
+recvmsg
+strerror
+__libc_start_main
+stpcpy
+snprintf
+sysconf
+f_proto
+__libc_csu_fini
+missarg
+get_size
+tc_print_action
+parse_size_table
+rtnl_rtrealm_a2n
+p_pedit_ip
+get_rate
+get_s8
+hexstring_a2n
+inet_proto_a2n
+ematch_lloc
+id_to_name
+filter_qdisc
+rta_addattr8
+ematch__scan_bytes
+bpf_exec_util
+tc_calc_xmittime
+ll_index_to_name
+act_parse_police
+nbyte_ematch_util
+ematch_debug
+ematch_set_out
+duparg
+multiq_qdisc_util
+get_u64
+bpf_action_util
+cgroup_filter_util
+ematch_set_debug
+rtnl_open_byproto
+rtnl_group_a2n
+fw_filter_util
+do_each_netns
+ematch_lineno
+addraw_l
+__get_hz
+nat_action_util
+tc_core_time2ktime
+read_family
+db_names_load
+db_names_alloc
+get_u8
+do_exec
+ll_idx_n2a
+inet_get_addr
+get_size_and_cell
+ll_init_map
+hexstring_n2a
+incomplete_command
+tc_calc_rtable
+ematch_get_out
+addattr_nest_compat
+get_tc_classid
+rtnl_dsfield_a2n
+tab_flush
+do_tcmonitor
+addattrstrz
+rtnl_wilddump_request
+_edata
+ll_index_to_type
+parse_estimator
+bstrtoul
+rtnl_group_n2a
+get_integer
+filter_ifindex
+ematch_get_lineno
+matches
+print_nlmsg_timestamp
+ematch_root
+addattr_nest_end
+parse_val
+ematch_argc
+parse_rtattr_byindex
+rtnl_talk
+p_pedit_udp
+get_qdisc_kind
+print_size_table
+ematch_char
+cmdlineno
+gact_ld
+print_timestamp
+netem_qdisc_util
+canid_ematch_util
+ematch_lex_destroy
+ll_remember_index
+htb_qdisc_util
+rta_addattr16
+cls_names_uninit
+ematch__scan_string
+sprint_rate
+check_size_table_opts
+cls_names_init
+do_action
+__parse_rtattr_nested_compat
+mpls_ntop
+ipset_ematch_util
+get_u32
+netns_switch
+sprint_qdisc_handle
+pack_key8
+get_prefix_1
+rtnl_rtscope_n2a
+sfb_qdisc_util
+parse_cmd
+tc_core_ktime2time
+cbq_qdisc_util
+print_ematch
+csum_action_util
+u32_filter_util
+filter_classid
+rtnl_send
+cmp_ematch_util
+makeargs
+ematch_push_buffer_state
+parse_pedit
+p_pedit_ip6
+get_prefix
+u32_ematch_util
+ll_proto_n2a
+__iproute2_hz_internal
+ll_addr_n2a
+rcvbuf
+mpls_pton
+bpf_print_ops
+action_a2n
+parse_action
+show_details
+dnet_ntop
+ingress_qdisc_util
+tc_core_init
+mqprio_qdisc_util
+tc_red_eval_ewma
+vlan_action_util
+rtnl_rtprot_a2n
+gact_action_util
+gred_qdisc_util
+timestamp_short
+route_filter_util
+pedit_print_xstats
+pfifo_head_drop_qdisc_util
+ematch_realloc
+rsvp_filter_util
+rtnl_dsfield_n2a
+get_time
+parse_ematch
+use_iec
+tc_print_police
+family_name
+__data_start
+pack_key16
+bpf_parse_ops
+dnet_pton
+force
+flow_filter_util
+rtnl_wilddump_req_filter
+ematch_pop_buffer_state
+flower_filter_util
+tc_red_eval_P
+rsvp6_filter_util
+show_graph
+print_tm
+do_class
+print_pedit
+ematch__switch_to_buffer
+use_names
+tc_core_time2big
+namehash
+_IO_stdin_used
+print_ematch_tree
+em_parse_error
+af_bit_len
+tc_core_tick2time
+drr_qdisc_util
+pfifo_qdisc_util
+ll_addr_a2n
+print_class
+get_u16
+rta_nest_end
+print_tcstats_attr
+rta_addattr32
+nl_proto_n2a
+getcmdline
+tc_cbq_calc_maxidle
+ematch__flush_buffer
+int_to_str
+get_addr_1
+ematch_in
+inet_proto_n2a
+name_to_id
+__libc_csu_init
+ematch_get_leng
+get_filter_kind
+meta_ematch_util
+sprint_linklayer
+get_time_rtt
+rtnl_close
+ematch_leng
+get_s16
+basic_filter_util
+tbf_qdisc_util
+bpf_default_section
+pfifo_fast_qdisc_util
+Tacocat
+ematch_free
+p_pedit_tcp
+mask2bits
+rtnl_rttable_a2n
+ematch_error
+tc_calc_xmitsize
+netns_get_fd
+do_qdisc
+get_tc_lib
+ematch_set_in
+bfifo_qdisc_util
+bpf_parse_string
+get_qdisc_handle
+rta_nest
+ipx_ntop
+rta_addattr64
+rtnl_dump_filter_l
+inet_addr_match
+rtnl_rtrealm_n2a
+sprint_ticks
+simple_action_util
+__bss_start
+sprint_time
+af_byte_len
+nl_proto_a2n
+ematch__scan_buffer
+bpf_filter_util
+netns_foreach
+print_qdisc
+rtnl_from_file
+ematch_parse
+meta_table
+do_filter
+dsmark_qdisc_util
+ematch_alloc
+ll_index_to_flags
+ematch__delete_buffer
+skbedit_action_util
+rt_addr_n2a
+parse_rtattr_flags
+ematch_lval
+parse_rtattr
+hhf_qdisc_util
+rtnl_listen
+tc_setup_estimator
+format_host
+get_s32
+ematch_argv
+ematch_get_text
+p_pedit_icmp
+ematch_get_in
+ematch_set_lineno
+ll_proto_a2n
+rtnl_dump_request
+connmark_action_util
+parse_offset
+qfq_qdisc_util
+get_addr32
+show_pretty
+ematch_text
+addattr_nest_compat_end
+ematch__flex_debug
+parse_rtattr_one
+duparg2
+rtnl_dump_filter
+sprint_tc_classid
+resolve_hosts
+rtnl_open
+sprint_size
+__iproute2_user_hz_internal
+addattr_nest
+tc_calc_size_table
+fq_codel_qdisc_util
+rta_addattr_l
+tcindex_filter_util
+pie_qdisc_util
+tc_core_time2tick
+rtnl_rttable_n2a
+__get_user_hz
+choke_qdisc_util
+db_names_free
+addattr
+get_unsigned
+pack_key
+hfsc_qdisc_util
+ematch_get_debug
+get_rate64
+pack_key32
+rtnl_listen_all_nsid
+ematch_out
+bstr_alloc
+ematch_nerrs
+police_action_util
+tc_cbq_calc_offtime
+bstr_print
+ematch_lex
+show_stats
+invarg
+show_raw
+tc_red_eval_idle_damping
+sfq_qdisc_util
+print_filter
+rtnl_rtscope_a2n
+get_linklayer
+ematch__create_buffer
+prio_print_opt
+ematch_err
+ll_name_to_index
+mirred_action_util
+rtnl_send_check
+batch_mode
+pedit_action_util
+ematch_restart
+action_n2a
+print_tcstats2_attr
+rtnl_rtprot_n2a
+GLIBC_2.2.5
+GLIBC_2.3
+GLIBC_2.7
+GLIBC_2.14
+GLIBC_2.4
+GLIBC_2.3.4
+%zc$
+%rc$
+%jc$
+%bc$
+%Zc$
+%Rc$
+%Jc$
+%Bc$
+%:c$
+%2c$
+%*c$
+%"c$
+%zb$
+%rb$
+%jb$
+%bb$
+%Zb$
+%Rb$
+%Jb$
+%Bb$
+%:b$
+%2b$
+%*b$
+%"b$
+%za$
+%ra$
+%ja$
+%ba$
+%Za$
+%Ra$
+%Ja$
+%Ba$
+%:a$
+%2a$
+%*a$
+%"a$
+%z`$
+%"]$
+AUATI
+D$(1
+|$ H
+L$!H
+T$,RH
+L$3L
+D$2H
+\$(dH3
+8[]A\A]
+AUATUSH
+[]A\A]
+[]A\A]
+dH34%(
+ATUH
+[]A\
+XZtQI
+XZtQI
+C pp@
+ATUSH
+dH3<%(
+[]A\
+T$ H
+T$PH
+\$FH
+D$@$
+L$XE
+D$\E
+L$\H
+t$@1
+T$ H
+|$@A
+D$ H
+t$8H
+D$@E1
+L$ H
+|$@A
+L$8H
+D$4H
+D$@H
+|$8H
+ingress
+D$@H
+ATUH
+D$81
+\$8dH3
+@[]A\
+AVAU
+ATUI
+t;;C
+dH34%(
+[]A\A]A^
+T$ H
+T$0H
+D$h1
+|   f
+D$hdH3
+|   f
+    fD
+    f
+|   fD
+    f
+AWAVAUATUSH
+d$pdH
+tH;H
+|$(H
+T$0H
+[]A\A]A^A_
+t$ H
+ [unknowH
+n qdisc 
+kindH
+ATUA
+d$ H
+D$ $
+t$&fD
+|$8I
+T$<I
+[]A\
+=Dw$
+AUAT
+l$@H
+[]A\A]
+=Ds$
+=3s$
+5>p$
+AUATUSH
+[]A\A]
+AVAUATU
+D$ $
+L$<I
+D$ H
+|$ A
+t$ 1
+[]A\A]A^
+=_g$
+AVAUATUSH
+D$H1
+\$HdH3
+P[]A\A]A^
+5+c$
+=Mb$
+=1`$
+=y_$
+AUATI
+|$@1
+=p]$
+[]A\A]
+$none
+$root
+ATUI
+ []A\
+ATUI
+ []A\
+w|Mi
+ATUH
+ []A\
+ATUH
+ []A\
+AUATI
+[]A\A]
+[]A\
+)\$ 
+(\$ 
+[]A\
+;otG
+tKr1
+ATUI
+[]A\
+[]A\
+AUATI
+|$ dH
+t$(H
+t$8H
+t$HH
+D$PM
+t$8H
+|$PD
+L$PE
+D$@H
+[]A\A]
+t$0H
+D$PE
+AVAUI
+ATUH
+v8dH
+D$x1
+D$xdH3
+[]A\A]A^
+t$$XZE
+|$0D
+L$01
+t$ E
+|$0D
+t$ u
+|$0D
+w6[1
+D$81
+L$8dH3
+=9F$
+XZtQI
+ATUSH
+ []A\
+AWAVE
+AUATI
+([]A\A]A^A_
+D8t$
+AUAT1
+T$(1
+L$ H
+d$ E1
+tOA9
+T$(dH3
+8[]A\A]
+AVAU1
+XZ[]A\A]A^
+AWAV1
+AUATI
+D$.dH
+t$LH
+t$HH
+L$lE
+D$8E
+D$@D
+D$DI
+T$HH
+D$.f
+[]A\A]A^A_
+L$`t5
+D$@D
+D$DI
+T$LH
+D$.f
+t$lL
+\$0E
+T$xE
+t$4A
+ATUE1
+D$ H
+D$(H
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+=I/$
+ATUE1
+[]A\
+Y^tYI
+gact
+noact
+AVAU
+ATUI
+1t_H
+[]A\A]A^
+AWAVH
+AUATI
+|$H1
+D$$H
+l$0E1
+|$(H
+T$$L
+D$$H
+\$(A
+\$HdH3
+X[]A\A]A^A_
+T$(H
+t$$L
+D$$H
+AVAUA
+ATUH
+[]A\A]A^
+t$ H
+dH34%(
+1t2f
+0tdH
+dH3<%(
+AWAVA
+AUATUSH
+|$@H
+T$FE1
+D$@A
+D$@A
+|$@L
+L$,H
+D$@H
+t$@1
+[]A\A]A^A_
+t$@1
+ATE1
+[]A\
+AVAUI
+ATUI
+<#vMH
+[]A\A]A^
+AVAUI
+ATUD
+<#vMH
+uyD;l$
+[]A\A]A^
+AWAVL
+AUATUSH
+D$H1
+\$HdH3
+X[]A\A]A^A_
+AUATH
+([]A\A]
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUI
+ATUA
+L$Ht7
+)D$P
+)L$`
+)T$p
+tOH9
+dH3<%(
+[]A\A]A^
+AWAVI
+AUATUS
+L$ A
+5gW$
+D$4t
+D$4E1
+t$,H
+D$,H
+t$0H
+D$2I
+dH34%(
+[]A\A]A^A_
+[]A\
+tvSH
+AWAVI
+AUATUS
+D$H1
+l$ D
+rXIc
+|$HdH3<%(
+X[]A\A]A^A_
+tq<%
+AWAVAUATUSH
+|$pE1
+l$ D
+t$(M
+D$(H
+D$0I
+t$ I
+D$pL
+D$0I
+l$ L
+HcD$(
+D$`E
+D$0L
+l$ L
+L$(H
+tPH9
+d$dI
+D$lH
+T$hH
+D$`I
+D$pI9
+|$PH
+dH3<%(
+[]A\A]A^A_
+D$@H
+D$dA
+D$hA
+\$HL
+D$8H
+L$(L
+t$,Hc
+t$PH
+|$XD
+D$(H
+|$@L
+D$8L
+D$0H
+T$hM
+D$`H
+D$(H
+D$,D
+H#D$0H
+H!L$0
+d$@H
+H#D$0H
+D$0I
+D$0H
+|$PH
+D$(H
+|$XD
+D$PD
+|$XH
+t$PD
+|$PA
+L$@I
+H;8t.
+H;8t
+AUATUSH
+[]A\A]
+ATUI
+t6Hc
+[]A\
+ATUH
+AWAVAUATUSH
+dH3<%(
+([]A\A]A^A_
+=77$
+$t7Hc
+4$I9
+Hc\$
+= 2$
+tRHc\$
+=P1$
+ATUH
+[]A\
+ATUL
+[]A\
+[]A\
+D$H1
+L$HdH3
+AWAVAUATUSH
+[]A\A]A^A_
+ATUSH
+D$,f
+|$$H
+|$ H
+t$PH
+[]A\
+L$8E
+L$0H
+L$<E
+AWAVAUATUSH
+D$h1
+D$$A
+\$hdH3
+x[]A\A]A^A_
+|$@9
+|$ 1
+AVAUATUSH
+t$`I
+t$ I
+[]A\A]A^
+AVAUATUSH
+D$.A
+L$ L
+L$0L
+[]A\A]A^
+AUATUSH
+dH3<%(
+([]A\A]
+AWAVAUATUSH
+D$81
+L$ A
+\$8dH3
+H[]A\A]A^A_
+9D$ 
+L$ A
+AWAVAUATUSH
+t$PH
+T$8D
+[]A\A]A^A_
+t$PI
+t$PL
+t$PD
+AWAVI
+AUAT1
+[]A\A]A^A_
+D$(H
+H9T$ H
+FL$ H9
+|$0f
+D$PA
+L$0A
+H9D$ 
+H9D$(
+L$ A
+D$HE
+L$(A
+AVAUATUSH
+l$(H
+D$ H
+[]A\A]A^
+AWAVAUATI
+|$hH
+|$x1
+|$HE
+D$(H
+|$@f
+t$rt)D
+D$pA
+D$pA
+D$HE
+[]A\A]A^A_
+|$ 1
+|$$1
+\$XA
+L$@A
+L$`A
+L$PA
+T$XE
+t$XA
+|$,1
+D$QA
+L$p 
+T$d1
+AVAU1
+ATUSH
+t$PH
+|$ D
+D$0&
+D$@A
+L$ A
+L$0A
+L$PA
+\$PH
+[]A\A]A^
+AUATUSH
+dH3<%(
+([]A\A]
+AWAVAUATUSH
+D$81
+L$ A
+\$8dH3
+H[]A\A]A^A_
+9D$ 
+L$ A
+dH3<%(
+AWAVAUATUSH
+|$`H
+D$hH
+D$(H
+D$xH
+|$@H
+T$H1
+T$PH
+D$ H
+D$81
+D$8H
+[]A\A]A^A_
+D$0f
+D$(H
+|$4L
+D$(H
+dH34%(
+AWAVAUATI
+T$ @
+D$ H
+YD$h
+\D$h
+T$(H
+T$ I
+[]A\A]A^A_
+L$PA
+L$@A
+L$0A
+L$pA
+T$ I
+T$ I
+t$XH
+|$`L
+HcD$
+t$h1
+T$hH
+L$ H9
+-t:f
+ATUSH
+D$(1
+|$(dH3<%(
+0[]A\
+AWAVAUATUSH
+|$ 1
+|$$9
+D$.t
+L$ L
+L$0L
+[]A\A]A^A_
+|$$1
+=.p#
+#vhH
+B PD
+dH3<%(
+tNH9
+AWAVAUATI
+D$H1
+D$$`
+D$0!
+D$@D
+D$<H
+D$4H
+d$ I
+|$(1
+|$,1
+|$$1
+|$81
+|$0L
+D$(A
+\$HdH3
+X[]A\A]A^A_
+=th#
+D$ H
+t$0H
+t$(H
+[]A\
+D$ H
+T$@1
+T$@H
+AWAVAUATI
+D$(1
+|$$1
+|$$1
+D$$A
+L$(dH3
+8[]A\A]A^A_
+|$$1
+D$$A
+|$$1
+D$$A
+|$ 1
+8au=
+AVAUI
+ATUH
+[]A\A]A^
+L$ H
+L$ H
+L$ A
+$~+L
+AWAVA
+AUATA
+[]A\A]A^A_
+none
+AWAVAUATUSH
+\$(H
+D$ H
+D$HH
+D$PH
+t$0H
+L$@H
+t$8H
+dH3<%(
+[]A\A]A^A_
+\$(H
+D$PH
+ATUSH
+[]A\
+ATUSH
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+ATUSH
+D$(1
+D$ H
+t$ ~	H
+9att
+T$ H
+\$(dH3
+0[]A\
+t$ H
+ATUSH
+D$(1
+D$ H
+?at<D
+T$ H
+\$(dH3
+0[]A\
+t$ H
+AWAVAUATUSH
+[]A\A]A^A_
+L;,$
+AUATUSH
+D$H1
+|$ I
+9ath
+D$$1
+\$HdH3
+X[]A\A]
+AWAVI
+AUATUSH
+D$H1
+|$ H
+\$$A
+|$HdH3<%(
+X[]A\A]A^A_
+ATUSH
+D$(1
+D$ H
+t$ ~	H
+9atM
+T$ H
+\$(dH3
+0[]A\
+t$ H
+AWAVAUATI
+D$H1
+t$ H
+t$ D
+L$HdH3
+X[]A\A]A^A_
+t$ H
+t$ H
+D$ D
+Eleele
+t$ D
+t$(H
+t$(H
+|$ E
+t$ D
+t$0H
+|$0D
+t$0H
+|$0D
+t$(H
+t$ H
+D$0A
+|$01
+l$ A
+t$0H
+|$(I
+l$0D
+T$0H
+T$ D
+t$0H
+t$0H
+|$0D
+l$(M
+t$(H
+t$0H
+t$(H
+t$0H
+t$0H
+|$(I
+l$0D
+t$0H
+d$ D
+D$ A
+|$01
+|$41
+T$4!
+L$0A
+d$ 1
+du^A
+t$(H
+t$(H
+t$0H
+|$(H
+t$0H
+Degas are we not drawn onward no In union drawn onward to new eras aged
+|$0A
+t$(H
+t$0H
+|$(H
+t$(H
+AWAVM
+AUATUSH
+[]A\A]A^A_
+|$,1
+|$,1
+D$,f
+|$,1
+D$,I
+|$,1
+L$,A
+|$,1
+L$,A
+L$$A
+|$(1
+L$,A
+T$$%
+T$01
+|$,1
+T$D#T$@
+D$$%
+=G%#
+D$ H
+t$(H
+t$0H
+ATUL
+T$ H
+D$X1
+L$XdH3
+`[]A\
+$uWH
+D$x1
+t$ H
+\$xdH3
+ATUSL
+T$ H
+D$x1
+\$xdH3
+[]A\
+D$x1
+t$ H
+\$xdH3
+L$8H
+t$(H
+D$ H
+D$0H
+[]A\
+AUATUSH
+D$0H
+D$ H
+D$(H
+D$@H
+D$`H
+t$XH
+t$PH
+t$HH
+dH3<%(
+[]A\A]
+D$81
+AWAVAUATUSH
+T$,H
+T$@H
+L$ dH
+D$,H
+T$ H
+[]A\A]A^A_
+T$ H
+|$81
+D$8!D$
+!D$(
+T$ H
+|$81
+!D$(!
+T$ H
+|$81
+T$81T$
+T$ H
+D$,~ZH
+|$81
+L$8H
+T$ H
+|$<1
+L$<H
+T$ H
+|$81
+L$8H
+|$<1
+T$ H
+L$8f
+T$ H
+|$81
+L$8H
+D$,H
+t$ H
+D$,H
+t$ H
+D$,H
+t$ H
+D$ H
+D$(1
+|$(dH3<%(
+ATUSH
+D$H1
+D$HdH3
+P[]A\
+AVAUATUH
+|$H1
+D$HdH3
+P[]A\A]A^
+ATUSH
+L$(H
+L$8H
+D$@H
+D$HA
+D$xH
+D$hH
+t$(ZYH
+[]A\
+AWAVE
+AUATA
+D$(1
+\$(dH3
+8[]A\A]A^A_
+ATUA
+[]A\
+AVAU
+ATUSH
+L$81
+|$ H
+\$8dH3
+@[]A\A]A^
+~tfA
+AWAVE1
+AUATI
+([]A\A]A^A_
+AWAVAUATUSH
+([]A\A]A^A_
+D$81
+D$ H
+D$(H
+\$8dH3
+AWAVAUATUSH
+t$0M
+D$8H
+D$(I
+t$@I
+t$@I
+[]A\A]A^A_
+D$8H
+AWAVAUATUSH
+l$@H
+<itX<au
+T$(1
+T$ H
+D$jE1
+YD$(
+[]A\A]A^A_
+L$0E
+D$09D$4
+4$E1
+L$0A
+L$$L
+D$ H
+D$(H
+t$0H
+t$8H
+D$(1
+$t H
+t$ 1
+\$(dH3
+t$ 1
+t$ 1
+t$ 1
+vaUSH
+D$H1
+D$HdH3
+AVAUATUSH
+D$(1
+|$(dH3<%(
+0[]A\A]A^
+AWAVI
+AUATI
+D$(1
+L$(dH3
+8[]A\A]A^A_
+D$$f
+D$$A
+L$$t
+D$$A
+AVAUATUH
+L$H1
+T$ H
+T$0H
+L$HdH3
+P[]A\A]A^
+L$ A
+L$0A
+AUATI
+[]A\A]
+vNUSH
+AWAVAUATUSH
+T$@D
+T$HD
+t$PL
+t$PL
+t$PE
+t$`I
+\$ H
+T$8H
+[]A\A]A^A_
+t$PD
+t$PD
+AWAVI
+AUATUSH
+D$(1
+L$(dH3
+8[]A\A]A^A_
+AVAU1
+ATUI
+l$0f
+\$(H
+D$ H
+\$ H
+D$>f
+D$Bf
+D$LA
+H9D$(
+H9D$ 
+L$`L
+[]A\A]A^
+tiHc
+L$ A
+L$(A
+D$H1
+\$HdH3
+D$X1
+\$XdH3
+AVAUE1
+ATUI
+[]A\A]A^
+dH3<%(
+AVAUI
+ATUE1
+[]A\A]A^
+~6SH
+AUATUSH
+\$ H
+D$(H
+[]A\A]
+AWAVAUATUSH
+L$H1
+L$ L
+L$ H
+D$$L
+D$"f=
+D$0I
+L$ A
+T$HdH3
+X[]A\A]A^A_
+D$0I
+ATUSH
+D$h1
+\$hdH3
+p[]A\
+AWAVAUATUSH
+L$,H
+L$h1
+d$0A
+T$,L
+D$ H
+T$hdH3
+x[]A\A]A^A_
+AVAUATUSH
+L$`H
+dH3<%(
+[]A\A]A^
+AWAVAUATUSH
+\$x1
+D$XD
+*L$T
+D$4D
+D$XI
+T$xdH3
+[]A\A]A^A_
+l$ A
+AUATUSH
+D$h1
+|$hdH3<%(
+x[]A\A]
+D$(1
+\$(dH3
+AWAVA
+AUATUSH
+D$(1
+T$ I
+L$(dH3
+8[]A\A]A^A_
+t$ H
+T$ H
+AWAVAUATUSH
+D$(1
+T$ H
+t$0H
+T$ A
+T$0H
+\$(dH3
+8[]A\A]A^A_
+AWAV1
+AUATUSH
+\$$L
+D$$H
+L$0H
+t$(H
+|$$L
+\$$L
+D$dL
+[]A\A]A^A_
+D$(H
+L$0L
+t$(H
+D$x1
+D$ H
+D$(H
+\$xdH3
+AWAVAUATUSH
+L$(H
+T$ L
+L$X1
+D$4=
+D$2H
+|$<1
+L$XdH3
+h[]A\A]A^A_
+d$@L
+T$(E1
+L$,1
+D$ H
+L$8A
+L$<A
+L$2A
+AWAVAUATUSH
+D$x1
+PATM
+AVAW
+D$(H
+t$ H
+\$xdH3
+[]A\A]A^A_
+ thA
+AWAVAUATUSH
+D$(1
+T$(dH3
+8[]A\A]A^A_
+L$$ 
+=Ew"
+D$(1
+|$(dH3<%(
+AWAVAUATUSH
+D$81
+L$ H
+T$8dH3
+H[]A\A]A^A_
+ATUSH
+D$x1
+D$ L
+d$0H
+\$xdH3
+[]A\
+AWAVAUATM
+L$H1
+D$.f=
+L$.A
+L$HdH3
+X[]A\A]A^A_
+|$,1
+L$,A
+dH3<%(
+AWAVAUATUSH
+D$(1
+L$(dH3
+8[]A\A]A^A_
+L$0H
+t$ H
+D$(H
+5Fd"
+5gc"
+5 c"
+AWAVM
+AUATUSH
+L$ H
+l$PL
+l$0A
+T$ E1
+[]A\A]A^A_
+=!`"
+T$ E1
+L$0A
+L$(D
+AVAUATUI
+D$(1
+t$0H
+T$ H
+t$(dH34%(
+0[]A\A]A^
+D$ H
+t$0H
+fuFA
+ASATA
+t$0H
+A\A]
+AVAT
+ARAT
+APATL
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+<lt\<n
+dH3<%(
+([]A\A]A^A_
+to< 
+AWAVAUATUSH
+D$H1
+|$ H
+t$(H
+d$4fD
+\$;H
+\$ H
+\$HdH3
+X[]A\A]A^A_
+AWAVAUATSH
+[A\A]A^A_]
+ATUH
+AWAVAUATUSH
+([]A\A]A^A_
+AWAVAUATI
+*tt;
+[]A\A]A^A_
+D$(1
+trrP<
+|$(dH3<%(
+AVAUATU1
+]A\A]A^
+]A\A]A^
+AWAVAUATUSH
+D$h1
+|$hdH3<%(
+x[]A\A]A^A_
+=1<"
+-)8"
+l$ L
+vt_H
+<vtGH
+=e6"
+<vt[H
+<vt\H
+AWAVAUATUSH
+D$h1
+L$hdH3
+x[]A\A]A^A_
+l$BE1
+AUATI
+[]A\A]
+D$x1
+T$(H
+T$ H
+\$xdH3
+AUATI
+([]A\A]
+=k)"
+D$x1
+L$xdH3
+T$(H
+T$0H
+T$8H
+T$ H
+AUATI
+D$(1
+L$$A
+L$ A
+\$(dH3
+8[]A\A]
+8euK
+D$h1
+|$hdH3<%(
+T$@H
+T$PH
+T$(H
+T$ H
+T$8H
+T$0H
+T$HH
+AWAVI
+AUATUSH
+D$H1
+|$ 1
+T$DA
+L$@A
+\$HdH3
+X[]A\A]A^A_
+|$,1
+|$$1
+|$<1
+|$(1
+L$8A
+L$<A
+L$0A
+L$4A
+L$ A
+L$$A
+L$(A
+voUSH
+T$ H
+T$(H
+T$0H
+T$8H
+AUATI
+D$(1
+L$ A
+L$$A
+\$(dH3
+8[]A\A]
+T$ H
+T$(H
+T$0H
+T$8H
+AVAUI
+ATUSH
+D$(1
+|$$1
+\$(dH3
+0[]A\A]A^
+L$ A
+L$$A
+ATE1
+(u>1
+AUATUSH
+D$X1
+|$0L
+T$XdH3
+h[]A\A]
+AWAVAUATUSH
+D$H1
+D$(f
+T$HdH3
+X[]A\A]A^A_
+AUATUSH
+[]A\A]
+[]A\A]
+dH34%(
+ tPf
+ATUA
+ tjf
+[]A\
+T$(f
+ATUSH
+[]A\
+AWAVAUATUSH
+L$81
+D$(I
+t$$H
+D$4H
+T$0E
+L$,E
+D$$E
+D$ I
+D$(I
+D$0I
+L$8dH3
+H[]A\A]A^A_
+|$ dH
+t$(H
+AVAUATUSH
+dH3<%(
+[]A\A]A^
+tH;C$u
+;z$u
+;z$u
+;z$u
+ATUSH
+[]A\
+dH34%(
+[]A\
+D$(1
+T$"f
+T$(dH3
+dH3<%(
+|$ f
+T$pf
+t$ H
+D$`Hc
+D$x1
+D$`A
+D$0A
+AWAV
+AUATI
+USE1
+|$`L
+t$0H
+D$8H
+D$`H
+D$PH
+D$pH
+L$(H
+\$$L
+\$$D
+D$0H
+|$ 9}
+T$(D
+L$$H
+|$8A
+L$$L
+_t<H
+[]A\A]A^A_
+D$(1
+L$(dH3
+AWAVI
+AUATUSH
+d$@H
+D$81
+L$ H
+D$@H
+D$0H
+D$PA
+l$0A
+D$p 
+D$p 
+[]A\A]A^A_
+AWAVI
+AUAT
+D$PH
+D$@H
+D$`t
+D$0H
+D$@H
+D$ H
+[]A\A]A^A_
+t$pH
+AWAVI
+AUATI
+L$ D
+x_A9
+[]A\A]A^A_
+AUATA
+]A\A]
+AUATUSH
+[]A\A]
+AUATA
+[]A\A]
+AVAUE
+ATUH
+]A\A]A^
+AVAUI
+ATUA
+vcE1
+]A\A]A^
+]A\A]A^
+v\D9
+v5A9
+ATUSH
+[]A\
+AVAUI
+ATUI
+ []A\A]A^
+ATUSH
+[]A\
+AUATA
+[]A\A]
+<$"u
+ATUSH
+w1fA
+[]A\
+ATUSH
+[]A\
+AWAV
+AUATI
+D$81
+<$atz
+<luvA
+t$8dH34%(
+H[]A\A]A^A_
+T$ L
+D$"A
+AUAT
+D$H1
+<nuP
+t$HdH34%(
+X[]A\A]
+D$(1
+L$(dH3
+ATUH
+[]A\
+AUATI
+t%Hc
+[]A\A]
+/proc/ne
+t/pschedH
+dH34%(
+:itKH
+AWAVAUATI
+t$(H
+[]A\A]A^A_
+D$ H
+L$(I
+8[]A\A]A^A_
+AWAVI
+AUATUSH
+~TE1
+[]A\A]A^A_
+AWAVI
+AUATA
+D$(1
+d$ M
+L$(dH3
+8[]A\A]A^A_
+D$81
+L$8dH3
+AWAVH
+AUATUSH
+D$H1
+D$@H
+D$ H
+D$8H
+|$(H
+\$8H
+\$8L
+t$8H
+T$HdH3
+X[]A\A]A^A_
+AWAVA
+AUATUSH
+"tLH
+[]A\A]A^A_
+ATUI
+[]A\
+[]A\
+ATUH
+[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAV
+AUATI
+tQHcD$
+[]A\A]A^A_
+AWAV
+AUATI
+[]A\A]A^A_
+ATUA
+[]A\
+[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+ATUI
+[]A\
+[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+ATUA
+[]A\
+[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+t'I9
+ATUA
+[]A\
+[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+tKI9
+5hn!
+AWAVI
+AUATI
+-|d!
+[]A\A]A^A_
+`tkL
+1t E
+AUATI
+-uF!
+1t@H
+[]A\A]
+[]A\A]
+AWAVE
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVA
+AUATI
+D$81
+L$8dH3
+H[]A\A]A^A_
+AVAUL
+ATUSt;
+]A\A]A^
+]A\A]A^
+0<	w?H
+AWAVL
+AUATL
+AXAY
+[]A\A]A^A_
+.t-H
+[]A\
+AWAVH
+AUATI
+l$0H
+D$(H
+D$,H
+D$$H
+[]A\A]A^A_
+tmAVAUI
+ATUS
+tCE1
+E9&w
+]A\A]A^
+t D;I
+AWAVI
+AUATI
+[]A\A]A^A_
+Do nine men interpret Nine men I nod
+[]A\A]A^A_
+AUATUSH
+dH34%(
+[]A\A]
+.t"H
+ATUS
+<	v;
+[]A\
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AUATUSH
+dH34%(
+[]A\A]
+AWAVA
+AUATL
+[]A\A]A^A_
+[Unknown qdisc, optlen=%u] 
+fh %08x 
+Unparsable filter ID "%s"
+qdisc
+actions
+monitor
+exec
+Cannot open rtnetlink
+Command failed %s:%d
+%s/q_%s.so
+%s_qdisc_util
+%s/f_%s.so
+%s_filter_util
+-stats
+-statistics
+-details
+-raw
+-pretty
+-graph
+-Version
+tc utility, iproute2-ss%s
+-iec
+-help
+-force
+-batch
+-netns
+-names
+-conf
+-timestamp
+-tshort
+Unknown qdisc "%s", hence option "%s" is unparsable
+fh %08x [Unknown filter, optlen=%u] 
+Unknown filter "%s", hence option "%s" is unparsable
+Usage: tc [ OPTIONS ] OBJECT { COMMAND | help }
+       tc [-force] -batch filename
+where  OBJECT := { qdisc | class | filter | action | monitor | exec }
+       OPTIONS := { -s[tatistics] | -d[etails] | -r[aw] | -p[retty] | -b[atch] [filename] | -n[etns] name |
+                    -nm | -nam[es] | { -cf | -conf } path }
+Object "%s" is unknown, try "tc help".
+Cannot open file "%s" for reading: %s
+Option "%s" is unknown, try "tc -help".
+151103
+Usage: tc qdisc [ add | del | replace | change | show ] dev STRING
+       [ handle QHANDLE ] [ root | ingress | parent CLASSID ]
+       [ stab [ help | STAB_OPTIONS] ]
+       [ [ QDISC_KIND ] [ help | OPTIONS ] ]
+       tc qdisc show [ dev STRING ] [ingress]
+QDISC_KIND := { [p|b]fifo | tbf | prio | cbq | red | etc. }
+OPTIONS := ... try tc qdisc add <desired QDISC_KIND> help
+STAB_OPTIONS := ... try tc qdisc add stab help
+[cannot parse qdisc parameters]
+Error: "root" is duplicate parent ID
+Error: "ingress" is a duplicate parent ID
+qdisc '%s' does not support option parsing
+Garbage instead of arguments "%s ...". Try "tc qdisc help".
+failed to calculate size table.
+What is "%s"? Try "tc qdisc help".
+Command "%s" is unknown, try "tc qdisc help".
+Where:
+Not a qdisc
+Wrong len %d
+print_qdisc: NULL kind
+deleted 
+qdisc %s %x: 
+root 
+parent %s 
+refcnt %d 
+pfifo_fast
+handle
+invalid qdisc ID
+root
+ingress
+parent
+invalid parent ID
+estimator
+stab
+Cannot find device "%s"
+Duplicate parent ID
+Cannot send dump request
+Dump terminated
+change
+replace
+delete
+list
+show
+Usage: tc class [ add | del | change | replace | show ] dev STRING
+       [ classid CLASSID ] [ root | parent CLASSID ]
+       tc class show [ dev STRING ] [ root | parent CLASSID ]
+QDISC_KIND := { prio | cbq | etc. }
+OPTIONS := ... try tc class add <desired QDISC_KIND> help
+[cannot parse class parameters]
+Error: try "classid" instead of "handle"
+Error: "root" is duplicate parent ID.
+Error: Qdisc "%s" is classless.
+Garbage instead of arguments "%s ...". Try "tc class help".
+What is "%s"? Try "tc class help".
+Command "%s" is unknown, try "tc class help".
+Not a class
+print_class: NULL kind
+class %s %s 
+leaf %x: 
+%-*s
++---(%s)
+invalid class ID
+Usage: tc filter [ add | del | change | replace | show ] dev STRING
+       [ pref PRIO ] protocol PROTO
+       [ root | classid CLASSID ] [ handle FILTERID ]
+       [ [ FILTER_TYPE ] [ help | OPTIONS ] ]
+       tc filter show [ dev STRING ] [ root | parent CLASSID ]
+FILTER_TYPE := { rsvp | u32 | bpf | fw | route | etc. }
+FILTERID := ... format depends on classifier, see there
+OPTIONS := ... try tc filter add <desired FILTER_KIND> help
+Must specify filter type when using "handle"
+Garbage instead of arguments "%s ...". Try "tc filter help".
+We have an error talking to the kernel
+ What is "%s"? Try "tc filter help"
+Command "%s" is unknown, try "tc filter help".
+Not a filter
+print_filter: NULL kind
+filter 
+protocol %s 
+pref %u 
+[cannot parse parameters]
+Invalid parent ID
+priority
+invalid priority value
+invalid protocol
+invalid preference
+Can't open class names file: %s
+ (dropped %u, overlimits %u requeues %u) 
+%sSent %llu bytes %u pkts (dropped %u, overlimits %u) 
+/etc/iproute2/tc_cls
+/usr/lib/tc/
+TC_LIB_DIR
+none
+%x:%x
+%s#%s
+%.0f%s%sbit
+msec
+msecs
+usec
+usecs
+%.1fs
+%.1fms
+%uus
+gbit
+mbit
+kbit
+%gMb
+%gKb
+continue
+pass
+reclassify
+pipe
+stolen
+shot
+%d%c
+ethernet
+adsl
+unspec
+unknown
+ installed %u sec
+ used %u sec
+God A red nugget A fat egg under a dog
+ expires %u sec
+%sSent %llu bytes %u pkt
+%srate %s %llupps 
+%srate %s %upps 
+backlog %s %up requeues %u 
+rate 
+backlog 
+Kibit
+mibit
+gibit
+tibit
+tbit
+KiBps
+KBps
+MiBps
+MBps
+GiBps
+GBps
+TiBps
+TBps
+Unknown message: length %08d type %08x flags %08x
+Usage: tc [-timestamp [-tshort] monitor
+Argument "%s" is unknown, try "tc monitor help".
+Cannot fopen
+%s/e_%s.so
+%s_exec_util
+EXEC_TYPE := { bpf | etc. }
+Unknown exec "%s", hence option "%s" is unparsable
+No command given, try "tc exec help".
+Usage: tc exec [ EXEC_TYPE ] [ help | OPTIONS ]
+OPTIONS := ... try tc exec <desired EXEC_KIND> help
+%hu%c
+%hu %hhu %hhu %u,
+Error at instruction %d!
+bytecode '%u,
+%hu %hhu %hhu %u'
+classifier
+action
+Real program length exceeds encoded length parameter!
+Parsed program length is less than encodedlength parameter!
+Double "buffer/burst" spec
+Double "mtu/minburst" spec
+Double "mpu" spec
+Double "rate" spec
+avrate
+Double "avrate" spec
+peakrate
+Double "peakrate" spec
+conform-exceed
+"burst" requires "rate".
+"peakrate" requires "rate".
+Illegal "action"
+minburst
+[NULL police tbf]
+[truncated police tbf]
+ police 0x%x 
+mtu %s 
+peakrate %s 
+avrate %s 
+/%s 
+overhead %ub 
+linklayer %s 
+ref %d bind %d
+Usage: ... police rate BPS burst BYTES[/BYTES] [ mtu BYTES[/BYTES] ]
+                [ peakrate BPS ] [ avrate BPS ] [ overhead BYTES ]
+                [ linklayer TYPE ] [ ACTIONTERM ]
+New Syntax ACTIONTERM := conform-exceed <EXCEEDACT>[/NOTEXCEEDACT] 
+Where: *EXCEEDACT := pipe | ok | reclassify | drop | continue 
+Where:  pipe is only valid for new syntax 
+"mtu" is required, if "peakrate" is requested.
+TBF: failed to calculate rate table.
+POLICE: failed to calculate peak rate table.
+Usage: ... estimator INTERVAL TIME-CONST
+  INTERVAL is interval between measurements
+  TIME-CONST is averaging time constant
+invalid estimator time constant
+Error: estimator parameters are out of range.
+Example: ... est 1sec 8sec
+invalid estimator interval
+[estimator i=%u e=%u]
+%s/m_%s.so
+%s_action_util
+[Unknown action, optlen=%u] 
+Unknown action "%s"
+gact
+bad action %s
+We have an error flushing
+flowid
+bad action parsing
+bad action empty %d
+NULL Action!
+ %s (%d entries)
+	action order %d: 
+	Action statistics:
+Error printing action
+print_action: NULL kind
+Flushed table 
+deleted action 
+Added action 
+flush
+usage: tc actions <ACTSPECOP>*
+Where: 	ACTSPECOP := ACR | GD | FL
+	ACR := add | change | replace <ACTSPEC>* 
+	GD := get | delete | <ACTISPEC>*
+	FL := ls | list | flush | <ACTNAMESPEC>
+	ACTNAMESPEC :=  action <ACTNAME>
+	ACTISPEC := <ACTNAMESPEC> <INDEXSPEC>
+	ACTSPEC := action <ACTDETAIL> [INDEXSPEC]
+	INDEXSPEC := index <32 bit indexvalue>
+	ACTDETAIL := <ACTNAME> <ACTPARAMS>
+		Example ACTNAME is gact, mirred, bpf, etc
+		Each action has its own parameters (ACTPARAMS)
+Unknown action "%s", hence option "%s" is unparsable
+parse_action: bad value (%d:%s)!
+Error: non existent action: %s
+Error: no index specified action: %s
+Command "%s" is unknown, try "tc actions help".
+em_%s.so
+%s_ematch_util
+/etc/iproute2/ematch_map
+%d %s
+NOT 
+[unknown ematch %d]
+Missing ematch tree header
+Missing ematch tree list
+: %s
+... 
+>>%s<< 
+... %s(
+%s%s
+)...
+Parse error
+Unknown ematch "%s"
+ AND 
+ OR 
+ematch map %s corrupted at %s
+Ematch tree header size mismatch
+Usage: EXPR
+where: EXPR  := TERM [ { and | or } EXPR ]
+       TERM  := [ not ] { MATCH | '(' EXPR ')' }
+       MATCH := module '(' ARGS ')'
+       ARGS := ARG1 ARG2 ...
+Example: a(x y) and not (b(x) or c(x y z))
+Error: Unable to find ematch "%s" in %s
+Please assign a unique ID to the ematch kind the suggested entry is:
+	%d	%s
+Stack now
+token
+nterm
+%s %s (
+Deleting
+syntax error, unexpected %s
+syntax error
+Starting parse
+Stack size increased to %lu
+Entering state %d
+Reading a token: 
+Now at end of input.
+Next token is
+Shifting
+   $%d = 
+-> $$ =
+Error: discarding
+Error: popping
+memory exhausted
+Cleanup: discarding lookahead
+Cleanup: popping
+$end
+$undefined
+ERROR
+ATTRIBUTE
+$accept
+input
+expr
+match
+args
+relation
+invert
+Reducing stack by rule %d (line %lu):
+syntax error, unexpected %s, expecting %s
+syntax error, unexpected %s, expecting %s or %s
+syntax error, unexpected %s, expecting %s or %s or %s
+syntax error, unexpected %s, expecting %s or %s or %s or %s
+$$&(02;BLNSU[\
+match argument too long.
+out of dynamic memory in ematch_ensure_buffer_stack()
+out of dynamic memory in ematch__create_buffer()
+error: octal escape sequence out of range
+error: invalid octale escape sequence
+error: hexadecimal escape sequence out of range
+fatal flex scanner internal error--end of buffer missed
+fatal error - scanner input buffer overflow
+out of dynamic memory in yy_get_next_buffer()
+fatal flex scanner internal error--no action found
+out of dynamic memory in ematch__scan_buffer()
+out of dynamic memory in ematch__scan_bytes()
+bad buffer in ematch__scan_bytes()
+bfifo
+limit %s
+limit %up
+%s: unknown parameter "%s"
+pfifo_head_drop
+pfifo
+%s: Illegal value for "limit": "%s"
+Usage: ... <[p|b]fifo | pfifo_head_drop> [ limit NUMBER ]
+Usage: ... sfq [ limit NUMBER ] [ perturb SECS ] [ quantum BYTES ]
+               [ divisor NUMBER ] [ flows NUMBER] [ depth NUMBER ]
+               [ redflowlimit BYTES ] [ min BYTES ] [ max BYTES ]
+               [ avpkt BYTES ] [ burst PACKETS ] [ probability P ]
+               [ ecn ] [ harddrop ]
+ prob_mark %u prob_mark_head %u prob_drop %u
+ forced_mark %u forced_mark_head %u forced_drop %u
+Required parameter (redflowlimit) is missing
+"min" is not smaller than "max"
+SFQ: failed to calculate EWMA constant.
+SFQ: WARNING. Burst %u seems to be too large.
+SFQ: failed to calculate probability.
+               [ headdrop ]
+ allot %d 
+quantum %s 
+depth %u 
+headdrop 
+flows %u/%u 
+divisor %u 
+perturb %dsec 
+ ewma %u 
+min %s max %s probability %g 
+Illegal "limit"
+perturb
+Illegal "perturb"
+Illegal "limit", must be > 1
+divisor
+Illegal "divisor"
+flows
+Illegal "flows"
+depth
+headdrop
+redflowlimit
+Illegal "redflowlimit"
+Illegal "min"
+Illegal "max"
+Illegal "burst"
+avpkt
+Illegal "avpkt"
+probability
+Illegal "probability"
+harddrop
+What is "%s"?
+"max" is larger than "limit"
+AUsage: ... red limit BYTES [min BYTES] [max BYTES] avpkt BYTES [burst PACKETS]
+               [adaptive] [probability PROBABILITY] [bandwidth KBPS]
+               [ecn] [harddrop]
+  marked %u early %u pdrop %u other %u
+RED: Required parameter (limit, avpkt) is missing
+RED: failed to calculate EWMA constant.
+RED: WARNING. Burst %u seems to be too large.
+RED: failed to calculate probability.
+RED: failed to calculate idle damping table.
+limit %s min %s max %s 
+harddrop 
+adaptive 
+probability %lg 
+Borrow or rob
+Plog %u 
+Scell_log %u
+bandwidth
+Illegal "bandwidth"
+adaptative
+adaptive
+10Mbit
+RED: set bandwidth to 10Mbit
+bands %u priomap 
+ multiqueue: %s 
+bands
+Illegal "bands"
+priomap
+Error: duplicate priomap
+multiqueue
+Illegal "priomap" element
+Usage: ... prio bands NUMBER priomap P1 P2...[multiqueue]
+"priomap" element is out of bands
+"priomap" index > TC_PRIO_MAX=%u
+Usage: ... tbf limit BYTES burst BYTES[/BYTES] rate KBPS [ mtu BYTES[/BYTES] ]
+               [ peakrate KBPS ] [ latency TIME ] 
+[ overhead BYTES ] [ linklayer TYPE ]
+tbf: the "rate" parameter is mandatory.
+tbf: duplicate "limit" specification
+tbf: specifying both "latency" and "limit" is not allowed
+tbf: illegal value for "%s": "%s"
+tbf: duplicate "latency" specification
+tbf: specifying both "limit" and "/latency" is not allowed
+tbf: duplicate "buffer/burst/maxburst" specification
+tbf: duplicate "mtu/minburst" specification
+tbf: duplicate "mpu" specification
+tbf: duplicate "rate" specification
+tbf: duplicate "peakrate" specification
+tbf: duplicate "overhead" specification
+tbf: the "burst" parameter is mandatory.
+tbf: when "peakrate" is specified, "mtu" must also be specified.
+tbf: either "limit" or "latency" is required.
+tbf: failed to calculate rate table.
+tbf: failed to calculate peak rate table.
+burst %s/%u mpu %s 
+mtu %s/%u mpu %s 
+minburst %s 
+lat %s 
+limit %s 
+latency
+tbf: unknown parameter "%s"
+Usage: ... cbq bandwidth BPS rate BPS maxburst PKTS [ avpkt BYTES ]
+               [ minburst PKTS ] [ bounded ] [ isolated ]
+               [ allot BYTES ] [ mpu BYTES ] [ weight RATE ]
+               [ prio NUMBER ] [ cell BYTES ] [ ewma LOG ]
+               [ estimator INTERVAL TIME_CONSTANT ]
+               [ split CLASSID ] [ defmap MASK/CHANGE ]
+               [ overhead BYTES ] [ linklayer TYPE ]
+Usage: ... cbq bandwidth BPS avpkt BYTES [ mpu BYTES ]
+               [ cell BYTES ] [ ewma LOG ]
+  borrowed %u overactions %u avgidle %g undertime %g
+CBQ: too short overlimit strategy %u/%u
+"prio" must be number in the range 1...%d
+Invalid defmap, should be MASK32[/MASK]
+CBQ: failed to calculate rate table.
+CBQ: avpkt is required for max/minburst.
+CBQ: bandwidth&rate are required for max/minburst.
+CBQ: "allot" is required to set WRR parameters.
+CBQ: bandwidth is required parameter.
+CBQ: too short rate opt
+CBQ: too short lss opt
+CBQ: too short wrr opt
+CBQ: too short fopt
+cell %ub 
+mpu %ub 
+bounded
+isolated
+prio %u
+prio no-transmit
+weight %s 
+allot %ub 
+level %u ewma %u avpkt %ub 
+maxidle %s 
+minidle %s 
+offtime %s 
+split %s 
+defmap %08x
+minidle
+borrow
+sharing
+ewma
+ewma_log must be < 32
+cell
+allot
+split
+Invalid split node ID.
+defmap
+%08x/%08x
+cell must be 2^n
+CBQ: "avpkt" is required.
+Usage: ... rr bands NUMBER priomap P1 P2... [multiqueue]
+"priomap" index > TC_RR_MAX=%u
+bands %u/%u 
+Usage: ... multiq [help]
+multiq
+options size error
+limit %d
+ delay %s
+  %s
+%g%%
+ loss %s
+ loss state p13 %s
+ p31 %s
+ p32 %s
+ p23 %s
+ p14 %s
+ loss gemodel p %s
+ r %s
+ 1-h %s
+ 1-k %s
+ duplicate %s
+ reorder %s
+ corrupt %s
+ rate %s
+ packetoverhead %d
+ cellsize %u
+ celloverhead %d
+ ecn 
+ gap %lu
+Illegal %u time (too large)
+loss
+duplicate loss argument
+random
+loss percent
+loss correllation
+loss p13
+loss p31
+loss p32
+loss p23
+loss p14
+gemodel
+loss gemodel p
+loss gemodel r
+loss gemodel h
+loss gemodel k
+Unknown loss parameter: %s
+reorder
+corrupt
+duplicate
+distribution
+%s/%s.dist
+%s: too much data
+loss in the weeds!
+netem
+No distribution data for %s (%s: %s)
+Usage: ... netem [ limit PACKETS ] 
+                 [ delay TIME [ JITTER [CORRELATION]]]
+                 [ distribution {uniform|normal|pareto|paretonormal} ]
+                 [ corrupt PERCENT [CORRELATION]] 
+                 [ duplicate PERCENT [CORRELATION]]
+                 [ loss random PERCENT [CORRELATION]]
+                 [ loss state P13 [P31 [P32 [P23 P14]]]
+                 [ loss gemodel PERCENT [R [1-H [1-K]]]
+                 [ ecn ]
+                 [ reorder PRECENT [CORRELATION] [ gap DISTANCE ]]
+                 [ rate RATE [PACKETOVERHEAD] [CELLSIZE] [CELLOVERHEAD]]
+reordering not possible without specifying some delay
+gap specified without reorder probability
+Beeb
+ecn requested without loss model
+distribution specified but no latency and jitter values
+?Usage: ... choke limit PACKETS bandwidth KBPS [ecn]
+                 [ min PACKETS ] [ max PACKETS ] [ burst PACKETS ]
+  marked %u early %u pdrop %u other %u matched %u
+Required parameter (bandwidth, limit) is missing
+CHOKE: failed to calculate EWMA constant.
+CHOKE: WARNING. Burst %d seems to be too large.
+CHOKE: failed to calculate probability.
+CHOKE: failed to calculate idle damping table.
+limit %up min %up max %up 
+choke
+  earlydrop %u penaltydrop %u bucketdrop %u queuedrop %u childdrop %u marked %u
+  maxqlen %u maxprob %.5f avgprob %.5f 
+limit %d max %d target %d
+  increment %.5f decrement %.5f penalty rate %d burst %d (%ums %ums)
+Usage: ... sfb [ rehash SECS ] [ db SECS ]
+	    [ limit PACKETS ] [ max PACKETS ] [ target PACKETS ]
+	    [ increment FLOAT ] [ decrement FLOAT ]
+	    [ penalty_rate PPS ] [ penalty_burst PACKETS ]
+rehash
+Illegal "rehash"
+Illegal "db"
+target
+Illegal "target"
+increment
+Illegal "increment"
+decrement
+Illegal "decrement"
+penalty_rate
+Illegal "penalty_rate"
+penalty_burst
+Illegal "penalty_burst"
+? spi/esp 0x%08x
+ spi/ah 0x%08x
+ flowlabel 0x%05x
+ u32 0x%08x mask %08x at %d
+       FILTERID := X:Y
+rsvp
+fh 0x%08x 
+tunnel %d skip %d 
+tunnel [BAD] skip %d 
+session 
+ [INVALID DADDR] 
+session [NONE]%s 
+session NONE 
+ipproto %s 
+tunnelid %d 
+sender 
+[BAD]
+sender [NONE]%s 
+spi/ah
+gpi/ah
+spi/esp
+gpi/esp
+flowlabel
+Illegal "handle"
+session
+Illegal "session"
+sender
+flowspec
+Illegal "sender"
+ipproto
+Illegal "ipproto"
+Illegal "classid"
+tunnelid
+Illegal "tunnelid"
+tunnel
+Illegal "tunnel"
+skip
+Illegal "skip"
+police
+Illegal "police"
+Usage: ... rsvp ipproto PROTOCOL session DST[/PORT | GPI ]
+                [ sender SRC[/PORT | GPI ] ]
+                [ classid CLASSID ] [ action ACTION_SPEC ]
+                [ tunnelid ID ] [ tunnel ID skip NUMBER ]
+Where: GPI := { flowlabel NUMBER | spi/ah SPI | spi/esp SPI |
+                u{8|16|32} NUMBER mask MASK at OFFSET}
+       ACTION_SPEC := ... look at individual actions
+NOTE: CLASSID is parsed as hexadecimal input.
+       FILTERID := X:Y:Z
+fh %s 
+order %d 
+ht divisor %d 
+key ht %x bkt %x 
+%sflowid %s 
+terminal flowid ??? 
+link %s 
+Broken perf counters 
+ (rule hit %llu success %llu)
+ (success %llu ) 
+    offset 
+%04x>>%d at %d 
+plus %d 
+ eat 
+    hash mask %08x at %d 
+  input dev %s
+match IP src
+match IP dst
+  match IP ihl %u
+  match IP dsfield %#x
+  match IP protocol %d
+  %s %s/%d
+  match sport %u
+  match dport %u
+nexthdr+
+  match %08x/%08x at %s%d
+%hhx:%hhx:%hhx:%hhx:%hhx:%hhx
+precedence
+nofrag
+firstfrag
+dport
+sport
+icmp_type
+icmp_code
+Illegal "mark" value
+Illegal "mark" mask
+ether
+Unknown match: ether %s
+Illegal filter ID
+Illegal "match"
+plus
+offset "at" must be even
+hashkey
+Illegal "order"
+Illegal "link"
+"link" must be a hash table.
+Illegal "ht"
+"ht" must be a hash table.
+sample
+Illegal "sample"
+Illegal sample "divisor"
+indev
+Illegal indev
+"order" contradicts "handle"
+Illegal "offset"
+Illegal "hashkey"
+Usage: ... u32 [ match SELECTOR ... ] [ link HTID ] [ classid CLASSID ]
+               [ action ACTION_SPEC ] [ offset OFFSET_SPEC ]
+               [ ht HTID ] [ hashkey HASHKEY_SPEC ]
+               [ sample SAMPLE ]
+or         u32 divisor DIVISOR
+Where: SELECTOR := SAMPLE SAMPLE ...
+       SAMPLE := { ip | ip6 | udp | tcp | icmp | u{32|16|8} | mark } SAMPLE_ARGS [divisor DIVISOR]
+NOTE: CLASSID is parsed at hexadecimal input.
+  Invalid mark (kernel&iproute2 mismatch)
+  mark 0x%04x 0x%04x (success %d)
+  match sport %u, match dport %u
+  match dport %u, match sport %u
+parse_ether_addr: improperly formed address '%s'
+Illegal "mark" (impossible combination)
+"sample" must contain exactly ONE key.
+Usage: ... route [ from REALM | fromif TAG ] [ to REALM ]
+       CLASSID := X:Y
+from %s 
+fromif %s
+Illegal "to"
+from
+Illegal "from"
+fromif
+Illegal "fromif"
+Usage: ... fw [ classid CLASSID ] [ action ACTION_SPEC ]
+handle 0x%x/0x%x 
+handle 0x%x 
+classid %s 
+input dev %s 
+Illegal "handle" mask
+Illegal fw "action"
+Usage: ... basic [ match EMATCH_TREE ] 
+                 [ action ACTION_SPEC ] [ classid CLASSID ]
+Illegal handle "%s", must be numeric.
+Illegal "ematch"
+pfd %u 
+Usage: ... bpf ...
+ bytecode BPF_BYTECODE
+ bytecode-file FILE
+eBPF use case:
+ [ verbose ]
+Common remaining options:
+ [ action ACTION_SPEC ]
+ [ classid CLASSID ]
+classifier (default '%s').
+Illegal "bytecode"
+Could not load object
+bytecode-file
+object-file
+TC_BPF_UDS
+section
+export
+verbose
+verb
+bytecode
+ object-file FILE [ section CLS_NAME ] [ export UDS_FILE ]
+Where BPF_BYTECODE := 's,c t f k,c t f k,c t f k,...'
+c,t,f,k and s are decimals; s denotes number of 4-tuples
+Where FILE points to a file containing the BPF_BYTECODE string,
+an ELF file containing eBPF map definitions and bytecode.
+Where CLS_NAME refers to the section name containing the
+Where UDS_FILE points to a unix domain socket file in order
+to hand off control of all created eBPF maps to an agent.
+ACTION_SPEC := ... look at individual actions
+NOTE: CLASSID is parsed as hexadecimal input.
+No ELF library support compiled in.
+hash 
+keys 
+and 0x%.8x 
+xor 0x%.8x 
+rshift %u 
+addend 0x%x 
+baseclass %s 
+perturb %usec 
+keys
+Illegal "mask"
+Illegal "or"
+Illegal "xor"
+rshift
+Illegal "rshift"
+addend
+baseclass
+Illegal "baseclass"
+Unknown flow key "%s"
+Illegal "addend"
+nfct
+nfct-src
+nfct-dst
+nfct-proto-src
+nfct-proto-dst
+rt-classid
+sk-uid
+sk-gid
+vlan-tag
+rxhash
+Usage: ... flow ...
+ [mapping mode]: map key KEY [ OPS ] ...
+ [hashing mode]: hash keys KEY-LIST ... [ perturb SECS ]
+                 [ divisor NUM ] [ baseclass ID ] [ match EMATCH_TREE ]
+                 [ action ACTION_SPEC ]
+KEY-LIST := [ KEY-LIST , ] KEY
+KEY      := [ src | dst | proto | proto-src | proto-dst | iif | priority | 
+              mark | nfct | nfct-src | nfct-dst | nfct-proto-src | 
+              nfct-proto-dst | rt-classid | sk-uid | sk-gid |
+              vlan-tag | rxhash ]
+OPS      := [ or NUM | and NUM | xor NUM | rshift NUM | addend NUM ]
+ID       := X:Y
+Invalid mode "map" for multiple keys
+Usage: ... cgroup [ match EMATCH_TREE ]
+                  [ action ACTION_SPEC ]
+Usage: ... flower [ MATCH-LIST ]
+                  [ action ACTION-SPEC ] [ classid CLASSID ]
+Where: MATCH-LIST := [ MATCH-LIST ] MATCH
+       MATCH      := { indev DEV-NAME | 
+                       dst_mac MAC-ADDR | 
+                       src_mac MAC-ADDR | 
+                       eth_type [ipv4 | ipv6 | ETH-TYPE ] | 
+                       ip_proto [tcp | udp | IP-PROTO ] | 
+                       dst_ip [ IPV4-ADDR | IPV6-ADDR ] | 
+                       src_ip [ IPV4-ADDR | IPV6-ADDR ] | 
+                       dst_port PORT-NUMBER | 
+                       src_port PORT-NUMBER }
+       ACTION-SPEC := ... look at individual actions
+NOTE: CLASSID, ETH-TYPE, IP-PROTO are parsed as hexadecimal input.
+NOTE: There can be only used one mask per one prio. If user needs
+      to specify different mask, he has to use different prio.
+Illegal "eth_type" for ip address
+Illegal "eth_type" for ip proto
+  %s %s
+  %s %d
+  indev %s
+dst_mac
+src_mac
+  eth_type 
+ipv4
+ipv6
+%04x
+  ip_proto 
+dst_ip
+src_ip
+dst_port
+src_port
+Illegal "ip_proto" for port
+Illegal "dst_mac"
+Illegal "src_mac"
+eth_type
+Illegal "eth_type"
+ip_proto
+Illegal "dst_ip"
+Illegal "src_ip"
+Illegal "dst_port"
+Illegal "src_port"
+Illegal "ip_proto"
+indices
+default_index
+default
+set_tc_index
+dsmark: empty mask
+mask 0x%02x 
+dsmark: empty value
+value 0x%02x 
+dsmark: indices too short
+indices 0x%04x 
+default_index 0x%04x 
+set_tc_index 
+dsmark
+Usage: ... dsmark [ mask MASK ] [ value VALUE ]
+Usage: dsmark indices INDICES [ default_index DEFAULT_INDEX ] [ set_tc_index ]
+dsmark: default_index too short
+Usage: tc qdisc { add | replace | change } ... gred setup vqs NUMBER
+           default DEFAULT_VQ [ grio ] [ limit BYTES ]
+       tc qdisc change ... gred vq VQ [ prio VALUE ] limit BYTES
+           min BYTES max BYTES avpkt BYTES [ burst PACKETS ]
+           [ probability PROBABILITY ] [ bandwidth KBPS ]
+ GRED received message smaller than expected
+ vq %u prio %hhu limit %s min %s max %s 
+  Queue size: average %s current %s 
+  Dropped packets: forced %u early %u pdrop %u other %u 
+GRED: only %u VQs are currently supported
+"default" must be defined after "vqs"
+"default" must be less than "vqs"
+Illegal gred setup parameters 
+Required parameter (vq, limit, min, max, avpkt) is missing
+GRED: set bandwidth to 10Mbit
+GRED: failed to calculate EWMA constant.
+GRED: WARNING. Burst %u seems to be too large.
+GRED: failed to calculate probability.
+GRED: failed to calculate idle damping table.
+grio 
+vqs %u default %u %s
+Scell_log %u 
+  Total packets: %u (%s) 
+setup
+Illegal "setup"
+Illegal "vqs"
+Illegal "default"
+grio
+Illegal "vq"
+GRED: set burst to %u
+gred
+ Usage: ... tcindex [ hash SIZE ] [ mask MASK ] [ shift SHIFT ]
+                    [ pass_on | fall_through ]
+                    [ classid CLASSID ] [ action ACTION_SPEC ]
+fall_through 
+pass_on 
+handle 0x%04x 
+hash %d 
+mask 0x%04x 
+shift %d 
+fall_through
+pass_on
+---------------- 
+Usage: ... ingress 
+default %x 
+ period %u 
+rtwork %llu bytes 
+level %u 
+m1 %s 
+m2 %s 
+HFSC: Illegal "%s"
+umax
+dmax
+HFSC: no parameters given
+HFSC: What is "%s" ?
+HFSC: Double "default"
+hfsc
+HFSC: truncated realtime option
+HFSC: truncated linkshare option
+HFSC: truncated upperlimit option
+HFSC: umax given but dmax is zero.
+HFSC: Service Curve has two zero slopes
+Usage: ... hfsc [ [ rt SC ] [ ls SC ] | [ sc SC ] ] [ ul SC ]
+SC := [ [ m1 BPS ] d SEC ] m2 BPS
+ m1 : slope of first segment
+ d  : x-coordinate of intersection
+ m2 : slope of second segment
+Alternative format:
+SC := [ [ umax BYTE ] dmax SEC ] rate BPS
+ umax : maximum unit of work
+ dmax : maximum delay
+ rate : rate
+Remarks:
+ - at least one of 'rt', 'ls' or 'sc' must be specified
+ - 'ul' can only be specified with 'ls' or 'sc'
+HFSC: Upper-limit Service Curve without Link-Share Service Curve
+Usage: ... hfsc [ default CLASSID ]
+ default: default class for unclassified packets
+ tokens: %d ctokens: %d
+prio %d 
+quantum %d 
+overhead %u 
+ceil %s 
+level %d 
+cburst %s 
+buffer [%08x] cbuffer [%08x] 
+ ver %d.%d
+ direct_qlen %u
+debug
+direct_qlen
+"rate" is required.
+cburst
+cbuffer
+cmaxburst
+ceil
+Double "ceil" spec
+Usage: ... qdisc add ... htb [default N] [r2q N]
+                      [direct_qlen P]
+ default  minor id of class to which unclassified packets are sent {0}
+ r2q      DRR quantums are computed as rate in Bps/r2q {10}
+ debug    string of 16 numbers each 0-3 {0}
+ direct_qlen  Limit of the direct queue {in packets}
+... class add ... htb rate R1 [burst B1] [mpu B] [overhead O]
+                      [prio P] [slot S] [pslot PS]
+                      [ceil R2] [cburst B2] [mtu MTU] [quantum Q]
+ rate     rate allocated to this class (class can still borrow)
+ burst    max bytes burst which can be accumulated during idle period {computed}
+ mpu      minimum packet size used in rate computations
+ overhead per-packet size overhead used in rate computations
+ linklay  adapting to a linklayer e.g. atm
+ ceil     definite upper class rate (no borrows) {rate}
+ cburst   burst but for ceil {computed}
+ mtu      max packet size we create rate map for {1600}
+ prio     priority of leaf; lower are served first {0}
+ quantum  how much bytes to serve from leaf at once {use r2q}
+TC HTB version %d.%d
+ lended: %u borrowed: %u giants: %u
+burst %s/%u mpu %s overhead %s 
+cburst %s/%u mpu %s overhead %s 
+r2q %d default %x direct_packets_stat %u
+htb: failed to calculate rate table.
+htb: failed to calculate ceil rate table.
+ deficit %s 
+Illegal "quantum"
+Usage: ... drr quantum SIZE
+Usage: ... drr
+maxpkt %u 
+maxpkt
+Usage: ... qfq
+Usage: ... qfq weight NUMBER maxpkt BYTES
+Usage: ... gact <ACTION> [RAND] [INDEX]
+Where: 	ACTION := reclassify | drop | continue | pass 
+	RAND := random <RANDTYPE> <ACTION> <VAL>
+	RANDTYPE := netrand | determ
+	VAL : = value not exceeding 10000
+	INDEX := index value used
+Illegal probability val  0x%x
+netrand
+determ
+[NULL gact parameters]
+gact action %s
+	 random type %s %s val %d
+	 index %d ref %d bind %d
+bad action type %s
+Illegal "random type"
+Illegal probability val 0x%x
+[NULL mirred parameters]
+Cannot find device %d
+mirred (%s to device %s) %s
+	index %d ref %d bind %d
+mirred bad argument count %d
+mirred
+mirred bad argument %s
+egress
+was expecting egress (%s)
+mirror
+redirect
+mirred: Illegal double index
+mirred: Illegal "index"
+where: 
+Egress Redirect
+Egress Mirror
+Ingress Redirect
+Ingress Mirror
+Can't have both mirror and redir
+mirred ingress not supported at the moment
+Usage: mirred <DIRECTION> <ACTION> [index INDEX] <dev DEVICENAME> 
+	DIRECTION := <ingress | egress>
+	ACTION := <mirror | redirect>
+	INDEX  is the specific policy instance id
+	DEVICENAME is the devicename 
+mirred option not supported %s
+[NULL nat parameters]
+ nat %s %s/%d %s %s
+Nat: Illegal "index"
+Illegal nat construct (%s) 
+Usage: ... nat NAT
+NAT := DIRECTION OLD NEW
+DIRECTION := { ingress | egress }
+OLD := PREFIX
+NEW := ADDRESS
+Usage: ... pedit munge <MUNGE>
+Where: MUNGE := <RAW>|<LAYERED>
+	<RAW>:= <OFFSETC>[ATC]<CMD>
+ 		OFFSETC:= offset <offval> <u8|u16|u32>
+ 		ATC:= at <atval> offmask <maskval> shift <shiftval>
+ 		NOTE: offval is byte offset, must be multiple of 4
+ 		NOTE: maskval is a 32 bit hex number
+ 		NOTE: shiftval is a is a shift value
+ 		CMD:= clear | invert | set <setval>| retain
+ 	<LAYERED>:= ip <ipdata> | ip6 <ip6data> 
+  		| udp <udpdata> | tcp <tcpdata> | icmp <icmpdata> 
+For Example usage look at the examples directory
+Unknown action  hence option "%s" is unparsable
+pedit %x keys %d is not LEGIT
+offsets MUST be in 32 bit boundaries
+pack_key32: 32 bit offsets must begin in 32bit boundaries
+pack_key16 bad index value %d
+pack_key8 bad value (val %x mask %x
+Illegal pedit construct (%s) 
+[NULL pedit parameters]
+ pedit action %s keys %d
+	 key #%d
+  at %d: val %08x mask %08x
+pack_key16 bad value
+preserve
+clear
+retain
+pedit
+munge
+p_%s.so
+p_pedit_%s
+bad pedit parsing
+Pedit: Illegal "index"
+[NULL skbedit parameters]
+ skbedit
+ queue_mapping %u
+ priority %s
+ mark %d
+queue_mapping
+Illegal queue_mapping
+Illegal priority
+Illegal mark
+Usage: ... skbedit <[QM] [PM] [MM]>
+QM = queue_mapping QUEUE_MAPPING
+PM = priority PRIORITY 
+MM = mark MARK 
+QUEUE_MAPPING = device transmit queue to use
+PRIORITY = classID to assign to priority field
+MARK = firewall mark to set
+, icmp
+, igmp
+, tcp
+, udp
+, udplite
+?empty
+[NULL csum parameters]
+csum
+ip4h
+ipv4h
+Illegal "index" (%s) <csum>
+csum (%s%s%s%s%s%s) action %s
+Usage: ... csum <UPDATE>
+Where: UPDATE := <TARGET> [<UPDATE>]
+       TARGET := { ip4h | icmp | igmp | tcp | udp | udplite | <SWEETS> }
+       SWEETS := { and | or | '+' }
+Illegal csum construct, empty <UPDATE> list
+[NULL simple parameters]
+[missing simple string]
+Simple <%s>
+simple
+simple: Illegal "index"
+Usage: ... simple STRING
+STRING being an arbitrary string
+example: "simple blah"
+simple: Illegal string len %zu <%s> 
+Usage: vlan pop
+[NULL vlan parameters]
+ vlan
+ pop
+ push
+ id %u
+ protocol %s
+"%s" is only valid for push
+id is invalid
+protocol is invalid
+vlan: Illegal "index"
+id needs to be set for push
+protocol not supported
+       vlan push [ protocol VLANPROTO ] id VLANID
+       VLANPROTO is one of 802.1Q or 802.1AD
+            with default: 802.1Q
+unexpected "%s" - action already specified
+Usage: ... connmark [ZONE] [BRANCH] [index <INDEX>]
+where :
+	ZONE is the conntrack zone
+	BRANCH := reclassify|pipe|drop|continue|ok
+[NULL connmark parameters]
+ connmark zone %d
+connmark
+zone
+[NULL bpf parameters]
+bpf 
+default-action %s
+action (default '%s').
+unexpected "%s"
+bpf: Illegal "index"
+Usage: ... bpf ... [ index INDEX ]
+ object-file FILE [ section ACT_NAME ] [ export UDS_FILE ]
+Where ACT_NAME refers to the section name containing the
+Where optionally INDEX points to an existing action, or
+explicitly specifies an action index upon creation.
+Usage: nbyte(NEEDLE at OFFSET [layer LAYER])
+where: NEEDLE := { string | "c-escape-sequence" }
+       OFFSET := int
+       LAYER  := { link | network | transport | 0..%d }
+Example: nbyte("ababa" at 12 layer 1)
+nbyte: invalid offset, must be numeric
+nbyte: illegal layer, must be in 0..%d
+NByte header size mismatch
+NByte payload size mismatch
+" at %d layer %d
+nbyte: missing arguments
+nbyte: needle length is 0
+nbyte: offset required
+nbyte: missing argument
+nbyte: invalid layer
+nbyte: unknown parameter
+Usage: cmp(ALIGN at OFFSET [ ATTRS ] { eq | lt | gt } VALUE)
+where: ALIGN  := { u8 | u16 | u32 }
+       ATTRS  := [ layer LAYER ] [ mask MASK ] [ trans ]
+       LAYER  := { link | network | transport | 0..%d }
+Example: cmp(u16 at 3 layer 2 mask 0xff00 gt 20)
+cmp: offset and value required
+cmp: invalid offset, must be numeric
+cmp: illegal layer, must be in 0..%d
+CMP header size mismatch
+u16 
+u32 
+at %d layer %d 
+mask 0x%x 
+trans 
+cmp: missing arguments
+cmp: invalid alignment
+cmp: missing argument
+cmp: invalid layer
+cmp: invalid mask
+cmp: invalid value
+Usage: u32(ALIGN VALUE MASK at [ nexthdr+ ] OFFSET)
+where: ALIGN  := { u8 | u16 | u32 }
+Example: u32(u16 0x1122 0xffff at nexthdr+4)
+u32: invalid key, must be numeric
+u32: invalid mask, must be numeric
+u32: invalid offset alignment, must be aligned to 4.
+U32 header size mismatch
+u32: missing arguments
+u32: invalid alignment
+u32: missing key
+u32: missing mask
+u32: missing "at"
+u32: missing offset
+u32: invalid offset
+u32: unexpected trailer
+Illegal key (>0xFF)
+Illegal mask (>0xFF)
+Illegal key (>0xFFFF)
+Illegal mask (>0xFFFF)
+Usage: canid(IDLIST)
+where: IDLIST := IDSPEC [ IDLIST ]
+       IDSPEC := { 
+ CANID | 
+ CANID }
+       CANID := ID[:MASK]
+       ID, MASK := hexadecimal number (i.e. 0x123)
+Example: canid(sff 0x123 sff 0x124 sff 0x125:0xf)
+canid: Improperly formed CAN ID & mask
+canid: Too many arguments on input
+eff 0x%X
+eff 0x%X:0x%X
+sff 0x%X
+sff 0x%X:0x%X
+canid: missing arguments
+canid: invalid key
+canid: missing argument
+Usage: meta(OBJECT { eq | lt | gt } OBJECT)
+where: OBJECT  := { META_ID | VALUE }
+       META_ID := id [ shift SHIFT ] [ mask MASK ]
+Example: meta(nf_mark gt 24)
+         meta(indev shift 1 eq "ppp")
+         meta(tcindex mask 0xf0 eq 0xf0)
+For a list of meta identifiers, use meta(list).
+meta int type value TLV size mismatch.
+meta int type mask TLV size mismatch
+--------------------------------------------------------
+  ID               Type       Description
+--------------------------------------------------------
+BUG: Unknown map character '%c'
+--------------------------------------------------------
+meta: invalid shift, must be numeric
+meta: invalid mask, must be numeric
+lvalue and rvalue are not compatible.
+Load average in last 5 minutes
+Load average in last 15 minutes
+Packet type (uni|multi|broad|...)cast
+Missing value TLV
+ shift %d
+ mask 0x%08x
+[unknown meta id %d]
+Missing meta header
+Meta header size mismatch
+ eq 
+ lt 
+ gt 
+meta: missing arguments
+  %-16s 
+%-10s %s
+meta: unknown meta id
+meta: missing argument
+meta: invalid operand
+meta: missing rvalue
+meta: unexpected trailer
+meta: missing operand
+Generic
+Random value (32 bit)
+loadavg_1
+Load average in last minute
+loadavg_5
+loadavg_15
+Interfaces
+Device the packet is on
+Packet attributes
+Priority of packet
+Link layer protocol
+pkt_type
+pkt_len
+Length of packet
+data_len
+Length of data in packet
+mac_len
+Length of link layer header
+Netfilter
+Netfilter mark
+fwmark
+Alias for nf_mark
+Traffic Control
+TC Index
+Routing
+rt_classid
+Routing ClassID (cls_route)
+rt_iif
+Incoming interface index
+Vlan tag
+Sockets
+sk_family
+Address family
+sk_state
+State
+sk_reuse
+Reuse Flag
+sk_bind_if
+Bound interface
+sk_refcnt
+Reference counter
+sk_shutdown
+Shutdown mask
+sk_proto
+Protocol
+sk_type
+Type
+sk_rcvbuf
+Receive buffer size
+sk_rmem
+RMEM
+sk_wmem
+WMEM
+sk_omem
+OMEM
+sk_wmem_queue
+WMEM queue
+sk_snd_queue
+Send queue length
+sk_rcv_queue
+Receive queue length
+sk_err_queue
+Error queue length
+sk_fwd_alloc
+Forward allocations
+sk_sndbuf
+Send buffer size
+num_tc
+Illegal "num_tc"
+queues
+Illegal "hw"
+[hw 1|0]
+Unknown argument
+ tc %u map 
+             queues:
+(%u:%u) 
+mqprio
+Usage: ... mqprio [num_tc NUMBER] [map P0 P1 ...]
+                  [queues count1@offset1 count2@offset2 ...] 
+Usage: ... codel [ limit PACKETS ] [ target TIME]
+                 [ interval TIME ] [ ecn | noecn ]
+                 [ ce_threshold TIME ]
+  count %u lastcount %u ldelay %s
+  maxpacket %u ecn_mark %u drop_overlimit %u
+target %s 
+ce_threshold %s 
+interval %s 
+ce_threshold
+Illegal "ce_threshold"
+Illegal "interval"
+noecn
+ dropping
+ drop_next -%s
+ drop_next %s
+ ce_mark %u
+Usage: ... fq_codel [ limit PACKETS ] [ flows NUMBER ]
+                    [ target TIME] [ interval TIME ]
+                    [ quantum BYTES ] [ [no]ecn ]
+                    [ ce_threshold TIME ]
+  maxpacket %u drop_overlimit %u new_flow_count %u ecn_mark %u
+  new_flows_len %u old_flows_len %u
+  deficit %d count %u lastcount %u ldelay %s
+flows %u 
+fq_codel
+Usage: ... fq [ limit PACKETS ] [ flow_limit PACKETS ]
+              [ quantum BYTES ] [ initial_quantum BYTES ]
+              [ maxrate RATE  ] [ buckets NUMBER ]
+              [ [no]pacing ] [ refill_delay TIME ]
+              [ orphan_mask MASK]
+  %u flows (%u inactive, %u throttled)
+  %llu too long pkts, %llu alloc errors
+, next packet delay %llu ns
+  %llu gc, %llu highprio
+, %llu retrans
+, %llu throttled
+, %llu flows_plimit
+flow_limit %up 
+buckets %u 
+orphan_mask %u 
+nopacing 
+initial_quantum %u 
+maxrate %s 
+defrate %s 
+refill_delay %s 
+flow_limit
+Illegal "flow_limit"
+buckets
+Illegal "buckets"
+maxrate
+Illegal "maxrate"
+defrate
+Illegal "defrate"
+initial_quantum
+Illegal "initial_quantum"
+orphan_mask
+refill_delay
+Illegal "refill_delay"
+nopacing
+Usage: ... pie [ limit PACKETS ][ target TIME us]
+              [ tupdate TIME us][ alpha ALPHA ]
+[beta BETA ][bytemode | nobytemode][ecn | noecn ]
+prob %f delay %uus avg_dq_rate %u
+pkts_in %u overlimit %u dropped %u maxq %u ecn_mark %u
+tupdate %s 
+alpha %u 
+beta %u 
+bytemode 
+tupdate
+Illegal "tupdate"
+alpha
+beta
+nobytemode
+Illegal "alpha"
+Illegal "beta"
+Usage: ... hhf [ limit PACKETS ] [ quantum BYTES]
+               [ hh_limit NUMBER ]
+               [ reset_timeout TIME ]
+               [ admit_bytes BYTES ]
+               [ evict_timeout TIME ]
+               [ non_hh_weight NUMBER ]
+  drop_overlimit %u hh_overlimit %u tot_hh %u cur_hh %u
+hh_limit %u 
+reset_timeout %s 
+admit_bytes %u 
+evict_timeout %s 
+non_hh_weight %u 
+hh_limit
+Illegal "hh_limit"
+reset_timeout
+Illegal "reset_timeout"
+admit_bytes
+Illegal "admit_bytes"
+evict_timeout
+Illegal "evict_timeout"
+non_hh_weight
+Illegal "non_hh_weight"
+Usage: ... bpf [ import UDS_FILE ] [ run CMD ]
+Where UDS_FILE provides the name of a unix domain socket file
+to import eBPF maps and the optional CMD denotes the command
+to be executed (default: '%s').
+bpf: No import parameter provided!
+/bin/sh
+import
+bpf: Could not receive fds!
+Usage: ipset(SETNAME FLAGS)
+where: SETNAME:= string
+       FLAGS  := { FLAG[,FLAGS] }
+       FLAG   := { src | dst }
+Example: 'ipset(bulk src,dst)'
+Problem when communicating with ipset
+Incorrect return size from kernel during ipset lookup, (want %zu, got %zu)
+xt_set_info struct size mismatch
+Set with index %i in kernel doesn't exist.
+ipset: set name too long (max %u)
+You must specify (the comma separated list of) 'src' or 'dst'
+Can't be more src/dst options than %u
+ipset: error parsing set flags
+Can't open socket to ipset.
+xt_set getsockopt
+ipset: missing set name
+ipset: missing set flags
+strdup
+ipset: unknown parameter
+ipset: unknown set name '%s'
+/proc/net/psched
+%08x%08x%08x
+tc_red_eval_ewma() burst %u is too small ? Try burst %u
+invalid mtu
+invalid mpu
+invalid overhead
+tsize
+invalid table size
+invalid linklayer
+overhead %d 
+mpu %u 
+mtu %u 
+tsize %u 
+Usage: ... stab [ mtu BYTES ] [ tsize SLOTS ] [ mpu BYTES ] 
+                [ overhead BYTES ] [ linklayer TYPE ] ...
+   mtu       : max packet size we create rate map for {2047}
+   tsize     : how many slots should size table have {512}
+   mpu       : minimum packet size used in rate computations
+   overhead  : per-packet size overhead used in rate computations
+   linklayer : adapting to a linklayer e.g. atm
+Example: ... stab overhead 20 linklayer atm
+if%d
+if%u
+Cannot open netlink socket
+SO_SNDBUF
+SO_RCVBUF
+Cannot bind netlink socket
+Cannot getsockname
+Wrong address length %d
+Wrong address family %d
+ERROR truncated
+EOF on netlink
+RTNETLINK answers
+Message truncated
+!!!Remnant of size %d
+Cannot talk to rtnetlink
+sender address length == %d
+Truncated message
+!!!malformed message: len=%d
+RTNETLINK answers: %s
+Unexpected reply!!!
+NETLINK_LISTEN_ALL_NSID
+Sender address length == %d
+rtnl_from_file: fread
+!!!Deficit %d, rta_len=%d
+netlink receive error %s (%d)
+Dump was interrupted and may be inconsistent.
+!!!malformed message: len=%d @%lu
+rtnl-from_file: truncated message
+addattr_l ERROR: message exceeded bound of %d
+addraw_l ERROR: message exceeded bound of %d
+rta_addattr32: Error! max allowed bound %d exceeded
+rta_addattr_l: Error! max allowed bound %d exceeded
+netns: %s
+PROC_NET_PSCHED
+PROC_ROOT
+%s/net/psched
+%*08x%*08x%08x%08x
+inet
+inet6
+dnet
+mpls
+bridge
+%Y-%m-%dT%H:%M:%S
+[%s.%06ld] 
+Timestamp: %s %ld usec
+Missing continuation line
+Out of memory
+Unterminated quoted string
+Timestamp: %s %lu us
+Error: an IP address is expected rather than "%s"
+Command line is not complete. Try option "help"
+Error: argument "%s" is required
+Error: argument "%s" is wrong: %s
+Error: duplicate "%s": "%s" is the second value.
+Error: either "%s" is duplicate, or "%s" is a garbage.
+Error: %s address is expected rather than "%s".
+Error: "%s" may be inet prefix, but it is not allowed in this context.
+Error: %s prefix is expected rather than "%s".
+Too many arguments to command
+0x%x %s
+0x%x %s #
+%d %s
+%d %s #
+nowhere
+host
+site
+/etc/iproute2/rt_scopes
+/etc/iproute2/rt_tables
+/etc/iproute2/rt_protos
+/etc/iproute2/rt_realms
+0x%02x
+/etc/iproute2/rt_dsfield
+/etc/iproute2/group
+/etc/iproute2/nl_protos
+rtnl
+unused
+usersock
+tcpdiag
+nflog
+xfrm
+selinux
+iscsi
+audit
+fiblookup
+connector
+ip6fw
+dec-rt
+uevent
+genl
+scsi-trans
+ecryptfs
+rdma
+crypto
+local
+main
+global
+kernel
+boot
+static
+gated
+zebra
+bird
+dnrouted
+xorp
+dhcp
+babel
+Database %s is corrupted at %s
+loop
+[%d]
+ieeepup
+ieeepupat
+dna_dl
+dna_rc
+dna_rt
+cust
+rarp
+atalk
+aarp
+ppp_disc
+ppp_ses
+atmmpoa
+atmfate
+802_3
+ax25
+snap
+ddcmp
+wan_ppp
+ppp_mp
+localtalk
+ppptalk
+tr_802_2
+mobitex
+control
+irda
+econet
+tipc
+802.1Q
+802.1ad
+alula
+LLDP
+:%02x
+"%s" is invalid lladdr.
+ipproto-%d
+/var/run/netns
+%s/%s
+unshare failed: %s
+/sys
+umount of /sys failed: %s
+sysfs
+/etc/netns
+/etc/%s
+Bind %s -> %s failed: %s
+Cannot open network namespace "%s": %s
+setting the network namespace "%s" failed: %s
+"mount --make-rslave /" failed: %s
+%x:%x %s
+%x:%x %s #
+;*3$"
+police
+rsvp6
+rsvp
+route
+basic
+flow
+cgroup
+flower
+tcindex
+gact
+mirred
+pedit
+skbedit
+csum
+simple
+vlan
+connmark
+icmp
+nbyte
+canid
+meta
+ipset
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.data.rel.ro
+.dynamic
+.got.plt
+.data
+.bss

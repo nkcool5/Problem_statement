@@ -1,0 +1,2050 @@
+/lib64/ld-linux-x86-64.so.2
+4Btu)
+libssl.so.1.0.0
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_deregisterTMCloneTable
+_ITM_registerTMCloneTable
+SSL_get_verify_result
+SSL_CTX_use_certificate_file
+SSL_write
+SSL_shutdown
+SSL_get_session
+SSL_CTX_use_certificate_chain_file
+SSL_CTX_new
+SSL_accept
+SSL_clear
+SSL_set_fd
+SSLv23_client_method
+SSL_read
+SSL_CTX_use_PrivateKey
+SSL_get_error
+SSL_get_peer_certificate
+SSL_load_error_strings
+SSL_pending
+SSL_connect
+SSL_library_init
+SSL_CTX_free
+SSL_CTX_ctrl
+SSL_CTX_set_default_verify_paths
+SSL_CTX_set_timeout
+SSL_CTX_use_PrivateKey_file
+SSL_CTX_set_cipher_list
+SSL_set_session
+SSL_get_verify_mode
+SSL_get1_session
+SSLv23_server_method
+SSL_CTX_set_verify
+SSL_new
+SSL_CTX_load_verify_locations
+SSL_CTX_use_certificate
+SSL_free
+SSL_ctrl
+libcrypto.so.1.0.0
+X509_free
+EVP_PKEY_free
+X509_gmtime_adj
+X509_NAME_get_text_by_NID
+X509_NAME_get_entry
+ERR_reason_error_string
+MD5_Final
+X509_NAME_get_index_by_NID
+X509_digest
+EVP_PKEY_new
+X509_NAME_ENTRY_get_data
+X509_set_version
+sk_num
+X509_new
+ASN1_STRING_data
+RAND_add
+X509_get_issuer_name
+RAND_status
+RAND_bytes
+X509_NAME_add_entry_by_txt
+ERR_load_crypto_strings
+X509_STORE_CTX_get_error
+X509V3_set_ctx
+RSA_check_key
+OPENSSL_add_all_algorithms_noconf
+X509V3_EXT_get
+RSA_free
+X509_NAME_print_ex_fp
+ASN1_item_d2i
+X509_get_subject_name
+ERR_error_string
+ERR_get_error
+sk_value
+X509_verify_cert_error_string
+EVP_sha1
+ASN1_STRING_length
+X509_set_issuer_name
+X509_get_ext_by_NID
+X509_get_ext
+MD5_Init
+ASN1_INTEGER_set
+X509V3_EXT_conf
+X509_get_serialNumber
+X509_set_pubkey
+X509_STORE_CTX_get_current_cert
+X509_add_ext
+X509_sign
+RSA_generate_key
+MD5_Update
+EVP_PKEY_assign
+libpcap.so.0.8
+pcap_get_selectable_fd
+pcap_setnonblock
+pcap_geterr
+pcap_freecode
+pcap_setfilter
+pcap_datalink
+pcap_next_ex
+pcap_close
+pcap_compile
+pcap_open_live
+liblua5.2.so.0
+luaL_loadfilex
+lua_type
+lua_pushcclosure
+luaL_newstate
+lua_remove
+lua_close
+lua_pcallk
+luaL_callmeta
+lua_gettop
+luaL_traceback
+lua_tolstring
+lua_pushlstring
+lua_insert
+luaL_openlibs
+libc.so.6
+epoll_create
+socket
+fflush
+__rawmemchr
+__printf_chk
+exit
+execl
+execv
+fopen
+gai_strerror
+optind
+strrchr
+tempnam
+pipe
+__strdup
+perror
+__isoc99_sscanf
+in6addr_any
+__fdelt_chk
+epoll_wait
+inet_ntop
+signal
+strncpy
+fork
+in6addr_loopback
+__stack_chk_fail
+unlink
+listen
+select
+realloc
+abort
+getpid
+strspn
+inet_pton
+__assert_fail
+strtod
+strtok
+strtol
+calloc
+strlen
+ungetc
+send
+getaddrinfo
+memset
+strstr
+__errno_location
+bind
+memcmp
+getnameinfo
+getsockopt
+dup2
+poll
+__fprintf_chk
+stdout
+fputc
+recv
+inet_addr
+fputs
+memcpy
+fclose
+__vsnprintf_chk
+setsockopt
+malloc
+strcasecmp
+getpeername
+__ctype_b_loc
+recvfrom
+optarg
+stderr
+__snprintf_chk
+readlink
+setrlimit
+getopt_long
+__strncat_chk
+strncasecmp
+gethostname
+fwrite
+gettimeofday
+epoll_ctl
+__memcpy_chk
+waitpid
+strchr
+getsockname
+sendto
+__vfprintf_chk
+sleep
+__ctype_tolower_loc
+freeaddrinfo
+__vasprintf_chk
+fcntl
+__sprintf_chk
+__xstat
+getrlimit
+access
+_IO_getc
+strcmp
+__asprintf_chk
+__libc_start_main
+setenv
+OPENSSL_1.0.0
+GLIBC_2.15
+GLIBC_2.14
+GLIBC_2.4
+GLIBC_2.3
+GLIBC_2.8
+GLIBC_2.7
+GLIBC_2.3.2
+GLIBC_2.3.4
+GLIBC_2.2.5
+LUA_5.2
+AWAV
+AUATUSH
+t$HH
+D$@L
+|$XH
+|$01
+D$ H
+t$0H9
+L$8H9L$(
+D$(H9D$8
+L$0H
+T$0H
+t$@H
+T$@1
+t$@H
+t$0H
+v-H)
+t$ H
+|$ H
+t$ H
+t$ H
+t$0H
+|$@H
+T$0H
+D$hH
+T$`H9
+s[H)
+[]A\A]A^A_
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AWAV
+AUATA
+USE1
+D$$H
+L$(H
+T$01
+L$41
+HcD$$
+izt+D
+[]A\A]A^A_
+L$(A
+L$(A
+t[ATUH
+[]A\
+AUATI
+D$81
+L$8dH3
+H[]A\A]
+AWAV
+AUATUSH
+[]A\A]A^A_
+P	Hc
+AVAU
+ATUSH
+[]A\A]A^
+ATUI
+um[L
+]A\E1
+[]A\
+5ky"
+ATUI
+ATUI
+5;v"
+Hct$
+|$ ZYH
+ []A\
+AUATI
+uuHcT$
+Hct$
+57t"
+[]A\A]
+Lcl$
+AUAT
+T$0H
+t$(H
+|$ I
+T$0H
+t$(H
+l$ HcT$01
+|$`H
+[]A\A]
+|$`H
+t$0H
+T$0H
+t$0H
+T$(H
+t$ H
+T$(H
+t$ H
+|$0H
+T$(H
+t$ H
+T$(H
+t$ H
+d$(H
+|$`H
+|$`H
+T$(H
+t$ H
+ATUSH
+D$(1
+5Wk"
+\$(dH3
+0[]A\
+=P{"
+5oy"
+=.h"
+=pw"
+5@w"
+=?g"
+5Sf"
+AYAZ
+AUATUSH
+D$X1
+t$@L
+\$XdH3
+h[]A\A]
+AWAVH
+AUATUSH
+l$P1
+D$(1
+[]A\A]A^A_
+L$ H
+L$ H
+AUATI
+[]A\A]
+AWAVE1
+AUATA
+([]A\A]A^A_
+AVAUI
+ATUI
+[]A\A]A^
+D$H1
+L$HdH3
+AWAVAUATE1
+ um<\u
+[]A\A]A^A_
+AWAVAUATI
+|$ L
+t$@H
+D$0A
+Hc|$0
+Hc|$0
+|$0I
+=`b"
+HcT$
+d$$Hc
+|$ 1
+AUATI
+[]A\A]
+[]A\A]
+AVAUATUSH
+[]A\A]A^
+5Q^"
+|$ A
+HcL$
+%xK"
+HcL$
+AWAV
+AUATUSH
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+D$pH
+D$xH
+Hc|$
+HcL$4H
+|$@H
+\$ H!\
+|$(H
+L$0H
+D$(H
+D$4E
+t$ L!4
+[]A\A]A^A_
+HcD$4
+$H9D$
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+D$pH
+D$xH
+Hc|$
+T$8H
+t$4H
+%bS"
+D$(H
+AWAV
+AUAT1
+USE1
+=!O"
+<$Hc
+D$@L
+\$@E
+~uE1
+D9t$@}
+[]A\A]A^A_
+t>Hc
+D$PH
+D$XH
+D$`H
+D$hH
+D$pH
+D$xH
+<$Hc
+HcT$
+5ZG"
+HcT$
+AUAT
+- 5"
+dH3<%(
+[]A\A]
+AWAV
+AUATA
+|$0H
+=9@"
+590"
+=-@"
+Hc5a@"
+51>"
+D;5G-"
+-q<"
+-^<"
+D;5q+"
+dH34%(
+[]A\A]A^A_
+539"
+={6"
+AWAV
+AUAT
+5!%"
+alula
+D$ H
+=q4"
+D$@L
+Pt,I
+D9|$@
+t$`D
+=A2"
+5f2"
+AVAUI
+ATUI
+]A\A]A^
+]A\A]A^
+=y0"
+=a""
+AWAVAUATUSH
+D$81
+D$(I
+t$0H
+L$0H
+T$ H
+t$ Ic
+L$8dH3
+H[]A\A]A^A_
+<$.u
+<$.t
+t$ Hc
+t$ H
+AVAUATUSH
+D$(1
+t$(dH34%(
+0[]A\A]A^
+AUATUSH
+[]A\A]
+5^+"
+5"+"
+=~)"
+d$@1
+ATUS
+[]A\
+[]A\
+VUUUUSH
+AUATI
+[]A\A]
+]A\A]
+[]A\A]
+t+S@
+ATUH
+[]A\
+	uEf.
+"t(H
+<"ts<\tg
+<\t/H
+ATUI
+;,u^H
+[]A\
+AVAU
+ATUI
+[]A\A]A^
+<$H9
+AVAUI
+ATUI
+[]A\A]A^
+AWAVAUATE1
+4$H;t$
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATI
+[]A\A]A^A_
+AVAUI
+ATUSH
+t:<%u
+[]A\A]A^
+AVAUI
+ATUSH
+]A\A]A^
+]A\A]A^
+<?vhH
+ATUSH
+ []A\
+t:USH
+AUATI
+[]A\A]
+AUATUSH
+[]A\A]
+AUATI
+[]A\A]
+ATUH
+H;D$
+ []A\
+H;D$
+AVAUATUI
+_ dH
+PAUI
+T$ H
+$u/H
+ []A\A]A^
+AUATUSH
+T$ H
+XZt	H
+([]A\A]
+AVAUI
+ATUI
+[]A\A]A^
+AWAVI
+AUATUSH
+D$(1
+T$ H
+T$ H
+L$(dH3
+8[]A\A]A^A_
+AVAUATUH
+]A\A]A^
+t$(H
+]A\A]A^
+ATUI
+<$H9
+[]A\
+D$81
+L$8dH3
+AWAVAUATE1
+D$x1
+t$(H
+t$0H
+|$(H
+t$xdH34%(
+[]A\A]A^A_
+t$0H
+D$PH
+D$XH
+D$`H
+D$hH
+D$pH
+t$0H
+t$0H
+|$8H
+T$HH
+D$HH
+l$@E1
+L9t$
+L9t$
+l$@K
+L9t$Hw
+AWAVAUATE1
+D$x1
+D$0I
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+D$pH
+t$ H
+D$8L
+t$ H
+t$xdH34%(
+[]A\A]A^A_
+t$ H
+D$8A
+t$ H
+t$ H
+Tacocat
+D$0L
+t$ H
+t$ H
+t$ H
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AUATUSH
+[]A\A]
+AUATI
+]A\A]
+AVAUI
+ATUI
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H)
+[]A\A]A^
+AVAUI
+l$HM
+[]A\A]A^
+D$DA9F
+ATUSH
+[]A\
+AWAVAUATA
+[]A\A]A^A_
+SHcW
+AUATUSH
+A;\$
+[]A\A]
+A;\$
+;0t;
+AWAVAUATUSH
+t!Ic
+[]A\A]A^A_
+[]A\A]A^A_
+AUATUSH
+[]A\A]
+AWAVI
+AUATI
+|$ L
+|$ H
+|$ H
+|$ H
+t$ H
+|$ H
+|$ H
+t$ H
+|$ L
+|$ H
+|$ H
+t$ H
+[]A\A]A^A_
+|$ L
+|$ L
+t$ H
+AVAUI
+]A\A]A^
+dH34%(
+|$ H
+D$81
+\$8dH3
+AWAVAUATUSH
+d$8H
+l$0H
+t$PL
+L$`1
+D$(H
+L$ H
+[]A\A]A^A_
+L$`L
+d$8H
+l$0H
+\$(H
+AWAVAUATUS1
+D$X1
+T$XdH3
+h[]A\A]A^A_
+|$ H
+D$ H
+AWAVI
+AUATD
+D$(1
+L$$A
+L$(dH3
+8[]A\A]A^A_
+L$$A
+AYAZ
+ATUS
+[]A\
+AWAVA
+AUATI
+T$PH
+$u	H
+}HH9
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUATUS
+AVATA
+Y[]A\A]A^
+AWAVAUATUSH
+AWAT1
+[]A\A]A^A_
+AWAVAUATUSH
+L$PL
+[]A\A]A^A_
+t$@L
+AVAW
+AWAVAUATUSH
+L$PL
+[]A\A]A^A_
+t$@L
+AVAW
+AWAVM
+AUATI
+t$xL
+AUAT
+L$pH
+8[]A\A]A^A_
+AUATM
+([]A\A]
+AWAVAUATUSH
+([]A\A]A^A_
+AVAUATUSH
+[]A\A]A^
+AWAVI
+AUATA
+D+T$
+T$(L
+D+T$
+[]A\A]A^A_
+t$ H
+|$HH
+|$PL
+Xt`1
+T$,L
+H;W@
+H;W(
+H;WX
+H;W8uwH
+H;WPu_H
+H;W u?H
+H;Opu8H
+H;Ohu
+AVAUATUI
+[]A\A]A^
+ATUSH
+[]A\A]
+[]A\A]
+s A)
+ATUH
+[]A\1
+[]A\
+xsHc
+[]A\
+AWAVI
+AUATA
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\
+[]A\
+AWAVL
+AUATUSH
+H;~8
+\$0H
+D$8H
+\$`H
+D$@H
+D$HH
+D$hH
+D$pH
+D$0H
+D$ H
+D$hH
+D$(M
+|$(I
+D$ L
+[]A\A]A^A_
+AUATL
+oxUSI
+[]A\A]
+AZA[
+AWAVAUATUSH
+ATAV1
+[]A\A]A^A_
+AUATI
+AUATI
+AUATI
+AUATI
+[]A\A]
+AVAUATUSH
+D$81
+t$ H
+T$0H
+t$(H
+tJH;i
+D$8dH3
+@[]A\A]A^
+D$8dH3
+@[]A\A]A^
+ATUSt>H
+[]A\
+AVAUE
+ATUM
+[]A\A]A^
+AVAUE
+ATUM
+=Wz!
+=Sz!
+[]A\A]A^
+AVAUM
+ATUI
+AVAU
+[]A\A]A^
+ATUI
+[]A\
+AWAVI
+AUATM
+=nw!
+=mw!
+[]A\A]A^A_
+AVAUM
+ATUM
+[]A\A]A^
+AWAVM
+AUATI
+D$ H
+dH34%(
+[]A\A]A^A_
+T$0A
+|$2L
+|$2Mc
+[]A\
+t~H;P
+AWAVI
+AUATI
+K(H)
+[]A\A]A^A_
+=ph!
+=oh!
+]A\A]A^
+AVAUATUS
+]A\A]A^
+t4H9
+]A\A]A^
+t!H;
+H9G0
+AVAUL
+ATUL
+g`SH
+D$(1
+D$(dH3
+[]A\A]A^
+AWAVM
+AUATE
+[]A\A]A^A_
+L$(H
+D$0H
+D$(0
+God A red nugget A fat egg under a dog
+D$,0
+D$@D
+=HU!
+=CU!
+AUATI
+=QT!
+=LT!
+D$@I
+AUAT
+=?S!
+=8S!
+T$@A
+=FR!
+=ER!
+=DQ!
+=?Q!
+AXAY
+ATUM
+=nP!
+=jP!
+[]A\
+ATUH
+D$81
+D$ H
+T$ H
+L$8dH3
+@[]A\
+%GS!
+[]A\
+[]A\
+[]A\
+[]A\
+AWAVAUATUSH
+D$(1
+t1L;}
+\$(dH3
+8[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+AVAUATUSH
+]A\A]A^
+AWAVAUATUSH
+=4>!
+=4>!
+[]A\A]A^A_
+dH34%(
+AWAVAUATUSH
+[]A\A]A^A_
+=>4!
+==4!
+AXAY
+AVAUATUS
+[]A\A]A^
+t+S@
+AWAVAUATA
+D$h1
+l$01
+D$0D
+D$PH
+|$hdH3<%(
+x[]A\A]A^A_
+t]<%u
+St*H
+AVAUI
+[]A\A]A^
+]A\A]A^
+AWAVI
+AUATI
+[]A\A]A^A_
+D$X1
+D$`H
+L$(H
+|$0H
+L$@H
+D$@(
+D$D0
+D$PL
+D$XdH3
+ATUI
+t@fD
+[]A\
+AVAUI
+ATUI
+[]A\A]A^
+K0H+
+k(H+-
+=p"!
+=o"!
+ATUI
+tmfD
+[]A\
+[]A\
+AUATI
+([]A\A]
+K0H+
+ H+-
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+tRAUATI
+[]A\A]
+AWAVAUATUSH
+A;D$
+]A\A]A^A_
+t;SH
+AWAVAUATUSH
+H9t$
+[]A\A]A^A_
+H;9H
+.v?9
+T$,L
+T$ L
+T$,M
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AWAVI
+AUATI
+([]A\A]A^A_
+AVAUI
+[]A\A]A^
+~AATUA
+[]A\
+ATUI
+[]A\
+[]A\
+[]A\
+rPw&f
+AWAV
+AUATA
+        f
+T$xH
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+        H
+|$0H
+D$0H
+D$8A
+D$@H
+D$PH
+D$XL
+|$iH
+D$`H
+D$xD
+D$4 
+D$0L
+D$8I
+D$@I
+D$HI
+D$PI
+D$XI
+D$`I
+D$hI
+D$pI
+D$xfA
+dH34%(
+[]A\A]A^A_
+D$8H
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+D$pH
+D$xf
+AUAT1
+[]A\A]
+tvHc
+AUATUSH
+xCua1
+[]A\A]
+AUATL
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+t$@I
+l$(L
+Lct$
+D$PA
+D$0I
+T$PM9
+:,ueM
+T$PM9
+ulH=
+wdH9
+[]A\A]A^A_
+l$(L
+|$01
+T$P1
+D$<H
+L$HH
+T$P1
+|$HM
+t$ H
+Hct$
+?O	\
+?K	t
+?I	|
+ ~\H
+T$ 1
+D$PH
+l$(H
+|$  
+|$  ~OH
+D$ H
+t$ L
+|$HH
+D$PH
+|$HH
+AWAVI
+AUATA
+ tBH
+[]A\A]A^A_
+ u!H
+AWAVA
+AUATL
+[]A\A]A^A_
+can't open %s: %s.
+error in hosts file %s.
+Invalid source port %d.
+version
+https://nmap.org/ncat
+7.01
+Version %s ( %s )
+proxy
+proxy-type
+proxy-auth
+nsock-engine
+test
+broker
+chat
+talk
+allow
+allowfile
+deny
+denyfile
+append-output
+sctp
+ssl-cert
+ssl-key
+ssl-verify
+ssl-trustfile
+ssl-ciphers
+lua-exec
+lua-exec-internal
+argc == 3
+assertion failed: %s
+Ncat
+%s %s ( %s )
+Unrecognised option.
+http
+socks4
+socks5
+Invalid proxy type "%s".
+0123456789
+. QUITTING.
+Invalid port number "%s".
+Unknown address family %d.
+/bin/sh
+0.0.0.0
+unixsock
+crlf
+sh-exec
+max-conns
+help
+delay
+listen
+hex-dump
+idle-timeout
+keep-open
+recv-only
+source-port
+source
+send-only
+no-shutdown
+telnet
+verbose
+wait
+nodns
+error in host specification "%s".
+46UCc:e:g:G:i:km:hp:d:lo:x:ts:uvw:n
+Only one of --exec, --sh-exec, and --lua-exec is allowed.
+Sorry, could not resolve source route hop "%s": %s.
+Sorry, you gave too many source route hops.
+Invalid source-route hop pointer %d.
+Invalid -d delay "%s" (must be greater than 0).
+Since April 2010, the default unit for -d is seconds, so your time of "%s" is %.1f minutes. Use "%sms" for %g milliseconds.
+Invalid -i timeout (must be greater than 0).
+Since April 2010, the default unit for -i is seconds, so your time of "%s" is %.1f minutes. Use "%sms" for %g milliseconds.
+Invalid -w timeout (must be greater than 0).
+Since April 2010, the default unit for -w is seconds, so your time of "%s" is %.1f minutes. Use "%sms" for %g milliseconds.
+You can't specify more than one --proxy.
+You can't specify more than one --proxy-type.
+You can't specify more than one --proxy-auth.
+Unknown or non-available engine: %s.
+The --ssl-trustfile option may be given only once.
+Usage: ncat [options] [hostname] [port]
+Options taking a time assume seconds. Append 'ms' for milliseconds,
+'s' for seconds, 'm' for minutes, or 'h' for hours (e.g. 500ms).
+  -4                         Use IPv4 only
+  -6                         Use IPv6 only
+  -U, --unixsock             Use Unix domain sockets only
+  -C, --crlf                 Use CRLF for EOL sequence
+  -c, --sh-exec <command>    Executes the given command via /bin/sh
+  -e, --exec <command>       Executes the given command
+      --lua-exec <filename>  Executes the given Lua script
+  -g hop1[,hop2,...]         Loose source routing hop points (8 max)
+  -G <n>                     Loose source routing hop pointer (4, 8, 12, ...)
+  -m, --max-conns <n>        Maximum <n> simultaneous connections
+  -h, --help                 Display this help screen
+  -d, --delay <time>         Wait between read/writes
+  -o, --output <filename>    Dump session data to a file
+  -x, --hex-dump <filename>  Dump session data as hex to a file
+  -i, --idle-timeout <time>  Idle read/write timeout
+  -p, --source-port port     Specify source port to use
+  -s, --source addr          Specify source address to use (doesn't affect -l)
+  -l, --listen               Bind and listen for incoming connections
+  -k, --keep-open            Accept multiple connections in listen mode
+  -n, --nodns                Do not resolve hostnames via DNS
+  -t, --telnet               Answer Telnet negotiations
+  -u, --udp                  Use UDP instead of default TCP
+      --sctp                 Use SCTP instead of default TCP
+  -v, --verbose              Set verbosity level (can be used several times)
+  -w, --wait <time>          Connect timeout
+      --append-output        Append rather than clobber specified output files
+      --send-only            Only send data, ignoring received; quit on EOF
+      --recv-only            Only receive data, never send anything
+      --allow                Allow only given hosts to connect to Ncat
+      --allowfile            A file of hosts allowed to connect to Ncat
+      --deny                 Deny given hosts from connecting to Ncat
+      --denyfile             A file of hosts denied from connecting to Ncat
+      --broker               Enable Ncat's connection brokering mode
+      --chat                 Start a simple Ncat chat server
+      --proxy <addr[:port]>  Specify address of host to proxy through
+      --proxy-type <type>    Specify proxy type ("http" or "socks4" or "socks5")
+      --proxy-auth <auth>    Authenticate with HTTP or SOCKS proxy server
+      --ssl                  Connect or listen with SSL
+      --ssl-cert             Specify SSL certificate file (PEM) for listening
+      --ssl-key              Specify SSL private key (PEM) for listening
+      --ssl-verify           Verify trust and domain name of certificates
+      --ssl-trustfile        PEM file containing trusted SSL certificates
+      --ssl-ciphers          Cipherlist containing SSL ciphers to use
+      --version              Display Ncat's version information and exit
+See the ncat(1) manpage for full options, descriptions and usage examples
+Try `--help' or man(1) ncat for more information, usage options and help.
+Proxy option not supported when using Unix domain sockets.
+SSL option not supported when using Unix domain sockets.
+Connection brokering not supported when using Unix domain sockets.
+Specifying source port when using Unix domain sockets doesn't make sense.
+Loose source routing not allowed when using Unix domain sockets.
+Could not resolve proxy "%s": %s.
+Did you specify the port number? It's required for IPv6.
+Invalid option combination: --proxy and -l.
+Proxy type (--proxy-type) specified without proxy address (--proxy).
+-l and -s are incompatible.  Specify the address and port to bind to like you would a host to connect to.
+Specifying source socket for other than DATAGRAM Unix domain sockets have no effect.
+Could not resolve source address "%s": %s.
+You have to specify path to a socket to connect to.
+You have to specify path to a socket to listen on.
+You must specify a host to connect to.
+Could not resolve hostname "%s": %s.
+Using Unix domain sockets and specifying port doesn't make sense.
+Got more than one port specification:
+UDP mode does not support SSL.
+UDP mode does not support the -k or --keep-open options, except with --exec or --sh-exec.
+UDP mode does not support connection brokering.
+If this feature is important to you, write dev@nmap.org with a
+description of how you intend to use it, as an aid to deciding how UDP
+connection brokering should work.
+Invalid option combination: --broker and -e.
+Invalid option combination: --telnet has no effect with --proxy-type.
+Warning: Maximum connections ignored, since it does not take effect without -k or --broker.
+/bin/sh is not executable, so `-c' won't work.
+Failed to resolve default IPv6 address: %s
+Failed to resolve default IPv4 address: %s.
+Invalid option combination: allow/deny with connect.
+Invalid option combination: `--max-conns' with connect.
+Invalid option combination: `--chat' with connect.
+Invalid option combination: `--keep-open' with connect.
+N@SSL connection to %s:%hu.
+cert != NULL
+fp == digest_buf
+SHA-1 fingerprint: %s
+Connected to %s.
+Connected to %s:%hu.
+Subject: 
+Issuer: 
+Proxy connection failed: %s.
+Connected to proxy %s:%hu
+0.0.0.1
+Proxy connection failed.
+Error: proxy request: %s.
+No authentication needed.
+A Santa lives evil at NASA
+Error: host name too long.
+connection succeeded.
+Error: Network unreachable.
+Error: Host unreachable.
+Error: Connection refused.
+Error: TTL expired.
+type == NSE_TYPE_WRITE
+status == NSE_STATUS_SUCCESS
+Failed to create stdin nsiod.
+type == NSE_TYPE_TIMER
+%s:%hu
+[%s]:%hu]
+type == NSE_TYPE_READ
+CONNECT %s HTTP/1.0
+Proxy-Authorization:
+ Basic %s
+Unknown authentication type.
+Reconnection header:
+Failed to create nsock_pool.
+Failed to create nsock_iod.
+ncat.
+Certificate verification failed (%s).
+Error: IPv6 addresses are not supported with Socks4.
+Error: host name is too long.
+Error: host name and username are too long.
+Error: sending proxy request: %s.
+Error: short response from proxy.
+Error: malformed first response from proxy.
+Error: got wrong server version in response.
+GSSAPI authentication method not supported.
+Doing username and password authentication.
+Error: proxy requested to do authentication, but no credentials were provided.
+Error: username and password are too long to fit into buffer.
+Error: empty username or password.
+Error: sending proxy authentication.
+Error: malformed proxy authentication response.
+Error: authentication failed.
+Error - can't choose any authentication method.
+Error: address information too large.
+Error: malformed second response from proxy.
+Error: general SOCKS server failure.
+Error: connection not allowed by ruleset.
+Error: Command not supported.
+Error: Address type not supported.
+Error: unassigned value in the reply.
+type == NSE_TYPE_CONNECT || type == NSE_TYPE_CONNECT_SSL
+Certificate verification error.
+Idle timeout expired (%d ms).
+Error sending proxy request: %s.
+Error reading proxy response Status-Line.
+Proxy returned status code %d.
+Error reading proxy response header.
+Borrow or rob
+Error parsing proxy response header.
+Error getting Proxy-Authenticate challenge.
+Proxy reconnection failed: %s.
+Error building Proxy-Authorization header.
+Using trusted CA certificates from %s.
+Could not load trusted certificates from %s.
+Not doing certificate verification.
+SSL_CTX_use_certificate_file(): %s.
+SSL_CTX_use_Privatekey_file(): %s.
+The --ssl-key and --ssl-cert options must be used together.
+Failed to set hostname on iod.
+Failed to create name for temporary DGRAM source Unix domain socket (tempnam).
+[%s] used as source DGRAM Unix domain socket.
+Sorry, -g can only currently be used with IPv4.
+%lu bytes sent, %lu bytes received in %.2f seconds.
+Deleting source DGRAM Unix domain socket. [%s]
+hostname != NULL
+ss != NULL
+sslen != NULL
+%.4x
+%02X 
+[%4.4s]   %-50.50s  %s
+fdn != NULL
+Error sending to fd %d: %s.
+getpeername failed: %s
+localhost
+NCAT_REMOTE_ADDR
+NCAT_REMOTE_PORT
+getnameinfo failed: %s
+getsockname failed: %s
+NCAT_LOCAL_ADDR
+NCAT_LOCAL_PORT
+NCAT_PROTO
+SCTP
+rc >= 0 && (size_t) rc < sizeof(portbuf)
+result->ai_addrlen > 0 && result->ai_addrlen <= (int) sizeof(struct sockaddr_storage)
+Executing with shell: %s
+Executing as lua script: %s
+Executing: %s
+Can't create child pipes: %s
+Error in fork: %s
+Error in fork: %s
+rc > 0
+/etc/ssl/certs/ca-certificates.crt
+Using system default trusted CA certificates and those in %s.
+Unable to load trusted CA certificates from %s: %s
+add_fdinfo() failed.
+nobody
+%s as <user%d>
+Error reading from stdin: %s
+EOF on stdin
+Closing connection.
+<user%d> 
+\%03o
+count <= INT_MAX
+/dev/null
+do_listen("%s"): %s
+do_listen: %s
+selecting, fdmax %d
+select returned %d fds ready
+Idle timeout expired (%d ms).
+Valid descriptor %d 
+Valid Connection from %d
+udp select'ing
+fd %d is ready
+fdi != NULL
+Error in accept: %s
+Connection from %s.
+Connection from %s:%hu.
+Unknown o.proto %d
+<announce> %s is connected as <user%d>.
+<announce> already connected: 
+getpeername for sd %d failed: %s.
+<announce> <user%d> is disconnected.
+Handling data from client %d.
+Error formatting chat message from fd %d
+stdin is closed, attempting to reserve STDIN_FILENO
+Couldn't reserve STDIN_FILENO
+Unable to open listening socket on %s: %s
+Unable to open any listening sockets.
+New connection denied: connection limit reached (%d)
+New connection denied: not allowed
+Broker connection count is %d
+Connection from a client on Unix domain socket.
+Connection from %s on file descriptor %d.
+HTTP/1.0 407 Proxy Authentication Required
+Proxy-Authenticate: Basic realm="Ncat"
+HTTP/1.0 405 Method Not Allowed
+Allow: CONNECT, GET, HEAD, POST
+HTTP/1.0 413 Request Entity Too Large
+HTTP/1.0 501 Not Implemented
+HTTP/1.0 504 Gateway Timeout
+HTTP/1.0 500 Internal Server Error
+Nonce is %d seconds old; rejecting.
+No port number in CONNECT URI.
+Error sending %lu leftover bytes: %s.
+Can't resolve name %s:%d: %s.
+POST request with no Content-Length.
+Error removing hop-by-hop headers.
+Received only %lu request body bytes (Content-Length was %lu).
+Error parsing response header.
+Proxy-Authenticate: %s
+RESPONSE:
+HTTP/1.0 200 OK
+HTTP/1.0 400 Bad Request
+HTTP/1.0 403 Forbidden
+Failed SSL connection: %s
+Error reading Request-Line.
+Request-Line: %s
+Error parsing Request-Line.
+HEAD
+POST
+Bad method: %s.
+Error reading header.
+Header:
+Error parsing header.
+CONNECT to %s:%hu.
+Can't resolve name "%s": %s.
+Can't connect to %s.
+Unknown scheme in URI: %s.
+Unknown port in URI.
+Proxy loop detected: %s:%d
+Host
+close
+Connection
+Status-Line: %s
+Error reading Status-Line.
+Error parsing Status-Line.
+Response header:
+accept
+forking handler for %d
+Wildcard name "%s" doesn't have at least two components after the wildcard; rejecting.
+Checking certificate DNS name "%s" against "%s".
+Certificate verification error: Connected to "%s", but certificate is for "%s".
+Failed to seed OpenSSL PRNG (RAND_status returned false).
+ALL:!ADH:!LOW:!EXP:!MD5:@STRENGTH
+Unable to set OpenSSL cipher list: %s
+Generating a temporary %d-bit RSA key. Use --ssl-key and --ssl-cert to use a permanent one.
+Automatically generated by Ncat. See https://nmap.org/ncat/.
+SSL_CTX_use_certificate(): %s.
+SSL_CTX_use_certificate_chain_file(): %s.
+ncat_ssl.c: Invoking ssl_handshake() with a NULL parameter is a serious bug. Please fix it.
+Failed SSL connection from %s: %s
+SSL_new(): %s.
+SSL_set_fd(): %s.
+%02X
+Do nine men interpret Nine men I nod
+p - strbuf <= len
+SSLv23_server_method(): %s.
+SSL_CTX_new(): %s.
+Error generating RSA key: %s
+commonName
+DNS:%s
+subjectAltName
+nsComment
+SSL_CTX_use_PrivateKey(): %s.
+ssl_gen_cert(): %s.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+0123456789abcdef
+()<>@,;:\"/[]?={} 	
+HTTP/
+Content-Length
+%s: %s
+ HTTP/1.0
+ HTTP/1.1
+%s %s
+%s %s%s
+%s %d %s
+Basic
+realm
+opaque
+algorithm
+auth-int
+Proxy-Authenticate
+username
+response
+cnonce
+Proxy-Authorization
+Keep-Alive
+Trailers
+Transfer-Encoding
+Upgrade
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+%s: 
+NCAT DEBUG: 
+NCAT TEST: 
+integer overflow %lu + %lu.
+integer overflow %lu * %lu.
+*offset <= *size
+bind to %s: %s.
+bind to %s:%hu: %s.
+Listening on %s
+Listening on %s:%hu
+LISTEN
+getaddrinfo returned oversized address (%lu > %lu)
+Failed to convert address to presentation format!  Error: %s.
+Invalid address family passed to inet_port().
+Unable to set IPV6 socket to bind only to IPV6
+Bad number of routes passed to buildsrcrte().
+Added fd %d to list, nfds %d, maxfd %d
+Program bug: Trying to remove fd from list with no fds.
+Program bug: fd (%d) not on list.
+Swapping fd[%d] (%d) with fd[%d] (%d)
+Removed fd %d from list, nfds %d, maxfd %d
+Initialized fdlist with %d maxfds
+calloc
+connect
+dup2
+read
+setsockopt
+signal
+socket
+strdup
+write
+%02x
+%lu.%06lu
+%s-%s
+%lu.%lu
+Digest realm=
+, nonce=
+, qop="auth"
+, stale=true
+%08x
+ Digest
+ username=
+, realm=
+, uri=
+, qop=auth
+, cnonce=
+, nc=%s
+, response=
+, opaque=
+Server secret not initialized for Digest authentication. Call http_digest_init_secret.
+(error object is not a string)
+__tostring
+(no error message)
+o.cmdexec != NULL
+Error loading the Lua script
+Error running the Lua script
+%s returned successfully.
+Socket trouble: %s
+nsock_connect.c
+Binding to %s (IOD #%li)
+current != NULL
+Unknown address family %d
+sslen <= sizeof(iod->peer)
+socklen > 0
+slen > 0
+Setting of SO_REUSEADDR failed (#%li): %s (%d)
+Bind to %s failed (IOD #%li): %s (%d)
+Setting of IP options failed (IOD #%li): %s (%d)
+Setting of SO_BINDTODEVICE failed (IOD #%li): %s (%d)
+Setting of SO_BROADCAST failed (IOD #%li): %s (%d)
+nsi->state == NSIOD_STATE_INITIAL || nsi->state == NSIOD_STATE_UNKNOWN
+UDP unconnected socket (IOD #%li)
+TCP connection request (EID %lu) redirected through proxy chain
+UNIX domain socket (STREAM) connection requested to %s (IOD #%li) EID %li
+UNIX domain socket (DGRAM) connection requested to %s (IOD #%li) EID %li
+TCP connection requested to %s:%hu (IOD #%li) EID %li
+SCTP association requested to %s:%hu (IOD #%li) EID %li
+SSL connection requested to %s:%hu/%s (IOD #%li) EID %li
+SSL reconnection requested (IOD #%li) EID %li
+UDP connection requested to %s:%hu (IOD #%li) EID %li
+nsock_iod_get_communication_info
+nsock_connect_udp
+nsock_connect_udp
+nsock_reconnect_ssl
+nsock_reconnect_ssl
+nsock_connect_ssl
+nsock_connect_ssl
+nsock_connect_sctp
+nsock_connect_sctp
+nsock_connect_tcp
+nsock_connect_tcp
+nsock_connect_unixsock_datagram
+nsock_connect_unixsock_datagram
+nsock_connect_unixsock_stream
+nsock_connect_unixsock_stream
+nsock_connect_internal
+nsock_connect_internal
+mksock_set_broadcast
+mksock_bind_device
+mksock_set_ipopts
+mksock_bind_addr
+nsock_make_socket
+nsock_setup_udp
+nsock_setup_udp
+Unknown event type (%d) for IOD #%lu
+nse->sslinfo.ssl_desire == SSL_ERROR_WANT_READ || nse->sslinfo.ssl_desire == SSL_ERROR_WANT_WRITE
+SSL_read() failed for reason %s on NSI %li
+Strange connect error from %s (%d): %s
+SSL_set_tlsext_host_name failed: %s
+Uh-oh: SSL_set_session() failed - please tell dev@nmap.org
+certificate verification error for EID %li: %s
+EID %li reconnecting with SSL_OP_NO_SSLv2
+Unknown status (%d) for nsock event #%lu
+nsock_loop() started (timeout=%dms). %d events pending
+nsock_loop() started (no timeout). %d events pending
+Processing event %lu (timeout in %ldms, done=%d)
+Processing events on IOD %lu (ev=%d)
+NSE #%lu: Adding event (timeout in %ldms)
+PCAP NSE #%lu: Adding event to READ_EVENTS
+PCAP NSE #%lu: Adding event to PCAP_READ_EVENTS
+Callback: %s %s %sfor EID %li [%s]
+Callback: %s %s for EID %li [%s] %s(%d bytes)%s
+Callback: %s %s %sfor EID %li 
+nsock_trace_handler_callback
+socket_count_readpcap_inc
+nsock_pool_add_event
+nsock_pool_add_event
+process_expired_events
+gh_list_remove
+process_iod_events
+process_iod_events
+process_event
+process_event
+nsock_loop
+socket_count_readpcap_dec
+do_actual_read
+do_actual_read
+handle_write_result
+update_events
+socket_count_write_inc
+socket_count_read_inc
+socket_count_dec_ssl_desire
+socket_count_write_dec
+socket_count_read_dec
+handle_connect_result
+handle_connect_result
+nsock_core.c
+clrmask == EV_NONE
+iod->readsd_count > 0
+iod->writesd_count > 0
+nse->iod->ssl != NULL
+iod->readsd_count >= 0
+iod->writesd_count >= 0
+peerlen <= sizeof(iod->peer)
+gh_list.h
+list->last == lnode
+list->first == lnode
+Unknown event type %d
+ms->sslctx != NULL
+SSL_new failed: %s
+SSL_set_fd failed: %s
+Unknown status (%d)
+SSL_clear failed: %s
+EID %li %s
+bytesleft > 0
+res == -1
+Unknown operation type (%d)
+iod->readpcapsd_count > 0
+PCAP iterating %lu
+Event has unknown type (%d)
+NSE #%lu: Sending event
+nsp == nsi->nsp
+nse->event_done
+nse->iod->sd >= 0
+iod->readpcapsd_count >= 0
+Unknown nsock event type (%d)
+[EOF]
+[%s (%d)] 
+Callback: %s %s %sfor EID %li
+Invalid nsock event type (%d)
+nsock_iod_new (IOD #%lu)
+nsock_iod.c
+nsock_iod_delete (IOD #%lu)
+nsockiod
+nsock_iod_delete called with argument NSOCK_PENDING_ERROR on a nsock_iod that has %d pending event(s) associated with it
+pending_response == NSOCK_PENDING_NOTIFY || pending_response == NSOCK_PENDING_SILENT
+Trying to delete NSI, but could not find %d of the purportedly pending events on that IOD.
+nsock_iod_delete: SSL shutdown failed (%s) on NSI %li
+nsock_iod_get_write_count
+nsock_iod_get_read_count
+nsock_iod_get_sd
+nsock_iod_set_ipoptions
+nsock_iod_set_localaddr
+nsock_iod_get_udata
+nsock_iod_set_udata
+nsock_iod_id
+nsock_iod_delete
+nsock_iod_delete
+nsock_iod_new2
+nsock_read.c
+Read request for %d lines from IOD #%li [%s] EID %li
+Read request for %d bytes from IOD #%li [%s] EID %li
+Read request from IOD #%li [%s] (timeout: %dms) EID %li
+nsock_read
+nsock_read
+nsock_readbytes
+nsock_readbytes
+nsock_readlines
+nsock_readlines
+nsock_timers.c
+Timer created - %dms from now.  EID %li
+nsock_timer_create
+nsock_timer_create
+Degas are we not drawn onward no In union drawn onward to new eras aged
+nsock_write.c
+sslen <= sizeof(nse->writeinfo.dest)
+Sendto request for %d bytes to IOD #%li EID %li [%s]%s
+Write request for %d bytes to IOD #%li EID %li [%s]%s
+nsock_printf
+nsock_printf
+nsock_write
+nsock_write
+nsock_sendto
+nsock_sendto
+RC4-SHA:RC4-MD5:NULL-SHA:EXP-DES-CBC-SHA:EXP-EDH-RSA-DES-CBC-SHA:EXP-RC4-MD5:NULL-MD5:EDH-RSA-DES-CBC-SHA:EXP-RC2-CBC-MD5:EDH-RSA-DES-CBC3-SHA:EXP-ADH-RC4-MD5:DHE-RSA-AES128-SHA:DHE-RSA-AES256-SHA:EXP-ADH-DES-CBC-SHA:ADH-AES256-SHA:ADH-DES-CBC-SHA:ADH-RC4-MD5:AES256-SHA:DES-CBC-SHA:DES-CBC3-SHA:ADH-DES-CBC3-SHA:AES128-SHA:ADH-AES128-SHA:eNULL:ALL
+OpenSSL failed to create a new SSL_CTX: %s
+%s: Failed to seed OpenSSL PRNG (RAND_status returned false).
+nsock_ssl.c
+nsi_ssl_post_connect_verify
+nsock_pool_ssl_init
+nsock_event.c
+type < NSE_TYPE_MAX
+iod != NULL
+timeout_msecs >= 0
+%s (IOD #NULL) (EID #%li)
+%s (IOD #%li) (EID #%li)
+PCAP removed %lu
+nsp->events_pending >= 0
+nse->iod->events_pending >= 0
+UNKNOWN!
+%s on event #%li (type %s)
+TIMEOUT
+CANCELLED
+KILL
+PROXY ERROR
+SSL-CONNECT
+READ-PCAP
+Eleele
+Bogus event type in update_first_events
+iod->state != NSIOD_STATE_DELETED
+NSE #%lu: Removing event from list
+Event #%li (type %s) cancelled
+Bogus event type in nsock_event_cancel
+event_delete
+event_new
+event_new
+get_new_event_id
+event_dispatch_and_delete
+gh_list_remove
+nevent_delete
+nevent_delete
+nsock_event_cancel
+nsock_event_cancel
+nsock_pool.c
+res > 7
+gh_list_remove
+nsock_pool_delete
+nsock_library_initialize
+peer unspecified
+This nsi already has pcap device opened
+PCAP requested on device '%s' with berkeley filter '%s' (promisc=%i snaplen=%i to_ms=%i) (IOD #%li)
+pcap_open_live(%s, %d, %d, %d) failed with error: %s
+Will wait %d seconds then retry.
+pcap_open_live(%s, %d, %d, %d) failed %d times.
+There are several possible reasons for this, depending on your operating system:
+LINUX: If you are getting Socket type not supported, try modprobe af_packet or recompile your kernel with PACKET enabled.
+*BSD:  If you are getting device not configured, you need to recompile your kernel with Berkeley Packet Filter support.If you are getting No such file or directory, try creating the device (eg cd /dev; MAKEDEV <device>; or use mknod).
+*WINDOWS:  Nmap only supports ethernet interfaces on Windows for most operations because Microsoft disabled raw sockets as of Windows XP SP2. Depending on the reason for this error, it is possible that the --unprivileged command-line argument will help.
+SOLARIS:  If you are trying to scan localhost and getting '/dev/lo0: No such file or directory', complain to Sun.  I don't think Solaris can support advanced localhost scans.  You can probably use "-PN -sT localhost" though.
+Can't open pcap! Are you root?
+Error compiling pcap filter: %s
+Failed to set the pcap filter: %s
+Cannot obtain datalink information: %s
+Failed to set pcap descriptor on device %s to nonblocking mode: %s
+Failed to set pcap descriptor on device %s to nonblocking state: %s
+PCAP created successfully on device '%s' (pcap_desc=%i bsd_hack=%i to_valid=%i l3_offset=%i) (IOD #%li)
+Pcap read request from IOD #%li  EID %li
+PCAP %s TEST (IOD #%li) (EID #%li)
+PCAP %s READ (IOD #%li) (EID #%li) size=%i
+pcap_next_ex() fatal error while reading from pcap: %s
+Unexpected return code from pcap_next_ex! (%d)
+nsock_pcap.c
+Too-large bpf filter argument
+Unknown datalink type %d.
+Beeb
+fs_length(&(nse->iobuf)) == 0
+nsock_iod_linktype
+do_actual_pcap_read
+do_actual_pcap_read
+nsock_pcap_read_packet
+nsock_pcap_read_packet
+nsock_pcap_set_filter
+nsock_pcap_try_open
+nsock_pcap_open
+No suitable IO engine found! (%s)
+epoll poll select
+Attempt to FD_ISSET fd %d, which is not less than FD_SETSIZE (%d). Try using a lower parallelism.
+Attempt to FD_SET fd %d, which is not less than FD_SETSIZE (%d). Try using a lower parallelism.
+Attempt to FD_CLR fd %d, which is not less than FD_SETSIZE (%d). Try using a lower parallelism.
+!IOD_PROPGET(iod, IOD_REGISTERED)
+engine_select.c
+nsp->engine_data != NULL
+msec_timeout >= -1
+wait for events
+combined_msecs == -1
+nsock_loop error %d: %s
+(ev_set & ev_clr) == 0
+select_destroy
+select_iod_register
+select_iod_modify
+gh_list_remove
+get_evmask
+select_loop
+select_loop
+engine_epoll.c
+einfo != NULL
+epoll
+IOD_PROPGET(iod, IOD_REGISTERED)
+Unable to update events for IOD #%lu: %s
+Unable to register IOD #%lu: %s
+epoll_destroy
+epoll_iod_register
+epoll_iod_modify
+gh_list_remove
+iterate_through_event_lists
+epoll_loop
+epoll_loop
+engine_poll.c
+sd < pinfo->capacity
+pinfo != NULL
+poll_destroy
+poll_iod_register
+poll_iod_modify
+gh_list_remove
+get_evmask
+poll_loop
+poll_loop
+Cannot initialize proxy node %s
+Invalid protocol in proxy specification string: %s
+Invalid call. Existing proxychain on this nsock_pool
+Forwarding event upstream: TCP connect %s (IOD #%li) EID %li
+nsock_proxy.c
+nsock_proxy_ev_dispatch
+forward_event
+nsock_pool_set_proxychain
+0123456789abcdef
+libnsock %s(): %s
+nsock_log.c
+Set log level to %s
+FULL DEBUG
+INFO
+Registered external logging function: %p
+nsock_set_loglevel
+nsock_set_log_function
+http://%s:%d
+nsock_proxy.h
+ctx->px_current
+CONNECT %s:%d HTTP/1.1
+200 OK
+proxy_http.c
+Invalid proxy state!
+http://
+Connection refused from proxy %s
+handle_state_tcp_connected
+proxy_ctx_node_next
+socks4://%s:%d
+proxy_socks4.c
+ss->ss_family == AF_INET
+socks4://
+Ignoring invalid socks4 reply from proxy %s
+handle_state_tcp_connected
+socks4_data_init
+proxy_ctx_node_next
+ffffff
+?gh_heap.c
+index <= heap->count
+*cur_ptr == hnode
+heap->count == heap->highwm
+heap->slots
+!gh_hnode_is_valid(hnode)
+cur_idx < count
+ch1->index == ch1_idx
+(*parent_ptr)->index == parent_idx
+hnode_down
+gh_heap_remove
+hnode_up
+gh_heap_push
+gh_heap_free
+heap_grow
+hnode_ptr
+nbase_str.c
+end >= start
+mkstr
+/proc/self/exe
+nbase_misc.c
+%04x
+buf != NULL
+%.3fKB
+%.3fMB
+format_bytecount
+sockaddr_storage_cmp
+')uB
+QUITTING!
+Tried to malloc negative amount of memory!!!
+Malloc Failed! Probably out of space.
+Tried to realloc negative amount of memory!!!
+Realloc Failed! Probably out of space.
+/dev/urandom
+/dev/arandom
+%0*lX 
+Add IPv4 %s/%ld to addrset.
+Add IPv6 %s/%ld to addrset.
+Error parsing netmask in "%s".
+Illegal netmask in "%s". Must be between 0 and 32.
+Add IPv4 range %s/%ld to addrset.
+Error resolving name "%s": %s
+Warning: no addresses found for %s.
+Illegal netmask in "%s". Must be between 0 and 128.
+ignoring address %s for %s. Family %d socktype %d protocol %d.
+Host specification starting with "%s" is too long.
+;*3$"
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss

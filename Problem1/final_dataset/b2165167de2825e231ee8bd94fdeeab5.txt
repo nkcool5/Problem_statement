@@ -1,0 +1,553 @@
+/lib64/ld-linux-x86-64.so.2
+libpipeline.so.1
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+pipeline_want_out
+pipeline_run
+pipeline_new
+pipeline_start
+pipeline_command_argstr
+pipeline_readline
+pipeline_free
+pipeline_new_command_args
+libc.so.6
+strcasestr
+__xpg_basename
+fflush
+strcpy
+readdir
+fopen
+strrchr
+regexec
+__strdup
+perror
+closedir
+nanosleep
+strncpy
+regfree
+__stack_chk_fail
+__lxstat
+unlink
+mkdir
+realloc
+_exit
+strtok
+strtol
+fgets
+calloc
+strlen
+openlog
+dirname
+glob
+strstr
+__errno_location
+read
+__syslog_chk
+__fprintf_chk
+ctime
+fputs
+fclose
+malloc
+__strndup
+__strncpy_chk
+opendir
+__ctype_b_loc
+getenv
+regcomp
+readlink
+rename
+strchr
+__vfprintf_chk
+__strcpy_chk
+__sprintf_chk
+__xstat
+access
+strcmp
+strerror
+__asprintf_chk
+__libc_start_main
+write
+globfree
+GLIBC_2.3
+GLIBC_2.8
+GLIBC_2.4
+GLIBC_2.3.4
+GLIBC_2.2.5
+AWAVAUATUSH
+D$(1
+-u -f
+t$HH
+t$(H
+t$8H
+L$0H
+|$(H
+|$(H
+|$ 1
+|$ 1
+[]A\A]A^A_
+|$ 1
+\$8H
+D$HH
+|$ H
+AZA[
+|$@E1
+=mx 
+t$81
+-,w 
+D$(H
+5Xu 
+=Gu 
+t$(H
+=dt 
+|$ 1
+D$(H
+5Ws 
+|$ 1
+UH- 
+tFATUI
+[]A\
+tBUSH
+ATUI
+[]A\
+AVAU
+ATUI
+[]A\A]A^
+t$8H
+T$@H
+L$HL
+D$PL
+L$Xt:
+)D$`
+)L$p
+D$(1
+D$(dH3
+=Dj 
+=(j 
+AWAV
+AUATI
+|$PE1
+[]A\A]A^A_
+AWAVAUATUSH
+=qg 
+[]A\A]A^A_
+|$@E1
+5*e 
+ATUH
+[]A\
+AWAVH
+AUAT
+t$ 1
+|$0H
+|$(H
+t$0H
+|$PE1
+|$PE1
+Ict$
+|$PH
+|$PE1
+Ict$
+|$PH
+|$PE1
+Ic4$A
+|$PH
+|$8E
+t$81
+[]A\A]A^A_
+[]A\A]A^A_
+|$8A
+t$81
+L$HH
+|$@A
+t$@H
+t$@H
+|$(H
+ATUH
+[]A\
+AUATI
+5pZ 
+[]A\A]
+5|U 
+|$@E1
+uQHcs
+uTHcs
+5`T 
+[]A\
+5<R 
+uDHcs
+uDHcs
+AWAVI
+AUATH
+[]A\A]A^A_
+AWAVAUATUSH
+D$h1
+L$ 1
+l$(I
+t\Mc
+D$(A
+-JK 
+D$hdH3
+x[]A\A]A^A_
+5qJ 
+L$ 1
+l$(I
+D$(A
+AWAV
+AUATE1
+[]A\A]A^A_
+HcT$
+AVAUI
+ATUSH
+\$ 8
+[]A\A]A^
+/run/usbH
+_modeswiH
+tch/currH
+ent_cfg
+=o> 
+D$x1
+D$xdH3
+[]A\
+D$x%
+dH34%(
+D$(1
+L$(dH3
+AUAT1
+5b: 
+5[9 
+[]A\A]
+%a8 
+[]A\A]
+AWAVA
+AUATL
+[]A\A]A^A_
+/run/usb_modeswitch/bind_list
+/var/log/usb_modeswitch.log
+USB_ModeSwitch log from %s
+ok:no_data
+ok:busdev
+no config file readable
+Use global config file: %s
+Tacocat
+ttyUSB
+%s/%s/type
+Interrupt
+Borrow or rob
+/sys%s
+/sys%s/device
+ Use path %s
+ttyUSB[0-9]+
+My name is %s
+usb[0-9]+/([0-9]+-[0-9]+)/
+[0-9]+\.([0-9]+)/%s
+^.*(%s[:/])[0-9]
+ ifRoot: %s
+/sys%s.%d
+Check my endpoints in %s
+--> I am an interrupt port
+ in ifDir %s ...
+Return empty name and exit
+gsmmodem
+%s%d
+%s/%s/driver/unbind
+Unbinding driver
+PATH
+modprobe
+Module loader is %s
+%s/new_id
+Try to load module "%s"
+Module is active already
+%s %s ff
+Error adding ID to driver
+No more fallbacks.
+vendor=0x%s
+product=0x%s
+-v usbserial
+Try to add ID to driver "%s"
+Fall back to "usbserial"
+Try to unload driver "%s"
+config: WaitBefore set to %d
+option
+/sys/bus/usb/drivers/%s
+Unable to open bind list file
+Found %s in bind_list
+No %s in bind_list
+%s dir exists: %s
+Could not read attribute
+SCSI
+%s/bInterfaceClass
+configPack.tar.gz
+/usr/share/usb_modeswitch
+-tzf
+%s/%s*
+Searching entries named: %s
+/etc/usb_modeswitch.d
+Error: glob error
+.dpkg
+.rpm
+match %s
+  match string: %s
+ device string: %s
+/run/usb_modeswitch
+-xzOf
+ Delay set to %d seconds
+/proc/sys/kernel/osrelease
+/lib/modules
+%s/%s/%s
+/sys/bus/usb/drivers/cdc_mbim
+%s/*.%d
+	%s: %s
+ Read attributes ...
+ All attributes matched
+linux
+android
+--symlink-name
+--switch-mode
+--switch-systemd
+--switch-upstart
+Started via systemd
+Started via upstart
+--switch
+No command given. Exit
+No data from udev. Exiting
+Raw args from udev: %s
+/sys/bus/usb/devices
+Use top device dir %s
+ Device is in install mode.
+Use interface %s
+  %s	%s
+----------------
+-g %s
+-b %s
+/proc/version
+%s:%s
+%s:#%s
+%s/product
+file name exists: %s
+file name not readable: %s
+device has changed; exiting.
+%s/host*
+%s/target*
+target
+%s/*
+%s/vendor
+%s/vendor
+ vendor	%s
+ model	%s
+ revision	%s
+/usr/sbin
+%s/usb_modeswitch
+2>/dev/null
+Model
+Revision
+! matched, now switching
+Delay time of %d seconds.
+-v %s -p %s
+Configuration=%d
+Command to be run:
+current_cfg
+%s:%d.0
+%s/idProduct
+0000
+%s/%s/driver
+link_list
+ driver binding failed
+%s/%s/ttyUSB*
+%s/avoid_reset_quirk
+Error opening quirk file
+ AVOID_RESET_QUIRK activated
+ Error setting the attribute
+ not present in this kernel
+All done, exit
+idVendor
+manufacturer
+bNumConfigurations
+bConfigurationValue
+devnum
+busnum
+model
+/etc/usb_modeswitch.conf
+/etc/sysconfig/usb_modeswitch
+/etc/default/usb_modeswitch
+Couldn't remove empty bind list file
+Couldn't open bind list for writing
+ok:([0-9a-f]{4}):([0-9a-f]{4})
+^DisableSwitching[[:space:]]*=[[:space:]]*([^[:space:]]+)
+^EnableLogging[[:space:]]*=[[:space:]]*([^[:space:]]+)
+^SetStorageDelay[[:space:]]*=[[:space:]]*([^[:space:]]+)
+ %s has interrupt transfer type
+usb_modeswitch called with --symlink-name
+ parameter: %s
+Couldn't read path for symlink name
+Could not find port name in path
+ %s. Abort
+Could not find device directory in path
+ %s. Aborting
+Could not find interface number in path
+ %s. Abort
+My port is %s, my interface is %d
+ devDir: %s
+ dev_top: %s
+ sysPath: %s
+Could not find interface root number in path
+ %s. Aborting
+--> I am not an interrupt port
+Degas are we not drawn onward no In union drawn onward to new eras aged
+Look for lower ports with interrupt endpoints
+--> found an interrupt interface below me
+--> No interrupt interface below me
+Return symlink name "%s" and exit
+Error while trying to unbind driver.
+Can't do anymore without module loader; get "modtools"!
+A Santa lives evil at NASA
+ Running "%s %s" gave an error: %d
+ Module was loaded successfully: %d
+ ID added to driver; check for new devices in /dev
+Couldn't open ID file for writing
+Try to load driver "usbserial" with device IDs
+ Running "%s usbserial" gave an error:
+ Driver was loaded successfully:
+usb_modeswitch: add device ID %s:%s to driver %s
+usb_modeswitch: please report the device ID to the Linux USB developers!
+ "%s" not found, check if kernel version is at least 2.6.27
+^DriverModule[[:space:]]*=[[:space:]]*[[:punct:]]?([[:alnum:]_]*)[[:punct:]]?
+^DriverIDPath[[:space:]]*=[[:space:]]*[[:punct:]]?([[:alnum:]_/:-]+)[[:punct:]]?
+^WaitBefore[[:space:]]*=[[:space:]]*([0-9]+)
+^TargetVendor[[:space:]]*=[[:space:]]*0x([[:alnum:]]+)[[:space:]]?$
+^TargetProduct[[:space:]]*=[[:space:]]*0x([[:alnum:]]+)[[:space:]]?$
+alula
+^TargetProductList[[:space:]]*=[[:space:]]*[[:punct:]]?([0-9a-fA-F,]+)[[:punct:]]?[[:space:]]?$
+^TargetClass[[:space:]]*=[[:space:]]*0x([[:alnum:]]+)[[:space:]]?$
+^Configuration[[:space:]]*=[[:space:]]*([0-9]+)
+^CheckSuccess[[:space:]]*=[[:space:]]*([0-9]+)
+^NoDriverLoading[[:space:]]*=[[:space:]]*(1|yes|true)[[:space:]]?$
+^NoMBIMCheck[[:space:]]*=[[:space:]]*([0-9]+)
+config: DriverModule set to %s
+config: DriverIDPath set to %s
+config: TargetClass set to %s
+config: TargetVendor set to %s
+config: TargetProduct set to %s
+config: Configuration set to %d
+config: CheckSuccess set to %d
+config: NoMBIMCheck set to %d
+config: NoDriverLoading is set to active
+/sys/bus/usb-serial/drivers/option1
+Driver module is "%s", ID path is %s
+Driver will not be handled by usb_modeswitch
+Warning: %s attribute %s not found.
+Warning: %s attribute "%s" not readable.
+Found packed config collection %s
+Searching overriding entries named: %s
+prepare_run_dir(): could not create %s: %s
+prepare_run_dir(): can't write to %s: %s
+Error renaming the old bind list file
+Use overriden config %s from collection %s
+usb_modeswitch: use overriden config %s from collection %s; make sure this is intended
+usb_modeswitch: please report any new or corrected settings; otherwise, check for outdated files
+Extract config %s from collection %s
+Could not open temporary config file for writing
+Could not determine or load a usable configuration file.
+Adjust delay for USB storage devices ...
+/sys/module/usb_storage/parameters/delay_use
+ Error: could not fully write new value
+ Current value is higher or equal to %d. Leave it alone
+Error: could not access delay_use attribute: %s
+kernel/drivers/net/usb/cdc_mbim.ko
+Do nine men interpret Nine men I nod
+Check success of mode switch for max. %d seconds ...
+ Wait for device file system (%d sec.) ...
+Beeb
+ Essential attributes are missing, continue wait ...
+ bConfigurationValue doesn't match the expected value. ('%d' != '%d')
+ Device class couldn't be matched with expected class. ('%s' != '%s')
+ idVendor doesn't match the expected value. ('%s' != '%s')
+ idProduct doesn't match the expected value. ('%s' != '%s')
+ idProduct has changed after generic mode-switch, assume success
+ Attributes are different but target values are unexpected:
+Invalid parameters for --symlink-name.
+Invalid arguments. This program should only be called via a udev rule.
+Too few arguments. This program should only be called via a udev rule.
+Error: no config database found in /usr/share or /etc. Exiting.
+Bus ID for device not given by udev.
+ Trying to determine it from kernel name (%s) ...
+No device number values given from udev! Exit.
+Could not determine top device dir from udev values! Exit.
+Top device directory not found (%s)! Exit.
+USB IDs not found in sysfs tree. Exiting.
+Check class of first interface ...
+ No access to interface 0. Exit
+----------------
+USB values from sysfs:
+Switching globally disabled. Exit.
+usb_modeswitch: switching disabled, no action for %s:%s
+bNumConfigurations is 1 - don't check for active configuration
+Aargh! Config file missing for $usb(idVendor):$usb(idProduct)! Exit.
+waiting for storage tree in sysfs
+sysfs device tree is gone; exiting.
+SCSI tree not found; you may want to check if this path/file exists:
+----------------
+SCSI values from sysfs:
+Waiting 2 secs. after SCSI device was added.
+(Vendor|Model|Revision) String: (.*?)
+SCSI values from usb_modeswitch:
+ wait is over, start mode switch.
+Device may have an MBIM configuration, check driver ...
+ driver for MBIM devices is available
+Find MBIM configuration number ...
+%s/usb_modeswitch -j -Q %s %s %s 2>&1
+/run/usb_modeswitch/current_cfg
+ No MBIM configuration found, switch to legacy modem mode
+ no MBIM driver found, switch to legacy modem mode
+God A red nugget A fat egg under a dog
+%s/usb_modeswitch %s -D -s 20 -c %s %s %s %s %s 2>&1
+Verbose debug output of usb_modeswitch and libusb follows
+(Note that some USB errors are expected in the process)
+--------------------------------
+(end of usb_modeswitch output)
+Aargh! Config file missing for %s! Exiting.
+Mode switching was successful, found %s:%s (%s: %s)
+usb_modeswitch: switched to %s:%s on %s/%s
+Target config not matching - current values are:
+Mode switching may have failed. Exit
+Device directory in sysfs is done! Something went wrong, abort.
+ No vendor-specific class found, skip driver check
+Libusb1 bug prevented device searching, and device ID not found afterwards.
+No vendor/product ID found or given, can't continue. Abort.
+Now check for bound driver ...
+ no driver has bound to interface 0 yet
+Device not in "bind_list" yet, bind it now
+ driver was bound to the device
+ driver has bound, device is known
+Doing no driver check or bind for this device
+Check for AVOID_RESET_QUIRK kernel attribute
+SCSI attributes not needed, move on.
+;*3$"
+aaed5c0aecc7b385beb27c9b191980bfad03cf.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.text
+.fini
+.rodata
+Eleele
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got
+.got.plt
+.data
+.bss
+.gnu_debuglink

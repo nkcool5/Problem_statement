@@ -1,0 +1,802 @@
+/lib64/ld-linux-x86-64.so.2
+libblkid.so.1
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+blkid_devno_to_wholedisk
+blkid_probe_lookup_value
+blkid_probe_enable_partitions
+blkid_new_probe_from_filename
+blkid_probe_set_partitions_flags
+blkid_probe_enable_superblocks
+blkid_do_safeprobe
+blkid_probe_set_superblocks_flags
+blkid_free_probe
+libmount.so.1
+mnt_new_iter
+mnt_table_set_cache
+mnt_init_debug
+mnt_unref_cache
+mnt_table_find_devno
+mnt_table_parse_mtab
+mnt_new_table
+mnt_table_next_fs
+mnt_new_cache
+mnt_table_set_iter
+mnt_table_set_parser_errcb
+mnt_free_iter
+mnt_fs_match_source
+mnt_table_find_srcpath
+mnt_fs_get_root
+mnt_unref_table
+mnt_fs_get_target
+mnt_table_parse_swaps
+libsmartcols.so.1
+scols_table_enable_raw
+scols_print_table
+scols_table_is_json
+scols_cmpstr_cells
+scols_line_get_cell
+scols_table_set_name
+scols_init_debug
+scols_cell_set_userdata
+scols_table_enable_ascii
+scols_line_refer_data
+scols_line_get_column_cell
+scols_table_is_export
+scols_table_enable_export
+scols_table_enable_noheadings
+scols_table_next_line
+Borrow or rob
+scols_new_table
+scols_table_new_line
+scols_new_iter
+scols_sort_table
+scols_column_set_cmpfunc
+scols_cell_get_userdata
+scols_table_is_raw
+scols_free_iter
+scols_table_enable_json
+scols_unref_table
+scols_table_new_column
+libudev.so.1
+udev_device_unref
+udev_new
+udev_unref
+udev_device_get_property_value
+udev_device_new_from_subsystem_sysname
+libc.so.6
+__printf_chk
+readdir
+setlocale
+fopen
+strncmp
+optind
+strrchr
+readlinkat
+__strdup
+dcgettext
+getpwuid
+closedir
+nanosleep
+getgrgid
+strncpy
+warnx
+vfscanf
+__stack_chk_fail
+mkdir
+realloc
+rewinddir
+_exit
+getpid
+strspn
+__assert_fail
+strtod
+strtol
+fgetc
+fgets
+calloc
+strlen
+localeconv
+warn
+strstr
+strcspn
+__errno_location
+read
+__fprintf_chk
+stdout
+fputc
+fputs
+lseek
+memcpy
+fclose
+__strtol_internal
+strtoul
+malloc
+umask
+fdopendir
+realpath
+setegid
+__openat_2
+__strndup
+getgid
+__ctype_b_loc
+getenv
+sscanf
+optarg
+stderr
+ioctl
+__snprintf_chk
+seteuid
+getuid
+readlink
+getegid
+getopt_long
+strncasecmp
+__fxstat
+geteuid
+__fpending
+strchr
+__vfprintf_chk
+program_invocation_short_name
+fdopen
+__ctype_tolower_loc
+__vasprintf_chk
+fcntl
+__xstat
+getdtablesize
+errx
+memmove
+uname
+mkostemp
+bindtextdomain
+access
+__fxstatat
+faccessat
+strcmp
+__asprintf_chk
+__libc_start_main
+dirfd
+ferror
+write
+basename
+__strtoul_internal
+free
+__progname
+__cxa_atexit
+_init
+_fini
+_edata
+__bss_start
+_end
+LIBUDEV_183
+BLKID_2.17
+BLKID_2.15
+SMARTCOLS_2.27
+SMARTCOLS_2.25
+GLIBC_2.14
+GLIBC_2.3
+GLIBC_2.8
+GLIBC_2.7
+GLIBC_2.4
+GLIBC_2.3.4
+GLIBC_2.2.5
+MOUNT_2.22
+MOUNT_2.24
+MOUNT_2.19
+AWAVAUATI
+D$ H
+dH3<%(
+[]A\A]A^A_
+D;%/
+\$p1
+UH- %a
+t;US
+ATUI
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+God A red nugget A fat egg under a dog
+)T$p
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AWAV
+AUATUSH
+t$ H
+u;E1
+[]A\A]A^A_
+]A\A]A^
+[]A\A]A^
+H;=^
+USHc
+ATUSH
+8 t;
+[]A\
+ tVH
+AUATI
+[]A\A]
+[]A\A]
+AUATUSH
+[]A\A]
+]A\A]
+ATUSH
+[]A\
+AWAVAUATI
+D$H1
+D$HdH3
+X[]A\A]A^A_
+D$(H
+L$(D
+D$ H
+D$ u,D
+T$ H
+T$ H
+D$ H
+t$(1
+T$(D
+L$(1
+T$(L
+l$(L
+|$(H
+|$(H
+D$ H
+t$(1
+T$(D
+D$ H
+AWAV
+AUATI
+Tacocat
+4$dH
+[]A\A]A^A_
+AVAUI
+[]A\A]A^
+AVAU
+ATUI
+D$(%
+|$8H
+[]A\A]A^
+|$8H
+H9D$8
+ATE1
+]A\A]A^
+[]A\A]A^
+T$`H
+ATUH
+[]A\
+ATUSH
+dH34%(
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+AVAUI
+ATUS
+[]A\A]A^
+tvH9
+sq<\u
+AWAVI
+AUATL
+USE1
+([]A\A]A^A_
+ATUStv
+ta<	t]H
+[]A\
+tqAUATE1
+$<\tL
+[]A\A]
+AWAVH
+AUATUSH
+t$(1
+D$ H
+t$ H
+T$ H
+|$(dH3<%(
+8[]A\A]A^A_
+|$ A
+d$ A
+<$0u
+L$ H
+T$ I
+VUUU
+Degas are we not drawn onward no In union drawn onward to new eras aged
+tsUSH
+AUATI
+T$0H
+L$8L
+D$@L
+L$HH
+X[]A\A]
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+$u9H
+AUAT%
+[]A\A]
+[]A\A]
+AUATUSH
+D$81
+gfffH
+SATA
+\$8dH3
+H[]A\A]
+AWAVE1
+AUATI
+taI9
+tPL9
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
++t+H
+AVAUI
+ATUI
+tbf.
+<,t]
+u5H9
+[]A\A]A^
+]A\A]A^
+AUATI
+<,tM
+u$H9
+x&I	E
+[]A\A]
+[]A\A]
+AVAUATUSH
+-t'1
+dH34%(
+[]A\A]A^
+AUATUSH
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUS1
+([]A\A]A^A_
+AUATI
+Eleele
+[]A\A]
+]A\A]
+ZYx;H
+dH34%(
+AUATI
+[]A\A]
+l$8H
+tISH
+AUATI
+dH34%(
+[]A\A]
+AUATI
+[]A\A]
+]A\A]
+[]A\A]
+AVAUI
+ATUI
+[]A\A]A^
+;/tZM
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+AWAVA
+AUAT1
+D9|$
+[]A\A]A^A_
+AWAVAUATI
+~NH)
+([]A\A]A^A_
+AWAVAUATUSH
+D$81
+L$8dH3
+H[]A\A]A^A_
+~NH)
+ATUI
+[]A\
+ATUI
+[]A\
+AVAUI
+ATU1
+/dev
+D$X%
+L;l$hu
+[]A\A]A^
+/sys/dev
+/blo
+AVAUATUSH
+/subsyst
+[]A\A]A^
+AWAVH
+AUATI
+[]A\A]A^A_
+AWAVAUATUSH
+l$P1
+[]A\A]A^A_
+ATUH
+D$81
+\$8dH3
+@[]A\
+AWAVAUATUSH
+dH34%(
+[]A\A]A^A_
+AUATI
+thAT
+ZYx0Hc
+[]A\A]
+D$ P
+D$$PD
+L$(1
+x3Hc
+D$ P
+D$$PD
+ATUSH
+[]A\
+ATU1
+[]A\
+dH34%(
+ATUI
+ []A\
+[]A\
+AUATA
+[]A\A]
+AWAVA
+AUATL
+%&P 
+-&P 
+[]A\A]A^A_
+%s: parse error: ignore entry at line %d.
+List information about block devices.
+ -a, --all            print all devices
+ -b, --bytes          print SIZE in bytes rather than in human readable format
+ -d, --nodeps         don't print slaves or holders
+ -D, --discard        print discard capabilities
+ -e, --exclude <list> exclude devices by major number (default: RAM disks)
+ -f, --fs             output info about filesystems
+ -i, --ascii          use ascii characters only
+ -I, --include <list> show only devices with specified major numbers
+ -J, --json           use JSON output format
+ -l, --list           use list format output
+ -m, --perms          output info about permissions
+ -n, --noheadings     don't print headings
+ -o, --output <list>  output columns
+ -O, --output-all     output all columns
+ -p, --paths          print complete device path
+ -P, --pairs          use key="value" output format
+ -r, --raw            use raw output format
+ -s, --inverse        inverse dependencies
+ -S, --scsi           output info about SCSI devices
+ -t, --topology       output info about topology
+ -x, --sort <column>  sort output by <column>
+ -h, --help     display this help and exit
+ -V, --version  output version information and exit
+Available columns (for --output):
+columns[num] < (int) ARRAY_SIZE(infos)
+too many columns specified, the limit is %zu columns
+setting context for %s [parent=%p, wholedisk=%p]
+%s: failed to initialize sysfs handler
+%s: npartitions=%d, nholders=%d, nslaves=%d
+%s: context successfully initialized
+probe whole-disk for partitions
+failed to open device directory in sysfs
+probe whole-disk for partitions -- done
+%s: checking for '%s' dependence
+%s: %s: dependence is partition
+%s: %s: dependence is whole-disk
+%s: failed to compose sysfs path
+%s: failed to get whole-disk device number
+%s: these options are mutually exclusive:
+the list of excluded devices is too large (limit is %d devices)
+the list of included devices is too large (limit is %d devices)
+failed to access sysfs directory: %s
+the sort column has to be among the output columns
+failed to initialize output table
+failed to initialize output column
+ARRAY_SIZE(excludes) > nexcludes
+ARRAY_SIZE(includes) > nincludes
+removable or hotplug device (usb, pcmcia, ...)
+internal parent kernel device name
+Host:Channel:Target:Lun for SCSI
+de-duplicated chain of subsystems
+Usage:
+ %s [options] [<device> ...]
+Options:
+ %11s  %s
+For more details see %s.
+lsblk(8)
+[%p]: 
+cannot allocate string
+cannot allocate %zu bytes
+lsblk
+%d: %s: %8s: 
+reset
+cannot duplicate string
+unknown column: %s
+misc-utils/lsblk.c
+num >= 0
+(size_t) num < ncolumns
+cxt->name
+/dev/%s
+write error
+%s: failed to get device path
+%s: filename=%s
+%s: unknown device name
+queue/discard_granularity
+zero size device -- ignore
+%s: failed to get dm name
+holders
+slaves
+non-scsi device -- ignore
+ID_FS_LABEL_ENC
+ID_PART_ENTRY_NAME
+ID_FS_TYPE
+ID_PART_ENTRY_TYPE
+ID_PART_ENTRY_UUID
+ID_PART_ENTRY_FLAGS
+ID_WWN
+ID_SERIAL_SHORT
+%s: found udev properties
+ID_FS_UUID_ENC
+%s: found blkid properties
+running
+part
+fcoe
+iscsi
+sata
+/dev/mapper/%s
+%3u:%-3u
+cxt->filename
+[SWAP]
+mountpoint: %s
+queue/read_ahead_kb
+removable
+queue/rotational
+queue/add_random
+device/model
+Do nine men interpret Nine men I nod
+device/rev
+device/vendor
+device/state
+dm/suspended
+alula
+alignment_offset
+queue/minimum_io_size
+queue/optimal_io_size
+queue/physical_block_size
+queue/logical_block_size
+queue/scheduler
+queue/nr_requests
+dm/uuid
+loop
+md/level
+device/type
+%d:%d:%d:%d
+symbolic_name
+ over 
+sas_device
+ieee1394_id
+proc_name
+ahci
+discard_alignment
+queue/discard_max_bytes
+queue/discard_zeroes_data
+queue/write_same_max_bytes
+wholedisk_cxt
+  checking %s
+%s: list dependencies
+%s/%s
+%s: checking for '%s' -- done
+%s: not a block device
+%s: failed to read link
+%s: failed to get sysfs name
+/usr/share/locale
+util-linux
+LSBLK_DEBUG
+failed to parse list '%s'
+%s from %s
+util-linux 2.27.1
+abdDe:fhJlnmo:OpPiI:rstVSx:
+/sys/dev/block
+blockdevices
+iterate on /sys/block
+ %s dentry
+FILTER
+exclude: maj=%d
+include: maj=%d
+iterate on /sys/block -- done
+ --%s
+ -%c
+A Santa lives evil at NASA
+nodeps
+discard
+help
+json
+output
+output-all
+perms
+noheadings
+list
+ascii
+inverse
+exclude
+include
+topology
+paths
+pairs
+sort
+version
+internal kernel device name
+MAJ:MIN
+major:minor device number
+FSTYPE
+filesystem type
+MOUNTPOINT
+where the device is mounted
+filesystem LABEL
+filesystem UUID
+PARTTYPE
+partition type UUID
+PARTLABEL
+partition LABEL
+PARTUUID
+partition UUID
+PARTFLAGS
+partition flags
+read-ahead of the device
+read-only device
+removable device
+HOTPLUG
+MODEL
+device identifier
+SERIAL
+disk serial number
+size of the device
+STATE
+state of the device
+OWNER
+user name
+GROUP
+group name
+MODE
+device node permissions
+ALIGNMENT
+MIN-IO
+minimum I/O size
+OPT-IO
+optimal I/O size
+PHY-SEC
+physical sector size
+LOG-SEC
+logical sector size
+ROTA
+rotational device
+SCHED
+I/O scheduler name
+RQ-SIZE
+request queue size
+device type
+DISC-ALN
+discard alignment offset
+DISC-GRAN
+discard granularity
+DISC-MAX
+discard max bytes
+DISC-ZERO
+discard zeroes data
+WSAME
+write same max bytes
+unique storage identifier
+RAND
+adds randomness
+PKNAME
+HCTL
+TRAN
+device transport type
+SUBSYSTEMS
+device revision
+VENDOR
+device vendor
+xreaddir
+list_deps
+get_device_mountpoint
+list_partitions
+is_maj_included
+is_maj_excluded
+get_device_path
+get_column_id
+333333
+333333
+tape
+printer
+processor
+worm
+scanner
+mo-disk
+changer
+comm
+raid
+enclosure
+no-lun
+/dm-
+/sys/block/%s/dm/name
+KMGTPEYZ
+kmgtpeyz
+%s: '%s'
+BKMGTPE
+%d%s%jd%s
+%d%s
+.Aqueue/
+/sys/dev/block/%d:%d/%s
+/sys/dev/block/%d:%d
+/dev/
+/sys/block/%s/%s/dev
+/sys/block/%s/dev
+%s/start
+%s/partition
+%1023[^
+LVM-
+%u:%u:%u:%u
+/sys/class/%s_host/host%d/%s
+/sys/class/%s_host/host%d
+ieee1394
+pcmcia
+/sys/bus/scsi/devices/%d:%d:%d:%d/%s
+/sys/bus/scsi/devices/%d:%d:%d:%d
+%d.%d.%d
+/tmp/
+TMPDIR
+%s/%s.XXXXXX
+;*3$"
+9cbfba155cc0223415f7a29a69631dca8b41f4.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+Beeb
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.data.rel.ro
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

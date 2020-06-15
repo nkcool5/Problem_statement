@@ -1,0 +1,2618 @@
+/lib64/ld-linux-x86-64.so.2
+libp11-kit.so.0
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+p11_kit_iter_destroy_object
+p11_kit_uri_new
+p11_kit_uri_get_token_info
+p11_kit_iter_free
+p11_kit_module_finalize
+p11_kit_iter_get_token
+p11_kit_iter_get_object
+p11_kit_iter_begin_with
+p11_kit_uri_any_unrecognized
+p11_kit_uri_parse
+p11_kit_iter_next
+p11_kit_module_get_name
+p11_kit_iter_get_session
+p11_kit_strerror
+p11_kit_module_release
+p11_kit_iter_new
+p11_kit_iter_begin
+p11_kit_uri_format
+p11_kit_uri_free
+p11_kit_iter_load_attributes
+p11_kit_iter_add_callback
+p11_kit_iter_add_filter
+p11_kit_iter_get_module
+p11_kit_modules_load_and_initialize
+p11_kit_module_initialize
+p11_kit_message
+p11_kit_uri_set_attribute
+p11_kit_modules_finalize_and_release
+p11_kit_iter_set_uri
+p11_kit_modules_load
+libtasn1.so.6
+asn1_read_value
+asn1_get_tag_der
+asn1_der_decoding_startEnd
+asn1_number_of_elements
+asn1_delete_structure
+asn1_length_der
+asn1_write_value
+asn1_der_coding
+asn1_octet_der
+asn1_get_length_der
+asn1_create_element
+asn1_array2tree
+asn1_der_decoding
+asn1_strerror
+libdl.so.2
+dlerror
+libpthread.so.0
+pthread_mutex_init
+pthread_mutexattr_settype
+__errno_location
+pthread_mutexattr_init
+pthread_mutexattr_destroy
+open
+close
+libc.so.6
+vasprintf
+__printf_chk
+exit
+readdir
+execv
+strncmp
+optind
+strrchr
+__strdup
+__progname
+closedir
+strncpy
+puts
+time
+__stack_chk_fail
+unlink
+putchar
+mkdir
+realloc
+abort
+memchr
+strpbrk
+getpid
+strspn
+chmod
+__assert_fail
+mkstemp
+strtol
+mmap
+symlink
+calloc
+strlen
+memset
+strstr
+memcmp
+__fprintf_chk
+getpwuid_r
+putenv
+stdout
+fputc
+memcpy
+__vsnprintf_chk
+strtoul
+malloc
+__strndup
+opendir
+__ctype_b_loc
+optarg
+stderr
+munmap
+__snprintf_chk
+getuid
+getopt_long
+getauxval
+__fxstat
+fwrite
+rename
+__memcpy_chk
+strchr
+secure_getenv
+__vfprintf_chk
+__ctype_tolower_loc
+__xpg_strerror_r
+__xstat
+getrlimit
+memmove
+strcmp
+__libc_start_main
+dirfd
+sysconf
+program_invocation_short_name
+_fini
+_edata
+__bss_start
+_end
+GLIBC_2.2.5
+LIBTASN1_0_3
+GLIBC_2.3
+GLIBC_2.16
+GLIBC_2.14
+GLIBC_2.4
+GLIBC_2.3.4
+%zy"
+%ry"
+%jy"
+%by"
+%Zy"
+%Ry"
+%Jy"
+%By"
+%:y"
+%2y"
+%*y"
+%"y"
+%zx"
+%rx"
+%jx"
+%bx"
+%Zx"
+%Rx"
+%Jx"
+%Bx"
+%:x"
+%2x"
+%*x"
+%"x"
+%zw"
+%rw"
+%jw"
+%bw"
+%Zw"
+%Rw"
+%Jw"
+%Bw"
+%:w"
+%2w"
+%*w"
+%"w"
+%zv"
+%rv"
+%jv"
+%bv"
+%Zv"
+%Rv"
+%Jv"
+%Bv"
+%:v"
+%2v"
+%*v"
+%"v"
+UH-@
+AWAV
+AUATA
+l$`dH
+D$hpSA
+D$xv
+[]A\A]A^A_
+t$ H
+A9l$
+d$@H
+D$ H
+t^H=
+L;l$
+\$(E1
+D$8H
+L$@H
+D$HH
+t$@1
+T$@H
+L;|$@I
+|$8M
+AWAVM
+AUATI
+D$x1
+D$@p
+D$(H
+D$`H
+L$@H
+T$ H
+D$pE1
+\$xdH3
+[]A\A]A^A_
+AWAVE
+AUATI
+D$H1
+t$0H
+T$ H
+T$ H
+|$01
+D$0E
+\$HdH3
+X[]A\A]A^A_
+T$ L
+L$`H
+t$@H
+D$(H
+D$HH
+D$ p
+D$h1
+D$H1
+D$HdH3
+T$0H
+T$8H
+T$0H
+AUATI
+[]A\A]
+AWAVI
+AUATI
+D$`)
+|$@L
+L$0L
+HcD$,H
+t$@H
+D$0)
+D$pI
+|$HH
+l$HH
+D$*L
+D$+H
+t$`M
+L$8L
+[]A\A]A^A_
+HcT$4H
+L$@H
+t$pL
+t$XL
+t$XH
+D$`M
+D$`M
+D$`H
+AUATH
+[]A\A]
+ u;[
+AVAUI
+ATUH
+D$(1
+A9\$
+L$(dH3
+0[]A\A]A^
+D$H1
+D$(tB
+T$HdH3
+tKSH
+t$(H
+T$0H
+L$8L
+D$@L
+D$ H
+AWAVAUATUSH
+E09X
+[]A\A]A^A_
+AUATUSH
+dH3<%(
+([]A\A]
+|$h1
+D$hdH3
+t$PH
+T$`1
+D$P)
+T$`H
+L$PH
+T$0H
+D$XH
+D$8E1
+t#SH
+AWAVAUATUSH
+\$`1
+t$/H
+|$/E
+D$0H
+\$@H
+|$PH
+l$HA
+[]A\A]A^A_
+L$@H
+D$8H
+D$@H
+H9D$
+|$8H
+L$@H
+|$8H
+AWAVI
+AUAT1
+[]A\A]A^A_
+|$ A
+AVAUATUSD
+p $D
+6QZ^&D
+*CA1
+A]A^A_
+AWAVAUATUSH
+l$,E
+|$\D
+d$XA
+l$LE!
+\$TA
+d$(A
+d$<!
+d$,D
+d$0E
+d$4A
+3L$$A
+3L$0A
+t$,A
+3T$(D
+|$8D1
+3T$4A
+|$$D1
+T$ A
+L$(D
+t$(1
+D3\$
+D3T$ 1
+L$,E1
+T$$E
+|$8A
+D$4D1
+3l$$
+T$0D
+t$ A
+L$(D1
+l$<A
+d$(D3d$
+L$4E1
+\$<3\$83\$$D
+D$<D1
+D$,B
+D3D$
+l$83l$
+L$8E
+Degas are we not drawn onward no In union drawn onward to new eras aged
+3t$ D
+3t$,D
+d$<A
+l$$D
+T$<D1
+3D$(1
+D3\$
+D3\$4
+\$@D
+t$,E
+T$DD
+D3L$
+3l$(D
+\$ D1
+\$<A
+3D$ 
+d$4A
+D3T$$D
+T$4A
+|$@E1
+3|$,D
+D3d$
+D3d$0A
+t$8A
+3|$4
+d$HD
+3T$ 3T$8
+t$$D
+3D$,
+l$@D
+D3\$
+D3T$4
+D3T$<D
+l$D	
+D3L$8D
+L$@A!
+l$$D
+t$ A	
+D3D$
+3t$HD
+l$DD	
+t$,A
+3L$@D
+3T$<D1
+T$4A
+3D$D
+l$ D	
+l$8D
+D3T$
+l$HD
+D3L$@
+D3L$ 
+|$DD
+L$,E
+3T$$
+t$<A
+3|$(A
+3T$,A
+l$01
+3D$ E1
+\$$A
+D3\$
+D3T$0D1
+t$DA1
+D3L$,D3D$
+3L$ A1
+3T$$3T$0D1
+\$ 3\$(1
+|$$D3|$,E1
+|$(D3|$
+T$,E
+D3|$
+3|$0A
+t$LA1
+t$\D
+L$PH
+h[]A\A]A^A_
+AWAVAUATUSH
+?w)K
+[]A\A]A^A_)
+ATUSH
+D$,vT2
+D$4%
+[]A\
+AWAVAUATUSH
+\$0H
+D$ H
+D$<vT2
+\$0H
+D$@A
+L$@v
+D$HI
+D$PI
+D$XI
+D$`I
+D$hI
+D$pI
+D$xI
+/w6H
+T$ H
+D$ H
+|$DH
+D$0H
+T$8H
+[]A\A]A^A_
+ATUH
+[]A\
+AWAVH
+AUATI
+[]A\A]A^A_
+t$(M
+D$h)
+D$(H
+D$XI
+D$pI
+T$(H
+t$01
+L$$L
+HcD$ 
+T$$H
+Hc|$ Hc
+unknown
+certific
+C@te1
+C8t^H
+D$x1
+D$(H
+D$HH
+\$xdH3
+T$`H
+t$ 1
+L$`H
+T$@H
+t$ E1
+T$`H
+Do nine men interpret Nine men I nod
+t$ 1
+T$`H
+t$ 1
+E u$
+[]A\
+[]A\
+AUATI
+D$6 
+D$ H
+D$(1
+D$X)
+t$ H
+[]A\A]
+ATU1
+[]A\
+AWAV
+AUATE1
+hu<L
+[]A\A]A^A_
+ATHc
+AWAVAUATI
+D$0H
+L$ H
+D$PH
+L$@H
+D$pH
+L$`H
+ u2E
+[]A\A]A^A_
+t$hH
+T$hI
+t$`H
+T$4H
+AVAUI
+ATUI
+A9l$
+[]A\A]A^
+ATUH
+[]A\
+AVAUI
+ATUH
+[]A\A]A^
+D$ H
+Hct$
+D$ H
+HcD$
+AUATUSH
+S4dH
+D$x1
+t$@H
+t$HH
+|$@H
+L$xdH3
+[]A\A]
+AWAVAUATI
+4$L9
+H+l$
+[]A\A]A^A_
+Tacocat
+AVAUATUSH
+ []A\A]A^
+AUATE1
+|$ 1
+D9l$
+|$PE
+L$`H
+|$(H
+Hct$
+T$ H
+HcD$
+|$ H
+[]A\A]
+L$(H
+T$ H
+t$PE1
+uRHct$
+t$PE1
+HcD$
+AVAUI
+ATUH
+D$X1
+God A red nugget A fat egg under a dog
+L$XdH3
+`[]A\A]A^
+|$@1
+T$@H
+|$@1
+T$@H
+AVAUATUSH
+s4dH
+|$P1
+|$ 1
+t$PH
+t$XH
+|$PH
+T$(H
+t$ H
+[]A\A]A^
+|$PH
+AWAVA
+AUATUSH
+s4dH
+D$X1
+|$ 1
+T$(H
+t$ H
+|$ H
+L$XdH3
+h[]A\A]A^A_
+|$ 1
+ATUSH
+S4dH
+D$H1
+L$HdH3
+P[]A\
+[]A\
+AUATUSH
+[]A\A]
+[]A\A]
+[]A\A]
+]A\A]
+AVAU
+ATUA
+|$hH
+T$(D
+\$(H
+|$`H
+[]A\A]A^
+AVAUATUSH
+D$H1
+t$0H
+xjup
+L$HdH3
+P[]A\A]A^
+AVAUATUSH
+[]A\A]A^
+AVAUATUS
+]A\A]A^
+]A\A]A^
+]A\A]A^
+AUATUSH
+[]A\A]
+,$E1
+t3USH
+ATUSH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+D$H%
+AWAV
+AUAT1
+[]A\A]A^A_
+AUATUSH
+$uZH
+[]A\A]
+AVAUATUSH
+[]A\A]A^
+AVAUATUSH
+[]A\A]A^
+Hc|$
+HcD$
+AVAUATUSH
+ucHcD$
+[]A\A]A^
+AUATI
+uEHc|$
+([]A\A]
+[]A\
+AVAUATUSH
+[]A\A]A^
+[]A\A]A^
+t#SH
+AWAVAUATUSH
+T$ H
+s	I)
+H9D$
+D$ M
+L$(H
+8[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+ATUI
+AWAVAUATUSH
+D$(I
+d$0L
+|$,H
+Hc|$(
+t$,)
+Hc|$(H
+[]A\A]A^A_
+$tEH
+ATUSH
+ []A\
+|$ L
+AUATH
+[]A\A]
+AVAUI
+ATUI
+Hc|$
+Hc|$
+HcT$
+ []A\A]A^
+AWAVL
+AUATI
+l$@H
+D$(L
+D$ H
+D$0H
+L$ L
+Hc|$0
+t$4)
+Hc|$0H
+t$(L
+t$81
+[]A\A]A^A_
+ATUI
+$tAH
+[]A\
+AWAVAUATUSH
+L$(L
+t$$H
+H;L$
+H9t$
+t0Ic
+H9t$
+H9L$
+8[]A\A]A^A_
+[]A\A]A^A_
+ t-H9
+dH3<%(
+AWAVAUATUSH
+D$X1
+l$ I
+\$XdH3
+h[]A\A]A^A_
+T$@H
+L$HL
+D$PL
+L$Xt:
+)D$`
+)L$p
+D$(1
+D$(dH3
+t;US1
+AWAVM
+AUATI
+([]A\A]A^A_
+[]A\A]A^A_
+t;USH
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+dH3<%(
+D$(1
+T$(dH3
+ATUSH
+[]A\
+[]A\
+t)H;
+u(H9+u
+[]A\
+t#H9
+u(H9+u
+[]A\
+t#H9
+u0H9+u
+[]A\
+u(H9+u
+AVAUI
+ATUI
+]A\A]A^
+[]A\A]A^
+AUATI
+t"Hc
+[]A\A]
+[]A\
+tkAUATI
+[]A\A]
+[]A\A]
+AVAUATUI
+[]A\A]A^
+=th!
+ATUA
+[]A\
+ATUA
+D$81
+L$8dH3
+@[]A\
+ATUI
+D$81
+L$8dH3
+@[]A\
+AUATA
+[]A\A]
+ATUI
+[]A\
+[]A\
+AUATA
+[]A\A]
+tCSH
+ATUS
+[]A\
+[]A\
+[]A\H
+AVAUI
+[]A\A]A^
+AWAVH
+AUATUSH
+t8A8
+[]A\A]A^A_
+[]A\A]A^A_
+t;USH
+[]A\
+AUATUSH
+t$(H
+T$0H
+L$8H
+D$ L
+D$@L
+D$ H
+dH34%(
+X[]A\A]
+D$ H
+AVAUI
+ATUI
+ []A\A]A^
+H;9tDH
+H9:t;
+H90t
+v*f.
+H;0t
+AWAV1
+AUATA
+tlE1
+[]A\A]A^A_
+L;l$
+AWAVH
+AUATUSH
+[]A\A]A^A_
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+[]A\A]A^
+A9@,w
+A9@,v8M
+AUATI
+C,9C(w'
+([]A\A]
+ATUI
+dH3<%(
+AUAT1
+t_E1
+[]A\A]
+AWAVAUATUSH
+[]A\A]A^A_
+AVATA
+D$(1
+D$PH
+L$HL
+D$ H
+D$0H
+D$ H
+tmD1
+D$(dH3
+h[]A\A^
+T$ 1
+t@SH
+t;SH
+AWAVAUATUSH
+ t	H
+[]A\A]A^A_
+]tXH
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+tnMce
+U(|3)
+l$ L
+ATUA
+l$ L
+[]A\
+ATUS
+[]A\
+[]A\
+AUATUSH
+t$(H
+T$0H
+L$8L
+D$@L
+D$ H
+D$ H
+dH3<%(
+X[]A\A]
+T$@H
+AUATUSH
+}'Hc
+[]A\A]
+AWAVAUATUSH
+([]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+G D;p
+[]A\A]A^A_
+AWAVI
+AUAT
+D$X1
+|$XdH3<%(
+h[]A\A]A^A_
+AWAVAUATUSH
+L;<$I
+<vuLH
+[]A\A]A^A_
+L;<$
+[]A\A]A^A_
+AWAVA
+AUATL
+[]A\A]A^A_
+parser != NULL
+p11-kit: '%s' not true at %s
+object
+store
+remove
+show verbose debug output
+suppress command output
+trust/anchor.c
+array != NULL
+%s: parsed file: %s
+unrecognized file format: %s
+failed to parse file: %s
+%s: couldn't initialize: %s
+slots != NULL
+%s: couldn't open session: %s
+attr != NULL
+%s: storing: %s
+couldn't create object: %s
+%s: already have this anchor
+attrs != NULL
+%s: setting: %s
+iters != NULL
+pkcs11:
+invalid PKCS#11 uri: %s
+%s: removing %s: %lu
+couldn't remove read-only %s
+couldn't remove %s: %s
+usage: trust anchor --store <file> ...
+an action was already specified
+Eleele
+false && "this code should not be reached"
+p11-kit: shouldn't be reached at %s
+specify at least one anchor input file
+%s: couldn't enumerate slots: %s
+%s: couldn't get token info: %s
+%s: opened writable session on: %s
+no configured writable location to store anchors
+no configured location to store anchors
+%s: don't yet have this anchor
+at least one file or uri must be specified
+remove_all
+uris_or_files_to_iters
+uris_or_files_to_iters
+anchor_remove
+modify_anchor
+modify_anchor
+create_anchor
+find_anchor
+session_for_store_on_module
+session_for_store_on_module
+create_arg_file_parser
+files_to_attrs
+files_to_attrs
+anchor_store
+p11_trust_anchor
+PKIX1.Extension
+dest != NULL
+extnID
+ret == ASN1_SUCCESS
+TRUE
+extnValue
+der != NULL
+PKIX1.ExtKeyUsageSyntax
+%s.?%u
+PKIX1.Certificate
+OPENSSL.CertAux
+value != NULL
+alias
+reject
+cert != NULL
+keyid
+TRUSTED CERTIFICATE
+parser->persist != NULL
+objects != NULL
+parser.parsed != NULL
+parser->formats != NULL
+certificate with distrust in location for anchors: %s
+overriding trust for anchor in blacklist: %s
+tbsCertificate.subjectPublicKeyInfo
+ret == ASN1_SUCCESS || ret == ASN1_ELEMENT_NOT_FOUND
+%s: Saw unsupported or unrecognized PEM block of type %s
+Couldn't parse PEM block of type %s
+couldn't open and map file: %s
+p11_parse_file
+p11_parse_memory
+p11_parser_formats
+p11_parser_parsed
+p11_parser_free
+p11_parser_new
+p11_parser_format_persist
+extension_attrs
+attached_attrs
+attached_eku_attrs
+load_seq_of_oid_str
+build_openssl_extensions
+parse_openssl_trusted_certificate
+on_pem_block
+sink_object
+p11_parser_format_x509
+1.3.6.1.4.1.3319.6.10.16
+1.3.6.1.4.1.3319.6.10.1
+2.5.29.37
+2.5.29.14
+PUBLIC KEY
+[p11-kit-object-v1]
+persist->constants != NULL
+p11-kit-object-v1
+attr->pValue != NULL
+false
+0123456790.
+BASIC.ObjectIdentifier
+invalid oid value
+invalid pem block
+count == 1
+true
+invalid value
+[p11-kit-object-v1]
+trust/persist.c
+invalid oid value: %s
+BASIC
+unsupported pem block in store
+unrecognized or invalid section header
+attribute before p11-kit section header
+invalid or unsupported attribute
+bad encoding of attribute value
+failed to load BASIC definitions: %s: %s
+failed to create ObjectIdentifier element: %s
+pem block before p11-kit section header
+attr->ulValueLen != CK_UNAVAILABLE_INFORMATION
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_-.
+format_string
+format_oid
+format_value
+p11_persist_write
+pem_to_attributes
+parse_oid
+parse_ulong
+parse_constant
+p11_persist_read
+p11_persist_new
+trust/digest.c
+buffer != NULL
+state != NULL
+context != 0
+digest != 0
+sha1_final
+transform_sha1
+sha1_update
+couldn't load attributes: %s
+ex->already_seen != NULL
+oid != NULL
+ex->asn1_defs != NULL
+ex->iter != NULL
+ex->blacklist_public_key
+ex->blacklist_issuer_serial
+ca-anchors
+trust-policy
+blacklist
+0123456789.
+ex->limit_to_purposes != NULL
+couldn't load blacklist: %s
+label != NULL
+%s# %s
+skipping non-certificate object
+%s: skipping non X.509 certificate
+%s: skipping certificate without a value
+%s: skipping certificate that doesn't match trust flags
+couldn't parse certificate: %s
+couldn't parse attached certificate extension: %s
+%s: strange complex certificate extension object id
+couldn't load attached extensions for certificate: %s
+a PKCS#11 URI has already been specified
+couldn't parse pkcs11 uri filter: %s
+uri contained unrecognized components, nothing will be extracted
+unsupported or unrecognized filter: %s
+unsupported or unregonized purpose: %s
+no modules containing trust policy are registered
+p11_enumerate_comment
+p11_enumerate_filename
+blacklist_load
+p11_enumerate_ready
+p11_enumerate_opt_purpose
+extract_purposes
+load_attached_extension
+load_attached_extension
+extract_certificate
+extract_certificate
+p11_enumerate_init
+1.3.6.1.5.5.7.3.8
+1.3.6.1.5.5.7.3.7
+1.3.6.1.5.5.7.3.6
+1.3.6.1.5.5.7.3.5
+1.3.6.1.5.5.7.3.4
+1.3.6.1.5.5.7.3.3
+1.3.6.1.5.5.7.3.2
+1.3.6.1.5.5.7.3.1
+%x509-file
+filter
+format
+overwrite
+comment
+what
+usage
+trust/extract.c
+no output format specified
+p11-kit-extract-trust
+trust-extract-compat
+could not run %s command
+x509-directory
+pem-bundle
+pem-directory
+pem-directory-hash
+java-cacerts
+openssl-bundle
+openssl-directory
+usage: trust extract --format=<output> <destination>
+filter of what to export
+  ca-anchors        certificate anchors (default)
+  blacklist         blacklisted certificates
+  trust-policy      anchors and blacklist
+  certificates      all certificates
+  pkcs11:object=xx  a PKCS#11 URI
+format to extract to
+  x509-file           DER X.509 certificate file
+  x509-directory      directory of X.509 certificates
+  pem-bundle          file containing multiple PEM blocks
+  pem-directory       directory of PEM files
+  pem-directory-hash  directory of PEM files with hash links
+  openssl-bundle      OpenSSL specific PEM bundle
+  openssl-directory   directory of OpenSSL specific files
+  java-cacerts        java keystore cacerts file
+limit to certificates usable for the purpose
+  server-auth       for authenticating servers
+  client-auth       for authenticating clients
+  email             for email protection
+  code-signing      for authenticating signed code
+  1.2.3.4.5...      an arbitrary object id
+overwrite output file or directory
+add comments to bundles if possible
+a format was already specified
+unsupported or unrecognized format: %s
+specify one destination file or directory
+format does not support trust policy
+format does not support multiple purposes, defaulting to 'server-auth'
+/usr/lib/x86_64-linux-gnu/p11-kit
+p11_trust_extract_compat
+p11_trust_extract
+truncating long string
+trust/extract-jks.c
+value < INT16_MAX
+value >= 0
+value < INT32_MAX
+unlabeled
+now > 0
+aliases != NULL
+p11_buffer_ok (&buf)
+X.509
+digest != NULL
+Mighty Aphrodite
+p11_buffer_ok (buffer)
+failed to find certificates: %s
+could not generate a certificate alias name
+encode_msb_int
+add_msb_int
+encode_msb_short
+add_string
+add_msb_long
+add_alias
+prepare_jks_buffer
+%s.?LAST
+*oids != NULL
+asn != NULL
+string != NULL
+rejects != NULL
+other
+ret == ASN1_MEM_ERROR
+trust/extract-openssl.c
+len == output_len - 1
+PKIX1.Name
+rdnSequence
+rdnSequence.?%d
+%s.?%d.value
+at != NULL
+der.data != NULL
+%08lx
+.pem
+p11_extract_openssl_directory
+symlink_for_subject_old_hash
+symlink_for_subject_hash
+p11_openssl_canon_name_der
+p11_openssl_canon_string_der
+p11_openssl_canon_string_der
+write_other
+write_keyid
+write_alias
+write_usages
+load_usage_ext
+known_usages
+write_trust_and_rejects
+prepare_pem_contents
+p11_extract_openssl_bundle
+1.3.6.1.5.5.7.3.8
+1.3.6.1.5.5.7.3.7
+1.3.6.1.5.5.7.3.6
+1.3.6.1.5.5.7.3.5
+1.3.6.1.5.5.7.3.4
+1.3.6.1.5.5.7.3.3
+1.3.6.1.5.5.7.3.2
+1.3.6.1.5.5.7.3.1
+extract_pem_directory
+p11_extract_pem_bundle
+multiple certificates found but could only write one to file
+no certificate found
+.cer
+p11_extract_x509_directory
+details
+trust/list.c
+%s: handle: %lu
+%s: attrs: %s
+    type: %s
+    label: %s
+    trust: blacklisted
+    trust: anchor
+    trust: unspecified
+    category: %s
+    public-key-info: %.*s
+usage: trust list --filter=<what>
+filter of what to export
+  ca-anchors        certificate anchors
+  blacklist         blacklisted certificates
+  trust-policy      anchors and blacklist (default)
+  certificates      all certificates
+  pkcs11:object=xx  a PKCS#11 URI
+extra arguments passed to command
+skipping object, couldn't build uri
+list_iterate
+p11_trust_list
+trust/save.c
+check != NULL
+%s%s.XXXXXX
+couldn't create file: %s%s
+file != NULL
+file->bare != NULL
+file->extension != NULL
+couldn't write to file: %s
+couldn't write file: %s
+couldn't create directory: %s
+directory already exists: %s
+dir != NULL
+dir->path != NULL
+dir->cache != NULL
+basename != NULL
+%s/%s
+linkname != NULL
+destination != NULL
+couldn't create symlink: %s
+couldn't list directory: %s
+couldn't remove file: %s
+couldn't complete writing of file: %s
+couldn't set file permissions: %s
+couldn't complete writing file: %s
+couldn't make directory writable: %s
+couldn't set directory permissions: %s
+cleanup_directory
+p11_save_symlink_in
+p11_save_open_file_in
+p11_save_open_directory
+make_unique_name
+make_unique_name
+p11_save_finish_file
+p11_save_open_file
+List trust or certificates
+extract
+Extract certificates and trust
+Extract trust compatibility bundles
+Add, remove, change trust anchors
+failed to load %s* definitions: %s: %s
+unknown prefix for element: %s
+failed to create element %s: %s
+strcmp (item->struct_name, struct_name) == 0
+ub-country-name-numeric-length
+ub-organizational-unit-name-length
+pkcs-7-DigestAlgorithmIdentifier
+pkcs-7-DigestAlgorithmIdentifiers
+pkcs-7-EncapsulatedContentInfo
+pkcs-7-CertificateRevocationLists
+pkcs-10-CertificationRequestInfo
+pkcs-8-EncryptedPrivateKeyInfo
+pkcs-7-ContentEncryptionAlgorithmIdentifier
+def != NULL
+%s: couldn't parse %s: %s: %s
+der_len != NULL
+ret != ASN1_SUCCESS
+failed to encode: %s
+field != NULL
+length != NULL
+cache->defs != NULL
+cache->items != NULL
+item->length == der_len
+der_len != 0
+item != NULL
+item->struct_name != NULL
+PKIX1.
+OPENSSL.
+PKIX1
+id-pkix
+identified-organization
+internet
+security
+AuthorityKeyIdentifier
+keyIdentifier
+authorityCertIssuer
+GeneralNames
+authorityCertSerialNumber
+CertificateSerialNumber
+DirectoryString
+teletexString
+TeletexString
+printableString
+PrintableString
+universalString
+UniversalString
+utf8String
+UTF8String
+bmpString
+BMPString
+ia5String
+IA5String
+SubjectAltName
+GeneralName
+AnotherName
+rfc822Name
+dNSName
+x400Address
+directoryName
+RDNSequence
+ediPartyName
+uniformResourceIdentifier
+iPAddress
+registeredID
+type-id
+IssuerAltName
+pathLenConstraint
+CRLDistributionPoints
+DistributionPoint
+distributionPoint
+DistributionPointName
+reasons
+ReasonFlags
+cRLIssuer
+fullName
+nameRelativeToCRLIssuer
+RelativeDistinguishedName
+KeyPurposeId
+CRLNumber
+CertificateIssuer
+NumericString
+AttributeType
+values
+AttributeValue
+AttributeTypeAndValue
+id-at
+joint-iso-ccitt
+PostalAddress
+emailAddress
+member-body
+rsadsi
+113549
+Pkcs9email
+ub-emailaddress-length
+tbsCertificate
+A Santa lives evil at NASA
+TBSCertificate
+signatureAlgorithm
+AlgorithmIdentifier
+version
+serialNumber
+validity
+Validity
+subject
+subjectPublicKeyInfo
+SubjectPublicKeyInfo
+issuerUniqueID
+UniqueIdentifier
+subjectUniqueID
+extensions
+notBefore
+notAfter
+utcTime
+generalTime
+algorithm
+subjectPublicKey
+CertificateList
+tbsCertList
+TBSCertList
+thisUpdate
+nextUpdate
+revokedCertificates
+userCertificate
+revocationDate
+crlEntryExtensions
+crlExtensions
+Dss-Sig-Value
+DomainParameters
+validationParms
+ValidationParms
+pgenCounter
+Dss-Parms
+CountryName
+x121-dcc-code
+iso-3166-alpha2-code
+ub-country-name-alpha-length
+OrganizationName
+ub-organization-name-length
+NumericUserIdentifier
+ub-numeric-user-id-length
+OrganizationalUnitNames
+ub-organizational-units
+OrganizationalUnitName
+CommonName
+pkcs-7-ContentInfo
+contentType
+pkcs-7-ContentType
+content
+pkcs-7-DigestInfo
+digestAlgorithm
+digest
+pkcs-7-Digest
+pkcs-7-SignedData
+pkcs-7-CMSVersion
+digestAlgorithms
+encapContentInfo
+pkcs-7-CertificateSet
+crls
+signerInfos
+pkcs-7-SignerInfos
+eContentType
+eContent
+pkcs-7-CertificateChoices
+subjectPKInfo
+pkcs-10-CertificationRequest
+certificationRequestInfo
+pkcs-9-at-challengePassword
+pkcs-9-challengePassword
+pkcs-9-localKeyId
+pkcs-8-PrivateKeyInfo
+pkcs-8-Version
+privateKeyAlgorithm
+privateKey
+pkcs-8-PrivateKey
+pkcs-8-Attributes
+encryptionAlgorithm
+encryptedData
+alula
+pkcs-8-EncryptedData
+pkcs-5-des-EDE3-CBC-params
+pkcs-5-aes128-CBC-params
+pkcs-5-aes192-CBC-params
+pkcs-5-aes256-CBC-params
+Borrow or rob
+pkcs-5-PBES2-params
+keyDerivationFunc
+encryptionScheme
+pkcs-5-PBKDF2-params
+otherSource
+iterationCount
+keyLength
+pkcs-12-PFX
+authSafe
+macData
+pkcs-12-MacData
+pkcs-12-PbeParams
+iterations
+macSalt
+pkcs-12-AuthenticatedSafe
+pkcs-12-SafeContents
+pkcs-12-SafeBag
+bagId
+bagValue
+badId
+bagAttributes
+pkcs-12-PKCS12Attribute
+pkcs-12-KeyBag
+pkcs-12-PKCS8ShroudedKeyBag
+pkcs-12-CertBag
+certId
+certValue
+pkcs-12-CRLBag
+crlId
+crlValue
+pkcs-12-SecretBag
+secretTypeId
+secretValue
+pkcs-7-Data
+pkcs-7-EncryptedData
+encryptedContentInfo
+pkcs-7-EncryptedContentInfo
+unprotectedAttrs
+pkcs-7-UnprotectedAttributes
+contentEncryptionAlgorithm
+encryptedContent
+pkcs-7-EncryptedContent
+ProxyCertInfo
+pCPathLenConstraint
+proxyPolicy
+ProxyPolicy
+policyLanguage
+OPENSSL
+p11_asn1_cache_defs
+p11_asn1_cache_take
+p11_asn1_cache_get
+p11_asn1_cache_new
+p11_asn1_read
+p11_asn1_encode
+p11_asn1_decode
+p11_asn1_decode
+p11_asn1_create
+p11_asn1_defs_load
+trust/pem.c
+-----BEGIN 
+-----
+suff > pref
+*type != NULL
+n_data != 0
+decoded != NULL
+contents || !length
+target != NULL
+len > 0
+len <= estimate
+p11_pem_write
+p11_pem_write
+pem_parse_block
+pem_parse_block
+pem_find_begin
+pem_find_begin
+p11_pem_parse
+trust/oid.c
+oid[0] == 0x06
+(oid[1] & 128) == 0
+p11_oid_length
+ext_len != NULL
+end >= start
+keyid_len != NULL
+PKIX1.SubjectKeyIdentifier
+keyid != NULL
+is_ca != NULL
+PKIX1.BasicConstraints
+PKIX1.KeyUsage
+octet_len >= 0
+%s%srdnSequence.?%d.?%d.type
+%s%srdnSequence.?%d.?%d.value
+tbsCertificate.extensions.?%u.extnID
+tbsCertificate.extensions.?%u.extnValue
+tag_len + len_len + octet_len == input_len
+p11_x509_lookup_dn_name
+p11_x509_parse_directory_string
+p11_x509_parse_extended_key_usage
+p11_x509_parse_key_usage
+p11_x509_parse_basic_constraints
+p11_x509_parse_subject_key_identifier
+p11_x509_hash_subject_public_key
+p11_x509_find_extension
+1.3.6.1.4.1.3319.6.10.16
+trust/base64.c
+len + 1 < targsize
+len < targsize
+output[i] == 255 || output[i] < 64
+p11_b64_ntop
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+trust/utf8.c
+str != NULL
+wc != NULL
+uc != NULL
+convert
+ucs4be_to_uchar
+p11_utf8_for_ucs4be
+utf8_for_convert
+utf8_for_convert
+ucs2be_to_uchar
+p11_utf8_for_ucs2be
+utf8_to_uchar
+p11_attrs_terminator (attrs + at)
+p11_attrs_terminator (attrs + out)
+common/attrs.c
+CKA_0x%08lX
+(-1) INVALID
+%lu (%s)
+(%lu) NOT-PRINTED
+(%lu) 
+\x%02x
+(%d) [
+p11_attr_to_string
+p11_attrs_to_string
+buffer_append_printf
+p11_attrs_purge
+attrs_build
+attrs_build
+new_memory != NULL
+p11_array_push
+maybe_expand_array
+buffer->frealloc != NULL
+!(flags & P11_BUFFER_FAILED)
+buffer->size < SIZE_MAX / 2
+SIZE_MAX - (terminator + length) > buffer->len
+p11_buffer_add
+p11_buffer_append
+p11_buffer_steal
+p11_buffer_uninit
+p11_buffer_init_full
+buffer_realloc
+common/compat.c
+ret == 0
+/proc/self/fd
+p11_mutex_init
+length != -1
+lookups != NULL
+reversed != NULL
+CKM_RSA_PKCS_KEY_PAIR_GEN
+rsa-pkcs-key-pair-gen
+CKM_RSA_PKCS
+CKM_RSA_9796
+rsa-9796
+CKM_RSA_X_509
+rsa-x-509
+CKM_MD2_RSA_PKCS
+md2-rsa-pkcs
+CKM_MD5_RSA_PKCS
+md5-rsa-pkcs
+CKM_SHA1_RSA_PKCS
+sha1-rsa-pkcs
+CKM_RIPEMD128_RSA_PKCS
+ripemd128-rsa-pkcs
+CKM_RIPEMD160_RSA_PKCS
+ripemd160-rsa-pkcs
+CKM_RSA_PKCS_OAEP
+rsa-pkcs-oaep
+CKM_RSA_X9_31_KEY_PAIR_GEN
+rsa-x9-31-key-pair-gen
+CKM_RSA_X9_31
+CKM_SHA1_RSA_X9_31
+sha1-rsa-x9-31
+CKM_RSA_PKCS_PSS
+CKM_SHA1_RSA_PKCS_PSS
+sha1-rsa-pkcs-pss
+CKM_DSA_KEY_PAIR_GEN
+CKM_DSA
+CKM_DSA_SHA1
+CKM_DH_PKCS_KEY_PAIR_GEN
+dh-pkcs-key-pair-gen
+CKM_DH_PKCS_DERIVE
+dh-pkcs-derive
+CKM_X9_42_DH_KEY_PAIR_GEN
+x9-42-dh-key-pair-gen
+CKM_X9_42_DH_DERIVE
+x9-42-dh-derive
+CKM_X9_42_DH_HYBRID_DERIVE
+x9-42-dh-hybrid-derive
+CKM_X9_42_MQV_DERIVE
+x9-42-mqv-derive
+CKM_SHA256_RSA_PKCS
+sha256-rsa-pkcs
+CKM_SHA384_RSA_PKCS
+sha384-rsa-pkcs
+CKM_SHA512_RSA_PKCS
+sha512-rsa-pkcs
+CKM_SHA256_RSA_PKCS_PSS
+sha256-rsa-pkcs-pss
+CKM_SHA384_RSA_PKCS_PSS
+sha384-rsa-pkcs-pss
+CKM_SHA512_RSA_PKCS_PSS
+sha512-rsa-pkcs-pss
+CKM_RC2_KEY_GEN
+rc2-key-gen
+CKM_RC2_ECB
+rc2-ecb
+CKM_RC2_CBC
+rc2-cbc
+CKM_RC2_MAC
+rc2-mac
+CKM_RC2_MAC_GENERAL
+rc2-mac-general
+CKM_RC2_CBC_PAD
+rc2-cbc-pad
+CKM_RC4_KEY_GEN
+rc4-key-gen
+CKM_RC4
+CKM_DES_KEY_GEN
+des-key-gen
+CKM_DES_ECB
+des-ecb
+CKM_DES_CBC
+CKM_DES_MAC
+des-mac
+CKM_DES_MAC_GENERAL
+des-mac-general
+CKM_DES_CBC_PAD
+des-cbc-pad
+CKM_DES2_KEY_GEN
+des2-key-gen
+CKM_DES3_KEY_GEN
+des3-key-gen
+CKM_DES3_ECB
+des3-ecb
+CKM_DES3_CBC
+des3-cbc
+CKM_DES3_MAC
+des3-mac
+CKM_DES3_MAC_GENERAL
+des3-mac-general
+CKM_DES3_CBC_PAD
+des3-cbc-pad
+CKM_CDMF_KEY_GEN
+cdmf-key-gen
+CKM_CDMF_ECB
+cdmf-ecb
+CKM_CDMF_CBC
+cdmf-cbc
+CKM_CDMF_MAC
+cdmf-mac
+CKM_CDMF_MAC_GENERAL
+cdmf-mac-general
+CKM_CDMF_CBC_PAD
+cdmf-cbc-pad
+CKM_DES_OFB64
+des-ofb64
+CKM_DES_OFB8
+des-ofb8
+CKM_DES_CFB64
+des-cfb64
+CKM_DES_CFB8
+des-cfb8
+CKM_MD2
+CKM_MD2_HMAC
+md2-hmac
+CKM_MD2_HMAC_GENERAL
+md2-hmac-general
+CKM_MD5
+CKM_MD5_HMAC
+md5-hmac
+CKM_MD5_HMAC_GENERAL
+md5-hmac-general
+CKM_SHA_1
+sha-1
+CKM_SHA_1_HMAC
+sha-1-hmac
+CKM_SHA_1_HMAC_GENERAL
+sha-1-hmac-general
+CKM_RIPEMD128
+ripemd128
+CKM_RIPEMD128_HMAC
+ripemd128-hmac
+CKM_RIPEMD128_HMAC_GENERAL
+ripemd128-hmac-general
+CKM_RIPEMD160
+ripemd160
+CKM_RIPEMD160_HMAC
+ripemd160-hmac
+CKM_RIPEMD160_HMAC_GENERAL
+ripemd160-hmac-general
+CKM_SHA256
+sha256
+CKM_SHA256_HMAC
+sha256-hmac
+CKM_SHA256_HMAC_GENERAL
+sha256-hmac-general
+CKM_SHA384
+sha384
+CKM_SHA384_HMAC
+sha384-hmac
+CKM_SHA384_HMAC_GENERAL
+sha384-hmac-general
+CKM_SHA512
+sha512
+CKM_SHA512_HMAC
+sha512-hmac
+CKM_SHA512_HMAC_GENERAL
+sha512-hmac-general
+CKM_CAST_KEY_GEN
+cast-key-gen
+CKM_CAST_ECB
+cast-ecb
+CKM_CAST_CBC
+CKM_CAST_MAC
+cast-mac
+CKM_CAST_MAC_GENERAL
+cast-mac-general
+CKM_CAST_CBC_PAD
+cast-cbc-pad
+CKM_CAST3_KEY_GEN
+cast3-key-gen
+CKM_CAST3_ECB
+cast3-ecb
+CKM_CAST3_CBC
+CKM_CAST3_MAC
+cast3-mac
+CKM_CAST3_MAC_GENERAL
+cast3-mac-general
+CKM_CAST3_CBC_PAD
+cast3-cbc-pad
+CKM_CAST5_KEY_GEN
+cast5-key-gen
+CKM_CAST5_ECB
+cast5-ecb
+CKM_CAST5_CBC
+CKM_CAST5_MAC
+cast5-mac
+CKM_CAST5_MAC_GENERAL
+cast5-mac-general
+CKM_CAST5_CBC_PAD
+cast5-cbc-pad
+CKM_RC5_KEY_GEN
+rc5-key-gen
+CKM_RC5_ECB
+rc5-ecb
+CKM_RC5_CBC
+rc5-cbc
+CKM_RC5_MAC
+rc5-mac
+CKM_RC5_MAC_GENERAL
+rc5-mac-general
+CKM_RC5_CBC_PAD
+rc5-cbc-pad
+CKM_IDEA_KEY_GEN
+idea-key-gen
+CKM_IDEA_ECB
+idea-ecb
+CKM_IDEA_CBC
+idea-cbc
+CKM_IDEA_MAC
+idea-mac
+CKM_IDEA_MAC_GENERAL
+idea-mac-general
+CKM_IDEA_CBC_PAD
+idea-cbc-pad
+CKM_GENERIC_SECRET_KEY_GEN
+generic-secret-key-gen
+CKM_CONCATENATE_BASE_AND_KEY
+concatenate-base-and-key
+CKM_CONCATENATE_BASE_AND_DATA
+concatenate-base-and-data
+CKM_CONCATENATE_DATA_AND_BASE
+concatenate-data-and-base
+CKM_XOR_BASE_AND_DATA
+xor-base-and-data
+CKM_EXTRACT_KEY_FROM_KEY
+extract-key-from-key
+CKM_SSL3_PRE_MASTER_KEY_GEN
+ssl3-pre-master-key-gen
+CKM_SSL3_MASTER_KEY_DERIVE
+ssl3-master-key-derive
+CKM_SSL3_KEY_AND_MAC_DERIVE
+ssl3-key-and-mac-derive
+CKM_SSL3_MASTER_KEY_DERIVE_DH
+ssl3-master-key-derive-dh
+CKM_TLS_PRE_MASTER_KEY_GEN
+CKM_TLS_MASTER_KEY_DERIVE
+CKM_TLS_KEY_AND_MAC_DERIVE
+tls-key-and-mac-derive
+CKM_TLS_MASTER_KEY_DERIVE_DH
+tls-master-key-derive-dh
+CKM_SSL3_MD5_MAC
+ssl3-md5-mac
+CKM_SSL3_SHA1_MAC
+ssl3-sha1-mac
+CKM_MD5_KEY_DERIVATION
+md5-key-derivation
+CKM_MD2_KEY_DERIVATION
+md2-key-derivation
+CKM_SHA1_KEY_DERIVATION
+sha1-key-derivation
+CKM_SHA256_KEY_DERIVATION
+sha256-key-derivation
+CKM_SHA384_KEY_DERIVATION
+sha384-key-derivation
+CKM_SHA512_KEY_DERIVATION
+sha512-key-derivation
+CKM_PBE_MD2_DES_CBC
+pbe-md2-des-cbc
+CKM_PBE_MD5_DES_CBC
+pbe-md5-des-cbc
+CKM_PBE_MD5_CAST_CBC
+pbe-md5-cast-cbc
+CKM_PBE_MD5_CAST3_CBC
+pbe-md5-cast3-cbc
+CKM_PBE_MD5_CAST5_CBC
+pbe-md5-cast5-cbc
+CKM_PBE_SHA1_CAST5_CBC
+pbe-sha1-cast5-cbc
+CKM_PBE_SHA1_RC4_128
+pbe-sha1-rc4-128
+CKM_PBE_SHA1_RC4_40
+pbe-sha1-rc4-40
+CKM_PBE_SHA1_DES3_EDE_CBC
+pbe-sha1-des3-ede-cbc
+CKM_PBE_SHA1_DES2_EDE_CBC
+pbe-sha1-des2-ede-cbc
+CKM_PBE_SHA1_RC2_128_CBC
+pbe-sha1-rc2-128-cbc
+CKM_PBE_SHA1_RC2_40_CBC
+pbe-sha1-rc2-40-cbc
+CKM_PKCS5_PBKD2
+pkcs5-pbkd2
+CKM_PBA_SHA1_WITH_SHA1_HMAC
+pba-sha1-with-sha1-hmac
+CKM_WTLS_PRE_MASTER_KEY_GEN
+wtls-pre-master-key-gen
+CKM_WTLS_MASTER_KEY_DERIVE
+wtls-master-key-derive
+wtls-master-key-derive-dh-ecc
+CKM_WTLS_PRF
+wtls-prf
+CKM_KEY_WRAP_LYNKS
+key-wrap-lynks
+CKM_KEY_WRAP_SET_OAEP
+key-wrap-set-oaep
+CKM_CMS_SIG
+cms-sig
+CKM_SKIPJACK_KEY_GEN
+skipjack-key-gen
+CKM_SKIPJACK_ECB64
+skipjack-ecb64
+CKM_SKIPJACK_CBC64
+skipjack-cbc64
+CKM_SKIPJACK_OFB64
+skipjack-ofb64
+CKM_SKIPJACK_CFB64
+skipjack-cfb64
+CKM_SKIPJACK_CFB32
+skipjack-cfb32
+CKM_SKIPJACK_CFB16
+skipjack-cfb16
+CKM_SKIPJACK_CFB8
+skipjack-cfb8
+CKM_SKIPJACK_WRAP
+skipjack-wrap
+CKM_SKIPJACK_PRIVATE_WRAP
+skipjack-private-wrap
+CKM_SKIPJACK_RELAYX
+skipjack-relayx
+CKM_KEA_KEY_PAIR_GEN
+kea-key-pair-gen
+CKM_KEA_KEY_DERIVE
+kea-key-derive
+CKM_FORTEZZA_TIMESTAMP
+fortezza-timestamp
+CKM_BATON_KEY_GEN
+baton-key-gen
+CKM_BATON_ECB128
+baton-ecb128
+CKM_BATON_ECB96
+baton-ecb96
+CKM_BATON_CBC128
+baton-cbc128
+CKM_BATON_COUNTER
+baton-counter
+CKM_BATON_SHUFFLE
+baton-shuffle
+CKM_BATON_WRAP
+baton-wrap
+CKM_ECDSA_KEY_PAIR_GEN
+ecdsa-key-pair-gen
+CKM_ECDSA
+ecdsa
+CKM_ECDSA_SHA1
+ecdsa-sha1
+CKM_ECDH1_DERIVE
+ecdh1-derive
+CKM_ECDH1_COFACTOR_DERIVE
+ecdh1-cofactor-derive
+CKM_ECMQV_DERIVE
+ecmqv-derive
+CKM_JUNIPER_KEY_GEN
+juniper-key-gen
+CKM_JUNIPER_ECB128
+juniper-ecb128
+CKM_JUNIPER_CBC128
+juniper-cbc128
+CKM_JUNIPER_COUNTER
+juniper-counter
+CKM_JUNIPER_SHUFFLE
+juniper-shuffle
+CKM_JUNIPER_WRAP
+juniper-wrap
+CKM_FASTHASH
+fasthash
+CKM_AES_KEY_GEN
+aes-key-gen
+CKM_AES_ECB
+aes-ecb
+CKM_AES_CBC
+aes-cbc
+CKM_AES_MAC
+aes-mac
+CKM_AES_MAC_GENERAL
+aes-mac-general
+CKM_AES_CBC_PAD
+aes-cbc-pad
+CKM_BLOWFISH_KEY_GEN
+blowfish-key-gen
+CKM_BLOWFISH_CBC
+blowfish-cbc
+CKM_TWOFISH_KEY_GEN
+twofish-key-gen
+CKM_TWOFISH_CBC
+twofish-cbc
+CKM_DES_ECB_ENCRYPT_DATA
+des-ecb-encrypt-data
+CKM_DES_CBC_ENCRYPT_DATA
+des-cbc-encrypt-data
+CKM_DES3_ECB_ENCRYPT_DATA
+des3-ecb-encrypt-data
+CKM_DES3_CBC_ENCRYPT_DATA
+des3-cbc-encrypt-data
+CKM_AES_ECB_ENCRYPT_DATA
+aes-ecb-encrypt-data
+CKM_AES_CBC_ENCRYPT_DATA
+aes-cbc-encrypt-data
+CKM_DSA_PARAMETER_GEN
+dsa-parameter-gen
+CKM_DH_PKCS_PARAMETER_GEN
+dh-pkcs-parameter-gen
+CKM_X9_42_DH_PARAMETER_GEN
+x9-42-dh-parameter-gen
+CKR_OK
+CKR_CANCEL
+CKR_HOST_MEMORY
+CKR_SLOT_ID_INVALID
+CKR_GENERAL_ERROR
+CKR_FUNCTION_FAILED
+CKR_ARGUMENTS_BAD
+CKR_NO_EVENT
+CKR_NEED_TO_CREATE_THREADS
+CKR_CANT_LOCK
+CKR_ATTRIBUTE_READ_ONLY
+CKR_ATTRIBUTE_SENSITIVE
+CKR_ATTRIBUTE_TYPE_INVALID
+CKR_ATTRIBUTE_VALUE_INVALID
+CKR_DATA_INVALID
+CKR_DATA_LEN_RANGE
+CKR_DEVICE_ERROR
+CKR_DEVICE_MEMORY
+CKR_DEVICE_REMOVED
+CKR_ENCRYPTED_DATA_INVALID
+CKR_ENCRYPTED_DATA_LEN_RANGE
+CKR_FUNCTION_CANCELED
+CKR_FUNCTION_NOT_PARALLEL
+CKR_FUNCTION_NOT_SUPPORTED
+CKR_KEY_HANDLE_INVALID
+CKR_KEY_SIZE_RANGE
+CKR_KEY_TYPE_INCONSISTENT
+CKR_KEY_NOT_NEEDED
+CKR_KEY_CHANGED
+CKR_KEY_NEEDED
+CKR_KEY_INDIGESTIBLE
+CKR_KEY_NOT_WRAPPABLE
+CKR_KEY_UNEXTRACTABLE
+CKR_MECHANISM_INVALID
+CKR_MECHANISM_PARAM_INVALID
+CKR_OBJECT_HANDLE_INVALID
+CKR_OPERATION_ACTIVE
+CKR_OPERATION_NOT_INITIALIZED
+CKR_PIN_INCORRECT
+CKR_PIN_INVALID
+CKR_PIN_LEN_RANGE
+CKR_PIN_EXPIRED
+CKR_PIN_LOCKED
+CKR_SESSION_CLOSED
+CKR_SESSION_COUNT
+CKR_SESSION_HANDLE_INVALID
+CKR_SESSION_READ_ONLY
+CKR_SESSION_EXISTS
+CKR_SESSION_READ_ONLY_EXISTS
+CKR_SIGNATURE_INVALID
+CKR_SIGNATURE_LEN_RANGE
+CKR_TEMPLATE_INCOMPLETE
+CKR_TEMPLATE_INCONSISTENT
+CKR_TOKEN_NOT_PRESENT
+CKR_TOKEN_NOT_RECOGNIZED
+CKR_TOKEN_WRITE_PROTECTED
+CKR_UNWRAPPING_KEY_SIZE_RANGE
+CKR_USER_ALREADY_LOGGED_IN
+CKR_USER_NOT_LOGGED_IN
+CKR_USER_PIN_NOT_INITIALIZED
+CKR_USER_TYPE_INVALID
+CKR_USER_TOO_MANY_TYPES
+CKR_WRAPPED_KEY_INVALID
+CKR_WRAPPED_KEY_LEN_RANGE
+CKR_WRAPPING_KEY_SIZE_RANGE
+CKR_RANDOM_SEED_NOT_SUPPORTED
+CKR_RANDOM_NO_RNG
+CKR_DOMAIN_PARAMS_INVALID
+CKR_BUFFER_TOO_SMALL
+CKR_SAVED_STATE_INVALID
+CKR_INFORMATION_SENSITIVE
+CKR_STATE_UNSAVEABLE
+CKR_CRYPTOKI_NOT_INITIALIZED
+CKR_MUTEX_BAD
+CKR_MUTEX_NOT_LOCKED
+CKR_FUNCTION_REJECTED
+CKS_RO_PUBLIC_SESSION
+CKS_RO_USER_FUNCTIONS
+CKS_RW_PUBLIC_SESSION
+CKS_RW_USER_FUNCTIONS
+CKS_RW_SO_FUNCTIONS
+CKU_SO
+CKU_USER
+CKU_CONTEXT_SPECIFIC
+token-user
+authority
+other-entry
+CKT_X_DISTRUSTED_CERTIFICATE
+x-distrusted-certificate
+CKT_X_PINNED_CERTIFICATE
+x-pinned-certificate
+CKT_X_ANCHORED_CERTIFICATE
+x-anchored-certificate
+CKK_RSA
+CKK_DSA
+CKK_DH
+Beeb
+CKK_EC
+CKK_X9_42_DH
+x9-42-dh
+CKK_KEA
+CKK_GENERIC_SECRET
+generic-secret
+CKK_RC2
+CKK_RC4
+CKK_DES
+CKK_DES2
+des2
+CKK_DES3
+des3
+CKK_CAST
+cast
+CKK_CAST3
+cast3
+CKK_CAST128
+cast128
+CKK_RC5
+CKK_IDEA
+idea
+CKK_SKIPJACK
+skipjack
+CKK_BATON
+baton
+CKK_JUNIPER
+juniper
+CKK_CDMF
+cdmf
+CKK_AES
+CKK_BLOWFISH
+blowfish
+CKK_TWOFISH
+twofish
+CKK_NSS_PKCS8
+nss-pkcs8
+CKC_X_509
+CKC_X_509_ATTR_CERT
+x-509-attr-cert
+CKC_WTLS
+wtls
+CKT_NSS_TRUSTED
+nss-trusted
+CKT_NSS_TRUSTED_DELEGATOR
+nss-trusted-delegator
+CKT_NSS_MUST_VERIFY_TRUST
+nss-must-verify-trust
+CKT_NSS_TRUST_UNKNOWN
+nss-trust-unknown
+CKT_NSS_NOT_TRUSTED
+nss-not-trusted
+CKT_NSS_VALID_DELEGATOR
+nss-valid-delegator
+CKO_DATA
+CKO_CERTIFICATE
+CKO_PUBLIC_KEY
+CKO_PRIVATE_KEY
+private-key
+CKO_SECRET_KEY
+secret-key
+CKO_HW_FEATURE
+hw-feature
+CKO_DOMAIN_PARAMETERS
+domain-parameters
+CKO_MECHANISM
+CKO_NSS_CRL
+nss-crl
+CKO_NSS_SMIME
+nss-smime
+CKO_NSS_TRUST
+nss-trust
+CKO_NSS_BUILTIN_ROOT_LIST
+nss-builtin-root-list
+CKO_NSS_NEWSLOT
+nss-newslot
+CKO_NSS_DELSLOT
+nss-delslot
+CKO_X_TRUST_ASSERTION
+x-trust-assertion
+CKO_X_CERTIFICATE_EXTENSION
+x-certificate-extension
+CKA_CLASS
+class
+CKA_TOKEN
+token
+CKA_PRIVATE
+private
+CKA_LABEL
+label
+CKA_APPLICATION
+application
+CKA_VALUE
+CKA_OBJECT_ID
+object-id
+CKA_CERTIFICATE_TYPE
+certificate-type
+CKA_ISSUER
+CKA_SERIAL_NUMBER
+serial-number
+CKA_AC_ISSUER
+ac-issuer
+CKA_OWNER
+owner
+CKA_ATTR_TYPES
+attr-types
+CKA_TRUSTED
+CKA_CERTIFICATE_CATEGORY
+certificate-category
+CKA_JAVA_MIDP_SECURITY_DOMAIN
+java-midp-security-domain
+CKA_URL
+hash-of-subject-public-key
+CKA_HASH_OF_ISSUER_PUBLIC_KEY
+hash-of-issuer-public-key
+CKA_CHECK_VALUE
+check-value
+CKA_KEY_TYPE
+key-type
+CKA_SUBJECT
+CKA_ID
+CKA_SENSITIVE
+CKA_ENCRYPT
+encrypt
+CKA_DECRYPT
+decrypt
+CKA_WRAP
+CKA_UNWRAP
+unwrap
+CKA_SIGN
+CKA_SIGN_RECOVER
+sign-recover
+CKA_VERIFY
+verify
+CKA_VERIFY_RECOVER
+CKA_DERIVE
+CKA_START_DATE
+start-date
+CKA_END_DATE
+end-date
+CKA_MODULUS
+modulus
+CKA_MODULUS_BITS
+modulus-bits
+CKA_PUBLIC_EXPONENT
+public-exponent
+CKA_PRIVATE_EXPONENT
+private-exponent
+CKA_PRIME_1
+prime-1
+CKA_PRIME_2
+prime-2
+CKA_EXPONENT_1
+exponent-1
+CKA_EXPONENT_2
+exponent-2
+CKA_COEFFICIENT
+coefficient
+CKA_PUBLIC_KEY_INFO
+x-public-key-info
+CKA_PRIME
+CKA_SUBPRIME
+subprime
+CKA_BASE
+CKA_PRIME_BITS
+CKA_SUB_PRIME_BITS
+subprime-bits
+CKA_VALUE_BITS
+value-bits
+CKA_VALUE_LEN
+value-len
+CKA_EXTRACTABLE
+CKA_LOCAL
+local
+CKA_NEVER_EXTRACTABLE
+never-extractable
+CKA_ALWAYS_SENSITIVE
+always-sensitive
+CKA_KEY_GEN_MECHANISM
+key-gen-mechanism
+CKA_MODIFIABLE
+modifiable
+CKA_ECDSA_PARAMS
+ecdsa-params
+CKA_EC_POINT
+ec-point
+CKA_SECONDARY_AUTH
+secondary-auth
+CKA_AUTH_PIN_FLAGS
+auth-pin-flags
+CKA_ALWAYS_AUTHENTICATE
+always-authenticate
+CKA_WRAP_WITH_TRUSTED
+wrap-with-trusted
+CKA_HW_FEATURE_TYPE
+hw-feature-type
+CKA_RESET_ON_INIT
+reset-on-init
+CKA_HAS_RESET
+has-reset
+CKA_PIXEL_X
+pixel-x
+CKA_PIXEL_Y
+pixel-y
+CKA_RESOLUTION
+resolution
+CKA_CHAR_ROWS
+char-rows
+CKA_CHAR_COLUMNS
+char-columns
+CKA_COLOR
+color
+CKA_BITS_PER_PIXEL
+bits-per-pixel
+CKA_CHAR_SETS
+char-sets
+CKA_ENCODING_METHODS
+encoding-methods
+CKA_MIME_TYPES
+mime-types
+CKA_MECHANISM_TYPE
+mechanism-type
+CKA_REQUIRED_CMS_ATTRIBUTES
+required-cms-attributes
+CKA_DEFAULT_CMS_ATTRIBUTES
+default-cms-attributes
+CKA_SUPPORTED_CMS_ATTRIBUTES
+supported-cms-attributes
+CKA_WRAP_TEMPLATE
+CKA_UNWRAP_TEMPLATE
+unwrap-template
+CKA_ALLOWED_MECHANISMS
+allowed-mechanisms
+CKA_NSS_URL
+nss-url
+CKA_NSS_EMAIL
+nss-email
+CKA_NSS_SMIME_INFO
+nss-smime-constant
+CKA_NSS_SMIME_TIMESTAMP
+nss-smime-timestamp
+CKA_NSS_PKCS8_SALT
+nss-pkcs8-salt
+CKA_NSS_PASSWORD_CHECK
+nss-password-check
+CKA_NSS_EXPIRES
+nss-expires
+CKA_NSS_KRL
+nss-krl
+CKA_NSS_PQG_COUNTER
+nss-pqg-counter
+CKA_NSS_PQG_SEED
+nss-pqg-seed
+CKA_NSS_PQG_H
+nss-pqg-h
+CKA_NSS_PQG_SEED_BITS
+nss-pqg-seed-bits
+CKA_NSS_MODULE_SPEC
+nss-module-spec
+CKA_TRUST_DIGITAL_SIGNATURE
+trust-digital-signature
+CKA_TRUST_NON_REPUDIATION
+trust-non-repudiation
+CKA_TRUST_KEY_ENCIPHERMENT
+trust-key-encipherment
+CKA_TRUST_DATA_ENCIPHERMENT
+trust-data-encipherment
+CKA_TRUST_KEY_AGREEMENT
+trust-key-agreement
+CKA_TRUST_KEY_CERT_SIGN
+trust-key-cert-sign
+CKA_TRUST_CRL_SIGN
+trust-crl-sign
+CKA_TRUST_SERVER_AUTH
+trust-server-auth
+CKA_TRUST_CLIENT_AUTH
+trust-client-auth
+CKA_TRUST_CODE_SIGNING
+trust-code-signing
+CKA_TRUST_EMAIL_PROTECTION
+trust-email-protection
+CKA_TRUST_IPSEC_END_SYSTEM
+trust-ipsec-end-system
+CKA_TRUST_IPSEC_TUNNEL
+trust-ipsec-tunnel
+CKA_TRUST_IPSEC_USER
+trust-ipsec-user
+CKA_TRUST_TIME_STAMPING
+trust-time-stamping
+CKA_TRUST_STEP_UP_APPROVED
+trust-step-up-approved
+CKA_CERT_SHA1_HASH
+cert-sha1-hash
+CKA_CERT_MD5_HASH
+cert-md5-hash
+CKA_X_ASSERTION_TYPE
+x-assertion-type
+CKA_X_CERTIFICATE_VALUE
+x-cetrificate-value
+CKA_X_PURPOSE
+x-purpose
+CKA_X_PEER
+x-peer
+CKA_X_DISTRUSTED
+x-distrusted
+CKA_X_CRITICAL
+x-critical
+CKM_WTLS_MASTER_KEY_DERIVE_DH_ECC
+CKM_WTLS_SERVER_KEY_AND_MAC_DERIVE
+wtls-server-key-and-mac-derive
+CKM_WTLS_CLIENT_KEY_AND_MAC_DERIVE
+wtls-client-key-and-mac-derive
+CKR_KEY_FUNCTION_NOT_PERMITTED
+CKR_SESSION_PARALLEL_NOT_SUPPORTED
+CKR_SESSION_READ_WRITE_SO_EXISTS
+CKR_UNWRAPPING_KEY_HANDLE_INVALID
+CKR_UNWRAPPING_KEY_TYPE_INCONSISTENT
+CKR_USER_ANOTHER_ALREADY_LOGGED_IN
+CKR_WRAPPING_KEY_HANDLE_INVALID
+CKR_WRAPPING_KEY_TYPE_INCONSISTENT
+CKR_CRYPTOKI_ALREADY_INITIALIZED
+CKA_HASH_OF_SUBJECT_PUBLIC_KEY
+p11_constant_resolve
+p11_constant_reverse
+lookup_info
+conf
+P11_KIT_STRICT
+P11_KIT_DEBUG
+Supported debug values:
+:;, 	
+(p11-kit:%d) 
+proxy
+common/dict.c
+hash_func
+equal_func
+string_one
+string_two
+to_ulong
+ulong_one
+ulong_two
+to_int
+int_one
+int_two
+p11_dict_intptr_equal
+p11_dict_intptr_hash
+p11_dict_ulongptr_equal
+p11_dict_ulongptr_hash
+p11_dict_str_equal
+p11_dict_new
+p11_dict_set
+lexer != NULL
+lexer->filename != NULL
+%s: [%s]: %s
+%s: BEGIN ...: %s
+common/lexer.c
+lexer->remaining > 0
+-----END 
+invalid field line: no colon
+end - lexer->at <= lexer->remaining
+invalid pem block: no ending line
+(end - lexer->at) + 1 <= lexer->remaining
+invalid section header: missing braces
+lexer->tok.section.name != NULL
+lexer->tok.field.name && lexer->tok.field.value
+p11_lexer_msg
+p11_lexer_done
+p11_lexer_next
+p11_lexer_next
+p11_lexer_init
+p11-kit: %s
+message: %s
+Unknown error
+built != NULL
+common/path.c
+at + num < len
+.config
+XDG_CONFIG_HOME
+parent != NULL
+prefix != NULL
+couldn't lookup home directory for user %d
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.-_
+p11_path_canon
+p11_path_prefix
+p11_path_parent
+p11_path_build
+p11_path_build
+p11_path_absolute
+p11_path_expand
+p11_path_base
+common/url.c
+value <= end
+skip != NULL
+result != NULL
+p11_url_encode
+p11_url_decode
+p11_url_decode
+0123456789abcdef
+usage: %s command <args>...
+Common %s commands are:
+  %-15s  %s
+  -%c, --%s
+  --%s
+  -%c
+%s<%s>
+%.*s
+common/tool.c
+list-modules
+no command specified
+--verbose
+P11_KIT_DEBUG=tool
+--quiet
+P11_KIT_DEBUG=
+--help
+unknown global option: %s
+unknown global option: -%c
+See '%s <command> --help' for more information
+longopts[i].has_arg != optional_argument
+'%s' is not a valid command. See '%s --help'
+p11_tool_getopt
+p11_tool_getopt
+;*3$"
+e7f24f963607914e960bc63385e33c01d49e6e.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.data.rel.ro
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

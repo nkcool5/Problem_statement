@@ -1,0 +1,2551 @@
+/lib64/ld-linux-x86-64.so.2
+.KCE
+$g Oq~
+libgio-2.0.so.0
+g_object_get_data
+g_setenv
+g_intern_static_string
+g_io_channel_unref
+g_signal_new
+g_build_filename
+g_list_delete_link
+g_direct_hash
+g_list_append
+g_variant_type_checked_
+g_variant_builder_add_value
+g_string_new
+g_malloc
+g_once_init_enter
+_ITM_deregisterTMCloneTable
+g_object_unref
+g_key_file_get_boolean
+g_spawn_command_line_async
+g_list_free_full
+g_io_channel_write_chars
+g_option_context_free
+g_strsplit
+g_variant_is_of_type
+g_hash_table_remove
+g_signal_accumulator_first_wins
+g_file_get_contents
+g_signal_handlers_disconnect_matched
+g_variant_unref
+g_unlink
+g_str_equal
+g_variant_builder_end
+g_key_file_new
+g_hash_table_remove_all
+g_once_init_leave
+g_strjoin
+g_strjoinv
+g_object_set_data_full
+g_printerr
+g_key_file_get_string_list
+g_hash_table_lookup
+g_mkdir_with_parents
+g_type_name
+g_value_set_string
+g_list_length
+g_get_user_cache_dir
+g_get_home_dir
+g_set_error
+g_list_last
+g_idle_add
+g_type_class_adjust_private_offset
+g_assertion_message_expr
+g_variant_builder_add
+g_return_if_fail_warning
+g_random_int
+g_strerror
+g_list_find
+g_source_attach
+g_string_free
+g_variant_new_int32
+g_object_new
+g_hash_table_iter_next
+g_variant_builder_init
+g_direct_equal
+g_file_error_quark
+g_strcmp0
+g_shell_quote
+g_ascii_table
+g_strdup_printf
+g_type_class_peek_parent
+g_spawn_async
+g_hash_table_get_keys
+g_hash_table_new_full
+__gmon_start__
+g_object_ref
+g_hash_table_size
+g_array_append_vals
+g_source_remove
+g_variant_get_boolean
+g_param_spec_string
+g_strv_length
+g_io_channel_unix_new
+g_key_file_load_from_file
+g_path_is_absolute
+g_type_interface_peek
+g_source_set_callback
+g_main_loop_new
+g_main_loop_run
+g_type_register_static_simple
+g_hash_table_insert
+g_shell_parse_argv
+g_strfreev
+g_find_program_in_path
+g_object_class_install_property
+g_string_append_printf
+g_log
+g_hash_table_unref
+g_io_channel_flush
+g_key_file_free
+g_variant_new_boolean
+g_variant_new_string
+g_list_remove
+g_variant_iter_free
+g_variant_new_object_path
+g_hash_table_destroy
+g_key_file_get_string
+g_list_free
+g_str_hash
+g_string_append
+g_strchug
+g_realloc
+g_type_check_instance_is_a
+g_str_has_prefix
+g_option_context_new
+g_variant_iter_loop
+g_strchomp
+g_variant_new
+_Jv_RegisterClasses
+g_variant_get
+g_malloc0
+g_object_notify
+g_clear_error
+g_strdup
+g_hash_table_iter_init
+g_signal_emit
+g_signal_connect_data
+g_getenv
+Borrow or rob
+g_main_loop_quit
+g_snprintf
+g_child_watch_add
+g_key_file_has_key
+g_spawn_command_line_sync
+g_strdupv
+_ITM_registerTMCloneTable
+g_timeout_add
+g_error_matches
+g_file_test
+g_hash_table_foreach
+g_type_add_interface_static
+g_signal_accumulator_true_handled
+g_string_insert_c
+g_variant_builder_open
+_fini
+g_dbus_connection_register_object
+g_socket_receive_from
+g_socket_send_to
+g_socket_get_fd
+g_bus_own_name
+g_dbus_error_quark
+g_file_enumerator_get_type
+g_dbus_method_invocation_return_value
+g_file_enumerate_children_finish
+g_bus_unown_name
+g_inet_socket_address_new
+g_file_info_get_name
+g_resolver_lookup_by_name
+g_inet_address_equal
+g_resolver_free_addresses
+g_file_enumerator_next_files_finish
+g_socket_get_type
+g_inet_address_new_any
+g_inet_socket_address_get_port
+g_dbus_node_info_unref
+g_unix_socket_address_new
+g_dbus_connection_signal_subscribe
+g_socket_get_family
+g_socket_new
+g_socket_create_source
+g_file_new_for_path
+g_bus_get_sync
+g_dbus_connection_call_sync
+g_dbus_connection_signal_unsubscribe
+g_file_set_attributes_from_info
+g_inet_address_get_family
+g_file_info_new
+g_file_info_set_attribute_uint32
+g_file_make_directory
+g_dbus_node_info_new_for_xml
+g_socket_get_remote_address
+g_socket_listen
+g_dbus_connection_unregister_object
+g_inet_address_new_from_bytes
+g_resolver_get_default
+g_file_enumerate_children_async
+g_file_get_type
+g_inet_socket_address_get_type
+g_socket_accept
+g_socket_close
+g_dbus_method_invocation_return_error
+g_inet_address_get_is_loopback
+g_inet_address_get_is_link_local
+g_dbus_connection_emit_signal
+g_file_enumerator_next_files_async
+g_inet_address_to_string
+g_inet_socket_address_get_address
+g_io_error_quark
+g_socket_bind
+libgobject-2.0.so.0
+g_type_class_add_private
+g_type_check_instance_cast
+g_type_check_class_cast
+g_type_instance_get_private
+libglib-2.0.so.0
+g_io_channel_set_buffered
+g_key_file_error_quark
+g_get_host_name
+g_list_copy
+g_io_channel_read_chars
+g_io_add_watch
+g_timer_elapsed
+g_list_nth_data
+g_option_context_parse
+g_string_assign
+g_option_context_add_main_entries
+g_strsignal
+g_io_channel_set_encoding
+g_log_default_handler
+g_array_sized_new
+g_spawn_sync
+g_log_set_default_handler
+g_vsnprintf
+g_pattern_match_simple
+g_timer_new
+g_file_error_from_errno
+g_array_sort_with_data
+libXdmcp.so.6
+XdmcpWrap
+XdmcpDecrementKey
+XdmcpUnwrap
+XdmcpIncrementKey
+libxcb.so.1
+xcb_connection_has_error
+xcb_disconnect
+xcb_connect_to_display_with_auth_info
+g_key_file_get_groups
+g_key_file_get_keys
+g_key_file_get_value
+g_key_file_set_value
+g_dir_open
+g_dir_read_name
+g_dir_close
+g_list_sort
+g_str_has_suffix
+g_get_system_data_dirs
+g_get_system_config_dirs
+g_path_get_basename
+g_get_current_dir
+g_key_file_set_string
+g_key_file_set_string_list
+g_key_file_set_integer
+g_key_file_get_integer
+g_key_file_set_boolean
+g_strv_get_type
+g_param_spec_boxed
+g_param_spec_boolean
+g_param_spec_uint64
+g_param_spec_int
+g_variant_get_type_string
+g_variant_get_uint64
+g_variant_dup_string
+g_variant_dup_strv
+g_list_insert_sorted
+g_file_monitor
+g_value_set_int
+g_file_get_path
+g_value_set_uint64
+g_value_set_boxed
+g_value_set_boolean
+g_key_file_to_data
+g_file_set_contents
+libgcrypt.so.20
+gcry_malloc_secure
+gcry_realloc
+gcry_free
+libpam.so.0
+pam_open_session
+pam_close_session
+pam_set_item
+pam_get_item
+pam_setcred
+pam_start
+pam_strerror
+pam_acct_mgmt
+pam_getenvlist
+pam_chauthtok
+pam_end
+pam_authenticate
+pam_putenv
+pam_getenv
+libpthread.so.0
+write
+read
+fsync
+__errno_location
+fcntl
+sigaction
+waitpid
+libc.so.6
+setuid
+fopen
+getpwent
+pipe
+dcgettext
+getpwuid
+initgroups
+strncpy
+fork
+__stack_chk_fail
+_exit
+getpid
+kill
+chmod
+setutxent
+endpwent
+strtol
+clearenv
+execlp
+getpwnam
+calloc
+strlen
+sigemptyset
+chdir
+dup2
+__fprintf_chk
+setresgid
+memcpy
+fclose
+setresuid
+ioctl
+pututxline
+getuid
+execve
+execvp
+gethostname
+chown
+gettimeofday
+rename
+geteuid
+mlockall
+endutxent
+updwtmp
+setsid
+access
+setgid
+strcmp
+__libc_start_main
+setpwent
+_edata
+__bss_start
+GCRYPT_1.6
+GLIBC_2.2.5
+LIBPAM_1.0
+GLIBC_2.14
+GLIBC_2.4
+GLIBC_2.3.4
+%zn#
+%rn#
+%jn#
+%bn#
+%Zn#
+%Rn#
+%Jn#
+%Bn#
+%:n#
+%2n#
+%*n#
+%"n#
+%zm#
+%rm#
+%jm#
+%bm#
+%Zm#
+%Rm#
+%Jm#
+%Bm#
+%:m#
+%2m#
+%*m#
+%"m#
+%zl#
+%rl#
+%jl#
+%bl#
+%Zl#
+%Rl#
+%Jl#
+%Bl#
+%:l#
+%2l#
+%*l#
+%"l#
+%zk#
+%rk#
+%jk#
+%bk#
+%Zk#
+%Rk#
+%Jk#
+%Bk#
+%:k#
+%2k#
+%*k#
+%"k#
+%zj#
+%rj#
+%jj#
+%bj#
+%Zj#
+%Rj#
+%Jj#
+%Bj#
+%:j#
+%2j#
+%*j#
+%"j#
+%zi#
+%ri#
+%ji#
+A Santa lives evil at NASA
+%bi#
+%Zi#
+%Ri#
+%Ji#
+%Bi#
+%:i#
+%2i#
+%*i#
+%"i#
+%zh#
+%rh#
+%jh#
+%bh#
+%Zh#
+%Rh#
+%Jh#
+%Bh#
+%:h#
+%2h#
+%*h#
+%"h#
+%zg#
+%rg#
+%jg#
+%bg#
+%Zg#
+%Rg#
+%Jg#
+%Bg#
+%:g#
+%2g#
+%*g#
+%"g#
+%zf#
+%rf#
+%jf#
+%bf#
+%Zf#
+%Rf#
+%Jf#
+%Bf#
+%:f#
+%2f#
+%*f#
+%"f#
+%ze#
+%re#
+%je#
+%be#
+%Ze#
+%Re#
+%Je#
+%Be#
+%:e#
+%2e#
+%*e#
+%"e#
+%zd#
+%rd#
+%jd#
+%bd#
+%Zd#
+%Rd#
+%Jd#
+%Bd#
+%:d#
+%2d#
+%*d#
+%"d#
+%*Y#
+AWAVAUATUS1
+t$ dH
+t$pH
+D$xcH
+D$HH
+D$PH
+D$XH
+D$8H
+D$<H
+D$,H
+|$`H
+L$hH
+T$ H
+t$,H
+D$hH
+T$`H
+=9a#
+\$HH
+\$HH
+\$PH
+\$PH
+\$XH
+\$XH
+|$`H
+=dZ#
+=6Z#
+[]A\A]A^A_
+$tXH
+St:H
+AUAT1
+([]A\A]
+ATUSH
+ []A\
+ATUSH
+D$0H
+[]A\
+ATUSH
+D$0H
+[]A\
+ATUSH
+D$0H
+[]A\
+ATUSH
+ []A\
+ATUSH
+D$@H
+dH34%(
+ []A\
+3PE1
+3PE1
+ATUH
+5g>#
+[]A\
+ATUI
+t`f.
+@0]A\
+ATUI
+[]A\
+ATUSH
+[]A\
+[]A\
+ATU1
+Beeb
+5z9#
+ATUI
+t+[L
+]A\1
+]A\1
+t3USH
+ATPA
+ []A\
+dH34%(
+AVAUI
+ATUSH
+ []A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+tcAUATI
+[]A\A]
+AWAVI
+AUATI
+|$ H
+|$ D
+t$ L
+[]A\A]A^A_
+|$ H
+|$ D
+t$ L
+[]A\A]A^A_
+ATUSH
+5),#
+t$ H
+[]A\
+AUATA
+[]A\A]
+ATUH
+[]A\
+ATUA
+|$ H
+|$P1
+|$PH
+|$ H
+t$PL
+[]A\
+AWAVAUATUSH
+D$X1
+D$HH)
+D$HH
+L$XdH3
+h[]A\A]A^A_
+D$8H
+t$@H
+t$@H
+t'</
+L$P1
+D$PH
+t$@H
+t$@H
+5T"#
+H;D$@
+t$@H
+t$@H
+t$@H
+D$ L
+D$ H
+L$ L
+D$(L
+L$ H
+D$ L
+D$ L
+L$ L
+AUATI
+[]A\A]
+[]A\A]
+ATUSH
+[]A\
+t[AUATI
+[]A\A]
+t;ATUH
+ATUSH
+|$ 1
+|$PH
+|$ H
+t$PL
+God A red nugget A fat egg under a dog
+[]A\
+AWAVAUATUSH
+([]A\A]A^A_
+ATU1
+dH34%(
+[]A\
+P H9
+ATUI
+[]A\
+AVAUATUS
+[]A\A]A^
+[]A\A]A^
+ATUI
+t1SATE1
+ []A\
+D$(1
+L$ H
+D$ H
+T$(dH3
+D$(1
+L$ H
+D$ H
+D$(dH3
+ATUH
+[]A\1
+[]A\
+AUATUSH
+[]A\A]
+AUATI
+ZYu!H
+[]A\A]
+|$@H
+|$@H
+|$@H
+|$@H
+AVAUM
+ATUH
+[]A\A]A^
+AVAUATUH
+[]A\A]A^
+ATUH
+[]A\
+AUATH
+([]A\A]
+AUAT
+d$PL
+([]A\A]
+AVAUAT
+[]A\A]A^A_
+AWAVAUATI
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+ATUL
+d$ H
+[]A\
+[]A\H
+AUAT
+l$0H
+tWH;
+[]A\A]
+[]A\A]
+[]A\
+AWAVI
+AUAT
+tII9
+[]A\A]A^A_
+ATUI
+[]A\H
+AWAVAUATA
+[A\A]A^A_]
+AUATI
+[]A\A]1
+[]A\A]
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+ATUI
+[]A\
+AUAT1
+D$(1
+D$PH
+D$(dH3
+8[]A\A]
+3PE1
+3PE1
+AVAUI
+ATUI
+D$(1
+D$8H
+L$ H
+\$(dH3
+0[]A\A]A^
+ATUSH
+D$(1
+t$(dH34%(
+0[]A\
+T$ 1
+D$ H
+D$(A
+D$PH
+ATUStWH
+[]A\
+ []A\
+ATUSH
+D$0H
+[]A\
+ATUSH
+D$0H
+[]A\
+ATUSH
+D$0H
+[]A\
+p<tnA
+Hcp8
+Hct$
+tKAVAUI
+ATUA
+[]A\A]A^
+tVATUH
+t3USH
+AWAVAUATUSH
+D$81
+L$0H
+T$(H
+Hcr8H
+T$8dH3
+H[]A\A]A^A_
+t$$H
+D$0L
+D$(H
+t[USH
+3PE1
+3PE1
+3PE1
+AVAUI
+ATUI
+]A\A]A^
+AUATA
+D$ t
+[]A\A]
+txAUATI
+[]A\A]
+[]A\A]
+ATUSH
+[]A\H
+D$81
+D$8dH3
+AUATI
+[]A\A]
+AWAVAUATUSH
+([]A\A]A^A_
+AUATI
+[]A\A]
+[]A\A]
+alula
+AUATUSH
+([]A\A]
+ATUH
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+ATUI
+[]A\H
+ATUI
+@0]A\
+StTH
+[]A\
+ATUStGH
+[]A\
+t;ATUH
+AUATI
+[]A\A]
+AWAVI
+AUATUSH
+[]A\A]A^A_
+AVAUI
+ATUI
+H;h(u
+t&I9
+C([]A\A]A^
+t;ATUI
+E([]A\
+Degas are we not drawn onward no In union drawn onward to new eras aged
+ATUI
+[]A\
+AUATA
+[]A\A]
+ATUH
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+H;B(
+AVAUATUI
+]A\A]A^
+]A\A]A^
+AUATUSH
+t	H;
+H;X8t
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+AVAUATUH
+t	H;
+[]A\A]A^
+t	H;
+[]A\A]A^
+[]A\A]A^H
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+AWAVA
+AUATI
+[]A\A]A^A_
+ATUStwH
+|$8H
+[]A\
+AVAUATUH
+]A\A]A^
+[]A\A]A^
+[]A\A]A^
+|$8H
+[]A\A]A^
+AUATUSH
+[]A\A]
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+ATUH
+[]A\
+[]A\
+[]A\
+[]A\
+AVAUATUH
+D$ H
+Y^H;X(
+x8H9
+x8H9
+t	H9
+[]A\A]A^
+[]A\A]A^
+AVAUATUH
+]A\A]A^
+AVAU
+ATUSH
+|$8H
+[]A\A]A^
+|$8H
+D$8H
+AVAUATUI
+[]A\A]A^H
+=Ft"
+ATUI
+t	H;
+[]A\
+@ [H
+AWAVAUATI
+]A\A]A^A_
+ATUSH
+[]A\
+ATUSH
+[]A\
+ATUH
+[]A\
+AUATUSH
+[]A\A]
+AWAVAUATUSH
+C E1
+=`i"
+[]A\A]A^A_
+AUATUSH
+[]A\A]
+[]A\A]
+ZYt%
+=Eb"
+ATUSH
+[]A\
+ATUI
+[]A\
+AVAUATUI
+[]A\A]A^H
+={_"
+ATUH
+[]A\
+|mE1
+[]A\
+AUATUSH
+[]A\A]
+=OZ"
+C ZYH
+[]A\
+ATUH
+[]A\
+C []H
+AVAUATUI
+=eU"
+]A\A]A^
+ATUH
+[]A\
+ATUH
+[]A\
+\$ H
+[]A\
+[]A\
+D$ E1
+D$ H
+AWAV
+AUATUSH
+E E1
+([]A\A]A^A_
+AUATI
+[]A\A]
+=CN"
+AUATUSH
+[]A\A]
+[]A\A]
+=-K"
+AWAVAUATI
+=+J"
+[]A\A]A^A_
+AUATI
+[]A\A]
+[]A\A]
+ATUI
+[]A\
+ATUA
+[]A\
+ATUI
+[]A\
+t{USH
+->D"
+ATUH
+[]A\
+[]A\
+HcT$
+HcD$
+HcT$
+AWAVAUATUSH
+D$81
+L$8dH3
+H[]A\A]A^A_
+D$$D
+t$ D
+l$4A
+D$ L
+D$(H
+D$0H
+AVAUATUSH
+Ic|$XI
+D$`~LH
+pXE9
+[]A\A]A^
+-]:"
+ATUI
+[]A\1
+[]A\1
+AUATI
+[]A\A]
+t;ATUI
+[]A\
+t3USH
+t3USH
+tKAUATI
+[]A\A]
+tfATUH
+[]A\
+t;USH
+t;USH
+tkAUATA
+[]A\A]
+t;USH
+t~ATU1
+Do nine men interpret Nine men I nod
+[]A\
+[]A\
+tCUSH
+ATUSH
+PXD9
+~*E1
+[]A\
+AVAUATUSH
+[]A\A]A^
+H9,$w
+tSSH
+tSSH
+tSSH
+Hct$
+HcD$
+AUAT
+([]A\A]
+Hct$
+AVAUATU1
+D$(1
+v/H9
+t$(dH34%(
+0[]A\A]A^
+Hc|$
+D9d$
+ATUI
+[]A\
+AWAVAUATA
+[]A\A]A^A_
+\$ H
+t$TH
+H9l$XH
+D$hH
+D$hI
+T$`1
+D$`H
+T$(1
+\$ H
+t$P1
+D$0H
+t$TI
+t$LL
+|$ L
+T$(H
+t$LH
+D$0~
+|$0L
+T$8H
+t$ L
+T$(H
+AWAVI
+AUATI
+tyE1
+[]A\A]A^A_
+ATU1
+[]A\
+ATUI
+[]A\
+AUATI
+[]A\A]
+AVAUI
+ATUH
+[]A\A]A^
+[]E1
+AWAVAUATL
+[]A\A]A^A_
+AUATUSH
+D$(1
+I;uHH
+D$ H
+D$ H
+\$(dH3
+8[]A\A]
+@ [H
+AUATUSH
+[]A\A]
+C E1
+Ai|$X
+D$\H
+[]A\A]
+]A\A]
+]A\A]
+ATUH
+[]A\
+St"H
+tFUSH
+t3USH
+t[US
+t3USH
+t3USH
+3PE1
+AUAT1
+[]A\A]
+AVAUI
+ATUA
+[]A\A]A^
+]A\A]A^
+t3USH
+St"H
+tSUS
+AWAVI
+AUATI
+[]A\A]A^A_
+]A\A]A^A_
+[]A\
+t[AUATI
+[]A\A]
+t3USH
+t3USH
+t[AUATI
+[]A\A]
+AWAVA
+AUATM
+T$PL
+[]A\A]A^A_
+AWAVI
+AUATI
+([]A\A]A^A_
+dH34%(
+St*H
+AWAVAUATUSH
+D$H1
+L$8H
+T$(H
+t$ H
+|$8E1
+D$(H9D$0
+t$(I
+D$0H
+|$ H
+T$0H
+t$(H
+T$0H
+|$ H
+t$(H
+T$0H
+|$ H
+t$(H
+D$0H
+|$ D
+D$0I
+@(D	
+T$0A
+D$Af
+L$HdH3
+X[]A\A]A^A_
+V0H9
+D$Af
+D$Af
+H9L$
+ATUSH
+[]A\
+ATUE1
+ []A\
+@([H
+St"H
+AUATUSH
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+C(E1
+C(E1
+t3USH
+t[US
+t3USH
+t3USH
+t3USH
+t3USH
+tKATUH
+[]A\1
+t3USH
+AUATI
+[]A\A]
+ATUSH
+D$0P$B
+[]A\
+ATUH
+[]A\
+t3USH
+t3USH
+E0`-B
+tKATUH
+[]A\
+AUATI
+D$(1
+L$(dH3
+8[]A\A]
+AUAT
+[]A\A]
+tKUSH
+AVAUATUH
+[]A\A]A^
+ATUI
+[]A\
+ATUH
+[]A\
+v$fA
+AUATUSH
+([]A\A]
+AWAV
+AUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+ATUS
+[]A\
+AVAUATUSH
+<$fD
+ []A\A]A^
+tPE1
+3PE1
+ATUH
+[]A\
+AUATI
+[]A\A]
+AVAUI
+ATUI
+]A\A]A^
+AVAUA
+ATUI
+t0[H
+]A\A]A^
+AVAUI
+ATUH
+[]A\A]A^
+AWAVE1
+AUATI
+L$XH
+t$PdH
+D$XH
+|$PI
+l$PH
+dH34%(
+[]A\A]A^A_
+|$PH
+E4fD9
+D$`1
+D$01
+D$(M
+D$ht
+D$ H
+D$<f
+K E1
+T$PL
+l$<H
+fA9E4u
+|$(H
+|$pI
+D$pA
+T$>I
+D$ M
+D$(L
+t$PL
+L$PL
+D$(H)
+E(AXAYL
+D$ H
+D$<f
+D$0H
+D$>f
+t$PL
+L$PL
+G(^_
+T$pH
+t3USH
+t3USH
+t3USH
+t3USH
+@0`bB
+=ez!
+=xj!
+AWAVI
+AUATI
+D$(I
+L$ I
+[]A\A]A^A_
+8[]A\A]A^A_
+AWAVI
+AUATI
+5Ie!
+([]A\A]A^A_
+AUATI
+[]A\A]
+AWAVAUATUSH
+([]A\A]A^A_
+5Fo!
+ []A\
+ []A\
+5En!
+=aj!
+ATUH
+=Si!
+@0]A\
+=mh!
+5Bh!
+ATUI
+[]A\
+ATUL
+\$0dH
+|$(H
+52e!
+D$(H
+[]A\
+AVAUATUH
+D$(1
+l$(L
+D$PH
+\$(dH3
+0[]A\A]A^
+5'^!
+AWAVA
+AUATI
+|$(H
+D$(u2H
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUATUI
+[]A\A]A^
+ATUH
+[]A\
+Cx[]A\
+ATUI
+D$0H
+[]A\
+=5X!
+AUATI
+D$8H
+([]A\A]
+|$0H
+AWAVAUATUSH
+D$(1
+\$0H
+L$(dH3
+8[]A\A]A^A_
+D$8H
+t$ H
+ATUI
+[]A\
+AVAUATUSL
+l$@dH
+5oQ!
+[]A\A]A^
+AWAVAUATI
+t$,H
+l$PdH
+D$X1
+D$(9E
+t$HH
+t$@H
+t$8H
+t$0H
+|$0I
+|$8I
+|$@I
+D$@H
+|$ H
+D$ I
+t$,I
+5?I!
+t?H;
+D$XdH3
+h[]A\A]A^A_
+D$PH
+l$0A
+AUATUSH
+([]A\A]
+D$0H
+AUATI
+([]A\A]
+[]A\A]
+ATUH
+u []A\H
+u	[]A\
+@p[H
+ATUH
+u []A\H
+u	[]A\
+dH34%(
+AUATA
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+([]A\A]
+AUATI
+[]A\A]
+AUAT1
+[]A\A]
+AWAVA
+AUATL
+[]A\A]A^A_
+username != NULL
+user != NULL
+user_get_xsession
+user_set_xsession
+user_get_language
+user_set_language
+user_get_shell
+user_get_home_directory
+user_get_gid
+user_get_uid
+user_get_name
+accounts_get_user_by_name
+GetSessionForCookie
+org.freedesktop.ConsoleKit
+Failed to get system bus: %s
+(a(sv))
+OpenSessionWithParameters
+Failed to open CK session: %s
+Opened ConsoleKit session %s
+parameters != NULL
+Lock
+cookie != NULL
+Locking ConsoleKit session %s
+Unlock
+Activate
+CloseSession
+Ending ConsoleKit session %s
+GetXDGRuntimeDir
+org.freedesktop.ConsoleKit.Manager
+/org/freedesktop/ConsoleKit/Manager
+Error getting ConsoleKit session: %s
+org.freedesktop.ConsoleKit.Session
+Error locking ConsoleKit session: %s
+Error unlocking ConsoleKit session: %s
+Unlocking ConsoleKit session %s
+Error activating ConsoleKit session: %s
+Activating ConsoleKit session %s
+Error ending ConsoleKit session: %s
+ConsoleKit.Manager.CloseSession() returned false
+Error getting XDG_RUNTIME_DIR from ConsoleKit: %s
+ConsoleKit XDG_RUNTIME_DIR is %s
+Getting XDG_RUNTIME_DIR from ConsoleKit for session %s
+ck_get_xdg_runtime_dir
+ck_close_session
+ck_activate_session
+ck_unlock_session
+ck_lock_session
+ck_open_session
+seat-added
+seat-removed
+Display manager stopped
+DisplayManager
+xlocal
+xremote
+unity
+!manager->priv->stopping
+manager != NULL
+Stopping display manager
+Stopping Plymouth, no displays replace it
+display_manager_stop
+display_manager_start
+display_manager_add_seat
+DisplayServer
+DisplayServer %s: 
+DisplayServer: 
+display_server_get_is_stopping
+display_server_stop
+display_server_get_is_ready
+display_server_start
+display_server_get_vt
+display_server_get_name
+display_server_set_name
+disconnected
+create-session
+start-session
+Active username
+property
+greeter.c
+Error writing to greeter: %s
+Greeter requests session %s
+User %s authorized
+true
+false
+1.18.3
+Greeter start authentication
+got-messages
+authentication-complete
+autologin-user
+Guest account is disabled
+%s.desktop
+remote-sessions-directory
+LightDM
+X-LightDM-PAM-Service
+Desktop Entry
+Continue authentication
+Eleele
+Cancel authentication
+Greeter sets language %s
+lock-memory
+greeter != NULL
+%s:%d: invalid %s id %u for "%s" of type '%s' in '%s'
+Not enough space for int, need %zu, got %zu
+Payload length of %u octets too long
+Failed to flush data to greeter: %s
+Not enough space for string, need %u, got %zu
+Greeter requests data directory for user %s
+Prompt greeter with %d message(s)
+Greeter requests default session
+Ignoring start session request, user is not authorized
+Authenticate result for user %s: %s
+User %s authorized, but no account of that name exists
+Greeter connected version=%s resettable=%s
+Greeter closed communication channel
+Error reading from greeter: %s
+Greeter start authentication for %s
+Greeter start authentication for guest account
+Greeter start authentication for remote session %s
+Greeter start authentication for remote session %s as user %s
+Failed to load session file %s: %s
+Array length of %u elements too long
+Ignoring set language request for guest user
+Ignoring set language request, user is not authorized
+Unknown message from greeter: %d
+Failed to set encoding on to greeter channel to binary: %s
+Failed to set encoding on from greeter channel to binary: %s
+greeter->priv->to_greeter_input < 0
+greeter->priv->from_greeter_output < 0
+greeter_get_active_username
+greeter_get_start_session
+greeter_get_resettable
+greeter_take_authentication_session
+greeter_get_guest_authenticated
+greeter_reset
+greeter_set_hint
+greeter_clear_hints
+greeter_set_allow_guest
+greeter_set_pam_services
+greeter_set_file_descriptors
+GreeterSession
+Failed to create pipes: %s
+LIGHTDM_TO_SERVER_FD
+LIGHTDM_FROM_SERVER_FD
+session != NULL
+greeter_session_get_greeter
+create-greeter
+GreeterSocket
+socket != NULL
+socket->priv->socket == NULL
+Failed to accept greeter connection: %s
+Failed to set permissions on greeter socket %s: %s
+greeter_socket_start
+guest-account-script
+%s add
+Guest account %s setup
+%s remove %s
+Opening guest account with command '%s'
+Error running guest account setup script '%s': %s
+Guest account setup script returns %d: %s
+Guest account setup script didn't return a username
+Closing guest account %s with command '%s'
+Error running guest account cleanup script '%s': %s
+Guest account cleanup script returns %d
+Failed to use bus name org.freedesktop.DisplayManager, do you have appropriate permissions?
+Failed to get D-Bus connection
+Seat %s changes active session to %s
+org.freedesktop.DisplayManager
+Failed to emit %s signal on %s: %s
+org.freedesktop.DBus.Properties
+Failed to emit PropertiesChanged signal: %s
+/org/freedesktop/DisplayManager
+org.freedesktop.DisplayManager.Seat
+/org/freedesktop/DisplayManager/Session%d
+Registering session with bus path %s
+Failed to register user session: %s
+/org/freedesktop/DisplayManager/Seat%d
+Registering seat with bus path %s
+<node>  <interface name='org.freedesktop.DisplayManager'>    <property name='Seats' type='ao' access='read'/>    <property name='Sessions' type='ao' access='read'/>    <method name='AddSeat'>      <arg name='type' direction='in' type='s'/>      <arg name='properties' direction='in' type='a(ss)'/>      <arg name='seat' direction='out' type='o'/>    </method>    <method name='AddLocalXSeat'>      <arg name='display-number' direction='in' type='i'/>      <arg name='seat' direction='out' type='o'/>    </method>    <signal name='SeatAdded'>      <arg name='seat' type='o'/>    </signal>    <signal name='SeatRemoved'>      <arg name='seat' type='o'/>    </signal>    <signal name='SessionAdded'>      <arg name='session' type='o'/>    </signal>    <signal name='SessionRemoved'>      <arg name='session' type='o'/>    </signal>  </interface></node>
+Failed to register display manager: %s
+Unable to load keys from %s: %s
+Starting VNC server on TCP/IP port %d
+Can't start VNC server, Xvnc is not in the path
+<node>  <interface name='org.freedesktop.DisplayManager.Seat'>    <property name='CanSwitch' type='b' access='read'/>    <property name='HasGuestAccount' type='b' access='read'/>    <property name='Sessions' type='ao' access='read'/>    <method name='SwitchToGreeter'/>    <method name='SwitchToUser'>      <arg name='username' direction='in' type='s'/>      <arg name='session-name' direction='in' type='s'/>    </method>    <method name='SwitchToGuest'>      <arg name='session-name' direction='in' type='s'/>    </method>    <method name='Lock'/>    <signal name='SessionAdded'>      <arg name='session' type='o'/>    </signal>    <signal name='SessionRemoved'>      <arg name='session' type='o'/>    </signal>  </interface></node>
+<node>  <interface name='org.freedesktop.DisplayManager.Session'>    <property name='Seat' type='o' access='read'/>    <property name='UserName' type='s' access='read'/>    <method name='Lock'/>  </interface></node>
+Starting XDMCP server on UDP/IP port %d
+Loading properties from config section %s
+New seat added from logind: %s
+Seat %s has property CanMultiSession=no
+Seat %s changes graphical state to %s
+Seat %s added from logind without graphical output
+Caught %s signal, shutting down
+Run as unprivileged user, skipping things that require root access
+Directory to store running state
+Directory to cache information
+Starting Light Display Manager %s, UID=%i PID=%i
+Run '%s --help' to see a full list of available command line options.
+Only root can run Light Display Manager.  To run as a regular user for testing run with the --test-mode flag.
+Running inside an X server requires Xephyr to be installed but it cannot be found.  Please install it or update your PATH environment variable.
+/usr/share/lightdm/sessions:/usr/share/xsessions:/usr/share/wayland-sessions
+/usr/share/lightdm/remote-sessions
+/usr/share/lightdm/greeters:/usr/share/xgreeters
+Failed to make log directory %s: %s
+Failed to make run directory %s: %s
+Failed to make cache directory %s: %s
+Session %s is already active
+Activating session %s
+Seat:*
+Seat:
+Seat %s removed from logind
+Stopping daemon
+{sv}
+(sa{sv}as)
+PropertiesChanged
+SeatRemoved
+SessionRemoved
+Sessions
+XDG_SEAT_PATH
+XDG_SESSION_PATH
+SessionAdded
+Failed to register seat: %s
+SeatAdded
+running-user-session
+session-removed
+Acquired bus name %s
+enabled
+XDMCPServer
+listen-address
+new-session
+keys.conf
+keyring
+Key %s not defined
+VNCServer
+Xvnc
+new-connection
+display_manager_info != NULL
+lightdm.c
+seat_info != NULL
+session_info != NULL
+SwitchToGreeter
+Invalid arguments
+Failed to switch to greeter
+SwitchToUser
+(ss)
+(&s&s)
+Failed to switch to user
+SwitchToGuest
+(&s)
+Failed to switch to guest
+Failed to lock seat
+Unknown method
+ERROR:
+CRITICAL:
+WARNING:
+MESSAGE:
+INFO:
+DEBUG:
+LOG:
+[%+.2fs] %s %s
+logind-check-graphical
+seat0
+exit-on-failure
+Unable to create seat: %s
+Failed to start seat: %s
+can-graphical-changed
+active-session-changed
+Seat %s added from logind
+UserName
+CanSwitch
+HasGuestAccount
+AddSeat
+AddSeat is deprecated
+AddLocalXSeat
+Adding local X seat :%d
+xremote0
+xserver-display-number
+Failed to start seat
+Unable to create local X seat
+Required seat has stopped
+/var/run/lightdm.pid
+/var/log/lightdm
+/var/run/lightdm
+/var/cache/lightdm
+Use configuration file
+FILE
+debug
+Print debugging messages
+test-mode
+pid-file
+File to write PID into
+log-dir
+Directory to write logs to
+DIRECTORY
+run-dir
+cache-dir
+show-config
+Show combined configuration
+Show release version
+--session-child
+got-signal
+- Display Manager
+Sources:
+%s  [%s]
+%s  %s
+lightdm %s
+DISPLAY
+Xephyr
+/usr/sbin
+%s:%s
+cache
+start-default-seat
+minimum-vt
+greeter-user
+backup-logs
+pam-service
+pam-autologin-service
+lightdm-autologin
+pam-greeter-service
+lightdm-greeter
+xserver-command
+xmir-command
+xserver-share
+unity-compositor-command
+unity-system-compositor
+allow-user-switching
+greeter-allow-guest
+greeter-show-remote-login
+greeter-session
+default
+ubuntu
+session-wrapper
+lightdm-session
+log-directory
+run-directory
+cache-directory
+greeters-directory
+lightdm.log
+Logging to %s
+Using D-Bus name %s
+Running in user mode
+Using Xephyr for X servers
+Monitoring logind for seats
+Adding default seat
+Exiting with return value %d
+Failed to create default seat
+%s  %s=%s
+bus_acquired_cb
+Logger
+IS_LOGGER (self)
+failed to get log prefix
+failed to format log message
+%s%s
+logger_logv
+logger_logprefix
+CanGraphical
+ActiveSession
+(so)
+(&so)
+{&sv}
+org.freedesktop.login1.Seat
+org.freedesktop.login1
+Login1Service
+Login1Seat
+(a{sv})
+GetAll
+CanMultiSession
+/org/freedesktop/login1
+(a(so))
+ListSeats
+(&s&o)
+service != NULL
+SeatNew
+session_id != NULL
+Locking login1 session %s
+LockSession
+Unlocking login1 session %s
+UnlockSession
+Activating login1 session %s
+ActivateSession
+seat != NULL
+Error updating seat property %s: %s
+Failed to get seat properties: %s
+org.freedesktop.login1.Manager
+Failed to get list of logind seats: %s
+Error locking login1 session: %s
+Error unlocking login1 session: %s
+Error activating login1 session: %s
+login1_seat_get_can_multi_session
+login1_seat_get_can_graphical
+login1_seat_get_id
+login1_service_activate_session
+login1_service_unlock_session
+login1_service_lock_session
+login1_service_get_seat
+login1_service_get_seats
+login1_service_get_is_connected
+login1_service_connect
+%s.old
+Failed to open log file %s: invalid log mode %d specified
+Failed to open log file %s: %s
+plymouth %s
+Could not run %s: %s
+--ping
+--has-active-vt
+Deactivating Plymouth
+deactivate
+quit --retain-splash
+Quitting Plymouth
+quit
+Quitting Plymouth; retaining splash
+got-data
+Failed to create signal pipe
+Process
+Got signal %d from process %d
+process != NULL
+Error parsing command %s: %s
+Failed to fork: %s
+Launching process %d: %s
+process->priv->pid == 0
+Process %d exited with return value %d
+Process %d terminated with signal %d
+Error reading from signal pipe: %s
+process->priv->command != NULL
+Sending signal %d to process %d
+Error sending signal %d to process %d: %s
+process_get_exit_status
+process_stop
+process_signal
+process_get_pid
+process_get_is_running
+process_start
+process_get_command
+process_set_command
+process_get_env
+process_set_env
+process_get_clear_environment
+process_set_clear_environment
+process_set_log_file
+session-added
+/bin/sh
+SHELL
+LIGHTDM_TEST_ROOT
+LD_PRELOAD
+LD_LIBRARY_PATH
+/usr/local/bin:/usr/bin:/bin
+USER
+LOGNAME
+HOME
+Exit status of %s: %d
+DBUS_SESSION_BUS_ADDRESS
+LDM_BUS
+DBUS_SYSTEM_BUS_ADDRESS
+GI_TYPELIB_PATH
+signal != NULL
+signal[0] != 0
+initctl
+emit
+DISPLAY_MANAGER=lightdm
+wayland
+/usr/share/wayland-sessions
+sessions_dir != NULL
+session_name != NULL
+XDG_SESSION_DESKTOP
+DESKTOP_SESSION
+GDMSESSION
+XDG_CURRENT_DESKTOP
+LANGUAGE
+GDM_LANG
+Stopped
+Stopping display server
+Stopping session
+Seat %s: 
+Registered seat module %s
+module_name != NULL
+guest-session
+Can't find session '%s'
+guest-wrapper
+Creating user session
+Can't login unknown user '%s'
+autologin-session
+Starting
+Idling greeter
+Stopping greeter
+default-session
+greeter-hide-users
+greeter-show-manual-login
+has-guest-account
+Creating greeter session
+greeter-wrapper
+notify::active-username
+XDG_SESSION_CLASS
+autologin-user-timeout
+autologin-guest
+autologin-timeout
+Switching to user %s
+Stopping
+Switching to existing greeter
+select-guest
+select-user
+greeter-setup-script
+desktop-session-start
+session-setup-script
+%s-greeter.log
+Failed to start greeter
+display-setup-script
+login-session-start
+Locking
+lock-screen
+Session stopped
+session-cleanup-script
+Display server stopped
+display-stopped-script
+autologin-in-background
+Failed to find session configuration %s
+Invalid session command '%s': %s
+Creating display server of type %s
+Ignoring invalid autologin-session option (LP: #1484083)
+Failed to start display server for greeter
+Switching to greeter due to failed setup script
+Failed to start session, starting greeter
+Stopping display server due to failed setup script
+Display server ready, running session
+Display server ready, starting session authentication
+Stopping not required display server
+Returning to existing user session %s
+Stopping greeter; display server will be re-used for user session
+Failed to start display server for new session
+Session authenticated, switching to existing user session
+Session authenticated, starting display server
+Switching to existing greeter to authenticate session
+Starting greeter to authenticate session
+Switching to existing guest account %s
+Session authenticated, running command
+Switching to greeter due to failed authentication
+Stopping session that failed authentication
+Greeter stopped, running session
+Greeter stopped, starting session authentication
+Stopping; failed to start a greeter
+Active session stopped, starting greeter
+Stopping display server, no sessions require it
+Stopping; greeter display server failed to start
+Active display server stopped, starting greeter
+Failed to create greeter session
+Failed to start display server for background session
+Can't create display server for automatic login
+Can't create display server for greeter
+seat_get_is_stopping
+seat_stop
+seat_lock
+seat_switch_to_guest
+seat_switch_to_user
+seat_switch_to_greeter
+seat_get_allow_guest
+seat_get_can_switch
+seat_set_externally_activated_session
+seat_get_expected_active_session
+seat_get_next_session
+seat_get_active_session
+seat_set_active_session
+seat_get_sessions
+seat_start
+seat_set_share_display_server
+seat_set_supports_multi_session
+seat_get_string_list_property
+seat_get_string_property
+seat_set_property
+seat_new
+find_session_config
+emit_upstart_signal
+XAUTHORITY
+MIR_SERVER_NAME
+Compositor stopped
+SeatUnity
+XDG_SEAT
+x-%d
+xserver-layout
+xserver-config
+xserver-allow-tcp
+Compositor ready
+xdmcp-manager
+xdmcp-port
+xdmcp-key
+Error getting key %s
+Failed to get a VT to run on
+unity-compositor-timeout
+XDMCP X server stopped
+Marking Mir session %s as the next session
+Failed to work out session ID to mark
+Starting X server on Unity compositor
+Can't create unsupported display server '%s'
+Plymouth is running on VT %d, but this is less than the configured minimum of %d so not replacing it
+SeatXDMCPSession
+Starting local X display
+SeatXLocal
+mir-container
+Starting local X display on VT %d
+REMOTE_HOST
+xserver-hostname
+SeatXRemote
+X remote seat only supports X display servers, not '%s'
+Starting remote X display %s:%d
+SeatXVNC
+width
+height
+depth
+Exited with return value %d
+Terminated with signal %d
+Failed during authentication
+Sending SIGTERM
+Error writing to session: %s
+session->priv->pid == 0
+Error reading from child: %s
+Got %d message(s) from PAM
+Session pid=%d: 
+Session: 
+.xsession-errors
+display_server != NULL
+value != NULL
+%s=%s
+error != PAM_SUCCESS
+xauthority
+.Xauthority
+XDG_GREETER_DATA_DIR
+greeter-socket
+LIGHTDM_GREETER_PIPE
+!session->priv->command_run
+session->priv->argv != NULL
+session->priv->pid != 0
+Running command %s
+Authentication stopped before completion
+Error reading from session: %s
+Invalid string length %d from child
+Failed to create pipe to communicate with session process: %s
+Failed to fork session child process: %s
+Started with service '%s', username '%s'
+Authentication complete with return value %d: %s
+Failed to set create system authority dir %s: %s
+Failed to set ownership of user authority dir: %s
+Failed to create greeter socket dir %s: %s
+Failed to set ownership of greeter socket dir: %s
+Failed to start greeter socket: %s
+session_get_is_authenticated (session)
+session->priv->display_server != NULL
+session_get_is_stopping
+session_stop
+session_activate
+session_unlock
+session_lock
+session_get_is_run
+session_run
+session_get_authentication_result_string
+session_get_authentication_result
+session_get_is_authenticated
+session_get_messages
+session_get_messages_length
+session_respond_error
+session_respond
+session_get_console_kit_cookie
+session_get_login1_session_id
+session_get_username
+session_start
+session_get_user
+session_set_argv
+session_unset_env
+session_set_env
+session_set_remote_host_name
+session_set_x_authority
+session_set_xdisplay
+session_set_tty
+session_get_display_server
+session_set_display_server
+session_set_log_file
+session_get_is_guest
+session_set_is_guest
+session_set_is_interactive
+session_set_do_authenticate
+session_set_username
+session_set_pam_service
+session_get_session_type
+session_get_config
+session_set_config
+session_real_start
+session_real_run
+session_real_stop
+Error reading from daemon: %s
+Invalid string length %d from daemon
+Stopping PAM conversation, interaction requested but not supported
+Usage: lightdm --session-child INPUTFD OUTPUTFD
+Invalid file descriptors %s %s
+Failed to get information on user %s: %s
+PATH=/usr/local/bin:/usr/bin:/bin
+No user selected during authentication
+Failed to initialize supplementary groups for %s: %s
+Failed to establish PAM credentials: %s
+Failed to open PAM session: %s
+Unable to contact system bus: %s
+Error writing X authority: %s
+Failed to fork session child process: %s
+Error removing X authority: %s
+Error writing to daemon: %s
+LC_NAME
+LC_PAPER
+/dev/null
+Failed to start PAM: %s
+/var/log/btmp
+USER=%s
+LOGNAME=%s
+HOME=%s
+SHELL=%s
+XDG_SESSION_ID
+a(sv)
+unix-user
+LoginWindow
+session-type
+x11-display
+x11-display-device
+is-local
+remote-host-name
+XDG_SESSION_COOKIE=%s
+XDG_RUNTIME_DIR=%s
+XAUTHORITY=%s
+Failed to write utmpx: %s
+/var/log/wtmp
+/dev/
+LC_ADDRESS
+LC_TELEPHONE
+LC_MEASUREMENT
+LC_IDENTIFICATION
+LC_COLLATE
+LC_CTYPE
+LC_MONETARY
+LC_NUMERIC
+LC_TIME
+LC_MESSAGES
+LC_ALL
+SessionConfig
+Exec
+X-LightDM-Session-Type
+DesktopNames
+X-LightDM-DesktopName
+X-LightDM-Allow-Greeter
+config != NULL
+No Exec option in session file: %s
+X-LightDM-System-Compositor-Command
+session_config_get_allow_greeter
+session_config_get_compositor_command
+session_config_get_desktop_names
+session_config_get_session_type
+session_config_get_command
+/var/lib/lightdm-data
+/bin/rm -rf %s
+SharedDataManager
+unix::uid
+unix::gid
+unix::mode
+standard::name
+user-removed
+Could not delete unused user data directory %s: %s
+Could not enumerate user data directory %s: %s
+Creating shared data directory %s
+Could not create user data directory %s: %s
+Could not chown user data directory %s: %s
+Unity system compositor stopped
+Failed to write to compositor: %s
+Compositor closed communication channel
+Failed to read from compositor: %s
+Ignoring unknown message %d with %d octets from system compositor
+Failed to create compositor pipes: %s
+Can't launch compositor %s, not found in path
+ --from-dm-fd %d --to-dm-fd %d
+Waiting for system compositor for %ds
+compositor->priv->process == NULL
+compositor->priv->command != NULL
+PING!
+PONG!
+READY
+SESSION CONNECTED
+XDG_SESSION_TYPE
+MIR_SERVER_HOST_SOCKET
+UnitySystemCompositor
+/run/mir_socket
+unity-system-compositor.log
+ --file '%s'
+ --vt %d
+greeter-%d
+session-%d
+compositor != NULL
+unity_system_compositor_set_next_session
+unity_system_compositor_set_active_session
+unity_system_compositor_set_timeout
+unity_system_compositor_set_vt
+unity_system_compositor_get_socket
+unity_system_compositor_set_socket
+unity_system_compositor_set_command
+unity_system_compositor_get_vt
+unity_system_compositor_start
+Got VNC connection from %s:%d
+Failed to get connection from from VNC socket: %s
+Failed to create IPv4 VNC socket: %s
+Failed to create IPv6 VNC socket: %s
+vnc_server_start
+vnc_server_get_listen_address
+vnc_server_set_listen_address
+vnc_server_get_port
+vnc_server_set_port
+/dev/tty0
+Error opening /dev/tty0: %s
+/sys/class/tty/tty0/active
+Activating VT %d
+Using VT %d
+Releasing VT %d
+Error using VT_GETSTATE on /dev/tty0: %s
+Error using VT_ACTIVATE %d on /dev/tty0: %s
+Error using VT_WAITACTIVE %d on /dev/tty0: %s
+WaylandSession
+wayland_session_set_vt
+wayland_session_get_vt
+XAuthority
+auth != NULL
+MIT-MAGIC-COOKIE-1
+filename != NULL
+Error reading existing Xauthority: %s
+Failed to open X authority %s: %s
+Failed to write X authority %s: %s
+x_authority_write
+x_authority_get_authorization_data_length
+x_authority_copy_authorization_data
+x_authority_get_authorization_data
+x_authority_set_authorization_data
+x_authority_get_authorization_name
+x_authority_set_authorization_name
+x_authority_get_number
+x_authority_set_number
+x_authority_get_address_length
+x_authority_get_address
+x_authority_set_address
+x_authority_get_family
+x_authority_set_family
+Got signal from X server :%d
+X -version
+X.Org X Server 
+XServerLocal
+minimum-display-number
+/tmp/.X%d-lock
+ -config %s
+ -layout %s
+ -seat %s
+root
+Failed to write authority: %s
+ -auth %s
+ -port %d
+ -query %s
+ -cookie %s
+ -listen tcp
+ -nolisten tcp
+ vt%d -novtswitch
+ -background %s
+Launching X Server
+server->priv->command != NULL
+%s.log
+Removing X server authority %s
+Can't launch X server %s, not found in path
+Failed to make authority directory %s: %s
+Writing X server authority to %s
+Waiting for ready signal from X server :%d
+server->priv->x_server_process == NULL
+x_server_local_get_authority_file_path
+x_server_local_set_background
+x_server_local_set_xdmcp_key
+x_server_local_get_xdmcp_port
+x_server_local_set_xdmcp_port
+x_server_local_get_xdmcp_server
+x_server_local_set_xdmcp_server
+x_server_local_set_allow_tcp
+x_server_local_set_xdg_seat
+x_server_local_set_layout
+x_server_local_set_config
+x_server_local_set_vt
+x_server_local_set_command
+x_server_local_get_vt
+x_server_local_start
+XServerRemote
+x-%s-%d
+XServerXmir
+ -mir %s
+ -mirSocket %s
+x_server_xmir_set_mir_socket
+x_server_xmir_get_mir_id
+x_server_xmir_set_mir_id
+XServerXVNC
+ -inetd
+ -geometry %dx%d
+ -depth %d
+xvnc-%d
+x_server_xvnc_set_depth
+x_server_xvnc_set_geometry
+x_server_xvnc_get_socket
+x_server_xvnc_set_socket
+XServer
+Connecting to XServer %s
+/dev/tty%d
+Not setting XDG_VTNR
+user-authority-in-system-dir
+Error connecting to XServer %s
+x_server_get_authority
+x_server_set_authority
+x_server_get_address
+x_server_get_display_number
+x_server_get_hostname
+x_server_set_hostname
+%02X
+Overflow writing response
+(%d, %s)
+Refuse(session_id=%d)
+XDMCPPacket(opcode=%d)
+Ignoring short packet
+Short packet received
+Extra data on end of message
+BroadcastQuery(authentication_names=[%s])
+IndirectQuery(authentication_names=[%s])
+ForwardQuery(client_address=%s client_port=%s authentication_names=[%s])
+Willing(authentication_name='%s' hostname='%s' status='%s')
+Unwilling(hostname='%s' status='%s')
+Request(display_number=%d connections=[%s] authentication_name='%s' authentication_data=%s authorization_names=[%s] manufacturer_display_id='%s')
+Accept(session_id=%d authentication_name='%s' authentication_data=%s authorization_name='%s' authorization_data=%s)
+Decline(status='%s' authentication_name='%s' authentication_data=%s)
+Manage(session_id=%d display_number=%d display_class='%s')
+Failed(session_id=%d status='%s')
+KeepAlive(display_number=%d session_id=%d)
+Alive(session_running=%s session_id=%d)
+Ignoring packet from unknown version %d
+Ignoring packet of wrong length. Opcode %d expected %d octets, got %d
+Number of connection types does not match number of connection addresses
+Unable to encode unknown opcode %d
+Send %s to %s
+Failed to encode XDMCP packet
+Error sending packet: %s
+XDM-AUTHENTICATION-1
+No matching authentication
+Got %s from %s
+Unknown socket family %d
+Tacocat
+XDM-AUTHORIZATION-1
+No valid address found
+No matching authentication, server requires %s
+Timing out unmanaged session %d
+Failed to read from XDMCP socket: %s
+Ignoring IPv4 XDMCP ForwardQuery with client address of length %d
+Ignoring IPv6 XDMCP ForwardQuery with client address of length %d
+No matching authentication, server requires XDM-AUTHENTICATION-1
+Invalid XDM-AUTHENTICATION-1 data provided
+No matching authentication, server only supports unauthenticated connections
+Ignoring duplicate Manage with different data
+Received Manage for display number %d, but Request was %d
+Failed to connect to display :%d
+Got unexpected XDMCP packet %d
+No matching authorization, server requires MIT-MAGIC-COOKIE-1
+No matching authorization, server requires XDM-AUTHORIZATION-1
+Failed to create IPv4 XDMCP socket: %s
+Failed to create IPv6 XDMCP socket: %s
+xdmcp_server_start
+xdmcp_server_set_key
+xdmcp_server_get_status
+xdmcp_server_set_status
+xdmcp_server_get_hostname
+xdmcp_server_set_hostname
+xdmcp_server_get_listen_address
+xdmcp_server_set_listen_address
+xdmcp_server_get_port
+xdmcp_server_set_port
+xdmcp_session_get_display_class
+xdmcp_session_get_display_number
+xdmcp_session_get_authority
+xdmcp_session_get_address
+xdmcp_session_get_manufacturer_display_id
+xdmcp_session_get_id
+Configuration
+SeatDefaults
+xdg-seat
+logind-load-seats
+%s]%s
+Loading configuration from %s
+lightdm.conf.d
+/etc/lightdm
+lightdm.conf
+config->priv->dir == NULL
+  [SeatDefaults] is now called [Seat:*], please update this configuration
+  [%s] contains deprecated option xdg-seat, this can be safely removed
+  [LightDM] contains deprecated option logind-load-seats, this can be safely removed
+Failed to open configuration directory %s: %s
+Failed to load configuration from %s: %s
+Ignoring configuration file %s, it does not have .conf suffix
+Loading configuration dirs from %s
+config_load_from_standard_locations
+setresgid (gid, gid, -1) == 0
+privileges.c
+setresuid (uid, uid, -1) == 0
+setresuid (0, 0, -1) == 0
+setresgid (0, 0, -1) == 0
+privileges_reclaim
+privileges_drop
+user-list.c
+Username
+Users real name
+real-name
+Users display name
+display-name
+Home directory
+home-directory
+Shell
+shell
+Avatar image
+User background
+Language used by this user
+language
+layouts
+Session used by this user
+has-messages
+get-logged-in
+CommonUserList
+CommonUser
+Number of login users
+num-users
+user-added
+user-changed
+(&o)
+User %s deleted
+org.freedesktop.Accounts.User
+org.freedesktop.Accounts
+Error updating user %s: %s
+RealName
+HomeDirectory
+SystemAccount
+IconFile
+BackgroundFile
+XKeyboardLayouts
+XHasMessages
+User %s added
+.face
+.face.icon
+Desktop
+Layout
+Could not call %s: %s
+CommonSession
+Loaded session %s (%s)
+COMMON_IS_USER (user)
+Session %s removed
+/etc/lightdm/users.conf
+Loading user config from %s
+minimum-uid
+hidden-users
+nobody nobody4 noaccess
+hidden-shells
+/bin/false /usr/sbin/nologin
+User %s changed
+User %s removed
+/org/freedesktop/Accounts
+UserAdded
+UserDeleted
+(ao)
+ListCachedUsers
+/etc/passwd
+Error monitoring %s: %s
+SetLanguage
+SetXSession
+Keyboard layout used by this user
+Keyboard layouts used by this user
+TRUE if the user is currently in a session
+TRUE if the user is has waiting messages
+Got UserAccounts signal UserDeleted with unknown parameters %s
+Got UserAccounts signal UserAdded with unknown parameters %s
+org.freedesktop.DisplayManager.Session
+Error getting UserName from org.freedesktop.DisplayManager.Session: %s
+Error getting session list from org.freedesktop.DisplayManager: %s
+Loading sessions from org.freedesktop.DisplayManager
+Unexpected type from org.freedesktop.DisplayManager.Sessions: %s
+Got DisplayManager signal SessionRemoved with unknown parameters %s
+Got DisplayManager signal SessionAdded with unknown parameters %s
+Failed to load configuration from %s: %s
+Failed to read password database: %s
+Error getting user list from org.freedesktop.Accounts: %s
+Loading users from org.freedesktop.Accounts
+COMMON_IS_USER_LIST (user_list)
+%s changed, reloading user list
+common_user_get_gid
+common_user_get_uid
+common_user_get_has_messages
+common_user_get_logged_in
+common_user_set_session
+common_user_get_session
+common_user_get_layouts
+common_user_get_layout
+common_user_set_language
+common_user_get_language
+common_user_get_background
+common_user_get_image
+common_user_get_shell
+common_user_get_home_directory
+common_user_get_display_name
+common_user_get_real_name
+common_user_get_name
+common_user_list_get_user_by_name
+common_user_list_get_users
+common_user_list_get_length
+%s.dmrc
+Writing %s
+Failed to make DMRC cache directory %s: %s
+;*3$"
+2fec91445611f8df77997bea080fc3eebd9fb5.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

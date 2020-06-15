@@ -1,0 +1,700 @@
+/lib64/ld-linux-x86-64.so.2
+m]Q3b
+dWkB
+libunity-control-center.so.1
+g_param_spec_object
+g_free
+g_param_spec_string
+gtk_bin_get_child
+g_intern_static_string
+gtk_label_set_attributes
+g_signal_emit
+__gmon_start__
+_Jv_RegisterClasses
+g_object_unref
+gtk_label_new
+God A red nugget A fat egg under a dog
+g_strdup
+gtk_entry_set_text
+gtk_widget_get_type
+pango_attr_list_new
+g_object_class_install_property
+gtk_notebook_append_page
+gtk_entry_get_text
+_ITM_deregisterTMCloneTable
+g_object_new
+gtk_container_get_type
+g_object_ref
+_ITM_registerTMCloneTable
+g_value_set_string
+g_type_check_class_cast
+pango_attr_weight_new
+g_return_if_fail_warning
+g_signal_new
+gtk_label_get_type
+g_type_check_instance_is_a
+gtk_alignment_get_type
+g_type_name
+Beeb
+g_signal_connect_data
+g_strv_get_type
+g_type_instance_get_private
+g_type_check_instance_cast
+gtk_widget_show
+gtk_notebook_set_current_page
+g_cclosure_marshal_VOID__VOID
+g_type_register_static_simple
+gtk_container_add
+pango_attr_list_unref
+g_value_set_object
+g_once_init_enter
+pango_attr_list_insert
+g_once_init_leave
+gtk_bin_get_type
+g_type_class_add_private
+g_type_class_peek_parent
+g_log
+g_type_class_adjust_private_offset
+cc_panel_get_help_uri
+cc_shell_get_type
+cc_shell_get_toplevel
+cc_panel_get_permission
+cc_shell_set_active_panel
+cc_shell_get_active_panel
+cc_panel_get_display_name
+cc_shell_set_active_panel_from_id
+cc_panel_get_type
+libnotify.so.4
+g_value_peek_pointer
+g_str_equal
+gdk_pixbuf_get_type
+g_hash_table_lookup
+g_strcmp0
+g_hash_table_new_full
+g_hash_table_insert
+g_hash_table_destroy
+g_str_hash
+notify_init
+Eleele
+libgnome-menu-3.so.0
+g_key_file_new
+g_key_file_get_string_list
+g_app_info_get_icon
+g_hash_table_size
+g_key_file_load_from_file
+g_strfreev
+g_app_info_get_description
+g_key_file_free
+g_value_dup_string
+g_key_file_get_string
+g_list_free
+g_object_set
+g_app_info_get_name
+g_error_free
+gmenu_tree_entry_get_app_info
+gmenu_tree_directory_get_name
+gmenu_tree_directory_iter
+gmenu_tree_iter_get_entry
+gmenu_tree_item_unref
+gmenu_tree_get_root_directory
+gmenu_tree_entry_get_desktop_file_path
+gmenu_tree_entry_get_desktop_file_id
+gmenu_tree_iter_unref
+gmenu_tree_load_sync
+gmenu_tree_iter_next
+gmenu_tree_iter_get_directory
+gmenu_tree_new_for_path
+libX11.so.6
+XInitThreads
+libgtk-3.so.0
+g_option_context_parse
+g_option_context_add_group
+g_type_from_name
+gdk_screen_get_monitor_at_window
+g_setenv
+g_application_get_type
+g_utf8_casefold
+g_io_extension_point_register
+g_option_context_new
+g_list_append
+g_io_extension_point_get_extensions
+g_themed_icon_get_names
+g_themed_icon_get_type
+g_signal_handlers_disconnect_matched
+g_io_extension_get_name
+g_strchomp
+g_ptr_array_new_with_free_func
+gdk_notify_startup_complete
+gdk_keymap_add_virtual_modifiers
+gdk_keymap_get_default
+g_action_map_get_type
+g_value_dup_object
+g_ptr_array_set_size
+g_app_info_get_type
+g_option_context_free
+g_menu_model_get_n_items
+g_icon_get_type
+g_menu_model_get_type
+gdk_screen_get_monitor_geometry
+g_print
+g_clear_error
+g_option_context_add_main_entries
+g_menu_append_section
+g_strchug
+g_menu_new
+g_action_map_add_action
+g_ptr_array_unref
+g_ptr_array_add
+g_option_context_set_help_enabled
+g_menu_remove
+g_option_context_set_translation_domain
+g_menu_append_submenu
+g_io_extension_get_type
+gtk_get_option_group
+gtk_scrolled_window_set_min_content_height
+gtk_icon_view_item_activated
+gtk_widget_get_direction
+gtk_cell_renderer_text_new
+gtk_box_reorder_child
+gtk_icon_view_get_selected_items
+gtk_window_get_type
+gtk_tree_view_set_model
+gtk_tree_path_new_from_indices
+gtk_separator_new
+gtk_window_present
+gtk_notebook_get_type
+gtk_icon_view_set_item_width
+gtk_icon_theme_get_default
+gtk_widget_get_window
+gtk_tree_path_new_first
+gtk_list_store_set_column_types
+gtk_window_get_application
+gtk_widget_set_margin_top
+gtk_tree_selection_get_selected
+gtk_widget_show_all
+gtk_scrolled_window_get_vadjustment
+gtk_icon_info_load_icon
+gtk_box_pack_start
+gtk_icon_view_set_text_column
+gtk_button_new
+gtk_application_set_menubar
+gtk_style_context_remove_class
+gtk_entry_get_type
+gtk_icon_view_unselect_all
+gtk_icon_theme_lookup_by_gicon
+gtk_container_set_focus_vadjustment
+gtk_list_store_get_type
+gtk_application_add_accelerator
+gtk_widget_hide
+gtk_tree_model_get
+gtk_icon_view_select_path
+gtk_widget_destroy
+gtk_tree_model_iter_next
+gtk_cell_layout_get_type
+gtk_tree_view_append_column
+gtk_tree_selection_unselect_all
+gtk_notebook_get_current_page
+gtk_lock_button_set_permission
+gtk_tree_model_get_type
+gtk_window_set_hide_titlebar_when_maximized
+gtk_frame_set_label_widget
+gtk_accelerator_get_default_mod_mask
+gtk_box_pack_end
+gtk_cell_layout_get_cells
+gtk_tree_model_filter_get_type
+gtk_icon_view_get_cursor
+gtk_tree_sortable_get_type
+gtk_widget_set_size_request
+gtk_widget_realize
+gtk_window_set_role
+gtk_cell_layout_pack_start
+gtk_widget_set_name
+gtk_widget_get_preferred_height_for_width
+gtk_icon_view_set_columns
+gtk_tree_model_filter_new
+gtk_tree_model_get_iter_first
+gtk_tree_view_set_headers_visible
+gtk_widget_grab_focus
+gtk_notebook_remove_page
+gtk_application_new
+gtk_tree_view_get_selection
+gtk_alignment_new
+gtk_builder_get_object
+gtk_tree_selection_select_iter
+gtk_list_store_set
+gtk_tree_model_get_iter
+gtk_widget_get_screen
+gtk_tree_model_filter_set_visible_func
+gtk_box_new
+gtk_window_resize
+gtk_tree_path_free
+gtk_list_store_insert_with_values
+gtk_cell_renderer_text_get_type
+gtk_tree_sortable_set_sort_column_id
+gtk_lock_button_get_type
+gtk_tree_model_get_path
+gtk_window_set_application
+gtk_tree_view_column_set_expand
+gtk_cell_layout_add_attribute
+gtk_builder_add_from_file
+gtk_icon_view_get_type
+gtk_button_new_with_mnemonic
+gtk_list_store_clear
+gtk_icon_size_register
+gtk_window_get_title
+gtk_tree_path_next
+gtk_box_get_type
+gtk_tree_model_filter_refilter
+gtk_window_unmaximize
+gtk_window_get_icon_name
+gtk_tree_view_column_new_with_attributes
+gtk_tree_view_is_blank_at_pos
+gtk_editable_get_type
+gtk_icon_theme_has_icon
+gtk_icon_view_get_model
+gtk_tree_view_get_type
+gtk_widget_get_visible
+gtk_frame_get_type
+gtk_alignment_set_padding
+gtk_init
+gtk_window_set_default_icon_name
+gtk_icon_view_get_item_column
+gtk_cell_renderer_pixbuf_new
+gtk_editable_set_position
+gtk_tree_path_prev
+gtk_widget_get_style_context
+gtk_container_get_children
+gtk_button_set_label
+gtk_window_set_title
+gtk_application_get_type
+gtk_builder_new
+Tacocat
+gtk_widget_set_margin_left
+gtk_notebook_get_nth_page
+gtk_icon_view_set_model
+gtk_show_uri
+gtk_scrolled_window_get_type
+gtk_widget_set_margin_bottom
+gtk_tree_view_new
+gtk_container_remove
+gtk_window_set_icon_name
+gtk_button_get_type
+gtk_window_maximize
+gtk_tree_view_get_model
+gtk_frame_set_shadow_type
+gtk_icon_view_set_cursor
+gtk_icon_info_get_filename
+gtk_style_context_add_class
+gtk_widget_set_margin_right
+gtk_notebook_get_n_pages
+gtk_window_set_resizable
+libgdk-3.so.0
+libpango-1.0.so.0
+libgdk_pixbuf-2.0.so.0
+libgio-2.0.so.0
+g_spawn_command_line_async
+g_key_file_get_locale_string_list
+g_application_run
+g_icon_to_string
+g_action_get_type
+g_simple_action_new
+g_menu_append
+g_io_modules_load_all_in_directory
+g_application_command_line_get_arguments
+libgobject-2.0.so.0
+libglib-2.0.so.0
+g_option_context_get_help
+g_log_default_handler
+g_log_set_default_handler
+libpthread.so.0
+libc.so.6
+exit
+dcgettext
+__stack_chk_fail
+bind_textdomain_codeset
+strstr
+bindtextdomain
+strcmp
+__libc_start_main
+_edata
+__bss_start
+cc_shell_nav_bar_new
+__libc_csu_fini
+cc_shell_item_view_new
+cc_shell_model_add_item
+cc_shell_item_view_get_type
+gnome_control_center_new
+__data_start
+gnome_control_center_set_overview_page
+cc_shell_log_set_debug
+cc_shell_category_view_new
+cc_shell_model_new
+cc_shell_marshal_VOID__STRING_STRING_STRING
+gnome_control_center_set_search_item
+all_options
+cc_shell_item_view_update_cells
+gnome_control_center_get_type
+__libc_csu_init
+cc_shell_nav_bar_hide_detail_button
+cc_shell_category_view_get_item_view
+gnome_control_center_present
+cc_shell_log_init
+cc_shell_nav_bar_get_type
+gnome_control_center_show
+cc_shell_model_get_type
+cc_shell_category_view_get_type
+cc_shell_nav_bar_show_detail_button
+_IO_stdin_used
+GLIBC_2.2.5
+GLIBC_2.4
+ATUSH
+[]A\
+UH-h
+ATUI
+D$(1
+L$(dH3
+0[]A\
+L$ H
+D$ H
+|$ H
+AWAVAUATUSH
+[]A\A]A^A_
+ATUH
+[]A\
+ATUSH
+[]A\H
+ATUH
+[]A\
+AWAVAUATUSH
+L;0u
+t+H;]
+[]A\A]A^A_
+|$81
+|$81
+t$8I
+t$8L
+T$ u
+T$8H
+t$`H
+t$81
+t$8L
+T$ u
+|$81
+t$8H
+Degas are we not drawn onward no In union drawn onward to new eras aged
+L$ H
+L$ H
++D$,
+t$8H
+|$@E1
++D$ 
+|$ L
+t$8I
+ATUSH
+[]A\
+ATUH
+D$81
+D$8dH3
+@[]A\
+AWAVA
+AUATUSH
+D$ 1
+D$ Pj
+L$(H
+([]A\A]A^A_
+ATUI
+H;C 
+[]A\
+ATUSH
+ []A\
+ATUSH
+[]A\
+Borrow or rob
+ATPA
+ []A\
+ATPA
+ []A\
+AVAUI
+ATUH
+[]A\A]A^
+]A\A]A^1
+AVAUI
+ATUH
+[]A\A]A^
+]A\A]A^1
+AVAUI
+ATUI
+,$;]
+]A\A]A^
+AUATI
+[]A\A]
+U H;B
+ATUI
+[]A\
+[]A\
+alula
+AWAVAUATI
+D$ H
+([]A\A]A^A_
+D$ L
+T$ H
+D$ H
+T$ H
+D$ L
+T$ H
+D$ L
+F SH
+ATUS1
+D$81
+L$8dH3
+@[]A\
+AWAVAUATUSH
+D$(1
+T$ H
+{@E1
+{@E1
+{@E1
+{@E1
+{`E1
+|$hE1
+t$pM
+t$(H
+D$(dH3
+8[]A\A]A^A_
+D$ 1
+@ [H
+AUATUSH
+[]A\A]
+AWAVAUATI
+D$x1
+t$PH
+t$HL
+l$@f
+L$hH
+L$`H
+|$xH
+|$@H
+t$PH
+l$0H
+D$@H
+D$8H
+t$(1
+|$@H
+T$xdH3
+[]A\A]A^A_
+L;8t
+AWAVI
+AUATUSH
+[]A\A]A^A_
+=fJ 
+AVAUI
+ATUH
+h8tt
+ []A\A]A^
+[]A\A]A^
+[]A\A]A^
+AUATI
+@8tz
+[]A\A]
+([]A\A]
+[]A\A]
+AUATI
+D$H1
+t$ L
+D$HdH3
+X[]A\A]
+D$(Pj
+t$@L
+L$0H
+=mG 
+=MG 
+ATPA
+ []A\
+ATPA
+ []A\
+AUATUSH
+A Santa lives evil at NASA
+[]A\A]
+j@j@H
+ATUSH
+L9 u
+[]A\H
+[]A\
+D$H1
+D$ @
+D$(@
+D$HdH3
+ATUSH
+[]A\
+ATUSH
+D$81
+D$8dH3
+@[]A\
+AWAVAUATI
+D$(1
+t$H1
+D$(dH3
+8[]A\A]A^A_
+L$ E1
+ATPA
+ []A\
+ATPA
+ []A\
+ATUSH
+[]A\
+AUATM
+ u3H
+[]A\A]
+AWAVA
+AUATL
+[]A\A]A^A_
+14.04.3
+unity-control-center
+%s %s
+Unknown error
+- System Settings
+Do nine men interpret Nine men I nod
+Extra argument: %s
+No extra argument
+activate
+Contents
+app.contents
+Quit
+app.quit
+Help
+notify::active-panel
+app.help
+help:ubuntu-help/prefs
+/usr/share/locale
+UTF-8
+cc-sidebar-list
+gnome-control-center
+Unity
+XDG_CURRENT_DESKTOP
+org.gnome.ControlCenter
+startup
+command-line
+version
+verbose
+Enable verbose mode
+Show the overview
+search
+Search for the string
+SEARCH
+Show help options
+help-all
+help-gtk
+Panel to display
+[PANEL] [ARGUMENT
+Run '%s --help' to see a full list of available command line options.
+Could not load setting panel "%s": %s
+G_MESSAGES_DEBUG
+Enabling debugging
+Could not active panel "%s": %s
+%s:%d: invalid %s id %u for "%s" of type '%s' in '%s'
+Couldn't select GtkNotebook page %p
+Couldn't find GtkNotebook page to remove %p
+Could not load control center menu: %s
+/usr/share/unity-control-center/ui/shell.ui
+/usr/lib/x86_64-linux-gnu/unity-control-center-1/panels
+/usr/lib/control-center-1/panels
+Could not find settings panel "%s"
+search-entry
+lock-button
+property
+gnome-control-center.c
+topright
+desktop-item-activated
+focus-in-event
+focus-out-event
+keynav-failed
+GnomeControlCenter
+Could not build interface: %s
+main-window
+monitors-changed
+configure-event
+notify::application
+delete-event
+key_press_event
+notebook
+scrolledwindow1
+main-vbox
+notify::page
+hbox1
+home-clicked
+/etc/xdg/menus/unitycc.menu
+CcPanel
+control-center-1
+priv->store != NULL
+stock-size
+ypad
+xpad
+gicon
+Icon
+text
+Name
+Description
+search-scrolled-window
+row-activated
+button-press-event
+key-press-event
+argv
+Exec
+Desktop Entry
+name
+shell
+setup_search
+?Name of the category
+Model of the category
+model
+CcShellCategoryView
+follow-state
+pixbuf
+cc-shell-category-view.c
+cc-shell-item-view.c
+CcShellItemView
+margin
+button-release-event
+wrap-mode
+Could not load icon '%s': %s
+Could not find icon '%s'
+CcShellModel
+X-Unity-Settings-Panel
+Categories
+Keywords
+Not loading desktop file '%s' because it uses the X-Unity-Settings-Panel category but isn't a panel.
+cc-shell-nav-bar.c
+CcShellNavBar
+_All Settings
+linked
+breadcrumbs
+n_param_values == 4
+cc_shell_marshal_VOID__STRING_STRING_STRING
+;*3$"
+2b94689b537603f5e95461c7f8ac194bb138d4.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

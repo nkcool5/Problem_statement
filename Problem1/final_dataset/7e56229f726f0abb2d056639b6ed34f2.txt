@@ -1,0 +1,779 @@
+/lib64/ld-linux-x86-64.so.2
+Hyj2f
+libstdc++.so.6
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_deregisterTMCloneTable
+_ITM_registerTMCloneTable
+__cxa_pure_virtual
+_ZTISi
+_Znam
+_ZTISo
+_ZStlsIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_St5_Setw
+Eleele
+_ZNKSt9basic_iosIcSt11char_traitsIcEE4fillEv
+_ZNSi4peekEv
+_ZNSt15basic_streambufIcSt11char_traitsIcEE4setpEPcS3_
+_ZStlsIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_St8_SetfillIS3_E
+_ZTv0_n24_NSoD0Ev
+_ZNSi3getEv
+_ZNSo5flushEv
+_ZdaPv
+_ZNSt15basic_streambufIcSt11char_traitsIcEE7seekposESt4fposI11__mbstate_tESt13_Ios_Openmode
+_ZNSolsEPFRSt8ios_baseS0_E
+_ZNSi3getERc
+_ZTv0_n24_NSoD1Ev
+_ZNKSt15basic_streambufIcSt11char_traitsIcEE4pptrEv
+_ZNSiD0Ev
+__cxa_throw
+_ZNSt15basic_streambufIcSt11char_traitsIcEE5pbumpEi
+_ZTISt15basic_streambufIcSt11char_traitsIcEE
+_ZNSiD1Ev
+_ZNSt8ios_base4InitD1Ev
+_ZNSt9basic_iosIcSt11char_traitsIcEE4initEPSt15basic_streambufIcS1_E
+_ZNSt15basic_streambufIcSt11char_traitsIcEED2Ev
+_ZNSiD2Ev
+_ZNSt9basic_iosIcSt11char_traitsIcEEC2Ev
+_ZNKSt15basic_streambufIcSt11char_traitsIcEE5egptrEv
+_ZSt3cin
+_ZNSirsERl
+_ZTVN10__cxxabiv117__class_type_infoE
+_ZNSoC2EPSt15basic_streambufIcSt11char_traitsIcEE
+_ZNSoD0Ev
+_ZNSt15basic_streambufIcSt11char_traitsIcEE5uflowEv
+_ZNKSt9basic_iosIcSt11char_traitsIcEE5rdbufEv
+__gxx_personality_v0
+_ZNSt15basic_streambufIcSt11char_traitsIcEE6xsputnEPKcl
+_ZNSt15basic_streambufIcSt11char_traitsIcEE4syncEv
+_ZNSoD1Ev
+_ZNSi3getEPclc
+_ZNSt15basic_streambufIcSt11char_traitsIcEE6setbufEPcl
+_ZSt4cout
+_ZNSt15basic_streambufIcSt11char_traitsIcEE6xsgetnEPcl
+_ZNSolsEi
+_ZNSolsEj
+_Znwm
+_ZNSt15basic_streambufIcSt11char_traitsIcEE7seekoffElSt12_Ios_SeekdirSt13_Ios_Openmode
+_ZNSirsEPFRSt8ios_baseS0_E
+_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc
+_ZNSoD2Ev
+_ZNKSt15basic_streambufIcSt11char_traitsIcEE5epptrEv
+_ZNSiC2EPSt15basic_streambufIcSt11char_traitsIcEE
+_ZTv0_n24_NSiD0Ev
+_ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_
+_ZNSt15basic_streambufIcSt11char_traitsIcEE4setgEPcS3_S3_
+_ZNSt9basic_iosIcSt11char_traitsIcEED2Ev
+__cxa_allocate_exception
+_ZTv0_n24_NSiD1Ev
+_ZNSt15basic_streambufIcSt11char_traitsIcEE9showmanycEv
+_ZNSolsEPSt15basic_streambufIcSt11char_traitsIcEE
+_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_c
+_ZSt4endsIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_
+_ZNSolsEPFRSoS_E
+_ZSt4cerr
+_ZNSt15basic_streambufIcSt11char_traitsIcEE5gbumpEi
+_ZNKSt15basic_streambufIcSt11char_traitsIcEE4gptrEv
+_ZNSt15basic_streambufIcSt11char_traitsIcEE5imbueERKSt6locale
+_ZTVN10__cxxabiv120__si_class_type_infoE
+_ZNKSt15basic_streambufIcSt11char_traitsIcEE5ebackEv
+_ZNKSt15basic_streambufIcSt11char_traitsIcEE5pbaseEv
+_ZNSt8ios_base4InitC1Ev
+_ZdlPv
+_ZNSt15basic_streambufIcSt11char_traitsIcEEC2Ev
+libgcc_s.so.1
+_Unwind_Resume
+libc.so.6
+fflush
+strcpy
+fopen
+strncmp
+__isoc99_sscanf
+strncpy
+__stack_chk_fail
+tolower
+__assert_fail
+strtol
+fgets
+strlen
+__cxa_atexit
+__errno_location
+read
+stdout
+fclose
+malloc
+strcat
+setegid
+getgid
+stderr
+ioctl
+seteuid
+getuid
+fwrite
+atoi
+sleep
+access
+strcmp
+__libc_start_main
+snprintf
+free
+GCC_3.0
+GLIBC_2.4
+GLIBC_2.7
+GLIBC_2.2.5
+CXXABI_1.3
+GLIBCXX_3.4
+5J9!
+%L9!
+%J9!
+%B9!
+Borrow or rob
+%:9!
+%29!
+%*9!
+%"9!
+%z8!
+%r8!
+%j8!
+%b8!
+%Z8!
+%R8!
+%J8!
+%B8!
+%:8!
+%28!
+%*8!
+%"8!
+%z7!
+%r7!
+%j7!
+%b7!
+%Z7!
+%R7!
+%J7!
+%B7!
+%:7!
+%27!
+%*7!
+%"7!
+%z6!
+Tacocat
+%r6!
+%j6!
+%b6!
+%Z6!
+%R6!
+%J6!
+%B6!
+%:6!
+%26!
+%*6!
+%"6!
+<-uFH
+God A red nugget A fat egg under a dog
+<]t7H
+ATSH
+@[A\]
+ATSH
+@[A\]
+AVAUATSH
+</uy
+[A\A]A^]
+AWAVAUATSH
+H[A\A]A^A_]
+ATSH
+[A\]
+ATSH
+P[A\]
+ATSH
+@[A\]
+ATSH
+P[A\]
+AUATSH
+[A\A]]
+AUATSH
+[A\A]]
+ATSH
+@[A\]
+ATSH
+[A\]
+AUATSH
+[A\A]]
+ATSH
+[A\]
+xufH
+ATSH
+@[A\]
+xufH
+ATSH
+ [A\]
+ATSH
+[A\]
+ATSH
+[A\]
+-?n 
+l$ L
+t$(L
+|$0H
+$Id: sci.c,v 1.9 2004-04-30 18:18:36 schwitrs Exp $
+$Id: hci.c,v 1.7 2004-04-20 20:42:21 schwitrs Exp $
+/proc/toshiba
+/proc/acpi
+required kernel toshiba support not enabled.
+%*s %x %*d.%*d %d.%d %*x %*x
+/dev/toshiba
+can't open %s: do you have read/write access?
+toshset version
+toshset version: 
+1.76
+HCI/SCI access
+direct
+kernel
+HCI/SCI access mode: 
+hardware model
+Toshiba Model: 
+unknown error.
+%s (%d)
+FAILURE
+NOT_SUPPORTED
+ALREADY_OPEN
+NOT_OPENED
+INPUT_ERROR
+WRITE_PROTECTED
+NOT_PRESENT
+NOT_READY
+DEVICE_ERROR
+NOT_INSTALLED
+SCI error: argument required
+SciFeature:action: error setting 
+	SciSet returned: 
+SCIFeature: error when setting feature 
+	error in command-line option: 
+valid settings are:
+SciFeature::query: received an unexpected response for feature 
+<dis|HH:MM[/everyday|DD/MM[/YYYY]]> time/date to wake
+everyday
+year 
+month/day 
+TimeFeature: supported date elements: 
+everyday
+TimeFeature::action: everyday not supported
+TimeFeature:action: error when setting date for feature 
+	SciSet returned 
+TimeFeature:action: error when setting feature 
+disabled
+/dev/tty
+unable to open console
+setPasswd: maximum password trys exceeded.
+	please reboot or suspend/resume and try again.
+PasswdFeature: unable to open console.
+PasswdFeature: must be run from the console.
+enter new password:
+reenter new password:
+passwords do not match...
+enter current password to disable:
+PasswdFeature:action: error when setting feature 
+	SciSetPasswd returned 
+not registered
+registered
+unexpected response: 
+FIFO_EMPTY
+NOTREADY
+HCI error: argument required
+HCI error setting 
+	HciFunction returned: 
+HciFeature::query: received an unexpected response for feature 
+valid settings are: 0-
+unavailable
+Bluetooth unavailable
+error checking Bluetooth switch status
+wireless switch is off
+error activating Bluetooth device
+error attaching Bluetooth device
+error detaching Bluetooth device
+error deactivating Bluetooth device
+bluetooth: 
+power is off
+interface detached
+attached
+3g modem unavailable
+error checking 3g modem status
+error activating 3g modem device
+error deactivating 3g modem device
+error checking 3g switch status
+3g modem: 
+VideoFeature::query: received an unexpected response for feature 
+setting lba to 
+: 0x
+invalid
+BIOS
+Memory
+VRAM
+setting 
+ size to 
+        
+string too long
+too many HCI errors setting feature 
+	HciFunction returned 
+ for i= 
+[ max length: 
+error in query...
+ 640x480, 
+ 800x600, 
+1024x768, 
+1024x600, 
+ 800x480, 
+ 1400x1050, 
+ 1600x1200, 
+ 1280x600, 
+ 1280x800, 
+ 1440x900, 
+ 1920x1200, 
+resolution (
+) unknown
+mono STN  
+colour STN
+9 bit TFT 
+12 bit TFT
+18 bit TFT
+24 bit TFT
+type (
+usage: 
+ [args]
+	where args are one or more of:
+Command line error: 
+unrecognized command-line option
+error when querying feature: 
+: unable to get BIOS version
+: unable to get machine identification
+This machine does not appear to have a Toshiba BIOS.
+machine id: 
+Don't expect this program to do anything useful!!
+: this computer is not supported
+ machine id: 0x%04x    BIOS version: %d.%d    SCI version: %d.%d
+%s: unrecognized machine identification:
+machine id : 0x%04x    BIOS version : %d.%d    SCI version: %d.%d
+please email this information to charles@schwieters.org 
+ and include the following: 
+ model
+and model number, eg. Libretto 50CT model number PA1249E
+ the output of cat /proc/acpi/toshiba/version
+ lsmod |grep tosh
+verbose
+long query
+run fast
+battery save mode
+user settings
+user
+full power
+full
+low power
+economy settings
+economy
+normal life
+normal
+long life
+long
+full life
+power source
+battery
+external
+LCD backlight
+transreflective mode
+fan1
+fan2
+high1
+high
+select bay
+empty
+floppy
+CDROM
+hard disk
+select bay lock
+engaged
+engage
+IR port
+USB legacy mode
+disable
+enabled
+enable
+USB FDD emulation mode
+LAN controller
+sound logo
+startup logo
+picture
+animation
+Video out
+internal: LCD
+external monitor
+internal and external monitor
+both
+tv out
+mode5 ??
+mode5
+mode6 ??
+mode6
+mode7 ??
+mode7
+HibInfo: BIOS size
+HibInfo: memory size
+HibInfo: VRAM size
+Hibernation LBA
+flat panel
+system beep
+lcd brightness
+semi-bright
+semi
+Do nine men interpret Nine men I nod
+bright
+super-bright
+super
+lcd intensity
+CPU speed
+slow
+fast
+CPU sleep mode
+Display stretch
+CPU cache
+cache policy
+write back
+write-back
+write through
+write-through
+speaker volume
+medium
+battery alarm
+panel alarm
+panel power
+hard disk auto-off time
+1 minute
+3 minutes
+5 minutes
+10 minutes
+15 minutes
+20 minutes
+30 minutes
+display auto-off time
+power-up mode
+boot
+resume
+hibernate
+quick-hibernate
+quick
+battery percent
+Degas are we not drawn onward no In union drawn onward to new eras aged
+second battery
+cooling method
+performance
+perform
+quiet
+other
+power-up alarm
+auto-off time
+ 10 minutes
+ 20 minutes
+ 30 minutes
+ 40 minutes
+ 50 minutes
+ 60 minutes
+parallel port mode
+Standby time
+Hibernation
+not configured
+configured
+Pointer
+boot method
+floppy->hard disk->CDROM
+fdhdcd
+hard disk->floppy->CDROM
+hdfdcd
+floppy->CDROM->hard disk
+fdcdhd
+hard disk->CDROM->floppy
+hdcdfd
+CDROM->floppy->hard disk
+cdfdhd
+CDROM->hard disk->floppy
+cdhdfd
+wireless support
+not present
+present
+wireless switch
+bluetooth
+boot device
+user password
+supervisor password
+owner string
+<on|off> enable/disable system beep
+<string> set lcd brightness
+-lcd
+<num> set lcd intensity
+-inten
+<setting> set power-up mode
+-pow
+<0-3> set beep (and modem!) volume
+-vol
+<num> number of minutes until disk spindown
+-hdd
+<on|off> display stretch
+-dstretch
+<num> number of minutes until display auto-off
+<quiet|perform> set cooling method
+<setting> battery-save mode
+<on|off> lcd backlight
+<on|off> transreflective mode
+-trmode
+<on|off> fan
+-fan
+<enable|disable> hibernation
+-hib
+memory size in bytes
+-memsize
+<0|1|2> pointer
+-pointer
+hibernation address
+-lba
+<int|ext|both|tv> video out
+-video
+<fast|slow> CPU speed
+-cpu
+<on|off> CPU cache
+-cpucache
+<on|off> sleep mode
+alula
+-sleep
+<on|off> battery alarm
+-balarm
+<on|off> lid-closed alarm
+-palarm
+<dis|HH:MM[/everyday|DD/MM[/YYYY]]> time/date to wake
+-walarm
+<string> owner string
+-ostring
+<on|off> power-off when lid closed
+-ppower
+<boot sequence>
+-boot
+<option> parallel port mode
+-parallel
+set user password
+-upasswd
+set supervisor password
+-spasswd
+<dis|min> mins to system auto-off
+-autooff
+<on|off> enable/disable internal bluetooth
+-bluetooth
+<on|off> enable/disable 3g modem frequency
+<enable|disable> USB legacy mode
+-usblegacy
+<enable|disable> USB FDD emulation mode
+-usbfdd
+<enable|disable> LAN controller
+-lan
+<enable|disable> sound logo
+-soundlogo
+<picture|animation> startup logo mode
+-startlogo
+[glob] query option matching glob (or all if no arg)
+toggle verbose mode
+toggle long query
+skip checks, run faster
+-fast
+../cdsString.cc
+rep->count==1
+../cdsString.hh
+len>=0
+$Id: toshset.cc,v 1.51 2010-02-12 16:30:51 schwitrs Exp $
+$State: Exp $
+NOT TESTED: pbackfail: 
+NOT TESTED: setbuf: 
+CDSString<CHAR>& CDSString<CHAR>::resize(int) [with CHAR = char]
+CDSStringRep<CHAR>::CDSStringRep(const CDSStringRep<CHAR>*) [with CHAR = char; CDSStringRep<CHAR> = CDSStringRep<char>]
+6ArgSetILi0EE
+6ArgSetILi1EE
+8ArgQuery
+10CmdLineArg
+10LCDFeature
+18OwnerStringFeature
+14HibInfoFeature
+10LbaFeature
+12VideoFeature
+15ThreeGRFFeature
+16BlueToothFeature
+15WirelessFeature
+19LCDIntensityFeature
+10HciFeature
+14PercentFeature
+N3CDS9exceptionE
+13PasswdFeature
+16CDSIStringStreamIcE
+11TimeFeature
+10SciFeature
+12ModelFeature
+13AccessFeature
+16CDSOStringStreamIcE
+Beeb
+18CDSStringStreamBufIcE
+14VersionFeature
+13ToggleFeature
+7Feature
+Satellite M30
+Satellite Pro M30
+Satellite 2140CDS
+Satellite 2670/2675/2715XDVD
+Satellite Pro 4290
+Portege 3440CT
+Satellite 2100CDS/CDT
+Satellite 2610CDT, 2650XDVD
+Portage 7140CT
+Satellite Pro 4200
+Tecra 8100x
+Equium 2000
+Satellite 2060CDS/CDT
+Satellite 2550/2590
+Portage 3110CT
+Portage 3300CT
+Portege 7020CT
+Satellite 4030/4030X/4050/4060/4070/4080/4090/4100X CDS/CDT
+Satellite 2545X/2520/2540 CDS/CDT
+Satellite 4000/4010 XCDT
+Satellite 4000/4010/4020 CDS/CDT
+Tecra 8000x
+Satellite 2510CDS/CDT
+Portage 3020x
+Portage 7000CT/7010CT
+T2200SX
+T4500C
+T4500
+T4400SX/SXC
+Satellite S2210CDT
+2770 dvd
+Portege 7200/7220
+Libretto 50CT, Satellite 2805-S401
+Portege 3480CT
+Satellite 2250XCDS
+Satellite Pro 4600
+Satellite T2115CS
+Satellite 2805-s402
+T3300SL
+Tecra 8200 PT8200U
+Tecra 9000
+Satellite 1800-S253
+Portege 4000
+Satellite PS287A, 2805-s503
+T1900C
+T1900
+satellite 5005-s504
+T1850C
+T1850
+T1800
+Libretto L2
+Satellite Pro 6000
+Satellite 1805-S207/S274, 1800-712/814
+Portege 2000
+DynaBook Satellite 1800
+Satellite 5005-S507
+Tecra 9100
+Satellite TE2000
+Satellite 5100-201,5105-S607
+Portege 4010
+satellite pro 6100
+T4600C
+T4600
+T6600C
+Libretto L5
+TE2100
+Satellite TE2100
+T2400CT
+T4800CT
+T1910
+T4700CS
+T4700CT
+T1950
+T3400/T3400CT
+Libretto 30CT
+Satellite 2400-103, 1405-s171
+Dynabook SS 2000M
+Satellite 1405-S151, 1400-103, 1400-503
+Satellite 5100-503, 5105-S901
+Portege 2010
+DynaBook SS S5
+Satellite 5200-*, 5205-*
+Satellite 2410-*, 1410-604, 1415-S173
+Portege 3505
+Satellite Pro M10, M15-S405
+T2150
+T2130CT
+T4850CT
+Satellite Pro 420x
+Satellite 100x
+Tecra 710x/720x
+Satellite Pro 410x
+Satellite Pro 400x
+Portage 610CT
+Tecra 700x
+T4900CT
+Satellite 300x
+Tecra 750CDT
+Vision Connect -- what is this???
+A Santa lives evil at NASA
+Tecra 730XCDT
+Tecra 510x
+Satellite 200x
+Libretto 50CT
+Satellite Pro 430x
+Tecra 740x
+Portage 660CDT
+Tecra 730x/730X
+Portage 620CT
+Portage 650CT
+Satellite 110x
+Tecra 500x
+Tecra 780DVD
+Satellite 310x
+Satellite Pro 490x
+Libretto 100CT
+Libretto 70CT
+Tecra 540x/550x
+Satellite Pro 470x/480x
+Tecra 750DVD
+Libretto 60
+Satellite 320x/330x, Satellite 2500CDS
+Tecra 520x/530x
+Satellite 220x, Satellite Pro 440x/460x
+Tecra M1
+Satellite 2450
+Satellite 5200-903
+R100
+Satellite A10-213
+Satellite A10, A20, A25-S207
+Portege M100/M300/M400/M500/R200 Tecra M2/A2/A3/M4/M7 Qosmio F30/G40
+unknown
+;*3$"
+zPLR
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.gcc_except_table
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got
+.got.plt
+.data
+.bss

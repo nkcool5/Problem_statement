@@ -1,0 +1,774 @@
+/lib64/ld-linux-x86-64.so.2
+libupower-glib.so.3
+g_intern_static_string
+g_string_new
+g_once_init_enter
+_ITM_deregisterTMCloneTable
+g_object_unref
+g_value_set_uint
+g_strsplit
+g_once_init_leave
+g_ptr_array_unref
+g_type_name
+g_type_class_adjust_private_offset
+g_assertion_message_expr
+g_return_if_fail_warning
+g_string_free
+g_object_new
+g_strcmp0
+g_value_get_int
+g_ptr_array_add
+g_strdup_printf
+g_type_class_peek_parent
+g_ptr_array_new
+g_ptr_array_new_with_free_func
+g_param_spec_boolean
+__gmon_start__
+g_object_ref
+g_type_add_instance_private
+g_value_set_boolean
+g_type_check_class_cast
+g_type_register_static_simple
+g_strfreev
+g_object_class_install_property
+g_string_append_printf
+g_log
+g_param_spec_uint
+g_type_check_instance_is_a
+g_object_set
+g_type_check_instance_cast
+g_value_get_boolean
+_Jv_RegisterClasses
+g_get_current_time
+g_malloc0
+g_strdup
+g_signal_connect_data
+g_object_get
+_ITM_registerTMCloneTable
+g_value_get_uint
+g_error_free
+up_wakeup_item_get_id
+up_device_set_object_path_sync
+up_device_get_history_sync
+up_stats_item_get_accuracy
+up_wakeups_get_total_sync
+up_device_new
+up_device_get_object_path
+up_stats_item_get_value
+up_wakeup_item_get_details
+up_wakeup_item_get_cmdline
+up_history_item_get_value
+up_wakeup_item_get_is_userspace
+up_client_get_devices
+up_device_kind_to_string
+up_client_new
+up_wakeups_get_has_capability
+up_device_get_statistics_sync
+up_wakeup_item_get_value
+up_history_item_get_state
+up_wakeups_get_data_sync
+up_history_item_get_time
+up_wakeups_new
+libgtk-3.so.0
+g_themed_icon_new_from_names
+g_settings_get_boolean
+g_array_sized_new
+g_option_context_parse
+cairo_set_line_width
+g_settings_new
+g_array_free
+g_application_get_type
+pango_layout_set_text
+g_option_context_new
+cairo_move_to
+g_application_quit
+g_slist_length
+cairo_rectangle
+pango_layout_get_pixel_extents
+cairo_save
+Beeb
+cairo_set_source_rgb
+pango_font_description_free
+g_settings_get_int
+gdk_keymap_add_virtual_modifiers
+g_str_has_prefix
+gdk_keymap_get_default
+g_ptr_array_set_size
+g_strrstr
+g_option_context_free
+g_static_resource_get_resource
+g_markup_printf_escaped
+g_themed_icon_new
+cairo_line_to
+g_value_set_int
+g_icon_get_type
+g_static_resource_init
+g_option_context_add_main_entries
+g_static_resource_fini
+g_settings_set_int
+pango_layout_new
+g_settings_get_string
+g_param_spec_int
+cairo_restore
+g_markup_escape_text
+g_settings_set_boolean
+g_slist_nth_data
+pango_font_description_from_string
+g_string_append
+g_slist_append
+cairo_stroke
+pango_cairo_show_layout
+cairo_fill
+pango_layout_set_font_description
+cairo_set_dash
+g_slist_free
+g_filename_display_basename
+gtk_drawing_area_get_type
+gtk_tree_view_set_cursor_on_cell
+gtk_cell_renderer_text_new
+gtk_label_get_type
+gtk_combo_box_text_get_type
+gtk_widget_get_allocation
+gtk_window_get_type
+gtk_tree_view_set_model
+gtk_notebook_set_current_page
+gtk_window_present
+gtk_notebook_get_type
+gtk_icon_theme_get_default
+gtk_window_set_default_size
+gtk_tree_selection_get_selected
+gtk_box_pack_start
+gtk_toggle_button_get_type
+gtk_widget_hide
+gtk_tree_model_get
+gtk_tree_model_iter_next
+God A red nugget A fat egg under a dog
+gtk_widget_get_pango_context
+gtk_tree_view_append_column
+gtk_notebook_get_current_page
+gtk_tree_model_get_type
+gtk_accelerator_get_default_mod_mask
+gtk_tree_path_new_from_string
+gtk_toggle_button_get_active
+gtk_widget_set_size_request
+gtk_combo_box_set_active
+gtk_widget_get_type
+gtk_list_store_remove
+gtk_tree_model_get_iter_first
+gtk_application_new
+gtk_tree_view_get_selection
+gtk_builder_get_object
+gtk_list_store_set
+gtk_tree_view_column_set_sort_column_id
+gtk_icon_theme_append_search_path
+gtk_tree_path_free
+gtk_list_store_append
+gtk_label_set_label
+gtk_window_set_application
+gtk_tree_view_column_set_expand
+gtk_list_store_clear
+gtk_box_get_type
+gtk_tree_view_column_new_with_attributes
+gtk_widget_queue_draw
+gtk_tree_view_get_type
+gtk_tree_view_columns_autosize
+gtk_init
+gtk_combo_box_get_type
+gtk_window_set_default_icon_name
+gtk_cell_renderer_pixbuf_new
+gtk_builder_add_from_resource
+gtk_widget_show
+gtk_window_set_title
+gtk_application_get_type
+gtk_builder_new
+gtk_list_store_new
+gtk_combo_box_text_append_text
+gtk_notebook_get_nth_page
+gtk_combo_box_text_get_active_text
+gtk_toggle_button_set_active
+libgio-2.0.so.0
+g_ptr_array_remove_index_fast
+g_application_run
+g_settings_set_string
+g_application_command_line_get_arguments
+libgdk-3.so.0
+libpangocairo-1.0.so.0
+libpango-1.0.so.0
+pango_context_set_base_gravity
+libgobject-2.0.so.0
+libglib-2.0.so.0
+g_option_context_set_summary
+libcairo.so.2
+libm.so.6
+expf
+sqrtf
+ceilf
+floorf
+libgcc_s.so.1
+_Unwind_Resume
+__gcc_personality_v0
+libc.so.6
+setlocale
+dcngettext
+dcgettext
+__stack_chk_fail
+bind_textdomain_codeset
+strftime
+localtime
+strchr
+bindtextdomain
+Do nine men interpret Nine men I nod
+__libc_start_main
+_edata
+__bss_start
+_end
+GCC_3.3.1
+GCC_3.0
+GLIBC_2.2.5
+GLIBC_2.4
+a_&	
+ATUSH
+[]A\
+AWAVAUATUSH
+([]A\A]A^A_
+[]A\A]A^A_
+ATUS
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVAUATUS
+8[]A\A]A^A_
+[]A\A]A^A_
+)\$ H
+(\$ 
+)\$ H
+(\$ H
+AWAV
+AUATH
+\$PH
+D$XvH
+D$hH
+D$ H
+t$ M
+t$0H
+t$0H
+L$(H
+t$0H
+|$(L
+[]A\A]A^A_
+D$ t
+|$(H
+D$(1
+D$(dH3
+D$H1
+t$ H
+t$ H
+t$ H
+D$HdH3
+AWAVAUATSH
+[A\A]A^A_]
+AWAVI
+AUATA
+[]A\A]A^A_
+t+f.
+AVSH
+[A^]
+AWAVAUATUSH
+D$(1
+D$(dH3
+8[]A\A]A^A_
+A;l$
+A;\$
+USE1
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+D$81
+=m~ 
+=q~ 
+D$8dH3
+=e} 
+=@} 
+ATUS
+D$(1
+=Z} 
+={| 
+=0| 
+D$(dH3
+0[]A\
+D$(dH3
+[]A\
+AWAVAUATH
+=V{ 
+=Az 
+=-z 
+[A\A]A^A_]
+AWAVAUATI
+=Mw 
+=7w 
+={w 
+=Cv 
+=+v 
+=su 
+=cu 
+=Oo 
+=vo 
+=qn 
+=7n 
+=Em 
+=ej 
+=[j 
+=0j 
+[A\A]A^A_]
+=ni 
+AXAYH
+AZA[H
+ATUSH
+[]A\
+[]A\
+[]A\
+[]A\1
+[]A\A]A^
+AWAVI
+AUATI
+[]A\A]A^A_
+ATPA
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+([]A\A]
+AWAVAUATUSH
+Lc=yZ 
+T$pH
+D$hA9
+D$8A
+D$4H
+D$ D
+gfffE1
+T$pH
+D$hL
+\$ A
+t$PL
+L$4D
+D$\E
+D$+E
+L$+D
++L$8
+D$0H
+L$ f
++A$L
+A0D+c D+{$
+T$pH
+*D$ht
+T$pH
+*L$lt
+D$hf
+t$HH
+T$LH
+\$,E
+t$`L
+ZD$H
+ZL$L
+ZD$`
+ZL$p
+D$`H
+[]A\A]A^A_
+D$HH
+d$<E1
+|$0D
+L$8D
+D$0f
+AUATA
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+AWAVAUATUSH
+t,f.
+[]A\A]A^A_
+[]A\A]A^A_
+Degas are we not drawn onward no In union drawn onward to new eras aged
+AWAVA
+AUATL
+%^; 
+-f; 
+[]A\A]A^A_
+above index! (%i)
+PowerManager
+length % 2 == 1
+[%i]	val=%f
+x2 >= x1
+half_length=%i, div=%f, sigma=%f
+got wrong sum (%f), perhaps sigma too high for size?
+gpm_array_float_remove_outliers
+gpm_array_float_compute_integral
+gpm_array_float_compute_gaussian
+?verbose
+Select this device at startup
+Power Statistics
+info-last-device
+treeview_devices
+failed to select
+dialog_stats
+caution
+good
+percentage
+removed:   %s
+application-x-executable
+applications-system
+notebook1
+label_total_wakeups
+IRQ%i
+IRQx
+%.1f
+No data
+insmod
+Kernel module
+modprobe
+swapper
+Kernel core
+kernel-ipi
+Interprocessor interrupt
+Interrupt
+<i>%s</i>
+i8042
+PS/2 keyboard/mouse/touchpad
+acpi
+ACPI
+ata_piix
+Serial ATA
+libata
+ATA host controller
+iwl3945
+Intel wireless adaptor
+iwlagn
+__mod_timer
+Timer %s
+hrtimer_start_expires
+hrtimer_start
+do_setitimer
+do_nanosleep
+Sleep %s
+enqueue_task_rt
+New task %s
+futex_wait
+Wait %s
+queue_delayed_work_on
+Work queue %s
+queue_delayed_work
+dst_run_gc
+Network route flush %s
+usb_hcd_poll_rh_status
+USB activity %s
+schedule_hrtimeout_range
+Wakeup %s
+Local timer interrupts
+Local interrupts
+Rescheduling interrupts
+Unknown
+%.0f seconds
+%.0f second
+%.1f minutes
+%.1f minute
+%.1f hours
+%.1f hour
+%.1f days
+%.1f day
+AC adapters
+AC adapter
+Laptop batteries
+Laptop battery
+UPSs
+Monitors
+Monitor
+Mice
+Mouse
+Keyboards
+Keyboard
+PDAs
+Cell phones
+Cell phone
+Media players
+Media player
+Tablets
+Tablet
+Computers
+Computer
+enum unrecognised: %i
+state
+kind
+model
+serial
+vendor
+voltage
+energy-rate
+energy-full-design
+Eleele
+energy-full
+energy-empty
+energy
+capacity
+time-to-empty
+time-to-full
+is-present
+is_rechargeable
+power_supply
+update_time
+online
+Device
+Type
+Vendor
+Model
+Supply
+Serial number
+%d seconds
+%d second
+Refreshed
+Present
+Rechargeable
+Charging
+Discharging
+Empty
+Charged
+Waiting to charge
+Waiting to discharge
+gpm-statistics.c
+State
+%.1f Wh
+Energy
+Energy when empty
+Energy when full
+Energy (design)
+%.1f W
+Rate
+%.1f V
+Voltage
+Time to full
+Time to empty
+%.1f%%
+Percentage
+Capacity
+Lithium Ion
+Lithium Polymer
+Lithium Iron Phosphate
+Lead acid
+Nickel Cadmium
+Nickel metal hydride
+Unknown technology
+Technology
+Online
+discharging
+autorange-x
+type-y
+type-x
+stop-y
+start-y
+autorange-y
+stop-x
+start-x
+label_history_nodata
+checkbutton_smooth_history
+checkbutton_points_history
+discharge-data
+discharge-accuracy
+label_stats_nodata
+checkbutton_smooth_stats
+checkbutton_points_stats
+has-statistics
+has-history
+10 minutes
+2 hours
+6 hours
+1 day
+1 week
+FALSE
+info-history-time
+info-stats-graph-points
+info-history-graph-points
+info-stats-graph-smooth
+info-history-graph-smooth
+Time elapsed
+Power
+Charge
+Cell charge
+time-full
+Predicted time
+time-empty
+label_axis_history_x
+label_axis_history_y
+info-history-type
+Charge profile
+Correction factor
+Charge accuracy
+Prediction accuracy
+Discharge profile
+Discharge accuracy
+label_axis_stats_x
+label_axis_stats_y
+info-stats-type
+selected row is: %s
+no row selected
+changed:   %s
+Device Information
+Device History
+Device Profile
+Processor Wakeups
+%s - %s
+info-page-number
+notify
+ac-adapter;
+battery-missing;
+battery-empty;
+battery-full-charged;
+battery-full-charging;
+battery-%s-charging;
+battery-%s;
+got filename: %s
+dialog-warning;
+device != NULL
+added:     %s
+failed to load ui: %s
+hbox_history
+hbox_statistics
+gnome-power-manager
+clicked
+switch-page
+key_press_event
+treeview_info
+Attribute
+markup
+Value
+stock-size
+Image
+gicon
+Description
+treeview_wakeups
+icon-name
+Command
+Details
+combobox_history_type
+combobox_stats_type
+combobox_history_time
+data-changed
+device-added
+device-removed
+computer
+Processor
+/usr/share/locale
+UTF-8
+org.gnome.power-manager
+command-line
+Show extra debugging information
+nothing matched, falling back to default icon
+/org/gnome/power-manager/gpm-statistics.ui
+org.gnome.PowerManager.Statistics
+/usr/share/gnome-power-manager/icons
+gpm_stats_type_combo_changed_cb
+gpm_stats_history_type_combo_changed_cb
+gpm_stats_get_device_icon
+gpm_stats_update_info_page_stats
+gpm_device_technology_to_localised_string
+gpm_device_state_to_localised_string
+alula
+gpm_stats_range_combo_changed
+=Sans 8
+use-legend
+use-grid
+%id%02ih
+%ih%02im
+%2im
+%2im%02i
+%2is
+%i%%
+%.1fW
+%.1fV
+divisor zero
+GpmGraphWidget
+property
+gpm-graph-widget.c
+GPM_IS_GRAPH_WIDGET (graph)
+Data range is %f<x<%f
+Processed(1) range is %i<x<%i
+Processed range is %i<x<%i
+Data range is %f<y<%f
+Processed(1) range is %i<y<%i
+Processed range is %i<y<%i
+no data
+keydataitem NULL!
+graph != NULL
+add to list %s
+data != NULL
+%s:%d: invalid %s id %u for "%s" of type '%s' in '%s'
+gpm_graph_widget_data_assign
+gpm_graph_widget_data_clear
+gpm_graph_widget_key_data_add
+gpm_graph_widget_legend_calculate_size
+gpm_graph_widget_draw
+gpm_graph_widget_key_data_clear
+?GVariant
+org/
+power-manager/
+gnome/
+gpm-statistics.ui
+A Santa lives evil at NASA
+RXKI%
+}^{I$
+G56"$
+Tacocat
+Borrow or rob
+AO^@
+=ewcex
+1Ab SV
+|'g[
+E3<i
+@bBEzgi
+@rf+
+`vJO
+J&2w
+OoM<
+[6dZN
+.8x@
+`#FB)
+'%jQH;
+<-]l
+;OC;0
+zC90
+V89[
+{hp'
+]	e^
+(uuay)
+;*3$"
+zPLR
+.@L.
+. K.
+4980c782641afd7fb7a2d60e8a74458eef5cec.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.gresource.gpm
+.eh_frame_hdr
+.eh_frame
+.gcc_except_table
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

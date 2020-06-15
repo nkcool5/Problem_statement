@@ -1,0 +1,704 @@
+/lib64/ld-linux-x86-64.so.2
+libgtk-3.so.0
+g_free
+g_memdup
+XFree
+cairo_set_operator
+gdk_device_ungrab
+g_param_spec_string
+gdk_display_get_default
+g_intern_static_string
+g_io_channel_set_encoding
+g_value_dup_string
+Tacocat
+g_cclosure_marshal_VOID__INT
+g_hash_table_destroy
+g_str_hash
+g_variant_get_int32
+g_io_channel_unix_new
+g_variant_builder_add
+g_print
+g_option_context_free
+g_signal_emit
+g_variant_builder_init
+__gmon_start__
+_Jv_RegisterClasses
+cairo_destroy
+g_object_unref
+g_param_spec_enum
+g_strcmp0
+g_strdup
+g_value_set_boolean
+g_timer_new
+g_value_get_double
+g_value_get_enum
+gdk_window_remove_filter
+g_hash_table_insert
+gdk_flush
+g_value_set_int
+gdk_display_get_device_manager
+gdk_cursor_new
+pango_attr_list_new
+g_object_class_install_property
+g_enum_register_static
+g_cclosure_marshal_VOID__STRING
+g_option_context_add_main_entries
+g_object_notify
+g_timer_elapsed
+gdk_device_warp
+g_param_spec_int
+_ITM_deregisterTMCloneTable
+g_cclosure_marshal_VOID__BOXED
+g_value_get_boolean
+g_hash_table_remove_all
+g_object_new
+g_object_ref
+gdk_x11_display_get_xdisplay
+_ITM_registerTMCloneTable
+g_strdup_printf
+g_value_set_string
+gdk_error_trap_pop
+gdk_display_get_screen
+g_variant_type_checked_
+g_object_add_weak_pointer
+g_hash_table_new_full
+pango_attr_weight_new
+g_get_application_name
+g_hash_table_foreach
+g_value_set_double
+g_param_spec_boolean
+g_timer_start
+God A red nugget A fat egg under a dog
+cairo_rectangle
+gdk_x11_get_default_root_xwindow
+g_timer_destroy
+g_option_context_parse
+cairo_create
+g_value_set_enum
+g_return_if_fail_warning
+gdk_error_trap_push
+g_object_set
+g_option_context_add_group
+gdk_screen_get_root_window
+g_signal_new
+g_type_check_instance_is_a
+g_param_spec_double
+g_type_name
+g_source_remove
+g_signal_connect_data
+cairo_image_surface_create_for_data
+g_type_instance_get_private
+gdk_window_set_cursor
+g_cclosure_marshal_VOID__VOID
+g_type_register_static_simple
+gdk_device_manager_get_client_pointer
+cairo_set_source_rgba
+g_hash_table_lookup
+g_cclosure_marshal_VOID__DOUBLE
+gdk_device_grab
+pango_attr_list_unref
+cairo_fill
+g_settings_new
+g_io_channel_unref
+g_once_init_enter
+cairo_surface_destroy
+g_slist_index
+g_option_context_new
+pango_attr_list_insert
+g_error_free
+gdk_device_get_position
+g_malloc_n
+g_timeout_add
+g_io_channel_set_close_on_unref
+g_value_get_int
+g_object_connect
+gdk_window_add_filter
+g_once_init_leave
+gdk_screen_get_default
+g_type_class_add_private
+g_slist_nth_data
+g_slice_free1
+g_type_class_peek_parent
+g_log
+g_str_equal
+g_variant_new
+g_slice_alloc0
+g_type_class_adjust_private_offset
+g_boxed_type_register_static
+gtk_get_option_group
+gtk_radio_button_get_group
+gtk_orientable_set_orientation
+gtk_label_get_type
+gtk_menu_get_type
+gtk_widget_set_visible
+gtk_message_dialog_new
+gtk_window_get_type
+gtk_label_set_attributes
+gtk_menu_popup
+gtk_window_stick
+gtk_message_dialog_get_type
+gtk_window_get_position
+gtk_toggle_button_get_type
+gtk_bin_get_type
+_fini
+gtk_widget_hide
+gtk_widget_destroy
+gtk_orientable_get_type
+gtk_check_menu_item_set_active
+gtk_dialog_get_type
+gtk_window_parse_geometry
+gtk_toggle_button_get_active
+gtk_widget_get_type
+gtk_main_quit
+gtk_get_current_event_time
+gtk_window_set_keep_above
+gtk_radio_button_get_type
+gtk_widget_grab_focus
+gtk_builder_get_object
+gtk_dialog_run
+gtk_message_dialog_format_secondary_text
+gtk_builder_add_from_file
+gtk_settings_get_default
+gtk_main
+gtk_bin_get_child
+gtk_check_menu_item_get_type
+gtk_widget_get_visible
+gtk_widget_get_style
+gtk_check_menu_item_get_active
+gtk_init
+gtk_widget_set_sensitive
+gtk_dialog_add_button
+gtk_widget_show
+gtk_toggle_button_set_mode
+gtk_window_set_title
+gtk_builder_new
+gtk_show_uri
+gtk_window_get_size
+gtk_window_set_icon_name
+gtk_toggle_button_set_active
+libgdk-3.so.0
+XFreeCursor
+XcursorImageCreate
+g_io_add_watch
+XcursorImageLoadCursor
+XFixesQueryExtension
+XcursorLibraryLoadCursor
+XGetAtomName
+XQueryPointer
+XcursorImageDestroy
+gdk_display_get_n_screens
+libpango-1.0.so.0
+libcairo.so.2
+libgio-2.0.so.0
+g_variant_new_int32
+g_io_channel_read_chars
+g_io_channel_set_flags
+g_bus_unown_name
+g_dbus_node_info_unref
+g_dbus_connection_register_object
+g_dbus_connection_emit_signal
+g_bus_own_name
+g_settings_bind
+g_dbus_node_info_new_for_xml
+libgobject-2.0.so.0
+g_type_check_instance_cast
+g_type_check_class_cast
+libglib-2.0.so.0
+g_get_user_runtime_dir
+g_set_application_name
+libX11.so.6
+XUngrabButton
+XAllowEvents
+XGrabButton
+XDefaultRootWindow
+libXcursor.so.1
+XFixesSetCursorName
+libXfixes.so.3
+XFixesChangeCursorByName
+XFixesGetCursorImage
+XFixesSelectCursorInput
+libXtst.so.6
+XTestFakeButtonEvent
+XTestGrabControl
+XTestQueryExtension
+libpthread.so.0
+write
+read
+__errno_location
+fcntl
+sigaction
+fork
+open
+close
+libc.so.6
+exit
+setlocale
+pipe
+dcgettext
+sigprocmask
+sigfillset
+__stack_chk_fail
+unlink
+select
+getpid
+kill
+bind_textdomain_codeset
+strtol
+Eleele
+sigemptyset
+umask
+__snprintf_chk
+bindtextdomain
+__libc_start_main
+_edata
+__bss_start
+_end
+GLIBC_2.4
+GLIBC_2.3.4
+GLIBC_2.2.5
+AWAVAUATUSH
+|$,H
+T$ H
+t$,H
+[]A\A]A^A_
+d$HL
+D$0H
+D$ H
+t$8H
+D$4H
+|$ A
+ueE1
+UH-x
+fffff.
+AUAT
+|$PH
+D$8H
+D$hH
+D$4H
+L$HH
+D$ H
+D$DH
+D$<H
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+[]A\A]
+AVAUATUI
+[]A\A]A^
+A+\$ 
+A+T$
+D$ A\A]A^
+A+\$ 
+A+L$
+fffff.
+AWAVAUATUSH
+D$81
+T$2H
+t$0H
+T$6H
+t$4H
+D$(D
+D$(f
+L$ H
+T$0L
+L$6D
+D$4H
+D$8dH3
+H[]A\A]A^A_
+fffff.
+AUATI
+tE~r
+[]A\A]
+[]A\A]
+[]A\A]
+fffff.
+AUATUS
+Beeb
+[]A\A]
+fffff.
+AVAUATUH
+]A\A]A^
+[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+AUATUSH
+9h0tv;h4
+;h<u
+[]A\A]
+fff.
+AVAUI
+ATU1
+[]A\A]A^
+D$(1
+L$(dH3
+ffffff.
+AVAUATUSH
+dH34%(
+[]A\A]A^
+ATUHc
+ []A\
+AVAU
+ATUSH
+D$H1
+t$HdH34%(
+P[]A\A]A^
+@ px@
+@(`w@
+ATUI
+ZYu&H
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+AUATI
+([]A\A]
+[]A\A]
+fffff.
+AVAUI
+ATUA
+D$H1
+ tfH
+D$HdH3
+P[]A\A]A^
+ffff.
+fff.
+fff.
+=d{ 
+=3{ 
+AWAVAUATUSH
+D$81
+=<z 
+L$8dH3
+H[]A\A]A^A_
+XZt	H
+=`x 
+=5x 
+=hw 
+=3w 
+=Xv 
+=>v 
+fffff.
+ATUSH
+h@Q@
+[]A\
+53t 
+ffffff.
+AUATI
+[]A\A]
+[]A\A]
+AUATI
+([]A\A]
+[]A\A]
+ffff.
+fffff.
+ffffff.
+ffff.
+ffff.
+=|m 
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+ATUI
+[]A\
+[]A\
+ATUI
+[]A\
+[]A\
+AUATUSH
+[]A\A]
+[]A\A]
+ATUI
+[]A\
+[]A\
+ATUSH
+[]A\
+fffff.
+ffff.
+AUATUSH
+[]A\A]
+fffff.
+AUATUSH
+[]A\A]
+ATUH
+D$H1
+T$$RH
+T$(RH
+T$,RH
+L$HL
+L$0L
+D$,H
+5Rb 
+|$<1
+T$4H
+T$81
+\$HdH3
+P[]A\
+ffff.
+ATUSH
+dH34%(
+ []A\
+5]_ 
+ffffff.
+ATUSH
+[]A\
+fffff.
+fffff.
+==[ 
+H;\$
+=PZ 
+=(Y 
+=pX 
+fffff.
+=$R 
+Do nine men interpret Nine men I nod
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+([]A\A]
+AVAUI
+ATUI
+[]A\A]A^
+[]A\A]A^A_
+GDesktopMouseDwellMode
+GDesktopMouseDwellDirection
+MtDwellClickType
+MtClickTypeWindowStyle
+MtClickTypeWindowOrientation
+MT_DWELL_CLICK_TYPE_RIGHT
+right
+MT_DWELL_CLICK_TYPE_DRAG
+MT_DWELL_CLICK_TYPE_DOUBLE
+MT_DWELL_CLICK_TYPE_SINGLE
+MT_DWELL_CLICK_TYPE_MIDDLE
+middle
+left
+gesture
+MT_CLICK_TYPE_WINDOW_ORIENTATION_HORIZONTAL
+MT_CLICK_TYPE_WINDOW_ORIENTATION_VERTICAL
+MT_CLICK_TYPE_WINDOW_STYLE_TEXT
+MT_CLICK_TYPE_WINDOW_STYLE_ICON
+MT_CLICK_TYPE_WINDOW_STYLE_BOTH
+G_DESKTOP_MOUSE_DWELL_DIRECTION_LEFT
+G_DESKTOP_MOUSE_DWELL_DIRECTION_RIGHT
+G_DESKTOP_MOUSE_DWELL_DIRECTION_UP
+G_DESKTOP_MOUSE_DWELL_DIRECTION_DOWN
+G_DESKTOP_MOUSE_DWELL_MODE_WINDOW
+G_DESKTOP_MOUSE_DWELL_MODE_GESTURE
+dwell
+Enable dwell click
+dwell-time
+[0.2-3.0]
+ssc-time
+[0.5-3.0]
+Set the active dwell mode
+Degas are we not drawn onward no In union drawn onward to new eras aged
+[window|gesture]
+hide-ctw
+Hide the click-type window
+[0-30]
+Click-type window geometry
+WIDTHxHEIGHT+X+Y
+shutdown
+Shut down mousetweaks
+daemonize
+Start mousetweaks as a daemon
+login
+left_ptr
+Unknown button sequence.
+Unknown click-type.
+/usr/share/locale
+UTF-8
+Shutdown successful.
+Starting daemon.
+fork() failed.
+Couldn't create PID file.
+signal
+finished
+tick
+target-time
+secondary-click-time
+cursor_changed
+motion_event
+button_event
+Enable simulated secondary click
+Time to wait before a dwell click
+Time to wait before a simulated secondary click
+Ignore small pointer movements
+Start mousetweaks in login mode
+- GNOME mouse accessibility daemon
+Shutdown failed or nothing to shut down.
+Mousetweaks is already running. (PID %u)
+Couldn't create pipe for signal handling. Using fallback.
+No XTest extension found. Aborting.
+333333
+Borrow or rob
+@Trapped X Error code %i.
+input-mouse
+message-type
+gtk-ok
+ghelp:mousetweaks
+Failed to Display Help
+%s%smousetweaks.pid
+/org/gnome/Mousetweaks
+notify
+Click type
+MtService
+org.gnome.Mousetweaks
+{sv}
+(sa{sv}as)
+PropertiesChanged
+property
+mt-service.c:90
+mt-service.c:108
+MT_IS_SERVICE (service)
+The currently active click type
+org.freedesktop.DBus.Properties
+%s: invalid %s id %u for "%s" of type '%s' in '%s'
+mt_service_get_click_type
+mt_service_set_click_type
+<node>  <interface name='org.gnome.Mousetweaks'>    <property type='i' name='ClickType' access='readwrite'/>  </interface></node>
+popup
+single_i
+single_l
+double_l
+drag_l
+right_l
+double_i
+drag_i
+right_i
+yalign
+ctw-orientation
+signal::button-press-event
+signal::toggled
+notify::click-type
+signal::notify::ctw-style
+signal::notify::ctw-visible
+signal::notify::dwell-mode
+signal::notify::dwell-enabled
+menu_both
+menu_text
+menu_icon
+menu_orientation
+menu_horizontal
+menu_vertical
+menu_button_style
+%ix%i+%i+%i
+ctw-geometry
+/usr/share/mousetweaks/mousetweaks.ui
+signal::notify::ctw-orientation
+?Target time of the timer
+Target time
+MtTimer
+mt-timer.c:93
+mt-timer.c:75
+MT_IS_TIMER (timer)
+target >= 0.1
+mt_timer_set_target
+mt_timer_get_target
+mt_timer_elapsed
+mt_timer_is_running
+mt_timer_stop
+mt_timer_start
+?MtCursor
+name != NULL
+image != NULL
+width > 0 && height > 0
+MT_IS_CURSOR (cursor)
+xhot <= width && yhot <= height
+mt_cursor_get_dimension
+mt_cursor_get_hotspot
+mt_cursor_get_image_copy
+mt_cursor_get_image
+mt_cursor_get_name
+mt_cursor_new
+MtCursorManager
+notify::gtk-cursor-theme-name
+notify::gtk-cursor-theme-size
+MT_IS_CURSOR_MANAGER (manager)
+mt_cursor_manager_restore_all
+mt_cursor_manager_set_cursor
+mt_cursor_manager_lookup_cursor
+mt_cursor_manager_get_current_cursor
+MtListener
+MtEvent
+MtSigHandler
+MT_IS_SIG_HANDLER (sigh)
+mt_sig_handler_catch
+mt_sig_handler_setup_pipe
+org.gnome.mousetweaks
+click-type-window-style
+click-type-window-orientation
+A Santa lives evil at NASA
+click-type-window-geometry
+org.gnome.desktop.a11y.mouse
+dwell-click-enabled
+dwell-threshold
+dwell-gesture-single
+dwell-gesture-double
+dwell-gesture-drag
+dwell-gesture-secondary
+ssc-enabled
+secondary-click-enabled
+click-type-window-visible
+Enable dwell clicks
+Dwell enabled
+alula
+Dwell threshold
+Dwell click mode
+Dwell mode
+Gesture for single click
+Dwell gesture single
+Gesture for double click
+Dwell gesture double
+Gesture for drag action
+Dwell gesture drag
+Gesture for secondary click
+Dwell gesture secondary
+SSC enabled
+Click-type window visibility
+Click-type window style
+Click-type window orientation
+MtSettings
+mt-settings.c:190
+mt-settings.c:139
+Ignore small mouse movements below threshold
+Enable simulated secondary clicks
+Button style of the click-type window
+Orientation of the click-type window
+Size and position of the click-type window
+;*3$"
+060c6d0339858e982e6eae724cf2cfeb4d2c33.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got
+.got.plt
+.data
+.bss
+.gnu_debuglink

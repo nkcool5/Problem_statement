@@ -1,0 +1,2355 @@
+/lib64/ld-linux-x86-64.so.2
+libX11.so.6
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+XkbAllocServerMap
+XGetErrorText
+_init
+XkbGetGeometry
+XkbComputeSectionBounds
+XStringToKeysym
+XkbAllocControls
+XkbAddGeomRow
+XkbAddGeomColor
+XkbAllocNames
+XkbComputeEffectiveMap
+XkbResizeKeyActions
+XkbAddGeomProperty
+XkbAddGeomOverlayRow
+XkbLibraryVersion
+_fini
+XkbGetIndicatorMap
+XkbOpenDisplay
+XkbAllocClientMap
+XkbGetCompatMap
+XkbInitCanonicalKeyTypes
+XkbAllocIndicatorMaps
+XkbAddGeomOverlay
+XkbAllocKeyboard
+XkbGetMap
+XkbAddGeomKey
+XkbAllocGeometry
+Beeb
+XkbGetNames
+XkbResizeKeySyms
+XkbGetControls
+XkbAddGeomSection
+XSynchronize
+XkbComputeShapeBounds
+XkbAddGeomDoodad
+XkbAddGeomOutline
+XkbAddGeomShape
+XCloseDisplay
+XkbAllocGeomKeyAliases
+XkbAllocCompatMap
+XConvertCase
+libxkbfile.so.1
+XkbNameMatchesPattern
+XkbChangeKbdDisplay
+XkbAtomText
+XkbModIndexText
+_XkbErrLocation
+XkbKeyNameText
+XkbWriteXKMFile
+XkmReadFile
+XkbInternAtom
+XkbVModMaskText
+XkbKeysymText
+XkbEnsureSafeMapName
+XkbActionTypeText
+XkmProbe
+XkbWriteToServer
+XkbWriteXKBFile
+XkbConfigText
+XkbModMaskText
+XkbAtomGetString
+_XkbErrMessages
+XkbSIMatchText
+_XkbErrCode
+XkbGeomFPText
+XkbInitAtoms
+XkbWriteCFile
+libc.so.6
+fflush
+strcpy
+__printf_chk
+readdir
+_IO_putc
+fopen
+strncmp
+strrchr
+__strdup
+__isoc99_sscanf
+strncpy
+__stack_chk_fail
+unlink
+realloc
+stdin
+_exit
+strtol
+feof
+calloc
+strlen
+memset
+chdir
+memcmp
+__fprintf_chk
+stdout
+fputs
+memcpy
+fclose
+strtoul
+malloc
+strcasecmp
+opendir
+__ctype_b_loc
+stderr
+__snprintf_chk
+strncasecmp
+fwrite
+fread
+strchr
+__vfprintf_chk
+fdopen
+__strcpy_chk
+__xstat
+strcmp
+__libc_start_main
+free
+_edata
+__bss_start
+_end
+GLIBC_2.3
+GLIBC_2.7
+GLIBC_2.14
+GLIBC_2.4
+GLIBC_2.2.5
+GLIBC_2.3.4
+AWAVAUATA
+[]A\A]A^A_
+l$01
+T$8H
+T$8H
+T$8H
+T$8H
+t$8H
+l$01
+D$8f
+t$(H
+\$(H
+|$81
+t$@1
+l$01
+D$8H
+D$81
+t$0H
+|$@I
+<<ctM<guR
+<Tt!
+~"<KtW<Su'
+<Cu	
+T$01
+UH-(
+keycode
+devi
+data
+sameServ
+scre
+counf
+type
+controls
+valufD
+butt
+accefD
+grouf
+modifierH
+incremenH
+affe
+default
+repo
+genKeyEv
+latchToL
+clearLoc
+clearmodH
+unknown
+ATUA
+[]A\
+AWAVA
+AUATM
+[]A\A]A^A_
+ATUH
+ []A\
+dH34%(
+u#<	u
+dH34%(
+dH34%(
+ATUH
+ []A\
+dH34%(
+ATUH
+[]A\
+	tME
+dH34%(
+dH34%(
+AUATA
+[]A\A]
+ATUH
+ []A\
+AWAVI
+AUATI
+D$81
+L$8dH3
+H[]A\A]A^A_
+L$0H
+T$ H
+|$ H
+T$ H
+AWAVI
+AUATI
+[]A\A]A^A_
+AVAUL
+	vLH
+[]A\A]A^
+AWAVA
+AUATA
+D$(1
+L$(dH3
+8[]A\A]A^A_
+ATUSH
+D$(1
+L$(dH3
+0[]A\
+AWAVAUATUSH
+L$h1
+D$PL
+D$ H
+D$UH
+T$0D
+T$0E1
+|$ H
+|$@L
+E@HcL$
+L$hdH3
+x[]A\A]A^A_
+E0HcT$
+t$0H
+D$0 
+AUATA
+dUSH
+[]A\A]
+ATUH
+[]A\
+toATU
+ATUI
+Z[]A\
+default
+AWAVI
+AUAT
+[]A\A]A^A_
+AUATI
+[]A\A]
+	v&L
+AVAUI
+ATUA
+[]A\A]A^
+AUATI
+L$ H
+D$(1
+L$ L
+\$(dH3
+8[]A\A]
+L$ H
+L$ H
+AVAUATUI
+dH34%(
+[]A\A]A^
+D$0H
+D$8H
+D$@H
+D$HH
+D$[H
+AWAVAUATA
+D$h1
+D$hdH3
+x[]A\A]A^A_
+D$1H
+t$@H
+T$0I
+T$0H
+D$:A
+t$@1
+T$@A
+L$@H
+D$CH
+L$HH
+L$PH
+L$XH
+L$`I
+T$ZH
+D$PM
+L$0H
+T$ H
+L$0H
+Eleele
+|$@H
+T$ I
+t$@H
+AVAUI
+ATUI
+l$#@
+[]A\A]A^
+D$p1
+s8Hc
+plus sigH
+literal
+identifiA
+action d
+eclaratif
+field reH
+ference
+array reH
+ference
+list of H
+keysyms
+list of H
+actions
+addition
+subtract
+multipli
+catiH
+5U}"
+division
+assignme
+logical 
+arithmet
+ic negatH
+bitwise 
+inversiof
+keyname
+unknown
+boolean
+stri
+acti
+AUATI
+[]A\A]
+]A\A]
+[]A\A]
+AUATUSH
+[]A\A]
+ufAUATH
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+]A\A]
+AUATUSH
+[]A\A]
+[]A\A]
+AVAUATUH
+[]A\A]A^
+AVAUI
+ATUSH
+ []A\A]A^
+$+D$
+AVAUI
+ATUSH
+ []A\A]A^
+gfff
+$+D$
+AVAUI
+ATUSH
+ []A\A]A^
+ATUH
+[]A\
+[]A\
+[]A\
+AVAUI
+ATUSH
+ []A\A]A^
+trw4
+ATUI
+[]A\
+AVAUI
+ATUI
+[]A\A]A^
+AWAVM
+AUATI
+t=Hct$
+SAVA
+AUATH
+D$01
+[]A\A]A^A_
+t$p1
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+ATUI
+[]A\
+tkATU
+Z[]A\
+default
+ATUH
+C(uB
+[]A\
+=tT"
+=MT"
+='T"
+=$S"
+VUUUD
+=wO"
+wVfD
+ATUI
+[]A\
+[]A\
+ATUH
+[]A\
+ATU1
+D$81
+t$ H
+L$8dH3
+@[]A\
+AWAVM
+AUATI
+[]A\A]A^A_
+AWAVI
+AUATI
+D$`I
+[]A\A]A^A_
+D$`I
+D$`I
+D$`I
+AWAVI
+AUATI
+([]A\A]A^A_
+fD	M
+AWAVI
+AUATI
+([]A\A]A^A_
+fE	E
+fE	E
+AUATI
+toH;C
+[]A\A]
+D$8A
+	v.H
+[]A\A]
+[]A\A]
+AVAUI
+ATUH
+C"fA
+C$fA
+D$ XZH
+I+EHH
+[]A\A]A^
+I+EHH
+UPfA
+I+EPH
+I+EHH
+UPfA
+I+EPH
+toH;B
+I+mPH
+I+EHH
+]A\A]A^
+]A\A]A^
+default
+default
+AUAT1
+U t71
+U$t{I;]HtEI;
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+x0fA
+default
+@8fA
+[]A\
+[]A\
+AUATI
+twH;C
+[]A\A]
+|$8H
+D$8H
+=8+"
+	v-H
+]A\A]
+[]A\A]
+ATUSI
+T$Xt	
+T$`t	
+T$ht	
+T$pt	
+T$xt	
+l$0H
+l$8H
+t&f.
+l$@H
+t&f.
+l$HH
+t(f.
+[]A\A]
+AUATI
+d$ 1
+D$9A
+D$0H
+[]A\A]
+T$9=
+AWAVAUATI
+D$pH
+D$(H
+[]A\A]A^A_
+\$`H
+t$ L
+t$(H
+\$`H
+D$hH
+\$`H
+D$xH
+unknown
+D$pI
+T$`H
+T$hH
+T$pH
+T$xH
+T$`H
+\$PH
+t$`H
+|$0M
+t$`M
+|$`1
+T$PH
+|$@H
+t$PM
+|$`1
+|$`1
+T$`H
+T$PH
+\$`H
+\$TE
+l$`H
+AWAVAUATI
+[]A\A]A^A_
+D$(H
+D$(H
+AWAVAUATUSH
+|$PI
+[]A\A]A^A_
+D$pH
+t$@H
+D$@?
+T$Ff
+D$tf
+D$xf
+D$|f
+t$PI
+AXAY
+C8fA
+|$ uF
+D$(H
+I+D$ H
+D$0H
+I+D$ H
+D$XH
+D$(H
+D$8L
+l$ A
+|$0L
+t$(H
+H+CHH
+T$ H
+t$(H
+|$0M
+l$ H
+t$PL
+L$PL
+\$ M
+|$ M
+t$0M
+|$XI
+\$ H
+t$PH
+L$P1
+|$ H
+t$ u
+T$ 1
+|$ M
+|$XI
+|$XI
+AUATI
+T$ H
+dH34%(
+[]A\A]
+	v*H
+D$ H
+D$ f
+D$ 9C 
+T$ H
+AWAVI
+AUAT
+[]A\A]A^A_
+AUATI
+_ dH
+D$H1
+D$ H
+D$#H
+D$(H
+D$8H
+D$@H
+D$0t[
+t$ L
+L$HdH3
+X[]A\A]
+|$ H
+AWAV1
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+God A red nugget A fat egg under a dog
+AWAVAUATA
+[]A\A]A^A_
+ t>H
+AWAVI
+AUATI
+v L9
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATA
+D$(1
+HcG$9
+|$ H
+|$!H
+L$(dH3
+8[]A\A]A^A_
+t$ D
+t$ L
+T$ 1
+HcE$
+AUATA
+[]A\A]
+D$ A
+AWAVI
+AUATI
+D$x1
+T$0A
+D$@1
+T$3A
+T$2H
+t$ 1
+t$0L
+D$xdH3
+[]A\A]A^A_
+L$0H
+T$ H
+t$ 1
+t$ A;v$|lA;v(
+|$`A
+AVAUI
+ATUI
+uJfA
+[]A\A]A^
+AVAUATUA
+dH34%(
+[]A\A]A^
+AWAVAUATUSH
+([]A\A]A^A_
+_(E1
+ATUI
+default
+tdE1
+[]A\
+}([]
+ATUI
+\$ H
+D$ H
+[]A\
+	v"1
+[]A\
+AUATI
+[]A\A]
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATI
+Hcv4
+tG:C
+[]A\A]A^A_
+D$89
+L$4H
+A;T$0|
+T$01
+[]A\A]A^A_
+D$@t
+IcT$4H
+D$@t
+AWAVAUATI
+;k0sML
+[]A\A]A^A_
+AWAVM
+AUATI
+D$(1
+L$(dH3
+8[]A\A]A^A_
+f#s(D!
+f#S(!
+D$"f
+T$$L
+#K(#S$L
+f#T$$!
+D$#f
+L$$A
+C$f#S("D$"D
+D$"f
+L$$I
+T$#A
+T$"A
+D$" D$#
+f#L$&f
+AUATI
+L$ H
+D$(1
+\$(dH3
+8[]A\A]
+L$ H
+AWAVI
+AUATI
+[]A\A]A^A_
+T$2A
+D$3H
+L$0H
+D$@I
+D$\I
+l$ H
+L$(H
+T$ H
+L$(H
+|$0H
+T$ L
+S\E1
+;k\}TL
+L$X!
+t$0E1
+;k\|
+T$T!
+T$X!
+t$0E1
+CxE1
+;kx}D9l$`~
+|$0E1
+;kx|
+t$0H
+t$ H
+AVAUATUI
+dH34%(
+[]A\A]A^
+D$:%
+D$ H
+D$ H
+AWAVAUATA
+|$ dH
+L$ H
+t$(1
+t$<E1
+|$@H
+W4E1
+A;WP|
+D9d$<M
+[]A\A]A^A_
+T$(H
+tKHc
+AWAVH
+AUATI
+T$0L
+D$8%
+[]A\A]A^A_
+ATUH
+<*t]H9
+[]A\1
+AWAVAUATUSH
+D$H%
+\$(H
+~9E1
+t9E1
+[]A\A]A^A_
+AWAVAUATI
+l$ H
+\$(H
+[]A\A]A^A_
+|$ H
+T$8I
+\$(L
+t$ 1
+t$ H
+t#Sf.
+AWAVAUATI
+L$ L
+D$0I
+D$0H
+D$0H
+[]A\A]A^A_
+D$0H
+D$0H
+AWAVAUATI
+D$0H
+[]A\A]A^A_
+AVAUATUI
+D$(1
+L$(dH3
+0[]A\A]A^
+t$ H
+D$ A
+ATUA
+[]A\
+X []A\
+[]A\
+X []A\
+ATUI
+[]A\
+ATUI
+[]A\
+ATUI
+[]A\
+ATUI
+[]A\
+ATUA
+X []A\
+F SH
+ATUH
+[]A\
+ATUA
+X []A\
+ATUI
+[]A\
+AVAUATU
+D$(1
+D$ H
+L$(dH3
+0[]A\A]A^
+ATUSH
+[]A\
+D$ H
+AVAUA
+[]A\A]A^
+AWAVA
+AUATI
+[]A\A]A^A_
+(t*E
+[]A\A]A^A_
+AWAVAUATI
+gHfA
+E;u I
+[]A\A]A^A_
+AUATI
+[]A\A]
+H;D$
+t%H9
+H9D$
+t%H9
+AWAVA
+AUATUSH
+t$X1
+T$<E
+=%z!
+\$XdH3
+h[]A\A]A^A_
+t2H;p
+O(H;t
+t$<L
+T$<I
+T$<Hc
+@u.I
+D$<H
+D$<H
+D$<I
+ T74I
+D$<H
+L$(D
+T$ L
+L$ D
+L$ I
+=mu!
+L$(D
+T$ D
+L$(D
+|$<I
+T$<I
+T$8E1
+L$ D
+=wsL
+L$ D
+t$<D
+T$<H
+l$<H
+L$(D
+L$<I
+L$(D
+T$ L
+L$ D
+L$ t H
+T$(H
+L$ uDL
+L$ D
+l$<H
+AWAVI
+AUATUSH
+D$x1
+D$ M
+D$HM
+D$OL
+D$<A
+~nfA
+L$<H
+|$ H
+D$ f
+L$t A
+t$<H
+t$ H
+L$tL
+|$ f
+t$ H
+L$tL
+t$ A
+t$ H
+L$tL
+t$ A
+t$ H
+L$tL
+|$ I
+t$ H
+L$tL
+t$ A
+|$xdH3<%(
+[]A\A]A^A_
+|$ A
+T$(A
+D9t$
+L$(E
+D9t$
+H9|$
+L$@L
+T$0L
+L$@L
+T$0L
+D$(I
+H9|$
+L$@L
+T$0L
+L$@L
+T$0L
+D$(I
+L$@L
+T$0L
+L$@L
+T$0L
+D$(I
+L$@L
+T$0L
+L$@L
+T$0L
+L$<H
+t$ fA
+L$hL
+T$`L
+\$XE
+D$PH
+T$@H
+L$hL
+T$`L
+\$XL
+L$hL
+T$`L
+\$XL
+D$PH
+T$@H
+L$hL
+T$`L
+\$XL
+t$ A
+|$ L
+L$PL
+T$@L
+L$XL
+T$PL
+D$@L
+T$PL
+ATUI
+[]A\
+[]A\
+AWAVI
+AUATH
+I!,$
+[]A\A]A^A_
+I	,$
+AWAVI
+AUAT
+D$81
+t$ L
+T$ f
+T$8dH3
+H[]A\A]A^A_
+t$ 1
+t$ 1
+t$ 1
+D$ H
+t$ 1
+Tacocat
+t$ 1
+T$!H
+L$#H	
+T$"H
+=PY!
+T$ f
+t$ 1
+AVAUI
+ATUH
+L$@H
+D$H1
+L$@L
+t$HdH34%(
+P[]A\A]A^
+L$@H
+t$01
+|$@M
+t$01
+\$ 1
+t$01
+t$01
+T$@H
+u dH
+E(tK
+$H9H
+AWAVI
+AUATI
+F E1
+E;n r
+[]A\A]A^A_
+AWAVAUATUSH
+G dH
+D$p1
+D$dL
+D$hH
+t$PL
+t$p1
+|$pL
+}XE1
+D$pH
+|$pH
+D$ H
+D$sH
+L$PH
+T$@H
+D$ H
+L$PH
+|$pH
+T$@I
+[]A\A]A^A_
+T$ H
+t$ H
+TD|1
+t$pH
+t$ L
+|$(1
+AVAUATUI
+dH34%(
+[]A\A]A^
+D$B%
+D$$L
+AWAVH
+AUATUSH
+|$@H
+L$@H
+[]A\A]A^A_
+t$@1
+O0Hc
+t$`L
+D$`I
+\$ 9
+l$ht5L
+;\$`r
+=[C!
+=MB!
+T$<E1
+Ht~I
+(t4I
+fA;G
+hI;OhH
+\$$M
+t$(H
+fE9lG
+I9N`
+~(L9
+wHH9
+\$$L
+~	Lc
+D$<I
+tSAUATA
+[]A\A]
+t2H;=
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t2H;=)<!
+=c>!
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+={=!
+=Q=!
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+=o<!
+=:<!
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+=N;!
+5b;!
+=3;!
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+=D:!
+5":!
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+=c8!
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+=~7!
+=c7!
+=.7!
+K0Lc
+AWAVI
+AUATI
+[]A\A]A^A_
+D=(9
+ujAUATH
+E0Hc
+[]A\A]
+[]A\A]
+AWAVAUATI
+p0tbH
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+=1-!
+ATUH
+ []A\
+=_,!
+=J(!
+AWAVE1
+AUATA
+D$0H9
+T$(H
+D$ H
+D$0I9
+dH3<%(
+[]A\A]A^A_
+D$ I
+L$ I
+section
+NoSymbol
+L$ H
+NoSymbol
+L$ I
+AWAVI
+AUATI
+<|tk<+tg<%
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+~fUS1
+ATUSH
+[]A\
+keym
+type
+comp
+symbols
+keycodes
+geometry
+semantic
+layo
+AWAVI
+AUATI
+tg9k
+3tJH
+]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AUATI
+tG9k
+3t2H
+[]A\A]
+[]A\A]
+AWAVI
+AUAT
+AVAU
+dH34%(
+[]A\A]A^A_
+AWAVAUATSH
+dH34%(
+[A\A]A^A_]
+AWAVA
+AUATL
+[]A\A]A^A_
+Value of %s field must be of type %s
+Illegal group %d (must be in the range 1..%d)
+Field %s is not defined for an action of type %s
+Private action type must be in the range 0..255
+A private action has 7 data bytes
+Array subscript must be integer
+The data for a private action is 7 bytes long
+Attempt to use data[%d] ignored
+All data for a private action must be 0..255
+The %s field in the %s action is not an array
+Button must specify default or be in the range 1..255
+Illegal button value %d ignored
+The count field must have a value in the range 0..255
+Device must specify default or be in the range 1..255
+Illegal device value %d ignored
+Button must specify default or be in the range 1..5
+An action message can hold only 6 bytes
+An action message is at most 6 bytes long
+Message data must be in the range 0..255
+Screen index must be in the range 1..255
+Illegal screen value %d ignored
+New default button value must be in the range 1..5
+Illegal default button value %d ignored
+Cannot set default pointer button to "default"
+Illegal default button setting ignored
+Ignoring the %s field of an %s action
+Expected an action definition, found %s
+Missing name in action definition!!
+Cannot change defaults in an action definition
+Ignoring attempt to change %s.%s
+Couldn't allocate space for action default
+"%s" is not a valid field in a NoAction action
+"%s" is not a legal field name
+Action %s definition ignored
+integer (range 1..8)
+usemodmapmods
+modifier mask
+Action definition ignored
+integer
+Illegal type %d ignored
+string
+Extra %d bytes ignored
+Illegal subscript ignored
+Illegal datum %d ignored
+integer (range 1..255)
+lock or unlock
+Illegal count %d ignored
+integer (range 1..5)
+keyboard component
+key event mask
+boolean
+integer (0..255)
+pointer component
+noaction
+setmods
+latchmods
+lockmods
+setgroup
+latchgroup
+lockgroup
+moveptr
+movepointer
+lockptrbtn
+lockpointerbutton
+lockptrbutton
+lockpointerbtn
+setptrdflt
+setpointerdefault
+isolock
+terminate
+terminateserver
+switchscreen
+setcontrols
+lockcontrols
+actionmessage
+messageaction
+redirectkey
+lockdevbtn
+lockdevicebtn
+lockdevbutton
+lockdevicebutton
+devval
+deviceval
+devvaluator
+devicevaluator
+private
+clearlocks
+latchtolock
+genkeyevent
+generatekeyevent
+report
+affect
+increment
+accelerate
+value
+ctrls
+count
+same
+sameserver
+data
+device
+keycode
+clearmods
+clearmodifiers
+controls mask
+true
+false
+key name
+%s named %s not found
+<NullString>
+Unknown action %s
+Unknown field name %s
+keypress
+keyrelease
+repeatkeys
+autorepeat
+slowkeys
+bouncekeys
+stickykeys
+mousekeys
+mousekeysaccel
+accessxkeys
+accessxtimeout
+accessxfeedback
+audiblebell
+overlay1
+overlay2
+ignoregrouplock
+dfltbtn
+defaultbutton
+both
+neither
+button1
+button2
+button3
+button4
+button5
+group1
+group2
+group3
+group4
+group5
+group6
+group7
+group8
+Alias of %s for %s declared more than once
+Multiple definitions for alias %s
+Allocation failure in HandleAliasDef
+Attempt to alias %s to non-existent key %s
+Attempt to create alias with the name of a real key
+Allocation failure in ApplyAliases
+First definition ignored
+Using %s, ignoring %s
+Ignored
+Alias "%s = %s" ignored
+Using %s definition
+Symbol interpretations lost
+%s+%s(%s)
+virtualmodifier
+virtualmod
+virtual modifier
+locking
+usemodmap
+level specification
+last
+first
+interpret
+noneof
+anyofornone
+anyof
+allof
+exactly
+Couldn't lookup keysym
+levelone
+level1
+anylevel
+Do nine men interpret Nine men I nod
+Compat map for group %d redefined
+No room to merge symbol interpretations
+Multiple definitions for "%s"
+Earlier interpretation ignored
+Multiple interpretations of "%s"
+Using %s definition for duplicate fields
+Illegal modifier predicate "%s"
+Symbol interpretation ignored
+Keyboard group must be in the range 1..%d
+Compatibility map for illegal group %d ignored
+Expected a modifier mask in group compatibility definition
+Ignoring illegal compatibility map for group %d
+Interpretation files may not include other types
+Ignoring definition of key name
+Unexpected statement type %d in HandleCompatMapFile
+Abandoning compatibility map "%s"
+Couldn't determine matching modifiers
+Couldn't allocate compatibility map
+Couldn't allocate space for compat name
+Name "%s" (from %s) NOT assigned
+illegal(%d)
+assignment
+arithmetic operations
+function
+array reference
+field reference
+Negation
+Subtraction
+Addition
+Multiplication
+Division
+Assignment
+Bitwise complement
+, %s
+function use
+divide
+Degas are we not drawn onward no In union drawn onward to new eras aged
+multiply
+Expression ignored
+Cannot %s masks
+Illegal operation ignored
+shift
+control
+A Santa lives evil at NASA
+mod1
+mod2
+mod3
+mod4
+mod5
+Unexpected operator %d in ResolveLhs
+Found constant of type %s where a modifier mask was expected
+Illegal modifier index (%d, must be 0..%d)
+Cannot determine modifier index for "%s"
+Unknown operator %d in ResolveModIndex
+Modifier index must be a name or number, %s ignored
+Found constant of type %s where boolean was expected
+Identifier "%s" of type int is unknown
+Default "%s.%s" of type boolean is unknown
+%s of boolean values not permitted
+Unary "+" operator not permitted for boolean values
+Unknown operator %d in ResolveBoolean
+Found constant of type %s, expected a number
+Numeric identifier "%s" unknown
+Numeric default "%s.%s" unknown
+Assignment operator not implemented yet
+The ! operator cannot be applied to a number
+Unknown operator %d in ResolveFloat
+Found constant of type %s where an int was expected
+Default "%s.%s" of type int is unknown
+The ! operator cannot be applied to an integer
+Unknown operator %d in ResolveInteger
+Found constant of type %s, expected a string
+Identifier "%s" of type string not found
+Default "%s.%s" of type string not found
+%s of string values not permitted
+The ! operator cannot be applied to a string
+The + operator cannot be applied to a string
+Unknown operator %d in ResolveString
+Found constant of type %s, expected a key name
+Default "%s.%s" of type key name not found
+%s of key name values not permitted
+The ! operator cannot be applied to a key name
+The + operator cannot be applied to a key name
+Unknown operator %d in ResolveKeyName
+Found a %s where an enumerated value was expected
+Illegal identifier %s (expected one of: 
+Found constant of type %s where a mask was expected
+Unexpected %s in mask expression
+The %s operator cannot be used with a mask
+Unknown operator %d in ResolveMask
+Don't know how to merge sections yet
+-*-%s-%s-%s-%s-%s-*-%d-*-*-*-*-%s
+Multiple definitions for the "%s" property
+Multiple definitions for "%s" property
+Using default shape %s instead
+No default shape; definition ignored
+No position defined for doodad %s
+No shape defined for %s doodad %s
+Incomplete definition ignored
+No text specified for text doodad %s
+Illegal doodad definition ignored
+No color specified for doodad %s
+Text doodad %s has full and partial font definition
+No font specified for doodad %s
+No font slant for text doodad %s
+No font weight for text doodad %s
+No font set width for text doodad %s
+No font variant for text doodad %s
+No font encoding for doodad %s
+No font size for text doodad %s
+Using calculated height %s millimeters
+Using calculated width %s millimeters
+No shape defined for indicator doodad %s
+No "on" color for indicator doodad %s
+No "off" color for indicator doodad %s
+No logo name defined for logo doodad %s
+No shape defined for logo doodad %s
+Uknown doodad type %d in VerifyDoodad
+Property values must be type string
+Ignoring illegal definition of "%s" property
+Section priority %d out of range (must be 0..%d)
+Priority for section %s not changed
+Doodad priority %d out of range (must be 0..%d)
+Priority for doodad %s not changed
+Unknown doodad type %d in SetDoodadField
+Definition of %s in %s ignored
+Couldn't allocate doodad in %s
+Assignment to field of unknown element in doodad %s
+The %s geometry property is not an array
+Ignoring illegal property definition
+Assignment to field of unknown element
+Keyboard width must be positive
+Ignoring illegal keyboard width %s
+Keyboard width multiply defined
+Keyboard height must be positive
+Ignoring illegal keyboard height %s
+Keyboard height multiply defined
+Illegal font size %d (must be 4..255)
+Ignoring font size in keyboard geometry
+Couldn't allocate outlines for "%s"
+Can't allocate points for "%s"
+Multiple approximations for "%s"
+Treating all but the first as normal outlines
+Multiple primary outlines for "%s"
+Unknown outline type %s for "%s"
+Section defined without a name
+Assignment to field of unknown element in section
+Row in section %s has no keys
+Assignment to field of unknown element in row
+Illegal name %s for key in section %s
+Illegal element used in a key definition
+Cannot determine field for unnamed expression
+Ignoring key %d in row %d of section %s
+Unexpected statement (type %d) in row body
+Overlay "%s" in section "%s" has no keys
+Couldn't allocate OverlayKeyInfo
+Overlay %s for section %s will be incomplete
+Multiple doodads named "%s" in section "%s"
+Couldn't allocate a new OverlayInfo
+Overlay "%s" in section "%s" will be incomplete
+Unexpected statement (type %d) in section body
+Definition of section %s might be incorrect
+Unexpected statement type %d in HandleGeometryFile
+Abandoning geometry file "%s"
+Couldn't allocate GeometryRec
+Couldn't allocate shape in geometry
+Couldn't allocate outline in shape
+Couldn't allocate section in geometry
+Couldn't allocate row in section
+Key %d of row %d in section %s has no name
+Key %s in section "%s" and overlay "%s"
+Key %s not in "%s", but has an overlay key in "%s"
+Overlay "%s" for section "%s" has no legal keys
+Couldn't add overlay "%s" to section "%s"
+Can't add row %d to overlay "%s" of section "%s"
+default shape
+corner
+cornerradius
+key shape
+number
+helvetica
+medium
+normal
+iso8859-1
+Ignoring "%s", using "%s"
+Using "%s", ignoring "%s" 
+Unknown shape "%s" for %s %s
+%s in section %s
+outline
+filled
+outline doodad
+solid doodad
+Illegal doodad ignored
+No legal shape for %s
+No color for doodad %s
+Using black
+black
+Full specification ignored
+Using "%s"
+Using %s point text
+No height for text doodad %s
+No width for text doodad %s
+indicator doodad
+No legal shape for doodad %s
+Using green
+green
+logo doodad
+solid
+text
+logo
+keycolor
+keyname
+keyboard row
+left
+vertical
+priority
+keyboard section
+height
+angle
+text doodad
+fontslant
+fontweight
+fontwidth
+setwidth
+fontvariant
+fontencoding
+xfont
+xfontname
+fontsize
+unsigned
+oncolor
+offcolor
+logoname
+Duplicate shape name "%s"
+Using last definition
+Multiple shapes named "%s"
+Using first definition
+Cannot copy doodad %s
+unknown
+Multiple doodads named "%s"
+No value assigned to %s.%s
+virtual modfier
+group compatibility map
+property
+widthmm
+Using last definition (%s),
+ ignoring first (%s)
+heightmm
+basecolor
+labelcolor
+Shape "%s" has no outlines
+Definition ignored
+approximation
+approx
+primary
+Treated as a normal outline
+Expected %d outlines, got %d
+Section ignored
+Section not compiled
+Assignment to %s.%s ignored
+Overlay ignored
+Expected %d rows, found %d
+Ignoring %s definition.
+Geometry not compiled
+white
+Shape %s not compiled
+Shape %s is incomplete
+Section %s not compiled
+Section %s is incomplete
+Section %s ignored
+Couldn't allocate key in row
+Overlay definition ignored
+Earlier definition ignored
+indicator map
+group mask
+allowexplicit
+whichmodstate
+whichmodifierstate
+whichgroupstate
+leddriveskbd
+leddriveskeyboard
+indicatordriveskbd
+indicatordriveskeyboard
+indicator index
+Couldn't allocate names
+No unnamed indicators found
+base
+latched
+locked
+effective
+Map for indicator %s redefined
+Couldn't allocate indicator map
+Map for indicator %s not compiled
+mask of modifier state components
+mask of group state components
+Illegal indicator index %d (range 1..%d)
+Index definition for %s indicator ignored
+Unknown field %s in map for %s indicator
+Cannot set defaults for "%s" element in indicator map
+Indicator names may be incorrect
+Can't allocate indicator maps
+Indicator map definitions may be lost
+Virtual indicator map "%s" not bound
+Multiple names bound to indicator %d
+real
+virtual
+virtual indicator
+real indicator
+Multiple indicators named %s
+Using %s instead of %s
+Ignoring %d, using %d
+Using %d, ignoring %d
+Using %s %s, ignoring %s %s
+Using <%s>, ignoring <%s>
+a symbol interpretation
+virtual modifiers
+Default for field %s ignored
+minimum
+maximum
+Unknown field encountered
+Value of "%s" not changed
+Ignoring definition of %s
+computed
+Physical indicators not set
+Identical definitions ignored
+Multiple names for indicator %d
+Couldn't allocate name for indicator %d
+Illegal keycode %d for name <%s>
+Must be in the range %d-%d inclusive
+Multiple identical key name definitions
+Later occurences of "<%s> = %d" ignored
+Multiple names for keycode %d
+Key name <%s> assigned to multiple keys
+Use 'alternate' keyword to assign the same name to multiple keys
+No value keycode assigned to name <%s>
+Unknown element %s encountered
+Assigment to field %s ignored
+The %s setting is not an array
+Illegal array reference ignored
+Assignment to field %s ignored
+Illegal keycode %d (must be in the range %d-%d inclusive)
+Minimum key code (%d) must be <= maximum key code (%d)
+Minimum key code value not changed
+Minimum key code (%d) must be <= lowest defined key (%d)
+Maximum code (%d) must be >= minimum key code (%d)
+Maximum code value not changed
+Maximum code (%d) must be >= highest defined key (%d)
+Name specified for illegal indicator index %d
+Keycode files may define key and indicator names only
+Unexpected statement type %d in HandleKeycodesFile
+Abandoning keycodes file "%s"
+Cannot create XkbNamesRec in CompileKeycodes
+Couldn't allocate IndicatorRec in CompileKeycodes
+Cannot compile %s alone into an XKM file
+More than one %s section in a %s file
+All sections after the first ignored
+Cannot define %s in a %s file
+Illegal %s configuration in a %s file
+Missing %s section in a %s file
+Description of %s not compiled
+Found an isolated %s section
+Unknown file type %d
+ONE_LEVEL
+TWO_LEVEL
+Later definition ignored
+Using %s, 
+Preserve[%s] lost
+Map entries lost
+Level names lost
+Key type definition ignored
+map entry
+key type
+Using %s instead of 
+preserve
+preserve entry
+Index %s converted to 
+Converted %s to 
+levelname
+level_name
+level name
+Value for field %s ignored
+Borrow or rob
+Couldn't allocate client map
+Aborting
+level2
+level3
+level4
+level5
+level6
+level7
+alula
+level8
+Key type "%s" has %d levels, must have %d
+Illegal type definition ignored
+Multiple definitions of the %s key type
+Identical definitions for preserve[%s] in %s
+Multiple definitions for preserve[%s] in %s
+Couldn't allocate preserve in %s
+Multiple map entries for %s in %s
+Multiple occurences of map[%s]= %d in %s
+Couldn't allocate map entries for %s
+Couldn't reallocate map entries for %s
+Couldn't allocate level names for type %s
+Duplicate names for level %d of key type %s
+Multiple names for level %d of key type %s
+The modifiers field of a key type is not an array
+Illegal array subscript ignored
+Key type mask field must be a modifier mask
+Multiple modifier mask definitions for key type %s
+Map entry for unused modifiers in %s
+Level specifications in a key type must be integer
+Ignoring malformed level specification
+Shift level %d out of range (1..%d) in key type %s
+Ignoring illegal definition of map[%s]
+Preserve for modifiers not used by the %s type
+Preserve value in a key type is not a modifier mask
+Ignoring preserve[%s] in type %s
+Illegal value for preserve[%s] in type %s
+Level name %d out of range (1..%d) in key type %s
+Ignoring illegal level name definition
+Non-string name for level %d in key type %s
+Unknown field %s in key type %s
+Default for unknown element %s
+Default defined for unknown field %s
+Key type files may not include other declarations
+Ignoring definition of key alias
+Ignoring definition of symbol interpretation
+Unexpected statement type %d in HandleKeyTypesFile
+Abandoning keytypes file "%s"
+Couldn't allocate space for types name
+Couldn't initialize canonical key types
+Couldn't allocate preserve array in CopyDefToKeyType
+Preserve setting for type %s lost
+Couldn't find matching entry for preserve
+Couldn't allocate list of maps
+Couldn't allocate list of files and maps
+File and map must have the format file(map)
+Files/maps to list must have the form file(map)
+Must specify at least one file or pattern to list
+Cannot open "%s" to write keyboard description
+%s%s%s
+Illegal specifier ignored
+Couldn't open "%s"
+-------- 
+%s(%s)
+Can't find file "%s" for %s include
+About to parse include file %s
+Error interpreting include file "%s"
+No map in include statement, but "%s" contains several
+Using first defined map, "%s"
+Include file wrong type (expected %s, got %s)
+No %s named "%s" in the include file "%s"
+The %s %s field is not an array
+Ignoring illegal assignment in %s
+Index for the %s %s field must be a %s
+Ignoring assignment to illegal field in %s
+Ignoring assignment to unknown field in %s
+Multiple definitions of %s in %s "%s"
+Several keys match pattern for %s
+Key %d does not match any defaults
+Couldn't allocate key names in FindNamedKey
+Key "%s" not automatically created
+Include file "%s" ignored
+Missing subscript for %s %s
+The %s %s field must be a %s
+Unknown %s field %s in %s
+Using <U%03d> for key %d
+U%03d
+Using name <U%03d>
+Couldn't allocate expression in parser
+Couldn't allocate key name definition in parser
+Couldn't allocate key alias definition in parser
+Couldn't allocate variable definition in parser
+Couldn't allocate key type definition in parser
+Couldn't allocate symbols definition in parser
+Couldn't allocate group compat definition in parser
+Couldn't allocate mod mask definition in parser
+Couldn't allocate indicator map definition in parser
+Couldn't allocate indicator index definition in parser
+Couldn't allocate ActionDef in parser
+Couldn't allocate expression for keysym list in parser
+Couldn't resize list of symbols for append
+Couldn't allocate interp definition in parser
+Allocation failure in IncludeCreate
+Using only part of the include
+Illegal include statement "%s"
+Multiple default components in %s
+illegal use of 'alternate' merge mode
+nosymbol
+voidsymbol
+(unknown)
+(subsequent)
+(first)
+actions
+Ignoring %s for group %d
+Symbols ignored
+FOUR_LEVEL_ALPHABETIC
+FOUR_LEVEL_SEMIALPHABETIC
+FOUR_LEVEL_KEYPAD
+FOUR_LEVEL
+Type "%s" is not defined
+Ignoring extra symbols
+Using %s, ignoring %s.
+Non-boolean value ignored
+Ignoring type for group %d
+Symbols lost
+Could not resolve keysym %s
+Actions lost
+vmods
+virtualmods
+virtualmodifiers
+permanentradiogroup
+allownone
+permanentoverlay
+permanent
+repeating
+repeats
+groupswrap
+wrapgroups
+groupsclamp
+clampgroups
+groupsredirect
+redirectgroups
+Ignoring illegal group %d
+groupname
+Name for group %d ignored
+Group name must be a string
+Abandoning symbols file "%s"
+Symbols not added
+Too many groups of %s for key %s (max %d)
+Ignoring %s defined for extra groups
+Illegal group index for %s of key %s
+Definition with non-integer array index ignored
+Group index for %s of key %s is out of range (1..%d)
+Key %s not found in %s keycodes
+No automatic type for %d symbols
+Using %s for the %s key (keycode %d)
+Using TWO_LEVEL for the %s key (keycode %d)
+Type "%s" has %d levels, but %s has %d symbols
+Could not enlarge symbols for %s (keycode %d)
+Could not enlarge actions for %s (key %d)
+Not treating %s as an overlay key 
+Could not allocate symbols for group merge
+Group %d of key %s not merged
+Could not allocate actions for group merge
+Multiple symbols for level %d/group %d on key %s
+Multiple actions for level %d/group %d on key %s
+Multiple definitions for group %d type of key %s
+Symbol map for key %s redefined
+Using %s definition for conflicting fields
+%s added to symbol map for multiple modifiers
+Key %s added to map for multiple modifiers
+Could not allocate modifier map entry
+Modifier map for %s will be incomplete
+Illegal index in group name definition
+Illegal radio group specified (must be 1..%d)
+Value of "allow none" for group %d ignored
+Illegal "allow none" value for %s
+The type field of a key symbol map must be a string
+Ignoring illegal type definition
+Illegal group index for type of key %s
+Group index for type of key %s is out of range (1..%d)
+Expected a list of symbols, found %s
+Ignoring symbols for group %d of %s
+Symbols for key %s, group %d already defined
+Could not resize group %d of key %s
+Bad expression type (%d) for action list value
+Ignoring actions for group %d of %s
+Actions for key %s, group %d already defined
+Action list but not actions in AddActionsToKey
+Illegal action definition for %s
+Action for group %d/level %d ignored
+Expected a virtual modifier mask, found %s
+Ignoring virtual modifiers definition for key %s
+Illegal radio group specification for %s
+Non-integer radio group ignored
+Radio group specification for %s out of range (1..32)
+Illegal radio group %d ignored
+Illegal overlay %d specified for %s
+Illegal overlay "%s" specified for %s
+Illegal overlay key specification for %s
+Overlay key must be specified by name
+Illegal repeat setting for %s
+Non-boolean repeat setting ignored
+Illegal groupsWrap setting for %s
+Illegal groupsClamp setting for %s
+Illegal group index for redirect of key %s
+Definition with non-integer group ignored
+Out-of-range (1..%d) group for redirect of key %s
+Unknown field %s in a symbol interpretation
+You must specify an index when specifying a group name
+Group name definition without array subscript ignored
+Attempt to specify name for illegal group (must be 1..%d)
+Illegal name for group %d ignored
+Illegal setting for global groupsWrap
+Illegal setting for global groupsClamp
+Illegal group index for global groupsRedirect
+Out-of-range (1..%d) group for global groupsRedirect
+Could not allocate key symbols descriptions
+Some key symbols definitions may be lost
+For the map %s an explicit group specified
+but key %s has more than one group defined
+All groups except first one will be ignored
+Illegal modifier map definition
+Ignoring map for non-modifier "%s"
+Modmap entries may contain only key names or keysyms
+Illegal definition for %s modifier ignored
+Unexpected statement type %d in HandleSymbolsFile
+Can not allocate names in CompileSymbols
+Could not allocate client map in CompileSymbols
+Could not allocate server map in CompileSymbols
+Could not allocate controls in CompileSymbols
+No symbols defined for <%s> (keycode %d)
+Modifier map entry for %s not updated
+Key "%s" not found in %s symbol map
+stderr
+switching to %s
+                  
+Warning:          
+Error:            
+Fatal Error:      
+                  Exiting
+Internal error:   
+Declaration of %s ignored
+NumLock
+Virtual modifier %s multiply defined
+Too many virtual modifiers defined (maximum %d)
+Illegal virtual modifier %d (must be 0..%d inclusive)
+Unknown verbose option "%c"
+Cannot open display "%s"
+Legal options:
+xkblist
+-help
+-version
+1.3.0
+xkbcomp %s
+"%s" flag ignored
+-dflts
+-em1
+Compiling %s, ignoring %s
+-emp
+No error prefix specified
+-eml
+No device ID specified
+-map
+No map name specified
+Trailing "%s" option ignored
+Multiple map names specified
+-merge
+No output file specified
+Trailing "-o" option ignored
+-opt
+optional
+Setting path count to %d
+No root directory specified
+Ignoring -R option
+-synch
+-xkb
+-xkm
+No input file specified
+Empty map in filename
+map from name ("%s") ignored
+.xkm
+Cannot open "%s" for reading
+stdin.%s
+%s.%s
+server%s
+stdin
+Cannot read XKM file "%s"
+Could not load indicator map
+Could not load names
+Cannot open "%s" to compile
+stdout
+Unknown output format %d
+No output file created
+No map named "%s" in "%s"
+Output file "%s" removed
+%s was compiled with XKB version %d.%02d
+X library supports incompatible version %d.%02d
+XKB extension not present on %s
+Server %s uses incompatible version %d.%02d
+Unknown error %d from XkbOpenDisplay
+Usage: %s [options] input-file [ output-file ]
+Usage: %s [options] file[(map)] ...
+-?,-help             Print this message
+-version             Print the version number
+-a                   Show all actions
+-C                   Create a C header file
+-em1 <msg>           Print <msg> before printing first error message
+-emp <msg>           Print <msg> at the start of each message line
+-eml <msg>           If there were any errors, print <msg> before exiting
+-dflts               Compute defaults for missing parts
+-I[<dir>]            Specifies a top level directory for include
+                     directives. Multiple directories are legal.
+-l [flags]           List matching maps in the specified files
+                     f: list fully specified names
+                     h: also list hidden maps
+                     l: long listing (show flags)
+                     p: also list partial maps
+                     R: recursively list subdirectories
+                     default is all options off
+-i <deviceid>        Specifies device ID (not name) to compile for
+-m[ap] <map>         Specifies map to compile
+-o <file>            Specifies output file name
+-p <count>           Specifies the number of slashes to be stripped
+                     from the front of the map name on output
+-opt[ional] <parts>  Specifies optional components of keymap
+                     Errors in optional parts are not fatal
+                     <parts> can be any combination of:
+                     c: compat map         g: geometry
+                     k: keycodes           s: symbols
+                     t: types
+-R[<DIR>]            Specifies the root directory for
+                     relative path names
+-synch               Force synchronization
+-v [<flags>]         Set level of detail for listing.
+                     flags are as for the -l option
+-w [<lvl>]           Set warning level (0=none, 10=all)
+-xkb                 Create an XKB source (.xkb) file
+-xkm                 Create a compiled key map (.xkm) file
+Too many file names on command line
+Compiling %s, writing to %s, ignoring %s
+Multiple output file formats specified
+No pre-error message specified
+Trailing "-em1" option ignored
+Multiple pre-error messsages specified
+Trailing "-emp" option ignored
+Multiple error prefixes specified
+No post-error message specified
+Trailing "-eml" option ignored
+Multiple post-error messages specified
+Multiple output files specified
+No optional components specified
+Illegal component for %s option
+Ignoring unknown specifier "%c"
+Multiple root directories specified
+Changing root directory to "%s"
+Couldn't change directory to "%s"
+Root directory (-R) option ignored
+Unknown flag "%s" on command line
+Map specified in filename and with -m flag
+Illegal name "%s" for input file
+Cannot generate a listing from a .xkm file (yet)
+Cannot generate a listing from an X connection (yet)
+Cannot write a listing to an X connection
+Cannot allocate space for output file name
+No map specified, but "%s" has several
+Using the first defined map, "%s"
+Cannot allocate keyboard description
+Errors encountered in %s; not compiled.
+Cannot load keyboard description
+Could not load keyboard controls
+Could not load compatibility map
+Could not load keyboard geometry for %s
+Resulting keymap file will not describe geometry
+Error converting keyboard display from %s to %s
+Couldn't write keyboard description to %s
+Cannot close "%s" properly (not enough space?)
+%s: line %d of %s
+last scanned symbol is: %s
+modifier_map
+0x%x
+syntax error
+memory exhausted
+cannot use 'alternate' to include other maps
+xwvy
+z{|}~
+"%&#$'(*)+,-./
+xwyz{|}
+ABFEM
+QgRl
+cdfb]_
+ABBBCCDEEEFFGHIIIIIJJKKLLLLLLLLMMNNNNNNNNNNNNNNNOOOPQRSSTTUVVWWXYZZZ[[[[[\\]^_``aabccdddddeeffgghhijjkllmmmnnopqqqqrrsssssssssssttuuuuuvvwwxxxxxxyyyyyyyyzz{||||}}}}~~
+ !"#
+$%&'()*+,-./0123
+45678
+9:;<=>?@
+Path entry (%s) too long (maxiumum length is %d)
+Allocation failed (includePath)
+Allocation failed (includePath[%d])
+Replacing file cache entry (%s/%d)
+File name (%s/%s/%s) too long
+/usr/share/X11/xkb
+%s/%s/%s
+UNGETCHAR FAILED! Put back %c, was expecting %c at position %d, buf is '%s'
+Malformed number %s
+xkb_keymap
+xkb_keycodes
+xkb_types
+xkb_symbols
+xkb_compat
+xkb_compat_map
+xkb_compatibility
+xkb_compatibility_map
+xkb_geometry
+xkb_semantics
+xkb_layout
+include
+override
+augment
+replace
+alternate
+partial
+hidden
+virtual_modifiers
+alias
+mod_map
+alphanumeric_keys
+modifier_keys
+keypad_keys
+function_keys
+alternate_group
+;*3$"
+TLDE
+AE01
+AE02
+AE03
+AE04
+AE05
+AE06
+AE07
+AE08
+AE09
+AE10
+AE11
+AE12
+BKSP
+AD01
+AD02
+AD03
+AD04
+AD05
+AD06
+AD07
+AD08
+AD09
+AD10
+AD11
+AD12
+RTRN
+CAPS
+AC01
+AC02
+AC03
+AC04
+AC05
+AC06
+AC07
+AC08
+AC09
+AC10
+AC11
+LFSH
+AB01
+AB02
+AB03
+AB04
+AB05
+AB06
+AB07
+AB08
+AB09
+AB10
+BKSL
+LCTL
+SPCE
+RTSH
+LALT
+SPCE
+RCTL
+RALT
+FK01
+FK02
+FK03
+FK04
+FK05
+FK06
+FK07
+FK08
+FK09
+FK10
+FK11
+FK12
+PRSC
+SCLK
+PAUS
+HOME
+PGUP
+DELE
+PGDN
+LEFT
+DOWN
+RGHT
+NMLK
+KPDV
+KPMU
+KPSU
+KPAD
+KPEN
+KPDL
+LSGT
+KPCO
+FIND
+1c27677e04b76db8e883d2d9f364778ec335bc.debug
+	>1Z
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got
+.got.plt
+.data
+.bss
+.gnu_debuglink

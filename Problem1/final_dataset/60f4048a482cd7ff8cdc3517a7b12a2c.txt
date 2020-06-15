@@ -1,0 +1,743 @@
+/lib64/ld-linux-x86-64.so.2
+libXinerama.so.1
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+XineramaQueryExtension
+XineramaIsActive
+_init
+_fini
+XineramaQueryScreens
+libXrandr.so.2
+XFree
+XRRCreateMode
+XRRGetOutputProperty
+XRRChangeOutputProperty
+XRRFreeOutputInfo
+XRRGetScreenResources
+XRRAddOutputMode
+XRRFreePanning
+XRRQueryVersion
+XRRDestroyMode
+XRRGetOutputInfo
+XRRFreeCrtcInfo
+XRRGetPanning
+XRRSelectInput
+XRRGetScreenResourcesCurrent
+XRRSetScreenSize
+XRRGetCrtcInfo
+XRRQueryExtension
+XRRFreeScreenResources
+XRRSetCrtcConfig
+XRRSetPanning
+XRRDeleteOutputMode
+libXdamage.so.1
+XInitExtension
+XDamageCreate
+XDamageSubtract
+XDamageQueryExtension
+XDamageDestroy
+libXfixes.so.3
+XFixesGetCursorImage
+XFixesSelectCursorInput
+XFixesQueryExtension
+libXcursor.so.1
+XRenderCreatePicture
+XInitImage
+XFreePixmap
+XCreatePixmapCursor
+XRenderFreePicture
+XRenderQueryVersion
+XInternAtom
+XRenderFindStandardFormat
+XCreateGC
+XPutImage
+XFreeCursor
+XCreatePixmap
+XcursorImageLoadCursor
+libXtst.so.6
+XPending
+XRecordEnableContextAsync
+XRecordFreeData
+XRecordCreateContext
+XRecordAllocRange
+libXrender.so.1
+XSetErrorHandler
+XSync
+XRenderFindFormat
+XRenderComposite
+XRenderFindVisualFormat
+libXss.so.1
+XDeleteProperty
+Do nine men interpret Nine men I nod
+XChangeProperty
+XGetWindowProperty
+XScreenSaverQueryExtension
+XScreenSaverSelectInput
+libXext.so.6
+XFlush
+XShmQueryExtension
+XShmCreatePixmap
+XShmQueryVersion
+XShmPutImage
+XShmDetach
+XShmGetImage
+XShmAttach
+libxcb-dri3.so.0
+xcb_dri3_buffer_from_pixmap
+xcb_dri3_id
+xcb_dri3_fence_from_fd
+xcb_dri3_buffer_from_pixmap_reply_fds
+xcb_dri3_pixmap_from_buffer
+xcb_dri3_buffer_from_pixmap_reply
+xcb_dri3_query_version
+xcb_dri3_query_version_reply
+libxcb-sync.so.1
+xcb_sync_destroy_fence
+xcb_sync_trigger_fence
+libX11-xcb.so.1
+XGetXCBConnection
+libxcb.so.1
+xcb_get_extension_data
+xcb_generate_id
+libxshmfence.so.1
+xshmfence_alloc_shm
+xshmfence_unmap_shm
+xshmfence_map_shm
+libX11.so.6
+XCreateBitmapFromData
+XNextEvent
+XGrabServer
+XSetIOErrorHandler
+XSendEvent
+XWarpPointer
+XActivateScreenSaver
+XCopyArea
+XGetScreenSaver
+XSelectInput
+XUngrabServer
+XResetScreenSaver
+XOpenDisplay
+XGetSubImage
+XCloseDisplay
+XDefineCursor
+XEventsQueued
+XSetScreenSaver
+libc.so.6
+socket
+shmget
+__printf_chk
+exit
+strncmp
+optind
+timerfd_create
+strrchr
+__strdup
+shmat
+__isoc99_sscanf
+connect
+signal
+puts
+__stack_chk_fail
+daemon
+shmctl
+putchar
+shmdt
+realloc
+abort
+strtol
+send
+strstr
+__errno_location
+read
+memcmp
+getopt
+poll
+__fprintf_chk
+recv
+lseek
+memcpy
+rand
+__vsnprintf_chk
+malloc
+getenv
+optarg
+stderr
+timerfd_settime
+__snprintf_chk
+fwrite
+__memcpy_chk
+close
+__sprintf_chk
+strcmp
+__libc_start_main
+snprintf
+free
+_edata
+__bss_start
+_end
+GLIBC_2.7
+GLIBC_2.14
+GLIBC_2.8
+GLIBC_2.4
+GLIBC_2.3.4
+GLIBC_2.2.5
+D$h1
+d$8PV
+GRPD
+D$(H
+D$hdH3
+p[]A\
+ATU1
+\$p1
+D$pCH
+[]A\
+AWAVA
+AUATE1
+D$X*P
+T$X1
+D$P1
+T$hH
+T$PH
+\$PL
+D$XI
+A;\$P|
+PA;\$0}AM
+[]A\A]A^A_
+\$ E9n 
+\$ H
+T$HH
+t$PE1
+T$HRH
+T$HRH
+T$LRH
+L$pQj
+\$ A
+t$Pj
+D$`A]A^H
+T$(I
+T$0I
+t$PI
+D$`u
+D$HH
+T$PA
+uZ;-V
+L$ L
+D$ H
+@t,I
+t$ H
+t$ H
+AZA[
+alula
+t4E1
+t$PL
+SPQE1
+AUATE1
+|$P1
+D$xH
+ t+H
+A[A^
+USE1
+AUAT
+ARE1
+AUATUS
+APE1
+USAUAT
+SAUE1
+|$P1
+N H9O u
+N(H9O(u
+N09O0u
+FHH9GH
+SHcO(H
+;K(})H;
+;K(|
+;{,|
+HcK(H
+AUAT
+thL)
+L$PL
+[]A\A]
+C@ZYH
+s@E1
+s(E1
+AUATA
+[]A\A]H
+AVAUI
+ATUSH
+H;PPtk[L
+]A\A]A^
+Eleele
+L9@PA
+AWAVAUATA
+D$ !
+D$ H
+D$HI
+D$XI
+D$`A
+D$hI
+|$XHc
+D$ !
+|$ !u
+EHH9D$Hu
+[]A\A]A^A_
+D$\P
+D$cPD
+L$j1
+ATUI
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+vPIc
+FpIc
+@t>I
+;M(|
+HcU,H
+t$ L
+}t`_
+D$@1
+D$hHcD$(H
+t$ L
+|$(1
+T$@H
+|$@H
+D$PL
+|$(1
+AWAVM
+AUATI
+S\uX
+[]A\A]A^A_
+AVAU
+ATUI
+D$81
+t$8dH34%(
+@[]A\A]A^
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUATUI
+D$81
+;kptOH
+L$8dH3
+@[]A\A]A^
+L$&f
+t$$1
+=jq 
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATA
+ClaimVirH
+D$pH
+tualHeadH
+9] ~BH
+t$pI
+u?E1
+[]A\A]A^A_
+T$ 1
+AVAUATUSH
+D$P1
+D$XH
+E;l$P};
+D$XH
+l$PH
+D$@A
+[]A\A]A^
+AWAVI
+AUATUSH
+I;G8
+P8L;"
+PL;`
+E9w(
+A9o,
+G(E1
+t$(H
+L$ H
+D$4AP
+t$8D
+D$ D
+\$0H
+L$@H
+T$8D
+T$(L
+D$(I
+D$(H
+=Zd 
+E9g(
+dH3<%(
+[]A\A]A^A_
+l$ D
+t$(f
++D$ H
++D$(
+B PA
+T$(P
+\$ L
+E9u4
+D$8H
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+D$pH
+D$xH
+PAS1
+|$01
+L$0H
+AYAZD
+AZA[
+I9W@
+L$(D
+D;cl
+t$ H
+E4PA
+E0PA
+E,PA
+E(PA
+E$PA
+E PA
+E PE
+AWAVAUATUSH
+FPE1
+E9~P
+dH3<%(
+[]A\A]A^A_
+E9uP
+t$(H
+T$PE1
+T$PRH
+T$PRH
+T$TR
+t$HH
+D$4H
+L$P1
+|$8L
+s(E1
+D$(H
+D$P1
+t$(E1
+D$ I
+@8Hc
+PH9x
+@PL9
+PH9P
+D$PI
+D$XI
+D$`I
+D$hI
+D$ H
+D$pI
+D$(H
+D$xI
+D$0H
+D$8H
+D$@H
+D$HH
+t$8H
+T$0H
+AYA[
+t$81
+_AXL
+t$81
+`8I;
+D$PH
+PH;H
+t3H9
+EPD9D$
+]XE1
+u8Hc
+PH9P
+tSH9
+A9~PH
+A;FP
+D$PH
+AWAV
+AUATH
+w0USH
+HcC,H
+MhHc
+HcS,H
+L$0M
+|$0E
+L$0E1
+T$0I
+L$0H
+L$0H
+[]A\A]A^A_
+HcS,H
+L$,H
+D;d$,
+T$0H
+L$0M
+|$0E
+L$0E1
+L$0H
+=:= 
+HcC,H
+HcC,H
+T$,H
+A;D$ 
+D$(H
+T$0I
+L$0L
+D$(I
+=#: 
+HcS,H
+L$0H
+=x8 
+AWAVA
+AUATL
+%^/ 
+-^/ 
+[]A\A]A^A_
+%d.%d
+XIO error on display %s
+%c%c%c%cR%d
+%s: send reply '%s'
+%s-%s: creating shm pixmap
+%s-%s: creating picture
+%s-%s: creating gc
+%s timer active? %d
+%s mark flush (flush=%d)
+%04x
+%s: send command '%s'
+%04xR
+%s: reading event type %d
+%s(%s)
+%s %s is already connected
+X.Org
+Xorg
+%s: dri3_active?=%d
+MIT-SHM
+/var/run/bumblebee.socket
+Q VirtualDisplay
+%s query result '%s'
+Value: 
+%s(%s, %s)
+%s cursor changed
+%s marking cursor changed
+%s is depth %d, want %d
+%s(0x%08lx)
+%s-%s wants depth %d
+%s(%d)
+VIRTUAL%d
+%s(%s): rr_output=%ld
+FAKE-%dx%d
+%s(%s-%s): deleting mode %ld
+failed
+success
+%s-%s crtc changed? %d
+%s-%s output changed? %d
+%s changed? %d
+%s: disabling output '%s'
+%s: XRRSetScreenSize %dx%d
+%s.%ld-%dx%d
+%s: CRTC reassigned from %s
+%s-%s: XRRSetPanning %s
+%s restoring screen saver
+%s-%s: added to active list
+%s disabling screen saver
+%s-%s: XRRSetCrtcConfig %s
+%s: dst.rr_crtc=%ld, now %ld
+%s(%s-%s): lookup mode %s
+%s(%s-%s): unknown mode %s
+EDID
+%s.%ld-%s
+%s - initial size %dx%d
+%s - randr version %d.%d
+%s - noutputs=%d
+%s - disabling active output
+XINERAMA%d
+%s(%s) - %d screens
+Failed to add display "%s"
+SCREEN%d
+Failed to clone display "%s"
+activating
+resetting
+and then start bumblebee.
+abd:fhSvV:
+DISPLAY
+Unable to connect to "%s".
+VIRTUAL1
+%s(%s): has VIRTUAL1? %d
+No VIRTUAL outputs on "%s".
+%s: singleton registered? %d
+%s: pinging singleton
+poll reports %d fd awake
+%s woken up
+%s received event %d
+God A red nugget A fat egg under a dog
+%s %s screen saver
+lost control of singleton
+%s client message
+client message!
+unknown event %d
+Tacocat
+%s-%s cloning modes
+%s timer expired (count=%ld)
+%s clearing damage
+%s-%s get_src(%d,%d)x(%d,%d)
+%s-%s get_src via XRender
+%s-%s get_src XShmGetImage
+%s-%s target offset %dx%d
+%s-%s put_dst(%d,%d)x(%d,%d)
+%s-%s using composite
+%s-%s using SHM image
+%s-%s using image
+%s setting cursor shape %lx
+%s forcing sync
+Degas are we not drawn onward no In union drawn onward to new eras aged
+Borrow or rob
+%s timer still active? %d
+VIRTUAL
+ClaimVirtualHead
+X11 error from display %s, serial=%ld, error=%d, req=%d.%d
+%s cursor moved (visible=%d, (%d, %d))
+%s -- from server, event type %d, root %ld (ours? %d)
+%s-%s moving cursor (%d, %d) [(%d, %d), (%d, %d)]
+%s-%s damaged: +(%d,%d)x(%d, %d) -> (%d, %d), (%d, %d)
+%s: wait for act '%c%c%c%c%c'
+%s: client message '%c%c%c%c%c'
+%s: has_shm?=%d, event=%d, opcode=%d, has_pixmap?=%d
+%s screen saver active? %d [event=%d, error=%d]
+%s saving screen saver defaults: timeout=%d interval=%d prefer_blank=%d allow_exp=%d
+%s: randr_active?=%d, event=%d, error=%d
+%s: xinerama_active?=%d, event=%d, error=%d
+%s unable to create a socket: %d
+%s startup send/recv failed: %d
+%s query send/recv failed: %d
+%s-%s use shm? %d (use shm pixmap? %d)
+%s failed to clear panning on CRTC:%ld
+%s CRTC:%ld x=%d, y=%d, rotation=%d, mode=%ld
+%s CRTC:%ld panning (%d, %d)x(%d, %d), tracking (%d, %d)x(%d, %d), border (%d, %d),(%d, %d)
+%s cursor image %dx%d, serial %d:
+%s? depth=%d, visual: class=%d, bits_per_rgb=%d, red_mask=%08lx, green_mask=%08lx, blue_mask=%08lx
+Render extension not supported by %s
+%s: root format=%lx, rgb16 format=%lx, rgb24 format=%lx
+%s-%s using depth %d, requires xrender for src? %d, for dst? %d
+%s-%s cloning modes fixed %dx%d
+%s(%s-%s): disabling active CRTC
+%s timestamp %ld (last %ld), config %ld (last %ld)
+%s-%s: (x=%d, y=%d, rotation=%d, mode=%ld) -> (x=%d, y=%d, rotation=%d, mode=%ld)
+%s-%s: (x=%d, y=%d, rotation=%d, mode=%ld) -> off
+%s: source %s enabled (%d, %d)x(%d, %d)
+%s fb bounds (%d, %d)x(%d, %d)
+%s: current size %dx%d, need %dx%d
+%s: copying configuration from %s (mode=%ld: %dx%d) to %s
+%s: disabling unused output '%s'
+%s: adding mode %ld: %dx%d to %s, new mode %ld
+%s: failed to find suitable mode for %s
+%s: checking whether CRTC:%ld is available
+%s: CRTC:%ld already assigned to %s
+%s: failed to find available CRTC for %s
+%s: enabling output '%s' (%d,%d)x(%d,%d), rotation %d, on CRTC:%ld, using mode %ld
+%s-%s: x=%d, y=%d, rotation=%d, mode=%ld
+%s-%s: panning (%d, %d)x(%d, %d), tracking (%d, %d)x(%d, %d), border (%d, %d),(%d, %d)
+%s-%s create xfer, %dx%d (currently %dx%d)
+%s-%s create xfer, trying DRI3
+%s-%s create xfer, DRI3 fd=%d, stride=%d
+%s-%s create xfer, DRI3 failed
+%s-%s create xfer, trying SHM
+%s(%s-%s <- %s-%s): timestamp %ld (last %ld)
+%s(%s-%s): no change in output
+%s(%s-%s): reusing mode %ld: %s
+%s(%s-%s): adding mode %ld: %s
+Failed to find available VirtualHead "%s" for "%s" on display "%s"
+Failed to add output "%s" on display "%s"
+Failed to negotiate image format for display "%s"
+Failed to clone output "%s" from display "%s"
+Failed to find available VirtualHead "%s" for Xinerama screen %d on display "%s"
+Failed to add Xinerama screen %d on display "%s"
+Failed to clone Xinerama screen %d from display "%s"
+Failed to find available VirtualHead "%s" for on display "%s"
+<unspecified>, set either the DISPLAY environment variable or pass -d <display name> on the commandline
+Usage: %s [OPTION]... [TARGET_DISPLAY]...
+  -d <source display>  source display
+  -f                   keep in foreground (do not detach from console and daemonize)
+  -b                   start bumblebee
+  -a                   connect to all local displays (e.g. :1, :2, etc)
+  -S                   disable use of a singleton and launch a fresh intel-virtual-output process
+  -v                   all verbose output, implies -f
+  -V <category>        specific verbose output, implies -f
+  -h                   this help
+Beeb
+If no target displays are parsed on the commandline, 
+intel-virtual-output will attempt to connect to any local display
+intel-virtual-output: version %d.%d.%d
+intel-virtual-output-singleton
+No reply from singleton; assuming control
+%s: singleton active, sending open commands
+Unable to connect to bumblebee.
+Failed to register as singleton
+Damage/Fixes extension not supported by %s
+RandR extension not supported by %s
+XTEST extension not supported by display "%s"
+polling - enable timer? %d, nfd=%d, ndisplay=%d
+%s screen saver: state=%d, kind=%d, forced=%d
+%s damaged: (%d, %d)x(%d, %d)
+%s screen changed (reconfigure pending? %d)
+client command complete! '%s'
+%s exposed: (%d, %d)x(%d, %d)
+%s received RRNotify, type %d
+%s RRNotify_OutputChange, timestamp %ld
+%s-%s paint clone, damaged (%d, %d), (%d, %d) [(%d, %d), (%d,  %d)]
+%s-%s is damaged, last SHM serial: %ld, now %ld
+%s-%s get_src XCopyArea (SHM/DRI3)
+%s-%s get_src XGetSubImage (slow)
+%s-%s using SHM pixmap composite
+%s-%s using SHM image composite
+%s-%s using SHM or DRI3 pixmap
+%s setting cursor position (%d, %d), visible? %d
+%s updating cursor %dx%d, serial %d
+%s flushing send (serial now %ld) (has shm send? %d)
+ display_flush
+context_update
+context_enable_timer
+last_display_add_clones__display
+clone_update_modes__fixed
+last_display_add_clones__xinerama
+A Santa lives evil at NASA
+clone_update_modes__randr
+find_xrender_format
+bad_visual
+clone_output_init
+claim_virtual
+display_init_randr_hpd
+last_display_add_clones__randr
+bumblebee_open
+display_open
+record_callback
+record_mouse
+display_init_damage
+check_virtual
+ffffff9@
+;*3$"
+3cdbccf2550e4b428d083c7f7ea162fd17215f.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

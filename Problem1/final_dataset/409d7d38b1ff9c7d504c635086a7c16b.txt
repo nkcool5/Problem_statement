@@ -1,0 +1,2931 @@
+/lib/ld-linux.so.2
+F:$#x
+OVa6
+libwrap.so.0
+__gmon_start__
+_Jv_RegisterClasses
+_fini
+sock_host
+refuse
+deny_severity
+allow_severity
+request_init
+hosts_access
+libpam.so.0
+audit_open
+audit_log_user_message
+audit_close
+pam_get_item
+pam_strerror
+pam_chauthtok
+pam_start
+pam_open_session
+pam_end
+pam_setcred
+pam_getenvlist
+pam_close_session
+pam_authenticate
+pam_set_item
+pam_acct_mgmt
+pam_putenv
+libdl.so.2
+libselinux.so.1
+get_default_context_with_level
+get_default_type
+security_getenforce
+getfilecon
+context_str
+context_free
+freecon
+setfilecon
+getseuserbyname
+getcon_raw
+selinux_trans_to_raw_context
+getexeccon
+security_compute_relabel
+context_range_set
+setexeccon
+context_type_set
+context_role_set
+get_default_context
+context_range_get
+context_new
+security_compute_av
+is_selinux_enabled
+libaudit.so.0
+audit_log_acct_message
+libfipscheck.so.1
+FIPSCHECK_verify
+libresolv.so.2
+__b64_ntop
+__b64_pton
+libcrypto.so.6
+inflateEnd
+deflate
+deflateInit_
+inflate
+deflateEnd
+inflateInit_
+EVP_PKEY_free
+DSA_do_verify
+BN_new
+SSLeay
+PEM_read_PrivateKey
+EVP_get_digestbyname
+EVP_ripemd160
+BN_bn2dec
+BN_bn2bin
+MD5_Final
+BN_is_bit_set
+EVP_aes_256_cbc
+RSA_sign
+HMAC_CTX_cleanup
+DSA_new
+BN_hex2bn
+DSA_SIG_free
+DH_new
+RAND_seed
+OPENSSL_config
+EVP_des_cbc
+BN_CTX_new
+EVP_CIPHER_CTX_set_key_length
+BN_CTX_free
+EVP_des_ede3_cbc
+RAND_status
+RAND_bytes
+EVP_DigestFinal
+AES_encrypt
+OBJ_nid2sn
+BN_mask_bits
+EVP_CipherInit
+HMAC_Final
+RSA_blinding_on
+DSA_SIG_new
+RSA_public_decrypt
+OPENSSL_add_all_algorithms_noconf
+BN_cmp
+BN_value_one
+EVP_PKEY_get1_DSA
+EVP_enc_null
+RSA_free
+EVP_aes_192_cbc
+ENGINE_register_all_complete
+RAND_load_file
+RSA_new
+EVP_rc4
+BN_dec2bn
+ERR_error_string
+ERR_get_error
+DH_free
+RSA_size
+EVP_sha1
+EVP_aes_128_cbc
+BN_bin2bn
+ENGINE_load_builtin_engines
+EVP_DigestUpdate
+HMAC_Update
+DSA_do_sign
+DH_size
+FIPS_mode
+DH_compute_key
+MD5_Init
+BN_num_bits
+AES_set_encrypt_key
+BN_copy
+DH_generate_key
+EVP_DigestInit
+EVP_bf_cbc
+BN_clear_free
+EVP_PKEY_get1_RSA
+BN_rand
+EVP_CIPHER_CTX_init
+PEM_write_RSAPrivateKey
+BN_div
+EVP_md5
+DSA_free
+DSA_generate_key
+RAND_cleanup
+RSA_generate_key
+CRYPTO_free
+PEM_write_DSAPrivateKey
+EVP_cast5_cbc
+MD5_Update
+RSA_private_decrypt
+DSA_generate_parameters
+EVP_CIPHER_CTX_cleanup
+DSA_size
+RSA_public_encrypt
+BN_sub
+HMAC_Init
+BN_dup
+SSLeay_version
+libutil.so.1
+logwtmp
+logout
+openpty
+libz.so.1
+libnsl.so.1
+libcrypt.so.1
+libgssapi_krb5.so.2
+error_message
+gss_add_oid_set_member
+gss_test_oid_set_member
+gss_export_name
+gss_create_empty_oid_set
+gss_import_name
+gss_accept_sec_context
+gss_verify_mic
+gss_indicate_mechs
+gss_display_status
+gss_display_name
+gss_acquire_cred
+gss_release_buffer
+gss_release_cred
+gss_release_name
+gss_init_sec_context
+gss_krb5_copy_ccache
+gss_delete_sec_context
+gss_get_mic
+gss_nt_service_name
+gss_release_oid_set
+libkrb5.so.3
+krb5_cc_get_name
+krb5_get_init_creds_password
+krb5_parse_name
+krb5_cc_initialize
+krb5_kuserok
+krb5_cc_resolve
+krb5_init_context
+krb5_cc_destroy
+krb5_verify_init_creds
+krb5_cc_store_cred
+krb5_free_context
+krb5_free_principal
+krb5_cc_close
+krb5_sname_to_principal
+libk5crypto.so.3
+libcom_err.so.2
+libnss3.so
+SECITEM_ZfreeItem
+DSAU_DecodeDerSig
+SECKEY_DestroyPrivateKey
+SEC_SignData
+SECKEY_DestroyPublicKey
+SECKEY_CopyPrivateKey
+SECKEY_SignatureLen
+SECKEY_CopyPublicKey
+libc.so.6
+_IO_stdin_used
+setuid
+chroot
+socket
+mkdtemp
+fflush
+vasprintf
+fchmod
+__printf_chk
+execl
+execv
+gai_strerror
+strncmp
+strrchr
+__strdup
+perror
+__progname
+connect
+getpwuid
+ftruncate64
+mmap64
+closedir
+initgroups
+inet_ntoa
+getgrgid
+__read_chk
+inet_ntop
+strncpy
+fork
+sigprocmask
+futimes
+daemon
+unlink
+listen
+select
+mkdir
+realloc
+abort
+stdin
+_exit
+socketpair
+memchr
+strpbrk
+popen
+getpid
+kill
+strspn
+strftime
+rewind
+strtok
+endpwent
+isatty
+feof
+symlink
+cfsetispeed
+fgetc
+execlp
+fgets
+getpwnam
+calloc
+strlen
+sigemptyset
+openlog
+getaddrinfo
+dirname
+memset
+cfgetospeed
+strcspn
+tcsendbreak
+__errno_location
+rmdir
+bind
+tcsetattr
+chdir
+read
+getnameinfo
+endgrent
+__syslog_chk
+getsockopt
+setgroups
+ttyname
+dup2
+unsetenv
+__fxstat64
+shutdown
+__fprintf_chk
+sigaddset
+ctime
+getgrnam
+fchown
+stdout
+fputc
+setlogin
+__strtoll_internal
+fputs
+setresgid
+memcpy
+fclose
+__memmove_chk
+__strtol_internal
+__vsnprintf_chk
+setsockopt
+malloc
+umask
+strcasecmp
+setegid
+getpeername
+__strncpy_chk
+getgid
+__lxstat64
+opendir
+getspnam
+__xstat64
+getenv
+__ctype_b_loc
+sscanf
+setresuid
+ioctl
+alarm
+munmap
+__snprintf_chk
+seteuid
+getgroups
+getuid
+readlink
+execve
+getegid
+strncasecmp
+sendmsg
+__strsep_g
+__realpath_chk
+fileno
+pclose
+gethostname
+fwrite
+gettimeofday
+sigaction
+rename
+mkstemp64
+geteuid
+__memcpy_chk
+waitpid
+vhangup
+localtime
+lseek64
+strchr
+getsockname
+fdopen
+readdir64
+accept
+tcgetattr
+__ctype_toupper_loc
+__ctype_tolower_loc
+__cxa_finalize
+freeaddrinfo
+setsid
+fcntl
+cfsetospeed
+cfgetispeed
+innetgr
+getprotobyname
+memmove
+fopen64
+getgrouplist
+setgid
+strcmp
+recvmsg
+__libc_start_main
+dirfd
+closelog
+snprintf
+sysconf
+program_invocation_short_name
+__environ
+__cxa_atexit
+__stack_chk_fail
+_edata
+__bss_start
+outgoing_stream
+packet_get_char
+child_state
+channel_pre
+iqueue
+compat20
+evp_aes_128_ctr
+channel_post
+saved_argc
+session_close_by_channel
+session_id2
+inetd_flag
+no_agent_forwarding_flag
+auth_debug_init
+logit
+loginmsg
+verbose
+dispatch_protocol_ignore
+use_privsep
+session_id2_len
+channel_input_data
+channel_input_window_adjust
+get_hostkey_by_type
+xxx_kex
+datafellows
+saved_argv
+log_stderr
+BSDoptarg
+handles
+sys_tun_outfilter
+options
+no_port_forwarding_flag
+no_x11_forwarding_flag
+pmonitor
+sessions
+max_packet_size
+channel_input_oclose
+client_alive_timeouts
+BSDoptopt
+current_keys
+dispatch_protocol_error
+input
+channel_input_open_confirmation
+mm_sshpam_device
+packet_get_int
+devices
+compat13
+debug_flag
+get_hostkey_index
+the_authctxt
+channel_input_ieof
+buffer_put_char
+sensitive_data
+newkeys
+custom_environment
+session_id
+kexdh_server
+channel_input_close
+listen_socks
+privsep_pw
+rexeced_flag
+channel_input_open_failure
+BSDoptreset
+forced_tun_device
+channel_input_close_confirmation
+channel_input_extended_data
+channel_input_port_open
+kexgex_server
+kex_input_kexinit
+mon_dispatch
+rexec_argv
+output
+utmp_len
+sys_tun_infilter
+startup_pipe
+incoming_stream
+outgoing
+no_pty_flag
+BSDoptind
+forced_command
+oqueue
+auth_debug
+buffer_put_int
+GLIBC_2.0
+NSS_3.11.2
+NSS_3.6
+NSS_3.2
+gssapi_krb5_2_MIT
+LIBPAM_1.0
+krb5_3_MIT
+GLIBC_2.1.1
+GLIBC_2.4
+GLIBC_2.3
+GLIBC_2.2.4
+GLIBC_2.2
+GLIBC_2.3.4
+GLIBC_2.1.3
+GLIBC_2.1
+98t	
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+,[^_]
+<[^_]
+[^_]
+,[^_]
+[^_]
+WVSQ
+8/t&
+[^_]
+[^_]
+t.;G
+tt<	
+[^_]
+[^_]
+<[^_]
+|[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+|[^_]
+<[^_]
+[^_]
+t[8U
+<[^_]
+[^_]
+[^_]
+\[^_]
+ [^]
+<[^_]
+|Ytr
+[^_]
+,[^_]
+\[^_]
+l[^_]
+ [^]
+ [^]
+[^_]
+,[^_]
+|[^_]
+|[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+9[^_]
+[^_]
+[^_]
+<[^_]
+,[^_]
+< t{<	tw
+< t <	t
+t/<"
+[^_]
+[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+<[^_]
+<[^_]
+,[^_]
+,[^_]
+[^_]
+,[^_]
+[^_]
+,[^_]
+[^_]
+[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+|2~(
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+98t'
+tM;0tL
+91t!
+<[^_]
+<[^_]
+[^_]
+[^_]
+[^_]
+ ^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+ti9>u
+,[^_]
+L[^_]
+,[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+<[^_]
+<[^_]
+,[^_]
+[^_]
+<[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+<[^_]
+<[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+,[^_]
+|[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+<[^_]
+<[^_]
+L[^_]
+[^_]
+L[^_]
+[^_]
+L[^_]
+[^_]
+,[^_]
+[^_]
+t#+E
+[^_]
+[^_]
+L[^_]
+[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+,[^_]
+|[^_]
+[^_]
+[^_]
+[^_]
++GH=
+[^_]
+[^_]
+[^_]
+< tf<	
+[^_]
+|0~'
+[^_]
+~!w	
+[^_]
+|Z~Q
+[^_]
+[^_]
+[^_]
+<[^_]
+ [^]
+ [^]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+<[^_]
+<[^_]
+[^_]
+[^_]
+[^_]
+ [^]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+ [^]
+[^_]
+[^_]
+L[^_]
+[^_]
+[^_]
+t 9}
+t(9}
+[^_]
+[^_]
+[^_]
+,[^_]
+,[^_]
+[^_]
+[^_]
+<[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+;2wJ
+Borrow or rob
+[^_]
+[^_]
+[^_]
+~';U
+,[^_]
+[^_]
+t18E
+tN8E
+L[^_]
+,[^_]
+[^_]
+L[^_]
+[^_]
+[^_]
+<[^_]
+t28E
+[^_]
+[^_]
+[^_]
+ty<?t
+tj<*u
+t.<?tI<*u
+[^_]
+[^_]
+[^_]
+ [^]
+ [^]
+,[^_]
+L[^_]
+L[^_]
+L[^_]
+<[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+tCvE
+tF~O=
+9:tw
+l[^_]
+l[^_]
+[^_]
+[^_]
+< t]<	tY
+0<	wh
+[^_]
+[^_]
+[^_]
+[^_]
+< tY<	tU
+[^_]
+F,td
+F tU
+F(t7
+F$t(
+[^_]
+tG8E
+[^_]
+[^_]
+[^_]
+[^_]
+|[^_]
+|[^_]
+[^_]
+,[^_]
+[^_]
+[^_]
+l[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+t38E
+tN8E
+[^_]
+ [^]
+< tT<	
+[^_]
+0[^]
+0[^]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+8~t%
+[^_]
+[^_]
+,[^_]
+?"t$
+P[^]
+[^_]
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+dddd
+[^_]
+[^_]
+<[^_]
+[^_]
+[^_]
+<[^_]
+<[^_]
+,[^_]
+,[^_]
+ [^]
+[^_]
+,[^_]
+@[^]
+[^_]
+0^_]
+<[^_]
+[^_]
+xA;}
+[^_]
+[^_]
+[^_]
+[^_]
+8=;U
+[^_]
+?:t2
+:Xu3
+Zu|9
+[^_]
+[^_]
+gfff
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+t:9}
+t39}
+L[^_]
+L[^_]
+[^_]
+do_connection: %s: server_key %d < host_key %d + SSH_KEY_BITS_RESERVED %d
+do_connection: %s: host_key %d < server_key %d + SSH_KEY_BITS_RESERVED %d
+%s: entering fd = %d config len %d
+FIPS integrity verification test failed.
+Invalid key regeneration interval.
+usage: sshd [-46Ddeiqt] [-b bits] [-f config_file] [-g login_grace_time]
+            [-h host_key_file] [-k key_gen_time] [-o option] [-p port] [-u len]
+sshd re-exec requires execution with an absolute path
+Privilege separation user %s does not exist
+private host key: #%d type %d %s
+Disabling protocol version 1. Not allowed in the FIPS mode.
+Disabling protocol version 1. Could not load host key
+Disabling protocol version 2. Could not load host key
+sshd: no hostkeys available -- exiting.
+Forcing server key to %d bits to make it differ from host key.
+Missing privilege separation directory: %s
+%s must be owned by root and not group or world-writable.
+inetd sockets after dupping: %d, %d
+Too many listen sockets. Enlarge MAX_LISTEN_SOCKS
+Bind to port %s on %s failed: %.200s.
+Server listening on %s port %s.
+Couldn't create pid file "%s": %s
+RESTART FAILED: av[0]='%.100s', error: %.100s.
+Received signal %d; terminating.
+Server will not fork when running in debugging mode.
+rexec start in %d out %d newsock %d pipe %d sock %d
+rexec cleanup in %d out %d newsock %d pipe %d sock %d
+setsockopt SO_KEEPALIVE: %.100s
+Connection refused by tcp wrapper
+Connection from %.500s port %d
+Could not write ident string to %s
+Did not receive identification string from %s
+Bad protocol version identification '%.100s' from %s
+Client protocol version %d.%d; client software version %.100s
+probed from %s with %s.  Don't panic.
+scanned from %s with %s.  Don't panic.
+Degas are we not drawn onward no In union drawn onward to new eras aged
+Your ssh version is too old and is no longer supported.  Please install a newer version.
+Protocol major versions differ.
+Protocol major versions differ for %s: %.200s vs. %.200s
+fork of unprivileged child failed
+aes128-ctr,aes192-ctr,aes256-ctr,aes128-cbc,3des-cbc,aes192-cbc,aes256-cbc,rijndael-cbc@lysator.liu.se
+Sent %d bit server key and %d bit host key.
+Warning: client selects unsupported cipher.
+IP Spoofing check bytes do not match.
+Packet integrity error (%d bytes remaining) at %s:%d
+do_connection: bad session key len from %s: session_key_int %d > sizeof(session_key) %lu
+do_connection: generating a fake encryption key
+Received session key; encryption turned on.
+diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1
+aes128-ctr,aes192-ctr,aes256-ctr,arcfour256,arcfour128,aes128-cbc,3des-cbc,blowfish-cbc,cast128-cbc,aes192-cbc,aes256-cbc,arcfour,rijndael-cbc@lysator.liu.se
+hmac-md5,hmac-sha1,hmac-ripemd160,hmac-ripemd160@openssh.com,hmac-sha1-96,hmac-md5-96
+new 
+Generating %s%d bit RSA key.
+RSA key generation complete.
+%s: ssh_msg_send failed
+%s: done
+%s: entering fd = %d
+%s: ssh_msg_recv failed
+%s: rexec version mismatch
+setgroups(): %.200s
+too many ports.
+Bad port number.
+Invalid login grace time.
+too many host keys.
+Invalid utmp length.
+command-line
+OpenSSH_4.3p2
+%s, %s
+f:p:b:k:h:g:u:o:dDeiqrtQR46
+KRB5CCNAME
+rexec
+Extra argument %s.
+OpenSSH_4.3p2-FC-4.3p2-82.el5
+sshd version %.100s
+Could not load host key: %s
+Bad server key size.
+/var/empty/sshd
+setgroups() failed: %.200s
+rexec_argv[%d]='%s'
+daemon() failed: %.200s
+/dev/tty
+FIPS mode initialized
+/dev/null
+getnameinfo failed: %.100s
+socket: %.100s
+setsockopt SO_REUSEADDR: %s
+Bind to port %s on %s.
+listen: %.100s
+Cannot bind any address.
+Received SIGHUP; restarting.
+select: %.100s
+accept: %.100s
+drop_connection: p %d, r %d
+drop connection #%d
+reexec socketpair: %s
+fork: %.100s
+Forked child %ld.
+[accepted]
+setsid: %.100s
+rexec of %s failed: %s
+get_remote_port failed
+libwrap refuse returns
+OpenSSH_4.3
+SSH-%d.%d-%.100s
+SSH-1.5-W1.0
+SSH-%d.%d-%[^
+Protocol mismatch.
+Local version string %.200s
+God A red nugget A fat egg under a dog
+Network child is on pid %ld
+chroot("%s"): %s
+chdir("/"): %s
+privsep user:group %u:%u
+setgroups: %.100s
+hmac-sha1
+none
+none,zlib@openssh.com
+list_hostkey_types: %s
+KEX done
+Encryption type: %.200s
+do_ssh1_kex: BN_new failed
+sshd.c
+Packet integrity error.
+User child is on pid %ld
+Closing connection to %.100s
+/etc/ssh/sshd_config
+ssh-rsa,ssh-dss
+none,zlib@openssh.com,zlib
+send_rexec_state
+recv_rexec_state
+NO_PLUS
+%1023s %1023s %1023s
+Found empty line in %.100s.
+Found garbage in %.100s.
+.shosts
+%.500s/%.100s
+/etc/ssh/shosts.equiv
+/etc/hosts.equiv
+Bad file modes for %.200s
+Accepted by %.100s.
+.rhosts
+Ignoring wild host/user names in %.100s.
+Matched negative entry in %.100s.
+auth_rhosts2: clientuser %s hostname %s ipaddr %s
+Accepted for %.100s [%.100s] by /etc/hosts.equiv.
+Accepted for %.100s [%.100s] by %.100s.
+Rhosts authentication refused for %.100s: no home directory %.200s
+Rhosts authentication refused for %.100s: bad ownership or modes for home directory.
+Rhosts authentication refused for %.100s: bad modes for %.200s
+Server has been configured to ignore %.100s.
+Accepted host %s ip %s client_user %s server_user %s
+trying public RSA key file %s
+Authentication refused: %s
+ssh-rsa1
+unsuccessful audit
+auth-rsa.c
+Found matching %s key: %s
+RSA authentication accepted.
+%.100s, line %lu: non ssh1 key syntax
+Warning: %s, line %lu: keysize mismatch: actual %d vs. announced %d.
+auth_rsa_verify_response: RSA modulus too small: %d < minimum %d bits
+auth_rsa_verify_response: bad challenge length %d
+auth_rsa_generate_challenge: BN_new() failed
+auth_rsa_generate_challenge: BN_CTX_new() failed
+auth_rsa_challenge_dialog: BN_new() failed
+Wrong response to RSA authentication challenge.
+~/.ssh/known_hosts
+/etc/ssh/ssh_known_hosts
+Trying rhosts with RSA host authentication for client user %.100s
+Rhosts RSA authentication: canonical host %.900s
+Rhosts with RSA host authentication denied: unknown or invalid host key
+Your host key cannot be verified: unknown or invalid host key.
+Client on %.800s failed to respond correctly to host authentication.
+Rhosts with RSA host authentication accepted for %.100s, %.100s on %.700s.
+Rhosts with RSA host authentication accepted.
+stat(%.100s) failed: %.100s
+ioctl(TIOCSCTTY): %.100s
+openpty: %.100s
+chown(%.100s, %u, %u) failed: %.100s
+chmod(%.100s, 0%o) failed: %.100s
+chown %.100s 0 0 failed: %.100s
+chmod %.100s 0666 failed: %.100s
+Failed to disconnect from controlling tty.
+Setting controlling tty using TIOCSCTTY.
+open /dev/tty failed - could not set controlling tty: %.100s
+openpty returns device for which ttyname fails.
+Last login: %s
+Last login: %s from %s
+%s: filename %s
+%s: done config len = %d
+<NULL>
+bad addr or host: %s (%s)
+%s line %d: too many ports.
+%s line %d: missing address
+%s line %d: bad port number
+inet
+inet6
+without-password
+forced-commands-only
+delayed
+clientspecified
+<NONE>
+%s line %d: Missing argument.
+%d:%d:%d
+ethernet
+point-to-point
+%s: config %s len %d
+/etc/ssh/ssh_host_key
+/etc/ssh/ssh_host_rsa_key
+/etc/ssh/ssh_host_dsa_key
+/var/run/sshd.pid
+/usr/bin/xauth
+.ssh/authorized_keys2
+.ssh/authorized_keys
+usepam
+pamauthenticationviakbdint
+port
+hostdsakey
+pidfile
+serverkeybits
+logingracetime
+A Santa lives evil at NASA
+keyregenerationinterval
+permitrootlogin
+syslogfacility
+loglevel
+rhostsauthentication
+rhostsrsaauthentication
+hostbasedauthentication
+pubkeyauthentication
+dsaauthentication
+kerberosauthentication
+kerberosorlocalpasswd
+kerberosticketcleanup
+kerberosgetafstoken
+kerberostgtpassing
+afstokenpassing
+gssapiauthentication
+gssapicleanupcredentials
+passwordauthentication
+kbdinteractiveauthentication
+skeyauthentication
+checkmail
+listenaddress
+addressfamily
+printmotd
+printlastlog
+ignorerhosts
+ignoreuserknownhosts
+x11forwarding
+x11displayoffset
+x11uselocalhost
+xauthlocation
+strictmodes
+permitemptypasswords
+permituserenvironment
+uselogin
+compression
+tcpkeepalive
+allowtcpforwarding
+allowusers
+denyusers
+allowgroups
+denygroups
+ciphers
+macs
+protocol
+gatewayports
+subsystem
+maxstartups
+maxauthtries
+banner
+showpatchlevel
+alula
+usedns
+verifyreversemapping
+reversemappingcheck
+clientaliveinterval
+clientalivecountmax
+authorizedkeysfile
+authorizedkeysfile2
+useprivilegeseparation
+acceptenv
+permittunnel
+chrootdirectory
+forcecommand
+parse_server_config
+load_server_config
+%s: line %d: Bad configuration option: %s
+%s line %d: ports must be specified before ListenAddress.
+%s line %d: missing port number.
+%s line %d: Badly formatted port number.
+%s line %d: missing integer value.
+%s line %d: missing time value.
+%s line %d: invalid time value.
+%s line %d: bad address:port usage
+%s line %d: missing address family.
+%s line %d: address family must be specified before ListenAddress.
+%s line %d: unsupported address family "%s".
+%s line %d: too many host keys specified (max %d).
+%s line %d: missing file name.
+%s line %d: missing yes/without-password/forced-commands-only/no argument.
+%s line %d: Bad yes/without-password/forced-commands-only/no argument: %s
+%s line %d: missing yes/no argument.
+%s line %d: Bad yes/no argument: %s
+%s line %d: missing yes/no/delayed argument.
+%s line %d: Bad yes/no/delayed argument: %s
+%s line %d: missing yes/no/clientspecified argument.
+%s line %d: Bad yes/no/clientspecified argument: %s
+%.200s line %d: unsupported log facility '%s'
+%.200s line %d: unsupported log level '%s'
+%s line %d: too many allow users.
+%s line %d: too many deny users.
+%s line %d: too many allow groups.
+%s line %d: too many deny groups.
+%s line %d: Bad SSH2 cipher spec '%s'.
+%s line %d: Bad SSH2 mac spec '%s'.
+%s line %d: Bad protocol spec '%s'.
+%s line %d: too many subsystems defined.
+%s line %d: Missing subsystem name.
+%s line %d: Subsystem '%s' already defined.
+%s line %d: Missing subsystem command.
+%s line %d: Missing MaxStartups spec.
+%s line %d: Illegal MaxStartups spec.
+%s line %d: Invalid environment name.
+%s line %d: too many allow env.
+%s line %d: Missing yes/point-to-point/ethernet/no argument.
+%s line %d: Bad yes/point-to-point/ethernet/no argument: %s
+%.200s line %d: Missing argument.
+%s line %d: Deprecated option %s
+%s line %d: Unsupported option %s
+%s line %d: Missing handler for opcode %s (%d)
+%s line %d: garbage at end of line; "%.200s".
+%s: terminating, %d bad configuration options
+hostbasedusesnamefrompacketonly
+challengeresponseauthentication
+unsupported-%s direction=? cipher=? ksize=? rport=%d laddr=%s lport=%d
+cipher=%s ksize=%d rport=%d laddr=%s lport=%d
+fcntl(notify_pipe, F_SETFD) failed %s
+server_input_global_request: rtype %s want_reply %d
+server_input_global_request: no/invalid user
+server_input_global_request: tcpip-forward listen %s port %d
+Server has disabled port forwarding.
+%s: cancel-tcpip-forward addr %s port %d
+server_input_channel_req: channel %d request %s reply %d
+server_input_channel_req: unknown channel %d
+server_input_channel_open: ctype %s rchan %d win %d max %d
+session open failed, free channel %d
+server_request_direct_tcpip: originator %s port %d, target %s port %d
+Unsupported tunnel device mode.
+Server has rejected tunnel device forwarding
+Failed to open the tunnel device.
+server_input_channel_open: confirm %s
+server_input_channel_open: failure %s
+Timeout, your session not responding.
+Read error from remote host %.100s: %.100s
+Entering interactive session for SSH2.
+Waiting for forwarded connections to terminate...
+End of interactive session; stdin %ld, stdout (read %ld, sent %ld), stderr %ld bytes.
+Strange, wait returned pid %ld, expected %ld
+Command exited with status %d.
+Command terminated on signal %d.
+start direction=%s %s
+cannot open audit
+cannot write into audit
+Got %d/%u for keepalive
+pipe(notify_pipe) failed %s
+server_init_dispatch_13
+server_init_dispatch_20
+server_init_dispatch_15
+cancel-tcpip-forward
+EOF received for stdin.
+serverloop.c
+input_session_request
+server-session
+direct-tcpip
+tun@openssh.com
+open failed
+Window change received.
+keepalive@openssh.com
+notify_done: reading
+Connection closed by %.100s
+Received SIGCHLD.
+Exiting on signal %d
+need rekeying
+Entering interactive session.
+wait: %.100s
+Received exit confirmation.
+wait returned status %04x.
+from-server
+from-client
+both
+cipher
+comp
+server_input_global_request
+get_default_type: failed to get default type for '%s'
+get_user_context: obtained context '%s' requested context '%s'
+failed to allocate security context
+selinux_get_user_context: current connection level '%s'
+mls_range_allowed: src:%s dst:%s
+deny MLS level %s (user range %s)
+Failed to get default security context for %s.
+Failed to set exec security context %s for %s.
+Error connecting to audit system.
+Error translating default context.
+Error translating selected context.
+sshd: default-context=%s selected-context=%s
+SELinux failure. Aborting connection.
+SELinux failure. Continuing in permissive mode.
+permit MLS level %s (user range %s)
+getfilecon(%.100s) failed: %.100s
+user_context: %s old_tty_context: %s
+security_compute_relabel(%.100s) failed: %.100s
+setfilecon(%.100s, %s) failed: %.100s
+Error allocating memory.
+Error sending audit message.
+getexeccon() failed: %.100s
+NOUSER
+/nonexist
+Postponed
+Accepted
+Failed
+invalid user 
+keyboard-interactive
+challenge-response
+/bin/sh
+realpath %s failed: %s
+dirname() failed
+$2a$06$r3.juUaHZDlIbQaO2dS9FuYxL1W9M81R1Tc92PoSNmzvpEqLkLGrK
+Root login accepted for forced command.
+ROOT LOGIN REFUSED FROM %.200s
+expand_authorized_keys: path too long
+%s %s for %s%.100s from %.200s port %d%s
+User %.100s not allowed because shell %.100s does not exist
+User %.100s not allowed because shell %.100s is not executable
+User %.100s from %.100s not allowed because listed in DenyUsers
+User %.100s from %.100s not allowed because not listed in AllowUsers
+User %.100s from %.100s not allowed because not in any group
+User %.100s from %.100s not allowed because a group is listed in DenyGroups
+User %.100s from %.100s not allowed because none of user's groups are listed in AllowGroups
+User %.100s not allowed because account is locked
+Invalid user %.100s from %.100s
+bad ownership or modes for file %s
+secure_filename: checking '%s'
+bad ownership or modes for directory %s
+secure_filename: terminating check at '%s'
+Authentication refused for %.100s: bad owner or modes for %.200s
+check_key_in_hostfiles: key %s for %s
+auth1.c
+sending challenge '%s'
+ ruser %.100s
+do_authloop: BN_new failed
+ [net]
+without authentication
+%s authentication disabled.
+Access denied.
+bad-auth-msg-%d
+rhosts-rsa
+Warning: keysize mismatch for client_host_key: actual %d, announced %d
+do_authentication: invalid user %s
+Cannot change user when server not running as root.
+Attempting authentication for %s%.100s.
+Unknown message during authentication: type %d
+INTERNAL ERROR: authenticated invalid user %s
+Access denied for user %s by PAM account configuration
+Too many authentication failures for %.100s
+input_service_request: no authctxt
+input_userauth_request: no authctxt
+userauth-request for user %s service %s method %s
+input_userauth_request: setting up authctxt for %s
+input_userauth_request: invalid user %s
+Change of username or service not allowed: (%s,%s) -> (%s,%s)
+Unrecognized authentication method name: %s
+input_userauth_request: try method %s
+ ssh2
+auth2.c
+ssh-userauth
+bad service request %s
+attempt %d failures %d
+ssh-connection
+no-port-forwarding
+Port forwarding disabled.
+no-agent-forwarding
+Agent forwarding disabled.
+no-X11-forwarding
+X11 forwarding disabled.
+no-pty
+Pty allocation disabled.
+command="
+Forced command: %.900s
+environment="
+Adding to environment: %.900s
+from="
+permitopen="
+tunnel="
+Forced tun device: %d
+%.100s, line %lu: missing end quote
+Authentication tried for %.100s with correct key but not from a permitted host (host=%.200s, ip=%.200s).
+Your host '%.200s' is not permitted to use this key for login.
+%.100s, line %lu: Bad permitopen specification <%.100s>
+%.100s, line %lu: Bad permitopen specification
+%.100s, line %lu: Bad permitopen port <%.100s>
+%.100s, line %lu: Bad permitopen port
+%.100s, line %lu: invalid tun device
+Bugs in auth-options.c option processing.
+Bad options in %.100s file, line %lu: %.50s
+dump: used %d session %d %p channel %d pid %ld
+session_by_channel: session %d channel %d
+session_by_channel: unknown channel %d
+X11 forwarding disabled in user configuration file.
+X11 forwarding disabled in server configuration file.
+No xauth program; cannot forward with spoofing.
+X11 forwarding disabled; not compatible with UseLogin=yes.
+x11_create_display_inet failed.
+session_close_x11: x11 channel %d missing
+session_close_x11: detach x11 channel %d
+session_close_single_x11: channel %d
+session_by_x11_channel: session %d channel %d
+session_by_x11_channel: unknown channel %d
+session_close_single_x11: no x11 channel %d
+session_close_single_x11: session %d: closing channel %d
+session_pty_cleanup: no session
+session_pty_cleanup: session %d release %s
+session_by_pid: unknown pid %ld
+session_close_by_pid: no session for pid %ld
+session_exit_message: session %d: no channel %d
+session_exit_message: session %d channel %d pid %ld
+session_exit_message: release channel %d
+session_close: session %d pid %ld
+session_close_by_channel: no session for id %d
+session_close_by_channel: channel %d child %ld
+session_close_by_channel: channel %d: has child
+session_set_fds: called for proto != 2.0
+session_by_tty: session %d tty %s
+session_by_tty: unknown tty %.100s
+Allocating a pty not permitted for this authentication.
+Protocol error: you already have a pty.
+session_pty_req: session %d alloc failed
+session_pty_req: session %d alloc %s
+authentication forwarding requested twice.
+Agent forwarding disabled: mkdtemp() failed: %.100s
+session_open: session %d: link with channel %d
+child_set_env: too many env vars
+chroot path does not begin at root
+bad ownership or modes for chroot directory %s"%s"
+chroot path %s"%s" is not a directory
+Unable to chdir to chroot path "%s": %s
+Changed root directory to "%s"
+WARNING: Your password has expired.
+You must change your password now and login again!
+Password change required but no TTY available.
+User %.100s not allowed because %s exists
+PAM session not opened, exiting
+/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+Too many lines in environment file %s
+Could not chdir to home directory %s: %s
+%.500s add %.100s %.100s %.100s
+Could not create socket pairs: %.100s
+Forced command (config) '%.900s'
+Forced command (key option) '%.900s'
+session_input_channel_req: no session %d req %.100s
+session_input_channel_req: session %d req %s
+session_x11_req: session %d: x11 forwarding already active
+session_auth_agent_req: no_agent_forwarding_flag
+subsystem request for %.100s failed, subsystem not found
+Ignoring env request %s: too many env vars
+Ignoring env request %s: disallowed name
+Received invalid compression level %d.
+SSH_PROTOFLAG_SCREEN_NUMBER: %d
+Buggy client: X11 screen flag missing
+Authentication agent forwarding not permitted for this authentication.
+Received authentication agent forwarding request.
+Port forwarding not permitted for this authentication.
+Port forwarding not permitted.
+Received TCP/IP port forwarding request.
+Unknown packet type received after authentication: %d
+%.200s/.hushlogin
+X11 display already set.
+gethostname: %.100s
+localhost:%u.%u
+unix:%u.%u
+%.400s:%u.%u
+no user for session %d
+/dev/
+%s@%s
+close(s->ptymaster/%d): %s
+session_by_pid: pid %ld
+exit-status
+exit-signal
+ABRT
+ALRM
+KILL
+PIPE
+QUIT
+SEGV
+TERM
+USR1
+USR2
+SIG@openssh.com
+do_cleanup
+no channel for session %d
+Allocating pty.
+session.c
+/tmp/ssh-XXXXXXXXXX
+%s/agent.%ld
+bind: %.100s
+session_new: init
+session_new: session %d
+session_open: channel %d
+no more sessions
+/etc/motd
+Copy environment: %s=%s
+setlogin failed: %s
+setgid
+initgroups
+chroot path too long
+%s: checking '%s'
+%s: stat("%s"): %s
+component 
+%s: chdir(/) after chroot: %s
+Failed to set uids to %u.
+/usr/bin/passwd
+/etc/nologin
+LOGNAME
+HOME
+/usr/local/bin:/bin:/usr/bin
+PATH
+/var/mail
+%.200s/%.50s
+MAIL
+SHELL
+%.50s %d %d
+SSH_CLIENT
+%.50s %d %.50s %d
+SSH_CONNECTION
+SSH_TTY
+DISPLAY
+SSH_ORIGINAL_COMMAND
+SSH_AUTH_SOCK
+%.200s/.ssh/environment
+Bad line %u in %.100s
+Environment:
+  %.200s
+.ssh/rc
+%s -c '%s %s'
+Running %s
+Could not run %s
+Running %s %s
+/bin/sh /etc/ssh/sshrc
+Running %.500s remove %.100s
+%s -q -
+remove %s
+add %s %s %s
+%s@internal-sftp-server
+/bin/login
+getpeername: %.100s
+do_exec_pty: no session
+dup2 stdin: %s
+dup2 stdout: %s
+dup2 stderr: %s
+fork failed: %.100s
+dup #1 failed: %.100s
+dup #2 failed: %.100s
+do_exec_no_pty: no session
+setsid failed: %.100s
+dup2 stdin
+dup2 stdout
+dup2 stderr
+shell
+pty-req
+x11-req
+auth-agent-req@openssh.com
+subsystem request for %.100s
+internal-sftp
+subsystem: cannot stat %s: %s
+subsystem: exec() %s
+Setting env %d: %s=%s
+window-change
+break
+compression disabled
+Exec command '%.500s'
+safely_chroot
+get_challenge: numprompts < 1
+<empty>
+auth2-chall.c
+keyboard-interactive/%s
+<no devs>
+<nouser>
+kbdint_alloc: devices '%s'
+auth2_challenge_start: devices %s
+kbdint_next_device: devices %s
+auth2_challenge_start: trying authentication method '%s'
+input_userauth_info_response: no authctxt
+input_userauth_info_response: no kbdintctxt
+input_userauth_info_response: no device
+input_userauth_info_response: wrong number of replies
+input_userauth_info_response: too many replies
+auth2_challenge: user=%s devs=%s
+getgrouplist: groups list too small
+userauth_hostbased: chost %s resolvedname %s ipaddr %s
+stripping trailing dot from chost %s
+userauth_hostbased mismatch: client sends %s, but we resolve %s to %s
+userauth_hostbased: access allowed by auth_rhosts2
+userauth_hostbased: disabled because of invalid user
+userauth_hostbased: cuser %s chost %s pkalg %s slen %d
+userauth_hostbased: unsupported public key algorithm: %s
+userauth_hostbased: cannot decode key: %s
+userauth_hostbased: type mismatch for decoded key (received %d, expected %d)
+userauth_hostbased: authenticated %d
+~/.ssh/known_hosts2
+/etc/ssh/ssh_known_hosts2
+hostbased
+auth2-kbdint.c
+keyboard-interactive devs %s
+%s: sent
+auth2-none.c
+userauth_send_banner
+auth2-passwd.c
+password change not supported
+trying public key file %s
+key not found
+auth2-pubkey.c
+publickey
+%s: user audit_fd %d
+pubkey_auth rport=%d
+%s: buf=%s
+%s: rc=%d
+ssh-rsa
+ssh-dsa
+ssh-nss
+user_key_allowed: check options: '%s'
+user_key_allowed: advance: '%s'
+matching key found: file %s, line %lu
+userauth_pubkey: disabled because of invalid user
+userauth_pubkey: SSH_BUG_PKAUTH
+userauth_pubkey: unsupported public key algorithm: %s
+userauth_pubkey: cannot decode key: %s
+userauth_pubkey: type mismatch for decoded key (received %d, expected %d)
+test whether pkalg/pkblob are acceptable
+userauth_pubkey: authenticated %d pkalg %s
+key algo=%s size=%d fp=%s rport=%d
+linux_audit_record_keyusage
+mm_memvalid: address too small: %p
+mm_memvalid: end < address: %p < %p
+mm_memvalid: address too large: %p
+mm_free(%p): double address %p
+mm_free: memory corruption: %p(%lu) > %p
+mm_free: memory corruption: %p < %p(%lu)
+mm_make_entry(%p): double address %p->%p(%lu)
+mm_malloc: try to allocate 0 space
+mm_free(%p): can not find %p
+mm_malloc: size too big
+%s: mm_malloc(%lu)
+munmap(%p, %lu): %s
+mmap(%lu): %s
+%s: Share sync
+%s: Share sync end
+mm_share_sync
+mm_xmalloc
+%s: sending result %d
+gssapi-with-mic
+keyboard-interactive/pam
+%s: role=%s
+%s: service=%s, style=%s
+%s: socketpair
+fcntl(%d, F_SETFD)
+%s: mm_zalloc(%u, %u)
+%s: Waiting for new keys
+%s: Waiting for second key
+%s: Getting compression state
+%s: bad request size
+%s: tearing down sessions
+%s: session %d pid %ld
+%s: tty %s ptyfd %d
+%s: authctxt not valid
+%s: no ssh1_challenge
+%s: key type mismatch: %d
+%s: received bad key
+%s: key type mismatch
+%s sending reply
+%s: BN_new
+%s: key_to_blob failed
+%s: bad ssh1 session id
+%s: dup2
+%s: open(/dev/null): %s
+%s: fd0 %d != 0
+%s: bad public key blob
+%s: bad signature data blob
+unverified
+%s: key %p signature %s
+%s: key_from_blob: %p
+%s: unknown key type %d
+disallowed
+%s: key %p is %s
+%s [priv]
+%s: data length incorrect: %u
+%s: no hostkey from index %d
+%s: key_sign failed
+%s: signature %p(%u)
+%s: got parameters: %d %d %d
+%s: bad parameters: %d %d %d
+%s: checking request %d
+%s: unpermitted request %d
+%s: unsupported request: %d
+preauth child monitor started
+mm_get_get: internal error: bad session id
+%s: Getting Network I/O buffers
+%s: bad key, not previously allowed
+%s: received bad response to challenge
+%s: Appending debug messages for child
+wrong user name passed to monitor: expected %s != %.100s
+%s: key type and protocol mismatch
+UsePAM not set, but ended up in %s anyway
+%s: multiple attempts for getpwnam
+%s: sending MONITOR_ANS_PWNAM: %d
+%s: %d used once, disabling now
+%s: unexpected authentication from %d
+%s: authenticated invalid user
+%s: authentication method name unknown
+%s: %s has been authenticated by privileged process
+mm_answer_gss_userok
+monitor_socketpair
+mm_zalloc
+mm_get_keystate
+mm_answer_term
+mm_session_close
+mm_answer_rsa_response
+mm_answer_rsa_challenge
+mm_answer_rsa_keyallowed
+mm_append_debug
+mm_answer_sessid
+mm_answer_sesskey
+mm_answer_pty_cleanup
+mm_answer_pty
+mm_answer_keyverify
+mm_answer_keyallowed
+mm_answer_pam_free_ctx
+mm_answer_pam_respond
+mm_answer_pam_query
+mm_answer_pam_init_ctx
+mm_answer_pam_account
+mm_answer_pam_start
+mm_answer_authpassword
+mm_answer_authrole
+mm_answer_authserv
+mm_answer_pwnamallow
+mm_answer_sign
+mm_answer_moduli
+monitor_read
+monitor_child_preauth
+%s: Sending debug: %s
+%s: converting %p
+%s: newkey == NULL
+%s: %p(%d)
+%s: can not init mac %s
+%s entering: type %d
+%s: write: %s
+close(s->ptymaster): %s
+%s: Sending ssh1 KEY+IV
+%s: Sending new keys: %p %p
+%s: New keys have been sent
+%s: Sending compression state
+%s: Finished sending state
+%s: read: %s
+%s: read: bad msg_len %d
+%s: read: rtype %d != type %d
+not 
+%s: user %sauthenticated
+%s: BN_new failed
+true
+%s: key_from_blob failed
+%s: entering
+%s: no challenge
+%s: received challenge: %s
+%s: pam_respond returned %d
+%s: pam_query returned %d
+%s: pam_init_ctx failed
+%s returning %d
+%s: pty alloc failed
+%s: MONITOR_ANS_MODULI failed
+%s: remaining %d
+%s: bad ivlen: expected %u != %u
+%s: bad cipher name %s or pointer %p
+%s: bad mac key length: %u > %d
+newkeys_from_blob: remaining bytes in blob %u
+UsePAM=no, but ended up in %s anyway
+%s: conversion of newkeys failed
+%s: waiting for MONITOR_ANS_PAM_FREE_CTX
+%s: waiting for MONITOR_ANS_PAM_RESPOND
+%s: waiting for MONITOR_ANS_PAM_QUERY
+%s: waiting for MONITOR_ANS_PAM_INIT_CTX
+%s: waiting for MONITOR_ANS_PTY
+%s: waiting for MONITOR_ANS_KEYVERIFY
+%s: waiting for MONITOR_ANS_KEYALLOWED
+%s: waiting for MONITOR_ANS_AUTHPASSWORD
+%s: waiting for MONITOR_ANS_PWNAM
+%s: struct passwd size mismatch
+%s: waiting for MONITOR_ANS_SIGN
+%s: waiting for MONITOR_ANS_MODULI
+mm_ssh_gssapi_userok
+mm_auth_rsa_verify_response
+mm_auth_rsa_generate_challenge
+mm_auth_rsa_key_allowed
+mm_send_debug
+mm_ssh1_session_id
+mm_bsdauth_respond
+mm_bsdauth_query
+mm_sshpam_free_ctx
+mm_sshpam_respond
+mm_sshpam_query
+mm_sshpam_init_ctx
+mm_do_pam_account
+mm_start_pam
+mm_pty_allocate
+mm_send_keystate
+mm_newkeys_to_blob
+mm_newkeys_from_blob
+mm_key_verify
+mm_key_allowed
+mm_auth_password
+mm_inform_authrole
+mm_inform_authserv
+mm_auth2_read_banner
+mm_getpwnamallow
+mm_key_sign
+mm_choose_dh
+mm_request_receive_expect
+mm_request_receive
+mm_request_send
+%s: Unexpected KEX type %d
+expecting SSH2_MSG_KEXDH_INIT
+Cannot load hostkey
+Unsupported hostkey type %d
+dh_client_pub == NULL
+kexdhs.c
+bad client public DH value
+kexdh_server: BN_new failed
+kexdh_server
+kexgexs.c
+kexgex_server: BN_new failed
+SSH2_MSG_KEX_DH_GEX_REQUEST received
+SSH2_MSG_KEX_DH_GEX_REQUEST_OLD received
+protocol error during kex, no DH_GEX_REQUEST: %d
+DH_GEX_REQUEST, bad parameters: %d !< %d !< %d
+Protocol error: no matching DH grp found
+SSH2_MSG_KEX_DH_GEX_GROUP sent
+expecting SSH2_MSG_KEX_DH_GEX_INIT
+SSH2_MSG_KEX_DH_GEX_REPLY sent
+FILE:/tmp/krb5cc_%d_XXXXXXXXXX
+Kerberos password authentication failed: %s
+Kerberos password authentication failed: %d
+mkstemp(): %.100s
+fchmod(): %.100s
+krb5_cleanup_proc called
+FILE:%s
+Mechanism negotiation is not supported
+No authentication or GSSAPI context
+Badly formed OID received
+auth2-gss.c
+GSSAPI MIC check failed
+ssh_gssapi_storecreds: Not a GSSAPI mechanism
+ssh_gssapi_userok: Unknown GSSAPI mechanism
+Received some client credentials
+No suitable client data
+Setting %s to %s
+removing gssapi cred file"%s"
+Got no client credentials
+Couldn't convert client name
+Cannot initialize krb5 context
+Authorized to %s, krb5 principal %s (krb5_kuserok)
+No credentials stored
+ssh_krb5_cc_gen(): %.100s
+krb5_parse_name(): %.100s
+krb5_cc_initialize(): %.100s
+gss_krb5_copy_ccache() failed
+toWM5Slw5Ew8Mqkay+al2g==
+Kerberos
+/var/log/btmp
+%s: fstat of %s failed: %s
+ssh:notty
+Failed to write to %s: %s
+/var/log/lastlog
+%s: Couldn't stat %s: %s
+%s: Couldn't open %s: %s
+%s: %s->lseek(): %s
+%s/%s
+uid=%d
+0123456789ABCDEF
+acct=%s
+%s: invalid type field
+%s: Error writing to %s: %s
+%s: Invalid type field
+%s: Error reading from %s: %s
+%s: Cannot find user "%s"
+Unable to open the btmp file %s: %s
+Excess permission or bad ownership on file %s
+%s: %.100s is not a file or directory!
+%s: logout() returned an error
+%s: Error reading from %s: Expecting %d, got %d
+Attempt to write login records by non-root user (aborting)
+linux_audit_write_entry failed: %s
+%s: Cannot find account for uid %ld
+record_failed_login
+lastlog_get_entry
+lastlog_openseek
+lastlog_filetype
+lastlog_write_entry
+lastlog_perform_login
+syslogin_write_entry
+syslogin_perform_logout
+linux_audit_write_entry
+login_init_entry
+login_get_lastlog
+PAM: %s entering, %d messages
+%s %d
+PAM: %s entering
+PAM: PAM_AUTH_ERR
+PAM: %s
+PAM: num env strings %d
+PAM: num PAM env strings %d
+PAM: pam_putenv: %s
+illegal user 
+PAM: setting PAM_TTY to "%s"
+PAM: initializing for "%s"
+PAM: setting PAM_TTY to "ssh"
+PAM: initialisation failed
+an illegal user
+PAM: changing password
+PAM: pam_chauthtok(): %s
+PAM: opening session
+PAM: pam_open_session(): %s
+PAM: establishing credentials
+PAM: pam_setcred(): %s
+%s: called
+%s [pam]
+PAM: cleanup
+PAM: deleting credentials
+PAM: closing session
+PAM: initialization failed
+fork(): %s
+PAM: %s entering, %u responses
+PAM: expected one response, got %u
+%s: PAM authctxt not initialized
+Internal error: PAM auth succeeded when it should have failed
+PAM: %s for %s%.100s from %.100s
+PAM: failed to set PAM_TTY: %s
+PAM: setting PAM_RHOST to "%s"
+PAM: initialisation requested when UsePAM=no
+PAM: authentication thread exited unexpectedly
+PAM: authentication thread exited uncleanly
+PAM: %s called when PAM disabled or failed to initialise.
+PAM: %s: failed to set PAM_CONV: %s
+PAM: password authentication accepted for %.100s
+PAM: password authentication failed for %.100s: %s
+Password expired (unable to change with privsep)
+PAM: failed to set PAM_CONV: %s
+PAM: %s called with %d messages
+PAM: reinitializing credentials
+PAM: %s pam_acct_mgmt = %d (%s)
+PAM: conversation function passed a null context
+PAM: failed create sockets: %s
+PAM: failed to start authentication thread: %s
+sshpam_free_ctx
+sshpam_respond
+sshpam_query
+import_environments
+sshpam_init_ctx
+sshpam_store_conv
+sshpam_thread
+sshpam_thread_conv
+sshpam_auth_passwd
+sshpam_passwd_conv
+sshpam_tty_conv
+do_pam_account
+sshpam_null_conv
+sshpam_thread_cleanup
+sshpam_password_change_required
+Could not get shadow information for %.100s
+%s: today %d sp_lstchg %d sp_max %d
+User %.100s password has expired (root forced)
+User %.100s password has expired (password aged)
+password will expire in %d days
+Your password will expire in %d day%s.
+%s: today %d sp_expire %d days left %d
+account will expire in %d days
+Your account will expire in %d day%s.
+password expiration disabled
+account expiration disabled
+Account %.100s has expired
+auth_shadow_pwexpired
+auth_shadow_acctexpired
+(invalid user)
+(unknown user)
+Success
+End of file
+No such file
+Beeb
+Permission denied
+Failure
+Bad message
+No connection
+Connection lost
+Operation unsupported
+Unknown error
+%s%sclosedir "%s"
+request %u: sent status %u
+sent status %s
+request %u: %sstat
+%sstat name "%s"
+set "%s" size %llu
+set "%s" mode %04o
+%Y%m%d-%H:%M:%S
+set "%s" modtime %s
+set "%s" owner %lu group %lu
+request %u: opendir
+opendir "%s"
+%s%s%s
+request %u: remove
+remove name "%s"
+request %u: mkdir
+mkdir name "%s" mode 0%o
+request %u: rmdir
+rmdir name "%s"
+request %u: realpath
+realpath "%s"
+request %u: rename
+rename old "%s" new "%s"
+request %u: readlink
+readlink "%s"
+request %u: symlink
+symlink old "%s" new "%s"
+forced
+received client version %d
+request %u: open flags %d
+READ
+WRITE
+CREATE
+TRUNCATE
+EXCL
+open "%s" flags %s mode 0%o
+request %u: close handle %u
+read change len %d
+process_read: seek failed
+request %u: sent data len %d
+process_write: seek failed
+process_write: write failed
+nothing at all written
+request %u: setstat name "%s"
+Unknown message %d
+iqueue grew unexpectedly
+msg_len %d < consumed %d
+Invalid log level "%s"
+Invalid log facility "%s"
+Invalid umask "%s"
+f:l:u:che
+UNKNOWN
+select: %s
+read eof
+%s%sclose "%s" bytes read %llu written %llu
+request %u: sent handle handle %d
+request %u: sent attrib have 0x%x
+request %u: sent names count %d
+request %u: fsetstat handle %d
+request %u: readdir "%s" (handle %d)
+session closed for local user %s from [%s]
+bad message from %s local user %s
+request %u: read "%s" (handle %d) off %llu len %d
+request %u: write "%s" (handle %d) off %llu len %d
+request %u: fstat "%s" (handle %u)
+usage: %s [-he] [-l log_level] [-f log_facility] [-u umask]
+Malformed SSH_CONNECTION variable: "%s"
+session opened for local user %s from [%s]
+Unknown status
+No error
+No such file or directory
+%b %e %H:%M
+%b %e  %Y
+%s %3u %-*s %-*s %8llu %s %s
+Got file attribute "%s"
+key file %.200s too large
+Not a RSA1 key file %.200s.
+.pub
+cipher_set_key_string failed.
+fdopen failed: %s
+PEM_read_PrivateKey failed
+<unknown>
+dsa w/o comment
+rsa w/o comment
+fdopen %s failed: %s.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@         WARNING: UNPROTECTED PRIVATE KEY FILE!          @
+Permissions 0%3.3o for '%s' are too open.
+It is recommended that your private key files are NOT accessible by others.
+This private key will be ignored.
+fstat for key file %.200s failed: %.100s
+Read from key file %.200s failed: %.100s
+Unsupported cipher %d used in key file %.200s.
+Bad passphrase supplied for key file %.200s.
+key_load_private_rsa1: RSA_blinding_on failed
+key_load_private_pem: RSA_blinding_on failed
+PEM_read_PrivateKey: mismatch or unknown EVP_PKEY save_type %d
+read PEM private key done: type %s
+bad permissions: ignore key: %s
+save_private_key_rsa: bad cipher
+write to key file %s failed: %s
+passphrase too short: have %d bytes, need > 4
+key_save_private: cannot save key type %d
+SSH PRIVATE KEY FILE FORMAT 1.1
+buffer_get_int: buffer error
+buffer_get_char: buffer error
+buffer_put_cstring: s == NULL
+buffer_get_short: buffer error
+buffer_get_char_ret: buffer_get_ret failed
+buffer_get_string_ret: bad string length %u
+buffer_get_string_ret: buffer_get failed
+buffer_get_string: buffer error
+buffer_get_bignum2_ret: invalid bignum
+buffer_get_bignum2_ret: negative numbers not supported
+buffer_get_bignum2_ret: cannot handle BN of size %d
+buffer_get_bignum2: buffer error
+buffer_put_bignum2_ret: negative numbers not supported
+buffer_put_bignum2_ret: BN too small
+buffer_put_bignum2_ret: BN_bn2bin() failed: oi %d != bin_size %d
+buffer_put_bignum2: buffer error
+buffer_put_bignum_ret: BN_bn2bin() failed: oi %d != bin_size %d
+buffer_put_bignum: buffer error
+buffer_get_bignum_ret: invalid length
+buffer_get_bignum_ret: cannot handle BN of size %d
+buffer_get_bignum_ret: input buffer too small
+buffer_get_bignum_ret: buffer_consume failed
+buffer_get_bignum: buffer error
+%02x
+buffer_consume: buffer error
+buffer_get: buffer error
+buffer_consume_end: trying to get more bytes than in buffer
+buffer_consume_ret: trying to get more bytes than in buffer
+buffer_get_ret: trying to get more bytes %d than in buffer %d
+buffer_append_space: len %u not supported
+buffer_append_space: alloc %u not supported
+getsockname failed: %.100s
+getpeername failed: %.100s
+ %2.2x
+get_sock_port: getnameinfo NI_NUMERICSERV failed: %s
+Normalising mapped IPv4 in IPv6 address
+get_socket_address: getnameinfo %d failed: %s
+get_remote_hostname: getnameinfo NI_NUMERICHOST failed
+Connection from %.100s with IP options:%.800s
+Trying to reverse map address %.100s.
+Nasty PTR record "%s" is set up for %s, ignoring
+reverse mapping checking getaddrinfo for %.700s failed - POSSIBLE BREAK-IN ATTEMPT!
+Address %.100s maps to %.600s, but this does not map back to the address - POSSIBLE BREAK-IN ATTEMPT!
+cannot happen: OUT_DRAIN
+deny_input_open: type %d
+channel_by_id: %d: bad id
+channels.c
+channel %d: rcvd adjust %u
+callback start
+callback done
+channel_send_open: %d: bad id
+channel %d: send open
+Tacocat
+DISPLAY not set.
+unix:
+/tmp/.X11-unix/X%u
+connect %.100s: %.100s
+%.100s: unknown host. (%s)
+%s: set_nonblock(%d)
+channel %d: FORCE input drain
+channel %d: bad ext data
+channel %d: rcvd ext data %d
+channel %d: sent ext data %d
+getsockopt SO_ERROR failed
+channel %d: connected
+channel %d: not connected: %s
+channel %d: not open
+channel %d: input draining.
+channel %d: filter stops
+channel %d: forcing write
+channel %d: discard efd
+channel %d: ctl read<=0
+%s: unexpected data on ctl fd
+channel %d: decode socks4
+channel %d: decode socks5
+channel %d: socks5 auth done
+channel %d: socks5 post auth
+X11 rejected %d i%d/o%d
+X11 closed %d i%d/o%d
+channel %d: rfd %d isatty
+channel: expanding %d
+channel %d: new [%s]
+Received X11 open request.
+connected x11 socket
+getaddrinfo: %.100s
+bind port %d: %.100s
+X11 inet listener
+x11 listener
+No forward host name.
+Forward host name too long.
+0.0.0.0
+getaddrinfo: fatal error: %s
+port listener
+Dynamic forwarding denied.
+connected socket
+accepted auth socket
+auth-agent@openssh.com
+forwarded-tcpip
+dynamic-tcpip
+X11 connection requested.
+accepted x11 socket
+ssh2 x11 bug compat mode
+channel %d: status: %s
+%s: close channel %d
+resource shortage
+unknown reason
+administratively prohibited
+connect failed
+unknown channel type
+channel %d: gc: notify user
+channel %d: gc: user detached
+channel_find_open: bad channel type %d
+cannot happen: SSH_CHANNEL_LARVAL
+channel_still_open: bad channel type %d
+Warning: ssh server tried agent forwarding.
+Warning: ssh server tried X11 forwarding.
+Warning: this is probably a break-in attempt by a malicious server.
+channel_request_remote_forwarding: too many forwards
+allow port forwarding to host %s port %d
+%s: requested forward not found
+channel_by_id: %d: bad id: channel free
+channel_cancel_cleanup: %d: bad id
+channel_register_cleanup: %d: bad id
+Non-public channel %d, type %d.
+channel_register_filter: %d: bad id
+channel_register_comfirm: %d: bad id
+Received window adjust for non-open channel %d.
+Received open confirmation for non-opening channel %d.
+channel %d: open confirm rwindow %u rmax %u
+channel_request_start: %d: unknown channel id
+channel %d: request %s confirm %d
+x11_request_forwarding_with_spoofing: different $DISPLAY already forwarded
+x11_request_forwarding: bad authentication data: %.100s
+Could not parse display number from DISPLAY: %.100s
+Could not find ':' in DISPLAY: %.100s
+connect %.100s port %d: %.100s
+setsockopt SO_REUSEADDR fd %d: %s
+connect_to %.100s: unknown host (%s)
+connect_to: getnameinfo failed
+connect_to %.100s port %s: %.100s
+connect_to %.100s port %d: failed.
+Received request to connect to host %.100s port %d, but the request was denied.
+WARNING: Server requests forwarding for unknown listen_port %d
+Warning: Server denied remote port forwarding.
+Protocol error for port forward request:received packet type %d.
+channel %d: waiting for connection
+channel %d: close_fds r %d w %d e %d c %d
+Received oclose for nonexistent channel %d.
+Received close for nonexistent channel %d.
+channel %d: closing after input drain.
+channel %d: big output buffer %u > %u
+Received ieof for nonexistent channel %d.
+Received extended_data for bad channel %d.
+channel %d: ext data for non open
+channel %d: accepting ext data after eof
+Received extended_data after EOF on channel %d.
+channel %d: rcvd too much extended_data %d, win %d
+Received data for nonexistent channel %d.
+channel %d: rcvd big packet %d, maxpack %d
+channel %d: rcvd too much data %d, win %d
+channel %d: will not send data after close
+cannot happen: istate == INPUT_WAIT_DRAIN for proto 1.3
+channel %d: ibuf_empty delayed efd %d/(%d)
+channel %d: rwin %u elen %u euse %d
+%s: listening port %d for %.100s port %d, connect from %.200s port %d
+channel %d: read<=0 rfd %d len %d
+channel %d: written %d to efd %d
+channel %d: closing write-efd %d
+channel %d: read %d from efd %d
+channel %d: closing read-efd %d
+channel %d: window %d sent adjust %d
+channel %d: pre_dynamic: have %d
+channel %d: decode socks4: too long
+channel %d: decode socks4: user %s/%d
+channel %d: decode socks4: len %d > have %d
+channel %d: dynamic request: socks4 host %s port %u command %u
+channel %d: cannot handle: socks4 cn %d
+channel %d: only socks5 connect supported
+channel %d: bad socks5 atyp %d
+channel %d: dynamic request: socks5 host %s port %u command %u
+channel %d: pre_dynamic: need more
+channel %d: method SSH_SOCKS5_NOAUTH not found
+Eleele
+Initial X11 packet contains bad byte order byte: 0x%x
+X11 connection uses different authentication protocol.
+X11 auth data does not match fake data.
+X11 fake_data_len %d != saved_data_len %d
+X11 connection rejected because of wrong authentication.
+channel %d: obuf_empty delayed efd %d/(%d)
+channel %d: wfd %d is not a tty?
+channel_activate for non-larval channel %d.
+channel_new: internal error: channels_alloc %d too big.
+unknown (remote did not supply name)
+x11_create_display_inet: Socket family %d not supported
+setsockopt IPV6_V6ONLY: %.100s
+Failed to allocate internet-domain X11 display socket.
+channel_setup_fwd_listener: type %d wildcard %d addr %s
+channel_setup_fwd_listener: getaddrinfo(%.64s): %s
+channel_setup_fwd_listener: getnameinfo failed
+Local forwarding listening on %s port %s.
+channel_setup_fwd_listener: cannot listen to port: %d
+Requested forwarding of port %d but user is not root.
+accept from auth socket: %.100s
+Connection to port %d forwarding to %.100s port %d requested.
+single_connection: closing X11 listener.
+X11 connection from %.200s port %d
+The following connections are open:
+  #%d %.300s (t%d r%d i%d/%d o%d/%d fd %d/%d cfd %d)
+channel_open_message: bad channel type %d
+channel %d: free: %s, nchannels %u
+Received open failure for non-opening channel %d.
+channel %d: open failed: %s%s%s
+Received close confirmation for out-of-range channel %d.
+Received close confirmation for non-closed channel %d (type %d).
+channel %d: garbage collecting
+connect_to
+channel_request_rforward_cancel
+channel_cancel_rport_listener
+channel_handle_ctl
+cipher_encrypt: bad plaintext length %d
+cipher_cleanup: EVP_CIPHER_CTX_cleanup failed
+Warning: use of DES is strongly discouraged due to cryptographic weaknesses
+cipher_init: key length %d is insufficient for %s.
+cipher_init: iv length %d is insufficient for %s.
+cipher_init: EVP_CipherInit failed for %s
+cipher_init: set keylen (%d -> %d)
+cipher_init: set keylen failed (%d -> %d)
+cipher_init: EVP_CipherInit: set key failed for %s
+evp_crypt: EVP_Cipher failed during discard
+evp_crypt: EVP_Cipher failed
+%s: wrong iv length %d != %d
+%s: bad cipher %d
+bad cipher %s [%s]
+cipher ok: %s [%s]
+ciphers ok: [%s]
+3des
+blowfish
+3des-cbc
+blowfish-cbc
+cast128-cbc
+arcfour
+arcfour128
+arcfour256
+aes128-cbc
+aes192-cbc
+aes256-cbc
+rijndael-cbc@lysator.liu.se
+aes128-ctr
+aes192-ctr
+aes256-ctr
+cipher_set_keyiv
+cipher_get_keyiv
+ssh_aes_ctr_iv: no context
+ssh1_3des_cbc: no context
+%s: bad 3des iv length: %d
+%s: no 3des context
+%s: Installed 3DES IV
+%s: Copying 3DES IV
+ssh1_3des_iv
+Original cipher proposal: %s
+Compat cipher proposal: %s
+No available ciphers found.
+match: %s pat %s
+no match: %s
+OpenSSH_2.3.0*
+OpenSSH_2.3.*
+OpenSSH_2.5.3*
+OpenSSH_3.*
+Sun_SSH_1.0*
+OpenSSH*
+*MindTerm*
+2.1.0*
+2.1 *
+2.0.11*,2.0.12*
+2.0.*
+2.2.0*,2.3.0*
+3.0.*
+3.0 SecureCRT*
+1.7 SecureFX*
+1.3.2*
+*SSH Compatible Server*
+*SSH_Version_Mapper*
+Probe-*
+Enabling compatibility mode for protocol 1.3
+Enabling compatibility mode for protocol 2.0
+ignoring bad proto spec: '%s'.
+OpenSSH-2.0*,OpenSSH-2.1*,OpenSSH_2.1*,OpenSSH_2.2*
+OpenSSH_2.5.0p1*,OpenSSH_2.5.1p1*
+OpenSSH_2.5.0*,OpenSSH_2.5.1*,OpenSSH_2.5.2*
+OpenSSH_2.*,OpenSSH_3.0*,OpenSSH_3.1*
+2.0.13*,2.0.14*,2.0.15*,2.0.16*,2.0.17*,2.0.18*,2.0.19*
+1.2.18*,1.2.19*,1.2.20*,1.2.21*,1.2.22*
+*OSU_0*,OSU_1.0*,OSU_1.1*,OSU_1.2*,OSU_1.3*,OSU_1.4*,OSU_1.5alpha1*,OSU_1.5alpha2*,OSU_1.5alpha3*
+buffer_uncompress: inflate returned %d
+buffer_compress: deflate returned %d
+compress outgoing: raw data %llu, compressed %llu, factor %.2f
+compress incoming: raw data %llu, compressed %llu, factor %.2f
+Enabling compression at level %d.
+1.2.3
+Bad compression level %d.
+extract_salt: string too short
+extract_salt: invalid magic identifier
+extract_salt: missing salt termination character
+extract_salt: bad encoded salt length %u
+extract_salt: salt decode error
+extract_salt: expected salt len %d, got %d
+add_host_to_hostfile: host_hash failed
+add_host_to_hostfile: saving key in %s failed
+check_host_in_hostfile: filename %s
+Invalid hashed host line %d of %s
+Warning: %s, line %d: keysize mismatch for host %s: actual %d vs. announced %d.
+Warning: replace %d with %d in %s, line %d.
+check_host_in_hostfile: match line %d
+host_hash: __b64_ntop failed
+%s%s%c%s
+no key to look up
+fatal
+debug1
+debug2
+internal error
+%.500s
+debug3
+QUIET
+FATAL
+ERROR
+INFO
+VERBOSE
+DEBUG
+DEBUG1
+DEBUG2
+DEBUG3
+DAEMON
+AUTH
+AUTHPRIV
+LOCAL0
+LOCAL1
+LOCAL2
+LOCAL3
+LOCAL4
+LOCAL5
+LOCAL6
+LOCAL7
+Unrecognized internal syslog level code %d
+Unrecognized internal syslog facility code %d
+channel %d: zombie
+channel %d: is dead
+channel %d: send close
+channel %d: almost dead
+channel %d: send eof
+channel %d: send ieof
+channel %d: send oclose
+channel %d: close_read
+channel %d: close_write
+channel %d: output %s -> %s
+channel %d: obuf empty
+channel %d: write failed
+channel %d: rcvd eof
+channel %d: rcvd ieof
+channel %d: input %s -> %s
+channel %d: ibuf empty
+channel %d: read failed
+channel %d: rcvd close
+channel %d: rcvd oclose
+wait_ieof
+closed
+wait_oclose
+channel %d: active efd: %d len %d
+channel %d: cannot send close for istate/ostate %d/%d
+channel %d: already sent close
+channel %d: cannot send eof for istate %d
+channel %d: cannot send ieof for istate %d
+channel %d: cannot send oclose for ostate %d
+channel %d: chan_shutdown_read: shutdown() failed for fd%d [i%d o%d]: %.100s
+channel %d: chan_shutdown_read: close() failed for fd%d: %.100s
+channel %d: chan_shutdown_write: shutdown() failed for fd%d: %.100s
+channel %d: chan_shutdown_write: close() failed for fd%d: %.100s
+chan_set_ostate: bad state %d -> %d
+channel %d: chan_obuf_empty for non empty buffer
+channel %d: internal error: obuf_empty for ostate %d
+channel %d: chan_write_failed for ostate %d
+channel %d: protocol error: rcvd_ieof for ostate %d
+chan_set_istate: bad state %d -> %d
+channel %d: chan_ibuf_empty for non empty buffer
+channel %d: chan_ibuf_empty for istate %d
+channel %d: chan_read_failed for istate %d
+channel %d: protocol error: close rcvd twice
+channel %d: protocol error: rcvd_oclose for istate %d
+packet_set_maxsize: called twice: old %d new %d
+packet_set_maxsize: bad size %d
+packet_set_maxsize: setting to %d
+Finished discarding for %.200s
+packet_send2: adding %d (len %d padlen %d extra_pad %d)
+XXX too many packets with same key
+packet_set_encryption_key: unknown cipher number %d
+packet_set_encryption_key: keylen too small: %d
+packet_set_encryption_key: keylen too big: %d
+packet_disconnect called recursively.
+padding error: need %d block %d mod %d
+Received disconnect from %s: %u: %.400s
+Received SSH2_MSG_UNIMPLEMENTED for %u
+crc32 compensation attack: network attack detected
+deattack denial of service detected
+packet_read_poll1: len %d != buffer_len %d.
+Corrupted check bytes on input.
+Received disconnect from %s: %.400s
+Read from socket failed: %.100s
+Protocol error: expected packet type %d, got %d
+packet_set_connection: cannot load cipher 'none'
+Write failed: %.100s
+Compression already enabled.
+set_newkeys: mode %d
+set_newkeys: rekeying
+newkeys: no keys for mode %d
+outgoing seqnr wraps around
+enqueue packet: %u
+dequeue packet: %u
+Disconnecting: %.100s
+Packet corrupt
+Bad packet length %u.
+Corrupted MAC on input.
+internal error need %d
+incoming seqnr wraps around
+Corrupted padlen %d on input.
+Invalid ssh2 packet type: %d
+Remote: %.900s
+Invalid ssh1 packet type: %d
+packet.c
+Connection closed by %.200s
+setsockopt IP_TOS %d: %.100s:
+read_passphrase: stdin is not a tty
+read_passphrase: can't open %s: %s
+/usr/libexec/openssh/ssh-askpass
+internal error: askpass undefined
+SSH_ASKPASS
+ssh_askpass: fflush: %s
+ssh_askpass: pipe: %s
+ssh_askpass: fork: %s
+ssh_askpass: dup2: %s
+ssh_askpass: exec(%s): %s
+rsa_generate_additional_parameters: BN_new failed
+Do nine men interpret Nine men I nod
+rsa_generate_additional_parameters: BN_CTX_new failed
+rsa_public_encrypt() exponent too small or not odd
+rsa_public_encrypt() failed
+rsa_private_decrypt() failed
+tty_parse_modes: SSH2 n_bytes %d
+Ignoring unsupported tty mode opcode %d (0x%x)
+parse_tty_modes: unknown opcode %d
+parse_tty_modes: n_bytes_ptr != n_bytes: %d %d
+Setting tty modes failed: %.100s
+tcgetattr: %.100s
+tty_parse_modes: ispeed %d
+cfsetispeed failed for %d
+tty_parse_modes: ospeed %d
+cfsetospeed failed for %d
+tty_parse_modes: %d %d
+tty_make_modes: ospeed %d
+tty_make_modes: ispeed %d
+tty_make_modes: %d %d
+xfree: NULL pointer given as argument
+xmalloc: out of memory (allocating %lu bytes)
+xrealloc: out of memory (new_size %lu bytes)
+xcalloc: nmemb * size > SIZE_T_MAX
+xcalloc: out of memory (allocating %lu bytes)
+xmalloc: zero size
+xrealloc: zero size
+xcalloc: zero size
+RSA1
+ssh-unknown
+key_demote: RSA_new failed
+key_demote: BN_dup failed
+key_demote: DSA_new failed
+key_free: bad key type %d
+key_sign: invalid key type %d
+key_to_blob: key == NULL
+key_write: failed for RSA key
+%02x:
+key_equal: bad key type %d
+key_new: RSA_new failed
+key_new: BN_new failed
+key_new: DSA_new failed
+key_new: bad key type %d
+key_read: missing whitespace
+key_read: missing keytype
+key_read: short string
+key_read: type mismatch
+key_read: uudecode %s failed
+key_read: bad key type: %d
+key_generate: unknown type %d
+key names ok: [%s]
+key_verify: invalid key type %d
+key_to_blob: unsupported key type %d
+key_type_from_name: unknown key type '%s'
+write_bignum: BN_bn2dec() failed
+key_fingerprint_raw: bad digest type %d
+key_fingerprint_raw: bad key type %d
+key_fingerprint_raw: blob is null
+key_fingerprint: null from key_fingerprint_raw()
+key_fingerprint_ex: bad digest representation %d
+key_from_blob: can't read key type
+key_from_blob: can't read rsa key
+key_from_blob: can't read dsa key
+key_from_blob: cannot handle type %s
+key_from_blob: remaining bytes in key blob %d
+key_read: key_from_blob %s failed
+key_read: type mismatch: encoding error
+key_from_private: unknown type %d
+dsa_generate_private_key: DSA_generate_parameters failed
+dsa_generate_private_key: DSA_generate_key failed.
+rsa_generate_private_key: key generation failed.
+key_new_private: BN_new failed
+key_new_nss_copy: BN_copy failed
+key_new_nss_copy: SECKEY_CopyPrivateKey failed
+key_new_nss_copy: SECKEY_CopyPublicKey failed
+protocol error: rcvd type %d
+protocol error
+dispatch_protocol_ignore: type %d seq %u
+dispatch_protocol_error: type %d seq %u
+%s: bad host modulus (len %d)
+bad kex md size %d
+kex_derive_keys
+kex_parse_kexinit: %s
+KEX_INIT_SENT
+SSH2_MSG_KEXINIT sent
+SSH2_MSG_KEXINIT received
+kex.c
+unsupported mac %s
+unsupported comp %s
+server->client
+client->server
+kex: %s %s %s %s
+no kex alg
+diffie-hellman-group1-sha1
+diffie-hellman-group14-sha1
+bad kex alg %s
+no hostkey alg
+bad hostkey alg '%s'
+proposals match
+Unsupported key exchange %d
+SSH2_MSG_NEWKEYS sent
+expecting SSH2_MSG_NEWKEYS
+SSH2_MSG_NEWKEYS received
+%s: bad server modulus (len %d)
+Hm, kex protocol error: type %d seq %u
+kex_parse_kexinit: first_kex_follows %d 
+kex_parse_kexinit: reserved %d 
+kex_send_kexinit: no kex, cannot rekey
+kex_send_kexinit: kex proposal too short
+kex_input_kexinit: no kex, cannot rekey
+no matching cipher found: client %s server %s
+matching cipher is not supported: %s
+no matching mac found: client %s server %s
+no matching comp found: client %s server %s
+diffie-hellman-group-exchange-sha1
+proposal mismatch: my %s peer %s
+skipping next packet (type %u)
+derive_ssh1_session_id
+mac_compute: no key
+mac_compute: mac too long
+mac %s len %d
+mac_init: found %s
+mac_init: unknown %s
+bad mac %s [%s]
+mac ok: %s [%s]
+macs ok: [%s]
+hmac-sha1-96
+hmac-md5
+hmac-md5-96
+hmac-ripemd160
+hmac-ripemd160@openssh.com
+permanently_set_uid: temporarily_use_uid effective
+%s: was able to restore old [e]gid
+%s: egid incorrect gid:%u egid:%u (should be %u)
+%s: was able to restore old [e]uid
+%s: euid incorrect uid:%u euid:%u (should be %u)
+restore_uid: temporarily_use_uid not effective
+temporarily_use_uid: %u/%u (e=%u/%u)
+permanently_set_uid: %u/%u
+setresgid %u: %.100s
+setresuid %u: %.100s
+restore_uid: (unprivileged)
+restore_uid: %u/%u
+seteuid %u: %.100s
+setegid %u: %.100s
+getgroups: %.100s
+initgroups: %s: %.100s
+permanently_set_uid
+%s: set socket %d IPV6_V6ONLY
+setsockopt IPV6_V6ONLY: %s
+Couldn't open /dev/null: %s
+fcntl(%d, F_GETFL, 0): %s
+fd %d is not O_NONBLOCK
+fd %d clearing O_NONBLOCK
+percent_expand: too many keys
+replacearg: argument too long
+addargs: argument too long
+fd %d is TCP_NODELAY
+fd %d setting TCP_NODELAY
+fd %d is O_NONBLOCK
+fd %d setting O_NONBLOCK
+fcntl(%d, F_SETFL, ~O_NONBLOCK): %s
+%s: %s line %lu exceeds size limit
+percent_expand: NULL replacement
+percent_expand: string too long
+percent_expand: unknown key %%%c
+tilde_expand_filename: ~username too long
+tilde_expand_filename: No such user %s
+tilde_expand_filename: No such uid %d
+tilde_expand_filename: Path too long
+replacearg: tried to replace invalid arg %d >= %d
+getsockopt TCP_NODELAY: %.100s
+setsockopt TCP_NODELAY: %.100s
+fcntl(%d, F_SETFL, O_NONBLOCK): %s
+sock_set_v6only
+read_keyfile_line
+%s: recvmsg: %s
+%s: no message header
+%s: expected type %d got %d
+%s: sendmsg(%d): %s
+%s: recvmsg: expected received 1 got %ld
+%s: sendmsg: expected sent 1 got %ld
+mm_receive_fd
+mm_send_fd
+ssh_dss_verify: no DSA key
+ssh_dss_verify: BN_new failed
+incorrect
+ssh_dss_verify: signature %s
+ssh_dss_sign: no DSA key
+ssh_dss_sign: sign failed
+bad sig size %u %u
+ssh_dss_verify: cannot handle type %s
+ssh_dss_verify: remaining bytes in signature %d
+bad sigbloblen %u != SIGBLOB_LEN
+ssh_dss_verify: DSA_SIG_new failed
+ssh_dss_sign: der decode failed
+ssh_dss_sign: unsupported signature length %d
+ssh_rsa_verify: no RSA key
+bad hashlen
+bad siglen
+RSA_public_decrypt failed: %s
+oid mismatch
+hash mismatch
+ssh_rsa_sign: no RSA key
+ssh_rsa_sign: sign failed
+slen %u > len %u
+ssh_rsa_verify: RSA modulus too small: %d < minimum %d bits
+ssh_rsa_verify: cannot handle type %s
+ssh_rsa_verify: remaining bytes in signature %d
+ssh_rsa_verify: len %u > modlen %u
+ssh_rsa_verify: add padding: modlen %u > len %u
+ssh_rsa_verify: EVP_get_digestbynid %d failed
+bad decrypted len: %d != %d + %d
+ssh_rsa_verify: signature %scorrect
+ssh_rsa_sign: slen %u slen2 %u
+ssh_rsa_sign: EVP_get_digestbynid %d failed
+ssh_rsa_sign: RSA_sign failed: %s
+0!0	
+dh_new_group: DH_new
+dh_new_group_asc: DH_new
+BN_hex2bn p
+BN_hex2bn g
+bits set: %d/%d
+dh_gen_key: dh->p == NULL
+dh_gen_key: BN_new failed
+dh_gen_key: BN_rand failed
+DH_generate_key
+parse_prime: BN_new failed
+/etc/ssh/moduli
+/etc/ssh/primes
+invalid public DH value: negativ
+invalid public DH value (%d/%d)
+dh_gen_key: group too small: %d (2*need %d)
+dh_gen_key: priv key bits set: %d/%d
+dh_gen_key: too many bad keys: giving up
+Bad prime description in line %d
+WARNING: %s does not exist, using fixed modulus
+WARNING: no suitable primes in %s
+WARNING: line %d disappeared in %s, giving up
+FFFFFFFFFFFFFFFFC90FDAA22168C234C4C6628B80DC1CD129024E088A67CC74020BBEA63B139B22514A08798E3404DDEF9519B3CD3A431B302B0A6DF25F14374FE1356D6D51C245E485B576625E7EC6F44C42E9A637ED6B0BFF5CB6F406B7EDEE386BFB5A899FA5AE9F24117C4B1FE649286651ECE45B3DC2007CB8A163BF0598DA48361C55D39A69163FA8FD24CF5F83655D23DCA3AD961C62F356208552BB9ED529077096966D670C354E4ABC9804F1746C08CA18217C32905E462E36CE3BE39E772C180E86039B2783A2EC07A28FB5C55DF06F4C52C9DE2BCBF6955817183995497CEA956AE515D2261898FA051015728E5A8AACAA68FFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFC90FDAA22168C234C4C6628B80DC1CD129024E088A67CC74020BBEA63B139B22514A08798E3404DDEF9519B3CD3A431B302B0A6DF25F14374FE1356D6D51C245E485B576625E7EC6F44C42E9A637ED6B0BFF5CB6F406B7EDEE386BFB5A899FA5AE9F24117C4B1FE649286651ECE65381FFFFFFFFFFFFFFFF
+ssh_msg_recv entering
+ssh_msg_recv: read: header
+ssh_msg_recv: read: %s
+ssh_msg_send: type %u
+ssh_msg_send: write
+ssh_msg_recv: read: bad msg_len %u
+OpenSSL version mismatch. Built against %lx, you have %lx
+PRNG is not seeded
+host@%s
+Delegating credentials
+ n;^
+Qkkbal
+i]Wb
+9a&g
+MGiI
+wn>Jj
+#.zf
++o*7
+-detect_attack: bad length %d
+Installing crc compensation attack detector.
+Couldn't obtain random bytes (error %ld)
+/proc/%ld/fd
+/var/run/sshd.mm.XXXXXXXX
+mkstemp("%s"): %s
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+%s: illegal option -- %c
+%s: option requires an argument -- %c
+invalid
+too small
+SSH_USE_STRONG_RNG
+/dev/random
+/dev/urandom
+cannot read from %s, %s
+EOF reading %s
+/dev/net/tun
+tap%d
+tun%d
+%s: invalid tunnel id %x: %s
+%s: tunnel mode %d fd %d
+%s: %s mode %d fd %d
+%s: failed to open tunnel control interface: %s
+%s: failed to configure tunnel (mode %d): %s
+sys_tun_open
+INCORRECT
+sshd.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rel.dyn
+.rel.plt
+.init
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.ctors
+.dtors
+.jcr
+.data.rel.ro
+.dynamic
+.got
+.got.plt
+.data
+.bss
+.gnu_debuglink

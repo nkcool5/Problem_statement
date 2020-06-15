@@ -1,0 +1,1644 @@
+/lib64/ld-linux-x86-64.so.2
+?{o~ 
+libmm-glib.so.0
+g_dbus_proxy_get_type
+g_simple_async_result_set_op_res_gpointer
+__gmon_start__
+_Jv_RegisterClasses
+g_object_unref
+g_strdup
+g_simple_async_result_get_type
+g_list_free_full
+g_malloc
+g_string_new
+g_simple_async_result_new
+_ITM_deregisterTMCloneTable
+g_assertion_message_expr
+g_object_ref
+_ITM_registerTMCloneTable
+g_strdup_printf
+g_string_free
+g_dbus_object_manager_get_type
+g_ascii_table
+g_str_has_prefix
+g_signal_connect_data
+g_simple_async_result_complete
+g_type_check_instance_cast
+Borrow or rob
+g_malloc0
+g_simple_async_result_get_op_res_gpointer
+g_dbus_object_manager_client_get_type
+g_warn_message
+g_string_append_printf
+g_log
+g_str_equal
+g_dbus_proxy_get_default_timeout
+mm_modem_get_device
+mm_simple_connect_properties_new_from_string
+mm_modem_simple_disconnect
+mm_modem_3gpp_network_get_operator_short
+mm_sms_send_finish
+mm_modem_access_technology_build_string_from_mask
+Eleele
+mm_sms_get_text
+mm_modem_signal_peek_cdma
+mm_modem_3gpp_ussd_cancel
+mm_modem_enable_finish
+mm_modem_get_current_bands
+mm_sms_send
+mm_modem_state_failed_reason_get_string
+mm_simple_status_get_3gpp_operator_name
+mm_simple_status_get_3gpp_registration_state
+mm_sim_disable_pin_sync
+mm_modem_enable
+mm_modem_3gpp_ussd_get_state
+mm_modem_time_get_network_time
+mm_sms_pdu_type_get_string
+mm_modem_oma_start_client_initiated_session_finish
+mm_manager_set_logging_finish
+mm_common_build_sms_storages_string
+mm_modem_3gpp_network_availability_get_string
+mm_modem_firmware_list_finish
+mm_modem_location_signals_location
+mm_modem_location_get_capabilities
+mm_modem_voice_create_call_sync
+mm_sim_send_puk_sync
+mm_call_hangup_finish
+mm_modem_voice_create_call_finish
+mm_modem_location_get_supl_server
+mm_firmware_properties_get_gobi_pri_version
+mm_bearer_get_connected
+mm_location_cdma_bs_get_longitude
+mm_modem_factory_reset_finish
+mm_modem_voice_list_calls
+mm_sim_send_puk_finish
+mm_bearer_get_type
+mm_call_start_sync
+mm_sms_cdma_teleservice_id_get_string
+mm_bearer_connect_sync
+mm_simple_status_get_cdma_evdo_registration_state
+mm_modem_cdma_activate_sync
+mm_sms_get_message_reference
+mm_object_get_modem_voice
+mm_modem_list_bearers_sync
+mm_call_direction_get_string
+mm_simple_status_get_3gpp_operator_code
+mm_object_get_modem_location
+mm_modem_3gpp_ussd_initiate_finish
+mm_modem_simple_connect
+mm_bearer_connect_finish
+mm_modem_get_own_numbers
+mm_modem_oma_start_client_initiated_session
+mm_network_timezone_get_dst_offset
+mm_object_get_type
+mm_sms_get_service_category
+mm_modem_3gpp_get_registration_state
+mm_modem_get_supported_capabilities
+mm_sms_get_class
+mm_location_3gpp_get_mobile_country_code
+mm_modem_set_power_state_finish
+mm_modem_get_plugin
+mm_location_3gpp_get_mobile_network_code
+mm_sim_enable_pin
+mm_call_start
+mm_modem_cdma_activation_state_get_string
+mm_modem_3gpp_ussd_get_path
+mm_bearer_get_ip_timeout
+mm_utils_bin2hexstr
+mm_sim_get_path
+mm_sim_enable_pin_sync
+mm_network_timezone_get_offset
+mm_modem_3gpp_register_finish
+mm_modem_signal_peek_umts
+mm_common_get_sms_storage_from_string
+mm_object_get_modem_3gpp_ussd
+mm_modem_command_finish
+mm_bearer_properties_get_allow_roaming
+mm_modem_voice_delete_call_sync
+mm_bearer_disconnect_finish
+mm_call_get_path
+mm_manager_scan_devices_finish
+mm_modem_cdma_activate_manual_finish
+mm_sms_store
+mm_modem_cdma_activate
+mm_common_build_capabilities_string
+mm_simple_status_get_access_technologies
+mm_sms_get_state
+mm_sms_get_pdu_type
+mm_sms_get_path
+mm_modem_messaging_get_supported_storages
+mm_firmware_properties_get_type
+mm_modem_power_state_get_string
+mm_sms_delivery_state_get_string_extended
+mm_modem_cdma_get_esn
+mm_modem_location_get_path
+mm_sms_get_validity_relative
+mm_manager_new_sync
+mm_modem_3gpp_ussd_respond
+mm_modem_simple_get_status_finish
+mm_modem_location_set_gps_refresh_rate
+mm_modem_messaging_delete_finish
+mm_bearer_get_stats
+mm_modem_simple_connect_finish
+mm_bearer_ip_config_get_prefix
+mm_unlock_retries_build_string
+mm_modem_get_access_technologies
+mm_location_cdma_bs_get_latitude
+mm_sim_change_pin
+mm_call_hangup_sync
+mm_modem_3gpp_ussd_initiate
+mm_call_state_get_string
+mm_simple_status_get_cdma_cdma1x_registration_state
+mm_modem_simple_get_status_sync
+mm_sim_send_puk
+mm_cdma_manual_activation_properties_set_prl
+mm_call_get_state_reason
+mm_modem_create_bearer
+mm_modem_3gpp_ussd_get_network_notification
+mm_modem_firmware_select_sync
+mm_modem_oma_cancel_session_finish
+mm_modem_signal_setup_finish
+mm_modem_signal_setup
+mm_modem_messaging_list_sync
+mm_object_get_modem_messaging
+mm_modem_get_current_capabilities
+mm_call_send_dtmf_sync
+mm_signal_get_ecio
+mm_sms_get_timestamp
+mm_modem_get_supported_ip_families
+mm_modem_3gpp_network_get_access_technology
+mm_modem_firmware_list_sync
+mm_oma_session_type_get_string
+mm_modem_oma_cancel_session
+mm_modem_messaging_delete
+mm_bearer_stats_get_duration
+mm_modem_3gpp_get_subscription_state
+mm_object_get_modem_firmware
+mm_bearer_disconnect_sync
+mm_modem_signal_peek_gsm
+mm_oma_session_state_get_string
+mm_modem_3gpp_network_get_operator_code
+mm_object_get_modem_oma
+mm_modem_simple_get_path
+mm_modem_time_get_path
+mm_modem_oma_get_session_type
+mm_bearer_properties_get_user
+mm_modem_factory_reset_sync
+mm_modem_reset
+mm_modem_get_current_modes
+mm_modem_location_setup_sync
+mm_object_get_modem_signal
+mm_modem_3gpp_network_get_operator_long
+mm_modem_cdma_get_evdo_registration_state
+mm_sms_store_finish
+mm_modem_set_current_modes_finish
+mm_manager_peek_proxy
+mm_modem_cdma_get_nid
+_fini
+mm_bearer_connect
+mm_modem_firmware_select
+mm_firmware_properties_get_gobi_boot_version
+mm_modem_command_sync
+mm_object_peek_modem
+mm_bearer_properties_new_from_string
+mm_simple_status_get_signal_quality
+mm_sms_get_smsc
+mm_sim_disable_pin
+mm_bearer_get_suspended
+mm_modem_get_unlock_required
+mm_location_gps_raw_get_utc_time
+mm_modem_3gpp_network_get_availability
+mm_modem_set_power_state_sync
+mm_modem_get_drivers
+mm_bearer_get_path
+mm_modem_location_set_gps_refresh_rate_finish
+mm_modem_get_device_identifier
+mm_modem_cdma_get_activation_state
+mm_modem_messaging_delete_sync
+mm_modem_get_supported_bands
+mm_modem_signal_peek_evdo
+mm_modem_cdma_activate_manual
+mm_modem_oma_accept_network_initiated_session_sync
+mm_bearer_get_ipv6_config
+mm_modem_firmware_list
+mm_sim_get_operator_identifier
+mm_modem_oma_start_client_initiated_session_sync
+mm_simple_status_get_state
+mm_modem_set_power_state
+mm_call_get_state
+mm_bearer_ip_method_get_string
+mm_object_get_path
+mm_modem_messaging_create_sync
+mm_modem_command
+mm_modem_get_manufacturer
+mm_sms_get_discharge_timestamp
+mm_modem_set_current_bands
+mm_call_state_reason_get_string
+mm_common_get_modes_from_string
+mm_sim_disable_pin_finish
+mm_modem_oma_setup_sync
+mm_modem_mode_build_string_from_mask
+mm_modem_peek_pending_network_initiated_sessions
+mm_modem_get_bearer_paths
+mm_modem_get_model
+mm_manager_new
+mm_bearer_ip_config_get_gateway
+mm_location_gps_raw_get_altitude
+mm_sms_cdma_service_category_get_string
+mm_bearer_ip_config_get_mtu
+mm_modem_cdma_registration_state_get_string
+mm_modem_3gpp_facility_build_string_from_mask
+mm_modem_location_get_enabled
+mm_modem_location_set_supl_server_sync
+mm_location_gps_raw_get_longitude
+mm_modem_voice_delete_call_finish
+mm_modem_messaging_get_path
+mm_modem_messaging_list
+mm_modem_messaging_get_default_storage
+mm_common_get_oma_features_from_string
+mm_modem_location_get_full
+mm_network_timezone_get_leap_seconds
+mm_modem_set_current_modes_sync
+mm_modem_set_current_capabilities_finish
+mm_bearer_get_interface
+mm_modem_get_state_failed_reason
+mm_manager_new_finish
+mm_modem_get_ports
+mm_modem_3gpp_ussd_session_state_get_string
+mm_modem_set_current_bands_sync
+mm_modem_location_get_gps_refresh_rate
+mm_modem_simple_disconnect_finish
+mm_modem_get_signal_quality
+mm_manager_set_logging_sync
+mm_object_get_modem_time
+mm_modem_3gpp_network_free
+mm_modem_3gpp_get_operator_name
+mm_bearer_stats_get_tx_bytes
+mm_location_3gpp_get_cell_id
+mm_sms_get_number
+mm_modem_delete_bearer_sync
+mm_sim_change_pin_sync
+mm_location_3gpp_get_location_area_code
+mm_modem_oma_get_session_state
+mm_modem_get_equipment_identifier
+mm_modem_signal_get_rate
+mm_bearer_properties_get_rm_protocol
+mm_common_get_oma_session_type_from_string
+mm_modem_location_get_full_sync
+mm_bearer_properties_get_number
+mm_bearer_ip_config_get_method
+mm_common_build_ports_string
+mm_modem_location_set_supl_server_finish
+mm_modem_oma_setup
+mm_modem_oma_setup_finish
+mm_modem_simple_get_status
+mm_bearer_disconnect
+mm_common_get_capabilities_from_string
+mm_modem_messaging_list_finish
+mm_modem_3gpp_ussd_get_network_request
+mm_sms_properties_set_data
+mm_modem_firmware_select_finish
+mm_modem_location_source_build_string_from_mask
+mm_modem_oma_accept_network_initiated_session_finish
+mm_signal_get_rsrp
+mm_signal_get_rsrq
+mm_firmware_properties_get_gobi_modem_unique_id
+mm_modem_3gpp_scan_finish
+mm_modem_signal_peek_lte
+mm_modem_oma_get_features
+mm_modem_list_bearers
+mm_sms_get_teleservice_id
+mm_modem_reset_sync
+mm_modem_oma_get_path
+mm_modem_cdma_get_meid
+mm_modem_create_bearer_finish
+mm_simple_status_get_current_bands
+mm_signal_get_rssi
+mm_modem_voice_get_path
+mm_modem_set_current_capabilities
+mm_cdma_manual_activation_properties_new_from_string
+mm_modem_3gpp_registration_state_get_string
+mm_simple_status_get_cdma_nid
+mm_call_accept_sync
+mm_modem_get_state
+mm_sim_send_pin_finish
+mm_modem_3gpp_get_operator_code
+mm_modem_get_sim_sync
+mm_modem_3gpp_get_imei
+mm_modem_cdma_get_sid
+mm_modem_3gpp_get_enabled_facility_locks
+mm_modem_oma_cancel_session_sync
+mm_modem_voice_list_calls_finish
+mm_firmware_properties_get_gobi_pri_info
+mm_firmware_properties_get_unique_id
+mm_modem_lock_get_string
+mm_location_gps_nmea_build_full
+mm_bearer_properties_get_apn
+mm_sms_storage_get_string
+mm_modem_get_sim_finish
+mm_modem_list_bearers_finish
+mm_manager_scan_devices
+mm_sms_get_delivery_report_request
+mm_modem_oma_accept_network_initiated_session
+mm_modem_cdma_activate_finish
+alula
+mm_modem_simple_disconnect_sync
+mm_modem_3gpp_register_sync
+mm_object_get_modem_cdma
+mm_get_uint_from_str
+mm_modem_3gpp_ussd_cancel_sync
+mm_modem_get_sim
+mm_call_get_direction
+mm_modem_3gpp_ussd_respond_finish
+mm_call_hangup
+mm_sim_change_pin_finish
+mm_bearer_properties_get_password
+mm_bearer_ip_family_build_string_from_mask
+mm_sms_send_sync
+mm_bearer_stats_get_rx_bytes
+mm_modem_capability_build_string_from_mask
+mm_sms_get_validity_type
+mm_modem_get_path
+mm_oma_feature_build_string_from_mask
+mm_modem_state_get_string
+mm_modem_get_revision
+mm_modem_create_bearer_sync
+mm_modem_3gpp_ussd_cancel_finish
+mm_modem_set_current_capabilities_sync
+mm_sms_get_storage
+mm_modem_cdma_activate_manual_sync
+mm_bearer_properties_get_ip_type
+mm_call_start_finish
+mm_modem_get_supported_modes
+mm_sim_get_imsi
+mm_signal_get_sinr
+mm_sim_send_pin_sync
+mm_modem_time_get_network_timezone
+mm_bearer_ip_config_get_dns
+mm_signal_get_io
+mm_sim_get_identifier
+mm_modem_reset_finish
+mm_firmware_properties_get_image_type
+mm_call_get_type
+mm_modem_3gpp_subscription_state_get_string
+mm_firmware_properties_get_gobi_pri_unique_id
+mm_modem_set_current_modes
+mm_call_properties_new_from_string
+mm_bearer_get_properties
+mm_sms_properties_new_from_string
+mm_modem_messaging_create
+mm_sms_get_type
+mm_common_build_mode_combinations_string
+mm_sms_get_delivery_state
+mm_sim_enable_pin_finish
+mm_modem_disable_sync
+mm_modem_location_setup_finish
+mm_modem_location_setup
+mm_common_build_bands_string
+mm_modem_delete_bearer_finish
+mm_bearer_ip_config_get_address
+mm_modem_signal_setup_sync
+mm_call_accept
+mm_call_send_dtmf
+mm_modem_get_primary_port
+mm_modem_signal_get_path
+mm_sim_send_pin
+mm_modem_get_unlock_retries
+mm_modem_voice_delete_call
+mm_modem_port_info_array_free
+mm_modem_enable_sync
+mm_modem_time_get_network_time_finish
+mm_simple_status_get_3gpp_subscription_state
+mm_firmware_image_type_get_string
+mm_modem_cdma_rm_protocol_get_string
+mm_modem_location_set_supl_server
+mm_modem_cdma_get_cdma1x_registration_state
+mm_object_get_modem_3gpp
+mm_modem_messaging_create_finish
+mm_modem_voice_list_calls_sync
+mm_sms_get_data
+mm_modem_disable_finish
+mm_call_send_dtmf_finish
+mm_modem_voice_create_call
+mm_call_get_number
+mm_call_accept_finish
+mm_modem_location_set_gps_refresh_rate_sync
+mm_location_gps_raw_get_latitude
+mm_modem_delete_bearer
+mm_modem_location_get_full_finish
+mm_manager_scan_devices_sync
+mm_simple_status_get_cdma_sid
+mm_sim_get_operator_name
+mm_modem_get_sim_path
+mm_modem_factory_reset
+mm_modem_get_power_state
+mm_modem_3gpp_scan
+mm_object_get_modem
+mm_modem_3gpp_register
+mm_modem_set_current_bands_finish
+mm_manager_set_logging
+mm_object_get_modem_simple
+mm_sms_state_get_string
+mm_signal_get_snr
+mm_modem_disable
+mm_sms_store_sync
+mm_modem_time_get_network_time_sync
+mm_bearer_get_ipv4_config
+mm_common_get_bands_from_string
+libgio-2.0.so.0
+g_list_delete_link
+g_main_loop_unref
+g_option_context_free
+Degas are we not drawn onward no In union drawn onward to new eras aged
+g_file_get_contents
+g_print
+g_strjoinv
+g_printerr
+g_option_context_add_group
+g_list_length
+g_file_set_contents
+g_option_group_add_entries
+g_main_loop_new
+g_main_loop_run
+g_list_free
+g_option_context_new
+g_option_group_new
+g_main_loop_quit
+g_string_append_len
+g_file_new_for_commandline_arg
+g_dbus_object_manager_client_get_name_owner
+g_cancellable_cancel
+g_cancellable_is_cancelled
+g_cancellable_new
+g_file_get_path
+g_bus_get_sync
+g_dbus_object_manager_get_objects
+g_cancellable_connect
+g_dbus_proxy_set_default_timeout
+libgobject-2.0.so.0
+g_type_init
+libglib-2.0.so.0
+g_log_set_handler
+g_option_context_parse
+g_main_loop_is_running
+g_option_context_add_main_entries
+libpthread.so.0
+libc.so.6
+fflush
+exit
+setlocale
+__stack_chk_fail
+strftime
+strlen
+stdout
+localtime
+strchr
+__libc_start_main
+_edata
+__bss_start
+_end
+GLIBC_2.4
+GLIBC_2.2.5
+D$X1
+t[~A
+D$XdH3
+AUATI
+[]A\A]I
+ATUH
+[]A\
+AUATI
+[]A\A]
+trATI
+ATUI
+[]A\
+ATUH
+[]A\
+trATI
+ATUI
+[]A\
+trATI
+ATUI
+[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+ATUI
+[]A\
+AVAUH
+ATUI
+tV[L
+]A\A]A^
+AUATI
+[]A\A]
+ATUI
+{0[]A\
+AWAVI
+AUATUSH
+D$(1
+T$ 1
+D$ H
+L$(dH3
+8[]A\A]A^A_
+ATUI
+{([]A\
+AWAVI
+AUATUSH
+D$(1
+T$ 1
+D$ H
+L$(dH3
+8[]A\A]A^A_
+ATUI
+{0[]A\
+AWAVI
+AUATUSH
+D$(1
+T$ 1
+D$ H
+L$(dH3
+8[]A\A]A^A_
+ATUI
+{0[]A\
+AWAVI
+AUATUSH
+D$(1
+T$ 1
+D$ H
+L$(dH3
+8[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+ATUI
+[]A\
+ATUI
+[]A\
+AUATI
+[]A\A]
+St/H
+ATUS
+[]A\
+=tz!
+=\z!
+=3z!
+=!z!
+5Mz!
+ATUI
+AWAVAUATUSH
+=?w!
+5-w!
+D$8H
+D$@H
+D$`H
+D$pH
+D$xH
+D$ H
+A]XH
+D$XA
+D$@H
+L$pI
+D$(H
+D$PH
+D$`H
+D$pH
+D$xH
+AZA[H
+[]A\A]A^A_
+D$xH
+D$pE1
+=Wg!
+=Oe!
+AWAVAUATUSH
+[]A\A]A^A_
+5F_!
+=0_!
+=H^!
+5 ^!
+=>]!
+5\]!
+=7]!
+ATUI
+[]A\
+ATUH
+[]A\
+AUATUSH
+([]A\A]
+ATUI
+[]A\
+=#S!
+AWAVAUATUSH
+([]A\A]A^A_
+=[M!
+ATUI
+[]A\
+AWAVAUATI
+=SH!
+5JH!
+[]A\A]A^A_
+([]A\A]A^A_
+D$(1
+D$(P
+D$0H
+L$(H
+T$ H
+D$(dH3
+=o?!
+5H?!
+5>>!
+=]=!
+ATUI
+[]A\
+ATUH
+D$(1
+5L:!
+D$(dH3
+0[]A\
+=p9!
+=]9!
+=L9!
+=;9!
+=j9!
+=I9!
+=09!
+ u}H
+D$ 1
+L$0H
+T$(H
+t$ H
+=\6!
+t$ 1
+<$t/
+AUATUSH
+([]A\A]
+St H
+ATUS
+[]A\
+ATUI
+ATUH
+ []A\
+ATUSH
+St H
+ATUS
+[]A\
+=^&!
+=T%!
+=7%!
+ATUI
+AWAVI
+AUATI
+([]A\A]A^A_
+ATUI
+[]A\
+u9E1
+AWAVAUATUSH
+[]A\A]A^A_
+([]A\A]A^A_
+ATUI
+[]A\
+ATUI
+[]A\
+D$81
+t$,H
+L$01
+D$8dH3
+Pt0H
+ATUI
+[]A\
+AUATUSH
+([]A\A]
+u#[E1
+ATUI
+[]A\
+AWAVAUATUSH
+D$81
+T$01
+D$8dH3
+H[]A\A]A^A_
+L$ H
+D$(A
+D$(t
+D$(H
+L$(H
+T$01
+ATUI
+[]A\
+AUATUSH
+[]A\A]
+ATUI
+[]A\
+AUATUSH
+([]A\A]
+ATUI
+[]A\
+AWAVA
+AUATL
+[]A\A]A^A_
+-Warning **
+-Error **
+[Debug]
+%d %b %Y, %H:%M:%S
+[%s] %s %s
+cancelling the operation...
+cancelling the main loop...
+unknown error
+God A red nugget A fat egg under a dog
+error: couldn't get bus: %s
+error: no actions specified
+verbose
+Run action with verbose logs
+Print version
+async
+Use asynchronous methods
+timeout
+Timeout for the operation
+[SECONDS]
+Forcing request to be run asynchronously
+Ignoring request to run asynchronously
+- Control and monitor the ModemManager
+mmcli 1.6.4
+Copyright (2011 - 2016) Aleksander Morgado
+License GPLv2+: GNU GPL version 2 or later <http://gnu.org/licenses/gpl-2.0.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+error: cannot use manager and modem options at the same time
+Modem found at '%s'
+Bearer found at '%s'
+Sms found at '%s'
+Call found at '%s'
+error: no sim was specified
+error: no SMS was specified
+error: no call was specified
+None or unknown
+User request
+Suspend
+Failure
+mmcli-common.c
+Show common options
+Common options
+common
+[PATH|INDEX]
+error: couldn't create manager: %s
+error: couldn't find the ModemManager process in the bus
+ModemManager process found at '%s'
+error: couldn't find modem at '%s'
+error: couldn't find bearer at '%s': 'not found in any modem'
+Skipping modem '%s' when looking for bearers (not fully initialized)
+Looking for bearer '%s' in modem '%s'...
+error: couldn't list bearers at '%s': '%s'
+error: couldn't get sim '%s' at '%s': '%s'
+error: couldn't find SMS at '%s': 'not found in any modem'
+Looking for sms '%s' in modem '%s'...
+error: couldn't list SMS at '%s': '%s'
+error: couldn't find call at '%s': 'not found in any modem'
+Looking for call '%s' in modem '%s'...
+error: couldn't list call at '%s': '%s'
+error: no modem was specified
+/org/freedesktop/ModemManager1/Modem
+Assuming '%s' is the full modem path
+Assuming '%s' is the modem index
+/org/freedesktop/ModemManager1/Modem/%s
+error: invalid path or index string specified: '%s'
+error: no bearer was specified
+/org/freedesktop/ModemManager1/Bearer
+Assuming '%s' is the full bearer path
+Assuming '%s' is the bearer index
+/org/freedesktop/ModemManager1/Bearer/%s
+/org/freedesktop/ModemManager1/SIM
+Assuming '%s' is the full SIM path
+Assuming '%s' is the SIM index
+/org/freedesktop/ModemManager1/SIM/%s
+error: invalid index string specified: '%s'
+/org/freedesktop/ModemManager1/SMS
+Assuming '%s' is the full SMS path
+Assuming '%s' is the SMS index
+/org/freedesktop/ModemManager1/SMS/%s
+/org/freedesktop/ModemManager1/Call
+Assuming '%s' is the full call path
+Assuming '%s' is the call index
+/org/freedesktop/ModemManager1/Call/%s
+error: couldn't find bearer at '%s': 'no modems found'
+error: couldn't find sim at '%s': 'no modems found'
+error: couldn't find sim at '%s'
+error: couldn't find SMS at '%s': 'no modems found'
+error: couldn't find call at '%s': 'no modems found'
+error: couldn't get sim '%s' in modem '%s': '%s'
+error: couldn't find sms at '%s': 'no modems found'
+Specify modem by path or index. Shows modem information if no action specified.
+Specify bearer by path or index. Shows bearer information if no action specified.
+Specify SIM card by path or index. Shows SIM card information if no action specified.
+Specify SMS by path or index. Shows SMS information if no action specified.
+Specify Call by path or index. Shows Call information if no action specified.
+mmcli_get_state_reason_string
+	%s [%s] %s
+Removed modem:
+Added modem:
+No modems were found
+Found %u modems:
+object-added
+object-removed
+mmcli-manager.c
+Show manager options
+Manager options
+manager
+set-logging
+[ERR,WARN,INFO,DEBUG]
+list-modems
+List available modems
+monitor-modems
+scan-modems
+error: couldn't request to scan devices: '%s'
+successfully requested to scan devices
+error: couldn't set logging level: '%s'
+Successfully set logging level
+error: too many manager actions requested
+error: monitoring modems cannot be done synchronously
+Set logging level in the ModemManager daemon
+List available modems and monitor additions and removals
+Request to re-scan looking for modems
+mmcli_manager_run_synchronous
+get_manager_ready
+error: bearer '%s' not owned by modem '%s'
+	%s: State changed, '%s' --> '%s' (Reason: %s)
+error: timeout is too short (%d)
+error: couldn't parse list of capabilities: '%s'
+error: couldn't parse list of allowed modes: '%s'
+error: couldn't parse preferred mode: '%s'
+error: couldn't parse list of bands: '%s'
+Asynchronously enabling modem...
+Asynchronously disabling modem...
+Asynchronously setting full power...
+Asynchronously setting low power...
+Asynchronously powering off...
+Asynchronously reseting modem...
+Asynchronously factory-reseting modem...
+Asynchronously sending a command to the modem (%u seconds timeout)...
+Asynchronously listing bearers in modem...
+Error parsing properties string: '%s'
+Asynchronously creating new bearer in modem...
+error: couldn't set current bands: '%s'
+successfully set current bands in the modem
+error: couldn't set current modes: '%s'
+successfully set current modes in the modem
+error: couldn't set current capabilities: '%s'
+successfully set current capabilities in the modem
+error: couldn't delete bearer: '%s'
+successfully deleted bearer from modem
+error: couldn't reset the modem to factory state: '%s'
+successfully reseted the modem to factory state
+error: couldn't reset the modem: '%s'
+successfully reseted the modem
+error: couldn't set new power state in the modem: '%s'
+successfully set new power state in the modem
+error: couldn't disable the modem: '%s'
+successfully disabled the modem
+error: couldn't enable the modem: '%s'
+successfully enabled the modem
+error: couldn't create new bearer: '%s'
+Successfully created new bearer in modem:
+error: couldn't list bearers: '%s'
+error: setting preferred mode requires list of allowed modes
+error: too many modem actions requested
+           |                  
+  -------------------------
+  Hardware |   manufacturer: '%s'
+           |          model: '%s'
+           |       revision: '%s'
+           |      supported: '%s'
+           |        current: '%s'
+           |   equipment id: '%s'
+  -------------------------
+  System   |         device: '%s'
+           |        drivers: '%s'
+           |         plugin: '%s'
+           |   primary port: '%s'
+           |          ports: '%s'
+  -------------------------
+  Numbers  |           own : '%s'
+  -------------------------
+  Status   |           lock: '%s'
+           | unlock retries: '%s'
+           |          state: '%s'
+           |  failed reason: '%s'
+           |    power state: '%s'
+           |    access tech: '%s'
+           | signal quality: '%u' (%s)
+  -------------------------
+  Modes    |      supported: '%s'
+           |        current: 'allowed: %s; preferred: %s'
+  -------------------------
+  Bands    |      supported: '%s'
+           |        current: '%s'
+Beeb
+  -------------------------
+  IP       |      supported: '%s'
+  -------------------------
+  3GPP     |           imei: '%s'
+           |  enabled locks: '%s'
+           |    operator id: '%s'
+           |  operator name: '%s'
+           |   subscription: '%s'
+           |   registration: '%s'
+  -------------------------
+  CDMA     |           meid: '%s'
+           |            esn: '%s'
+           |            sid: '%s'
+           |            nid: '%s'
+           |   registration: CDMA1x '%s'
+           |                 EV-DO  '%s'
+           |     activation: '%s'
+  -------------------------
+  SIM      |           path: '%s'
+  -------------------------
+  Bearers  |          paths: '%s'
+Synchronously enabling modem...
+Synchronously disabling modem...
+Synchronously setting full power...
+Synchronously setting low power...
+Synchronously reseting modem...
+Synchronously factory-reseting modem...
+Synchronously sending command to modem (%u seconds timeout)...
+Synchronously listing bearers...
+Synchronously creating new bearer in modem...
+Monitor state of a given modem
+Set full power state in the modem
+Set low power state in the modem
+Reset a given modem to its factory state
+Send an AT command to the modem
+List packet data bearers available in a given modem
+Create a new packet data bearer in a given modem
+Delete a data bearer from a given modem
+Set current modem capabilities.
+Set allowed modes in a given modem.
+Set preferred mode in a given modem (Must give allowed modes with --set-allowed-modes)
+Set bands to be used by a given modem.
+mmcli-modem.c
+state-changed
+	%s: Initial state, '%s'
+error: command failed: '%s'
+No bearers were found
+Found %u bearers:
+response: '%s'
+Show modem options
+Modem options
+recent
+cached
+none
+Printing modem info...
+%s (device id '%s')
+Synchronously powering off...
+monitor-state
+enable
+Enable a given modem
+disable
+Disable a given modem
+set-power-state-on
+set-power-state-low
+set-power-state-off
+Power off the modem
+Reset a given modem
+factory-reset
+[CODE]
+command
+[COMMAND]
+list-bearers
+create-bearer
+["key=value,..."]
+delete-bearer
+set-current-capabilities
+[CAPABILITY1|CAPABILITY2...]
+set-allowed-modes
+[MODE1|MODE2...]
+set-preferred-mode
+[MODE]
+set-current-bands
+[BAND1|BAND2...]
+mmcli_modem_run_synchronous
+get_modem_ready
+Found %u networks:
+%s - %s (%s, %s)
+error: modem not enabled yet
+mmcli-modem-3gpp.c
+Show 3GPP related options
+3GPP options
+Printing USSD status...
+3gpp-scan
+3gpp-register-home
+3gpp-register-in-operator
+[MCCMNC]
+3gpp-ussd-status
+3gpp-ussd-initiate
+[command]
+3gpp-ussd-respond
+[response]
+3gpp-ussd-cancel
+error: couldn't send response in USSD session: '%s'
+response successfully sent in USSD session; new reply from network: '%s'
+error: couldn't initiate USSD session: '%s'
+USSD session initiated; new reply from network: '%s'
+error: couldn't scan networks in the modem: '%s'
+error: couldn't cancel USSD session: '%s'
+successfully cancelled USSD session
+error: couldn't register the modem: '%s'
+successfully registered the modem
+error: modem has no USSD capabilities
+error: modem has no 3GPP capabilities
+Asynchronously scanning for networks...
+Asynchronously registering the modem...
+Asynchronously initiating USSD session...
+Asynchronously sending response in USSD session...
+Asynchronously cancelling USSD session...
+error: too many 3GPP actions requested
+Synchronously registering the modem...
+  ----------------------------
+  USSD |               status: '%s'
+       |      network request: '%s'
+       | network notification: '%s'
+Scan for available networks in a given modem.
+Request a given modem to register in its home network
+Request a given modem to register in the network of the given operator
+Show status of any ongoing USSD session
+Request a given modem to initiate a USSD session
+Request a given modem to respond to a USSD request
+Request to cancel any ongoing USSD session
+mmcli_modem_3gpp_run_synchronous
+get_modem_ready
+error: cannot parse properties string: '%s'
+error: cannot read from file '%s': '%s'
+error: couldn't manually activate the modem: '%s'
+successfully activated the modem manually
+error: couldn't activate the modem: '%s'
+successfully activated the modem
+error: modem has no CDMA capabilities
+Asynchronously activating the modem...
+Asynchronously manually activating the modem...
+error: too many CDMA actions requested
+error: `--cdma-activate-manual-with-prl' must be given along with `--cdma-activate-manual'
+Synchronously activating the modem...
+Synchronously manually activating the modem...
+Provision the modem to use with a given carrier using OTA settings.
+Provision the modem with the given settings. 'spc', 'sid', 'mdn' and 'min' are mandatory, 'mn-ha-key' and 'mn-aaa-key' are optional.
+Use the given file contents as data for the PRL.
+Reading data from file '%s'
+error: cannot set PRL: '%s'
+mmcli-modem-cdma.c
+Show CDMA related options
+CDMA options
+cdma
+cdma-activate
+[CARRIER]
+cdma-activate-manual
+cdma-activate-manual-with-prl
+[File path]
+mmcli_modem_cdma_run_synchronous
+get_modem_ready
+mmcli-modem-simple.c
+Show Simple options
+simple
+simple-connect
+Run full connection sequence.
+simple-disconnect
+simple-status
+error: couldn't get status from the modem: '%s'
+  -------------------------
+  Status |          state: '%s'
+         | signal quality: '%u' (%s)
+         |          bands: '%s'
+         |    access tech: '%s'
+  -------------------------
+  3GPP   |   registration: '%s'
+         |  operator code: '%s'
+         |  operator name: '%s'
+         |   subscription: '%s'
+  -------------------------
+  CDMA   |            sid: '%s'
+         |            nid: '%s'
+         |   registration: CDMA1x '%s'
+         |                 EV-DO  '%s'
+  -------------------------
+  3GPP   |   subscription: '%s'
+error: couldn't connect the modem: '%s'
+successfully connected the modem
+error: modem has no Simple capabilities
+Asynchronously connecting the modem...
+Error parsing connect string: '%s'
+Asynchronously disconnecting all bearers in the modem...
+Asynchronously getting status from the modem...
+error: couldn't disconnect all bearers in the modem: '%s'
+successfully disconnected all bearers in the modem
+error: too many Simple actions requested
+Synchronously disconnecting all bearers in the modem...
+Synchronously getting status from the modem...
+Disconnect all connected bearers.
+Show compilation of status properties.
+mmcli_modem_simple_run_synchronous
+get_modem_ready
+not available
+                  | 
+mmcli-modem-location.c
+Show Location options
+location
+unset
+Printing location status...
+location-status
+location-get
+location-enable-3gpp
+location-disable-3gpp
+location-get-3gpp
+Get 3GPP-based location.
+location-enable-agps
+location-disable-agps
+location-enable-gps-nmea
+location-disable-gps-nmea
+location-get-gps-nmea
+Get NMEA GPS traces.
+Do nine men interpret Nine men I nod
+location-enable-gps-raw
+location-disable-gps-raw
+location-get-gps-raw
+Get raw GPS location.
+location-enable-cdma-bs
+location-disable-cdma-bs
+location-get-cdma-bs
+location-enable-gps-unmanaged
+location-set-supl-server
+Set SUPL server address
+[IP:PORT] or [URL]
+location-set-gps-refresh-rate
+[RATE]
+location-set-enable-signal
+location-set-disable-signal
+error: couldn't get 3GPP-based location from the modem: '%s'
+error: couldn't get NMEA GPS traces from the modem: '%s'
+error: couldn't get raw GPS location from the modem: '%s'
+error: couldn't get CDMA base station location from the modem: '%s'
+error: couldn't get location from the modem: '%s'
+  -------------------------
+  3GPP location   | Mobile country code: '%u'
+                  | Mobile network code: '%u'
+                  |  Location area code: '%lu'
+                  |             Cell ID: '%lu'
+  -------------------------
+  3GPP location   | Not available
+  -------------------------
+  GPS NMEA traces | %s
+  -------------------------
+  GPS NMEA traces | Not available
+  -------------------------
+  Raw GPS         |  UTC time: '%s'
+                  | Longitude: '%lf'
+                  |  Latitude: '%lf'
+                  |  Altitude: '%lf'
+  -------------------------
+  Raw GPS         | Not available
+  -------------------------
+  CDMA BS         | Longitude: '%lf'
+                  |  Latitude: '%lf'
+  -------------------------
+  CDMA BS         | Not available
+error: couldn't set GPS refresh rate: '%s'
+successfully set GPS refresh rate
+error: couldn't set SUPL servert address: '%s'
+successfully set SUPL server address
+error: couldn't setup location gathering: '%s'
+successfully setup location gathering
+error: modem has no location capabilities
+Asynchronously setting up location gathering...
+Asynchronously getting location from the modem...
+Asynchronously setting SUPL server...
+error: couldn't set GPS refresh rate: invalid rate given: '%s'
+Asynchronously setting GPS refresh rate...
+error: cannot enable and disable the same source
+error: cannot enable and disable location signaling
+error: too many Location actions requested
+  ----------------------------
+  Location |   capabilities: '%s'
+           |        enabled: '%s'
+           |        signals: '%s'
+  ----------------------------
+  A-GPS    |    SUPL server: '%s'
+  ----------------------------
+  GPS      |  refresh rate: '%u'
+  GPS      |  refresh rate: disabled
+Synchronously setting up location gathering...
+Synchronously getting location from the modem...
+Synchronously setting SUPL server...
+Synchronously setting GPS refresh rate...
+Show status of location gathering.
+Get all available location information.
+Enable 3GPP location gathering.
+Disable 3GPP location gathering.
+Enable A-GPS location gathering.
+Disable A-GPS location gathering.
+Enable NMEA-based GPS location gathering.
+Disable NMEA-based GPS location gathering.
+Enable raw GPS location gathering.
+Disable raw GPS location gathering.
+Enable CDMA base station location gathering.
+Disable CDMA base station location gathering.
+Get CDMA base station location.
+Enable unmanaged GPS location gathering.
+location-disable-gps-unmanaged
+Disable unmanaged GPS location gathering.
+Set GPS refresh rate in seconds, or 0 disable the explicit rate.
+Enable location update signaling in DBus property.
+Disable location update signaling in DBus property.
+mmcli_modem_location_run_synchronous
+get_modem_ready
+error: SMS '%s' not owned by modem '%s'
+error: couldn't delete SMS: '%s'
+successfully deleted SMS from modem
+error: couldn't create new SMS: '%s'
+Successfully created new SMS:
+error: couldn't list SMS: '%s'
+error: modem has no messaging capabilities
+Asynchronously listing SMS in modem...
+A Santa lives evil at NASA
+Asynchronously creating new SMS in modem...
+error: too many Messaging actions requested
+error: `--messaging-create-with-data' must be given along with `--messaging-create-sms'
+  ----------------------------
+  Messaging | supported storages: '%s'
+            |    default storage: '%s'
+Synchronously listing SMS messages...
+Synchronously creating new SMS in modem...
+Show status of messaging support.
+List SMS messages available in a given modem
+Create a new SMS in a given modem
+messaging-create-sms-with-data
+Pass the given file as data contents when creating a new SMS
+Delete a SMS from a given modem
+	%s (%s)
+No SMS messages were found
+Found %u SMS messages:
+mmcli-modem-messaging.c
+Show Messaging options
+messaging
+Printing messaging status...
+messaging-status
+messaging-list-sms
+messaging-create-sms
+messaging-delete-sms
+mmcli_modem_messaging_run_synchronous
+get_modem_ready
+error: call '%s' not owned by modem '%s'
+error: couldn't delete call: '%s'
+successfully deleted call from modem
+error: couldn't create new call: '%s'
+Successfully created new call:
+error: couldn't list call: '%s'
+error: modem has no voice capabilities
+Asynchronously listing calls in modem...
+Asynchronously creating new call in modem...
+error: too many Voice actions requested
+Synchronously creating new call in modem...
+List calls available in a given modem
+Create a new call in a given modem
+Delete a call from a given modem
+	%s %s (%s)
+No calls were found
+Found %u calls:
+mmcli-modem-voice.c
+Show Voice options
+voice
+Synchronously listing call...
+voice-list-calls
+voice-create-call
+voice-delete-call
+mmcli_modem_voice_run_synchronous
+get_modem_ready
+mmcli-modem-time.c
+Show Time options
+Get current network time
+error: couldn't get current network time: '%s'
+  ----------------------------
+  Time     |      Current: '%s'
+  ----------------------------
+  Timezone |       Offset: '%s'
+           |   DST offset: '%s'
+           | Leap seconds: '%s'
+error: modem has no time capabilities
+Asynchronously getting network time from the modem...
+error: too many Time actions requested
+Synchronously getting network time from the modem...
+mmcli_modem_time_run_synchronous
+get_modem_ready
+ (CURRENT)
+Found %u firmware images:
+	[%u] %s%s
+		Type: '%s'
+mmcli-modem-firmware.c
+Show Firmware options
+firmware
+firmware-list
+firmware-select
+Select a given firmware image
+[Unique ID]
+error: couldn't list firmware images: '%s'
+No firmware images were found
+		[Gobi]     PRI version: '%s'
+		[Gobi]        PRI info: '%s'
+		[Gobi]    Boot version: '%s'
+		[Gobi]   PRI Unique ID: '%s'
+		[Gobi] Modem Unique ID: '%s'
+error: couldn't select firmware image: '%s'
+Successfully selected firmware image
+error: modem has no firmware capabilities
+Asynchronously listing firmware images in modem...
+Asynchronously selecting firmware image in modem...
+error: too many Firmware actions requested
+Synchronously listing firmware images in modem...
+Synchronously selecting firmware image in modem...
+List firmware images installed in a given modem
+mmcli_modem_firmware_run_synchronous
+get_modem_ready
+mmcli-modem-signal.c
+Show Signal options
+signal-setup
+[Rate]
+signal-get
+error: couldn't setup extended signal information retrieval: '%s'
+Successfully setup extended signal information retrieval
+error: modem has no extended signal capabilities
+error: invalid rate value '%s'
+Asynchronously setting up extended signal quality information retrieval...
+error: too many Signal actions requested
+  -------------------------
+  Refresh rate: '%u' seconds
+  -------------------------
+  CDMA1x | RSSI: '%.2lf' dBm
+         | EcIo: '%.2lf' dBm
+  -------------------------
+  EV-DO  | RSSI: '%.2lf' dBm
+         | EcIo: '%.2lf' dBm
+         | SINR: '%.2lf' dBm
+         |   Io: '%.2lf' dB
+  -------------------------
+  GSM    | RSSI: '%.2lf' dBm
+  -------------------------
+  UMTS   | RSSI: '%.2lf' dBm
+         | EcIo: '%.2lf' dBm
+  -------------------------
+  LTE    | RSSI: '%.2lf' dBm
+         | RSRQ: '%.2lf' dB
+         | RSRP: '%.2lf' dBm
+         |  SNR: '%.2lf' dB
+Synchronously setting up extended signal quality information retrieval...
+Setup extended signal information retrieval
+Get all extended signal quality information
+mmcli_modem_signal_run_synchronous
+get_modem_ready
+accept
+reject
+accepted
+rejected
+Successfully %s OMA session
+accepting
+rejecting
+mmcli-modem-oma.c
+!status_flag
+Show OMA options
+Printing OMA status...
+oma-status
+oma-setup
+Setup OMA features
+[FEATURE1|FEATURE2...]
+[Session type]
+[Session ID]
+oma-cancel-session
+Cancel current OMA DM session
+error: couldn't cancel OMA session: '%s'
+Successfully cancelled OMA session
+error: couldn't %s OMA session: '%s'
+error: couldn't start OMA session: '%s'
+Successfully started OMA session
+error: couldn't setup OMA features: '%s'
+Successfully setup OMA features
+error: modem has no OMA capabilities
+Error parsing OMA features string: '%s'
+Asynchronously setting up OMA features...
+Error parsing OMA session type string: '%s'
+Tacocat
+Asynchronously starting OMA session...
+Error parsing OMA session id string: not a number
+Asynchronously %s OMA session...
+Asynchronously cancelling OMA session...
+error: too many OMA actions requested
+  -------------------------
+  Setup            | features: '%s'
+  -------------------------
+  Current session  |     type: '%s'
+                   |    state: '%s'
+  -------------------------
+  Pending sessions |
+               [%u] |     type: '%s'
+                    |       id: '%u'
+Synchronously setting up OMA features...
+Synchronously starting OMA session...
+Synchronously %s OMA session...
+Synchronously cancelling OMA session...
+Current status of the OMA device management
+oma-start-client-initiated-session
+Start client initiated OMA DM session
+oma-accept-network-initiated-session
+Accept network initiated OMA DM session
+oma-reject-network-initiated-session
+Reject network initiated OMA DM session
+mmcli_modem_oma_run_synchronous
+get_modem_ready
+mmcli-bearer.c
+Show bearer options
+Bearer options
+allowed
+forbidden
+Printing bearer info...
+Bearer '%s'
+, '%s'
+Connect a given bearer.
+Disconnect a given bearer.
+Asynchronously connecting bearer...
+Asynchronously disconnecting bearer...
+error: couldn't disconnect the bearer: '%s'
+successfully disconnected the bearer
+error: couldn't connect the bearer: '%s'
+successfully connected the bearer
+error: too many bearer actions requested
+  -------------------------
+  Status             |   connected: '%s'
+                     |   suspended: '%s'
+                     |   interface: '%s'
+                     |  IP timeout: '%u'
+  -------------------------
+  Properties         |         apn: '%s'
+                     |     roaming: '%s'
+                     |     IP type: '%s'
+                     |        user: '%s'
+                     |    password: '%s'
+                     |      number: '%s'
+                     | Rm protocol: '%s'
+  -------------------------
+  IPv4 configuration |   method: '%s'
+                     |  address: '%s'
+                     |   prefix: '%u'
+                     |  gateway: '%s'
+                     |      DNS: '%s'
+                     |      DNS: none
+                     |      MTU: '%u'
+  -------------------------
+  IPv6 configuration |   method: '%s'
+  -------------------------
+  Stats              |          Duration: '%u'
+                     |    Bytes received: '%lu'
+                     |    Bytes received: 'N/A'
+                     | Bytes transmitted: '%lu'
+                     | Bytes transmitted: 'N/A'
+Synchronously connecting bearer...
+Synchronously disconnecting bearer...
+mmcli_bearer_run_synchronous
+get_bearer_ready
+mmcli-sim.c
+Show SIM options
+Printing sim info...
+SIM '%s'
+Send PIN code to a given SIM.
+[PIN]
+[PUK]
+enable-pin
+disable-pin
+change-pin
+[New PIN]
+error: couldn't send PIN code to the SIM: '%s'
+successfully sent PIN code to the SIM
+error: couldn't send PUK code to the SIM: '%s'
+successfully sent PUK code to the SIM
+error: couldn't change PIN code in the SIM: '%s'
+successfully changed PIN code in the SIM
+error: couldn't disable PIN code request in the SIM: '%s'
+successfully disabled PIN code request in the SIM
+error: couldn't enable PIN code request in the SIM: '%s'
+successfully enabled PIN code request in the SIM
+error: action requires also the PIN code
+error: too many sim actions requested
+  -------------------------
+  Properties |          imsi : '%s'
+             |            id : '%s'
+             |   operator id : '%s'
+             | operator name : '%s'
+Send PUK code to a given SIM (must send the new PIN with --pin).
+Enable PIN request in a given SIM (must send the current PIN with --pin).
+Disable PIN request in a given SIM (must send the current PIN with --pin).
+Change the PIN in a given SIM (must send the current PIN with --pin).
+mmcli_sim_run_synchronous
+get_sim_ready
+mmcli-sms.c
+successfully stored the SMS
+successfully sent the SMS
+Show SMS options
+not requested
+Printing SMS info...
+SMS '%s'
+send
+Send SMS.
+store
+store-in-storage
+[Storage]
+create-file-with-data
+error: couldn't store the SMS: '%s'
+error: couldn't send the SMS: '%s'
+error: too many SMS actions requested
+  -----------------------------------
+  Content    |              number: '%s'
+             |                text: '%s'
+             |                data: '%s'
+  -----------------------------------
+  Properties |            PDU type: '%s'
+             |               state: '%s'
+             | validity (relative): '%u'
+             |             storage: '%s'
+             |                smsc: '%s'
+             |               class: '%d'
+             |      teleservice id: '%s'
+             |    service category: '%s'
+             |     delivery report: '%s'
+             |   message reference: '%u'
+             |           timestamp: '%s'
+             |      delivery state: '%s' (0x%X)
+             | discharge timestamp: '%s'
+Creating file with SMS data...
+error: couldn't create file: SMS has no data
+error: cannot write to file '%s': '%s'
+Store the SMS in the device, at the default storage
+Store the SMS in the device, at the specified storage
+Create a file with the data contents of the SMS.
+mmcli_sms_run_synchronous
+get_sms_ready
+mmcli-call.c
+successfully send dtmf
+Show call options
+Call options
+Printing call info...
+CALL '%s'
+start
+Start the call.
+Accept the incoming call
+hangup
+Hang up the call
+send-dtmf
+Send specified DTMF tone
+[0-9A-D*#]
+error: couldn't send dtmf to call: '%s'
+error: couldn't hang up the call: '%s'
+successfully hung up the call
+error: couldn't accept the call: '%s'
+successfully accepted the call
+error: couldn't start the call: '%s'
+successfully started the call
+error: too many call actions requested
+  -------------------------------
+  Global     |          number: '%s'
+             |       direction: '%s'
+  -------------------------------
+  Properties |           state: '%s'
+             |    state reason: '%s'
+mmcli_call_run_synchronous
+get_call_ready
+;*3$"
+3c3a1d043f7b6f7e20c693e41c244dc0f91716.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

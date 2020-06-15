@@ -1,0 +1,843 @@
+/lib64/ld-linux-x86-64.so.2
+\k	C
+libply.so.4
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+ply_restore_errno
+ply_create_file_link
+ply_list_append_data
+ply_create_daemon
+ply_progress_save_cache
+ply_event_loop_watch_for_exit
+ply_terminal_session_close_log
+ply_write
+ply_buffer_remove_bytes_at_end
+ply_buffer_new
+ply_trigger_add_handler
+ply_trigger_pull
+ply_string_has_prefix
+ply_progress_load_cache
+ply_terminal_session_new
+ply_event_loop_stop_watching_for_timeout
+ply_buffer_get_size
+ply_progress_status_update
+ply_event_loop_watch_for_timeout
+ply_event_loop_run
+ply_terminal_session_attach_to_event_loop
+ply_logger_flush
+ply_save_errno
+ply_list_get_first_node
+ply_event_loop_watch_fd
+ply_progress_free
+ply_buffer_append_bytes
+ply_get_process_parent_pid
+ply_command_parser_add_options
+ply_list_remove_node
+ply_list_node_get_data
+ply_list_free
+ply_trigger_new
+ply_get_credentials_from_fd
+ply_utf8_character_get_size
+ply_logger_is_tracing_enabled
+ply_key_file_free
+ply_command_parser_free
+ply_progress_new
+ply_command_parser_parse_arguments
+ply_read
+ply_event_loop_get_default
+ply_terminal_session_open_log
+Tacocat
+ply_list_get_length
+ply_key_file_load
+ply_detach_daemon
+ply_logger_toggle_tracing
+ply_list_new
+ply_progress_pause
+ply_logger_get_error_default
+ply_utf8_string_get_length
+ply_key_file_new
+ply_logger_free
+ply_event_loop_stop_watching_for_exit
+ply_logger_inject_with_non_literal_format_string
+ply_command_parser_get_options
+ply_character_device_exists
+ply_terminal_session_detach
+ply_list_get_next_node
+ply_create_directory
+ply_buffer_free
+ply_logger_add_filter
+ply_key_file_get_value
+ply_terminal_session_free
+ply_get_process_command_line
+ply_buffer_clear
+ply_progress_unpause
+ply_event_loop_exit
+ply_logger_close_file
+ply_command_parser_new
+ply_list_find_node
+ply_buffer_get_bytes
+ply_write_uint32
+ply_logger_set_output_fd
+ply_command_parser_get_help_string
+ply_terminal_session_attach
+ply_get_timestamp
+ply_listen_to_unix_socket
+libply-splash-core.so.4
+ply_keyboard_remove_escape_handler
+ply_device_manager_deactivate_keyboards
+ply_terminal_set_unbuffered_input
+ply_boot_splash_attach_to_event_loop
+ply_device_manager_watch_seats
+ply_boot_splash_display_normal
+ply_device_manager_free
+ply_keyboard_add_backspace_handler
+ply_terminal_write
+ply_boot_splash_attach_to_seat
+ply_terminal_open
+ply_boot_splash_free
+ply_boot_splash_update_output
+ply_device_manager_get_default_terminal
+ply_terminal_activate_vt
+ply_boot_splash_root_mounted
+ply_boot_splash_system_update
+ply_terminal_is_active
+ply_device_manager_activate_renderers
+ply_boot_splash_load_built_in
+ply_boot_splash_load
+ply_device_manager_activate_keyboards
+ply_boot_splash_new
+ply_keyboard_remove_enter_handler
+ply_boot_splash_display_message
+ply_boot_splash_detach_from_seat
+ply_terminal_watch_for_vt_changes
+ply_boot_splash_hide_message
+ply_boot_splash_display_password
+ply_keyboard_remove_input_handler
+ply_terminal_set_buffered_input
+ply_keyboard_add_escape_handler
+ply_terminal_close
+ply_boot_splash_hide
+ply_boot_splash_attach_progress
+ply_keyboard_remove_backspace_handler
+ply_terminal_set_mode
+ply_terminal_stop_watching_for_vt_changes
+ply_device_manager_has_open_seats
+ply_boot_splash_display_question
+ply_boot_splash_show
+ply_boot_splash_become_idle
+ply_keyboard_add_enter_handler
+ply_text_display_get_terminal
+ply_terminal_ignore_mode_changes
+ply_keyboard_add_input_handler
+ply_device_manager_new
+ply_boot_splash_update_status
+ply_device_manager_deactivate_renderers
+ply_device_manager_get_seats
+ply_terminal_deactivate_vt
+ply_seat_get_keyboard
+libc.so.6
+chroot
+__printf_chk
+fopen
+strncmp
+strrchr
+__strdup
+signal
+strncpy
+__stack_chk_fail
+unlink
+abort
+getpid
+kill
+__assert_fail
+strtod
+strtol
+calloc
+strlen
+strstr
+__errno_location
+tcsetattr
+chdir
+dup2
+__fprintf_chk
+fputs
+memcpy
+fclose
+malloc
+accept4
+raise
+__ctype_b_loc
+getenv
+sscanf
+stderr
+ioctl
+geteuid
+strchr
+tcgetattr
+sleep
+__libc_current_sigrtmin
+access
+strcmp
+__asprintf_chk
+__libc_start_main
+__libc_csu_fini
+ply_boot_splash_plugin_get_interface
+_edata
+ply_boot_server_attach_to_event_loop
+ply_boot_server_free
+__data_start
+ply_boot_server_stop_listening
+ply_boot_server_new
+Borrow or rob
+_IO_stdin_used
+__libc_csu_init
+ply_pack_binary
+__bss_start
+ply_boot_server_listen
+ply_pack_uint32
+GLIBC_2.3
+GLIBC_2.3.4
+GLIBC_2.14
+GLIBC_2.8
+GLIBC_2.10
+GLIBC_2.4
+GLIBC_2.2.5
+AWAV
+AUATA
+D$@j
+t$@H
+[]A\A]A^A_
+D$0Ph
+D$HPhD
+D$fPh
+D$uPh
+d$ M
+D$0H
+t$(H
+@PShP
+t$@H
+|$hH
+D$8H
+|$81
+|$8L
+RAUAVAVM
+<$Y^
+UH-hFa
+ATUH
+[]A\
++[]A\
+ATUH
+[]A\
++[]A\
+ATUSt?H
+ATUSt|H
+[]A\
+[]A\
+AWAVAUATUSH
+D$81
+D$8dH3
+H[]A\A]A^A_
+D$8dH3
+[]A\A]A^A_
+D$(H
+D$8dH3
+HcT$$
+D$8dH3
+AUATI
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+AUATI
+[]A\A]
+AUATUSH
+[]A\A]
+[]A\A]
+AWAVI
+AUAT
+D$PL
+D$XL
+D$`L
+D$hH
+D$pH
+D$xH
+[]A\A]A^A_
+tKSH
+AUATI
+[]A\A]
+[]A\A]
+ATUS
+[]A\
+ATUI
+[]A\
+AVAUI
+[]A\A]A^
+AUATI
+[]A\A]
+[]A\A]H
+AUATI
+[]A\A]
+AVAUATUH
+[]A\A]A^
+AVAUI
+ATUI
+[]A\A]A^
+[]A\A]A^
+AUATUSH
+[]A\A]
+ATUSH
+AUATUSH
+[]A\A]
+ATUSH
+[]A\
+[]A\
+ATUI
+t$H9
+[]A\
+tZAUATUSH
+[]A\A]
+[]A\A]H
+[]A\A]
+[]A\A]
+ATUSH
+[]A\
+ATUS
+[]A\
+AVAUATUH
+[]A\A]A^
+]A\A]A^
+AUATUSH
+[]A\A]
+ATUS
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+ATUH
+}(]A\
+ATUH
+}(]A\
+AWAVI
+AUAT
+|$0H
+[]A\A]A^A_
+AUATUSH
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+AVAUI
+ATUI
+[]A\A]A^
+AUATUSH
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+|$(H
+[]A\A]
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+ATUI
+[]A\
+AWAVAUATI
+D$81
+D$ :
+T$8dH3
+H[]A\A]A^A_
+D$ :
+AVAUI
+ATUH
+]A\A]A^
+[]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+D$H1
+D$HdH3
+AUATUSH
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+[]A\A]A^A_
+AUATUSH
+[]A\A]
+u]X[]A\A]
+[]A\A]1
+ATUSH
+[]A\
+[]A\
+ATUSH
+[]A\
+[]A\
+ATUH
+ATUSH
+[]A\
+ATUSH
+ u_[]A\
+[]A\
+AWAVA
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AUATUSH
+[]A\A]
+[]A\A]1
+[]A\A]
+ATUS
+[]A\
+ATUH
+[]A\
+t0ATUSH
+[]A\
+[]A\
+AVAUATUH
+[]A\A]A^
+tgATUSH
+@u-H
+[]A\
+AVAUI
+ATUI
+[]A\A]A^
+ATUSH
+[]A\
+[]A\
+Beeb
+ATUSH
+[]A\
+[]A\
+[]A\
+ATUS
+[]A\
+[]A\
+[]A\
++[]A\
+AVAUI
+ATUI
+[]A\A]A^
+]A\A]A^
+AUATI
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+AWAVA
+AUATL
+[]A\A]A^A_
+ply-boot-server.c
+[%s:%d] %45.45s:deactivated
+connection != NULL
+connection->server != NULL
+node != NULL
+--retain-splash 
+Eleele
+connection->fd >= 0
+[%s:%d] %45.45s:got key: %s
+/org/freedesktop/plymouthd
+loop != NULL
+server->loop == NULL
+server->socket_fd >= 0
+[%s:%d] %45.45s:quit complete
+[%s:%d] %45.45s:could not finish writing quit reply: %m
+[%s:%d] %45.45s:could not finish writing deactivate reply: %m
+[%s:%d] %45.45s:couldn't read credentials from connection: %m
+[%s:%d] %45.45s:could not read connection request
+[%s:%d] %45.45s:connection is from toplevel init process (%s)
+[%s:%d] %45.45s:connection is from pid %ld (%s) with parent pid %ld (%s)
+[%s:%d] %45.45s:Asked if connection is from root, but haven't checked credentials yet
+[%s:%d] %45.45s:could not finish writing is-not-root nak: %m
+[%s:%d] %45.45s:could not finish writing update reply: %m
+[%s:%d] %45.45s:got update request
+[%s:%d] %45.45s:got change mode notification
+failed to parse percentage %s
+[%s:%d] %45.45s:got system-update notification %li%%
+[%s:%d] %45.45s:got system initialized notification
+[%s:%d] %45.45s:got error notification
+[%s:%d] %45.45s:got show splash request
+[%s:%d] %45.45s:got hide splash request
+[%s:%d] %45.45s:got deactivate request
+[%s:%d] %45.45s:got reactivate request
+[%s:%d] %45.45s:got quit %srequest
+[%s:%d] %45.45s:got password request
+[%s:%d] %45.45s:got cached password request
+[%s:%d] %45.45s:There are %d cached passwords
+[%s:%d] %45.45s:Responding with 'no answer' reply since there are currently no cached answers
+[%s:%d] %45.45s:could not finish writing no answer reply: %m
+[%s:%d] %45.45s:writing %d cached answers
+[%s:%d] %45.45s:could not finish writing cached answer reply: %m
+[%s:%d] %45.45s:got question request
+[%s:%d] %45.45s:got show message request
+[%s:%d] %45.45s:got hide message request
+[%s:%d] %45.45s:got keystroke request
+[%s:%d] %45.45s:got keystroke remove request
+[%s:%d] %45.45s:got progress pause request
+[%s:%d] %45.45s:got progress unpause request
+[%s:%d] %45.45s:got newroot request
+[%s:%d] %45.45s:got has_active vt? request
+[%s:%d] %45.45s:could not finish writing nak: %m
+received unknown command '%s' from client
+[%s:%d] %45.45s:could not finish writing ping reply: %m
+[%s:%d] %45.45s:could not finish writing ack: %m
+request came from non-root user
+[%s:%d] %45.45s:could not create buffer for answer reply
+[%s:%d] %45.45s:could not finish writing answer: %m
+[%s:%d] %45.45s:got question answer: %s
+[%s:%d] %45.45s:got password answer
+ply_boot_connection_is_from_root
+print_connection_process_identity
+ply_boot_connection_read_request
+ply_boot_connection_on_deactivated
+ply_boot_connection_on_quit_complete
+ply_boot_connection_on_password_answer
+ply_boot_connection_on_question_answer
+ply_boot_connection_send_answer
+ply_boot_connection_on_keystroke_answer
+ply_boot_connection_on_request
+ply_boot_connection_on_request
+ply_boot_server_on_new_connection
+ply_boot_server_on_hangup
+ply_boot_server_detach_from_event_loop
+ply_boot_server_attach_to_event_loop
+ply_boot_server_stop_listening
+ply_boot_server_listen
+ply_boot_connection_on_hangup
+plugins/splash/details/plugin.c
+[%s:%d] %45.45s:detaching from event loop
+[%s:%d] %45.45s:hiding splash screen
+[%s:%d] %45.45s:creating plugin
+[%s:%d] %45.45s:writing '%s' to all views (%d bytes)
+[%s:%d] %45.45s:status update
+[%s:%d] %45.45s:destroying plugin
+plugin != NULL
+%.*s
+Password:
+fsck:
+fsck:.*:%d:.*
+create_plugin
+destroy_plugin
+show_splash_screen
+update_status
+update_status
+on_boot_output
+detach_from_event_loop
+hide_splash_screen
+hide_splash_screen
+main.c
+/var/log/boot.log
+/dev/null
+/var/spool/plymouth/boot.log
+single
+splash=verbose
+rhgb
+splash=silent
+/dev/tty1
+/dev/hvc0
+boot-up
+shutdown
+updates
+true
+false
+/var/lib/plymouth/
+Do nine men interpret Nine men I nod
+[%s:%d] %45.45s:closing log
+init=
+!state->is_inactive
+plymouth.debug
+Theme
+Daemon
+ShowDelay
+plymouth.force-splash
+plymouth.ignore-show-splash
+God A red nugget A fat egg under a dog
+Splash server
+attach-to-session
+This help message
+help
+Do not write boot log file
+no-boot-log
+TTY to use instead of default
+kernel-command-line
+pid-file
+mode
+debug-file
+Output debugging information
+Do not daemonize
+no-daemon
+/proc/cmdline
+plymouth:
+DISPLAY
+/dev/tty
+/dev/tty63
+plymouth.debug=stream:
+plymouth.debug=file:
+/dev/
+/dev/%s
+/var/log/plymouth-debug.log
+plymouth.nolog
+Sep 13 2017
+/run/plymouth
+plymouth.splash=
+plymouth.splash-delay=
+/etc/plymouth//plymouthd.conf
+plymouth.ignore-udev
+/dev/ttyS0
+/dev/xvc0
+/dev/ttySG0
+[%s:%d] %45.45s:got hang up on terminal session fd
+[%s:%d] %45.45s:unkown entry type
+[%s:%d] %45.45s:cleaning up devices
+[%s:%d] %45.45s:exiting event loop
+Unhandled case in %s line %d
+[%s:%d] %45.45s:returning log file '%s'
+[%s:%d] %45.45s:spooling error for viewer
+[%s:%d] %45.45s:returning spool file '%s'
+[%s:%d] %45.45s:encountered error during boot up
+[%s:%d] %45.45s:not spooling because number of errors %d
+/var/lib/plymouth//boot-duration
+/var/lib/plymouth//shutdown-duration
+[%s:%d] %45.45s:returning cache file '%s'
+[%s:%d] %45.45s:ignoring for keystroke
+[%s:%d] %45.45s:unpausing progress
+[%s:%d] %45.45s:pausing progress
+[%s:%d] %45.45s:watching for keystroke
+[%s:%d] %45.45s:displaying message %s
+[%s:%d] %45.45s:not displaying message %s as no splash
+[%s:%d] %45.45s:queuing question with boot splash
+[%s:%d] %45.45s:hiding message %s
+[%s:%d] %45.45s:no splash set
+[%s:%d] %45.45s:setting system update to '%i'
+[%s:%d] %45.45s:failed to update splash
+[%s:%d] %45.45s:updating status to '%s'
+[%s:%d] %45.45s:creating new terminal session
+[%s:%d] %45.45s:session already created
+[%s:%d] %45.45s:checking if plymouth should show default splash
+[%s:%d] %45.45s:no default splash because kernel command line has option "%s"
+[%s:%d] %45.45s:no default splash because kernel command line has option "splash=verbose"
+[%s:%d] %45.45s:using default splash because kernel command line has option "rhgb"
+[%s:%d] %45.45s:using default splash because kernel command line has option "splash"
+[%s:%d] %45.45s:using default splash because kernel command line has option "splash=silent"
+[%s:%d] %45.45s:no default splash because kernel command line lacks "splash" or "rhgb"
+[%s:%d] %45.45s:no longer listening for keystrokes
+[%s:%d] %45.45s:no longer listening for escape
+[%s:%d] %45.45s:no longer listening for backspace
+[%s:%d] %45.45s:no longer listening for enter
+splash_mode != PLY_BOOT_SPLASH_MODE_INVALID
+[%s:%d] %45.45s:updating mode to '%s'
+[%s:%d] %45.45s:Loading boot splash theme '%s'
+/usr/lib/x86_64-linux-gnu/plymouth/
+[%s:%d] %45.45s:attaching plugin to event loop
+[%s:%d] %45.45s:attaching progress to plugin
+[%s:%d] %45.45s:Loading built-in theme
+[%s:%d] %45.45s:telling systemd to start printing details
+[%s:%d] %45.45s:could not tell systemd to print details: %m
+[%s:%d] %45.45s:not displaying messages, since no boot splash
+[%s:%d] %45.45s:displaying messages
+[%s:%d] %45.45s:Showing splash screen
+[%s:%d] %45.45s:Trying override splash at '%s'
+[%s:%d] %45.45s:Trying system default splash
+[%s:%d] %45.45s:Trying distribution default splash
+[%s:%d] %45.45s:Trying old scheme for default splash
+/usr/share/plymouth/themes/default.plymouth
+[%s:%d] %45.45s:Could not start default splash screen,showing text splash screen
+/usr/share/plymouth/themes/text.plymouth
+[%s:%d] %45.45s:Could not start text splash screen,showing built-in splash screen
+plymouthd: could not start boot splash: %m
+[%s:%d] %45.45s:Showing detailed splash screen
+[%s:%d] %45.45s:Could not start detailed splash screen, this could be a problem.
+[%s:%d] %45.45s:toggling between splash and details
+[%s:%d] %45.45s:hiding and freeing current splash
+[%s:%d] %45.45s:escape key pressed
+[%s:%d] %45.45s:detaching from terminal session
+[%s:%d] %45.45s:quiting splash
+[%s:%d] %45.45s:freeing splash
+[%s:%d] %45.45s:Not retaining splash, so deallocating VT
+[%s:%d] %45.45s:quitting (retain splash: %s)
+[%s:%d] %45.45s:quit trigger already pending, so chaining to it
+[%s:%d] %45.45s:system initialized so saving boot-duration file
+[%s:%d] %45.45s:system not initialized so skipping saving boot-duration file
+[%s:%d] %45.45s:telling systemd to stop printing details
+[%s:%d] %45.45s:could not tell systemd to stop printing details: %m
+[%s:%d] %45.45s:unloading splash
+[%s:%d] %45.45s:new root mounted at "%s", exiting since init= a shell
+[%s:%d] %45.45s:new root mounted at "%s", switching to it
+[%s:%d] %45.45s:deactivating terminal
+[%s:%d] %45.45s:boot splash idle
+[%s:%d] %45.45s:hiding splash
+[%s:%d] %45.45s:quitting splash
+[%s:%d] %45.45s:quitting program
+[%s:%d] %45.45s:deactivating splash
+[%s:%d] %45.45s:hiding boot splash
+[%s:%d] %45.45s:system now initialized, opening log
+[%s:%d] %45.45s:not preparing logging yet, system not initialized
+[%s:%d] %45.45s:not preparing logging, no session
+[%s:%d] %45.45s:opening log '%s'
+[%s:%d] %45.45s:failed to open log: %m
+[%s:%d] %45.45s:displaying queued message
+[%s:%d] %45.45s:reactivating terminal session
+[%s:%d] %45.45s:Trying to load %s
+/usr/share/plymouth/themes/%s/%s.plymouth
+[%s:%d] %45.45s:Splash delay is set to %lf
+[%s:%d] %45.45s:deactivating
+[%s:%d] %45.45s:delaying show splash for %lf seconds
+[%s:%d] %45.45s:show splash called while already shown
+[%s:%d] %45.45s:show splash called while inactive
+[%s:%d] %45.45s:checking if plymouth should be running
+[%s:%d] %45.45s:show splash called while ignoring show splash calls
+[%s:%d] %45.45s:at least one seat already open, so loading splash
+[%s:%d] %45.45s:no seats available to show splash on, waiting...
+[%s:%d] %45.45s:seats open now, showing splash immediately
+[%s:%d] %45.45s:splash still coming up, waiting a bit
+[%s:%d] %45.45s:no splash loaded, replying immediately with no password
+[%s:%d] %45.45s:queuing password request with boot splash
+[%s:%d] %45.45s:seat added before splash loaded, so loading splash now
+[%s:%d] %45.45s:seat added after splash loaded, so attaching to splash
+[%s:%d] %45.45s:listening for keystrokes
+[%s:%d] %45.45s:listening for escape
+[%s:%d] %45.45s:listening for backspace
+[%s:%d] %45.45s:listening for enter
+Redirect console messages from screen to log
+Fake kernel command line to use
+Write the pid of the daemon to a file
+Mode is one of: boot, shutdown
+File to output debugging information to
+plymouthd must be run as root user
+plymouthd: cannot daemonize: %m
+[%s:%d] %45.45s:initializing minimal work environment
+[%s:%d] %45.45s:opening /proc/cmdline
+[%s:%d] %45.45s:couldn't open it: %m
+[%s:%d] %45.45s:reading kernel command line
+A Santa lives evil at NASA
+[%s:%d] %45.45s:couldn't read it: %m
+[%s:%d] %45.45s:Kernel command line is: '%s'
+/usr/lib/x86_64-linux-gnu/plymouth/renderers/x11.so
+[%s:%d] %45.45s:checking if '%s' exists
+[%s:%d] %45.45s:nope, forcing details mode
+[%s:%d] %45.45s:going to go with '%s'
+[%s:%d] %45.45s:checking if tracing should be enabled
+[%s:%d] %45.45s:tracing should be enabled!
+[%s:%d] %45.45s:streaming debug output to %s instead of screen
+alula
+[%s:%d] %45.45s:could not stream output to %s: %m
+[%s:%d] %45.45s:redirecting debug output to %s
+[%s:%d] %45.45s:could not redirected debug output to %s: %m
+[%s:%d] %45.45s:tracing shouldn't be enabled!
+[%s:%d] %45.45s:checking if console messages should be redirected and logged
+[%s:%d] %45.45s:logging won't be enabled!
+[%s:%d] %45.45s:logging will be enabled!
+[%s:%d] %45.45s:source built on %s
+[%s:%d] %45.45s:Making sure /run/plymouth exists
+[%s:%d] %45.45s:could not create /run/plymouth: %m
+[%s:%d] %45.45s:initialized minimal work environment
+plymouthd: could not setup basic operating environment: %m
+[%s:%d] %45.45s:plymouthd is already running
+[%s:%d] %45.45s:could not redirect console session: %m
+could not write pid file %s: %m
+plymouthd: could not tell parent to exit: %m
+[%s:%d] %45.45s:Splash is configured to be '%*.*s'
+/usr/share/plymouth/themes/%*.*s/%*.*s.plymouth
+[%s:%d] %45.45s:failed to load /etc/plymouth//plymouthd.conf
+[%s:%d] %45.45s:System configured theme file is '%s'
+/usr/share/plymouth//plymouthd.defaults
+[%s:%d] %45.45s:failed to load /usr/share/plymouth//plymouthd.defaults
+[%s:%d] %45.45s:Distribution default theme file is '%s'
+plymouth.ignore-serial-consoles
+[%s:%d] %45.45s:entering event loop
+[%s:%d] %45.45s:exited event loop
+[%s:%d] %45.45s:freeing terminal session
+[%s:%d] %45.45s:exiting with code %d
+on_seat_added
+on_escape_pressed
+on_seat_removed
+plymouth_should_show_default_splash
+find_distribution_default_splash
+load_settings
+find_system_default_splash
+find_override_splash
+get_cache_file_for_mode
+on_session_hangup
+attach_to_running_session
+on_update
+on_change_mode
+on_system_update
+on_ask_for_password
+on_ask_question
+on_display_message
+on_hide_message
+on_watch_for_keystroke
+on_ignore_keystroke
+on_progress_pause
+on_progress_unpause
+plymouth_should_ignore_show_splash_calls
+on_show_splash
+on_hide_splash
+on_newroot
+flush_pending_messages
+prepare_logging
+on_system_initialized
+get_log_spool_file_for_mode
+get_log_file_for_state
+spool_error
+on_error
+on_deactivate
+on_reactivate
+quit_program
+toggle_between_splash_and_details
+Degas are we not drawn onward no In union drawn onward to new eras aged
+tell_systemd_to_stop_printing_details
+deactivate_splash
+deactivate_splash
+detach_from_running_session
+quit_splash
+show_detailed_splash
+update_display
+show_messages
+tell_systemd_to_print_details
+get_splash_mode_from_mode
+load_built_in_theme
+load_theme
+show_default_splash
+show_splash
+on_boot_splash_idle
+on_quit
+check_logging
+check_verbosity
+get_kernel_command_line
+initialize_environment
+main
+;*3$"
+3de7f4fdafa4714a76b6fd976f029950b179a9.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

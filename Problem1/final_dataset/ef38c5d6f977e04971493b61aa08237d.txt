@@ -1,0 +1,4072 @@
+/lib64/ld-linux-x86-64.so.2
+libgdk-3.so.0
+g_param_spec_object
+g_free
+g_memdup
+g_type_interface_peek
+g_param_spec_string
+g_value_get_boxed
+g_cclosure_marshal_VOID__BOOLEAN
+g_settings_get_string
+g_direct_equal
+g_intern_static_string
+gdk_pixbuf_get_height
+g_str_hash
+g_value_get_string
+g_object_get_data
+g_option_context_free
+__gmon_start__
+g_value_set_pointer
+_Jv_RegisterClasses
+cairo_destroy
+g_object_unref
+g_signal_connect_object
+g_signal_emit_by_name
+g_strcmp0
+XSyncIntToValue
+g_strdup
+gdk_pixbuf_get_rowstride
+g_value_set_boolean
+g_value_get_double
+g_value_get_enum
+gdk_pixbuf_get_pixels
+g_list_foreach
+g_hash_table_insert
+g_list_free
+cairo_get_target
+g_value_set_int
+g_object_set_data_full
+cairo_set_source_surface
+gdk_pixbuf_new
+g_object_class_install_property
+g_param_spec_uint
+g_unsetenv
+g_enum_register_static
+g_settings_get_double
+g_malloc
+g_hash_table_remove
+g_object_notify
+g_strndup
+g_param_spec_int
+_ITM_deregisterTMCloneTable
+g_value_get_boolean
+g_ptr_array_add
+g_settings_schema_unref
+g_hash_table_remove_all
+cairo_paint
+g_malloc0_n
+g_assertion_message_expr
+g_value_set_boxed
+g_object_new
+cairo_surface_mark_dirty
+g_list_length
+g_object_ref
+cairo_set_source_rgb
+g_settings_schema_source_lookup
+gdk_pixbuf_get_width
+_ITM_registerTMCloneTable
+g_strdup_printf
+cairo_restore
+g_signal_handlers_disconnect_matched
+g_value_set_string
+g_hash_table_iter_next
+g_hash_table_iter_init
+g_hash_table_new_full
+gdk_pixbuf_get_has_alpha
+g_param_spec_pointer
+XSyncIntsToValue
+g_value_set_double
+g_param_spec_boolean
+cairo_rectangle
+cairo_translate
+g_timeout_add_full
+g_option_context_parse
+g_object_get
+cairo_xlib_surface_create
+g_return_if_fail_warning
+g_value_get_pointer
+g_value_get_object
+g_getenv
+cairo_image_surface_get_data
+g_error_matches
+g_settings_get_boolean
+cairo_image_surface_get_format
+g_quark_from_static_string
+g_quark_from_string
+g_signal_new
+g_list_delete_link
+g_type_check_instance_is_a
+g_list_last
+g_list_index
+g_list_append
+cairo_pop_group_to_source
+g_param_spec_double
+g_str_has_prefix
+g_type_name
+g_source_remove
+cairo_set_source
+g_signal_connect_data
+g_io_error_quark
+g_type_interface_add_prerequisite
+cairo_image_surface_get_height
+g_hash_table_contains
+cairo_pattern_destroy
+g_cclosure_marshal_VOID__VOID
+g_type_register_static_simple
+cairo_set_source_rgba
+g_strsplit
+g_hash_table_lookup
+g_direct_hash
+XSyncInitialize
+cairo_clip
+g_malloc0
+cairo_fill
+g_idle_add_full
+g_value_set_object
+XSetWindowBackgroundPixmap
+g_build_filename
+g_get_monotonic_time
+gdk_pixbuf_get_n_channels
+g_once_init_enter
+g_value_set_uint
+cairo_surface_destroy
+cairo_pattern_create_rgba
+g_option_context_new
+g_hash_table_unref
+g_error_free
+g_type_interface_peek_parent
+g_timeout_add_seconds_full
+cairo_image_surface_get_width
+cairo_xlib_surface_get_drawable
+g_settings_schema_source_get_default
+g_value_get_int
+XSyncQueryExtension
+cairo_save
+g_once_init_leave
+XCreatePixmap
+cairo_image_surface_create
+g_type_add_interface_static
+g_dgettext
+g_list_remove
+cairo_surface_create_similar
+g_slice_free1
+g_type_class_peek_parent
+g_log
+g_str_equal
+cairo_surface_flush
+g_slice_alloc0
+g_type_class_adjust_private_offset
+cairo_pattern_reference
+cairo_surface_set_device_scale
+g_settings_get_int
+g_boxed_type_register_static
+cairo_surface_reference
+gdk_window_set_user_data
+gdk_window_hide
+gdk_rgba_get_type
+gdk_window_new
+_fini
+gdk_x11_window_foreign_new_for_display
+gdk_window_add_filter
+gdk_property_change
+gdk_window_set_cursor
+gdk_screen_get_width
+gdk_x11_window_get_type
+gdk_screen_get_monitor_geometry
+gdk_screen_get_monitor_at_window
+gdk_window_get_origin
+gdk_screen_get_system_visual
+gdk_window_raise
+gdk_screen_get_monitor_scale_factor
+gdk_window_focus
+gdk_atom_intern_static_string
+gdk_x11_lookup_xdisplay
+gdk_screen_get_root_window
+gdk_x11_visual_get_type
+gdk_get_default_root_window
+gdk_window_remove_filter
+gdk_screen_get_number
+gdk_cairo_set_source_pixbuf
+gdk_screen_get_n_monitors
+gdk_cairo_create
+gdk_visual_get_depth
+gdk_display_get_default
+gdk_window_show
+gdk_threads_add_idle
+gdk_window_destroy
+gdk_x11_screen_get_xscreen
+gdk_x11_screen_get_type
+gdk_screen_get_display
+gdk_screen_get_primary_monitor
+gdk_x11_visual_get_xvisual
+gdk_cursor_new_for_display
+gdk_window_get_events
+gdk_window_set_events
+gdk_rgba_to_string
+gdk_x11_display_get_xdisplay
+gdk_rgba_parse
+gdk_x11_window_get_xid
+gdk_flush
+gdk_screen_get_height
+gdk_window_move_resize
+gdk_screen_get_default
+gdk_x11_display_get_type
+gdk_window_get_type_hint
+libindicator3.so.7
+g_variant_is_of_type
+g_dbus_proxy_get_type
+gtk_image_set_from_file
+g_bus_get_finish
+g_variant_ref_sink
+g_dbus_message_new_method_call
+gtk_label_new
+g_key_file_new
+g_clear_error
+g_bus_get
+g_variant_new_boolean
+gtk_widget_get_type
+gtk_menu_new
+g_dbus_connection_register_object
+g_dbus_connection_send_message
+g_variant_new_int32
+g_variant_new_string
+g_variant_type_checked_
+g_type_check_class_cast
+g_variant_get
+gtk_label_set_label
+gtk_widget_hide
+gtk_label_get_type
+g_object_ref_sink
+g_type_instance_get_private
+g_type_check_instance_cast
+gtk_widget_show
+g_key_file_load_from_file
+g_variant_unref
+g_dbus_proxy_get_name
+g_dbus_proxy_get_connection
+g_type_check_value_holds
+gtk_image_get_type
+g_type_class_add_private
+g_variant_new
+g_file_test
+indicator_object_new_from_file
+indicator_object_get_position
+indicator_object_get_entries
+indicator_ng_new_for_profile
+libido3-0.1.so.0
+gtk_container_get_children
+gtk_grid_set_row_spacing
+gtk_box_get_type
+gtk_widget_set_valign
+gtk_widget_set_visible
+g_timer_new
+gtk_widget_queue_draw
+gtk_grid_attach
+gtk_label_get_label
+gtk_window_set_focus_on_map
+gtk_style_context_get_color
+gtk_widget_set_vexpand
+gtk_widget_set_margin_right
+cairo_pattern_create_linear
+gtk_menu_get_type
+gtk_widget_get_allocation
+g_timer_elapsed
+gtk_widget_set_state_flags
+gtk_widget_show_all
+gtk_widget_set_sensitive
+gtk_widget_unset_state_flags
+gtk_style_context_add_class
+gtk_widget_get_state_flags
+gtk_label_get_text
+gtk_window_get_type
+g_timer_destroy
+g_variant_get_uint32
+gtk_box_new
+gtk_widget_set_margin_left
+gtk_widget_get_style_context
+g_object_set
+g_variant_iter_init
+gtk_widget_translate_coordinates
+gtk_widget_set_hexpand
+gtk_widget_grab_focus
+gtk_widget_set_size_request
+gtk_entry_get_type
+g_variant_get_boolean
+g_param_spec_boxed
+gtk_render_activity
+gtk_container_add
+g_cclosure_marshal_VOID__DOUBLE
+gtk_grid_new
+gtk_event_box_new
+cairo_pattern_add_color_stop_rgba
+gtk_box_pack_start
+gtk_menu_item_get_type
+cairo_set_line_width
+gtk_widget_create_pango_layout
+g_variant_iter_next_value
+gtk_container_remove
+gtk_label_set_markup
+cairo_stroke
+gtk_widget_queue_resize
+gtk_widget_get_window
+g_variant_get_string
+gtk_misc_set_alignment
+gtk_widget_set_halign
+cairo_move_to
+ido_init
+libgtk-3.so.0
+g_bus_get_sync
+g_option_context_add_group
+g_type_is_a
+g_type_register_static
+cairo_mask
+g_settings_new
+g_mkdir_with_parents
+g_setenv
+g_cclosure_new
+g_variant_new_uint32
+g_object_interface_install_property
+g_variant_builder_end
+g_cclosure_marshal_VOID__STRING
+cairo_paint_with_alpha
+gdk_pixbuf_get_colorspace
+g_thread_unref
+cairo_matrix_translate
+cairo_pattern_set_matrix
+g_file_set_contents
+g_dir_close
+g_variant_get_int32
+g_signal_parse_name
+gdk_pixbuf_get_bits_per_sample
+pango_font_description_get_type
+g_async_result_get_source_object
+g_variant_builder_init
+cairo_pattern_set_extend
+g_async_initable_new_finish
+g_dbus_method_invocation_get_message
+g_dbus_proxy_call_sync
+g_dbus_connection_call_sync
+g_boxed_free
+cairo_matrix_scale
+g_variant_ref
+g_variant_iter_loop
+g_quark_to_string
+g_dbus_connection_get_unique_name
+gdk_pixbuf_new_from_file
+atk_object_set_name
+g_list_insert_sorted
+g_variant_type_free
+g_dir_open
+cairo_matrix_init_identity
+g_async_initable_new_async
+pango_layout_get_pixel_size
+g_key_file_to_data
+g_dir_read_name
+g_strconcat
+g_variant_n_children
+g_option_context_add_main_entries
+g_hash_table_add
+g_param_spec_types
+g_strv_get_type
+g_utf8_offset_to_pointer
+g_realloc_n
+g_ptr_array_foreach
+cairo_rel_line_to
+cairo_pattern_create_for_surface
+g_utf8_strlen
+g_ascii_strcasecmp
+g_variant_type_new
+g_realloc
+g_ptr_array_unref
+g_str_has_suffix
+g_settings_set_boolean
+g_list_nth_data
+g_file_error_quark
+pango_font_description_from_string
+g_settings_get_strv
+cairo_push_group
+g_variant_builder_add
+pango_cairo_show_layout
+g_list_sort
+cairo_fill_preserve
+pango_layout_set_font_description
+gtk_get_option_group
+gtk_orientable_set_orientation
+gtk_event_box_set_visible_window
+gtk_widget_get_preferred_width
+gtk_window_add_accel_group
+gtk_message_dialog_new
+gtk_grid_get_column_spacing
+gtk_fixed_new
+gtk_window_new
+gtk_widget_set_margin_top
+gtk_widget_set_events
+gtk_widget_draw
+gtk_editable_select_region
+gtk_menu_item_get_submenu
+gtk_label_set_use_markup
+gtk_window_get_focus
+gtk_style_context_remove_class
+gtk_socket_add_id
+gtk_widget_get_toplevel
+gtk_grid_get_child_at
+gtk_entry_set_visibility
+gtk_accel_group_get_type
+gtk_event_box_get_type
+gtk_widget_get_margin_right
+gtk_check_menu_item_new_with_label
+gtk_entry_get_layout_offsets
+gtk_widget_destroy
+gtk_widget_get_margin_left
+gtk_window_set_position
+gtk_check_menu_item_set_active
+gtk_widget_get_margin_bottom
+gtk_menu_item_set_right_justified
+gtk_widget_override_color
+gtk_window_set_focus
+gtk_widget_get_display
+gtk_accel_group_new
+gtk_widget_get_allocated_height
+gtk_widget_add_accelerator
+gtk_entry_set_max_length
+gtk_css_provider_load_from_data
+gtk_label_set_yalign
+gtk_widget_size_allocate
+gtk_widget_ensure_style
+gtk_fixed_move
+gtk_widget_realize
+gtk_combo_box_text_new_with_entry
+gtk_entry_get_text_length
+gtk_combo_box_set_active
+gtk_widget_get_preferred_height_for_width
+gtk_main_quit
+gtk_window_set_has_resize_grip
+gtk_window_set_accept_focus
+gtk_cairo_transform_to_window
+gtk_button_set_focus_on_click
+gtk_window_get_screen
+gtk_menu_item_set_submenu
+gtk_menu_shell_insert
+gtk_widget_queue_draw_area
+gtk_widget_get_preferred_height
+gtk_alignment_new
+gtk_style_context_lookup_color
+gtk_dialog_run
+gtk_widget_get_events
+gtk_menu_bar_get_type
+gtk_menu_shell_select_first
+gtk_menu_shell_append
+gtk_menu_bar_set_pack_direction
+gtk_widget_get_screen
+gtk_widget_get_sensitive
+gtk_window_resize
+gtk_socket_new
+gtk_css_provider_new
+gtk_style_context_restore
+gtk_style_context_add_provider
+gtk_fixed_get_type
+gtk_grid_set_column_spacing
+gtk_entry_get_text
+gtk_widget_get_accessible
+gtk_rgb_to_hsv
+gtk_label_set_line_wrap
+gtk_settings_get_default
+gtk_main
+gtk_button_set_relief
+gtk_bin_get_child
+gtk_hsv_to_rgb
+gtk_label_get_layout
+gtk_widget_get_visible
+gtk_widget_get_realized
+gtk_widget_override_background_color
+gtk_window_move
+gtk_check_menu_item_get_active
+gtk_widget_override_font
+gtk_container_propagate_draw
+gtk_init
+gtk_combo_box_get_type
+gtk_style_context_save
+gtk_combo_box_text_new
+gtk_dialog_add_button
+gtk_widget_get_margin_top
+gtk_image_new_from_file
+gtk_widget_get_allocated_width
+gtk_entry_set_text
+gtk_label_set_xalign
+gtk_widget_child_focus
+gtk_combo_box_text_append_text
+gtk_menu_item_new
+gtk_widget_set_margin_bottom
+gtk_button_get_type
+libpangocairo-1.0.so.0
+libpango-1.0.so.0
+libatk-1.0.so.0
+g_type_free_instance
+g_type_create_instance
+libgdk_pixbuf-2.0.so.0
+gdk_pixbuf_scale
+libgio-2.0.so.0
+g_variant_new_variant
+g_variant_builder_add_value
+g_key_file_set_value
+g_spawn_command_line_async
+g_get_user_name
+g_spawn_async_with_pipes
+g_variant_dup_string
+g_get_user_cache_dir
+g_variant_dup_strv
+g_regex_new
+g_variant_builder_new
+g_spawn_async
+g_variant_get_variant
+g_key_file_get_value
+g_shell_parse_argv
+g_hash_table_ref
+g_hash_table_get_values
+g_key_file_unref
+g_variant_builder_unref
+g_ptr_array_new_full
+g_simple_async_result_set_op_res_gpointer
+g_dbus_message_get_body
+g_simple_async_result_new
+g_dbus_message_to_gerror
+g_dbus_proxy_get_default_timeout
+g_dbus_connection_send_message_with_reply_finish
+g_bus_own_name_with_closures
+g_simple_async_result_get_op_res_gpointer
+g_dbus_proxy_get_object_path
+g_settings_schema_source_unref
+g_dbus_proxy_new_for_bus_sync
+g_dbus_message_set_body
+g_simple_async_result_complete
+g_dbus_method_invocation_return_gerror
+g_unix_fd_list_get
+g_simple_async_result_complete_in_idle
+g_dbus_message_new_method_reply
+g_settings_set_strv
+g_dbus_connection_send_message_with_reply
+g_settings_list_keys
+g_dbus_method_invocation_get_connection
+g_dbus_connection_emit_signal
+g_bus_watch_name_with_closures
+g_settings_schema_source_ref
+g_dbus_connection_call_with_unix_fd_list_sync
+libgobject-2.0.so.0
+g_match_info_unref
+g_regex_unref
+g_ptr_array_ref
+g_thread_ref
+g_type_set_qdata
+g_cclosure_marshal_VOID__UINT
+g_value_type_compatible
+g_type_fundamental_next
+g_type_register_fundamental
+g_signal_handlers_destroy
+g_type_get_qdata
+g_param_spec_internal
+libglib-2.0.so.0
+g_thread_try_new
+g_match_info_get_match_count
+g_unix_signal_add_full
+g_utf8_strchr
+g_match_info_fetch
+g_regex_error_quark
+g_log_set_default_handler
+g_thread_join
+g_spawn_error_quark
+g_regex_match_all
+g_ptr_array_sort_with_data
+liblightdm-gobject-1.so.0
+lightdm_user_list_get_instance
+lightdm_greeter_respond
+lightdm_greeter_get_has_guest_account_hint
+lightdm_greeter_connect_to_daemon_sync
+lightdm_user_get_background
+lightdm_hibernate
+lightdm_get_can_hibernate
+lightdm_greeter_authenticate
+lightdm_user_get_name
+lightdm_shutdown
+lightdm_get_can_shutdown
+lightdm_greeter_get_is_authenticated
+lightdm_user_get_session
+lightdm_get_can_suspend
+lightdm_restart
+lightdm_session_get_name
+lightdm_message_type_get_type
+lightdm_greeter_get_select_user_hint
+lightdm_greeter_cancel_authentication
+lightdm_greeter_get_default_session_hint
+lightdm_greeter_get_show_remote_login_hint
+lightdm_suspend
+lightdm_prompt_type_get_type
+lightdm_greeter_authenticate_autologin
+lightdm_greeter_new
+lightdm_user_list_get_users
+lightdm_greeter_authenticate_remote
+lightdm_session_get_key
+lightdm_greeter_get_authentication_user
+lightdm_get_can_restart
+lightdm_greeter_get_hide_users_hint
+lightdm_greeter_start_session_sync
+lightdm_user_get_real_name
+lightdm_get_sessions
+lightdm_user_get_logged_in
+lightdm_greeter_authenticate_as_guest
+lightdm_greeter_get_show_manual_login_hint
+lightdm_user_get_has_messages
+lightdm_get_remote_sessions
+libcairo.so.2
+cairo_image_surface_create_from_png
+cairo_rel_curve_to
+libcanberra.so.0
+ca_context_create
+ca_context_destroy
+ca_context_play
+libX11.so.6
+XClearWindow
+XGetInputFocus
+libXext.so.6
+XSyncChangeAlarm
+XSyncDestroyAlarm
+XSyncCreateAlarm
+XSyncListSystemCounters
+XSyncFreeSystemCounterList
+libm.so.6
+expf
+libpthread.so.0
+waitpid
+libc.so.6
+exit
+setlocale
+__stack_chk_fail
+memchr
+kill
+bind_textdomain_codeset
+strtol
+fgets
+memset
+__fprintf_chk
+getgrnam
+fputc
+fclose
+stderr
+getuid
+mlockall
+fdopen
+uname
+bindtextdomain
+__libc_start_main
+_edata
+__bss_start
+GLIBC_2.2.5
+GLIBC_2.4
+GLIBC_2.3.4
+%zD%
+%rD%
+%jD%
+%bD%
+%ZD%
+%RD%
+%JD%
+%BD%
+%:D%
+%2D%
+%*D%
+%"D%
+%zC%
+%rC%
+%jC%
+%bC%
+%ZC%
+%RC%
+%JC%
+%BC%
+%:C%
+%2C%
+%*C%
+%"C%
+%zB%
+%rB%
+%jB%
+%bB%
+%ZB%
+%RB%
+%JB%
+%BB%
+%:B%
+%2B%
+%*B%
+%"B%
+%zA%
+%rA%
+%jA%
+%bA%
+%ZA%
+%RA%
+%JA%
+%BA%
+%:A%
+Tacocat
+%2A%
+%*A%
+%"A%
+%z@%
+%r@%
+%j@%
+%b@%
+%Z@%
+%R@%
+%J@%
+%B@%
+%:@%
+%2@%
+%*@%
+%"@%
+%z?%
+%r?%
+%j?%
+%b?%
+%Z?%
+%R?%
+%J?%
+%B?%
+%:?%
+%2?%
+%*?%
+%"?%
+%z>%
+%r>%
+%j>%
+%b>%
+%Z>%
+%R>%
+%J>%
+%B>%
+%:>%
+%2>%
+%*>%
+%">%
+%z=%
+%r=%
+%j=%
+%b=%
+%Z=%
+%R=%
+%J=%
+%B=%
+%:=%
+%2=%
+%*=%
+%"=%
+%z<%
+%r<%
+%j<%
+%b<%
+%Z<%
+%R<%
+%J<%
+%B<%
+%:<%
+%2<%
+%*<%
+%"<%
+%z;%
+%r;%
+%j;%
+%b;%
+%Z;%
+%R;%
+%J;%
+%B;%
+%:;%
+%2;%
+%*;%
+%";%
+%z:%
+%r:%
+%j:%
+%b:%
+%Z:%
+%R:%
+%J:%
+%B:%
+%::%
+%2:%
+%*:%
+%":%
+%z9%
+%r9%
+%j9%
+%b9%
+%Z9%
+%R9%
+%J9%
+%B9%
+%:9%
+%29%
+%*9%
+%"9%
+%z8%
+%r8%
+%j8%
+%b8%
+%Z8%
+%R8%
+%J8%
+%B8%
+%:8%
+%28%
+%*8%
+%"8%
+%z7%
+%r7%
+%j7%
+%b7%
+%Z7%
+%R7%
+%J7%
+%B7%
+%:7%
+%27%
+%*7%
+%"7%
+%z6%
+%r6%
+%j6%
+%b6%
+%Z6%
+%R6%
+%J6%
+%B6%
+%:6%
+%26%
+%*6%
+%"6%
+%z5%
+%r5%
+%j5%
+%b5%
+%Z5%
+%R5%
+%J5%
+%B5%
+%:5%
+%25%
+%*5%
+%"5%
+%z4%
+%r4%
+%j4%
+%b4%
+%Z4%
+%R4%
+%J4%
+%B4%
+%:4%
+%24%
+%*4%
+%"4%
+%z3%
+%r3%
+%j3%
+%b3%
+%Z3%
+%R3%
+%J3%
+%B3%
+%:3%
+%23%
+%*3%
+%"3%
+%z2%
+%r2%
+%j2%
+%b2%
+%Z2%
+%R2%
+%J2%
+%B2%
+%:2%
+%22%
+%*2%
+%"2%
+%z1%
+%r1%
+%j1%
+%b1%
+%Z1%
+%R1%
+%J1%
+%B1%
+%:1%
+%21%
+%*1%
+%"1%
+UH- 
+=q0%
+t(H+B(f
+ATUA
+[]A\H
+AVAUI
+ATUH
+]A\A]A^
+ []A\A]A^
+]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+AWAVAUATUSH
+([]A\A]A^A_
+AWAVAUATI
+D$81
+t$0H
+l$0H
+\$0H
+L$8dH3
+H[]A\A]A^A_
+T$(H
+D$8f
+^AXL
+E;|$(I
+D$ D
+D$0D
+\L$ 
+[]E1
+@0@5A
+D$(1
+T$@H
+D$(dH3
+D$(dH3
+t;USH
+tkUSH
+AWAVAUATUSH
+T$pH
+D$ H
+|$0ZH
+|$HYH
+D$pH
+l$xA
+AXAY
+d$(H
+l$0H
+|$@H
+l$HH
+t$PL
+l$`H
+t$hH
+XT$(
+XT$X
+XL$0
+XL$`
+Y\$P
+X\$8
+X\$h
+[]A\A]A^A_
+D$hH
+L$pE
+D$0H
+|$8D
+D$@H
+l$HH
+t$PD
+d$XH
+l$pH
+D$hL
+t$pD
+|$p1
+t$pD
+t$XH
+t$pH
+|$p1
+t$pD
+D$(D
+t$@H
+AWAVAUATUSH
+D$X1
+D;s(H
+gfff
+VAT1
+D$hH
+t$XdH34%(
+h[]A\A]A^A_
+AUAT
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+D$PL
+D$PD
+D$XL
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+D$H1
+L$HdH3
+X[]A\A]A^A_
+D;k(|
+|$ H
+\$8E1
+D;c(H
+D$ H
+D$(H
+` tRL
+G Hc
+G0A9
+tSUS1
+AWAVE
+AUATA
+T$@M
+RAWH
+[]A\A]A^A_
+AVAUI
+ATUH
+]A\A]A^
+ []A\A]A^
+]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+AUATA
+[]A\A]
+V 9W u
+F$9G$
+AUATA
+[]A\A]
+AVAUE
+ATUI
+]A\A]A^
+[]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+AWAVAUATUSH
+([]A\A]A^A_
+C0E1
+G 9G u
+G$9G$u
+D9l$
+D;l$
+RAUH
+[]A\A]A^A_
+HcD$
+Lct$
+ATUSH
+[]A\
+z@H9
+bHE1
+AUATUSH
+([]A\A]
+AWAVAUATUSH
+\$0H
+T$$L
+t$ A
+T$$H
+D$0H
+t$`L
+D$`H
+D$8H
+D$hH
+D$@H
+D$pH
+D$HH
+D$xH
+D$PH
+D$XH
+*\$$
+*T$ 
+D$ H
+P0L;b0t
+t$ D+t$
+D$$+D$(A
+T$0H
+T$8H
+T$@H
+T$HH
+T$PH
+T$XH
+D$,f
+*\$(
+D$ H
+[]A\A]A^A_
+j8E1
+ATUSH
+ []A\
+AUATI
+[]A\A]
+tCUSH
+AWAVAUATUSH
+HHH9H@t+H
+E0t(
+[]A\A]A^A_
+l$ L
+D$P1
+D$ L
+D$PH
+D$(L
+D$XH
+D$0H
+D$`H
+D$8H
+D$hH
+D$@H
+D$pH
+D$HH
+z@H9zH
+ATUStWH
+[]A\
+t;USH
+tCUSH
+ATUI
+@0]A\
+AVAUI
+ATUH
+]A\A]A^
+]A\A]A^
+]A\A]A^
+ []A\A]A^
+]A\A]A^
+AUATI
+D$(1
+D$(dH3
+8[]A\A]
+@0P=A
+AUATUSH
+[]A\A]
+[]A\A]
+[]A\A]
+ATUSH
+ []A\
+[]D)
+[]E1
+AWAVAUA
+|$HdH
+D$h1
+D$0H
+D$HH
+D$8Ic
+D$d~SHcD$(L
+l$\L
+d$XE1
+L$dL
+D$`L
+$$D9
+l$\L
+d$XD
+L$dL
+D$`L
+;D$ 
+D$ Hct$(A
+t$HA
+t$0H
+D$(Mc
+D$d}/
+L$dL
+D$`H
+L$\H
+T$XL
+|$(L
+|$0L
+L$dL
+D$`H
+L$\H
+T$XL
+D$hdH3
+x[]A\A]A^A_
+t$ H
+t$ H
+t$(fD
+D$0fA
+D$0f
+T$ fA
+L$8fA
+~cAVAUATU
+[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+AVAUE
+ATUI
+]A\A]A^
+[]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+ATUS
+x1H9
+|4H9
+|iH9
+[]A\
+[]E1
+AUATI
+[]A\A]
+USt*
+St"Hc
+AWAVAUATUSH
+*tEA
+[]A\A]A^A_
+[]A\A]A^A_
+ATUA
+[]A\H
+AVAUE
+ATUI
+]A\A]A^
+[]A\A]A^
+AVAUATUSH
+tK[]A\A]A^
+[]A\A]A^
+]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+C0ZYH
+@ 0eA
+AUATUSH
+D$(1
+L$$L
+D$ 1
+d$ D
+L$(dH3
+8[]A\A]
++P0f
+ATUH
+$9D$
+[]A\
+B0SH
+AUATUSH
+[]A\A]
+j(E1
+ATUI
+[]A\
+AVAUI
+ATUI
+ []A\A]A^
+[]A\A]A^
+]A\A]A^
+]A\A]A^
+[]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+@00mA
+ATUStoH
+tkATUH
+[]A\
+AVAUATUSH
+[]A\A]A^
+AVAUI
+ATUH
+]A\A]A^
+ []A\A]A^
+]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+ATUS
+[]A\
+ATUSH
+D$(1
+D$(dH3
+0[]A\
+t$PH
+T$PH
+T$XH
+T$`H
+T$hH
+T$ H
+T$pH
+T$(H
+T$xH
+T$0H
+T$8H
+T$@H
+T$HH
+[]A\
+AWAVAUATUSH
+D$X1
+L$XdH3
+h[]A\A]A^A_
+T$8H
+T$@H
+T$ H
+T$HH
+\$(H
+StBH
+t;USH
+tSSH
+ATUSH
+[]A\1
+[]A\
+AVAUATUI
+[]A\A]A^
+AVAUI
+ATUH
+]A\A]A^
+]A\A]A^
+]A\A]A^
+ []A\A]A^
+]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+t;SH
+ATUI
+[]A\
+AVAUI
+ATUI
+[]A\A]A^
+ []A\A]A^
+]A\A]A^
+[]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+St"H
+t3USH
+tKATUH
+ATUI
+[]A\
+AVAUI
+ATUH
+ []A\A]A^
+]A\A]A^
+AUATI
+([]A\A]
+[]A\A]
+AVAUI
+ATUA
+[]A\A]A^
+AUATI
+[]A\A]
+AWAVAUATUSH
+([]A\A]A^A_
+D$0H
+D$0H
+=$|$
+AVAUATUS
+=@y$
+]A\A]A^
+]A\A]A^
+AUATI
+=Zw$
+[]A\A]
+AVAUI
+]A\A]A^
+ATUI
+[]A\
+AUATI
+="s$
+[]A\A]
+C@[H
+gfffH
+tkATUH
+bp[]A\
+tSUS1
+t+SH
+gfff
+ATUSH
+[]A\
+=)k$
+t3SH
+t6SH
+tnSH
+AUATUSH
+C@E1
+[]A\A]
+[]A\A]
+[]A\A]
+ATUS
+[]A\
+gfff
+AWAVAUATUSH
+D$@I
+t$`H
+z9u7H
+[]A\A]A^A_
+D$@L
+D$@H
+|$`L
+D$@H
+;PXt
+AWAVAUATUSH
+D$X1
+oXE1
+t$ L
+t$ D
+|$$H
+D$88
+t$0f
+D$@D
+L$4H
+D$0H
+T$8H
+t$@H
+D$@H
+L$@f
+\I8f
+D$XdH3
+h[]A\A]A^A_
+ATUSH
+D$X1
+=}Z$
+D$XdH3
+`[]A\
+t$ H
+\$ D
+d$$H
+L$4H
+D$0H
+T$8H
+t$@H
+D$@H
+ATUA
+C@H;h
+ []A\
+[]A\
+ []A\
+\H8f
+t{ATUSH
+[]A\
+AUAT
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+tzATUH
+CXH;j
+[]A\
+[]A\
+t;USH
+AUATI
+[]A\A]
+=[M$
+B8w|H
+t[SH
+tSUS1
+ATUSH
+C@[]A\H
+[]A\
+wPu H
+tcUSH
+ATU1
+-\D$
+[]A\
+[]A\H
+=%D$
+[]A\
+[]A\H
+AVAUA
+ATUH
+[]A\A]A^
+[]A\A]A^
+ATUI
+@0]A\
+ATUI
+=D;$
+{`E1
+[]A\
+AVAUI
+ATUI
+]A\A]A^
+[]A\A]A^
+[]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+ []A\A]A^
+[]A\A]A^1
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+[]E1
+[]E1
+D$X1
+L$ H
+D$0H
+D$8H
+L$0H
+D$@H
+D$HH
+D$XdH3
+AUATUSH
+D$x1
+l$@H
+d$4H
+D$,H
+D$ H
+D$PH
+D$(H
+D$XH
+D$0H
+D$`H
+D$8H
+D$hH
+D$@H
+L$xdH3
+[]A\A]
+AWAVAUATUSH
+([]A\A]A^A_
+AVAUE
+ATUI
+]A\A]A^
+[]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+AVAUE
+ATUI
+]A\A]A^
+[]A\A]A^
+AVAUATUSt[H
+[]A\A]A^
+]A\A]A^
+ATUStWH
+[]A\
+ATUStGH
+[]A\
+t{ATU
+t$0H;p(t
+AVAUATUSH
+D$X1
+L$XdH3
+`[]A\A]A^
+o M;h(
+L$01
+tzM;l$0u
+L$ L
+T$(A
+D$0H
+H;B(u
+ATUSH
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+ATUSH
+D$(1
+D$(dH3
+0[]A\
+ATUH
+[]A\
+t{USH
+ATUI
+[]A\
+AUATI
+([]A\A]
+[]A\A]
+ATUH
+[]A\H
+[]A\
+AWAVAUATUSH
+L$X1
+T$ D
+D$ D
+|$$1
+T$@D
+d$@D
+t$DXZ
+D;d$@t
+D;t$Du
+tWD;l$
+D$XdH3
+h[]A\A]A^A_
+AVAUATUSH
+D$(1
+T$$H
+t$ +l$
+D+d$
+l$ D
+d$$I
+P$A9
+L$(dH3
+0[]A\A]A^
+tNSH
+C8[H
+t;SH
+AWAVAUATUSH
+t	L;0
+[]A\A]A^A_
+[]A\A]A^A_
+t	L;0
+[]A\A]A^A_
+tCSH
+ATUI
+@0]A\
+AWAVAUATI
+D$x1
+|$0H
+D$0H
+T$P1
+D$PH
+D$8H
+D$XH
+D$@H
+D$`H
+D$HH
+L$(I
+t$(M
+t$(I
+C8E1
+L$xdH3
+[]A\A]A^A_
+l$(E1
+AWAVAUATUSH
+([]A\A]A^A_
+AVAUI
+ATUH
+ []A\A]A^
+D$8H
+D$8H
+[]A\A]A^
+[]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+AUATUSH
+_AXH
+[]A\A]
+AUATUSH
+D$81
+[]A\A]
+AUATUSH
+[]A\A]
+[]A\A]
+]A\A]
+]A\A]
+ATUE1
+t_[L
+[]A\
+tSUS1
+USt*
+AWAVAUATUSH
+D$H1
+D$HdH3
+X[]A\A]A^A_
+L$ H
+T$(H
+d$(D
+\$ 1
+D$(E1
+D$4Pj
+D$@P
+|$LH
+d$ M
+Hct$
+t$0D
+t$8H
+ATUSH
+ []A\
+P<Y^H
+StBH
+ATUS
+tEE1
+tEE1
+[]A\
+[]A\
+t&SH
+AWAVH
+AUAT1
+L;`@tbH
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATI
+t2L90
+[]A\A]A^A_
+([]A\A]A^A_
+t#SH
+t+SH
+ATUI
+@0]A\
+AWAVAUATI
+L$8H
+l$8H
+l$8H
+\$8H
+T$@1
+D$@H
+[]A\A]A^A_
+\$@H
+t	H;
+D$ I
+|$ H
+|$ L
+D9t$
+D$`H
+|$`H
+D$ H
+D$ H
+L;d$
+D$(L
+T$@1
+D$@H
+l$`H
+\$@H
+AVAUI
+ATUI
+[]A\A]A^
+]A\A]A^
+[]A\A]A^
+ []A\A]A^
+]A\A]A^
+[]A\A]A^1
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+AUATUSH
+M;,$t
+t%M;,$t
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+D$X1
+L$,L
+D$(1
+t$0H
+t$,D
+t$@H
+d$HD
+D$XdH3
+h[]A\A]A^A_
+ATUSH
+D$H1
+t$ H
+D$ H
+D$0H
+D$HdH3
+P[]A\
+AUATUSH
+D$81
+L$8dH3
+H[]A\A]
+AUATUSH
+D$81
+{`E1
+L$8dH3
+H[]A\A]
+gfff
+AVAUI
+ATUI
+[]A\A]A^
+ATUSH
+t.L;e
+[]A\1
+[]A\
+[]A\
+t{ATUSH
+[]A\
+[]A\
+AVAUATUSH
+ uEM
+]A\A]A^
+AVAUI
+ATUSH
+[]A\A]A^
+]A\A]A^
+ATUStWH
+[]A\
+t^USH
+t<USH
+{`t.H
+t3USH
+AWAVI
+AUATI
+A9V|}
+[]A\A]A^A_
+[]A\A]A^A_
+t+SH
+t+SH
+ATUH
+[]A\
+AVAUATUS
+t"[]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+AVAUATUH
+[]A\A]A^
+[]A\A]A^
+AUATH
+[]A\A]
+[]A\A]
+t3SH
+t#S1
+AUATUSH
+D$H1
+T$ 1
+D$ H
+D$(H
+D$0H
+D$HdH3
+X[]A\A]
+T$ 1
+D$ H
+D$(H
+D$0H
+AWAVAUATUSH
+[]A\A]A^A_
+t,L)
+t;USH
+AVAUI
+ATUI
+]A\A]A^
+]A\A]A^
+]A\A]A^
+ []A\A]A^
+[]A\A]A^
+[]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+t+USH
+AWAVAUATI
+[]A\A]A^A_
+AVAUATUI
+XZE1
+[]A\A]A^
+AVAUI
+ATUH
+ []A\A]A^
+]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+tkATUSH
+ATUI
+[]A\H
+AVAUI
+ATUI
+[]A\A]A^
+ []A\A]A^
+*[]A\A]A^
+[]A\A]A^1
+AUATI
+[]A\A]
+[]A\A]
+AUATUSH
+[]A\A]
+AWAVAUATI
+([]A\A]A^A_
+AUATI
+[]A\A]
+ATUI
+[]A\
+AVAUI
+ATUI
+[]A\A]A^
+ []A\A]A^
+*[]A\A]A^
+[]A\A]A^1
+AUATI
+[]A\A]
+[]A\A]
+USt-
+AWAVAUATUSH
+[]A\A]A^A_
+ATUI
+[]A\
+[]A\
+AWAVI
+AUATM
+AUh 
+[]A\A]A^A_
+Eleele
+AVAUI
+ATUI
+AUh 
+[]A\A]A^
+AUATI
+AUh 
+[]A\A]
+AWAVAUATI
+|$ H
+[]A\A]A^A_
+AWAVAUATI
+D$hL
+L$pdH
+D$T9D$ 
+t$(H
+D;l$
+D$hH
+\$XH
+|$`H
+A Santa lives evil at NASA
+[]A\A]A^A_
+|$HD
+t+D9
+\$ H
+T$0H
+|$(H
+D$XH
+T$@H
+d$TH
+AWAVAUATI
+T$hH
+L$pdH
+D$T9D$ 
+t$(H
+D;l$
+D$hH
+\$XH
+|$`H
+[]A\A]A^A_
+|$HD
+t+D9
+\$ H
+T$0H
+|$(H
+D$XH
+T$@H
+d$TH
+AWAVI
+AUATI
+AUh 
+[]A\A]A^A_
+AVAUI
+ATUH
+ZYtQE1
+]A\A]A^
+AUATI
+[]A\A]
+AWAVI
+AUATI
+|$PdH
+|$PH
+|$PH
+|$PH
+t(@H
+E9e(
+A9m8
+|$PH
+[]A\A]A^A_
+AWAVAUATI
+|$PH
+t(@H
+E9e(
+A9m8
+|$PH
+[]A\A]A^A_
+AVAUATUSH
+ uEM
+]A\A]A^
+AVAUATUSH
+ uEM
+]A\A]A^
+ATUH
+[]A\
+USt%
+ATUH
+[]A\
+AWAVI
+AUATE1
+D$81
+$$E1
+L$ K
+L$(K
+ L9$$u
+} E1
+$tmHc
+D$8dH3
+H[]A\A]A^A_
+USt%
+AWAVAUATUSH
+|$hH
+D$T9D$ 
+t$(H
+D;l$
+|$pI
+L$xH
+T$pH
+|$HD
+t+D9
+\$ H
+T$0H
+|$(H
+D$XH
+T$@H
+d$TH
+|$ H
+\$X1
+[]A\A]A^A_
+AWAVAUATUSH
+D$\9D$(
+t$0H
+D;l$
+D$ H
+|$PD
+t-D9
+\$(H
+T$8H
+|$0H
+D$`H
+T$HH
+T$ H
+d$\H
+d$0ATH
+l$pL
+\$xH
+[]A\A]A^A_
+AUATI
+[]A\A]
+ATUI
+[]A\H
+AUATI
+[]A\A]
+AWAVAUATUSH
+D$ H
+T$(H
+t$ H
+[]A\A]A^A_
+<$E1
+\$0H
+T$8H
+t$0H
+E9e(
+A9m8
+D9t$
+|$pH
+AVAUI
+ATUI
+t$@L
+[]A\A]A^
+AVAUI
+ATUI
+t$@L
+[]A\A]A^
+AWAVAUATUSH
+D$ H
+L$$L
+D$8H
+L$0H
+t$(_AXH
+[]A\A]A^A_
+<$E1
+|$pH
+|$pH
+\$0H
+T$8H
+t$0H
+E9e(
+A9m8
+D9t$
+|$pH
+|$(H
+AUATI
+[]A\A]
+AUATI
+[]A\A]
+AVAUATUI
+[]A\A]A^
+|$ H
+AUATI
+[]A\A]
+AWAV
+AUAT
+[]A\A]A^A_
+ATUI
+[]A\H
+jDE1
+jDE1
+j@j@1
+j@j@E1
+[]E1
+God A red nugget A fat egg under a dog
+USt*
+AWAVAUATUSH
+[]A\A]A^A_
+ATUSt7H
+[]A\
+ATUStoH
+[]A\
+[]A\
+ATUSt7H
+[]A\
+AVAUE
+ATUI
+]A\A]A^
+[]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+AUATUS
+[]A\A]
+[]A\A]
+AVAUI
+ZY[]A\A]A^
+AVAUI
+]A\A]A^
+ATUA
+[]A\
+USt*
+tB[1
+tbUS
+AWAV
+AUAT
+[]A\A]A^A_
+AWAVAUATUSH
+D$h1
+L$ L
+D$0H
+t$(H
+\$HL
+T$@H
+L$8L
+|$8M
+T$X1
+l$XH
+D$hdH3
+x[]A\A]A^A_
+D$`A
+D$xPj
+|$@L
+T$T1
+t$TH
+T$XL
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+AWAV
+AUATUSH
+d$@dH
+t$pH
+D$@H
+D$pH
+D$HH
+D$xH
+D$PH
+D$XH
+D$`H
+D$hH
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+L$ f
+|$0fA
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+t$ f
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+L$(L
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+|$0L
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+t$ f
+[]A\A]A^A_
+|$ f
+D$ H
+ATUS
+[]A\
+ATUA
+C8uwH
+[]A\
+t3SH
+ATUSf
+T$`H
+t$XH
+|$@f
+L$PH
+T$xH
+t$pH
+D$@H
+T$HH
+]D$p
+]T$xH
+[]A\
+AVAUATUSH
+T$(H
+t$ H
+t$0H
+T$8H
+t$PA
+t$HD)
+D$@A
+\$DH
+Beeb
+\$dD
+l$hH
+D$lH
+T$hH
+D$`H
+T$xH
+[]A\A]A^
+ATUStGH
+[]A\
+ATUSH
+[]A\
+@8H9
+tqUSH
+AWAVAUATUSH
+T$ 1
+D$ H
+[]A\A]A^A_
+ATUH
+L; H
+[]A\
+L; H
+[]A\
+AUATI
+[]A\A]
+AVAUATUS
+E0E1
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+AWAVAUATUSH
+D$h1
+@0E1
+C0E1
+C0E1
+C0E1
+T$@1
+C0E1
+L$hdH3
+x[]A\A]A^A_
+T$@1
+|$@H
+T$ 1
+C0E1
+C0E1
+C0E1
+D$ A
+@0P@C
+ATUSH
+ []A\
+tCUSH
+t6SH
+AWAVAUATUSH
+ZYu~
+([]A\A]A^A_
+ATUI
+[]A\
+AVAUI
+ATUI
+ []A\A]A^
+[]A\A]A^
+]A\A]A^
+[]A\A]A^
+[]A\A]A^1
+AUATI
+[]A\A]
+[]A\A]
+AVAUATUSH
+ []A\A]A^
+[]E1
+AVAUI
+ZYt6E1
+]A\A]A^
+ATUA
+[]A\
+AVAUATUSH
+ uEM
+]A\A]A^
+USt*
+AWAVI
+AUATUS
+|$ dH
+[]A\A]A^A_
+AWAVAUATUSH
+([]A\A]A^A_
+AVAUE
+ATUI
+]A\A]A^
+[]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+Uj@E1
+Pj@E1
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+AWAVAUATUSH
+t$4dH
+D$h1
+L$XH
+T$`H
+\$X1
+\$XH
+AYAZ1
+L$hdH3
+x[]A\A]A^A_
+D$X1
+D$\P
+D$@A[A\H
+|$4H
+D$LH
+L$XH
+T$8H
+t$4L
+l$XH
+D$HE
+d$LH
+t$(D
+b(E1
+t$`H
+d$`M
+d$`M
+t$LE
+L$XH
+T$`H
+l$`D
+l$X1
+L$`1
+d$`M
+b8E1
+L$(E1
+l$0E
+l$XM
+t$`1
+D$X1
+D$\P
+d$dD
+T$ H
+t$`1
+ATU1
+[]A\
+[]A\
+t^USH
+AUATA
+[]A\A]
+[]A\A]
+USt%
+ATUSH
+D$H1
+|$ H
+D$(H
+|$ H
+T$8H
+|$0H
+L$HdH3
+P[]A\
+AUATH
+D$H1
+D$ H
+D$(H
+D$0H
+L$HdH3
+X[]A\A]
+AVAU
+ATUI
+l$@H
+D$ H
+D$(H
+D$0H
+|$XL
+L$HL
+D$PH
+t$`L
+L$hH
+[]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+\$`H
+L9d$
+|$8H
+t$@L
+T$ L
+L$(L
+D$0H
+L$HH
+T$PH
+D$XH
+|$xH
+T$`L
+L$hL
+D$pH
+D$`H
+D$hH
+D$pH
+D$xH
+\$`H
+D$`H
+D$hH
+D$pH
+D$xH
+D$`L
+D$hL
+D$pH
+D$xH
+USt%
+ATUH
+SHc6I
+P8[]A\
+$Hcu
+ATUS
+L; t
+L; t
+AUATUSH
+[]A\A]
+StJH
+t{USH
+ATUI
+[]A\
+AWAVAUATUSH
+l$ M
+H9l$
+t$@H
+|$8L
+T$ L
+L$(L
+D$0H
+L$HH
+T$PH
+D$XH
+|$xH
+T$`L
+L$hL
+D$pH
+t$hL
+D$`H
+D$hH
+D$pH
+<$E1
+[]A\A]A^A_
+ATUSH
+[]A\
+[]A\
+[]A\
+[]A\
+AUATUSH
+[]A\A]
+|$HI
+l$H1
+AWAVI
+AUAT
+|$ H
+\$ H
+|$@H
+\$@H
+|$`H
+D$ H
+\$`H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+D$pH
+D$xH
+[]A\A]A^A_
+AVAUI
+|$0H
+t$pH
+|$PH
+\$0H
+D$PH
+D$XH
+D$ H
+D$`H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$xH
+[]A\A]A^
+ATUI
+|$0H
+t$pH
+|$PH
+\$0H
+D$PH
+D$XH
+D$ H
+D$`H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$xH
+[]A\
+ATUS
+Y[]A\
+AUATI
+[]A\A]
+ATUSH
+[]A\
+t[SH
+t+SH
+ATUS
+ti[]A\
+tX[]A\
+[]A\H
+USt*
+ATUStgH
+[]A\
+ATU1
+-p\"
+t	H;
+[]A\
+[]A\
+AVAUATUA
+t	H;
+=LZ"
+[]A\A]A^
+A\A]A^
+[]A\A]A^
+t=[]A\A]A^
+AUATI
+]A\A]
+[]A\A]
+AVAUATUS
+]A\A]A^
+t	H;
+AVAUI
+ATUH
+[]A\A]A^
+[]A\H
+[]A\H
+AWAVI
+AUATUSH
+[]A\A]A^A_
+D$PH
+|$`H
+D$XH
+|$ H
+D$hH
+D$(H
+D$pH
+D$0H
+D$xH
+D$8H
+D$@H
+AWAVI
+AUAT
+|$ H
+|$@H
+|$`H
+D$`H
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+D$pH
+D$xH
+[]A\A]A^A_
+AWAVI
+AUAT
+|$ H
+t$ H
+|$0I
+|$@H
+t$@H
+|$PI
+|$`H
+|$pL
+t$`H
+D$pH
+D$xH
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+[]A\A]A^A_
+ATUI
+[]A\
+AWAVAUATI
+|$`I
+|$8H
+D$(I
+D$ H
+D$ I
+D$0I
+D$ H
+D$ I
+D$HI
+D$ I
+\$8H
+D$pI
+D$8I
+|$`H
+T$8I
+D$`H
+|$`I
+|$`I
+|$8H
+D$ H
+D$ I
+D$ H
+D$ I
+|$`I
+|$8H
+|$ H
+|$ 1
+|$`I
+|$8H
+[]A\A]A^A_
+|$`I
+|$8H
+|$81
+|$ I
+|$ I
+|$ 1
+|$ A
+|$ I
+|$8I
+|$8I
+|$ I
+|$ A
+|$ I
+|$ A
+D$ I
+|$8H
+AXAY
+|$ I
+|$ I
+D$ I
+D$ I
+|$8I
+|$ I
+|$ A
+|$8I
+|$ I
+|$ A
+|$8I
+|$ I
+AUATI
+[]A\A]
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVAUATUSH
+t	H;
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+D$81
+Hc@xH
+l$ D
+t$(D
+|$,H
+(;Yx|
+t$8D
+L$<D
+D$8H
+T$(H
+t$8dH34%(
+H[]A\A]A^A_
+AWAVAUATUSH
+L$81
+|$(H
+D$(H
+D$$H
+t$$H
+|$8E
+D$8dH3
+H[]A\A]A^A_
+l$4I
+L;t$
+t$$H
+AWAVAUATI
+|$xI
+[]A\A]A^A_
+tsSH
+0u"H
+AWAVAUATUSH
+([]A\A]A^A_
+t{ATUSH
+[]A\
+t{ATUSH
+[]A\
+ATUSH
+L; tfL
+[]A\
+L; t#L
+ATUI
+@0]A\
+AVAUATUI
+ []A\A]A^
+AVAUI
+ATUH
+]A\A]A^
+]A\A]A^
+]A\A]A^
+ []A\A]A^
+]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+@00ND
+AWAVA
+AUATL
+[]A\A]A^A_
+self != NULL
+progress
+animate
+speed
+AnimateTimer
+is-running
+property
+animate-timer.c
+%s:%d: invalid %s id %u for "%s" of type '%s' in '%s'
+animate_timer_get_progress
+animate_timer_get_is_running
+animate_timer_set_speed
+animate_timer_get_speed
+animate_timer_get_easing_func
+animate_timer_stop
+animate_timer_set_progress
+animate_timer_animate_cb
+animate_timer_reset
+animate_timer_set_easing_func
+background.c
+' for value type `
+invalid object type `
+default-background
+draw-grid
+color_a != NULL
+color_b != NULL
+filename
+loaded
+pixbuf != NULL
+STRING
+target_surface != NULL
+Making background %s at %dx%d
+,%dx%d
+background.vala:68: %s
+background-loader
+BackgroundLoader
+monitor != NULL
+allocation != NULL
+background != NULL
+BackgroundDrawFlags
+notify::current-background
+version_logo != NULL
+background_logo != NULL
+background-color
+BACKGROUND_DRAW_FLAGS_NONE
+none
+BACKGROUND_DRAW_FLAGS_GRID
+background.vala:455: Failed to load background component %s: %s
+file %s: line %d: uncaught error: %s (%s, %d)
+background.vala:159: Error loading background: %s
+invalid unclassed object pointer for value type `
+value location for `%s' passed as NULL
+background.vala:138: images[%d] was null for %s
+background.vala:121: Render of background %s complete
+_GNOME_BACKGROUND_REPRESENTATIVE_COLORS
+background.vala:79: Render of background %s complete
+g_type_is_a (object_type, TYPE_MONITOR)
+G_TYPE_CHECK_VALUE_TYPE (value, TYPE_MONITOR)
+G_TYPE_CHECK_INSTANCE_TYPE (v_object, TYPE_MONITOR)
+g_value_type_compatible (G_TYPE_FROM_INSTANCE (v_object), G_VALUE_TYPE (value))
+background.vala:483: Regenerating backgrounds
+background_real_size_allocate
+background_real_draw
+background_get_average_color
+background_get_alpha
+background_set_draw_grid
+background_get_draw_grid
+background_set_current_background
+background_get_current_background
+background_set_default_background
+background_get_default_background
+background_draw_background
+background_draw_full
+background_set_active_monitor
+background_set_monitors
+background_load_image
+background_set_logo
+background_animate_cb
+string_get_data
+background_publish_average_color
+background_set_alpha
+background_monitor_is_unique_size
+background_load_background
+background_reload
+background_construct
+value_take_monitor
+value_set_monitor
+value_get_monitor
+param_spec_monitor
+monitor_equals
+background_loader_set_logo
+background_loader_get_logo
+background_loader_get_filename
+background_loader_get_pattern
+background_loader_is_color_different
+background_loader_get_pixbuf_sample
+background_loader_get_quad_average
+background_loader_pixbuf_average_value
+background_loader_ready_cb
+background_loader_load_and_scale
+background_loader_load
+background_loader_set_filename
+background_loader_construct
+333333
+pixbuf
+CachedImage
+cached_image_real_draw
+cached_image_get_cached_surface
+CairoUtilsExponentialBlur
+g_type_is_a (object_type, CAIRO_UTILS_TYPE_EXPONENTIAL_BLUR)
+G_TYPE_CHECK_VALUE_TYPE (value, CAIRO_UTILS_TYPE_EXPONENTIAL_BLUR)
+G_TYPE_CHECK_INSTANCE_TYPE (v_object, CAIRO_UTILS_TYPE_EXPONENTIAL_BLUR)
+cairo_utils_value_take_exponential_blur
+cairo_utils_value_set_exponential_blur
+cairo_utils_value_get_exponential_blur
+cairo_utils_param_spec_exponential_blur
+cairo_utils_exponential_blur_surface
+cairo_utils_rounded_rectangle
+?_tmp8_
+_tmp12_
+_tmp16_ <= _tmp17_
+EmailAutocompleter
+g_type_is_a (object_type, TYPE_EMAIL_AUTOCOMPLETER)
+G_TYPE_CHECK_VALUE_TYPE (value, TYPE_EMAIL_AUTOCOMPLETER)
+G_TYPE_CHECK_INSTANCE_TYPE (v_object, TYPE_EMAIL_AUTOCOMPLETER)
+value_take_email_autocompleter
+value_set_email_autocompleter
+value_get_email_autocompleter
+param_spec_email_autocompleter
+string_slice
+string_index_of
+email_autocompleter_entry_changed
+email_autocompleter_construct
+fade-done
+has-base
+bg != NULL
+Borrow or rob
+size-allocate
+notify::alpha
+_tmp0_ == NULL
+_tmp1_ != NULL
+_tmp0_ != NULL
+DashBox
+dash-box.c
+_tmp1_ == DASH_BOX_MODE_NORMAL
+_tmp2_ == DASH_BOX_MODE_NORMAL
+dash_box_real_draw
+dash_box_set_background
+dash_box_get_base_alpha
+dash_box_get_has_base
+dash_box_get_background
+dash_box_pop
+dash_box_push
+dash_box_set_has_base
+dash_box_set_base_alpha
+dash_box_base_size_allocate_cb
+dash_box_fade_done_cb
+dash_box_set_base
+dash_box_construct
+?fade-tracker
+arrow_right.png
+/usr/share/unity-greeter
+dash-button.c
+text != NULL
+DashButton
+<span font="Ubuntu 13">%s</span>
+dash-button.vala:77: Internal error loading session chooser style: %s
+dash-button.vala:61: Error loading image %s: %s
+* {padding: 6px 8px 6px 8px;
+                                      -GtkWidget-focus-line-width: 0px;
+                                     }
+dash_button_real_draw
+dash_button_set_text
+dash_button_get_text
+dash_button_construct
+focus-event
+placeholder_text_color
+#888
+Ubuntu 13
+activate
+constant-placeholder-text
+did-respond
+DashEntry
+Ubuntu 14
+notify::can-respond
+button-press-event
+* {padding-right: %dpx;}
+dash-entry.c
+dash-entry.vala:88: Internal error loading padding style: %s
+dash-entry.vala:70: Internal error loading arrow icon: %s
+dash_entry_real_draw
+dash_entry_real_size_allocate
+dash_entry_real_key_press_event
+dash_entry_get_arrow_size
+dash_entry_set_did_respond
+dash_entry_get_did_respond
+dash_entry_set_can_respond
+dash_entry_get_can_respond
+dash_entry_set_constant_placeholder_text
+dash_entry_get_constant_placeholder_text
+dash_entry_button_press_event_cb
+FadeTrackerMode
+widget != NULL
+FadeTracker
+fadable.c
+Fadable
+FADE_TRACKER_MODE_FADE_IN
+fade-in
+FADE_TRACKER_MODE_FADE_OUT
+fade-out
+fadable_set_fade_tracker
+fadable_get_fade_tracker
+fade_tracker_set_widget
+fade_tracker_get_widget
+fade_tracker_set_alpha
+fade_tracker_get_alpha
+fade_tracker_animate_cb
+fade_tracker_reset
+fade_tracker_construct
+FadableBox
+fade_done
+fadable-box.c
+fadable_box_real_draw_full_alpha
+fadable_box_real_draw
+fadable_box_draw_full_alpha
+label
+FadingLabel
+fading_label_real_size_allocate
+fading_label_real_draw
+fading_label_construct
+5@FlatButton
+flat-button.c
+* {-GtkButton-child-displacement-x: 0px;
+                                      -GtkButton-child-displacement-y: 0px;
+                                      -GtkWidget-focus-line-width: 1px;
+                                      }
+flat-button.vala:38: Internal error loading session chooser style: %s
+flat_button_real_button_press_event
+flat_button_real_button_release_event
+entry-selected
+ubuntu
+EntrySelected
+selected-entry
+entry != NULL
+list != NULL
+ListDBusInterface
+vala-dbus-register-object
+greeter-list.c
+/list
+res != NULL
+entry_selected
+GreeterListMode
+GreeterListScrollTarget
+mb != NULL
+menubar
+Enter password for %s
+texts != NULL
+id != NULL
+*other
+*guest
+expand
+name-clicked
+entry_name != NULL
+GetActiveEntry
+SetActiveEntry
+prefix != NULL
+entry-displayed-start
+entry-displayed-done
+show-message
+show-prompt
+authentication-complete
+Logging in
+Failed to start session
+Failed to authenticate
+pspec != NULL
+start-scrolling
+always-show-manual
+manual-name
+Password: 
+Password:
+Username:
+GreeterList
+entry_displayed_start
+entry_displayed_done
+can-focus
+notify::base-alpha
+GREETER_LIST_SCROLL_TARGET_UP
+GREETER_LIST_MODE_ENTRY
+GREETER_LIST_MODE_SCROLLING
+entry_name
+result
+com.canonical.UnityGreeter.List
+Type `%s' does not implement abstract method `greeter_list_add_manual_entry'
+Type `%s' does not implement abstract method `greeter_list_show_authenticated'
+file %s: line %d: unexpected error: %s (%s, %d)
+greeter-list.vala:210: Error registering user list dbus object: %s
+Invalid password, please try again
+GREETER_LIST_SCROLL_TARGET_START
+GREETER_LIST_SCROLL_TARGET_END
+GREETER_LIST_SCROLL_TARGET_DOWN
+greeter_list_real_insert_entry
+greeter_list_allocate_greeter_box
+greeter_list_real_size_allocate
+greeter_list_real_draw
+greeter_list_real_show_prompt_cb
+greeter_list_start_session
+greeter_list_background_loaded_cb
+greeter_list_set_menubar
+greeter_list_set_background
+greeter_list_animate_scrolling
+greeter_list_on_bus_acquired
+greeter_list_set_manual_name
+greeter_list_get_manual_name
+greeter_list_set_always_show_manual
+greeter_list_get_always_show_manual
+greeter_list_set_start_scrolling
+greeter_list_get_start_scrolling
+greeter_list_get_selected_entry
+greeter_list_get_menubar
+greeter_list_get_background
+greeter_list_test_start_authentication
+greeter_list_get_lightdm_session
+greeter_list_login_complete
+greeter_list_start_authentication
+greeter_list_authentication_complete_cb
+greeter_list_show_prompt_cb
+greeter_list_show_message_cb
+greeter_list_connect_to_lightdm
+greeter_list_setup_prompt_box
+greeter_list_set_selected_entry
+greeter_list_set_scrolling_entry
+greeter_list_select_entry
+greeter_list_move_entry
+greeter_list_move_names
+greeter_list_greeter_box_size_allocate_cb
+greeter_list_get_position_y
+greeter_list_get_box_y
+greeter_list_get_greeter_box_y
+greeter_list_get_greeter_box_x
+greeter_list_get_greeter_box_height_grids
+greeter_list_get_greeter_box_height
+greeter_list_remove_entry_by_entry
+greeter_list_remove_entries_with_prefix
+greeter_list_remove_entry
+greeter_list_set_active_first_entry_with_prefix
+greeter_list_set_active_entry
+greeter_list_entry_clicked_cb
+greeter_list_add_entry
+greeter_list_add_manual_entry
+greeter_list_insert_entry
+greeter_list_have_entries
+greeter_list_compare_entry
+greeter_list_find_entry
+greeter_list_show_authenticated
+greeter_list_focus_prompt
+greeter_list_add_combo
+greeter_list_add_prompt
+greeter_list_show_message
+greeter_list_redraw_greeter_box
+greeter_list_add_with_class
+greeter_list_scroll
+greeter_list_cancel_authentication
+greeter_list_construct
+greeter_list_get_selected_id
+list_dbus_interface_set_active_entry
+list_dbus_interface_get_active_entry
+list_dbus_interface_construct
+333333
+?dpy != NULL
+IDLETIME
+IdleMonitor
+IdleMonitorWatch
+watch != NULL
+idle-monitor.vala:76: IdleMonitor: Unable to initialize Sync extension
+idle-monitor.vala:59: Only support idle monitor under X
+idle-monitor.vala:68: IdleMonitor: Sync extension not present
+g_type_is_a (object_type, TYPE_IDLE_MONITOR)
+G_TYPE_CHECK_VALUE_TYPE (value, TYPE_IDLE_MONITOR)
+G_TYPE_CHECK_INSTANCE_TYPE (v_object, TYPE_IDLE_MONITOR)
+g_type_is_a (object_type, TYPE_IDLE_MONITOR_WATCH)
+G_TYPE_CHECK_VALUE_TYPE (value, TYPE_IDLE_MONITOR_WATCH)
+G_TYPE_CHECK_INSTANCE_TYPE (v_object, TYPE_IDLE_MONITOR_WATCH)
+value_take_idle_monitor_watch
+value_set_idle_monitor_watch
+value_get_idle_monitor_watch
+param_spec_idle_monitor_watch
+value_take_idle_monitor
+value_set_idle_monitor
+value_get_idle_monitor
+param_spec_idle_monitor
+idle_monitor_remove_watch
+idle_monitor_add_user_active_watch
+idle_monitor_make_watch
+idle_monitor_add_idle_watch
+idle_monitor_xsync_alarm_set
+idle_monitor_fire_watch
+idle_monitor_ensure_alarm_rescheduled
+idle_monitor_set_alarm_enabled
+idle_monitor_xevent_filter
+num-children
+pushed != NULL
+ListStack
+list-stack.c
+list_stack_real_size_allocate
+list_stack_get_num_children
+list_stack_pop
+list_stack_push
+list_stack_top
+screen != NULL
+closed
+MainWindow
+Login Screen
+background-logo
+shadow.png
+main-window.c
+Back
+arrow_left.png
+monitors-changed
+main-window.vala:193: Monitor %d is %dx%d pixels at %d,%d
+main-window.vala:185: Screen is %dx%d pixels
+main-window.vala:297: Hidden user key combination detected
+background-image: url('%s');
+                            background-repeat: repeat;
+* {background-color: transparent;
+                                      %s
+                                     }
+main-window.vala:89: Internal error loading menubox style: %s
+main_window_real_size_allocate
+main_window_real_motion_notify_event
+main_window_real_key_press_event
+main_window_monitors_changed_cb
+main_window_close_shutdown_dialog
+main_window_move_to_monitor
+main_window_show_shutdown_dialog
+main_window_set_keyboard_state
+main_window_pop_list
+main_window_push_list
+?Menu
+menu.c
+menu_real_draw
+menu_set_background
+menu_get_background
+menu_construct
+keyboard-window
+accel-group
+key != NULL
+org.freedesktop.DBus
+/org/freedesktop/DBus
+val != NULL
+{ss}
+(a{ss})
+UpdateActivationEnvironment
+menubar.c
+object != NULL
+HighContrastInverse
+gtk-theme-name
+item != NULL
+onboard --xid
+onscreen-keyboard
+screen-reader
+show
+hide
+IndicatorMenuItem
+ag != NULL
+MenuBar
+show-hostname
+INDICATOR_GREETER_MODE
+local
+GIO_USE_VFS
+GVFS_DISABLE_FUSE
+RUNNING_UNDER_GDM
+ug-keyboard
+LANG
+LANGUAGE
+a11y.svg
+Onscreen keyboard
+toggled
+High Contrast
+Screen Reader
+/usr/share/unity/indicators
+desktop_greeter
+/usr/lib/indicators3/7/
+entry-added
+entry-removed
+starting-session
+UNITY_GREETER_DBUS_NAME
+ug-accessibility
+indicator_name != NULL
+/com.canonical.indicator.
+Do nine men interpret Nine men I nod
+menubar.vala:204: Could not get set environment for indicators: %s
+menubar.vala:407: Error setting up keyboard: %s
+orca --replace --no-setup --disable splash-window,
+menubar.vala:485: Failed to run Orca: %s
+menubar.vala:557: Indicator object %p not in menubar
+menubar.vala:545: Removing indicator object %p
+menubar.vala:537: Adding indicator object %p at position %d
+* {-GtkWidget-window-dragging: false;}
+menubar.vala:151: Internal error loading menubar style: %s
+menubar.vala:332: Could not set DBUS_NAME: %s
+com.canonical.indicator.keyboard
+menubar.vala:367: LANG=%s LANGUAGE=%s
+menubar.vala:263: unable to load %s: %s
+menubar.vala:335: LANG=%s LANGUAGE=%s
+menu_bar_real_draw
+menu_bar_set_accel_group
+menu_bar_set_background
+menu_bar_get_indicator_index
+menu_bar_get_indicator_object_from_entry
+menu_bar_indicator_added_cb
+string_to_string
+menu_bar_set_keyboard_window
+menu_bar_keyboard_toggled_cb
+menu_bar_set_high_contrast
+menu_bar_high_contrast_toggled_cb
+menu_bar_screen_reader_toggled_cb
+menu_bar_indicator_removed_cb
+menu_bar_load_indicator
+menu_bar_greeter_set_env
+__lambda15_
+menu_bar_get_accel_group
+menu_bar_get_keyboard_window
+menu_bar_get_high_contrast
+menu_bar_get_background
+menu_bar_close_pid
+menu_bar_cleanup
+menu_bar_set_keyboard_state
+menu_bar_construct
+indicator_menu_item_visibility_changed_cb
+indicator_menu_item_has_visible_child
+indicator_menu_item_construct
+button != NULL
+show-options
+w != NULL
+message.png
+prompt-box.c
+option-button
+Session Options
+prompt-box-is-error
+n_param_values == 3
+zone != NULL
+prompt-box-widget
+lightdm-combo
+has-errors
+#df382c
+Ubuntu 10
+caps-lock-warning
+_tmp12_ <= _tmp13_
+position
+show_options
+name_clicked
+ActiveIndicator
+button-release-event
+active.png
+notify::active
+xalign
+prompt-box.vala:193: Error loading message image: %s
+Degas are we not drawn onward no In union drawn onward to new eras aged
+(_tmp17_ + _tmp18_) <= _tmp19_
+prompt-box.vala:634: Could not load active image: %s
+active_indicator_real_draw
+active_indicator_set_active
+active_indicator_get_active
+prompt_box_option_button_clicked_cb
+prompt_box_round_to_grid
+__lambda39_
+prompt_box_real_size_allocate
+prompt_box_real_draw_full_alpha
+prompt_box_set_id
+g_cclosure_user_marshal_VOID__BOXED_INT
+prompt_box_set_position
+prompt_box_get_position
+prompt_box_set_label
+prompt_box_get_label
+prompt_box_get_id
+prompt_box_set_has_errors
+prompt_box_get_has_errors
+prompt_box_button_clicked_cb
+prompt_box_add_button
+__lambda37_
+prompt_box_entry_activate_cb
+__lambda38_
+prompt_box_add_combo
+string_substring
+string_index_of_nth_char
+__lambda36_
+prompt_box_add_prompt
+prompt_box_add_message
+prompt_box_attach_item
+__lambda35_
+prompt_box_show_prompts
+prompt_box_update_prompt_visibility
+__lambda34_
+prompt_box_fade_in_prompts
+prompt_box_add_static_prompts
+prompt_box_reset_state
+__lambda33_
+prompt_box_reset_spinners
+__lambda32_
+prompt_box_reset_messages
+__lambda31_
+prompt_box_clear
+prompt_box_foreach_prompt_widget
+prompt_box_set_is_active
+prompt_box_set_show_message_icon
+prompt_box_set_options_image
+prompt_box_set_zone
+prompt_box_reset_last_row
+prompt_box_set_start_row
+prompt_box_create_small_name_grid
+prompt_box_create_name_grid
+prompt_box_construct
+default-session
+session-clicked
+SessionPrompt
+session-list.c
+ubuntu_badge.png
+ubuntu-2d
+gnome-classic
+gnome_badge.png
+gnome-flashback-compiz
+gnome-flashback-metacity
+gnome-shell
+gnome-wayland
+gnome
+kde_badge.png
+kde-plasma
+xterm
+recovery_console_badge.png
+remote-login
+custom_%s_badge.png
+remote_login_help.png
+unknown_badge.png
+session != NULL
+Select desktop environment
+GNOME
+Ubuntu
+notify::selected-key
+SessionList
+session_clicked
+session-list.vala:152: Error loading badge %s: %s
+session-list.vala:49: Adding session %s (%s)
+session_list_set_default_session
+session_list_set_session
+session_list_add_session_prompt
+session_list_get_default_session
+session_list_get_session
+session_list_get_badge
+session_list_construct
+session_prompt_set_default_session
+session_prompt_set_session
+session_prompt_selected_cb
+session_prompt_get_default_session
+session_prompt_get_session
+session_prompt_construct
+n_param_values == 6
+SetLastUsedServer
+com.canonical.RemoteLogin
+GetCachedDomainsForServer
+GetServers
+{?*}
+GetServersForLogin
+login-servers-updated
+login-changed
+LoginChanged
+a(sssba(sbva{sv})a(si))
+LoginServersUpdated
+a(sbva{sv})
+a(si)
+a{sv}
+RemoteServerField
+RemoteServerApplication
+RemoteServer
+RemoteLoginService
+vala-dbus-proxy-type
+vala-dbus-interface-name
+vala-dbus-interface-info
+login_servers_updated
+login_changed
+RemoteLoginServiceProxy
+emailAddress
+serverList
+dataType
+serverUrl
+uccsUrl
+domains
+loginSuccess
+allowCache
+g_cclosure_user_marshal_VOID__POINTER_INT
+g_cclosure_user_marshal_VOID__STRING_STRING_STRING_POINTER_INT
+g_cclosure_user_marshal_VOID__STRING_STRING
+com.canonical.unity-greeter
+UGSettings
+g_type_is_a (object_type, TYPE_UG_SETTINGS)
+G_TYPE_CHECK_VALUE_TYPE (value, TYPE_UG_SETTINGS)
+G_TYPE_CHECK_INSTANCE_TYPE (v_object, TYPE_UG_SETTINGS)
+value_take_ug_settings
+value_set_ug_settings
+value_get_ug_settings
+param_spec_ug_settings
+ug_settings_set_strv
+ug_settings_get_strv
+ug_settings_set_boolean
+ug_settings_get_string
+ug_settings_get_double
+ug_settings_get_integer
+ug_settings_safe_get_boolean
+ug_settings_get_boolean
+settings-daemon.vala:105: Failed to acquire name org.gnome.ScreenSaver
+settings-daemon.vala:78: Failed to acquire name org.gnome.SessionManager
+settings-daemon.vala:159: All bus names acquired, starting unity-settings-daemon
+/usr/lib/unity-settings-daemon/unity-settings-daemon
+settings-daemon.vala:167: Could not start unity-settings-daemon: %s
+settings-daemon.vala:102: Acquired org.gnome.ScreenSaver
+settings-daemon.vala:75: Acquired org.gnome.SessionManager
+settings-daemon.vala:70: Failed to register /org/gnome/SessionManager: %s
+settings-daemon.vala:97: Failed to register /org/gnome/ScreenSaver: %s
+settings-daemon.vala:209: Screensaver activated
+settings-daemon.vala:211: Screensaver disabled
+settings-daemon.vala:138: Failed to inhibit power keys: %s
+org.gnome.settings-daemon.plugins.background
+org.gnome.settings-daemon.plugins.clipboard
+org.gnome.settings-daemon.plugins.font
+org.gnome.settings-daemon.plugins.gconf
+org.gnome.settings-daemon.plugins.gsdwacom
+org.gnome.settings-daemon.plugins.housekeeping
+org.gnome.settings-daemon.plugins.keybindings
+org.gnome.settings-daemon.plugins.keyboard
+org.gnome.settings-daemon.plugins.media-keys
+org.gnome.settings-daemon.plugins.mouse
+org.gnome.settings-daemon.plugins.print-notifications
+org.gnome.settings-daemon.plugins.smartcard
+org.gnome.settings-daemon.plugins.sound
+org.gnome.settings-daemon.plugins.wacom
+org.gnome.settings-daemon.plugins.a11y-keyboard
+org.gnome.settings-daemon.plugins.a11y-settings
+org.gnome.settings-daemon.plugins.color
+org.gnome.settings-daemon.plugins.cursor
+org.gnome.settings-daemon.plugins.power
+org.gnome.settings-daemon.plugins.xrandr
+org.gnome.settings-daemon.plugins.xsettings
+Unity Greeter handling keypresses
+org.freedesktop.login1.Manager
+settings-daemon.c
+schema_name != NULL
+/org/gnome/SessionManager
+active-changed
+/org/gnome/ScreenSaver
+ActiveChanged
+org.gnome.ScreenSaver
+session-is-active
+session-name
+inhibited-actions
+idle-timeout
+SessionIsActive
+SessionName
+InhibitedActions
+SettingsDaemon
+summary != NULL
+body != NULL
+icon != NULL
+SetActive
+GetActive
+GetActiveTime
+Lock
+ShowMessage
+SimulateUserActivity
+ScreenSaverInterface
+active_changed
+SessionManagerInterface
+org.gnome.SessionManager
+block
+handle-power-key
+(ssss)
+Inhibit
+/org/freedesktop/login1
+org.freedesktop.login1
+value
+icon
+body
+summary
+session_manager_interface_get_inhibited_actions
+session_manager_interface_get_session_name
+session_manager_interface_get_session_is_active
+screen_saver_interface_simulate_user_activity
+screen_saver_interface_show_message
+screen_saver_interface_lock
+screen_saver_interface_get_active_time
+screen_saver_interface_get_active
+screen_saver_interface_set_active
+_screen_saver_interface_set_active
+settings_daemon_set_plugin_enabled
+__lambda8_
+settings_daemon_start_settings_daemon
+__lambda11_
+settings_daemon_start
+switcher_corner.png
+switcher_left.png
+switcher_top.png
+ShutdownDialogType
+shutdown-dialog.c
+move-focus
+ShutdownDialog
+Ubuntu Light 12
+inactive_filename != NULL
+focused_filename != NULL
+DialogButton
+margin
+Goodbye. Would you like to
+Shut Down
+Ubuntu Light 15
+Suspend
+suspend.png
+suspend_highlight.png
+Hibernate
+hibernate.png
+hibernate_highlight.png
+Restart
+restart.png
+restart_highlight.png
+shutdown.png
+shutdown_highlight.png
+dialog_close.png
+dialog_close_highlight.png
+dialog_close_press.png
+notify::average-color
+Sessions
+(ss)
+SHUTDOWN_DIALOG_TYPE_LOGOUT
+logout
+SHUTDOWN_DIALOG_TYPE_SHUTDOWN
+shutdown
+SHUTDOWN_DIALOG_TYPE_RESTART
+restart
+shutdown-dialog.vala:217: Failed to shutdown: %s
+shutdown-dialog.vala:200: Failed to restart: %s
+shutdown-dialog.vala:182: Failed to hibernate: %s
+shutdown-dialog.vala:165: Failed to suspend: %s
+* {padding: 0px 0px 0px 0px; border: 0px; }
+shutdown-dialog.vala:578: Internal error loading session chooser style: %s
+Are you sure you want to shut down the computer?
+shutdown-dialog.vala:134: Failed to check sessions from logind: %s
+Other users are currently logged in to this computer, shutting down now will also close these other sessions.
+org.freedesktop.DisplayManager
+org.freedesktop.DBus.Properties
+/org/freedesktop/DisplayManager
+dialog_button_real_enter_notify_event
+dialog_button_real_leave_notify_event
+dialog_button_real_draw
+dialog_button_construct
+shutdown_dialog_real_size_allocate
+shutdown_dialog_real_draw
+shutdown_dialog_cancel
+shutdown_dialog_focus_prev
+shutdown_dialog_focus_next
+shutdown_dialog_set_active_monitor
+shutdown_dialog_close
+shutdown_dialog_add_button
+?shutdown_dialog_update_background_color
+shutdown_dialog_rebuild_background
+shutdown_dialog_construct
+?default-key
+starting-key
+toggle-list-key
+%s (Default)
+* {padding: 8px;}
+toggle-box.c
+toggle-button
+label != NULL
+ToggleBox
+toggle-box.vala:119: Internal error loading session chooser style: %s
+toggle_box_real_draw
+toggle_box_set_starting_key
+toggle_box_set_default_key
+toggle_box_set_selected_key
+toggle_box_get_selected_key
+toggle_box_get_starting_key
+toggle_box_get_default_key
+toggle_box_select
+toggle_box_button_clicked_cb
+toggle_box_add_item
+unity-greeter.vala:135: Failed to acquire name com.canonical.Unity
+unity-greeter.vala:611: Got a SIGTERM
+unity-greeter.vala:240: starting system-ready sound
+/org/gnome/SessionManager/EndSessionDialog
+unity-greeter.vala:131: Failed to register /org/gnome/SessionManager/EndSessionDialog: %s
+org.gnome.SessionManager.EndSessionDialog
+unity-greeter.vala:163: Failed to write state: %s
+unity-greeter.vala:206: Session %s is not available, using system default %s instead
+unity-greeter.vala:217: Failed to start session: %s
+unity-greeter.vala:199: Successfully logged in! Quitting...
+unity-greeter.vala:257: Showing main window
+g_type_is_a (object_type, TYPE_UNITY_GREETER)
+G_TYPE_CHECK_VALUE_TYPE (value, TYPE_UNITY_GREETER)
+G_TYPE_CHECK_INSTANCE_TYPE (v_object, TYPE_UNITY_GREETER)
+/usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately
+unity-greeter.vala:493: Error starting the at-spi registry: %s
+unity-greeter.vala:502: Starting unity-greeter %s UID=%d LANG=%s
+unity-greeter.vala:505: Setting cursor
+unity-greeter.vala:519: Loading command line options
+unity-greeter.vala:544: Running in test mode
+unity-greeter.vala:547: Setting GTK+ settings
+unity-greeter.vala:570: Creating Unity Greeter
+unity-greeter.vala:57: Creating background surface
+unity-greeter.vala:98: Failed to load state from %s: %s
+unity-greeter.vala:573: Showing greeter
+upstart --user --startup-event indicator-services-start
+unity-greeter.vala:593: Error starting Upstart for indicators: %s
+unity-greeter.vala:616: Starting main loop
+unity-greeter.vala:619: Cleaning up
+unity-greeter.vala:627: Upstart exited with return value %d
+unity-greeter.vala:629: Upstart terminated with signal %d
+unity-greeter.vala:639: AT-SPI exited with return value %d
+unity-greeter.vala:641: AT-SPI terminated with signal %d
+unity-greeter.vala:645: Exiting
+Run '%s --help' to see a full list of available command line options.
+unity-greeter.vala:72: Failed to connect to LightDM daemon
+unity-greeter.vala:605: Error starting nm-applet: %s
+play-ready-sound
+system-ready
+event.id
+canberra.xdg-theme.name
+gxevent != NULL
+open-dialog
+close-dialog
+unity-greeter.c
+CloseDialog
+OpenDialog
+ERROR:
+CRITICAL:
+WARNING:
+MESSAGE:
+INFO:
+DEBUG:
+LOG:
+[%+.2fs] %s %s
+message != NULL
+value != NULL
+lightdm
+response != NULL
+show_message
+show_prompt
+authentication_complete
+starting_session
+Open
+Close
+DialogDBusInterface
+UBUNTU_MENUPROXY
+/usr/share/locale
+UTF-8
+atk-bridge
+GTK_MODULES
+16.04.2
+Show release version
+test-mode
+Run in test mode
+- Unity Greeter
+unity-greeter %s
+gtk-icon-theme-name
+gtk-font-name
+gtk-xft-dpi
+gtk-xft-antialias
+gtk-xft-hintstyle
+gtk-xft-rgba
+autologin-timer-expired
+XDG_SEAT
+seat0
+-state
+com.canonical.UnityGreeter
+com.canonical.Unity
+NM_APPLET_HIDE_POLICY_ITEMS
+nm-applet
+open_dialog
+close_dialog
+inhibitor_object_paths
+seconds_to_stay_open
+timestamp
+dialog_dbus_interface_close
+dialog_dbus_interface_open
+g_cclosure_user_marshal_VOID__STRING_ENUM
+value_take_unity_greeter
+value_set_unity_greeter
+value_get_unity_greeter
+param_spec_unity_greeter
+unity_greeter_focus_upon_map
+unity_greeter_create_root_surface
+__lambda57_
+__lambda58_
+__lambda62_
+__lambda63_
+unity_greeter_ready_cb
+unity_greeter_log_cb
+unity_greeter_has_guest_account_hint
+alula
+unity_greeter_hide_users_hint
+unity_greeter_show_remote_login_hint
+unity_greeter_show_manual_login_hint
+unity_greeter_select_user_hint
+unity_greeter_default_session_hint
+unity_greeter_authentication_user
+unity_greeter_respond
+unity_greeter_cancel_authentication
+unity_greeter_authenticate_remote
+unity_greeter_authenticate_as_guest
+unity_greeter_authenticate
+unity_greeter_is_authenticated
+unity_greeter_show
+unity_greeter_refresh_background
+unity_greeter_start_session
+unity_greeter_add_style_class
+unity_greeter_pop_list
+unity_greeter_push_list
+unity_greeter_set_state
+unity_greeter_get_state
+@different-prompt
+Secret word
+no-password
+auth-error
+Authentication Error
+Welcome to Unity Greeter
+long-info-prompt
+wide-info-prompt
+multi-info-prompt
+This is an error
+two-prompts
+Favorite Color (blue):
+user != NULL
+offer-guest
+show-hidden-users
+conn != NULL
+g-flags
+g-interface-info
+g-interface-name
+/com/canonical/RemoteLogin
+g-object-path
+g-bus-type
+username
+remote_server != NULL
+*remote_login*
+url != NULL
+email_address != NULL
+data_type != NULL
+draw-user-backgrounds
+Log In
+Login as %s
+Retry
+Retry as %s
+*remote_directory*
+*remote
+*remote_login
+session_internal_name != NULL
+uccsconfigure
+http://coolrdpserver.com
+domain
+MegaCool RDP server
+http://megacoolrdpserver.com
+uccs
+Corporate Remote Login
+email
+http://crazyurl.com
+user-list.c
+no-badge
+*remote_directory
+delay
+remote login:
+password:
+remote host:
+domain:
+Server type not supported.
+read-only
+Domain:
+canonical.com
+ubuntu.org
+candy.com
+urban.net
+Email address:
+PRINTERS
+lwola
+notsupported
+Not supported server
+http://notsupportedserver.com
+SCANNERS
+ROUTERS
+http://rdpdefaultusername.com
+alowl
+duplicate1
+alowl2
+duplicate2
+alowl1
+Cancel
+Set Up
+secondary-text
+delay1
+delay2
+delay3
+duplicate
+user_name != NULL
+group-filter
+group_name != NULL
+two-factor
+OTP:
+blue
+change-password
+Retype new UNIX password: 
+Enter new UNIX password: 
+no-response
+Account is locked
+messages-after-login
+Guest Session
+Hidden User
+hidden
+last-user
+UserList
+notify::high-contrast
+/usr/share/backgrounds/
+key-press-event
+user-added
+user-changed
+user-removed
+has-password
+Has Password
+Different Prompt
+No Password
+Change Password
+Auth Error
+Two Factor
+Two Prompts
+Long Info Prompt
+Wide Info Prompt
+Multi Info Prompt
+very-very-long-name
+long-name-and-messages
+Active Account
+has-messages
+Has Messages
+Locked Account
+color-background
+Color Background
+#dd4814
+white-background
+White Background
+#ffffff
+black-background
+Black Background
+#000000
+no-background
+No Background
+unicode
+No Response
+No Badge
+Messages After Login
+user-list.vala:890: Start session for %s
+Welcome to Unity Greeter
+We like to annoy you with long messages.
+Like this one
+This is the last line of a multiple line message.
+Welcome to Unity Greeter, the greeteriest greeter that ever did appear in these fine lands
+You should have seen three messages
+user-list.vala:1080: Removing user %s
+user-list.vala:294: removing manual login since we have a remote login entry
+http://internalcompayserver.com
+user-list.vala:204: Calling GetServers on com.canonical.RemoteLogin dbus service failed. Error: %s
+user-list.vala:377: Getting the com.canonical.RemoteLogin dbus service failed. Error: %s
+remote_server_list_name != NULL
+user-list.vala:778: Calling get_cached_domains_for_server in com.canonical.RemoteLogin dbus service failed. Error: %s
+user-list.vala:789: Found field of type %s, don't know what to do with it
+RDP server with default username, and non editable domain
+http://rdpdefaultusername2.com
+RDP server with default username, and editable domain
+You need an Ubuntu Remote Login account to use this service. Would you like to set up an account now?
+You need an Ubuntu Remote Login account to use this service. Visit uccs.canonical.com to set up an account.
+If you have an account on an RDP or Citrix server, Remote Login lets you run applications from that server.
+If you have an account on an RDP server, Remote Login lets you run applications from that server.
+user-list.vala:407: Something wrong happened in remote_directory_respond_cb. There was no password field
+user-list.vala:412: Something wrong happened in remote_directory_respond_cb. There was no email field
+[a-zA-Z0-9.!#$%&'\*\+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*
+user-list.vala:431: Calling email regex match failed. Error: %s
+Please enter a complete e-mail address
+user-list.vala:492: Calling get_servers in com.canonical.RemoteLogin dbus service failed. Error: %s
+Incorrect e-mail address or password
+user-list.vala:1030: Adding/updating user %s (%s)
+user-list.vala:1484: username=%s
+user-list.vala:1499: prompt otp
+You are required to change your password immediately (root enforced)
+Congratulations on logging in!
+user-list.vala:1478: response %s
+user-list.vala:98: Showing hidden user %s
+user-list.vala:1012: Adding guest account entry
+user-list.vala:158: Error loading message image: %s
+Long name (far far too long to fit)
+Long name and messages (too long to fit)
+user_list_real_insert_entry
+user_list_real_show_prompt_cb
+user_list_add_test_entry
+user_list_remove_test_entry
+user_list_test_key_press_cb
+user_list_user_removed_cb
+user_list_fill_list
+user_list_change_background_timeout_cb
+user_list_change_background
+user_list_entry_selected_cb
+user_list_on_remote_login_service_vanished
+user_list_remove_remote_servers
+user_list_query_directory_servers_co
+user_list_user_list_name_for_remote_directory_server
+g_ptr_array_get_length
+vala_g_ptr_array_sort
+user_list_username_from_remote_loding_server_list_name
+user_list_create_remote_fields_for_current_item_co
+user_list_test_fill_remote_login_servers_duplicate_entries
+user_list_test_fill_remote_login_servers
+user_list_test_call_set_remote_directory_servers
+user_list_test_call_remote_login_servers_updated
+user_list_remote_directory_respond_cb_co
+user_list_is_supported_remote_session
+user_list_show_remote_account_dialog
+user_list_set_remote_directory_servers
+user_list_username_from_remote_server_fields
+user_list_user_list_name_for_remote_login_server
+user_list_url_from_remote_loding_server_list_name
+user_list_remote_login_respond_cb
+user_list_create_prompt_for_login_server
+user_list_remote_login_servers_updated
+user_list_remove_remote_login_servers
+user_list_remote_login_changed
+__lambda52_
+user_list_on_remote_login_service_appeared
+user_list_set_session
+user_list_get_session
+user_list_get_badge
+user_list_set_default_session
+user_list_get_default_session
+user_list_in_group
+user_list_filter_group
+user_list_user_added_cb
+user_list_set_show_hidden_users
+user_list_get_show_hidden_users
+user_list_set_offer_guest
+user_list_get_offer_guest
+user_list_test_respond
+user_list_prompt_box_respond_cb
+user_list_prompt_box_login_cb
+user_list_session_clicked_cb
+user_list_prompt_box_show_options_cb
+user_list_add_user
+user_list_user_list_compare_entry
+user_list_construct
+UserPromptBox
+user_prompt_box_construct
+;*3$"
+622c956c0c3275f962730ddde405e579c77341.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

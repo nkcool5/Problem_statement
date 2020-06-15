@@ -1,0 +1,2172 @@
+/lib64/ld-linux-x86-64.so.2
+libX11.so.6
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+XConvertSelection
+XGetICValues
+XFillArc
+XGetWindowAttributes
+XSetWMHints
+XSetForeground
+XGrabKeyboard
+XAllocSizeHints
+XCreateImage
+XListPixmapFormats
+XSetFillStyle
+XKeysymToString
+XDrawArc
+XDeleteProperty
+XNextEvent
+XUnmapWindow
+XQueryColor
+XMaskEvent
+XSetSelectionOwner
+XFlush
+XDestroyWindow
+XMapWindow
+Tacocat
+XStringToKeysym
+XCreatePixmap
+XAllocColor
+XGetWMHints
+XFreeColormap
+XSetWMNormalHints
+XmbLookupString
+XDrawLine
+XUngrabKeyboard
+XGetImage
+XCreateWindow
+XSetErrorHandler
+XMoveResizeWindow
+XQueryPointer
+XAllocWMHints
+XFree
+XResizeWindow
+XInitImage
+XSetWindowColormap
+XRefreshKeyboardMapping
+XSetWMProtocols
+XSetClipRectangles
+XFreeModifiermap
+XCreatePixmapCursor
+_fini
+XSetTile
+XSetClassHint
+XCloseIM
+XInternAtom
+XBell
+XFreeCursor
+XChangeProperty
+XGetVisualInfo
+XCheckIfEvent
+XKeysymToKeycode
+XWindowEvent
+XSetTransientForHint
+XTranslateCoordinates
+XLookupString
+XSendEvent
+XSetFunction
+XSetTSOrigin
+XWarpPointer
+XPutImage
+XPending
+XFreeGC
+XGetPointerMapping
+XCopyArea
+XStoreColors
+XFetchName
+XSelectInput
+XMaxRequestSize
+XGetModifierMapping
+XOpenIM
+XCreateColormap
+XReconfigureWMWindow
+XGetSelectionOwner
+XMoveWindow
+XSetInputFocus
+XDisplayName
+XNextRequest
+XSetFillRule
+XFreePixmap
+XQueryTree
+XSetBackground
+XUngrabPointer
+XDestroyIC
+XFillPolygon
+XDisplayKeycodes
+XStoreName
+XOpenDisplay
+XSetStipple
+XDrawLines
+XReparentWindow
+XCreateGC
+XFilterEvent
+XFillRectangle
+XIconifyWindow
+XCloseDisplay
+XDefineCursor
+XMapRaised
+XCreateSimpleWindow
+XCreateIC
+XGetWindowProperty
+XAllocClassHint
+VBoxRT.so
+RTLogDefaultInit
+RTLinuxSysFsReadIntFileV
+RTStrToInt32Ex
+RTStrAPrintfVTag
+RTMemFree
+RTLogRelGetDefaultInstanceEx
+RTPipeRead
+RTPipeWrite
+RTStrStripL
+RTDirExists
+RTPipeClose
+RTStrFree
+RTFileToNative
+RTMemDupExTag
+RTLinuxSysFsReadIntFile
+RTMemAllocZTag
+RTFileOpen
+RTLogLoggerEx
+RTStrToUInt32
+RTStrDupTag
+RTPipeCreate
+RTLinuxCheckDevicePath
+RTStrStrip
+RTStrmGetLine
+RTStrToUInt32Ex
+RTStrPurgeEncoding
+RTLinuxSysFsGetLinkDest
+RTFileClose
+RTMemAllocTag
+RTStrmOpen
+RTLinuxSysFsReadStrFile
+RTMemDupTag
+RTPipeToNative
+RTStrDupNTag
+RTErrConvertFromErrno
+RTFileExists
+RTStrToUInt8Full
+RTMemReallocTag
+RTEnvGet
+RTStrICmp
+RTStrmClose
+libpthread.so.0
+send
+recv
+__errno_location
+accept
+lseek64
+fcntl
+sigaction
+libdl.so.2
+dlsym
+libssl.so.1.0.0
+SSL_write
+SSL_shutdown
+SSL_CTX_new
+SSL_set_fd
+SSL_read
+SSL_get_error
+SSL_get_peer_certificate
+SSL_load_error_strings
+SSL_pending
+SSL_get_shutdown
+TLSv1_client_method
+SSL_connect
+SSL_library_init
+SSL_CTX_free
+SSL_CTX_ctrl
+SSL_new
+SSL_free
+libcrypto.so.1.0.0
+X509_free
+EVP_PKEY_free
+BN_init
+HMAC_CTX_init
+BN_bn2bin
+MD5_Final
+HMAC_CTX_cleanup
+OBJ_nid2obj
+BN_CTX_new
+BN_CTX_free
+RSAPublicKey_dup
+RSA_free
+ERR_print_errors_fp
+BN_mod_exp
+RSA_size
+BN_bin2bn
+BN_free
+SHA1_Update
+MD5_Init
+BN_num_bits
+X509_get_pubkey
+d2i_X509
+i2d_PublicKey
+OBJ_obj2nid
+BN_clear_free
+EVP_PKEY_get1_RSA
+SHA1_Init
+EVP_md5
+MD5_Update
+RC4_set_key
+X509_print_fp
+ASN1_OBJECT_free
+God A red nugget A fat egg under a dog
+HMAC
+SHA1_Final
+libc.so.6
+socket
+__stpcpy_chk
+fflush
+strcpy
+__rawmemchr
+fchmod
+__printf_chk
+fnmatch
+setlocale
+strncmp
+optind
+strrchr
+pipe
+__strdup
+perror
+__isoc99_sscanf
+statvfs64
+ftruncate64
+getpwuid
+__fdelt_chk
+closedir
+strncpy
+fork
+__stack_chk_fail
+unlink
+putchar
+listen
+select
+mkdir
+realloc
+rewinddir
+stdin
+_exit
+popen
+getpid
+strspn
+__assert_fail
+gmtime
+strtok
+strtol
+setmntent
+feof
+fgetc
+fgets
+getppid
+strlen
+sigemptyset
+memset
+cfgetospeed
+strstr
+tcsendbreak
+rmdir
+tcsetattr
+bind
+memcmp
+getsockopt
+getopt
+tcflow
+dup2
+__fxstat64
+poll
+__fprintf_chk
+stdout
+fputc
+inet_addr
+memcpy
+fclose
+getmntent
+__vsnprintf_chk
+strtoul
+setsockopt
+malloc
+strcat
+getpeername
+__strncpy_chk
+getgid
+nl_langinfo
+opendir
+__xstat64
+getenv
+__open_2
+optarg
+stderr
+ioctl
+gethostbyname
+__snprintf_chk
+__memset_chk
+getuid
+__strncat_chk
+execvp
+__fxstat
+strncat
+__realpath_chk
+fileno
+pclose
+gethostname
+usleep
+fwrite
+iconv_close
+gettimeofday
+rename
+__memcpy_chk
+tcflush
+localtime
+strchr
+endmntent
+getsockname
+utime
+__vfprintf_chk
+mktime
+iconv
+fdopen
+alula
+readdir64
+iconv_open
+tcgetattr
+times
+__ctype_toupper_loc
+__strcpy_chk
+__ctype_tolower_loc
+readdir64_r
+__sprintf_chk
+cfgetispeed
+memmove
+fopen64
+access
+__strcat_chk
+strcmp
+strerror
+__libc_start_main
+dirfd
+ferror
+snprintf
+__cxa_atexit
+_edata
+__bss_start
+_end
+/usr/lib/virtualbox
+GLIBC_2.2.5
+GLIBC_2.15
+GLIBC_2.3
+GLIBC_2.4
+GLIBC_2.3.4
+GLIBC_2.7
+GLIBC_2.14
+OPENSSL_1.0.0
+AWAVAUATI
+[A\A]A^A_]
+}	:I
+rdesktop
+ov*f
+t^w=f
+	t(f
+taw>f
+UH-(~d
+ATSL
+[A\]
+AVAUATLc%/
+A]A^]
+AWAVAUATI
+[A\A]A^A_]
+[A\A]A^A_]
+AWAVAUATI
+[A\A]A^A_]
+[A\A]A^A_]
+[A\A]A^A_]
+[A\A]A^A_]
+AUATSH
+Beeb
+[A\A]]
+127.0.0.H
+AUATSI
+[A\A]]
+[A\A]]
+[A\A]]
+AWAVAUATM
+Cookie: H
+mstshashH
+dH34%(
+([A\A]A^A_]
+AWAVAUATA
+[A\A]A^A_]
+ATSI
+t	[A\]
+AUATSI
+T$sH
+[A\A]]
+ATSH
+[A\]
+AWAVAUATA
+[A\A]A^A_]
+AVAUATSH
+p[A\A]A^]
+AWAVAUATSH
+E<M9
+[A\A]A^A_]
+RSA1u}A
+AUATSH
+x[A\A]]
+AUATSA
+[A\A]]
+AWAVAUATI
+[A\A]A^A_]
+AVAUATSA
+;u-A
+[A\A]A^]
+I9\$
+$vCH
+I9\$
+[A\]
+ATSH
+ [A\]
+<$H)
+AVAUATSL
+`[A\A]A^]
+DucaH
+AUATSH
+[A\A]]
+I9<$H
+AWAVAUATSH
+D$ H
+[A\A]A^A_]
+ATSH
+$[A\]
+AWAVAUATH
+[A\A]A^A_]
+AWAVAUATA
+[A\A]A^A_]
+AWAVAUATSH
+X[A\A]A^A_]
+AWAVAUD
+,6ATSI
+H[A\A]A^A_]
+ATSH
+=E~V
+="}V
+=#}V
+AWAVAUATA
+[A\A]A^A_]
+AWAVAUATSH
+[A\A]A^A_]
+AWAVAUATSH
+MSTSI
+dH3<%(
+h[A\A]A^A_]
+=8hV
+[A\]
+AWAVAUATI
+x[A\A]A^A_]
+5n`V
+AWAVAU
+ATSA
+[A\A]A^A_]
+AWAVAUATSH
+[A\A]A^A_]
+ t?I
+ATASD)
+PAQD
+@t?I
+xDHc
+@uCHc
+ t?I
+xEHc
+@uDHc
+ t?I
+@t?I
+A[A\
+xEHc
+@uDHc
+ t?I
+=m~#
+5M~#
+=5}#
+5t|#
+=k|#
+=o{#
+5F{#
+AYAZ
+=pm#
+A]A^
+%%n#
+5Gl#
+AWAVAUATSH
+~$A9
+H[A\A]A^A_]
+~IHc
+[A\A]A^A_]
+AWAVAUATSH
+4vE9
+4vE9
+~%A9
+4vE9
+4vE9
+fD3V
+fD3F
+fD3V
+fD3F
+fD3V
+fD3F
+fD3F
+fE3H
+fE3H
+fE3H
+fE3H
+fE3H
+fE3H
+fE3H
+X[A\A]A^A_]
+~|Ic
+[A\A]A^A_]
+AWAVAUATSH
+[A\A]A^A_]
+[A\A]A^A_]
+AWAVAUATSH
+[A\A]A^A_]
+[A\A]A^A_]
+[A\A]A^A_]
+X	Hc
+X	Hc
+E247E
+E2t7
+E2t7
+E247E
+E2t7
+E2t7
+E247E
+E2t7
+E2t7
+A20A
+@27A
+A23A
+A22A
+A21A
+~*D9
+~\E9
+~LD9
+AVAUATS@
+[A\A]A^]
+AWAVAUATD
+x(Hc
+[A\A]A^A_]
+[A\A]A^A_]
+AWAVAUATS@
+[A\A]A^A_]
+[A\A]A^A_]
+AVAUATSwg
+A]A^]
+[A\A]A^]
+AWAVAUATI
+[A\A]A^A_]
+[A\A]A^A_]
+[A\A]A^A_]@
+AWAVAUATE1
+Borrow or rob
+[A\A]A^A_]
+AWAVAUATSH
+[A\A]A^A_]
+[A\A]A^A_]@
+AUATS@
+A\A]]
+AWAVAUATA
+[A\A]A^A_]
+[A\A]A^A_]
+w2UH
+[A\]
+?wSU
+ATS@
+[A\]
+AUATSI
+$I9D$
+I9\$
+[A\A]]
+I9\$
+I9\$
+I9\$
+I9\$
+I9\$
+I9\$
+I9\$
+I9\$
+vwUH
+AVAUATD
+[A\A]A^]
+AWAVAUATSH
+[A\A]A^A_]
+AWAVAUATSH
+f;5|v4
+`fD9B
+[A\A]A^A_]
+T$(I
+D$ I
+D$ I
+D$XH
+[A\A]A^A_]
+T$(A9
+D$ I
+|$ D
+|$(I
+D$ H
+AWAVAUATA
+[A\A]A^A_]
+AWAVAUATE
+[A\A]A^A_]
+AWAVAUATI
+rDtKf
+RPt4
+[A\A]A^A_]
+ D;%Qp4
+ D;=
+AWAVAUATSH
+([A\A]A^A_]
+t;UH
+~0SH
+D$@H
+D$@[A\]
+ATSH
+tWE1
+[A\]
+AWAVAUATSH
+[A\A]A^A_]
+\$@H
+AUATL
+[A\A]]
+ATSH
+ATSM
+C`[1
+AVAUATS
+[A\A]A^]
+AUATS
+[A\A]]
+[A\A]]
+D$P1
+[A\A]]
+AWAVAUATL
+[A\A]A^A_]
+AVAUATSA
+S$E1
+;Sht:
+Sht1A
+ ;Cdt
+ ;Cdt	
+[A\A]A^]
+S$E1
+AUATSA
+([A\A]]
+T$(H
+T$8E1
+D$(H
+D$,H
+D$0H
+D$4H
+D$8E1
+D$@H
+D$AH
+D$BE1
+D$ E1
+D$GH
+T$CH
+T$GE1
+T$BE1
+D$$E1
+T$$H
+AUATSI
+xBHc
+[A\A]]
+[A\A]]
+AUATS
+[A\A]]
+x/Hc
+AVAUATS
+[A\A]A^]
+AWAVAUATI
+[A\A]A^A_]
+AVAUATSA
+[A\A]A^]
+A\A]A^]
+AVAUATSA
+A\A]A^]
+[A\A]
+AWAVAUATA
+[A\A]A^A_]
+AUATA
+u$Mi
+[A\A]]
+[A\A]]
+AWAVAUATA
+YtXH
+[A\A]A^A_]
+AWAVAUATE1
+[A\A]A^A_]
+AUATSH
+[A\A]]
+3H9U
+AWAVAUATSH
+[A\A]A^A_]
+A0E1
+A8E1
+AUATS
+8[A\A]]
+AWAVAUATA
+[A\A]A^A_]
+RDESKTOP
+RDPFf
+vfat
+AWAVAUATS
+[A\A]A^A_]
+(v`H
+AVAUATSA
+[A\A]A^]
+[A\]
+AWAVAUATL
+[A\A]A^A_]
+AWAVAUATI
+/rdpf
+[A\A]A^A_]
+[A\A]A^A_]
+AVAUATSH
+[A\A]A^]
+AWAVAUATSH
+H[A\A]A^A_]
+AWAVAUATSH
+uMA9
+([A\A]A^A_]
+x2D9
+u#A9
+~EA9
+AVAUATSH
+	w~H
+ [A\A]A^]
+ATSH
+	wvH
+0[A\]
+AWAVAUATSH
+v(Hc
+[A\A]A^A_]
+AUATSH
+[A\A]]
+AUATSI
+[A\A]]
+AUATSI
+[A\A]]
+dH34%(
+ATSH
+[A\]
+ATSH
+[A\]
+[A\]
+AUATSI
+[A\A]]
+AWAVAUATSH
+[A\A]A^A_]
+?AuDA
+Cu=A
+Ku6A
+AUATSI
+[A\A]]
+AQAPA
+AWAVAUATA
+~2Hc
+~4Hc
+[A\A]A^A_]
+AUATSH
+*tIH
+[A\A]]
+AWAVAUATI
+[A\A]A^A_]
+~4Hc
+~-Hc
+[A\A]A^A_]
+AWAVAUATI
+[A\A]A^A_]
+AUATSE1
+[A\A]]
+AUATSH
+t,<%u
+[A\A]]
+ATSH
+[A\]
+AVAUATSH
+tdL9
+[A\A]A^]
+=Qu"
+50p"
+AVAUATSH
+/var/run
+/egd-poof
+[A\A]A^]
+=/j"
+AWAVAUATSH
+~-E1
+[A\A]A^A_]
+uGH9
+[A\]
+[A\]
+ATSH
+[A\]
+ATSI
+AWAVAUATI
+8[A\A]A^A_]
+AUATSH
+[A\A]]
+dH3<%(
+AUATSI
+Y^tuH
+[A\A]]
+AVAUATSI
+XZtTL
+[A\A]A^]
+ATSE1
+^_tkH
+ZYt>H
+[A\]
+H9N(u
+=^["
+5Fk3
+==,U
+dH34%(
+AUATSH
+8[A\A]]
+CTXH
+t.UH
+AWAVAUATSH
+5.w3
+[A\A]A^A_]
+[A\A]A^A_]
+%ur3
+=Nk3
+-^d3
+%Hd3
+=0d3
+5`b3
+=fb3
+5\a3
+-Ia3
+%Fa3
+=Ca3
+-b`3
+%L`3
+=4`3
+5\_3
+-I_3
+%F_3
+=C_3
+5\^3
+-I^3
+%F^3
+=C^3
+5f]3
+-P]3
+%M]3
+=h\3
+=l[3
+50Y3
+5.X3
+-vW3
+%`W3
+=HW3
+%jV3
+=RV3
+%zU3
+=bU3
+5DR3
+-AR3
+%+R3
+-UQ3
+%?Q3
+='Q3
+-cP3
+%MP3
+=5P3
+-}O3
+%gO3
+=OO3
+AUATSA
+fD)F
+[A\A]]
+%9M3
+AWAVAUATA
+%~L3
+-sL3
+[A\A]A^A_]
+tLH95
+[A\A]A^A_]
+[A\A]A^A_]
+[A\A]A^A_]
+AVAUATS
+Mc,$M
+[A\A]A^]
+t5H;x
+AWAVAUATSH
+=5H3
+dH3<%(
+[A\A]A^A_]
+=!D3
+=}?3
+5!>3
+AWAVAUATA
+Hc=S=3
+[A\A]A^A_]
+5q:3
+t E;~4t
+=)93
+AQAPQ
+5!$3
+=|53
+5-53
+vvH94
+5Z43
+t$H;
+AQAPP
+=c13
+AWAVAUATA
+AUE1
+[A\A]A^A_]
+AWAVAUATA
+APE1
+AVE1
+AUATH
+ATSA
+AVAU
+=^.3
+fA+G H
+fA+G$j
+A+G$H
+A+G PAVAUI
+5n-3
+[A\A]A^A_]
+AVAUATS
+fA+G H
+fA+G$j
+A+G$H
+A+G PAVAUI
+AWAVAUATA
+5`+3
+AUSL
+[A\A]A^A_]
+AWAVAUATM
+[A\A]A^A_]
+=M%3
+f+C H
+f+C$j
+= $3
+AWAVAUATSH
+[A\A]A^A_]
+ATSI
+[A\]
+f+C H
+f+C$j
+AVAUATSH
+_AXt5H
+[A\A]A^]
+AWAVAUATA
+AZA[M
+fA+G H
+fA+G$j
+A+O D
+4$E+G$E
+AXAYM
+[A\A]A^A_]
+AWAVAUATA
+fA+G H
+fA+G$j
+A+O$
+A+G I
+AVAU
+[A\A]A^A_]
+ATSAVAU
+A[A_
+AWAVAUATA
+ATSE
+AVAU
+SAVAU
+fA+G H
+fA+G$j
+A+O$
+A+G I
+AVAU
+[A\A]A^A_]
+AWAVAUATA
+AWAVAUAT
+f+C H
+f+C$j
++C$D
++C PAUATH
+[A\A]A^A_]
+AWAVAUAT
+AWAVAUATA
+itO@
+[A\A]A^A_]
+ASAR
+[A\A]A^A_]
+ASAR
+AWAVAUATA
+AZA[M
+fA+G H
+fA+G$j
+AXAYM
+[A\A]A^A_]
+AWAVAUATA
+AZA[H
+f+C H
+f+C$j
++K D
+<$D+C$E
+AXAYH
+[A\A]A^A_]
+AWAVAUATA
+[A\A]A^A_]
+AYAZE
+fA+G H
+fA+G$j
+_AXE
+fA+G H
+fA+G$j
+A]A_
+fA+G H
+fA+G$j
+AXAYM
+AYAZE
+fA+G H
+fA+G$j
+AZA[
+fA+G H
+fA+G$j
+AZA[M
+A]A_
+AWAVAUATI
+fA+D$ H
+fA+D$$j
+|$$I
+t$ fD){
+fD)3H
+[A\A]A^A_]
+AWAVAUATE
+[A\A]A^A_]
+fA+B H
+fA+B$j
+A+J 
+AVE+B$I
+fA+B H
+fA+B$j
+A+J 
+AVE+B$I
+fA+B H
+fA+B$j
+A+J 
+AVE+B$I
+HcU H
+HcU H
+fA+B H
+fA+B$j
+A+J 
+AVE+B$I
+fA+B H
+fA+B$j
+A+J 
+AVE+B$I
+fA+B H
+fA+B$j
+A+J 
+AVE+B$I
+fA+B H
+fA+B$j
+A+J 
+AVE+B$I
+fA+B H
+fA+B$j
+A+J 
+AVE+B$I
+fA+B H
+fA+B$j
+A+J 
+AVE+B$I
+HcE H
+fA+B H
+fA+B$j
+A+J 
+AVE+B$I
+HcU H
+AWAVAUATA
+[A\A]A^A_]
+AWAVAUATA
++U09
+fA+D$ H
+fA+D$$j
+A+D$$H
+A+D$ PSAWI
+AXAYH
+[A\A]A^A_]
+A\A]t
+HcE`H
+fA+D$ H
+fA+D$$j
+A+D$$H
+A+D$ PSAWI
+AWAVAUATA
+ATSE
+[A\A]A^A_]
+AWAVAUATA
+PAVAU
+AVE1
+AUATH
+ATSA
+AVAU
+fA+G H
+fA+G$j
+A+G$H
+A+G PAVAUI
+[A\A]A^A_]
+AVAUATS
+fA+G H
+fA+G$j
+A+G$H
+A+G PAVAUI
+AWAVAUATSH
+[A\A]A^A_]
+tnUH
+t,H;{
+tpUH
+AUATSI
+=]~T
+[A\A]]
+AWAVAUATSH
+{`Ic
+c\D;cXD
+[A\A]A^A_]
+[A\A]A^A_]
+[A\A]A^A_]
+t$H;x
+tTH;x
+AWAVAUATSH
+8[A\A]A^A_]
+tLI9
+M;l$
+=KzT
+=?zT
+tnUH
+ATSH
+t4H;{
+=ayT
+;[A\]
+[A\]H
+tNUH
+ATSH
+t4H;{
+t>rd
+c0[A\]
+[A\]H
+=kxT
+=ZxT
+=8xT
+t2UH
+9xDt
+=KwT
+*t$v,@
+AWAVAUATSH
+8[A\A]A^A_]
+AUATSI
+<$/H
+[A\A]]
+[A\A]]
+AUATSA
+[A\A]]
+AUATSI
+[A\A]]
+AUATSH
+[A\A]]
+[A\A]]
+AWAVAUATSH
+[A\A]A^A_]
+=_lT
+ATSH
+t(A;x
+PAPAP
+dH34%(
+ATSH
+[A\]
+[A\]
+[A\]
+[A\]
+ATSA
+[A\]
+AWAVAUATA
+8[A\A]A^A_]
+[A\A]A^A_]
+[A\A]A^A_]
+[A\]
+AWAVAUATI
+=T^T
+="^T
+[A\A]A^A_]
+AWAVAUATI
+=:\T
+[A\A]A^A_]
+=iZT
+PAWA
+AWAVAUATI
+8[A\A]A^A_]
+=hXT
+=NXT
+=4XT
+=~WT
+AUATSL
+dH3<%(
+([A\A]]
+=SUT
+ATSI
+[A\]
+AWAVAUATL
+[A\A]A^A_]
+AWAVAUATL
+PAVA
+[A\A]A^A_]
+dH3<%(
+5aOT
+=jOT
+5DOT
+=MOT
+5)OT
+=2OT
+=|NT
+w(dH
+=YLT
+AWAVAUATI
+tQH;
+t`H;
+H[A\A]A^A_]
+AVAUATSH
+H9G0H
+5wHT
+S0H;
+[A\A]A^]
+H9C(H
+=^GT
+5+GT
+=4GT
+H9C(H
+=<FT
+=RDT
+t	L9
+5ICT
+=NCT
+=(CT
+G8H;
+AWAVAUATSH
+="@T
+AWE1
+AVAUA
+ATPH
+[A\A]A^A_]
+H9G(u
+H9G u
+=e=T
+=R=T
+[A\]
+AWAVAUATSH
+H[A\A]A^A_]
+[A\A]A^A_]
+=F9T
+=j8T
+=v7T
+=\7T
+=B7T
+=(7T
+=r6T
+=X6T
+=*6T
+=A5T
+="5T
+AWAVAUATA
+[A\A]A^A_]
+ATSI
+[A\]
+ATSH
+[A\]
+[A\]
+AVAUATSH
+[A\A]A^]
+AVAUATSI
+Ic|$
+A9D$
+[A\A]A^]
+AWAVAUATSH
+[A\A]A^A_]
+Ic|$
+Ic|$
+AWAVAUATSH
+ZYtFL
+[A\A]A^A_]
+[A\]
+ATSA
+[A\]
+AUATSI
+[A\A]]
+AUATSH
+([A\A]]
+AUATSH
+[A\A]]
+AWAVAUATSH
+[A\A]A^A_]
+ATSI
+tt<:L
+[A\]
+AWAVAUATI
+([A\A]A^A_]
+[A\A]A^A_]
+fD9m
+fD9m
+=L@!
+5h~2
+=e~2
+ATSI
+[A\]H
+[A\]
+tfH9
+tCU@
+[A\]
+AWAVAUATI
+u	f9
+t#Ai
+H[A\A]A^A_]
+[A\A]A^A_]
+~ f.
+AUATSI
+z0pCC
+[A\A]]
+t;UH
+AUATSI
+thD;
+[A\A]]
+u2Hc=	2!
+AUATSH
+8Hc=
+8[A\A]]
+I;D$
+-I/!
+tr9=l
+=w,!
+[A\]
+AWAVAUATSH
+A9D$
+H[A\A]A^A_]
+A9D$
+=$*!
+5l)!
+=`(!
+=T(!
+=?(!
+=I'!
+[A\]
+AWAVAUATSH
+D$ H
+T$ H
+[A\A]A^A_]
+M9e`
+ATSA
+[A\]
+0txUH
+AWAVAUATA
+[A\A]A^A_]
+AWAVAUATSH
+([A\A]A^A_]
+;S@u
+D;g@u
+d$PM
+E;l$@u
+A9T$@t
+d$PM
+A;T$@u
+D$HD
+D$`H
+D$`I
+d$PM
+E;l$@u
+d$PM
+E;l$@u
+d$PM
+E;l$@u
+d$PM
+E;l$@u
+d$PM
+A;T$@u
+\$`H
+;S(u
+AWAVAUATSH
+tQLc
+[A\A]A^A_]
+AWAVAUATSH
+tqE1
+tILc
+[A\A]A^A_]
+[A\A]A^A_]
+AUATSH
+[A\A]]
+AWAVAUATI
+x	M)
+CXtHH
+[A\A]A^A_]
+AWAVAUATL
+t.H9
+[A\A]A^A_]
+AWAVAUATI
+[A\A]A^A_]
+ATSH
+[A\]
+AWAVAUATSH
+[A\A]A^A_]
+[A\A]A^A_]
+AWAVAUATI
+P0IcU
+[A\A]A^A_]
+[A\A]A^A_]
+[A\A]A^]
+8A\A]A^]
+A\A]A^]
+AWAVAUATA
+g8dH
+D$0I9D$8
+D$0H
+T$(H
+T$(H
+T$ H
+D$(L
+@pHcJ
+8[A\A]A^A_]
+|$Pf
+|$PH
+AWAVAUATI
+o8dH
+[A\A]A^A_]
+AWAVAUATI
+devices
+*tRM
+uME1
+[A\A]A^A_]
+dH34%(
+AUATSI
+o8dH
+D$(t
+[A\A]]
+ATSH
+[A\]
+t$X1
+[A\]
+s+<mt7<(H
+AWAVAUATA
+([A\A]A^A_]
+?.t?=
+t2H9
+[A\]
+[A\]
+dH3<%(
+AUATSI
+([A\A]]
+ATSH
+t#f.
+[A\]
+AVAUATSH
+[A\A]A^]
+CBarH
+:lEA
+$I;L$
+|$ I
+D$ H
+AWAVAUATH
+CBaru?H
+[A\A]A^A_]
+t!<	thH
+[A\]
+AWAVAUATI
+GDuX
+[A\A]A^A_]
+AWAVAUATL
+[A\A]A^A_]
+t$ L
+L$ZM
+|$XH
+L$YH
+D$<H
+D$:H
+D$8H
+D$CA
+D$BH
+D$AH
+t$>H
+L$@L
+AWAVAUATI
+D$XL
+D$@L
+D$AL
+D$BL
+D$CL
+D$8L
+D$:L
+D$ZM
+D$HH
+t$>H
+t$<H
+D$<H
+D$YH
+}(CBarM
+}(CBar
+D$DI
+}(CBar
+t$8A
+T$DI
+|$(I
+D$DH
+[A\A]A^A_]
+t%<	
+t%<	
+t%<	
+AUATSH
+t]E1
+[A\A]]
+A\A]]
+AVAUATSI
+&[A\A]A^]
+A\A]A^]
+AWAVAUATI
+:lEAL
+CBarH
+CBarH
+CBarH
+:lEAL
+:lEA
+|$ I
+|$(I
+dH34%(
+[A\A]A^A_]
+:lEAL
+CBar
+CBarH
+}(CBar
+:lEAu
+tcE1
+AWAVA
+AUATL
+[]A\A]A^A_
+SSL_write: %d (%s)
+send: %s
+SSL_read: %d (%s)
+recv: %s
+Connection closed
+%s: unable to resolve host
+socket: %s
+connect: %s
+%d.%d.%d.%d
+Remote peer initiated ssl shutdown.
+tcp_tls_connect: SSL_CTX_new() failed to create TLS v1.0 context
+tcp_tls_connect: SSL_new() failed
+tcp_tls_connect: SSL_set_fd() failed
+tcp_tls_get_server_pubkey: SSL_get_peer_certificate() failed
+tcp_tls_get_server_pubkey: X509_get_pubkey() failed
+tcp_tls_get_server_pubkey: i2d_PublicKey() failed
+expected tag %d, got %d
+Bad packet header
+expected DT, got 0x%x
+unknown reason
+expected CC, got 0x%x
+Failed to connect, %s.
+SSL required by server
+SSL not allowed by server
+CredSSP required by server
+Failed to negotiate protocol, retrying with plain RDP.
+Expected RDP_NEG_RSP, got type = 0x%x
+Connection established using SSL.
+Connection established using plain RDP.
+Unexpected protocol in negotiation response, got data = 0x%x.
+no valid authentication certificate on server
+inconsistent negotiation flags
+SSL with user authentication required by server
+expected CJcf, got %d
+CJrq: %d
+expected data, got %d
+MCS connect: %d
+expected AUcf, got %d
+AUrq: %d
+random len %d, expected %d
+RSA magic 0x%x
+crypt tag 0x%x
+%.2x
+response tag 0x%x
+Bad server public key size (%u bits)
+Server didn't send enough X509 certificates
+Couldn't load CA Certificate from server
+Couldn't load Certificate from server
+Security error CA Certificate invalid
+Problem extracting RSA exponent, modulus
+token len %d
+licence tag 0x%02x
+License error alert from server: No license server
+License error alert from server: Invalid client
+License error alert from server: code %u, state transition %u
+process_colour_pointer_common: width %d height %d
+rdp_out_unistr: iconv_open[%s -> %s] fail %p
+rdp_out_unistr: iconv(1) fail, errno %d
+rdp_out_unistr: iconv(2) fail, errno %d
+rdp_in_unistr: iconv_open[%s -> %s] fail %p
+server sent an unexpectedly long string, truncating
+rdp_in_unistr: iconv fail, errno %d
+Protocol error in server redirection, unexpected data.
+PDU_REDIRECT_DONT_STORE_USERNAME set
+PDU_REDIRECT_USE_SMARTCARD set
+PDU_REDIRECT_HAS_TARGET_NETBIOS set
+PDU_REDIRECT_HAS_TARGET_IP_ARRAY set
+Invalid length in Auto-Reconnect packet
+Unsupported version of Auto-Reconnect packet
+Remote desktop does not support colour depth %d; falling back to %d
+Remote desktop changed from %dx%d to %dx%d.
+error while decompressing packet
+Automatic reconnect using cookie, failed.
+UTF-16LE
+System pointer message 0x%x
+update %d
+Pointer message 0x%x
+data PDU %d
+C:\WINNT\System32\mstscax.dll
+GTB, normaltid
+GTB, sommartid
+error getting brush data, style %x
+incompatible brush, colour_code %d size %d
+incompatible brush, width height %d %d
+order parsing failed
+secondary order %d
+bad ROP2 0x%x
+polygon parse error
+polygon2 parse error
+polyline parse error
+bitmap opcode 0x%x
+Bpp %d
+Oops. %d in bitmap cache linked list, %d in ui cache...
+get bitmap %d:%d
+put bitmap %d:%d
+get font %d:%d
+put font %d:%d
+get desktop %d:%d
+put desktop %d:%d
+get cursor %d
+put cursor %d
+get brush %d %d
+put brush %d %d
+RDP5 opcode %d
+Channel table full, increase MAX_CHANNELS
+invalid irp device 0x%lx file 0x%lx id 0x%lx major 0x%lx minor 0x%lx
+RDPDR pakid 0x%x of component 0x%x
+IRP for bad device %ld
+IRP major=0x%x minor=0x%x
+RDPDR component 0x%x
+rdpdr
+fcntl
+SERIAL %s to %s
+SERIAL IOCTL %d
+INFO: SERIAL %s access denied
+mydeskjet
+lpr -P %s
+MS Publisher Imagesetter
+PRINTER %s to %s driver %s
+DISK IOCTL %d
+read
+write
+NotifyInfo
+%s/%s
+closedir
+close
+%s%s
+opendir
+stat
+rename
+lseek
+ftruncate
+statfs
+/etc/mtab
+vfat
+iso9660
+Maximum number of open files (%s) reached. Increase MAX_OPEN_FILES!
+share name %s truncated to %s
+IRP Query (File) Information class: 0x%x
+IRP Set File Information class: 0x%x
+IRP Query Volume Information class: 0x%x
+IRP Query Directory sub: 0x%x
+parallel_write: status = %d, errno = %d
+PARALLEL IOCTL %d: 
+UNKNOWN IOCTL %d
+PARALLEL %s to %s
+HOME
+%s/.rdesktop
+%s/.rdesktop/rdpdr/%s
+%s,%s
+%s/.rdesktop/rdpdr/%s/AutoPrinterCacheData
+RDPDR Printer Cache Packet Type: %d
+cache/pstcache_%d_%d
+Persistent bitmap caching is disabled. (The file is already in use)
+lspci
+LSPCI
+SVendor:
+SDevice:
+Rev:
+ProgIf:
+Class:
+lspci protocol error: Invalid line '%s'
+%04x,%04x,%04x,%04x,%04x,%02x,%02x
+lspci: Unrecoqnized line '%s'
+CREATE
+DESTROY
+DESTROYGRP
+SETICON
+DELICON
+POSITION
+ZCHANGE
+TITLE
+DEBUG
+SYNCBEGIN
+SYNCEND
+HELLO
+UNHIDE
+%s,%u,
+len < (sizeof(buf) - 1)
+seamrdp
+SYNC
+0x%08lx,0x%x,0x%lx
+0x%08lx,%d,%d,%d,%d,0x%lx
+0x%08lx,0x%08lx,0x%lx
+FOCUS
+0x%08lx
+SPAWN
+Enable
+Disable
+%s persistent seamless mode.
+PERSISTENT
+SeamlessRDP: Invalid request:%s
+/home/vbox/vbox-5.2.6/src/VBox/RDP/client-1.8.3/seamless.c
+seamless_send
+Failed to extract public key from certificate
+%%%02X
+%%%2hhX
+UTF-8
+utils_string_to_utf8: iconv_open[%s -> %s] fail %p
+utils_string_to_utf8: iconv(1) fail, errno %d
+rdesktop: A Remote Desktop Protocol client.
+Version 1.8.3. Copyright (C) 1999-2011 Matthew Chapman et al.
+Modified for VirtualBox by Oracle Corporation
+See http://www.rdesktop.org/ for more information.
+Usage: %s [options] server[:port]
+   -s: shell / seamless application to start remotly
+   -p: password (- to prompt)
+   -k: keyboard layout on server (en-us, de, sv, etc.)
+   -g: desktop geometry (WxH)
+   -A: path to SeamlessRDP shell, this enables SeamlessRDP mode
+   -B: use BackingStore of X-server (if available)
+   -e: disable encryption (French TS)
+   -E: disable encryption from client to server
+   -m: do not send motion events
+   -C: use private colour map
+   -D: hide window manager decorations
+   -K: keep window manager key bindings
+   -S: caption button size (single application mode)
+   -t: disable use of remote ctrl
+   -N: enable numlock syncronization
+   -X: embed into another window with a given id.
+   -a: connection colour depth
+   -z: enable rdp compression
+   -x: RDP5 experience (m[odem 28.8], b[roadband], l[an] or hex nr.)
+   -P: use persistent bitmap caching
+   -r: enable specified device redirection (this flag can be repeated)
+         '-r comport:COM1=/dev/ttyS0': enable serial redirection of /dev/ttyS0 to COM1
+             or      COM1=/dev/ttyS0,COM2=/dev/ttyS1
+         '-r disk:floppy=/mnt/floppy': enable redirection of /mnt/floppy to 'floppy' share
+             or   'floppy=/mnt/floppy,cdrom=/mnt/cdrom'
+         '-r clientname=<client name>': Set the client name displayed
+             for redirected disks
+         '-r lptport:LPT1=/dev/lp0': enable parallel redirection of /dev/lp0 to LPT1
+             or      LPT1=/dev/lp0,LPT2=/dev/lp1
+         '-r printer:mydeskjet': enable printer redirection
+             or      mydeskjet="HP LaserJet IIIP" to enter server driver as well
+         '-r sound:[local[:driver[:device]]|off|remote]': enable sound redirection
+                     remote would leave sound on server
+                     available drivers for 'local':
+         '-r usb': enable USB redirection
+         '-r clipboard:[off|PRIMARYCLIPBOARD|CLIPBOARD]': enable clipboard
+                      redirection.
+                      'PRIMARYCLIPBOARD' looks at both PRIMARY and CLIPBOARD
+                      when sending data to server.
+                      'CLIPBOARD' looks at only CLIPBOARD.
+   -5: use RDP version 5 (default)
+unexpected null pointer. Out of memory?
+The server is not licensed to accept remote connections
+Incorrect client license encryption
+Licensing protocol was not completed
+Network error during licensing protocol
+Hardware id doesn't match software license
+Disconnect initiated by administration tool
+The server does not accept saved user credentials and requires that the user enter their credentials for each connection.
+The user cannot connect to the server due to insufficient access privileges.
+The server denied the connection for security reason
+The server denied the connection
+Not compiled with smartcard support
+Unknown -r argument
+	Possible arguments are: comport, disk, lptport, printer, sound, clipboard, scard
+A:u:L:d:s:c:p:n:k:g:o:fbBeEitmzCDKS:T:NX:a:x:Pr:045h?
+You cannot use -S and -A at the same time
+You cannot use -g and -A at the same time
+You cannot use -f and -A at the same time
+You cannot use -D and -A at the same time
+You cannot use -X and -A at the same time
+You cannot use -4 and -A at the same time
+could not determine username, use -u
+could not determine local hostname, use -n
+Failed to initialize ctrl mode.
+rdesktop in slave mode sending command to master process.
+No command specified to be spawn in seamless mode.
+Initializing sound-support failed!
+Redirected to %s@%s session %d.
+Tried to reconnect for %d minutes, giving up.
+Disconnected due to network error, retrying to reconnect for %d minutes.
+%s/.local/share/rdesktop/licenses/%s.cal
+%s/.local/share/rdesktop/licenses
+   -u: user name
+   -d: domain
+   -c: working directory
+   -n: client hostname
+   -f: full-screen mode
+   -b: force bitmap updates
+   -L: local codepage
+   -T: window title
+   -0: attach to console
+   -4: use RDP version 4
+/dev/urandom
+/dev/random
+/tmp
+strdup
+ERROR: 
+xmalloc %d
+xrealloc %ld
+WARNING: 
+NOT IMPLEMENTED: 
+%04x 
+%02x 
+Unknown reason
+Internal protocol error
+Can't upgrade license
+Client license error
+Invalid licensing message
+No valid license available
+No license server available
+Internal licensing error
+Disconnect initiated by user
+The server is out of memory
+The session was replaced
+Server logon timeout reached
+Server idle timeout reached
+Server initiated logoff
+Server initiated disconnect
+workarea
+invalid geometry
+standard
+invalid button size
+Invalid server colour depth.
+sound
+remote
+local
+disk
+comport
+lptport
+printer
+clientname
+clipboard
+scard
+Autoselected keyboard map %s
+en-us
+Password: 
+seamless.spawn
+disconnect: %s.
+pipe
+fork
+Error executing child
+%s/.rdesktop/license.%s
+%s.new
+.rdesktop/cache
+%s/.rdesktop/%s
+_MOTIF_WM_HINTS
+Failed to open display: %s
+select: %s
+focusWindow
+clientWindow
+inputStyle
+filterEvents
+WM_PROTOCOLS
+WM_DELETE_WINDOW
+brush %d
+triblt 0x%x
+fill mode %d
+Skipping short 0xff command:
+Skipping short 0xfe command:
+SeamlessRDP
+RGBA
+Failed to get atom _MOTIF_WM_HINTS: probably your window manager does not support MWM hints
+Broken Window Manager: Timeout while waiting for ConfigureNotify
+Internal error: sw_get_toplevel called with root window
+sw_window_is_behind: Unable to find window 0x%lx
+sw_window_is_behind: Unable to find behind window 0x%lx
+Unable to get list of pixmap formats from display.
+No usable TrueColor or PseudoColor visuals on this display.
+Remote desktop colour depth %d higher than display colour depth %d.
+Display colour depth is %d bit: you may want to use -C for a private colourmap.
+External BackingStore not available. Using internal.
+Failed to get workarea: probably your window manager does not support extended hints
+XmbLookupString failed with status 0x%x
+unknown bpp in get_next_xor_pixel %d
+SeamlessRDP restack test - window %d
+Broken Window Manager: Unable to test window restacking
+Broken Window Manager: doesn't handle restack (restack request was ignored)
+Broken Window Manager: doesn't handle restack (window was moved to bottom)
+ui_seamless_create_window: No parent window 0x%lx
+ui_seamless_destroy_window: No information for window 0x%lx
+ui_seamless_seticon: New icon started before previous completed
+ui_seamless_seticon: Uknown icon format "%s"
+ui_seamless_seticon: Icon too large (%d bytes)
+ui_seamless_seticon: Too large chunk received (%d bytes > %d bytes)
+Degas are we not drawn onward no In union drawn onward to new eras aged
+ui_seamless_seticon: No information for window 0x%lx
+ui_seamless_move_window: No information for window 0x%lx
+ui_seamless_restack_window: No information for window 0x%lx
+ui_seamless_restack_window: No information for behind window 0x%lx
+ui_seamless_settitle: No information for window 0x%lx
+SeamlessRDP: Invalid state %d
+ui_seamless_setstate: No information for window 0x%lx
+.rdesktop/keymaps
+Failed to open keymap %s
+include 
+map 
+enable_compose
+sequence
+keyboard_type 
+keyboard_subtype 
+keyboard_functionkeys 
+Bad line %d in keymap %s
+altgr
+shift
+numlock
+localstate
+inhibit
+addupper
+none
+NoSymbol
+(no name)
+Sequence nesting too deep
+/usr/share/virtualbox/rdesktop-vrdp-keymaps
+Eleele
+No translation for (keysym 0x%lx, %s)
+Atom %s does not exist
+XGetWindowProperty failed
+%s is too big for me
+%s has bad format
+_NET_WM_STATE
+_NET_WORKAREA
+_NET_WORKAREA has odd length
+_NET_CURRENT_DESKTOP
+_NET_WM_STATE_MAXIMIZED_VERT
+_NET_WM_STATE_MAXIMIZED_HORZ
+_NET_WM_STATE_HIDDEN
+_NET_WM_STATE_SKIP_TASKBAR
+_NET_WM_STATE_SKIP_PAGER
+_NET_WM_STATE_MODAL
+_NET_WM_STATE_ABOVE
+_NET_WM_DESKTOP
+_NET_WM_NAME
+_NET_WM_ICON
+UTF8_STRING
+Window is missing property %s
+_NET_CURRENT_DESKTOP has bad length
+_NET_WM_DESKTOP has bad length
+A Santa lives evil at NASA
+UCS-2
+PRIMARYCLIPBOARD
+Invalid clipboard mode '%s'.
+PRIMARY
+TARGETS
+TIMESTAMP
+_RDESKTOP_CLIPBOARD_TARGET
+INCR
+text/unicode
+_RDESKTOP_SELECTION_NOTIFY
+_RDESKTOP_NATIVE
+_RDESKTOP_CLIPBOARD_FORMATS
+_RDESKTOP_PRIMARY_OWNER
+_RDESKTOP_CLIPBOARD_OWNER
+Do nine men interpret Nine men I nod
+Failed to aquire ownership of PRIMARY clipboard
+Failed to aquire ownership of CLIPBOARD clipboard
+_RDESKTOP_PRIMARY_TIMESTAMP_TARGET
+_RDESKTOP_CLIPBOARD_TIMESTAMP_TARGET
+CLIPRDR packet type %d
+cliprdr
+%s/.local/share/rdesktop/ctrl
+Error creating ctrl socket:
+Error binding ctrl socket:
+Error listening on socket:
+server: accept()
+seamless.spawn 
+seamlessrdpshell.exe
+ERROR %x
+%s %s
+ERROR 
+ERROR %d
+%s/.local/share/rdesktop/ctrl/%s.ctl
+Error creating ctrl client socket: socket()
+Error connecting to ctrl socket: connect()
+/home/vbox/vbox-5.2.6/src/VBox/RDP/client-1.8.3/rdpsnd.c
+record_buffer_size <= sizeof(record_buffer)
+no working audio-driver found
+RDPSND: Split at packet header. Things will go south from here...
+No space to queue audio packet
+RDPSND: Extra RDPSND_NEGOTIATE in the middle of a session
+cbSize too large for buffer: %d
+RDPSND: Extra RDPSND_REC_NEGOTIATE in the middle of a session
+RDPSND: Multiple RDPSND_REC_START
+RDPSND: Device not accepting format
+*reg
+rec_device_open
+rdpsnd
+snddbg
+channel_register
+RDPSND: Invalid format index
+RDPSND packet type %x
+                     %s:	%s
+!rdpsnd_queue_empty()
+rdpsnd_queue_next
+rdpsnd_register_drivers
+rdpsnd_flush_record
+rdpsnd_record
+badly aligned sound data
+downsampling currently not supported!
+/home/vbox/vbox-5.2.6/src/VBox/RDP/client-1.8.3/rdpsnd_oss.c
+This device is not capable of full duplex operation.
+hardware volume control unavailable, falling back to software volume control!
+rdpsnd_dsp_resample_set failed
+Broken OSS-driver detected: fragments: %d, fragstotal: %d, fragsize: %d
+OSS output driver, default device: /dev/dsp or $AUDIODEV
+dsp_fd != -1
+RDPSND: read()
+RDPSND: write()
+LD_PRELOAD
+esddsp
+SNDCTL_DSP_SETFMT
+SNDCTL_DSP_CHANNELS
+SNDCTL_DSP_GETOSPACE
+SNDCTL_DSP_SPEED
+AUDIODEV
+/dev/dsp
+oss_record
+oss_play
+oss_set_format
+RDPUSB: not enough data len = %d, bytes left %d
+RDPUSB: Out of memory allocating proxy backend data
+Remote device
+RDPUSB code %d
+vrdpusb
+sysfs:
+//device:
+Dev#=
+Cfg#=
+%s/bConfigurationValue
+host
+usbProxyLinuxOpen: Invalid device address: '%s'
+/home/vbox/vbox-5.2.6/src/VBox/Devices/USB/linux/USBProxyDevice-linux.cpp
+USB: Successfully reset device pProxyDev=%s
+USB: Reset failed, errno=%d, pProxyDev=%s.
+USB: Failed to discard %p! errno=%d (pUrb=%p)
+/home/vbox/vbox-5.2.6/include/iprt/string.h
+/home/vbox/vbox-5.2.6/src/VBox/Main/src-server/linux/USBGetDevices.cpp
+/home/vbox/vbox-5.2.6/src/VBox/Main/include/vector.h
+Default USB access method set to "usbfs" from environment
+Default USB method set to "sysfs" from environment
+Invalid VBOX_USB environment variable setting "%s"
+%s/devnum
+%s/%.3d/%.3d
+/sys/bus/usb/devices
+%s/%03d/%03d
+%s/devices
+Bus=
+Port=
+Spd=
+5000
+Ver=
+Cls=
+Sub=
+Prot=
+#Cfgs=
+Vendor=
+ProdID=
+Rev=
+Manufacturer=
+Product=
+SerialNumber=
+Driver=
+(none)
+(no driver)
+%s/bDeviceClass
+%s/bDeviceSubClass
+%s/bDeviceProtocol
+%s/bNumConfigurations
+%s/idVendor
+%s/idProduct
+%s/speed
+%s/version
+%s/bcdDevice
+%s/product
+%s/serial
+%s/manufacturer
+sysfs:%s//device:%s
+%s/driver
+%s/bInterfaceClass
+inotify_init
+/proc/bus/usb
+/dev/vboxusb
+VBOX_USB
+VBOX_USB_ROOT
+USBFS
+SYSFS
+/proc/bus/usb/devices
+;*3$"
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+6666666666666666666666666666666666666666
+rdesktop-vrdp
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

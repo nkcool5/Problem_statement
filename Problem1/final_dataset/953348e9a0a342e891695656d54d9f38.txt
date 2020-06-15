@@ -1,0 +1,9516 @@
+/lib64/ld-linux-x86-64.so.2
+j0?S
+>gUa
+liblzma.so.5
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+lzma_code
+lzma_stream_encoder
+libdevmapper.so.1.02.1
+dm_tree_create
+dm_task_get_uuid
+dm_tree_find_node
+dm_tree_free
+dm_tree_node_get_info
+dm_task_no_open_count
+dm_tree_node_get_uuid
+dm_task_destroy
+dm_is_dm_major
+dm_get_next_target
+dm_tree_next_child
+dm_log_with_errno_init
+dm_lib_release
+dm_tree_add_dev
+dm_task_set_major_minor
+dm_task_create
+dm_task_run
+libc.so.6
+strcasestr
+__stpcpy_chk
+mkdtemp
+argp_usage
+fflush
+putc_unlocked
+strcpy
+flockfile
+exit
+setlocale
+mbrtowc
+strncmp
+argp_program_version
+strrchr
+pipe
+__strdup
+dcgettext
+__open64_2
+closedir
+strncpy
+fork
+time
+__stack_chk_fail
+unlink
+mkdir
+argp_program_version_hook
+realloc
+fsync
+abort
+stdin
+memchr
+tolower
+program_invocation_name
+__assert_fail
+__ctype_get_mb_cur_max
+strtol
+feof
+strchrnul
+argp_failure
+fgets
+calloc
+strlen
+memset
+strstr
+rmdir
+__errno_location
+tcsetattr
+chdir
+memcmp
+dgettext
+strndup
+mempcpy
+dup2
+__fxstat64
+vsnprintf
+__fprintf_chk
+stdout
+argp_help
+fputc
+fseeko64
+fputs
+argp_program_bug_address
+memcpy
+fclose
+malloc
+strcat
+strcasecmp
+ftello64
+realpath
+mbsinit
+__lxstat64
+opendir
+argp_err_exit_status
+__xstat64
+__ctype_b_loc
+getenv
+sscanf
+stderr
+wcwidth
+ioctl
+__snprintf_chk
+fscanf
+execvp
+fileno
+getcwd
+__getdelim
+fwrite
+fread
+gettimeofday
+rename
+mkstemp64
+__memcpy_chk
+atoi
+waitpid
+strerror_r
+lseek64
+strchr
+iswcntrl
+funlockfile
+argp_error
+__vfprintf_chk
+program_invocation_short_name
+fdopen
+readdir64
+qsort
+canonicalize_file_name
+argp_parse
+tcgetattr
+sleep
+__strcpy_chk
+__sprintf_chk
+memmove
+uname
+fopen64
+bindtextdomain
+fwrite_unlocked
+strcmp
+strerror
+__libc_start_main
+stpcpy
+setenv
+vfprintf
+argp_state_help
+fputs_unlocked
+__progname
+__progname_full
+_fini
+_edata
+__bss_start
+_end
+XZ_5.0
+GLIBC_2.7
+GLIBC_2.3
+GLIBC_2.4
+GLIBC_2.3.4
+GLIBC_2.2.5
+Base
+52W.
+%4W.
+%2W.
+%*W.
+%"W.
+%zV.
+%rV.
+%jV.
+%bV.
+%ZV.
+%RV.
+%JV.
+%BV.
+%:V.
+%2V.
+%*V.
+%"V.
+%zU.
+%rU.
+%jU.
+%bU.
+%ZU.
+%RU.
+%JU.
+%BU.
+%:U.
+%2U.
+%*U.
+%"U.
+%zT.
+%rT.
+%jT.
+%bT.
+%ZT.
+%RT.
+%JT.
+%BT.
+%:T.
+%2T.
+%*T.
+%"T.
+%zS.
+%rS.
+%jS.
+%bS.
+%ZS.
+%RS.
+%JS.
+%BS.
+%:S.
+%2S.
+%*S.
+%"S.
+AWAVAUATUSH
+D$8A
+T$HH
+D$8t
+D$PH
+L$8H
+\$XH
+l$`L
+tPM9
+\$XH
+l$`H
+D$0H
+D$XH
+D$hH
+L9d$
+D$hH
+t$(L
+	Y^w9B
+[]A\A]A^A_
+WAUI
+AXAY
+PAUA
+AZA[
+T$PH
+=JF.
+D$8H
+T$PH
+D$@H
+D$@A
+|$8H
+|$@L
+D$0H
+|$(H
+= C.
+t$0AW
+T$8H
+t$(H
+t$(1
+t$8ATH
+=|@.
+xtoH
+T$pH
+,t	@
+T$pH
+C(HcS L
+=H:.
+D$@H
+L$xH
+AXAY
+T$ H
+UH-8
+AUAT1
+[]A\A]
+D$81
+D$8dH3
+ATUI
+[]A\
+[]A\
+AWAVAUATI
+<$L)
+[]A\A]A^A_
+ATUH
+[]A\
+ATUI
+[]A\
+AVAUATUS
+]A\A]A^
+ATUI
+[]A\
+<stC<ht?<fuA
+du;1
+AWAVM
+AUATA
+[]A\A]A^A_
+t>f.
+AWAVM
+AUATA
+[]A\A]A^A_
+AWAVAUATUSH
+t$0L
+T$Pf
+L$(D
+D$`L
+L$8B
+S8Ic
+\$4H
+t$hH
+D$ H
+L$(H
+L$(D
+\$4L
+L$8D
+C@fD
+E@L9
+S@D)
+D$HH
+T$PA
+D$,L
+t$8D
+D$<D
+.texfA
+D$TD
+D$\D
+t$`D
+t$dD
+mods
+\$ H
+D$@H
+x[]A\A]A^A_
+L$8D
+D$4H
+L$(D
+\$0L
+\$0L
+PowerPC
+D$4H
+t$\D
+L$XD
+D$`H
+L$8D
+\$4L
+GRUBA
+G$Xen
+generic
+G<Xen
+xen-3.0
+GTXen
+T$(I
+T$(L
+\$4H
+L$8D
+D$`L
+D$hD
+D$fH
+D$P 
+.xen
+AWAVI
+AUATI
+t$ L
+|$XH
+t$dH
+L$`L
+L$(B
+U8Hc
+t$hH
+[6fD
+E\L9
+D$HH
+T$@A
+.texfA
+mods
+D$8I
+x[]A\A]A^A_
+E\L9
+L$XL
+L$PL
+T$0L
+GRUBA
+F$Xen
+generic
+F<Xen
+xen-3.0
+FTXen
+D$(L
+T$0L
+L$PH
+L$XL
+Degas are we not drawn onward no In union drawn onward to new eras aged
+D$ I
+L$0L
+L$(L
+T$ L
+T$ L
+L$(H
+PowerPC
+{>fD
+S6fD
+t$XD
+D$dx
+D$XH
+D$@8
+.xen
+AWAVAUATUSH
+|$0H
+T$hH
+3v	A
+ELFt
+D$ %
+|$ f
+\$TA
+t$Xf
+D$ f
+D$pH
+L$ H
+t$vA
+t$XA
+F t1
+F H9E
+D$TH
+\$HL
+D$ A
+OdE1
+l$T!
+A+_pH
+D$HH
+D$h)
+t$TH
+D$`1
+D$hH
+l$XE1
+A+_pA
+D$hA
+|$hA
+D$hH
+l$X1
+\$vD
+t$TA
+D$HH
+D$ A
+D$H1
+[]A\A]A^A_
+\$vH
+\$vf
+t$XH
+L$vA
+D$hH
+D$8H
+d$(L
+d$0M
+f;D$p
+d$0H
+D$vL
+l$X1
+D$hA
+|$XH
+D$@A
+l$8H
+D$@D
+T$$D
+T$0+
+|$(H
+H+T$0
+T$8H
+|$hH
+D$XE1
+|$(H
+D$vH
+|$xf;D$p
+D$xE
+	t	A
+D$xH
+L$XI
+D$0H
+t$0H
+9\$@
+T$8L
+t$0H
+t$0H
+D$xH
+L$XI
+D$hL
+|$(H
+T$0A
+D$(9
+t$x1
+t$x1
+f;D$p
+d$@I
+D$0A
+9D$0u
+|$XH
+D$@H
+T$ A
+D$@H
+T$$A
+D$xH
+D$@H
+T$$A
+D$xH
+Borrow or rob
+|$xH
+\$XI
+\$h!
+|$()
+D$hH
+D$@H
+T$$A
+D$xH
+D$(A
+D$8H
+\$8D9d$(
+T$0)
+t$0H
+T$pH
+T$pH
+|$hH
+\$hH
+t$0H
+AUAT
+]A\A]
+[]A\A]
+AUATA
+[]A\A]
+AWAVAUATUSH
+L$HD
+|$hH
+t$@H
+D$PH
+\$hL
+D$HH
+D$pH
+D$PH
+D$@H
+D$0H
+l$XH
+|$8A
+D$`H
+\$>E1
+D$@H
+D$(H
+|$xL
+gmimI
+D$0H
+t|E1
+|$HH
+|$pH
+|$PH
+|$@M
+D$0H
+[]A\A]A^A_
+gmimI
+H+T$
+l$tH
+.texA
+@(.datfD
+@Pmods
+@x.rel
+x\fD
+|$8H
+|$xL
+d$ I
+T$0A
+IcVh
+IcvhA
+l$ D
+l$8H
+IcVh
+I+^pH
+IcVhA
+|$(L
+|$xL
+d$xH
+IcvhH
+D$8L
+\$xH
+D$(1
+|$xE1
+l$ D
+l$8M
+I+_pIcOhH
+|$(Hc
+|$xA
+D$8H
+l$>L
+D$0A
+D$0A
+D$0A
+|$>H
+|$>f
+IcFhH
+|$ L
+f;D$`
+D$>L
+d$ 1
+D$(E
+|$ H
+L$ I
+L$8M
+^`fA
+D$x9
+f;D$`
+IcFhH
+D$`H
+l$ E1
+D$x9
+l$(H
+|$ I
+IcvhH
+Icvh
+IcvhH
+McFhH
+L$8E
+IcNhA
+|$(H
+IcNhH
+t$8M
+npA)
+IcvhH
+IcvhH
+IcvhH
+IcFhH
+D$`H
+D$`H
+Ic~hH
+t$XH
+t$XH
+Ic~hH
+|$`H
+ATUI
+AUATI
+[]A\A]
+AUAT1
+5rd/
+5Id/
+58d/
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUI
+ATUSH
+[]A\A]A^
+t#</u
+AWAVI
+AUATUSL
+D$H1
+D$ C
+H=pTA
+D$8E7J
+H=@UA
+T$HH
+t$8H
+D$HdH3
+X[]A\A]A^A_
+AWAVM
+AUATI
+$t>AWAQH
+[]A\A]A^A_
+AWAVI
+AUATI
+D$PC
+|$8L
+|$(f
+|$8H
+|$8H
+|$ 1
+l$0L
+|$ H
+[]A\A]A^A_
+t$(H
+AVAUH
+[]A\A]A^
+ATUI
+.tmH
+[]A\
+AVAU1
+ATUI
+[]A\A]A^
+H9F(t
+H;C0t
+AWAVA
+AUATI
+|$(D
+D$0D
+L$4fD
+|$(L
+D$p1
+|$(1
+P H9V 
+t$ D
+t$ H
+D$XH
+L$PM
+H H9J 
+D$0E
+T$pH
+T$xH
+L$pH
+T$xA
+L$ H
+D$pM
+D$xI
+L$(L
+l$ I
+[]A\A]A^A_
+L$8L
+L$8M
+T$PH
+L$4E
+T$PH
+D$HH
+D$D9
+|$pH
+D$xH
+d$DH
+T$pE
+D$H1
+D$XH
+L$pH
+D$D9
+T$xH;T$p
+L$ H
+	H9D$
+D$pH
+T$D1
+D$HI
+;\$Dr
+D$DL
+T$DL
+AVAU1
+ATUI
+[]A\A]A^
+AWAVAUATI
+D$4E1
+|$ dH
+D$h1
+D$PH
+|$ L
+D$@1
+|$ 1
+P H9V 
+T$@H
+T$HH
+L$(H
+L$@H
+T$HA
+H9H 
+D$XH
+|$(H
+t$XI
+l$(H
+D$@M
+D$HI
+L$ L
+D$hdH3
+x[]A\A]A^A_
+L$8L
+L$8M
+AVAUATUS
+D;|$
++xhE
+[]A\A]A^A_
+AWAVI
+AUATI
+L$pH
+\$HH
+\$PH
+t$HH
+D$XH
+D$`H
+D$PH
+D$HH
+D$XH
+L$xL
+t$pH
+L$`M
+L;|$
+D$ M
+T$01
+T$@H
+T$8I
+T$@A
+t$0H
+T$8L
+l$(H
+[]A\A]A^A_
+L$XH
+L$pH
+L$`H
+L$xH
+|$hH
+[]A\A]A^A_
+D$PH
+D$`H
+D$HH
+AWAVH
+AUATH
+|$8H
+H9T$
+\$(H
+d$0I
+d$PH
+D$@I
+D$HH
+D$8H
+D$ H
+D$@H
+|$HH)
+d$PH
+\$8H
+D$(L
+d$0H
+X[]A\A]A^A_
+ATUI
+AWAVI
+AUATUSH
+[]A\A]A^A_
+t$0M
+ATUA
+D$X1
+L$XdH3
+`[]A\
+AUATUSH
+/sys/bloH
+/device
+[]A\A]
+AWAVAUATUSH
+D$x1
+<stx<v
+duyA
+0urA
+L$xdH3
+[]A\A]A^A_
+T$4H
+T$4H
+L$0L
+D$,H
+L$(H
+T$,H
+t$ 1
+AYAZ
+T$8H
+t$@E1
+/fp@0,0
+D$(A
+t$@L
+D$,A
+D$4M
+`PAW
+D$4M
+`PAW
+u#PM
+t$@A
+T$4L
+`PAW1
+t$PH
+ATU1
+D$(1
+T$(dH3
+0[]A\
+ []A\
+AUATUSH
+D$(1
+L$(dH3
+8[]A\A]
+AWAVAUATI
+|$0H
+D$0{HJ
+|$PH
+|$ H
+D$ {HJ
+0<	w
+[]A\A]A^A_
+|$pH
+D$p{HJ
+AVAUA
+$pHJ
+D$h1
+|$ H
+D$ d
+D$0H
+D$hdH3
+p[]A\A]A^
+|$@H
+l$PH
+t$ dH
+D$81
+T$(H
+D$8dH3
+D$(1
+L$(dH3
+D$(1
+L$(dH3
+D$(1
+L$(dH3
+AUATI
+# GRUB E
+nvironme)
+nt Block
+########H
+[]A\A]
+AWAVI
+AUATM
+D$X1
+|$01
+T$01
+|$DH
+T$DH
+tFf.
+D$XdH3
+h[]A\A]A^A_
+T$(1
+HcL$(
+|$,L
+T$,1
+AWAVAUATUSH
+t$X1
+|$(L
+|$(H
+'\''H
+printf "H
+t$$H
+|$0H
+GRUB_ENAH
+BLE_CRYPH
+TODISK=%H
+s\nGRUB_H
+DISTRIBUH
+TOR=%s\nL
+d$@H
+", "$GRUH
+B_ENABLEH
+_CRYPTODH
+ISK", "$H
+GRUB_DISH
+TRIBUTORH
+D$XdH3
+h[]A\A]A^A_
+|$(H
+AVAUA
+ATUI
+ []A\A]A^
+AWAVI
+AUATI
+t$ L
+t$!Mc
+|$0L
+\$1f
+[]A\A]A^A_
+ATUI
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+AWAVI
+AUATI
+D$(1
+L$(dH3
+8[]A\A]A^A_
+t-USH
+AWAVI
+AUAT
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATI
+D$(1
+L$ H
+D$ 1
+L$(dH3
+8[]A\A]A^A_
+ATUH
+AUATI
+DBt|f
++HtEf
+XHt>
+[]A\A]
+\$TI
+|$|H+u
+D$~D
+AVAUA
+ATUI
+ []A\A]A^
+AVAUI
+ATUSH
+[]A\A]A^
+[]A\A]A^
+AVAUATUSE
+[]A\A]A^A_
+AUATI
+[]A\A]
+AWAVI
+AUATUSL
+L$h1
+t$ H
+T$(L
+t$@L
+L$Ht	A
+D$PA
+D$TA
+D$0H
+D$0E1
+t$Xf
+L$@H
+\$ H
+t	D9(
+\$(H
+D$PH
+T$XH
+D$hdH3
+x[]A\A]A^A_
+L$@A
+T$@I
+D$Ht
++T$T
+Eleele
+D$T)
+T$8H
+T$Tf
+D$<%
+D)L$
+L$ 1
+ATUI
+[]A\
+\$ tHH
+AWAVAUATUSH
+G0dH
+dH34%(
+([]A\A]A^A_
+[]A\
+AWAVAUATUSH
+D$H1
+t$ L
+h$fD
+t$ L
+t$,H
+\$HdH3
+X[]A\A]A^A_
+t$8D
+L$<H
+t$,H
+L$0E
+D;D$
+D;k(I
+t$,L
+L$CD
+ATUSH
+[]A\
+AWAVAUATUS
+[]A\A]A^A_
+fD;C
+K fE
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVAUATUSH
+D$(1
+\$(dH3
+8[]A\A]A^A_
+ATUSH
+D$X1
+|$XdH3<%(
+`[]A\
+L$JH
+t$HA
+AWAVE
+AUATI
+D$(1
+|$81
+\$ I
+D$ H
+L$(dH3
+8[]A\A]A^A_
+|$ J
+AVAUI
+ATUH
+D$81
+L$8dH3
+@[]A\A]A^
+t4L9
+AUATI
+[]A\A]
+t@E1
+AUATI
+$t7E1
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+([]A\A]A^A_
+AWAVAUATUSH
+|$(H
+T$pH
+L$XL
+L$`H
+t$(u5
+D$(D
+H;\$
+D$8D
+\$HM
+T$0H)
+H+T$(E
+T$0D
+\$HD
+D$8A
+H;\$
+D$`H
+D$@H
+H9\$0
+t$LH
+D$XH
+L$8L
+D$8H
+D$HH
+D$hH9L$`
+H9\$0
+HcD$
+t$hH9
+D$PH
+t$(L
+d$(D
+D9d$
+D9d$
+v99\$
+D9d$
+$9D$ 
+=fh.
+?tDA
+t$PL
+t$@H
+H9t$0H
+D$@t?
+D$@H
+t$h1
+H94$
+H9D$0
+t$LI
+\$HH9\$0
+\$@H+\$pH
+dH34%(
+[]A\A]A^A_
+A2\7
+D$8H
+D$pH
+L$(D
+=_Z.
+L$(D
+t$xD
+L$(D
+t$xD
+L$(D
+H9L$`
+L$8H
+H9\$0
+t$8H9t$`}
+H9\$0
+t$HH
+H9\$0
+L$8H
+H9\$0
+D$8H
+D$LD
+\$@D
+T$8D
+L$HH
+D$LD
+\$@D
+T$8D
+L$HH
+AWAVM
+AUATM
+T$`H
+([]A\A]A^A_
+([]A\A]A^A_
+tYv'@
+AWAVA
+AUATUSH
+D$x1
+|$ 1
+|$ 1
+-vJ.
+|$ 1
+\$(0
+L$xdH3
+[]A\A]A^A_
+=)1/
+D$(D!
+D=eG.
+ATUI
+=wF.
+=zF.
+[]A\
+=yF.
+AUATI
+[]A\A]
+[]A\A]
+AUATUSH
+dH34%(
+[]A\A]
+AWAVI
+AUATI
+H;D$
+{ H)
+[]A\A]A^A_
+t|I9
+[]A\A]A^A_
+ATUI
+D$@H=
+T$@H
+D$HH
+[]A\
+D$@H9
+AWAVAUATUS
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUI
+ATUH
+[]A\A]A^
+AUATL
+$aD1
+[]A\A]
+ATUH
+$[]A\
+G0H)
+H;S H
+[]A\
+ATUI
+[]A\
+t[AWAVA
+AUATI
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVM
+AUATA
+[]A\A]A^A_
+ATUL
+[]A\
+D$81
+D$ H
+T$8dH3
+D$81
+D$ H
+L$8dH3
+\$81
+\$8dH3
+AWAVI
+AUATM
+t	E;
+[]A\A]A^A_
+D$0H
+D$0H
+D$xI
+\$x1
+\$lA#
+d$lD)
+D$l+
+\$lA#
+\$xI
+T$lA#
+t$x1
+L$0H
+@:|2
+L$0H
+t$xA
+\$lA#
+@88u
+D:L>
+|$x1
+t$lL
+|$xD!
+\$lA#
+\$lA
+D:L9
+|$,A
+D$ f5
+T$,D
+D$(E
+D$\D
+9t$(
+t$ H
+L$pH
+L$,f
+t$01
+D$81
+D$@H
+D$pI
+@8t$
+H+T$ A
+D$@D
+L$PH
+T$PH
+t$HI)
+D$HH
+D$89D$XL
+L$Pv<A;
+\$89
+|$@9
+D$@A9
+|$@H
+T$ H
+|$(M
+D$@A
+D$\)
+D$XB
+D$,9
+L$hL
+L$pA
+D$\L
+T$`F
+|$8!
+|$<L
+L$PI
+D$PD
+T$<D
+\$(D
+L$hB
+#t$8D
+D$\L
+T$`H
+L$8I
+T$<A
+T$PE9
+L$<f
+T$8f
+D$PA
+;D$H
+D$ E
+D;D$8u
+D$8L
+L$ A
+L$ D
+L$ D
+|$,L
+L$ D
+|$PD
+|$PD
+L$ D
+L$PJ
+L$hH
+9t$(A
+|$<H
+L$0L
+T$HL
+L$@L
+\$,9
+9t$(A
+D$XA
+D;L$
+L$0A
+L$(D
+T$ D
+T$ D
+\$lA
+D$(1
+D$HH
+L$@L
+L$PH
+\$(dH3
+AWAVI
+AUATI
+\$hH
+T$pH
+[]A\A]A^A_
+T$PH
+t$xSL
+t$xD
+L$xL
+t\r:H
+ATUI
+g:E1
+Rt6H=
+[]A\
+AUATA
+ufI+
+[]A\A]
+[]A\A]
+AWAVAUATA
+[]A\A]A^A_
+]A\A]A^A_1
+[]A\A]A^A_
+AUATUSH
+D$81
+\$8dH3
+H[]A\A]
+AWAVAUATUSH
+[]A\A]A^A_
+H;D$
+?.t 
+AVAUATUI
+[]A\A]A^
+AWAVAUATUSH
+D$H1
+H9\$
+T$,H
+L$HdH3
+X[]A\A]A^A_
+T$ uKH
+L$0H
+AVAUATU1
+D$x1
+L$xdH3
+[]A\A]A^
+T$JH
+AWAVI
+AUATH
+	USH
+[]A\A]A^A_
+u<ATUI
+ATUSH
+\$@I
+D$ 1
+[]A\
+[]A\
+ATUH
+[]A\
+[]A\1
+AUATI
+"u]H
+]t!H
+[]A\A]
+[]A\A]
+t\A8
+AWAVAUATUS1
+[]A\A]A^A_
+C0H9
+D$ I
+t$HL
+|$HI
+D$HI
+D$Hf
+T$HH
+t$HH
+|$HD
+|$HH
+|$HH
+D$HH
+D((I
+D$@M
+D9i w
+A9D$
+D$HH
+D$Hu
+|$HI
+D$0J
+D$ H9
+D$HH
+T$HH
+t$HH
+D$@H
+|$HE
+D$HI
+|$HI
+|$HA
+D$HI
+A9\$
+t$HI
+T$PM
+|$HA
+D$HE
+D$,E
+|$HD
+t>@8
+t$HH
+|$HH
+D$(A9E 
+t$HH
+D$8I
+|$HH
+t$HH
+|$HH
+A9m 
+D$@H
+AWAVI
+AUATI
+D$(1
+S(AUL
+t$(dH34%(
+8[]A\A]A^A_
+AWAVI
+AUATI
+D$(1
+S(ATL
+t$(dH34%(
+8[]A\A]A^A_
+AWAVAUATI
+[]A\A]A^A_
+D$ 1
+;D$|
+D$hH
+L$@M
+D$tPD
+AWAVI
+AUATI
+A9F 
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+	AUATI
+T$8L
+D$<A
+t$$L
+d$ A
+D$(H
+H[]A\A]A^A_
+T$$M
+Hc|$8
+D$ L
+D$(H
+Hc|$<H
+D$0L
+\$ 4
+D$0H
+D$(H
+t$0H
+t$(L
+Hc|$<H
+L$0L
++L$$H
+T$(H
+Hc|$<H
+@`A9
+H|r\
+s	E1
+ttU@
+A:xHu
+A:pIu
+A8PJ
+A+H$@
+A+H4
+A+H<
+A+H,	
+t#A:xHu
+A:pIu
+A:PJu
+E8HK
+A+H$
+A+H,
+A+H4	
+A+H<	
+AVUH
+PJ[]A^A
+[]A^
+PF[]A^A
+AVAUA
+ATUSH
+,t]H
+ []A\A]A^
+AVAUATUS
+D$(1
+l$`E
+T$hE
+CL$`
+t$hD
+L$`D
+CL$h
+L$hD
+CL$`
+L$`D
+CL$hD;T$`D
+GT$`9
+AQAPE
+t$ H
+\$(dH3
+0[]A\A]A^
+l$`E1
+L$hA)
+T$`A)
+t$hE1
+AVAUATUS
+D$(1
+l$`E
+T$hE
+CL$`
+t$hD
+L$`D
+CL$h
+L$hD
+CL$`
+L$`D
+CL$hD;T$`D
+GT$`9
+AQAPE
+t$ H
+\$(dH3
+0[]A\A]A^
+l$`E1
+L$hA)
+T$`A)
+t$hE1
+AWAVAUATA
+[]A\A]A^A_
+PXD9
+T$ )
+T$$D
+T$ H
+Hc|$
+t$(H
+Hc|$
+D$ C
+Hc|$
+~!f.
+T$ D
+t$$L
+|$(E1
+T$ D
+t$$L
+AVAUA
+ATUI
+[]A\A]A^
+AUATUSH
+[]A\A]
+[]A\A]
+AVAUA
+ATUI
+D$h1
+L$hdH3
+p[]A\A]A^
+T$(H
+T$0H
+T$8H
+D$ H
+T$@H
+T$HH
+AWAVI
+AUAT
+[]A\A]A^A_
+ATUSH
+ []A\
+%mz.
+%Uz.
+ATUH
+D$xA
+t$yH
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATI
+D$(H
+D$(A9
+[]A\A]A^A_
+\$,A
+ARPh0
+AUATI
+([]A\A]
+ATUI
+D$(1
+t$(dH34%(
+0[]A\
+AUATA
+[]A\A]
+[]A\A]
+AUATA
+([]A\A]
+{ 1SFAt
+AWAVAUATUSH
+\$(L9
+T$ I
+T$ I
+\$(A
+H9\$
+[]A\A]A^A_
+X[]A\A]A^A_
+D$@L
+D$Ht
+|$ M
+\$(I
+L9t$@
+L;t$8tgH
+L$LI9
+t$8L9
+D$,A
+|$(H
+T$0L
+L$LMc
+t$ L)t$(
+[]A\A]A^A_
+D$ L
+L$(E1
+\$0L
+L$(I9
+L$(L
+H9D$ L
+AWAVM
+AUATM
+D$H1
+^_t*H
+L$HdH3
+X[]A\A]A^A_
+D$<H
+T$8I
+D$<H
+AWAVAUATUSH
+T$ H
+D$< 
+T$ H
+t$0M
+|$(I
+T$ H
+t$0A
+|$(L
+A[A\
+|$lH
+l$dH)
+l$(H
+D$8L
+D$XPH
+D$XPH
+T$ H
+t$0H
+|$(L
+L$XL
+AYAZ
+|$@D
+|$PL
+t$HE1
+@83u/
+6@:1t
+D$XL
+D$XH
+l$(J
+D$ L
+dH3<%(
+[]A\A]A^A_
+D$XL
+D$XN
+D$ L
+D$XH
+l$(H
+AUATI
+[]A\A]
+[]A\A]
+ATUH
+[]A\
+|$|H
+D$ I
+D$ H
+D$(I
+D$(H
+D$0I
+D$0H
+D$8I
+D$8H
+D$@I
+D$@H
+D$HI
+D$HH
+D$PI
+D$PH
+D$XI
+D$XH
+D$`I
+D$`H
+D$hI
+D$hH
+D$pI
+D$xA
+AWAVAUATUSH
+[]A\A]A^A_
+D$pH
+D$lL
+|$dL
+T$XL
+t$8j
+D$HH
+_AXu;H
+|$8I9
+D$PH
+AYAZt
+D$8PH
+t$(L
+L$8L
+D$0H
+D$DH
+|$ ;_
+T$(D
+t$(H
+{ 1SFBt
+AWAVAUATUSH
+JLL)
+T$(L
+\$ I
+\$ I
+T$(I
+H;\$
+[]A\A]A^A_
+X[]A\A]A^A_
+D$@L
+|$ M
+\$(I
+L9t$@
+L;t$8taH
+D$0J
+L$LI9
+t$8L9
+D$,A
+|$(H
+L$LMc
+|$0H
+t$ L)t$(
+[]A\A]A^A_
+D$ L
+T$(t
+T$0E1
+KLH)
+\$0I9
+T$(I
+T$(L
+H9D$ L
+AWAVM
+AUATM
+D$H1
+^_t*H
+L$HdH3
+X[]A\A]A^A_
+D$:H
+T$8I
+D$:H
+AWAVAUATI
+L$8L
+L$(1
+T$ j
+D$hH
+D$XPH
+D$XPH
+T$0H
+t$(H
+|$ L
+L$XL
+D$HD
+l$01
+|$PD
+D$XI
+|$(J
+[]A\A]A^A_
+D$XH
+ufE1
+D$XH
+D$XH
+D$XH
+\$(H
+AWAVI
+AUATI
+L$ H
+L$8M
+[]A\A]A^A_
+t$8M
+L$8L
+D$0L
+D$ H
+L$(H
+|$ E
+ATUH
+[]A\
+|$|H
+D$ I
+D$ H
+D$(I
+D$(H
+D$0I
+D$0H
+D$8I
+D$8H
+D$@I
+D$@H
+D$HI
+D$HH
+D$PI
+D$PH
+D$XI
+D$XH
+D$`I
+D$`H
+D$hI
+D$hH
+D$pI
+D$xA
+AWAVAUATUSH
+t$ dH
+[]A\A]A^A_
+T$HH
+l$HM
+L$lA
+D$4M
+T$HH
+t$ I
+L$L1
+D$ H
+t$0H
+AWAVAUATI
+[]A\A]A^A_
+D$pH
+AZA[
+D$hL
+t$pL
+T$XL
+|$8j
+D$HH
+^_u?H
+t$8I9
+D$PH
+AXAY
+D$8PH
+t$(L
+L$8L
+D$0H
+|$ f
+D$@H
+T$(D
+t$(H
+AWAVI
+AUATI
+EHH9D$Hv
+[]A\A]A^A_
+AWAVAUATUSH
+D$(1
+L$(dH3
+8[]A\A]A^A_
+L$ E1
+L9l$ L
+FD$ K
+L$ E1
+D$ L
+r w#H
+F	H9G	
+AWAVAUATI
+T$ H
+L$@D
+D$0I
+D$8L
+L$8H9L$0swA
+d$0H
+l$8H
+D$	M
+D$	I9
+D$=H
+D$HI
+L$`L
+D$hH
+$H9D$y
+D$HH
+L$PH
+t$XL
+D$yH
+d$pM
+F,P1
+T$`H
+D$hH
+L$@L
+T$`H
+l$pPA
+D$.R
+D$,PH
+D$8L
+D9|$
+H)D$@H
+D$ H
+dH3<%(
+[]A\A]A^A_
+D$ H
+T$`I
+D$hH
+T$hH
+D$`H
+D$(I
+AWAVI
+AUATI
+L$0H
+AZA[
+|$`1
+D$@E
+L$@1
+|$@L
+D$`H
+D$8H
+D$hH
+D$@H
+D$pH
+D$HH
+T$0A
+[]A\A]A^A_
+L$@1
+|$@L
+D$`H
+D$8H
+D$hH
+D$@H
+T$0A
+D$qH
+D$AH
+L$uH
+D$(H
+D$qH
+L$ H
+D$(H
+D$ H
+L$EH
+D$(H
+D$AH
+L$ H
+D$(H
+D$ H
+AWAVAUATUSH
+D$x1
+D$HlL
+\$Ij
+L$HL
+D$@H
+T$pH
+L;d$`
+|$hl
+|$8H
+D$iI
+L$8H
+t$0E1
+D$i1
+L$ L
+\$(H
+\$(L
+H+D$
+\$xdH3
+[]A\A]A^A_
+L$8I
+H5H9
+w%E1
+AVAUI
+ATUI
+OPdH
+T$ H
+ZYu*H
+H9D$0u
+8D$8t;
+dH3<%(
+[]A\A]A^
+H9D$9u
+T$PE1
+ATUI
+D$H1
+T$@H
+H;\$0u
+|$HdH3<%(
+P[]A\
+4$E1
+AWAVI
+AUATUSH
+[]A\A]A^A_
+T$0E1
+ujE1
+AWAVAUATI
+L$ dH
+D$< 
+D$	H
+D$0L
+L$XL
+D$PH
+T$`H
+t$PL
+L$HH;L$(v.H
+L$HH
+t$@H
+L;l$HK
+[]A\A]A^A_
+D$0H
+L$XL
+D$PH
+T$`H
+AXAY
+8D$X
+D$PI9
+D$YI
+L9l$H
+L$XL
+D$PH
+D$PH9
+D$X8C
+t$@H
+T$pE1
+L$ A
+D$ H
+t$pH
+D$ L
+T$ L
+AWAVI
+AUATUSH
+L$'H
+T$8H
+t$`H
+[]A\A]A^A_
+D$'H
+L$8H
+T$`H
+D$HD
+D$HPL
+L$@L
+D$8H
+L$`H9
+L$0L
+T$(H
+t$@H
+D$`H9
+L$0H9L$
+L$0H
+t$(E1
+T$PI
+t$PA
+D$PA
+H;D$0M
+L$8I
+L$0H
+T$(H
+t$@H
+AVAUI
+ATUI
+t$ H
+[]A\A]A^
+T$ L
+T$ H
+t$@H
+D$PI
+\$PI
+AVAUATUH
+H;W0H
+H9S0H
+<$u`
+dH34%(
+ []A\A]A^
+ATUH
+D$X1
+HcL$
+D$01
+|$0ORBCt:
+\$XdH3
+`[]A\
+D$4-1111
+L$DH
+T$<H
+ATUH
+[]A\
+[]A\
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+AWAVI
+AUATI
+[]A\A]A^A_
+</u?
+</tx
+tt<.u
+</uGf
+</tO
+tK<.u
+/tJH
+8/t=H
+AWAVAUATI
+D$X1
+\$8H
+|$8H
+|$8H
+L$,H
+T$(H
+t$0L
+t$0H
+tT</
+|$8H
+|$0u%L
+</tV
+tR<.
+8/t	H
+\$XdH3
+h[]A\A]A^A_
+t$0L
+|$0%
+D$@H
+L$8H
+T$,tS
+D$@x
+T$DH
+t$@L
+AWAVAUATI
+tT</
+:/t	H
+([]A\A]A^A_
+</th
+td<.
+AWAVI
+AUATI
+D$(1
+L$(dH3
+8[]A\A]A^A_
+tGUSH
+D$(1
+L$(dH3
+ATUH
+[]A\
+[]A\
+[]A\
+AUATI
+God A red nugget A fat egg under a dog
+[]A\A]
+[]A\A]
+AWAVI
+AUATI
+D$(1
+L$(dH3
+8[]A\A]A^A_
+C t	
+tGUSH
+D$(1
+L$(dH3
+ATUH
+[]A\
+[]A\
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+AWAVAUATI
+D$X1
+\$XdH3
+h[]A\A]A^A_
+T$AH
+t$BL
+M tE
+T$0H
+L$1H
+d$;H
+T$<H
+t$AA
+tGUSH
+D$X1
+L$XdH3
+ATUH
+[]A\
+[]A\
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+tGUSH
+D$x1
+L$xdH3
+ATUH
+[]A\
+[]A\
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+AWAVAUATI
+D$x1
+\$xdH3
+[]A\A]A^A_
+|$6L
+|$.L
+D$6uA
+L$^H
+D$H1
+L$(H
+|$HdH3<%(
+P[]A\
+shfA
+ARfA
+AVAUI
+ATUI
+[]A\A]A^
+D$(1
+D$ t4H
+D$ H
+D$ H
+\$(dH3
+AUATI
+<$L9
+=2	-
+[]A\A]
+l$PI
+D$@1
+<v41
+AUATA
+([]A\A]
+AWAVAUATUSH
+w`E1
+dH3<%(
+([]A\A]A^A_
+H9\$
+H9\$
+AVAUATUSH
+D$x1
+t$xdH34%(
+[]A\A]A^
+l$&fE
+D$#fE
+T$ E
+L$!E
+AWAVI
+AUATM
+v@dH
+D$(1
+l$pL
+A;~DH
+A;nDA
+FHwi
+L$$1
+D$$A9F$
+A;F,
+L$$A
+\$(dH3
+8[]A\A]A^A_
+{8I)
+WXVL
+AWAVH
+AUATA
+[]A\A]A^A_
+G(Mc
+G Hc
+[]A\A]A^A_
+([]A\A]A^A_
+ATUI
+D$81
+L$8dH3
+@[]A\
+AWAVAUATUSH
+D$h1
+|$0A
+T$0H
+D$ u
+D$L@
+D$J	
+\$hdH3
+x[]A\A]A^A_
+t$ H
+|$PH
+t$ H
+ATUH
+U@[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+D$}<
+T$XH
+{(vh
+AWAVI
+AUATI
+D$(1
+;V<H
+A;n<A
+F@wo
+L$$1
+D$$A9F 
+A;F(
+L$$A
+\$(dH3
+8[]A\A]A^A_
+{8I)
+WXVL
+AWAVAUATUSH
+L$8L
+D$ L
+<$/t
+ _AX
+D9d$
+D9d$
+|$xH
+D$pE1
+T$@D
+T$0H
+t$@H
+D$TH
+D$`H
+[]A\A]A^A_
+D9d$
+T$0H
+t$@H
+|$pH
+ATUH
+U@[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVAUATI
+D$H1
+|$ A
+L$!H
+\$HdH3
+X[]A\A]A^A_
+AWAVH
+AUATM
+t I;F
+?/tpI
+~ I;~
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+]A\A]A^A_
+~ I;~
+~ H9
+AUATI
+i8I)
+[]A\A]
+[]A\A]
+i8L+i0
+D$H1
+:/t6L
+\$HdH3
+AWAVAUATI
+L$0H
+T$(H
+T$@H
+D$<D!
+D$LH
+D$@D
+L$(I
+|$0I
+L$0Hc
+|$8H
+L9t$
+L9t$ t#L9t$
+t`E1
+T$H#T$<
+[]A\A]A^A_
+D$@H
+X[]A\A]A^A_
+t$L)
+H9P H
+AWAVAUATM
+L$H1
+t$ f
+D$8A
+L$HdH3
+X[]A\A]A^A_
+D$(1
+L$(dH3
+AWAVI
+AUATA
+|$ dH
+D$81
+D$ f
+|$8dH3<%(
+H[]A\A]A^A_
+AWAVAUATI
+T$0H
+L$ H
+|$(H
+D$8H
+H9\$
+D$(Ic
+D$ H
+[]A\A]A^A_
+D$0H
+H[]A\A]A^A_
+D$81
+;BDtM
+{|H+
+D$PH
+D$pf
+D$`H
+D$pf
+t$ 1
+ATUI
+AWAVAUATUSH
+L$0H
+[]A\A]A^A_
+D$eH
+D$FH
+d$GL
+\$AH
+L94$
+L+t$ x]H
+D$pH
+t$@1
+\$vM
+D$(H
+D$0H
+ATUI
+D$X1
+L$XdH3
+`[]A\
+t$JH
+D$x1
+\$xdH3
+[]A\
+T$@H
+dH34%(
+D$ H
+L$ 1
+T$,L
+L$ A
+AUATI
+([]A\A]
+r'w 
+rLwPUSH
+ATUI
+D$@1
+l$@H
+D$"f
+D$"f
+D$"f
+dH3<%(
+[]A\
+t$TL
+D$\H
+l$@f
+AUATI
+<$I9
+[]A\A]
+\$PI
+AWAVAUATI
+D$8H
+L$0H
+T$(H
+|$(1
+,?t2
+t0H9\$
+D$ H
+D$0L
+H[]A\A]A^A_
+D$0L
+D$8L
+[]A\A]A^A_
+[]A\A]A^A_
+ATUH
+OHSI
+D$(1
+$HcT$
+\$(dH3
+0[]A\
+AVAUATUI
+D$(1
+HcD$
+\$(dH3
+0[]A\A]A^
+AWAVI
+AUAT
+D$x1
+|$xdH3<%(
+[]A\A]A^A_
+D$XH
+L$PH
+D$`I
+l$PM
+|$8I
+D$HA
+t$8L
+H;T$@
+|$0H
+D$(L
+|$$L
+\$(H
+ATUI
+D$(1
+t$(dH34%(
+0[]A\
+AWAVAUATI
+T$(H
+D$ I
+H;D$ 
+\$ I
+[]A\A]A^A_
+[]A\A]A^A_
+D$(H
+8[]A\A]A^A_
+\$(H
+D$h1
+l$R1
+T$Bf
+L$Df
+t$FfD
+D$HfD
+L$JfD
+T$LfD
+\$Nf
+\$PfD
+d$Tf
+D$`t(H
+L$hdH3
+p[]A\
+D$ H
+D$@H
+D$(H
+HcT$
+|$@fpmc
+T$HA
+t$8L
+|$P1
+rLwPUSH
+dH34%(
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_1
+AWAVI
+AUATH
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATI
+D$0D
+l$@E
+D$\H
+D$dH
+D$lH
+D$|A
+|$@I
+[]A\A]A^A_
+ATUH
+D$,H
+D$4H
+D$<H
+[]A\
+AWAVAUATUSH
+l$`1
+dH3<%(
+[]A\A]A^A_
+T$PH
+T$PIc
+D$8I
+D$@I
+D$HI
+D$PA
+F<xR
+T$0H
+T$8H
+T$@H
+T$HH
+P,y~
+D$0H
+|$ H
+t$ A
+|$ I
+t8!L
+D$P<
+ATUI
+D$ H
+l$ H
+D$<H
+D$DH
+D$LH
+dH34%(
+[]A\
+AWAVAUATUSH
+D$H1
+L$"f
+t$$fD
+D:d40
+|$HdH3<%(
+X[]A\A]A^A_
+AVAUA
+ATUH
+[]A\A]A^
+AWAV
+AUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUA
+ATU1
+D$H1
+L$&f
+L$HdH3
+P[]A\A]A^
+AUATUSH
+C Ic
+[]A\A]
+=hb-
+xeH9
+xo t
+> u	H
+AVAUH
+ATUSD
+[]A\A]A^
+t$ H
+[]A\H
+A]A^
+AWAVAUATI
+D$8M
+D$8D
+l$0I
+l$(L
+D$4H
+t$(E1
+L9<$vrH
+u;L9|$ 
+#L$4
+#\$0A
+[]A\A]A^A_
+D$8H
+H[]A\A]A^A_
+[]A\
+AUATUSH
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+AWAVH
+AUATI
+p8M)
+[]A\A]A^A_
+([]A\A]A^A_
+ATUH
+=3w,
+U@[]A\
+AVAUI
+ATUI
+=nv,
+[]A\A]A^
+AWAVAUATUSH
+D$H1
+\$0M
+\$8A
+D9t$
+D9t$ 
+D9t$$
+\$HdH3
+X[]A\A]A^A_
+D$FHc
+D$8H
+D$01
+t^f=
+AWAVAUATI
+D$H1
+$</t
+LcCHI
+L$ 1
+xPHcCHH
+t$ L
+ty9k
+T$HdH3
+X[]A\A]A^A_
+AWAVI
+AUATI
+D$H1
+L$HdH3
+X[]A\A]A^A_
+LcCHH
+L$ 1
+HcSHf
+|$ f
+ATUI
+/t8H
+[]A\
+\$PI
+AWAVI
+AUATUSH
+D$81
+\$8dH3
+H[]A\A]A^A_
+t$4H
+t$4D
+D$(I
+D$ 1
+f=h$t^f=x$u0
+AWAVAUATI
+D$H1
+$</t
+LcChI
+L$ 1
+xPHcChH
+t$ L
+ty9k
+T$HdH3
+X[]A\A]A^A_
+AWAVI
+AUATI
+D$H1
+L$HdH3
+X[]A\A]A^A_
+LcChH
+L$ 1
+HcShf
+|$ f
+ATUI
+/t8H
+[]A\
+\$PI
+AWAVI
+AUATUSH
+D$81
+\$ H
+\$8dH3
+H[]A\A]A^A_
+t$4D
+D$(I
+D$ H
+ZMuHf
+AWAVAUATI
+D$h1
+$</t
+LcCpI
+L$ 1
+xPHcCpH
+t$ L
+ty9k(vTA
+T$hdH3
+x[]A\A]A^A_
+C f%
+AWAVI
+AUATI
+D$h1
+L$hdH3
+x[]A\A]A^A_
+C!@u
+D;c(s
+LcCpH
+L$ 1
+HcSp
+|$ f
+ATUI
+/t8H
+[]A\
+\$PI
+dH3<%(
+AWAVI
+AUATI
+\$ M
+tE"f
+8[]A\A]A^A_
+8[]A\A]A^A_
+D$(I
+D$ 1
+tff=
+AWAVI
+AUATUSH
+D$H1
+McGHI
+L$ 1
+x^IcGHH
+t$ L
+T$HdH3
+X[]A\A]A^A_
+AWAVI
+AUATI
+D$H1
+L$HdH3
+X[]A\A]A^A_
+LcCHH
+L$ 1
+HcSHf
+|$ f
+ATUI
+/t8H
+[]A\
+f=$htff=$xu8
+AWAVI
+AUATUSH
+8[]A\A]A^A_
+8[]A\A]A^A_
+D$(H
+D$ 1
+AWAVI
+AUATUSH
+D$H1
+McGhI
+L$ 1
+x^IcGhH
+t$ L
+T$HdH3
+X[]A\A]A^A_
+AWAVI
+AUATI
+D$H1
+L$HdH3
+X[]A\A]A^A_
+LcChH
+L$ 1
+HcShf
+|$ f
+ATUI
+/t8H
+[]A\
+AWAVI
+AUATUSH
+D$81
+\$ H
+\$8dH3
+H[]A\A]A^A_
+D$4H
+t$4D
+D$(I
+D$ H
+MZuP
+AWAVI
+AUATUSH
+D$h1
+xxMcGpI
+L$ 1
+xZIcGpH
+t$ L
+T$hdH3
+x[]A\A]A^A_
+AWAVI
+AUATI
+D$h1
+L$hdH3
+x[]A\A]A^A_
+C E1
+LcCpH
+L$ 1
+HcSp
+|$ f
+ATUI
+/t8H
+[]A\
+=d=,
+AWAVI
+AUATI
+|$:H
+l$8M
+tlH9
+[]A\A]A^A_
+toI9
+l$8M
+T$@A
+AUATI
+D$(1
+\$(dH3
+8[]A\A]
+AUATA
+A\A]
+[]A\A]1
+AVAUATUH
+44u	
+D$8L
+D$PH
+[]A\A]A^
+D$P1
+|$V44u
+H9C8
+=U2,
+=U1,
+=$1,
+AVAUI
+ATUH
+[]A\A]A^
+@t+f=
+D$(1
+D$ t4H
+D$ H
+D$ H
+=t-,
+\$(dH3
+AUATI
+<$L9
+[]A\A]
+\$PI
+AUATA
+([]A\A]
+ATUI
+[]A\
+AUATA
+([]A\A]
+ATUH
+7tLf;
+f;2u 
+[]A\
+]A\1
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AUATUSH
+[]A\A]
+[]A\A]
+AWAVI
+AUAT1
+C@L9%'
+\$@D
+[]A\A]A^A_
+T$(H
+T$(H
+H+t$ H
+L$8H
+|$xH
+D$0H
+AWAVAUATUS
+S @8(
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVM
+AUATE
+7tUH
+@:0t
+t$PAVH
+[]A\A]A^A_
+ATUI
+[]A\
+]A\1
+AUATI
+[]A\A]
+[]A\A]
+ATUI
+QxH9
+[]A\
+[]A\
+]A\1
+ATUSH
+D$X1
+L$XdH3
+`[]A\
+D$HH
+AUATI
+[]A\A]
+$t6L
+\$PI
+AUATUSH
+wLH)
+([]A\A]
+ATUI
+t%H9
+[]A\
+AWAVI
+AUATI
+o(dH
+D$h1
+\$`H
+\$`H
+D$@f
+|$0H
+L$hdH3
+x[]A\A]A^A_
+D$0H
+D$(1
+t&H9
+t$(dH34%(
+u.H+w
+u2Hcs
+AWAVAUATUSH
+D$81
+A9G@t
+O A+O
+L$,H
+H	H)
+IcO@H
+\$8dH3
+H[]A\A]A^A_
+|$ H
+L$,H
+D$4A
+l$3A
+L$6D
+AWAVI
+AUATI
+T$8H
+L$0H
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+D$8H
+t#=+
+AUATA
+([]A\A]
+tEw#
+AWAVI
+AUATUSH
+D$ I
+t$ M
+L$(H
+D$(H
+\$(L
+[]A\A]A^A_
+D$$E
+D$(H
+D$(1
+|$$A
+AWAVAUATUSH
+[]A\A]A^A_
+D$0A
+D$$L
+t$8D
+t$$I
+D$@A
+H#D$HH
+H!D$HH
+|$@1
+t$$f
+D$PI
+D$`E1
+D$Pf%
+D$XA
+L$(H
+H#D$0H#Q
+t$(H
+d$XH
+\$\E
+D$lE1
+D$XH
+D$Pf%
+D$x1
+H#D$(H
+D$(H
+T$0H
+L$xdH3
+t$0H
+AUATI
+D$h1
+H#D$
+l$ H
+L$hdH3
+x[]A\A]
+EPZY
+AWAVI
+AUAT
+T$ H
+L$XL
+D$HL
+L$PH
+|$pI
+H#D$hH
+D$hH
+|$@H
+T$pH
+t$`1
+T$xE
+H#D$hH
+T$hH
+|$@H
+T$pH
+D$pM
+D$pH
+|$HI9
+L$PH
+3H9D$
+\$0H
+T$@L)
+D$0A
+\$@D
+d$8L
+D$0H
+T$8L
+D$pH
+L$XL)
+dH34%(
+[]A\A]A^A_
+H9D$
+T$(H
+l$0L
+D$XL
+D$`H
+ATUH
+t.E1
+[]A\
+AWAVAUATUSH
+D$X1
+t$ H
+T$(H
+D$PI
+T$8A
+D$0H
+L$(H
+\$XdH3
+h[]A\A]A^A_
+D$4L
+D$@L
+H9D$
+AUATA
+([]A\A]
+AVAUATUI
+dH34%(
+[]A\A]A^
+ATUI
+[]A\
+ATUH
+D$81
+L$8dH3
+@[]A\
+D$H1
+t$ A
+\$(H
+D$ H
+t$HdH34%(
+AUATI
+[]A\A]
+[]A\A]
+AUATUSH
+D$(I
+|$1H
+[]A\A]
+[]A\A]
+ATUI
+$tOH
+AWAV
+AUATUSH
+t$ H
+T$(A
+L$(L
+[]A\A]A^A_
+[]A\A]A^A_
+@|APh HD
+AWAVAUATUSH
+L9l$
+u H9
+([]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+E0tV
+]A\A]A^A_
+AUATI
+([]A\A]
+ATUI
+D$(1
+t$(dH34%(
+0[]A\
+AUATA
+([]A\A]
+AWAVI
+AUATI
+D$(1
+D$&H
+L$(dH3
+8[]A\A]A^A_
+t$&A
+AWAVAUATUSH
+D$X1
+T$8A
+|$HH
+L$HI
+t$HM
+L$XdH3
+h[]A\A]A^A_
+\$8L
+l$8H
+T$0L
+\$(H
+L$ H
+\$(L
+t$ L
+\$ M
+D$x1
+hsqs
+t$`L
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+D$$f
+|$xdH3<%(
+AWAVM
+AUATI
+D$H1
+\$ H
+t$(I
+D$0A
+T$0H
+t$HdH34%(
+X[]A\A]A^A_
+t$(H
+AWAVI
+AUATUSH
+D$x1
+t$ A
+D$ A
+t$0A
+L$$H
+t$@D
+D$6H
+D$6L
+T$6A
+D$@H
+L$0I
+D$HI
+Tacocat
+D$PI
+D$XI
+D$`I
+D$hI
+D$pI
+\$xdH3
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+KHfD
+ATUH
+D$x1
+t$ H
+L$xdH3
+[]A\
+t$ A
+J8fA
+t?fA
+	uHH
+D$x1
+t$ H
+\$xdH3
+t$ A
+AUATA
+([]A\A]
+AWAVE1
+AUATI
+T$ H
+D$01
+M9~0
+dH34%(
+[]A\A]A^A_
+D$(M
+t$0H
+w*f.
+~0dw~
+ATUH
+[]A\
+[]A\
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+AWAVAUATA
+D$H1
+tJf=
+\$HdH3
+X[]A\A]A^A_
+T$$A
+t$ fD
+|$"f
+F:\,0vl
+AWAVAUATUSH
+$9D$
+|$$E
+[]A\A]A^A_
+wDh 
+AWAVAUATUSH
+<,M9
+[]A\A]A^A_
+ATUI
+[]A\
+$[]A
+[]A\
+AUATUSH
+([]A\A]
+AWAVAUATUSH
+D$#H
+H;kD
+D$#L
+L$@<
+T$#H9
+|$@1
+dH34%(
+[]A\A]A^A_
+AVAUI
+ATUI
+]A\A]A^
+]A\A]A^
+]A\A]A^
+ATUH
+D$(1
+t$(dH34%(
+0[]A\
+AVAUATUH
+]A\A]A^
+[]A\A]A^
+ATUI
+[]A\
+t8Hc@ H
+AWAVL
+AUATH
+|$X1
+D$8H
+t$ H
+T$(H
+D$HH9
+D$8H)
+L$HA
+D$0H
+|$8A
+L$ Hc
+L$(H
+L$dH
+T$0I
+L9l$
+\$dD
+T$41
+uVL;l$
+t$01
+|$XdH3<%(
+h[]A\A]A^A_
+H#D$8H
+H#T$
+D$PD
+T$DH
+L$@D
+L$@D
+\$4H
+t$PHc
+D$PH!
+\$4H
+t$PH
+D$PD
+t$PD
+D$PL
+T$4H
+t$PD
+D$PD
+T$@H
+\$4H
+t$PI
+D$PHc
+t$PD
+AWAVAUATI
+D$81
+$</t
+t$ 1
+D$4D
+L$01
+|$7M9
+t$01
+t$ D
+T$8dH3
+H[]A\A]A^A_
+xvuI
+t$(H
+AWAVAUATI
+/t^L
+[]A\A]A^A_
+|$ 1
+T$0H
+T$ L
+t$ f%
+T$$L
+ATUI
+/t>H
+[]A\
+\$PI
+ATUI
+[]A\
+AWAVL
+AUATH
+|$X1
+D$8H
+t$ H
+T$(H
+D$HH9
+D$8H)
+L$HA
+D$0H
+|$8A
+L$ Hc
+L$(H
+L$dH
+T$0I
+L9l$
+\$dD
+T$41
+uVL;l$
+t$01
+|$XdH3<%(
+h[]A\A]A^A_
+H#D$8H
+H#T$
+D$TD
+T$DD
+L$@D
+L$@D
+\$4H
+t$TI
+D$TH!
+t$TD
+\$4H
+D$TD
+t$TD
+D$TL
+T$4H
+t$TD
+D$TD
+T$@D
+\$4H
+t$TD
+\$4I
+D$THc
+t$TD
+AWAVAUATI
+D$81
+$</t
+t$ 1
+D$4D
+L$01
+|$6M9
+t$01
+t$ D
+T$8dH3
+H[]A\A]A^A_
+<vuI
+t$(H
+AWAVAUATI
+/t^L
+[]A\A]A^A_
+|$ 1
+T$0H
+T$ L
+t$ f%
+T$$L
+ATUI
+/t>H
+[]A\
+\$PI
+ATUI
+[]A\
+=}z+
+=Yz+
+=]y+
+=/y+
+AWAVL
+AUATH
+|$X1
+D$0H
+t$ H
+T$(H
+D$HH
+D$0H)
+|$HE
+L$0H
+|$0A
+\$ Hc
+L$dM
+\$0I
+L9l$
+\$dI
+udL;l$
+t$01
+|$XdH3<%(
+h[]A\A]A^A_
+H#D$0
+H#T$
+D$TD
+T$8D
+Do nine men interpret Nine men I nod
+T$8D
+L$DH
+t$TD
+\$@L
+D$TI
+t$TL
+\$@I
+D$TD
+D$TL
+D$TD
+t$TA
+AWAVAUATI
+t$ dH
+D$81
+$</t
+D$4f
+L$01
+\$6f
+t$01
+t$8dH34%(
+H[]A\A]A^A_
+<vrM
+t$(L
+ATUI
+/t>H
+[]A\
+\$PH
+AWAVAUATI
+/tJL
+[]A\A]A^A_
+|$ 1
+T$0H
+T$ L
+t$ f
+T$$L
+AVAU
+ATUH
+L$zI
+[]A\A]A^
+[]A\A]A^
+Cdf%
+s fA
+ARfA
+=8i+
+	ASD
+\$(L
+AUATUSH
+[]A\A]
+[]A\A]
+AUATUSH
+tCHc
+ZYuWA
+[]A\A]
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]A
+[]A\A]
+AWAVI
+AUATUSH
+D$81
+t$ H
+@@E1
+s\fA
+T$ A
+\$8dH3
+H[]A\A]A^A_
+T$ D
+ATUI
+D$(1
+=;_+
+t$(dH34%(
+0[]A\
+AUATI
+-w>,
+\$PI
+<$I9
+[]A\A]
+AUATA
+([]A\A]
+D$(1
+|$ E1
+L3D$
+L3L$
+D$(dH3
+AWAVAUATI
+L$(H
+[]A\A]A^A_
+|$p1
+D$PI
+D0t$_
+l$ L
+|$LH
+T$pN
+t1f.
+|$pL
+H;D$
+l$ H
+t$wH
+|$pL
+\$0H
+\$(H
+D$0H
+\$pH
+|$(L
+t$(1
+D$0H
+H;D$ H
+L$<f
+\$0H
+\$(H
+D$0H
+D$@H
+|$(H
+|$(1
+|$pL
+H;D$
+D$0L
+D$0H
+AWAVAUATUSH
+UAUA
+t$(L
+L$`H
+[]A\A]A^A_
+t$(L
+L$`H
+T$@L
+t$ D
+AWAVI
+AUATI
+\$pH
+D$(1
+D$,PL
+\$(dH3
+8[]A\A]A^A_
+AUATI
+[]A\A]
+ATUI
+~VE1
+dH34%(
+[]A\
+=yL+
+=IL+
+AWAVI
+AUAT
+D$H1
+D$HdH3
+[]A\A]A^A_
+\$HdH3
+X[]A\A]A^A_
+T$,H
+|$ L
+t$ L
+D$HdH3
+\$ H
+D$ L
+D$0H
+|$ L
+D$0I)
+t$0M
+H9D$
+AUATUS
+D$H1
+L$HdH3
+X[]A\A]
+D$ H
+D$(H
+D$0H
+D$8H
+t$ H
+L$(H
+T$0H
+D$8H
+AWAVI
+AUATI
+[]A\A]A^A_
+t	s7C
+3t-H
+O@AVAUM
+]A\A]A^
+]A\A]A^
+AWAVA
+AUAT
+[]A\A]A^A_
+[]A\A]A^A_
+ATUSI
+s]L9
+]A\A]A^
+AWAVAUATI
+[]A\A]A^A_
+T$8D
+D$(H
+\$ A)
+T$0H
+t$0PE
+AWL9
+t$0A
+|$ A9}0
+T$ A
+A9] 
+\$ E
+=?C+
+T$0H
+t$0A
+u(M!
+L$,D
+|$(H
+A+M0D
+L$`H9
+$`(p
+l$@H
+L$PH
+|$`I
+0L12H
+l$@H
+L$PH
+w`US1
+9] w
+t[ATUI
+[]A\
+AWAVE1
+AUATI
+ H9N
+t>H9
+[]A\A]A^A_
+[]A\A]A^A_H
+AWAVAUATI
+D$h1
+|$@1
+T$Pj
+\$<H
+l$(D
+D$ M
+H;l$ u
+l$(L
+\$<H
+t$hdH34%(
+x[]A\A]A^A_
+D$ L
+\$<H
+AWAVI
+AUATA
+_0dH
+D$H1
+D$ H
+D$(H
+D$0H
+D$8H
+_AXt
+<@AQ1
+T$(L
+L$DL
+|$HdH3<%(
+X[]A\A]A^A_
+t$8H
+t$8L
+|$<D
+AWAVI
+AUATUSH
+L$0H
+T$8L
+t$H1
+D$(D
+D$ L
+H#D$ H
+FxH9l$
+D+d$
+T$@1
+H;l$
+t$0H
+L$HdH3
+X[]A\A]A^A_
+T$81
+D$(M
+|$8H
+D$(D
+AWAVI
+AUATI
+D$h1
+L$PH
+T$X1
+t$PH
+D$XE
+\$hdH3
+x[]A\A]A^A_
+d$(M
+=7!+
+FPuM1
+D$0H
+L$TH
+T$`M
+D$TH
+d$(D
+T$0)
+*N D
+|F0f
+L$ H
+H9D$0tcA
+;T$,
+D$ L
+L$(E
+D$0I;D$
+D$@A
+|$@Hc
+T$ H
+;D$,L
+d$H1
+D$8I
+s_Hc
+T$ L
+;D$,
+H;l$@L
+d$Hu
+T$0)
+*N D
+|F0f
+D$@A
+|$8L
+D$ H
+AWAVI
+AUATI
+D$(1
+T$ I
+t$(dH34%(
+8[]A\A]A^A_
+L;}(
+L;}0
+Hct$
+E tz
+D$ H
+U8Hct$
+t	A:
+L$ H
+|$ E1
+L$ H
+|$ 1
+T$(f
+AWAVI
+AUATUSH
+D$@L
+L$PA
+D$LHc
+dH3<%(
+[]A\A]A^A_
+D$(H
+L$|H
+|$|H
+H98u
+t$LH
+l$XL
+t$hE
+l$LL
+t$|H
+T$HH
+t$|H
+D$ L
+T$HH
+L$@H
+T$ H
+l$XH
+\$`L
+AWAVI
+AUATUSH
+D$(1
+T$ 1
+t$(dH34%(
+8[]A\A]A^A_
+AWAVI
+AUATI
+D$(1
+t$(dH34%(
+8[]A\A]A^A_
+AVAUI
+ATUI
+ []A\A]A^
+ []A\
+ATUI
+[]A\
+|$@H
+AUATI
+[]A\A]
+ATUI
+[]A\
+ATUH
+L$ 1
+D$$<,tu<
+[]A\
+AWAVI
+AUATI
+A[]1
+[]A\A]A^A_
+d$ M
+d$ 1
+t$h1
+T$hE1
+t$hI
+D$hH
+T$xE1
+T$pE1
+t$pH
+t$ L
+|$@H
+T$pH
+H#t$pL
+D$(H
+<$E1
+t$8L
+|$PH
+l$XI
+L;l$0
+L9t$
+d$ M
+L$8H
+T$8L
+D$8L
+<$/u>H9l$
+d$ A
+|$PH
+l$XL
+L$8H
+t$HH
+T$8L
+|$ E
+|$@D
+|$@I
+d$ A
+USE1
+USE1
+ATUE1
+ []A\
+AUATUSH
+H9l$
+([]A\A]
+AWAVI
+AUATI
+D$H1
+L$HdH3
+X[]A\A]A^A_
+L$8L
+D$@H
+t$8E
+d$(E1
+L9t$ u
+AWAVI
+AUAT
+T$@H
+D$@I
+t$(H
+T$`H
+T$`H
+|$`H
+|$`H
+D$ E1
+\$DH
+l$HD
+\$DH
+[]A\A]A^A_
+ v"H=
+|$`H
+D$pH
+ v2H=
+|$`H
+|$`H
+D$hH
+L$8H
+D$8H
+|$xL
+L$8;
+L$8H
+|$8L
+D$8H
+L$hH9
+|$8H
+D$8L
+dH34%(
+ATUH
+[]A\
+ATUH
+D$(1
+L$(dH3
+0[]A\
+T$ H
+AVAUI
+ATUI
+T$0H
+[]A\A]A^
+L$0H
+L$PI
+L$0H
+|$PH
+L$PI
+L$PH
+L$0H
+|$PH
+ATUI
+[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUATUSH
+D$(1
+L$(dH3
+0[]A\A]A^
+T$ L
+T$@L
+ATUI
+[]A\
+AWAVAUATUS
+([]A\A]A^A_
+D9d$
+D$(1
+L$(dH3
+D$ H
+s}L9
+rkL9
+AVAUATUI
+[]A\A]A^1
+[]A\A]A^
+s!A)
+AWAVAUATUSH
+D$XL
+[]A\A]A^A_
+AWAVI
+AUATI
+D$ g
+D$(r
+D$,:
+l$ 1
+t$@L9
+l$@1
+t0E1
+l$ L
+D$ H
+D$$H	
+D$(H
+D$,H	
+D$0H
+D$4H	
+D$8H
+D$<H	
+[]A\A]A^A_
+D$ H
+D$$H	
+D$(H
+D$,H	
+D$0H
+D$4H	
+D$8H
+D$<H	
+G D9
+AWAVC
+AUE1
+ATUSD
+d$8D
+;u:A
+D$HA
+D$HH
+D$H[]A\A]A^A_
+D$HA
+	AWAVAUATE1
+USE1
+|$8D
+d$@I
+t2E8
+[]A\A]A^A_
+[]A\A]A^A_
+G@H)
+$tRH
+;s\w,
+C@H)
+9Cxw
+C@H+
+Oxt(
+AUATUSH
+rMD9
+[]A\A]
+C0PAQD
+[]A\A]
+[]A\A]
+[]A\A]
+G@H+
+9G\r
+AUATM
+D;cTtM
+[]A\A]
+[]A\A]
+	AWAVAUATE1
+t$8D
+<9A8
+t/9D$Ps
+D$PH
+9D$PrO
+D$H[]A\A]A^A_
+D$HH
+ATUSH
+rQE9
+[]A\
+C0PAQD
+[]A\
+[]A\
+[]A\
+AVUSH
+E83tuH
+C0PAR
+[]A^
+[]A^
+[]A^
+F  rE
+F(0eE
+F ppE
+@2>H
+AVAUI
+ATUA
+[]A\A]A^
+ []A\
+L$%1
+AWAV
+AUATI
+D$@ 
+l$PE1
+|$0D
+[]A\A]A^A_
+AWAVI
+AUATI
+D$@1
+-*x+
+[]A\A]A^A_
+D$0`
+AWAV
+AUATI
+D$ H
+D$ fA
+REtBA
+\$"H
+L$pfA
+L$xH
+t$XD
+t$8E
+D$PR1
+t$0A
+D$"A
+T$PL
+dH3<%(
+[]A\A]A^A_
+AVAU
+ATUI
+D$@H
+D$@H
+l$ D
+[]A\A]A^
+AVAUI
+ATUI
+D$X1
+D$@ 
+D$PHc
+L$XdH3
+`[]A\A]A^
+	w:H
+	w7H
+T$ H
+D$ L
+H)D$ H
+AVAU
+ATUI
+D$@H
+D$0`
+D$@H
+T$@1
+[]A\A]A^
+AWAVAUATI
+l$Xt
+[]A\A]A^A_
+AWAVA
+AUAT1
+D$ L
+L$(dH
+D$@H
+D$pH
+T$`H
+T$4L
+d$pH
+T$HH
+D$Pt
+t$@H
+D$ H
+T$HH
+[]A\A]A^A_
+D$@I
+ATUI
+C(t`H
+@0H= 
+uGH=
+[]A\
+[]A\
+AVAUA
+ATUI
+D$(1
+L$(dH3
+0[]A\A]A^
+8F8t
+AWAV
+AUATI
+D$x1
+t$0L
+D$8ZYH
+T$ H
+l$0H
+D$@H
+\$HH
+t$0D
+l$PL
+T$8H
+L$xdH3
+[]A\A]A^A_
+AWAVM
+AUATI
+L$HL
+D$PL
+t$p9
+Bl$ H
+9t$DH
+D$hHcD$ A
+t$8H
+T$DD
+t$ E
+|$,D
+L$$E
+;t$ E
+L$,Mc
+t$$A)
+;t$ E
+\$ D
+L$$E
+D$XH
+t$hE
+|$,A
+L$ A
+t$0D)
+t$`D
+dH34%(
+[]A\A]A^A_
+;D$@sK=
+D$0H
+D$XA
++D$@H
+t$PH
+L$HH
+t$0f
+HcD$ 9D$D
+_AXt/
+D$xf.
+ZY~X
+ATUI
+C H9G
+t"Hc
+AWAVAUATUSH
+D9$$B
+t$ H
+AXAY
+vlD;
+^_uo
+[]A\A]A^A_
+AWAVH
+AUATH
+T$0H
+L$ v
+H;\$
+5 U+
+F,Ic
+= T+
+H[]A\A]A^A_
+D$8Ic
+D$<A
+t$8A!
+l$<A!
+vsA)
+\$(D
+\$(A
+N8t!M
+l$ L
+d$0L)
+D$0L
+F0wdL
+ATUSH
+D$(1
+L$(dH3
+0[]A\
+D$ H
+AWAVI
+AUAT
+ uGH
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUAT
+[]A\A]A^A_
+AWAVAUATI
+L$(I
+8[]A\A]A^A_
+L$$I)
+L$$L
+t$(I
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUATUI
+D$(1
+L$(dH3
+0[]A\A]A^
+H9H@
+C4wS
+C09C4tFH
+AWAVAUATI
+D$h1
+O L9
+L$hdH3
+x[]A\A]A^A_
+G0E1
+O4H9
+t$ H
+GHtxA
+ @wLA
+AWAVAUATUSH
+D$H1
+"tb1
+L$HdH3
+X[]A\A]A^A_
+D$+f
+f=?	
+D$-f
+f=P 
+l$1A
+D$AH
+T$AH
+T$AH9
+AWAVH
+7AUATL
+[]H)
+A\A]A^A_
+AWAV
+AUAT
+A]A^A_
+L;T$
+]A\A]A^A_
+dH3<%(
+\$(t
+AWAVI
+AUATI
+t$(H
+|$ M
+t$ I
+D$(L)
+L9d$
+L+d$
+8[]A\A]A^A_
+D$(H
+AUATUSA
+[]A\A]
+[]A\A]
+w)I9
+AWAVAUATA
+DwhL
+|$ @
+]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+T$8M
+|$ L
+T$@H
+[]A\
+GxH)
+@0]A\
+[]A\
+AWAVI
+AUATI
+D$(1
+\$(dH3
+8[]A\A]A^A_
+"I9W
+$I;_ 
+t	H9
+t$ H
+t$ H
+t$ H
+t$ H
+H9x 
+FhtsI
+tSSH
+AVAUATUSH
+t$8D
+T$0)
+[]A\A]A^
+AUATUSD
+D$(E)
+[]A\A]
+AVAUC
+@ATUF
+\$0E
+[]A\A]A^
+AWAVC
+@AUATUSH
+l$pD
+\$xA
+D$ H
+D$ I
+l$(H
+D9d$
+8[]A\A]A^A_
+AWAVAUATUSH
+D$PI
+D9t$
+[]A\A]A^A_
+AWAVI
+AUATI
+L$$D
+HKMc
+D$$M
+D$0M
+D$8L
+|$$L
+L$_L
+D$^H
+L$]H
+9\$(
+[]A\A]A^A_
+l$`I
+D$$D
+HKMc
+L$$D
+l$`I
+L$$D
+PAUD
+L$_H
+L$]H
+T$\L
+t$YH
+t$]@
+|$\@
+L$ZH
+t$]@
+L$[L
+D$ZH
+L$YH
+D9|$
+|$$H
+D$$D
+l$`I
+D$$D
+PAUD
+AYAZ
+PAUD
+PAUD
+PAUD
+,:A9
+D$$M
+D$$M
+\$8I
+|$@L
+D$HH
+D$0H
+l$$L
+L$_L
+D$^H
+L$]H
+|$\D
+|$\@
+t$]@
+\$HH
+\$8H
+D$(9
+D$$L
+\$$D
+\$$D
+D$$K
+|$(D
+L$@I
+D$8I
+\$$H
+|$(D
+\$8A
+\$$I
+D$0L
+D$8L
+|$(D
+L$@I
+|$$H
+D$$D
+l$`I
+D$$D
+TT`fA
+,8A9
+l$`I
+D$$D
+TT`fA
+l$`I
+AWAVAUATUSH
+[]A\A]A^A_
+8~/f
+D;d$
+[]A\A]A^A_
+AUATI
+]0H)
+\$ I
+H)]0L
+[]A\A]
+ATUS
+[]A\A]A^A_
+AWAVL
+AUATUSL9
+[]A\A]A^A_
+ATUS
+[]A\A]A^
+AVAUI
+ATUH
+c8H)
+[]A\A]A^
+Nw2H
+sp;W0sk
+G H)
+sEE1
+H;w(H
+AWAVAUATUSH
+<tw2H
+{pH9{xs
+tw1H
+ []A\A]A^A_
+{w2H
+AWAVI
+AUATL
+O(I+O L
+{pI)
+t%H;
+W D)
+O(I9
+O(L9
+{pH;{xH
+[]A\A]A^A_
+[]A\A]A^A_
+I9W(t
+w`US
+AWAV
+AUATUSH
+D$H1
+T$0D
+7QZ^&
+D$ A
+Y[eA
+\$(A1
+D$HdH3
+X[]A\A]A^A_
+AVAUATUH
+@t[H
+HcET
+t	HcET
+?~uH
+[]A\A]A^
+[]A\A]A^
+AUAT1
+HcST
+[]A\A]
+AVAUATUSH
+/F3\/
+B3T/
+B3\/
+[]A\A]A^
+AUATUSH
+D$H1
+|$HdH3<%(
+X[]A\A]
+D$ D
+}MA9
+2D$ 
+D$ B
+@0t$!B
+@0t$"B
+@0t$#A
+D$ f.
+}OA9
+D$ 3D$$
+D$$3D$(1D$,
+0D$0
+0D$1
+0D$2
+0D$3
+D$03D$4
+D$43D$81D$<
+ATUI
+D$(1
+D$(dH3
+0[]A\
+D$(1
+D$(dH3
+AWAVH
+AUATUSH
+|$XH
+t$PdH
+D$DH
+D$hf
+T$PH
+t$hH
+t$$D
+L$,D
+|$(D
+\$xA
+D$P@D
+t$4E
+|$4D
+t$8E
+D3t$4A
+D3t$
+D3t$8A
+D3t$
+D3T$4D3T$
+D3t$
+t$ E
+|$ E
+D3L$
+D3L$
+nD3D$8D3D$ 1
+t$<D
+3D$ D1
+t$8A	
+D3t$
+D$4E
+L$4A
+D3D$
+D3D$<A!
+t$8D
+D3t$
+D3t$4B
+t$@D
+D3t$
+D3t$
+D3t$ A
+D3t$8E	
+t$HD
+D3t$@E	
+t$ D3t$<B
+D3t$
+D3|$4A!
+D3|$HE	
+L$<A
+D3L$
+D3L$
+D$8E1
+|$@A!
+L$HE!
+\$4A!
+\$8A!
+D$ A
+L$ D
+T$@A!
+D3D$
+D3D$
+D$4A
+L$4D
+D3D$
+T$HF
+3L$ 
+L$<D
+D3L$
+D3L$4D
+3T$8
+D3t$
+D3t$
+3|$<1
+D3|$ D3|$@
+|$pD
+D3L$4
+T$<A
+L$tA
+D3T$
+D$8E1
+T$LF
+T$|1
+D3L$
+3|$LD
+3t$HD1
+D3t$8
+T$<E1
+t$8D3t$
+t$<D3t$@D
+T$LE1
+d$HD
+T$@D1
+D3t$
+T$D1
+l$0D1
+\$01
+D$,D
+T$$H
+L$,D
+D$DH
+[]A\A]A^A_
+AUATI
+@tfH
+HcEX
+tBHcEX
+[]A\A]
+AUAT1
+HcSX
+[]A\A]
+|6*)
+g&3gH
+AWAVAUATUSH
+G8dH
+|$xH
+D$pH
+\$8H
+\$@H
+\$HH
+\$PH
+\$XH
+\$`H
+|$0I
+T$pL
+|$(I
+L$hL
+|$ I
+|$`L
+t$XL
+D$PH
+T$HL
+D$@I
+D7qH
+L$8L
+|$ L
+|$(L
+|$0I
+C I1
+l$ H
+C0I1
+l$(L
+l$0H
+D$PH
+\$xH
+L$8L
+D$@H
+T$HH
+t$XH
+|$`L
+L$hL
+T$pH
+[]A\A]A^A_
+AVAUATI
+tCHc
+[]A\A]A^
+AUAT1
+S@Hc
+[]A\A]
+AVATUSD
+[]A\A^
+AVAUA
+ATUI
+ []A\A]A^
+AWAVAUATUSH
+L$,D1
+|$$A!
+l$(1
+L$4D
+D$<A
+V@E1
+D3t$
+NHE!
+L$$D!
+D$,A1
+l$0D
+D3D$
+T$<1
+F D1
+D3t$
+l$(1
+D3l$
+~t3|$
+T$8D
+@[]A\A]A^A_
+AWAVAUATUSH
+L$ D!
+|$(D
+|$0!
+|$4D
+|$<D
+d$8D
+d$@D
+d$HA!
+d$L1
+T$\D
+t$`D
+d$dD
+d$hA
+^@A1
+D3D$
+T$ E1
+D#F@D1
+FHD!
+D$0D
+D$DD1
+T$4A
+T$HD#T$
+D$LA
+D$PA1
+|$$D
+FXE1
+^\E1
+VtD3D$
+\$8D
+L$@D
+~xA1
+\$(D1
+|$ 3L$
+\$d1
+l$XD1
+\$TA1
+p[]A\A]A^A_
+D$81
+|$(H
+|$,H
+D$8dH3
+3W E
+D3G$3
+3W(A
+3W,E
+3O0E
+3O4E
+3O8D
+D3O<A
+D3GPE
+D3OTE
+D3OX
+D3O\E
+3OhA
+3OlE
+D3GpA
+D3OtE
+D3GxA
+D3O|D3
+D3GxE
+D3O|E
+D3Op
+D3OtE
+3O`A
+3OdE
+D3GXA
+D3O\E
+D3GPA
+D3OTD3
+G@A!
+D3G8E
+D3O<E
+D3O0
+D3O4E
+3O E
+3O$E
+3W E
+D3G$3
+3W(A
+3W,E
+3O0E
+3O4E
+3O8D
+D3O<A
+D3GPE
+D3OTE
+D3OX
+D3O\E
+3OhA
+3OlE
+D3GpA
+D3OtE
+D3GxA
+D3O|D3
+D3GxE
+D3O|E
+D3Op
+D3OtE
+3O`A
+3OdE
+D3GXA
+D3O\E
+D3GPA
+D3OTD3
+G@A!
+D3G8E
+D3O<E
+D3O0
+D3O4E
+3O E
+3O$E
+ONA)
+O4D+
+OME1
+OLA1
+OKA1
+O(D1
+OIE1
+OGD+
+OFA1
+OEA1
+ODD1
+OAD1
+OAE1
+OBD+
+OCA1
+OFD1
+OGA1
+OIA1
+OKE1
+OMD1
+G4A1
+OND1
+G8A)
+OOD1
+D$x1
+L$xdH3
+T$0H
+T$0H
+t$ H
+ATUA
+[]A\
+33331
+A3p$
+A3p,
+A3p4
+A3p<
+A3pD
+A3pL
+A3pT
+A3p\
+A3pd
+A3pl
+A3pt
+A3p|A
+33331
+33331
+A3p$
+A3p,
+A3p4
+A3p<
+A3pD
+A3pL
+A3pT
+A3p\
+A3pd
+A3pl
+A3pt
+33331
+ATUSH
+[]A\
+AVAUL
+[]A\A]A^
+AWAVI
+AUATI
+D$x1
+|$pL
+\$pf
+D$vfD
+\$tfD
+L$rf
+T$^A
+D$\A
+|$`f
+|$fE
+T$dA
+D$xdH3
+[]A\A]A^A_
+AVAUATUH
+t.fE
+t/fE
+[]A\A]A^
+ATUI
+[]A\
+AWAV
+AUATUSH
+D$H1
+T$$A
+D$(D
+\$0D
+L$8D
+t$(E
+t$,B
+T$(1
+L$$A
+T$,1
+D$HdH3
+X[]A\A]A^A_
+AVAUATUH
+@t[H
+HcET
+t	HcET
+?~uH
+[]A\A]A^
+[]A\A]A^
+AUAT1
+HcST
+[]A\A]
+AUATI
+A\A]
+fA+A
+fA+I
+?fF+
+?fB+
+?fB+
+?fB+
+AWAV
+AUATUSH
+|$ dH
+D$h1
+L$$D
+t$,D
+D$4A1
+D$<A
+T$8E1
+|$<D1
+\$@1
+t$DD1
+|$L1
+D$T1
+l$\1
+D$TA!
+D$8A!
+D$ D1
+D$D1
+D$4!
+D$(1
+D$X!
+D$LA!
+D$@A!
+D$XA!
+D$DD1
+D$@1
+D$(1
+D$<	
+D$ 	
+D$8	
+D$T1
+D$L	
+D$4D	
+D$D1
+D$L1
+D$ 1
+D$@1
+D$TD1
+D$<1
+D$X1
+D$41
+D$8D1
+D$(!
+D$ 1
+D$41
+D$DD
+D$X	
+D$@	
+T$<A
+D$(D
+D$L	
+D$T	
+D$8	
+D$L1
+D$<1
+D$ D1
+D$T!
+D$41
+D$X1
+D$@1
+D$D1
+M\D1
+D$(D!
+D$41
+>pmA	
+>pmD
+D$<D	
+>pmA
+>pm	
+>pmD
+D$X	
+>pmD
+D$8	
+>pmD
+D$D	
+>pm	
+D$L1
+>pmD
+D$@	
+>pmD
+D$(D	
+>pm	
+>pmD
+D$ 	
+>pm	
+>pmD
+D$T	
+>pmD
+D$@	
+vmz!
+D$81
+vmzD
+D$LD!
+vmz!
+vmz!
+vmz!
+vmzD
+D$ !
+vmzD1
+vmzD
+D$4!
+vmz!
+D$(1
+vmzD!
+vmzD
+D$T!
+vmzD
+D$D!
+vmzD
+D$<!
+vmzD
+D$X!
+vmzA!
+vmzD!
+|$41
+L$@A1
+t$<A1
+T$(E1
+|$TA1
+L$X1
+t$ D
+T$DD
+|$LA
+D$hdH3
+x[]A\A]A^A_
+AVAUATI
+@thH
+HcCX
+tGHcCX
+[]A\A]A^
+AUAT1
+HcSX
+[]A\A]
+AWAVAUATUSH
+W|D1
+_xD1
+WpD3$
+WlD34
+OhD1
+Od3,
+3W`D1
+W\D34
+3OX1
+OHD1
+W@D3
+G<A1
+3W D1
+[]A\A]A^A_
+AWAVAUATUSH
+W$D34
+3O 1
+O0D1
+W8D3
+GDA1
+3WXD1
+_pD1
+W|A1
+[]A\A]A^A_
+AUATUSH
+T$(1
+D$,D
+D$$	
+T$ D
+T$<D	
+D$8!
+D$0D1
+D$4D
+L$LA!
+D$D	
+T$TD1
+D$PD
+D$XE
+\$`1
+D$hD
+\$dD	
+\$|D!
+A Santa lives evil at NASA
+[]A\A]
+AVAUATUH
+KtE1
+D3S|
+D3[p1
+3CxA
+3ChD
+D3SXA
+[\3CTA	
+D3[HA!
+3sLD1
+3KDE1
+3S03{<E!
+D3C8D	
+3S(!
+3C 1
+ []A\A]A^
+AUATUSH
+D$(1
+3s,1
+3K(A
+3s<D1
+3C8A
+3K@1
+3CPD	
+cdA1
+3ShA
+{tE1
+D3Cx1
+3S|A
+D$(dH3
+8[]A\A]
+D$(1
+L$(dH3
+AWAVAUATUSH
+D$4H
+T$4D
+L$0D
+D$$H
+|$(D
+D$,D
+L$0D
+[]A\A]A^A_
+AVAUATI
+@thH
+HcCd
+tGHcCd
+[]A\A]A^
+AUAT1
+C HcSd
+[]A\A]
+AUATI
+([]A\A]
+_0L1
+H3O I
+O L1
+O0H1
+AUAT
+|$ dH
+D$h1
+L$ H
+L$ H
+L$ H
+L3d$
+D$hdH3
+x[]A\A]
+AVAUATI
+@thH
+HcCX
+tGHcCX
+[]A\A]A^
+AUAT
+C\HcSX
+8t!f.
+[]A\A]
+[]A\A]
+J	D3
+[]D1
+AWAVAUATUS
+[]A\A]A^A_
+@DHc
+HFHc
+H<Hc
+H7Hc
+@DHc
+HFHc
+H<Hc
+H7Hc
+D$(tV
+P-Hc
+PD0L$)
+0T$*D
+0D$)
+0D$*
+0D$(
+0D$)
+0D$*
+0D$(
+0D$)
+0D$*
+0D$(
+0D$)
+0D$*
+0D$(
+0D$)
+0D$*
+0D$(
+0D$)
+0D$*
+0D$(
+D$ tU
+0D$.
+0D$/
+0D$.
+0D$/
+0D$ 
+0D$.
+0D$/
+0D$ 
+0D$.
+0D$/
+0D$ 
+0D$.
+0D$/
+0D$ 
+0D$.
+0D$/
+0D$ 
+0D$.
+0D$/
+0D$ @
+l$+D
+\$,H
+d$-D
+l$/H
+t$+D
+|$)@2
+t$,1
+2T$-@
+t$*@2
+T$(2
+t$ H
+AWAVH
+AUATUSH
+D$`H
+|$ dH
+D$`H
+L$xL
+l$pH
+d$hH
+l$`L
+d$hH
+\$pH3
+\$xH3
+[]A\A]A^A_
+W>H9
+AWAVAUATI
+@toM
+@t/H
+[]A\A]A^A_
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+ATUI
+[]A\
+AUATH
+[]A\A]
+AUAT1
+[]A\A]
+AVAU1
+ATUI
+u9[]A\A]A^
+AUATI
+[]A\A]
+AWAVI
+AUATI
+[]A\A]A^A_
+AVAUI
+]A\A]A^
+]A\A]A^
+AUATI
+[]A\A]
+t,f.
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVM
+AUATI
+([]A\A]A^A_
+([]A\A]A^A_
+AWAVI
+AUAT1
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+$taA
+H)\$
+[]A\A]A^A_
+AWAV1
+AUATI
+[]A\A]A^A_
+|$8H
+AUATH
+D$(1
+L$(dH3
+8[]A\A]
+ATUH
+[]A\
+AWAV
+AUAT
+D$@V
+t$,H
+t$8H
+|$0L
+|$@L
+T$(1
+H9L$
+H9T$
+[]A\A]A^A_
+AWAVI
+AUATI
+D$(%
+L9t$8u
+D$(%
+D$(%
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+D$h1
+D$ b
+D$(f
+D$0p
+|$ H
+l$PH
+D$hdH3
+x[]A\A]A^A_
+<#:u
+D$ b
+D$(f
+D$0x
+D$(H
+tO<\u
+AWAVI
+AUAT
+t$XH
+|$PH
+|$pH
+;</t
+Hc|$L
+\$ H9\$
+T$ I
+[]A\A]A^A_
+D$ M
+l$(L
+l$ L
+l$(L
+T$`D
+L$hI
+\$8E1
+l$0L
+D$ f
+|$ 1
+|$(1
+l$0H
+\$8L
+d$ H
+D$ H
+l$0H
+\$8E1
+l$(N
+AUATI
+[]A\A]
+disc
+[]A\A]
+[]A\A]
+0<	w+H
+0<	w
+AVAUI
+D$H1
+\$HdH3
+P[]A\A]A^
+|$ H
+d$8H
+AVAUATUSH
+D$x1
+L$xdH3
+[]A\A]A^
+T$01
+9l$H
+AWAVAUATUSH
+D$X1
+t,E1
+\$XdH3
+h[]A\A]A^A_
+|$0H
+\$HH
+t$(H
+|$ H
+L$ H
+AVAUI
+ATUI
+l$(H
+u3E1
+[]A\A]A^
+AUATUSH
+([]A\A]
+AWAVAUATUSH
+D$H1
+|$HdH3<%(
+X[]A\A]A^A_
+D$, 
+D$0&
+D$4*
+D$8.
+D$<2
+D$@6
+D$D:
+l$HA
+t$>H
+AWAVAUATUSH
+D$(1
+l$ A
+|$(dH3<%(
+8[]A\A]A^A_
+AVAUATUH
+[]A\A]A^
+L;t$
+u<H)
+AWAVI
+AUATLc
+[]A\A]A^A_
+AUATUSH
+dH3<%(
+[]A\A]
+AUATUSH
+dH3<%(
+[]A\A]
+AVAUATUI
+[]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+T$ A
+	wUI
+hostdiskH
+uDATI
+AVAUA
+ATUI
+hostdisk
+[]A\A]A^
+]A\A]A^
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$(H
+C([H
+AWAVE1
+AUATI
+D$H1
+L$8L
+D$0H
+L$ H
+T$(L
+|$8H
+t$@H
+t$@H
+\$HdH3
+X[]A\A]A^A_
+AUATI
+|$HH
+|$ dH
+D$X1
+D$(I
+L$XdH3
+h[]A\A]
+AWAV
+AUAT
+USE1
+H;D$
+D$ H
+H+D$
+dH34%(
+[]A\A]A^A_
+L9t$
+H+D$
+0<	H
+D$ f.
+M9t$
+|$8L
+|$ 1
+l$0A
+\$(A
+\$(L
+l$01
+L9t$H
+|$xH
+L$H1
+D$ H
+\$(L
+l$0L
+D$HD
+ATUI
+D$0H
+[]A\
+AVAUATUStYA
+[]A\A]A^
+[]A\A]A^
+taAVAUA
+ATUI
+]A\A]A^
+[]A\A]A^
+D$XH
+/grub.XXH
+XXXX
+[]A\
+/grub.XXH
+XXXX
+[]A\
+AWAVAUATI
+[]A\A]A^A_
+ATUI
+[]A\
+ATUI
+[]A\
+AUATA
+D-xe&
+[]A\A]
+D$@H
+D$PH
+D$XH
+D$`H
+D$ H
+D$hH
+D$(H
+D$pH
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+5hc&
+=Oc&
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+=3b&
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+ Hi4$
+dH3<%(
+ATUI
+[]A\
+[]A\
+ATUE1
+tNf.
+[]A\
+ATUI
+[]A\
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AUATE1
+?(uA
+tDH)
+[]A\A]
+ATUSH
+K@H9
+t9H)
+x6t(H
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+H9w@r
+AWAVAUATUSH
+$$M)
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATUSH
+I9T$
+?+t$1
+?+uuH
+I9T$
+[]A\A]A^A_
+	u|H
+tDUSH
+AUATI
+	veL9
+v`I9
+[]A\A]
+[]A\A]
+<xtE
+[]A\A]
+AWAVE1
+AUATI
+USE1
+D$X1
+t(<%t_M9
+t$XdH34%(
+h[]A\A]A^A_
+|$ A
+$umH
+%tRH
+L9&v4H
+T$ L
+T$ L
+T$1H
+D$0-M
+D$(I
+D$0D
+T$0L)
+T$ L
+T$0I
+D$01
+T$ L
+T$ I
+D$0-L
+AUATI
+[]A\A]
+AWAVH
+AUATI
+[]A\A]A^A_
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AUATI
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+[]A\A]
+AUATI
+[]A\A]
+w#H9
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AWAVH
+AUATI
+[]A\A]A^A_
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AWAVAUATUSH
+D$81
+=}7(
+l$(H
+T$ I
+T$(H
+D$(uwH
+L$8dH3
+H[]A\A]A^A_
+D$(u
+AVAUATUE1
+D$(1
+U0H)
+L$(dH3
+0[]A\A]A^
+AVAUATUI
+Z[]A\A]A^
+ATUI
+D$H1
+T$ H
+T$(H
+T$0H
+T$8H
+L$HdH3
+P[]A\
+D$(A
+T$(H
+D$H1
+@v	H
+D$HdH3
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+AUATUSH
+[]A\A]
+ATUA
+[]A\
+AUATA
+[]A\A]
+AVAU
+ATUH
+[]A\A]A^
+]A\A]A^
+AVAU
+ATUH
+[]A\A]A^
+]A\A]A^
+t5AWAVH
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+>H18H
+@00H
+([]A\A]A^A_
+@00H
+OPH9O 
+AWAVI
+AUATI
+}PL9
+H;EPH
+[]A\A]A^A_
+AUATI
+[]A\A]
+AUATM
+[]A\A]
+[]A\A]
+AWAV
+AUAT1
+[]A\A]A^A_
+}XATA
+T$|H
+AWAVAUATUSH
+D$ 1
+[]A\A]A^A_
+t$(H
+t$HH
+t$hH
+u.E1
+t7E1
+WXdH
+D$X1
+L$XdH3
+AWAV
+AUATUSH
+[]A\A]A^A_
+{Xj@H
+ZYu,L
+t$@L
+AVAUA
+ATUH
+D$&A
+[]A\A]A^
+t$/L
+p I9
+t$&H
+ATU1
+Gv,1
+[]A\
+P H9
+AVAUATUH
+d,BH
+%Ig'
+[]A\A]A^
+D$8H
+T$PH
+ATUSH
+D$(1
+T$(dH3
+0[]A\
+AUAT
+[]A\A]1
+D$ L
+D$xH
+[]A\A]
+I9D$xu
+I;D$x
+[]A\A]
+ATUI
+ []A\
+AVAUI
+ATUS
+[]A\A]A^
+<2I1<2H
+AWAVAUATUSH
+dH3<%(
+[]A\A]A^A_
+\$`H
+D$pE1
+D$(H
+|$P1
+D$TD
+T$PH
+{8E1
+t$ E
+>H18H
+@00H
+|$8H
+|$8H
+1H1u
+|$8H
+L$P1
+@00H
+D$PD
+L9|$
+|$8H
+D$0H
+|$ L
+|$PH
+t$ L
+L9d$0
+D$ H
+T$ H
+|$(H
+|$`L
+T$ H
+|$`H
+T$PH
+t$PH
+D$HH
+|$8H
+D$0H
+|$ H
+t$ H
+|$PH
+H9l$0
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+ZYuHH
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+XZu7
+[]A\A]A^A_
+AVAUI
+ATUI
+D$H1
+L$HdH3
+P[]A\A]A^
+C8Hc
+AVAUATUSH
+t(H9
+]A\A]A^
+]A\A]A^
+]A\A]A^
+5VG'
+t H;
+ATUI
+[]A\
+ATUI
+[]A\
+AWAVAUATI
+t8H9
+[]A\A]A^A_
+5/B'
+AWAVAUATI
+t$ H
+[]A\A]A^A_
+D$ L
+t$<H
+t$<H
+t$@H
+t$@H
+$H;D$
+L$ H
+t$(t9f
+t$(vuI
+<1H3<2I
+D$(L
+AWAVI
+AUATUSH
+o dH
+dH3<%(
+[]A\A]A^A_
+\$8H
+\$8D
+T$`D
+|$0L
+L$pM
+D9$$u
+D9d$,H
+|$8H
+L$pH
+L$`L
+D$ L
+|$@@
+|$P@
+AUATI
+_@dH
+D$(1
+L$ H
+T$(dH3
+8[]A\A]
+AWAVI
+AUAT
+D$PH
+[]A\A]A^A_
+AWAVA
+AUATA
+[]A\A]A^A_
+tQATI
+[]A\
+u"Hc
+AWAVAUATUSH
+L$X1
+D$ L
+-tcE
+D$(D
+ht"@
+d$0A
+D$P-A
+|$XdH3<%(
+h[]A\A]A^A_
+L$8L
+t$H1
+D$HL9
+T$0H
+t$8L
+T$0L
+D$8v
+L$8L
+D;|$
+ATUSH
+[]A\
+~8Bt
+AWAVAUATI
+[]A\A]A^A_
+D$`1
+t$XH
+D$nf
+$t{H
+D$(H9
+d$ f.
+L9l$
+D$(L
+L9d$
+D$(L
+d$ H
+D$ H
+\$0I
+t$ H
+|$0L
+D$ H9D$
+\$0H
+D$ H
+\$8H
+t$(H
+|$8L
+L9t$ M
+D$(H9D$
+D$@H
+t$HH
+V 9V$
+t&f.
+L$0u
+t$0H
+L$HL
+L$HM
+d$ H
+U@9J 
+L$0H
+AUATI
+HcV L
+o(dH
+k(t&1
+[]A\A]
+v(H;F
+@(H9H
+[]A\
+ATUH
+D$PI
+D$@H
+A9\$
+AWAV
+AUATUSH
+8L9t$
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUAT
+D$81
+} H9x u
+L$8dH3
+H[]A\A]A^A_
+t$ H
+U(E1
+D$ 9
+T$(H9S
+t$ H
+H;C(
+C H)C01
+{0tA
+\$(H
+[]A\
+d$0M
+AVAUATUSL
+D$HH
+[]A\A]A^
+D$HH
+]A\A]A^
+D$HH
+ATUE1
+tXf.
+[]A\
+[]A\
+ATUStz1
+t\f.
+\$(H
+9k0|
+]A\A]A^
+d$0M
+]A\A]A^
+t.HcP
+AUATUSH
+[]A\A]
+AWAVAUATUSH
+\$x1
+|$HH
+T$0H
+t$HH
+\$xdH3
+[]A\A]A^A_
+|$0A
+t$ H)
+\$(H
+T$hH
+L$8H
+L$ L
+L$PI
+l$XH
+D$pH)
+D$PH
+t$pH
+$H)\$P
+D$(H
+D$hH+D$@A
+D$hr
+L$Xf
+D$h1
+T$pH
+|$pL)
+D$hE
+\$8L
+t$ I
+L$`M
+t$pL
+D$pA
+O H9
+H9D$h
+t$hH
+D$ H
+D$8H)\$0
+|$pE
+H;D$htiA
+O H9
+D$`M
+t$pL
+D$hH
+T$pH
+|$pr`I
+t$pH
+L$hM
+H9L$(H
+D$(H
+T$hH
+T$ht8L
+|$pH
+|$pH9
+H+T$h
+T$hu
+L$8H
+T$ H
+ATUI
+t'H9k
+[]A\
+AWAV1
+AUAT
+|$(M
+d$0M
+([]A\A]A^A_
+AWAVAUATUSH
+D$xL
+L$ L
+L;z(
+8[]A\A]A^A_
+[]A\A]A^A_
+d$ Ic
+D$xD
+Q(H9
+AVAUATUH
+u H9p u
+[]A\A]A^
+[]A\A]A^
+AUATI
+HcV L
+o(dH
+k(t&1
+[]A\A]
+AWAV
+AUATI
+\$8H
+D$H 
+T$(I
+T$@P
+t$ H
+[]A\A]A^A_
+ATUSH
+ []A\
+AWAVI
+AUATUS1
+D$pL
+D$(L
+D$p1
+D$HH
+H9D$
+t$0H
+D$PD
+T$HMc
+D$pW
+t$(H
+[]A\A]A^A_
+t$HH
+AWAVA
+AUATE1
+t$`L
+D$ 1
+t	L9
+T$ H
+dH3<%(
+[]A\A]A^A_
+AUATI
+EPt@H
+[]A\A]
+AUATI
+([]A\A]
+IPH)
+@XH9
+@XH;
+@XH;E
+@PH;E
+@XH;E
+@PH;E
+@PH;E
+@XH;E
+@XH;E
+?u)H
+@XH;E
+ tgH
+<,u	
+<=u3H
+<nu4H
+<ou%H
+<,uQH
+@ H9
+ATSH
+`[A\]
+@ H;E
+@ H)
+AUATSH
+<-u+H
+<-t|
+@ H)
+<-u:H
+<-t+H
+<-u>H
+<:u	
+@ H)
+@ H)
+<:ubH
+<:u	
+[A\A]]
+@0H9
+@0H)
+<[u4H
+@@H9
+@8H;E
+@8H;E
+@8H)
+@0H;E
+@0H)
+@0H)
+@8H;E
+@0H)
+@8H)
+@0H)
+@0H)
+@0H)
+@0H)
+@0H)
+@8H)
+dH3<%(
+@@H9
+@@H9
+@0H)
+@ H9
+@0H)
+@ H9
+@0H)
+@ H9
+@0H)
+@ H9
+AWAVA
+AUATL
+[]A\A]A^A_
+black
+%s %s
+.disk_label
+rendering label %s
+label rendered
+.disk_label.contentDetails
+SystemVersion.plist
+boot/grub
+openbsd
+netbsd
+part_bsd
+part_%s
+no partition map found for %s
+lvm/
+lvmid/
+ldm/
+diskfilter
+raid5rec
+raid6rec
+cryptomount -u %s
+blessing %s
+cannot stat `%s': %s
+blessed
+efi_suffix_upper not set
+BOOT%s.EFI
+BOOT
+More than one install device?
+--no-rs-codes
+--skip-fs-probe
+--force 
+--verbose 
+--allow-floppy 
+NOT RUNNING: 
+core.img
+core.elf
+core.efi
+2.02~beta2-36ubuntu3.17
+unicode.pf2
+debug
+Installing for %s platform.
+biosdisk
+native
+cannot find EFI directory
+hfsplus
+kubuntu
+You've found a bug
+grub%s.efi
+pmac_oldworld
+cell
+generic
+chrp_ibm_qemu
+macppc
+grubenv
+GRUB_ENABLE_CRYPTODISK=1
+pata
+ahci
+ohci
+uhci
+usbms
+load.cfg
+set debug='%s'
+%s-signed
+gcd%s.efi.signed
+grub%s.efi.signed
+search.fs_uuid %s root 
+search_fs_uuid
+couldn't retrieve random data
+Can't create file: %s
+search.file %s root 
+search_fs_file
+ieee1275/%s
+'\''
+set prefix=($root)'%s'
+(%s)
+%s-%s
+%s-%s-elf
+sparc64-ieee1275-raw
+grub.elf
+grub.efi
+/boot/grub/stage2
+/boot/grub/menu.lst
+/boot/grub/grub2-installed
+Library
+System
+mach_kernel
+grub.chrp
+\\BootX
+msdos
+dd if=/dev/zero of=%s
+boot.efi
+\System\Library\CoreServices
+mm%s.efi
+shim%s.efi
+/usr/lib/shim/
+grub.cfg
+configfile $prefix/grub.cfg
+\EFI\%s\%s
+pvboot-i386.elf
+pvboot-x86_64.elf
+IA32
+IA64
+AA64
+ia32
+ia64
+aa64
+[OPTION] [INSTALL_DEVICE]
+MODULES
+install-modules
+themes
+THEMES
+install THEMES [default=%s]
+fonts
+FONTS
+install FONTS [default=%s]
+locales
+LOCALES
+no,xz,gz,lzo
+core-compress
+xz|none|auto
+override-directory
+locale-directory
+themes-directory
+grub-mkimage
+FILE
+pubkey
+verbose
+print verbose messages.
+boot-directory
+root-directory
+target
+TARGET
+grub-setup
+grub-mkrelpath
+grub-mkdevicemap
+grub-probe
+grub-editenv
+allow-floppy
+recheck
+force
+force-file-id
+disk-module
+MODULE
+no-nvram
+no-bootsector
+do not install bootsector
+no-floppy
+debug-image
+STRING
+bootloader-id
+efi-directory
+macppc-directory
+use DIR for PPC MAC install.
+label-font
+use FILE as font for label
+label-color
+COLOR
+use COLOR for label
+label-bgcolor
+product-version
+use STRING as product version
+no-uefi-secure-boot
+force-extra-removable
+<plist version="1.0">
+<dict>
+        <key>ProductBuildVersion</key>
+        <string></string>
+        <key>ProductName</key>
+        <string>%s</string>
+        <key>ProductVersion</key>
+        <string>%s</string>
+</dict>
+</plist>
+cannot open directory `%s': %s
+Invalid to use both --removable and --force_extra_removable
+Unable to determine your platform. Use --target.
+install device isn't specified
+failed to get canonical path of `%s'
+the drive %s is defined multiple times in the device map %s
+cannot find a device for %s (is /dev mounted?)
+cannot find a GRUB drive for %s.  Check your device.map
+%s doesn't look like an EFI partition.
+filesystem on %s is neither HFS nor HFS+
+attempt to install to encrypted disk without cryptodisk enabled. Set `%s' in file `%s'.
+no hints available for your platform. Expect reduced performance
+%sgrub-bios-setup %s %s %s %s %s --directory='%s' --device-map='%s' '%s'
+%sgrub-sparc64-setup %s %s %s %s --directory='%s' --device-map='%s' '%s'
+the chosen partition is not a PReP partition
+failed to copy Grub to the PReP partition
+the PReP partition is not empty. If you are sure you want to use it, run dd to clear it: `%s'
+/usr/lib/shim/shim%s.efi.signed
+EFI bootloader id isn't specified.
+Registering with EFI: distributor = `%s', path = `%s', ESP at %s%s%s
+WARNING: no platform-specific install was performed
+Installation finished. No error reported.
+Install GRUB on your drive.
+INSTALL_DEVICE must be system device filename.
+%s copies GRUB images into %s.  On some platforms, it may also install GRUB into the boot sector.
+pre-load specified modules MODULES
+install only MODULES and their dependencies [default=all]
+install only LOCALES [default=all]
+compress GRUB files [optional]
+choose the compression to use for core image
+use images and modules under DIR [default=%s/<platform>]
+use translations under DIR [default=%s]
+use themes under DIR [default=%s]
+embed FILE as public key for signature checking
+install GRUB images under the directory DIR/%s instead of the %s directory
+install GRUB for TARGET platform [default=%s]
+make the drive also bootable as floppy (default for fdX devices). May break on some BIOSes.
+delete device map if it already exists
+install even if problems are detected
+use identifier file even if UUID is available
+disk module to use (biosdisk or native). This option is only available on BIOS target.
+don't update the `boot-device'/`Boot*' NVRAM variables. This option is only available on EFI and IEEE1275 targets.
+do not probe for filesystems in DEVICE
+Do not apply any reed-solomon codes when embedding core.img. This option is only available on x86 BIOS targets.
+the installation device is removable. This option is only available on EFI.
+the ID of bootloader. This option is only available on EFI and Macs.
+use DIR as the EFI System Partition root.
+use COLOR for label background
+install an image usable with UEFI Secure Boot. This option is only available on EFI and if the grub-efi-amd64-signed package is installed.
+do not install an image usable with UEFI Secure Boot, even if the system was currently started using it. This option is only available on EFI.
+force installation to the removable media path also. This option is only available on EFI.
+hd%d
+fd%d
+ata%d
+ahci%d
+adding %d padding fixup entries
+writing %d bytes of a fixup block starting at 0x%x
+XEN_NOTE_SIZE == (ptr - note_start)
+locating the section %s at 0x%llx
+`%s' is miscompiled: its start address is 0x%llx instead of 0x%llx: ld.gold bug?
+relocation 0x%x is not implemented yet
+locating %s at 0x%llx (0x%llx)
+dealing with the relocation section %s for %s
+relocating an R_386_32 entry to 0x%llx at the offset 0x%llx
+relocating an R_386_PC32 entry to 0x%llx at the offset 0x%llx
+  THM_JUMP24:	target=0x%08lx	offset=(0x%08x)
+jump24 relocation out of range
+Relocation targeting wrong execution state
+THM_JUMP19 Relocation out of range.
+ BL*: target=%p, sym_addr=0x%08x, offset=%d
+THM_CALL Relocation out of range.
+  JUMP24:	target=0x%08lx	offset=(0x%08x)
+JUMP24 Relocation out of range.
+translating the relocation section %s
+adding a relocation entry for 0x%llx
+can't add fixup entry for R_X86_64_32(S)
+  %s:  not adding fixup: 0x%08x : 0x%08x
+(current_address + (grub_uint8_t *) *out) == ptr
+the size of public key %u is 0x%llx
+the size of memory disk is 0x%llx
+the size of config file is 0x%llx
+the total module size is 0x%llx
+relocating an R_X86_64_64 entry to 0x%llx at the offset 0x%llx
+relocating an R_X86_64_PC32 entry to 0x%x at the offset 0x%llx
+alula
+relocating an R_X86_64_PC64 entry to 0x%llx at the offset 0x%llx
+relocating an R_X86_64_32(S) entry to 0x%x at the offset 0x%llx
+trampoline offset too big (%llx)
+relocating a direct entry to 0x%llx at the offset 0x%llx
+CALL26 Relocation out of range
+kernel_img=%p, kernel_size=0x%llx
+cannot compress the kernel image
+core image is too big (0x%x > 0x%x)
+kernel image is too big (0x%x > 0x%x)
+diskboot.img size must be %u bytes
+block->segment == grub_host_to_target16 (GRUB_BOOT_I386_PC_KERNEL_SEG + (GRUB_DISK_SECTOR_SIZE >> 4))
+fwstart.img doesn't match the known good version. proceed at your own risk
+adding a padding fixup entry
+too many fixup entries
+adding XEN NOTE segment
+../../util/grub-mkimagexx.c
+adding CHRP NOTE segment
+premature end of file %s
+undefined symbol %s
+section %d does not exist
+_start
+start symbol is not defined
+  ABS32:	offset=%d	(0x%08x)
+    sym_addr = 0x%08x
+    relative destination = %p
+unknown architecture type %d
+unknown machine type 0x%x
+invalid ELF header
+no symbol table
+i386-coreboot
+xz_decompress.img
+lzma_decompress.img
+none_decompress.img
+moddep.lst
+kernel.img
+the core size is 0x%llx
+unknown compression %d
+Decompressor is too big
+pxeboot.img
+cdboot.img
+diskboot.img
+../../util/mkimage.c
+fwstart_fuloong2f.img
+fwstart.img
+firmware image is too big
+.text
+i386-multiboot
+i386-pc
+i386-pc-pxe
+i386-pc-eltorito
+i386-efi
+i386-ieee1275
+i386-qemu
+x86_64-efi
+i386-xen
+x86_64-xen
+mipsel-loongson
+mipsel-yeeloong-flash
+mipsel-fuloong2f-flash
+mipsel-loongson-elf
+mipsel-yeeloong-elf
+mipsel-fuloong2f-elf
+mipsel-fuloong2e-elf
+mipsel-fuloong-elf
+powerpc-ieee1275
+sparc64-ieee1275
+sparc64-ieee1275-cdcore
+sparc64-ieee1275-aout
+ia64-efi
+mips-arc
+mipsel-arc
+mipsel-qemu_mips
+mipsel-qemu_mips-elf
+mips-qemu_mips
+mips-qemu_mips-flash
+mipsel-qemu_mips-flash
+mips-qemu_mips-elf
+arm-uboot
+arm-efi
+arm64-efi
+generate_elf64
+generate_elf32
+make_reloc_section64
+make_reloc_section32
+make_reloc_section32
+!This program cannot be run in DOS mode.
+grub_install_generate_image
+grub-mkimage --directory '%s' --prefix '%s' --output '%s' --format '%s' --compression '%s' %s %s
+%s doesn't exist. Please specify --target or --directory
+efiemu32.o
+efiemu64.o
+cannot delete `%s': %s
+starfield
+unicode
+copying `%s' -> `%s'
+cannot open `%s': %s
+cannot copy `%s' to `%s': %s
+compressing `%s' -> `%s'
+can't compress `%s' to `%s'
+%s-langpack
+.gmo
+LC_MESSAGES
+Unknown compression format %s
+Unrecognized compression `%s'
+--memdisk '
+--config '
+--pubkey '
+--note
+lzma
+gzio
+xzio
+gcry_crc
+lzopio
+adler32
+unknown target format %s
+command.lst
+fs.lst
+partmap.lst
+parttool.lst
+video.lst
+crypto.lst
+terminal.lst
+modinfo.sh
+cannot find locale `%s'
+theme.txt
+i386
+grub_modinfo_target_cpu=
+invalid modinfo file `%s'
+grub_modinfo_platform=
+Unknown platform `%s-%s'
+x86_64
+mipsel
+sparc64
+powerpc
+arm64
+saving <%llu,%u,%u>
+the size of `%s' is not %u
+the size of `%s' is too small
+the size of `%s' is too large
+root is `%s', dest is `%s'
+Opening dest
+sunpc
+../../util/setup.c
+nsec <= maxsec
+core.img version mismatch
+can't retrieve blocklists
+opening the core image `%s'
+cannot write to `%s': %s
+cannot read `%s': %s
+blocklists are invalid
+blocklists are incomplete
+the first sector of the core file is not sector-aligned
+non-sector-aligned data is found in the core file
+the sectors of the core file are too fragmented
+guessing the root device failed, because of `%s'
+guessed root_dev `%s' from dir `%s'
+setting the root device to `%s'
+Attempting to install GRUB to a disk with multiple partition labels or both partition label and filesystem.  This is not supported yet.
+unable to identify a filesystem in %s; safety check can't be performed
+%s appears to contain a %s filesystem which isn't known to reserve space for DOS-style boot.  Installing GRUB there could result in FILESYSTEM DESTRUCTION if valuable data is overwritten by grub-setup (--skip-fs-probe disables this check, use at your own risk)
+%s appears to contain a %s partition map which isn't known to reserve space for DOS-style boot.  Installing GRUB there could result in FILESYSTEM DESTRUCTION if valuable data is overwritten by grub-setup (--skip-fs-probe disables this check, use at your own risk)
+%s appears to contain a %s partition map and LDM which isn't known to be a safe combination.  Installing GRUB there could result in FILESYSTEM DESTRUCTION if valuable data is overwritten by grub-setup (--skip-fs-probe disables this check, use at your own risk)
+Attempting to install GRUB to a partitionless disk or to a partition.  This is a BAD idea.
+Attempting to install GRUB to a disk with multiple partition labels.  This is not supported yet.
+Partition style `%s' doesn't support embedding
+File system `%s' doesn't support embedding
+Your embedding area is unusually small.  core.img won't fit in it.
+no terminator in the core image
+core_img && (nsec * GRUB_DISK_SECTOR_SIZE >= core_size)
+grub_memcmp (tmp, core_img, core_size) == 0
+/boot/grub/setup_left_core_image_in_filesystem
+embedding is not possible, but this is required for RAID and LVM install
+can't determine filesystem on %s
+filesystem `%s' doesn't support blocklists
+embedding is not possible, but this is required for cross-disk install
+Embedding is not possible.  GRUB can only be installed in this setup by using blocklists.  However, blocklists are UNRELIABLE and their use is discouraged.
+will not proceed with blocklists
+will leave the core image on the filesystem
+grub_util_bios_setup
+dest_ofpath is `%s'
+non cross-disk install
+boot device path %s
+../../grub-core/lib/reed_solomon.c
+grub_memcmp (tmp, buffer, data_size) == 0
+grub_reed_solomon_add_redundancy
+/dev/urandom
+%s/obppath
+%s/devspec
+/sys
+/disk@%d
+/disk@%d:%c
+%d:%d:%d:%d
+end_device
+%s/sas_device/%s/sas_address
+%s/vendor
+sbus
+/vdevice/
+/%s@%04lx000000000000
+/%s@%04lx000000000000:%c
+/sas/%s@%x
+/sas/%s@%x:%c
+%02x%02x%02x%02x00000000
+/sas/%s@%lx,%lu
+/sas/%s@%lx,%lu:%c
+vdc-port-%d-%d
+unknown device type %s
+`obppath' not found in parent dirs of `%s', no IEEE1275 name discovery
+%s/sas_device/%s/phy_identifier
+modprobe
+efivars
+/dev/null
+/sys/firmware/efi
+...found
+/proc/device-tree
+... not found
+pmac_newworld
+chrp_ibm
+maple
+/proc/cpuinfo
+pmac-generation
+NewWorld
+OldWorld
+motherboard
+AAPL
+machine
+CHRP IBM
+platform
+Maple
+Cell
+Looking for /sys/firmware/efi ..
+/sys/firmware/efi/fw_platform_size
+... but %s platform not available
+... not found. Looking for /proc/device-tree ..
+ofpathname
+efibootmgr
+--version
+%s: not found
+Boot
+boot-device=%s
+--update-config
+setenv boot-device %s
+nvsetenv
+boot-device
+dvhtool
+--unix-to-vh
+couldn't find IEEE1275 device path for %s.
+You will have to set `boot-device' variable manually
+Unable to open stream from %s: %s
+`nvram' failed. 
+You will have to set `boot-device' variable manually.  At the IEEE1275 prompt, type:
+  %s
+`nvsetenv' failed. 
+You will have to set `boot-device' variable manually.  At the IEEE1275 prompt, type:
+  %s
+You will have to set `SystemPartition' and `OSLoader' manually.
+gzip
+--best
+--stdout
+--lzma2=dict=128KiB
+--check=none
+lzop
+%s.new
+cannot rename the file %s to %s
+can't retrieve blocklists: %s
+FIEMAP failed. Reverting to FIBMAP
+blocksize is not divisible by 512
+default
+/etc
+/usr/share/grub
+pkgdatadir
+/usr/lib/grub
+/usr/share/locale
+GRUB_ENABLE_CRYPTODISK
+GRUB_DISTRIBUTOR
+%s.d
+i == num_cfgpaths
+../../grub-core/osdep/unix/config.c
+cannot open configuration file `%s': %s
+grub_util_load_config
+GRUB_ENABLE_CRYPTODISK=
+GRUB_DISTRIBUTOR=
+(host)/%s
+invalid color specification `%s'
+cannot seek `%s': %s
+can't open `%s': %s
+host
+not a hostfs
+not a host disk
+%s.mod
+invalid line format: %s
+GRUB
+%s (%s) %s
+<bug-grub@gnu.org>
+not a HFS+ filesystem
+no suitable FS found
+file `%s' not found
+one argument expected
+invalid argument
+mactelbless
+macppcbless
+can't bless a directory for mactel
+can't bless a file for mac PPC
+Bless FILE of HFS or HFS+ partition for intel macs.
+Bless DIR of HFS or HFS+ partition for PPC macs.
+font file format error: section %c%c%c%c length is %d but should be 2
+font file format error: 1st section must be FILE
+font file format error (file type ID length is %d but should be 4)
+invalid font magic %x %x %x %x
+font file format error: character index length %d is not a multiple of the entry size %d
+font characters not in ascending order: %u <= %u
+invalid font file: missing some required data
+<No Font>
+/fonts/
+prefix
+variable `%s' isn't set
+PFF2
+NAME
+PTSZ
+WEIG
+normal
+bold
+MAXW
+MAXH
+ASCE
+DESC
+CHIX
+DATA
+Font has no name.
+grub-core/font/font.c
+Unknown
+no video mode activated
+invalid EDID checksum %d
+no preferred mode available
+keep
+keep,
+keep;
+no suitable video mode found
+invalid video mode specification `%s'
+Render capture
+aliceblue
+antiquewhite
+aqua
+azure
+beige
+bisque
+blanchedalmond
+blueviolet
+burlywood
+cadetblue
+chartreuse
+chocolate
+cornflowerblue
+cornsilk
+crimson
+darkblue
+darkcyan
+darkgoldenrod
+darkgray
+darkgreen
+darkgrey
+darkkhaki
+darkmagenta
+darkolivegreen
+darkorange
+darkorchid
+darkred
+darksalmon
+darkseagreen
+darkslateblue
+darkslategray
+darkslategrey
+darkturquoise
+darkviolet
+deeppink
+deepskyblue
+dimgray
+dimgrey
+dodgerblue
+firebrick
+floralwhite
+forestgreen
+fuchsia
+gainsboro
+ghostwhite
+gold
+greenyellow
+honeydew
+hotpink
+indianred
+indigo
+ivory
+lavender
+lavenderblush
+lawngreen
+lemonchiffon
+lightblue
+lightcoral
+lightcyan
+lightgoldenrodyellow
+lightgray
+lightgreen
+lightgrey
+lightpink
+lightsalmon
+lightseagreen
+lightskyblue
+lightslategray
+lightslategrey
+lightsteelblue
+lightyellow
+lime
+limegreen
+linen
+maroon
+mediumaquamarine
+mediumblue
+mediumorchid
+mediumpurple
+mediumseagreen
+mediumslateblue
+mediumspringgreen
+mediumturquoise
+mediumvioletred
+midnightblue
+mintcream
+mistyrose
+moccasin
+navajowhite
+navy
+oldlace
+olive
+olivedrab
+orangered
+palegoldenrod
+palegreen
+paleturquoise
+palevioletred
+papayawhip
+peachpuff
+peru
+plum
+powderblue
+rosybrown
+royalblue
+saddlebrown
+sandybrown
+seashell
+sienna
+silver
+snow
+teal
+thistle
+tomato
+wheat
+whitesmoke
+yellowgreen
+bufio
+bl/b.w targettting ARM
+    *insword = 0x%08x
+grub-core/kern/arm/dl_helper.c
+  reloc_xxxx64 %p %c= 0x%llx
+grub-core/kern/arm64/dl_helper.c
+[%u-%u]
+filename expected
+Print a block list.
+blocklist
+this command is available only for disk devices
+UUID required
+[-l] GRUBUUID [VARNAME]
+xnu_uuid
+%02x%02x%02x%02x-%02x%02x-%02x%02x-%02x%02x-%02x%02x%02x%02x%02x%02x
+Transform 64-bit UUID to format suitable for XNU. If -l is given keep it lowercase as done by blkid.
+Reading %s sequentially
+ Done.
+Reading %s sequentially again
+Differs in %lld
+Reading %s backwards
+%02x 
+bad read
+testload
+Load the same file in multiple ways.
+(%s) 
+%s%s 
+%-12llu
+%-12s
+ %04d%02d%02d%02d%02d%02d 
+%s%s
+List devices and files.
+[-l|-h|-a] [FILE ...]
+human-readable
+List all files.
+ %d-%02d-%02d %02d:%02d:%02d %-11s 
+Show a long list with more detailed information.
+Print sizes in a human readable format.
+NVIDIA
+unknown version: %d.%d
+unsupported RAID level: %d
+dmraid_nv
+loopback write is not supported
+Make a virtual drive from a file.
+Delete the specified loopback drive.
+can't open device
+device name required
+device not found
+[-d] DEVICENAME FILE.
+loopback
+delete
+status
+id = "
+physical_volumes {
+logical_volumes
+type = "
+stripes = [
+mirrors = [
+raids = [
+LABELONE
+LVM2 001
+ LVM2 x[5A%r0N*>
+unknown LVM metadata header
+unknown LVM metadata header
+error parsing metadata
+extent_size = 
+unknown extent size
+pe_start = 
+unknown pe_start
+error parsing pe_start
+unknown segment_count
+unknown start_extent
+extent_count = 
+unknown extent_count
+stripe_count = 
+unknown stripe_count
+stripe_size = 
+mirror"
+mirror_count = 
+unknown mirror_count
+raid
+device_count = 
+unknown device_count
+unknown stripe_size
+unknown LVM type %s
+no LVM signature found
+couldn't find ID
+VISIBLE
+PVMOVE
+segment_count = 
+start_extent = 
+unknown segment
+striped"
+unknown stripes
+unknown mirrors
+we don't support multiple LVM data areas
+we don't support multiple LVM data areas
+md%d
+mdraid09
+mdraid09_be
+Unsupported RAID level: %d
+mdraid1x
+invalid argument given
+unaligned pointer
+unaligned pitch
+invalid render target given
+not an AFFS filesystem
+Symlink: `%s'
+affs
+grub-core/fs/affs.c
+not an AFS filesystem
+incorrect direct blocks
+incorrect indirect blocks
+not a directory
+too deep nesting of symlinks
+not a regular file
+attempt to read past the end of file
+incorrect double-indirect block
+not a BFS filesystem
+be:volume_id
+%016lx
+_BHRfS_M
+not a Btrfs filesystem
+not BtrFS
+searching for laddr %lx
+btrfs
+grub-core/fs/btrfs.c
+%lx %lx 
+no chunk
+single
+RAID1
+RAID0
+unsupported RAID
+unsupported RAID flags %lx
+retrieving %lx %x %lx
+leaf (depth %d) %lx %x %lx
+regular extent 0x%lx+0x%lx
+encryption not supported
+encoding not supported
+premature end of compressed
+unsupported extent type 0x%x
+no root
+inode not found
+unrecognised object type 0x%x
+BtrFS currently supports only PC-BIOS embedding
+your core.img is unusually large.  It won't fit in the embedding area
+%04x%04x-%04x-%04x-%04x-%04x%04x%04x
+too deep btrfs virtual nesting
+couldn't find the chunk descriptor
+chunk 0x%lx+0x%lx (%d stripes (%d substripes) of %lx)
+chunk 0x%lx+0x%lx (%d stripes (%d substripes) of %lx) stripe %lx maps to 0x%lx
+reading paddr 0x%lx for laddr 0x%lx
+couldn't find a necessary member device of multi-device filesystem
+internal node (depth %d) %lx %x %lx
+extent descriptor is too short
+compression type 0x%x not supported
+LARCHIVE
+not a cbfs filesystem
+cbfs
+symlink redirected %s to %s
+archelp
+grub-core/fs/archelp.c
+invalid cpio archive
+TRAILER!!!
+not a cpiofs filesystem
+cpiofs
+not a cpiofs_be filesystem
+cpiofs_be
+070707
+not a odc filesystem
+070701
+070702
+not a newc filesystem
+newc
+not an ext2 filesystem
+invalid extent
+something wrong with extent
+ext2
+filesystem has unsupported incompatible features
+ext2fs doesn't support quadruple indirect blocks
+not a FAT filesystem
+%04x-%04x
+fat_size=%d, next_cluster=%u
+grub-core/fs/fat.c
+invalid cluster %u
+EXFAT   
+grub-core/fs/exfat.c
+exfat
+unknown primary type 0x%02x
+unknown secondary type 0x%02x
+invalid file name `%s'
+not an HFS filesystem
+embedded HFS+ filesystem
+not a HFS filesystem
+%016llx
+cannot find the HFS root directory
+ !"'()*+./0123456789:;<=>?@ABCDEFGQRTUZ[\]bcdefhqrstvw|}~
+MGQRTUZ[\]bcdefhqrstvw|}~
+IKSVgixNHOIJKSVWXY^_`agmnoijyz{x
+ HJjll
+#$,-
+HFS+ btree loop
+couldn't read i-node
+extra extents found in an extend overflow file
+no block found for the file id 0x%x and the block offset 0x%x
+read out of range
+not a ISO9660 filesystem
+CD001
+empty date
+incorrect date
+iso9660
+no creation date in filesystem to generate UUID
+%c%c%c%c-%c%c-%c%c-%c%c-%c%c-%c%c-%c%c
+JFS1
+not a JFS filesystem
+file bigger than maximum size
+not a minix filesystem
+minix
+not a minix2 filesystem
+minix2
+not a minix3 filesystem
+minix3
+minix_be
+minix2_be
+minix3_be
+btree level mismatch
+btree corruption
+btree lookup failure
+not a nilfs2 filesystem
+nilfs2
+%s label not found
+size not match
+fixup signature not match
+$DATA should be non-resident
+run list overflown
+attribute can't be compressed
+ntfscomp
+module `%s' isn't loaded
+attribute not found
+read MFT 0x%llx fails
+MFT 0x%llx is not in use
+no $DATA in MFT 0x%llx
+NTFS
+not an ntfs filesystem
+no $SYMLINK in MFT 0x%llx
+symlink type invalid (%x)
+/??/
+/$Volume
+no $INDEX_ROOT
+INDX
+ntfs
+can't find 0x%X in attribute list
+fail to read non-resident attribute list
+fails to read non-resident $BITMAP
+$BITMAP without $INDEX_ALLOCATION
+compression block overflown
+invalid compression block
+compression block too large
+nontext window empty
+invalid compression block size
+ReIsEr
+not a ReiserFS filesystem
+ at level %d
+reiserfs_tree
+grub-core/fs/reiserfs.c
+level loop
+unexpected btree node
+Assertion failed at %s:%d
+Iterating directory...
+reiserfs
+Found : %s, type=%d
+root not found
+unable to find root item
+file size : %d (%08x%08x)
+offset %lld not found
+D: %u
+reiserfs_blocktype
+I: %u
+level loop detected, aborting
+ number of contained items : %d
+Warning : %s has no stat block !
+Reading from %lld to %lld (%lld instead of requested %ld)
+Reading direct block %u from %u to %u...
+Reading indirect block %u from %u to %u...
+Have successfully read %lld bytes (%ld requested)
+invalid checksum
+not a disk
+too short filesystem
+-rom1fs-
+not romfs
+checksum incorrect
+not a SFS filesystem
+not an SFS filesystem
+SFS extent not found
+reading a SFS block outside the extent
+incorrect compressed chunk
+not a squash4
+not squash4
+unsupported compression %d
+invalid xz chunk
+unexpected ino type 0x%x
+ustar
+invalid tar archive
+not a tarfs filesystem
+tarfs
+not an UDF filesystem
+NSR03
+NSR02
+BEA01
+BOOT2
+CDW02
+TEA01
+too many PDs
+too many partition maps
+partmap type not supported
+invalid tag ident
+can't find PD
+invalid part ref
+invalid fileset descriptor
+invalid extent type
+invalid symlink
+invalid fe/efe descriptor
+invalid fid tag
+invalid file entry
+invalid aed tag
+not an ufs2 filesystem
+%08x%08x
+ufs2
+ufs does not support quadruple indirect blocks
+not an ufs1 filesystem
+ufs1
+ufs1_be
+Reading inode (%lu) - %lu, %d
+XFS filesystem has unsupported incompatible features
+XFS filesystem without V2 directories is unsupported
+XFS filesystem has unsupported version bits
+XFS does not support inode format %d yet
+grub-core/fs/xfs.c
+not a correct XFS inode
+Reading sb
+Validating superblock
+XFSB
+not a XFS filesystem
+XFS v5 superblock detected
+XFS v4 superblock detected
+Reading root ino %lu
+not an XFS filesystem
+BMA3
+BMAP
+not a correct XFS BMAP node
+Unexpected key size %lu
+grub-core/fs/zfs/zfscrypt.c
+key loading failed
+no decryption key available
+MAC verification failed
+Enter ZFS password: 
+[-h|-p|-r] [FILE]
+zfskey
+Assume input is raw.
+Assume input is hex.
+passphrase
+Assume input is passphrase.
+Import ZFS wrapping key stored in FILE.
+recovering %u buffers
+grub-core/fs/zfs/zfs.c
+singular recovery matrix
+too big matrix
+unknown checksum function %d
+unknown checksum function %d
+checksum verification failed
+nvpair with size <= 0
+incorrect nvlist
+nvlist overflow
+incorrect nvlist header
+empty nvpair
+dva=%llx, %llx
+raidz%d is not supported
+unsupported device type
+bad ZAP magic
+bad ZAP salt
+member drive unknown
+org.illumos:lz4_compress
+unknown device %d
+little-endian gang
+big-endian gang
+couldn't find a valid DVA
+zio_read: E %d: size %ld/%ld
+endian = %d
+incorrect checksum
+zfscrypt
+no key for txg %lx
+no key found in keychain
+looking for '%s'
+zap read
+micro zap
+returned %d
+fat zap
+ZAP leaf is too small
+invalid leaf type
+invalid leaf magic
+invalid chunk number
+invalid chunk entry
+invalid leaf chunk entry
+unknown ZAP type
+fzap: length %d
+incorrect dnode type
+endian = %d, blkid=%llx
+alive
+features_for_read
+zap iterate
+too small osp
+failed here
+filesystem is corrupt
+type=%d, name=%s
+root_dataset
+VERSION
+too new ZPL version
+casesensitivity
+can't resolve ..
+invalid uint64
+invalid string
+incorrect nvlist array
+couldn't find vdev id
+couldn't find ashift
+raidz
+nparity
+couldn't find raidz parity
+children
+incorrect mirror VDEV
+vdev %s isn't supported
+label ok %d
+check 2 passed
+state not found
+check 3 passed
+zpool is marked as destroyed
+check 4 passed
+txg not found
+check 6 passed
+zpool isn't active
+check 7 passed
+version not found
+check 8 passed
+too new version %llu > %llu
+check 9 passed
+pool_guid
+pool_guid not found
+check 11 passed
+another zpool
+vdev_tree
+couldn't find vdev tree
+check 10 passed
+str=%s
+invalid uberblock magic
+No uberblock found
+couldn't find a valid label
+OSP too small
+Unsupported features in pool
+missing `%c' symbol
+bad bonus type
+inherit
+gang_header
+zilog
+fletcher2
+fletcher4
+SHA256
+zilog2
+SHA256+MAC
+lzjb
+gzip-1
+gzip-2
+gzip-3
+gzip-4
+gzip-5
+gzip-6
+gzip-7
+gzip-8
+gzip-9
+com.delphix:hole_birth
+com.delphix:embedded_data
+org.open-zfs:large_blocks
+checksum %s verification failed
+Beeb
+actual checksum %016llx %016llx %016llx %016llx
+expected checksum %016llx %016llx %016llx %016llx
+zap: name = %s, value = %llx, cd = %x
+non-positive number of mirror children
+RAIDZ mapping 0x%lx+%u (%lx, %x) -> (0x%lx, 0x%lx)
+Unexpected key index size %lu
+Unexpected key element size %lu
+ZFS currently supports only PC-BIOS embedding
+unsupported embedded BP (type=%u)
+compression algorithm %u not supported
+compression algorithm %s not supported
+using key %u (%lx, %p) for txg %lx
+external pointer tables not supported
+micro ZAP where FAT ZAP expected
+fsname = '%s' snapname='%s' filename = '%s'
+trying to lookup past nvlist array
+bad vdev_phys_t.vp_zbt.zec_magic number
+feature missing in check_pool_label:%s
+ check_pool_label missing feature '%s' for read
+check 12 passed (feature flags)
+com.delphix:extensible_dataset
+phys_path
+devid
+,diskdevid="
+,bootpath="
+No poolname found
+Virtual device is removed
+Virtual device is faulted
+Virtual device is offline
+Virtual device is degraded
+Virtual device is online
+Bootpath: unavailable
+Bootpath: %s
+Path: unavailable
+Path: %s
+Devid: unavailable
+Devid: %s
+This VDEV is a mirror
+This VDEV is a RAIDZ%llu
+Incorrect VDEV
+VDEV with %d children
+VDEV element number %d:
+Pool name: unavailable
+Pool name: %s
+Pool GUID: unavailable
+Pool GUID: %016llx
+Unable to retrieve pool state
+Unrecognized pool state
+Print ZFS info about DEVICE.
+DEVICE
+zfsinfo
+FILESYSTEM [VARIABLE]
+zfs-bootfs
+Pool state: active
+Pool state: exported
+Pool state: destroyed
+Pool state: uninitialized
+Pool state: unavailable
+zfs-bootfs=%s/%llu%s%s%s%s%s%s
+Incorrect virtual device: no type available
+Unknown virtual device type: %s
+VDEV element number %d isn't correct
+Leaf virtual device (file or disk)
+No virtual device tree available
+Print ZFS-BOOTFSOBJ or store it into VARIABLE
+Pool state: reserved for hot spare
+Pool state: level 2 ARC device
+Pool state: potentially active
+lzjb decompression failed
+lz4 decompression failed.
+vRQ>
+8STs
+LwH'
+ADLER32
+CRC64
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+%lu.%02lu%s
+%llu%s
+ext*
+Partition %s:
+Device %s:
+Filesystem cannot be accessed
+Filesystem type %s
+- Label `%s'
+, UUID %s
+No known filesystem detected
+ - Sector size %uB
+ - Total size unknown
+ - Total size %llu%sKiB
+KiB/s
+MiB/s
+GiB/s
+TiB/s
+PiB/s
+- Last modification time %d-%02d-%02d %02d:%02d:%02d %s
+ - Partition start at %llu%sKiB
+Linux/ADFS partition map not found
+acorn
+RDSK
+Amiga partition map not found
+PART
+invalid Amiga partition map
+amiga
+bad magic (found 0x%x; wanted 0x%x)
+partition %d: bad magic (found 0x%x; wanted 0x%x)
+partition %d: name %s, type %s, start 0x%x, len 0x%x
+grub-core/partmap/apple.c
+Apple partition map not found
+apple
+not a sun partition table
+part 
+not a plan partition table
+plan
+not a dvh partition table
+not a sun_pc partition table
+no signature
+no embedding supported
+no bsdlabel found
+Discarding improperly nested partition (%s,%s,%s%d)
+partition %2d: offset 0x%llx, size 0x%llx
+grub-core/partmap/dfly.c
+disklabel64 not found
+dfly
+attempt to seek outside of the file
+failed in building a Huffman code table
+the length of a stored block does not match
+too much data
+too many codes found
+unknown block type %d
+an unused code found
+unsupported gzip format
+xz file corrupted or unsupported block options
+lzop file corrupted
+crc32
+2.05
+Apr 23 2011
+2.05
+7zXZ
+CRC32
+CRC24RFC2440
+CRC32RFC1510
+ n;^
+Qkkbal
+i]Wb
+9a&g
+MGiI
+wn>Jj
+#.zf
++o*7
+-MD5
+gcry_md5
+1.2.840.113549.1.1.4
+1.2.840.113549.2.5
+AES256
+gcry_rijndael
+2.16.840.1.101.3.4.1.41
+2.16.840.1.101.3.4.1.42
+2.16.840.1.101.3.4.1.43
+2.16.840.1.101.3.4.1.44
+RIJNDAEL256
+AES-256
+AES192
+2.16.840.1.101.3.4.1.21
+2.16.840.1.101.3.4.1.22
+2.16.840.1.101.3.4.1.23
+2.16.840.1.101.3.4.1.24
+RIJNDAEL192
+AES-192
+2.16.840.1.101.3.4.1.1
+2.16.840.1.101.3.4.1.2
+2.16.840.1.101.3.4.1.3
+2.16.840.1.101.3.4.1.4
+RIJNDAEL
+AES128
+AES-128
+$4,8-9'66.:$?#1*HhXpAeS~ZrNlS
+Ebl\tHeQ
+F~FbTwKiZ
+4,8$9'6-.:$6#1*?hXpHeS~ArNlZ
+EbS\tHlQ
+FeFbT~KiZw
+,8$4'6-9:$6.1*?#XpHhS~AeNlZrEbS
+tHl\
+FeQbT~FiZwK
+*<zG
+V},z7
+8$4,6-9'$6.:*?#1pHhX~AeSlZrNbS
+EHl\tFeQ
+T~FbZwKi
+lpHP
+PQAeS~
+U vm
+Ebdw
+HhXpE
+ZrNl
+=-9'6
+!h[T
+6.:$
+awKiZ
+~4[C)v
+j~FbT
+1?#1*
+[_=o
+$4,8
+l\tH
+eS~A
+U 0m
+Xti)I
+EbSw
+hXpH
+*fU(
+H2+p
+rNlZ
+9'6-
+!h\T
+[.:$6g
+KiZw
+Df~4[
+Bc"@
+j_FbT~
+#1*?
+h4,8$@_
+2\tHlWB
+S~Ae
+Xt!)I
+Q3EbS
++XpHh
+@Cwg
+pNlZr
+'6-9d
+[T:$6.
+ iZwK
+*C<"
+Df;4[
+bT~F
+1*?#0
+f7tN
+,8$4_
+(<IA
+tHl\B
+P~AeS
+-Xt!
+X>k'
+Q3`bS
+pHhX
+lZrN
+6-9'
+$6.:
+ZwKi
+T~Fb
+&x	nY
+*?#1
+>8$4,
+pHl\t
+WBcc
+00P`
+++}V
+=&&jL66Zl??A~
+44\h
+11Sb
+##eF
+''iN
+,,tX
+-6nn
+;;Mv
+})){R
+//q^
+  `@
+g99KrJJ
+33Uf
+<<Dx
+!88Hp
+!!cB
+==Gzdd
++2ss
+""fD**~T
+22Vd::Nt
+$$lH\\
+77Ynmm
+%%oJ..r\
+!>KK
+>>B|
+55_jWW
+3"ii
+((xP
+)--wZ
+0P`0
+g+}V+
+&jL&6Zl6?A~?
+4\h4
+1Sb1
+#eF#
+'iN'
+,tX,
+R;Mv;
+){R)
+/q^/
+ `@ 
+9Kr9J
+M3Uf3
+P<Dx<
+8Hp8
+!cB!
+~=Gz=d
+"fD"*~T*
+2Vd2:Nt:
+$lH$\
+7Yn7m
+x%oJ%.r\.
+p>B|>
+a5_j5W
+U(xP(
+-wZ-
+P`00
+gg}V++
+jL&&Zl66A~??
+\h44
+Sb11?*
+eF##^
+iN''
+tX,,.4
+RRMv;;a
+{R))>
+q^//
+`@  
+Kr99
+MMUf33
+PPDx<<
+Hp88
+cB!!0 
+DD9.
+~~Gz==
+]]+2
+fD""~T**
+Vd22Nt::
+lH$$
+Yn77
+xxoJ%%r\..$8
+tt!>
+ppB|>>
+aa_j55
+UUxP((z
+wZ--
+T`00P
+V++}
+L&&jl66Z~??A
+Oh44\Q
+sb11S*
+RF##e
+&N''i
+X,,t4
+v;;M
+R)){
+>^//q
+,@  `
+r99K
+f33U
+x<<D%
+p88H
+uB!!c 
+z==G
+D""fT**~;
+;d22Vt::N
+H$$l
+Cn77Y
+J%%o\..r8
+|>>Bq
+j55_
+P((x
+Z--w
+:c|w{
+9JLX
+~=d]
+SHA1
+gcry_sha1
+1.2.840.113549.1.1.5
+1.2.840.10040.4.3
+1.3.14.3.2.26
+1.3.14.3.2.29
+1.2.840.10045.4.1
+D7q/;M
++Yo,
+&\8!
+* qW
+LwH'
+L*~e
+DlSHA384
+gcry_sha512
+2.16.840.1.101.3.4.2.2
+1.2.840.113549.1.1.12
+SHA512
+2.16.840.1.101.3.4.2.3
+1.2.840.113549.1.1.13
+ARCFOUR
+gcry_arcfour
+BLOWFISH
+gcry_blowfish
+!(Ew
+n6j/
+HWyn
+9)PF
+(-}|
+W;()f
+_xU`u
+08bX
+w``u N
+-%	?
+:hZ=
+%xP(
+B*k@5
+mK1f
+n:2C[
+V@E'
+::SU
+^|1)
+A4x{%`
+no:7
+7,gm;
+.97yY
+Bh;+j
+.x7B
+{x`M`
+BFUa.X
+YnFpW
+	-f3F2
+r9$|
+pzKD)
+ilRdV
+)L	u@
+?kh	
+|sG2
+U$qk.
+fC	c
+27;C
+qUN1
+/n[(
+Ze2Zh@
+Wcr"
+T0.S
+ap?#
+r3A~
+;"lY7
+@n2w
+_g@Cg
+~&jE
+ iciNWq
+x`\`U
+S2zw
+Qjh/T
+w?6r
+\^c$j
+yr,@
+H{1S
+"//w
+AJsN
+*!ec
+nCAMELLIA256
+gcry_camellia
+CAMELLIA192
+CAMELLIA128
+1.2.392.200011.61.1.1.1.4
+0.3.4401.5.3.1.9.41
+0.3.4401.5.3.1.9.43
+0.3.4401.5.3.1.9.44
+1.2.392.200011.61.1.1.1.3
+0.3.4401.5.3.1.9.21
+0.3.4401.5.3.1.9.23
+0.3.4401.5.3.1.9.24
+1.2.392.200011.61.1.1.1.2
+0.3.4401.5.3.1.9.1
+0.3.4401.5.3.1.9.3
+0.3.4401.5.3.1.9.4
+CAST5
+gcry_cast5
+}\cm
+xzdD]
+vOB9`
+pqT3^-ZI
+$;g9
+A^e$
+1d[O~
+!![z
+M:&)
+dU	2
+PIMAC
+gC_7
+F_C)x;
+a3bt
+Zbby
+S4n)
+lbfL
+Tq*+
+S9v.i
++LVvuOx39]O#2
+SU2`	
+-7HD
+Es/#
+s%iH
+SH6tc
+*Y#5
+/C~A
+Sj~=eI
+c8:$
+}oaO
+]ny`
+BN"r
+kMxn
+FS(l
+h,DUu
+uU~b
+v^FES
+{OJW
+z(~c
+5_	 
+=;&o
+~?Pa w
+WFgO
+(>nH&p
+gTzu
+|k	.T
+B=!&|
+!\1c
+)eyC
+^(O= 
+W1O	g_?
+*,]I
+Fv\;
+Eub'z
+\j#M
+SRqDIK
+_maz
+mn`I:T`H
+C?9z
+bcKU
+!+g\
+"%-U^7
+PaH?
+dv&4
+wj-K
+.n\	
+g&H`
+~8lI
+d^AE
+;]>r
+%?/?!
+"o;h(Y
+T*_}x:
+j Bz
+u\B&
+y7bT
+Ab61
+T<*2
+a.z9
+DGt2
+&5	M{
+yM;-
+jMG\^
+\3DES
+gcry_des
+1.2.840.113549.3.7
+1.3.36.3.1.3.2.1
+1.2.840.113549.1.12.1.3
+../../grub-core/lib/libgcrypt-grub/cipher/idea.c
+keylen == 16
+IDEA
+gcry_idea
+do_setkey
+gcry_md4
+1.2.840.113549.2.4
+RFC2268_40
+gcry_rfc2268
+1.2.840.113549.1.12.1.6
+!"\kN
+5Mj*
+6[%U
+RIPEMD160
+gcry_rmd160
+1.3.36.3.3.1.2
+1.3.36.3.2.1
+SEED
+gcry_seed
+1.2.410.200004.1.3
+1.2.410.200004.1.4
+1.2.410.200004.1.5
+1.2.410.200004.1.6
+y7<s
+ ``@
+D@D/lcO+hcK
+"`bB303
+)(!	 
+HCK/
+,l`L(
+DAE!
+LBN6
+&dbF:xrJ'$#
+2prB
+3psC'dcG,
+TSG.
+=|qM
+*hbJ1
+(h`H1pqA
+!`aA>
+;xsK
+\PL"
+#`cC# #
+.lbN
+XRJ2
+	HAI8xpH
+0pp@5tqE?|sO541
+$d`D-laM
+4tpD
+	6trF
+\RN)
+H@H9xqI
+\SO7tsG
+TPD2
+DBF-
+PRB+
+>|rN
+%daE<<0
+<|pL
+PP@981	&$"
+)haI
+HBJ7
+%$!M
+C#`c
+(( D
+K;xs
+@0pp
+D4tp
+C3ps
+B2pr
+@ ``@
+H8xp
+A!`a
+PRM=|q
+F6tr
+N.lb
+LAI)haL<|p		
+D$d`
+.,"K
+! !K+hcF&db
+N>|r
+J:xrG
+<<0A1pq
+E5tq
+I	HA	981G'dc
+L,l`
+O/lc
+-,!@
+H(h`O?|s
+TRG7ts
++(#E%da
+M-laO
+:82H
+B"`b	)(!
+I9xq
+J*hb
+`@ `QE
+DcO/lcK+hSK
+bB"`3
+!	)(
+64CK
+`L,l
+((BN
++(bF&drJ:x#
+rB2pBB
+sC3pcG'd
+qM=|
+bJ*h
+`H(hqA1p
+aA!`
+sK;xPL
+cC#`#
+# AM
+bN.l
+AI	HpH8x
+p@0pqE5tsO?|1
+`D$daM-l
+pD4t
+rF6t
+*(RN
+HqI9x
+\sG7tPD
+%$CO
+rN>|
+aE%d0
+pL<|
+P1	98"
+aI)h
+;8BJ
+%\QM
+`cC#( 
+(D@D
+xsK;
+.pp@0
+6tpD4
+psC3
+'prB2
+	``@ PP@
+7XRJ
+xpH8
+`aA!
+4@AA
+|qM=
+=trF6,#
+"lbN.
+haI)|pL<
+>d`D$
+.HCK
+!hcK+dbF&
+3|rN>
+xrJ:DCG
+'DAE
+<pqA1
+	tqE5
+?HAI	81	9dcG'
+l`L,
+1H@H
+lcO/<1
+-@@@
+:LBN
+h`H(|sO?
+tsG7
+-DBF
++daE%
+*laM-\SO
+:XPH
+`bB"(!	)
+xqI9
+hbJ*("
+SERPENT256
+gcry_serpent
+SERPENT192
+SERPENT128
+SERPENT
+vRQ>
+8STs
+LwH'
+gcry_sha256
+SHA224
+2.16.840.1.101.3.4.2.1
+1.2.840.113549.1.1.11
+2.16.840.1.101.3.4.2.4
+TIGER2
+gcry_tiger
+TIGER
+1.3.6.1.4.1.11591.12.2
+TIGER192
+U<2&
+X=$a
+ |$|2
+T_"2
+ 9.*
+lqg0
+N31,
+'?A@
+w(.A9,
+:7[gJ
+V=F:
++`St
+Em>!
+Q)?P
+AUk[M.
+"<w3
+$| r
+XO'b[Q
+eP_S
+cso9
+Z7cA
+HuIa
+Z2R\
+#F\2
+Q O~.
+]}gS
+0Nvb
+ZaUf
+--n	k	
+jDgFu
+>q";
+-(vy
+	<CSO
+}X{8O
+iCq2
+~5d}
+Wxiw2L
+((kO
+nDl_
+xj$P
+ly|S
+hA,k
+MR[%Q
+<]o[
+2Pn!5
+$z*'
+=T3*
+A%w"
+ty*x%5
+E575
+y,d$
+CLc6
+Knrb
+!{sk
+lRKs
+e}O`n$
+pVCouIhZaB
+ph^(\
+C(PM
+/xEz]
+5FcNd
+u|al[
+9Y2-
+)<be
+pRt3
+	^(?
++5'!
+v("O'P
+#."h
+:i_3
+mu_Iqw
+'U\V
+9xwFb
+i$>Z
+/a7Z
+Ckyb
+2Q_DT
+/W!ar
+c07'h
+B3$x
+<4k_
+5JBt
+s/8Q?
+.j>j
+enmty)3q]8
+&8cMG
+A2]D
+mS}5
+fIzh
+Z0UN
+OUpT
+VOJt
+M)od
+M,T	
+4@[![)Y	
+P=L^uh
+Xf+.'
+d91X
+JywPP
+:xgzbP?
+,C<\
+2wI:l
+TWOFISH128
+gcry_twofish
+TWOFISH
+,`%b
+S|j(
+N>-i
+dH*O
+C}iW)
+BVJU^	
+W<<2
+{{q7
+GG0<$$
+1ff[
+,'11
+*sss
+L_yyTAkk
+KKtiSS6
+86**
+`xHHb
+LLlwAAB
+|c]]("66'
+$-??F
+rrplTT
+ (88
+@Ppp
+X55z
+xx9m
+>>1g
+UUHZ~~O
+^^xfZZ\KeeXNbb
+d}OO
+<3--
+IIhrFFDUww
+((i)
+49##5b
+PDll
+ZZfx
+**68
+AAwl((
+2u{{
+~~ZH
+$$<0
+kkAT
+]]c|hh;
+s11',
+v%VV
+Q	>>
+??-$vv
+MwwUD
+TTlpss*
+g1''F
+88( 
+HHx`
+eeK\++
+|-!!
+F<<W
+)iOO}d
+*..I
+Z66"(
+--3<yy_L
+8}33
+SSit
+bbNX__
+##94
+nllDP22]
+FFrh
++ppP@
+&K&W<
+{7{7
+G<$0$
+'1,1e
+_yLyAkTk
+KiStS
+6*8*
+xH`H
+LwAlA
+c]|]"6(6
+-?$?
+r;rlTpTL)
+(8 8.
+Pp@p0
+n+nn
+UZ~H~
+!O!z
+^fZxZKe\eNbXbE
+}OdOj
+3-<-
+IrFhFUwDw
+(C()
+9#4#b
+DlPl
+fxZf
+68*6T
+ Cb5
+wlAw
+ZH~Zz
+G<0$<
+ATkA
+Sc|]c;
+',1'v%
+-$?-
+UDwU
+lpTl*
+( 8(
+x`Hx.
+K\eK
+)}dO}
+"(6"
+3<-3_Ly_
+itSit
+NXbN
+94#9
+DPlD]
+2]rhFr&e
+P@pP
+t6Q8
+$F;p
+MCi).
+lCu7&
+>id*
+6BJ^
+../../grub-core/lib/libgcrypt-grub/cipher/whirlpool.c
+! (buffer_size || carry)
+WHIRLPOOL
+gcry_whirlpool
+whirlpool_add
+nBO!O6
+RUR`G
+zbK1K
+jJ5J
+prI9I
+uzH=H
+_a_ =@
+P]PEW
+dRM)M
+aZL-L^
+^e^x
+kJN%N
+VEVD^
+-H	$	p
+`##&F
+nBO!66
+RU``G
+/..C\
+zbK1
+))|R
+\GGE
+--XZ
+dII;
+prI9
+uzH=
+_a  =@
+v""/D
+H@@z
+++nV
+P]EEW
+//J^
+dRM)
+|bbU
+aZL-^^
+^exx
+!!4B
+xCCa
+^mm"
+kJN%
+L,,QX
+VEDD^
+**gT
+Nll+
+-H	$pp
+((uP
+##&F
+..C\
+m.1KK)
+5JJ 
+))|R
+--XZ
+9II;
+prIC
+4=HH2
+  =@
+""/D
+]:@ 
+++nV
+wj]PP
+P	EEW
+?IUU
+//J^
+dRMr
+5%yYY
+9-LL
+aZLe^^
+!!4B
+R"C;
+,,QX
+**gT
+oi$		A
+W*BZ
+((uP
+](m\\
+##&F
+O!OO
+RURR
+..C\
+mK1KK)
+WAWW
+J5JJ 
+X}XX
+))|R
+]i]]
+--XZ
+ZuZZ
+I89q
+I9II;
+HK[q[[
+H=HH2
+_a__
+  =@
+TMTT
+""/D
+++nV
+wP]PP
+E	EEW
+UIUU
+//J^
+M)MM
+5YyYY
+L-LL
+aZ^e^^
+!!4B
+ QYQQ
+N%NN
+,,QX
+VEVV
+O7!*
+**gT
+FSQSS
+o	$		A
+((uP
+]\m\\
+##&F
+BO!OO
+RURR
+..C\
+bK1KK)
+WAWW
+jJ5JJ 
+X}XX
+))|R
+]i]]
+--XZ
+.cy8
+ZuZZ
+2}rI9II;
+[q[[
+'a|&
+zH=HH2
+_a__
+  =@
+TMTT
+""/D
+$Z:@
+++nV
+C)wj
+P]PP
+E	EEW
+UIUU
+ihe/
+//J^
+.RM)MM
+Ky@c
+>c7b
+YyYY
+ZL-LL
+^e^^
+!!4B
+<f"C
+QYQQ
+JN%NN
+&_},
+,,QX
+VEVV
+O7M*
+**gT
+SQSS
+H	$		A
+((uP
+\m\\
+##&F
+nBO!OO
+RURR
+..C\zbK1KK)
+WAWW
+jJ5JJ 
+X}XX
+))|R"P
+]i]]
+NX2A
+--XZy
+ZuZZ
+2prI9II;
+[q[[
+huzH=HH2
+_a__
+  =@
+TMTT
+""/D
+$]:@
+++nV
+P]PP
+E	EEW
+UIUU
+//J^
+dRM)MM
+KyYc
+YyYY
+raZL-LL
+^e^^
+!!4B
+<R"C
+QYQQ
+kJN%NN
+,,QX
+VEVV
+**gTm
+SQSS
+-H	$		A
+((uP1
+\m\\
+nBO!OO
+oo0?
+RURR
+``Gev
+zbK1KK)
+WAWW
+jJ5JJ 
+X}XX
+]i]]
+GGE!
+--Xcy
+ZuZZ
+prI9II;
+[q[[
+uzH=HH2
+_a__
+TMTT
+P]PP
+E	EEW
+UIUU
+eejih
+dRM)MM
+:M2)
+YyYY
+aZL-LL
+^e^^
+aaN{E
+!!4%
+QYQQ
+kJN%NN
+VEVV
+**gkm
+SQSS
+ll+b
+FFLE&	
+-H	$		A
+BBh-
+\m\\
+nBO!OO
+oom?
+RURRG
+``5ev
+zbK1KK]
+WAWW
+jJ5JJD
+X}XX
+]i]]
+}}I7
+--.cy
+ZuZZ
+prI9II_
+[q[[
+22Y}J
+uzH=HHT
+zzd=
+_a__=@
+TMTT
+==[3
+P]PPW
+E	EE8
+UIUU
+dRM)MMv9
+YyYY
+aZL-LL
+^e^^
+aaB{E
+QYQQ%/
+kJN%NNfsQ
+VEVV^
+SQSSr
+-H	$		
+ppoqT
+BB,-
+\m\\k
+reading %s
+writing 0x%llx bytes
+writing 0x%llx bytes at offset 0x%llx
+cannot write to the stdout: %s
+%s read failed
+grub-core/kern/disk.c
+Closing `%s'.
+Opening `%s'...
+no such partition
+Opening `%s' failed.
+disk `%s' not found
+sector sizes of %d bytes aren't supported yet
+attempt to read or write outside of partition
+attempt to read or write outside of disk `%s'
+Read out of range: sector 0x%llx (%s).
+Writing `%s'...
+grub-core/lib/disk.c
+Partition %d starts from %llu
+%d,%d
+Looking for %s
+%s is a parent of %s
+%s starts from %llu
+opening the device %s
+%s is present
+%s is not present
+GRUB_LEGACY_0_BASED_PARTITIONS
+disk does not exist, so falling back to partition device %s
+cannot find the partition of `%s'
+ZPOOL_VDEV_NAME_PATH
+STATE
+READ
+WRITE
+CKSUM
+mirror-%u
+raidz%u
+raidz1%u
+raidz2%u
+raidz3%u
+ONLINE
+/dev/%s
+/dev
+/dev/mapper
+/dev/root
+/dev/dm-
+--options
+vg_uuid,pv_name
+--noheadings
+--separator
+/dev/mapper/
+ %s %256s %256s %256s %256s %256s
+changing current directory to %s
+cannot restore the original directory
+/proc/self/mountinfo
+%d %d %u:%u %s %s%n
+fuse.zfs
+/%s%s
+/%s@%s
+/dev/
+ide/
+part
+scsi/
+rd/c
+rs/c
+cciss/c
+etherd/e
+ida/c
+i2o/hd
+mmcblk
+vdisk
+nvme
+/dev/md
+mdadm
+--detail
+--export
+MD_CONTAINER=
+Container of %s is %s
+MD_METADATA=imsm
+%s is imsm
+ioctl RAID_VERSION error: %s
+ioctl GET_DISK_INFO error: %s
+md%s
+md/%s
+MD_UUID=
+mduuid/%s,%s
+mduuid/%s
+unsupported RAID version: %d.%d
+ioctl GET_ARRAY_INFO error: %s
+unknown kind of RAID device `%s'
+Failed to create `device-mapper' tree
+grub-core/osdep/devmapper/getroot.c
+can't mount encrypted volume `%s': %s
+dm_tree_create failed
+hostdisk
+dm_tree_add_dev failed
+dm_tree_find_node failed
+%s has no DM uuid
+LVM-
+CRYPT-LUKS1-
+cryptouuid/%s
+no `/' in canonical filename
+/%s/@
+/%s/@%s
+the size of %s is %llu
+drive = %d
+no mapping exists for `%s'
+no device.map
+%s:%d: %s
+device count exceeds limit
+Cannot stat `%s', skipping
+/dev/fd
+the device.map entry `%s' is invalid. Ignoring it. Please correct or delete your device.map
+`%s' looks like a floppy drive, skipping
+the drive name `%s' in device.map is incorrect. Using %s instead. Please use the form [hfc]d[0-9]* (E.g. `hd0' or `cd')
+adding `%s' -> `%s' from device.map
+mpath-
+linear
+unaligned device size
+udevadm
+--query
+--name
+/sys%s/%s
+-part%d
+/dev/.devfsd
+/disc
+/dev/disk/by-id/
+reusing open device `%s'
+grub-core/osdep/hostdisk.c
+cannot get disk geometry of `%s'
+opening the device `%s' in open_device()
+/tmp
+TMPDIR
+cannot make temporary file: %s
+cannot make temporary directory: %s
+executing %s
+Unable to fork: %s
+LC_ALL
+Unable to create pipe: %s
+/dev/tty
+%s: warning:
+%s: info:
+%s: error:
+out of memory
+error: %s.
+assert: error stack overflow detected!
+beyond the total sectors
+Detecting %s...
+grub-core/kern/fs.c
+%s detection failed.
+unknown filesystem
+unrecognized number
+overflow is detected
+(null)
+%s:%d: 
+Aborted.
+ Press any key to exit.
+grub-core/kern/partition.c
+sub-partition %s%d of (%s,%s) ends after parent.
+assertion %s at %s:%d (%s) failed
+gcrypt error: 
+gcrypt
+Too large md context
+access denied
+key is too long
+Passphrase not supplied
+Trying keyslot %d
+luks
+grub-core/disk/luks.c
+PBKDF2 done
+candidate key recovered
+bad digest
+Slot %d opened
+LUKS
+%s != %s
+Cipher %s isn't available
+invalid keysize %d
+pcbc-
+xts-
+lrw-
+Unknown cipher mode: %s
+Couldn't load %s hash
+Unknown IV mode: %s
+Attempting to decrypt master key...
+Enter passphrase for %s%s%s (%s): 
+Unsupported XTS block size: %d
+Unsupported LRW block size: %d
+Unsupported benbi blocksize: %d
+rekeying %lu keysize=%d
+grub-core/disk/geli.c
+cipher block is too long
+mdlen is too long
+not a geli
+keylen = %lu
+Couldn't load sha256
+GEOM::ELI
+wrong magic %02x
+incorrect sector size %d
+skipping one-time volume
+not a boot volume
+%02x
+Cipher 0x%x unknown
+Couldn't load sha512
+couldn't read ELI metadata
+wrong ELI magic or version
+3des
+camellia128
+luks_mount 
+-ecb
+-cbc
+-pcbc
+-xts
+-lrw
+-null
+-plain
+-plain64
+-benbi
+-essiv:
+%lu 
+Closing disk
+cryptodisk
+grub-core/disk/cryptodisk.c
+crypto%lu
+crypto
+No such device
+cryptouuid/
+Opening device %s
+disk.mod not loaded
+no such cryptodisk found
+already mounted as crypto%lu
+cheatmounted %s (%s) at %s
+Mount a crypto device.
+SOURCE|-u UUID|-a|-b
+cryptomount
+luks_script
+Mount by UUID.
+Mount all.
+Writing %lu sectors to sector 0x%lx with offset of %lu
+Reading %lu sectors from sector 0x%lx with offset of %lu
+grub_disk_read failed with error %d
+Mount all volumes with `boot' flag set.
+-%c%c 
+-h, 
+-u, 
+    
+--%s
+Usage:
+%s %s %s
+unknown argument `%s'
+Display this help and exit.
+usage
+missing mandatory option for `%s'
+the argument `%s' requires an integer
+a value was assigned to the argument `%s' while it doesn't require an argument
+Display the usage of this command and exit.
+scanning %s for LDM
+PRIVHEAD
+VBLK
+ldm/%s/%s
+no LDM signature found
+disk isn't LDM
+LDM curently supports only PC-BIOS embedding
+this LDM has no Embedding Partition; embedding won't be possible
+diskfilter writes are not supported
+Scanning for DISKFILTER devices on disk %s
+Scanning for DISKFILTER devices on disk %s
+Scanning for %s devices on disk %s
+Inserting %s (+%lld,%lld) into %s (%s)
+Inserting %s (+%llu,%llu) into %s (%s)
+Couldn't find physical volume `%s'. Some modules may be missing from core image.
+DISKFILTER scan depth exceeded
+grub-core/disk/diskfilter.c
+unknown DISKFILTER device %s
+physical volume %s not found
+unknown node '%s'
+unknown volume
+incorrect segment
+unsupported RAID level %d
+Found array %s
+Found array %s
+%s_%d
+mduuid/
+grub-core/partmap/gpt.c
+no GPT partition map found
+no valid GPT header
+Read a valid GPT header
+GPT entry %d: start=%lld, length=%lld
+GPT currently supports only PC-BIOS embedding
+this GPT partition label contains no BIOS Boot Partition; embedding won't be possible
+your BIOS Boot Partition is too small; embedding won't be possible
+Hah!IdontNeedEFI
+dummy mbr
+loop detected
+bad boot flag
+grub-core/partmap/msdos.c
+ZISD
+FlexNet
+HighPoint RAID controller
+ycgl
+Acer registration utility (?)
+partition %d: flag 0x%x, type 0x%x, start 0x%llx, len 0x%llx
+other software is using the embedding area, and there is not enough room for core.img.  Such software is often trying to store data in a way that avoids detection.  We recommend you investigate
+this msdos-style partition label has no post-MBR gap; embedding won't be possible
+your embedding area is unusually small.  core.img won't fit in it.
+PC-style partitions curently support only PC-BIOS embedding
+Embedding on MSDOS subpartition isn't supported
+HP Backup and Recovery Manager (?)
+GREGRegDone.Tag
+Sector %llu is already in use by the program `%s'; avoiding it.  This software may cause boot or other problems in future.  Please ask its authors not to store data in the boot track
+Sector %llu is already in use by raid controller `%s'; avoiding it.  Please ask the manufacturer not to store data in MBR gap
+proc
+not a procfs disk
+not a procfs
+help
+give this help list
+usage
+give a short usage message
+program-name
+NAME
+set the program name
+HANG
+SECS
+hang for SECS seconds (default 3600)
+3600
+libc
+version
+print program version
+(PROGRAM ERROR) No version known!?
+%s: Too many arguments
+-%c: %s
+--%s: %s
+(PROGRAM ERROR) Option should have been recognized!?
+A NULL argv[0] was passed through an exec system call.
+/.libs/
+dup-args
+dup-args-note
+short-opt-col
+long-opt-col
+doc-opt-col
+opt-doc-col
+header-col
+usage-indent
+rmargin
+ARGP_HELP_FMT: %s value is less than or equal to %s
+ARGP_HELP_FMT
+%.*s: ARGP_HELP_FMT parameter requires a value
+%.*s: ARGP_HELP_FMT parameter must be positive
+%.*s: Unknown ARGP_HELP_FMT parameter
+Garbage in ARGP_HELP_FMT: %s
+../../../../grub-core/gnulib/argp-help.c
+! oalias (opts)
+hol->entries && hol->short_options
+entries && short_options
+[%s]
+--%s
+[=%s]
+Mandatory or optional arguments to long options are also mandatory or optional for any corresponding short options.
+ [-%c[%s]]
+[-%c %s]
+ [--%s[=%s]]
+ [--%s=%s]
+ [--%s]
+ [-%s]
+help
+version
+Usage:
+%s %s
+  or: 
+ [OPTION...]
+Try '%s --help' or '%s --usage' for more information.
+Report bugs to %s.
+Unknown system error
+make_hol
+hol_append
+POSIXLY_CORRECT
+%s: option '%s' is ambiguous; possibilities:
+ '--%s'
+%s: option '--%s' doesn't allow an argument
+%s: option '%c%s' doesn't allow an argument
+%s: option '--%s' requires an argument
+%s: unrecognized option '--%s'
+%s: unrecognized option '%c%s'
+%s: invalid option -- '%c'
+%s: option requires an argument -- '%c'
+%s: option '-W %s' is ambiguous
+%s: option '-W %s' doesn't allow an argument
+%s: option '-W %s' requires an argument
+;*3$"
+ @CW
+ @CW
+@@SV#
+@@SV)
+A3WE
+ @3WG
+`@3WM
+`@3WS
+ @3WX
+ @CWY
+ @3W\
+ @KW]
+@@SW_
+ @KW`
+@@SWb
+ @KWc
+A3Wt
+`@3W
+@@3W
+@@3W
+ @#W
+ @3W
+ @SP
+ @[P
+ @cP
+ @kP
+ @sP
+ @{P
+ @3W
+@@3WU
+@3W\
+@@3W_
+ @3W
+@@3W
+@@3W
+ @#Q
+ @3W1
+@@3W4
+@@3W7
+ @3W;
+ @3W>
+`@3WB
+ @3WD
+ @3WF
+ @3WH
+@@3WM
+ @3W
+ A3W$
+`@3W(
+@3W0
+:	 @
+W;	 
+<	 @;P>	`
+M	 @KPN	@
+Q	 @3WR	 @
+VS	@@3WU	`@
+Wb	@@
+	 @;P
+	 @KP
+ @;P>
+ @KPQ
+ @;P
+ @KP
+ @;P>
+ @KPV
+ @KP
+ @KPU
+ @;P
+ @KP
+ @KPW
+ @KP
+@@;S:
+ @KP?
+@[SL
+ @#Tu
+@@3W
+ @KP
+@@3W
+ @;P8
+@@KP;
+`@3W
+ @KP2
+ @KPR
+ @KP
+ @3W
+ @#W 
+ @3W;
+ @3W
+ @KPa
+ @;P5
+ @3Wl
+ @;P
+ @;P
+`@3W
+@@3W
+ @3W
+@@3W
+@@3W
+ @SW
+ @SV
+ @KW
+ @3W
+(  @
+*  @
+P+  @
+P,  
+P-  
+P.  
+P/  
+_  @
+Pp  
+z @@
+ @@3W
+ @@3W
+  @3W
+  @3W
+  @3W
+  @3W
+,`@3W
+- @KP
+*0 @
+V+0 @#W,0 @CW-0 @
+V.0@@
+W00 
+0@@CP
+ @3Wp
+@@3W~
+@@3W
+ @KP
+ @KP
+@B3W&
+ @;P
+ @3W
+@@3W
+@@3W
+@@3W
+ @3W
+ @KP
+@3W0
+!@3W
+!@3W9
+!@KP@
+!@KPR
+!@KP
+!@;Pe
+a@3WE
+A<0(
+0!0	
+0!0	
+EFI PART
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv2+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+LICENSE=GPLv3+
+grub-install
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.module_license
+.bss
+.gnu_debuglink

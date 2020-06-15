@@ -1,0 +1,730 @@
+/lib64/ld-linux-x86-64.so.2
+@WsCm
+libgucharmap_2_90.so.7
+g_param_spec_object
+g_free
+pango_font_description_free
+gtk_tree_model_get_iter_first
+g_value_get_boxed
+pango_font_description_get_type
+g_intern_static_string
+g_object_freeze_notify
+g_object_get_data
+gtk_tree_sortable_get_type
+g_signal_emit
+gtk_cell_renderer_text_new
+__gmon_start__
+_Jv_RegisterClasses
+g_object_unref
+g_signal_connect_object
+g_strdup
+gtk_widget_get_type
+gtk_widget_destroy
+gtk_tree_sortable_set_sort_column_id
+g_object_class_install_property
+gtk_adjustment_set_value
+gtk_widget_get_allocation
+g_object_notify
+_ITM_deregisterTMCloneTable
+gtk_widget_show_all
+g_assertion_message_expr
+g_value_set_boxed
+g_object_new
+gtk_container_get_type
+g_object_ref
+_ITM_registerTMCloneTable
+g_static_resource_get_resource
+g_type_check_class_cast
+gtk_adjustment_get_type
+pango_cairo_show_layout
+gtk_window_get_type
+g_object_set_data
+cairo_rectangle
+gtk_widget_get_screen
+g_object_get
+g_return_if_fail_warning
+g_utf8_get_char
+g_object_set
+gtk_widget_hide
+gtk_widget_get_realized
+gtk_tree_model_get_type
+g_slice_alloc
+gtk_adjustment_new
+g_signal_new
+gdk_screen_get_monitor_workarea
+g_type_check_instance_is_a
+gtk_widget_set_hexpand
+gtk_widget_grab_focus
+g_type_name
+g_source_remove
+g_signal_connect_data
+gtk_window_set_resizable
+g_type_instance_get_private
+g_type_check_instance_cast
+gtk_binding_set_by_class
+gtk_widget_show
+pango_layout_set_text
+g_param_spec_boxed
+pango_layout_set_font_description
+gdk_window_set_cursor
+g_cclosure_marshal_VOID__VOID
+gtk_label_new_with_mnemonic
+g_type_register_static_simple
+pango_font_description_copy
+gtk_container_add
+pango_font_description_get_family
+cairo_set_line_width
+gtk_widget_get_style
+g_once_init_enter
+atk_object_set_name
+gtk_tree_model_get
+gtk_adjustment_get_value
+g_unichar_to_utf8
+g_static_resource_init
+g_once_init_leave
+g_dgettext
+g_object_thaw_notify
+g_type_class_add_private
+g_slice_free1
+g_type_class_peek_parent
+g_log
+cairo_stroke
+pango_font_description_get_size
+gtk_widget_get_window
+g_type_class_adjust_private_offset
+pango_font_description_set_size
+gtk_widget_get_visible
+gtk_tree_model_iter_next
+g_static_resource_fini
+cairo_move_to
+gucharmap_charmap_previous_chapter
+gucharmap_get_unicode_data_name_count
+gucharmap_get_nameslist_pounds
+gucharmap_charmap_set_snap_pow2
+gucharmap_get_unicode_kDefinition
+gucharmap_charmap_set_active_character
+gucharmap_get_nameslist_stars
+gucharmap_script_chapters_model_new
+gucharmap_get_unicode_data_name
+gucharmap_get_nameslist_equals
+gucharmap_charmap_get_font_desc
+gucharmap_get_unihan_count
+gucharmap_charmap_get_active_character
+gucharmap_codepoint_list_get_index
+gucharmap_unichar_validate
+gucharmap_get_nameslist_colons
+gucharmap_unichar_isdefined
+gucharmap_charmap_set_chapters_model
+gucharmap_codepoint_list_get_char
+gucharmap_codepoint_list_get_type
+gucharmap_charmap_set_font_desc
+gucharmap_charmap_get_type
+gucharmap_charmap_new
+gucharmap_charmap_set_font_fallback
+gucharmap_get_resource
+gucharmap_chartable_get_active_character
+gucharmap_charmap_next_chapter
+gucharmap_codepoint_list_get_last_index
+gucharmap_charmap_get_chartable
+gucharmap_charmap_get_book_codepoint_list
+gucharmap_block_chapters_model_new
+libgtk-3.so.0
+g_settings_get_boolean
+g_settings_new
+g_object_set_data_full
+g_settings_set
+g_setenv
+g_application_get_type
+g_error_free
+g_variant_new_boolean
+g_timer_elapsed
+g_timer_destroy
+g_action_map_lookup_action
+pango_layout_get_extents
+g_variant_get_boolean
+gdk_cursor_new_for_display
+g_utf8_normalize
+gdk_screen_get_monitor_at_point
+pango_font_description_to_string
+cairo_set_source_rgb
+g_simple_action_set_state
+g_ascii_strncasecmp
+g_utf8_skip
+g_menu_get_type
+g_action_map_add_action_entries
+g_unichar_isspace
+g_slice_alloc0
+g_action_map_get_type
+g_value_dup_object
+pango_context_list_families
+g_getenv
+pango_font_family_get_name
+g_menu_model_get_n_items
+g_application_get_default
+pango_font_description_get_weight
+g_variant_unref
+g_menu_model_get_type
+g_timeout_add_seconds
+g_print
+pango_font_description_set_family
+pango_font_description_get_style
+g_strconcat
+g_timer_new
+g_value_dup_boxed
+g_utf8_strlen
+gdk_screen_get_default
+g_simple_action_set_enabled
+g_settings_get
+g_action_map_add_action
+g_menu_remove
+g_settings_set_boolean
+pango_font_description_from_string
+pango_font_description_set_style
+pango_font_description_set_weight
+pango_layout_set_width
+g_settings_get_enum
+gtk_combo_box_set_model
+gtk_print_operation_set_unit
+gtk_print_operation_cancel
+gtk_label_get_type
+gtk_statusbar_new
+gtk_dialog_set_default_response
+gtk_message_dialog_new
+gtk_print_operation_get_type
+gtk_editable_copy_clipboard
+gtk_window_present
+gtk_toggle_button_new_with_mnemonic
+gtk_window_set_default_size
+gtk_image_new_from_stock
+gtk_dialog_set_alternative_button_order
+gtk_grid_new
+gtk_box_pack_start
+alula
+gtk_label_set_mnemonic_widget
+gtk_hbox_get_type
+gtk_button_new
+gtk_editable_select_region
+gtk_check_button_new_with_mnemonic
+gtk_application_set_menubar
+gtk_toggle_button_get_type
+gtk_entry_set_activates_default
+gtk_entry_new
+gtk_entry_get_type
+gtk_application_add_accelerator
+gtk_print_context_create_pango_layout
+gtk_statusbar_pop
+gtk_init_with_args
+gtk_combo_box_set_focus_on_click
+gtk_editable_delete_selection
+gtk_window_get_icon
+gtk_grid_attach
+gtk_cell_layout_get_type
+gtk_widget_get_pango_context
+gtk_dialog_get_type
+gtk_dialog_get_content_area
+gtk_print_context_get_width
+gtk_widget_get_display
+gtk_statusbar_get_type
+gtk_toggle_button_get_active
+gtk_widget_set_size_request
+gtk_combo_box_new
+gtk_print_operation_set_n_pages
+gtk_widget_ensure_style
+gtk_cell_layout_pack_start
+gtk_combo_box_set_active
+gtk_print_context_get_height
+gtk_application_get_windows
+gtk_application_set_app_menu
+gtk_grid_get_type
+gtk_window_set_has_resize_grip
+gtk_widget_set_can_default
+gtk_get_current_event_time
+gtk_binding_set_activate
+gtk_button_set_focus_on_click
+gtk_window_get_screen
+gtk_application_new
+gtk_print_context_get_cairo_context
+gtk_combo_box_set_active_iter
+gtk_builder_get_object
+gtk_window_set_icon
+gtk_button_set_use_stock
+gtk_button_new_from_stock
+gtk_statusbar_push
+gtk_list_store_insert_with_values
+gtk_grid_set_column_spacing
+gtk_entry_get_text
+gtk_widget_set_tooltip_text
+gtk_widget_get_accessible
+gtk_editable_get_position
+gtk_spin_button_new
+gtk_button_set_image
+gtk_settings_get_default
+gtk_application_window_get_type
+gtk_widget_hide_on_delete
+gtk_box_get_type
+gtk_editable_insert_text
+gtk_editable_get_type
+gtk_container_set_border_width
+gtk_dialog_add_action_widget
+gtk_editable_get_selection_bounds
+gtk_button_set_use_underline
+gtk_combo_box_get_type
+gtk_widget_set_sensitive
+gtk_window_set_default_icon_name
+gtk_editable_set_position
+gtk_dialog_add_button
+gtk_window_fullscreen
+gtk_builder_add_from_resource
+gtk_button_set_label
+gtk_window_set_title
+gtk_application_get_type
+gtk_builder_new
+gtk_window_set_destroy_with_parent
+gtk_list_store_new
+gtk_cell_layout_set_attributes
+gtk_show_uri
+gtk_window_set_icon_name
+gtk_button_get_type
+gtk_box_set_spacing
+gtk_window_maximize
+gtk_show_about_dialog
+gtk_window_set_transient_for
+gtk_toggle_button_set_active
+gtk_combo_box_get_active_iter
+libgdk-3.so.0
+g_settings_get_uint
+g_printerr
+g_unichar_tolower
+g_idle_add_full
+g_set_prgname
+libpangocairo-1.0.so.0
+libpango-1.0.so.0
+libatk-1.0.so.0
+libcairo.so.2
+libgio-2.0.so.0
+g_application_run
+g_action_activate
+g_settings_set_uint
+g_application_register
+g_action_get_state
+g_action_get_type
+g_action_get_name
+g_menu_append
+g_settings_create_action
+g_simple_action_get_type
+Degas are we not drawn onward no In union drawn onward to new eras aged
+g_action_change_state
+libgobject-2.0.so.0
+g_cclosure_marshal_VOID__UINT
+libglib-2.0.so.0
+g_set_application_name
+libpthread.so.0
+libc.so.6
+exit
+dcgettext
+__stack_chk_fail
+bind_textdomain_codeset
+strtoul
+bindtextdomain
+strcmp
+__libc_start_main
+_edata
+__bss_start
+_end
+GLIBC_2.2.5
+GLIBC_2.4
+AWAV
+AUATUSH
+Borrow or rob
+4$dH
+D$XH
+D$`8
+D$|	
+D$<L
+D$8A
+l$ H
+[]A\A]A^A_
+UH-(
+D$81
+D$8dH3
+{`u'1
+{`u/
+AWAVAUATUSH
+D$H1
+{@E1
+{HE1
+{PE1
+t$ I
+D;|$
+{8E1
+D$HdH3
+X[]A\A]A^A_
+AVAUATUH
+D$81
+D$8dH3
+@[]A\A]A^
+AVAUI
+ATUH
+ []A\A]A^
+]A\A]A^
+AUATI
+([]A\A]
+[]A\A]
+vWSH
+AWAVAUATA
+D$81
+D9e D
+Ne D
+D9<$|9M
+D;e$u
+D9<$}
+D$8dH3
+H[]A\A]A^A_
+t$ 1
+AUATI
+,s@H
+,shH
+[]A\A]
+[]A\A]
+AVAUI
+ATUH
+h tt
+ []A\A]A^
+[]A\A]A^
+[]A\A]A^
+ATUI
+Tacocat
+[]A\
+AWAVA
+AUATI
+L9$$t
+H9D$
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_1
+AWAVAUATA
+D$(1
+H9D$
+L;t$ t
+T$ H
+D$(dH3
+8[]A\A]A^A_
+L;t$ 
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+A@;A<
+t	;P@
+T$ L
+D$$H
+8[]A\A]A^A_
+D$ 1
+D$ L
+T$ H
+D$ L
+D$ 1
+D$ L
+ <^v5
+D$ 1
+D$ L
+L$(H
+D$ 1
+D$ L
+L$(H
+ATUA
+[]A\H
+[]A\
+AUATUSH
+[]A\A]
+N t7
+AWAVAUATUSH
+L; tML
+[]A\A]A^A_
+ATUI
+|$PH
+|$PH
+[]A\
+[]A\
+ATUH
+ []A\
+ATUI
+|$H1
+[]A\
+AUATUSH
+[]A\A]
+AVAU
+D$H1
+D$8 
+T$HRh<
+T$hRh`
+D$HdH3
+P[]A\A]A^
+ATUH
+[]A\H
+AUATUSH
+[]A\A]
+AUATUSH
+[]A\A]
+AVAUI
+ATUI
+]A\A]A^
+[]A\A]A^
+ATUH
+[]A\
+ATUSH
+[]A\
+{hE1
+t)SH
+t)SH
+AWAV
+AUATUSH
+D$8P
+D$xp
+t$0H
+{@E1
+{PE1
+{HE1
+t$(H
+{@E1
+{HE1
+{XE1
+[]A\A]A^A_
+AVAUATUSH
+D$ I
+D$(@
+D$Xp
+[]A\A]A^
+ATUSH
+L9 t#L
+[]A\
+AWAVI
+AUATUSH
+[]A\A]A^A_
+AVAUI
+ATUH
+[]A\A]A^
+[]A\A]A^
+AWAVA
+AUATL
+%NG 
+-VG 
+[]A\A]A^A_
+Font
+text
+Font Family
+gtk-bold
+toggled
+gtk-italic
+Font Size
+value-changed
+GucharmapMiniFontSelection
+Sans
+property
+gucharmap-mini-fontsel.c
+factor > 0.0f
+God A red nugget A fat egg under a dog
+GUCHARMAP_IS_MINI_FONT_SELECTION (fontsel)
+%s:%d: invalid %s id %u for "%s" of type '%s' in '%s'
+gucharmap_mini_font_selection_change_font_size
+gucharmap_mini_font_selection_get_font_desc
+gucharmap_mini_font_selection_set_font_desc
+:codepoint-list
+GucharmapPrintOperation
+last_codepoint_index %d
+cols: %d rows: %d pages: %d
+Sans 8
+gucharmap-print-operation.c
+priv->codepoint_list != NULL
+priv->font_desc != NULL
+gucharmap_print_operation_constructor
+?GucharmapSearchDialog
+Find
+delete-event
+gtk-close
+_Previous
+gtk-go-back
+_Next
+gtk-go-forward
+_Search:
+Match _whole word
+Search in character _details
+response
+gucharmap-search-dialog.c
+Not found.
+Information
+accessories-character-map
+search-start
+search-finish
+direction == GUCHARMAP_DIRECTION_BACKWARD || direction == GUCHARMAP_DIRECTION_FORWARD
+r != search_state->search_string_nfd_temp
+Beeb
+search_state->search_string_nfd != NULL
+search_state->search_string_nfc != NULL
+gucharmap_search_state_new
+quick_checks_before
+(ii)
+maximized
+fullscreen
+GTK_IS_WINDOW (window)
+org.gnome.Charmap.WindowState
+GamesConf::WindowState
+configure-event
+window-state-event
+!gtk_widget_get_realized (GTK_WIDGET (window))
+gucharmap_settings_add_window
+Noah Levitt <nlevitt@columbia.edu>
+Daniel Elstner <daniel.elstner@gmx.net>
+Padraig O'Briain <Padraig.Obriain@sun.com>
+Christian Persch <chpe@gnome.org>
+Chee Bin HOH <cbhoh@gnome.org>
+Also you should have received a copy of the Unicode Copyright along with Gucharmap; you can always find it at Unicode's website: http://www.unicode.org/copyright.html
+You should have received a copy of the GNU General Public License along with Gucharmap; if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02110-1301  USA
+Gucharmap and the Unicode data files are distributed in the hope that they will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License and Unicode Copyright for more details.
+Permission is hereby granted, free of charge, to any person obtaining a copy of the Unicode data files to deal in them without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, and/or sell copies.
+Gucharmap is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+Based on the Unicode Character Database 8.0.0
+http://live.gnome.org/Gucharmap
+Copyright 
+ 2004 Noah Levitt
+Copyright 
+ 1991
+2015 Unicode, Inc.
+Copyright 
+ 2007
+2013 Christian Persch
+!gtk_widget_get_realized (GTK_WIDGET (guw))
+Sun Microsystems
+translator-credits
+GNOME Character Map
+comments
+3.18.2
+version
+program-name
+Do nine men interpret Nine men I nod
+website
+authors
+logo-icon-name
+wrap-license
+documenters
+copyright
+next-character
+previous-character
+gucharmap-window.c
+find
+find-next
+find-previous
+last-char
+app != NULL
+go-chapter-menu
+win.next-chapter
+win.previous-chapter
+Previous Script
+Next Script
+Previous Block
+Next Block
+help:gucharmap
+GucharmapWindow
+GUCHARMAP_IS_WINDOW (guw)
+application
+zoom-in
+zoom-out
+normal-size
+about
+show-only-glyphs-in-font
+false
+org.gnome.Charmap
+changed::snap-cols-pow2
+notify::font-desc
+_Text to copy:
+margin
+gtk-copy
+Copy to the clipboard.
+clicked
+activate
+realize
+status-message
+changed::group-by
+destroy
+notify::active-character
+gucharmap_window_set_font
+chapters_set_labels
+gucharmap_window_set_chapters_model
+search_find
+next_or_prev_character
+?"script"
+gtk-shell-shows-app-menu
+go-chapter
+menubar
+<Primary>Page_Down
+<Primary>Page_Up
+app.help
+app.close
+<Primary>q
+<Primary>w
+%s %s
+FONT
+[STRING
+/usr/share/locale
+UTF-8
+G_ENABLE_DIAGNOSTIC
+startup
+A Santa lives evil at NASA
+/org/gnome/charmap/ui/menus.ui
+Font to start with; ex: 'Serif 27'
+gtk-application-prefer-dark-theme
+GVariant
+org/
+gnome/
+charmap/
+menus.ui
+<?xml version="1.0"?>
+<!--
+  Copyright 
+ 2012 Red Hat, Inc.
+  This program is free software; you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation; either version 3 of the licence, or (at
+  your option) any later version.
+  This program is distributed in the hope that it will be useful, but
+  WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+Eleele
+  General Public License for more details.
+  You should have received a copy of the GNU General Public License
+  along with this program; if not, write to the Free Software
+  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02110-1301
+  USA
+  Author: Florian Muellner <fmuellner@gnome.org>
+<interface><menu id="app-menu"><section><item><attribute name="label" translatable="yes">By _Script</attribute><attribute name="action">app.group-by</attribute><attribute name="target">script</attribute></item><item><attribute name="label" translatable="yes">By _Unicode Block</attribute><attribute name="action">app.group-by</attribute><attribute name="target">block</attribute></item></section><section><item><attribute name="label" translatable="yes">Sho_w only glyphs from this font</attribute><attribute name="action">app.show-only-glyphs-in-font</attribute></item><item><attribute name="label" translatable="yes">Snap _Columns to Power of Two</attribute><attribute name="action">win.snap-cols-pow2</attribute></item></section><section><item><attribute name="label" translatable="yes">Zoom _In</attribute><attribute name="action">app.zoom-in</attribute><attribute name="accel">&lt;Primary&gt;plus</attribute></item><item><attribute name="label" translatable="yes">Zoom _Out</attribute><attribute name="action">app.zoom-out</attribute><attribute name="accel">&lt;Primary&gt;minus</attribute></item><item><attribute name="label" translatable="yes">_Normal Size</attribute><attribute name="action">app.normal-size</attribute><attribute name="accel">&lt;Primary&gt;0</attribute></item></section><section><item><attribute name="label" translatable="yes">_Find</attribute><attribute name="action">app.find</attribute><attribute name="accel">&lt;Primary&gt;f</attribute></item></section><section><item><attribute name="label" translatable="yes">_Help</attribute><attribute name="action">app.help</attribute><attribute name="accel">F1</attribute></item><item><attribute name="label" translatable="yes">_About</attribute><attribute name="action">app.about</attribute></item></section><section><item><attribute name="label" translatable="yes">_Close Window</attribute><attribute name="action">app.close</attribute><attribute name="accel">&lt;Primary&gt;W</attribute></item></section></menu><menu id="menubar"><submenu><attribute name="label" translatable="yes">_File</attribute><section><item><attribute name="label" translatable="yes">_Close</attribute><attribute name="action">win.close</attribute><attribute name="accel">&lt;Primary&gt;W</attribute></item></section></submenu><submenu><attribute name="label" translatable="yes">_View</attribute><section><item><attribute name="label" translatable="yes">By _Script</attribute><attribute name="action">win.group-by</attribute><attribute name="target">script</attribute></item><item><attribute name="label" translatable="yes">By _Unicode Block</attribute><attribute name="action">win.group-by</attribute><attribute name="target">block</attribute></item></section><section><item><attribute name="label" translatable="yes">Sho_w only glyphs from this font</attribute><attribute name="action">win.show-only-glyphs-in-font</attribute></item><item><attribute name="label" translatable="yes">Snap _Columns to Power of Two</attribute><attribute name="action">win.snap-cols-pow2</attribute></item></section><section><item><attribute name="label" translatable="yes">Zoom _In</attribute><attribute name="action">win.zoom-in</attribute><attribute name="accel">&lt;Primary&gt;plus</attribute></item><item><attribute name="label" translatable="yes">Zoom _Out</attribute><attribute name="action">win.zoom-out</attribute><attribute name="accel">&lt;Primary&gt;minus</attribute></item><item><attribute name="label" translatable="yes">_Normal Size</attribute><attribute name="action">win.normal-size</attribute><attribute name="accel">&lt;Primary&gt;0</attribute></item></section></submenu><submenu><attribute name="label" translatable="yes">_Search</attribute><section><item><attribute name="label" translatable="yes">_Find</attribute><attribute name="action">win.find</attribute><attribute name="accel">&lt;Primary&gt;f</attribute></item><item><attribute name="label" translatable="yes">Find _Next</attribute><attribute name="action">win.find-next</attribute><attribute name="accel">&lt;Primary&gt;g</attribute></item><item><attribute name="label" translatable="yes">Find _Previous</attribute><attribute name="action">win.find-previous</attribute><attribute name="accel">&lt;Shift&gt;&lt;Primary&gt;g</attribute></item></section></submenu><submenu><attribute name="label" translatable="yes">_Go</attribute><section><item><attribute name="label" translatable="yes">_Next Character</attribute><attribute name="action">win.next-character</attribute><attribute name="accel">&lt;Primary&gt;n</attribute></item><item><attribute name="label" translatable="yes">_Previous Character</attribute><attribute name="action">win.previous-character</attribute><attribute name="accel">&lt;Primary&gt;p</attribute></item></section><item><link name="section" id="go-chapter"/></item></submenu><submenu><attribute name="label" translatable="yes">_Help</attribute><section><item><attribute name="label" translatable="yes">_Contents</attribute><attribute name="action">win.help</attribute><attribute name="accel">F1</attribute></item><item><attribute name="label" translatable="yes">_About</attribute><attribute name="action">win.about</attribute></item></section></submenu></menu></interface>
+(uuay)
+;*3$"
+gucharmap
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.gresource.gucharmap
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

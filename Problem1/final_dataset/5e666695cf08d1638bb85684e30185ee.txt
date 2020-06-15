@@ -1,0 +1,10215 @@
+/lib64/ld-linux-x86-64.so.2
+ $DJ
+0`0 	
+"@B1
+B82 
+pD@kB
+%) P
+ 9E$
+NR l
+"7$aD
+`% @0A
+Hap5
+	B#%
+@ E<
+($B 
+A!I`
+R	2(
+	!C)
+&51H
+e")T8*C8
+NAo`
+`0Tr@
+oETj
+U_Ey
+oMOI;r
+ h^k_
+U7cMu=O
+4Yx,
+]bv~
+iFbxY
+][1qo
+,%2R
+w=e%w
+R16YM
+H%MG>O}F
+7'.c
+dq83-
+_V<`
+Q+ld
+G;iR
+JB,+S
+	rJb
+I7Fw]
+SW\o1
+\3^-
+\cK^
+=Uo#|
+;CbIw`
+|81t
+wnsB
+:\H 
+]SU--
+Z9Gbu
+3B<TE
+9%_@2
+h OG
+@M>>o
+G",[
+)d"4y
+}l0zx
+2j	C
+^MD*
+:BQCI
+[uiy
+H0ZZb
+{EXJw
+"hjg
+'k~[v
+;-jS
+)zkI
+:*]2Vfk
+|>8W
+A`(^rM
+?Bas0&
+'6mo
+,zZ/
+IJxV
+E>$a
+'aWr
+z`DQ
+S'&6i
+'&%L;
+U.|3d
+AC!(\
+-}KM
+a8$F
+A}=:q
+z?XTY
+jPl8
+C:uY
+D3T9
+lz6Y
+gbLE
+jOpp
+.Af#
+jl&3
+Ut10
+G su
+`=b`
+Sz5T
+;%>l2}
+7-*3
+jd8Z
+^ry>
+% "p
+WqL_b_
+^	xfUa
+a<\v
+N.6mO
+g^/@_
+X*MS
+)Nd9
+q[E~
+% o7
+hvyd55
+W4=%-
+pRDQ
+7<HV`G6
+libtinfo.so.5
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+tgetnum
+tgetstr
+tgetent
+tputs
+tgetflag
+tgoto
+libdl.so.2
+dlclose
+dlsym
+dlopen
+dlerror
+libc.so.6
+setuid
+strcasestr
+socket
+fflush
+strcpy
+__printf_chk
+setgrent
+readdir
+pathconf
+_IO_putc
+setlocale
+mbrtowc
+towlower
+fopen
+gai_strerror
+strsignal
+strncmp
+dcngettext
+getpwent
+setservent
+strrchr
+__longjmp_chk
+regexec
+__strdup
+dcgettext
+wcrtomb
+getpwuid
+__fdelt_chk
+closedir
+strncpy
+fork
+sigprocmask
+regfree
+sigfillset
+getgrent
+__stack_chk_fail
+__lxstat
+unlink
+putchar
+select
+iswprint
+strtold
+towupper
+strpbrk
+getpid
+imaxdiv
+strftime
+sbrk
+iswalnum
+iswlower
+__ctype_get_mb_cur_max
+endpwent
+strtol
+isatty
+strchrnul
+fgets
+getpwnam
+getppid
+wcschr
+iswctype
+__mbrlen
+setitimer
+sigemptyset
+getaddrinfo
+memset
+strstr
+__errno_location
+tcsetattr
+chdir
+confstr
+memcmp
+getpagesize
+endgrent
+mbsnrtowcs
+mbtowc
+ttyname
+tcflow
+dup2
+clearerr
+unsetenv
+wctob
+__fprintf_chk
+sigaddset
+iswupper
+putenv
+wcswidth
+__sigsetjmp
+stdout
+fputc
+getrusage
+fputs
+strnlen
+lseek
+memcpy
+fclose
+tcsetpgrp
+__memmove_chk
+wcscmp
+__strtol_internal
+__vsnprintf_chk
+strtoul
+killpg
+strcat
+umask
+strcasecmp
+setpgid
+getpeername
+mbsinit
+__strncpy_chk
+getgid
+tzset
+nl_langinfo
+opendir
+__ctype_b_loc
+regcomp
+stderr
+wcwidth
+sigdelset
+ioctl
+group_member
+__snprintf_chk
+getgroups
+getuid
+readlink
+getegid
+setrlimit
+__fpurge
+strncasecmp
+__fxstat
+sendmsg
+fileno
+gethostname
+getcwd
+fwrite
+iconv_close
+gettimeofday
+rename
+sigaction
+geteuid
+__memcpy_chk
+waitpid
+localtime
+strchr
+__vfprintf_chk
+mblen
+iconv
+fdopen
+qsort
+iconv_open
+tcgetattr
+__ctype_toupper_loc
+__strcpy_chk
+__ctype_tolower_loc
+freeaddrinfo
+setvbuf
+wcscoll
+fcntl
+__sprintf_chk
+wcsdup
+__xstat
+getrlimit
+getdtablesize
+memmove
+endservent
+bindtextdomain
+wcsrtombs
+setgid
+faccessat
+__asprintf_chk
+tcgetpgrp
+__libc_start_main
+setpwent
+ferror
+stpcpy
+wcslen
+strcoll
+random
+wcsncmp
+__strtoul_internal
+sysconf
+getservent
+wctomb
+__environ
+sigwinch_sighandler
+sh_modcase
+parse_shellopts
+parse_string
+_rl_set_normal_color
+protected_mode
+rl_show_char
+rl_byte_oriented
+__libc_csu_fini
+rl_filename_quoting_desired
+search_for_command
+_rl_eof_char
+xdupmbstowcs
+_rl_start_using_history
+shell_glob_filename
+_rl_intr_char
+rl_outstream
+sh_get_env_value
+uitos
+clean_itemlist
+rl_discard_keymap
+rl_vi_domove
+declare_doc
+rl_digit_argument
+count_all_jobs
+command_word_completion_function
+rl_executing_key
+wcsnwidth
+array_dequote_escapes
+find_variable
+running_trap
+break_doc
+jobs_doc
+dirspell
+coproc_fdrestore
+fmtulong
+_rl_last_c_pos
+shopt_setopt
+array_dispose_element
+set_shellopts
+_rl_fix_last_undo_of_type
+pop_args
+_rl_isearch_dispatch
+_rl_block_sigint
+lastpipe_opt
+no_exit_on_failed_exec
+should_ignore_glob_matches
+duplicate_buffered_stream
+rl_bind_key
+rl_completion_append_character
+bashline_reset
+rl_begin_undo_group
+getifs
+executing_builtin
+rl_input_available_hook
+all_digits
+_rl_clean_up_for_exit
+rl_unix_filename_rubout
+tempvar_list
+completions_to_stringlist
+get_current_prompt_level
+pat_subst
+add_or_supercede_exported_var
+rl_insert_text
+rl_replace_from_history
+show_name_attributes
+top_level_mask
+bash_initialize_history
+_rl_input_available
+the_printed_command
+add_unwind_protect
+_rl_want_redisplay
+rl_tilde_expand
+var_lookup
+fd_ispipe
+rl_tty_set_default_bindings
+no_symbolic_links
+strvec_from_word_list
+expand_string_unsplit_to_string
+reset_mail_timer
+the_printed_command_except_trap
+_rl_free_match_list
+set_default_locale
+make_while_command
+assoc_patsub
+emacs_standard_keymap
+executing_line_number
+check_dev_tty
+_rl_keymap
+reset_shell_options
+buffered_ungetchar
+yynerrs
+cleanup_the_pipeline
+u32tocesc
+rl_vi_end_word
+wmatchlen
+read_tty_cleanup
+dispose_function_def_contents
+rl_reset_after_signal
+restricted_shell
+terminate_immediately
+rl_emacs_editing_mode
+_rl_push_executing_macro
+history_set_history_state
+hash_doc
+zwrite
+array_shift
+signal_is_trapped
+_rl_suppress_redisplay
+bash_tilde_expand
+ulimit_builtin
+logout_doc
+_rl_free_undo_list
+rl_vi_movement_mode
+_rl_init_terminal_io
+get_dirstack_from_string
+rl_vi_column
+zmapfd
+select_doc
+wdcache
+gather_here_documents
+_rl_show_mode_in_prompt
+rl_get_termcap
+rl_prompt
+print_rlimtype
+dstack
+rl_forced_update_display
+_rl_backspace
+trim_pathname
+add_history_time
+run_debug_trap
+close_fd_bitmap
+break_builtin
+sv_histtimefmt
+close_buffered_stream
+bash_getcwd_errstr
+_rl_callback_data
+_rl_digit_value
+breaking
+history_lines_in_file
+_rl_move_cursor_relative
+glob_star
+convert_var_to_array
+rl_unix_line_discard
+bash_copyright
+subshell_envp
+remember_mail_dates
+fg_doc
+builtin_error
+builtin_address
+_rl_current_display_line
+_rl_skip_completed_text
+remove_backslashes
+free_mail_files
+parser_error
+rl_special_prefixes
+rl_backward_kill_word
+rl_last_func
+_rl_executing_keyseq_size
+make_variable_value
+command_errstr
+coproc_fdchk
+mailstat
+expand_words_no_vars
+u32cconv
+it_arrayvars
+_malloc_unblock_signals
+glob_patscan_wc
+reader_loop
+rl_kill_region
+rl_forward_byte
+rl_noninc_forward_search
+local_exported_variables
+sh_syntabsiz
+rl_completion_query_items
+coproc_flush
+make_command
+_rl_interrupt_immediately
+local_builtin
+rl_set_mark
+hostname_list_initialized
+find_path_file
+assoc_insert
+file_exists
+_rl_to_upper
+zcatfd
+caller_doc
+expand_words_shellexp
+rl_bind_keyseq_if_unbound
+_rl_uppercase_p
+rl_bind_keyseq
+which_set_flags
+rltty_set_default_bindings
+ifs_firstc
+strcreplace
+caller_builtin
+bind_keyseq_to_unix_command
+execute_variable_command
+builtin_warning
+exit_immediately_on_error
+max_input_history
+where_history
+_rl_dispatching_keymap
+rl_alphabetic
+find_string_in_alist
+push_context
+sigint_sighandler
+_rl_internal_char_cleanup
+primary_prompt
+mbschr
+redirection_expand
+hash_builtin
+shell_initialized
+sh_contains_quotes
+set_compatibility_opts
+rl_reset_line_state
+tt_setnocanon
+fg_percent_doc
+bash_logout
+close_buffered_fd
+ttrestore
+ifs_cmap
+disown_builtin
+find_or_make_array_variable
+glob_patscan
+rl_gnu_readline_p
+rl_attempted_completion_function
+array_remove_quoted_nulls
+sh_stat
+continue_builtin
+glob_ignore_case
+strlist_resize
+coproc_setvars
+bgpids
+find_variable_noref
+rl_forward_word
+rl_binding_keymap
+disable_priv_mode
+falarm
+array_rshift
+shell_version_string
+xbcopy
+strlist_flush
+posix_readline_initialize
+rl_sort_completion_matches
+_rl_vimvcxt
+history_truncate_file
+print_arith_command
+test_command
+rl_completer_quote_characters
+_rl_settracefp
+_rl_susp_char
+suspend_builtin
+fnx_tofs
+is_basic_table
+rl_callback_handler_install
+coproc_fdsave
+expand_prompt_string
+grouping_braces_doc
+rl_tty_status
+xtrace_reset
+queue_sigchld_trap
+set_sigint_handler
+no_empty_command_completion
+rl_complete_internal
+base_pathname
+alloc_word_desc
+Borrow or rob
+default_buffered_input
+addtimeval
+rl_complete_with_tilde_expansion
+make_coproc_command
+array_expand_index
+alias_expand_word
+rl_variable_bind
+secondary_prompt
+array_modcase
+list_stopped_jobs
+string_list_dollar_star
+pop_var_context
+enable_hostname_completion
+push_scope
+maybe_make_export_env
+array_shift_element
+copy_function_def_contents
+push_stream
+_rl_horizontal_scroll_mode
+rl_completion_matches
+_rl_kill_kbd_macro
+get_minus_o_opts
+echo_builtin
+sh_optopt
+buffered_getchar
+rl_free_line_state
+return_EOF
+_rl_strip_prompt
+current_fds_to_close
+rl_read_init_file
+bg_doc
+zgetline
+rl_macro_bind
+rl_set_key
+exit_builtin
+let_doc
+rl_funmap_names
+_rl_read_mbstring
+rl_parse_and_bind
+skip_to_delim
+signal_is_special
+notify_and_cleanup
+rl_vi_put
+make_word
+builtin_doc
+dot_found_in_search
+termsig_sighandler
+locale_mb_cur_max
+read_command
+ttfd_cbreak
+build_version
+exit_doc
+rl_vi_bracktype
+_rl_parse_colors
+_rl_nscxt
+_rl_term_autowrap
+_rl_sigwinch_resize_terminal
+saved_command_line_count
+current_command_line_count
+copy_command
+_edata
+rl_old_menu_complete
+expand_word_unsplit
+do_word_assignment
+find_shell_builtin
+make_bare_word
+setup_glob_ignore
+read_secondary_line
+shell_eof_token
+dircomplete_expand_relpath
+history_is_stifled
+current_readline_line
+initialize_readline
+copy_function_def
+popd_doc
+yyerror
+history_max_entries
+_rl_print_completions_horizontally
+get_locale_var
+unset_bash_input
+rl_forward_char
+readline_internal_teardown
+return_catch_value
+print_unix_command_map
+_rl_set_screen_size
+rl_directory_completion_hook
+assoc_dequote_escapes
+rl_echo_signal_char
+rl_set_keymap
+yyparse
+wait_for_job
+sv_strict_posix
+array_patsub
+make_if_command
+it_running
+times_doc
+_rl_add_macro_char
+_rl_keyseq_chain_dispose
+legal_alias_name
+sh_xmalloc
+sh_regmatch
+trapped_signal_received
+rl_complete
+current_command_first_line_saved
+dispose_function_def
+get_history_event
+all_visible_functions
+first_pending_trap
+_rl_set_insert_mode
+rl_blink_matching_paren
+rl_yank_last_arg
+subshell_level
+parse_bashopts
+write_history
+bash_badsub_errmsg
+complete_builtin
+list_string
+_rl_echoctl
+ungetc_with_restart
+set_signal_handler
+already_making_children
+last_made_pid
+zreadintr
+word_split
+find_special_builtin
+sh_optind
+wait_for_background_pids
+wordexp_only
+history_get_history_state
+sh_eaccess
+rl_forward_search_history
+shell_compatibility_level
+sv_shcompat
+quote_string_for_globbing
+_rl_fix_point
+sv_mail
+with_input_from_string
+lcurrent
+rl_history_search_backward
+make_local_array_variable
+bind_int_variable
+rl_vi_eWord
+set_login_shell
+rl_vi_eword
+pushed_string_list
+history_inhibit_expansion_function
+ifs_var
+_rl_last_command_was_kill
+find_user_command
+sh_realpath
+_rl_release_sigwinch
+fmtumax
+array_to_assign
+rl_filename_rewrite_hook
+pcomp_curcmd
+nohup_job
+set_maxchild
+set_working_directory
+last_command_exit_signal
+shell_is_restricted
+make_function_def
+times_builtin
+shell_tty
+sh_backslash_quote
+rl_rubout
+strlist_print
+save_bash_input
+_rl_arg_getchar
+find_global_variable_last_nameref
+_rl_next_macro_key
+set_signal
+maybe_set_sigchld_trap
+rl_generic_bind
+initialize_shell_options
+_rl_terminal_can_insert
+rl_clear_pending_input
+hash_dispose
+get_name_for_error
+rl_completion_quote_character
+rl_unbind_key_in_map
+rl_add_undo
+find_index_in_alist
+readonly_builtin
+assign_array_element
+describe_pid
+unwind_protect_mem
+rl_display_prompt
+get_working_directory
+set_if_not
+fail_glob_expansion
+localetrans
+assign_array_from_string
+sv_optind
+_rl_scxt_alloc
+read_history
+_rl_char_search_internal
+return_doc
+sv_opterr
+terminate_stopped_jobs
+_rl_term_forward_char
+dircomplete_expand
+set_default_locale_vars
+rl_vi_start_inserting
+sv_funcnest
+_rl_untranslate_macro_value
+sv_comp_wordbreaks
+command_string_index
+rl_function_of_keyseq
+sh_backslash_quote_for_double_quotes
+pcomp_curcs
+ttnocanon
+sh_nojobs
+until_doc
+set_pwd
+find_function_def
+_rl_output_meta_chars
+_rl_last_v_pos
+rl_set_retained_kills
+phash_remove
+_rl_parsing_conditionalized_out
+rl_getc
+u32reset
+_rl_free_history_entry
+rl_filename_completion_function
+gen_compspec_completions
+source_builtin
+kill_all_local_variables
+named_function_string
+tt_setonechar
+set_pipestatus_array
+get_numeric_arg
+internal_warning
+hash_copy
+expand_string_to_string
+tilde_expand_word
+tt_setcbreak
+list_minus_o_opts
+find_tempenv_variable
+rl_initialize_funmap
+rl_completion_suppress_quote
+subshell_top_level
+find_shell_variable
+sh_erange
+pop_context
+with_input_from_stream
+expand_string
+rl_vi_bword
+rl_signal_event_hook
+assoc_to_assign
+_rl_comment_begin
+return_catch
+it_jobs
+array_quote
+netopen
+string_list_dollar_at
+rl_deprep_terminal
+rl_vi_complete
+it_keywords
+array_dispose
+glob_vector
+change_flag
+sv_childmax
+rl_completion_display_matches_hook
+trap_doc
+alloc_history_entry
+it_helptopics
+unset_builtin
+parser_in_command_position
+rl_revert_line
+initialize_shell_builtins
+_rl_make_prompt_for_search
+dequote_list
+find_variable_tempenv
+_rl_erase_entire_line
+bind_function
+unbind_func
+glob_asciirange
+_rl_unget_char
+expand_word_leave_quoted
+set_signal_ignored
+rl_copy_backward_word
+read_history_range
+bashline_reinitialize
+rl_getc_function
+print_command
+parse_symbolic_mode
+xtrace_fp
+initialize_signals
+rl_num_chars_to_read
+string_rest_of_args
+signal_is_pending
+rl_vi_check
+signal_names
+_rl_clear_screen
+rl_line_buffer
+ps2_prompt
+rl_reset_terminal
+EOF_Reached
+current_history
+rl_variable_dumper
+_rl_erase_at_end_of_line
+_rl_prev_macro_key
+rl_noninc_forward_search_again
+_rl_insert_typein
+sv_terminal
+make_new_array_variable
+rl_backward_kill_line
+word_token_alist
+check_identifier
+make_until_command
+command_connect
+bash_add_history
+ttfd_noecho
+_rl_output_character_function
+rl_backward_word
+the_printed_command_size
+unquoted_glob_pattern_p
+reset_shopt_options
+push_var_context
+make_cond_command
+sccs_version
+sh_syntaxtab
+rl_vi_overstrike_delete
+rl_newline
+prog_completes
+programming_error
+rl_delete
+save_pipestatus_array
+substring
+job_exit_signal
+new_var_context
+hash_string
+_rl_prep_non_filename_text
+unlink_fifo_list
+history_offset
+rl_vi_fword
+history_lines_this_session
+sh_physpath
+rl_vi_match
+job_exit_status
+progcomp_remove
+sh_mktmpfd
+source_searches_cwd
+rl_refresh_line
+set_job_control
+get_word_from_string
+rl_tty_unset_default_bindings
+print_var_value
+map_over
+rl_insert_comment
+line_number_for_err_trap
+set_sigchld_handler
+reinit_special_variables
+fc_execute_file
+unbind_function_def
+rl_insert
+logout_builtin
+print_shift_error
+fifos_pending
+copy_fifo_list
+export_builtin
+open_buffered_stream
+rl_noninc_reverse_search_again
+_rl_nsearch_callback
+rl_vi_redo
+_rl_arg_overflow
+rl_execute_next
+hup_on_exit
+coproc_list
+reset_signal_handlers
+it_users
+push_args
+strvec_mcreate
+initialize_shell_variables
+set_impossible_sigchld_trap
+skipsubscript
+tempenv_assign_error
+_rl_is_mbchar_matched
+echo_doc
+_rl_arg_callback
+phash_flush
+array_from_word_list
+rl_reverse_search_history
+array_copy
+wait_doc
+extract_arithmetic_subst
+yy_input_name
+_rl_find_next_mbchar
+kill_current_pipeline
+eval_builtin
+dircomplete_spelling
+u32toutf16
+_rl_find_prev_mbchar
+rl_skip_csi_sequence
+_rl_dispatch
+rl_vi_yank_to
+_rl_revert_all_lines
+convert_var_to_assoc
+sh_realloc
+hist_verify
+internal_wstrmatch
+_rl_term_ei
+maybe_execute_file
+rl_vi_goto_mark
+strvec_strcmp
+restart_job_control
+filter_stringlist
+rl_vi_delete_to
+compspec_copy
+compgen_doc
+_rl_term_pc
+makunbound
+phash_search
+rl_insert_close
+_rl_set_the_line
+this_shell_function
+rl_vi_prev_word
+history_expansion_inhibited
+rl_yank
+array_remove
+rl_basic_quote_characters
+minus_o_option_value
+sync_buffered_stream
+pwd_builtin
+absolute_program
+rl_vi_change_case
+_rl_vi_domove_callback
+progcomp_dispose
+rl_re_read_init_file
+ttfd_onechar
+run_trap_cleanup
+get_group_array
+rl_erase_empty_line
+decode_prompt_string
+mail_warning
+rl_kill_text
+ifs_is_null
+arith_for_doc
+xtrace_init
+history_get
+static_shell_builtins
+set_current_prompt_level
+make_bare_simple_command
+sh_double_quote
+subshell_argv
+zreset
+current_readline_line_index
+eof_encountered
+umatchlen
+_rl_input_queued
+rl_macro_dumper
+assoc_quote_escapes
+rl_startup_hook
+dot_doc
+_rl_sigcleanup
+read_but_dont_execute
+rl_vi_replace
+phash_create
+rl_linefunc
+source_file
+set_return_trap
+hash_size
+loop_level
+cdable_vars
+privileged_mode
+_rl_read_mbchar
+ifs_value
+rl_end
+builtin_usage
+_rl_output_some_chars
+check_signals_and_traps
+sh_cfree
+rl_redisplay_function
+_rl_control_keypad
+executable_file
+expand_assignment_string_to_string
+bind_var_to_int
+shell_name
+_rl_keyseq_cxt_dispose
+remove_alias
+set_directory_hook
+rl_vi_search
+all_array_variables
+give_terminal_to
+just_one_command
+_rl_argcxt
+trap_saved_exit_value
+array_create_element
+_rl_walphabetic
+wait_for_any_job
+_rl_null_function
+command_error
+allow_null_glob_expansion
+_rl_insert_char
+true_doc
+getcoprocbypid
+assign_array_var_from_word_list
+make_new_assoc_variable
+rl_visible_stats
+rl_list_funmap_names
+debugging_login_shell
+get_new_window_size
+sh_mktmpfp
+pipefail_opt
+rl_completion_mode
+with_input_from_stdin
+_rl_allow_pathname_alphabetic_chars
+builtin_builtin
+want_pending_command
+rl_free_keymap
+rl_completion_mark_symlink_dirs
+ps1_prompt
+_rl_with_macro_input
+interrupt_state
+sigterm_sighandler
+rl_menu_completion_entry_function
+return_builtin
+_rl_possible_meta_prefixes
+display_signal_list
+xtrace_fd
+copy_word_list
+string_list_internal
+rl_copy_keymap
+rl_kill_line
+rl_already_prompted
+compspec_create
+ttsave
+redirection_error
+rl_expand_prompt
+restore_pgrp_pipe
+set_var_attribute
+complete_doc
+read_doc
+funmap_program_specific_entry_start
+rl_change_environment
+rl_vi_arg_digit
+rl_add_defun
+dispose_variable
+variable_context
+rl_maybe_unsave_line
+rl_transpose_words
+run_sigchld_trap
+rl_completion_word_break_hook
+rl_undo_command
+strlist_create
+coproc_wclose
+__data_start
+strlist_to_word_list
+rl_vi_overstrike
+make_group_command
+set_minus_o_option
+execute_shell_function
+wait_signal_received
+rl_library_version
+_rl_term_ip
+rl_overwrite_mode
+set_bash_input_fd
+hash_walk
+clear_hostname_list
+wait_builtin
+rl_terminal_name
+set_buffered_stream
+strvec_to_word_list
+rl_call_last_kbd_macro
+run_unwind_frame
+dispose_command
+internal_strmatch
+rl_extend_line_buffer
+extract_colon_unit
+promptvars
+compspec_dispose
+strlist_walk
+kill_doc
+_rl_caught_signal
+sh_notbuiltin
+place_keywords_in_env
+_rl_top_level
+history_word_delimiters
+sh_calloc
+expand_string_assignment
+rl_backward_byte
+rl_message
+rl_read_key
+assoc_quote
+rl_set_signals
+do_redirections
+rl_clear_history
+sh_invalidoptname
+tilde_expansion_preexpansion_hook
+sh_set_lines_and_columns
+_rl_enable_keypad
+extract_command_subst
+_rl_completion_prefix_display_length
+disallow_filename_globbing
+initialize_job_signals
+sh_memalign
+rl_completer_word_break_characters
+rl_unix_word_rubout
+print_timeval
+colon_doc
+timeval_to_cpu
+rl_vi_append_mode
+exec_argv0
+rl_completion_type
+it_hostnames
+coproc_init
+set_pipestatus_from_exit
+match_pattern_wchar
+_rl_overwrite_char
+kill_pid
+test_builtin
+hist_last_line_added
+rl_tab_insert
+_rl_update_final
+free_pushed_string_input
+set_error_trap
+adjust_shell_level
+update_export_env_inplace
+unbind_variable
+sv_ifs
+pop_dollar_vars
+_rl_term_DC
+xtrace_set
+rl_make_keymap
+coproc_closeall
+function_trace_mode
+rl_transpose_chars
+rl_executing_keyseq
+sh_opterr
+_rl_scxt_dispose
+_rl_print_color_indicator
+it_commands
+xparse_dolparen
+restore_original_signals
+_rl_trace
+sh_coproc
+brace_expansion
+expand_words
+rl_vi_subst
+sub_append_string
+ttgetattr
+rl_menu_complete
+ansicstr
+unbind_nameref
+quote_globbing_chars
+rl_yank_pop
+init_yy_io
+do_assignment
+reset_mail_files
+zreadc
+shopt_doc
+dump_po_strings
+shift_doc
+rl_reset_screen_size
+parse_and_execute_cleanup
+rl_char_is_quoted_p
+tilde_expansion_failure_hook
+subshell_exit
+zread
+copy_history_entry
+getmaxgroups
+reset_terminating_signals
+_rl_echoing_p
+word_list_remove_quoted_nulls
+posix_initialize
+find_variable_last_nameref
+bind_doc
+enable_doc
+rl_named_function
+compopt_builtin
+set_original_signal
+glob_dirscan
+tilde_additional_prefixes
+bash_history_disable
+_rl_any_typein
+subshell_environment
+printf_doc
+history_search_prefix
+dispose_fd_bitmap
+without_job_control
+get_array_value
+strip_trailing_ifs_whitespace
+rl_backward_char
+_rl_pop_executing_macro
+maybe_call_trap_handler
+shell_start_time
+prompt_string_pointer
+typeset_doc
+rl_vi_yank_arg
+exec_builtin
+forced_interactive
+malloc_trace_at_exit
+phash_insert
+source_uses_path
+indirection_level_string
+list_all_jobs
+enable_builtin
+_IO_stdin_used
+_rl_copy_undo_list
+strvec_len
+stream_list
+rl_readline_state
+sh_un_double_quote
+_rl_color_indicator
+rl_free
+rl_do_lowercase_version
+alrmbuf
+asynchronous_notification
+delete_all_contexts
+set_locale_var
+patch_level
+rl_do_undo
+signal_name
+make_funcname_visible
+absolute_pathname
+append_process
+emacs_meta_keymap
+get_all_original_signals
+last_asynchronous_pid
+pcomp_curtxt
+assoc_to_word_list
+yychar
+getopts_doc
+it_aliases
+rl_restart_output
+array_variable_name
+find_variable_internal
+local_doc
+print_array_assignment
+rl_pre_input_hook
+history_search_delimiter_chars
+coproc_pidchk
+set_dollar_vars_unchanged
+rl_history_substr_search_forward
+sh_single_quote
+rl_undo_list
+sh_validfd
+_rl_term_backspace
+string_to_rlimtype
+rl_discard_argument
+strvec_mresize
+_rl_init_eightbit
+history_length
+command_substitute
+rl_display_fixed
+maybe_make_restricted
+function_doc
+_rl_get_screen_size
+_rl_sigcleanarg
+err_unboundvar
+it_directories
+sh_badjob
+reset_completer_word_break_chars
+rl_filename_quoting_function
+array_quote_escapes
+unbind_args
+coproc_close
+list_rest_of_args
+_rl_utf8locale
+bash_directory_completion_matches
+expand_arith_string
+rl_get_previous_history
+history_search
+rl_translate_keyseq
+current_readline_prompt
+literal_history
+strsub
+interactive_shell
+while_doc
+eof_encountered_limit
+clean_simple_command
+arith_doc
+rl_backward_char_search
+sh_closepipe
+_rl_colored_stats
+array_assign_list
+errexit_flag
+sh_invalidid
+rl_inhibit_completion
+check_hashed_filenames
+sh_exit
+strlist_append
+sys_error
+dispose_redirects
+rl_set_prompt
+programmable_completions
+_rl_history_preserve_point
+make_command_string
+rl_vi_fetch_history
+unfreeze_jobs_list
+fatal_error
+ifs_firstchar
+suspend_doc
+dispose_word_desc
+assoc_replace
+save_parser_state
+make_absolute
+current_prompt_string
+array_walk
+rl_key_sequence_length
+make_arith_for_command
+rl_upcase_word
+read_tty_modified
+rl_history_search_forward
+getmaxchild
+_rl_completion_case_map
+bash_tilde_find_word
+sh_badpid
+rl_bind_keyseq_if_unbound_in_map
+_rl_completion_case_fold
+strvec_copy
+sh_getopt
+array_to_word_list
+sh_mbsnlen
+assoc_flush
+case_doc
+fsleep
+trap_to_sighandler
+rl_callback_handler_remove
+mapfile_builtin
+_rl_overwrite_rubout
+get_variable_value
+dump_translatable_strings
+uinttostr
+ansiexpand
+signal_in_progress
+rl_end_kbd_macro
+dispose_words
+rl_instream
+get_shopt_options
+history_search_pos
+compgen_builtin
+assoc_remove
+timeval_to_secs
+dollar_dollar_pid
+rl_dump_macros
+get_dollar_var_value
+rl_end_of_line
+rl_vi_insert_mode
+no_line_editing
+rl_vi_search_again
+current_token
+binary_test
+assoc_keys_to_word_list
+set_default_lang
+__libc_csu_init
+readline_internal_char
+need_here_doc
+find_variable_notempenv
+internal_error
+parser_save_alias
+jobs_builtin
+file_isdir
+run_pending_traps
+rl_vi_tilde_expand
+ifs_firstc_len
+_rl_keyseq_cxt_alloc
+compopt_doc
+full_pathname
+setup_ignore_patterns
+list_one_job
+rl_bind_key_in_map
+rl_prefer_env_winsize
+type_builtin
+_rl_to_lower
+match_ignore_case
+pop_scope
+ansic_wshouldquote
+maybe_append_history
+bash_re_edit
+assoc_dispose
+show_all_var_attributes
+rl_vi_eof_maybe
+_rl_strindex
+rl_add_funmap_entry
+make_default_mailpath
+history_no_expand_chars
+delete_all_jobs
+current_command_subst_pid
+_rl_screenchars
+have_unwind_protects
+sigalrm_seen
+num_fifos
+it_disabled
+rl_vi_insert_beg
+sh_invalidopt
+get_string_value
+_rl_adjust_point
+eval_doc
+bash_history_reinit
+get_original_signal
+disown_doc
+rl_start_kbd_macro
+strvec_create
+exec_doc
+get_exitstat
+rl_quoted_insert
+rl_ignore_completion_duplicates
+_rl_doing_an_undo
+save_input_line_state
+rl_delete_horizontal_space
+init_job_stats
+mark_modified_vars
+history_reediting
+_rl_tropen
+readline_internal_setup
+valid_array_reference
+current_user
+false_builtin
+cdspelling
+string_list_pos_params
+all_exported_variables
+put_command_name_into_env
+rl_vi_editing_mode
+_rl_term_cr
+_rl_digit_p
+sh_invalidsig
+setup_history_ignore
+rl_mark
+array_insert
+_rl_vi_set_last
+ttnoecho
+bind_builtin
+current_command_number
+dirs_builtin
+false_doc
+enable_history_list
+array_keys_to_word_list
+it_builtins
+command_execution_string
+set_or_show_attributes
+rl_ignore_some_completions_function
+bind_variable_value
+assoc_remove_quoted_nulls
+_rl_bell_preference
+history_total_bytes
+rl_vi_bWord
+set_debug_trap
+rl_done
+current_builtin
+cond_expand_word
+run_return_trap
+posixly_correct
+delete_var
+rl_capitalize_word
+global_variables
+_rl_set_cursor
+it_functions
+find_global_variable
+report_error
+_rl_term_IC
+rl_delete_text
+sh_openpipe
+malloc_flags
+xstrmatch
+print_func_list
+rl_modifying
+check_bash_input
+array_dequote
+_rl_in_stream
+remove_quoted_escapes
+make_select_command
+_rl_complete_mark_symlink_dirs
+rl_crlf
+sigwinch_received
+ttattr
+set_ppid
+_rl_arg_init
+_rl_ttymsg
+time_to_check_mail
+xpg_echo
+xtrace_print_word_list
+file_iswdir
+error_trace_mode
+it_services
+trap_list
+rl_stuff_char
+list_running_jobs
+let_builtin
+type_doc
+export_doc
+rl_pending_input
+sh_neednumarg
+exec_redirection_undo_list
+progcomp_search
+sv_history_control
+rl_completion_invoking_key
+rl_yank_nth_arg
+global_command
+_rl_release_sigint
+wlcache
+assoc_to_string
+jobs_m_flag
+pop_stream
+it_signals
+sh_get_home_dir
+rl_redisplay
+rl_vi_change_char
+rl_untranslate_keyseq
+wcsmatch
+cmd_init
+show_func_attributes
+coproc_checkfd
+rl_username_completion_function
+strvec_sort
+mk_msgstr
+_rl_pushed_input_available
+_rl_meta_flag
+ttonechar
+find_alias
+alias_expand
+zreadretry
+rl_on_new_line
+rl_print_last_kbd_macro
+_rl_term_goto
+rl_vi_fWord
+path_dot_or_dotdot
+bind_array_variable
+ulimit_doc
+rl_character_len
+rl_unbind_function_in_map
+reset_internal_getopt
+remember_on_history
+glob_error_return
+progcomp_flush
+sh_makepath
+rl_exchange_point_and_mark
+progcomp_insert
+rl_vi_change_to
+dispose_saved_dollar_vars
+initialize_job_control
+history_quotes_inhibit_expansion
+rl_cleanup_after_signal
+autocd
+_rl_complete_show_all
+_rl_redisplay_after_sigwinch
+rl_completion_entry_function
+restore_pipeline
+it_variables
+colon_builtin
+rl_function_dumper
+err_readonly
+rl_set_keymap_from_edit_mode
+xtrace_print_assignment
+rl_get_next_history
+_rl_enable_meta_key
+fc_builtin
+interactive_comments
+rl_on_new_line_with_prompt
+xtrace_fdchk
+rl_readline_name
+run_interrupt_trap
+make_simple_command
+file_status
+_rl_compare_chars
+_rl_revert_all_at_newline
+find_variable_nameref
+list_reverse
+rl_editing_mode
+sv_xtracefd
+rl_visible_prompt_length
+string_quote_removal
+bash_license
+rl_attempted_completion_over
+_rl_complete_mark_directories
+nohup_all_jobs
+perform_hostname_completion
+rl_dump_variables
+clear_unwind_protect_list
+jump_to_top_level
+_rl_convert_meta_chars_to_ascii
+any_signals_trapped
+rl_initialize
+xtrace_print_for_command_head
+terminate_current_pipeline
+set_tty_state
+comsub_ignore_return
+rl_unbind_command_in_map
+__bss_start
+xtrace_print_arith_cmd
+u32tochar
+xtrace_print_select_command_head
+_rl_audit_tty
+unalias_doc
+rl_forward
+array_variable_part
+find_global_variable_noref
+_rl_block_sigwinch
+no_invisible_vars
+_rl_complete_show_unmodified
+setup_async_signals
+show_shell_version
+funcnest_max
+stream_on_stack
+tilde_initialize
+it_enabled
+sh_xfree
+bg_builtin
+history_number
+pre_process_line
+rl_ding
+readonly_doc
+_rl_menu_complete_prefix_first
+rl_backward
+list_optarg
+initialize_traps
+history_set_pos
+copy_redirects
+sv_histchars
+umask_builtin
+make_pattern_list
+shopt_builtin
+no_options
+_rl_trclose
+tteightbit
+builtin_ignoring_errexit
+list_optopt
+delete_all_aliases
+_rl_init_line_state
+if_doc
+test_bracket_doc
+restore_parser_state
+return_catch_flag
+close_pgrp_pipe
+make_array_variable_value
+command_oriented_history
+get_current_user_info
+reap_dead_jobs
+rl_executing_macro
+save_token_state
+pcomp_set_readline_variables
+pwd_doc
+sh_mktmpname
+_rl_find_completion_word
+begin_unwind_frame
+strlist_remove
+release_status
+sv_histsize
+isnetconn
+split_at_delims
+array_create
+make_builtin_argv
+set_var_read_only
+array_unshift_element
+initialize_bashopts
+rl_restore_prompt
+execute_command_internal
+terminating_signal
+time_doc
+getcoprocbyname
+initialize_bash_input
+umask_doc
+rl_get_keymap_name
+make_subshell_command
+cd_doc
+rl_point
+rl_clear_message
+_rl_screenheight
+close_new_fifos
+u32toutf8
+strlist_prefix_suffix
+_rl_history_saved_point
+sv_globignore
+find_reserved_word
+sv_tz
+find_token_in_alist
+last_history_line
+_rl_term_dc
+parse_and_execute
+print_var_list
+_rl_dispatch_subseq
+_rl_qsort_string_compare
+_rl_screenwidth
+readarray_doc
+rl_make_bare_keymap
+ansic_quote
+array_to_argv
+read_from_stdin
+rl_prep_term_function
+gnu_error_format
+sh_chkwrite
+maybe_save_shell_history
+strvec_flush
+history_comment_char
+ttsetattr
+make_here_document
+_rl_signal_handler
+coproc_dispose
+rl_save_state
+history_doc
+_rl_disable_tty_signals
+xtrace_print_cond_term
+hashing_enabled
+_rl_vi_initialize_line
+ttfd_nocanon
+rl_variable_value
+rl_completion_found_quote
+parser_remaining_input
+save_pgrp_pipe
+dont_save_function_defs
+check_signals
+_rl_abort_internal
+builtin_address_internal
+coproc_rclose
+fc_doc
+_rl_get_char_len
+ignore_signal
+shift_builtin
+strvec_resize
+rl_invoking_keyseqs
+rl_filename_quote_characters
+get_random_number
+bash_history_enable
+make_case_command
+rl_arrow_keys
+evalexp
+array_keys
+_rl_vis_botlin
+polite_directory_format
+dirs_doc
+rl_set_keyboard_input_timeout
+declare_builtin
+executing
+fd_is_bash_input
+copy_redirect
+free_trap_strings
+_rl_search_getchar
+set_signal_hard_ignored
+rl_prep_terminal
+echo_input_at_read
+move_to_high_fd
+strlist_dispose
+make_arith_command
+_rl_page_completions
+_rl_completion_columns
+noglob_dot_filenames
+setifs
+stupidly_hack_special_variables
+shell_function_defs
+_rl_isearch_callback
+show_var_attributes
+_rl_reset_argument
+match_pattern_char
+this_shell_builtin
+load_history
+check_add_history
+continuing
+stdin_redirects
+fg_builtin
+print_assoc_assignment
+subst_assign_varlist
+_rl_possible_control_prefixes
+Do nine men interpret Nine men I nod
+termsig_handler
+force_fignore
+exit_shell
+sh_badopt
+sv_hostfile
+rl_vi_next_word
+array_to_string
+indirection_level
+rl_vi_rubout
+hash_bucket
+last_command_subst_pid
+strlist_sort
+save_pipeline
+last_shell_builtin
+mbstrlen
+_rl_lowercase_p
+it_exports
+_rl_disable_meta_key
+rl_event_hook
+continue_doc
+_rl_vi_last_command
+rl_get_keymap_by_name
+parse_and_execute_level
+strip_trailing
+initialize_itemlist
+extended_quote
+_rl_put_indicator
+is_directory
+_rl_char_value
+loptend
+dispose_used_env_vars
+rl_char_search
+mapfile_doc
+assoc_dequote
+copy_word
+test_unop
+rl_beg_of_line
+_rl_term_clrpag
+strvec_remove
+parser_expanding_alias
+array_needs_making
+it_files
+parse_command
+terminal_pgrp
+check_binary_file
+rl_vi_undo
+_rl_replace_text
+run_unwind_protects
+rl_clear_signals
+legal_number
+_rl_pure_alphabetic
+sh_setlinebuf
+make_word_from_token
+it_stopped
+reset_parser
+history_subst_char
+brace_expand
+char_is_quoted
+localeexpand
+_rl_saved_line_for_history
+printf_builtin
+force_append_history
+unset_sigwinch_handler
+remember_args
+sigterm_received
+_rl_callback_data_dispose
+set_bashopts
+progcomp_create
+print_cond_command
+expand_compound_array_assignment
+rl_vi_first_print
+tt_seteightbit
+rl_replace_line
+coproc_doc
+sh_wrerror
+init_mail_dates
+run_exit_trap
+rl_kill_full_line
+getopts_builtin
+dispose_word
+test_binop
+sh_contains_shell_metas
+_malloc_block_signals
+rl_directory_rewrite_hook
+top_level_cleanup
+rl_vi_delete
+dispose_var_context
+current_host_name
+dispose_cond_node
+_rl_reset_prompt
+rl_executing_keymap
+this_command_name
+rl_catch_sigwinch
+rl_vi_append_eol
+_rl_term_clreol
+rl_rubout_or_delete
+locale_utf8locale
+coproc_unsetvars
+sh_restricted
+rl_vi_back_to_indent
+make_word_flags
+end_job_control
+rl_vi_insertion_mode
+unbind_array_element
+_rl_echo_control_chars
+bashline_set_event_hook
+_rl_rubout_char
+assoc_modcase
+signal_is_hard_ignored
+set_itemlist_dirty
+strlist_from_word_list
+it_groups
+read_builtin
+get_directory_stack
+rl_arg_sign
+list_opttype
+decode_signal
+noclobber
+user_command_matches
+assign_array_var_from_string
+history_get_time
+yylval
+mitos
+input_avail
+do_assignment_no_expand
+rl_filename_stat_hook
+chkexport
+_rl_color_ext_list
+subshell_argc
+expand_string_unsplit
+bash_brace_completion
+history_arg_extract
+sv_locale
+rl_abort
+set_dirstack_element
+_rl_restore_tty_signals
+zsyncfd
+running_under_emacs
+pushd_doc
+bind_global_variable
+all_variables_matching_prefix
+sh_optarg
+_getenv
+it_setopts
+rl_possible_completions
+mbsmbchar
+_rl_errmsg
+wait_intr_buf
+tvlist_ind
+rl_filename_dequoting_function
+_rl_keyseq_timeout
+evalstring
+rl_filename_completion_desired
+err_badarraysub
+execute_command
+bash_delete_last_history
+same_file
+test_doc
+make_local_variable
+assign_compound_array_list
+check_jobs_at_exit
+_rl_move_vert
+read_octal
+sh_valloc
+delete_all_variables
+_rl_quit_char
+assigning_in_environment
+rl_dispatching
+unclosed_pair
+unalias_builtin
+progcomp_walk
+set_lang
+rl_insert_completions
+ttcbreak
+get_job_spec
+throw_to_top_level
+describe_command
+assoc_reference
+extract_array_assignment_list
+rl_end_of_history
+sourcelevel
+source_doc
+make_redirection
+sort_variables
+sh_mkdoublequoted
+rl_explicit_arg
+get_job_by_pid
+difftimeval
+strvec_dispose
+_rl_callback_data_alloc
+set_dollar_vars_changed
+hangup_all_jobs
+find_flag
+executing_list
+replace_history_data
+ignore_tty_job_signals
+uconvert
+glob_char_p
+push_dollar_vars
+unbound_vars_is_error
+rl_beginning_of_history
+sh_unset_nodelay_mode
+check_window_size
+remove_history
+bash_clear_history
+pipeline_pgrp
+other_token_alist
+rl_readline_version
+bash_input_fd_changed
+initialize_aliases
+print_var_function
+executing_command_builtin
+bash_readline_initialized
+sh_needarg
+hist_last_line_pushed
+have_devfd
+unset_doc
+pushd_builtin
+sv_ignoreeof
+rl_bind_key_if_unbound
+make_for_command
+history_tokenize
+file_error
+rl_copy_region_to_kill
+get_alias_value
+rl_dump_functions
+no_args
+de_backslash
+rl_vi_char_search
+original_pgrp
+xtrace_print_case_command_head
+initialize_flags
+rl_restore_state
+rl_line_buffer_len
+history_expand
+echo_command_at_execute
+_rl_vi_done_inserting
+list_length
+_rl_bind_stty_chars
+vi_movement_keymap
+rl_unbind_key
+_rl_kscxt
+alias_expand_all
+rl_deprep_term_function
+sh_free
+malloc_trace
+remove_unwind_protect
+array_flush
+number_of_args
+expanding_redir
+delete_job
+rl_save_prompt
+emacs_ctlx_keymap
+rl_get_keymap
+_rl_copy_undo_entry
+trap_builtin
+help_builtin
+get_job_by_name
+rl_bind_key_if_unbound_in_map
+sh_ttyerror
+unstifle_history
+optflags
+command_doc
+_rl_set_mark_at_pos
+debugging_mode
+bash_servicename_completion_function
+rl_kill_word
+tilde_additional_suffixes
+sh_xrealloc
+bashline_reset_event_hook
+rl_copy_forward_word
+rl_push_macro_input
+_rl_free_saved_history_line
+_rl_arg_dispatch
+restore_input_line_state
+the_current_maintainer
+rl_bind_keyseq_in_map
+rl_end_undo_group
+run_error_trap
+get_hostname_list
+extended_glob
+sv_path
+coproc_alloc
+print_simple_command
+restore_token_state
+make_cond_node
+ansic_shouldquote
+make_word_list
+spname
+get_tty_state
+conditional_doc
+legal_identifier
+rl_callback_read_char
+variable_help_doc
+stop_making_children
+rl_backward_menu_complete
+wait_for
+new_fd_bitmap
+rl_catch_signals
+the_current_working_directory
+stop_pipeline
+start_pipeline
+assoc_subrange
+history_expansion
+sv_histignore
+history_expansion_char
+_rl_vi_textmod_command
+extract_process_subst
+fd_to_buffered_stream
+rl_delete_or_show_completions
+maybe_add_history
+it_shopts
+last_command_exit_value
+array_slice
+history_write_timestamps
+all_shell_variables
+rl_downcase_word
+sh_canonpath
+rl_invoking_keyseqs_in_map
+getopts_reset
+executable_or_directory
+history_builtin
+_rl_enable_meta
+shell_pgrp
+parse_string_to_word_list
+get_group_list
+rl_display_match_list
+find_function
+strlist_merge
+bash_dequote_text
+rl_noninc_reverse_search
+unary_test
+rl_numeric_arg
+history_delimiting_chars
+array_subrange
+all_visible_variables
+_rl_reset_completion_state
+_rl_term_up
+coproc_fdclose
+rl_maybe_save_line
+rl_copy_text
+rl_universal_argument
+prog_completion_enabled
+rl_get_keymap_name_from_edit_mode
+_rl_forward_char_internal
+pcomp_set_compspec_options
+_rl_term_ic
+complete_fullquote
+_rl_iscxt
+_rl_out_stream
+rl_basic_word_break_characters
+_rl_dispatch_callback
+progcomp_size
+make_child
+startup_state
+rl_vi_set_mark
+bash_groupname_completion_function
+_rl_savestring
+strlist_copy
+sh_notfound
+zreadcintr
+all_shell_functions
+reset_shell_flags
+replace_history_entry
+_rl_term_im
+make_local_assoc_variable
+coproc_reap
+default_tty_job_signals
+_rl_enable_paren_matching
+malloc_register
+shell_execve
+start_job
+signal_is_ignored
+rl_insert_mode
+xmbsrtowcs
+num_shell_builtins
+cd_builtin
+popd_builtin
+tt_setnoecho
+global_error_list
+with_input_from_buffered_stream
+stdin_redir
+sh_malloc
+rl_maybe_replace_line
+rl_completion_suppress_append
+ttfd_eightbit
+wait_for_single_pid
+free_buffered_stream
+sh_invalidnum
+_rl_vi_reset_last
+ifs_is_set
+initialize_terminating_signals
+assign_in_env
+history_base
+dist_version
+bind_assoc_variable
+map_over_funcs
+connect_async_list
+sh_readonly
+merge_temporary_env
+extglob_pattern_p
+fnx_fromfs
+bash_delete_histent
+zreadn
+it_bindings
+sh_getopt_restore_state
+unlink_fifo
+_rl_match_hidden_files
+_rl_callback_func
+restore_default_signal
+bash_default_completion
+rl_stop_output
+parser_restore_alias
+restore_pipestatus_array
+rl_resize_terminal
+_rl_clear_to_eol
+vi_insertion_keymap
+expand_aliases
+add_alias
+_rl_isearch_terminators
+kill_builtin
+rl_set_paren_blink_timeout
+line_number_base
+dispose_exec_redirects
+dequote_string
+shopt_listopt
+discard_unwind_frame
+_rl_undo_group_level
+_rl_mark_modified_lines
+rl_history_substr_search_backward
+GLIBC_2.2.5
+NCURSES_TINFO_5.0.19991023
+GLIBC_2.11
+GLIBC_2.14
+GLIBC_2.8
+GLIBC_2.15
+GLIBC_2.4
+GLIBC_2.3.4
+GLIBC_2.3
+%zi-
+%ri-
+%ji-
+%bi-
+%Zi-
+%Ri-
+%Ji-
+%Bi-
+%:i-
+%2i-
+%*i-
+%"i-
+%zh-
+%rh-
+%jh-
+%bh-
+%Zh-
+%Rh-
+%Jh-
+%Bh-
+%:h-
+%2h-
+%*h-
+%"h-
+%zg-
+%rg-
+%jg-
+%bg-
+%Zg-
+%Rg-
+%Jg-
+%Bg-
+%:g-
+%2g-
+%*g-
+%"g-
+%zf-
+%rf-
+%jf-
+%bf-
+%Zf-
+%Rf-
+%Jf-
+%Bf-
+%:f-
+%2f-
+%*f-
+%"f-
+%ze-
+%re-
+%je-
+%be-
+%Ze-
+%Re-
+%Je-
+%Be-
+%:e-
+%2e-
+%*e-
+%"e-
+%zd-
+%rd-
+%jd-
+%bd-
+%Zd-
+%Rd-
+%Jd-
+%Bd-
+%:d-
+%2d-
+%*d-
+%"d-
+%zc-
+%rc-
+%jc-
+=<4.
+)~9Hc
+AWAVAUATI
+Y[]A\A]A^A_H
+Z[]A\A]A^A_
+AWAVAUATUS1
+D$81
+|$(1
+|$ 1
+\$(uGH
+l$ tC
+|$ H
+L$0H
+t$8dH34%(
+H[]A\A]A^A_
+AWAVI
+AUATA
+[]A\A]A^A_
+8<-u
+<ou8<aK
+<!u-
+?<(u
+AWAVAUATUSH
+T$ dH
+D$ H
+d$8H
+D8+u
+D9d$
+\$8H
+\$8t
+t)HcD$8H
+D$8H
+D$4D
+=S .
+8-tN
+D$8;D$
+=*J-
+D$8;D$
+D$8t 
+=V&.
+HcD$8H
+D$X%
+D$(D
+|$(D
+tt'H
+;dt 
+;et-
+AUATA
+X[]A\A]
+[]A\A]1
+t}~e
+AVAUATA
+]A\A]A^
+/bin/sh
+/bin/sh
+>rt	H
+=T7-
+=87-
+AUAT
+[]A\A]
+t6Hc
+u	H9
+t0Hc
+AWAVAUATUSH
+([]A\A]A^A_
+ATUA
+P0tyH
+[]A\H
+AUATUSH
+[]A\A]
+ u#I
+AUATI
+[]A\A]
+t*;x
+tLAUATI
+t D8&u
+[]A\A]
+[]A\A]
+ u!H
+AWAV
+AUAT
+HcT$
+HcD$
+[]A\A]A^A_
+HcT$
+HcD$
+d$0L
+AWAVAUATA
+[]A\A]A^A_
+~3Hc
+AVAUA
+ATUSH
+\uqE
+[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+AWAVAUATUSH
+t$HdH
+D$h1
+;D$(
+D$ I
+D$HH
+\$hdH3
+x[]A\A]A^A_
+L$8D
+T$0D
+L$8L
+T$0D
+L$ I
+t+Ic
+	u A
+<eu%
+D$0D
+T$ I
+HcT$(H
+T$0D
+L$ I
+L$0D
+T$ D
+\$8D
+L$ Hc
+\$8L
+D$PI
+T$0D
+L$ Lc
+D$PG
+L$8D
+\$0D
+T$ D
+T$ D
+\$0D
+L$8L
+HcT$(H
+@u#H
+l$8A
+\$0D
+T$ I
+'u	E
+L$`E1
+T$ H
+|$@P
+t$@Hc
+T$ L
+l$`D
+T$ H
+T$ A
+|$@P
+T$ I
+t$@Hc
+T$ L
+l$`D
+T$ H
+L$0D
+T$ I
+T$ A
+|$XH
+\$,E
+l$8D
+T$ I
+t$`1
+T$ H
+l$8A
+\$0D
+\$0D
+L$ D
+t$_Ic
+L$`A
+T$ H
+D$`L
+|$@H
+L$d1
+D$`D
+D$`L
+|$@L
+L$X1
+t$dH
+l$8D
+5"z-
+L$`A
+T$ H
+L$`E1
+T$ H
+D$0D
+\$(D
+\$(D
+T$ L
+D$8D
+D$(D
+\$0L
+T$ I
+AWAVD
+AUATUSH
+L$X1
+D$81
+D$?D
+D$DD
+'t	1
+D$HH
+L$XdH3
+h[]A\A]A^A_
+D;|$
+D$(D
+D$(L
+L$0I
+L$8E
+'u	E
+D$@H
+L$PD
+\$(D
+\$(D
+-(p-
+|$ P
+t$ Ic
+\$PH
+L$(D
+D;|$
+D$@H
+L$P1
+D$ D
+t$ Ic
+\$PH
+D;|$
+|$ P
+t$ Ic
+|$DH
+=ah-
+L$DL
+D$TH
+|$ 1
+t$TH
+D$@H
+\$(D
+D$ D
+D$PH
+|$ H
+L$T1
+T$?t
+T$TH
+T$PH
+D$ E
+D$@H
+t$P1
+D$@H
+D$ H
+AUATE1
+HcD$
+[]A\A]
+HcD$
+)HcD$
+HcD$
+AWAVAUATUSH
+D$X1
+\$XdH3
+h[]A\A]A^A_
+|u01
+(t-H
+5Dc-
+L$HD
+, Hc
+T$H1
+5*^-
+L$HE1
+t$HH
+(HcT$
+=f]-
+HcT$
+D$ D
+HcT$
+5B\-
+5*Y-
+=`W-
+T$4L
+\$(N
+L$ D
+L$ L
+\$(HcT$4D
+D$;E
+=!V-
+HcT$
+T$(L
+\$ J
+\$ HcT$(D
+D$:@
+L$HA
+ [Ic
+l$HH
+l$HH
+L$HE1
+-1P-
+D$HL
+t$L1
+T$LB
+==P-
+=0P-
+L$HE1
+\$(D
+(HcT$
+D$ L
+=~Q-
+-zN-
+d$0E
+\$<E
+=7O-
+D8.u
+t$PL
+D$PHc
+=cK-
+L$HA
+=\H-
+-jF-
+=)E-
+=HE-
+5=E-
+=jD-
+5_D-
+D$ H
+=FB-
+L$HA
+D$HH
+L$LH
+=YA-
+5M@-
+=n;-
+=K<-
+=}=-
+|$P1
+T$P1
+T$P1
+5!<-
+%H8-
+=p7-
+5x9-
+=^6-
+ATUSH
+[]A\
+[]A\
+[]A\
+=B3-
+57~-
+%p}-
+=u1-
+5t|-
+=}/-
+=G/-
+=\/-
+AWAVAUATUS1
+d$ H
+D$@I9
+D$ N
+tPHc
+D$@I9
+dH3<%(
+[]A\A]A^A_
+=Rv-
+5}u-
+5Wu-
+=\*-
+=x)-
+=0)-
+=p(-
+=?(-
+=$'-
+=R&-
+=H%-
+=c$-
+=)$-
+=M#-
+L$ L
+L$ L
+D$ H
+D$ H
+=?j-
+9=aj-
+=#j-
+D$ H
+D$ H
+D$ H
+D$ H
+=Oi-
+9=qi-
+H#D$01
+D$0H
+H#D$(H
+L$ L
+L$ L
+L$ L
+L$ L
+L$ L
+L$ L
+=l	-
+D$8H
+D$ L
+AWAVAUATUS
+=eM-
+[]A\A]A^A_
+([]A\A]A^A_
+ATUH
+D$h1
+D$hdH3
+p[]A\
+AWAVI
+AUATI
+|$0D
+dH34%(
+[]A\A]A^A_
+<+t`<-tD
+0<	w}
+0<	v
+u9Hc
+=(r,
+<	u`H
+<	w;1
+0<	w
+ATUH
+dH34%(
+[]A\
+ATUSt_D
+<_u#H
+[]A\
+[]A\
+0<	wKH
+0<	w9H
+u6<>v5H
+ATUA
+[]A\
+=tIH
+AUATA
+[]A\A]
+?/t"
+ATUH
+~%Hc
+[]A\
+[]A\
+ATUSH
+[]A\
+$.Hc
+tb<:t^Hc
+AVAUATUI
+<:u	@
+:vY<:u
+[]A\A]A^
+A\A]A^
+AUATA
+[]A\A]
+?~tb
+9=B_,
+t@;=>_,
+AUATUSH
+[]A\A]
+AWAVI
+AUATE
+[]A\A]A^A_
+AUATI
+[]A\A]
+AVAUI
+ATUH
+dH3<%(
+[]A\A]A^
+t&SH
+AUATA
+[]A\A]
+AWAVE1
+AUATE1
+USE1
+< tq<	tm1
+([]A\A]A^A_
+[]A\A]A^A_
+AUATA
+[]A\A]
+ATUI
+[]A\
+AUATI
+[]A\A]
+AUATA
+[]A\A]
+AWAVAUATUSH
+t$,A
+|$ 1
+D$(I
+D$ H
+8[]A\A]A^A_
+[]A\A]A^A_1
+t$,H
+L$ H
+AVAUI
+ATUI
+C f.
+[]A\A]A^
+AVAUA
+ATUI
+[]A\A]A^
+ATUI
+[]A\
+ATUS
+[]A\
+AUATUSH
+D$H1
+t$XH
+T$`H
+L$hL
+D$pH
+D$PL
+D$ H
+d$ A
+Hc=p
+tl<%H
+dty@
+D$HdH3
+[]A\A]
+D$ %
+|$0A
+t=ATI
+[]A\
+AUATE1
+[]A\A]
+[]A\A]
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t=ATI
+[]A\
+ATUH
+[]A\
+[]A\H
+[]A\
+9=j<,
+AWAV
+AUATUSH
+D$(1
+t$(dH34%(
+8[]A\A]A^A_
+D9%-
+ATUH
+[]A\
+ATUSH
+[]A\H
+AUATI
+[]A\A]A^H
+ATUSH
+[]A\
++=<*,
+AWAVAUATUS
+%U',
+[]A\A]A^A_
+[]A\A]A^A_
+tKSH
+[]A\
+AUATUSH
+[]A\A]
+t:f.
+AUATUS
+gfffffffL
+gfffffff
+dH34%(
+([]A\A]
+~NATI
+$~(I
+[]A\
+ATUH
+[]A\
+[]A\
+AUAT1
+[]A\A]
+AWAVAUATUSH
+~u9@
+[]A\A]A^A_
+=_ ,
+AWAVI
+AUATUSH
+[]A\A]A^A_
+USHc
+ATUSH
+tuUSH
+AWAVI
+AUATI
+D$X1
+L$XdH3
+h[]A\A]A^A_
+,$Lc
+AWAVI
+AUATUS
+D$X1
+t-E1
+\$XdH3
+h[]A\A]A^A_
+D$ H
+D$ H
+t$(H
+D$0H
+t$01
+l$(H
+L$(utH
+D$4PD
+L$,H
+|$0I
+=~y,
+8cuJA
+5]x,
+8cuPA
+|$0A
+|$TA
+=is,
+=]s,
+=Qs,
+t$TL
+L$ H
+=&p,
+AWAVAUATUSH
+L$(1
+=Nm,
+L$(ueH
+L$(L
+L$(1
+L$(H
+\$0H
+D$ H
+t$(1
+D$(A
+dH34%(
+[]A\A]A^A_
+D$ H
+L$(1
+5!~,
+d$|D
+=:h,
+L$(ueH
+L$(L
+L$(1
+L$(H
+-bg,
+L$(E
+D$PH
+=#d,
+L$(E1
+D$|D
+=^x,
+=iz,
+-6c,
+-!c,
+=]y,
+=4a,
+%la,
+5dv,
+-Aa,
+-l`,
+-D`,
+%0`,
+D$(H
+D$(H
+D$8D
+=Hr,
+t$0D
+D$|D
+D$|D
+=7r,
+L$(I
+L$(L;0t
+L$(L
+D$|D
+D$(L
+D#$$D
+-/j,
+-Ph,
+%TR,
+D$(E
+HcD$
+|$HH
+D$hH
+l$PE1
+Et$(D
+5TM,
+=%M,
+D$PA9
+H;D$h
+|$`1
+D$@H
+=eL,
+=6w,
+=&w,
+5GJ,
+=^J,
+=PJ,
+=6u,
+D$TH
+|$Ht
+-cy,
+AUATUSH
+-!w,
+[]A\A]
+=Zr,
+AWAVI
+AUATA
+D$ 1
+D$(E
+[]A\A]A^A_
+AWAVI
+AUATA
+t$ 1
+[]A\A]A^A_
+AWAVA
+AUATA
+t$PH
+t$PH
+T$DH
+t$XH
+|$p1
+T$HH
+t$`H
+T$LH
+t$hH
+[]A\A]A^A_
+D$LL
+D$hH
+D$$H
+D$`H
+D$ H
+D$XH
+D$0)
+D$<I
+D$ H
+D$8H
+L$0H
+D$$H
+L$(H
+AWAVI
+AUATUS
+L$ D
+D$,D
+%"M,
+t$(H
+\$(E
+L$(E
+525,
+-|J,
+H;D$
+[]A\A]A^A_
+-_H,
+D$ H
+|$,1
+AWAVI
+AUATI
+= ~,
+T$pH
+=s},
+T$pA
+ATUH
+[]A\
+AWAVA
+AUATM
+t$ 1
+HcD$
+[]A\A]A^A_
+HcD$
+=bV,
+%gv,
+=}_,
+$H3\$
+AWAVI
+AUATUSH
+[]A\A]A^A_
+AWAVI
+AUATUSH
+[]A\A]A^A_
+ATUSH
+[]A\
+-^[,
+Hc=t6,
+AUATI
+[]A\A]
+AUATUSH
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+|$8H
+D$8H
+\$0H
+D$+H
+l$ D
+0D8>u
+l$ D
+D$,H
+H[]A\A]A^A_
+5.0,
+AWAVAUATUSH
+BASH_FUNH
+([]A\A]A^A_
+taUSH
+@ubH
+tASH
+5(*,
+tRATI
+-6),
+[]A\
+5q(,
+ATUH
+t$L9
+[]A\
+AUATI
+[]A\A]
+ATUI
+.tnH
+[]A\
+[]A\
+StjH
+AVAUATUH
+[]A\A]A^
+AUATI
+[]A\A]
+S I9
+AUATI
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+[]A\
+tJUSH
+AWAVAUATUS1
+([]A\A]A^A_
+AWAVAUATUSH
+tqD9
+([]A\A]A^A_
+([]A\A]A^A_
+AUATI
+uZf.
+[]A\A]
+ATUA
+[]A\
+St5H
+ATUI
+[]A\
+AWAVAUATI
+[]A\A]A^A_
+H#U(H
+D$(A
+T$,A
+[]A\A]A^A_
+9M,t*L
+[]A\A]A^A_
+[]A\A]A^A_
+K(@H
+AUATI
+[]A\A]
+AWAVI
+AUATE
+D$(1
+S I9
+t$(dH34%(
+8[]A\A]A^A_
+L;p 
+t$ L
+t$ L
+AUATI
+<$E1
+H;Z A
+T$(H;Y 
+=0i+
+	P(I
+[]A\A]
+H;-I
+AUATI
+[]A\A]
+K(@H
+AWAVAUATI
+[]A\A]A^A_
+T$ 1
+gfffffffHc
+gfff
+ATUH
+P(uN
+P([]A\
+H(t!1
+ATUSH
+AUATE1
+[]A\A]
+AUATI
+=rV+
+[]A\A]
+[]A\A]
+AWAVA
+AUAT1
+USE1
+[]A\A]A^A_
+[]A\A]A^A_
+AUATI
+[]A\A]
+A9M,
+[]A\A]
+[]A\A]
+AWAVAUATA
+D$X1
+T$01
+Hc=u
+Hc=K
+D$XdH3
+h[]A\A]A^A_
+5~>+
+5u>+
+S(	P(H
+	P(H
+AWAVA
+AUATI
+~IMc
+([]A\A]A^A_
+Ic<$
+Ic<$
+=J<+
+[]A\
+tTATE1
+[]A\H
+[]A\
+E(uu
+[]A\
+tJUS1
+AVAU
+[]A\A]A^
+ATUH
+[]A\
+[]A\
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+=Y5+
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+ATUA
+T$@H
+L$HL
+D$PL
+L$Xt:
+)D$`
+)L$p
+D$(1
+D$(dH3
+[]A\
+AVAUI
+ATUSH
+AUATE1
+([]A\A]
+AWAVAUATUSH
+D$H1
+ u[I
+D$HdH3
+X[]A\A]A^A_
+t	H9
+D$ H
+D$(H
+D$0H
+D$ D
+D$(H
+D$0H
+|$8]
+|$8]
+|$8]H
+D$@L
+D$8]
+L$@1
+XtII
+ u"I
+< u)H
+PPHc
+AWAVAUATUSH
+[]A\A]A^A_
+t.x3H
+AWAVAUATUSH
+[]A\A]A^A_
+*tj@
+t0<	t
+< u(I
+u"H9
+:tvH
+AVAUATUS
+[]A\A]A^
+[]A\A]A^
+^t"H	
+t|~jA
+t8;x
+t5Hc
+AUATI
+[]A\A]
+2t~H;
+H=0jH
+H=0jH
+H=0jH
+USHc
+AWAVLc
+AUATUSH
+([]A\A]A^A_
+5(z+
+[]A\A]A^A_
+AVAUA
+ATUA
+[]A\A]A^
+AVAUA
+ATUHc
+t	D;%
+[]A\A]A^
+[]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+5sk+
+=2k+
+-ik+
+=Kj+
+AUATA
+[]A\A]
+=z~+
+t.;=
+=Z~+
+~|US1
+~|US1
+t@;Z
+dH3<%(
+[]A\
+tX;X
+=Lc+
+ATUS
+[]A\
+=qa+
+AUATUS
+[]A\A]
+tf;=
+HcT$
+HcT$
+ATUA
+AWAVA
+AUATUSH
+H=0jH
+H=0jH
+=~s+
+5gr+
+=nr+
+([]A\A]A^A_
+=>p+
+HcD$
+H=0jH
+HcT$
+%(~+
+[]A\1
+[]A\
+AUATI
+==f+
+[]A\A]
+5zd+
+=.d+
+AWAVAUATUS
+H=0jH
+H=0jH
+=Xq+
+dH34%(
+[]A\A]A^A_
+-Np+
+=_x+
+=f_+
+t0;Z
+=rr+
+=N^+
+t$9-
+th;X
+ATUHc
+[]A\
+=!g+
+5lf+
+H=0jH
+=Rg+
+=2g+
+AWAVA
+AUATUS
+dH34%(
+[]A\A]A^A_
+=!3+
+5u[+
+5\[+
+AWAVAUATI
+|$ dH
+t$ 1
+=11+
+=kH+
+[]A\A]A^A_
+<unknownA
+=YA+
+|TD9
+ATUA
+[]A\
+dH34%(
+AUATA
+<@t*<*u,
+[]A\A]
+[]A\A]
+[]A\A]
+AWAVAUATA
+[]A\A]A^A_
+([]A\A]A^A_
+AWAVI
+AUATUSH
+t$ H
+T$(dH
+t$X1
+D$(D
+T$ H
+|$<H
+t$<H
+\$(D
+t$XdH34%(
+h[]A\A]A^A_
+T$ H
+L$@1
+l$@L)
+l$@A
+Hc(I
+tx<'tt
+L$PL
+AVAUATUSH
+uQE1
+[]A\A]A^
+8(t%
+AWAVH
+AUATI
+t$0H
+t$x1
+L$,H
+d$,E1
+tFE1
+=`m+
+t$`H)
+#u	E
+$u	E
+=7l+
+|$`H)
+|$`Hc
+HcT$(L
+L$HD
+D$DL
+L$8D
+D$DH
+\$(D
+L$,L
+\$\H
+t$\H
+|$xdH3<%(
+[]A\A]A^A_
+HcT$ L
+L$HD
+D$DL
+L$8D
+D$DH
+|$ H
+t$0D
+D$0D
+T$,H
+\$\E1
+HcT$@L
+L$HD
+D$DL
+L$8D
+D$DH
+\$@D
+L$,H
+\$\H
+L$,H
+\$\E1
+t:<'t6
+=Vh+
+l$pH)
+l$`H)
+l$`H)
+D$0HcT$\H
+Hc0H
+HcD$\
+D$0D
+AWAVA
+AUATLc
+D$81
+tBE1
+HcD$
+\$8dH3
+H[]A\A]A^A_
+D$ L
+L$ H
+D$ L
+L$ D
+'t5A
+t:<'t6
+=gc+
+D$0L
+L$0H
+AWAVI
+AUATUSH
+Lc K
+([]A\A]A^A_
+AWAVA
+AUATI
+hHc.dH
+D$X1
+t$$t
+L$@1
+|$@H)
+|$XdH3<%(
+h[]A\A]A^A_
+T$ H
+=']+
+D$@H
+L$@1
+D$@f.
+D$@H
+L$@1
+D$(H
+\$<Hc
+tA<'t=
+D$P1
+L$PH
+L$ H
+,uYD
+AWAVE1
+AUATE1
+([]A\A]A^A_
+tZE1
+=	Y+
+AWAVI
+AUATI
+USE1
+D$H1
+Mc?L
+=kV+
+D$ H
+|$HdH3<%(
+X[]A\A]A^A_
+L$@1
+|$@H)
+T$,D
+l$<D
+t$<L
+T$,D
+HcT$<Ic
+Lc|$<K
+t$<L
+Hc2	
+ATUI
+$[]A\
+AWAVAUATI
+~/Hc
+~tHc
+dH3<%(
+[]A\A]A^A_
+<$H)
+AWAVAUATLc
+D$h1
+D$*N
+=aO+
+t$<A
+HcD$<
+t$<H
+=QM+
+L$@1
+|$@L)
+|$@E1
+L$@1
+T$ L
+|$@L)
+T$ H
+|$@Mc
+L$+L
+|$hdH3<%(
+x[]A\A]A^A_
+t$<H
+T$<H
+HcD$<
+tA<'t=
+=fK+
+L$P1
+|$PL)
+|$PA
+T$,L
+L$+Ic
+D$a(A
+AWAVAUATA
+tEA9
+=uI+
+=#I+
+dH3<%(
+([]A\A]A^A_
+t:<'t6
+AWAVI
+AUATI
+D$H1
+t~A9
+=~F+
+$@:(tI@
+L$(D
+L$ L
+L$ H
+L$(u
+t$HdH34%(
+X[]A\A]A^A_
+l$0H)
+D$0H
+L$01
+l$@H)
+l$@A
+AWAVH
+AUATUSH
+t$DdH
+|$X1
+L$8H
+D$(Lc
+L$P1
+|$PA
+L$(Ic
+D$(Mc
+< u%H
+D$CH
+L$$H
+< u)L
+D$8H
+D$0H
+|$XdH3<%(
+h[]A\A]A^A_
+|$D9
+)HcD$
+D$8H
+D$0H
+D$(H
+|$(H
+l$HM
+< u'I
+l$HH
+AWAVAUATUSH
+tEL9
+([]A\A]A^A_
+[]A\A]A^A_
+AUATSI
+[A\A]]
+AWAVAUATUSH
+< u,
+HcD$
+dH34%(
+([]A\A]A^A_
+=!9+
+ utH
+Hct$
+ u*H
+AWAVI
+AUATUSH
+ u	E
+dH3<%(
+([]A\A]A^A_
+=v2+
+AWAVAUATUSH
+=<1+
+dH3<%(
+[]A\A]A^A_
+AVAUATUSH
+dH34%(
+[]A\A]A^
+AUATI
+[]A\A]
+AWAVAUATI
+[A\A]A^A_]
+%9&+
+AVAUI
+ATUSH
+=z,+
+dH34%(
+[]A\A]A^
+UStTH
+*t*H
+[]A\
+AWAV
+AUATI
+dH3<%(
+([]A\A]A^A_
+AWAVAUATUSH
+D$(1
+u\HcD$
+vJ< tF
+HcT$
+|$(dH3<%(
+8[]A\A]A^A_
+HcD$
+L$ 1
+t+SH
+uV[H
+~4S1
+AUATUS
+[]A\A]
+AWAVH
+AUATUSH
+D$(u
+L$ E
+|0D)
+dH3<%(
+[]A\A]A^A_
+D$@L
+D$@1
+|$ D
+=tF*
+L$(=
+=]F*
+L$$H
+D$@L
+D$@1
+\$DH
+\$DH
+\$DH
+\$@H
+\$@H
+\$@H
+D$4uN
+T$0H
+AWAVAUATUSH
+D$ E1
+D$KL
+S@H9
+[]A\A]A^A_
+D$ H
+t$ Ic
+t$@H
+H9\$
+t$8H
+t$ Ic
+t$@H
+t$@H
+L$8H
+D$@D
+l$pH
+l$lH
+t$tI
+L$XL
+T$LD
+D$(D
+D$0A
+D$8D
+D$@H
+L$PH
+t$0L
+l$lL
+d$xH
+D$0H;D$X
+l$lD
+l$pD
+t$tL
+l$LH
+l$XD
+t$`L
+|$8L
+t$@I
+L$PL
+l$LD
+l$XD
+t$`L
+L$8H
+t$@H
+t$@Hc
+|$0H
+l$8D
+l$@D
+t$LH
+D$(I
+L;t$(
+L$PL
+l$8D
+l$@D
+t$LH
+!D$L
+l$LD
+l$XD
+t$`L
+l$8D
+l$@D
+t$LL
+t$ H
+AWAVAUATE1
+D$H1
+|$ H
+tw<'
+t$HdH34%(
+X[]A\A]A^A_
+T$ H
+L$01
+l$0L)
+tI<'tE
+L$(L
+L$(A
+L$@L
+d$@A
+AWAVAUATI
+D$(1
+t{<`A
+\$(dH3
+8[]A\A]A^A_
+L$ L
+AWAVAUATUSH
+[]A\A]A^A_
+E(Dt
+w*[H
+ATE1
+UStTH
+[]A\
+AWAVAUATI
+D$81
+t{<`A
+\$8dH3
+H[]A\A]A^A_
+D$0L
+L$0H)
+|$ 1
+|$ H
+AWAVAUATUSH
+D$h1
+|$ D
+D$XPL
+D$(Y^
+D$0H
+D$X@
+tZ<(
+t$LI
+D$8Mc
+t$LL
+l$PH
+L$`1
+l$`H)
+L$`1
+l$`H)
+|$PH
+|$hdH3<%(
+x[]A\A]A^A_
+@(@H
+D$ H
+|$PH
+@(@toH
+D$8Lcx
+D$0Lcx
+D$0I
+D+d$
+L$`1
+|$`D)
+|$`A
+L$`H
+l$`D)
+l$`A
+|$PH
+|$PD
+D$ H
+AWAVI
+AUATI
+HcT$|H
+D$x9
+D$0I
+D$PL
+D$ E1
+;w%H
+HcT$|H
+D$ D
+D$HA
+D$ H
+Hc=E
+[]A\A]A^A_
+HcD$|A
+HcD$|A
+HcT$xH
+HcD$|M
+D$0f
+D$HL
+?w0H
+HcT$|A
+HcD$|A
+<	v*
+HcT$|A
+D$HL
+D$|H
+T$(E
+L$0L
+D$ H
+L$8E
+t$(L
+D$0H
+D$@D
+D$8A
+D$8H
+|$8<%H
+D$(H
+\$`H
+HcD$|A
+D$|L
+|$0L
+HcD$|
+T$|A
+t$(L
+|$l^
+|$l,
+|$l~
+L$ E1
+D$Xu
+D$XH
+\$XH
+\$Xt H
+<\td<"tL
+tB<'t>
+D$8H
+T$(H
+@(@H
+D$`H
+D$HL
+D$PL
+L$HD
+D$Pt
+D$PL
+L$HH
+D$PL
+L$HD
+T$(A
+D$ H
+D$0Hc
+t$(L
+A[A\
+\$ 1
+D$0H
+T$(H
+l$PH
+T$(D
+l$0H
+d$`L
+D$0H
+T$0E1
+D$8H
+@(@H
+|$ H
+|$ H
+D$ H
+D$8A
+D$8H
+|$ H
+|$ H
+L$0H
+l$@D
+l$8H
+l$8H
+l$@D
+d$XL
+D$|M
+t$ M
+D$0t
+|$ H
+D$ H
+|$0H
+AWAVAUATUSH
+L$(L
+D$ H
+D$8H
+D$(H
+HcT$|I
+L$PL
+D$HH
+L$PI
+HcD$|H
+t$|A
+HcT$|E
+D$|E
+L$Hv
+HcL$|I
+D$PH
+L$HL
+D$PI
+HcD$|H
+t$|A
+L$|I
+\$HE
+L$PD
+\$HH
+HcL$|I
+D$XH
+L$PD
+\$HH
+L$PI
+HcD$|H
+t$|A
+Lct$|K
+tI<'tE
+t$|D
+L$0H
+HcT$|E
+D$ H
+L$HI
+HcT$|A
+D$|M
+D$H9
+D$HH
+T$|Hc
+D$|E
+D$ H
+L$PH=
+L$(H
+HcT$|H
+ u?D
+[]A\A]A^A_
+L$HD
+D$HM
+HcT$|
+T$@H
+L$HI
+HcD$|H
+t$|A
+HcD$|A
+9D$D
+D$PH
+L$HL
+D$PI
+HcD$|H
+t$|A
+L$HE
+/dev/fd/H
+L$hM
+D9D$P
+L$oD
+D$hD
+t$P9
+L$oD
+Hc|$h
+L$oH
+D$|E
+D$|A
+D$PH
+L$HL
+D$PI
+HcD$|H
+t$|A
+D$8H
+D$PH
+L$HL
+D$PI
+HcD$|H
+t$|A
+T$01
+D$|D
+D$|A
+D$8H
+L$HH
+HcT$|E
+L$|A
+D$PD
+\$HE
+L$XL
+D$PH
+\$HA
+HcT$|H
+HcD$|A
+t$|H
+D$|H
+L$HH
+T$8H
+T$8H
+L$|A
+T$81
+T$8H
+D$HI
+D$HI
+D$HI
+D$ H
+T$81
+D$PD
+\$HL
+\$HL
+D$PH
+D$PD
+\$HL
+D$PL
+D$PI
+D$HI
+L$HA
+t$hL
+D$H9
+|$PE1
+tpH=
+ATUSH
+ []A\
+t>USH
+ATUSH
+ []A\
+t1<*t-
+HcT$
+HcD$
+Hc=}
+HcD$
+ATU1
+[]A\
+AWAVI
+AUATM
+D$H1
+L$HdH3
+X[]A\A]A^A_
+L$,H
+D$8@
+AVAUA
+ATUA
+D$81
+t$(H
+D$ H
+D$ H
+|$0E1
+t$@D
+L$8dH3
+@[]A\A]A^
+t$ 1
+D$0H
+D$0H
+|$ H
+D$0H
+ATUA
+[]A\
+[]A\
+AWAVI
+AUATE1
+D$81
+t$(1
+D$01
+ua<*
+D$0L
+\$8dH3
+H[]A\A]A^A_
+AWAVAUATUSH
+D$H1
+Degas are we not drawn onward no In union drawn onward to new eras aged
+D$@-
+|$@I
+D$8H
+L$<1
+T$8H
+t9Hc
+tiHc
+D$(M
+D$ H
+D$ L
+d$ I
+=PQ*
+H=(&p
+-BO*
+=ZN*
+\$HdH3
+X[]A\A]A^A_
+%]<*
+=iK*
+5/K*
+tFS1
+AVAUA
+ATUA
+[]A\A]A^
+ATU1
+t>[H
+<$.t/L
+/u(L
+tMHc
+AWAVAUATI
+D$(A
+L$(H
+D$ I
+[]A\A]A^A_
+AWAVAUATUSH
+tEIc
+t(9k
+D87u
+[]A\A]A^A_
+AWAVAUATUSH
+D8?u
+[]A\A]A^A_
+[]A\A]A^A_
+AUATI
+[]A\A]
+[]A\A]
+AWAVE1
+AUATE1
+[]A\A]A^A_
+~8AVAUE1
+ATUI
+E9l$
+[]A\A]A^
+[]A\A]A^
+T$HH
+T$XH
+AWAVAUATUSH
+8D8?u
+T$XJ
+T$hH
+[]A\A]A^A_
+dH34%(
+ATE1
+<\tD<?tH<%tDH
+AWAV
+AUATUSH
+L;t$h
+H;L$@
+L;t$X
+9-V9*
+[]A\A]A^A_
+T$XH
+T$hH
+=7]*
+AUATI
+[]A\A]
+|$PH
+D$0H
+|$PH
+Hc\$
+T$HH
+dH34%(
+D$Ht2H
+USHc
+AWAVA
+AUATA
+|$ L
+5=/*
+[]A\A]A^A_
+=gW*
+ATUHc
+[]A\
+[]A\1
+5!/*
+AVAUA
+ATUI
+[]A\A]A^
+$t{H
+<St"E
+ATUH
+[]A\
+=$P*
+USHc
+At=H
+[]A\
+t3~!
+ATUS
+[]A\
+9=sk)
+AUAT
+Nl$0H
+D;%-
+[]A\A]
+tKUSH
+Hc/H
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+x4;=6
+tEHc
+H+s(u
+AUATHc
+;-_f)
+[]A\A]
+?HcV
+ATUSH
+[]A\
+AUATI
+[]A\A]
+ATUS
+?.t_
+AUATUSH
+[]A\A]
+AVAUATUE1
+?t=~'
+]uaE
+dH34%(
+[]A\A]A^
+AUATA
+8\Hc
+[]A\A]
+tNLc
+AWAVI
+AUATI
+<w*L
+dH3<%(
+([]A\A]A^A_
+=z5*
+AWAVAUATUSH
+[]A\A]A^A_
+D9l$
+Hct$
+[]A\A]A^A_
+[]A\A]A^A_
+ATUS
+[]A\
+=D%*
+H=0jH
+=d'*
+4$tj
+AWAVAUATI
+t$hL
+[]A\A]A^A_
+L9t$
+L9t$
+ATUI
+ []A\
+H9D$
+H9D$
+H9D$
+H9D$
+H9D$
+H9D$
+=SS)
+<!u	
+G<3w:
+D$,9
+D$(%
+D$(%
+D$(%
+D$(%
+D$(%
+D$hH9D$X
+D$(%
+D$09
+;-t$1
+!tQ1
+etH@
+<=tb
+<-uZ
+9!u$
+8]u 
+[]A\
+[]A\
+	tRL
+[]A\
+tTS1
+t2Hc
+AWAVAUATI
+USE1
+'tL@
+"tFE
+tV<\tD@8
+T$2f.
+T$ H
+T$ L
+T$ I
+\$ H
+L$ @
+8[]A\A]A^A_
+D$,D	
+tEAUATI
+[]A\A]
+tSATUI
+I9\$
+[]A\
+tSATUI
+I9\$
+[]A\
+tSATUI
+I9\$
+[]A\
+tSATUI
+I9\$
+[]A\
+tCUSH
+ATUI
+[]A\
+trATUH
+[]A\
+AUATI
+$tU1
+]A\A]
+ATUH
+t'[]A\
+t3SH
+tSUSH
+t+SH
+H;="
+AUATI
+I;l$
+t	I9
+H;+t{
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+H;0t
+tlH9w
+H;0t+H
+H;0|
+tdATUSH
+I9\$
+[]A\H
+[]A\
+tAATU1
+[]A\
+AUATUSH
+[]A\A]
+[]A\A]
+USt*H
+[]A\
+AWAVAUATI
+[]A\A]A^A_
+AWAVAUATUSH
+L$(1
+,[Hc
+t Ic
+L$(dH3
+8[]A\A]A^A_
+tFE1
+AWAVAUATUSH
+([]A\A]A^A_
+([]A\A]A^A_
+ATUSH
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+@u"1
+AWAVAUATUSH
+[]A\A]A^A_
+@u"1
+ATUSL
+[]A\
+ATUSL
+[]A\
+AWAVI
+AUAT
+C(@I
+[]A\A]A^A_
+AUATI
+[]A\A]
+C(@H
+AUATA
+[]A\A]
+]A\A]
+[]A\A]
+@(DH
+AUATI
+D$ H
+[]A\A]
+AWAVAUATI
+D$H1
+C(@t@L9
+t$HdH34%(
+X[]A\A]A^A_
+t$<L
+$uiA
+D$@H
+L$@1
+D$@A
+|$ L
+L$,H)
+HcL$(H
+ATUH
+[]A\
+[]A\
+ATUH
+[]A\
+[]A\
+AUATLc
+[]A\A]
+AWAVI
+AUATA
+8[]A\A]A^A_
+E(@udD
+D$ H
+T$ H
+T$ H
+ATUSH
+[]A\
+ATU1
+[]A\
+[]A\
+AWAVAUATI
+~	Ic
+]t_H
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVA
+AUATI
+t$ dH
+D$(1
+T$ H
+HcT$
+L$(dH3
+8[]A\A]A^A_
+AWAVA
+AUATI
+t$ dH
+D$(1
+HcT$
+t$ H
+Du2M
+|$(dH3<%(
+8[]A\A]A^A_
+D$ L
+|$ 1
+HcD$
+T$ H
+ATUS
+]ufH
+ []A\
+AWAVE1
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+ATUH
+tkH;h
+[]A\
+ATUH
+taH;h
+[]A\
+tvAVAUE1
+ATUE1
+]A\A]A^
+tvAVAUE1
+ATUE1
+]A\A]A^
+tvAVAUE1
+ATUE1
+]A\A]A^
+tvAVAUE1
+ATUE1
+]A\A]A^
+t\AUATE1
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATE1
+ L9m
+ L9m
+[]A\A]A^A_
+AWAVI
+AUATA
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+([]A\A]A^A_
+@u!H
+AWAVAUATUSH
+([]A\A]A^A_
+AWAVAUATUSH
+|$(H
+|$(L
+HcD$
+L$ L
+H9l$
+Hc\$
+D$ H
+8[]A\A]A^A_
+AWAV1
+AUATI
+|$81
+{u-E
+\$8dH3
+H[]A\A]A^A_
+`tVA9
+t$,A
+L$01
+l$0H
+l$0A
+L$01
+l$0H
+l$0A
+L$01
+l$0H
+l$0A
+AWAVAUATUSH
+D$`H
+HcT$`I
+HcT$`A
+[]A\A]A^A_
+D$`H
+T$`H
+l$`I
+tZ<\
+T$dI
+t$(H
+|$(H
+t$0H
+|$0H
+t$pI
+<$"H
+l$pH
+HcD$`
+l$ H
+T$`H
+HcD$`M
+D$dL
+T$x1
+|$(H
+\$0f
+Hc|$xI
+T$xD
+D$ H
+D$xD
+D$xL
+|$(H
+|$(H
+D$0H
+D$pH
+t$8L
+d$h)
+D$DH
+t$D9
+;D$8
+t$P9t$D
+D$HH
+L;d$
+D$HI
+H9D$
+L$HL)
+t$H1
+l$XH
+\$PM
+T$8A
+D$xt
+D$8L)
+L9l$
+L9l$
+|$(Ic
+L$DH
+T$xIc
+D$xI
+t$(H
+L;d$
+l$XH
+H9D$
+L;d$
+t$HH
+t$p1
+D$DH
+D$HH
+9D$D
+D$D9D$8
+t$8H
+u Hc
+AWAVA
+AUAT
+t$0H
+D$(A
+T$ L
+T$ L
+D9L$0D
+tFD;T$8t?
+Hct$
+L$ A
+LcT$
+t$(H
+L$ H
+l$(I
+[]A\A]A^A_
+ATUH
+[]A\
+-rP)
+[]A\A]A^
+<&t,H
+AUATUSHc
+~%Lc
+$<{t+<$tO
+(tQ1
+[]A\A]
+[]A\A]
+AVAUATUH
+[]A\A]A^
+5WN)
+[]A\A]A^
+AWAVA
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUATU
+5cF)
+td@8
+dH3<%(
+ []A\A]A^
+t&Hc
+AWAVI
+AUATE1
+<,Ic
+([]A\A]A^A_
+-1})
+AWAVAUATI
+[]A\A]A^A_
+AVAUA
+D$h1
+L$hdH3
+p[]A\A]A^
+ATUI
+[]A\
+AWAVI
+AUATI
+t$f.
+[]A\A]A^A_
+[]A\A]A^A_
+AUAT
+[]A\A]
+ATUS
+=Ze)
+-Jd)
+5Jc)
+[]A\
+=ej)
+-~l)
+%7l)
+]A\A]A^
+AVAUATUS
+Hc5X`)
+=Y`)
+-.`)
+]A\A]A^
+[]A\A]A^
+=Eg)
+[]A\
+%wi)
+-_i)
+%Ei)
+-.i)
+[]A\
+[]A\
+%uh)
+-^h)
+[]A\
+%Gh)
+-/h)
+[]A\
+[]A\
+-hg)
+-Dg)
+[]A\A]A^
+[]A\A]A^
+ATUSt0Hc
+=V[)
+H=(&p
+ATUA
+< t/<	t+
+\t&[
+[]A\
+[]A\
+-YV)
+AWAV
+AUATUSH
+=[S)
+5ES)
+[]A\A]A^A_
+AWAVAUATUSH
+Hc=BP)
+[]A\A]A^A_
+5yW)
+5YW)
+=HW)
+=lN)
+=eU)
+<	u)H
+<'ufH
+\tS9
+AWAV
+AUATI
+5P3)
+[]A\A]A^A_
+=QI)
+AWAVAUATA
+D$(1
+=mE)
+%^p)
+H=(&p
+=	C)
+=rA)
+5:A)
++t2A
+52@)
+%6@)
+|$ H
+L$(dH3
+8[]A\A]A^A_
+5E=)
+=0=)
+=l;)
+=!;)
+5q:)
+=r:)
+5Y8)
+=i8)
+=]8)
+AWAVA
+AUATUSH
+Lc%.b)
+==?)
+=u_)
+}8Ic
+~PE1
+[]A\A]A^A_
+AUATUSH
+=!=)
+,$H)
+=q;)
+=?;)
+,$H)
+,$H)
+u"<'u
+,$H)
+,$H)
+[]A\A]
+==8)
+-mW)
+-UW)
+AUATUSH
+<	u(H
+[]A\A]
+[]A\A]
+[]A\A]
+=Y4)
+504)
+Hc=5W)
+ATUH
+< t&<	t"[]A\1
+[]A\
+=M1)
+ATUSD
+%}T)
+[]A\
+"'><=
+;|&(H
+"'@><
+=;|&H
+-m1)
+tTH;-
+[]A\
+"'@><
+=;|&H
+=`0)
+-G0)
+[]A\
+"'><=
+;|&(H
+==w(
+tYUS1
+ATUA
+dH34%(
+ []A\
+AWAVA
+AUATUSH
+D$(1
+ u[I
+	u;I
+\$(dH3
+8[]A\A]A^A_
+=uB)
+u!D9
+D;|$
+D;t$
+D;t$
+D$$D
+D;|$
+HcD$
+D$$L
+AVAUATUSudH
+&D:e
+D:#u
+[]A\A]A^
+]A\A]A^
+]A\A]A^
+SucH
+tVHc
+AUATUSH
+<:t 
+<:tb1
+[]A\A]
+ATUH
+[]A\
+5F7)
+ATUH
+[]A\
+t ;~
+AUATI
+$t7H
+[]A\A]
+[]A\A]
+ATUSHc
+[]A\
+AWAVA
+AUATUSH
+t$ H
+D$(Ic
+D$ :
+T$8H
+D$HL
+T$@L
+T$4f
+D$0E1
+X[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATI
+tF<\
+}@Ic
+[]A\A]A^A_
+D$(D
+|$ L
+HcD$(
+~bATU1
+u%Hc
+[]A\
+ATUH
+;TtnI
+[]A\
+[]A\
+AUATI
+Pt:H
+[]A\A]
+Tacocat
+\tV@
+"t/H
+AUATU
+Hct$
+([]A\A]A^A_
+AVAUI
+ATUI
+@uTA
+[]A\A]A^
+ uPE
+AVAUA
+ATUI
+[]A\A]A^
+Hc\$
+AUATA
+[]A\A]
+[]A\A]
+[]A\A]
+AVAUATUSH
+tRHc
+[]A\A]A^
+HcD$
+AWAV
+AUATUS
+[]A\A]A^A_
+[]A\A]A^A_
+ATUS
+[]A\
+AUATA
+v1Hc{ 
+[]A\A]
+[]A\A]
+Hc{ 
+AWAVAUATA
+G dH
+dH34%(
+[A\A]A^A_]
+(u&A
+ukE9
+=V0(
+=6/(
+UStr1
+$ ]A\
+AWAVAUATUSH
+H9l$
+[]A\A]A^A_
+[]A\A]A^A_
+ATUH
+[]A\
+AWAVI
+AUAT1
+D$(1
+Hc=7
+D$(dH3
+8[]A\A]A^A_
+Hc|$
+AVAUI
+ATUI
+[]A\A]A^
+AWAV1
+AUATUSH
+H9\$
+([]A\A]A^A_
+([]A\A]A^A_
+AWAVA
+AUATA
+ tJH
+IcT$
+[]A\A]A^A_
+AWAVH
+AUATI
+$H9\$
+[]A\A]A^A_
+AWAVAUATUSH
+([]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATI
+[]A\A]A^A_
+AVAUATUI
+]A\A]A^
+]A\A]A^
+AWAVAUATUSH
+t$@H
+T$(dH
+L$0D
+D$8L
+H=(&p
+AYAZ
+|$(I
+l$PM
+D$XA
+D$ Lc
+D$ I
+T$XH
+|$PL
+\$0D
+|$8H
+D$@H
+D$(_AXt
+l$lD+l$0
+T$(H
+t$@A
+|$pH
+t$p1
+D$ %
+D$Pt
+l$lL
++t$0H
+T$(A
+t$@L
+tNf.
+D$0A
+D$8H
+[]A\A]A^A_
+IcD$
+IcT$
+IcD$
+T$(I
+AWAVAUATI
+[]A\A]A^A_
+AWAVI
+AUATA
+l$ dH
+D$(1
+AUATD
+AXAYH
+AZA[H
+AUATH
+L$(H
+|$ H
+T$(dH3
+8[]A\A]A^A_
+[]A\
+tIS1
+[]A\
+[]A\
+ATU1
+[]A\H
+AVAU1
+ATUI
+[]A\A]A^1
+AUATA
+[]A\A]
+[]A\A]
+AUATA
+[]A\A]
+[]A\A]
+ATUA
+[]A\H
+AVAUATUS1
+<=t2
+[]A\A]A^
+t"f.
+[]A\A]A^1
+]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+L9d$
+AVAUATUH
+[]A\A]A^
+AVAUA
+ATUH
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+[]A\
+[]A\
+[]A\
+AUATA
+tnH;
+[]A\A]
+]A\A]
+AWAVAUATUSH
+([]A\A]A^A_
+St2H
+AUATE1
+[]A\A]
+/bin:/usH
+@(etc
+r/bin:/sI
+bin:/usrH
+/sbin:/eH
+tc:/usr/H
+=cR(
+=(R(
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+=-Q(
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+=DP(
+=&P(
+=fO(
+=JO(
+St*H
+St*H
+=&J(
+AVAUA
+[]A\A]A^
+[]A\A]A^
+?-tkH
+?-tVH
+ATUH
+[]A\
+AWAVI
+AUATUS
+D$(H
+T$(L
+8[]A\A]A^A_
+[]A\A]A^A_
+<%t`
+	v@<+
+t\<%tXH
+AUATE1
+[]A\A]
+AWAVAUATUSH
+<$E1
+[]A\A]A^A_
+Hc5I
+AWAVAUATA
+l$TH
+D$X1
+L$XdH3
+h[]A\A]A^A_
+\$ E
+\$P1
+D$XdH3
+h[]A\A]A^A_
+D$TA
+L$01
+A(DD
+D$4t	E
+L$8D
+L$8D
+\$4A
+D$8D
+T$4@
+D$8I
+\$4L
+\$4A
+\$P!
+l$TA
+!h(L
+D$(H
+D$8D
+T$4@
+T$4D
+T$$1
+D$XdH3
+5{G(
+D5hG(
+L$8D
+\$4A
+L$HD
+D$DD
+\$@@
+L$HD
+D$DD
+\$4L
+P(~	
+l$TL
+D$(H
+D$XdH3
+[]A\A]A^A_
+t$$@
+D$TE	
+AWAVAUATUSH
+-f](
+;-uF
+t2E1
+[]A\A]A^A_
+=:*(
+=	*(
+$t&<etN<ntZ<E
+AWAVAUATE1
+[]A\A]A^A_
+<$Ic
+_struct
+AWAVAUATUS1
+D$(t
+D$x%
+[]A\A]A^A_
+D$XB
+t$X1
+T$@M
+|$XL
+|$ H
+-UN(
+|$ 1
+H9D$(
+|$XI
+T$DH
+l$H1
+|$XI
+|$81
+|$01
+|$8H
+AUATI
+[]A\A]
+[]A\A]
+=Vg(
+AVAUATUH
+T$01
+D$$H
+[]A\A]A^
+=lb(
+D$(H
+D$(H
+t$01
+D$(H
+D$(H
+t$(1
+God A red nugget A fat egg under a dog
+=)((
+D$$H
+D$(H
+D$(H
+D$(H
+D$(H
+D$(H
+D$(H
+D$(H
+D$(H
+D$(H
+D$(H
+T$01
+H+,$H
+D$(H
+t$01
+D$$H
+AWAVAUATE1
+USE1
+[]A\A]A^A_
+5~#(
+L;;t
+5`a(
+=>X(
+AWAVAUATUSH
+t:Ic
+0D:>u
+[]A\A]A^A_
+xauMA
+AWAVE1
+AUATE1
+D$(1
+L$(dH3
+8[]A\A]A^A_
+5>\(
+t;+50W(
+utHc
+|$ H
+L$ H
+t$ 1
+\$ H
+|$ H
+L$ H
+ATUH
+[]A\
+=yP(
+8&t)
+ATUS
+[]A\
+[]A\
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVHc
+AUATL
+,@USI
+Lcd$
+]A\A]A^A_
+[]A\A]A^A_
+ATU1
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+\$(H
+D$(E1
+D$XE1
+D$XH
+D$(H
+L$ L
+|$X1
+D$XH
+D$XB
+D$XH
+t$XD
+t$XD
+D$XH
+D$(H
+L$0H
+D$ H
+C|$@
+D$0L
+D$8A
+Lcd$ H
+L9D$
+HcD$
+D94$
+AVAUATUH
+D$(1
+L$(dH3
+0[]A\A]A^
+-V;(
+|$ H
+t$ H
+t$ L
+t(Hc
+D$ H9
+D$ uY
+AUATE1
+USE1
+[]A\A]
+t}Hc
+Ic|$
+AUATE1
+[]A\A]
+AWAVAUATUSH
+[]A\A]A^A_
+0t_D
+AWAVE1
+AUATA
+D$h1
+=1+(
+L$PH
+D$PH
+=1*(
+D$PH
+D$PH
+l$PH
+T$hdH3
+x[]A\A]A^A_
+D$`H
+T$X1
+d$(L
+l$8H
+l$@L
+t$HI
+D$ H
+d$4H
+d$(L
+l$8H
+l$@L
+t$HA
+t$(H
+|$(H
+T$ H
+D$Xt
+\$HI
+D$HH
+ZYtsL
+D$`H
+D$ H
+D$XH
+St#H
+AVAUATUSH
+ []A\A]A^
+AUATUSH
+[]A\A]
+AUATUSH
+-toA
++t{1
+[]A\A]
+<nt2<-t
+AUATUSH
+[]A\A]
+[]A\A]
+AWAVAUATUS1
+[]A\A]A^A_
+d$<E
+T$(E
+L$(H
+t$$H
+\$PH
+t$xH
+|$8E
+d$|E
+T$8E
+L$|E
+D$(E
+t$hH
+l$`H
+|$4D
+d$0D
+~	D9
+D$pH
+Hct$
+\$XE
+=7*'
+<\uD
+|$$E
+|$$H
+D$|E
+d$0D
+HcD$hH
+d$<E
+T$8E
+|$ E
+|$$H
+|$$H
+|$$H
+D$pH
+|$$1
+|$xH
+d$0D
+L$|E
+d$0D
+|$$H
+t$$H
+D$\E
+DT$ 
+D$x1
+|$$H
+l$\H
+t$PH
+T$xH
+=DK'
+=1J'
+AUATI
+tJD8&u
+[]A\A]
+[]A\A]
+[]A\A]
+AUATA
+[]A\A]
+AVAUA
+tHD86u
+[]A\A]A^
+[]A\A]A^
+AWAV
+AUATA
+USE1
+D$(1
+D$(dH3
+[]A\A]A^A_
+AWAVAUATUSH
+ousL
+([]A\A]A^A_
+AWAVE1
+AUATE1
+USE1
+([]A\A]A^A_
+([]A\A]A^A_
+AUATA
+dH34%(
+([]A\A]
+ATUS
+[]A\
+[]A\
+AUATI
+[]A\A]
+	k(H
+t$(	
+t$(	
+AWAVA
+AUATE1
+H[]A\A]A^A_
+D	p(M
+tiLc
+T$<1
+D$8E
+@t8A
+ATUS
+[]A\
+[]A\
+={~'
+5h~'
+=W~'
+5A~'
+=0~'
+USHc
+utGH
+AUATE1
+[]A\A]
+52{'
+[]A\A]
+AWAVA
+AUATA
+[]A\A]A^A_
+([]A\A]A^A_
+=*w'
+AUATH
+8-uL
+[]A\A]
+[]A\A]
+D$(1
+L$(dH3
+AUATI
+USHc
+D$H1
+D$HdH3
+X[]A\A]
+AWAVAUATUSH
+D$81
+HtV~
+auLA
+\$8dH3
+H[]A\A]A^A_
+}qHc
+T$ L
+t$ D
+|$(H
+t$ D
+=Dh'
+|$(L9|$ H
+D$(1
+D$ r
+D$ H
+D$(dH3
+AWAVI
+AUATI
+<gtw~U<otaA
+[]A\A]A^A_
+<wto<xt[A
+[]A\A]A^A_
+-t2A
+[]A\A]A^A_
+AUATE1
+[]A\A]
+0<	w/
+[]A\A]
+t$(H
+|$(Hc
+t$01
+AWAVAUATUSH
+D$H1
+t$HdH34%(
+X[]A\A]A^A_
+L$>A
+t)Ic
+gfffH
+t$ L
+t$ 1
+t$ 1
+AUATI
+t D8&u
+[]A\A]
+[]A\A]
+AUATA
+[]A\A]
+AWAV
+AUATA
+[]A\A]A^A_
+tKUS
+AWAVA
+AUATA
+D$81
+5Il'
+D$8dH3
+[]A\A]A^A_
+AUATUSH
+[]A\A]
+AWAVAUATUS1
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+t1H9
+[]A\A]A^A_
+[]A\A]A^A_
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+5	}'
+HcD$
+ATUSH
+<'tY<"tU
+<$"tmH
+ []A\
+ATUI
+5dy'
+[]A\
+AWAVI
+AUATE
+D$(1
+|$ H
+|$ u
+5fD'
+D$  
+L$(dH3
+8[]A\A]A^A_
+D$  
+<	w(
+<*t_
+D;t$
+AWAVAUATUSH
+=}t'
+=mt'
+=]t'
+[]A\A]A^A_
+D$(t
+T$(H
+D$8H
+<%t5D
+.u3A
+T$@H
+t$P1
+l$@Lc
+9\$@~;
+|$pu
+5@>'
+9\$@
+D$p%
+5k='
+t$$H
+t$$L
+=|;'
+5_n'
+L$DH
+T$HH
+t$pL
+L$DHc
+D$HE
+T$p1
+;D$H|
+t$H1
+T$HI
+t$$H
+-^l'
+=y8'
+=W8'
+=rj'
+=p7'
+=U7'
+D$$I
+L$(H;
+=;i'
+5<i'
+=(i'
+-4b'
+t$$H
+t$$L
+|$pH
+T$pA
+D$pH
+D$4I
+t$ E
+AYAZ
+|$ E
+t$$H
+T$0E
+t$4H
+|$HH
+T$$I
+T$$A
+T$$I
+D$0E
+=td'
+T$$M
+t$4L
+T$41
+=V0'
+t$4H
+L$$H
+=}/'
+=h/'
+=Hb'
+5Ib'
+=5b'
+5pa'
+AZA[
+T$4H
+T$$H
+T$$H
+T$$L
+T$4H
+T$4L
+AXAY
+T$4H
+-F_'
+=o^'
+=~^'
+=q+'
+=>^'
+=w]'
+=?]'
+=>]'
+=&]'
+L$$L
+=a\'
+5X\'
+=I\'
+==\'
+AWAVAUATUSH
+[]A\A]A^A_
+:tJE
+<$:A
+=`Y'
+AVAU1
+ATUH
+H;=%Y'
+-t8A
+[]A\A]A^
+-u)A
+vN<#
+[]A\A]A^
+[]A\A]A^
+A\A]A^
++u+A
+AUATI
+t D8&u
+[]A\A]
+[]A\A]
+ATU1
+AWAVAUATI
+H	D$
+([]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUATUSH
+D$(1
+T$(dH3
+0[]A\A]A^
+]PtLL
+AUATUSH
+-WA'
+-K@'
+-"@'
+kPE1
+([]A\A]
+AWAVE1
+AUATE1
+=-d'
+([]A\A]A^A_
+-~c'
+[]A\A]A^A_
+!<<wT
+>.t-
+t"<\
+AWAVI
+AUATUSH
+D$H%
+D$(H
+|$#/t
+D$(A
+T$0L
+D$H%
+[]A\A]A^A_
+ATUH
+ []A\
+AVAUA
+ATUH
+ []A\A]A^
+>)uc
+AWAVAUATA
+[]A\A]A^A_
+<$.u
+L9|$
+AWAVAUATI
+[A\A]A^A_]
+H=(&p
+AWAVAUATUSH
+H=(&p
+8[]A\A]A^A_
+H=(&p
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+H=(&p
+[]A\A]A^A_
+D$,f
+|$ D
+H=(&p
+Dt$(
+AWAVAUATL
+t+D83u
+A\A]A^A_
+AWAVH
+AUATUSH
+t+D9;u
+([]A\A]A^A_
+t"H9
+AWAVH
+AUATI
+|$HdH
+L$h1
+L$$D
+D$0I
+L9t$
+D$$E
+H9D$
+H9L$
+/u	@
+H9D$
+/u	@
+?u	E
+L9t$
+\$0@
+l$(H
+|$ L
+H9D$
+t$HL9t$
+|$hdH3<%(
+x[]A\A]A^A_
+L9t$Ht
+L9l$
+L9t$
+.u L9t$H
+\$Zt
+D$ZA
+D$ZL
+t$@M
+|$0A
+t$(H
+T$8H
+t$(H
+T$8D
+\u	@
+t$(H
+D$ L
+L9t$HD
+D$Z1
+D$(x
+T$(x 1
+t$dH
+D$dH
+|$Z1
+l$(A
+D$\E
+D8.u
+L9t$H
+t$dL
+L$ZI
+l$(L
+\$0H
+L9t$
+l$ H
+\$$I
+9D$ t5H
+|$Z[L
+t$@M
+t$@M
+D$ZD
+L$ L
+|$PH
+D$dM
+L$PH
+|$\_
+|$PH
+L$PH
+L$PH
+|$PH
+L$PH
+|$PH
+|$PH
+|$PH
+|$PH
+|$PH
+|$PH
+|$Z[
+t$@M
+t$@I
+AWAVA
+AUAT1
+L;$$H
+D$ I9
+t	L9
+D$ L
+|$(H
+8[]A\A]A^A_
+D$(L
+uRL9
+T$ L
+t$(L94$
+8[]A\A]A^A_
+H;\$
+L9,$M
+L9t$
+L9t$
+t$ L94$
+tNAUATA
+[]A\A]
+AWAVI
+AUATUSH
+T$h1
+|$@H
+H9\$
+H9D$ tc
+|$hdH3<%(
+x[]A\A]A^A_
+H9T$ M
+/u	@
+d$Hf
+?t}E
+H9D$
+H9D$
+t$ H
+L9t$
+H9\$
+H9\$
+H9\$@
+D$ A
+\$8D
+t$NA
+D$NM
+H9\$@
+D$0L
+L$ H
+H9\$@D
+t$ D
+tHH9\$
+!u;A
+L$0L
+d$0H
+\$HI
+T$ t	
+9T$0t5H
+|$41
+|$41
+|$41
+|$41
+\$8D
+t$TL
+D$TI
+;\$4
+T$TM
+\$TE
+H9\$
+l$ H
+\$(D
+d$4H
+|$0H
+H9\$@
+|$XH
+D$(H
+L$`H
+t$XH
+D$(H
+t$TL
+\$TI
+l$ H
+\$(D
+d$4H
+l$4H
+\$8A
+\$8M
+t$4D
+D$4E
+\$8D
+l$4M
+]tcE
+\$8D
+l$4I
+AWAV1
+AUATA
+L;$$H
+D$ I9
+t	L9
+D$ L
+|$(H
+8[]A\A]A^A_
+D$(L
+uRL9
+T$ L
+t$(L94$
+8[]A\A]A^A_
+H;\$
+L9,$M
+L9t$
+L9t$
+t$ L94$
+tNAUATA
+[]A\A]
+ATUH
+ []A\
+AWAVI
+AUATI
+D$(1
+H9l$
+L$(dH3
+8[]A\A]A^A_
+L$ H
+AWAVAUATUSH
+D$X1
+|$(H
+D$8K
+|$PM
+<\u_
+D$8\
+D$(H
+t$ H
+t$XdH34%(
+h[]A\A]A^A_
+L$PH
+D$(H
+D$ H
+T$0E1
+D$@H
+\$8H
+D$PI
+D$PH
+t$81
+D$0H
+D$8H
+D$@H
+D$PI
+D$@H
+t$0L)
+\$0L
+\$0B
+D$(H
+\$0H
+D$@H
+t$0L)
+\$0L
+D$(L
+D$ L
+\$8H
+D$PH
+D$@H
+D$(H
+]t H
+<;wE
+.u>@
+AVAUATUS
+(uGM
+[]A\A]A^
+AVAUATUS
+[]A\A]A^
+[]A\A]A^
+<+=uZH
+ATUStW
+Q([]A\
+[]A\
+AUATA
+[]A\A]
+]A\A]A^
+D$H1
+D$ H
+D$(H
+T$HdH3
+D$H1
+D$ H
+D$(H
+L$HdH3
+D$H1
+D$ H
+D$(H
+T$HdH3
+D$H1
+D$ H
+D$(H
+L$HdH3
+D$H1
+D$ H
+D$(H
+T$HdH3
+AWAV
+AUATA
+\$ dH
+D$h1
+L$hdH3
+x[]A\A]A^A_
+D$PE1
+$HcD$
+L9d$Ps
+ATUS
+[]A\
+/dev/fd/I
+[]A\
+?/t;
+x	ru
+D$(1
+L$(dH3
+AUATUSH
+D$H1
+L$HdH3
+X[]A\A]
+gfffffffI
+AWAVAUATA
+[]A\A]A^A_
+AWAV
+AUATI
+to</
+[]A\A]A^A_
+/t	@
+L;t$
+>/txI
+L9t$
+AWAVAUATUSH
+tt</tpL
+[]A\A]A^A_
+D$ H
+D< /J
+t$ L
+0H+t$
+</tm
+AUATUSH
+[]A\A]
+[]A\A]
+[]A\A]
+AWAV
+AUATI
+[]A\A]A^A_
+AWAVAUATI
+[]A\A]A^A_
+tsUS
+t+SH
+AWAVAUATI
+[]A\A]A^A_
+AWAVAUATI
+HcL$
+Lcl$
+L9<$L
+HcD$
+[]A\A]A^A_
+AWAVH
+AUATUSH
+[]A\A]A^A_
+H9,$I
+]A\A]A^A_
+AWAVI
+AUATUSH
+[]A\A]A^A_
+~XAUATA
+A9\$
+[]A\A]
+~CAUATI
+A9l$
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+t0SH
+t#SH
+AWAVAUATUSH
+tkD:m
+[]A\A]A^A_
+[]A\A]A^A_
+AUATI
+[]A\A]
+AWAV1
+AUATA
+[]A\A]A^A_
+AUATUSH
+[]A\A]A^H
+[]A\A]A^
+AWAVAUATI
+|$(H
+T$0u
+t	@8
+dH34%(
+[]A\A]A^A_
+8.t	
+t$ H
+;'tKH
+ATUA
+[]A\
+	<uw+
+"<:v-H
+"<:w
+AWAVAUATUSH
+<Vw>
+([]A\A]A^A_
+}toA
+AWAVAUATUSH
+dH3<%(
+[]A\A]A^A_
+@uuD
+ATU1
+AWAVA
+ATA)
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVH
+AUATUSH
+[]A\A]A^A_
+D$0H
+|$@D
+t$DH
+\$HH
+D$8D+t$8
+D$8f
+|$8H
+T$ H
+\$HH
+DD$0H
+D$hH
+D$ H
+D$(H
+D$0H;
+J0v"H
+gfff
+gfff
+gfffffff
+J0v"H
+gfff
+gfff
+gfffffff
+AWAV
+AUATA
+|)H)
+[]A\A]A^A_
+=yT&
+AWAVAUATUSH
+([]A\A]A^A_
+<.tb
+tt<.
+D$H1
+D$0H
+L$HdH3
+AWAVAUATUSH
+\$x1
+|$ t
+\$xdH3
+[]A\A]A^A_
+l$ A
+D$(Hc
+T$8D
+9\$(
+HcL$
+T$(H
+L$@1
+d$@)
+T$8t!
+HcL$
+T$(H
+L$@H
+|$8N
+T$(H
+L$@H
+|$8N
+T$@H
+|$<H
+L$PL
+|$<L
+T$(H
+D$@H
+L$@1
+T$(H
+L$@H
+|$8N
+T$(H
+L$@H
+|$8D
+T$8t)
+T$(H
+L$@H
+|$8N
+AVAUATUSH
+dH34%(
+[]A\A]A^
+ATUH
+D$H1
+d$ E1
+T$HdH3
+P[]A\
+ASCIf
+ATUE1
+dH34%(
+[]A\
+dH34%(
+AWAVA
+AUATI
+dH3<%(
+[]A\A]A^A_
+<$H)
+AWAVI
+AUATUSH
+t?w]A
+[]A\A]A^A_
+H+\$
+[]A\A]A^A_
+H+\$
+[]A\A]A^A_
+ATUA
+[]A\
+dH34%(
+[]A\
+AWAVLc
+AUATI
+]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+%}q&
+=up&
+ATUS
+=J|&
+[]A\
+=zs&
+=|m&
+AVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+=&o&
+-&i&
+[]A\A]A^A_
+=)g&
+[]A\A]A^A_
+%@f&
+5ve&
+=Ed&
+ATUS
+t^[]A\1
+[]A\1
+#[]A\
+%Jb&
+%;a&
+=I`&
+=F`&
+=Q]&
+ATUSHc
+%"]&
+[]A\
+%Q[&
+AUATUSH
+-,|&
+[]A\A]
+[]A\A]
+AUATUSH
+%;W&
+[]A\A]
+=Rz&
+5<z&
+5ky&
+5=y&
+=Gy&
+D;%)x&
+AWAVI
+AUATUSH
+-MU&
+  Hc
+-Tw&
+%:w&
+[]A\A]A^A_
+< tQ<	tM
+[]A\A]A^A_
+%YP&
+5jq&
+auLH
+<	t	
+<	u4
+AWAVA
+AUATUSH
+Hc-ak&
+tYA9
+<	u7A9
+[]A\A]A^A_
+AVAUATA
+-cF&
+	u)H
+]A\A]A^
+xlUS
+xlUS
+AWAVAUATUSH
+5?f&
+=KC&
+D;d$
+[]A\A]A^A_
+HcT$
+5pA&
+=Gb&
+50a&
+;5N`&
+=q=&
+%i:&
+=+9&
+=][&
+5xZ&
+=q7&
+=	[&
+AUATUSH
+D$81
+L$8dH3
+H[]A\A]
+%=Z&
+D;%ZY&
+5zY&
+--Y&
+[]A\
+=qW&
+AUATI
+;-,V&
+[]A\A]
+5"U&
+	u&H
+552&
+5"2&
+-b2&
+AUATUSH
+[]A\A]
+=CR&
+<[tb~0<{t|<}tp<]u
+[]A\A]
+<(t\<)
+<[tV~$<{
+<}tp<]u
+<(tl<)
+[tS~)
+ATUSH
+5X+&
+[]A\
+=NM&
+ATUSH
+[]A\
+tXUSH
+AUATA
+;^t<H
+[]A\A]
+5eI&
+5.'&
+5i%&
+=$7&
+=	&&
+=d%&
+=S%&
+=>%&
+-w#&
+AUATA
+=u$&
+=`$&
+=O$&
+[]A\A]
+[]A\A]
+t\US
+t\US
+t\US
+t\US
+ATUA
+[]A\
+ATUSH
+D$H1
+D$HdH3
+P[]A\
+D$ H
+D$(H
+D$0H
+D$H1
+D$HdH3
+ATUI
+[]A\
+alula
+ATUSH
+[]A\
+[]A\
+AVAUATI
+t][L
+]A\A]A^
+[]A\A]A^
+ATUA
+[]A\
+D$(%
+u?H9
+:/t+H
+AVAUE1
+ATUE1
+ []A\A]A^
+AWAVAUATUSH
+D$(1
+L$ H
+t$(dH34%(
+8[]A\A]A^A_
+5a	&
+=M	&
+AWAVAUATA
+tEH9
+([]A\A]A^A_
+=`	&
+AWAVAUATUSH
+L$X1
+D$0I
+L$@I
+T$0A
+L;<$
+Hct$
+D9|$
+D9|$
+t$XdH34%(
+h[]A\A]A^A_
+L$0H
+|$(L
+L$@H
+|$,H
+5a#&
+Hcl$
+AWAVAUATUSH
+([]A\A]A^A_
+AWAVAUATUSH
+D$H1
+L$HdH3
+X[]A\A]A^A_
+L$0H
+L$@H
+|$,I
+D$,9
+5O	&
+|$(M
+L$0H
+L$@H
+|$,I
+L9<$
+[]A\
+[]A\
+[]A\
+H9=)
+AWAVAUATUSH
+T$,tnH
+[]A\A]A^A_
+AWAVAUATUSH
+D9%O
+H[]A\A]A^A_
+D$7H
+D$8H
+t$ H
+L$(H
+T$$9T$
+D$(H
+T$8H
+D$$L
+l$(1
+9l$ ~H
+D;d$
+D;|$$~
+D$0x
+D$$A9
+H[]A\A]A^A_
+Hct$
+AUATI
+]A\A]
+[]A\A]
+[]A\A]
+t;USH
+AWAVI
+AUAT
+thHc
+[]A\A]A^A_
+AWAVAUATE1
+D$(1
+d$ H
+L$(dH3
+8[]A\A]A^A_
+H;+t
+@ti1
+d$ M
+d$ I
+d$ I
+d$ I
+|$ H
+ATUS
+H=`/J
+[]A\
+Hc=L
+AUATUS
+[]A\A]
+[]A\A]
+[]A\A]
+t;SH
+ATUSH
+t;< 
+tE~)H
+5z?%
+H9:u
+AWAVI
+AUATI
+]A\A]A^A_
+AWAVA
+AUATUSH
+D$(1
+t$(dH34%(
+8[]A\A]A^A_
+T$$H
+|$$L
+|$$H
+AUATI
+[]A\A]
+HcD$
+AWAVAUATI
+[]A\A]A^A_
+AWAV
+AUATA
+[]A\A]A^A_
+ATUI
+[]A\
+[]A\H
+u][1
+]A\A]A^
+]A\A]A^
+AVAUATUSH
+< u"H
+t&<	t"H
+dH3<%(
+[]A\A]A^
+AWAVA
+AUATUSH
+t$@I
+[]A\A]A^A_
+ugAUAT
+[]A\A]
+[]A\
+AWAVH
+AUATH
+USE1
+t$HH
+T$(Hc
+D$ H
+t$0H
+\t[A
+D9l$
+Hct$
+D$$9D$ A
+D$@t2H
+T$(H
+T$(H
+[]A\A]A^A_
+Hct$
+T$(H
+T$(H
+T$@H
+$\M-
+\C-?
+AWAVAUATA
+[]A\A]A^A_
+AUAT
+[]A\A]
+ATUSt	
+i-search
+[]A\A]A^
+%7c%
+reverse-
+failed 
+ATUA
+[]A\
+xtHcW8H
+C89C<t%H
+AWAVAUATUSH
+wPHc
+[]A\A]A^A_
+pIcW
+u1Hc
+VIcW8I
+t?Hc
+WdIcO`A
+tYA9
+E9o(
+IcW`I
+ATU1
+u2f.
+[]A\
+}<Hc
+Hc5AR%
+="R%
+AWAVAUATUSH
+D$(1
+\$(dH3
+8[]A\A]A^A_
+~3Hc
+t$ A
+}9Hc
+AWAVAUATUSH
+t$0H
+T$@H
+L$HL
+\$ L
+|$0M
+D$@H
+D$HH
+D$0H
+H+D$
+D$09
+D$@H
+D$HH
+D$8H
+X[]A\A]A^A_
+ATUSH
+[]A\
+ATUS
+AVAUATUS
+u2[]A\A]A^
+]A\A]A^
+ta;=
+YATU
+ATUS
+[]A\
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+=z}%
+=0|%
+=Y|%
+L$ I
+=m{%
+=T{%
+ATUA
+u)Hc
+51t%
+5z:%
+AWAVA
+AUATE
+T$(D
+[]A\A]A^A_
+HcD$(;B }
+|$\H
+|$\H
+|$(A
+=Ft%
+d$ H
+l$0M
+T$(E
+D;D$
+5`r%
+5<r%
+D$0L)
+D$8H
+D$ A
+;\$@t*
++\$@H
+D$8E
+9L$,
+9L$(
+d$@E
+L+l$
+|$\H
+|$ H
+d$ L)
+4$H)
+|$`A
+l$@H
+\$0L
+l$8H
+|$pM
+d$HE
+L9|$0Lc
+sOL9l$8sHH
+l$@M
+\$0L
+d$HL
+t$0L
+H+L$
+D$@9
+t$ L
+|$ 9|$
+t$(+
+D$0L)
+D$8H
+D$ H)
+\$(E
+D$(;
+|$`H
+|$8D
+t$01
+|$pE1
+H;D$ I
+|$8D
+t$0+l$
+=5x%
+D$(;
+=Yj%
+L+l$
+L+$$H)
+t$,9t$(
+T$0L
+T$ A
+5{u%
+L+$$H+l$
+L+$$H+l$
+6@80
+|$8D
+t$0D
+L+l$
+t$0E
+d$ H
+l$0M
+5=`%
+T$ 1
+L+l$
+5I_%
+=\b%
+AWAVAUATUSH
+D$X1
+D$XdH3
+h[]A\A]A^A_
+54\%
+@88t
+< Lc
+HcP 
+l$ A
+=C_%
+5%l%
+D;5+|%
+D;5`|%
+t$ 1
+T$(H
+-0Z%
+L$PH
+|$LIc
+t$<E1
+L$ H
+T$(H
+L$ H
+t$<Hc
+l$ H
+D;5~v%
+t$(E1
+|$ 1
+VUUU
+L$PH
+|$LH
+=,R%
+L$(H
+D$ L
+T$8H
+L$(H
+D$ L
+-qO%
+Hc5i
+D;%]N%
+%kN%
+-aM%
+D;-^M%
+;-FM%
+Jc,"H
+D$4;
+|$4D
+%IL%
+%PK%
+%ZK%
+HcT$4
+%.J%
+HcD$4
+-?J%
+5]W%
++=!H%
+=OH%
+=gU%
+= B%
+=LF%
+=he%
+=Oe%
+=qe%
+=6E%
+=Nd%
+=lD%
+=t?%
+=ac%
+AUATA
+[]A\A]
+ATUI
+[]A\
+=4C%
+=aG%
+=JG%
+=28%
+%B6%
+HcT$
+%V4%
+5N3%
+[]A\
+AUATU
+-uV%
+~tCA
+~t0[1
+]A\A]A^
+]A\A]A^
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+=\9%
+==9%
+=!9%
+D$xf
+D$`H
+T$`1
+D$0H
+AWAVAUATA
+[]A\A]A^A_
+t>US
+ATUSH=
+t"Hc
+=L'%
+uSHc
+AVAUA
+[]A\A]A^
+]A\A]A^
+=A&%
+t<ATU
+5BH%
+5-G%
+<	u0
+/w+I
+xLATU1
+xLATU1
+%gC%
+-oC%
+%6C%
+-@C%
+AUATA
+[]A\A]
+tDUSH
+AVAUATUH
+[]A\A]A^
+tSATUSH
+[]A\
+AWAVAUATE1
+USE1
+%6@%
+[]A\A]A^A_
+[]A\A]A^A_
+tOHc
+=M%%
+-S$%
+=:$%
+=!#%
+AVAUATUSH
+dH34%(
+[]A\A]A^
+AVAUATUSH
+[]A\A]A^
+tBHc
+AUATUSH
+D$(1
+t$(dH34%(
+8[]A\A]
+D$ I
+AVAUHc
+ATUI
+xQA9
+[]A\A]A^
+=q+%
+ t7H
+ATUA
+[]A\
+-\&%
+AUATUSH
+5%$%
+[]A\A]
+=b!%
+tsAUATI
+D:'u
+[]A\A]
+[]A\A]
+9="m$
+AUATE1
+[]A\A]
+AWAVAUATUS
+D$H1
+t$0Mc
+~5Ic
+t$0L
+L$HdH3
+X[]A\A]A^A_
+l$ 1
+[]A\
+[]A\
+ATUA
+x2[]A\
+[]A\
+xpta
+=cd$
+x}t;
+xmt%
+AWAVAUATA
+D$H1
+~DHc
+L$HdH3
+X[]A\A]A^A_
+L$ L
+T$ H
+=zY$
+=EY$
+AUATUSE
+]A\A]A^
+]A\A]A^
+AUATUS
+D;%8
+[]A\A]
+[]A\A]
+ATUSH
+ []A\
+ATUS
+[]A\
+<	u,
+AWAVAUATE1
+[]A\A]A^A_
+ATUS
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+ []A\
+UtN1
+<CtL<PtX
+=mF$
+%&F$
+5gE$
+5]E$
+t+SH
+AWAVAUATUSH
+tqH9
+[]A\A]A^A_
+AVAUATUSL
+D9%`
+A\A]A^
+AUATUSH
+[]A\A]
+ATUH
+[]A\
+tTHc
+~IUSH
+t;USH
+D$H1
+D$HdH3
+tOATUH
+[]A\
+AVAUI
+ATUI
+[]A\A]A^
+t2Hc
+AUATUS
+[]A\A]
+tD<'t@
+t$<'t <\u
+AWAVAUATUHc
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUI
+]A\A]A^
+AWAVAUATUSH
+L$3t
+t$4H
+d$,t
+D$ A9
+L$ 9
+;D$(}zH
+H[]A\A]A^A_
+Hct$(H
+T$ H
+T$ H
+AWAVA
+AUATUSH
+8Lc&
+T$ H
+L$(1
+td;D$
+t$ L
+~,Mc
+D9T$
+t$(dH34%(
+9ueH
+8[]A\A]A^A_
+AWAVH
+AUATUSH
+t$81
+t$8dH34%(
+H[]A\A]A^A_
+t$0H
+T$,D
+D$,9
+AWAVAUATA
+[]A\A]A^A_
+AWAVAUATUSH
+=px$
+l$tMc
+Lc|$t
+,<t	@8
+[]A\A]A^A_
+HcD$t
+D$(H
+d$0H
+L$H1
+t$tA
+Hc|$tH
+T$tD
+=%t$
+Hc4$
+HcD$tA
+HcD$tA
+l$tD
+D$@Ic
+l$xE
+\$xI
+d$0H
+|$@H
+l$(f
+D$tH
+D$tH
++D$ 
+t)Lc
+=Ho$
+Hct$tI
+Hc4$
+\$ E
+\$tE
+t$tL
+D$t1
+\$tD)
+HcD$tA
+Hc4$
+Hc4$
+HcD$tA
+Hc4$
+Hc4$
+Hc4$
+Lcd$tH
+Hc4$
+t$|H
+\$xI
+\$xM
+D$xH
+l$XL
+D$hD
+D$`x
+D$xM
+D$`q
+D;t$8Mc
+t(<	t	< u 
+D$XM
+d$0I
+|$@H
+\$xHc
+D$THc
+LcD$TL
+\$xHc
+\$xM
+\$xL
+D$xH
+HcT$xD
+t$x1
+D$xA
+t$xA
+T$8L
+D$`A
+|$lH
+l$XD
+|$`x
+l$@L
+\$xtKH
+t$@Ic
+L$8Hc
+D$XM
+d$0I
+D$XM
+d$01
+D$xH
+HcD$xH
+D$xE1
+.historyH
+AWAV1
+AUATUS
+[]A\A]A^A_
+AWAVA
+AUATA
+\$PH
+[]A\A]A^A_
+u.E1
+~HM9
+s'D9
+AWAVAUATA
+D$(%
+[]A\A]A^A_
+t$@I
+t9I9
+t$I9
+E8'tfH
+AWAV
+AUAT
+T$8A
+D$0H
+L$4D
+D;|$4
+9D$0
+D$0)
+d$<D
+[]A\A]A^A_
+d$<A
+H[]A\A]A^A_
+AUATA
+[]A\A]
+AWAVI
+AUATI
+USHc
+~/Ic
+[]A\A]A^A_
+7C8D%
+AVAUI
+ATUA
+[]A\A]A^
+~-Hc
+1@87u.A
+AWAVAUATUS
+dH34%(
+([]A\A]A^A_
+AWAVA
+AUATA
+D$(1
+L$ )
+L$(dH3
+8[]A\A]A^A_
+AUATLc
+[]A\A]
+AUATUSH
+[]A\A]
+[]A\A]H
+[]A\A]
+[]A\A]
+AWAV
+AUATI
+L$,H
+D$ H
+D$ H
+9D$(
+9l$(
+Hc|$
+Lct$
+8[]A\A]A^A_
+9D$,
+9D$(
+D$(Hc
+L$(H
+D$(Hc
+5BG$
+=>G$
+5cG$
+=_G$
+ATUH
+D$(D
+[]A\
+Iu(H
+5fC$
+5&C$
+='C$
+57C$
+=3C$
+ATUM
+#[]A\A]A^
+6w?M
+ []A\
+tGD8&Hc
+:t!H
+8=t%H
+AWAVAUATA
+%Qv$
+u;E1
+dH34%(
+[]A\A]A^A_
+-#u$
+AUATI
+[]A\A]
+AWAVAUATUSH
+t(<T
+([]A\A]A^A_
+AWAVI
+AUATA
+dH3<%(
+[]A\A]A^A_
+|$ L
+Hc5(}$
+=t{$
+M5h{$
+tJM9s
+AWAVA
+AUATI
+D$(1
+vFI9
+|$(dH3<%(
+8[]A\A]A^A_
+D$(dH3
+[]A\A]A^A_
+ATUA
+[]A\Hc
+AWAVA
+AUATL
+[]A\A]A^A_
+debugger
+GNU bash, version %s-(%s)
+x86_64-pc-linux-gnu
+	--%s
+Shell options:
+.././shell.c
+	-%s or -o option
+GNU long options:
+run_one_command
+rbash
+I have no name!
+??host??
+BASH_ENV
+POSIXLY_CORRECT
+POSIX_PEDANTIC
+\s-\v\$ 
+~/.bashrc
+%s: invalid option
+%c%c: invalid option
+login_shell
+EMACS
+emacs
+dumb
+eterm
+SSH_CLIENT
+SSH2_CLIENT
+/etc/bash.bashrc
+/etc/profile
+~/.profile
+~/.bash_profile
+~/.bash_login
+FUNCNAME
+BASH_SOURCE
+BASH_LINENO
+main
+%s: is a directory
+dump-po-strings
+dump-strings
+help
+noediting
+noprofile
+norc
+posix
+rcfile
+	-ilrsD or -c command or -O shopt_option		(invocation only)
+Type `%s -c "help set"' for more information about shell options.
+Type `%s -c help' for more information about shell builtin commands.
+Use the `bashbug' command to report bugs.
+Usage:	%s [GNU long option] [option] ...
+	%s [GNU long option] [option] script-file ...
+/usr/share/bashdb/bashdb-main.inc
+%s: option requires an argument
+%s: cannot execute binary file
+timed out waiting for input: auto-logout
+PROMPT_COMMAND
+.././eval.c
+TMOUT
+reader_loop
+/usr/src/local/bash/bash-4.3-patched/parse.y
+syntax error near unexpected token `%s'
+syntax error: unexpected end of file
+maximum here-document count exceeded
+unexpected EOF while looking for matching `%c'
+unexpected EOF while looking for matching `)'
+unexpected EOF while looking for `]]'
+syntax error in conditional expression: unexpected token `%s'
+syntax error in conditional expression
+unexpected token `%s', expected `)'
+unexpected argument `%s' to conditional unary operator
+unexpected argument to conditional unary operator
+unexpected token `%s', conditional binary operator expected
+conditional binary operator expected
+unexpected argument `%s' to conditional binary operator
+unexpected argument to conditional binary operator
+unexpected token `%c' in conditional command
+unexpected token `%s' in conditional command
+unexpected token %d in conditional command
+	;|&
+syntax error near `%s'
+syntax error
+readline stdin
+%a %b %d
+%H:%M:%S
+%I:%M:%S
+%I:%M %p
+%H:%M
+%s.%d
+HOME
+esac
+#%^,~:-=?+/
+eval
+expected `)'
+y.tab.c
+Use "%s" to leave the shell.
+"$@"
+COPROC
+command substitution
+then
+else
+elif
+select
+while
+until
+done
+coproc
+<@JDA>F?EGHI
+4:7=
+_z|~u
+STYZ
+rOP[\
+=>>>>??@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAABBCCDDDDDEEEEEEEEEEEFFFFFFFFGGGGHHHHHHIIIJJJKKLMMMMMNNNOPQRRRSSTTTTUUUUUUVVWXXYYYZZZZZZ[[\\\]]^^^_____`````aaabbb
+ !"#$%&'()*+,-./04OLDPWD
+.././general.c
+`%s': not a valid identifier
+/dev/tty
+PROMPT_DIRTRIM
+getcwd: cannot access parent directories
+.././make_cmd.c
+syntax error: `;' unexpected
+syntax error: `((%s))'
+clean_simple_command
+syntax error: arithmetic expression required
+make_here_document: bad instruction type %d
+here-document at line %d delimited by end-of-file (wanted `%s')
+make_redirection: redirection instruction `%d' out of range
+.././print_cmd.c
+{%s}
+<<%s%s
+>| %s
+<> %s
+<<< %s
+{%s}<&%d
+%d<&%d
+{%s}>&%d
+%d>&%d
+{%s}<&%s
+%d<&%s
+{%s}>&%s
+%d>&%s
+{%s}<&%d-
+%d<&%d-
+{%s}>&%d-
+%d>&%d-
+{%s}<&%s-
+%d<&%s-
+{%s}>&%s-
+%d>&%s-
+{%s}>&-
+%d>&-
+&> %s
+&>> %s
+ && 
+ || 
+xtrace_set: NULL file pointer
+%s=(%s)
+''%s
+for %s in 
+select %s in 
+case %s in 
+case %s in
+time 
+for ((
+ then
+else
+function %s () 
+coproc %s 
+print_command
+cprintf: `%c': invalid format character
+xtrace_set: %d: invalid file descriptor
+xtrace fd (%d) != fileno xtrace fp (%d)
+print_command: bad connector `%d'
+.././dispose_cmd.c
+dispose_command
+.././execute_cmd.c
+execute_cond_node
+/dev/null
+eval_builtin
+builtin_env
+return_temp_env
+%s_PID
+%s: %s: bad interpreter
+simple-command
+auto_resume
+exact
+substring
+saved redirects
+command_not_found_handle
+%s: command not found
+loop_redirections
+COLUMNS
+execute_connection
+`%s': is a special builtin
+%s: readonly function
+execute_command
+%*d%s%s
+real %2R
+user %2U
+sys %2S
+user	%2lU
+sys	%2lS
+real	%3lR
+user	%3lU
+sys	%3lS
+function_calling
+execute-shell-function
+pipe error
+pipe-file-descriptors
+lastpipe-exec
+cannot duplicate fd %d to fd %d
+cannot redirect standard input from /dev/null: %s
+%s: cannot execute binary file: %s
+%s: restricted: cannot specify `/' in command names
+execute_coproc: coproc [%d:%s] still exists
+TIMEFORMAT: `%c': invalid format character
+%s: maximum function nesting level exceeded (%d)
+.././variables.c
+%s: circular name reference
+%s: %s: cannot open as FILE
+HISTFILE
+ignorespace
+ignoredups
+ignoreboth
+erasedups
+OPTIND
+OPTERR
+SHLVL
+shell-init
+PPID
+LINES
+BASH_ARGV
+BASH_ARGC
+~/.sh_history
+~/.bash_history
+BASH_FUNC_
+() {
+SHELLOPTS
+x86_64
+HOSTTYPE
+OSTYPE
+MACHTYPE
+HOSTNAME
+MAILCHECK
+BASH
+BASH_VERSION
+BASH_VERSINFO
+BASH_EXECUTION_STRING
+IGNOREEOF
+ignoreeof
+HISTCONTROL
+HISTIGNORE
+HISTTIMEFORMAT
+EUID
+BASH_XTRACEFD
+SECONDS
+BASH_COMMAND
+BASH_SUBSHELL
+RANDOM
+BASHPID
+HISTCMD
+COMP_WORDBREAKS
+DIRSTACK
+GROUPS
+BASH_CMDS
+BASH_ALIASES
+GLOBIGNORE
+PIPESTATUS
+BASH_COMPAT
+CHILD_MAX
+FUNCNEST
+HISTFILESIZE
+HISTSIZE
+HOSTFILE
+LANG
+LC_ALL
+LC_COLLATE
+LC_CTYPE
+LC_MESSAGES
+LC_NUMERIC
+LC_TIME
+MAIL
+MAILPATH
+TERMCAP
+TERMINFO
+TEXTDOMAIN
+TEXTDOMAINDIR
+histchars
+%s: %s: invalid value for trace file descriptor
+%s: %s: compatibility value out of range
+all_local_variables: no function context at current scope
+%s: variable may not be assigned value
+make_local_variable: no function context at current scope
+shell level (%d) too high, resetting to 1
+pop_var_context: head of shell_variables not a function context
+pop_var_context: no global_variables context
+pop_scope: head of shell_variables not a temporary environment scope
+error importing function definition for `%s'
+/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/bin:/sbin:.
+.././copy_cmd.c
+ line 
+%s: 
+(null)
+last command: %s
+Aborting...
+warning: 
+%s: %s:%s%d: 
+%s: %s: %d
+unknown command error
+%s: unbound variable
+%s: readonly variable
+bad command type
+bad connector
+bad jump
+bash-maintainers@gnu.org
+.././expr.c
+%s[%s]
+invalid number
+invalid arithmetic base
+value too great for base
+*/%+-&^|
+syntax error in expression
+recursion stack underflow
+missing `)'
+exponent less than 0
+division by 0
+expression expected
+bug: bad expassign token
+%s%s%s: %s (error token is "%s")
+syntax error: operand expected
+syntax error: invalid arithmetic operator
+expression recursion level exceeded
+identifier expected after pre-increment or pre-decrement
+`:' expected for conditional expression
+attempted assignment to non-variable
+.././flags.c
+.././jobs.c
+<unknown>
+Signal %d
+[%d]%c 
+     
+%5ld
+Stopped
+Stopped(%s)
+Running
+Done
+Done(%d)
+Exit %d
+Unknown status
+(core dumped) 
+  (wd: %s)
+%s: line %d: 
+ (core dumped)
+(wd now: %s)
+notify_of_job_status
+start_pipeline: pgrp pipe
+[%d] %ld
+[%ld: %d (%d)] tcsetattr
+SIGCHLD trap
+fork: retry
+child setpgid (%ld to %ld)
+fork
+%s: job has terminated
+[%d]%s
+	(wd: %s)
+no job control in this shell
+job-working-directory
+deleting stopped job %d with process group %ld
+describe_pid: %ld: no such pid
+waitchld: turning on WNOHANG to avoid indefinite block
+wait_for: No record of process %ld
+wait: pid %ld is not a child of this shell
+wait_for_job: job %d is stopped
+%s: job %d already in background
+initialize_job_control: getpgrp failed
+initialize_job_control: setpgid
+cannot set terminal process group (%d)
+.././subst.c
+?*+!@
+%s: substring expression < 0
+#%^,~:-=?+/}
+#%:-=?+/}
+%:=+/
+%s: bad substitution
+%s: parameter null or not set
+process substitution
+no match: %s
+bad substitution: no closing `%s' in %s
+cannot make pipe for command substitution
+cannot make child for command substitution
+command_substitute: cannot duplicate pipe as fd 1
+%s: cannot assign list to array member
+$%s: cannot assign in this way
+%s: invalid variable name for name reference
+cannot make pipe for process substitution
+cannot make child for process substitution
+cannot duplicate named pipe %s as fd %d
+bad substitution: no closing "`" in %s
+.././hashcmd.c
+.././hashlib.c
+.././mailcheck.c
+You have mail in $_
+You have new mail in $_
+The mail in %s has been read
+.././trap.c
+debug trap
+interrupt trap
+invalid signal number
+trap_handler: bad signal %d
+exit trap
+error trap
+return trap
+EXIT
+SIGHUP
+SIGINT
+SIGQUIT
+SIGILL
+SIGTRAP
+SIGABRT
+SIGBUS
+SIGFPE
+SIGKILL
+SIGUSR1
+SIGSEGV
+SIGUSR2
+SIGPIPE
+SIGALRM
+SIGTERM
+SIGSTKFLT
+SIGCHLD
+SIGCONT
+SIGSTOP
+SIGTSTP
+SIGTTIN
+SIGTTOU
+SIGURG
+SIGXCPU
+SIGXFSZ
+SIGVTALRM
+SIGPROF
+SIGWINCH
+SIGIO
+SIGPWR
+SIGSYS
+SIGJUNK(32)
+SIGJUNK(33)
+SIGRTMIN
+SIGRTMIN+1
+SIGRTMIN+2
+SIGRTMIN+3
+SIGRTMIN+4
+SIGRTMIN+5
+SIGRTMIN+6
+SIGRTMIN+7
+SIGRTMIN+8
+SIGRTMIN+9
+SIGRTMIN+10
+SIGRTMIN+11
+SIGRTMIN+12
+SIGRTMIN+13
+SIGRTMIN+14
+SIGRTMIN+15
+SIGRTMAX-14
+SIGRTMAX-13
+SIGRTMAX-12
+SIGRTMAX-11
+SIGRTMAX-10
+SIGRTMAX-9
+SIGRTMAX-8
+SIGRTMAX-7
+SIGRTMAX-6
+SIGRTMAX-5
+SIGRTMAX-4
+SIGRTMAX-3
+SIGRTMAX-2
+SIGRTMAX-1
+SIGRTMAX
+DEBUG
+RETURN
+run_pending_traps: signal handler is SIG_DFL, resending %d (%s) to myself
+run_pending_traps: bad value in trap_list[%d]: %p
+.././input.c
+error reading input file: %s
+cannot reset nodelay mode for fd %d
+cannot allocate new file descriptor for bash input from fd %d
+save_bash_input: buffer already exists for new fd %d
+.././unwind_prot.c
+unwind_frame_run: %s: frame not found
+unwind_frame_discard: %s: frame not found
+.././pathexp.c
+%s: integer expression expected
+argument expected
+%s: unary operator expected
+%s: binary operator expected
+`)' expected
+`)' expected, found %s
+missing `]'
+too many arguments
+%s.%d(%d)-%s
+release
+GNU bash, version %s (%s)
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software; you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+@(#)Bash version 4.3.48(1) release GNU
+.././alias.c
+;|&(
+;|&()
+.././array.c
+.././arrayfunc.c
+array assign
+'()'
+bad array subscript
+%s[%s: %s
+[%s]: %s
+%s: cannot convert indexed to associative array
+%s: invalid associative array key
+%s: cannot assign to non-numeric index
+%s: %s: must use subscript when assigning associative array
+.././assoc.c
+.././braces.c
+Eleele
+%0*d
+brace expansion: failed to allocate memory for %d elements
+brace expansion: failed to allocate memory for `%s'
+brace expansion: cannot allocate memory for %s
+.././bracecomp.c
+%s: cannot create: %s
+.././bashhist.c
+%s%s%s
+.././bashline.c
+C-xC-e
+%s %d
+input-meta
+symlink-hook
+;|&{(`
+$include 
+/etc/hosts
+hostname_completion_file
+no closing `%c' in %s
+\"'@<>=;|&()#$`?*[!:{~
+completion-ignore-case
+fc -e vi
+READLINE_LINE
+READLINE_POINT
+bash_execute_unix_command
+comment-begin
+Bash
+shell-expand-line
+history-expand-line
+magic-space
+shell-forward-word
+shell-backward-word
+shell-kill-word
+shell-backward-kill-word
+history-and-alias-expand-line
+insert-last-argument
+operate-and-get-next
+display-shell-version
+edit-and-execute-command
+complete-into-braces
+complete-filename
+possible-filename-completions
+complete-username
+possible-username-completions
+complete-hostname
+possible-hostname-completions
+complete-variable
+possible-variable-completions
+complete-command
+possible-command-completions
+glob-complete-word
+glob-expand-word
+glob-list-expansions
+dynamic-complete-history
+dabbrev-expand
+()<>;&| 	
+_EmptycmD_
+%s: missing colon separator
+FIGNORE
+fc -e "${VISUAL:-${EDITOR:-$(command -v editor || echo emacs)}}"
+%s: first non-whitespace character is not `"'
+fc -e "${VISUAL:-${EDITOR:-$(command -v editor || echo vi)}}"
+bash_execute_unix_command: cannot find keymap for command
+.././stringlib.c
+.././locale.c
+/usr/share/locale
+POSIX
+setlocale: LC_ALL: cannot change locale (%s)
+setlocale: LC_ALL: cannot change locale (%s): %s
+setlocale: %s: cannot change locale (%s)
+setlocale: %s: cannot change locale (%s): %s
+#: %s:%d
+msgid %s%s
+msgstr ""
+.././findcmd.c
+redirection error: cannot duplicate fd
+%s: cannot overwrite existing file
+%s: restricted: cannot redirect output
+cannot create temp file for here-document: %s
+%s: cannot assign fd to variable
+.././redir.c
+file descriptor out of range
+%s: ambiguous redirect
+sh-thd
+/dev/tcp/*/*
+/dev/udp/*/*
+.././pcomplete.c
+COMP_LINE
+COMP_POINT
+COMP_TYPE
+COMP_KEY
+COMP_WORDS
+COMP_CWORD
+gen-shell-function-matches
+COMPREPLY
+_DefaultCmD_
+completion: function `%s' not found
+programmable_completion: %s: possible retry loop
+.././pcomplib.c
+progcomp_insert: %s: NULL COMPSPEC
+%s: cannot allocate %lu bytes (%lu bytes allocated)
+%s: %s:%d: cannot allocate %lu bytes (%lu bytes allocated)
+xmalloc
+xrealloc
+Read lines from a file into an array variable.
+    
+    A synonym for `mapfile'.
+Read lines from the standard input into an indexed array variable.
+    
+    Read lines from the standard input into the indexed array variable ARRAY, or
+    from file descriptor FD if the -u option is supplied.  The variable MAPFILE
+    is the default ARRAY.
+    
+    Options:
+      -n count	Copy at most COUNT lines.  If COUNT is 0, all lines are copied.
+      -O origin	Begin assigning to ARRAY at index ORIGIN.  The default index is 0.
+      -s count 	Discard the first COUNT lines read.
+      -t		Remove a trailing newline from each line read.
+      -u fd		Read lines from file descriptor FD instead of the standard input.
+      -C callback	Evaluate CALLBACK each time QUANTUM lines are read.
+      -c quantum	Specify the number of lines read between each call to CALLBACK.
+    
+    Arguments:
+      ARRAY		Array variable name to use for file data.
+    
+    If -C is supplied without -c, the default quantum is 5000.  When
+    CALLBACK is evaluated, it is supplied the index of the next array
+    element to be assigned and the line to be assigned to that element
+    as additional arguments.
+    
+    If not supplied with an explicit origin, mapfile will clear ARRAY before
+    assigning to it.
+    
+    Exit Status:
+    Returns success unless an invalid option is given or ARRAY is readonly or
+    not an indexed array.
+Modify or display completion options.
+    
+    Modify the completion options for each NAME, or, if no NAMEs are supplied,
+    the completion currently being executed.  If no OPTIONs are given, print
+    the completion options for each NAME or the current completion specification.
+    
+    Options:
+    	-o option	Set completion option OPTION for each NAME
+    	-D		Change options for the "default" command completion
+    	-E		Change options for the "empty" command completion
+    
+    Using `+o' instead of `-o' turns off the specified option.
+    
+    Arguments:
+    
+    Each NAME refers to a command for which a completion specification must
+    have previously been defined using the `complete' builtin.  If no NAMEs
+    are supplied, compopt must be called by a function currently generating
+    completions, and the options for that currently-executing completion
+    generator are modified.
+    
+    Exit Status:
+    Returns success unless an invalid option is supplied or NAME does not
+    have a completion specification defined.
+Display possible completions depending on the options.
+    
+    Intended to be used from within a shell function generating possible
+    completions.  If the optional WORD argument is supplied, matches against
+    WORD are generated.
+    
+    Exit Status:
+    Returns success unless an invalid option is supplied or an error occurs.
+Specify how arguments are to be completed by Readline.
+    
+    For each NAME, specify how arguments are to be completed.  If no options
+    are supplied, existing completion specifications are printed in a way that
+    allows them to be reused as input.
+    
+    Options:
+      -p	print existing completion specifications in a reusable format
+      -r	remove a completion specification for each NAME, or, if no
+    	NAMEs are supplied, all completion specifications
+      -D	apply the completions and actions as the default for commands
+    	without any specific completion defined
+      -E	apply the completions and actions to "empty" commands --
+    	completion attempted on a blank line
+    
+    When completion is attempted, the actions are applied in the order the
+    uppercase-letter options are listed above.  The -D option takes
+    precedence over -E.
+    
+    Exit Status:
+    Returns success unless an invalid option is supplied or an error occurs.
+Formats and prints ARGUMENTS under control of the FORMAT.
+    
+    Options:
+      -v var	assign the output to shell variable VAR rather than
+    		display it on the standard output
+    
+    FORMAT is a character string which contains three types of objects: plain
+    characters, which are simply copied to standard output; character escape
+    sequences, which are converted and copied to the standard output; and
+    format specifications, each of which causes printing of the next successive
+    argument.
+    
+    In addition to the standard format specifications described in printf(1),
+    printf interprets:
+    
+      %b	expand backslash escape sequences in the corresponding argument
+      %q	quote the argument in a way that can be reused as shell input
+      %(fmt)T output the date-time string resulting from using FMT as a format
+            string for strftime(3)
+    
+    The format is re-used as necessary to consume all of the arguments.  If
+    there are fewer arguments than the format requires,  extra format
+    specifications behave as if a zero value or null string, as appropriate,
+    had been supplied.
+    
+    Exit Status:
+    Returns success unless an invalid option is given or a write or assignment
+    error occurs.
+Set and unset shell options.
+    
+    Change the setting of each shell option OPTNAME.  Without any option
+    arguments, list all shell options with an indication of whether or not each
+    is set.
+    
+    Options:
+      -o	restrict OPTNAMEs to those defined for use with `set -o'
+      -p	print each shell option with an indication of its status
+      -q	suppress output
+      -s	enable (set) each OPTNAME
+      -u	disable (unset) each OPTNAME
+    
+    Exit Status:
+    Returns success if OPTNAME is enabled; fails if an invalid option is
+    given or OPTNAME is disabled.
+Display directory stack.
+    
+    Display the list of currently remembered directories.  Directories
+    find their way onto the list with the `pushd' command; you can get
+    back up through the list with the `popd' command.
+    
+    Options:
+      -c	clear the directory stack by deleting all of the elements
+      -l	do not print tilde-prefixed versions of directories relative
+    	to your home directory
+      -p	print the directory stack with one entry per line
+      -v	print the directory stack with one entry per line prefixed
+    	with its position in the stack
+    
+    Arguments:
+      +N	Displays the Nth entry counting from the left of the list shown by
+    	dirs when invoked without options, starting with zero.
+    
+      -N	Displays the Nth entry counting from the right of the list shown by
+    	dirs when invoked without options, starting with zero.
+    
+    Exit Status:
+    Returns success unless an invalid option is supplied or an error occurs.
+Remove directories from stack.
+    
+    Removes entries from the directory stack.  With no arguments, removes
+    the top directory from the stack, and changes to the new top directory.
+    
+    Options:
+      -n	Suppresses the normal change of directory when removing
+    	directories from the stack, so only the stack is manipulated.
+    
+    Arguments:
+      +N	Removes the Nth entry counting from the left of the list
+    	shown by `dirs', starting with zero.  For example: `popd +0'
+    	removes the first directory, `popd +1' the second.
+    
+      -N	Removes the Nth entry counting from the right of the list
+    	shown by `dirs', starting with zero.  For example: `popd -0'
+    	removes the last directory, `popd -1' the next to last.
+    
+    The `dirs' builtin displays the directory stack.
+    
+    Exit Status:
+    Returns success unless an invalid argument is supplied or the directory
+    change fails.
+Add directories to stack.
+    
+    Adds a directory to the top of the directory stack, or rotates
+    the stack, making the new top of the stack the current working
+    directory.  With no arguments, exchanges the top two directories.
+    
+    Options:
+      -n	Suppresses the normal change of directory when adding
+    	directories to the stack, so only the stack is manipulated.
+    
+    Arguments:
+      +N	Rotates the stack so that the Nth directory (counting
+    	from the left of the list shown by `dirs', starting with
+    	zero) is at the top.
+    
+      -N	Rotates the stack so that the Nth directory (counting
+    	from the right of the list shown by `dirs', starting with
+    	zero) is at the top.
+    
+      dir	Adds DIR to the directory stack at the top, making it the
+    	new current working directory.
+    
+    The `dirs' builtin displays the directory stack.
+    
+    Exit Status:
+    Returns success unless an invalid argument is supplied or the directory
+    change fails.
+Common shell variable names and usage.
+    
+    BASH_VERSION	Version information for this Bash.
+    CDPATH	A colon-separated list of directories to search
+    		for directories given as arguments to `cd'.
+    GLOBIGNORE	A colon-separated list of patterns describing filenames to
+    		be ignored by pathname expansion.
+    HISTFILE	The name of the file where your command history is stored.
+    HISTFILESIZE	The maximum number of lines this file can contain.
+    HISTSIZE	The maximum number of history lines that a running
+    		shell can access.
+    HOME	The complete pathname to your login directory.
+    HOSTNAME	The name of the current host.
+    HOSTTYPE	The type of CPU this version of Bash is running under.
+    IGNOREEOF	Controls the action of the shell on receipt of an EOF
+    		character as the sole input.  If set, then the value
+    		of it is the number of EOF characters that can be seen
+    		in a row on an empty line before the shell will exit
+    		(default 10).  When unset, EOF signifies the end of input.
+    MACHTYPE	A string describing the current system Bash is running on.
+    MAILCHECK	How often, in seconds, Bash checks for new mail.
+    MAILPATH	A colon-separated list of filenames which Bash checks
+    		for new mail.
+    OSTYPE	The version of Unix this version of Bash is running on.
+    PATH	A colon-separated list of directories to search when
+    		looking for commands.
+    PROMPT_COMMAND	A command to be executed before the printing of each
+    		primary prompt.
+    PS1		The primary prompt string.
+    PS2		The secondary prompt string.
+    PWD		The full pathname of the current directory.
+    SHELLOPTS	A colon-separated list of enabled shell options.
+    TERM	The name of the current terminal type.
+    TIMEFORMAT	The output format for timing statistics displayed by the
+    		`time' reserved word.
+    auto_resume	Non-null means a command word appearing on a line by
+    		itself is first looked for in the list of currently
+    		stopped jobs.  If found there, that job is foregrounded.
+    		A value of `exact' means that the command word must
+    		exactly match a command in the list of stopped jobs.  A
+    		value of `substring' means that the command word must
+    		match a substring of the job.  Any other value means that
+    		the command must be a prefix of a stopped job.
+    histchars	Characters controlling history expansion and quick
+    		substitution.  The first character is the history
+    		substitution character, usually `!'.  The second is
+    		the `quick substitution' character, usually `^'.  The
+    		third is the `history comment' character, usually `#'.
+    HISTIGNORE	A colon-separated list of patterns used to decide which
+    		commands should be saved on the history list.
+Execute conditional command.
+    
+    Returns a status of 0 or 1 depending on the evaluation of the conditional
+    expression EXPRESSION.  Expressions are composed of the same primaries used
+    by the `test' builtin, and may be combined using the following operators:
+    
+      ( EXPRESSION )	Returns the value of EXPRESSION
+      ! EXPRESSION		True if EXPRESSION is false; else false
+      EXPR1 && EXPR2	True if both EXPR1 and EXPR2 are true; else false
+      EXPR1 || EXPR2	True if either EXPR1 or EXPR2 is true; else false
+    
+    When the `==' and `!=' operators are used, the string to the right of
+    the operator is used as a pattern and pattern matching is performed.
+    When the `=~' operator is used, the string to the right of the operator
+    is matched as a regular expression.
+    
+    The && and || operators do not evaluate EXPR2 if EXPR1 is sufficient to
+    determine the expression's value.
+    
+    Exit Status:
+    0 or 1 depending on value of EXPRESSION.
+Evaluate arithmetic expression.
+    
+    The EXPRESSION is evaluated according to the rules for arithmetic
+    evaluation.  Equivalent to "let EXPRESSION".
+    
+    Exit Status:
+    Returns 1 if EXPRESSION evaluates to 0; returns 0 otherwise.
+Resume job in foreground.
+    
+    Equivalent to the JOB_SPEC argument to the `fg' command.  Resume a
+    stopped or background job.  JOB_SPEC can specify either a job name
+    or a job number.  Following JOB_SPEC with a `&' places the job in
+    the background, as if the job specification had been supplied as an
+    argument to `bg'.
+    
+    Exit Status:
+    Returns the status of the resumed job.
+Group commands as a unit.
+    
+    Run a set of commands in a group.  This is one way to redirect an
+    entire set of commands.
+    
+    Exit Status:
+    Returns the status of the last command executed.
+Define shell function.
+    
+    Create a shell function named NAME.  When invoked as a simple command,
+    NAME runs COMMANDs in the calling shell's context.  When NAME is invoked,
+    the arguments are passed to the function as $1...$n, and the function's
+    name is in $FUNCNAME.
+    
+    Exit Status:
+    Returns success unless NAME is readonly.
+Create a coprocess named NAME.
+    
+    Execute COMMAND asynchronously, with the standard output and standard
+    input of the command connected via a pipe to file descriptors assigned
+    to indices 0 and 1 of an array variable NAME in the executing shell.
+    The default NAME is "COPROC".
+    
+    Exit Status:
+    Returns the exit status of COMMAND.
+Execute commands as long as a test does not succeed.
+    
+    Expand and execute COMMANDS as long as the final command in the
+    `until' COMMANDS has an exit status which is not zero.
+    
+    Exit Status:
+    Returns the status of the last command executed.
+Execute commands as long as a test succeeds.
+    
+    Expand and execute COMMANDS as long as the final command in the
+    `while' COMMANDS has an exit status of zero.
+    
+    Exit Status:
+    Returns the status of the last command executed.
+Execute commands based on conditional.
+    
+    The `if COMMANDS' list is executed.  If its exit status is zero, then the
+    `then COMMANDS' list is executed.  Otherwise, each `elif COMMANDS' list is
+    executed in turn, and if its exit status is zero, the corresponding
+    `then COMMANDS' list is executed and the if command completes.  Otherwise,
+    the `else COMMANDS' list is executed, if present.  The exit status of the
+    entire construct is the exit status of the last command executed, or zero
+    if no condition tested true.
+    
+    Exit Status:
+    Returns the status of the last command executed.
+Execute commands based on pattern matching.
+    
+    Selectively execute COMMANDS based upon WORD matching PATTERN.  The
+    `|' is used to separate multiple patterns.
+    
+    Exit Status:
+    Returns the status of the last command executed.
+Report time consumed by pipeline's execution.
+    
+    Execute PIPELINE and print a summary of the real time, user CPU time,
+    and system CPU time spent executing PIPELINE when it terminates.
+    
+    Options:
+      -p	print the timing summary in the portable Posix format
+    
+    The value of the TIMEFORMAT variable is used as the output format.
+    
+    Exit Status:
+    The return status is the return status of PIPELINE.
+Select words from a list and execute commands.
+    
+    The WORDS are expanded, generating a list of words.  The
+    set of expanded words is printed on the standard error, each
+    preceded by a number.  If `in WORDS' is not present, `in "$@"'
+    is assumed.  The PS3 prompt is then displayed and a line read
+    from the standard input.  If the line consists of the number
+    corresponding to one of the displayed words, then NAME is set
+    to that word.  If the line is empty, WORDS and the prompt are
+    redisplayed.  If EOF is read, the command completes.  Any other
+    value read causes NAME to be set to null.  The line read is saved
+    in the variable REPLY.  COMMANDS are executed after each selection
+    until a break command is executed.
+    
+    Exit Status:
+    Returns the status of the last command executed.
+Arithmetic for loop.
+    
+    Equivalent to
+    	(( EXP1 ))
+    	while (( EXP2 )); do
+    		COMMANDS
+    		(( EXP3 ))
+    	done
+    EXP1, EXP2, and EXP3 are arithmetic expressions.  If any expression is
+    omitted, it behaves as if it evaluates to 1.
+    
+    Exit Status:
+    Returns the status of the last command executed.
+Execute commands for each member in a list.
+    
+    The `for' loop executes a sequence of commands for each member in a
+    list of items.  If `in WORDS ...;' is not present, then `in "$@"' is
+    assumed.  For each element in WORDS, NAME is set to that element, and
+    the COMMANDS are executed.
+    
+    Exit Status:
+    Returns the status of the last command executed.
+Wait for job completion and return exit status.
+    
+    Waits for each process identified by an ID, which may be a process ID or a
+    job specification, and reports its termination status.  If ID is not
+    given, waits for all currently active child processes, and the return
+    status is zero.  If ID is a a job specification, waits for all processes
+    in that job's pipeline.
+    
+    If the -n option is supplied, waits for the next job to terminate and
+    returns its exit status.
+    
+    Exit Status:
+    Returns the status of the last ID; fails if ID is invalid or an invalid
+    option is given.
+Display or set file mode mask.
+    
+    Sets the user file-creation mask to MODE.  If MODE is omitted, prints
+    the current value of the mask.
+    
+    If MODE begins with a digit, it is interpreted as an octal number;
+    otherwise it is a symbolic mode string like that accepted by chmod(1).
+    
+    Options:
+      -p	if MODE is omitted, output in a form that may be reused as input
+      -S	makes the output symbolic; otherwise an octal number is output
+    
+    Exit Status:
+    Returns success unless MODE is invalid or an invalid option is given.
+Modify shell resource limits.
+    
+    Provides control over the resources available to the shell and processes
+    it creates, on systems that allow such control.
+    
+    Options:
+      -S	use the `soft' resource limit
+      -H	use the `hard' resource limit
+      -a	all current limits are reported
+      -b	the socket buffer size
+      -c	the maximum size of core files created
+      -d	the maximum size of a process's data segment
+      -e	the maximum scheduling priority (`nice')
+      -f	the maximum size of files written by the shell and its children
+      -i	the maximum number of pending signals
+      -l	the maximum size a process may lock into memory
+      -m	the maximum resident set size
+      -n	the maximum number of open file descriptors
+      -p	the pipe buffer size
+      -q	the maximum number of bytes in POSIX message queues
+      -r	the maximum real-time scheduling priority
+      -s	the maximum stack size
+      -t	the maximum amount of cpu time in seconds
+      -u	the maximum number of user processes
+      -v	the size of virtual memory
+      -x	the maximum number of file locks
+      -T    the maximum number of threads
+    
+    Not all options are available on all platforms.
+    
+    If LIMIT is given, it is the new value of the specified resource; the
+A Santa lives evil at NASA
+    special LIMIT values `soft', `hard', and `unlimited' stand for the
+    current soft limit, the current hard limit, and no limit, respectively.
+    Otherwise, the current value of the specified resource is printed.  If
+    no option is given, then -f is assumed.
+    
+    Values are in 1024-byte increments, except for -t, which is in seconds,
+    -p, which is in increments of 512 bytes, and -u, which is an unscaled
+    number of processes.
+    
+    Exit Status:
+    Returns success unless an invalid option is supplied or an error occurs.
+Display information about command type.
+    
+    For each NAME, indicate how it would be interpreted if used as a
+    command name.
+    
+    Options:
+      -a	display all locations containing an executable named NAME;
+    	includes aliases, builtins, and functions, if and only if
+    	the `-p' option is not also used
+      -f	suppress shell function lookup
+      -P	force a PATH search for each NAME, even if it is an alias,
+    	builtin, or function, and returns the name of the disk file
+    	that would be executed
+      -p	returns either the name of the disk file that would be executed,
+    	or nothing if `type -t NAME' would not return `file'.
+      -t	output a single word which is one of `alias', `keyword',
+    	`function', `builtin', `file' or `', if NAME is an alias, shell
+    	reserved word, shell function, shell builtin, disk file, or not
+    	found, respectively
+    
+    Arguments:
+      NAME	Command name to be interpreted.
+    
+    Exit Status:
+    Returns success if all of the NAMEs are found; fails if any are not found.
+Trap signals and other events.
+    
+    Defines and activates handlers to be run when the shell receives signals
+    or other conditions.
+    
+    ARG is a command to be read and executed when the shell receives the
+    signal(s) SIGNAL_SPEC.  If ARG is absent (and a single SIGNAL_SPEC
+    is supplied) or `-', each specified signal is reset to its original
+    value.  If ARG is the null string each SIGNAL_SPEC is ignored by the
+    shell and by the commands it invokes.
+    
+    If a SIGNAL_SPEC is EXIT (0) ARG is executed on exit from the shell.  If
+    a SIGNAL_SPEC is DEBUG, ARG is executed before every simple command.  If
+    a SIGNAL_SPEC is RETURN, ARG is executed each time a shell function or a
+    script run by the . or source builtins finishes executing.  A SIGNAL_SPEC
+    of ERR means to execute ARG each time a command's failure would cause the
+    shell to exit when the -e option is enabled.
+    
+    If no arguments are supplied, trap prints the list of commands associated
+    with each signal.
+    
+    Options:
+      -l	print a list of signal names and their corresponding numbers
+      -p	display the trap commands associated with each SIGNAL_SPEC
+    
+    Each SIGNAL_SPEC is either a signal name in <signal.h> or a signal number.
+    Signal names are case insensitive and the SIG prefix is optional.  A
+    signal may be sent to the shell with "kill -signal $$".
+    
+    Exit Status:
+    Returns success unless a SIGSPEC is invalid or an invalid option is given.
+Display process times.
+    
+    Prints the accumulated user and system times for the shell and all of its
+    child processes.
+    
+    Exit Status:
+    Always succeeds.
+Evaluate conditional expression.
+    
+    This is a synonym for the "test" builtin, but the last argument must
+    be a literal `]', to match the opening `['.
+Evaluate conditional expression.
+    
+    Exits with a status of 0 (true) or 1 (false) depending on
+    the evaluation of EXPR.  Expressions may be unary or binary.  Unary
+    expressions are often used to examine the status of a file.  There
+    are string operators and numeric comparison operators as well.
+    
+    The behavior of test depends on the number of arguments.  Read the
+    bash manual page for the complete specification.
+    
+    File operators:
+    
+      -a FILE        True if file exists.
+      -b FILE        True if file is block special.
+      -c FILE        True if file is character special.
+      -d FILE        True if file is a directory.
+      -e FILE        True if file exists.
+      -f FILE        True if file exists and is a regular file.
+      -g FILE        True if file is set-group-id.
+      -h FILE        True if file is a symbolic link.
+      -L FILE        True if file is a symbolic link.
+      -k FILE        True if file has its `sticky' bit set.
+      -p FILE        True if file is a named pipe.
+      -r FILE        True if file is readable by you.
+      -s FILE        True if file exists and is not empty.
+      -S FILE        True if file is a socket.
+      -t FD          True if FD is opened on a terminal.
+      -u FILE        True if the file is set-user-id.
+      -w FILE        True if the file is writable by you.
+      -x FILE        True if the file is executable by you.
+      -O FILE        True if the file is effectively owned by you.
+      -G FILE        True if the file is effectively owned by your group.
+      -N FILE        True if the file has been modified since it was last read.
+    
+      FILE1 -nt FILE2  True if file1 is newer than file2 (according to
+                       modification date).
+    
+      FILE1 -ot FILE2  True if file1 is older than file2.
+    
+      FILE1 -ef FILE2  True if file1 is a hard link to file2.
+    
+    All file operators except -h and -L are acting on the target of a symbolic
+    link, not on the symlink itself, if FILE is a symbolic link.
+    
+    String operators:
+    
+      -z STRING      True if string is empty.
+    
+      -n STRING
+         STRING      True if string is not empty.
+    
+      STRING1 = STRING2
+                     True if the strings are equal.
+      STRING1 != STRING2
+                     True if the strings are not equal.
+      STRING1 < STRING2
+                     True if STRING1 sorts before STRING2 lexicographically.
+      STRING1 > STRING2
+                     True if STRING1 sorts after STRING2 lexicographically.
+    
+    Other operators:
+    
+      -o OPTION      True if the shell option OPTION is enabled.
+      -v VAR	 True if the shell variable VAR is set
+      -R VAR	 True if the shell variable VAR is set and is a name reference.
+      ! EXPR         True if expr is false.
+      EXPR1 -a EXPR2 True if both expr1 AND expr2 are true.
+      EXPR1 -o EXPR2 True if either expr1 OR expr2 is true.
+    
+      arg1 OP arg2   Arithmetic tests.  OP is one of -eq, -ne,
+                     -lt, -le, -gt, or -ge.
+    
+    Arithmetic binary operators return true if ARG1 is equal, not-equal,
+    less-than, less-than-or-equal, greater-than, or greater-than-or-equal
+    than ARG2.
+    
+    See the bash manual page bash(1) for the handling of parameters (i.e.
+    missing parameters).
+    
+    Exit Status:
+    Returns success if EXPR evaluates to true; fails if EXPR evaluates to
+    false or an invalid argument is given.
+Suspend shell execution.
+    
+    Suspend the execution of this shell until it receives a SIGCONT signal.
+    Unless forced, login shells cannot be suspended.
+    
+    Options:
+      -f	force the suspend, even if the shell is a login shell
+    
+    Exit Status:
+    Returns success unless job control is not enabled or an error occurs.
+Execute commands from a file in the current shell.
+    
+    Read and execute commands from FILENAME in the current shell.  The
+    entries in $PATH are used to find the directory containing FILENAME.
+    If any ARGUMENTS are supplied, they become the positional parameters
+    when FILENAME is executed.
+    
+    Exit Status:
+    Returns the status of the last command executed in FILENAME; fails if
+    FILENAME cannot be read.
+Shift positional parameters.
+    
+    Rename the positional parameters $N+1,$N+2 ... to $1,$2 ...  If N is
+    not given, it is assumed to be 1.
+    
+    Exit Status:
+    Returns success unless N is negative or greater than $#.
+Mark shell variables as unchangeable.
+    
+    Mark each NAME as read-only; the values of these NAMEs may not be
+    changed by subsequent assignment.  If VALUE is supplied, assign VALUE
+    before marking as read-only.
+    
+    Options:
+      -a	refer to indexed array variables
+      -A	refer to associative array variables
+      -f	refer to shell functions
+      -p	display a list of all readonly variables or functions, depending on
+            whether or not the -f option is given
+    
+    An argument of `--' disables further option processing.
+    
+    Exit Status:
+    Returns success unless an invalid option is given or NAME is invalid.
+Set export attribute for shell variables.
+    
+    Marks each NAME for automatic export to the environment of subsequently
+    executed commands.  If VALUE is supplied, assign VALUE before exporting.
+    
+    Options:
+      -f	refer to shell functions
+      -n	remove the export property from each NAME
+      -p	display a list of all exported variables and functions
+    
+    An argument of `--' disables further option processing.
+    
+    Exit Status:
+    Returns success unless an invalid option is given or NAME is invalid.
+Unset values and attributes of shell variables and functions.
+    
+    For each NAME, remove the corresponding variable or function.
+    
+    Options:
+      -f	treat each NAME as a shell function
+      -v	treat each NAME as a shell variable
+      -n	treat each NAME as a name reference and unset the variable itself
+    	rather than the variable it references
+    
+    Without options, unset first tries to unset a variable, and if that fails,
+    tries to unset a function.
+    
+    Some variables cannot be unset; also see `readonly'.
+    
+    Exit Status:
+    Returns success unless an invalid option is given or a NAME is read-only.
+Set or unset values of shell options and positional parameters.
+    
+    Change the value of shell attributes and positional parameters, or
+    display the names and values of shell variables.
+    
+    Options:
+      -a  Mark variables which are modified or created for export.
+      -b  Notify of job termination immediately.
+      -e  Exit immediately if a command exits with a non-zero status.
+      -f  Disable file name generation (globbing).
+      -h  Remember the location of commands as they are looked up.
+      -k  All assignment arguments are placed in the environment for a
+          command, not just those that precede the command name.
+      -m  Job control is enabled.
+      -n  Read commands but do not execute them.
+      -o option-name
+          Set the variable corresponding to option-name:
+              allexport    same as -a
+              braceexpand  same as -B
+              emacs        use an emacs-style line editing interface
+              errexit      same as -e
+              errtrace     same as -E
+              functrace    same as -T
+              hashall      same as -h
+              histexpand   same as -H
+              history      enable command history
+              ignoreeof    the shell will not exit upon reading EOF
+              interactive-comments
+                           allow comments to appear in interactive commands
+              keyword      same as -k
+              monitor      same as -m
+              noclobber    same as -C
+              noexec       same as -n
+              noglob       same as -f
+              nolog        currently accepted but ignored
+              notify       same as -b
+              nounset      same as -u
+              onecmd       same as -t
+              physical     same as -P
+              pipefail     the return value of a pipeline is the status of
+                           the last command to exit with a non-zero status,
+                           or zero if no command exited with a non-zero status
+              posix        change the behavior of bash where the default
+                           operation differs from the Posix standard to
+                           match the standard
+              privileged   same as -p
+              verbose      same as -v
+              vi           use a vi-style line editing interface
+              xtrace       same as -x
+      -p  Turned on whenever the real and effective user ids do not match.
+          Disables processing of the $ENV file and importing of shell
+          functions.  Turning this option off causes the effective uid and
+          gid to be set to the real uid and gid.
+      -t  Exit after reading and executing one command.
+      -u  Treat unset variables as an error when substituting.
+      -v  Print shell input lines as they are read.
+      -x  Print commands and their arguments as they are executed.
+      -B  the shell will perform brace expansion
+      -C  If set, disallow existing regular files to be overwritten
+          by redirection of output.
+      -E  If set, the ERR trap is inherited by shell functions.
+      -H  Enable ! style history substitution.  This flag is on
+          by default when the shell is interactive.
+      -P  If set, do not resolve symbolic links when executing commands
+          such as cd which change the current directory.
+      -T  If set, the DEBUG trap is inherited by shell functions.
+      --  Assign any remaining arguments to the positional parameters.
+          If there are no remaining arguments, the positional parameters
+          are unset.
+      -   Assign any remaining arguments to the positional parameters.
+          The -x and -v options are turned off.
+    
+    Using + rather than - causes these flags to be turned off.  The
+    flags can also be used upon invocation of the shell.  The current
+    set of flags may be found in $-.  The remaining n ARGs are positional
+    parameters and are assigned, in order, to $1, $2, .. $n.  If no
+    ARGs are given, all shell variables are printed.
+    
+    Exit Status:
+    Returns success unless an invalid option is given.
+Return from a shell function.
+    
+    Causes a function or sourced script to exit with the return value
+    specified by N.  If N is omitted, the return status is that of the
+    last command executed within the function or script.
+    
+    Exit Status:
+    Returns N, or failure if the shell is not executing a function or script.
+Read a line from the standard input and split it into fields.
+    
+    Reads a single line from the standard input, or from file descriptor FD
+    if the -u option is supplied.  The line is split into fields as with word
+    splitting, and the first word is assigned to the first NAME, the second
+    word to the second NAME, and so on, with any leftover words assigned to
+    the last NAME.  Only the characters found in $IFS are recognized as word
+    delimiters.
+    
+    If no NAMEs are supplied, the line read is stored in the REPLY variable.
+    
+    Options:
+      -a array	assign the words read to sequential indices of the array
+    		variable ARRAY, starting at zero
+      -d delim	continue until the first character of DELIM is read, rather
+    		than newline
+      -e		use Readline to obtain the line in an interactive shell
+      -i text	Use TEXT as the initial text for Readline
+      -n nchars	return after reading NCHARS characters rather than waiting
+    		for a newline, but honor a delimiter if fewer than NCHARS
+    		characters are read before the delimiter
+      -N nchars	return only after reading exactly NCHARS characters, unless
+    		EOF is encountered or read times out, ignoring any delimiter
+      -p prompt	output the string PROMPT without a trailing newline before
+    		attempting to read
+      -r		do not allow backslashes to escape any characters
+      -s		do not echo input coming from a terminal
+      -t timeout	time out and return failure if a complete line of input is
+    		not read within TIMEOUT seconds.  The value of the TMOUT
+    		variable is the default timeout.  TIMEOUT may be a
+    		fractional number.  If TIMEOUT is 0, read returns immediately,
+    		without trying to read any data, returning success only if
+    		input is available on the specified file descriptor.  The
+    		exit status is greater than 128 if the timeout is exceeded
+      -u fd		read from file descriptor FD instead of the standard input
+    
+    Exit Status:
+    The return code is zero, unless end-of-file is encountered, read times out
+    (in which case it's greater than 128), a variable assignment error occurs,
+    or an invalid file descriptor is supplied as the argument to -u.
+Evaluate arithmetic expressions.
+    
+    Evaluate each ARG as an arithmetic expression.  Evaluation is done in
+    fixed-width integers with no check for overflow, though division by 0
+    is trapped and flagged as an error.  The following list of operators is
+    grouped into levels of equal-precedence operators.  The levels are listed
+    in order of decreasing precedence.
+    
+    	id++, id--	variable post-increment, post-decrement
+    	++id, --id	variable pre-increment, pre-decrement
+    	-, +		unary minus, plus
+    	!, ~		logical and bitwise negation
+    	**		exponentiation
+    	*, /, %		multiplication, division, remainder
+    	+, -		addition, subtraction
+    	<<, >>		left and right bitwise shifts
+    	<=, >=, <, >	comparison
+    	==, !=		equality, inequality
+    	&		bitwise AND
+    	^		bitwise XOR
+    	|		bitwise OR
+    	&&		logical AND
+    	||		logical OR
+    	expr ? expr : expr
+    			conditional operator
+    	=, *=, /=, %=,
+    	+=, -=, <<=, >>=,
+    	&=, ^=, |=	assignment
+    
+    Shell variables are allowed as operands.  The name of the variable
+    is replaced by its value (coerced to a fixed-width integer) within
+    an expression.  The variable need not have its integer attribute
+    turned on to be used in an expression.
+    
+    Operators are evaluated in order of precedence.  Sub-expressions in
+    parentheses are evaluated first and may override the precedence
+    rules above.
+    
+    Exit Status:
+    If the last ARG evaluates to 0, let returns 1; let returns 0 otherwise.
+Send a signal to a job.
+    
+    Send the processes identified by PID or JOBSPEC the signal named by
+    SIGSPEC or SIGNUM.  If neither SIGSPEC nor SIGNUM is present, then
+    SIGTERM is assumed.
+    
+    Options:
+      -s sig	SIG is a signal name
+      -n sig	SIG is a signal number
+      -l	list the signal names; if arguments follow `-l' they are
+    	assumed to be signal numbers for which names should be listed
+    
+    Kill is a shell builtin for two reasons: it allows job IDs to be used
+    instead of process IDs, and allows processes to be killed if the limit
+    on processes that you can create is reached.
+    
+    Exit Status:
+    Returns success unless an invalid option is given or an error occurs.
+Remove jobs from current shell.
+    
+    Removes each JOBSPEC argument from the table of active jobs.  Without
+    any JOBSPECs, the shell uses its notion of the current job.
+    
+    Options:
+      -a	remove all jobs if JOBSPEC is not supplied
+      -h	mark each JOBSPEC so that SIGHUP is not sent to the job if the
+    	shell receives a SIGHUP
+      -r	remove only running jobs
+    
+    Exit Status:
+    Returns success unless an invalid option or JOBSPEC is given.
+Display status of jobs.
+    
+    Lists the active jobs.  JOBSPEC restricts output to that job.
+    Without options, the status of all active jobs is displayed.
+    
+    Options:
+      -l	lists process IDs in addition to the normal information
+      -n	lists only processes that have changed status since the last
+    	notification
+      -p	lists process IDs only
+      -r	restrict output to running jobs
+      -s	restrict output to stopped jobs
+    
+    If -x is supplied, COMMAND is run after all job specifications that
+    appear in ARGS have been replaced with the process ID of that job's
+    process group leader.
+    
+    Exit Status:
+    Returns success unless an invalid option is given or an error occurs.
+    If -x is used, returns the exit status of COMMAND.
+Display or manipulate the history list.
+    
+    Display the history list with line numbers, prefixing each modified
+    entry with a `*'.  An argument of N lists only the last N entries.
+    
+    Options:
+      -c	clear the history list by deleting all of the entries
+      -d offset	delete the history entry at offset OFFSET.
+    
+      -a	append history lines from this session to the history file
+      -n	read all history lines not already read from the history file
+      -r	read the history file and append the contents to the history
+    	list
+      -w	write the current history to the history file
+    	and append them to the history list
+    
+      -p	perform history expansion on each ARG and display the result
+    	without storing it in the history list
+      -s	append the ARGs to the history list as a single entry
+    
+    If FILENAME is given, it is used as the history file.  Otherwise,
+    if $HISTFILE has a value, that is used, else ~/.bash_history.
+    
+    If the $HISTTIMEFORMAT variable is set and not null, its value is used
+    as a format string for strftime(3) to print the time stamp associated
+    with each displayed history entry.  No time stamps are printed otherwise.
+    
+    Exit Status:
+    Returns success unless an invalid option is given or an error occurs.
+Display information about builtin commands.
+    
+    Displays brief summaries of builtin commands.  If PATTERN is
+    specified, gives detailed help on all commands matching PATTERN,
+    otherwise the list of help topics is printed.
+    
+    Options:
+      -d	output short description for each topic
+      -m	display usage in pseudo-manpage format
+      -s	output only a short usage synopsis for each topic matching
+    	PATTERN
+    
+    Arguments:
+      PATTERN	Pattern specifiying a help topic
+    
+    Exit Status:
+    Returns success unless PATTERN is not found or an invalid option is given.
+Remember or display program locations.
+    
+    Determine and remember the full pathname of each command NAME.  If
+    no arguments are given, information about remembered commands is displayed.
+    
+    Options:
+      -d		forget the remembered location of each NAME
+      -l		display in a format that may be reused as input
+      -p pathname	use PATHNAME as the full pathname of NAME
+      -r		forget all remembered locations
+      -t		print the remembered location of each NAME, preceding
+    		each location with the corresponding NAME if multiple
+    		NAMEs are given
+    Arguments:
+      NAME		Each NAME is searched for in $PATH and added to the list
+    		of remembered commands.
+    
+    Exit Status:
+    Returns success unless NAME is not found or an invalid option is given.
+Move jobs to the background.
+    
+    Place the jobs identified by each JOB_SPEC in the background, as if they
+    had been started with `&'.  If JOB_SPEC is not present, the shell's notion
+    of the current job is used.
+    
+    Exit Status:
+    Returns success unless job control is not enabled or an error occurs.
+Move job to the foreground.
+    
+    Place the job identified by JOB_SPEC in the foreground, making it the
+    current job.  If JOB_SPEC is not present, the shell's notion of the
+    current job is used.
+    
+    Exit Status:
+    Status of command placed in foreground, or failure if an error occurs.
+Display or execute commands from the history list.
+    
+    fc is used to list or edit and re-execute commands from the history list.
+    FIRST and LAST can be numbers specifying the range, or FIRST can be a
+    string, which means the most recent command beginning with that
+    string.
+    
+    Options:
+      -e ENAME	select which editor to use.  Default is FCEDIT, then EDITOR,
+    		then vi
+      -l 	list lines instead of editing
+      -n	omit line numbers when listing
+      -r	reverse the order of the lines (newest listed first)
+    
+    With the `fc -s [pat=rep ...] [command]' format, COMMAND is
+    re-executed after the substitution OLD=NEW is performed.
+    
+    A useful alias to use with this is r='fc -s', so that typing `r cc'
+    runs the last command beginning with `cc' and typing `r' re-executes
+    the last command.
+    
+    Exit Status:
+    Returns success or status of executed command; non-zero if an error occurs.
+Exit a login shell.
+    
+    Exits a login shell with exit status N.  Returns an error if not executed
+    in a login shell.
+Beeb
+Exit the shell.
+    
+    Exits the shell with a status of N.  If N is omitted, the exit status
+    is that of the last command executed.
+Replace the shell with the given command.
+    
+    Execute COMMAND, replacing this shell with the specified program.
+    ARGUMENTS become the arguments to COMMAND.  If COMMAND is not specified,
+    any redirections take effect in the current shell.
+    
+    Options:
+      -a name	pass NAME as the zeroth argument to COMMAND
+      -c		execute COMMAND with an empty environment
+      -l		place a dash in the zeroth argument to COMMAND
+    
+    If the command cannot be executed, a non-interactive shell exits, unless
+    the shell option `execfail' is set.
+    
+    Exit Status:
+    Returns success unless COMMAND is not found or a redirection error occurs.
+Parse option arguments.
+    
+    Getopts is used by shell procedures to parse positional parameters
+    as options.
+    
+    OPTSTRING contains the option letters to be recognized; if a letter
+    is followed by a colon, the option is expected to have an argument,
+    which should be separated from it by white space.
+    
+    Each time it is invoked, getopts will place the next option in the
+    shell variable $name, initializing name if it does not exist, and
+    the index of the next argument to be processed into the shell
+    variable OPTIND.  OPTIND is initialized to 1 each time the shell or
+    a shell script is invoked.  When an option requires an argument,
+    getopts places that argument into the shell variable OPTARG.
+    
+    getopts reports errors in one of two ways.  If the first character
+    of OPTSTRING is a colon, getopts uses silent error reporting.  In
+    this mode, no error messages are printed.  If an invalid option is
+    seen, getopts places the option character found into OPTARG.  If a
+    required argument is not found, getopts places a ':' into NAME and
+    sets OPTARG to the option character found.  If getopts is not in
+    silent mode, and an invalid option is seen, getopts places '?' into
+    NAME and unsets OPTARG.  If a required argument is not found, a '?'
+    is placed in NAME, OPTARG is unset, and a diagnostic message is
+    printed.
+    
+    If the shell variable OPTERR has the value 0, getopts disables the
+    printing of error messages, even if the first character of
+    OPTSTRING is not a colon.  OPTERR has the value 1 by default.
+    
+    Getopts normally parses the positional parameters ($0 - $9), but if
+    more arguments are given, they are parsed instead.
+    
+    Exit Status:
+    Returns success if an option is found; fails if the end of options is
+    encountered or an error occurs.
+Execute arguments as a shell command.
+    
+    Combine ARGs into a single string, use the result as input to the shell,
+    and execute the resulting commands.
+    
+    Exit Status:
+    Returns exit status of command or success if command is null.
+Enable and disable shell builtins.
+    
+    Enables and disables builtin shell commands.  Disabling allows you to
+    execute a disk command which has the same name as a shell builtin
+    without using a full pathname.
+    
+    Options:
+      -a	print a list of builtins showing whether or not each is enabled
+      -n	disable each NAME or display a list of disabled builtins
+      -p	print the list of builtins in a reusable format
+      -s	print only the names of Posix `special' builtins
+    
+    Options controlling dynamic loading:
+      -f	Load builtin NAME from shared object FILENAME
+      -d	Remove a builtin loaded with -f
+    
+    Without options, each NAME is enabled.
+    
+    To use the `test' found in $PATH instead of the shell builtin
+    version, type `enable -n test'.
+    
+    Exit Status:
+    Returns success unless NAME is not a shell builtin or an error occurs.
+Write arguments to the standard output.
+    
+    Display the ARGs, separated by a single space character and followed by a
+    newline, on the standard output.
+    
+    Options:
+      -n	do not append a newline
+      -e	enable interpretation of the following backslash escapes
+      -E	explicitly suppress interpretation of backslash escapes
+    
+    `echo' interprets the following backslash-escaped characters:
+      \a	alert (bell)
+      \b	backspace
+      \c	suppress further output
+      \e	escape character
+      \E	escape character
+      \f	form feed
+      \n	new line
+      \r	carriage return
+      \t	horizontal tab
+      \v	vertical tab
+      \\	backslash
+      \0nnn	the character whose ASCII code is NNN (octal).  NNN can be
+    	0 to 3 octal digits
+      \xHH	the eight-bit character whose value is HH (hexadecimal).  HH
+    	can be one or two hex digits
+    
+    Exit Status:
+    Returns success unless a write error occurs.
+Define local variables.
+    
+    Create a local variable called NAME, and give it VALUE.  OPTION can
+    be any option accepted by `declare'.
+    
+    Local variables can only be used within a function; they are visible
+    only to the function where they are defined and its children.
+    
+    Exit Status:
+    Returns success unless an invalid option is supplied, a variable
+    assignment error occurs, or the shell is not executing a function.
+Set variable values and attributes.
+    
+    Obsolete.  See `help declare'.
+Set variable values and attributes.
+    
+    Declare variables and give them attributes.  If no NAMEs are given,
+    display the attributes and values of all variables.
+    
+    Options:
+      -f	restrict action or display to function names and definitions
+      -F	restrict display to function names only (plus line number and
+    	source file when debugging)
+      -g	create global variables when used in a shell function; otherwise
+    	ignored
+      -p	display the attributes and value of each NAME
+    
+    Options which set attributes:
+      -a	to make NAMEs indexed arrays (if supported)
+      -A	to make NAMEs associative arrays (if supported)
+      -i	to make NAMEs have the `integer' attribute
+      -l	to convert NAMEs to lower case on assignment
+      -n	make NAME a reference to the variable named by its value
+      -r	to make NAMEs readonly
+      -t	to make NAMEs have the `trace' attribute
+      -u	to convert NAMEs to upper case on assignment
+      -x	to make NAMEs export
+    
+    Using `+' instead of `-' turns off the given attribute.
+    
+    Variables with the integer attribute have arithmetic evaluation (see
+    the `let' command) performed when the variable is assigned a value.
+    
+    When used in a function, `declare' makes NAMEs local, as with the `local'
+    command.  The `-g' option suppresses this behavior.
+    
+    Exit Status:
+    Returns success unless an invalid option is supplied or a variable
+    assignment error occurs.
+Execute a simple command or display information about commands.
+    
+    Runs COMMAND with ARGS suppressing  shell function lookup, or display
+    information about the specified COMMANDs.  Can be used to invoke commands
+    on disk when a function with the same name exists.
+    
+    Options:
+      -p	use a default value for PATH that is guaranteed to find all of
+    	the standard utilities
+      -v	print a description of COMMAND similar to the `type' builtin
+      -V	print a more verbose description of each COMMAND
+    
+    Exit Status:
+    Returns exit status of COMMAND, or failure if COMMAND is not found.
+Return an unsuccessful result.
+    
+    Exit Status:
+    Always fails.
+Return a successful result.
+    
+    Exit Status:
+    Always succeeds.
+Null command.
+    
+    No effect; the command does nothing.
+    
+    Exit Status:
+    Always succeeds.
+Print the name of the current working directory.
+    
+    Options:
+      -L	print the value of $PWD if it names the current working
+    	directory
+      -P	print the physical directory, without any symbolic links
+    
+    By default, `pwd' behaves as if `-L' were specified.
+    
+    Exit Status:
+    Returns 0 unless an invalid option is given or the current directory
+    cannot be read.
+Change the shell working directory.
+    
+    Change the current directory to DIR.  The default DIR is the value of the
+    HOME shell variable.
+    
+    The variable CDPATH defines the search path for the directory containing
+    DIR.  Alternative directory names in CDPATH are separated by a colon (:).
+    A null directory name is the same as the current directory.  If DIR begins
+    with a slash (/), then CDPATH is not used.
+    
+    If the directory is not found, and the shell option `cdable_vars' is set,
+    the word is assumed to be  a variable name.  If that variable has a value,
+    its value is used for DIR.
+    
+    Options:
+        -L	force symbolic links to be followed: resolve symbolic links in
+    	DIR after processing instances of `..'
+        -P	use the physical directory structure without following symbolic
+    	links: resolve symbolic links in DIR before processing instances
+    	of `..'
+        -e	if the -P option is supplied, and the current working directory
+    	cannot be determined successfully, exit with a non-zero status
+        -@  on systems that support it, present a file with extended attributes
+            as a directory containing the file attributes
+    
+    The default is to follow symbolic links, as if `-L' were specified.
+    `..' is processed by removing the immediately previous pathname component
+    back to a slash or the beginning of DIR.
+    
+    Exit Status:
+    Returns 0 if the directory is changed, and if $PWD is set successfully when
+    -P is used; non-zero otherwise.
+Return the context of the current subroutine call.
+    
+    Without EXPR, returns "$line $filename".  With EXPR, returns
+    "$line $subroutine $filename"; this extra information can be used to
+    provide a stack trace.
+    
+    The value of EXPR indicates how many call frames to go back before the
+    current one; the top frame is frame 0.
+    
+    Exit Status:
+    Returns 0 unless the shell is not executing a shell function or EXPR
+    is invalid.
+Execute shell builtins.
+    
+    Execute SHELL-BUILTIN with arguments ARGs without performing command
+    lookup.  This is useful when you wish to reimplement a shell builtin
+    as a shell function, but need to execute the builtin within the function.
+    
+    Exit Status:
+    Returns the exit status of SHELL-BUILTIN, or false if SHELL-BUILTIN is
+    not a shell builtin..
+Resume for, while, or until loops.
+    
+    Resumes the next iteration of the enclosing FOR, WHILE or UNTIL loop.
+    If N is specified, resumes the Nth enclosing loop.
+    
+    Exit Status:
+    The exit status is 0 unless N is not greater than or equal to 1.
+Exit for, while, or until loops.
+    
+    Exit a FOR, WHILE or UNTIL loop.  If N is specified, break N enclosing
+    loops.
+    
+    Exit Status:
+    The exit status is 0 unless N is not greater than or equal to 1.
+Set Readline key bindings and variables.
+    
+    Bind a key sequence to a Readline function or a macro, or set a
+    Readline variable.  The non-option argument syntax is equivalent to
+    that found in ~/.inputrc, but must be passed as a single argument:
+    e.g., bind '"\C-x\C-r": re-read-init-file'.
+    
+    Options:
+      -m  keymap         Use KEYMAP as the keymap for the duration of this
+                         command.  Acceptable keymap names are emacs,
+                         emacs-standard, emacs-meta, emacs-ctlx, vi, vi-move,
+                         vi-command, and vi-insert.
+      -l                 List names of functions.
+      -P                 List function names and bindings.
+      -p                 List functions and bindings in a form that can be
+                         reused as input.
+      -S                 List key sequences that invoke macros and their values
+      -s                 List key sequences that invoke macros and their values
+                         in a form that can be reused as input.
+      -V                 List variable names and values
+      -v                 List variable names and values in a form that can
+                         be reused as input.
+      -q  function-name  Query about which keys invoke the named function.
+      -u  function-name  Unbind all keys which are bound to the named function.
+      -r  keyseq         Remove the binding for KEYSEQ.
+      -f  filename       Read key bindings from FILENAME.
+      -x  keyseq:shell-command	Cause SHELL-COMMAND to be executed when
+    				KEYSEQ is entered.
+      -X		     List key sequences bound with -x and associated commands
+                         in a form that can be reused as input.
+    
+    Exit Status:
+    bind returns 0 unless an unrecognized option is given or an error occurs.
+Remove each NAME from the list of defined aliases.
+    
+    Options:
+      -a	remove all alias definitions.
+    
+    Return success unless a NAME is not an existing alias.
+Define or display aliases.
+    
+    Without arguments, `alias' prints the list of aliases in the reusable
+    form `alias NAME=VALUE' on standard output.
+    
+    Otherwise, an alias is defined for each NAME whose VALUE is given.
+    A trailing space in VALUE causes the next word to be checked for
+    alias substitution when the alias is expanded.
+    
+    Options:
+      -p	Print all defined aliases in a reusable format
+    
+    Exit Status:
+    alias returns true unless a NAME is supplied for which no alias has been
+    defined.
+alias [-p] [name[=value] ... ]
+bind [-lpsvPSVX] [-m keymap] [-f filename] [-q name] [-u name] [-r keyseq] [-x keyseq:shell-command] [keyseq:readline-function or readline-command]
+builtin [shell-builtin [arg ...]]
+command [-pVv] command [arg ...]
+declare [-aAfFgilnrtux] [-p] [name[=value] ...]
+typeset [-aAfFgilrtux] [-p] name[=value] ...
+local [option] name[=value] ...
+enable [-a] [-dnps] [-f filename] [name ...]
+exec [-cl] [-a name] [command [arguments ...]] [redirection ...]
+fc [-e ename] [-lnr] [first] [last] or fc -s [pat=rep] [command]
+hash [-lr] [-p pathname] [-dt] [name ...]
+history [-c] [-d offset] [n] or history -anrw [filename] or history -ps arg [arg...]
+jobs [-lnprs] [jobspec ...] or jobs -x command [args]
+disown [-h] [-ar] [jobspec ...]
+kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+read [-ers] [-a array] [-d delim] [-i text] [-n nchars] [-N nchars] [-p prompt] [-t timeout] [-u fd] [name ...]
+set [-abefhkmnptuvxBCHP] [-o option-name] [--] [arg ...]
+unset [-f] [-v] [-n] [name ...]
+export [-fn] [name[=value] ...] or export -p
+readonly [-aAf] [name[=value] ...] or readonly -p
+trap [-lp] [[arg] signal_spec ...]
+ulimit [-SHabcdefilmnpqrstuvxT] [limit]
+for NAME [in WORDS ... ] ; do COMMANDS; done
+for (( exp1; exp2; exp3 )); do COMMANDS; done
+select NAME [in WORDS ... ;] do COMMANDS; done
+case WORD in [PATTERN [| PATTERN]...) COMMANDS ;;]... esac
+if COMMANDS; then COMMANDS; [ elif COMMANDS; then COMMANDS; ]... [ else COMMANDS; ] fi
+while COMMANDS; do COMMANDS; done
+until COMMANDS; do COMMANDS; done
+coproc [NAME] command [redirections]
+function name { COMMANDS ; } or name () { COMMANDS ; }
+variables - Names and meanings of some shell variables
+shopt [-pqsu] [-o] [optname ...]
+printf [-v var] format [arguments]
+complete [-abcdefgjksuv] [-pr] [-DE] [-o option] [-A action] [-G globpat] [-W wordlist]  [-F function] [-C command] [-X filterpat] [-P prefix] [-S suffix] [name ...]
+compgen [-abcdefgjksuv] [-o option]  [-A action] [-G globpat] [-W wordlist]  [-F function] [-C command] [-X filterpat] [-P prefix] [-S suffix] [word]
+compopt [-o|+o option] [-DE] [name ...]
+mapfile [-n count] [-O origin] [-s count] [-t] [-u fd] [-C callback] [-c quantum] [array]
+readarray [-n count] [-O origin] [-s count] [-t] [-u fd] [-C callback] [-c quantum] [array]
+unalias
+unalias [-a] name [name ...]
+break
+break [n]
+continue
+continue [n]
+caller
+caller [expr]
+cd [-L|[-P [-e]] [-@]] [dir]
+pwd [-LP]
+true
+false
+declare
+typeset
+local
+echo [-neE] [arg ...]
+enable
+eval [arg ...]
+getopts
+getopts optstring name [arg]
+exit [n]
+logout [n]
+fg [job_spec]
+bg [job_spec ...]
+help [-dms] [pattern ...]
+disown
+let arg [arg ...]
+read
+return [n]
+readonly
+shift
+shift [n]
+source
+source filename [arguments]
+. filename [arguments]
+suspend [-f]
+test
+test [expr]
+[ arg... ]
+times
+type [-afptP] name [name ...]
+ulimit
+umask
+umask [-p] [-S] [mode]
+wait
+wait [-n] [id ...]
+time [-p] pipeline
+{ ... }
+{ COMMANDS ; }
+job_spec [&]
+(( ... ))
+(( expression ))
+[[ ... ]]
+[[ expression ]]
+pushd
+pushd [-n] [+N | -N | dir]
+popd
+popd [-n] [+N | -N]
+dirs [-clpv] [+N] [-N]
+shopt
+printf
+compgen
+compopt
+mapfile
+readarray
+alias 
+`%s': invalid alias name
+../.././builtins/../.././builtins/alias.def
+line editing not enabled
+bind_builtin
+lvpVPsSXf:q:u:m:r:x:
+`%s': invalid keymap name
+%s: cannot read: %s
+`%s': unknown function name
+%s is not bound to any keys.
+%s can be invoked via 
+"%s"%s
+`%s': cannot unbind
+only meaningful in a `for', `while', or `until' loop
+loop count
+NULL
+%s %s %s
+../.././builtins/../.././builtins/cd.def
+chdir
+OLDPWD=
+HOME not set
+OLDPWD not set
+CDPATH
+command_builtin
+../.././builtins/../.././builtins/command.def
+%s: usage: 
+%s: numeric argument required
+%s: not found
+%s: invalid option name
+invalid octal number
+invalid hex number
+%s: %s out of range
+%s: no such job
+%s: no job control
+%s: restricted
+%s: not a shell builtin
+write error: %s
+../.././builtins/common.c
+%s: ambiguous job spec
+SIGJUNK
+Unknown
+%2d) %s
+%s: invalid signal specification
+`%s': not a pid or valid job spec
+error setting terminal attributes: %s
+error getting terminal attributes: %s
+%s: error retrieving current directory: %s: %s
++acfgilnprtuxAF
+%s %d %s
+../.././builtins/../.././builtins/declare.def
+%s: nameref variable self references not allowed
+cannot use `-f' to make functions
+%s: reference variable cannot be an array
+%s: cannot destroy array variables in this way
+%s: cannot convert associative to indexed array
+can only be used in a function
+../.././builtins/../.././builtins/echo.def
+adnpsf:
+enable %s
+enable -n %s
+%s: not dynamically loaded
+%s: cannot delete: %s
+cannot open shared object %s: %s
+../.././builtins/../.././builtins/enable.def
+cannot find %s in shared object %s: %s
+%s: not a regular file
+%s: file is too large
+../.././builtins/evalfile.c
+_evalfile
+../.././builtins/evalstring.c
+parse_and_execute top
+pe_dispose
+parse_and_execute
+parse_string top
+parse_string
+evalstring
+%s: ignoring function definition attempt
+../.././builtins/../.././builtins/exec.def
+cla:
+%s: cannot execute: %s
+~/.bash_logout
+/etc/bash.bash_logout
+There are stopped jobs.
+There are running jobs.
+exit
+logout
+not login shell: use `exit'
+:e:lnrs
+history specification
+bash-fc
+%s: cannot open temp file: %s
+%s %s
+fc builtin
+no command found
+${FCEDIT:-${EDITOR:-$(command -v editor || echo ed)}}
+${FCEDIT:-${EDITOR:-$(command -v editor || echo vi)}}
+../.././builtins/../.././builtins/fc.def
+current
+job %d started without job control
+%4d	%s
+builtin hash -p %s %s
+hashing disabled
+dlp:rt
+hits	command
+%s: hash table empty
+../.././builtins/../.././builtins/hash.def
+%s: cannot open: %s
+%c%s
+%*s%s - 
+SYNOPSIS
+%*s%s
+DESCRIPTION
+SEE ALSO
+%*sbash(1)
+IMPLEMENTATION
+%*s%s
+%s: %s
+These shell commands are defined internally.  Type `help' to see this list.
+Type `help name' to find out more about the function `name'.
+Use `info bash' to find out more about the shell in general.
+Use `man -k' or `info' to find out more about commands not in this list.
+A star (*) next to a name means that the command is disabled.
+../.././builtins/../.././builtins/help.def
+Shell commands matching keywords `
+Shell commands matching keyword `
+no help topics match `%s'.  Try `help help' or `man -k %s' or `info %s'.
+acd:npsrw
+%s: history expansion failed
+history position
+%5d%c %s%s
+cannot use more than one of -anrw
+../.././builtins/../.././builtins/history.def
+no other options allowed with `-x'
+../.././builtins/../.././builtins/jobs.def
+lpnxrs
+jobs_builtin
+Unknown error
+(%ld) - %s
+%s: arguments must be process or job IDs
+MAPFILE
+%s: invalid line count
+%s: invalid array origin
+%s: invalid callback quantum
+u:n:O:tC:c:s:
+empty array variable name
+%s: not an indexed array
+%s %d %s
+%s: invalid file descriptor specification
+%d: invalid file descriptor: %s
+internal error: getting variable name
+../.././builtins/../.././builtins/mapfile.def
+directory stack empty
+directory stack index
+<no current directory>
+%2d  %s
+no other directory
+%s: invalid argument
+dirstack
+../.././builtins/../.././builtins/pushd.def
+ersa:d:i:n:p:t:u:N:
+read_builtin
+read error: %d: %s
+%s: invalid timeout specification
+../.././builtins/../.././builtins/read.def
+can only `return' from a function or sourced script
+%-15s	%s
+set %co %s
+allexport
+braceexpand
+%s: cannot unset
+%s: cannot unset: readonly %s
+%s: not an array variable
+errexit
+errtrace
+functrace
+hashall
+histexpand
+interactive-comments
+keyword
+monitor
+noclobber
+noexec
+noglob
+nolog
+notify
+nounset
+onecmd
+physical
+pipefail
+privileged
+xtrace
+../.././builtins/../.././builtins/set.def
+cannot simultaneously unset a function and a variable
+declare -%s 
+%s -%s 
+aAfnp
+%s: not a function
+../.././builtins/../.././builtins/setattr.def
+shift count
+../.././builtins/../.././builtins/shift.def
+filename argument required
+%s: file not found
+../.././builtins/../.././builtins/source.def
+cannot suspend
+cannot suspend a login shell
+../.././builtins/../.././builtins/test.def
+unknown
+trap -- %s %d
+trap -- %s %s
+../.././builtins/../.././builtins/trap.def
+%s is aliased to `%s'
+alias %s=%s
+%s is a shell keyword
+%s is a function
+%s is a shell builtin
+%s is %s
+%s is hashed (%s)
+-type
+-path
+-all
+afptP
+../.././builtins/../.././builtins/type.def
+(%s, -%c) 
+(-%c) 
+%-20s %16s
+unlimited
+%s: cannot get limit: %s
+hard
+soft
+%s: cannot modify limit: %s
+`%c': bad command
+core file size
+blocks
+data seg size
+kbytes
+scheduling priority
+pending signals
+max locked memory
+max memory size
+open files
+pipe size
+512 bytes
+POSIX message queues
+real-time priority
+stack size
+cpu time
+seconds
+max user processes
+virtual memory
+file locks
+../.././builtins/../.././builtins/ulimit.def
+u=%s,g=%s,o=%s
+agou
+umask%s 
+%04lo
+`%c': invalid symbolic mode operator
+`%c': invalid symbolic mode character
+OPTARG
+../.././builtins/../.././builtins/getopts.def
+%s: invalid shell option name
+autocd
+shopt %s %s
+cdable_vars
+BASHOPTS
+psuoq
+cdspell
+checkhash
+checkjobs
+checkwinsize
+cmdhist
+compat31
+compat32
+compat40
+compat41
+compat42
+complete_fullquote
+direxpand
+dirspell
+dotglob
+execfail
+expand_aliases
+extdebug
+extglob
+extquote
+failglob
+force_fignore
+globstar
+globasciiranges
+gnu_errfmt
+histappend
+histreedit
+histverify
+hostcomplete
+huponexit
+interactive_comments
+lastpipe
+lithist
+mailwarn
+no_empty_cmd_completion
+nocaseglob
+nocasematch
+nullglob
+progcomp
+promptvars
+restricted_shell
+shift_verbose
+sourcepath
+xpg_echo
+../.././builtins/../.././builtins/shopt.def
+cannot set and unset shell options simultaneously
+missing hex digit for \x
+missing unicode digit for \%c
+warning: %s: %s
+#'-+ 0
+hjlLtz
+../.././builtins/../.././builtins/printf.def
+`%c': invalid time format specification
+`%c': invalid format character
+`%s': missing format character
+%s: illegal option -- %c
+%s: option requires an argument -- %c
+bashdefault
+complete 
+-o %s 
+dirnames
+filenames
+nospace
+plusdirs
+arrayvar
+-A %s 
+helptopic
+running
+setopt
+signal
+stopped
+%s %s 
+%s: invalid action name
+compopt 
++o %s 
++o:DE
+noquote
+group
+service
+user
+../.././builtins/../.././builtins/complete.def
+%s: no completion specification
+abcdefgjko:prsuvA:G:W:P:S:X:F:C:DE
+warning: -F option may not work as you expect
+warning: -C option may not work as you expect
+not currently executing completion function
+../../.././lib/glob/glob.c
+ascii
+?*+@!
+../../.././lib/glob/sm_loop.c
+../../.././lib/glob/smatch.c
+alnum
+alpha
+blank
+cntrl
+graph
+lower
+punct
+upper
+xdigit
+alert
+backspace
+vertical-tab
+form-feed
+carriage-return
+exclamation-mark
+quotation-mark
+number-sign
+dollar-sign
+percent-sign
+ampersand
+apostrophe
+left-parenthesis
+right-parenthesis
+asterisk
+plus-sign
+comma
+hyphen
+hyphen-minus
+dash
+period
+full-stop
+zero
+three
+four
+five
+seven
+eight
+nine
+semicolon
+less-than-sign
+equals-sign
+greater-than-sign
+question-mark
+commercial-at
+left-square-bracket
+backslash
+reverse-solidus
+right-square-bracket
+circumflex
+circumflex-accent
+underscore
+grave-accent
+left-brace
+left-curly-bracket
+vertical-line
+right-brace
+right-curly-bracket
+../../.././lib/sh/getenv.c
+../../.././lib/sh/setlinebuf.c
+../../.././lib/sh/itos.c
+BASH_REMATCH
+../../.././lib/sh/shmatch.c
+/dev/fd/
+../../.././lib/sh/eaccess.c
+/dev/std
+../../.././lib/sh/netopen.c
+socket
+connect
+%s: bad network path specification
+%ldm%d.%03ds
+sh_makepath
+../../.././lib/sh/makepath.c
+../../.././lib/sh/pathcanon.c
+../../.././lib/sh/pathphys.c
+sh_realpath
+TMPDIR
+/var/tmp
+/usr/tmp
+shtmp
+../../.././lib/sh/tmpfile.c
+%s/%s-%lu
+../../.././lib/sh/stringlist.c
+../../.././lib/sh/stringvec.c
+../../.././lib/sh/shquote.c
+../../.././lib/sh/strtrans.c
+%s/cur
+%s/tmp
+%s/new
+%s/%s
+invalid base
+0123456789ABCDEF
+0123456789abcdef
+../../.././lib/sh/zmapfd.c
+../../.././lib/sh/zgetline.c
+../../.././lib/sh/casemod.c
+\u%04X
+\u%08X
+UTF-8
+ASCII
+ l|h^0bBFT`
+ l|hwW^0bBFT`
+ l|h^0%bBFT`
+ hl^$0ftFT;,%wbeWBE|`
+_*\AaIiCcDdPpYyRrSsXx~
+vidomove_dispatch: unknown operator %d
+accept-line
+abort
+arrow-key-prefix
+backward-byte
+backward-char
+backward-kill-line
+beginning-of-history
+beginning-of-line
+call-last-kbd-macro
+capitalize-word
+character-search
+character-search-backward
+clear-screen
+copy-backward-word
+copy-forward-word
+copy-region-as-kill
+delete-char-or-list
+delete-horizontal-space
+digit-argument
+do-lowercase-version
+downcase-word
+dump-functions
+dump-macros
+dump-variables
+emacs-editing-mode
+end-kbd-macro
+end-of-history
+end-of-line
+exchange-point-and-mark
+forward-backward-delete-char
+forward-byte
+forward-char
+forward-search-history
+history-search-backward
+history-search-forward
+insert-comment
+insert-completions
+kill-whole-line
+kill-region
+menu-complete-backward
+next-history
+old-menu-complete
+overwrite-mode
+possible-completions
+previous-history
+print-last-kbd-macro
+quoted-insert
+re-read-init-file
+redraw-current-line
+reverse-search-history
+revert-line
+self-insert
+skip-csi-sequence
+start-kbd-macro
+tab-insert
+transpose-chars
+transpose-words
+tty-status
+undo
+universal-argument
+unix-filename-rubout
+unix-line-discard
+unix-word-rubout
+upcase-word
+yank
+yank-last-arg
+yank-nth-arg
+yank-pop
+vi-append-eol
+vi-append-mode
+vi-arg-digit
+vi-back-to-indent
+vi-backward-bigword
+vi-backward-word
+vi-bWord
+vi-bword
+vi-change-case
+vi-change-char
+vi-change-to
+vi-char-search
+vi-column
+vi-complete
+vi-delete
+vi-delete-to
+vi-eWord
+vi-editing-mode
+vi-end-bigword
+vi-end-word
+vi-eof-maybe
+vi-eword
+vi-fWord
+vi-fetch-history
+vi-first-print
+vi-forward-bigword
+vi-forward-word
+vi-fword
+vi-goto-mark
+vi-insert-beg
+vi-insertion-mode
+vi-match
+vi-movement-mode
+vi-next-word
+vi-overstrike
+vi-overstrike-delete
+vi-prev-word
+vi-put
+vi-redo
+vi-replace
+vi-rubout
+vi-search
+vi-search-again
+vi-set-mark
+vi-subst
+vi-tilde-expand
+vi-yank-arg
+vi-yank-to
+history-substring-search-backward
+history-substring-search-forward
+non-incremental-forward-search-history
+non-incremental-reverse-search-history
+non-incremental-forward-search-history-again
+non-incremental-reverse-search-history-again
+warning: turning off output flushing
+--More--
+"\'`@$><=;|&{(
+Display all %d possibilities? (y or n)
+bad value %d for what_to_do in rl_complete
+none
+audible
+visible
+term=
+mode=
+%s: line %d: %s
+$endif without matching $if
+C-\M-
+"%s%s": "%s"
+%s%s outputs %s
+emacs-standard
+bell-style
+completion-display-width
+completion-query-items
+history-size
+isearch-terminators
+keymap
+keyseq-timeout
+bind-tty-special-chars
+blink-matching-paren
+prefer-visible-bell
+show-mode-in-prompt
+Control-
+Meta
+unknown parser directive
+no closing `"' in key binding
+prefix-meta
+/etc/inputrc
+INPUTRC
+~/.inputrc
+\C-%c
+# %s (not bound)
+"%s": %s
+%s is not bound to any keys
+%s can be found on 
+set %s %s
+%s is set to `%s'
+emacs-meta
+emacs-ctlx
+vi-move
+vi-command
+vi-insert
+Escape
+Newline
+Return
+Rubout
+Space
+byte-oriented
+colored-stats
+completion-map-case
+convert-meta
+disable-completion
+echo-control-characters
+enable-keypad
+enable-meta-key
+expand-tilde
+history-preserve-point
+horizontal-scroll-mode
+mark-directories
+mark-modified-lines
+mark-symlinked-directories
+match-hidden-files
+menu-complete-display-prefix
+meta-flag
+output-meta
+page-completions
+revert-all-at-newline
+show-all-if-ambiguous
+show-all-if-unmodified
+skip-completed-text
+visible-stats
+endif
+include
+other
+CTRL-
+$else found without matching $if
+completion-prefix-display-length
+print-completions-horizontally
+/-_=~.#$
+readline: 
+/var/tmp/rltrace.%ld
+readline_callback_read_char() called with no handler!
+utf8
+(arg: %d) 
+X%lu
+<>;&|$
+!@?+*
+unknown expansion error
+:$*%^
+event not found
+bad word specifier
+substitution failed
+unrecognized history modifier
+no previous substitution
+;&()|<>
+LS_COLORS
+LS_COLORS: syntax error: %s
+01;34
+01;36
+01;35
+01;33
+01;32
+37;41
+30;43
+37;44
+34;42
+30;42
+30;41
+unparsable value for LS_COLORS environment variable
+LS_COLORS: unrecognized prefix: %s
+p->minfo.mi_magic2 == 0x5555
+nunits < 30
+bcoalesce: CHAIN(mp2) != mp1
+malloc: %s:%d: assertion botched
+free: called with already freed block argument
+free: called with unallocated block argument
+free: underflow detected; mh_nbytes out of range
+free: start and end chunk sizes differ
+malloc: block on free list clobbered
+realloc: called with unallocated block argument
+realloc: underflow detected; mh_nbytes out of range
+realloc: start and end chunk sizes differ
+;*3$"
+bash
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

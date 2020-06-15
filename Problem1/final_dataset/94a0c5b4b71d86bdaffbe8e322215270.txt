@@ -1,0 +1,1653 @@
+/lib64/ld-linux-x86-64.so.2
+3V<Cf
+@  !(
+B H"@
+!0@D
+],=Ju8
+#BIi
+(p#u?
+PM	y	Bg
+G+Y@^
+SgL%R
+>P1u
+CHzno+}171
+4+em
+-c;!
+<F1{
+1S1u
+7/`N
+Oo8j	C
+;jFE
+:EY%<
+h		x
+boDD,R
+W8{!
+^#=K
+5 JIW5
+libsystemd.so.0
+__gmon_start__
+_ITM_deregisterTMCloneTable
+_ITM_registerTMCloneTable
+_Jv_RegisterClasses
+sd_notify
+libbrlapi.so.0.6
+brlapi_setFocus
+brlapi_writeText
+brlapi_ignoreKeyRanges
+brlapi_acceptKeys
+brlapi_readKey
+brlapi_perror
+Do nine men interpret Nine men I nod
+brlapi_openConnection
+brlapi_ignoreKeys
+brlapi_getDisplaySize
+brlapi_enterTtyModeWithPath
+brlapi_enterTtyMode
+libXtst.so.6
+XPending
+XFree
+XTestFakeKeyEvent
+XTestQueryExtension
+libX11.so.6
+XGetErrorText
+XNextEvent
+XFlush
+XSetErrorHandler
+XkbLookupKeySym
+XkbLibraryVersion
+XRefreshKeyboardMapping
+XInternAtom
+XKeysymToKeycode
+XGetInputFocus
+XSelectInput
+XkbLockModifiers
+XDisplayName
+XkbQueryExtension
+XQueryTree
+XOpenDisplay
+XConnectionNumber
+XGetWindowProperty
+libicuuc.so.55
+u_getIntPropertyValue_55
+u_charFromName_55
+u_charName_55
+unorm_normalize_55
+libdl.so.2
+dlclose
+dlsym
+dladdr
+dlopen
+dlerror
+libpthread.so.0
+pthread_setname_np
+pthread_rwlock_trywrlock
+send
+pthread_self
+pthread_rwlock_wrlock
+__libc_current_sigrtmin
+pthread_getname_np
+pthread_sigmask
+pthread_rwlock_unlock
+recv
+__errno_location
+pthread_mutex_lock
+pthread_setspecific
+fcntl
+pthread_rwlock_init
+pthread_create
+pthread_join
+sigaction
+pthread_getspecific
+funlockfile
+__libc_current_sigrtmax
+pthread_rwlock_tryrdlock
+pthread_key_create
+pthread_rwlock_rdlock
+flockfile
+pthread_rwlock_destroy
+pthread_mutex_unlock
+nanosleep
+lseek
+waitpid
+libc.so.6
+fflush
+strcpy
+wmemcmp
+setlocale
+mbrtowc
+towlower
+fopen
+strncmp
+ftruncate
+optind
+strrchr
+pipe
+__strdup
+__progname
+dcgettext
+wmemcpy
+__fdelt_chk
+signal
+fork
+ioperm
+iswspace
+sigprocmask
+sigfillset
+__stack_chk_fail
+select
+mkdir
+realloc
+stdin
+_exit
+strpbrk
+getpid
+kill
+strftime
+localtime_r
+strtod
+__ctype_get_mb_cur_max
+strtok
+strtol
+feof
+fgets
+calloc
+strlen
+signalfd
+sigemptyset
+openlog
+chdir
+__syslog_chk
+mempcpy
+poll
+__fprintf_chk
+sigaddset
+stdout
+fputc
+fputs
+fclose
+__vsnprintf_chk
+strtoul
+malloc
+strcasecmp
+nl_langinfo
+__ctype_b_loc
+getenv
+sscanf
+__open_2
+optarg
+stderr
+sigdelset
+ioctl
+__snprintf_chk
+optopt
+readlink
+getopt_long
+execvp
+strncasecmp
+__xmknod
+__fxstat
+__realpath_chk
+fileno
+getcwd
+fwrite
+iconv_close
+gettimeofday
+__memcpy_chk
+sigismember
+clock_gettime
+backtrace
+strchr
+iswcntrl
+__vfprintf_chk
+mktime
+iconv
+fdopen
+qsort
+Eleele
+iconv_open
+__ctype_toupper_loc
+__xstat
+wmemchr
+memmove
+backtrace_symbols
+bindtextdomain
+access
+opterr
+strcmp
+strerror
+__libc_start_main
+ferror
+wcslen
+closelog
+snprintf
+free
+program_invocation_short_name
+__cxa_atexit
+_edata
+__bss_start
+_end
+logCategoryFlags
+convertUtf8ToWchar
+asyncDeallocateWaitData
+restartTimePeriod
+logLevelCount
+getQueueData
+millisecondsTillNextMinute
+getQueueHead
+writeSocketDescriptor
+asyncAddSignalEntry
+adjustTimeValue
+convertUtf8ToChar
+categoryLogLevel
+setWorkingDirectory
+logBytes
+approximateDelay
+processIfNotVarOperands
+getCurrentTime
+cancelProgram
+asyncSignalEvent
+unlockCharset
+stderrLogLevel
+getElementItem
+asyncWithAllSignalsBlocked
+hasFileExtension
+enableUinputLed
+validateFloat
+millisecondsBetween
+setCharset
+asyncMonitorSocketAlert
+writeDotsCell
+asyncExecuteAlarmCallback
+getCharacterName
+reportDataError
+compareKeywords
+getStackElement
+writePort1
+removeService
+asyncHandleAddTaskEvent
+replaceFileExtension
+dequeueItem
+validateFlag
+convertWcharToUtf8
+isAbbreviation
+isPosixLocale
+registerProgramMemory
+getMonotonicElapsed
+processIfVarOperands
+logPossibleCause
+asyncExecuteIoCallback
+ensureFileExtension
+convertCharToUtf8
+writeUtf8Character
+disablePorts
+createUinputDevice
+getWritableDirectory
+getAllOverrideDirectories
+getWcharCharset
+asyncResetAlarmEvery
+standardStreamArgument
+asyncAwaitCondition
+_IO_stdin_used
+getLocaleName
+getTextLength
+parseDataString
+openCharacterDevice
+getDeviceDirectory
+joinStrings
+expandTimeValue
+asyncWithSignalBlocked
+runCommand
+testThreadFunctionReturned
+isNumber
+asyncMonitorSocketOutput
+getUtf8Length
+asyncReadSocket
+asyncDeallocateIoData
+writeHexadecimalCharacter
+getDevicePath
+utf8Conv
+asyncWithSignalsBlocked
+accurateDelay
+asyncExecuteTaskCallback
+asyncCancelRequest
+convertTextToWchars
+getThreadSpecificData
+getElementIdentifier
+cancelProcess
+handleBestCharacter
+asyncMonitorEventPipe
+logCategoryName_all
+logUnsupportedOperation
+convertCharToWchar
+setThreadName
+setBaseDataVariables
+writeEscapedCharacter
+enableUinputSound
+onProgramExit
+processAssignDefaultOperands
+processElseOperands
+validateInteger
+asyncMonitorSocketInput
+isHexadecimalDigit
+requeueElement
+asyncRelinquishSignalNumber
+asyncGetHandleElement
+asyncResetAlarmTo
+processDataStream
+asyncObtainSignalNumber
+deleteElements
+getProgramPath
+getMonotonicTime
+setWritableDirectory
+extendStringSetting
+getElementQueue
+installKernelModule
+God A red nugget A fat egg under a dog
+resetOptions
+formatInputError
+findItem
+logData
+writeUtf8Cells
+getLogCategoryTitle
+isAbsolutePath
+writeRepeatDelay
+getLogCategoryName
+validateYesNo
+resolveDeviceName
+makeFilePath
+standardOutputName
+processEndIfOperands
+isInteger
+finishHostCommandStream
+registerCharacterSet
+getBootParameters
+processIncludeOperands
+handleInterceptedInputEvent
+linuxKeyMap_ps2
+asyncWaitFor
+isQualifiedDevice
+getCharset
+getDataOperand
+setGlobalDataVariable
+enableUinputKey
+testProgramPath
+asyncHandleSignalfdInput
+isKeyword
+setLogCategory
+getWorkingDirectory
+listDataVariables
+enablePorts
+standardInputName
+notifyServiceReady
+initializeSystemObject
+findElementWithItem
+getStackHead
+locatePathExtension
+pushLogPrefix
+getHomeDirectory
+installService
+asyncAddTask
+readSocketDescriptor
+asyncMonitorFileOutput
+asyncEmptySignalHandler
+enableUinputEventType
+processHostCommandStreams
+handleThreadFunctionReturned
+processOptions
+getCellsOperand
+ringBell
+logActionError
+findElement
+processQueue
+createThread
+asyncIgnoreSignal
+asyncMonitorSignal
+makeTimeValue
+isUnqualifiedDevice
+getPrimaryOverrideDirectory
+asyncResetAlarmIn
+changeStringSetting
+formatSeconds
+getCharacterByName
+logLevelNames
+getDataCharacter
+callThreadFunction
+getParameters
+destructHostCommandPackageData
+releaseLock
+destroyInputEventMonitor
+brlDotBits
+createPidFile
+registerProgramStream
+linuxKeyMap_atE0
+compareKeyword
+createThreadSpecificDataKeyWithSignalsBlocked
+asyncClaimSignalNumber
+unloadSharedObject
+readFileDescriptor
+asyncDiscardHandle
+processListVariablesOperands
+getQueueSize
+beginProgram
+isPathDelimiter
+asyncHandleSignal
+testFilePath
+unlockMutex
+openSystemLog
+openLogFile
+flushStream
+asyncMakeHandle
+brlDotBitToIndex
+validateOnOff
+openDataFile
+asyncWithObtainableSignalsBlocked
+findDataOperand
+joinPath
+brlDotNumberToIndex
+asyncMonitorFileAlert
+asyncMonitorFileInput
+writeFileDescriptor
+isExplicitPath
+linuxKeyMapDescriptors
+endProgram
+popLogPrefix
+releaseFileLock
+asyncWriteFile
+attemptFileLock
+getDeviceParameters
+convertWcharToChar
+systemLogLevel
+makeUtf8FromWchars
+executeHostCommand
+programName
+prepareHostCommandStream
+writeDotsCells
+splitString
+deallocateStrings
+asyncWriteSocket
+processConditionOperands
+makePath
+getQueueElement
+processDirectiveOperand
+logBacktrace
+standardErrorName
+brlDotNumbers
+newLockDescriptor
+createAnonymousPipe
+asyncGetThreadSpecificData
+__data_start
+parseCellsOperand
+moveElement
+asyncBlockObtainableSignals
+getTransliteratedCharacter
+normalizeTimeValue
+logSymbol
+afterTimePeriod
+linuxKeyMap_hid
+newUinputKeyboard
+createDirectory
+asyncSetSignalBlocked
+writeConsole
+constructHostCommandPackageData
+releasePressedKeys
+processDataFile
+getPathDirectory
+linuxKeyMap_xt00
+readLine
+linuxKeyMap_at00
+asyncRevertSignal
+setUpdatableDirectory
+convertUtf8ToWchars
+runHostCommand
+isOctalDigit
+asyncDeallocateAlarmData
+locatePathName
+asyncDeallocateTaskData
+logParameters
+deallocateQueue
+getDataText
+ungetDataCharacters
+makeUpdatablePath
+vlogMessage
+__libc_csu_init
+writeDots
+createSignalSafeThread
+writeKeyEvent
+writeInputEvent
+initializeHostCommandOptions
+newInputEventMonitor
+getLockDescriptor
+programPath
+includeDataFile
+getLocaleCharset
+destroyUinputObject
+logUnsupportedFeature
+asyncReadFile
+compareTimeValues
+millisecondsTillNextSecond
+writeUtf8Cell
+processLines
+asyncDeallocateSignalData
+isBrailleCharacter
+asyncSetAlarmTo
+asyncTestHandle
+newUinputObject
+linuxKeyMap_xtE0
+rescaleInteger
+testPath
+logCategoryPrefix_disable
+defaultCharset
+asyncNewAddTaskEvent
+makeWritablePath
+asyncDiscardEvent
+isFloat
+disableAllLogCategories
+unsetAddressName
+getConsole
+testProcessIdentifier
+asyncWait
+processEndVariablesOperands
+logSystemError
+linuxKeyMap_atE1
+readPort1
+obtainLock
+setTableDataVariables
+runThreadFunction
+asyncNewEvent
+freeLockDescriptor
+enqueueItem
+getNamedPipeDirectory
+fixInstallPath
+writeUtf8Characters
+getDataString
+__libc_csu_fini
+findSharedSymbol
+processInputFiles
+alula
+getProgramQueue
+asyncIsSignalBlocked
+processAssignOperands
+asyncSetAlarmIn
+newQueue
+linuxKeyMapCount
+closeLogFile
+getBaseCharacter
+getCharacterWidth
+testDirectoryPath
+ensureDirectory
+openFile
+getSharedSymbolName
+getUinputFileDescriptor
+acquireFileLock
+isUnsignedInteger
+asyncMakeElementHandle
+logMallocError
+asyncReleaseSignalNumber
+setQueueData
+validateChoice
+getProcessIdentifier
+getAddressName
+getDotOperand
+linuxKeyMap_xtE1
+closeSystemLog
+isLogLevel
+formatThreadName
+deleteItem
+writeEscapedCharacters
+processBeginVariablesOperands
+deleteElement
+writeRepeatPeriod
+asyncDeleteSignalEntry
+getUpdatableDirectory
+LIBSYSTEMD_209
+GLIBC_2.2.5
+GLIBC_2.15
+GLIBC_2.4
+GLIBC_2.17
+GLIBC_2.14
+GLIBC_2.7
+GLIBC_2.3.4
+GLIBC_2.3
+GLIBC_2.12
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AX[]
+D$81
+L$8dH3
+D$(H
+|$ H
+\$(H
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AWAVAUATUS
+D$X1
+|$0L
+t$(L
+l$ H
+D$(H
+=9$"
+t$ 1
+D$ H
+|$0H
+D$(H
+AVAU1
+t$ ATI
+D$ H
+|$0H
+H9L$
+t$XdH34%(
+h[]A\A]A^A_
+D$ H
+\$HH
+D$ H
+L$PH
+T$8H
+t$HL
+D$@H
+D$ H
+H+t$@
+AUATUSH
+v dH
+[]A\A]
+=B!"
+ATUI
+[]A\
+D$(1
+L$(dH3
+=a "
+D$ H
+T$ H
+T$ u
+AWAVAUATSH
+Hc=u
+L;+u
+L;-K
+t$H9
+AUATUS
+D$81
+L$8dH3
+H[]A\A]
+8&t&D
+AUATH
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+[]A\A]A^A_
+D;|$
+ATUSH
+=R	"
+ATE1
+[]A\
+[]A\
+Tacocat
+AWAVA
+AUATI
+1tFH
+[]A\A]A^A_
+[]A\A]A^A_
+AUATH
+[]A\A]
+AUATSI
+IcD$
+[A\A]]
+AUATUSH
+[]A\A]
+AWAVAUATUSH
+([]A\A]A^A_
+t_USH
+AWAVAUATI
+t$ H
+T$ A
+t3f.
+[A\A]A^A_]
+D$8H
+T$8H
+AWAVI
+AUATUSH
+ueL9
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATI
+<+=tD1
+[]A\A]A^A_
+AWAVL
+47AUATI
+[]A\A]A^A_
+AWAVI
+AUATL
+$7USH
+[]A\A]A^A_
+AWAVI
+AUATA
+uZL)
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\
+AWAVA
+AUATI
+[]A\A]A^A_
+|$ H
+L$ H
+t$$H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$`L
+L$ht=
+)D$p
+D$81
+D$(H
+D$@H
+D$0H
+D$  
+D$$0
+D$8dH3
+L$XL
+D$`L
+L$ht=
+)D$p
+D$81
+D$(H
+D$@H
+D$0H
+D$$0
+D$8dH3
+AUAT
+[]A\A]
+AWAVAUATI
+l$0L
+D$ H
+tyI9
+D;5f
+txHc
+[]A\A]A^A_
+AUATUSH
+[]A\A]
+[]A\A]
+tHE1
+ATUA
+D$(1
+L$(dH3
+0[]A\
+AUATI
+[]A\A]
+[]A\A]
+ATUI
+[]A\
+t%H9
+AWAVAUATSH
+tMD9}
+u9M9
+[A\A]A^A_]
+[]A\
+AVAUI
+ATUI
+tXL)
+[]A\A]A^
+AUATUSH
+[]A\A]
+ATUE1
+[]A\
+[]A\
+AVAUATUSH
+ []A\A]A^
+AUATA
+[]A\A]
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+AWAVI
+AUATUSH
+l$ dH
+D$(1
+L$(dH3
+8[]A\A]A^A_
+AWAVI
+AUATM
+]A\A]A^A_
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+=d@!
+AVAUATSH
+[A\A]A^]
+%B3!
+ZYuv
+AWAVI
+AUATE1
+[]A\A]A^A_
+AVAUI
+ATUI
+tEH)
+tRE1
+]A\A]A^
+]A\A]A^
+AWAVAUATI
+[A\A]A^A_]
+AWAVAUATSH
+[A\A]A^A_]
+AWAVAUATSH
+tfAWj,M
+[A\A]A^A_]
+Borrow or rob
+AWAVH
+AUATUSH
+[]A\A]A^A_
+AWAVI
+AUATH
+5%)!
+[]A\A]A^A_
+ATUSH
+[]A\
+AVAUI
+ATUH
+[]A\A]A^
+]A\A]A^
+ATUSH
+[]A\
+AWAVI
+AUATUSH
+H[]A\A]A^A_
+D$0L)
+HcT$
+l$(L)
+|$ I
+L$ H
+H[]A\A]A^A_
+|$8E1
+|$(H
+l$0I
+|$8H
+ATUH
+St9H
+[]A\
+D$81
+D$8dH3
+D$H1
+D$$f
+D$HdH3
+AUATHc
+D$H1
+T$HdH3
+X[]A\A]
+Ci4$
+dH34%(
+ATUI
+ []A\
+D$(1
+~<HcT$
+D$(dH3
+HcT$
+[]A\
+ATUI
+[]A\
+[]A\
+t3SH
+AWAVAUATLc
+t$0H
+\$@dH
+D$X1
+D$(H
+L+|$(
+|$HH
+D$@L
+L$XdH3
+h[]A\A]A^A_
+ATUA
+u=[]A\
+ATUI
+[]A\
+AVAUA
+ATUH
+[]A\A]A^
+ATUA
+[]A\
+AUATUSH
+D$(1
+~JI;
+$|$1
+L$(dH3
+8[]A\A]
+U u)
+ATUI
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+tSUSH
+AUATH
+D$(1
+rJE1
+L$(dH3
+8[]A\A]
+AUATH
+D$(1
+T$$L
+D$$A
+L$(dH3
+8[]A\A]
+H9G0H
+AWAVI
+AUATA
+D$(1
+L$(dH3
+8[]A\A]A^A_
+AWAVM
+AUATA
+[]A\A]A^A_
+dH34%(
+O dH
+dH34%(
+ATUH
+C$[]A\
+t<[H
+[]A\H
+[]A\H
+AWAVAUATI
+[A\A]A^A_]
+S$uV
+D$(1
+L$(dH3
+D$(1
+L$(dH3
+D$(1
+L$(dH3
+D$(1
+L$(dH3
+D$(1
+L$(dH3
+D$(1
+L$(dH3
+ATUI
+[]A\
+AUATUSH
+[]A\A]
+|!f.
+ATUH
+[]A\
+AUAT
+[]A\A]
+ATUI
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+AUATUSH
+([]A\A]
+AWAVAUATI
+[]A\A]A^A_
+[]A\
+AVAUATUS
+[]A\A]A^
+ATUH
+[]A\
+[]A\
+E([]A\
+D$81
+T$8dH3
+D$(u
+AUATI
+D$81
+D$ t0H
+L$8dH3
+H[]A\A]
+ATUH
+[]A\
+=[y!
+H;:twH
+u4USH
+AUATUSH
+[]A\A]
+[]A\A]
+ATUI
+[]A\
+t4H;:t'H
+t\H;:tOH
+AVAUATUSH
+]A\A]A^
+]A\A]A^
+ATUI
+[]A\
+D$(1
+t	H+\$
+T$(dH3
+ATUA
+AVAUA
+ATUI
+[]A\A]A^
+AUATI
+|$ H
+[]A\A]
+AWAVA
+AUATA
+D$8%
+[]A\A]A^A_
+AVAU
+ATUI
+=ij!
+5bj!
+ZYtC
+[]A\A]A^
+AVAUA
+ATU1
+ []A\A]A^
+u;Hc
+[]A\
+ATUS1
+A D.
+[]A\A]A^
+AVAUATUSH
+D$h1
+|$hdH3<%(
+p[]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+t9ATI
+[]A\
+AWAVAUATI
+|$@1
+D$@I
+D$XI
+[]A\A]A^A_
+d$ L
+ATUS
+[]A\
+ATUS
+[]A\
+AWAVI
+AUATA
+[]A\A]A^A_
+52[!
+AUATL
+data varH
+iable: 
+XZH9
+[]A\A]
+H9S u
+AWAVAUATI
+[]A\A]A^A_
+]A\A]A^A_
+AVAUA
+ATUH
+ []A\A]A^
+t[Lcu
+AWAVAUATE1
+[]A\A]A^A_
+AWAVAUATI
+[A\A]A^A_]
+=LS!
+\$ L
+AUATUSH
+[]A\A]
+[]A\A]
+[]A\A]
+ATSH
+[A\]
+=NO!
+D$81
+T$8dH3
+=5N!
+-)N!
+tcH9
+[]A\H
+AVAUI
+ATUI
+t$Pu&M
+]A\A]A^
+]A\A]A^
+AUATSI
+[A\A]]
+AUATA
+[]A\A]
+H+OHH
+ATUH
+D$PH
+D$HH)
+[]A\
+ATUI
+[]A\
+AWAVAUATSH
+[A\A]A^A_]
+ATUA
+ []A\
+AUATH
+[]A\A]
+ATUH
+[]A\
+D$(1
+L$(dH3
+dH3<%(
+[]A\
+ATUSH
+t'I9
+[]A\A]
+[]A\A]
+ATUH
+[]A\
+AWAVAUATSH
+[A\A]A^A_]
+AVAUI
+[]A\A]A^
+$u]H
+H9_@t"H
+AWAVI
+AUATI
+|$8L
+D$pH
+D$(H
+D$xH
+D$Ht}H
+[]A\A]A^A_
+AWAVAUATSH
+ATRL
+[A\A]A^A_]
+t"L)
+AVAUI
+]A\A]A^
+AVSH
+[A^]
+AUATS1
+[A\A]]
+AUATI
+[]A\A]
+[]A\A]
+AWAVI
+AUATH
+D$(1
+|$ H
+t	I9
+L$(dH3
+8[]A\A]A^A_
+ATUS1
+ []A\
+AUATI
+[]A\A]
+AWAVAUATI
+t-L)
+[]A\A]A^A_
+=|(!
+5Q(!
+ATUI
+ []A\
+ATUH
+[]A\
+D$81
+L$(H
+T$ H
+D$0H
+L$8dH3
+D$81
+L$(H
+T$ H
+D$0H
+\$8dH3
+ATUSH
+D$H1
+l$(H
+\$0H
+D$8t
+T$HdH3
+P[]A\
+AWAVA
+AUATL
+[]A\A]A^A_
+tempo_XFree(wm_name)
+XGetErrorText
+X Error %d, %s on display %s
+resource %#010lx, req %u:%u
+strdup(wm_name)
+writeText
+cannot write window name %s
+cannot set focus to %#010x
+setFocus
+root
+unknown
+malloc(struct window)
+XFree(children)
+DISPLAY
+cannot connect to display %s
+strange old error handler
+Incompatible XKB library
+WINDOWPATH
+XDG_VTNR
+XFree86_VT
+no XFree86_VT atom
+no items for VT number
+bad format for VT number
+bad type for VT number
+XFree(VTnobuf)
+cannot get tty
+geTtyPath
+cannot get tty %d
+enterTtyMode
+cannot ignore keys
+ignoreAllKeys
+acceptKeys
+ignoreKeyRanges
+_NET_WM_NAME
+UTF8_STRING
+UTF-8
+%s//TRANSLIT
+failed to get first focus
+select
+XNextEvent: %d
+XFree(wm_name) for change
+unhandled event type: %d
+unexpected cmd
+%s: %lx
+unexpected block type
+brlapi_readKey
+didn't grab window %#010lx
+openConnection
+getDisplaySize
+xbrlapi
+[host][:port]
+auth
+file
+display
+X display to connect to
+quiet
+full-help
+didn't grab window %#010lx but got focus
+Incompatible XKB server support
+cannot get root window XFree86_VT property
+more than one item for VT number
+cannot grab windows on screen %d
+window %#010lx changed to NULL name
+Couldn't translate keysym %08X to keycode.
+Couldn't find modifiers to apply to %d for getting keysym %08X
+didn't grab parent of %#010lx
+cannot connect to brltty at %s
+BrlAPI host and/or port to connect to
+BrlAPI authorization/authentication string
+Do not write any text to the braille device
+Print a usage summary (commonly used options only), and then exit.
+Print a usage summary (all options), and then exit.
+stopping program components
+stopped program components
+%d%c
+read
+ftruncate
+lseek
+%s: %s: %s
+unexpected PID file state: %u
+pid file open error
+program exit event added: %s
+/usr/share/locale
+program-path
+realpath
+cannot fix install path
+install path not absolute
+program-directory
+program directory: %s
+stopping program component: %s
+instance already running: PID=%d
+cannot open process identifier file
+cannot determine program directory
+<standard-error>
+<standard-output>
+<standard-input>
+/proc/self/exe
+readlink
+service installation
+service removal
+READY=1
+sd_notify
+configuration file directive
+configuration directive
+configuration value
+%s: %ls
+invalid flag setting
+invalid counter setting
+options
+%s%s
+unknown option
+%s: %c%c
+missing operand
+Usage
+ ...]
+%s_%s
+file '%s' processing error.
+input file open error: %s: %s
+configuration directive specified more than once
+unknown configuration directive
+/proc/cmdline
+%2.2X
++%lX
+%s: 
+%Y-%m-%d@%H:%M:%S
+%.*s.%03u 
+[%s] 
+%s error %d: %s.
+malloc
+feature not supported: %s
+possible cause: %s
+backtrace: %s
+backtrace_symbols
+no frames
+ingio
+Generic Input
+generic input
+inpkts
+Input Packets
+input packet
+outpkts
+Output Packets
+output packet
+brlkeys
+Braille Key Events
+braille key
+kbdkeys
+Keyboard Key Events
+keyboard key
+csrtrk
+Cursor Tracking
+cursor tracking
+csrrtg
+Cursor Routing
+cursor routing
+update
+Update Events
+speech
+Speech Events
+async
+Async Events
+server
+Server Events
+serial
+Serial I/O
+USB I/O
+bluetooth
+Bluetooth I/O
+Bluetooth
+brldrv
+Braille Driver Events
+braille driver
+spkdrv
+Speech Driver Events
+speech driver
+scrdrv
+Screen Driver Events
+screen driver
+emergency
+alert
+critical
+warning
+Degas are we not drawn onward no In union drawn onward to new eras aged
+notice
+information
+debug
+-all
+address-table
+fcntl[struct flock *]
+.brltty
+Override Directory: %s
+path has no extension: %s
+cannot create directory
+not a directory: %s
+A Santa lives evil at NASA
+directory created: %s
+getcwd
+cannot get working directory
+cannot set working directory
+/etc/xdg
+XDG_CONFIG_DIRS
+XDG_CONFIG_HOME
+.config
+no override directories
+no primary override directory
+file opened: %s fd=%d
+cannot open file: %s: %s
+[%d]
+pipe
+cannot access directory: %s: %s
+/dev/console
+console opened: fd=%d
+console-stream
+console open
+console write
+DTDEVROOT
+/dev
+device directory: %s
+%s device names not defined
+checking %s device: %s
+%s%c
+UTDEVROOT
+device directory error: %s (%s): %s
+%s device access error: %s: %s
+%s%c%s
+missing parameter value
+%s: %.*s
+missing parameter qualifier
+missing parameter name
+unsupported parameter
+%s: %s=%s
+clock not available: %u
+nanosleep
+invalid async handle
+end: level %u: %s
+waiting: %ld
+begin: level %u: timeout %ld
+alarm handled
+task performed
+I/O operation handled
+wait timed out
+alarm added
+alarm starting
+next alarm: %ld
+task added
+task starting
+poll
+output transferred
+input transferred
+file alert monitor
+Beeb
+file output monitor
+file input monitor
+event starting
+short write
+event added
+event removed
+sigaddset
+sigemptyset
+pthread_setmask
+sigaction
+sigismember
+sigfillset
+signal monitor removed: %d
+destroying
+%s end-of-file: fd=%d sig=%d
+signal %d starting
+signal %d finished
+created
+signalfd
+signal monitor added: %d
+signal number not claimable
+signal number already claimed
+signal number in use
+%s: %d
+signal number not claimed: %d
+no obtainable signal number
+deactivating signal monitoring: %d
+%s signalfd monitor: sig=%d fd=%d
+%s read error: fd=%d sig=%d: %s
+activating signal monitoring: %d
+signal number not obtained: %d
+signalfd
+creating thread: %s
+thread not created: %s: %s
+pthread_key_create
+mutex lock
+mutex unlock
+thread starting: %s
+thread finished: %s
+pthread_setspecific
+queue-discarded-elements
+queue
+Port enable error: %u.%u: %s
+Port disable error: %u.%u: %s
+%s read error: fd=%d: %s
+%s end-of-file: fd=%d
+cannot open device: %s: %s
+device opened: %s: fd=%d
+/proc/sys/kernel/modprobe
+cannot open %s: %s
+cannot create device: %s: %s
+device closed: %s: fd=%d
+BRLTTY
+%s %s %s
+5.3.1
+pid-%u/%s/%d
+ioctl[UI_SET_PHYS]
+uinput opened: %s fd=%d
+write(struct uinput_user_dev)
+ioctl[UI_DEV_CREATE]
+ioctl[UI_SET_EVBIT]
+write(struct input_event)
+ioctl[UI_SET_KEYBIT]
+ioctl[UI_SET_SNDBIT]
+ioctl[UI_SET_LEDBIT]
+input/uinput
+xt00
+xtE0
+xtE1
+at00
+atE0
+atE1
+kernel module not installed: %s
+device created: %s mode=%06o major=%d minor=%d
+cannot fstat device: %d [%s]: %s
+not a character device: %s: fd=%d
+cannot open uinput device: %s: %s
+input event monitor opened: fd=%d
+input event monitor
+$%&21
+++'()345:;<=>?@ABCDWX
+FwnfhokmjilgEb7JN`OPQKLMGHIRSV
+Y]|\^_
+*8}a6d~
+10#"
+45&'
++|XFliwgok
+OjKGmfhRSPLMHEb
+`QyNI7
+J^\]
+CA?=;<X
+DB@>
+10#"
+45&'
+V[Z\
+O|KGy
+RSPLMH
+EWNQJ7IF
+klmno
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSc
+VWXu
+fdopen
+starting host command:%s
+close
+fcntl[F_DUPFD]
+fork
+execvp
+waitpid
+host command exit status: %d: %s
+host command termination signal: %d: %s
+host command stop signal: %d: %s
+unknown host command status: 0X%X: %s
+data file include loop: %s
+global-data-variables
+subtableExtension
+begin data variable listing
+end data variable listing
+global data variables
+prevoius data variable level
+%s not specified
+invalid escape sequence
+string operand too long
+variable name
+\x%02X
+\u%04X
+\U%08X
+dot number
+missing cell specification
+cells operand too long
+invalid dot number: %.1ls
+unknown %s: %.*ls
+no nested variables
+no outstanding condition
+already in else
+including data file: %s
+%.*s%.*s
+include file path
+can't remove global data variables
+illegal UTF-8 character at offset %u
+unget character count out of range: %u > %u
+invalid braille dot number: %.*ls
+dot specified more than once: %.1ls
+missing cell specification: %.*ls
+outstanding condition at end of file
+WCHAR_T
+ASCII//TRANSLIT
+pthread_rwlock_init
+lock descriptor allocated: %s
+POSIX
+UCS-%lu%cE
+wchar-charset
+current-charset
+fwrite
+invalid Unicode character
+ISO-8859-1
+iconv (char -> wchar_t) error: %s
+iconv (wchar_t -> unsigned char) error: %s
+charset-iconv
+iconv_open
+;*3$"
+xbrlapi
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.data.rel.ro
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

@@ -1,0 +1,2043 @@
+/lib64/ld-linux-x86-64.so.2
+	:@D(
+BB/ %
+# 'o
+WmDl
+6n1t
+,n?s
++Pe7
+libzeitgeist-2.0.so.0
+g_intern_static_string
+g_date_time_unref
+g_simple_async_result_set_op_res_gpointer
+g_signal_new
+g_build_filename
+sqlite3_bind_int64
+g_simple_async_result_complete
+g_main_loop_unref
+g_variant_type_checked_
+g_dbus_connection_unregister_object
+g_variant_builder_add_value
+g_value_get_variant
+g_malloc
+g_type_interface_peek_parent
+g_dbus_proxy_get_name
+g_once_init_enter
+_ITM_deregisterTMCloneTable
+g_object_unref
+sqlite3_column_blob
+g_dbus_proxy_get_object_path
+g_free
+g_type_get_qdata
+sqlite3_reset
+g_variant_new_from_data
+g_hash_table_remove
+g_type_free_instance
+g_simple_async_result_new
+g_type_fundamental_next
+sqlite3_exec
+g_variant_type_free
+g_slist_foreach
+g_signal_handlers_disconnect_matched
+g_type_register_fundamental
+g_variant_unref
+g_str_equal
+g_variant_builder_end
+g_slist_free
+g_variant_get_type_string
+g_variant_get_uint32
+g_once_init_leave
+g_async_initable_new_finish
+g_slist_reverse
+g_hash_table_lookup
+g_byte_array_unref
+g_ptr_array_unref
+g_dbus_message_new_method_reply
+g_type_name
+g_value_set_string
+g_value_get_object
+g_dbus_method_invocation_return_gerror
+g_variant_dup_string
+g_async_initable_new_async
+g_dbus_connection_send_message_with_reply_sync
+g_type_class_adjust_private_offset
+g_assertion_message_expr
+g_variant_builder_add
+g_return_if_fail_warning
+g_str_has_suffix
+g_io_error_quark
+g_variant_iter_new
+g_strconcat
+g_dbus_proxy_get_default_timeout
+g_variant_builder_new
+g_byte_array_sized_new
+g_time_val_to_iso8601
+g_type_interface_add_prerequisite
+g_quark_from_static_string
+g_signal_handlers_destroy
+g_simple_async_result_set_from_error
+g_slist_prepend
+g_idle_add_full
+g_object_new
+g_dbus_connection_send_message_with_reply
+g_bus_get_sync
+g_variant_builder_init
+sqlite3_column_int
+sqlite3_errmsg
+Borrow or rob
+g_dbus_message_set_body
+g_strcmp0
+g_error_copy
+g_variant_ref_sink
+g_variant_new_double
+g_variant_get_double
+g_ptr_array_add
+g_strdup_printf
+sqlite3_step
+g_type_class_peek_parent
+g_hash_table_get_keys
+g_hash_table_new_full
+__gmon_start__
+g_ptr_array_remove_index_fast
+g_warn_message
+sqlite3_column_int64
+g_object_ref
+g_byte_array_ref
+g_variant_n_children
+g_simple_async_result_get_op_res_gpointer
+g_realloc_n
+g_ptr_array_ref
+g_date_time_new_now_local
+g_variant_get_boolean
+g_param_spec_string
+g_value_get_string
+sqlite3_column_bytes
+g_dbus_connection_send_message_with_reply_finish
+g_type_check_class_cast
+sqlite3_column_text
+g_type_register_static
+g_type_set_qdata
+g_type_interface_peek
+g_type_class_add_private
+g_simple_async_result_get_type
+g_simple_async_result_propagate_error
+g_main_loop_new
+g_main_loop_run
+g_type_register_static_simple
+g_hash_table_insert
+g_type_is_a
+g_dbus_method_invocation_get_connection
+g_object_class_install_property
+g_log
+g_hash_table_unref
+g_slist_append
+g_error_new_literal
+g_variant_new_boolean
+g_variant_new_string
+g_param_spec_object
+g_type_instance_get_private
+g_dbus_message_new_method_call
+g_variant_iter_free
+g_byte_array_append
+g_variant_ref
+g_value_type_compatible
+g_dbus_connection_send_message
+g_variant_iter_next_value
+g_dbus_message_get_body
+g_list_free
+g_dbus_message_to_gerror
+g_str_hash
+sqlite3_bind_text
+g_date_time_format
+g_malloc0_n
+g_dbus_connection_register_object
+g_variant_get_size
+g_realloc
+g_hash_table_get_values
+g_memdup
+g_signal_emit_by_name
+g_type_check_instance_is_a
+g_str_has_prefix
+g_slice_alloc0
+g_variant_new
+g_type_check_instance_cast
+g_dbus_method_invocation_get_message
+_Jv_RegisterClasses
+g_simple_async_result_complete_in_idle
+g_get_current_time
+g_malloc0
+sqlite3_finalize
+g_object_notify
+g_clear_error
+sqlite3_prepare_v2
+g_strdup
+g_dbus_connection_emit_signal
+g_signal_connect_object
+sqlite3_last_insert_rowid
+g_signal_connect_data
+g_variant_type_new
+g_value_set_object
+g_dbus_proxy_get_connection
+g_getenv
+g_main_loop_quit
+sqlite3_free
+g_slice_free1
+_ITM_registerTMCloneTable
+g_error_matches
+g_dbus_proxy_get_type
+g_file_test
+g_variant_get_string
+g_quark_from_string
+g_strndup
+g_quark_to_string
+g_propagate_error
+g_variant_builder_close
+g_variant_iter_init
+g_type_add_interface_static
+g_async_result_get_source_object
+g_variant_builder_unref
+g_variant_new_uint32
+g_type_create_instance
+g_variant_get_data
+g_variant_builder_open
+g_error_free
+g_ptr_array_new_full
+g_cclosure_marshal_VOID__STRING
+zeitgeist_subject_get_text
+zeitgeist_event_get_manifestation
+zeitgeist_data_source_set_enabled
+zeitgeist_time_range_new_anytime
+zeitgeist_manifestation_for_uri
+zeitgeist_subject_set_current_uri
+zeitgeist_remote_simple_indexer_search
+zeitgeist_engine_error_quark
+zeitgeist_events_from_variant
+zeitgeist_subject_get_origin
+zeitgeist_subject_get_interpretation
+zeitgeist_remote_registry_get_type
+zeitgeist_data_source_new_from_variant
+zeitgeist_events_to_variant
+zeitgeist_sq_lite_database_insert_or_ignore_into_table
+zeitgeist_subject_get_uri
+zeitgeist_sq_lite_database_begin_transaction
+zeitgeist_event_get_payload
+zeitgeist_data_source_set_timestamp
+zeitgeist_remote_registry_register_object
+zeitgeist_subject_get_current_origin
+zeitgeist_db_reader_find_event_ids
+zeitgeist_time_range_intersect
+zeitgeist_network_manager_dbus_proxy_get_type
+zeitgeist_remote_monitor_proxy_get_type
+zeitgeist_remote_log_register_object
+zeitgeist_utils_get_database_file_path
+zeitgeist_event_set_id
+zeitgeist_remote_log_proxy_get_type
+zeitgeist_data_source_set_description
+zeitgeist_time_range_get_end
+zeitgeist_remote_simple_indexer_proxy_get_type
+zeitgeist_utils_using_in_memory_database
+zeitgeist_subject_get_current_uri
+zeitgeist_subject_get_manifestation
+zeitgeist_timestamp_from_now
+zeitgeist_event_to_variant
+zeitgeist_event_matches_template
+zeitgeist_db_reader_close
+zeitgeist_data_source_to_variant
+zeitgeist_event_new_from_variant
+zeitgeist_db_reader_get_events
+zeitgeist_data_source_get_enabled
+zeitgeist_db_reader_get_database
+zeitgeist_time_range_new_from_variant
+zeitgeist_utils_get_data_path
+zeitgeist_remote_simple_indexer_search_finish
+zeitgeist_connman_manager_dbus_get_type
+zeitgeist_data_source_new_full
+zeitgeist_data_source_get_unique_id
+zeitgeist_subject_get_storage
+zeitgeist_subject_set_manifestation
+zeitgeist_remote_simple_indexer_get_type
+zeitgeist_time_range_to_variant
+zeitgeist_utils_get_local_extensions_path
+zeitgeist_time_range_get_start
+zeitgeist_utils_is_empty_string
+zeitgeist_event_get_subjects
+zeitgeist_sq_lite_database_new
+zeitgeist_data_source_set_event_templates
+zeitgeist_remote_monitor_get_type
+zeitgeist_sq_lite_database_assert_query_success
+zeitgeist_sq_lite_database_analyze
+zeitgeist_interpretation_for_mimetype
+zeitgeist_sq_lite_database_assert_not_corrupt
+zeitgeist_events_to_variant_with_limit
+zeitgeist_db_reader_find_events
+zeitgeist_remote_simple_indexer_search_with_relevancies_finish
+zeitgeist_remote_log_quit
+zeitgeist_data_source_get_name
+zeitgeist_event_get_interpretation
+zeitgeist_db_reader_find_related_uris
+zeitgeist_data_source_set_name
+zeitgeist_data_model_error_quark
+zeitgeist_sq_lite_table_lookup_id_for_string
+zeitgeist_remote_simple_indexer_search_with_relevancies
+zeitgeist_remote_log_get_type
+zeitgeist_subject_set_interpretation
+zeitgeist_sq_lite_database_get_sql_string_from_event_ids
+zeitgeist_time_range_new
+zeitgeist_data_source_set_running
+zeitgeist_network_manager_dbus_get_type
+zeitgeist_event_num_subjects
+zeitgeist_sq_lite_database_set_cache_size
+zeitgeist_subject_get_mimetype
+zeitgeist_sq_lite_database_abort_transaction
+zeitgeist_network_manager_dbus_state
+zeitgeist_subject_set_current_origin
+zeitgeist_db_reader_get_type
+zeitgeist_event_get_origin
+zeitgeist_event_get_actor
+zeitgeist_data_sources_to_variant
+zeitgeist_remote_monitor_notify_delete
+zeitgeist_event_get_id
+zeitgeist_connman_manager_dbus_proxy_get_type
+zeitgeist_subject_set_storage
+zeitgeist_event_get_timestamp
+zeitgeist_sq_lite_database_end_transaction
+zeitgeist_remote_monitor_notify_insert
+zeitgeist_sq_lite_database_get_last_id
+zeitgeist_connman_manager_dbus_get_state
+zeitgeist_sq_lite_database_get_time_range_for_event_ids
+libgmodule-2.0.so.0
+g_module_symbol
+g_module_open
+g_module_close
+g_module_error
+libgio-2.0.so.0
+g_dir_close
+g_variant_new_variant
+g_dir_open
+g_variant_get_child_value
+g_spawn_command_line_async
+g_option_context_free
+g_strsplit
+g_type_module_use
+g_type_module_get_type
+g_value_set_gtype
+g_variant_new_tuple
+g_value_get_gtype
+g_type_module_unuse
+g_hash_table_iter_next
+g_cclosure_marshal_VOID__VOID
+g_variant_get_variant
+g_option_context_new
+g_variant_iter_loop
+g_cclosure_new
+g_dir_read_name
+g_hash_table_iter_init
+g_object_get
+g_param_spec_gtype
+g_ptr_array_foreach
+g_bus_unown_name
+g_initable_new
+g_dbus_connection_signal_subscribe
+g_file_get_uri_scheme
+g_bus_own_name_on_connection_with_closures
+g_dbus_connection_get_type
+g_dbus_connection_flush_sync
+g_bus_unwatch_name
+g_dbus_connection_call
+g_dbus_is_unique_name
+g_bus_watch_name_with_closures
+g_file_new_for_uri
+libgobject-2.0.so.0
+g_object_ref_sink
+g_type_module_register_type
+g_initially_unowned_get_type
+g_type_module_add_interface
+g_type_module_set_name
+libglib-2.0.so.0
+g_slist_find_custom
+g_strsplit_set
+g_log_set_handler
+g_timer_elapsed
+g_option_context_parse
+g_timeout_add_seconds_full
+g_option_context_add_main_entries
+g_timeout_add_full
+g_timer_destroy
+g_spawn_error_quark
+g_date_time_get_microsecond
+g_timer_new
+g_utf8_strup
+libsqlite3.so.0
+sqlite3_changes
+sqlite3_bind_blob
+sqlite3_bind_null
+sqlite3_bind_int
+libpthread.so.0
+libc.so.6
+fopen
+__stack_chk_fail
+memchr
+getpid
+strtol
+strlen
+__fprintf_chk
+stdout
+fclose
+stderr
+fwrite
+__libc_start_main
+_edata
+__bss_start
+zeitgeist_builtin_extension_get_type
+zeitgeist_remote_search_engine_search_with_relevancies
+zeitgeist_search_engine_get_type
+zeitgeist_builtin_extension_new
+zeitgeist_monitor_manager_install_monitor
+zeitgeist_extension_loader_set_extension_type
+zeitgeist_search_engine_wait_for_proxy_finish
+zeitgeist_remote_dbus_get_type
+__libc_csu_fini
+zeitgeist_daemon_unregister_dbus_object
+zeitgeist_remote_storage_monitor_get_type
+zeitgeist_extension_collection_call_post_delete_events
+zeitgeist_engine_new_with_builtins
+zeitgeist_extension_loader_construct
+zeitgeist_nm_network_monitor_new
+zeitgeist_connman_network_monitor_new
+zeitgeist_logging_setup_logging
+zeitgeist_monitor_manager_get_default
+zeitgeist_engine_delete_events
+zeitgeist_remote_blacklist_proxy_register_dynamic_type
+zeitgeist_monitor_manager_get_type
+zeitgeist_extension_collection_construct
+zeitgeist_remote_blacklist_register_object
+zeitgeist_histogram_register_type
+zeitgeist_remote_search_engine_search_with_relevancies_finish
+zeitgeist_engine_construct
+zeitgeist_extension_store_store
+zeitgeist_remote_benchmarker_register_type
+zeitgeist_extension_collection_call_post_insert_events
+zeitgeist_extension_set_engine
+zeitgeist_daemon_new
+zeitgeist_blacklist_register_type
+zeitgeist_extension_store_retrieve
+zeitgeist_remote_blacklist_proxy_get_type
+zeitgeist_storage_media_to_variant
+zeitgeist_monitor_manager_notify_insert
+zeitgeist_extension_pre_delete_events
+zeitgeist_remote_benchmarker_get_type
+zeitgeist_extension_store_new
+zeitgeist_extension_loader_get_type
+zeitgeist_extension_unload
+zeitgeist_remote_search_engine_register_type
+zeitgeist_storage_monitor_add_storage_medium
+zeitgeist_remote_histogram_proxy_register_dynamic_type
+zeitgeist_remote_storage_monitor_register_type
+_IO_stdin_used
+zeitgeist_fts_init
+zeitgeist_logging_log_file
+__data_start
+zeitgeist_extension_get_type
+zeitgeist_extension_get_engine
+zeitgeist_extension_collection_call_pre_insert_events
+zeitgeist_data_source_registry_extension_get_type
+zeitgeist_storage_monitor_register_type
+zeitgeist_remote_dbus_name_has_owner
+alula
+zeitgeist_connman_network_monitor_construct
+zeitgeist_data_source_registry_extension_register_type
+zeitgeist_remote_search_engine_search
+zeitgeist_blacklist_init
+zeitgeist_benchmarker_register_type
+zeitgeist_extension_store_get_type
+zeitgeist_remote_dbus_proxy_get_type
+zeitgeist_remote_benchmarker_find_events_finish
+zeitgeist_monitor_manager_remove_monitor
+zeitgeist_network_monitor_setup
+zeitgeist_remote_histogram_proxy_get_type
+zeitgeist_remote_search_engine_proxy_get_type
+zeitgeist_search_engine_register_type
+zeitgeist_extension_loader_create_instance
+zeitgeist_nm_network_monitor_get_type
+zeitgeist_extension_collection_get_type
+zeitgeist_remote_dbus_register_object
+zeitgeist_daemon_get_type
+__libc_csu_init
+zeitgeist_monitor_manager_notify_delete
+zeitgeist_module_loader_get_module_path
+zeitgeist_histogram_get_type
+zeitgeist_connman_network_monitor_register_type
+zeitgeist_daemon_construct
+zeitgeist_module_loader_construct
+zeitgeist_blacklist_get_type
+zeitgeist_storage_monitor_init
+zeitgeist_storage_monitor_remove_storage_medium
+zeitgeist_remote_blacklist_get_type
+zeitgeist_engine_construct_with_builtins
+zeitgeist_benchmarker_get_type
+zeitgeist_builtin_extension_construct
+zeitgeist_nm_network_monitor_construct
+zeitgeist_extension_construct
+zeitgeist_blacklist_templates_to_variant
+zeitgeist_engine_get_extension_names
+zeitgeist_extension_retrieve_config
+zeitgeist_histogram_construct
+zeitgeist_blacklist_templates_from_variant
+zeitgeist_data_source_registry_extension_init
+zeitgeist_remote_blacklist_get_templates
+zeitgeist_connman_network_monitor_get_type
+zeitgeist_network_monitor_register_type
+zeitgeist_extension_store_config
+zeitgeist_histogram_new
+zeitgeist_remote_search_engine_register_object
+zeitgeist_remote_storage_monitor_proxy_get_type
+zeitgeist_extension_store_construct
+zeitgeist_remote_histogram_register_type
+zeitgeist_module_loader_get_type
+zeitgeist_nm_network_monitor_register_type
+zeitgeist_logging_log_handler
+zeitgeist_daemon_register_dbus_object
+zeitgeist_storage_monitor_get_type
+zeitgeist_remote_blacklist_remove_template
+zeitgeist_remote_storage_monitor_get_storages
+zeitgeist_module_loader_new
+zeitgeist_data_sources_registry_from_variant
+zeitgeist_remote_benchmarker_register_object
+zeitgeist_extension_loader_get_extension_type
+zeitgeist_extension_collection_get_engine
+zeitgeist_engine_get_type
+zeitgeist_remote_histogram_get_type
+zeitgeist_remote_storage_monitor_proxy_register_dynamic_type
+zeitgeist_remote_benchmarker_proxy_get_type
+zeitgeist_remote_search_engine_get_type
+zeitgeist_remote_benchmarker_proxy_register_dynamic_type
+zeitgeist_logging_get_log_level_string
+zeitgeist_remote_blacklist_register_type
+zeitgeist_network_monitor_get_type
+zeitgeist_remote_histogram_register_object
+zeitgeist_remote_storage_monitor_register_object
+zeitgeist_histogram_init
+zeitgeist_remote_blacklist_add_template
+zeitgeist_engine_new
+zeitgeist_search_engine_wait_for_proxy
+zeitgeist_remote_benchmarker_find_events
+zeitgeist_benchmark_init
+zeitgeist_extension_collection_call_pre_delete_events
+zeitgeist_remote_histogram_get_histogram_data
+zeitgeist_engine_insert_events
+zeitgeist_extension_pre_insert_events
+zeitgeist_extension_collection_new
+zeitgeist_extension_post_insert_events
+zeitgeist_extension_collection_get_extension_names
+zeitgeist_extension_post_delete_events
+zeitgeist_remote_search_engine_proxy_register_dynamic_type
+zeitgeist_remote_search_engine_search_finish
+GLIBC_2.4
+GLIBC_2.3.4
+GLIBC_2.2.5
+5Ru"
+%Tu"
+%Ru"
+%Ju"
+%Bu"
+%:u"
+%2u"
+%*u"
+%"u"
+%zt"
+%rt"
+%jt"
+%bt"
+%Zt"
+%Rt"
+%Jt"
+%Bt"
+%:t"
+%2t"
+%*t"
+%"t"
+%zs"
+%rs"
+%js"
+%bs"
+%Zs"
+%Rs"
+%Js"
+%Bs"
+%:s"
+%2s"
+%*s"
+%"s"
+%zr"
+%rr"
+%jr"
+%br"
+%Zr"
+%Rr"
+%Jr"
+%Br"
+%:r"
+%2r"
+%*r"
+%"r"
+%zq"
+%rq"
+%jq"
+%bq"
+%Zq"
+%Rq"
+%Jq"
+%Bq"
+%:q"
+%2q"
+%*q"
+%"q"
+%zp"
+%rp"
+%jp"
+%bp"
+%Zp"
+%Rp"
+%Jp"
+%Bp"
+%:p"
+%2p"
+%*p"
+%"p"
+%zo"
+%ro"
+%jo"
+%bo"
+%Zo"
+%Ro"
+%Jo"
+%Bo"
+%:o"
+%2o"
+%*o"
+%"o"
+%zn"
+%rn"
+%jn"
+%bn"
+%Zn"
+%Rn"
+%Jn"
+%Bn"
+%:n"
+%2n"
+%*n"
+%"n"
+%zm"
+%rm"
+%jm"
+%bm"
+%Zm"
+%Rm"
+%Jm"
+%Bm"
+%:m"
+%2m"
+%*m"
+%"m"
+%zl"
+%rl"
+%jl"
+%bl"
+%Zl"
+%Rl"
+%Jl"
+%Bl"
+%:l"
+%2l"
+%*l"
+%"l"
+%zk"
+%rk"
+%jk"
+%bk"
+%Zk"
+%Rk"
+%Jk"
+%Bk"
+%:k"
+%2k"
+%*k"
+%"k"
+%zj"
+%rj"
+%jj"
+%bj"
+%Zj"
+%Rj"
+%Jj"
+%Bj"
+%:j"
+%2j"
+%*j"
+%"j"
+%B^"
+%J^"
+%J^"
+AUATUSH
+D$(1
+T$(dH3
+8[]A\A]
+h+8B
+D$hH
+ATE1
+hS8B
+hH;B
+h+8B
+h88B
+d$pH
+d$ M
+='e"
+=jc"
+=^c"
+AUATI
+ATE1
+XZtQH
+[]A\A]
+AVAUI
+ZY[]A\A]A^
+ATUI
+[]A\
+[]A\H
+ATUI
+AUATI
+[]A\A]
+ATUI
+AUATI
+[]A\A]
+AUATI
+[]A\A]
+ATUI
+AWAVM
+AUATI
+k8t\H
+[]A\A]A^A_
+AWAVI
+AUATI
+T$PL
+[]A\A]A^A_
+AWAVA
+AUATM
+T$PL
+[]A\A]A^A_
+AWAVA
+AUATI
+D$hH
+T$xD
+l$`H
+D$pH
+([]A\A]A^A_
+VPSASA
+AWAVA
+AUATI
+D$hH
+T$xD
+l$`H
+D$pH
+([]A\A]A^A_
+VPUA
+ZtLI
+=#D"
+AVAUI
+ATUH
+[]A\A]A^
+USt*
+AWAVI
+AUATI
+D$pH
+T$(H
+T$(H
+8[]A\A]A^A_
+SASj
+ATU1
+[]A\
+AWAVM
+AUATI
+[]A\A]A^A_
+AWAVA
+AUATM
+T$PL
+[]A\A]A^A_
+ATUSt/H
+[]A\H
+AUATI
+[]A\A]
+ATUI
+[]A\
+ATUH
+ []A\
+5p+"
+ATUI
+ATUI
+AVAUI
+ATUH
+[]A\A]A^
+AWAVM
+AUATI
+C`tLH
+[]A\A]A^A_
+AWAVM
+AUATA
+[]A\A]A^A_
+ATUStOH
+AWAVI
+AUATM
+D$`H
+T$pH
+|$hH
+EPY^H
+8[]A\A]A^A_
+([]A\A]A^A_
+AWAVAUATUSH
+D$H1
+|$ H
+|$ H
+D$HdH3
+X[]A\A]A^A_
+ATU1
+[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+([]A\A]A^A_
+AWAVAUATI
+_AXH
+[]A\A]A^A_
+D$h1
+T$Pf
+L$Rf
+D$ H
+L$ E1
+D$hdH3
+AUATI
+ATE1
+[]A\A]
+AVAUI
+ATUI
+ATE1
+[]A\A]A^
+AUATI
+ATE1
+XZtyH
+[]A\A]
+ATUI
+[]A\
+AVAUI
+ZYt6E1
+]A\A]A^
+AUATI
+[]A\A]
+AUATI
+[]A\A]
+ATU1
+[]A\
+AVAUATUSH
+ uEM
+]A\A]A^
+jTj@E1
+jTj@E1
+AWAVI
+AUATE1
+[]A\A]A^A_
+tKAUATI
+[]A\A]
+AUATI
+[]A\A]
+ATUH
+[]A\
+t3ATUH
+[]A\H
+AUATI
+[]A\A]
+AWAVAUATUSH
+D$(1
+t$ I
+D$ H
+t$ H
+L$(dH3
+8[]A\A]A^A_
+AWAVAUATI
+_AXH
+[]A\A]A^A_
+AUATUSH
+D$81
+L$8dH3
+H[]A\A]
+tKUSH
+AUATE1
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+D$ H
+[]A\A]A^A_
+St*H
+D$h1
+T$Pf
+L$Rf
+D$ H
+D$@P>A
+L$ E1
+D$hdH3
+AUATI
+ATE1
+XZtyH
+[]A\A]
+AVAUI
+ZY[]A\A]A^
+AUATI
+[]A\A]
+ATU1
+[]A\
+AWAVI
+AUATI
+([]A\A]A^A_
+ATUH
+[]A\
+St*H
+D$h1
+T$Pf
+L$Rf
+D$ H
+D$80DA
+D$@0[A
+L$ E1
+D$hdH3
+AUATI
+ATE1
+XZtyH
+[]A\A]
+ATUI
+[]A\
+AVAUI
+ZYt6E1
+Degas are we not drawn onward no In union drawn onward to new eras aged
+]A\A]A^
+ATUI
+[]A\
+AUATI
+[]A\A]
+@0 JA
+@0`IA
+AVAUATUI
+D$81
+D$01
+D$0H
+AYAZ
+D$01
+D$0H
+D$01
+D$0H
+L$ E1
+T$ H
+D$01
+D$0H
+L$(E1
+T$(H
+D$01
+D$0H
+_AXM
+t$8dH34%(
+@[]A\A]A^
+t$0H
+t$0H
+ATU1
+[]A\
+AVAUATUSH
+ uEM
+]A\A]A^
+t[US
+h``B
+hufB
+h``B
+T$PH
+t~USH
+hufB
+hKfB
+T$PH
+jTj@E1
+h TA
+AWAVAUATI
+([]A\A]A^A_
+ATUH
+[]A\
+t#SH
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+([]A\A]A^A_
+AVAUATUSH
+[]A\A]A^
+ATUSH
+[]A\
+St:H
+G(PpA
+D$h1
+T$Pf
+L$Rf
+D$ H
+D$8@vA
+L$ E1
+D$hdH3
+AWAVAUATI
+|$ H
+|$ H
+|$ L
+[]A\A]A^A_
+AVAUI
+ATUH
+[]A\A]A^
+AWAVI
+AUATI
+|$ H
+|$ L
+|$ L
+|$ H
+|$ H
+|$ H
+|$ H
+[]A\A]A^A_
+AWAVI
+AUATI
+|$ H
+|$ L
+|$ L
+|$ H
+|$ H
+|$ H
+[]A\A]A^A_
+AVAUI
+ZY[]A\A]A^
+AWAVI
+AUATM
+t$PH
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUM
+ATUI
+[]A\A]A^
+[]A\A]A^
+@0@wA
+AVAUATUSH
+u	E1
+ []A\A]A^
+ATU1
+[]A\
+t	H;
+S,twH
+AUATI
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+|$ L
+|$PH
+|$PH
+h(qB
+h+8B
+AWAVAUATI
+t$PL
+|$XH
+l$`H
+l$`L
+|$XL
+t$PD
+[]A\A]A^A_
+AUATI
+[]A\A]
+|$ H
+AWAVAUATI
+t$`D
+|$hH
+l$pL
+d$xH
+d$xH
+l$pL
+|$hD
+t$`H
+([]A\A]A^A_
+AWAV
+AUAT
+[]A\A]A^A_
+|$ L
+|$ I
+|$ I
+PAWD
+L$8D
+|$ L
+|$ I
+|$ I
+D$ H
+L$0D
+AVAUI
+ATUH
+t$@L
+t$@L
+[]A\A]A^
+AUATI
+L$(H
+[]A\A]
+~0f.
+|$ H
+|$ H
+ATUI
+[]A\
+[]A\H
+CHSh
+ARPH
+{PY^H
+AWAVE
+AUATI
+D$`H
+T$xH
+D$hH
+D$pH
+([]A\A]A^A_
+CHSh
+AWAVE
+AUATI
+D$`H
+T$pH
+D$hH
+([]A\A]A^A_
+St*H
+D$h1
+T$Pf
+L$Rf
+D$ H
+D$80
+L$ E1
+D$hdH3
+AUATI
+[]A\A]
+AWAVI
+AUATI
+|$ L
+|$ L
+|$ H
+|$ H
+|$ H
+[]A\A]A^A_
+AVAUI
+ZY[]A\A]A^
+AUATI
+[]A\A]
+ATU1
+[]A\
+ATUI
+AWAVA
+AUATE
+T$hH
+D$`D
+([]A\A]A^A_
+AWAVAUATA
+5/s!
+t$PL
+|$XD
+|$XL
+t$PD
+[]A\A]A^A_
+AWAV
+AUAT
+[]A\A]A^A_
+ATUH
+5bq!
+[]A\H
+AVAUATUH
+[]A\A]A^
+|$ L
+|$PH
+=`o!
+=Co!
+=&o!
+=	o!
+St*H
+ATUS
+[]A\
+AUATUSH
+[]A\A]
+ATUSH
+=Bi!
+ATUSH
+[]A\
+AUATUSH
+[]A\A]
+AWAVAUATUSH
+D$81
+T$(H
+D$ H
+D$0H
+D$ H
+D$8dH3
+H[]A\A]A^A_
+D$0H
+D$ H
+D$0H
+D$ H
+D$0H
+D$ H
+D$0H
+D$ H
+|$ H
+D$0H
+D$ H
+D$0H
+D$ H
+t$0H
+D$ H
+D$ H
+t$0H
+\$0L
+D$0H
+D$ H
+D$0H
+D$ H
+|$ H
+D$0H
+D$ H
+t$0H
+AUATI
+([]A\A]
+AWAVI
+AUATI
+([]A\A]A^A_
+AWAVAUATUSH
+L$HH
+|$(dH
+L$x1
+T$8L
+D$@H
+D$pE1
+D$`H
+]A\H
+D$`H
+A[[1
+L$xdH3
+[]A\A]A^A_
+\$(H
+T$8L
+t$`H
+D$`H
+t$pH
+T$0H
+|$(L
+D$`H
+l$`H
+|$(H
+t$0H
+D$`H
+t$`H
+t$`H
+t$0H
+D$`H
+l$hH
+D$pL
+d$(A
+D$PM
+T$`H
+L$ B
+D$HH
+T$PH
+D$pH
+|$pH
+\$pH
+l$(H
+D$hH
+l$0H
+D$hH
+l$@H
+D$hH
+L$(L
+D$hH
+L$0L
+D$hH
+L$8L
+D$hH
+D$hH
+t$hH
+|$(L
+t$0H
+D$`H
+D$(H
+T$8L
+D$HH
+t$`H
+T$PH
+D$pH
+|$pH
+L$pH
+t$`H
+D$HL
+\$(H
+D$hH
+\$0H
+D$hH
+\$@H
+D$hH
+D$hH
+t$`H
+AWAVAUATUSH
+D$H1
+D$4I
+|$8H
+d$4I
+D$8H
+D$@H
+T$ H
+L$(L
+D$8H
+t$8H
+L$HdH3
+X[]A\A]A^A_
+t$8H
+=X;!
+ATUI
+[]A\H
+ATUI
+=W:!
+[]A\
+t SH
+tiATUH
+[]A\H
+AUATUSH
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+AVAUI
+ATUH
+ []A\A]A^
+]A\A]A^
+AUATI
+([]A\A]
+[]A\A]
+ATUS
+$trH
+[]A\
+C@uv
+=u,!
+AVAUI
+ATUH
+ []A\A]A^
+]A\A]A^
+AUATI
+([]A\A]
+[]A\A]
+=I*!
+=t)!
+ATUI
+=G)!
+[]A\
+AVAUI
+ATUH
+ []A\A]A^
+D$@H
+T$@L
+[]A\A]A^
+[]A\A]A^H
+AUATI
+([]A\A]
+[]A\A]
+=e&!
+ATUI
+=?&!
+[]A\
+ATUH
+SHc6H
+[]A\
+USt*
+AVAUATUS
+]A\A]A^
+[]A\A]A^
+]A\A]A^
+]A\A]A^
+AWAVAUATUSH
+([]A\A]A^A_
+AWAVAUATUSH
+D$(1
+T$(dH3
+8[]A\A]A^A_
+AWAVAUATI
+E;t$
+[]A\A]A^A_
+AWAVAUATI
+E;t$
+[]A\A]A^A_
+AWAVAUATUSH
+([]A\A]A^A_
+t{AWAVI
+AUATA
+[]A\A]A^A_
+ATUA
+[]A\H
+AVAUI
+ATUH
+ []A\A]A^
+[]A\A]A^
+[]A\A]A^H
+AUATI
+([]A\A]
+[]A\A]
+AUATUSH
+D$(1
+d$ 1
+D$ H
+D$ H
+\$(dH3
+8[]A\A]
+t$ H
+t$ H
+AVAUATUSH
+[]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+ATUSH
+[]A\
+[]A\
+AWAVAUATUSH
+D$81
+l$ D
+D$8dH3
+H[]A\A]A^A_
+ATUH
+]A\1
+tSSH
+ATUSH
+[]A\
+AUATUSH
+[]A\A]
+AWAV1
+AUATI
+[]A\A]A^A_
+T$ H
+ATQH
+]A\A]A^
+]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+D$H1
+L$@H
+D$8H
+|$ H
+t	L;0
+D$(L
+D$(H
+D$HdH3
+X[]A\A]A^A_
+T$0H
+D$(1
+D$@1
+D$(L
+L$(A
+AWAVAUATUSH
+D$81
+L$ H
+D$0H
+t	H;
+t$$H
+D$ A
+D$8dH3
+H[]A\A]A^A_
+A Santa lives evil at NASA
+L$ H
+AVAUATUI
+[]A\A]A^
+AWAVA
+AUATL
+[]A\A]A^A_
+NameHasOwner
+org.freedesktop.DBus
+zeitgeist-datahub
+zeitgeist-daemon.c
+zeitgeist-daemon.vala:329: %s
+God A red nugget A fat egg under a dog
+conn != NULL
+owner != null
+Zeitgeist.Daemon.find_events
+self != NULL
+0.9.16
+Zeitgeist.Daemon.get_events
+ZeitgeistRemoteDBus
+vala-dbus-proxy-type
+vala-dbus-interface-name
+vala-dbus-interface-info
+vala-dbus-register-object
+ZeitgeistRemoteDBusProxy
+ZeitgeistDaemon
+ - Zeitgeist daemon
+0.9.16
+--%s 
+-%c 
+--help
+zeitgeist-daemon.vala:394: %s
+Zeitgeist is running already.
+zeitgeist-daemon.vala:420: %s
+zeitgeist-daemon.vala:504: %s
+g-name
+g-flags
+g-interface-info
+g-interface-name
+/org/freedesktop/DBus
+g-object-path
+g-connection
+org.gnome.zeitgeist.Engine
+org.gnome.zeitgeist.Log
+zeitgeist-daemon.vala:310: %s
+zeitgeist-daemon.vala:449: %s
+property
+version
+Beeb
+no-datahub
+no-passive-loggers
+replace
+quit
+log-level
+LEVEL
+log-file
+shell-completion
+result
+zeitgeist-daemon.vala:356: Timeout reached, unable to acquire name!
+file %s: line %d: unexpected error: %s (%s, %d)
+file %s: line %d: uncaught error: %s (%s, %d)
+zeitgeist-daemon.vala:348: Waiting 10 seconds to acquire name...
+Zeitgeist.Daemon.find_event_ids
+zeitgeist-daemon.vala:189: %s executed in %f seconds: found %i event ids
+zeitgeist-daemon.vala:205: %s executed in %f seconds: found %i events
+zeitgeist-daemon.vala:122: Unable to parse version info!
+zeitgeist-daemon.vala:160: %s executed in %f seconds: got %i events
+/org/gnome/zeitgeist/log/activity
+An existing instance was found. Please use --replace to stop it and start a new instance.
+Could not access the database file.
+Please check the permissions of file %s.
+It looks like another Zeitgeist instance is already running (the database is locked). If you want to start a new instance, use --replace.
+%s:%d: invalid %s id %u for "%s" of type '%s' in '%s'
+Print program's version number and exit
+Do not start zeitgeist-datahub automatically
+If another Zeitgeist instance is already running, replace it
+Quit running Zeitgeist daemon instance
+How much information should be printed; possible values: DEBUG, INFO, WARNING, ERROR, CRITICAL
+File to which the log output will be appended
+zeitgeist_daemon_real_get_events_co
+zeitgeist_daemon_real_find_related_uris_co
+zeitgeist_daemon_real_find_event_ids_co
+zeitgeist_daemon_real_find_events_co
+g_ptr_array_get_length
+zeitgeist_daemon_real_insert_events_co
+zeitgeist_daemon_real_delete_events_co
+zeitgeist_daemon_real_quit_co
+zeitgeist_daemon_real_install_monitor_co
+zeitgeist_daemon_real_remove_monitor_co
+zeitgeist_daemon_quit_running_instance
+zeitgeist_daemon_name_acquired_callback
+zeitgeist_daemon_do_quit
+zeitgeist_daemon_unregister_dbus_object
+zeitgeist_daemon_register_dbus_object
+zeitgeist_remote_dbus_name_has_owner
+ext-data-source-registry.c
+data-source-enabled
+sender != NULL
+sender_array != NULL
+<multiple>
+data-source-registered
+data-source-disconnected
+interface_name != NULL
+signal_name != NULL
+parameters != NULL
+registry
+events != NULL
+sources_variant != NULL
+a(sssa(asaasay)bxb)
+NameOwnerChanged
+module != NULL
+Datasource with unique ID: %s not found
+Zeitgeist.DataSourceRegistryExtension.set_data_source_enabled
+ext-data-source-registry.vala:225: %s: %s, %d
+ext-data-source-registry.vala:238: DataSource "%s" isn't registered!
+Zeitgeist.DataSourceRegistryExtension.register_data_source
+ext-data-source-registry.vala:157: %s: %s, %s, %s
+ext-data-source-registry.vala:161: %s: sender == null, ignoring request
+ext-data-source-registry.vala:320: Client disconnected: %s [%s]
+ext-data-source-registry.vala:328: No remaining client running: %s [%s]
+ext-data-source-registry.vala:129: %s
+Zeitgeist.DataSourceRegistryExtension.unload
+ext-data-source-registry.vala:133: %s, this.ref_count = %u
+g_strcmp0 (_tmp4_, ZEITGEIST_DATA_SOURCES_SIG_DATASOURCES) == 0
+ext-data-source-registry.vala:84: Error while loading datasource registry: %s
+ext-data-source-registry.vala:109: %s
+/org/gnome/zeitgeist/data_source_registry
+ZeitgeistDataSourceRegistryExtension
+zeitgeist_data_source_registry_extension_init
+zeitgeist_data_source_registry_extension_real_get_data_sources_co
+zeitgeist_data_source_registry_extension_real_register_data_source_co
+zeitgeist_data_source_registry_extension_real_set_data_source_enabled_co
+zeitgeist_data_source_registry_extension_real_get_data_source_from_id_co
+zeitgeist_data_source_registry_extension_is_sender_known
+zeitgeist_data_source_registry_extension_real_pre_insert_events
+g_ptr_array_get_length
+zeitgeist_data_source_registry_extension_name_owner_changed
+zeitgeist_data_source_registry_extension_flush
+zeitgeist_data_sources_registry_from_variant
+Eleele
+ZeitgeistRemoteBlacklistProxy
+RemoveTemplate
+org.gnome.zeitgeist.Blacklist
+AddTemplate
+GetTemplates
+TemplateAdded
+template-added
+TemplateRemoved
+template-removed
+ext-blacklist.vala:145: %s
+ext-blacklist.c
+Zeitgeist.Blacklist.unload
+n_param_values == 3
+template_added
+template_removed
+ZeitgeistRemoteBlacklist
+templates_variant != NULL
+a{s(asaasay)}
+blacklist
+ext-blacklist.vala:128: %s
+blacklist != NULL
+template_id != NULL
+event_template != NULL
+ZeitgeistBlacklist
+event_template
+(asassay)
+template_id
+ext-blacklist.vala:148: %s, this.ref_count = %u
+g_strcmp0 (_tmp4_, ZEITGEIST_BLACKLIST_TEMPLATES_SIG_BLACKLIST) == 0
+ext-blacklist.vala:110: Could not load blacklist from variant: %s
+/org/gnome/zeitgeist/blacklist
+ext-blacklist.vala:189: Removed blacklist template: [#%u]
+ext-blacklist.vala:195: Blacklist template [#%u] not found.
+ext-blacklist.vala:179: Added blacklist template: [#%u]
+zeitgeist_blacklist_init
+zeitgeist_blacklist_real_add_template
+zeitgeist_blacklist_flush
+zeitgeist_blacklist_real_remove_template
+zeitgeist_blacklist_real_pre_insert_events
+zeitgeist_blacklist_templates_to_variant
+zeitgeist_blacklist_templates_from_variant
+g_cclosure_user_marshal_VOID__STRING_VARIANT
+zeitgeist_remote_blacklist_remove_template
+zeitgeist_remote_blacklist_get_templates
+zeitgeist_remote_blacklist_add_template
+ZeitgeistRemoteHistogramProxy
+GetHistogramData
+org.gnome.zeitgeist.Histogram
+ext-histogram.vala:49: %s
+ext-histogram.c
+ext-histogram.vala:66: %s
+Zeitgeist.Histogram.unload
+a(xu)
+Error in get_histogram_data
+ZeitgeistRemoteHistogram
+ZeitgeistHistogram
+/org/gnome/zeitgeist/journal/activity
+ext-histogram.vala:69: %s, this.ref_count = %u
+                SELECT strftime('%s', datetime(timestamp/1000, 'unixepoch',
+                'localtime'), 'start of day') AS daystamp,
+                COUNT(*)
+                FROM event
+                GROUP BY daystamp
+                ORDER BY daystamp DESC
+                
+ext-histogram.vala:90: SQL error
+zeitgeist_histogram_init
+zeitgeist_remote_histogram_get_histogram_data
+ZeitgeistRemoteStorageMonitorProxy
+org.gnome.zeitgeist.StorageMonitor
+                SELECT value, state, icon, display_name
+                FROM storage
+                
+ext-storage-monitor.vala:237: Storage retrieval query error
+ext-storage-monitor.vala:246: Storage insertion query error
+ext-storage-monitor.vala:254: Storage update query error
+ext-storage-monitor.vala:263: insert_unavailable_medium_stmt error
+ext-storage-monitor.vala:272: update_medium_state_stmt error
+ext-storage-monitor.vala:136: Storage Monitor couldn't communicate with DB - bye
+ext-storage-monitor.vala:149: %s
+Do nine men interpret Nine men I nod
+org.freedesktop.NetworkManager
+                INSERT INTO storage (
+                    value, state, icon, display_name
+                ) VALUES (
+                    ?, ?, ?, ?
+                )
+                UPDATE storage SET 
+                state=?, icon=?, display_name=? 
+                WHERE value=?
+                
+                INSERT INTO storage (
+                    state, value
+                ) VALUES (
+                    ?, ?
+                )
+                UPDATE storage
+                SET state=?
+                WHERE value=?
+                
+/org/gnome/zeitgeist/storagemonitor
+ext-storage-monitor.vala:217: %s
+Zeitgeist.StorageMonitor.unload
+ext-storage-monitor.vala:220: %s, this.ref_count = %u
+ext-storage-monitor.vala:488: NetworkManager network state: %u
+ext-storage-monitor.vala:469: Creating NetworkManager network monitor
+/org/freedesktop/NetworkManager
+ext-storage-monitor.vala:482: %s
+ext-storage-monitor.vala:536: ConnmanNetworkMonitor network state: %s
+ext-storage-monitor.vala:512: Creating ConnmanNetworkManager network monitor
+ext-storage-monitor.vala:530: %s
+ext-storage-monitor.vala:390: Could not add storage medium: %s
+ext-storage-monitor.vala:370: %s
+ext-storage-monitor.vala:416: Could not remove storage medium: %s
+ext-storage-monitor.vala:399: %s
+ZeitgeistConnmanNetworkMonitor
+GetStorages
+StorageAvailable
+storage-available
+StorageUnavailable
+storage-unavailable
+ext-storage-monitor.c
+net.connman
+on-network-up
+on-network-down
+g-bus-type
+state-changed
+state != NULL
+online
+net.connman.Manager
+storage_available
+storage_unavailable
+on_network_up
+on_network_down
+uri != NULL
+unknown
+ZeitgeistRemoteStorageMonitor
+connection != NULL
+Tacocat
+name_owner != NULL
+ZeitgeistNetworkMonitor
+a{sv}
+icon
+display-name
+medium_name != NULL
+icon != NULL
+display_name != NULL
+a(sa{sv})
+get_storages
+add_storage_medium
+VOLUME ADDED: %s
+Internet
+stock_internet
+remove_storage_medium
+VOLUME REMOVED: %s
+ZeitgeistStorageMonitor
+ZeitgeistNMNetworkMonitor
+davs
+http
+https
+mailto
+sftp
+storage_id
+storage_description
+zeitgeist_storage_monitor_init
+zeitgeist_connman_network_monitor_on_state_changed
+zeitgeist_nm_network_monitor_on_state_changed
+zeitgeist_storage_monitor_find_storage_for_uri
+g_ptr_array_get_length
+zeitgeist_storage_monitor_real_pre_insert_events
+zeitgeist_storage_monitor_prepare_queries
+zeitgeist_storage_monitor_name_appeared_handler
+zeitgeist_storage_monitor_remove_storage_medium
+zeitgeist_storage_monitor_add_storage_medium
+zeitgeist_storage_media_to_variant
+zeitgeist_network_monitor_setup
+g_cclosure_user_marshal_VOID__STRING_VARIANT
+zeitgeist_remote_storage_monitor_get_storages
+ZeitgeistRemoteSearchEngineProxy
+org.gnome.zeitgeist.SimpleIndexer
+/org/gnome/zeitgeist/monitor/special
+ext-fts.vala:175: %s, this.ref_count = %u
+Not connected to SimpleIndexer
+/org/gnome/zeitgeist/index/activity
+ext-fts.vala:207: Got %u[/%u] results from indexer (in %f seconds)
+ext-fts.vala:188: Got %u[/%u] results from indexer (in %f seconds)
+SearchWithRelevancies
+org.gnome.zeitgeist.Index
+Search
+ext-fts.c
+ext-fts.vala:136: %s
+res != NULL
+ext-fts.vala:172: %s
+Zeitgeist.SearchEngine.unload
+{?*}
+UpdateActivationEnvironment
+ext-fts.vala:107: %s
+ZEITGEIST_DATA_PATH
+a{ss}
+ZeitgeistRemoteSearchEngine
+ZeitgeistSearchEngine
+matches
+relevancies
+a(asaasay)
+result_type
+count
+offset
+storage_state
+filter_templates
+time_range
+(xx)
+query_string
+zeitgeist_fts_init
+zeitgeist_search_engine_real_search_co
+zeitgeist_search_engine_real_search_with_relevancies_co
+zeitgeist_search_engine_proxy_acquired
+zeitgeist_search_engine_wait_for_proxy_co
+ZeitgeistRemoteBenchmarkerProxy
+/org/gnome/zeitgeist/benchmark
+ext-benchmark.vala:110: %s, this.ref_count = %u
+FindEvents
+org.gnome.zeitgeist.Benchmark
+ext-benchmark.vala:53: %s
+ext-benchmark.c
+ext-benchmark.vala:107: %s
+Zeitgeist.Benchmarker.unload
+find_event_ids
+marsh_events
+ZeitgeistRemoteBenchmarker
+ZeitgeistBenchmarker
+num_events
+event_templates
+zeitgeist_benchmark_init
+zeitgeist_benchmarker_real_find_events_co
+ZeitgeistEngineDataInserter
+' for value type `
+invalid object type `
+db != NULL
+data_type != NULL
+engine.c
+stmt != NULL
+table != NULL
+val != NULL
+text
+storage
+database
+event != NULL
+event.id == 0
+event.num_subjects () > 0
+engine.vala:385: %s
+engine.vala:392: SQL Error
+event_ids.length > 0
+sql != NULL
+engine.vala:393: %s
+ZeitgeistEngine
+invalid unclassed object pointer for value type `
+engine.vala:200: DataInserter: destroyed with unflushed data
+value location for `%s' passed as NULL
+Events with two subjects with the same URI are not supported
+Incomplete event: interpretation, manifestation and actor are required
+Incomplete event: subject without URI
+http://www.zeitgeist-project.com/ontologies/2010/01/27/zg#MoveEvent
+Redundant event: event.interpretation indicates the uri has been moved yet the subject.uri and subject.current_uri are identical
+Illegal event: unless event.interpretation is 'MOVE_EVENT' then subject.uri and subject.current_uri have to be the same
+Illegal event: unless event.interpretation is 'MOVE_EVENT' then subject.origin and subject.current_origin have to be the same
+engine.vala:464: SQL error: %d, %s
+engine.vala:330: SQL error: %d, %s
+engine.vala:352: SQL error: %d, %s
+engine.vala:439: SQL error: %d, %s
+Tried to delete non-existing event(s): %s
+DELETE FROM event WHERE id IN (%s)
+Deleted %d (out of %d) events.
+_sqlite3_exec
+zeitgeist_engine_delete_events
+zeitgeist_engine_bind_cached_reference
+zeitgeist_engine_insert_event
+g_ptr_array_get_length
+zeitgeist_engine_data_inserter_flush
+zeitgeist_engine_data_inserter_add
+zeitgeist_engine_data_inserter_construct
+zeitgeist_engine_insert_event_data
+zeitgeist_engine_preprocess_event
+zeitgeist_engine_insert_events
+zeitgeist_engine_get_extension_names
+engine
+extension-type
+module-path
+key != NULL
+data != NULL
+format != NULL
+ZeitgeistExtension
+extension.c
+engine != NULL
+extension.vala:176: %s
+zeitgeist_extension_register
+extension.vala:200: %s
+ZeitgeistExtensionLoader
+module_path != NULL
+ZeitgeistModuleLoader
+ZeitgeistBuiltinExtension
+builtin
+extension.vala:146: Loaded extension: %s
+Type implemented in "%s" does not subclass Zeitgeist.Extension!
+Type "%s" implemented by [%p] does not subclass Zeitgeist.Extension!
+zeitgeist_module_loader_set_module_path
+zeitgeist_module_loader_get_module_path
+zeitgeist_module_loader_construct
+zeitgeist_extension_loader_real_create_instance
+zeitgeist_extension_loader_set_extension_type
+zeitgeist_extension_loader_get_extension_type
+zeitgeist_extension_loader_create_instance
+zeitgeist_extension_real_pre_insert_events
+zeitgeist_extension_real_post_insert_events
+zeitgeist_extension_set_engine
+zeitgeist_extension_get_engine
+zeitgeist_extension_retrieve_config
+zeitgeist_extension_store_config
+zeitgeist_extension_post_delete_events
+zeitgeist_extension_pre_delete_events
+zeitgeist_extension_post_insert_events
+zeitgeist_extension_pre_insert_events
+zeitgeist_extension_unload
+ext != NULL
+Zeitgeist
+_tmp12_
+loader != NULL
+_tmp8_
+ZEITGEIST_DISABLED_EXTENSIONS
+DESKTOP_SESSION
+UBUNTU_ENABLE_ZG_FTS
+extension-collection.c
+_tmp12_ <= _tmp13_
+num_events == events.length
+ZeitgeistExtensionCollection
+extension-collection.vala:123: Skipping %s (disabled)
+extension-collection.vala:91: Loading extension: "%s"
+extension-collection.vala:98: Ignored file "%s/%s"
+extension-collection.vala:80: Couldn't open local extensions directory: %s
+zeitgeist_extension_collection_set_engine
+_zeitgeist_extension_collection___lambda4_
+zeitgeist_extension_collection_get_engine
+zeitgeist_extension_collection_call_post_delete_events
+zeitgeist_extension_collection_call_pre_delete_events
+zeitgeist_extension_collection_call_post_insert_events
+zeitgeist_extension_collection_call_pre_insert_events
+string_substring
+g_ptr_array_get_length
+zeitgeist_extension_collection_get_extension_names
+string_slice
+zeitgeist_extension_collection_instantiate_extension
+zeitgeist_extension_collection_setup
+zeitgeist_extension_collection_construct
+                INSERT OR REPLACE INTO extensions_conf (
+                    extension, key, value
+                ) VALUES (
+                    ?, ?, ?
+                )
+extension-store.vala:59: Storage query error
+extension-store.vala:68: Retrieval query error
+                SELECT value
+                FROM extensions_conf
+                WHERE extension=? AND key=?
+                
+extension-store.vala:90: SQL error: %d, %s
+extension-store.vala:113: SQL error: %d, %s
+extension-store.c
+extension-store.vala:42: %s
+extension != NULL
+ZeitgeistExtensionStore
+zeitgeist_extension_store_retrieve
+zeitgeist_extension_store_store
+zeitgeist_extension_store_construct
+ERROR
+[31m
+CRITICAL
+WARNING
+MESSAGE
+[34m
+INFO
+DEBUG
+[32m
+UNKNOWN
+%s[%s %s]%s %s
+%Y-%m-%d %H:%M:%S
+%s,%.3d
+%d [%s] - %s - %s
+message != NULL
+(_tmp17_ + _tmp18_) <= _tmp19_
+string_substring
+zeitgeist_logging_log_handler
+@ZeitgeistMonitorManagerMonitor
+notify.vala:290: Installed new monitor for %s
+notify.vala:294: There's already a monitor installed for %s
+notify.vala:306: There's no monitor installed for %s
+notify.vala:300: Removing monitor %s%s
+notify.vala:81: Client disconnected %s
+notify.vala:234: Notifying %s about %d insertions
+notify.vala:241: Queueing notification about %d insertions
+notify.vala:91: Cannot subscribe to NameOwnerChanged signal! %s
+proxy_object != NULL
+proxy_object != null
+notify.c
+notify::g-name-owner
+notify.vala:161: %s
+peer != NULL
+object_path != NULL
+time_range != NULL
+templates != NULL
+%s#%s
+org.gnome.zeitgeist.Monitor
+ifc_name != NULL
+sig_name != NULL
+ZeitgeistMonitorManager
+_zeitgeist_monitor_manager____lambda7_
+zeitgeist_monitor_manager_monitor_queued_notification_new_deletion
+zeitgeist_monitor_manager_monitor_notify_delete
+zeitgeist_monitor_manager_notify_delete
+zeitgeist_monitor_manager_monitor_queued_notification_new_insertion
+zeitgeist_monitor_manager_monitor_notify_insert
+zeitgeist_monitor_manager_notify_insert
+g_ptr_array_get_length
+zeitgeist_monitor_manager_remove_monitor
+zeitgeist_monitor_manager_monitor_queued_notification_send
+zeitgeist_monitor_manager_monitor_flush_notifications
+zeitgeist_monitor_manager_monitor_name_owner_changed
+__lambda6_
+zeitgeist_monitor_manager_install_monitor
+;*3$"
+3f1a01596991e2d233114a86ec8e7abc4f1ae5.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.data.rel.ro
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

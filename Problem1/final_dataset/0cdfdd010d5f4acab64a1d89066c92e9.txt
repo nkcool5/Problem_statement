@@ -1,0 +1,1252 @@
+/lib64/ld-linux-x86-64.so.2
+,crBE
+libselinux.so.1
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+context_str
+mode_to_security_class
+getcon
+_init
+is_selinux_enabled
+context_type_set
+getfscreatecon
+matchpathcon
+fgetfilecon
+freecon
+lgetfilecon
+fsetfilecon
+context_free
+lsetfilecon
+setfscreatecon
+context_type_get
+context_new
+_fini
+security_compute_create
+libacl.so.1
+acl_get_fd
+acl_get_file
+acl_get_entry
+acl_from_mode
+acl_entries
+acl_get_tag_type
+acl_set_fd
+acl_set_file
+acl_delete_def_file
+acl_free
+libattr.so.1
+attr_copy_fd
+attr_copy_file
+attr_copy_check_permissions
+libc.so.6
+fflush
+strcpy
+__rawmemchr
+fchmod
+__printf_chk
+readdir
+pathconf
+setlocale
+mbrtowc
+strncmp
+ftruncate
+optind
+strrchr
+rpmatch
+dcgettext
+unlinkat
+closedir
+fchdir
+error
+__stack_chk_fail
+__lxstat
+unlink
+iswprint
+mkdir
+realloc
+fstatfs
+abort
+stdin
+_exit
+memrchr
+program_invocation_name
+__assert_fail
+error_at_line
+fallocate
+__ctype_get_mb_cur_max
+fts_close
+isatty
+lchown
+symlink
+posix_fadvise
+calloc
+futimens
+strlen
+ungetc
+memset
+utimensat
+rmdir
+__errno_location
+memcmp
+getpagesize
+mempcpy
+__fprintf_chk
+fchown
+stdout
+fts_read
+lseek
+memcpy
+fclose
+euidaccess
+malloc
+umask
+fdopendir
+mbsinit
+__uflow
+nl_langinfo
+__ctype_b_loc
+getenv
+fts_set
+optarg
+__freading
+stderr
+ioctl
+__snprintf_chk
+readlink
+fscanf
+getopt_long
+__xmknod
+__fxstat
+fileno
+utimes
+getcwd
+__getdelim
+fwrite
+gettimeofday
+rename
+geteuid
+clock_gettime
+__fpending
+program_invocation_short_name
+fdopen
+qsort
+canonicalize_file_name
+fts_open
+fcntl
+__sprintf_chk
+openat
+futimesat
+__xstat
+memmove
+bindtextdomain
+__fxstatat
+fts_children
+mkfifo
+faccessat
+strcmp
+__libc_start_main
+dirfd
+Beeb
+stpcpy
+fseeko
+__overflow
+fputs_unlocked
+__progname
+__progname_full
+__cxa_atexit
+God A red nugget A fat egg under a dog
+_edata
+__bss_start
+_end
+ATTR_1.1
+ACL_1.0
+GLIBC_2.3
+GLIBC_2.14
+GLIBC_2.10
+GLIBC_2.17
+GLIBC_2.4
+GLIBC_2.6
+GLIBC_2.3.4
+GLIBC_2.2.5
+AWAVAUATUSH
+Eleele
+|$ A
+D$D1
+t5=~
+[]A\A]A^A_
+L$ 1
+UH-@
+AUATH
+D$H1
+L$HdH3
+X[]A\A]
+D$ t=
+|$0H
+\$0H
+ATUI
+[]A\
+[]A\
+D$x1
+AVAUI
+ATUI
+[]A\A]A^
+t$,A
+AWAVI
+AUATI
+~0dH
+.u)1
+dH34%(
+[]A\A]A^A_
+l$ L
+D$8%
+D$8%
+AWAVAUATUSH
+H9Kx
+[]A\A]A^A_
+H9Cx
+t2SH
+AUATUSL
+h$dH
+A"h 
+dH34%(
+[]A\A]
+t3H9
+dH3<%(
+$`V@
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+=t3H
+D$ H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+ATUI
+G(H;G0s
+[]A\
+[]A\
+AVAUATUA
+]A\A]A^
+[]A\A]A^
+AUATI
+t$	M
+([]A\A]
+AUATI
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+D$`H
+D$0H
+D$HH
+D$XI
+|$hL
+L$lL
+D$PH
+L$8E1
+|$8H
+D$0H
+t$ H9
+|$HH
+D$(D
+l$ H
+\$@H
+x[]A\A]A^A_
+|$(H)|$0E
+D$XD
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+T$lH
+x[]A\A]A^A_
+[]A\
+[]A\
+[]A\
+AWAVAUATI
+[]A\
+A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATI
+A"E-
+A"U)
+[A\A]A^A_]
+>/t>H
+u;E8e
+A"U)
+A8E,v
+dH34%(
+=9X!
+AUATI
+t-H9
+[]A\A]
+=!W!
+AVAUE1
+ATUI
+t$0H
+D$ H
+A9|$
+U(D9
+[]A\A]A^
+<$H9
+AVAUATUH
+[]A\A]A^
+t$(H
+8(t^E1
+tfE1
+AUATA
+D$(1
+t$ H
+t$ H
+L$(dH3
+8[]A\A]
+AWAVA
+AUATD
+([]A\A]A^A_
+ATUI
+[]A\
+[]A\
+ATUH
+[]A\
+AWAV
+AUATI
+xRL9
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVA
+AUATUSH
+=tE!
+.~1~
+H9L$ 
+t$(I
+D$ H
+H;t$
+L$8H
+L$0H
+L$0L
+L$8I
+L$0N
+L$0H
+[]A\A]A^A_
+T$ K
+L$8D
+D$0H
+AWAVAUATUSH
+L$ L
+T$@L
+|$(H
+[]A\A]A^A_
+D$X%
+|$ H
+|$(H
+|$ H
+|$ H
+t$pL
+H9L$0
+l$(H
+T$8H
+T$8H
+|$(H
+T$8H
+T$8H
+=<?!
+=i:!
+=X>!
+AVAUATUS
+[]A\A]A^
+0t8H
+[]A\A]A^
+T$01
+@u'1
+T$0H
+D$ H
+tuAUATI
+t,H9
+[]A\A]
+[]A\A]
+AWAVI
+AUATI
+[]A\A]A^A_
+<$/u
+AUATUSH
+[]A\A]
+[]A\A]
+	viH
+S0H;C
+AVAUI
+ATUI
+t}H9
+T$HH
+D$H[H
+]A\A]A^
+]A\A]A^
+T$HH
+D$HH
+[]A\A]A^
+AWAVA
+AUATI
+.L;n
+D$HH
+\$HH
+[]A\A]A^A_
+D$HH
+T$HH
+[]A\A]A^A_
+H9W 
+AUATUSH
+[]A\A]
+ATUI
+3[]H
+t4H9
+AWAVAUATUSH
+7L;w
+[]A\A]A^A_
+AWAV
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+ATUH
+'L;g
+[]A\
+ATUH
+'L;g
+ATUH
+g(dH
+D$X1
+d$(H
+D$0H
+D$8H
+D$@H
+L$XdH3
+`[]A\
+D$HH
+ATUSH
+[]A\
+[]A\
+D$(1
+L$(dH3
+D$(1
+L$(dH3
+D$81
+L$8dH3
+D$ H
+D$(H
+D$0H
+AWAVE
+AUATI
+L$8H
+D$(H
+D$XH
+D$PdH
+D$HD
+D$xD
+D$ I
+D$<D
+T$0D
+D$<D
+L$|I
+T$0M9
+T$ H
+t$HD
+D$@D
+T$<D
+L$0H
+L$|H
+L$|D
+L$0D
+T$<D
+t$(H
+v L9
+T$HH
+t$hL
+L$XL
+T$8A
+dH34%(
+[]A\A]A^A_
+D"D$
+s2L9
+v2I9
+T$0D
+s2L9
+D$XL
+D$PL
+l$PL
+l$HH
+D$H;
+D$HD
+D$H;
+\$pD
+L$~H
+t$@L
+|$hL
+l$0D
+T$<H
+T$0H
+48L)
+D"D$
+L$~D
+t$@H
+\$pL
+|$hL
+l$0D
+T$<H
+t$@L
+T$hL
+l$0D
+T$<D
+T$<I
+D$HD
+L$~H
+\$pD
+t$@E1
+|$hL
+l$0D
+l$0M
+L$~H
+\$pD
+t$@L
+|$hD
+T$<v$A
+D$H;
+AWAVI
+AUATLc
+u(AWL
+T$(L
+L$<H
+T$(H
+t$0I
+[]A\A]A^A_
+ATUSH
+[]A\
+AWAV
+AUATI
+L$(L
+8[]A\A]A^A_
+AWAV
+AUATI
+s(AR1
+D$HH
+T$8A
+D$,H
+\$(M
+8[]A\A]A^A_
+%		!
+D$81
+L$8dH3
+ATUI
+D$81
+T$8dH3
+@[]A\
+D$81
+D$ H
+D$(H
+t$8dH34%(
+D$x1
+T$PH
+D$@H
+T$XH
+T$ H
+D$HH
+T$`H
+T$(H
+T$hH
+T$0H
+\$xdH3
+D$81
+L$ H
+L$(H
+L$0t2H
+t$(H
+T$0H
+|$8dH3<%(
+AUATA
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+H9D$
+AWAV
+AUATUSH
+L;l$
+T$0H
+T$0H
+\$ I
+H[]A\A]A^A_
+D$(H
+T$0H
+H9\$8
+D$8H)
+H9D$ 
+T$ H
+D$8H
+t$8L
+T$ I
+D$ H
+ATUS
+[]A\
+AUATUS
+[]A\A]
+AWAVAUATUSH
+fXdH
+dH3<%(
+[]A\A]A^A_
+T$@H
+gfffH
+gfff	
+L$0D
+|$$H
+D$8L
+\$(D
+|$$L
+L$0H
+D$PHcD$
+D$`D
+D$PH
+T$pL
+t$hL
+d$`D
+\$(=
+|$$L
+gfffi
+gfff
+?tHH=
+?t H
+?ts1
+?tOH
+?tSH
+;wdE1
+AVAUATUI
+D$ H
+l$0H
+D$0H
+D$@H
+T$8H
+[]A\A]A^
+|$p1
+t$PH
+|$XI
+t$`H
+|$huuE
+T$P1
+ATUI
+D$ H
+T$0L
+T$0L
+T$0L
+D$H%
+[]A\
+L$xH
+AVAUA
+ATUA
+[]A\A]A^
+[]A\A]A^
+AWAVAUATM
+AQAUATAWAVL
+L$0L
+([]A\A]A^A_
+[]A\A]A^A_H
+[]A\A]A^A_1
+[]A\A]A^A_
+([]A\A]A^A_
+ATAWAVL
+D$ H
+([]A\A]A^A_
+AUATAWAVL
+D$X1
+D$XdH3
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AWAVAUATUSH
+([]A\A]A^A_
+ts<%uI
+suC1
+su,H
+T$0H
+D$ H
+P[]A\
+O H9O(w H
+GXH+GHH
+G H9G(u
+ATUA
+[]A\
+AUATI
+t$,A
+[]A\A]
+]A\A]
+D$HH
+AUATI
+H9W8L
+[]A\A]
+w8w!H
+[]A\A]
+AUATI
+[]A\A]
+t3USH
+AWAVI
+AUATI
+9.uZ
+dH34%(
+[]A\A]A^A_
+9.uc
+I9Gxt
+ATUI
+|$XH
+Sp[]A\
+NxH9J
+AWAVI
+AUATUSH
+t$XI
+D$HI
+O0H+
+\$XH
+D$8I
+D$@I
+D$HH
+H9\$ M
+EH u
+L9d$
+D$(A
+t$@H
+|$HH
+D$8J
+E H9D$
+D$0I
+|$pA
+|$0I
+H9\$ L
+H+P8H
+H+P8H
+D$pA
+[]A\A]A^A_
+$I9G0
+G@v	H
+D$`H=ii
+D$@fA
+D$@1
+t$pA
+WHfA
+AWAVAUATUSH
+t$0I
+[]A\A]A^A_
+([]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+T$ I
+D$I@t|
+H9Ex
+[]A\A]A^A_
+|$ L
+t+I9
+D$ L
+L$ H
+T$ I
+Cpth
+D$I@
+t$H@
+t$H@
+D$I@
+EDxtf
+H=sIeRthH=BSFXt`H
+tLI9
+AVAUATUS
+CI@I
+8/t	
+[]A\A]A^
+[]A\A]A^
+]A\A]A^
+[]A\A]A^
+AWAVAUATUSH
+>/tkL
+|$ H
+[]A\A]A^A_
+D;d$
+AVAUI
+ATUA
+?teH
+?t[D
+[]A\A]A^
+L$ E
+D$hH
+D$pH
+D$xH
+t>[]A\
+]A\A]A^
+uF[L
+]A\A]A^
+[]A\A]A^
+AVAUATUA
+[]A\A]A^
+AWAVI
+AUATI
+([]A\A]A^A_
+[]A\A]A^A_
+[]A\1
+AWAVI
+AUAT1
+G(H;G0s
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+AVAUATUSL
+]A\A]A^
+ATUH
+t)[]A\
+[]A\
+8	[]A\
+HiD$
+AWAV
+AUATUSH
+[]A\A]A^A_
+charset.
+aliaf
+L$PH
+D$PI
+t$PM
+L$81
+@u(1
+dH34%(
+L$8H
+D$ H
+AVAUATUSH
+$t!H
+ []A\A]A^
+/u/H
+ATUSH
+u0[]A\
+[]A\
+AUATUSH
+D$(1
+L$(dH3
+8[]A\A]
+AWAVAUATI
+D$PH
+T$ H9
+t$0I
+T$8H9
+D$HA
+D$(H
+D$@H
+[A\A]A^A_]
+D$PI
+D$PI
+AXAY
+PAQD
+D$PI
+Degas are we not drawn onward no In union drawn onward to new eras aged
+PAQD
+D$PI
+D$PI
+D$PI
+D$PI
+D$PI
+D$PI
+D$@1
+/wqA
+/wyA
+/wIA
+/w9A
+F AVAUATI
+D$ H
+alula
+X[]A\A]A^A_
+	veI
+<	wFH
+0<	v
+m H9
+ePL9d$
+L$@L
+D$8L
+T$0I
+H9|$ 
+T$0L
+D$8L
+L$@tHH
+D$ I;@
+H9|$
+0<	w
+0<	v
+M8L)
+|$(H
+\$(I
+T$(H9\$
+H9|$
+H9|$ t
+H9\$
+H9|$
+Do nine men interpret Nine men I nod
+L$@L
+D$8L
+T$0L
+D$8L
+H9|$
+L$HL
+D$@L
+L$HH
+L$0L
+T$8L
+D$@I
+H9|$
+H9|$
+L$@L
+D$8L
+L$@H
+T$0L
+D$8I
+H9|$
+t$(H
+d$(H
+T$0L
+D$8L
+H9|$
+H9|$ t
+t$ H
+L$@L
+D$8H
+T$0H
+L$@L
+D$8H
+t$(H
+\$(H
+L$0L
+T$8L
+L$HI
+D$HL
+L$8L
+L$0H
+D$HL
+T$@I
+L$8L
+T$0L
+D$8L
+D$@L
+T$8L
+L$0H
+D$@L
+T$8H
+T$0L
+D$8L
+D$@L
+T$8L
+L$0H
+D$@L
+T$8H
+AWAVA
+AUATL
+[]A\A]A^A_
+src/mv.c
+VALID_STATUS (status)
+test invocation
+Multi-call invocation
+sha224sum
+sha2 utilities
+sha256sum
+sha384sum
+sha512sum
+%s online help: <%s>
+GNU coreutils
+/usr/share/locale
+SIMPLE_BACKUP_SUFFIX
+failed to access %s
+target %s is not a directory
+David MacKenzie
+Mike Parker
+Jim Meyering
+bfint:uvS:TZ
+missing file operand
+extra operand %s
+2 <= n_files
+backup type
+backup
+context
+force
+interactive
+no-clobber
+no-target-directory
+strip-trailing-slashes
+suffix
+update
+verbose
+help
+version
+failed to get attributes of %s
+Try '%s --help' for more information.
+Usage: %s [OPTION]... [-T] SOURCE DEST
+  or:  %s [OPTION]... SOURCE... DIRECTORY
+  or:  %s [OPTION]... -t DIRECTORY SOURCE...
+Rename SOURCE to DEST, or move SOURCE(s) to DIRECTORY.
+Mandatory arguments to long options are mandatory for short options too.
+      --backup[=CONTROL]       make a backup of each existing destination file
+  -b                           like --backup but does not accept an argument
+  -f, --force                  do not prompt before overwriting
+  -i, --interactive            prompt before overwrite
+  -n, --no-clobber             do not overwrite an existing file
+If you specify more than one of -i, -f, -n, only the final one takes effect.
+      --strip-trailing-slashes  remove any trailing slashes from each SOURCE
+                                 argument
+  -S, --suffix=SUFFIX          override the usual backup suffix
+  -t, --target-directory=DIRECTORY  move all SOURCE arguments into DIRECTORY
+  -T, --no-target-directory    treat DEST as a normal file
+  -u, --update                 move only when the SOURCE file is newer
+                                 than the destination file or when the
+                                 destination file is missing
+  -v, --verbose                explain what is being done
+  -Z, --context                set SELinux security context of destination
+                                 file to default type
+      --help     display this help and exit
+      --version  output version information and exit
+The backup suffix is '~', unless set with --suffix or SIMPLE_BACKUP_SUFFIX.
+The version control method may be selected via the --backup option or through
+the VERSION_CONTROL environment variable.  Here are the values:
+  none, off       never make backups (even if --backup is given)
+  numbered, t     make numbered backups
+  existing, nil   numbered if numbered backups exist, simple otherwise
+  simple, never   always make simple backups
+http://www.gnu.org/software/coreutils/
+Report %s translation bugs to <http://translationproject.org/team/>
+Full documentation at: <%s%s>
+or available locally via: info '(coreutils) %s%s'
+multiple target directories specified
+missing destination file operand after %s
+cannot combine --target-directory (-t) and --no-target-directory (-T)
+options --backup and --no-clobber are mutually exclusive
+do_move
+main
+removed directory %s
+removed %s
+cannot remove %s
+%s: remove %s %s? 
+fts_read failed
+traversal failed: %s
+bug-coreutils@gnu.org
+src/remove.c
+VALID_STATUS (s)
+fts_close failed
+%s: descend into write-protected directory %s? 
+%s: descend into directory %s? 
+%s: remove write-protected %s %s? 
+refusing to remove %s or %s directory: skipping %s
+it is dangerous to operate recursively on %s
+it is dangerous to operate recursively on %s (same as %s)
+use --no-preserve-root to override this failsafe
+skipping %s, since it's on a different device
+WARNING: Circular directory structure.
+This almost certainly means that you have a corrupted file system.
+NOTIFY YOUR SYSTEM MANAGER.
+The following directory is part of the cycle:
+  %s
+unexpected failure: fts_info=%d: %s
+please report to %s
+failed to set default file creation context to %s
+failed to get security context of %s
+failed to set default file creation context for %s
+cannot create hard link %s to %s
+%s: replace %s, overriding mode %04lo (%s)? 
+%s: unwritable %s (mode %04lo, %s); try anyway? 
+failed to restore the default file creation context
+failed to set the security context of %s
+failed to preserve ownership for %s
+warning: source file %s specified more than once
+cannot overwrite non-directory %s with directory %s
+will not overwrite just-created %s with %s
+cannot overwrite directory %s with non-directory
+cannot move directory onto non-directory: %s -> %s
+backing up %s would destroy source;  %s not moved
+backing up %s would destroy source;  %s not copied
+will not copy %s through just-created symlink %s
+cannot copy a directory, %s, into itself, %s
+warning: source directory %s specified more than once
+will not create hard link %s to directory %s
+cannot move %s to a subdirectory of itself, %s
+inter-device move failed: %s to %s; unable to remove target
+cannot create symbolic link %s to %s
+skipping file %s, as it was replaced while being copied
+not writing through dangling symlink %s
+%s: failed to get extents info
+cannot create symbolic link %s
+cannot copy cyclic symbolic link %s
+%s: can make relative symbolic links only in current directory
+VALID_BACKUP_TYPE (co->backup_type)
+VALID_SPARSE_MODE (co->sparse_mode)
+VALID_REFLINK_MODE (co->reflink_mode)
+!(co->hard_link && co->symbolic_link)
+! (co->reflink_mode == REFLINK_ALWAYS && co->sparse_mode != SPARSE_AUTO)
+%s -> %s
+ (backup: %s)
+%s: overwrite %s? 
+cannot lseek %s
+error deallocating %s
+error reading %s
+error writing %s
+overflow reading %s
+security.selinux
+clearing permissions for %s
+cannot stat %s
+omitting directory %s
+%s and %s are the same file
+cannot backup %s
+cannot move %s to %s
+cannot create directory %s
+setting permissions for %s
+cannot access %s
+cannot open %s for reading
+cannot fstat %s
+cannot create regular file %s
+failed to clone %s from %s
+%s: write failed
+failed to extend %s
+preserving times for %s
+preserving permissions for %s
+failed to close %s
+Tacocat
+cannot create fifo %s
+cannot create special file %s
+cannot read symbolic link %s
+%s has unknown file type
+cannot un-backup %s
+%s -> %s (unbackup)
+src/copy.c
+co != NULL
+valid_options
+src/extent-scan.c
+scan->ei_count <= SIZE_MAX - fiemap->fm_mapped_extents
+fm_extents[i].fe_logical <= OFF_T_MAX - fm_extents[i].fe_length
+extent_scan_read
+error canonicalizing %s
+8.25
+$VERSION_CONTROL
+none
+simple
+never
+A Santa lives evil at NASA
+existing
+numbered
+error closing file
+%s: %s
+write error
+regular empty file
+regular file
+symbolic link
+block special file
+character special file
+fifo
+socket
+weird file
+# entries:         %lu
+# buckets:         %lu
+max bucket length: %lu
+# buckets used:    %lu (%.2f%%)
+=fff?
+Y@A NULL argv[0] was passed through an exec system call.
+/.libs/
+literal
+shell
+shell-always
+shell-escape
+shell-escape-always
+c-maybe
+clocale
+unable to display error message
+%s (%s) %s
+%s %s
+Written by %s.
+Written by %s and %s.
+Written by %s, %s, and %s.
+Report bugs to: %s
+%s home page: <%s>
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Written by %s, %s, %s,
+and %s.
+Written by %s, %s, %s,
+%s, and %s.
+Borrow or rob
+Written by %s, %s, %s,
+%s, %s, and %s.
+Written by %s, %s, %s,
+%s, %s, %s, and %s.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+and %s.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+%s, and %s.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+%s, %s, and others.
+General help using GNU software: <http://www.gnu.org/gethelp/>
+Copyright %s %d Free Software Foundation, Inc.
+memory exhausted
+lib/xfts.c
+errno != EINVAL
+xfts_open
+unlabeled
+invalid argument %s for %s
+ambiguous argument %s for %s
+Valid arguments are:
+  - %s
+, %s
+lib/cycle-check.c
+state->magic == 9827862
+cycle_check
+/usr/lib/x86_64-linux-gnu
+ASCII
+CHARSETALIASDIR
+%50s %50s
+unable to record current working directory
+failed to return to initial working directory
+lib/chdir-long.c
+! close_fail
+0 < len
+4096 <= len
+*dir != '/'
+dir <= dir_end
+slash - dir < 4096
+cdb_free
+chdir_long
+/proc/self/fd
+/proc/self/fd/%d/../fd
+/proc/self/fd/%d/
+(NULL)
+;*3$"
+776eed6952391805de7f23edbf5937bebcf072.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

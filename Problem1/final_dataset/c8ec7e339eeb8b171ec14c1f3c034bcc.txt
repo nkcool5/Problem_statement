@@ -1,0 +1,4212 @@
+GCC: (GNU) 4.8.2
+../sysdeps/i386/start.S
+/data/jenkins_worker/workspace/edison-weekly/out/linux64/edison-src/out/linux64/build/tmp/work/core2-32-poky-linux/eglibc/2.19-r0/eglibc-2.19/libc/csu
+GNU AS 2.24
+../sysdeps/i386/crti.S
+/data/jenkins_worker/workspace/edison-weekly/out/linux64/edison-src/out/linux64/build/tmp/work/core2-32-poky-linux/eglibc/2.19-r0/eglibc-2.19/libc/csu
+GNU AS 2.24
+4	53
+../sysdeps/i386/crtn.S
+/data/jenkins_worker/workspace/edison-weekly/out/linux64/edison-src/out/linux64/build/tmp/work/core2-32-poky-linux/eglibc/2.19-r0/eglibc-2.19/libc/csu
+GNU AS 2.24
+../sysdeps/i386
+start.S
+3!4=%"
+ YZ!"\[
+init.c
+../sysdeps/i386
+crti.S
+/usr/src/debug/rpm/5.4.9-r63/rpm-5.4.9/tools
+/data/jenkins_worker/workspace/edison-weekly/out/macosx/build/tmp/sysroots/edison/usr/include/bits
+/data/jenkins_worker/workspace/edison-weekly/out/macosx/build/tmp/sysroots/edison/usr/include/sys
+/data/jenkins_worker/workspace/edison-weekly/out/macosx/build/tmp/sysroots/edison/usr/include
+/data/jenkins_worker/workspace/edison-weekly/out/macosx/build/tmp/sysroots/x86_64-linux/usr/lib/core2-32-poky-linux/gcc/i586-poky-linux/4.8.2/include
+/usr/src/debug/rpm/5.4.9-r63/rpm-5.4.9/rpmio
+/usr/src/debug/rpm/5.4.9-r63/rpm-5.4.9/rpmdb
+/usr/src/debug/rpm/5.4.9-r63/rpm-5.4.9/lib
+/usr/src/debug/rpm/5.4.9-r63/rpm-5.4.9
+/data/jenkins_worker/workspace/edison-weekly/out/macosx/build/tmp/sysroots/edison/usr/include/gnu
+/data/jenkins_worker/workspace/edison-weekly/out/macosx/build/tmp/sysroots/x86_64-linux/usr/lib/core2-32-poky-linux/gcc/i586-poky-linux/4.8.2/include-fixed
+/data/jenkins_worker/workspace/edison-weekly/out/macosx/build/tmp/sysroots/edison/usr/include/linux
+/data/jenkins_worker/workspace/edison-weekly/out/macosx/build/tmp/sysroots/edison/usr/include/asm
+/data/jenkins_worker/workspace/edison-weekly/out/macosx/build/tmp/sysroots/edison/usr/include/asm-generic
+/usr/src/debug/rpm/5.4.9-r63/rpm-5.4.9/misc
+/data/jenkins_worker/workspace/edison-weekly/out/macosx/build/tmp/sysroots/edison/usr/include/netinet
+/data/jenkins_worker/workspace/edison-weekly/out/macosx/build/tmp/sysroots/edison/usr/include/rpc
+/data/jenkins_worker/workspace/edison-weekly/out/macosx/build/tmp/sysroots/edison/usr/include/arpa
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+rpmrepo.c
+string3.h
+stdio2.h
+types.h
+types.h
+time.h
+stddef.h
+time.h
+stdio.h
+libio.h
+stdint.h
+rpmiotypes.h
+rpmpgp.h
+rpmio.h
+rpmio_internal.h
+rpmsw.h
+popt.h
+rpmxar.h
+argv.h
+mire.h
+rpmrepo.h
+rpmtypes.h
+rpmtag.h
+rpmts.h
+system.h
+<built-in>
+libintl.h
+stdlib.h
+errno.h
+string.h
+stdc-predef.h
+config.h
+features.h
+cdefs.h
+wordsize.h
+stubs.h
+stubs-32.h
+typesizes.h
+endian.h
+endian.h
+byteswap.h
+byteswap-16.h
+select.h
+select.h
+sigset.h
+select2.h
+sysmacros.h
+pthreadtypes.h
+stat.h
+stat.h
+_G_config.h
+wchar.h
+stdarg.h
+stdio_lim.h
+sys_errlist.h
+stdio.h
+param.h
+limits.h
+syslimits.h
+limits.h
+posix1_lim.h
+local_lim.h
+limits.h
+posix2_lim.h
+xopen_lim.h
+signal.h
+signum.h
+siginfo.h
+sigaction.h
+sigcontext.h
+sigstack.h
+ucontext.h
+sigthread.h
+param.h
+param.h
+param.h
+param.h
+unistd.h
+posix_opt.h
+environments.h
+confname.h
+getopt.h
+unistd.h
+time.h
+timex.h
+xlocale.h
+utime.h
+string.h
+string2.h
+errno.h
+errno.h
+errno.h
+errno.h
+errno-base.h
+error.h
+waitflags.h
+waitstatus.h
+alloca.h
+stdlib-bsearch.h
+stdlib-float.h
+stdlib.h
+fcntl.h
+fcntl.h
+fcntl-linux.h
+uio.h
+fcntl2.h
+dirent.h
+dirent.h
+ctype.h
+mman.h
+mman.h
+mman-linux.h
+resource.h
+resource.h
+utsname.h
+utsname.h
+wait.h
+grp.h
+err.h
+libgen.h
+mcheck.h
+netdb.h
+in.h
+stdint.h
+wchar.h
+socket.h
+uio.h
+socket.h
+socket_type.h
+sockaddr.h
+socket.h
+socket.h
+sockios.h
+sockios.h
+socket2.h
+in.h
+netdb.h
+netdb.h
+inet.h
+pwd.h
+locale.h
+locale.h
+glob.h
+fnmatch.h
+poll.h
+poll.h
+poll.h
+poll2.h
+mntent.h
+Tacocat
+paths.h
+search.h
+pthread.h
+sched.h
+sched.h
+setjmp.h
+rpmlog.h
+rpmzlog.h
+rpmurl.h
+assert.h
+yarn.h
+rpmdir.h
+fts.h
+poptIO.h
+rpmcb.h
+rpmmacro.h
+rpmmg.h
+pkgio.h
+rpmps.h
+debug.h
+/-/i
+/data/jenkins_worker/workspace/edison-weekly/out/linux64/edison-src/out/linux64/build/tmp/sysroots/x86_64-linux/usr/lib/core2-32-poky-linux.gcc-cross-initial/gcc/i586-poky-linux/4.8.2/include
+elf-init.c
+stddef.h
+../sysdeps/i386
+crtn.S
+GNU C 4.8.2 -m32 -march=core2 -mtune=core2 -msse3 -mfpmath=sse -mstackrealign -mpreferred-stack-boundary=4 -g -O2 -std=gnu99 -fno-omit-frame-pointer -fgnu89-inline -feliminate-unused-debug-types -fmerge-all-constants -frounding-math
+_IO_stdin_used
+sizetype
+/data/jenkins_worker/workspace/edison-weekly/out/linux64/edison-src/out/linux64/build/tmp/work/core2-32-poky-linux/eglibc/2.19-r0/eglibc-2.19/libc/csu
+HAVE_NETDB_H 1
+IPPROTO_COMP IPPROTO_COMP
+PTHREAD_KEYS_MAX 1024
+IPV6_RECVERR 25
+_CS_POSIX_V7_LP64_OFF64_LINTFLAGS _CS_POSIX_V7_LP64_OFF64_LINTFLAGS
+_SC_C_LANG_SUPPORT_R _SC_C_LANG_SUPPORT_R
+AT_REMOVEDIR 0x200
+EHOSTDOWN 112
+HAVE_STRCASECMP 1
+INT_FAST8_MIN (-128)
+ntohs(x) __bswap_16 (x)
+__REDIRECT(name,proto,alias) name proto __asm__ (__ASMNAME (#alias))
+FTS_DOT 5
+IPPROTO_RSVP IPPROTO_RSVP
+_SC_THREAD_PRIO_PROTECT _SC_THREAD_PRIO_PROTECT
+npkts
+NSS_BUFLEN_PASSWD 1024
+_IO_ftrylockfile(_fp) 
+RPMVSF_NOSHA1HEADER
+_T_WCHAR 
+ENOTUNIQ 76
+_POSIX_MEMLOCK_RANGE 200809L
+Do nine men interpret Nine men I nod
+IP_RECVOPTS 6
+IPV6_HOPLIMIT 52
+__FLT_MAX_10_EXP__ 38
+__GCC_HAVE_SYNC_COMPARE_AND_SWAP_8 1
+HAVE_STRSPN 1
+__SIG_ATOMIC_MAX__ 2147483647
+read
+findPubkey
+WITH_SSL 1
+ITIMER_REAL ITIMER_REAL
+BC_SCALE_MAX _POSIX2_BC_SCALE_MAX
+__INT32_C(c) c
+__pad2
+__pad3
+__pad4
+__pad5
+DEFFILEMODE (S_IRUSR|S_IWUSR|S_IRGRP|S_IWGRP|S_IROTH|S_IWOTH)
+AT_NO_AUTOMOUNT 0x800
+EPERM 1
+IPV6_ADDRFORM 1
+__ptr_t
+_IOS_BIN 128
+CLOCKS_PER_SEC 1000000l
+AF_INET PF_INET
+IP_DEFAULT_MULTICAST_TTL 1
+__wchar_t__ 
+strerror
+__SIZEOF_WCHAR_T__ 4
+__F_SETOWN_EX 15
+si_overrun _sifields._timer.si_overrun
+_POSIX_MEMLOCK 200809L
+HAVE_SIGPROCMASK 1
+_SC_2_C_DEV _SC_2_C_DEV
+_SC_2_VERSION _SC_2_VERSION
+PTHREAD_CANCEL_DEFERRED PTHREAD_CANCEL_DEFERRED
+FTS_DC 2
+LOCK_EX 2
+PF_CAIF 37
+HAVE_SYS_STAT_H 1
+__LC_MESSAGES 5
+SEEK_DATA 3
+__NTH(fct) __attribute__ ((__nothrow__ __LEAF)) fct
+EHOSTUNREACH 113
+F_SETPIPE_SZ 1031
+__need___va_list
+VALGRIND_MEMPOOL_CHANGE(pool,addrA,addrB,size) 
+_CS_XBS5_ILP32_OFF32_LIBS _CS_XBS5_ILP32_OFF32_LIBS
+_SIZET_ 
+FFSYNC O_FSYNC
+_POSIX_RTSIG_MAX 8
+PRIO_PGRP PRIO_PGRP
+RPMLOG_EXIT 0x02
+__INT64_MAX__ 9223372036854775807LL
+_SC_2_PBS_ACCOUNTING _SC_2_PBS_ACCOUNTING
+poptContext
+_POSIX_REGEXP 1
+FTS_D 1
+SIGEV_THREAD_ID SIGEV_THREAD_ID
+_fdopen
+_LFS64_STDIO 1
+PF_RXRPC 33
+_MKNOD_VER _MKNOD_VER_LINUX
+_SC_BC_BASE_MAX _SC_BC_BASE_MAX
+IPPROTO_IPV6 IPPROTO_IPV6
+RMIL_SPEC -3
+__INT_FAST16_TYPE__ int
+PTRDIFF_MAX (2147483647)
+__LITTLE_ENDIAN 1234
+EUSERS 87
+L_XTND SEEK_END
+RPMDBI_FTSWALK (rpmTag)8
+_CS_V6_WIDTH_RESTRICTED_ENVS _CS_V6_WIDTH_RESTRICTED_ENVS
+BUS_OBJERR BUS_OBJERR
+_FDSTACK_s
+_SC_SPIN_LOCKS _SC_SPIN_LOCKS
+DRD_IGNORE_VAR(x) 
+__USE_SVID
+HAVE_SYS_TYPES_H 1
+HAVE_STDBOOL_H 1
+SIGWINCH 28
+__core2__ 1
+_CS_V6_ENV _CS_V6_ENV
+IPPROTO_FRAGMENT IPPROTO_FRAGMENT
+isgraph(c) __isctype((c), _ISgraph)
+fdOpen(_path,_flags,_mode) fdio->_open((_path), (_flags), (_mode))
+__extern_inline extern __inline __attribute__ ((__gnu_inline__))
+AF_X25 PF_X25
+__WIFSIGNALED(status) (((signed char) (((status) & 0x7f) + 1) >> 1) > 0)
+pgpImplVecs_s
+pgpImplVecs_t
+si_utime _sifields._sigchld.si_utime
+_CS_XBS5_LP64_OFF64_LINTFLAGS _CS_XBS5_LP64_OFF64_LINTFLAGS
+si_band _sifields._sigpoll.si_band
+__suseconds_t_defined 
+IPV6_MTU 24
+_POSIX_THREAD_PRIO_INHERIT 200809L
+_item
+IN_EXPERIMENTAL(a) ((((in_addr_t)(a)) & 0xe0000000) == 0xe0000000)
+_POSIX_READER_WRITER_LOCKS 200809L
+DRD_GET_DRD_THREADID 
+memset
+_GCC_WRAP_STDINT_H 
+RPMDBI_AVAILABLE (rpmTag)5
+REG_ESI REG_ESI
+__DEC32_EPSILON__ 1E-6DF
+__ASSERT_VOID_CAST
+_POSIX_BARRIERS 200809L
+HAVE_STRING_H 1
+pgpImplSign_t
+__ASM_GENERIC_SOCKIOS_H 
+SO_RCVBUF 8
+DBPATH "/var/lib/rpm"
+HAVE_ISSPACE 1
+CMSG_SPACE(len) (CMSG_ALIGN (len) + CMSG_ALIGN (sizeof (struct cmsghdr)))
+S_IWGRP (S_IWUSR >> 3)
+__SIZEOF_PTHREAD_MUTEXATTR_T 4
+__need_sigevent_t 
+__USE_BSD
+__undef_ARG_MAX 
+PTHREAD_THREADS_MAX
+hash_algoN
+__SIGEV_MAX_SIZE 64
+__FLT_EVAL_METHOD__ 0
+IPV6_RECVPKTINFO 49
+HOST_NAME_MAX 64
+IN_CLASSA(a) ((((in_addr_t)(a)) & 0x80000000) == 0)
+MAP_HUGE_SHIFT 26
+H_RPMCB 
+rpmVSFlags
+__bos0(ptr) __builtin_object_size (ptr, 0)
+IP_RETOPTS 7
+HAVE_SYS_MMAN_H 1
+ANNOTATE_WRITERLOCK_RELEASED(rwlock) 
+__cleanup_fct_attribute __attribute__ ((__regparm__ (1)))
+__EXCEPTIONS 1
+FALLOC_FL_KEEP_SIZE 1
+_SC_2_PBS_MESSAGE _SC_2_PBS_MESSAGE
+__USE_XOPEN
+__INT16_MAX__ 32767
+POSIX_MADV_DONTNEED 4
+MSG_FIN MSG_FIN
+POLLMSG 0x400
+SUPPORT_AR_PAYLOADS
+RMIL_RPMRC -11
+IPPROTO_ROUTING IPPROTO_ROUTING
+_SC_SYSTEM_DATABASE _SC_SYSTEM_DATABASE
+EAI_FAMILY -6
+_IO_size_t size_t
+AF_WANPIPE PF_WANPIPE
+VALGRIND_COUNT_LEAK_BLOCKS(leaked,dubious,reachable,suppressed) 
+htole16(x) (x)
+SCHAR_MIN (-SCHAR_MAX - 1)
+rpmxarFree(_xar,_msg) ((rpmxar)rpmioFreePoolItem((rpmioItem)(_xar), _msg, __FILE__, __LINE__))
+__LDBL_MAX_10_EXP__ 4932
+__UINT_FAST8_TYPE__ unsigned char
+POPT_ARG_NONE 0U
+HAVE_NETINET_IN_H 1
+MSG_PEEK MSG_PEEK
+FDSANE(fd) assert(fd != NULL && fd->magic == FDMAGIC)
+MAP_ANON MAP_ANONYMOUS
+EDEADLK 35
+__BIG_ENDIAN 4321
+_POSIX_UIO_MAXIOV 16
+IP_TTL 2
+_CS_XBS5_ILP32_OFFBIG_LDFLAGS _CS_XBS5_ILP32_OFFBIG_LDFLAGS
+_POSIX_PRIORITY_SCHEDULING 200809L
+AI_NUMERICHOST 0x0004
+GETMNTENT_ONE 1
+S_IXGRP (S_IXUSR >> 3)
+_CS_XBS5_LPBIG_OFFBIG_CFLAGS _CS_XBS5_LPBIG_OFFBIG_CFLAGS
+ENOLINK 67
+ANNOTATE_READERLOCK_ACQUIRED(rwlock) 
+sigev_notify_attributes _sigev_un._sigev_thread._attribute
+_PC_MAX_INPUT _PC_MAX_INPUT
+_SC_PRIORITIZED_IO _SC_PRIORITIZED_IO
+_H_RPMZLOG_ 
+MADV_HUGEPAGE 14
+HAVE_STRCAT 1
+rpmmgLink(_mg) ((rpmmg)rpmioLinkPoolItem((rpmioItem)(_mg), __FUNCTION__, __FILE__, __LINE__))
+_CS_POSIX_V6_LP64_OFF64_LINTFLAGS _CS_POSIX_V6_LP64_OFF64_LINTFLAGS
+__SSE3__ 1
+__bswap_constant_64(x) (__extension__ ((((x) & 0xff00000000000000ull) >> 56) | (((x) & 0x00ff000000000000ull) >> 40) | (((x) & 0x0000ff0000000000ull) >> 24) | (((x) & 0x000000ff00000000ull) >> 8) | (((x) & 0x00000000ff000000ull) << 8) | (((x) & 0x0000000000ff0000ull) << 24) | (((x) & 0x000000000000ff00ull) << 40) | (((x) & 0x00000000000000ffull) << 56)))
+va_end(v) __builtin_va_end(v)
+isprint_l(c,l) __isprint_l ((c), (l))
+__GNUC_PREREQ(maj,min) ((__GNUC__ << 16) + __GNUC_MINOR__ >= ((maj) << 16) + (min))
+CPU_OR(destset,srcset1,srcset2) __CPU_OP_S (sizeof (cpu_set_t), destset, srcset1, srcset2, |)
+S_IROTH (S_IRGRP >> 3)
+__toascii_l(c,l) ((l), __toascii (c))
+__SOCKADDR_ONETYPE
+memmove
+STA_UNSYNC 0x0040
+_POSIX_THREAD_KEYS_MAX 128
+CLD_TRAPPED CLD_TRAPPED
+impl
+IPPROTO_MH IPPROTO_MH
+S_ISFIFO(mode) __S_ISTYPE((mode), __S_IFIFO)
+ftsoptions
+PF_LOCAL 1
+__SIGSETFN
+nbytes
+_PATH_NETWORKS "/etc/networks"
+_XOPEN_XCU_VERSION 4
+_IO_UNITBUF 020000
+__S_ISUID 04000
+HAVE_STRRCHR 1
+_PATH_MAILDIR "/var/mail"
+IP_ORIGDSTADDR 20
+_CS_XBS5_LP64_OFF64_LIBS _CS_XBS5_LP64_OFF64_LIBS
+SYNC_FILE_RANGE_WRITE 2
+sigtag
+__SIG_ATOMIC_TYPE__ int
+INADDR_ALLHOSTS_GROUP ((in_addr_t) 0xe0000001)
+MSG_WAITALL MSG_WAITALL
+__STD_TYPE __extension__ typedef
+_POSIX_NGROUPS_MAX 8
+POPT_ERROR_BADOPERATION -19
+EUCLEAN 117
+FTS_NS 10
+IN_CLASSB_MAX 65536
+IPV6_MULTICAST_IF 17
+POPT_BIT_CLR (POPT_ARG_VAL|POPT_ARGFLAG_NAND)
+STA_PPSSIGNAL 0x0100
+NL_SETMAX INT_MAX
+LC_TELEPHONE __LC_TELEPHONE
+__SSIZE_T_TYPE __SWORD_TYPE
+SI_SIGIO SI_SIGIO
+dops
+PTHREAD_STACK_MIN 16384
+vsflags
+CLOCK_REALTIME_ALARM 8
+LC_MESSAGES_MASK (1 << __LC_MESSAGES)
+__UINT_FAST16_TYPE__ unsigned int
+_XOPEN_XPG4 1
+HAVE_ALLOCA_H 1
+HEADERGET_NOEXTENSION (1 << 0)
+MREMAP_MAYMOVE 1
+__ILP32_OFF32_CFLAGS "-m32"
+H_POPT 
+__SSE2_MATH__ 1
+_PATH_SENDMAIL "/usr/sbin/sendmail"
+WINT_MIN (0u)
+POPT_ARG_BITSET 16U+14U
+SIZE_MAX (4294967295U)
+IP_BLOCK_SOURCE 38
+SUPPORT_NOSIGNATURES
+PF_LLC 26
+MAP_NORESERVE 0x04000
+assert_perror
+ERFKILL 132
+__DEC64_MANT_DIG__ 16
+HAVE_S_ISVTX 1
+__FD_CLR(d,set) ((void) (__FDS_BITS (set)[__FD_ELT (d)] &= ~__FD_MASK (d)))
+dcgettext
+RPMTAG_REQUIRES RPMTAG_REQUIRENAME
+POLL_HUP POLL_HUP
+pgpDigUnlink(_dig) ((pgpDig)rpmioUnlinkPoolItem((rpmioItem)(_dig), __FUNCTION__, __FILE__, __LINE__))
+olddir
+pgpDig_s
+HAVE_STRSTR 1
+__glibc_likely(cond) __builtin_expect ((cond), 1)
+SIGPOLL SIGIO
+EL2HLT 51
+_XOPEN_SOURCE 700
+LC_NAME_MASK (1 << __LC_NAME)
+isascii_l(c,l) __isascii_l ((c), (l))
+_rpmrepo_debug
+_CS_LFS64_LIBS _CS_LFS64_LIBS
+GLOB_NOSPACE 1
+SCHED_IDLE 5
+SIGUNUSED 31
+__VA_COPY_USE_GCB(d,s) __builtin_va_copy((d), (s))
+rpmxarUnlink(_xar,_msg) ((rpmxar)rpmioUnlinkPoolItem((rpmioItem)(_xar), _msg, __FILE__, __LINE__))
+ESOCKTNOSUPPORT 94
+_IO_LINKED 0x80
+rpmtsFree(_ts) ((rpmts) rpmioFreePoolItem((rpmioItem)(_ts), __FUNCTION__, __FILE__, __LINE__))
+PRIO_MIN -20
+__need_clock_t 
+IN_CLASSA_HOST (0xffffffff & ~IN_CLASSA_NET)
+GAI_WAIT 0
+_PATH_DEVDB "/var/run/dev.db"
+F_GETFL 3
+H_RPMREPO 
+FILENAME_MAX 4096
+HEADER_SIGNATURES 62
+__GCC_ATOMIC_LONG_LOCK_FREE 2
+__BIGGEST_ALIGNMENT__ 16
+_POSIX_OPEN_MAX 20
+ispunct(c) __isctype((c), _ISpunct)
+S_ISLNK(mode) __S_ISTYPE((mode), __S_IFLNK)
+VALGRIND_HG_MUTEX_INIT_POST(_mutex,_mbRec) 
+__attribute_format_strfmon__(a,b) __attribute__ ((__format__ (__strfmon__, a, b)))
+ANNOTATE_IGNORE_READS_BEGIN() 
+RMIL_MACROFILES -13
+_SIGNAL_H 
+rpmrepoNew
+DN_ACCESS 0x00000001
+S_IFIFO __S_IFIFO
+GLOB_MARK (1 << 1)
+HAVE_S_ISLNK 1
+S_IRWXG (S_IRWXU >> 3)
+islower_l(c,l) __islower_l ((c), (l))
+DT_LNK DT_LNK
+FTS_DEFAULT 3
+_PATH_DRUM "/dev/drum"
+__LDBL_MIN_EXP__ (-16381)
+RPMIO_DEBUG_IO 0x40000000
+__F_GETOWN 9
+__DEC128_MAX_EXP__ 6145
+__CPUMASK(cpu) ((__cpu_mask) 1 << ((cpu) % __NCPUBITS))
+CLONE_VFORK 0x00004000
+ispunct_l(c,l) __ispunct_l ((c), (l))
+IPPROTO_ESP IPPROTO_ESP
+MAP_TYPE 0x0f
+__strsep(s,reject) __extension__ ({ char __r0, __r1, __r2; (__builtin_constant_p (reject) && __string2_1bptr_p (reject) && (__r0 = ((const char *) (reject))[0], ((const char *) (reject))[0] != '\0') ? ((__r1 = ((const char *) (reject))[1], ((const char *) (reject))[1] == '\0') ? __strsep_1c (s, __r0) : ((__r2 = ((const char *) (reject))[2], __r2 == '\0') ? __strsep_2c (s, __r0, __r1) : (((const char *) (reject))[3] == '\0' ? __strsep_3c (s, __r0, __r1, __r2) : __strsep_g (s, reject)))) : __strsep_g (s, reject)); })
+F_GETPIPE_SZ 1032
+__need_siginfo_t 
+static_assert _Static_assert
+_SC_2_UPE _SC_2_UPE
+STDIN_FILENO 0
+rpmIsVerbose() (rpmlogSetMask(0) >= RPMLOG_MASK( RPMLOG_INFO ))
+_SC_V6_ILP32_OFF32 _SC_V6_ILP32_OFF32
+__need_clock_t
+le16toh(x) (x)
+__INT_LEAST8_MAX__ 127
+NR_OPEN 1024
+_IO_IS_APPENDING 0x1000
+ESTALE 116
+__bzero(s,n) __builtin_memset (s, '\0', n)
+le32toh(x) (x)
+CLONE_NEWNS 0x00020000
+rpmts_s
+pgpImplErrChk_t
+INADDR_ANY ((in_addr_t) 0x00000000)
+__mode_t_defined 
+SOMAXCONN 128
+VALGRIND_CREATE_BLOCK(_qzz_addr,_qzz_len,_qzz_desc) 
+PTHREAD_ONCE_INIT 0
+MSG_CONFIRM MSG_CONFIRM
+FTS_DP 6
+MADV_HWPOISON 100
+_rpmts_stats
+FPE_FLTRES FPE_FLTRES
+IPPROTO_IDP IPPROTO_IDP
+SO_TYPE 3
+EOWNERDEAD 130
+__wur __attribute_warn_unused_result__
+w_stopsig __wait_stopped.__w_stopsig
+Sources_init
+__S_IFDIR 0040000
+H_RPMLOG 1
+SCHED_BATCH 3
+RPMDBI_QUEUE (rpmTag)12
+__strcmp_cc(s1,s2,l) (__extension__ ({ int __result = (((const unsigned char *) (const char *) (s1))[0] - ((const unsigned char *) (const char *)(s2))[0]); if (l > 0 && __result == 0) { __result = (((const unsigned char *) (const char *) (s1))[1] - ((const unsigned char *) (const char *) (s2))[1]); if (l > 1 && __result == 0) { __result = (((const unsigned char *) (const char *) (s1))[2] - ((const unsigned char *) (const char *) (s2))[2]); if (l > 2 && __result == 0) __result = (((const unsigned char *) (const char *) (s1))[3] - ((const unsigned char *) (const char *) (s2))[3]); } } __result; }))
+__STRING_INLINE
+PF_ISDN 34
+_POSIX_MAX_INPUT 255
+_SC_IOV_MAX _SC_IOV_MAX
+PF_PACKET 17
+IPPROTO_HOPOPTS IPPROTO_HOPOPTS
+__ASM_GENERIC_PARAM_H 
+NBBY CHAR_BIT
+RPMVSF_NOMD5HEADER
+__need_timeval 
+ETOOMANYREFS 109
+EREMOTE 66
+__CHAR32_TYPE__ unsigned int
+_IO_peekc(_fp) _IO_peekc_unlocked (_fp)
+__LONG_MAX__ 2147483647L
+__DEC128_EPSILON__ 1E-33DL
+__UINT16_TYPE__ short unsigned int
+MAP_PRIVATE 0x02
+H_RPMIO 
+RMIL_DEFAULT -15
+_STRUCT_TIMEVAL 1
+__FLT_MIN_EXP__ (-125)
+HEADER_TAGBASE 1000
+__INT_MAX__ 2147483647
+SO_SELECT_ERR_QUEUE 45
+ANNOTATE_IGNORE_WRITES_END() 
+POLLOUT 0x004
+AT_SYMLINK_FOLLOW 0x400
+CLOCK_BOOTTIME 7
+O_APPEND 02000
+__GCC_ATOMIC_TEST_AND_SET_TRUEVAL 1
+__S_TYPEISSEM(buf) ((buf)->st_mode - (buf)->st_mode)
+__LP64_OFF64_LDFLAGS "-m64"
+__SYSCALL_SLONG_TYPE __SLONGWORD_TYPE
+EAFNOSUPPORT 97
+REG_EBX REG_EBX
+_POSIX_RE_DUP_MAX 255
+MCAST_JOIN_SOURCE_GROUP 46
+__USECONDS_T_TYPE __U32_TYPE
+SA_INTERRUPT 0x20000000
+SEEK_CUR 1
+__attribute_used__ __attribute__ ((__used__))
+__USE_XOPEN_EXTENDED 1
+rpmrepoRealpath
+__need_schedparam
+NOFILE 256
+HAVE_VPRINTF 1
+__S_IREAD 0400
+__GNU_LIBRARY__ 6
+POPT_BIT_SET (POPT_ARG_VAL|POPT_ARGFLAG_OR)
+POPT_ARG_SHORT 13U
+MNTOPT_NOAUTO "noauto"
+HAVE_PWD_H 1
+__USE_UNIX98
+EDESTADDRREQ 89
+REPO_FLAGS_DATABASE
+EBFONT 59
+FOPEN_MAX 16
+DN_DELETE 0x00000008
+_SC_V7_LP64_OFF64 _SC_V7_LP64_OFF64
+_H_MACRO_ 
+__W_STOPCODE(sig) ((sig) << 8 | 0x7f)
+HAVE_ARPA_INET_H 1
+IN_CLASSA_NET 0xff000000
+EXIT_SUCCESS 0
+rpmiobFree(_iob) ((rpmiob)rpmioFreePoolItem((rpmioItem)(_iob), __FUNCTION__, __FILE__, __LINE__))
+XATTR_SIZE_MAX 65536
+INT_LEAST8_MIN (-128)
+__BYTE_ORDER__ __ORDER_LITTLE_ENDIAN__
+RPMDBI_ARGLIST (rpmTag)7
+ARGV_t
+RLIMIT_STACK RLIMIT_STACK
+PF_SNA 22
+SO_SNDTIMEO 21
+PACKAGE_URL ""
+IP_UNICAST_IF 50
+_ISbit(bit) ((bit) < 8 ? ((1 << (bit)) << 8) : ((1 << (bit)) >> 8))
+EWOULDBLOCK EAGAIN
+HAVE_SYS_MOUNT_H 1
+URL_IS_MYSQL (urltype)33
+__FD_SETSIZE 1024
+HAVE_GETLINE 1
+CPU_ISSET(cpu,cpusetp) __CPU_ISSET_S (cpu, sizeof (cpu_set_t), cpusetp)
+_POSIX_NO_TRUNC 1
+ENAMETOOLONG 36
+_SC_SS_REPL_MAX _SC_SS_REPL_MAX
+O_RSYNC O_SYNC
+SOL_IRDA 266
+POPT_GROUP_MASK 0x0000FF00U
+FDIO_s
+FDIO_t
+sa_sigaction __sigaction_handler.sa_sigaction
+HAVE_MNTENT_H 1
+__STDC__ 1
+_IO_DONT_CLOSE 0100000
+_POSIX_SYNCHRONIZED_IO 200809L
+EBADF 9
+rpmrepo
+_ISOC11_SOURCE 1
+NI_IDN_USE_STD3_ASCII_RULES 128
+_CS_GNU_LIBPTHREAD_VERSION _CS_GNU_LIBPTHREAD_VERSION
+CHAR_MIN SCHAR_MIN
+WITH_POPT 1
+__WCHAR_TYPE__ long int
+roundup(x,y) (__builtin_constant_p (y) && powerof2 (y) ? (((x) + (y) - 1) & ~((y) - 1)) : ((((x) + ((y) - 1)) / (y)) * (y)))
+GLOB_NOSORT (1 << 2)
+ETIMEDOUT 110
+IP_MULTICAST_ALL 49
+ILL_ILLTRP ILL_ILLTRP
+HAVE_ICONV 1
+MCAST_BLOCK_SOURCE 43
+ENABLE_NLS 1
+SO_DONTROUTE 5
+_POSIX_ASYNCHRONOUS_IO 200809L
+_IOS_TRUNC 16
+MQ_PRIO_MAX 32768
+_H_PKGIO 
+_MKNOD_VER_LINUX 1
+_LIBC_LIMITS_H_ 1
+S_TYPEISMQ(buf) __S_TYPEISMQ(buf)
+va_arg(v,l) __builtin_va_arg(v,l)
+PROT_NONE 0x0
+S_IWOTH (S_IWGRP >> 3)
+RPMDBI_REMOVED (rpmTag)4
+POLLIN 0x001
+__SLONGWORD_TYPE long int
+__INO64_T_TYPE __UQUAD_TYPE
+HAVE_REGCOMP 1
+_PATH_BSHELL "/bin/sh"
+_OLD_STDIO_MAGIC 0xFABC0000
+VALGRIND_FREELIKE_BLOCK(addr,rzB) 
+SIG_HOLD ((__sighandler_t) 2)
+SO_PEEK_OFF 42
+_CS_LFS_LDFLAGS _CS_LFS_LDFLAGS
+_SC_V6_LP64_OFF64 _SC_V6_LP64_OFF64
+ACCESSPERMS (S_IRWXU|S_IRWXG|S_IRWXO)
+MNTOPT_DEFAULTS "defaults"
+MSG_PROXY MSG_PROXY
+IPV6_RTHDR_STRICT 1
+_ENDIAN_H 1
+IPPROTO_DCCP IPPROTO_DCCP
+_PATH_TMP "/tmp/"
+__malloc_and_calloc_defined 
+VALGRIND_HG_BARRIER_INIT_PRE(_bar,_count,_resizable) 
+_SC_MB_LEN_MAX _SC_MB_LEN_MAX
+__isupper_l(c,l) __isctype_l((c), _ISupper, (l))
+RLIMIT_MSGQUEUE __RLIMIT_MSGQUEUE
+_PC_SYNC_IO _PC_SYNC_IO
+NULL ((void *)0)
+__BLKCNT_T_TYPE __SYSCALL_SLONG_TYPE
+EAI_NOTCANCELED -102
+__ASMNAME(cname) __ASMNAME2 (__USER_LABEL_PREFIX__, cname)
+__fsfilcnt_t_defined 
+__SIZEOF_LONG_LONG__ 8
+ESRMNT 69
+RPMLOG_DEFAULT 0x01
+_SC_MEMORY_PROTECTION _SC_MEMORY_PROTECTION
+_IO_stdout ((_IO_FILE*)(&_IO_2_1_stdout_))
+O_NONBLOCK 04000
+_unused2
+__stub_stty 
+CLONE_SYSVSEM 0x00040000
+_SC_V7_LPBIG_OFFBIG _SC_V7_LPBIG_OFFBIG
+_SC_XBS5_ILP32_OFFBIG _SC_XBS5_ILP32_OFFBIG
+__USE_GNU 1
+HAVE_LGETXATTR 1
+_XOPEN_SOURCE
+ENOBUFS 105
+__socklen_t_defined 
+__WAIT_INT(status) (__extension__ (((union { __typeof(status) __in; int __i; }) { .__in = (status) }).__i))
+pubkey
+_POSIX_AIO_LISTIO_MAX 2
+__WCOREFLAG 0x80
+__USER_LABEL_PREFIX__ 
+SO_DOMAIN 39
+HAVE_TIME 1
+si_uid _sifields._kill.si_uid
+SSIZE_MAX LONG_MAX
+H_RPMURL 
+S_IXOTH (S_IXGRP >> 3)
+timeradd(a,b,result) do { (result)->tv_sec = (a)->tv_sec + (b)->tv_sec; (result)->tv_usec = (a)->tv_usec + (b)->tv_usec; if ((result)->tv_usec >= 1000000) { ++(result)->tv_sec; (result)->tv_usec -= 1000000; } } while (0)
+__SIGRTMIN 32
+PROT_GROWSUP 0x02000000
+REG_DS REG_DS
+__USE_ISOC95 1
+MAXNAMLEN NAME_MAX
+EMFILE 24
+__UINTMAX_MAX__ 18446744073709551615ULL
+_IO_USER_BUF 1
+setprogname(pn) 
+BIG_ENDIAN __BIG_ENDIAN
+required_argument 1
+mempcpy(dest,src,n) __mempcpy (dest, src, n)
+HAVE_MEMMOVE 1
+_PC_VDISABLE _PC_VDISABLE
+SOL_AAL 265
+VALGRIND_HG_SEM_DESTROY_PRE(_sem) 
+__need_NULL
+_GCC_NEXT_LIMITS_H 
+EAI_OVERFLOW -12
+AI_ALL 0x0010
+S_ISTXT S_ISVTX
+_POSIX_THREAD_DESTRUCTOR_ITERATIONS 4
+__linux__ 1
+_POSIX_SHELL 1
+_IO_stdin ((_IO_FILE*)(&_IO_2_1_stdin_))
+_PATH_CONSOLE "/dev/console"
+PF_BLUETOOTH 31
+AF_RXRPC PF_RXRPC
+_SC_LEVEL1_ICACHE_ASSOC _SC_LEVEL1_ICACHE_ASSOC
+__WCOREDUMP(status) ((status) & __WCOREFLAG)
+_EXTERN_INLINE __extern_inline
+IN_CLASSA_MAX 128
+ENOPKG 65
+_ANSI_STDARG_H_ 
+MOD_ESTERROR ADJ_ESTERROR
+exit
+_POSIX_PATH_MAX 256
+MCAST_LEAVE_SOURCE_GROUP 47
+_POSIX2_BC_STRING_MAX 1000
+__UINT_LEAST64_MAX__ 18446744073709551615ULL
+HAVE_MCHECK_H 1
+_PATH_RWHODIR "/var/spool/rwho"
+__defined_schedparam 1
+_G_HAVE_MMAP 1
+_CS_POSIX_V6_ILP32_OFF32_CFLAGS _CS_POSIX_V6_ILP32_OFF32_CFLAGS
+INT32_MIN (-2147483647-1)
+HAVE_POLL_H 1
+_mode
+S_IRWXO (S_IRWXG >> 3)
+PDP_ENDIAN __PDP_ENDIAN
+FTS_LOGICAL 0x0002
+_POSIX2_BC_BASE_MAX 99
+_G_BUFSIZ 8192
+__S_IFLNK 0120000
+_SC_SIGNALS _SC_SIGNALS
+IN_CLASSB_HOST (0xffffffff & ~IN_CLASSB_NET)
+PTHREAD_COND_INITIALIZER { { 0, 0, 0, 0, 0, (void *) 0, 0, 0 } }
+SPLICE_F_NONBLOCK 2
+HAVE_DCGETTEXT 1
+sql_qfmt
+__SIZEOF_PTHREAD_BARRIERATTR_T 4
+_POSIX_TYPED_MEMORY_OBJECTS -1
+_SC_SHARED_MEMORY_OBJECTS _SC_SHARED_MEMORY_OBJECTS
+BUS_ADRALN BUS_ADRALN
+ECONNREFUSED 111
+HAVE_GELF_GETVERNAUX 1
+__DBL_MAX_10_EXP__ 308
+HAVE_SYCK_H 1
+__UINTMAX_TYPE__ long long unsigned int
+__bswap_16(x) (__extension__ ({ unsigned short int __v, __x = (unsigned short int) (x); if (__builtin_constant_p (__x)) __v = __bswap_constant_16 (__x); else __asm__ ("rorw $8, %w0" : "=r" (__v) : "0" (__x) : "cc"); __v; }))
+__LC_ALL 6
+__need___FILE 
+argvAppend
+PF_INET 2
+SIGSTOP 19
+__END_NAMESPACE_C99 
+__stub_fattach 
+__S_TYPEISSHM(buf) ((buf)->st_mode - (buf)->st_mode)
+MADV_DONTDUMP 16
+PTRDIFF_MIN (-2147483647-1)
+_SC_BARRIERS _SC_BARRIERS
+VALGRIND_HG_MUTEX_DESTROY_PRE(_mutex) 
+RPMLUAFILES "/usr/lib/rpm/init.lua:/usr/lib/rpm/rpmlua:/usr/lib/rpm/%{_target}/rpmlua:/etc/rpm/rpmlua.*:/etc/rpm/rpmlua:/etc/rpm/%{_target}/rpmlua:~/.rpmlua"
+_SC_XBS5_ILP32_OFF32 _SC_XBS5_ILP32_OFF32
+AF_ROUTE PF_ROUTE
+HAVE_GRP_H 1
+SO_GET_FILTER SO_ATTACH_FILTER
+ANNOTATE_RWLOCK_CREATE(rwlock) 
+IN_CLASSC_NSHIFT 8
+MSG_ERRQUEUE MSG_ERRQUEUE
+baseurl
+SEEK_SET 0
+RPM_MASK_TYPE 0x0000ffff
+HAVE_MEMCPY 1
+si_call_addr _sifields._sigsys._call_addr
+_SC_AIO_PRIO_DELTA_MAX _SC_AIO_PRIO_DELTA_MAX
+ENETUNREACH 101
+__GCC_HAVE_SYNC_COMPARE_AND_SWAP_1 1
+N_(Text) Text
+__DEC64_MIN_EXP__ (-382)
+__UINT_LEAST64_TYPE__ long long unsigned int
+__REDIRECT_NTH_LDBL(name,proto,alias) __REDIRECT_NTH (name, proto, alias)
+PTHREAD_PROCESS_SHARED PTHREAD_PROCESS_SHARED
+IPPROTO_UDPLITE IPPROTO_UDPLITE
+REPO_FLAGS_DRYRUN
+EFAULT 14
+_POSIX_THREAD_ROBUST_PRIO_PROTECT -1
+iscntrl_l(c,l) __iscntrl_l ((c), (l))
+headerTagIndices
+pool
+_PC_REC_INCR_XFER_SIZE _PC_REC_INCR_XFER_SIZE
+alloca(size) __builtin_alloca (size)
+LT_OBJDIR ".libs/"
+_IO_UNBUFFERED 2
+close
+_SC_SEM_NSEMS_MAX _SC_SEM_NSEMS_MAX
+timerisset(tvp) ((tvp)->tv_sec || (tvp)->tv_usec)
+WORD_BIT 32
+EINPROGRESS 115
+__GID_T_TYPE __U32_TYPE
+SIGXFSZ 25
+FPE_FLTUND FPE_FLTUND
+_SIGSET_H_fns 1
+F_GETLEASE 1025
+_IO_LEFT 02
+isalnum(c) __isctype((c), _ISalnum)
+__ILP32_OFFBIG_CFLAGS "-m32 -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64"
+_IO_cleanup_region_end(_Doit) 
+HAVE_ATOL 1
+SIZEOF_UNSIGNED_LONG 4
+_BITS_SIGTHREAD_H 1
+IPV6_HOPOPTS 54
+EIO 5
+RE_DUP_MAX (0x7fff)
+RPMTAG_ENHANCES RPMTAG_ENHANCESNAME
+__CPU_ALLOC_SIZE(count) ((((count) + __NCPUBITS - 1) / __NCPUBITS) * sizeof (__cpu_mask))
+POLLPRI 0x002
+__LC_MONETARY 4
+_PATH_KMEM "/dev/kmem"
+POPT_CONTEXT_POSIXMEHARDER (1U << 2)
+NL_LANGMAX _POSIX2_LINE_MAX
+MCAST_UNBLOCK_SOURCE 44
+HAVE_STDINT_H 1
+_IO_FLAGS2_NOTCANCEL 2
+__need_wint_t
+__FLT_HAS_QUIET_NAN__ 1
+_IO_lock_t
+EDEADLOCK EDEADLK
+MAP_FAILED ((void *) -1)
+W_OK 2
+LOCK_SH 1
+SIGXCPU 24
+be32toh(x) __bswap_32 (x)
+NI_NUMERICHOST 1
+RPMMIRE_GLOB
+_SC_MESSAGE_PASSING _SC_MESSAGE_PASSING
+HAVE_FLOAT_H 1
+HAVE_LIBMAGIC 1
+WIFSTOPPED(status) __WIFSTOPPED (__WAIT_INT (status))
+basename __xpg_basename
+__LDBL_DIG__ 18
+_XOPEN_REALTIME 1
+HAVE_FTOK 1
+__const const
+HAVE_SYS_PRCTL_H 1
+__useconds_t_defined 
+FTS_FOLLOW 2
+_SC_NETWORKING _SC_NETWORKING
+WITH_PTHREADS 1
+__INO_T_TYPE __SYSCALL_ULONG_TYPE
+RPMVSF_NORSA
+__W_EXITCODE(ret,sig) ((ret) << 8 | (sig))
+CMSG_DATA(cmsg) ((cmsg)->__cmsg_data)
+__extern_always_inline extern __always_inline __attribute__ ((__gnu_inline__))
+_POSIX_FD_SETSIZE _POSIX_OPEN_MAX
+RLIM_SAVED_MAX RLIM_INFINITY
+_POSIX_FSYNC 200809L
+__isleap(year) ((year) % 4 == 0 && ((year) % 100 != 0 || (year) % 400 == 0))
+strncpy
+POPT_ARG_ARGV 12U
+__VA_COPY_USE_ASS(d,s) do { (d) = (s); } while (0)
+_IO_ssize_t __ssize_t
+SO_RCVTIMEO 20
+INT_LEAST32_MAX (2147483647)
+__INT_FAST32_TYPE__ int
+pgpVSFlags_e
+__S_IFCHR 0020000
+_POSIX_C_SOURCE
+__ATOMIC_HLE_ACQUIRE 65536
+rpmrepoDoRepoMetadata
+_PATH_VI "/usr/bin/vi"
+MAXSYMLINKS 20
+__INT8_MAX__ 127
+__nlink_t_defined 
+RUSAGE_CHILDREN RUSAGE_CHILDREN
+_SC_SYSTEM_DATABASE_R _SC_SYSTEM_DATABASE_R
+LOCK_UN 8
+INT_FAST64_MAX (__INT64_C(9223372036854775807))
+__INT32_MAX__ 2147483647
+WCHAR_MIN __WCHAR_MIN
+toupper(c) __tobody (c, toupper, *__ctype_toupper_loc (), (c))
+_SC_MEMLOCK _SC_MEMLOCK
+HAVE_STRSEP 1
+__GLIBC__ 2
+__USE_XOPEN2K8
+MNTOPT_SUID "suid"
+fdNew(_msg) XfdNew(_msg, __FILE__, __LINE__)
+version
+_CS_POSIX_V7_LPBIG_OFFBIG_CFLAGS _CS_POSIX_V7_LPBIG_OFFBIG_CFLAGS
+__UINT8_C(c) c
+AF_UNSPEC PF_UNSPEC
+PGPARMOR_ERROR PGPARMOR_ERR_NO_BEGIN_PGP
+EMEDIUMTYPE 124
+__SIZEOF_PTHREAD_COND_T 48
+_STATBUF_ST_BLKSIZE 
+IP_TOS 1
+ECONNABORTED 103
+_POSIX2_LINE_MAX 2048
+REPO_FLAGS_NONE
+PTHREAD_CREATE_JOINABLE PTHREAD_CREATE_JOINABLE
+PF_UNIX PF_LOCAL
+__USE_ISOC11 1
+PTHREAD_SCOPE_SYSTEM PTHREAD_SCOPE_SYSTEM
+CLONE_NEWNET 0x40000000
+errno (*__errno_location ())
+FTS_NAMEONLY 0x0100
+__va_copy(d,s) __builtin_va_copy(d,s)
+ANNOTATE_BENIGN_RACE_SIZED(_a,_b,_c) 
+rpmrepoError
+S_ISSOCK(mode) __S_ISTYPE((mode), __S_IFSOCK)
+__INT_LEAST64_MAX__ 9223372036854775807LL
+Packages_qfmt
+PF_ECONET 19
+POPT_ARG_MASK 0x000000FFU
+RPMLOG_ODELAY 0x04
+NL_NMAX INT_MAX
+SHUT_RD SHUT_RD
+__blksize_t_defined 
+COLL_WEIGHTS_MAX 255
+toascii_l(c,l) __toascii_l ((c), (l))
+ENOTNAM 118
+DRD_STOP_IGNORING_VAR(x) 
+_SC_RTSIG_MAX _SC_RTSIG_MAX
+_SC_NZERO _SC_NZERO
+POSIX_MADV_SEQUENTIAL 2
+PF_RDS 21
+__size_t size_t
+POLLREMOVE 0x1000
+CLONE_PTRACE 0x00002000
+_POSIX_SEM_NSEMS_MAX 256
+__SIZEOF_PTHREAD_CONDATTR_T 4
+__SYSCALL_ULONG_TYPE __ULONGWORD_TYPE
+_LFS64_ASYNCHRONOUS_IO 1
+__ptr_t void *
+HAVE_ISPRINT 1
+__BEGIN_DECLS 
+L_SET SEEK_SET
+POSIX_MADV_WILLNEED 3
+POLL_ERR POLL_ERR
+_CS_XBS5_ILP32_OFFBIG_LINTFLAGS _CS_XBS5_ILP32_OFFBIG_LINTFLAGS
+HAVE_STRNDUP 1
+_CS_XBS5_LP64_OFF64_LDFLAGS _CS_XBS5_LP64_OFF64_LDFLAGS
+DT_CHR DT_CHR
+bytesRemain
+MAXPATHLEN PATH_MAX
+__BITS_SOCKET_H 
+__SSE_MATH__ 1
+HAVE_RPMATCH 1
+st_mtime st_mtim.tv_sec
+F_GETSIG __F_GETSIG
+pgpImplAvailable_t
+FDSTACK_t
+_POSIX_TIMERS 200809L
+ARGstr_t
+IP_MAX_MEMBERSHIPS 20
+WNOWAIT 0x01000000
+toascii(c) __toascii (c)
+pgpImplInit_t
+IP_FREEBIND 15
+VALGRIND_HG_MUTEX_LOCK_PRE(_mutex,_isTryLock) 
+__USE_POSIX2 1
+__DBL_HAS_INFINITY__ 1
+HAVE_LIBELF 1
+__PTRDIFF_TYPE__ int
+IPPROTO_IP IPPROTO_IP
+urlLink(_u,_msg) (urlinfo) rpmioLinkPoolItem((rpmioItem)(_u), _msg, __FILE__, __LINE__)
+_SC_CPUTIME _SC_CPUTIME
+PF_NETBEUI 13
+_SC_NL_TEXTMAX _SC_NL_TEXTMAX
+_SC_LEVEL4_CACHE_SIZE _SC_LEVEL4_CACHE_SIZE
+st_atime st_atim.tv_sec
+HAVE_HERRNO 1
+RLIMIT_CPU RLIMIT_CPU
+WITH_BEECRYPT 1
+_IO_SHOWBASE 0200
+_IO_RIGHT 04
+_SC_STREAM_MAX _SC_STREAM_MAX
+__stub_fdetach 
+pgpDigLink(_dig) ((pgpDig)rpmioLinkPoolItem((rpmioItem)(_dig), __FUNCTION__, __FILE__, __LINE__))
+__INT_LEAST16_MAX__ 32767
+_SC_PIPE _SC_PIPE
+CHAR_MAX SCHAR_MAX
+XATTR_LIST_MAX 65536
+_POSIX2_RE_DUP_MAX 255
+ENODEV 19
+IN6_IS_ADDR_V4MAPPED(a) (__extension__ ({ const struct in6_addr *__a = (const struct in6_addr *) (a); __a->s6_addr32[0] == 0 && __a->s6_addr32[1] == 0 && __a->s6_addr32[2] == htonl (0xffff); }))
+__SOCKADDR_COMMON_SIZE (sizeof (unsigned short int))
+st_ctime st_ctim.tv_sec
+SEM_VALUE_MAX (2147483647)
+HAVE_SETLOCALE 1
+_XOPEN_ENH_I18N 1
+_SC_XOPEN_REALTIME _SC_XOPEN_REALTIME
+_DIRENT_HAVE_D_RECLEN 
+AF_IUCV PF_IUCV
+__ULONG32_TYPE unsigned long int
+HAVE_POSIX_FALLOCATE 1
+rpmpsFree(_ps) ((rpmps)rpmioFreePoolItem((rpmioItem)(_ps), __FUNCTION__, __FILE__, __LINE__))
+_SC_XOPEN_ENH_I18N _SC_XOPEN_ENH_I18N
+POLL_PRI POLL_PRI
+si_arch _sifields._sigsys._arch
+_POSIX_PTHREAD_SEMANTICS 1
+INT16_MIN (-32767-1)
+HAVE_ERROR_H 1
+_POSIX_NAME_MAX 14
+_SIZE_T_DEFINED 
+_SC_XOPEN_UNIX _SC_XOPEN_UNIX
+_SC_XOPEN_LEGACY _SC_XOPEN_LEGACY
+SI_ASYNCNL SI_ASYNCNL
+INTMAX_MAX (__INT64_C(9223372036854775807))
+CPU_ZERO_S(setsize,cpusetp) __CPU_ZERO_S (setsize, cpusetp)
+POSIX_FADV_NOREUSE __POSIX_FADV_NOREUSE
+__SIZEOF_LONG__ 4
+SOL_ATM 264
+POPT_ERROR_OVERFLOW -18
+__SI_MAX_SIZE 128
+_STAT_VER_SVR4 2
+S_IFLNK __S_IFLNK
+HAVE_SYS_WAIT_H 1
+_ATFILE_SOURCE 1
+opath
+FNM_NOMATCH 1
+RPM_OS_LINUX 030500
+POPT_ERROR_NOARG -10
+_SC_ASYNCHRONOUS_IO _SC_ASYNCHRONOUS_IO
+_SC_2_LOCALEDEF _SC_2_LOCALEDEF
+__END_DECLS 
+FD_CLR(fd,fdsetp) __FD_CLR (fd, fdsetp)
+stdin stdin
+__fmt
+SHRT_MIN (-SHRT_MAX - 1)
+__LC_TIME 2
+d_fileno d_ino
+__errno_location
+_STAT_VER _STAT_VER_LINUX
+IN_CLASSC_HOST (0xffffffff & ~IN_CLASSC_NET)
+_GCC_WCHAR_T 
+_PATH_KLOG "/proc/kmsg"
+__i386__ 1
+HAVE_SIGDELSET 1
+oflags
+_SC_V6_LPBIG_OFFBIG _SC_V6_LPBIG_OFFBIG
+CLONE_PARENT 0x00008000
+REPO_ISSET(_FLAG) ((repo->flags & ((REPO_FLAGS_ ##_FLAG) & ~0x40000000)) != REPO_FLAGS_NONE)
+_LINUX_LIMITS_H 
+DT_DIR DT_DIR
+HAVE_SYS_SOCKET_H 1
+S_IWUSR __S_IWRITE
+EPROTOTYPE 91
+_GCC_NEXT_LIMITS_H
+____FILE_defined 1
+w_retcode __wait_terminated.__w_retcode
+VALGRIND_GET_VBITS(zza,zzvbits,zznbytes) 
+__RLIM64_T_TYPE __UQUAD_TYPE
+__clockid_time_t
+_SC_V7_ILP32_OFF32 _SC_V7_ILP32_OFF32
+H_RPMXAR 
+_POSIX_SSIZE_MAX 32767
+H_RPMMG 
+Sources_fini
+HAVE_UNISTD_H 1
+suffix
+HAVE_GETXATTR 1
+WCOREDUMP(status) __WCOREDUMP (__WAIT_INT (status))
+HAVE_LIBZ 1
+__SOCKADDR_ALLTYPES __SOCKADDR_ONETYPE (sockaddr) __SOCKADDR_ONETYPE (sockaddr_at) __SOCKADDR_ONETYPE (sockaddr_ax25) __SOCKADDR_ONETYPE (sockaddr_dl) __SOCKADDR_ONETYPE (sockaddr_eon) __SOCKADDR_ONETYPE (sockaddr_in) __SOCKADDR_ONETYPE (sockaddr_in6) __SOCKADDR_ONETYPE (sockaddr_inarp) __SOCKADDR_ONETYPE (sockaddr_ipx) __SOCKADDR_ONETYPE (sockaddr_iso) __SOCKADDR_ONETYPE (sockaddr_ns) __SOCKADDR_ONETYPE (sockaddr_un) __SOCKADDR_ONETYPE (sockaddr_x25)
+_CS_XBS5_LP64_OFF64_CFLAGS _CS_XBS5_LP64_OFF64_CFLAGS
+HAVE_POSIX_FADVISE 1
+__USE_XOPEN2KXSI 1
+F_EXLCK 4
+__DEC32_MANT_DIG__ 7
+_SC_2_PBS_LOCATE _SC_2_PBS_LOCATE
+__O_NOATIME 01000000
+our_mntdir mnt_dir
+pgpVSFlags
+__PDP_ENDIAN 3412
+GLOB_NOCHECK (1 << 4)
+HAVE_SYS_XATTR_H 1
+GLOB_ALTDIRFUNC (1 << 9)
+NCARGS 131072
+FPE_FLTDIV FPE_FLTDIV
+strdupa(s) (__extension__ ({ const char *__old = (s); size_t __len = strlen (__old) + 1; char *__new = (char *) __builtin_alloca (__len); (char *) memcpy (__new, __old, __len); }))
+_POPT_BITS_N 1024U
+O_CLOEXEC __O_CLOEXEC
+verbose
+mireFree(_mire) (miRE)rpmioFreePoolItem((rpmioItem)_mire, __FUNCTION__, __FILE__, __LINE__)
+__INT_WCHAR_T_H 
+rpmuint8_t
+_POSIX_CLOCKRES_MIN 20000000
+NI_MAXSERV 32
+__RLIM_T_TYPE __SYSCALL_ULONG_TYPE
+EILSEQ 84
+RPMVSF_NORSAHEADER
+_PATH_VARRUN "/var/run/"
+_SC_LEVEL1_DCACHE_ASSOC _SC_LEVEL1_DCACHE_ASSOC
+HAVE_FGETS 1
+IPPROTO_IPIP IPPROTO_IPIP
+_IO_BAD_SEEN 0x4000
+_SYS_CDEFS_H 1
+__stream
+GLOB_NOMAGIC (1 << 11)
+IPV6_MULTICAST_HOPS 18
+_CS_XBS5_ILP32_OFFBIG_LIBS _CS_XBS5_ILP32_OFFBIG_LIBS
+EISDIR 21
+IP_HDRINCL 3
+w_coredump __wait_terminated.__w_coredump
+ENOTSOCK 88
+GLOB_DOOFFS (1 << 3)
+__need_timer_t 
+IPV6_NEXTHOP 9
+_IO_backup_base
+SO_TIMESTAMPNS 35
+_PATH_NSSWITCH_CONF "/etc/nsswitch.conf"
+_POSIX_TIMEOUTS 200809L
+__UINT_LEAST8_TYPE__ unsigned char
+MOD_FREQUENCY ADJ_FREQUENCY
+_pgpAvailableCipher
+___int_size_t_h 
+ESTRPIPE 86
+UINT_LEAST16_MAX (65535)
+RPMURL_SERVER_OPTIONSDONE ( 1 << 8)
+HAVE_LIBBZ2 1
+_SC_PII_INTERNET_DGRAM _SC_PII_INTERNET_DGRAM
+alloca __builtin_alloca
+CLOCK_BOOTTIME_ALARM 9
+__DECIMAL_BID_FORMAT__ 1
+EOPNOTSUPP 95
+no_argument 0
+hdrctx
+__GNUC_GNU_INLINE__ 1
+SYS_NMLN _UTSNAME_LENGTH
+FP_XSTATE_MAGIC1 0x46505853U
+__CPU_COUNT_S(setsize,cpusetp) __sched_cpucount (setsize, cpusetp)
+AF_BLUETOOTH PF_BLUETOOTH
+_SC_AIO_LISTIO_MAX _SC_AIO_LISTIO_MAX
+_BSD_SOURCE 1
+SA_NOMASK SA_NODEFER
+HAVE_PRINTF 1
+_CS_POSIX_V5_WIDTH_RESTRICTED_ENVS _CS_V5_WIDTH_RESTRICTED_ENVS
+VSF_CLR(_vsflags,_FLAG) (_vsflags) &= ~(RPMVSF_ ##_FLAG)
+be64toh(x) __bswap_64 (x)
+HAVE_SYSLOG 1
+isset(a,i) ((a)[(i)/NBBY] & (1<<((i)%NBBY)))
+__FLT_HAS_INFINITY__ 1
+__undef_LINK_MAX
+EAGAIN 11
+sigev_notify_function _sigev_un._sigev_thread._function
+_POSIX_PIPE_BUF 512
+rpmts
+DT_REG DT_REG
+__stpcpy(dest,src) __builtin_stpcpy (dest, src)
+RLIMIT_LOCKS __RLIMIT_LOCKS
+xcalloc(_nmemb,_size) (calloc((_nmemb), (_size)) ? : vmefail(_size))
+HOST_NOT_FOUND 1
+_CS_XBS5_LPBIG_OFFBIG_LDFLAGS _CS_XBS5_LPBIG_OFFBIG_LDFLAGS
+EADDRINUSE 98
+F_TEST 3
+RLIMIT_NICE __RLIMIT_NICE
+__strdup(s) (__extension__ (__builtin_constant_p (s) && __string2_1bptr_p (s) ? (((const char *) (s))[0] == '\0' ? (char *) calloc ((size_t) 1, (size_t) 1) : ({ size_t __len = strlen (s) + 1; char *__retval = (char *) malloc (__len); if (__retval != NULL) __retval = (char *) memcpy (__retval, s, __len); __retval; })) : __strdup (s)))
+rpmmgFree(_mg) ((rpmmg)rpmioFreePoolItem((rpmioItem)(_mg), __FUNCTION__, __FILE__, __LINE__))
+HAVE_LONG_LONG 1
+CLOCK_REALTIME 0
+_RPMPGP_INTERNAL 
+CPU_ALLOC(count) __CPU_ALLOC (count)
+RMIL_OLDSPEC -1
+clrbit(a,i) ((a)[(i)/NBBY] &= ~(1<<((i)%NBBY)))
+_POSIX_HIWAT _POSIX_PIPE_BUF
+RPMTAG_N RPMTAG_NAME
+_pgpSetELG
+ILL_ILLADR ILL_ILLADR
+contentDisposition
+__INT32_TYPE__ int
+RLIMIT_NPROC __RLIMIT_NPROC
+IP_RECVTOS 13
+IN_CLASSB_NSHIFT 16
+__STDLIB_MB_LEN_MAX 16
+POPT_ARG_INT 2U
+__O_PATH 010000000
+HAVE_SIGADDSET 1
+_PC_PATH_MAX _PC_PATH_MAX
+HAVE_CONFIG_H 1
+__WCHAR_MAX __WCHAR_MAX__
+__FLT_DIG__ 6
+EPROTO 71
+H_RPMTAG 
+__flexarr []
+EL2NSYNC 45
+__LDBL_REDIR1(name,proto,alias) name proto
+IPV6_UNICAST_HOPS 16
+GLOB_TILDE_CHECK (1 << 14)
+__UINT64_C(c) c ## ULL
+write
+_IO_read_end
+S_IFCHR __S_IFCHR
+_pgpGenerate
+_XOPEN_REALTIME_THREADS 1
+FPE_FLTINV FPE_FLTINV
+VSF_SET(_vsflags,_FLAG) (_vsflags) |= (RPMVSF_ ##_FLAG)
+__USING_NAMESPACE_STD(name) 
+__FD_ISSET(d,set) ((__FDS_BITS (set)[__FD_ELT (d)] & __FD_MASK (d)) != 0)
+__WSTOPSIG(status) __WEXITSTATUS(status)
+__LONG_LONG_MAX__ 9223372036854775807LL
+FTS_AGAIN 1
+_SC_LEVEL2_CACHE_LINESIZE _SC_LEVEL2_CACHE_LINESIZE
+H_RPMPGP 
+_SC_V7_ILP32_OFFBIG _SC_V7_ILP32_OFFBIG
+_IO_NO_READS 4
+__need_getopt
+WIFSIGNALED(status) __WIFSIGNALED (__WAIT_INT (status))
+__LDBL_MAX_EXP__ 16384
+STDOUT_FILENO 1
+EXPR_NEST_MAX _POSIX2_EXPR_NEST_MAX
+__LDBL_MIN__ 3.36210314311209350626e-4932L
+ELIBACC 79
+S_IFREG __S_IFREG
+_IO_save_base
+URL_IS_GIT (urltype)16
+AF_BRIDGE PF_BRIDGE
+EMSGSIZE 90
+POPT_CBFLAG_CONTINUE 0x08000000U
+CALLGRIND_TOGGLE_COLLECT 
+SIOCATMARK 0x8905
+__SIZEOF_PTHREAD_MUTEX_T 24
+_SC_2_PBS _SC_2_PBS
+SCM_TIMESTAMPNS SO_TIMESTAMPNS
+_SYS_POLL_H 1
+__have_sigevent_t 1
+ENOEXEC 8
+fdClose(_fd) fdio->close(_fd)
+IPV6_PMTUDISC_PROBE 3
+_CS_POSIX_V6_ILP32_OFFBIG_LINTFLAGS _CS_POSIX_V6_ILP32_OFFBIG_LINTFLAGS
+__INT16_C(c) c
+_SC_LEVEL3_CACHE_LINESIZE _SC_LEVEL3_CACHE_LINESIZE
+_BITS_POSIX2_LIM_H 1
+_WCHAR_T_DEFINED 
+HAVE_STRERROR 1
+MAP_EXECUTABLE 0x01000
+HAVE_GETOPT 1
+__stub_gtty 
+PF_DECnet 12
+INTPTR_MIN (-2147483647-1)
+__lldiv_t_defined 1
+MADV_DONTFORK 10
+HAVE_STRVERSCMP 1
+FD_t
+POPT_ARGFLAG_XOR 0x02000000U
+NI_NOFQDN 4
+__USE_ISOC11
+syserrno
+__GNU_LIBRARY__
+__VERSION__ "4.8.2"
+PACKAGE "rpm"
+__TIMER_T_TYPE void *
+PRIO_PROCESS PRIO_PROCESS
+PGPDIG_SAVED_ID (1 << 1)
+_POSIX_V6_ILP32_OFF32 1
+__FD_MASK(d) ((__fd_mask) 1 << ((d) % __NFDBITS))
+_SC_LEVEL4_CACHE_LINESIZE _SC_LEVEL4_CACHE_LINESIZE
+PF_ASH 18
+PIC 1
+__UINT_FAST32_TYPE__ unsigned int
+DBGREFS(_f,_x) DBG((_f), RPMIO_DEBUG_REFS, _x)
+_SC_NL_ARGMAX _SC_NL_ARGMAX
+_POSIX_TIMER_MAX 32
+hdrsha1ctx
+__INT_LEAST8_TYPE__ signed char
+DRD_xrealloc(_ptr,_size) xrealloc(_ptr, _size)
+PTHREAD_INHERIT_SCHED PTHREAD_INHERIT_SCHED
+outputdir
+xstrdup(_str) (strcpy((char *)(malloc(strlen(_str)+1) ? : vmefail(strlen(_str)+1)), (_str)))
+IN6_IS_ADDR_MC_NODELOCAL(a) (IN6_IS_ADDR_MULTICAST(a) && ((((const uint8_t *) (a))[1] & 0xf) == 0x1))
+_SC_2_FORT_DEV _SC_2_FORT_DEV
+RPMURL_IOBUF_SIZE 4096
+si_stime _sifields._sigchld.si_stime
+__uid_t_defined 
+__size_t
+__sigorset(dest,left,right) (__extension__ ({ int __cnt = _SIGSET_NWORDS; sigset_t *__dest = (dest); const sigset_t *__left = (left); const sigset_t *__right = (right); while (--__cnt >= 0) __dest->__val[__cnt] = (__left->__val[__cnt] | __right->__val[__cnt]); 0; }))
+SIGTRAP 5
+tocks
+_IO_funlockfile(_fp) 
+RPMVSF_NODSA
+__stub_setlogin 
+IPV6_RXHOPOPTS IPV6_HOPOPTS
+_PATH_DEFPATH "/usr/bin:/bin"
+_pgpAvailablePubkey
+_flush
+H_RPMPS 
+HAVE_ASSERT_H 1
+IPV6_RECVHOPLIMIT 51
+__O_DIRECT 040000
+IPV6_ROUTER_ALERT 22
+STDC_HEADERS 1
+F_NOTIFY 1026
+POPT_ARGFLAG_NOT 0x01000000U
+LOCK_NB 4
+__DEC64_MAX_EXP__ 385
+_IO_MAGIC_MASK 0xFFFF0000
+PACKAGE_NAME "rpm"
+IN_BADCLASS(a) ((((in_addr_t)(a)) & 0xf0000000) == 0xf0000000)
+HAVE_STRNCMP 1
+__stub_sstk 
+HEADER_IMAGE 61
+_IOS_NOCREATE 32
+NL_MSGMAX INT_MAX
+__SCHAR_MAX__ 127
+IP_MULTICAST_IF 32
+__need_time_t
+strsep(s,reject) __strsep (s, reject)
+_IO_SKIPWS 01
+_SC_MONOTONIC_CLOCK _SC_MONOTONIC_CLOCK
+__ino64_t_defined 
+_IO_buf_base
+xml_qfmt
+NSIG _NSIG
+MADV_MERGEABLE 12
+_PC_FILESIZEBITS _PC_FILESIZEBITS
+mdtimestamp
+_SC_2_PBS_CHECKPOINT _SC_2_PBS_CHECKPOINT
+HAVE_STRINGS_H 1
+ESHUTDOWN 108
+_POSIX_THREAD_PRIORITY_SCHEDULING 200809L
+_SC_TRACE _SC_TRACE
+_PATH_TTY "/dev/tty"
+RPMTAG_PROVIDES RPMTAG_PROVIDENAME
+_PC_SOCK_MAXBUF _PC_SOCK_MAXBUF
+SIOCSPGRP 0x8902
+AI_CANONIDN 0x0080
+PF_X25 9
+_SC_TTY_NAME_MAX _SC_TTY_NAME_MAX
+HAVE_MTRACE 1
+PTHREAD_RWLOCK_INITIALIZER { { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 } }
+__islower_l(c,l) __isctype_l((c), _ISlower, (l))
+_SC_XOPEN_SHM _SC_XOPEN_SHM
+_SC_NL_NMAX _SC_NL_NMAX
+PRIO_MAX 20
+SCM_TIMESTAMP SO_TIMESTAMP
+_SC_XOPEN_XPG2 _SC_XOPEN_XPG2
+MOD_MAXERROR ADJ_MAXERROR
+CLONE_FILES 0x00000400
+_SC_XBS5_LP64_OFF64 _SC_XBS5_LP64_OFF64
+__strtok_r(s,sep,nextp) (__extension__ (__builtin_constant_p (sep) && __string2_1bptr_p (sep) && ((const char *) (sep))[0] != '\0' && ((const char *) (sep))[1] == '\0' ? __strtok_r_1c (s, ((const char *) (sep))[0], nextp) : __strtok_r (s, sep, nextp)))
+_SC_SYNCHRONIZED_IO _SC_SYNCHRONIZED_IO
+__linux 1
+IPPROTO_TCP IPPROTO_TCP
+__LDBL_HAS_INFINITY__ 1
+_SC_TRACE_SYS_MAX _SC_TRACE_SYS_MAX
+PF_IUCV 32
+IN6_IS_ADDR_LOOPBACK(a) (__extension__ ({ const struct in6_addr *__a = (const struct in6_addr *) (a); __a->s6_addr32[0] == 0 && __a->s6_addr32[1] == 0 && __a->s6_addr32[2] == 0 && __a->s6_addr32[3] == htonl (1); }))
+RPM_MIN_TYPE 2
+_POSIX_CLOCK_SELECTION 200809L
+__SIZEOF_SHORT__ 2
+SO_PEERSEC 31
+__ssize_t_defined 
+_SC_CHAR_BIT _SC_CHAR_BIT
+IP_RECVRETOPTS IP_RETOPTS
+__ILP32_OFF32_LDFLAGS "-m32"
+gettext(msgid) dgettext (NULL, msgid)
+strcmp(s1,s2) __extension__ ({ size_t __s1_len, __s2_len; (__builtin_constant_p (s1) && __builtin_constant_p (s2) && (__s1_len = strlen (s1), __s2_len = strlen (s2), (!__string2_1bptr_p (s1) || __s1_len >= 4) && (!__string2_1bptr_p (s2) || __s2_len >= 4)) ? __builtin_strcmp (s1, s2) : (__builtin_constant_p (s1) && __string2_1bptr_p (s1) && (__s1_len = strlen (s1), __s1_len < 4) ? (__builtin_constant_p (s2) && __string2_1bptr_p (s2) ? __builtin_strcmp (s1, s2) : __strcmp_cg (s1, s2, __s1_len)) : (__builtin_constant_p (s2) && __string2_1bptr_p (s2) && (__s2_len = strlen (s2), __s2_len < 4) ? (__builtin_constant_p (s1) && __string2_1bptr_p (s1) ? __builtin_strcmp (s1, s2) : __strcmp_gc (s1, s2, __s2_len)) : __builtin_strcmp (s1, s2)))); })
+__NFDBITS (8 * (int) sizeof (__fd_mask))
+NI_NUMERICSERV 2
+_STDARG_H 
+__WINT_TYPE__ unsigned int
+INT_LEAST16_MAX (32767)
+POPT_ERROR_MALLOC -21
+SIGABRT 6
+_LFS64_LARGEFILE 1
+fdLink(_fd,_msg) ((FD_t)rpmioLinkPoolItem((rpmioItem)(_fd), _msg, __FILE__, __LINE__))
+O_NOATIME __O_NOATIME
+STA_PPSERROR 0x0800
+__ASSERT_VOID_CAST (void)
+_SC_PII_OSI _SC_PII_OSI
+isalpha(c) __isctype((c), _ISalpha)
+GLOB_PERIOD (1 << 7)
+WCONTINUED 8
+_SC_XOPEN_XPG4 _SC_XOPEN_XPG4
+_IO_ferror_unlocked(__fp) (((__fp)->_flags & _IO_ERR_SEEN) != 0)
+REPO_FLAGS_CHECKTS
+isascii(c) __isascii (c)
+H_RPMTS 
+HAVE_GETDELIM 1
+HAVE_MEMORY_H 1
+WITH_SYCK 1
+_PC_REC_MAX_XFER_SIZE _PC_REC_MAX_XFER_SIZE
+__FLT_MIN_10_EXP__ (-37)
+rpmDecreaseVerbosity() ((void)rpmlogSetMask((((int)(rpmlogSetMask(0) & 0xff)) >> 1)))
+NI_NAMEREQD 8
+HAVE_SYS_ACL_H 1
+RPMVSF_NOMD5
+_POSIX_CPUTIME 0
+__REDIRECT_LDBL(name,proto,alias) __REDIRECT (name, proto, alias)
+HAVE_LIBPTHREAD 1
+__attribute_alloc_size__(params) __attribute__ ((__alloc_size__ params))
+_IOFBF 0
+TIME_WITH_SYS_TIME 1
+_pgpSetECDSA
+__stub_lchmod 
+FTS_ERR 7
+F_DUPFD 0
+tempdir
+DRD_xcalloc(_nmemb,_size) xcalloc(_nmemb, _size)
+SCHED_FIFO 1
+__isspace_l(c,l) __isctype_l((c), _ISspace, (l))
+SIGINT 2
+__attribute_const__ __attribute__ ((__const__))
+sops
+SO_BSDCOMPAT 14
+DN_MODIFY 0x00000002
+__isctype_l(c,type,locale) ((locale)->__ctype_b[(int) (c)] & (unsigned short int) type)
+POPT_ARGFLAG_ONEDASH 0x80000000U
+INT8_MIN (-128)
+RPMDBI_REPOSITORY (rpmTag)17
+HAVE_GLOB_H 1
+__S32_TYPE int
+_SC_FSYNC _SC_FSYNC
+__FXSR__ 1
+SIZEOF_UNSIGNED_INT 4
+__nonnull(params) __attribute__ ((__nonnull__ params))
+__error_t_defined 1
+md5len
+URL_IS_POSTGRES (urltype)34
+MINSIGSTKSZ 2048
+VALGRIND_HG_BARRIER_DESTROY_PRE(_bar) 
+__need_size_t
+__GLOB_FLAGS (GLOB_ERR|GLOB_MARK|GLOB_NOSORT|GLOB_DOOFFS| GLOB_NOESCAPE|GLOB_NOCHECK|GLOB_APPEND| GLOB_PERIOD|GLOB_ALTDIRFUNC|GLOB_BRACE| GLOB_NOMAGIC|GLOB_TILDE|GLOB_ONLYDIR|GLOB_TILDE_CHECK)
+__need_malloc_and_calloc 
+PTHREAD_EXPLICIT_SCHED PTHREAD_EXPLICIT_SCHED
+__USE_ISOC99 1
+IPV6_ADD_MEMBERSHIP IPV6_JOIN_GROUP
+POPT_ARG_LONG 3U
+__GNUC_VA_LIST 
+pgpDigFree(_dig) ((pgpDig)rpmioFreePoolItem((rpmioItem)(_dig), __FUNCTION__, __FILE__, __LINE__))
+_IO_marker
+RPMTAG_CONFLICTS RPMTAG_CONFLICTNAME
+__UINT16_MAX__ 65535
+__MMX__ 1
+MCL_FUTURE 2
+WCOREFLAG __WCOREFLAG
+BUS_ADRERR BUS_ADRERR
+LONG_MIN (-LONG_MAX - 1L)
+CLD_STOPPED CLD_STOPPED
+PACKAGE_VERSION "5.4.9"
+VALGRIND_MEMPOOL_ALLOC(pool,addr,size) 
+__STRING_INLINE __extern_inline
+FTS_SLNONE 13
+NOGROUP (-1)
+WUNTRACED 2
+magic
+ANNOTATE_BENIGN_RACE(_a,_b) 
+SA_NOCLDSTOP 1
+__UINT32_C(c) c ## U
+HAVE_SIGSUSPEND 1
+MCL_CURRENT 1
+SO_DETACH_FILTER 27
+__SIZEOF_WINT_T__ 4
+__USE_XOPEN 1
+__USE_POSIX2
+EAI_NONAME -2
+HAVE_STRTOL 1
+rpmMireMode_e
+EAI_NODATA -5
+_GNU_SOURCE 1
+CMSG_ALIGN(len) (((len) + sizeof (size_t) - 1) & (size_t) ~(sizeof (size_t) - 1))
+headerUnlink(_h) ((Header)rpmioUnlinkPoolItem((rpmioItem)(_h), __FUNCTION__, __FILE__, __LINE__))
+PACKAGE_TARNAME "rpm"
+GLOB_NOSYS 4
+SV_ONSTACK (1 << 0)
+_POSIX2_BC_DIM_MAX 2048
+__STDC_ISO_10646__ 201103L
+O_WRONLY 01
+fdRead(_fd,_buf,_count) fdio->read((_fd), (_buf), (_count))
+pkgalgo
+_SC_FILE_SYSTEM _SC_FILE_SYSTEM
+__GCC_ATOMIC_INT_LOCK_FREE 2
+__LEAF , __leaf__
+nincludes
+__STDC_IEC_559_COMPLEX__ 1
+__CHAR16_TYPE__ short unsigned int
+_SC_PII_XTI _SC_PII_XTI
+POPT_ARGFLAG_TOGGLE 0x00200000U
+UINT_LEAST32_MAX (4294967295U)
+H_MIRE 
+IP_ADD_SOURCE_MEMBERSHIP 39
+memcpy
+CPU_SET_S(cpu,setsize,cpusetp) __CPU_SET_S (cpu, setsize, cpusetp)
+_BITS_TYPESIZES_H 1
+fdio_seek_function_t
+SIGSTKFLT 16
+_SC_FIFO _SC_FIFO
+__STRING2_SMALL_GET32(src,idx) (((((const unsigned char *) (const char *) (src))[idx + 3] << 8 | ((const unsigned char *) (const char *) (src))[idx + 2]) << 8 | ((const unsigned char *) (const char *) (src))[idx + 1]) << 8 | ((const unsigned char *) (const char *) (src))[idx])
+__UINT8_MAX__ 255
+MCAST_LEAVE_GROUP 45
+MCAST_JOIN_GROUP 42
+IN_LOOPBACKNET 127
+SI_ASYNCIO SI_ASYNCIO
+WAIT_MYPGRP 0
+AF_PPPOX PF_PPPOX
+timercmp(a,b,CMP) (((a)->tv_sec == (b)->tv_sec) ? ((a)->tv_usec CMP (b)->tv_usec) : ((a)->tv_sec CMP (b)->tv_sec))
+_SC_PAGE_SIZE _SC_PAGESIZE
+MSG_TRYHARD MSG_DONTROUTE
+ANNOTATE_IGNORE_READS_AND_WRITES_BEGIN() 
+_BITS_POSIX_OPT_H 1
+_IO_read_ptr
+__USE_ISOC95
+SOCK_CLOEXEC SOCK_CLOEXEC
+RPMLOG_PRIMASK 0x07
+tolower_l(c,locale) __tolower_l ((c), (locale))
+__USE_ISOC99
+isupper_l(c,l) __isupper_l ((c), (l))
+dgettext(domainname,msgid) dcgettext (domainname, msgid, LC_MESSAGES)
+usecs
+__O_CLOEXEC 02000000
+__ino_t_defined 
+IPV6_IPSEC_POLICY 34
+_IO_BE(expr,res) __builtin_expect ((expr), res)
+__FLOAT_WORD_ORDER __BYTE_ORDER
+isdigit_l(c,l) __isdigit_l ((c), (l))
+_SYS_UCONTEXT_H 1
+SA_STACK SA_ONSTACK
+POLL_OUT POLL_OUT
+INADDR_NONE ((in_addr_t) 0xffffffff)
+_ALL_SOURCE 1
+AF_ATMPVC PF_ATMPVC
+FNM_FILE_NAME FNM_PATHNAME
+URL_IS_SVN (urltype)17
+_SC_THREAD_ROBUST_PRIO_INHERIT _SC_THREAD_ROBUST_PRIO_INHERIT
+_UTSNAME_SYSNAME_LENGTH _UTSNAME_LENGTH
+sha1
+FIOSETOWN 0x8901
+_flags2
+SI_QUEUE SI_QUEUE
+_DARWIN_USE_64_BIT_INODE 1
+IPPROTO_SCTP IPPROTO_SCTP
+__ACTION_FN_T 
+WITH_ZLIB 1
+INT_FAST64_MIN (-__INT64_C(9223372036854775807)-1)
+__INT8_TYPE__ signed char
+_SC_2_SW_DEV _SC_2_SW_DEV
+isgraph_l(c,l) __isgraph_l ((c), (l))
+_IO_ERR_SEEN 0x20
+our_mntent struct mntent
+AI_V4MAPPED 0x0008
+_VA_LIST_DEFINED 
+SCHED_OTHER 0
+__ASMNAME2(prefix,cname) __STRING (prefix) cname
+__warnattr(msg) __attribute__((__warning__ (msg)))
+CPU_EQUAL_S(setsize,cpusetp1,cpusetp2) __CPU_EQUAL_S (setsize, cpusetp1, cpusetp2)
+PF_VSOCK 40
+VALGRIND_MAKE_MEM_DEFINED_IF_ADDRESSABLE(_qzz_addr,_qzz_len) 
+__ldiv_t_defined 1
+siglen
+be16toh(x) __bswap_16 (x)
+s6_addr __in6_u.__u6_addr8
+CLD_DUMPED CLD_DUMPED
+S_ISGID __S_ISGID
+_ASM_GENERIC_ERRNO_H 
+SIGILL 4
+__isgraph_l(c,l) __isctype_l((c), _ISgraph, (l))
+VALGRIND_HG_SEM_INIT_POST(_sem,_value) 
+CLOCK_THREAD_CPUTIME_ID 3
+POPT_BADOPTION_NOALIAS (1U << 0)
+_IO_HEX 0100
+__SSP__ 1
+_SC_2_C_VERSION _SC_2_C_VERSION
+FTS_COMFOLLOW 0x0001
+st_mtimespec st_mtim
+_SC_2_FORT_RUN _SC_2_FORT_RUN
+argvFree
+htons(x) __bswap_16 (x)
+IPPROTO_TP IPPROTO_TP
+_SC_PASS_MAX _SC_PASS_MAX
+_SC_UINT_MAX _SC_UINT_MAX
+HAVE_LIBBEECRYPT 1
+CLONE_UNTRACED 0x00800000
+_IO_write_ptr
+__PTHREAD_SPINS { 0, 0 }
+RPMTAG_V RPMTAG_VERSION
+INTMAX_MIN (-__INT64_C(9223372036854775807)-1)
+REG_SS REG_SS
+RPMLOG_PERROR 0x20
+_POSIX_SIGQUEUE_MAX 32
+_POSIX_THREAD_ROBUST_PRIO_INHERIT 200809L
+FTS_SKIP 4
+hash_algo
+__HAVE_COLUMN 
+__DEC128_MANT_DIG__ 34
+HAVE_INTTYPES_H 1
+IPV6_RTHDRDSTOPTS 55
+ENOSTR 60
+__SOCKADDR_COMMON(sa_prefix) sa_family_t sa_prefix ##family
+rpmioItem_s
+exclude_patterns
+_IO_uid_t __uid_t
+_POSIX2_EXPR_NEST_MAX 32
+SO_RCVBUFFORCE 33
+HAVE_PTHREAD_H 1
+_SC_ADVISORY_INFO _SC_ADVISORY_INFO
+_CS_POSIX_V6_ILP32_OFFBIG_LIBS _CS_POSIX_V6_ILP32_OFFBIG_LIBS
+SOL_RAW 255
+RPMDBI_HASH (rpmTag)11
+headerTagIndices_s
+EAI_FAIL -4
+IPPROTO_NONE IPPROTO_NONE
+__F_SETOWN 8
+headerFree(_h) ((Header)rpmioFreePoolItem((rpmioItem)(_h), __FUNCTION__, __FILE__, __LINE__))
+POPT_ARG_STRING 1U
+CPU_ZERO(cpusetp) __CPU_ZERO_S (sizeof (cpu_set_t), cpusetp)
+__USE_FILE_OFFSET64 1
+ERESTART 85
+S_TYPEISSHM(buf) __S_TYPEISSHM(buf)
+EALREADY 114
+POLLERR 0x008
+__LDBL_EPSILON__ 1.08420217248550443401e-19L
+CRC24_POLY 0x1864cfb
+SUPPORT_IMPLICIT_TAG_DATA_TYPES 1
+SIGEV_NONE SIGEV_NONE
+INT_MAX __INT_MAX__
+HAVE_SEARCH_H 1
+_BSD_WCHAR_T_
+HAVE_BZLIB_H 1
+_CS_POSIX_V6_LPBIG_OFFBIG_CFLAGS _CS_POSIX_V6_LPBIG_OFFBIG_CFLAGS
+EINTR 4
+_SC_LEVEL1_ICACHE_LINESIZE _SC_LEVEL1_ICACHE_LINESIZE
+EBADFD 77
+HAVE_STRDUP 1
+VALGRIND_MAKE_MEM_UNDEFINED(_qzz_addr,_qzz_len) 
+_UTSNAME_MACHINE_LENGTH _UTSNAME_LENGTH
+__DBL_HAS_QUIET_NAN__ 1
+IPV6_2292RTHDR 5
+W_STOPCODE(sig) __W_STOPCODE (sig)
+PF_ATMSVC 20
+DRD_TRACE_VAR(x) 
+_SC_CHILD_MAX _SC_CHILD_MAX
+PTHREAD_ADAPTIVE_MUTEX_INITIALIZER_NP { { 0, 0, 0, PTHREAD_MUTEX_ADAPTIVE_NP, 0, { __PTHREAD_SPINS } } }
+F_LOCK 1
+quiet
+REG_GS REG_GS
+_PC_NO_TRUNC _PC_NO_TRUNC
+_SC_GETGR_R_SIZE_MAX _SC_GETGR_R_SIZE_MAX
+si_addr_lsb _sifields._sigfault.si_addr_lsb
+_SC_V6_ILP32_OFFBIG _SC_V6_ILP32_OFFBIG
+__UINT8_TYPE__ unsigned char
+VALGRIND_HG_MUTEX_UNLOCK_POST(_mutex) 
+_UTSNAME_DOMAIN_LENGTH _UTSNAME_LENGTH
+__iscntrl_l(c,l) __isctype_l((c), _IScntrl, (l))
+IPV6_RTHDR_TYPE_0 0
+__INT8_C(c) c
+isxdigit(c) __isctype((c), _ISxdigit)
+STA_PPSJITTER 0x0200
+POPT_ARG_LONGLONG 10U
+__USE_ATFILE 1
+MAP_GROWSDOWN 0x00100
+_POSIX_CHILD_MAX 25
+USE_COOKIE_SEEK_POINTER 1
+__GCC_ATOMIC_WCHAR_T_LOCK_FREE 2
+_XOPEN_IOV_MAX _POSIX_UIO_MAXIOV
+NI_IDN_ALLOW_UNASSIGNED 64
+_CS_POSIX_V6_LP64_OFF64_LDFLAGS _CS_POSIX_V6_LP64_OFF64_LDFLAGS
+__PMT(args) args
+IPV6_2292HOPLIMIT 8
+IPV6_CHECKSUM 7
+SA_NODEFER 0x40000000
+isupper(c) __isctype((c), _ISupper)
+__BLKCNT64_T_TYPE __SQUAD_TYPE
+IPV6_LEAVE_GROUP 21
+SA_ONESHOT SA_RESETHAND
+_BITS_PTHREADTYPES_H 1
+_STATBUF_ST_RDEV 
+INET6_ADDRSTRLEN 46
+rpmrepo_s
+HAVE_STRCSPN 1
+__bos(ptr) __builtin_object_size (ptr, __USE_FORTIFY_LEVEL > 1)
+ANNOTATE_HAPPENS_BEFORE(_obj) 
+DN_RENAME 0x00000010
+AF_IRDA PF_IRDA
+__src
+LLONG_MIN (-LLONG_MAX-1)
+MACROFILES "%{_usrlibrpm}/macros:%{_usrlibrpm}/poky/macros:%{_usrlibrpm}/poky/%{_target}/macros:%{_etcrpm}/macros.*:%{_etcrpm}/macros:%{_etcrpm}/%{_target}/macros:~/.oerpmmacros"
+INT64_MAX (__INT64_C(9223372036854775807))
+SOCK_PACKET SOCK_PACKET
+REG_EFL REG_EFL
+PTHREAD_CANCEL_DISABLE PTHREAD_CANCEL_DISABLE
+_BSD_SIZE_T_ 
+REG_ERR REG_ERR
+ENOANO 55
+_POSIX_TRACE_INHERIT -1
+_CS_POSIX_V7_ILP32_OFF32_LDFLAGS _CS_POSIX_V7_ILP32_OFF32_LDFLAGS
+TIMESPEC_TO_TIMEVAL(tv,ts) { (tv)->tv_sec = (ts)->tv_sec; (tv)->tv_usec = (ts)->tv_nsec / 1000; }
+rpmpsUnlink(_ps,_msg) ((rpmps)rpmioUnlinkPoolItem((rpmioItem)(_ps), _msg, __FILE__, __LINE__))
+HAVE_STRUCT_STAT_ST_ATIM_TV_NSEC 1
+REG_ECX REG_ECX
+__INT16_TYPE__ short int
+S_ISCHR(mode) __S_ISTYPE((mode), __S_IFCHR)
+major(dev) gnu_dev_major (dev)
+CSIGNAL 0x000000ff
+IPV6_PMTUDISC_WANT 1
+STA_DEL 0x0020
+__WINT_MIN__ 0U
+STA_PPSTIME 0x0004
+_PATH_PROTOCOLS "/etc/protocols"
+HAVE_GETTEXT 1
+__sigmask(sig) (((unsigned long int) 1) << (((sig) - 1) % (8 * sizeof (unsigned long int))))
+_IOS_INPUT 1
+_XOPEN_SOURCE_EXTENDED
+__USE_LARGEFILE
+lastModified
+RLIMIT_FSIZE RLIMIT_FSIZE
+_STATBUF_ST_NSEC 
+SO_TIMESTAMP 29
+__LDBL_REDIR(name,proto) name proto
+_SC_BC_STRING_MAX _SC_BC_STRING_MAX
+FTS_NSOK 11
+SIG_ERR ((__sighandler_t) -1)
+argvPrint
+_LARGEFILE64_SOURCE
+__STDIO_INLINE
+__WCLONE 0x80000000
+RPMTAG_SVNID RPMTAG_CVSID
+_PATH_UTMP "/var/run/utmp"
+__LC_COLLATE 3
+__WCHAR_MIN__ (-__WCHAR_MAX__ - 1)
+SA_ONSTACK 0x08000000
+FTS_STOP 0x0200
+RUSAGE_LWP RUSAGE_THREAD
+_IO_va_list __gnuc_va_list
+_SC_SPAWN _SC_SPAWN
+_SC_PRIORITY_SCHEDULING _SC_PRIORITY_SCHEDULING
+_POSIX_QLIMIT 1
+userid
+ANNOTATE_READERLOCK_RELEASED(rwlock) 
+ULONG_LONG_MAX (LONG_LONG_MAX * 2ULL + 1ULL)
+yaml_init
+__STRING(x) #x
+_CS_POSIX_V7_LPBIG_OFFBIG_LDFLAGS _CS_POSIX_V7_LPBIG_OFFBIG_LDFLAGS
+htonl(x) __bswap_32 (x)
+WAIT_ANY (-1)
+EAI_ADDRFAMILY -9
+POPT_CBFLAG_SKIPOPTION 0x10000000U
+WEXITSTATUS(status) __WEXITSTATUS (__WAIT_INT (status))
+AF_ATMSVC PF_ATMSVC
+pgpImplSet_t
+HAVE_LIBGEN_H 1
+NGREG 19
+IP_MINTTL 21
+_PC_LINK_MAX _PC_LINK_MAX
+WSTOPSIG(status) __WSTOPSIG (__WAIT_INT (status))
+SIZEOF_CHAR 1
+fdio_read_function_t
+_SC_THREADS _SC_THREADS
+__need_time_t 
+headerLink(_h) ((Header)rpmioLinkPoolItem((rpmioItem)(_h), __FUNCTION__, __FILE__, __LINE__))
+__spins d.__espins
+_POSIX_V7_ILP32_OFFBIG 1
+IP_OPTIONS 4
+IP_PASSSEC 18
+POLLRDBAND 0x080
+ENFILE 23
+__stub_chflags 
+__ss_aligntype unsigned long int
+__SIGSETFN(NAME,BODY,CONST) _EXTERN_INLINE int NAME (CONST __sigset_t *__set, int __sig) { unsigned long int __mask = __sigmask (__sig); unsigned long int __word = __sigword (__sig); return BODY; }
+__have_siginfo_t 1
+_BSD_SIZE_T_DEFINED_ 
+__MKDIR_P "/bin/mkdir -p"
+_CS_POSIX_V7_ILP32_OFF32_LIBS _CS_POSIX_V7_ILP32_OFF32_LIBS
+RPMTAG_D RPMTAG_DISTEPOCH
+_POSIX_TRACE -1
+_noTransTriggers ( RPMTRANS_FLAG_NOTRIGGERPREIN | RPMTRANS_FLAG_NOTRIGGERIN | RPMTRANS_FLAG_NOTRIGGERUN | RPMTRANS_FLAG_NOTRIGGERPOSTUN )
+_IO_SHOWPOS 02000
+INADDR_UNSPEC_GROUP ((in_addr_t) 0xe0000000)
+E2BIG 7
+_SC_XOPEN_STREAMS _SC_XOPEN_STREAMS
+fdio_close_function_t
+__VA_COPY_USE_GCM(d,s) VA_COPY((d), (s))
+__progname __assert_program_name
+_CS_POSIX_V6_ILP32_OFF32_LIBS _CS_POSIX_V6_ILP32_OFF32_LIBS
+__GNUC_PATCHLEVEL__ 2
+ESRCH 3
+_PATH_LASTLOG "/var/log/lastlog"
+__FD_ZERO(fdsp) do { int __d0, __d1; __asm__ __volatile__ ("cld; rep; " __FD_ZERO_STOS : "=c" (__d0), "=D" (__d1) : "a" (0), "0" (sizeof (fd_set) / sizeof (__fd_mask)), "1" (&__FDS_BITS (fdsp)[0]) : "memory"); } while (0)
+F_SETLK F_SETLK64
+__INT_FAST32_MAX__ 2147483647
+S_IEXEC S_IXUSR
+_POSIX_THREAD_SPORADIC_SERVER -1
+signature
+_CS_LFS64_LDFLAGS _CS_LFS64_LDFLAGS
+__INT_FAST64_TYPE__ long long int
+FPE_INTOVF FPE_INTOVF
+H_POPTIO 
+_lock
+PF_IEEE802154 36
+STA_INS 0x0010
+ENOMSG 42
+IN6_IS_ADDR_SITELOCAL(a) (__extension__ ({ const struct in6_addr *__a = (const struct in6_addr *) (a); (__a->s6_addr32[0] & htonl (0xffc00000)) == htonl (0xfec00000); }))
+ILL_COPROC ILL_COPROC
+__SQUAD_TYPE __quad_t
+_SC_LEVEL2_CACHE_SIZE _SC_LEVEL2_CACHE_SIZE
+__off_t_defined 
+__USE_XOPEN2K 1
+__INT_FAST8_MAX__ 127
+UTIME_NOW ((1l << 30) - 1l)
+_SC_LEVEL4_CACHE_ASSOC _SC_LEVEL4_CACHE_ASSOC
+__need_mbstate_t
+_CS_POSIX_V6_LP64_OFF64_LIBS _CS_POSIX_V6_LP64_OFF64_LIBS
+strcspn(s,reject) __extension__ ({ char __r0, __r1, __r2; (__builtin_constant_p (reject) && __string2_1bptr_p (reject) ? ((__builtin_constant_p (s) && __string2_1bptr_p (s)) ? __builtin_strcspn (s, reject) : ((__r0 = ((const char *) (reject))[0], __r0 == '\0') ? strlen (s) : ((__r1 = ((const char *) (reject))[1], __r1 == '\0') ? __strcspn_c1 (s, __r0) : ((__r2 = ((const char *) (reject))[2], __r2 == '\0') ? __strcspn_c2 (s, __r0, __r1) : (((const char *) (reject))[3] == '\0' ? __strcspn_c3 (s, __r0, __r1, __r2) : __builtin_strcspn (s, reject)))))) : __builtin_strcspn (s, reject)); })
+HAVE_FUTIMENS 1
+__S_IFSOCK 0140000
+CPU_COUNT_S(setsize,cpusetp) __CPU_COUNT_S (setsize, cpusetp)
+PF_IRDA 23
+IP_MTU 14
+strndup(s,n) __strndup (s, n)
+__UINT_LEAST16_TYPE__ short unsigned int
+__LC_IDENTIFICATION 12
+HAVE_LUTIMES 1
+__LDBL_HAS_QUIET_NAN__ 1
+IPV6_2292HOPOPTS 3
+minor(dev) gnu_dev_minor (dev)
+EDOM
+HAVE_UTIME_H 1
+CPU_AND(destset,srcset1,srcset2) __CPU_OP_S (sizeof (cpu_set_t), destset, srcset1, srcset2, &)
+si_status _sifields._sigchld.si_status
+islower(c) __isctype((c), _ISlower)
+SO_BROADCAST 6
+stderr stderr
+TMP_MAX 238328
+ANNOTATE_HAPPENS_AFTER(_obj) 
+_POSIX_IPV6 200809L
+IP_DEFAULT_MULTICAST_LOOP 1
+_STAT_VER_KERNEL 1
+_G_va_list __gnuc_va_list
+_CS_XBS5_ILP32_OFF32_LINTFLAGS _CS_XBS5_ILP32_OFF32_LINTFLAGS
+rpmrepoLink(_repo) ((rpmrepo)rpmioLinkPoolItem((rpmioItem)(_repo), __FUNCTION__, __FILE__, __LINE__))
+MSG_DONTWAIT MSG_DONTWAIT
+LC_PAPER_MASK (1 << __LC_PAPER)
+_IO_STDIO 040000
+SI_TKILL SI_TKILL
+EISNAM 120
+__S_IFIFO 0010000
+IPPROTO_UDP IPPROTO_UDP
+_SC_TRACE_EVENT_NAME_MAX _SC_TRACE_EVENT_NAME_MAX
+__USE_POSIX199506 1
+/usr/src/debug/rpm/5.4.9-r63/rpm-5.4.9/tools/rpmrepo.c
+/build/tmp/work/core2-32-poky-linux/rpm/5.4.9-r63/rpm-5.4.9/tools/rpmrepo.c
+SIGSTKSZ 8192
+_POSIX_SPORADIC_SERVER -1
+_IO_buf_end
+RPM_NAME "RPM"
+__FLT_MAX__ 3.40282346638528859812e+38F
+IPV6_RECVDSTOPTS 58
+INT_MIN (-INT_MAX - 1)
+saved
+EDQUOT 122
+AF_LOCAL PF_LOCAL
+SI_USER SI_USER
+ERANGE
+__GCC_ATOMIC_SHORT_LOCK_FREE 2
+PACKAGE_BUGREPORT "rpm-devel@rpm5.org"
+HAVE_SIGRELSE 1
+_POSIX_MONOTONIC_CLOCK 0
+__OFF64_T_TYPE __SQUAD_TYPE
+POPT_ARGFLAG_OPTIONAL 0x10000000U
+pkglist
+L_tmpnam 20
+__CPU_SETSIZE 1024
+LOCK_READ 64
+_pgpSetRSA
+ENETRESET 102
+PIPE_BUF 4096
+CPU_AND_S(setsize,destset,srcset1,srcset2) __CPU_OP_S (setsize, destset, srcset1, srcset2, &)
+_BITS_WCHAR_H 1
+__tune_core2__ 1
+FAPPEND O_APPEND
+powerof2(x) ((((x) - 1) & (x)) == 0)
+S_IWRITE S_IWUSR
+_SC_ATEXIT_MAX _SC_ATEXIT_MAX
+__SSE__ 1
+_DIRENT_HAVE_D_TYPE 
+SOCK_RAW SOCK_RAW
+INT_LEAST8_MAX (127)
+__THROW __attribute__ ((__nothrow__ __LEAF))
+HAVE_MAJOR 
+RPMTAG_O RPMTAG_OBSOLETENAME
+FNM_NOSYS (-1)
+toupper_l(c,locale) __toupper_l ((c), (locale))
+_CS_POSIX_V6_LPBIG_OFFBIG_LINTFLAGS _CS_POSIX_V6_LPBIG_OFFBIG_LINTFLAGS
+_XOPEN_SOURCE_EXTENDED 1
+SO_REUSEPORT 15
+__FLT_MANT_DIG__ 24
+__long_double_t long double
+_IONBF 2
+HAVE_SYS_PARAM_H 1
+RPMTAG_E RPMTAG_EPOCH
+__undef_NR_OPEN
+fdio_flush_function_t
+__need_Emath
+_SC_PII_SOCKET _SC_PII_SOCKET
+__USE_FILE_OFFSET64
+__FLT_EPSILON__ 1.19209289550781250000e-7F
+__W_CONTINUED 0xffff
+__FSBLKCNT64_T_TYPE __UQUAD_TYPE
+htobe64(x) __bswap_64 (x)
+SIG_DFL ((__sighandler_t) 0)
+_POSIX_MAX_CANON 255
+UINT32_MAX (4294967295U)
+__UINT_LEAST32_MAX__ 4294967295U
+__clock_t_defined 1
+MNTOPT_RW "rw"
+rpmioItem
+WIFEXITED(status) __WIFEXITED (__WAIT_INT (status))
+__FSID_T_TYPE struct { int __val[2]; }
+SIGRTMIN (__libc_current_sigrtmin ())
+_DIRENT_HAVE_D_OFF 
+rpmuint32_t
+_CS_POSIX_V6_LPBIG_OFFBIG_LDFLAGS _CS_POSIX_V6_LPBIG_OFFBIG_LDFLAGS
+_PC_MAX_CANON _PC_MAX_CANON
+_BITS_UIO_H 1
+PF_PPPOX 24
+MAP_POPULATE 0x08000
+PF_CAN 29
+_POSIX_SEMAPHORES 200809L
+O_DSYNC __O_DSYNC
+UINT_MAX (INT_MAX * 2U + 1U)
+INADDR_BROADCAST ((in_addr_t) 0xffffffff)
+VALGRIND_CHECK_VALUE_IS_DEFINED(__lvalue) 
+O_RDONLY 00
+URLMAGIC 0xd00b1ed0U
+CPU_SETSIZE __CPU_SETSIZE
+rpmtsCreate
+_SC_TRACE_EVENT_FILTER _SC_TRACE_EVENT_FILTER
+CLONE_PARENT_SETTID 0x00100000
+_SC_THREAD_ROBUST_PRIO_PROTECT _SC_THREAD_ROBUST_PRIO_PROTECT
+_SC_SIGQUEUE_MAX _SC_SIGQUEUE_MAX
+RLIMIT_RTPRIO __RLIMIT_RTPRIO
+strchr(s,c) (__extension__ (__builtin_constant_p (c) && !__builtin_constant_p (s) && (c) == '\0' ? (char *) __rawmemchr (s, c) : __builtin_strchr (s, c)))
+S_TYPEISSEM(buf) __S_TYPEISSEM(buf)
+_UTSNAME_LENGTH 65
+__S_IFREG 0100000
+MS_ASYNC 1
+__UWORD_TYPE unsigned int
+CPU_XOR(destset,srcset1,srcset2) __CPU_OP_S (sizeof (cpu_set_t), destset, srcset1, srcset2, ^)
+MOD_TIMECONST ADJ_TIMECONST
+HAVE_GETMNTENT 1
+rpmiobLink(_iob) ((rpmiob)rpmioLinkPoolItem((rpmioItem)(_iob), __FUNCTION__, __FILE__, __LINE__))
+FNM_PATHNAME (1 << 0)
+rpmxarLink(_xar,_msg) ((rpmxar)rpmioLinkPoolItem((rpmioItem)(_xar), _msg, __FILE__, __LINE__))
+F_OK 0
+__STDC_HOSTED__ 1
+_PATH_VARDB "/var/db/"
+_POSIX_SOURCE
+__INT_FAST64_MAX__ 9223372036854775807LL
+__SIGRTMAX (_NSIG - 1)
+_IOS_ATEND 4
+PF_ROUTE PF_NETLINK
+MSG_MORE MSG_MORE
+ARG_MAX 131072
+PTHREAD_CREATE_DETACHED PTHREAD_CREATE_DETACHED
+_rpmsw_stats
+_POSIX_SPAWN 200809L
+PF_UNSPEC 0
+strncmp(s1,s2,n) (__extension__ (__builtin_constant_p (n) && ((__builtin_constant_p (s1) && strlen (s1) < ((size_t) (n))) || (__builtin_constant_p (s2) && strlen (s2) < ((size_t) (n)))) ? strcmp (s1, s2) : strncmp (s1, s2, n)))
+GLOB_NOMATCH 3
+RLIMIT_RTTIME __RLIMIT_RTTIME
+ALLPERMS (S_ISUID|S_ISGID|S_ISVTX|S_IRWXU|S_IRWXG|S_IRWXO)
+PTHREAD_MUTEX_INITIALIZER { { 0, 0, 0, 0, 0, { __PTHREAD_SPINS } } }
+PF_BRIDGE 7
+MADV_REMOVE 9
+finaldir
+IPPROTO_IGMP IPPROTO_IGMP
+st_birthtime st_ctime
+__KEY_T_TYPE __S32_TYPE
+ftpFileDoneNeeded
+xml_init
+O_NDELAY O_NONBLOCK
+__INT64_C(c) c ## LL
+EREMOTEIO 121
+IP_PKTOPTIONS 9
+FNM_CASEFOLD (1 << 4)
+PF_KEY 15
+_POSIX_ASYNC_IO 1
+_shortbuf
+_sbuf
+HAVE_FGETC 1
+EXEC_PAGESIZE 4096
+SCM_TIMESTAMPING SO_TIMESTAMPING
+__S64_TYPE __quad_t
+RPMTAG_OBSOLETES RPMTAG_OBSOLETENAME
+__bswap_constant_16(x) ((unsigned short int) ((((x) >> 8) & 0xff) | (((x) & 0xff) << 8)))
+F_GETLK F_GETLK64
+__ORDER_LITTLE_ENDIAN__ 1234
+_SC_WORD_BIT _SC_WORD_BIT
+pthread_cleanup_pop_restore_np(execute) (void) pthread_setcanceltype (__clframe.__cancel_type, NULL); __clframe.__do_it = (execute); } while (0)
+MAP_HUGETLB 0x40000
+HAVE_SIGEMPTYSET 1
+INT16_MAX (32767)
+D_(Text) Text
+SHUT_RDWR SHUT_RDWR
+__USE_POSIX
+_PATH_SERVICES "/etc/services"
+rpmioFreePoolItem
+MADV_DODUMP 17
+IN6_IS_ADDR_MC_ORGLOCAL(a) (IN6_IS_ADDR_MULTICAST(a) && ((((const uint8_t *) (a))[1] & 0xf) == 0x8))
+VALGRIND_HG_SEM_POST_PRE(_sem) 
+HAVE_LIBATTR 1
+si_fd _sifields._sigpoll.si_fd
+FD_CLOEXEC 1
+DT_FIFO DT_FIFO
+HAVE_MKSTEMP 1
+__WALL 0x40000000
+HAVE_S_ISSOCK 1
+TEMP_FAILURE_RETRY(expression) (__extension__ ({ long int __result; do __result = (long int) (expression); while (__result == -1L && errno == EINTR); __result; }))
+SO_RCVLOWAT 18
+X_OK 1
+__UINT_LEAST8_MAX__ 255
+_SC_CLOCK_SELECTION _SC_CLOCK_SELECTION
+AI_PASSIVE 0x0001
+ECOMM 70
+_IO_BOOLALPHA 0200000
+ILL_BADSTK ILL_BADSTK
+LC_ADDRESS_MASK (1 << __LC_ADDRESS)
+_MKNOD_VER_SVR4 2
+_IO_write_end
+NZERO 20
+_SC_XBS5_LPBIG_OFFBIG _SC_XBS5_LPBIG_OFFBIG
+WITH_PCRE 1
+HAVE_LIBDB_5_3 1
+IPV6_XFRM_POLICY 35
+_SC_THREAD_PROCESS_SHARED _SC_THREAD_PROCESS_SHARED
+__FLT_MIN__ 1.17549435082228750797e-38F
+IP_MULTICAST_TTL 33
+__need_malloc_and_calloc
+__USE_XOPEN2K
+signid
+_SC_DELAYTIMER_MAX _SC_DELAYTIMER_MAX
+IN_CLASSA_NSHIFT 24
+HAVE_FCNTL_H 1
+IP_XFRM_POLICY 17
+_SC_THREAD_PRIO_INHERIT _SC_THREAD_PRIO_INHERIT
+_SC_XOPEN_XCU_VERSION _SC_XOPEN_XCU_VERSION
+SCM_RIGHTS SCM_RIGHTS
+__SSE2__ 1
+_FEATURES_H 1
+ECHILD 10
+_POSIX_PRIORITIZED_IO 200809L
+WITH_BZIP2 1
+MAX(a,b) (((a)>(b))?(a):(b))
+__key_t_defined 
+_PATH_SHELLS "/etc/shells"
+IN6ADDR_LOOPBACK_INIT { { { 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1 } } }
+ANNOTATE_IGNORE_READS_END() 
+EAI_CANCELED -101
+__UINT_FAST16_MAX__ 4294967295U
+FTS_SEEDOT 0x0020
+BC_STRING_MAX _POSIX2_BC_STRING_MAX
+GLOB_MAGCHAR (1 << 8)
+F_SETLKW64 14
+HAVE_BASENAME 1
+HAVE_REALPATH 1
+RPMDBI_HEAP (rpmTag)14
+_POSIX_TZNAME_MAX 6
+SCM_SRCRT IPV6_RXSRCRT
+pgpDigParams
+CPU_CLR(cpu,cpusetp) __CPU_CLR_S (cpu, sizeof (cpu_set_t), cpusetp)
+__PIC__ 2
+S_IREAD S_IRUSR
+RPMURL_DEBUG_IO 0x40000000
+__suseconds_t
+_pos
+__DEC32_MIN__ 1E-95DF
+_SC_EXPR_NEST_MAX _SC_EXPR_NEST_MAX
+SOL_IPV6 41
+__need_size_t 
+HEADER_REGIONS 64
+HAVE_SIGNAL_H 1
+EACCES 13
+EBADE 52
+__UINT_LEAST32_TYPE__ unsigned int
+__WORDSIZE 32
+rpmtsSetVSFlags
+AF_IPX PF_IPX
+alula
+SIGVTALRM 26
+__FSBLKCNT_T_TYPE __SYSCALL_ULONG_TYPE
+FPE_FLTSUB FPE_FLTSUB
+ENAVAIL 119
+_ISOC11_SOURCE
+IN6_IS_ADDR_UNSPECIFIED(a) (__extension__ ({ const struct in6_addr *__a = (const struct in6_addr *) (a); __a->s6_addr32[0] == 0 && __a->s6_addr32[1] == 0 && __a->s6_addr32[2] == 0 && __a->s6_addr32[3] == 0; }))
+REG_UESP REG_UESP
+AT_SYMLINK_NOFOLLOW 0x100
+CPU_ISSET_S(cpu,setsize,cpusetp) __CPU_ISSET_S (cpu, setsize, cpusetp)
+DBGIO(_f,_x) DBG((_f), RPMIO_DEBUG_IO, _x)
+__strndup(s,n) (__extension__ (__builtin_constant_p (s) && __string2_1bptr_p (s) ? (((const char *) (s))[0] == '\0' ? (char *) calloc ((size_t) 1, (size_t) 1) : ({ size_t __len = strlen (s) + 1; size_t __n = (n); char *__retval; if (__n < __len) __len = __n + 1; __retval = (char *) malloc (__len); if (__retval != NULL) { __retval[__len - 1] = '\0'; __retval = (char *) memcpy (__retval, s, __len - 1); } __retval; })) : __strndup (s, n)))
+_IO_file_flags _flags
+POPT_ERROR_OPTSTOODEEP -13
+UINT_FAST16_MAX (4294967295U)
+_SC_USER_GROUPS_R _SC_USER_GROUPS_R
+IN6_ARE_ADDR_EQUAL(a,b) (__extension__ ({ const struct in6_addr *__a = (const struct in6_addr *) (a); const struct in6_addr *__b = (const struct in6_addr *) (b); __a->s6_addr32[0] == __b->s6_addr32[0] && __a->s6_addr32[1] == __b->s6_addr32[1] && __a->s6_addr32[2] == __b->s6_addr32[2] && __a->s6_addr32[3] == __b->s6_addr32[3]; }))
+SIGALRM 14
+_FNMATCH_H 1
+POPT_ARG_DOUBLE 9U
+ENOSR 63
+_IO_fpos64_t _G_fpos64_t
+S_IRUSR __S_IREAD
+_PATH_DEVNULL "/dev/null"
+_WCHAR_T_DECLARED 
+EAI_AGAIN -3
+NI_MAXHOST 1025
+_ISOC95_SOURCE
+_POSIX_C_SOURCE 200809L
+argvSort
+s6_addr16 __in6_u.__u6_addr16
+_CS_V5_WIDTH_RESTRICTED_ENVS _CS_V5_WIDTH_RESTRICTED_ENVS
+PF_ALG 38
+mireLoadPatterns
+__CPU_CLR_S(cpu,setsize,cpusetp) (__extension__ ({ size_t __cpu = (cpu); __cpu / 8 < (setsize) ? (((__cpu_mask *) ((cpusetp)->__bits))[__CPUELT (__cpu)] &= ~__CPUMASK (__cpu)) : 0; }))
+RPMTAG_R RPMTAG_RELEASE
+PF_SECURITY 14
+MSG_TRUNC MSG_TRUNC
+SOCK_RDM SOCK_RDM
+miRE
+pubkey_algo
+_XOPEN_XPG3 1
+__S_TYPEISMQ(buf) ((buf)->st_mode - (buf)->st_mode)
+STATFS_HAS_F_BAVAIL 1
+_SC_SINGLE_PROCESS _SC_SINGLE_PROCESS
+HAVE_LOCALTIME 1
+_ISOC95_SOURCE 1
+PTHREAD_RWLOCK_WRITER_NONRECURSIVE_INITIALIZER_NP { { 0, 0, 0, 0, 0, 0, PTHREAD_RWLOCK_PREFER_WRITER_NONRECURSIVE_NP, 0, 0, 0, 0 } }
+VALGRIND_MOVE_MEMPOOL(poolA,poolB) 
+sigcontext_struct sigcontext
+_FD_s
+__sigisemptyset(set) (__extension__ ({ int __cnt = _SIGSET_NWORDS; const sigset_t *__set = (set); int __ret = __set->__val[--__cnt]; while (!__ret && --__cnt >= 0) __ret = __set->__val[__cnt]; __ret == 0; }))
+AI_IDN_USE_STD3_ASCII_RULES 0x0200
+__PRAGMA_REDEFINE_EXTNAME 1
+FTS_OPTIONMASK 0x00ff
+__ILP32_OFFBIG_LDFLAGS "-m32"
+_SC_MULTI_PROCESS _SC_MULTI_PROCESS
+_H_ARGV_ 
+SIGEV_THREAD SIGEV_THREAD
+SIZEOF_UNSIGNED_SHORT 2
+_SC_PII_OSI_CLTS _SC_PII_OSI_CLTS
+L_cuserid 9
+_SC_PII_INTERNET _SC_PII_INTERNET
+PTHREAD_BARRIER_SERIAL_THREAD -1
+SO_WIFI_STATUS 41
+GAI_NOWAIT 1
+__isblank_l(c,l) __isctype_l((c), _ISblank, (l))
+__SIZE_T 
+RPMURL_DEBUG_REFS 0x20000000
+SHUT_WR SHUT_WR
+_PC_2_SYMLINKS _PC_2_SYMLINKS
+si_ptr _sifields._rt.si_sigval.sival_ptr
+ENOLCK 37
+IP_UNBLOCK_SOURCE 37
+MAX_HANDLE_SZ 128
+F_GETLK64 12
+__REDIRECT_NTHNL(name,proto,alias) name proto __asm__ (__ASMNAME (#alias)) __THROWNL
+_SC_LEVEL3_CACHE_ASSOC _SC_LEVEL3_CACHE_ASSOC
+BC_DIM_MAX _POSIX2_BC_DIM_MAX
+HAVE_ISDIGIT 1
+HAVE_SYS_RESOURCE_H 1
+MSG_CTRUNC MSG_CTRUNC
+__stub_fchflags 
+CLOCK_MONOTONIC 1
+bcopy
+SIZEOF_LONG_LONG 8
+signhash16
+_IO_BUFSIZ _G_BUFSIZ
+SPLICE_F_GIFT 8
+_LFS_ASYNCHRONOUS_IO 1
+_IO_stderr ((_IO_FILE*)(&_IO_2_1_stderr_))
+__USE_EXTERN_INLINES 1
+__CPU_EQUAL_S(setsize,cpusetp1,cpusetp2) (__builtin_memcmp (cpusetp1, cpusetp2, setsize) == 0)
+_SC_SCHAR_MAX _SC_SCHAR_MAX
+HAVE_ATOI 1
+__S_ISTYPE(mode,mask) (((mode) & __S_IFMT) == (mask))
+NGROUPS_MAX 65536
+timersub(a,b,result) do { (result)->tv_sec = (a)->tv_sec - (b)->tv_sec; (result)->tv_usec = (a)->tv_usec - (b)->tv_usec; if ((result)->tv_usec < 0) { --(result)->tv_sec; (result)->tv_usec += 1000000; } } while (0)
+_SC_CHAR_MAX _SC_CHAR_MAX
+POPT_CBFLAG_POST 0x40000000U
+_SC_NL_SETMAX _SC_NL_SETMAX
+SV_RESETHAND (1 << 2)
+_SC_AVPHYS_PAGES _SC_AVPHYS_PAGES
+CLD_EXITED CLD_EXITED
+htole64(x) (x)
+__SIZEOF_LONG_DOUBLE__ 12
+__USE_LARGEFILE 1
+__TIME_T_TYPE __SYSCALL_SLONG_TYPE
+manifests
+FNM_PERIOD (1 << 2)
+__SIZEOF_DOUBLE__ 8
+__FLT_MAX_EXP__ 128
+_CS_POSIX_V7_LP64_OFF64_LDFLAGS _CS_POSIX_V7_LP64_OFF64_LDFLAGS
+IP_IPSEC_POLICY 16
+LITTLE_ENDIAN __LITTLE_ENDIAN
+SO_RXQ_OVFL 40
+HAVE_LIBOSSP_UUID 1
+htobe32(x) __bswap_32 (x)
+__FLT_RADIX__ 2
+__WAIT_STATUS_DEFN int *
+INT_FAST16_MIN (-2147483647-1)
+POPT_ARGFLAG_STRIP 0x20000000U
+__undef_OPEN_MAX 
+FTS_ROOTLEVEL 0
+PF_FILE PF_LOCAL
+SIGTSTP 20
+ILL_ILLOPC ILL_ILLOPC
+fread_unlocked(ptr,size,n,stream) (__extension__ ((__builtin_constant_p (size) && __builtin_constant_p (n) && (size_t) (size) * (size_t) (n) <= 8 && (size_t) (size) != 0) ? ({ char *__ptr = (char *) (ptr); FILE *__stream = (stream); size_t __cnt; for (__cnt = (size_t) (size) * (size_t) (n); __cnt > 0; --__cnt) { int __c = _IO_getc_unlocked (__stream); if (__c == EOF) break; *__ptr++ = __c; } ((size_t) (size) * (size_t) (n) - __cnt) / (size_t) (size); }) : (((__builtin_constant_p (size) && (size_t) (size) == 0) || (__builtin_constant_p (n) && (size_t) (n) == 0)) ? ((void) (ptr), (void) (stream), (void) (size), (void) (n), (size_t) 0) : fread_unlocked (ptr, size, n, stream))))
+RLIMIT_MEMLOCK __RLIMIT_MEMLOCK
+IP_RECVTTL 12
+FILE_RCSID(id) static inline const char *rcsid(const char *p) { return rcsid(p = id); }
+EBADSLT 57
+A Santa lives evil at NASA
+EOVERFLOW 75
+__always_inline __inline __attribute__ ((__always_inline__))
+fprintf
+MS_SYNC 4
+__DBL_MIN__ ((double)2.22507385850720138309e-308L)
+__STRING2_SMALL_GET16(src,idx) (((const unsigned char *) (const char *) (src))[idx + 1] << 8 | ((const unsigned char *) (const char *) (src))[idx])
+_GCC_LIMITS_H_ 
+_POSIX2_CHAR_TERM 200809L
+AF_ALG PF_ALG
+HAVE_MADVISE 1
+__ULONGWORD_TYPE unsigned long int
+NODEV ((dev_t) -1)
+AF_ISDN PF_ISDN
+RPMLOG_PID 0x01
+__LC_PAPER 7
+__attribute_malloc__ __attribute__ ((__malloc__))
+__ATOMIC_CONSUME 1
+MOD_TAI ADJ_TAI
+MOUNTED _PATH_MOUNTED
+WIFCONTINUED(status) __WIFCONTINUED (__WAIT_INT (status))
+_ASM_GENERIC_ERRNO_BASE_H 
+_SC_SSIZE_MAX _SC_SSIZE_MAX
+_PC_REC_MIN_XFER_SIZE _PC_REC_MIN_XFER_SIZE
+SA_NOCLDWAIT 2
+O_ACCMODE 0003
+SO_PEERNAME 28
+EAI_ALLDONE -103
+VALGRIND_HG_MUTEX_LOCK_POST(_mutex) 
+H_SYSTEM 
+__BYTE_ORDER __LITTLE_ENDIAN
+_SC_LONG_BIT _SC_LONG_BIT
+RAND_MAX 2147483647
+RPMLOG_CONS 0x02
+si_value _sifields._rt.si_sigval
+__END_NAMESPACE_STD 
+HAVE_PUTENV 1
+strdup(s) __strdup (s)
+rpmiobUnlink(_iob) ((rpmiob)rpmioUnlinkPoolItem((rpmioItem)(_iob), __FUNCTION__, __FILE__, __LINE__))
+le64toh(x) (x)
+__code_model_32__ 1
+_CS_POSIX_V7_LPBIG_OFFBIG_LIBS _CS_POSIX_V7_LPBIG_OFFBIG_LIBS
+_SC_LEVEL1_DCACHE_LINESIZE _SC_LEVEL1_DCACHE_LINESIZE
+__ATOMIC_ACQUIRE 2
+IPV6_LEAVE_ANYCAST 28
+_XOPEN_LEGACY 1
+RPMURL_SERVER_HASRANGE ( 1 << 0)
+_POSIX_THREAD_ATTR_STACKSIZE 200809L
+__LDBL_MIN_10_EXP__ (-4931)
+__INT64_TYPE__ long long int
+HAVE_MEMCMP 1
+__string2_1bptr_p(__x) ((size_t)(const void *)((__x) + 1) - (size_t)(const void *)(__x) == 1)
+IN6_IS_ADDR_MC_SITELOCAL(a) (IN6_IS_ADDR_MULTICAST(a) && ((((const uint8_t *) (a))[1] & 0xf) == 0x5))
+UTIME_OMIT ((1l << 30) - 2l)
+WEXITED 4
+POSIX_FADV_WILLNEED 3
+sigtype
+RPMLOG_UPTO(pri) ((1 << (((unsigned)(pri))+1)) - 1)
+STDERR_FILENO 2
+LC_TIME __LC_TIME
+GROUP_FILTER_SIZE(numsrc) (sizeof (struct group_filter) - sizeof (struct sockaddr_storage) + ((numsrc) * sizeof (struct sockaddr_storage)))
+POPT_CONTEXT_NO_EXEC (1U << 0)
+ESPIPE 29
+SS_DISABLE SS_DISABLE
+_pgpClean
+__daddr_t_defined 
+__USE_REENTRANT 1
+_next
+REG_ES REG_ES
+HAVE_SYS_SELECT_H 1
+_RFB(n) ((1U << (n)) | 0x40000000)
+ADJ_MAXERROR 0x0004
+RPMLOG_FACMASK 0x03f8
+IN_CLASSD(a) ((((in_addr_t)(a)) & 0xf0000000) == 0xe0000000)
+__KERNEL_STRICT_NAMES
+SIGIO 29
+WITH_DB 1
+__INT_LEAST32_TYPE__ int
+persist
+_T_SIZE 
+ENOMEM 12
+_SC_C_LANG_SUPPORT _SC_C_LANG_SUPPORT
+_SC_LOGIN_NAME_MAX _SC_LOGIN_NAME_MAX
+strncpy(dest,src,n) __builtin_strncpy (dest, src, n)
+__POSIX2_THIS_VERSION 200809L
+__fortify_function __extern_always_inline __attribute_artificial__
+POPT_ARGFLAG_DOC_HIDDEN 0x40000000U
+SIGSEGV 11
+SIZEOF_INT 4
+_CS_POSIX_V7_LP64_OFF64_CFLAGS _CS_POSIX_V7_LP64_OFF64_CFLAGS
+__bswap_constant_32(x) ((((x) & 0xff000000) >> 24) | (((x) & 0x00ff0000) >> 8) | (((x) & 0x0000ff00) << 8) | (((x) & 0x000000ff) << 24))
+POPT_CONTEXT_KEEP_FIRST (1U << 1)
+HAVE_DIRENT_H 1
+__have_sigval_t 1
+__ATOMIC_SEQ_CST 5
+F_GETFD 1
+ADJ_FREQUENCY 0x0002
+HAVE_FALLOCATE 1
+_XBS5_ILP32_OFFBIG 1
+CPU_SET(cpu,cpusetp) __CPU_SET_S (cpu, sizeof (cpu_set_t), cpusetp)
+RPMTAG_EXTERNAL_TAG 1000000
+God A red nugget A fat egg under a dog
+rpmsw_s
+AF_CAN PF_CAN
+FASYNC O_ASYNC
+__va_arg_pack_len() __builtin_va_arg_pack_len ()
+IPV6_2292PKTOPTIONS 6
+EADV 68
+RPMLOG_NDELAY 0x08
+_POSIX_THREAD_PRIO_PROTECT 200809L
+_PATH_SHADOW "/etc/shadow"
+GLOB_TILDE (1 << 12)
+POPT_ARGFLAG_NOR 0x09000000U
+HAVE_STPNCPY 1
+_SC_TRACE_LOG _SC_TRACE_LOG
+RUSAGE_THREAD RUSAGE_THREAD
+O_ASYNC 020000
+VALGRIND_HG_MUTEX_UNLOCK_PRE(_mutex) 
+TIME_UTC 1
+EPIPE 32
+_LIMITS_H___ 
+_pgpAvailableDigest
+_DEFAULT_SOURCE
+__INTPTR_TYPE__ int
+FD_ZERO(fdsetp) __FD_ZERO (fdsetp)
+DT_UNKNOWN DT_UNKNOWN
+HAVE_RAND 1
+RPMTAG_PKGID RPMTAG_SIGMD5
+__blkcnt_t_defined 
+BUFSIZ _IO_BUFSIZ
+HAVE_LIBCRYPTO 1
+rpmMireMode
+_PC_CHOWN_RESTRICTED _PC_CHOWN_RESTRICTED
+POPT_READFILE_TRIMNEWLINES 1
+HAVE_MAGIC_H 1
+pgpImplVecs
+HAVE_RAISE 1
+IPPORT_RESERVED 1024
+__WCHAR_MAX__ 2147483647L
+h_addr h_addr_list[0]
+fread_unlocked
+_CS_POSIX_V7_WIDTH_RESTRICTED_ENVS _CS_V7_WIDTH_RESTRICTED_ENVS
+S_IFDIR __S_IFDIR
+_pgpFree
+IP_TRANSPARENT 19
+SIGUSR2 12
+LOCALEDIR "/usr/share/locale"
+STA_CLK 0x8000
+_SC_TRACE_NAME_MAX _SC_TRACE_NAME_MAX
+__UINT_LEAST16_MAX__ 65535
+DN_CREATE 0x00000004
+FPE_FLTOVF FPE_FLTOVF
+RPMVSF_NOSHA1
+__INTMAX_C(c) c ## LL
+__UINT32_MAX__ 4294967295U
+rpmtime_t
+_SC_STREAMS _SC_STREAMS
+TRY_AGAIN 2
+__SIZEOF_PTRDIFF_T__ 4
+RPMLOG_MAKEPRI(fac,pri) ((((unsigned)(fac)) << 3) | (pri))
+_SC_FILE_LOCKING _SC_FILE_LOCKING
+__WINT_MAX__ 4294967295U
+IP_MULTICAST_LOOP 34
+SO_PASSSEC 34
+__fsblkcnt_t_defined 
+RPMLOG_NFACILITIES 24
+POPT_ARGFLAG_RANDOM 0x00400000U
+__i386 1
+_SC_NGROUPS_MAX _SC_NGROUPS_MAX
+HAVE_FWRITE 1
+mempcpy
+_SYS_SYSMACROS_H 1
+SA_RESTART 0x10000000
+__PTRDIFF_MAX__ 2147483647
+__timespec_defined 1
+POLL_IN POLL_IN
+REG_EDI REG_EDI
+_VA_LIST_ 
+STA_MODE 0x4000
+_SIZE_T_DECLARED 
+_IO_HAVE_ST_BLKSIZE _G_HAVE_ST_BLKSIZE
+_old_offset
+_CS_LFS64_LINTFLAGS _CS_LFS64_LINTFLAGS
+_POSIX_MEMORY_PROTECTION 200809L
+_POSIX2_LOCALEDEF __POSIX2_THIS_VERSION
+_SC_MQ_OPEN_MAX _SC_MQ_OPEN_MAX
+_CS_XBS5_ILP32_OFFBIG_CFLAGS _CS_XBS5_ILP32_OFFBIG_CFLAGS
+IPV6_AUTHHDR 10
+WCHAR_MAX __WCHAR_MAX
+IPV6_JOIN_GROUP 20
+stdout stdout
+BYTE_ORDER __BYTE_ORDER
+assert(expr) ((expr) ? __ASSERT_VOID_CAST (0) : __assert_fail (__STRING(expr), __FILE__, __LINE__, __ASSERT_FUNCTION))
+_PATH_STDPATH "/usr/bin:/bin:/usr/sbin:/sbin"
+_D_EXACT_NAMLEN(d) (strlen ((d)->d_name))
+UINT_FAST64_MAX (__UINT64_C(18446744073709551615))
+rpmrepoCheckTimeStamps
+__UINTPTR_MAX__ 4294967295U
+IFTODT(mode) (((mode) & 0170000) >> 12)
+MSG_EOR MSG_EOR
+__PTHREAD_MUTEX_HAVE_ELISION 2
+F_ULOCK 0
+VALGRIND_HG_BARRIER_RESIZE_PRE(_bar,_newcount) 
+S_IFMT __S_IFMT
+fdWrite(_fd,_buf,_count) fdio->write((_fd), (_buf), (_count))
+SO_BINDTODEVICE 25
+bzero
+S_IFSOCK __S_IFSOCK
+_SC_THREAD_THREADS_MAX _SC_THREAD_THREADS_MAX
+VALGRIND_CREATE_MEMPOOL(pool,rzB,is_zeroed) 
+__isalnum_l(c,l) __isctype_l((c), _ISalnum, (l))
+_pgpErrChk
+SIGBUS 7
+HAVE_STDLIB_H 1
+__CLOCK_T_TYPE __SYSCALL_SLONG_TYPE
+_LIBINTL_H 1
+O_RDWR 02
+F_SETOWN_EX __F_SETOWN_EX
+EL3RST 47
+XATTR_NAME_MAX 255
+IPPROTO_RAW IPPROTO_RAW
+__DBL_MANT_DIG__ 53
+__mempcpy(dest,src,n) __builtin_mempcpy (dest, src, n)
+LOCK_MAND 32
+PF_INET6 10
+VALGRIND_HG_DISABLE_CHECKING(_qzz_start,_qzz_len) 
+_pgpInit
+__SOCKADDR_ONETYPE(type) struct type *__restrict __ ##type ##__;
+primary
+__ispunct_l(c,l) __isctype_l((c), _ISpunct, (l))
+S_IRWXU (__S_IREAD|__S_IWRITE|__S_IEXEC)
+IPV6_MULTICAST_LOOP 19
+HAVE_S_IFSOCK 1
+CLONE_NEWPID 0x20000000
+_fopen
+RLIMIT_NLIMITS __RLIMIT_NLIMITS
+FTS_DONTCHDIR 0x01
+HAVE_LSETXATTR 1
+SPLICE_F_MOVE 1
+__CPUELT(cpu) ((cpu) / __NCPUBITS)
+optional_argument 2
+HAVE_LOCALE_H 1
+RTSIG_MAX 32
+_PATH_WTMP "/var/log/wtmp"
+X86_FXSR_MAGIC 0x0000
+_toupper(c) ((int) (*__ctype_toupper_loc ())[(int) (c)])
+HAVE_GELF_H 1
+_SC_ULONG_MAX _SC_ULONG_MAX
+_SC_OPEN_MAX _SC_OPEN_MAX
+_IO_save_end
+IP_PMTUDISC 10
+PF_NETROM 6
+__SOCKADDR_ONETYPE(type) const struct type *__restrict __ ##type ##__;
+RPM_VENDOR_OE 1
+POLLHUP 0x010
+PTHREAD_CANCEL_ENABLE PTHREAD_CANCEL_ENABLE
+filelists
+__LP64_OFF64_CFLAGS "-m64"
+POPT_ARGFLAG_SHOW_DEFAULT 0x00800000U
+__NCPUBITS (8 * sizeof (__cpu_mask))
+__SIZEOF_PTHREAD_ATTR_T 36
+FNDELAY O_NDELAY
+yarnLock
+MAP_HUGE_MASK 0x3f
+DRD_GET_VALGRIND_THREADID 
+LC_CTYPE_MASK (1 << __LC_CTYPE)
+_SC_CHARCLASS_NAME_MAX _SC_CHARCLASS_NAME_MAX
+__isascii_l(c,l) ((l), __isascii (c))
+FTS_SYMFOLLOW 0x02
+O_PATH __O_PATH
+rd_timeoutsecs
+POPT_ERROR_BADOPT -11
+isxdigit_l(c,l) __isxdigit_l ((c), (l))
+_SC_THREAD_CPUTIME _SC_THREAD_CPUTIME
+__DEV_T_TYPE __UQUAD_TYPE
+MADV_DOFORK 11
+_CS_XBS5_LPBIG_OFFBIG_LIBS _CS_XBS5_LPBIG_OFFBIG_LIBS
+AIO_PRIO_DELTA_MAX 20
+_SC_NL_MSGMAX _SC_NL_MSGMAX
+repomd
+HEADER_I18NTABLE 100
+_SC_SAVED_IDS _SC_SAVED_IDS
+va_copy(d,s) __VA_COPY_USE(d, s)
+__attribute_deprecated__ __attribute__ ((__deprecated__))
+__need_sig_atomic_t
+EPROTONOSUPPORT 93
+_POSIX_CHOWN_RESTRICTED 0
+_ISOC99_SOURCE
+_BITS_TIMEX_H 1
+IP_PKTINFO 8
+SIGPROF 27
+omode
+CHAR_BIT __CHAR_BIT__
+LC_TELEPHONE_MASK (1 << __LC_TELEPHONE)
+_IO_IS_FILEBUF 0x2000
+AF_NETROM PF_NETROM
+R_OK 4
+_LINUX_PARAM_H 
+POPT_ARGFLAG_AND 0x04000000U
+RLIM_INFINITY 0xffffffffffffffffuLL
+PF_MAX 41
+_STAT_VER_LINUX 3
+_SC_AIO_MAX _SC_AIO_MAX
+__have_pthread_attr_t 1
+POPT_ARG_VAL 7U
+HAVE_LIBPOPT 1
+__VA_COPY_USE_GCH(d,s) __va_copy((d), (s))
+__undef_NR_OPEN 
+__UINT_FAST32_MAX__ 4294967295U
+CANBSIZ MAX_CANON
+IPPROTO_EGP IPPROTO_EGP
+PF_AX25 3
+__U64_TYPE __u_quad_t
+__O_TMPFILE 020200000
+POPT_AUTOHELP { NULL, '\0', POPT_ARG_INCLUDE_TABLE, poptHelpOptions, 0, "Help options:", NULL },
+HAVE_GELF_GETNOTE 1
+URLSANE(u) assert(u && u->magic == URLMAGIC)
+RPMTAG_P RPMTAG_PROVIDENAME
+RMIL_CMDLINE -7
+MAP_32BIT 0x40
+__ATOMIC_RELAXED 0
+INADDR_ALLRTRS_GROUP ((in_addr_t) 0xe0000002)
+__DBL_HAS_DENORM__ 1
+_(Text) dgettext (PACKAGE, Text)
+CLOCK_MONOTONIC_RAW 4
+_SC_LEVEL2_CACHE_ASSOC _SC_LEVEL2_CACHE_ASSOC
+__S_ISVTX 01000
+__MODE_T_TYPE __U32_TYPE
+fdFree(_fd,_msg) ((FD_t)rpmioFreePoolItem((rpmioItem)(_fd), _msg, __FILE__, __LINE__))
+HAVE_FCLOSE 1
+_SC_MQ_PRIO_MAX _SC_MQ_PRIO_MAX
+_POSIX_THREADS 200809L
+HAVE_NETINET_IN_SYSTM_H 1
+__F_SETSIG 10
+POLLRDHUP 0x2000
+__core2 1
+HAVE_ASPRINTF 1
+_IOS_APPEND 8
+_CS_POSIX_V6_ILP32_OFF32_LINTFLAGS _CS_POSIX_V6_ILP32_OFF32_LINTFLAGS
+_POSIX2_COLL_WEIGHTS_MAX 2
+RPMMIRE_REGEX
+SIGFPE 8
+_BSD_WCHAR_T_ 
+SIG_ATOMIC_MIN (-2147483647-1)
+POSIX_MADV_NORMAL 0
+FTS_XDEV 0x0040
+isspace_l(c,l) __isspace_l ((c), (l))
+_SC_2_C_BIND _SC_2_C_BIND
+ETIME 62
+MAXPHYS (128 * 1024)
+VALGRIND_DO_QUICK_LEAK_CHECK 
+IP_PMTUDISC_WANT 1
+MSG_OOB MSG_OOB
+__STD_TYPE
+PF_WANPIPE 25
+SYSCONFIGDIR "/etc/rpm"
+LC_MONETARY_MASK (1 << __LC_MONETARY)
+strncat(dest,src,n) __builtin_strncat (dest, src, n)
+EAI_BADFLAGS -1
+_BITS_SETJMP_H 1
+_SC_RE_DUP_MAX _SC_RE_DUP_MAX
+CLONE_THREAD 0x00010000
+_IO_feof_unlocked(__fp) (((__fp)->_flags & _IO_EOF_SEEN) != 0)
+__SIZEOF_PTHREAD_RWLOCK_T 32
+__INT_FAST8_TYPE__ signed char
+SCHED_RESET_ON_FORK 0x40000000
+_UTSNAME_NODENAME_LENGTH _UTSNAME_LENGTH
+ngettext(msgid1,msgid2,n) dngettext (NULL, msgid1, msgid2, n)
+_CS_GNU_LIBC_VERSION _CS_GNU_LIBC_VERSION
+REPO_FLAGS_PRETTY
+HAVE_LIBIO_H 1
+_CS_POSIX_V7_LPBIG_OFFBIG_LINTFLAGS _CS_POSIX_V7_LPBIG_OFFBIG_LINTFLAGS
+_IO_va_list _G_va_list
+_CS_POSIX_V6_ILP32_OFF32_LDFLAGS _CS_POSIX_V6_ILP32_OFF32_LDFLAGS
+ILL_ILLOPN ILL_ILLOPN
+__S_IFMT 0170000
+REPO_FLAGS_NOFOLLOW
+__SLONG32_TYPE long int
+__F_GETOWN_EX 16
+_IO_read_base
+_CS_POSIX_V7_ILP32_OFFBIG_LINTFLAGS _CS_POSIX_V7_ILP32_OFFBIG_LINTFLAGS
+_PATH_GSHADOW "/etc/gshadow"
+_POSIX_RAW_SOCKETS 200809L
+INT32_MAX (2147483647)
+_SC_EQUIV_CLASS_MAX _SC_EQUIV_CLASS_MAX
+__GNUC__ 4
+__UINT32_TYPE__ unsigned int
+__CPU_ALLOC(count) __sched_cpualloc (count)
+RLIM_SAVED_CUR RLIM_INFINITY
+__need_timespec
+__USING_NAMESPACE_C99(name) 
+_IO_iconv_t _G_iconv_t
+ADJ_TIMECONST 0x0020
+ULONG_MAX (LONG_MAX * 2UL + 1UL)
+__FLT_HAS_DENORM__ 1
+IN6_IS_ADDR_MULTICAST(a) (((const uint8_t *) (a))[0] == 0xff)
+UINT8_MAX (255)
+HAVE_ERR_H 1
+HAVE_FCHMOD 1
+rpmmgUnlink(_mg) ((rpmmg)rpmioUnlinkPoolItem((rpmioItem)(_mg), __FUNCTION__, __FILE__, __LINE__))
+LC_NUMERIC __LC_NUMERIC
+__USE_BSD 1
+POPT_ERROR_BADQUOTE -15
+ENOTRECOVERABLE 131
+FTS_NOSTAT 0x0008
+_CS_XBS5_ILP32_OFF32_CFLAGS _CS_XBS5_ILP32_OFF32_CFLAGS
+_WCHAR_T_DEFINED_ 
+H_RPMIO_INTERNAL 
+_BITS_UIO_H_FOR_SYS_UIO_H 1
+_SC_SHELL _SC_SHELL
+DN_ATTRIB 0x00000020
+__undef_OPEN_MAX
+_POSIX_THREAD_SAFE_FUNCTIONS 200809L
+ITIMER_VIRTUAL ITIMER_VIRTUAL
+_CS_XBS5_LPBIG_OFFBIG_LINTFLAGS _CS_XBS5_LPBIG_OFFBIG_LINTFLAGS
+QVA_ISSET(_qvaflags,_FLAG) ((_qvaflags) & (VERIFY_ ##_FLAG))
+ANNOTATE_THREAD_NAME(_name) 
+__USE_XOPEN2K8XSI
+IN_MULTICAST(a) IN_CLASSD(a)
+HAVE_DB_H 1
+DRD_xmalloc(_nb) xmalloc(_nb)
+IP_MSFILTER_SIZE(numsrc) (sizeof (struct ip_msfilter) - sizeof (struct in_addr) + (numsrc) * sizeof (struct in_addr))
+SUPPORT_I18NSTRING_TYPE 1
+putc(_ch,_fp) _IO_putc (_ch, _fp)
+EISCONN 106
+RPMDBI_SEQNO (rpmTag)9
+_IO_CURRENTLY_PUTTING 0x800
+_SC_THREAD_PRIORITY_SCHEDULING _SC_THREAD_PRIORITY_SCHEDULING
+__DEC32_SUBNORMAL_MIN__ 0.000001E-95DF
+wr_chunked
+__POSIX_FADV_DONTNEED 4
+_VA_LIST_T_H 
+RPMMIRE_STRCMP
+_CS_LFS_LINTFLAGS _CS_LFS_LINTFLAGS
+__DEC128_MIN__ 1E-6143DL
+_SC_CLK_TCK _SC_CLK_TCK
+__toascii(c) ((c) & 0x7f)
+__CPU_ISSET_S(cpu,setsize,cpusetp) (__extension__ ({ size_t __cpu = (cpu); __cpu / 8 < (setsize) ? ((((const __cpu_mask *) ((cpusetp)->__bits))[__CPUELT (__cpu)] & __CPUMASK (__cpu))) != 0 : 0; }))
+pthread_cleanup_pop(execute) __clframe.__do_it = (execute); } while (0)
+_POSIX_TTY_NAME_MAX 9
+__gnu_linux__ 1
+__SIZEOF_PTHREAD_RWLOCKATTR_T 8
+_PATH_NOLOGIN "/etc/nologin"
+_IO_getc_unlocked(_fp) (_IO_BE ((_fp)->_IO_read_ptr >= (_fp)->_IO_read_end, 0) ? __uflow (_fp) : *(unsigned char *) (_fp)->_IO_read_ptr++)
+F_SHLCK 8
+__VA_COPY_USE_ASP(d,s) do { *(d) = *(s); } while (0)
+EFBIG 27
+AF_NETBEUI PF_NETBEUI
+LC_ALL __LC_ALL
+VALGRIND_CHECK_MEM_IS_ADDRESSABLE(_qzz_addr,_qzz_len) 
+POLL_MSG POLL_MSG
+__FLOAT_WORD_ORDER__ __ORDER_LITTLE_ENDIAN__
+MNTOPT_NOSUID "nosuid"
+PF_NETLINK 16
+DBG(_f,_m,_x) if ((_rpmio_debug | ((_f) ? ((FD_t)(_f))->flags : 0)) & (_m)) fprintf _x
+W_EXITCODE(ret,sig) __W_EXITCODE (ret, sig)
+__exctype(name) extern int name (int) __THROW
+UINT_FAST8_MAX (255)
+_SC_ARG_MAX _SC_ARG_MAX
+SV_INTERRUPT (1 << 1)
+__VA_COPY_USE_C99(d,s) va_copy((d), (s))
+_POSIX_DELAYTIMER_MAX 32
+fdio_fopen_function_t
+RUSAGE_SELF RUSAGE_SELF
+__LONG_LONG_PAIR(HI,LO) LO, HI
+ADJ_OFFSET_SS_READ 0xa001
+SO_PASSCRED 16
+__isascii(c) (((c) & ~0x7f) == 0)
+HAVE_GETADDRINFO 1
+_SIGSET_NWORDS (1024 / (8 * sizeof (unsigned long int)))
+strcat
+NL_TEXTMAX INT_MAX
+GETMNTENT_TWO 0
+_POSIX_REALTIME_SIGNALS 200809L
+rpmrepoFlags
+FALLOC_FL_PUNCH_HOLE 2
+_SC_TYPED_MEMORY_OBJECTS _SC_TYPED_MEMORY_OBJECTS
+w_termsig __wait_terminated.__w_termsig
+_IO_USER_LOCK 0x8000
+EOF (-1)
+AI_CANONNAME 0x0002
+IOV_MAX 1024
+__SIZE_T__ 
+_T_WCHAR_ 
+FDSTAT_t
+_SC_GETPW_R_SIZE_MAX _SC_GETPW_R_SIZE_MAX
+VARPREFIX "/var"
+HAVE_MAJOR
+HAVE_CLEARENV 1
+HAVE_SYS_TIME_H 1
+SOCK_DCCP SOCK_DCCP
+F_SETFD 2
+INT_LEAST32_MIN (-2147483647-1)
+ANNOTATE_WRITERLOCK_ACQUIRED(rwlock) 
+__cpu_set_t_defined 
+IN6_IS_ADDR_LINKLOCAL(a) (__extension__ ({ const struct in6_addr *__a = (const struct in6_addr *) (a); (__a->s6_addr32[0] & htonl (0xffc00000)) == htonl (0xfe800000); }))
+FTS_WHITEOUT 0x0080
+HAVE_LANGINFO_H 1
+__DBL_EPSILON__ ((double)2.22044604925031308085e-16L)
+_SC_TIMERS _SC_TIMERS
+RPMTAG_HDRID RPMTAG_SHA1HEADER
+_SC_JOB_CONTROL _SC_JOB_CONTROL
+_ISOC99_SOURCE 1
+AF_ECONET PF_ECONET
+_POSIX_SYMLINK_MAX 255
+__need_timer_t
+_POSIX_THREAD_CPUTIME 0
+RPMDBI_ADDED (rpmTag)3
+SOCK_NONBLOCK SOCK_NONBLOCK
+IPPROTO_PUP IPPROTO_PUP
+SO_MARK 36
+CPU_XOR_S(setsize,destset,srcset1,srcset2) __CPU_OP_S (setsize, destset, srcset1, srcset2, ^)
+fdio_fdopen_function_t
+_DIRENT_HAVE_D_NAMLEN
+_RPMREPO_INTERNAL 
+rpmrepoFree(_repo) ((rpmrepo)rpmioFreePoolItem((rpmioItem)(_repo), __FUNCTION__, __FILE__, __LINE__))
+__DBL_DENORM_MIN__ ((double)4.94065645841246544177e-324L)
+__LC_NUMERIC 1
+WNOHANG 1
+fwrite_unlocked(ptr,size,n,stream) (__extension__ ((__builtin_constant_p (size) && __builtin_constant_p (n) && (size_t) (size) * (size_t) (n) <= 8 && (size_t) (size) != 0) ? ({ const char *__ptr = (const char *) (ptr); FILE *__stream = (stream); size_t __cnt; for (__cnt = (size_t) (size) * (size_t) (n); __cnt > 0; --__cnt) if (_IO_putc_unlocked (*__ptr++, __stream) == EOF) break; ((size_t) (size) * (size_t) (n) - __cnt) / (size_t) (size); }) : (((__builtin_constant_p (size) && (size_t) (size) == 0) || (__builtin_constant_p (n) && (size_t) (n) == 0)) ? ((void) (ptr), (void) (stream), (void) (size), (void) (n), (size_t) 0) : fwrite_unlocked (ptr, size, n, stream))))
+PF_APPLETALK 5
+ENOTEMPTY 39
+CALLGRIND_DUMP_STATS_AT(pos_str) 
+__KERNEL_STRICT_NAMES 
+RPMDBI_DEPCACHE (rpmTag)1
+EAI_MEMORY -10
+htobe16(x) __bswap_16 (x)
+__INT_FAST16_MAX__ 2147483647
+strpbrk(s,accept) __extension__ ({ char __a0, __a1, __a2; (__builtin_constant_p (accept) && __string2_1bptr_p (accept) ? ((__builtin_constant_p (s) && __string2_1bptr_p (s)) ? __builtin_strpbrk (s, accept) : ((__a0 = ((const char *) (accept))[0], __a0 == '\0') ? ((void) (s), (char *) NULL) : ((__a1 = ((const char *) (accept))[1], __a1 == '\0') ? __builtin_strchr (s, __a0) : ((__a2 = ((const char *) (accept))[2], __a2 == '\0') ? __strpbrk_c2 (s, __a0, __a1) : (((const char *) (accept))[3] == '\0' ? __strpbrk_c3 (s, __a0, __a1, __a2) : __builtin_strpbrk (s, accept)))))) : __builtin_strpbrk (s, accept)); })
+_POSIX2_SW_DEV __POSIX2_THIS_VERSION
+IN6_IS_ADDR_V4COMPAT(a) (__extension__ ({ const struct in6_addr *__a = (const struct in6_addr *) (a); __a->s6_addr32[0] == 0 && __a->s6_addr32[1] == 0 && __a->s6_addr32[2] == 0 && ntohl (__a->s6_addr32[3]) > 1; }))
+SO_LOCK_FILTER 44
+_CS_V7_ENV _CS_V7_ENV
+__P(args) args
+MADV_NOHUGEPAGE 15
+_SC_RAW_SOCKETS _SC_RAW_SOCKETS
+_SC_LEVEL1_DCACHE_SIZE _SC_LEVEL1_DCACHE_SIZE
+_SC_HOST_NAME_MAX _SC_HOST_NAME_MAX
+_CS_V7_WIDTH_RESTRICTED_ENVS _CS_V7_WIDTH_RESTRICTED_ENVS
+_markers
+MNTTYPE_SWAP "swap"
+S_ISDIR(mode) __S_ISTYPE((mode), __S_IFDIR)
+_STDIO_H 1
+__FINITE_MATH_ONLY__ 0
+_fileno
+UINT_LEAST8_MAX (255)
+__need___FILE
+ETXTBSY 26
+USRLIBRPM "/usr/lib/rpm"
+F_TLOCK 2
+SIGTTOU 22
+RPMIO_DEBUG_REFS 0x20000000
+ADJ_NANO 0x2000
+CALLGRIND_ZERO_STATS 
+INT_FAST8_MAX (127)
+_PATHS_H_ 
+IPV6_RECVTCLASS 66
+AF_MAX PF_MAX
+__SWORD_TYPE int
+__CPU_FREE(cpuset) __sched_cpufree (cpuset)
+Makedev(x,y) makedev((x),(y))
+POSIX_FADV_NORMAL 0
+VALGRIND_HG_CLEAN_MEMORY(_qzz_start,_qzz_len) 
+HAVE_ZLIB_H 1
+_CS_POSIX_V7_LP64_OFF64_LIBS _CS_POSIX_V7_LP64_OFF64_LIBS
+VALGRIND_DO_LEAK_CHECK 
+INT64_MIN (-__INT64_C(9223372036854775807)-1)
+__pic__ 2
+_IO_EOF_SEEN 0x10
+__PID_T_TYPE __S32_TYPE
+__BLKSIZE_T_TYPE __SYSCALL_SLONG_TYPE
+IPV6_TCLASS 67
+tagClean
+FNM_NOESCAPE (1 << 1)
+__U32_TYPE unsigned int
+LC_PAPER __LC_PAPER
+IPV6_MTU_DISCOVER 23
+publen
+__need_mbstate_t 
+_XOPEN_LIM_H 1
+_IO_PENDING_OUTPUT_COUNT(_fp) ((_fp)->_IO_write_ptr - (_fp)->_IO_write_base)
+_SC_TIMEOUTS _SC_TIMEOUTS
+MAP_LOCKED 0x02000
+_PATH_VARTMP "/var/tmp/"
+HEADERGET_NOI18NSTRING (1 << 1)
+__id_t_defined 
+_STDIO_USES_IOSTREAM 
+_POSIX_SOURCE 1
+Degas are we not drawn onward no In union drawn onward to new eras aged
+HAVE_OPENSSL_CRYPTO_H 1
+NO_DATA 4
+stpcpy
+_POSIX_SEM_VALUE_MAX 32767
+UINTPTR_MAX (4294967295U)
+__SIGEV_PAD_SIZE ((__SIGEV_MAX_SIZE / sizeof (int)) - 3)
+INT_FAST32_MAX (2147483647)
+SO_OOBINLINE 10
+ANNOTATE_TRACE_MEMORY(_addr) 
+_SC_LEVEL1_ICACHE_SIZE _SC_LEVEL1_ICACHE_SIZE
+Beeb
+ENOTTY 25
+pubkey_algoN
+pkgcount
+__LDBL_HAS_DENORM__ 1
+_IO_wint_t wint_t
+__USE_LARGEFILE64 1
+__strcmp_cg(s1,s2,l1) (__extension__ ({ const unsigned char *__s2 = (const unsigned char *) (const char *) (s2); int __result = (((const unsigned char *) (const char *) (s1))[0] - __s2[0]); if (l1 > 0 && __result == 0) { __result = (((const unsigned char *) (const char *) (s1))[1] - __s2[1]); if (l1 > 1 && __result == 0) { __result = (((const unsigned char *) (const char *) (s1))[2] - __s2[2]); if (l1 > 2 && __result == 0) __result = (((const unsigned char *) (const char *) (s1))[3] - __s2[3]); } } __result; }))
+LOCK_WRITE 128
+O_EXCL 0200
+_SC_NL_LANGMAX _SC_NL_LANGMAX
+POPT_ERROR_BADNUMBER -17
+SIG_ATOMIC_MAX (2147483647)
+CLONE_VM 0x00000100
+O_DIRECTORY __O_DIRECTORY
+SIGCONT 18
+EXIT_FAILURE 1
+IPPROTO_ENCAP IPPROTO_ENCAP
+_IO_FLAGS2_USER_WBUF 8
+__DEC128_MIN_EXP__ (-6142)
+PROT_GROWSDOWN 0x01000000
+ADJ_TICK 0x4000
+STA_FREQHOLD 0x0080
+__undef_LINK_MAX 
+__gid_t_defined 
+VSF_ISSET(_vsflags,_FLAG) ((_vsflags) & (RPMVSF_ ##_FLAG))
+mireUnlink(_mire) (miRE)rpmioUnlinkPoolItem((rpmioItem)_mire, __FUNCTION__, __FILE__, __LINE__)
+__GNU_GETTEXT_SUPPORTED_REVISION(major) ((major) == 0 ? 1 : -1)
+STA_PLL 0x0001
+__toupper_l(c,locale) __tobody (c, __toupper_l, (locale)->__ctype_toupper, (c, locale))
+_IO_MAGIC 0xFBAD0000
+_PATH_UNIX "/boot/vmlinux"
+__SIZE_TYPE__ unsigned int
+__tobody(c,f,a,args) (__extension__ ({ int __res; if (sizeof (c) > 1) { if (__builtin_constant_p (c)) { int __c = (c); __res = __c < -128 || __c > 255 ? __c : (a)[__c]; } else __res = f args; } else __res = (a)[(int) (c)]; __res; }))
+SEGV_MAPERR SEGV_MAPERR
+si_timerid _sifields._timer.si_tid
+ILL_PRVREG ILL_PRVREG
+Eleele
+POPT_ARGFLAG_OR 0x08000000U
+_SC_SHRT_MAX _SC_SHRT_MAX
+SIGCHLD 17
+SO_PRIORITY 12
+FNM_LEADING_DIR (1 << 3)
+xml_fini
+HAVE_LIBELF_H 1
+HAVE_SETXATTR 1
+AT_EACCESS 0x200
+_POSIX_MAPPED_FILES 200809L
+__time_t
+SHRT_MAX __SHRT_MAX__
+__SIZEOF_POINTER__ 4
+RLIMIT_NOFILE RLIMIT_NOFILE
+VALGRIND_DESTROY_MEMPOOL(pool) 
+HAVE_QSORT 1
+_CTYPE_H 1
+F_SETFL 4
+pgpDig
+__UINTPTR_TYPE__ unsigned int
+SIGTERM 15
+HAVE_GETOPT_H 1
+EDOM 33
+HAVE_GETCWD 1
+_libio_pos_t
+fd_cpioPos
+O_DIRECT __O_DIRECT
+__dest
+ANNOTATE_IGNORE_READS_AND_WRITES_END() 
+__isctype(c,type) ((*__ctype_b_loc ())[(int) (c)] & (unsigned short int) type)
+setbit(a,i) ((a)[(i)/NBBY] |= 1<<((i)%NBBY))
+__USE_POSIX199309
+F_DUPFD_CLOEXEC 1030
+FNM_PERIOD
+xmalloc(_size) (malloc(_size) ? : vmefail(_size))
+_PATH_MOUNTED "/etc/mtab"
+_SC_SYMLOOP_MAX _SC_SYMLOOP_MAX
+ADJ_ESTERROR 0x0008
+_SC_MEMLOCK_RANGE _SC_MEMLOCK_RANGE
+NO_ADDRESS NO_DATA
+__WCHAR_T__ 
+__NLINK_T_TYPE __UWORD_TYPE
+rpmrfile_s
+EKEYEXPIRED 127
+MNTTYPE_IGNORE "ignore"
+MOD_NANO ADJ_NANO
+si_int _sifields._rt.si_sigval.sival_int
+HAVE_SIGACTION 1
+SEEK_END 2
+_noTransScripts ( RPMTRANS_FLAG_NOPRETRANS | RPMTRANS_FLAG_NOPRE | RPMTRANS_FLAG_NOPOST | RPMTRANS_FLAG_NOPREUN | RPMTRANS_FLAG_NOPOSTUN | RPMTRANS_FLAG_NOPOSTTRANS )
+RPM_VENDOR_WINDRIVER 1
+NETDB_SUCCESS 0
+_SC_SEM_VALUE_MAX _SC_SEM_VALUE_MAX
+_SC_XOPEN_REALTIME_THREADS _SC_XOPEN_REALTIME_THREADS
+_SC_DEVICE_SPECIFIC_R _SC_DEVICE_SPECIFIC_R
+__WIFCONTINUED(status) ((status) == __W_CONTINUED)
+VALGRIND_HG_CLEAN_MEMORY_HEAPBLOCK(_qzz_blockstart) 
+SIGCLD SIGCHLD
+CLOCK_REALTIME_COARSE 5
+IN6_IS_ADDR_MC_GLOBAL(a) (IN6_IS_ADDR_MULTICAST(a) && ((((const uint8_t *) (a))[1] & 0xf) == 0xe))
+EILSEQ
+MSG_RST MSG_RST
+MOD_STATUS ADJ_STATUS
+md5ctx
+_pgpVerify
+MIN(a,b) (((a)<(b))?(a):(b))
+_SC_REGEXP _SC_REGEXP
+current
+__USE_LARGEFILE64
+__need_error_t
+__GCC_HAVE_SYNC_COMPARE_AND_SWAP_2 1
+_IO_NO_WRITES 8
+MAP_DENYWRITE 0x00800
+__CPU_OP_S(setsize,destset,srcset1,srcset2,op) (__extension__ ({ cpu_set_t *__dest = (destset); const __cpu_mask *__arr1 = (srcset1)->__bits; const __cpu_mask *__arr2 = (srcset2)->__bits; size_t __imax = (setsize) / sizeof (__cpu_mask); size_t __i; for (__i = 0; __i < __imax; ++__i) ((__cpu_mask *) __dest->__bits)[__i] = __arr1[__i] op __arr2[__i]; __dest; }))
+_IO_TIED_PUT_GET 0x400
+sha1len
+_PC_SYMLINK_MAX _PC_SYMLINK_MAX
+REPO_FLAGS_SPLIT
+_IO_write_base
+SOL_DECNET 261
+SO_SNDLOWAT 19
+HAVE_PHYSMEM_SYSCONF 1
+_SC_FD_MGMT _SC_FD_MGMT
+va_start(v,l) __builtin_va_start(v,l)
+_IO_DELETE_DONT_CLOSE 0x40
+_G_HAVE_ST_BLKSIZE defined (_STATBUF_ST_BLKSIZE)
+_SC_MAPPED_FILES _SC_MAPPED_FILES
+includeMire
+compression
+_SCHED_H 1
+_pgpMpiItem
+_SC_VERSION _SC_VERSION
+O_TMPFILE __O_TMPFILE
+PROT_WRITE 0x2
+RLIMIT_AS RLIMIT_AS
+STA_PPSFREQ 0x0002
+SIGTTIN 21
+_LFS_LARGEFILE 1
+_FILE_OFFSET_BITS 64
+_POSIX_ADVISORY_INFO 200809L
+S_ISVTX __S_ISVTX
+POPT_ARG_MAINCALL 16U+11U
+__DEC128_MAX__ 9.999999999999999999999999999999999E6144DL
+__pid_t_defined 
+_SC_THREAD_ATTR_STACKSIZE _SC_THREAD_ATTR_STACKSIZE
+FTS_DNR 4
+_IO_FIXED 010000
+AF_TIPC PF_TIPC
+REG_CS REG_CS
+__DBL_DIG__ 15
+AF_ASH PF_ASH
+ENOMEDIUM 123
+__CPU_ZERO_S(setsize,cpusetp) do __builtin_memset (cpusetp, '\0', setsize); while (0)
+_IO_UPPERCASE 01000
+S_ISUID __S_ISUID
+FIOGETOWN 0x8903
+F_SETSIG __F_SETSIG
+ENOKEY 126
+_LARGEFILE_SOURCE 1
+SPLICE_F_MORE 4
+SIOCGSTAMPNS 0x8907
+_SVID_SOURCE
+__DEC64_SUBNORMAL_MIN__ 0.000000000000001E-383DD
+sv_onstack sv_flags
+GNU C 4.8.2 -m32 -march=core2 -mtune=core2 -msse3 -mfpmath=sse -mstackrealign -g -g3 -O2 -fno-omit-frame-pointer -feliminate-unused-debug-types -fPIC -fno-delete-null-pointer-checks -fstack-protector -fexceptions
+_PATH_DEV "/dev/"
+LLONG_MAX __LONG_LONG_MAX__
+ENOTCONN 107
+__attribute_artificial__ __attribute__ ((__artificial__))
+SO_SECURITY_ENCRYPTION_NETWORK 24
+howmany(x,y) (((x) + ((y) - 1)) / (y))
+IPV6_RTHDR_LOOSE 0
+__elision d.__elision
+__need_sigset_t
+_PATH_CSHELL "/bin/csh"
+__BEGIN_NAMESPACE_STD 
+L_ctermid 9
+ANNOTATE_BARRIER_INIT(barrier,count,reinitialization_allowed) 
+AF_RDS PF_RDS
+ENOTBLK 15
+w_stopval __wait_stopped.__w_stopval
+_SC_NPROCESSORS_ONLN _SC_NPROCESSORS_ONLN
+__USE_GNU
+HAVE_POPT_H 1
+EBUSY 16
+__SHRT_MAX__ 32767
+WITH_ACL 1
+RMIL_GLOBAL 0
+AF_SECURITY PF_SECURITY
+FD_SET(fd,fdsetp) __FD_SET (fd, fdsetp)
+__GLIBC_PREREQ(maj,min) ((__GLIBC__ << 16) + __GLIBC_MINOR__ >= ((maj) << 16) + (min))
+RLIMIT_DATA RLIMIT_DATA
+VALGRIND_MAKE_MEM_NOACCESS(_qzz_addr,_qzz_len) 
+ADJ_OFFSET 0x0001
+__WIFSTOPPED(status) (((status) & 0xff) == 0x7f)
+AF_APPLETALK PF_APPLETALK
+__USE_MISC 1
+ntohl(x) __bswap_32 (x)
+__FD_ZERO_STOS "stosl"
+SIG_SETMASK 2
+_CS_POSIX_V6_ILP32_OFFBIG_CFLAGS _CS_POSIX_V6_ILP32_OFFBIG_CFLAGS
+MS_INVALIDATE 2
+PTHREAD_CANCELED ((void *) -1)
+O_CREAT 0100
+__F_GETSIG 11
+__DEC32_MAX_EXP__ 97
+NI_DGRAM 16
+IPPROTO_AH IPPROTO_AH
+vmefail
+AF_PHONET PF_PHONET
+_IO_cleanup_region_start(_fct,_fp) 
+_ASSERT_H
+__SIZEOF_PTHREAD_BARRIER_T 20
+__size_t__ 
+_IO_fpos_t _G_fpos_t
+_SC_PII_INTERNET_STREAM _SC_PII_INTERNET_STREAM
+SCOPE_DELIMITER '%'
+MREMAP_FIXED 2
+__ORDER_PDP_ENDIAN__ 3412
+__FLT_DECIMAL_DIG__ 9
+AF_AX25 PF_AX25
+ERANGE 34
+_IO_SCIENTIFIC 04000
+EIDRM 43
+__USE_ISOCXX11
+_SC_DEVICE_IO _SC_DEVICE_IO
+SO_KEEPALIVE 9
+__u_intN_t(N,MODE) typedef unsigned int u_int ##N ##_t __attribute__ ((__mode__ (MODE)))
+ENODATA 61
+pthread_cleanup_push(routine,arg) do { struct __pthread_cleanup_frame __clframe __attribute__ ((__cleanup__ (__pthread_cleanup_routine))) = { .__cancel_routine = (routine), .__cancel_arg = (arg), .__do_it = 1 };
+PF_IPX 4
+ndigests
+RPMMIRE_PCRE
+VALGRIND_COUNT_LEAKS(leaked,dubious,reachable,suppressed) 
+EDOTDOT 73
+__sig_atomic_t_defined 
+__LC_CTYPE 0
+POPT_OPTION_DEPTH 10
+LC_ADDRESS __LC_ADDRESS
+DIGEST_CTX
+stpcpy(dest,src) __stpcpy (dest, src)
+_SS_PADSIZE (_SS_SIZE - (2 * sizeof (__ss_aligntype)))
+_POSIX_ARG_MAX 4096
+rpmrepoDoFinalMove
+include_patterns
+excludeMire
+SO_SNDBUF 7
+CLONE_FS 0x00000200
+_IO_putc_unlocked(_ch,_fp) (_IO_BE ((_fp)->_IO_write_ptr >= (_fp)->_IO_write_end, 0) ? __overflow (_fp, (unsigned char) (_ch)) : (unsigned char) (*(_fp)->_IO_write_ptr++ = (_ch)))
+LC_GLOBAL_LOCALE ((__locale_t) -1L)
+LOCK_RW 192
+nexcludes
+FD_SETSIZE __FD_SETSIZE
+_POSIX_MESSAGE_PASSING 200809L
+__need_NULL 
+ENOCSI 50
+urlFree(_u,_msg) ((urlinfo)rpmioFreePoolItem((rpmioItem)(_u), _msg, __FILE__, __LINE__))
+HAVE_SIGPAUSE 1
+_BITS_SIGCONTEXT_H 1
+__SUSECONDS_T_TYPE __SYSCALL_SLONG_TYPE
+IP_PMTUDISC_DO 2
+pgpImplGenerate_t
+markup
+F_UNLCK 2
+__LC_NAME 8
+IPV6_DROP_MEMBERSHIP IPV6_LEAVE_GROUP
+HAVE_VSNPRINTF 1
+POPT_ARG_INCLUDE_TABLE 4U
+CPU_CLR_S(cpu,setsize,cpusetp) __CPU_CLR_S (cpu, setsize, cpusetp)
+yaml_fini
+_POSIX_JOB_CONTROL 1
+CPU_COUNT(cpusetp) __CPU_COUNT_S (sizeof (cpu_set_t), cpusetp)
+O_FSYNC O_SYNC
+F_GETOWN_EX __F_GETOWN_EX
+STA_RONLY (STA_PPSSIGNAL | STA_PPSJITTER | STA_PPSWANDER | STA_PPSERROR | STA_CLOCKERR | STA_NANO | STA_MODE | STA_CLK)
+__USE_XOPEN2K8XSI 1
+_IO_IN_BACKUP 0x100
+AT_EMPTY_PATH 0x1000
+__sigandset(dest,left,right) (__extension__ ({ int __cnt = _SIGSET_NWORDS; sigset_t *__dest = (dest); const sigset_t *__left = (left); const sigset_t *__right = (right); while (--__cnt >= 0) __dest->__val[__cnt] = (__left->__val[__cnt] & __right->__val[__cnt]); 0; }))
+_SC_FILE_ATTRIBUTES _SC_FILE_ATTRIBUTES
+EINVAL 22
+seek
+isclr(a,i) (((a)[(i)/NBBY] & (1<<((i)%NBBY))) == 0)
+ELNRNG 48
+RPMVSF_NEEDPAYLOAD
+__exctype_l(name) extern int name (int, __locale_t) __THROW
+CALLGRIND_DUMP_STATS 
+TIMER_ABSTIME 1
+POPT_ERROR_NULLARG -20
+sql_init
+IPV6_DSTOPTS 59
+__ORDER_BIG_ENDIAN__ 4321
+s6_addr32 __in6_u.__u6_addr32
+xrealloc(_ptr,_size) (realloc((_ptr), (_size)) ? : vmefail(_size))
+BUS_MCEERR_AR BUS_MCEERR_AR
+SOCK_SEQPACKET SOCK_SEQPACKET
+MOD_OFFSET ADJ_OFFSET
+SO_BPF_EXTENSIONS 48
+SEGV_ACCERR SEGV_ACCERR
+htole32(x) (x)
+_IO_SHOWPOINT 0400
+HEADER_IMMUTABLE 63
+__va_list__ 
+USHRT_MAX (SHRT_MAX * 2 + 1)
+__need_IOV_MAX 
+HAVE_MKDTEMP 1
+__u_char_defined 
+_SC_PII_OSI_COTS _SC_PII_OSI_COTS
+AI_IDN 0x0040
+MSG_CMSG_CLOEXEC MSG_CMSG_CLOEXEC
+AF_INET6 PF_INET6
+__REDIRECT_NTH(name,proto,alias) name proto __asm__ (__ASMNAME (#alias)) __THROW
+__ASSERT_FUNCTION __PRETTY_FUNCTION__
+_SC_TZNAME_MAX _SC_TZNAME_MAX
+rpmxar_s
+BUS_MCEERR_AO BUS_MCEERR_AO
+IPPROTO_ICMPV6 IPPROTO_ICMPV6
+CLONE_CHILD_SETTID 0x01000000
+WITH_OPENSSL 1
+isdigit(c) __isctype((c), _ISdigit)
+SCM_CREDENTIALS SCM_CREDENTIALS
+__SIG_ATOMIC_MIN__ (-__SIG_ATOMIC_MAX__ - 1)
+MAP_SHARED 0x01
+__isdigit_l(c,l) __isctype_l((c), _ISdigit, (l))
+__SIZEOF_SIZE_T__ 4
+__POSIX_FADV_NOREUSE 5
+CMSG_LEN(len) (CMSG_ALIGN (sizeof (struct cmsghdr)) + (len))
+VALGRIND_DISCARD(_qzz_blkindex) 
+INT_FAST32_MIN (-2147483647-1)
+CRC24_INIT 0xb704ce
+__DEC32_MAX__ 9.999999E96DF
+SIGQUIT 3
+HAVE_GETNAMEINFO 1
+UINT64_MAX (__UINT64_C(18446744073709551615))
+_SC_CHAR_MIN _SC_CHAR_MIN
+SIGURG 23
+strndupa(s,n) (__extension__ ({ const char *__old = (s); size_t __len = strnlen (__old, (n)); char *__new = (char *) __builtin_alloca (__len + 1); __new[__len] = '\0'; (char *) memcpy (__new, __old, __len); }))
+_CS_LFS64_CFLAGS _CS_LFS64_CFLAGS
+POLLWRNORM 0x100
+STA_CLOCKERR 0x1000
+CLONE_CHILD_CLEARTID 0x00200000
+SOCK_DGRAM SOCK_DGRAM
+S_IXUSR __S_IEXEC
+__LC_ADDRESS 9
+rpmIncreaseVerbosity() ((void)rpmlogSetMask(((((unsigned)(rpmlogSetMask(0) & 0xff)) << 1) | 1)))
+SCHED_RR 2
+SYNC_FILE_RANGE_WAIT_AFTER 4
+__attribute_pure__ __attribute__ ((__pure__))
+PROT_EXEC 0x4
+__U16_TYPE unsigned short int
+hashlen
+RPMURL_SERVER_HASDAVEXEC ( 1 << 3)
+PF_NFC 39
+_CS_POSIX_V7_ILP32_OFFBIG_LDFLAGS _CS_POSIX_V7_ILP32_OFFBIG_LDFLAGS
+AF_SNA PF_SNA
+_PATH_PRESERVE "/var/lib"
+_SC_INT_MAX _SC_INT_MAX
+__va_arg_pack() __builtin_va_arg_pack ()
+PTHREAD_CANCEL_ASYNCHRONOUS PTHREAD_CANCEL_ASYNCHRONOUS
+basedir
+_pgpSetDSA
+_FORTIFY_SOURCE 2
+UCHAR_MAX (SCHAR_MAX * 2 + 1)
+poptContext_s
+__ID_T_TYPE __U32_TYPE
+_IOLBF 1
+__USE_POSIX199309 1
+VALGRIND_MEMPOOL_TRIM(pool,addr,size) 
+_SC_USHRT_MAX _SC_USHRT_MAX
+__clockid_t_defined 1
+ECANCELED 125
+CMSG_FIRSTHDR(mhdr) ((size_t) (mhdr)->msg_controllen >= sizeof (struct cmsghdr) ? (struct cmsghdr *) (mhdr)->msg_control : (struct cmsghdr *) 0)
+_BSD_SOURCE
+SO_ERROR 4
+HAVE_GETWD 1
+SO_LINGER 13
+HAVE_SNPRINTF 1
+hash
+IP_DROP_SOURCE_MEMBERSHIP 40
+_SC_2_CHAR_TERM _SC_2_CHAR_TERM
+_LARGEFILE64_SOURCE 1
+__UINT_FAST8_MAX__ 255
+_POSIX_MQ_PRIO_MAX 32
+MOD_CLKB ADJ_TICK
+_POSIX_HOST_NAME_MAX 255
+HEADER_SIGBASE 256
+_PATH_HEQUIV "/etc/hosts.equiv"
+WTERMSIG(status) __WTERMSIG (__WAIT_INT (status))
+SYNC_FILE_RANGE_WAIT_BEFORE 1
+FOPEN_MAX
+si_pid _sifields._kill.si_pid
+RUNNING_ON_VALGRIND (0)
+RLIMIT_CORE RLIMIT_CORE
+SIGRTMAX (__libc_current_sigrtmax ())
+RPMDBI_REPACKAGES (rpmTag)16
+NGROUPS NGROUPS_MAX
+ANNOTATE_IGNORE_WRITES_BEGIN() 
+FPE_INTDIV FPE_INTDIV
+__DEC32_MIN_EXP__ (-94)
+__LC_TELEPHONE 10
+F_SETOWN __F_SETOWN
+VALGRIND_MALLOCLIKE_BLOCK(addr,sizeB,rzB,is_zeroed) 
+_IOS_OUTPUT 2
+_PC_NAME_MAX _PC_NAME_MAX
+__DBL_MIN_10_EXP__ (-307)
+TTY_NAME_MAX 32
+HAVE_ALLOCA 1
+RPMVSF_DEFAULT
+assert_perror(errnum) (!(errnum) ? __ASSERT_VOID_CAST (0) : __assert_perror_fail ((errnum), __FILE__, __LINE__, __ASSERT_FUNCTION))
+EADDRNOTAVAIL 99
+__timer_t_defined 1
+_ERRNO_H 1
+MSG_WAITFORONE MSG_WAITFORONE
+ELIBBAD 80
+SO_SECURITY_AUTHENTICATION 22
+RPMLOG_NOWAIT 0x10
+ANNOTATE_NEW_MEMORY(_addr,_size) 
+strspn(s,accept) __extension__ ({ char __a0, __a1, __a2; (__builtin_constant_p (accept) && __string2_1bptr_p (accept) ? ((__builtin_constant_p (s) && __string2_1bptr_p (s)) ? __builtin_strspn (s, accept) : ((__a0 = ((const char *) (accept))[0], __a0 == '\0') ? ((void) (s), (size_t) 0) : ((__a1 = ((const char *) (accept))[1], __a1 == '\0') ? __strspn_c1 (s, __a0) : ((__a2 = ((const char *) (accept))[2], __a2 == '\0') ? __strspn_c2 (s, __a0, __a1) : (((const char *) (accept))[3] == '\0' ? __strspn_c3 (s, __a0, __a1, __a2) : __builtin_strspn (s, accept)))))) : __builtin_strspn (s, accept)); })
+POPT_ARGFLAG_NAND 0x05000000U
+__INTMAX_MAX__ 9223372036854775807LL
+SO_ATTACH_FILTER 26
+_PATH_MAN "/usr/share/man"
+IPPROTO_PIM IPPROTO_PIM
+__EXTENSIONS__ 1
+_IO_UNIFIED_JUMPTABLES 1
+SO_DEBUG 1
+_UTSNAME_RELEASE_LENGTH _UTSNAME_LENGTH
+ECHRNG 44
+SO_REUSEADDR 2
+RMIL_TARBALL -5
+_POSIX_MQ_OPEN_MAX 8
+_POSIX_TRACE_LOG -1
+MAP_ANONYMOUS 0x20
+AF_IEEE802154 PF_IEEE802154
+_PC_PIPE_BUF _PC_PIPE_BUF
+__attribute_warn_unused_result__ __attribute__ ((__warn_unused_result__))
+_POSIX2_C_DEV __POSIX2_THIS_VERSION
+__FSFILCNT_T_TYPE __SYSCALL_ULONG_TYPE
+_POPT_BITS_M ((3U * _POPT_BITS_N) / 2U)
+__UINT64_MAX__ 18446744073709551615ULL
+FDMAGIC 0x04463138
+_BITS_STAT_H 1
+pgpImplFree_t
+CLOCK_PROCESS_CPUTIME_ID 2
+__builtin_strcpy
+_SC_PII_OSI_M _SC_PII_OSI_M
+__LEAF_ATTR __attribute__ ((__leaf__))
+_SIGSET_H_types 1
+__unix 1
+CPU_OR_S(setsize,destset,srcset1,srcset2) __CPU_OP_S (setsize, destset, srcset1, srcset2, |)
+ENOENT 2
+__INT_LEAST16_TYPE__ short int
+_SC_THREAD_DESTRUCTOR_ITERATIONS _SC_THREAD_DESTRUCTOR_ITERATIONS
+__USE_MISC
+WINT_MAX (4294967295u)
+si_addr _sifields._sigfault.si_addr
+GLOB_ABEND GLOB_ABORTED
+GLOB_BRACE (1 << 10)
+contentType
+ECONNRESET 104
+_BITS_SOCKADDR_H 1
+SO_SECURITY_ENCRYPTION_TRANSPORT 23
+CLONE_IO 0x80000000
+isalpha_l(c,l) __isalpha_l ((c), (l))
+RPM_VENDOR_POKY 1
+_SC_2_PBS_TRACK _SC_2_PBS_TRACK
+_POSIX_VERSION 200809L
+MB_CUR_MAX (__ctype_get_mb_cur_max ())
+SOL_PACKET 263
+CALLGRIND_STOP_INSTRUMENTATION 
+__ATOMIC_ACQ_REL 4
+_SC_UCHAR_MAX _SC_UCHAR_MAX
+RLIMIT_SIGPENDING __RLIMIT_SIGPENDING
+__undef_ARG_MAX
+PACKAGE_STRING "rpm 5.4.9"
+sched_priority __sched_priority
+POPT_ARG_INTL_DOMAIN 6U
+MCAST_INCLUDE 1
+__USE_FORTIFY_LEVEL
+__SIZE_MAX__ 4294967295U
+_CS_POSIX_V7_ILP32_OFF32_CFLAGS _CS_POSIX_V7_ILP32_OFF32_CFLAGS
+WITH_UUID 1
+_POPT_BITS_K 16U
+__S_IFBLK 0060000
+VALGRIND_CHECK_MEM_IS_DEFINED(_qzz_addr,_qzz_len) 
+Packages_init
+ANNOTATE_RWLOCK_ACQUIRED(rwlock,is_w) 
+VALGRIND_DISCARD_TRANSLATIONS(_qzz_addr,_qzz_len) 
+__need_siginfo_t
+REG_TRAPNO REG_TRAPNO
+URL_IS_SQLITE (urltype)32
+__UINT64_TYPE__ long long unsigned int
+BC_BASE_MAX _POSIX2_BC_BASE_MAX
+SO_PROTOCOL 38
+INT_LEAST16_MIN (-32767-1)
+__isalpha_l(c,l) __isctype_l((c), _ISalpha, (l))
+POPT_ARG_CALLBACK 5U
+keyexpire
+yaml_qfmt
+HAVE_STRCOLL 1
+F_SETLEASE 1024
+__USE_REENTRANT
+DN_MULTISHOT 0x80000000
+FTS_PHYSICAL 0x0010
+_CS_POSIX_V6_LP64_OFF64_CFLAGS _CS_POSIX_V6_LP64_OFF64_CFLAGS
+nfps
+AF_LLC PF_LLC
+_SC_SEMAPHORES _SC_SEMAPHORES
+ELIBSCN 81
+__GCC_HAVE_SYNC_COMPARE_AND_SWAP_4 1
+GLOB_APPEND (1 << 5)
+PF_ATMPVC 8
+_IO_DEC 020
+_XLOCALE_H 1
+__REGISTER_PREFIX__ 
+IP_MSFILTER 41
+_UTSNAME_VERSION_LENGTH _UTSNAME_LENGTH
+__SIZEOF_FLOAT__ 4
+EEXIST 17
+GLOB_ABORTED 2
+__INTMAX_TYPE__ long long int
+IPV6_2292PKTINFO 2
+IPV6_PKTINFO 50
+rpmtsLink(_ts,_msg) ((rpmts) rpmioLinkPoolItem((rpmioItem)(_ts), _msg, __FILE__, __LINE__))
+VALGRIND_SET_VBITS(zza,zzvbits,zznbytes) 
+AF_NFC PF_NFC
+__sigfillset(set) (__extension__ ({ int __cnt = _SIGSET_NWORDS; sigset_t *__set = (set); while (--__cnt >= 0) __set->__val[__cnt] = ~0UL; 0; }))
+__LDBL_REDIR1_NTH(name,proto,alias) name proto __THROW
+_XOPEN_SHM 1
+AF_UNIX PF_UNIX
+RPM_MAX_TYPE 9
+NI_IDN 32
+_SC_PII _SC_PII
+__need_FILE
+ELIBMAX 82
+INT_LEAST64_MIN (-__INT64_C(9223372036854775807)-1)
+_SC_LEVEL3_CACHE_SIZE _SC_LEVEL3_CACHE_SIZE
+HAVE_LIBACL 1
+_SS_SIZE 128
+FTS_NOCHDIR 0x0004
+_SC_XOPEN_XPG3 _SC_XOPEN_XPG3
+EPFNOSUPPORT 96
+other
+__USE_POSIX199506
+STA_FLL 0x0008
+isspace(c) __isctype((c), _ISspace)
+LC_NUMERIC_MASK (1 << __LC_NUMERIC)
+MOD_CLKA ADJ_OFFSET_SINGLESHOT
+IN_CLASSC(a) ((((in_addr_t)(a)) & 0xe0000000) == 0xc0000000)
+UNLIKELY(value) __builtin_expect((value), 0)
+rpmrepoFlags_e
+DEV_BSIZE 512
+RPMTAG_SUGGESTS RPMTAG_SUGGESTSNAME
+SIGKILL 9
+__S_IEXEC 0100
+MAP_FILE 0
+IP_ROUTER_ALERT 5
+__CHAR_BIT__ 8
+LONG_MAX __LONG_MAX__
+AF_ROSE PF_ROSE
+LC_MONETARY __LC_MONETARY
+__FLT_DENORM_MIN__ 1.40129846432481707092e-45F
+INT_LEAST64_MAX (__INT64_C(9223372036854775807))
+HAVE_SYS_UTSNAME_H 1
+_IO_off_t __off_t
+sigmask(sig) __sigmask(sig)
+DRD_xstrdup(_str) xstrdup(_str)
+IPV6_PMTUDISC_DO 2
+argvCount
+ANNOTATE_BARRIER_WAIT_AFTER(barrier) 
+rpmpsLink(_ps,_msg) ((rpmps)rpmioLinkPoolItem((rpmioItem)(_ps), _msg, __FILE__, __LINE__))
+POPT_AUTOALIAS { NULL, '\0', POPT_ARG_INCLUDE_TABLE, poptAliasOptions, 0, "Options implemented via popt alias/exec:", NULL },
+HAVE_LCHOWN 1
+_STAT_VER_LINUX_OLD 1
+__FSWORD_T_TYPE __SWORD_TYPE
+__errordecl(name,msg) extern void name (void) __attribute__((__error__ (msg)))
+FTS_F 8
+STA_NANO 0x2000
+contentLength
+MSG_NOSIGNAL MSG_NOSIGNAL
+FTS_ROOTPARENTLEVEL -1
+SO_MAX_PACING_RATE 47
+__glibc_unlikely(cond) __builtin_expect ((cond), 0)
+CLOCK_MONOTONIC_COARSE 6
+ULLONG_MAX (LLONG_MAX * 2ULL + 1)
+AF_VSOCK PF_VSOCK
+HAVE_DLFCN_H 1
+RPMVSF_NODSAHEADER
+errcookie
+F_WRLCK 1
+__GCC_ATOMIC_BOOL_LOCK_FREE 2
+_CS_POSIX_V6_ILP32_OFFBIG_LDFLAGS _CS_POSIX_V6_ILP32_OFFBIG_LDFLAGS
+_IO_LINE_BUF 0x200
+Borrow or rob
+INADDR_MAX_LOCAL_GROUP ((in_addr_t) 0xe00000ff)
+__LDBL_MANT_DIG__ 64
+IPV6_RECVHOPOPTS 53
+HZ 100
+_IOS_NOREPLACE 64
+_G_HAVE_MREMAP 1
+IP_DROP_MEMBERSHIP 36
+FP_XSTATE_MAGIC2_SIZE sizeof(FP_XSTATE_MAGIC2)
+PF_PHONET 35
+__INT_LEAST32_MAX__ 2147483647
+FTS_SL 12
+__LDBL_REDIR_NTH(name,proto) name proto __THROW
+__need_FILE 
+NETDB_INTERNAL -1
+_pgpSign
+MAP_FIXED 0x10
+SOL_IP 0
+WITH_PCRE_POSIX 1
+__USE_POSIX 1
+SO_PEERCRED 17
+wmode
+ENOSYS 38
+SA_RESETHAND 0x80000000
+_SC_THREAD_STACK_MIN _SC_THREAD_STACK_MIN
+__ELF__ 1
+st_ctimespec st_ctim
+RPMLOG_PRI(p) ((p) & RPMLOG_PRIMASK)
+_IO_INTERNAL 010
+h_errno (*__h_errno_location ())
+_POSIX_STREAM_MAX 8
+NL_ARGMAX _POSIX_ARG_MAX
+ILL_PRVOPC ILL_PRVOPC
+RPMURL_SERVER_HASDAVCLASS2 ( 1 << 2)
+CHARCLASS_NAME_MAX 2048
+dngettext(domainname,msgid1,msgid2,n) dcngettext (domainname, msgid1, msgid2, n, LC_MESSAGES)
+uuid_t unistd_uuid_t
+rpmIsDebug() (rpmlogSetMask(0) >= RPMLOG_MASK( RPMLOG_DEBUG ))
+__THROWNL __attribute__ ((__nothrow__))
+_H_YARN_ 
+IN_CLASSC_NET 0xffffff00
+S_ISREG(mode) __S_ISTYPE((mode), __S_IFREG)
+_TANDEM_SOURCE 1
+HAVE_UUID_H 1
+RLIMIT_OFILE __RLIMIT_OFILE
+__stub_revoke 
+REG_EBP REG_EBP
+AF_FILE PF_FILE
+__LDBL_REDIR_DECL(name) 
+EBADR 53
+timerclear(tvp) ((tvp)->tv_sec = (tvp)->tv_usec = 0)
+pgpImplMpiItem_t
+__WCHAR_T 
+__ATOMIC_HLE_RELEASE 131072
+ELIBEXEC 83
+__BEGIN_NAMESPACE_C99 
+SIGSYS 31
+SIZEOF_LONG 4
+LC_IDENTIFICATION __LC_IDENTIFICATION
+__attribute_noinline__ __attribute__ ((__noinline__))
+HAVE_CONFSTR 1
+_PC_ALLOC_SIZE_MIN _PC_ALLOC_SIZE_MIN
+IPPROTO_ICMP IPPROTO_ICMP
+__fprintf_chk
+__VA_COPY_USE_CPP(d,s) memcpy((void *)(d), (void *)(s), sizeof(*(s)))
+_SC_READER_WRITER_LOCKS _SC_READER_WRITER_LOCKS
+HAVE_INET_ATON 1
+__need___va_list 
+__dev_t_defined 
+rpmop_s
+isalnum_l(c,l) __isalnum_l ((c), (l))
+IP_PMTUDISC_DONT 0
+_POSIX_SPIN_LOCKS 200809L
+MAP_STACK 0x20000
+mireLink(_mire) (miRE)rpmioLinkPoolItem((rpmioItem)_mire, __FUNCTION__, __FILE__, __LINE__)
+_SC_THREAD_KEYS_MAX _SC_THREAD_KEYS_MAX
+EMLINK 31
+POSIX_FADV_SEQUENTIAL 2
+IPPROTO_BEETPH IPPROTO_BEETPH
+SIGUSR1 10
+S_BLKSIZE 512
+IPPROTO_DSTOPTS IPPROTO_DSTOPTS
+IPV6_RXDSTOPTS IPV6_DSTOPTS
+_SC_DEVICE_SPECIFIC _SC_DEVICE_SPECIFIC
+__UINT_FAST64_MAX__ 18446744073709551615ULL
+FD_ISSET(fd,fdsetp) __FD_ISSET (fd, fdsetp)
+POPT_ERROR_ERRNO -16
+__need_getopt 
+TRAP_BRKPT TRAP_BRKPT
+__WEXITSTATUS(status) (((status) & 0xff00) >> 8)
+EAI_SERVICE -8
+rpmrepoTestSetupDirs
+SEEK_HOLE 4
+EBADRQC 56
+MSG_DONTROUTE MSG_DONTROUTE
+O_SYNC 04010000
+CMSG_NXTHDR(mhdr,cmsg) __cmsg_nxthdr (mhdr, cmsg)
+__time_t_defined 1
+__restrict_arr __restrict
+getc(_fp) _IO_getc (_fp)
+__DBL_MIN_EXP__ (-1021)
+EROFS 30
+directories
+__USE_UNIX98 1
+argv
+IP_RECVERR 11
+CLONE_SIGHAND 0x00000800
+FP_XSTATE_MAGIC2 0x46505845U
+RPMDBI_HDLIST (rpmTag)6
+SIG_BLOCK 0
+__int8_t_defined 
+SOL_ICMPV6 58
+__USE_XOPEN_EXTENDED
+EAI_SYSTEM -11
+ppkts
+rpmtsUnlink(_ts,_msg) ((rpmts) rpmioUnlinkPoolItem((rpmioItem)(_ts), _msg, __FILE__, __LINE__))
+EMULTIHOP 72
+__FD_SET(d,set) ((void) (__FDS_BITS (set)[__FD_ELT (d)] |= __FD_MASK (d)))
+PTHREAD_RECURSIVE_MUTEX_INITIALIZER_NP { { 0, 0, 0, PTHREAD_MUTEX_RECURSIVE_NP, 0, { __PTHREAD_SPINS } } }
+_POSIX_THREAD_THREADS_MAX 64
+__UINT_FAST64_TYPE__ long long unsigned int
+__O_DSYNC 010000
+VALGRIND_HG_ENABLE_CHECKING(_qzz_start,_qzz_len) 
+__STDC_NO_THREADS__ 1
+FNONBLOCK O_NONBLOCK
+HAVE_STRNCAT 1
+INADDR_LOOPBACK ((in_addr_t) 0x7f000001)
+EAI_INPROGRESS -100
+TIMEVAL_TO_TIMESPEC(tv,ts) { (ts)->tv_sec = (tv)->tv_sec; (ts)->tv_nsec = (tv)->tv_usec * 1000; }
+_CS_POSIX_V7_ILP32_OFF32_LINTFLAGS _CS_POSIX_V7_ILP32_OFF32_LINTFLAGS
+RPMLOG_MASK(pri) (1 << ((unsigned)(pri)))
+LC_MESSAGES __LC_MESSAGES
+RPMMIRE_DEFAULT
+ANNOTATE_BARRIER_WAIT_BEFORE(barrier) 
+SIG_IGN ((__sighandler_t) 1)
+IN_CLASSB(a) ((((in_addr_t)(a)) & 0xc0000000) == 0x80000000)
+RPMURL_SERVER_HASDAV (RPMURL_SERVER_HASDAVCLASS1|RPMURL_SERVER_HASDAVCLASS2|RPMURL_SERVER_HASDAVEXEC)
+ADJ_STATUS 0x0010
+___int_wchar_t_h 
+LOGIN_NAME_MAX 256
+__OFF_T_TYPE __SYSCALL_SLONG_TYPE
+_CS_LFS_CFLAGS _CS_LFS_CFLAGS
+_IO_OCT 040
+PROT_READ 0x1
+IPV6_RTHDR 57
+SIGHUP 1
+F_GETOWN __F_GETOWN
+POLLRDNORM 0x040
+_XOPEN_UNIX 1
+__need_timeval
+__need_wchar_t 
+_POSIX_TRACE_EVENT_FILTER -1
+_vtable_offset
+_XOPEN_VERSION 700
+LINE_MAX _POSIX2_LINE_MAX
+_PC_PRIO_IO _PC_PRIO_IO
+tv_usec
+AI_NUMERICSERV 0x0400
+USRPREFIX "/usr"
+HAVE_LIMITS_H 1
+_CS_POSIX_V7_ILP32_OFFBIG_CFLAGS _CS_POSIX_V7_ILP32_OFFBIG_CFLAGS
+__BIT_TYPES_DEFINED__ 1
+_BITS_POSIX1_LIM_H 1
+_H_RPMIOTYPES_ 
+__FDS_BITS(set) ((set)->fds_bits)
+RPMTAG_FILEMD5S RPMTAG_FILEDIGESTS
+_SC_SPORADIC_SERVER _SC_SPORADIC_SERVER
+REG_ESP REG_ESP
+VALGRIND_MAKE_MEM_DEFINED(_qzz_addr,_qzz_len) 
+rpmrepoUnlink(_repo) ((rpmrepo)rpmioUnlinkPoolItem((rpmioItem)(_repo), __FUNCTION__, __FILE__, __LINE__))
+CLONE_DETACHED 0x00400000
+_POSIX2_C_BIND __POSIX2_THIS_VERSION
+_SC_PAGESIZE _SC_PAGESIZE
+HAVE_MEMPCPY 1
+st_atimespec st_atim
+__FD_ELT
+getopt system_getopt
+DIGEST_CTX_s
+LC_IDENTIFICATION_MASK (1 << __LC_IDENTIFICATION)
+__O_LARGEFILE 0100000
+_G_IO_IO_FILE_VERSION 0x20001
+ENOTSUP EOPNOTSUPP
+STA_PPSWANDER 0x0400
+__FSFILCNT64_T_TYPE __UQUAD_TYPE
+_D_ALLOC_NAMLEN(d) (((char *) (d) + (d)->d_reclen) - &(d)->d_name[0])
+ADJ_OFFSET_SINGLESHOT 0x8001
+_POSIX_VDISABLE '\0'
+_SC_REALTIME_SIGNALS _SC_REALTIME_SIGNALS
+O_NOCTTY 0400
+UINT16_MAX (65535)
+SIGEV_SIGNAL SIGEV_SIGNAL
+HAVE_SETENV 1
+WSTOPPED 2
+__VA_COPY_USE_CPS(d,s) memcpy((void *)&(d), (void *)&(s), sizeof((s)))
+SIGPWR 30
+__USE_XOPEN2KXSI
+__O_NOFOLLOW 0400000
+REG_EAX REG_EAX
+FTS_W 14
+HAVE_BEECRYPT_API_H 1
+_SC_TIMER_MAX _SC_TIMER_MAX
+SI_KERNEL SI_KERNEL
+LC_MEASUREMENT __LC_MEASUREMENT
+DT_BLK DT_BLK
+CPU_ALLOC_SIZE(count) __CPU_ALLOC_SIZE (count)
+INT8_MAX (127)
+DELAYTIMER_MAX 2147483647
+__intN_t(N,MODE) typedef int int ##N ##_t __attribute__ ((__mode__ (MODE)))
+F_RDLCK 0
+O_LARGEFILE __O_LARGEFILE
+PTHREAD_SCOPE_PROCESS PTHREAD_SCOPE_PROCESS
+CPU_EQUAL(cpusetp1,cpusetp2) __CPU_EQUAL_S (sizeof (cpu_set_t), cpusetp1, cpusetp2)
+IPPROTO_GRE IPPROTO_GRE
+SIGPIPE 13
+__GCC_ATOMIC_LLONG_LOCK_FREE 2
+_NSIG 65
+LONG_LONG_MIN (-LONG_LONG_MAX - 1LL)
+_GCC_SIZE_T 
+__GXX_ABI_VERSION 1002
+SCM_WIFI_STATUS SO_WIFI_STATUS
+_H_RPMTYPES_ 
+_PATH_MNTTAB "/etc/fstab"
+LC_MEASUREMENT_MASK (1 << __LC_MEASUREMENT)
+__need_wchar_t
+_RPC_NETDB_H 1
+si_syscall _sifields._sigsys._syscall
+_IO_flockfile(_fp) 
+_IO_STDIO_H 
+SIZEOF_UNSIGNED_LONG_LONG 8
+__USE_GNU_GETTEXT 1
+_SC_SELECT _SC_SELECT
+INET_ADDRSTRLEN 16
+__ASM_GENERIC_SOCKET_H 
+NLENGTH(direct) (strlen((direct)->d_name))
+POPT_ERROR_BADCONFIG -22
+POSIX_FADV_DONTNEED __POSIX_FADV_DONTNEED
+_CS_XBS5_ILP32_OFF32_LDFLAGS _CS_XBS5_ILP32_OFF32_LDFLAGS
+LINK_MAX 127
+__GCC_ATOMIC_CHAR16_T_LOCK_FREE 2
+HAVE_SIGHOLD 1
+ANNOTATE_RWLOCK_DESTROY(rwlock) 
+pthread_cleanup_push_defer_np(routine,arg) do { struct __pthread_cleanup_frame __clframe __attribute__ ((__cleanup__ (__pthread_cleanup_routine))) = { .__cancel_routine = (routine), .__cancel_arg = (arg), .__do_it = 1 }; (void) pthread_setcanceltype (PTHREAD_CANCEL_DEFERRED, &__clframe.__cancel_type)
+SIZEOF_SHORT 2
+VALGRIND_HG_BARRIER_WAIT_PRE(_bar) 
+_SYS_SIZE_T_H 
+MSG_SYN MSG_SYN
+_SC_BASE _SC_BASE
+ADJ_TAI 0x0080
+EUNATCH 49
+POSIX_MADV_RANDOM 1
+MNTOPT_RO "ro"
+strtok_r(s,sep,nextp) __strtok_r (s, sep, nextp)
+EXDEV 18
+_SC_THREAD_SAFE_FUNCTIONS _SC_THREAD_SAFE_FUNCTIONS
+__STDC_IEC_559__ 1
+SIG_UNBLOCK 1
+SI_TIMER SI_TIMER
+pgpImplClean_t
+_PC_ASYNC_IO _PC_ASYNC_IO
+IP_MTU_DISCOVER 10
+_SC_LINE_MAX _SC_LINE_MAX
+AF_NETLINK PF_NETLINK
+FTS_INIT 9
+_POSIX2_VERSION __POSIX2_THIS_VERSION
+__DBL_DECIMAL_DIG__ 17
+AI_IDN_ALLOW_UNASSIGNED 0x0100
+PF_ROSE 11
+__FD_ELT(d) __extension__ ({ long int __d = (d); (__builtin_constant_p (__d) ? (0 <= __d && __d < __FD_SETSIZE ? (__d / __NFDBITS) : __fdelt_warn (__d)) : __fdelt_chk (__d)); })
+__GCC_ATOMIC_CHAR_LOCK_FREE 2
+static_assert
+iscntrl(c) __isctype((c), _IScntrl)
+CLONE_NEWIPC 0x08000000
+MOD_MICRO ADJ_MICRO
+_XOPEN_CRYPT 1
+SIGIOT 6
+POSIX_FADV_RANDOM 1
+IPPROTO_MTP IPPROTO_MTP
+GLOB_NOESCAPE (1 << 6)
+MNTTYPE_NFS "nfs"
+_SC_BC_DIM_MAX _SC_BC_DIM_MAX
+_POSIX2_CHARCLASS_NAME_MAX 14
+L_INCR SEEK_CUR
+__PMT
+ENOTDIR 20
+_SC_COLL_WEIGHTS_MAX _SC_COLL_WEIGHTS_MAX
+ANNOTATE_BARRIER_DESTROY(barrier) 
+LONG_LONG_MAX __LONG_LONG_MAX__
+__WIFEXITED(status) (__WTERMSIG(status) == 0)
+_G_config_h 1
+_CS_POSIX_V6_WIDTH_RESTRICTED_ENVS _CS_V6_WIDTH_RESTRICTED_ENVS
+__DEC128_SUBNORMAL_MIN__ 0.000000000000000000000000000000001E-6143DL
+_IO_peekc_unlocked(_fp) (_IO_BE ((_fp)->_IO_read_ptr >= (_fp)->_IO_read_end, 0) && __underflow (_fp) == EOF ? EOF : *(unsigned char *) (_fp)->_IO_read_ptr)
+pgpDigParams_s
+_SC_XOPEN_CRYPT _SC_XOPEN_CRYPT
+__CONCAT(x,y) x ## y
+STATFS_IN_SYS_STATVFS 1
+HAVE_FOPEN 1
+__S_ISGID 02000
+REG_EIP REG_EIP
+_POSIX_THREAD_ATTR_STACKADDR 200809L
+RPMTAG_C RPMTAG_CONFLICTNAME
+__OPTIMIZE__ 1
+EAI_SOCKTYPE -7
+MAP_NONBLOCK 0x10000
+ISAVMAGIC(_dir) (!memcmp((_dir), &avmagicdir, sizeof(avmagicdir)))
+_POSIX_V6_ILP32_OFFBIG 1
+SI_MESGQ SI_MESGQ
+SS_ONSTACK SS_ONSTACK
+_T_SIZE_ 
+__WNOTHREAD 0x20000000
+GLOB_ONLYDIR (1 << 13)
+_BITS_LOCALE_H 1
+PKGSRCDIR "/usr/src/rpm"
+_SC_USER_GROUPS _SC_USER_GROUPS
+SO_BUSY_POLL 46
+_PATH_HOSTS "/etc/hosts"
+SOCK_STREAM SOCK_STREAM
+_chain
+PRIO_USER PRIO_USER
+_POSIX_LINK_MAX 8
+MAXHOSTNAMELEN 64
+__tolower_l(c,locale) __tobody (c, __tolower_l, (locale)->__ctype_tolower, (c, locale))
+__GNUC_MINOR__ 8
+EKEYREJECTED 129
+_SC_TRACE_USER_EVENT_MAX _SC_TRACE_USER_EVENT_MAX
+MCAST_EXCLUDE 0
+EBADMSG 74
+__INT_LEAST64_TYPE__ long long int
+EKEYREVOKED 128
+CLD_CONTINUED CLD_CONTINUED
+__GLIBC_MINOR__ 19
+RLIMIT_RSS __RLIMIT_RSS
+____mbstate_t_defined 1
+SA_SIGINFO 4
+CALLGRIND_START_INSTRUMENTATION 
+DT_SOCK DT_SOCK
+ADJ_MICRO 0x1000
+AF_CAIF PF_CAIF
+_SC_SHRT_MIN _SC_SHRT_MIN
+IP_ADD_MEMBERSHIP 35
+__WCHAR_MIN __WCHAR_MIN__
+Zdigest
+DTTOIF(dirtype) ((dirtype) << 12)
+O_TRUNC 01000
+__SI_PAD_SIZE ((__SI_MAX_SIZE / sizeof (int)) - 3)
+_IO_pid_t __pid_t
+__S_IWRITE 0200
+INT_FAST16_MAX (2147483647)
+_POSIX_SYMLOOP_MAX 8
+LC_COLLATE_MASK (1 << __LC_COLLATE)
+IPV6_RECVRTHDR 56
+GLOB_ERR (1 << 0)
+NFDBITS __NFDBITS
+POLLWRBAND 0x200
+_POSIX_SAVED_IDS 1
+ENETDOWN 100
+RPMDBI_RECNO (rpmTag)13
+__USE_XOPEN2K8 1
+ELOOP 40
+ENXIO 6
+PGPDIG_SAVED_TIME (1 << 0)
+SCHAR_MAX __SCHAR_MAX__
+__S16_TYPE short int
+RPMLOG_FAC(p) (((p) & RPMLOG_FACMASK) >> 3)
+__COMPAR_FN_T 
+tolower(c) __tobody (c, tolower, *__ctype_tolower_loc (), (c))
+IN_CLASSB_NET 0xffff0000
+NO_RECOVERY 3
+_CS_POSIX_V7_ILP32_OFFBIG_LIBS _CS_POSIX_V7_ILP32_OFFBIG_LIBS
+MNTTAB _PATH_MNTTAB
+__DBL_MAX_EXP__ 1024
+UIO_MAXIOV 1024
+__O_DIRECTORY 0200000
+rpmIsNormal() (rpmlogSetMask(0) >= RPMLOG_MASK( RPMLOG_NOTICE ))
+SO_TIMESTAMPING 37
+__UINTMAX_C(c) c ## ULL
+__VA_COPY_USE __VA_COPY_USE_yes
+IPV6_V6ONLY 26
+_SC_NPROCESSORS_CONF _SC_NPROCESSORS_CONF
+_SC_BC_SCALE_MAX _SC_BC_SCALE_MAX
+POPT_CBFLAG_PRE 0x80000000U
+RLIM_NLIMITS __RLIM_NLIMITS
+fdio_write_function_t
+malloc
+__UQUAD_TYPE __u_quad_t
+_DEFAULT_SOURCE 1
+__GCC_ATOMIC_POINTER_LOCK_FREE 2
+__UID_T_TYPE __U32_TYPE
+SIOCGPGRP 0x8904
+_tolower(c) ((int) (*__ctype_tolower_loc ())[(int) (c)])
+HAVE_SEMAPHORE_H 1
+_POSIX_AIO_MAX 1
+SO_SNDBUFFORCE 32
+_SC_THREAD_ATTR_STACKADDR _SC_THREAD_ATTR_STACKADDR
+_XBS5_ILP32_OFF32 1
+__isprint_l(c,l) __isctype_l((c), _ISprint, (l))
+ENOPROTOOPT 92
+__stub_sigreturn 
+S_IFBLK __S_IFBLK
+EAI_IDN_ENCODE -105
+VALGRIND_MEMPOOL_EXISTS(pool) (0)
+RPMVSF_NOHDRCHK
+PTHREAD_DESTRUCTOR_ITERATIONS _POSIX_THREAD_DESTRUCTOR_ITERATIONS
+RPMPOPTFILES "/usr/lib/rpm/rpmpopt:/usr/lib/rpm/%{_target}/rpmpopt:/etc/rpm/rpmpopt.*:/etc/rpm/rpmpopt:/etc/rpm/%{_target}/rpmpopt:~/.rpmpopt"
+__need_clockid_t 
+__ATOMIC_RELEASE 3
+__unix__ 1
+S_ISBLK(mode) __S_ISTYPE((mode), __S_IFBLK)
+CLONE_NEWUSER 0x10000000
+LC_ALL_MASK (LC_CTYPE_MASK | LC_NUMERIC_MASK | LC_TIME_MASK | LC_COLLATE_MASK | LC_MONETARY_MASK | LC_MESSAGES_MASK | LC_PAPER_MASK | LC_NAME_MASK | LC_ADDRESS_MASK | LC_TELEPHONE_MASK | LC_MEASUREMENT_MASK | LC_IDENTIFICATION_MASK )
+_SC_IPV6 _SC_IPV6
+REPO_FLAGS_UNIQUEMDFN
+__DBL_MAX__ ((double)1.79769313486231570815e+308L)
+MCAST_MSFILTER 48
+IP_RECVORIGDSTADDR IP_ORIGDSTADDR
+HAVE_GETPAGESIZE 1
+__sigword(sig) (((sig) - 1) / (8 * sizeof (unsigned long int)))
+AF_KEY PF_KEY
+ENONET 64
+SO_ACCEPTCONN 30
+_SC_POLL _SC_POLL
+IPV6_JOIN_ANYCAST 27
+ENOSPC 28
+sa_handler __sigaction_handler.sa_handler
+fdno
+HAVE_STPCPY 1
+Packages_fini
+__DEC_EVAL_METHOD__ 2
+__DADDR_T_TYPE __S32_TYPE
+__pad1
+isblank(c) __isctype((c), _ISblank)
+__DECIMAL_DIG__ 21
+RPMDBI_PACKAGES (rpmTag)0
+PTHREAD_ERRORCHECK_MUTEX_INITIALIZER_NP { { 0, 0, 0, PTHREAD_MUTEX_ERRORCHECK_NP, 0, { __PTHREAD_SPINS } } }
+__sigemptyset(set) (__extension__ ({ int __cnt = _SIGSET_NWORDS; sigset_t *__set = (set); while (--__cnt >= 0) __set->__val[__cnt] = 0; 0; }))
+_IO_off64_t __off64_t
+__need_timespec 
+isblank_l(c,l) __isblank_l ((c), (l))
+_SC_TRACE_INHERIT _SC_TRACE_INHERIT
+UINT_LEAST64_MAX (__UINT64_C(18446744073709551615))
+__FUNCTION__
+__GCC_HAVE_DWARF2_CFI_ASM 1
+__DEC64_EPSILON__ 1E-15DD
+__LDBL_DENORM_MIN__ 3.64519953188247460253e-4951L
+EREMCHG 78
+_IO_FILE
+FNM_EXTMATCH (1 << 5)
+__attribute_format_arg__(x) __attribute__ ((__format_arg__ (x)))
+HAVE_LONG_DOUBLE 1
+POPT_CONTEXT_ARG_OPTS (1U << 4)
+strncat
+S_IRGRP (S_IRUSR >> 3)
+_libio_off_t
+_SC_THREAD_SPORADIC_SERVER _SC_THREAD_SPORADIC_SERVER
+__USE_FORTIFY_LEVEL 2
+_SC_REGEX_VERSION _SC_REGEX_VERSION
+__FD_ELT(d) ((d) / __NFDBITS)
+RPMDBI_BTREE (rpmTag)10
+__CPU_SET_S(cpu,setsize,cpusetp) (__extension__ ({ size_t __cpu = (cpu); __cpu / 8 < (setsize) ? (((__cpu_mask *) ((cpusetp)->__bits))[__CPUELT (__cpu)] |= __CPUMASK (__cpu)) : 0; }))
+_SC_T_IOV_MAX _SC_T_IOV_MAX
+MADV_UNMERGEABLE 13
+IN6ADDR_ANY_INIT { { { 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0 } } }
+AF_PACKET PF_PACKET
+F_SETLKW F_SETLKW64
+__uint32_t_defined 
+_SC_XOPEN_VERSION _SC_XOPEN_VERSION
+_POSIX_V7_ILP32_OFF32 1
+ANNOTATE_RWLOCK_RELEASED(rwlock,is_w) 
+IN6_IS_ADDR_MC_LINKLOCAL(a) (IN6_IS_ADDR_MULTICAST(a) && ((((const uint8_t *) (a))[1] & 0xf) == 0x2))
+pgpImplVerify_t
+IPV6_PMTUDISC_DONT 0
+SOL_X25 262
+_BITS_TIME_H 1
+_POSIX_SHARED_MEMORY_OBJECTS 200809L
+AI_ADDRCONFIG 0x0020
+RLIM64_INFINITY 0xffffffffffffffffuLL
+_STRING_ARCH_unaligned 1
+Sources_qfmt
+yarnLock_s
+__size_t 
+__CLOCKID_T_TYPE __S32_TYPE
+FTS_NOINSTR 3
+__INTPTR_MAX__ 2147483647
+_ATFILE_SOURCE
+UINTMAX_MAX (__UINT64_C(18446744073709551615))
+EXFULL 54
+_cur_column
+O_NOFOLLOW __O_NOFOLLOW
+_XOPEN_XPG2 1
+argc
+SO_NOFCS 43
+_BITS_BYTESWAP_H 1
+__mode_t
+LC_TIME_MASK (1 << __LC_TIME)
+makedev(maj,min) gnu_dev_makedev (maj, min)
+LC_CTYPE __LC_CTYPE
+SO_NO_CHECK 11
+_SC_INT_MIN _SC_INT_MIN
+ITIMER_PROF ITIMER_PROF
+__UINT16_C(c) c
+__USE_SVID 1
+__WTERMSIG(status) ((status) & 0x7f)
+__warndecl(name,msg) extern void name (void) __attribute__((__warning__ (msg)))
+DT_WHT DT_WHT
+HAVE_ISALPHA 1
+__LC_MEASUREMENT 11
+POPT_ARGFLAG_LOGICALOPS (POPT_ARGFLAG_OR|POPT_ARGFLAG_AND|POPT_ARGFLAG_XOR)
+REG_FS REG_FS
+__GCC_ATOMIC_CHAR32_T_LOCK_FREE 2
+ULONG_LONG_MAX
+PTHREAD_PROCESS_PRIVATE PTHREAD_PROCESS_PRIVATE
+__STDIO_INLINE __extern_inline
+PF_TIPC 30
+IP_PMTUDISC_PROBE 3
+HAVE_PCRE_H 1
+EHWPOISON 133
+POPT_ARG_FLOAT 8U
+_PC_REC_XFER_ALIGN _PC_REC_XFER_ALIGN
+SIZEOF_UNSIGNED_CHAR 1
+CLD_KILLED CLD_KILLED
+H_RPMDIR 
+_STDC_PREDEF_H 1
+H_RPMSW 
+FNM_NOESCAPE
+H_DEBUG 
+_SC_PHYS_PAGES _SC_PHYS_PAGES
+__LDBL_MAX__ 1.18973149535723176502e+4932L
+HAVE_SYS_IPC_H 1
+PATH_MAX 4096
+_POSIX2_BC_SCALE_MAX 99
+SIOCGSTAMP 0x8906
+isprint(c) __isctype((c), _ISprint)
+HAVE_NCPU_SYSCONF 1
+REG_EDX REG_EDX
+RPMURL_SERVER_HASDAVCLASS1 ( 1 << 1)
+_CS_PATH _CS_PATH
+urlNew(_msg) XurlNew(_msg, __FILE__, __LINE__)
+__intptr_t_defined 
+CLONE_SETTLS 0x00080000
+rpmrepoDoPkgMetadata
+HAVE_STRTOUL 1
+_LARGEFILE_SOURCE
+miRE_s
+EL3HLT 46
+VALGRIND_MEMPOOL_FREE(pool,addr) 
+WITH_FILE 1
+_SC_SCHAR_MIN _SC_SCHAR_MIN
+_SVID_SOURCE 1
+_POSIX_REENTRANT_FUNCTIONS 1
+__off64_t_defined 
+_SC_UIO_MAXIOV _SC_UIO_MAXIOV
+LC_COLLATE __LC_COLLATE
+NSS_BUFLEN_GROUP 1024
+_POSIX_LOGIN_NAME_MAX 9
+WITH_ATTR 1
+INTPTR_MAX (2147483647)
+_PATH_MEM "/dev/mem"
+HAVE_STRCHR 1
+LONG_BIT 32
+POPT_CBFLAG_INC_DATA 0x20000000U
+_CS_LFS_LIBS _CS_LFS_LIBS
+rpmrepoGetFileList
+F_SETLK64 13
+_FTS_H 1
+__isxdigit_l(c,l) __isctype_l((c), _ISxdigit, (l))
+__DEC64_MIN__ 1E-383DD
+__SIZEOF_INT__ 4
+ticks
+_BITS_TYPES_H 1
+P_tmpdir "/tmp"
+rpmxar
+_POSIX_THREAD_PROCESS_SHARED 200809L
+__SI_ALIGNMENT 
+CPU_FREE(cpuset) __CPU_FREE (cpuset)
+EAI_INTR -104
+_IO_FLAGS2_MMAP 1
+__strcmp_gc(s1,s2,l2) (- __strcmp_cg (s2, s1, l2))
+MSG_FASTOPEN MSG_FASTOPEN
+__DEC64_MAX__ 9.999999999999999E384DD
+HAVE_LIBPCRE 1
+AT_FDCWD -100
+POLLNVAL 0x020
+AF_DECnet PF_DECnet
+UINT_FAST32_MAX (4294967295U)
+rpmSetVerbosity(_lvl) ((void)rpmlogSetMask( RPMLOG_UPTO( RPMLOG_PRI(_lvl))))
+TRAP_TRACE TRAP_TRACE
+SOL_SOCKET 1
+_IO_va_list
+LC_NAME __LC_NAME
+begin
+HAVE_ERROR 1
+VALGRIND_HG_SEM_WAIT_POST(_sem) 
+__SSSE3__ 1
+IPV6_2292DSTOPTS 4
+__USE_ATFILE
+LONG_LONG_MIN
+POPT_TABLEEND { NULL, '\0', 0, NULL, 0, NULL, NULL }
+CLONE_NEWUTS 0x04000000
+_CS_POSIX_V6_LPBIG_OFFBIG_LIBS _CS_POSIX_V6_LPBIG_OFFBIG_LIBS
+__sigset_t_defined 
+GNU C 4.8.2 -m32 -march=core2 -mtune=core2 -msse3 -mfpmath=sse -mstackrealign -mpreferred-stack-boundary=4 -g -O2 -std=gnu99 -fno-omit-frame-pointer -fgnu89-inline -feliminate-unused-debug-types -fmerge-all-constants -frounding-math -fPIC
+envp
+__libc_csu_init
+elf-init.c
+__init_array_start
+size
+__init_array_end
+__libc_csu_fini
+"__P
+.symtab
+.strtab
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rel.dyn
+.rel.plt
+.init
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.ctors
+.dtors
+.jcr
+.dynamic
+.got
+.got.plt
+.data
+.bss
+.comment
+.debug_aranges
+.debug_info
+.debug_abbrev
+.debug_line
+.debug_str
+.debug_loc
+.debug_ranges
+.debug_macro
+init.c
+crtstuff.c
+__CTOR_LIST__
+__DTOR_LIST__
+__JCR_LIST__
+deregister_tm_clones
+register_tm_clones
+__do_global_dtors_aux
+completed.6350
+dtor_idx.6352
+frame_dummy
+__CTOR_END__
+__FRAME_END__
+__JCR_END__
+__do_global_ctors_aux
+rpmrepo.c
+__FUNCTION__.11514
+elf-init.c
+_DYNAMIC
+__init_array_end
+__init_array_start
+_GLOBAL_OFFSET_TABLE_
+rpmtsSetVSFlags@@LIBRPM_0
+argvFree@@LIBRPMIO_0
+rpmrepoDoRepoMetadata@@LIBRPMDB_0
+argvSort@@LIBRPMIO_0
+_rpmsw_stats@@LIBRPMIO_0
+__assert_program_name@@LIBRPMIO_0
+dcgettext@@GLIBC_2.0
+_edata
+rpmrepoGetFileList@@LIBRPMDB_0
+data_start
+mireLoadPatterns@@LIBRPMIO_0
+_IO_stdin_used
+rpmrepoDoPkgMetadata@@LIBRPMDB_0
+_fp_hw
+main
+_rpmrepo_debug@@LIBRPMDB_0
+__DTOR_END__
+malloc@@GLIBC_2.0
+__dso_handle
+rpmrepoTestSetupDirs@@LIBRPMDB_0
+stdout@@GLIBC_2.0
+_fini
+rpmtsCreate@@LIBRPM_0
+rpmrepoCheckTimeStamps@@LIBRPMDB_0
+__errno_location@@GLIBC_2.0
+__x86.get_pc_thunk.bx
+__libc_start_main@@GLIBC_2.0
+_start
+rpmioFreePoolItem@@LIBRPMIO_0
+_init
+tagClean@@LIBRPMDB_0
+__TMC_END__
+_Jv_RegisterClasses
+rpmrepoRealpath@@LIBRPMDB_0
+__data_start
+_end
+argvAppend@@LIBRPMIO_0
+argvPrint@@LIBRPMIO_0
+strerror@@GLIBC_2.0
+__bss_start
+__libc_csu_init
+rpmrepoNew@@LIBRPMDB_0
+__fprintf_chk@@GLIBC_2.3.4
+vmefail@@LIBRPMIO_0
+_rpmts_stats@@LIBRPM_0
+_ITM_deregisterTMCloneTable
+__libc_csu_fini
+rpmrepoError@@LIBRPMDB_0
+__gmon_start__
+strcpy@@GLIBC_2.0
+_ITM_registerTMCloneTable
+argvCount@@LIBRPMIO_0
+rpmrepoDoFinalMove@@LIBRPMDB_0

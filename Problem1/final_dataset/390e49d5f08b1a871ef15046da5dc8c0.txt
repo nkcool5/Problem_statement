@@ -1,0 +1,1084 @@
+/lib64/ld-linux-x86-64.so.2
+8]jM
+libgtk-3.so.0
+g_object_new
+g_get_current_dir
+g_date_strftime
+g_malloc_n
+gdk_rgba_parse
+g_option_context_parse
+g_option_context_add_group
+gdk_x11_window_get_xid
+g_return_if_fail_warning
+gdk_error_trap_pop
+g_path_is_absolute
+g_timeout_add
+g_strsplit_set
+g_error_free
+g_variant_new_boolean
+g_strndup
+g_variant_new_string
+g_utf8_strdown
+g_string_new
+g_str_equal
+g_value_dup_string
+g_option_context_new
+g_option_group_new
+g_log
+g_filename_to_utf8
+g_date_free
+g_path_get_basename
+g_variant_new_int32
+g_slist_length
+g_io_channel_set_encoding
+g_option_group_add_entries
+g_option_group_set_parse_hooks
+g_hash_table_new_full
+g_strdup
+g_convert_with_fallback
+g_ascii_strncasecmp
+g_hash_table_insert
+g_strchomp
+gdk_error_trap_push
+g_strdup_printf
+g_malloc
+g_ptr_array_sized_new
+g_strsplit
+gdk_display_get_default
+g_value_get_boolean
+g_str_has_prefix
+g_find_program_in_path
+g_signal_connect_data
+g_strerror
+g_ascii_table
+g_hash_table_lookup
+g_strrstr
+g_strstr_len
+g_strfreev
+g_strv_length
+g_option_context_free
+g_getenv
+g_str_hash
+g_ascii_strdown
+_Jv_RegisterClasses
+g_hash_table_unref
+g_file_test
+g_object_set
+g_hash_table_replace
+gdk_pixbuf_new_from_file
+g_object_get
+XFree
+g_timeout_add_seconds
+gdk_x11_display_get_type
+g_type_check_instance_is_a
+g_print
+gdk_flush
+g_option_group_set_translation_domain
+g_io_channel_unix_new
+g_strconcat
+g_string_free
+g_option_context_set_ignore_unknown_options
+g_path_get_dirname
+g_object_set_data
+g_realloc_n
+g_date_new_dmy
+g_object_unref
+g_ascii_strcasecmp
+g_slist_foreach
+g_hash_table_size
+g_strchug
+g_malloc0
+g_ptr_array_add
+g_option_context_set_help_enabled
+g_slist_nth_data
+pango_font_description_from_string
+_ITM_deregisterTMCloneTable
+g_assertion_message_expr
+XGetWindowAttributes
+g_slist_append
+g_hash_table_foreach
+gdk_rgba_to_string
+g_locale_to_utf8
+g_ascii_strtoll
+g_value_unset
+g_utf8_validate
+__gmon_start__
+g_ptr_array_free
+g_object_get_data
+_ITM_registerTMCloneTable
+gdk_x11_display_get_xdisplay
+g_app_info_launch_default_for_uri
+g_source_remove
+g_slist_free
+g_strcmp0
+g_hash_table_new
+gtk_text_buffer_insert
+gtk_range_get_value
+gtk_get_option_group
+gtk_combo_box_text_prepend_text
+gtk_main_iteration
+gtk_text_buffer_get_insert
+gtk_text_buffer_get_text
+gtk_cell_renderer_text_new
+gtk_label_get_type
+gtk_progress_bar_pulse
+gtk_combo_box_text_get_type
+gtk_dialog_set_default_response
+gtk_widget_set_visible
+gtk_window_get_type
+gtk_tree_view_set_model
+gtk_color_chooser_get_rgba
+gtk_widget_get_window
+gtk_calendar_new
+gtk_image_get_type
+gtk_window_set_default_size
+gtk_container_add
+gtk_list_store_set_column_types
+gtk_text_buffer_get_bounds
+gtk_file_chooser_set_do_overwrite_confirmation
+gtk_range_set_value
+gtk_widget_show_all
+gtk_range_set_increments
+gtk_progress_bar_get_type
+gtk_dialog_response
+gtk_dialog_new
+gtk_box_pack_start
+gtk_label_set_mnemonic_widget
+gtk_combo_box_new_with_model
+gtk_file_chooser_set_current_name
+gtk_file_chooser_set_filename
+gtk_progress_bar_set_fraction
+gtk_container_get_type
+gtk_calendar_select_month
+gtk_grid_attach_next_to
+gtk_entry_set_activates_default
+gtk_bin_get_type
+gtk_calendar_select_day
+gtk_entry_new
+_fini
+gtk_file_chooser_get_filenames
+gtk_entry_get_type
+gtk_widget_get_settings
+gtk_list_store_get_type
+gtk_entry_set_visibility
+gtk_widget_hide
+gtk_about_dialog_new
+gtk_tree_model_get
+gtk_label_new
+gtk_builder_connect_signals
+gtk_scrolled_window_new
+gtk_label_set_text_with_mnemonic
+gtk_widget_get_preferred_size
+gtk_widget_destroy
+gtk_grid_attach
+gtk_cell_layout_get_type
+gtk_tree_view_append_column
+gtk_color_chooser_set_rgba
+gtk_file_filter_add_pattern
+gtk_file_chooser_set_current_folder
+gtk_dialog_get_type
+gtk_tree_model_get_type
+gtk_dialog_get_content_area
+gtk_text_buffer_get_iter_at_offset
+gtk_tree_path_new_from_string
+gtk_box_pack_end
+gtk_text_buffer_delete
+gtk_file_chooser_add_filter
+gtk_toggle_button_get_active
+gtk_image_new_from_icon_name
+gtk_text_view_get_buffer
+gtk_widget_set_size_request
+gtk_tree_view_column_set_cell_data_func
+gtk_color_chooser_get_type
+gtk_widget_realize
+gtk_file_chooser_set_select_multiple
+gtk_calendar_get_date
+gtk_cell_layout_pack_start
+gtk_combo_box_text_new_with_entry
+gtk_combo_box_set_active
+gtk_grid_get_type
+gtk_tree_model_get_value
+gtk_widget_get_type
+gtk_main_quit
+gtk_tree_view_column_set_resizable
+gtk_builder_set_translation_domain
+gtk_scale_get_type
+gtk_window_set_deletable
+gtk_window_activate_default
+gtk_file_filter_set_name
+gtk_tree_view_set_headers_visible
+gtk_widget_grab_focus
+gtk_tree_view_get_selection
+gtk_builder_get_object
+gtk_window_set_icon
+gtk_list_store_set
+gtk_tree_model_get_iter
+gtk_tree_view_column_set_sort_column_id
+gtk_box_new
+gtk_events_pending
+gtk_tree_path_free
+gtk_list_store_append
+gtk_entry_get_text
+gtk_color_chooser_dialog_new
+gtk_widget_set_halign
+gtk_builder_add_objects_from_file
+gtk_range_get_type
+gtk_label_set_markup
+gtk_label_set_line_wrap
+gtk_file_chooser_dialog_new
+gtk_label_set_text
+gtk_main
+gtk_text_view_get_type
+gtk_tree_view_set_search_equal_func
+gtk_image_set_from_icon_name
+gtk_box_get_type
+gtk_bin_get_child
+gtk_tree_view_column_new_with_attributes
+gtk_scale_set_draw_value
+gtk_tree_view_column_set_visible
+gtk_file_chooser_get_type
+gtk_tree_view_get_type
+gtk_text_view_scroll_to_mark
+gtk_text_view_set_wrap_mode
+gtk_tree_model_get_n_columns
+gtk_widget_override_font
+gtk_file_filter_new
+gtk_cell_renderer_toggle_new
+gtk_calendar_get_type
+gtk_text_view_set_editable
+gtk_text_buffer_get_end_iter
+gtk_init
+gtk_combo_box_get_type
+gtk_widget_set_sensitive
+gtk_cell_renderer_pixbuf_new
+gtk_dialog_add_button
+gtk_text_buffer_get_start_iter
+gtk_widget_show
+gtk_button_set_label
+gtk_tree_selection_selected_foreach
+gtk_scrolled_window_set_policy
+gtk_tree_model_foreach
+gtk_window_set_title
+gtk_entry_set_text
+gtk_builder_new
+gtk_label_set_ellipsize
+gtk_list_store_new
+gtk_combo_box_get_model
+gtk_range_set_range
+gtk_combo_box_text_append_text
+gtk_text_buffer_new
+gtk_cell_layout_set_attributes
+gtk_scrolled_window_get_type
+gtk_tree_view_new
+gtk_window_set_icon_name
+gtk_button_get_type
+gtk_tree_view_get_model
+gtk_tree_model_get_column_type
+gtk_combo_box_text_get_active_text
+gtk_tree_selection_set_mode
+gtk_text_view_set_buffer
+gtk_combo_box_get_active_iter
+gtk_text_buffer_set_modified
+gtk_window_set_modal
+libgdk-3.so.0
+g_printerr
+XSetTransientForHint
+g_usleep
+XQueryTree
+gdk_events_pending
+libpango-1.0.so.0
+libgdk_pixbuf-2.0.so.0
+g_strcompress
+g_type_check_instance_cast
+libgio-2.0.so.0
+g_spawn_command_line_async
+g_io_channel_shutdown
+g_variant_new_byte
+libgobject-2.0.so.0
+libglib-2.0.so.0
+g_io_channel_read_line_string
+g_io_channel_read_chars
+g_io_add_watch
+g_io_channel_get_buffer_condition
+g_io_channel_get_flags
+g_option_group_set_error_hook
+g_io_channel_set_flags
+libX11.so.6
+XGetWMName
+libnotify.so.4
+notify_notification_close
+notify_notification_set_hint
+notify_notification_add_action
+notify_notification_new
+notify_notification_show
+notify_init
+notify_is_initted
+libwebkit2gtk-4.0.so.37
+webkit_web_view_get_settings
+webkit_web_view_new
+webkit_policy_decision_ignore
+webkit_navigation_policy_decision_get_navigation_action
+webkit_navigation_action_get_request
+webkit_web_view_get_type
+webkit_uri_request_get_uri
+webkit_navigation_action_get_navigation_type
+webkit_navigation_policy_decision_get_type
+webkit_web_view_load_html
+webkit_web_view_load_uri
+libpthread.so.0
+__errno_location
+libc.so.6
+exit
+fopen
+dcgettext
+puts
+__stack_chk_fail
+kill
+bind_textdomain_codeset
+strtol
+feof
+getppid
+strlen
+__memmove_chk
+strtoul
+nl_langinfo
+fread
+localtime
+strchr
+bindtextdomain
+__libc_start_main
+_edata
+__bss_start
+GLIBC_2.2.5
+GLIBC_2.3.4
+GLIBC_2.4
+%z	!
+%r	!
+%j	!
+%b	!
+%Z	!
+%R	!
+%J	!
+%B	!
+%:	!
+%2	!
+%*	!
+%"	!
+AWAV
+AUAT
+hL'A
+hG'A
+hT'A
+hY'A
+hv'A
+h~'A
+[]A\A]A^A_
+Hct$
+AWAV1
+AUATI
+([]A\A]A^A_
+([]A\A]A^A_
+S Hc
+AWAV1
+AUATUSH
+D$(t9
+|$(I
+t$ H
+8[]A\A]A^A_
+8[]A\A]A^A_
+ATUH
+Hct$
+AWAVI
+AUATUSH
+D$ ^_H
+/t;H
+t+<|
+([]A\A]A^A_
+S Hc
+AWAVAUATUSH
+([]A\A]A^A_
+([]A\A]A^A_
+AUATUI
+]A\A]A^
+ATUH
+[]A\
+[]A\H
+AWAVA
+AUATUSH
+([]A\A]A^A_
+ATUH
+[]A\
+ATUI
+[]A\
+tOr=
+8	t!
+dH3<%(
+4$dH
+Hct$
+AUATI
+([]A\A]
+.5bu
+AWAV1
+AUATI
+([]A\A]A^A_
+([]A\A]A^A_
+S Hc
+AWAV1
+AUAT1
+([]A\A]A^A_
+([]A\A]A^A_
+T$PH
+T$P1
+S Hc
+ATUSH
+t$pH
+[]A\
+|$p1
+D$ PH
+L$ H
+L$(H
+t$0H
+T$pH
+ATUH
+AWAV1
+AUATI
+t0E1
+|$ H
+|$0H
+|$8L
+t$ L
+t$(H
+[]A\A]A^A_
+t$(H
+t$(H
+T$ I
+t$@L
+AUATI
+D$(1
+D$(dH3
+8[]A\A]
+ATUH
+D$81
+D$8dH3
+@[]A\
+AVAU
+ATUI
+ []A\A]A^
+AWAV
+AUATI
+D$81
+\$ ~C
+L$8dH3
+H[]A\A]A^A_
+S Hc
+AWAV1
+AUATA
+~)A9
+[]A\A]A^A_
+AWAVI
+AUATA
+USMc
+L$ D
+D$$H
+|$(dH
+D$h1
+t$@H
+t$@1
+t$@H
+D$hdH3
+x[]A\A]A^A_
+t$@H
+|$(H
+t$01
+T$4I
+AUATA
+[]A\A]
+AWAVAUATI
+([]A\A]A^A_
+AWAV1
+AUATI
+H[]A\A]A^A_
+l$ I
+|$ H
+|$(Hc
+|$(H
+L$0E1
+_AXI
+H[]A\A]A^A_
+Hc|$
+|$ H
+L$0E1
+L$(L
+T$(1
+D$81
+D$8dH3
+Hct$
+AWAVI
+AUATI
+D$81
+D$ H
+D$ H
+t$@L
+D$8dH3
+H[]A\A]A^A_
+ATUSH
+Hct$
+[]A\
+[]A\
+[]A\
+[]A\
+AWAVAUATI
+[]A\A]A^A_
+ATUI
+T$@H
+L$HL
+D$PL
+L$XH
+t$8dH
+D$(1
+D$0H
+D$ u
+t$(dH34%(
+`[]A\
+StJH
+u	H9
+AWAVAUATUSH
+T$`L
+t$`1
+L$`H
+t$`Ic
+t$`H
+T$`H
+[]A\A]A^A_
+ATUI
+[]A\
+[]A\
+AUATUSH
+[]A\A]
+T$ H
+T$ H
+|$ H
+D$ H
+|$ H
+H;\$
+AWAVAUATI
+[]A\A]A^A_
+T$8H
+t$01
+t$ H
+t$ A
+AUATI
+([]A\A]
+Hct$
+AWAV1
+AUATUSH
+=Fz 
+|$(H
+t$01
+L$ E1
+D$(H
+|$PH
+D$(H
+l$PL
+t$(H
+D$(H
+D$(H
+\$(H
+Beeb
+D$ H
+D$ L
+[]A\A]A^A_
+D$`H
+D$ H
+L$8A
+|$`M
+l$hL
+t$pH
+D$@E1
+Eleele
+\$HH
+\$HH
+l$hL
+T$8H
+D$ H
+\$xL
+L$8A
+D$ H
+D$8t}
+D$@tWL
+\$xH
+d$HH
+|$`H
+t$@I
+D$ H
+t$@L
+D$@H
+AWAVA
+AUATL
+[]A\A]A^A_
+translator-credits
+/usr/share/zenity/zenity.png
+copyright
+3.18.1.1
+wrap-license
+logo
+http://live.gnome.org/Zenity
+website
+documenters
+authors
+comments
+response
+GNOME Documentation Project
+You should have received a copy of the GNU Lesser General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser General Public License for more details.
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+Display dialog boxes from shell scripts
+Copyright 
+ 2003 Sun Microsystems
+Glynn Foster <glynn.foster@sun.com>
+Lucas Rocha <lucasr@gnome.org>
+Java Desktop System Documentation Team
+Glynn Foster <glynn foster sun com>
+Lucas Rocha <lucasr gnome org>
+Mike Newman <mikegtn gnome org>
+zenity_calendar_dialog
+zenity_calendar_text
+zenity_calendar
+day-selected-double-click
+zenity_calendar_ok_button
+zenity_calendar_cancel_button
+/usr/share/zenity/zenity-calendar.png
+zenity_entry_dialog
+zenity_entry_ok_button
+zenity_entry_cancel_button
+zenity_entry_text
+vbox4
+activate
+visibility
+/usr/share/zenity/zenity-entry.png
+_Cancel
+/usr/share/zenity/zenity-file.png
+/usr/share/locale
+UTF-8
+main.c
+You must specify a dialog type. See 'zenity --help' for details
+main
+zenity_warning_dialog
+zenity_warning_text
+zenity_warning_image
+zenity_warning_ok_button
+zenity_question_dialog
+zenity_question_text
+zenity_question_image
+zenity_error_dialog
+zenity_error_text
+zenity_error_image
+zenity_error_ok_button
+zenity_info_dialog
+zenity_info_text
+zenity_info_image
+zenity_info_ok_button
+msg.c
+dialog-warning
+dialog-question
+_Yes
+dialog-error
+dialog-information
+size-allocate
+gtk-label-select-on-focus
+zenity_msg
+action-icons
+true
+resident
+suppress-sound
+transient
+false
+category
+desktop-entry
+image-path
+image_path
+sound-file
+sound-name
+image-data
+Unsupported hint. Skipping.
+image_data
+icon-data
+urgency
+Unknown hint name. Skipping.
+Could not parse message
+message
+Invalid UTF-8 in input!
+tooltip
+visible
+Unknown command '%s'
+Zenity notification
+Do Default Action
+default
+Invalid value for a boolean typed hint.
+Supported values are 'true' or 'false'.
+zenity_notification_handle_stdin () : %s
+Could not parse command from stdin
+Error showing notification: %s
+--add-entry
+--add-calendar
+--add-password
+--add-list
+Tacocat
+--add-combo
+Show general options
+General options
+general
+Show calendar options
+Calendar options
+Show text entry options
+Text entry options
+Show error options
+Error options
+Show info options
+Info options
+Show file selection options
+File selection options
+file-selection
+Show list options
+List options
+Notification icon options
+Show progress options
+Progress options
+progress
+Show question options
+Question options
+Show warning options
+Warning options
+Show scale options
+Scale options
+Show text information options
+Text information options
+text-info
+Show color selection options
+Color selection options
+color-selection
+Show password dialog options
+Password dialog options
+Do nine men interpret Nine men I nod
+Degas are we not drawn onward no In union drawn onward to new eras aged
+Show forms dialog options
+Forms dialog options
+forms
+Show miscellaneous options
+Miscellaneous options
+misc
+about
+About zenity
+Print version
+Set the color
+VALUE
+show-palette
+Show the palette
+Display password dialog
+username
+Display the username option
+Display forms dialog
+Field name
+Calendar field name
+alula
+List field and header name
+list-values
+List of values for List
+List of values separated by |
+column-values
+List of values for columns
+Combo box field name
+combo-values
+List of values for combo box
+show-header
+Show the columns header
+Set the dialog text
+TEXT
+separator
+SEPARATOR
+date-format
+PATTERN
+God A red nugget A fat egg under a dog
+Display scale dialog
+Set initial value
+min-value
+Set minimum value
+max-value
+Set maximum value
+step
+Set step size
+print-partial
+Print partial values
+hide-value
+Hide value
+Display warning dialog
+icon-name
+Set the dialog icon
+ICON-NAME
+no-wrap
+Do not enable text wrapping
+no-markup
+Do not enable Pango markup
+ellipsize
+Open file
+FILENAME
+editable
+Allow changes to text
+Set the text font
+html
+Enable HTML support
+no-interaction
+auto-scroll
+Display question dialog
+default-cancel
+switch
+Set initial percentage
+PERCENTAGE
+pulsate
+Pulsate progress bar
+auto-close
+auto-kill
+no-cancel
+Hide Cancel button
+time-remaining
+Display notification
+Set the notification text
+listen
+Listen for commands on stdin
+Set the notification hints
+Display list dialog
+Set the column header
+COLUMN
+checklist
+radiolist
+imagelist
+multiple
+print-column
+NUMBER
+hide-column
+Hide a specific column
+hide-header
+Hide the column headers
+mid-search
+Display file selection dialog
+Set the filename
+directory
+save
+Activate save mode
+confirm-overwrite
+file-filter
+Set a filename filter
+NAME | PATTERN1 PATTERN2 ...
+Display info dialog
+Display error dialog
+Display text entry dialog
+entry-text
+Set the entry text
+hide-text
+Hide the entry text
+Display calendar dialog
+Set the calendar day
+Set the calendar month
+MONTH
+Set the calendar year
+YEAR
+Set the dialog title
+TITLE
+window-icon
+Set the window icon
+ICONPATH
+Set the width
+WIDTH
+Set the height
+HEIGHT
+timeout
+Set dialog timeout in seconds
+A Santa lives evil at NASA
+ok-label
+cancel-label
+extra-button
+Add an extra button
+modal
+Set the modal hint
+attach
+WINDOW
+--%s is not supported for this dialog
+This option is not available. Please see --help for all possible usages.
+Two or more dialog options specified
+Show notification icon options
+Display color selection dialog
+Add a new Entry in forms dialog
+Add a new Password Entry in forms dialog
+Add a new Calendar in forms dialog
+Add a new List in forms dialog
+Add a new combo box in forms dialog
+Set output separator character
+Set the format for the returned date
+Enable ellipsizing in the dialog text. This fixes the high window size with long texts
+Display text information dialog
+Enable an I read and agree checkbox
+Do not enable user interaction with the WebView. Only works if you use --html option
+Set an URL instead of a file. Only works if you use --html option
+Auto scroll the text to the end. Only when text is captured from stdin
+Give Cancel button focus by default
+Suppress OK and Cancel buttons
+Display progress indication dialog
+Dismiss the dialog when 100% has been reached
+Kill parent process if Cancel button is pressed
+Estimate when progress will reach 100%
+Use check boxes for the first column
+Use radio buttons for the first column
+Use an image for the first column
+Allow multiple rows to be selected
+Print a specific column (Default is 1. 'ALL' can be used to print all columns)
+Change list default search function searching for text in the middle, not on the beginning
+Allow multiple files to be selected
+Activate directory-only selection
+Confirm file selection if filename already exists
+Set the label of the OK button
+Set the label of the Cancel button
+Set the parent window to attach to
+zenity_progress_bar
+zenity_progress_text
+zenity_progress_time
+zenity_progress_ok_button
+zenity_progress_cancel_button
+zenity_progress_dialog
+zenity_progress_handle_stdin () : %s
+Time remaining: %lu:%02lu:%02lu
+/usr/share/zenity/zenity-progress.png
+%.0f
+adjustment1
+zenity_scale_dialog
+zenity_scale_hscale
+zenity_scale_text
+Value out of range.
+zenity_scale_ok_button
+zenity_scale_cancel_button
+value-changed
+Maximum value must be greater than minimum value.
+/usr/share/zenity/zenity-scale.png
+decide-policy
+ISO-8859-1
+textbuffer1
+zenity_text_dialog
+zenity_text_close_button
+zenity_text_cancel_button
+zenity_text_checkbox
+zenity_text_view
+toggled
+zenity_text_scrolled_window
+auto-load-images
+enable-caret-browsing
+enable-developer-extras
+enable-fullscreen
+enable-html5-database
+enable-html5-local-storage
+enable-java
+enable-javascript
+enable-page-cache
+enable-plugins
+enable-private-browsing
+enable-tabs-to-links
+user-agent
+http://
+https://
+http://%s
+file://
+load-changed
+zenity_text_handle_stdin () : %s
+/usr/share/zenity/zenity-text.png
+enable-offline-web-application-cache
+Zenity with WebKit (KHTML, like Gecko) support
+Failed to load '%s'
+pixbuf
+pixbuf_cache
+tree.c
+radio
+zenity_tree_view
+%s%s
+n_columns
+zenity_tree_window
+toggles
+zenity_tree_dialog
+zenity_tree_ok_button
+zenity_tree_cancel_button
+zenity_tree_text
+row-activated
+active
+edited
+zenity_tree_handle_stdin () : %s
+No column titles specified for List dialog.
+You should use only one List dialog type.
+/usr/share/zenity/zenity-list.png
+zenity_load_pixbuf
+ok-button
+cancel-button
+show-editor
+%s|%s
+Type your password
+dialog-password
+Username:
+Password:
+Type your username and password
+./zenity.ui
+/usr/share/zenity/zenity.ui
+Could not load ui file %s: %s
+string != NULL
+Cannot open file '%s': %s
+util.c
+yelp
+yelp help:zenity
+ZENITY_OK
+DIALOG_OK
+ZENITY_CANCEL
+DIALOG_CANCEL
+ZENITY_ESC
+DIALOG_ESC
+ZENITY_EXTRA
+DIALOG_EXTRA
+ZENITY_ERROR
+DIALOG_ERROR
+ZENITY_TIMEOUT
+DIALOG_TIMEOUT
+WINDOWID
+gtk_widget_get_window(dialog)
+Invalid UTF-8 data encountered reading file '%s'
+g_utf8_validate (buf, leftover - buf, NULL)
+zenity_util_show_dialog
+zenity_util_fill_file_buffer
+zenity_util_strip_newline
+zenity_forms_dialog
+zenity_forms_ok_button
+zenity_forms_cancel_button
+zenity_forms_text
+zenity_forms_grid
+;*3$"
+aae66fa91d1c385d6a4dd75407d95f94160a04.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+Borrow or rob
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

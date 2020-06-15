@@ -1,0 +1,1631 @@
+/lib64/ld-linux-x86-64.so.2
+a*A	
+~j6GLRY
+G~lV
+',_)
+x?>m
+sq8Vh
+~%`:
+:2pp
+libdotconf.so.0
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+dotconf_create
+dotconf_cleanup
+dotconf_command_loop
+libgmodule-2.0.so.0
+g_malloc
+g_path_get_dirname
+g_strdup_printf
+g_strdup
+g_file_test
+g_module_supported
+libgthread-2.0.so.0
+g_thread_init
+libglib-2.0.so.0
+g_hash_table_foreach_remove
+g_get_user_runtime_dir
+g_str_equal
+g_string_append
+g_hash_table_new
+g_string_insert_len
+g_list_length
+g_regex_match
+g_int_equal
+g_list_foreach
+g_get_user_config_dir
+g_strfreev
+g_list_append
+g_list_remove
+g_string_append_len
+g_queue_new
+g_string_new
+g_malloc0
+g_hash_table_remove
+g_list_index
+g_string_append_printf
+g_string_free
+g_string_printf
+g_list_delete_link
+g_queue_get_length
+g_mkdir_with_parents
+g_list_free
+g_list_nth_data
+g_unichar_isspace
+g_utf8_find_next_char
+g_regex_unref
+g_hash_table_lookup
+g_regex_new
+g_queue_free
+g_utf8_validate
+g_list_remove_link
+g_utf8_get_char
+g_build_filename
+g_str_hash
+g_int_hash
+g_list_first
+g_list_find_custom
+g_list_nth
+g_strsplit
+g_list_insert_sorted
+g_list_insert
+g_file_get_contents
+g_unichar_to_utf8
+g_hash_table_new_full
+g_list_last
+g_hash_table_destroy
+g_hash_table_insert
+g_unlink
+g_queue_push_tail
+g_ascii_strdown
+g_list_find
+g_queue_pop_head
+g_list_free_1
+g_queue_free_full
+g_realloc
+libpthread.so.0
+pthread_sigmask
+pthread_mutex_init
+pthread_setcancelstate
+__errno_location
+pthread_mutex_lock
+accept
+fcntl
+pthread_cancel
+pthread_create
+pthread_join
+fork
+pthread_mutex_unlock
+pthread_setcanceltype
+waitpid
+pthread_mutex_trylock
+libc.so.6
+fflush
+strcpy
+__printf_chk
+exit
+fnmatch
+readdir
+setlocale
+fopen
+perror
+dcgettext
+__fdelt_chk
+closedir
+signal
+strncpy
+sigfillset
+__stack_chk_fail
+daemon
+putchar
+listen
+select
+mkdir
+getpid
+kill
+__assert_fail
+strtol
+strlen
+ungetc
+strstr
+bind
+dup2
+__fprintf_chk
+ctime
+stdout
+fputc
+memcpy
+fclose
+setsockopt
+umask
+__strndup
+opendir
+__ctype_b_loc
+getenv
+optarg
+stderr
+ioctl
+getopt_long
+execvp
+fileno
+usleep
+fwrite
+gettimeofday
+strchr
+__poll_chk
+__vfprintf_chk
+fdopen
+setvbuf
+__sprintf_chk
+__xstat
+bindtextdomain
+_IO_getc
+strcmp
+strerror
+__libc_start_main
+_edata
+__bss_start
+logging_mutex
+__libc_csu_fini
+cb_EndClient
+str2ECapLetRecogn
+i18n_init
+set_debug_all
+spd_message_copy
+speechd_connection_destroy
+isanum
+output_send_settings
+client_has_messages
+speechd_module_debug
+cb_LanguageDefaultModule
+output_module_debug
+compare_message_fd
+set_rate_all
+ESpellMode2str
+cb_DefaultPitch
+module_already_requested
+cb_AudioNASServer
+cb_BeginClient
+get_output_module_by_name
+spd_getline
+set_client_name_self
+speechd_options_init
+cb_CustomLogFile
+output_set_speaking_monitor
+spd_utf8_read_char
+cb_CommunicationMethod
+options_print_version
+SpeechdStatus
+speechd_load_configuration
+cb_DefaultPauseContext
+get_speaking_client_uid
+load_default_global_set_options
+make_local_socket
+destroy_module
+Beeb
+output_send_debug
+parse_block
+set_debug_self
+speaking_cancel_all
+destroy_pid_file
+spd_str_compare
+speaking_cancel
+p_msg_comp_id
+set_spelling_self
+history_get_message
+create_pid_file
+cb_AudioOSSDevice
+p_msg_uid_lc
+stop_from_uid
+set_language_uid
+SPEAKING
+speechd_sockets_status_init
+spd_fdset_copy
+load_config_options
+output_send_audio_settings
+speaking_uid
+default_fd_set
+output_send_data
+add_config_option
+cb_AudioOutputMethod
+parse_cancel
+set_speak_thread_attributes
+history_get_last
+set_spelling_all
+set_volume_self
+message_nto_speak
+p_msg_lc
+speechd_sockets_status
+output_close
+socket_com_mutex
+cb_LogDir
+get_param
+str2intpriority
+parse_snd_icon
+socket_send_msg
+readfds
+set_ssml_mode_self
+cb_Port
+unload_output_module
+find_index_mark
+EPunctMode2str
+cb_DefaultSpelling
+parse_char
+output_read_reply
+speechd_module_nodebug
+cb_DefaultModule
+message_has_uid
+set_rate_uid
+speaking_resume_all
+set_priority_uid
+remove_client_settings_by_uid
+options_print_help
+set_capital_letter_recognition_all
+history_cursor_get
+get_message_from_queues
+spd_options
+parse_help
+set_pitch_uid
+mem_free_message
+history_get_client_list
+set_language_all
+parse_stop
+speaking_gid
+get_output_module
+speechd_modules_nodebug
+empty_queue
+speechd_socket_unregister
+resolve_priorities
+set_capital_letter_recognition_self
+pause_requested_fd
+speechd_connection_new
+ECapLetRecogn2str
+set_voice_uid
+speechd_socket_get_by_fd
+cb_DefaultClientName
+SpeechdOptions
+set_debug_uid
+cb_LogLevel
+__data_start
+history_cursor_backward
+serve
+module_number_of_requested_modules
+set_voice_self
+speechd_init
+waitpid_with_timeout
+queue_remove_message
+cb_AddModule
+speechd_client_terminate
+set_pause_context_self
+set_ssml_mode_all
+set_synthesis_voice_self
+str2EPunctMode
+set_pause_context_all
+debug_logfile
+module_add_load_request
+resume_requested
+last_message_id
+report_pause
+queue_message
+server_socket
+speaking_get_queue
+_IO_stdin_used
+cb_AudioPulseMinLength
+stop_priority_from_uid
+report_resume
+output_list_voices
+set_punctuation_mode_self
+report_begin
+speaking_module
+parse_key
+speaking_sem_id
+set_volume_uid
+fatal_error
+speechd_socket_register
+report_end
+cb_DefaultVolume
+cb_DefaultPunctuationMode
+parse_get
+history_cursor_forward
+cb_DefaultPriority
+MSG2
+current_message
+__libc_csu_init
+GlobalFDSet
+set_ssml_mode_uid
+set_language_self
+speak_thread
+set_pitch_self
+update_cl_settings
+set_param_str
+fd_uid
+parse_history
+pause_requested
+set_priority_self
+parse_general_event
+spd_get_path
+speechd_socket_free
+insert_index_marks
+server_data_on
+compare_message_uid
+custom_logfile
+set_spelling_uid
+reload_output_module
+reload_message
+set_notification_self
+output_pause
+get_client_settings_by_uid
+speaking_resume
+history_cursor_set_pos
+Degas are we not drawn onward no In union drawn onward to new eras aged
+free_config_options
+history_cursor_set_first
+strip_index_marks
+module_load_requested_modules
+spd_mode
+output_speak
+output_stop
+cb_AudioPulseServer
+cb_DisableAutoSpawn
+speechd_reload_dead_modules
+fd_settings
+EVoice2str
+set_rate_self
+options_parse
+set_pitch_all
+set_punctuation_mode_all
+str2ESpellMode
+get_messages_by_client
+check_locked
+set_volume_all
+set_output_module_self
+sortbyuid
+output_check_module
+custom_log_kind
+cb_DefaultLanguage
+parse_pause
+history_get_message_list
+output_layer_mutex
+output_send_loglevel_setting
+empty_queue_by_time
+spd_num_options
+cb_MaxHistoryMessages
+report_cancel
+speaking_sem_key
+set_voice_all
+MessagePausedList
+set_pause_context_uid
+output_module_is_speaking
+set_synthesis_voice_all
+deescape_dot
+cb_DefaultRate
+speechd_modules_debug
+set_synthesis_voice_uid
+parse_list
+server_data_off
+cb_LogFile
+cb_DefaultVoiceType
+speaking_stop_all
+cb_LocalhostAccessOnly
+set_output_module_uid
+speechd_modules_reload
+parse_set
+speaking_pause
+cb_unknown
+element_free_mutex
+is_sb_speaking
+make_inet_socket
+str2EVoice
+speaking_semaphore_post
+speaking_set_queue
+logging_init
+last_p5_block
+output_is_speaking
+detect_output_modules
+speechd_modules_terminate
+MessageQueue
+stop_priority_older_than
+mem_free_fdset
+speaking_stop
+history_cursor_set_last
+language_default_modules
+set_output_module_all
+speaking_pause_all
+speechd_quit
+output_read_reply2
+history_say_id
+pause_requested_uid
+poll_count
+set_punctuation_mode_uid
+report_index_mark
+cb_AudioALSADevice
+output_module_nodebug
+stop_priority
+get_client_settings_by_fd
+parse_resume
+message_compare_id
+stop_priority_except_first
+cb_DefaultCapLetRecognition
+history_add_message
+cb_SocketPath
+history_get_client_id
+set_capital_letter_recognition_uid
+client_specific_settings
+speaking_pipe
+get_client_uid_by_fd
+GLIBC_2.2.5
+GLIBC_2.3
+GLIBC_2.14
+GLIBC_2.16
+GLIBC_2.15
+GLIBC_2.4
+GLIBC_2.3.4
+AWAVAUATUS
+D$ H
+D$(H
+D$0H
+Borrow or rob
+D$8H
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+D$pH
+D$xH
+dH34%(
+[]A\A]A^A_
+UH- 
+AVAUI
+L$XL
+D$`L
+L$ht=
+)D$p
+D$81
+t3A9
+D$8dH3
+[]A\A]A^
+L$ L
+D$(H
+D$$0
+L$ L
+D$(H
+D$$0
+L$ L
+D$(H
+D$$0
+ATUI
+T$PH
+L$XL
+D$`L
+L$ht=
+)D$p
+D$81
+D$8dH3
+[]A\
+L$ L
+D$(H
+D$$0
+L$ L
+D$(H
+D$$0
+L$ L
+D$(H
+D$$0
+Hc=s
+=M|!
+=!|!
+AVAUATUSH
+D$(1
+=a}!
+L$(dH3
+0[]A\A]A^
+=J|!
+Hc|$
+=Az!
+=!z!
+D$(1
+=yx!
+=mx!
+L$(dH3
+=aw!
+5qw!
+=aw!
+=7w!
+=1u!
+=@u!
+=,u!
+5\t!
+ATU1
+D$x1
+L$xdH3
+[]A\
+D$(1
+=^q!
+L$(dH3
+AUATA
+[]A\A]
+%Io!
+%)o!
+%	o!
+AVAUA
+[]A\A]A^
+t$XH
+[]A\
+AUATA
+=\d!
+=2d!
+0D9f u
+[]A\A]
+AWAVA
+AUAT
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+xlATUA
+[]A\
+[]A\
+AWAVAUATI
+D$(%
+[]A\A]A^A_
+5N`!
+St;H
+StYH
+5Q_!
+AVAUATUSH
+D$(1
+5?^!
+T$(dH3
+0[]A\A]A^
+AUATUSH
+[]A\A]
+[]A\A]
+St8H
+AVAUATUSH
+]A\A]A^
+]A\A]A^
+AVAUI
+ATUI
+[]A\A]A^
+]A\A]A^
+=uU!
+=4K!
+=dJ!
+G(u"
+=tI!
+-jJ!
+AUATUSH
+[]A\A]
+[]A\A]
+55D!
+AWAVA
+AUATM
+T$PH
+[]A\A]A^A_
+tKAUATI
+[]A\A]
+5\>!
+ATUH
+[]A\
+AUATUSH
+[]A\A]
+[]A\A]
+AVAU
+ATUA
+]A\A]A^
+[]A\A]A^
+[]A\A]A^
+]A\A]A^
+]A\A]A^
+[]A\A]A^
+[]A\A]A^1
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+AWAVA
+AUAT
+[]A\A]A^A_
+8ouK
+ATU1
+[]A\
+[]A\
+[]A\
+[]A\
+[]A\
+[]A\
+[]A\
+ATU1
+[]A\
+[]A\
+[]A\
+[]A\
+[]A\
+[]A\
+[]A\
+ATU1
+[]A\
+-*!!
+%w#!
+[]A\
+[]A\
+[]A\
+[]A\
+[]A\
+[]A\
+ATU1
+[]A\
+[]A\
+[]A\
+[]A\
+[]A\
+[]A\
+[]A\
+AWAVI
+AUAT1
+[]A\A]A^A_
+[]A\
+[]A\
+[]A\
+[]A\
+[]A\
+[]A\
+[]A\
+[]A\
+AUATI
+]A\A]
+[]A\A]
+8eu<
+xcu'
+AWAVA
+AUATUSH
+tRH)
+t4Hc
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+<$~$H
+AUATUSH
+[]A\A]
+AUATUSH
+[]A\A]
+AUATUSH
+=		!
+[]A\A]
+ATUSH
+[]A\
+<$~DH
+ATUSH
+$~>H
+[]A\
+<$~DH
+ATUSH
+$~>H
+[]A\
+ATUSH
+[]A\
+<$~DH
+ATUSH
+$~>H
+[]A\
+<$~DH
+ATUSH
+$~>H
+[]A\
+ATUS
+[]A\
+[]A\
+[]A\
+ATUSH
+[]A\
+<$~kH
+Jh?1
+t;USH
+ATUSH
+[]A\
+ATUSH
+[]A\
+ATUSH
+[]A\
+ATUSH
+[]A\
+AWAVAUATUSH
+|$(H
+|$0H
+L$ H
+T$(L
+|$pL
+L$xL
+t$0H
+[]A\A]A^A_
+ATUSH
+[]A\
+t#SH
+ATUSH
+L$tL
+s E1
+[]A\
+~PUS1
+~NUS1
+:nu>
+ATUSH
+[]A\
+AVAUI
+ATUA
+t/A9
+D9"s
+]A\A]A^
+tRv 
+AUAT1
+h A9
+[]A\A]
+u1D;h u+H
+[]A\A]
+AVAUA
+ATUS
+]A\A]A^
+D;-y
+[]A\A]A^
+AUATA
+USE1
+Hc58
+t$8L
+P A;T$ 
+ATUSH
+H9L$
+H9L$
+ []A\
+t;SH
+[]A\
+AUATUSH
+[]A\A]
+[]A\A]
+[]A\A]A^
+dH34%(
+ATUH
+ []A\
+AUATI
+<2u\1
+[]A\A]
+AUATA
+|$$H
+[]A\A]
+<3tR<4t61
+[]A\A]
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+AUAT1
+[]A\A]
+[]A\A]
+ATUH
+AUATH
+[]A\A]
+ATUS
+[]A\
+[]A\
+AWAVI
+AUAT
+D$(1
+?vyH
+t$ H
+D$(dH3
+8[]A\A]A^A_
+D$H1
+\$HdH3
+P[]A\
+AUATA
+<mark na
+me="__spH
+([]A\A]
+t3r!
+t3r!
+AWAVI
+AUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVA
+AUATL
+[]A\A]A^A_
+%s/%s
+speechd.c
+tstr
+strlen(tstr) > 1
+[%s : %d] speechd: 
+(level >= -1) && (level <= 5)
+Empty module, internal error
+Can't open %s
+Terminating...
+Closing open connections...
+Closing speak() thread...
+Closing server connection...
+close() failed: %s
+Removing pid file
+Adding client on fd %d
+Removing client on fd %d
+Connection closed
+Closing connection on fd %d
+Can't set lock on pid file.
+%s/speech-dispatcher.log
+file_name != ((void *)0)
+stdout
+stderr
+fd_settings != ((void *)0)
+fd_uid != ((void *)0)
+%s/log/
+%s/log/debug
+listen failed: ERRNO:%s
+bind() failed: %s
+%s/speech-dispatcher
+Trying to find %s
+%s/pid/speech-dispatcher.pid
+/etc/speech-dispatcher
+%s/speechd.conf
+Error openning %s
+^[ ]*DisableAutoSpawn
+Mutex initialization failed
+default
+%s/speechd.sock
+inet_socket
+unix_socket
+Activity on fd %d ...
+Error: Empty module, internal error
+Config file include path is: %s
+Error [%s:%d]:Error reading config file
+Configuration has been read from "%s"
+/usr/lib/speech-dispatcher-modules
+Fatal error [%s:%d]:Speak thread failed to cancel!
+Fatal error [%s:%d]:Speak thread failed to join!
+Closing open output modules...
+Speech Dispatcher terminated correctly
+Error: Can't handle connection request of a new client
+Error: Failed to create a record in fd_settings for the new client
+Data structures for client on fd %d created
+Tagging client as inactive in settings
+Removing client from the fd->uid table.
+Closing clients file descriptor %d
+Error: Empty connection, internal error
+Can't check lock status of an existing pid file.
+Speech Dispatcher already running.
+Can't create pid file in %s, wrong permissions?
+Error: can't open logging file %s! Using stdout.
+Speech Dispatcher Logging to file %s
+Speaking pipe creation failed (%s)
+Fatal error [%s:%d]:Can't create pipe
+Fatal error [%s:%d]:Couldn't alocate memmory for MessageQueue.
+language_default_modules != ((void *)0)
+Error [%s:%d]:Loadable modules not supported by current platform.
+Error [%s:%d]:Mutex initialization failed
+Reading Speech Dispatcher configuration from %s
+Error [%s:%d]:No speech output modules were loaded - aborting...
+Speech Dispatcher started with %d output module%s
+Fatal error [%s:%d]:Can't create local socket
+Fatal error [%s:%d]:Can't bind local socket
+Fatal error [%s:%d]:listen() failed for local socket
+Fatal error [%s:%d]:Can't create inet socket
+Error: Setting socket option failed!
+Openning inet socket connection
+Fatal error [%s:%d]:Couldn't open inet socket, try a few minutes later.
+Fatal error [%s:%d]:listen() failed for inet socket, another Speech Dispatcher running?
+Speech Dispatcher 0.8.3 starting
+Using directory: %s for pidfile and logging
+Fatal error [%s:%d]:Can't open conf file
+Autospawn requested but disabled in configuration
+Starting Speech Dispatcher due to auto-spawn
+Fatal error [%s:%d]:Socket name file not set and user has no runtime directory
+Autospawn failed: Mismatch in communication methods. Client requests %s, most probably due to its configuration or the value of the SPEECHD_ADDRESS environment variable, but the server is configured to provide the %s method.
+Autospawn failed: Mismatch in port numbers. Server is configured to use the inet_socket method on the port %d while the client requests port %d, most probably due to its configuration or the value of the SPEECHD_ADDRESS environment variable.
+Autospawn failed: Mismatch in socket names. The server is configured to provide a socket interface in %s, but the client requests a different path: %s. This is most probably due to the client application configuration or the value of the SPEECHD_ADDRESS environment variable.
+Speech Dispatcher will use inet port %d
+Speech Dispatcher will use local unix socket: %s
+Fatal error [%s:%d]:Local socket file exists but impossible to delete. Wrong permissions?
+Fatal error [%s:%d]:Unknown communication method
+Fatal error [%s:%d]:Can't fork child process
+Creating new thread for speak()
+Fatal error [%s:%d]:Speak thread failed!
+Speech Dispatcher started and waiting for clients ...
+Error: Failed to add new client!
+Error: Failed to close the client!
+Error: Failed to serve client on fd %d!
+CRITICAL ERROR: Not locked but accessing structure data!
+WARNING! WARNING! MUTEX CHECK FAILED!
+main
+logging_init
+speechd_init
+MSG2
+server.c
+Message inserted into queue.
+speechd_socket
+Switching to data mode...
+speechd_socket->o_buf
+%d:DATA:|%s| (%d)
+protocol
+%d:REPLY:|%s|
+write() error: %s
+Fatal error [%s:%d]:Couldn't find settings for active client, internal error.
+In queue_message desired output module is %s
+Queueing message |%s| with priority %d
+Fatal error [%s:%d]:Nonexistent priority given
+Fatal error [%s:%d]:Internal error, reply from parse() is NULL!
+server_data_off
+server_data_on
+240 OK CLIENTS LIST SENT
+history.c
+client != ((void *)0)
+240-
+300 ERR INTERNAL
+245-%d
+245 OK CLIENT ID SENT
+380 ERR NOT YET IMPLEMENTED
+403 ERR NO MESSAGE
+242-%d
+242 OK LAST MSG SAID
+220 OK CURSOR SET FIRST
+404 ERR POSITION TOO LOW
+406 ERR ID DOESNT EXIST
+225 OK MESSAGE QUEUED
+gl != ((void *)0)
+402 ERR NO SUCH CLIENT
+241 OK MSGS LIST SENT
+241-
+%d %s
+221 OK CURSOR SET LAST
+405 ERR POSITION TOO HIGH
+cursor pos:%d
+223 OK CURSOR MOVED FORWARD
+Getting settings for client %d of %d
+Fatal error [%s:%d]:Couldn't find settings for active client
+224 OK CURSOR MOVED BACKWARD
+putting history message into queue
+Discarding older history message, limit reached
+message_list: from %d num %d, client %d
+222 OK CURSOR SET TO POSITION
+243-%d
+243 OK CURSOR POSITION RETURNED
+get_messages_by_client
+history_get_client_list
+couldn't open directory %s because of error %s
+Ignoring %s in %s; not a regular file.
+Module discovery ignoring %s: malformed filename.
+Module name=%s being inserted into detected_modules list
+Output module debug logging for %s into %s
+Can't open pipe! Module not loaded.
+ERROR: Openning debug file for %s failed: (error=%d) %s
+Initializing output module %s with binary %s and configuration %s
+Output module is logging to file %s
+Output module is logging to standard error output (stderr)
+Can't fork, error! Module not loaded.
+Exec of module "%s" with config "%s" failed with error %d: %s
+ERROR: Can't load output module %s with binary %s. Bad filename in configuration?
+Fatal error [%s:%d]:Can't create a stream for socket, fdopen() failed.
+Fatal error [%s:%d]:Can't set line buffering, setvbuf failed.
+ERROR: Something wrong with %s, can't initialize
+ERROR: Bad syntax from output module %s 1
+Reply from output module: %d %s
+ERROR: Bad syntax from output module %s 2
+ERROR: Module %s failed to initialize. Reason: %s
+Module %s started successfully with message: %s
+Switching debugging on for output module %s
+ERROR: Can't initialize audio in output module, see reason above.
+ERROR: Can't set the log level inin the output module.
+old_module->name != ((void *)0)
+Can't load module %s while reloading modules.
+Output module debug logging off for
+Load request for module %s with command %s and configuration file %s was previously received; ignoring the second one.
+Module name=%s being inserted into requested_modules list
+stat failed on file %s in %s
+%s.conf
+%s/%s.log
+module.c
+Unloading module name=%s
+module->name != ((void *)0)
+<none>
+%s/modules
+testing
+Module %s loaded.
+Trying to initialize %s.
+INIT
+---------------
+rep_line != ((void *)0)
+old_module != ((void *)0)
+Reloading output module %s
+output_module_nodebug
+output_module_debug
+reload_output_module
+unload_output_module
+load_output_module
+configuration.c
+kind != ((void *)0)
+file != ((void *)0)
+cmd->data.str != ((void *)0)
+CommunicationMethod
+SocketPath
+Port
+LocalhostAccessOnly
+LogDir
+CustomLogFile
+LogLevel
+LanguageDefaultModule
+DefaultRate
+DefaultPitch
+DefaultVolume
+DefaultLanguage
+DefaultPriority
+MaxHistoryMessages
+DefaultPunctuationMode
+DefaultClientName
+DefaultVoiceType
+DefaultSpelling
+DefaultCapLetRecognition
+DefaultPauseContext
+AddModule
+AudioOutputMethod
+AudioOSSDevice
+AudioALSADevice
+AudioNASServer
+AudioPulseServer
+AudioPulseMinLength
+BeginClient
+EndClient
+unknown:unknown:unknown
+pulse
+/dev/dsp
+tcp/localhost:5450
+Fatal error [%s:%d]:No log kind specified in CustomLogFile
+Fatal error [%s:%d]:No log file specified in CustomLogFile
+Error: can't open custom log file, using stdout
+Speech Dispatcher custom logging to file %s
+Fatal error [%s:%d]:Configuration: Already in client specific section, can't open a new one!
+Fatal error [%s:%d]:Configuration: You must specify some client's name for BeginClient
+Reading configuration for pattern %s
+Fatal error [%s:%d]:Rate out of range.
+Fatal error [%s:%d]:Pitch out of range.
+A Santa lives evil at NASA
+Fatal error [%s:%d]:Volume out of range.
+Fatal error [%s:%d]:This command isn't allowed in a client specific section!
+Fatal error [%s:%d]:Invalid port number!
+Fatal error [%s:%d]:Invalid access controll mode!
+Fatal error [%s:%d]:Invalid log (verbosity) level!
+Fatal error [%s:%d]:Invalid parameter!
+Fatal error [%s:%d]:Invalid parameter in configuration
+Fatal error [%s:%d]:Invalid parameter in configuration.
+Fatal error [%s:%d]:No language specified for LanguageDefaultModule
+WARNING: The LogFile option is deprecated. Directory accepted but filename ignored
+No output module name specified in configuration under AddModule
+Fatal error [%s:%d]:Configuration: Already outside the client specific section!
+Unknown option in configuration!
+cb_CustomLogFile
+cb_LogDir
+cb_LogFile
+cb_AudioPulseServer
+cb_AudioNASServer
+cb_AudioALSADevice
+cb_AudioOSSDevice
+cb_AudioOutputMethod
+cb_DefaultClientName
+cb_DefaultLanguage
+cb_DefaultModule
+248-  SPEAK           -- say text 
+248-  KEY             -- say a combination of keys 
+248-  CHAR            -- say a character 
+248-  SOUND_ICON      -- execute a sound icon 
+248-  SET             -- set a parameter 
+248-  GET             -- get a current parameter 
+248-  LIST            -- list available arguments 
+248-  HISTORY         -- commands related to history 
+248-  QUIT            -- close the connection 
+248 OK HELP SENT
+511 ERR PARAMETER NOT A NUMBER
+332 ERR NOT ALLOWED INSIDE BLOCK
+301 ERR COULDNT SET PRIORITY
+302 ERR COULDNT SET LANGUAGE
+311 ERR COULDNT SET CLIENT_NAME
+The SET VOICE command is deprecated since Speech Dispatcher 0.8.3.
+305 ERR COULDNT SET PUNCT MODE
+312 ERR COULDNT SET OUTPUT MODULE
+306 ERR COULDNT SET CAP LET RECOGNITION
+206 OK CAP LET RECOGNITION SET
+313 ERR COULDNT SET PAUSE CONTEXT
+308 ERR COULDNT SET SPELLING
+315 ERR COULDNT SET SSML MODE
+317 ERR COULDNT SET DEBUGGING
+262-%s
+262 OK DEBUGGING SET
+316 ERR COULDNT SET NOTIFICATION
+513 ERR PARAMETER NOT ON OR OFF
+ERROR: Invalid character encoding on event input (failed UTF-8 validation)
+Rejecting this event (char/key/sound_icon).
+Error: Couldn't queue message!
+249-MALE1
+249-MALE2
+249-MALE3
+249-FEMALE1
+249-FEMALE2
+249-FEMALE3
+249-CHILD_MALE
+249-CHILD_FEMALE
+249 OK VOICE LIST SENT
+321 ERR NO OUTPUT MODULE LOADED
+321 ERR MODULE CANT REPORT VOICES
+251-MALE1
+251 OK GET RETURNED
+251-MALE2
+251 OK GET RETURNED
+251-MALE3
+251 OK GET RETURNED
+251-FEMALE1
+251 OK GET RETURNED
+251-FEMALE2
+251 OK GET RETURNED
+251-FEMALE3
+251 OK GET RETURNED
+251-CHILD_MALE
+251 OK GET RETURNED
+251-CHILD_FEMALE
+251 OK GET RETURNED
+251-NO_VOICE
+251 OK GET RETURNED
+speechd_socket->inside_block >= 0
+330 ERR ALREADY INSIDE BLOCK
+331 ERR ALREADY OUTSIDE BLOCK
+ERROR: Can't write OK_BYE message to client socket: %s
+Switching back to command mode...
+ERROR: Invalid character encoding on input (failed UTF-8 validation)
+speechd_socket->o_buf != ((void *)0)
+225-%d
+225 OK MESSAGE QUEUED
+parse.c
+bytes != 0
+param != ((void *)0)
+Missing parameter from client
+510 ERR MISSING PARAMETER
+client_list
+self
+last
+cursor
+client_id
+client_messages
+forward
+first
+backward
+sort
+514 ERR PARAMETER INVALID
+priority
+important
+Eleele
+202 OK PRIORITY SET
+201 OK LANGUAGE SET
+309 ERR COULDNT SET VOICE
+209 OK VOICE SET
+208 OK CLIENT NAME SET
+410 ERR RATE TOO LOW
+409 ERR RATE TOO HIGH
+303 ERR COULDNT SET RATE
+203 OK RATE SET
+412 ERR PITCH TOO LOW
+411 ERR PITCH TOO HIGH
+304 ERR COULDNT SET PITCH
+204 OK PITCH SET
+414 ERR PITCH TOO LOW
+413 ERR PITCH TOO HIGH
+314 ERR COULDNT SET VOLUME
+218 OK VOLUME SET
+voice_type
+punctuation
+205 OK PUNCTUATION SET
+216 OK OUTPUT MODULE SET
+none
+217 OK PAUSE CONTEXT SET
+207 OK SPELLING SET
+ssml_mode
+219 OK SSML MODE SET
+notification
+220 OK NOTIFICATION SET
+language
+progress
+408 ERR UNKNOWN PRIORITY
+synthesis_voice
+client_name
+rate
+pitch
+volume
+output_module
+some
+cap_let_recogn
+pause_context
+spell
+spelling
+Stop received from fd %d.
+210 OK STOPPED
+Cancel received from fd %d.
+213 OK CANCELED
+Pause received from fd %d.
+211 OK PAUSED
+Resume received from fd %d.
+212 OK RESUMED
+501 ERR INVALID ENCODING
+250 OK VOICE LIST SENT
+250-%s
+249 OK VOICE LIST SENT
+249-%s %s %s
+output_modules
+synthesis_voices
+251-%s
+251 OK GET RETURNED
+251-%d
+251 OK GET RETURNED
+260 OK INSIDE BLOCK
+261 OK OUTSIDE BLOCK
+Command caught: "%s"
+history
+stop
+cancel
+pause
+resume
+sound_icon
+char
+help
+block
+quit
+Bye received.
+231 HAPPY HACKING
+999 CLIENT GONE
+speak
+230 OK RECEIVING DATA
+500 ERR INVALID COMMAND
+Buffer: |%s| bytes:
+Finishing data
+227 OK MESSAGE CANCELED
+Rejecting this message.
+New buf is now: |%s|
+Command in data caught
+999 DATA
+get_param
+parse_block
+parse
+Updating client specific settings %s against %s
+parameter msg_settings.rate set to %d
+parameter msg_settings.pitch set to %d
+parameter msg_settings.volume set to %d
+parameter msg_settings.punctuation_mode set to %d
+parameter msg_settings.spelling_mode set to %d
+parameter msg_settings.voice_type set to %d
+parameter msg_settings.cap_let_recogn set to %d
+parameter pause_context set to %d
+parameter msg_settings.voice.language set to %s
+parameter output_module set to %s
+(spelling == 0) || (spelling == 1)
+Error: can't open additional debug logging file %s!
+Warning: FDSet element to be removed not found
+In set_output_module the desired output module is x%s
+parameter ssml_mode set to %d
+female1
+female2
+female3
+child_male
+child_female
+set.c
+index_marks
+uid > 0
+client_name != ((void *)0)
+Setting output module to %s
+remove_client_settings_by_uid
+set_client_name_self
+set_spelling_uid
+compare.c
+message != ((void *)0)
+message->settings.fd != 0
+compare_message_uid
+compare_message_fd
+Warning: msg == NULL in reload_message()
+Recovering index mark (number)
+Recovering index mark (comparing tptr)
+ERROR: Invalid index_mark '%s'. Message not reloaded.
+Recovered index mark number: %d
+Requested index mark (with context) is %d (%d+%d)
+Index mark unknown, inserting the whole message.
+ERROR: Can't get settings of active client in speaking_pause()!
+Including current message into the message paused list
+700-%d
+700-%d
+700-%s
+700 INDEX MARK
+ERROR: Can't report index mark!
+703-%d
+703-%d
+703 CANCELED
+Error: Current message is NULL in is_sb_speaking()
+Setting current index_mark for the message to %s
+Speaking module is NULL, SPEAKING==%d
+Can't set signal set, expect problems when terminating!
+Can't fill signal set, expect problems when terminating!
+priority >= SPD_IMPORTANT && priority <= SPD_PROGRESS
+Poll in speak() returned socket activity, main_pfd revents=%d, poll_pfd revents=%d
+wait_for_poll: activity in Speech Dispatcher
+Fatal error [%s:%d]:read from polled fd: could not read 1 byte
+Fatal error [%s:%d]:wait_for_poll: output_module disconnected
+wait_for_poll: activity on output_module
+Continuing because already speaking in speak()
+Message insterted back to the queues!
+Locking element_free_mutex in speak()
+ERROR: Can't say message. Module reported error in speaking: %d
+Removing client settings for uid %d
+Inserting message to paused list...
+Recovering index mark %s
+index_marking
+Pause
+given uid %d not speaking_uid
+current_message is null
+output_pause returned %d
+speaking.c
+msg != ((void *)0)
+701-%d
+701-%d
+701 BEGIN
+702-%d
+702-%d
+702 END
+704-%d
+704-%d
+704 PAUSED
+705-%d
+705-%d
+705 RESUMED
+is_sb_speaking(), SPEAKING=%d
+__spd_begin
+__spd_end
+__spd_paused
+__spd_stopped
+__spd_
+gl->data != ((void *)0)
+Trying to pause...
+Paused...
+Resume requested
+Reloading message
+End of resume processing
+No message in the queue
+Message sent to output module
+Error: Output module failed
+speaking_set_queue
+speaking_get_queue
+empty_queue_by_time
+queue_remove_message
+socket_send_msg
+speaking_stop_all
+speaking_stop
+speak
+options.c
+argv
+argv[0]
+Usage: 
+(GNU GPL)
+Speech Dispatcher
+-d, --run-daemon	
+Run as a daemon
+-s, --run-single	
+Run as single application
+-a, --spawn		
+-l, --log-level		
+-L, --log-dir		
+Set path to logging
+-c, --communication-method	
+-S, --socket-path	
+-p, --port		
+-P, --pid-file		
+Set path to pid file
+-C, --config-dir	
+Set path to configuration
+-v, --version		
+-D, --debug		
+/tmp/.speech-dispatcher
+alula
+-h, --help		
+Print this info
+speechd@lists.freebsoft.org
+0.8.3
+%s %s
+argc > 0
+dsal:L:c:S:p:P:C:vDh
+TMPDIR
+/tmp
+%s/speechd-debug
+Unrecognized option
+run-daemon
+run-single
+spawn
+log-level
+log-dir
+communication-method
+Do nine men interpret Nine men I nod
+socket-path
+port
+pid-file
+config-dir
+version
+%s [-{d|s}] [-l {1|2|3|4|5}] [-c com_method] [-S socket_path] [-p port] | [-v] | [-h]
+%s -- Common interface for Speech Synthesis %s
+Start only if autospawn is not disabled
+Set log level (between %d and %d)
+Communication method to use ('%s' or '%s')
+Socket path to use for '%s' method (filesystem path or '%s')
+Specify a port number for '%s' method
+Report version of this program
+Output debugging information into %s
+Copyright (C) %d-%d Brailcom, o.p.s.
+This is free software; you can redistribute it and/or modify it
+under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2, or (at your option)
+any later version. Please see COPYING for more details.
+Please report bugs to %s
+Copyright (C) %d-%d Brailcom, o.p.s.
+%s comes with ABSOLUTELY NO WARRANTY.
+You may redistribute copies of this program
+under the terms of the GNU General Public License.
+For more information about these matters, see the file named COPYING.
+Can't create additional debug destination in %s, reason %d-%s
+Debugging directory %s already exists, please delete it first
+Error: can't open additional debug logging file %s [%d-%s]!
+options_parse
+options_print_help
+Desired output module is %s
+dummy
+2Read: %d bytes: <%s>
+Output module not running.
+Error: Broken pipe to module.
+output_module_is_speaking()
+Detected INDEX MARK: %s
+Received event:
+response:|%s|
+ p:|%s|
+LIST VOICES
+LINE here:|%s|
+Module set parameters.
+pitch=%d
+rate=%d
+volume=%d
+punctuation_mode=%s
+spelling_mode=%s
+cap_let_recogn=%s
+language=%s
+language=NULL
+synthesis_voice=%s
+synthesis_voice=NULL
+audio_output_method=%s
+audio_output_method=NULL
+audio_oss_device=%s
+audio_oss_device=NULL
+audio_alsa_device=%s
+audio_alsa_device=NULL
+audio_nas_server=%s
+audio_nas_server=NULL
+audio_pulse_server=%s
+audio_pulse_server=NULL
+audio_pulse_min_length=%d
+AUDIO
+log_level=%d
+LOGLEVEL
+DEBUG ON %s 
+DEBUG OFF 
+Module stop!
+STOP
+Module pause!
+PAUSE
+output.c
+output->name != ((void *)0)
+Closing module "%s"...
+QUIT
+Waiting for module pid %d
+Killing the module
+Module terminated
+Incoming text: |%s|
+escaping
+Altering text (I): |%s|
+Altering text (II): |%s|
+Altering text (II-b): |%s|
+Altered text: |%s|
+Output module doesn't work...
+Module speak!
+SPEAK
+SOUND_ICON
+CHAR
+Couldn't load default output module, trying other modules
+Output module %s seems to be working, using it
+Error: No output module working, not even dummy, no sound produced!
+Warning: Didn't find preferred output module, using default
+God A red nugget A fat egg under a dog
+Output module working status: %d (pid:%d)
+Output module terminated abnormally, probably crashed.
+Got %d bytes from output module over socket
+output==NULL in output_module_is_speaking()
+Reply from output module: |%s|
+Error: Wrong communication from output module! Reply less than four bytes.
+Error: Module reported error in request from speechd (code 3xx).
+Error: Module reported error in itself (code 4xx).
+Error: Wrong communication from output module!Reply on SPEAKING not multi-line.
+ERROR: Unknown event received from output module
+Unknown response from output module!
+Command sent to output module: |%s| (%d)
+Error: Module reported error in request from speechd (code 3xx): %s.
+Error: Module reported error in itself (code 4xx): %s
+ERROR: Can't list voices for module %s
+ERROR: Bad communication from driver in synth_voices
+Module sending debug flag %d with file %s
+ERROR: Can't set debugging on for output module %s
+ERROR: Can't switch debugging off for output module %s
+Ok, module closed successfully.
+ERROR: Timed out when waiting for child cancellation
+Waiting until the child terminates.
+ERROR: Module is not able to terminate, giving up.
+ERROR: waitpid() failed when waiting for child (module).
+Invalid message type in output_speak()!
+output_close
+sem_functions.c
+Fatal error [%s:%d]:write to polled fd: could not write 1 byte
+index_marking.c
+msg->buf != ((void *)0)
+<speak>
+</speak>
+&lt;
+&gt;
+&amp;
+MSG altering 1: |%s|
+%s<mark name="__spd_%d"/>
+MSG altering 2: |%s|
+MSG altering 3: |%s|
+MSG after index marking: |%s|
+Trying to find index mark %d
+MSG before index marking: |%s|, ssml_mode=%d
+Search for index mark sucessfull
+Message before stripping index marks: |%s|
+Message after stripping index marks: |%s|
+insert_index_marks
+setlocale
+/usr/share/locale
+bindtextdomain
+;*3$"
+cb80ac36aa8161dbe1b03535152ee9539d8996.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+Tacocat
+.bss
+.gnu_debuglink

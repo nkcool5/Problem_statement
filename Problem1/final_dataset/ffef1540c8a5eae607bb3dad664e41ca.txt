@@ -1,0 +1,1059 @@
+/lib64/ld-linux-x86-64.so.2
+3o]"
+libasound.so.2
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+snd_ctl_card_info_get_id
+snd_hctl_ctl
+snd_ctl_event_get_type
+snd_ctl_elem_info_get_item_name
+snd_ctl_elem_list_get_id
+snd_ctl_elem_info_get_index
+snd_ctl_card_info_malloc
+snd_ctl_elem_info_set_name
+snd_config_iterator_first
+snd_ctl_card_info_get_mixername
+snd_config_make_compound
+snd_ctl_elem_add_iec958
+snd_ctl_elem_info_get_type
+snd_config_get_integer
+snd_ctl_card_info_free
+snd_hctl_close
+snd_ctl_elem_info_is_readable
+snd_ctl_elem_id_copy
+snd_ctl_card_info_get_driver
+snd_ctl_elem_add_integer
+snd_config_iterator_entry
+snd_ctl_elem_value_get_enumerated
+snd_ctl_elem_value_get_boolean
+snd_hctl_elem_next
+snd_ctl_card_info_get_card
+snd_ctl_event_elem_get_numid
+snd_ctl_elem_tlv_write
+snd_ctl_elem_id_get_numid
+snd_ctl_elem_list
+snd_hctl_first_elem
+snd_ctl_event_elem_get_interface
+snd_ctl_elem_info_is_tlv_commandable
+snd_ctl_elem_info_is_writable
+snd_ctl_elem_list_get_count
+snd_ctl_elem_info_get_step64
+snd_ctl_elem_value_sizeof
+snd_ctl_event_elem_get_subdevice
+snd_ctl_event_elem_get_index
+snd_ctl_elem_id_get_index
+snd_tlv_convert_to_dB
+snd_ctl_elem_info_get_interface
+snd_ctl_elem_write
+snd_ctl_elem_info_is_owner
+snd_ctl_elem_list_alloc_space
+snd_config_top
+snd_ctl_elem_info_get_subdevice
+snd_hctl_open
+snd_ctl_elem_iface_name
+snd_ctl_card_info
+snd_config_set_integer
+snd_ctl_elem_tlv_read
+snd_config_search
+snd_ctl_elem_value_get_integer
+snd_ctl_elem_id_get_device
+snd_ctl_elem_add_enumerated
+snd_ctl_card_info_get_name
+snd_ctl_elem_info_get_items
+snd_ctl_elem_value_get_integer64
+snd_ctl_elem_id_set_name
+snd_ctl_close
+snd_tlv_get_dB_range
+snd_ctl_elem_info_set_interface
+snd_ctl_elem_info_is_volatile
+snd_ctl_elem_value_set_boolean
+snd_card_get_name
+snd_config_save
+snd_ctl_elem_info_get_max64
+snd_config_searchv
+snd_hctl_elem_get_id
+snd_ctl_elem_id_free
+snd_ctl_subscribe_events
+snd_ctl_elem_info_set_subdevice
+snd_ctl_elem_id_set_numid
+snd_ctl_elem_info
+snd_config_get_integer64
+snd_ctl_elem_id_get_subdevice
+snd_ctl_elem_info_get_name
+snd_tlv_parse_dB_info
+snd_config_get_string
+snd_ctl_elem_value_malloc
+snd_ctl_elem_info_get_count
+snd_ctl_elem_value_set_enumerated
+snd_ctl_elem_read
+snd_config_delete
+snd_ctl_elem_value_set_id
+snd_ctl_elem_value_get_bytes
+snd_ctl_elem_info_is_tlv_readable
+snd_ctl_event_elem_get_id
+snd_ctl_elem_id_set_device
+snd_hctl_find_elem
+snd_ctl_elem_info_set_numid
+snd_ctl_elem_id_set_index
+snd_ctl_elem_info_set_item
+snd_ctl_convert_from_dB
+Tacocat
+snd_ctl_elem_info_sizeof
+snd_ctl_event_elem_get_name
+snd_hctl_load
+snd_config_imake_string
+snd_config_imake_integer64
+snd_config_load
+snd_ctl_elem_list_free_space
+snd_ctl_elem_info_get_step
+snd_ctl_elem_info_is_locked
+snd_config_iterator_next
+snd_ctl_elem_value_set_numid
+snd_ctl_elem_value_set_integer64
+snd_ctl_card_info_get_components
+snd_input_close
+snd_ctl_elem_info_set_index
+snd_ctl_elem_type_name
+snd_ctl_elem_id_set_interface
+snd_ctl_elem_info_set_device
+snd_output_stdio_open
+snd_ctl_elem_info_get_max
+snd_ctl_elem_id_set_subdevice
+snd_config_imake_integer
+snd_ctl_elem_value_free
+snd_ctl_elem_info_is_tlv_writable
+snd_card_get_index
+snd_ctl_elem_id_sizeof
+snd_ctl_elem_info_is_user
+snd_strerror
+snd_ctl_event_sizeof
+snd_ctl_elem_info_is_inactive
+snd_config_get_id
+snd_ctl_read
+snd_ctl_elem_value_set_integer
+snd_ctl_elem_id_clear
+snd_ctl_elem_info_free
+snd_input_stdio_attach
+snd_ctl_poll_descriptors_revents
+snd_ctl_elem_info_get_min64
+snd_ctl_elem_info_get_id
+snd_ctl_card_info_sizeof
+snd_ctl_get_dB_range
+snd_ctl_elem_list_sizeof
+snd_ctl_elem_id_get_interface
+snd_ctl_event_elem_get_device
+snd_hctl_elem_info
+snd_config_iterator_end
+snd_ctl_elem_info_malloc
+snd_ctl_poll_descriptors_count
+snd_input_stdio_open
+snd_ctl_elem_info_get_owner
+snd_ctl_elem_info_set_id
+snd_hctl_elem_read
+snd_ctl_elem_info_get_device
+snd_ctl_elem_value_set_byte
+snd_output_close
+snd_ctl_elem_add_boolean
+snd_card_next
+snd_ctl_poll_descriptors
+snd_config_update_free_global
+snd_config_add
+snd_ctl_elem_info_get_min
+snd_ctl_card_info_get_longname
+snd_config_get_type
+snd_ctl_open
+snd_ctl_event_elem_get_mask
+snd_ctl_elem_id_get_name
+snd_output_stdio_attach
+snd_ctl_elem_info_get_numid
+snd_ctl_elem_id_malloc
+snd_ctl_elem_list_set_offset
+libm.so.6
+ceil
+libpthread.so.0
+__errno_location
+fcntl
+lseek
+waitpid
+libc.so.6
+__printf_chk
+fnmatch
+execv
+_IO_putc
+strncmp
+optind
+strrchr
+pipe
+__strdup
+__isoc99_sscanf
+__fdelt_chk
+signal
+puts
+fork
+sched_getparam
+time
+__stack_chk_fail
+daemon
+__lxstat
+unlink
+putchar
+select
+realloc
+stdin
+strtoll
+_exit
+getpid
+kill
+__assert_fail
+strtol
+mmap
+calloc
+strlen
+openlog
+memset
+strstr
+__syslog_chk
+dup2
+poll
+__fprintf_chk
+putenv
+stdout
+memcpy
+__vsnprintf_chk
+strtoul
+strcasecmp
+remove
+sched_setscheduler
+__ctype_b_loc
+getenv
+nice
+optarg
+stderr
+munmap
+__snprintf_chk
+readlink
+getopt_long
+strncasecmp
+__fxstat
+usleep
+fwrite
+rename
+scandir
+strchr
+__vfprintf_chk
+alphasort
+__sprintf_chk
+__xstat
+access
+__strcat_chk
+strcmp
+__libc_start_main
+setenv
+closelog
+GLIBC_2.2.5
+ALSA_0.9
+GLIBC_2.15
+GLIBC_2.14
+GLIBC_2.4
+GLIBC_2.3
+GLIBC_2.7
+GLIBC_2.3.4
+%z&!
+%r&!
+%j&!
+%b&!
+%Z&!
+%R&!
+%J&!
+%B&!
+%:&!
+%2&!
+%*&!
+%"&!
+%z%!
+%r%!
+%j%!
+%b%!
+%Z%!
+%R%!
+%J%!
+%B%!
+%:%!
+%2%!
+%*%!
+%"%!
+%z$!
+%r$!
+%j$!
+%b$!
+%Z$!
+%R$!
+%J$!
+%B$!
+%:$!
+%2$!
+%*$!
+%"$!
+%z#!
+%r#!
+%j#!
+%b#!
+%Z#!
+%R#!
+%J#!
+%B#!
+%:#!
+%2#!
+%*#!
+%"#!
+%z"!
+%r"!
+%j"!
+%b"!
+%Z"!
+%R"!
+%J"!
+%B"!
+%:"!
+%2"!
+%*"!
+%""!
+%z!!
+%r!!
+%j!!
+%b!!
+%Z!!
+%R!!
+%J!!
+%B!!
+%:!!
+%2!!
+%*!!
+%"!!
+%z !
+%r !
+%j !
+%b !
+%Z !
+%R !
+%J !
+%B !
+%: !
+%2 !
+%* !
+%" !
+AWAV
+AUATI
+D$H1
+D$$`y
+=}!!
+=n!!
+\$HdH3
+X[]A\A]A^A_
+%6 !
+|$0I
+AVAUA
+ATUA
+D$81
+D$8dH3
+@[]A\A]A^
+XZuN
+<car
+<cmdf
+AUATA
+[]A\A]
+AVAUI
+ATUA
+[]A\A]A^
+AUATA
+[]A\A]
+AWAVM
+AUATI
+t$ dH
+D$81
+|$ H
+T$(H
+Borrow or rob
+L$0E1
+t$0H9
+\$0H
+\$8dH3
+H[]A\A]A^A_
+|$0L
+D$0L9
+AWAVAUATI
+[A\A]A^A_]
+AVAUI
+ATUI
+ []A\A]A^
+AUATUSH
+[]A\A]
+AWAVAUATE1
+[A\A]A^A_]
+AVAUATUStpH
+AVAU
+[]A\A]A^
+AWAVAUATI
+[A\A]A^A_]
+AXAYH
+AZA[H
+AWAVAUATI
+[A\A]A^A_]
+AVAUA
+ATUM
+d$PdH
+[]A\A]A^
+D$@A
+AWAVAUATI
+[A\A]A^A_]
+AXAY
+A[A\
+AYAZD
+AZA[y
+AWAVAUATA
+[A\A]A^A_]
+Beeb
+AWAVAUATI
+D$(1
+t$ H
+|$ A
+L$(dH3
+8[]A\A]A^A_
+.newA
+AWAVI
+AUATI
+|$ dH
+D$H1
+t$(H
+|$(A
+L$HdH3
+X[]A\A]A^A_
+|$(1
+|$ H
+|$(A
+t$0L
+t$ 1
+t$ 1
+t$0L
+AWAVAUATUSH
+T$0D
+[]A\A]A^A_
+T$0D
+AVATSL
+[A\A^]
+AUATI
+t$0E1
+A Santa lives evil at NASA
+$tOH
+[]A\A]
+AUATUSH
+D$(1
+D$(dH3
+8[]A\A]
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+ATUA
+D:!u!H)
+[]A\
+dH3<%(
+AUE1
+ATU1
+]A\A]A^
+ATUI
+[]A\
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+ATUI
+|$`I
+|$XH
+|$PH
+|$HH
+|$@H
+ATUI
+ []A\
+S#w8H
+God A red nugget A fat egg under a dog
+AWAVAUATI
+D$(1
+L$(dH3
+8[]A\A]A^A_
+; u	H
+D9l$
+}@Mc
+L$ L
+T$ D
+H+T$
+D9l$
+ATUH
+[]A\
+t|AUATI
+[]A\A]
+AUAT
+([]A\A]
+tmE1
+? }a
+}@E1
+ATUI
+[]A\
+AWAVI
+AUATI
+L$ 1
+%unH
+t$ 1
+t$ 1
+t)<\u
+[]A\A]A^A_
+AWAVI
+AUATUSH
+[]A\A]A^A_
+D$01
+~-Hc
+T$09
+Hc|$@
+t$(1
+|$@A
+Hc|$@
+Hc|$@
+T$@E1
+t$(H
+L9l$
+D$(H
+D$(J
+AWAVH
+AUAT
+D$81
+T$0H
+t$(H
+|$(H
+t$0H9
+|$(H
+t$0L
+L$8dH3
+H[]A\A]A^A_
+t$0L
+|$(H
+|$(A
+ATUH
+=im 
+ []A\
+ATU1
+A9\$
+<$]A\
+t:H9
+AUATI
+D$(1
+D$(dH3
+8[]A\A]
+t&ATUH
+[]A\
+~lAUATI
+A9l$
+A9l$
+[]A\A]
+~aAUATI
+A9l$
+[]A\A]
+[]A\A]
+AWAVAUATI
+t$ H
+[A\A]A^A_]
+AWAVAUATI
+D$ H
+[A\A]A^A_]
+AWAVI
+AUATI
+D$h1
+\$hdH3
+x[]A\A]A^A_
+|$PLc
+t$0H
+|$HL
+D;|$
+t+Ic
+T$HH
+9D$0
+D$0E
+D9|$0~aH
+D$HJ
+D$.H
+D9|$0
+D$@HcT$
+H+D$8H9
+9\$0
+L$0E
+T$HH
+D$4E
+T$PH
+t$0H
+ATUI
+[]A\
+=Y] 
+=1] 
+AWAVAUATI
+[A\A]A^A_]
+AWAVAUATSH
+~`E1
+[A\A]A^A_]
+AWAVA
+AUATL
+%~J 
+-~J 
+[]A\A]A^A_
+%s%s
+  %-8s  %-6s  %s
+%s%s%s
+ #=#
+  %-15s  %s
+nice(%i): %s
+sched_setparam failed: %s
+sched_getparam failed: %s
+/var/run/alsactl.pid
+/usr/share/alsa/init/00main
+/var/lib/alsa/asound.state
+/dev/snd/controlC
+PULSE_INTERNAL
+alsactl version 1.1.0
+alsactl: Specify command...
+rdaemon
+init
+nrestore
+rescan
+kill
+monitor
+alsactl daemon stopped
+alsactl
+alsactl 1.1.0 daemon started
+/dev/snd/pcmC
+/dev/snd/midiC
+/dev/snd/hwC
+global options:
+this help
+debug
+debug mode
+version
+print version of this program
+Available state options:
+no-lock
+lock-state-file
+force
+  (default mode)
+ignore
+pedantic
+no-init-fallback
+runstate
+remove
+period
+pid-file
+Available init options:
+initfile
+run daemon in background
+syslog
+use syslog for messages
+nice
+sched-idle
+Available commands:
+  to configuration file
+  from configuration file
+monitor control events
+/var/lock/asound.state.lock
+environment string '%s' is wrong
+Invalid option '%c' (%d) not handled??
+alsactl: Unknown command '%s'...
+Usage: alsactl <options> command
+configuration file (default /var/lib/alsa/asound.state)
+use file locking to serialize concurrent access
+do not use file locking to serialize concurrent access
+state lock file path (default /var/lock/asound.state.lock)
+try to restore the matching controls as much as possible
+ignore 'No soundcards found' error
+do not restore mismatching controls (old default)
+don't initialize even if restore fails
+save restore and init state to this file (only errors)
+  default settings is 'no file set'
+remove runstate file at first, otherwise append errors
+store period in seconds for the daemon command
+pathname for the process id (daemon mode)
+set environment variable for init phase (NAME=VALUE)
+main configuation file for init phase
+  (default /usr/share/alsa/init/00main)
+set the process priority (see 'man nice')
+set the process scheduling policy to idle (SCHED_IDLE)
+save current driver setup for one or each soundcards
+load current driver setup for one or each soundcards
+like restore, but notify the daemon to rescan soundcards
+initialize driver to a default state
+store state periodically for one or each soundcards
+like daemon but do the state restore at first
+notify daemon to quit, rescan or save_and_quit
+do_nice
+snd_ctl_elem_info: %s
+%li - %li (step %li)
+%li - %li
+dbvalue
+range
+dbmin
+dbmax
+access
+Unknow control type: %d
+item
+state.c
+%i,%i,%i,%s,%i
+Cannot read control '%s': %s
+snd_config_compound_add: %s
+comment
+snd_config_make_compound: %s
+ read
+ write
+ inactive
+ volatile
+ locked
+ user
+snd_config_string_add: %s
+snd_config_integer_add: %s
+%08x
+snd_tlv_convert_to_dB: %s
+%Li - %Li (step %Li)
+%Li - %Li
+snd_ctl_card_info: %s
+iface
+subdevice
+name
+0123456789abcdef
+snd_config_integer64_add: %s
+err == 0
+snd_config add: %s
+Unknown control type: %d
+snd_config_add: %s
+hw:%d
+snd_ctl_open error: %s
+snd_ctl_card_info error: %s
+snd_config_delete: %s
+Cannot determine controls: %s
+No enough memory...
+control is not a compound
+unable to get id
+control.%d.%s is invalid
+unknown control.%d.%s field
+missing control.%d.value
+bad control.%d.value type
+bad control.%d.value index
+device='%s', doit=%i
+card-info-id: '%s'
+card%d
+maxnumid=%i
+more controls than maxnumid?
+result code: %i
+snd_config_top error: %s
+No soundcards found...
+Cannot find soundcard '%s'...
+snd_config_save: %s
+rename failed: %s (%s)
+snd_config_load error: %s
+restore_config_value2
+config_enumerated
+restore_config_value
+set_control
+set_controls
+load_state
+add_tlv_comments
+id_str
+get_control
+get_control
+get_controls
+save_state
+Cannot read control info '%s': %s
+config state node is not a compound
+config state.%s node is not a compound
+Cannot determine controls (2): %s
+bad control.%d.value.%d content
+failed to add user control #%d (%s)
+failed to obtain info for control #%d (%s)
+warning: numid mismatch (%d/%d) for control #%d
+warning: iface mismatch (%d/%d) for control #%d
+warning: device mismatch (%ld/%ld) for control #%d
+warning: subdevice mismatch (%ld/%ld) for control #%d
+warning: name mismatch (%s/%s) for control #%d
+warning: index mismatch (%ld/%ld) for control #%d
+value range mismatch for control #%d
+bad control.%d.value contents
+control.%d.value.%d is not specified
+Cannot write control '%d:%ld:%ld:%s:%ld' : %s
+incompatible field type for control #%d
+No state is present for card %s
+state.%s.control is not a compound
+Cannot open %s for writing: %s
+Cannot open %s for reading: %s
+Eleele
+%10s
+%10li
+file %s lock error: %s
+file %s unlock error: %s
+state_unlock
+state_lock
+%s: %s:%ld
+%s: %s:%ld: 
+SYSFS_PATH
+/sys
+sysfs_path='%s'
+/kernel/uevent_helper
+sysfs path '%s' is invalid
+new_root_dir '%s' '%s'
+.conf
+ #$%+-./:=?@_,
+open '%s'/'%s'
+found in cache '%s'
+new uncached attribute '%s'
+add to cache '%s'
+stat '%s' failed: %s
+attribute '%s' does not exist
+%s:%i: 
+hw:%u
+numid
+interface
+reset
+subdev
+values
+control element not found
+wrong enum identifier '%s'
+bad ctl hexa value
+unknown element type '%i'
+%i %i
+value write error: %s
+unknown CTL{} attribute '%s'
+match %s '%s' <-> '%s'
+%s is true (matching value)
+%s is false
+attr
+owner
+step
+items
+%lli
+dBmin
+Do nine men interpret Nine men I nod
+%li.%02idB
+dBmax
+enums
+do_search
+do_ctl_search found a control
+do_count
+unknown ctl{} attribute '%s'
+CARD
+DRIVER
+LONGNAME
+MIXERNAME
+COMPONENTS
+attribute='%s'
+cardinfo
+format length=%i
+format parsing error '%s'
+attribute='%s', str='%s'
+substitute cardinfo{%s} '%s'
+substitute ctl{%s} '%s'
+substitute result string '%s'
+sysfs_device
+substitute sysfs value '%s'
+alula
+substitute sysfs_path '%s'
+missing attribute
+env '%s' not available
+substitute env '%s=%s'
+unknown substitution type=%i
+operator=match
+operator=nomatch
+operator=add
+operator=assign
+Degas are we not drawn onward no In union drawn onward to new eras aged
+operator=assign_final
+key='%s'
+invalid LABEL operation
+skip (GOTO '%s')
+CTL{
+error parsing CTL attribute
+ctl assign: '%s' '%s'
+ctl write: '%s' '%s'
+ctl match: '%s' '%s' '%s'
+invalid CTL{} operation
+RESULT
+invalid RESULT operation
+PROGRAM
+__ctl_search
+__ctl_count
+unknown buildin command '%s'
+arg[%i] '%s'
+pipe failed: %s
+/lib/alsa/
+/dev/null
+open /dev/null failed: %s
+exec of program '%s' failed
+fork of '%s' failed: %s
+stdin read failed: %s
+ressize %ld too short
+stderr read failed: %s
+result='%s'
+'%s' returned with status %i
+'%s' abnormal exit
+PROGRAM '%s' is false
+PROGRAM key is true
+PROGRAM '%s' result is '%s'
+PROGRAM returned successful
+CARDINFO{
+cardinfo: '%s' '%s'
+invalid CARDINFO{} operation
+ATTR{
+error parsing ATTR attribute
+invalid ATTR{} operation
+ENV{
+error parsing ENV attribute
+env: '%s' '%s'
+env set: '%s' '%s'
+invalid ENV{} operation
+GOTO
+invalid GOTO operation
+INCLUDE
+invalid INCLUDE operation
+invalid filename '%s'
+invalid directory '%s'
+unterminated GOTO '%s'
+ACCESS
+access(%s) = %i (%s)
+invalid ACCESS operation
+PRINT
+invalid PRINT operation
+ERROR
+invalid ERROR operation
+EXIT
+invalid EXIT operation
+return
+CONFIG{
+CONFIG{%s}='%s'
+invalid CONFIG{} operation
+unknown key '%s'
+invalid rule
+value='%s'
+LABEL
+sysfs_attr: '%s' '%s'
+'%s' (stdout) '%s'
+'%s' (stderr) '%s'
+start of file '%s'
+Unable to open file '%s': %s
+file %s, line %i too long
+read (%i) '%s'
+end of file '%s'
+result
+sysfsroot
+config
+cache '%s' with link value '%s'
+cache '%s' with attribute value '%s'
+unknown control interface name '%s'
+unable to convert dB value '%s' to internal integer range
+bad ctl value hexa length (should be %u bytes)
+missing some ctl values (line %i)
+%s is true (non-matching value)
+do_ctl_count found %s controls
+unknown cardinfo{} attribute '%s'
+missing closing brace for format
+will substitute format name '%s'
+will substitute format char '%c'
+format=%i, string='%s', tail='%s'
+missing identification parametr for cardinfo
+missing identification parametr for ctl
+request part #%d of result string
+substitute part of result string '%s'
+missing file parameter for attr
+%i untrusted character(s) replaced
+truncate to %i chars, subtitution string becomes '%s'
+error parsing CARDINFO attribute
+error parsing CONFIG attribute
+do_match
+get_format_attribute
+get_format_len
+apply_format
+get_key_attribute
+sysfs_attr_get_value
+run_program0
+0123456789abcdef
+elemid_get
+set_ctl_value
+get_key
+parse_line
+parse
+new_root_dir
+sysfs_init
+init
+?hw:%i
+save_and_quit
+Unknown kill command '%s'
+poll prepare failed: %i
+poll failed: %s
+poll post failed: %i
+Specify kill command (quit, rescan or save_and_quit)
+state_daemon
+state_daemon_kill
+Cannot open ctl %s
+card %d, 
+#%d (%i,%i,%i,%s,%i)
+ REMOVE
+ VALUE
+ INFO
+ ADD
+ TLV
+alsactl: too many cards
+Cannot open subscribe events to ctl %s
+;*3$"
+6115360abdc1f97ab51a336f5d22d14b1858dc.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

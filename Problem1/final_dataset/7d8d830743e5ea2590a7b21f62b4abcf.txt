@@ -1,0 +1,9021 @@
+/lib64/ld-linux-x86-64.so.2
+|fUa
+libc.so.6
+fflush
+strcpy
+__printf_chk
+readdir
+execv
+_IO_putc
+setlocale
+fopen
+strsignal
+strncmp
+strrchr
+pipe
+__strdup
+ngettext
+fileno_unlocked
+dl_iterate_phdr
+closedir
+ftell
+strncpy
+mbstowcs
+__vsprintf_chk
+__stack_chk_fail
+unlink
+putchar
+pthread_mutex_lock
+realloc
+abort
+stdin
+_exit
+memchr
+getpid
+kill
+sbrk
+gmtime
+strtol
+isatty
+mmap
+feof
+fgetc
+fgets
+calloc
+strlen
+ungetc
+fread_unlocked
+memset
+strstr
+strcspn
+__errno_location
+fseek
+memcmp
+getpagesize
+dgettext
+asctime
+dup2
+__fprintf_chk
+pthread_mutex_unlock
+putenv
+wcswidth
+stdout
+fputc
+fputs
+strnlen
+memcpy
+fclose
+strtoul
+malloc
+strcat
+strcasecmp
+remove
+__uflow
+nl_langinfo
+opendir
+__ctype_b_loc
+getenv
+sscanf
+stderr
+ioctl
+system
+munmap
+wait4
+_obstack_newchunk
+__snprintf_chk
+setrlimit
+execvp
+freopen
+strncasecmp
+__fxstat
+__realpath_chk
+_obstack_memory_used
+fwrite
+fread
+iconv_close
+gettimeofday
+waitpid
+strverscmp
+localtime
+strchr
+obstack_free
+vfork
+__vfprintf_chk
+iconv
+mkstemps
+fdopen
+qsort
+iconv_open
+sleep
+__ctype_tolower_loc
+fcntl
+__sprintf_chk
+__fsetlocking
+__xstat
+getrlimit
+memmove
+_obstack_begin
+bindtextdomain
+access
+__strcat_chk
+fwrite_unlocked
+strcmp
+strerror
+__libc_start_main
+ferror
+stpcpy
+setenv
+snprintf
+__overflow
+fputs_unlocked
+__environ
+__cxa_atexit
+ld-linux-x86-64.so.2
+__tls_get_addr
+__pthread_key_create
+__gmon_start__
+pthread_once
+GLIBC_2.3
+GLIBC_2.14
+GLIBC_2.4
+GLIBC_2.11
+GLIBC_2.2.5
+GLIBC_2.3.4
+ t*A
+;t$E
+!tPL
+<$ @
+p	I9
+:t%E
+:tNE
+-tjE
+|$(E1
+|$(A
+L$(H
+|$0A
+t$01
+|$(1
+GL u!H
+h%KG
+T$(H
+t$PL
+L$hH
+t$XL
+t$PL
+\$hH
+t$XL
+T$pL
+|$@1
+D$@1
+|$XH
+t$PL
+|$XH
+T$hH
+t$XL
+T$ H
+|$81
+|$8H
+D$81
+|$XH
+H+T$
+L;l$
+	u I
+H+T$
+H+T$
+	u3I
+	uSH
+>u{H
+T$(H
+>utA
+T$(1
+H+\$
+L+t$
+	u[A
+@uDH
+H+|$
+H+T$
+$A;D$ t!M
+H+T$
+H+L$
+T$(L
+|$pI
+T$x1
+)t0H
+E	>A
+H9=>
+M;D$
+?*t&L
+$?L9%
+~$E1
+L9=y
+E	>A
+[	L9
+/dev/nul
+A	>A
+Lc=7
+H955
+<{ueM
+t^E;o
+AUATI
+X[]A\A]@
+T$@H
+|$0L
+t$LH
+|$01
+T$@H
+t$XL
+t$LD
+T$@H
+t$XL
+t$LD
+T$@H
+T$0t
+t$LD
+={|-
+%o|-
+-l|-
+[]A\A]A^A_1
+]A\A]A^A_
+%,{-
+="z-
+Lc5Tx-
+AWAVLc
+AUATI
+-Uw-
+-Tw-
+}"D9e
+Z[]A\A]A^A_
+=Ey-
+="y-
+-gx-
+-Xx-
+ t*A
+	t$I
+=2s-
+5	s-
+=Ou-
+5gr-
+=Kr-
+-/r-
+%~q-
+-bq-
+5Fq-
+=*q-
+%fp-
+-Jp-
+5.p-
+-jo-
+%No-
+-2o-
+=nn-
+-Rn-
+%6n-
+5bm-
+=Qm-
+=jn-
+5ik-
+5Ik-
+54k-
+:t:H
+l$0H
+D$@D
+l$LD
+ tXA
+;tRE
+D$ H
+D$(D
+L$(L
+t$ H
+l$0H
+\$8L
+D$@D
+?*uSH
+=mi-
+T$XH
+t$HL
+t$`H
+=sj-
+T$ H
+t$`H
+=Mk-
+|$0H
+D$01
+|$HH
+|$HH
+5mi-
+|$01
+%{g-
+%lg-
+5Ag-
+=<g-
+5Bg-
+=9g-
+D$x%
+5hf-
+D$xA
+t<@E1
+d$PH
+t$XL
+t$@L
+|$XH
+=9e-
+=5e-
+t$ H
+5jd-
+5@d-
+5\c-
+5-c-
+[]A\
+tXUSH
+=B^-
+=:a-
+<;H9=
+=j`-
+=T`-
+=<`-
+'\''L
+'\''H
+=k_-
+H9=4_-
+'\''H
+H9=x^-
+'\''L
+\t4A
+5|X-
+5iX-
+t2<\t.
+@u$I
+5PU-
+5*U-
+=<R-
+tCASATE1
+=yq-
+8,u2H
+AXAY
+5]T-
+>,tED
+AWAVAUATI
+<$-u
+=	P-
+=)N-
+[A\A]A^A_]
+AWAVAUATUSH
+H9l$@M
+[]A\A]A^A_
+AVAUE
+ATUI
+AXAYt*D
+t+E1
+[]A\A]A^
+D$ D
+D$$D
+L$(D
+L$4H
+|$8H
+Do nine men interpret Nine men I nod
+~BLc|$
+=+i-
+H;|$
+=WL-
+=AL-
+=2L-
+=wh-
+==c-
+=\f-
+u$SH
+USQt
+ATUSu
+-auxbase
+[]A\
+ATUSu
+ATUSu
+=zc-
+AWAVAUATUSH
+=(c-
+}6Lk
+=CD-
+[]A\A]A^A_
+ATUSH
+=%a-
+[]A\
+H;+t
+5Y?-
+ATUSH
+-?>-
+Hi|$
+L3D$
+ []A\
+ATUA
+~1Hk
+AWAVAUATI
+USQH
+Z[]A\A]A^A_
+|$pA
+t$pH
+AWAVAUATUSH
+\$ A
+|$ Auth
+|$ Genut
+L$@E
+T$@E
+\$8A
+\$hD
+D$xt@
+|$ CentA
+|$ Cyri
+|$ Geod@
+|$ Genu
+|$ Auth
+=Geod
+|$ Centuh
+T$HD
+NwbB
+|$ Cent
+\$HA
+t$`A
+\$XA
+t$pA
+AVAUATh
+UASARAQAPWV
+[]A\A]A^A_
+/tBH
+;/u$H
+AWAVAUATUSH
+H;\$
+([]A\A]A^A_
+([]A\A]A^A_
+[]A\A]A^A_1
+ATAW
+D$\E
+t$ L
+T$(D
+d$\u	L
+d$`H
+|$\L
+d$ H
+t$`E
+t$0I
+t$0H
+T$8L
+D$0H
+T$8I
+A	,$
+L$hH
+d$ H
+l$(D
+t$0E
+d$ H
+l$(D
+T$HL
+\$@H
+L$8L
+\$@L
+t7E	
+AVAUI
+ATUSH
+,u1L
+]A\A]A^
+AWAVI
+AUAT
+,H9\$
+ATAUI
+\$@H
+\$@E1
+l$$A
+U<D!
+L$(A
+L$ H
+D$81
+$v>B
+[]A\A]A^A_
+AWAV1
+AUATA
+tEA9
+-u%A
+X[]A\A]A^A_
+t8Hc
+AWAVA
+AUATUSH
+Mt9Mp|
+uh9ud
+[]A\A]A^A_
+X[]A\A]A^A_
+T$`H
+|$0H
+t$PL
+t$0I
+T$hL
+\$`L
+D$PL
+T$hL
+\$`L
+D$PL
+L$HH
+H9D$0t
+@tjL
+u	M9
+L$`H
+|$hD
+T$Bf
+UPL	
+?0u-
+XuGH
+t$PAVE
+ATUA
+t$hH
+|$`1
+u'Lc
+pPH92A
+I;HP
+GDLk
+AWAVI
+AUATUSH
+E;l$
+[]A\A]A^A_
+AQAPA
+AQAPA
+AWAVAUATUSD
+d$PD
+l$XL
+t$`L
+u"AWAV1
+AUAT
+D$,H
+u(AWAVA
+AUAT1
+D$,H
+u(AWAVA
+AUAT1
+D$,H
+u(AWAVA
+AUAT1
+D$,H
+u(AWAVA
+AUAT1
+D$,H
+u(AWAVA
+AUAT1
+D$,H
+u(AWAVA
+AUAT1
+D$,H
+u(AWAVA
+AUAT1
+D$,H
+u(AWAVA
+AUAT1
+D$,H
+u(AWAVA
+AUAT1
+D$,H
+u(AWAVA
+AUAT1
+D$,H
+u(AWAVA
+AUAT1
+D$,H
+u(AWAVA
+AUAT1
+D$,H
+u(AWAVA
+AUAT1
+D$,H
+u(AWAVA
+AUAT1
+D$,H
+u(AWAVA
+AUAT1
+D$,H
+u(AWAVA
+AUAT1
+D$,H
+AWAVA
+AUAT1
+D$,H
+u"AWAV1
+AUAT
+D$,H
+AWAVA
+AUAT1
+D$,H
+uOAWAV1
+AUAT
+D$,H
+u"AWAV1
+AUAT
+D$,H
+[]A\A]A^A_
+t$H1
+D$HH
+t$H1
+t$HE
+t$HE
+T$HA
+L$HAQE
+t$HE
+\$HE
+D$HP
+t$HE
+T$HE
+t$HE
+D$H1
+t$HE
+t$HE
+|$HE
+T$HH
+L$HQD
+D$H1
+t$HE
+t$HE
+|$HH
+t$H1
+D$HP
+T$HR
+L$HQ
+t$H1
+D$HAP
+L$HE
+Tacocat
+t$H1
+D$HP
+t$HE
+T$HE
+t$H1
+D$HP
+T$HR
+AWAVAUATUSH
+d$PD
+l$XL
+t$`L
+u"AWAV1
+AUAT
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u/AW
+AVAUATA
+L$,H
+|$ E
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u.AW
+AVAUAT
+L$,H
+|$ D
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u1AWAV
+AUATA
+L$,H
+|$ D
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u1AWAV
+AUATA
+L$,H
+|$ D
+u/AW
+AVAUAT@
+L$,H
+|$ D
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+AWAV@
+AUATD
+L$,H
+|$ 1
+u(AWAVA
+AUAT1
+L$,H
+AWAVA
+AUAT1
+L$,H
+u"AWAV1
+AUAT
+L$,H
+u1AWAV
+AUATA
+L$,H
+|$ E
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+AWAVA
+AUAT1
+L$,H
+AWAV1
+AUAT
+L$,H
+u"AWAV1
+AUAT
+L$,H
+AWAVA
+AUAT1
+L$,H
+AWAV1
+AUAT
+L$,H
+|$ H
+AWAV1
+AUAT
+L$,H
+|$ H
+AWAV1
+AUAT
+L$,H
+|$ H
+AWAV1
+AUAT
+L$,H
+|$ H
+AWAV1
+AUAT
+L$,H
+|$ H
+AWAV1
+AUAT
+L$,H
+|$ H
+AWAV1
+AUAT
+L$,H
+|$ H
+u"AWAV1
+AUAT
+L$,H
+AWAVA
+AUAT1
+L$,H
+uOAWAV1
+AUAT
+L$,H
+u"AWAV1
+AUAT
+L$,H
+[]A\A]A^A_
+AWAVAUATUSH
+d$PD
+l$XL
+t$`L
+u"AWAV1
+AUAT
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u/AW
+AVAUATA
+L$,H
+|$ E
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u.AW
+AVAUAT
+L$,H
+|$ D
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u1AWAV
+AUATA
+L$,H
+|$ D
+u.AW
+AVAUAT
+L$,H
+|$ D
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+u/AW
+AVAUAT@
+L$,H
+|$ D
+u(AWAVA
+AUAT1
+L$,H
+AWAVA
+AUAT1
+L$,H
+u"AWAV1
+AUAT
+L$,H
+AWAVA
+AUAT1
+L$,H
+u"AWAV1
+AUAT
+L$,H
+AVAUATD
+L$,1
+u(AWAVA
+AUAT1
+L$,H
+u(AWAVA
+AUAT1
+L$,H
+AWAVA
+AUAT1
+L$,H
+AWAV1
+AUAT
+L$,H
+AWAV1
+AUAT
+L$,H
+|$ H
+AWAV1
+AUAT
+L$,H
+|$ H
+AWAV1
+AUAT
+L$,H
+|$ H
+AWAV1
+AUAT
+L$,H
+|$ H
+AWAV1
+AUAT
+L$,H
+|$ H
+AWAV1
+AUAT
+L$,H
+|$ H
+AWAV1
+AUAT
+L$,H
+|$ H
+uOAWAV1
+AUAT
+L$,H
+u"AWAV1
+AUAT
+L$,H
+[]A\A]A^A_
+AWAVI
+AUATI
+L$ L
+H[]A\A]A^A_
+t$hH
+T$pH
+L$xL
+T$`H
+\$HH
+t$(H
+<$E1
+<$E1
+Mct$<H
+t$(H
+A;L$<t
+AVAWM
+WAVM
+AXAY
+)D$P
+)L$`
+)T$p
+T$pH
+L$xL
+T$`H
+\$HH
+t$(H
+t$hH
+T$pH
+L$xL
+T$`H
+\$HH
+t$(H
+T$pH
+L$xL
+T$`H
+\$HH
+t$(H
+ATUI
+T$pH
+L$xL
+T$`H
+\$HH
+t$(H
+L$xL
+L$`H
+l$HH
+t$ H
+t$ H
+[]A\
+AWAVI
+AUATA
+[]A\A]A^A_
+t$XH
+T$`H
+L$hL
+D$pL
+L$xt@
+T$PH
+t$ H
+D$ H
+t$hH
+T$pH
+L$xL
+T$`H
+\$HH
+t$(H
+t$hH
+T$pH
+L$xL
+T$`H
+\$HH
+t$(H
+T$`H
+\$HH
+t$(H
+T$pH
+L$xL
+T$`H
+l$HH
+|$(H
+t$0H
+[]A\
+t$`H
+t$ L
+\$\H
+[]A\
+T$`H
+\$HH
+t$(H
+AVAUA
+d$(L
+\$XD
+d$(A
+t$\H
+[]A\A]A^
+AWAV
+AUATUSQ
+Z[]A\A]A^A_
+[]A\
+I9Oxs
+I9Wx
+M9Oxr
+M9Gx
+I9Wxr0H
+I9wxs
+?su@M
+I9Oxs
+|$8H
+|$8I
+|$HE9
+?$u'L
+\$0H
+I9wxs
+t$HH
+;$uE
+M9Wxr,H
+/wsD
+7N;T
+M9_xs
+T$HHc
+/w[E
+/wYA
+/w\E
+/w[E
+AVAUI
+ATUH
+/H9U r1L
+[]A\A]A^
+[]A\A]A^
+T$`H
+L$hL
+D$pL
+L$xt@
+T$PH
+l$ H
+t$(H
+ATUSD
+k([]A\
+@u	H
+T$`H
+L$hL
+D$pL
+L$xt@
+T$PH
+l$ H
+t$(H
+AUATI
+[]A\A]
+ATUH
+[]A\
+ATU1
+c A9
+[]A\
+AUATSPI
+[A\A]]
+L;-D
+wdIk
+u)E1
+ATU1
+\$HH
+l$8H
+L$ H
+t$ H
+D$(H
+L$0A
+L$@A
+L$HA
+L$PA
+`[]A\
+g(L;g0s
+(C94
+(C94
+;s8w6
+A;1r
+;W8w
+G$Mk
+G(Hk
+tOD9
+9N8r?
+u=9W8
+w(Lk
+ATUS%
+9O8A
+;z(sY
+$*D9c8r
+H;D$
+[]A\A]
+EX;]`s
+[]A\
+AWAVA
+AUATD9
+USQt
+t#D9m8s
+9E8s
+u5M9
+Z[]A\A]A^A_
+AVAUI
+D$ *
+u	Hk
+XZu[D
+[]A\A]A^
+ATUS
+u5HcJ
+t&Hk
+ARRH
+[]A\
+AWAVE1
+AUATUS
+O$t`E
+NP[]A\A]A^A_
+AVAUATUA
+;U$s
+[]A\A]A^
+[]A\A]A^
+t$,L
+l$8I
+D$0L
+D9D$
+T$ H
+D$HL
+L$@L
+D$0D
+t$,L
+vNHk
+&t0L
+=to@
+$tTI
+D9D$
+T$,L
+D$0L
+T$,L
+uSATUSL
+AWAVAUATE1
+5tXH
+[]A\A]A^A_
+T$(L
+T$ L
+L$ H
+t$HL
+t$8L
+\$hM
+t$`u-L
+T$DH
+L$(L
+M+t$
+|$ I
+|$DI
+L$ H
+\$HI
+\$Ht=
+D$XL
+|$XA
+L$hu
+t$PL
+L$@H
+t$ L
+;l$@I
+D9\$@L
+\$HI
+%H|,
+\$ E
+T$ @
+T$`I
+\$ E
+d$ A
+D$@f
+L9|$
+D$8H
+[]A\
+[]A\
+AUATI
+Z[]A\A]
+ATUH
+[]A\
+AWAVAUATUSH
+T$_H
+d$`L
+d$@L
+D$HL
+l$HI
+\$HH
+n0L;E
+D$@A
+T$HI
+d$@L
+D$HI
+|$4H
+t$8L
+d$4L
+D$8H
+L$ H
+d$@E1
+t$PL
+|$ H
+D$(H
+D9d$4
+T$ E
+D9d$4r
+L$ D
+D$4H
+\$ L
+d$@H
+t$(H
+l$HM
+M+#H
+T$ L
+T$HH
+L$xA
+D$pL
+T$hH
+\$(H
+D$(L
+D$xH
+|$pH
+L$hD
+\$HL
+D9d$4r
+\$ D
+d$(K
+D$(L
+l$HH
+d$@H
+D$ 1
+L$ I
+L;D$`
+t$8L
+T$XA
+[]A\A]A^A_
+AWAVAUA
+ATUSH
+4$t/H
+$Z[]A\A]A^A_
+I9p(u
+AVAUATUI
+[]A\A]A^
+AVAUI
+ATUI
+]A\A]A^
+t	A8
+AVAUATUI
+[]A\A]A^
+tNYH
+AX[]
+	AY[]
+7t%A
+[]A\
+AVAU
+ATUSH
+[]A\A]A^
+ATUSH
+[]A\
+AX[]
+<MtlH
+AVAUI
+[]A\A]A^
+AVAUATUSH
+t,A9
+=uDH
+[]A\A]A^
+ATUH
+[]A\
+AUATI
+[]A\A]
+ATUH
+[]A\
+=u$H
+AUATA
+[]A\A]
+AWAVAUATI
+[A\A]A^A_]
+=t!H
+?t=1
+ATUI
+[]A\
+AWAVAUH
+ATSH
+PtiE9
+[A\A]A^A_]
+AWAVAUATSPH
+[A\A]A^A_]
+ATUA
+[]A\I
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+L$ H
+AWAVM
+AUATA
+[]A\A]A^A_
+AWAVAUATUSH
+|$PH
+|$PD
+[]A\A]A^A_
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+L$ H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+L$ H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+L$ H
+L$Ht7
+)D$P
+)L$`
+)T$p
+L$ H
+L$Ht7
+)D$P
+)L$`
+)T$p
+L$ H
+L$Ht7
+)D$P
+)L$`
+)T$p
+L$ H
+L$Ht7
+)D$P
+)L$`
+)T$p
+L$ H
+AUATI
+[]A\A]H
+D$0L
+\$hD
+T$0L
+\$ H
+D$ L
+L$(L
+D$0D
+T$@D
+\$(D
+T$ H
+T$8L
+T$ D
+\$(D
+T$ H
+T$8L
+T$ D
+\$(H
+IcU$D
+\$@A
+T$0D
+L$ H
+D$0H
+D$ H
+t$HH
+D$ H
+|$HH
+L$ D
+T$0D
+t$(I
+D$ H
+t$8I
+T$8H
+\$|D
+T$pL
+\$8L
+T$0L
+D$0H
+D$0H
+L$0L
+T$8D
+T$XH
+\$\D
+T$PL
+D$HH
+D$0@
+\$\A
+T$HH
+D$`H
+T$`H
+\$\D
+T$HH
+<$@L
+\$lH
+L$@H
+\$`H
+T$hH
+\$hH
+T$lL
+D$XH
+L$PH
+t$(H
+L$@L
+T$HH
+T$@H
+\$h1
+T$dD
+\$lD
+\$(D
+T$ H
+D$0L
+T$8H
+\$(D
+T$ H
+\$0H
+|$(H
+\$@D
+L$0H
+D$0H
+L$HL
+T$@D
+\$0D
+D$ L
+\$(H
+L$8A
+|$XH
+\$@H
+T$@H
+D$@L
+T$HD
+D$hH
+L	\$(
+T$(A
+\$0D
+\$0D
+D$8D
+L$ H
+L	\$ 
+t\E1
+IcU$A
+tEIcU$A
+\$ D
+\$ E
+T$0H
+\$ L
+L$0H
+T$ H
+\$(D
+T$ L
+T$ D
+IcU$D
+@v H
+<Lt/v%<ft)<lt%<dt!
+,w,M
+$D:D;
+AWAVAUATI
+[]A\A]A^A_
+l$/D
+l$(A
+D$/A
+d$.E1
+L$/L
+t$ I!
+?w5L
+LtqvQ
+Fu(<D
+<Is9<Dt,<F
+<is <dt
+LttvLA
+htSA
+luFI
+t$,L
+ATE1
+[]A\A]
+@v*H
+?wID
+L$hA
+T$0L
+\$@H
+l$LC
+\$(H
+t$@H
+H;t$(v
+T$(L
+D*@L
+L$@H
+l$L1
+t$0H
+t$0K
+\$@M
+t$@H
+D$8L
+tGH9<$tAL
+T$HL
+AWAVAUATI
+D$ I
+\$ K
+[A\A]A^A_]
+D$ u
+AWAVI
+AUATUS
+[]A\A]A^A_
+D$8H
+\$IH
+t$(H
+T$0H
+D$ L
+L$(L
+\$PH
+T$ I
+KxM9Nx
+PxI;VxtXH
+ufL9
+AX[]A\A]1
+AUAT1
+USAPH
+CjE1
+[]A\A]
+X[]A\A]
+AWAVI
+AUATH
+G(;P0s4H
+w(H;w0r
+[]A\A]A^A_
+[]A\A]A^A_
+tlUSQH
+ATUH
+H;\$
+<$s=H
+G(H;G0r
+ATU1
+[]A\
+ATUA
+[]A\
+] I9
+u;L9
+%t1A
+AXAY
+:t'I
+:/tHH
+AWAVI
+AUATI
+$t_A
+[]A\A]A^A_
+u8I;
+USQH
+AUATUSAR
+t1RAU1
+Y^XL
+[]A\A]
+WAUA
+AXAY
+Uu&L
+E@L)
+B H9
+u&H9B
+/tqH
+I+L$
+\$ M
+R<P1
+|$0Y
+M9w tOA
+V0AX
+I;_ 
+\uZM9
+D$(A
+|$(A
+>tI@
+8u	E
+RthA
+T	?D
+l$ I
+D$HH
+L$@I)
+D$HH
+D$(I
+D$HH
+D,pI
+Pw-A
+|$ H+M
+|$@H
+\$HL
+C I9C
+D$HH
+L$@L
+w H97s5I
+|$(D
+D$@E
+D$HM
+\$HI
+t$(H
+D$@L
+l$@M
+t$HH
+D$HA
+t$HL
+l$HH
+PB8L
+D$HH
+D$HH
+D,p\I
+D$HH
+D$HH
+L$@H)
+|$(L
+T$(L
+D$HH
+D,p??I
+|$?/u\H;]
+D$HH
+D,p/I
+D$HH
+L$@H
+L$(I
+T$(w
+t$?I9
+L$?B
+L,pI
+D$?L
+D$HH
+D,p I
+ tJL
+D$HH
+D$HH
+D$HH
+AVAUI
+ATUI
+4$[I
+]A\A]A^
+ATUI
+C(H;C0r
+K(H;K0r
+[]A\
+[]A\
+5t7Mc
+AWAVI
+AUATI
+Z[]A\A]A^A_
+D;e0
+AUATSPH
+[A\A]]
+8\u9H
+M(M;M0
+[]A\A]A^A_
+AWAVAUATI
+|$ I
+([]A\A]A^A_
+AWAVH
+AUATI
+utE1
+[]A\A]A^A_
+;k0H
+AVAUATUH
+t	<:t
+;S4u,
+[]A\A]A^
+t!D;k
+D;T$
+AVAUI
+ATUA
+[]A\A]A^
+AVAUI
+ATUI
+[]A\A]A^
+AWAVE1
+AUATE1
+t$tL
+l$pI)
+L$pH
+t8fA
+[]A\A]A^A_
+D$ H
+L$ H
+|$0H
+#\$0L
+L$ L
+L$PH
+t$X1
+L$`H
+T$hH
+|$ uO
+H+T$hH
+|$ H
+L$pH
+t$PH
+L$ u
+L$ H
+L$8D
+T$ L
+L$8D#T$4
+L$pH
+atK@
+t$(D
+AWAVI
+AUATI
+<ut*<U
+$uP@
+E:T$
+w{=M
+w4=L
+w4=8
+wV=`
+w@=.
+wN=6
+w&=5
+w.=Z
+w;=>
+wC=*
+wC=T
+wC=d
+wG=h
+w4=&
+wS=d
+wY=*
+w4=X
+wC=h
+wC=j
+w`=9
+wO=D
+w4=0
+w)= 
+w8=K0
+wC=d0
+w8=r0
+[]A\A]A^A_
+AWAVI
+AUATI
+v4E1
+ []A\A]A^A_
+AWAVAUATH
+t*L9
+[A\A]A^A_]
+ATUH
+[]A\
+AUATE1
+L+L$
+H+D$
+H+D$
+([]A\A]
+AUATUSH
+t-E1
+[]A\A]
+<>/t
+D$(H
+[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVM
+AUATUSH
+v	H9
+[]A\A]A^A_
+AVAUI
+ATUI
+[]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]A^
+AWAVM
+AUATI
+T$ H
+\$XH
+L$(M
+D$PH
+T$0fD
+\$(M
+ELFt
+t$ H
+AZA[
+d$xH
+|$(H
+H9D$
+D$(1
+D$0L
+|$@H
+|$0H
+L$DI
+L$DH
+T$Hu$Hct$8M
+c(D9
+t$ M
+AZA[t
+L$ I
+T$ H
+L$0L
+T$8L
+L$8L
+L$0E1
+$w*1
+T$(M
+t$pL
+< H9
+t$ L
+t$ H
+t$ E1
+AVAU
+t$pL
+[]A\A]A^A_
+xLRj
+AWAVAUATM
+l$$M
+t$(AVH
+L$(H
+T$ H
+t$ H
+\$ L
+|$8L
+\$(L
+T$0L
+t$@L
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+USWH
+Y[]H
+t$(L
+d$ H
+t9Hk
+H9D$0u
+d$ H
+[]A\
+u,SH
+AVE1
+ATU1
+[]A\A]A^
+AVAUE1
+[]A\A]A^
+AWAVA
+AUATM
+t$PH
+[]A\A]A^A_
+[]A\A]A^A_
+AUATI
+[]A\A]H
+[]A\A]A^
+H;7H
+4$M9
+H;0r
+AWAVM
+AUATI
+|$0A
+T$`H
+\$HH
+L$8L
+l$XH
+t$0L
+D$`H
+|$@L
+D$ 1
+Gt7w
+T$(L
+x[]A\A]A^A_
+AWAVAUATUSH
+t$ H
+L$8I
+D$@L
+L$(H
+T$0H
+D$HH
+|$HL
+T$XD
+\$TA
+t$0E
+t$HL
+L$HH
+\$TL
+T$XC
+trw[
+L$(L
+|$0I
+|$pL
+l$`H
+D$hH
+t$@H
+t$@H
+L$XL
+D$pH
+L$hH
+T$8H
+t$PH
+[]A\A]A^A_
+AWAVAUATUSARH
+H98w
+rH;x
+r H;x s
+W QSL
+^_u$M
+Z[]A\A]A^A_
+AVAUATUSH
+l$8H
+t#Hk
+L$0E
+[]A\A]A^
+AUATL
+$1USH
+l$8I
+t5Hk
+L$0L
+Z[]A\A]
+AWAVH
+BHAUATI
+T$`H
+L$ L
+L$(H
+D$PH
+T$XA
+\$8A
+D$@H
+AYAZ
+T$Xu.H
+t$hE
+D$hH
+|$(L
+L;o0r
+t$(L
+T$hH
+|$0L
+T$Xu(
+D$hH
+L$`A
+|$0E
+L$HL
+D$(H
+L$@H
+L$HL
+D$(H
+L$@H
+l$`H
+t$xH
+T$xH
+WHL9T$
+L+T$
+l$`H
+T$hH
+d$ L
+uVE1
+u:E1
+L$HO
+[]A\A]A^A_
+AWAVAUATUS1
+w H9S v
+T$ I
+(H9S
+w(H9S
+jXH;^
+T$ t
+L$8H
+T$(H
+t$0H
+T$HL
+t$HH
+~(M9
+L$0H
+L$HH
+t$`H
+L$XL
+\$@H
+L$PH
+D$`L
+L$@H
+T$XL
+l$PB
+D$Pt
+L$PH
+T$0L
+d$PA
+\$@E1
+l$`H
+T$XH
+rND)
+D$hL
+t$HH
+L$HM
+D$xL
+L$pL
+\$hH
+D$hL
+L$pH
+t$xL
+t$hH
+t$hL
+|$ L
+AZA[
+\$@H
+\$@u
+D$0L
+\$0H
+t$@L
+D$HH
+L$ L
+\$ M
+D$ H
+D$(H
+L$HH
+T$8H
+t$@H
+t$(H
+T$(E1
+r`M9
+AQAT1
+t$0L
+L$`L
+D$hH
+t$PH
+<$/trM
+t$(H
+|$8H
+|$(H
+I9:w
+w M9J v
+L$HH
+|$8L
+ZYuBM
+t$(H
+l$8A
+t$(H
+[]A\A]A^A_
+AWAVI
+AUATI
+t~VPM
+_AXuh
+t3PARH
+([]A\A]A^A_
+p(H9w(A
+AWAVI
+AUATI
+[]A\A]A^A_
+AVAUAT
+C td
+[]A\A]A^A_
+AWAVH
+AUATI
+|$HH
+T$ H
+t$(H
+=<0+
+T$ I
+D$ L
+L$ L
+T$ L
+\$ L
+d$ L
+t$ A
+T$ A
+D$xL
+L$8L
+T$PH
+\$ A
+L$ H
+D$ A
+|$ H
+t$ A
+l$ L
+L$ L
+t$0H
+L$XH
+D$pH
+\$ E1
+\$ L
+d$ L
+t$ H
+H9l$(
+D$HH
+L9D$Hs
+T$`H
+L$`I9
+H9T$(twH
+H9t$(v$H
+<)u"
+T$`H
+D$`I9
+H9D$(tlH
+\u6H9t$(
+\$`H
+L$`H9
+ubL9L$(v[A
+\$`I
+D$`I9
+T$`H
+L$`I9
+t+L)
+H9T$(
+T$`H
+|$`H9
+T$`I
+L$hH
+t$hH9
+t$`L
+|$(E1
+;t	H
+tOM9
+-u_M
+L9D$Hw
+[tMM
+L9L$Hw
+^t4A
+]t-L
+D$ H
+-uTA
+D$ H
+]t&I9
+]t#M9
+.t+I9
+]uZD
+9D$@
+H9T$(u
+\$@L
+\$`H
+t$@I
+d$DM
+D$DA
+D$@L
+\$hH
+L$`I
+\$hH
+L$`H9
+L$@M
+|$@L
+d$DL
+\$`H
+t$`H9
+L9l$
+H9T$(
+L9D$(tCM
+	w A
+H9L$(t?L
+L9t$(
+6t	H
+T$`M
+D$`I9
+\$hH
+\$hI9
+D$(H;
+T$`H
+t$`H9
+T$`H
+t$`H9
+T$`H
+\$`I9
+D$`H
+t$`H9
+L$`H
+t$`H9
+D$`H
+L$`H9
+\$`H
+L$`I9
+D$`H
+t$`H9
+9L$Ds
+(B;L
+\$hH
+L$`I
+\$hH
+T$`H9
+T$`H
+D$`I9
+t L)
+\$hH
+L$`I
+\$hH
+t$`H9
+[]A\A]A^A_
+[A\A]A^A_]
+@uKE
+l$ L
+d$XA
+D$XPE
+<:B8<2t
+@"|0
+ATUH
+wt<	sa<
+[]A\
+t(w^<
+RAQA
+D;O,}(Mc
+AWAV
+AUATA
+'wTI
+CP	D
+CP	D
+Fu:H9
+Z[]A\A]A^A_
+[]A\
+AUATL
+X[]A\A]
+8TuLSH
+K(;K,}
+;W,}/SHc
+AUATUSH
+k(~{
+;wXH
+|$	Nu@D
+;k,D
+CP}aLc
+;k,}
+Z[]A\A]
+8Bu'H
+w<_tZE1
+D;G8
+D;O,},Ic
+R0Hk
+D;O,})Ic
+9BuDSH
+{8;{<}&L
+[0Hc
+tCws
+AWAVAUATUSH
+_u`H
+<$u.
+<uXH
+>uXH
+8/u@D
+8/u5
+\$(u
+IcT$
+IcT$
+T$(M
+<uYH
+1u`M
+?au+A
+du$A
+8u+H
+gu)A
+9quU
+=uYH
+<uAM
+=uUI
+u	I9
+:1uiA
+:>uYH
+?cu;
+[]A\A]A^A_
+ATUA
+(tVH
+[]A\
+AUATA
+>Fu8
+[]A\A]A^
+AWAVI
+AUATI
+[]A\A]A^A_
+<(ta
+ tXH
+AWAVI
+ATUSH
+APuDH
+:*t.
+]X[]A\A]A^A_
+AUATA
+[]A\A]
+ubUS
+ATUH
+[]A\
+AWAVAUATUSH
+K(Lc
+D;K,
+	wWH
+K(E1
+;K,}
+:_u>I
+K8D;K<
+[0Mc
+:IuMH
+C8D;C<
+K0Ic
+0</w7H
+S(D;S,
+s(;s,
+k(D;k,
+K(D;K,
+c(D;c,
+C(D;C,
+c(D;c,
+s(;s,
+_u$D
+9_u"H
+{(D;{,}wMc
+K8D;K<}
+K0Ic
+[]A\A]A^A_
+uD<.t@<Rt
+Et2H
+D)KPH
+8Ju	H
+8FuEH
+)u\D
+	wRH
+C(E1
+D;C,}
+cuR@
+vuLE1
+@:2u:@8j
+s(;s,
+ATUSH
+D;c,H
+C(;C,}
+LuFH
+S(;S,
+[8D;[<
+tu`H
+K(D;K,}BMc
+[8D;[<}
+{0Ic
+[]A\
+[]A\
+AWAVAUATUSH
+Du%D
+EtgA
+Mu_H
+[8D;[<}
+s0Ic
+.tJM
+<$Eu,I
+su.I
+Gt!H
+D;c,}%Ic
+k(D;k,
+k8;k<
+S0Hc
+{8;{<
+K0Lc
+C(D;C,}
+[]A\A]A^A_
+ATUSH
+TtFA
+htdA
+[]A\
+AtKA
+;K,@
+D;C,}
+[]A\
+9.t&L
+;s,L
+}4Hc
+ATSH
+[A\]
+){PL
+;{,}
+AUATUSH
+oHu H
+[]A\A]
+Xu?H
+[]A\A]
+sAUATUSH
+ru_H
+pusH
+k(;k,
+nuBH
+luGE1
+1u`H
+tJ~1
+iumI
+iuPA
+luIH
+[]A\A]
+?Iu+H
+Z[]A\A]
+AUATUSH
+@80u
+[]A\A]
+D:"u
+[]A\A]
+AWAVAUATI
+$<;w3H
+ZtB1
+[A\A]A^A_]
+ATUI
+ []A\
+|$ H
+H9D$
+|$ L
+@t+I
+|$ H
+T$ H
+T$(H
+T$(L
+\$ L
+D$(1
+|$ I
+T$ H
+D$8Mc
+\$0H
+L$(J
+L$0L
+T$(I
+\$8Ic
+T$ L
+l$0H
+D$(L
+|$ H
+T$(H
+|$ u
+AUATE1
+Z[]A\A]
+AWAVE1
+AUATUSH
+'t$A
+"t(E
+[]A\A]A^A_
+t(USH
+AVAUATI
+"<:w
+[]A\A]A^
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+T$ H
+T$P1
+]A\A]A^A
+[]A\A]A^
+USRH
+C0X[]
+G(H+G0
+AWAVI
+AUATI
+T$P1
+|$PH
+[]A\A]A^A_
+h &@
+AVAUATUSH
+[]A\A]A^
+C0X[]
+AUATI
+X[]A\A]
+ccXXXXXXB
+= Q*
+=hs*
+L$pH
+L$pH
+D$(n
+L$pH
+T$(1
+D$(Z
+t$ H
+|$$D
+D$(>
+LckpH
+l$pH
+T$ D
+T$$E1
+|$pD
+D$(IpH
+|$pD
+D$(IpH
+D$pD
+|$pH
+AWAVI
+AUATI
+|$pH
+T$8RAQL
+AWATE
+C8Hc[0
+8[]A\A]A^A_
+D$(>
+t$ H
+L$ D
+T$xH
+$Hc{pL
+D$xH
+T$ D
+d$$1
+D$(IpH
+D$xH
+D$(n
+L$xH
+T$(1
+T$xD
+D$(Z
+D$(IpH
+|$xH
+~#Hc
+D;k0
+s@Hc
+Hcs0H
+{PD;{0H
+Hcs0
+D;k0|	D
+D;k0|%D
+G0D9GPtpAWAVI
+AUATUSH
+LcSP
+D;c0|
+[]A\A]A^A_
+S@PAWL
+Hcs0H
+[]A\
+D9cp
+AUATUSQ
+S(Z[]A\A]
+AUATUSH
+T$8H
+,$u3
+[]A\A]
+ATUI
+t;Ic|$09
+\$0Hc
+t$HH
+[]A\
+L$ L
+L$xD
+D$xE
+L$HE
+L$HD
+T$LA
+/wvE
+/w7A
+/trH
+/t_H
+/tLH
+/t9H
+/t&H
+AUATA
+518*
+%b7*
+%S7*
+-z6*
+X[]A\A]
+AWAVAUATSH
+specf
+=~/*
+%(sysrooI
+t_spec) H
+-x4*
+5m4*
+5Y4*
+%K4*
+-E.*
+>0uEL
+=62*
+5?2*
+} 	u
+=m/*
+=t1*
+<*ugH
+=!/*
+<}tt<%
+<}tO<%tsA
+V	<;
+<}t.<%tRI
+<{tK<<tG<W
+<%tsA
+<%tNA
+V	<;
+<%t)H
+<{tT<<tP<W
+-9(*
+=&&*
+;tyA
+ tsE
+;t[A
+ tUE
+;t=@
+ t7@
+--!*
+tgA;](u
+u Hc
+tDHc
+	ty@
+ tsA
+	t]A
+	tJE
+	t5E
+	t A
+:u)M)
+[A\A]A^A_]
+=m *
+=@ *
+?:twM
+:tOM
+:t;M
+:t'M
+	tF@
+ t@H
+AWAVAUATSH
+~OMc
+/uDK
+;/u:H
+APIk
+t	L9
+[A\A]A^A_]
+AWAVI
+AUATH
+to;i
+tY;n
+tCA;h
+t,A;i
+[]A\A]A^A_
+AWAVAUATUSH
+|$(1
+slH=6
+tdwvH=
+tHH=4
+T$(A
+[]A\A]A^A_
+|$(1
+|$(H
+t$(I
+|$(H
+|$(F
+Hc=y
+AVAUI
+ATUI
+[]A\A]A^
+Hc5$
+AVAUATUSH
+[]A\A]A^
+AVAUATSI
+[A\A]A^]
+Borrow or rob
+<$/u
+AWAVAUATI
+|$XI
+l$`H
+D$HL9
+d$ H
+|$(H
+T$ H
+t$PL
+[]A\A]A^A_
+T$pL
+T$(H
+T$pL
+t$PL
+T$pL
+t$@H
+T$0K
+|$XH
+T$`L
+t$HHcj
+t$`H
+t$8H
+t$8H
+AWAVM
+AUATI
+T$`H
+|$HH
+D$ H
+|$XI
+T$HH
+T$ H
+\$@L
+l$`McZ
+t$HL
+L$ I
+|$hH
+L$ M
+T$ H
+x[]A\A]A^A_
+T$0H
+t$8H
+|$(1
+T$@H
+|$(H
+L$(H
+AWAVAUATUSH
+D$`H
+T$`H
+D$.L
+D$(H
+H9l$
+[]A\A]A^A_
+D$ A
+t E;n u
+l$ M
+\$.A
+AWAV1
+AUATI
+;k u
+X[]A\A]A^A_
+AWAVAUATSH
+[A\A]A^A_]
+AWAVAUATUSH
+x[]A\A]A^A_
+H;5@
+Hc="
+D$XpyE
+t$PI
+T$PH
+AZA[
+AXAY
+<$-L
+AWAVAUATA
+[A\A]A^A_]
+tDIc
+t,E;|$ u
+<.tFD
+<.t%D
+D8(H
+AWAVI
+AUATUS1
+H;,$A
+t$XH
+D$LH
+T$0L
+D;l$
+|$0L
+D;l$
+|$0D
+d$oD
+T$<L
+t$ E8
+E4$H
+Dl$(
+<{t4<}t <;t6<%u
+D8l$;
+D$=D8D$
+v_L)
+x[]A\A]A^A_
+~NIc
+D9%X
+D9-1
+t$ H
+l$(E
+<$E1
+t$HD
+t$HD
+<	tw< tsI
+|$?@8|$
+L$=L
+t$ A
+t$ H
+l$(E1
+d$oD
+t$oI
+d$<E1
+d$<A
+t$HD
+t$HH
+|$01
+u+<*t
+AWAVAUATUSH
+[]A\A]A^A_
+AUATUH
+,@SH
+[]A\A]A^
+D:'u
+D:'u
+ATUH
+[]A\
+AWAV@
+AUATI
+<*u	I
+;tw@
+;tP@
+;t)@
+[]A\A]A^A_
+{t2@
+<t,@
+AWAVAUATA
+[A\A]A^A_]
+D;{(u
+D;{@u
+D9;u
+ t~E
+ tR@
+ t:E
+ t"E
+;t`@
+;tB@
+;t$@
+T8(M
+t{D;K(H
+~gD;K@L
+~SD;KXH
+~?D;KpH
+tn</tjA
+t]</tYA
+tL</tHA
+t;</t7A
+t*</t&A
+ t{A
+/tuE
+ t]A
+/tWE
+ t?A
+/t9E
+ t!A
+;t	@
+s0Ic
+sHIc
+~8US1
+AWAVAUATUSH
+L$0H
+L$<I
+T$(L
+\$(M9
+T$0L
+D$;H
+H[]A\A]A^A_
+HcT$<H
+AWAVAUATI
+|$PH
+T$hH
+D$` 
+|$HI
+|$PL
+T$8M9
+L$ H
+|$XM
+t$`H
+T$ H
+t$`H
+x[]A\A]A^A_
+t$0H
+t$`H
+|$HH
+T$PL
+t$(H
+L$(H
+\$PH
+\$8Mc{
+|$(H
+AUATUSH
+[]A\A]
+I;T$ 
+'I9M 
+'M9E 
+AWAVAUATUSH
+.tdH
+.tQH
+.t>H
+.t+H
+L$ O
+T$0H
+?@t*H
+[]A\A]A^A_
+t$ L
+L$<H
+\$(H
+t$(I9
+LcT$<I
+9.tyI
+4)I9
+.tbI
+.tNI
+.t:I
+.t&I
+AUATI
+[]A\A]
+AVAUATUSH
+[]A\A]A^
+/tIA
+u.[]A\
+AWAVAUATI
+[]A\A]A^A_
+ZHD9
+AWAVAUATUSH
+COLLECT_H
+GCC_OPTI
+ONS=H
+H95M
+'\''L
+[]A\A]A^A_
+'\''L
+=d~)
+AWAVAUATSH
+=fw)
+=cz)
+=Cz)
+>I;}
+[A\A]A^A_]
+9M9}
+AZA[
+=ot)
+>I;}
+AWAVAUATUSH
+T$ D
+5Rq)
+D$$D
+|$(D
+D$,D
+L$0D
+T$4H
+t$8H
+D$ D
+L$$D
+|$4E
+\$8H
+-9q)
+[]A\A]A^A_
+tf<(
+AWAVI
+AUATA
+~CHc
+[]A\A]A^A_
+AWAVI
+AUATUSPH
+[]A\A]A^A_
+AWAVAUATUSR
+UPE1
+~(Lc
+X[]A\A]A^A_
+=Yn)
+5Tn)
+AWAVI
+AUATUSH
+'M9E 
+[]A\A]A^A_
+'M9M 
+AWAVAUATUSH
+([]A\A]A^A_
+AUATU
+[]A\A]
+AVAUATUA
+	wrA
+k@A)
+C8[]A\A]A^
+k@D!
+9G8wV
+C8Z[]
+AWAVI
+AUATA
+A9L$<
+L$ D9
+|$$1
+|$$H
+|$(H
+[]A\A]A^A_
+D$ A
+t$$E
+L$ 1
+t$$L
+l$$A
+l$(H
+A;L$<v
+L$ A9
+A9q(L
+92wbE
+w$A9
+;G8w
+w$Lk
+Cd9C`sOD
+H+ChH
+ []A\
+ChL)
+AWAVAUATI
+4II)
+C8E1
+X[]A\A]A^A_
+fD;M
+<;K9<:
+AWAVAUATUSH
+[]A\A]A^A_
+x(tnH
+T$(D
+AWAVAUATI
+L$PH
+\$ H
+t$ A
+L$@A
+t$@A
+t$ H
+;l$@I
+|$ I
+[]A\A]A^A_
+d$ A
+t$8f
+T$XH
+D$(E1
+|$@I
+D$ N
+t$ N
+T$8A
+L$ H
+l$XM
+D$09
+d$TD
+t$8H
+D$@Hk
+T$XH
+t$8f
+L9d$
+\$@A
+EL$@
+T$PH
+t$ H
+L9|$
+I+L$
+I9\$
+L;|$
+M+L$
+t$ L
+I+D$
+D9t$Tu
+T$ A
+D$@f
+d$(I
+d$(L
+\$0A
+|$@E
+|$@I
+L9d$
+L$0E
+M+L$
+I;\$
+L;|$
+D$0L
+L$(L
+t$@I
+I+T$
+I;\$
+D$8L
+\$0L
+D$8L
+\$0L
+L$(A
+l$@L
+|$XM
+l$`I
+T$`A
+D$XA
+l$0M
+M+T$
+D$(I
+I9\$
+D$DH
+|$(L
+D;t$8
+t$XH+r
+\$0M
+L$(I
+M+L$
+I9\$
+t$DL
+T$(L
+D9t$8
+|$XL
+l$`A
+I+T$
+M;\$
+L$@M
+\$xE
+\$8H
+D$@I
+L9|$
+|$XL
+l$`A
+D$@E1
+D$xL
+L$@A
+D$pH
+\$xH)
+\$`1
+D$0E9F
+t$@D
+D$@D
+l$XL
+L$@D
+T$PH
+t$ L
+D$@f
+D9D$T
+t$`1
+t$`H
+\$pt
+L$pH
+t$xH
+T$pA
+L$xL
+L$h1
+t$hH
+|$pL
+L$xt
+L$xH
+T$xL
+A[XA
+AWAVI
+AUATI
+[]A\A]A^A_
+AUATH
+GPUSH
+tuH9j(t~f
+[]A\A]
+J(H9)t
+X[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+T$(E1
+t`H;
+t#H;
+AVAUA
+ATUSD
+[]A\A]A^
+ATUA
+[]A\
+ATUSL
+l$`H
+tbH;
+L$`@
+[]A\
+u+H;
+D$`@
+v)H;
+[]A\
+AWAVI
+AUATA
+IcU$
+IcU$
+IcU$
+D:|$
+[]A\A]A^A_
+\$(D
+T$ A
+T$HL
+\$0H
+D$@H
+L$@H
+\$0H
+T$ D
+\$(L
+\$0L
+T$ H
+|$(I
+D$0L9D$ H
+H9D$
+t$8M
+L$PH
+\$dD
+D$\H
+|$(L
+|$PL
+D$@H
+t$@D
+\$0A
+L$HH
+T$@H
+T$0L
+L$@H
+D$\D
+T$`D
+\$dD
+|$8H
+t$(D
+D$0H9D$ H
+|$(A
+H9|$
+AWAVAUATUSH
+[]A\A]A^A_
+AQSD
+AWAV
+AUAT
+d$ I
+[]A\A]A^A_
+T$(L
+l$ L
+AWAVAUATUSH
+\t}@
+E<D;E@
+[]A\A]A^A_
+e L9
+u<;u@M
+?tiM
+AWAVH
+AUATUSH
+_0M;
+W	Ek
+tMAk
+[]A\A]A^A_
+ I9?s4H
+P M9
+G<fA
+W	Ek
+E;C<
+G H9
+O M9
+<=tB
+<>tT
+AWAVAUATL
+M0H;9
+[]A\A]A^A_
+} M9}
+p H9
+E;H<
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVAUATUSH
+|$0A
+\$8I
+3M94$
+[]A\A]A^A_
+I9|$ 
+\t,A
+G I9
+w L9
+I9_ 
+w<A;w@I
+V I9V
+L$ I9L$
+O<E;O@
+I+T$
+A+0A
+A+L$
+T$8D
+t$ M9t$
+\$8M
+|$0H
+3M;4$
+A+L$
+|$8A
+AVAUA
+ATUI
+s	[]A\A]A^
+u H9u
+|$(H
+V<t2PARD
+AVAUATUI
+3[]A\A]A^
+AWAVH
+AUATI
+\tVE9
+\$@M
+[]A\A]A^A_
+t$@M
+D$@L
+AVAUI
+[]A\A]A^
+AWAVI
+AUATI
+D$pD
+L$XA
+8[]A\A]A^A_
+T$`M
+T$XH
+\$hD
+t$pE
+l$tC
+l$tA
+D9D$
+T$,D
+\$(H
+L$ D
+L$ D
+\$(D
+I9D$ 
+McL$0I
+t$ M
+D$pI
+|$XI
+|$XH
+AWAVI
+AUATA
+u]D9s
+D$ L
+8[]A\A]A^A_
+D;T$
+D$,D
+\$(L
+L$ D
+\$(D
+H9u 
+HcE0L
+AWAVI
+AUATI
+C<$H
+D$pH
+l$4M9
+\t|H
+\tmH
+\t^H
+\tOH
+k	I9
+{	\t@H
+\t1H
+\t"H
+L$ H)
+L$pH
+L$ H
+L$p1
+[]A\A]A^A_
+T$(D
+L$pD
+L$ H
+L$ H
+t$OH
+D$O	
+|$(A
+AWAVI
+AUATD
+D$pH
+T$(M
+D$,H
+ZYym
+8[]A\A]A^A_
+AWAVAUATSH
+Q(teH
+D$	I
+[A\A]A^A_]
+t"H)
+AWAVH
+AUATH
+p $A1
+QZ^&1
+L9\$
+[]A\A]A^A_
+AVAUATI
+ccXXXXXXH
+[]A\A]A^
+AUATA
+[]A\A]
+AWAVI
+AUATI
+t$xE
+T$8Rj
+s0Hc
+C8Hc[0
+8[]A\A]A^A_
+t$xL
+T$8RAPL
+|$8ARH
+Hcs0H
+AWAVAUATI
+Hcw0
+9wPt&H
+{PD;{0|3Hcs09
+s@Hc
+([]A\A]A^A_
+ARE1
+L$(A
+A[A]
+D;k0}r
+[@E1
+L$(A
+AXAY
+D;k0|%
+Hcs0
+kPHcs0
+ARAVE1
+L$(A
+D;k0}
+WAVH
+S@E1
+P AXAYL
+D;k0
+ATUSH
+[]A\
+L$8L
+D$ D
+t$8H
+t$8H
+t$8H
+AVAUI
+ATUA
+AUATM
+[]A\A]
+ATUI
+USHc
+AWAVAUATA
+[]A\A]A^A_
+COLLECT_
+GCC=H
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+;tVE
+USHc
+ATUH
+[]A\
+$tCH
+AWAVAUATSPH
+[A\A]A^A_]
+ATUS
+[]A\
+ATUI
+[]A\
+AWAVAUATE
+x[]A\A]A^A_
+AWAVI
+AUATA
+l$`L
+*QATSAUUAVD
+L$LD
+L$@H
+t$0H
+t$pE
+t$xL
+UAUD
+L$8H
+([]A\A]A^A_
+ATUSD
+\$8L
+l$HL
+l$PH
+l$HL
+[]A\A]A^
+uZLk
+l$HL
+[]A\A]A^A
+[]A\A]A^
+AWAVAUATA
+X[]A\A]A^A_
+AWAV
+AUATI
+|$XH
+t$(Hk
+L$8L
+D$ H
+T$XD
+\$(O
+T$tI
+T$tI
+-Ep(
+52p(
+u}E1
+L$HH
+|$0H
+T$tI
+D+d$
+\$PH
+t$0H
+T$PL
+D$HL
+|$0L)
+t$ H
+t$8L
+\$@E1
+G>@u
+A>@u
+|$ E
+\$8L
+d$@H
+[]A\A]A^A_
+l$ H
+\$HL
+D$0L
+\$HL
+D$0E
+T$tL
+D$0L
+T$tI
+D$0L
+AWAVAUATI
+uYLk
+([]A\A]A^A_
+F>@u
+AVAUI
+ATUH
+[]A\A]A^
+=bg(
+=Fg(
+AWAV
+AUATI
+Z[]A\A]A^A_
+AUATI
+T$0H
+T$ H
+t$(L
+D$@1
+L$8I
+\$ A
+[]A\A]
+AWAVAUATI
+[A\A]A^A_]
+AWAVI
+AUATI
+T$hHk
+t$pI
+^_Mk
+t$pL
+L$,D
+L$$H
+([]A\A]A^A_
+AWAVLc
+AUATMk
+XUSH
+D$Bf
+u+Ik
+([]A\A]A^A_
+MPD	
+ATUI
+p[]A\
+AWAVAUATUSHk
+X[]A\A]A^A_
+AWAVAUATUSARH
+[]A\A]A^A_
+AQAPA
+t$HE
+AVAUE
+t$HE
+AVAUE
+t$HE
+AVAUE
+t$HE
+AVAUE
+t$HE
+AVAUE
+t$HE
+AVAUE
+t$HE
+AVAUE
+t$HE
+AVAUE
+t$HE
+AVAUE
+t$HE
+AVAUE
+u9E1
+t$HE
+AVAUA
+t$HE
+AVAUA
+AQAPA
+t$HE
+AVAUA
+t$HE
+AVAUE
+t$HE
+AVAUE
+t$HE
+AVAUE
+t$HE
+AVAUE
+t$HE
+alula
+AVAUA
+t$HE
+AVAUE
+t$HE
+AVAUE
+AUATE
+[]A\A]
+t$H1
+\$HE
+t$HE
+D$H1
+T$HR
+=Hg(
+t$HE
+t$H1
+t$HE
+|$H1
+T$HH
+t$H1
+\$HE
+=df(
+t$HE
+D$H1
+T$HR
+t$HE
+L$HQ1
+t$H1
+T$HE
+t$H1
+\$HE
+D$HP
+t$HE
+T$H@
+t$HE
+|$H1
+D$HH
+t$HE
+L$H1
+T$HE
+t$HE
+\$HE
+D$HP
+t$HE
+T$HE
+t$HE
+t$HA
+|$HH
+t$HE
+L$H1
+T$HE
+t$HE
+\$HE
+D$HP
+t$HE
+L$HA
+t$H1
+t$HE
+|$H1
+D$HH
+t$HE
+L$H1
+T$HE
+t$HE
+\$HE
+D$HP
+t$HE
+T$HE
+t$HE
+t$HE
+|$HH
+t$H1
+L$HE
+t$HE
+T$HE
+\$HAS
+t$HE
+D$HE
+T$HR
+t$HE
+L$HE
+t$H1
+t$HE
+|$H1
+D$HH
+t$HE
+L$HA
+\$HE
+t$HE
+T$HR
+t$HE
+t$HE
+|$HH
+t$HE
+D$H1
+T$HE
+t$HE
+L$H1
+\$HE
+t$HE
+T$HR
+t$HE
+t$HE
+|$HH
+t$HE
+D$H1
+T$HE
+t$H1
+\$HE
+t$HE
+D$HE
+T$HR
+AUATE
+[]A\A]
+t$H1
+D$HH
+t$H1
+L$HE
+T$HE
+t$HE
+D$HP
+t$HE
+L$HE
+t$H1
+t$HE
+|$H1
+D$HH
+t$HE
+L$H1
+T$HE
+t$HE
+\$HE
+D$HP
+t$HE
+T$HE
+t$HE
+t$HE
+|$HH
+t$HE
+D$HA
+L$HE
+t$HE
+\$HE
+D$HP
+t$HE
+T$HE
+t$HE
+t$HE
+|$HH
+t$H1
+L$HE
+t$HE
+T$HE
+\$HAS
+t$HE
+D$HE
+T$HR
+t$HE
+L$HE
+t$H1
+t$HE
+|$H1
+D$HH
+t$HE
+L$H1
+T$HE
+t$HE
+\$HE
+D$HP
+t$HE
+T$HE
+t$HE
+t$HE
+|$HH
+t$H1
+L$HE
+t$HE
+\$HA
+D$HP
+t$HE
+T$H@
+t$HE
+|$H1
+D$HH
+t$HE
+L$H1
+T$HE
+t$HE
+\$HE
+D$HP
+t$HE
+T$H@
+t$HE
+|$H1
+D$HH
+t$HE
+L$H1
+T$HE
+t$H1
+L$HAQE
+t$HE
+\$H1
+D$HP
+=3U(
+t$HE
+T$HH
+t$HE
+t$H1
+|$HH
+t$H1
+L$HAQE
+=QT(
+t$HE
+\$H1
+D$HP
+t$HE
+d$H1
+T$HR
+L$HQ
+t$H1
+t$H1
+|$HH
+t$HE
+L$HA
+t$HE
+\$HE
+D$HP
+t$HE
+T$HE
+t$HE
+t$HE
+|$HH
+AUATUSVH
+jHH-
+[]A\A]
+AWAVAUATI
+=@Z(
+t_;{|tZH
+[A\A]A^A_]
+t$<H
+D$0M
+\$(H
+D$ M
+t$8H
+AWAVAUATUSH
+8HcF8
+HcS8I
+t1VAVI
+AWAUA
+8[]A\A]A^A_
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+T$ H
+AWAVAUATL
+l$,H
+[A\A]A^A_]
+T$0H
+L$8L
+D$@L
+T$ H
+x8;wD}3
+.AWAVLc
+AUAT
+USAPH
+Z[]A\A]A^A_
+ATUS
+T$pH
+L$xL
+T$`H
+-:R(
+l$HH
+t$(H
+[]A\
+AVAUI
+ATUI
+[]A\A]A^
+AVAUI
+ATUA
+[]A\A]A^
+L$xL
+L$`H
+l$HH
+t$(H
+[]A\
+L$xL
+L$`H
+l$HH
+t$(H
+[]A\
+HcSh
+AUATE1
+X[]A\A]
+AUATI
+Z[]A\A]
+5l-(
+AWAVI
+AUATUSH
+H+SpH
+CpM)
+%t.M
+M9Gx
+I9wx
+GpL)
+D$0L
+M9Wx
+L9cx
+CpL)
+~^<q
+[]A\A]A^A_
+5J((
+T$8D
+\$0D
+L$,D
+\$0D
+L$,D
+D$+L
+5}'(
+L9sx
+kpH9
+CpL)
+M9_x
+wpH9
+gpI)
+t$0D
+d$,I
+AWAVAUATUSRH
+X[]A\A]A^A_
+4?I9u 
+AVAUATUSH
+L;c`I
+L;cx
+cp[]A\A]A^
+H9S 
+H9S 
+H;p 
+ATUA
+H9u r
+[]A\
+=/!(
+=}A(
+AVAUE1
+ATUA
+=@A(
+=1A(
+[]A\A]A^
+SHk_
+AWAVAUATUSH
+t$xE
+l$pI
+=W@(
+-I@(
+=^?(
+LcD$
+C@Mc
+L;K8
+L9s8r
+[]A\A]A^A_
+AWAVI
+AUATI
+S(H)
+{0I)
+H;{(s
+K8w-L
+dvuHk
+t6L9
+8[]A\A]A^A_
+dv1L+c
+USQH
+H;G t
+H9G0s
+K H;K(u%H
+AWAVAUATI
+[]A\A]A^A_
+CXZ[]
+AWAVA
+AUATA
+W 9W$
+ttIk
+[]A\A]A^A_
+D$(A
+A+L$
+tG;W8w=H
+ATUI
+[]A\
+ATUI
+[]A\
+AWAVAUATUSQ
+Z[]A\A]A^A_
+AUATUSARH
+t$0D
+Z[]A\A]
+AUATI
+[]A\A]
+AWAVAUATI
+vQMk
+vHIk
+[]A\A]A^A_
+AWAVAUATI
+r H92
+[A\A]A^A_]
+AWAVAUATSAPH
+JpPj
+C I9
+[A\A]A^A_]
+AVAUATUH
+[]A\A]A^
+[]A\
+AWAVA
+Z[]A\A]A^A_
+ATUI
+[]A\
+AWAVAUATI
+t,L)
+[A\A]A^A_]
+USHc
+AUATUSH
+vRH;
+X[]A\A]
+[]A\A]1
+AUATSPI
+[A\A]]
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+T$ H
+AWAVAUATI
+[A\A]A^A_]
+AUAT
+FhHk
+[]A\A]
+AWAVAUATI
+{8E1
+[A\A]A^A_]
+AUATI
+u3E1
+[]A\A]
+ATUS
+[]A\
+ATUS
+[]A\
+USAQH
+ATUA
+[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVAUATUSH
+8[]A\A]A^A_
+USVH
+AUATSPI
+[A\A]]
+ATUH
+[]A\
+AVAUATUH
+L$`L
+D$pL
+l$xH
+[]A\A]A^
+l$`H
+t$pH
+AVAUATUI
+t$PL
+uyE1
+\$PH
+l$XH
+|$ H
+L9l$
+L94$A
+\$PH
+l$XL
+L$aH
+[]A\A]A^
+AWAVAUATI
+D$HD
+[]A\A]A^A_
+L$8L
+t$0L
+T$0H
+T$8L
+D$0L
+.gchH
+T$PC
+4$H;p
+\$8H
+AVAU1
+ATUH
+/t	A
+]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+4'L)
+K0PM
+C(ZY
+[]A\A]A^A_
+H;V0u
+AVAUA
+]A\A]A^
+}(E1
+AUATUSAQ
+[]A\A]
+Y[]A\A]
+AVAUA
+ATUI
+[]A\A]A^
+L$(M
+O(E1
+V<E+
+AWAV1
+AUATI
+O<;O@t
+AVAUATU
+[]A\A]A^
+ATUI
+[]A\
+AUATI
+[]A\A]
+u_PH
+AUATI
+](L;]0L
+[]A\A]
+}(H;}0
+ATUI
+,$[]A\
+u.H)
+ATUI
+[]A\
+AUATUSH
+[]A\A]
+	t?I
+AVAUATA
+](I;]0
+E(M;E0
+}(M;}0
+[]A\A]A^A_
+C(H;C0
+{(H;{0
+K(L;K0
+A;l$
+[]A\
+AVAUI
+ATUI
+[]A\A]A^
+AWAVI
+AUATH
+d$ L
+t$(H
+l$0H
+|$0H
+D$(H
+|$ 1
+t$0H
+D$ A
+T$0L
+L$ L
+H[]A\A]A^A_
+AWAVAUATI
+[A\A]A^A_]
+AUATA
+Z[]A\A]
+:H;A
+[]A\
+AWAVMc
+AUATUS
+[]A\A]A^A_
+AVAUATUSH
+A Santa lives evil at NASA
+ []A\A]A^
+AWAV1
+AUATUSH
+L$0I
+|$8H
+|$8I;|$
+[]A\A]A^A_
+|$@H
+\$0L
+T$8D
+Lc|$PH
+|$$I
+L$(H
+L9L$
+AUATI
+H+D$
+L+D$
+([]A\A]
+[]A\
+USu]
+[]A\A]A^
+ATUH
+ATUS
+[]A\
+ATUH
+[]A\
+AWAVI
+AUAT1
+t$ H
+L$XH
+T$PH
+|$(L
+D$`L
+L$hL
+L$0H
+D$HA
+L$HL
+L+D$8
+t$(UAUAVD
+T$0H
+l$0L
+D$@L
+D$LE1
+D$LI
+l$@A
+L$xu
+t$(L
+\$ L
+l$PL
+t$XH
+t$`L
+D$hH
+[]A\A]A^A_
+AWAVAUATI
+O8L9
+AVAUI
+ATU1
+d$ L
+T$XA
+[]A\A]A^
+AWAVAUATI
+4$H9
+4/I9
+[]A\A]A^A_
+AWAVAUATI
+@v%@
+[]A\A]A^A_
+@vEI
+AUATI
+T3 H
+Z[]A\A]
+AUATI
+[]A\A]
+AWAVI
+AUATA
+USE1
+H[]A\A]A^A_
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+T$ H
+t$ H
+AUATI
+/w"A
+Z[]A\A]
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+T$ H
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+T$ H
+ATUI
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+T$ H
+t$ H
+[]A\
+ATUSH
+h &@
+AWAVI
+AUATI
+L$PL
+l$ A
+\$hM
+l$@I
+L$HH
+[]A\A]A^A_
+[]A\
+AWAVAUATI
+[]A\A]A^A_
+AWAV
+AUATA
+[]A\A]A^A_
+AVAUI
+ATUSH
+G(H+G0L
+uhI)M(I
+[]A\A]A^
+AUATI
+H+G0H
+X[]A\A]
+AVAUI
+ATUSH
+]A\A]A^
+AWAVAUATI
+[A\A]A^A_]
+AWAVI
+ATUSH
+Z[]A\A]A^A_
+t(USH
+ATUI
+[]A\
+AWAV1
+AUATI
+su2D
+[]A\A]A^A_
+tfvD<
+$uBH
+p< tMv+<@t7<Pt
+<0u'H
+AUAT1
+C(ty1
+[]A\A]
+ATUI
+[]A\
+AUATH
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+dH34%(
+[]A\A]A^A_
+D$Cue
+t$0H
+t$\L
+D$pH
+t$xL
+D$hH
+t}E1
+t$(H
+T$`D
+D$pI9
+raH9
+D$`H
+l$8E1
+D$HL
+D$Ct	M
+|$0L
+T$HL
+t$(H
+T$`H
+|$0L
+D$`H
+AVAUATUSH
+D$81
+fffdH
+fffdH
+5$~'
+++CCUNGH
+AWAVI
+AUATUSL
+D$`L
+d$hH9
+*tjH
+[]A\A]A^A_
+d$hL
+D$`I
+([]A\A]A^A_
+AUATI
+[]A\A]
+[]A\A]
+ATUI
+?*t 
+[]A\
+ATUA
+L;D$0H
+l$8tEH
+;*t#H
+[]A\
+;*tBH
+[]A\
+thAUATI
+8*t%L
+[]A\A]
+[]A\A]
+ATUSH
+LwcH
+D;O,}9Mc
+D;O,}
+AWAVAUE
+<Vt4<KuhI
+CP	D
+CP	D
+]A\A]A^A_
+u	<Fu
+[]A\A]A^A_
+Ot	H
+AUATI
+[]A\A]
+AUATL
+t=H=
+[]A\A]
+<	w`E1
+G(;G,}8Hc
+<_t*<nt6H
+J(A;J,}
+ATUSH
+	~?H
+$<;w
+}	Ntnf
+S(;S,|
+CH[]A\
+8Bu5H
+5J^'
+O,E1
+}/Hc
+}*Hc
+:Bt;[
+S8;S<}
+K0Hc
+8/u&
+tvATUH
+[]A\
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+AWAVAUATA
+@80ul
+dH34%(
+([]A\A]A^A_
+K(;K,}
+[]A\A]A^A_
+tt0H
+AUATUSH
+<ft8
+[]A\A]
+[]A\A]
+K(;K,
+[]A\A]
+A:D$
+<tt%H
+AUATUSH
+<Lt~~
+<XuhH
+:Et(1
+dH34%(
+[]A\A]
+[]A\A]
+AWAVI
+AUATUSH
+dH3<%(
+[]A\A]A^A_
+F8A;F<
+V0Hc
+A;F,}(Hc
+v(A;v,
+F8A;F<
+V0Hc
+St9I
+F8A;F<
+V0Hc
+F(A;F,}8Hc
+AWAVAUATUSH
+<'v!
+<JwqH
+8Ftr
+C8;C<|)1
+dH3<%(
+[]A\A]A^A_
+K0Hc
+S8;S<
+K0Hc
+S(;S,};Hc
+K H)
+S8;S<
+K0Hc
+S(;S,
+S(;S,
+S(;S,
+S(;S,
+S(;S,
+S(;S,
+K(;K,
+S(;S,
+S(;S,}:Hc
+:It*H
+S8;S<
+s0Hc
+D8	t
+W(;W,}
+M(;M,}
+uh<.tdH
+uB<.t><Rt
+Et0H
+dH3<%(
+)SPH
+AVUSH
+S(;S,
+C8;C<
+S0Hc
+t.[]A^
+[]A^
+S(;S,}<Hc
+C8;C<
+C(;C,
+C(;C,}YHc
+8Jt.1
+Yt)H
+ATUH
+[]A\
+[]A\
+E(;E,
+<Sty<_tn<$
+E(;E,}gHc
+S(;S,
+_t[1
+AWAVAUATUSH
+81uFH
+8>u3H
+[]A\A]A^A_
+D9d$
+D$8H
+D$0H
+T$0H
+D$8H
+D$0H
+D$0H
+D$0H
+D$0H
+T$0L
+D$HI
+\$@E
+D$0E
+Mcl$
+Mcl$
+t$PL
+t$PL
+L$PH
+D$hM
+D$`L
+D;d$
+tNH=
+t;H=
+D$(H
+T$ H
+T$ H
+T$0H
+D$8H
+D$0H
+D$8H
+D$ H
+tNH=
+w&H=
+t:H=
+t;H=
+t;H=
+Mcl$
+~6I;
+t]Hc
+gu(A
+D$8H
+D$8H
+D$ H
+D$8H
+D$8H
+tEH=
+D$0H
+D$0H
+T$@H
+D$0E
+D$0H
+D$0H
+<$=H
+D$0L
+D$0L
+l$8H
+D$0H
+AWAVA
+AUATI
+([]A\A]A^A_
+(t)H
+AWAVAUATI
+D$(1
+D$(dH3
+8[]A\A]A^A_
+AWAVAUATUSH
+D$X1
+D$XdH3
+h[]A\A]A^A_
+l$ H
+D$(H
+D$(A
+l$ H
+D$(L
+tPH=
+L$0H
+t`H=
+AVAUI
+ATUI
+ []A\A]A^
+AVAUATUSH
+:1tLH
+ []A\A]A^
+ATUA
+ []A\
+AWAVAUATI
+$<;w)H
+E	<D
+_t@1
+dH3<%(
+[A\A]A^A_]
+}LHc
+AVAUATUH
+D$(1
+L$(dH3
+0[]A\A]A^
+ tMv+@
+@t5@
+0u$H
+AWAVAUATI
+[A\A]A^A_]
+AWAVI
+AUATI
+IcD$
+}	eH
+|$(H
+T$(I
+8[]A\A]A^A_
+[]A\A]A^A_
+L$(H
+D$(I
+HHH)
+HPH)
+HXH)
+AWAVAUATUSH
+d$(I
+[]A\A]A^A_
+T$(H
+AWAVI
+AUAT
+|$@H
+t$ L
+D$ I
+D$ 1
+D$(L
+\$ M
+D$ L
+[]A\A]A^A_
+D$ H
+D$ L
+D$0t
+D$0H
+AUAT1
+[]A\A]
+AUATI
+I9L$
+[]A\A]
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+t4H9
+@uFI
+AWAVAUATL
+AWAVAUATI
+AWAVAUATH
+AWAVAUATSRH
+AWAVAUATL
+[A\A]A^A_]
+AWAVI
+AUATE
+([]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+ t=v
+0u%H
+ t=v
+0u%H
+AVAUI
+ATUI
+|$ H
+H94$
+[]A\A]A^
+}	zt
+<Rt&<Pu
+AWAVAUATI
+D$ E1
+D$(H
+D$ H
+T$(t
+D$ H
+T$(L
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+O H;
+X(M9
+/vHH
+X[]A\A]A^A_
+[]A\A]A^A_
+|$ H
+D$(H
+t$8H
+w	M9
+!NcD
+IcD$
+L$ D
+D$ H9E
+AUATI
+[]A\A]
+AWAVI
+AUATI
+USE1
+thIcG
+([]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATI
+([]A\A]A^A_
+AWAVAUATI
+X[]A\A]A^A_
+D$@E1
+d$ H
+D$8H
+D$@H9
+D$8H
+L$ H9
+D$Ht
+D$@I
+D$@H
+D$ t
+l$HM
+d$(H
+H9D$
+X[]A\A]A^A_
+|$ L
+D$@H
+D$8H
+D$@I9
+D$8I9
+d$(1
+D$@H
+T$HH
+D$ H
+H;D$
+D$HH
+|$@H
+D$HH
+D$@H
+D$@H
+F t2SH
+F t5SH
+t1SH
+ATUS
+t$H;h
+H;*twH
+[]A\
+[]A\
+AVAUI
+ATUH
+L;+r
+0[]A\A]A^
+D$ H
+AWAVA
+AUATL
+[]A\A]A^A_
+atexit failed
+. !m32 !m64 !mx32;
+m32 m32;
+/usr/lib/gcc/
+x86_64-linux-gnu
+BINUTILS
+/usr/lib/
+self_spec
+%:compare-debug-self-opt()
+GCC_EXEC_PREFIX
+/usr/bin/
+GCC_EXEC_PREFIX=
+COMPILER_PATH
+LIBRARY_PATH
+LPATH
+@%li%n
+/dev/null
+GCC_COMPARE_DEBUG
+../../src/gcc/gcc.c
+../../../../
+-fcompare-debug=
+help-dummy
+%s: %m
+-fcompare-debug=-gtoggle
+*%s:
+*link_command:
+5.4.0
+--version
+--help
+--target-help
+libgcc.a
+.bfd
+.gold
+%llu
+SOURCE_DATE_EPOCH
+disable
+Using built-in specs.
+cc1_cpu
+-lgcc
+-lgcc_eh
+libgcc.a%s
+libgcc_eh.a%s
+%{!r:--build-id} 
+%{!static:--eh-frame-hdr} 
+%{static|static-libgcc:
+}}}}
+%{!shared: 
+-lgcc_s
+ --as-needed 
+Reading specs from %s
+%include
+%include_noerr
+could not find specs file %s
+%rename
+rename spec %s to %s
+*link_command
+arch_32
+arch_64
+tune
+%(VALUE)
+--script
+spec %qs invalid
+-imultilib
+-imultiarch
+-iprefix
+-isysroot
+-isystem
+include-fixed
+multilib spec %qs is invalid
+lto-wrapper
+COLLECT_LTO_WRAPPER=
+OFFLOAD_TARGET_NAMES=
+install: %s%s
+programs: %s
+libraries: %s
+Usage: %s [options] file...
+Options:
+%s %s%s
+no input files
+language %s not recognized
+comparing final insns dumps
+%s: -fcompare-debug failure
+Target: %s
+Configured with: %s
+Thread model: %s
+gcc version %s %s
+collect2
+fno-use-linker-plugin
+liblto_plugin.so
+failed to get exit status: %m
+%s (program %s)
+DEB_BUILD_OPTIONS
+# %s %.2f %.2f
+%g %g
+-quiet
+-ftime-report
+-frandom-seed=0
+-fdump-noaddr
+.out
+.err
+/bin/cat %s >&2
+=== BEGIN GCC DUMP ===
+=== END GCC DUMP ===
+GCC_NOAPPORT
+malformed spec function name
+getenv
+if-exists
+if-exists-else
+replace-outfile
+remove-outfile
+version-compare
+unknown spec function %qs
+-plugin-opt=-pass-through=-l
+-plugin-opt=-pass-through=
+kernel-address
+undefined
+leak
+invalid version number %qs
+-iplugindir=
+%{c|S:%{o*:%*}}
+-auxbase-strip 
+%{fdump-final-insns=*:%*}
+%g.gkd
+-fdump-final-insns=
+/dev/urandom
+%#lx
+find-file
+find-plugindir
+print-asm-header
+compare-debug-dump-opt
+compare-debug-self-opt
+compare-debug-auxbase-opt
+pass-through-libs
+replace-extension
+local_cpu_detect
+asm_debug
+asm_final
+asm_options
+invoke_as
+cpp_options
+cpp_debug_options
+cpp_unique_options
+trad_capable_cpp
+cc1_options
+cc1plus
+link_gcc_c_sequence
+link_ssp
+ssp_default
+endfile
+link_gomp
+startfile
+cross_compile
+multilib_defaults
+multilib_extra
+multilib_matches
+multilib_exclusions
+multilib_options
+multilib_reuse
+linker_plugin_file
+lto_wrapper
+lto_gcc
+link_libgcc
+md_exec_prefix
+md_startfile_prefix
+md_startfile_prefix_1
+startfile_prefix_spec
+sysroot_spec
+sysroot_suffix_spec
+sysroot_hdrs_suffix_spec
+#Objective-C
+#Objective-C++
+.mii
+#C++
+.cxx
+.cpp
+.c++
+.CPP
+.ads
+#Ada
+.adb
+#Fortran
+.for
+.FOR
+.ftn
+.FTN
+.fpp
+.FPP
+.f90
+.F90
+.f95
+.F95
+.f03
+.F03
+.f08
+.F08
+#Ratfor
+#Pascal
+.pas
+.java
+#Java
+.class
+.zip
+.jar
+@c-header
+@cpp-output
+@assembler
+@assembler-with-cpp
+@ada
+@adawhy
+@adascil
+@c++
+@c++-header
+.hpp
+.hxx
+.h++
+.HPP
+.tcc
+-D_GNU_SOURCE %(cpp)
+@c++-cpp-output
+@f77-cpp-input
+@f77
+@f95-cpp-input
+@f95
+@java
+@lto
+@objective-c
+@objective-c-header
+@objective-c-cpp-output
+@objc-cpp-output
+@objective-c++
+@objective-c++-header
+@objective-c++-cpp-output
+@objc++-cpp-output
+tune_32
+tune_64
+cpu_32
+cpu_64
+%{!march=*:-march=%(VALUE)}
+%{fgnu-tm: -pthread}
+%{fcilkplus: -pthread}
+%{d*}
+--sysroot=%R
+generic
+i686
+x86-64
+m32/m64/mx32
+m64 m64;
+mx32 mx32;
+spec failure: more than one arg to SYSROOT_SUFFIX_SPEC
+spec failure: more than one arg to SYSROOT_HEADERS_SUFFIX_SPEC
+multilib exclusions %qs is invalid
+multilib select %qs %qs is invalid
+-pipe ignored because -save-temps specified
+%<-x %s%> after last input file has no effect
+input file %qs is the same as output file
+%qs is an unknown -save-temps option
+GCC is not configured to support %s as offload target
+%{march=native:%>march=native %:local_cpu_detect(arch)   %{!mtune=*:%>mtune=native %:local_cpu_detect(tune)}} %{mtune=native:%>mtune=native %:local_cpu_detect(tune)}
+unrecognized command line option %qs
+}%{!static:%{!static-libgcc:%{!shared-libgcc:
+ --no-as-needed}%{shared-libgcc:
+specs %%rename syntax malformed after %ld characters
+%s: attempt to rename spec %qs to already defined spec %qs
+specs unknown %% command after %ld characters
+specs file malformed after %ld characters
+spec file has no spec for linking
+specs %%include syntax malformed after %ld characters
+specs %s spec was not found to be renamed
+unable to locate default linker script %qs in the library search paths
+switch %qs does not start with %<-%>
+spec-generated switch is just %<-%>
+spec %qs has invalid %<%%0%c%>
+spec %qs has invalid %<%%W%c%>
+spec %qs has invalid %<%%x%c%>
+spec failure: %<%%*%> has not been initialized by pattern match
+spec failure: unrecognized spec option %qc
+could not open temporary response file %s
+could not write to temporary response file %s
+could not close temporary response file %s
+braced spec body %qs is invalid
+braced spec %qs is invalid at %qc
+system path %qs is not absolute
+unrecognized command line option %<-%s%>
+multilib select %qs is invalid
+multilib exclusion %qs is invalid
+not configured with sysroot headers suffix
+  -pass-exit-codes         Exit with highest error code from a phase
+  --help                   Display this information
+  --target-help            Display target specific command line options
+  --help={common|optimizers|params|target|warnings|[^]{joined|separate|undocumented}}[,...]
+                           Display specific types of command line options
+  (Use '-v --help' to display command line options of sub-processes)
+  --version                Display compiler version information
+  -dumpspecs               Display all of the built in spec strings
+  -dumpversion             Display the version of the compiler
+  -dumpmachine             Display the compiler's target processor
+  -print-search-dirs       Display the directories in the compiler's search path
+  -print-libgcc-file-name  Display the name of the compiler's companion library
+  -print-file-name=<lib>   Display the full path to library <lib>
+  -print-prog-name=<prog>  Display the full path to compiler component <prog>
+  -print-multiarch         Display the target's normalized GNU triplet, used as
+                           a component in the library path
+  -print-multi-directory   Display the root directory for versions of libgcc
+  -print-multi-lib         Display the mapping between command line options and
+                           multiple library search directories
+  -print-multi-os-directory Display the relative path to OS libraries
+  -print-sysroot           Display the target libraries directory
+  -print-sysroot-headers-suffix Display the sysroot suffix used to find headers
+  -Wa,<options>            Pass comma-separated <options> on to the assembler
+  -Wp,<options>            Pass comma-separated <options> on to the preprocessor
+  -Wl,<options>            Pass comma-separated <options> on to the linker
+  -Xassembler <arg>        Pass <arg> on to the assembler
+  -Xpreprocessor <arg>     Pass <arg> on to the preprocessor
+  -Xlinker <arg>           Pass <arg> on to the linker
+  -save-temps              Do not delete intermediate files
+  -save-temps=<arg>        Do not delete intermediate files
+  -no-canonical-prefixes   Do not canonicalize paths when building relative
+                           prefixes to other gcc components
+  -pipe                    Use pipes rather than intermediate files
+  -time                    Time the execution of each subprocess
+  -specs=<file>            Override built-in specs with the contents of <file>
+  -std=<standard>          Assume that the input sources are for <standard>
+  --sysroot=<directory>    Use <directory> as the root directory for headers
+                           and libraries
+  -B <directory>           Add <directory> to the compiler's search paths
+  -v                       Display the programs invoked by the compiler
+  -###                     Like -v but options quoted and commands not executed
+  -E                       Preprocess only; do not compile, assemble or link
+  -S                       Compile only; do not assemble or link
+  -c                       Compile and assemble, but do not link
+  -o <file>                Place the output into <file>
+  -pie                     Create a position independent executable
+  -shared                  Create a shared library
+  -x <language>            Specify the language of the following input files
+                           Permissible languages include: c c++ assembler none
+                           'none' means revert to the default behavior of
+                           guessing the language based on the file's extension
+Options starting with -g, -f, -m, -O, -W, or --param are automatically
+ passed on to the various sub-processes invoked by %s.  In order to pass
+ other options on to these processes the -W<letter> options must be used.
+For bug reporting instructions, please see:
+Copyright %s 2015 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+cannot specify -o with -c, -S or -E with multiple files
+%s: %s compiler not installed on this system
+recompiling with -fcompare-debug
+during -fcompare-debug recompilation
+%s: -fcompare-debug failure (length)
+%s: could not open compare-debug file %s
+%s: could not determine length of compare-debug file %s
+gcc driver version %s %sexecuting gcc version %s
+-fuse-linker-plugin, but %s not found
+Linker options
+==============
+Use "-Wl,OPTION" to pass "OPTION" to the linker.
+%s: linker input file unused because linking not done
+failed to get process times: %m
+The bug is not reproducible, so it is likely a hardware or OS problem.
+Preprocessed source stored into %s file, please attach this to your bugreport.
+/usr/share/apport/gcc_ice_hook
+/usr/share/apport/gcc_ice_hook %s %s
+error in args to spec function %qs
+no arguments for spec function
+malformed spec function arguments
+For bug reporting instructions, please see:
+too few arguments to %%:replace-extension
+too few arguments to %%:compare-debug-auxbase-opt
+too many arguments to %%:compare-debug-auxbase-opt
+argument to %%:compare-debug-auxbase-opt does not end in .gk
+Assembler options
+=================
+Use "-Wa,OPTION" to pass "OPTION" to the assembler.
+^([1-9][0-9]*|0)(\.([1-9][0-9]*|0))*$
+too few arguments to %%:version-compare
+too many arguments to %%:version-compare
+unknown operator %qs in %%:version-compare
+environment variable %qs not defined
+too many arguments to %%:compare-debug-self-opt
+%<o %<MD %<MMD %<MF* %<MG %<MP %<MQ* %<MT* %<fdump-final-insns=* -w -S -o %j %{!fcompare-debug-second:-fcompare-debug-second} 
+too many arguments to %%:compare-debug-dump-opt
+%{o*:%*}%{!o:%{!S:%b%O}%{S:%b.s}}
+%{!frandom-seed=*:-frandom-seed=
+%{E|M|MM:%(trad_capable_cpp) %(cpp_options) %(cpp_debug_options)}      %{!E:%{!M:%{!MM:          %{traditional:%eGNU C no longer supports -traditional without -E}      %{save-temps*|traditional-cpp|no-integrated-cpp:%(trad_capable_cpp) 	  %(cpp_options) -o %{save-temps*:%b.i} %{!save-temps*:%g.i} 
+	    cc1 -fpreprocessed %{save-temps*:%b.i} %{!save-temps*:%g.i} 	  %(cc1_options) %(ssp_default)}      %{!save-temps*:%{!traditional-cpp:%{!no-integrated-cpp:	  cc1 %(cpp_unique_options) %(cc1_options) %(ssp_default)}}}      %{!fsyntax-only:%(invoke_as)}}}}
+%{!E:%e-E or -x required when input is from standard input}    %(trad_capable_cpp) %(cpp_options) %(cpp_debug_options)
+%{E|M|MM:%(trad_capable_cpp) %(cpp_options) %(cpp_debug_options)}      %{!E:%{!M:%{!MM:	  %{save-temps*|traditional-cpp|no-integrated-cpp:%(trad_capable_cpp) 		%(cpp_options) -o %{save-temps*:%b.i} %{!save-temps*:%g.i} 
+		    cc1 -fpreprocessed %{save-temps*:%b.i} %{!save-temps*:%g.i} 			%(cc1_options)                        %{!fdump-ada-spec*:-o %g.s %{!o*:--output-pch=%i.gch}                        %W{o*:--output-pch=%*}}%V}	  %{!save-temps*:%{!traditional-cpp:%{!no-integrated-cpp:		cc1 %(cpp_unique_options) %(cc1_options)                    %{!fdump-ada-spec*:-o %g.s %{!o*:--output-pch=%i.gch}                    %W{o*:--output-pch=%*}}%V}}}}}}
+%{!M:%{!MM:%{!E:cc1 -fpreprocessed %i %(cc1_options) %(ssp_default) %{!fsyntax-only:%(invoke_as)}}}}
+%{!M:%{!MM:%{!E:%{!S:as %(asm_debug) %(asm_options) %i %A }}}}
+%(trad_capable_cpp) -lang-asm %(cpp_options) -fno-directives-only      %{E|M|MM:%(cpp_debug_options)}      %{!M:%{!MM:%{!E:%{!S:-o %|.s |
+       as %(asm_debug) %(asm_options) %m.s %A }}}}
+ %{pg:%{fomit-frame-pointer:%e-pg and -fomit-frame-pointer are incompatible}} %{!S:%{!c:%e-c or -S required for Ada}} gnat1 %{I*} %{k8:-gnatk8} %{Wall:-gnatwa} %{w:-gnatws} %{!Q:-quiet}    %{nostdinc*} %{nostdlib*}    -dumpbase %{.adb:%b.adb}%{.ads:%b.ads}%{!.adb:%{!.ads:%b.ada}}    %{c|S:%{o*:-auxbase-strip %*}%{!o*:-auxbase %b}}%{!c:%{!S:-auxbase %b}}     %{O*} %{W*} %{w} %{p} %{pg:-p} %{d*} %{f*}    %{coverage:-fprofile-arcs -ftest-coverage} %{gnatea:-gnatez} %{g*&m*} %{fRTS=rtp:-mrtp} %{fRTS=rtp-smp:-mrtp} %{fRTS=ravenscar-cert-rtp:-mrtp}%1 %{!S:%{o*:%w%*-gnatO}}     %i %{S:%W{o*}%{!o*:-o %b.s}}     %{gnatc*|gnats*: -o %j} %{-param*}     %{!gnatc*:%{!gnats*:%(invoke_as)}}
+ %{!c:%e-c required for gnat2why} gnat1why %{I*} %{k8:-gnatk8} %{!Q:-quiet}    %{nostdinc*} %{nostdlib*}    -dumpbase %{.adb:%b.adb}%{.ads:%b.ads}%{!.adb:%{!.ads:%b.ada}}    %{o*:-auxbase-strip %*}%{!o*:-auxbase %b}     %{a} %{d*} %{f*}     %{gnatea:-gnatez} %{g*&m*}     %1 %{o*:%w%*-gnatO}     %i     %{gnatc*|gnats*: -o %j} %{-param*} 
+ %{!c:%e-c required for gnat2scil} gnat1scil %{I*} %{k8:-gnatk8} %{!Q:-quiet}    %{nostdinc*} %{nostdlib*}    -dumpbase %{.adb:%b.adb}%{.ads:%b.ads}%{!.adb:%{!.ads:%b.ada}}    %{o*:-auxbase-strip %*}%{!o*:-auxbase %b}     %{a} %{d*} %{f*}     %{gnatea:-gnatez} %{g*&m*}     %1 %{o*:%w%*-gnatO}     %i     %{gnatc*|gnats*: -o %j} %{-param*} 
+%{E|M|MM:cc1plus -E %(cpp_options) %2 %(cpp_debug_options)}     %{!E:%{!M:%{!MM:       %{save-temps*|no-integrated-cpp:cc1plus -E		%(cpp_options) %2 -o %{save-temps*:%b.ii} %{!save-temps*:%g.ii} 
+}      cc1plus %{save-temps*|no-integrated-cpp:-fpreprocessed %{save-temps*:%b.ii} %{!save-temps*:%g.ii}}	      %{!save-temps*:%{!no-integrated-cpp:%(cpp_unique_options)}}	%(cc1_options) %(ssp_default) %2	%{!fsyntax-only:%{!fdump-ada-spec*:-o %g.s %{!o*:--output-pch=%i.gch}        %W{o*:--output-pch=%*}}%V}}}}
+%{E|M|MM:cc1plus -E %(cpp_options) %2 %(cpp_debug_options)}     %{!E:%{!M:%{!MM:       %{save-temps*|no-integrated-cpp:cc1plus -E		%(cpp_options) %2 -o %{save-temps*:%b.ii} %{!save-temps*:%g.ii} 
+}      cc1plus %{save-temps*|no-integrated-cpp:-fpreprocessed %{save-temps*:%b.ii} %{!save-temps*:%g.ii}}	      %{!save-temps*:%{!no-integrated-cpp:%(cpp_unique_options)}}	%(cc1_options) %(ssp_default) %2       %{!fsyntax-only:%(invoke_as)}}}}
+%{!M:%{!MM:%{!E:    cc1plus -fpreprocessed %i %(cc1_options) %(ssp_default) %2    %{!fsyntax-only:%(invoke_as)}}}}
+%{!E:cc1d %i %(cc1_options) %(cc1d) %I %{nostdinc*} %{+e*} %{I*} %{J*}    %{M} %{MM} %{v} %{!fsyntax-only:%(invoke_as)}}
+f951 %i %{!ffree-form:-ffixed-form} %{!nocpp: -cpp=%g.f90 %{E} %(cpp_unique_options) 			     %{E|M|MM:%(cpp_debug_options) %1 %{m*} %{f*} %{g*:%{!g0:%{g*} 			     %{!fno-working-directory:-fworking-directory}}} 			     %{std*&ansi&trigraphs} %{W*&pedantic*} %{w} 			     %{O*} %{undef} -fsyntax-only};: %{i*} %{I*} %{M*}} %{!E:%(cc1_options) %{J*} 			     %{!nostdinc:-fintrinsic-modules-path finclude%s}			     %{!fsyntax-only:%(invoke_as)}}
+f951 %i %{!ffree-form:-ffixed-form}           %{E:%{!cpp:%egfortran does not support -E without -cpp}}           %{cpp:%{!nocpp: -cpp=%g.f90 %{E} %(cpp_unique_options) 			     %{E|M|MM:%(cpp_debug_options) %1 %{m*} %{f*} %{g*:%{!g0:%{g*} 			     %{!fno-working-directory:-fworking-directory}}} 			     %{std*&ansi&trigraphs} %{W*&pedantic*} %{w} 			     %{O*} %{undef} -fsyntax-only};: %{i*} %{I*} %{M*}};: %{i*} %{I*} %{M*}} 	  %{!E:%(cc1_options) %{J*} 			     %{!nostdinc:-fintrinsic-modules-path finclude%s}			     %{!fsyntax-only:%(invoke_as)}}
+f951 %i %{!nocpp: -cpp=%g.f90 %{E} %(cpp_unique_options) 			     %{E|M|MM:%(cpp_debug_options) %1 %{m*} %{f*} %{g*:%{!g0:%{g*} 			     %{!fno-working-directory:-fworking-directory}}} 			     %{std*&ansi&trigraphs} %{W*&pedantic*} %{w} 			     %{O*} %{undef} -fsyntax-only};: %{i*} %{I*} %{M*}} %{!E:%(cc1_options) %{J*} 			     %{!nostdinc:-fintrinsic-modules-path finclude%s}			     %{!fsyntax-only:%(invoke_as)}}
+f951 %i %{E:%{!cpp:%egfortran does not support -E without -cpp}}	  %{cpp:%{!nocpp: -cpp=%g.f90 %{E} %(cpp_unique_options) 			     %{E|M|MM:%(cpp_debug_options) %1 %{m*} %{f*} %{g*:%{!g0:%{g*} 			     %{!fno-working-directory:-fworking-directory}}} 			     %{std*&ansi&trigraphs} %{W*&pedantic*} %{w} 			     %{O*} %{undef} -fsyntax-only};: %{i*} %{I*} %{M*}};:  %{i*} %{I*} %{M*}} 	  %{!E:%(cc1_options) %{J*} 			     %{!nostdinc:-fintrinsic-modules-path finclude%s}			     %{!fsyntax-only:%(invoke_as)}}
+go1 %i %(cc1_options) %{I*} %{L*} %D %{!fsyntax-only:%(invoke_as)}
+%{fjni:%{femit-class-files:%e-fjni and -femit-class-files are incompatible}}    %{fjni:%{femit-class-file:%e-fjni and -femit-class-file are incompatible}}    %{femit-class-file:%{!fsyntax-only:%e-femit-class-file should used along with -fsyntax-only}}    %{femit-class-files:%{!fsyntax-only:%e-femit-class-file should used along with -fsyntax-only}}    %{E:%{e-E is not valid for gcj}}    %{.java|fsaw-java-file:ecj1 %i %{W*} %{w} %{g*}			      %{fbootclasspath*}						      %{fenable-assertions*}						      %{fdisable-assertions*}						      %{fencoding*} %{ffilelist-file}					      %{foutput-class-dir*} %{g*}					      %{fsource*} %{!fsource*:-fsource=1.5}				      %{ftarget*} %{!femit-class-files|!ftarget*:-ftarget=1.5}		      %{!findirect-dispatch:-fzip-dependency %U.zip}			      %{!fsyntax-only:-fzip-target %U.jar}}
+				    %{.class|.zip|.jar|!fsyntax-only:jc1				      %{.java|fsaw-java-file:%U.jar -fsource-filename=%i %<ffilelist-file}       %{.class|.zip|.jar|ffilelist-file|fcompile-resource*:%i}		      %(jc1) %(cc1_options) %{I*} %{!findirect-dispatch:-faux-classpath %U.zip}       %{MD:-MD_} %{MMD:-MMD_} %{M} %{MM} %{MA} %{MT*} %{MF*}      %(invoke_as)}
+lto1 %(cc1_options) %i %{!fsyntax-only:%(invoke_as)}
+%{E|M|MM:cc1obj -E %{traditional|traditional-cpp:-traditional-cpp}          %(cpp_options) %(cpp_debug_options)}      %{!E:%{!M:%{!MM:	%{traditional|traditional-cpp:%eGNU Objective C no longer supports traditional compilation}	%{save-temps*|no-integrated-cpp:cc1obj -E %(cpp_options) -o %{save-temps*:%b.mi} %{!save-temps*:%g.mi} 
+	    cc1obj -fpreprocessed %{save-temps*:%b.mi} %{!save-temps*:%g.mi} %(cc1_options) %(ssp_default) %{print-objc-runtime-info} %{gen-decls}}	%{!save-temps*:%{!no-integrated-cpp:	    cc1obj %(cpp_unique_options) %(cc1_options) %(ssp_default) %{print-objc-runtime-info} %{gen-decls}}}        %{!fsyntax-only:%(invoke_as)}}}}
+%{E|M|MM:cc1obj -E %{traditional|traditional-cpp:-traditional-cpp}          %(cpp_options) %(cpp_debug_options)}      %{!E:%{!M:%{!MM:	%{traditional|traditional-cpp:%eGNU Objective C no longer supports traditional compilation}	%{save-temps*|no-integrated-cpp:cc1obj -E %(cpp_options) -o %{save-temps*:%b.mi} %{!save-temps*:%g.mi} 
+	    cc1obj -fpreprocessed %b.mi %(cc1_options) %(ssp_default) %{print-objc-runtime-info} %{gen-decls}                        -o %g.s %{!o*:--output-pch=%i.gch}                        %W{o*:--output-pch=%*}%V}	%{!save-temps*:%{!no-integrated-cpp:	    cc1obj %(cpp_unique_options) %(cc1_options) %(ssp_default) %{print-objc-runtime-info} %{gen-decls}                        -o %g.s %{!o*:--output-pch=%i.gch}                        %W{o*:--output-pch=%*}%V}}}}}
+%{!M:%{!MM:%{!E:cc1obj -fpreprocessed %i %(cc1_options) %(ssp_default) %{print-objc-runtime-info} %{gen-decls}			     %{!fsyntax-only:%(invoke_as)}}}}
+%nobjc-cpp-output is deprecated; please use objective-c-cpp-output instead
+       %{!M:%{!MM:%{!E:cc1obj -fpreprocessed %i %(cc1_options) %(ssp_default) %{print-objc-runtime-info} %{gen-decls}			     %{!fsyntax-only:%(invoke_as)}}}}
+%{E|M|MM:cc1objplus -E %(cpp_options) %2 %(cpp_debug_options)}     %{!E:%{!M:%{!MM:       %{save-temps*|no-integrated-cpp:cc1objplus -E		%(cpp_options) %2 -o %{save-temps*:%b.mii} %{!save-temps*:%g.mii} 
+}      cc1objplus %{save-temps*|no-integrated-cpp:-fpreprocessed %{save-temps*:%b.mii} %{!save-temps*:%g.mii}}	      %{!save-temps*:%{!no-integrated-cpp:%(cpp_unique_options)}}	%(cc1_options) %(ssp_default) %2        -o %g.s %{!o*:--output-pch=%i.gch} %W{o*:--output-pch=%*}%V}}}
+%{E|M|MM:cc1objplus -E %(cpp_options) %2 %(cpp_debug_options)}     %{!E:%{!M:%{!MM:       %{save-temps*|no-integrated-cpp:cc1objplus -E		%(cpp_options) %2 -o %{save-temps*:%b.mii} %{!save-temps*:%g.mii} 
+}      cc1objplus %{save-temps*|no-integrated-cpp:-fpreprocessed %{save-temps*:%b.mii} %{!save-temps*:%g.mii}}	      %{!save-temps*:%{!no-integrated-cpp:%(cpp_unique_options)}}	%(cc1_options) %(ssp_default) %2       %{!fsyntax-only:%(invoke_as)}}}}
+%{!M:%{!MM:%{!E:    cc1objplus -fpreprocessed %i %(cc1_options) %(ssp_default) %2    %{!fsyntax-only:%(invoke_as)}}}}
+%nobjc++-cpp-output is deprecated; please use objective-c++-cpp-output instead
+    %{!M:%{!MM:%{!E:    cc1objplus -fpreprocessed %i %(cc1_options) %(ssp_default) %2    %{!fsyntax-only:%(invoke_as)}}}}
+%{!mtune=*:%{!mcpu=*:%{!march=*:-mtune=%(VALUE)}}}
+%{m32:%{!mtune=*:%{!mcpu=*:%{!march=*:-mtune=%(VALUE)}}}}
+%{!m32:%{!mtune=*:%{!mcpu=*:%{!march=*:-mtune=%(VALUE)}}}}
+%{m32:%{!march=*:-march=%(VALUE)}}
+%{!m32:%{!march=*:-march=%(VALUE)}}
+%{fdump-final-insns:-fdump-final-insns=.} %<fdump-final-insns
+%{fopenacc|fopenmp|ftree-parallelize-loops=*: -pthread}
+%{!fwpa*:   %{fcompare-debug=*|fdump-final-insns=*:%:compare-debug-dump-opt()}   %{!S:-o %|.s |
+ as %(asm_options) %m.s %A }  }
+%{-target-help:%:print-asm-header()} %{v} %{w:-W} %{I*}  %{gz*:%e-gz is not supported in this configuration} %a %Y %{c:%W{o*}%{!o*:-o %w%b%O}}%{!c:-o %d%w%u%O}
+%{pg:%{fomit-frame-pointer:%e-pg and -fomit-frame-pointer are incompatible}} %{!iplugindir*:%{fplugin*:%:find-plugindir()}} %1 %{!Q:-quiet} %{!dumpbase:-dumpbase %B} %{d*} %{m*} %{aux-info*} %{fcompare-debug-second:%:compare-debug-auxbase-opt(%b)}  %{!fcompare-debug-second:%{c|S:%{o*:-auxbase-strip %*}%{!o*:-auxbase %b}}}%{!c:%{!S:-auxbase %b}}  %{g*} %{O*} %{W*&pedantic*} %{w} %{std*&ansi&trigraphs} %{v:-version} %{pg:-p} %{p} %{f*} %{undef} %{Qn:-fno-ident} %{Qy:} %{-help:--help} %{-target-help:--target-help} %{-version:--version} %{-help=*:--help=%*} %{!fsyntax-only:%{S:%W{o*}%{!o*:-o %b.s}}} %{fsyntax-only:-o %j} %{-param*} %{coverage:-fprofile-arcs -ftest-coverage}
+%(cpp_unique_options) %1 %{m*} %{std*&ansi&trigraphs} %{W*&pedantic*} %{w} %{f*} %{g*:%{!g0:%{g*} %{!fno-working-directory:-fworking-directory}}} %{O*} %{undef} %{save-temps*:-fpch-preprocess} %(ssp_default)
+%{!Q:-quiet} %{nostdinc*} %{C} %{CC} %{v} %{I*&F*} %{P} %I %{MD:-MD %{!o:%b.d}%{o*:%.d%*}} %{MMD:-MMD %{!o:%b.d}%{o*:%.d%*}} %{M} %{MM} %{MF*} %{MG} %{MP} %{MQ*} %{MT*} %{!E:%{!M:%{!MM:%{!MT:%{!MQ:%{MD|MMD:%{o*:-MQ %*}}}}}}} %{remap} %{g3|ggdb3|gstabs3|gcoff3|gxcoff3|gvms3:-dD} %{!iplugindir*:%{fplugin*:%:find-plugindir()}} %{H} %C %{D*&U*&A*} %{i*} %Z %i %{E|M|MM:%W{o*}}
+cc1 -E %{traditional|traditional-cpp:-traditional-cpp}
+%{!fsyntax-only:%{!c:%{!M:%{!MM:%{!E:%{!S:    %(linker) %{!fno-use-linker-plugin:%{!fno-lto:     -plugin %(linker_plugin_file)     -plugin-opt=%(lto_wrapper)     -plugin-opt=-fresolution=%u.res     %{!nostdlib:%{!nodefaultlibs:%:pass-through-libs(%(link_gcc_c_sequence))}}     }}%{flto|flto=*:%<fcompare-debug*}     %{flto} %{fno-lto} %{flto=*} %l %{no-pie:} %{pie:-pie} %{fuse-ld=*:-fuse-ld=%*}  %{gz*:%e-gz is not supported in this configuration} -z relro %X %{o*} %{e*} %{N} %{n} %{r}    %{s} %{t} %{u*} %{z} %{Z} %{!nostdlib:%{!nostartfiles:%S}} %{!nostdlib:%{fvtable-verify=std: -lvtv -u_vtable_map_vars_start -u_vtable_map_vars_end}    %{fvtable-verify=preinit: -lvtv -u_vtable_map_vars_start -u_vtable_map_vars_end}}     %{static:} %{L*} %(mfwrap) %(link_libgcc) %{!nostdlib:%{!nodefaultlibs:%{%:sanitize(address):%{!shared:libasan_preinit%O%s} %{static-libasan:%{!shared:-Bstatic --whole-archive -lasan --no-whole-archive -Bdynamic}}%{!static-libasan:%{!fuse-ld=gold:--push-state} --no-as-needed -lasan %{fuse-ld=gold:--as-needed;:--pop-state}}}     %{%:sanitize(thread):%{static-libtsan:%{!shared:-Bstatic --whole-archive -ltsan --no-whole-archive -Bdynamic}}%{!static-libtsan:%{!fuse-ld=gold:--push-state} --no-as-needed -ltsan %{fuse-ld=gold:--as-needed;:--pop-state}}}     %{%:sanitize(leak):%{static-liblsan:%{!shared:-Bstatic --whole-archive -llsan --no-whole-archive -Bdynamic}}%{!static-liblsan:%{!fuse-ld=gold:--push-state} --no-as-needed -llsan %{fuse-ld=gold:--as-needed;:--pop-state}}}}} %o    %{!nostdlib:%{!nodefaultlibs:%{mmpx:%{fcheck-pointer-bounds:    %{static:--whole-archive -lmpx --no-whole-archive %:include(libmpx.spec)%(link_libmpx)}    %{!static:%{static-libmpx:-Bstatic --whole-archive}    %{!static-libmpx:--push-state --no-as-needed} -lmpx     %{!static-libmpx:--pop-state}     %{static-libmpx:--no-whole-archive -Bdynamic %:include(libmpx.spec)%(link_libmpx)}}}}%{mmpx:%{fcheck-pointer-bounds:%{!fno-chkp-use-wrappers:    %{static:-lmpxwrappers}    %{!static:%{static-libmpxwrappers:-Bstatic}    -lmpxwrappers %{static-libmpxwrappers: -Bdynamic}}}}}}} %{mmpx:%{fcheck-pointer-bounds:%{!static:%:include(libmpx.spec)%(link_mpx)}}}     %{fopenacc|fopenmp|ftree-parallelize-loops=*:%:include(libgomp.spec)%(link_gomp)}    %{fcilkplus:%:include(libcilkrts.spec)%(link_cilkrts)}    %{fgnu-tm:%:include(libitm.spec)%(link_itm)}    %(mflib)  %{fsplit-stack: --wrap=pthread_create}    %{fprofile-arcs|fprofile-generate*|coverage:-lgcov} %{!nostdlib:%{!nodefaultlibs:%{%:sanitize(address): %{static-libasan:%:include(libsanitizer.spec)%(link_libasan)}    %{static:%ecannot specify -static with -fsanitize=address}}    %{%:sanitize(thread): %{static-libtsan:%:include(libsanitizer.spec)%(link_libtsan)}    %{static:%ecannot specify -static with -fsanitize=thread}}    %{%:sanitize(undefined):%{static-libubsan:-Bstatic} -lubsan %{static-libubsan:-Bdynamic} %{static-libubsan:%:include(libsanitizer.spec)%(link_libubsan)}}    %{%:sanitize(leak): %{static-liblsan:%:include(libsanitizer.spec)%(link_liblsan)}}}}     %{!nostdlib:%{!nodefaultlibs:%(link_ssp) %(link_gcc_c_sequence)}}    %{!nostdlib:%{!nostartfiles:%E}} %{T*} }}}}}}
+%{!mandroid|tno-android-ld:%{!shared: %{pg|p|profile:gcrt1.o%s;:     %{pie:Scrt1.o%s} %{pie|r|shared:;:crt1.o%s}}}    crti.o%s %{static:crtbeginT.o%s;: %{shared:crtbeginS.o%s} 	      %{pie:crtbeginS.o%s} 	      %{pie|r|shared:;:crtbegin.o%s}}    %{fvtable-verify=none:%s;      fvtable-verify=preinit:vtv_start_preinit.o%s;      fvtable-verify=std:vtv_start.o%s};:%{shared: crtbegin_so%O%s;:  %{static: crtbegin_static%O%s;: crtbegin_dynamic%O%s}}}
+%{!mandroid|tno-android-ld:%{Ofast|ffast-math|funsafe-math-optimizations:crtfastmath.o%s}    %{mpc32:crtprec32.o%s}    %{mpc64:crtprec64.o%s}    %{mpc80:crtprec80.o%s} %{fvtable-verify=none:%s;      fvtable-verify=preinit:vtv_end_preinit.o%s;      fvtable-verify=std:vtv_end.o%s}    %{shared|pie:crtendS.o%s;:crtend.o%s} crtn.o%s;:%{Ofast|ffast-math|funsafe-math-optimizations:crtfastmath.o%s}    %{mpc32:crtprec32.o%s}    %{mpc64:crtprec64.o%s}    %{mpc80:crtprec80.o%s} %{shared: crtend_so%O%s;: crtend_android%O%s}}
+%{!mandroid|tno-android-ld:%{pthread:-lpthread} %{shared:-lc}    %{!shared:%{mieee-fp:-lieee} %{profile:-lc_p}%{!profile:-lc}};:%{shared:-lc}    %{!shared:%{mieee-fp:-lieee} %{profile:-lc_p}%{!profile:-lc}} %{!static: -ldl}}
+%{!mandroid|tno-android-ld:%{m16|m32|mx32:;:-m elf_x86_64}                    %{m16|m32:-m elf_i386}                    %{mx32:-m elf32_x86_64}   --hash-style=gnu   --as-needed   %{shared:-shared}   %{!shared:     %{!static:       %{rdynamic:-export-dynamic}       %{m16|m32:-dynamic-linker %{muclibc:/lib/ld-uClibc.so.0;:%{mbionic:/system/bin/linker;:/lib/ld-linux.so.2}}}       %{m16|m32|mx32:;:-dynamic-linker %{muclibc:/lib/ld64-uClibc.so.0;:%{mbionic:/system/bin/linker64;:/lib64/ld-linux-x86-64.so.2}}}       %{mx32:-dynamic-linker %{muclibc:/lib/ldx32-uClibc.so.0;:%{mbionic:/system/bin/linkerx32;:/libx32/ld-linux-x32.so.2}}}}     %{static:-static}};:%{m16|m32|mx32:;:-m elf_x86_64}                    %{m16|m32:-m elf_i386}                    %{mx32:-m elf32_x86_64}   --hash-style=gnu   --as-needed   %{shared:-shared}   %{!shared:     %{!static:       %{rdynamic:-export-dynamic}       %{m16|m32:-dynamic-linker %{muclibc:/lib/ld-uClibc.so.0;:%{mbionic:/system/bin/linker;:/lib/ld-linux.so.2}}}       %{m16|m32|mx32:;:-dynamic-linker %{muclibc:/lib/ld64-uClibc.so.0;:%{mbionic:/system/bin/linker64;:/lib64/ld-linux-x86-64.so.2}}}       %{mx32:-dynamic-linker %{muclibc:/lib/ldx32-uClibc.so.0;:%{mbionic:/system/bin/linkerx32;:/libx32/ld-linux-x32.so.2}}}}     %{static:-static}} %{shared: -Bsymbolic}}
+%{gsplit-dwarf: 
+       objcopy --extract-dwo 	 %{c:%{o*:%*}%{!o*:%b%O}}%{!c:%U%O} 	 %{c:%{o*:%:replace-extension(%{o*:%*} .dwo)}%{!o*:%b.dwo}}%{!c:%b.dwo} 
+       objcopy --strip-dwo 	 %{c:%{o*:%*}%{!o*:%b%O}}%{!c:%U%O}     }
+%{m16|m32:--32}  %{m16|m32|mx32:;:--64}  %{mx32:--x32}  %{!mno-sse2avx:%{mavx:-msse2avx}} %{msse2avx:%{!mavx:-msse2avx}}
+%{!fno-stack-protector:%{!fstack-protector-all:%{!ffreestanding:%{!nostdlib:%{!fstack-protector:-fstack-protector-strong}}}}} %{!Wformat:%{!Wformat=2:%{!Wformat=0:%{!Wall:-Wformat} %{!Wno-format-security:-Wformat-security}}}}
+%{fstack-protector|fstack-protector-all|fstack-protector-strong|fstack-protector-explicit:}
+%{static:--start-group} %G %L %{static:--end-group}%{!static:%G}
+%{!mandroid|tno-android-cc:%(cc1_cpu) %{profile:-p};:%(cc1_cpu) %{profile:-p} %{!mglibc:%{!muclibc:%{!mbionic: -mbionic}}} %{!fno-pic:%{!fno-PIC:%{!fpic:%{!fPIC: -fPIC}}}}}
+%{posix:-D_POSIX_SOURCE} %{pthread:-D_REENTRANT}
+%{!g0:%{gstabs*:--gstabs}%{!gstabs*:%{g*:--gdwarf2}}} %{fdebug-prefix-map=*:--debug-prefix-map %*}
+32:../lib32:i386-linux-gnu m32 !m64 !mx32;
+64:../lib:x86_64-linux-gnu !m32 m64 !mx32;
+x32:../libx32:x86_64-linux-gnux32 !m32 !m64 mx32;
+driver_get_configure_time_options
+do_spec_on_infiles
+driver_handle_option
+process_command
+insert_wrapper
+execute
+replace_outfile_spec_function
+remove_outfile_spec_function
+compare_version_strings
+version_compare_spec_function
+include_spec_function
+find_file_spec_function
+find_plugindir_spec_function
+compare_debug_dump_opt_spec_function
+posix
+../src/configure -v --with-pkgversion='Ubuntu 5.4.0-6ubuntu1~16.04.9' --with-bugurl=file:///usr/share/doc/gcc-5/README.Bugs --enable-languages=c,ada,c++,java,go,d,fortran,objc,obj-c++ --prefix=/usr --program-suffix=-5 --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --with-sysroot=/ --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-libmpx --enable-plugin --with-system-zlib --disable-browser-plugin --enable-java-awt=gtk --enable-gtk-cairo --with-java-home=/usr/lib/jvm/java-1.5.0-gcj-5-amd64/jre --enable-java-home --with-jvm-root-dir=/usr/lib/jvm/java-1.5.0-gcj-5-amd64 --with-jvm-jar-dir=/usr/lib/jvm-exports/java-1.5.0-gcj-5-amd64 --with-arch-directory=amd64 --with-ecj-jar=/usr/share/java/eclipse-ecj.jar --enable-objc-gc --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
+.A../../src/gcc/ggc-none.c
+ggc_internal_cleared_alloc
+ggc_internal_alloc
+--param l1-cache-size=%u 
+--param l2-cache-size=%u 
+i386
+westmere
+pentium
+silvermont
+pentium4
+geode
+athlon
+amdfam10
+bdver1
+bdver2
+bdver3
+bdver4
+btver1
+btver2
+nehalem
+nocona
+core2
+prescott
+broadwell
+bonnell
+haswell
+ivybridge
+sandybridge
+ -mmmx
+ -mno-mmx
+ -m3dnow
+ -mno-3dnow
+ -msse
+ -mno-sse
+ -msse2
+ -mno-sse2
+ -msse3
+ -mno-sse3
+ -mssse3
+ -mno-ssse3
+ -msse4a
+ -mno-sse4a
+ -mcx16
+ -mno-cx16
+ -msahf
+ -mno-sahf
+ -mmovbe
+ -mno-movbe
+ -maes
+ -mno-aes
+ -msha
+ -mno-sha
+ -mpclmul
+ -mno-pclmul
+ -mpopcnt
+ -mno-popcnt
+ -mabm
+ -mno-abm
+ -mlwp
+ -mno-lwp
+ -mfma
+ -mno-fma
+ -mfma4
+ -mno-fma4
+ -mxop
+ -mno-xop
+ -mbmi
+ -mno-bmi
+ -mbmi2
+ -mno-bmi2
+ -mtbm
+ -mno-tbm
+ -mavx
+ -mno-avx
+ -mavx2
+ -mno-avx2
+ -msse4.2
+ -mno-sse4.2
+ -msse4.1
+ -mno-sse4.1
+ -mlzcnt
+ -mno-lzcnt
+ -mhle
+ -mno-hle
+ -mrtm
+ -mno-rtm
+ -mrdrnd
+ -mno-rdrnd
+ -mf16c
+ -mno-f16c
+ -mfsgsbase
+ -mno-fsgsbase
+ -mrdseed
+ -mno-rdseed
+ -mprfchw
+ -mno-prfchw
+ -madx
+ -mno-adx
+ -mfxsr
+ -mno-fxsr
+ -mxsave
+ -mno-xsave
+ -mxsaveopt
+ -mno-xsaveopt
+ -mavx512f
+ -mno-avx512f
+ -mavx512er
+ -mno-avx512er
+ -mavx512cd
+ -mno-avx512cd
+ -mavx512pf
+ -mno-avx512pf
+ -mprefetchwt1
+ -mno-prefetchwt1
+ -mclflushopt
+ -mno-clflushopt
+ -mxsavec
+ -mno-xsavec
+ -mxsaves
+ -mno-xsaves
+ -mavx512dq
+ -mno-avx512dq
+ -mavx512bw
+ -mno-avx512bw
+ -mavx512vl
+ -mno-avx512vl
+ -mclwb
+ -mno-clwb
+ -mpcommit
+ -mno-pcommit
+ -mmwaitx
+ -mno-mwaitx
+i486
+pentiumpro
+winchip-c6
+winchip2
+k8-sse3
+athlon-4
+k6-3
+pentium-m
+pentium3
+c3-2
+pentium-mmx
+pentium2
+ -mno-avx512vbmi
+ -mno-avx512ifma
+--param l1-cache-line-size=%u 
+/usr
+_ROOT
+../../src/gcc/params.c
+invalid parameter %qs
+predictable-branch-outcome
+inline-min-speedup
+max-inline-insns-single
+max-inline-insns-auto
+max-inline-insns-recursive
+max-inline-recursive-depth
+max-early-inliner-iterations
+comdat-sharing-probability
+min-vect-loop-bound
+max-delay-slot-insn-search
+max-delay-slot-live-search
+max-pending-list-length
+max-modulo-backtrack-attempts
+large-function-insns
+large-function-growth
+large-unit-insns
+inline-unit-growth
+ipcp-unit-growth
+early-inlining-insns
+large-stack-frame
+large-stack-frame-growth
+max-gcse-memory
+max-gcse-insertion-ratio
+gcse-cost-distance-ratio
+gcse-unrestricted-cost
+max-hoist-depth
+max-unrolled-insns
+max-average-unrolled-insns
+max-unroll-times
+max-peeled-insns
+max-peel-times
+max-peel-branches
+max-completely-peeled-insns
+max-completely-peel-times
+max-once-peeled-insns
+max-unswitch-insns
+max-unswitch-level
+max-iterations-to-track
+sms-max-ii-factor
+sms-min-sc
+sms-dfa-history
+hot-bb-count-ws-permille
+hot-bb-frequency-fraction
+unlikely-bb-count-fraction
+align-threshold
+align-loop-iterations
+max-predicted-iterations
+builtin-expect-probability
+tracer-dynamic-coverage
+tracer-max-code-growth
+tracer-min-branch-ratio
+tracer-min-branch-probability
+max-crossjump-edges
+min-crossjump-insns
+max-grow-copy-bb-insns
+max-goto-duplication-insns
+max-cse-path-length
+max-cse-insns
+lim-expensive
+iv-max-considered-uses
+scev-max-expr-size
+scev-max-expr-complexity
+omega-max-vars
+omega-max-geqs
+omega-max-eqs
+omega-max-wild-cards
+omega-hash-table-size
+omega-max-keys
+max-cselib-memory-locations
+ggc-min-expand
+ggc-min-heapsize
+max-reload-search-insns
+sink-frequency-threshold
+max-sched-region-blocks
+max-sched-region-insns
+max-pipeline-region-blocks
+max-pipeline-region-insns
+min-spec-prob
+max-sched-insn-conflict-delay
+sched-spec-prob-cutoff
+sched-state-edge-prob-cutoff
+selsched-max-lookahead
+selsched-max-sched-times
+selsched-insns-to-rename
+sched-mem-true-dep-cost
+sched-autopref-queue-depth
+max-last-value-rtl
+max-combine-insns
+integer-share-limit
+ssp-buffer-size
+min-size-for-stack-sharing
+max-sched-ready-insns
+max-dse-active-local-stores
+prefetch-latency
+simultaneous-prefetches
+l1-cache-size
+The size of L1 cache
+l1-cache-line-size
+The size of L1 cache line
+l2-cache-size
+The size of L2 cache
+use-canonical-types
+max-partial-antic-length
+sccvn-max-scc-size
+ira-max-loops-num
+ira-max-conflict-table-size
+ira-loop-reserved-regs
+loop-block-tile-size
+loop-unroll-jam-size
+loop-unroll-jam-depth
+graphite-max-nb-scop-params
+graphite-max-bbs-per-function
+profile-func-internal-id
+indir-call-topn-profile
+slp-max-insns-in-bb
+min-insn-to-prefetch-ratio
+max-vartrack-size
+max-vartrack-expr-depth
+max-vartrack-reverse-op-size
+min-nondebug-insn-uid
+ipa-sra-ptr-growth-factor
+tm-max-aggregate-size
+ipa-cp-value-list-size
+ipa-cp-eval-threshold
+ipa-cp-recursion-penalty
+ipa-cp-single-call-penalty
+ipa-max-agg-items
+ipa-cp-loop-hint-bonus
+ipa-cp-array-index-hint-bonus
+ipa-max-aa-steps
+lto-partitions
+lto-min-partition
+max-stores-to-sink
+case-values-threshold
+allow-store-data-races
+tree-reassoc-width
+max-tail-merge-comparisons
+max-tail-merge-iterations
+max-tracked-strlens
+sched-pressure-algorithm
+max-slsr-cand-scan
+asan-stack
+Enable asan stack protection
+asan-globals
+asan-instrument-writes
+asan-instrument-reads
+asan-memintrin
+asan-use-after-return
+uninit-control-dep-attempts
+chkp-max-ctor-size
+max-fsm-thread-path-insns
+max-fsm-thread-length
+max-fsm-thread-paths
+minimum value of parameter %qs is %u
+maximum value of parameter %qs is %u
+Maximal estimated outcome of branch considered predictable
+The minimal estimated speedup allowing inliner to ignore inline-insns-single and inline-isnsns-auto
+The maximum number of instructions in a single function eligible for inlining
+The maximum number of instructions when automatically inlining
+The maximum number of instructions inline function can grow to via recursive inlining
+max-inline-insns-recursive-auto
+The maximum number of instructions non-inline function can grow to via recursive inlining
+The maximum depth of recursive inlining for inline functions
+max-inline-recursive-depth-auto
+The maximum depth of recursive inlining for non-inline functions
+min-inline-recursive-probability
+Inline recursively only when the probability of call being executed exceeds the parameter
+The maximum number of nested indirect inlining performed by early inliner
+Probability that COMDAT function will be shared with different compilation unit
+partial-inlining-entry-probability
+Maximum probability of the entry BB of split region (in percent relative to entry BB of the function) to make partial inlining happen
+max-variable-expansions-in-unroller
+If -fvariable-expansion-in-unroller is used, the maximum number of times that an individual variable will be expanded during loop unrolling
+If -ftree-vectorize is used, the minimal loop bound of a loop to be considered for vectorization
+The maximum number of instructions to consider to fill a delay slot
+The maximum number of instructions to consider to find accurate live register information
+The maximum length of scheduling's pending operations list
+The maximum number of backtrack attempts the scheduler should make when modulo scheduling a loop
+The size of function body to be considered large
+Maximal growth due to inlining of large function (in percent)
+The size of translation unit to be considered large
+How much can given compilation unit grow because of the inlining (in percent)
+How much can given compilation unit grow because of the interprocedural constant propagation (in percent)
+Maximal estimated growth of function body caused by early inlining of single call
+The size of stack frame to be considered large
+Maximal stack frame growth due to inlining (in percent)
+The maximum amount of memory to be allocated by GCSE
+The maximum ratio of insertions to deletions of expressions in GCSE
+gcse-after-reload-partial-fraction
+The threshold ratio for performing partial redundancy elimination after reload
+gcse-after-reload-critical-fraction
+The threshold ratio of critical edges execution count that permit performing redundancy elimination after reload
+Scaling factor in calculation of maximum distance an expression can be moved by GCSE optimizations
+Cost at which GCSE optimizations will not constraint the distance an expression can travel
+Maximum depth of search in the dominator tree for expressions to hoist
+The maximum number of instructions to consider to unroll in a loop
+The maximum number of instructions to consider to unroll in a loop on average
+The maximum number of unrollings of a single loop
+The maximum number of insns of a peeled loop
+The maximum number of peelings of a single loop
+The maximum number of branches on the path through the peeled sequence
+The maximum number of insns of a completely peeled loop
+The maximum number of peelings of a single loop that is peeled completely
+The maximum number of insns of a peeled loop that rolls only once
+max-completely-peel-loop-nest-depth
+The maximum depth of a loop nest we completely peel
+The maximum number of insns of an unswitched loop
+The maximum number of unswitchings in a single loop
+Bound on the number of iterations the brute force # of iterations analysis algorithm evaluates
+max-iterations-computation-cost
+Bound on the cost of an expression to compute the number of iterations
+A factor for tuning the upper bound that swing modulo scheduler uses for scheduling a loop
+The minimum value of stage count that swing modulo scheduler will generate.
+The number of cycles the swing modulo scheduler considers when checking conflicts using DFA
+sms-loop-average-count-threshold
+A threshold on the average loop count considered by the swing modulo scheduler
+A basic block profile count is considered hot if it contributes to the given permillage of the entire profiled execution
+Select fraction of the maximal frequency of executions of basic block in function given basic block needs to have to be considered hot
+The minimum fraction of profile runs a given basic block execution count must be not to be considered unlikely
+Select fraction of the maximal frequency of executions of basic block in function given basic block get alignment
+Loops iterating at least selected number of iterations will get loop alignement.
+The maximum number of loop iterations we predict statically
+Set the estimated probability in percentage for builtin expect. The default value is 90% probability.
+tracer-dynamic-coverage-feedback
+The percentage of function, weighted by execution frequency, that must be covered by trace formation. Used when profile feedback is available
+The percentage of function, weighted by execution frequency, that must be covered by trace formation. Used when profile feedback is not available
+Maximal code growth caused by tail duplication (in percent)
+Stop reverse growth if the reverse probability of best edge is less than this threshold (in percent)
+tracer-min-branch-probability-feedback
+Stop forward growth if the probability of best edge is less than this threshold (in percent). Used when profile feedback is available
+Stop forward growth if the probability of best edge is less than this threshold (in percent). Used when profile feedback is not available
+The maximum number of incoming edges to consider for crossjumping
+The minimum number of matching instructions to consider for crossjumping
+The maximum expansion factor when copying basic blocks
+The maximum number of insns to duplicate when unfactoring computed gotos
+The maximum length of path considered in cse
+The maximum instructions CSE process before flushing
+The minimum cost of an expensive expression in the loop invariant motion
+iv-consider-all-candidates-bound
+Bound on number of candidates below that all candidates are considered in iv optimizations
+Bound on number of iv uses in loop optimized in iv optimizations
+iv-always-prune-cand-set-bound
+If number of candidates in the set is smaller, we always try to remove unused ivs during its optimization
+Bound on size of expressions used in the scalar evolutions analyzer
+Bound on the complexity of the expressions in the scalar evolutions analyzer
+Bound on the number of variables in Omega constraint systems
+Bound on the number of inequalities in Omega constraint systems
+Bound on the number of equalities in Omega constraint systems
+Bound on the number of wild cards in Omega constraint systems
+Bound on the size of the hash table in Omega constraint systems
+Bound on the number of keys in Omega constraint systems
+omega-eliminate-redundant-constraints
+When set to 1, use expensive methods to eliminate all redundant constraints
+vect-max-version-for-alignment-checks
+Bound on number of runtime checks inserted by the vectorizer's loop versioning for alignment check
+vect-max-version-for-alias-checks
+Bound on number of runtime checks inserted by the vectorizer's loop versioning for alias check
+vect-max-peeling-for-alignment
+Max number of loop peels to enhancement alignment of data references in a loop
+The maximum memory locations recorded by cselib
+Minimum heap expansion to trigger garbage collection, as a percentage of the total size of the heap
+Minimum heap size before we start collecting garbage, in kilobytes
+The maximum number of instructions to search backward when looking for equivalent reload
+Target block's relative execution frequency (as a percentage) required to sink a statement
+The maximum number of blocks in a region to be considered for interblock scheduling
+The maximum number of insns in a region to be considered for interblock scheduling
+The minimum probability of reaching a source block for interblock speculative scheduling
+max-sched-extend-regions-iters
+The maximum number of iterations through CFG to extend regions
+The maximum conflict delay for an insn to be considered for speculative motion
+The minimal probability of speculation success (in percents), so that speculative insn will be scheduled.
+The minimum probability an edge must have for the scheduler to save its state across it.
+The maximum size of the lookahead window of selective scheduling
+Maximum number of times that an insn could be scheduled
+Maximum number of instructions in the ready list that are considered eligible for renaming
+Minimal distance between possibly conflicting store and load
+Hardware autoprefetcher scheduler model control flag.  Number of lookahead cycles the model looks into; at '0' only enable instruction sorting heuristic.  Disabled by default.
+The maximum number of RTL nodes that can be recorded as combiner's last value
+The maximum number of insns combine tries to combine
+The upper bound for sharing integer constants
+The lower bound for a buffer to be considered for stack smashing protection
+The minimum size of variables taking part in stack slot sharing when not optimizing
+max-jump-thread-duplication-stmts
+Maximum number of statements allowed in a block that needs to be duplicated when threading jumps
+max-fields-for-field-sensitive
+Maximum number of fields in a structure before pointer analysis treats the structure as a single variable
+The maximum number of instructions ready to be issued to be considered by the scheduler during the first scheduling pass
+Maximum number of active local stores in RTL dead store elimination
+The number of insns executed before prefetch is completed
+The number of prefetches that can run at the same time
+Whether to use canonical types
+Maximum length of partial antic set when performing tree pre optimization
+Maximum size of a SCC before SCCVN stops processing a function
+sccvn-max-alias-queries-per-access
+Maximum number of disambiguations to perform per memory access
+Max loops number for regional RA
+Max size of conflict table in MB
+The number of registers in each class kept unused by loop invariant motion
+lra-max-considered-reload-pseudos
+The max number of reload pseudos which are considered during spilling a non-reload pseudo
+lra-inheritance-ebb-probability-cutoff
+Minimal fall-through edge probability in percentage used to add BB to inheritance EBB in LRA
+switch-conversion-max-branch-ratio
+The maximum ratio between array size and switch branches for a switch conversion to take place
+size of tiles for loop blocking
+size of unrolling factor for unroll-and-jam
+depth of unrolled loop for unroll-and-jam
+maximum number of parameters in a SCoP
+maximum number of basic blocks per function to be analyzed by Graphite
+loop-max-datarefs-for-datadeps
+Maximum number of datarefs in loop for building loop data dependencies
+loop-invariant-max-bbs-in-loop
+Max basic blocks number in loop for loop invariant motion
+use internal function id in profile lookup
+track topn target addresses in indirect-call profile
+Maximum number of instructions in basic block to be considered for SLP vectorization
+Min. ratio of insns to prefetches to enable prefetching for a loop with an unknown trip count
+prefetch-min-insn-to-mem-ratio
+Min. ratio of insns to mem ops to enable prefetching in a loop
+Max. size of var tracking hash tables
+Max. recursion depth for expanding var tracking expressions
+Max. size of loc list for which reverse ops should be added
+The minimum UID to be used for a nondebug insn
+Maximum allowed growth of size of new parameters ipa-sra replaces a pointer to an aggregate with
+Size in bytes after which thread-local aggregates should be instrumented with the logging functions instead of save/restore pairs
+sra-max-scalarization-size-Ospeed
+Maximum size, in storage units, of an aggregate which should be considered for scalarization when compiling for speed
+sra-max-scalarization-size-Osize
+Maximum size, in storage units, of an aggregate which should be considered for scalarization when compiling for size
+Maximum size of a list of values associated with each parameter for interprocedural constant propagation
+Threshold ipa-cp opportunity evaluation that is still considered beneficial to clone.
+Percentage penalty the recursive functions will receive when they are evaluated for cloning.
+Percentage penalty functions containg a single call to another function will receive when they are evaluated for cloning.
+Maximum number of aggregate content items for a parameter in jump functions and lattices
+Compile-time bonus IPA-CP assigns to candidates which make loop bounds or strides known.
+Compile-time bonus IPA-CP assigns to candidates which make an array index known.
+Maximum number of statements that will be visited by IPA formal parameter analysis based on alias analysis in any given function
+Number of partitions the program should be split to
+Minimal size of a partition for LTO (in estimated instructions)
+cxx-max-namespaces-for-diagnostic-help
+Maximum number of namespaces to search for alternatives when name lookup fails
+Maximum number of conditional store pairs that can be sunk
+The smallest number of different values for which it is best to use a jump-table instead of a tree of conditional branches, if 0, use the default for the machine
+Allow new data races on stores to be introduced
+Set the maximum number of instructions executed in parallel in reassociated tree. If 0, use the target dependent heuristic.
+Maximum amount of similar bbs to compare a bb with
+Maximum amount of iterations of the pass over a function
+Maximum number of strings for which strlen optimization pass will track string lengths
+Which -fsched-pressure algorithm to apply
+Maximum length of candidate scans for straight-line strength reduction
+Enable asan globals protection
+Enable asan store operations protection
+Enable asan load operations protection
+Enable asan builtin functions protection
+Degas are we not drawn onward no In union drawn onward to new eras aged
+Enable asan detection of use-after-return bugs
+asan-instrumentation-with-call-threshold
+Use callbacks instead of inline code if number of accesses in function becomes greater or equal to this number
+Maximum number of nested calls to search for control dependencies during uninitialized variable analysis
+Maximum number of statements to be included into a single static constructor generated by Pointer Bounds Checker
+Maximum number of instructions to copy when duplicating blocks on a finite state automaton jump thread path
+Maximum number of basic blocks on a finite state automaton jump thread path
+Maximum number of new jump thread paths to create for a finite state automaton
+init_param_values
+set_default_param_value
+set_param_value_internal
+set_param_value
+global_init_params
+add_params
+../../src/gcc/opts.c
+invalid --param value %qs
+-Werror=%s: no option -%s
+specific
+%s%s:
+[default]
+[enabled]
+[disabled]
+  %s
+    
+  %-*.*s %.*s
+shift
+integer-divide-by-zero
+unreachable
+vla-bound
+signed-integer-overflow
+float-divide-by-zero
+float-cast-overflow
+returns-nonnull-attribute
+object-size
+vptr
+optimizers
+undocumented
+joined
+separate
+dwarf-2
+%s: --param arguments should be of the form NAME=VALUE
+--help argument %q.*s is ambiguous, please be more specific
+unrecognized argument to --help= option: %q.*s
+-fsanitize=all option is not valid
+getting core file size maximum limit: %m
+setting core file size limit to maximum: %m
+unrecognized gcc debugging option: %c
+-foffload-abi option can be specified only for offload compiler
+structure alignment must be a small power of two, not %d
+unknown stack check parameter %qs
+%<-gdwarf%s%> is ambiguous; use %<-gdwarf-%s%> for DWARF version or %<-gdwarf -g%s%> for debug level
+dwarf version %d is not supported
+unrecognized argument to -fsanitize%s= option: %q.*s
+The following options are target specific
+The following options control compiler warning messages
+The following options control optimizations
+The following options are language-independent
+The --param option recognizes the following as parameters
+The following options are specific to just the language 
+The following options are supported by the language 
+The following options are not documented
+The following options take separate arguments
+The following options take joined arguments
+unrecognized include_flags 0x%x passed to print_specific_help
+The following options are language-related
+default %d minimum %d maximum %d
+ No options with the desired characteristics were found
+ None found.  Use --help=%s to show *all* the options supported by the %s front-end
+ All options with the desired characteristics have already been displayed
+argument to %<-O%> should be a non-negative integer, %<g%>, %<s%> or %<fast%>
+debug format %qs conflicts with prior selection
+unrecognised debug output level %qs
+debug output level %qs is too high
+section anchors must be disabled when unit-at-a-time is disabled
+toplevel reorder must be disabled when unit-at-a-time is disabled
+transactional memory is not supported with non-call exceptions
+section anchors must be disabled when toplevel reorder is disabled
+-freorder-blocks-and-partition does not work with exceptions on this architecture
+-freorder-blocks-and-partition does not support unwind info on this architecture
+-freorder-blocks-and-partition does not work on this architecture
+-fno-fat-lto-objects are supported only with linker plugin
+%<-fsplit-stack%> is not supported by this compiler configuration
+-fsanitize=address is incompatible with -fsanitize=kernel-address
+-fsanitize=address and -fsanitize=kernel-address are incompatible with -fsanitize=thread
+-fsanitize-recover=address is not supported
+-fsanitize-recover=thread is not supported
+-fsanitize-recover=leak is not supported
+argument %qs to %<-femit-struct-debug-detailed%> unknown
+%<-femit-struct-debug-detailed=dir:...%> must allow at least as much as %<-femit-struct-debug-detailed=ind:...%>
+argument %qs to %<-femit-struct-debug-detailed%> not recognized
+set_Wstrict_aliasing
+print_specific_help
+common_handle_option
+maybe_default_option
+target_handle_option
+base
+none
+gen:
+ord:
+ind:
+dir:
+dfn:
+This switch lacks documentation
+../../src/gcc/opts-common.c
+missing argument to %qs
+-Wno-
+-fno-
+-mno-
+--debug=
+--machine-
+--machine-no-
+--machine=
+--machine=no-
+--machine
+--optimize=
+--std=
+--std
+--warn-
+--warn-no-
+--no-
+command line option %qs is not supported by this configuration
+argument to %qs should be a non-negative integer
+unrecognized argument in option %qs
+valid arguments to %qs are: %s
+read_cmdline_option
+generate_option
+prune_options
+generate_canonical_option
+decode_cmdline_option
+opt_enum_arg_to_value
+options.c
+-###
+--CLASSPATH
+--all-warnings
+--ansi
+--assemble
+--assert
+assertion missing after %qs
+--assert=
+--bootclasspath
+--classpath
+--comments
+--comments-in-macros
+--compile
+--coverage
+--debug
+--define-macro
+macro name missing after %qs
+--define-macro=
+--dependencies
+--dump
+--dump=
+--dumpbase
+--dumpdir
+--encoding
+--entry
+--entry=
+--extdirs
+--extra-warnings
+--for-assembler
+--for-assembler=
+--for-linker
+--for-linker=
+--force-link
+--force-link=
+Display this information
+--help=
+--imacros
+missing filename after %qs
+--imacros=
+--include
+--include-barrier
+--include-directory
+missing path after %qs
+--include-directory-after
+--include-directory-after=
+--include-directory=
+--include-prefix
+--include-prefix=
+--include-with-prefix
+--include-with-prefix-after
+--include-with-prefix-after=
+--include-with-prefix-before
+--include-with-prefix-before=
+--include-with-prefix=
+--include=
+--language
+--language=
+--library-directory
+--library-directory=
+--no-canonical-prefixes
+--no-integrated-cpp
+--no-line-commands
+--no-standard-includes
+--no-standard-libraries
+--no-sysroot-suffix
+--no-warnings
+--optimize
+--output
+--output-class-directory
+--output-class-directory=
+--output-pch=
+--output=
+--param
+--param=
+--pass-exit-codes
+--pedantic
+--pedantic-errors
+--pie
+--pipe
+--prefix
+--prefix=
+--preprocess
+--print-file-name
+--print-file-name=
+--print-libgcc-file-name
+--print-multi-directory
+--print-multi-lib
+--print-multi-os-directory
+--print-multiarch
+--print-prog-name
+--print-prog-name=
+--print-search-dirs
+--print-sysroot
+--profile
+--resource
+--resource=
+--save-temps
+--shared
+--specs
+--specs=
+--static
+--symbolic
+--sysroot
+--sysroot=
+Alias for --help=target
+--time
+--trace-includes
+--traditional
+--traditional-cpp
+--trigraphs
+--undefine-macro
+--undefine-macro=
+--user-dependencies
+--verbose
+--write-dependencies
+--write-user-dependencies
+Do not discard comments
+Generate make dependencies
+-MD_
+-MMD
+-MMD_
+-Ofast
+-Tbss
+-Tbss=
+-Tdata
+-Tdata=
+-Ttext
+-Ttext=
+-U<macro>	Undefine <macro>
+-Wa,
+-Wabi
+-Wabi-tag
+-Wabi=
+-Waddress
+-Waggregate-return
+-Waliasing
+-Walign-commons
+-Wall
+Enable most warning messages
+-Wall-deprecation
+-Wall-javadoc
+-Wampersand
+-Warray-bounds
+-Warray-bounds=
+-Warray-temporaries
+-Wassert-identifier
+-Wassign-intercept
+-Wattributes
+-Wbad-function-cast
+-Wbool-compare
+-Wboxing
+-Wbuiltin-macro-redefined
+-Wc++-compat
+-Wc++0x-compat
+-Wc++11-compat
+-Wc++14-compat
+-Wc-binding-type
+-Wc90-c99-compat
+-Wc99-c11-compat
+-Wcast-align
+-Wcast-qual
+-Wcast-result
+-Wchar-concat
+-Wchar-subscripts
+-Wcharacter-truncation
+-Wchkp
+-Wclobbered
+-Wcomments
+Synonym for -Wcomment
+-Wcompare-reals
+-Wcondition-assign
+-Wconditionally-supported
+-Wconstructor-name
+-Wconversion
+-Wconversion-extra
+-Wconversion-null
+-Wcoverage-mismatch
+-Wcpp
+-Wctor-dtor-privacy
+-Wdate-time
+-Wdeclaration-after-statement
+-Wdelete-incomplete
+-Wdelete-non-virtual-dtor
+-Wdep-ann
+-Wdeprecated
+-Wdeprecated-declarations
+-Wdesignated-init
+-Wdisabled-optimization
+-Wdiscarded-array-qualifiers
+-Wdiscarded-qualifiers
+-Wdiscouraged
+-Wdiv-by-zero
+-Wdouble-promotion
+-Weffc++
+-Wempty-block
+-Wempty-body
+-Wendif-labels
+-Wenum-compare
+-Wenum-identifier
+-Wenum-switch
+-Werror
+Treat all warnings as errors
+implicit-function-declaration
+-Werror=
+-Wextra
+-Wextraneous-semicolon
+-Wfallthrough
+-Wfatal-errors
+-Wfield-hiding
+-Wfinal-bound
+-Wfinally
+-Wfloat-conversion
+-Wfloat-equal
+-Wforbidden
+-Wformat
+-Wformat-contains-nul
+-Wformat-extra-args
+-Wformat-nonliteral
+-Wformat-security
+-Wformat-signedness
+-Wformat-y2k
+-Wformat-zero-length
+-Wformat=
+-Wframe-larger-than=
+-Wfree-nonheap-object
+-Wfunction-elimination
+-Whiding
+-Wignored-qualifiers
+-Wimplicit
+-Wimplicit-int
+-Wimplicit-interface
+-Wimplicit-procedure
+-Wimport
+-Wincompatible-pointer-types
+-Windirect-static
+-Winherited-variadic-ctor
+-Winit-self
+-Winline
+-Wint-conversion
+-Wint-to-pointer-cast
+-Wintf-annotation
+-Wintf-non-inherited
+-Wintrinsic-shadow
+-Wintrinsics-std
+-Winvalid-memory-model
+-Winvalid-offsetof
+-Winvalid-pch
+-Wjavadoc
+-Wjump-misses-init
+-Wl,
+-Wlarger-than-
+-Wlarger-than=
+-Wline-truncation
+-Wliteral-suffix
+-Wlocal-hiding
+-Wlogical-not-parentheses
+-Wlogical-op
+-Wlong-long
+-Wmain
+-Wmasked-catch-block
+-Wmaybe-uninitialized
+-Wmemset-transposed-args
+-Wmissing-braces
+-Wmissing-declarations
+-Wmissing-field-initializers
+-Wmissing-format-attribute
+-Wmissing-include-dirs
+-Wmissing-noreturn
+-Wmissing-parameter-type
+-Wmissing-prototypes
+-Wmudflap
+-Wmultichar
+-Wnarrowing
+-Wnested-externs
+-Wnls
+-Wno-effect-assign
+-Wnoexcept
+-Wnon-template-friend
+-Wnon-virtual-dtor
+-Wnonnull
+-Wnormalized
+-Wnormalized=
+-Wnull
+-Wodr
+-Wold-style-cast
+-Wold-style-declaration
+-Wold-style-definition
+-Wopenmp-simd
+-Wout-of-date
+-Wover-ann
+-Woverflow
+-Woverlength-strings
+-Woverloaded-virtual
+-Woverride-init
+-Wp,
+-Wpacked
+-Wpacked-bitfield-compat
+-Wpadded
+-Wparam-assign
+-Wparentheses
+-Wpedantic
+-Wpkg-default-method
+-Wpmf-conversions
+-Wpointer-arith
+-Wpointer-sign
+-Wpointer-to-int-cast
+-Wpragmas
+Warn about misuses of pragmas
+-Wproperty-assign-default
+-Wprotocol
+-Wpsabi
+-Wraw
+-Wreal-q-constant
+-Wrealloc-lhs
+-Wrealloc-lhs-all
+-Wredundant-decls
+-Wredundant-modifiers
+-Wreorder
+-Wreturn-local-addr
+-Wreturn-type
+-Wselector
+-Wsequence-point
+-Wserial
+-Wshadow
+-Wshadow-ivar
+-Wshift-count-negative
+-Wshift-count-overflow
+Eleele
+-Wsign-compare
+-Wsign-conversion
+-Wsign-promo
+-Wsized-deallocation
+-Wsizeof-array-argument
+-Wsizeof-pointer-memaccess
+-Wspecial-param-hiding
+-Wstack-protector
+-Wstack-usage=
+-Wstatic-access
+-Wstatic-receiver
+-Wstrict-aliasing
+-Wstrict-aliasing=
+-Wstrict-null-sentinel
+-Wstrict-overflow
+-Wstrict-overflow=
+-Wstrict-prototypes
+-Wstrict-selector-match
+-Wsuggest-attribute=const
+-Wsuggest-attribute=format
+-Wsuggest-attribute=noreturn
+-Wsuggest-attribute=pure
+-Wsuggest-final-methods
+-Wsuggest-final-types
+-Wsuggest-override
+-Wsuppress
+-Wsurprising
+-Wswitch
+-Wswitch-bool
+-Wswitch-default
+-Wswitch-enum
+-Wsync-nand
+God A red nugget A fat egg under a dog
+-Wsynth
+-Wsynthetic-access
+-Wsystem-headers
+-Wtabs
+-Wtarget-lifetime
+-Wtasks
+-Wtraditional
+-Wtraditional-conversion
+-Wtrampolines
+-Wtrigraphs
+-Wtype-hiding
+-Wtype-limits
+-Wuncheck
+-Wundeclared-selector
+-Wundef
+-Wunderflow
+-Wuninitialized
+-Wunknown-pragmas
+-Wunnecessary-else
+-Wunqualified-field
+-Wunreachable-code
+-Wunsafe-loop-optimizations
+-Wunsuffixed-float-constants
+-Wunused
+Enable all -Wunused- warnings
+-Wunused-argument
+-Wunused-but-set-parameter
+-Wunused-but-set-variable
+-Wunused-dummy-argument
+-Wunused-function
+-Wunused-import
+-Wunused-label
+Warn when a label is unused
+-Wunused-local
+-Wunused-local-typedefs
+-Wunused-macros
+-Wunused-parameter
+-Wunused-private
+-Wunused-result
+-Wunused-thrown
+-Wunused-value
+-Wunused-variable
+-Wuse-without-only
+-Wuseless-cast
+Warn about useless casts
+-Wuseless-type-check
+-Wvarargs
+-Wvarargs-cast
+-Wvariadic-macros
+-Wvirtual-move-assign
+-Wvla
+-Wvolatile-register-var
+-Wwarning-token
+-Wwrite-strings
+-Wzerotrip
+Warn about zero-trip DO loops
+-Xassembler
+-Xlinker
+-Xpreprocessor
+-aux-info
+-aux-info=
+-auxbase
+-auxbase-strip
+Enable preprocessing
+-cpp=
+-debuglib=
+-defaultlib=
+-dumpmachine
+-dumpspecs
+-dumpversion
+-export-dynamic
+-fCLASSPATH=
+-fPIC
+-fPIE
+-fRTS=
+Select the runtime
+-fXf=
+-fabi-compat-version=
+-fabi-version=
+-faccess-control
+-fada-spec-parent=
+-falign-commons
+-falign-functions
+Align the start of functions
+-falign-functions=
+-falign-jumps
+-falign-jumps=
+-falign-labels
+Align all labels
+-falign-labels=
+-falign-loops
+Align the start of loops
+-falign-loops=
+-fall-intrinsics
+-fall-virtual
+-fallow-leading-underscore
+-falt-external-templates
+No longer supported
+-fargument-alias
+-fargument-noalias
+-fargument-noalias-anything
+-fargument-noalias-global
+-fasan-shadow-offset=
+-fasm
+Recognize the "asm" keyword
+-fassert
+-fassociative-math
+-fassume-compiled
+-fassume-compiled=
+-fasynchronous-unwind-tables
+-fauto-inc-dec
+-fauto-profile
+-fauto-profile=
+-fautomatic
+-faux-classpath
+-fbackslash
+-fbacktrace
+-fblas-matmul-limit=
+-fbootclasspath=
+-fbootstrap-classes
+-fbounds-check
+-fbounds-check=
+-fbranch-count-reg
+-fbranch-probabilities
+-fbranch-target-load-optimize
+-fbtr-bb-exclusive
+-fbuilding-libgcc
+-fbuiltin
+Recognize built-in functions
+-fbuiltin-
+-fcall-saved-
+-fcall-used-
+-fcaller-saves
+-fcanonical-system-headers
+-fcheck-array-temporaries
+-fcheck-data-deps
+-fcheck-new
+-fcheck-pointer-bounds
+-fcheck-references
+-fcheck=
+-fchkp-check-incomplete-type
+-fchkp-check-read
+-fchkp-check-write
+-fchkp-instrument-calls
+-fchkp-instrument-marked-only
+-fchkp-narrow-bounds
+-fchkp-optimize
+-fchkp-store-bounds
+-fchkp-use-static-bounds
+-fchkp-use-wrappers
+-fcilkplus
+Enable Cilk Plus
+-fclasspath=
+-fcoarray=
+-fcombine-stack-adjustments
+-fcommon
+-fcompare-debug
+-fcompare-debug-second
+-fcompare-elim
+-fcompile-resource=
+-fcond-mismatch
+-fconserve-space
+-fconserve-stack
+-fconstant-string-class=
+-fconstexpr-depth=
+-fconvert=
+-fcprop-registers
+-fcray-pointer
+-fcrossjumping
+-fcse-follow-jumps
+-fcse-skip-blocks
+-fcx-fortran-rules
+-fcx-limited-range
+-fd-lines-as-code
+-fd-lines-as-comments
+-fd-verbose
+-fd-vgc
+-fd-vtls
+-fdata-sections
+-fdbg-cnt-list
+-fdbg-cnt=
+-fdce
+-fdebug
+Compile in debug code
+-fdebug-cpp
+-fdebug-prefix-map=
+-fdebug-types-section
+-fdebug=
+-fdeclone-ctor-dtor
+-fdeduce-init-list
+-fdefault-double-8
+-fdefault-inline
+-fdefault-integer-8
+-fdefault-real-8
+-fdefer-pop
+-fdelayed-branch
+-fdelete-dead-exceptions
+-fdelete-null-pointer-checks
+-fdeps
+-fdeps=
+-fdevirtualize
+-fdevirtualize-at-ltrans
+-fdevirtualize-speculatively
+-fdiagnostics-color
+never
+-fdiagnostics-color=
+-fdiagnostics-show-caret
+-fdiagnostics-show-location=
+-fdiagnostics-show-option
+-fdirectives-only
+Preprocess directives only.
+-fdisable-
+-fdisable-assertions
+-fdisable-assertions=
+-fdoc
+Generate documentation
+-fdoc-dir=
+-fdoc-file=
+-fdoc-inc=
+-fdollar-ok
+-fdollars-in-identifiers
+-fdse
+-fdump-
+-fdump-ada-spec
+-fdump-ada-spec-slim
+-fdump-core
+-fdump-final-insns
+-fdump-fortran-optimized
+-fdump-fortran-original
+-fdump-go-spec=
+-fdump-parse-tree
+-fdump-passes
+Dump optimization passes
+-fdump-unnumbered
+-fdump-unnumbered-links
+-fdwarf2-cfi-asm
+-fearly-inlining
+Perform early inlining
+-felide-constructors
+-feliminate-dwarf2-dups
+-femit-class-debug-always
+Output a class file
+-femit-class-files
+Alias for -femit-class-file
+-femit-moduleinfo
+-femit-struct-debug-baseonly
+-femit-struct-debug-detailed=
+-femit-struct-debug-reduced
+-femit-templates
+-fenable-
+-fenable-assertions
+-fenable-assertions=
+-fencoding=
+-fenforce-eh-specs
+-fenum-int-equiv
+-fexceptions
+Enable exception handling
+-fexcess-precision=
+-fexec-charset=
+-fexpensive-optimizations
+-fext-numeric-literals
+-fextdirs=
+-fextended-identifiers
+-fextern-tls-init
+-fexternal-blas
+-fexternal-templates
+-ff2c
+Use f2c calling convention
+-ffast-math
+-ffat-lto-objects
+-ffilelist-file
+-ffinite-math-only
+-ffixed-
+-ffixed-form
+-ffixed-line-length-
+-ffixed-line-length-none
+-ffloat-store
+-ffor-scope
+-fforce-addr
+-fforce-classes-archive-check
+-fforward-propagate
+-ffp-contract=
+-ffpe-summary=
+-ffpe-trap=
+-ffree-form
+-ffree-line-length-
+-ffree-line-length-none
+-ffreestanding
+-ffriend-injection
+-ffrontend-optimize
+Enable front end optimization
+-ffunction-cse
+-ffunction-sections
+-fgcse
+-fgcse-after-reload
+-fgcse-las
+-fgcse-lm
+-fgcse-sm
+-fgnu-keywords
+-fgnu-runtime
+-fgnu-tm
+-fgnu-unique
+-fgnu89-inline
+-fgo-check-divide-overflow
+-fgo-check-divide-zero
+-fgo-dump-
+-fgo-optimize-
+-fgo-pkgpath=
+-fgo-prefix=
+-fgo-relative-import-path=
+-fgraphite
+-fgraphite-identity
+-fguess-branch-probability
+-fguiding-decls
+-fhandle-exceptions
+-fhash-synchronization
+-fhelp
+-fhelp=
+-fhoist-adjacent-loads
+-fhonor-std
+-fhosted
+-fhuge-objects
+-fident
+Process #ident directives
+-fif-conversion
+-fif-conversion2
+-fignore-unknown-pragmas
+Ignore unsupported pragmas
+-fimplement-inlines
+-fimplicit-inline-templates
+-fimplicit-none
+-fimplicit-templates
+-fin
+-findirect-classes
+-findirect-dispatch
+-findirect-inlining
+Perform indirect inlining
+-finhibit-size-directive
+-finit-character=
+-finit-integer=
+-finit-local-zero
+-finit-logical=
+-finit-real=
+-finline
+-finline-atomics
+-finline-functions
+-finline-limit-
+-finline-limit=
+-finline-small-functions
+-finput-charset=
+-finstrument-functions
+-finteger-4-integer-8
+-fintfc
+-fintfc-dir=
+-fintfc-file=
+-fintrinsic-modules-path
+-fintrinsic-modules-path=
+-finvariants
+-fipa-cp
+-fipa-cp-alignment
+-fipa-cp-clone
+-fipa-icf
+-fipa-icf-functions
+-fipa-icf-variables
+-fipa-matrix-reorg
+-fipa-profile
+-fipa-pta
+-fipa-pure-const
+-fipa-ra
+-fipa-reference
+-fipa-sra
+-fipa-struct-reorg
+-fira-algorithm=
+-fira-hoist-pressure
+-fira-loop-pressure
+-fira-region=
+-fira-share-save-slots
+-fira-share-spill-slots
+-fira-verbose=
+-fivar-visibility=
+-fivopts
+-fjni
+-fjump-tables
+-fkeep-inline-dllexport
+-fkeep-inline-functions
+-fkeep-static-consts
+-flabels-ok
+-flax-vector-conversions
+-fleading-underscore
+-flifetime-dse
+-flive-range-shrinkage
+-flocal-ivars
+-floop-block
+-floop-flatten
+-floop-interchange
+-floop-nest-optimize
+-floop-optimize
+-floop-parallelize-all
+Mark all loops as parallel
+-floop-strip-mine
+-floop-unroll-and-jam
+-flra-remat
+-flto
+-flto-compression-level=
+-flto-odr-type-merging
+-flto-partition=
+-flto-report
+-flto-report-wpa
+-flto=
+-fltrans
+-fltrans-output-list=
+-fmain=
+-fmake-deps
+-fmake-deps=
+-fmake-mdeps
+-fmake-mdeps=
+-fmath-errno
+-fmax-array-constructor=
+-fmax-errors=
+-fmax-identifier-length=
+-fmax-stack-var-size=
+-fmax-subrecord-length=
+-fmem-report
+-fmem-report-wpa
+-fmerge-all-constants
+-fmerge-constants
+-fmerge-debug-strings
+-fmessage-length=
+-fmodule-private
+-fmoduleinfo
+-fmodulo-sched
+-fmodulo-sched-allow-regmoves
+-fmove-loop-invariants
+-fms-extensions
+-fmudflap
+-fmudflapir
+-fmudflapth
+-fname-mangling-version-
+-fnew-abi
+-fnext-runtime
+-fnil-receivers
+-fno-vect-cost-model
+unlimited
+-fnon-call-exceptions
+-fnonansi-builtins
+-fnonnull-objects
+-fnothrow-opt
+-fobjc-abi-version=
+-fobjc-call-cxx-cdtors
+-fobjc-direct-dispatch
+-fobjc-exceptions
+-fobjc-gc
+-fobjc-nilcheck
+-fobjc-sjlj-exceptions
+-fobjc-std=objc1
+-foffload-abi=
+-foffload=
+-fomit-frame-pointer
+-fonly=
+-fopenacc
+Enable OpenACC
+-fopenmp
+-fopenmp-simd
+-foperator-names
+-fopt-info
+-fopt-info-
+-foptimize-register-move
+-foptimize-sibling-calls
+-foptimize-strlen
+-foptional-diags
+-fout
+-foutput-class-dir=
+-fpack-derived
+-fpack-struct
+-fpack-struct=
+-fpartial-inlining
+Perform partial inlining
+-fpcc-struct-return
+-fpch-deps
+-fpch-preprocess
+-fpeel-loops
+Perform loop peeling
+-fpeephole
+-fpeephole2
+-fpermissive
+-fpic
+-fpie
+-fplan9-extensions
+-fplugin-arg-
+-fplugin=
+Specify a plugin to load
+-fpost-ipa-mem-report
+-fpre-ipa-mem-report
+-fpredictive-commoning
+-fprefetch-loop-arrays
+-fpreprocessed
+-fpretty-templates
+-fprofile
+-fprofile-arcs
+-fprofile-correction
+-fprofile-dir=
+-fprofile-generate
+-fprofile-generate=
+-fprofile-reorder-functions
+-fprofile-report
+-fprofile-use
+-fprofile-use=
+-fprofile-values
+-fproperty
+Enforce property syntax
+-fprotect-parens
+-frandom-seed
+-frandom-seed=
+-frange-check
+-freal-4-real-10
+-freal-4-real-16
+-freal-4-real-8
+-freal-8-real-10
+-freal-8-real-16
+-freal-8-real-4
+-frealloc-lhs
+-freciprocal-math
+-frecord-gcc-switches
+-frecord-marker=4
+-frecord-marker=8
+-frecursive
+-freduced-reflection
+-free
+-freg-struct-return
+-fregmove
+-frelease
+Compile release version
+-frename-registers
+-freorder-blocks
+-freorder-functions
+-frepack-arrays
+-freplace-objc-classes
+-frepo
+-freport-bug
+-frequire-return-statement
+-frerun-cse-after-loop
+-frerun-loop-opt
+-fresolution=
+The resolution file
+-frounding-math
+-frtti
+-fsanitize-recover
+-fsanitize-recover=
+-fsanitize=
+Select what to sanitize
+-fsaw-java-file
+-fsched-dep-count-heuristic
+-fsched-group-heuristic
+-fsched-interblock
+-fsched-last-insn-heuristic
+-fsched-pressure
+-fsched-rank-heuristic
+-fsched-spec
+-fsched-spec-insn-heuristic
+-fsched-spec-load
+-fsched-spec-load-dangerous
+-fsched-stalled-insns
+-fsched-stalled-insns-dep
+-fsched-stalled-insns-dep=
+-fsched-stalled-insns=
+-fsched-verbose=
+-fsched2-use-superblocks
+-fsched2-use-traces
+-fschedule-fusion
+-fschedule-insns
+-fschedule-insns2
+-fsecond-underscore
+-fsection-anchors
+-fsee
+-fsel-sched-pipelining
+-fselective-scheduling
+-fselective-scheduling2
+-fsemantic-interposition
+-fshort-double
+-fshort-enums
+-fshort-wchar
+-fshow-column
+-fshrink-wrap
+-fsign-zero
+-fsignaling-nans
+-fsigned-bitfields
+-fsigned-char
+Make "char" signed by default
+-fsigned-zeros
+-fsimd-cost-model=
+-fsingle-precision-constant
+-fsized-deallocation
+-fsource-filename=
+-fsource=
+-fsplit-ivs-in-unroller
+-fsplit-stack
+-fsplit-wide-types
+-fsquangle
+-fssa-phiopt
+-fstack-arrays
+-fstack-check
+-fstack-check=
+-fstack-limit
+-fstack-limit-register=
+-fstack-limit-symbol=
+-fstack-protector
+-fstack-protector-all
+-fstack-protector-explicit
+-fstack-protector-strong
+-fstack-reuse=
+-fstack-usage
+-fstats
+-fstdarg-opt
+-fstore-check
+-fstrength-reduce
+-fstrict-aliasing
+-fstrict-enums
+-fstrict-overflow
+-fstrict-prototype
+-fstrict-volatile-bitfields
+-fsync-libcalls
+-fsyntax-only
+-ftabstop=
+-ftarget-help
+-ftarget=
+Set the target VM version
+-ftemplate-backtrace-limit=
+-ftemplate-depth-
+-ftemplate-depth=
+-ftest-coverage
+-fthis-is-variable
+-fthread-jumps
+-fthreadsafe-statics
+-ftls-model=
+-ftoplevel-reorder
+-ftracer
+-ftrack-macro-expansion
+-ftrack-macro-expansion=
+-ftransition=field
+-ftransition=nogc
+-ftransition=tls
+-ftrapping-math
+-ftrapv
+-ftree-bit-ccp
+-ftree-builtin-call-dce
+-ftree-ccp
+-ftree-ch
+-ftree-coalesce-inlined-vars
+-ftree-coalesce-vars
+-ftree-copy-prop
+-ftree-copyrename
+-ftree-cselim
+-ftree-dce
+-ftree-dominator-opts
+-ftree-dse
+Enable dead store elimination
+-ftree-forwprop
+-ftree-fre
+-ftree-loop-distribution
+-ftree-loop-if-convert
+-ftree-loop-if-convert-stores
+-ftree-loop-im
+-ftree-loop-ivcanon
+-ftree-loop-linear
+-ftree-loop-optimize
+-ftree-loop-vectorize
+-ftree-lrs
+-ftree-parallelize-loops=
+-ftree-partial-pre
+-ftree-phiprop
+-ftree-pre
+-ftree-pta
+-ftree-reassoc
+-ftree-salias
+-ftree-scev-cprop
+-ftree-sink
+-ftree-slp-vectorize
+-ftree-slsr
+-ftree-sra
+-ftree-store-ccp
+-ftree-store-copy-prop
+-ftree-switch-conversion
+-ftree-tail-merge
+Enable tail merging on trees
+-ftree-ter
+-ftree-vect-loop-version
+-ftree-vectorize
+Enable vectorization on trees
+-ftree-vectorizer-verbose=
+-ftree-vrp
+-funderscoring
+-funit-at-a-time
+-funittest
+Compile in unittest code
+-funroll-all-loops
+-funroll-loops
+-funsafe-loop-optimizations
+-funsafe-math-optimizations
+-funsigned-bitfields
+-funsigned-char
+-funswitch-loops
+Perform loop unswitching
+-funwind-tables
+-fuse-atomic-builtins
+-fuse-boehm-gc
+-fuse-cxa-atexit
+-fuse-cxa-get-exception-ptr
+-fuse-divide-subroutine
+-fuse-ld=bfd
+-fuse-ld=gold
+-fuse-linker-plugin
+-fvar-tracking
+Perform variable tracking
+-fvar-tracking-assignments
+-fvar-tracking-uninit
+-fvect-cost-model
+-fvect-cost-model=
+-fverbose-asm
+-fversion
+-fversion=
+-fvisibility-inlines-hidden
+-fvisibility-ms-compat
+-fvisibility=
+-fvpt
+-fvtable-gc
+-fvtable-thunks
+-fvtable-verify=
+-fvtv-counts
+-fvtv-debug
+-fweak
+-fweb
+-fwhole-file
+-fwhole-program
+-fwide-exec-charset=
+-fworking-directory
+-fwpa
+-fwpa=
+-fwrapv
+-fxref
+-fzee
+-fzero-initialized-in-bss
+-fzero-link
+-gant
+Catch typos
+-gcoff
+-gdwarf
+-gdwarf-
+-gen-decls
+-ggdb
+-ggnu-pubnames
+-gnat
+-gnatO
+-gno-pubnames
+-gno-record-gcc-switches
+-gno-split-dwarf
+-gno-strict-dwarf
+-gpubnames
+-grecord-gcc-switches
+-gsplit-dwarf
+-gstabs
+-gstabs+
+-gstrict-dwarf
+-gvms
+-gxcoff
+-gxcoff+
+-gz=
+-idirafter
+-iquote
+-iwithprefix
+-iwithprefixbefore
+Synonym of -gnatk8
+-lang-asm
+-m128bit-long-double
+sizeof(long double) is 16
+-m16
+Generate 16bit i386 code
+-m32
+Generate 32bit i386 code
+-m3dnowa
+-m64
+Generate 64bit x86-64 code
+-m80387
+Use hardware fp
+-m8bit-idiv
+-m96bit-long-double
+sizeof(long double) is 12
+-mabi=
+-maccumulate-outgoing-args
+-maddress-mode=
+Use given address mode
+-malign-data=
+Use the given data alignment
+-malign-double
+-malign-functions=
+-malign-jumps=
+-malign-loops=
+-malign-stringops
+-mandroid
+-march=
+Generate code for given CPU
+-masm=
+Use given assembler dialect
+-mavx256-split-unaligned-load
+-mavx512ifma
+-mavx512vbmi
+-mbionic
+Use Bionic C library
+-mbranch-cost=
+-mcld
+Support CLWB instruction
+-mcmodel=
+Use given x86-64 code model
+-mcpu=
+-mcrc32
+-mdispatch-scheduler
+-mdump-tune-features
+-mfancy-math-387
+-mfentry
+-mforce-drap
+-mfp-ret-in-387
+-mfpmath=
+-mfunction-return=
+-mfused-madd
+-mglibc
+Use GNU C library
+-mhard-float
+-mieee-fp
+-mincoming-stack-boundary=
+-mindirect-branch-register
+-mindirect-branch=
+-minline-all-stringops
+-mintel-syntax
+intel
+-mlarge-data-threshold=
+-mlong-double-128
+Use 128-bit long double
+-mlong-double-64
+Use 64-bit long double
+-mlong-double-80
+Use 80-bit long double
+-mmemcpy-strategy=
+-mmemset-strategy=
+-mmpx
+Support MPX code generation
+-mms-bitfields
+-mno-align-stringops
+-mno-default
+Clear all tune features
+-mno-fancy-math-387
+-mno-push-args
+-mno-red-zone
+-mno-sse4
+-mnop-mcount
+-momit-leaf-frame-pointer
+-mpc32
+-mpc64
+-mpc80
+Support PCOMMIT instruction
+-mprefer-avx128
+-mpreferred-stack-boundary=
+Support PREFETCHW instruction
+-mpush-args
+Support RDSEED instruction
+-mrecip
+-mrecip=
+-mrecord-mcount
+-mred-zone
+-mregparm=
+-mrtd
+Alternate calling convention
+-mskip-rax-setup
+-msoft-float
+Do not use hardware fp
+-msse2avx
+-msse4
+-msse5
+%<-msse5%> was removed
+-msseregparm
+-mstack-arg-probe
+Enable stack probing
+-mstack-protector-guard=
+-mstackrealign
+Realign stack in prologue
+-mstringop-strategy=
+-mtls-dialect=
+-mtls-direct-seg-refs
+-mtune-ctrl=
+-mtune=
+Schedule code for given CPU
+-muclibc
+Use uClibc C library
+-mveclibabi=
+Vector library ABI to use
+-mvect8-ret-in-mem
+-mvzeroupper
+-mx32
+Generate 32bit x86-64 code
+Support XSAVEC instructions
+Support XSAVEOPT instruction
+-no-pie
+-nocpp
+Disable preprocessing
+-nodefaultlibs
+-nophoboslib
+-nostartfiles
+-nostdinc
+-nostdinc++
+-nostdlib
+Enable function profiling
+-posix
+-print-objc-runtime-info
+-print-sysroot-headers-suffix
+-pthread
+-rdynamic
+-remap
+-s-bc-abi
+-save-temps=
+Create a shared library
+-shared-libgcc
+-static-libasan
+-static-libgcc
+-static-libgcj
+-static-libgfortran
+-static-libgo
+-static-liblsan
+-static-libmpx
+-static-libmpxwrappers
+-static-libphobos
+-static-libstdc++
+-static-libtsan
+-static-libubsan
+-std=c++03
+-std=c++0x
+-std=c++11
+-std=c++14
+-std=c++17
+-std=c++1y
+-std=c++1z
+-std=c++98
+-std=c11
+-std=c1x
+-std=c89
+-std=c90
+-std=c99
+-std=c9x
+-std=f2003
+-std=f2008
+-std=f2008ts
+-std=f95
+-std=gnu
+-std=gnu++03
+-std=gnu++0x
+-std=gnu++11
+-std=gnu++14
+-std=gnu++17
+-std=gnu++1y
+-std=gnu++1z
+-std=gnu++98
+-std=gnu11
+-std=gnu1x
+-std=gnu89
+-std=gnu90
+-std=gnu99
+-std=gnu9x
+-std=iso9899:1990
+-std=iso9899:199409
+-std=iso9899:1999
+-std=iso9899:199x
+-std=iso9899:2011
+-std=legacy
+-time=
+-tno-android-cc
+-tno-android-ld
+-undef
+Enable verbose output
+Suppress warnings
+AdaSCIL
+AdaWhy
+ObjC
+ObjC++
+Valid arguments to -mfpmath=:
+Unrecognized option: %qs
+unknown IRA algorithm %qs
+unknown IRA region %qs
+unknown offload ABI %qs
+unknown Stack Reuse Level %qs
+unknown TLS model %qs
+preinit
+cheap
+global-dynamic
+initial-exec
+local-dynamic
+local-exec
+gnu2
+internal
+protected
+byte_loop
+libcall
+rep_4byte
+rep_8byte
+rep_byte
+unrolled_loop
+vector_loop
+named_vars
+ilp32
+lp64
+1to1
+balanced
+acml
+svml
+cacheline
+package
+public
+mixed
+priority
+keep
+thunk
+thunk-extern
+thunk-inline
+-inf
+snan
+big-endian
+little-endian
+native
+swap
+387+sse
+387,sse
+both
+sse+387
+sse,387
+standard
+every-line
+once
+nfkc
+zlib
+zlib-gnu
+kernel
+large
+medium
+small
+sysv
+safeonly
+common_handle_option_auto
+--help=<class>	Display descriptions of a specific class of options.  <class> is one or more of optimizers, target, warnings, undocumented, params
+--param <param>=<value>	Set parameter <param> to value.  See below for a complete list of parameters
+--print-missing-file-dependencies
+--print-sysroot-headers-suffix
+-A<question>=<answer>	Assert the <answer> to <question>.  Putting '-' before <question> disables the <answer> to <question>
+Do not discard comments in macro expansions
+-D<macro>[=<val>]	Define a <macro> with <val> as its value.  If just <macro> is given, <val> is taken to be 1
+-F <dir>	Add <dir> to the end of the main framework include path
+Print the name of header files as they are used
+-I <dir>	Add <dir> to the end of the main include path
+-J<directory>	Put MODULE files in 'directory'
+Generate make dependencies and compile
+-MF <file>	Write dependency output to the given file
+Treat missing header files as generated files
+Like -M but ignore system header files
+Like -MD but ignore system header files
+Generate phony targets for all headers
+-MQ <target>	Add a MAKE-quoted target
+missing makefile target after %qs
+-MT <target>	Add an unquoted target
+-O<number>	Set optimization level to <number>
+Optimize for speed disregarding exact standards compliance
+Optimize for debugging experience rather than speed or size
+Optimize for space rather than speed
+Do not generate #line directives
+This switch is deprecated; use -Wextra instead
+Warn about things that will change when compiling with an ABI-compliant compiler
+Warn if a subobject has an abi_tag attribute that the complete object type does not have
+Warn about things that change between the current -fabi-version and the specified version
+Warn about suspicious uses of memory addresses
+Warn about returning structures, unions or arrays
+-Waggressive-loop-optimizations
+Warn if a loop with constant number of iterations triggers undefined behavior
+Warn about possible aliasing of dummy arguments
+Warn about alignment of COMMON blocks
+Warn about missing ampersand in continued character constants
+Warn if an array is accessed out of bounds
+Warn about creation of array temporaries
+Warn whenever an Objective-C assignment is being intercepted by the garbage collector
+Warn about inappropriate attribute usage
+Warn about casting functions to incompatible types
+Warn about boolean expression compared with an integer value different from true/false
+Warn when a built-in preprocessor macro is undefined or redefined
+Warn about C constructs that are not in the common subset of C and C++
+Deprecated in favor of -Wc++11-compat
+Warn about C++ constructs whose meaning differs between ISO C++ 1998 and ISO C++ 2011
+Warn about C++ constructs whose meaning differs between ISO C++ 2011 and ISO C++ 2014
+Warn if the type of a variable might be not interoperable with C
+Warn about features not present in ISO C90, but present in ISO C99
+Warn about features not present in ISO C99, but present in ISO C11
+Warn about pointer casts which increase alignment
+Warn about casts which discard qualifiers
+Warn about casts that will produce a null or nil result
+Warn about subscripts whose type is "char"
+Warn about truncated character expressions
+Warn about memory access errors found by Pointer Bounds Checker
+Warn about variables that might be changed by "longjmp" or "vfork"
+Warn about possibly nested block comments, and C++ comments spanning more than one physical line
+Warn about equality comparisons involving REAL or COMPLEX expressions
+Warn for conditionally-supported constructs
+Warn for implicit type conversions that may change a value
+Warn about most implicit conversions
+Warn for converting NULL from/to a non-pointer type
+Warn in case profiles in -fprofile-use do not match
+Warn when a #warning directive is encountered
+Warn when all constructors and destructors are private
+Warn about __TIME__, __DATE__ and __TIMESTAMP__ usage
+Warn when a declaration is found after a statement
+Warn when deleting a pointer to incomplete type
+Warn about deleting polymorphic objects with non-virtual destructors
+Warn if a deprecated compiler feature, class, method, or field is used
+Warn about uses of __attribute__((deprecated)) declarations
+Warn about positional initialization of structs requiring designated initializers
+Warn when an optimization pass is disabled
+Warn if qualifiers on arrays which are pointer targets are discarded
+Warn if type qualifiers on pointers are discarded
+Warn about compile-time integer division by zero
+Warn about implicit conversions from "float" to "double"
+Warn about violations of Effective C++ style rules
+Warn about an empty body in an if or else statement
+Warn about stray tokens after #elif and #endif
+Warn about comparison of different enum types
+-Werror-implicit-function-declaration
+This switch is deprecated; use -Werror=implicit-function-declaration instead
+Treat specified warning as error
+Print extra (possibly unwanted) warnings
+Warn if deprecated empty statements are found
+Exit on the first error occurred
+Warn for implicit type conversions that cause loss of floating point precision
+Warn if testing floating point numbers for equality
+Warn about printf/scanf/strftime/strfmon format string anomalies
+Warn about format strings that contain NUL bytes
+Warn if passing too many arguments to a function for its format string
+Warn about format strings that are not literals
+Warn about possible security problems with format functions
+Warn about sign differences with format functions
+Warn about strftime formats yielding 2-digit years
+Warn about zero-length formats
+-Wframe-larger-than=<number>	Warn if a function's stack frame requires more than <number> bytes
+Warn when attempting to free a non-heap object
+Warn about function call elimination
+Warn whenever type qualifiers are ignored.
+Warn about implicit declarations
+-Wimplicit-function-declaration
+Warn about implicit function declarations
+Warn when a declaration does not specify a type
+Warn about calls with implicit interface
+Warn about called procedures not explicitly declared
+Warn when there is a conversion between pointers that have incompatible types
+Warn about C++11 inheriting constructors when the base has a variadic constructor
+Warn about variables which are initialized to themselves
+Warn when an inlined function cannot be inlined
+Warn about incompatible integer to pointer and pointer to integer conversions
+Warn when there is a cast to a pointer from an integer of a different size
+Warn if a user-procedure has the same name as an intrinsic
+Warn on intrinsics not part of the selected standard
+Warn when an atomic memory model parameter is known to be outside the valid range.
+Warn about invalid uses of the "offsetof" macro
+Warn about PCH files that are found but not used
+Warn when a jump misses a variable initialization
+-Wlarger-than=<number>	Warn if an object is larger than <number> bytes
+Warn about truncated source lines
+Warn when a string or character literal is followed by a ud-suffix which does not begin with an underscore.
+Warn when logical not is used on the left hand side operand of a comparison
+Warn when a logical operator is suspiciously always evaluating to true or false
+Do not warn about using "long long" when -pedantic
+Warn about suspicious declarations of "main"
+Warn about maybe uninitialized automatic variables
+Warn about suspicious calls to memset where the third argument is constant literal zero and the second is not
+Warn about possibly missing braces around initializers
+Warn about global functions without previous declarations
+Warn about missing fields in struct initializers
+Warn about user-specified include directories that do not exist
+Warn about function parameters declared without a type specifier in K&R-style functions
+Warn about global functions without prototypes
+switch %qs is no longer supported
+Warn about use of multi-character character constants
+Warn about narrowing conversions within { } that are ill-formed in C++11
+Warn about "extern" declarations not at file scope
+Warn when a noexcept expression evaluates to false even though the expression can't actually throw
+Warn when non-templatized friend functions are declared within a template
+Warn about non-virtual destructors
+Warn about NULL being passed to argument slots marked as requiring non-NULL
+-Wnormalized=<none|id|nfc|nfkc>	Warn about non-normalised Unicode strings
+Warn about some C++ One Definition Rule violations during link time optimization
+Warn if a C-style cast is used in a program
+Warn for obsolescent usage in a declaration
+Warn if an old-style parameter definition is used
+Warn if a simd directive is overridden by the vectorizer cost model
+Warn if .class files are out of date
+Warn about overflow in arithmetic expressions
+Warn if a string is longer than the maximum portable length specified by the standard
+Warn about overloaded virtual function names
+Warn about overriding initializers without side effects
+Warn when the packed attribute has no effect on struct layout
+Warn about packed bit-fields whose offset changed in GCC 4.4
+Warn when padding is required to align structure members
+Warn about possibly missing parentheses
+Issue warnings needed for strict compliance to the standard
+Warn when converting the type of pointers to member functions
+Warn about function pointer arithmetic
+Warn when a pointer differs in signedness in an assignment
+Warn when a pointer is cast to an integer of a different size
+Warn if a property for an Objective-C object has no assign semantics specified
+Warn if inherited methods are unimplemented
+Warn about real-literal-constants with 'q' exponent-letter
+Warn when a left-hand-side array variable is reallocated
+Warn when a left-hand-side variable is reallocated
+Warn about multiple declarations of the same object
+Warn if modifiers are specified when not necessary
+Warn when the compiler reorders code
+Warn about returning a pointer/reference to a local or temporary variable.
+Warn whenever a function's return type defaults to "int" (C), or about inconsistent return types (C++)
+Warn if a selector has multiple methods
+Warn about possible violations of sequence point rules
+Warn when one local variable shadows another
+Warn if a local declaration hides an instance variable
+Warn if shift count is negative
+Warn if shift count >= width of type
+Warn about signed-unsigned comparisons
+Warn for implicit type conversions between signed and unsigned integers
+Warn when overload promotes from unsigned to signed
+Warn about missing sized deallocation functions
+Warn when sizeof is applied on a parameter declared as an array
+Warn about suspicious length parameters to certain string functions if the argument uses sizeof
+Warn when not issuing stack smashing protection for some reason
+Warn if stack usage might be larger than specified amount
+Warn about code which might break strict aliasing rules
+Warn about uncasted NULL used as sentinel
+Warn about optimizations that assume that signed overflow is undefined
+Warn about unprototyped function declarations
+Warn if type signatures of candidate methods do not match exactly
+Warn about functions which might be candidates for __attribute__((const))
+Warn about functions which might be candidates for format attributes
+Warn about functions which might be candidates for __attribute__((noreturn))
+Warn about functions which might be candidates for __attribute__((pure))
+Warn about C++ virtual methods where adding final keyword would improve code quality
+Warn about C++ polymorphic types where adding final keyword would improve code quality
+Suggest that the override keyword be used when the declaration of a virtual function overrides another.
+Warn about "suspicious" constructs
+Warn about enumerated switches, with no default, missing a case
+Warn about switches with boolean controlling expression
+Warn about enumerated switches missing a "default:" statement
+Warn about all enumerated switches missing a specific case
+Warn when __sync_fetch_and_nand and __sync_nand_and_fetch built-in functions are used
+Deprecated.  This switch has no effect
+Do not suppress warnings from system headers
+Permit nonconforming uses of the tab character
+Warn if the pointer in a pointer assignment might outlive its target
+Warn about features not present in traditional C
+Warn of prototypes causing type conversions different from what would happen in the absence of prototype
+Warn whenever a trampoline is generated
+Warn if trigraphs are encountered that might affect the meaning of the program
+Warn if a comparison is always true or always false due to the limited range of the data type
+Warn about @selector()s without previously declared methods
+Warn if an undefined macro is used in an #if directive
+Warn about underflow of numerical constant expressions
+Warn about uninitialized automatic variables
+Warn about unrecognized pragmas
+Does nothing. Preserved for backward compatibility.
+Warn if the loop cannot be optimized due to nontrivial assumptions.
+Warn about unsuffixed float constants
+Warn when a function parameter is only set, otherwise unused
+Warn when a variable is only set, otherwise unused
+Warn about unused dummy arguments.
+Warn when a function is unused
+Warn when typedefs locally defined in a function are not used
+Warn about macros defined in the main file that are not used
+Warn when a function parameter is unused
+Warn if a caller of a function, marked with attribute warn_unused_result, does not use its return value
+Warn when an expression value is unused
+Warn when a variable is unused
+Warn about USE statements that have no ONLY qualifier
+Warn about questionable usage of the macros used to retrieve variable arguments
+Warn about using variadic macros
+-Wvector-operation-performance
+Warn when a vector operation is compiled outside the SIMD
+Warn if a virtual base has a non-trivial move assignment operator
+Warn if a variable length array is used
+Warn when a register variable is declared volatile
+In C++, nonzero means warn about deprecated conversion from string literals to 'char *'.  In C, similar warning, except that the conversion is of course not deprecated by the ISO C standard.
+-Wzero-as-null-pointer-constant
+Warn when a literal '0' is used as null pointer
+A synonym for -std=c89 (for C) or -std=c++98 (for C++)
+-aux-info <file>	Emit declaration information into <file>
+-d<letters>	Enable dumps from specific passes of the compiler
+Debug library to use instead of phobos
+Default library to use instead of phobos
+-dumpbase <file>	Set the file basename to be used for dumps
+-dumpdir <dir>	Set the directory name to be used for dumps
+--CLASSPATH	Deprecated; use --classpath instead
+Generate position-independent code if possible (large mode)
+Generate position-independent code for executables if possible (large mode)
+-fXf=<filename> Write JSON file to <filename>
+The version of the C++ ABI used for -Wabi warnings and link compatibility aliases
+The version of the C++ ABI in use
+Enforce class member access control semantics
+-fada-spec-parent=unit  Dump Ada specs as child units of given parent
+-faggressive-function-elimination
+Eliminate multiple function invokations also for impure functions
+-faggressive-loop-optimizations
+Aggressively optimize loops using language constraints
+Enable alignment of COMMON blocks
+Align labels which are only reached by jumping
+All intrinsics procedures are available regardless of selected standard
+-fallow-parameterless-variadic-functions
+Allow variadic functions without named parameter
+-fasan-shadow-offset=<number>	Use custom shadow memory offset.
+Permit the use of the assert keyword
+Allow optimization for floating-point arithmetic which may change the result of the operation due to rounding.
+Generate unwind tables that are exact at each instruction boundary
+Generate auto-inc/dec instructions
+Use sample profile information for call graph node weights. The default profile file is fbdata.afdo in 'pwd'.
+Use sample profile information for call graph node weights. The profile file is specified in the argument.
+Do not treat local variables and COMMON blocks as if they were named in SAVE statements
+Specify that backslash in string introduces an escape character
+Produce a backtrace when a runtime error is encountered
+-fblas-matmul-limit=<n>	Size of the smallest matrix for which matmul will use BLAS
+--bootclasspath=<path>	Replace system path
+Generated should be loaded by bootstrap loader
+Generate code to check bounds before indexing arrays
+-fbounds-check=[on|safeonly|off]	Turn array bounds checks on, in @safe code only, or off.
+Replace add, compare, branch with branch on count register
+Use profiling information for branch probabilities
+Perform branch target load optimization before prologue / epilogue threading
+-fbranch-target-load-optimize2
+Perform branch target load optimization after prologue / epilogue threading
+Restrict target load migration not to re-use registers in any basic block
+-fcall-saved-<register>	Mark <register> as being preserved across functions
+-fcall-used-<register>	Mark <register> as being corrupted by function calls
+Save registers around function calls
+Where shorter, use canonicalized paths to systems headers.
+Produce a warning at runtime if a array temporary has been created for a procedure argument
+Compare the results of several data dependence analyzers.
+Check the return value of new in C++
+Add Pointer Bounds Checker instrumentation.  fchkp-* flags are used to control instrumentation.  Currently available for C, C++ and ObjC.
+Generate checks for references to NULL
+-fcheck=[...]	Specify which runtime checks are to be performed
+Generate pointer bounds checks for variables with incomplete type
+Generate checks for all read accesses to memory.
+Generate checks for all write accesses to memory.
+-fchkp-first-field-has-own-bounds
+Forces Pointer Bounds Checker to use narrowed bounds for address of the first field in the structure.  By default pointer to the first field has the same bounds as pointer to the whole structure.
+Generate bounds passing for calls.
+Instrument only functions marked with bnd_instrument attribute.
+Control how Pointer Bounds Checker handle pointers to object fields.  When narrowing is on, field bounds are used.  Otherwise full object bounds are used.
+-fchkp-narrow-to-innermost-array
+Forces Pointer Bounds Checker to use bounds of the innermost arrays in case of nested static arryas access.  By default outermost array is used.
+Allow Pointer Bounds Checker optimizations.  By default allowed on optimization levels >0.
+Generate bounds stores for pointer writes.
+-fchkp-treat-zero-dynamic-size-as-infinite
+With this option zero size obtained dynamically for objects with incomplete type will be treated as infinite.
+-fchkp-use-fast-string-functions
+Allow to use *_nobnd versions of string functions by Pointer Bounds Checker.
+-fchkp-use-nochk-string-functions
+Allow to use *_nochk versions of string functions by Pointer Bounds Checker.
+Use statically initialized variable for vars bounds instead of generating them each time it is required.
+-fchkp-use-static-const-bounds
+Use statically initialized variable for constant bounds instead of generating them each time it is required.
+Transform instrumented builtin calls into calls to wrappers.
+-fchkp-zero-input-bounds-for-main
+Use zero bounds for all incoming arguments in 'main' function.  It helps when instrumented binaries are used with legacy libs.
+--classpath=<path>	Set class path
+-fcoarray=<none|single|lib>	Specify which coarray parallelization should be used
+Looks for opportunities to reduce stack adjustments and stack references.
+Do not put uninitialized globals in the common section
+Run only the second compilation of -fcompare-debug
+-fcompare-debug[=<opts>]	Compile with and without e.g. -gtoggle, and compare the final-insns dump
+Perform comparison elimination after register allocation has finished
+Allow the arguments of the '?' operator to have different types
+Does nothing.  Preserved for backward compatibility.
+Do not perform optimizations increasing noticeably stack usage
+-fconst-string-class=<name>	Use class <name> for constant strings
+no class name specified with %qs
+-fconstexpr-depth=<number>	Specify maximum constexpr recursion depth
+-fconvert=<big-endian|little-endian|native|swap> The endianness used for unformatted files.
+Perform a register copy-propagation optimization pass
+Use the Cray Pointer extension
+Perform cross-jumping optimization
+When running CSE, follow jumps to their targets
+Complex multiplication and division follow Fortran rules
+Omit range reduction step when performing complex division
+Ignore 'D' in column one in fixed form
+Treat lines with 'D' in column one as comments
+Deprecated in favor of --verbose
+Deprecated in favor of -ftransition=nogc
+Deprecated in favor of -ftransition=tls.
+Place data items into their own section
+List all available debugging counters with their limits and counts.
+-fdbg-cnt=<counter>:<limit>[,<counter>:<limit>,...]	Set the debug counter limit.   
+Use the RTL dead code elimination pass
+Emit debug annotations during preprocessing
+Map one directory name to another in debug information
+Output .debug_types section when using DWARF v4 debuginfo.
+-fdebug,-fdebug=<level>,-fdebug=<ident> Compile in debug code, code <= level, or code identified by ident
+Factor complex constructors and destructors to favor space over speed
+-fdeduce-init-list	enable deduction of std::initializer_list for a template type parameter from a brace-enclosed initializer-list
+Set the default double precision kind to an 8 byte wide type
+Set the default integer kind to an 8 byte wide type
+Set the default real kind to an 8 byte wide type
+Defer popping functions args from stack until later
+Attempt to fill delay slots of branch instructions
+Delete dead instructions that may throw exceptions
+Delete useless null pointer checks
+Print information about module dependencies
+-fdeps=<filename> Write module dependencies to filename
+Try to convert virtual calls to direct ones.
+Stream extra data to support more aggressive devirtualization in LTO local transformation mode
+Perform speculative devirtualization
+-fdiagnostics-color=[never|always|auto]	Colorize diagnostics
+Show the source line with a caret indicating the column
+-fdiagnostics-show-location=[once|every-line]	How often to emit source location at the beginning of line-wrapped diagnostics
+Amend appropriate diagnostic messages with the command line option that controls them
+-fdisable-[tree|rtl|ipa]-<pass>=range1+range2 disables an optimization pass
+-fdoc-dir=<docdir> Write documentation file to docdir directory
+-fdoc-file=<filename> Write documentation file to filename
+-fdoc-inc=<filename> Include a Ddoc macro file
+Allow dollar signs in entity names
+Permit '$' as an identifier character
+Use the RTL dead store elimination pass
+-fdump-<type>	Dump various compiler internals to a file
+Write all declarations as Ada code transitively
+Write all declarations as Ada code for the given file only
+-fdump-final-insns=filename	Dump to filename the insns at the end of translation
+Display the code tree after front end optimization
+Display the code tree after parsing
+-fdump-go-spec=filename	Write all declarations to file as Go code
+Suppress output of addresses in debugging dumps
+Display the code tree after parsing; deprecated option
+Suppress output of instruction numbers, line number notes and addresses in debugging dumps
+Suppress output of previous and next insn numbers in debugging dumps
+Enable CFI tables via GAS assembler directives.
+Perform DWARF2 duplicate elimination
+-feliminate-unused-debug-symbols
+Perform unused symbol elimination in debug info
+-feliminate-unused-debug-types
+Perform unused type elimination in debug info
+Do not suppress C++ class debug information.
+Deprecated in favor of -fmoduleinfo.
+-femit-struct-debug-baseonly	Aggressive reduced debug info for structs
+-femit-struct-debug-detailed=<spec-list>	Detailed reduced debug info for structs
+-femit-struct-debug-reduced	Conservative reduced debug info for structs
+Generate code for all template instantiations
+-fenable-[tree|rtl|ipa]-<pass>=range1+range2 enables an optimization pass
+--encoding=<encoding>	Choose input encoding (defaults from your locale)
+Generate code to check exception specifications
+-fexcess-precision=[fast|standard]	Specify handling of excess floating-point precision
+-fexec-charset=<cset>	Convert all strings and character constants to character set <cset>
+Perform a number of minor, expensive optimizations
+Interpret imaginary, fixed-point, or other gnu number suffix as the corresponding number literal rather than a user-defined number literal.
+--extdirs=<path>	Set the extension directory path
+Permit universal character names (\u and \U) in identifiers
+Support dynamic initialization of thread-local variables in a different translation unit
+Specify that an external BLAS library should be used for matmul calls on large-size arrays
+Output lto objects containing both the intermediate language and binary output.
+Input file is a file with a list of filenames to compile
+Assume no NaNs or infinities are generated
+-ffixed-<register>	Mark <register> as being unavailable to the compiler
+Assume that the source file is fixed form
+-ffixed-line-length-<n>	Use n as character line width in fixed mode
+Allow arbitrary character line width in fixed mode
+Don't allocate floats and doubles in extended-precision registers
+Scope of for-init-statement variables is local to the loop
+Always check for non gcj generated classes archives
+Perform a forward propagation pass on RTL
+-ffp-contract=[off|on|fast] Perform floating-point expression contraction.
+-ffpe-summary=[...]	Print summary of floating point exceptions
+-ffpe-trap=[...]	Stop on following floating point exceptions
+Assume that the source file is free form
+-ffree-line-length-<n>	Use n as character line width in free mode
+Allow arbitrary character line width in free mode
+Do not assume that standard C libraries and "main" exist
+Inject friend functions into enclosing namespace
+Allow function addresses to be held in registers
+Place each function into its own section
+Perform global common subexpression elimination
+Perform global common subexpression elimination after register allocation has finished
+Perform redundant load after store elimination in global common subexpression elimination
+Perform enhanced load motion during global common subexpression elimination
+Perform store motion after global common subexpression elimination
+Recognize GNU-defined keywords
+Generate code for GNU runtime environment
+Enable support for GNU transactional memory
+Use STB_GNU_UNIQUE if supported by the assembler
+Use traditional GNU semantics for inline functions
+Add explicit checks for division overflow in INT_MIN / -1
+Add explicit checks for division by zero
+-fgo-dump-<type>	Dump Go frontend internal information
+-fgo-optimize-<type>	Turn on optimization passes in the frontend
+-fgo-pkgpath=<string>	Set Go package path
+-fgo-prefix=<string>	Set package-specific prefix for exported Go names
+-fgo-relative-import-path=<path> Treat a relative import as relative to path
+Enable in and out of Graphite representation
+Enable Graphite Identity transformation
+Enable guessing of branch probabilities
+-fhandle-exceptions has been renamed -fexceptions (and is now on by default)
+Assume the runtime uses a hash table to map an object to its synchronization structure
+Enable hoisting adjacent loads to encourage generating conditional move instructions
+Assume normal C execution environment
+Perform conversion of conditional jumps to branchless equivalents
+Perform conversion of conditional jumps to conditional execution
+Export functions even if they can be inlined
+Emit implicit instantiations of inline templates
+Specify that no implicit typing is allowed, unless overridden by explicit IMPLICIT statements
+Emit implicit instantiations of templates
+Generate runtime code for in() contracts
+Generate instances of Class at runtime
+Use offset tables for virtual method calls
+Do not generate .size directives
+-finit-character=<n>	Initialize local character variables to ASCII value n
+-finit-integer=<n>	Initialize local integer variables to n
+Initialize local variables to zero (from g77)
+-finit-logical=<true|false>	Initialize local logical variables
+-finit-real=<zero|snan|nan|inf|-inf>	Initialize local real variables
+Enable inlining of function declared "inline", disabling disables all inlining
+Inline __atomic operations when a lock free instruction sequence is available.
+Integrate functions not declared "inline" into their callers when profitable
+-finline-functions-called-once
+Integrate functions only required by their single caller
+-finline-limit=<number>	Limit the size of inlined functions to <number>
+Integrate functions into their callers when code size is known not to grow
+-finput-charset=<cset>	Specify the default character set for source files
+Instrument function entry and exit with profiling calls
+-finstrument-functions-exclude-file-list=
+-finstrument-functions-exclude-file-list=filename,...  Do not instrument functions listed in files
+-finstrument-functions-exclude-function-list=
+-finstrument-functions-exclude-function-list=name,...  Do not instrument listed functions
+Interpret any INTEGER(4) as an INTEGER(8)
+-fintfc-dir=<dir> Write D interface files to directory <dir>
+-fintfc-file=<filename> Write D interface file to <filename>
+Specify where to find the compiled intrinsic modules
+Generate runtime code for invariant()'s
+Perform interprocedural constant propagation
+Perform alignment discovery and propagation to make Interprocedural constant propagation stronger
+Perform cloning to make Interprocedural constant propagation stronger
+Perform Identical Code Folding for functions and read-only variables
+Perform Identical Code Folding for functions
+Perform Identical Code Folding for variables
+Perform interprocedural profile propagation
+Perform interprocedural points-to analysis
+Discover pure and const functions
+Use caller save register across calls if possible
+Discover readonly and non addressable static variables
+Perform interprocedural reduction of aggregates
+-fira-algorithm=[CB|priority] Set the used IRA algorithm
+Use IRA based register pressure calculation in RTL hoist optimizations.
+Use IRA based register pressure calculation in RTL loop optimizations.
+-fira-region=[one|all|mixed] Set regions for IRA
+Share slots for saving different hard registers.
+Share stack slots for spilled pseudo-registers.
+-fira-verbose=<number>	Control IRA's level of diagnostic messages.
+-fisolate-erroneous-paths-attribute
+Detect paths that trigger erroneous or undefined behavior due a null value being used in a way forbidden by a returns_nonnull or nonnull attribute.  Isolate those paths from the main control flow and turn the statement with erroneous or undefined behavior into a trap. 
+-fisolate-erroneous-paths-dereference
+Detect paths that trigger erroneous or undefined behavior due to dereferencing a null pointer.  Isolate those paths from the main control flow and turn the statement with erroneous or undefined behavior into a trap.
+-fvisibility=[private|protected|public|package]	Set the default symbol visibility
+Optimize induction variables on trees
+Assume native functions are implemented using JNI
+Use jump tables for sufficiently large switch statements
+Don't emit dllexported inline functions unless needed
+Generate code for functions even if they are fully inlined
+Emit static const variables even if they are not used
+Allow implicit conversions between vectors with differing numbers of subparts and/or differing element types.
+Give external symbols a leading underscore
+Tell DSE that the storage for a C++ object is dead when the constructor starts and when the destructor finishes.
+Relief of register pressure through live range shrinkage
+Allow access to instance variables as if they were local declarations within instance method implementations.
+Enable Loop Blocking transformation
+Enable Loop Interchange transformation
+Enable the ISL based loop nest optimizer
+Enable Loop Strip Mining transformation
+Enable Loop Unroll Jam transformation
+Do CFG-sensitive rematerialization in LRA
+Enable link-time optimization.
+-flto-compression-level=<number>	Use zlib compression level <number> for IL
+Merge C++ types using One Definition Rule
+Specify the algorithm to partition symbols and vars at linktime
+Report various link-time optimization statistics
+Report various link-time optimization statistics for WPA only
+Link-time optimization with number of parallel jobs or jobserver.
+Run the link-time optimizer in local transformation (LTRANS) mode.
+Specify a file to which a list of files output by LTRANS is written.
+Print information about module makefile dependencies
+-fmake-deps=<file> Write makefile dependency output to the given file
+Like -fmake-deps but ignore system modules
+Like -fmake-deps=<file> but ignore system modules
+Set errno after built-in math functions
+-fmax-array-constructor=<n>	Maximum number of objects in an array constructor
+-fmax-errors=<number>	Maximum number of errors to report
+-fmax-identifier-length=<n>	Maximum identifier length
+-fmax-stack-var-size=<n>	Size in bytes of the largest array that will be put on the stack
+-fmax-subrecord-length=<n>	Maximum length for subrecords
+Report on permanent memory allocation
+Report on permanent memory allocation in WPA only
+Attempt to merge identical constants and constant variables
+Attempt to merge identical constants across compilation units
+Attempt to merge identical debug strings across compilation units
+-fmessage-length=<number>	Limit diagnostics to <number> characters per line.  0 suppresses line-wrapping
+Set default accessibility of module entities to PRIVATE.
+Generate ModuleInfo struct for output module
+Perform SMS based modulo scheduling before the first scheduling pass
+Perform SMS based modulo scheduling with register moves allowed
+Move loop invariant computations out of loops
+Don't warn about uses of Microsoft extensions
+Generate code for NeXT (Apple Mac OS X) runtime environment
+Assume that receivers of Objective-C messages may be nil
+Enables the unlimited vectorizer cost model.  Preserved for backward compatibility.
+Support synchronous non-call exceptions
+Treat a throw() exception specification as noexcept to improve code size
+Specify which ABI to use for Objective-C family code and meta-data generation.
+Generate special Objective-C methods to initialize/destroy non-POD C++ ivars, if needed
+Allow fast jumps to the message dispatcher
+Enable Objective-C exception and synchronization syntax
+Enable garbage collection (GC) in Objective-C/Objective-C++ programs
+Enable inline checks for nil receivers with the NeXT runtime and ABI version 2.
+Enable Objective-C setjmp exception handling runtime
+Conform to the Objective-C 1.0 language as implemented in GCC 4.0
+-foffload-abi=[lp64|ilp32]     Set the ABI to use in an offload compiler
+-foffload=<targets>=<options>  Specify offloading targets and options for them
+options or targets missing after %qs
+When possible do not generate stack frames
+Process all modules specified on the command line, but only generate code for the module specified by the argument
+Enable OpenMP (implies -frecursive in Fortran)
+Enable OpenMP's SIMD directives
+Recognize C++ keywords like "compl" and "xor"
+Enable all optimization info dumps on stderr
+-fopt-info[-<type>=filename]	Dump compiler optimization details
+Optimize sibling and tail recursive calls
+-foptimize-static-class-initialization
+Enable optimization of static class initialization code
+Enable string length optimizations on trees
+Generate runtime code for out() contracts
+Try to lay out derived types as compactly as possible
+Pack structure members together without holes
+-fpack-struct=<number>	Set initial maximum structure member alignment
+Return small aggregates in memory, not registers
+Look for and use PCH files even when preprocessing
+Enable machine specific peephole optimizations
+Enable an RTL peephole pass before sched2
+Downgrade conformance errors to warnings
+Generate position-independent code if possible (small mode)
+Generate position-independent code for executables if possible (small mode)
+Enable Plan 9 language extensions
+-fplugin-arg-<name>-<key>[=<value>]	Specify argument <key>=<value> for plugin <name>
+Report on memory allocation before interprocedural optimization
+Run predictive commoning optimization.
+Generate prefetch instructions, if available, for arrays in loops
+Treat the input file as already preprocessed
+-fno-pretty-templates Do not pretty-print template specializations as the template signature followed by the arguments
+Enable basic program profiling code
+Insert arc-based program profiling code
+Enable correction of flow inconsistent profile data input
+Set the top-level directory for storing the profile data. The default is 'pwd'.
+Enable common options for generating profile info for profile feedback directed optimizations
+Enable common options for generating profile info for profile feedback directed optimizations, and set -fprofile-dir=
+Enable function reordering that improves code placement
+Report on consistency of profile
+Enable common options for performing profile feedback directed optimizations
+Enable common options for performing profile feedback directed optimizations, and set -fprofile-dir=
+Insert code to profile values of expressions
+Protect parentheses in expressions
+-frandom-seed=<string>	Make compile reproducible using <string>
+Enable range checking during compilation
+Interpret any REAL(4) as a REAL(10)
+Interpret any REAL(4) as a REAL(16)
+Interpret any REAL(4) as a REAL(8)
+Interpret any REAL(8) as a REAL(10)
+Interpret any REAL(8) as a REAL(16)
+Interpret any REAL(8) as a REAL(4)
+Reallocate the LHS in assignments
+Same as -fassociative-math for expressions which include division.
+Record gcc command line switches in the object file.
+Use a 4-byte record marker for unformatted files
+Use an 8-byte record marker for unformatted files
+Allocate local variables on the stack to allow indirect recursion
+Reduce the amount of reflection meta-data generated
+Turn on Redundant Extensions Elimination pass.
+Return small aggregates in registers
+Perform a register renaming optimization pass
+Reorder basic blocks to improve code placement
+-freorder-blocks-and-partition
+Reorder basic blocks and partition into hot and cold sections
+Reorder functions to improve code placement
+Copy array sections into a contiguous block on procedure entry
+Used in Fix-and-Continue mode to indicate that object files may be swapped in at runtime
+Enable automatic template instantiation
+Collect and dump debug information into temporary file if ICE in C/C++ compiler occured.
+Functions which return values must end with return statements
+Add a common subexpression elimination pass after loop optimizations
+-freschedule-modulo-scheduled-loops
+Enable/Disable the traditional scheduling in loops that already passed modulo scheduling
+Disable optimizations that assume default FP rounding behavior
+Generate run time type descriptor information
+This switch is deprecated; use -fsanitize-recover= instead
+After diagnosing undefined behavior attempt to continue execution
+-fsanitize-undefined-trap-on-error
+Use trap instead of a library function for undefined behavior sanitization
+-fsched-critical-path-heuristic
+Enable the critical path heuristic in the scheduler
+Enable the dependent count heuristic in the scheduler
+Enable the group heuristic in the scheduler
+Enable scheduling across basic blocks
+Enable the last instruction heuristic in the scheduler
+Enable register pressure sensitive insn scheduling
+Enable the rank heuristic in the scheduler
+Allow speculative motion of non-loads
+Enable the speculative instruction heuristic in the scheduler
+Allow speculative motion of some loads
+Allow speculative motion of more loads
+Allow premature scheduling of queued insns
+Set dependence distance checking in premature scheduling of queued insns
+-fsched-stalled-insns-dep=<number>	Set dependence distance checking in premature scheduling of queued insns
+-fsched-stalled-insns=<number>	Set number of queued insns that can be prematurely scheduled
+-fsched-verbose=<number>	Set the verbosity level of the scheduler
+If scheduling post reload, do superblock scheduling
+Perform a target dependent instruction fusion optimization pass
+Reschedule instructions before register allocation
+Reschedule instructions after register allocation
+Append a second underscore if the name already contains an underscore
+Access data in the same section from shared anchor points
+Perform software pipelining of inner loops during selective scheduling
+-fsel-sched-pipelining-outer-loops
+Perform software pipelining of outer loops during selective scheduling
+-fsel-sched-reschedule-pipelined
+Reschedule pipelined regions without pipelining
+Schedule instructions using selective scheduling algorithm
+Run selective scheduling after reload
+Allow interposing function (or variables) by ones with different semantics (or initializer) respectively by dynamic linker
+Use the same size for double as for float
+Use the narrowest integer type possible for enumeration types
+Force the underlying type for "wchar_t" to be "unsigned short"
+Show column numbers in diagnostics, when available.  Default on
+Emit function prologues only before parts of the function that need it, rather than at the top of the function.
+Apply negative sign to zero values
+Disable optimizations observable by IEEE signaling NaNs
+When "signed" or "unsigned" is not given make the bitfield signed
+Disable floating point optimizations that ignore the IEEE signedness of zero
+Specifies the vectorization cost model for code marked with a simd directive
+Convert floating point constants to single precision constants
+Enable C++14 sized deallocation support
+Set the source language version
+Split lifetimes of induction variables when loops are unrolled
+Generate discontiguous stack frames
+Split wide types into independent registers
+Optimize conditional patterns using SSA PHI nodes
+Put all local arrays on stack.
+Insert stack checking code into the program.  Same as -fstack-check=specific
+-fstack-check=[no|generic|specific]	Insert stack checking code into the program
+-fstack-limit-register=<register>	Trap if the stack goes past <register>
+-fstack-limit-symbol=<name>	Trap if the stack goes past symbol <name>
+Use propolice as a stack protection method
+Use a stack protection method for every function
+Use stack protection method only for functions with the stack_protect attribute
+Use a smart stack protection method for certain functions
+-fstack-reuse=[all|named_vars|none] Set stack reuse level for local variables.
+Output stack usage information on a per-function basis
+Display statistics accumulated during compilation
+Optimize amount of stdarg registers saved to stack at start of function
+Enable assignability checks for stores into object arrays
+Assume strict aliasing rules apply
+Assume that values of enumeration type are always within the minimum range of that type
+Treat signed overflow as undefined
+Force bitfield accesses to match their type width
+Implement __atomic operations via libcalls to legacy __sync functions
+Check for syntax errors, then stop
+-ftabstop=<number>	Distance between tab stops for column reporting
+Set the maximum number of template instantiation notes for a single warning or error
+-ftemplate-depth=<number>	Specify maximum template instantiation depth
+Create data files needed by "gcov"
+Perform jump threading optimizations
+-fno-threadsafe-statics	Do not generate thread-safe code for initializing local statics
+Report the time taken by each compiler pass
+-ftls-model=[global-dynamic|local-dynamic|initial-exec|local-exec]	Set the default thread-local storage code generation model
+Reorder top level functions, variables, and asms
+Perform superblock formation via tail duplication
+-ftrack-macro-expansion=<0|1|2>  Track locations of tokens coming from macro expansion and display them in error messages
+List all non-mutable fields which occupy an object instance.
+List all hidden GC allocations.
+List all variables going into thread local storage.
+Assume floating-point operations can trap
+Trap for signed overflow in addition, subtraction and multiplication
+Enable SSA-BIT-CCP optimization on trees
+Enable conditional dead code elimination for builtin calls
+Enable SSA-CCP optimization on trees
+Enable loop header copying on trees
+Enable coalescing of copy-related user variables that are inlined
+Enable coalescing of all copy-related user variables
+Enable copy propagation on trees
+Replace SSA temporaries with better names in copies
+Transform condition stores into unconditional ones
+Enable SSA dead code elimination optimization on trees
+Enable dominator optimizations
+Enable forward propagation on trees
+Enable Full Redundancy Elimination (FRE) on trees
+-ftree-loop-distribute-patterns
+Enable loop distribution for patterns transformed into a library call
+Enable loop distribution on trees
+Convert conditional jumps in innermost loops to branchless equivalents
+Also if-convert conditional jumps containing memory writes
+Enable loop invariant motion on trees
+Create canonical induction variables in loops
+Enable loop interchange transforms.  Same as -floop-interchange
+Enable loop optimizations on tree level
+Enable loop vectorization on trees
+Perform live range splitting during the SSA->normal pass
+Enable automatic parallelization of loops
+In SSA-PRE optimization on trees, enable partial-partial redundancy elimination
+Enable hoisting loads from conditional pointers.
+Enable SSA-PRE optimization on trees
+Perform function-local points-to analysis on trees.
+Enable reassociation on tree level
+Enable copy propagation of scalar-evolution information.
+Enable SSA code sinking on trees
+Enable basic block vectorization (SLP) on trees
+Perform straight-line strength reduction
+Perform scalar replacement of aggregates
+Perform conversions of switch initializations.
+Replace temporary expressions in the SSA->normal pass
+Perform Value Range Propagation on trees
+Append underscores to externally visible names
+Compile whole compilation unit at a time
+Perform loop unrolling for all loops
+Perform loop unrolling when iteration count is known
+Allow loop optimizations to assume that the loops behave in normal way
+Allow math optimizations that may violate IEEE or ISO standards
+When "signed" or "unsigned" is not given make the bitfield unsigned
+Make "char" unsigned by default
+Just generate unwind tables for exception handling
+Generate code for built-in atomic operations
+Generate code for the Boehm GC
+Use __cxa_atexit to register destructors
+Use __cxa_get_exception_ptr in exception handling
+Call a library routine to do integer divisions
+Use the bfd linker instead of the default linker
+Use the gold linker instead of the default linker
+Perform variable tracking by annotating assignments
+-fvar-tracking-assignments-toggle
+Toggle -fvar-tracking-assignments
+Perform variable tracking and also tag variables that are uninitialized
+-fvariable-expansion-in-unroller
+Apply variable expansion when loops are unrolled
+Enables the dynamic vectorizer cost model.  Preserved for backward compatibility.
+Specifies the cost model for vectorization
+Add extra commentary to assembler output
+-fversion=<level|ident> Compile in version code >= <level> or identified by <ident>
+Marks all inlined functions and methods as having hidden visibility
+Changes visibility to match Microsoft Visual Studio by default
+-fvisibility=[default|internal|hidden|protected]	Set the default symbol visibility
+Use expression value profiles in optimizations
+Validate vtable pointers before using them.
+Output vtable verification counters.
+Output vtable verification pointer sets information.
+Emit common-like symbols as weak symbols
+Construct webs and split unrelated uses of single variable
+Perform whole program optimizations
+-fwide-exec-charset=<cset>	Convert all wide strings and character constants to character set <cset>
+Generate a #line directive pointing at the current working directory
+Run the link-time optimizer in whole program analysis (WPA) mode.
+Whole program analysis (WPA) mode with number of parallel jobs specified.
+Assume signed arithmetic overflow wraps around
+Put zero initialized data in the bss section
+Generate lazy class lookup (via objc_getClass()) for use in Zero-Link mode
+Generate debug information in default format
+Generate debug information in COFF format
+Generate debug information in default version of DWARF format
+Generate debug information in DWARF v2 (or later) format
+Dump declarations to a .decl file
+Generate debug information in default extended format
+Generate DWARF pubnames and pubtypes sections with GNU extensions.
+-gnat<options>	Specify options to GNAT
+Set name of output ALI file (internal switch)
+Don't generate DWARF pubnames and pubtypes sections.
+Don't record gcc command line switches in DWARF DW_AT_producer.
+Don't generate debug information in separate .dwo files
+Emit DWARF additions beyond selected version
+Generate DWARF pubnames and pubtypes sections.
+Record gcc command line switches in DWARF DW_AT_producer.
+Generate debug information in separate .dwo files
+Generate debug information in STABS format
+Generate debug information in extended STABS format
+Don't emit DWARF additions beyond selected version
+Toggle debug information generation
+Generate debug information in VMS format
+Generate debug information in XCOFF format
+Generate debug information in extended XCOFF format
+Generate compressed debug sections
+-gz=<format>	Generate compressed debug sections in format <format>
+-idirafter <dir>	Add <dir> to the end of the system include path
+-imacros <file>	Accept definition of macros in <file>
+-imultiarch <dir>	Set <dir> to be the multiarch include subdirectory
+-imultilib <dir>	Set <dir> to be the multilib include subdirectory
+-include <file>	Include the contents of <file> before other files
+-iplugindir=<dir>	Set <dir> to be the default plugin directory
+-iprefix <path>	Specify <path> as a prefix for next two options
+-iquote <dir>	Add <dir> to the end of the quote include path
+-isysroot <dir>	Set <dir> to be the system root directory
+-isystem <dir>	Add <dir> to the start of the system include path
+-iwithprefix <dir>	Add <dir> to the end of the system include path
+-iwithprefixbefore <dir>	Add <dir> to the end of the main include path
+Support 3DNow! built-in functions
+Support Athlon 3Dnow! built-in functions
+Expand 32bit/64bit integer divide into 8bit unsigned integer divide with run-time check
+Generate code that conforms to the given ABI
+Support code generation of Advanced Bit Manipulation (ABM) instructions.
+Reserve space for outgoing arguments in the function prologue
+Support flag-preserving add-carry instructions
+Support AES built-in functions and code generation
+Align some doubles on dword boundary
+Function starts are aligned to this power of 2
+Jump targets are aligned to this power of 2
+Loop code aligned to this power of 2
+Align destination of the string operations
+Generate code for the Android platform.
+Support MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2 and AVX built-in functions and code generation
+Support MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX and AVX2 built-in functions and code generation
+Split 32-byte AVX unaligned load
+-mavx256-split-unaligned-store
+Split 32-byte AVX unaligned store
+Support MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2 and AVX512F and AVX512BW built-in functions and code generation
+Support MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2 and AVX512F and AVX512CD built-in functions and code generation
+Support MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2 and AVX512F and AVX512DQ built-in functions and code generation
+Support MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2 and AVX512F and AVX512ER built-in functions and code generation
+Support MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2 and AVX512F built-in functions and code generation
+Support MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2 and AVX512F and AVX512IFMA built-in functions and code generation
+Support MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2 and AVX512F and AVX512PF built-in functions and code generation
+Support MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2 and AVX512F and AVX512VBMI built-in functions and code generation
+Support MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2 and AVX512F and AVX512VL built-in functions and code generation
+Support BMI built-in functions and code generation
+Support BMI2 built-in functions and code generation
+Branches are this expensive (1-5, arbitrary units)
+Generate cld instruction in the function prologue.
+Support CLFLUSHOPT instructions
+%<-mcpu=%> is deprecated; use %<-mtune=%> or %<-march=%> instead
+Support code generation of crc32 instruction.
+Support code generation of cmpxchg16b instruction.
+Do dispatch scheduling if processor is bdver1 or bdver2 or bdver3 or bdver4 and Haifa scheduling is selected.
+Support F16C built-in functions and code generation
+Generate sin, cos, sqrt for FPU
+Emit profiling counter call at function entry before prologue.
+Support MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX and FMA built-in functions and code generation
+Support FMA4 built-in functions and code generation 
+Always use Dynamic Realigned Argument Pointer (DRAP) to realign stack
+Return values of functions in FPU registers
+Generate floating point mathematics using given instruction set
+Support FSGSBASE built-in functions and code generation
+Convert function return to call and return thunk.
+%<-mfused-madd%> is deprecated; use %<-ffp-contract=%> instead
+Support FXSAVE and FXRSTOR instructions
+Support Hardware Lock Elision prefixes
+Use IEEE math for fp comparisons
+Assume incoming stack aligned to this power of 2
+Force indirect call and jump via register.
+Convert indirect call and jump to call and return thunks.
+Inline all known string operations
+-minline-stringops-dynamically
+Inline memset/memcpy string operations, but perform inline version only for small blocks
+%<-mintel-syntax%> and %<-mno-intel-syntax%> are deprecated; use %<-masm=intel%> and %<-masm=att%> instead
+Data greater than given threshold will go into .ldata section in x86-64 medium model
+Support LWP built-in functions and code generation 
+Support LZCNT built-in function and code generation
+Specify memcpy expansion strategy when expected size is known
+Specify memset expansion strategy when expected size is known
+Support MMX built-in functions
+Support code generation of movbe instruction.
+Use native (MS) bitfield layout
+Support MWAITX and MONITORX built-in functions and code generation
+Do not support SSE4.1 and SSE4.2 built-in functions and code generation
+Generate mcount/__fentry__ calls as nops. To activate they need to be patched in.
+Omit the frame pointer in leaf functions
+Set 80387 floating-point precision to 32-bit
+Set 80387 floating-point precision to 64-bit
+Set 80387 floating-point precision to 80-bit
+Support PCLMUL built-in functions and code generation
+Support code generation of popcnt instruction.
+Use 128-bit AVX instructions instead of 256-bit AVX instructions in the auto-vectorizer.
+Attempt to keep stack aligned to this power of 2
+Support PREFETCHWT1 built-in functions and code generation
+Use push instructions to save outgoing arguments
+Support RDRND built-in functions and code generation
+Generate reciprocals instead of divss and sqrtss.
+Control generation of reciprocal estimates.
+Generate __mcount_loc section with all mcount or __fentry__ calls.
+Use red-zone in the x86-64 code
+Number of registers used to pass integer arguments
+Support RTM built-in functions and code generation
+Support code generation of sahf instruction in 64bit x86-64 code.
+Support SHA1 and SHA256 built-in functions and code generation
+Skip setting up RAX register when passing variable arguments.
+Support MMX and SSE built-in functions and code generation
+Support MMX, SSE and SSE2 built-in functions and code generation
+Encode SSE instructions with VEX prefix
+Support MMX, SSE, SSE2 and SSE3 built-in functions and code generation
+Support MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1 and SSE4.2 built-in functions and code generation
+Support MMX, SSE, SSE2, SSE3, SSSE3 and SSE4.1 built-in functions and code generation
+Support MMX, SSE, SSE2, SSE3 and SSE4A built-in functions and code generation
+Use SSE register passing conventions for SF and DF mode
+Support MMX, SSE, SSE2, SSE3 and SSSE3 built-in functions and code generation
+Use given stack-protector guard
+Chose strategy to generate stringop using
+Support TBM built-in functions and code generation
+Use given thread-local storage dialect
+Use direct references against %gs when accessing tls data
+Fine grain control of tune features
+Return 8-byte vectors in memory
+Generate vzeroupper instruction before a transfer of control flow out of the function.
+Support XOP built-in functions and code generation 
+Support XSAVE and XRSTOR instructions
+Support XSAVES and XRSTORS instructions
+Don't create a position independent executable
+Do not link the standard D library in the compilation
+Do not search standard system include directories (those specified with -isystem will still be used)
+Do not search standard system include directories for C++
+Do not look for object files in standard path
+-o <file>	Place output into <file>
+Like -pedantic but issue them as errors
+Create a position independent executable
+Generate C header of platform-specific features
+Do not display functions compiled or elapsed time
+Remap file names when including files
+Statically link the GNU Fortran helper library (libgfortran)
+Link the standard D library statically in the compilation
+Conform to the ISO 1998 C++ standard revised by the 2003 technical corrigendum
+Deprecated in favor of -std=c++11
+Conform to the ISO 2011 C++ standard
+Conform to the ISO 2014 C++ standard (experimental and incomplete support)
+Deprecated in favor of -std=c++14
+Conform to the ISO 2017(?) C++ draft standard (experimental and incomplete support)
+Conform to the ISO 2011 C standard
+Deprecated in favor of -std=c11
+Conform to the ISO 1990 C standard
+Conform to the ISO 1999 C standard
+Deprecated in favor of -std=c99
+Conform to the ISO Fortran 2003 standard
+Conform to the ISO Fortran 2008 standard
+Conform to the ISO Fortran 2008 standard including TS 29113
+Conform to the ISO Fortran 95 standard
+Conform to nothing in particular
+Conform to the ISO 1998 C++ standard revised by the 2003 technical corrigendum with GNU extensions
+Deprecated in favor of -std=gnu++11
+Conform to the ISO 2011 C++ standard with GNU extensions (experimental and incomplete support)
+Conform to the ISO 2014 C++ standard with GNU extensions (experimental and incomplete support)
+Conform to the ISO 201z(7?) C++ draft standard with GNU extensions (experimental and incomplete support)
+Conform to the ISO 2011 C standard with GNU extensions
+Deprecated in favor of -std=gnu11
+Conform to the ISO 1990 C standard with GNU extensions
+Conform to the ISO 1999 C standard with GNU extensions
+Deprecated in favor of -std=gnu99
+Conform to the ISO 1990 C standard as amended in 1994
+Deprecated in favor of -std=iso9899:1999
+Accept extensions to support legacy code
+Enable traditional preprocessing
+-trigraphs	Support ISO C trigraphs
+Do not predefine system-specific and GCC-specific macros
+Display the compiler's version
+Known assembler dialects (for use with the -masm-dialect= option):
+unknown array bounds setting %qs
+Known ABIs (for use with the -mabi= option):
+Known code models (for use with the -mcmodel= option):
+argument %qs to %<-Wnormalized%> not recognized
+unknown excess precision style %qs
+unknown floating point contraction style %qs
+Unrecognized option to endianess value: %qs
+Unrecognized option to floating-point init value: %qs
+Known indirect branch choices (for use with the -mindirect-branch=/-mfunction-return= options):
+unrecognized ivar visibility value %qs
+Known data alignment choices (for use with the -malign-data= option):
+Known vectorization library ABIs (for use with the -mveclibabi= option):
+unknown LTO partitioning model %qs
+Known address mode (for use with the -maddress-mode= option):
+Known stack protector guard (for use with the -mstack-protector-guard= option):
+Valid arguments to -mstringop-strategy=:
+unrecognized visibility value %qs
+Known TLS dialects (for use with the -mtls-dialect= option):
+unknown vectorizer cost model %qs
+unknown vtable verify initialization priority %qs
+../../src/gcc/vec.c
+calculate_allocation_1
+register_overhead
+-malign-loops is obsolete, use -falign-loops
+-malign-loops=%d is not between 0 and %d
+-malign-jumps is obsolete, use -falign-jumps
+-malign-jumps=%d is not between 0 and %d
+-malign-functions is obsolete, use -falign-functions
+-malign-functions=%d is not between 0 and %d
+-mbranch-cost=%d is not between 0 and 5
+../../src/gcc/hooks.c
+hook_int_rtx_insn_unreachable
+COLUMNS
+locus
+../../src/gcc/diagnostic.c
+%s%s:%s %s%s%s
+<built-in>
+%s%s:%d:%d:%s %s%s%s
+%s%s:%d:%s %s%s%s
+%s %*c%s
+See %s for instructions.
+compilation terminated.
+in %s, at %s:%d
+%s%s:%s 
+%s%s%s
+0x%lx %s
+	%s:%d
+warning
+note
+fatal error: 
+internal compiler error: 
+sorry, unimplemented: 
+warning: 
+anachronism: 
+note: 
+debug: 
+pedwarn: 
+permerror: 
+must-not-happen
+toplev::main
+execute_one_pass
+compile_file
+Internal compiler error: Error reporting routines re-entered.
+%s:%d: confused by earlier errors, bailing out
+In file included from %r%s:%d:%d%R
+In file included from %r%s:%d%R
+                 from %r%s:%d%R
+compilation terminated due to -Wfatal-errors.
+compilation terminated due to -fmax-errors=%u.
+Please submit a full bug report,
+with preprocessed source if appropriate.
+Please include the complete backtrace with any bug report.
+%s: all warnings being treated as errors
+%s: some warnings being treated as errors
+internal_error_no_backtrace
+internal_error
+fatal_error
+../../src/gcc/diagnostic.c
+diagnostic_action_after_output
+diagnostic_build_prefix
+TERM
+dumb
+GCC_COLORS
+[01;31m
+[01;35m
+[01;36m
+[01;32m
+[01m
+../../src/gcc/diagnostic-color.c
+colorize_init
+../../src/gcc/pretty-print.c
+qwl+#
+%lld
+%llo
+%llx
+\%03o
+\U%08x
+pp_output_formatted_text
+pp_format
+/usr/share/locale
+gcc-5
+utf-8
+utf8
+../../src/gcc/input.c
+Number of expanded macros:                     %5ld
+Average number of tokens per macro expansion:  %5ld
+Line Table allocations during the compilation process
+Number of ordinary maps used:        %5ld%c
+Ordinary map used size:              %5ld%c
+Number of ordinary maps allocated:   %5ld%c
+Ordinary maps allocated size:        %5ld%c
+Number of macro maps used:           %5ld%c
+Macro maps used size:                %5ld%c
+Macro maps locations size:           %5ld%c
+Macro maps size:                     %5ld%c
+Duplicated maps locations size:      %5ld%c
+Total allocated maps size:           %5ld%c
+Total used maps size:                %5ld%c
+get_next_line
+read_line_num
+total_lines_num
+(Ubuntu 5.4.0-6ubuntu1~16.04.9) 
+5.4.0 20160609
+<file:///usr/share/doc/gcc-5/README.Bugs>
+<stdin>
+None
+LC_ENTER
+LC_LEAVE
+LC_RENAME
+LC_RENAME_VERBATIM
+LC_ENTER_MACRO
+File: %s:%d
+Included from: [%d] %s
+Macro: %s (%u tokens)
+<NULL>
+# of ordinary maps:  %d
+# of macro maps:     %d
+Include stack depth: %d
+Highest location:    %u
+Ordinary line maps
+Macro line maps
+line-map.c: file "%s" left but not entered
+line-map.c: file "%s" entered but not left
+Map #%u [%p] - LOC: %u - REASON: %s - SYSP: %s
+{P:%s;F:%s;L:%d;C:%d;S:%d;M:%p;E:%d,LOC:%d,R:%d}
+"%s" may not appear in macro parameter list
+macro parameters must be comma-separated
+anonymous variadic macros were introduced in C++11
+anonymous variadic macros were introduced in C99
+ISO C++ does not permit named variadic macros
+ISO C does not permit named variadic macros
+missing ')' in macro parameter list
+ISO C++11 requires whitespace after the macro name
+ISO C99 requires whitespace after the macro name
+missing whitespace after the macro name
+macro argument "%s" would be stringified in traditional C
+'#' is not followed by a macro parameter
+'##' cannot appear at either end of a macro expansion
+this is the location of the previous definition
+unterminated argument list invoking macro "%s"
+function-like macro "%s" must be used with arguments in traditional C
+invalid string literal, ignoring final '\'
+invoking macro %s argument %d: empty macro arguments are undefined in ISO C++98
+invoking macro %s argument %d: empty macro arguments are undefined in ISO C90
+duplicate macro parameter "%s"
+invalid hash type %d in cpp_macro_definition
+ISO C++11 requires at least one argument for the "..." in a variadic macro
+ISO C99 requires at least one argument for the "..." in a variadic macro
+macro "%s" requires %u arguments, but only %u given
+macro "%s" passed %u arguments, but takes just %u
+pasting "%s" and "%s" does not give a valid preprocessing token
+macro "%s" might prevent reproducible builds
+could not determine file timestamp
+could not determine date and time
+__COUNTER__ expanded inside directive with -fdirectives-only
+parameter name missing
+!"#%&'()*+,-./:;<=>?[\]^{|}~
+__STDC_
+"%s" redefined
+__STDC_FORMAT_MACROS
+__STDC_LIMIT_MACROS
+__STDC_CONSTANT_MACROS
+macro "%s" is not used
+invalid built-in macro "%s"
+"??? ??? ?? ??:??:?? ????"
+"%s %2d %4d"
+"%02d:%02d:%02d"
+"??? ?? ????"
+"??:??:??"
+syntax error in macro parameter list
+detected recursion whilst expanding macro "%s"
+unterminated comment
+push_macro
+pop_macro
+poison
+system_header
+unterminated #%s
+#%s is a GCC extension
+#endif without #if
+"%s" is not a valid filename
+"%s" re-asserted
+assertion without predicate
+missing '(' after predicate
+predicate's answer is empty
+#else without #if
+#else after #else
+the conditional began here
+empty filename in #%s
+#include nested too deeply
+pragma dependency
+undefining "%s"
+#elif without #if
+#elif after #else
+line number out of range
+poisoning existing macro "%s"
+#pragma once in main file
+invalid #%s directive
+cannot find source file %s
+current file is older than %s
+define
+endif
+ifdef
+ifndef
+pragma
+include_next
+unassert
+sccs
+registering pragmas in namespace "%s" with mismatched name expansion
+registering pragma "%s" with name expansion and no namespace
+registering "%s" as both a pragma and a pragma namespace
+#pragma %s %s is already registered
+#pragma %s is already registered
+"defined" cannot be used as a macro name
+"__has_include__" cannot be used as a macro name
+"%s" cannot be used as a macro name as it is an operator in C++
+no macro name given in #%s directive
+macro names must be identifiers
+embedding a directive within macro arguments is not portable
+style of line directive is a GCC extension
+#%s is a deprecated GCC extension
+suggest not using #elif in traditional C
+traditional C ignores #%s with the # indented
+suggest hiding #%s from traditional C with an indented #
+invalid preprocessing directive #%s
+extra tokens at end of #%s directive
+"%s" after # is not a positive integer
+invalid flag "%s" in line directive
+predicate must be an identifier
+missing ')' to complete answer
+#%s expects "FILENAME" or <FILENAME>
+missing terminating > character
+#include_next in primary source file
+unexpected end of file after #line
+"%s" after #line is not a positive integer
+#pragma system_header ignored outside include file
+invalid #pragma GCC poison directive
+invalid "#pragma GCC %s" directive
+invalid #pragma push_macro directive
+registering pragma with NULL handler
+_Pragma takes a parenthesized string literal
+invalid #pragma pop_macro directive
+stdout
+cpplib-5
+%s: %s
+#elif
+"%s" is not defined
+%s with no expression
+impossible operator '%u'
+division by zero in #if
+missing ')' in expression
+'?' without following ':'
+missing '(' in expression
+ ':' without preceding '?'
+unbalanced stack in %s
+missing ')' after "defined"
+adjacent digit separators
+exponent has no digits
+missing binary operator before token "%s"
+user-defined literal in preprocessor expression
+floating constant in preprocessor expression
+imaginary number in preprocessor expression
+operator "defined" requires an identifier
+("%s" is an alternative token for "%s" in C++)
+this use of "defined" may not be portable
+assertions are a GCC extension
+assertions are a deprecated extension
+token "%s" is not valid in preprocessor expressions
+missing expression between '(' and ')'
+operator '%s' has no right operand
+operator '%s' has no left operand
+the left operand of "%s" changes sign when promoted
+the right operand of "%s" changes sign when promoted
+traditional C rejects the unary plus operator
+integer overflow in preprocessor expression
+use of C++11 long long integer constant
+use of C99 long long integer constant
+binary constants are a C++14 feature or GCC extension
+binary constants are a GCC extension
+digit separator after base indicator
+digit separator adjacent to decimal point
+too many decimal points in number
+digit separator adjacent to exponent
+digit separator outside digit sequence
+fixed-point constants are a GCC extension
+invalid digit "%c" in binary constant
+invalid digit "%c" in octal constant
+invalid prefix "0b" for floating constant
+no digits in hexadecimal floating constant
+use of C++11 hexadecimal floating constant
+use of C99 hexadecimal floating constant
+hexadecimal floating constants require an exponent
+invalid suffix "%.*s" on floating constant
+suffix for double constant is a GCC extension
+invalid suffix "%.*s" with hexadecimal floating constant
+decimal float constants are a GCC extension
+invalid suffix "%.*s" on integer constant
+traditional C rejects the "%.*s" suffix
+imaginary constants are a GCC extension
+operator "__has_include__" requires a header string
+missing ')' after "__has_include__"
+integer constant is too large for its type
+integer constant is so large that it is unsigned
+comma operator in operand of #if
+NULL directory in find_file
+header.gcc
+%s is a block device
+%s is shorter than expected
+%c %s
+one or more PCH files were found, but they were invalid
+use -Winvalid-pch for more information
+no include path in which to search for %s
+Multiple include guards may be useful for:
+true
+false
+__VA_ARGS__
+__has_include__
+__has_include_next__
+form feed
+vertical tab
+%s in preprocessing directive
+null character(s) ignored
+'$' in identifier or number
+attempt to use poisoned "%s"
+`%.*s' is not in NFKC
+`%.*s' is not in NFC
+multi-line comment
+"/*" within comment
+trigraph ??%c converted to %c
+unspellable token %s
+unterminated raw string
+0123456789abcdef
+#%s 
+AT_NAME
+NUMBER
+WCHAR
+CHAR16
+CHAR32
+OTHER
+WSTRING
+STRING16
+STRING32
+UTF8STRING
+OBJC_STRING
+HEADER_NAME
+WCHAR_USERDEF
+CHAR16_USERDEF
+CHAR32_USERDEF
+WSTRING_USERDEF
+STRING16_USERDEF
+STRING32_USERDEF
+UTF8STRING_USERDEF
+COMMENT
+MACRO_ARG
+PRAGMA
+PRAGMA_EOL
+PADDING
+%:%:
+__VA_ARGS__ can only appear in the expansion of a C++11 variadic macro
+__VA_ARGS__ can only appear in the expansion of a C99 variadic macro
+identifier "%s" is a special operator name in C++
+C++ style comments are not allowed in ISO C90
+(this will be reported only once per input file)
+C++ style comments are incompatible with C90
+backslash-newline at end of file
+trigraph ??%c ignored, use -trigraphs to enable
+backslash and newline separated by space
+raw string delimiter longer than 16 characters
+invalid new-line in raw string delimiter
+invalid character '%c' in raw string delimiter
+invalid suffix on literal; C++11 requires a space between literal and string macro
+null character(s) preserved in literal
+missing terminating %c character
+\\\\\\\\\\\\\\\\????????????????
+String pool
+entries		%lu
+identifiers	%lu (%.2f%%)
+slots		%lu
+deleted		%lu
+table size	%lu%c
+coll/search	%.4f
+ins/search	%.4f
+longest entry	%lu
+bytes		%lu%c (%lu%c overhead)
+avg. entry	%.2f bytes (+/- %.2f)
+Y@-C
+?failure to convert %s to %s
+iconv_open
+empty character constant
+UTF-8/UTF-32LE
+UTF-8/UTF-32BE
+UTF-8/UTF-16LE
+UTF-8/UTF-16BE
+UTF-32LE/UTF-8
+UTF-32BE/UTF-8
+UTF-16LE/UTF-8
+UTF-16BE/UTF-8
+conversion from %s to %s not supported by iconv
+converting UCN to source character set
+converting UCN to execution character set
+the meaning of '\x' is different in traditional C
+\x used with no following hex digits
+hex escape sequence out of range
+octal escape sequence out of range
+the meaning of '\a' is different in traditional C
+non-ISO-standard escape sequence, '\%c'
+unknown escape sequence: '\%c'
+unknown escape sequence: '\%s'
+converting escape sequence to execution character set
+converting to execution character set
+character constant too long for its type
+multi-character character constant
+universal character names are only valid in C++ and C99
+C99's universal character names are incompatible with C90
+the meaning of '\%c' is different in traditional C
+In _cpp_valid_ucn but not a UCN
+incomplete universal character name %.*s
+%.*s is not a valid universal character
+Character %x might not be NFKC
+universal character %.*s is not valid at the start of an identifier
+universal character %.*s is not valid in an identifier
+character 0x%lx is not in the basic source character set
+character 0x%lx is not unibyte in execution character set
+__STDC__ 1
+__cplusplus 201500L
+__cplusplus 201402L
+__cplusplus 201103L
+__cplusplus 199711L
+__ASSEMBLER__ 1
+__STDC_VERSION__ 199409L
+__STDC_VERSION__ 201112L
+__STDC_VERSION__ 199901L
+__STDC_UTF_16__ 1
+__STDC_UTF_32__ 1
+__STDC_HOSTED__ 1
+__STDC_HOSTED__ 0
+__OBJC__ 1
+and_eq
+bitand
+bitor
+compl
+not_eq
+xor_eq
+__TIMESTAMP__
+__TIME__
+__DATE__
+__FILE__
+__BASE_FILE__
+__LINE__
+__INCLUDE_LEVEL__
+__COUNTER__
+__has_attribute
+__has_cpp_attribute
+_Pragma
+__STDC__
+mmap
+/proc/curproc/file
+/proc/self/exe
+failed to read executable information
+libbacktrace could not find executable to open
+close
+no debug info in ELF executable
+no symbol table in ELF executable
+executable file is unrecognized ELF version
+executable file is unexpected ELF class
+executable file has unknown endianness
+ELF symbol table strtab link out of range
+symbol string index out of range
+executable file is not ELF
+ELF section name out of range
+.debug_info
+.debug_line
+.debug_abbrev
+.debug_ranges
+.debug_str
+munmap
+%s in %s at %d
+DWARF underflow
+LEB128 overflows uint64_t
+unrecognized address size
+DW_FORM_strp out of range
+unrecognized DWARF form
+invalid abbreviation code
+ranges offset out of range
+unit line offset out of range
+unrecognized DWARF version
+abbrev offset out of range
+signed LEB128 overflows uint64_t
+abstract origin or specification out of range
+invalid abstract origin or specification
+invalid file number in DW_AT_call_file attribute
+function ranges offset out of range
+unsupported line number version
+invalid directory index in line number program header
+invalid directory index in line number program
+invalid file number in line number program
+alnum
+alpha
+blank
+cntrl
+graph
+lower
+print
+punct
+xdigit
+Memory exhausted
+Success
+No match
+Invalid regular expression
+Invalid collation character
+Invalid character class name
+Trailing backslash
+Invalid back reference
+Unmatched [ or [^
+Unmatched ( or \(
+Unmatched \{
+Invalid content of \{\}
+Invalid range end
+Regular expression too big
+Unmatched ) or \)
+No previous regular expression
+Invalid preceding regular expression
+Premature end of regular expression
+_GLOBAL_
+(anonymous namespace)
+[abi:
+{default arg#
+JArray
+VTT for 
+construction vtable for 
+-in-
+typeinfo for 
+typeinfo name for 
+typeinfo fn for 
+non-virtual thunk to 
+covariant return thunk to 
+java Class for 
+guard variable for 
+TLS init function for 
+TLS wrapper function for 
+reference temporary #
+hidden alias for 
+non-transaction clone for 
+_Sat 
+_Accum
+_Fract
+operator
+operator 
+new 
+java resource 
+decltype (
+this
+{parm#
+global constructors keyed to 
+global destructors keyed to 
+{lambda(
+{unnamed type#
+ [clone 
+ restrict
+ volatile
+ const
+complex 
+imaginary 
+ __vector(
+string literal
+std::allocator
+std::basic_string
+std::string
+std::istream
+basic_istream
+std::ostream
+basic_ostream
+std::iostream
+basic_iostream
+boolean
+__float128
+unsigned char
+unsigned int
+unsigned
+unsigned long
+unsigned __int128
+unsigned short
+void
+wchar_t
+unsigned long long
+decimal32
+decimal64
+decimal128
+half
+char16_t
+char32_t
+decltype(nullptr)
+alignof 
+const_cast
+delete[] 
+dynamic_cast
+delete 
+operator"" 
+new[]
+reinterpret_cast
+static_cast
+sizeof 
+throw
+throw 
+std::basic_string<char, std::char_traits<char>, std::allocator<char> >
+std::basic_istream<char, std::char_traits<char> >
+std::basic_ostream<char, std::char_traits<char> >
+std::basic_iostream<char, std::char_traits<char> >
+%s: error: too many @-files encountered
+Cannot find prime bigger than %lu
+cccccccccccccccccccccccccccccccccccccccccccccccc
+	ccccccc
+cccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc/tmp
+TMPDIR
+TEMP
+Cannot create temporary file in %s: %s
+/var/tmp
+/usr/tmp
+/tmp
+closing pipeline input file
+open temporary file
+pipeline already complete
+open temporary output file
+open error file
+XXXXXX
+could not create temporary file
+both ERRNAME and PEX_STDERR_TO_PIPE specified.
+PEX_STDERR_TO_PIPE used in the middle of pipeline
+vfork
+execv
+dup2
+execvp
+: error trying to exec '
+wait
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+%s%sout of memory allocating %lu bytes after a total of %lu bytes
+undocumented error #%d
+-+ #0
+std::bad_alloc
+St9bad_alloc
+__gnu_cxx::__concurrence_lock_error
+__gnu_cxx::__concurrence_unlock_error
+N9__gnu_cxx24__concurrence_lock_errorE
+N9__gnu_cxx26__concurrence_unlock_errorE
+N10__cxxabiv120__si_class_type_infoE
+std::exception
+std::bad_exception
+St9exception
+St13bad_exception
+N10__cxxabiv115__forced_unwindE
+N10__cxxabiv119__foreign_exceptionE
+St9type_info
+pure virtual method called
+deleted virtual method called
+N10__cxxabiv117__class_type_infoE
+terminate called recursively
+  what():  
+terminate called after throwing an instance of '
+terminate called without an active exception
+;*3$"
+zPLR
+stapsdt
+libstdcxx
+catch
+8@%rax 8@-80(%rbx)
+stapsdt
+libstdcxx
+throw
+8@%rdi 8@%rsi
+stapsdt
+libstdcxx
+rethrow
+Beeb
+8@%rax 8@(%rdi)
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.stapsdt.base
+.eh_frame_hdr
+.eh_frame
+.gcc_except_table
+.tbss
+.init_array
+.fini_array
+.jcr
+.data.rel.ro
+.dynamic
+.got.plt
+.data
+.bss
+.note.stapsdt

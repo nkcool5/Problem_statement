@@ -1,0 +1,5613 @@
+/lib64/ld-linux-x86-64.so.2
+D ` J
+\-&6
+Y_u8
+libXft.so.2
+XGetDefault
+XAllocColor
+_ITM_deregisterTMCloneTable
+FcPatternDestroy
+XFillRectangle
+XFree
+XGetVisualInfo
+__gmon_start__
+XSetErrorHandler
+XCopyArea
+XGetGeometry
+XCreateGC
+XSetForeground
+XSetClipRectangles
+XPutImage
+_Jv_RegisterClasses
+XSetClipMask
+XFreeGC
+_ITM_registerTMCloneTable
+FcCharSetHasChar
+XftFontOpenPattern
+XftFontClose
+XftDrawSetClipRectangles
+_fini
+XftDrawSetClip
+_init
+XftTextExtentsUtf8
+XftDrawCreate
+XftNameUnparse
+XftDrawCharSpec
+XftCharExists
+XftDrawRect
+XftFontMatch
+XftTextExtents32
+XftNameParse
+libfontconfig.so.1
+FcCharSetFirstPage
+FcPatternBuild
+FcCharSetNextPage
+libXaw.so.7
+Xutf8TextPropertyToTextList
+XConfigureWindow
+XReparentWindow
+XtReleaseGC
+XVaCreateNestedList
+XtAddEventHandler
+XClearWindow
+XBell
+XtCreateWidget
+_XA_COMPOUND_TEXT
+XFreeFont
+XDrawRectangle
+XLookupString
+XtCreatePopupShell
+XtCreateManagedWidget
+XtAppWarningMsg
+XOpenIM
+XFetchBuffer
+XtMalloc
+XFillPolygon
+XtAppAddTimeOut
+XDrawArc
+XmbTextListToTextProperty
+XtSetValues
+XtAugmentTranslations
+XtGetValues
+XtVaSetValues
+XmuConvertStandardSelection
+XGetIMValues
+XmbLookupString
+XtAppProcessEvent
+_XtInherit
+XtOwnSelection
+_XA_TEXT
+XMoveResizeWindow
+XTextWidth16
+XSetFont
+XtCallActionProc
+XLoadQueryFont
+XtShellStrings
+XDrawImageString
+XpmReadFileToPixmap
+XWarpPointer
+XmbTextPropertyToTextList
+XtRealloc
+XtAppPeekEvent
+XFreeStringList
+XSetDashes
+XSetICValues
+XtRemoveTimeOut
+XCreateIC
+XmuReleaseStippledPixmap
+XtRealizeWidget
+XSetWindowBorder
+XSetWMProtocols
+XQueryPointer
+XtOverrideTranslations
+XCloseIM
+XmuCompareISOLatin1
+XtDisownSelection
+widgetClassRec
+XFontsOfFontSet
+_XA_TARGETS
+XtAppAddActions
+XInternAtom
+_XA_LENGTH
+XChangeProperty
+XSetLocaleModifiers
+XtFree
+XCreateWindow
+XGetAtomName
+XmuCreateStippledPixmap
+XSync
+XtConfigureWidget
+XtMakeResizeRequest
+XtWindowOfObject
+XtParseTranslationTable
+XDrawString
+XDefineCursor
+XDrawLines
+XtGetSelectionValue
+XUnmapWindow
+XUnsetICFocus
+XExtentsOfFontSet
+XtLastTimestampProcessed
+XClearArea
+XFlush
+XDrawString16
+XQueryColor
+XChangeGC
+XSetICFocus
+XtGetGC
+XMapWindow
+_XA_LIST_LENGTH
+XTextWidth
+XDrawSegments
+XSetWindowBackground
+_XA_UTF8_STRING
+XtAddConverter
+XmuInternAtom
+XtRegisterGrabAction
+XtAddCallback
+XtAppPending
+XtSetMappedWhenManaged
+XRaiseWindow
+topLevelShellWidgetClass
+XtStrings
+XSetBackground
+XDrawLine
+XmuCvtStringToGravity
+XMaxRequestSize
+simpleMenuWidgetClass
+smeBSBObjectClass
+XawScrollbarSetThumb
+XawSimpleMenuAddGlobalActions
+scrollbarWidgetClass
+smeLineObjectClass
+libXmu.so.6
+XtGetApplicationResources
+XCreateFontCursor
+XGetWMNormalHints
+XQueryTree
+XDeleteProperty
+XSetWMNormalHints
+XVisualIDFromVisual
+XRecolorCursor
+XCreateGlyphCursor
+XQueryColors
+XDisplayString
+XGetWindowAttributes
+XGetWindowProperty
+XmuGetHostname
+XmuNameOfAtom
+XmuPrintDefaultErrorMessage
+XmuMakeAtom
+XmuUpdateMapHints
+XmuInternStrings
+libXt.so.6
+XSendEvent
+IceConnectionNumber
+XFreeModifiermap
+XIconifyWindow
+XSetWMHints
+XQueryFont
+XGetModifierMapping
+XGetSelectionOwner
+XSupportsLocale
+XRefreshKeyboardMapping
+XSelectInput
+XDisplayKeycodes
+XGetKeyboardMapping
+XWithdrawWindow
+XFreeCursor
+XCreateFontSet
+XUngrabKeyboard
+XScreenNumberOfScreen
+XGrabKeyboard
+XtDispatchEvent
+XtGetSubresources
+sessionShellWidgetClass
+XtVaGetValues
+XtOpenApplication
+XtSetLanguageProc
+XtAppNextEvent
+XtSetErrorHandler
+XtVaCreateManagedWidget
+XtRegisterDrawable
+libX11.so.6
+XGeometry
+XkbGetNamedIndicator
+XCreateImage
+XTextPropertyToStringList
+XCreateBitmapFromData
+XDrawImageString16
+XGetWMHints
+XCopyGC
+XLowerWindow
+XkbLibraryVersion
+XAllocWMHints
+XParseColor
+XDefaultScreen
+XSetIOErrorHandler
+XStoreBuffer
+XWindowEvent
+Xutf8LookupString
+XkbSetNamedIndicator
+XkbBell
+XGetKeyboardControl
+Xutf8TextListToTextProperty
+XkbKeycodeToKeysym
+XSetLineAttributes
+XGetWMIconName
+XReconfigureWMWindow
+XMoveWindow
+XkbQueryExtension
+XRegisterIMInstantiateCallback
+XSetTextProperty
+XSetIMValues
+XParseGeometry
+XGetWMName
+XGContextFromGC
+XChangeKeyboardControl
+libXpm.so.4
+XpmCreatePixmapFromData
+libICE.so.6
+IceSetIOErrorHandler
+IceAddConnectionWatch
+IceRemoveConnectionWatch
+libutempter.so.0
+removeFromUtmp
+addToUtmp
+libtinfo.so.5
+tigetstr
+use_extended_names
+setupterm
+libc.so.6
+setuid
+mkdtemp
+fflush
+strcpy
+__printf_chk
+execv
+_IO_putc
+setlocale
+fopen
+strncmp
+strrchr
+wait
+__longjmp_chk
+regexec
+pipe
+__strdup
+perror
+getpwuid
+__fdelt_chk
+initgroups
+signal
+strncpy
+fork
+regfree
+__stack_chk_fail
+unlink
+select
+realloc
+abort
+_exit
+memchr
+popen
+getpid
+kill
+strftime
+chmod
+__ctype_get_mb_cur_max
+strtok
+getpt
+strtol
+sched_yield
+feof
+fgetc
+execlp
+getpwnam
+calloc
+strlen
+sigemptyset
+memset
+strstr
+rmdir
+__errno_location
+chdir
+memcmp
+endgrent
+grantpt
+ttyname
+dup2
+clearerr
+unsetenv
+_setjmp
+ptsname
+__fprintf_chk
+getgrnam
+putenv
+__sigsetjmp
+stdout
+fputc
+fputs
+memcpy
+fclose
+God A red nugget A fat egg under a dog
+malloc
+strcat
+umask
+setegid
+setpgid
+getgid
+nl_langinfo
+__ctype_b_loc
+getenv
+sscanf
+regcomp
+stderr
+wcwidth
+ioctl
+alarm
+getlogin
+getuid
+readlink
+getegid
+execvp
+__fxstat
+strncat
+fileno
+pclose
+gethostname
+chown
+getcwd
+fwrite
+fread
+gettimeofday
+sigaction
+geteuid
+__memcpy_chk
+waitpid
+unlockpt
+localtime
+strchr
+__vfprintf_chk
+fdopen
+qsort
+sleep
+__strcpy_chk
+setsid
+fcntl
+__sprintf_chk
+setpgrp
+__xstat
+memmove
+access
+setgid
+__strcat_chk
+strcmp
+strerror
+__libc_start_main
+ferror
+stpcpy
+__environ
+__cxa_atexit
+_edata
+__bss_start
+_end
+NCURSES_TINFO_5.1.20000708
+NCURSES_TINFO_5.0.19991023
+GLIBC_2.15
+GLIBC_2.14
+GLIBC_2.4
+GLIBC_2.3
+GLIBC_2.3.4
+GLIBC_2.11
+GLIBC_2.2.5
+5"['
+%$['
+%"['
+%zZ'
+%rZ'
+%jZ'
+%bZ'
+%ZZ'
+%RZ'
+%JZ'
+%BZ'
+%:Z'
+%2Z'
+%*Z'
+%"Z'
+%zY'
+%rY'
+%jY'
+%bY'
+%ZY'
+%RY'
+%JY'
+%BY'
+%:Y'
+%2Y'
+%*Y'
+%"Y'
+%zX'
+%rX'
+%jX'
+%bX'
+%ZX'
+%RX'
+%JX'
+%BX'
+%:X'
+%2X'
+%*X'
+%"X'
+%zW'
+%rW'
+%jW'
+%bW'
+%ZW'
+%RW'
+%JW'
+%BW'
+%:W'
+%2W'
+%*W'
+%"W'
+%zV'
+%rV'
+%jV'
+%bV'
+%ZV'
+%RV'
+%JV'
+%BV'
+%:V'
+%2V'
+%*V'
+%"V'
+%zU'
+%rU'
+%jU'
+%bU'
+%ZU'
+%RU'
+%JU'
+%BU'
+%:U'
+%2U'
+%*U'
+%"U'
+%zT'
+%rT'
+%jT'
+%bT'
+%ZT'
+%RT'
+%JT'
+%BT'
+%:T'
+%2T'
+%*T'
+%"T'
+%zS'
+%rS'
+%jS'
+%bS'
+%ZS'
+%RS'
+%JS'
+%BS'
+%:S'
+%2S'
+%*S'
+%"S'
+%zR'
+%rR'
+%jR'
+%bR'
+%ZR'
+%RR'
+%JR'
+%BR'
+%:R'
+%2R'
+%*R'
+%"R'
+%zQ'
+%rQ'
+%jQ'
+%bQ'
+%ZQ'
+%RQ'
+%JQ'
+%BQ'
+%:Q'
+%2Q'
+%*Q'
+%"Q'
+%zP'
+%rP'
+%jP'
+%bP'
+%ZP'
+%RP'
+%JP'
+%BP'
+%:P'
+%2P'
+%*P'
+%"P'
+AWAVE1
+AUATI
+D$81
+}<A9
+~;Ic
+D$ E1
+D$ A
+|$8dH3<%(
+H[]A\A]A^A_
+AWAVAUATUSH
+t$0dH
+D$HH
+/dev/pts
+HcD$$H
+t$0H
+\$@M
+D9d$
+t$ D
+Hc\$ 
+HcD$<
+HcD$8=
+D$@H
+D$$A
+\$0L
+D$$9D$\
+L$PH
+='d(
+D$tE1
+=xa(
+==a(
+D$\L
+Hc\$ 
+T$(H9
+\$$E1
+t$@A
+D$8-
+D$<-
+D$ -
+t$x1
+HcD$$H
+\$0H
+\$$9\$\
+\$0H
+tVL;s
+ t,I
+^t=I
+D$\I
+D$@H
+L$lH
+T$xH
+T$pH
+5lA'
+=m](
+=-[(
+|DHc
+~/E9
+AUATI
+[]A\A]
+AUATUSD
+]A\A]A^
+]A\A]A^
+AUATA
+]A\A]
+tHUSH
+tQUSH
+AUATUSH
+~	D9
+[]A\A]
+[]A\A]A
+[]A\A]1
+ATUSH
+D$81
+d$ H
+D$0H
+D$0H
+T$0H
+t$ H
+D$8dH3
+@[]A\
+t$0H
+9D$$
+9D$0
+9D$4
+T$ H
+t$ H
+T$0H
+ATUSH
+[]A\
+ATUI
+t!H9
+AWAVAUATI
+[]A\A]A^A_
+D$ H
+l$ E1
+8[]A\A]A^A_
+D$,D
+l$,I
+ATUH
+[]A\
+AWAVI
+AUATUS
+D$X1
+D$XdH3
+h[]A\A]A^A_
+AWAVAUATUSH
+HcD$(H
+T$ H
+D$ H
+8[]A\A]A^A_
+AVAUI
+ATUH
+IcD$
+[]A\A]A^
+IcL$
+[]A\A]A^H
+IcL$
+AWAVI
+AUATUSH
+D$81
+-3<(
+@DD)
+D$8dH3
+H[]A\A]A^A_
+ATUH
+StTH
+[]A\
+[]A\
+[]A\
+AWAVAUATUSH
+L$ L
+t-<%u
+[]A\A]A^A_
+L9|$
+D$(H
+T$ H
+t$0L
+|$01
+T$(H
+t$0L
+AVAUM
+ATUI
+]A\A]A^
+[]A\A]A^
+ATUA
+ []A\
+AWAVAUATI
+|$h1
+D$(H
+D$ L
+D$(1
+D$8L
+D$@H
+t$8H
+D$HH
+T$XH
+T$XH
+|$81
+t,L)
+D$8A
+\$hdH3
+x[]A\A]A^A_
+D$(L
+T$XL
+T$HH
+\$ H
+AWAVAUATUSH
+D$H1
+t$ H
+D$(M
+H9D$
+H9D$
+H9D$
+H9D$
+H9D$
+L$ H
+L$HdH3
+X[]A\A]A^A_
+D$ I
+h@g@
+L$HM
+L$(H
+T$0H
+D$HPL
+T$0L
+D$@H
+\$8H
+T$@H
+h@g@
+h@g@
+AWAVI
+AUATUS
+[]A\A]A^A_
+AWAVI
+AUATM
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATA
+H;\$
+H;\$
+[]A\A]A^A_
+AWAVI
+AUATL
+([]A\A]A^A_
+AWAVAUATUSH
+D$X1
+T$XdH3
+h[]A\A]A^A_
+|$ H
+AWAVAUATUSH
+D$(1
+D$(dH3
+8[]A\A]A^A_
+D$ H
+L$ L
+D$ H
+ATUS
+[]A\
+[]A\
+AUATI
+[]A\A]
+Pu.Ic
+AWAVAUATUSH
+D$(1
+D$ A
+L$ H
+D$ H
+t$(dH34%(
+8[]A\A]A^A_
+AWAVAUATUSH
+D$81
+D$8dH3
+H[]A\A]A^A_
+D$ L
+HcT$
+t$ M
+T$$H
+L$8H
+L$@H
+AWAVI
+AUATM
+D$h1
+t$@L
+D$HA
+D$8H
+t$ I
+t$(f
+5I}'
+L$4H
+T$8H
+t$@L
+D$hdH3
+x[]A\A]A^A_
+D$8H
+D$ H
+L$(A
+D9l$4
+|$8J
+uRH9
+L$4H
+T$8H
+t$@L
+L$4H
+T$8H
+t$@L
+T$4H
+t$8H
+T$4E
+AWAVM
+AUATI
+[]A\A]A^A_E1
+|	D;
+tRD9
+[]A\
+AWAVI
+AUATUSH
+[]A\A]A^A_
+D$XA
+t$XH
+D$HD
+D$HA;
+;l$H
+d$HE1
+l$DE
+t#E9
+d$HA
+d$0I
+\$8f
+T$0H
+|$8L
+t/E1
+|$(H
+\$ H
+9l$@F
+t$`H
+t$hH
+l$`H
+D$`A
+t$hH
+l$`H
+t$`E
+D$`E
+T$hA
+D$h|
+\$D9
+$s=A
+\$0H
+|$8A
+\$8L
+H+D$(D9
+D$ H
+\$0H
+\$(L
+|$8E
+L$PH
+|$pH
+L$PD
+\$TE
+D$@H
+\$0L
+D$Xt
+D$Xt
+D$`H
+D$`H
+t$hA
+t$hA
+D$`A
+FP	u-
+dH3<%(
+@P	t
+@P	u
+I#@PH
+AWAVI
+AUATI
+([]A\A]A^A_
+AWAVI
+AUATUSH
+D$x1
+t$ H
+D$ L
+d$0H
+D$xdH3
+[]A\A]A^A_
+D$1[
+9D$ 
+D$$;
+I#GPH
+9D$ t;I
+G8H9
+9D$$u
+T$ H
+G8H9
+AWAVAUATI
+([]A\A]A^A_
+5+V'
+E8H9
+ATUI
+[]A\E1
+[]A\
+ATUI
+[]A\A
+[]A\
+AUATA
+H#EPH9
+[]A\A]
+H#EPH
+E8H9
+$t>H
+AWAVAUATI
+D$h1
+D$PH
+D$0H
+D$LH
+T$`H
+t$PE
+D$HA
+D$DA
+D$@A
+D$<A
+D$8A
+D$4A
+D$ I
+D$0A
+D$(I
+L$hdH3
+alula
+x[]A\A]A^A_
+ATUH
+ []A\
+D$x1
+D$xdH3
+AUATI
+[]A\A]H
+[]A\A]
+AVAUI
+ATUSH
+ []A\A]A^
+t-f.
+AUATI
+[]A\A]H
+[]A\A]
+AUATI
+([]A\A]
+t$H9
+|$XI
+dH34%(
+AWAVI
+AUATE1
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+H9C 
+H9C(
+D$ H
+D$(1
+D$ H
+D$(t
+T$(I
+t$ A
+AVAUA
+ATUI
+[]A\A]A^
+[]A\A]A^
+AUATI
+L9(t
+[]A\A]
+[]A\A]
+AUATI
+L9(t
+[]A\A]
+[]A\A]
+AUATI
+L9(t
+[]A\A]
+[]A\A]
+AUATI
+L9(t
+[]A\A]
+[]A\A]
+AVAUA
+[]A\A]A^H
+[]A\A]A^
+AWAVAUATI
+L9k(u
+([]A\A]A^A_
+L;c(
+AUATUSH
+[]A\A]
+AWAVI
+AUATA
+[]A\A]A^A_
+~HHc
+ATUI
+[]A\
+AUATI
+D$(1
+T$(A
+T$(RH
+T$(RH
+T$$RH
+T$0RH
+\$ H
+t$(dH34%(
+8[]A\A]
+H;l$
+t`H;
+t7H;
+tVH;
+AVAUI
+ATUSH
+[]A\A]A^
+AWAVM
+AUATM
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVA
+AUATUSH
+([]A\A]A^A_
+AVAUATUI
+[]A\A]A^
+4?Mc
+,JMc
+Dt$,
+Dl$(
+H9B(u
+R8t.1
+AVAUI
+[]A\A]A^
+[]A\A]A^
+AVAUATUSH
+ []A\A]A^
+D$(1
+L$(dH3
+D$(1
+L$(dH3
+xeHc
+};Hc
+AVAUATUHc
+[]A\A]A^
+t3Hc
+AWAVAUATUSH
+[]A\A]A^A_
+D$ H
+t~H;
+t.L)
+@im=
+D$pH9
+T$@1
+D$@H
+ tTH
+L; t
+L$(H
+L; u
+t$0f
+|$2H
+T$PH
+T$H1
+T$`1
+D$(AP
+T$0E1
+D$8AP
+D$`H
+L$<H
+T$XH
+D$`H
+L$<H
+[]A\
+ATUA
+[]A\
+AWAVAUATA
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATUSH
+D$(I
+D$ D
+D;L$
+8[]A\A]A^A_
+|$ D
+D+|$
+D;L$
+8[]A\A]A^A_
+ATUStG
+[]A\
+AWAVI
+AUATH
+[]A\A]A^A_
+AWAV
+AUATI
+fff?A
+0L9t$
+l$0H
+D$4H
+[]A\A]A^A_
+D$'H
+L$(H
+T$,1
+-tOA
+:tbA
+ATUH
+[]A\
+[]A\
+t/H;
+AWAVAUATUSH
+D$81
+D$(H
+D$4 
+D$$3
+D$ t
+|$4;=~
+HcD$ H
+t$$H
+T$DRP1
+L$0D
+Eleele
+D$,H
+G Hc
+L$0D
+D$,H
+|$41
+tOHcD$ H
+|$(H
+D$8dH3
+H[]A\A]A^A_
+D$4 
+|$4A
+T$(H
+AVAUA
+ATUSH
+XZu+
+[]A\A]A^D
+AUATA
+[]A\A]
+AWAVAUATUSH
+D$h1
+D$ I
+D$@I
+D$d 
+L$8H
+|$ H9
+L$LD
+\$PD
+\$(D
+L$XE
+D$0H'
+\$PD
+L$XD
+D$0A;
+D$ tG
+t$(I
+t$8H
+\$0H
+D$HA
+T$Lt/
+|$d;=
+\$L9\$Ht
+l$0j
+T$tRP1
+L$@D
+D$8H
+HcD$<H
+L$@D
+D$8H
+|$d1
+;=7p'
+\$L9\$HtBA
+u8HcD$XH
+\$@H
+D$hdH3
+x[]A\A]A^A_
+D$d 
+9=[o'
+Lcd$<A
+|$d 
+T$(E
+Borrow or rob
+D$0s'
+\$ L
+E\$ E
+D$0q'
+D$0_'
+E\$ E
+HcD$XH
+|$duSLcd$<
+T$PA
+D$ f
+D$<Lc
+\$ A
+T$Pf
+T$PA
+D$ f
+D$0M'
+D$0d'
+AVAU1
+ATUI
+t$[]A\A]A^
+]A\A]A^
+=.h'
+AWAVH
+AUATUSH
+[]A\A]A^A_
+AWAVI
+AUATA
+[]A\A]A^A_
+D95(
+D9%9
+L$01
+t$0E1
+T$0D
+T$(H
+t$,L
+D$,L
+'u4A
+T$(H
+t$,L
+D$,A
+T$0H
+t$,L
+D$01
+D$4I
+D$0I
+T$0H
+T$0H
+L$0L
+t$0L
+5ri&
+L$0L
+t$0A
+L$0L
+D$0f
+5Dg&
+L$0L
+t$0A
+t$,~
+L$0L
+t$0A
+L$0L
+5[c&
+~A=T
+L$0L
+T$,H
+t$0A
+AWAVAUATUSH
+D$(1
+t1Ic
+tXHc
+H-@B
+H=@B
+x.Hc
+T$ 1
+D$"j
+D$(dH3
+8[]A\A]A^A_
+AWAVL
+AUATA
+[]A\A]A^A_
+s0[]@
+t5USH
+AWAVI
+AUATUSH
+([]A\A]A^A_
+AUATI
+[]A\A]
+T$8E1
+L$ H
+D$8dH3
+AWAVAUATI
+=1K&
+5|J&
+[]A\A]A^A_
+5)J&
+AVAUA
+]A\A]A^
+[]A\A]A^E1
+=3G&
+AVAUATUSH
+]A\A]A^
+]A\A]A^
+ATUH
+[]A\
+AWAVI
+AUATI
+D$H1
+D$(P
+T$(A
+D$,1
+D$ D
+T$$f
+D$0H
+t$(H
+D$HdH3
+X[]A\A]A^A_
+D$ P
+AXAY
+AWAVAUATUSH
+[]A\A]A^A_
+tVrD
+ATUSH
+ []A\
+tCA9
+4*t1
+AWAVAUATUSH
+[]A\A]A^A_
+AVAUATUI
+[]A\A]A^
+~fAUATL
+[]A\A]
+[]A\A]
+A90M
+~JHc
+dH3<%(
+AWAVAUATA
+L$$H
+D$ E
+L$8H
+T$0H
+T$0H
+l$(D
+L$8H
+[]A\A]A^A_
+|$@1
+d$PD
+~EHc
+T$$H
+AUATI
+[]A\A]
+[]A\A]
+D$h1
+D$hdH3
+AUATI
+[]A\A]
+t5Hc
+[]A\
+V<f9
+FHf9
+AWAVAUATUSH
+[]A\A]A^A_
+t$ H
+D$<0
+AUATI
+D$(1
+fD9c
+D$(dH3
+8[]A\A]
+AWAVAUATUSH
+D$X1
+D$(1
+D$,W
+D$0H
+D$@H
+D$Hf9D$8
+D$XdH3
+h[]A\A]A^A_
+A;G 
+t	f9
+ATUH
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+t$ H9
+t$(H9
+t$ E1
+4.H9
+|$ H
+D$ H
+|$(H
+D$(M
+t$@I
+ H9,$u
+D$ H
+D$ H
+D$(H
+D$(M
+l$@1
+L9|$
+L94$u
+AVAUATUSH
+dH3<%(
+[]A\A]A^
+<$[]A\
+AUATI
+~%H;
+[]A\A]
+AUATUSH
+tC@8
+t <*tW@
+[]A\A]
+[]A\A]
+[]A\A]
+AWAVAUATA
+([]A\A]A^A_
+tdUSH
+AWAVAUATUSH
+tXD;
+[]A\A]A^A_
+PXt f
+[]A\A]A^A_
+ATHc
+[]A\
+[]A\
+AUATUSH
+L;+t$
+[]A\A]
+[]A\
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AUATUSH
+D$X1
+L$ H
+L$(H
+L$0H
+L$8H
+L$@H
+L$HH
+L$PH
+D$XdH3
+h[]A\A]
+AUATUSH
+[]A\A]
+AWAVAUATI
+X[]A\A]A^A_
+Lc<$I
+|$ H
+|$(H
+D$8H
+ZYt~A
+D$hL
+\$8H
+t$8H
+t$8H
+|$(A
+D$0L
+D$ L
+D$(H
+D$0H
+rK;z
+ryD9
+AVAUATUSL
+t$ E
+]A\A]A^
+AWAVAUATA
+t$PH
+D$XI
+D$`I
+D$ht
+[]A\A]A^A_
+|$PH;
+t$XH
+D$(L
+t$PE1
+|$@H
+t$PD
+D$PB
+t$PA
+|$PH
+t$XH
+D$@H
+t$`H
+t$`H
+L$ H
+t$hH
+L$(H
+L$hH
+|$xL
+GHfA9G<
+t$ H
+D$xH
+t$xH
+L$@H
+|$XI;}
+|$XI;}
+L$HL
+t$XH
+t$Ht	H
+t$PH
+|$HA
+L$XH
+D$xH
+L$xH
+|$@H
+|$PI;}
+|$XI;}
+|$`I;}
+|$hI;}
+t$ D
+L$HH
+D$hH
+FHfA9F<u
+D$xH
+f9HHu$H
+f9q<
+H<f;HH
+B<f;BH
+T$ f9
+H9D$x
+|$@H
+t$XH
+t$hE1
+|$hI;}
+|$`H
+f9pH
+FHfA9F<
+GHfA9G<
+t$PE1
+|$@H
+AWAV
+AUATA
+USE1
+t$X1
+L$$A
+l$(L
+t$0H
+t$8A
+l$(E
+t$ 1
+|$DH
+L$HD
+T$PA
+D$0D
+L$$D
+D$XdH3
+h[]A\A]A^A_
+L$0D
+L$@fD
+T$BfD
+d$FfD
+t$JfD
+|$LH
+T$@f
+D$RD
+L$TD
+AWAVH
+AUATL
+[]A\A]A^A_
+AVAUATUSH
+D$(1
+t+Mc
+t+Mc
+t*Mc
+t+Mc
+D$(dH3
+0[]A\A]A^
+D$(1
+D$(dH3
+AWAVAUATUSH
+:tCA
+[]A\A]A^A_
+u.I9
+H9D$
+\$ H
+H9D$
+\$ u
+ ueD
+AVAUI
+ATUI
+t,E1
+[]A\A]A^
+?w-@
+ATUH
+tbvEH
+AVAUATUH
+[]A\A]A^
+u+[I
+]A\A]A^H
+ \n\
+ v'I
+AWAVATUSH
+ATAVD
+[]A\A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+d$ 1
+L$4f
+D$1z
+L$1E
+L$2H
+T$2L
+D$!?
+L$2H
+D$1~
+L$2H
+TL4f
+D$1ZfD
+L$4f
+D$6f
+t$8f
+D$1~
+D$6fD
+D$4fD
+D$1u
+UAUD
+D$1~H
+L$2H
+TD4L
+D$1uf
+L$2f
+tCwKI
+AVAUATUH
+[]A\A]A^
+AWAVI
+AUATUSH
+D$H1
+T$@H
+t$<L
+T$@H
+L$DL
+D$@+D$<
+D$ H
+~fE1
+D9d$D~41
+D9d$D
+D$ H
+D$HdH3
+X[]A\A]A^A_
+AVAUfE
+ATUSt{L
+[]A\A]A^
+5X~%
+5(~%
+AWAVE1
+AUATI
+[]A\A]A^A_
+tZ<\tL<:t
+=a{%
+ATUH
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+ATUS
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+|$0H
+T$0H
+H;D$0t
+AWAV
+AUATUSH
+%YG%
+=Tz%
+D$@&
+D$BQ
+D$FH
+[]A\A]A^A_
+=Yx%
+D$BH
+=3B%
+%*B%
+D$BP
+=kr%
+=.q%
+T$<1
+=zY%
+D$PH
+=nn%
+%7n%
+=xm%
+-^m%
+D$BH
+D$PH
+t$dH
+D$BH
+T$Df
+~SH;\$H
+={[%
+AUATI
+[]A\A]
+[]A\A]1
+[]A\
+t+USH
+AUATI
+[]A\A]
+[]A\A]1
+[]A\A]
+tP~>
+[]A\
+[]A\
+ATUSH
+[]A\H
+AWAVAUATUSH
+tFHc\$
+[]A\A]A^A_
+[]A\A]A^A_
+=77%
+ATUH
+[]A\A
+[]A\
+AVSww
+ATUA
+[]A\
+AWAVA
+AUATI
+[]A\A]A^A_
+AUAT
+[]A\A]
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+ATUH
+5C%%
+AUATL
+]A\A]A^
+uFSH
+AUATUSH
+[]A\A]
+[]A\A]
+ATUSH
+H9D$(t
+H9D$ u
+D$49
+L$09
+[]A\
+ATUH
+[]A\
+;0t H
+v-[H
+ATUSH
+[]A\
+z(>t	
+ATUI
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+[]A\
+AUATI
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+[]A\A]
+D$(1
+L$ H
+D$ H9D$
+t$(dH34%(
+ATUI
+D$$H
+L$ H
+L$xdH3
+[]A\
+T$ H
+D$  
+D$  t
+D$@A;
+D$D;E
+D$H1
+D$HdH3
+D$4H
+ATU1
+[]A\
+u-SH
+ATUSH
+D$H1
+T$HdH3
+P[]A\
+AWAVH
+AUATUSH
+D$81
+T$8dH3
+H[]A\A]A^A_
+~	D9
+D$(A
+D$*I
+T$ L
+D$ H
+T$(H
+AWAVI
+AUATI
+[]A\A]A^A_
+ATUH
+ []A\
+$H9C
+AWAVI
+AUATUSH
+([]A\A]A^A_
+AWAVHc
+AUATI
+H+D$
+[]A\A]A^A_
+AWAVAUATI
+[]A\A]A^A_
+H9\$
+H9\$
+t$ 1
+\$ H
+L9|$
+D$ E1
+|$ E
+<qu@
+ tQD
+D$x1
+D$xdH3
+D$x1
+~S=.
+D$xdH3
+AWAVAUATUSH
+=,~%
+uiIc
+D$(H
+L$ E1
+[]A\A]A^A_
+5w}%
+$S+F
+|$(H
+D$XIc
+L$@L
+D$8H
+L$0L
+D$ H
+T$ H
+T$(H
+[]A\A]A^A_
+D$(H
+L$ E1
+D$0H
+T$8H
+D$ H
+AUAT
+D$(1
+D$(dH3
+8[]A\A]
+AUATI
+USLc
+D$(1
+L$(dH3
+8[]A\A]
+AWAVI
+AUATA
+D$xH
+D$"PD
+L$(1
+[]A\A]A^A_
+t$ L
+t$ H
+ATUSH
+[]A\
+=Yo%
+H9D$ 
+D$ H;
+D$ H;
+ATUA
+ []A\
+ Hi4$
+-Ko%
+AWAVAUATUSH
+4+H)
+([]A\A]A^A_
+AWAVA
+AUATI
+[]A\A]A^A_
+AVAUA
+ATUA
+xmD;d$
+[]A\A]A^
+L$ L
+AWAV
+AUATA
+[]A\A]A^A_
+[]A\A]A^A_
+AVAU
+ATUI
+D$X1
+D$XdH3
+`[]A\A]A^
+t_ATUI
+[]A\
+index.th
+C	eme
+5u[%
+AUATUSH
+[]A\A]
+[]A\
+=D[%
+=WW%
+AUATUSH
+[]A\A]
+AUATI
+D$81
+=u1HcD$
+L$8dH3
+H[]A\A]
+AWAVAUATUSH
+D$81
+t$ L
+D$8dH3
+H[]A\A]A^A_
+l$ H
+t$ L
+AWAVAUATUSH
+t$ E
+D$ H
+L$ D
+[]A\A]A^A_
+D$ L
+t$ L
+D$ H
+t$ L
+D$ H
+t$ D
+D$ H
+t$ L
+t$0H
+|$0I
+l$0H
+l$(t	
+t$PE1
+t$PH
+T$0L
+D$BPD
+L$H1
+t$ H
+uCD9|$
+l$0t	
+T$0H
+D$0L
+l$0H
+H;t$
+T$(H
+T$(H
+=%A%
+AUATA
+D$XD
+t$XL
+L$ L
+[]A\A]
+AUAT
+[]A\A]
+T$ H
+AWAVM
+AUATI
+t$pI
+t$pM
+t$pSL
+t$8L
+[]A\A]A^A_
+ATUH
+%u?%
+[]A\
+ATUSH
+[]A\
+D$(1
+D$(dH3
+0[]A\
+AVAUA
+ATUA
+D$X1
+D$XdH3
+`[]A\A]A^
+AWAVM
+AUATUSH
+T$$H
+T$$E
+D$(D
+8[]A\A]A^A_
+T$$E
+t$$H
+[]A\A]A^A_
+f;D$
+<$0t
+t-E1
+H9l$
+f;D$
+<$AtTA
+<$0D
+L$ D
+RAWAVI
+AUATL
+[]A\A]A^A_
+ATUA
+[]A\
+[]A\
+[]A\
+AVAUATUH
+[]A\A]A^
+[]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVH
+AUATUSH
+A9,$w
+[]A\A]A^A_
+A9,$
+AWAVAUATI
+D$	E
+([]A\A]A^A_
+5f$%
+C,L9
+ATUH
+[]A\
+xHt.H
+[]A\
+=Y!%
+5)!%
+ATUA
+;S(s6
+[]A\
+~$Hc
+ATUSH
+[]A\
+tNAUATA
+[]A\A]
+AUATI
+l$ 1
+D$0 
+l$8H
+[]A\A]
+AVAUMc
+ATUI
+[]A\A]A^
+AVAUATA
+[]A\A]A^
+AWAVI
+AUATI
+D$(H
+l$ H
+,$E9
+8[]A\A]A^A_
+AVAUE1
+ATUSt=H
+]A\A]A^
+AVAU
+ATUSH
+[]A\A]A^
+[]A\A]A^
+AUAT
+[]A\A]
+AUATA
+[]A\A]
+AWAVI
+AUATD
+([]A\A]A^A_
+([]A\A]A^A_
+ATUS
+[]A\
+AWAVH
+AUATI
+D$ H
+D$(t
+t$$I
+\$ D
+t E1
+$9D$
+t$$1
+|$(H
+8[]A\A]A^A_
+AWAVH
+AUATUSH
+u(D9
+tHE1
+([]A\A]A^A_
+[]A\A]A^A_
+AWAVA
+AUATI
+A\A]A^A_
+AWAVE
+AUATI
+A\A]A^A_
+AWAVAUATA
+([]A\A]A^A_
+AUATUH
+$(waH
+XZ[]A\A]A^
+AWAVAUATA
+([]A\A]A^A_
+AWAVH
+AUATI
+T$(A
+|$p|
+t$(9
+|$XA9
+T$|t1
+|$X9
+;T$X
+D$tA
+tBIc
+D$|~1H
+|$t9|$
+|$|A;
+D$tu~D
+L$tIc
+|$t9|$
+D$tHcl$
+D$LH
+t$LL
+t$t9t$
+D$ L
+D$`H
+"D$\
+D$8H
+D$@H
+L$HD
+D$HH
+|$H9|$
+D$0I
+\$8D
+|$PL
+L$HH
+L$(L
+D$ tBA
+HcD$tH
+|$0H9
+t$LL
+D$\H
+T$pD
+L$\L
+9D$t
++L$H
+|$,j
+QATL
+L$HD
+|$HH
+|$0M
+|$H9|$
+D$0I
+\$@D
+l$8L
+L$HH
+L$(L
+D$ tBA
+|$0H9
+t$LL
+T$LL
+|$L@
+"D$\
+HcD$HH
+\$LL
+t$t9t$
+<$;=K
+T$pL
+[]A\A]A^A_
+HcD$HH
+\$LL
+;T$X
+T$pL
+;D$X
+D$|9
+t$XD
+[]A\A]A^
+AWAVI
+AUATA
+D$h1
+t$ L
+T$@1
+l$@f
+\$BfD
+t$DfD
+T$<1
+L$hdH3
+x[]A\A]A^A_
+L$$Ic
+t$ L
+t$$I
+|$ H
+T$ I
+\$(L
+h Ic
+L$PH
+D$LI
+AYAZ
+L$ I
+l$$D
+l$,Hc
+AWAVI
+AUATI
+l$8H
+D$@D
+d$<H
+D$HIc
+D$(I
+D$0A;G
+T$4I
+L$0L
+T$(H
+\$@I
+]A\A]A^A_E1
+X[]A\A]A^A_
+AWAVI
+AUATUSH
+D$81
+L$ H
+t$ H
+D$8dH3
+Degas are we not drawn onward no In union drawn onward to new eras aged
+H[]A\A]A^A_
+D$ H
+D$ H
++D$ 
+T$$D
+D;d$,
+|^D9
+v.9L$
+D9d$,~1
+D9|$(
+|$,E1
+L$()
+D9|$(
+AWAVI
+AUATI
+D$ I
+D9d$
+D9d$
+|$ D
+|sIc
+D9d$
+[]A\A]A^A_
+D9d$
+D9d$
+8[]A\A]A^A_
+AWAVI
+AUATI
+D9l$
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATI
+D$(1
+D9t$
+D$(dH3
+8[]A\A]A^A_
+AWAVI
+AUATUSHc
+D$(H
+T$P1
+D$P@
+[]A\A]A^A_
+D$P@
+D$|I
+\$ L
+D$XPH
+D$XPH
+D$XPH
+D$TPH
+D$`P
+L$@H
+|$PH
+L9'tH1
+D$HH
+t$(I
+\$ 1
+AUATI
+-tY1
+[]A\A]
+[]A\A]
+ATUI
+[]A\
+f;W4r
+AVAUATUSH
+[]A\A]A^
+D$X1
+D$XdH3
+T$(H
+D$@/Hh
+T$8H
+AWAVAUATUSH
+[]A\A]A^A_
+ATUI
+D$x1
+D$xdH3
+[]A\
+D$h1
+D$hdH3
+$5Kh
+D$P<Hh
+D$XHc
+T$8H
+tsSH
+AVAUATUS
+D$h1
+D$hdH3
+p[]A\A]A^
+D$0H
+t*H9
+D$(1
+D$(dH3
+D$X1
+D$XdH3
+D$ H
+AUATI
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+AVUSL
+[]A^
+[]A^
+AWAVA
+AUATA
+D+l$
+[]A\A]A^A_
+D+l$
+$t)D
+D;|$
+AWAVAUATE
+[]A\A]A^A_
+AWAVA
+AUAT1
+[]A\A]A^A_
+AWAVI
+AUATI
+T$0D
+t$0D)
+[]A\A]A^A_
+D$ D
+t$0I
+L$(A
+D$ D
+L$<D
+D$8H
+L$ H
+T$(D
+D$8D
+AWAVI
+AUATA
+l$hL
+\$`dH
+([]A\A]A^A_
+L$hL
+D$xL
+D$xPASL
+\$(L
+AUATI
+=#'$
+dH3<%(
+([]A\A]
+AWAVA
+AUATE
+MX9JX
+9z\E
+([]A\A]A^A_
+}\9z\
+T$`1
+T$h1
+AXAYD
+L$hE
+AWAVA
+AUATH
+l$PH9
+[]A\A]A^A_
+AWAVA
+AUATA
+[]A\A]A^A_
+AVAUA
+ATUD
+]A\A]A^
+]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+AWAV
+AUAT
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVH
+AUATUSH
+H9^ 
+[]A\A]A^A_
+}0E9
+[]A\A]A^A_
+AWAVE
+AUATA
+D$@H
+L$@E
+AVAWAUH
+([]A\A]A^A_
+AUATE1
+[]A\A]
+AWAVH
+AUATUSH
+[]A\A]A^A_
+[]A\A]A^A_D
+AWAVH
+AUATI
+([]A\A]A^A_
+([]A\A]A^A_
+u\A9
+AWAVAUATL
+[]A\A]A^A_
+ATUSH
+[]A\
+ATUS
+[]A\
+[]A\
+AWAVAUATUSH
+u"A9
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+AUATA
+[]A\A]
+AWAVAUATA
+|	A9
+|;D9
+[]A\A]A^A_
+~,A)
+AVAUATUSH
+ []A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+ATUH
+[]A\
+[]A\
+AWAVAUATUSH
+|[D;
+[]A\A]A^A_
+[]A\A]A^A_
+|ctq
+D$(1
+D$(dH3
+AWAVAUATL
+E@H9
+EPH9
+[]A\A]A^A_
+-iu$
+[]A\A]A^A_
+AUATI
+D$h1
+D$hdH3
+x[]A\A]
+t~vd
+AWAV
+AUAT%
+t$XL
+PATAVj
+[]A\A]A^A_
+H9D$
+|$0I
+L$8H
+L;l$ M
+;=&q$
+H9D$
+L$0H
+l$8A
+l$PL
+D$\H
+D$`H
+D$(D
+d$@D
+t$0A
+l$@D
+|$HI
+l$8D
+|$PD
+d$pA
+T$,H
+|$HL
+d$pD
+L$0H
+T$ D
+A_XD
+H9T$
+T$ H
+t$ L
+AXAYD
+D$8M
+A_XD
+u0H;
+l$0H
+l$0D
+d$8L
+l$PI
+\$@L
+t$\L
+T$HD
+\$@H
+L$8D
+\$@H
+T$HL
+t$XH
+D$`L
+|$XH
+T$ D!
+D$HL
+T$ t
+D$HH
+D$ E1
+T$ H
+AZA[L
+D$<fA;D$H
+t$xH
+l$0D
+d$8D
+\$@L
+t$(H
+T$ M
+H9T$
+J fD
+\$ E1
+t$ L
+AZA[H
+D$0H
+t$0D
+D$XD
+L$HL
+D$8H
+L$pD
+D$XH
+D$XH
+H9t$
+|$0H
+D$0H
+H9t$
+H9t$
+D$0H
+D$`A
+D$0A
+H9t$
+t$(H
+0ATM
+l$8D
+l$PL
+H9D$
+L$0E1
+|$0H
+t$`H
+Dt$0
+D$0H
+H9t$
+D$8H
+L$pD
+D$XH
+D$XH
+T$8D
+T$8D
+PARj
+t$XH
+D$HH
+D$`L
+T$ H
+T$ L
+l$0A
+D$pH
+D$@H
+D$xE1
+D;d$(
+H9D$
+t$dH
+L$@D
+D$@f
+]A\D
+l$(D
+D$8E
+D$ teA
+D$`H
+T$hH
+t$xH
+|$pD
+|$@H
+t$hD
+L$lE
+t$@AZA[
+T$hH
+t$xH
+|$@H
+t$hD
+L$lE
+t$@AXAY
+HcD$(H
+L$8H
+T$hH
+t$xH
+|$pD
+D+d$(H
+d$@H
+t$hD
+L$lE
+t$@XZD
+HcD$(
+D$dP
+T$hH
+t$XH
+D$HH
+D$`L
+T$ H
+t$hH
+Dt$0
+L$@A
+t$ D
+T$@D
+T$@H
+QASAR
+#t$XH
+T$ H
+T$8D
+\$0H
+T$8H
+l$0D
+d$8D
+\$@L
+\$8L
+L$0D
+\$0H
+\$0E
+l$0D
+d$8D
+\$@L
+\$8L
+L$0D
+\$@D
+T$0H
+T$0D
+H9D$
+D+rX
+D$(C
+\$@A
+D$0H
+T$hH
+A\A]
+T$hH
+RATD
+L$lD
+D$@H
+D$`^_
+T$ D
+D$0A
+D$(D
+\$8PD
+D$8H
+T$ D
+A[A^D
+|$0H
+t$ D
+|$0H
+D$0H
+D$hA
+t$0H
+\$8L
+L$0D
+\$0H
+\$0E
+T$HD
+\$0H
+D$(D
+\$HPD
+D$8H
+D$@_AXD
+T$HD
+\$@E
+PARH
+t$xL
+T$ Hc
+T$ H
+|$0H
+|$0H
+t$0H
+ATUA
+t5H;
+ []A\
+VUUUH
+AWAVA
+AUAT
+t H9
+[]A\A]A^A_
+Lc|$
+AWAVAUATA
+[]A\A]A^A_
+AWAVI
+AUATA
+([]A\A]A^A_
+AVAUQ
+=)<$
+ATUA
+[]A\
+t9Hc
+USHc
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_1
+AVAUATUSH
+[]A\A]A^
+ATUH
+[]A\
+u/L9
+AUATUSH
+~v=H
+[]A\A]
+<gt[<ct?I
+AWAVI
+AUATI
+	v[D
+[]A\A]A^A_
+ATUI
+[]A\
+ w.H
+AUATE1
+$ ]h
+$ ]h
+]A\A]
+A Santa lives evil at NASA
+]A\A]
+ATUH
+[]A\
+tCUSH
+AUATUSH
+D$h1
+L$hdH3
+x[]A\A]
+t$0D
+D;l$@u
+AVAUATUSH
+[]A\A]A^
+AUATUSH
+[]A\A]
+[]A\A]
+< w-H
+ w+H
+ w'H
+AUAT
+D$X1
+L$XdH3
+h[]A\A]
+AWAVI
+AUATI
+tqHc
+"weA
+[]A\A]A^A_
+AVAUI
+tpHc
+t%Hc
+]A\A]A^
+]A\A]A^
+taUSH
+AVAUATUH
+ []A\A]A^
+ATUE1
+[]A\
+AWAVAUATA
+[]A\A]A^A_
+ATUH
+St#H
+[]A\
+D$X1
+L$XdH3
+D$ -Dh
+L$ H
+D$ -Dh
+D$@!Dh
+D$(H
+D$01
+L$@H
+T$8L
+L$0L
+D$$H
+D$(dH3
+0[]A\
+AWAVL
+AUATI
+T$$L
+D$,H
+L$(H
+D$(A
+L$$E
+D$0H
+D$8H
+t$0H
+(Tekf
+t$8H
+(Tek
+%'d#
+-0d#
+[]A\A]A^A_
+D$\f
+T$XH
+D$PH
+D$XH
+L$@H3
+D$HH
+D$PH
+L$@D
+L9d$
+t$(H
+T$,Ic
+AUATI
+H9CpI
+[]A\A]
+AUATUSH
+H9CpI
+[]A\A]
+AUATUSH
+[]A\A]
+[]A\A]
+wPAUATUSH
+[]A\A]
+5It#
+=F^#
+-Hz#
+AUATE1
+]A\A]
+_~[E
+[]A\A]
+SuFH
+D$81
+D$8dH3
+AVAUA
+ATUSH
+[]A\A]A^
+St)H
+[]A\
+x?E1
+H;9s
+H=Ov
+	vCI
+?v6I
+`v)I
+ATUH
+tHE1
+ATUH
+tHE1
+s,D;
+AUAT1
+[]A\A]
+[]A\A]
+AWAVAUATI
+t"~ =T
+L$"f
+~ILc
+L$"f
+L$"A
+|$ H
+[]A\A]A^A_
+|$@H
+|$Rf
+D$0~
+D$4D
+L$"f
+~RLc
+L$"f
+L$"A
+|$ ~
+D$0~
+T$\fA
+w.fD
+O2fD
+wHfD
+GJfD
+OLfD
+WNfD
+t+SH
+AVAUI
+ATUA
+t f;H
+fD;@
+dH3<%(
+ []A\A]A^
+AWAVE1
+AUATA
+|$PD
+\$@H
+D$`H
+|$`H
+T$`E
+D$PD
+l$pD
+\$`E
+l$dD
+\$\E
+D$hPH
+\$PD
+\$ D
+;t$(
+D$ H
+|$HH
+D$8Hc
+|$01
+|$ H
+|$8H
+|$0f
+L;\$
+|$tD9
+D$(D
+D$dD9
+D$ H
+D$PH
+\$HH
+D9l$ 
+D$PH
+l$xH
++D$p
+4$E1
+|$hWP
+D$tH
+|$`H
+[]A\A]A^A_
+|$@H
+[]A\A]A^A_
+D9\$\D
+D9|$t
+D$d9
+\$ |
+\$`E
+D$tH
+T$8D)
+|$89|$
+T$HA9
+t$hH
+t$XL
+D$0f
+D$\f
+\$89\$
+D+D$pD
+T$`E
+t$x)
+|$PH
+T$`f;|$0u
+fD;D$(
+|$@H
+T$(f
+D$(f
+|$0D
+D+D$pD
+\$`E
+t$x)
+|$PH
+AXAYD
+\$`1
+D+D$pD
+t$xH
+|$PD
+|$HH
+D9l$ 
+D$tE1
++D$\
++D$d
+D$PH
+j SWH
+|$`H
+D+t$dD+|$\A
+D$(E1
+l$xE
+\$0D
+t$tH
+|$8D9|$
+D$tH
+D$XD
+t$PH
+T$XH
+D$0A
+PpD;|$
+|$0A
+t$PH
+vUE9
+AVAUA
+[]A\A]A^
+[]A\A]A^
+AWAV9
+AUATUS
+t$@F
+}LD9
+[]A\A]A^A_
+AUATA
+[]A\A]
+AWAVAUATA
+[]A\A]A^A_
+[]A\
+AWAVA
+AUATI
+[]A\A]A^A_
+=b9#
+AWAVA
+AUATL
+[]A\A]A^A_
+UTF8
+I18N
+COMPOUND_TEXT
+STRING
+%s38;5
+%s%u
+%s48;5
+%d;%d
+CLIPBOARD
+PRIMARY
+SELECT
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+###########+++++##-##++++|######
+selection too big (%lu bytes), not storing in CUT_BUFFER%d
+unexpected widget in DoSetSelectedFont
+attempted to add too many input widgets
+input method doesn't support any style
+input method doesn't support my preedit type (%s)
+This program doesn't support the 'OffTheSpot' preedit type
+Preparation of font set "%s" for XIM failed.
+Preparation of default font set "%s" for XIM failed.
+Failed to create input context
+Could not set destroy callback to IM
+<ClientMessage>WM_PROTOCOLS: DeleteWindow()
+     <MappingNotify>: KeyboardMapping()
+unable to allocate fg/bg colors
+%s in range string "%s" (position %d)
+unsupported resizeGravity resource value (%s)
+Cannot allocate %lu bytes for printable text
+Cannot allocate %lu bytes for string mode %d
+unable to open font "%s", trying "%s"....
+unable to locate a suitable font
+          Shift <KeyPress> Prior:scroll-back(1,halfpage) 
+           Shift <KeyPress> Next:scroll-forw(1,halfpage) 
+         Shift <KeyPress> Select:select-cursor-start() select-cursor-end(SELECT, CUT_BUFFER0) 
+         Shift <KeyPress> Insert:insert-selection(SELECT, CUT_BUFFER0) 
+                 Alt <Key>Return:fullscreen() 
+        <KeyRelease> Scroll_Lock:scroll-lock() 
+    Shift~Ctrl <KeyPress> KP_Add:larger-vt-font() 
+    Shift Ctrl <KeyPress> KP_Add:smaller-vt-font() 
+    Shift <KeyPress> KP_Subtract:smaller-vt-font() 
+                ~Meta <KeyPress>:insert-seven-bit() 
+                 Meta <KeyPress>:insert-eight-bit() 
+                !Ctrl <Btn1Down>:popup-menu(mainMenu) 
+           !Lock Ctrl <Btn1Down>:popup-menu(mainMenu) 
+ !Lock Ctrl @Num_Lock <Btn1Down>:popup-menu(mainMenu) 
+     ! @Num_Lock Ctrl <Btn1Down>:popup-menu(mainMenu) 
+                ~Meta <Btn1Down>:select-start() 
+              ~Meta <Btn1Motion>:select-extend() 
+                !Ctrl <Btn2Down>:popup-menu(vtMenu) 
+           !Lock Ctrl <Btn2Down>:popup-menu(vtMenu) 
+ !Lock Ctrl @Num_Lock <Btn2Down>:popup-menu(vtMenu) 
+     ! @Num_Lock Ctrl <Btn2Down>:popup-menu(vtMenu) 
+          ~Ctrl ~Meta <Btn2Down>:ignore() 
+                 Meta <Btn2Down>:clear-saved-lines() 
+            ~Ctrl ~Meta <Btn2Up>:insert-selection(SELECT, CUT_BUFFER0) 
+                !Ctrl <Btn3Down>:popup-menu(fontMenu) 
+           !Lock Ctrl <Btn3Down>:popup-menu(fontMenu) 
+ !Lock Ctrl @Num_Lock <Btn3Down>:popup-menu(fontMenu) 
+     ! @Num_Lock Ctrl <Btn3Down>:popup-menu(fontMenu) 
+          ~Ctrl ~Meta <Btn3Down>:start-extend() 
+              ~Meta <Btn3Motion>:select-extend() 
+                 Ctrl <Btn4Down>:scroll-back(1,halfpage,m) 
+            Lock Ctrl <Btn4Down>:scroll-back(1,halfpage,m) 
+  Lock @Num_Lock Ctrl <Btn4Down>:scroll-back(1,halfpage,m) 
+       @Num_Lock Ctrl <Btn4Down>:scroll-back(1,halfpage,m) 
+                      <Btn4Down>:scroll-back(5,line,m)     
+                 Ctrl <Btn5Down>:scroll-forw(1,halfpage,m) 
+            Lock Ctrl <Btn5Down>:scroll-forw(1,halfpage,m) 
+  Lock @Num_Lock Ctrl <Btn5Down>:scroll-forw(1,halfpage,m) 
+       @Num_Lock Ctrl <Btn5Down>:scroll-forw(1,halfpage,m) 
+                      <Btn5Down>:scroll-forw(5,line,m)     
+                         <BtnUp>:select-end(SELECT, CUT_BUFFER0) 
+                       <BtnDown>:ignore() 
+SetColor,GetColor,GetAnsiColor
+1,2,3,4,5,6,7,8,9,11,13,14,18,19,20,21,GetSelection,SetSelection,SetWinLines,SetXprop
+Expected a number: %s
+Unrecognized keyword: %s
+:size=
+size=%g%c
+OverTheSpot
+@im=none
+Failed to open input method
+queryInputStyle
+fixed
+fontSet
+spotLocation
+focusWindow
+clientWindow
+inputStyle
+preeditAttributes
+destroyCallback
+insert
+insert-eight-bit
+insert-seven-bit
+secure
+scroll-back
+scroll-forw
+select-cursor-end
+select-cursor-extend
+select-cursor-start
+insert-selection
+select-start
+select-extend
+start-extend
+select-end
+clear-saved-lines
+popup-menu
+ignore
+dabbrev-expand
+scroll-lock
+larger-vt-font
+smaller-vt-font
+cannot allocate buffer space
+char
+XtDefaultForeground
+XtDefaultBackground
+mono
+TRUE
+FALSE
+MEDIUM
+SEMIAUTO
+UTF-8
+auto
+%dx%d%c
+missing number
+too many numbers
+bad value number
+bad range
+bad character
+XTermError
+resizeGravity
+rangeError
+%02X
+%04X
+%sKeymap
+_NET_WM_PID
+_NET_SUPPORTING_WM_CHECK
+_WIN_SUPPORTING_WM_CHECK
+unknown
+_NET_WM_NAME
+WM_CLASS
+fvwm
+window maker
+shift-fonts
+wheel-mouse
+word
+group
+regex
+Never
+Always
+color16
+Color16
+rgb:00/00/00
+color17
+Color17
+rgb:00/00/5f
+color18
+Color18
+rgb:00/00/87
+color19
+Color19
+rgb:00/00/af
+color20
+Color20
+rgb:00/00/d7
+color21
+Color21
+rgb:00/00/ff
+color22
+Color22
+rgb:00/5f/00
+color23
+Color23
+rgb:00/5f/5f
+color24
+Color24
+rgb:00/5f/87
+color25
+Color25
+rgb:00/5f/af
+color26
+Color26
+rgb:00/5f/d7
+color27
+Color27
+rgb:00/5f/ff
+color28
+Color28
+rgb:00/87/00
+color29
+Color29
+rgb:00/87/5f
+color30
+Color30
+rgb:00/87/87
+color31
+Color31
+rgb:00/87/af
+color32
+Color32
+rgb:00/87/d7
+color33
+Color33
+rgb:00/87/ff
+color34
+Color34
+rgb:00/af/00
+color35
+Color35
+rgb:00/af/5f
+color36
+Color36
+rgb:00/af/87
+color37
+Color37
+rgb:00/af/af
+color38
+Color38
+rgb:00/af/d7
+color39
+Color39
+rgb:00/af/ff
+color40
+Color40
+rgb:00/d7/00
+color41
+Color41
+rgb:00/d7/5f
+color42
+Color42
+rgb:00/d7/87
+color43
+Color43
+rgb:00/d7/af
+color44
+Color44
+rgb:00/d7/d7
+color45
+Color45
+rgb:00/d7/ff
+color46
+Color46
+rgb:00/ff/00
+color47
+Color47
+rgb:00/ff/5f
+color48
+Color48
+rgb:00/ff/87
+color49
+Color49
+rgb:00/ff/af
+color50
+Color50
+rgb:00/ff/d7
+color51
+Color51
+rgb:00/ff/ff
+color52
+Color52
+rgb:5f/00/00
+color53
+Color53
+rgb:5f/00/5f
+color54
+Color54
+rgb:5f/00/87
+color55
+Color55
+rgb:5f/00/af
+color56
+Color56
+rgb:5f/00/d7
+color57
+Color57
+rgb:5f/00/ff
+color58
+Color58
+rgb:5f/5f/00
+color59
+Color59
+rgb:5f/5f/5f
+color60
+Color60
+rgb:5f/5f/87
+color61
+Color61
+rgb:5f/5f/af
+color62
+Color62
+rgb:5f/5f/d7
+color63
+Color63
+rgb:5f/5f/ff
+color64
+Color64
+rgb:5f/87/00
+color65
+Color65
+rgb:5f/87/5f
+color66
+Color66
+rgb:5f/87/87
+color67
+Color67
+rgb:5f/87/af
+color68
+Color68
+rgb:5f/87/d7
+color69
+Color69
+rgb:5f/87/ff
+color70
+Color70
+rgb:5f/af/00
+color71
+Color71
+rgb:5f/af/5f
+color72
+Color72
+rgb:5f/af/87
+color73
+Color73
+rgb:5f/af/af
+color74
+Color74
+rgb:5f/af/d7
+color75
+Color75
+rgb:5f/af/ff
+color76
+Color76
+rgb:5f/d7/00
+color77
+Color77
+rgb:5f/d7/5f
+color78
+Color78
+rgb:5f/d7/87
+color79
+Color79
+rgb:5f/d7/af
+color80
+Color80
+rgb:5f/d7/d7
+color81
+Color81
+rgb:5f/d7/ff
+color82
+Color82
+rgb:5f/ff/00
+color83
+Color83
+rgb:5f/ff/5f
+color84
+Color84
+rgb:5f/ff/87
+color85
+Color85
+rgb:5f/ff/af
+color86
+Color86
+rgb:5f/ff/d7
+color87
+Color87
+rgb:5f/ff/ff
+color88
+Color88
+rgb:87/00/00
+color89
+Color89
+rgb:87/00/5f
+color90
+Color90
+rgb:87/00/87
+color91
+Color91
+rgb:87/00/af
+color92
+Color92
+rgb:87/00/d7
+color93
+Color93
+rgb:87/00/ff
+color94
+Color94
+rgb:87/5f/00
+color95
+Color95
+rgb:87/5f/5f
+color96
+Color96
+rgb:87/5f/87
+color97
+Color97
+rgb:87/5f/af
+color98
+Color98
+rgb:87/5f/d7
+color99
+Color99
+rgb:87/5f/ff
+color100
+Color100
+rgb:87/87/00
+color101
+Color101
+rgb:87/87/5f
+color102
+Color102
+rgb:87/87/87
+color103
+Color103
+rgb:87/87/af
+color104
+Color104
+rgb:87/87/d7
+color105
+Color105
+rgb:87/87/ff
+color106
+Color106
+rgb:87/af/00
+color107
+Color107
+rgb:87/af/5f
+color108
+Color108
+rgb:87/af/87
+color109
+Color109
+rgb:87/af/af
+color110
+Color110
+rgb:87/af/d7
+color111
+Color111
+rgb:87/af/ff
+color112
+Color112
+rgb:87/d7/00
+color113
+Color113
+rgb:87/d7/5f
+color114
+Color114
+rgb:87/d7/87
+color115
+Color115
+rgb:87/d7/af
+color116
+Color116
+rgb:87/d7/d7
+color117
+Color117
+rgb:87/d7/ff
+color118
+Color118
+rgb:87/ff/00
+color119
+Color119
+rgb:87/ff/5f
+color120
+Color120
+rgb:87/ff/87
+color121
+Color121
+rgb:87/ff/af
+color122
+Color122
+rgb:87/ff/d7
+color123
+Color123
+rgb:87/ff/ff
+color124
+Color124
+rgb:af/00/00
+color125
+Color125
+rgb:af/00/5f
+color126
+Color126
+rgb:af/00/87
+color127
+Color127
+rgb:af/00/af
+color128
+Color128
+rgb:af/00/d7
+color129
+Color129
+rgb:af/00/ff
+color130
+Color130
+rgb:af/5f/00
+color131
+Color131
+rgb:af/5f/5f
+color132
+Color132
+rgb:af/5f/87
+color133
+Color133
+rgb:af/5f/af
+color134
+Color134
+rgb:af/5f/d7
+color135
+Color135
+rgb:af/5f/ff
+color136
+Color136
+rgb:af/87/00
+color137
+Color137
+rgb:af/87/5f
+color138
+Color138
+rgb:af/87/87
+color139
+Color139
+rgb:af/87/af
+color140
+Color140
+rgb:af/87/d7
+color141
+Color141
+rgb:af/87/ff
+color142
+Color142
+rgb:af/af/00
+color143
+Color143
+rgb:af/af/5f
+color144
+Color144
+rgb:af/af/87
+color145
+Color145
+rgb:af/af/af
+color146
+Color146
+rgb:af/af/d7
+color147
+Color147
+rgb:af/af/ff
+color148
+Color148
+rgb:af/d7/00
+color149
+Color149
+rgb:af/d7/5f
+color150
+Color150
+rgb:af/d7/87
+color151
+Color151
+rgb:af/d7/af
+color152
+Color152
+rgb:af/d7/d7
+color153
+Color153
+rgb:af/d7/ff
+color154
+Color154
+rgb:af/ff/00
+color155
+Color155
+rgb:af/ff/5f
+color156
+Color156
+rgb:af/ff/87
+color157
+Color157
+rgb:af/ff/af
+color158
+Color158
+rgb:af/ff/d7
+color159
+Color159
+rgb:af/ff/ff
+color160
+Color160
+rgb:d7/00/00
+color161
+Color161
+rgb:d7/00/5f
+color162
+Color162
+rgb:d7/00/87
+color163
+Color163
+rgb:d7/00/af
+color164
+Color164
+rgb:d7/00/d7
+color165
+Color165
+rgb:d7/00/ff
+color166
+Color166
+rgb:d7/5f/00
+color167
+Color167
+rgb:d7/5f/5f
+color168
+Color168
+rgb:d7/5f/87
+color169
+Color169
+rgb:d7/5f/af
+color170
+Color170
+rgb:d7/5f/d7
+color171
+Color171
+rgb:d7/5f/ff
+color172
+Color172
+rgb:d7/87/00
+color173
+Color173
+rgb:d7/87/5f
+color174
+Color174
+rgb:d7/87/87
+color175
+Color175
+rgb:d7/87/af
+color176
+Color176
+rgb:d7/87/d7
+color177
+Color177
+rgb:d7/87/ff
+color178
+Color178
+rgb:d7/af/00
+color179
+Color179
+rgb:d7/af/5f
+color180
+Color180
+rgb:d7/af/87
+color181
+Color181
+rgb:d7/af/af
+color182
+Color182
+rgb:d7/af/d7
+color183
+Color183
+rgb:d7/af/ff
+color184
+Color184
+rgb:d7/d7/00
+color185
+Color185
+rgb:d7/d7/5f
+color186
+Color186
+rgb:d7/d7/87
+color187
+Color187
+rgb:d7/d7/af
+color188
+Color188
+rgb:d7/d7/d7
+color189
+Color189
+rgb:d7/d7/ff
+color190
+Color190
+rgb:d7/ff/00
+color191
+Color191
+rgb:d7/ff/5f
+color192
+Color192
+rgb:d7/ff/87
+color193
+Color193
+rgb:d7/ff/af
+color194
+Color194
+rgb:d7/ff/d7
+color195
+Color195
+rgb:d7/ff/ff
+color196
+Color196
+rgb:ff/00/00
+color197
+Color197
+rgb:ff/00/5f
+color198
+Color198
+rgb:ff/00/87
+color199
+Color199
+rgb:ff/00/af
+color200
+Color200
+rgb:ff/00/d7
+color201
+Color201
+rgb:ff/00/ff
+color202
+Color202
+rgb:ff/5f/00
+color203
+Color203
+rgb:ff/5f/5f
+color204
+Color204
+rgb:ff/5f/87
+color205
+Color205
+rgb:ff/5f/af
+color206
+Color206
+rgb:ff/5f/d7
+color207
+Color207
+rgb:ff/5f/ff
+color208
+Color208
+rgb:ff/87/00
+color209
+Color209
+rgb:ff/87/5f
+color210
+Color210
+rgb:ff/87/87
+color211
+Color211
+rgb:ff/87/af
+color212
+Color212
+rgb:ff/87/d7
+color213
+Color213
+rgb:ff/87/ff
+color214
+Color214
+rgb:ff/af/00
+color215
+Color215
+rgb:ff/af/5f
+color216
+Color216
+rgb:ff/af/87
+color217
+Color217
+rgb:ff/af/af
+color218
+Color218
+rgb:ff/af/d7
+color219
+Color219
+rgb:ff/af/ff
+color220
+Color220
+rgb:ff/d7/00
+color221
+Color221
+rgb:ff/d7/5f
+color222
+Color222
+rgb:ff/d7/87
+color223
+Color223
+rgb:ff/d7/af
+color224
+Color224
+rgb:ff/d7/d7
+color225
+Color225
+rgb:ff/d7/ff
+color226
+Color226
+rgb:ff/ff/00
+color227
+Color227
+rgb:ff/ff/5f
+color228
+Color228
+rgb:ff/ff/87
+color229
+Color229
+rgb:ff/ff/af
+color230
+Color230
+rgb:ff/ff/d7
+color231
+Color231
+rgb:ff/ff/ff
+color232
+Color232
+rgb:08/08/08
+color233
+Color233
+rgb:12/12/12
+color234
+Color234
+rgb:1c/1c/1c
+color235
+Color235
+rgb:26/26/26
+color236
+Color236
+rgb:30/30/30
+color237
+Color237
+rgb:3a/3a/3a
+color238
+Color238
+rgb:44/44/44
+color239
+Color239
+rgb:4e/4e/4e
+color240
+Color240
+rgb:58/58/58
+color241
+Color241
+rgb:62/62/62
+color242
+Color242
+rgb:6c/6c/6c
+color243
+Color243
+rgb:76/76/76
+color244
+Color244
+rgb:80/80/80
+color245
+Color245
+rgb:8a/8a/8a
+color246
+Color246
+rgb:94/94/94
+color247
+Color247
+rgb:9e/9e/9e
+color248
+Color248
+rgb:a8/a8/a8
+color249
+Color249
+rgb:b2/b2/b2
+color250
+Color250
+rgb:bc/bc/bc
+color251
+Color251
+rgb:c6/c6/c6
+color252
+Color252
+rgb:d0/d0/d0
+color253
+Color253
+rgb:da/da/da
+color254
+Color254
+rgb:e4/e4/e4
+color255
+Color255
+rgb:ee/ee/ee
+RestoreWin
+MinimizeWin
+SetWinPosition
+SetWinSizePixels
+RaiseWin
+LowerWin
+RefreshWin
+SetWinSizeChars
+MaximizeWin
+FullscreenWin
+GetWinState
+GetWinPosition
+GetWinSizePixels
+GetWinSizeChars
+GetScreenSizeChars
+GetIconTitle
+GetWinTitle
+PushTitle
+PopTitle
+SetWinLines
+SetXprop
+GetSelection
+SetSelection
+SetTcap
+SetFont
+SetColor
+GetColor
+GetAnsiColor
+OffTheSpot
+VT100
+allowPasteControls
+AllowPasteControls
+allowSendEvents
+AllowSendEvents
+allowColorOps
+AllowColorOps
+allowFontOps
+AllowFontOps
+allowTcapOps
+AllowTcapOps
+allowTitleOps
+AllowTitleOps
+allowWindowOps
+AllowWindowOps
+altIsNotMeta
+AltIsNotMeta
+altSendsEscape
+AltSendsEscape
+allowBoldFonts
+AllowBoldFonts
+alwaysBoldMode
+AlwaysBoldMode
+AlwaysHighlight
+appcursorDefault
+AppcursorDefault
+appkeypadDefault
+AppkeypadDefault
+alternateScroll
+ScrollCond
+AutoWrap
+awaitInput
+AwaitInput
+FreeBoldBox
+backarrowKey
+BackarrowKey
+BellIsUrgent
+bellOnReset
+BellOnReset
+boldMode
+brokenSelections
+BrokenSelections
+C132
+cdXtraScroll
+CdXtraScroll
+Curses
+CutNewline
+CutToBeginningOfLine
+deleteIsDEL
+DeleteIsDEL
+DynamicColors
+eightBitControl
+EightBitControl
+eightBitInput
+EightBitInput
+eightBitOutput
+EightBitOutput
+highlightSelection
+HighlightSelection
+showWrapMarks
+ShowWrapMarks
+hpLowerleftBugCompat
+HpLowerleftBugCompat
+i18nSelections
+I18nSelections
+fastScroll
+FastScroll
+JumpScroll
+keepClipboard
+KeepClipboard
+keepSelection
+KeepSelection
+LoginShell
+metaSendsEscape
+MetaSendsEscape
+MultiScroll
+oldXtermFKeys
+OldXtermFKeys
+PopOnBell
+printerAutoClose
+PrinterAutoClose
+printerExtent
+PrinterExtent
+printerFormFeed
+PrinterFormFeed
+printerNewLine
+PrinterNewLine
+quietGrab
+QuietGrab
+ReverseWrap
+selectToClipboard
+SelectToClipboard
+signalInhibit
+SignalInhibit
+TiteInhibit
+tiXtraScroll
+TiXtraScroll
+trimSelection
+TrimSelection
+VisualBell
+visualBellLine
+VisualBellLine
+ScaleHeight
+bellSuppressTime
+BellSuppressTime
+fontWarnings
+FontWarnings
+limitResize
+LimitResize
+MultiClickTime
+Column
+pointerMode
+PointerMode
+printerControlMode
+PrinterControlMode
+titleModes
+TitleModes
+visualBellDelay
+VisualBellDelay
+SaveLines
+scrollBarBorder
+ScrollBarBorder
+scrollLines
+ScrollLines
+initialFont
+InitialFont
+font1
+Font1
+font2
+Font2
+font3
+Font3
+font4
+Font4
+font5
+Font5
+font6
+Font6
+answerbackString
+AnswerbackString
+CharClass
+DecTerminalID
+defaultString
+DefaultString
+disallowedColorOps
+DisallowedColorOps
+disallowedFontOps
+DisallowedFontOps
+SetFont,GetFont
+disallowedTcapOps
+DisallowedTcapOps
+SetTcap,GetTcap
+disallowedWindowOps
+DisallowedWindowOps
+eightBitMeta
+EightBitMeta
+true
+eightBitSelectTypes
+EightBitSelectTypes
+keyboardDialect
+KeyboardDialect
+printerCommand
+PrinterCommand
+CursorColor
+PointerColor
+pointerColorBackground
+ResizeGravity
+pointerShape
+xterm
+logInhibit
+LogInhibit
+Logging
+Logfile
+ActiveIcon
+iconBorderWidth
+IconFont
+nil2
+iconBorderColor
+CursorBlink
+CursorUnderLine
+showBlinkAsBold
+CursorOnTime
+CursorOffTime
+ForceBoxChars
+forcePackedFont
+ForcePackedFont
+showMissingGlyphs
+ShowMissingGlyphs
+assumeAllChars
+AssumeAllChars
+brokenLinuxOSC
+BrokenLinuxOSC
+brokenStringTerm
+BrokenStringTerm
+AllowC1Printable
+useClipping
+UseClipping
+fontDoublesize
+FontDoublesize
+cacheDoublesize
+CacheDoublesize
+HighlightColor
+HighlightTextColor
+highlightReverse
+HighlightReverse
+HighlightColorMode
+openIm
+OpenIm
+inputMethod
+preeditType
+PreeditType
+OverTheSpot,Root
+retryInputMethod
+RetryInputMethod
+veryBoldColors
+VeryBoldColors
+colorAttrMode
+ColorAttrMode
+colorBLMode
+color0
+Color0
+black
+color1
+Color1
+red3
+color2
+Color2
+green3
+color3
+Color3
+yellow3
+color4
+Color4
+blue2
+color5
+Color5
+magenta3
+color6
+Color6
+cyan3
+color7
+Color7
+gray90
+color8
+Color8
+gray50
+color9
+Color9
+color10
+Color10
+green
+color11
+Color11
+yellow
+color12
+Color12
+rgb:5c/5c/ff
+color13
+Color13
+magenta
+color14
+Color14
+cyan
+color15
+Color15
+white
+colorBD
+ColorBD
+colorBL
+ColorBL
+colorUL
+ColorUL
+colorRV
+ColorRV
+colorIT
+ColorIT
+on2Clicks
+On2Clicks
+on3Clicks
+On3Clicks
+on4Clicks
+On4Clicks
+on5Clicks
+On5Clicks
+modifyKeyboard
+ModifyKeyboard
+modifyCursorKeys
+ModifyCursorKeys
+modifyFunctionKeys
+ModifyFunctionKeys
+modifyKeypadKeys
+ModifyKeypadKeys
+modifyOtherKeys
+ModifyOtherKeys
+modifyStringKeys
+ModifyStringKeys
+formatOtherKeys
+FormatOtherKeys
+alwaysUseMods
+AlwaysUseMods
+numLock
+NumLock
+printAttributes
+PrintAttributes
+Tacocat
+maxGraphicSize
+MaxGraphicSize
+1000x1000
+shiftFonts
+ShiftFonts
+sixelScrolling
+SixelScrolling
+sixelScrollsRight
+SixelScrollsRight
+numColorRegisters
+NumColorRegisters
+privateColorRegisters
+PrivateColorRegisters
+ctrlFKeys
+CtrlFKeys
+tekInhibit
+TekInhibit
+tekSmall
+TekSmall
+TekStartup
+CjkWidth
+MkWidth
+precompose
+Precompose
+utf8Latin1
+Utf8Latin1
+utf8Title
+Utf8Title
+vt100Graphics
+VT100Graphics
+WideChars
+combiningChars
+CombiningChars
+mkSamplePass
+MkSamplePass
+mkSampleSize
+MkSampleSize
+Utf8
+utf8Fonts
+Utf8Fonts
+WideBoldFont
+WideFont
+utf8SelectTypes
+Utf8SelectTypes
+medium
+LocaleFilter
+/usr/bin/luit
+XimFont
+allowScrollLock
+AllowScrollLock
+RightScrollBar
+faceSize1
+FaceSize1
+faceSize2
+FaceSize2
+faceSize3
+FaceSize3
+faceSize4
+FaceSize4
+faceSize5
+FaceSize5
+faceSize6
+FaceSize6
+FaceSize
+14.0
+FaceName
+FaceNameDoublesize
+renderFont
+RenderFont
+allow-send-events
+copy-selection
+create-menu
+delete-is-del
+dired-button
+hard-reset
+interpret
+keymap
+print
+print-everything
+print-redir
+quit
+redraw
+select-set
+send-signal
+set-8-bit-control
+set-allow132
+set-altscreen
+set-appcursor
+set-appkeypad
+set-autolinefeed
+set-autowrap
+set-backarrow
+set-bellIsUrgent
+set-cursesemul
+set-jumpscroll
+set-keep-clipboard
+set-keep-selection
+set-marginbell
+set-old-function-keys
+set-pop-on-bell
+set-reverse-video
+set-reversewrap
+set-scroll-on-key
+set-scroll-on-tty-output
+set-scrollbar
+set-select
+set-sun-keyboard
+set-titeInhibit
+set-visual-bell
+set-vt-font
+soft-reset
+start-cursor-extend
+vi-button
+set-logging
+allow-color-ops
+allow-font-ops
+allow-tcap-ops
+allow-title-ops
+allow-window-ops
+set-cursorblink
+set-font-linedrawing
+set-font-packed
+set-font-doublesize
+spawn-new-terminal
+deiconify
+maximize
+restore
+alt-sends-escape
+meta-sends-escape
+set-num-lock
+readline-button
+set-render-font
+exec-formatted
+exec-selectable
+insert-formatted
+insert-selectable
+set-sixel-scrolling
+set-private-colors
+set-sun-function-keys
+set-terminal-type
+set-visibility
+set-tek-text
+tek-page
+tek-reset
+tek-copy
+set-utf8-mode
+set-utf8-fonts
+set-utf8-title
+		%s:
+			lbearing: %d
+			rbearing: %d
+			width:    %d
+			ascent:   %d
+			descent:  %d
+Loaded XftFonts(%s[%s])
+		first char:    %u
+		last char:     %u
+		missing-chars: %u
+		present-chars: %u
+1234567890
+cannot open %s font "%s"
+cannot match %s font "%s"
+FONT
+cannot load font '%s'
+xft:
+family
+spacing
+normal
+charwidth
+weight
+slant
+aspect
+wide
+wide-bold
+wide-italic
+ital
+height
+	%s: %s
+		all chars:     %s
+		default char:  %d
+		direction:     %d
+		ascent:        %d
+		descent:       %d
+		maximum-chars: %u
+		missing-chars: ?
+		present-chars: ?
+		min_byte1:     %d
+		max_byte1:     %d
+		properties:    %d
+min_bounds
+max_bounds
+ISO10646-1
+Loaded VTFonts(font%d)
+Loaded VTFonts(default)
+fNorm
+fBold
+fWide
+fWBold
+Use the "-fa" option for the Xft fonts
+Selected font has no non-zero %s for ISO-8859-1 encoding
+MbP?
+?b'vb'v
+@:!#
+<>~ 	
+vt100
+%s: %s
+:<KeyPress> XF86Paste
+:<KeyPress> SunPaste
+meta
+insert-selection(SELECT, CUT_BUFFER0)
+HDACB  FE
+ ABCDEFGHIJKLMNOPQRSTUVWXYZ??????abcdefghijklmnopqrstuvwxyzXXX
+ XXXXXXXX	XXX
+XXXxxxxXXXXXXXXXXXXXXXXXXXXX*+,-./0123456789XXX=
+Fonts should be fixed width and, if both normal and bold are specified, should
+%s usage:
+    %s [-options ...] [-e command args]
+bad command line option "%s"
+Type %s -help for a full description.
+Cannot chmod %s to %03lo currently %03lo
+fatal pty error errno=%d, error=%d device "%s"
+child process can find no available ptys
+unexpected handshake status %d
+unable to allocate memory for ttydev or ptydev
+ambiguous option "%s" vs "%s"
+Explicit shell already was %s
+have the same size.  If only a normal font is specified, it will be used for
+both normal and bold text (by doing overstriking).  The -e option, if given,
+must appear at the end of the command line, otherwise the user's default shell
+will be started.  Options that start with a plus sign (+) restore the default.
+size (in characters) and position
+turn on/off normal/bold font comparison inhibit
+turn off/on linedrawing characters
+FreeType font-selection pattern
+FreeType Doublesize font-selection pattern
+client instance, icon, and title strings
+additional resource specifications
+turn on/off 80/132 column switching
+turn on/off text cursor blinking
+time text cursor is off when blinking
+time text cursor is on when blinking
+turn off/on display of bold as color
+turn on/off cut-to-beginning-of-line inhibit
+specify additional character classes
+turn on/off cut newline inhibit
+turn off/on dynamic color selection
+turn on/off selection-color override
+turn on/off logic that retains window after exit
+turn on/off initialization of 'erase' from pty
+turn on/off C1-printable classification
+set keyboard type: tcap sun vt220
+multiclick time in milliseconds
+margin bell in characters from right end
+turn off/on display of underlining
+turn on/off PC-style bold colors
+turn on/off reverse wraparound
+report colors as they are allocated
+report fonts as loaded to stdout
+force scrollbar right (default left)
+turn off/on display of reverse as color
+turn on/off Sun Function Key escape codes
+scale line-height values by the given number
+turn on/off scroll-on-tty-output inhibit
+turn on/off scroll-on-keypress
+number of scrolled lines to save
+turn on/off Sun/PC Function/Keypad mapping
+turn on/off Tek emulation window
+terminal mode keywords and characters
+TERM environment variable name
+turn on/off UTF-8 mode (implies wide-characters)
+turn on/off locale mode using luit
+filename of locale converter (/usr/bin/luit)
+turn off/on display of underline as color
+turn off/on display of underline as italics
+turn off/on display of italic as color
+turn on/off wide-character mode
+turn on/off simple width convention
+turn on/off legacy CJK width convention
+turn on/off wait for map before command exec
+slave mode on "ttycc", file descriptor "n"
+use the window id given to -into as the parent window rather than the default root window
+beep and flag icon of window having hidden output
+turn on/off the no-flicker option for title and icon name
+turn on/off the session-management support
+turn on/off maxmize on startup
+turn on/off fullscreen on startup
+*SimpleMenu*menuLabel.vertSpace: 100
+*SimpleMenu*HorizontalMargins: 16
+*mainMenu.Label:  Main Options (no app-defaults)
+*vtMenu.Label:  VT Options (no app-defaults)
+*fontMenu.Label:  VT Fonts (no app-defaults)
+*tekMenu.Label:  Tek Options (no app-defaults)
+where options include:
+    %-28s %s
+usage:  %s
+ [%s]
+/bin/sh
+co#80:
+li#24:
+/etc/shells
+/dev/tty
+WM_DELETE_WINDOW
+open ttydev
+Cannot chown %s to %ld,%ld
+Cannot chmod %s to %03o
+Reason: %s
+cannot open console
+DESKTOP_STARTUP_ID
+XCURSOR_PATH
+TERM
+WINDOWID
+DISPLAY
+XTERM_VERSION
+XTERM_LOCALE
+LOGNAME
+initgroups failed
+:im=\E[4h:ei=\E[4l:mi:
+:%s=\%03o:
+XTERM_SHELL
+Can't execvp %s
+cannot support your locale.
+-argv0
+Could not exec %s
+XTerm
+unable to reset uid
+-version
+-help
+-class
+-into
+setegid(%d)
+bad tty modes "%s"
+/dev/console
+%c%c%d
+-encoding
+XTERM_FILTER
++synchronous
+-background
+-bordercolor
+-borderwidth
+-display
+-foreground
+-iconic
+-name
+-reverse
+-selectionTimeout
+-synchronous
+-xnllanguage
+-xrm
+-xtsessionID
+vt102
+ansi
+dumb
+tek4014
+tek4015
+tek4012
+tek4013
+tek4010
+DeleteWindow
+KeyboardMapping
+print the version number
+print out this message
+-display displayname
+X server to contact
+-geometry geom
+-/+rv
+turn on/off reverse video
+-bg color
+-fg color
+-bd color
+border color
+-bw number
+border width in pixels
+-fn fontname
+normal text font
+-fb fontname
+-/+fbb
+-/+fbx
+-fa pattern
+-fd pattern
+-fs size
+FreeType font-size
+-fw fontname
+doublewidth text font
+-fwb fontname
+doublewidth bold text font
+-fx fontname
+XIM fontset
+start iconic
+-name string
+-class string
+class string (XTerm)
+-title string
+-xrm resourcestring
+-/+132
+-/+ah
+turn on/off always highlight
+-/+ai
+turn off/on active icon
+-fi fontname
+icon font for active icon
+-b number
+internal border in pixels
+-/+bc
+-bcf milliseconds
+-bcn milliseconds
+-/+bdc
+-/+cb
+-cc classrange
+-/+cm
+turn off/on ANSI color mode
+-/+cn
+-cr color
+text cursor color
+-/+cu
+turn on/off curses emulation
+-/+dc
+-/+hm
+-selbg color
+selection background color
+-selfg color
+selection foreground color
+-/+hold
+-/+ie
+-/+im
+use insert mode for TERMCAP
+-/+j
+turn on/off jump scroll
+-/+k8
+-kt keyboardtype
+-/+l
+turn on/off logging
+-lf filename
+logging filename
+-/+ls
+turn on/off login shell
+-/+mb
+turn on/off margin bell
+-mc milliseconds
+-/+mesg
+forbid/allow messages
+-ms color
+pointer color
+-nb number
+-/+nul
+-/+aw
+turn on/off auto wraparound
+-/+pc
+-/+rw
+-/+s
+turn on/off multiscroll
+-/+sb
+turn on/off scrollbar
+-report-colors
+-report-fonts
+-rightbar
+-leftbar
+force scrollbar left
+-/+rvc
+-/+sf
+-sh number
+-/+si
+-/+sk
+-sl number
+-/+sp
+-/+t
+-ti termid
+terminal identifier
+-tm string
+-tn name
+-/+u8
+-/+lc
+-lcc path
+-/+uc
+turn on/off underline cursor
+-/+ulc
+-/+ulit
+-/+ut
+turn on/off utmp support
+-/+vb
+turn on/off visual bell
+-/+pob
+turn on/off pop on bell
+-/+itc
+-/+wc
+-/+mk_width
+-/+cjk_width
+-/+wf
+-e command args ...
+command to execute
+%geom
+Tek window geometry
+#geom
+icon window geometry
+-T string
+title name for window
+-n string
+icon name for window
+intercept console messages
+-Sccn
+-into windowId
+-ziconbeep percent
+-/+samename
+-/+sm
+-/+maximized
+-/+fullscreen
+-geometry
+*vt100.geometry
+-132
+*c132
+*alwaysHighlight
+*autoWrap
+*activeIcon
+*internalBorder
+*cursorBlink
+-bcf
+*cursorOffTime
+-bcn
+*cursorOnTime
+-bdc
+*colorBDMode
+*cutToBeginningOfLine
+*charClass
+*colorMode
+*cutNewline
+*cursorColor
+*curses
+*dynamicColors
+*boldFont
+-fbb
+*freeBoldBox
+-fbx
+*forceBoxChars
+*iconFont
+*faceName
+*faceNameDoublesize
+*faceSize
+-itc
+*colorITMode
+*wideFont
+-fwb
+*wideBoldFont
+*ximFont
+*highlightColor
+*highlightColorMode
+-selfg
+*highlightTextColor
+-selbg
+-hold
+*hold
+*ptyInitialErase
+*jumpScroll
+*allowC1Printable
+*keyboardType
+*logging
+*logFile
+*loginShell
+*marginBell
+*multiClickTime
+-mesg
+*messages
+*pointerColor
+*nMarginBell
+-nul
+*underLine
+*boldColors
+*reverseWrap
+*multiScroll
+*scrollBar
+*reportColors
+*reportFonts
+*rightScrollBar
+-rvc
+*colorRVMode
+*sunFunctionKeys
+*scaleHeight
+*scrollTtyOutput
+*scrollKey
+*saveLines
+*sunKeyboard
+*tekStartup
+*decTerminalID
+*ttyModes
+*termName
+*utf8
+*locale
+-lcc
+*localeFilter
+*cursorUnderLine
+-ulc
+*colorULMode
+-ulit
+*italicULMode
+*utmpInhibit
+*useInsertMode
+*visualBell
+-pob
+*popOnBell
+*wideChars
+-mk_width
+*mkWidth
+-cjk_width
+*cjkWidth
+*waitForMap
+-ziconbeep
+*zIconBeep
+-samename
+*sameName
+*sessionMgt
+-maximized
+*maximized
+-fullscreen
+*fullscreen
+*tekGeometry
+.iconGeometry
+.title
+*iconName
+*reverseVideo
+.borderWidth
+*SimpleMenu*Sme.height: 16
+*SimpleMenu*Cursor: left_ptr
+IconGeometry
+iconHint
+IconHint
+TermName
+TtyModes
+Hold
+UtmpInhibit
+utmpDisplayId
+UtmpDisplayId
+Messages
+minBufSize
+MinBufSize
+maxBufSize
+MaxBufSize
+menuLocale
+MenuLocale
+omitTranslation
+OmitTranslation
+KeyboardType
+printModeImmediate
+PrintModeImmediate
+printOptsImmediate
+PrintOptsImmediate
+printFileImmediate
+PrintFileImmediate
+printModeOnXError
+PrintModeOnXError
+printOptsOnXError
+PrintOptsOnXError
+printFileOnXError
+PrintFileOnXError
+SunKeyboard
+SunFunctionKeys
+tcapFunctionKeys
+TcapFunctionKeys
+PtyInitialErase
+backarrowKeyIsErase
+BackarrowKeyIsErase
+UseInsertMode
+ZIconBeep
+zIconTitleFormat
+ZIconTitleFormat
+*** %s
+WaitForMap
+ptyHandshake
+PtyHandshake
+ptySttySize
+PtySttySize
+ReportColors
+ReportFonts
+SameName
+SessionMgt
+Maximized
+Fullscreen
+intr
+erase
+kill
+swtch
+stop
+dsusp
+rprnt
+flush
+weras
+lnext
+status
+erase2
+eol2
+toggle
+suspend
+XawPositionSimpleMenu
+MenuPopup
+leftBitmap
+tstp
+cont
+alrm
+alarm
+mainMenu
+vtMenu
+fontMenu
+tekMenu
+tektextlarge
+tektext2
+tektext3
+tektextsmall
+line1
+tekpage
+tekreset
+tekcopy
+line2
+vtshow
+vtmode
+tekhide
+fontdefault
+fontescape
+fontsel
+allow-bold-fonts
+line3
+reversevideo
+scrollkey
+scrollttyoutput
+visualbell
+poponbell
+activeicon
+softreset
+hardreset
+clearsavedlines
+tekshow
+tekmode
+vthide
+securekbd
+allowsends
+print-immediate
+print-on-error
+8-bit control
+backarrow key
+alt-esc
+meta-esc
+oldFunctionKeys
+continue
+interrupt
+hangup
+terminate
+line4
+unknown error
+xtermXXXXXX
+ABCDEF
+MinorError
+Info
+TerminalBell
+%s: 
+Xt error: %s
+DISPLAY is not set
+%s%d-%02d-%02d.%02d:%02d:%02d
+unable to reset group-id
+unable to reset user-id
+dynamic
+static
+color  %04x/%04x/%04x = "%s"
+color  %04x/%04x/%04x ~ "%s"
+<null>
+Cannot allocate color "%s"
+%d%s
+%d%s%s
+%d;%dr
+%d;%ds
+;38;5;%d
+;%d%d
+;48;5;%d
+.xpm
+_48x48
+/usr/share/pixmaps/
+%s%s%s%s
+%s: Error %d, errno %d: 
+cannot open %s: %d:%s
+you do not own %s
+%Y.%m.%d.%H.%M.%S
+Xterm.log.%.255s.%.20s.%d
+/proc/self/exe
+Cannot exec-xterm given "%s"
+/proc/%lu/cwd
+Could not fork: %s
+Cannot reset uid/gid
+exec of '%s': %s
+%s=%s
+/tmp
+XCURSOR_THEME
+theme
+Xcursor
+TMPDIR
+%s/%s
+[Icon Theme]
+_NET_WM_ICON_NAME
+4;%d;rgb:%04x/%04x/%04x
+invalid window-id %ld
+spawn: ptsname() failed
+spawn: initgroups() failed
+spawn: fork() failed
+spawn: exec() failed
+get_pty: not enough ptys
+waiting for initial map
+spawn: setuid() failed
+in_put: select() failed
+Tinput: select() failed
+SaltTextAway: malloc() failed
+StartLog: exec() failed
+xerror: XError event
+xioerror: X I/O error
+48 48 213 2
+  	c None
+. 	c #FF0000
++ 	c #FF5300
+@ 	c #FF5E00
+# 	c #FF4800
+$ 	c #FF4200
+% 	c #FF4000
+& 	c #FF4B00
+* 	c #FF5200
+= 	c #FF5400
+- 	c #FF3500
+; 	c #FF5100
+> 	c #FF5C00
+, 	c #FF3000
+' 	c #FF4500
+) 	c #FF2000
+! 	c #FF0300
+~ 	c #FF1600
+{ 	c #FF5D00
+] 	c #FF3800
+^ 	c #FF0200
+/ 	c #FF0900
+( 	c #FF2B00
+_ 	c #FF3300
+: 	c #FF1A00
+< 	c #FF1300
+[ 	c #FF1200
+} 	c #FF5700
+| 	c #4577BA
+1 	c #874E78
+2 	c #887577
+3 	c #887E77
+4 	c #887977
+5 	c #875078
+6 	c #566CA9
+7 	c #5E70A1
+8 	c #884E77
+9 	c #887677
+0 	c #7C5B83
+a 	c #795686
+b 	c #008DFE
+c 	c #0012F3
+d 	c #000BF2
+e 	c #008FFE
+f 	c #006CFA
+g 	c #0000F1
+h 	c #0001F1
+i 	c #0020F4
+j 	c #0040F6
+k 	c #0959F0
+l 	c #1158E8
+m 	c #1159E8
+n 	c #0058F9
+o 	c #001DF4
+p 	c #0023F4
+q 	c #005BFA
+r 	c #0060FA
+s 	c #0E58EB
+Beeb
+t 	c #0651F3
+u 	c #0033F5
+v 	c #000EF2
+w 	c #006EFA
+x 	c #0092FF
+y 	c #001FF4
+z 	c #000FF2
+A 	c #0C51EC
+B 	c #326AC9
+C 	c #7A6583
+D 	c #CA6234
+E 	c #FC5F03
+F 	c #FF5800
+G 	c #FF0800
+H 	c #F4060B
+I 	c #007CFB
+Do nine men interpret Nine men I nod
+J 	c #0013F3
+K 	c #007EFB
+L 	c #FF1800
+M 	c #F3590C
+N 	c #AB6152
+O 	c #4F4EAD
+P 	c #175CE4
+Q 	c #0036F5
+R 	c #0022F4
+S 	c #0095FD
+T 	c #0084FD
+U 	c #0004F1
+V 	c #0051F8
+W 	c #345AC7
+X 	c #E61519
+Y 	c #FF5900
+Z 	c #FF4600
+` 	c #FF0100
+ .	c #446EB9
+..	c #0034F6
++.	c #0032F5
+@.	c #FF2200
+#.	c #006FFA
+$.	c #002DF5
+%.	c #0086FD
+&.	c #0046F7
+*.	c #0015F3
+=.	c #0076FC
+-.	c #FF0400
+;.	c #FF2300
+>.	c #FF2900
+,.	c #9E3E61
+'.	c #0039F6
+).	c #FF2A00
+!.	c #FF4300
+~.	c #0071FB
+{.	c #005EF9
+].	c #004DF7
+^.	c #008CFE
+/.	c #0008F2
+(.	c #001DF3
+_.	c #007DFB
+:.	c #FF4100
+<.	c #FF5B00
+[.	c #A3425C
+}.	c #994C66
+|.	c #FF1100
+1.	c #0072FB
+2.	c #000AF2
+3.	c #006EFC
+4.	c #0017F3
+5.	c #007FFB
+6.	c #FF0600
+7.	c #FF5600
+8.	c #A56A5A
+9.	c #A53B5A
+0.	c #FF4F00
+a.	c #0076FB
+b.	c #0076FA
+c.	c #0093FF
+d.	c #007DFC
+e.	c #FF1C00
+f.	c #A5765A
+g.	c #A55D5A
+h.	c #006FFB
+i.	c #002CF5
+j.	c #008AFD
+k.	c #006BF9
+l.	c #FF3A00
+m.	c #FF5000
+n.	c #007BFB
+o.	c #008BFD
+p.	c #A5755A
+q.	c #9A5565
+r.	c #A43A5B
+s.	c #FF4D00
+t.	c #80507F
+u.	c #FF0F00
+v.	c #7A5485
+w.	c #A5555A
+x.	c #FF0A00
+y.	c #A53D5A
+z.	c #A4515B
+A.	c #A5685A
+B.	c #A5735A
+C.	c #FF0700
+D.	c #FF2E00
+E.	c #FF1500
+F.	c #A3705C
+G.	c #FF0500
+H.	c #9A4965
+I.	c #FF0E00
+J.	c #FF3B00
+K.	c #FF2D00
+L.	c #A13C5E
+M.	c #FF4C00
+N.	c #62649D
+O.	c #FF0B00
+P.	c #FF4700
+Q.	c #FF1D00
+R.	c #A56D5A
+S.	c #FF2C00
+T.	c #A4465B
+U.	c #FF1400
+V.	c #A03E61
+W.	c #FF3100
+X.	c #FF1B00
+Y.	c #FF1000
+Z.	c #0029F5
+`.	c #0027F4
+ +	c #4571BA
+.+	c #FF3900
+++	c #FF3200
+@+	c #008EFD
+#+	c #0019F3
+$+	c #0090FD
+%+	c #FF0D00
+&+	c #FF1E00
+*+	c #FF4E00
+=+	c #0088FC
+-+	c #0087FC
+;+	c #FF1900
+>+	c #0036F6
+,+	c #FF2100
+'+	c #0073FB
+)+	c #0062FA
+!+	c #001AF3
+~+	c #2463D8
+{+	c #3E58BE
+]+	c #2A7FD3
+^+	c #807B7F
+/+	c #008EFB
+(+	c #006AFA
+_+	c #004CF8
+:+	c #717B8D
+<+	c #EE0B11
+[+	c #F73E08
+}+	c #FF1F00
+|+	c #FF5500
+CUT_BUFFER0
+CUT_BUFFER1
+CUT_BUFFER2
+CUT_BUFFER3
+CUT_BUFFER4
+CUT_BUFFER5
+CUT_BUFFER6
+CUT_BUFFER7
+allocation failure in GetOldColors
+getVisualInfo depth %d, type %d (%s), size %d rgb masks (%04lx/%04lx/%04lx)
+No absolute path found for shell: %s
+warning, error event received:
+ICE IO error handler doing an exit(), pid = %ld, errno = %d
+fatal IO error %d (%s) or KillClient on X server "%s"
+<Message>WM_PROTOCOLS: DeleteWindow()
+main:  ioctl() failed on FIONBIO
+main: ioctl() failed on F_GETFL
+main: ioctl() failed on F_SETFL
+spawn: open() failed on /dev/tty
+spawn: ioctl() failed on TIOCGETP
+spawn: open() failed on ptsname
+spawn: ioctl() failed on I_PUSH/"ptem"
+spawn: ioctl() failed on I_PUSH/"consem"
+spawn: ioctl() failed on I_PUSH/"ldterm"
+spawn: ioctl() failed on I_PUSH/"ttcompat"
+spawn: ioctl() failed on TIOCSETP
+spawn: ioctl() failed on TIOCSETC
+spawn: ioctl() failed on TIOCSETD
+spawn: ioctl() failed on TIOCSLTC
+spawn: ioctl() failed on TIOCLSET
+spawn: can't initialize window
+spawn: ioctl() failed on TIOCKSET
+spawn: ioctl() failed on TIOCKSETC
+luit: command-line malloc failed
+VTInit: can't initialize window
+HandleKeymapChange: malloc failed
+TekInit: can't initialize window
+Alloc: calloc() failed on base
+Alloc: calloc() failed on rows
+ScrnPointers: malloc/realloc() failed
+                                                                                                
+    . . . . . . . . . . . . . . . . . .                 . . . . . . . . . . . . . . . .         
+    . + @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ .                 . # @ @ @ @ @ @ @ @ @ @ @ @ $ .         
+    . % & & & * @ @ @ @ @ = & & & & & .                 . - & & & & & ; @ > & & & & , .         
+    . . . . . . * @ @ @ @ ; . . . . . .                 . . . . . . . ' @ ) . . . . . .         
+              ! ~ { @ @ @ @ ] ^                                   / ( @ $ .                     
+                ^ _ @ @ @ @ @ : !                               < [ > } ^ .                     
+                | 1 2 3 3 3 3 4 5 6                           7 8 9 3 0 a                       
+            b c d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d c e             
+            f g g g g g g h i j k l m n o g g g g g g p q r s t u v g g g g g g g w             
+          x y g g g g z A B C D E F G H I c g g g g J K   L / M N O P Q h g g g g R S           
+          T g g g U V W X Y @ @ @ @ Z `  ...g g g g +.    ` ' @ @..     #.$.g g g g %.          
+          &.g g *.=.    -.;.@ @ @ @ @ >.,.'.g g g g '.  / ).@ !..         ~.{.U g g ].          
+        ^./.g (._.        ` :.@ @ @ @ <.[.'.g g g g '.}.|.<.} ^ .             1.2.g d e         
+        3.g 4.5.            6.7.@ @ @ @ 8.'.g g g g '.9.0.@ [ .                 a./.g b.        
+      c.R /.d.              -.e.@ @ @ @ f.'.g g g g '.g.@ - .                     h.h i.        
+      j.k.%.                  ^ l.@ @ @ f.'.g g g g '.f.m.`                         n.f o.      
+                                ! * @ @ f.'.g g g g '.p.G .                                     
+                                ! ~ { @ f.'.g g g g '.q..                                       
+                                  ^ _ @ f.'.g g g g '.r.                                        
+                                    ^ s.f.'.g g g g '.t.                                        
+                                    ^ u.p.'.g g g g '.v.                                        
+                                      ^ w.'.g g g g '.r.                                        
+                                      x.y.'.g g g g '.z.^                                       
+                                      ` A.'.g g g g '.B.x..                                     
+                                    C.D.f.'.g g g g '.f.# `                                     
+                                  < E.{ F.'.g g g g '.f.@ ( ^                                   
+                                : G.; @ H.'.g g g g '.f.@ <.I.^                                 
+                                -.J.@ K.L.'.g g g g '.f.@ @ s.`                                 
+                              I.) @ M.. N.'.g g g g '.f.@ @ @ _ ^                               
+                            L O.F <.6..   '.g g g g '.f.@ @ @ { E.!                             
+                            ^ P.@ Q..     '.g g g g '.R.@ @ @ @ * !                             
+                          G S.@ % .       '.g g g g '.T.{ @ @ @ @ l.^                           
+                        < U.> 7.^         ..g g g g u V.W.@ @ @ @ @ e.!                         
+                      X.-.m.@ Y..         Z.g g g g `. +` M.@ @ @ @ 7.6.                        
+                      -..+@ ++.         @+#+g g g g #+$+^ %+<.@ @ @ @ :.`                       
+                    I.&+@ *+.           =+h g g g g h -+  ! >.@ @ @ @ @ ;.^                     
+                  ;+x.} > C..           >+g g g g g g >+    ` Z @ @ @ @ Y / .                   
+                  ` ' @ ,+.   %.1.'+)+!+g g g g g g g g #+)+~+{+]+^+@ @ @ P.`                   
+                / ).@ !..   /+(+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+(+:+@ @ @ @ ).^                 
+              I.[ > F . .                                       <+[+@ @ @ @ <.I.`               
+    . . . . . . 0.@ }+. . . . . .                     . . . . . . . |+@ @ @ @ s.. . . . . .     
+    O.@ @ @ @ @ @ @ @ @ @ @ @ @ ^                     ! $ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ $ .     
+    . & & & & & & & & & & & & & .                     . , & & & & & & & & & & & & & & & , .     
+    . . . . . . . . . . . . . . .                     . . . . . . . . . . . . . . . . . . .     
+?No program found for printerCommand: %s
+noFormFeed
+noNewLine
+monoAttrs
+colorAttrs
+input: read returned unexpected error (%d)
+input: read returned zero
+_NET_WM_STATE
+_NET_SUPPORTED
+_NET_WM_STATE_FULLSCREEN
+_NET_WM_STATE_MAXIMIZED_VERT
+_NET_WM_STATE_MAXIMIZED_HORZ
+Unexpected recursion drawing hidden characters.
+HALFPAGE
+PIXEL
+Scroll Lock
+Num Lock
+Caps Lock
+a number between -100 and 100 is required for zIconBeep.  0 used by default
+malloc failed in showZIconBeep
+Conflicting keyboard type option (%u/%u)
+KeyboardType resource "%s" not found
+invalid Xinerama specification '%s'
+ sun
+false
+Xinerama support not enabled
+ vt220
+ tcap
+?Version 
+%[0-9.] %[A-Za-z_0-9.]
+%s %s(%d)
+XTerm
+USER
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+khlp
+\|,:'"
+kHLP
+kfnd
+kFND
+kslt
+kSLT
+khome
+kHOM
+kend
+kEND
+kcub1
+kcuf1
+kcuu1
+kcud1
+kLFT
+kRIT
+kind
+kf10
+kf11
+kf12
+kf13
+kf14
+kf15
+kf16
+kf17
+kf18
+kf19
+kf20
+kf21
+kf22
+kf23
+kf24
+kf25
+kf26
+kf27
+kf28
+kf29
+kf30
+kf31
+kf32
+kf33
+kf34
+kf35
+kf36
+kf37
+kf38
+kf39
+kf40
+kf41
+kf42
+kf43
+kf44
+kf45
+kf46
+kf47
+kf48
+kf49
+kf50
+kf51
+kf52
+kf53
+kf54
+kf55
+kf56
+kf57
+kf58
+kf59
+kf60
+kf61
+kf62
+kf63
+kcbt
+kclr
+kdch1
+kich1
+kNXT
+kPRV
+kund
+kDN3
+kDN4
+kDN5
+kDN6
+kDN7
+kDN8
+kLFT3
+kLFT4
+kLFT5
+kLFT6
+kLFT7
+kLFT8
+kRIT3
+kRIT4
+kRIT5
+kRIT6
+kRIT7
+kRIT8
+kUP3
+kUP4
+kUP5
+kUP6
+kUP7
+kUP8
+kDC3
+kDC4
+kDC5
+kDC6
+kDC7
+kDC8
+kEND3
+kEND4
+kEND5
+kEND6
+kEND7
+kEND8
+kHOM3
+kHOM4
+kHOM5
+kHOM6
+kHOM7
+kHOM8
+kIC3
+kIC4
+kIC5
+kIC6
+kIC7
+kIC8
+kNXT3
+kNXT4
+kNXT5
+kNXT6
+kNXT7
+kNXT8
+kPRV3
+kPRV4
+kPRV5
+kPRV6
+kPRV7
+kPRV8
+xxxxxxxxxxxxxxxx
+===============================================================================================
+234W
+A5Z6X[
+234W
+A5Z6X[
+234W
+A5Z6X[
+234W
+A5Z6X[
+****
+234W
+A5Z6X[
+****
+llmn
+234W
+A5Z6X[
+llmn
+234W
+A5Z6X[
+234W
+A5Z6X[
+BC89
+234W
+A5Z6X[Q
+234W
+A5Z6X[
+BC89
+234W
+A5Z6X[
+234W
+A5Z6X[
+wwwwwwwwwwwwwwww
+wwww
+234W
+A5Z6X[wwwwwwwwwwwwwwww
+wwww
+wwwwwwwwwwwwwwww
+wwww
+234W
+A5Z6X[wwwwwwwwwwwwwwww
+wwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+234W
+A5Z6X[wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwww
+wwwwwwwwwww
+wwww
+234W
+A5Z6X[wwww
+wwwwwwwwwww
+wwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+234W
+A5Z6X[wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+234W
+A5Z6X[wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+234W
+A5Z6X[wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+234W
+A5Z6X[wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+234W
+A5Z6X[wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+234W
+A5Z6X[wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+j^wzwwrww
+wwwww
+wwww
+234W
+A5Z6X[
+j^wzwwrww
+wwwww
+wwww
+j^wzwwrwwwwwwww
+234W
+A5Z6X[
+j^wzwwrwwwwwwww
+===============================================================================================
+234W
+A5Z6X[================================================================================================
+tektronix
+Not enough core for Tek mode
+three
+=%dx%d
+CRonly
+CR&EOT
+Tinput: malloc error (%d)
+COPY
+%c%c%c%c
+Tek4014
+fontLarge
+9x15
+6x13
+8x13
+fontSmall
+6x10
+ginTerminator
+GinTerminator
+gin-press
+illegal GIN terminator setting "%s"
+;*3$"
+MIT_CONSOLE_
+                ~Meta<KeyPress>: insert-seven-bit() 
+                 Meta<KeyPress>: insert-eight-bit() 
+               !Ctrl <Btn1Down>: popup-menu(mainMenu) 
+          !Lock Ctrl <Btn1Down>: popup-menu(mainMenu) 
+!Lock Ctrl @Num_Lock <Btn1Down>: popup-menu(mainMenu) 
+     !Ctrl @Num_Lock <Btn1Down>: popup-menu(mainMenu) 
+               !Ctrl <Btn2Down>: popup-menu(tekMenu) 
+          !Lock Ctrl <Btn2Down>: popup-menu(tekMenu) 
+!Lock Ctrl @Num_Lock <Btn2Down>: popup-menu(tekMenu) 
+     !Ctrl @Num_Lock <Btn2Down>: popup-menu(tekMenu) 
+          Shift ~Meta<Btn1Down>: gin-press(L) 
+                ~Meta<Btn1Down>: gin-press(l) 
+          Shift ~Meta<Btn2Down>: gin-press(M) 
+                ~Meta<Btn2Down>: gin-press(m) 
+          Shift ~Meta<Btn3Down>: gin-press(R) 
+                ~Meta<Btn3Down>: gin-press(r)
+a23d8f6d586291b9bdead449bce2cc816486b5.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

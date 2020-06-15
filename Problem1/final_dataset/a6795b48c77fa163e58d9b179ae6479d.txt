@@ -1,0 +1,777 @@
+/lib64/ld-linux-x86-64.so.2
+libICE.so.6
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+IceSetShutdownNegotiation
+IceAcceptConnection
+_init
+IceConnectionString
+IceCloseConnection
+IceListenForConnections
+IceComposeNetworkIdList
+IceGetListenConnectionNumber
+IceProcessMessages
+IceSetIOErrorHandler
+IceSetHostBasedAuthProc
+IceSetPaAuthData
+IceFreeListenObjs
+IceConnectionNumber
+IceGenerateMagicCookie
+IceGetListenConnectionString
+_fini
+IceAddConnectionWatch
+IceConnectionStatus
+libSM.so.6
+SmsCleanUp
+SmsDie
+SmFreeReasons
+SmsSaveYourselfPhase2
+SmsReturnProperties
+SmsInitialize
+SmsRegisterClientReply
+SmsClientHostName
+SmsShutdownCancelled
+SmsInteract
+SmsGetIceConnection
+SmsSaveYourself
+SmsSaveComplete
+SmFreeProperty
+SmsGenerateClientID
+libXaw.so.7
+XtTranslateCoords
+XtAddEventHandler
+XBell
+XtCreateManagedWidget
+XtMalloc
+XtVaSetValues
+XtAppProcessEvent
+XtShellStrings
+transientShellWidgetClass
+XtRealizeWidget
+XtPopdown
+XtPopup
+XSetWMProtocols
+XtOverrideTranslations
+XtRemoveEventHandler
+XtAppAddActions
+XMapRaised
+XInternAtom
+XChangeProperty
+XtFree
+XSync
+XtParseTranslationTable
+XtSetKeyboardFocus
+XtIsManaged
+XMapWindow
+XtCallCallbacks
+XtManageChild
+XtAddCallback
+topLevelShellWidgetClass
+XtStrings
+simpleMenuWidgetClass
+smeBSBObjectClass
+formWidgetClass
+XawTextGetInsertionPoint
+labelWidgetClass
+XawTextReplace
+toggleWidgetClass
+XawListShowCurrent
+XawToggleGetCurrent
+XawToggleSetCurrent
+XawSimpleMenuGetActiveEntry
+asciiTextWidgetClass
+XawListHighlight
+XawListChange
+menuButtonWidgetClass
+commandWidgetClass
+XawFmt8Bit
+listWidgetClass
+libXt.so.6
+XtVaCreateWidget
+XtRemoveInput
+XtNoticeSignal
+XtAppAddSignal
+XtVaGetValues
+XtAsprintf
+XtWindow
+XtUnmanageChild
+XtScreen
+XtAppAddInput
+XtAppMainLoop
+XtVaCreatePopupShell
+XtInstallAllAccelerators
+XtSetSensitive
+XtVaAppInitialize
+Beeb
+XtUnrealizeWidget
+XtVaCreateManagedWidget
+XtDisplay
+libX11.so.6
+XCreateBitmapFromData
+XSetInputFocus
+libc.so.6
+__stpcpy_chk
+strcpy
+__printf_chk
+readdir
+_IO_putc
+fopen
+strncmp
+strrchr
+pipe
+__strdup
+perror
+closedir
+puts
+fork
+__stack_chk_fail
+putchar
+realloc
+rewinddir
+_exit
+mkstemp
+strtol
+execlp
+strlen
+sigemptyset
+strstr
+__errno_location
+chdir
+__fprintf_chk
+putenv
+fputc
+__isoc99_fscanf
+memcpy
+fclose
+malloc
+strcat
+umask
+remove
+opendir
+__ctype_b_loc
+getenv
+stderr
+system
+__snprintf_chk
+execvp
+creat
+gethostname
+fwrite
+sigaction
+waitpid
+strchr
+fdopen
+sleep
+link
+memmove
+_IO_getc
+__strcat_chk
+strcmp
+__libc_start_main
+stpcpy
+free
+__environ
+__cxa_atexit
+_edata
+__bss_start
+_end
+GLIBC_2.3
+GLIBC_2.14
+GLIBC_2.4
+GLIBC_2.7
+GLIBC_2.2.5
+GLIBC_2.3.4
+AVAUATUH
+5a2!
+8-u 
+<st1<v
+~eHc
+hEOa
+=9/!
+=j.!
+%R-!
+Default
+ATUI
+[]A\1
+AWAVI
+AUATUS
+t$,H
+t$,H
+D9|$
+|$0A
+[]A\A]A^A_
+ATUI
+[]A\
+=)&!
+xdUSHc
+=k#!
+5<!!
+='"!
+AWAVAUATUSH
+([]A\A]A^A_
+~\Ic
+AWAVI
+alula
+AUATI
+D$81
+\$8dH3
+H[]A\A]A^A_
+$Icu
+|$0A
+L$0L
+AWAVI
+AUATI
+[]A\A]A^A_
+Fail SafH
+f+\$
+f+D$
+t+Hc@
+t+Hc@
+AVAUI
+ATUSH
+t>Ic
+[]A\A]A^
+AWAVAUATUSH
+D$81
+H98t=H
+D$8dH3
+H[]A\A]A^A_
+Hct$
+t$ H
+|$ A
+t$ H
+|$ E
+t$ H
+t=HcB
+x5USH
+t+Hc@
+Tacocat
+AWAVAUATUSH
+D$0H
+L$@L
+\$ H
+L$8H
+\$ H
+[]A\A]A^A_
+AUATUSH
+D$H1
+tWHc@
+D$HdH3
+X[]A\A]
+t$ 1
+D$8H
+hjNa
+h9Na
+h9Na
+ATUA
+[]A\
+h9Na
+AWAVAUATA
+D$H1
+D$>PhjNa
+D$LP1
+D$NH
+T$LL
+D$"H
+L$ L
+\$ fD
+|$"E
+T$@1
+D$6P1
+D$<H
+D$>D
+l$:H
+D$,H
+D$.A
+D$HdH3
+X[]A\A]A^A_
+l$,f+\$*H
+Do nine men interpret Nine men I nod
+f+\$$f+\$(A
+fD+|$,fD+|$.fD+|$&fD+|$(E
+t!E1
+T$@1
+AUAT
+[]A\A]
+ATUI
+AVAUATI
+|$ H
+\$ H
+Eleele
+|$(H
+D$(H
+[]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+AUATI
+[]A\A]
+AVAUI
+[]A\A]A^
+[]A\A]A^
+A Santa lives evil at NASA
+]A\A]A^
+AUATI
+[]A\A]
+AWAVI
+AUATUSH
+([]A\A]A^A_
+AWAVH
+AUATUSH
+|$ H
+|$(dH
+[]A\A]A^A_
+t$@M
+I9,$t
+L$(H
+|$P1
+\t'I
+AVAUI
+ATUI
+D$X1
+D$XdH3
+`[]A\A]A^
+rstart-r
+rstart-r
+AWAVAUATUS
+|$8H
+D$7H
+ED$0
+D$ H
+"D$7
+[]A\A]A^A_
+DD$<
+|$(L
+D$XH
+L$PH
+T$LH
+|$PH
+|$XH
+L$XH
+L$0L
+D$(H
+t$hH
+RestartiA
+D$ply :H
+D$`H
+ng localfD
+\$tH
+D$hH
+D$ H
+|$p1
+|$p1
+AXAY
+AWAVI
+AUATUSH
+t$$E
+D$XH
+L$PH
+D$LE
+L$8L
+L$ H
+t$hH
+|$PH
+|$XH
+D$(H
+[]A\A]A^A_
+T$$E
+D$(M
+\$8L
+\$8L
+D$(H
+|$p1
+t'f.
+|$p1
+ATU1
+[]A\
+AUATI
+[]A\A]
+[]A\
+AWAVAUATA
+[]A\A]A^A_
+[]A\A]A^A_
+AWAV1
+AUAT
+[]A\A]A^A_
+AWAVAUATUSH
+D$0H
+L$0L
+HcT$
+L$(H
+[]A\A]A^A_
+AVAU
+ATU1
+]A\A]A^
+h@Za
+|$ 1
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAV
+AUATI
+D$(1
+|$ H
+\$ 1
+|$ 1
+L$(dH3
+8[]A\A]A^A_
+|$ H
+t$ M
+4$~FH
+|$ H
+|$ H
+t$ E
+ u+A
+tJE1
+|$ H
+\$ 1
+|$ H
+d$ H
+t$ H
+|$ H
+AWAVAUATUSH
+ZYtvH
+[]A\A]A^A_
+ u+A
+4$dH
+AVAUI
+D$ 0
+\$(H
+\$8H
+\$HH
+\$XH
+D$`p
+\$hH
+D$p`
+\$xH
+[]A\A]A^
+Memory aH
+llocatio
+n failedH
+[]A\A]A^
+H;=i
+H9B(u
+D$H1
+D$HdH3
+AWAVAUATA
+AVSE1
+[]A\A]A^A_
+AVAUI
+ATUI
+[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+K8 H
+]A\A]A^
+ATUI
+[]A\
+AWAVA
+AUATL
+%>V 
+->V 
+[]A\A]A^A_
+add %s "" %s %s 
+%s/%sXXXXXX
+SM_SAVE_DIR
+HOME
+iceauth source %s
+MIT-MAGIC-COOKIE-1
+XSMP
+remove protoname=%s protodata="" netid=%s authname=%s
+longest
+.XSM-
+%s (locked at %s)
+chooseSessionPopup
+chooseSessionForm
+fromVert
+fromHoriz
+chooseSessionLabel
+resizable
+defaultColumns
+chooseSessionListWidget
+vertDistance
+forceColumns
+chooseSessionMessageLabel
+chooseSessionLoadButton
+chooseSessionDeleteButton
+chooseSessionBreakLockButton
+chooseSessionFailSafeButton
+chooseSessionCancelButton
+ChooseSessionUp
+ChooseSessionDown
+ChooseSessionBtn1Down
+realloc failed, aborting
+leftBitmap
+*** ID = 
+ ***
+SM Properties : %s
+)   Restart
+Name:		
+Type:		
+Num values:	
+CARD8
+Value 1:	
+RestartStyleHint
+ (Restart Anyway)
+ (Restart Immediately)
+ (Restart Never)
+ (Restart If Running)
+Value 
+DelPropWinAction()
+Restart If Running
+Restart Anyway
+Restart Immediately
+Restart Never
+Program
+_XC_RestartService
+%s%s (%s%s)   %s
+DelClientInfoWinAction()
+clientInfoPopup
+clientInfoForm
+viewPropButton
+right
+left
+bottom
+cloneButton
+killClientButton
+restartHintMenu
+menuName
+restartHintButton
+leftMargin
+restartIfRunning
+restartAnyway
+restartImmediately
+restartNever
+clientInfoDoneButton
+clientListWidget
+noClientsLabel
+manualRestartLabel
+manualRestartCommands
+scrollVertical
+clientPropPopup
+clientPropForm
+clientPropDoneButton
+clientPropTextWidget
+scrollHorizontal
+displayCaret
+DelClientInfoWinAction
+DelPropWinAction
+%s/.XSMlock-%s
+%s/.XSMtlock-%s
+%255s
+DelLogWinAction()
+logPopup
+logForm
+logText
+logOkButton
+DelLogWinAction
+mainWindow
+clientInfoButton
+logButton
+checkPointButton
+shutdownMenu
+shutdownButton
+shutdownSave
+shutdownDontSave
+DelMainWinAction
+Insufficient memory.
++%d+%d
+Setting initial properties for %s
+Client Id = %s, received SET PROPERTIES 
+Client Id = %s, received DELETE PROPERTIES 
+Client Id = %s, received GET PROPERTIES
+Client Id = %s, sent PROPERTIES REPLY [Num props = %d]
+DiscardCommand
+[Num props = %d]
+Degas are we not drawn onward no In union drawn onward to new eras aged
+   Name:	%s
+rstart-rsh
+rstartd
+CONTEXT X
+DIR %s
+DETACH
+MISC X %s
+PATH
+MISC X PATH=%s
+EXEC %s %s
+local/
+AUTH ICE %s "" %s %s 
+Only rstart-rsh remote execution protocol supported.
+Bad remote machine specified for remote execute.
+Attempting to restart remote client on %s
+%s: pipe() error during remote start of %s
+%s: fork() error during remote start of %s
+%s: execlp() of rstartd failed for remote start of %s
+local
+tcp/
+decnet/
+Restarting id '%s'...
+Host = %s
+CurrentDirectory
+RestartCommand
+Environment
+DISPLAY=
+SESSION_MANAGER=
+AUDIOSERVER=
+%s: Can't fork() %s
+%s: Can't execvp() %s
+Restarting remotely on %s : 
+CloneCommand
+%s/.xsmstartup
+/etc/X11/xsm/system.xsm
+Starting locally : %s
+Restarting locally : %s
+Can't remote start client ID '%s': only local supported
+Can't restart ID '%s':  no program or no args
+Cloning id '%s', useSavedState = %d...
+Can't remote clone client ID '%s': only local supported
+Could not find default apps file.  Make sure you did
+a 'make install' in the xsm build directory.
+xsm: %s
+radioGroup
+state
+radioData
+DelSaveHelpWinAction()
+Client Id = %s, sent DIE
+True
+False
+DelNameInUseWinAction()
+Cancel
+savePopup
+saveForm
+saveMessageLabel
+saveName
+saveTypeLabel
+saveTypeLocal
+saveTypeGlobal
+saveTypeBoth
+interactStyleLabel
+interactStyleNone
+interactStyleErrors
+interactStyleAny
+saveOkButton
+helpSaveButton
+saveCancelButton
+<Key>Return: SaveOkAction()
+nameInUsePopup
+nameInUseForm
+nameInUseLabel
+nameInUseOverwriteButton
+nameInUseCancelButton
+helpPopup
+helpForm
+helpSaveText
+helpSaveOkButton
+badSavePopup
+badSaveForm
+badSaveLabel
+badSaveListWidget
+badSaveOkButton
+badSaveCancelButton
+Shutdown
+Checkpoint
+DelSaveWinAction()
+%s%s (%s%s)
+DelBadSaveWinAction()
+SaveOkAction
+DelSaveWinAction
+DelNameInUseWinAction
+DelBadSaveWinAction
+DelSaveHelpWinAction
+Client Id = %s, sent INTERACT
+Starting PHASE 2 of SAVE YOURSELF
+Client Id = %s, sent SAVE YOURSELF PHASE 2
+All clients issued SAVE YOURSELF DONE
+Client Id = %s, sent SAVE COMPLETE
+Client Id = %s, sent SHUTDOWN CANCELLED
+Client Id = %s, sent SAVE YOURSELF [
+Save Type = %s, Shutdown = %s, 
+Interact Style = %s, Fast = False]
+Sent SAVE YOURSELF to all clients.  Waiting for
+SAVE YOURSELF DONE, INTERACT REQUEST, or
+SAVE YOURSELF PHASE 2 REQUEST from each client.
+Another session by the name '%s' is active.
+Choose another name for the session.
+Another session by the name '%s' already exists.
+Would you like to overwrite it?
+%s/.XSM-%s
+No session save file.
+Reading session save file...
+state %d
+%s: Error creating session save file %s
+Unsupported version number of session save file.
+Corrupt save file line ignored:
+Can't delete session save file - incompatible version.
+IceAcceptConnection failed
+Accept at networkId %s
+ICE Connection rejected!
+Error]
+Normal]
+<Message>WM_PROTOCOLS: %s
+%s=%s
+%s=%s%s
+DelMainWinAction()
+SM_CLIENT_ID
+xsm main window
+WM_STATE
+WM_DELETE_WINDOW
+SAMPLE-SM
+Could not set authorization
+DISPLAY=%s
+setenv %s %s
+Session '%s' is locked
+SESSION MANAGER GOING AWAY!
+NULL
+   Reason string %d: %s
+Client Id = %s, received SAVE YOURSELF DONE [Success = %s]
+Client Id = %s, received INTERACT DONE [Cancel Shutdown = %s]
+Done interacting with all clients.
+God A red nugget A fat egg under a dog
+On IceConn fd = %d, client set up session mngmt protocol
+SAVE YOURSELF REQUEST not supported!
+ICE Connection opened by client, IceConn fd = %d, 
+IO error opening ICE Connection!
+Client Id = %s, received INTERACT REQUEST [Dialog Type = 
+Error in SMlib: should have checked for bad value]
+Client Id = %s, received SAVE YOURSELF PHASE 2 REQUEST
+usage: xsm [-display display] [-session session_name] [-verbose]
+On IceConn fd = %d, received REGISTER CLIENT [Previous Id = %s]
+On IceConn fd = %d, sent REGISTER CLIENT REPLY [Client Id = %s]
+ICE Connection closed, IceConn fd = %d
+Client Id = %s, received CONNECTION CLOSED
+IO error on connection (fd = %d)
+;*3$"
+AUDIOSERVER
+SESSION_MANAGER
+DISPLAY
+SESSION_MANAGER
+eb1a5614eef8352da4a29af8d2b5b1819d6a52.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+Borrow or rob
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got
+.got.plt
+.data
+.bss
+.gnu_debuglink

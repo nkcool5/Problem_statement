@@ -1,0 +1,4902 @@
+/lib64/ld-linux-x86-64.so.2
+librt.so.1
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+clock_gettime
+libsignon-plugins-common.so.1
+_ZrsRK13QDBusArgumentR8QVariant
+_ZN13QDBusArgumentC1ERKS_
+_ZN11QMetaObject8activateEP7QObjectPKS_iPPv
+_ZN7QObject11eventFilterEPS_P6QEvent
+_ZN7QObject10childEventEP11QChildEvent
+_ZN12QMapDataBase8freeDataEPS_
+_ZN12QMapDataBase11shared_nullE
+_ZN7QObject11qt_metacallEN11QMetaObject4CallEiPPv
+_ZrsR11QDataStreamR8QVariant
+_ZNK8QVariant8typeNameEv
+_ZNK13QDBusArgument5atEndEv
+_ZN6QDebugD1Ev
+_ZrsR11QDataStreamR7QString
+_ZN8QVariantaSERKS_
+_ZltRK7QStringS1_
+_ZNK11QObjectData17dynamicMetaObjectEv
+_ZN7QObject16disconnectNotifyERK11QMetaMethod
+_ZN9QMetaType25registerNormalizedTypedefERK10QByteArrayi
+_ZN8QVariantC1ERKS_
+_ZN7QObject10disconnectEPKS_PKcS1_S3_
+_ZN11QTextStreamlsEi
+_ZN8QVariantD1Ev
+_ZNK14QMessageLogger5debugEv
+_ZN8QVariantC1ERK4QMapI7QStringS_E
+_ZN7QObject11customEventEP6QEvent
+_ZN7QObject10timerEventEP11QTimerEvent
+_ZN9QIODevice5resetEv
+_ZN10QArrayData11shared_nullE
+_ZN12QMapDataBase18recalcMostLeftNodeEv
+_ZN11QDataStreamlsEi
+_ZN13QDBusArgumentD1Ev
+_ZN11QDataStreamrsERi
+_ZlsR11QDataStreamRK7QString
+_ZN7QObject16staticMetaObjectE
+_ZNK7QBuffer4dataEv
+_ZNK8QVariant7convertEiPv
+_ZNK8QVariant8userTypeEv
+_ZN11QTextStreamlsEc
+_ZN7QBufferD1Ev
+_ZNK12QMapNodeBase12previousNodeEv
+_ZN10QByteArray6appendERKS_
+_Z7qstrcmpPKcS0_
+_ZNK13QDBusArgument8beginMapEv
+_ZN11QDataStreamD1Ev
+_ZN7QObjectC2EPS_
+_ZN12QMapDataBase8freeTreeEP12QMapNodeBasei
+_ZN7QString15fromUtf8_helperEPKci
+_ZNK8QVariant9constDataEv
+_ZN7QObject7connectEPKS_PKcS1_S3_N2Qt14ConnectionTypeE
+_ZN13QDBusArgumentC1Ev
+_ZlsR11QDataStreamRK8QVariant
+_ZN7QObject11qt_metacastEPKc
+_ZNK13QDBusArgument6endMapEv
+_ZN10QArrayData10deallocateEPS_mm
+_ZNK13QDBusArgument11endMapEntryEv
+_ZNK13QDBusArgument13beginMapEntryEv
+_ZN15QSocketNotifier10setEnabledEb
+_ZN11QMetaObject14normalizedTypeEPKc
+_ZN9QMetaType22registerNormalizedTypeERK10QByteArrayPFvPvEPFS3_PKvES5_PFS3_S3_S7_Ei6QFlagsINS_8TypeFlagEEPK11QMetaObject
+_ZN11QTextStreamlsERK7QString
+_ZN12QMapDataBase10createNodeEiiP12QMapNodeBaseb
+_ZNK12QMapNodeBase8nextNodeEv
+_ZN7QBufferC1EP7QObject
+_ZN7QObjectD2Ev
+_ZN7QObject13connectNotifyERK11QMetaMethod
+_ZN7QObject5eventEP6QEvent
+_ZN11QDataStreamC1EP9QIODevice
+_ZN11QMetaObject10ConnectionD1Ev
+_ZNK13QDBusArgumentrsER7QString
+_ZN12QMapDataBase10createDataEv
+_ZNK14QMessageLogger8criticalEv
+_Z27qRegisterNormalizedMetaTypeI13QDBusArgumentEiRK10QByteArrayPT_N9QtPrivate21MetaTypeDefinedHelperIS4_Xaasr12QMetaTypeId2IS4_E7DefinedntsrS9_9IsBuiltInEE11DefinedTypeE
+_ZZN11QMetaTypeIdI13QDBusArgumentE14qt_metatype_idEvE11metatype_id
+_ZN6SignOn13BlobIOHandler11receiveDataEi
+_ZN6SignOn13BlobIOHandler28setReadChannelSocketNotifierEP15QSocketNotifier
+_fini
+_ZN6SignOn13BlobIOHandler8sendDataERK4QMapI7QString8QVariantE
+_ZN4QMapI7QString8QVariantE13detach_helperEv
+_ZN17QtMetaTypePrivate23QMetaTypeFunctionHelperI13QDBusArgumentLb1EE6DeleteEPv
+_ZNK8QMapNodeI7QString8QVariantE4copyEP8QMapDataIS0_S1_E
+_ZN6SignOn13BlobIOHandlerC1EP9QIODeviceS2_P7QObject
+_ZN8QMapNodeI7QString8QVariantE14destroySubTreeEv
+_ZN17QtMetaTypePrivate23QMetaTypeFunctionHelperI13QDBusArgumentLb1EE6CreateEPKv
+_ZN17QtMetaTypePrivate23QMetaTypeFunctionHelperI13QDBusArgumentLb1EE8DestructEPv
+_init
+_ZN17QtMetaTypePrivate23QMetaTypeFunctionHelperI13QDBusArgumentLb1EE9ConstructEPvPKv
+libsignon-extension.so.1
+_ZN15QDBusConnectionC1ERKS_
+_ZN9QHashData12allocateNodeEi
+_ZN15QDBusConnectionD1Ev
+_ZN4QDir8homePathEv
+_ZN9QListData6detachEi
+_ZN9QHashData8freeNodeEPv
+_ZN5QFileD1Ev
+_ZNK7QObject6senderEv
+_ZN12QDBusMessageD1Ev
+_ZN5QFile6existsERK7QString
+_ZN9QHashData6rehashEi
+_ZN9QListData11shared_nullE
+_ZN12QDBusMessageC1Ev
+_ZN7QString17fromLatin1_helperEPKci
+_ZN9QHashData12previousNodeEPNS_4NodeE
+_ZN12QDBusMessageaSERKS_
+_ZN5QFileC1ERK7QString
+_ZN7QStringaSERKS_
+_ZN9QListData7disposeEPNS_4DataE
+_ZN11QMetaObject12invokeMethodEP7QObjectPKcN2Qt14ConnectionTypeE22QGenericReturnArgument16QGenericArgumentS7_S7_S7_S7_S7_S7_S7_S7_S7_
+_ZN9QHashData11free_helperEPFvPNS_4NodeEE
+_ZN9QHashData11shared_nullE
+_ZN12QDBusMessageC1ERKS_
+_ZN10QByteArray11reallocDataEj6QFlagsIN10QArrayData16AllocationOptionEE
+_ZN9QListData11detach_growEPii
+_ZN9QListData6appendEv
+_ZeqRK7QStringS1_
+_ZNK11QMetaObject4castEP7QObject
+_ZN9QHashData13detach_helperEPFvPNS_4NodeEPvEPFvS1_Eii
+_ZN6SignOn21AbstractKeyAuthorizer11qt_metacastEPKc
+_ZN6SignOn22AbstractSecretsStorageD2Ev
+_ZN6SignOn10KeyHandler10initializeEPNS_21AbstractCryptoManagerERK5QListIPNS_18AbstractKeyManagerEE
+_ZN6SignOn21AbstractCryptoManager15setupFileSystemEv
+_ZNK6SignOn10KeyHandler7isReadyEv
+_ZNK6SignOn11AccessReply10isAcceptedEv
+_ZN6SignOn21AbstractCryptoManagerD2Ev
+_ZN6SignOn11AccessReply16staticMetaObjectE
+_ZN6SignOn21AbstractCryptoManagerC2EP7QObject
+_ZNK6SignOn13AccessRequest8identityEv
+_ZNK6SignOn22AbstractSecretsStorage9lastErrorEv
+_ZN6SignOn13AccessRequestD1Ev
+_ZN6SignOn22AbstractSecretsStorageC2EP7QObject
+_ZN6SignOn28AbstractAccessControlManagerC1EP7QObject
+_ZN6SignOn21AbstractKeyAuthorizer11qt_metacallEN11QMetaObject4CallEiPPv
+_ZNK6SignOn10KeyHandler15keyIsAuthorizedERK10QByteArray
+_ZNK6SignOn22AbstractSecretsStorage6isOpenEv
+_ZN6SignOn21AbstractCryptoManager17unmountFileSystemEv
+_ZN6SignOn22AbstractSecretsStorage9setIsOpenEb
+_ZN6SignOn21AbstractCryptoManager20setFileSystemMountedEb
+_ZN6SignOn10KeyHandler22revokeKeyAuthorizationERK10QByteArray
+signonLoggingLevel
+_ZN6SignOn16setUserOwnershipERK7QString
+_ZN6SignOn10KeyHandlerC1EP7QObject
+_ZNK6SignOn21AbstractKeyAuthorizer10keyHandlerEv
+_ZN6SignOn21AbstractCryptoManager11qt_metacallEN11QMetaObject4CallEiPPv
+_ZN6SignOn21AbstractCryptoManager18setFileSystemSetupEb
+_ZN6SignOn21AbstractCryptoManager16staticMetaObjectE
+_ZNK6SignOn21AbstractCryptoManager11backupFilesEv
+_ZN6SignOn21AbstractCryptoManager18encryptionKeyInUseERK10QByteArray
+_ZN6SignOn15setLoggingLevelEi
+_ZN6SignOn13AccessRequest7setPeerERK15QDBusConnectionRK12QDBusMessage
+_ZNK6SignOn13AccessRequest14peerConnectionEv
+_ZN6SignOn21AbstractCryptoManager16addEncryptionKeyERK10QByteArrayS3_
+_ZNK6SignOn21AbstractCryptoManager19fileSystemIsMountedEv
+_ZN6SignOn21AbstractKeyAuthorizer23keyAuthorizationQueriedE10QByteArrayi
+_ZN6SignOn21AbstractCryptoManager11qt_metacastEPKc
+_ZN6SignOn21AbstractCryptoManager19removeEncryptionKeyERK10QByteArrayS3_
+_ZNK6SignOn10KeyHandler12insertedKeysEv
+_ZN6SignOn21AbstractKeyAuthorizer16staticMetaObjectE
+_ZN6SignOn22AbstractSecretsStorage12setLastErrorERKNS_18CredentialsDBErrorE
+_ZN6SignOn22AbstractSecretsStorage10clearErrorEv
+_ZNK6SignOn11AccessReply7requestEv
+_ZN6SignOn10KeyHandler12authorizeKeyERK10QByteArray6QFlagsINS0_14AuthorizationsEE
+_ZN6SignOn21AbstractCryptoManager15mountFileSystemEv
+_ZN6SignOn21AbstractKeyAuthorizerD2Ev
+_ZN6SignOn21AbstractKeyAuthorizerC2EPNS_10KeyHandlerEP7QObject
+_ZN6SignOn13AccessRequestC1Ev
+_ZN6SignOn22AbstractSecretsStorage5closeEv
+_ZN6SignOn22AbstractSecretsStorage13checkPasswordEjRK7QStringS3_
+_ZN6SignOn21AbstractCryptoManager16deleteFileSystemEv
+_ZN6SignOn13AccessRequest11setIdentityEj
+_ZNK6SignOn13AccessRequest11peerMessageEv
+_ZNK6SignOn10KeyHandler22canAddKeyAuthorizationEv
+libdbus-1.so.3
+dbus_connection_get_unix_process_id
+libQt5Sql.so.5
+_ZNK14QMessageLogger7warningEPKcz
+_Z5qHashRK7QStringj
+_ZN9QHashData8nextNodeEPNS_4NodeE
+_ZN9QListData7reallocEi
+_ZN9QtPrivate20QStringList_containsEPK11QStringListRK7QStringN2Qt15CaseSensitivityE
+_ZN9QtPrivate16QStringList_joinEPK11QStringListPK5QChari
+_ZN16QCoreApplication4selfE
+_ZNK14QMessageLogger7warningEv
+_ZN11QTextStreamlsEPKc
+_ZNK8QVariant3cmpERKS_
+_ZNK8QVariant6isNullEv
+_ZN7QString6appendERKS_
+_ZNK8QVariant8toStringEv
+_ZNK7QString10startsWithE5QCharN2Qt15CaseSensitivityE
+_ZNK7QString3midEii
+_ZN7QString11reallocDataEjb
+_ZNK7QStringeqE13QLatin1String
+_ZNK8QVariant6toBoolEv
+_ZNK8QVariant11toByteArrayEv
+_ZNK7QString5toIntEPbi
+_ZN15QtSharedPointer20ExternalRefCountData9getAndRefEPK7QObject
+_ZNK8QVariant6toListEv
+_ZN7QString7replaceEiiRKS_
+_ZN8QVariantC1ERK7QString
+_ZN12QMapDataBase20freeNodeAndRebalanceEP12QMapNodeBase
+_ZN8QVariantC1E13QLatin1String
+_ZN7QStringC1E5QChar
+_ZNK7QString3argERKS_i5QChar
+_ZNK7QString3argExii5QChar
+_ZNK9QSqlQuery9lastErrorEv
+_ZN12QSqlDatabase5closeEv
+_ZNK9QSqlError4typeEv
+_ZN9QSqlQueryC1E12QSqlDatabase
+_ZN9QSqlQuery9bindValueERK7QStringRK8QVariant6QFlagsIN4QSql13ParamTypeFlagEE
+_ZNK12QSqlDatabase6tablesEN4QSql9TableTypeE
+_ZN12QSqlDatabase15setDatabaseNameERK7QString
+_ZN9QSqlErrorD1Ev
+_ZNK9QSqlError4textEv
+_ZN12QSqlDatabase8rollbackEv
+_ZNK9QSqlQuery9lastQueryEv
+_ZN12QSqlDatabase4openEv
+_ZNK9QSqlError10driverTextEv
+_ZN12QSqlDatabaseC1ERKS_
+_ZNK9QSqlError6numberEv
+_ZN12QSqlDatabase14removeDatabaseERK7QString
+_ZN9QSqlQuery5firstEv
+_ZNK12QSqlDatabase14connectionNameEv
+_ZN12QSqlDatabaseD1Ev
+_ZN12QSqlDatabaseaSERKS_
+_ZN9QSqlQuery4nextEv
+_ZNK12QSqlDatabase12databaseNameEv
+_ZNK9QSqlError12databaseTextEv
+_ZN12QSqlDatabase7driversEv
+_ZN9QSqlQueryC1ERKS_
+_ZNK12QSqlDatabase9lastErrorEv
+_ZNK9QSqlError7isValidEv
+_ZN9QSqlQuery5clearEv
+_ZNK9QSqlQuery12lastInsertIdEv
+_ZN9QSqlQueryaSERKS_
+_ZN12QSqlDatabase11addDatabaseERK7QStringS2_
+_ZN12QSqlDatabase11transactionEv
+_ZN12QSqlDatabase6commitEv
+_ZN9QSqlQueryD1Ev
+_ZNK9QSqlQuery5valueEi
+_ZN9QSqlQuery7prepareERK7QString
+_ZN9QSqlQueryC1ERK7QString12QSqlDatabase
+_ZN9QSqlQuery4execEv
+libQt5DBus.so.5
+_ZNK7QString5splitE5QCharNS_13SplitBehaviorEN2Qt15CaseSensitivityE
+_ZN9QListData5eraseEPPv
+_ZN7QString13toUtf8_helperERKS_
+_ZN8QVariantC1Ej
+_ZNK8QVariant6toUIntEPb
+_ZN8QVariantC1Eb
+_ZN6QEventD2Ev
+_ZNK7QObject10objectNameEv
+_ZN11QTextStreamlsERK10QByteArray
+_ZN7QObject11deleteLaterEv
+_Zls6QDebugPK7QObject
+_ZN16QCoreApplication9postEventEP7QObjectP6QEventi
+_ZNK14QMessageLogger5fatalEPKcz
+_ZN6QEventC2ENS_4TypeE
+_ZN15QSocketNotifierC1ExNS_4TypeEP7QObject
+_Z7qgetenvPKc
+_ZN10QByteArray6appendEc
+_ZN10QByteArray6appendEPKc
+_ZNK7QObject8propertyEPKc
+_ZN8QVariantC1EiPKvj
+_ZN7QObject11setPropertyEPKcRK8QVariant
+_ZN9QListData6removeEi
+_ZN7QObject9destroyedEPS_
+_ZNK8QVariant5toIntEPb
+_ZNK8QVariant12toStringListEv
+_ZNK7QString7indexOfE13QLatin1StringiN2Qt15CaseSensitivityE
+_ZNK11QMetaObject9classNameEv
+_ZN9QMetaType30hasRegisteredConverterFunctionEii
+_ZN9QMetaType25registerConverterFunctionEPKN9QtPrivate25AbstractConverterFunctionEii
+_ZN9QMetaType27unregisterConverterFunctionEii
+_ZNK7QString10startsWithE13QLatin1StringN2Qt15CaseSensitivityE
+_ZN8QVariantC1Ei
+_ZN8QVariantC1ERK11QStringList
+_ZN8QVariantC1ERK10QByteArray
+_ZN12QDBusMessage16createMethodCallERK7QStringS2_S2_S2_
+_ZN20QDBusAbstractAdaptor11qt_metacallEN11QMetaObject4CallEiPPv
+_ZNK12QDBusMessage11createReplyERK5QListI8QVariantE
+_ZN20QDBusAbstractAdaptorD2Ev
+Beeb
+_ZN23QDBusPendingCallWatcherC2ERK16QDBusPendingCallP7QObject
+_ZN21QDBusPendingReplyData6assignERK16QDBusPendingCall
+_ZN12QDBusMessage12setArgumentsERK5QListI8QVariantE
+_ZNK15QDBusConnection18objectRegisteredAtERK7QString
+_ZNK12QDBusMessage15setDelayedReplyEb
+_ZNK12QDBusContext7messageEv
+_ZN23QDBusPendingCallWatcherD2Ev
+_ZN15QDBusConnection10sessionBusEv
+_ZN23QDBusPendingCallWatcher16staticMetaObjectE
+_ZNK12QDBusMessage16createErrorReplyE7QStringRKS0_
+_ZN15QDBusObjectPath7doCheckEv
+_ZNK15QDBusConnection4sendERK12QDBusMessage
+_ZNK13QDBusArgument10beginArrayEv
+_ZN15QDBusConnection16unregisterObjectERK7QStringNS_14UnregisterModeE
+_ZNK22QDBusAbstractInterface4pathEv
+_ZN21QDBusPendingReplyDataC2Ev
+_ZN13QDBusArgument11endMapEntryEv
+_ZNK16QDBusPendingCall7isErrorEv
+_ZN22QDBusAbstractInterface11qt_metacallEN11QMetaObject4CallEiPPv
+_ZNK21QDBusPendingReplyData10argumentAtEi
+_ZN23QDBusPendingCallWatcher11qt_metacastEPKc
+_ZN22QDBusAbstractInterfaceD2Ev
+_ZN21QDBusPendingReplyData12setMetaTypesEiPKi
+_ZN13QDBusArgument6endMapEv
+_ZN20QDBusAbstractAdaptor16staticMetaObjectE
+_ZN11QDBusServerC1ERK7QStringP7QObject
+_ZN13QDBusArgument8beginMapEii
+_ZN10QDBusError11errorStringENS_9ErrorTypeE
+_ZN22QDBusAbstractInterface11qt_metacastEPKc
+_ZN20QDBusAbstractAdaptorC2EP7QObject
+_ZNK13QDBusArgumentrsER11QStringList
+_ZN20QDBusAbstractAdaptor19setAutoRelaySignalsEb
+_ZN20QDBusAbstractAdaptor11qt_metacastEPKc
+_ZN22QDBusAbstractInterface16disconnectNotifyERK11QMetaMethod
+_ZNK12QDBusContext14sendErrorReplyERK7QStringS2_
+_ZN22QDBusAbstractInterface16staticMetaObjectE
+_ZNK22QDBusAbstractInterface7serviceEv
+_ZN12QDBusContextD1Ev
+_ZNK15QDBusConnection4nameEv
+_ZNK12QDBusMessage7serviceEv
+_ZN23QDBusPendingCallWatcherC1ERK16QDBusPendingCallP7QObject
+_ZN13QDBusArgument13beginMapEntryEv
+_ZNK16QDBusPendingCall10isFinishedEv
+_ZN22QDBusAbstractInterface13connectNotifyERK11QMetaMethod
+_ZNK15QDBusConnection9asyncCallERK12QDBusMessagei
+_Zls6QDebugRK10QDBusError
+_ZN13QDBusArgumentlsERK11QStringList
+_ZN15QDBusConnection17unregisterServiceERK7QString
+_ZNK22QDBusAbstractInterface9interfaceEv
+_ZN22QDBusAbstractInterface25asyncCallWithArgumentListERK7QStringRK5QListI8QVariantE
+_ZNK10QDBusError4typeEv
+_ZN16QDBusPendingCallD1Ev
+_ZN13QDBusArgument8endArrayEv
+_ZN12QDBusContextD2Ev
+_ZN23QDBusPendingCallWatcher11qt_metacallEN11QMetaObject4CallEiPPv
+_ZN13QDBusArgumentlsERK7QString
+_ZN16QDBusPendingCallaSERKS_
+_ZNK12QDBusContext10connectionEv
+_ZNK15QDBusConnection9interfaceEv
+_ZNK15QDBusConnection9lastErrorEv
+_ZN15QDBusConnection14registerObjectERK7QStringP7QObject6QFlagsINS_14RegisterOptionEE
+_ZNK13QDBusArgument8endArrayEv
+_ZNK10QDBusError7messageEv
+_ZN12QDBusMessagelsERK8QVariant
+_ZNK24QDBusConnectionInterface10servicePidERK7QString
+_ZNK22QDBusAbstractInterface10connectionEv
+_ZNK12QDBusMessage6memberEv
+_ZN15QDBusConnection7connectERK7QStringS2_S2_S2_P7QObjectPKc
+_ZN22QDBusAbstractInterface20callWithArgumentListEN5QDBus8CallModeERK7QStringRK5QListI8QVariantE
+_ZN13QDBusArgument10beginArrayEi
+_ZN21QDBusPendingReplyDataD2Ev
+_ZNK15QDBusConnection15internalPointerEv
+_ZN15QDBusConnection15registerServiceERK7QString
+_ZNK12QDBusContext15setDelayedReplyEb
+_ZN22QDBusAbstractInterfaceC2ERK7QStringS2_PKcRK15QDBusConnectionP7QObject
+_ZNK15QDBusConnection11isConnectedEv
+_ZN13QDBusMetaType25registerMarshallOperatorsEiPFvR13QDBusArgumentPKvEPFvRKS0_PvE
+_ZN12QDBusContextC2Ev
+_ZN13QDBusArgumentlsERK12QDBusVariant
+libQt5Core.so.5
+_ZNK4QDir9entryListERK11QStringList6QFlagsINS_6FilterEES3_INS_8SortFlagEE
+_ZN8QProcess11qt_metacastEPKc
+_ZN8QProcess14waitForStartedEi
+_ZN11QTextStreamC1EP7QString6QFlagsIN9QIODevice12OpenModeFlagEE
+_ZN19QProcessEnvironment6insertERK7QStringS2_
+_ZN9QFileInfoC1ERK7QString
+_ZNK8QProcess12isSequentialEv
+_ZN7QObject13setObjectNameERK7QString
+_ZN8QProcess16waitForReadyReadEi
+_ZN9QFileInfoD1Ev
+_ZN11QDataStreamC1ERK10QByteArray
+_ZN14QStandardPaths16writableLocationENS_16StandardLocationE
+_ZN19QProcessEnvironmentD1Ev
+_ZN8QProcess5closeEv
+_ZNK19QProcessEnvironment5valueERK7QStringS2_
+_ZNK4QDir6existsEv
+_ZNK9QFileInfo3dirEv
+_ZN4QDir9separatorEv
+_ZNK4QDir6mkpathERK7QString
+_ZN8QProcess21setProcessEnvironmentERK19QProcessEnvironment
+_ZN8QProcess11qt_metacallEN11QMetaObject4CallEiPPv
+_ZNK9QSettings5valueERK7QStringRK8QVariant
+_ZNK7QString3argEyii5QChar
+_ZN8QProcess7executeERK7QString
+_ZN8QProcess20readAllStandardErrorEv
+_ZN16QCoreApplication9argumentsEv
+_ZN19QProcessEnvironment17systemEnvironmentEv
+_ZNK20QAssociativeIterable14const_iterator5valueEv
+_Z18qInstallMsgHandlerPFv9QtMsgTypePKcE
+_ZN8QProcess4openE6QFlagsIN9QIODevice12OpenModeFlagEE
+_ZN8QProcess15waitForFinishedEi
+_ZN8QProcess8readDataEPcx
+_ZN4QDirD1Ev
+_ZNK20QAssociativeIterable3endEv
+_ZN16QCoreApplicationD1Ev
+_ZN20QAssociativeIterable14const_iteratorD1Ev
+_ZN8QProcess9writeDataEPKcx
+_ZNK4QDir4pathEv
+_ZN4QDirC1ERK7QString
+_ZNK4QDir5rmdirERK7QString
+_ZN13QPluginLoader6unloadEv
+_ZN9QIODevice4seekEx
+_ZN11QDataStreamC1EP10QByteArray6QFlagsIN9QIODevice12OpenModeFlagEE
+_ZN8QProcess4killEv
+_ZN4QDir6renameERK7QStringS2_
+_ZN9QSettingsD1Ev
+_ZNK8QProcess5atEndEv
+_ZN13QPluginLoader8instanceEv
+_ZNK20QAssociativeIterable14const_iterator3keyEv
+_ZNK8QProcess12bytesToWriteEv
+_ZN9QListData6appendERKS_
+_ZN16QCoreApplicationC1ERiPPci
+_ZN5QFile4openE6QFlagsIN9QIODevice12OpenModeFlagEE
+_ZN5QFile4copyERK7QStringS2_
+_ZN7QString6numberEji
+_ZNK9QSettings9childKeysEv
+_ZN8QProcess17closeWriteChannelEv
+_ZN9QSettings7setPathENS_6FormatENS_5ScopeERK7QString
+_ZN8QProcess16staticMetaObjectE
+_ZN6QTimer11setIntervalEi
+_ZNK8QProcess14bytesAvailableEv
+_ZN8QProcess5startERK7QStringRK11QStringList6QFlagsIN9QIODevice12OpenModeFlagEE
+_ZNK19QProcessEnvironment8containsERK7QString
+_ZN13QPluginLoaderD1Ev
+_ZN8QProcess17setupChildProcessEv
+_ZNK4QDir9entryListE6QFlagsINS_6FilterEES0_INS_8SortFlagEE
+_ZN6QTimer4stopEv
+_ZNK8QProcess11canReadLineEv
+_ZN4QDir6removeERK7QString
+_ZNK9QIODevice3posEv
+_ZNK8QProcess3pidEv
+_ZNK9QIODevice4sizeEv
+_ZN11QTextStreamlsE13QLatin1String
+_ZNK4QDir6existsERK7QString
+_ZNK20QAssociativeIterable5beginEv
+_ZN6QTimerC1EP7QObject
+_ZN5QFile6removeERK7QString
+_ZN13QPluginLoaderC1ERK7QStringP7QObject
+_ZN9QSettingsC1ERK7QStringS2_P7QObject
+_Zls6QDebugRK4QDir
+_ZN9QSettings8endGroupEv
+_ZN11QTextStreamD1Ev
+_ZN9QIODevice12readLineDataEPcx
+_ZN8QProcess21readAllStandardOutputEv
+_ZN20QAssociativeIterable14const_iteratorppEv
+_ZN7QObject9setParentEPS_
+_ZN8QProcessC2EP7QObject
+_ZN9QSettings10beginGroupERK7QString
+_ZNK20QAssociativeIterable14const_iteratorneERKS0_
+_ZNK4QDir8filePathERK7QString
+_ZN8QProcess19waitForBytesWrittenEi
+_ZNK13QPluginLoader11errorStringEv
+_ZN9QIODevice5writeEPKcx
+_ZN11QFileDevice5closeEv
+_ZN20QAssociativeIterableC1EN17QtMetaTypePrivate24QAssociativeIterableImplE
+_ZNK9QFileInfo11absoluteDirEv
+_ZN16QCoreApplication4execEv
+_ZN6QTimer5startEv
+_ZN8QProcessD2Ev
+_ZNK9QFileInfo6existsEv
+_ZNK14QMessageLogger8criticalEPKcz
+_ZN11QTextStreamlsEj
+_ZNK8QProcess5stateEv
+libpthread.so.0
+write
+read
+sigaction
+close
+libstdc++.so.6
+_ZNSt8ios_base4InitD1Ev
+__cxa_pure_virtual
+_ZdlPv
+_ZNSt8ios_base4InitC1Ev
+__cxa_guard_release
+_Znwm
+__cxa_guard_acquire
+libc.so.6
+__stack_chk_fail
+socketpair
+strlen
+__cxa_atexit
+sigemptyset
+openlog
+__syslog_chk
+memcpy
+umask
+strcmp
+__libc_start_main
+_edata
+__bss_start
+_end
+LIBDBUS_1_3
+GLIBC_2.2.5
+GLIBCXX_3.4
+CXXABI_1.3
+GLIBC_2.4
+GLIBC_2.14
+D$(1
+L$(dH3
+UH-H
+D$H1
+t$ H
+D$8H
+D$HdH3
+AWAVI
+AUATI
+D$h1
+|$ H
+\$0L
+D$XH
+L$hdH3
+x[]A\A]A^A_
+AUATI
+([]A\A]
+AWAVAUATI
+D$H1
+t$ H
+D$8H
+L$HdH3
+X[]A\A]A^A_
+ATUI
+D$X1
+t$(H
+\$(H
+L$XdH3
+`[]A\
+|$0H
+t$0H
+D$HH
+ATUH
+[]A\
+AVAUI
+ATUI
+[]A\A]A^
+AWAVI
+AUATH
+D$PH
+T$PL
+D$XH
+L$ L
+l$0H
+l$@H
+|$0H
+|$0H
+|$0H
+D$XH
+D$Xt
+H9D$`
+\$@H
+|$@L
+|$@L
+|$@L
+[]A\A]A^A_
+AWAVI
+AUATI
+D$X1
+l$ D
+d$0H
+T$XdH3
+h[]A\A]A^A_
+t$0H
+D$HH
+AWAVA
+AUATUSH
+d$0H
+D$0H
+l$ H
+D$PH
+D$`H
+t$PA
+D$(1
+HcT$ A
+L$@H
+|$@H
+|$@H
+|$@L
+[]A\A]A^A_
+ATUSL
+uqIcT$
+IcT$
+u<[L
+[]A\
+AUATH
+tEf.
+[]A\A]
+ATUH
+SHcW
+AUATI
+$Hcz
+[]A\A]
+AUATUSH
+D$h1
+L$hdH3
+x[]A\A]
+l$0L
+D$@HcH
+d$ H
+D$XH
+|$ H
+|$ H
+|$ H
+|$ L
+|$ H
+|$@f
+AWAVH
+wHAUATI
+\$ dH
+[]A\A]A^A_
+l$0L
+t$pH
+|$PL
+D$@H
+|$@L
+|$@L
+|$@L
+|$@L
+ATUH
+wHSH
+ []A\
+AUATUSH
+D$H1
+t$ H
+D$8H
+L$HdH3
+X[]A\A]
+t$ H
+D$8H
+t$ H
+D$8H
+ATUSH
+D$H1
+t$ H
+D$8H
+L$HdH3
+P[]A\
+D$H1
+t$ H
+D$8H
+L$HdH3
+t$ H
+D$8H
+D$H1
+t$ H
+D$8H
+L$HdH3
+AUATI
+D$H1
+t$ H
+D$8H
+|$0H
+D$HdH3
+X[]A\A]
+AUATUSH
+D$H1
+t$ H
+D$8H
+t$ H
+D$8H
+D$HdH3
+X[]A\A]
+AVAUATUI
+D$H1
+t$ H
+D$8H
+|$0H
+D$HdH3
+P[]A\A]A^
+|$0H
+t$ H
+D$8H
+w0dH
+AUATUSH
+D$H1
+t$ H
+D$8H
+D$HdH3
+X[]A\A]
+t$ H
+D$8H
+t$ H
+D$8H
+t$ H
+D$8H
+ATUH
+D$H1
+t$ H
+D$8H
+D$HdH3
+P[]A\
+AUATUSH
+D$H1
+D$8H
+T$ H
+|$(H
+D$(H
+H9D$0
+D$(t
+T$8H
+D$HdH3
+X[]A\A]
+D$ H
+AWAVI
+AUATUSH
+D$X1
+D$0H
+D$HH
+T$0HcB
+D$8H
+D$XdH3
+h[]A\A]A^A_
+D$8H
+D$8H9D$@
+D$0H
+l$8H
+AWAVI
+AUATI
+D$H1
+t$ H
+D$8H
+|$0L
+t$ H
+D$8H
+D$HdH3
+X[]A\A]A^A_
+t$ H
+D$8H
+ATUH
+D$81
+\$ H
+L$8dH3
+@[]A\
+ATUH
+D$81
+\$ H
+L$8dH3
+@[]A\
+ATUH
+D$81
+\$ H
+L$8dH3
+@[]A\
+AUATUSH
+D$H1
+t$ H
+D$8H
+D$HdH3
+X[]A\A]
+AWAVAUATUSH
+D$X1
+t$0L
+D$HH
+t$0L
+D$HH
+L$XdH3
+h[]A\A]A^A_
+t$0L
+D$HH
+D$0L
+t$ L
+|$ A
+D$0L
+t$ L
+|$ A
+t$0L
+D$HH
+D$0L
+t$ L
+|$ A
+|$ f.
+t$0H
+D$HH
+|$ f
+AWAVAUATI
+D$(1
+D$(dH3
+8[]A\A]A^A_
+|$ L
+AVAUATUSH
+D$81
+D$8dH3
+@[]A\A]A^
+l$ H
+AWAVAUATUSH
+D$x1
+d$0H
+t$PH
+D$hH
+|$0H
+|$0H
+|$0H
+L$xdH3
+[]A\A]A^A_
+l$@1
+|$ L
+|$ L
+|$ L
+|$ L
+|$ L
+t$PH
+|$ H
+D$hH
+|$ L
+|$ L
+|$ H
+t$PL
+D$hH
+|$ L
+|$ L
+|$ L
+|$0f
+|$ H
+D$hH
+|$ L
+|$ L
+|$ L
+|$ H
+D$hH
+|$ L
+|$ L
+|$ L
+|$ H
+D$hH
+|$ L
+|$ L
+|$ L
+|$ H
+D$hH
+|$ L
+|$ L
+|$ L
+|$ H
+D$hH
+|$ L
+|$ L
+|$ L
+|$ H
+|$ H
+D$hH
+|$ L
+|$ L
+|$ L
+|$ H
+|$ L
+t$PH
+D$hH
+|$ L
+|$ L
+|$ L
+|$ H
+AVAUATUI
+-WH&
+D$H1
+t$ H
+D$8H
+D$HdH3
+P[]A\A]A^
+t$ H
+D$8H
+|$ H
+|$8H
+D$ H
+|$ f
+AUATUSHc
+;Lc\$
+Lc\$
+HcL$
+[]A\H
+ATUH
+[]A\
+$HcH
+ATUSH
+[]A\
+AUATI
+USE1
+[]A\A]
+[]A\A]
+AUATA
+LcD$
+<	L9
+t	H)
+HcL$
+[]A\H
+LcD$
+AWAVLc
+AUATUSH
+HcL$
+,;I9
+HcL$
+HcL$
+[]A\H
+A^A_
+ATUH
+SHcW
+AWAVAUATUSH
+D$81
+D$(H
+D$8dH3
+H[]A\A]A^A_
+H9E(H
+D$81
+D$(H
+D$8dH3
+ATUH
+[]A\
+AWAVAUL
+o ATUSI
+D$81
+D$(H
+T$8dH3
+H[]A\A]A^A_
+ATUSH
+ []A\
+ATUSH
+D$81
+D$(H
+D$8dH3
+@[]A\
+AVAUATUSH
+5z/&
+D$H1
+D$8H
+D$8H
+T$HdH3
+P[]A\A]A^
+AWAVAUATI
+t$`H
+|$`A
+l$PL
+D$xH
+D$@H
+T$PHcB
+t$01
+|$0H
+|$0L
+T$PHcB
+|$ H
+D$xH
+[]A\A]A^A_
+D$0H
+AUATI
+D$(1
+%z(&
+D$(dH3
+8[]A\A]
+D$H1
+t$ H
+t$0H
+t$@H
+L$HdH3
+AUATI
+[]A\A]
+AUATUSH
+D$h1
+\$@H
+l$0I
+D$XH
+L$hdH3
+x[]A\A]
+AWAVAUATI
+L$H1
+D$HdH3
+X[]A\A]A^A_
+8H;;I
+8H;}
+G 9G
+$t7H
+D$ I
+|$ I
+G 9G
+D$ H
+D$(H
+T$8H
+|$(H
+D$ H
+ATUSH
+D$81
+L$8dH3
+@[]A\
+|$(H
+|$(H
+|$(H
+AWAVAUATI
+L$X1
+D$XdH3
+h[]A\A]A^A_
+D$,L
+8I;?H
+G 9G
+t$,H
+D$0H
+D$8H
+L$HH
+t$0I
+AWAVAUATI
+D$81
+\$ L
+L$8dH3
+H[]A\A]A^A_
+AWAVI
+AUATI
+\$@L
+d$ dH
+D$h1
+D$XH
+D$XH
+D$XH
+L$hdH3
+x[]A\A]A^A_
+AWAVAUATI
+D$H1
+l$ H
+L$HdH3
+X[]A\A]A^A_
+AWAVAUATI
+d$pH
+[]A\A]A^A_
+D$pH
+T$pHcB
+D$xH
+L$@L
+|$PL
+L$0H
+\$`L
+D$xH
+D$xt
+|$0H
+|$0H
+|$0L
+AWAVAUATUS
+T$(H
+\$p1
+\$ H
+D$PH
+D$P1
+\$@H
+D$0H
+\$ L
+T$(L
+[]A\A]A^A_
+AVAUA
+ATUH
+D$H1
+D$8H
+T$HdH3
+P[]A\A]A^
+AWAVAUATI
+l$pL
+l$pL
+t$0L
+D$ H
+t$ H
+t$PH
+t$`H
+[]A\A]A^A_
+AWAV
+AUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+t$PL
+d$pH
+l$@H
+t$PH
+d$pL
+l$ H
+l$0L
+T$PHcB
+D$XH
+|$pD
+D$XH
+D$Xt
+H9D$`
+t$PL
+\$@H
+AWAVAUATUSH
+D$81
+D$(H
+D$(H
+L$8dH3
+H[]A\A]A^A_
+D$(H
+AWAVAUATI
+D$h1
+t$ L
+D$XH
+d$ L
+D$XH
+L$hdH3
+x[]A\A]A^A_
+|$@I
+AUATI
+D$81
+\$ H
+|$ D
+L$8dH3
+H[]A\A]
+AWAVI
+AUATH
+ USI
+l$0L
+d$ H
+D$X1
+D$HH
+L$XdH3
+h[]A\A]A^A_
+AWAVI
+AUATA
+|$ H
+T$4H
+\$pdH
+D$pH
+T$pL
+[]A\A]A^A_
+D$bD
+D$XD
+D$@H
+D$pH
+T$(H
+D$HH
+D$pH
+T$(H
+D$3H
+t$4H
+t$bH
+t$8H
+t$@H
+t$HH
+|$hH
+t$dH
+t$XH
+t$cH
+L$ H
+I9E 
+t$PH
+AWAVAUATI
+D$x1
+\$PA
+l$@H
+D$hH
+|$ H
+l$0I
+|$XH
+D$@H
+|$PD
+L$xdH3
+[]A\A]A^A_
+|$@H
+|$@A
+d$@H
+D$hH
+AUATI
+t$ L
+[]A\A]
+AWAVI
+AUATA
+l$PH
+D$xH
+[]A\A]A^A_
+l$ H
+D$hH
+|$ H
+t$@H
+D$`H
+l$PH
+D$0H
+T$`H
+D$`H
+AWAVA
+AUATI
+D$x1
+l$@L
+l$PH
+D$hH
+L$xdH3
+[]A\A]A^A_
+D$ H
+l$@L
+l$PH
+D$hH
+D$ L
+|$0I
+D$hH
+l$@L
+l$@L
+l$PI
+D$ L
+l$@L
+l$PH
+D$hH
+AUATI
+([]A\A]
+AUATI
+t$ D
+[]A\A]
+AUATI
+([]A\A]
+AUATI
+t$ D
+[]A\A]
+$HcP
+AWAVI
+AUATA
+D$81
+\$ H
+T$ H
+L$8dH3
+H[]A\A]A^A_
+l$ A
+T$ H
+AVAUI
+ATUI
+t$ D
+[]A\A]A^
+AWAVI
+AUATI
+D$81
+\$ H
+L$8dH3
+H[]A\A]A^A_
+\$ H
+AVAUI
+ATUI
+t$ D
+[]A\A]A^
+AWAVI
+AUATI
+D$H1
+\$ H
+D$8H
+D$8H
+L$HdH3
+X[]A\A]A^A_
+AWAVI
+AUATA
+D$H1
+D$8H
+T$HdH3
+X[]A\A]A^A_
+|$ L
+D$8H
+AWAVI
+AUATA
+D$H1
+D$8H
+D$8H
+L$HdH3
+X[]A\A]A^A_
+AWAVI
+AUATI
+D$h1
+\$0H
+L$hdH3
+x[]A\A]A^A_
+l$0H
+\$@H
+D$XH
+l$0H
+\$@M
+l$ L
+D$HH
+l$ H
+|$HH
+D$XH
+AVAUI
+ATUA
+[]A\A]A^
+AWAVI
+AUATI
+D$x1
+l$@H
+D$hH
+u9E1
+T$xdH3
+[]A\A]A^A_
+l$@H
+D$hH
+D$0L
+D$PH
+D$PI
+D$@L
+D$@L
+D$hH
+D$PH
+D$PL
+l$@I
+D$@L
+D$hH
+AVAUI
+ATUA
+[]A\A]A^
+AVAUI
+ATUH
+w SI
+\$ H
+D$81
+|$ D
+L$8dH3
+@[]A\A]A^
+AWAVI
+AUATI
+D$X1
+l$ H
+D$HH
+L$XdH3
+h[]A\A]A^A_
+l$ H
+T$0L
+AWAVAUATI
+\$`L
+t$ H
+D$XH
+l$PH
+D$hH
+D$0H
+D$0H
+D$XH
+D$XH
+d$hH
+D$xH
+[]A\A]A^A_
+D$hH
+D$0H
+d$XA
+D$xH
+l$PH
+AWAVA
+AUATI
+D$pH
+D$ H
+God A red nugget A fat egg under a dog
+t$ H
+l$0L
+l$PL
+T$pL
+t$@HcB
+D$xH
+D$xH
+[]A\A]A^A_
+D$`H
+D$pA
+D$ H
+T$pL
+T$ H
+T$ L
+AWAVAUATUSH
+[]A\A]A^A_
+T$@t
+D$@H
+D$@H
+D$0I9
+l$ H
+Do nine men interpret Nine men I nod
+l$pL
+D$PH
+D$ H
+D$`H
+D$(L
+|$ L
+|$ L
+D$8L
+D$8L
+D$8L
+D$8L
+T$ L
+D$(L;D$0
+\$@H
+D$@H
+\$@H
+AWAVAUATI
+[]A\A]A^A_
+\$`M
+\$`M
+l$ptoH
+l$PL
+d$`H
+\$pL
+|$0H
+D$,9
+L$@H
+d$ H
+D$pH
+\$`L
+\$`L
+d$pH
+M H9
+AWAVAUATI
+D$h1
+L$hdH3
+x[]A\A]A^A_
+|$@L
+D$HH
+T$0I
+D$0H
+D$ L
+D$@H
+T$PL
+T$@H
+ATUH
+D$H1
+L$HdH3
+P[]A\
+d$01
+t$ H
+|$ f
+AVAUI
+ATUSH
+[]A\A]A^
+t6USH
+x H9
+ATUSHc
+[]A\
+[]A\
+ATUH
+D$81
+\$ H
+L$8dH3
+@[]A\
+ATU1
+D$81
+l$ H
+L$8dH3
+@[]A\
+ATUH
+D$81
+\$ H
+L$8dH3
+@[]A\
+ATUH
+D$81
+\$ H
+L$8dH3
+@[]A\
+D$81
+\$ H
+L$8dH3
+@[]A\
+D$81
+\$ H
+L$8dH3
+@[]A\
+ATUH
+D$81
+\$ H
+L$8dH3
+@[]A\
+AUATUS
+^_~GL
+%P}%
+-N}%
+[]A\A]
+%Y|%
+ATUA
+ []A\
+-g{%
+-E{%
+<$f.
+A$D3
+A$D3
+A$D3
+A$D3
+ATUH
+[]A\
+[]A\
+ATUI
+[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+tkUSH
+ATUA
+#[]A\
+AWAVAUATI
+HcL$
+$+I9
+HcL$
+Lct$
+HcL$
+([]A\H
+A^A_
+USE1
+ t	H
+[]A\
+[]A\
+ATUS
+[]A\
+[]A\
+[]A\
+AVAUI
+ATUH
+D$H1
+D$(H
+t$ L
+d$0L
+L$HdH3
+P[]A\A]A^
+t$ L
+AUATI
+D$H1
+D$(H
+t$ H
+l$ H
+\$0H
+L$HdH3
+X[]A\A]
+l$ H
+ATUH
+SHcW
+AWAVAUATI
+D$x1
+|$0H
+t$PH
+D$hH
+|$0H
+|$0H
+|$0H
+L$xdH3
+[]A\A]A^A_
+\$PI
+t$ H
+l$@H
+|$0H
+D$hH
+|$0H
+|$0H
+|$0H
+|$PD
+|$0H
+D$hH
+|$0H
+|$0H
+|$0H
+|$@f.
+|$@f
+AWAVI
+AUATI
+D$x1
+l$0H
+D$hH
+|$0H
+|$0H
+d$ L
+l$0H
+D$hH
+|$0H
+|$0H
+|$0H
+L$xdH3
+[]A\A]A^A_
+\$@1
+D$@I
+D$@H
+AWAVAUATI
+D$h1
+t$ H
+t$@H
+D$XH
+|$ H
+|$ H
+t$ H
+t$@H
+D$XH
+|$ H
+|$ H
+|$ H
+L$hdH3
+x[]A\A]A^A_
+l$@I
+|$@D
+t$ H
+D$XH
+|$ H
+|$ H
+|$ H
+|$0f
+t$ H
+D$XH
+|$ H
+|$ H
+|$ H
+AWAVAUATI
+D$x1
+D$0L
+l$PL
+t$@H
+D$H%
+D$ H
+|$ H;=
+|$ L
+L$xdH3
+[]A\A]A^A_
+l$PL
+D$hH
+D$0L
+|$0L
+|$0L
+Tacocat
+|$0L
+D$0L
+l$PL
+t$@H
+|$Pf
+|$@f
+AVAUATUI
+D$H1
+l$ H
+l$ H
+D$8H
+L$HdH3
+P[]A\A]A^
+AVAUI
+ATUI
+D$H1
+l$ H
+l$ H
+D$8H
+L$HdH3
+P[]A\A]A^
+AVAUI
+ATUI
+D$H1
+l$ H
+l$ H
+D$8H
+L$HdH3
+P[]A\A]A^
+AVAUA
+ATUI
+D$H1
+l$ H
+l$ H
+D$8H
+L$HdH3
+P[]A\A]A^
+AUATI
+D$X1
+l$0H
+D$HH
+D$ H
+L$XdH3
+h[]A\A]
+l$0H
+AVAUI
+ATUS
+D$x1
+l$0L
+d$PH
+D$hH
+|$0L
+|$0L
+t$ 1
+L$xdH3
+[]A\A]A^
+|$@f.
+l$0L
+d$PL
+AVAUATUI
+D$H1
+l$ H
+l$ H
+D$8H
+L$HdH3
+P[]A\A]A^
+AWAV
+AUATUSH
+t$PL
+D$`H
+D$PH
+D$`H
+D$pL
+|$ L
+l$@L
+T$pHcB
+D$xH
+D$xH
+D$xt
+[]A\A]A^A_
+|$PH
+|$PH
+|$PH
+|$0f
+AWAVAUATA
+|$`L
+|$`L
+|$`L
+|$0H
+D$@L
+\$PH
+D$`H
+|$@H
+D$pH
+D$hH
+D$'L
+D$(L
+[]A\A]A^A_
+L$(H
+AVAUA
+ATUH
+D$H1
+l$ H
+l$ H
+D$8H
+|$ H
+L$HdH3
+P[]A\A]A^
+AWAVI
+AUATI
+[]A\A]A^A_
+l$PH
+T$ L
+T$Ht
+D$HH
+D$HH
+D$0H
+D$HH
+D$`1
+|$8L
+l$pA
+L9d$0
+t$(H
+|$@H
+t$8L
+D$HH
+D$HI
+t$HL
+T$0H
+|$8A
+AVAUI
+ATUI
+D$H1
+l$ H
+l$ H
+D$8H
+L$HdH3
+P[]A\A]A^
+AUATH
+t+f.
+[]A\A]
+AUATH
+t+f.
+[]A\A]
+ATUH
+SHcW
+ATUA
+D$(1
+L$(dH3
+0[]A\
+ATUA
+D$(1
+l$ H
+D$(dH3
+0[]A\
+ATUH
+D$H1
+t$ H
+alula
+D$8H
+L$HdH3
+ELuJH
+P[]A\
+AUATUSH
+D$H1
+t$ H
+D$8H
+L$HdH3
+X[]A\A]
+ATUH
+oPSH
+D$H1
+l$ L
+L$HdH3
+P[]A\
+t$ H
+D$8H
+AWAVI
+AUATA
+D$x1
+D$ ~:L
+t$@L
+l$PA
+t$@L
+l$PH
+D$hH
+|$ H
+|$ H
+D$PH
+D$xdH3
+[]A\A]A^A_
+t$@L
+|$ H
+|$ H
+|$ H
+|$ H
+|$ H
+|$ H
+|$ H
+|$ H
+|$ H
+|$ H
+|$ H
+|$ H
+|$ H
+|$ H
+|$ H
+|$ H
+|$ H
+|$ H
+AWAVI
+AUATUSH
+D$H1
+t$ H
+Eleele
+D$8H
+t$ H
+D$8H
+t$ H
+D$8H
+t$ H
+D$8H
+D$HdH3
+X[]A\A]A^A_
+AWAVI
+AUATUSH
+D$H1
+|$ H
+D$8H
+D$HdH3
+X[]A\A]A^A_
+D$8H
+D$8H
+AWAVI
+AUATUSH
+d$@H
+t$pH
+|$@H
+|$@H
+d$@H
+t$pH
+|$@H
+|$@H
+|$@H
+[]A\A]A^A_
+t$pH
+|$hL
+|$hL
+D$HH
+|$ H
+t$0H
+d$@L
+|$Pf
+$tYH
+I;D$
+l$ M
+d$@L
+AWAVI
+AUATUSH
+D$pH
+D$pH
+D$(H
+L$`H
+\$0H
+l$PL
+l$@H
+D$HI
+[]A\A]A^A_
+D$hI
+D$hI
+D$'H
+AWAVI
+AUATH
+D$h1
+L$hdH3
+x[]A\A]A^A_
+d$ H
+t$@H
+D$XH
+|$ H
+|$ H
+|$ H
+|$8H
+d$ H
+t$@H
+D$XH
+|$ H
+|$ H
+|$ H
+|$ H
+T$8H
+D$8I
+AUATUSH
+\$ I
+$HcH
+[]A\A]
+AVAUI
+ATUI
+D$81
+D$8dH3
+@[]A\A]A^
+AWAVAUATI
+D$H1
+|$ L
+t$ H
+|$@H
+|$0A
+\$0u
+\$@L
+t$ L9
+t$@A
+\$@H
+t$0u
+t$@H
+t$@A
+\$@L
+|$0M9
+\$HdH3
+X[]A\A]A^A_
+t$0H
+\$@L
+|$@H98
+D$@H
+t$@H
+H9D$
+|$0H
+|$0H
+\$@H
+t$@H
+\$@H
+AWAVAUATI
+D$H1
+\$ M9
+D$ H
+|$(H
+H9|$0H
+L$HdH3
+X[]A\A]A^A_
+T$ H
+AWAVAUATUSH
+\$`H
+E0HcP
+E0HcP
+l$ H
+t$pH
+D$pI
+\$`L
+D$PI
+l$PL
+D$pH
+D$x%
+D${H
+D$pH
+t$`H
+T$pH
+D${H
+D$pH
+D$PI
+D$pH
+D$xH
+|$P%
+D${H
+D$pH
+D$PI
+D$pH
+D$x%
+D${H
+D$pH
+D$PI
+D$pH
+D$xH
+|$P%
+D${H
+D$pH
+D$PI
+D$pH
+D$xH
+|$P%
+D${H
+D$pH
+D$PI
+D$pH
+D$xH
+|$P%
+D${H
+D$pH
+D$@I
+D$@H
+D$pH
+D$`A
+D$xH
+|$@%
+D${H
+D$pH
+D$pH
+t$`H
+T$pH
+D${H
+D$pH
+[]A\A]A^A_
+D$0H
+D$xH
+|$0L
+D$xH
+D$xL
+D$xL
+D$xL
+D$xL
+D$xL
+D$xL
+AUATUSH
+D$(1
+C0Hcp
+t$ H
+D$(dH3
+8[]A\A]
+AUATL
+g0USH
+C0HcP
+[]A\A]
+AVAUI
+ATUA
+D$H1
+t$ H
+D$8H
+{hH9
+C0HcP
+C0HcP
+l$ H
+D$HdH3
+P[]A\A]A^
+AWAVI
+AUATUSH
+|$@dH
+F0HcP
+D$pH
+D$(H
+t$(H
+D$(H
+t$(H
+[]A\A]A^A_
+T$PL
+t$8L
+D$(H
+T$0I
+|$PL
+|$Pt$H
+D$&H
+|$PL
+A[A\
+t$8L
+D$PH
+ATUASARAQAPWH
+AYAZ
+AUATI
+D$H1
+t$ H
+D$8H
+C0HcP
+C0HcP
+l$ L
+C0HcP
+T$ L
+C0HcP
+D$HdH3
+X[]A\A]
+AWAVI
+AUATUSH
+l$`H
+|$`H
+|$`H
+C0HcP
+C0HcP
+[]A\A]A^A_
+t$0L
+l$pL
+ChL9
+|$0H
+D$hH
+|$@H
+D$PH
+D$PH
+l$`H
+l$pH
+D$hH
+|$@H
+D$xL
+l$@L9
+D$xL
+D$@H
+l$`L
+AWAVAUATUSH
+E0HcP
+D$0L
+uXI9
+|$0A
+D$`H
+D$ H
+D$0H
+t$ H
+|$0H
+|$0H
+|$0L
+|$pL
+|$0H
+|$0H
+|$0H
+|$0H
+[]A\A]A^A_
+D$0H
+|$0I
+|$@L
+D$`H
+D$ H
+D$0H
+t$(H
+t$0H
+D$0A
+t$@A
+D$0H
+|$0L
+D$`M
+D$ H
+D$0H
+|$@L
+|$@L
+t$ L
+|$@L
+t$ L
+L$PH9
+|$0L
+|$@L
+t$ L
+ATUSH
+D$H1
+D$8H
+D$HdH3
+P[]A\
+t$ H
+D$8H
+D$8H
+t$ H
+D$8H
+AWAVAUATI
+D$x1
+|$ H
+t$PL
+D$hH
+|$ L
+|$ L
+U0HcB
+|$ H
+t$PL
+D$hH
+|$ L
+|$ L
+|$ L
+E0HcH
+E0HcP
+d$PL
+E0HcH
+d$PH
+t$0L
+|$ H
+D$HH
+D$xdH3
+[]A\A]A^A_
+W0HcB
+AVAUATU
+D$h1
+l$@H
+D$@H
+==^$
+D$hdH3
+p[]A\A]A^
+D$@H
+\$ H
+D$XH
+|$ H
+|$@f
+=!\$
+AUATUSH
+D$(1
+D$(dH3
+8[]A\A]
+l$ H
+%5[$
+|$ H
+l$ H
+=_Z$
+L$ H
+T$ H
+L$ HcP
+L$ H
+t6USH
+x H9
+AWAVAUATI
+t f.
+[]A\A]A^A_
+ATUSHc
+[]A\
+[]A\
+ATUSHc
+[]A\
+[]A\
+ATUH
+D$81
+\$ H
+L$8dH3
+@[]A\
+ATUH
+$[]A\
+ATUSH
+[]A\
+AUATA
+LcD$
+<	L9
+t	H)
+HcL$
+[]A\H
+LcD$
+AWAV
+AUATI
+Hct$
+$Hct$
+Lc|$
+$HcL$
+[]A\H
+A^A_
+AVAUI
+ATUH
+]A\A]A^
+ATUH
+D$(1
+L$(dH3
+0[]A\
+USE1
+[]A\
+[]A\
+ATUI
+[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AWAV
+AUATI
+Hct$
+$Hct$
+Lc|$
+$HcL$
+[]A\H
+A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+3H;u
+ATUA
+#[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATI
+=58$
+p 9p
+([]A\A]A^A_
+AVAUATUSH
+]A\A]A^
+[]A\A]A^
+ATUSH
+t	H)
+[]A\
+ATUSH
+[]A\
+[]A\
+[]A\
+ATUSH
+t	H)
+[]A\
+AUATI
+([]A\A]
+AUATUSH
+D$H1
+t$ H
+D$8H
+t$ H
+D$8H
+D$HdH3
+X[]A\A]
+AWAVA
+AUATI
+-%/$
+D$H1
+t$ H
+D$8H
+t$ H
+D$8H
+D$HdH3
+X[]A\A]A^A_
+|$ H
+D$8H
+AUATUSH
+D$H1
+t$ H
+D$8H
+t$ H
+D$8H
+D$HdH3
+X[]A\A]
+AWAVI
+AUATI
+D$H1
+l$ H
+D$8H
+l$ H
+l$ H
+D$8H
+L$HdH3
+X[]A\A]A^A_
+|$ f
+AWAVI
+AUATI
+D$x1
+l$0H
+l$PH
+D$hH
+|$0H
+|$0H
+l$PH
+l$0H
+l$PH
+D$hH
+|$0H
+|$0H
+|$0H
+|$@I
+L$xdH3
+[]A\A]A^A_
+|$Pf
+l$ H
+l$PH
+|$PA
+l$0H
+l$PH
+D$hH
+|$0H
+|$0H
+|$0H
+L$@L
+l$0H
+D$0I
+|$0I
+|$@f
+AWAVAUATA
+D$X1
+l$0H
+D$HH
+5n!$
+D$HH
+D$XdH3
+h[]A\A]A^A_
+l$0H
+ATUSH
+D$H1
+t$ H
+D$8H
+D$HdH3
+P[]A\
+AWAVA
+AUATA
+D$h1
+d$ H
+t$@H
+D$XH
+|$ H
+|$ H
+d$ H
+\$0L
+D$XH
+L$hdH3
+x[]A\A]A^A_
+d$ H
+t$@H
+D$XH
+|$ H
+|$ H
+|$ H
+AWAVAUATL
+t$ H
+D$(1
+L$(dH3
+8[]A\A]A^A_
+AUATI
+D$H1
+\$ H
+D$8H
+D$HdH3
+X[]A\A]
+ATUH
+D$H1
+t$ H
+D$8H
+D$HdH3
+P[]A\
+AWAVI
+AUATI
+D$X1
+D$HH
+D$XdH3
+h[]A\A]A^A_
+ATUH
+SHcW
+AWAVAUATUS
+D$81
+l$0H
+t$ L
+D$8dH3
+H[]A\A]A^A_
+AUATA
+[]A\A]
+AWAVI
+AUATI
+D$X1
+t$0H
+D$HH
+D$(H
+\$0L
+l$ H
+t$0L
+L$XdH3
+h[]A\A]A^A_
+D$ H
+\$0H
+t$ H
+|$(H
+|$0f
+t$0H
+D$HH
+AWAVI
+AUATI
+D$X1
+t$0H
+D$HH
+D$(H
+\$0L
+l$ H
+t$0L
+L$XdH3
+h[]A\A]A^A_
+D$ H
+\$0H
+t$ H
+|$(H
+|$0f
+t$0H
+D$HH
+AWAVI
+AUATI
+D$X1
+\$0H
+D$HH
+|$ L
+D$XdH3
+h[]A\A]A^A_
+AVAUATUSH
+D$H1
+l$ L
+|$ H
+D$HdH3
+P[]A\A]A^
+t$ H
+D$8H
+l$ H
+t$ I
+AWAVAUATUSH
+D$X1
+d$0H
+L$XdH3
+h[]A\A]A^A_
+T$0L
+d$0A
+D$HH
+AWAVI
+AUATUSH
+D$h1
+T$`1
+l$@H
+|$ L
+l$@H
+\$0H
+|$ H
+|$ H
+|$ H
+t$ L
+D$hdH3
+x[]A\A]A^A_
+AWAVI
+AUATUSH
+D$h1
+T$`1
+d$@H
+d$@H
+D$XH
+D$ H
+|$ H
+|$ H
+|$ H
+D$hdH3
+x[]A\A]A^A_
+|$0f
+ATUSH
+[]A\
+AUATUSH
+o0dH
+D$H1
+D$HdH3
+X[]A\A]
+t$ H
+D$8H
+AWAVI
+AUATUSH
+D$X1
+\$ 1
+d$0H
+|$0D
+D$HH
+L$XdH3
+h[]A\A]A^A_
+t$0H
+D$HH
+AWAVAUATI
+|$PH
+D$@H
+L$8H
+D$`H
+t$8H
+[]A\A]A^A_
+D$(H
+d$pH
+d$pH
+|$pL
+t$(H
+|$pH
+|$(H
+|$(H
+t$8L
+|$pL
+D$0H
+|$pH
+|$pL
+|$(L
+D$0L
+|$0H
+T$(H
+t$8H
+|$(H
+L$HI
+D$'H
+A^A_
+AXAY
+|$ L
+|$(ATUASARAQAPWL
+AZA[
+t$(H
+t$8H
+|$@L
+t$8L
+D$0L
+|$@H
+|$pL
+AWAVAUATI
+|$PH
+D$@H
+L$8H
+D$`H
+t$8H
+[]A\A]A^A_
+D$ H
+d$pH
+d$pH
+|$pL
+t$ H
+|$pH
+|$ H
+|$ H
+t$8L
+T$ H
+t$8H
+|$ H
+L$HI
+D$/H
+A[A^
+|$ L
+|$pL
+D$0H
+|$pH
+d$pL
+|$pH
+D$0H
+t$ H
+D$0L
+D$0H
+t$8L
+|$@H
+|$ ATUASARAQAPWL
+AYAZ
+|$pL
+|$pH
+d$pL
+|$pH
+|$pH
+|$pH
+|$ H
+|$pH
+|$pH
+|$ H
+L$8H
+T$@L
+t$ H
+t$8H
+|$@L
+d$pL
+t$ L
+t$ L
+d$pL
+AWAVI
+AUATI
+D$X1
+L$XdH3
+h[]A\A]A^A_
+d$@H
+t$ L
+D$0E1
+D$8H
+D$ I
+D$0H
+d$@L
+T$@H
+|$@D
+|$ f
+D$0H
+AWAVI
+AUATUSH
+|$ H
+l$`L
+d$pH
+[]A\A]A^A_
+D$`H
+l$pH
+t$`H
+l$PL
+d$pH
+|$PH
+|$PH
+|$PH
+D$hH
+l$P%
+|$ L
+l$`L
+d$pL
+|$PH
+|$PH
+|$PH
+D$pH
+|$0H
+D$hH
+|$ L
+D$@L
+D$hH
+|$ L
+l$`H
+AWAVI
+AUATUSH
+D$x1
+d$PH
+l$@L
+l$0H
+D$hH
+|$0H
+|$0H
+L$xdH3
+[]A\A]A^A_
+l$Pf.
+D$HH
+D$0H
+l$@L
+|$ L
+D$0L
+|$ A
+D$@H
+l$PH
+t$@H
+l$@H
+AWAVI
+AUATUSH
+D$x1
+l$0L
+d$PH
+D$hH
+|$0H
+|$0H
+|$0H
+|$ H
+D$hH
+|$0H
+|$0H
+L$xdH3
+[]A\A]A^A_
+d$PH
+D$@H
+|$ L
+D$hH
+|$0H
+|$0H
+|$Pf
+D$HH
+|$ L
+AWAVAUATUSH
+|$PH
+[]A\A]A^A_
+|$PH
+|$PH
+D$pL
+@ I9
+L$`L
+l$0L
+l$(L
+t$8H
+|$`H
+|$`L
+|$`L
+l$(L
+l$0L
+|$`H
+|$`L
+|$PH
+|$PH
+|$ L
+|$`E
+L$`H
+D$`H
+D$`H
+AWAVI
+AUATI
+t$ I
+|$0H
+D$pH
+D$@I
+[]A\A]A^A_
+D$@H
+D$@H
+|$@L
+|$@L
+T$@1
+t$`H
+d$0L;%
+|$ H
+T$0H
+tCUSH
+AUATUSH
+uSIcU
+[]A\A]
+[]A\A]
+AUATH
+t+f.
+[]A\A]
+ATUH
+D$(1
+t$(dH34%(
+0[]A\
+L$ H
+AWAVH
+AUATI
+d$ L
+[]A\A]A^A_
+l$`L
+D$0H
+|$0L
+|$0L
+|$0L
+D$@L
+t$PH
+|$@H
+AUATI
+([]A\A]
+AWAVI
+AUATI
+D$81
+l$ H
+D$8dH3
+H[]A\A]A^A_
+|$0L
+D$0H
+AWAVI
+AUATA
+d$ dH
+\$0H
+D$`H
+D$xH
+D$@H
+|$@L
+|$@L
+|$@L
+|$`I
+[]A\A]A^A_
+AUATI
+([]A\A]
+AWAVI
+AUATH
+D$x1
+\$@H
+l$PI
+t$0L
+d$ L
+D$hH
+|$ H
+|$ H
+|$ H
+|$ L
+D$xdH3
+[]A\A]A^A_
+|$@f.
+ATUH
+[]A\
+AWAVAUATI
+D$h1
+D$hdH3
+x[]A\A]A^A_
+%	<#
+l$P1
+|$@L
+d$0L
+AUATI
+([]A\A]
+AWAVAUATI
+D$x1
+=(,#
+D$xdH3
+[]A\A]A^A_
+|$0D
+t$@L
+\$`L
+l$P1
+|$pY^
+AWAVI
+AUATUSH
+l$ H
+|$0H
+|$@H
+D$xH
+|$@H
+|$@H
+|$@H
+[]A\A]A^A_
+|$`H
+|$@H
+\$P1
+|$pY^
+St*H
+StzH
+tKSH
+AUATUS
+^_~GL
+%`,#
+-^,#
+[]A\A]
+%i+#
+ATUA
+ []A\
+ATUSH
+-y*#
+%S*#
+[]A\
+ATUSH
+,$[]A\
+AVAUATUSL
+ug[L
+]A\A]A^
+t	[]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+D$81
+D$8dH3
+D$(1
+AUATI
+D$H1
+=m$#
+l$ H
+D$ H
+|$(H
+'t}H
+D$(H
+H9D$0H
+D$(t+
+D$8H
+H9D$0
+D$(u
+E=/"#
+D$HdH3
+X[]A\A]
+T$ H
+=V!#
+=B!#
+l$ E1
+=m #
+E5H #
+AWAV
+AUATUSH
+t$PdH
+T$`HcB
+D$`H
+|$hH
+l$0H
+\$@tDf.
+H9D$p
+D$ht3H
+D$xH
+\$@u
+H9D$p
+D$hu
+[]A\A]A^A_
+D$`H
+D$`H
+T$`H
+T$PHcK
+|$ H
+|$ H
+\$@H
+\$@H
+|$@L
+|$@L
+|$@L
+AUATA
+LcD$
+<	L9
+t	H)
+HcL$
+[]A\H
+LcD$
+ATUSH
+t	H)
+[]A\
+ATUSH
+[]A\
+[]A\
+[]A\
+AUATH
+t+f.
+[]A\A]
+AWAVI
+AUATI
+\$@H
+|$ dH
+D$H1
+T$0H
+L$HdH3
+X[]A\A]A^A_
+AUATI
+D$(1
+L$(dH3
+8[]A\A]
+AUATI
+D$(1
+L$(dH3
+8[]A\A]
+ATUI
+\$ H
+D$81
+D$8dH3
+@[]A\
+AUATI
+D$(1
+L$(dH3
+8[]A\A]
+ATUH
+SHcW
+AWAVI
+AUATH
+D$H1
+l$ H
+D$8H
+D$HdH3
+X[]A\A]A^A_
+AUATI
+D$H1
+\$ H
+D$8H
+t$0H
+D$HdH3
+X[]A\A]
+AUATI
+D$H1
+\$ H
+D$8H
+t$0H
+D$HdH3
+X[]A\A]
+ATUI
+[]A\
+AUATUSH
+D$H1
+l$ H
+D$8H
+D$HdH3
+X[]A\A]
+AWAVA
+AUATA
+D$H1
+t$ H
+D$8H
+D$HdH3
+X[]A\A]A^A_
+\$ H
+D$8H
+t$ H
+D$8H
+ATUSH
+D$H1
+t$ H
+D$HdH3
+P[]A\
+AUATUSH
+[]A\A]
+AUATUSH
+D$H1
+D$HdH3
+X[]A\A]
+l$ H
+D$8H
+D$8H
+AUATUSH
+D$H1
+d$ H
+D$8H
+L$HdH3
+X[]A\A]
+d$ H
+AUATI
+D$H1
+t$ H
+D$8H
+l$ H
+L$HdH3
+X[]A\A]
+AUATI
+D$H1
+t$ H
+D$8H
+l$ H
+L$HdH3
+X[]A\A]
+AWAVAUATI
+D$h1
+l$@H
+D$XH
+L$hdH3
+x[]A\A]A^A_
+t$0H
+\$ I
+l$@H
+D$X1
+AWAVI
+AUATUSH
+[]A\A]A^A_
+l$0L
+D$0H
+D$PH
+T$PHcB
+L$@1
+D$@H
+D$@H
+D$@H
+D$`H
+|$`H
+|$`H
+D$'t
+|$pH
+T$@HcB
+|$pH
+|$pL
+|$pL
+T$@HcB
+|$pH
+T$@HcB
+AWAVAUATUSH
+t$pH
+|$pL
+|$pL
+|$pL
+[]A\A]A^A_
+t$pH
+|$pL
+|$pL
+t$0H
+D$PH
+D$`H
+t$P1
+D$@H
+|$@L
+|$@L
+|$@L
+t$pH
+|$pL
+|$pL
+|$pL
+AWAVI
+AUATI
+D$H1
+L$HdH3
+X[]A\A]A^A_
+D$(H
+d$ L
+d$ L
+AWAVH
+AUATH
+D$x1
+l$ L
+d$PH
+D$hH
+|$ L
+D$xdH3
+[]A\A]A^A_
+l$0L
+d$PL
+l$ D
+D$hH
+l$ D
+\$Pf
+|$ f
+AWAVA
+AUATUSH
+d$@L
+l$pH
+|$@H
+|$@H
+|$@D
+d$@H
+|$@H
+|$@H
+|$@H
+[]A\A]A^A_
+d$@H
+|$@H
+|$@H
+|$@H
+|$@H
+|$@H
+d$@H
+|$@H
+|$@H
+|$@H
+d$@H
+|$@H
+|$@H
+|$@H
+t$ H
+D$0H
+|$0L
+|$0L
+|$0L
+|$0L
+d$@H
+|$@H
+|$@H
+|$@H
+d$@H
+|$@H
+|$@H
+|$@H
+|$@H
+|$@H
+|$@H
+d$@H
+|$@H
+|$@H
+|$@H
+d$@H
+|$@H
+|$@H
+|$@H
+d$@H
+|$@H
+d$@H
+|$@H
+Degas are we not drawn onward no In union drawn onward to new eras aged
+|$@H
+|$@H
+t$ H
+D$0H
+|$0L
+|$0L
+|$0L
+|$0L
+|$Pf
+\$PA
+D$PH
+D$PH
+d$@H
+|$@H
+|$@H
+|$@H
+|$@H
+\$@I
+|$@L
+|$@t(H
+|$@L
+D$@H
+|$@H
+D$pH
+|$pH
+D$pH
+|$pH
+ATUH
+SHcW
+AUATH
+D$H1
+D$8H
+Hc5b
+D$HdH3
+X[]A\A]
+AWAVAUATI
+D$X1
+d$0H
+\$ I
+D$HH
+D$XdH3
+h[]A\A]A^A_
+d$0H
+D$H1
+ATUSH
+D$H1
+t$ H
+D$8H
+L$HdH3
+P[]A\
+D$8H
+|$ H
+D$81
+D$H1
+t$ H
+D$8H
+L$HdH3
+ATUH
+D$H1
+t$ H
+D$8H
+D$HdH3
+P[]A\
+AVAUATUSH
+D$X1
+l$0L
+d$ H
+L$XdH3
+`[]A\A]A^
+l$ H
+D$HH
+d$ L
+t$0L
+\$ H
+t$0H
+D$HH
+AUATA
+([]A\A]
+AWAVAUATI
+|$PL
+t$`H
+D$xH
+[]A\A]A^A_
+d$`H
+T$`L
+|$PL
+|$PL
+t$`H
+D$xH
+T$ H
+D$ H
+D$0A
+AWAVI
+AUATUSH
+D$`H
+|$ H
+D$`H
+D$0H
+D$`HcH
+t$hH
+l$@I
+H9t$pH
+|$@H
+D$@H
+[]A\A]A^A_
+AUATUSH
+D$81
+T$8dH3
+H[]A\A]
+D$(H
+D$(1
+AWAV1
+AUATUSH
+D$H1
+%(y"
+t$ H
+D$HdH3
+X[]A\A]A^A_
+D$8H
+D$8H
+D$8H
+AVAUH
+ATUI
+SHcW
+]A\A]A^
+AWAVAUATI
+l$@H
+|$0L
+D$PL
+|$8L
+t$0H
+t$`H
+|$0L
+D$pH
+L$pL
+L$(H
+L$ H
+T$@A
+<~fD
+t$(H
+[]A\A]A^A_
+|$ H
+|$(H
+\$0H
+t$ H
+t$(H
+|$01
+D$pH
+D$(H
+ATUSH
+D$H1
+t$ H
+D$8H
+D$HdH3
+P[]A\
+AVAUATUSH
+D$(1
+t$ L
+D$(dH3
+0[]A\A]A^
+AWAVAUATI
+_ dH
+T$(t
+D$(H
+\$PL
+D$`H
+d$pL
+L$0H
+T$pv
+T$PA
+\$(H
+[]A\A]A^A_
+|$0H
+\$ H
+\$ H
+\$ H
+\$ H
+\$ H
+D$(H
+\$(H
+AWAVAUATUSH
+_ dH
+|$ L
+\$0H
+T$`HcB
+D$hH
+T$ptrf
+D$hH
+D$ht	H9D$pu
+[]A\A]A^A_
+AUATUSH
+%LD"
+D$H1
+t$ H
+D$8H
+D$8H
+L$HdH3
+X[]A\A]
+AVAUATUH
+D$h1
+l$@H
+D$XH
+D$8H
+D$`H
+D$8H
+L$hdH3
+p[]A\A]A^
+l$@H
+D$`I
+D$8H
+|$`H
+D$XH
+ATUL
+[]A\
+ATUH
+D$H1
+t$ H
+D$8H
+L$HdH3
+P[]A\
+AWAVI
+AUATUS
+d$PL
+l$`H
+D$xH
+D$0H
+T$/1
+D$@H
+D$0L
+[]A\A]A^A_
+\$`H
+D$`H
+D$xH
+\$0H
+\$`H
+d$PL
+l$`H
+\$`H
+=;("
+ATUH
+b []A\
+` []A\
+AWAVI
+AUATUSH
+t$ dH
+\$pH
+l$`H
+|$ H
+5q="
+[]A\A]A^A_
+l$`L
+l$pH
+D$ H
+t$ L
+l$0I
+l$0I
+|$0L
+|$0t$H
+|$0L
+|$pt
+L;4$M
+\$(L
+t$@H
+T$0L
+D$`H
+\$`L
+|$ H
+D$@L
+%,)"
+D$pL
+T$pHcB
+D$xH
+l$PH
+|$`A
+D$xt3
+D$xu
+D$PH
+d$PH
+D$@HcP
+D$pH
+D$ H
+\$`L
+D$xH
+AWAVI
+AUATUSH
+D$`L
+D$pL
+|$ H
+|$ H
+|$ H
+|$ L
+|$0H
+\$ L
+|$ L
+\$_L
+|$ H
+|$ H
+|$ H
+|$(H
+|$ H
+|$(H
+|$ H
+|$(H
+|$ H
+|$(H
+|$ H
+t$(L
+|$ H
+|$(H
+\$ H
+t$(L
+|$8H
+|$ H
+|$(H
+\$ H
+t$(L
+|$ H
+|$(H
+\$ H
+t$(L
+t$ H
+[]A\A]A^A_
+|$ H
+t$(L
+|$ H
+t$(L
+|$ H
+t$(L
+|$ H
+t$(L
+|$ H
+|$ H
+t$ H
+|$ L
+|$ H
+AUATI
+D$h1
+D$XH
+|$(H
+D$hdH3
+x[]A\A]
+t$@H
+D$XH
+AWAVAUATI
+D$h1
+l$@H
+D$@H
+D$@HcP
+T$HH
+H9T$PH
+T$Ht/
+D$XH
+H9T$P
+T$Hu
+D$hdH3
+x[]A\A]A^A_
+AWAVAUATUSH
+d$PH
+D$@H
+D$@H
+[]A\A]A^A_
+|$ L
+D$@H
+T$0H
+D$8H
+l$@L
+|$pH
+AWAVAUATUSH
+d$ H
+D$pH
+D$pHcH
+l$xH
+\$`L
+l$0tKH
+T$xt?H
+D$0v
+[]A\A]A^A_
+t$@H
+|$@L
+|$@L
+\$pH
+AVAUATUSH
+D$h1
+l$ L
+l$@H
+D$XH
+D$8H
+D$`H
+D$8H
+L$hdH3
+p[]A\A]A^
+D$XH
+D$`I
+D$8H
+|$`H
+l$ L
+D$8H
+D$8H
+\$ I
+AWAVAUATUSH
+D$(1
+L94$
+D$(dH3
+8[]A\A]A^A_
+|$ Y^
+AUATUS
+[]A\A]
+AUATUS
+[]A\A]
+ATUSH
+G []A\
+[]A\
+AWAVAUATI
+HcL$
+$+I9
+HcL$
+Lct$
+HcL$
+([]A\H
+A^A_
+AUATUSH
+[]A\A]
+[]A\A]
+AVAUATUSL
+ug[L
+]A\A]A^
+t	[]A\A]A^
+AWAVI
+AUATI
+D$H1
+l$0L
+l$ L
+D$8%
+D$HdH3
+X[]A\A]A^A_
+USE1
+[]A\
+[]A\
+ATUI
+[]A\
+USE1
+[]A\
+[]A\
+AWAVAUATI
+([]A\A]A^A_
+ATUH
+SHcW
+ATUH
+[]A\
+[]A\
+AWAVAUATUSH
+8[]A\A]A^A_
+D$ I
+D$/H
+D$/H
+8[]A\A]A^A_
+t$ H
+AWAVAUATUSH
+|$(H
+t$ H
+D$PL
+d$pH
+\$`H
+l$@H
+H#D$0M
+|$PH
+|$PH
+|$PH
+|$PL
+D$ H
+|$(M
+D$?H
+D$(D
+D$?H
+|$pA
+l$PH
+D$PA
+D$`H
+|$PL
+|$PL
+|$(H
+D$`I
+D$(D
+l$PA
+D$(H
+[]A\A]A^A_
+D$(H
+AWAVI
+AUAT
+D$x1
+D$HH
+D$ H
+t$ L
+d$@H
+l$PH
+T$0D
+L$xdH3
+[]A\A]A^A_
+d$@L
+D$0H
+\$0H
+\$ A
+D$PHcH
+t$XH
+D$`ta
+t$XL9t$`t 
+D$hL
+D$PH
+D$@H9C t%H
+D$PH
+T$PH
+AUATUS
+[]A\A]
+ATUSH
+[]A\
+ATUI
+[]A\
+AVAUI
+ATUI
+D$(1
+l$ L
+D$(dH3
+0[]A\A]A^
+AUATI
+\$0H
+D$X1
+D$HH
+D$XdH3
+h[]A\A]
+AVAUATUI
+[]A\A]A^
+AVAUATUI
+[]A\A]A^
+AVAUATUI
+ []A\A]A^
+AVAUATUI
+ []A\A]A^
+AVAUATUI
+[]A\A]A^
+AVAUATUI
+[]A\A]A^
+AVAUE1
+ATUH
+[]A\A]A^
+AUATUSH
+[]A\A]
+AWAVI
+AUAT1
+D$81
+t$ H
+\$ H
+L$8dH3
+H[]A\A]A^A_
+ATUH
+[]A\
+[]A\
+ATUH
+[]A\
+AVAUI
+ATUI
+[]A\A]A^
+AWAVI
+AUATUSH
+D$(1
+D$ A
+D$ H
+|$ H
+~ I9
+D$ H
+|$ H
+|$ L
+|$ L
+L$(dH3
+8[]A\A]A^A_
+|$ H
+D$ H
+D$ H
+D$ H
+|$ H
+H98u
+tCUSH
+ATUI
+[]A\
+D$(1
+D$(dH3
+H98u
+tCUSH
+ATUI
+[]A\
+tCUSH
+tCUSH
+tCUSH
+D$81
+L$(H
+D$8dH3
+AVAUATUSH
+D$(1
+T$ L
+d$ H
+D$ H
+D$(dH3
+0[]A\A]A^
+d$ H
+|$0A
+AXAY
+d$ L
+T$ HcJ
+A9T$
+d$ L
+tCUSH
+ATUI
+[]A\
+D$(1
+T$ 1
+D$(dH3
+ATUSH
+ []A\
+$HcP
+tCUSH
+ATUI
+[]A\
+D$(1
+T$ 1
+D$(dH3
+ATUSH
+ []A\
+$HcP
+tkUSH
+ATUI
+[]A\
+D$(1
+D$(dH3
+D$(1
+D$(dH3
+AVAUATUSH
+ []A\A]A^
+vb9S
+tkUSH
+ATUI
+[]A\
+ATUSH
+ []A\
+tCUSH
+ATUI
+[]A\
+	w+H
+tkUSH
+ATUI
+[]A\
+tCUSH
+D$(1
+D$(dH3
+D$(1
+D$(dH3
+ATUSH
+D$(1
+D$(dH3
+0[]A\
+d$ H
+D$ H
+T$ H
+tCUSH
+tCUSH
+ATUI
+[]A\
+tCUSH
+ATUI
+[]A\
+D$(1
+D$(dH3
+ATUSH
+ []A\
+tCUSH
+ATUI
+[]A\
+tC~Y
+tCUSH
+ATUI
+[]A\
+AWAVA
+AUATL
+-&g!
+[]A\A]A^A_
+default
+Couldn't get PID of caller!
+../../../../src/signond/accesscontrolmanagerhelper.cpp
+Creating a second instance of the CAM
+given peer does not have needed permissions
+NULL db pointer, secure storage might be unavailable,
+Access control list of identity: %1: [%2].Tokens count: %3	
+pidOfPeer
+isPeerAllowedToAccess
+peerHasOneOfAccesses
+appIdOfPeer
+isPeerOwnerOfIdentity
+isPeerAllowedToUseIdentity
+AccessControlManagerHelper
+Database name: [
+Couldn't open metadata DB!
+Failed to open secrets DB.
+Not implemented
+Key inserted.
+Key removed.
+Secrets DB opened.
+Secrets DB already opened?
+Enter
+result:
+Reformatting secure storage.
+Authorization failed
+CryptoManager
+AccessControlManager
+SecretsStorage
+Key authorizer already set
+Crypto manager already set
+SecretsStorage already set
+StoragePath
+true
+Borrow or rob
+false
+Using encryption: 
+Metadata DB path: 
+Cryptomanager name: 
+ACL manager name: 
+Secrets storage name: 
+CAM already initialized.
+Couldn't load SecretsStorage:
+Couldn't load CryptoManager:
+1onEncryptedFSMounted()
+2fileSystemMounted()
+1onEncryptedFSUnmounting()
+2fileSystemUnmounting()
+2credentialsSystemReady()
+2ready()
+1onKeyInserted(SignOn::Key)
+2keyInserted(SignOn::Key)
+1onKeyRemoved(SignOn::Key)
+2keyRemoved(SignOn::Key)
+Custom event received.
+../../../../src/signond/credentialsaccessmanager.cpp
+Could not create storage directory:
+CredentialsAccessManager not initialized.
+All keys disabled. Closing secure storage.
+Error occurred while closing secure storage.
+Revoking key authorization failed
+com.nokia.SingleSignOn.ExtensionInterface/3.0
+Plugin instance is not an ExtensionInterface
+com.nokia.SingleSignOn.ExtensionInterface/1.0
+Access control manager already set
+com.nokia.SingleSignOn.ExtensionInterface/2.0
+====== Credentials Access Manager Configuration ======
+======================================================
+Initializing CredentialsAccessManager with configuration: 
+Failed to create storage directory.
+No SecretsStorage set, using default (dummy)
+Couldn't load AccessControlManager:
+No AccessControlManager set, using default (dummy)
+No CryptoManager set, using default (dummy)
+No key authorizer set, using default
+1onKeyAuthorizationQueried(const SignOn::Key,int)
+2keyAuthorizationQueried(const SignOn::Key,int)
+1onLastAuthorizedKeyRemoved(SignOn::Key)
+2lastAuthorizedKeyRemoved(SignOn::Key)
+CredentialsAccessManager successfully initialized...
+Processing secure storage not available event.
+onEncryptedFSUnmounting
+onEncryptedFSMounted
+customEvent
+replyToSecureStorageEventNotifiers
+onKeyAuthorizationQueried
+onKeyRemoved
+onLastAuthorizedKeyRemoved
+onKeyInserted
+credentialsDB
+deleteCredentialsSystem
+closeCredentialsSystem
+openCredentialsSystem
+createStorageDir
+openSecretsDB
+initExtension
+init
+finalize
+CredentialsAccessManager
+~/.config/signond
+signon-secrets.db
+signon.db
+Secrets DB is not available
+Supported Drivers:
+DATABASE NAME [
+SSO-metadata
+Secrets DB not opened
+Realms
+Owner
+StoreSecret
+UserNameSecret
+SignonDaemonNS::MethodMap
+AuthMethods
+QSQLITE
+NoError
+ConnectionError
+StatementError
+TransactionError
+UnknownError
+SQL Error invalid.
+SQL error description:
+	Type: 
+	Database text: 
+	Driver text: 
+	Number: 
+Query prepare warning: 
+Query exec error: 
+Update DB from version 
+ to 
+PRAGMA user_version = %1
+Could not start transaction
+TRANSACT Query [%1]
+Commit SUCCEEDED.
+Transactional exec FAILED!
+DELETE FROM OWNER
+DELETE FROM TOKENS
+DELETE FROM REALMS
+DELETE FROM ACL
+DELETE FROM MECHANISMS
+DELETE FROM METHODS
+DELETE FROM CREDENTIALS
+Creation successful
+Table insert successful
+Table copy failed.
+PRAGMA user_version
+Caption
+Type
+RefCount
+Validated
+SELECT id FROM credentials
+ ORDER BY id
+queryPassword:
+Loading credentials from DB.
+Password is empty
+:token
+method:
+:method
+Loading:
+Looking up data from cache
+Removing:
+Storing:
+:reference
+Data insertion ok.
+Data insertion failed.
+:ref
+Data delete ok.
+Data delete failed.
+Storing data into cache
+UPDATE:
+INSERT:
+:username
+:caption
+:flags
+:type
+:realm
+:mech
+Error in updating realms
+Credentials insertion failed.
+../../../../src/signond/credentialsdb.cpp
+Storing cached credentials into permanent storage
+Rollback failed, db data integrity could be compromised.
+Could not open database connection.
+CREATE TRIGGER fkdc_OWNER_token_id_TOKENS_id BEFORE DELETE ON TOKENS FOR EACH ROW BEGIN     DELETE FROM OWNER WHERE OWNER.token_id = OLD.id; END; 
+CREATE TRIGGER fku_OWNER_token_id_TOKENS_id BEFORE UPDATE ON [OWNER] FOR EACH ROW BEGIN     SELECT RAISE(ROLLBACK, 'update on table OWNER violates foreign key constraint fku_OWNER_token_id_TOKENS_id')       WHERE NEW.token_id IS NOT NULL AND (SELECT id FROM TOKENS WHERE id = NEW.token_id) IS NULL; END; 
+CREATE TRIGGER fki_OWNER_token_id_TOKENS_id BEFORE INSERT ON [OWNER] FOR EACH ROW BEGIN   SELECT RAISE(ROLLBACK, 'insert on table OWNER violates foreign key constraint fki_OWNER_token_id_TOKENS_id')   WHERE NEW.token_id IS NOT NULL AND (SELECT id FROM TOKENS WHERE id = NEW.token_id) IS NULL; END; 
+CREATE TABLE OWNER(rowid INTEGER PRIMARY KEY AUTOINCREMENT,identity_id INTEGER CONSTRAINT fk_identity_id REFERENCES CREDENTIALS(id) ON DELETE CASCADE,token_id INTEGER CONSTRAINT fk_token_id REFERENCES TOKENS(id) ON DELETE CASCADE)
+QtMetaTypePrivate::QAssociativeIterableImpl
+SecretsStorage initialization failed: 
+DELETE FROM owner WHERE identity_id = %1
+DELETE FROM REALMS WHERE identity_id = %1
+DELETE FROM ACL WHERE identity_id = %1
+DELETE FROM CREDENTIALS WHERE id = %1
+CREATE TRIGGER fkdc_REFS_token_id_TOKENS_id BEFORE DELETE ON TOKENS FOR EACH ROW BEGIN     DELETE FROM REFS WHERE REFS.token_id = OLD.id; END; 
+CREATE TRIGGER fku_REFS_token_id_TOKENS_id BEFORE UPDATE ON [REFS] FOR EACH ROW BEGIN     SELECT RAISE(ROLLBACK, 'update on table REFS violates foreign key constraint fku_REFS_token_id_TOKENS_id')       WHERE NEW.token_id IS NOT NULL AND (SELECT id FROM TOKENS WHERE id = NEW.token_id) IS NULL; END; 
+CREATE TRIGGER fki_REFS_token_id_TOKENS_id BEFORE INSERT ON [REFS] FOR EACH ROW BEGIN   SELECT RAISE(ROLLBACK, 'insert on table REFS violates foreign key constraint fki_REFS_token_id_TOKENS_id')   WHERE NEW.token_id IS NOT NULL AND (SELECT id FROM TOKENS WHERE id = NEW.token_id) IS NULL; END; 
+CREATE TRIGGER fkdc_REFS_identity_id_CREDENTIALS_id BEFORE DELETE ON CREDENTIALS FOR EACH ROW BEGIN     DELETE FROM REFS WHERE REFS.identity_id = OLD.id; END; 
+CREATE TRIGGER fku_REFS_identity_id_CREDENTIALS_id BEFORE UPDATE ON [REFS] FOR EACH ROW BEGIN     SELECT RAISE(ROLLBACK, 'update on table REFS violates foreign key constraint fku_REFS_identity_id_CREDENTIALS_id')       WHERE NEW.identity_id IS NOT NULL AND (SELECT id FROM CREDENTIALS WHERE id = NEW.identity_id) IS NULL; END; 
+CREATE TRIGGER fki_REFS_identity_id_CREDENTIALS_id BEFORE INSERT ON [REFS] FOR EACH ROW BEGIN   SELECT RAISE(ROLLBACK, 'insert on table REFS violates foreign key constraint fki_REFS_identity_id_CREDENTIALS_id')   WHERE NEW.identity_id IS NOT NULL AND (SELECT id FROM CREDENTIALS WHERE id = NEW.identity_id) IS NULL; END; 
+CREATE TRIGGER fkdc_ACL_token_id_TOKENS_id BEFORE DELETE ON TOKENS FOR EACH ROW BEGIN     DELETE FROM ACL WHERE ACL.token_id = OLD.id; END; 
+CREATE TRIGGER fku_ACL_token_id_TOKENS_id BEFORE UPDATE ON [ACL] FOR EACH ROW BEGIN     SELECT RAISE(ROLLBACK, 'update on table ACL violates foreign key constraint fku_ACL_token_id_TOKENS_id')       WHERE NEW.token_id IS NOT NULL AND (SELECT id FROM TOKENS WHERE id = NEW.token_id) IS NULL; END; 
+CREATE TRIGGER fki_ACL_token_id_TOKENS_id BEFORE INSERT ON [ACL] FOR EACH ROW BEGIN   SELECT RAISE(ROLLBACK, 'insert on table ACL violates foreign key constraint fki_ACL_token_id_TOKENS_id')   WHERE NEW.token_id IS NOT NULL AND (SELECT id FROM TOKENS WHERE id = NEW.token_id) IS NULL; END; 
+CREATE TRIGGER fkdc_ACL_mechanism_id_MECHANISMS_id BEFORE DELETE ON MECHANISMS FOR EACH ROW BEGIN     DELETE FROM ACL WHERE ACL.mechanism_id = OLD.id; END; 
+CREATE TRIGGER fku_ACL_mechanism_id_MECHANISMS_id BEFORE UPDATE ON [ACL] FOR EACH ROW BEGIN     SELECT RAISE(ROLLBACK, 'update on table ACL violates foreign key constraint fku_ACL_mechanism_id_MECHANISMS_id')       WHERE NEW.mechanism_id IS NOT NULL AND (SELECT id FROM MECHANISMS WHERE id = NEW.mechanism_id) IS NULL; END; 
+CREATE TRIGGER fki_ACL_mechanism_id_MECHANISMS_id BEFORE INSERT ON [ACL] FOR EACH ROW BEGIN   SELECT RAISE(ROLLBACK, 'insert on table ACL violates foreign key constraint fki_ACL_mechanism_id_MECHANISMS_id')   WHERE NEW.mechanism_id IS NOT NULL AND (SELECT id FROM MECHANISMS WHERE id = NEW.mechanism_id) IS NULL; END; 
+CREATE TRIGGER fkdc_ACL_method_id_METHODS_id BEFORE DELETE ON METHODS FOR EACH ROW BEGIN     DELETE FROM ACL WHERE ACL.method_id = OLD.id; END; 
+CREATE TRIGGER fku_ACL_method_id_METHODS_id BEFORE UPDATE ON [ACL] FOR EACH ROW BEGIN     SELECT RAISE(ROLLBACK, 'update on table ACL violates foreign key constraint fku_ACL_method_id_METHODS_id')       WHERE NEW.method_id IS NOT NULL AND (SELECT id FROM METHODS WHERE id = NEW.method_id) IS NULL; END; 
+CREATE TRIGGER fki_ACL_method_id_METHODS_id BEFORE INSERT ON [ACL] FOR EACH ROW BEGIN   SELECT RAISE(ROLLBACK, 'insert on table ACL violates foreign key constraint fki_ACL_method_id_METHODS_id')   WHERE NEW.method_id IS NOT NULL AND (SELECT id FROM METHODS WHERE id = NEW.method_id) IS NULL; END; 
+CREATE TRIGGER fkdc_ACL_identity_id_CREDENTIALS_id BEFORE DELETE ON CREDENTIALS FOR EACH ROW BEGIN    DELETE FROM ACL WHERE ACL.identity_id = OLD.id; END; 
+CREATE TRIGGER fku_ACL_identity_id_CREDENTIALS_id BEFORE UPDATE ON [ACL] FOR EACH ROW BEGIN     SELECT RAISE(ROLLBACK, 'update on table ACL violates foreign key constraint fku_ACL_identity_id_CREDENTIALS_id')       WHERE NEW.identity_id IS NOT NULL AND (SELECT id FROM CREDENTIALS WHERE id = NEW.identity_id) IS NULL; END; 
+CREATE TRIGGER fki_ACL_identity_id_CREDENTIALS_id BEFORE INSERT ON [ACL] FOR EACH ROW BEGIN   SELECT RAISE(ROLLBACK, 'insert on table ACL violates foreign key constraint fki_ACL_identity_id_CREDENTIALS_id')   WHERE NEW.identity_id IS NOT NULL AND (SELECT id FROM CREDENTIALS WHERE id = NEW.identity_id) IS NULL; END;
+CREATE TRIGGER fkdc_REALMS_identity_id_CREDENTIALS_id BEFORE DELETE ON CREDENTIALS FOR EACH ROW BEGIN     DELETE FROM REALMS WHERE REALMS.identity_id = OLD.id; END; 
+CREATE TRIGGER fku_REALMS_identity_id_CREDENTIALS_id BEFORE UPDATE ON [REALMS] FOR EACH ROW BEGIN     SELECT RAISE(ROLLBACK, 'update on table REALMS violates foreign key constraint fku_REALMS_identity_id_CREDENTIALS_id')       WHERE NEW.identity_id IS NOT NULL AND (SELECT id FROM CREDENTIALS WHERE id = NEW.identity_id) IS NULL; END; 
+CREATE TRIGGER fki_REALMS_identity_id_CREDENTIALS_id BEFORE INSERT ON [REALMS] FOR EACH ROW BEGIN   SELECT RAISE(ROLLBACK, 'insert on table REALMS violates foreign key constraint fki_REALMS_identity_id_CREDENTIALS_id')   WHERE NEW.identity_id IS NOT NULL AND (SELECT id FROM CREDENTIALS WHERE id = NEW.identity_id) IS NULL; END; 
+CREATE TABLE REFS(identity_id INTEGER CONSTRAINT fk_identity_id REFERENCES CREDENTIALS(id) ON DELETE CASCADE,token_id INTEGER CONSTRAINT fk_token_id REFERENCES TOKENS(id) ON DELETE CASCADE,ref TEXT,PRIMARY KEY (identity_id, token_id, ref))
+CREATE TABLE ACL(rowid INTEGER PRIMARY KEY AUTOINCREMENT,identity_id INTEGER CONSTRAINT fk_identity_id REFERENCES CREDENTIALS(id) ON DELETE CASCADE,method_id INTEGER CONSTRAINT fk_method_id REFERENCES METHODS(id) ON DELETE CASCADE,mechanism_id INTEGER CONSTRAINT fk_mechanism_id REFERENCES MECHANISMS(id) ON DELETE CASCADE,token_id INTEGER CONSTRAINT fk_token_id REFERENCES TOKENS(id) ON DELETE CASCADE)
+CREATE TABLE REALMS(identity_id INTEGER CONSTRAINT fk_identity_id REFERENCES CREDENTIALS(id) ON DELETE CASCADE,realm TEXT,hostname TEXT,PRIMARY KEY (identity_id, realm, hostname))
+CREATE TABLE TOKENS(id INTEGER PRIMARY KEY AUTOINCREMENT,token TEXT UNIQUE)
+CREATE TABLE MECHANISMS(id INTEGER PRIMARY KEY AUTOINCREMENT,mechanism TEXT UNIQUE)
+CREATE TABLE METHODS(id INTEGER PRIMARY KEY AUTOINCREMENT,method TEXT UNIQUE)
+CREATE TABLE CREDENTIALS(id INTEGER PRIMARY KEY AUTOINCREMENT,caption TEXT,username TEXT,flags INTEGER,type INTEGER)
+Error occurred while creating the database.
+Upgrading from version < 1 not supported. Clearing DB
+Error occurred while inseting new tables.
+INSERT OR IGNORE INTO OWNER (identity_id, token_id)  SELECT identity_id, token_id FROM ACL
+Database connection succeeded.
+Creating SQL table structure...
+Failed to set database version to: 
+.This could lead to data loss.
+SQL table structure already created...
+SELECT caption, username, flags, type FROM credentials WHERE id = %1
+No result or invalid credentials query.
+SELECT realm FROM REALMS WHERE identity_id = %1
+SELECT token FROM TOKENS WHERE id IN (SELECT token_id FROM OWNER WHERE identity_id = '%1' )
+SELECT token FROM TOKENS WHERE id IN (SELECT token_id FROM ACL WHERE identity_id = '%1' )
+SELECT DISTINCT ACL.method_id, METHODS.method FROM ( ACL JOIN METHODS ON ACL.method_id = METHODS.id ) WHERE ACL.identity_id = '%1'
+SELECT DISTINCT MECHANISMS.mechanism FROM ( MECHANISMS JOIN ACL ON ACL.mechanism_id = MECHANISMS.id ) WHERE ACL.method_id = '%1' AND ACL.identity_id = '%2' 
+Error occurred while fetching credentials from database.
+Looking up credentials from cache.
+SELECT DISTINCT METHODS.method FROM ( ACL JOIN METHODS ON ACL.method_id = METHODS.id ) WHERE ACL.identity_id = '%1'
+SELECT DISTINCT METHODS.method FROM ( ACL JOIN METHODS ON ACL.method_id = METHODS.id) WHERE ACL.identity_id = :id AND ACL.token_id = (SELECT id FROM TOKENS where token = :token)
+SELECT ref FROM REFS WHERE identity_id = '%1'
+SELECT ref FROM REFS WHERE identity_id = :id AND token_id = (SELECT id FROM TOKENS WHERE token = :token )
+SELECT id FROM METHODS WHERE method = :method
+No result or invalid method query.
+Could not start transaction. Error inserting data.
+INSERT OR IGNORE INTO TOKENS (token) VALUES ( :token )
+INSERT OR REPLACE INTO REFS (identity_id, token_id, ref) VALUES ( :id, ( SELECT id FROM TOKENS WHERE token = :token ),:reference)
+Could not start transaction. Error removing data.
+DELETE FROM REFS WHERE identity_id = :id AND token_id = ( SELECT id FROM TOKENS WHERE token = :token )
+DELETE FROM REFS WHERE identity_id = :id AND token_id = ( SELECT id FROM TOKENS WHERE token = :token ) AND ref = :ref
+INSERT INTO METHODS (method) VALUES(:method)
+UPDATE CREDENTIALS SET caption = :caption, username = :username, flags = :flags, type = :type WHERE id = :id
+INSERT INTO CREDENTIALS (caption, username, flags, type) VALUES(:caption, :username, :flags, :type)
+Error occurred while updating crendentials
+Error occurred while inserting crendentials
+DELETE FROM REALMS WHERE identity_id = '%1'
+INSERT OR IGNORE INTO REALMS (identity_id, realm) VALUES (:id, :realm)
+INSERT OR IGNORE INTO METHODS (method) VALUES( :method )
+INSERT OR IGNORE INTO MECHANISMS (mechanism) VALUES( :mech )
+Could not start transaction. Error inserting credentials.
+DELETE FROM ACL WHERE identity_id = '%1'
+DELETE FROM OWNER WHERE identity_id = '%1'
+INSERT OR REPLACE INTO ACL (identity_id, method_id, mechanism_id, token_id) VALUES ( :id, ( SELECT id FROM METHODS WHERE method = :method ),( SELECT id FROM MECHANISMS WHERE mechanism= :mech ), ( SELECT id FROM TOKENS WHERE token = :token ))
+INSERT OR REPLACE INTO ACL (identity_id, method_id, token_id) VALUES ( :id, ( SELECT id FROM METHODS WHERE method = :method ),( SELECT id FROM TOKENS WHERE token = :token ))
+INSERT OR REPLACE INTO ACL (identity_id, method_id, mechanism_id) VALUES ( :id, ( SELECT id FROM METHODS WHERE method = :method ),( SELECT id FROM MECHANISMS WHERE mechanism= :mech ))
+INSERT OR REPLACE INTO ACL (identity_id, method_id) VALUES ( :id, ( SELECT id FROM METHODS WHERE method = :method ))
+INSERT OR REPLACE INTO ACL (identity_id, token_id) VALUES ( :id, ( SELECT id FROM TOKENS WHERE token = :token ))
+INSERT OR REPLACE INTO OWNER (identity_id, token_id) VALUES ( :id, ( SELECT id FROM TOKENS WHERE token = :token ))
+removeData
+storeData
+loadData
+clear
+removeCredentials
+credentials
+checkPassword
+openSecretsDB
+~CredentialsDB
+updateCredentials
+removeReference
+addReference
+clear
+removeIdentity
+updateIdentity
+identities
+identity
+methodId
+updateDB
+createTables
+queryList
+transactionalExec
+exec
+exec
+rollback
+connect
+updateDB
+init
+SqlDatabase
+storeToDB
+:password
+Data removal ok.
+Data removal failed.
+SSO-secrets
+Not open
+DELETE FROM STORE
+insert
+:value
+:key
+../../../../src/signond/default-secrets-storage.cpp
+INSERT OR REPLACE INTO CREDENTIALS (id, username, password) VALUES(:id, :username, :password)
+Error occurred while storing crendentials
+SELECT username, password FROM credentials WHERE id = %1
+DELETE FROM STORE WHERE identity_id = :id
+DELETE FROM STORE WHERE identity_id = :id AND method_id = :method
+Initializing open DB; closing first...
+DELETE FROM STORE WHERE identity_id = %1
+CREATE TRIGGER tg_delete_credentials BEFORE DELETE ON CREDENTIALS FOR EACH ROW BEGIN     DELETE FROM STORE WHERE STORE.identity_id = OLD.id; END; 
+CREATE TABLE STORE(identity_id INTEGER,method_id INTEGER,key TEXT,value BLOB,PRIMARY KEY (identity_id, method_id, key))
+CREATE TABLE CREDENTIALS(id INTEGER NOT NULL UNIQUE,username TEXT,password TEXT,PRIMARY KEY (id))
+SELECT key, value FROM STORE WHERE identity_id = :id AND method_id = :method
+storing data max size exceeded
+INSERT OR REPLACE INTO STORE (identity_id, method_id, key, value) VALUES(:id, :method, :key, :value)
+removeData
+storeData
+loadData
+loadCredentials
+removeCredentials
+updateCredentials
+clear
+initialize
+removeData
+storeData
+loadData
+loadCredentials
+removeCredentials
+updateCredentials
+clear
+createTables
+com.nokia.singlesignonui
+/SignonUi
+1credentialsSystemReady()
+Plugin of type 
+ cannot be found
+Deprecated error code:
+Unknown error.
+No network connection.
+Network connetion failed.
+Ssl connection failed.
+Session processing timed out.
+Operation failed.
+The Date set is not correct
+%1:%2
+Processing store operation.
+Secure storage is available.
+startNewRequest
+Cannot store without identity
+AccessControlTokens
+Secure storage not available.
+The new session is created :
+requestId
+StoredIdentity
+ClientData
+Method
+Mechanism
+AppId
+Caption missing
+Got caption: 
+Secrets DB not available.
+SecStorageKeysUnavailable
+QDBusArgument
+refreshRequired
+QueryErrorCode
+REFRESH IS REQUIRED
+the number of requests is
+UiPolicy
+No more requests to process
+One request is already active
+Size of the queue is
+attempt to assign existing id
+../../../../src/signond/signonsessioncore.cpp
+1processResultReply(const QVariantMap&)
+2processResultReply(const QVariantMap&)
+1processStore(const QVariantMap&)
+2processStore(const QVariantMap&)
+1processUiRequest(const QVariantMap&)
+2processUiRequest(const QVariantMap&)
+1processRefreshRequest(const QVariantMap&)
+2processRefreshRequest(const QVariantMap&)
+1processError(int, const QString&)
+2processError(int, const QString&)
+1stateChangedSlot(int, const QString&)
+2stateChanged(int, const QString&)
+com.google.code.AccountsSSO.SingleSignOn.Error.Unknown
+com.google.code.AccountsSSO.SingleSignOn.Error.MechanismNotAvailable
+Requested mechanism is not available.
+com.google.code.AccountsSSO.SingleSignOn.Error.MissingData
+The SessionData object does not contain all necessary information.
+com.google.code.AccountsSSO.SingleSignOn.Error.InvalidCredentials
+The supplied credentials are invalid for the mechanism implementation.
+com.google.code.AccountsSSO.SingleSignOn.Error.NotAuthorized
+Not authorized to access service account.
+com.google.code.AccountsSSO.SingleSignOn.Error.WrongState
+Operation method has been called in a wrong state.
+com.google.code.AccountsSSO.SingleSignOn.Error.OperationNotSupported
+The operation is not supported by the mechanism implementation.
+com.google.code.AccountsSSO.SingleSignOn.Error.NoConnection
+com.google.code.AccountsSSO.SingleSignOn.Error.Network
+com.google.code.AccountsSSO.SingleSignOn.Error.Ssl
+com.google.code.AccountsSSO.SingleSignOn.Error.Runtime
+Casting SessionData into subclass failed.
+com.google.code.AccountsSSO.SingleSignOn.Error.SessionCanceled
+Session processing was canceled.
+com.google.code.AccountsSSO.SingleSignOn.Error.TimedOut
+com.google.code.AccountsSSO.SingleSignOn.Error.UserInteraction
+User interaction dialog failed.
+com.google.code.AccountsSSO.SingleSignOn.Error.OperationFailed
+com.google.code.AccountsSSO.SingleSignOn.Error.TOSNotAccepted
+User declined Terms of Service.
+com.google.code.AccountsSSO.SingleSignOn.Error.ForgotPassword
+User selected forgot password.
+com.google.code.AccountsSSO.SingleSignOn.Error.IncorrectDate
+com.google.code.AccountsSSO.SingleSignOn.Error.User
+Error occured while updating credentials.
+Processing --- StoreOperation::Blob
+Error occured while storing data.
+Secure storage still not available.
+The resulted object is corrupted and has to be deleted
+CAM has no keys available. Informing signon-ui.
+1queryUiSlot(QDBusPendingCallWatcher*)
+2finished(QDBusPendingCallWatcher*)
+Error occurred while getting data from credentials database.
+The request is started successfully
+Some UI operation is still pending
+Starting the authentication process
+The request is found with index 
+startNewRequest
+queryUiSlot
+customEvent
+processError
+processRefreshRequest
+processUiRequest
+processStore
+processResultReply
+processStoreOperation
+replyError
+startProcess
+cancel
+setupPlugin
+method
+sessionCore
+ Method:
+, mechanism:
+, allowed:
+Null database handler object.
+../../../../src/signond/signonauthsessionadaptor.cpp
+cancel called from peer that doesn't own the AuthSession object
+setId called from peer that doesn't own the AuthSession object
+setId called with an identifier the peer is not allowed to use
+objectUnref called from peer that doesn't own the AuthSession object
+queryAvailableMechanisms called from peer that doesn't own the AuthSession object
+Client has insuficient permissions to access the service.
+ Authentication session owned by other process.
+com.google.code.AccountsSSO.SingleSignOn.Error.PermissionDenied
+Identity does not allow authentication using the selected method or mechanism.
+com.google.code.AccountsSSO.SingleSignOn.Error.MethodOrMechanismNotAllowed
+process called from peer that doesn't own the AuthSession object
+objectUnref
+setId
+cancel
+process
+queryAvailableMechanisms
+/AuthSession_
+../../../../src/signond/signonauthsession.cpp
+/com/google/code/AccountsSSO/SingleSignOn
+Cannot retrieve proper tasks queue
+1stateChangedSlot(const QString&, int, const QString&)
+2stateChanged(const QString&, int, const QString&)
+SignonAuthSession created successfully:
+stateChangedSlot
+objectUnref
+cancel
+createAuthSession
+~SignonAuthSession
+SignonAuthSession
+/Identity_
+2credentialsUpdated(quint32)
+addReference: 
+NULL database handler object.
+removeReference: 
+Database error occurred.
+clear data failed
+removeIdentityData succeeded
+removeIdentityData failed
+Operation canceled by user.
+Error during update
+ConfirmCount
+retry count:
+QueryMessageId
+Identity not found.
+Password cannot be stored.
+QueryPassword
+QueryMessage
+Query returned no results.
+QUERYING INFO
+Password is not stored.
+1onCredentialsUpdated(quint32)
+../../../../src/signond/signonidentity.cpp
+Could not access Signon Database.
+Waiting for reply from signon-ui
+1verifyUiSlot(QDBusPendingCallWatcher*)
+Error occurred while inserting/updating credentials.
+Removing identity data failed.
+com.google.code.AccountsSSO.SingleSignOn.Error.RemoveFailed
+1removeCompleted(QDBusPendingCallWatcher*)
+Signout request. Identity ID: 
+1signOutCompleted(QDBusPendingCallWatcher*)
+FRESH, JUST STORED CREDENTIALS ID:
+Server internal error occurred.
+com.google.code.AccountsSSO.SingleSignOn.Error.InternalServer
+com.google.code.AccountsSSO.SingleSignOn.Error.IdentityOperationCanceled
+signon-ui call returned error %1
+Storing of the identity data failed.
+com.google.code.AccountsSSO.SingleSignOn.Error.StoreFailed
+The identity was not found on the server.
+com.google.code.AccountsSSO.SingleSignOn.Error.IdentityNotFound
+Database querying error occurred.
+com.google.code.AccountsSSO.SingleSignOn.Error.CredentialsNotAvailable
+verifyUiSlot
+queryUiSlot
+storeCredentials
+onCredentialsUpdated
+signOutCompleted
+signOut
+removeCompleted
+remove
+verifySecret
+verifyUser
+queryUserPassword
+getInfo
+requestCredentialsUpdate
+removeReference
+addReference
+SignonDaemonNS::PendingCallWatcherWithContext
+Object registration failed:
+2finished()
+SignonDaemonNS::MapList
+QDBusObjectPath
+still not allowed
+../../../../src/signond/signondaemonadaptor.cpp
+1onIdentityAccessReplyFinished()
+1onAuthSessionAccessReplyFinished()
+ACM passed, creating AuthSession object
+QtMetaTypePrivate::QSequentialIterableImpl
+Method FAILED Access Control check:
+onAuthSessionAccessReplyFinished
+getAuthSessionObjectPath
+registerObject
+securityErrorReply
+2timeout()
+1destroyUnused()
+Object unused, deleting: 
+Couldn't get time from monotonic clock
+../../../../src/signond/signondisposable.cpp
+No disposable objects, starting notification timer
+destroyUnused
+queryDialog
+refreshDialog
+cancelUiRequest
+removeIdentityData
+SSO_DEBUG
+1onReadStandardError()
+2readyReadStandardError()
+1blobIOError()
+2error()
+1onReadStandardOutput()
+2readyRead()
+Challenge produces CRASH!
+plugin processed crashed
+Error: 
+kill -9 %1
+RESTART REQUIRED
+signonpluginprocess
+The process cannot be started
+The process is started
+PROXY RESULT OPERATION:
+PROXY EXPECTED DATA SIZE:
+PLUGIN_RESPONSE_RESULT
+Unexpected plugin response: 
+PLUGIN_RESPONSE_STORE
+Unexpected plugin store: 
+PLUGIN_RESPONSE_UI
+QueryUserName
+CaptchaImage
+CaptchaUrl
+ui policy prevented ui launch
+open ui
+PLUGIN_RESPONSE_REFRESHED
+PLUGIN_RESPONSE_ERROR
+Unexpected plugin error: 
+PLUGIN_RESPONSE_SIGNAL
+Unexpected plugin signal: 
+../../../../src/signond/pluginproxy.cpp
+1onExit(int, QProcess::ExitStatus)
+2finished(int, QProcess::ExitStatus)
+1onError(QProcess::ProcessError)
+2error(QProcess::ProcessError)
+Failed to I/O session data to/from the authentication plugin.
+Plugin process exit with code 
+plugin process terminated because cannot change user
+1sessionDataReceived(const QVariantMap &)
+2dataReceived(const QVariantMap &)
+The signon plugin does not react on demand to stop: need to kill it!!!
+The signon plugin seems to ignore kill(), killing it from command line
+PluginProxy returned NULL result
+The process cannot load plugin
+Plugin returned type '%1', expected '%2'
+No information available on process
+Unknown operation code - skipping.
+Unexpected plugin ui response: 
+plugin has more to read after handling a response
+restartIfRequired
+queryMechanisms
+queryType
+onError
+onExit
+handlePluginResponse
+onReadStandardOutput
+blobIOError
+stop
+cancel
+processRefresh
+processUi
+createNewPluginProxy
+PluginProxy
+init
+QDBusVariant
+1handleUnixSignal()
+2activated(int)
+New p2p connection
+CAM initialization failed
+quit
+ Clearing DB
+*.so*
+plugin
+Creating new daemon instance.
+signal received: 
+ SIGHUP 
+ SIGTERM 
+ SIGINT 
+Backup does not contain DB:
+.bak
+Copy failed for:
+Could not recover:
+/Backup
+.Backup
+Copying
+close
+close daemon
+restore
+database cannot be closed
+Cannot copy database
+2stored(SignonIdentity*)
+1onIdentityDestroyed()
+2unregistered()
+Registering new identity:
+Registering identity:
+DONE REGISTERING IDENTITY
+Querying identities
+/etc
+SSO_CONFIG_FILE_DIR
+LoggingLevel
+XDG_CONFIG_HOME
+/.config
+/signond
+UseSecureStorage
+AuthSessionTimeout
+DaemonTimeout
+SSO_DAEMON_TIMEOUT
+SSO_IDENTITY_TIMEOUT
+SSO_AUTHSESSION_TIMEOUT
+SSO_LOGGING_LEVEL
+syslog
+SSO_LOGGING_OUTPUT
+SSO_STORAGE_PATH
+SSO_PLUGINS_DIR
+SSO_EXTENSIONS_DIR
+%1/signond/socket
+unix:path=%1
+cryptsetup
+ObjectTimeouts
+IdentityTimeout
+Loading plugin 
+Couldn't load plugin:
+lib*.so
+-backup
+Object cannot be registered
+Disconnected
+org.freedesktop.DBus.Local
+/org/freedesktop/DBus/Local
+1onDisconnected()
+1deleteLater()
+Cannot reopen database
+/usr/lib/x86_64-linux-gnu/signon
+/usr/lib/x86_64-linux-gnu/signon/extensions
+../../../../src/signond/signondaemon.cpp
+Couldn't create HUP socketpair
+Failed to register SignonDaemon object
+Signond: Cannot open CAM credentials system...
+Secure storage already initialized...
+Disconnected from session bus: exiting
+Authentication method is not known.
+com.google.code.AccountsSSO.SingleSignOn.Error.MethodNotKnown
+Could not load plugin of type: 
+Method %1 is not known or could not load specific configuration.
+SignonDaemon requires a QCoreApplication instance to be constructed first
+Backup directory does not exist!
+Ignoring file not present in backup:
+Restore failed, recovering previous DB
+com.google.code.AccountsSSO.SingleSignOn
+Cannot create target directory
+1onIdentityStored(SignonIdentity*)
+Querying database error occurred.
+Cannot create socket directory
+XDG_RUNTIME_DIR unset, disabling p2p bus
+Session connection cannot be established:
+SignonDaemon requires session bus to start working
+SignonDaemon requires to register backup object
+Service cannot be registered: 
+SignonDaemon requires to register backup service
+Signond initialized in backup mode.
+Connection cannot be established:
+SignonDaemon requires DBus to start working
+1onNewConnection(const QDBusConnection &)
+2newConnection(const QDBusConnection &)
+SignonDaemon requires to register daemon's object
+SignonDaemon requires to register daemon's service
+Signond: Cannot initialize credentials storage.
+Signond SUCCESSFULLY initialized.
+Could not create storage dir for backup.
+Failed to create empty file for backup:
+Cannot close credentials database
+Cannot create backup file tree.
+onDisconnected
+restoreFinished
+restoreStarts
+backupFinished
+backupStarts
+copyFromBackupDir
+copyToBackupDir
+bool SignonDaemonNS::SignonDaemon::clear()
+clear
+QList<QMap<QString, QVariant> > SignonDaemonNS::SignonDaemon::queryIdentities(const QVariantMap&)
+queryIdentities
+queryMechanisms
+getIdentity
+registerNewIdentity
+initStorage
+initExtension
+onNewConnection
+init
+instance
+handleUnixSignal
+setupSignalHandlers
+load
+~SignonDaemonConfiguration
+../../../../src/signond/signonidentityinfo.cpp
+Found unsupported QDBusArgument in key
+SignonIdentityInfo
+../../../../src/signond/signonidentityadaptor.cpp
+store
+signOut
+remove
+verifySecret
+verifyUser
+removeReference
+addReference
+getInfo
+requestCredentialsUpdate
+securityErrorReply
+uchar
+backupFinished
+backupStarts
+restoreFinished
+restoreStarts
+SignonDaemonNS::CredentialsAccessManager
+credentialsSystemReady
+onKeyInserted
+SignOn::Key
+onLastAuthorizedKeyRemoved
+onKeyRemoved
+onKeyAuthorizationQueried
+onEncryptedFSMounted
+onEncryptedFSUnmounting
+SignonDaemonNS::CredentialsDB
+credentialsUpdated
+SignonDaemonNS::DefaultCryptoManager
+SignonDaemonNS::DefaultKeyAuthorizer
+SignonDaemonNS::DefaultSecretsStorage
+QDBusMessage
+SignonDaemonNS::SignonSessionCore
+stateChanged
+requestId
+state
+message
+queryAvailableMechanisms
+wantedMechanisms
+process
+QDBusConnection
+connection
+QDBusMessage
+sessionDataVa
+mechanism
+cancelKey
+cancel
+setId
+credentialsSystemReady
+startNewRequest
+processResultReply
+data
+processStore
+processUiRequest
+processRefreshRequest
+processError
+stateChangedSlot
+queryUiSlot
+QDBusPendingCallWatcher*
+call
+SignonDaemonNS::SignonAuthSessionAdaptor
+D-Bus Interface
+com.google.code.AccountsSSO.SingleSignOn.AuthSession
+stateChanged
+state
+message
+unregistered
+queryAvailableMechanisms
+wantedMechanisms
+process
+sessionDataVa
+mechanism
+cancel
+Q_NOREPLY
+setId
+objectUnref
+SignonDaemonNS::SignonAuthSession
+stateChanged
+state
+message
+unregistered
+queryAvailableMechanisms
+wantedMechanisms
+process
+sessionDataVa
+mechanism
+cancel
+setId
+objectUnref
+stateChangedSlot
+sessionKey
+QDBusContext
+SignonDaemonNS::SignonIdentity
+unregistered
+infoUpdated
+stored
+SignonIdentity*
+identity
+requestCredentialsUpdate
+message
+getInfo
+addReference
+reference
+removeReference
+verifyUser
+params
+verifySecret
+secret
+remove
+signOut
+store
+info
+A Santa lives evil at NASA
+queryUiSlot
+QDBusPendingCallWatcher*
+call
+verifyUiSlot
+removeCompleted
+signOutCompleted
+onCredentialsUpdated
+SignonDaemonNS::SignonDaemonAdaptor
+D-Bus Interface
+com.google.code.AccountsSSO.SingleSignOn.AuthService
+registerNewIdentity
+QDBusObjectPath&
+objectPath
+getIdentity
+QVariantMap&
+identityData
+getAuthSessionObjectPath
+type
+queryMethods
+queryMechanisms
+method
+queryIdentities
+filter
+clear
+onIdentityAccessReplyFinished
+onAuthSessionAccessReplyFinished
+SignonDaemonNS::SignonDaemon
+onDisconnected
+onNewConnection
+QDBusConnection
+connection
+onIdentityStored
+SignonIdentity*
+identity
+onIdentityDestroyed
+backupStarts
+backupFinished
+restoreStarts
+restoreFinished
+init
+handleUnixSignal
+SignonDaemonNS::SignonDisposable
+destroyUnused
+SignonDaemonNS::PluginProxy
+processResultReply
+data
+processStore
+processUiRequest
+processRefreshRequest
+processError
+error
+message
+stateChanged
+state
+type
+mechanisms
+process
+inData
+mechanism
+processUi
+processRefresh
+cancel
+stop
+onReadStandardOutput
+onReadStandardError
+onExit
+exitCode
+QProcess::ExitStatus
+exitStatus
+onError
+QProcess::ProcessError
+sessionDataReceived
+blobIOError
+SignonDaemonNS::PluginProcess
+SignonUiAdaptor
+queryDialog
+QDBusPendingCall
+parameters
+refreshDialog
+cancelUiRequest
+requestId
+removeIdentityData
+SignonDaemonNS::SignonIdentityAdaptor
+D-Bus Interface
+com.google.code.AccountsSSO.SingleSignOn.Identity
+unregistered
+infoUpdated
+requestCredentialsUpdate
+message
+getInfo
+addReference
+reference
+removeReference
+verifyUser
+params
+verifySecret
+secret
+remove
+signOut
+store
+info
+BackupIfAdaptor
+D-Bus Interface
+com.nokia.backupclient
+D-Bus Introspection
+  <interface name="com.nokia.backupclient">
+    <method name="backupStarts">
+      <arg direction="out" type="y"/>
+    </method>
+    <method name="backupFinished">
+      <arg direction="out" type="y"/>
+    </method>
+    <method name="restoreStarts">
+      <arg direction="out" type="y"/>
+    </method>
+    <method name="restoreFinished">
+      <arg direction="out" type="y"/>
+    </method>
+  </interface>
+backupFinished
+backupStarts
+restoreFinished
+restoreStarts
+;*3$"
+254cf0f1156dfca8e22b5cfe6d73a925a070aa.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.data.rel.ro
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

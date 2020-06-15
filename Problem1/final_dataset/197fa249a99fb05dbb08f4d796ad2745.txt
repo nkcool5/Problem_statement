@@ -1,0 +1,611 @@
+/lib64/ld-linux-x86-64.so.2
+	B14
+|k	C
+libdfu.so.1
+g_bytes_get_data
+g_intern_static_string
+as_utils_version_from_uint16
+g_main_loop_quit
+g_bytes_get_size
+g_ptr_array_new_with_free_func
+__gmon_start__
+_Jv_RegisterClasses
+g_object_unref
+g_strcmp0
+g_bytes_new
+g_strdup
+g_string_new
+g_main_loop_new
+_ITM_deregisterTMCloneTable
+g_ptr_array_add
+g_assertion_message_expr
+g_object_new
+g_object_ref
+_ITM_registerTMCloneTable
+g_strdup_printf
+g_string_free
+g_type_check_class_cast
+g_ascii_strtoull
+g_return_if_fail_warning
+g_set_error
+g_error_matches
+g_type_check_instance_is_a
+g_source_remove
+g_signal_connect_data
+g_type_check_instance_cast
+g_type_register_static_simple
+g_strsplit
+g_bytes_unref
+g_malloc0
+g_set_error_literal
+g_string_insert_c
+g_main_loop_unref
+g_once_init_enter
+g_error_free
+g_strfreev
+g_str_has_suffix
+g_ptr_array_unref
+g_timeout_add
+g_once_init_leave
+g_main_loop_run
+g_string_append
+alula
+g_type_class_peek_parent
+g_string_append_printf
+g_log
+g_type_class_adjust_private_offset
+dfu_element_set_target_size
+dfu_image_set_name
+dfu_image_get_element
+dfu_version_to_string
+dfu_context_get_device_by_vid_pid
+dfu_target_get_cipher_kind
+dfu_target_download
+dfu_device_get_serial_number
+dfu_target_get_alt_name_for_display
+dfu_device_get_target_by_alt_setting
+dfu_device_get_transfer_size
+dfu_error_quark
+dfu_firmware_set_release
+dfu_firmware_get_format
+dfu_firmware_to_string
+dfu_firmware_parse_file
+dfu_element_set_address
+dfu_device_get_usb_dev
+dfu_firmware_get_release
+dfu_device_close
+dfu_device_download
+dfu_device_detach
+dfu_image_get_size
+dfu_image_set_alt_setting
+dfu_mode_to_string
+dfu_firmware_set_format
+dfu_cipher_decrypt_xtea
+Beeb
+dfu_firmware_add_image
+dfu_firmware_set_vid
+dfu_device_attach
+dfu_context_get_device_default
+dfu_device_get_state
+dfu_device_get_quirks_as_string
+dfu_firmware_get_images
+dfu_device_get_display_name
+dfu_device_upload
+dfu_device_wait_for_replug
+dfu_cipher_decrypt_devo
+dfu_status_to_string
+dfu_firmware_set_pid
+dfu_device_get_runtime_vid
+dfu_firmware_format_to_string
+dfu_context_new
+dfu_firmware_get_image_default
+dfu_device_get_mode
+dfu_firmware_get_vid
+dfu_firmware_set_metadata
+dfu_device_get_target_by_alt_name
+dfu_device_set_transfer_size
+dfu_firmware_format_from_string
+dfu_cipher_encrypt_xtea
+Degas are we not drawn onward no In union drawn onward to new eras aged
+dfu_target_upload
+dfu_device_get_runtime_pid
+dfu_firmware_get_image
+dfu_device_get_status
+dfu_target_get_alt_setting
+dfu_image_get_elements
+dfu_firmware_get_image_by_name
+dfu_firmware_get_pid
+dfu_image_get_alt_setting
+dfu_device_open
+dfu_cipher_encrypt_devo
+dfu_context_get_devices
+dfu_element_set_padding_value
+dfu_firmware_new
+dfu_device_get_targets
+dfu_state_to_string
+dfu_device_get_version
+dfu_firmware_get_size
+dfu_element_get_contents
+dfu_firmware_remove_metadata
+dfu_cipher_kind_to_string
+dfu_target_get_sectors
+dfu_sector_to_string
+dfu_context_enumerate
+dfu_firmware_write_file
+libappstream-glib.so.8
+Tacocat
+g_print
+g_malloc
+g_strv_length
+g_ptr_array_sort
+g_file_new_for_path
+libgio-2.0.so.0
+g_setenv
+g_option_context_free
+g_string_set_size
+g_object_set_data_full
+g_option_context_new
+g_cancellable_cancel
+g_cancellable_new
+libgusb.so.2
+g_usb_device_get_vid
+g_usb_device_get_release
+g_usb_device_get_pid
+libgobject-2.0.so.0
+libglib-2.0.so.0
+g_source_set_name_by_id
+g_strnfill
+g_unix_signal_add_full
+g_option_context_get_help
+g_format_size_full
+g_option_context_parse
+g_option_context_add_main_entries
+g_option_context_set_summary
+g_set_application_name
+libpthread.so.0
+write
+libc.so.6
+setlocale
+dcgettext
+__stack_chk_fail
+bind_textdomain_codeset
+strlen
+memcmp
+memcpy
+bindtextdomain
+__libc_start_main
+_edata
+__bss_start
+dfu_progress_bar_set_size
+_IO_stdin_used
+dfu_progress_bar_new
+dfu_progress_bar_get_type
+dfu_progress_bar_start
+dfu_progress_bar_set_padding
+__data_start
+__libc_csu_init
+dfu_progress_bar_set_percentage
+__libc_csu_fini
+dfu_progress_bar_end
+LIBGUSB_0.1.0
+GLIBC_2.4
+GLIBC_2.14
+GLIBC_2.2.5
+AWAVAUATUSH
+t$ dH
+|$@I
+D$xv
+D$@H
+D$XH
+D$`H
+D$pH
+D$0H
+D$ H
+D$8H
+T$ H
+t$,H
+Eleele
+|$8H
+[]A\A]A^A_
+D$8H
+|$81
+D$8H
+D$8H
+UH-(
+5Wz 
+ATUI
+|$0H
+[]A\H
+[]A\
+ATUSH
++C(9
+et6H
+C0x4
+AWAVA
+AUATI
+cwFH
+[]A\A]A^A_
+=av 
+=zu 
+cv#H
+cv#H
+AVAUI
+ATUSH
+[]A\A]A^1
+]A\A]A^
+t?X[]
+AUATI
+[]A\A]1
+AWAVI
+AUATH
+[]A\A]A^A_
+AWAVI
+AUATH
+[]A\A]A^A_
+AWAVI
+AUATH
+[]A\A]A^A_
+AWAVI
+AUATH
+[]A\A]A^A_
+AWAVI
+AUATH
+[]A\A]A^A_
+AWAVI
+AUATI
+D$(1
+uhE1
+L$(dH3
+8[]A\A]A^A_
+T$ H
+D$ I
+AWAVI
+AUATH
+([]A\A]A^A_
+$wtH
+$tMH
+AWAVI
+AUATH
+[]A\A]A^A_
+AWAVAUATUSH
+D$(1
+D$ E1
+L$(dH3
+8[]A\A]A^A_
+AWAVI
+AUATUSH
+|$0H
+T$(dH
+[]A\A]A^A_
+D$PH
+D$0L
+D$(1
+D$XH
+D$PH
+|$(H
+D$ t:L
+D$pH
+D$8H
+D$@H
+D$xH
+D$dH
+l$`H
+t$8H
+t$@H
+t$HH
+|$ I
+L;t$xH
+L9t$p
+D$pI
+t$xH
+T$xH
+|$xL
+D$d9A
+D$0H
+L$(H
+t$XH
+|$PH
+|$(H
+AWAVI
+AUATH
+t$ H
+[]A\A]A^A_
+D$ H
+D$,L
+D$ H
+AWAVI
+AUATH
+[]A\A]A^A_
+AWAVI
+AUATH
+([]A\A]A^A_
+AWAVAUATUSH
+|$0dH
+D$h1
+L$XH
+L$8H
+L$`H
+|$XH
+D$0H
+L$81
+D$@t#H
+|$`H
+|$XH
+D$`H
+D$XH
+L$hdH3
+x[]A\A]A^A_
+AWAVI
+AUATH
+[]A\A]A^A_
+AWAVI
+AUATH
+[]A\A]A^A_
+ATUI
+[]A\
+AUATH
+[]A\A]
+]A\A]
+AUATI
+[]A\A]
+AWAVI
+AUATH
+D$(1
+L$(dH3
+8[]A\A]A^A_
+AWAVI
+AUATH
+[]A\A]A^A_
+AWAVAUATI
+ufE1
+([]A\A]A^A_
+AVAUI
+ATUI
+]A\A]A^
+AVAUATUI
+[]A\A]A^
+AUATI
+[]A\A]
+AWAVH
+AUATH
+[]A\A]A^A_
+AWAVA
+AUATL
+[]A\A]A^A_
+Only wrote %li of %li bytes
+(%i%%)  
+        
+/dev/tty
+/dev/console
+/dev/stdout
+self->tty_fd > 0
+dfu-progress-bar.c
+DfuProgressBar
+DFU_IS_PROGRESS_BAR (object)
+DFU_IS_PROGRESS_BAR (self)
+padding < 100
+size < 100
+%s%s
+skipping as the same
+[DfuProgressBar] pulse
+FIXME: need to call dfu_progress_bar_start() earlier!
+percentage <= DFU_PROGRESS_BAR_PERCENTAGE_INVALID
+dfu_progress_bar_end
+dfu_progress_bar_start
+dfu_progress_bar_set_percentage
+dfu_progress_bar_set_size
+dfu_progress_bar_set_padding
+dfu_progress_bar_finalize
+dfu_progress_bar_init
+BHandling SIGINT
+Cancelled
+Reading
+Writing
+Verifying
+Erasing
+Detaching
+Attaching
+Failed to parse VID '%s'
+Failed to parse PID '%s'
+found no image '%s'
+A Santa lives evil at NASA
+Failed to parse version '%s'
+image != NULL
+dfu-tool.c
+Failed to parse address '%s'
+nothing to parse
+failed to parse '%s'
+search string was not found
+Replacing %lu bytes @0x%04x
+search_sz == replace_sz
+New merged file:
+DFU: %s
+Loading %s:
+Failed to load firmware: %s
+Found
+%s %04x:%04x [v%s]:
+Protocol
+Unknown: permission denied
+Status
+Name
+Serial
+Mode
+State
+Transfer Size
+Quirks
+Error: %s
+Cipher
+Region
+%s 0x%02x
+No default image
+No default element
+No image contents
+.xdfu
+.dfu
+xtea
+CipherKind
+devo
+wrote %s
+XTEA
+DEVO
+Invalid format of VID:PID
+DfuContext
+action-changed
+percentage-changed
+detaching
+no default image
+%04x:%04x [%s]
+%04x:%04x [%s:%s]
+Changed
+Removed
+Added
+device-added
+device-removed
+device-changed
+cancelled
+Alias to %s
+name != NULL
+description != NULL
+callback != NULL
+version
+Print the version number
+verbose
+device
+transfer-size
+BYTES
+God A red nugget A fat egg under a dog
+force
+/usr/share/locale
+fwupd
+UTF-8
+convert
+merge
+set-vendor
+set-product
+set-address
+set-target-size
+set-release
+set-alt-setting
+set-alt-setting-name
+attach
+read
+read-alt
+write
+write-alt
+list
+detach
+dump
+watch
+Encrypt firmware data
+encrypt
+Decrypt firmware data
+decrypt
+set-metadata
+replace-data
+DFU Utility
+Failed to parse arguments
+%s: %s
+G_MESSAGES_DEBUG
+0.8.3
+%s %s
+Command not found
+Invalid arguments, expected FILE KEY VALUE -- e.g. `firmware.dfu Licence GPL-2.0+
+Only possible on DFU/DfuSe images, try convert
+Invalid arguments, expected FILE VID -- e.g. `firmware.dfu 273f
+Invalid arguments, expected FILE PID -- e.g. `firmware.dfu 1004
+Invalid arguments, expected FILE ALT-NAME -- e.g. `firmware.dfu ST
+Only possible on DfuSe images, try convert
+Invalid arguments, expected FILE ALT-ID -- e.g. `firmware.dfu 1
+Failed to parse alternative setting '%s'
+Invalid arguments, expected FILE RELEASE -- e.g. `firmware.dfu ffff
+invalid format, expected 'major.minor'
+Invalid arguments, expected FILE SIZE [VAL] -- e.g. `firmware.dfu 8000 ff
+Cannot pad DfuSe image, try DFU
+Failed to parse target size '%s'
+Failed to parse padding value '%s'
+Invalid arguments, expected FILE ADDR -- e.g. `firmware.dfu 8000
+Cannot set address of %s image, try DfuSe
+Invalid arguments, expected FILE SEARCH REPLACE -- e.g. `firmware.dfu deadbeef beefdead
+search and replace were different sizes
+Invalid arguments, expected FILE-OUT FILE1 FILE2 [FILE3...] -- e.g. `combined.dfu lib.dfu app.dfu`
+Vendor ID was already set as 0x%04x, %s is 0x%04x
+Product ID was already set as 0x%04x, %s is 0x%04x
+Release was already set as 0x%04x, %s is 0x%04x
+Adding alternative setting ID of 0x%02x
+The alternative setting ID of 0x%02x has already been added
+WARNING: The alternative setting ID of 0x%02x has already been added
+Invalid arguments, expected FORMAT FILE-IN FILE-OUT -- e.g. `dfu firmware.hex firmware.dfu`
+unknown format '%s', expected [%s]
+Invalid arguments, expected FILENAME
+Invalid arguments, expected FILENAME-IN FILENAME-OUT TYPE KEY -- e.g. firmware.xdfu firmware.dfu xtea deadbeef
+Invalid filename, expected *.xdfu
+Invalid filename, expected *.dfu
+unknown type '%s', expected [xtea:devo]
+Invalid arguments, expected FILENAME-IN FILENAME-OUT TYPE KEY -- e.g. firmware.dfu firmware.xdfu xtea deadbeef
+unknown type '%s', expected [xtea|devo]
+Invalid arguments, expected FILENAME DEVICE-ALT-NAME|DEVICE-ALT-ID [IMAGE-ALT-NAME|IMAGE-ALT-ID]
+Failed to parse alt-setting '%s'
+Failed to parse image alt-setting '%s'
+could not locate image in firmware for %02x
+WARNING: Using default firmware image
+%u bytes successfully downloaded to device
+Invalid arguments, expected FILENAME DEVICE-ALT-NAME|DEVICE-ALT-ID
+%u bytes successfully uploaded from device
+Print verbose debug statements
+Specify Vendor/Product ID(s) of DFU device
+Specify the number of bytes per USB transfer
+Force the action ignoring all warnings
+Convert firmware to DFU format
+Merge multiple firmware files into one
+Set vendor ID on firmware file
+Set product ID on firmware file
+Set element address on firmware file
+Set the firmware size for the target
+Set release version on firmware file
+Set alternative number on firmware file
+Do nine men interpret Nine men I nod
+Set alternative name on firmware file
+Attach DFU capable device back to runtime
+Read firmware from device into a file
+Read firmware from one partition into a file
+Write firmware from file into device
+Write firmware from file into one partition
+List currently attached DFU capable devices
+Detach currently attached DFU capable device
+Dump details about a firmware file
+Watch DFU devices being hotplugged
+Sets metadata on a firmware file
+Replace data in an existing firmware file
+dfu_tool_add
+dfu_tool_set_address
+dfu_tool_set_target_size
+dfu_tool_bytes_replace
+;*3$"
+d8f3100b81eae6a4e8a4a2b31684224c1fb358.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+Borrow or rob
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

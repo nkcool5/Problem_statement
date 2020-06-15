@@ -1,0 +1,6808 @@
+/lib64/ld-linux-x86-64.so.2
+d!PI
+DP0.
+h@	0	
+yYHP
+N?D 
+T@@ZF
+C+2A
+$(Y	
+%n^D)
+DQ1u
+G+/`N
+\[;(
+no+}:h
+,c;!
+qo3g
+W5Cq
++=DBj%
+4+ew>
+J[PN
+E%q9
+DD,R:
+&iprer
+fL%RYS
+pT][p
+R?h,[
+I=E]wh$f
+n/vz
+t+ VI:V
+h/2}>tf
+<yx=
+4a!pHHr
+`Rv7K%a
+)0S1uE
+d8ER
+5 JI
+ oY%<
+_4171
+W`	(
+8-6P
++"6(
+%(x</
+obgu
+S>>.
+a ="
+c%~|
+	)qjFE
+GmEh
+~Ojw
+y`D<
+V8{!
+k]9j
+u> A
+T*-v 
+|-4`
+t$7A
+1*'Q
+}&62}
+3QS-}
+]D	I&
+G+Y@
+3pZg
+]/.8)pt
+p(],=J
+	&*2
+>:_p
+q#u?
+geOX
+*8nz
+(Tg3~
+:$j`
+:EId
+xZ8"
+y	Bg
+libsystemd.so.0
+__gmon_start__
+_ITM_deregisterTMCloneTable
+_ITM_registerTMCloneTable
+_Jv_RegisterClasses
+sd_notify
+libicuuc.so.55
+u_getCombiningClass_55
+u_getIntPropertyValue_55
+God A red nugget A fat egg under a dog
+u_charFromName_55
+u_charName_55
+unorm_normalize_55
+libbluetooth.so.3
+sdp_process
+sdp_close
+hci_open_dev
+sdp_record_free
+sdp_extract_pdu
+sdp_extract_seqtype
+sdp_set_notify
+sdp_service_search_attr_async
+hci_get_route
+sdp_uuid_to_proto
+sdp_list_append
+sdp_uuid128_create
+sdp_get_error
+sdp_list_free
+sdp_get_access_protos
+hci_send_cmd
+sdp_create
+libdl.so.2
+dlclose
+dlsym
+dladdr
+dlopen
+dlerror
+libgpm.so.2
+gpm_tried
+Gpm_Close
+Gpm_GetEvent
+_gpm_arg
+_gpm_buf
+gpm_fd
+Gpm_Open
+gpm_consolefd
+gpm_zerobased
+libpthread.so.0
+pthread_setname_np
+pthread_rwlock_trywrlock
+pthread_mutex_destroy
+send
+pthread_self
+pthread_rwlock_wrlock
+__libc_current_sigrtmin
+pthread_getname_np
+pthread_sigmask
+tcdrain
+pthread_mutex_init
+pthread_mutexattr_settype
+pthread_rwlock_unlock
+recv
+__errno_location
+pthread_kill
+pthread_mutex_lock
+pthread_mutexattr_init
+pthread_setspecific
+accept
+fcntl
+pthread_rwlock_init
+pthread_create
+pthread_join
+sigaction
+pthread_getspecific
+funlockfile
+__libc_current_sigrtmax
+pthread_rwlock_tryrdlock
+pthread_attr_init
+pthread_key_create
+pthread_rwlock_rdlock
+connect
+pthread_attr_setstacksize
+flockfile
+pthread_rwlock_destroy
+pthread_mutex_unlock
+nanosleep
+pthread_attr_setdetachstate
+lseek
+waitpid
+libc.so.6
+iswalpha
+socket
+wmemset
+fflush
+strcpy
+wmemcmp
+__printf_chk
+readdir
+setlocale
+mbrtowc
+srand
+towlower
+fopen
+gai_strerror
+strncmp
+ftruncate
+dcngettext
+optind
+strrchr
+regexec
+pipe
+__strdup
+__progname
+dcgettext
+wmemcpy
+__fdelt_chk
+closedir
+inet_ntoa
+fchdir
+strncpy
+fork
+ioperm
+iswspace
+sigprocmask
+regfree
+sigfillset
+__stack_chk_fail
+__lxstat
+putchar
+listen
+select
+mkdir
+realloc
+towupper
+stdin
+_exit
+strpbrk
+getpid
+strspn
+strftime
+chmod
+iswalnum
+localtime_r
+iswlower
+strtod
+strtok
+strtol
+isatty
+setmntent
+feof
+cfsetispeed
+fgets
+getpwnam
+calloc
+strlen
+wcschr
+signalfd
+sigemptyset
+openlog
+getaddrinfo
+glob
+strstr
+tcsetattr
+bind
+getnameinfo
+__syslog_chk
+getsockopt
+mempcpy
+clearerr
+poll
+__fprintf_chk
+sigaddset
+iswupper
+getgrnam
+stdout
+fputc
+fputs
+fclose
+__memmove_chk
+getmntent
+__vsnprintf_chk
+strtoul
+setsockopt
+malloc
+strcasecmp
+nl_langinfo
+opendir
+__ctype_b_loc
+getenv
+sscanf
+__open_2
+regcomp
+optarg
+stderr
+sigdelset
+ioctl
+__snprintf_chk
+optopt
+__memset_chk
+readlink
+getegid
+getopt_long
+execvp
+freopen
+strncasecmp
+__xmknod
+__fxstat
+__realpath_chk
+fileno
+getcwd
+fwrite
+fread
+iconv_close
+gettimeofday
+geteuid
+statfs
+__memcpy_chk
+sigismember
+clock_gettime
+tcflush
+backtrace
+difftime
+strchr
+iswdigit
+iswcntrl
+endmntent
+addmntent
+mktime
+iconv
+fdopen
+qsort
+iconv_open
+tcgetattr
+__ctype_toupper_loc
+__ctype_tolower_loc
+freeaddrinfo
+setsid
+cfsetospeed
+__xstat
+mount
+iswpunct
+wmemchr
+backtrace_symbols
+bindtextdomain
+access
+opterr
+mkfifo
+strcmp
+__libc_start_main
+ferror
+wcslen
+globfree
+closelog
+snprintf
+wmemmove
+program_invocation_short_name
+__cxa_atexit
+_edata
+__bss_start
+_end
+usbWriteData
+serialSetFlowControl
+usbHidFillReportDescription
+logCategoryFlags
+bthOpenConnection
+unrequireAllBlinkDescriptors
+convertUtf8ToWchar
+identifyScreenDriver
+enqueueKeyEvent
+asyncDeallocateWaitData
+newKeyboardMonitorObject
+midiNoteMethods
+usbGetDeviceDescriptor
+restartTimePeriod
+destroyTextTableData
+ensureAttributesTableExtension
+startSpeechDriverThread
+logLevelCount
+api_start
+serialPutSpeed
+handleCommandAlarm
+handleActivityStartAlarm
+gioInitializeDescriptor
+halfWindowShift
+getQueueData
+millisecondsTillNextMinute
+setTextTableByte
+describeScreen
+getQueueHead
+writeSocketDescriptor
+destroyContractionTable
+saveDataItem
+autospeak
+brlttyWait
+asyncAddSignalEntry
+usbControlTransfer
+usbSetAlternative
+makeOutputTable
+getMenuItemTitle
+brlapiserver_readPacket
+makeKeyTablePath
+report
+applyBrailleDisplayOrientation
+validateScreenBox
+adjustTimeValue
+brl_version_no
+serialPutLines
+describeBaseScreen
+logPartialPacket
+usbMonitorInputPipe
+serialPutStopBits
+convertUtf8ToChar
+newTextMenuItem
+canMonitorConsoleBell
+categoryLogLevel
+loadSpeechDriver
+setWorkingDirectory
+logBytes
+approximateDelay
+serialRestartDevice
+processIfNotVarOperands
+getCurrentTime
+changeSpeechParameters
+bthWriteData
+serialCancelInput
+closeFile
+usbFindSerialAdapter
+canMonitorLeds
+cancelProgram
+logDiscardedByte
+api_parameters
+makeKeyNumberSet
+gioGetHidFeature
+commandModifierTable_toggle
+asyncSignalEvent
+getUncontractedCursorOffset
+canSetSpeechPitch
+writePcmData
+unlockCharset
+serialWaitLine
+stderrLogLevel
+beginUpdates
+gioNewHandleInputObject
+getElementItem
+asyncWithAllSignalsBlocked
+closeSocket
+serialFlushOutput
+copyKeyValues
+disableScreenDriver
+includeGpmScreen
+apiConnectionsMutex
+openMidiDevice
+serialDrainOutput
+commandTable
+hasFileExtension
+findLastNonSpaceCharacter
+enableUinputLed
+validateFloat
+unsupportedDevice
+screen
+gioNullClass
+getCharacterCoordinates
+identifyBrailleDriver
+shiftBrailleWindowLeft
+millisecondsBetween
+setCharset
+asyncMonitorSocketAlert
+api_identify
+destroyNamedPipeObject
+forwardKeyEvent
+usbLogSetupPacket
+setConsoleBellMonitoring
+resumeCommandQueue
+writeDotsCell
+getIntegerNoteFrequency
+serialGetCharacterSize
+asyncExecuteAlarmCallback
+newSpeechInputObject
+getCharacterName
+bthGetData
+destroyKeyboardInstanceObject
+reportDataError
+compareKeywords
+makeInputTable
+authPerform
+usbAddInputFilter
+destroyKeyboardMonitorObject
+getStackElement
+api_claimDriver
+processKeyEvent
+gioGetApplicationData
+writePort1
+getHelpPageNumber
+getIntegerSpeechRate
+isMenuItemVisible
+removeService
+asyncHandleAddTaskEvent
+testEndLearnWait
+AL_channelOffsets
+replaceFileExtension
+dequeueItem
+validateFlag
+gioDisconnectResource
+formatAddress
+usbGetConfiguration
+compileAttributesTable
+destructRoutingScreen
+deleteKeyValue
+runTuneThread
+convertWcharToUtf8
+isAbbreviation
+isPosixLocale
+getTimeFormattingData
+registerProgramMemory
+apiDriverMutex
+api_handleKeyEvent
+serialDisconnectDevice
+getMonotonicElapsed
+processIfVarOperands
+logPossibleCause
+getMenuItemValue
+api_suspend
+asyncExecuteIoCallback
+stopMonitoringLeds
+logUnknownPacket
+shiftBrailleWindowRight
+suspendUpdates
+serialSetParameters
+reverseTranslationTable
+ensureFileExtension
+serialPutFlowControl
+usbDecodeString
+isContracting
+serialPollInput
+convertCharToUtf8
+disableSpeechDriver
+bthDiscoverChannel
+writeUtf8Character
+disablePorts
+createUinputDevice
+usbLogEndpointData
+setBrailleAutorepeat
+getWritableDirectory
+usbInterfaceDescriptor
+getAllOverrideDirectories
+createServerSocket
+getWcharCharset
+suppressAutospeak
+asyncResetAlarmEvery
+standardStreamArgument
+asyncAwaitCondition
+readBraillePacket
+writeBrailleMessage
+getContractedCursor
+setBlockingIo
+ensureKeyTableExtension
+gioReconfigureResource
+newNumericMenuItem
+enqueueUpdatedKeyGroup
+resetKeyTable
+serialParseBaud
+gioDestroyHandleInputObject
+_IO_stdin_used
+trackSpeech
+usbSubmitRequest
+scheduleUpdateIn
+getLocaleName
+gioGetResourceType
+handleKobjectUeventString
+getTextLength
+serialClearError
+serialParseParity
+textCount
+getTextTableItem
+parseDataString
+commandGroupCount
+openCharacterDevice
+getDeviceDirectory
+joinStrings
+getMenuItemText
+stopActivity
+serialBaudTable
+expandTimeValue
+testTuneThreadStarted
+pcmNoteMethods
+handleNamedPipeInput
+closeMountsTable
+haveSpeechDriver
+alula
+flushMidiDevice
+gioBluetoothClass
+usbConfigureDevice
+asyncWithSignalBlocked
+enqueueXtScanCode
+runCommand
+testThreadFunctionReturned
+isNumber
+addHelpPage
+destroyKeyboardInstanceExtension
+removeKeyValue
+getScreenParameters
+isSerialDevice
+usbCloseDevice
+changeMenuSettingPrevious
+asyncMonitorSocketOutput
+getUtf8Length
+serialFlowControlThread
+reconfigureBrailleWindow
+api_releaseDriver
+listKeyNames
+fullWindowShift
+serialParseFlowControl
+asyncReadSocket
+writeBrailleText
+getCurrentMenuItem
+preferenceCount
+asyncDeallocateIoData
+writeHexadecimalCharacter
+destroyMenu
+moveWindowLeft
+changeLogLevel
+getDevicePath
+landscapeDigits
+dotsTable_ISO11548_1
+handleTuneMessageEvent
+getPreferencesMenuItem_languageProfile
+resetPreferences
+findKeyValue
+midiInstrumentCount
+asyncWithSignalsBlocked
+getHelpPageCount
+accurateDelay
+renderStatusFields
+asyncExecuteTaskCallback
+asyncCancelRequest
+uppercaseLettersBlinkDescriptor
+convertTextToWchars
+changeMenuSettingScaled
+loadBrailleDriver
+bthReleaseConnectionExtension
+bthCloseConnection
+forEachKeyName
+usbVerifySerialNumber
+getThreadSpecificData
+haveStatusCells
+speechRequest_setVolume
+opt_textTable
+resetLongPressData
+getElementIdentifier
+findCommandEntry
+getCurrentCommandContext
+gioGetHidReportSize
+logInputProblem
+addKeyrange
+addMiscellaneousCommands
+newToolMenuItem
+serialGetCharacterBits
+isBluetoothDevice
+cancelProcess
+gpmResetConnection
+handleBestCharacter
+usbReapResponse
+canSetBrailleFirmness
+asyncMonitorEventPipe
+logTransformedCommand
+usbGetDescriptor
+identifySpeechDrivers
+changeBrailleDevice
+loadPreferencesFile
+getScreenCursorDots
+logCategoryName_all
+logUnsupportedOperation
+convertCharToWchar
+brailleWindowUpdatedListener
+setThreadName
+switchScreenVirtualTerminal
+textHasChanged
+brlapi_handleReports
+keyboardFunctionTable
+setBaseDataVariables
+usbParseVendorIdentifier
+opt_attributesTable
+stopMidiNote
+selectTextTable
+writeEscapedCharacter
+attributesUnderlineBlinkDescriptor
+getDataSize
+getUnicodeCellEntry
+identifySpeechDriver
+testInputOutputMonitor
+enableUinputSound
+gioSerialClass
+handleLongPressAlarm
+onProgramExit
+processAssignDefaultOperands
+processElseOperands
+usbReadData
+enableSpeechDriver
+serialSetStopBits
+usbFindDevice
+validateInteger
+endSpecialScreens
+stopContractionCommand
+initializeMainScreen
+asyncMonitorSocketInput
+getIntegerSpeechVolume
+verticalWindowShift
+isHexadecimalDigit
+findFirstNonSpaceCharacter
+constructSpeechDriverThread
+requeueElement
+asyncRelinquishSignalNumber
+asyncGetHandleElement
+ensureBrailleBuffer
+processTextTableStream
+asyncResetAlarmTo
+addLearnCommands
+gioMonitorInput
+processDataStream
+asyncObtainSignalNumber
+deleteElements
+getProgramPath
+brlttyStart
+getMonotonicTime
+isSpecialScreen
+setWritableDirectory
+serialSetDataBits
+addTextTableAlias
+extendStringSetting
+getElementQueue
+beginMidiBlock
+changeTextTable
+setScreenMessage
+installKernelModule
+resetOptions
+formatInputError
+isSameRow
+findItem
+serialSetParity
+gioSetBytesPerSecond
+logData
+writeUtf8Cells
+finishKeyTable
+getDefaultSpeechDriver
+serialDiscardInput
+changeMenuSettingNext
+readFile
+addHelpLine
+getLogCategoryTitle
+bthGetNameOfDevice
+DisplayKeyrangeList
+changeBrailleParameters
+isAbsolutePath
+writeRepeatDelay
+getLogCategoryName
+addMountEntry
+validateYesNo
+resolveDeviceName
+serialPutDataBits
+speechRequest_muteSpeech
+getScreenDriverDefinition
+drainBrailleOutput
+makeFilePath
+screenCursorBlinkDescriptor
+isMenuItemSettable
+freeKeyrangeList
+standardOutputName
+getMenuIndex
+serialGetParityBits
+setPcmChannelCount
+serialDiscardOutput
+opt_keyboardTable
+alertConsoleBell
+processEndIfOperands
+isInteger
+finishHostCommandStream
+registerCharacterSet
+savePreferences
+selectScreenVirtualTerminal
+usbVerifyProductDescription
+getBootParameters
+usbHidGetFeature
+processIncludeOperands
+handleInterceptedInputEvent
+awaitSocketOutput
+linuxKeyMap_ps2
+haveBrailleDriver
+keyboardFunctionCount
+changeContractionTable
+asyncWaitFor
+getIntegerSpeechPitch
+processHidKeyboardPacket
+getFloatSpeechPitch
+startBeep
+isTextOffset
+isQualifiedDevice
+speech
+getCharset
+changeMenuItemIndex
+getDataOperand
+usbHandleInputSignal
+serialGetBaudEntry
+setBrailleOffline
+getScreenPointer
+serialCancelOutput
+keyNameTables_keyboard
+getDefaultBrailleDriver
+changeBrailleDriver
+isUsbDevice
+gioTellResource
+scr_version_no
+usbReadEndpoint
+serialPutParity
+usbSetSerialParameters
+usbControlRead
+currentScreen
+gioClasses
+setGlobalDataVariable
+getMenuItemSubtitle
+loadDriver
+newKeyboardMonitorExtension
+fmStartTone
+enableUinputKey
+testProgramPath
+usbDestroyInputPipe
+asyncHandleSignalfdInput
+usbVerifyProductIdentifier
+isKeyword
+setLogCategory
+getWorkingDirectory
+tellSpeechLocation
+readBrailleCommand
+usbGetManufacturer
+presentMessage
+makeAttributesTablePath
+findPreferenceByName
+getFloatSpeechRate
+listDataVariables
+brlapiserver_getPacketTypeName
+usbBeginInput
+addNavigationCommands
+serialParseStopBits
+destroyDataArea
+enablePorts
+standardInputName
+notifyServiceReady
+handleTuneRequestEvent
+initializeSystemObject
+usbForgetDevices
+findElementWithItem
+gioWriteHidFeature
+moveWindowRight
+newTextTableData
+destroyActivity
+isSameAttributes
+usbEndpointDescriptor
+usbGetString
+getStackHead
+beepNoteMethods
+setInputOutputMonitor
+serialRegisterWaitLines
+allocateDataItem
+locatePathExtension
+destructScreenDriver
+usbSerialAdapterCount
+mainScreenUpdated
+setKeyboardEnabledFlag
+getFloatSpeechVolume
+gioConnectResource
+fmNoteMethods
+setStatusFields
+pushLogPrefix
+brlttyConstruct
+getHomeDirectory
+newActivity
+destroySpeechDriverThread
+monitorKeyboards
+installService
+statusStart
+fmResetCard
+retryMountsTableUpdate
+asyncAddTask
+readSocketDescriptor
+constructHelpScreen
+fmEnablePorts
+asyncMonitorFileOutput
+speechMessage_speechLocation
+getMenuItemIndex
+addToggleCommands
+usbReleaseInterface
+listKeyTable
+bthMonitorInput
+gioAskResource
+usbGetOutputEndpoint
+destructSpeechDriver
+setScreenCharacterAttributes
+asyncEmptySignalHandler
+listKeyboardFunctions
+enableUinputEventType
+serialTestLineDSR
+gioWriteHidReport
+processHostCommandStreams
+serialPutData
+replaceTextTable
+ensureContractionTableExtension
+canSetTouchSensitivity
+scheduleUpdate
+handleThreadFunctionReturned
+makePortraitFlag
+usbClaimInterface
+processOptions
+readSocket
+AL_channelCount
+canSetSpeechPunctuation
+checkKeyboardProperties
+setPcmAmplitudeFormat
+getCellsOperand
+awaitBrailleInput
+changeScreenDriver
+ringBell
+compileContractionTable
+logActionError
+usbControlWrite
+usbSerialOperations_CDC_ACM
+stopMonitoringConsoleBell
+serialGetStream
+destroyTextTable
+unhighlightScreenRegion
+canDrainSpeech
+addPreferencesCommands
+findElement
+gioReadData
+isSpecialKey
+testSpeechResponseReceived
+processQueue
+createThread
+canSetBrailleAutorepeat
+cmdBrlapiToBrltty
+makeLandscapeNumber
+logShortPacket
+serialPutInitialAttributes
+asyncIgnoreSignal
+usbGetInputEndpoint
+usbConfigurationDescriptor
+addInputCommands
+asyncMonitorSignal
+makeTimeValue
+isUnqualifiedDevice
+getPrimaryOverrideDirectory
+opt_midiDevice
+usbVerifyString
+placeBrailleWindowHorizontally
+asyncResetAlarmIn
+changeStringSetting
+usbAllocateEndpointExtension
+tunePlayNotes
+usbReadDeviceDescriptor
+insertKeyValue
+formatSeconds
+apiSuspendMutex
+getCharacterByName
+logLevelNames
+preferenceTable
+getDataCharacter
+listHotkeys
+callThreadFunction
+makeInputTablePath
+constructSpeechSynthesizer
+getParameters
+destructHostCommandPackageData
+convertCharacterToDots
+initializeFrozenScreen
+getPcmSampleMaker
+releaseLock
+isMainScreen
+destroyInputEventMonitor
+brlDotBits
+createPidFile
+registerProgramStream
+brlttyPrepare
+cmdBrlttyToBrlapi
+serialAwaitOutput
+linuxKeyMap_atE0
+writeBrailleWindow
+noScreen
+handleFreezeReminderAlarm
+getRevisionIdentifier
+identifyBrailleDrivers
+compareKeyword
+setStatusText
+createThreadSpecificDataKeyWithSignalsBlocked
+gioGetResourceName
+awaitFileAlert
+startMonitoringLeds
+getMenuSize
+brlttyDisableInterrupt
+getPreferencesMenuItem_attributesTable
+commandGroupTable
+translateInputCells
+fillStatusSeparator
+asyncClaimSignalNumber
+usbVerifyVendorIdentifier
+handleInputAlarm
+usbDeallocateEndpointExtension
+refreshScreen
+unloadSharedObject
+readFileDescriptor
+asyncDiscardHandle
+serialWriteData
+endMidiBlock
+makeSeascapeNumber
+getHighestNote
+trackScreenCursor
+isMenuItemAction
+processListVariablesOperands
+removeKeyrange
+brlttyInterrupt
+handleServerFlushEvent
+getQueueSize
+brlttyEnableInterrupt
+usbSetInputError
+serialAwaitInput
+serialGetAttributes
+enqueueCommand
+makePortraitNumber
+translateOutputCell
+gioGetHidReport
+serialGetStopBits
+logIgnoredByte
+beginProgram
+textStart
+isPathDelimiter
+reportBrailleWindowMoved
+usbGetSerialNumber
+AL_writeRegister
+api_stop
+cellsHaveChanged
+awaitFileOutput
+gioWriteData
+newKeyboardInstanceExtension
+readScreen
+asyncHandleSignal
+awaitSocketInput
+handleSpeechMessageEvent
+testFilePath
+usbStringEquals
+bthOpenChannel
+unlockMutex
+beginCommandQueue
+haveDriver
+deactivateSpecialScreen
+compareKeyValues
+isDriverAvailable
+openSystemLog
+serialValidateBaud
+writeBrailleCharacters
+serialEnsureFileDescriptor
+api_flush
+openLogFile
+learnMode
+newStringsMenuItem
+flushStream
+readScreenText
+getRoutingStatus
+setSpeechPunctuation
+handleStickyModifiersTimeout
+asyncMakeHandle
+brlDotBitToIndex
+validateOnOff
+serialMonitorInput
+handleUpdateBrailleOnline
+openDataFile
+asyncWithObtainableSignalsBlocked
+changeMenuItemLast
+isActivityStopped
+gioGetBytesPerSecond
+gioUsbClass
+findDataOperand
+commandModifierTable_character
+startRouting
+startMidiNote
+handleInputMonitor
+joinPath
+usbEnqueueInput
+getMenuItemComment
+midiGetInstrumentType
+serialCloseDevice
+pushCommandHandler
+brlDotNumberToIndex
+serialMonitorWaitLines
+asyncMonitorFileAlert
+showDotPattern
+fillTextRegion
+usbLogString
+bthForgetDevices
+changeMenuItemNext
+asyncMonitorFileInput
+writeFileDescriptor
+destructBrailleDriver
+placeBrailleWindowRight
+enqueueKey
+getMenuItem
+translateOutputCells
+suspendCommandQueue
+fmStopTone
+awaitPcmOutput
+keycodeCommandDataResetListener
+setBrailleFirmness
+isExplicitPath
+makePreferencesFilePath
+getMenuNumber
+linuxKeyMapDescriptors
+changeAttributesTable
+endProgram
+bthObtainDeviceName
+restartBrailleDriver
+getDefaultDriver
+toLowerDigit
+popLogPrefix
+releaseFileLock
+usbVerifyManufacturerName
+changeSpeechDriver
+asyncWriteFile
+cancelPcmOutput
+opt_releaseDevice
+addKeycodeCommands
+attemptFileLock
+unregisterReportListener
+bthReadData
+getDeviceParameters
+usbSerialOperations_FTDI_FT232BM
+compileKeyTable
+bthParseChannelNumber
+destructSpeechSynthesizer
+convertWcharToChar
+initializeHelpScreen
+awaitActivityStarted
+canSetSpeechVolume
+api_unlink
+updateSessionAttributes
+setNoScreen
+isDriverIncluded
+convertAttributesToDots
+speechMessage_speechFinished
+systemLogLevel
+makeUtf8FromWchars
+keyCodeCount
+changeMenuItemFirst
+readMountsTable
+usbHidGetItems
+keyCodeMap
+deallocateSessionEntries
+executeHostCommand
+mainScreen
+commandModifierTable_row
+programName
+pollScreen
+statusFieldsSet
+newKeyboardInstanceObject
+dotsTable_rotated
+isAllSpaceCharacters
+getPreferencesMenu
+loadPreferences
+handleSpeechRequestEvent
+userVirtualTerminal
+testTuneThreadStopping
+destroyKeyTable
+speechRequest_setRate
+prepareHostCommandStream
+runServer
+usbDeviceDescriptor
+opt_quietIfNoBraille
+enableScreenDriver
+testActivityStopped
+makeTranslationTable
+sayScreenCharacters
+usbAddPendingInputRequest
+savePreferencesFile
+usbHidItemLengths
+isAutospeakActive
+newFilesMenuItem
+newSubmenuMenuItem
+writeDotsCells
+splitString
+authEnd
+api_resume
+spk_version_no
+showBrailleText
+usbGetProduct
+deallocateStrings
+asynchronousBeep
+clearScreenCharacters
+asyncWriteSocket
+preferenceAliasTable
+commandModifierTable_input
+startMonitoringConsoleBell
+openPcmDevice
+awaitSocketAlert
+processConditionOperands
+destroySpeechInputObject
+bthInitializeConnectionRequest
+changeOpenFlags
+makePath
+initializeMenuScreen
+getQueueElement
+anyKeyboard
+opt_pcmDevice
+processDirectiveOperand
+logBacktrace
+awaitActivityStopped
+brlapiserver_writePacket
+statusCount
+serialWaitLineDSR
+standardErrorName
+compileTextTable
+logInputPacket
+forgetDevices
+formatCharacterDescription
+getPcmSampleRate
+forcePcmOutput
+usbHidSetReport
+convertDotsToCharacter
+changeScreenParameters
+testSpeechDriverThreadStopping
+speakCharacters
+brlDotNumbers
+handleAutospeakDelayAlarm
+newLockDescriptor
+portraitDigits
+createAnonymousPipe
+speechRequest_setPunctuation
+infoMode
+handleBlinkAlarm
+setLedMonitoring
+usbHandleCompletedInputRequests
+bthGetDriverCodes
+serialParseDataBits
+asyncGetThreadSpecificData
+fmTestCard
+__data_start
+logDiscardedBytes
+usbSkipInitialBytes
+restartSpeechDriver
+handleTuneDeviceCloseTimeout
+getScreenCharacterType
+parseCellsOperand
+moveElement
+gioInitializeSerialParameters
+asyncBlockObtainableSignals
+startContractionCommand
+testTuneThreadStopped
+getMenuParent
+getCurrentSubmenu
+getTransliteratedCharacter
+tuneSetDevice
+normalizeTimeValue
+makeLandscapeFlag
+bthGetNameAtAddress
+logSymbol
+probeBrailleDisplay
+afterTimePeriod
+linuxKeyMap_hid
+newUinputKeyboard
+createDirectory
+tuneWait
+asyncSetSignalBlocked
+writeConsole
+constructHostCommandPackageData
+releasePressedKeys
+serialReadChunk
+processDataFile
+getPathDirectory
+linuxKeyMap_xt00
+bluetoothNameTable
+disableBrailleDriver
+readLine
+releaseAllKeys
+brlttyDestruct
+gioGetMillisecondsToTransfer
+setMidiInstrument
+gioSetHidReport
+locateTextTableAlias
+makeMountPoint
+bthNewConnectionExtension
+linuxKeyMap_at00
+openMountsTable
+speechCursorBlinkDescriptor
+getPcmChannelCount
+asyncRevertSignal
+checkUnmonitoredConditions
+setUpdatableDirectory
+formatBrailleTime
+getPcmBlockSize
+usbSerialOperations_FTDI_FT8U232AM
+makeContractionTablePath
+getContractedLength
+isBlinkVisible
+setSpeechVolume
+convertUtf8ToWchars
+getTextTableHeader
+setOutputTable
+haveSpecialScreen
+enqueueUpdatedKeys
+usbGetLanguage
+handleLinuxKeyboardEvent
+setTouchSensitivity
+newDataArea
+testEndMessageWait
+startActivity
+runHostCommand
+usbHidGetReportSize
+isOctalDigit
+usbCloseInterface
+popCommandEnvironment
+getPcmAmplitudeFormat
+serialPrepareDevice
+textMaximized
+asyncDeallocateAlarmData
+gioDiscardInput
+sayUtf8Characters
+translateInputCell
+setTextTableGlyph
+locatePathName
+inputCommandDataResetListener
+alert
+inKeyrangeList
+changeMenuItem
+serialSetBaud
+processTextTableLines
+asyncDeallocateTaskData
+logParameters
+writeBraillePacket
+setCloseOnExec
+tunePlayTones
+usbGetEndpoint
+writeFile
+commandModifierTable_motion
+deallocateQueue
+getDataText
+AT2XT
+getHelpLineCount
+fmPlayTone
+usbNextDescriptor
+ungetDataCharacters
+usbWriteEndpoint
+contractedStart
+usbTestDevice
+awaitFileInput
+noSpeech
+makeUpdatablePath
+findMountPoint
+usbSerialOperations_CP2101
+destroyKeyboardMonitorExtension
+vlogMessage
+destructBrailleDisplay
+fillDotsRegion
+canSetSpeechRate
+identifyDriver
+mountFileSystem
+bthPollInput
+__libc_csu_init
+makeKeyboardTablePath
+writeDots
+canBraille
+getMenuItemMenu
+createSignalSafeThread
+tellSpeechFinished
+sayWideCharacters
+serialConnectDevice
+writeKeyEvent
+writeInputEvent
+initializeHostCommandOptions
+usbParseProductIdentifier
+startBrailleInput
+gioReadByte
+canBeep
+getLowestNote
+newInputEventMonitor
+api_link
+findPreference
+apiRawMutex
+resetAllBlinkDescriptors
+speechRequest_setPitch
+getScreenCommandContext
+initializeRealScreen
+destroyAttributesTable
+requireBlinkDescriptor
+acknowledgeBrailleMessage
+getLockDescriptor
+loadScreenDriver
+usbMakeSetupPacket
+usbOpenInterface
+programPath
+commandModifierTable_braille
+logOutputPacket
+changeLogCategories
+includeDataFile
+usbApplyInputFilters
+gioSetHidFeature
+getLocaleCharset
+destroyUinputObject
+ensureTextTableExtension
+getPreferencesMenuItem_keyboardTable
+getSessionEntry
+logUnsupportedFeature
+disconnectBrailleResource
+usbSerialAdapterTable
+usbSerialOperations_CP2110
+AL_readStatus
+asyncReadFile
+compareTimeValues
+resumeUpdates
+insertScreenKey
+millisecondsTillNextSecond
+writeUtf8Cell
+usbSetSerialOperations
+setOpenFlags
+processLines
+noBraille
+asyncDeallocateSignalData
+haveScreenDriver
+isBrailleCharacter
+gioGetResourceObject
+asyncSetAlarmTo
+serialOpenDevice
+getRealNoteFrequency
+serialPutAttributes
+seascapeDigits
+brlapiserver_readPacketContent
+restartScreenDriver
+usbSerialOperations_Belkin
+addCustomCommands
+commandModifierTable_keyboard
+setSpeechRate
+clearHelpPage
+logUnexpectedPacket
+constructSpeechDriver
+logTruncatedPacket
+asyncTestHandle
+setLogKeyEventsFlag
+opt_tablesDirectory
+stopBrailleInput
+opt_contractionTable
+usbHidSetFeature
+beginSpecialScreens
+serialSetLineRTS
+pushCommandEnvironment
+newUinputObject
+formatKeyName
+setBlinkState
+serialReadData
+presentLearnMode
+makeSeascapeFlag
+usbOpenChannel
+serialGetLines
+enqueueKeys
+resetDataArea
+setPcmSampleRate
+cursorHasChanged
+constructScreenDriver
+handleUpdateAlarm
+linuxKeyMap_xtE0
+rescaleInteger
+parseKeyboardProperties
+sayString
+testPath
+routeScreenCursor
+logCategoryPrefix_disable
+prefs
+runSpeechDriverThread
+defaultCharset
+asyncNewAddTaskEvent
+speechRequest_sayText
+makeWritablePath
+constructBrailleDriver
+getPreferencesMenuItem_contractionTable
+asyncDiscardEvent
+isFloat
+contractedTrack
+disableAllLogCategories
+usbHidDescriptor
+usbDeallocateDeviceExtension
+gioAwaitInput
+unsetAddressName
+clearStatusCells
+messageHoldTimeout
+getConsole
+testProcessIdentifier
+usbDisableAutosuspend
+asyncWait
+processEndVariablesOperands
+usbMakeInputPipe
+logSystemError
+message
+linuxKeyMap_atE1
+usbAlternativeCount
+makeTextTablePath
+stopSpeechDriverThread
+changeMenuItemPrevious
+handleBrailleMessageTimeout
+readPort1
+serialSetLineDTR
+obtainLock
+setBrailleOnline
+setTableDataVariables
+describeCommand
+usbAwaitInput
+runThreadFunction
+usbStringMatches
+usbSetConfiguration
+asyncNewEvent
+serialTestLineCTS
+freeLockDescriptor
+enqueueItem
+stopAllBlinkDescriptors
+newNamedPipeObject
+getNamedPipeDirectory
+fixInstallPath
+addSpeechCommands
+writeUtf8Characters
+getDataItem
+api_handleCommand
+handleCoreInterrupt
+slideWindowVertically
+isActivityStarted
+getNearestNote
+showScreenCursor
+getDataString
+__libc_csu_fini
+setSpeechPitch
+serialPutModemState
+contractText
+isContracted
+identifyScreenDrivers
+commandModifierTable_vertical
+findSharedSymbol
+openLinuxInputDevice
+setKeyTableLogLabel
+processInputFiles
+bthParseAddress
+isSameText
+setHelpPageNumber
+closeMidiDevice
+brlapiserver_readPacketHeader
+getProgramQueue
+bthPutData
+asyncIsSignalBlocked
+testActivityStarted
+processAssignOperands
+usbHidGetReport
+usbClearHalt
+usbGetSerialOperations
+handleProgramTerminationRequest
+insertMidiWait
+preferenceAliasCount
+enableBrailleDriver
+asyncSetAlarmIn
+newQueue
+testTuneSynchronizationMonitor
+authBeginClient
+retryPidFile
+linuxKeyMapCount
+closeLogFile
+addClipboardCommands
+contractedLength
+getStatusFieldsLength
+replaceAttributesTable
+compareKeyBindings
+suppressTuneDeviceOpenErrors
+logCorruptPacket
+authBeginServer
+runRoutingThread
+initializeHidKeyboardPacket
+enqueueKeyEvents
+getBaseCharacter
+getCharacterWidth
+testDirectoryPath
+usbCloseChannel
+tuneSynchronize
+serialWaitLineCTS
+getDefaultScreenDriver
+playBeep
+ensureDirectory
+addTouchCommands
+openFile
+setScreenCharacterText
+changeKeyboardTable
+handleScreenCommands
+setMenuItemTester
+getSharedSymbolName
+unsetTextTableCharacter
+deactivateProfile
+getUinputFileDescriptor
+getKeyGroupCommands
+acquireFileLock
+newMenu
+isUnsignedInteger
+asyncMakeElementHandle
+logMallocError
+serialGetData
+Borrow or rob
+speechRequest_drainSpeech
+asyncReleaseSignalNumber
+setQueueData
+constructBrailleDisplay
+validateChoice
+getProcessIdentifier
+getAddressName
+stopBeep
+getDotOperand
+usbSerialOperations_FTDI_SIO
+contractedOffsets
+constructRoutingScreen
+linuxKeyMap_xtE1
+usbCancelRequest
+setScreenKeyModifiers
+popCommandHandler
+findPreferenceByAlias
+closeSystemLog
+bthAwaitInput
+midiInstrumentTable
+makeProfilePath
+closePcmDevice
+setMenuItemChanged
+isLogLevel
+placeRightEdge
+logCommand
+formatThreadName
+connectSocket
+writeSocket
+unhighlightRegion_BaseScreen
+deleteItem
+writeEscapedCharacters
+newBooleanMenuItem
+isRouting
+serialGetDataBits
+currentVirtualTerminal
+processBeginVariablesOperands
+deleteElement
+initializeBaseScreen
+fmDisablePorts
+writeRepeatPeriod
+endBeep
+usbMonitorInputEndpoint
+asyncDeleteSignalEntry
+getPreferencesMenuItem_textTable
+getUpdatableDirectory
+makeTextTable
+LIBSYSTEMD_209
+GLIBC_2.2.5
+GLIBC_2.12
+GLIBC_2.15
+GLIBC_2.4
+GLIBC_2.17
+GLIBC_2.14
+GLIBC_2.7
+GLIBC_2.3
+GLIBC_2.3.4
+98u	[
+8+x$
+9H$w
+AWAVAUATI
+AVAWD
+[A\A]A^A_]
+AUATSH
+[A\A]]
+AWAVH
+AUATH
+l$0H
+t$p<
+T$(M
+L$(L
+L$ L
+t$(L
+[]A\A]A^A_
+t$pL
+T$(Lc
+L$ L
+\$ Lc
+T$ Hc
+L$ L
+\$ H
+L$(L
+\$ H
+\$ Hc
+ATUSH
+-)}(
+[]A\
+ []A\
+AWAVAUATSH
+%Dz(
+[A\A]A^A_]
+~FATA
+[]A\
+USHc
+AUATSI
+[A\A]]
+t\E1
+ATSH
+[A\]
+ATUS
+-2q(
+[]A\
+[]A\
+AWAVAUATA
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+~\AU
+ATUSI
+[]A\A]
+[]A\A]
+AUATUS1
+[]A\A]
+[]A\A]
+[]A\A]
+AWAVAUATA
+[A\A]A^A_]
+<$3|$
+AUATUS
+D$81
+L$8dH3
+H[]A\A]
+8&t&D
+AUATH
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+[]A\A]A^A_
+D;|$
+ATUSH
+=Rb(
+=Ya(
+ATE1
+[]A\
+[]A\
+AWAVA
+AUATI
+1tFH
+[]A\A]A^A_
+[]A\A]A^A_
+AUATH
+[]A\A]
+AUATSI
+IcD$
+[A\A]]
+AUATUSH
+[]A\A]
+AWAVAUATUSH
+([]A\A]A^A_
+t_USH
+AWAVAUATI
+t$ H
+T$ A
+t3f.
+[A\A]A^A_]
+D$8H
+T$8H
+AWAVI
+AUATUSH
+ueL9
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATI
+<+=tD1
+[]A\A]A^A_
+AWAVL
+47AUATI
+[]A\A]A^A_
+AWAVI
+AUATL
+$7USH
+[]A\A]A^A_
+AWAVI
+AUATA
+uZL)
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\
+AWAVA
+AUATI
+[]A\A]A^A_
+=	:(
+|$ H
+L$ H
+t$$H
+5~9(
+5o9(
+=^9(
+=R9(
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$`L
+L$ht=
+)D$p
+D$81
+D$(H
+D$@H
+D$0H
+D$  
+D$$0
+D$8dH3
+L$XL
+D$`L
+L$ht=
+)D$p
+D$81
+D$(H
+D$@H
+D$0H
+D$$0
+D$8dH3
+AUAT
+[]A\A]
+=U4(
+AWAVAUATI
+l$0L
+D$ H
+tyI9
+D;5f2(
+txHc
+[]A\A]A^A_
+5g1(
+AUATUSH
+-;1(
+%/1(
+[]A\A]
+[]A\A]
+tHE1
+ATUA
+D$(1
+L$(dH3
+0[]A\
+AUATI
+[]A\A]
+[]A\A]
+ATUI
+[]A\
+t%H9
+AWAVAUATSH
+tMD9}
+u9M9
+[A\A]A^A_]
+[]A\
+AVAUI
+ATUI
+tXL)
+[]A\A]A^
+AUATUSH
+[]A\A]
+=y&(
+=i&(
+=U&(
+ATUE1
+[]A\
+[]A\
+AVAUATUSH
+ []A\A]A^
+AUATA
+[]A\A]
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+AWAVI
+AUATUSH
+l$ dH
+D$(1
+L$(dH3
+8[]A\A]A^A_
+AWAVI
+AUATM
+]A\A]A^A_
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+AVAUATSH
+[A\A]A^]
+%bn'
+ZYuv
+AWAVI
+AUATE1
+[]A\A]A^A_
+AVAUI
+ATUI
+tEH)
+tRE1
+]A\A]A^
+]A\A]A^
+AWAVAUATI
+[A\A]A^A_]
+AWAVAUATSH
+[A\A]A^A_]
+AWAVAUATSH
+tfAWj,M
+[A\A]A^A_]
+AWAVH
+AUATUSH
+[]A\A]A^A_
+AWAVI
+AUATH
+5Ed'
+[]A\A]A^A_
+ATUSH
+[]A\
+AVAUI
+ATUH
+[]A\A]A^
+]A\A]A^
+ATUSH
+[]A\
+AWAVI
+AUATUSH
+H[]A\A]A^A_
+D$0L)
+HcT$
+l$(L)
+|$ I
+L$ H
+H[]A\A]A^A_
+|$8E1
+|$(H
+l$0I
+|$8H
+ATUH
+St9H
+[]A\
+D$81
+D$8dH3
+D$H1
+D$$f
+D$HdH3
+AUATHc
+D$H1
+T$HdH3
+X[]A\A]
+Ci4$
+dH34%(
+ATUI
+ []A\
+D$(1
+~<HcT$
+D$(dH3
+HcT$
+[]A\
+ATUI
+[]A\
+[]A\
+t3SH
+AWAVAUATLc
+t$0H
+\$@dH
+D$X1
+D$(H
+L+|$(
+|$HH
+D$@L
+L$XdH3
+h[]A\A]A^A_
+ATUA
+u=[]A\
+ATUI
+[]A\
+AVAUA
+ATUH
+[]A\A]A^
+ATUA
+[]A\
+AUATUSH
+D$(1
+~JI;
+$|$1
+L$(dH3
+8[]A\A]
+U u)
+ATUI
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+tSUSH
+AUATH
+D$(1
+rJE1
+L$(dH3
+8[]A\A]
+AUATH
+D$(1
+T$$L
+D$$A
+L$(dH3
+8[]A\A]
+H9G0H
+AWAVI
+AUATA
+D$(1
+L$(dH3
+8[]A\A]A^A_
+AWAVM
+AUATA
+[]A\A]A^A_
+dH34%(
+O dH
+5%B'
+dH34%(
+ATUH
+C$[]A\
+t<[H
+[]A\H
+[]A\H
+AWAVAUATI
+[A\A]A^A_]
+S$uV
+D$(1
+L$(dH3
+D$(1
+L$(dH3
+D$(1
+L$(dH3
+D$(1
+L$(dH3
+D$(1
+L$(dH3
+D$(1
+L$(dH3
+ATUI
+[]A\
+AUATUSH
+[]A\A]
+|!f.
+ATUH
+[]A\
+AUAT
+[]A\A]
+ATUI
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+AUATUSH
+([]A\A]
+AWAVAUATI
+[]A\A]A^A_
+[]A\
+AVAUATUS
+[]A\A]A^
+ATUH
+[]A\
+[]A\
+E([]A\
+D$81
+T$8dH3
+D$(u
+AUATI
+D$81
+D$ t0H
+L$8dH3
+H[]A\A]
+ATUH
+[]A\
+H;:twH
+u4USH
+AUATUSH
+[]A\A]
+[]A\A]
+ATUI
+[]A\
+t4H;:t'H
+t\H;:tOH
+AVAUATUSH
+]A\A]A^
+]A\A]A^
+ATUI
+[]A\
+D$(1
+t	H+\$
+T$(dH3
+ATUA
+AVAUA
+ATUI
+[]A\A]A^
+AUATI
+|$ H
+[]A\A]
+AWAVA
+AUATA
+D$8%
+[]A\A]A^A_
+AVAU
+ATUI
+ZYtC
+[]A\A]A^
+AVAUA
+ATU1
+ []A\A]A^
+u;Hc
+[]A\
+ATUS1
+A D.
+[]A\A]A^
+AVAUATUSH
+D$h1
+|$hdH3<%(
+p[]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+t9ATI
+[]A\
+AWAVAUATI
+|$@1
+D$@I
+D$XI
+[]A\A]A^A_
+d$ L
+ATUS
+[]A\
+ATUS
+[]A\
+AWAVI
+AUATA
+[]A\A]A^A_
+AUATL
+data varH
+iable: 
+XZH9
+[]A\A]
+H9S u
+AWAVAUATI
+[]A\A]A^A_
+]A\A]A^A_
+AVAUA
+ATUH
+ []A\A]A^
+t[Lcu
+AWAVAUATE1
+[]A\A]A^A_
+AWAVAUATI
+[A\A]A^A_]
+\$ L
+AUATUSH
+[]A\A]
+[]A\A]
+[]A\A]
+ATSH
+[A\]
+D$81
+T$8dH3
+tcH9
+[]A\H
+AVAUI
+ATUI
+t$Pu&M
+]A\A]A^
+]A\A]A^
+AUATSI
+[A\A]]
+AUATA
+[]A\A]
+H+OHH
+ATUH
+D$PH
+D$HH)
+[]A\
+ATUI
+[]A\
+AWAVAUATSH
+[A\A]A^A_]
+ATUA
+ []A\
+AUATH
+[]A\A]
+ATUH
+[]A\
+D$(1
+L$(dH3
+dH3<%(
+[]A\
+ATUSH
+t'I9
+[]A\A]
+[]A\A]
+ATUH
+[]A\
+AWAVAUATSH
+[A\A]A^A_]
+AVAUI
+[]A\A]A^
+$u]H
+H9_@t"H
+AWAVI
+AUATI
+|$8L
+D$pH
+D$(H
+D$xH
+D$Ht}H
+[]A\A]A^A_
+AWAVAUATSH
+ATRL
+[A\A]A^A_]
+t"L)
+AVAUI
+]A\A]A^
+AVSH
+[A^]
+AUATS1
+[A\A]]
+AUATI
+[]A\A]
+[]A\A]
+AWAVI
+AUATH
+D$(1
+|$ H
+t	I9
+L$(dH3
+8[]A\A]A^A_
+ATUS1
+ []A\
+AUATI
+[]A\A]
+AWAVAUATI
+t-L)
+[]A\A]A^A_
+ATUI
+ []A\
+ATUH
+[]A\
+D$81
+=[y'
+L$(H
+T$ H
+D$0H
+L$8dH3
+D$81
+L$(H
+T$ H
+D$0H
+\$8dH3
+ATUSH
+D$H1
+l$(H
+\$0H
+D$8t
+T$HdH3
+P[]A\
+AVAUATD
+A;8w
+D9%F{'
+tgHc
+[]A\A]A^
+[]A\A]A^
+AVAUI
+ATUI
+[]A\A]A^
+]A\A]A^
+AWAVAUATL
+$7USH
+]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+=-v'
+=Uv'
+==v'
+ATU1
+[]A\
+=9s'
+=as'
+AUATA
+([]A\A]
+tVE1
+AWAVAUATUSH
+D$81
+=oi'
+l$ H
+L$8dH3
+H[]A\A]A^A_
+D$81
+D$ H
+T$8dH3
+D$81
+D$ H
+T$8dH3
+=Hm'
+=Ml'
+AUATA
+5@k'
+-Vj'
+[]A\A]
+[]A\A]
+=yi'
+=0i'
+=fh'
+AUAT
+[]A\A]
+[]A\A]
+ATUSH
+=sg'
+[]A\
+[]A\1
+=1f'
+5M_'
+AUAT1
+[]A\A]
+=hb'
+=Mb'
+==b'
+ATUS
+[]A\
+=z_'
+AWAVAUATUS
+[]A\A]A^A_
+tZA)
+u&D)
+AUATUSH
+%aW'
+5SZ'
+[]A\A]
+-+Y'
+[]A\A]
+[]A\A]
+ATUA
+5bX'
+D$81
+D$ H
+L$8dH3
+@[]A\
+=lU'
+=iS'
+=wR'
+[]A\
+=wM'
+=LM'
+ATUSH
+=_L'
+ []A\
+-&L'
+=sJ'
+='K'
+=[J'
+-Ja'
+=	H'
+%}H'
+=	E'
+=&D'
+=nC'
+AVAUH
+ATUH
+w.IcD
+;[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+ATUH
+w~Ic
+[]A\
+[]A\
+[]A\
+[]A\
+[]A\
+AUAT
+[]A\A]H
+[]A\A]
+[]A\A]
+[]A\A]
+AWAVI
+AUATI
+[]A\A]A^A_
+AUATD
+A8\$
+]A\A]
+]A\A]
+[]A\A]
+5iO'
+AWAVAUATI
+(tQE1
+[]A\A]A^A_
+AWAVAUATI
+(t`E1
+[]A\A]A^A_
+[]A\A]A^A_
+AUATH
+[]A\A]
+[]A\A]
+[]A\A]
+AUATH
+D$X1
+L$XdH3
+h[]A\A]
+-.J'
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+AWAVH
+AUAT1
+tkM9
+[]A\A]A^A_
+tkE1
+AWAVAUATUSH
+[]A\A]A^A_
+5o&'
+AWAVH
+AUAT1
+[]A\A]A^A_
+D;~(srH
+[]A\
+AUATE1
+([]A\A]
+G@H;z(t
+G SH
+AVAUI
+ATUA
+]A\A]A^
+[]A\A]A^
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+C t;H
+AWAVI
+AUAT1
+u7Hc
+ExHc
+ExA)
+[]A\A]A^A_
+t[ATUH
+AUATI
+[]A\A]
+AUATI
+[]A\A]
+AUATUSH
+[]A\A]
+ATUA
+T$ H
+P@[]A\
+AWAVM
+AUATI
+D$(1
+D$pA
+L$(dH3
+8[]A\A]A^A_
+AUATI
+L$ H
+[]A\A]
+AUATUSH
+[]A\A]
+[]A\A]
+AUATUSH
+[]A\A]
+[]A\A]
+AVAUA
+[]A\A]A^
+"[]A\A]A^
+]A\A]A^
+H9h t
+;2r	1
+=p!'
+=Y!'
+=@!'
+=)!'
+=b '
+=" '
+AVAUL
+ATUI
+ []A\A]A^
+=[a&
+=7a&
+AWAVAUATUSH
+D$81
+L$8dH3
+H[]A\A]A^A_
+5Uw&
+AXAY
+A^A_
+AZA[
+AXAY
+5=k&
+AZA[
+AXAY
+D9t$
+|$ A
+5Ig&
+AZA[
+AXAY
+5:a&
+5v[&
+50[&
+A[A^
+AYAZ
+5]Z&
+t$ L
+L$ RH
+5|Y&
+5;Y&
+5~X&
+5OX&
+5 X&
+5dW&
+55W&
+5VT&
+5+T&
+AUATUSH
+[]A\A]
+]A\A]
+[]A\A]
+gfff
+[]A\A]
+D$(1
+gfffL
+D$(dH3
+gfff
+fA;A
+gfff
+gfffD
+gfffL
+x	f;B
+AUATI
+[]A\A]
+fA;H
+gfff
+AUATI
+[]A\A]
+ATUA
+[]A\
+ATUSt5v<@
+0t-@
+#[]A\
+AWAVAUATSH
+[A\A]A^A_]
+AWAVAUATSH
+[A\A]A^A_]
+tyIc
+}(9U
+AWAVAUATSH
+[A\A]A^A_]
+AUATE1
+fA;;}
+fA;{
+SAVL
+AUPAS1
+w`AQ
+G$A9
+A;G|
+xxxxI
+AVWL
+D;(s}H
+IcW|I
+w`AUAVE
+AWAVAUATI
+[]A\A]A^A_
+AUATI
+[]A\A]
+AVAUATUL
+[]A\A]A^
+AUATUS
+[]A\A]
+AWAVAUATI
+[A\A]A^A_]
+AUATL
+]A\A]
+AUATI
+]A\A]
+AUATI
+]A\A]
+" Hc
+AUATH
+[]A\A]
+AUATUS
+[]A\A]
+AVAUI
+]A\A]A^
+]A\A]A^
+tLSH
+AUATI
+[]A\A]
+[]A\A]
+t6D9
+f;8}
+AWAVL
+=5"&
+AUATI
+D$X1
+L$XdH3
+h[]A\A]A^A_
++A$9B
++F$9
+AWAVAUATUS
+A+F$9
+A+F$9
+[]A\A]A^A_
+[]A\A]A^A_
+x(Hc
+[A\]
+AUATS
+[A\A]]
+AWAVAUATI
+[A\A]A^A_]
+AWAVAUATA
+tvIc
+[A\A]A^A_]
+AWAVAUATSH
+$+A$9B
+ ulI
+ ufA
+[A\A]A^A_]
+fA;T$
+AWAVAUATA
+[A\A]A^A_]
++A$H
++G$D9
++A$9B
++B$A9
+t-SH
+ATUS
+[]A\A]
+H;F(saH
+USE1
+t HcT$
+AUATA
+[]A\A]
+[]A\A]
+[]A\A]
+4tB@
+[]A\
+AWAVI
+AUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVE
+AUATSA)
+[A\A]A^A_]
+AUATA
+D$(1
+HcC H
+\$(dH3
+8[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+ATUSuPL
+[]A\
+AWAVAUATI
+[A\A]A^A_]
++A$9
++A$9
+IcG H
+C(t:H
+AVAUATSLc
+tXHc
+[A\A]A^]
+AWAVAUA
+[A\A]A^A_]
+AWAVAUATSH
+B,A9
+[A\A]A^A_]
+D;x,
+=Uj&
+5Ki&
+-<U&
+ATAVS
+=Lh&
+p,A9
+ATUH
+[]A\
+ []A\
+AWAVAUATUSH
+[]A\A]A^A_
+d$0H
+L$<L
+L$=Hc
+t$HH
+T$0H
+t$,E1
+D$;D
+D$:<
+l$PL
+D$>L
+L$=H
+QAVH
+l$PL
+l$PH
+AUATI
+C0tmH
+[]A\A]
+]A\A]
+t=SH
+dH3<%(
+ []A\
+ATUS
+AWAVA
+AUATA
+,$u	E
+[]A\A]A^A_
+<$u	E
+ATUA
+[]A\
+[]A\
+AUATA
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+AVAU1
+ATUI
+[]A\A]A^
+AUATA
+[]A\A]
+AUATI
+[]A\A]
+AWAVAUATI
+[A\A]A^A_]
+5O-&
+ATUH
+[]A\
+ATUH
+[]A\
+AWAVAUATUSH
+([]A\A]A^A_
+HcD$
+[]A\
+ATUS
+%Y&&
+5_&&
+AWAVI
+AUATI
+D$81
+L$8dH3
+H[]A\A]A^A_
+t$ H
+l$ H
+Lc<$
+ATUI
+$t#1
+dH3<%(
+ []A\
+AUATUS1
+tNHc
+[]A\A]
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+ATUH
+[]A\
+AWAVA
+AUATI
+([]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+D$ D
+|$(E1
+D3$E
+|$(L
+l$ M
+L$(H
+T$ D
+d$0H
+|$(L
+t$ M
+tXIc
+D$81
+L$8dH3
+@[]A\
+|$ H
+AWAVAUATI
+D$X1
+L$XdH3
+h[]A\A]A^A_
+|$(H
+|$(H
+|$(H
+HcD$$
+W@H9W8wF
+W@H;W8s-
+AUATA
+D9 |
+dH3<%(
+([]A\A]
+AWAVI
+AUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+HcWTH
+ATUA
+L9G8s
+AUATUSH
+}@Hc
+H9E8s
+[]A\A]
+[]A\A]
+H9}8r
+AWAVAUATUSH
+O(dH
+G@H+G0H
+D$ H
+D$PH
+L$0H
+D$`H
+E8H+E0H
+D$pH
+[]A\A]A^A_
+t+I9
+t+HcL$
+AWAVAUATUSH
+'t~M
+N8I+N09
+te;L$
+([]A\A]A^A_
+H9C8sg1
+H9C8r
+AWAVAUATUS
+4,E1
+HcD$
+E\uvH
+[]A\A]A^A_
+E@H;E0
+[]A\A]A^A_
+[]A\A]A^A_
+U@H9U8
+HcUTH
+L;m I
+AWAVAUATI
+I+F0H
+N0H9
+I9^P
+IcVTL
+uqI;^
+F I9
+	t=A
+I9F0t	
+IcVTH
+I;^0
+[A\A]A^A_]
+v@I+v0H
+IcNTH
+I9FP
+Mc~TH
+tkIcD$TI
+L$(H
+I+D$
+IcVTI
+!t	@
+AWAVAUATI
+A9U8
+E;e0
+D;kH
+[A\A]A^A_]
+@&A8ET
+@=A8EU
+ty~p=
+;W0sq
+O(tYH
+AWAV@
+AUAT@
+D$81
+;w0suH
+$t71
+T$8dH3
+H[]A\A]A^A_
+AWAVI
+AUATI
+OxdH
+Y^tSD
+AUH)
+[]A\A]A^A_
+AWAVAUATUSH
+L$(@
+D$x1
+;w0H
+D$qH
+t$RH
+LC-t
+D$ D
+t$xdH34%(
+[]A\A]A^A_
+AWAVAUATI
+[A\A]A^A_]
+ tLA
+AWAVA
+AUATUSD
+d$pE
+[]A\A]A^A_
+D$tA
+D$tA
+D$pD
+L$xL
+T$xH
+D$|L
+D$xH
+|$ H
+D$8H
+D$@D
+	D$D
+|$hL
+t$WL
+T$HD
+L$PH
+l$`L
+d$XD
+l$dA
+T$|E1
+D$tD
+t$tH
+t$ H
+T$tH
+|$(M
+t$ H
+|$(A
+L$01
+D$pf
+D;k0
+t$WI
+T$HD
+L$PH
+l$`L
+d$XD
+l$dH
+|$DL
+T$HD
+L$PD
+l$`L
+d$X@
+D$D%
+T$xH
+t$ D
+L$0L
+D$xH
+T$8I
+t$ H
+|$(L
+L$01
+A82t4f
+W-A82u
+ATUI
+;W tnH
+L$$H
+[]A\
+l$ A
+AUATI
+[]A\A]
+AUATH
+([]A\A]
+4$Hc
+HcT$
+AVAUL
+USL9
+]A\A]A^
+]A\A]A^
+[]A\
+A]A^
+AUATUSH
+[]A\A]A^
+Do nine men interpret Nine men I nod
+]A\A]A^
+AUATH
+[]A\A]
+AUATUSH
+[]A\A]
+ATUH
+[]A\
+ATU@
+;q0s
+[]A\
+y(Hc
+ATUH
+v0E1
+[]A\
+AWAV
+AUATI
+;r0sSA
+[]A\A]A^A_
+HcT$
+[]A\A]A^A_
+AWAVH
+AUATUSH
+L$(H
+D$<H
+L$HH
+L$|H
+D$XH
+L$0H
+D$@H
+)L$<M
+D$(H
+D$<1
+L$0A
+d$`L
+|$ E1
+|$PH
+[]A\A]A^A_
+HcD$
+D$X1
+t$ H
+T$ H
+|$P1
+|$hE
+T$HH
+5l6%
+T$HH
+5$6%
+T$HH
+T$HH
+5D5%
+T$HH
+T$HH
+T$HH
+T$HH
+|$P1
+T$HH
+|$PH
+T$<H
+|$PH
+t$|H
+|$PH
+AWAVI
+AUATUS1
+x!t'H
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATI
+([]A\A]A^A_
+AUATH
+[]A\A]
+AWAVH
+AUATUSH
+t$ H
+D$81
+L$8dH3
+H[]A\A]A^A_
+D$(L
+l$ H
+x-t3L
+ATUI
+ []A\
+D$81
+T$ H
+L$8dH3
+AUAT
+D$H1
+T$HdH3
+X[]A\A]
+l$0H
+ATUH
+[]A\
+|$0L
+t$0L
+tKHc\$
+HcT$
+AWAVM
+AUATUSH
+D$x1
+D$ E
+F"D9
+D$(A;G
+L$xdH3
+[]A\A]A^A_
+|$01
+D$,H
+AWAVAUATSH
+t-L;u
+dH3<%(
+[A\A]A^A_]
+AWAVI
+AUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVH
+AUATI
+l$0H
+dH3<%(
+[]A\A]A^A_
+l$0L
+t$ H
+t$,@
+\$ L
+L$,I
+D$ fA
+AUAT
+D$h1
+\$ H
+T$hdH3
+x[]A\A]
+AVAUI
+ATUH
+6;2tEH
+[]A\A]A^
+dH34%(
+t,SH
+C@E1
+{-[]H
+AWAVH
+AUATUSH
+|$H1
+d$-E1
+_$A;_ s.
+D9r0
+L$(H
+L$0H
+D$Bt
+T$"A
+T$"H
+|$HdH3<%(
+X[]A\A]A^A_
+AWAVI
+AUATI
+D$H1
+L$HdH3
+X[]A\A]A^A_
+T$(H
+|$ 1
+|$ H
+ATSH
+[A\]
+AUATI
+H;o w*H
+[]A\A]
+AWAVAUATI
+[A\A]A^A_]
+ATSH
+[A\]
+ uFH
+dH34%(
+AVAUATI
+H;w`H
+[]A\A]A^
+CXI9
+AWAVA
+AUATE1
+[]A\A]A^A_
+u L9
+[]A\A]A^A_
+AUATH
+USE1
+[]A\A]
+[]A\A]
+AWAVAUATI
+r@dH
+[A\A]A^A_]
+t$@H
+t$@H
+AUATI
+USHc
+[]A\A]
+]A\A]
+AUATI
+USHc
+H9Whv
+[]A\A]
+H9Chv
+AVAUI
+ATUH
+[]A\A]A^
+t$ H
+AUATUSH
+D$x1
+L$xdH3
+[]A\A]
+;H0s
+AWAVAUATA
+[A\A]A^A_]
+D$(M
+E:w"s/H
+t$(H
+H+x(H
+AUATUSI
+[]A\A]
+[]A\A]
+AWAVI
+AUAT1
+V$dH
+D$81
+L$8dH3
+H[]A\A]A^A_
+D$ H
+D$4H
+H9\$
+NXE1
+t&;D$
+vhH9
+H9D$
+D$ H
+D$ (H
+D$ H9D$(
+\$4I
+viUSH
+tyAUATI
+9]Pvh
+[]A\A]
+[]A\A]
+ATUS
+AUATI
+D$x1
+D$HL
+T$8L
+D$@H
+D$0H
+|$XH
+T$hH
+T$hH
+L$xdH3
+[]A\A]
+AVAUATUSH
+t M9
+[]A\A]A^
+AUATL
+tJf.
+[]A\A]
+ATUH
+=`;%
+[]A\
+[]A\
+ATUI
+[]A\
+AWAVI
+AUATUS
+]A\A]A^A_
+;*suH
+[]A\A]A^A_1
+M+V C
+D&8I
+D&8H
+[]A\A]A^A_
+AWAVAUATUSH
+D$8%
+[]A\A]A^A_
+L$ 1
+AWAVAUATSH
+[A\A]A^A_]
+AWAVH
+AUATI
+D$(1
+5#r%
+L$(dH3
+8[]A\A]A^A_
+=Fp%
+%:p%
+=Xy%
+=	y%
+= x%
+AWAVAUATSH
+[A\A]A^A_]
++AXH
++AXH
+AVAUI
+ATUI
+[]A\A]A^
+=_r%
+=Or%
+=?r%
+=Er%
+-Lq%
+=Bp%
+=Ko%
+=yn%
+5rm%
+=Pm%
+=4m%
+=]l%
+t}rk
+H9=1k%
+t1USH
+t1USH
+AUATUSH
+[]A\A]
+Hco H
+S ~8
+AVAU
+ATUH
+[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+ubHc
+[]A\
+AUATA
+=(`%
+[]A\A]
+=k\%
+=Q\%
+=7\%
+=g[%
+=M[%
+=3[%
+=}Z%
+=cZ%
+=IZ%
+AVAUATUI
+]A\A]A^
+]A\A]A^
+dH34%(
+AUATD
+[]A\A]
+AWAVA
+AUATUSH
+([]A\A]A^A_
+=ON%
+=5N%
+=eM%
+=KM%
+=1M%
+={L%
+=aL%
+=GL%
+=-L%
+D$(1
+L$(dH3
+D$(1
+L$(dH3
+D$(1
+L$(dH3
+-iC%
+AVAUHc
+{CD)
+]A\A]A^
+AWAVAUATUSH
+l$ H
+D$X1
+tSE1
+D$XdH3
+h[]A\A]A^A_
+ATUI
+t'I9
+[]A\
+tKUSH
+AWAVAUATI
+[A\A]A^A_]
+AVAUL
+ATUI
+[]A\A]A^
+V XYH
+=[E%
+-?E%
+[]A\
+[]A\
+[]A\
+AUATS
+dH34%(
+[A\A]]
+AVAUA
+$[]A\A]A^
+x_fE
+AWAVI
+AUATI
+D$(1
+D$ E1
+H9l$
+D$(dH3
+8[]A\A]A^A_
+AWAVI
+AUATE1
+D$0L
+l$PL
+tlHc}
+D$8H
+D$:A
+[]A\A]A^A_
+AUATA
+[]A\A]
+ATUSH
+D$(1
+t$(dH34%(
+0[]A\
+AWAVAUATI
+x*Lc
+1A94
+1A94
+u	D9
+[A\A]A^A_]
+AWAVA
+AUAT
+E4$H
+[]A\A]A^A_
+~PA9
+[]A\A]A^A_
+ATUS
+tcE1
+[]A\
+D$(1
+L$(dH3
+ATUH
+ []A\
+AUATI
+tgE1
+[]A\A]
+x39X
+x"Hc
+txv6
+AUATI
+[]A\A]
+AVAUATUH
+]A\A]A^
+]A\A]A^
+AWAVAUATL
+[A\A]A^A_]
+AUATA
+[]A\A]
+AUATUSH
+[]A\A]A^
+:uRH
+AWAV
+AUATL
+L$(H
+L$,L
+t$pL
+\$xH
+)\$x
+\$(L
+d$ H
+8[]A\A]A^A_
+[]A\
+D$(PH
+D$(P
+D$(PH
+D$(P
+AWAVAUATSH
+g(dH
+[A\A]A^A_]
+AUATA
+[]A\A]
+[]A\A]
+AWAVM
+AUATI
+[]A\A]A^A_
+A8<$I
+AWAVM
+AUATI
+[]A\A]A^A_
+4$9u
+gfff
+gfffS
+gfff
+gfffS
+gfff
+gfffS
+AWAVAUATSH
+[A\A]A^A_]
+4tAM9
+CPtPH
+AWAVM
+AUATI
+D$81
+D$/1
+D$0H
+D$/H
+t$0H9
+D$0H
+L$8dH3
+H[]A\A]A^A_
+|$/H
+AUATI
+I;]PA
+[]A\A]
+]A\A]
+ATUSH
+[]A\
+[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVM
+AUATA
+T$XH
+t$PH
+t$PH
+[]A\A]A^A_
+|$PH
+[]A\A]A^A_
+[]A\A]A^A_
+AUATUS
+[]A\A]
+tZAVD
+[]A\A]A^
+]A\A]A^
+[]A\
+AWAVAUATUSH
+dH34%(
+[]A\A]A^A_
+AWAVAUATUSH
+dH34%(
+[]A\A]A^A_
+AWAVAUATSH
+dH34%(
+[A\A]A^A_]
+AVAUI
+[]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+AUATA
+[]A\A]
+ATU1
+dH34%(
+ATUH
+[]A\
+D$ H
+D$(H
+[]A\
+OD9OH
+AWAVAUATUSH
+oHA)
+oDL)
+([]A\A]A^A_
+[]A\A]A^A_
+t$(H
+t$(H
+{0[]
+AVAUA
+ []A\A]A^
+ATUI
+[]A\
+ATUA
+AUATA
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+]A\A]
+[]A\A]
+[]A\
+AUATL
+gLUSH
+[]A\A]
+]A\A]
+D$ H
+D$(H
+D$H1
+T$HdH3
+AWAVE
+AUATI
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+L;|$
+ATUI
+[]A\
+[]A\
+oLSH
+STH)
+ATUI
+[]A\
+[]A\
+ATUH
+[]A\
+[]A\
+[]A\
+AUATH
+[]A\A]
+uGE1
+AUATUS
+[]A\A]
+tKv9
+t$H1
+A!	H
+A		H
+t$HdH34%(
+ATUI
+3[]A\
+ATUA
+[]A\
+ATUI
+|$8H
+D$@I
+[]A\
+ATUA
+3[]A\
+[]A\
+[]A\
+[]A\
+ATUI
+D$H1
+u"E1
+L$HdH3
+P[]A\
+t+US
+t$ E
+t$ V
+t$ E
+t$ V
+t$ 1
+AVAUATSH
+4CH)
+[A\A]A^]
+AUATA
+OPdH
+[]A\A]
+ATUH
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+twfA
+AWAVA
+AUATA
+[]A\A]A^A_
+AUATA
+[]A\A]
+AUATA
+[]A\A]
+ATUSH
+[]A\
+ATU@
+[]A\
+ATUH
+ATUI
+dH34%(
+ []A\
+ATUA
+[]A\
+[]A\
+ATUI
+ []A\
+AWAVD
+AUATA
+C8I9
+txD:l$
+[]A\A]A^A_
+tAE1
+AUATI
+[]A\A]
+[]A\A]
+AWAVA
+AUATA
+D$H1
+L$HdH3
+X[]A\A]A^A_
+d$ L
+d$ E
+D$8H
+T$(I
+AWAV@
+AUAT
+[]A\A]A^A_
+tdI9
+M)g8u
+[]A\A]A^A_
+AWAVI
+AUATD
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUATUI
+D$(1
+L$(dH3
+0[]A\A]A^
+t$	@
+t$	H
+!t-H
+AWAVI
+AUATI
+AVQL
+[]A\A]A^A_
+AWAVE1
+AUATI
+,7S1
+[]A\A]A^A_
+ATUI
+D$(1
+ u;H
+\$(dH3
+0[]A\
+APQD
+APQD
+APQD
+APQD
+ATUSH
+[]A\
+[]A\1
+-w3$
+ATUI
+[]A\
+AVAUI
+[]A\A]A^
+ATUI
+AUATU@
+]A\A]A^
+AUAT1
+tQH9
+[]A\A]
+[]A\A]
+AVAUATUI
+D$81
+l$ 1
+L$8dH3
+@[]A\A]A^
+ATUA
+dH3<%(
+ []A\
+[]A\
+[]A\
+AUATA
+[]A\A]
+AUAT1
+[]A\A]
+AVAUATUSH
+D$H1
+T$	H
+T$!H
+T$)H
+S<fA
+T$?L
+?tkH
+t$HdH34%(
+P[]A\A]A^
+AUATI
+]A\A]
+AUATA
+[]A\A]1
+[]A\A]
+AVAUL
+ATUH
+L$,L
+]A\A]A^
+D$x1
+L$xdH3
+T$x1
+T$xdH3
+AWAVAUATSH
+t0E1
+[A\A]A^A_]
+=B_$
+PAW1
+[]A\
+[]A\
+ATUA
+[]A\
+AWAVAUATUSH
+D$(1
+L$(dH3
+8[]A\A]A^A_
+ATUA
+[]A\
+AVAUI
+ATUH
+ []A\A]A^
+ATUSH
+[]A\
+[]A\
+[]A\
+AUATUSH
+[]A\A]
+[]A\A]
+AWAVAUATI
+D$81
+D$ H
+L$8dH3
+H[]A\A]A^A_
+ATU@
+[]A\
+AWAVAUATA
+\$81
+PATD
+D$ E
+D$"f
+D$$f
+D$&f
+D$8XZu
+T$ 1
+\$8dH3
+H[]A\A]A^A_
+AWAVAUATM
+D$(1
+|$8L
+L$(dH3
+8[]A\A]A^A_
+AUATUSH
+[]A\A]
+[]A\A]
+AWAV@
+AUATI
+([]A\A]A^A_
+AWAVAUATI
+D$H1
+D$(H
+L$(H
+L$HdH3
+X[]A\A]A^A_
+|$0Hc
+uGIcU
+H9T$
+T$(I
+AVAU@
+ATUI
+;[]A\A]A^
+]A\A]A^
+AUATUSH
+D$81
+D$(H
+T$8dH3
+H[]A\A]
+ATUI
+[]A\
+AUATI
+D$81
+t$8dH34%(
+H[]A\A]
+D$ H
+D$(H
+=.C$
+AUATI
+([]A\A]
+[]A\
+[]A\
+ATUA
+[]A\
+=+?$
+AWAVAUATI
+uJH=
+[]A\A]A^A_
+AWAVAUATUSH
+D$(1
+L$(dH3
+8[]A\A]A^A_
+:v8H
+[]A\
+AUATH
+[]A\A]
+AWAVAUATM
+D$H1
+D$HdH3
+X[]A\A]A^A_
+T$7H
+D$<H
+D$ H
+D$@H
+D$(H
+t$(H
+D$@H
+t]f.
+|$@1
+HcT$<L
+)T$8
+|$@1
+D$<)D$8
+AWAVAUATE
+\$`H
+D$x1
+l$ Ic
+t$Pf
+T$Pf
+D$0H
+T$0H
+D$8H
+L$xdH3
+[]A\A]A^A_
+ATUI
+3[]A\
+AWAVAUATA
+d$@I
+[]A\A]A^A_
+D$`L
+D$$1
+L$pH
+T$|A
+D$Pf
+D$Df
+D$0Ic
+D$(H
++t$(
+D$$H
+ATUI
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+AWAVI
+AUATI
+]A\A]A^A_
+AVAUI
+ATUI
+[]A\A]A^
+AUATA
+[]A\A]1
+AUATL
+D$X1
+L$XdH3
+h[]A\A]
+AUATA
+[]A\A]
+[]A\A]
+AUATA
+[]A\A]
+[]A\A]
+AUATA
+[]A\A]
+[]A\A]
+L$0A
+[]A\
+([]A\
+D$(1
+D$(dH3
+AUATL
+XZt+H
+]A\A]
+]A\A]
+@PH9
+[]A\
+D$(1
+D$(dH3
+tvrL
+@PH9
+ATUH
+[]A\
+[]A\
+AWAVH
+AUATUSH
+D$(L
+[]A\A]A^A_
+D$(H
+D$0H
+D$0L
+D$0L
+D$(L
+[]A\A]A^A_
+ATUH
+[]A\
+[]A\
+AVAUI
+ATUH
+D$X1
+D$(H
+l$0H
+D$(H
+C uJH
+Tacocat
+T$XdH3
+`[]A\A]A^
+ATUA
+[]A\
+[]A\
+ATUA
+[]A\
+[]A\
+ATUA
+[]A\
+[]A\
+ATUA
+[]A\
+[]A\
+ATUI
+ []A\
+t';P
+toAVI
+]A\A]A^
+[]A\A]A^
+AWAVA
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+ATU1
+D$(1
+H9\$
+L$(dH3
+0[]A\
+AWAVA
+AUAT
+[]A\A]A^A_
+t`USH
+{0[]
+-V	$
+AVAUI
+ATUI
+I9\$
+D9k(u
+|$(H
+t+;G
+[]A\A]A^
+[]A\A]A^
+AWAVAUATI
+[]A\A]A^A_
+AWAVAUATI
+/var/libA
+/BrlAPI/H
+/var/libH
+/BrlAPI/
+[A\A]A^A_]
+AWAVH
+AUATH
+([]A\A]A^A_
+AWAVI
+AUATA
+M;<$u
+L$(I
+d$ M
+[]A\A]A^A_
+t@SH
+AWAVI
+AUATUSH
+[]A\A]A^A_
+AUATI
+[]A\A]
+AUAT
+[]A\A]
+AVAUI
+ATUA
+[]A\A]A^
+AVAUATUSH
+[]A\A]A^
+]A\A]A^
+ATUS
+AWAVI
+AUATUSH
+H;T$
+[]A\A]A^A_
+AWAVAUATUSH
+w dH
+D$H1
+\$HdH3
+X[]A\A]A^A_
+L$ H
+D$(I
+D$(H
+l$(1
+AVAUI
+ATUA
+[]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+AWAVAUATA
+[A\A]A^A_]
+tHE9
+tnE9
+ tdA
+AUATI
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+AWAVAUATI
+au}H
+[]A\A]A^A_
+vucI
+D$@H
+AVAUI
+ATUI
+[]A\A]A^
+AVAUA
+ATUI
+[]A\A]A^
+xVt$H
+AVH9
+AUATUI
+[]A\A]A^
+]A\A]A^
+ATUI
+[]A\H
+[]A\
+AWAVAUATI
+([]A\A]A^A_
+[]A\A]A^A_
+AWAVH
+AUATUSH
+dH34%(
+[]A\A]A^A_
+D$PH
+D$4L
+D$@H
+D$8H
+~IHc}
+;t$4~
+t$4A
+D$4L
+|$(1
+D$0L
+|$ L
+L$0L
+|$ H
+t$8H
+t$8H
+t$8D
+4101
+/var/libA
+/BrlAPI/L
+AUATUSL
+[]A\A]
+ATUS
+H;L$
+ []A\
+AWAVAUATI
+[A\A]A^A_]
+f`tBL
+s@B"
+D$|H
+ATUI
+AUATI
+D$X1
+L$XdH3
+h[]A\A]
+tvHcD$
+t:USH
+t'9w
+ AVH
+ AUE
+ATUSA!
+D;(tbf
+D;(tjf
+([]A\A]A^A_
+AWAVAUATUSH
+D$8D
+D$4D
+D9d$
+L$(H
+|$4D
+T$01
+L$,A
+L$(E!
+T$ D
+L$(D
+L$,H
+T$ D
+T$(H
+L$,D
+H[]A\A]A^A_
+[]A\A]A^A_
+T$0H
+t$(D
+L$(H
+|$8D
+L$(D
+dH34%(
+AULc
+ATUI
+[]A\A]
+AWAVAUATI
+([]A\A]A^A_
+[]A\A]A^A_
+AUATUSH
+A;,$}CH
+[]A\A]
+[]A\A]
+AWAVAUATI
+AYAZH
+[]A\A]A^A_
+t$ H
+AWAVA
+AUATL
+[]A\A]A^A_
+unhandled
+screen
+%02u
+%04u
+command executed
+speech tracked
+sessions
+@unknown
+stopping program components
+stopped program components
+%d%c
+ftruncate
+lseek
+%s: %s: %s
+unexpected PID file state: %u
+pid file open error
+program exit event added: %s
+/usr/share/locale
+program-path
+PATH
+realpath
+cannot fix install path
+install path not absolute
+program-directory
+program directory: %s
+stopping program component: %s
+instance already running: PID=%d
+cannot open process identifier file
+cannot determine program directory
+<standard-error>
+<standard-output>
+<standard-input>
+/proc/self/exe
+readlink
+service installation
+service removal
+READY=1
+sd_notify
+configuration file directive
+configuration directive
+configuration value
+%s: %ls
+invalid flag setting
+invalid counter setting
+options
+unknown option
+%s: %c%c
+missing operand
+Usage
+ ...]
+%s_%s
+file '%s' processing error.
+input file open error: %s: %s
+configuration directive specified more than once
+unknown configuration directive
+/proc/cmdline
+%2.2X
++%lX
+%Y-%m-%d@%H:%M:%S
+%.*s.%03u 
+[%s] 
+%s error %d: %s.
+feature not supported: %s
+possible cause: %s
+backtrace: %s
+backtrace_symbols
+no frames
+ingio
+Generic Input
+generic input
+inpkts
+Input Packets
+input packet
+outpkts
+Output Packets
+output packet
+brlkeys
+Braille Key Events
+braille key
+kbdkeys
+Keyboard Key Events
+keyboard key
+csrtrk
+Cursor Tracking
+csrrtg
+Cursor Routing
+cursor routing
+update
+Update Events
+Speech Events
+Async Events
+Server Events
+serial
+Serial I/O
+USB I/O
+bluetooth
+Bluetooth I/O
+Bluetooth
+brldrv
+Braille Driver Events
+spkdrv
+Speech Driver Events
+scrdrv
+Screen Driver Events
+emergency
+critical
+warning
+notice
+information
+debug
+-all
+address-table
+fcntl[struct flock *]
+.brltty
+Override Directory: %s
+path has no extension: %s
+cannot create directory
+not a directory: %s
+directory created: %s
+getcwd
+cannot get working directory
+cannot set working directory
+/etc/xdg
+XDG_CONFIG_DIRS
+XDG_CONFIG_HOME
+.config
+no override directories
+no primary override directory
+cannot open file: %s: %s
+[%d]
+cannot access directory: %s: %s
+/dev/console
+console opened: fd=%d
+console-stream
+console open
+console write
+DTDEVROOT
+/dev
+device directory: %s
+%s device names not defined
+checking %s device: %s
+%s%c
+UTDEVROOT
+device directory error: %s (%s): %s
+%s device access error: %s: %s
+%s%c%s
+missing parameter value
+%s: %.*s
+missing parameter qualifier
+missing parameter name
+unsupported parameter
+%s: %s=%s
+clock not available: %u
+nanosleep
+invalid async handle
+end: level %u: %s
+waiting: %ld
+begin: level %u: timeout %ld
+alarm handled
+task performed
+I/O operation handled
+wait timed out
+alarm added
+alarm starting
+next alarm: %ld
+task added
+task starting
+poll
+output transferred
+input transferred
+file alert monitor
+file output monitor
+file input monitor
+event starting
+short write
+event added
+event removed
+sigaddset
+sigemptyset
+pthread_setmask
+sigaction
+sigismember
+sigfillset
+signal monitor removed: %d
+destroying
+%s end-of-file: fd=%d sig=%d
+signal %d starting
+signal %d finished
+signalfd
+signal monitor added: %d
+signal number not claimable
+signal number already claimed
+signal number in use
+%s: %d
+signal number not claimed: %d
+no obtainable signal number
+deactivating signal monitoring: %d
+%s signalfd monitor: sig=%d fd=%d
+%s read error: fd=%d sig=%d: %s
+activating signal monitoring: %d
+signal number not obtained: %d
+signalfd
+creating thread: %s
+thread not created: %s: %s
+pthread_key_create
+mutex lock
+mutex unlock
+thread starting: %s
+thread finished: %s
+pthread_setspecific
+queue-discarded-elements
+Port enable error: %u.%u: %s
+Port disable error: %u.%u: %s
+%s read error: fd=%d: %s
+%s end-of-file: fd=%d
+cannot open device: %s: %s
+device opened: %s: fd=%d
+/proc/sys/kernel/modprobe
+cannot open %s: %s
+cannot create device: %s: %s
+device closed: %s: fd=%d
+BRLTTY
+%s %s %s
+5.3.1
+pid-%u/%s/%d
+ioctl[UI_SET_PHYS]
+uinput opened: %s fd=%d
+write(struct uinput_user_dev)
+ioctl[UI_DEV_CREATE]
+ioctl[UI_SET_EVBIT]
+write(struct input_event)
+ioctl[UI_SET_KEYBIT]
+ioctl[UI_SET_SNDBIT]
+ioctl[UI_SET_LEDBIT]
+input/uinput
+xt00
+xtE0
+xtE1
+at00
+atE0
+atE1
+kernel module not installed: %s
+device created: %s mode=%06o major=%d minor=%d
+cannot fstat device: %d [%s]: %s
+not a character device: %s: fd=%d
+cannot open uinput device: %s: %s
+input event monitor opened: fd=%d
+input event monitor
+$%&21
+++'()345:;<=>?@ABCDWX
+FwnfhokmjilgEb7JN`OPQKLMGHIRSV
+Y]|\^_
+*8}a6d~
+10#"
+45&'
++|XFliwgok
+OjKGmfhRSPLMHEb
+`QyNI7
+J^\]
+CA?=;<X
+DB@>
+10#"
+45&'
+V[Z\
+O|KGy
+RSPLMH
+EWNQJ7IF
+klmno
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSc
+VWXu
+fdopen
+starting host command:%s
+fcntl[F_DUPFD]
+fork
+execvp
+waitpid
+host command exit status: %d: %s
+host command termination signal: %d: %s
+host command stop signal: %d: %s
+unknown host command status: 0X%X: %s
+data file include loop: %s
+global-data-variables
+subtableExtension
+begin data variable listing
+end data variable listing
+global data variables
+prevoius data variable level
+%s not specified
+invalid escape sequence
+string operand too long
+variable name
+\x%02X
+\u%04X
+\U%08X
+dot number
+missing cell specification
+cells operand too long
+invalid dot number: %.1ls
+unknown %s: %.*ls
+no nested variables
+no outstanding condition
+already in else
+including data file: %s
+%.*s%.*s
+include file path
+can't remove global data variables
+illegal UTF-8 character at offset %u
+unget character count out of range: %u > %u
+invalid braille dot number: %.*ls
+dot specified more than once: %.1ls
+missing cell specification: %.*ls
+outstanding condition at end of file
+WCHAR_T
+ASCII//TRANSLIT
+pthread_rwlock_init
+lock descriptor allocated: %s
+POSIX
+UCS-%lu%cE
+wchar-charset
+current-charset
+fwrite
+invalid Unicode character
+ISO-8859-1
+iconv (char -> wchar_t) error: %s
+iconv (wchar_t -> unsigned char) error: %s
+charset-iconv
+iconv_open
+BRLTTY-5.3.1
+report listener unregistered: %u
+report listener already registered: %u
+report listener registered: %u
+none
+0-%u
+braille-driver
+speech-driver
+screen-driver
+no autodetectable %s drivers
+checking for %s driver: %s
+%s driver not found
+checking braille device: %s
+banner spoken
+main screen started
+screen driver not loadable
+%s: %s [%s]
+Screen Parameter
+.txt
+Key Help
+no key bindings
+cannot open key help
+pid-file
+setlocale
+ rev 
+%s %s%s%s
+unknown log level or category
+excess argument
+http://brltty.com/
+logLevel
+compiling keyboard table: %s
+cannot compile keyboard table
+keyboard-monitor
+not saved
+BRLTTY stopped
+Key Bindings
+Key Table
+cannot compile key table
+%s: %s -> %s
+Old Preferences File
+braille driver not loadable
+Braille Parameter
+Braille Device
+/etc
+braille driver start
+reinitializing braille driver
+speech driver not loadable
+Speech Parameter
+driver stop
+reinitializing speech driver
+reinitializing screen driver
+pid file not specified
+Braille API (BrlAPI)
+setsid
+/dev/null
+freopen[stdin]
+freopen[stdout]
+freopen[stderr]
+screen-data
+Working Directory
+workingDirectory
+Configuration File
+configurationFile
+Updatable Directory
+updatableDirectory
+preferencesFile
+Writable Directory
+writableDirectory
+Drivers Directory
+driversDirectory
+Tables Directory
+tablesDirectory
+en-nabcc
+textTable
+text-table
+left_right
+Attributes Table
+attributesTable
+attributes-table
+contraction-table
+Contraction Table
+contractionTable
+keyboard-table
+Keyboard Table
+keyboardTable
+API Parameter
+api-server
+braille device not specified
+braille-data
+speech-data
+Speech Input
+speechInput
+speech-input
+invalid message hold timeout
+Language
+.lpf
+environment-variables
+no-daemon
+Remain a foreground process.
+install-service
+remove-service
+cancel-execution
+configuration-file
+/etc/brltty.conf
+updatable-directory
+/var/lib/brltty
+preferences-file
+brltty.prefs
+writable-directory
+/var/run/brltty
+drivers-directory
+no-api
+api-parameters
+name=value,...
+driver,...
+braille-parameters
+braille-device
+identifier,...
+usb:
+release-device
+tables-directory
+/etc/brltty
+keyboard-properties
+speech-parameters
+quiet-if-no-braille
+screen-parameters
+pcm-device
+midi-device
+message-timeout
+csecs
+standard-error
+quiet
+Suppress start-up messages.
+log-level
+lvl|cat,...
+log-file
+Path to log file.
+verify
+full-help
+al bl cb es fl fv gs sd xs
+lx sc a2
+compiling contraction table: %s
+cannot compile contraction table
+performing %s driver autodetection
+initializing screen driver: %s
+regions: text=%u.%u status=%u.%u
+shifts: full=%u half=%u vertical=%u
+braille driver initialization failed
+initializing braille driver: %s -> %s
+speech driver initialization failed: %s
+initializing speech driver: %s
+Copyright (C) 1995-2015 by The BRLTTY Developers.
+cannot determine working directory
+Recognize environment variables.
+Install the %s service, and then exit.
+Remove the %s service, and then exit.
+Stop an existing instance of %s, and then exit.
+Path to default settings file.
+Path to directory which contains files that can be updated.
+Name of or path to default preferences file.
+Path to directory which can be written to.
+Path to directory containing drivers.
+Disable the application programming interface.
+Parameters for the application programming interface.
+Braille driver code (%s, %s, or one of {%s}).
+Parameters for the braille driver.
+Device for accessing braille display.
+Release braille device when screen or window is unreadable.
+Path to directory containing tables.
+Name of or path to text table (or %s).
+Name of or path to attributes table.
+Name of or path to contraction table.
+Name of or path to keyboard table.
+Properties of eligible keyboards.
+Speech driver code (%s, %s, or one of {%s}).
+Parameters for the speech driver.
+Name of or path to speech input object.
+Do not autospeak when braille is not being used.
+Screen driver code (%s, %s, or one of {%s}).
+Parameters for the screen driver.
+PCM (soundcard digital audio) device specifier.
+MIDI (Musical Instrument Digital Interface) device specifier.
+Message hold timeout (in 10ms units).
+Log to standard error rather than to the system log.
+Logging level (%s or one of {%s}) and/or log categories to enable (any combination of {%s}, each optionally prefixed by %s to disable)
+Path to process identifier file.
+Write the start-up logs, and then exit.
+Log the versions of the core, API, and built-in drivers, and then exit.
+Print a usage summary (commonly used options only), and then exit.
+Print a usage summary (all options), and then exit.
+al at ba bc bd bl bm bn cb ce ec eu fs hd hm ht hw ir lt mb md mm mn mt np pg pm sk tn ts tt vd vo vr vs xw bg
+auto
+preparing
+stopping
+prepared
+scheduled
+preparing+stop
+starting+stop
+starting+restart
+stopping+start
+activity state change: %s: %u[%s]
+unexpected activity state: %s: %s: %u[%s]
+activity action request: %s: %s
+activity action failed: %s: %s
+activity action timeout: %s: %s
+invalid preference setting: %s %s
+missing preference setting: %s
+cannot write to preferences file
+unknown preference: %s
+cannot read preferences file
+%c %s Preferences File
+%c %s
+Lautorepeat-delay
+long-press-time
+show-cursor
+show-screen-cursor
+screen-cursor-style
+blinking-cursor
+blinking-screen-cursor
+screen-cursor-visible-time
+screen-cursor-invisible-time
+skip-blank-windows
+skip-blank-braille-windows
+skip-blank-windows-mode
+eager-sliding-window
+eager-sliding-braille-window
+braille-window-overlap
+window-follows-pointer
+track-screen-pointer
+highlight-window
+speech-uppercase-indicator
+speech-whitespace-indicator
+braille-sensitivity
+touch-sensitivity
+save-on-exit
+show-submenu-sizes
+show-advanced-submenus
+show-all-items
+text-style
+expand-current-word
+capitalization-mode
+braille-firmness
+show-attributes
+blinking-attributes
+attributes-visible-time
+attributes-invisible-time
+blinking-capitals
+capitals-visible-time
+capitals-invisible-time
+skip-identical-lines
+autorepeat
+autorepeat-panning
+Degas are we not drawn onward no In union drawn onward to new eras aged
+autorepeat-interval
+touch-navigation
+braille-keyboard-enabled
+braille-input-mode
+braille-display-orientation
+alerts-console-bell
+alerts-keyboard-leds
+alert-tunes
+tune-device
+pcm-volume
+midi-volume
+midi-instrument
+fm-volume
+alert-dots
+alert-messages
+speech-volume
+speech-rate
+speech-pitch
+speech-punctuation
+say-line-mode
+autospeak
+autospeak-selected-line
+autospeak-selected-character
+autospeak-inserted-characters
+autospeak-deleted-characters
+autospeak-replaced-characters
+autospeak-completed-words
+show-speech-cursor
+speech-cursor-style
+blinking-speech-cursor
+speech-cursor-visible-time
+speech-cursor-invisible-time
+time-format
+time-separator
+show-seconds
+date-position
+date-format
+date-separator
+status-position
+status-count
+status-separator
+status-fields
+letter
+wxya
+cxya
+generic
+dash
+before
+after
+24hour
+12hour
+immediate
+higher
+some
+beeper
+midi
+normal
+rotated
+minimum
+medium
+high
+maximum
+dot7
+dot8
+rest
+8dot
+contracted
+6dot
+skip-blank-braille-windows-mode
+highlight-braille-window-location
+profile directive
+property name
+property value
+unknown property: %s:%.*ls
+Profiles
+property assigned more than once: %s:%.*ls
+--->
+fchdir
+cannot open working directory
+%u/%u
+<---
+Status Field
+.ktb
+Keyboard
+percentage
+.ttb
+Text
+.atb
+.ctb
+Contraction
+brltty@mielke.cc
+Braille Window Coordinates
+2 cells
+Braille Window Column
+1 cell
+Braille Window Row
+Screen Cursor Coordinates
+Screen Cursor Column
+Screen Cursor Row
+Screen Number
+State Dots
+State Letter
+Generic
+Restart Screen Driver
+Restart Speech Driver
+Restart Braille Driver
+Tools
+Log Categories
+Category Log Level
+Standard Error Log Level
+Emergency
+Critical
+Error
+Warning
+Notice
+Debug
+System Log Level
+Internal Parameters
+Locale Directory
+Configuration Directory
+Bug Reports
+Web Site
+Package Revision
+Package Version
+Build Information
+Braille Tables
+None
+Block
+Status Side
+Text Side
+Status Separator
+Status Count
+Status Position
+Status Cells
+Dash
+Date Separator
+Year Month Day
+Month Day Year
+Day Month Year
+Date Format
+Before Time
+After Time
+Date Position
+Show Seconds
+Time Separator
+24 Hour
+12 Hour
+Time Format
+Time Presentation
+Speech Cursor Invisible Time
+Speech Cursor Visible Time
+Blinking Speech Cursor
+Speech Cursor Style
+Show Speech Cursor
+Speak Completed Words
+Speak Replaced Characters
+Speak Deleted Characters
+Speak Inserted Characters
+Speak Selected Character
+Speak Selected Line
+Autospeak
+Immediate
+Enqueue
+Say Line Mode
+Say Space
+Speech Whitespace Indicator
+Say Cap
+Raise Pitch
+Speech Uppercase Indicator
+Some
+Speech Punctuation
+Speech Pitch
+Speech Rate
+Speech Volume
+Speech Options
+Alert Messages
+Alert Dots
+FM Volume
+MIDI Instrument
+MIDI Volume
+PCM Volume
+Beeper
+console tone generator
+soundcard digital audio
+MIDI
+soundcard synthesizer
+Tune Device
+Alert Tunes
+Keyboard LED Alerts
+Console Bell Alert
+Event Alerts
+Normal
+Rotated
+Braille Display Orientation
+Translated via Text Table
+Dots via Unicode Braille
+Braille Input Mode
+Braille Keyboard Enabled
+Minimum
+Medium
+High
+Maximum
+Touch Sensitivity
+Touch Navigation
+Autorepeat Interval
+Autorepeat Panning
+Autorepeat
+Long Press Time
+Input Options
+Track Screen Pointer
+Braille Window Overlap
+Eager Sliding Braille Window
+End of Line
+Rest of Line
+Skip Blank Braille Windows
+Skip Identical Lines
+Navigation Options
+Capitals Invisible Time
+Capitals Visible Time
+Blinking Capitals
+Attributes Invisible Time
+Attributes Visible Time
+Blinking Attributes
+Show Attributes
+Screen Cursor Invisible Time
+Screen Cursor Visible Time
+Blinking Screen Cursor
+Underline
+dots 7 and 8
+all dots
+Lower Left Dot
+dot 7
+Lower Right Dot
+dot 8
+Screen Cursor Style
+Show Screen Cursor
+Text Indicators
+Braille Firmness
+No Capitalization
+Use Capital Sign
+Superimpose Dot 7
+Capitalization Mode
+Expand Current Word
+8-Dot Computer Braille
+Contracted Braille
+6-Dot Computer Braille
+Text Style
+Braille Presentation
+Show All Items
+Show Advanced Submenus
+Show Submenu Sizes
+Menu Options
+Save on Exit
+Screen Cursor and Braille Window Column
+Screen Cursor and Braille Window Row
+Alphabetic Braille Window Coordinates
+Alphabetic Screen Cursor Coordinates
+Musical Instrument Digital Interface
+Highlight Braille Window Location
+Skip Which Blank Braille Windows
+time status field
+alva status field
+scheduled: %s
+line selected
+characters replaced
+character selected
+word inserted
+word appended
+autospeak: %s: [%d,%d] %d.%d
+braille online
+begin
+suspend: %u
+updates resumed
+resume: %u
+screen unreadable: %s
+screen: #%d %dx%d [%d,%d]
+suspending braille driver
+braille driver suspended
+resuming braille driver
+braille driver not resumed
+braille driver resumed
+autospeak disabled
+info
+%.*s %02d %c%c%c%c%c%c
+info clock second
+info clock minute
+characters inserted after cursor
+characters deleted before cursor
+characters inserted before cursor
+characters deleted after cursor
+autospeak cursor stability check
+scr=%u csr=[%u,%u]->[%u,%u] win=[%u,%u]->[%u,%u]
+%02d:%02d %02d:%02d %02d %c%c%c%c%c%c
+blink state changed
+blink state set
+speech cursor
+uppercase letters
+attributes underline
+ + %s
+LNUP
+sorted-command-table
+unknown command
+%s: %06X
+ [U+%04X]
+ [\X%02X]
+at cursor
+ #%u
+ #%u-%u
+%06X (
+command: 
+ -> 
+emul0
+emul1
+dot1
+dot2
+dot3
+dot4
+dot5
+dot6
+upper
+shift
+meta
+altgr
+toleft
+scaled
+NOOP
+do nothing
+go up one line
+LNDN
+go down one line
+WINUP
+go up several lines
+WINDN
+go down several lines
+PRDIFLN
+NXDIFLN
+ATTRUP
+ATTRDN
+go to top line
+go to bottom line
+TOP_LEFT
+go to beginning of top line
+BOT_LEFT
+PRPGRPH
+NXPGRPH
+PRPROMPT
+NXPROMPT
+PRSEARCH
+NXSEARCH
+CHRLT
+go left one character
+CHRRT
+go right one character
+HWINLT
+go left half a braille window
+HWINRT
+FWINLT
+FWINRT
+go forward one braille window
+FWINLTSKIP
+FWINRTSKIP
+LNBEG
+go to beginning of line
+LNEND
+go to end of line
+go to screen cursor
+BACK
+go back after cursor tracking
+RETURN
+FREEZE
+DISPMD
+SIXDOTS
+set text style 6-dot/8-dot
+SLIDEWIN
+SKPIDLNS
+SKPBLNKWINS
+CSRVIS
+CSRHIDE
+CSRTRK
+CSRSIZE
+CSRBLINK
+ATTRVIS
+ATTRBLINK
+set attribute blinking on/off
+CAPBLINK
+TUNES
+set alert tunes on/off
+AUTOREPEAT
+set autorepeat on/off
+AUTOSPEAK
+set autospeak on/off
+HELP
+enter/leave help display
+INFO
+enter/leave status display
+LEARN
+PREFMENU
+enter/leave preferences menu
+PREFSAVE
+save preferences to disk
+PREFLOAD
+restore preferences from disk
+MENU_FIRST_ITEM
+go up to first item
+MENU_LAST_ITEM
+go down to last item
+MENU_PREV_ITEM
+go up to previous item
+MENU_NEXT_ITEM
+go down to next item
+MENU_PREV_SETTING
+select previous choice
+MENU_NEXT_SETTING
+select next choice
+MUTE
+stop speaking
+SPKHOME
+SAY_LINE
+speak current line
+SAY_ABOVE
+SAY_BELOW
+SAY_SLOWER
+decrease speaking rate
+SAY_FASTER
+increase speaking rate
+SAY_SOFTER
+decrease speaking volume
+SAY_LOUDER
+increase speaking volume
+SWITCHVT_PREV
+SWITCHVT_NEXT
+CSRJMP_VERT
+PASTE
+RESTARTBRL
+restart braille driver
+RESTARTSPEECH
+restart speech driver
+OFFLINE
+SHIFT
+UPPER
+CONTROL
+META
+TIME
+show current date and time
+MENU_PREV_LEVEL
+go to previous menu level
+ASPK_SEL_LINE
+ASPK_SEL_CHAR
+ASPK_INS_CHARS
+ASPK_DEL_CHARS
+ASPK_REP_CHARS
+ASPK_CMP_WORDS
+SPEAK_CURR_CHAR
+speak current character
+SPEAK_PREV_CHAR
+SPEAK_NEXT_CHAR
+SPEAK_CURR_WORD
+speak current word
+SPEAK_PREV_WORD
+go to and speak previous word
+SPEAK_NEXT_WORD
+go to and speak next word
+SPEAK_CURR_LINE
+SPEAK_PREV_LINE
+go to and speak previous line
+SPEAK_NEXT_LINE
+go to and speak next line
+SPEAK_FRST_CHAR
+SPEAK_LAST_CHAR
+SPEAK_FRST_LINE
+SPEAK_LAST_LINE
+DESC_CURR_CHAR
+describe current character
+SPELL_CURR_WORD
+spell current word
+ROUTE_CURR_LOCN
+SPEAK_CURR_LOCN
+speak speech cursor location
+SHOW_CURR_LOCN
+CLIP_SAVE
+save clipboard to disk
+CLIP_RESTORE
+restore clipboard from disk
+BRLUCDOTS
+BRLKBD
+UNSTICK
+ALTGR
+BRL_STOP
+stop the braille driver
+BRL_START
+start the braille driver
+SPK_STOP
+stop the speech driver
+SPK_START
+start the speech driver
+SCR_STOP
+stop the screen driver
+SCR_START
+start the screen driver
+SELECTVT_PREV
+SELECTVT_NEXT
+PRNBWIN
+NXNBWIN
+TOUCH_NAV
+set touch navigation on/off
+ROUTE
+CLIP_NEW
+CLIP_ADD
+COPY_RECT
+rectangular copy to character
+COPY_LINE
+linear copy to character
+SWITCHVT
+PRINDENT
+NXINDENT
+DESCCHAR
+describe character
+SETLEFT
+SETMARK
+GOTOMARK
+GOTOLINE
+go to selected line
+PRDIFCHAR
+NXDIFCHAR
+CLIP_COPY
+copy characters to clipboard
+CLIP_APPEND
+PASTE_HISTORY
+SET_TEXT_TABLE
+set text table
+SET_ATTRIBUTES_TABLE
+set attributes table
+SET_CONTRACTION_TABLE
+set contraction table
+SET_KEYBOARD_TABLE
+set keyboard table
+SET_LANGUAGE_PROFILE
+set language profile
+SELECTVT
+ALERT
+render an alert
+PASSCHAR
+type unicode character
+PASSDOTS
+type braille dots
+PASSAT
+AT (set 2) keyboard scan code
+PASSXT
+XT (set 1) keyboard scan code
+PASSPS2
+CONTEXT
+switch to command context
+TOUCH_AT
+current reading location
+KEY_ENTER
+enter key
+KEY_TAB
+tab key
+KEY_BACKSPACE
+backspace key
+KEY_ESCAPE
+escape key
+KEY_CURSOR_LEFT
+cursor-left key
+KEY_CURSOR_RIGHT
+cursor-right key
+KEY_CURSOR_UP
+cursor-up key
+KEY_CURSOR_DOWN
+cursor-down key
+KEY_PAGE_UP
+page-up key
+KEY_PAGE_DOWN
+page-down key
+KEY_HOME
+home key
+KEY_END
+end key
+KEY_INSERT
+insert key
+KEY_DELETE
+delete key
+KEY_FUNCTION
+function key
+go up to nearest line with different content
+go down to nearest line with different content
+go up to nearest line with different highlighting
+go down to nearest line with different highlighting
+go to beginning of bottom line
+go up to first line of paragraph
+go down to first line of next paragraph
+go up to previous command prompt
+go down to next command prompt
+search backward for clipboard text
+search forward for clipboard text
+go right half a braille window
+go backward one braille window
+go backward skipping blank braille windows
+go forward skipping blank braille windows
+go to screen cursor or go back after cursor tracking
+set screen image frozen/unfrozen
+set display mode attributes/text
+set sliding braille window on/off
+set skipping of lines with identical content on/off
+set skipping of blank braille windows on/off
+set screen cursor visibility on/off
+set hidden screen cursor on/off
+set track screen cursor on/off
+set screen cursor style block/underline
+set screen cursor blinking on/off
+set attribute underlining on/off
+set capital letter blinking on/off
+enter/leave command learn mode
+go to current speaking position
+speak from top of screen through current line
+speak from current line through bottom of screen
+switch to the previous virtual terminal
+switch to the next virtual terminal
+bring screen cursor to current line
+insert clipboard text after screen cursor
+braille display temporarily unavailable
+cycle the Shift sticky input modifier (next, on, off)
+cycle the Upper sticky input modifier (next, on, off)
+cycle the Control sticky input modifier (next, on, off)
+cycle the Meta (Left Alt) sticky input modifier (next, on, off)
+set autospeak selected line on/off
+set autospeak selected character on/off
+set autospeak inserted characters on/off
+set autospeak deleted characters on/off
+set autospeak replaced characters on/off
+set autospeak completed words on/off
+go to and speak previous character
+go to and speak next character
+go to and speak first non-blank character on line
+go to and speak last non-blank character on line
+go to and speak first non-blank line on screen
+go to and speak last non-blank line on screen
+bring screen cursor to speech cursor
+set speech cursor visibility on/off
+set braille input mode dots/text
+set braille keyboard enabled/disabled
+clear all sticky input modifiers
+cycle the AltGr (Right Alt) sticky input modifier (next, on, off)
+cycle the GUI (Windows) sticky input modifier (next, on, off)
+bind to the previous virtual terminal
+bind to the next virtual terminal
+go backward to nearest non-blank braille window
+go forward to nearest non-blank braille window
+bring screen cursor to character
+start new clipboard at character
+append to clipboard from character
+switch to a specific virtual terminal
+go up to nearest line with less indent than character
+go down to nearest line with less indent than character
+place left end of braille window at character
+remember current braille window position
+go to remembered braille window position
+go up to nearest line with different character
+go down to nearest line with different character
+append characters to clipboard
+insert clipboard history entry after screen cursor
+bind to a specific virtual terminal
+PS/2 (set 3) keyboard scan code
+command-queue
+unhandled command
+%s: %04X
+pushed command handler: %s
+popped command handler: %s
+initial
+pushed command environment: %s
+popped command environment: %s
+char %u (U+%04X):
+ on %s
+blink
+black
+brown
+light grey
+dark grey
+light blue
+light green
+light cyan
+light red
+light magenta
+yellow
+white
+custom
+keycodes
+touch
+toggle
+changes discarded
+preferences
+fclose
+fread
+invalid UTF-8 character
+column
+%s %d, %s %d
+sayScreenRegion
+learn
+learn: command=%06X
+learn: %s
+learnMode
+Learn Mode
+done
+braille stopped
+help not available
+exactly
+%s %u %s
+%s, %s
+miscellaneous
+January
+February
+March
+April
+June
+July
+August
+September
+October
+November
+December
+named pipe input error: %s: %s
+cannot set FIFO permissions: %s: %s
+named pipe end-of-file: %s
+cannot stat FIFO: %s: %s
+FIFO created: %s: fd=%d
+cannot open FIFO: %s: %s
+cannot create FIFO: %s: %s
+create named pipe
+monitor named pipe
+destroying named pipe: %s
+compiling text table: %s
+cannot compile text table
+cannot load text table
+<+)/
+7>!, $(
+10#?
+9HACIYQK[SJZEGM]UO_WN^egzm}ujs{X8
+%':-=5*3;
+nk|ioqTPv
+crdfbtlFRDpVh`B@\w
+????????
+????????
+??????
+.tti
+checking for text table: %s
+text table directive
+%s out of range: %.*ls
+not a single %s: %.*ls
+local character
+invalid %s: %.*ls
+duplicate dot number: %.1ls
+incomplete cell
+compiling attributes table: %s
+cannot compile attributes table
+cannot load attributes table
+@ABCDEFG
+HIJKLMNO
+PQRSTUVW
+XYZ[\]^_ !"#$%&'`abcdefg()*+,-./hijklmno01234567pqrstuvw89:;<=>?xyz{|}~
+attributes table directive
+attribute
+invalid attribute name: %.*ls
+.ati
+invalid attribute operator: %.1ls
+contraction table directive
+opcode
+opcode not defined: %.*ls
+find text
+replacement pattern
+begin capital sign
+end capital sign
+letter sign
+number sign
+character class name
+.cti
+character class table overflow: %.*ls
+character class already defined: %.*ls
+character class not defined: %.*ls
+starting external contraction table: %s
+external contraction table started: %s
+external contraction table stopped: %s
+cursor-position
+maximum-length
+consumed-length
+output-offsets
+unimplemented external contraction request property type: %s: %u (%s)
+external contraction output error: %s: %s
+unexpected external contraction response: %s: %s
+incomplete external contraction response: %s
+<+)/
+7>!, $(
+10#?
+%':-=5*3;
+8%s 
+key %s: 
+ (Ctx:%u Grp:%u Num:%u)
+ -> %s (Cmd:%06X)
+press
+key table directive
+title text
+note text
+key name
+hide state
+unknown hide state: %.*ls
+missing command name
+missing command modifier
+invalid target context: %ls
+too many commands: %.*ls
+unknown command name: %.*ls
+missing key group name: %.*ls
+missing key number: %.*ls
+unknown key name: %.*ls
+not a key group: %.*ls
+invalid key number: %.*ls
+keyboard function name
+sorted-keyboard-functions
+cannot map a key group
+context name
+context title redefined
+key combination
+missing modifier key
+too many modifier keys
+missing key
+duplicate modifier key: %.*ls
+duplicate key: %.*ls
+.kti
+table title specified more than once
+unknown command modifier: %.*ls
+unknown keyboard function: %.*ls
+realloc
+%s.%u
+switch to 
+LETTER_A
+LETTER_B
+LETTER_C
+LETTER_D
+LETTER_E
+LETTER_F
+LETTER_G
+LETTER_H
+LETTER_I
+LETTER_J
+LETTER_K
+LETTER_L
+LETTER_M
+LETTER_N
+LETTER_O
+LETTER_P
+LETTER_Q
+LETTER_R
+LETTER_S
+LETTER_T
+LETTER_U
+LETTER_V
+LETTER_W
+LETTER_X
+LETTER_Y
+LETTER_Z
+SYMBOL_Grave
+SYMBOL_Backslash
+SYMBOL_LeftBracket
+SYMBOL_RightBracket
+SYMBOL_Semicolon
+SYMBOL_Apostrophe
+SYMBOL_Europe2
+SYMBOL_Slash
+ACTION_Escape
+ACTION_Insert
+ACTION_DeleteBackward
+ACTION_DeleteForward
+ACTION_Home
+ACTION_End
+ACTION_PageUp
+ACTION_PageDown
+ACTION_ArrowUp
+ACTION_ArrowDown
+ACTION_ArrowLeft
+ACTION_ArrowRight
+ACTION_PrintScreen
+ACTION_SystemRequest
+ACTION_Pause
+ACTION_GuiLeft
+ACTION_GuiRight
+ACTION_Context
+ACTION_Application
+ACTION_Help
+ACTION_Stop
+ACTION_Props
+ACTION_Front
+ACTION_Open
+ACTION_Find
+ACTION_Again
+ACTION_Undo
+ACTION_Copy
+ACTION_Paste
+ACTION_Cut
+ACTION_Power
+ACTION_Sleep
+ACTION_Wakeup
+ACTION_Menu
+ACTION_Select
+ACTION_Cancel
+ACTION_Prior
+ACTION_Return
+ACTION_Separator
+ACTION_Out
+ACTION_Oper
+ACTION_Clear_Again
+ACTION_CrSel_Props
+ACTION_ExSel
+MEDIA_Mute
+MEDIA_VolumeDown
+MEDIA_VolumeUp
+MEDIA_Stop
+MEDIA_Play
+MEDIA_Record
+MEDIA_Pause
+MEDIA_PlayPause
+MEDIA_Previous
+MEDIA_Next
+MEDIA_Backward
+MEDIA_Forward
+MEDIA_Eject
+MEDIA_Close
+MEDIA_EjectClose
+FUNCTION_F1
+FUNCTION_F2
+FUNCTION_F3
+FUNCTION_F4
+FUNCTION_F5
+FUNCTION_F6
+FUNCTION_F7
+FUNCTION_F8
+FUNCTION_F9
+FUNCTION_F10
+FUNCTION_F11
+FUNCTION_F12
+FUNCTION_F13
+FUNCTION_F14
+FUNCTION_F15
+FUNCTION_F16
+FUNCTION_F17
+FUNCTION_F18
+FUNCTION_F19
+FUNCTION_F20
+FUNCTION_F21
+FUNCTION_F22
+FUNCTION_F23
+FUNCTION_F24
+MODIFIER_ShiftLeft
+MODIFIER_ShiftRight
+MODIFIER_ControlLeft
+MODIFIER_ControlRight
+MODIFIER_AltLeft
+MODIFIER_Alt
+MODIFIER_AltRight
+MODIFIER_AltGr
+CapsLock
+LOCK_Capitals
+ScrollLock
+LOCK_Scroll
+NumLock
+LOCK_Numbers
+KPNUMBER_Zero
+KPNUMBER_One
+KPNUMBER_Two
+KPNUMBER_Three
+KPNUMBER_Four
+KPNUMBER_Five
+KPNUMBER_Six
+KPNUMBER_Seven
+KPNUMBER_Eight
+KPNUMBER_Nine
+KPNUMBER_A
+KPNUMBER_B
+KPNUMBER_C
+KPNUMBER_D
+KPNUMBER_E
+KPNUMBER_F
+KPSYMBOL_DecimalSeparator
+KPSYMBOL_ThousandsSeparator
+KPSYMBOL_00
+KPSYMBOL_000
+KPPlus
+KPSYMBOL_Plus
+KPMinus
+KPSYMBOL_Minus
+KPMultiply
+KPSYMBOL_Multiply
+KPDivide
+KPSYMBOL_Divide
+KPSYMBOL_Modulo
+KPEquals
+KPSYMBOL_Equals
+KPSYMBOL_Less
+KPSYMBOL_Greater
+KPSYMBOL_PlusMinus
+KPSYMBOL_LeftParenthesis
+KPSYMBOL_RightParenthesis
+KPSYMBOL_LeftBrace
+KPSYMBOL_RightBrace
+KPSYMBOL_BitwiseAnd
+KPSYMBOL_BitwiseOr
+KPSYMBOL_BitwiseXor
+KPSYMBOL_BooleanNot
+KPSYMBOL_BooleanAnd
+KPSYMBOL_BooleanOr
+KPSYMBOL_BooleanXor
+KPSYMBOL_Space
+KPPeriod
+KPSYMBOL_Period
+KPSYMBOL_Comma
+KPSYMBOL_Colon
+KPSYMBOL_At
+KPSYMBOL_Number
+KPSYMBOL_CurrencyUnit
+KPSYMBOL_CurrencySubunit
+KPEnter
+KPACTION_Enter
+KPACTION_Backspace
+KPACTION_Tab
+KPACTION_Clear
+KPACTION_ClearEntry
+KPACTION_MemoryClear
+KPACTION_MemoryStore
+KPACTION_MemoryRecall
+KPACTION_MemoryAdd
+KPACTION_MemorySubtract
+KPACTION_MemoryMultiply
+KPACTION_MemoryDivide
+KPACTION_Binary
+KPACTION_Octal
+KPACTION_Decimal
+KPACTION_Hexadecimal
+BRAILLE_Dot0
+BRAILLE_Space
+BRAILLE_Dot1
+BRAILLE_Dot2
+BRAILLE_Dot3
+BRAILLE_Dot4
+BRAILLE_Dot5
+BRAILLE_Dot6
+BRAILLE_Dot7
+BRAILLE_Dot8
+BRAILLE_Backward
+BRAILLE_Forward
+FunctionKey
+KeypadNumberKey
+RoutingKey
+flushing
+%s %d: %s
+Keyboard Property
+invalid keyboard type: %s
+ignoring
+deferring
+discarding
+dropping
+forwarding
+received
+vendor
+product
+invalid keyboard vendor code: %s
+invalid keyboard product code: %s
+ tpl=%s
+ id=%s
+ nam=%s
+checking input device: %s
+Keyboard Instance - %s
+ioctl[EVIOCGBIT]
+key already pressed: %d
+keyboard opened: %s: fd=%d
+ioctl[EVIOCGRAB]
+%s read error: %s
+%s end-of-file
+libudev
+unrecognized %s segment: %s
+%s data: %s
+%s action: %.*s %s
+input%d/event%d
+%d:%d
+/dev/input/event%d
+%s property: %.*s %s
+closing keyboard: %s: fd=%d
+searching for keyboards
+/dev/input
+%s/%s
+cannot open directory: %s: %s
+keyboard search complete
+ bus=%04X vnd=%04X prd=%04X ver=%04X
+cannot get input device identity: %s: %s
+cannot stat input device: %s: %s
+cannot open input device: %s: %s
+cannot open sysfs dev file: %s: %s
+/dev
+/sys
+kobject uevent
+keyboard
+CA?=;<XdDB@>
+)Ye8*p
+Zfq,
+[g.- 
+\h9/!
+]i10#"
+^jr2$
+	_k3%
+`l45&'
+ams(t
+bn:6
+u+cvUVwxyz
+{|O}KG~
+oRSPLMH
+EWNQJ7IFTConsole Bell Monitor
+LED event: t=%u c=%u v=%d
+Keyboard LED Monitor
+Done
+Frozen
+Unfrozen
+Console Bell
+T<O<L<HZ
+H<L<O<TZ
+H<L<OZ
+PPOZNdMd
+@<9<
+@<Ed
+message
+tune thread state change: %d -> %d
+tune-thread
+tune thread creation
+tone: MSecs:%u Freq:%u
+beeper disabled
+beeper enabled
+beeper not available
+pcspkr
+ioctl[KDMKTONE]
+ioctl[KIOCSOUND]
+tone: MSecs:%u SmpCt:%d Freq:%f
+PCM enabled: BlkSz:%d Rate:%d ChnCt:%d Fmt:%d
+PCM block size not multiple of sample size: BlkSz:%d SmpSz:%u
+PCM disabled
+PCM not available
+Ounsupported PCM format: %d
+default
+libasound.so.2
+snd_strerror
+snd_pcm_open
+snd_pcm_close
+snd_pcm_nonblock
+snd_pcm_hw_params_malloc
+snd_pcm_hw_params_any
+snd_pcm_hw_params_set_access
+snd_pcm_hw_params_get_format
+snd_pcm_hw_params_set_format
+snd_pcm_hw_params_get_rate
+snd_pcm_hw_params_get_sbits
+snd_pcm_hw_params
+snd_pcm_hw_params_free
+snd_pcm_prepare
+snd_pcm_writei
+snd_pcm_drain
+snd_pcm_drop
+snd_pcm_resume
+set format
+ALSA PCM %s error: %s
+get rate min
+get rate max
+Invalid PCM rate range: %u-%u
+set rate near
+get channels min
+get channels max
+set channels near
+set hardware parameters
+set period time near
+set buffer time near
+set access
+get hardware parameters
+PCM device allocation
+underrun recovery - prepare
+resume - prepare
+get period size
+get format
+Unable to load ALSA PCM library.
+snd_pcm_hw_params_get_channels
+snd_pcm_hw_params_get_channels_min
+snd_pcm_hw_params_get_channels_max
+snd_pcm_hw_params_set_channels_near
+snd_pcm_hw_params_get_rate_min
+snd_pcm_hw_params_get_rate_max
+snd_pcm_hw_params_get_period_size
+snd_pcm_hw_params_set_rate_near
+snd_pcm_hw_params_set_buffer_time_near
+snd_pcm_hw_params_set_period_time_near
+Unsupported PCM sample format.
+Invalid PCM channel range: %u-%u
+ALSA PCM: Chan=%u Rate=%u BufTim=%u PerTim=%u
+hardware parameters allocation
+tone: MSecs:%u Note:%u
+MIDI disabled
+MIDI enabled
+MIDI not available
+Acoustic Grand Piano
+Bright Acoustic Piano
+Electric Grand Piano
+Honkytonk Piano
+Electric Piano 1
+Electric Piano 2
+Harpsichord
+Clavi
+Celesta
+Glockenspiel
+Music Box
+Vibraphone
+Marimba
+Xylophone
+Tubular Bells
+Dulcimer
+Drawbar Organ
+Percussive Organ
+Rock Organ
+Church Organ
+Reed Organ
+Harmonica
+Tango Accordion
+Acoustic Guitar (nylon)
+Acoustic Guitar (steel)
+Electric Guitar (jazz)
+Electric Guitar (clean)
+Electric Guitar (muted)
+Overdriven Guitar
+Distortion Guitar
+Guitar Harmonics
+Acoustic Bass
+Electric Bass (finger)
+Electric Bass (pick)
+Fretless Bass
+Slap Bass 1
+Slap Bass 2
+Synth Bass 1
+Synth Bass 2
+Violin
+Viola
+Cello
+Contrabass
+Tremolo Strings
+Pizzicato Strings
+Orchestral Harp
+Timpani
+String Ensemble 1
+String Ensemble 2
+SynthStrings 1
+SynthStrings 2
+Choir Aahs
+Voice Oohs
+Synth Voice
+Orchestra Hit
+Trombone
+Tuba
+A Santa lives evil at NASA
+Muted Trumpet
+French Horn
+Brass Section
+SynthBrass 1
+SynthBrass 2
+Soprano Sax
+Alto Sax
+Tenor Sax
+Baritone Sax
+Oboe
+English Horn
+Bassoon
+Clarinet
+Piccolo
+Recorder
+Pan Flute
+Blown Bottle
+Shakuhachi
+Whistle
+Ocarina
+Lead 1 (square)
+Lead 2 (sawtooth)
+Lead 3 (calliope)
+Lead 4 (chiff)
+Lead 5 (charang)
+Lead 6 (voice)
+Lead 7 (fifths)
+Lead 8 (bass + lead)
+Pad 1 (new age)
+Pad 2 (warm)
+Pad 3 (polysynth)
+Pad 4 (choir)
+Pad 5 (bowed)
+Pad 6 (metallic)
+Pad 7 (halo)
+Pad 8 (sweep)
+FX 1 (rain)
+FX 2 (soundtrack)
+FX 3 (crystal)
+FX 4 (atmosphere)
+FX 5 (brightness)
+FX 6 (goblins)
+FX 7 (echoes)
+FX 8 (sci-fi)
+Sitar
+Banjo
+Shamisen
+Koto
+Kalimba
+Bag Pipe
+Fiddle
+Shanai
+Tinkle Bell
+Agogo
+Steel Drums
+Woodblock
+Taiko Drum
+Melodic Tom
+Synth Drum
+Reverse Cymbal
+Guitar Fret Noise
+Breath Noise
+Seashore
+Bird Tweet
+Telephone Ring
+Helicopter
+Applause
+Gunshot
+Chromatic Percussion
+Ensemble
+Brass
+Reed
+Synth Lead
+Synth Pad
+Synth FM
+Ethnic Instruments
+Percussive Instruments
+Sound Effects
+ALSA MIDI write error: %s
+snd_seq_alloc_queue
+snd_seq_client_info_get_name
+snd_seq_client_info_sizeof
+snd_seq_close
+snd_seq_connect_to
+snd_seq_control_queue
+snd_seq_create_simple_port
+snd_seq_drain_output
+snd_seq_event_output
+snd_seq_get_queue_status
+snd_seq_open
+snd_seq_port_info_get_name
+snd_seq_port_info_get_port
+snd_seq_port_info_set_client
+snd_seq_port_info_set_port
+snd_seq_port_info_sizeof
+snd_seq_query_next_client
+snd_seq_query_next_port
+snd_seq_queue_status_free
+snd_seq_queue_status_malloc
+snd_seq_set_client_name
+out0
+Using ALSA MIDI port: %d[%s]
+Invalid ALSA MIDI port: %s
+Invalid ALSA MIDI client: %s
+No MDII devices.
+MIDI device allocation
+Unable to load ALSA MIDI library.
+snd_seq_client_info_get_client
+snd_seq_client_info_set_client
+snd_seq_port_info_get_capability
+snd_seq_queue_status_get_real_time
+Using ALSA MIDI client: %d[%s]
+Too many ALSA MIDI device components: %s
+Missing ALSA MIDI port specifier: %s
+Missing ALSA MIDI client specifier: %s
+Using ALSA MIDI device: %d[%s] %d[%s]
+Cannot start ALSA MIDI queue: %d:%d: %s
+Cannot connect to ALSA MIDI device: %d:%d: %s
+Cannot allocate ALSA MIDI queue status container: %s
+Cannot allocate ALSA MIDI queue: %s
+Cannot create ALSA MIDI output port: %s
+Cannot open ALSA sequencer: %s: %s
+Connecting to ALSA MIDI device: %d:%d
+FM disabled
+FM enabled
+FM not available
+FM synthesizer initialization failure
+libbrltty
+%s%c%s.%s
+%s_driver_%s
+%s_version_%s
+cannot load %s driver: %s
+%s %s Driver:
+ version %s
+ [compiled on %s at %s]
+   Developed by %s
+%s %s driver version %s does not match expected version %s
+cannot find %s %s driver version symbol: %s
+cannot find %s driver symbol: %s
+unsupported device: %s
+sent
+Ignored Byte
+Discarded Byte
+Unknown Packet
+Partial Packet
+Truncated Packet
+Short Packet
+Unexpected Packet
+Corrupt Packet
+Discarded Bytes
+screen driver initialization failed: %s
+insert key: 0X%04X
+transformed key: 0X%04X -> 0X%04X
+invalid screen area: cols=%d left=%d width=%d rows=%d top=%d height=%d
+main screen updated
+GPM closed
+GPM open error: %s
+GPM opened: fd=%d con=%d
+select
+Gpm_GetEvent
+Gpm_DrawPointer error: %s
+GPM file descriptor not set: %d
+NoScreen
+no screen support
+Apr 28 2016
+08:43:51
+no screen
+5.3.1
+screen changed: num=%d
+size changed: cols=%d rows=%d
+read failed: row=%d
+move: %s
+timed out: %ldms
+to: [%d,%d]
+from: [%d,%d]
+cursor-routing
+down
+screen: num=%d cols=%d rows=%d
+moved: [%d,%d] -> [%d,%d] (%ldms)
+special
+selecting
+%s %s screen: %s
+new screen selected
+destructing
+constructing
+deactivating
+help page index out of range: %u >= %u
+Help Screen
+help screen not readable
+Preferences Menu
+<off>
+columns
+rows
+setting braille firmness: %d
+setting touch sensitivity: %d
+Braille Display Dimensions: %d %s, %d %s
+setting braille autorepeat: %s Delay:%d Interval:%d
+braille offline
+braille input monitor
+null:
+NoBraille
+no braille support
+08:43:52
+5.3.1
+unimplemented braille packet verifier result: %u
+missing braille message acknowledgement
+too many missing braille message acknowledgements
+unimplemented braille response result: %u
+unsupported XT scan code: %02X %02X
+dequeued
+acknowledged
+unqueued
+Write
+F_SETFL
+F_GETFL
+input byte missing at offset %u
+disconnectResource
+testIdentifier
+isSupported
+getResourceName
+writeData
+awaitInput
+readData
+reconfigureResource
+tellResource
+askResource
+getHidReportItems
+getHidReportSize
+setHidReport
+getHidReport
+setHidFeature
+getHidFeature
+getResourceObject
+unsupported generic resource identifier: %s
+undefined serial baud: %u
+set baud: %u
+unsupported serial baud: %u
+unsupported %s: %u
+undefined %s: %u
+invalid %s: %u
+set data bits: %u
+set stop bits: %u
+set parity: %u
+unsupported serial parity: %u
+set flow control: 0X%02X
+discard input
+discard output
+flush output
+fflush
+serial-input-cts
+pthread_create
+invalid serial baud: %s
+mark
+invalid serial parity: %s
+hardware
+ttyS0
+restarting
+restarted
+baud
+dataBits
+stopBits
+parity
+flowControl
+unsupported serial data bit count: %u
+unsupported serial stop bit count: %u
+unsupported serial modem state: %d
+unsupported serial flow control: 0X%02X
+default serial baud not supported: %u
+default serial data bits not supported: %u
+default serial stop bits not supported: %u
+default serial parity not supported: %u
+default serial flow control not supported: 0X%04X
+default serial modem state not supported: %d
+invalid serial data bit count: %s
+invalid serial stop bit count: %s
+invalid serial flow control: %s
+cfsetispeed
+cfsetospeed
+tcgetattr
+tcsetattr
+TCIFLUSH
+TCOFLUSH
+tcdrain
+TIOCMGET
+TIOCMSET
+TIOCMIWAIT
+not a serial device: %s
+unsupported serial data bits value: %lX
+cannot open serial device: %s: %s
+setup packet: Typ:%02X Req:%02X Val:%04X Idx:%04X Len:%04X
+USB language code string too short: %zd
+USB language code string read error
+invalid USB vendor identifier: %s
+invalid USB product identifier: %s
+USB standard request not supported: get configuration
+USB configuration descriptor not readable: %d
+USB configuration descriptor allocate
+USB configuration descriptor not found: %d
+USB: interface descriptor not found: %d.%d
+USB: endpoint descriptor not found: %02X
+ept=%02X dir=%s xfr=%s pkt=%d ivl=%dms
+using actual device descriptor
+USB standard request not supported: get interface
+testing device: vendor=%04X product=%04X
+invalid generic devices option: %s
+USB language: %02X
+USB string read error: %u
+endpoint %02X %s
+USB: %s: %s
+endpoint reset disabled
+unfiltered input
+USB device open
+Manufacturer Name
+Product Description
+Serial Number
+device not found%s%s
+disabling autosuspend
+serial adapter: %s
+serialNumber
+vendorIdentifier
+productIdentifier
+genericDevices
+USB: HID descriptor not found
+HID report size: %02X = %u
+HID report not found: %02X
+USB report descriptor not found: %u[%u]
+HID report size not defined: %02X
+HID report count not defined: %02X
+sorted-usb-serial-adapters
+no serial operations: vendor=%04X product=%04X
+USB: communication interface descriptor not found
+USB: interrupt input endpoint descriptor not found
+unsupported CDC ACM flow control: %02X
+unsupported CDC ACM data bits: %u
+unsupported CDC ACM stop bits: %u
+Eleele
+unsupported CDC ACM parity: %u
+CDC_ACM
+Belkin request: %02X %04X %04X
+unsupported Belkin data bits: %u
+unsupported Belkin stop bits: %u
+unsupported Belkin flow control: %02X
+Unsupported Belkin DTR state: %d
+Unsupported Belkin RTS state: %d
+unsupported Belkin baud: %u
+unsupported Belkin parity: %u
+Belkin
+setting CP2101 property: %02X %04X
+unable to get CP2101 flow control
+unsupported CP2101 flow control: %02X
+unable to set CP2101 flow control: %s
+unable to get CP2101 flow control: %s
+unexpected CP2101 flow control size: %d
+unexpected CP2101 flow control data
+unsupported CP2101 data bits: %u
+unsupported CP2101 stop bits: %u
+setting CP2101 line control: 0X%04X
+unable to set CP2101 line control: %0X04X
+unable to get CP2101 line control: %s
+unexpected CP2101 line control size: %d
+unexpected CP2101 line control value: Expected:0X%04X Actual:0X%04X
+unsupported CP2101 %s state: %d
+unable to get CP2101 baud rate: %s
+unexpected CP2101 baud rate size: %d
+unexpected CP2101 baud rate value: Expected:%u Actual:%u
+unable to get CP2101 baud divisor: %s
+unexpected CP2101 baud divisor size: %d
+unexpected CP2101 baud divisor value: Expected:%u Actual:%u
+unable to set CP2101 baud rate: %s
+setting CP2101 baud divisor: %u
+unable to set CP2101 baud divisor: %s
+setting CP2101 interface state: %s
+CP2101 property output
+getting CP2101 property: %02X
+CP2101 property input
+getting CP2101 flow control
+CP2101 flow control unchanged
+setting CP2101 flow control
+verifying CP2101 flow control
+expected flow control
+actual flow control
+unsupported CP2101 parity: %u
+verifying CP2101 line control
+setting CP2101 %s state: %s
+verifying CP2101 baud rate
+verifying CP2101 baud divisor
+unsupported CP2101 baud: %u
+setting CP2101 baud rate: %u
+CP2101
+unsupported CP2110 baud: %u
+unsupported CP2110 parity: %u
+CP2110
+unsupported CP2110 data bits: %u
+unsupported CP2110 stop bits: %u
+unsupported CP2110 flow control: %u
+FTDI request: %02X %04X %04X
+unsupported FTDI parity: %u
+Unsupported FTDI %s state: %d
+unsupported FTDI SIO baud: %u
+FTDI_FT232BM
+FTDI_FT8U232AM
+FTDI_SIO
+unsupported FTDI flow control: %02X
+unsupported FTDI data bits: %u
+unsupported FTDI stop bits: %u
+unsupported FTDI FT8U232AM baud: %u
+unsupported FTDI FT232BM baud: %u
+%s URB:
+ Adr:%p
+ Typ:%u
+ Buf:%p
+ Siz:%d
+ Len:%d
+ Sig:%d
+ Err:%d
+ Flg:%02X
+input data not enqueued
+%s: Ept:%02X
+input data not available
+usbdevfs
+usbfs
+0123456789
+/%u/%u%c
+strdup
+USB device descriptor read
+descriptors
+USBFS open error: %s: %s
+usbfs file opened: %s fd=%d
+USB completed request enqueue
+USB URB reap
+reaped
+USB URB status
+USB get driver name
+USB bulk transfer
+USBFS monitor started
+USBFS monitor error: %s: %s
+input pipe not created
+USB input monitor not started
+power/autosuspend
+write error: %s: %s
+setting configuration: %u
+USB configuration set
+claiming interface: %u
+USB interface in use: %u (%s)
+USB driver control
+USB interface claim
+USAB driver disconnect
+releasing interface: %u
+USB interface release
+setting alternative: %u[%u]
+USB alternative set
+clearing endpoint: %02X
+USB endpoint clear
+control output
+control input
+USB control transfer
+USB URB allocate
+submitting
+URB output
+URB submitted
+USB URB submit
+USB URB discard
+reading endpoint: %u
+/dev/bus/usb
+USBFS root candidate: %s: %s
+USBFS not mounted
+USBFS root: %s
+/proc/bus/usb
+/sys/dev/char/189:%4$u%1$n%2$u%3$u
+USB short device descriptor: %d
+another brltty process may be accessing the same device
+changing URB type from bulk to interrupt
+USB request not found: urb=%p ept=%02X
+USB input transfer not supported: %d
+USB output transfer not supported: %d
+USB endpoint completed request queue allocate
+USB endpoint extension allocate
+/sys/class/usb_device/usbdev%2$u.%3$u/device%1$n
+/sys/class/usb_endpoint/usbdev%2$u.%3$u_ep00/device%1$n
+bluetooth-device-queue
+obtaining device name
+device name: %s
+device name not obtained
+invalid discover option: %s
+RFCOMM channel: %u
+address
+channel
+discover
+invalid Bluetooth device address: %s
+invalid RFCOMM channel number: %s
+invalid Bluetooth connection timeout: %s
+discovering serial port channel
+serial port channel discovered: %u
+serial port channel not discovered
+Active Braille
+ALVA BC
+Basic Braille
+BAUM Conny
+Baum PocketVario
+Baum SuperVario
+Baum SVario
+BrailleConnect
+BrailleEDGE
+BMpk
+BMsmart
+BM32
+BrailleSense
+Braille Star
+Braillex
+Brailliant BI
+EL12-
+Focus
+HWG Brailliant
+MB248
+Pronto!
+Refreshabraille
+VarioConnect
+VarioUltra
+sdp_get_access_protos
+sdp_extract_pdu
+channel discovery response
+RFCOMM connect
+connect error: %s
+RFCOMM bind
+RFCOMM socket
+L2CAP connect
+L2CAP socket
+sdp_service_search_attr_async
+sdp_set_notify
+sdp_create
+unexpected HCI event type: %u
+hci_send_cmd
+hci_open_dev
+hci_get_route
+unexpected Bluetooth packet
+unexpected channel discovery response type: %u
+unexpected channel discovery response status: %u
+unexpected Bluetooth packet type: %u
+setsockopt[SOL_HCI,HCI_FILTER]
+getsockopt[SOL_HCI,HCI_FILTER]
+file system mounted: %s[%s] -> %s
+file system mount error: %s[%s] -> %s: %s
+/etc/mtab
+mounted file systems table open erorr: %s: %s
+mounts table entry add error: %s[%s] -> %s: %s
+mute: %s
+say: %s
+drain speech
+set volume: %d
+set rate: %d
+set pitch: %d
+set punctuation: %d
+request
+unqueuing
+%s speech %s: 
+sending
+handling
+unimplemented message: %u
+enqueuing
+unimplemented request: %u
+driver thread %s
+starting driver
+ready
+stopping driver
+driver construction failure
+request finished
+speech finished
+speech location
+say text
+mute speech
+set volume
+set rate
+set pitch
+set punctuation
+request event construction failure
+driver thread initialization failure
+driver thread initialization timeout
+driver thread creation failure: %s
+response event construction failure
+NoSpeech
+no speech support
+08:43:56
+5.3.1
+}M?B`e?
+ Apthread_sigmask[SIG_BLOCK]
+bind waiting: %s: %s
+releasing tty %#010x
+stat
+chmod
+Unix path too long
+making socket directory
+/var/lib/BrlAPI
+opening local socket lock
+linking local socket lock: %s
+checking local socket lock
+removing old socket
+bind: %s
+listen
+DEFAULT
+LOCAL
+socket creation started: %ld
+creating socket: %d (%s:%s)
+getaddrinfo(%s,%s): %s
+setsockopt[SOCKET,REUSEADDR]
+setsockopt[TCP,NODELAY]
+socket allocation error: %s
+socket %d created (fd %d)
+socket creation finished: %ld
+write in writePacket
+error %u on fd %d
+apiBrailleWindowMutex[d]
+apiAcceptedKeysMutex[d]
+writing error %d to %d
+remaining>sizeof(uint32_t)
+%s not met: packet too small
+%s not met: wrong packet size
+%s not met: wrong driver name
+!c->suspend
+driver busy (%s)
+going out of raw mode
+!c->raw
+driver resume error
+isRawCapable(trueBraille)
+c->tty
+range: [%016lx..%016lx]
+no memory for key range
+(!c->raw)
+remaining>=sizeof(uint32_t)
+*p<=BRLAPI_MAXNAMELENGTH
+remaining==n
+no memory for accepted keys
+already having another tty
+allocated tty %#010lx
+no memory for new tty
+already having a tty
+isKeyCapable(trueBraille)
+tty %#010lx ok
+writing exception %d to %d
+remaining>=sizeof(wa->flags)
+remaining>2*sizeof(uint32_t)
+%s not met: invalid region
+remaining>=textLen
+remaining>=rsiz
+cursor<=displaySize
+%s not met: wrong cursor
+wa->flags & BRLAPI_WF_TEXT
+remaining>=1
+remaining>=charsetLen
+remaining==0
+%s not met: packet too big
+%s not met: invalid charset
+res != (size_t) -1
+!sin
+%s not met: text too big
+!sout
+%s not met: text too small
+charset %s
+focus on window %#010x
+size==0
+open in loadAuthKey
+brlapi_laudAuthKey
+stat in loadAuthKey
+wrong protocol version
+read in loadAuthKey
+authorization key loaded
+writing key %08x %08x
+BrlAPI resize
+read in brlapi_readPacket
+Auth
+Unknown
+closing connection on fd %d
+received %s request on fd %d
+unknown packet type
+freeing tty %#010x
+server thread started
+no hosts specified
+server-socket-create-%d
+pthread_create: %s
+select: %s
+accept(%d): %s
+closing socket
+unlinking local socket
+unlinking local socket lock
+server thread finished
+api link
+api unlink
+BrlAPI Server: release 0.6.4
+:0+127.0.0.1:0
+/etc/brlapi.key
+invalid thread stack size
+server-main
+pthread_cancel: %s
+GetDriverName
+GetDisplaySize
+EnterTtyMode
+LeaveTtyMode
+IgnoreKeyRanges
+AcceptKeyRanges
+EnterRawMode
+LeaveRawMode
+SuspendDriver
+ResumeDriver
+Exception
+auth
+host
+stacksize
+another BrlAPI server is already listening on %s (file %s exists)
+removing stale local socket lock
+writing pid in local socket lock
+removing temp local socket lock
+error while creating socket %d
+unable to find a local TCP port %s:%s !
+ntohl(getDevicePacket->magic)==BRLAPI_DEVICE_MAGIC
+%s not met: wrong magic number
+getDevicePacket->nameLength<=BRLAPI_MAXNAMELENGTH && getDevicePacket->nameLength == strlen(trueBraille->definition.name)
+%s not met: wrong driver length
+remaining==getDevicePacket->nameLength
+((!strncmp(&getDevicePacket->name, trueBraille->definition.name, remaining)))
+%s not met: not allowed out of suspend mode
+%s not met: not allowed in suspend mode
+%s not met: not allowed out of raw mode
+%s not met: not allowed in raw mode
+%s not met: driver doesn't support Raw mode
+%s not met: not allowed out of tty mode
+!(size%2*sizeof(brlapi_keyCode_t))
+remaining>=nbTtys*sizeof(uint32_t)
+%s not met: packet too small for provided number of ttys
+%s not met: driver name too long
+%s not met: packet size doesn't match format
+!strcmp(name, trueBraille->definition.name)
+Failed to allocate some resources
+already controlling tty %#010x
+Switching from BRL_KEYCODES to BRL_COMMANDS not supported yet
+taking control of tty %#010x (how=%d)
+%s not met: driver doesn't support raw keycodes
+exception %u for packet type %lu on fd %d
+%s not met: packet too small for flags
+(wa->flags & BRLAPI_WF_DISPLAYNUMBER)==0
+%s not met: display number not yet supported
+%s not met: packet too small for region
+(rbeg >= 1) && (rbeg <= displaySize)
+%s not met: invalid region start
+(rsiz > 0) && (rsiz <= displaySize)
+%s not met: invalid region size
+((rbeg + rsiz - 1) <= displaySize)
+warning: client uses deprecated regionBegin=0 and regionSize = 0
+%s not met: packet too small for text length
+%s not met: packet too small for text
+%s not met: packet too small for And mask
+%s not met: packet too small for Or mask
+%s not met: packet too small for cursor
+%s not met: charset requires text
+%s not met: packet too small for charset length
+%s not met: packet too small for charset
+(conv = iconv_open(getWcharCharset(),charset)) != (iconv_t)(-1)
+%s not met: invalid charset conversion
+%s not met: packet should be empty
+wrong packet type (should be version)
+wrong packet type (should be auth)
+unsupported authorization method %d
+Unable to load API authorization key from %s: %s in %s. You may use parameter auth=none if you don't want any authorization (dangerous)
+BrlAPI connection fd=%d failed authorization
+read in brlapi_readPacketHeader
+read : %s (connection on fd %d)
+Client on fd %d did not give up raw mode properly
+Trying to reset braille terminal
+Reset failed. Restarting braille driver
+Client on fd %d did not give up suspended mode properly
+Couldn't resume braille driver
+trying to reset braille terminal
+Resetting braille terminal failed, hoping it's ok
+client on fd %d did not give up control of tty %#010x properly
+Discarding too large packet of type %s on fd %d
+too many hosts specified (%d, max %d)
+BrlAPI connection fd=%d accepted: %s
+Too many simultaneous unauthorized connections
+Failed to switch to non-blocking mode: %s
+Failed to create connection structure
+API got key %02x %02x (press %d), thus client code %016lx
+transmitting accepted key %016lx
+command %08x could not be converted to BrlAPI with retaindots
+command %08x -> client code %016lx
+command %08x could not be converted to BrlAPI without retaindots
+transmitting accepted command %lx as client code %016lx
+   Copyright (C) 2002-2015 by S
+bastien Hinderer <Sebastien.Hinderer@ens-lyon.org>, Samuel Thibault <samuel.thibault@ens-lyon.org>
+Beeb
+Unable to create connections list
+Unable to create ttys' connections list
+[%lx(%lx)..%lx(%lx)]
+adding range [%x(%x)..%x(%x)]
+removing range [%x(%x)..%x(%x)]
+checking key file: %s
+getsockopt[SO_PEERCRED]
+unknown group: %s
+unknown user: %s
+keyfile
+no matching user or group
+user
+local <unnamed>
+local %s
+inet %s:%d
+af=%d %s:%s
+address family %d:
+path to key file not specified
+unknown authentication/authorization method: %.*s
+reverse lookup error for address family %d: %s
+;*3$"
+brltty
+"6l&
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.data.rel.ro
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

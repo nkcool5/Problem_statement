@@ -1,0 +1,1975 @@
+/lib64/ld-linux-x86-64.so.2
+X "@
+@ h(
+2b2K
+jzR=
+Gj	C
+lb1{	D
+W o-
+NxF>
+!KiD
+U+*_F
+:lTv
+]P&M
+J@Ng^m
+=\}"
+aj=%O
+QWiz
+s^@='
+libgtk-3.so.0
+g_object_new
+g_date_time_new_from_unix_local
+pango_layout_set_attributes
+g_variant_iter_free
+g_object_ref
+g_settings_get_boolean
+g_type_is_a
+g_dbus_proxy_get_name_owner
+g_type_register_static
+g_settings_new
+g_return_if_fail_warning
+g_value_get_enum
+g_io_error_quark
+g_type_register_static_simple
+g_variant_iter_init
+g_value_get_string
+gdk_pixbuf_get_type
+g_type_class_adjust_private_offset
+g_value_get_int
+g_application_get_type
+g_error_free
+g_type_add_interface_static
+g_strndup
+g_variant_builder_end
+g_variant_new_string
+g_utf8_strdown
+g_param_spec_string
+g_cclosure_marshal_VOID__STRING
+g_str_equal
+g_param_spec_enum
+g_type_interface_peek
+g_log
+g_type_name
+pango_layout_get_extents
+g_date_time_format
+g_path_get_basename
+g_list_append
+g_app_info_get_name
+pango_layout_set_alignment
+g_file_get_path
+pango_attr_list_new
+g_hash_table_get_keys
+g_list_free
+g_signal_handlers_disconnect_matched
+pango_layout_get_pixel_extents
+cairo_save
+g_hash_table_new_full
+cairo_set_source_rgb
+pango_attr_list_unref
+g_strdup
+g_value_get_object
+g_file_query_exists
+g_hash_table_insert
+g_strchomp
+g_array_append_vals
+g_ptr_array_new_with_free_func
+g_strdup_printf
+g_malloc
+g_signal_new
+g_hash_table_iter_init
+g_variant_iter_next_value
+g_strsplit
+g_desktop_app_info_new
+g_type_interface_add_prerequisite
+g_type_check_value_holds
+g_value_set_boolean
+pango_font_description_get_type
+g_value_set_string
+gdk_pixbuf_get_width
+g_app_info_get_all
+pango_font_description_new
+g_type_instance_get_private
+pango_attr_list_insert
+g_variant_builder_init
+pango_layout_set_ellipsize
+g_str_has_prefix
+g_variant_ref_sink
+g_find_program_in_path
+g_signal_connect_data
+g_once_init_enter
+g_slice_alloc0
+g_dbus_method_invocation_get_message
+g_array_new
+g_hash_table_lookup
+g_get_user_special_dir
+g_utf8_collate
+g_value_get_variant
+g_boxed_free
+g_date_time_new_local
+g_hash_table_iter_next
+g_initable_new
+g_intern_static_string
+g_type_check_value
+g_strfreev
+gdk_window_get_position
+g_getenv
+g_str_hash
+g_permission_get_can_release
+g_themed_icon_new
+g_free
+g_value_set_object
+_Jv_RegisterClasses
+g_value_set_int
+g_hash_table_unref
+g_value_set_enum
+pango_font_description_get_size
+g_quark_to_string
+g_object_set
+g_hash_table_replace
+g_object_class_install_property
+g_file_new_for_uri
+g_variant_type_free
+g_variant_unref
+g_type_class_add_private
+g_date_time_new_now_local
+g_object_notify
+g_type_check_instance_is_a
+g_object_set_property
+g_quark_from_static_string
+g_permission_get_allowed
+g_clear_error
+g_strconcat
+g_hash_table_remove
+g_param_spec_types
+God A red nugget A fat egg under a dog
+g_list_foreach
+g_object_unref
+g_array_unref
+g_once_init_leave
+g_date_time_unref
+g_warn_message
+g_variant_type_new
+g_param_spec_int
+pango_attr_font_desc_new
+cairo_restore
+g_variant_get_string
+g_strchug
+cairo_paint
+g_type_class_peek_parent
+g_file_new_for_path
+g_ptr_array_unref
+g_enum_register_static
+g_malloc0
+g_dgettext
+pango_layout_get_baseline
+g_ptr_array_add
+g_markup_escape_text
+g_settings_set_boolean
+g_value_init
+g_app_info_get_icon
+_ITM_deregisterTMCloneTable
+g_assertion_message_expr
+g_object_ref_sink
+cairo_clip
+g_file_get_uri
+g_variant_builder_add
+g_cclosure_marshal_VOID__BOOLEAN
+g_slice_free1
+g_value_unset
+pango_ellipsize_mode_get_type
+cairo_fill
+g_param_spec_object
+pango_font_description_set_weight
+gdk_cairo_rectangle
+__gmon_start__
+_ITM_registerTMCloneTable
+gdk_cairo_set_source_pixbuf
+pango_attr_size_new
+g_signal_emit_by_name
+g_signal_connect_object
+pango_layout_set_width
+g_dbus_proxy_get_type
+g_strcmp0
+gtk_editable_set_editable
+gtk_cell_renderer_get_type
+gtk_window_set_decorated
+gtk_radio_button_get_group
+gtk_widget_get_direction
+gtk_cell_renderer_text_new
+gtk_check_button_get_type
+gtk_recent_manager_purge_items
+gtk_radio_button_new_with_label_from_widget
+gtk_widget_set_visible
+gtk_widget_get_allocation
+gtk_window_get_type
+gtk_misc_set_alignment
+gtk_menu_button_new
+gtk_container_foreach
+gtk_icon_theme_get_default
+gtk_toolbar_set_icon_size
+gtk_widget_set_valign
+gtk_calendar_new
+gtk_switch_new
+gtk_tool_button_set_icon_name
+gtk_container_add
+gtk_widget_set_margin_top
+gtk_tree_selection_get_selected
+gtk_widget_show_all
+gtk_grid_new
+gtk_style_context_set_junction_sides
+gtk_icon_info_load_icon
+gtk_dialog_new
+gtk_box_pack_start
+gtk_label_set_mnemonic_widget
+gtk_combo_box_new_with_model
+gtk_tool_item_new
+gtk_button_new
+gtk_tree_view_column_new
+gtk_container_get_type
+gtk_widget_create_pango_layout
+gtk_radio_button_new_with_label
+gtk_check_button_new_with_mnemonic
+gtk_toggle_button_get_type
+gtk_switch_get_active
+gtk_entry_new
+gtk_icon_theme_lookup_by_gicon
+gtk_widget_get_toplevel
+gtk_list_store_get_type
+gtk_widget_hide
+gtk_tree_model_get
+gtk_label_new
+gtk_scrolled_window_new
+gtk_widget_destroy
+gtk_grid_attach
+gtk_tree_model_iter_next
+gtk_lock_button_new
+gtk_tree_view_append_column
+gtk_tree_view_column_clicked
+gtk_window_set_position
+gtk_toolbar_insert
+gtk_label_set_max_width_chars
+gtk_dialog_get_type
+gtk_widget_set_no_show_all
+gtk_dialog_get_content_area
+gtk_grid_set_row_spacing
+gtk_box_pack_end
+gtk_toggle_button_get_active
+gtk_image_new_from_icon_name
+gtk_icon_info_free
+gtk_widget_set_size_request
+gtk_calendar_get_date
+gtk_cell_layout_pack_start
+gtk_tree_view_column_set_max_width
+gtk_combo_box_set_active
+gtk_label_set_markup_with_mnemonic
+gtk_check_button_new_with_label
+gtk_grid_get_type
+gtk_tree_model_get_value
+gtk_widget_get_type
+gtk_main_quit
+gtk_tree_view_column_set_resizable
+gtk_builder_set_translation_domain
+gtk_list_store_remove
+gtk_widget_get_parent_window
+gtk_render_layout
+gtk_tree_model_get_iter_first
+gtk_tree_view_new_with_model
+gtk_tree_view_set_headers_visible
+gtk_label_set_line_wrap_mode
+gtk_combo_box_set_active_iter
+gtk_tree_view_get_selection
+gtk_alignment_new
+gtk_builder_get_object
+gtk_dialog_run
+gtk_window_set_skip_taskbar_hint
+gtk_list_store_insert
+gtk_list_store_set
+gtk_tree_view_column_set_sort_column_id
+gtk_button_new_from_stock
+gtk_menu_shell_append
+gtk_box_new
+gtk_scrolled_window_set_shadow_type
+gtk_cell_renderer_get_preferred_width
+gtk_list_store_append
+gtk_grid_set_column_spacing
+gtk_dialog_add_buttons
+gtk_menu_new
+gtk_recent_manager_new
+gtk_widget_set_halign
+gtk_builder_add_objects_from_file
+gtk_button_set_image
+gtk_container_set_focus_chain
+gtk_label_set_markup
+gtk_cell_layout_add_attribute
+gtk_notebook_new
+gtk_label_set_line_wrap
+gtk_file_chooser_dialog_new
+gtk_application_window_get_type
+gtk_button_get_label
+gtk_cell_renderer_get_preferred_height_for_width
+gtk_arrow_new
+gtk_box_get_type
+gtk_tree_view_set_rules_hint
+gtk_container_set_border_width
+gtk_tree_view_get_type
+gtk_notebook_prepend_page
+gtk_menu_item_new_with_label
+gtk_tree_view_column_set_title
+gtk_window_move
+gtk_style_context_get_font
+gtk_widget_render_icon_pixbuf
+gtk_list_store_set_value
+gtk_widget_set_sensitive
+gtk_switch_set_active
+gtk_cell_renderer_pixbuf_new
+gtk_notebook_append_page
+gtk_dialog_add_button
+gtk_widget_get_style_context
+gtk_link_button_new
+gtk_widget_show
+gtk_button_set_label
+gtk_scrolled_window_set_policy
+gtk_window_set_title
+gtk_misc_set_padding
+gtk_entry_set_text
+gtk_application_get_type
+gtk_builder_new
+gtk_menu_button_set_popup
+gtk_widget_set_margin_left
+gtk_window_set_destroy_with_parent
+gtk_list_store_new
+gtk_tool_button_new
+gtk_combo_box_get_model
+gtk_cell_renderer_get_padding
+gtk_tree_view_column_set_min_width
+gtk_box_set_spacing
+gtk_tree_view_get_model
+gtk_toolbar_new
+gtk_icon_theme_lookup_icon
+gtk_window_set_transient_for
+gtk_grid_set_row_homogeneous
+gtk_toggle_button_set_active
+gtk_style_context_add_class
+gtk_combo_box_get_active_iter
+gtk_window_set_resizable
+gtk_file_chooser_get_filename
+gtk_window_set_modal
+libgdk-3.so.0
+g_settings_get_uint
+g_printerr
+g_idle_add_full
+g_dngettext
+libpango-1.0.so.0
+libcairo.so.2
+libgdk_pixbuf-2.0.so.0
+g_type_check_class_cast
+g_type_check_instance_cast
+libzeitgeist-2.0.so.0
+g_simple_async_result_set_op_res_gpointer
+g_simple_async_result_complete
+g_variant_builder_add_value
+g_dbus_proxy_get_name
+g_dbus_proxy_get_object_path
+g_type_get_qdata
+g_regex_unref
+g_param_spec_internal
+g_regex_error_quark
+g_type_free_instance
+g_simple_async_result_new
+g_type_fundamental_next
+g_type_register_fundamental
+g_variant_get_type_string
+g_dbus_message_new_method_reply
+g_dbus_method_invocation_return_gerror
+g_variant_dup_string
+g_dbus_connection_send_message_with_reply_sync
+g_regex_new
+g_variant_iter_new
+g_dbus_proxy_get_default_timeout
+g_variant_builder_new
+g_signal_handlers_destroy
+g_array_ref
+g_dbus_message_set_body
+g_regex_escape_string
+g_simple_async_result_get_op_res_gpointer
+g_type_set_qdata
+g_simple_async_result_get_type
+g_dbus_method_invocation_get_connection
+g_regex_replace_literal
+g_dbus_message_new_method_call
+g_value_type_compatible
+g_dbus_connection_send_message
+g_dbus_message_get_body
+g_dbus_message_to_gerror
+g_dbus_connection_register_object
+g_hash_table_get_values
+g_simple_async_result_complete_in_idle
+g_dbus_connection_emit_signal
+g_app_info_get_id
+g_dbus_proxy_get_connection
+g_variant_builder_close
+g_variant_builder_unref
+g_type_create_instance
+g_variant_builder_open
+zeitgeist_event_get_manifestation
+zeitgeist_event_set_actor
+zeitgeist_time_range_new_anytime
+zeitgeist_subject_get_origin
+zeitgeist_event_new
+zeitgeist_log_delete_events_finish
+zeitgeist_subject_get_interpretation
+zeitgeist_subject_get_uri
+zeitgeist_event_get_type
+zeitgeist_event_set_manifestation
+zeitgeist_subject_new
+zeitgeist_event_get_subject
+zeitgeist_subject_get_manifestation
+zeitgeist_timestamp_from_now
+zeitgeist_event_to_variant
+zeitgeist_event_new_from_variant
+zeitgeist_log_find_event_ids_finish
+zeitgeist_log_new
+zeitgeist_result_set_size
+zeitgeist_log_find_events
+zeitgeist_result_set_next_value
+zeitgeist_log_find_events_finish
+zeitgeist_event_get_interpretation
+zeitgeist_subject_set_interpretation
+zeitgeist_time_range_new
+zeitgeist_subject_set_uri
+zeitgeist_event_num_subjects
+zeitgeist_subject_get_mimetype
+zeitgeist_event_get_actor
+zeitgeist_log_delete_events
+zeitgeist_event_add_subject
+zeitgeist_log_find_event_ids
+zeitgeist_event_get_timestamp
+libgee-0.8.so.2
+gee_abstract_map_has_key
+gee_hash_map_new
+gee_abstract_collection_contains
+gee_abstract_map_get_keys
+gee_list_sort
+gee_abstract_map_set
+gee_abstract_collection_add
+gee_iterator_get
+gee_array_list_add_all
+gee_iterator_next
+gee_hash_set_new
+gee_abstract_map_get
+gee_abstract_list_get
+gee_abstract_collection_get_size
+gee_abstract_collection_iterator
+gee_abstract_collection_remove
+gee_array_list_new
+libpolkit-gobject-1.so.0
+g_hash_table_ref
+polkit_permission_new_sync
+libgio-2.0.so.0
+g_spawn_command_line_async
+g_application_run
+g_app_info_get_description
+g_settings_set_uint
+g_settings_bind
+libgobject-2.0.so.0
+libglib-2.0.so.0
+g_date_time_to_unix
+g_date_time_get_ymd
+g_spawn_error_quark
+libwhoopsie-preferences.so.0
+whoopsie_preferences_get_report_metrics
+whoopsie_preferences_proxy_new_for_bus_sync
+whoopsie_preferences_call_set_report_crashes_sync
+whoopsie_preferences_call_set_report_metrics_sync
+whoopsie_preferences_get_report_crashes
+whoopsie_preferences_call_get_identifier_sync
+libpthread.so.0
+libc.so.6
+__stack_chk_fail
+bind_textdomain_codeset
+strlen
+asprintf
+system
+bindtextdomain
+__libc_start_main
+_edata
+__bss_start
+alm_app_choose_info_new
+alm_path_blacklist_is_duplicate
+alm_calendar_widget_new
+alm_app_choose_info_set_last_accessed_time
+alm_app_selection_tree_view_get_type
+alm_blacklist_interface_get_type
+alm_path_blacklist_unref
+alm_applications_tree_view_get_type
+alm_files_cell_renderer_set_text
+alm_application_blacklist_launcher_prefix
+alm_files_cell_renderer_set_path
+alm_param_spec_blacklist
+alm_activity_log_manager_new
+alm_file_type_blacklist_new
+alm_utilities_matches_event_template
+alm_privacy_widget_compare_mimes
+alm_file_type_blacklist_populate_file_types
+alm_app_choose_info_get_id
+alm_value_get_file_type_blacklist
+alm_usage_cell_renderer_get_usage
+alm_alm_window_construct
+alm_file_type_blacklist_unref
+alm_usage_cell_renderer_new
+alm_value_take_file_type_blacklist
+Do nine men interpret Nine men I nod
+__libc_csu_fini
+alm_app_choose_info_set_usage
+alm_files_cell_renderer_get_pixbuf
+alm_blacklist_get_all_applications
+alm_app_choose_info_get_name
+alm_application_blacklist_get_type
+alm_application_blacklist_unblock
+alm_alm_window_new
+__data_start
+alm_applications_chooser_dialog_construct
+alm_calendar_widget_set_up_calendar
+alm_path_blacklist_ref
+alm_applications_tree_view_new
+alm_exception_cell_renderer_new
+alm_application_blacklist_interpretation_prefix
+alm_value_get_utilities
+alm_blacklist_find_all_apps
+alm_app_choose_info_set_icon
+alm_privacy_widget_new
+whoopsie_daisy_preferences_get_type
+alm_blacklist_get_all_templates
+alm_exception_cell_renderer_get_pixbuf
+alm_value_set_application_blacklist
+alm_blacklist_construct
+alm_blacklist_interface_remove_template
+alm_blacklist_get_incognito
+alm_value_set_path_blacklist
+alm_app_choose_info_ref
+alm_param_spec_path_blacklist
+alm_delete_history_dialog_get_type
+alm_utilities_parse_negation
+alm_value_set_app_choose_info
+alm_app_choose_info_set_name
+alm_exception_cell_renderer_set_text
+alm_utilities_matches_subject_template
+alm_blacklist_remove_template
+whoopsie_daisy_preferences_new
+alm_blacklist_find_all_apps_finish
+alm_applications_tree_view_get_liststore
+alm_search_results_widget_get_remote_content_search
+alm_app_selection_tree_view_get_liststore
+alm_delete_history_dialog_construct
+alm_param_spec_application_blacklist
+alm_path_blacklist_block
+alm_usage_cell_renderer_construct
+alm_app_choose_info_construct
+alm_search_results_widget_set_up_ui
+alm_calendar_widget_get_range
+Tacocat
+alm_delete_history_dialog_new
+alm_privacy_widget_get_type
+alm_utilities_new
+alm_item_type_get_type
+alm_delete_history_dialog_on_delete_history
+alm_app_choose_info_get_last_accessed_time
+alm_usage_cell_renderer_get_type
+alm_calendar_dialog_get_calendar_widget
+alm_exception_cell_renderer_construct
+alm_utilities_from_variant
+alm_blacklist_get_count_for_app
+alm_app_choose_info_get_usage
+alm_delete_history_dialog_get_active_radio_button
+alm_utilities_get_type
+alm_applications_chooser_dialog_insert_app_liststore
+alm_value_take_blacklist
+alm_application_blacklist_construct
+alm_application_new
+alm_value_get_application_blacklist
+alm_value_take_app_choose_info
+alm_app_choose_info_set_last_accessed
+alm_search_results_widget_remote_content_get_type
+alm_applications_tree_view_remove_app_from_view
+alm_calendar_widget_construct
+alm_value_take_utilities
+alm_alm_window_get_type
+alm_calendar_dialog_get_type
+alm_files_cell_renderer_get_type
+alm_app_selection_tree_view_get_tree
+alm_path_blacklist_construct
+alm_app_choose_info_get_last_accessed
+alm_blacklist_add_template
+alm_application_blacklist_new
+alm_application_blacklist_block
+alm_path_blacklist_get_type
+alm_search_results_widget_construct
+alm_activity_log_manager_get_type
+alm_app_choose_info_unref
+__libc_csu_init
+alm_blacklist_new
+alm_calendar_widget_get_type
+alm_value_take_path_blacklist
+alm_value_set_blacklist
+alm_app_choose_info_get_type
+alm_search_results_widget_get_type
+alm_search_results_widget_new
+alm_blacklist_interface_get_templates
+alm_applications_chooser_dialog_new
+alm_utilities_to_variant
+alm_blacklist_ref
+alm_application_blacklist_get_all_applications
+alm_path_blacklist_unblock
+alm_exception_cell_renderer_set_pixbuf
+alm_utilities_construct
+alm_blacklist_interface_add_template
+alm_files_cell_renderer_get_text
+alm_file_type_blacklist_interpretation_prefix
+alm_path_blacklist_new
+alm_calendar_dialog_construct
+alm_exception_cell_renderer_get_type
+alm_application_blacklist_get_all_apps
+alm_applications_chooser_dialog_get_tree
+alm_app_choose_info_get_icon
+alm_alm_window_on_destroy
+alm_file_type_blacklist_block
+alm_application_construct
+alm_privacy_widget_construct
+alm_value_get_app_choose_info
+alm_applications_chooser_dialog_handle_app_population
+alm_search_results_widget_set_remote_content_search
+alm_path_blacklist_get_all_folders
+alm_calendar_dialog_new
+alm_utilities_ref
+alm_utilities_unref
+alm_param_spec_file_type_blacklist
+alm_files_cell_renderer_set_pixbuf
+alm_blacklist_find_events_finish
+alm_file_type_blacklist_construct
+alm_security_widget_new
+alm_applications_chooser_dialog_get_type
+_vala_main
+alm_app_selection_tree_view_construct
+alm_search_results_widget_on_commercial_suggestion_activated
+alm_file_type_blacklist_ref
+alm_activity_log_manager_construct
+alm_value_get_blacklist
+alm_value_get_path_blacklist
+alm_application_blacklist_get_count_for_app
+alm_value_take_application_blacklist
+alm_files_cell_renderer_new
+alm_exception_cell_renderer_get_text
+alm_path_blacklist_folder_prefix
+alm_applications_tree_view_add_application_to_view
+alm_usage_cell_renderer_set_usage
+alm_application_get_type
+alm_calendar_widget_on_clicked
+alm_applications_tree_view_get_pixbuf_from_gio_icon
+alm_applications_tree_view_construct
+alm_blacklist_find_events
+alm_applications_tree_view_markup_for_app
+alm_blacklist_get_templates
+alm_files_cell_renderer_construct
+alm_param_spec_app_choose_info
+alm_value_set_utilities
+alm_blacklist_unref
+alm_applications_chooser_dialog_get_liststore
+alm_blacklist_set_incognito
+_IO_stdin_used
+alm_applications_tree_view_remove_selected_app
+alm_blacklist_get_type
+alm_security_widget_get_type
+alm_application_blacklist_ref
+alm_files_cell_renderer_get_path
+alm_blacklist_interface_register_object
+alm_file_type_blacklist_unblock
+alm_blacklist_interface_proxy_get_type
+alm_value_set_file_type_blacklist
+alm_application_blacklist_unref
+alm_security_widget_construct
+alm_applications_chooser_dialog_insert_liststore
+alm_file_type_blacklist_get_type
+alm_app_selection_tree_view_new
+alm_param_spec_utilities
+alm_activity_log_manager_append_page
+GLIBC_2.2.5
+GLIBC_2.4
+5r""
+%t""
+%r""
+%j""
+%b""
+%Z""
+%R""
+%J""
+%B""
+%:""
+%2""
+%*""
+%"""
+%z!"
+%r!"
+%j!"
+%b!"
+%Z!"
+%R!"
+%J!"
+%B!"
+%:!"
+%2!"
+%*!"
+%"!"
+%z "
+%r "
+%j "
+%b "
+%Z "
+%R "
+%J "
+%B "
+%: "
+%2 "
+%* "
+%" "
+UH-x
+AUATI
+ATE1
+[]A\A]
+AVAUI
+ATUI
+ATE1
+[]A\A]A^
+AUATI
+ATE1
+XZtyH
+[]A\A]
+ATUI
+[]A\
+AVAUI
+ZYt6E1
+]A\A]A^
+AUATI
+Eleele
+[]A\A]
+AUATI
+[]A\A]
+AUATUSH
+[]A\A]
+AUATUSH
+[]A\A]
+AWAVM
+AUATI
+[]A\A]A^A_
+[]E1
+[]E1
+AVAUATUSH
+ uEM
+]A\A]A^
+AVAUATUSH
+ uEM
+]A\A]A^
+x"H9
+ATUS
+AVAUI
+ATUI
+[]A\A]A^
+tKAUATI
+[]A\A]
+AUATI
+[]A\A]
+ATUH
+[]A\
+t3ATUI
+[]A\H
+AUATI
+[]A\A]
+jTj@E1
+jTj@E1
+ATUSH
+hs'B
+h(,B
+l$PH
+[]A\
+ATUSH
+[]A\
+D$(1
+D$(dH3
+AVAUE
+ATUI
+]A\A]A^
+[]A\A]A^
+Uj@E1
+Uj@E1
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+alula
+[]A\A]A^A_
+X[]A\A]A^A_
+ATUSH
+$t`H
+[]A\
+ATUS
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+([]A\A]A^A_
+ATUSH
+[]A\
+St:H
+AUATUSH
+[]A\A]
+[]A\A]
+[]A\A]
+AUATUSH
+D$81
+L$8dH3
+H[]A\A]
+AVAUE
+ATUI
+]A\A]A^
+[]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+AUAT1
+[]A\A]
+ATUI
+tT[H
+[]A\
+@ P'A
+@00&A
+AWAV
+AUATUSH
+C0E1
+[]A\A]A^A_
+[]A\A]A^A_
+t+SH
+AVAUI
+ATUH
+ []A\A]A^
+]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+D$X1
+l$ L
+t$0H
+|$0L
+t$8L
+l$@L
+D$XdH3
+h[]A\A]A^A_
+AVAUATUSH
+t$0L
+D$8H
+D$@H
+D$ H
+D$HH
+D$(H
+}	A9
+t$PA
+D$PH
+D$XH
+D$ H
+D$`H
+D$(H
+D$h1
+t$pL
+D$pH
+D$xH
+D$ H
+D$(H
+[]A\A]A^
+@0`@A
+dH34%(
+dH34%(
+AWAVAUATUSH
+t$0H
+D$01
+D$PH
+D$8H
+D$XH
+D$@H
+D$`H
+D$HH
+E0E1
+E0E1
+|$(H
+D$ H
+[]A\A]A^A_
+|$(1
+[]E1
+[]E1
+@  kA
+AWAVAUATUSH
+D$81
+T$ 1
+D$8dH3
+H[]A\A]A^A_
+AUATUSH
+([]A\A]
+AWAVAUATUSH
+D$81
+T$ 1
+T$8dH3
+H[]A\A]A^A_
+AWAVAUATUSH
+t$,H
+D$@H
+T$HH
+T$@E
+L$4L
+D$0L
+T$XH
+T$PH
+D$0H
+T$`1
++D$`E
+T$xH
+T$pH
+D$pH
+L$<L
+D$8L
+L$<H
+[]A\A]A^A_
+t$,H
+D$@H
+AVAUATUSH
+[]A\A]A^
+AUATUSH
+[]A\A]
+[]A\A]
+[]A\A]
+ATUStwH
+[]A\
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUI
+ATUSH
+tE[H
+]A\A]A^
+[]A\A]A^
+tFUSH
+AVAUE
+ATUI
+]A\A]A^
+[]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+AVAUATUS
+]A\A]A^
+]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+AUATH
+[]A\A]
+[]A\A]
+AVAUE
+ATUI
+]A\A]A^
+[]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+tSUS1
+tCUSH
+tCUSH
+AVAUI
+ATUH
+ []A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+[]E1
+[]E1
+AVAUATUSH
+ uEM
+]A\A]A^
+AWAVAUATE1
+D$ D
+[]A\A]A^A_
+St:H
+ATUI
+5Ty!
+[]A\
+[]A\
+[]A\
+ATUI
+5dx!
+[]A\
+[]A\
+[]A\
+AVAUATUS
+]A\A]A^
+]A\A]A^
+D$(1
+D$(dH3
+AWAVAUATUSH
+5js!
+5 s!
+[]A\A]A^A_
+[]A\A]A^A_
+AUATH
+[]A\A]
+[]A\A]
+AVAUE
+ATUI
+]A\A]A^
+[]A\A]A^
+Uj@E1
+Uj@E1
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+AVAUATUSH
+ []A\A]A^
+ATUA
+[]A\
+AVAUATUS
+[]A\A]A^
+]A\A]A^
+AUATUSH
+t$ H
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+t$`H
+D$`H
+D$hH
+D$pH
+[]A\A]
+AWAVAUATUSH
+T$ H
+[]A\A]A^A_
+L$ L
+|$(H
+t$@L
+t$0L
+l$8H
+L$@H
+|$HL
+t$PL
+t$`H
+L$`L
+|$hL
+t$pL
+ATUI
+[]A\H
+=Y`!
+AUATI
+[]A\A]
+[]A\A]
+=5^!
+AUATI
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+([]A\A]
+AWAVAUATUSH
+D$x1
+|$ H
+|$@L
+|$`1
+L$xdH3
+[]A\A]A^A_
+AUATUSH
+C@E1
+[]A\A]
+C@E1
+[]A\A]
+[]A\A]
+[]A\A]
+ATUI
+[]A\H
+AVAUI
+ATUH
+ []A\A]A^
+]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+D$@H
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+t;USH
+tKUSH
+t;USH
+AWAVE
+AUATI
+[]A\A]A^A_
+AWAVAUATUSH
+D$X1
+D$0H
+D$8H
+D$ H
+D$@H
+D$(H
+D$Hj
+D$XdH3
+h[]A\A]A^A_
+AVAUE
+ATUI
+]A\A]A^
+[]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+D$@L
+T$PL
+D$HH
+T$pL
+T$8A
+\$xL
+\$0L
+D$`H
+T$h1
+t$(j
+t$pH
+t$8H
+|$0H
+T$8L
+\$0H
+\$(L
+Borrow or rob
+T$ H
+AWAVAUATUSH
+\$X1
+L$HH
+T$DH
+D$DH
+L$TH
+T$PH
+t$LL
+D;l$L
+|$ I
+|$(1
+t$4;t$P
+9D$ u 
+9D$ 
+\$(1
+\$81
+D$XdH3
+h[]A\A]A^A_
+AWAVAUATUSH
+D$x1
+|$ L
+T$(H
+T$H1
+l$0A
+t$8L
+|$@H
+D$@H
+l$PL
+t$XL
+|$`H
+T$hH
+T$PL
+D$xdH3
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+St*H
+ATU1
+D$X1
+L$XdH3
+`[]A\
+=a4!
+AVAUATUSH
+<$E1
+x L9
+ []A\A]A^
+AVAUATUSH
+ []A\A]A^
+AWAVAUATUSH
+([]A\A]A^A_
+AWAVAUATUSH
+C0E1
+C0E1
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUATUSH
+D$(1
+c E1
+D$(dH3
+0[]A\A]A^
+=W&!
+AWAVAUATUSH
+D$H1
+D$0H
+D$0H
+D$ H
+D$(H
+D$0H
+D$0H
+D$HdH3
+X[]A\A]A^A_
+D$0H
+AUATUSH
+[]A\A]
+t$ H
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+t$`H
+D$`H
+D$hH
+D$pH
+AUATUSH
+t$ H
+D$ H
+D$(H
+Degas are we not drawn onward no In union drawn onward to new eras aged
+D$0H
+D$8H
+t$@1
+D$@H
+D$HH
+D$PH
+t$`H
+D$`H
+D$hH
+D$pH
+[]A\A]
+AWAVAUATUSH
+D$H1
+D$ H
+D$(H
+D$0H
+D$8j
+D$HdH3
+X[]A\A]A^A_
+tCUSH
+ATUSH
+u	[]A\
+[]A\
+ATUSH
+u	[]A\
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+T$ H
+L$ L
+|$(H
+t$0L
+l$8H
+t$@A
+L$@D
+|$HL
+t$PL
+t$`H
+|$hL
+t$pL
+l$xD
+p`t^
+[]A\
+[]A\
+AWAVAUATUSH
+T$0H
+t$ H
+|$ A
+[]A\A]A^A_
+T$0L
+|$8H
+t$HL
+l$P1
+T$X1
+|$`A
+t$hL
+l$pj
+L$,H
+L$8H
+t$pH
+|$xL
+ATUS
+[]A\
+Y[]A\
+AVAUI
+ATUH
+[]A\A]A^
+ATUS
+AVAUI
+ATUH
+[]A\A]A^
+AUATUSH
+[]A\A]
+h uA
+[]A\A]
+AUATUSH
+([]A\A]
+AWAVAUATUSH
+D$x1
+D$,I
+D$<1
+D$`1
+t$,+t$
+t$8L
+D$<H
+T$ 1
+|$8H
+T$hL
+T$@1
+D+t$@
+t$PH
+T$XH
+D$xdH3
+[]A\A]A^A_
+D$<1
+D$`H
+tSUS1
+tCUSH
+AVAUI
+ATUH
+]A\A]A^
+ []A\A]A^
+]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+AVAUATUS
+C@E1
+C@E1
+C@E1
+C@E1
+C@E1
+C@E1
+u5E1
+[]A\A]A^
+[]A\A]A^
+StzH
+AUATUSH
+[]A\A]
+AWAVAUATUSH
+F0E1
+F0E1
+D$ H
+x@E1
+F0E1
+F0E1
+F0E1
+F0E1
+t$(1
+\$01
+D$@I
+\$@H
+T$81
+|$PH
+t$HE1
+D$PH
+D$xH
+D$HH
+D$pH
+D$hH
+D$@H
+D$0H
+D$(H
+D$`H
+[]A\A]A^A_
+t>SH
+ATUI
+[]A\
+H;(t
+[]A\
+E(P&B
+AUATI
+[]A\A]
+AVAUATUH
+]A\A]A^
+[]A\A]A^
+AWAVAUATUSH
+D$81
+L$(I
+D$(H
+D$8dH3
+H[]A\A]A^A_
+L$(1
+D$(H
+L$0E1
+D$(H
+AWAVA
+AUATL
+[]A\A]A^A_
+RemoveTemplate
+org.gnome.zeitgeist.Blacklist
+AddTemplate
+GetTemplates
+TemplateAdded
+template-added
+TemplateRemoved
+template-removed
+incognito-toggled
+self != NULL
+blacklist_id != NULL
+blacklist_template != NULL
+blacklist-dbus.c
+application://
+' for value type `
+invalid object type `
+n_param_values == 3
+_tmp11_ >= ((glong) 0)
+_tmp12_ <= _tmp13_
+application://*
+AlmBlacklistInterface
+vala-dbus-proxy-type
+vala-dbus-interface-name
+vala-dbus-interface-info
+vala-dbus-register-object
+template_added
+template_removed
+AlmBlacklistInterfaceProxy
+g-name
+g-flags
+g-interface-info
+g-interface-name
+g-object-path
+g-bus-type
+org.gnome.zeitgeist.Engine
+app_id != NULL
+iter != NULL
+store != NULL
+dialog != NULL
+AlmBlacklist
+block-all
+incognito_toggled
+*val != NULL
+property_name != NULL
+sub-int
+sub-mani
+sub-origin
+sub-mime
+template_subject != NULL
+sub-uri
+ev-mani
+ev-actor
+template_event != NULL
+ev-int
+templates_variant != NULL
+a{s(asaasay)}
+AlmUtilities
+blacklist_template
+s(asaasay)
+blacklist_id
+result
+file %s: line %d: uncaught error: %s (%s, %d)
+http://www.zeitgeist-project.com/ontologies/2010/01/27/zg#UserActivity
+invalid unclassed object pointer for value type `
+value location for `%s' passed as NULL
+/org/gnome/zeitgeist/blacklist
+g_type_is_a (object_type, ALM_TYPE_BLACKLIST)
+G_TYPE_CHECK_VALUE_TYPE (value, ALM_TYPE_BLACKLIST)
+G_TYPE_CHECK_INSTANCE_TYPE (v_object, ALM_TYPE_BLACKLIST)
+g_value_type_compatible (G_TYPE_FROM_INSTANCE (v_object), G_VALUE_TYPE (value))
+g_strcmp0 (_tmp4_, ALM_UTILITIES_SIG_BLACKLIST) == 0
+g_type_is_a (object_type, ALM_TYPE_UTILITIES)
+G_TYPE_CHECK_VALUE_TYPE (value, ALM_TYPE_UTILITIES)
+G_TYPE_CHECK_INSTANCE_TYPE (v_object, ALM_TYPE_UTILITIES)
+alm_value_take_utilities
+alm_value_set_utilities
+alm_value_get_utilities
+alm_param_spec_utilities
+alm_utilities_to_variant
+alm_utilities_from_variant
+alm_utilities_parse_negation
+alm_utilities_matches_subject_template
+alm_utilities_check_field_match
+alm_utilities_matches_event_template
+g_cclosure_user_marshal_VOID__STRING_OBJECT
+alm_value_take_blacklist
+alm_value_set_blacklist
+alm_value_get_blacklist
+alm_param_spec_blacklist
+alm_blacklist_get_all_templates
+alm_blacklist_get_all_applications
+string_substring
+A Santa lives evil at NASA
+alm_blacklist_find_all_apps_co
+alm_blacklist_get_count_for_app
+alm_blacklist_find_events_co
+alm_blacklist_get_incognito
+alm_blacklist_get_templates
+alm_blacklist_set_incognito
+alm_blacklist_remove_template
+alm_blacklist_add_template
+alm_blacklist_on_template_added
+alm_blacklist_on_template_removed
+g_cclosure_user_marshal_VOID__STRING_VARIANT
+alm_blacklist_interface_remove_template
+alm_blacklist_interface_get_templates
+alm_blacklist_interface_add_template
+orientation
+margin
+Files & Applications
+activity-log-manager
+XDG_CURRENT_DESKTOP
+Unity
+Security
+Search
+Diagnostics
+widget != NULL
+label != NULL
+AlmActivityLogManager
+alm_activity_log_manager_append_page
+AlmSearchResultsWidgetRemoteContent
+%s:%d: invalid %s id %u for "%s" of type '%s' in '%s'
+ALM_SEARCH_RESULTS_WIDGET_REMOTE_CONTENT_ALL
+ALM_SEARCH_RESULTS_WIDGET_REMOTE_CONTENT_NONE
+remote-content-search
+notify::active
+When searching in the Dash:
+<b>%s</b>
+Include online search results
+com.canonical.Unity.Lenses
+AlmSearchResultsWidget
+property
+searchresults-widget.c
+none
+alm_search_results_widget_set_remote_content_search
+alm_search_results_widget_get_remote_content_search
+alm_search_results_widget_on_commercial_suggestion_activated
+alm_search_results_widget_set_up_ui
+?combo != NULL
+%u hours
+%u hour
+%u minutes
+%u minute
+%u seconds
+%u second
+unity-control-center
+gnome-control-center
+unity-control-center power
+security-widget.c
+gnome-control-center power
+security-widget.vala:150: %s
+security-widget.vala:132: %s
+_Returning from blank screen
+_if screen has been blank for
+text
+changed::lock-enabled
+changed::lock-delay
+Password Settings
+activate-link
+Power Settings
+0 seconds (lock immediately)
+0 second (lock immediately)
+Require my password when:
+_Waking from suspend
+ubuntu-lock-on-suspend
+org.gnome.desktop.screensaver
+AlmSecurityWidget
+file %s: line %d: unexpected error: %s (%s, %d)
+unity-control-center user-accounts
+gnome-control-center user-accounts
+org.gnome.settings-daemon.plugins.power
+alm_security_widget_get_delay_cb
+alm_security_widget_get_time
+alm_security_widget_set_delay_cb
+alm_security_widget_set_up_ui
+interpretation-
+pixbuf
+text != NULL
+cr != NULL
+background_area != NULL
+cell_area != NULL
+unified-privacy-files.c
+ev != NULL
+old != NULL
+folder-removed
+folder-added
+interpretation != NULL
+%s%s
+blacklist_inter != NULL
+all_checkboxes != NULL
+AlmFileTypeBlacklist
+path != NULL
+folder != NULL
+AlmPathBlacklist
+folder_added
+folder_removed
+dir-
+AlmFilesCellRenderer
+g_type_is_a (object_type, ALM_TYPE_FILE_TYPE_BLACKLIST)
+G_TYPE_CHECK_VALUE_TYPE (value, ALM_TYPE_FILE_TYPE_BLACKLIST)
+G_TYPE_CHECK_INSTANCE_TYPE (v_object, ALM_TYPE_FILE_TYPE_BLACKLIST)
+g_type_is_a (object_type, ALM_TYPE_PATH_BLACKLIST)
+G_TYPE_CHECK_VALUE_TYPE (value, ALM_TYPE_PATH_BLACKLIST)
+G_TYPE_CHECK_INSTANCE_TYPE (v_object, ALM_TYPE_PATH_BLACKLIST)
+alm_files_cell_renderer_real_get_size
+alm_files_cell_renderer_do_get_size
+alm_files_cell_renderer_get_text_layout
+alm_files_cell_renderer_real_render
+alm_files_cell_renderer_real_get_preferred_width
+alm_files_cell_renderer_real_get_preferred_height_for_width
+alm_files_cell_renderer_real_get_preferred_height
+alm_files_cell_renderer_set_path
+alm_files_cell_renderer_get_path
+alm_files_cell_renderer_set_text
+alm_files_cell_renderer_get_text
+alm_files_cell_renderer_set_pixbuf
+alm_files_cell_renderer_get_pixbuf
+alm_value_take_path_blacklist
+alm_value_set_path_blacklist
+alm_value_get_path_blacklist
+alm_param_spec_path_blacklist
+alm_path_blacklist_get_all_folders
+alm_path_blacklist_unblock
+alm_path_blacklist_block
+alm_path_blacklist_is_duplicate
+alm_path_blacklist_on_blacklist_added
+string_replace
+alm_path_blacklist_get_folder
+alm_path_blacklist_on_blacklist_removed
+alm_path_blacklist_construct
+alm_value_take_file_type_blacklist
+alm_value_set_file_type_blacklist
+alm_value_get_file_type_blacklist
+alm_param_spec_file_type_blacklist
+alm_file_type_blacklist_unblock
+alm_file_type_blacklist_get_name
+alm_file_type_blacklist_block
+alm_file_type_blacklist_populate_file_types
+alm_file_type_blacklist_construct
+liststore
+tree
+usage
+ctx != NULL
+application-added
+application-removed
+application != NULL
+application://%s
+AlmApplicationBlacklist
+application_added
+application_removed
+app-
+launch-
+Name
+ellipsize
+markup
+app_blacklist != NULL
+unblocked != NULL
+gtk-execute
+No description available
+<b>%s</b>
+app_info != NULL
+app != NULL
+AlmApplicationsTreeView
+AlmAppSelectionTreeView
+AlmApplicationsChooserDialog
+AlmUsageCellRenderer
+Last Used
+xalign
+Activity
+Select Application
+unblocked_list != NULL
+gtk-ok
+gtk-cancel
+app_name != NULL
+last_accessed_time_s != NULL
+AlmAppChooseInfo
+last_accessed != NULL
+%e %B %Y, %H:%M
+Never
+all_actors != NULL
+now != NULL
+Today, %H:%M
+time != NULL
+Yesterday, %H:%M
+g_type_is_a (object_type, ALM_TYPE_APPLICATION_BLACKLIST)
+G_TYPE_CHECK_VALUE_TYPE (value, ALM_TYPE_APPLICATION_BLACKLIST)
+G_TYPE_CHECK_INSTANCE_TYPE (v_object, ALM_TYPE_APPLICATION_BLACKLIST)
+unified-privacy-applications.c
+g_type_is_a (object_type, ALM_TYPE_APP_CHOOSE_INFO)
+G_TYPE_CHECK_VALUE_TYPE (value, ALM_TYPE_APP_CHOOSE_INFO)
+G_TYPE_CHECK_INSTANCE_TYPE (v_object, ALM_TYPE_APP_CHOOSE_INFO)
+alm_value_take_app_choose_info
+alm_value_set_app_choose_info
+alm_value_get_app_choose_info
+alm_param_spec_app_choose_info
+alm_app_choose_info_set_usage
+alm_app_choose_info_get_usage
+alm_app_choose_info_set_last_accessed_time
+alm_app_choose_info_get_last_accessed_time
+alm_app_choose_info_set_last_accessed
+alm_app_choose_info_get_last_accessed
+alm_app_choose_info_set_icon
+alm_app_choose_info_get_icon
+alm_app_choose_info_set_name
+alm_app_choose_info_get_name
+alm_app_choose_info_get_id
+alm_app_choose_info_construct
+alm_usage_cell_renderer_real_get_size
+alm_usage_cell_renderer_real_render
+alm_usage_cell_renderer_set_usage
+alm_usage_cell_renderer_get_usage
+alm_applications_chooser_dialog_get_liststore
+alm_applications_chooser_dialog_get_tree
+alm_applications_chooser_dialog_insert_app_liststore
+alm_applications_chooser_dialog_insert_liststore
+alm_applications_chooser_dialog_compare_dates
+alm_applications_chooser_dialog_handle_app_population
+alm_applications_chooser_dialog_construct
+alm_app_selection_tree_view_get_liststore
+alm_app_selection_tree_view_get_tree
+alm_app_selection_tree_view_construct
+alm_applications_tree_view_get_liststore
+alm_applications_tree_view_remove_selected_app
+alm_applications_tree_view_remove_app_from_view
+alm_applications_tree_view_add_application_to_view
+alm_applications_tree_view_markup_for_app
+alm_applications_tree_view_construct
+g_cclosure_user_marshal_VOID__STRING_OBJECT
+alm_value_take_application_blacklist
+alm_value_set_application_blacklist
+alm_value_get_application_blacklist
+alm_param_spec_application_blacklist
+alm_application_blacklist_get_all_apps
+alm_application_blacklist_unblock
+alm_application_blacklist_block
+alm_application_blacklist_get_count_for_app
+alm_application_blacklist_get_all_applications
+alm_application_blacklist_on_blacklist_added
+string_substring
+alm_application_blacklist_on_blacklist_removed
+alm_application_blacklist_construct
+@ffffff
+?skip-taskbar-hint
+modal
+destroy-with-parent
+AlmCalendarDialog
+%d %B %Y
+entry != NULL
+clicked
+From:
+Invalid Timerange
+focus-out-event
+day-selected-double-click
+AlmCalendarWidget
+<span color='red'><b>%s</b></span>
+__lambda9_
+alm_calendar_widget_on_clicked
+alm_calendar_widget_set_up_calendar
+alm_calendar_widget_get_range
+alm_calendar_widget_construct
+alm_calendar_dialog_get_calendar_widget
+?G_USER_DIRECTORY_DOCUMENTS
+folder-documents
+G_USER_DIRECTORY_DOWNLOAD
+folder-download
+G_USER_DIRECTORY_MUSIC
+folder-music
+G_USER_DIRECTORY_DESKTOP
+user-desktop
+G_USER_DIRECTORY_PICTURES
+folder-pictures
+G_USER_DIRECTORY_VIDEOS
+folder-videos
+G_USER_DIRECTORY_TEMPLATES
+folder-templates
+G_USER_DIRECTORY_PUBLIC_SHARE
+folder-publicshare
+Select a folder to blacklist
+remember-recent-files
+unified-privacy.c
+unified-privacy.vala:914: %s
+gtk-yes
+unified-privacy.vala:901: %s
+s1 != NULL
+s2 != NULL
+AlmItemType
+AlmPrivacyWidget
+AlmExceptionCellRenderer
+In the past hour
+In the past day
+In the past week
+From all time
+del_button != NULL
+Clear Usage Data
+unified-privacy.vala:861: %s
+AlmDeleteHistoryDialog
+Music
+Videos
+Pictures
+Documents
+Presentations
+Spreadsheets
+Chat Logs
+gtk-directory
+gtk-delete
+Clear Usage Data
+Include:
+Exclude:
+toolbar-style
+icon-size-set
+inline-toolbar
+list-add-symbolic
+Remove Item
+list-remove-symbolic
+Add Folder
+activate
+Add Application
+blacklist_interface != NULL
+spacing
+org.gnome.desktop.privacy
+G_USER_N_DIRECTORIES
+ALM_ITEM_TYPE_FILE
+file
+ALM_ITEM_TYPE_APPLICATION
+application
+This operation cannot be undone, are you sure you want to delete this activity?
+Delete records of which files and applications were used:
+http://www.semanticdesktop.org/ontologies/2007/03/22/nfo#Audio
+http://www.semanticdesktop.org/ontologies/2007/03/22/nfo#Video
+http://www.semanticdesktop.org/ontologies/2007/03/22/nfo#Image
+http://www.semanticdesktop.org/ontologies/2007/03/22/nfo#Document
+http://www.semanticdesktop.org/ontologies/2007/03/22/nfo#Presentation
+http://www.semanticdesktop.org/ontologies/2007/03/22/nfo#Spreadsheet
+http://www.semanticdesktop.org/ontologies/2007/03/22/nmo#IMMessage
+Files and applications you
+ve used recently can be shown in the Dash and elsewhere. If other people can see or access your user account, you may wish to limit which items are recorded.
+Record file and application usage
+alm_delete_history_dialog_delete_history_co
+alm_delete_history_dialog_get_history_co
+alm_delete_history_dialog_on_delete_history
+alm_delete_history_dialog_get_active_radio_button
+alm_delete_history_dialog_construct
+alm_exception_cell_renderer_real_get_size
+alm_exception_cell_renderer_get_text_layout
+alm_exception_cell_renderer_real_render
+alm_exception_cell_renderer_real_get_preferred_width
+alm_exception_cell_renderer_real_get_preferred_height_for_width
+alm_exception_cell_renderer_real_get_preferred_height
+alm_exception_cell_renderer_set_text
+alm_exception_cell_renderer_get_text
+alm_exception_cell_renderer_set_pixbuf
+alm_exception_cell_renderer_get_pixbuf
+alm_privacy_widget_compare_mimes
+__lambda21_
+alm_privacy_widget_on_remove_exception
+alm_privacy_widget_on_add_folder
+alm_privacy_widget_on_add_application
+__lambda12_
+__lambda13_
+alm_privacy_widget_add_folder_to_view
+__lambda14_
+alm_privacy_widget_remove_folder_from_view
+__lambda15_
+__lambda16_
+alm_privacy_widget_add_app_to_view
+__lambda17_
+alm_privacy_widget_construct
+Activity Log Manager
+window != NULL
+destroy
+AlmAlmWindow
+org.zeitgeist.Alm
+application-id
+AlmApplication
+/usr/share/locale
+UTF-8
+alm_alm_window_on_destroy
+alm_alm_window_construct
+xdg-open http://www.ubuntu.com/aboutus/privacypolicy?crashdb
+xdg-open https://errors.ubuntu.com/user/%s
+Error setting metrics reporting: %s
+Error setting crash reporting: %s
+/usr/share/activity-log-manager/whoopsie.ui
+Could not load interface file: %s
+com.ubuntu.whoopsiepreferences.change
+Could not acquire permission: %s
+/com/ubuntu/WhoopsiePreferences
+com.ubuntu.WhoopsiePreferences
+Could not set up DBus connection: %s
+Error opening URL.
+WhoopsieDaisyPreferences
+Error getting identifier: %s
+error_reports_box
+metrics_reports_box
+submit_error_reports
+submit_metrics_reports
+privacy_page_box
+unlock_alignment
+Beeb
+privacy_policy
+show_previous_reports
+valign
+notify::allowed
+notify::can-release
+g-properties-changed
+;*3$"
+822c5fa894b7baaec9301ba898f93446dcf60d.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

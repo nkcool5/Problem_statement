@@ -1,0 +1,802 @@
+/lib64/ld-linux-x86-64.so.2
+7KK8	M
+libgtk-3.so.0
+g_object_new
+g_get_current_dir
+g_list_reverse
+g_dbus_error_quark
+g_malloc_n
+g_variant_iter_free
+g_object_ref
+g_option_context_parse
+g_option_context_add_group
+g_datalist_id_set_data_full
+g_key_file_get_string_list
+g_return_if_fail_warning
+g_mutex_clear
+g_signal_lookup
+g_type_register_static_simple
+g_variant_iter_init
+g_file_new_for_commandline_arg
+g_type_class_adjust_private_offset
+g_variant_type_checked_
+g_strdupv
+g_main_context_unref
+g_variant_new_uint32
+g_error_free
+g_object_interface_install_property
+g_variant_new_boolean
+g_type_add_interface_static
+g_key_file_load_from_file
+g_variant_builder_end
+g_variant_new_string
+g_value_set_variant
+g_param_spec_string
+g_str_equal
+g_key_file_has_group
+g_value_dup_string
+g_option_context_new
+g_signal_emitv
+g_option_group_new
+g_log
+g_dbus_gvariant_to_gvalue
+g_type_name
+g_list_append
+g_option_group_add_entries
+g_file_get_path
+g_set_error_literal
+g_option_error_quark
+g_variant_new
+g_list_free
+g_option_group_set_parse_hooks
+g_mutex_init
+g_hash_table_new_full
+g_signal_emit
+g_strdup
+g_value_get_object
+g_hash_table_insert
+XInternAtom
+g_strdup_printf
+g_signal_new
+g_variant_iter_next_value
+g_dbus_gvalue_to_gvariant
+g_value_take_object
+g_param_spec_flags
+g_list_concat
+g_type_interface_add_prerequisite
+XChangeProperty
+g_async_result_get_source_object
+gdk_display_get_default
+g_value_get_boolean
+g_variant_builder_init
+g_list_last
+g_str_has_prefix
+g_variant_ref_sink
+g_object_class_override_property
+g_async_initable_new_finish
+g_once_init_enter
+g_slice_alloc0
+g_variant_iter_next
+g_dbus_method_invocation_get_message
+g_dbus_proxy_call_sync
+g_hash_table_lookup
+g_utf8_collate
+g_initable_new
+g_intern_static_string
+g_object_get_property
+g_strfreev
+g_strv_length
+g_option_context_free
+g_list_free_full
+g_variant_get
+g_datalist_clear
+g_list_prepend
+g_getenv
+g_dbus_method_invocation_get_method_info
+g_str_hash
+g_free
+g_value_set_object
+_Jv_RegisterClasses
+g_type_add_instance_private
+g_dbus_method_invocation_get_type
+g_hash_table_unref
+g_dbus_interface_info_lookup_signal
+Degas are we not drawn onward no In union drawn onward to new eras aged
+g_object_set
+g_object_get
+g_object_class_install_property
+g_variant_unref
+g_dbus_method_invocation_return_value
+g_strtod
+g_async_initable_new_async
+gdk_x11_display_get_type
+g_object_notify
+g_quark_try_string
+g_type_check_instance_is_a
+g_print
+g_cclosure_marshal_generic
+g_object_class_find_property
+g_object_set_property
+g_dbus_method_invocation_return_error
+g_dbus_proxy_set_interface_info
+g_key_file_get_string
+g_quark_from_static_string
+g_option_group_set_translation_domain
+g_slice_alloc
+g_dbus_message_get_unix_fd_list
+g_clear_error
+g_strconcat
+g_variant_n_children
+g_hash_table_remove
+g_key_file_new
+g_flags_register_static
+g_main_context_ref_thread_default
+g_option_context_set_ignore_unknown_options
+g_list_foreach
+g_key_file_get_integer
+g_object_unref
+g_cclosure_marshal_VOID__VOID
+Borrow or rob
+g_once_init_leave
+g_warn_message
+g_malloc0_n
+g_value_get_flags
+g_key_file_free
+g_type_class_peek_parent
+g_dbus_interface_info_lookup_property
+g_enum_register_static
+g_option_context_set_main_group
+g_application_id_is_valid
+g_str_has_suffix
+g_ascii_strtoull
+g_value_init
+g_option_context_set_translation_domain
+_ITM_deregisterTMCloneTable
+g_assertion_message_expr
+g_unix_fd_list_get_type
+g_dbus_interface_skeleton_get_type
+g_dbus_proxy_call_finish
+g_variant_builder_add
+g_slice_free1
+g_signal_accumulator_true_handled
+g_value_unset
+g_key_file_has_key
+g_set_error
+g_list_sort
+g_param_spec_object
+g_source_destroy
+g_dbus_proxy_call
+__gmon_start__
+_ITM_registerTMCloneTable
+Beeb
+gdk_x11_display_get_xdisplay
+g_signal_emit_by_name
+g_dbus_proxy_get_type
+g_strcmp0
+g_hash_table_new
+g_key_file_get_boolean
+gtk_get_option_group
+_fini
+libgdk-3.so.0
+g_settings_get_string
+g_printerr
+XCreateWindow
+XDestroyWindow
+A Santa lives evil at NASA
+gdk_display_get_name
+libdconf.so.1
+g_dbus_connection_get_type
+g_type_check_class_cast
+g_type_check_instance_cast
+dconf_client_new
+dconf_client_change_sync
+dconf_client_write_sync
+dconf_changeset_new
+dconf_changeset_unref
+dconf_changeset_set
+dconf_client_read
+libgio-2.0.so.0
+g_variant_new_bytestring
+g_variant_new_bytestring_array
+g_variant_is_object_path
+g_variant_dup_strv
+g_environ_unsetenv
+g_variant_new_double
+g_shell_parse_argv
+g_get_environ
+g_variant_builder_close
+g_variant_builder_open
+g_dbus_object_manager_get_type
+g_dbus_object_skeleton_get_type
+g_settings_set_string
+g_settings_get_mapped
+g_dbus_object_manager_client_get_type
+g_dbus_object_proxy_get_type
+g_dbus_object_skeleton_add_interface
+g_dbus_error_strip_remote_error
+g_dbus_proxy_call_with_unix_fd_list_sync
+g_settings_backend_get_default
+g_dbus_interface_get_info
+g_dbus_proxy_call_with_unix_fd_list
+g_settings_new_with_path
+g_dbus_object_get_interface
+g_dbus_proxy_call_with_unix_fd_list_finish
+g_dbus_method_invocation_return_value_with_unix_fd_list
+g_settings_set_strv
+g_settings_get_type
+g_settings_list_keys
+g_dbus_interface_skeleton_get_object_path
+g_dbus_connection_emit_signal
+g_dbus_interface_skeleton_get_connections
+g_dbus_object_get_type
+g_dbus_object_skeleton_remove_interface_by_name
+g_async_initable_get_type
+libgobject-2.0.so.0
+libglib-2.0.so.0
+g_option_context_set_description
+g_strcompress
+g_set_application_name
+libuuid.so.1
+uuid_unparse
+uuid_parse
+uuid_generate
+libX11.so.6
+XWindowEvent
+libpthread.so.0
+__errno_location
+libc.so.6
+exit
+setlocale
+dcgettext
+__stack_chk_fail
+bind_textdomain_codeset
+strlen
+strstr
+bindtextdomain
+strcmp
+__libc_start_main
+_edata
+__bss_start
+GLIBC_2.2.5
+GLIBC_2.4
+UUID_1.0
+AWAVAUATUSH
+|$<H
+HcL$<H
+t$0H
+D$@H
+L$0H
+T$<H
+L$@I
+D$0H
+|$`H
+D$HH
+Do nine men interpret Nine men I nod
+T$P1
+t$XI
+T$XI9
+ED$8
+D$8L
+t$PI
+L$HL
+|$`H
+|$`1
+|$`H
+L$PH
+|$`H
+t$ APWPj
+D$8E
+[]A\A]A^A_
+Tacocat
+|$`H
+|$`H
+|$`H
+t$`M
+AWAVM
+AUATI
+D$`H
+l$PD
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVE
+AUATI
+[]A\A]A^A_
+ATUSH
+[]A\
+C@	F
+CD	F
+[]A\
+ATUI
+ATUH
+[]A\
+ATUI
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+ATUI
+ []A\
+AUATI
+dH34%(
+([]A\A]
+ATUA
+[]A\
+AUATH
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+|$ H
+T$,dH
+D$H1
+T$HdH3
+X[]A\A]A^A_
+|$0I
+D$,L
+|$ L
+T$@1
+D$@H
+D$(H
+\$ H
+t$0H
+\$01
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVAUATI
+ttD)
+([]A\A]A^A_
+AUATUSH
+([]A\A]
+[]A\
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+D9|$
+[]A\A]A^A_
+t;ATI
+[]A\
+AUATI
+([]A\A]
+AUATUSH
+[]A\A]
+D$81
+T$8dH3
+AWAVAUATI
+D$H1
+L$HdH3
+X[]A\A]A^A_
+|$ 1
+|$(I
+t$(L
+|$0H
+\$0H
+AWAVI
+AUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUI
+ATUH
+ []A\A]A^
+EH[]A\A]A^
+E([]A\A]A^
+AUATUSH
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+ATUH
+AVAUI
+ATUI
+ []A\A]A^
+D$(1
+L$(dH3
+jTPA
+Hc=Y
+jTjTA
+ATPA
+ []A\
+AWAVH
+AUATUSH
+[]A\A]A^A_
+AVAUI
+AUATH
+XZ[]A\A]A^
+AUATI
+[]A\A]
+AVAUI
+[]A\A]A^
+AVAUATUH
+ []A\A]A^
+AWAVI
+AUATI
+X[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATA
+X[]A\A]A^A_
+ATUI
+AWAVI
+AUATA
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUM
+ATUL
+\$XL
+t$PdH
+ []A\A]A^
+AUATM
+\$PdH
+([]A\A]
+AWAVAUATUSL
+L$ L
+D$(I
+|$PH
+L$01
+[]A\A]A^A_
+L$ L
+AWAVH
+AUATUSH
+[]A\A]A^A_
+AVAUI
+t$8AUA
+ []A\A]A^
+AUATI
+[]A\A]
+AVAUI
+t$8AUI
+[]A\A]A^
+AVAUATUH
+ []A\A]A^
+AWAVI
+AUATI
+X[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATA
+X[]A\A]A^A_
+ATUI
+AWAVI
+AUATA
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+AVAUM
+ATUL
+\$XL
+t$PdH
+ []A\A]A^
+AUATM
+\$PdH
+([]A\A]
+AWAVAUATUSL
+L$ L
+D$(I
+|$PH
+L$01
+[]A\A]A^A_
+L$ L
+AVAUI
+ATUH
+]A\A]A^
+ []A\A]A^
+tKUSH
+=wo 
+ATUH
+AVAUI
+ATUH
+]A\A]A^
+ []A\A]A^
+AVAUI
+ATUH
+[]A\A]A^
+ []A\A]A^
+t	H;
+[]A\A]A^H
+AWAVI
+AUATI
+X[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATA
+X[]A\A]A^A_
+ATUI
+AWAVI
+AUATA
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVA
+AUATL
+[]A\A]A^A_
+org.gnome.Terminal
+DESKTOP_STARTUP_ID
+/org/gnome/Terminal/Factory0
+a{sv}
+window-id
+present-window
+zoom
+Error creating terminal: %s
+/window/
+Error: %s
+iw->tabs
+terminal.c
+Failed to parse arguments: %s
+Error constructing proxy for %s:%s: %s
+Failed to create proxy for terminal: %s
+handle_options
+display
+desktop-startup-id
+title
+geometry
+active
+maximize-window
+fullscreen-window
+COLORTERM
+COLUMNS
+GIO_LAUNCHED_DESKTOP_FILE_PID
+GIO_LAUNCHED_DESKTOP_FILE
+GNOME_DESKTOP_ICON
+LINES
+VTE_VERSION
+WINDOWID
+environ
+shell
+fd-set
+a(ih)
+WM_NAME
+atom_name != None
+terminal-client-utils.c
+STRING
+atom_type != None
+Fake Window
+_TIME%lu
+terminal_client_get_fallback_startup_id
+/usr/share/locale
+gnome-terminal
+UTF-8
+Eleele
+profile-id
+window-with-profile
+tab-with-profile
+tab-with-profile-internal-id
+default-working-directory
+use-factory
+sm-client-disable
+sm-client-state-file
+sm-client-id
+sm-disable
+sm-config-prefix
+GNOME Terminal Emulator
+Show GNOME Terminal options
+Show terminal options
+Show per-window options
+window-options
+Show per-terminal options
+terminal-options
+sm-client
+app-id
+Server application ID
+disable-factory
+load-config
+save-config
+version
+Turn on the menubar
+Turn off the menubar
+maximize
+Maximize the window
+full-screen
+Full-screen the window
+GEOMETRY
+Set the window role
+ROLE
+command
+PROFILE-NAME
+Set the working directory
+DIRNAME
+ZOOM
+terminal-options.c
+GNOME Terminal
+3.18.3
+%s %s
+--command/-e
+--execute/-x
+--hide-menubar
+--show-menubar
+GNOME Terminal Configuration
+terminal-option-error
+CompatVersion
+Windows
+Terminals
+ActiveTerminal
+Role
+Geometry
+Fullscreen
+Maximized
+MenubarVisible
+ProfileID
+WorkingDirectory
+Command
+--execute
+window-with-profile-internal-id
+Options to open new windows or terminal tabs; more than one of these may be specified:
+Window options; if used before the first --window or --tab argument, sets the default for all windows:
+Terminal options; if used before the first --window or --tab argument, sets the default for all terminals:
+Do not register with the activation nameserver, do not re-use an active terminal
+Load a terminal configuration file
+Open a new window containing a tab with the default profile
+Open a new tab in the last-opened window with the default profile
+Set the window size; for example: 80x24, or 80x24+200+200 (COLSxROWS+X+Y)
+Set the last specified tab as the active one in its window
+Execute the argument to this option inside the terminal
+Use the given profile instead of the default profile
+Set the terminal's zoom factor (1.0 = normal size)
+Option "%s" is no longer supported in this version of gnome-terminal.
+Profile '%s' specified but not found. Attempting to fall back to the default profile.
+Two roles given for one window
+"%s" is not a valid zoom factor
+Zoom factor "%g" is too small, using %g
+Zoom factor "%g" is too large, using %g
+Argument to "%s" is not a valid command: %s
+Option "%s" requires specifying the command to run on the rest of the command line
+"%s" option given twice for the same window
+"%s" is not a valid application ID
+Not a valid terminal config file.
+Incompatible terminal config file version.
+ensure_top_window
+ensure_top_tab
+@visible-name
+"%s" is not a valid UUID
+profile != NULL
+terminal-profiles-list.c
+org.gnome.Terminal.Legacy.Profile
+org.gnome.Terminal.ProfilesList
+/org/gnome/terminal/legacy/profiles:/
+No profile with UUID "%s" exists
+No profile with UUID or name "%s" exists
+No profile with UUID "%s" found and name is ambiguous
+terminal_profiles_list_ref_profile_by_uuid_or_name
+terminal_profiles_list_ref_profile_by_uuid
+%s:%s/
+DConfSettingsBackend
+/foo/
+list
+TerminalSettingsList
+child-schema-id
+children-changed
+default-changed
+list->child_schema_id != NULL
+terminal-settings-list.c
+property
+path != NULL
+g_str_has_suffix (path, ":/")
+p[0] == ':'
+strlen (p) == 37
+%s:%d: invalid %s id %u for "%s" of type '%s' in '%s'
+TERMINAL_IS_SETTINGS_LIST (list)
+(list->flags & TERMINAL_SETTINGS_LIST_FLAG_ALLOW_EMPTY)
+terminal_settings_list_valid_uuid (uuid)
+g_str_has_prefix (path, list->path)
+terminal_settings_list_valid_uuid (p)
+terminal_settings_list_set_default_child
+terminal_settings_list_dup_uuid_from_child
+terminal_settings_list_remove_child
+terminal_settings_list_clone_child
+terminal_settings_list_add_child
+terminal_settings_list_ref_default_child
+terminal_settings_list_ref_children
+terminal_settings_list_ref_child
+terminal_settings_list_has_child
+terminal_settings_list_dup_default_child
+terminal_settings_list_dupv_children
+terminal_settings_list_new
+terminal_settings_list_constructed
+handle-create-instance
+handle-exec
+child-exited
+receiver
+terminal-gdbus-generated.c
+TerminalFactory
+(@a{sv})
+CreateInstance
+TerminalFactoryProxy
+{&sv}
+g-flags
+org.gnome.Terminal.Factory0
+g-interface-name
+g-object-path
+g-connection
+g-name
+g-bus-type
+TerminalFactorySkeleton
+No property with name %s
+info != NULL
+TerminalReceiver
+(@a{sv}@aay)
+Exec
+TerminalReceiverProxy
+org.gnome.Terminal.Terminal0
+TerminalReceiverSkeleton
+ChildExited
+TerminalObject
+TerminalObjectProxy
+TerminalObjectSkeleton
+TerminalObjectManagerClient
+get-proxy-type-func
+exit_code
+arguments
+Method %s is not implemented on interface %s
+G_IS_DBUS_CONNECTION (connection)
+g_variant_is_object_path (object_path)
+TERMINAL_IS_FACTORY (interface)
+TERMINAL_IS_RECEIVER (interface)
+terminal_object_skeleton_new
+terminal_object_skeleton_set_property
+terminal_object_proxy_new
+God A red nugget A fat egg under a dog
+_terminal_receiver_skeleton_handle_method_call
+_terminal_receiver_skeleton_handle_get_property
+_terminal_receiver_skeleton_handle_set_property
+_terminal_factory_skeleton_handle_method_call
+_terminal_factory_skeleton_handle_get_property
+_terminal_factory_skeleton_handle_set_property
+TerminalNewTerminalMode
+TerminalExitAction
+TerminalSettingsListFlags
+TerminalCJKWidth
+TERMINAL_CJK_WIDTH_NARROW
+narrow
+TERMINAL_CJK_WIDTH_WIDE
+wide
+none
+has-default
+allow-empty
+TERMINAL_EXIT_CLOSE
+close
+TERMINAL_EXIT_RESTART
+restart
+TERMINAL_EXIT_HOLD
+hold
+TERMINAL_SETTINGS_LIST_FLAG_NONE
+TERMINAL_SETTINGS_LIST_FLAG_HAS_DEFAULT
+TERMINAL_SETTINGS_LIST_FLAG_ALLOW_EMPTY
+TERMINAL_NEW_TERMINAL_MODE_WINDOW
+TERMINAL_NEW_TERMINAL_MODE_TAB
+;*3$"
+fab3e51d44c7374b4b38094da001970d62d923.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+alula
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

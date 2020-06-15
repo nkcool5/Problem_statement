@@ -1,0 +1,2826 @@
+/lib64/ld-linux-x86-64.so.2
+libQt5Quick.so.5
+__gmon_start__
+_ITM_deregisterTMCloneTable
+_ITM_registerTMCloneTable
+_Jv_RegisterClasses
+_ZN16QCoreApplication4selfE
+_ZN7QObject7connectEPKS_PKcS1_S3_N2Qt14ConnectionTypeE
+_ZN11QMetaObject10ConnectionD1Ev
+_ZN7QObjectD2Ev
+_ZN10QArrayData10deallocateEPS_mm
+_ZN10QByteArrayC1EPKci
+_ZN9QMetaType22registerNormalizedTypeERK10QByteArrayPFvPvEPFS3_PKvES5_PFS3_S3_S7_Ei6QFlagsINS_8TypeFlagEEPK11QMetaObject
+_ZN9QMetaType25registerNormalizedTypedefERK10QByteArrayi
+_ZN11QMetaObject14normalizedTypeEPKc
+_ZN10QArrayData11shared_nullE
+_ZN10QByteArray11reallocDataEj6QFlagsIN10QArrayData16AllocationOptionEE
+_ZN10QByteArray6appendEc
+_ZN9QListData11shared_nullE
+_ZN7QObject5eventEP6QEvent
+_ZN7QObject11eventFilterEPS_P6QEvent
+_ZN7QObject10timerEventEP11QTimerEvent
+_ZN7QObject10childEventEP11QChildEvent
+_ZN7QObject11customEventEP6QEvent
+_ZN7QObject13connectNotifyERK11QMetaMethod
+_ZN7QObject16disconnectNotifyERK11QMetaMethod
+_ZN9QListData7disposeEPNS_4DataE
+_ZN8QVariantD1Ev
+_ZN11QTextStreamlsEc
+_ZN7QString15fromUtf8_helperEPKci
+_ZN11QTextStreamlsERK7QString
+_Zls6QDebugPK7QObject
+_Zls6QDebugRK8QVariant
+_ZN6QDebugD1Ev
+_ZN11QTextStreamlsEi
+_ZNK7QString3argERKS_i5QChar
+_ZNK8QVariant8userTypeEv
+_ZNK8QVariant7convertEiPv
+_ZNK8QVariant9constDataEv
+_ZN7QStringaSERKS_
+_ZeqRK7QStringS1_
+_ZN8QVariantC1ERKS_
+_ZN8QVariantaSERKS_
+_ZNK8QVariant6toRealEPb
+_ZNK8QVariant8toStringEv
+_ZN7QString17fromLatin1_helperEPKci
+_ZN9QListData6detachEi
+_ZN9QListData11detach_growEPii
+_ZN9QListData6appendEv
+_ZN9QListData6appendERKS_
+_ZNK11QMetaObject4castEP7QObject
+_ZN9QtPrivate20QStringList_containsEPK11QStringListRK7QStringN2Qt15CaseSensitivityE
+_ZNK8QPalette5brushENS_10ColorGroupENS_9ColorRoleE
+_ZN9QHashData11shared_nullE
+_ZN9QHashData11free_helperEPFvPNS_4NodeEE
+_ZN9QHashData13detach_helperEPFvPNS_4NodeEPvEPFvS1_Eii
+_ZN9QHashData8nextNodeEPNS_4NodeE
+_ZN9QHashData8freeNodeEPv
+_ZN9QHashData6rehashEi
+_ZN9QHashData12allocateNodeEi
+_ZN6QTimer11setIntervalEi
+_ZN6QTimer5startEv
+_ZN6QTimer4stopEv
+_ZNK14QMessageLogger7warningEv
+_Z7qgetenvPKc
+_ZN9QListData5eraseEPPv
+_ZNK11QObjectData17dynamicMetaObjectEv
+_ZN4QUrlD1Ev
+_ZN15QtSharedPointer20ExternalRefCountData9getAndRefEPK7QObject
+_ZN4QUrlC1ERKS_
+_ZN8QVariantC1ERK7QString
+_ZN7QString6appendERKS_
+_ZN8QVariantC1Eb
+_ZN4QUrlC1Ev
+_ZNK4QUrl7isEmptyEv
+_ZN4QUrlaSERKS_
+_ZNK4QUrl8toStringE12QUrlTwoFlagsINS_19UrlFormattingOptionENS_25ComponentFormattingOptionEE
+_ZNK7QStringeqE13QLatin1String
+_ZN7QObject9setParentEPS_
+_ZNK8QVariant6toBoolEv
+_ZN7QObjectC2EPS_
+_ZN11QMetaObject8activateEP7QObjectPKS_iPPv
+_ZNK4QUrleqERKS_
+_ZN7QObject11deleteLaterEv
+_ZNK7QObject6senderEv
+_ZN7QObject10disconnectEPKS_PKcS1_S3_
+_ZNK13QNetworkReply9attributeEN15QNetworkRequest9AttributeE
+_ZNK8QVariant5toUrlEv
+_ZNK13QNetworkReply3urlEv
+_ZNK4QUrl8resolvedERKS_
+_ZN15QNetworkRequestC1ERK4QUrl
+_ZN21QNetworkAccessManager3getERK15QNetworkRequest
+_ZN15QNetworkRequestD1Ev
+_ZNK13QNetworkReply5errorEv
+_ZNK9QIODevice11errorStringEv
+_ZN9QIODevice7readAllEv
+_ZNK4QUrl6schemeEv
+_ZNK7QString3midEii
+_ZN5QFileC1ERK7QString
+_ZN5QFile4openE6QFlagsIN9QIODevice12OpenModeFlagEE
+_ZN5QFileD1Ev
+_ZN7QPixmapD1Ev
+_ZNK4QUrl4hostE6QFlagsINS_25ComponentFormattingOptionEE
+_ZN7QObject11qt_metacastEPKc
+_ZN7QObject11qt_metacallEN11QMetaObject4CallEiPPv
+_ZN7QObject16staticMetaObjectE
+_ZN7QString11reallocDataEjb
+_ZNK7QString5toIntEPbi
+_ZN8QVariantC1Ei
+_ZN4QUrlC1ERK7QStringNS_11ParsingModeE
+_ZNK4QUrl11isLocalFileEv
+_ZN7QPixmapC1Ev
+_ZN16QDesktopServices7openUrlERK4QUrl
+_ZNK14QMessageLogger5debugEv
+_ZN11QMetaObject12invokeMethodEP7QObjectPKcN2Qt14ConnectionTypeE22QGenericReturnArgument16QGenericArgumentS7_S7_S7_S7_S7_S7_S7_S7_S7_
+_ZN11QDataStreamlsEi
+_ZN11QTextStreamlsEj
+_ZN7QObject13setObjectNameERK7QString
+_ZN11QTextStreamlsERK10QByteArray
+_ZN8QPainterC1EP12QPaintDevice
+_ZN8QPainterD1Ev
+_ZN8QPainter8fillRectERK5QRectRK6QBrush
+_ZNK7QObject8propertyEPKc
+_Z7qstrcmpPKcS0_
+_ZN9QHashData12previousNodeEPNS_4NodeE
+_ZNK7QWindow8geometryEv
+_ZNK7QWindow9isVisibleEv
+_ZNK8QVariant5toIntEPb
+_ZN11QTextStreamlsEPKc
+_ZN7QWindow18setTransientParentEPS_
+_ZNK7QWindow11surfaceTypeEv
+_ZNK7QWindow6formatEv
+_ZN7QWindow9moveEventEP10QMoveEvent
+_ZN7QWindow10touchEventEP11QTouchEvent
+_ZN7QWindow11tabletEventEP12QTabletEvent
+_ZN7QWindow11nativeEventERK10QByteArrayPvPl
+_ZNK7QWindow13surfaceHandleEv
+_ZThn16_NK7QWindow6formatEv
+_ZThn16_NK7QWindow13surfaceHandleEv
+_ZThn16_NK7QWindow11surfaceTypeEv
+_ZN12QMapDataBase8freeTreeEP12QMapNodeBasei
+_ZN12QMapDataBase8freeDataEPS_
+_ZNK4QUrl7isValidEv
+_ZN4QUrl13fromLocalFileERK7QString
+_ZN7QString16fromAscii_helperEPKci
+_ZNK4QUrl4pathE6QFlagsINS_25ComponentFormattingOptionEE
+_ZN11QQmlContext18setContextPropertyERK7QStringRK8QVariant
+_ZN12QMapDataBase11shared_nullE
+_ZNK12QMapNodeBase8nextNodeEv
+_ZNK6QMovie5stateEv
+_ZN6QMovie4stopEv
+_ZN6QMovie5startEv
+_ZN12QMapDataBase10createNodeEiiP12QMapNodeBaseb
+_ZN12QMapDataBase10createDataEv
+_ZN12QMapDataBase18recalcMostLeftNodeEv
+_ZN4QUrl6setUrlERK7QStringNS_11ParsingModeE
+_ZN6QMovieC1ERK7QStringRK10QByteArrayP7QObject
+_ZltRK7QStringS1_
+_ZNK8QVariant6isNullEv
+_ZN7QRegExpC1Ev
+_ZN7QRegExpD1Ev
+_ZNK7QRegExp7isEmptyEv
+_ZNK7QRegExp10exactMatchERK7QString
+_ZN7QRegExpC1ERK7QStringN2Qt15CaseSensitivityENS_13PatternSyntaxE
+_ZN12QMapDataBase20freeNodeAndRebalanceEP12QMapNodeBase
+_ZN7QWindow14setWindowStateEN2Qt11WindowStateE
+_ZN7QWindow10setVisibleEb
+_ZN4QUrl9setSchemeERK7QString
+_ZNK8QVariant8typeNameEv
+_ZNK8QVariant4typeEv
+_Z23qUnregisterResourceDataiPKhS0_S0_
+_Z21qRegisterResourceDataiPKhS0_S0_
+_ZN9QMetaType30hasRegisteredConverterFunctionEii
+_ZN9QMetaType25registerConverterFunctionEPKN9QtPrivate25AbstractConverterFunctionEii
+_ZN9QMetaType8typeNameEi
+_ZN10QByteArray6appendEPKci
+_ZNK10QByteArray8endsWithEc
+_ZN9QMetaType27unregisterConverterFunctionEii
+_ZN12QQuickWindow5eventEP6QEvent
+_ZN10QQuickView11qt_metacallEN11QMetaObject4CallEiPPv
+_ZNK12QQuickWindow11focusObjectEv
+_ZN10QQuickView16staticMetaObjectE
+_ZNK12QQuickWindow14accessibleRootEv
+_ZN10QQuickView15keyReleaseEventEP9QKeyEvent
+_ZN12QQuickWindow10wheelEventEP11QWheelEvent
+_ZN10QQuickView13setResizeModeENS_10ResizeModeE
+_ZN12QQuickWindow9showEventEP10QShowEvent
+_ZN12QQuickWindow21mouseDoubleClickEventEP11QMouseEvent
+_fini
+_ZN10QQuickView15mousePressEventEP11QMouseEvent
+_ZN10QQuickView17mouseReleaseEventEP11QMouseEvent
+_ZN10QQuickView10timerEventEP11QTimerEvent
+_ZN10QQuickView11qt_metacastEPKc
+_ZN10QQuickViewD2Ev
+_ZN10QQuickView11resizeEventEP12QResizeEvent
+_ZN10QQuickView13keyPressEventEP9QKeyEvent
+_ZN12QQuickWindow11exposeEventEP12QExposeEvent
+_ZN10QQuickView9setSourceERK4QUrl
+_ZN12QQuickWindow12focusInEventEP11QFocusEvent
+_ZNK10QQuickView11rootContextEv
+_ZN12QQuickWindow9hideEventEP10QHideEvent
+_ZN10QQuickView14mouseMoveEventEP11QMouseEvent
+_ZN10QQuickViewC2EP7QWindow
+_ZN12QQuickWindow13focusOutEventEP11QFocusEvent
+libQt5WebKitWidgets.so.5
+_ZN11QWebElementD1Ev
+_ZN11QWebElementC1Ev
+_ZN7QWidget4showEv
+_ZN7QWidget14setWindowTitleERK7QString
+_ZNK15QNetworkRequest3urlEv
+_ZNK7QWidget12windowHandleEv
+_ZN7QDialog4execEv
+_ZN6QLabel13setTextFormatEN2Qt10TextFormatE
+_ZN7QWidgetD2Ev
+_ZN7QWidgetC2EPS_6QFlagsIN2Qt10WindowTypeEE
+_ZN7QWidget12setAttributeEN2Qt15WidgetAttributeEb
+_ZNK7QWidget7paletteEv
+_ZN7QWidget5eventEP6QEvent
+_ZN7QWidget13keyPressEventEP9QKeyEvent
+_ZN7QWidget15keyReleaseEventEP9QKeyEvent
+_ZN7QWidget12focusInEventEP11QFocusEvent
+_ZN7QWidget13focusOutEventEP11QFocusEvent
+_ZN7QWidget18focusNextPrevChildEb
+_ZN7QWidget11changeEventEP6QEvent
+_ZN7QWidget11qt_metacastEPKc
+_ZN7QWidget11qt_metacallEN11QMetaObject4CallEiPPv
+_ZNK7QWidget7devTypeEv
+_ZN7QWidget10setVisibleEb
+_ZNK7QWidget15minimumSizeHintEv
+_ZNK7QWidget14heightForWidthEi
+_ZNK7QWidget17hasHeightForWidthEv
+_ZNK7QWidget11paintEngineEv
+_ZN7QWidget10enterEventEP6QEvent
+_ZN7QWidget10leaveEventEP6QEvent
+_ZN7QWidget9moveEventEP10QMoveEvent
+_ZN7QWidget10closeEventEP11QCloseEvent
+_ZN7QWidget11tabletEventEP12QTabletEvent
+_ZN7QWidget11actionEventEP12QActionEvent
+_ZN7QWidget9showEventEP10QShowEvent
+_ZN7QWidget9hideEventEP10QHideEvent
+_ZN7QWidget11nativeEventERK10QByteArrayPvPl
+_ZNK7QWidget6metricEN12QPaintDevice17PaintDeviceMetricE
+_ZNK7QWidget11initPainterEP8QPainter
+_ZNK7QWidget10redirectedEP6QPoint
+_ZNK7QWidget13sharedPainterEv
+_ZThn16_NK7QWidget7devTypeEv
+_ZThn16_NK7QWidget11paintEngineEv
+_ZThn16_NK7QWidget6metricEN12QPaintDevice17PaintDeviceMetricE
+_ZThn16_NK7QWidget11initPainterEP8QPainter
+_ZThn16_NK7QWidget10redirectedEP6QPoint
+_ZThn16_NK7QWidget13sharedPainterEv
+_ZN7QWidget16staticMetaObjectE
+_ZNK8QVariant5toMapEv
+_ZN9QLineEditC1EP7QWidget
+_ZN7QWidget15mousePressEventEP11QMouseEvent
+_ZN7QWidget17mouseReleaseEventEP11QMouseEvent
+_ZN7QWidget21mouseDoubleClickEventEP11QMouseEvent
+_ZN7QWidget14mouseMoveEventEP11QMouseEvent
+_ZN7QWidget10wheelEventEP11QWheelEvent
+_ZN7QWidget10paintEventEP11QPaintEvent
+_ZN7QWidget16contextMenuEventEP17QContextMenuEvent
+_ZN7QWidget14dragEnterEventEP15QDragEnterEvent
+_ZN7QWidget13dragMoveEventEP14QDragMoveEvent
+_ZN7QWidget14dragLeaveEventEP15QDragLeaveEvent
+_ZN7QWidget9dropEventEP10QDropEvent
+_ZN7QWidget16inputMethodEventEP17QInputMethodEvent
+_ZNK7QWidget16inputMethodQueryEN2Qt16InputMethodQueryE
+_ZNK9QWebFrame16findFirstElementERK7QString
+_ZN8QWebView17mouseReleaseEventEP11QMouseEvent
+_ZN8QWebView10wheelEventEP11QWheelEvent
+_ZN8QWebView16contextMenuEventEP17QContextMenuEvent
+_ZN8QWebPage16javaScriptPromptEP9QWebFrameRK7QStringS4_PS2_
+_ZN8QWebPage12createWindowENS_13WebWindowTypeE
+_ZN8QWebView14dragLeaveEventEP15QDragLeaveEvent
+_ZN8QWebView15keyReleaseEventEP9QKeyEvent
+_ZNK8QWebPage20networkAccessManagerEv
+_ZN8QWebViewC2EP7QWidget
+_ZN8QWebView18focusNextPrevChildEb
+_ZN8QWebView13focusOutEventEP11QFocusEvent
+_ZN8QWebView10paintEventEP11QPaintEvent
+_ZN8QWebPage16staticMetaObjectE
+_ZN8QWebView11changeEventEP6QEvent
+_ZN8QWebView12focusInEventEP11QFocusEvent
+_ZN8QWebPage12createPluginERK7QStringRK4QUrlRK11QStringListS8_
+_ZN8QWebPage9extensionENS_9ExtensionEPKNS_15ExtensionOptionEPNS_15ExtensionReturnE
+_ZN8QWebPageD2Ev
+_ZN9QWebFrame18setScrollBarPolicyEN2Qt11OrientationENS0_15ScrollBarPolicyE
+_ZN8QWebPageC2EP7QObject
+_ZN8QWebView13keyPressEventEP9QKeyEvent
+_ZN8QWebView16inputMethodEventEP17QInputMethodEvent
+_ZNK8QWebPage15userAgentForUrlERK4QUrl
+_ZN8QWebView11qt_metacastEPKc
+_ZN8QWebPage11qt_metacallEN11QMetaObject4CallEiPPv
+_ZN8QWebView13dragMoveEventEP14QDragMoveEvent
+_ZNK8QWebPage24setPreferredContentsSizeERK5QSize
+_ZN8QWebView16staticMetaObjectE
+_ZN8QWebView21setTextSizeMultiplierEd
+_ZN8QWebPage5eventEP6QEvent
+_ZN8QWebPage10chooseFileEP9QWebFrameRK7QString
+_ZNK9QWebFrame6toHtmlEv
+_ZN8QWebView13setZoomFactorEd
+_ZN8QWebView14dragEnterEventEP15QDragEnterEvent
+_ZN8QWebPage17javaScriptConfirmEP9QWebFrameRK7QString
+_ZN8QWebView15mousePressEventEP11QMouseEvent
+_ZN8QWebViewD2Ev
+_ZN8QWebView9dropEventEP10QDropEvent
+_ZNK8QWebView4pageEv
+_ZN8QWebPage11qt_metacastEPKc
+_ZN8QWebView21mouseDoubleClickEventEP11QMouseEvent
+_ZNK8QWebPage9mainFrameEv
+_ZNK8QWebPage17supportsExtensionENS_9ExtensionE
+_ZNK8QWebView3urlEv
+_ZN8QWebPage15javaScriptAlertEP9QWebFrameRK7QString
+_ZN8QWebPage25shouldInterruptJavaScriptEv
+_ZN8QWebView11qt_metacallEN11QMetaObject4CallEiPPv
+_ZN8QWebView7setPageEP8QWebPage
+_ZN8QWebPage13triggerActionENS_9WebActionEb
+_ZNK8QWebView16inputMethodQueryEN2Qt16InputMethodQueryE
+_ZN8QWebView5eventEP6QEvent
+_ZN8QWebView6setUrlERK4QUrl
+_ZN8QWebView14mouseMoveEventEP11QMouseEvent
+_ZN8QWebPage24javaScriptConsoleMessageERK7QStringiS2_
+_ZN8QWebView11resizeEventEP12QResizeEvent
+_ZN8QWebView12createWindowEN8QWebPage13WebWindowTypeE
+libQt5WebKit.so.5
+_ZN8QVariantC1ERK11QStringList
+_ZN10QEventLoopC1EP7QObject
+_ZN10QEventLoop4execE6QFlagsINS_17ProcessEventsFlagEE
+_ZN11QDataStreamrsERi
+_ZNK9QSettings5valueERK7QStringRK8QVariant
+_ZNK8QVariant6toUIntEPb
+_ZN9QFileInfoC1ERK7QString
+_ZN9QFileInfoD1Ev
+_ZNK9QFileInfo16absoluteFilePathEv
+_ZNK9QFileInfo6existsEv
+_ZN6QTimerC1EP7QObject
+_ZN4QDirC1ERK7QString
+_ZN4QDirD1Ev
+_ZN6QTimer5startEi
+_ZN6QTimerD1Ev
+_ZNK8QVariant12toStringListEv
+_ZNK12QMapNodeBase12previousNodeEv
+_ZN4QDir9separatorEv
+_ZNK4QDir6mkpathERK7QString
+_ZNK4QDir16absoluteFilePathERK7QString
+_ZN14QStandardPaths16writableLocationENS_16StandardLocationE
+_ZN15QGuiApplication12platformNameEv
+_ZN7QPixmapC1ERK7QStringPKc6QFlagsIN2Qt19ImageConversionFlagEE
+_ZN7QWindow5closeEv
+_ZN8QVariantC1ERK4QUrl
+_ZNK4QDir6existsEv
+_ZNK7QString3argEyii5QChar
+_ZN10QEventLoopD1Ev
+_ZNK4QUrl9toEncodedE12QUrlTwoFlagsINS_19UrlFormattingOptionENS_25ComponentFormattingOptionEE
+_ZN4QUrl7setHostERK7QStringNS_11ParsingModeE
+_ZN8QVariantC1ERK4QMapI7QStringS_E
+_ZN4QUrl7setPortEi
+_ZNK4QUrl4portEi
+_ZN21QNetworkAccessManager11qt_metacastEPKc
+_ZN21QNetworkAccessManager16staticMetaObjectE
+_ZN20QNetworkProxyFactoryC2Ev
+_ZN17QNetworkCookieJar12deleteCookieERK14QNetworkCookie
+_ZN21QNetworkAccessManager13createRequestENS_9OperationERK15QNetworkRequestP9QIODevice
+_ZN17QNetworkCookieJarC2EP7QObject
+_ZNK17QNetworkCookieJar14validateCookieERK14QNetworkCookieRK4QUrl
+_ZN20QNetworkProxyFactory26setApplicationProxyFactoryEPS_
+_ZN17QNetworkCookieJar13setAllCookiesERK5QListI14QNetworkCookieE
+_ZN13QNetworkProxyC1ERKS_
+_ZNK13QNetworkReply10isFinishedEv
+_ZN17QNetworkCookieJar11qt_metacallEN11QMetaObject4CallEiPPv
+_ZNK18QNetworkProxyQuery12peerHostNameEv
+_ZN17QNetworkCookieJarD2Ev
+_ZN21QNetworkAccessManager12setCookieJarEP17QNetworkCookieJar
+_ZNK17QNetworkCookieJar13cookiesForUrlERK4QUrl
+_ZN17QNetworkCookieJar12updateCookieERK14QNetworkCookie
+_ZN14QNetworkCookie12parseCookiesERK10QByteArray
+_ZN21QNetworkAccessManager11qt_metacallEN11QMetaObject4CallEiPPv
+_ZN14QNetworkCookieC1ERKS_
+_ZNK17QNetworkCookieJar10allCookiesEv
+_ZN21QNetworkAccessManagerD2Ev
+_ZN13QNetworkProxyD1Ev
+_ZN17QNetworkCookieJar11qt_metacastEPKc
+_ZN17QNetworkCookieJar16staticMetaObjectE
+_ZN17QNetworkCookieJar17setCookiesFromUrlERK5QListI14QNetworkCookieERK4QUrl
+_ZN21QNetworkAccessManagerC2EP7QObject
+_ZN20QNetworkProxyFactoryD2Ev
+_ZNK14QNetworkCookie9toRawFormENS_7RawFormE
+_ZN14QNetworkCookieD1Ev
+_ZN17QNetworkCookieJar12insertCookieERK14QNetworkCookie
+_ZN13QNetworkProxyC1ENS_9ProxyTypeERK7QStringtS3_S3_
+_ZN11QQmlContext18setContextPropertyERK7QStringP7QObject
+g_object_unref
+_ZN11QWebElement18evaluateJavaScriptERK7QString
+_ZN11QWebElementaSERKS_
+_ZN11QWebElement12setAttributeERK7QStringS2_
+_ZNK11QWebElement6isNullEv
+libQt5Widgets.so.5
+_ZN7QWindow8setTitleERK7QString
+_ZN11QDataStreamD1Ev
+_ZN7QWindow9setParentEPS_
+_ZN7QWindow4showEv
+_ZN8QVariantC1ENS_4TypeE
+_ZN8QVariantC1Ej
+_ZNK7QString10startsWithERKS_N2Qt15CaseSensitivityE
+_ZNK11QDataStream5atEndEv
+_ZNK4QDir12absolutePathEv
+_ZN4QDiraSERK7QString
+_ZlsR11QDataStreamRK10QByteArray
+_ZrsR11QDataStreamR10QByteArray
+_ZN4QDir6removeERK7QString
+_ZN7QDialog10closeEventEP11QCloseEvent
+_ZN6QFrame14setFrameShadowENS_6ShadowE
+_ZN10QBoxLayout10setSpacingEi
+_ZN10QBoxLayout9addWidgetEP7QWidgeti6QFlagsIN2Qt13AlignmentFlagEE
+_ZN14QStackedLayout9addWidgetEP7QWidget
+_ZN7QDialog4doneEi
+_ZN11QHBoxLayoutC1Ev
+_ZN6QLabel9setPixmapERK7QPixmap
+_ZN12QApplication4execEv
+_ZN11QSizePolicy14setControlTypeENS_11ControlTypeE
+_ZN11QFormLayout6addRowEP7QWidget
+_ZN7QWidget10setEnabledEb
+_ZNK7QDialog8sizeHintEv
+_ZN6QLabel12setAlignmentE6QFlagsIN2Qt13AlignmentFlagEE
+_ZN7QWidget17setAccessibleNameERK7QString
+_ZN7QWidget18setContentsMarginsEiiii
+_ZN14QStackedLayout16setCurrentWidgetEP7QWidget
+_ZN7QWidget9setLayoutEP7QLayout
+_ZN7QDialog6rejectEv
+_ZN7QDialog11eventFilterEP7QObjectP6QEvent
+_ZN7QWidget15setMinimumWidthEi
+_ZN7QWidget14updateGeometryEv
+_ZN11QVBoxLayoutC1EP7QWidget
+_ZN11QVBoxLayoutC1Ev
+_ZN7QDialog11qt_metacastEPKc
+_ZN7QDialog16contextMenuEventEP17QContextMenuEvent
+_ZNK9QLineEdit4textEv
+_ZN7QWidget17setWindowModalityEN2Qt14WindowModalityE
+_ZN6QLabelC1ERK7QStringP7QWidget6QFlagsIN2Qt10WindowTypeEE
+_ZN7QDialog10setVisibleEb
+_ZN7QDialogC2EP7QWidget6QFlagsIN2Qt10WindowTypeEE
+_ZN9QLineEdit7setTextERK7QString
+_ZN12QApplicationD1Ev
+_ZN11QLayoutItem12setAlignmentE6QFlagsIN2Qt13AlignmentFlagEE
+_ZN7QDialog4openEv
+_ZN16QDialogButtonBoxC1E6QFlagsINS_14StandardButtonEEP7QWidget
+_ZN7QLayout18setContentsMarginsEiiii
+_ZN6QFrameC1EP7QWidget6QFlagsIN2Qt10WindowTypeEE
+_ZN7QDialog11resizeEventEP12QResizeEvent
+_ZNK7QWidget8sizeHintEv
+_ZN7QWidget11resizeEventEP12QResizeEvent
+_ZN14QStackedLayoutC1EP7QWidget
+_ZN7QWidgetC1EPS_6QFlagsIN2Qt10WindowTypeEE
+_ZN11QFormLayout6addRowERK7QStringP7QWidget
+_ZN7QWidget13setSizePolicyE11QSizePolicy
+_ZN6QFrame13setFrameShapeENS_5ShapeE
+_ZN6QLabel8setMovieEP6QMovie
+_ZN10QBoxLayout10addStretchEi
+_ZN6QLabel11setWordWrapEb
+_ZN14QStackedLayout15setCurrentIndexEi
+_ZN6QLabelC1EP7QWidget6QFlagsIN2Qt10WindowTypeEE
+_ZN6QLabel7setTextERK7QString
+_ZN12QApplicationC1ERiPPci
+_ZN7QDialog9showEventEP10QShowEvent
+_ZN7QDialog16staticMetaObjectE
+_ZN11QPushButton10setDefaultEb
+_ZN11QPushButtonC1ERK7QStringP7QWidget
+_ZN9QLineEdit11setEchoModeENS_8EchoModeE
+_ZN7QDialogD2Ev
+_ZNK7QDialog15minimumSizeHintEv
+_ZN6QLabel20setOpenExternalLinksEb
+_ZN7QDialog13keyPressEventEP9QKeyEvent
+_ZN7QDialog6acceptEv
+_ZN7QLayout9setMarginEi
+_ZN7QDialog11qt_metacallEN11QMetaObject4CallEiPPv
+_ZN11QFormLayoutC1EP7QWidget
+libQt5Gui.so.5
+_ZNK14QMessageLogger8criticalEv
+_ZN11QDataStreamC1EP9QIODevice
+_ZN7QString7replaceERK7QRegExpRKS_
+_ZN7QRegExpaSERKS_
+_ZN7QPixmap12loadFromDataEPKhjPKc6QFlagsIN2Qt19ImageConversionFlagEE
+_ZN16QDesktopServices19storageLocationImplEN14QStandardPaths16StandardLocationE
+_ZN7QWindow9fromWinIdEy
+_ZN15QGuiApplication25setQuitOnLastWindowClosedEb
+libQt5DBus.so.5
+_ZN13QDBusArgumentD1Ev
+A Santa lives evil at NASA
+_ZN20QDBusAbstractAdaptor11qt_metacallEN11QMetaObject4CallEiPPv
+_ZNK12QDBusMessage11createReplyERK5QListI8QVariantE
+_ZN20QDBusAbstractAdaptorD2Ev
+_ZNK16QDBusPendingCall5errorEv
+_ZN12QDBusMessageC1Ev
+_ZNK13QDBusArgument9asVariantEv
+_ZNK12QDBusContext7messageEv
+_ZNK13QDBusArgument16currentSignatureEv
+_ZN15QDBusConnection10sessionBusEv
+_ZNK12QDBusMessage16createErrorReplyE7QStringRKS0_
+_ZNK15QDBusConnection4sendERK12QDBusMessage
+_ZNK13QDBusArgument5atEndEv
+_ZNK13QDBusArgument10beginArrayEv
+_ZN15QDBusConnection16unregisterObjectERK7QStringNS_14UnregisterModeE
+_ZN21QDBusPendingReplyDataC2Ev
+_ZN13QDBusArgument11endMapEntryEv
+_ZNK16QDBusPendingCall7isErrorEv
+_ZNK13QDBusArgument13beginMapEntryEv
+_ZN13QDBusArgument6endMapEv
+_ZNK13QDBusArgumentrsERj
+_ZN20QDBusAbstractAdaptor16staticMetaObjectE
+_ZN13QDBusArgument8beginMapEii
+_ZN20QDBusAbstractAdaptorC2EP7QObject
+_ZN20QDBusAbstractAdaptor19setAutoRelaySignalsEb
+_ZN20QDBusAbstractAdaptor11qt_metacastEPKc
+_ZN13QDBusArgumentC1Ev
+_ZN12QDBusMessageC1ERKS_
+_ZN23QDBusPendingCallWatcherC1ERK16QDBusPendingCallP7QObject
+_ZN13QDBusArgument13beginMapEntryEv
+_ZNK16QDBusPendingCall10isFinishedEv
+_ZNK13QDBusArgument11currentTypeEv
+_ZN12QDBusMessageaSERKS_
+_ZN15QDBusConnection17unregisterServiceERK7QString
+_ZN13QDBusArgumentC1ERKS_
+_ZNK10QDBusError4typeEv
+_ZN13QDBusArgument8endArrayEv
+_ZN12QDBusMessage12createSignalERK7QStringS2_S2_
+_ZN12QDBusContextD2Ev
+_ZN13QDBusArgumentlsERK7QString
+_ZrsRK13QDBusArgumentR8QVariant
+_ZNK12QDBusContext10connectionEv
+_ZN12QDBusMessageD1Ev
+_ZN15QDBusConnection14registerObjectERK7QStringP7QObject6QFlagsINS_14RegisterOptionEE
+_ZNK13QDBusArgument8endArrayEv
+_ZNK10QDBusError7messageEv
+_ZN12QDBusMessagelsERK8QVariant
+_ZNK13QDBusArgument8beginMapEv
+_ZN15QDBusConnectionC1ERKS_
+_ZN13QDBusArgument10beginArrayEi
+_ZN21QDBusPendingReplyDataD2Ev
+_ZNK13QDBusArgument11endMapEntryEv
+_ZN15QDBusConnection15registerServiceERK7QString
+_ZNK12QDBusContext15setDelayedReplyEb
+_ZN15QDBusConnectionD1Ev
+_ZNK13QDBusArgumentrsER7QString
+_ZN13QDBusArgumentlsEj
+_ZN13QDBusMetaType25registerMarshallOperatorsEiPFvR13QDBusArgumentPKvEPFvRKS0_PvE
+_ZN12QDBusContextC2Ev
+_ZNK13QDBusArgument6endMapEv
+libQt5Qml.so.5
+_Zls6QDebugRK4QUrl
+_ZN16QCoreApplication18setApplicationNameERK7QString
+libQt5Network.so.5
+_ZNK4QUrl8userNameE6QFlagsINS_25ComponentFormattingOptionEE
+_ZNK4QUrl8passwordE6QFlagsINS_25ComponentFormattingOptionEE
+_ZN4QUrl11fromEncodedERK10QByteArrayNS_11ParsingModeE
+_ZN14QNetworkCookieC1ERK10QByteArrayS2_
+_ZNK13QNetworkProxy12capabilitiesEv
+_Zls6QDebugRK9QSslError
+_ZNK18QNetworkProxyQuery8peerPortEv
+_Zls6QDebugRK14QNetworkCookie
+_ZNK18QNetworkProxyQuery3urlEv
+_ZNK18QNetworkProxyQuery9queryTypeEv
+libnotify.so.4
+notify_notification_new
+notify_notification_show
+notify_init
+libgobject-2.0.so.0
+libglib-2.0.so.0
+g_clear_error
+libproxy.so.1
+Borrow or rob
+px_proxy_factory_new
+px_proxy_factory_free
+px_proxy_factory_get_proxies
+libaccounts-qt5.so.1
+_ZNK8Accounts7Account5valueERK7QStringR8QVariant
+_ZN8Accounts7ManagerC1EP7QObject
+_ZNK8Accounts7Manager7accountERKj
+_ZNK8Accounts7Account2idEv
+_ZNK8Accounts7Account11displayNameEv
+_ZNK8Accounts7Manager11accountListERK7QString
+libsignon-qt5.so.1
+_ZN19QProcessEnvironmentD1Ev
+_ZN19QProcessEnvironment17systemEnvironmentEv
+_ZNK19QProcessEnvironment5valueERK7QStringS2_
+_ZN7QStringD2Ev
+_ZN6SignOn8Identity16existingIdentityEjP7QObject
+_ZN6SignOn8Identity13createSessionERK7QString
+_ZN6SignOn11AuthSession7processERKNS_11SessionDataERK7QString
+_ZN7QStringD1Ev
+libQt5Core.so.5
+_ZN9QMetaType23registerStreamOperatorsEPKcPFvR11QDataStreamPKvEPFvS3_PvE
+_ZN9QSettings7setPathENS_6FormatENS_5ScopeERK7QString
+_ZN8QVariantC1EPKc
+_ZNK19QProcessEnvironment8containsERK7QString
+_ZNK7QString8toLatin1Ev
+_ZN9QSettingsC1ERK7QStringS2_P7QObject
+_ZNK7QString6toUtf8Ev
+_ZNK9QSettings8containsERK7QString
+_ZN4QUrlaSERK7QString
+_ZN7QString14compare_helperEPK5QChariPKciN2Qt15CaseSensitivityE
+libstdc++.so.6
+_ZdlPv
+__cxa_guard_release
+_Znwm
+__cxa_guard_acquire
+libc.so.6
+__stack_chk_fail
+strlen
+__cxa_atexit
+memcmp
+dgettext
+memcpy
+bindtextdomain
+strcmp
+__libc_start_main
+_edata
+__bss_start
+_end
+CXXABI_1.3
+GLIBCXX_3.4
+GLIBC_2.4
+GLIBC_2.2.5
+GLIBC_2.14
+%z8#
+%r8#
+%j8#
+%b8#
+%Z8#
+%R8#
+%J8#
+%B8#
+%:8#
+%28#
+%*8#
+%"8#
+%z7#
+%r7#
+%j7#
+%b7#
+%Z7#
+%R7#
+%J7#
+%B7#
+%:7#
+%27#
+%*7#
+%"7#
+%z6#
+%r6#
+%j6#
+%b6#
+%Z6#
+%R6#
+%J6#
+%B6#
+%:6#
+%26#
+%*6#
+%"6#
+%z5#
+%r5#
+%j5#
+%b5#
+%Z5#
+%R5#
+%J5#
+%B5#
+%:5#
+%25#
+%*5#
+%"5#
+%z4#
+%r4#
+%j4#
+%b4#
+%Z4#
+%R4#
+%J4#
+%B4#
+%:4#
+%24#
+%*4#
+%"4#
+%z3#
+%r3#
+%j3#
+%b3#
+%Z3#
+%R3#
+%J3#
+%B3#
+%:3#
+%23#
+%*3#
+%"3#
+%z2#
+%r2#
+%j2#
+%b2#
+%Z2#
+%R2#
+%J2#
+%B2#
+%:2#
+%22#
+%*2#
+%"2#
+%z1#
+%r1#
+%j1#
+%b1#
+%Z1#
+%R1#
+%J1#
+%B1#
+%:1#
+%21#
+%*1#
+%"1#
+%z0#
+%r0#
+%j0#
+%b0#
+%Z0#
+%R0#
+%J0#
+%B0#
+%:0#
+%20#
+%*0#
+%"0#
+%z/#
+%r/#
+%j/#
+%b/#
+%Z/#
+%R/#
+%J/#
+%B/#
+%:/#
+%2/#
+%*/#
+%"/#
+%z.#
+%r.#
+%j.#
+%b.#
+%Z.#
+%R.#
+%J.#
+%B.#
+%:.#
+%2.#
+%*.#
+%".#
+%z-#
+%r-#
+%j-#
+%b-#
+%Z-#
+%R-#
+%J-#
+%B-#
+%:-#
+%2-#
+%*-#
+%"-#
+%z,#
+%r,#
+%j,#
+%b,#
+%Z,#
+%R,#
+%J,#
+%B,#
+%:,#
+%2,#
+%*,#
+%",#
+%z+#
+%r+#
+%j+#
+%b+#
+%Z+#
+%R+#
+%J+#
+%B+#
+%:+#
+%2+#
+=p+#
+5]+#
+=?+#
+5,+#
+={*#
+5h*#
+=J*#
+57*#
+5s)#
+=U)#
+5B)#
+=$)#
+5~(#
+=`(#
+5J(#
+AWAVH
+AUAT
+D$x1
+D$`H
+\$PL
+l$ H
+l$@H
+D$PE1
+L$xdH3
+[]A\A]A^A_
+5r$#
+5C$#
+ATUI
+[]A\
+H98u
+ATUH
+SHcW
+ATUH
+SHcW
+ATUI
+D$(1
+|$ I
+|$ H
+L$(dH3
+0[]A\
+AWAVI
+AUATH
+\$@H
+l$0dH
+D$h1
+L$hdH3
+x[]A\A]A^A_
+|$@A
+t$ L
+D$XH
+|$@f
+D$XH
+\$ L
+ATUH
+[]A\
+AWAVAUATUSH
+|$ H
+t$`H
+\$PI
+D$xH
+|$ H
+Degas are we not drawn onward no In union drawn onward to new eras aged
+|$ H
+|$ D
+|$ D
+|$0I
+|$0H
+|$@H
+|$0H
+|$0E
+|$0H
+[]A\A]A^A_
+AVAUI
+[]A\A]A^
+AUAT
+[]A\A]
+D$81
+D$8dH3
+@[]A\
+AWAV
+AUATUSH
+D$h1
+d$@H
+|$PL
+l$0L
+t$ H
+D$HH
+D$HH
+D$HH
+D$HH
+D$hdH3
+x[]A\A]A^A_
+D$HH
+D$HH
+D$HH
+D$HH
+D$4,
+D$HH
+D$HH
+l$0L
+t$ %
+D$(H
+AWAVAUATUSH
+D$X1
+t$0H
+D$HH
+|$0H
+|$0H
+D$XdH3
+h[]A\A]A^A_
+l$0L
+|$ A
+AVAUATUH
+D$(1
+L$(dH3
+0[]A\A]A^
+AWAVI
+AUATI
+D$h1
+L$hdH3
+x[]A\A]A^A_
+D$8L
+d$@L
+l$0I
+t$ H
+D$XH
+|$ L
+|$ L
+|$ L
+|$ H
+D$8H
+ATUH
+D$(1
+D$(dH3
+0[]A\
+AWAVAUATUSH
+T$pL
+d$PH
+|$PH
+|$PH
+|$PH
+|$ H
+|$ L
+|$@L
+[]A\A]A^A_
+d$PH
+|$ H
+|$ L
+|$ H
+|$ L
+|$Pf
+D$xH
+|$ H
+|$ H
+|$ t/H
+|$ H
+T$pI
+T$pH
+D$xH
+|$ H
+|$ L
+|$ t$H
+|$ L
+T$pH
+D$xH
+|$ H
+|$ L
+|$ t)H
+|$ L
+T$pI
+T$pH
+T$pH
+AVAUA
+ATUSH
+D$X1
+t$0H
+D$HH
+D$XdH3
+`[]A\A]A^
+l$ I
+t$0H
+D$HH
+AWAVAUATUSH
+d$pL
+t$pM9
+t$pA
+t$pf
+|$pL
+|$pL
+d$pI
+D$ H
+D$ H
+|$ L
+|$ t$I
+|$ L
+|$pH
+D$@H
+D$ H
+D$ H
+|$`H
+[]A\A]A^A_
+l$0H
+t$pM9
+t$pA
+|$pL
+|$pL
+t$ L
+d$pM9
+t$ L
+d$pA
+d$pA
+t$pL
+|$pA
+t$pL
+|$pA
+d$@H
+D$PH
+|$PH
+|$PH
+|$PH
+|$`H
+T$@HcB
+|$`H
+T$@HcB
+|$`H
+T$@HcB
+T$@HcB
+D$pH
+AWAVAUATUSH
+D$h1
+D$R3H
+t$PL
+|$ M
+l$@H
+|$8I
+D$XH
+l$@L
+t$0%
+D$0I9D$0t'H
+D$PI
+T$0H
+D$0H
+D$HH
+D$ H
+t$ H
+|$PL
+L$hdH3
+x[]A\A]A^A_
+D$@I9D$0t'H
+D$PI
+T$0H
+D$0H
+l$@L
+AWAVAUATI
+d$`H
+|$`H
+l$PL
+D$hH
+t$@I
+\$@H
+D$xH
+|$@H
+|$@H
+|$@H
+[]A\A]A^A_
+|$`H
+l$PL
+|$@L
+D$hH
+t$0I
+AWAV
+AUATUSH
+D$X1
+D$8H
+t$0H
+l$@L
+l$ H
+D$XdH3
+h[]A\A]A^A_
+t$0L
+tCUSH
+ATUI
+[]A\
+tCUSH
+tCUSH
+ATUI
+[]A\
+AWAVI
+AUATH
+D$h1
+t$@L
+D$XH
+|$ H
+l$@H
+L$hdH3
+x[]A\A]A^A_
+|$@H
+|$0f
+ATUH
+ []A\
+AUATUSHc
+;Lc\$
+Lc\$
+HcL$
+[]A\H
+AUATI
+USE1
+[]A\A]
+[]A\A]
+ATUSH
+[]A\
+ATUI
+[]A\
+USE1
+[]A\
+[]A\
+ATUI
+[]A\
+AWAVLc
+AUATI
+$Hc|$
+tDf.
+$Hc|$
+$HcL$
+[]A\H
+A^A_
+AVAUI
+ATUH
+[]A\A]A^
+$HcH
+ATUI
+D$(1
+q +q
+D$(dH3
+0[]A\
+dH34%(
+ATUH
+SHcW
+AUATA
+^_~AL
+[]A\A]
+AVAUATU
+D$H1
+l$ H
+l$ H
+D$8H
+D$HdH3
+P[]A\A]A^
+ATUI
+D$81
+H9t$ H
+D$(H
+H9t$ 
+L$8dH3
+@[]A\
+AWAVAUATUSH
+D$H1
+\$@H
+D$ HcH
+D$HdH3
+X[]A\A]A^A_
+|$@A
+|$@A
+|$@f
+AWAVAUATI
+d$`H
+D$`t*L
+t$pL
+D$pH
+t$(L
+[]A\A]A^A_
+t$,L
+D$0L
+t$pE1
+D$@H
+D$PH
+|$PL
+|$PH
+D$pHcH
+\$xH
+\$xt.
+\$xu
+D9|$,
+T$`H
+AWAVAUATI
+l$`H
+D$xH
+D$0H
+|$0H
+|$0H
+|$0H
+|$0H
+d$@H
+|$ H
+D$xH
+|$ H
+|$ H
+|$ D
+|$ D
+|$0I
+|$0H
+|$0H
+|$0E
+|$0H
+[]A\A]A^A_
+AUATUSH
+D$H1
+l$ L
+D$HdH3
+X[]A\A]
+AWAV1
+AUATI
+D$(1
+l$ H
+8H;{
+L$(dH3
+8[]A\A]A^A_
+|$ 1
+8H;{
+G 9G
+G 9G
+AVAUL
+ATUH
+D$H1
+l$ H
+D$8H
+D$HdH3
+P[]A\A]A^
+l$ H
+D$(1
+H9D$
+D$(dH3
+AVAUI
+ATUSH
+[]A\A]A^
+\$ I
+t6USH
+x H9
+StzH
+ATUSHc
+[]A\
+[]A\
+ATUH
+ []A\
+-i}"
+ATUI
+[]A\
+AVAUATUSH
+%Y|"
+[]A\A]A^
+%;{"
+-h{"
+ATUH
+[]A\
+AUATUS
+^_~GL
+[]A\A]
+ATUSH
+[]A\
+%Wu"
+A$D3
+A$D3
+ATUA
+#[]A\
+ATUS
+[]A\
+[]A\
+[]A\
+tkUSH
+AWAVAUATI
+([]A\A]A^A_
+5ml"
+5ck"
+=ak"
+=<k"
+ATUSH
+D$H1
+t$ H
+D$8H
+D$HdH3
+P[]A\
+AWAVAUATUSH
+D$x1
+d$0L
+|$PH
+D$hH
+|$0H
+|$0H
+|$0H
+l$0H
+\$@H
+d$ L
+D$xdH3
+[]A\A]A^A_
+d$0H
+\$@L
+d$ L
+d$0H
+\$@L
+d$ L
+D$XH
+|$PH
+|$PH
+D$XH
+D$XH
+|$PI
+|$PI
+|$PL
+|$PL
+AVAUI
+ATUI
+D$X1
+t$0H
+D$HH
+\$ I
+t$0H
+D$HH
+D$XdH3
+`[]A\A]A^
+\$0H
+|$ L
+t$ E1
+|$ f
+d$ H
+AVAUI
+ATUH
+D$X1
+t$0H
+D$HH
+l$01
+t$ L
+D$XdH3
+`[]A\A]A^
+AWAVI
+AUATI
+|$@H
+l$`L
+|$ H
+D$hH
+D$0H
+|$(H
+t$ I
+|$(H
+D$hH
+|$(L
+D$(H
+|$0H
+t$!I
+D$hH
+|$0L
+D$0H
+D$hH
+|$PH
+|$PH
+|$PH
+[]A\A]A^A_
+D$hH
+|$pf.
+t$@H
+|$8H
+t$8H
+tCUSH
+ATUI
+[]A\
+AWAV1
+AUATUSH
+D$X1
+d$0L
+t$ H
+D$XdH3
+h[]A\A]A^A_
+[]A\
+ATUSH
+D$81
+H;|$ H
+L$8dH3
+@[]A\
+ATUH
+D$H1
+t$ H
+D$8H
+D$HdH3
+P[]A\
+ATUL
+[]A\
+AUATA
+LcD$
+<	L9
+t	H)
+HcL$
+[]A\H
+LcD$
+AUATH
+t+f.
+[]A\A]
+D$H1
+=$4"
+t$ H
+D$8H
+D$HdH3
+AVAUH
+ATUI
+SHcW
+]A\A]A^
+AWAVAUATI
+D$X1
+D$@L
+l$@L
+|$ H
+|$ H
+\$ I
+|$ H
+l$0A
+D$XdH3
+h[]A\A]A^A_
+|$ D
+AWAVAUATUSH
+[]A\A]A^A_
+D$xH
+l$pH
+l$ H
+|$0L
+|$@L
+t$@H
+|$01
+D$pL
+|$PH
+|$PL
+|$PL
+|$PL
+|$PL
+|$pf
+l$pH
+AWAVAUATUSH
+H 9H
+[]A\A]A^A_
+AWAVAUATI
+H98t
+([]A\A]A^A_
+D$(1
+H9D$
+L$(dH3
+AWAVI
+AUATI
+\$(H
+D$x1
+l$PH
+8I;|$(H
+|$PH
+|$0I
+|$0H
+\$@H
+|$ H
+l$0H
+D$XH
+D$`H
+D$HL
+L$hH
+D$@H9
+L$hH
+D$HL
+D$HL
+D$HL
+D$PA
+D$xdH3
+[]A\A]A^A_
+D$@H
+L$hH
+L$hH
+|$0H
+\$hI
+G 9G
+|$(H
+\$@H
+D$@H9E H
+\$@t%L
+D$PH
+T$PH
+AWAVAUATI
+D$X1
+t$0H
+D$HH
+t$0L
+D$HH
+L$XdH3
+h[]A\A]A^A_
+D$HH
+l$ I
+|$ f
+D$ I9G L
+l$ t%L
+D$0I
+T$0I
+AWAVA
+AUATUSH
+D$X1
+H;h u
+l$@A
+|$0L
+d$ L
+D$XdH3
+h[]A\A]A^A_
+tkUSH
+ATUI
+dH34%(
+ []A\
+ATUSHc
+[]A\
+[]A\
+tCSH
+AUATUS
+^_~GL
+[]A\A]
+ATUA
+ []A\
+ATUSH
+[]A\
+AWAV
+AUATI
+Hct$
+$Hct$
+Lc|$
+$HcL$
+[]A\H
+A^A_
+AWAVAUATI
+HcL$
+$+I9
+HcL$
+Lct$
+HcL$
+([]A\H
+A^A_
+A$D3
+A$D3
+ATUA
+#[]A\
+AVAUATUSH
+}QA)
+]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+AUATI
+USE1
+[]A\A]
+[]A\A]
+ATUI
+[]A\
+USE1
+[]A\
+[]A\
+ATUI
+[]A\
+ATUH
+SHcW
+AWAVAUATI
+D$(1
+|$ H
+t$ H
+|$ I
+L$(dH3
+8[]A\A]A^A_
+T$ H
+AWAVAUATUSH
+t$`H
+|$0L
+t$PH
+D$pH
+T$PH
+D$pH
+H#D$
+L$H!
+D$0H
+[]A\A]A^A_
+|$0H
+H#D$ H
+H#D$(H
+H#D$@H
+|$0L
+\$8H
+|$0H
+D$pHcP
+|$PH
+t$8H
+|$PH
+t$8H
+AWAVLc
+AUATI
+$Hc|$
+tDf.
+$Hc|$
+$HcL$
+[]A\H
+A^A_
+AWAVLc
+AUATI
+$Hc|$
+tDf.
+$Hc|$
+u[IcU
+$HcL$
+[]A\H
+A^A_
+ATUH
+D$X1
+t$0H
+D$HH
+D$XdH3
+`[]A\
+AUATI
+[]A\A]
+AUATI
+[]A\A]
+AWAVAUATUSH
+|$ H
+t$`H
+D$xH
+|$ H
+|$ H
+|$ H
+|$0H
+|$0H
+|$@L
+|$0L
+|$0H
+|$0H
+[]A\A]A^A_
+AWAVH
+AUATI
+D$x1
+D$PH
+T$PHcB
+D$XH
+L$0H
+D$@H
+EL$HH
+|$@H
+|$0I
+l$ I
+|$0L
+D$HH
+|$0H
+|$0t$I
+Eleele
+D$'H
+|$0H
+|$0H
+D$@t^
+d$@H
+l$0A
+H9D$`H
+D$Xt0H
+T$hH
+H9D$`
+D$Xu
+D$xdH3
+[]A\A]A^A_
+D$0H
+|$0H
+D$0H
+d$@H
+l$@A
+tCUSH
+ATUI
+[]A\
+AUATH
+t+f.
+[]A\A]
+D$H1
+t$ H
+D$8H
+D$HdH3
+ATUI
+ []A\
+AWAVI
+AUATI
+t$@dH
+D$h1
+|$@H
+l$ H
+D$XH
+L$hdH3
+x[]A\A]A^A_
+|$0H
+l$0H
+l$@IcU
+l$0f
+D$81
+\$ H
+L$8dH3
+@[]A\
+ATUH
+D$81
+\$ H
+L$8dH3
+@[]A\
+ATUH
+D$81
+\$ H
+L$8dH3
+@[]A\
+AWAV
+AUATI
+D$h1
+|$(H
+D$@H
+D$@H
+|$@H
+D$8H
+t$ %
+|$(L
+l$0H
+t$@H
+D$0H
+D$@H
+|$HH
+D$HH9D$P
+|$@L
+D$HH9D$P
+|$ f
+D$HH
+L$hdH3
+x[]A\A]A^A_
+D$0HcP
+T$@H
+l$0H
+\$@H
+D$81
+D$(H
+l$ H
+L$8dH3
+l$ H
+ATUH
+D$81
+D$(H
+d$ H
+L$8dH3
+@[]A\
+d$ L
+D$81
+D$(H
+\$ H
+L$8dH3
+\$ H
+AWAVAUATI
+d$0L
+|$ dH
+D$H1
+D$HdH3
+X[]A\A]A^A_
+AWAVI
+AUATL
+D$h1
+d$PI
+|$PH
+\$0L
+D$XH
+D$X%
+D$hdH3
+x[]A\A]A^A_
+l$ L
+AVAUI
+ATUI
+[]A\A]A^
+AWAV
+AUATI
+D$X1
+\$0H
+l$ L
+D$XdH3
+h[]A\A]A^A_
+D$HH
+l$@I
+l$@I
+AWAV
+AUATUSH
+D$X1
+\$0H
+l$ L
+D$XdH3
+h[]A\A]A^A_
+D$HH
+l$@I
+l$@I
+AWAVE1
+AUATI
+l$pH
+t$0H
+|$0H
+|$0L
+l$`L
+t$0H
+|$0H
+|$0H
+|$0H
+|$0H
+|$0H
+|$0L
+|$0H
+|$0L
+[]A\A]A^A_
+|$`f
+d$PL
+|$PH
+|$PH
+|$PH
+|$PL
+|$0H
+|$0H
+|$0H
+|$0H
+L$ A
+|$0H
+|$0H
+L$ A
+|$0H
+|$0H
+|$0H
+|$0H
+L$ A
+|$0t3H
+D$ H
+D$/H
+D$/H
+|$0H
+|$0t3H
+L$ D
+|$0H
+|$0t3H
+D$ H
+D$/H
+D$/H
+|$0H
+|$0t3H
+D$ L
+D$/H
+D$/H
+|$0H
+|$0t3H
+D$ H
+D$ H
+|$0H
+D$ H
+D$ H
+D$ H
+AWAVAUATI
+WHdH
+D$H1
+t$ H
+D$8H
+D$HdH3
+X[]A\A]A^A_
+D$(H
+t$ H
+D$(L
+D$(L
+D$8H
+D$(L
+D$(L
+D$8H
+D$(L
+t$ L
+tCUSH
+ATUI
+[]A\
+AWAVAUATUSH
+T$8t
+D$8H
+D$8H
+D$ H
+D$8H
+D$pL9l$ H
+\$`L
+D$PH
+D$xH
+l$(L
+D$(H
+D$(H
+D$(H
+L9l$ 
+\$8H
+[]A\A]A^A_
+d$PL;%sp!
+d$PA
+==p!
+|$PL
+|$PL
+t$0L
+d$PA
+D$8H
+\$8H
+T$ H
+d$PL
+|$PA
+ATUH
+ []A\
+AWAVAUATI
+D$x1
+D$PL
+|$0H
+l$@H
+T$PHcB
+D$XH
+T$`twH
+D$XH9D$`u
+God A red nugget A fat egg under a dog
+l$ H
+D$hH
+l$@L
+D$xdH3
+[]A\A]A^A_
+T$hH
+AWAV1
+AUATI
+dH34%(
+([]A\A]A^A_
+Beeb
+$I9E t2L
+$H9E I
+AWAVAUATI
+D$X1
+t$0H
+D$HH
+t$0H
+D$HH
+D$XdH3
+h[]A\A]A^A_
+\$0L
+|$ f
+AVAUATUI
+[]A\A]A^
+AWAVI
+AUATUSH
+|$0H
+D$@H
+D$(H
+|$@H
+|$@H
+|$@H
+D$'t
+|$PH
+|$PH
+D$0H
+|$`L
+D$0H
+|$PH
+|$PL
+|$PH
+|$PH
+\$0H
+[]A\A]A^A_
+AVAUATUSH
+D$H1
+$HcP
+t$ H
+D$8H
+D$HdH3
+P[]A\A]A^
+$HcP
+I;l$
+tCUSH
+ATUI
+[]A\
+AUATA
+LcD$
+<	L9
+t	H)
+HcL$
+[]A\H
+LcD$
+USE1
+ t	H
+[]A\
+[]A\
+ATUI
+[]A\
+ATUSH
+t	H)
+[]A\
+ATUI
+[]A\
+ATUI
+[]A\
+AWAVI
+AUATUSH
+D$X1
+t$0H
+D$HH
+D$XdH3
+h[]A\A]A^A_
+d$0H
+|$ f
+AUATUSH
+gXdH
+D$H1
+t$ H
+D$8H
+D$HdH3
+X[]A\A]
+AVAUATUI
+D$X1
+D$8H
+l$0H
+\$@L
+t$ H
+L$XdH3
+`[]A\A]A^
+|$0A
+l$0L
+AVAUATUI
+D$x1
+l$PH
+|$PI
+D$XH
+t$0H
+d$0H
+D$hH
+|$0H
+|$0H
+|$0H
+D$xdH3
+[]A\A]A^
+|$Pf
+|$PI
+t$0L
+D$XH
+t$ H
+AWAVI
+AUATUSH
+D$PL
+|$PH
+|$PH
+|$`H
+|$`I
+d$pH
+d$pH9
+|$`H
+|$`H
+|$`H
+|$`H
+|$`H
+l$`H
+D$0L
+D$`I
+D$`I
+[]A\A]A^A_
+D$PL
+d$pH
+l$`H
+AVAUATUH
+oXdH
+D$H1
+D$8H
+D$HdH3
+P[]A\A]A^
+AWAVAUATUSH
+T$pL
+t$PH
+|$PH
+|$PH
+|$PH
+d$0L
+|$ H
+|$ L
+t$@L
+[]A\A]A^A_
+t$PH
+D$xH
+|$ H
+|$ H
+|$ t/H
+|$ H
+T$pI
+T$pH
+AVAUATUA
+wXdH
+D$H1
+t$ H
+D$8H
+D$HdH3
+P[]A\A]A^
+tCUSH
+AUATI
+[]A\A]
+tW~5
+t$(u
+tCUSH
+ATUI
+[]A\
+tCUSH
+tCUSH
+ATUI
+[]A\
+tCUSH
+ATUI
+[]A\
+tCUSH
+tCUSH
+tCUSH
+H98u
+tCUSH
+ATUI
+[]A\
+H98u
+tCUSH
+AUATI
+[]A\A]
+[]A\A]
+tCUSH
+D$(1
+D$(dH3
+H98u
+tCUSH
+ATUI
+[]A\
+H98u
+``f.
+tCUSH
+ATUI
+[]A\
+ATUSH
+ []A\
+tkUSH
+AUATI
+[]A\A]
+[]A\A]
+tCUSH
+D$(1
+D$(dH3
+tW~]
+H98u
+tCUSH
+ATUI
+[]A\
+tCUSH
+D$(1
+L$(dH3
+AUATH
+D$(1
+L$(dH3
+8[]A\A]
+AVAUATUSH
+ []A\A]A^
+tCUSH
+AUATI
+[]A\A]
+$$tx
+,$H9
+AWAVA
+AUATL
+[]A\A]A^A_
+about:blank
+default
+Scheme not allowed:
+URL not allowed:
+1onFailTimer()
+2timeout()
+Done
+1accept()
+2clicked()
+this.value
+signon-ui/webkit-options.d/
+Url changed:
+http
+this.click()
+QDBusArgument
+Couldn't find element:
+Secret
+Browser dialog closed
+UrlResponse
+true
+false
+Load finished
+a{sv}
+cookies:
+1onContentsChanged()
+2contentsChanged()
+1onUrlChanged(const QUrl&)
+2finalUrlReached(const QUrl&)
+https
+OpenUrl
+2urlChanged(const QUrl&)
+1onLoadProgress()
+2loadProgress(int)
+1onLoadFinished(bool)
+2loadFinished(bool)
+:/spinner-26.gif
+1startProgress()
+2loadStarted()
+1stopProgress()
+Title
+Caption
+Web authentication for %1
+Web authentication
+Dialog was built
+FinalUrl
+1onFinished()
+2finished(int)
+PreferredWidth
+HorizontalScrollBar
+VerticalScrollBar
+TextSizeMultiplier
+UserAgent
+ViewportWidth
+ViewportHeight
+ZoomFactor
+UsernameField
+PasswordField
+LoginButton
+InternalLinksPattern
+ExternalLinksPattern
+AllowedUrls
+alwaysOn
+Do nine men interpret Nine men I nod
+alwaysOff
+AllowedSchemes
+IgnoreSslErrors
+The authentication process is complete.
+You may now close this dialog and return to the application.
+An error occurred while loading the authentication page.
+1onSslErrors(QNetworkReply*,const QList<QSslError> &)
+2sslErrors(QNetworkReply*,const QList<QSslError> &)
+acceptNavigationRequest
+initializeField
+onFinished
+buildDialog
+addBrowserCookies
+onLoadFinished
+onUrlChanged
+onSslErrors
+urlIsBlocked
+SignOnUi::BrowserRequestPrivate
+onSslErrors
+QNetworkReply*
+reply
+QList<QSslError>
+errors
+onUrlChanged
+onLoadProgress
+onLoadFinished
+onFailTimer
+onFinished
+startProgress
+stopProgress
+onContentsChanged
+SignOnUi::WebView
+SignOnUi::WebPage
+finalUrlReached
+QtMetaTypePrivate::QSequentialIterableImpl
+QtMetaTypePrivate::QAssociativeIterableImpl
+CookieJar: Unable to parse saved cookie:
+cookie-jar-manager.cpp
+%1.jar
+QNetworkCookie
+QList
+SignOnUi::RawCookies
+QList<QNetworkCookie>
+cookies
+1saveAll()
+2aboutToQuit()
+Setting cookies for url:
+1save()
+saving to
+removeForIdentity
+save
+setCookiesFromUrl
+<font color='red'>%1</font>
+<i>%1</i>
+dialog-request.cpp
+Dialog is rejected
+Dialog is accepted
+CaptchaResponse
+Got captcha
+Got error:
+1quit()
+2finished()
+LoginDialog
+Enter your credentials
+QueryMessage
+QueryMessageId
+QueryUserName
+username
+Username:
+QueryPassword
+Password:
+CaptchaUrl
+CaptchaField
+Text from the picture:
+2accepted()
+1reject()
+2rejected()
+1onAccepted()
+1onRejected()
+Enter your credentials to login
+Previous authentication attempt failed. Please try again.
+As an additional security measure, please fill in the text from the picture below:
+onCaptchaRetrieved
+onRejected
+onAccepted
+buildDialog
+requestCaptcha
+SignOnUi::DialogRequestPrivate
+onAccepted
+onRejected
+onCaptchaRetrieved
+QNetworkReply*
+reply
+:security-low.png
+What does this mean?
+This site uses an insecure connection.
+ <a href="help:web-credentials/http-warning">%1</a>
+1onTimeout()
+isIdle
+inactivity-timer.cpp
+1onIdleChanged()
+2isIdleChanged()
+onTimeout
+QSet<uint>
+webcredentials-indicator
+indicator-service.cpp
+PropertiesChanged
+DisplayName
+Couldn't show notification:
+ClientData
+Identity
+Method
+Mechanism
+Reauthenticating account
+2finished(bool)
+QDBusContext
+Instantiating a second IndicatorService!
+org.freedesktop.DBus.Properties
+/com/canonical/indicators/webcredentials
+com.canonical.indicators.webcredentials
+Applications can no longer access some of your Online Accounts
+Applications can no longer access your %1 Online Account
+Choose <b>Online Accounts</b> from the user menu to reinstate access to this account.
+No reauthentication data for account
+1onReauthenticatorFinished(bool)
+Reauthenticator already active on
+IndicatorService
+showNotification
+ReauthenticateAccount
+SignOnUi::IndicatorServicePrivate
+ClearErrorStatus
+RemoveFailures
+QSet<uint>
+accountIds
+ReportFailure
+accountId
+notification
+ReauthenticateAccount
+extraParameters
+onReauthenticatorFinished
+success
+Tacocat
+Failures
+ErrorStatus
+signon-ui
+SSOUI_LOGGING_LEVEL
+SSOUI_DAEMON_TIMEOUT
+/etc
+/SignonUi
+com.nokia.singlesignonui
+socks
+socks5
+direct
+reauthenticator.cpp
+Got response:
+QMap(
+2error(const SignOn::Error &)
+1onError(const SignOn::Error &)
+1onResponse(const SignOn::SessionData &)
+2response(const SignOn::SessionData &)
+onResponse
+onError
+SignOnUi::ReauthenticatorPrivate
+onError
+SignOn::Error
+error
+onResponse
+SignOn::SessionData
+response
+Request already started!
+Platform:
+ubuntu
+SSOUI_USE_UBUNTU_WEB_VIEW
+CredentialsId
+Embedded
+requestId
+WindowId
+QueryErrorCode
+Widget already set
+Requesting window embedding
+Requesting window reparenting
+Error dispatching to indicator:
+1onIndicatorCallFinished(QDBusPendingCallWatcher*)
+2finished(QDBusPendingCallWatcher*)
+start
+newRequest
+dispatchToIndicator
+setWidget
+SignOnUi::RequestPrivate
+onIndicatorCallFinished
+QDBusPendingCallWatcher*
+watcher
+Cancelling request
+Head:
+Already in progress
+1onRequestCompleted()
+2completed()
+Got request:
+Completed request is not first in queue!
+queryDialog
+cancelUiRequest
+onRequestCompleted
+runQueue
+SignOnUi::ServicePrivate
+onRequestCompleted
+ubuntu-browser-request.cpp
+Client requested to cancel
+X-PageComponent
+/usr/share/signon-ui/
+DefaultPage.qml
+/id-%1
+qrc:/MainWindow.qml
+/usr/share/signon-ui/qml
+rootDir
+Page loading failed
+buildDialog
+onFinished
+onFailTimer
+onLoadFinished
+cancel
+setCurrentUrl
+start
+SignOnUi::UbuntuBrowserRequestPrivate
+cancel
+onLoadStarted
+onLoadFinished
+onFailTimer
+onFinished
+pageComponentUrl
+currentUrl
+startUrl
+finalUrl
+AnimationLabel
+start
+stop
+SignOnUi::BrowserRequest
+SignOnUi::CookieJarManager
+saveAll
+SignOnUi::CookieJar
+save
+SignOnUi::DialogRequest
+SignOnUi::Dialog
+SignOnUi::HttpWarning
+SignOnUi::InactivityTimer
+timeout
+onIdleChanged
+onTimeout
+SignOnUi::IndicatorService
+isIdleChanged
+isIdle
+SignOnUi::NetworkAccessManager
+SignOnUi::Reauthenticator
+finished
+success
+start
+SignOnUi::Request
+completed
+start
+cancel
+fail
+name
+message
+setCanceled
+setResult
+result
+SignOnUi::Service
+D-Bus Interface
+com.nokia.singlesignonui
+isIdleChanged
+queryDialog
+parameters
+refreshDialog
+newParameters
+cancelUiRequest
+Q_NOREPLY
+requestId
+removeIdentityData
+isIdle
+ComCanonicalIndicatorsWebcredentialsInterface
+SignOnUi::QQuick::Dialog
+finished
+result
+accept
+reject
+done
+SignOnUi::UbuntuBrowserRequest
+ClearErrorStatus
+bool
+uint
+QVariantMap
+ReauthenticateAccount
+RemoveFailures
+ReportFailure
+ * This file is part of signon-ui
+ * Copyright (C) 2013 Canonical Ltd.
+ * Contact: Alberto Mardegan <alberto.mardegan@canonical.com>
+ * This program is free software: you can redistribute it and/or modify it
+ * under the terms of the GNU General Public License version 3, as published
+ * by the Free Software Foundation.
+ * This program is distributed in the hope that it will be useful, but
+ * WITHOUT ANY WARRANTY; without even the implied warranties of
+ * MERCHANTABILITY, SATISFACTORY QUALITY, or FITNESS FOR A PARTICULAR
+ * PURPOSE.  See the GNU General Public License for more details.
+ * You should have received a copy of the GNU General Public License along
+ * with this program.  If not, see <http://www.gnu.org/licenses/>.
+import QtQuick 2.0
+Item {
+    id: keyboardRect
+    anchors.left: parent.left
+    anchors.right: parent.right
+    anchors.bottom: parent.bottom
+    height: Qt.inputMethod.visible ? Qt.inputMethod.keyboardRectangle.height : 0
+    Behavior on height {
+        StandardAnimation { }
+    }
+    function recursiveFindFocusedItem(parent) {
+        if (parent.activeFocus) {
+            return parent;
+        }
+        for (var i in parent.children) {
+            var child = parent.children[i];
+            if (child.activeFocus) {
+                return child;
+            }
+            var item = recursiveFindFocusedItem(child);
+            if (item != null) {
+                return item;
+            }
+        }
+        return null;
+    }
+    Connections {
+        target: Qt.inputMethod
+        onVisibleChanged: {
+            if (!Qt.inputMethod.visible) {
+                var focusedItem = recursiveFindFocusedItem(keyboardRect.parent);
+                if (focusedItem != null) {
+                    focusedItem.focus = false;
+                }
+            }
+        }
+    }
+aimport QtQuick 2.0
+import Ubuntu.Components 0.1
+import Ubuntu.Components.Extras.Browser 0.2
+import com.canonical.Oxide 1.0
+UbuntuWebView {
+    Component.onCompleted: url = signonRequest.startUrl
+    onLoadingChanged: {
+        console.log("Loading changed")
+        if (loading) {
+            signonRequest.onLoadStarted()
+        } else if (lastLoadSucceeded) {
+            signonRequest.onLoadFinished(true)
+        } else {
+            signonRequest.onLoadFinished(false)
+        }
+    }
+    onUrlChanged: signonRequest.currentUrl = url
+    context: UbuntuWebContext {
+        dataPath: rootDir
+    }
+ * This file is part of signon-ui
+ * Copyright (C) 2013 Canonical Ltd.
+ * Contact: Alberto Mardegan <alberto.mardegan@canonical.com>
+ * This program is free software: you can redistribute it and/or modify it
+ * under the terms of the GNU General Public License version 3, as published
+ * by the Free Software Foundation.
+ * This program is distributed in the hope that it will be useful, but
+ * WITHOUT ANY WARRANTY; without even the implied warranties of
+ * MERCHANTABILITY, SATISFACTORY QUALITY, or FITNESS FOR A PARTICULAR
+ * PURPOSE.  See the GNU General Public License for more details.
+ * You should have received a copy of the GNU General Public License along
+ * with this program.  If not, see <http://www.gnu.org/licenses/>.
+import QtQuick 2.0
+NumberAnimation {
+    duration: 300
+    easing.type: Easing.InOutQuad
+import QtQuick 2.0
+import Ubuntu.Components 0.1
+MainView {
+    id: root
+    width: units.gu(60)
+    height: units.gu(90)
+    property var signonRequest: request
+    Loader {
+        id: loader
+        property Component webView: browserComponent
+        property Item osk: osk
+        anchors.fill: parent
+        focus: true
+        source: request.pageComponentUrl
+    }
+    KeyboardRectangle {
+        id: osk
+    }
+    Component {
+        id: browserComponent
+        WebView {
+        }
+    }
+import QtQuick 2.0
+import Ubuntu.Components 0.1
+Page {
+    Loader {
+        id: loader
+        anchors {
+            fill: parent
+            bottomMargin: osk.height
+        }
+        focus: true
+        sourceComponent: browserComponent
+    }
+"SGIF89a 
+```LLL>>>HHHVVVppp
+fff444222888BBBttt
+jjj000
+***\\\
+&&&"""
+~~~RRRzzz
+NETSCAPE2.0
+Created with ajaxload.info
+( lF
+t:|-C3
+F.Z?
+Z,0H
+evw%
+K(HH"*
+t:\`.
+q'7$vB
+m%^_6
+D	&\
+saB*
+ 4.X
+t*H<*
+nDmnq%
+yj}Km^
+#pq87
+uC	'7
+!EZh
+^~E!!#
+wC	"
+R	%'7
+		.f
+*j$E1
+t(I@
+Y}mo
+!!#%
+4h,eaV
+t*I|
+[iW(
+PBA >
+vvxi|}^
+""##
+8(P0)_
+5{5-
+		vwf{l
+6N|@:u
+@ D2
+vY8x)
+-\(t
+k`$2 D
+"Tuj(1v,
+Cax2
+@,4e8
+	C*)&&(
+B*-..
+,:WN
+bS*&&
+l	^p
+$R,-..
+sC/,
+-*tB
+C01/
+B2332
+48hY
+1BC7
+b5(P
+|7`x
+u\t2
+EEY$V
+\&3:
+b/,+**x&
+OP01/5
+rC3322
+//sB
+	B4C
+b8<0
+`!B)
+bR332xzhXZo
+x,**}~
+)1)L
+=kV A
+}%N@
+	5Yt
+qC4e15+-)&
+P*{P
+R*[`ck
+wCH2VM
+k:8}
+Eo2H
+([Z]
+uc_&(
+&|Z,k
+B2b6p
+6ll\i
+]7M0g3
+d"g0X
+{M,m&
+}B&\h8"
+l6i3
+5V{}
+Em|.&&
+F|)&
+:	!`-
+,p`g
+U+rJ
+c,+{.-~B
+%''%%
+#%##!
+HH$@
+%{R15
+T,-.
+#!% T*))&
+%##%
+T3v433
+%!!%
+tS20
+R*&.)
+("YP@#Q
+\lpSjr
+DDi4
+ xC !#}%o
+"!""
+i/110
+Z/,,//5/
+Z**+
+O-..-
+K\X0a"E
+NKPH
+:yf0i"
+"!""
+z4D4
+$`4A
+IHDR
+sBIT
+	pHYs
+tEXtSoftware
+www.inkscape.org
+hIDAT8
+f.UbR
+O@CD
+RcL[D
+L7?o
+IEND
+QSet
+WebcredentialsAdaptor
+D-Bus Interface
+com.canonical.indicators.webcredentials
+D-Bus Introspection
+  <interface name="com.canonical.indicators.webcredentials">
+    <method name="ReportFailure">
+      <annotation value="QVariantMap" name="org.qtproject.QtDBus.QtTypeName.In1"/>
+      <arg direction="in" type="u" name="account_id"/>
+      <arg direction="in" type="a{sv}" name="notification"/>
+    </method>
+    <method name="RemoveFailures">
+      <annotation value="QSet&lt;uint&gt;" name="org.qtproject.QtDBus.QtTypeName.In0"/>
+      <arg direction="in" type="au" name="account_ids"/>
+    </method>
+    <method name="ReauthenticateAccount">
+      <annotation value="QVariantMap" name="org.qtproject.QtDBus.QtTypeName.In1"/>
+alula
+      <arg direction="in" type="u" name="account_id"/>
+      <arg direction="in" type="a{sv}" name="extra_parameters"/>
+      <arg direction="out" type="b" name="reauthenticated"/>
+    </method>
+    <method name="ClearErrorStatus"/>
+    <property access="read" type="au" name="Failures">
+      <annotation value="QSet&lt;uint&gt;" name="org.qtproject.QtDBus.QtTypeName"/>
+    </property>
+    <property access="read" type="b" name="ErrorStatus"/>
+  </interface>
+ClearErrorStatus
+ReauthenticateAccount
+account_id
+extra_parameters
+RemoveFailures
+QSet<uint>
+account_ids
+ReportFailure
+notification
+ErrorStatus
+Failures
+;*3$"
+6df5e72384ab60a7ac67b1a81c58ca4cf7de7b.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.data.rel.ro
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

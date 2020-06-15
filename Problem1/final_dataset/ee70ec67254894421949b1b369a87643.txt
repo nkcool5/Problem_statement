@@ -1,0 +1,5811 @@
+/lib64/ld-linux-x86-64.so.2
+$PAQ@	
+-hP%
+(@0D
+!PP&
+1BH@ 
+L "&
+EH  
+AC!j
+?V-9
+xy"l;
+e%[=%
+|#\M
+~E}[
+e%BE
+dFM\
+|X7[5$h
+^5.1
+CCtT
+	S'Y
+BmB:
+]-!*
+*%/8
+\ Xr
+tFj>|
+3/bj
+)}>"|
+)f5~
+bO?y"
+>&#+0
+-)bs
+Ic+v
+KGN7
+ZnH!"j
+B~Qx\
+!vAl
+^Ab2`g
+~;`w
+3ee.
+K$B*r9
+libmagic.so.1
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+magic_open
+magic_file
+magic_error
+magic_close
+magic_load
+libc.so.6
+pthread_cond_signal
+__stpcpy_chk
+strcpy
+__printf_chk
+fnmatch
+setlocale
+strncmp
+optind
+strrchr
+regexec
+__strdup
+perror
+__isoc99_sscanf
+strncpy
+setreuid
+__stack_chk_fail
+unlink
+putchar
+pthread_mutex_lock
+realloc
+clock
+abort
+stdin
+sbrk
+gmtime
+strtol
+isatty
+feof
+fgets
+calloc
+memset
+strstr
+__errno_location
+memcmp
+__fprintf_chk
+ctime
+pthread_mutex_unlock
+stdout
+fputc
+fseeko64
+fputs
+pthread_cond_wait
+memcpy
+freopen64
+fclose
+__memmove_chk
+strcat
+strcasecmp
+ftello64
+__strncpy_chk
+getgid
+__lxstat64
+nl_langinfo
+__xstat64
+__ctype_b_loc
+getenv
+regcomp
+optarg
+stderr
+__snprintf_chk
+pthread_exit
+__memset_chk
+getuid
+readlink
+strncasecmp
+pthread_mutex_init
+usleep
+fread
+__memcpy_chk
+__fread_chk
+localtime
+lseek64
+strchr
+mktime
+fdopen
+readdir64
+qsort
+__ctype_toupper_loc
+__strcpy_chk
+__ctype_tolower_loc
+__sprintf_chk
+pthread_cond_init
+memmove
+fopen64
+access
+__strcat_chk
+strcmp
+strerror
+__libc_start_main
+ferror
+stpcpy
+getopt_long_only
+snprintf
+iconv_open
+libz.so.1
+deflate
+deflateEnd
+deflateInit_
+libbz2.so.1.0
+BZ2_bzCompressInit
+BZ2_bzCompressEnd
+BZ2_bzCompress
+__vsnprintf_chk
+gettimeofday
+valloc
+setsockopt
+geteuid
+getpwnam
+socketpair
+dup2
+setuid
+seteuid
+execlp
+rcmd
+getservbyname
+getpwuid
+ioctl
+getpagesize
+fcntl
+__fxstat64
+glob64
+globfree64
+strtok
+uname
+__open64_2
+rand
+__vfprintf_chk
+_IO_getc
+rewind
+setbuf
+libpthread.so.0
+pthread_cancel
+pthread_create
+pthread_join
+_edata
+__bss_start
+_end
+write_xg1
+d_fetchw
+get_boot_entry
+hfs_mount
+n_free
+getnum
+fileopen64
+load_unls_default
+__libc_csu_fini
+no_rr
+write_jt_footer
+usal_fprinterr
+version_desc
+stream_media_size
+rationalize_filemode
+usal_sprsense
+apple_both
+usal_errflush
+init_unls_iso8859_7
+not_bootable
+errmsgstr
+f_alloc
+reloc_dir
+udf_main_seq_frag
+hfs_rmdir
+rationalize_dirmode
+r_unpackcatdata
+load_size
+b_writeab
+gen_del_match
+get_hfs_info
+checksum_algo_iso
+request_sense_b
+j_file
+v_allocblocks
+usal_sprintresult
+n_index
+extension_record_extent
+usal__sprinterr
+add_boot_hppa_kernel_64
+usal__open
+read_g1
+add_boot_hppa_bootloader
+udf_file_entries_frag
+write_be16
+hfs_getcwd
+out_nls
+goof
+v_newfolder
+joliet_sort_tree
+isonum_733
+init_unls_cp737
+jte_add_mapping
+scsidev_open
+bt_insertx
+new_boot_entry
+probe
+jpathtable_desc
+dirtree_clean
+gen_matches
+usal_cmd_status
+hfs_umount
+generate_one_directory
+hppaboot_desc
+root_statbuf
+write_jt_header
+bt_deletex
+l_lockvol
+mmc_cap
+init_unls_cp850
+scan_directory_tree
+set_732
+sunlabel_desc
+reserve_track
+usal_getbuf
+init_unls_cp852
+usal_printrdata
+scsi_flush_cache
+init_unls_cp10081
+init_unls_iso8859_5
+r_unpackextdata
+wait_unit_ready
+use_prep_boot
+usal_smalloc
+init_unls_iso8859_3
+sha512_init_ctx
+outfile
+init_unls_iso8859_1
+sha256_init_ctx
+astolb
+read_session_offset
+astoll
+use_Joliet
+read_capacity
+recovery_needed
+_io_glflag
+current_boot_entry
+findgequal
+_fcons64
+force_rr
+allow_lowercase
+vol_desc
+read_le48
+is_unknown_dev
+jpath_table_m
+print_size
+scsi_set_speed
+v_putextrec
+hide_rr_moved
+n_init
+hfs_setcwd
+volset_id
+usal_remote
+jhide_trans_tbl
+jte_add_include
+read_disk_info
+cfg_open
+v_catsearch
+find_directory_hash
+parse_xa
+mipsboot_desc
+_nixwrite
+list_file_in_jigdo
+jpath_table_size
+usal_freebuf
+jpath_blocks
+d_fetchl
+rationalize
+hfs_write
+check_oldnames
+assign_dvd_weights
+delete_rsrc_ent
+udf_dirtree_frag
+checksum_free_context
+add_boot_alpha_filename
+v_extsearch
+bt_delete
+first_boot_entry
+usal_sensemsg
+xvoldesc_desc
+template_size
+hfs_volume_id
+autostart
+hfs_onls
+del_sort
+sha512_finish_ctx
+n_split
+num_matches
+sha256_finish_ctx
+print_hfs_info
+send_cue_sheet
+extension_record_size
+dopad
+use_genboot
+volume_set_size
+insert_padding_file
+magic_filename
+write_buffer
+use_mipselboot
+generate_rr_extension_record
+qic02
+rols_getline
+hfs_boot_file
+gid_to_use
+r_packextkey
+scsi_get_speed
+read_dvd_structure
+entry_list
+mk_MD5Parse
+is_mmc
+checksum_update
+e_malloc
+ifoClose
+init_unls_cp10029
+udf_main_seq_copy_frag
+_io_add_my_flag
+print_capacity
+rols_fgetline
+v_getvol
+d_putw
+read_be16
+use_sunx86boot
+_io_set_my_flag
+usal_sense_qual
+debug
+jtjigdo
+stream_filename
+usal_printwdata
+split_SL_component
+strpath_desc
+getdev
+make_sunx86_label
+sha256_process_bytes
+d_getw
+use_graft_ptrs
+merge_previous_session
+interpad_desc
+joliet_strlen
+open_merge_image
+hfs_setfork
+usal_settarget
+_badop
+d_fetchb
+iso9660_check
+usal_sprinterr
+match_cl_re_entries
+init_unls_iso8859_9
+mmc_check
+usal_close
+md5_last
+on_comerr
+_badfile
+jroot_record
+checksum_information
+udf_end_anchor_vol_desc_frag
+alphaboot_desc
+rcopt
+convert_to_unicode
+usal_sense_key
+n_merge
+use_sparcboot
+mode_sense_g0
+cdr_defaults
+hfs_chdir
+cfg_get_next
+print_capabilities
+RR_relocation_depth
+seterrno
+_niread
+geterrno
+usal_fprbytes
+scsi_cdr_write
+init_fstatbuf
+volume_sequence_number
+usal_sprbytes
+r_makeextkey
+r_unpackextkey
+astol
+use_mipsboot
+init_nls_iconv
+use_hppaboot
+hfs_bless
+out_list
+find_rr_attribute
+full_iso9660_filenames
+alpha_hppa_boot_desc
+usal_fprascii
+usal_havebus
+perr
+mk_MD5Update
+sha1_finish_ctx
+copyright
+hfs_parms
+ucs_level
+get_hfs_dir
+usal__errmsg
+usal_isatapi
+insert_boot_cat
+_badmode
+sha512_process_bytes
+get_mode_params
+init_unls_cp1250
+l_readvbm
+saved_av
+l_readpm
+udf_pad_to_sector_256_frag
+unload_unls
+seek_g0
+num_chunks
+usal_setnonstderrs
+find_or_create_directory
+cache_inodes
+close_merge_image
+uid_to_use
+usal_bufsize
+hfs_curvol
+cfg_close
+checksum_copy
+mode_select_g0
+hfs_extra
+sunx86_boot_label
+write_fork
+scan_sunx86_boot
+cfg_restart
+saved_av0
+__usal_times
+scsi_blank
+clean_hfs
+oneblock_size
+cdr_underrun
+l_readmdb
+next_extent
+DVDClose
+scsi_load
+init_unls_file
+find_hash
+usal_sprintstatus
+f_flush
+usal_prbytes
+iso9660_namelen
+do_sort
+write_le64
+hfs_vsetbless
+make_sun_label
+scsi_in_progress
+rsync64
+v_scavenge
+DVDOpen
+usal_getdmacnt
+osecsize
+usal_printresult
+add_directory_hash
+use_RockRidge
+readdir_add_files
+init_boot_catalog
+init_unls_iso8859_15
+last_boot_entry
+jmd5_list
+__data_start
+usal_getresid
+transparent_compression
+Beeb
+check_session
+sort_directory
+omit_period
+init_unls_koi8_r
+udf_vol_recognition_area_frag
+no_emul_boot
+afe_size
+strdir_desc
+add_boot_mipsel_filename
+scsi_load_unload
+merge_isofs
+gen_mac_label
+cdrecord_data
+usal_printerr
+discimage
+seek_scsi
+find_file_hash
+usal_sense_code
+hfs_flush
+reserve_tr_rzone
+_cvmod
+read_le32
+_fl_max
+_io_myfl
+DVDGetFileSet
+DVDFileSize
+init_unls_cp864
+outputlist_insert
+in_image
+r_unpackdirent
+generate_tables
+init_unls_cp862
+set_722
+fillbytes
+init_unls_cp860
+init_unls_cp866
+calculate_md5sum
+r_comparecatkeys
+init_unls_cp10006
+get_732
+allow_multidot
+parse_checksum_algo
+f_doblock
+d_storeb
+jte_add_exclude
+jjigdo_out
+use_mac_name
+publisher
+init_unls_cp10000
+DVDGetFilePad
+read_master_cue
+init_unls_koi8_u
+usal_version
+hfs_icharset
+read_be32
+read_buffer
+_IO_stdin_used
+hfs_closedir
+apple_ext
+init_unls_cp10079
+write_xg0
+read_trackinfo
+preparer
+jte_template_compression
+d_storel
+create_dt
+read_rzone_info
+init_unls_iso8859_6
+scsi_compliant
+iso9660_level
+usal_cmd_err
+generate_xa_rr_attributes
+rr_flags
+mipselboot_desc
+astollb
+abstract
+get_adj_size
+save_args
+write_le32
+read_B0
+usal_fileno
+biblio
+hfs_error
+mode_sense_sg0
+f_getptrs
+DVDOpenFile
+is_cddrive
+hfs_ocharset
+gen_add_list
+write_le48
+read_g0
+check_linux_26
+strfile_desc
+last_extent
+comerrno
+DVDFreeFileSet
+include_list
+hfs_open
+checksum_init_context
+jlen
+__libc_csu_init
+usal_prascii
+mmc_getval
+__usal_help
+d_getb
+memcpy_max
+appid
+b_readlb
+sparc_boot_label
+bt_getnode
+init_unls_cp855
+hfs_create
+set_731
+f_selectfork
+jtemplate_out
+set_733
+init_unls_cp857
+lstat_filter
+path_ind
+r_packdirent
+xfwrite
+follow_links
+bt_space
+d_relstring
+usal_std_ops
+d_getl
+bt_writehdr
+usal_sprintwdata
+hfs_mounts
+init_unls_iso8859_8
+hfs_mkdir
+usal_cmd
+v_putcatrec
+saved_ac
+init_unls_iso8859_4
+v_adjvalence
+init_unls_cp775
+gen_pt
+hard_disk_boot
+init_unls_iso8859_2
+split_SL_field
+printinq
+out_tail
+usal_remote_ops
+list_unls
+hfs_opendir
+hfs_readdir
+cfg_get
+lba_to_msf
+jpath_table_l
+rezero_unit
+hfs_vstat
+do_inquiry
+search_tree_file
+bt_search
+use_alphaboot
+make_desktop
+root
+usal_svtail
+use_udf
+r_packcatkey
+usal_sense_table
+read_scsi
+insert_file_entry
+hfs_getvol
+checksum_final
+from_bcd
+_io_get_my_flag
+udf_file_set_desc_frag
+Do nine men interpret Nine men I nod
+b_writelb
+mk_MD5Final
+scsi_start_stop_unit
+finish_cl_pl_for_prev_session
+hfs_get_drAllocPtr
+use_chrp_boot
+jttemplate
+write_le16
+usal_vsetup
+scsi_format
+read_session_offset_philips
+in_nls
+icon_pos
+udf_padend_avdp_frag
+load_addr
+dump_tree
+rationalize_gid
+flush_file_hash
+usal_sprintrdata
+image_size
+usal_yes
+print_min_atip
+apple_hyb
+read_be64
+write_be64
+r_packextdata
+mode_select
+split_output
+mk_MD5Init
+hfs_exclude
+last_extent_written
+usal_dummy_ops
+add_file_hash
+hfs_set_drAllocPtr
+nomacfiles
+usal_sprintcdb
+n_insert
+bt_insert
+hfs_format
+n_new
+hfs_dirinfo
+dvd_video
+hfs_read
+hfs_init
+make_mac_volume
+hfs_close
+genboot_desc
+usal__close
+hfs_last
+init_unls_cp437
+movebytes
+d_putb
+relaxed_filenames
+read_le16
+omit_version_number
+gen_add_match
+deftype
+d_putl
+sha1_stream
+usal_printcdb
+set_progname
+readsecs
+new_dir_mode
+iso_translate
+mk_MD5Transform
+raisecond
+read_toc_philips
+udf_integ_seq_frag
+to_bcd
+hfs_select
+scsi_close_tr_session
+test_unit_ready
+mode_sense_g1
+r_makecatkey
+magic_state
+hfs_getfork
+endpad_desc
+__roothandle
+iso9660_date
+read_cdtext
+use_fileversion
+begun
+genboot_image
+udf_anchor_vol_desc_frag
+checksum_algo_tmpl
+del_hfs_info
+alpha_hppa_boot_sector
+d_dtoutime
+scsidev_close
+scsi_prevent_removal
+read_tochdr
+usal_svhead
+write_jt_match_record
+filewrite
+sec_to_msf
+usal_fprsense
+sunboot_desc
+gen_prepboot_label
+set_root_info
+get_progname
+adj_size_other
+get_hfs_rname
+v_freeblocks
+init_unls
+r_unpackcatkey
+extension_desc
+write_be32
+gen_ishidden
+l_readblock0
+generate_iso9660_directories
+udf_pad_to_sector_32_frag
+hfs_setvol
+r_packcatdata
+version_string
+add_sort_list
+allow_atapi
+hfs_truncate
+unregister_unls
+verbose
+add_boot_hppa_ramdisk
+allow_limited_size
+astoi
+usal_initiator_id
+prep_boot_image
+bt_readhdr
+select_secsize
+streql
+usal_vhead
+v_resolve
+init_unls_cp1251
+read_subchannel
+write_xscsi
+boot_info_table
+hfs_rename
+defcreator
+sort_matches
+init_unls_cp874
+system_id
+jpath_table
+usal_errfflush
+seek_g1
+jtwrite
+scsi_set_streaming
+d_toutime
+find_unls
+hfs_umountall
+dirmode_to_use
+DVDCloseFile
+usal_printdev
+usal_fprintdev
+hfs_inls
+conv_charset
+rationalize_uid
+hfs_fsetattr
+flush_hash
+allow_leading_dots
+map_list
+f_trunc
+getllnum
+iso9660_file_length
+torito_desc
+scan_sparc_boot
+merge_warn_msg
+d_storew
+read_le64
+autoname
+init_unls_cp869
+startpad_desc
+mode_select_g1
+read_header
+iconv_possible
+joliet_desc
+use_eltorito
+n_delete
+send_dvd_structure
+b_readab
+sense_secsize
+l_writemdb
+read_track_info
+get_session_start
+usal_natname
+files_desc
+n_search
+comexit
+hfs_flushall
+all_files
+usal_sfree
+d_tomtime
+entry_last
+update_nlink_field
+v_flush
+checksum_hex
+delete_file_hash
+hfs_delete
+hfs_lock
+jte_min_size
+mode_select_sg0
+request_sense
+ifoOpen
+hfs_setattr
+init_unls_iso8859_14
+errmsgno
+sha1_init_ctx
+read_buff_cap
+is_excluded
+mode_sense
+usal_prsense
+n_compact
+usal_settimeout
+add_boot_hppa_kernel_32
+n_insertx
+check_prev_session
+exclude_list
+set_mode_params
+hfs_desc
+usal_sprascii
+sg_open_excl
+add_boot_hppa_cmdline
+boot_sector_initialized
+add_hash
+bt_putnode
+add_boot_mips_filename
+add_sort_match
+hfs_fstat
+sha1_process_block
+init_unls_cp865
+hfs_stat
+init_unls_cp863
+usal_reset
+hfs_lseek
+sha1_read_ctx
+sha1_buffer
+get_733
+set_723
+msf_to_lba
+sha1_process_bytes
+l_writevbm
+use_XA
+read_track_info_philips
+v_destruct
+end_vol
+get_731
+usal_printstatus
+jdirtree_desc
+init_unls_cp10007
+d_stores
+usal_open
+set_721
+r_compareextkeys
+init_unls_cp861
+usal_vtail
+v_getthread
+scsi_unload
+send_opc
+filemode_to_use
+usal_printf
+d_fetchs
+finish_cl_pl_entries
+read_toc
+write_xg5
+GLIBC_2.2.5
+GLIBC_2.7
+GLIBC_2.14
+GLIBC_2.4
+GLIBC_2.3.2
+GLIBC_2.3.4
+GLIBC_2.3
+AWAVH
+AUATUSH
+D$0t
+t Hc
+D$TH
+t$X1
+D$XH
+=N\(
+t$X1
+=ZZ(
+=QZ(
+-!Y(
+=?W(
+=`U(
+=?S(
+=#R(
+Hcl$
+5PQ(
+5<Q(
+=SR(
+=4Q(
+=;O(
+=sO(
+=	O(
+=-L(
+D$(H
+=fM(
+=hL(
+=WL(
+=+L(
+=tK(
+=rL(
+={F(
+=(F(
+=mE(
+=#E(
+=iD(
+=+D(
+=oE(
+=]E(
+-BC(
+=6C(
+=^B(
+=HB(
+={A(
+Lc|$
+=	A(
+=+@(
+=^@(
+=n@(
+=qA(
+=XA(
+=@@(
+=/A(
+="@(
+=}@(
+=R>(
+=Z?(
+=C=(
+=(=(
+=o>(
+t$`H
+|$`H
+L$0H
+=j<(
+D$@H
+D$ H;
+L$8H
+t$0H
+=\;(
+=k<(
+=w:(
+=<9(
+=/9(
+={:(
+=j:(
+=Y:(
+=D:(
+=W:(
+=v8(
+=_8(
+=b9(
+=[8(
+=N6(
+=cyM
+=UyM
+=QyM
++L$HH
+=t5(
+[]A\A]A^A_
+D$ H
+-L6(
+/u#I
+5m4(
+<.tD
+H;-T3(
+AYAZ
+D$ H
+=	/(
+=l0(
+=X0(
+=?0(
+=20(
+=n.(
+=m.(
+=)-(
+=3.(
+-L+(
+= ,(
+=a)(
+=#)(
+=U((
+=S&(
+=S((
+=D'(
+t$X1
+D$XH
+=k$(
+t$X1
+-<&(
+=\#(
+-4#(
+=L"(
+5;nM
+fffff.
+AWAVAUATUSH
+=tFH
+[]A\A]A^A_
+tRSL
+x:tH
+<	w"
+ATUSH
+ti<%t
+[]A\
+[]A\
+ATUI
+T$ H
+[]A\
+AWAVI
+AUATH
+D$hH
+D$0H
+T$`I
+D$8I
+D$@I
+D$HI
+D$pf
+ t_@
+[]A\A]A^A_
+AWAVI
+AUATL
+ohUSL
+Gh    
+Gm    H
+[]A\A]A^A_
+USHc
+[]A\
+AWAVAUATUSH
+D$81
+tFIc
+D$(I
+D$0A
+D$0H
+T$(t	
+T$(H
+t$0H
+L$8dH3
+H[]A\A]A^A_
+T$0H
+T$0H
+ffffff.
+AVAUI
+ATUH
+D$H1
+L$HdH3
+P[]A\A]A^
+AWAVI
+AUATI
+USLc
+[]A\A]A^A_
+[]A\A]A^A_
+=~	(
+AVAUI
+ATUH
+[]A\A]A^
+D$3L
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+ffff.
+AUATI
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+D$3L
+AVAUI
+ATUI
+[]A\A]A^
+|$ L
+fff.
+AUATI
+[]A\A]
+[]A\A]
+AWAVI
+AUATLc
+[]A\A]A^A_
+	uIH
+|$ I
+H;\$
+|$ H
+ u~<
+ffffff.
+AUATI
+09-x
+[]A\A]
+AWAVAUATI
+0D;=
+([]A\A]A^A_
+/.AppleD
+arenH
+ouble/.Pf
+AWAVAUATI
+0D9=!
+[]A\A]A^A_
+]A\A]A^A_
+AWAVI
+AUATI
+0D95
+[]A\A]A^A_
+ATUH
+[]A\
+[]A\
+ffff.
+fffff.
+fff.
+AWAVAUATI
+|$8H
+|$@1
+D$(H
+D$,H
+[]A\A]A^A_
+|$ H
+t$0H
+|$8H
+]A\A]A^A_
+HcD$,I
+AUATA
+[]A\A]
+t>H9
+ffff.
+AWAVI
+AUATI
+[]A\A]A^A_
+|$4I
+~9H-
+|$ L
+AWAVAUATI
+USLc
+[]A\A]A^A_
+D$$t&
+l$(K
+l$$L
+L$0I
+d$8Lcl$(
+|$@H
+|$, 
+|$0I
+|$@I
+ED$ 
+fffff.
+AWAVAUATA
+    
+    H
+H+=F
+[]A\A]A^A_
+	t,H
+?*u(A
+AWAV
+AUATI
+dH34%(
+[]A\A]A^A_
+AVAUI
+ATU1
+[]A\A]A^
+[]A\
+CD-ROM D
+oima
+isc with
+ Sun spaH
+rc boot H
+created H
+by genisH
+CD-ROM D
+mage
+isc withH
+ Sun x86H
+ boot crH
+eated byH
+ genisoiH
+fffff.
+fffff.
+AVAUATUA
+gfffffff
+D$0H
+[]A\A]A^
+AUATUS1
+gfffffff
+D$0H
+[]A\A]
+ffff.
+AWAV
+AUAT
+gfff
+A\A]A^A_
+AUAT
+gfff
+]A\A]A^
+AWAV
+AUATI
+D$}DMGR
+D$xBTFL
+D$PH
+D$`H
+{(Hc
+D$xDTFL
+[]A\A]A^A_
+=9v%
+=!v%
+=	v%
+ATUI
+[]A\
+AWAVH
+AUAT
+|$81
+\$`H
+D$hH
+D$pA
+D$`1
+D$xL
+~@Hc
+\$81
+D$`H
+D$`H
+L$p9
+D$`H
+D$pH
+|$pH
+D$hH
+|$pL
+D$ H
+|$8D
+AZA[
+D$6H
+D$7t
+D$`H
+D$(H
+D$ D
+t$(H
+D$HH
+t$@H
+AXAY
+t$@H
+(+l$(
++l$@)
+UATL
+l$XH
+T$X)
+D$ 9D$l
++l$D+l$@+l$(H
+D$H9D$hH
+L$PH
+T$xL
+XH9D$(
+L$PH
+T$xL
+\$pH
+[]A\A]A^A_
+D$`H
+D$`H
+D$`H
+D$`H
+d$pD
+D$`H
++l$(+l$@+l$D
+AUATUSH
+([]A\A]
+t?Mc
+t=Mc
+t%Mc
+D9h,
+AVAUA
+ATUH
+SAUA
+Y^x H
+D$0H
+[]A\A]A^
+T$0H
+/VIDEO_TA
+TS.IH
+S/VIDEO_fD
+/VIDEO_TA
+TS.BH
+S/VIDEO_fD
+fffff.
+AWAVI
+AUATUSH
+D$X1
+D$XdH3
+h[]A\A]A^A_
+?vlA
+l$ 1
+AVAUI
+ATUSH
+D$H1
+CD00f
+EL TORIT
+O SPECIFH
+ICATION
+L$ I
+L$(H
+L$0H
+L$8H
+\$HdH3
+P[]A\A]A^
+ATUI
+5fH%
+=MH%
+='H%
+[]A\
+AWAVAUATUSH
+=NG%
+[]A\A]A^A_
+[]A\A]A^A_
+USta
+[]A\
+0<	w
+0<	v
+[]A\
+;tO1
+;t A
+AUATUS~
+E9l$
+t#<;
+]A\A]A^
+t)<;
+]A\A]A^
+fffff.
+<;t A
+ffffff.
+t[SH
+fffff.
+AWAVAUATI
+l$8ATA
+l$0M
+[]A\A]A^A_
+ffff.
+AWAVI
+AUATLc
+D$81
+L$8dH3
+H[]A\A]A^A_
+l$ Mc
+D$(L
+|$0L
+D$0H
+L$ H
+T$(H
+H+T$0H
+$H+D$(
+fffff.
+AWAVAUATUSH
+([]A\A]A^A_
+|$(1
+AVAUATUSH
+ []A\A]A^
+x(H9
+D$(1
+T$(dH3
+{ E1
+D$ H
+AVAUATUS
+9A\t
+]A\A]A^
+AWAVI
+AUATUSH
+D$2H
+D$:H
+A9FTwlI
+[]A\A]A^A_
+FPE1
+d$,H
+T$0H
+T$8H
+T$@H
+D$Pt
+D$0t}H
+H;Z(u
+T$0D
+T$8H
+T$@H
+T$HH
+Degas are we not drawn onward no In union drawn onward to new eras aged
+VPA9
+d$,E1
+%<=L
+51{'
+AVAUA
+=rz'
+5dy'
+L;%/{'
+[]A\A]A^
+T$ H
+L$PH
+[]A\A]A^
+AVAUATI
+US~$
+=,u'
+[]A\A]A^
+AWAVAUATUSH
+f=KL
+D$XH
+HcL$
+P~*L
+Apple
+Apple_paH
+rtition_H
+C@map
+T$(H
+D$0H
+L$8A
+L;<$
+Apple
+Apple_paH
+rtition_H
+H;\$
+ L9$$
+[]A\A]A^A_
+D$HI
+D$0H
+|$(H
+|$ A
+D$HH)
+D$DL
+fffff.
+AkjH
+AlpH
+AmhH
+An~+
+ATUI
+[]A\
+ffff.
+ATUA
+[]A\
+[]A\
+AUATUS1
+[]A\A]
+[]A\A]
+ATUA
+[]A\
+KUSHc
+ffffff.
+GATLc
+ATUA
+=id'
+[]A\H
+5Hd'
+fffff.
+=&d'
+ATUS
+[]A\H
+ffffff.
+US~+
+AWAVA
+AUATUSH
+[]A\A]A^A_
+fffff.
+ffffff.
+AVAUATUI
+[]A\A]A^
+[]A\A]A^
+AWAVE1
+AUATA
+USE1
+t$,H
+t$,H
+D$,L
+D$@E
+|$,E1
+[]A\A]A^A_
+|$0D
+Hct$
+D$,L
+|$0D
+AWAVI
+AUATA
+USE1
+Hc|$
+[]A\A]A^A_
+ffff.
+AWAVI
+AUATUSH
+|$HH
+T$ E
+t$0D
+t$0H
+t$!H
+D$(t
+L$(D
+T$$E
+^0t7L
+D$8H
+X[]A\A]A^A_
+=>S'
+|$(H
+D$$M
+t$$I
+l$(L
+L;|$
+T$(H
+l$(L
+AVAUI
+ATU1
+[]A\A]A^
+AWAVAUATUSH
+D$DI
+t$8H
+t$LI
+t$LE1
+D$ H
+\$,L
+d$0M
+l$8H
+D;l$L
+t$0H
+D;l$L
+\$,L
+d$0L
+l$8L
+T$LL
+t$LH
+[]A\A]A^A_
+t$(H
+t$8H
+AWAVAUATL
+[]A\A]A^A_
+[]A\A]A^A_
+ffff.
+AUATI
+[]A\A]
+ffffff.
+AWAVAUATUSH
+t$ H
+L$(M
+T$(H
+t$ H
+t$ </L
+t$$u
+$</u
+<$/t
+L;,$
+t$$H
+t$$I
+t$0L
+t$ H
+<$E1
+[]A\A]A^A_
+T$ H
+t$ L
+D$$H
+D$ t
+T$ H
+fffff.
+H;k(u
+[]A\
+AWAV
+AUATI
+~1E1
+t:<;u6H
+0<	w
+]A\A]A^A_
+t8<.
+]A\A]A^A_
+[]A\A]A^A_
+T$,D
+\$(D
+D$$D
+L$ D
+D$$D
+\$(D
+D;L$
+tpH9\$
+t6D;L$
+D;L$
+T$(D
+\$$D
+D$ D
+T$(D
+\$$D
+D$ D
+T$(D
+\$$D
+D$ D
+T$(=
+D$ D
+T$(D
+\$$D
+D$ D
+D$ D
+\$$D
+AWAVAUATUSH
+L/!A
+D+!H
+[]A\A]A^A_
+toAWAVA
+AUATI
+H;\$
+[]A\A]A^A_
+AWAVAUATI
+D$x1
+|$8H
+D$0D
+<$.t=H
+tlHc
+<$.H
+t$0A
+\$LH
+\$0Hc
+6;D$
+\$0A
+L$xdH3
+[]A\A]A^A_
+$$A)
+D9!D
+P	Hc
+D$L	
+0;D$
+D$@A
+-0~K
+=)}K
+";D$
+l$ E
+D$(A)
+-_{K
+D$@E
+=dzK
+--zK
+|$`H
+l$lD
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVA
+AUATA
+=bvK
+[]A\A]A^A_
+D$h1
+L$hdH3
+fff.
+AWAVAUATI
+tIf.
+[]A\A]A^A_
+AVAUA
+ATUH
+]A\A]A^
+ffffff.
+ffff.
+=PaL
+ATUSH
+[]A\A]A^
+[]A\A]A^
+5	^L
+ffff.
+AWAVAUATUSH
+G`dH
+L9<$
+|$PMc
+l$@B
+|$(H
+D$ H
+AYAZH
+D$@H
+t$<1
+t$<)
+L;5=
+[]A\A]A^A_
+D$ H
+t$@D
+H9k(u
+fffff.
+9CLv
+AWAVI
+AUATI
+L$DD
+dH34%(
+[]A\A]A^A_
+|$0A
+L$0H
+=lGL
+D$xH
+D$hH
+AWAVAUATI
+H;-%
+D$H%
+t$8H
+D$8H
+L$0L
+t$8H
+E`@I
+D$H1
+D$HA
+t$`I
+D$`I
+;ExA
+D$H%
+[]A\A]A^A_
+D$8E1
+D$0I
+T$HH
+D$H%
+t$8H
+D$XH
+t$8H
+D$H%
+D$XH
+--,L
+./.rr_mo
+.rr_movef
+t$(H
+x"fD
+59y$
+=.*L
+rr_moved
+t$8H
+AWAVI
+AUATI
+=wv$
+dH34%(
+[]A\A]A^A_
+D$`@
+[]A\
+fff.
+AUATI
+[]A\A]
+=`#L
+H;=a!L
+ffff.
+fffff.
+fffff.
+fffff.
+fffff.
+fffff.
+uPE1
+AVAUA
+ATUA
+u6L9
+dH3<%(
+[]A\A]A^
+fff.
+G"tUH
+[]A\
+ffff.
+*OSTA UDH
+F Compli
+ffffff.
+O>E1
+OEtpE
+*genisoiE1
+mage
+AVAUI
+t[L;5
+[]A\A]A^
+^ E1
+[]A\
+ffffff.
+fff.
+ATUI
+[]A\
+AVAUATU1
+OSTA Com
+pressed 
+OSTA ComH
+pressed f
+Unic
+Unic
+*genisoi
+mage
+OSTA ComH
+pressed H
+*UDF LV H
+Info
+CEUnic
+*genisoiD
+mage
+D$9+NSRH
+*genisoiH
+mage
+OSTA ComH
+D$5H
+pressed f
+C%Unic
+*genisoi
+mage
+[]A\A]A^
+*genisoi
+T$*H
+D$L.
+D$amage
+T$~D
+[]A\
+ffff.
+AUAT
+D+%kxK
+pressed H
+|$pH
+OSTA ComH
+D$AUnicf
+D$Ge
+pressed H
+OSTA ComH
+Unic
+-4wK
+[]A\A]
+ffff.
+ATUI
+dH34%(
+[]A\
+USE1
+<.t?E1
+ATUS
+t[[]A\
+[]A\
+ffffff.
+AWAVE1
+AUATI
+u(dH
+L;-S
+5ksK
++5=sK
+F"AWS
+_AXD
+[]A\A]A^A_
+AVAUATUS
+t	[]A\A]A^
+I9L$
+AUATI
+[]A\A]
+AWAVAUATUSH
+D$ H
+D$ L
+HcD$
+D$ L
+D$ H
+f	kPH
+D$ L
+I9E(u
+HcD$
+[]A\A]A^A_
+L$ L
+t$(H
+AWAVI
+AUATA
+D$(1
+t$(dH34%(
+8[]A\A]A^A_
+too many
+ files f
+olumH
+or HFS vf
+C`@ul
+C`@u
+ffff.
+fffff.
+ffffff.
+AWAVAUATUSH
+\$1I
+m1I9
+;t[<.to
+.tR8
+rnwLH
+t1<;u
+]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+]A\A]A^A_
+fffff.
+IX9NXr*w
+AVAUATUS
+Hc=YH$
+9AXt
+9-oF$
+]A\A]A^
+ffff.
+AUATI
+;/tKH
+8/t/1
+[]A\A]
+fff.
+AWAVAUATUS1
+[]A\A]A^A_
+M9w(t3M
+M9w(u
+O0t.D
+=o/$
+5q.$
+|$ 1
+AWAV1
+AUATUSH
+[]A\A]A^A_
+=L7$
+=O5$
+[]A\
+=	'$
+ffff.
+ffff.
+fffff.
+fffff.
+fffff.
+AWAVI
+AUATI
+|$0L
+HcD$
+|$ L
+[]A\A]A^A_
+ffff.
+AVAU
+ATUI
+dH34%(
+[]A\A]A^
+z8E1
+AUATI
+[]A\A]
+CD00
+AWAV
+AUATUS
+d$0H
+|$(dH
+D$0MKI 
+3~mIc
+D<0 
+L$(A
+[]A\A]A^A_
+L$ L)
+L$ L
+L$(A
+fffff.
+=o{&
+5{}&
+=P{&
+5X}&
+=%{&
+53}&
+AWAVI
+AUATI
+L$0H
+D$H1
+=H{&
+t$ f
+=6x&
+D$HdH3
+X[]A\A]A^A_
+D$0H
+AVAU
+ATUI
+5%y&
+54v&
+;]0r
+=ot&
+=Qt&
+=3t&
+[]A\A]A^
+5Lv&
+D+5Av&
+AUATI
+[]A\A]
+ATUI
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVI
+AUATUSH
+l$ H
+l$$M
+t$(E
+L$0I
+D$0A
+U	Hc
+t$(E
+VHD9
+|$ E1
+%a,K
+[]A\A]A^A_
+8[]A\A]A^A_
+ffffff.
+ATUI
+[]A\Hc
+AWAVAUATUSH
+D$81
+SUAVL
+T$@L
+d$,D+d$0
++\$4+l$(H
+        f
+CD00
+        H
+        H
+        H
+        H
+        H
+        
+    H
+        
+    H
+        
+    H
+        H
+00000000
+D$0H
+L$ H
+T$(H
+CD-XA001H
+t$8dH34%(
+H[]A\A]A^A_
+fff.
+AVAUATULc
+U0t"H
+[]A\A]A^
+	]A\
+Linux/AlH
+=D`&
+pha aboo
+stemH
+t for ISH
+O filesyH
+=9]&
+=:^&
+=v[&
+=_Z&
+fffff.
+AWAV
+AUATE1
+t$,H
+=mZ&
+=3W&
+D95`
+[]A\A]A^A_
+#EgH
+fffff.
+AWAV1
+AUATUSH
+t$8L
+d$@L
+l$`H
+p $I1
+D$ O
+D$(M1
+D$0L
+D$HH
+D$PH!
+\$XL
+D$pH
+\$hJ
+l$xL
+D$0H
+QZ^&L1
+L$(L
+|$PI
+L$ L
+|$HK
+L$pL
+ZEI1
+|$(L
+L$pL
+|$ I
+L$PL
+|$0K
+|$HL
+t$pI
+L$(H
+Y[eI
+L$PH
+L$0H
+\$ I1
+\$HH
+[]A\A]A^A_
+ffff.
+AWAV
+AUATI
+?vyE
+[]A\A]A^A_
+[]A\A]A^A_
+ATUH
+[]A\
+AWAVI
+AUATI
+#EgH
+|$pH
+[]A\A]A^A_
+=]C&
+USHc
+AWAV
+AUATUSH
+l$ 1
+[]A\A]A^A_
+[]A\
+AUATI
+D$(H
+t$pL
+t$(H
+[]A\A]
+D$$H
+t$$H
+tuH9
+[]A\H
+AVAUAT
+[]A\A]A^A_
+AWAVAUATUSH
+=3}K
+=}9&
+([]A\A]A^A_
+tWE1
+-q{K
+ATU1
+[]A\
+fff.
+AWAVAUATUSH
+D$81
+t$ H
+%(yK
+T$ 1
+=.wK
+=cvK
+=*vK
+D$8dH3
+H[]A\A]A^A_
+=2}K
+=UtK
+t>US
+=^|K
+AWAVM
+AUATUSH
+|$ H
+=v{K
+t$ H)
+$HcL$
+|$ )
+[]A\A]A^A_
+|$ 1
+AWAV
+AUATI
+\$pdH
+|$0H
+[]A\A]A^A_
+|$Bf
+|$Df
+|$Zf
+|$\f
+|$^f
+|$`f
+|$bf
+ELFf
+D$bt H
+D$4%
+t$L1
+T$HH
+D$ E
+Hc|$
+Lcd$
+ffffff.
+fff.
+fff.
+fff.
+fffff.
+AWAVH
+AUATUSH
+\$@v
+\$`I
+\$(D
+L$pI
+|$0D
+\$,D
+d$|D
+\$t1
+l$8E
+t$8D
+l$<E
+t$<E
+D3l$8A
+D3l$<A
+D3l$
+D3l$
+D3l$
+l$ E
+D3L$<D3L$
+D3l$8A1
+D3l$
+D3D$
+D3D$ A
+l$$E
+t$$E
+l$DE
+3|$$F
+l$8A
+D3l$
+T$<A
+3D$ A
+D3T$
+L$8E
+D$$E
+l$<1
+l$H!
+D3l$
+D3l$DD
+D3l$8
+l$LD
+D3l$
+D3l$<A!
+l$PD
+D3l$
+D3l$HE!
+D3l$ A
+D3l$LA!
+l$TD
+D3l$$A
+D3l$PA!
+l$XD
+l$ A	
+D3l$8A1
+D3l$
+l$ E
+l$$D3l$DA!
+D3l$<E	
+D3l$TE
+L$HA
+D3L$XB
+D3D$LA
+D3D$ A
+l$DA!
+|$PD
+l$8A
+\$\A
+L$TD1
+3L$D
+\$8A
+3T$X!
+d$<A
+D$ A
+\$LE1
+D3D$
+D3D$8A
+\$HE
+\$PA	
+3|$<A
+D3l$DA	
+\$TA
+D3l$HD
+T$XD
+D3l$\D3l$
+L$ D
+3T$83T$
+D3l$<
+D3l$
+D3l$
+D$$D
+|$DD
+D3l$HD3l$ 
+l$8D
+t$\A1
+D3L$$1
+L$DE1
+D3D$
+L$pD3D$LD
+D$tE
+t$PD
+D$xA
+D3T$
+D3T$DA
+T$|A
+D3L$ D3L$PA
+t$HD3d$
+D3D$$A
+|$LD1
+D3t$
+3T$PA
+D3t$ D1
+D3t$$E1
+t$LG
+d$ E1
+D3l$
+l$DE1
+l$PD3l$
+D$(H
+t$0D
+D$4D
+T$@L9|$`
+[]A\A]A^A_
+AUATI
+D4$A
+D4 H
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+?v'L
+[]A\A]A^A_
+|- H9
+<0D9
+ffffff.
+AUATI
+[]A\A]
+AWAVAUATI
+T$(H
+D$hI
+[]A\A]A^A_
+AUATUSH
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+D5 H
+?v'L
+[]A\A]A^A_
+|-,H9
+u(w`M
+<0D9
+AWAVAUATI
+T$HH
+\$@H
+\$ H
+\$(H
+\$0H
+\$8H
+T$8L
+t$0E1
+L$(L
+T$ I
+|$ L
+T$(L
+L$0H
+\$8H
+D$HH
+\$ H
+\$(L
+\$0H
+\$8H
+[]A\A]A^A_
+AUATUSH
+G@I9
+|#XL
+L#`H
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+|*XM)
+uPw|M
+D-PH
+MPs=
+AWAVAUATL
+ghUSH
+tIHcC,H
+ffffff.
+ffffff.
+ATUH
+[]A\
+AWAVAUATA
+|$81
+\$pA
+[]A\A]A^A_
+AUATL
+[]A\A]A^
+AWAVAUATL
+[]A\A]A^A_
+U(Lce
+t<f.
+ffff.
+AWAVAUATUSH
+4$tK
+[]A\A]A^A_
+([]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATI
+L$0L
+D$ H
+|$0"
+|$1"
+[]A\A]A^A_
+tY<-tEH
+|$ H
+|$!1u
+TubH
+$$(H
+$$2H
+$$	H
+!t#H
+EP1}E
+fff.
+AUATA
+[]A\A]
+[]A\A]
+EPA}E
+_HdH
+EPM}E
+AUATI
+EPM}E
+[]A\A]
+AUATI
+EP[}E
+[]A\A]
+EPt}E
+ATUA
+ffffff.
+ATUA
+AVAUA
+ATUA
+[]A\A]A^
+AUATI
+[]A\A]
+AVAUA
+ATUA
+CYxHD
+CZxCD
+]A\A]A^
+ATUA
+[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVI
+AUAT
+CX*H
+[]A\A]A^A_
+AWAVI
+AUATI
+EP!~E
+[]A\A]A^A_
+ATUI
+EP*~E
+[]A\
+ATUI
+EP2~E
+[]A\
+ATU1
+EP:~E
+ffffff.
+AVAUI
+ATUA
+EPF~E
+[]A\A]A^
+AWAVI
+AUATM
+D$PR~E
+]A\A]A^A_
+AWAVE
+AUATA
+CYt	
+D$PD
+EP_~E
+[]A\A]A^A_
+AWAVE
+AUATA
+CYt	
+EPo~E
+[]A\A]A^A_
+AWAVE
+AUATA
+CYt	
+Ka@A
+EPo~E
+[]A\A]A^A_
+AWAVI
+AUAT
+CYt	
+EPx~E
+[]A\A]A^A_
+fffff.
+AUATI
+CXQH
+[]A\A]
+AWAVI
+AUATA
+[]A\A]A^A_
+ATUI
+CXSH
+ffff.
+ATUI
+CXSH
+ffffff.
+AWAVE
+AUATA
+[]A\A]A^A_
+AVAUI
+ATUA
+]A\A]A^
+AVAUI
+ATUA
+CXTH
+]A\A]A^
+fffff.
+AVAUI
+ATUA
+]A\A]A^
+fffff.
+AVAUA
+ATUA
+]A\A]A^
+AVAUI
+ATUA
+CXYH
+]A\A]A^
+AUATI
+CX]L
++C H
+[]A\A]
+AVAUI
+ATUI
+_HdH
+CX\L
+D$P'
+T$,I
+dH34%(
+ []A\A]A^
+AVAUI
+ATUI
+]A\A]A^
+AVAUA
+ATUH
+ []A\A]A^
+AWAVA
+AUATA
+CYuvA
+[]A\A]A^A_
+AWAVA
+AUATA
+CXUA
+CYuvA
+[]A\A]A^A_
+AVAUATUS
+[]A\A]A^
+AWAVI
+AUATA
+[]A\A]A^A_
+AWAVI
+AUATA
+CXZH
+[]A\A]A^A_
+ffffff.
+fff.
+AUATUS
+dH34%(
+[]A\A]
+ATUI
+[]A\
+fff.
+AWAVM
+AUATI
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+ATU1
+dH34%(
+[]A\
+AUATUSH
+[]A\A]
+T$	A
+ffffff.
+D$81
+L$8dH3
+ffffff.
+AVAUI
+ATUI
+[]A\A]A^
+ffffff.
+AVAUI
+ATUI
+[]A\A]A^
+ffffff.
+fff.
+ATUH
+[]A\
+ATUI
+L$ H
+[]A\
+ATUI
+dH34%(
+[]A\
+ffff.
+AWAVM
+AUATM
+|$ H
+t$ H
+T$ L
+[]A\A]A^A_
+AWAV1
+AUATA
+gHdH
+L$PE
+D9d$
+[]A\A]A^A_
+D$4PL
+L$8L
+D$4H
+L$0H
+T$,H
+l$PA
+L$,E
+T$$E
+fffff.
+AVAUATUH
+[]A\A]A^
+fffff.
+gfff
+7c\"
+:mH)
+7c\"
+:mH)
+7c\"
+AWAVA
+AUATI
+dH34%(
+[]A\A]A^A_
+AWAVM
+AUATM
+D$hH
+|$`M
+([]A\A]A^A_
+ffff.
+AVAUE
+ATUI
+C(tFH
+[]A\A]A^
+[]A\A]A^
+D$H1
+T$ H
+T$(H
+T$0H
+\$0H
+T$8H
+D$HdH3
+fffff.
+fff.
+ffff.
+fff.
+ffffff.
+ffffff.
+ffffff.
+fff.
+AVAUI
+ATUH
+[]A\A]A^
+Cm8H)
+Cm8H)
+ATUH
+{0DB
+[]A\
+t[USH
+AWAVAUATA
+d$ H
+d$0I
+D$@D
+t$8H
+D$H1
+D$P1
+D$X1
+l$0f
+D$\1
+D$^D
+D$hH
+D$pL
+HcED1
+HcULH
+D$`H
+D$xH
+|$pH
+|$hH
+extents 
+overflow
+T$8f
+D$HH
+D$PH
+catalog
+D$HH
+D$PH
+[]A\A]A^A_
+T$ H
+D$(H
+t$0H
+T$@H
+t$PH
+AVAUATUI
+[]A\A]A^
+k8A9
+T$01
+D$0H
+T$PL
+T$0H
+tk<N
+H9D$
+D$0<
+T$0L
+ffff.
+AWAVI
+AUAT1
+dH3<%(
+[]A\A]A^A_
+AWAVI
+AUATUSH
+dH34%(
+[]A\A]A^A_
+ffffff.
+ATUI
+$L9 v=H
+[]A\
+fffff.
+ATU1
+[]A\
+AVAUI
+ATUI
+t$(H
+L$(H
+]A\A]A^
+fffff.
+t f.
+GHu3
+T$ H
+T$ H
+fff.
+fffff.
+T$ H
+T$PH
+|$ 1
+t$`H
+|$ 1
+ATUI
+T$PH
+D$hL
+d$xH
+D$PE1
+|$ H
+[]A\
+fffff.
+D$@H
+l$PH
+|$@1
+t$HH
+t$HH
+AVAUATUH
+L$ H
+T$`H
+L$(H
+T$(H
+H;T$ A
+T$pH
+t$(H
+H9t$p
+[]A\A]A^
+H;T$ A
+t$ H
+|$01
+t$(H
+|$0H
+t$pH
+D$(H
+t$ H
+t$(H
+L;t$p
+L$(H9L$ A
+AUATI
+[]A\A]
+ffff.
+AWAVAUATI
+D$ L
+t$ H
+t$0H
+t$8H
+T$ H
+L$@H
+L$HH
+L$PH
+L$XH
+t$aH
+f=ST
+f=MP
+H;\$(
+[]A\A]A^A_
+T$0I
+T$8I
+t$ H
+t$"H
+t$(H
+t$0H
+t$8H
+t$@H
+t$BH
+f=REtUf=KLu/
+AWAV
+AUATI
+\$ H
+extents 1
+overflowfA
+<$fE
+catalog
+[]A\A]A^A_
+AWAV
+AUATUSH
+[]A\A]A^A_
+AUATI
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+ffffff.
+ffff.
+_"E1
+tG,B
+t7t)
+TO,A
+TG,fD
+O"[]
+AUATI
+t#Hc
+]A\A]
+LcG(
+O"Hc
+LO,E
+A*D9
+AUAT
+L$(E
+DC,D)
+TD,H
+TC,H
+D$,H
+[]A\A]
+TT,)
+ATUI
+[]A\
+[]A\
+AUATI
+O,dH
+TV,H
+TU,)
+D$"M
+LD,H
+fA+M,fA
+D$"fA
+TD,A
+E"D9
+[]A\A]
+ATUI
+HcG(
+[]A\
+LK,)
+ATUH
+[]A\
+ATUH
+[]A\
+D$h1
+t$0H
++D$8u
+t$@H
+T$hdH3
+fffff.
+D$81
+t$ H
++D$(u
+T$!)
+T$0)
+L$8dH3
+AVAUI
+ATUI
+[]A\A]A^
+ATUSH
+[]A\
+[]A\
+[]A\
+AUATL
+[]A\A]
+ATUI
+[]A\
+ATUI
+[]A\
+Cb[]A\
+ffff.
+AWAVAUATI
+D$0M
+~~HcC(M
+tC,N
+|3tt
+T3tH
+[]A\A]A^A_
+AVAUATUI
+T$0dH
+t'HcE(L
+[]A\A]A^
+fffff.
+HcC(HcT$
+DC,H
+D$(1
+HcC(HcT$
+DC,H
+L$(dH3
+AWAVAUATUSH
+oND)
+Gxv 
+([]A\A]A^A_
+AWAVAUATUSH
+D$81
+L$8dH3
+H[]A\A]A^A_
+T$ L
+fff.
+fff.
+ujUS
+T$ L
+AVAUI
+ATUI
+l$PI
+D$XH
+D$`H
+[]A\A]A^
+fff.
+AVAUATUH
+Eleele
+[]A\A]A^
+fff.
+GPA9
+AUATUS
+]A\A]
+[]A\A]
+AUATL
+gtUSH
+[]A\A]
+ATUH
+T$00
+T$<H
+T$ H
+[]A\
+fff.
+ATUSH
+D$00
+D$<I
+D$ t[H
+[]A\
+D$"f
+ATUI
+[]A\
+[]A\
+AUATI
+HcG(
+DG,H
+[]A\A]
+D$,H
+fffff.
+ATUI
+l$ H
+[]A\
+l$ H
+|$ H
+D$(H
+D$LH
+T$(L
+L$A1
+D$(H
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+HcG(
+dG,H
+|'tB
+[]A\A]A^A_
+fffff.
+dH34%(
+ATUI
+[]A\
+[]A\
+[]A\
+HcC(
+r4A)
+fff.
+AWAVI
+AUATUSH
+L$@L
+|$ I
+dH3<%(
+[]A\A]A^A_
+\$@u
+AWAVI
+AUATUS1
+T$(H
+t$ dH
+t$(H
+D$ H
+L$0L
+[]A\A]A^A_
+D9<$
+t$(H
+t$0H
+L$0H
+HcD$X
+DD\H
+L$01
+<$Ic
+t$(Lc
+ffffff.
+[]A\A]A^A_
+t!H9
+t%H9
+ffffff.
+fffff.
+[]A\
+AWAVAUATUSH
+|$ L
+|$ 1
+dH34%(
+[]A\A]A^A_
+ATUSH
+e []A\
+fff.
+CHti
+fff.
+AWAVE
+AUATA
+d$0L
+t&Hct$
+D$(E
+d$0E
+[]A\A]A^A_
+Hct$
+t$ H
+Hct$
+L$ D
+D$ Hct$
+,t$H
+Hct$
+Hct$
+T$$E1
+D$,D
+D$ D
+Hct$
+ffffff.
+fffff.
+P(H9
+~KUSH
+P(H9
+ffff.
+AUATI
+USHc
+xwLc
+[]A\A]
+AUATA
+[]A\A]
+fff.
+ffff.
+fff.
+fff.
+AVAUHc
+ATU1
+xXLc
+[]A\A]A^
+]A\A]A^
+fff.
+ffffff.
+AUAT1
+[]A\A]
+AQHc
+]A\A]
+AUATI
+USHc
+xEHc
+x*Hc
+[]A\A]
+fffff.
+ffff.
+AVAUA
+ATUI
+u"[]A\A]A^
+]A\A]A^
+AUATH
+ USH
+ZYx*Lc
+[]A\A]
+fffff.
+AWAVA
+AUATI
+oHdH
+D$H1
+l$PH
+AWUIc
+uCA9
+~>Hc
+x#Hc
+L$HdH3
+Tacocat
+X[]A\A]A^A_
+l$PI
+AVAUA
+ATUH
+[]A\A]A^
+t2xr1
+dH3<%(
+ffffff.
+fffff.
+k,[]A\
+fff.
+AUAT
+[]A\A]
+fffff.
+AVAUHc
+ATU1
+xsLc
+x5Hc
+[]A\A]A^
+]A\A]A^
+ffff.
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+x-Hc
+ffffff.
+[]A\
+ATUSH
+[]A\
+fffff.
+fff.
+AVAUA
+ATUH
+[]A\A]A^
+]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+nPATI
+t*[L
+]A\A]A^
+[]A\A]A^
+fff.
+D$X1
+L$XdH3
+AWAVI
+AUATA
+[]A\A]A^A_
+T$`D
+D;|$
+D$X1
+L$XdH3
+t4US
+t4US
+dH34%(
+fff.
+D$X1
+L$XdH3
+ATUSH
+[]A\
+[]A\
+[]A\
+AWAVA
+AUATI
+[]A\A]A^A_
+AUATI
+D$x1
+|$ I
+L$xdH3
+[]A\A]
+AUATA
+D$X1
+L$XdH3
+h[]A\A]
+AWAVI
+AUATI
+d$ H
+ATL)
+t'AUAT
+[]A\A]A^A_
+Illegal H
+evice sy
+ntaxH
+remote dH
+Cannot g
+@ host
+et conneH
+ction toH
+ remote H
+AUATA
+[]A\A]
+AWAVAUATI
+Hct$
+PAUH
+D$8P1
+t$0Lc
+|$,D
+D$(M
+RATPD
+L$D1
+D$8M
+|$4I
+[]A\A]A^A_
+|$@L
+D$@A
+t"Hc
+t"Hc
+ffff.
+fffff.
+ffff.
+ffff.
+fffff.
+ATUI
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+fff.
+AWAVAUATUSH
+Lcl$
+[]A\A]A^A_
+fffff.
+ATUH
+_HdH
+dH34%(
+[]A\
+d$@1
+D$G8iC
+D$01
+T$GH
+L$PH
+ffff.
+ffffff.
+AWAVI
+AUATUSH
+_HdH
+;w8t
+L$0H
+$$Ic
+l$,I
+L$,I
+D$,1
+dH3<%(
+[]A\A]A^A_
+D$$L
+L$0L
+ATUSH
+oHdH
+D$X1
+t$XdH34%(
+`[]A\
+D$	H
+D$ iE
+D$(1
+EP~#
+L$DD
+D$Df
+E(t#
+t:Hc
+t:Hc
+AWAVM
+AUATI
+D$H1
+T$0H
+D$8H
+T$,1
+L$,H
+\$,D
+L$<XZD
+|$HdH3<%(
+X[]A\A]A^A_
+fff.
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+D$ 9D$
+HcD$
+D$ 9D$
+D$ E
+_AXHcD$
+d$ 1
+L;t$ 
+D$(H
+H;D$
+D$(H
+AWAVAUATA
+T$pH
+[]A\A]A^A_
+T$pH
+\$0D
+D$ H
+D$(H
+\$0A1
+9T$ u
+HcD$(I
+L$ fD
+QARL
+D$(E
+D$ H
+|$ L
+\$(H
+l$0H
+\$(H
+:.u$
+l$@D
+|$(H
+\$0H
+l$8H
+D$HI
+|$(H
+HcD$(H
+D$0E
+L$01
+T$8D
+\$8H
+\$@H
+l$@H
+\$8H
+D$(L
+D$ t
+T$`1
+T$\1
+L$ ~9ASI
+\$@Q
+L$lD
+T$0D
+\$81
+D$ f
+AWAVE
+AUATA
+D$(1
+HcD$ 
+HcT$$
+D$ D9
+u	D9
+L$$Hc
+\$(dH3
+8[]A\A]A^A_
+D$0L
+L$4H
+t$,A
+D$(_AYL
+L$$D9
+fff.
+AWAV@
+AUATA
+D$h1
+L$hdH3
+x[]A\A]A^A_
+=6~$
+fffff.
+AWAVI
+AUATUSH
+t'AUAT
+dH34%(
+[]A\A]A^A_
+D$(L
+AXAY
+L$(L
+D$$H
+t$ XY
+AVAUI
+ATUH
+t(AVSE
+AXAY
+dH34%(
+[]A\A]A^
+AWAVI
+AUAT
+t$PD
+[]A\A]A^A_
+fff.
+fff.
+fff.
+ATUS
+[]A\
+AVAUI
+ATUI
+=Hi$
+=-i$
+ []A\A]A^
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AUATI
+[]A\A]
+]A\A]
+ATUI
+[]A\
+ w*H
+AUATI
+[]A\A]
+[]A\A]
+ffff.
+ATUI
+ugHc
+[]A\
+[]A\
+ATUI
+-5[$
+[]A\
+ATUA
+[]A\
+=9Z$
+AVAUA
+ATUI
+]A\A]A^
+AWAVAUATA
+~fLc
+[]A\A]A^A_
+AWAVI
+AUATUSH
+ uO@
+[]A\A]A^A_
+[]A\A]A^A_
+fff.
+ffffff.
+AUATUS
+[]A\A]
+Cannot open '%s'.
+Using "%s"
+%s:%d: name required
+Read error on '%s'.
+FROM: '%s'
+ESC:  '%s'
+genisoimage
+Use %s -help
+mkisofs
+Missing pathspec.
+GENISOIMAGERC
+MKISOFSRC
+.genisoimagerc
+.mkisofsrc
+HOME
+/etc/genisoimagerc
+gzip
+bzip2
+/dev/null
+Preparer string too long
+Publisher string too long
+Bad mode for -new-dir-mode
+Bad value for -uid
+Bad value for -gid
+Bad mode for -file-mode
+Bad mode for -dir-mode
+System ID string too long
+Volume ID string too long
+Illegal Volume Set Size %s
+Usage: %s [options] file...
+Options:
+Linux
+STREAM.IMG;1
+ansi_x3.4-1968
+iso8859-1
+default
+mac-roman
+cp10000
+Can't have -auto with -apple
+RRIP_1991A
+Can't open logfile: '%s'.
+%s (%s)
+XA signatures found
+AA signatures found
+Rock Ridge signatures found
+NO Rock Ridge present
+GRAFT:'%s'
+Invalid node - '%s'.
+scan done
+No pathnames found.
+Unable to open /dev/null
+Max brk space used %x
+%u extents written (%u MB)
+%s-%c
+%s-%s%s
+Not enough memory
+nobak
+Do not include backup files
+no-bak
+abstract
+Set Abstract filename
+appid
+Set Application ID
+biblio
+Set Bibliographic filename
+no-cache-inodes
+check-oldnames
+Borrow or rob
+check-session
+copyright
+Set Copyright filename
+debug
+Set debug flag
+eltorito-boot
+Set El Torito boot image name
+efi-boot
+Set EFI boot image name
+eltorito-alt-boot
+sparc-boot
+Set sparc boot image names
+sunx86-boot
+Set sunx86 boot image names
+generic-boot
+Set generic boot image name
+sparc-label
+label text
+Set sparc boot disk label
+sunx86-label
+Set sunx86 boot disk label
+eltorito-catalog
+cdrecord-params
+PARAMS
+Magic paramters from cdrecord
+omit-period
+disable-deep-relocation
+file-mode
+follow-links
+Follow symbolic links
+graft-points
+old-root
+Print option help
+GLOBFILE
+Hide ISO9660/RR file
+hide-list
+hidden
+hidden-list
+hide-joliet
+Hide Joliet file
+hide-joliet-list
+hide-joliet-trans-tbl
+hide-rr-moved
+Switch behaviour for GUI
+ADD_FILES
+No longer supported
+input-charset
+CHARSET
+output-charset
+iso-level
+LEVEL
+joliet-long
+jcharset
+full-iso9660-filenames
+max-iso9660-filenames
+allow-limited-size
+allow-leading-dots
+ldots
+log-file
+LOG_FILE
+Exclude file name
+exclude-list
+no-pad
+prev-session
+SCSIdev
+omit-version-number
+new-dir-mode
+force-rr
+no-rr
+no-split-symlink-components
+no-split-symlink-fields
+Set output file name
+path-list
+PREP
+Set Volume preparer
+print-size
+Set Volume publisher
+quiet
+Run quietly
+rational-rock
+sectype
+alpha-boot
+hppa-cmdline
+CMDLINE
+hppa-kernel-32
+hppa-kernel-64
+hppa-bootloader
+hppa-ramdisk
+mips-boot
+mipsel-boot
+jigdo-jigdo
+jigdo-template
+jigdo-min-file-size
+jigdo-force-md5
+PATTERN
+jigdo-exclude
+jigdo-map
+PATTERN1=PATTERN2
+md5-list
+jigdo-template-compress
+ALGORITHM
+checksum_algorithm_iso
+alg1,alg2,...
+checksum_algorithm_template
+sort
+split-output
+stream-file-name
+FILE_NAME
+stream-media-size
+sysid
+Set System ID
+translation-table
+table-name
+TABLE_NAME
+Translation table file name
+ucs-level
+Set Joliet UCS level (1..3)
+Generate UDF file system
+dvd-video
+untranslated-filenames
+relaxed-filenames
+no-iso-translate
+allow-lowercase
+allow-multidot
+use-fileversion
+verbose
+Verbose
+Print the current version
+Set Volume ID
+volset
+Set Volume set ID
+volset-size
+Set Volume set size
+volset-seqno
+old-exclude
+hard-disk-boot
+no-emul-boot
+no-boot
+Boot image is not bootable
+boot-load-seg
+boot-load-size
+Set numbers of load sectors
+boot-info-table
+transparent-compression
+hfs-type
+Set HFS default TYPE
+hfs-creator
+Set HFS default CREATOR
+apple
+Add Apple ISO9660 extensions
+Create ISO9660/HFS hybrid
+MAPPING_FILE
+probe
+mac-name
+no-mac-files
+boot-hfs-file
+Set HFS boot image name
+part
+Generate HFS partition table
+cluster-size
+auto
+Set HFS AutoStart file name
+no-desktop
+hide-hfs
+Hide HFS file
+hide-hfs-list
+List of HFS files to hide
+hfs-volid
+HFS_VOLID
+icon-position
+Keep HFS icon position
+root-info
+finderinfo for root folder
+input-hfs-charset
+output-hfs-charset
+hfs-unlock
+Leave HFS Volume unlocked
+hfs-bless
+FOLDER_NAME
+Name of Folder to be blessed
+hfs-parms
+PARAMETERS
+prep-boot
+chrp-boot
+Add CHRP boot header
+netatalk
+ethershare
+exchange
+Look for SGI Macintosh files
+macbin
+single
+ushare
+xinet
+dave
+Look for DAVE Macintosh files
+Look for SFM Macintosh files
+osx-double
+osx-hfs
+PUBL
+APPI
+COPY
+BIBL
+ABST
+VOLS
+VOLI
+SYSI
+HFS_TYPE
+HFS_CREATOR
+unix
+TEXT
+TRANS.TBL
+boot.catalog
+LINUX
+CDROM
+%s:%d: equals sign required after '%.*s'
+%s:%d: field name '%s' unknown
+Usage: %s [options] -o file directory ...
+to get a list of valid options.
+Report problems to debburn-devel@lists.alioth.debian.org.
+-i option no longer supported.
+Illegal iso9660 Level %d, use 1..3 or 4.
+Jigdo min size %d too small; using default %d instead
+Failed to build jigdo-include list
+Failed to build jigdo-exclude list
+Failed to build jigdo mapping list
+Compression algorithm %s unknown
+Problem with ISO checksum choices: %s 
+Problem with template checksum choices: %s 
+Required Eltorito boot image pathname missing
+-sparc-boot and -sunx86-boot are mutual exclusive.
+Required generic boot image pathname missing
+Required boot catalog pathname missing
+Abstract filename string too long
+Application-id string too long
+Bibliographic filename string too long
+Copyright filename string too long
+Unsupported sector type '%s'.
+Option -%c is reserved for future use.
+Illegal UCS Level %d, use 1..3.
+Volume set ID string too long
+Volume Set Size > 1 not yet supported
+Volume set sequence number too big
+mkisofs 2.01 is not what you see here. This line is only a fake for too clever
+GUIs and other frontend applications. In fact, this program is:
+Boot image load address invalid.
+Boot image load size invalid.
+HFS default TYPE string has illegal length.
+HFS default CREATOR string has illegal length.
+Warning: -no-mac-files no longer used ... ignoring
+Warning: --osx-hfs only works on MacOS X ... ignoring
+Maximum of 4 PRep+CHRP partition entries are allowed
+Required PReP boot image pathname missing
+Warning: Disabling Joliet support for DVD-Video.
+stream-file-name too long (%d), max is %d.
+Illegal character '/' in stream-file-name.
+Warning: creating filesystem that does not conform to ISO-9660.
+Warning: Creating ISO-9660:1999 (version 2) filesystem.
+Warning: ISO-9660 filenames longer than %d may cause buffer overflows in the OS.
+Warning: creating filesystem with Joliet extensions but without Rock Ridge
+         extensions. It is highly recommended to add Rock Ridge.
+Warning: using transparent compression. This is a nonstandard Rock Ridge
+         extension. The resulting filesystem can only be transparently
+         read on Linux. On other operating systems you need to call
+         mkzftree by hand to decompress the files.
+Warning: transparent decompression is a Linux Rock Ridge extension, but
+         creating filesystem without Rock Ridge attributes; files
+         will not be transparently decompressed.
+Warning: -follow-links does not always work correctly; be careful.
+I: -input-charset not specified, using %s (detected in locale settings)
+Unknown charset
+Known charsets are:
+Additional input charsets are available for Joliet through the iconv support.
+Run "iconv -l" to display them. Iconv charsets cannot be used with HFS, Apple
+extension, ISO9660 version 2 or Rock Ridge.
+Unknown HFS charset
+Known charsets are:
+Unable to open previous session image '%s'.
+Panic cannot set back effective uid.
+Can't have both -apple and -hfs options
+Can't have -hfs-boot-file with -apple
+Can't have -hfs with -sparc-boot/-sunx86-boot
+Can't have -hfs with -generic-boot
+Can't have -prep-boot with -apple
+Warning: no Apple/Unix files will be decoded/mapped
+Warning: assuming PC Exchange cluster size of 512 bytes
+Need either -XA/-xa or -R/-r for -apple to become active.
+Multisession usage bug: Must specify -C if -M is used.
+Warning: -C specified without -M: old session data will not be merged.
+Warning: files from previous sessions will not be included in the HFS volume.
+Unable to open pathname list %s.
+Cannot use XA, Rock Ridge, UDF or Joliet with -stream-media-size
+Cannot use multi session with -stream-media-size
+Cannot use boot options with -stream-media-size
+Cannot use Apple hybrid options with -stream-media-size
+PLEASE CONTACT DISC PUBLISHER FOR SPECIFICATION SOURCE.  SEE PUBLISHER IDENTIFIER IN PRIMARY VOLUME DESCRIPTOR FOR CONTACT INFORMATION.
+THE ROCK RIDGE INTERCHANGE PROTOCOL PROVIDES SUPPORT FOR POSIX FILE SYSTEM SEMANTICS
+re-directing all messages to %s
+Unable to find previous session PVD '%s'.
+Bad Rock Ridge signatures found (SU record missing)
+Disabling Rock Ridge / XA / AA
+NOTE: multiple source directories have been specified and merged into the root
+of the filesystem. Check your program arguments. genisoimage is not tar.
+GRAFT Point:'%s' in '%s : %s' (%s)
+graft_dir: '%s : %s', node: '%s', (scan)
+graft_dir: '%s : %s', node: '%s', short_name: '%s'
+Cannot merge previous session.
+ISO9660/Rock Ridge tree sort failed.
+Joliet tree sort failed. The -joliet-long switch may help you.
+Unable to open disc image file '%s'.
+Bad options - need to specify output names for jigdo and template file, and also the md5-list input file!
+Unable to open jigdo template image file
+image not written to a terminal.
+Use -o - to force the output.
+Total extents scheduled to be written = %u
+Implementation botch: %s should start at %u but starts at %u.
+Writing:   %-40sStart Block %u
+Done with: %-40sBlock(s)    %u
+Implementation botch: FS should end at %u but ends at %u.
+Cache inodes (needed to detect hard links)
+Do not cache inodes (if filesystem has no unique unides)
+Check all imported ISO9660 names from old session
+Check all ISO9660 names from previous session
+Start specifying alternative El Torito boot parameters
+Set El Torito boot catalog name
+Omit trailing periods from filenames (violates ISO9660)
+Make the mode of all directories this mode.
+Disable deep directory relocation (violates ISO9660)
+Make the mode of all plain files this mode.
+Make the group owner of all files this gid.
+Allow to use graft points for filenames
+Set root directory for all new files and directories
+Set root directory in previous session that is searched for files
+File with list of ISO9660/RR files to hide
+Set hidden attribute on ISO9660 file
+File with list of ISO9660 files with hidden attribute
+File with list of Joliet files to hide
+Hide TRANS.TBL from Joliet tree
+Rename RR_MOVED to .rr_moved in Rock Ridge tree
+Local input charset for file name conversion
+Output charset for file name conversion
+Set ISO9660 conformance level (1..3) or 4 for ISO9660 version 2
+Generate Joliet directory information
+Allow Joliet file names to be 103 Unicode characters
+Local charset for Joliet directory information
+Allow full 31 character filenames for ISO9660 names
+Allow 37 character filenames for ISO9660 names (violates ISO9660)
+Allow different file sizes in ISO9660/UDF on large files
+Allow ISO9660 filenames to start with '.' (violates ISO9660)
+Re-direct messages to LOG_FILE
+File with list of file names to exclude
+Pad output to a multiple of 32k (default)
+Do not pad output to a multiple of 32k
+Set path to previous session to merge
+Omit version number from ISO9660 filename (violates ISO9660)
+Mode used when creating new directories.
+Inhibit automatic Rock Ridge detection for previous session
+Inhibit reading of Rock Ridge attributes from previous session
+Inhibit splitting symlink components
+Inhibit splitting symlink fields
+File with list of pathnames to process
+Print estimated filesystem size and exit
+Generate rationalized Rock Ridge directory information
+Generate Rock Ridge directory information
+Set output sector type to e.g. data/xa1/raw
+Set alpha boot image name (relative to image root)
+Set hppa boot command line (relative to image root)
+Set hppa 32-bit image name (relative to image root)
+Set hppa 64-bit image name (relative to image root)
+Set hppa boot loader file name (relative to image root)
+Set hppa ramdisk file name (relative to image root)
+Set mips boot image name (relative to image root)
+Set mipsel boot image name (relative to image root)
+Produce a jigdo .jigdo file as well as the .iso
+Produce a jigdo .template file as well as the .iso
+Minimum size for a file to be listed in the jigdo file
+Pattern(s) where files MUST match an externally-supplied MD5sum
+Pattern(s) to exclude from the jigdo file
+Pattern(s) to map paths (e.g. Debian=/mirror/debian)
+File containing MD5 sums of the files that should be checked
+Choose to use gzip or bzip2 compression for template data; default is gzip
+Specify the checksum types desired for the output image
+Specify the checksum types desired for the output jigdo template
+Sort file content locations according to rules in FILE
+Split output into files of approx. 1GB size
+Set the stream file ISO9660 name (incl. version)
+Set the size of your CD media in sectors
+Generate translation tables for systems that don't understand long filenames
+Generate DVD-Video compliant UDF file system
+Make the owner of all files this uid.
+Allow Untranslated filenames (for HPUX & AIX - violates ISO9660). Forces -l, -d, -N, -allow-leading-dots, -relaxed-filenames, -allow-lowercase, -allow-multidot
+Allow 7 bit ASCII except lower case characters (violates ISO9660)
+Do not translate illegal ISO characters '~', '-' and '#' (violates ISO9660)
+Allow lower case characters in addition to the current character set (violates ISO9660)
+Allow more than one dot in filenames (e.g. .tar.gz) (violates ISO9660)
+Use file version # from filesystem
+Set Volume set sequence number
+Exclude file name(depreciated)
+Boot image is a hard disk image
+Boot image is 'no emulation' image
+Set load segment for boot image
+Patch boot image with info table
+Generate XA directory attruibutes
+Generate rationalized XA directory attruibutes
+Enable transparent compression of files
+Map file extensions to HFS TYPE/CREATOR
+Magic file for HFS TYPE/CREATOR
+Probe all files for Apple/Unix file types
+Use Macintosh name for ISO9660/Joliet/RockRidge file name
+Do not look for Unix/Mac files (depreciated)
+Cluster size for PC Exchange Macintosh files
+Do not create the HFS (empty) Desktop files
+Volume name for the HFS partition
+Local input charset for HFS file name conversion
+Output charset for HFS file name conversion
+Comma separated list of HFS parameters
+PReP boot image file -- up to 4 are allowed
+Look for AUFS CAP Macintosh files
+Look for NETATALK Macintosh files
+Look for AppleDouble Macintosh files
+Look for Helios EtherShare Macintosh files
+Look for PC Exchange Macintosh files
+Look for MacBinary Macintosh files
+Look for AppleSingle Macintosh files
+Look for IPT UShare Macintosh files
+Look for XINET Macintosh files
+Look for MacOS X AppleDouble Macintosh files
+Look for MacOS X HFS Macintosh files
+GENISOIMAGE ISO 9660/HFS FILESYSTEM CREATOR (C) 1993 E.YOUNGDALE (C) 1997-2006 J.PEARSON/J.SCHILLING (C) 2006-2007 CDRKIT TEAM
+.finderinfo
+.resource
+.ADeskTop
+.IDeskTop
+Network Trash Folder
+.rootinfo
+.rsrc
+.Desktop
+.DeskServer
+.Label
+%RootInfo
+.AppleDouble
+.AppleDesktop
+RESOURCE.FRK
+FINDER.DAT
+DESKTOP
+FILEID.DAT
+resource.frk
+finder.dat
+fileid.dat
+.HSResource
+.HSancillary
+DesktopFolderDB
+:Afp_Resource
+:Comments
+:Afp_AfpInfo
+	File type: %s
+	HFS Name: %s
+	ISO Name: %s
+	CREATOR: %s
+	TYPE:	%s
+<no error message given>
+failed to initialise libmagic
+unable to open mapping file
+not enough memory
+None
+.finderinfo/
+.resource/
+.AppleDouble/
+Netatalk
+.rsrc/
+EtherShare/UShare
+RESOURCE.FRK/
+Exchange
+resource.frk/
+.HSResource/
+XINET/SGI
+MacBinary
+AppleSingle
+DAVE
+MacOS X AppleDouble
+/rsrc
+MacOS X HFS
+warning: %s doesn't appear to be a %s file
+TYPE_SGL error - shouldn't happen!
+TYPE_MBIN error - shouldn't happen!
+TYPE_ESH error - shouldn't happen!
+TYPE_DBL error - shouldn't happen!
+failed to open magic file: %s
+%s%*s%*1s%c%c%c%c%*1s%*1s%c%c%c%c%*1s
+error scanning afpfile %s - continuing
+Cannot create sparc boot on offset != 0.
+Cannot create generic boot on offset != 0.
+Total extents including %s boot = %u
+Partition %d may not have a filename.
+Solaris x86
+sparc
+Too many boot partitions.
+Cannot access '%s'.
+Generic Boot
+Sun Disk Label
+Sun Boot
+Desktop DB
+Desktop DF
+Can't open device '%s'
+%s/VIDEO_TS/VIDEO_TS.IFO
+calc: Can't stat %s
+Can't open VTS info.
+%s/VIDEO_TS/VTS_%02i_0.IFO
+%s/VIDEO_TS/VTS_%02i_0.VOB
+%s/VIDEO_TS/VTS_%02i_%i.VOB
+%s/VIDEO_TS/VIDEO_TS.VOB
+VIDEO_TS
+VTS_
+Can't open VMG info for '%s'.
+IFO is not of correct size aborting
+Either VIDEO_TS.IFO or VIDEO_TS.VOB is not of correct size
+IFO is not of correct size aborting.
+Either VIDEO_TS.IFO or VIDEO_TS.VOB is not of correct size.
+%s/VIDEO_TS/VTS_%02i_0.IFO appears to be corrupted.
+/VIDEO_TS/VTS_%02i_0.BUP
+%s/%s
+Could not open %s
+Invalid domain for file open.
+Uh oh, I cant find the boot image '%s' !
+Size of boot image is %d sectors -> 
+Error opening boot image '%s' for read.
+Error reading MBR from boot image '%s'.
+Warning: boot image '%s' MBR is not a boot sector.
+Boot image '%s' has multiple partitions.
+Warning: partition not marked active.
+Warning: partition does not start at 0/1/1.
+Warning: image size does not match geometry (%d)
+Boot image '%s' has no partitions.
+Error - boot image '%s' has not an allowable size.
+Error opening boot image file '%s' for update.
+Odd alignment at non-end-of-file in boot image '%s'.
+Boot image file '%s' changed underneath us!
+Uh oh, I cant find the boot catalog '%s'!
+Too many El Torito boot entries
+Missing boot image name, use -eltorito-boot option.
+Uh oh, I cant find the boot catalog directory '%s'!
+Emulating a hard disk
+No emulation
+Emulating a 1440 kB floppy
+Emulating a 2880 kB floppy
+Emulating a 1200 kB floppy
+No boot image specified.
+F	%s
+Eltorito Volume Descriptor
+Can't allocate memory for excluded filename
+Non zero-length file '%s' assigned zero extent.
+Checking name '%s' isorec.name '%s'
+find_hash('%s')
+'%s' does NOT END OK
+%s/VIDEO_TS/VTS_%02d_0.IFO
+Failed to open VIDEO_TS.IFO
+Failed to read VIDEO_TS.IFO
+DVDVIDEO-VMG
+Failed to seek VIDEO_TS.IFO
+DVDVIDEO-VTS
+Giving up this is not a valid IFO file
+Warning: Iconv conversion not supported in conv_charset.
+Incorrectly encoded string (%s) encountered.
+Possibly creating an invalid Joliet extension. Aborting.
+Error: %s and %s have the same Joliet name
+Fatal Joliet goof - directory has amnesia
+Unable to generate sane path tables - too many directories (%d)
+Joliet path table lengths do not match %d expected: %d
+Fatal goof - unable to find directory location
+Unexpected joliet directory length %d expected: %d '%s'
+Unable to locate relocated directory
+@CE%%/%c
+Entry %d not in path tables
+Joliet directory tree
+Joliet path table
+Joliet Volume Descriptor
+Creating %d PReP boot partition(s)
+Uh oh, I cant find the boot image "%s"!
+PReP boot partition %d is "%s"
+unable to stat HFS boot file %s
+unable to open HFS boot file %s
+unable to read HFS boot file %s
+unable to seek HFS boot file %s
+unable to read HFS boot block %s
+%s does not contain a valid boot block
+CHRP boot partition 1
+with boot file
+Apple_Driver
+%s is not a HFS boot file
+Apple_HFS
+Creating HFS Label %s %s
+Can't allocate memory for sort filename
+Incorrect sort file format
+Can't allocate memory for %s filename
+Can't open sort file list %s
+Can't open %s file list %s
+excluded
+excluded ISO-9660
+excluded Joliet
+hidden attribute ISO-9660
+excluded HFS
+ %02X
+ISOREC:
+XA REC:
+Disabling RR / XA / AA.
+BAD RR ATTRIBUTES:
+%c	%s
+Should never get here
+ Read error on old image %s
+CD001
+**BAD RRVERSION (%d) for %c%c
+Found XA directory extension record.
+Problems with old ISO directory entry for file: '%s'.
+Illegal extended directory attributes found (bad XA disk?).
+Try again using the -no-rr option.
+Cannot parse Rock Ridge attributes for '%s'.
+Warning: Neither Rock Ridge (-R) nor TRANS.TBL (-T) 
+name translations were found on previous session.
+ISO-9660 file names have been used instead.
+Special parameters for cdrecord not specified with -C
+Malformed cdrecord parameters
+Previous session has incompatible sector size %d.
+Previous session has volume set size %d (must be 1).
+Reading old session failed, cannot execute -old-root.
+Reading directory %s in old session failed, cannot execute -old-root.
+-old-root (sub)directory %s not found in old session.
+Unable to locate directory parent
+.tgz
+.psz
+.tar.gz
+.ps.gz
+Old session has illegal name '%.*s' length %d
+New session will use    name '%s'
+Panic: no space, cannot add RR CE entry (%d bytes mising) for %s line %d.
+currlen: %d ipnt: %d, recstart: %d
+Send  bug report to the maintainer.
+Negative RR name length residual: %d
+symbolic link ``%s'' to long for one SL System Use Field, splitting
+Aborting.
+SL-parent
+SL-current
+SL-root
+SL++
+SL-path-split
+Extension record too long
+Read error on old image
+Seek error on old image
+Short read on old image
+%s%sCannot open SCSI driver.
+Cannot get SCSI I/O buffer.
+Stream File Path table
+Stream File Directory
+Stream File
+Fatal goof, file '%s' already in hash table.
+Unable to generate unique name for file %s
+Fatal error - RR overflow (reclen %d) for file %s
+Translation table size mismatch %d %d
+Warning: missing whole name for: '%s'
+stat parent->whole_name: '%s' -> %d.
+Directories too deep for '%s' (%d) max is %d.
+Non-existent or inaccessible: %s
+Unable to stat file %s - ignoring and continuing.
+Symlink %s ignored - continuing.
+Already cached directory seen (%s)
+File %s is not readable - ignoring
+File %s is larger than 4GiB-1.
+-allow-limited-size was not specified. There is no way do represent this file size. Aborting.
+This size can only be represented in the UDF filesystem.
+Make sure that your clients support and use it.
+ISO9660, Joliet, RockRidge, HFS will display incorrect size.
+Warning: Directory loop (%s dev: %lx ino: %lu).
+Unknown file type (%s) %s - ignoring and continuing.
+Directories too deep for '%s' (%d) max is %d; ignored - continuing.
+To include the complete directory tree,
+use Rock Ridge extensions via -R or -r,
+or allow deep ISO9660 directory nesting via -D.
+call to search_tree_file with an absolute path, stripping
+initial path separator. Hope this was intended...
+%s000%s%s
+NEW name '%s'
+Using %s for  %s%s%s (%s)
+Unable to sort directory %s
+%c %-*s%s
+fifo
+regular file
+symlink
+socket
+unallocated
+.rr_moved
+octal '%o'
+Hidden from HFS tree: %s
+Hidden from ISO9660 tree: %s
+Hidden ISO9660 attribute: %s
+Hidden from Joliet tree: %s
+./rr_moved
+D	%s
+B	%s	%lu %lu
+P	%s
+C	%s	%lu %lu
+L	%s	%s
+S	%s
+Scanning %s
+.bak
+Ignoring file %s
+Path name %s/%s too long.
+Overflow of stat buffer
+Excluded by match: %s
+Excluded: %s
+Unable to open directory %s
+%4d %5d %s
+%08X%08X
+.AOB
+AUDIO_TS
+ATS_
+BEA01
+NSR02
+TEA01
+UDF Pad end
+UDF pad to sector 256
+UDF pad to sector 32
+UDF Anchor end volume
+UDF file entries
+UDF directory tree
+UDF file set
+UDF Anchor volume
+UDF integ seq
+UDF second seq
+UDF main seq
+UDF volume recognition area
+HFS scanning %s
+Icon
+can't HFS create file %s
+%s%d
+Using HFS name: %s for %s
+can't HFS open %s
+can't HFS set attributes %s
+can't HFS close file %s
+can't HFS create folder %s
+Blessing %s (%s)
+Creating HFS Volume info
+can't HFS format %s
+can't HFS mount %s
+can't find directory location %s
+can't locate relocated directory %s
+Error: '%s' and '%s' have the same ISO9660 name '%s'.
+Error: '%s' and '%s' have the same Rock Ridge name '%s'.
+Fatal ISO9660 goof - directory has amnesia
+Path table lengths do not match %d expected: %d
+Unable to parse DVD-Video structures.
+Fatal goof - could not find dir entry for '%s'
+Implementation botch. Video pad for file %s is %d
+Either the *.IFO file is bad or you found a genisoimage bug.
+Could not find correct 'VIDEO_TS' directory.
+Unable to make a DVD-Video image.
+Possible reasons:
+  - VIDEO_TS subdirectory was not found on specified location
+  - VIDEO_TS has invalid contents
+Autostart filename must less than 12 characters
+Trying to write %d bytes (not a multiple of 2048).
+File '%s' did shrink.
+Files must not be changed while genisoimage runs!
+%6.2f%% done, estimate finish %s
+Total extents scheduled to be written (inc HFS) = %d
+Total extents actually written (inc HFS) = %d
+(Size of ISO volume = %d, HFS extra = %d)
+Number of extents written not what was predicted.  Please fix.
+Total translation table size: %d
+Total rockridge attributes bytes: %d
+Directory size too small (. or .. missing ??%s)
+Unexpected directory length %lld expected: %d '%s'
+Continuation entry record length mismatch %d expected: %d.
+%4.4d%2.2d%2.2d%2.2d%2.2d%2.2d00
+%8u %8u 
+%s%s%s
+Cache hit for '%s%s%s'
+The pad was %d for file %s
+%8d %8u %s
+MAX_XTCSIZE
+CTC_LOOP
+%s_%02d
+cannot fwrite %d*%d
+ISODEBUG
+cannot open '%s'
+Cannot read from '%s'
+Predicted = %d, written = %d
+Total directory bytes: %d
+Path table size(bytes): %d
+Ending Padblock
+Intermediate Padblock
+The File(s)
+Extension record
+Directory tree cleanup
+Directory tree
+Version block
+End Volume Descriptor
+Enhanced Volume Descriptor
+Primary Volume Descriptor
+Initial Padblock
+HFS volume header
+Y@Uh oh, I cant find the Alpha boot file '%s'!
+Found alpha boot image %s: using extent %lu, #blocks %lu
+alpha/hppa boot block
+alpha boot block
+Address is: %p
+HPPA 32-bit kernel
+HPPA ramdisk
+HPPA 64-bit kernel
+HPPA bootloader
+Uh oh, I can't find the %s '%s'!
+Found hppa 32-bit kernel %s: using extent %lu (0x%lX), size %lu (0x%lX)
+Found hppa ramdisk %s: using extent %lu (0x%lX), size %lu (0x%lX)
+Found hppa 64-bit kernel %s: using extent %lu (0x%lX), size %lu (0x%lX)
+Found hppa bootloader %s: using extent %lu (0x%lX), size %lu (0x%lX)
+Uh oh, I cant find the MIPS boot file '%s'!
+Found mips boot image %s, using extent %lu (0x%lX), #blocks %lu (0x%lX)
+Too many MIPS boot files!
+MIPS boot block
+cannot open '%s': %s
+cannot read from '%s'
+cannot parse MD5 file '%s'
+BZIP
+1.2.8
+DESC
+# JigsawDownload
+[Jigdo]
+Version=%s
+Generator=%s/%d.%d
+[Image]
+Filename=%s
+Template=http://localhost/%s
+Template-MD5Sum=%s 
+# Template Hex %sSum %s
+# Template size %lld bytes
+# Image Hex %sSum %s
+# Image size %lld bytes
+[Parts]
+[Servers]
+%s:%s
+%s=%s
+cannot read from MD5 list file '%s'
+parse_md5_list: added MD5 checksums for %d files
+failed to allocate %d bytes for template compression buffer
+cannot allocate template checksum contexts
+JigsawDownload template %s %s/%d.%d 
+JTE at http://www.einval.com/~steve/software/JTE/ ; jigdo at http://atterer.org/jigdo/
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_
+Jigdo-ignoring file %s; it's too small
+Jigdo-ignoring file %s; it's covered in the exclude list by "%s"
+File %s should have matched an MD5 entry, but didn't! (Rule '%s')
+Adding mapping from %s to %s for the jigdo file
+cannot allocate iso checksum contexts
+# See <http://atterer.org/jigdo/> for details about jigdo
+# See <http://www.einval.com/~steve/software/CD/JTE/> for details about JTE
+Failed to malloc new filename; abort!
+ ./S
+Y;GdTN
+K&Ll
+1>YZgy
+9se5
+6zK_
+}4PK
+`wfa
+p/m},
+[,	BLW
+S2m-
+kEfg
+m\S(?_
+1Sut,
+s6G!
+}a/=5P
+O 3;
+l,\h
+`%"f
+_SUh oh, unable to find the mipsel boot file '%s'!
+Found mipsel boot loader %s: using extent %lu, #blocks %lu
+Sorry, %s is not a MIPS ELF32 little endian file
+Sorry, %s has more than one ELF segment
+Parsed mipsel boot image %s: using loadaddr 0x%X, execaddr 0x%X, offset 0x%X, count 0x%X
+Uh oh, unable to parse the mipsel boot file '%s'!
+mipsel boot block
+vRQ>
+8STs
+LwH'
+D7q/;M
++Yo,
+&\8!
+* qW
+LwH'
+L*~e
+failed to create new thread: %d
+Asked for %s checksum, not enabled!
+invalid choices: algorithms *must* include MD5
+invalid algorithm name found in %s
+%2.2x
+md5sum
+SHA1
+sha1sum
+SHA256
+sha256sum
+SHA512
+sha512sum
+/etc/wodim.conf
+CDR_DEVICE
+%255s %10s %10s %80s
+CDR_SPEED
+CDR_FIFOSIZE
+CDR_MAXFIFOSIZE
+Bad default CDR_SPEED setting (%s).
+Bad CDR_SPEED environment (%s).
+Bad speed (%s) in the config, drive description.
+Bad CDR_FIFOSIZE environment (%s).
+Bad fifo size (%s) in the config, device description.
+Bad speed default setting (%s).
+Bad CDR_MAXFIFOSIZE setting (%s).
+  %s: %5d kB/s
+ (CD %3ux,
+ DVD %2ux)
+test unit ready
+rezero unit
+request_sense
+inquiry
+Inquiry Data   :
+read capacity
+Sectorsize: %ld Bytes
+medium load/unload
+prevent/allow medium removal
+start/stop unit
+set streaming
+scsi_set_streaming
+set cd speed
+qic 02
+write_g0
+write_g1
+write_g5
+seek_g0
+seek_g1
+flush cache
+read buffer
+write_buffer
+read subchannel
+read toc
+read header
+read disk info
+read track info
+reserve track
+reserve_track_rzone
+read dvd structure
+send dvd structure
+send opc
+close track/session
+read master cue
+send_cue_sheet
+read buffer cap
+BFree: %ld K BSize: %ld K
+blank unit
+scsi_format: preparing
+format unit
+scsi_format: running
+- [unable to fork()]
+Save
+Set 
+Mode Parameters
+mode select g0
+mode select g1
+mode sense g0
+Mode Sense Data
+mode sense g1
+Mode Sense Data (converted)
+Cannot read TOC header
+Cannot read CD-Text header
+CD-Text len: %d
+Cannot read CD-Text
+wctb
+cdtext.dat
+Cannot read TOC
+TOC data: 
+ENT: 
+B0: 
+B0 start: %ld
+B0 lout: %ld
+tocheader: 
+Session info too big.
+Density: 0x%X
+Blocks:  %ld
+Blocklen:%ld
+Pages: 
+0x%X 
+capacity_not_set
+read_g0
+read_g1
+Device type    : 
+Version        : %d
+Response Format: %d
+Capabilities   : 
+AENC 
+TERMIOP 
+RELADR 
+WBUS32 
+WBUS16 
+SYNC 
+LINKED 
+CMDQUE 
+SOFTRESET 
+Vendor_info    : '%.8s'
+Identification : '%.16s'
+Revision       : '%.4s'
+Device seems to be: 
+unknown
+Adaptec 4000/4010/4070
+Adaptec 4000
+Adaptec 4010
+Adaptec 4070
+Adaptec 5500
+Adaptec 4520A
+Adaptec 4525
+Emulex MD21
+Emulex MD23
+Generic NON CCS Disk
+Generic CCS Disk
+Sony SMO-C501
+Emulex MT02
+Sysgen SC4000
+Maxtor RXT800S
+Berthold HR-Scanner
+Microtek MS300A
+Generic CD-ROM
+Generic mmc CD-ROM
+Generic mmc CD-R
+Generic mmc CD-RW
+Generic mmc2 DVD-ROM
+Generic mmc2 DVD-R/DVD-RW
+Philips old CDD-521
+Philips CDD-521
+Philips CDD-522
+Kodak PCD-600
+Philips CDD-2000
+Philips CDD-2600
+Yamaha CDR-100
+Yamaha CDR-400
+Plasmon RF-4100
+Sony CDU-924S
+Ricoh RO-1060C
+Ricoh RO-1420C
+Teac CD-R50S
+Matsushita CW-7501
+Matsushita CW-7502
+Pioneer DW-S114X
+Pioneer DVD-R S101
+Missing Entry for dev %d
+caddy
+this
+Try to load media by hand.
+CD capabilities
+Inquiry Data   : 
+ADAPTEC ACB-5500        FAKE
+ADAPTEC ACB-40X0        FAKE
+ADAPTEC ACB-4000        FAKE
+ADAPTEC ACB-4010        FAKE
+ADAPTEC ACB-4070        FAKE
+EMULEX
+ADAPTEC
+ACB-4520
+ACB-4525
+SONY
+SYSGEN  SC4000          FAKE
+EMULEX  MT02            FAKE
+RXT-800S
+ACER
+CR-4020C
+CREATIVE
+CDR2000
+GRUNDIG
+CDR100IPW
+XR-W2001
+XR-W2010
+R2626
+MITSBISH
+MITSUMI
+OPTIMA
+CD-R 650
+PHILIPS
+KODAK
+CDD521/00
+CDD521/02
+CDD521
+CDD522
+PCD225
+KHSW/OB
+CDR-240
+CDD20
+CDD26
+C4324/C4325
+CD-Writer 6020
+PINNACLE
+RCD-1000
+RCD5020
+RCD5040
+RCD 4X4
+PIONEER
+CD-WO DW-S114X
+CD-WO DR-R504X
+DVD-R DVR-S101
+PLASMON
+RF4100
+CDR4220
+PLEXTOR
+CD-R   PX-R24CS
+RICOH
+RO1060C
+CD-R2004
+CD-R2006 
+CD-R2006PLUS
+CD-RW226
+CD-R4012
+SANYO
+CD-WO CRD-R24S
+CD-R   CDU92
+CD-R   CDU94
+TEAC
+CD-R55S
+TRAXDATA
+Traxdata
+alula
+CDR4120
+T.YUDEN
+CD-WO EW-50
+CDR-632P
+YAMAHA
+CDR10
+CDR200
+CDR400
+MATSHITA
+CD-R   CW-7501
+CD-R   CW-7502
+CDS615E
+BERTHOLD
+not 
+Drive capabilities, per
+ MMC-3
+ MMC-2
+ MMC
+ page 2A:
+read CD-R media
+  Does %s%s
+write CD-R media
+read CD-RW media
+write CD-RW media
+read DVD-ROM media
+read DVD-R media
+write DVD-R media
+read DVD-RAM media
+write DVD-RAM media
+support test writing
+read Mode 2 Form 1 blocks
+read Mode 2 Form 2 blocks
+read digital audio blocks
+read multi-session CDs
+read CD bar code
+read R-W subcode information
+return CD ISRC information
+support C2 error pointers
+deliver composite A/V data
+play audio CDs
+  %s: %d
+send digital data LSB-first
+Length of data in BCLKs
+  %s: %s
+Loading mechanism type
+  Is %s%s
+support changing side of disk
+Maximum read  speed
+Current read  speed
+Maximum write speed
+Current write speed
+Rotational control selected
+Buffer size in KB
+  Write speed # %d:
+CLV/PCAV
+reserved(2)
+reserved(3)
+tray
+pop-up
+disc changer
+cartridge changer
+reserved(6)
+reserved(7)
+24 (I2S)
+Capacity: %ld Blocks = %ld kBytes = %ld MBytes = %ld prMB
+scsi_format: post processing %d
+Formating in progress: 0.00 %% done.
+Formating in progress: %.2f %% done [%d].                           
+Formating in progress: 100.00 %% done.        
+Mode Parameters (un-converted)
+Cannot load media with %s drive!
+error: %d scb.chk: %d sense_count: %d sense.code: 0x%x
+restart non-streamed digital audio reads accurately
+support Buffer-Underrun-Free recording
+read fixed-packet CD media using Method 2
+return R-W subcode de-interleaved and error-corrected
+read raw P-W subcode data from lead in
+return CD media catalog number
+Number of volume control levels
+support individual volume control setting for each channel
+support independent mute setting for each channel
+support digital output on port 1
+support digital output on port 2
+set LRCK high for left-channel data
+have valid data on falling edge of clock
+support ejection of CD via START/STOP command
+lock media on power up via prevent jumper
+allow media to be locked in the drive via PREVENT/ALLOW command
+currently in a media-locked state
+have load-empty-slot-in-changer feature
+support Individual Disk Present feature
+Copy management revision supported
+  Number of supported write speeds: %d
+  ATIP start of lead in:  %ld (%02d:%02d/%02d)
+  ATIP start of lead out: %ld (%02d:%02d/%02d)
+Warning: controller creates hard SCSI failure when retrieving %s page.
+Warning: controller returns zero sized %s page.
+Warning: controller returns wrong size for %s page.
+Warning: controller returns wrong page %X for %s page (%X).
+Warning: controller does not support %s page.
+Warning: using default %s data.
+Mode Page  Data
+Cannot get %s data.
+Cannot get %s mask.
+Cannot get default %s data.
+Cannot get saved %s data.
+Mode Select Data
+ "#()*+,/0123456789:;<=>?@ABCDEFGHXZ^`gikmsuwy{
+THXZ^`gikmsuwy{
+LP\b}
+UJVLNP\bdefopqr}
+$%-.
+no error
+not a Macintosh HFS volume
+volume size must be >= 800K
+no more entries
+can't move across volumes
+bad destination path
+can't use destination name
+can't move root directory
+bad volume allocation block size
+volume name may not contain colons
+volume name must be 1-27 chars
+unexpected directory entry found
+can't move above root directory
+can't move directory inside itself
+unsupported partition map signature
+unsupported start of partition logical data
+volume bitmap collides with volume data
+bad partition map
+can't find HFS partition
+unsupported block size
+b*-tree full
+free b*-tree node not found
+bad thread record
+volume full
+empty path
+invalid pathname
+unexpected catalog record
+no volume is current
+can't find parent directory
+bad volume bitmap or free block count
+should not happen!
+read nonexistent block
+read unallocated block
+write nonexistent block
+write unallocated block
+read nonexistent b*-tree node
+read unallocated b*-tree node
+too many b*-tree node records
+malformed b*-tree header node
+unsupported b*-tree node size
+malformed b*-tree map node
+truncated b*-tree map
+b*-tree record already exists
+unexpected b*-tree node
+b*-tree record not found
+empty b*-tree
+write nonexistent b*-tree node
+write unallocated b*-tree node
+Possible Catalog file overflow - please report error
+file extents exceed file physical length
+file size exceeds physical length
+file extents exceed physical size
+empty file extent
+cp10006
+cp10007
+cp10029
+cp10079
+cp10081
+cp1250
+cp1251
+cp437
+cp737
+cp775
+cp850
+cp852
+cp855
+cp857
+cp860
+cp861
+cp862
+cp863
+cp864
+cp865
+cp866
+cp869
+cp874
+%x%x
+iso8859-14
+iso8859-15
+iso8859-2
+iso8859-3
+iso8859-4
+iso8859-5
+iso8859-6
+iso8859-7
+iso8859-8
+iso8859-9
+koi8-r
+koi8-u
+UCS-2BE
+No memory for SCSI structure
+HELP
+REMOTE
+Invalid lun specifier '%s'
+Invalid lun specifier in '%s'
+scsidev: '%s'
+devname: '%s'
+usal__open(%s) %d,%d,%d
+Invalid bus or target specifier in '%s'
+Invalid target or lun specifier in '%s'
+Invalid value for bus, target or lun (%d,%d,%d)
+WARNING: device not valid, trying to use default target...
+scsibus: %d target: %d lun: %d
+Supported SCSI transports for this platform:
+Reserved
+ host adapter detected error
+status: 0x%x 
+(%s%s)
+CDB: 
+Write Data: 
+Received Data: 
+retryable error
+fatal error
+error: %d
+Sense Bytes:
+DMA overrun, 
+resid: %d
+Removable 
+not present 
+reserved 
+unsupported
+unsupported 
+vendor specific %d 
+Tape
+Printer
+Processor
+WORM
+Optical Storage
+Juke Box
+Communication
+IT8 1
+IT8 2
+Storage array
+Enclosure services
+Simple direct access
+Optical card r/w
+Bridging expander
+Object based storage
+Automation/Drive Interface
+Well known lun
+unknown/no device
+unit not present
+unknown device type 0x%x
+SCSI ALREADY RUNNING !!
+CHECK CONDITION
+CONDITION MET/GOOD
+BUSY
+INTERMEDIATE GOOD STATUS
+RESERVATION CONFLICT
+Sending %d (0x%X) bytes of data.
+Got %d (0x%X), expecting %d (0x%X) bytes of data.
+cmd finished after %ld.%03lds timeout %ds
+Executing '%s' command on Bus %d Target %d, Lun %d timeout %ds
+SCSI command name not set by caller
+cmd timeout after %ld.%03ld (%d) s
+Errno: %d (%s), %s scsi sendcmd: %s
+Currently running '%s' command.
+Cannot send SCSI cmd via ioctl
+ret < 0 errno: %d ux_errno: %d error: %d
+INTERMEDIATE CONDITION MET/GOOD
+REMOTE:rscsi@host:1,2,0
+rscsi@host:bus,target,lun
+REMOTE:
+Remote SCSI
+RSCSI
+Remote status(%s): %d '%s'.
+Protocol error (got %s).
+isatapi
+initiator id
+fileno
+havebus
+freebuf
+D%ld
+maxdma
+close
+sendcmd
+M%ld
+getbuf
+sndsize: %d
+rcvsize: %d
+forked version from cdrkit
+/usr/sbin/netscsid
+shell
+shell/tcp: unknown service
+%.*s
+Unknown user: %s
+Cannot create socketpair.
+dup2 failed.
+setuid(%lld) failed.
+seteuid(%lld) failed.
+execlp '%s' failed.
+open
+Lost connection to remote host ??
+Warning: Using remote SCSI interface.
+Illegal value for busno, target or lun '%d,%d,%d'
+who are you? No passwd entry found.
+locuser: '%s' rscsiuser: '%s' host: '%s'
+rcmdsh: fork to lose parent failed.
+diagnostic failure on component 0x%X
+tagged overlapped commands, queue tag is 0x%X
+decompression exception short algorithm id of 0x%X
+%sSense Key: 0x%X %s%s, Segment %d
+Sense Code: 0x%02X Qual 0x%02X %s%s%s%s Fru 0x%X
+error refers to %s part, bit ptr %d %s field ptr %d
+logical unit is in process of becoming ready
+logical unit not ready, initializing cmd. required
+logical unit not ready, manual intervention required
+logical unit not ready, format in progress
+logical unit not ready, rebuild in progress
+logical unit not ready, recalculation in progress
+logical unit not ready, operation in progress
+logical unit not ready, long write in progress
+	logical unit not ready, self-test in progress
+asymmetric access code 3 (00-232) [proposed]
+asymmetric access code 1 (00-232) [proposed]
+asymmetric access code 2 (00-232) [proposed]
+auxiliary memory code 2 (99-148) [proposed]
+logical unit communication time-out
+logical unit communication parity error
+logical unit communication crc error (ultra-dma/32)
+warning - specified temperature exceeded
+warning - enclosure degraded
+A Santa lives evil at NASA
+write error - recovered with auto reallocation
+write error - auto reallocation failed
+write error - recommend reassignment
+compression check miscompare error
+data expansion occurred during compression
+write error - recovery needed
+write error - recovery failed
+	write error - loss of streaming
+write error - padding blocks added
+auxiliary memory code 4 (99-148) [proposed]
+copy target device not reachable
+incorrect copy target device type
+copy target device data underrun
+copy target device data overrun
+unrecovered read error - auto reallocate failed
+data re-synchronization error
+unrecovered read error - recommend reassignment
+unrecovered read error - recommend rewrite the data
+cannot decompress using declared algorithm
+error reading upc/ean number
+read error - loss of streaming
+auxiliary memory code 3 (99-148) [proposed]
+filemark or setmark not found
+record not found - recommend reassignment
+record not found - data auto-reallocated
+mechanical positioning error
+positioning error detected by read of medium
+data sync error - data rewritten
+data sync error - recommend rewrite
+data sync error - data auto-reallocated
+data sync error - recommend reassignment
+recovered data with positive head offset
+recovered data with negative head offset
+recovered data with retries and/or circ applied
+recovered data using previous sector id
+recovered data without ecc - data auto-reallocated
+recovered data without ecc - recommend reassignment
+recovered data without ecc - recommend rewrite
+	recovered data without ecc - data rewritten
+recovered data with error corr. & retries applied
+recovered data - data auto-reallocated
+recovered data - recommend reassignment
+recovered data - recommend rewrite
+recovered data with ecc - data rewritten
+defect list error in primary list
+defect list error in grown list
+primary defect list not found
+access controls code 1 (99-314) [proposed]
+access controls code 2 (99-314) [proposed]
+access controls code 3 (99-314) [proposed]
+read type operation while in write capable state
+write type operation while in read capable state
+illegal command while in explicit address model
+illegal command while in implicit address model
+access controls code 5 (99-245) [proposed]
+ 	access controls code 6 (99-245) [proposed]
+access controls code 7 (99-245) [proposed]
+access controls code 8 (99-245) [proposed]
+invalid cdb field while in explicit block address model
+invalid cdb field while in implicit block address model
+threshold parameters not supported
+invalid release of persistent reservation
+unsupported target descriptor type code
+too many segment descriptors
+&	unsupported segment descriptor type code
+invalid operation for copy source or destination
+copy segment granularity violation
+logical unit software write protected
+import or export element accessed
+bus device reset function occurred
+transceiver mode changed to single-ended
+transceiver mode changed to lvd
+asymmetric access code 6 (00-232) [proposed]
+asymmetric access code 7 (00-232) [proposed]
+invalid combination of windows specified
+current program area is not empty
+current program area is empty
+illegal power condition request
+cannot read medium - unknown format
+cannot read medium - incompatible format
+cleaning cartridge installed
+cannot write medium - unknown format
+cannot write medium - incompatible format
+cannot format medium - incompatible medium
+cannot write - application code mismatch
+0	current session not fixated for append
+zoned formatting failed due to spare linking
+unsupported enclosure function
+enclosure services unavailable
+enclosure services transfer failure
+enclosure services transfer refused
+esn - power management class event
+esn - device busy class event
+medium not present - tray closed
+medium not present - tray open
+medium not present - loadable
+medium not present - medium auxiliary memory accessible
+tape position error at beginning-of-medium
+tape position error at end-of-medium
+tape or electronic vertical forms unit not ready
+failed to sense bottom-of-form
+read past beginning of medium
+position past beginning of medium
+medium destination element full
+medium magazine not accessible
+mechanical positioning or changer error
+logical unit failed self-test
+logical unit unable to update self-test log
+changed operating definition
+redundancy group created or modified
+volume set created or modified
+reported luns data has changed
+medium auxiliary memory accessible
+data phase crc error detected
+scsi parity error detected during st data phase
+information unit crc error detected
+asynchronous information protection error detected
+position error related to timing
+erase failure - incomplete erase operation detected
+insufficient reservation resources
+insufficient registration resources
+access controls code 4 (99-314) [proposed]
+auxiliary memory code 1 (99-148) [proposed]
+operator medium removal request
+operator selected write protect
+operator selected write permit
+media failure prediction threshold exceeded
+logical unit failure prediction threshold exceeded
+spare area exhaustion prediction threshold exceeded
+hardware impending failure general hard drive failure
+hardware impending failure drive error rate too high
+hardware impending failure data error rate too high
+hardware impending failure seek error rate too high
+hardware impending failure too many block reassigns
+hardware impending failure access times too high
+hardware impending failure start unit times too high
+hardware impending failure channel parametrics
+hardware impending failure controller detected
+hardware impending failure throughput performance
+hardware impending failure seek time performance
+hardware impending failure spin-up retry count
+hardware impending failure drive calibration retry count
+] controller impending failure general hard drive failure
+]!controller impending failure drive error rate too high
+]"controller impending failure data error rate too high
+]#controller impending failure seek error rate too high
+]$controller impending failure too many block reassigns
+]%controller impending failure access times too high
+]&controller impending failure start unit times too high
+]'controller impending failure channel parametrics
+](controller impending failure controller detected
+])controller impending failure throughput performance
+]*controller impending failure seek time performance
+]+controller impending failure spin-up retry count
+],controller impending failure drive calibration retry count
+]0data channel impending failure general hard drive failure
+]1data channel impending failure drive error rate too high
+]2data channel impending failure data error rate too high
+]3data channel impending failure seek error rate too high
+]4data channel impending failure too many block reassigns
+]5data channel impending failure access times too high
+]6data channel impending failure start unit times too high
+]7data channel impending failure channel parametrics
+]8data channel impending failure controller detected
+]9data channel impending failure throughput performance
+]:data channel impending failure seek time performance
+];data channel impending failure spin-up retry count
+]<data channel impending failure drive calibration retry count
+]@servo impending failure general hard drive failure
+]Aservo impending failure drive error rate too high
+]Bservo impending failure data error rate too high
+]Cservo impending failure seek error rate too high
+]Dservo impending failure too many block reassigns
+]Eservo impending failure access times too high
+]Fservo impending failure start unit times too high
+]Gservo impending failure channel parametrics
+]Hservo impending failure controller detected
+]Iservo impending failure throughput performance
+]Jservo impending failure seek time performance
+]Kservo impending failure spin-up retry count
+]Lservo impending failure drive calibration retry count
+]Pspindle impending failure general hard drive failure
+]Qspindle impending failure drive error rate too high
+]Rspindle impending failure data error rate too high
+]Sspindle impending failure seek error rate too high
+]Tspindle impending failure too many block reassigns
+]Uspindle impending failure access times too high
+]Vspindle impending failure start unit times too high
+]Wspindle impending failure channel parametrics
+]Xspindle impending failure controller detected
+]Yspindle impending failure throughput performance
+]Zspindle impending failure seek time performance
+][spindle impending failure spin-up retry count
+]\spindle impending failure drive calibration retry count
+]`firmware impending failure general hard drive failure
+]afirmware impending failure drive error rate too high
+]bfirmware impending failure data error rate too high
+]cfirmware impending failure seek error rate too high
+]dfirmware impending failure too many block reassigns
+]efirmware impending failure access times too high
+]ffirmware impending failure start unit times too high
+]gfirmware impending failure channel parametrics
+]hfirmware impending failure controller detected
+]ifirmware impending failure throughput performance
+]jfirmware impending failure seek time performance
+]kfirmware impending failure spin-up retry count
+]lfirmware impending failure drive calibration retry count
+failure prediction threshold exceeded (false)
+idle condition activated by timer
+standby condition activated by timer
+idle condition activated by command
+standby condition activated by command
+^Apower state change to active
+^Cpower state change to standby
+^Gpower state change to device control
+packet does not fit in available space
+automatic document feeder lift up
+document jam in automatic document feeder
+document miss feed automatic in document feeder
+configuration of incapable logical units failed
+modification of logical unit failed
+exchange of logical unit failed
+remove of logical unit failed
+attachment of logical unit failed
+creation of logical unit failed
+g	multiply assigned logical unit
+asymmetric access code 4 (00-232) [proposed]
+asymmetric access code 5 (00-232) [proposed]
+multiple logical unit failures
+copy protection key exchange failure - key not present
+copy protection key exchange failure - key not established
+read of scrambled sector without authentication
+media region code is mismatched to logical unit region
+drive region must be permanent/region reset count error
+session fixation error writing lead-in
+session fixation error writing lead-out
+session fixation error - incomplete track in session
+empty or partially written reserved track
+no more track reservations allowed
+power calibration area almost full
+power calibration area is full
+power calibration area error
+program memory area update failure
+invalid sense code 0x%X
+vendor unique sense code 0x%X
+no sense
+, deferred error
+ [No matching qualifier]
+illegal block length 
+end of medium 
+file mark detected 
+(valid) 
+(not valid) 
+(valid)
+(not valid)
+command
+Sense flags: Blk %d %s%s%s%s
+actual retry count %d
+operation %d%% done
+No Additional Sense
+Recovered Error
+Not Ready
+Medium Error
+Hardware Error
+Illegal Request
+Unit Attention
+Data Protect
+Blank Check
+Vendor Unique
+Copy Aborted
+Aborted Command
+Equal
+Volume Overflow
+Miscompare
+no write current
+excessive write errors
+unreachable copy target
+tracking servo failure
+focus servo failure
+spindle servo failure
+head select fault
+block not compressible
+third party device failure
+read retries exhausted
+error too long to correct
+multiple read errors
+l-ec uncorrectable error
+circ unrecovered error
+incomplete block read
+	no gap found
+miscorrected error
+de-compression crc error
+error reading isrc number
+record not found
+end-of-data not found
+block sequence error
+recovered data with retries
+recovered data with circ
+recovered data with l-ec
+recovered data with linking
+defect list not available
+grown defect list not found
+invalid element address
+invalid address for write
+cdb decryption error
+parameter not supported
+parameter value invalid
+data decryption error
+too many target descriptors
+unexpected inexact segment
+inline data length exceeded
+hardware write protected
+associated write protect
+persistent write protect
+permanent write protect
+conditional write protect
+power on occurred
+scsi bus reset occurred
+device internal reset
+mode parameters changed
+log parameters changed
+reservations preempted
+reservations released
+registrations preempted
+too many windows specified
+persistent prevent conflict
+cleaning failure
+medium not formatted
+format command failed
+defect list update failure
+esn - media class event
+slew failure
+paper jam
+failed to sense top-of-form
+reposition error
+;	read past end of medium
+position past end of medium
+medium source element empty
+end of medium reached
+medium magazine removed
+medium magazine inserted
+medium magazine locked
+medium magazine unlocked
+logical unit failure
+timeout on logical unit
+microcode has been changed
+inquiry data has changed
+component device attached
+device identifier changed
+redundancy group deleted
+spare created or modified
+?	spare deleted
+volume set deleted
+volume set deassigned
+volume set reassigned
+echo buffer overwritten
+medium loadable
+write append position error
+unload tape failure
+medium removal prevented
+system buffer full
+insufficient resources
+threshold condition met
+log counter at maximum
+log list codes exhausted
+spindles synchronized
+spindles not synchronized
+^Bpower state change to idle
+^Epower state change to sleep
+unable to acquire video
+out of focus
+invalid packet size
+add logical unit failed
+assign failure occurred
+parity/data mismatch
+redundancy level got better
+redundancy level got worse
+program memory area is full
+rma/pma is almost full
+disk not inserted
+load/unload failure
+spindle failure
+focus failure
+tracking failure
+bias magnet failure
+illegal function for medium type
+recoverable write error
+write error recovery failed
+defect list update failed
+defect list not available
+limited laser life
+laser focus coil over-current
+laser tracking coil over-current
+temperature alarm
+no additional sense information
+filemark detected
+end-of-partition/medium detected
+setmark detected
+beginning-of-partition/medium detected
+end-of-data detected
+i/o process terminated
+audio play operation in progress
+audio play operation paused
+audio play operation successfully completed
+audio play operation stopped due to error
+no current audio status to return
+operation in progress
+cleaning requested
+no index/sector signal
+no seek complete
+peripheral device write fault
+logical unit not ready, cause not reportable
+logical unit does not respond to selection
+no reference position found
+multiple peripheral devices selected
+logical unit communication failure
+track following error
+error log overflow
+warning
+write error
+error detected by third party temporary initiator
+id crc or ecc error
+unrecovered read error
+address mark not found for id field
+address mark not found for data field
+recorded entity not found
+random positioning error
+data synchronization mark error
+recovered data with no error correction applied
+recovered data with error correction applied
+defect list error
+parameter list length error
+synchronous data transfer error
+defect list not found
+miscompare during verify operation
+recovered id with ecc correction
+partial defect list transfer
+invalid command operation code
+logical block address out of range
+illegal function (use 20 00, 24 00, or 26 00)
+invalid field in cdb
+logical unit not supported
+invalid field in parameter list
+write protected
+not ready to ready change, medium may have changed
+power on, reset, or bus device reset occurred
+parameters changed
+copy cannot execute since host cannot disconnect
+command sequence error
+overwrite error on update in place
+insufficient time for operation
+commands cleared by another initiator
+incompatible medium installed
+medium format corrupted
+no defect spare location available
+tape length error
+enclosure failure
+enclosure services failure
+ribbon, ink, or toner failure
+rounded parameter
+event status notification
+saving parameters not supported
+medium not present
+sequential positioning error
+invalid bits in identify message
+logical unit has not self-configured yet
+target operating conditions have changed
+ram failure (should use 40 nn)
+diagnostic failure on component nn (80h-ffh)
+data path failure (should use 40 nn)
+power-on or self-test failure (should use 40 nn)
+message error
+internal target failure
+select or reselect failure
+unsuccessful soft reset
+scsi parity error
+initiator detected error message received
+invalid message error
+command phase error
+data phase error
+logical unit failed self-configuration
+tagged overlapped commands (nn = queue tag)
+overlapped commands attempted
+write append error
+erase failure
+cartridge fault
+media load or eject failed
+scsi to host system interface failure
+system resource failure
+unable to recover table-of-contents
+generation does not exist
+updated block read
+operator request or state change input
+log exception
+rpl status change
+failure prediction threshold exceeded
+low power condition on
+lamp failure
+video acquisition error
+scan head positioning error
+end of user area encountered on this track
+illegal mode for this track
+voltage fault
+automatic document feeder cover up
+configuration failure
+logical unit not configured
+data loss on logical unit
+informational, refer to log
+state change has occurred
+rebuild failure occurred
+recalculate failure occurred
+command to logical unit failed
+copy protection key exchange failure - authentication failure
+decompression exception short algorithm id of nn
+decompression exception long algorithm id
+session fixation error
+cd control error
+ECC error during verify
+interleave error
+bad format on drive
+self test failed
+defective track
+volume overflow
+set limit violation
+error counter overflow
+initiator detected error
+scsi parity error
+adapter parity error
+obsolete ATAPI driver in cdrkit
+NOT IMPELEMENTED: usalo_initiator_id
+ATA Packet specific SCSI transport
+Generic transport independent SCSI
+ATA Packet specific SCSI transport using sg interface
+ioctl(CDROM_SEND_PACKET) ret: %d
+DMA addr: 0x%8.8lX size: %d - using copy buffer
+Allocated DMA copy buffer, addr: 0x%8.8lX size: %ld
+usalo_send(%s) wrote %d bytes (expected %d).
+pack_len: %d, reply_len: %d pack_id: %d result: %d sense[0]: %02X
+host_status: %02X driver_status: %02X
+No remote SCSI transport available.
+Bus: %d Target: %d Lun: %d Chan: %d Ino: %d
+Target (%d,%d,%d): DMA max %d old max: %ld
+Looking for data for major:minor: %ld:%ld
+/sys/class/scsi_generic/*/device/block*/queue/max_sectors_kb
+/sys/block/*/device/block*/queue/max_sectors_kb
+ERROR: with link merging! base %s link %s, result of merging %i
+ERROR: with link reading! link %s, result of readlink %i
+EXAMPLE: /dev/scsi/host1/bus2/target3/lun4/cd
+EXAMPLE: /dev/ide/host0/bus0/target1/lun0/cd
+EXAMPLE: /dev/hda or /dev/sr0
+God A red nugget A fat egg under a dog
+INFO: Bus: %d Target: %d Lun: %d Chan: %d Ino: %d
+ERROR: unknow subsystem (%s) in (%s)
+INFO: subsystem %s: h %i, b %i, t %i, l %i
+ERROR: this cdrom is already mapped %s(%d,%d,%d)
+INFO: /dev/%s, (host%d/bus%d/target%d/lun%d) will be mapped on the schilly bus No %d (%d,%d,%d)
+ERROR: in usalo_get_first_free_shillybus(...). Too many CDROMs, more than %i
+Increase MAX_SCHILLY_HOSTS in scsi-linux-ata.c and recompile!
+Linux sg driver version: %d.%d.%d
+SCSI Bus: %d (mapped from %d)
+Error trying to open %s exclusively (%s)... %s
+WARNING: %s seems to be mounted!
+Warning, sysfs is not mounted on /sys!
+It is recommended to mount sysfs to allow better device configuration
+WARNING: the ATAPI: method is considered deprecated on modern kernels!
+Mapping device specification to ATA: method now.
+To force the old ATAPI: method, replace ATAPI: with OLDATAPI:
+WARNING: the ATA: method is considered deprecated on modern kernels!
+Use --devices to display the native names.
+WARNING: the deprecated pseudo SCSI syntax found as device specification.
+Support for that may cease in the future versions of wodim. For now,
+the device will be mapped to a block device file where possible.
+Run "wodim --devices" for details.
+Warning: Using ATA Packet interface.
+Warning: The related Linux kernel interface code seems to be unmaintained.
+Warning: There is absolutely NO DMA, operations thus are slow.
+Illegal value for bus, target or lun '%d,%d,%d'
+try open(%s) return %i, errno %i, cancel
+try open(%s) return %i, errno %i
+DEVFS not detected, continuing with old dev
+errno (EACCESS), you don't have the needed rights for %s
+try open(%s) return %i, errno %i, trying next cdrom
+try open(%s) return %i errno %i calling sg_mapdev(...)
+INFO: scan_internal(...) failed
+BADID
+usalo_getbuf: %ld bytes
+None.
+ATAPI:1,2,0
+ATAPI:
+ATA:
+%d.%d.%d
+Cannot set SG_SET_TIMEOUT.
+ioctl ret: %d
+SCSI open usage error.
+/device/
+INFO: %s -> %s
+ERROR: unknown format
+scsi
+INFO: l1: 0x%lX l2: 0x%lX
+retrying in 1 second.
+giving up.
+/proc/mounts
+/dev/hd%c
+/dev/scd%d
+/dev/sg%d
+/sys/kernel
+OLDATAPI
+/dev/hd
+Cannot open '%s'
+SCSI unsupported with '%s'
+Bus: %d cookie: %X
+file (%d,%d,%d): %d
+/dev/cdroms/cdrom%i
+/dev/sr%i
+%s is not a cdrom, skipping
+INFO: do usalo_open openbydev
+Transport name:		%s
+Transport descr.:	%s
+Transp. layer ind.:	%s
+Target specifier:	%s
+Target example:		%s
+SCSI Bus scanning:	%ssupported
+Open via UNIX device:	%ssupported
+%s: 
+Error %d
+%s: %s. 
+Condition not caught: 
+any_other
+;*3$"
+genisoimage 1.1.11
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+d"e"
+ 9 : 
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+d"e"
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+d"e"V
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+d"e"+
+9 : Y
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+d"e"
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+d"e"
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ &   ! 
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ &   ! 
+ 0 	
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+%$%a%b%V%U%c%Q%W%]%\%[%
+%4%,%
+%<%^%_%Z%T%i%f%`%P%l%g%h%d%e%Y%X%R%S%k%j%
+)"a"
+e"d" #!#
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+%$%a%b%V%U%c%Q%W%]%\%[%
+%4%,%
+%<%^%_%Z%T%i%f%`%P%l%g%h%d%e%Y%X%R%S%k%j%
+e"d"
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+c%Q%W%]%.
+%4%,%
+%<%r
+Z%T%i%f%`%P%l%}
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+c%Q%W%]%
+%4%,%
+Z%T%i%f%`%P%l%
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+c%Q%W%]%{
+%4%,%
+Z%T%i%f%`%P%l%
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+%$%E
+c%Q%W%]%9
+%4%,%
+%<%:
+Z%T%i%f%`%P%l%
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+c%Q%W%]%
+%4%,%
+Z%T%i%f%`%P%l%
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+%$%a%b%V%U%c%Q%W%]%\%[%
+%4%,%
+%<%^%_%Z%T%i%f%`%P%l%g%h%d%e%Y%X%R%S%k%j%
+)"a"
+e"d" #!#
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+%$%a%b%V%U%c%Q%W%]%\%[%
+%4%,%
+%<%^%_%Z%T%i%f%`%P%l%g%h%d%e%Y%X%R%S%k%j%
+)"a"
+e"d" #!#
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+%$%a%b%V%U%c%Q%W%]%\%[%
+%4%,%
+%<%^%_%Z%T%i%f%`%P%l%g%h%d%e%Y%X%R%S%k%j%
+)"a"
+e"d" #!#
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+%$%a%b%V%U%c%Q%W%]%\%[%
+%4%,%
+%<%^%_%Z%T%i%f%`%P%l%g%h%d%e%Y%X%R%S%k%j%
+)"a"
+e"d" #!#
+ !"#$
+&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+%<%$%,%
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+%$%a%b%V%U%c%Q%W%]%\%[%
+%4%,%
+%<%^%_%Z%T%i%f%`%P%l%g%h%d%e%Y%X%R%S%k%j%
+)"a"
+e"d" #!#
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+%$%a%b%V%U%c%Q%W%]%\%[%
+%4%,%
+%<%^%_%Z%T%i%f%`%P%l%g%h%d%e%Y%X%R%S%k%j%
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+c%Q%W%]%
+%4%,%
+Z%T%i%f%`%P%l%
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+0123456789
+ !"#$%&'()*+,-./
+:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+%$%,%4%<%
+"H"d"e"
+P%Q%R%Q
+S%T%U%V%W%X%Y%Z%[%\%]%^%_%`%a%
+b%c%d%e%f%g%h%i%j%k%l%
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+%$%,%4%<%
+"H"d"e"
+P%Q%R%Q
+W%X%Y%Z%[%
+]%^%_%`%a%
+f%g%h%i%j%
+Cdrkit
+1.1.11
+@(#)scsitransp.c	1.91 04/06/17 Copyright 1988,1995,2000-2004 J. Schilling
+cdrkit-team
+remote-1.18
+scsihack.c-1.44
+scsi-linux-ata.c-1.7
+scsi-linux-sg.c-1.86
+cdrkit-team
+file_write_err
+bad_file_op
+bad_file_mode
+bad_file
+genisoimage
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got
+.got.plt
+.data
+.bss
+.gnu_debuglink

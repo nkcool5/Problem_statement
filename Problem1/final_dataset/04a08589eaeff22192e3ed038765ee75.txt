@@ -1,0 +1,902 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+*Vsd
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+fSystem.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3ahSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPADP
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Icon
+IconData
+IconSize
+System.Drawing.Size
+System.Drawing.Size
+width
+height
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+Data
+IHDR
+gAMA
+	pHYs
+jIDAT8O
+ngN-_
+&<Z~
+0v.0a
+X>d4(
+mcK 
+5)Jgr
+IEND
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+Data
+IHDR
+gAMA
+	pHYs
+jIDAT8O
+ngN-_
+&<Z~
+0v.0a
+X>d4(
+mcK 
+5)Jgr
+IEND
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+Data
+IHDR
+gAMA
+	pHYs
+IDAT8Oc
++)h3[TT
+0|QA
+'T)&8%/
+Y`[f20
+4apAN
+u}G`
+Yy)K
+vT~87
+O:*'
+IEND
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+Data
+IHDR
+gAMA
+	pHYs
+IDAT8Ou
+d29L
+.&Cm&PL
+OmP;
+IEND
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+Data
+Beeb
+IHDR
+gAMA
+	pHYs
+IDAT8O
+_HSa
+EA,,l
+(B$'
+I$%	
+	\!P
+$q;U
+GAL5y
+Lz|zR
+WQU<
+k1=|
+X[[+
+y}}]
+S&DU6
+IEND
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+Data
+IHDR
+gAMA
+	pHYs
+IDAT8OuS[H
+EIfX
+,W1o
+PD+2jO
+b}` 
+u:~Y1&
+836d&
+Dkke
+NQs$
+a//%T.V
+IEND
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+Data
+IHDR
+gAMA
+	pHYs
+IDAT8O
+)-UUY
+5[m1dfYaC
+/?1`
+iGs@N"D
+AvSWR
+IEND
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+Data
+IHDR
+gAMA
+	pHYs
+IDAT8Oc
+IEND
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+Data
+IHDR
+gAMA
+	pHYs
+=IDAT8O
+myhmm]
+(7jc
+j5+23E
+hn\vI
+Fv	c
+UD)?s
+lCCC1
+kk;)-
+X"8g	
+IEND
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+Data
+IHDR
+gAMA
+	pHYs
+IDAT8O}
+Lk.ei
+JZJPt
+T#x_
+kt>ZE
+Yl#F
+Ij&hZ
+Ys;_
+1"wPB
+Ecf,xnB
+l gzS
+.JWS
+ei"o,
+PLFZG[u
+IEND
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+Data
+IHDR
+gAMA
+	pHYs
+IDAT8Oc@
+R^^^
+=000
+@6#H
+| >A
+?vvv
+nSPP
+{...	 
+nnnq[[
+LJJJ
+~JKKOwtt
+611y
+DEE=
+IEND
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+Data
+IHDR
+gAMA
+	pHYs
+IDAT8O
+4sf6
+ibI(
+[ToqN`f
+LL8U
+POm}I
+JP*U
+D"`Y6
+.q+!
+IEND
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+Data
+IHDR
+gAMA
+	pHYs
+IDAT8Oc
+&@XXV
+ECqT
+XU[[
+1+T;
+IEND
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+public static string Base64_Encode(String input)
+        {
+            return System.Text.ASCIIEncoding.ASCII.GetString(Convert.FromBase64String(input));
+        }
+public static string DES_Decrypt(string text, string key)
+        {
+            DESCryptoServiceProvider DES = new DESCryptoServiceProvider();
+            MD5CryptoServiceProvider MD5 = new MD5CryptoServiceProvider();
+            string decrypt = "";
+            byte[] hash = new byte[7];
+            byte[] temp = MD5.ComputeHash(System.Text.ASCIIEncoding.ASCII.GetBytes(key));
+            Array.Copy(temp, 0, hash, 0, 7);
+            DES.Mode = CipherMode.ECB;
+            byte[] Buffer = Convert.FromBase64String(text);
+            decrypt = System.Text.ASCIIEncoding.ASCII.GetString(DES.CreateDecryptor().TransformFinalBlock(Buffer, 0, Buffer.Length));
+            return decrypt;
+        }
+public static byte[] ikey = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24};
+        public static byte[] iv = {33,9,22,45,11,1,6,30,15};
+        public static cTripleDES des3 = new cTripleDES(ikey, iv);
+        public class cTripleDES
+        {
+            public TripleDESCryptoServiceProvider m_des = new TripleDESCryptoServiceProvider();
+            public ASCIIEncoding asciiencode = new ASCIIEncoding();
+            public byte[] m_key;
+            public byte[] m_iv;
+            public cTripleDES(byte[] key, byte[] iv)
+            {
+                this.m_key = key;
+                this.m_iv = iv;
+            }
+            public byte[] Decrypt(byte[] input)
+            {
+                return Transform(input, m_des.CreateDecryptor(m_key, m_iv));
+            }
+            public string Decrypt(string text)
+            {
+                byte[] input = Convert.FromBase64String(text);
+                byte[] output = Transform(input, m_des.CreateDecryptor(m_key, m_iv));
+                return asciiencode.GetString(output);
+            }
+            public byte[] Transform(byte[] input, ICryptoTransform CryptoTransform)
+            {
+                MemoryStream memStream = new MemoryStream();
+                CryptoStream cryptStream = new CryptoStream(memStream, CryptoTransform, CryptoStreamMode.Write);
+                cryptStream.Write(input, 0, input.Length);
+                cryptStream.FlushFinalBlock();
+                memStream.Position = 0;
+                byte[] result = new byte[Convert.ToInt32(memStream.Length - 1) + 1];
+                memStream.Read(result, 0, Convert.ToInt32(result.Length));
+Do nine men interpret Nine men I nod
+                memStream.Close();
+                cryptStream.Close();
+                return result;
+            }
+        }
+public static byte[] DecompressGZip(byte[] bytesToDecompress)
+        {
+            using (GZipStream stream = new GZipStream(new MemoryStream(bytesToDecompress), CompressionMode.Decompress)) 
+            {
+                const int size = 4096;
+                byte[] Buffer = new byte[size]; { }
+                using (MemoryStream memoryStream = new MemoryStream())
+God A red nugget A fat egg under a dog
+                {
+                    int count;
+                    do
+                    {
+                        count = stream.Read(Buffer, 0, size);
+                        if (count > 0)
+                        {
+                            memoryStream.Write(Buffer, 0, count);
+                        }
+                    } while (count > 0);
+                   
+                    return memoryStream.ToArray();
+                }
+            }
+        }
+public static byte[] MD5Decrypt(byte[] BytData, string key)
+        {
+            MD5CryptoServiceProvider Provider = new MD5CryptoServiceProvider();
+            byte[] Buffer1 = Provider.ComputeHash(Encoding.ASCII.GetBytes(key));
+            AesCryptoServiceProvider Provider2 = new AesCryptoServiceProvider();
+            Provider2.Key = Buffer1;
+            Provider2.Mode = CipherMode.ECB;
+            byte[] Buffer2 = Provider2.CreateDecryptor().TransformFinalBlock(BytData, 0, BytData.Length);
+            return Buffer2;
+        }
+public static string RC2_Decrypt(string intext, string pass)
+        {
+A Santa lives evil at NASA
+            RC2CryptoServiceProvider RC2 = new RC2CryptoServiceProvider();
+            MD5CryptoServiceProvider MD5 = new MD5CryptoServiceProvider();
+            string decrypt = "";
+            byte[] Code = MD5.ComputeHash(System.Text.ASCIIEncoding.ASCII.GetBytes(pass));
+            RC2.Key = Code;
+            RC2.Mode = CipherMode.ECB;
+            byte[] base64 = Convert.FromBase64String(intext);
+            decrypt = System.Text.ASCIIEncoding.ASCII.GetString(RC2.CreateDecryptor().TransformFinalBlock(base64, 0, base64.Length));
+            return decrypt;
+        }
+public static byte[] RSM_Decrypt(byte[] Intext, byte[] key)
+        {
+            Rfc2898DeriveBytes aeretrtyty = new Rfc2898DeriveBytes(key, new byte[8], 1);
+            RijndaelManaged RsmCrypt = new RijndaelManaged();
+            RsmCrypt.Key = aeretrtyty.GetBytes(16);
+            RsmCrypt.IV = aeretrtyty.GetBytes(16);
+            byte[] L = RsmCrypt.CreateDecryptor().TransformFinalBlock(Intext, 0, Intext.Length);
+            byte[] K = new byte[L.Length - 16];
+            Buffer.BlockCopy(L, 16, K, 0, L.Length - 16);
+            return K;
+        }
+        public byte[] PlainRSM(byte[] Files, string k)
+        {
+            return RSM_Decrypt(Files, Encoding.ASCII.GetBytes(k));
+        }
+public static string RijndaelDecrypt(string input, string key)
+        {
+            RijndaelManaged Rij = new RijndaelManaged();
+            MD5CryptoServiceProvider HashRij = new MD5CryptoServiceProvider();
+            string Decrypt = "";
+            byte[] Hash = HashRij.ComputeHash(ASCIIEncoding.ASCII.GetBytes(key));
+            Rij.Key = Hash;
+            Rij.Mode = CipherMode.ECB;
+            byte[] Buffer1 = Convert.FromBase64String(input);
+            Decrypt = System.Text.ASCIIEncoding.ASCII.GetString(Rij.CreateDecryptor().TransformFinalBlock(Buffer1, 0, Buffer1.Length));
+            return Decrypt;
+        }
+public byte[] Decryption(byte[] Data, string iKey)
+        {
+            StairsDecrypt H = new StairsDecrypt();
+            return StairsDecrypt.DeCrypt(Data, Encoding.ASCII.GetBytes(iKey));
+        }
+        public class StairsDecrypt
+        {
+            public static byte[] DeCrypt(byte[] data2, byte[] pass)
+            {
+                for (int i = (data2.Length * 2) + pass.Length; i >= 0; i += -1)
+                {
+                    data2[i % data2.Length] = Convert.ToByte((Convert.ToInt32(data2[i % data2.Length] ^ pass[i % pass.Length]) - Convert.ToInt32(data2[(i + 1) % data2.Length]) + 256) % 256);
+                }
+                return data2;
+            }
+        }
+public static string TDesDecrypt(string txt, string pass)
+        {
+            TripleDESCryptoServiceProvider tdes = new TripleDESCryptoServiceProvider();
+            MD5CryptoServiceProvider md5 = new MD5CryptoServiceProvider();
+            string decrypt = "";
+            byte[] Kode = md5.ComputeHash(ASCIIEncoding.ASCII.GetBytes(pass));
+            tdes.Key = Kode;
+            tdes.Mode = CipherMode.ECB;
+            byte[] base64 = Convert.FromBase64String(txt);
+            decrypt = System.Text.ASCIIEncoding.ASCII.GetString(tdes.CreateDecryptor().TransformFinalBlock(base64, 0, base64.Length));
+            return decrypt;
+        }
+public static string VigenereDecrypt(string text, string pass)
+        {
+            string morocco = null;
+            for (int i = 1; i <= text.Length;i++ )
+            {
+                int tmp = Strings.AscW(Strings.GetChar(text, i)) - Strings.AscW(Strings.GetChar(pass, i % pass.Length + 1));
+                morocco += Strings.ChrW(tmp);
+            }
+            return morocco;
+        }
+public static string VernamDecrypt(string input, string pass)
+        {
+            StringBuilder Out1 = new StringBuilder();
+            foreach(char ch in input)
+            {
+                string tmp = Strings.ChrW(Strings.AscW(ch) / (Strings.AscW(pass) % 30)).ToString();
+Degas are we not drawn onward no In union drawn onward to new eras aged
+             Out1.Append(tmp);
+            }
+            return Out1.ToString();
+            }
+BSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+<Module>
+Algorithm Converter And Encryption Tool.exe
+Algorithms
+Algorithm_Converter_And_Encryption_Tool
+Form1
+Part2_Algorithms
+cTripleDES
+StairsEncryption
+Program
+Resources
+Algorithm_Converter_And_Encryption_Tool.Properties
+Settings
+mscorlib
+System
+Object
+System.Windows.Forms
+Form
+System.Configuration
+ApplicationSettingsBase
+Vigenere
+VernamII
+Rijndael
+TripleDes
+DESEncrypt
+RC2Encrypt
+MD5Encrypt
+alula
+.ctor
+EventArgs
+Form1_Load
+reverseToolStripMenuItem_Click
+openToolStripMenuItem_Click
+textBox1_TextChanged
+textBox2_TextChanged
+groupBox1_Enter
+radioButton5_CheckedChanged
+button1_Click
+radioButton6_CheckedChanged
+radioButton7_CheckedChanged
+radioButton8_CheckedChanged
+radioButton15_CheckedChanged
+radioButton14_CheckedChanged
+radioButton13_CheckedChanged
+radioButton4_CheckedChanged
+button2_Click
+fileToolStripMenuItem_Click
+aboutProgramToolStripMenuItem_Click
+radioButton2_CheckedChanged
+radioButton3_CheckedChanged
+GeneratorStrings
+MouseMoverKey
+button4_Click
+aboutToolStripMenuItem_Click
+exitToolStripMenuItem_Click
+copyToolStripMenuItem_Click
+textBox4_TextChanged
+clearToolStripMenuItem_Click
+reverseToolStripMenuItem_Click_1
+helpToolStripMenuItem_Click
+Enable_CheckedChanged
+textBox1_TextChanged_1
+groupBox2_Enter
+textBox3_TextChanged_1
+ToolStripItemClickedEventArgs
+menuStrip1_ItemClicked
+button3_Click
+toolStripMenuItem1_Click
+toolStripMenuItem2_Click
+toolStripMenuItem3_Click
+label3_Click
+Eleele
+radioButton16_CheckedChanged
+radioButton17_CheckedChanged
+radioButton18_CheckedChanged
+Borrow or rob
+groupBox3_Enter
+radioButton22_CheckedChanged
+radioButton20_CheckedChanged
+radioButton21_CheckedChanged
+button4_Click_1
+numericUpDown1_ValueChanged
+radioButton23_CheckedChanged
+MouseEventArgs
+key_move
+textBox4_TextChanged_1
+key_TextChanged
+trackBar1_Scroll
+radioButton24_CheckedChanged
+radioButton1_CheckedChanged
+key_TextChanged_1
+label3_Click_1
+button5_Click
+System.ComponentModel
+IContainer
+components
+Dispose
+InitializeComponent
+MenuStrip
+menuStrip1
+ToolStripMenuItem
+fileToolStripMenuItem
+openToolStripMenuItem
+ToolStripSeparator
+toolStripSeparator1
+exitToolStripMenuItem
+editToolStripMenuItem
+copyToolStripMenuItem
+clearToolStripMenuItem
+toolStripSeparator2
+reverseToolStripMenuItem
+aboutToolStripMenuItem
+helpToolStripMenuItem
+aboutProgramToolStripMenuItem
+TextBox
+Result
+textBox2
+GroupBox
+groupBox1
+RadioButton
+radioButton2
+radioButton1
+radioButton3
+radioButton4
+radioButton5
+Button
+button1
+radioButton6
+radioButton7
+radioButton8
+groupBox2
+radioButton9
+radioButton10
+radioButton11
+radioButton12
+button2
+radioButton13
+radioButton14
+radioButton15
+tobereplaced
+replaced
+button3
+groupBox3
+CheckBox
+Enable
+textBox1
+textBox3
+Label
+label1
+label2
+toolStripMenuItem1
+toolStripMenuItem2
+toolStripMenuItem3
+radioButton16
+radioButton17
+radioButton18
+radioButton19
+radioButton20
+radioButton21
+radioButton22
+NumericUpDown
+numericUpDown1
+button4
+radioButton23
+radioButton24
+TrackBar
+trackBar1
+button5
+GZipCompress
+RSM_Result
+Stairs_Result
+System.Security.Cryptography
+TripleDESCryptoServiceProvider
+m_des
+System.Text
+ASCIIEncoding
+asciii
+m_key
+m_iv
+Encrypt
+ICryptoTransform
+Transform
+Crypt
+Main
+System.Resources
+ResourceManager
+resourceMan
+System.Globalization
+CultureInfo
+resourceCulture
+get_ResourceManager
+get_Culture
+set_Culture
+get_Base64_Strings
+get_DES
+get_DES3
+get_GZip
+get_MD5
+get_RC2
+get_Rijndael
+get_RSM
+get_Stairs
+get_TDES
+get_Veginer
+get_Vernam
+Tacocat
+Culture
+Base64_Strings
+DES3
+GZip
+Stairs
+TDES
+Veginer
+Vernam
+defaultInstance
+get_Default
+Default
+text
+pass
+input
+bytData
+Skey
+sender
+length11
+disposing
+byte_0
+data
+File
+key2
+CryptoTransform
+Data
+value
+System.Runtime.Versioning
+TargetFrameworkAttribute
+System.Reflection
+AssemblyTitleAttribute
+AssemblyDescriptionAttribute
+AssemblyConfigurationAttribute
+AssemblyCompanyAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyTrademarkAttribute
+AssemblyCultureAttribute
+System.Runtime.InteropServices
+ComVisibleAttribute
+GuidAttribute
+AssemblyVersionAttribute
+AssemblyFileVersionAttribute
+System.Diagnostics
+DebuggableAttribute
+DebuggingModes
+System.Runtime.CompilerServices
+CompilationRelaxationsAttribute
+RuntimeCompatibilityAttribute
+Algorithm Converter And Encryption Tool
+Microsoft.VisualBasic
+Strings
+GetChar
+AscW
+String
+get_Length
+ChrW
+Char
+Concat
+StringBuilder
+get_Chars
+ToString
+Append
+RijndaelManaged
+MD5CryptoServiceProvider
+Encoding
+get_ASCII
+GetBytes
+HashAlgorithm
+ComputeHash
+SymmetricAlgorithm
+set_Key
+CipherMode
+set_Mode
+CreateEncryptor
+TransformFinalBlock
+Convert
+ToBase64String
+DESCryptoServiceProvider
+Byte
+Array
+Copy
+RC2CryptoServiceProvider
+System.Core
+AesCryptoServiceProvider
+Control
+set_Enabled
+set_MaximizeBox
+FormBorderStyle
+set_FormBorderStyle
+OpenFileDialog
+FileDialog
+set_Filter
+CommonDialog
+DialogResult
+ShowDialog
+get_FileName
+set_Text
+get_Checked
+get_Text
+op_Equality
+MessageBox
+MessageBoxButtons
+MessageBoxIcon
+Show
+System.IO
+ReadAllBytes
+Environment
+get_NewLine
+<>c__DisplayClass1
+Random
+random
+<GeneratorStrings>b__0
+Next
+System.Linq
+Enumerable
+System.Collections.Generic
+IEnumerable`1
+Repeat
+Func`2
+Select
+ToArray
+get_Value
+Close
+TextBoxBase
+SelectAll
+Clear
+StrReverse
+Process
+Start
+Replace
+SaveFileDialog
+WriteAllText
+ReadAllText
+FolderBrowserDialog
+Decimal
+Int32
+Parse
+get_SelectedPath
+IDisposable
+Type
+RuntimeTypeHandle
+GetTypeFromHandle
+ComponentResourceManager
+SuspendLayout
+ISupportInitialize
+BeginInit
+System.Drawing
+Color
+get_Transparent
+ToolStrip
+set_BackColor
+ToolStripItemCollection
+get_Items
+ToolStripItem
+AddRange
+Point
+set_Location
+set_Name
+Size
+set_Size
+set_TabIndex
+ToolStripItemClickedEventHandler
+add_ItemClicked
+ToolStripDropDownItem
+get_DropDownItems
+get_Cyan
+set_ForeColor
+GetObject
+Image
+set_Image
+EventHandler
+add_Click
+get_Black
+Font
+FontStyle
+GraphicsUnit
+set_Font
+get_White
+set_Multiline
+add_TextChanged
+set_Visible
+ControlCollection
+get_Controls
+set_TabStop
+add_Enter
+set_AutoSize
+get_MediumSeaGreen
+ButtonBase
+set_UseVisualStyleBackColor
+add_CheckedChanged
+get_WhiteSmoke
+Cursors
+Cursor
+get_Hand
+set_Cursor
+MouseEventHandler
+add_MouseMove
+add_ValueChanged
+set_Maximum
+TickStyle
+set_TickStyle
+add_Scroll
+FlatStyle
+set_FlatStyle
+SizeF
+ContainerControl
+set_AutoScaleDimensions
+AutoScaleMode
+set_AutoScaleMode
+get_DimGray
+set_ClientSize
+Icon
+set_Icon
+set_MainMenuStrip
+add_Load
+ResumeLayout
+PerformLayout
+EndInit
+CompilerGeneratedAttribute
+MemoryStream
+System.IO.Compression
+GZipStream
+Stream
+CompressionMode
+Write
+Rfc2898DeriveBytes
+DeriveBytes
+set_IV
+Guid
+NewGuid
+ToByteArray
+Buffer
+BlockCopy
+.cctor
+<PrivateImplementationDetails>{29F225D6-0994-4AA1-A753-93094C400C08}
+ValueType
+__StaticArrayInitTypeSize=24
+$$method0x6000066-1
+RuntimeHelpers
+RuntimeFieldHandle
+InitializeArray
+__StaticArrayInitTypeSize=9
+$$method0x6000066-2
+CryptoStream
+CryptoStreamMode
+FlushFinalBlock
+set_Position
+ToInt32
+Read
+ToByte
+STAThreadAttribute
+Application
+EnableVisualStyles
+SetCompatibleTextRenderingDefault
+System.CodeDom.Compiler
+GeneratedCodeAttribute
+DebuggerNonUserCodeAttribute
+ReferenceEquals
+Assembly
+get_Assembly
+GetString
+EditorBrowsableAttribute
+EditorBrowsableState
+SettingsBase
+Synchronized
+Algorithm_Converter_And_Encryption_Tool.Form1.resources
+Algorithm_Converter_And_Encryption_Tool.Properties.Resources.resources
+3System.Resources.Tools.StronglyTypedResourceBuilder
+4.0.0.0
+KMicrosoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator
+11.0.0.0
+.NETFramework,Version=v4.5
+FrameworkDisplayName
+.NET Framework 4.5,
+'Algorithm Converter And Encryption Tool
+Copyright 
+  2016
+$229fc663-821f-4b0b-8d7b-f42e98abb864
+2.0.0.0
+WrapNonExceptionThrows
+RSDS
+\Algorithm Converter And Encryption Tool\Algorithm Converter And Encryption Tool\obj\Debug\Algorithm Converter And Encryption Tool.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>

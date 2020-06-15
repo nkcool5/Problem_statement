@@ -1,0 +1,1361 @@
+/lib/ld-linux.so.2
+libdl.so.2
+__gmon_start__
+_Jv_RegisterClasses
+libpthread.so.0
+pthread_attr_init
+pthread_attr_setdetachstate
+pthread_create
+pthread_mutex_init
+pthread_mutex_destroy
+pthread_mutex_lock
+pthread_mutex_unlock
+connect
+fcntl
+recvfrom
+sendto
+send
+accept
+recv
+lseek
+libstdc++.so.6
+_Znwj
+_ZSt18_Rb_tree_decrementPSt18_Rb_tree_node_base
+__cxa_rethrow
+_ZTVN10__cxxabiv120__si_class_type_infoE
+_Znaj
+__cxa_pure_virtual
+_ZSt29_Rb_tree_insert_and_rebalancebPSt18_Rb_tree_node_baseS0_RS_
+__cxa_begin_catch
+_ZdlPv
+_ZSt28_Rb_tree_rebalance_for_erasePSt18_Rb_tree_node_baseRS_
+__cxa_end_catch
+_ZTVN10__cxxabiv121__vmi_class_type_infoE
+__gxx_personality_v0
+_ZSt18_Rb_tree_incrementPSt18_Rb_tree_node_base
+_ZTVN10__cxxabiv117__class_type_infoE
+_ZdaPv
+libm.so.6
+sqrt
+atan
+atan2f
+atan2
+copysign
+floor
+acos
+log10
+asinf
+ceil
+asin
+cosf
+libgcc_s.so.1
+_Unwind_Resume
+__divdi3
+libc.so.6
+_IO_stdin_used
+socket
+fflush
+strcpy
+htonl
+fnmatch
+htons
+readdir
+srand
+fopen
+strrchr
+inet_ntoa
+ftell
+strncpy
+unlink
+putchar
+listen
+select
+mkdir
+realloc
+clock
+vsprintf
+strpbrk
+tolower
+fgetpos
+strdup
+__assert_fail
+rewind
+isatty
+feof
+fsetpos
+fgetc
+calloc
+strlen
+ungetc
+tmpfile
+__cxa_atexit
+memset
+strstr
+bind
+tcsetattr
+fseek
+memcmp
+toupper
+vsnprintf
+stdout
+fputc
+inet_addr
+fputs
+memcpy
+fclose
+setsockopt
+malloc
+strcat
+strcasecmp
+remove
+opendir
+getenv
+__ctype_b_loc
+stderr
+gethostbyname
+strncasecmp
+fileno
+gethostname
+usleep
+fwrite
+fread
+gettimeofday
+atof
+atoi
+stime
+localtime
+strchr
+fprintf
+getsockname
+mktime
+tcgetattr
+times
+isdigit
+memmove
+access
+strcmp
+__libc_start_main
+wcslen
+ntohs
+free
+CXXABI_1.3
+GLIBCXX_3.4
+GCC_3.0
+GLIBC_2.0
+GLIBC_2.1
+GLIBC_2.2.3
+GLIBC_2.3
+GLIBC_2.2
+GLIBC_2.1.3
+PTRh
+QVhd
+,[^_]
+[^_]
+[^_]
+ [^]
+9P0t
+8/~z
+[^_]
+,[^_]
+,[^_]
+`[^]
+ [^]
+[^_]
+8/t!
+8.ux
+VUUU
+VUUU
+VUUU
+8/tC
+8\t)
+8/t0
+0[^]
+8.u'
+8.u'
+[^_]
+80u#
+[^_]
+[^_]
+<[^_]
+;B t
+ [^]
+x+(v
+8,t&
+[^_]
+8(u4
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+8 u1
+[^_]
+[^_]
+[^_]
+[^_]
+@*;B
+ [^]
+ [^]
+ [^]
+<[^_]
+0[^]
+;M |*
+;E |
+;E |
+;E |
+l[^_]
+@[^]
+[^_]
+[^_]
+[^_]
+[^_]
+ [^]
+8(u)
+8(u3
+[^_]
+[^_]
+8(u/
+8Dt/
+8(u@
+8(uL
+[^_]
+[^_]
+0[^]
+$2w	
+8[u=
+8@v/
+Eleele
+8Dw!
+@$;B(~$
+@$;B(~$
+@$;B(~$
+@ ;B$~$
+@,;B0~$
+@,;B0~$
+@0;B
+@0;B4~$
+@0;B
+@0;B4~$
+@$;B(~$
+;P ~	
+@$;E
+;B$s
+;B$s
+;B$s
+;B$s
+;B$s
+;B$s
+@$;E
+;B$s
+;P$w
+;B$s
+;P$w
+;B$s
+;P$w
+;B$s
+alula
+;P$w
+;B$s
+;P$w
+@ ;E
+@$;E
+Idle
+Idle
+gfff
+gfff
+gfff
+Idle
+Idle
+@ ;E
+8/t(
+gfff
+gfff
+, $?
+VUUU
+P^_]
+Tacocat
+`^_]
+P^_]
+`^_]
+Idle
+Idle
+<*u1
+gfff
+gfff
+gfff
+gfff
+gfff
+gfff
+gfff
+gfff
+gfff
+gfff
+8 t%
+8@~ 
+8(u>
+`[^]
+`[^]
+8*t.
+8*u#
+89~j
+8Z~Z
+8z~J
+8]tB
+8[t:
+8_t2
+8$t*
+8=t"
+[^_]
+void RakNet::BitStream::AssertStreamEmpty()
+../raknet/BitStream.cpp
+readOffset == numberOfBitsUsed
+No bits
+static void CommandParserInterface::ParseConsoleString(char*, char, unsigned char, unsigned int*, char**, unsigned int)
+../raknet/CommandParserInterface.cpp
+parameterListIndex < parameterListLength
+No registered commands
+%s returned true.
+%s returned false.
+%s returned %i.
+Successfully called %s.
+%s returned %s.
+%s returned %s %i:%i
+22CommandParserInterface
+void ConnectionGraph::SetPassword(const char*)
+../raknet/ConnectionGraph.cpp
+strlen(password)<256
+void ConnectionGraph::HandleDroppedConnection(RakPeerInterface*, PlayerID, unsigned char)
+peer
+bool ConnectionGraph::DeserializeIgnoreList(DataStructures::OrderedList<PlayerID, PlayerID, DataStructures::defaultOrderedListComparison [with key_type = PlayerID, data_type = PlayerID]>&, RakNet::BitStream*)
+bool ConnectionGraph::DeserializeWeightedGraph(RakNet::BitStream*, RakPeerInterface*)
+void ConnectionGraph::AddAndRelayConnection(DataStructures::OrderedList<PlayerID, PlayerID, DataStructures::defaultOrderedListComparison [with key_type = PlayerID, data_type = PlayerID]>&, const ConnectionGraph::PlayerIdAndGroupId&, const ConnectionGraph::PlayerIdAndGroupId&, short unsigned int, RakPeerInterface*)
+conn1.playerId!=UNASSIGNED_PLAYER_ID
+conn2.playerId!=UNASSIGNED_PLAYER_ID
+unsigned int DataStructures::OrderedList<key_type, data_type, comparison_function>::Remove(const key_type&) [with key_type = ConnectionGraphGroupID, data_type = ConnectionGraphGroupID, int (*comparison_function)(const key_type&, const data_type&) = DataStructures::defaultOrderedListComparison [with key_type = ConnectionGraphGroupID, data_type = ConnectionGraphGroupID]]
+../raknet/DS_OrderedList.h
+objectExists==true
+data_type& DataStructures::Map<key_type, data_type, key_comparison_func>::Get(const key_type&) [with key_type = ConnectionGraph::PlayerIdAndGroupId, data_type = DataStructures::Map<ConnectionGraph::PlayerIdAndGroupId, short unsigned int, DataStructures::defaultMapKeyComparison [with key_type = ConnectionGraph::PlayerIdAndGroupId]>*, int (*key_comparison_func)(const key_type&, const key_type&) = DataStructures::defaultMapKeyComparison [with key_type = ConnectionGraph::PlayerIdAndGroupId]]
+../raknet/DS_Map.h
+objectExists
+data_type DataStructures::Map<key_type, data_type, key_comparison_func>::Pop(const key_type&) [with key_type = ConnectionGraph::PlayerIdAndGroupId, data_type = DataStructures::Map<ConnectionGraph::PlayerIdAndGroupId, short unsigned int, DataStructures::defaultMapKeyComparison [with key_type = ConnectionGraph::PlayerIdAndGroupId]>*, int (*key_comparison_func)(const key_type&, const key_type&) = DataStructures::defaultMapKeyComparison [with key_type = ConnectionGraph::PlayerIdAndGroupId]]
+15ConnectionGraph
+void ConsoleServer::AddCommandParser(CommandParserInterface*)
+../raknet/ConsoleServer.cpp
+Connected to remote command console.
+Type 'help' for help.
+help
+INSTRUCTIONS:
+Enter commands on your keyboard, using spaces to delineate parameters.
+You can use quotation marks to toggle space delineation.
+You can connect multiple times from the same computer.
+You can direct commands to a parser by prefixing the parser name or number.
+COMMANDS:
+help                                        Show this display.
+help <ParserName>                           Show help on a particular parser.
+help <CommandName>                          Show help on a particular command.
+quit                                        Disconnects from the server.
+[<ParserName>]   <Command> [<Parameters>]   Execute a command
+[<ParserNumber>] <Command> [<Parameters>]   Execute a command
+COMMAND LIST:
+(Variable parms): %s %s
+(%i parms): %s %s
+Unknown help topic: %s.
+quit
+Goodbye!
+Invalid index.
+Invalid parameter count.
+(%i parms): %s %s
+Unknown command:  Type 'help' for help.
+INSTALLED PARSERS:
+%i. %s
+void DataStructures::Table::Cell::Set(int)
+../raknet/DS_Table.cpp
+isEmpty
+void DataStructures::Table::Cell::Set(char*)
+void DataStructures::Table::Cell::Set(char*, int)
+void DataStructures::Table::Cell::Get(int*)
+isEmpty==false
+void DataStructures::Table::Cell::Get(char*)
+void DataStructures::Table::Cell::Get(char*, int*)
+bool DataStructures::Table::UpdateCell(unsigned int, unsigned int, int)
+columns[columnIndex].columnType==NUMERIC
+bool DataStructures::Table::UpdateCell(unsigned int, unsigned int, char*)
+columns[columnIndex].columnType==STRING
+bool DataStructures::Table::UpdateCell(unsigned int, unsigned int, int, char*)
+columns[columnIndex].columnType==BINARY
+Cell width does not match column width.
+DataStructures::BPlusTree<KeyType, DataType, order>::BPlusTree() [with KeyType = unsigned int, DataType = DataStructures::Table::Row*, int order = 16]
+bool DataStructures::BPlusTree<KeyType, DataType, order>::Insert(KeyType, const DataType&) [with KeyType = unsigned int, DataType = DataStructures::Table::Row*, int order = 16]
+../raknet/DS_BPlusTree.h
+returnAction.action==ReturnAction::PUSH_KEY_TO_PARENT
+DataStructures::Page<KeyType, DataType, order>* DataStructures::BPlusTree<KeyType, DataType, order>::InsertBranchDown(KeyType, const DataType&, DataStructures::Page<KeyType, DataType, order>*, DataStructures::BPlusTree<KeyType, DataType, order>::ReturnAction*, bool*) [with KeyType = unsigned int, DataType = DataStructures::Table::Row*, int order = 16]
+returnAction->action==ReturnAction::PUSH_KEY_TO_PARENT
+bool DataStructures::BPlusTree<KeyType, DataType, order>::GetIndexOf(KeyType, DataStructures::Page<KeyType, DataType, order>*, int*) const [with KeyType = unsigned int, DataType = DataStructures::Table::Row*, int order = 16]
+page->size>0
+DataStructures::Page<KeyType, DataType, order>* DataStructures::BPlusTree<KeyType, DataType, order>::InsertIntoNode(KeyType, const DataType&, int, DataStructures::Page<KeyType, DataType, order>*, DataStructures::Page<KeyType, DataType, order>*, DataStructures::BPlusTree<KeyType, DataType, order>::ReturnAction*) [with KeyType = unsigned int, DataType = DataStructures::Table::Row*, int order = 16]
+b==false
+void DataBlockEncryptor::Encrypt(unsigned char*, int, unsigned char*, int*)
+../raknet/DataBlockEncryptor.cpp
+input && inputLength
+static void DataCompressor::Compress(unsigned char*, unsigned int, RakNet::BitStream*)
+../raknet/DataCompressor.cpp
+sizeInBytes > 2048
+static unsigned int DataCompressor::DecompressAndAllocate(RakNet::BitStream*, unsigned char**)
+decompressedBytes==destinationSizeInBytes
+22DirectoryDeltaTransfer
+27FileListTransferCBInterface
+11DDTCallback
+Unknown error starting TCP
+Failed to connect to host
+Timeout while waiting for initial data from server.
+HELO
+MAIL From: <%s>
+MAIL From: <>
+RCPT TO: <%s>
+RCPT TO: <>
+DATA
+Subject: %s
+From: %s
+To: %s
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+MIME-version: 1.0
+Content-type: multipart/mixed; BOUNDARY="%s"
+This is a multi-part message in MIME format.
+--%s
+Content-Type: text/plain; charset="US-ASCII"
+--%s
+Content-Type: APPLICATION/Octet-Stream; SizeOnDisk=%i; name="%s"
+Content-Transfer-Encoding: BASE64
+Content-Description: %s
+--%s--
+QUIT
+Connection to server lost.
+Failed on error code 550
+Failed on error code 553
+Timed out
+void FileListTransfer::Send(FileList*, RakPeerInterface*, PlayerID, short unsigned int, PacketPriority, char, bool)
+../raknet/FileListTransfer.cpp
+fileList->fileList[i].fileLength==fileList->fileList[i].fileLength
+data_type& DataStructures::Map<key_type, data_type, key_comparison_func>::Get(const key_type&) [with key_type = short unsigned int, data_type = FileListTransfer::FileListReceiver*, int (*key_comparison_func)(const key_type&, const key_type&) = DataStructures::defaultMapKeyComparison [with key_type = short unsigned int]]
+../raknet/DS_Map.h
+objectExists
+16FileListTransfer
+virtual PluginReceiveResult FullyConnectedMesh::OnReceive(RakPeerInterface*, Packet*)
+../raknet/FullyConnectedMesh.cpp
+packet
+peer
+18FullyConnectedMesh
+25LightweightDatabaseClient
+void DatabaseFilter::Serialize(RakNet::BitStream*)
+../raknet/LightweightDatabaseCommon.cpp
+cellValue.isEmpty==false
+__systemId
+__lastPingResponseTime
+__nextPingSendTime
+data_type& DataStructures::Map<key_type, data_type, key_comparison_func>::Get(const key_type&) [with key_type = char*, data_type = LightweightDatabaseServer::DatabaseTable*, int (*key_comparison_func)(const key_type&, const key_type&) = LightweightDatabaseServer::DatabaseTableComp]
+../raknet/DS_Map.h
+objectExists
+25LightweightDatabaseServer
+[<ChannelName>] - Subscribes to a named channel, or all channels
+Subscribe
+[<ChannelName>] - Unsubscribes from a named channel, or all channels
+Unsubscribe
+Subscribed to all channels.
+You are now subscribed to channel %s.
+Cannot find channel %s.
+Subscribe takes either 0 or 1 parameters.
+Unsubscribed from all channels.
+You are now unsubscribed from channel %s.
+Beeb
+Unsubscribe takes either 0 or 1 parameters.
+Logger
+The logger will accept user log data via the Log(...) function.
+Each log is associated with a named channel.
+You can subscribe to or unsubscribe from named channels.
+void LogCommandParser::AddChannel(const char*)
+../raknet/LogCommandParser.cpp
+channelIndex==(unsigned)-1
+CHANNELS:
+%i. %s
+None.
+16LogCommandParser
+15NatPunchthrough
+static void NetworkIDGenerator::SetExternalPlayerID(PlayerID)
+../raknet/NetworkIDGenerator.cpp
+playerId!=UNASSIGNED_PLAYER_ID
+void NetworkIDGenerator::GenerateID()
+IsNetworkIDAuthority()
+externalPlayerId!=UNASSIGNED_PLAYER_ID
+18NetworkIDGenerator
+N14DataStructures16BinarySearchTreeI13NetworkIDNodeEE
+N14DataStructures27AVLBalancedBinarySearchTreeI13NetworkIDNodeEE
+0123456789abcdef
+PacketConsoleLogger
+19PacketConsoleLogger
+PacketLog%i.csv
+16PacketFileLogger
+Snd,Raw,  NIL,  NIL,%5i,%5i,%i,%u:%i,%u:%i
+Snd,Raw,NIL,NIL,%s,%i,%i,%u:%i,%u:%i
+S|R,Typ,Pckt#,Frm #,PktID,BitLn,Time     ,Local IP:Port   ,RemoteIP:Port
+Rcv,Raw,  NIL,  NIL,%5i,%5i,%i,%u:%i,%u:%i
+Rcv,Raw,NIL,NIL,%s,%i,%i,%u:%i,%u:%i
+%s,Tms,%5i,%5i,%5i,%5i,%i,%u:%i,%u:%i
+%s,Tms,%i,%i,%s,%i,%i,%u:%i,%u:%i
+%s,Nrm,%5i,%5i,%5i,%5i,%i,%u:%i,%u:%i
+%s,Nrm,%i,%i,%s,%i,%i,%u:%i,%u:%i
+ID_PLAYER_SYNC
+ID_VEHICLE_SYNC
+ID_PASSENGER_SYNC
+ID_AIM_SYNC
+ID_RCON_COMMAND
+ID_RCON_RESPONCE
+ID_STATS_UPDATE
+ID_WEAPONS_UPDATE
+ID_SPECTATOR_SYNC
+ID_TRAILER_SYNC
+ID_UNOCCUPIED_SYNC
+Unknown
+12PacketLogger
+15PluginInterface
+18RakClientInterface
+9RakClient
+( unsigned short maxConnections, unsigned short localPort, int _threadSleepTimer, const char *forceHostAddress );
+Initialize
+InitializeSecurity
+( void );
+DisableSecurity
+( unsigned short numberAllowed );
+SetMaximumIncomingConnections
+( void ) const;
+GetMaximumIncomingConnections
+( const char* host, unsigned short remotePort, char* passwordData, int passwordDataLength );
+Connect
+( unsigned int blockDuration, unsigned char orderingChannel=0 );
+Disconnect
+A Santa lives evil at NASA
+IsActive
+() const;
+GetConnectionList
+( const PlayerID target, bool sendDisconnectionNotification, unsigned char orderingChannel=0 );
+CloseConnection
+( const PlayerID playerId );
+GetIndexFromPlayerID
+( int index );
+GetPlayerIDFromIndex
+( const char *IP, RakNetTime milliseconds=0 );
+AddToBanList
+( const char *IP );
+RemoveFromBanList
+ClearBanList
+IsBanned
+( const PlayerID target );
+Ping1
+( const char* host, unsigned short remotePort, bool onlyReplyOnAcceptingConnections );
+Ping2
+GetAveragePing
+( const PlayerID playerId ) const;
+GetLastPing
+GetLowestPing
+( bool doPing );
+SetOccasionalPing
+( const char *data, const unsigned int length );
+SetOfflinePingResponse
+GetInternalID
+( const PlayerID target ) const;
+GetExternalID
+( RakNetTime timeMS, const PlayerID target );
+SetTimeoutTime
+( int size );
+SetMTUSize
+GetMTUSize
+GetNumberOfAddresses
+PlayerIDToDottedIP
+( const char* host, unsigned short remotePort );
+IPToPlayerID
+( unsigned int index );
+GetLocalIP
+( bool allow );
+AllowConnectionResponseIPMigration
+( const char *host, unsigned short remotePort, const char *data, int dataLength );
+AdvertiseSystem
+( const char* passwordData, int passwordDataLength );
+SetIncomingPassword
+GetIncomingPassword
+( double maxSendBPS, unsigned short minExtraPing, unsigned short extraPingVariance);
+ApplyNetworkSimulator
+IsNetworkSimulatorActive
+GetConnectionList() returned no systems connected.
+GetConnectionList() returned:
+%i %s %i:%i
+GetConnectionList() returned false.
+IPToPlayerID(): UNASSIGNED_PLAYER_ID.
+IPToPlayerID(): %s %i:%i
+RakNet
+The RakNet parser provides mirror functions to RakPeer
+PlayerIDs take two parameters: send <BinaryAddress> <Port>.
+For bool, send 1 or 0.
+Parser not active.  Call SetRakPeerInterface.
+19RakNetCommandParser
+stats is a NULL pointer in statsToString
+Messages in Send buffer: %u
+Do nine men interpret Nine men I nod
+Messages sent: %u
+Bytes sent: %u
+Acks sent: %u
+Acks in send buffer: %u
+Messages waiting for ack: %u
+Messages resent: %u
+Bytes resent: %u
+Packetloss: %.1f%%
+Messages received: %u
+Bytes received: %u
+Acks received: %u
+Duplicate acks received: %u
+Inst. KBits per second: %.1f
+KBits per second sent: %.1f
+God A red nugget A fat egg under a dog
+KBits per second received: %.1f
+Bytes sent:				%u
+Messages in send buffer:		SP:%u HP:%u MP:%u LP:%u
+Messages sent:				SP:%u HP:%u MP:%u LP:%u
+Message data bytes sent:		SP:%u HP:%u MP:%u LP:%u
+Message header bytes sent:		SP:%u HP:%u MP:%u LP:%u
+Message total bytes sent:		SP:%u HP:%u MP:%u LP:%u
+Bytes received:				Ttl:%u Good:%u Bad:%u
+Packets received:			Ttl:%u Good:%u Bad:%u
+Acks received:				Ttl:%u Good:%u Dup:%u
+Messages received:			Total:%u Valid:%u Invalid:%u Dup:%u
+Packetloss:				%.1f%%
+Packets sent:				%u
+Acks sent:				%u
+Acks in send buffer:			%u
+Messages waiting for ack:		%u
+Ack bytes sent:				%u
+Sent packets containing only acks:	%u
+Sent packets w/only acks and resends:	%u
+Reliable messages resent:		%u
+Reliable message data bytes resent:	%u
+Reliable message header bytes resent:	%u
+Reliable message total bytes resent:	%u
+Number of messages split:		%u
+Number of messages unsplit:		%u
+Message splits performed:		%u
+Additional encryption bytes:		%u
+Sequenced messages out of order:	%u
+Sequenced messages in order:		%u
+Ordered messages out of order:		%u
+Ordered messages in of order:		%u
+Split messages waiting for reassembly:	%u
+Messages in internal output queue:	%u
+Inst KBits per second:			%.1f
+Elapsed time (sec):			%.1f
+KBits per second sent:			%.1f
+KBits per second received:		%.1f
+Messages in Send buffer: %u
+Messages sent: %u
+Bytes sent: %u
+Acks sent: %u
+Acks in send buffer: %u
+Messages waiting for ack: %u
+Messages resent: %u
+Bytes resent: %u
+Packetloss: %.1f%%
+Messages received: %u
+Bytes received: %u
+Acks received: %u
+Duplicate acks received: %u
+Changes the console password to whatever.
+SetPassword
+Removes the console passwords.
+ClearPassword
+Gets the console password.
+GetPassword
+Password changed to %s
+Password cleared
+Password is %s
+No password is set.
+RakNetTransport
+Provides a secure connection between your console
+and the console server.  Used to modify the console password.
+18TransportInterface
+28RakNetTransportCommandParser
+15RakNetTransport
+virtual bool RakPeer::Initialize(short unsigned int, short unsigned int, int, const char*)
+../raknet/RakPeer.cpp
+maxConnections > 0
+virtual void RakPeer::InitializeSecurity(const char*, const char*, const char*, const char*)
+127.0.0.1
+0.0.0.0
+virtual void RakPeer::AdvertiseSystem(const char*, short unsigned int, const char*, int)
+dataLength <= MAX_OFFLINE_DATA_LENGTH
+dataLength>=0
+SingleProducerConsumerType* DataStructures::SingleProducerConsumer<SingleProducerConsumerType>::WriteLock() [with SingleProducerConsumerType = RakPeer::RequestedConnectionStruct]
+../raknet/SingleProducerConsumer.h
+writeAheadPointer->next
+unsigned int DataStructures::OrderedList<key_type, data_type, comparison_function>::Remove(const key_type&) [with key_type = PlayerID, data_type = PlayerIDAndIndex, int (*comparison_function)(const key_type&, const data_type&) = PlayerIDAndIndexComp]
+../raknet/DS_OrderedList.h
+objectExists==true
+SingleProducerConsumerType* DataStructures::SingleProducerConsumer<SingleProducerConsumerType>::WriteLock() [with SingleProducerConsumerType = RakPeer::BufferedCommandStruct]
+SingleProducerConsumerType* DataStructures::SingleProducerConsumer<SingleProducerConsumerType>::WriteLock() [with SingleProducerConsumerType = Packet*]
+16RakPeerInterface
+7RakPeer
+18RakServerInterface
+9RakServer
+DataStructures::BPlusTree<KeyType, DataType, order>::BPlusTree() [with KeyType = MessageNumberType, DataType = InternalPacket*, int order = 32]
+unsigned int DataStructures::RangeList<range_type>::Serialize(RakNet::BitStream*, int, bool) [with range_type = MessageNumberType]
+../raknet/DS_RangeList.h
+ranges.Size() < (unsigned short)-1
+bool DataStructures::BPlusTree<KeyType, DataType, order>::Insert(KeyType, const DataType&) [with KeyType = MessageNumberType, DataType = InternalPacket*, int order = 32]
+../raknet/DS_BPlusTree.h
+returnAction.action==ReturnAction::PUSH_KEY_TO_PARENT
+DataStructures::Page<KeyType, DataType, order>* DataStructures::BPlusTree<KeyType, DataType, order>::InsertBranchDown(KeyType, const DataType&, DataStructures::Page<KeyType, DataType, order>*, DataStructures::BPlusTree<KeyType, DataType, order>::ReturnAction*, bool*) [with KeyType = MessageNumberType, DataType = InternalPacket*, int order = 32]
+returnAction->action==ReturnAction::PUSH_KEY_TO_PARENT
+bool DataStructures::BPlusTree<KeyType, DataType, order>::GetIndexOf(KeyType, DataStructures::Page<KeyType, DataType, order>*, int*) const [with KeyType = MessageNumberType, DataType = InternalPacket*, int order = 32]
+page->size>0
+DataStructures::Page<KeyType, DataType, order>* DataStructures::BPlusTree<KeyType, DataType, order>::InsertIntoNode(KeyType, const DataType&, int, DataStructures::Page<KeyType, DataType, order>*, DataStructures::Page<KeyType, DataType, order>*, DataStructures::BPlusTree<KeyType, DataType, order>::ReturnAction*) [with KeyType = MessageNumberType, DataType = InternalPacket*, int order = 32]
+b==false
+void ReplicaManager::AddParticipant(PlayerID)
+../raknet/ReplicaManager.cpp
+playerId!=UNASSIGNED_PLAYER_ID
+void ReplicaManager::RemoveParticipant(PlayerID)
+void ReplicaManager::Construct(Replica*, bool, PlayerID, bool)
+replica
+void ReplicaManager::Destruct(Replica*, PlayerID, bool)
+void ReplicaManager::SetScope(Replica*, bool, PlayerID, bool)
+void ReplicaManager::SignalSerializeNeeded(Replica*, PlayerID, bool)
+virtual void ReplicaManager::Update(RakPeerInterface*)
+res==REPLICA_CANCEL_PROCESS
+sendDLComplete==REPLICA_PROCESS_LATER
+res==REPLICA_PROCESS_LATER
+unsigned int DataStructures::OrderedList<key_type, data_type, comparison_function>::Remove(const key_type&) [with key_type = PlayerID, data_type = ReplicaManager::ParticipantStruct*, int (*comparison_function)(const key_type&, const data_type&) = ReplicaManager::ParticipantStructComp]
+../raknet/DS_OrderedList.h
+objectExists==true
+14ReplicaManager
+unsigned int DataStructures::OrderedList<key_type, data_type, comparison_function>::Remove(const key_type&) [with key_type = ConnectionGraphGroupID, data_type = ConnectionGraphGroupID, int (*comparison_function)(const key_type&, const data_type&) = DataStructures::defaultOrderedListComparison [with key_type = ConnectionGraphGroupID, data_type = ConnectionGraphGroupID]]
+../raknet/DS_OrderedList.h
+objectExists==true
+data_type& DataStructures::Map<key_type, data_type, key_comparison_func>::Get(const key_type&) [with key_type = ConnectionGraph::PlayerIdAndGroupId, data_type = DataStructures::Map<ConnectionGraph::PlayerIdAndGroupId, short unsigned int, DataStructures::defaultMapKeyComparison [with key_type = ConnectionGraph::PlayerIdAndGroupId]>*, int (*key_comparison_func)(const key_type&, const key_type&) = DataStructures::defaultMapKeyComparison [with key_type = ConnectionGraph::PlayerIdAndGroupId]]
+../raknet/DS_Map.h
+objectExists
+unsigned int DataStructures::Map<key_type, data_type, key_comparison_func>::GetIndexAtKey(const key_type&) [with key_type = ConnectionGraph::PlayerIdAndGroupId, data_type = DataStructures::Map<ConnectionGraph::PlayerIdAndGroupId, short unsigned int, DataStructures::defaultMapKeyComparison [with key_type = ConnectionGraph::PlayerIdAndGroupId]>*, int (*key_comparison_func)(const key_type&, const key_type&) = DataStructures::defaultMapKeyComparison [with key_type = ConnectionGraph::PlayerIdAndGroupId]]
+15RouterInterface
+6Router
+%02X
+ %02X
+Error: Unknown report type!
+5CSHA1
+SimpleMutex::SimpleMutex()
+../raknet/SimpleMutex.cpp
+error==0
+void SimpleMutex::Lock()
+void SimpleMutex::Unlock()
+SOCKET SocketLayer::Connect(SOCKET, unsigned int, short unsigned int)
+../raknet/SocketLayer.cpp
+writeSocket != -1
+SOCKET SocketLayer::CreateBoundSocket(short unsigned int, bool, const char*)
+static void StringCompressor::RemoveReference()
+../raknet/StringCompressor.cpp
+referenceCount > 0
+data_type& DataStructures::Map<key_type, data_type, key_comparison_func>::Get(const key_type&) [with key_type = int, data_type = HuffmanEncodingTree*, int (*key_comparison_func)(const key_type&, const key_type&) = DataStructures::defaultMapKeyComparison [with key_type = int]]
+../raknet/DS_Map.h
+objectExists
+static void StringTable::RemoveReference()
+../raknet/StringTable.cpp
+referenceCount > 0
+void StringTable::AddString(const char*, bool)
+orderedStringList.Size() < (StringTableType)-1
+bool StringTable::DecodeString(char*, int, RakNet::BitStream*)
+maxCharsToWrite>0
+void TCPInterface::DeallocatePacket(Packet*)
+../raknet/TCPInterface.cpp
+incomingMessages.CheckReadUnlockOrder(packet)
+SingleProducerConsumerType* DataStructures::SingleProducerConsumer<SingleProducerConsumerType>::WriteLock() [with SingleProducerConsumerType = RemoteClient*]
+../raknet/SingleProducerConsumer.h
+writeAheadPointer->next
+SingleProducerConsumerType* DataStructures::SingleProducerConsumer<SingleProducerConsumerType>::WriteLock() [with SingleProducerConsumerType = Packet]
+SingleProducerConsumerType* DataStructures::SingleProducerConsumer<SingleProducerConsumerType>::WriteLock() [with SingleProducerConsumerType = PlayerID]
+void TEABlockEncryptor::Encrypt(unsigned char*, int, unsigned char*, int*)
+../raknet/TEABlockEncryptor.cpp
+input && inputLength
+static void TableSerializer::SerializeCell(RakNet::BitStream*, DataStructures::Table::Cell*, DataStructures::Table::ColumnType)
+Degas are we not drawn onward no In union drawn onward to new eras aged
+../raknet/TableSerializer.cpp
+columnType==DataStructures::Table::BINARY
+static bool TableSerializer::DeserializeCell(RakNet::BitStream*, DataStructures::Table::Cell*, DataStructures::Table::ColumnType)
+virtual bool TelnetTransport::Start(short unsigned int, bool)
+../raknet/TelnetTransport.cpp
+serverMode
+virtual Packet* TelnetTransport::Receive()
+remoteClient
+reassembledLine->length < 512
+15TelnetTransport
+Error _findclose
+check_endian
+../server/amx/amx.c
+*ptr==0xff || *ptr==0x00
+swap32
+amx_Align16
+check_endian()
+amx_Align32
+amx_Callback
+amx!=((void *)0)
+hdr!=((void *)0)
+hdr->magic==0xf1e0
+hdr->natives<=hdr->libraries
+index>=0 && index<(cell)(unsigned)(((hdr)->libraries - (hdr)->natives) / (hdr)->defsize)
+f!=((void *)0)
+amx->cip >= 4 && amx->cip < (hdr->dat - hdr->cod)
+amx_BrowseRelocate
+op>0 && op<OP_NUM_OPCODES
+expand
+memsize % sizeof(cell) == 0
+shift<8*sizeof(cell)
+shift>0 || (code[(size_t)codesize] & 0x80)==0
+memsize>=0
+sc<64
+memsize==0
+amx_Init
+(hdr->flags & 0x04)!=0 || hdr->hea == hdr->size
+amx_Clone
+data!=((void *)0)
+amx_NameLength
+hdr->file_version>=7
+amx_NumNatives
+amx_GetNative
+amx_GetPublic
+hdr->publics<=hdr->natives
+amx_NumPubVars
+hdr->pubvars<=hdr->tags
+amx_GetPubVar
+amx_NumTags
+hdr->tags<=hdr->cod
+hdr->tags<=hdr->nametable
+amx_GetTag
+amx_FindTagId
+cur_id<mid_id
+amx_GetUserData
+tag!=0
+amx_SetUserData
+findfunction
+list!=((void *)0)
+amx_Register
+amx_PushArray
+amx_addr!=((void *)0)
+array!=((void *)0)
+amx_PushString
+string!=((void *)0)
+amx_Exec
+retval!=((void *)0)
+(amx->flags & 0x4000)==0
+amx_SetCallback
+callback!=((void *)0)
+amx_SetDebugHook
+amx_RaiseError
+error>0
+amx_GetAddr
+phys_addr!=((void *)0)
+amx_Allot
+amx_StrLen
+length!=((void *)0)
+amx_SetString
+amx_UTF8Get
+(c & 0xc0)==0xc0
+followup>=0 && followup<=4
+amx_UTF8Put
+amx_UTF8Len
+%s:%d
+amx_DGramIdle
+../server/amx/amxDGram.c
+idxReceiveString >= 0 || idxReceivePacket >= 0
+sendstring
+sendpacket
+listenport
+@receivestring
+@receivepacket
+[?7h
+[?7l
+[%d;%dH
+amx_wherexy
+../server/amx/amxcons.c
+x!=((void *)0) && y!=((void *)0)
+val=='['
+[%dm
+[8;%d;%dt
+(no rational number support)
+printstring
+idx<sizeof cache
+params!=((void *)0)
+n_getstring
+chars<max
+amx_ConsoleIdle
+idxKeyPressed >= 0
+getchar
+getstring
+getvalue
+print
+printf
+clrscr
+clreol
+gotoxy
+wherexy
+setattr
+console
+consctrl
+@keypressed
+list_additem
+../server/amx/amxcore.c
+root!=((void *)0)
+list_delete
+pred!=((void *)0)
+item!=((void *)0)
+item->name!=((void *)0)
+list_setitem
+list_finditem
+name!=((void *)0)
+swapchars
+(size_t)params[0]==sizeof(cell)
+numargs
+getarg
+setarg
+heapspace
+funcidx
+swapchars
+tolower
+toupper
+clamp
+random
+getproperty
+setproperty
+deleteproperty
+existproperty
+fgets_cell
+../server/amx/amxfile.c
+fp!=((void *)0)
+string!=((void *)0)
+index<max
+fputs_cell
+fgets_char
+completename
+AMXFILE
+temp
+tmpdir
+strlen(dest)<size
+n_fread
+chars<max
+n_fgetchar
+result==0 || result==1
+fopen
+fclose
+fwrite
+fread
+fputchar
+fgetchar
+fblockwrite
+fblockread
+ftemp
+fseek
+fexist
+flength
+fremove
+n_floatstr
+../server/amx/amxfloat.c
+params[0]/sizeof(cell)==1
+i@float
+floatstr
+floatmul
+floatdiv
+floatadd
+Borrow or rob
+floatsub
+floatfract
+floatround
+floatcmp
+floatsqroot
+floatpower
+floatlog
+floatsin
+floatcos
+floattan
+floatabs
+amx_StrPack
+../server/amx/amxstring.c
+len>0 && len<=sizeof(cell)
+offs>=0 && offs<sizeof(cell)
+n_strpack
+needed>0
+n_strunpack
+len>=0
+n_strcat
+(ucell)*cdest<=((1L << (sizeof(cell)-1)*8) - 1) || len2==0
+compare
+c1!=0 && c2!=0
+n_strfind
+f!=0
+c!=0
+n_strmid
+n_strins
+index==0
+n_uuencode
+strlen(dst)+1<sizeof dst
+ispacked
+memcpy
+strcat
+strcmp
+strdel
+strfind
+strins
+strlen
+strmid
+strpack
+strunpack
+strval
+uudecode
+uuencode
+valstr
+n_gettime
+../server/amx/amxtime.c
+params[0]==(int)(3*sizeof(cell))
+n_getdate
+n_tickcount
+params[0]==(int)sizeof(cell)
+n_settimer
+params[0]==(int)(2*sizeof(cell))
+amx_TimeIdle
+idxTimer >= 0
+gettime
+settime
+getdate
+setdate
+tickcount
+settimer
+@timer
+OnNPCModeInit
+zDOnNPCModeExit
+zDOnNPCConnect
+OnNPCDisconnect
+OnNPCSpawn
+OnNPCEnterVehicle
+OnNPCExitVehicle
+OnClientMessage
+OnPlayerDeath
+OnPlayerText
+OnPlayerStreamIn
+OnPlayerStreamOut
+OnVehicleStreamIn
+OnVehicleStreamOut
+OnRecordingPlaybackEnd
+----- NPC Starting -----
+----- NPC: End -----
+<BYTE GetPacketID(Packet*)
+net/netgame.cpp
+p->length > sizeof(unsigned char) + sizeof(unsigned long)
+San Andreas Multiplayer
+npcmodes/%s.amx
+./npcmodes/recordings/%s.rec
+br_strndup
+str != (char *) NULL
+** BinReloc (%s): assertion %s failed
+br_extract_dir
+path != (char *) NULL
+br_extract_prefix
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=
+(none)
+Forced exit
+Assertion failed
+Stack/heap collision (insufficient stack size)
+Array index out of bounds
+Invalid memory access
+Invalid instruction
+Stack underflow
+Heap underflow
+No (valid) native function callback
+Native function failed
+Divide by zero
+(sleep mode)
+(reserved)
+Out of memory
+Invalid/unsupported P-code file format
+File is for a newer version of the AMX
+File or function is not found
+Invalid index parameter (bad entry point)
+Debugger cannot run
+AMX not initialized (or doubly initialized)
+Unable to set user data field (table full)
+Cannot initialize the JIT
+Parameter error
+(unknown)
+Script[%s]: Run time error %d: "%s"
+SCRIPT: Bad parameter count (Count is %d, Should be %d): 
+!	@print
+printf
+format
+SetTimer
+KillTimer
+GetTickCount
+asin
+acos
+atan2
+atan
+StartRecordingPlayback
+StopRecordingPlayback
+PauseRecordingPlayback
+ResumeRecordingPlayback
+SendChat
+SendCommand
+GetPlayerState
+GetPlayerPos
+GetPlayerVehicleID
+GetPlayerArmedWeapon
+GetPlayerHealth
+GetPlayerArmour
+GetPlayerSpecialAction
+IsPlayerStreamedIn
+IsVehicleStreamedIn
+GetPlayerKeys
+GetMyPos
+SetMyPos
+GetMyFacingAngle
+SetMyFacingAngle
+GetDistanceFromMeToPoint
+IsPlayerInRangeOfPoint
+GetPlayerName
+IsPlayerConnected
+v0#%
+tzy.
+TVUS
+Du=c
+IGn/Q
+Timeout
+Leaving
+Kicked
+	xe/
+B:k(T
+c|w{
+9JLX
+~=d]
+lpHP
+T`00P
+V++}
+L&&jl66Z~??A
+Oh44\Q
+sb11S*
+RF##e
+&N''i
+X,,t4
+v;;M
+R)){
+>^//q
+,@  `
+r99K
+f33U
+x<<D%
+p88H
+uB!!c 
+z==G
+D""fT**~;
+;d22Vt::N
+H$$l
+Cn77Y
+J%%o\..r8
+|>>Bq
+j55_
+P((x
+Z--w
+P`00
+gg}V++
+jL&&Zl66A~??
+\h44
+Sb11?*
+eF##^
+iN''
+tX,,.4
+RRMv;;a
+{R))>
+q^//
+`@  
+Kr99
+MMUf33
+PPDx<<
+Hp88
+cB!!0 
+DD9.
+~~Gz==
+]]+2
+fD""~T**
+Vd22Nt::
+lH$$
+Yn77
+xxoJ%%r\..$8
+tt!>
+ppB|>>
+aa_j55
+UUxP((z
+wZ--
+0P`0
+g+}V+
+&jL&6Zl6?A~?
+4\h4
+1Sb1
+#eF#
+'iN'
+,tX,
+R;Mv;
+){R)
+/q^/
+ `@ 
+9Kr9J
+M3Uf3
+P<Dx<
+8Hp8
+!cB!
+~=Gz=d
+"fD"*~T*
+2Vd2:Nt:
+$lH$\
+7Yn7m
+x%oJ%.r\.
+p>B|>
+a5_j5W
+U(xP(
+-wZ-
+00P`
+++}V
+=&&jL66Zl??A~
+44\h
+11Sb
+##eF
+''iN
+,,tX
+-6nn
+;;Mv
+})){R
+//q^
+  `@
+g99KrJJ
+33Uf
+<<Dx
+!88Hp
+!!cB
+==Gzdd
++2ss
+""fD**~T
+22Vd::Nt
+$$lH\\
+77Ynmm
+%%oJ..r\
+!>KK
+>>B|
+55_jWW
+3"ii
+((xP
+)--wZ
+P~AeS
+-Xt!
+X>k'
+Q3`bS
+pHhX
+lZrN
+6-9'
+$6.:
+ZwKi
+T~Fb
+&x	nY
+*?#1
+>8$4,
+pHl\t
+WBPQ
+S~Ae
+Xt!)I
+Q3EbS
++XpHh
+@Cwg
+pNlZr
+'6-9d
+[T:$6.
+ iZwK
+*C<"
+Df;4[
+bT~F
+1*?#0
+f7tN
+,8$4_
+(<IA
+tHl\B
+eS~A
+U 0m
+Xti)I
+EbSw
+hXpH
+*fU(
+H2+p
+rNlZ
+9'6-
+!h\T
+[.:$6g
+KiZw
+Df~4[
+Bc"@
+j_FbT~
+#1*?
+h4,8$@_
+2\tHlWB
+PQAeS~
+U vm
+Ebdw
+HhXpE
+ZrNl
+=-9'6
+!h[T
+6.:$
+awKiZ
+~4[C)v
+j~FbT
+1?#1*
+[_=o
+$4,8
+l\tH
+lpHP
+8$4,6-9'$6.:*?#1pHhX~AeSlZrNbS
+EHl\tFeQ
+T~FbZwKi
+,8$4'6-9:$6.1*?#XpHhS~AeNlZrEbS
+tHl\
+FeQbT~FiZwK
+*<zG
+V},z7
+4,8$9'6-.:$6#1*?hXpHeS~ArNlZ
+EbS\tHlQ
+FeFbT~KiZw
+$4,8-9'66.:$?#1*HhXpAeS~ZrNlS
+Ebl\tHeQ
+F~FbTwKiZ
+GCC: (GNU) 3.4.6 (Debian 3.4.6-5)
+GCC: (GNU) 3.4.6 (Debian 3.4.6-5)
+GCC: (Debian 4.4.5-8) 4.4.5
+GCC: (GNU) 3.4.6 (Debian 3.4.6-5)
+.shstrtab
+.interp
+.note.ABI-tag
+.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rel.dyn
+.rel.plt
+.init
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.gcc_except_table
+.ctors
+.dtors
+.jcr
+.dynamic
+.got
+.got.plt
+.data
+.bss
+.comment

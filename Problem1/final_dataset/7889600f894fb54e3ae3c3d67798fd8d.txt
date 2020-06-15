@@ -1,0 +1,10977 @@
+/lib64/ld-linux-x86-64.so.2
+|"g>N
+*fUa
+i OG)
+libresolv.so.2
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+__dn_skipname
+__res_query
+__dn_expand
+libz.so.1
+inflateInit2_
+deflate
+deflateInit2_
+inflate
+inflateInit_
+inflateEnd
+deflateEnd
+deflateInit_
+libbz2.so.1.0
+BZ2_bzDecompressEnd
+BZ2_bzCompressInit
+_fini
+BZ2_bzDecompress
+BZ2_bzCompressEnd
+BZ2_bzCompress
+BZ2_bzDecompressInit
+libreadline.so.6
+rl_catch_signals
+rl_cleanup_after_signal
+xfree
+rl_instream
+readline
+rl_completion_matches
+xmalloc
+rl_free_line_state
+xrealloc
+rl_attempted_completion_over
+rl_attempted_completion_function
+rl_inhibit_completion
+rl_outstream
+add_history
+libdl.so.2
+dlclose
+dlsym
+dlopen
+dlerror
+libusb-0.1.so.4
+usb_bulk_read
+usb_clear_halt
+usb_open
+usb_find_busses
+usb_init
+usb_control_msg
+usb_get_busses
+usb_bulk_write
+usb_claim_interface
+usb_release_interface
+usb_close
+usb_find_devices
+libc.so.6
+setuid
+socket
+__stpcpy_chk
+mkdtemp
+fflush
+strcpy
+sigsuspend
+shmget
+__printf_chk
+_IO_putc
+setlocale
+srand
+fopen
+strncmp
+ftruncate
+strrchr
+regexec
+pipe
+__strdup
+shmat
+dcgettext
+connect
+getpwuid
+__fdelt_chk
+__read_chk
+strncpy
+fork
+sigprocmask
+regfree
+__stack_chk_fail
+shmctl
+unlink
+putchar
+select
+mkdir
+fsync
+clock
+abort
+stdin
+_exit
+memchr
+memrchr
+getpid
+kill
+strspn
+bind_textdomain_codeset
+strftime
+chmod
+__assert_fail
+gmtime
+strtok
+strtol
+isatty
+mmap
+execlp
+fgets
+getpwnam
+calloc
+strlen
+sigemptyset
+memset
+strstr
+rmdir
+__errno_location
+tcsetattr
+memcmp
+mlock
+ttyname
+dup2
+clearerr
+__fprintf_chk
+sigaddset
+putenv
+stdout
+fputc
+getrusage
+fputs
+lseek
+memcpy
+fclose
+strtoul
+strcat
+umask
+strcasecmp
+timegm
+raise
+remove
+nl_langinfo
+__ctype_b_loc
+getenv
+sscanf
+regcomp
+stderr
+system
+munmap
+__snprintf_chk
+__memset_chk
+getuid
+setrlimit
+strncasecmp
+__fxstat
+fileno
+fwrite
+fread
+iconv_close
+gettimeofday
+rename
+sigaction
+geteuid
+__memcpy_chk
+sys_siglist
+waitpid
+localtime
+strchr
+__vfprintf_chk
+mktime
+iconv
+fdopen
+qsort
+iconv_open
+tcgetattr
+sleep
+__ctype_toupper_loc
+__ctype_tolower_loc
+fcntl
+__sprintf_chk
+__xstat
+memmove
+uname
+ctermid
+bindtextdomain
+access
+_IO_getc
+__strcat_chk
+strcmp
+strerror
+__libc_start_main
+ferror
+stpcpy
+fseeko
+sysconf
+__cxa_atexit
+_edata
+__bss_start
+_end
+GLIBC_2.2.5
+GLIBC_2.14
+GLIBC_2.15
+GLIBC_2.3.3
+GLIBC_2.4
+GLIBC_2.3.4
+GLIBC_2.3
+[]A\
+AUATI
+X[]A\A]
+!<^w
+[]A\H
+AWAVAUATA
+Qt$1
+X[]A\A]A^A_
+AUATA
+[]A\A]
+1w	H
+=j&/
+=Q&/
+=/&/
+AWAVAUATUS1
+vl=M
+=G//
+|$(D
+%r+/
+%R'/
+%X$/
+%U$/
+-*"/
+D$,tU
+=q	/
+=k	/
+< tG<,tCH
+\$PH
+\$XH
+\$xH
+\$`H
+t$H@
+|$`H
+t==.
+t$H@
+t$H1
+t$4H
+t$4H
+t$4E1
+AWAVI
+AUATUSH
+D$X1
+D$ HcT$
+|$ L
+t$PH
+|$ 1
+T$XdH3
+h[]A\A]A^A_
+D$ E
+AWAVA
+AUATE1
+[]A\A]A^A_
+AUATI
+[]A\A]
+[]A\A]
+AUATA
+[]A\A]
+[]A\
+[]A\
+ATUI
+[]A\
+[]A\
+[]A\
+AWAVA
+AUATUSH
+[]A\A]A^A_
+AWAVAUATI
+([]A\A]A^A_
+D9|$
+D9l$
+D9l$
+D9l$
+D9l$
+AVAUA
+ATUI
+[]A\A]A^
+AWAVI
+AUATI
+ v2I
+l$@A
+l$HH
+([]A\A]A^A_
+l$HE1
+l$@H
+([]A\A]A^A_
+AWAVE
+	AUATA
+([]A\A]A^A_
+AWAVAUATI
+D$(1
+T$ H
+Hct$
+t$(dH34%(
+$uHH
+8[]A\A]A^A_
+HcL$
+tHUSH
+AWAVA
+AUATI
+[]A\A]A^A_
+AWAVA
+AUATI
+S uqD
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATI
+D$81
+L$8dH3
+H[]A\A]A^A_
+l$(tb
+T$ H
+D$ I
+t$(I
+|$ L
+D$8H
+t$()
+|$ I
+AUATI
+[]A\A]
+]A\A]
+AWAVAUATA
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATI
+L$81
+L$8dH3
+H[]A\A]A^A_
+t$()
+D$ H
+D$ I
+t$(I
+|$ L
+D$8H
+|$ I
+tKUSH
+ATUH
+ATUSH
+[]A\
+AVAUATI
+D$`H
+|$PH
+tc~3
+tBIcD$p
+[]A\A]A^
+IcT$pH
+t$hH
+]A\A]A^
+AVAUATUH
+t$$L
+T$ M
+[]A\A]A^
+t9~(
+AUATI
+tK~2
+l$`M
+[]A\A]
+D$`H
+[]A\A]
+ATUH
+[]A\
+t=USH
+uoATUH
+tp~^
+ucATUH
+td~R
+\$`H
+t$`H
+ucATUH
+t9~R
+\$`H
+uWATUH
+t5~N
+\$XH
++F u
+AUATI
+[]A\A]
+AWAVAUATUSH
+([]A\A]A^A_
+t(;P
+-3j.
+AUATUSH
+t(9P
+dH34%(
+([]A\A]
+AWAVH
+AUATUSH
+|$x1
+D$<H
+t$PA
+D$PA
+D$TA
+D$P9C
+D$T9C
+8IcGpH
+;s0|
+d$0@8
+D9t$ 
+D$ D9
+L#&B
+L#*fB
+D9t$ 
+D$01
+|$@1
+\$$E
+D$PA9E
+D$`A
+D$lA
+D$dA
+D$hE1
+D$P9C
+D$T9C
+|$+L
+T$,M
+9|$<
+G$E1
+d$$H
+t$`H
+|$hD
+L$$L
+D$xdH3
+[]A\A]A^A_
+t$PL
+D$PA9B
+D$TA9B
+D$ L
+D$ u
+|$@1
+|$@H
+L$DH
+T$HE1
+t$HH
+D$TA9E
+D$PA9F
+D$TA9F
+|$ 1
+^_t+H
+|$HH
+L$DH
+T$HE1
+t$HH
+AWAVAUATUSH
+D$X1
+te< t
+T$XdH3
+h[]A\A]A^A_
+t<SH
+AWAVAUATUS1
+D$h1
+T$HH
+D$ H
+D$(f
+HcSlH
+L$HE
+\$0L
+@tLH
+D$8H
+5Zm.
+t$XH
+L$hdH3
+x[]A\A]A^A_
+T$HE
+=~J.
+5}J.
+-CJ.
+L$HH
+\$PH
+t$@L
+l$LH
+l$LH
+@uZA
+>9|$
+L$HE
+D$HE
+u*9T$8
+9T$8
+ATUH
+|$HH
+[]A\
+ATUH
+[]A\
+[]A\
+AUATUSH
+tH;P
+dH34%(
+[]A\A]
+d$ 1
+|$hH
+AWAVAUATI
+L$ dH
+L$81
+D$0H
+L$ H
+L$8dH3
+H[]A\A]A^A_
+t$ H
+D$(H
+L$(H
+AWAVI
+AUATI
+D$h1
+AVAUE1
+t$(1
+_AXt8H
+\$hdH3
+x[]A\A]A^A_
+T$(H
+t$ H
+T$(H
+t$ H
+T$(H
+t$ H
+-LZ.
+T$(H
+t$ H
+T$(H
+t$ H
+t>f.
+D$ L
+L;d$(r
+5&Y.
+\$0H
+[]A\
+|$xH
+t$ H
+D$ A9
+$tGL
+D$$A9D$
+\$ 1
+|$hH
+ATU1
+D$(1
+\$(dH3
+0[]A\
+D$p1
+ATUA
+[]A\
+t,E1
+ATUH
+|$HH
+[]A\
+\$ 1
+|$hH
+AUATUSH
+[]A\A]
+AVAUATUSH
+[]A\A]A^
+$A9F
+AWAVI
+AUATI
+[]A\A]A^A_
+AUAT1
+tp9P
+[]A\A]
+[]A\A]
+tX9P
+Z[]A\
+[]A\
+t@9P
+[]A\
+=aK.
+ATUSH
+[]A\
+AUATI
+A9l$
+A9l$
+[]A\A]
+t#Hc
+AWAV1
+AUATA
+([]A\A]A^A_
+AWAVAUATUSH
+ 9-v .
+[]A\A]A^A_
+tqUSH
+~!Hc
+tcHcG
+x0;G
+t;HcG
+xK;G
+u=HcC
+u~ATUSH
+xT;o
+[]A\
+u:HcC
+}EHc
+t"Hc
+xB;C
+AUATA
+ 9-#
+[]A\A]
+AUATI
+[]A\A]
+D$81
+T$8dH3
+D$81
+T$8dH3
+D$81
+T$8dH3
+D$81
+T$8dH3
+AWAVI
+AUATI
+.tmp
+]A\A]A^A_
+[]A\A]A^A_
+AUATI
+[]A\A]
+ATUI
+[]A\
+AWAVM
+AUATI
+D$81
+L$8dH3
+H[]A\A]A^A_
+|$ D
+T$(H
+t$ H
+t$(H
+|$(L
+t$(H
+|$ D
+T$(H
+t$01
+AVAUATD
+[]A\A]A^
+[]A\A]A^
+ATUS
+[]A\
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+MHtx
+?w]I
+HcD$
+H;E8u
+HcD$
+H;E@
+ATUI
+[]A\
+[]A\
+ATUSH
+[]A\
+[]A\
+[]A\
+St>H
+AWAVAUATUSH
+t$(H
+D$\H
+l$8H
+d$XH
+L$ H
+T$pH
+|$4H
+D$(E1
+[]A\A]A^A_
+D$(1
+t$E1
+D$HH
+\$XE
+D$(E1
+\$@H
+C8HcD$<H
+l$$H
+T$xH
+D$xH
+T$PH
+T$xH
+D$xH
+T$PH
+l$8H
+HcD$0
+T$4H
+t$hH
+t$hH
+L$`I
+AWAVA
+AUAT1
+l$@H
+D$x1
+|$(H
+t$0H
+|$81
+|$0A
+|$8H
+L$(H
+T$0H
+t$8H
+t$ H
+d$ I
+|$ 1
+t$ H
+|$(H
+t$0H
+|$81
+|$8H
+|$(H
+\$xdH3
+[]A\A]A^A_
+|$8H
+t$0H
+AUATUSH
+[]A\A]
+AWAVAUATUS
+[]A\A]A^A_
+t.Hc
+AWAVJ
+AUATI
+[]A\A]A^A_
+AWAVAUATUSH
+([]A\A]A^A_
+tQUSH
+ATUSH
+$tbH
+[]A\
+AUATUSH
+t3I9
+[]A\A]
+AWAVAUATUSH
+AUATE
+[]A\A]A^A_
+AUATI
+D$81
+D$8dH3
+H[]A\A]
+AWAVAUATUSH
+([]A\A]A^A_
+AWAVAUATUSH
+D$H1
+D$HdH3
+X[]A\A]A^A_
+AUATUSH
+D$81
+D$8dH3
+H[]A\A]
+D$$E1
+CPY^
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+ATUI
+[]A\
+AWAVAUATUSH
+|$ H
+[]A\A]A^A_
+|$`H
+|$ H
+|$(I
+[]A\A]A^A_
+AWAVAUATUSH
+D$81
+D$8dH3
+H[]A\A]A^A_
+t$0L
+L$0I
+l$4L
+APAWAUL
+L$0D
+VAUM
+A]A_E1
+L$$E
+t$0L
+L$4D
+D$0I
+AWAU
+L$(L
+D$ 1
+T$(H
+T$$E1
+AZA[
+9D$0
+9D$4
+AVAUATUS
+]A\A]A^
+l$8L
+]A\A]A^
+AWAVAUATUSH
+dH3<%(
+[]A\A]A^A_
+D$@H
+L$<1
+T$ L
+\$(H
+\$(D
+\$(D
+\$(L
+L$ H
+L$ D
+\$(D
+\$(L
+\$(L
+L$ A
+L$DE1
+D$@H
+L$<1
+D$@H
+L$<1
+D$HL
+|$`L
+L9l$Hw
+L$(H
+\$<1
+t$8V
+L9l$Hw
+L$ D
+\$(D
+L$ D
+D$<L
+D$PA
+t$PH
+D$@H
+L$<1
+AVAUATUH
+u:f.
+[]A\A]A^
+U@E1
+Bu81
+AWAVAUATI
+u`E1
+[]A\A]A^A_
+[]A\A]A^A_
+ATUI
+[]A\
+AVAUI
+ATUI
+]A\A]A^
+ATUI
+[]A\
+AVAU
+[]A\A]A^
+[]A\A]A^
+AWAVAUATA
+< v\
+[]A\A]A^A_
+D	U0
+ u#f.
+AWAVAUATUSH
+T$HdH
+t$h1
+L$@L
+|$TH
+D$ H
+L$XH
+L$XI
+D$8D
+$pfA
+H9|$
+T$ H
+t$(H
+L$dH
+D$d N
+D$dA
+|$T1
+D$@H
+D$PA
+D$7A
+t$7I
+]HE1
+mPIc
+L$dA
+D$d N
+L$dA
+D$HH
+|$hdH3<%(
+x[]A\A]A^A_
+E;wT
+L$dH
+D$d N
+t$dA
+$pfA
+d$\1
+|$7H
+t$@@
+t$PH
+D$PA
+D$7A
+D$7H
+|$7H
+D$PA
+D$PE
+D$7H
+D$7H
+AWAVE1
+AUATI
+T$0H
+L$ L
+D$XA
+T$T9
+L$H)
+D,_t
+l$\A
+D$\ N
+\$HA
+D$XE1
+D$XI
+D$TI
+D$(E
+l$\M
+t$ H
+|$ H
+t$`L
+D$\ N
+|$\A
+\$0H
+[]A\A]A^A_
+L$,E
+T$8L
+T$81
+\$8D
+|$ H
+t$`1
+T$`L
+|$ H
+D$XI
+l$,E
+T$@L
+\$,D
+T$@E
+\$8t@
+T$(L
+T$(1
+T$,L
+\$(E
+< t <	t
+AWAVI
+AUATA
+|$H1
+\$HdH3
+X[]A\A]A^A_
+UX;UTs5H
+L$0H
+D$0w
+MT;MX
+L$8H
+D$8 N
+UX;UT
+D$0I9
+]T9]X
+L$8L
+D$8 N
+}HE1
+T$0M
+D$0H
+T$0M
+T$0A
+D$0I9
+C8H;C@r
+D$0H
+|$@1
+D5\D
+l$@H
+L$AD
+l$BD
+|$@1
+|$@H
+t$AD
+|$@~
+edE1
+D$0A
+L$8L
+D$8 N
+E$E1
+|$8D
+\$8D
+\$,D
+L$(D
+D$$D
+D$0D
+L$(D
+\$,A
+|$@H
+ATUH
+[]A\
+?<=w
+[]A\
+[]A\
+[]A\
+AUATUSH
+<$Lc
+[]A\A]
+AWAVAUATI
+dH3<%(
+([]A\A]A^A_
+t(M9
+AWAVI
+AUATUSD
+D$H1
+|$ H
+L$8H
+T$<H
+t4IcV A
+D$@A
+l$@H
+l$@H
+t$@D
+l$@A
+\$HdH3
+X[]A\A]A^A_
+IcV A
+IcF A;F$t
+IcF 
+ATUSH
+D$H1
+T$HdH3
+P[]A\
+AUATI
+[]A\A]
+[]A\A]
+tX[]A\
+[]A\
+-!u-
+AWAVAUATI
+~sHc
+dH3<%(
+[]A\A]A^A_
+D$4L
+D$$Hc
+L;|$
+L$4D
+D$0L
+L$$D
+D$ Hc
+~qHc
+AVAUM
+ATUH
+[]A\A]A^1
+t;~!
+ts<=
+t<<=w
+< uDH
+t)<"ufH
+[]A\
+AWAVAUATUSH
+|$(H
+t$ H
+D$(H
+=t^H
+[]A\A]A^A_
+L$ I
++tcH
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AUAT
+[]A\A]
+[]A\A]
+AVAUA
+ATUI
+=Ws-
+]A\A]A^
+ATUI
+[]A\
+u=AWAVAUATUSH
+[]A\A]A^A_
+=%o-
+/usr/shaH
+/optionsI
+re/gnupgfA
+.skeL
+/gpg.con
+[]A\A]A^A_
+????-??-
+AWAVI
+AUATUSH
+D$X1
+HcS 
+D3(uZI
+t$0H
+T$ H
+D$XdH3
+h[]A\A]A^A_
+D$01
+D$0L
+l$ L
+HcS 
+HcS 
+d$ H
+dH34%(
+tUrC
+tArG
+	tEw#
+ATUH
+ []A\
+ATUH
+ []A\
+AWAVAUATI
+[]A\A]A^A_
+AVAUATUI
+[]A\A]A^
+AUATUSH
+W@H9
+K Lc
+S@H9
+S@H9
+]A\A]
+S@H9
+]A\A]
+O@H9
+K@H9
+=.D-
+AUATUSH
+C8H;C@r
+[]A\A]
+AWAVI
+AUATA
+D$h1
+G8H;G@
+#uFD
+t$hdH34%(
+x[]A\A]A^A_
+F8I;F@
+=vA-
+F8I;F@
+T$,H
+T$ D
+T$,D
+t$ E
+T$ D
+D$<1
+=E>-
+D$<E1
+T$<K
+=h=-
+=B=-
+56=-
+t$@L
+F8I;F@
+D$4L
+D$L9
+F8I;F@r
+t$@L
+L$@D
+D$8-
+D9l$
+t$<1
+T$<H
+C`I)
+D;l$
+F@H9
+L$ H
+F8I;F@r
+=i8-
+=D8-
+588-
+=u7-
+=:7-
+D$L9
+L$LI
+D$5A
+F8I;F@
+D$4A
+F8I;F@
+F8I;F@
+D$<t
+|$8e
+D$8A
+=n5-
+D$4I
+T$PI
+|$UH
+D$4E
+|$PH
+F8I;F@r
+D$8H
+D$PH
+F8I;F@
+D$4E
+D$8I
+l$P1
+F8I;F@r
+L$8H
+=e2-
+L$<H
+==2-
+D$8A
+F8I;F@r^L
+D$HL
+D$4E
+D$81
+=I1-
+=q0-
+L,=H
+=UB-
+AWAVM
+AUATUSH
+t$H1
+D$DM
+D9t$
+D;$$
+t$HdH34%(
+X[]A\A]A^A_
+D$0H
+T$(L
+\$ H
+T$(L;T$
+T$8L
+\$(A
+L$ L
+\$(L
+T$8H
+D$0H
+\$ H
+=Y*-
+\$ H
+\$ H
+=e)-
+\$ H
+\$ f
+\$ H
+\$ H
+\$ H
+=-'-
+=p&-
+=|%-
+\$ H
+=u$-
+D$0L
+\$(H
+\$ L
+H9\$
+\$ M
+=N"-
+D$0L
+\$(H
+\$ L
+H;\$
+\$(L
+D$ L
+5`!-
+D$ L
+=0!-
+t	[]A\
+|$HH
+[]A\E1
+HcM0H
+AWAVI
+AUATA
+G8H;G@rkH
+([]A\A]A^A_
+C8H;C@
+C8H;C@
+C8H;C@
+C8H;C@
+C8H;C@
+S8H;S@
+}@E1
+}HE1
+}@E1
+}HE1
+}@E1
+}@E1
+Degas are we not drawn onward no In union drawn onward to new eras aged
+}@E1
+}@E1
+}@E1
+}@E1
+}@E1
+AWAVAUATUSH
+[]A\A]A^A_
+ATUSH
+[]A\
+[invalidH
+ image]
+AWAVAUATUSH
+C8H;C@
+C8H;C@
+A[A]D
+dH34%(
+[]A\A]A^A_
+T$@E1
+l$ L
+d$(A
+G8I;G@r
+l$ I
+d$(A
+t$@D
+l$PA
+uaI)
+C8H;C@
+D$BA
+C8H;C@
+|$BI
+C8H;C@
+D$CH
+C8H;C@
+D$DH
+C8H;C@
+D$EA
+D$8H
+C8H;C@r
+C8H;C@
+C8H;C@
+C8H;C@
+S8H;S@
+C8H;C@
+C8H;C@
+D$BI
+D$CH
+D$DH
+s@H9
+s@H9
+C8H;C@r
+C8H;C@
+C8H;C@
+C8H;C@
+C8H;C@
+D$	PA
+C8H;C@r
+C8H;C@r
+C8H;C@r
+D$4I
+D$4H
+H;D$8
+C8H;C@r
+C8H;C@
+C8H;C@
+t$4H
+C8H;C@r
+C8H;C@r
+C8H;C@r
+C8H;C@
+C8H;C@
+C8H;C@
+C8H;C@
+C8H;C@
+C8H;C@
+C8H;C@r
+d$8u0
+C8H;C@r
+C8H;C@r
+C8H;C@
+D$	A
+d$81
+D$8D
+L$	H
+A^A_
+C8H;C@r
+C8H;C@r
+D$(1
+L.	H
+C8H;C@s"H
+AUATI
+[]A\A]
+AWAVI
+AUATI
+UATE1
+[]A\A]A^A_
+AUATI
+D$(1
+D$,H
+T$(dH3
+8[]A\A]
+AVAUI
+ATUI
+D$(1
+ATAU1
+D$,H
+T$(dH3
+0[]A\A]A^
+AUATUSH
+D$(1
+AUAT1
+D$,H
+T$(dH3
+8[]A\A]
+AUATA
+[]A\A]
+t/H9=]
+t:US
+D$81
+D$8dH3
+AWAVA
+AUATUSH
+[]A\A]A^A_
+ATUSH
+T$#H
+[]A\
+[]A\H
+[]A\
+AWAV
+AUATUSH
+t$ H
+8[]A\A]A^A_
+L$(1
+\$ H
+ATUH
+ATSA
+[]A\
+u_USH
+u_USH
+ATUH
+[]A\
+ATUH
+[]A\
+AUATI
+[]A\A]A^
+]A\A]A^
+AVAUI
+ATUI
+D$H1
+IcD$ A;D$$
+T$ A
+IcE A;E$
+C8H;C@r
+D$HdH3
+P[]A\A]A^
+C8H;C@r
+IcU A;U$
+uEIcT$ A
+L$$9
+D$ A
+T$ A
+IcD$ A;D$$
+T$ A
+IcT$ A
+L$$9
+D$ A
+T$ A
+IcE 
+IcD$ 
+IcD$ 
+IcT$ A
+IcT$ A
+IcU 
+AWAVA
+AUATI
+D$H1
+G8H;G@
+HcG ;G$
+<$HcG ;G$
+tIH9
+H9-q
+t$HdH34%(
+X[]A\A]A^A_
+HcG ;G$
+<$HcG ;G$
+G8H;G@
+HcW ;W$
+HcW ;W$
+G8H;G@
+HcW 
+HcW 
+<$HcG 
+<$HcG 
+<$HcG 
+{ Hc
+<$HcG 
+AVAUI
+ATUI
+D$(1
+L$(dH3
+0[]A\A]A^
+AWAVE
+AUATI
+D$81
+L$8dH3
+H[]A\A]A^A_
+AWAVAUATI
+D$(1
+L$(dH3
+8[]A\A]A^A_
+AWAVI
+AUATH
+tG93u
+dH3<%(
+([]A\A]A^A_
+HcE 
+HcE 
+AWAVM
+AUATI
+dH34%(
+([]A\A]A^A_
+D$8<
+HcH I
+T$ A
+L$ A
+T$ A
+D$ E
+IcL$ A
+T$ A
+L$ A
+IcL$ 
+L$ A
+T$ A
+L$ A
+T$ A
+IcL$ A
+AUATUSH
+;GDI
+A;l$p
+D$hH
+([]A\A]
+AVAUI
+ATUI
+[]A\A]A^
+[]A\A]A^
+AWAVM
+AUATM
+D$H1
+T$ H
+t$0H
+9D$0
+\$HdH3
+X[]A\A]A^A_
+|$/D
+t$0L
+t$@L
+T$DH
+L$AH
+L$BH
+9D$0
+D$ E1
+9D$0u
+9D$4
+9D$4
+9D$0
+9D$4
+9D$4
+t$@L
+ATUI
+<^w$
+[]A\
+ATUH
+[]A\
+AWAVAUATI
+[]A\A]A^A_
+t0E1
+ELA9
+[]A\H
+AVAUATUSH
+[]A\A]A^
+AWAVAUATI
+[]A\A]A^A_
+AWAVAUATA
+XZt	
+[]A\A]A^A_
+ELD9
+AWAVI
+AUATA
+([]A\A]A^A_
+AWAVI
+AUATA
+D$81
+t$ L
+D$8dH3
+H[]A\A]A^A_
+AWAVA
+AUATA
+([]A\A]A^A_
+ATUSH
+ []A\
+AWAVAUATUSH
+t$ L
+|$@t6f
+H9\$
+|$@D
+PAU1
+[]A\A]A^A_
+t$ H
+AWAVAUATI
+E9up~
+[]A\A]A^A_
+AWAVI
+AUATI
+D$(1
+F(H9F 
+H9\$
+H9\$
+D$(dH3
+8[]A\A]A^A_
+H9\$
+GD9G<
+GH9G@
+H9\$
+AWAVI
+AUATUS
+t$@1
+[]A\A]A^A_
+_AXE
+t$PH
+l$TI
+d$PH
+SAVM
+A]A^
+t$81
+ t	M
+t$PH
+L$TD
+D$PH
+~XE1
+t$`L
+L$0E
+D$(E
+L$dD
+D$`I
+AVAU
+L$ L
+t$`L
+L$dD
+D$`I
+AVAU
+L$ L
+A]A^
+5a~,
+5A~,
+50~,
+D$8=
+5p},
+5Q},
+5!},
+=d|,
+5A|,
+59{,
+5&{,
+5qz,
+t$ M
+T,o1
+L9l$@I
+_AXL
+54x,
+5#x,
+t$ME1
+D$LA9
+|$ H
+T$HH
+5~t,
+T$HH
+=It,
+59s,
+5&s,
+5uKA
+T$@H
+t$pL
+AVAUATUA
+D$(1
+5ap,
+5Kp,
+D$(dH3
+0[]A\A]A^
+AVAU
+ATUI
+D$(1
+5qn,
+5[n,
+5am,
+5Km,
+D$(dH3
+0[]A\A]A^
+T$ H
+H;D$
+th;=6^,
+=	z,
+t+H9=Ej,
+@wZHc
+0<	vX1
+ uJSH
+CARD
+t5<9~
+AVAUATUSH
+dH34%(
+ []A\A]A^
+HcD$
+< t	<	u
+<	t+< u
+<	t#< u
+	tMH
+t$cH
+t$wH
+AUATUSH
+t_<	th< tdH
+< ts<	toH
+[]A\A]
+<eu<
+<	u0I
+[]A\A]
+[]A\A]
+AVAUI
+ATUI
+I9\$ w
+.[]A\A]A^
+]A\A]A^
+AVAUI
+ATUSH
+D$(1
+H9\$
+L$(dH3
+0[]A\A]A^
+AWAVAUATI
+D$ H
+t$0H
+|$(A
+L$ E1
+w_I)
++tTA
+[]A\A]A^A_
+D$0H
+ATUI
+[]A\
+Sh>nK
+AVAUI
+ATU1
+[]A\A]A^
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AUATI
+[]A\A]
+[]A\A]
+ATU1
+ZYu6
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+H9k w
+D$(1
+\$(dH3
+ATUI
+[]A\
+SCD GETAH
+TTR 
+ATUSH
+D$(1
+tfSh`
+ZYu0H
+T$(dH3
+0[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+SCD SETAH
+TTR 
+ txL
+ZYuW
+ATUA
+|$@A
+l$(L
+d$01
+|$ j
+L$0H
+Y^u0
+[]A\
+|$@A
+L$ H
+AUATM
+-3S,
+[]A\A]
+|$0A
+\$(H
+D$ `
+T$@H
+[]A\
+SCD CHECf
+KPIN
+AWAVI
+AUATUSH
+L$81
+T$(t	
+L$4L
+L$8dH3
+H[]A\A]A^A_
+L$4L
+L$4L
+L$4E1
+D$4L
+t$ H
+D$(L
+t{H9
+L$4L
+AWAVM
+AUATM
+[]A\A]A^A_
+D$2H=
+SCD SETDM
+D$HATA H
+d$LH
+H;,$u
+L$@H
+|$ L
+AVAUH
+T$,L
+D$0A
+AWAVM
+AUATI
+[]A\A]A^A_
+D-2H=
+SCD SETDM
+D$HATA H
+l$LH
+L;d$
+AXAY
+|$@I
+L$0H
+|$ L
+AWAV
+L$ H
+AWAVAUATUSH
+uMD9
+([]A\A]A^A_
+ATUE1
+[]A\
+AUATUSH
+l$(L
+T$0H
+[]A\A]
+]A\A]
+(tNA
+)t`1
+<	w$A
+t{wA
+t0rV
+UStOH
+AWAVA
+AUATA
+[]A\A]A^A_
+AVAUATS
+ZYu)H
+[A\A]A^]
+ATUH
+[]A\
+[]A\
+ATUI
+[]A\
+AUATI
+toHc
+tFHc
+[]A\A]
+[]A\A]
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+ATUH
+[]A\
+[]A\
+ATUH
+[]A\
+[]A\
+[]A\
+<1t)<2tU<3
+AVAUI
+ATUH
+[]A\A]A^
+d$ M
+t$(H
+T$PH
+T$XH
+T$`H
+T$hH
+=/9,
+t$(H
+l$0H
+l$@H
+l$HH
+t$sH
+t$sH
+|$ H
+AVAUATUH
+[]A\A]A^
+tHLc
+L$ D
+AWAVAUATUSH
+[]A\A]A^A_
+u<D;
+t$ H
+{Lte
+tR<9~
+AWAVAUATI
+D$(H
+D$ f
+<#uRH
+T$8H
+t$0H
+[]A\A]A^A_
+|$@1
+|$pH
+|$@1
+D$@H
+D$XH
+t$(H
+|$PH
+t$81
+L;t$ I
+PRIVATE-H
+DO-X
+t$8H
+D$@H
+D$@H
+t$P1
+t$8Hc
+[CHVf
+|$@E1
+t3USH
+thATUH
+EHE1
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+AWAVA
+AUATM
+t$ H
+D$81
+D$(A
+T$$H
+t$ L
+T$$uz1
+T$ H
+L$0A
+T$2D
+|$8dH3<%(
+H[]A\A]A^A_
+AWAVAUATUSH
+D$(1
+L$(dH3
+8[]A\A]A^A_
+ATUE1
+[]A\
+AWAVE
+AUATI
+D$`1
+dH34%(
+([]A\A]A^A_
+AWAVI
+AUATM
+D$X1
+D$<M
+D$HH
+D$@H
+\$(L
+T$ H
+D$(H
+L$ H
+T$@H
+L$HL
+\$(L
+T$ H
+D$HH
+D$@H
+T$HI
+t$XdH34%(
+h[]A\A]A^A_
+\$(L
+T$ B
+L$@A
+|$HH
+|$ I
+T$ L
+t$HH
+|$@H
+\$(L
+T$ L
+D$@H
+L$PH
+t$HH9
+\$(L
+T$ L
+|$HI
+|$@H
+T$ L
+\$(t7A
+t$HH
+|$@H
+\$(L
+T$ L
+ATUE1
+ []A\
+FtqA
+AUATUSH
+D$(1
+sign
+encr
+auth
+WHHc
+D$(dH3
+8[]A\A]
+D$HH
+WltJ
+D$81
+N<9~
+D$ H
+Yu:H
+<tGH
+\$8dH3
+AWAVAUATUSH
+D$81
+|$8dH3<%(
+H[]A\A]A^A_
+AUATUSH
+dH34%(
+([]A\A]
+AWAVI
+AUATI
+D$(1
+l$xu_A
+D$(dH3
+l$pH
+[]A\A]A^A_
+/uhH
+R<9~
+\$(dH3
+8[]A\A]A^A_
+AVAUA
+ATUH
+D$X1
+D$XdH3
+`[]A\A]A^
+AWAVAUATI
+NHIc
+@hQR
+[A\A]A^A_]
+OPENPGP.
+AUATI
+D$(1
+L$(dH3
+8[]A\A]
+AWAVI
+AUAT1
+dH34%(
+[]A\A]A^A_
+D$8D
+ZYtz
+t$0H
+|$(H
+t$8H
+L$@H
+t$8H
+L$HH
+T$`ARL
+t$`L
+AWAV1
+AUATI
+D$81
+t$8dH34%(
+H[]A\A]A^A_
+L$8A
+\$ H
+T$ L
+L$0A
+|$0H
+l$0H
+t$0M
+t$0L
+L$0H
+T$(E1
+t$0M
+\$0H
+L$0L
+\$0H
+l$0L
+\$ I
+\$0H
+t$0M
+D$(H
+l$0L
+\$0H
+AWAVAUATUSH
+D$(1
+|$(dH3<%(
+8[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+D$PH
+L$(H
+T$ E1
+t$(H
+L$(M
+l$PL
+l$PL
+ATUM
+AYAZ
+D$PH
+D$PH
+D$PH
+AWAVAUATUSH
+D$(1
+L$(dH3
+8[]A\A]A^A_
+L$ L
+D$ H
+AWAVH
+AUATM
+[]A\A]A^A_
+D$0H
+D$ H
+phE9
+D$PD
+D;t$
+D9t$
+D$htbL
+D$ I
+L$0L
+t$PL
+D$ H
+t$XI
+H9D$
+H9D$
+T$0I
+D$ H
+D$@I
+D$(H
+T$8H
+L$(L
+t$8H
+L$(t
+L$@H
+T$(H
+D$`L
+T$@H
+T$xH
+T$@I
+L$@H
+T$(H
+L$(H
+T$`H
+L$`H
+t$HH
+H9T$
+D$(H)
+|$(1
+L$(H
+T$ H
+t$PH
+L$ H
+T$0H
+t$XH
+L$0Ik
+|$8H
+t$hH
+H9L$pI
+AWAVA
+AUATA
+D$81
+L$8dH3
+H[]A\A]A^A_
+D$HH
+D$4H
+L$0H
+AWAV
+AUATI
+D$81
+\$8dH3
+H[]A\A]A^A_
+qXvX
+D$(H
+L$ 1
+T$(H
+A9D$
+t$(H
+|$ H
+H+D$ H
+|$(H
+T$0H)
+T$0H
+EPPiC
+CX L
+CX@L
+$uZM
+uUE1
+D$h1
+|$hdH3<%(
+|$hdH3<%(
+ATUL
+XZu'H
+u(RQA
+APPA
+AWAV
+AUATUSH
+|$PA
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+u-RAQ1
+APPA
+[]A\
+ATUSH
+l$ t
+[]A\
+USAPRA
+[]A\
+AWAVAUATUSH
+l$`L
+d$ht
+([]A\A]A^A_
+ATU1
+D$4D
+APAWA
+[]A\A]A^A_
+ATUD
+APSA
+ATUSH
+l$ t
+[]A\
+USAPRE1
+[]A\
+ATUSH
+l$ t
+[]A\
+UAQL
+APRE1
+[]A\
+ATUSH
+l$ t
+[]A\
+UAQL
+APRE1
+[]A\
+AWAVAUATUSH
+D$(1
+L$(dH3
+8[]A\A]A^A_
+|$ L
+d$ M9
+l$ M
+AWAVE1
+|$<1
+D$(dH3
+[]A\A]A^A_
+AWAVAUATUSH
+D$(1
+\$(dH3
+8[]A\A]A^A_
+t$(E
+T$(RP1
+t$ H
+T$ H
+D$ H
+D$ H
+w!I9
+v,I)
+D$ H
+L$(1
+t$(VP1
+D$(dH3
+[]A\A]A^A_
+D$(1
+|$(dH3<%(
+D$(A
+D$(Pj
+D$ H
+D$(dH3
+l$(f
+D$ H
+_AXtx<
+[]A\
+D$ H
+ZYuh
+AVAUI
+ATUI
+$ZYH
+[]A\A]A^
+AVAUA
+ATUI
+[]A\A]A^
+D$X1
+D$XdH3
+t$XdH34%(
+tHATUHc
+[]A\
+ATUA
+D$81
+T$8dH3
+@[]A\
+AWAVI
+AUATI
+AWRD
+[]A\A]A^A_
+AUATA
+[]A\A]
+{hPL
+D$(H
+L$ H
+XZt6L
+!wGH
+w(Hc
+AWAVI
+AUATI
+USHc
+D$(1
+XZuvH
+D$(dH3
+[]A\A]A^A_
+L$(dH3
+8[]A\A]A^A_
+AWAVA
+AUAT
+dH34%(
+[]A\A]A^A_
+D$ H
+D$`H
+\$D1
+l$\H
+\$ L
+l$`D
+|$pD
+l$tA
+d$|H
+\$PH
+D$hD
+|$\A
+L;d$H
+D$HL)
+D$(J
+D$ H
+D$hL
+T$(H
+|$ 1
+\$ L
+|$DL
+D$HH
+D$HL
+\$(L
+D$0L
+D$8H
+D$0H
+|$tLc
+|$x@
+|$|@
+T$XA
+\$DD
+|$pH
+L$ D
+L$ H
+|$0D
+\$D1
+Lcd$\
+D$8H
+t$`H
+HiD$
+|$ A
+D$ H
+t$`D
+L$ D
+I+.H
+t$`H
+t$`D
+|$0D
+AWAVAUATI
+5a}+
+=2}+
+=i|+
+53|+
+[]A\A]A^A_
+=1z+
+5Tu+
+--u+
+-7u+
+=au+
+uVUS1
+ATUH
+u	[]A\
+AUATUSH
+wqHc
+[]A\A]
+]A\A]
+t$@E
+t$@V
+t$8h
+AWAVAUATUS
+[]A\A]A^A_
+\$ D
+D$ I
+D$`A
+|$XH
+\$0D
+T$(L
+D$XE1
+\$0D
+D$XH
+T$(L
+T$XH
+\$(D
+T$XH
+\$(L
+l$DH
+\$HH
+t$(I
+D$ I
+D$XH
+D$XE1
+D$XH
+T$XH
+t$8H)
+D$0H
+t$8H
+T$XH
+T$XH
+D$0A
+\$HD
+l$DL
+T$XH
+\$(D
+\$(E
+T$XH
+l$DL
+D$h1
+D$hdH3
+AUATD
+%UQ+
+D$x1
+-BP+
+|$xdH3<%(
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+l~NA
+=3F+
+S@E1
+S@E1
+ATUI
+[]A\
+[]A\
+AWAVI
+AUATE1
+D$PD
+[]A\A]A^A_
+-{<+
+=&;+
+AUATI
+t$ H
+[]A\A]
+[]A\A]
+L$@@
+5k8+
+=87+
+-:6+
+D$x1
+D$xdH3
+AWAVM
+AUATI
+D$x1
+L$xdH3
+[]A\A]A^A_
+ZYt<
+AVAUATUSH
+<]wrH
+dH34%(
+[]A\A]A^
+AWAV
+AUATUSH
+|$(H
+T$HH
+L$`L
+D$PH
+|$XH
+L$pH
+|$0H
+|$8H
+|$@H
+|$hH
+T$'t
+D$`H
+D$PH
+D$pH
+D$XH
+D$hH
+D$xL
+(E;l$
+L+d$
+D$xH
+5i,+
+t$ H
+thx>
+l$PM
+t$XH
+D$`H
+D$HH
+D$hH
+dH34%(
+[]A\A]A^A_
+t$,1
+#X:0
+Mcf L
+IcF H
+|$pH
+t$,1
+D$XH
+D$HH
+D$HL
+ATUH
+D$H1
+D$0PH
+D$,PH
+D$0PH
+D$4PH
+D$8PL
+L$pL
+D$hH
+L$PH
+T$0H
+D$(H
+D$ H
+T$@H
+|$(H
+L$HdH3
+P[]A\
+D$0PH
+D$,PH
+D$0PH
+D$4PH
+D$8PL
+L$pL
+D$hH
+L$PH
+%q!+
+52!+
+T$0D
+|$81
+C@E1
+=M +
+D$81
+D$(PH
+D$$PH
+D$(PH
+D$,PH
+D$0PL
+L$`L
+D$XH
+D$ H
+T$0H
+L$8dH3
+AWAVAUATUSH
+D$(1
+xzu@
+t$(dH34%(
+8[]A\A]A^A_
+L9D$
+AVAUATUSH
+o,dH
+D$x1
+T$xdH3
+[]A\A]A^
+^_u\D
+AWAVI
+AUATI
+tTE1
+D$ b
+[]A\A]A^A_
+t$ 1
+L$(H
+t$0E
+D$'@tH
+t$*L
+D$ l
+D$ a
+D$-A
+t$ 1
+L$(H
+D$ o
+t$ 1
+L$(H
+t$ 1
+L$(H
+AYAZ
+D$ a
+D$'@
+AWAVAUATI
+D$`M
+L$@I
+D$PH
+D$X@
+D$8H
+Hcl$(
+D$ H
+Mco<L9
+L$0H
+D$0M
+L$LM
+dH3<%(
+[]A\A]A^A_
+D$8A
+F@@H
+D$XE
+L$xH
+\$hH
+<(H)
+L$ H
+Hcl$(
+t<H9\$P
+|$@H
+H)\$P
+D$@H
+D$XH
+D$pH
+D$ A
+D$pA
+I;FHH
+~XE1
+^HE1
+|$pE1
+|$zH
+D$po
+t$p1
+L$xH
+D$hH
+H9l$P
+T$PD
+|$@H
+D$XH
+AWAVAUATI
+$tzH
+dH34%(
+[]A\A]A^A_
+D$ A
+D$4	
+D$1A
+D$6A
+D$7A
+D$9A
+D$:A
+D$;A
+D$<t
+t$ 1
+L$ H
+AUATUSH
+[]A\A]
+[]A\A]
+ATUSH
+D$(1
+L$(dH3
+0[]A\
+H;\$
+AUATA
+t$ H
+D$81
+t$ H
+H)\$
+D$8dH3
+H[]A\A]
+AWAVAUATA
+D$(1
+t$ 1
+=H	+
+td:C
+t	:C
+|$ H
+L$(dH3
+8[]A\A]A^A_
+AVAUATUI
+D$(1
+D$8H
+L$(dH3
+0[]A\A]A^
+t$8txI
+d$81
+d$81
+t-USH
+AWAVAUATUSH
+D$H1
+t$8H
+|$8H
+\$8H
+D$!I
+t$`L
+D$(E1
+L$HdH3
+X[]A\A]A^A_
+|$0M
+t$01
+|$@H
+D$ H
+t$8H
+t$8I
+AWAVAUATUSH
+d$PI
+DlPA
+T$Rf
+dH34%(
+[]A\A]A^A_
+ATUSH
+[]A\
+t-USH
+AWAV
+AUAT
+[]A\A]A^A_
+AWAVH
+AUATI
+L$81
+t$8dH34%(
+H[]A\A]A^A_
+D$(H
+L$ H
+T$(L
+f9T$
+$9D$0u
+9D$4u
+AUATI
+E	8C
+([]A\A]
+AUATI
+ t8I
+[]A\A]
++t/A
+AUATI
+OPTION 
+]A\A]
+AWAVAUATA
+[]A\A]A^A_
+AWAVAUATA
+[]A\A]A^A_
+AWAVI
+AUATA
+D$(H
+D$pE
+D$8M
+GET_PASSH
+PHRASE 
+t$0H
+t$8E1
+|$01
+\$pH
+[]A\A]A^A_
+T$ M
+D$0uMA
+tH;S
+|$ H
+t$hH
+D$PH
+D$hH
+|$8H
+|$ H
+|$PH
+|$HH
+|$XH
+t$HH
+L$hQAUH
+\$p1
+D$xI
+D$pH
+|[>L
+GET_PASSH
+PHRASE 
+Do nine men interpret Nine men I nod
+D$(H
+AWAVAUATUSH
+D$(1
+CLEAR_PA
+SSPHRASEf
+D$(dH3
+8[]A\A]A^A_
+CLEAR_PA
+SSPHRASEM
+AWAVI
+AUATI
+Y^u6
+[]A\A]A^A_
+AWAVA
+AUATI
+D$<L
+AXAYu
+D$ D
+L$ D
+t$(D)
+HcT$
+|$0H
+D$ D
+D$(L
+D;|$
+9C$u
+HcC 
+D$ L
+[]A\A]A^A_
+D$DH
+D$@H
+D$ H
+tQA;U
+tKA;E
+D$ D
+AWAVAUATUSH
+D$x1
+D;t$
+L$xdH3
+[]A\A]A^A_
+t$0H
+D$,H
+D$$H
+|$`H
+t$,H
+|$`f
+|$`H
+|$`H
+|$`H
+D$,E1
+L$,H
+f9D$
+|$01
+t$0H
+L$4D
+D$0H
+)D$,I
+D$,H
+D$,L
+D$,L
+AWAVAUATUSH
+t_E1
+[]A\A]A^A_
+t$0A
+|tpM
+D4PI
+D40L
+t$,1
+;T$,
+L$,L
+D$,L
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+C8H;C@r
+C8H;C@r
+[]A\A]A^A_
+T$ A
+T$$fA
+T$$H
+ATUH
+[]A\
+[]A\
+[]A\
+AWAVAUATUSH
+D$H1
+AXAYE
+L9<$t
+G8H;G@r
+L4 8L
+L$HdH3
+X[]A\A]A^A_
+L9<$
+G8H;G@r
+AWAVAUATUSH
+D$X1
+L$XdH3
+h[]A\A]A^A_
+T$(D
+D$ H
+t$@D
+T$@H
+t$@D
+HcG ;G$
+{ HcG ;G$
+T$BH
+L$BH
+T$@H
+t$@H
+{ HcG 
+T$@HcG 
+AUATUSH
+D$(1
+$HcV
+T$!H
+D$(dH3
+8[]A\A]
+AVAUI
+ATUI
+L$H1
+T$ H
+t$ Hc
+L$HdH3
+P[]A\A]A^
+AWAVAUATUSH
+D$(1
+L$(dH3
+8[]A\A]A^A_
+AWAVA
+AUATE1
+|$0H
+L$ H
+l$(A
+[]A\A]A^A_
+l$(u	H
+D$ H
+Y^t	
+AWAVE1
+AUATA
+t$(H
+|$PH
+T$ H
+|$@E
+T$ H
+|$ H
+|$ H
+|$ H
+L$ H
+t$(H
+|$@E1
+[]A\A]A^A_
+|$81
+|$ L
+l$8H
+|$81
+|$@I
+t$H1
+|$ L
+t$HE
+|$@L
+|$81
+|$81
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+]A\A]A^A_
+AUATUSH
+[]A\A]
+AWAVE
+AUATE1
+[]A\A]A^A_
+D$ H
+ATUH
+[]A\
+HcG 
+HcC 
+AWAVAUATI
+([]A\A]A^A_
+AVAUATUSH
+D$(1
+D$(dH3
+0[]A\A]A^
+AWAVAUATUSH
+([]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+T$(H
+t$@H
+H;\$(r
+ATUH
+[]A\
+[]A\1
+AWAVA
+AUATM
+5bp*
+[]A\A]A^A_
+|$0H
+l$8M
+5]_*
+t$(H
+D$8H
+;D$ 
+|$`L
+|$0H
+D$8I;D$@s
+D$8I
+D$8I;D$@r
+5)j*
+L$(D
+T$PH
+t$8H
+D$0H
+|$(H
+|$`L
+F8I;F@s
+F8I;F@r
+|$(H
+|$(H
+|$0H
+|$01
+AWAVE1
+AUATI
+|$ L
+=CU*
+[]A\A]A^A_
+5 S*
+t$ H
+=R`*
+=8`*
+AWAVI
+AUATUSH
+=`^*
+55^*
+[]A\A]A^A_
+|$PL
+5/]*
+=cZ*
+=2Z*
+T$@H
+t$ H
+AWAVAUATUSH
+L$hv
+5$Y*
+T$pA
+D$pA
+D$xA
+[]A\A]A^A_
+AWAVAUATUSH
+=aV*
+[]A\A]A^A_
+[]A\A]A^A_
+t$XH
+[]A\A]A^A_
+AWAV
+AUATE1
+\$@dH
+[]A\A]A^A_
+AUATA
+[]A\A]
+T$01
+dH34%(
+AVAUATI
+]A\A]A^
+AVAUI
+ATUH
+ []A\A]A^
+AWAVA
+AUAT1
+D$(H
+0<	v)E
+8[]A\A]A^A_
+AWAVAUATUSH
+t$pH
+|$8H
+[]A\A]A^A_
+|$8A
+t$p1
+t$HH
+D$ H
+t$`H
+t$P1
+|$8H
+|$PM
+T$XH
+D9up
+T$@1
+|$@H
+9D$`u
+9D$du
+L9t$
+A8L$
+L$/u
+T$8H
+t$HL
+AWAVAUATUSH
+t$PL
+[]A\A]A^A_
+t$P1
+t$(L
+t$@L
+T$ 1
+|$ H
+t$8H
+|$ 1
+|$ H
+=Y:*
+T$01
+AWAVAUATUSH
+=D9*
+[]A\A]A^A_
+|$@1
+AUATI
+toHc
+tFHc
+[]A\A]
+[]A\A]
+[]A\
+AWAVI
+AUATL
+D$(1
+PAR1
+?t1A
+5uFH
+T$pE1
+\$(dH3
+8[]A\A]A^A_
+-?4*
+t$ L
+AWAVE1
+AUATE1
+([]A\A]A^A_
+AWAVAUATUSH
+T$(L
+E;}p
+D$01
+D$@H
+|$ H
+[]A\A]A^A_
+t$ H
+T$ H
+AWAV
+AUATUSH
+[]A\A]A^A_
+AUATA
+[]A\A]
+AWAVAUATUSH
+D$(1
+D$(dH3
+8[]A\A]A^A_
+t$ H
+AWAV
+AUAT
+[]A\A]A^A_
+AWAVAUATA
+dH34%(
+([]A\A]A^A_
+AWAVI
+AUATUSH
+D$81
+|$8dH3<%(
+H[]A\A]A^A_
+t$0L
+D$0A;B
+T$4A;R
+|$8L
+t$(1
+AWAVAUATUSH
+D$(1
+txE1
+L$(dH3
+8[]A\A]A^A_
+t$ H
+9D$ 
+9D$$
+ZYuH
+AWAVAUATI
+D$h1
+t{E1
+|$hdH3<%(
+x[]A\A]A^A_
+t$`H
+9D$`
+9D$d
+l$dL
+L$ L
+T$(H
+L$ A
+L$(L
+T$ 1
+T$ AVh
+|$hL
+D$XI
+l$8L
+L$ L
+T$(t
+L$8L
+l$8L
+T$@H
+L$ H
+l$8L
+L$ L
+AWAVAUATUSH
+L$X1
+L$XdH3
+h[]A\A]A^A_
+D$0H
+l$8A
+hPLE
+QAU1
+D$8H
+T$(H
+AUATUSH
+([]A\A]
+AWAV1
+AUATI
+D$X1
+\$0I
+L$XdH3
+h[]A\A]A^A_
+d$8H
+ShPLE
+|$XH
+T$(H
+AWAVAUATUSH
+L$8H
+|$(dH
+L$H1
+T$0D
+D;kp
+D$HdH3
+X[]A\A]A^A_
+t-E1
+CLA9
+D$ z:L
+D$(H
+l$DD
+t$@H
+|$0L
+D$41
+AWAVAUATUSH
+L$4H
+T$XD
+D$8D
+t$`1
+D$`H
+D$P1
+D$4H
+uo;D$<
+T$8E
+[]A\A]A^A_
+T$4H
+T$(H
+ED$ 
+\$8E
+D$4H
+D$@H
+T$hH
+T$8E
+D$J<L
+D$Jx
+<[^>]+[@fD
+\$@A
+\$@H
+D$@H
+D$@Mc
+D$ +D$<A
+D$pPhPLE
+D$@P
+D$TPAWj
+AVAUI
+ATUL
+]A\A]A^
+5u&M
+AWAVAUATUSH
+D$X1
+\$XdH3
+h[]A\A]A^A_
+|$(H
+Ict$
+t$8H
+D$(1
+D$(H
+|$(H
+|$(I
+UhPLE
+t$8H
+D$HH
+D$(H
+9ODt^
+T$(H
+9GHu
+|$(H
+|$(H
+|$(H
+ATUSH
+D$(1
+D$$H
+L$ H
+L$(L
+D$4H
+L$0H
+L$(dH3
+0[]A\
+AWAVI
+AUATE
+t$`H
+|$xE
+L$h1
+D$0E1
+|$0A
+<#uFL
+D$(A
+\$<E
+T$<E
+L$8	
+|$01
+D$xE
+t$pH
+t$ H
+D$ H
+|$ D
+d$(E
+|$ D
+d$(L
+D$(H
+D$(H
+D$(H
+d$PI
+D$ I
+|$HL
+D$ H
+L$ H
+|$HD
+d$PL
+t$XH
+D$(E
+L$0H
+T$<1
+D$0H
+t$ L
+T$(H
+AUh`
+T$ A
+D$(D
+L$(E
+L$0H
+D$ 1
+[]A\A]A^A_
+q(9rDu
+q,9rHu
+A;D$
+L$PH
+T$(H
+t$H1
+T$ Hcr
+L$ 1
+t$ H
+T$<1
+D$0H
+D$01
+T$ H
+t$(H
+L$ u
+;D$ 
+|$HD
+d$PL
+D$0H
+D$01
+|$HD
+d$PL
+t$XH
+|$HD
+d$PL
+t$XH
+t$(H
+t$ H
+D$@L
+|$@H
+|$@H
+]Zul
+l$ H
+l$hH
+D$0H
+t$ H
+|$@H
+L$ H
+AZA[
+D$PL
+T$PH
+|$ D
+d$(L
+AWAVAUATA
+[]A\A]A^A_
+[]A\
+C8H;C@r
+[]A\
+C8H;C@r
+AUATI
+D$x1
+|$0H
+H9\$
+D$xdH3
+[]A\A]
+AWAVAUATE1
+d$PL
+[]A\A]A^A_
+T$(H
+t$0L
+H;D$(H
+t$PH
+t$ H
+|$PA
+AWAVI
+AUATE1
+D$81
+t$ H
+L$8dH3
+H[]A\A]A^A_
+MLt6
+t#<9~
+AUATI
+[]A\A]
+AWAVAUATUSH
+D$(1
+L$ 9H
+L$$9H
+A9E0
+D$(dH3
+8[]A\A]A^A_
+5Fn)
+=Il)
+AWAVI
+AUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+t$ H
+|$XdH
+T$(H
+L$0D
+L$8H
+D$XH
+D$XH
+D$xL
+t7f.
+dH34%(
+[]A\A]A^A_
+|$x1
+d$XM
+|$XH
+|$X1
+D$ H
+t$XH
+t$ H
+D$(H
+D$ H
+D$(H
+|$XH
+L$8E
+L$PD
+D$HL
+D$HH
+D$@A
+L$HH
+t$@H
+xZHc
+T$xH
+L;l$xr
+t$dH
+T$pH
+L$pH
+D$ E1
+T$@H
+L$HI
+L$@H
+L$@H
+D$@H
+L$HH
+t$@H
+t$hL
+L$@E
+-nv)
+L$@I
+|$XI
+l$hH
+l$hH
+d$hH
+D$0H
+D$0H
+D$0H
+d$(H
+|$0I
+d$(M
+D$0D
+l$HH
+D$0H
+T$`H
+T$0H
+t$(H
+D$`u
+d$pE
+t$hH
+\$(Hc
+F HcD$`H
+F(Ic
+F0HcD$dH
+FpHcD$pH
+DT$@1
+|$hH
+T$@H
+L$HI
+5!k)
+D$dH
+|$hH
+\$(E
+d$`A
+d$dA
+d$pA
+D$ H
+L$(H
+AWAVI
+AUATI
+t$PH
+L$0L
+D$8D
+D$(H
+D$@dH
+D$ H
+[]A\A]A^A_
+D$,H
+L$HL
+T$@H
+AYA[A
+t$(H
+T$Hf
+D$`H
+t$PH
+T$XH
+T$`H
+t$XH
+t$XH
+T$`H
+l$hL
+d$pL
+t$xH
+T$XI
+|$`M
+t$XH
+T$`H
+l$hL
+d$pL
+t$xD
+T$`H
+l$hL
+d$pL
+t$xM
+AWAVA
+AUATI
+D$0H
+L$(H
+[]A\A]A^A_
+D$0H
+L$(H
+AQAPI
+AWAVAUATUSH
+L$ H
+<$dH
+L$X1
+L$XdH3
+h[]A\A]A^A_
+D$(H
+D$0H
+T$8H
+t$@H
+D$8H
+\$(H
+t$@H
+t$8H
+L$ H
+t$8H
+|$(I
+t$ H
+D$0H
+t$81
+~%f.
+L$ L
+|$(1
+t$8H
+L$@H)
+D$81
+L$8dH3
+AWAVAUATUSH
+L$8H
+L$0H
+t$(H
+l$ A
+L$hL
+t$pH
+|$XH
+t$`1
+|$hH
+D$`H
+T$`1
+[]A\A]A^A_
+L$ H
+\$ H
+D$HH
+D$@H
+D$XH
+L$8L
+l$ H
+l$@L
+|$HH
+H9\$ht
+l$@L
+|$X1
+|$pA
+L$@H
+AVAU
+ATUI
+\$PH
+dH34%(
+[]A\A]A^
+;P u
+;H$u
+;P u
+;H$u
+t-USH
+t8ATUH
+t;USH
+ATUSH
+[]A\
+[]A\
+;P u
+9H$u
+AVAUATUI
+uG;+t3H
+[]A\A]A^
+[]A\A]A^
+AWAVAUATUSH
+9P u
+9x$u
+[]A\A]A^A_
+t	A9
+D$81
+D$8dH3
+ATUI
+D$x1
+D$D9
+D$xdH3
+[]A\
+AUATUS
+d$ H
+[]A\A]
+T$pL
+uPUSH
+-~()
+={()
+AWAVA
+AUATA
+|$HH
+[]A\A]A^A_
+T$HH
+D$HH
+D$x1
+D$DH
+T$xdH3
+D$x1
+=L3)
+D$PH
+T$xdH3
+=Z2)
+AWAVI
+AUATI
+D$x1
+D$4A
+D$8I
+D$@I
+D$1A
+D$2A
+D$xdH3
+[]A\A]A^A_
+AWAVAUATE1
+|$(L
+|$8H
+9D$Lw
+-~.)
+%S.)
+tZD9
+D$ M
+|$@I
+D$(H
+d$@D
+|$(L
+t$PH
+D$xL
+A9F8
+D$LH
+A9N8}
+A9N<
+9D$Lw
+L$`H9L$P
+L$PH
+T$XH
+\$P1
+9C u
+9K$u
+[]A\A]A^A_
+D$PM
+l$PD
+d$$L
+l$8D
+l$PD
+l$p1
+L$ H
+L$PQ
+L$DQ
+L$HQD
+9P u
+;H$t
+D$$9
+tL9D$LwF
+l$$L
+l$PM
+4	L9
+A9Mt
+A9F<
+L$`H9L$P
+D$PH
+|$XH
+\$`H
+L$hL
+L$hD
+t$hH
+D$ H
+<[^>]+[@
+L$pH
+D$h1
+T$hdH3
+D$h1
+L$hdH3
+AVAUATUI
+$A9D$<
+|$HH
+A9D$@
+[]A\A]A^
+AWAVAUATUSH
+D$81
+T$,M
+t$09r
+D$8dH3
+H[]A\A]A^A_
+t$49r
+AWAVM
+AUATA
+[]A\A]A^A_
+ATUSH
+[]A\
+[]A\
+D$h1
+D$hdH3
+ATU1
+D$h1
+\$ f
+D$hdH3
+p[]A\
+AWAVAUATI
+0<	v<
+[]A\A]A^A_
+t$ H
+D$8H
+D$@H
+ATU1
+[]A\
+ATUSH
+T$ I
+T$(I
+T$0I
+T$8[]A\A]A^
+VUUU
+D$ 1
+[]A\A]A^
+gfff
+L$ I
+L$(I
+L$0I
+T$ I
+T$(I
+T$0I
+T$8[]A\A]A^
+AUAT1
+L$ H
+[]A\A]
+[]A\A]
+l$ I
+[]A\A]
+l$ M
+l$4H
+L$4M
+L$8H
+D$5H
+[]A\A]
+[]A\A]
+l$ M
+l$4H
+L$@M
+D$8H
+[]A\A]1
+L$@PH
+t$0A
+D$$PA
+D$#PA
+D$"PE
+L$!1
+[]A\A]
+l$(I
+AUAT1
+l$8H
+gfffffffH
+l$pH
+[]A\A]
+AWAVAUATUSH
+[]A\A]A^A_
+L9t$
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+D$pH
+D$xH
+L9l$
+|$ J
+AUATUSH
+dH34%(
+[]A\A]
+D$@H
+gfffffffH
+l$pH
+\$@E1
+AWAVAUATUSH
+[]A\A]A^A_
+ H9X
+\$	E1
+l,)I
+D$ H
+D$h1
+t$hdH34%(
+AUATA
+D$(1
+$t@E
+|$(dH3<%(
+8[]A\A]
+|D H
+D$ 1
+T$ H
+D$B1
+D$ H
+|T(H
+T$ H
+D$81
+AUATA
+T$pH
+[]A\A]
+D$h1
+L$hdH3
+T$!1
+T$";
+T$#;
+T$$;
+D$%;
+D$h1
+L$hdH3
+D$$u9H
+D$h1
+L$hdH3
+D$0u9H
+D$h1
+T$hdH3
+D$h1
+u8H9\$0t-H
+L$hdH3
+AWAV1
+AUATUSH
+t$ dH
+|$ H
+[]A\A]A^A_
+D$8L
+l$ H
+L$4H
+L9|$
+L;l$
+AWAVAUATA
+8USH
+D$x1
+L;$$
+L$xdH3
+[]A\A]A^A_
+t$0f
+T$ H
+T$(H
+T$0H
+T$8H
+T$@H
+T$HH
+T$PH
+T$XH
+T$`H
+T$hH
+T$pH
+D$(1
+T$$H
+\$(dH3
+AWAVI
+AUAT
+D$h1
+t$0A
+d$0E
+L$hdH3
+x[]A\A]A^A_
+t$01
+t$ L
+t$ H
+AWAVA
+AUATA
+[]A\A]A^A_
+tJUSH
+AWAVI
+AUATI
+t7<,H
+t8<,w
+[]A\A]A^A_
+[]A\A]A^A_
+tdUSH
+AWAVAUATUSH
+[]A\A]A^A_
+ (INSECU
+RE!)
+AWAVAUATUS
+D$(1
+D$(dH3
+8[]A\A]A^A_
+H9\$
+AWAVA
+AUATA
+[]A\A]A^A_
+AUAT
+[]A\A]
+tH;w
+0<	v H
+AVAUI
+ATUI
+[]A\A]A^
+AUATI
+[]A\A]
+AWAVAUATM
+D$X1
+D$ I
+D$(I
+|$0I
+D$8I
+D$@I
+Tacocat
+D$HA
+L$XdH3
+h[]A\A]A^A_
+D$ I
+D$(I
+D$0I
+|$8I
+D$ I
+D$(I
+D$0I
+D$8I
+|$@I
+tRL9
+dH3<%(
+AWAV
+AUATA
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVM
+AUATI
+D$H1
+D$(A9
+D$(A
+D$(A
+|$0H
+D$8I
+L$HdH3
+X[]A\A]A^A_
+tCSH
+dH3<%(
+AWAVAUATUS
+dH34%(
+[]A\A]A^A_
+t#<,L
+<,tT< tPH
+L$ L
+L$@L
+L$`L
+HcT$
+HcT$
+HcT$
+L$ 1
+CPH9
+CPHc
+CPHc
+AUATUSH
+[]A\A]
+u]H9
+AWAVI
+AUATUSH
+[]A\A]A^A_
+AVAUE
+ATUH
+D$(1
+T$(dH3
+0[]A\A]A^
+AWAVI
+AUATI
+D$81
+l$ L
+|$(M
+L$8dH3
+H[]A\A]A^A_
+t1US
+AWAVI
+AUATA
+[]A\A]A^A_
+[]A\
+AWAVI
+AUATI
+D$(1
+L$(dH3
+8[]A\A]A^A_
+L$0A
+D$0PL
+t$(L
+AWAVAUATUSH
+D$(1
+u|E1
+L$(dH3
+8[]A\A]A^A_
+L$,L
+L$ H
+L$ L
+tLE1
+AWAVAUATUSH
+t$ 1
+t$$1
+t$(1
+t$,1
+udE1
+[]A\A]A^A_
+|$,H
+(11:priv
+ate-key(D
+D$ I
+|$pH
+3:rsa(1:I
+t$pI
+T$ H
+D$ D
+D$$H
+T$$H
+D$$D
+D$(H
+T$(L
+D$(D
+D$,H
+T$,L
+D$,L
+))(10:cr
+eated-atA
+t$pI
+AWAVAUATUSL
+l$@H
+L$,dH
+T$(L
+D$(1
+D$8H
+H;D$8I
+L9l$8I
+tr<9~
+[]A\A]A^A_
+T$8H
+L9|$8I
+D$8t+
+L9l$8K
+|$ H
+AWAVAUATUSH
+D$x1
+\$xdH3
+[]A\A]A^A_
+-){(
+l$bH
+L;l$
+D$aH
+D$`I
+D$hI
+D$pA
+D$tfA
+D$$A
+D$4E
+l$4L
+-qu(
+AWPE1
+L$PH
+|$HH
+|$PH
+L$@H
+D$(L
+L$ H
+t$`VL
+L$@D
+D$HH
+L$0H
+t$8H
+t$@L
+t$<L
+|$81
+|$8L
+D$4H
+T$HL
+T$HD
+D$4L
+t$8H
+D$@H
+|$8L
+|$@L
+5jn(
+D$@L
+l$HL
+L$ H
+t$ 1
+T$@H
+T$XH
+t$XI
+AWPE1
+L$PH
+T$H1
+AYAZ
+|$8D
+L$4A
+L$PH
+T$HH
+L$4H
+L$PA
+T$HH
+t$8H
+AWPE1
+L$PH
+T$H1
+|$8H
+L$PA
+T$HE
+L$PH
+T$HA
+t$8H
+|$@E
+T$4H
+t$@M
+|$8M
+l$4L
+L$@H
+L$(H
+L$ H
+t$hVL
+L$HH
+L$@H
+AWAV
+AUATUSH
+d$0dH
+[]A\A]A^A_
+signH
+encrypt
+L$ H
+T$$H
+t$(L
+|$(I
+t$(H
+T$$1
+L$$I
+sign
+D$(H
+encrypt
+|$(D
+D$(L
+L$$I
+D$TE
+AUATA
+[]A\A]
+AWAVAUATI
+uXE1
+K E1
+C8H;C@
+L9|$
+[]A\A]A^A_
+@t[I
+ATUI
+[]A\
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+AWAVI
+AUATUSH
+D$H1
+L$HdH3
+X[]A\A]A^A_
+t$0H
+t$ H
+D$ L
+u9D;s
+|$0H
+AWAVAUATUSH
+D$ L
+L$(H
+5ZO(
+gpgkeys_L
+ -o "%O"H
+ "%If
+dH3<%(
+[]A\A]A^A_
+_uri
+L$xt6
+D$xH
+L$xu
+L$xt6
+D$xH
+L$xu
+ -o "%o"H
+ "%ifD
+gpgkeys_A
+curlA
+L$`H
+T$dH
+ v[H
+D$tPH
+L$8H
+t$tH
+D$0f
+|$xH
+T$0H
+AVAUP
+L$H1
+l$(H
+\$$E
+?_AXM
+HcD$hH
+D$0D
+t$(H
+t$0H
+|$PH
+L$lH
+d$HE
+D;|$hH
+t$8H
+ET$hD
+~BHc
+ w2H
+5U((
+%?((
+D$8M
+D$XI
+D;|$h
+T$t1
+T$h1
+uED;|$h
+D$hH
+d$tA
+l$ D
+l$ D
+l$ D
+l$ D
+D;|$hu
+T$8E
+HcD$h
+tqx`H
+l$ D
+AWAVAUATI
+=Y/(
+t4< H
+|_E1
+AWE1
+[]A\A]A^A_
+[]A\A]A^A_
+tzf.
+AWAVAUATUSH
+t5<:t1<[t^H
+([]A\A]A^A_
+ty</tu
+<$E1
+[]A\
+D$H1
+5T#(
+L$HdH3
+AWAVI
+AUAT
+tTHc
+5P"(
+[]A\A]A^A_
+D$81
+T$8dH3
+D$81
+D$ A
+D$$V1
+L$8dH3
+AWAVI
+AUATUSH
+D$H1
+Lct$
+t$8H
+\$HdH3
+X[]A\A]A^A_
+T$ D
+ATE1
+T$0D
+D$(H
+T$ N
+T$@A
+D;l$
+T$ N
+|$8H
+D;l$
+|$ H
+AWAV
+AUATUSH
+D$81
+L$8dH3
+H[]A\A]A^A_
+AVAUATUI
+ []A\A]A^
+|$ E1
+|$ A
+AUATI
+[]A\A]
+[]A\A]
+ATUI
+[]A\
+AWAVAUATUSH
+|$@H
+t$(H
+|$(H
+t$(H
+D$(f
+D$(H
+keysH
+D$ H
+[]A\A]A^A_
+AWAVI
+AUATM
+D$81
+t$0H
+l$ H
+D+d$
+L$D1
+D$8dH3
+H[]A\A]A^A_
+t$0L
+AWAVI
+AUATUSH
+D$(1
+T$ H
+L$(dH3
+8[]A\A]A^A_
+AUATUSH
+]A\A]
+PATH
+AWAVAUATI
+D$81
+|$ 1
+|$8dH3<%(
+H[]A\A]A^A_
+AUATUSH
+[]A\A]
+AXAY
+hXqo
+AZA[
+AXAY
+hXro
+AZA[
+AXAY
+hXso
+ATUI
+[]A\
+<St 1
+AUATA
+D;%9
+@D9`
+[]A\A]
+[]A\A]
+AWAVA
+AUATL
+[]A\A]A^A_
+AWAVI
+AUATI
+([]A\A]A^A_
+HcG0L
+([]A\A]A^A_
+([]A\A]A^A_
+D+d$
+H9D$
+AWAVA
+AUATI
+([]A\A]A^A_
+HcG0L
+([]A\A]A^A_
+GPE1
+@02H
+D9l$
+([]A\A]A^A_
+$t.1
+D+L$
+$t'1
+HcG0
+HcS0H
+ATUI
+[]A\
+t*Hc
+AUATI
+[]A\A]
+[]A\A]
+AVAUI
+u"[D
+]A\A]A^
+]A\A]A^
+A Santa lives evil at NASA
+AVAUA
+ATUI
+t/D;-
+XD;h
+[]A\A]A^
+[]A\A]A^
+AVAUI
+u"[D
+]A\A]A^
+]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+C$PH
+C0PA
+[]A\
+ATUI
+[]A\H
+ATUH
+[]A\
+t0;Z
+[]A\
+[]A\
+AWAVI
+AUATI
+Hcw 
+|$(H
+kPIcT$ L
+[]A\A]A^A_
+u5USH
+Su+H
+AVAUI
+[]A\A]A^
+C$[]A\A]A^
+HcP I
+HcP$H
+D$(1
+D$(dH3
+ATUI
+$Ic|$$
+IcT$$L
+[]A\
+tKUSH
+ATUA
+[]A\
+33331
+A3p$
+A3p,
+A3p4
+A3p<
+A3pD
+A3pL
+A3pT
+A3p\
+A3pd
+A3pl
+A3pt
+A3p|A
+33331
+AUATI
+D$H1
+T$@H
+L$HdH3
+X[]A\A]
+33331
+A3p$
+A3p,
+A3p4
+A3p<
+A3pD
+A3pL
+A3pT
+A3p\
+A3pd
+A3pl
+A3pt
+33331
+L$H1
+T$@H
+D$HdH3
+L$H1
+T$@H
+D$HdH3
+ATUSH
+[]A\
+D$H1
+T$@H
+|$HdH3<%(
+AUATUS
+[]A\A]
+ATUSH
+D$H1
+L$HdH3
+P[]A\
+D$@H
+L$(L
+D$ H
+D$ L
+D$H1
+T$@H
+D$HdH3
+J	D3
+[]D1
+D$H1
+T$@H
+D$HdH3
+AWAVA
+AUAT
+D$x1
+T$0H
+L$pf
+T$0H
+L$pf.
+t$xdH34%(
+[]A\A]A^A_
+HDHc
+PFHc
+P<Hc
+P7Hc
+HDHc
+PFHc
+P<Hc
+P7Hc
+rDHc
+@0<$Hc
+@0|$
+@0<$Hc
+@0|$
+@0|$
+@0<$Hc
+@0|$
+@0|$
+JF@0<$Hc
+@0|$
+@0|$
+J<@0<$Hc
+@0|$
+@0|$
+J7@0<$Hc
+@0|$
+@0t$
+@04$Hc
+@0t$
+@0|$
+~-Hc
+\$(H
+@2l$
+\$(H
+D$H1
+T$@H
+D$HdH3
+D$H1
+T$@H
+D$HdH3
+AWAVAUATI
+D$X1
+|$XdH3<%(
+h[]A\A]A^A_
+BLOWFISH
+OAE1
+OBD+
+OCA1
+OFD1
+OGA1
+OIA1
+OKE1
+OMD1
+G4A1
+OND1
+G8A)
+OOD1
+D$H1
+T$@H
+D$HdH3
+ONA)
+O4D+
+OME1
+OLA1
+OKA1
+O(D1
+OIE1
+OGD+
+OFA1
+OEA1
+ODD1
+OAD1
+D$H1
+T$@H
+D$HdH3
+AUATI
+dH3<%(
+[]A\A]
+l$ H
+D$q#
+D$rE
+D$sg
+T$pH
+t$pH
+l$ H
+AVAUATUSH
+F3T/
+F3\/
+B3T/
+B3\/
+[]A\A]A^
+D$H1
+D$HdH3
+L$@H
+D$H1
+T$@H
+D$HdH3
+D$(1
+D$(dH3
+D$H1
+T$@H
+D$HdH3
+AUATI
+T$@f
+[]A\A]
+}OE9
+2D$ 
+D$ B
+@0t$!B
+@0t$"B
+@0t$#
+}OE9
+D$ 3D$$
+D$$3D$(1D$,
+0D$0
+0D$1
+0D$2
+0D$3
+D$03D$4
+D$43D$81D$<
+AVAUATUSH
+D$H1
+T$@H
+D$HdH3
+P[]A\A]A^
+AVAUATUSH
+D$H1
+T$@H
+D$HdH3
+P[]A\A]A^
+AVAUATUH
+j`SD
+B`fE
+t4fE
+rdfE
+t%fE
+]A\A]A^
+L$H1
+T$@H
+D$HdH3
+AWAVAUATI
+D$x1
+|$pL
+\$pf
+D$vfD
+\$tfD
+T$xfD
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+D$pH
+D$xdH3
+[]A\A]A^A_
+ATUL
+ghSH
+D$H1
+T$@H
+D$HdH3
+P[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+D$H1
+L$@H
+L$@H
+t$HdH34%(
+AWAVM
+AUATUSH
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+D$(H
+d$4L
+t$8E
+d$4H
+L$ H
+D$ H
+\$xA
+l$pH
+D$`H
+D$@H
+D$hH
+D$HH
+D$pH
+L$@H
+L$`L
+D$xL
+T$hI
+T$pI
+T$xI
+AVAU
+ATUSH
+[]A\A]A^
+D$(1
+\$(dH3
+L$ H
+D$81
+T$8dH3
+D$ H
+L$(H
+D$(H
+AWAVI
+AUATI
+[]A\A]A^A_
+ATUH
+AWAV
+AUATUS
+[]A\A]A^A_
+|$ L
+t$0L
+T$ L
+D$0H
+\$hA
+t$PL
+l$pH
+D$`H
+D$8H
+D$@H
+D$XH
+T$@H
+T$PL
+T$PH
+T$@L
+D$PL
+D$XM
+D$`H
+D$hH
+D$pH
+D$xH
+AUATUSH
+]A\A]
+D$(1
+T$(dH3
+D$81
+T$8dH3
+@[]A\
+D$ H
+D$H1
+T$HdH3
+P[]A\
+D$ H
+D$(H
+D$0H
+ []A\
+AWAVAUATI
+D$0A
+d$ D
+|$4L
+d$(D
+d$ D
+|$4L
+d$ 1
+[]A\A]A^A_
+AWAVAUATUSH
+D$H1
+D$(A
+D$4A
+D$<D
+t$8H
+|$(D
+T$4I
+t$<H
+t$DH
+\$HdH3
+X[]A\A]A^A_
+AWAVAUATA
+L$xdH
+t$(L
+D$pD)
+|$81
+D$ A
+D$`A
+tyA9
+D$@Ic
+L$ E1
+t E1
+9D$(
+|$ L
+t$`f
+\$PD
+l$LL
+\$PH
+T$hH
+|$L1
+L$XL
+D$PD
+L$XL
+D$PD
+t$pH
+l$8L
+d$(L
+|$0M
+l$(E1
+D;|$
+D;|$
+D$@L
+d$(L
+|$0H
+l$ L
+d$`f
+[]A\A]A^A_
+~>Hc
+T$hH
+D$(C
+\$(D
+|$8A
+D$LD
+D$hJ
+\$(D
+|$8A
+D$LD
+|$81
+t$(H
+AVAUATUI
+T$ I
+T$(A
+[]A\A]A^
+ATUA
+[]A\
+AUATI
+D$81
+L$8dH3
+H[]A\A]
+AUATUSH
+D$(%
+D$@H
+[]A\A]
+ATUS
+[]A\
+[]A\
+[]A\H
+[]A\1
+AWAVAUATL
+[]A\A]A^A_
+ATUH
+[]A\
+AWAVAUATI
+T$(H
+T$(H
+|$ H
+[]A\A]A^A_
+AWAVAUATI
+D$H1
+L$HdH3
+X[]A\A]A^A_
+T$0H
+l$0L
+d$8H
+AWAVAUATUSH
+D$X1
+|$ 1
+D$0I
+D$8I
+D$@I
+L$0H
+D$XdH3
+h[]A\A]A^A_
+D$(1
+L$(dH3
+D$ H
+D$(1
+T$(dH3
+D$ H
+AVAU
+ATUSH
+[]A\A]A^
+D$81
+\$8dH3
+D$ L
+L$(H
+L$0H
+D$(1
+t$(dH34%(
+AWAVAUATUS
+v<3G
+p $D
+6QZ^&
+2D")
+Y[eA
+A\A]A^A_
+AWAVAUATI
+WTdH
+@tgM
+HcET
+[]A\A]A^A_
+d,@H
+HcET
+ATU1
+HcST
+8t f
+[]A\
+AWAVH
+AUATUS
+M\D1
+M\D1
+M\D1
+>pmD	
+>pmD
+>pmD
+>pm	
+>pmD	
+>pmD1
+>pm	
+>pmD	
+>pmA
+>pmD
+>pmD
+>pmD	
+>pmA
+>pm	
+vmzD!
+vmz!
+vmzD
+vmzD
+vmzD
+vmz!
+vmzD1
+vmz!
+vmzD!
+vmz!
+vmzA
+vmz!
+vmzD!
+vmzA!
+vmzA!
+[]A\A]A^A_
+AWAVAUATI
+WXdH
+@tgM
+HcEX
+[]A\A]A^A_
+d,@H
+HcEX
+ATU1
+HcSX
+8t f
+[]A\
+D$h1
+D$(H
+D$hdH3
+AWAVAUATUSH
+D$DH
+t$,D
+L$4D
+|$0D
+\$XB
+t$d!
+L$l!
+L$t!
+L$xA!
+L$|!
+D3T$pE1
+L$tB
+D$xE1
+|$|A
+D3t$lE
+D3|$p
+D$l3D$t3
+t$pD3t$xA
+t$$E
+|$$D
+t$tD3t$|A
+t$xD3
+t$(E
+|$(E
+t$|D3
+D3t$$A
+D3t$
+D3t$(A
+D3t$
+D3T$$D3T$
+D3t$
+D3L$
+t$ E
+|$ E
+D3L$
+nD3D$(1
+D3D$ 3|$
+t$$A
+3D$ D1
+t$(A
+D3t$
+D$$E
+L$$A
+t$(D
+D3D$
+D3D$<A!
+D3t$
+D3t$$B
+D3t$
+D3t$
+D3t$ A!
+D3t$(B
+D3t$
+t$ D3t$<A
+D3t$
+D3|$$E
+D3|$
+L$<A
+D3L$
+D3L$
+L$ A
+L$ D
+l$<	
+3t$ 
+\$@!
+D3T$
+3|$<
+3t$@A	
+|$$D
+D$(A
+3T$ E!
+3T$$E	
+\$(D3\$
+D3T$
+D3T$<A1
+D3L$
+D3L$@A1
+D3L$
+l$(E1
+3|$$A
+D3|$(
+l$ D1
+D3t$
+|$ D1
+|$<A
+D3\$
+l$<E1
+t$@B
+D3T$
+D3T$ A
+|$$A
+D3L$
+D3L$<E
+D$(E
+3D$ E1
+3T$<
+D3t$
+|$(G
+D3|$ E1
+l$,D1
+D3\$<H
+D$HA1
+d$0A
+L$4D
+L$8D
+T$DA
+[]A\A]A^A_
+AWAVAUATI
+WXdH
+@tgM
+HcEX
+[]A\A]A^A_
+d,@H
+HcEX
+ATU1
+HcSX
+8t f
+S*uiH
+[]A\
+D$h1
+D$(H
+D$hdH3
+AWAVAUATUSH
+D$ f
+L$XH
+[]A\A]A^A_
+AWAVAUATI
+WddH
+@tgM
+HcCd
+[]A\A]A^A_
+d,@H
+HcCd
+ATU1
+C HcSd
+8t f
+SBujH
+[]A\
+AWAVI
+AUATUSH
+D$ A
+|$(L
+D$0H
+dH34%(
+[]A\A]A^A_
+|6*)
+g&3gH
+AWAVAUATUSH
+D$ H
+D$(H
+D$0H
+D$8H
+D$8L
+d$0M
+l$(L
+D$ E1
+\$ L
+D$(L
+l$0L
+d$8H
+[]A\A]A^A_
+AWAVAUATI
+[]A\A]A^A_
+ATU1
+S@Hc
+[]A\
+	uKH
+AWAVAUATUSH
+L$,D1
+|$$A!
+l$(1
+L$4D
+D$<A
+V@E1
+D3t$
+NHE!
+L$$D!
+D$,A1
+l$0D
+D3D$
+T$<1
+F D1
+D3t$
+l$(1
+D3l$
+~t3|$
+T$8D
+@[]A\A]A^A_
+AWAVAUATUSH
+L$ D!
+|$(D
+|$0!
+|$4D
+|$<D
+d$8D
+d$@D
+d$HA!
+d$L1
+T$\D
+t$`D
+d$dD
+d$hA
+^@A1
+D3D$
+T$ E1
+D#F@D1
+FHD!
+D$0D
+D$DD1
+T$4A
+T$HD#T$
+D$LA
+D$PA1
+|$$D
+FXE1
+^\E1
+VtD3D$
+\$8D
+L$@D
+~xA1
+\$(D1
+|$ 3L$
+\$d1
+l$XD1
+\$TA1
+p[]A\A]A^A_
+D$(1
+D$(dH3
+3W E
+D3G$3
+3W(A
+3W,E
+3O0E
+3O4E
+3O8D
+D3O<A
+D3GPE
+D3OTE
+D3OX
+D3O\E
+3OhA
+3OlE
+D3GpA
+D3OtE
+D3GxA
+D3O|D3
+D3GxE
+D3O|E
+D3Op
+D3OtE
+3O`A
+3OdE
+D3GXA
+D3O\E
+D3GPA
+D3OTD3
+G@A!
+D3G8E
+D3O<E
+D3O0
+D3O4E
+3O E
+3O$E
+3W E
+D3G$3
+3W(A
+3W,E
+3O0E
+3O4E
+3O8D
+D3O<A
+D3GPE
+D3OTE
+D3OX
+D3O\E
+3OhA
+3OlE
+D3GpA
+D3OtE
+D3GxA
+D3O|D3
+D3GxE
+D3O|E
+D3Op
+D3OtE
+3O`A
+3OdE
+D3GXA
+D3O\E
+D3GPA
+D3OTD3
+G@A!
+D3G8E
+D3O<E
+D3O0
+D3O4E
+3O E
+3O$E
+AUATI
+wfH9
+[]A\A]
+wYH9
+AWAVAUATI
+[]A\A]A^A_
+$xHL
+~%Hc
+AUATI
+wfH9
+[]A\A]
+wYH9
+[]A\
+ATUH
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+AUATUSH
+4&97I
+[]A\A]
+H;*t
+[]A\
+AWAVI
+AUATI
+D$x1
+T$ D
+D$(H
+D$0I
+L9\$
+HcT$
+L$8H
+\$@1
+t$A)
+D$0I
+D$(I
+D$xdH3
+[]A\A]A^A_
+L$@L
+HcT$8L
+\$HH
+L$ H
+D$8L
+L$ D
+D$(I
+HcT$
+T$0L
+\$(L
+D$PL
+L$ L
+\$(L
+T$0~G
+t$(H
+t$(H
+AWAVAUATI
+tmH9
+[]A\A]A^A_
+[]A\A]A^A_
+AUATI
+[]A\A]
+AVAUATI
+t+E1
+]A\A]A^
+[]A\A]A^
+AWAVAUATA
+~[D)
+[]A\A]A^A_
+[]A\A]A^A_
+ATUI
+AWAVAUATI
+H[]A\A]A^A_
+[]A\A]A^A_
+|$ H
+d$8L
+d$ 1
+D$8A
+T$(H
+t$0H
+t$ H
+T$ H
+|$(H
+AWAVAUATUSH
+D;/H
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+([]A\A]A^A_
+([]A\A]A^A_
+AWAVI
+AUATUSH
+D$(H
+D$,I
+D3d$
+d$ G
+H9L$
+H9L$
+8[]A\A]A^A_
+D$(I
+D$,H
+H9D$
+H9D$
+T$$H
+D$ D
+8[]A\A]A^A_
+D$ H
+[]A\A]A^A_
+t$(D
+H9D$
+t$,D
+d$8L
+]A\A]A^
+L$@A
+D$0Ic
+&]A\A]A^
+AWAVAUATI
+D$`E
+|$4H
+D$4D
+[]A\A]A^A_
+t$4H
+D$hD
+D$@Ic
+|$41
+D9l$4A
+D$`H
+|$@H
+|$xH
+|$pH
+t$xL9
+H;\$h
+H;\$@
+D$`C
+4?;0
+D$pH
+t$HL
+t$@H
+|$(E
+l$ I
+|$4H
+WAWH
+H;l$
+l$ D
+HcD$ H
+HcD$ 
+D$(@
+|$8)
+t$(H
+D$8I
+l$@I
+D$HD
+t$4H
+PAVAU
+|$PH
+\$PL
+L9|$
+L9|$
+\$XL
+d$`H
+D$DL
+t$XL
+WAWH
+HcT$ 
+|$8H
+t$h)
+t$(H
+D$<E1
+l$4H
+PAUU
+t$(H
+d$ H
+L;|$
+L;|$
+d$ D
+t$(A
+D$DP
+t$XL
+l$@M
+PSAU
+D$`H
+9T$4
+~9Hc
+9l$4tcH
+t$@Hc
+T$4H
+D$4H
+D$`H;X
+D$xD
+t$x1
+T$xD
+t$41
+D$@D
+D$xH
+T$4H
+|$@D
+D$ D
+9T$4
+D$@H
+T$4H
+T$4H
+D$h~
+D$hH
+l$4L
+l$4L
+D$@H
+AWAVAUATUSH
+t$8H
+T$4I
+D9d$4
+|$4	
+|$ D)
+D9t$
+D;d$
+H[]A\A]A^A_
+d$0D
+|$4E
+t$8H
+l$(H
+l$(D
+L$(H
+L$(H
+ATUH
+xzHc
+ATUH
+[]A\
+AWAVAUATUSH
+G@H9
+[]A\A]A^A_
+t0D9
+E8I;E@r
+H;L$
+AWAVAUATI
+[]A\A]A^A_
+AWAVE1
+AUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+ATUI
+[]A\
+AVAUATD
+[]A\A]A^
+xBLc
+AUATUS
+[]A\A]
+[]A\A]
+AWAVI
+AUATUSH
+t$DA
+D$(H
+D$XL
+t$`I
+D$0L
+D$HIc
+\$hD
+D$8D
+D$PH
+D9l$D
+\$XI
+\$ H
+\$`L
+\$8H
+t$0L
+\$8H
+T$PH
+&v	H
+t$(H
+H9D$ t
+T$(L
+[]A\A]A^A_
+\$ H
+\$hI
+\$pL
+|$ f
+D9\$
+sTL)
+|$ H
+vuI9
+vRI9
+r	M9
+t$(L
+T$(L
+AWAV1
+AUAT
+[]A\A]A^A_
+AWAVI
+AUATA
+[]A\A]A^A_
+AWAVAUATM
+H[]A\A]A^A_
+D$ H
+D$8H
+D$ J
+D$ H
+|$(D
+$v%I
+\$(H
+D$(H
+D$8D
+D$8H
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVI
+AUATI
+8[]A\A]A^A_
+D$(H
+|$ D
+|$ H
+l$ H
+L$(H
+D$(D
+|$ D
+AVAUI
+[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+AWAVMc
+AUATI
+USHc
+D$81
+t$8dH34%(
+H[]A\A]A^A_
+AWAVI
+AUATE
+E;} ~NL
+([]A\A]A^A_
+([]A\A]A^A_
+ATUI
++[]A\
+u%US
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+[]A\
+[]A\
+AVUS
+[]A^
+AVA)
+[]A^
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+5Es%
+='s%
+ATUI
+H;=0p%
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+ATUI
+[]A\H
+t:H)
+[]A\
+[]A\
+AUATI
+t$(H
+T$0H
+L$8L
+D$@H
+D$ L
+t$ H
+X[]A\A]
+</tf
+H9D$
+AUATUSH
+D$H1
+D$8P
+D$9K
+|$@H
+L$HdH3
+X[]A\A]
+ATUSH
+D$81
+t$8dH34%(
+@[]A\
+0<	w
+0<	w
+0<	w
+0<	w
+dH34%(
+D$H1
+0<	w
+Tt'1
+t$HdH34%(
+AWAVA
+AUATE	
+t'D9
+[]A\A]A^A_
+AVAUATUS
+t!<\u
+t%<\u
+[]A\A]A^
+ATU1
+|t:H
+[]A\
+AWAV
+AUATUSH
+t	E1
+[]A\A]A^A_
+AWAV
+AUAT
+[]A\A]A^A_
+[]A\A]A^A_
+AWAV
+AUATA
+[]A\A]A^A_
+ATUI
+[]A\
+AVAUI
+ATUSH
+[]A\A]A^
+ATUH
+[]A\
+ATUI
+[]A\
+[]A\
+t"H9
+AUATUSH
+[]A\A]
+ATUI
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+1t.D
+ttAW
+AVAUATA
+[]A\A]A^A_
+tpAW
+AVAUATA
+[]A\A]A^A_
+tyUS1
+ATUS
+[]A\
+[]A\
+AVAUATUI
+D$(1
+5&P%
+D$ H
+t$(dH34%(
+0[]A\A]A^
+5?N%
+u<USH
+u<USH
+AWAVE1
+AUATUSH
+D$h1
+t$ H
+D$ H
+T$0H
+l$(E1
+@@<=vKE
+$u4I
+D$ D
+|$hdH3<%(
+x[]A\A]A^A_
+l$`L
+5nj%
+D$`E1
+D$`E1
+D$`E1
+D$`E1
+l$`H
+l$8H
+L$4L
+L$4H
+l$8H
+D$`E1
+=vF%
+|$@H
+\$PH
+|$XH
+D$XH
+L$HH
+T$PH
+t$@H
+D$HH
+l$`H
+l$8L
+L$4I
+L$4H
+l$8H
+T$0H
+t$ H
+T$0H
+t$ H
+t$8H
+T$@H
+L$HL
+D$PL
+L$Xt:
+)D$`
+)L$p
+D$(1
+L$(dH3
+t$8H
+T$@H
+L$HL
+D$PL
+L$Xt:
+)D$`
+)L$p
+D$(1
+L$(dH3
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+AUATI
+@:;t
+[]A\A]
+]A\A]
+ATUH
+[]A\
+5iZ%
+t$8H
+T$@H
+L$HL
+D$PL
+L$Xt:
+)D$`
+)L$p
+D$(1
+D$(dH3
+AVAUATUSH
+D$H1
+D$ H
+D$(H
+=!W%
+	tJ=
+}HHc
+L$HdH3
+P[]A\A]A^
+T$@H
+L$HL
+D$PL
+L$Xt:
+)D$`
+)L$p
+D$(1
+D$0H
+D$(dH3
+=FT%
+x-H9
+AWAVAUATI
+57.%
+5$-%
+51,%
+t	D9
+5y+%
+5k*%
+5I*%
+51*%
+AWAV1
+AUATI
+-trA
+8[]A\A]A^A_
+ ;|$(
+htQ@
+:-uK
+HcT$ 
+D$(H
+D$ H
+T$(H
+:-t%L
+AWAVAUATUSH
+D$0Ic
+l$P1
+l$P1
+[]A\A]A^A_
+|$PA
+D$ Mc
+|$ A
+D$ B
+|$ L
+l$@E1
+\$LL
+|$8H
+L$ H
+D$(Mc
+D$(2H
+|$ A
+D$(H
+D$ F
+\$LH
+L$(I
+D$ A
+L$(H
+|$ L
+:"t"L
+|$PB
+"t.H
+t+SH
+=D4%
+AUATUSH
+]A\A]
+[]A\A]
+5*/%
+AUATUSH
+[]A\A]
+[]A\A]
+5?.%
+=H.%
+5X-%
+5E-%
+?-uH
+AWAVM
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[xXZH
+G@H9G8
+H9C0H
+=	$%
+=T"%
+AVAUATUS
+5J!%
+t&f.
+]A\A]A^
+ATUA
+[]A\
+ATUI
+[]A\
+AUATUSH
+[]A\A]
+[]A\A]
+AVAUATU
+[]A\A]A^
+]A\A]A^
+]A\A]A^
+AUATA
+[]A\A]
+AUATUSH
+[]A\A]
+[stdin]
+[]A\A]
+AUATUSH
+[]A\A]
+[stdout]
+l$`I
+[]A\A]
+ATUSH
+[]A\
+4$H9s@t
+AUATUSH
+[]A\A]
+t8E1
+AVAUATUSH
+[]A\A]A^
+CXE1
+ATUSH
+D$XH
+CXH9
+u,I9
+|$HI
+[]A\
+\$xH
+C8H;C@s
+AWAVAUATA
+[]A\A]A^A_
+t$8I
+D$@H9
+t$HE
+|$8A9
+AUATUSH
+G@H9G8A
+H;M@s
+MHA9
+[]A\A]
+t$H9
+AVAUATUSH
+E0H9
+u@E)
+]A\A]A^
+]A\A]A^
+AWAVI
+AUATUSH
+[]A\A]A^A_
+_4E1
+E8H;E@
+E8H;E@
+E8H;E@
+U8H;U@
+U8H;U@
+E8H;E@
+t_H=
+M Hc
+ATUI
+[]A\
+AWAVAUATI
+ t"A
+E8I;E@r
+[]A\A]A^A_
+E8I;E@r
+C@H9
+C@H9
+C@H)
+AWAVAUATI
+D$ L
+H9D$ @
+.locf
+[]A\A]A^A_
+AWAVI
+AUATUSH
+L$x1
+QvCL
+D$ H
+D$ H
+L$xdH3
+[]A\A]A^A_
+tmHc
+D$ H9
+t!H9
+AWAVE1
+AUATUSH
+[]A\A]A^A_
+D$ 1
+D$ D
+H;E(
+AWAVI
+AUAT
+D$H1
+\$HdH3
+X[]A\A]A^A_
+t#< v
+|$0H
+|$DH
+L$0L
+L9d$ 
+D$(H
+ATUH
++[]A\
+AWAVI
+AUATA
+D$`H
+[]A\A]A^A_
+T$`H
+T$`I
+AVAUATU1
+]A\A]A^
+[]A\A]A^
+AVAUATU1
+]A\A]A^
+[]A\A]A^
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+D$81
+L$8dH3
+H[]A\A]A^A_
+t5H9
+AUATUSH
+[]A\A]
+AWAVAUATI
+|$HH
+t$PH
+L$`H
+d$XH
+<0u	
+L;4$t
+dH3<%(
+[]A\A]A^A_
+h$9h 
+Mh 9
+T$`H
+L;4$
+L$0D
+T$(D
+\$ L
+T$hH
+L$0K
+\$ H
+T6 H
+T0 I
+T6(H
+T0(H
+L;4$
+L$8D
+T$0H
+D$(D
+\$ L
+D$(D
+L$8H
+T$hD
+\$ I
+@$ww
+D$ f
+H+T$
+|$PH)
+D$HH
+l$xA
+HcD$hL
+89{(
+L$ H
+l$ H
+|$PH
+D$HH)
+|$PH
+|$PH
+t$PH
+|$HD)
+HcC$H
+HcC H
+|$PH
+D$xH
+D$w+
+x"+D$
+|$8Hc
+HcL$
+t$PL
+D$xH
+T$8H
+|$PH
+L$(H
+|$8H
++D$0H
+t$PH
+|$HL
+|$PH
+D$w-D
+D$xf
+D$w+A
+D$wE1
+|$PH
+D$HL)
+L$xE
+D$0H
+D$8t
+H9D$0
+D+D$0D
+D$(D
+D$w 
+D$(L
+t$wH
+|$PH
+D$(L
+t$wH
+|$PH
+D$wE1
+D$w-H
+L$8D
+D$0D
+L$(H
+t$ I
+D$0H
+L$8E
+t$PH
+|$HD)
+|$PH
+D$w L
+|$0D
+D$(H
+t$PH
+|$H)
+D$wE1
++D$0H
+t$PL
+D$x+D$
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$(1
+t$(dH34%(
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+ATUI
+D$(1
+L$(dH3
+0[]A\
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AVAUI
+ATUSH
+[]A\A]A^
+t$(H
+T$0H
+L$8L
+D$@L
+God A red nugget A fat egg under a dog
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+AWAVA
+AUAT
+[]A\A]A^A_
+,$Hc
+AWAVM
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+([]A\A]A^A_
+[]A\A]A^A_
+AUATUSH
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+oDdH
+([]A\A]A^A_
+CDD)
+t+ATUI
+[]A\
+AWAVI
+AUATI
+C8vYH
+[]A\A]A^A_
+t{AUATUSH
+tiH)
+[]A\A]
+StBH
+[]A\
+{JRt
+AWAVM
+AUATI
+D$xL
+|$pH
+D$(1
+T$$H
+t$ H
+uZHct$$
+T$ H
+\$(dH3
+8[]A\A]A^A_
+T$$H
+t$ H
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AWAVAUATUSH
+[]A\A]A^A_
+t#SH
+t3USH
+AWAVI
+AUATI
+<$[uhL
+[]A\A]A^A_
+]A\A]A^A_
+AUATUSH
+[]A\A]
+AWAVA
+AUATL
+[]A\A]A^A_
+ (%c%d)
+%%%02X
+%s: 
+RMD160 = 
+%6s = 
+[stdin]
+can't create `%s': %s
+can't open `%s': %s
+../../g10/gpg.c
+gpg (GnuPG)
+GNU/Linux
+Home: 
+Supported algorithms:
+Pubkey: 
+Cipher: 
+Hash: 
+Compression: 
+gpg.conf-1.4.20
+gpg.conf
+on exit
+conflicting commands
+usage: gpg [options] 
+--no-auto-key-retrieve
+--auto-key-retrieve
+/dev/null
+--for-your-eyes-only
+--set-filename
+--store
+--symmetric --encrypt
+--symmetric
+--detach-sign
+--clearsign
+--sign
+/usr/share/locale
+COLUMNS
+LINES
+libpcsclite.so.1
+option file `%s': %s
+reading options from `%s'
+--export-ownertrust
+--list-ownertrust
+--pipemode
+--list-options 
+--show-keyring
+socket://
+classic
+always
+direct
+auto
+unknown trust model `%s'
+--force-ownertrust
+invalid ownertrust `%s'
+--show-policy-url
+--verify-options 
+no-show-policy-urls
+--no-show-policy-url
+--no-comments
+--default-comment
+--show-photos
+--no-show-photos
+invalid keyserver options
+invalid import options
+invalid export options
+%s:%d: invalid list options
+invalid verify options
+--show-notation
+no-show-notations
+--no-show-notation
+--keyserver-options 
+--honor-http-proxy
+--import-options 
+--merge-only
+0xshort
+0xlong
+unknown keyid-format `%s'
+invalid auto-key-locate list
+gpgconf-gpg.conf:%lu:"%s
+verbose:%lu:
+quiet:%lu:
+keyserver:%lu:
+reader-port:%lu:
+%s %s; %s
+using character set `%s'
+WARNING: %s overrides %s
+_CONSOLE
+--no-literal
+%s not allowed with %s!
+--textmode
+%s makes no sense with %s!
+--set-filesize
+--require-secmem
+idea
+invalid default preferences
+random_seed
+secring.gpg
+pubring.gpg
+--store [filename]
+storing `%s' failed: %s
+%s: encryption failed: %s
+--sign [filename]
+signing failed: %s
+--sign --encrypt [filename]
+%s: sign+encrypt failed: %s
+--sign --symmetric [filename]
+--clearsign [filename]
+%s: clearsign failed: %s
+verify files failed: %s
+verify signatures failed: %s
+--decrypt [filename]
+decrypt_message failed: %s
+--sign-key user-id
+--lsign-key user-id
+save
+--edit-key user-id [commands]
+--gen-key [parameterfile]
+--gen-key
+keyserver send failed: %s
+keyserver receive failed: %s
+key export failed: %s
+keyserver search failed: %s
+keyserver refresh failed: %s
+key fetch failed: %s
+--gen-revoke user-id
+--desig-revoke user-id
+--dearmor [file]
+dearmoring failed: %s
+--enarmor [file]
+enarmoring failed: %s
+--gen-random 0|1|2 [count]
+--print-md algo [files]
+invalid hash algorithm `%s'
+--update-trustdb
+--list-trust-path <user-ids>
+--import-ownertrust [file]
+--card-status
+--change-pin [no]
+cfg:group:
+cfg:version:
+pubkey
+cfg:pubkey:
+cipher
+cfg:cipher:
+ciphername
+cfg:ciphername:
+cfg:digest:
+digestname
+hashname
+cfg:digestname:
+compress
+cfg:compress:
+ccid-reader-id
+cfg:ccid-reader-id:%s
+%s does not yet work with %s
+--multifile
+can't open `%s'
+lsign
+show-std-notations
+show-standard-notations
+show-user-notations
+show-keyserver-urls
+show-uid-validity
+show-unusable-uids
+show-primary-uid-only
+pka-lookups
+pka-trust-increase
+show-unusable-subkeys
+show-sig-expire
+show-sig-subpackets
+@Commands:
+|[file]|make a signature
+make a detached signature
+encrypt data
+encrypt-files
+decrypt
+decrypt data (default)
+decrypt-files
+verify a signature
+verify-files
+list-keys
+list keys
+list-public-keys
+list-sigs
+list keys and signatures
+check-sigs
+list and check key signatures
+list keys and fingerprints
+list-secret-keys
+list secret keys
+generate a new key pair
+delete-keys
+delete-secret-keys
+sign a key
+lsign-key
+sign a key locally
+edit-key
+sign or edit a key
+gen-revoke
+desig-revoke
+export
+export keys
+send-keys
+export keys to a key server
+recv-keys
+import keys from a key server
+search-keys
+refresh-keys
+fetch-keys
+export-secret-keys
+export-secret-subkeys
+import/merge keys
+fast-import
+print the card status
+card-edit
+change data on a card
+change-pin
+change a card's PIN
+list-config
+gpgconf-list
+gpgconf-test
+list-packets
+import-ownertrust
+update the trust database
+fix-trustdb
+dearmor
+dearmour
+enarmor
+enarmour
+print-md
+gen-prime
+gen-random
+Options:
+create ascii armored output
+|NAME|encrypt for NAME
+remote-user
+default-recipient-self
+no-default-recipient
+temp-directory
+exec-path
+no-encrypt-to
+local-user
+bzip2-compress-level
+bzip2-decompress-lowmem
+use canonical text mode
+no-textmode
+no-expert
+default-sig-expire
+no-ask-sig-expire
+default-cert-expire
+no-ask-cert-expire
+default-cert-level
+min-cert-level
+no-ask-cert-level
+use as output file
+max-output
+quiet
+no-tty
+no-force-v3-sigs
+no-force-v4-certs
+no-force-mdc
+no-disable-mdc
+do not make any changes
+interactive
+prompt before overwriting
+no-use-agent
+gpg-agent-info
+primary-keyring
+secret-keyring
+default-key
+keyserver-options
+import-options
+export-options
+list-options
+verify-options
+display-charset
+debug
+debug-all
+debug-level
+status-fd
+status-file
+attribute-fd
+attribute-file
+no-sk-comments
+completes-needed
+marginals-needed
+max-cert-depth
+trusted-key
+load-extension
+no-pgp2
+no-pgp6
+no-pgp7
+no-pgp8
+rfc4880
+use strict OpenPGP behavior
+no-rfc2440-text
+s2k-mode
+s2k-digest-algo
+s2k-cipher-algo
+s2k-count
+simple-sk-checksum
+cert-digest-algo
+compress-algo
+compression-algo
+no-throw-keyid
+no-throw-keyids
+photo-viewer
+set-notation
+notation-data
+sig-notation
+cert-notation
+print-mds
+list-trustdb
+passphrase-fd
+passphrase-file
+passphrase-repeat
+command-fd
+command-file
+quick-random
+no-verbose
+trustdb-name
+no-secmem-warning
+no-require-secmem
+no-permission-warning
+no-mdc-warning
+no-armor
+no-armour
+no-default-keyring
+no-greeting
+no-options
+homedir
+no-batch
+with-colons
+with-key-data
+list-key
+list-sig
+check-sig
+skip-verify
+compress-keys
+compress-sigs
+default-cert-check-level
+always-trust
+trust-model
+run-as-shm-coprocess
+no-for-your-eyes-only
+set-policy-url
+sig-policy-url
+cert-policy-url
+sig-keyserver-url
+no-emit-version
+no-version
+not-dash-escaped
+no-escape-from-lines
+lock-once
+lock-multiple
+lock-never
+logger-fd
+logger-file
+no-use-embedded-filename
+no-utf8-strings
+with-fingerprint
+disable-cipher-algo
+disable-pubkey-algo
+no-allow-non-selfsigned-uid
+no-allow-freeform-uid
+fast-list-mode
+fixed-list-mode
+list-only
+ignore-time-conflict
+ignore-valid-from
+ignore-crc-error
+ignore-mdc-error
+show-session-key
+override-session-key
+no-random-seed-file
+no-sig-cache
+no-sig-create-check
+no-auto-check-trustdb
+allow-secret-key-import
+try-all-secrets
+enable-special-filenames
+no-expensive-trust-checks
+delete-secret-and-public-keys
+preserve-permissions
+default-preference-list
+default-keyserver-url
+personal-cipher-preferences
+personal-digest-preferences
+personal-compress-preferences
+weak-digest
+personal-cipher-prefs
+personal-digest-prefs
+personal-compress-prefs
+display
+ttyname
+ttytype
+lc-ctype
+lc-messages
+ungroup
+no-groups
+no-strict
+no-mangle-dos-filenames
+enable-progress-filter
+keyid-format
+exit-on-status-write-error
+limit-card-insert-tries
+reader-port
+ctapi-driver
+pcsc-driver
+disable-ccid
+debug-ccid-driver
+allow-multisig-verification
+enable-large-rsa
+disable-large-rsa
+enable-dsa2
+disable-dsa2
+no-allow-multiple-messages
+allow-weak-digest-algos
+sign-with
+require-cross-certification
+no-require-backsigs
+no-auto-key-locate
+the given certification policy URL is invalid
+the given signature policy URL is invalid
+WARNING: unsafe enclosing directory ownership on configuration file `%s'
+WARNING: unsafe ownership on configuration file `%s'
+WARNING: unsafe permissions on configuration file `%s'
+WARNING: unsafe enclosing directory permissions on homedir `%s'
+WARNING: unsafe enclosing directory permissions on configuration file `%s'
+WARNING: unsafe ownership on homedir `%s'
+WARNING: unsafe permissions on homedir `%s'
+Please report bugs to <gnupg-bugs@gnu.org>.
+Usage: gpg [options] [files] (-h for help)
+Syntax: gpg [options] [files]
+Sign, check, encrypt or decrypt
+Default operation depends on the input data
+NOTE: old default options file `%s' ignored
+gpg: WARNING: standard input reopened
+gpg: WARNING: standard output reopened
+gpg: WARNING: standard error reopened
+gpg: fatal: unable to reopen standard input, output, or error
+NOTE: no default option file `%s'
+NOTE: %s is not for normal use!
+the given preferred keyserver URL is invalid
+`%s' is not a valid signature expiration
+`%s' is not a valid character set
+could not parse keyserver URL
+%s:%d: invalid keyserver options
+%s:%d: invalid import options
+%s:%d: invalid export options
+%s:%d: invalid verify options
+unable to set exec-path to %s
+no = sign found in group definition `%s'
+%s:%d: invalid auto-key-locate list
+WARNING: program may create a core file!
+will not run with insecure memory due to %s
+you can only make detached or clear signatures while in --pgp2 mode
+you can't sign and encrypt at the same time while in --pgp2 mode
+you must use files (and not a pipe) when working with --pgp2 enabled.
+encrypting a message in --pgp2 mode requires the IDEA cipher
+selected cipher algorithm is invalid
+selected digest algorithm is invalid
+selected compression algorithm is invalid
+selected certification digest algorithm is invalid
+completes-needed must be greater than 0
+marginals-needed must be greater than 1
+max-cert-depth must be in the range from 1 to 255
+invalid default-cert-level; must be 0, 1, 2, or 3
+invalid min-cert-level; must be 1, 2, or 3
+NOTE: simple S2K mode (0) is strongly discouraged
+invalid S2K mode; must be 0, 1 or 3
+invalid personal cipher preferences
+invalid personal digest preferences
+invalid personal compress preferences
+you may not use cipher algorithm `%s' while in %s mode
+you may not use digest algorithm `%s' while in %s mode
+you may not use compression algorithm `%s' while in %s mode
+failed to initialize the TrustDB: %s
+WARNING: recipients (-r) given without using public key encryption
+symmetric encryption of `%s' failed: %s
+--symmetric --encrypt [filename]
+you cannot use --symmetric --encrypt with --s2k-mode 0
+you cannot use --symmetric --encrypt while in %s mode
+--symmetric --sign --encrypt [filename]
+you cannot use --symmetric --sign --encrypt with --s2k-mode 0
+you cannot use --symmetric --sign --encrypt while in %s mode
+%s: symmetric+sign+encrypt failed: %s
+%s: sign+symmetric failed: %s
+-k[v][v][v][c] [user-id] [keyring]
+--gen-prime mode bits [qbits] 
+unknown configuration item `%s'
+Go ahead and type your message ...
+processing message failed: %s
+display photo IDs during signature verification
+show policy URLs during signature verification
+show all notations during signature verification
+show IETF standard notations during signature verification
+show user-supplied notations during signature verification
+show preferred keyserver URLs during signature verification
+show user ID validity during signature verification
+show revoked and expired user IDs in signature verification
+show only the primary user ID in signature verification
+validate signatures with PKA data
+elevate the trust of signatures with valid PKA data
+display photo IDs during key listings
+show policy URLs during signature listings
+show all notations during signature listings
+show IETF standard notations during signature listings
+show user-supplied notations during signature listings
+show preferred keyserver URLs during signature listings
+show user ID validity during key listings
+show revoked and expired user IDs in key listings
+show revoked and expired subkeys in key listings
+show the keyring name in key listings
+show expiration dates during signature listings
+|[file]|make a clear text signature
+encryption only with symmetric cipher
+remove keys from the public keyring
+remove keys from the secret keyring
+generate a revocation certificate
+search for keys on a key server
+update all keys from a keyserver
+|algo [files]|print message digests
+use this user-id to sign or decrypt
+|N|set compress level N (0 disables)
+generate PGP 2.x compatible messages
+(See the man page for a complete listing of all commands and options)
+Examples:
+ -se -r Bob [file]          sign and encrypt for user Bob
+ --clearsign [file]         make a clear text signature
+ --detach-sign [file]       make a detached signature
+ --list-keys [names]        show keys
+ --fingerprint [names]      show fingerprints
+no-require-cross-certification
+parse_subpacket_list
+check_permissions
+main
+can't cope with hdrlen yet
+build_packet() type=%d
+../../g10/build-packet.c
+npkey < nskey
+enc->version == 4
+do_symkey_enc: s2k=%d
+ed->mdc_method
+unused <= area->len
+not human readable
+do_plaintext(): wrote %lu bytes but expected %lu bytes
+mpi_is_opaque( sk->skey[npkey] )
+invalid packet type in build_packet()
+invalid packet type in calc_packet_length()
+delete_subpkt: buffer shorter than subpacket
+WARNING: invalid notation data found
+a notation name must have only printable characters or spaces, and end with an '='
+a user notation name must contain the '@' character
+a notation name must not contain more than one '@' character
+a notation value must not use any control characters
+build_sig_subpkt
+delete_sig_subpkt
+calc_packet_length
+do_encrypted_mdc
+do_symkey_enc
+do_secret_key
+build_packet
+enter deflate: avail_in=%u, avail_out=%u, flush=%d
+leave deflate: avail_in=%u, avail_out=%u, n=%u, zrc=%d
+begin inflate: avail_in=%u, avail_out=%u, inbuf=%u
+enter inflate: avail_in=%u, avail_out=%u
+leave inflate: avail_in=%u, avail_out=%u, zrc=%d
+do_uncompress: returning %u bytes
+build_packet(PKT_COMPRESSED) failed
+invalid compression level; using default level
+zlib deflate problem: %s
+zlib deflate problem: rc=%d
+deflate: iobuf_write failed
+out of core
+invalid lib version
+unknown error
+1.2.8
+zlib problem: %s
+zlib inflate problem: %s
+zlib inflate problem: rc=%d
+../../g10/compress.c
+compress_filter
+compress_filter
+push_compress_filter2
+enter bzCompress: avail_in=%u, avail_out=%u, flush=%d
+bz2lib deflate problem: rc=%d
+leave bzCompress: avail_in=%u, avail_out=%u, n=%u, zrc=%d
+bzCompress: iobuf_write failed
+begin bzDecompress: avail_in=%u, avail_out=%u, inbuf=%u
+enter bzDecompress: avail_in=%u, avail_out=%u
+leave bzDecompress: avail_in=%u, avail_out=%u, zrc=%d
+bz2lib inflate problem: rc=%d
+bz2lib problem: %d
+unexpected EOF in bz2lib
+../../g10/compress-bz2.c
+compress_filter_bz2
+../../g10/free-packet.c
+uid->ref > 0
+free_packet() type=%d
+free_user_id
+copy_public_key
+[User ID not found]
+../../g10/getkey.c
+01234567890abcdefABCDEF
+ 0123456789abcdefABCDEF
+	checking subkey %08lX
+	subkey not valid
+	subkey has been revoked
+	subkey has expired
+	subkey not yet valid
+	subkey looks fine
+	primary key not valid
+	primary key has expired
+	primary key may be used
+	using key %08lX
+pub == pubblock
+keydb_search failed: %s
+!ret_kdbhd
+DNS CERT
+LDAP
+fpr_len<=MAX_FINGERPRINT_LEN
+%s %.*s
+%s [?]
+%08lX%08lX %.*s
+%08lX%08lX [?]
+nodefault
+local
+ldap
+a->pkt->pkttype == PKT_PUBLIC_KEY || a->pkt->pkttype == PKT_PUBLIC_SUBKEY
+a->pkt->pkttype == PKT_SECRET_KEY || a->pkt->pkttype == PKT_SECRET_SUBKEY
+cache_public_key: already in cache
+too many entries in pk cache - disabled
+keydb_get_keyblock failed: %s
+keyblock->pkt->pkttype == PKT_PUBLIC_KEY || keyblock->pkt->pkttype == PKT_PUBLIC_SUBKEY
+expected public key but found secret key - must stop
+Invalid key %s made valid by --allow-non-selfsigned-uid
+key %s: secret key without public key - skipped
+pubblock->pkt->pkttype == PKT_PUBLIC_KEY
+secblock->pkt->pkttype == PKT_SECRET_KEY
+no secret subkey for public subkey %s - ignoring
+keyblock->pkt->pkttype == PKT_PUBLIC_KEY
+k->pkt->pkttype == PKT_PUBLIC_KEY || k->pkt->pkttype == PKT_PUBLIC_SUBKEY
+k->pkt->pkttype == PKT_USER_ID
+finish_lookup: checking key %08lX (%s)(req_usage=%x)
+	usage does not match: want=%x have=%x
+	no suitable subkeys found - trying primary
+	primary key has been revoked
+	primary key usage does not match: want=%x have=%x
+	no suitable key found -  giving up
+using subkey %s instead of primary key %s
+cache_user_id: already in cache
+error checking usability status of %s
+automatically retrieved `%s' via %s
+auto-key-locate found fingerprint %s
+get_pubkey_byfprint_fast
+key_byname
+get_pubkey_byname
+sk_from_block
+get_pubkey_fast
+pk_from_block
+merge_public_with_secret
+merge_public_with_secret
+cache_user_id
+finish_lookup
+merge_selfsigs_subkey
+merge_selfsigs_main
+merge_selfsigs
+premerge_public_with_secret
+lookup
+gnupg-ring:
+can't allocate lock for `%s'
+can't lock `%s'
+keyring `%s' created
+keyblock resource `%s': %s
+../../g10/keydb.c
+active_handles > 0
+invalid key resource URL `%s'
+unknown type of key resource `%s'
+error creating keyring `%s': %s
+used_resources <= MAX_KEYDB_RESOURCES
+failed to rebuild keyring cache: %s
+keydb_search2
+keydb_locate_writable
+keydb_release
+keydb_new
+build_packet(%d) failed: %s
+%s is the unchanged one
+%s is the new one
+%s: keyring created
+%s: close failed: %s
+../../g10/keyring.c
+%s: copy to `%s' failed: %s
+n_packets
+can't unlock `%s'
+can't seek `%s'
+!hd->current.iobuf
+error closing `%s': %s
+caching keyring `%s'
+ - deleted
+gpg --rebuild-keydb-caches
+keyring_search failed: %s
+writing sigcache packet failed
+renaming `%s' to `%s' failed: %s
+WARNING: unable to restore permissions to `%s': %s
+WARNING: 2 files with confidential information exists.
+Please fix this possible security flaw
+%s: skipping %u packets failed: %s
+resource && !resource->secret == !secret
+keyring_get_keyblock: read error: %s
+skipped packet of type %d in keyring
+re-reading keyblock failed: %s
+word search mode does not yet work
+keyring_get_keyblock failed: %s
+%lu keys cached so far (%lu signatures)
+%lu keys cached (%lu signatures)
+unexpected keyblock found (pkttype=%d)%s
+Hint: backup your keys and try running `%s'
+compare_name
+prepare_search
+keyring_search
+keyring_search
+keyring_search_reset
+keyring_delete_keyblock
+do_copy
+keyring_update_keyblock
+keyring_release
+keyring_new
+keyring_register_filename
+0123456789
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+weak key created - retrying
+../../g10/seskey.c
+i > 0
+n == nframe
+i > 1
+pk || sk
+cannot avoid weak key for symmetric cipher; tried %d times!
+can't encode a %d bit key in a %d bits frame
+can't encode a %d bit MD into a %d bits frame
+DSA requires the hash length to be a multiple of 8 bits
+DSA key %s uses an unsafe (%u bit) hash
+DSA key %s requires a %u bit or larger hash
+encode_md_value
+pkcs1_encode_md
+encode_session_key
+node %p %02x/%02x type=%s
+" %c%c%c%c
+ ctrl=%d len=%u
+empty
+public-enc
+onepass-sig
+secret-key
+public-key
+secret-subkey
+plaintext
+public-subkey
+gpg-control
+  class=%02x keyid=%08lX ts=%lu
+  keyid=%08lX a=%d u=%d %c%c%c%c
+public key is %s
+%s encrypted session key
+../../g10/mainproc.c
+      "%s"
+encrypted with %s key, ID %s
+pkdecrypt_failed %d
+encrypted with 1 passphrase
+assuming %s encrypted data
+IDEA
+decryption okay
+original file name='%.*s'
+verify2
+handle plaintext failed: %s
+uncompressing failed: %s
+Do we really need this here?
+[keybind]
+[selfsig]
+:%u:%d:%08lX%08lX:%s:%s::
+rtv:1:%u:
+%s  %4u%c/%s %s%s
+[revoked]
+%s:::::::::
+uid%*s
+rtv:2:%u:
+revoked: %s
+expires: %s
+%s::%u:%d:%08lX%08lX:%s:%s:::
+%s  %4u%c/%s %s 
+::%d:%08lX%08lX:%s:%s:
+%c       %s %s   
+[%s] 
+:%02x%c:
+!sig->pka_info
+pka-address@gnupg.org
+Signature made %s
+Key available at: 
+%08lX%08lX [uncertain] 
+BAD signature from "%s"
+Expired signature from "%s"
+Good signature from "%s"
+ [%s]
+[uncertain]
+                aka "%s"
+ %s %lu %lu %d 0 %d %d %02X 
+Signature expired %s
+Signature expires %s
+binary
+%08lX%08lX %d %d %02x %lu %d
+Can't check signature: %s
+can't hash datafile: %s
+not a detached signature
+!c->list
+!c->pipemode.op
+c->pipemode.op == 'B'
+subkey w/o mainkey
+orphaned user ID
+ring trust w/o key
+no signature found
+public key encrypted data: good DEK
+invalid symkey encrypted packet
+encrypted with unknown algorithm %d
+passphrase generated with unknown digest algorithm %d
+weird size for an encrypted session key (%d)
+encrypted with %u-bit %s key, ID %s, created %s
+public key decryption failed: %s
+encrypted with %lu passphrases
+IDEA cipher unavailable, optimistically attempting to use %s instead
+WARNING: message was not integrity protected
+WARNING: encrypted message has been manipulated!
+NOTE: sender requested "for-your-eyes-only"
+invalid control packet CTRLPKT_CLEARSIGN_START
+WARNING: multiple plaintexts seen
+proc_pkt.plaintext 89_BAD_DATA
+node->pkt->pkttype == PKT_SIGNATURE
+standalone revocation - use "gpg --import" to apply
+invalid root packet for sigclass %02x
+ERROR: unexpected packet type %d
+invalid node with packet of type %d
+signature verification suppressed
+number of one-pass packets does not match number of signature packets
+can't handle this ambiguous signature data
+               using %s key %s
+Signature made %s using %s key ID %s
+%s signature, digest algorithm %s
+WARNING: not a detached signature; file '%s' was NOT verified!
+cleartext signature without data
+WARNING: multiple signatures detected.  Only the first will be checked.
+standalone signature of class 0x%02x
+old style (PGP 2.x) signature
+invalid root packet detected in proc_tree()
+invalid pipemode control packet length
+invalid pipemode control packet code
+input data with too deeply nested packets
+pka_uri_from_sig
+check_sig_and_print
+do_check_sig
+print_userid
+add_gpg_control
+symkey_decrypt_seskey
+add_signature
+BEGIN PGP MESSAGE
+armor: %s
+invalid armor header: 
+Hash:
+RIPEMD160
+SHA1
+SHA224
+SHA256
+SHA384
+SHA512
+NotDashEscaped:
+invalid clearsig header
+Version
+MessageID
+Hash
+Charset
+unknown armor header: 
+malformed CRC
+CRC error; %06lX - %06lX
+unexpected armor: 
+invalid dash escaped line: 
+FAILED 
+armor-filter: control: %d
+../../g10/armor.c
+KEY 
+nested clear text signatures
+afx->what=%d
+Version: GnuPG v
+ (GNU/Linux)
+Comment: 
+no valid OpenPGP data found.
+armor_filter
+-----BEGIN PGP SIGNATURE-----
+END PGP MESSAGE
+END PGP PUBLIC KEY BLOCK
+END PGP SIGNATURE
+END dummy
+END PGP ARMORED FILE
+END PGP PRIVATE KEY BLOCK
+END PGP SECRET KEY BLOCK
+BEGIN PGP PUBLIC KEY BLOCK
+BEGIN PGP SIGNATURE
+BEGIN PGP SIGNED MESSAGE
+BEGIN PGP ARMORED FILE
+BEGIN PGP PRIVATE KEY BLOCK
+BEGIN PGP SECRET KEY BLOCK
+invalid radix64 character %02X skipped
+invalid armor: line longer than %d characters
+quoted printable character in armor - probably a buggy MTA has been used
+armor_filter
+md_filter
+../../g10/textfilter.c
+size > 10
+text_filter
+From 
+can't handle text lines longer than %d characters
+input line longer than %d characters
+standard
+%.20s ? %lu %lu
+progress_filter
+stdin
+can't disable core dumps: %s
+GnuPG 1.x
+SIG-COUNTER
+please use "%s%s" instead
+ZLIB
+BZIP2
+Uncompressed
+uncompressed|none
+uncompressed
+zlib
+bzip2
+%s%*s%s
+ambiguous option `%s'
+unknown option `%s'
+~/.gnupg
+GNUPGHOME
+/usr/lib/gnupg
+PATH
+Unknown weak digest '%s'
+GnuPG
+OpenPGP
+OpenPGP (older)
+old PGP
+PGP 2.x
+PGP 6.x
+PGP 7.x
+PGP 8.x
+--gnupg
+--openpgp
+--rfc2440
+--rfc1991
+--pgp2
+--pgp6
+--pgp7
+--pgp8
+WARNING: using experimental public key algorithm %s
+WARNING: Elgamal sign+encrypt keys are deprecated
+WARNING: using experimental cipher algorithm %s
+WARNING: using experimental digest algorithm %s
+WARNING: digest algorithm %s is deprecated
+please see %s for more information
+https://gnupg.org/faq/weak-digest-algos.html
+NOTE: This feature is not available in %s
+https://gnupg.org/faq/features-not-in-gnupg-1.html
+%s:%d: deprecated option "%s"
+WARNING: "%s" is a deprecated option
+WARNING: "%s" is a deprecated command - do not use it
+this message may not be usable by %s
+File `%s' exists. 
+Overwrite? (y/N) 
+openfile.overwrite.okay
+.pgp
+.sig
+.asc
+.sign
+%s: unknown suffix
+Enter new filename
+%s [%s]: 
+openfile.askoutname
+[stdout]
+writing to stdout
+writing to `%s'
+assuming signed data in `%s'
+directory `%s' created
+can't create directory `%s': %s
+new configuration file `%s' created
+WARNING: options in `%s' are not yet active during this run
+%04d-%02d-%02d
+../../g10/keyid.c
+0x%08lX
+0x%08lX%08lX
+?v3 fpr?
+never     
+len <= MAX_FINGERPRINT_LEN
+Oops: keyid_from_fingerprint: no pubkey
+fingerprint_from_sk
+fingerprint_from_pk
+keystr_from_desc
+keystr
+keystrlen
+can't handle public key algorithm %d
+packet(%d) with unknown version %d
+:%s key packet:
+	version %d, algo %d, created %lu, expires %lu
+	protect algo: %d  (hash algo: %d)
+experimental / private subpacket
+preferred-email-encoding@pgp.com
+subpacket of type %d has critical bit set
+	subpkt %d len %u (additional recipient request)
+WARNING: PGP versions > 5.0 and < 6.5.8 will automagically encrypt to this key and thereby reveal the plaintext to the owner of this ARR key. Detailed info follows:
+too short: buffer is only %u)
+trust signature of depth %d, value %d
+v%d, class 0x%02X, algo %d, digest algo %d
+subpacket of type %d too short
+buffer shorter than subpacket
+signature packet: hashed data too long
+premature eof while reading hashed signature data
+signature packet: unhashed data too long
+premature eof while reading unhashed signature data
+signature packet without timestamp
+signature packet without keyid
+:signature packet: algo %d, keyid %08lX%08lX
+	version %d, created %lu, md5len %d, sigclass 0x%02x
+	digest algo %d, begin of digest %02x %02x
+signature packet: too much data
+attribute subpacket too short
+buffer shorter than attribute subpacket
+[bad attribute packet of size %lu]
+[unknown attribute of size %lu]
+%s: invalid packet (ctb=%02x)
+%s: partial length for invalid packet type %d
+%s: indeterminate length for invalid packet type %d
+parse_packet(iob=%d): type=%d length=%lu%s (%s.%s.%d)
+WARNING: potentially insecure symmetrically encrypted session key
+:symkey enc packet: version %d, cipher %d, s2k %d, hash %d
+:pubkey enc packet: version %d, algo %d, keyid %08lX%08lX
+onepass_sig with unknown version %d
+:onepass_sig packet: keyid %08lX%08lX
+	version %d, sigclass 0x%02x, digest %d, pubkey %d, last=%d
+:attribute packet: [too large]
+:trust packet: flag=%02x sigcache=%02x
+:literal data packet:
+	mode %c (%X), created %lu, name="
+encrypted_mdc packet with unknown version %d
+:encrypted data packet:
+	length: %lu
+:encrypted data packet:
+	length: unknown
+mdc_packet with invalid encoding
+:unknown packet: type %2d, length %lu
+%4d:
+ EOF
+ %02x
+public
+secret
+public sub
+secret sub
+GNU 
+ SHA1 protection,
+ simple checksum,
+	serial-number: 
+	protect IV: 
+:rfc1991 comment packet: "
+\x%02x
+packet(%d) too short
+packet(%d) too large
+:key packet: [too large]
+	unknown algorithm %d
+	skey[%d]: 
+	unknown S2K %d
+	simple S2K
+	salted S2K
+	iter+salt S2K
+	gnu-dummy S2K
+	gnu-divert-to-card S2K
+	unknown %sS2K %d
+, algo: %d,%s hash: %d
+, salt: 
+	protect count: %lu (%lu)
+dummydata
+	encrypted stuff follows
+mpi too small
+mpi too large (%u bits)
+	skey[%d]: [encrypted]
+	checksum: %04hx
+	pkey[%d]: 
+	keyid: %08lX%08lX
+packet shorter tham mpi
+hashed 
+critical 
+not 
+[invalid regexp subpacket]
+[invalid trust subpacket]
+signer's user ID
+[not human readable]
+[error]
+primary user ID
+[too short]
+	%s%ssubpkt %d len %u (
+sig created %s
+sig expires after %s
+sig does not expire
+%sexportable
+regular expression: "
+%srevocable
+key expires after %s
+key does not expire
+pref-sym-algos:
+revocation key: 
+c=%02x a=%d f=
+issuer key ID %08lX%08lX
+pref-hash-algos:
+pref-zip-algos:
+key server preferences:
+preferred key server: 
+key flags:
+revocation reason 0x%02x (
+Big Brother's key (ignored): 
+features:
+signature: 
+	data: 
+../../g10/parse-packet.c
+max_namelen > 70
+[%d attributes of size %lu]
+[%.20s image of size %lu]
+ (new_ctb)
+OpenPGP draft 
+GnuPG 
+!pkt->pkt.generic
+[don't know]
+%s: 1st length byte missing
+%s: 2nd length byte missing
+%s: 4 byte length invalid
+%s: garbled packet detected
+copy_packet: compressed!
+packet with S2K %d too short
+!pktlen
+, seskey %d bits
+	salt 
+, count %lu (%lu)
+	unsupported algorithm %d
+:user ID packet: "
+:attribute packet: %s
+:%scomment packet: "
+:trust packet: empty
+packet(%d) too short (%lu)
+	raw data: 
+unknown length
+%lu bytes
+:compressed packet: algo=%d
+	mdc_method: %d
+:mdc packet: length=%lu
+:packet 63: length %lu 
+- gpg control packet
+- private (rest length %lu)
+:marker packet: PGP
+invalid marker packet
+dump:
+parse
+search
+copy
+some
+skip
+make_attribute_uidname
+parse_symkeyenc
+parse
+primegen
+pk_dsa
+pk_elg
+[GNUPG:] 
+%.20s X 100 100
+%.20s %c 0 0
+../../g10/status.c
+[GNUPG:] %s 
+ENTER
+LEAVE
+ABORT
+GOODSIG
+BADSIG
+ERRSIG
+BADARMOR
+KEYEXPIRED
+KEYREVOKED
+TRUST_UNDEFINED
+TRUST_NEVER
+TRUST_MARGINAL
+TRUST_FULLY
+TRUST_ULTIMATE
+SHM_INFO
+SHM_GET
+SHM_GET_BOOL
+SHM_GET_HIDDEN
+NEED_PASSPHRASE
+VALIDSIG
+SIG_ID
+ENC_TO
+NODATA
+BAD_PASSPHRASE
+NO_PUBKEY
+NO_SECKEY
+NEED_PASSPHRASE_SYM
+DECRYPTION_FAILED
+DECRYPTION_OKAY
+MISSING_PASSPHRASE
+GOOD_PASSPHRASE
+GOODMDC
+BADMDC
+ERRMDC
+IMPORTED
+IMPORT_RES
+FILE_START
+FILE_DONE
+FILE_ERROR
+BEGIN_DECRYPTION
+END_DECRYPTION
+BEGIN_ENCRYPTION
+END_ENCRYPTION
+DELETE_PROBLEM
+GET_LINE
+GOT_IT
+PROGRESS
+SIG_CREATED
+SESSION_KEY
+NOTATION_NAME
+NOTATION_DATA
+POLICY_URL
+BEGIN_STREAM
+END_STREAM
+USERID_HINT
+UNEXPECTED
+INV_RECP
+NO_RECP
+ALREADY_SIGNED
+EXPSIG
+EXPKEYSIG
+ATTRIBUTE
+IMPORT_OK
+IMPORT_CHECK
+REVKEYSIG
+CARDCTRL
+NEWSIG
+PLAINTEXT
+PLAINTEXT_LENGTH
+KEY_NOT_CREATED
+NEED_PASSPHRASE_PIN
+SIG_SUBPACKET
+SC_OP_FAILURE
+SC_OP_SUCCESS
+BACKUP_KEY_CREATED
+PKA_TRUST_BAD
+PKA_TRUST_GOOD
+BEGIN_SIGNING
+DECRYPTION_INFO
+can't open fd %d for status output: %s
+client modified shm control block - abort
+client returns too large data (%u bytes)
+too much shared memory requested; only 8k are allowed
+can't get %uk of shared memory: %s
+locking shared memory %d failed: %s
+shmctl IPC_STAT of %d failed: %s
+shmctl IPC_SET of %d failed: %s
+can't attach %uk shared memory: %s
+mapped %uk shared memory at %p, id=%d
+shmctl IPC_RMDID of %d failed: %s
+pv=1 pid=%d shmid=%d sz=%u lz=%u
+SIGEXPIRED deprecated-use-keyexpired-instead
+do_shm_get
+%X %lu 
+error creating `%s': %s
+exceeded --max-output limit
+Error writing to `%s': %s
+Error closing `%s': %s
+Error flushing plaintext: %s
+Detached signature.
+detached_signature.filename
+reading stdin ...
+../../g10/plaintext.c
+no signed data
+can't open signed data `%s'
+data not saved; use option "--output" to save it
+clearsig encountered while not expected
+Problem reading source (%u bytes remaining)
+Please enter name of data file: 
+No such file, try again or hit enter to quit.
+ask_for_detached_datafile
+public key %s is %lu second newer than the signature
+public key %s is %lu seconds newer than the signature
+key %s was created %lu second in the future (time warp or clock problem)
+key %s was created %lu seconds in the future (time warp or clock problem)
+NOTE: signature key %s expired %s
+Note: signatures using the %s algorithm are rejected
+assuming bad signature from key %s due to an unknown critical bit
+WARNING: signature digest conflict in message
+WARNING: signing subkey %s is not cross-certified
+https://gnupg.org/faq/subkey-cross-certify.html
+WARNING: signing subkey %s has an invalid cross-certification
+(sig->keyid[0]!=pk->keyid[0]) || (sig->keyid[0]!=pk->keyid[1])
+root->pkt->pkttype == PKT_PUBLIC_KEY
+key %s: no subkey for subkey revocation signature
+key %s: no subkey for subkey binding signature
+unode->pkt->pkttype == PKT_USER_ID
+key %s: no user ID for key signature packet of class %02x
+%s %s %lu
+../../g10/sig-check.c
+IS_KEY_REV(sig)
+hash_uid_node
+check_key_signature2
+check_revocation_keys
+check_revocation_keys
+spk:%d:%u:%u:
+1 bad signature
+%d bad signatures
+../../g10/keylist.c
+primary0
+pkd:%d:%u:
+      Card serial no. =
+sec  %4u%c/%s %s %s
+pub  %4u%c/%s %s %s
+%s%c  %4u%c/%s  
+created: %s
+                      
+card-no: 
+Critical signature policy: 
+Signature policy: 
+Preferred keyserver: 
+%d %u %u 
+Critical signature notation: 
+Signature notation: 
+opt.show_subpackets
+ %lu %u %u %u %lu %lu %u
+rvk:::%d::::::
+:%02x%s:
+ Primary key fingerprint:
+      Subkey fingerprint:
+      Key fingerprint =
+fpr:::::::::
+ %02X%02X
+Oops; key lost!
+pub:
+%s:r::::
+%s:e::::
+%s:%c::::
+sub:
+:%u:%d:%08lX%08lX:%s:%s:::::
+[revoked]:
+[key binding]:
+[subkey revoked]:
+sig::::::::::%02x%c:
+:%02x%c::
+:::%d:
+sec%c  %4u%c/%s %s
+expired: %s
+pub   %4u%c/%s %s
+uid%*s%s 
+sub   %4u%c/%s %s
+ssb%c  %4u%c/%s %s
+keydb_search_next failed: %s
+Keyring
+error reading key: %s
+tru:
+:%d:%lu:%lu
+:%d:%d:%d
+1 signature not checked due to a missing key
+%d signatures not checked due to missing keys
+1 signature not checked due to an error
+%d signatures not checked due to errors
+Critical preferred keyserver: 
+primary key is not really primary!
+sec::%u:%d:%08lX%08lX:%s:%s:::
+ssb::%u:%d:%08lX%08lX:%s:%s:::::
+sig                             [unexpected signature class 0x%02x]
+keydb_search_first failed: %s
+can't open fd %d for attribute output: %s
+do_reorder_keyblock
+print_revokers
+dump_attribs
+print_subpackets_colon
+ caught ... exiting
+../../g10/signal.c
+which == 1
+pause_on_sigusr
+APPTYPE
+DISP-NAME
+DISP-LANG
+DISP-SEX
+PUBKEY-URL
+CHV-STATUS
+EXTCAP
+KEY-FPR
+KEY-TIME
+CA-FPR
+PRIVATE-DO-
+1234
+../../g10/cardglue.c
+no >= 0 && no <= 3
+KEY-ATTR
+%d %d %d
+LOGIN-DATA
+KEY-DATA
+KEY-CREATED-AT
+%s%s%s
+SCD SERIALNO openpgp
+selecting openpgp failed: %s
+card reader not available
+cardctrl.insert_card.okay
+1 %.32s
+cardctrl.change_card.okay
+SCD GETATTR
+SCD LEARN --force
+SCD LEARN
+SCD SETATTR
+SCD WRITEKEY
+OPENPGP.%d
+--force 
+SCD GENKEY %s%d
+SCD GENKEY
+ --reset
+SCD PASSWD%s %d
+SCD PASSWD
+SCD CHECKPIN
+passphrase.adminpin.ask
+passphrase.pin.ask
+OPENPGP 3 
+OPENPGP 1 
+OPENPGP 3
+OPENPGP 1
+Enter New Admin PIN: 
+Enter New PIN: 
+Enter Admin PIN: 
+Enter PIN: 
+passphrase.adminpin.new.ask
+Repeat this PIN: 
+passphrase.pin.repeat
+passphrase.pin.new.ask
+--hash=sha224 
+--hash=sha1 
+--hash=sha256 
+--hash=sha384 
+--hash=sha512 
+--hash=rmd160 
+--hash=md5 
+SCD SETDATA
+SCD PKSIGN %s%s
+SCD PKSIGN
+SCD PKDECRYPT %s
+SCD PKDECRYPT
+error parsing received key data
+unknown parameter name in received key data
+sending command `%s' to agent failed: %s
+error: LF detected in status line - not sending
+Please insert the card and hit return or enter 'c' to cancel: 
+invalid serial number in keyring detected
+Please remove the current card and insert the one with serial number:
+   %.*s
+Hit return when ready or enter 'c' to cancel: 
+SCD WRITEKEY --force OPENPGP.%d
+PIN not correctly repeated; try again
+pin_cb called without proper PIN info hack
+learn_status_cb
+gcry_md_hash_buffer
+PPC Card Systems
+Prism
+OpenFortress
+Wewid AB
+ZeitControl
+Magrathea
+FSIJ
+test card
+unmanaged S/N range
+ [none]
+Signature key ....:
+Encryption key....:
+Authentication key:
+[not set]
+cardedit.genkeys.size
+rounded up to %u bits
+--force %d 1 %u
+D27600012401
+not an OpenPGP card
+error reading `%s': %s
+../../g10/card-util.c
+keyno >= 0 && keyno <= 3
+Replace existing key? (y/N) 
+cardedit.genkeys.replace_key
+CHV-STATUS-1
+error checking the PIN: %s
+Name of cardholder: 
+OpenPGP card no. %s detected
+can't do this in batch mode
+Error changing the PIN: %s
+PIN changed.
+Your selection? 
+cardutil.change_pin.menu
+Error unblocking the PIN: %s
+Reset Code set.
+AID:::
+AID:%s:
+Application ID ...: %s
+netkey-card:
+this is a NetKey card
+DINSIG
+dinsig-card:
+pkcs15-card:
+GELDKARTE
+geldkarte-card:
+unknown:
+not an OpenPGP card
+openpgp-card:
+version:%.4s:
+vendor:%04x:%s:
+serial:%.8s:
+lang:
+sex:%c:
+url:
+login:
+keyattr:%d:%d:%u:
+maxpinlen:%d:%d:%d:
+pinretry:%d:%d:%d:
+sigcount:%lu:::
+private_do:%d:
+cafpr:
+fprtime:%lu:%lu:%lu:
+Manufacturer .....: %s
+Serial number ....: %.8s
+Language prefs ...: 
+female
+unspecified
+Sex ..............: %s
+URL of public key : 
+Login data .......: 
+Private DO 1 .....: 
+Private DO 2 .....: 
+Private DO 3 .....: 
+Private DO 4 .....: 
+CA fingerprint %d .:
+not forced
+ %u%c
+Max. PIN lengths .: %d %d %d
+PIN retry counter : %d %d %d
+Signature counter : %lu
+      created ....: %s
+General key info..: 
+[none]
+forcepin:%d:::
+Key attributes ...:
+Signature PIN ....: %s
+   (1) Signature key
+   (2) Encryption key
+   (3) Authentication key
+cardedit.genkeys.subkeytype
+Invalid selection.
+cardedit.genkeys.storekeytype
+quit this menu
+CA-FPR-1
+CA-FPR-2
+CA-FPR-3
+Admin-only command
+%-10s %s
+Admin commands are allowed
+Cardholder's surname: 
+keygen.smartcard.surname
+Cardholder's given name: 
+keygen.smartcard.givenname
+error setting Name: %s
+URL to retrieve public key: 
+cardedit.change_url
+error setting URL: %s
+Login data (account name): 
+cardedit.change_login
+error setting login data: %s
+Language preferences: 
+cardedit.change_lang
+error setting lang: %s
+cardedit.change_sex
+Error: invalid response.
+error setting sex: %s
+CA fingerprint: 
+cardedit.change_cafpr
+error setting cafpr: %s
+Private DO data: 
+cardedit.change_private_do
+error setting private DO: %s
+usage: writecert 3 < FILE
+OPENPGP.3
+usage: readcert 3 > FILE
+error writing `%s': %s
+cardedit.genkeys.backup_enc
+Replace existing keys? (y/N) 
+cardedit.genkeys.replace_keys
+12345678
+123456
+gpg/card> 
+cardedit.prompt
+admin
+show admin commands
+show this help
+list all available data
+change card holder's name
+change URL to retrieve key
+fetch
+change the login name
+change card holder's sex
+change a CA fingerprint
+forcesig
+generate
+generate new keys
+unblock
+privatedo
+readcert
+writecert
+What keysize do you want for the Signature key? (%u) 
+What keysize do you want for the Encryption key? (%u) 
+What keysize do you want for the Authentication key? (%u) 
+%s keysizes must be in the range %u-%u
+The card will now be re-configured to generate a key of %u bits
+NOTE: There is no guarantee that the card supports the requested size.
+      If the key generation does not succeed, please check the
+      documentation of your card to see what sizes are allowed.
+error changing size of key %d to %u bits: %s
+key operation not possible: %s
+error getting current key info: %s
+Error: Only plain ASCII is currently allowed.
+Error: The "<" character may not be used.
+Error: Double spaces are not allowed.
+error allocating enough memory: %s
+WARNING: such a key has already been stored on the card!
+error setting forced signature PIN flag: %s
+error clearing forced signature PIN flag: %s
+OpenPGP card not available: %s
+This command is only available for version 2 cards
+Reset Code not or not anymore available
+1 - change PIN
+2 - unblock PIN
+3 - change Admin PIN
+4 - set the Reset Code
+Q - quit
+PIN unblocked and new PIN set.
+Error setting the Reset Code: %s
+this is a DINSIG compliant card
+this is a PKCS#15 compliant card
+this is a Geldkarte compliant card
+serial number longer than expected
+Version ..........: %.1s%c.%.1s%c
+Please select the type of key to generate:
+node->pkt->pkttype == PKT_SECRET_KEY || node->pkt->pkttype == PKT_SECRET_SUBKEY
+The card does not support the import of keys
+You may only store a 1024 bit RSA key on the card
+Please select where to store the key:
+Key does not match the card's capability.
+unknown key protection algorithm
+secret parts of key are not available
+secret key already stored on a card
+error writing key to card: %s
+Admin commands are not allowed
+Error: Combined name too long (limit is %d characters).
+Error: URL too long (limit is %d characters).
+error retrieving URL from card: %s
+error retrieving key fingerprint from card: %s
+Error: Login data too long (limit is %d characters).
+Error: invalid length of preference string.
+Error: invalid characters in preference string.
+Sex ((M)ale, (F)emale or space): 
+usage: cafpr N
+       1 <= N <= 3
+Error: invalid formatted fingerprint.
+usage: privatedo N
+       1 <= N <= 4
+Error: Private DO too long (limit is %d characters).
+usage error: redirection to file required
+error writing certificate to card: %s
+error reading certificate from card: %s
+error getting current status: %s
+error toggling signature PIN flag: %s
+Make off-card backup of encryption key? (Y/n) 
+NOTE: keys are already stored on the card!
+Please note that the factory settings of the PINs are
+   PIN = `%s'     Admin PIN = `%s'
+You should change them using the command --change-pin
+Invalid command  (try "help")
+fetch the key specified in the card URL
+change the language preferences
+toggle the signature force PIN flag
+menu to change or unblock the PIN
+verify the PIN and list all data
+unblock the PIN using a Reset Code
+card_store_subkey
+replace_existing_key_p
+memory allocation error in send_key_data
+invalid structure of OpenPGP card (DO 0x93)
+failed to store the fingerprint: %s
+failed to store the creation date: %s
+failed to use default PIN as %s: %s - disabling further default use
+||Please enter the PIN%%0A[sigs done: %lu]
+PIN callback returned error: %s
+PIN for CHV%d is too short; minimum length is %d
+warning: constructed DO too short
+error retrieving CHV status from card
+%d Admin PIN attempts remaining before card is permanently locked
+|A|Please enter the Admin PIN%%0A[remaining attempts: %d]
+error reading application data
+fingerprint on card does not match requested one
+existing key will be replaced
+gc=%d ki=%d fc=%d pd=%d mcl3=%u aac=%d sm=%d
+please wait while key is being generated ...
+key generation completed (%d seconds)
+response does not contain the public key data
+response does not contain the RSA modulus
+response does not contain the RSA public exponent
+||Please enter the Reset Code for the card
+Reset Code is too short; minimum length is %d
+verification of Admin PIN is currently prohibited through this command
+card does not support digest algorithm %s
+signatures created so far: %lu
+error changing size of key %d to %u bits
+size of key %d changed to %u bits
+protected-private-key passed to writekey
+shadowed-private-key passed to writekey
+RSA modulus size is %u bits (%u bytes)
+RSA modulus missing or not of size %d bits
+RSA public exponent missing or larger than %d bits
+RSA prime %s missing or not of size %d bits
+tp - template <= template_size
+warning: historical bytes are too short
+warning: bad category indicator in historical bytes
+warning: bad Compact-TLV in historical bytes
+can't access %s - invalid OpenPGP card?
+Algorithm Attributes Signature
+Algorithm Attributes Decryption
+Algorithm Attributes Authentication
+../../g10/app-openpgp.c
+c->tag != tag
+tag <= 0xffff
+chvno == 1 || chvno == 2
+using default PIN as %s
+CHV2
+!*pinvalue
+verify CHV%d failed: %s
+||Please enter the PIN
+card is permanently locked!
+|A|Please enter the Admin PIN
+crt+n
+std+n
+keyno >=0 && keyno <= 2
+error reading DO 0x%02X
+Key-Attr-%s ..: 
+RSA, n=%u, e=%u, fmt=%s
+keyno >= 1 && keyno <= 3
+error reading fingerprint DO
+OPENPGP.2
+keyidx >=0 && keyidx <= 2
+key already exists
+generating new key
+writing new key
+%d 1 %u %u %d
+PRIVATE-DO-1
+PRIVATE-DO-2
+PRIVATE-DO-3
+PRIVATE-DO-4
+generating key failed
+|AN|New Admin PIN
+|N|New PIN
+error getting new PIN: %s
+chvno == 1 || chvno == 3
+|RN|New Reset Code
+[CHV3]
+OPENPGP.1
+protected-private-key
+shadowed-private-key
+created-at
+creation timestamp missing
+rsa_e_len <= rsa_e_reqlen
+rsa_e_len <= 4
+tp - template == template_len
+failed to store the key: %s
+ --force %d %d %u
+failed to set `%s': %s
+AES-128
+3DES
+OPENPGP
+AID: 
+Historical Bytes: 
+CHV Status Bytes
+Extended Capability Flags
+Version-2 ......: %s
+Get-Challenge ..: %s
+ (%u bytes max)
+Key-Import .....: %s
+Change-Force-PW1: %s
+Private-DOs ....: %s
+Algo-Attr-Change: %s
+SM-Support .....: %s
+ (%s)
+Max-Cert3-Len ..: %u
+Max-Cmd-Data ...: %u
+Max-Rsp-Data ...: %u
+Cmd-Chaining ...: %s
+Ext-Lc-Le ......: %s
+Status Indicator: %02X
+GnuPG-No-Sync ..: %s
+GnuPG-Def-PW2 ..: %s
+DO `%s' not available: %s
+DO `%s': 
+DO `%s': `%.*s'
+[%u]
+$AUTHKEYID
+$DISPSERIALNO
+CERT-3
+SM-KEY-ENC
+SM-KEY-MAC
+Login Data
+Historical Bytes
+Eleele
+Cardholder Related Data
+Name
+Language preferences
+Application Related Data
+Discretionary Data Objects
+Extended Card Capabilities
+CA Fingerprints
+Generation time
+Security Support Template
+Digital Signature Counter
+Private DO 1
+Private DO 2
+Private DO 3
+Private DO 4
+Cardholder certificate
+parse_algorithm_attribute
+add_tlv
+build_privkey_template
+change_keyattr
+do_writekey
+does_key_exist
+get_cached_data
+compare_fingerprint
+do_change_pin
+verify_a_chv
+flush_cache_item
+new_reader_slot: out of slots
+reader slot %d: using ccid driver
+ct_activate_card: can't get status of reader %d: %s
+ct_activate_card(%d): activation failed: %s
+ct_activate_card(%d): ATR too long
+pcsc_get_status_change failed: %s (0x%lx)
+ccid_transceive failed: (0x%lx)
+reader slot %d: active protocol:
+reader slot %d: not connected
+slot >= 0 && slot < MAX_READER
+pcsc_disconnect failed: %s (0x%lx)
+pcsc_connect failed: %s (0x%lx)
+pcsc_status failed: %s (0x%lx) %lu
+ATR returned by pcsc_status is too large
+pcsc_transmit failed: %s (0x%lx)
+send apdu: c=%02X i=%02X p1=%02X p2=%02X lc=%d le=%d em=%d
+ response: sw=%04X  datalen=%d
+apdu_send_simple(%d): %d more bytes available
+     more: sw=%04X  datalen=%d
+apdu_send_simple(%d) got unexpected status %04X from get response
+apdu_send_simple(%d) failed: %s
+apdu_send_simple(%d) for get response failed: %s
+apdu_open_reader: failed to open driver: %s
+apdu_open_reader: invalid CT-API driver
+open_ct_reader: invalid port %d requested
+apdu_open_ct_reader failed on port %d: %s
+apdu_open_reader: failed to open driver `%s': %s
+apdu_open_reader: invalid PC/SC driver (%d%d%d%d%d%d%d%d%d%d%d%d)
+pcsc_establish_context failed: %s (0x%lx)
+error allocating memory for reader list
+pcsc_list_readers failed: %s (0x%lx)
+invalid response from pcsc_list_readers
+error allocating memory for reader name
+apdu_send_direct(%d): %d more bytes available
+apdu_send_direct(%d) got unexpected status %04X from get response
+apdu_send_direct(%d) failed: %s
+apdu_send_direct(%d) for get response failed: %s
+ICC not present
+Processor ICC present
+Memory ICC present
+reader slot %d: %s
+invalid data
+ct error
+transmission error
+memory allocation error
+HTSI error
+unknown CT-API error
+  received data:
+  CT_data:
+unknown PC/SC error code
+invalid PC/SC error code
+slot %d: ATR=
+ raw apdu:
+ raw
+../../g10/apdu.c
+  PCSC_data:
+eof reached
+eeprom failure
+wrong length
+CHV wrong
+CHV blocked
+use conditions not satisfied
+bad parameter
+file not found
+record not found
+reference not found
+bad Lc
+bad P0 or P1
+instruction not supported
+success
+unknown status error
+more data available
+invalid value
+unknown host status error
+already connected
+no keypad
+aborted
+no reader
+general error
+card I/O error
+card inactive
+no card
+locking failed
+no driver
+apdulen <= apdu_buffer_size
+resultlen < bufsize
+      dump: 
+CT_init
+CT_data
+CT_close
+SCardEstablishContext
+SCardReleaseContext
+SCardListReaders
+SCardGetStatusChange
+SCardConnect
+SCardReconnect
+SCardDisconnect
+SCardStatus
+SCardBeginTransaction
+SCardEndTransaction
+SCardTransmit
+SCardSetTimeout
+detected reader `%s'
+internal error
+invalid handle
+invalid parameter
+invalid target
+no memory
+waited too long
+insufficient buffer
+unknown reader
+sharing violation
+no smartcard
+unknown card
+can't dispose
+proto mismatch
+not ready
+system cancelled
+comm error
+invalid ATR
+not transacted
+reader unavailable
+PCI too small
+reader unsupported
+duplicate reader
+card unsupported
+no service
+service stopped
+unsupported feature
+unsupported card
+unresponsive card
+unpowered card
+reset card
+removed card
+inserted card
+apdu_send_direct
+send_le
+connect_pcsc_card
+disconnect_pcsc_card
+ccid-driver: %s:
+Command not supported
+Slot busy
+PIN cancelled
+PIN timeout
+Automatic sequence ongoing
+Deactivated Protocol
+Procedure byte conflict
+ICC class not supported
+ICC protocol not supported
+Bad checksum in ATR
+Bad TS in ATR
+Parameter error at offset %d
+Error code %02X
+5.0V
+3.0V
+1.8V
+ T=0
+ T=1
+ (Invalid values detected)
+ 2-wire
+ 3-wire
+ I2C
+ accept
+ eject
+ capture
+ lock
+echo
+  %02X
+none
+%u cols %u lines
+ verification
+ modification
+ccid-driver:   [%04lu] 
+ (continued)
+ (continues+ends)
+ (continues+continued)
+ (XferBlock-expected)
+ (running)
+ (stopped-L)
+ (stopped-H)
+ (stopped)
+RDR_to_PC_DataBlock
+RDR_to_PC_SlotStatus
+RDR_to_PC_Parameters
+RDR_to_PC_Escape
+RDR_to_PC_DataRate
+Unknown RDR_to_PC command
+5.0 V
+3.0 V
+1.8 V
+ (DataBlock-expected)
+PC_to_RDR_IccPowerOn
+PC_to_RDR_IccPowerOff
+PC_to_RDR_GetSlotStatus
+PC_to_RDR_XfrBlock
+PC_to_RDR_GetParameters
+PC_to_RDR_ResetParameters
+PC_to_RDR_SetParameters
+PC_to_RDR_Escape
+PC_to_RDR_IccClock
+PC_to_RDR_T0APDU
+PC_to_RDR_Secure
+PC_to_RDR_Mechanical
+PC_to_RDR_Abort
+PC_to_RDR_SetDataRate
+Unknown PC_to_RDR command
+/dev/cmx0
+../../g10/ccid-driver.c
+r_rid
+%04X:%04X:
+0000:%04X:%s:0
+ccid-driver: out of memory
+!"transport not defined"
+!"no transport"
+ %d:%c%c
+ [more]
+request
+apdulen
+card_busy
+/dev/cmx1
+ccid-driver:   dwLength ..........: %u
+ccid-driver:   bSlot .............: %u
+ccid-driver:   bSeq ..............: %u
+ccid-driver:   bStatus ...........: %u
+ccid-driver:   bError ............: %u
+An all inclusive hardware error occurred
+Overrun error while talking to the ICC
+Parity error while talking to the ICC
+CCID timed out while talking to the ICC
+Host aborted the current activity
+ccid-driver: CCID command failed: %s
+ccid-driver: sending abort sequence for seqno %d
+ccid-driver: usb_control_msg error: %s
+ccid-driver: usb_bulk_write error in abort_cmd: %s
+ccid-driver: usb_bulk_write failed in abort_cmd: %d
+ccid-driver: usb_bulk_read error in abort_cmd: %s
+ccid-driver: bulk-in msg in abort_cmd too short (%u)
+ccid-driver: unexpected bulk-in slot (%d) in abort_cmd
+ccid-driver: status: %02X  error: %02X  octet[9]: %02X
+ccid-driver: sending abort sequence succeeded
+ccid-driver: idVendor: %04X  idProduct: %04X  bcdDevice: %04X
+ccid-driver: CCID device descriptor is too short
+ccid-driver: ChipCard Interface Descriptor:
+ccid-driver:   bLength             %5u
+ccid-driver:   bDescriptorType     %5u
+ccid-driver:   bcdCCID             %2x.%02x
+  (Warning: Only accurate for version 1.0)
+ccid-driver:   nMaxSlotIndex       %5u
+ccid-driver:   bVoltageSupport     %5u  %s
+ccid-driver:   dwProtocols         %5u 
+ccid-driver:   dwDefaultClock      %5u
+ccid-driver:   dwMaxiumumClock     %5u
+ccid-driver:   bNumClockSupported  %5u
+ccid-driver:   dwDataRate        %7u bps
+ccid-driver:   dwMaxDataRate     %7u bps
+ccid-driver:   bNumDataRatesSupp.  %5u
+ccid-driver:   dwMaxIFSD           %5u
+ccid-driver:   dwSyncProtocols  %08X 
+ccid-driver:   dwMechanical     %08X 
+ccid-driver:   dwFeatures       %08X
+ccid-driver:     Auto configuration based on ATR
+ccid-driver:     Auto activation on insert
+ccid-driver:     Auto voltage selection
+ccid-driver:     Auto clock change
+ccid-driver:     Auto baud rate change
+ccid-driver:     Auto parameter negotiation made by CCID
+ccid-driver:     Auto PPS made by CCID
+ccid-driver:     WARNING: conflicting negotiation features
+ccid-driver:     CCID can set ICC in clock stop mode
+ccid-driver:     NAD value other than 0x00 accepted
+ccid-driver:     Auto IFSD exchange
+ccid-driver:     TPDU level exchange
+ccid-driver:     Short APDU level exchange
+ccid-driver:     Short and extended APDU level exchange
+ccid-driver:     WARNING: conflicting exchange levels
+ccid-driver:   dwMaxCCIDMsgLen     %5u
+ccid-driver:   bClassGetResponse    
+ccid-driver:   bClassEnvelope       
+ccid-driver:   wlcdLayout           
+ccid-driver:   bPINSupport         %5u 
+ccid-driver:   bMaxCCIDBusySlots   %5u
+ccid-driver:   junk             
+ccid-driver: this drivers requires that the reader supports T=1, TPDU or APDU level exchange and auto configuration - this is not available
+ccid-driver: enabling workaround for buggy SCM readers
+ccid-driver: usb_bulk_read error: %s
+ccid-driver: read from %d failed: %s
+ccid-driver: bulk-in msg too short (%u)
+ccid-driver: unexpected bulk-in slot (%d)
+ccid-driver: bulk-in seqno does not match (%d/%d)
+ccid-driver: time extension requested (%02X,%02X)
+ccid-driver: unexpected bulk-in msg type (%02x)
+ccid-driver:   bChainParameter ...: 0x%02x%s
+ccid-driver:   bClockStatus ......: 0x%02x%s
+ccid-driver:   protocol ..........: T=%d
+ccid-driver:   bmFindexDindex ....: %02X
+ccid-driver:   bmTCCKST1 .........: %02X
+ccid-driver:   bGuardTimeT1 ......: %02X
+ccid-driver:   bmWaitingIntegersT1: %02X
+ccid-driver:   bClockStop ........: %02X
+ccid-driver:   bIFSC .............: %d
+ccid-driver:   bNadValue .........: %d
+ccid-driver:   buffer[9] .........: %02X
+ccid-driver:   dwClockFrequency ..: %u
+ccid-driver:   dwDataRate ..... ..: %u
+ccid-driver:   bMessageType ......: %02X
+ccid-driver:   bPowerSelect ......: 0x%02x (%s)
+ccid-driver:   bBWI ..............: 0x%02x
+ccid-driver:   wLevelParameter ...: 0x%04x%s
+ccid-driver:   bProtocolNum ......: 0x%02x
+ccid-driver:   bClockCommand .....: 0x%02x
+ccid-driver:   bmChanges .........: 0x%02x
+ccid-driver:   bClassGetResponse .: 0x%02x
+ccid-driver:   bClassEnvelope ....: 0x%02x
+ccid-driver:   bBMI ..............: 0x%02x
+ccid-driver:   bFunction .........: 0x%02x
+ccid-driver: usb_bulk_write error: %s
+ccid-driver: usb_bulk_write failed: %d
+ccid-driver: writen to %d failed: %s
+ccid-driver: usb_open failed: %s
+ccid-driver: found CCID reader %d (ID=%s)
+ccid-driver: failed to open `%s': %s
+ccid-driver: no CCID readers found
+ccid-driver: no CCID reader with ID %s
+ccid-driver: no CCID reader with number %d
+ccid-driver: setting up transport for CardMan 4040
+ccid-driver: using CCID reader %d (ID=%s)
+ccid-driver: device not supported
+ccid-driver: usb_claim_interface failed: %d
+ccid-driver: usb_intr_read error: %s
+ccid-driver: intr-in msg too short
+ccid-driver: notify slot change:
+ccid-driver: hardware error occured
+ccid-driver: unknown intr-in msg of type %02X
+ccid-driver: USB: CALLING USB_CLEAR_HALT
+ccid-driver: USB: RETRYING bulk_in AGAIN
+ccid-driver: GetParameters failed
+ccid-driver: SetParameters failed (ignored)
+ccid-driver: T=1: put %c-block seq=%d%s
+ccid-driver: T=1: got %c-block seq=%d err=%d%s
+ccid-driver: invalid response for S-block (Change-IFSD)
+ccid-driver: IFSD has been set to %d
+ccid-driver: provided buffer too short for received data (%u/%u)
+ccid-driver: T=1: requesting resync
+ccid-driver: T=1: 3 failed retries
+ccid-driver: R-block with wrong seqno received on more bit
+ccid-driver: unexpected ACK R-block received
+ccid-driver: T=1: S-block %s received cmd=%d
+ccid-driver: T=1: requesting an ifsc=%d
+ccid-driver: T=1: waittime extension of bwi=%d
+ccid-driver: T=1: resync ack from reader
+ccid-driver: sending escape sequence to switch to a case 1 APDU
+ccid-driver: I-block with wrong seqno received
+ccid-driver: chaining requested but not supported for Secure operation
+ccid-driver: No retries supported for Secure operation
+ccid-driver: chaining not supported on Secure operation
+ccid-driver: T=1: S-block %s received cmd=%d for Secure operation
+ccid_transceive_apdu_level
+ccid_transceive
+prepare_special_transport
+ccid_open_reader
+scan_or_find_devices
+../../g10/pkclist.c
+This key belongs to us
+Use this key anyway? (y/N) 
+untrusted_key.override
+failed to get the keyblock
+No reason specified
+Key is superseded
+Key has been compromised
+Key is no longer used
+User ID is no longer valid
+reason for revocation: 
+code=%02x
+revocation comment: 
+Oops, PK not in keyblock
+iImMqQsS
+No trust value assigned to:
+%4u%c/%s %s
+  aka "%s"
+  %d = I do NOT trust
+  %d = I trust marginally
+  %d = I trust fully
+  %d = I trust ultimately
+  m = back to the main menu
+Your decision? 
+edit_ownertrust.value
+  s = skip this key
+  q = quit
+Note: This key has expired!
+--hidden-recipient
+%s: skipped: %s
+--hidden-encrypt-to
+Current recipients:
+pklist.user_id.enter
+%4u%c/%s %s "
+No such user ID.
+Public key is disabled.
+no valid addressees
+No trust check due to `--trust-model always' option
+invalid trustlevel %u returned from validation layer
+%s: There is no assurance this key belongs to the named user
+%s: There is limited assurance this key belongs to the named user
+This key probably belongs to the named user
+It is NOT certain that the key belongs to the person named
+in the user ID.  If you *really* know what you are doing,
+you may answer the next question with yes.
+How much do you trust that this key actually belongs to the named user?
+Please decide how far you trust this user to correctly verify other users' keys
+(by looking at passports, checking fingerprints from different sources, etc.)
+  %d = I don't know or won't say
+The minimum trust level for this key is: %s
+Do you really want to set this key to ultimate trust? (y/N) 
+edit_ownertrust.set_ultimate.okay
+Ooops; the key vanished  - can't check the trust
+WARNING: Using untrusted key!
+WARNING: this key might be revoked (revocation key not present)
+WARNING: This key has been revoked by its designated revoker!
+WARNING: This key has been revoked by its owner!
+         This could mean that the signature is forged.
+WARNING: This subkey has been revoked by its owner!
+Note: This key has been disabled.
+Note: Verified signer's address is `%s'
+Note: Signer's address `%s' does not match DNS entry
+trustlevel adjusted to FULL due to valid PKA info
+trustlevel adjusted to NEVER due to bad PKA info
+WARNING: This key is not certified with a trusted signature!
+         There is no indication that the signature belongs to the owner.
+WARNING: We do NOT trust this key!
+         The signature is probably a FORGERY.
+WARNING: This key is not certified with sufficiently trusted signatures!
+         It is not certain that the signature belongs to the owner.
+you may not use %s while in %s mode
+%s: skipped: public key already present
+You did not specify a user ID. (you may use "-r")
+Enter the user ID.  End with an empty line: 
+unknown default recipient "%s"
+%s: skipped: public key is disabled
+skipped: public key already set as default recipient
+skipped: public key already set
+do_we_trust
+do_edit_ownertrust
+(insecure!)
+not secure
+do not use
+(INSECURE!)
+no default secret key: %s
+skipped "%s": %s
+no valid signators
+skipped "%s": duplicated
+key is not flagged as insecure - can't use it with the faked RNG!
+invalid default secret key: %s
+this is a PGP generated Elgamal key which is not secure for signatures!
+skipped: secret key already present
+ (IDEA)
+../../g10/pubkey-enc.c
+DEK is:
+NOTE: key has been revoked
+DEK frame:
+old encoding of the DEK is not supported
+cipher algorithm %d%s is unknown or disabled
+oops: public key not found for preference check
+NOTE: secret key %s expired at %s
+WARNING: cipher algorithm %s not found in recipient preferences
+anonymous recipient; trying secret key %s ...
+okay, we are the anonymous recipient.
+get_it
+GPG_AGENT_INFO
+can't connect to `%s': %s
+DISPLAY
+DBUS_SESSION_BUS_ADDRESS
+GPG_TTY
+TERM
+utf-8
+ (main key ID %s)
+Repeat passphrase
+Enter passphrase
+../../g10/passphrase.c
+okay_cb_parm.pw
+cancelled by user
+passphrase.ask
+Enter passphrase: 
+%08lX%08lX %08lX%08lX %d 0
+passphrase.enter
+Repeat passphrase: 
+passphrase.repeat
+s2k->hash_algo
+Reading passphrase from file descriptor %d ...
+gpg-agent is not available in this session
+malformed GPG_AGENT_INFO environment variable
+gpg-agent protocol version %d is not supported
+putenv=DBUS_SESSION_BUS_ADDRESS
+problem with the agent - disabling agent use
+You need a passphrase to unlock the secret key for user:
+"%.*s"
+%u-bit %s key, ID %s, created %s%s
+can't query passphrase in batch mode
+You need a passphrase to unlock the secret key for
+user: "%s"
+%u-bit %s key, ID %s, created %s
+         (subkey on main key ID %s)
+hash_passphrase
+hash_passphrase
+agent_get_passphrase
+%s ...
+../../g10/seckey-cert.c
+!mpi_is_opaque( sk->skey[i] )
+p == data+ndata
+!mpi_is_opaque (sk->skey[i])
+nbytes == (nbits + 7)/8
+Invalid passphrase; please try again
+secret key parts are not available
+protection algorithm %d%s is not supported
+protection digest %d is not supported
+not enough bytes for SHA-1 checksum
+not enough bytes for checksum
+ndata == ((p[0] << 8 | p[1]) + 7)/8 + 2
+WARNING: Weak key detected - please change passphrase again.
+sk->protect.ivlen <= DIM(sk->protect.iv)
+generating the deprecated 16-bit checksum for secret key protection
+protect_secret_key
+protect_secret_key
+do_check
+do_check
+../../g10/encr-data.c
+dfx->refcount
+size > 44
+dfx->eof_seen
+mdc_decode_filter
+session key: `%s'
+unsupported blocksize %u
+checkmdc
+key setup failed: %s
+dfx->cipher_hd
+dfx->mdc_hash
+WARNING: message was encrypted with a weak key in the symmetric cipher.
+problem handling encrypted packet
+release_dfx_context
+mdc_decode_filter
+decode_filter
+decrypt_data
+decrypt_data
+../../g10/cipher.c
+creatmdc
+hashlen == 20
+writing MDC packet failed
+cipher_filter
+build_packet(ENCR_DATA) failed
+cipher_filter
+../../g10/encode.c
+dek->keylen <= 32
+--throw-keyid
+pubkey_encrypt failed: %s
+%s/%s encrypted for: "%s"
+using cipher %s
+`%s' already compressed
+build_packet failed: %s
+reading from `%s'
+DEK is: 
+encrypt_filter
+build symkey_enc packet failed: %s
+build_packet(pubkey_enc) failed: %s
+error creating passphrase: %s
+build symkey packet failed: %s
+WARNING: `%s' is an empty file
+copying input to output failed: %s
+you can only encrypt to RSA keys of 2048 bits or less in --pgp2 mode
+unable to use the IDEA cipher for all of the keys you are encrypting to.
+WARNING: forcing symmetric cipher %s (%d) violates recipient preferences
+WARNING: forcing compression algorithm %s (%d) violates recipient preferences
+forcing symmetric cipher %s (%d) violates recipient preferences
+--output doesn't work for this command
+input line %u too long or missing LF
+encryption of `%s' failed: %s
+encrypt_filter
+encode_seskey
+build_packet(PLAINTEXT) failed: %s
+key has been created %lu second in future (time warp or clock problem)
+key has been created %lu seconds in future (time warp or clock problem)
+checking created signature failed: %s
+WARNING: unable to %%-expand notation (too large).  Using unexpanded.
+WARNING: unable to %%-expand policy URL (too large).  Using unexpanded.
+WARNING: unable to %%-expand preferred keyserver URL (too large).  Using unexpanded.
+build onepass_sig packet failed: %s
+build signature packet failed: %s
+multiple files can only be detached signed
+you can only detach-sign with PGP 2.x style keys while in --pgp2 mode
+WARNING: forcing digest algorithm %s (%d) violates recipient preferences
+you can only clearsign with PGP 2.x style keys while in --pgp2 mode
+-----BEGIN PGP SIGNED MESSAGE-----
+NotDashEscaped: You need GnuPG to verify this message
+(sigclass >= 0x10 && sigclass <= 0x13) || sigclass == 0x1F || sigclass == 0x20 || sigclass == 0x18 || sigclass == 0x19 || sigclass == 0x30 || sigclass == 0x28
+%s/%s signature from: "%s"
+../../g10/sign.c
+sig->version>=4
+%c %d %d %02x %lu 
+signing:
+%s encryption will be used
+symc-sign
+make_keysig_packet
+clearsign_file
+mk_notation_policy_etc
+the signature could not be verified.
+Please remember that the signature file (.sig or .asc)
+should be the first file given on the command line.
+%d %s
+key incomplete
+key %s has no user IDs
+  0 = %s
+  1 = %s
+  2 = %s
+  3 = %s
+  4 = %s
+Cancel
+  Q = %s
+ask_revocation_reason.code
+ask_revocation_reason.text
+Reason for revocation: %s
+(No description given)
+Is this okay? (y/N) 
+ask_revocation_reason.okay
+key "%s" not found: %s
+error reading keyblock: %s
+../../g10/revoke.c
+To be revoked by:
+gen_desig_revoke.okay
+ASCII armored output forced.
+gen_revoke.okay
+unknown protection algorithm
+Please select the reason for the revocation:
+(Probably you want to select %d here)
+Enter an optional description; end it with an empty line:
+(This is a sensitive revocation key)
+Create a designated revocation certificate for this key? (y/N) 
+Comment: A designated revocation certificate should follow
+make_keysig_packet failed: %s
+Revocation certificate created.
+no revocation keys found for "%s"
+secret key "%s" not found: %s
+no corresponding public key: %s
+public key does not match secret key!
+Create a revocation certificate for this key? (y/N) 
+Secret parts of primary key are not available.
+NOTE: This key is not protected!
+Comment: A revocation certificate should follow
+Revocation certificate created.
+Please move it to a medium which you can hide away; if Mallory gets
+access to this certificate he can use it to make your key unusable.
+It is smart to print this certificate and store it away, just in case
+your media become unreadable.  But have some caution:  The print system of
+your machine might store the data and make it available to others!
+gen_revoke
+gen_desig_revoke
+%s: decryption failed: %s
+%s%c%c %c%c%c%c%c%c %s %s
+[revocation]
+[self-signature]
+../../g10/keyedit.c
+keyedit.v3_revoker.okay
+keyedit.add_revoker
+keyedit.add_revoker.okay
+This key is not protected.
+Key is protected.
+Can't edit this key: %s
+change_passwd.empty.okay
+[%d]
+     
+Digest: 
+Features: 
+Keyserver no-modify
+Notations: 
+ %c%d
+ [mdc]
+ [no-ks-modify]
+(%d)* 
+(%d). 
+(%d)  
+User ID "%s" compacted: %s
+User ID "%s": already clean
+Enter the notation: 
+keyedit.add_notation
+No notations on user ID "%s"
+Skipping notation: %s=%s
+Removing notation: %s=%s
+Adding notation: %s=%s
+Removing all notations
+Proceed? (y/N) 
+keyedit.confirm_notation
+Key %s is already revoked.
+:%u:%d:%08lX%08lX:%lu:%lu::
+uat:
+uid:
+r::::::::
+e::::::::
+%c::::::::
+,mdc
+,no-ks-modify
+(sensitive)
+%s%c %4u%c/%s  
+usage: %s
+trust: %s
+validity: %s
+*** 
+This key has been disabled
+User ID "%s" is revoked.
+sign_uid.revoke_okay
+  Unable to sign.
+User ID "%s" is expired.
+sign_uid.expire_okay
+sign_uid.nosig_okay
+User ID "%s" is signable.  
+Sign it? (y/N) 
+sign_uid.sign_okay
+sign_uid.v4_promote_okay
+sign_uid.replace_expired_okay
+sign_uid.local_promote_okay
+sign_uid.dupe_okay
+Nothing to sign with key %s
+This key has expired!
+sign_uid.expired_okay
+sign_uid.expire
+sign_uid.v4_on_v3_okay
+   (0) I will not answer.%s
+sign_uid.class
+trustsig_prompt.trust_value
+trustsig_prompt.trust_depth
+trustsig_prompt.trust_regexp
+Really sign? (y/N) 
+sign_uid.okay
+primary_pk
+::%02x%c
+ (non-revocable)
+ (non-exportable)
+revoked by your key %s on %s
+uat:::::::::%u %lu
+uid:::::::::
+user ID: "%s"
+ask_revoke_sig.expired
+ask_revoke_sig.one
+ask_revoke_sig.okay
+unode
+no secret key
+Not signed by you.
+uid  
+keyedit.delsig.valid
+keyedit.delsig.invalid
+keyedit.delsig.unknown
+keyedit.delsig.selfsig
+Deleted %d signature.
+Deleted %d signatures.
+Nothing deleted.
+Secret key is available.
+%-11s %s
+pub   %4u%c/%s %s 
+Key is revoked.
+keyedit.sign_revoked.okay
+keyedit.sign_all.okay
+pk && sk
+keyedit.v3_photo.okay
+keyedit.remove.uid.okay
+keyedit.keytocard.use_primary
+keyedit.remove.subkey.okay
+sensitive
+keyedit.revoke.uid.okay
+keyedit.revoke.subkey.okay
+make_backsig failed: %s
+Set preference list to:
+keyedit.setpref.okay
+keyedit.confirm_keyserver
+Save changes? (y/N) 
+keyedit.save.okay
+Quit without saving? (y/N) 
+keyedit.cancel.okay
+update failed: %s
+update secret failed: %s
+gpg> 
+keyedit.prompt
+No user ID with hash %s
+No user ID with index %d
+No subkey with index %d
+Unknown signature type `%s'
+Can't open `%s': %s
+keyedit.add_keyserver
+%s  %4u%c/%s  
+%s  %4u%c/%s
+save and quit
+show key fingerprint
+list key and user IDs
+select user ID N
+select subkey N
+check signatures
+cross-certify
+backsign
+tsign
+nrsign
+adduid
+add a user ID
+addphoto
+add a photo ID
+deluid
+delete selected user IDs
+delphoto
+addkey
+add a subkey
+addcardkey
+add a key to a smartcard
+keytocard
+move a key to a smartcard
+bkuptocard
+delkey
+delete selected subkeys
+addrevoker
+add a revocation key
+delsig
+toggle
+list preferences (expert)
+showpref
+list preferences (verbose)
+setpref
+updpref
+change the passphrase
+password
+change the ownertrust
+revsig
+revuid
+revoke selected user IDs
+revphoto
+revkey
+enable
+enable key
+disable
+disable key
+showphoto
+show selected photo IDs
+minimize
+moving a key signature to the correct place
+pub_keyblock->pkt->pkttype==PKT_PUBLIC_KEY
+sec_keyblock->pkt->pkttype==PKT_SECRET_KEY
+WARNING: This is a PGP 2.x-style key.  Adding a designated revoker may cause
+         some versions of PGP to reject this key.
+Are you sure you still want to add it? (y/N) 
+You may not add a designated revoker to a PGP 2.x-style key.
+Enter the user ID of the designated revoker: 
+cannot appoint a PGP 2.x style key as a designated revoker
+you cannot appoint a key as its own designated revoker
+WARNING: appointing a key as a designated revoker cannot be undone!
+Are you sure you want to appoint this key as a designated revoker? (y/N) 
+this key has already been designated as a revoker
+passphrase not correctly repeated; try again
+Oops; secret key not found anymore!
+Secret parts of primary key are stored on-card.
+Enter the new passphrase for this secret key.
+You don't want a passphrase - this is probably a *bad* idea!
+Do you really want to do this? (y/N) 
+protect_secret_key failed: %s
+Key has only stub or on-card key items - no passphrase to change.
+There are no preferences on a PGP 2.x-style user ID.
+User ID "%s": %d signature removed
+User ID "%s": %d signatures removed
+User ID "%s": already minimized
+WARNING: no user ID has been marked as primary.  This command may
+              cause a different user ID to become the assumed primary.
+Please remove selections from the secret keys.
+Please select at most one subkey.
+Changing expiration time for a subkey.
+Changing expiration time for the primary key.
+You can't change the expiration date of a v3 key
+No corresponding signature in secret ring
+skipping v3 self-signature on user ID "%s"
+update_keysig_packet failed: %s
+Current notations for user ID "%s":
+user ID "%s" is already revoked
+WARNING: a user ID signature is dated %d seconds in the future
+Subkey %s is already revoked.
+This key was revoked on %s by %s key %s
+This key may be revoked by %s key %s
+Please note that the shown key validity is not necessarily correct
+unless you restart the program.
+Are you sure you still want to sign it? (y/N) 
+User ID "%s" is not self-signed.
+The self-signature on "%s"
+is a PGP 2.x-style signature.
+Do you want to promote it to an OpenPGP self-signature? (y/N) 
+Your current signature on "%s"
+has expired.
+Do you want to issue a new signature to replace the expired one? (y/N) 
+Your current signature on "%s"
+is a local signature.
+Do you want to promote it to a full exportable signature? (y/N) 
+"%s" was already locally signed by key %s
+"%s" was already signed by key %s
+Do you want to sign it again anyway? (y/N) 
+This key is due to expire on %s.
+Do you want your signature to expire at the same time? (Y/n) 
+You may not make an OpenPGP signature on a PGP 2.x key while in --pgp2 mode.
+This would make the key unusable in PGP 2.x.
+How carefully have you verified the key you are about to sign actually belongs
+to the person named above?  If you don't know what to answer, enter "0".
+   (1) I have not checked at all.%s
+   (2) I have done casual checking.%s
+   (3) I have done very careful checking.%s
+Your selection? (enter `?' for more information): 
+Please enter a domain to restrict this signature, or enter for none.
+WARNING: the signature will not be marked as non-exportable.
+WARNING: the signature will not be marked as non-revocable.
+The signature will be marked as non-exportable.
+The signature will be marked as non-revocable.
+I have not checked this key at all.
+I have checked this key casually.
+I have checked this key very carefully.
+Are you sure that you want to sign this key with your
+key "%s" (%s)
+This will be a self-signature.
+Please enter the depth of this trust signature.
+A depth greater than 1 allows the key you are signing to make
+trust signatures on your behalf.
+sig:%c::%d:%08lX%08lX:%lu:%lu:
+keyblock->pkt->pkttype==PKT_PUBLIC_KEY
+signed by your key %s on %s%s%s
+Oops: no user ID for signature
+This signature expired on %s.
+Are you sure you still want to revoke it? (y/N) 
+Create a revocation certificate for this signature? (y/N) 
+You are about to revoke these signatures:
+Really create the revocation certificates? (y/N) 
+You have signed these user IDs on key %s:
+Delete this good signature? (y/N/q)
+Delete this invalid signature? (y/N/q)
+Delete this unknown signature? (y/N/q)
+Really delete this self-signature? (y/N)
+error reading secret keyblock "%s": %s
+WARNING: Your encryption subkey expires soon.
+You may want to change its expiration date too.
+Need the secret key to do this.
+Please use the command "toggle" first.
+* The `sign' command may be prefixed with an `l' for local signatures (lsign),
+  a `t' for trust signatures (tsign), an `nr' for non-revocable signatures
+  (nrsign), or any combination thereof (ltsign, tnrsign, etc.).
+1 user ID without valid self-signature detected
+%d user IDs without valid self-signatures detected
+Really sign all user IDs? (y/N) 
+Hint: Select the user IDs to sign
+This command is not allowed while in %s mode.
+WARNING: This is a PGP2-style key.  Adding a photo ID may cause some versions
+         of PGP to reject this key.
+You may not add a photo ID to a PGP2-style key.
+You must select at least one user ID.
+You can't delete the last user ID!
+Really remove all selected user IDs? (y/N) 
+Really remove this user ID? (y/N) 
+Really move the primary key? (y/N) 
+You must select exactly one key.
+Command expects a filename argument
+You must select at least one key.
+Do you really want to delete the selected keys? (y/N) 
+Do you really want to delete this key? (y/N) 
+Really revoke all selected user IDs? (y/N) 
+Really revoke this user ID? (y/N) 
+Do you really want to revoke the entire key? (y/N) 
+Do you really want to revoke the selected subkeys? (y/N) 
+Do you really want to revoke this subkey? (y/N) 
+signing subkey %s is already cross-certified
+subkey %s does not sign and so does not need to be cross-certified
+Please select exactly one user ID.
+Owner trust may not be set while using a user provided trust database
+Really update the preferences for the selected user IDs? (y/N) 
+Really update the preferences? (y/N) 
+Current preferred keyserver for user ID "%s": 
+Are you sure you want to replace it? (y/N) 
+Are you sure you want to delete it? (y/N) 
+Displaying %s photo ID of size %ld for key %s (uid %d)
+Key not changed so no update needed.
+Error reading backup key from `%s': %s
+Enter your preferred keyserver URL: 
+sign selected user IDs [* see below for related commands]
+sign selected user IDs locally
+sign selected user IDs with a trust signature
+sign selected user IDs with a non-revocable signature
+move a backup key to a smartcard
+delete signatures from the selected user IDs
+change the expiration date for the key or selected subkeys
+flag the selected user ID as primary
+toggle between the secret and public key listings
+set preference list for the selected user IDs
+set the preferred keyserver URL for the selected user IDs
+set a notation for the selected user IDs
+revoke signatures on the selected user IDs
+revoke key or selected subkeys
+compact unusable user IDs and remove unusable signatures from key
+compact unusable user IDs and remove all signatures from key
+menu_revsig
+show_key_with_all_names
+menu_backsign
+menu_addrevoker
+menu_addrevoker
+menu_adduid
+sign_uids
+keyedit_menu
+Comment: Use "gpg --dearmor" for unpacking
+WARNING: key %s contains preferences for unavailable
+         algorithms on these user IDs:
+         "%s": preference for cipher algorithm %s
+         "%s": preference for digest algorithm %s
+         "%s": preference for compression algorithm %s
+it is strongly suggested that you update your preferences and
+re-distribute this key to avoid potential algorithm mismatch problems
+you can update your preferences with: gpg --edit-key %s updpref save
+NOTE: a key's S/N does not match the card's one
+NOTE: primary key is online and stored on card
+NOTE: secondary key is online and stored on card
+node->pkt->pkttype == PKT_PUBLIC_SUBKEY || node->pkt->pkttype == PKT_SECRET_SUBKEY
+WARNING: key %s may be revoked: revocation key %s not present.
+WARNING: key %s may be revoked: fetching revocation key %s
+import signatures that are marked as local-only
+repair damage from the pks keyserver during import
+do not clear the ownertrust values during import
+do not update the trustdb after import
+create a public key when importing a secret key
+only accept updates to existing keys
+remove unusable parts from key after import
+remove as much as possible from key after import
+%lu %lu %lu %lu %lu %lu %lu %lu %lu %lu %lu %lu %lu %lu
+key %s: duplicated user ID detected - merged
+Do you want to import this key? (y/N) 
+key %s: PKS subkey corruption repaired
+key %s: no user ID for signature
+key %s: unsupported public key algorithm on user ID "%s"
+key %s: invalid self-signature on user ID "%s"
+key %s: unsupported public key algorithm
+key %s: invalid direct key signature
+key %s: no subkey for key binding
+key %s: invalid subkey binding
+key %s: removed multiple subkey binding
+key %s: no subkey for key revocation
+key %s: invalid subkey revocation
+key %s: removed multiple subkey revocation
+key %s: accepted non self-signed user ID "%s"
+key %s: non exportable signature (class 0x%02X) - skipped
+key %s: revocation certificate at wrong place - skipped
+key %s: invalid revocation certificate: %s - skipped
+key %s: subkey signature in wrong place - skipped
+key %s: unexpected signature class (0x%02X) - skipped
+this may be caused by a missing self-signature
+key %s: public key not found: %s
+no writable keyring found: %s
+error writing keyring `%s': %s
+key %s: public key "%s" imported
+key %s: doesn't match our copy
+key %s: can't locate original keyblock: %s
+key %s: can't read original keyblock: %s
+key %s: invalid direct key signature removed
+key %s: "%s" revocation certificate added
+key %s: direct key signature added
+dst->pkt->pkttype == PKT_USER_ID
+src->pkt->pkttype == PKT_USER_ID
+node->pkt->pkttype == PKT_USER_ID
+dst->pkt->pkttype == PKT_PUBLIC_SUBKEY || dst->pkt->pkttype == PKT_SECRET_SUBKEY
+key %s: "%s" %d new signatures
+key %s: "%s" %d signature cleaned
+key %s: "%s" %d signatures cleaned
+key %s: "%s" %d user ID cleaned
+key %s: "%s" %d user IDs cleaned
+importing secret keys not allowed
+key %s: secret key with invalid cipher %d - skipped
+no default secret keyring: %s
+key %s: already in secret keyring
+key %s: secret key not found: %s
+key %s: no public key - can't apply revocation certificate
+key %s: invalid revocation certificate: %s - rejected
+key %s: "%s" revocation certificate imported
+../../g10/import.c
+import-local-sigs
+repair-pks-subkey-bug
+keep-ownertrust
+convert-sk-to-pk
+import-clean
+import-minimal
+allow-local-sigs
+repair-hkp-subkey-bug
+import-unusable-sigs
+import-clean-sigs
+import-clean-uids
+Total number processed: %lu
+      skipped new keys: %lu
+          w/o user IDs: %lu
+              imported: %lu
+  (RSA: %lu)
+             unchanged: %lu
+          new user IDs: %lu
+           new subkeys: %lu
+        new signatures: %lu
+   new key revocations: %lu
+      secret keys read: %lu
+  secret keys imported: %lu
+ secret keys unchanged: %lu
+          not imported: %lu
+    signatures cleaned: %lu
+      user IDs cleaned: %lu
+pub  %4u%c/%s %s  
+key %s: no user ID
+rejected by import filter
+%08X%08X 
+import.okay
+key %s: skipped user ID "%s"
+key %s: skipped subkey
+key %s: no valid user IDs
+key %s: new key - skipped
+key %s: "%s" 1 new user ID
+key %s: "%s" %d new user IDs
+key %s: "%s" 1 new signature
+key %s: "%s" 1 new subkey
+key %s: "%s" %d new subkeys
+key %s: "%s" not changed
+secret key %s: %s
+sec  %4u%c/%s %s   
+key %s: secret key imported
+!node->next
+skipping block of type %d
+%lu keys processed so far
+read_block: read error: %s
+[stream]
+import from `%s' failed: %s
+import_revoke_cert
+Beeb
+import_secret_one
+merge_keysigs
+append_key
+append_uid
+merge_sigs
+import_one
+WARNING: nothing exported
+export-local-sigs
+export-attributes
+export-sensitive-revkeys
+export-reset-subkey-passwd
+export-clean
+export-minimal
+include-local-sigs
+include-attributes
+include-sensitive-revkeys
+export-unusable-sigs
+export-clean-sigs
+export-clean-uids
+key %s: not protected - skipped
+key %s: PGP 2.x style key - skipped
+key %s: key material on-card - skipped
+about to export an unprotected subkey
+failed to unprotect the subkey: %s
+WARNING: secret key %s does not have a simple SK checksum
+export signatures that are marked as local-only
+export attribute user IDs (generally photo IDs)
+export revocation keys marked as "sensitive"
+remove the passphrase from exported subkeys
+remove unusable parts from key during export
+remove as much as possible from key during export
+trust record %lu, type %d: write failed: %s
+key %s: accepted as trusted key
+trust record %lu, req type %d: read failed: %s
+trust record %lu is not of requested type %d
+`%s' is not a valid long keyID
+You may try to re-create the trustdb using the commands:
+  gpg2 --export-ownertrust > otrust.tmp
+  gpg2 --import-ownertrust < otrust.tmp
+If that does not work, please consult the manual
+update ownertrust from %u to %u
+key %s occurs more than once in the trustdb
+key %s: no public key for trusted key - skipped
+key %s marked as ultimately trusted
+unable to use unknown trust model (%d) - assuming %s trust model
+trustdb: searching trust record failed: %s
+trustdb: record %lu is not a trust record
+%d keys processed (%d validity counts cleared)
+no ultimately trusted keys found
+public key of ultimately trusted key %s not found
+%d marginal(s) needed, %d complete(s) needed, %s trust model
+key %08lX%08lX: update min_ownertrust from %u to %u
+key %08lX%08lX: overriding ownertrust `%s' with `%s'
+keydb_search_reset failed: %s
+ooops: invalid pkttype %d encountered
+regexp `%s' (`%s') on `%s': %s
+trust sig on %s, sig depth is %d, kr depth is %d
+replacing trust value %d with %d and depth %d with %d
+depth: %d  valid: %3d  signed: %3d  trust: %d-, %dq, %dn, %dm, %df, %du
+unable to update trustdb version record: write failed: %s
+no need for a trustdb check with `%s' trust model
+no need for a trustdb update with `%s' trust model
+clearing ownertrust (old value %u)
+clearing min_ownertrust (old value %u)
+error getting main key %s of subkey %s: %s
+10 translator see trustdb.c:uid_trust_string_fixed
+uidnode->pkt->pkttype==PKT_USER_ID
+compacting user ID "%s" on key %s: %s
+removing signature from key %s on user ID "%s": %s
+trustdb: sync failed: %s
+trustdb.gpg
+  cd %s
+  rm %s
+undefined
+marginal
+full
+ultimate
+insert ownertrust %u
+can't init trustdb: %s
+../../g10/trustdb.c
+using %s trust model
+public key %s not found: %s
+insert min_ownertrust %u
+force trust for key %s to %s
+<[^>]+[@.]
+validate_key_list failed
+%d:%08lX%08lX:K::%c::::
+%d:%08lX%08lX:U:::%c:::
+next trustdb check due at %s
+no need for a trustdb check
+please do a --check-trustdb
+checking the trustdb
+[ revoked]
+[ expired]
+[ unknown]
+Borrow or rob
+[  undef ]
+[marginal]
+[  full  ]
+[ultimate]
+key unavailable
+signature superseded
+invalid signature
+external
+clean_sigs_from_uid
+clean_one_uid
+init_trustdb
+# List of assigned trustvalues, created %s
+# (Use "gpg --import-ownertrust" to restore them)
+changing ownertrust from %u to %u
+error finding trust record in `%s': %s
+TrustDB: %s
+line too long
+colon missing
+invalid fingerprint
+ownertrust value missing
+setting ownertrust to %u
+inserting ownertrust of %u
+read error in `%s': %s
+can't create lock for `%s'
+../../g10/tdbio.c
+unused
+rec %5lu, 
+blank
+free, next=%lu
+htbl,
+hlst, next=%lu,
+trust 
+, ot=%d, d=%d, vl=%lu
+valid 
+, v=%d, next=%lu
+unknown type %d
+recnum
+db_fd == -1
+NOTE: trustdb not writable
+found %d ownertrust records
+can't truncate `%s': %s
+failed to sync `%s'
+%s: invalid trustdb
+trustdb: lseek failed: %s
+%s: not a trustdb file
+%s: invalid file version %d
+can't access `%s': %s
+%s: invalid trustdb created
+%s: trustdb created
+lookup_hashtable failed: %s
+hashtable read failed: %s
+trustdb rec %lu: lseek failed: %s
+trustdb rec %lu: write failed (n=%d): %s
+version, td=%lu, f=%lu, m/c/d=%d/%d/%d tm=%d mcl=%d nc=%lu (%s)
+%s: error reading version record: %s
+%s: error reading free record: %s
+%s: error writing dir record: %s
+%s: failed to zero a record: %s
+trustdb: lseek to end failed: %s
+%s: failed to append a record: %s
+upd_hashtable: read failed: %s
+upd_hashtable: write htbl failed: %s
+upd_hashtable: read item failed: %s
+hashtable has invalid indirections.
+upd_hashtable: read hlst failed: %s
+upd_hashtable: write hlst failed: %s
+upd_hashtable: write ext hlst failed: %s
+upd_hashtable: write new hlst failed: %s
+upd_hashtable: update htbl failed: %s
+hashtbl %lu: %lu/%d points to an invalid record %lu
+%s: failed to create hashtable: %s
+%s: error updating version record: %s
+migrate_from_v2: lseek failed: %s
+migrate_vfrom_v2: read error or short read
+migrate_from_v2: read error or short read
+failed to recreate version record of `%s'
+failed to write trust record of `%s'
+migrated %d version 2 ownertrusts
+trustdb: read failed (n=%d): %s
+%lu: read expected rec type %d, got %d
+%s: version record with recnum %lu
+%s: invalid record type %d at recnum %lu
+%s: directory does not exist!
+%s: failed to create version record: %s
+%s: error writing version record: %s
+drop_from_hashtable: read failed: %s
+drop_from_hashtable: write htbl failed: %s
+drop_from_hashtable: read item failed: %s
+drop_from_hashtable: read hlst failed: %s
+hashtbl %lu: %lu/%d points to wrong record %lu
+hashtable has invalid indirections
+lookup_hashtable: read item failed: %s
+lookup_hashtable: read hlst failed: %s
+Error: The trustdb is corrupted.
+tdbio_new_recnum
+tdbio_write_record
+tdbio_set_dbname
+create_hashtable
+open_db
+put_record_into_cache
+put_record_into_cache
+Oops; key not found anymore!
+%s: get secret key: %s
+delete_key.secret.okay
+delete_key.okay
+deleting keyblock failed: %s
+%s: delete key failed: %s
+(unless you specify the key by fingerprint)
+can't do this in batch mode without "--yes"
+Delete this key from the keyring? (y/N) 
+This is a secret key! - really delete? (y/N) 
+ownertrust information cleared
+there is a secret key for public key "%s"!
+use option "--delete-secret-keys" to delete it first.
+auth
+%s:%d: invalid usage list
+Real name: 
+keygen.name
+Invalid character in name
+Email address: 
+keygen.email
+Not a valid email address
+keygen.comment
+Invalid character in comment
+NnCcEeOoQq
+../../g10/keygen.c
+keygen.userid.cmd
+keygen.size
+Requested keysize is %u bits
+writing direct signature
+pubkey_generate failed: %s
+dsa2_generate failed: %s
+preference `%s' duplicated
+too many cipher preferences
+too many digest preferences
+Sign
+Certify
+Encrypt
+Authenticate
+11223300
+SsEeAaQq
+Current allowed actions: 
+   (%c) Finished
+keygen.flags
+   (%d) DSA and Elgamal
+   (%d) DSA (sign only)
+   (%d) RSA (sign only)
+keygen.algo
+rsa+rsa
+dsa+elg
+rsa/s
+rsa/e
+dsa/*
+rsa/*
+   (%d) RSA (encrypt only)
+key generation failed: %s
+communication error with SCD
+seconds=
+H10 
+H11 
+no-mdc
+Key is valid for? (0) 
+keygen.valid
+Signature is valid for? (%s) 
+siggen.valid
+invalid value
+Key does not expire at all
+Key expires at %s
+Signature expires at %s
+Is this correct? (y/N) 
+keygen.valid.okay
+Really create? (y/N) 
+keygen.sub.okay
+Key generation failed: %s
+keygen.cardsub.okay
+is_RSA (sk->pubkey_algo)
+!sk->is_protected
+)(1:e%u:
+)(1:p%u:
+)(1:q%u:
+%lu:
+sk_%08lX%08lX.gpg
+build packet failed: %s
+%s:%d: invalid algorithm
+%s: no User-ID specified
+%s:%d: invalid keyserver url
+%s:%d: invalid creation date
+%s:%d: invalid expire date
+outctrl->pub.stream
+outctrl->sec.stream
+writing public key to `%s'
+writing secret key to `%s'
+pri_sk
+writing self signature
+can't write public key: %s
+can't write secret key: %s
+%s: no Key-Type specified
+Key-Type
+encrypt 
+sign 
+missing colon
+missing argument
+unknown keyword
+duplicate keyword
+%echo
+%dry-run
+%commit
+%pubring
+%secring
+skipping control `%s' (%s)
+%s:%d: %s
+%s:%d: read error
+Key generation canceled.
+[internal]
+Key-Length
+Key-Usage
+Subkey-Type
+Subkey-Length
+Subkey-Usage
+Name-Real
+Name-Email
+Name-Comment
+Expire-Date
+Creation-Date
+Passphrase
+Preferences
+Revoker
+Handle
+Keyserver
+You need a user ID to identify your key; the software constructs the user ID
+from the Real Name, Comment and Email Address in this form:
+    "Heinrich Heine (Der Dichter) <heinrichh@duesseldorf.de>"
+Name may not start with a digit
+Name must be at least 5 characters long
+You are using the `%s' character set.
+You selected this USER-ID:
+    "%s"
+Please don't put the email address into the real name or the comment
+Change (N)ame, (C)omment, (E)mail or (Q)uit? 
+Change (N)ame, (C)omment, (E)mail or (O)kay/(Q)uit? 
+Please correct the error first
+%s keys may be between %u and %u bits long.
+What keysize do you want for the subkey? (%u) 
+What keysize do you want? (%u) 
+You need a Passphrase to protect your secret key.
+You don't want a passphrase - this is probably a *bad* idea!
+I will do it anyway.  You can change your passphrase at any time,
+using this program with the option "--edit-key".
+We need to generate a lot of random bytes. It is a good idea to perform
+some other action (type on the keyboard, move the mouse, utilize the
+disks) during the prime generation; this gives the random number
+generator a better chance to gain enough entropy.
+keysize invalid; using %u bits
+keysize rounded up to %u bits
+WARNING: some OpenPGP programs can't handle a DSA key with this digest size
+too many compression preferences
+NOTE: Bad translation at %s:%d. Please report.
+Possible actions for a %s key: 
+   (%c) Toggle the sign capability
+   (%c) Toggle the encrypt capability
+   (%c) Toggle the authenticate capability
+Please select what kind of key you want:
+   (%d) RSA and RSA (default)
+   (%d) DSA (set your own capabilities)
+   (%d) RSA (set your own capabilities)
+   (%d) Elgamal (encrypt only)
+Note that the key does not use the suggested creation date
+invalid creation date in line %d
+invalid item `%s' in preference string
+make_keysig_packet failed for backsig: %s
+build_packet failed for backsig: %s
+writing key binding signature
+Please specify how long the key should be valid.
+         0 = key does not expire
+      <n>  = key expires in n days
+      <n>w = key expires in n weeks
+      <n>m = key expires in n months
+      <n>y = key expires in n years
+Please specify how long the signature should be valid.
+         0 = signature does not expire
+      <n>  = signature expires in n days
+      <n>w = signature expires in n weeks
+      <n>m = signature expires in n months
+      <n>y = signature expires in n years
+Signature does not expire at all
+NOTE: creating subkeys for v3 keys is not OpenPGP compliant
+nskey <= PUBKEY_MAX_NSKEY && npkey < nskey
+storing key onto card failed: %s
+can't create backup file `%s': %s
+NOTE: backup of card key saved to `%s'
+%s:%d: specified Key-Usage not allowed for algo %d
+%s:%d: specified Subkey-Usage not allowed for algo %d
+%s:%d: invalid revocation key
+%s:%d: only one ring name is set
+dry-run mode - key generation skipped
+writing secret key stub to `%s'
+no writable public keyring found: %s
+no writable secret keyring found: %s
+error writing public keyring `%s': %s
+error writing secret keyring `%s': %s
+public and secret key created and signed.
+Note that this key cannot be used for encryption.  You may want to use
+the command "--edit-key" to generate a subkey for this purpose.
+parameter block does not start with "Key-Type"
+save_unprotected_key_to_card
+generate_card_subkeypair
+generate_subkeypair
+write_keybinding
+generate_raw_key
+gen_card_key_with_backup
+do_create
+write_selfsigs
+write_direct_sig
+do_generate_keypair
+proc_parameter_file
+get_parameter_u32
+ask_user_id
+ask_expire_interval
+make_backsig
+set_one_pref
+../../g10/pipemode.c
+nested begin of stream
+invalid state for @>
+invalid state for @t
+invalid state for @.
+pipemode_filter
+EOF encountered at wrong state
+@@ not allowed in current state
+invalid state for operation code
+invalid operation for this state
+invalid escape sequence 0x%02x in stream
+make_control
+pipemode_filter
+No help available
+No help available for `%s'
+keygen.algo.rsa_se
+Enter the size of the key
+keygen.size.huge.okay
+Answer "yes" or "no"
+keygen.size.large.okay
+keyedit.updpref.okay
+It's up to you to assign a value here; this value will never be exported
+to any 3rd party.  We need it to implement the web-of-trust; it has nothing
+to do with the (implicitly created) web-of-certificates.
+To build the Web-of-Trust, GnuPG needs to know which keys are
+ultimately trusted - those are usually the keys for which you have
+access to the secret key.  Answer "yes" to set this key to
+ultimately trusted
+If you want to use this untrusted key anyway, answer "yes".
+Enter the user ID of the addressee to whom you want to send the message.
+Select the algorithm to use.
+DSA (aka DSS) is the Digital Signature Algorithm and can only be used
+for signatures.
+Elgamal is an encrypt-only algorithm.
+RSA may be used for signatures or encryption.
+The first (primary) key must always be a key which is capable of signing.
+In general it is not a good idea to use the same key for signing and
+encryption.  This algorithm should only be used in certain domains.
+Please consult your security expert first.
+Enter the required value as shown in the prompt.
+It is possible to enter a ISO date (YYYY-MM-DD) but you won't
+get a good error response - instead the system tries to interpret
+the given value as an interval.
+Enter the name of the key holder
+please enter an optional but highly suggested email address
+Please enter an optional comment
+N  to change the name.
+C  to change the comment.
+E  to change the email address.
+O  to continue with key generation.
+Q  to quit the key generation.
+Answer "yes" (or just "y") if it is okay to generate the sub key.
+When you sign a user ID on a key, you should first verify that the key
+belongs to the person named in the user ID.  It is useful for others to
+know how carefully you verified this.
+"0" means you make no particular claim as to how carefully you verified the
+    key.
+"1" means you believe the key is owned by the person who claims to own it
+    but you could not, or did not verify the key at all.  This is useful for
+    a "persona" verification, where you sign the key of a pseudonymous user.
+"2" means you did casual verification of the key.  For example, this could
+    mean that you verified the key fingerprint and checked the user ID on the
+    key against a photo ID.
+"3" means you did extensive verification of the key.  For example, this could
+    mean that you verified the key fingerprint with the owner of the key in
+    person, and that you checked, by means of a hard to forge document with a
+    photo ID (such as a passport) that the name of the key owner matches the
+    name in the user ID on the key, and finally that you verified (by exchange
+    of email) that the email address on the key belongs to the key owner.
+Note that the examples given above for levels 2 and 3 are *only* examples.
+In the end, it is up to you to decide just what "casual" and "extensive"
+mean to you when you sign other keys.
+If you don't know what the right answer is, answer "0".
+Answer "yes" if you want to sign ALL the user IDs
+Answer "yes" if you really want to delete this user ID.
+All certificates are then also lost!
+Answer "yes" if it is okay to delete the subkey
+This is a valid signature on the key; you normally don't want
+to delete this signature because it may be important to establish a
+trust connection to the key or another key certified by this key.
+This signature can't be checked because you don't have the
+corresponding key.  You should postpone its deletion until you
+know which key was used because this signing key might establish
+a trust connection through another already certified key.
+The signature is not valid.  It does make sense to remove it from
+your keyring.
+This is a signature which binds the user ID to the key. It is
+usually not a good idea to remove such a signature.  Actually
+GnuPG might not be able to use this key anymore.  So do this
+only if this self-signature is for some reason not valid and
+a second one is available.
+Change the preferences of all user IDs (or just of the selected ones)
+to the current list of preferences.  The timestamp of all affected
+self-signatures will be advanced by one second.
+Please enter the passphrase; this is a secret sentence 
+Please repeat the last passphrase, so you are sure what you typed in.
+Give the name of the file to which the signature applies
+Answer "yes" if it is okay to overwrite the file
+Please enter a new filename. If you just hit RETURN the default
+file (which is shown in brackets) will be used.
+You should specify a reason for the certification.  Depending on the
+context you have the ability to choose from this list:
+  "Key has been compromised"
+      Use this if you have a reason to believe that unauthorized persons
+      got access to your secret key.
+  "Key is superseded"
+      Use this if you have replaced this key with a newer one.
+  "Key is no longer used"
+      Use this if you have retired this key.
+  "User ID is no longer valid"
+      Use this to state that the user ID should not longer be used;
+      this is normally used to mark an email address invalid.
+If you like, you can enter a text describing why you issue this
+revocation certificate.  Please keep this text concise.
+An empty line ends the text.
+ldaps
+hkps
+send
+VERSION %d
+PROGRAM %s
+SCHEME %s
+OPAQUE %s
+AUTH %s
+HOST %s
+PORT %s
+PATH %s
+OPTION %s
+COMMAND GET
+0x%08lX%08lX
+0x%08lX
+0x0000000000000000
+../../g10/keyserver.c
+requesting key %s from %s
+COMMAND GETNAME
+searching for names from %s
+COMMAND SEND
+INFO %08lX%08lX BEGIN
+%sb:%08lX%08lX:%u:%u:%u:%u:
+sig:%08lX%08lX:%X:%u:%u
+INFO %08lX%08lX END
+KEY %08lX%08lX BEGIN
+KEY %08lX%08lX END
+sending key %s to %s
+COMMAND SEARCH
+searching for "%s" from %s
+no keyserver action!
+VERSION 
+PROGRAM 
+OPTION OUTOFBAND
+SEARCH 
+ BEGIN
+ END
+info:
+(%d)	%s  
+%d bit 
+unknown 
+key %s%08lX
+key %s
+key 
+key not found on keyserver
+keyserver timed out
+keyserver internal error
+Keys %d-%d of %d for "%s".  
+keysearch.prompt
+no-http-proxy
+no-honor-http-proxy
+no-use-temp-files
+string!=NULL
+x-broken-hkp
+broken-http-proxy
+x-hkp
+"%s" not a key ID: skipping
+mailto
+refreshing 1 key from %s
+refreshing %d keys from %s
+_pgpkey-ldap._tcp.%s
+keyserver not supported
+key exists
+key incomplete (EOF)
+keyserver unreachable
+keyserver timeout
+max-cert-size
+include-revoked
+include-subkeys
+keep-temp-files
+refresh-add-fake-v3-keyids
+honor-keyserver-url
+honor-pka-record
+no keyserver known (use option --keyserver)
+# This is a GnuPG %s keyserver communications file
+requesting key %s from %s server %s
+searching for names from %s server %s
+sending key %s to %s server %s
+searching for "%s" from %s server %s
+invalid keyserver protocol (us %d!=handler %d)
+WARNING: keyserver handler from a different version of GnuPG (%s)
+keyserver did not send VERSION
+keyserver communications error: %s
+key "%s" not found on keyserver
+no handler for keyserver scheme `%s'
+action `%s' not supported with keyserver scheme `%s'
+gpgkeys_%s does not support handler version %d
+Enter number(s), N)ext, or Q)uit > 
+WARNING: unable to refresh key %s via %s: %s
+WARNING: unable to fetch URI %s: %s
+WARNING: unable to parse URI %s
+keyserver helper internal error
+keyserver helper version mismatch
+keyserver helper general error
+keyserver helper is out of core
+include revoked keys in search results
+include subkeys when searching by key ID
+use temporary files to pass data to keyserver helpers
+do not delete temporary files after using them
+automatically retrieve keys when verifying signatures
+honor the preferred keyserver URL set on the key
+honor the PKA record set on a key when retrieving keys
+print_keyrec
+keyserver_spawn
+parse_keyserver_uri
+image/jpeg
+image/x-unknown
+eog %i
+xloadimage
+no photo viewer set
+%08lX%08lX.%s
+unable to display photo ID!
+photoid.jpeg.add
+photoid.jpeg.size
+`%s' is not a JPEG file
+photoid.jpeg.okay
+xloadimage -fork -quiet -title 'KeyID 0x%k' stdin
+display -title 'KeyID 0x%k' %i
+Pick an image to use for your photo ID.  The image must be a JPEG file.
+Remember that the image is stored within your public key.  If you use a
+very large picture, your key will become very large as well!
+Keeping the image close to 240x288 is a good size to use.
+Enter JPEG filename for photo ID: 
+This JPEG is really large (%d bytes) !
+Are you sure you want to use it? (y/N) 
+Is this photo correct (y/N/q)? 
+unable to open JPEG file `%s': %s
+tempout.bin
+tempout.txt
+tempin.bin
+tempin.txt
+/tmp
+TMPDIR
+%s/gpg-XXXXXX
+%s/%s
+set_exec_path: %s
+/bin/sh
+../../g10/exec.c
+expanding string "%s"
+SHELL
+execlp: %s
+execlp: %s -c %s
+using temp file `%s'
+system() command is %s
+external program calls are disabled due to unsafe options file permissions
+args expanded to "%s", use %u, keep %u
+unable to execute program `%s': %s
+unable to execute shell `%s': %s
+system error while calling external program: %s
+unnatural exit of external program
+unable to execute external program
+unable to read external program response: %s
+WARNING: unable to remove tempfile (%s) `%s': %s
+WARNING: unable to remove temp directory `%s': %s
+exec_write
+../../cipher/cipher.c
+AES192
+AES256
+RIJNDAEL
+RIJNDAEL192
+RIJNDAEL256
+cipher %d w/o key length
+cipher %d not found
+cipher %d w/o blocksize
+!(nbytes%c->blocksize)
+can't disable cipher algo %d: table full
+cipher_open: algorithm %d not available
+WARNING: cipher_setiv: ivlen=%u blklen=%u
+cipher_encrypt: invalid mode %d
+cipher_decrypt: invalid mode %d
+cipher_decrypt
+cipher_encrypt
+setup_cipher_table
+../../cipher/pubkey.c
+no decrypt() for %d
+no encrypt() for %d
+no verify() for %d
+no sign() for %d
+pubkey_encrypt: algo=%d
+  pkey:
+  data:
+  encr:
+pubkey_decrypt: algo=%d
+  skey:
+ plain:
+pubkey_sign: algo=%d
+   sig:
+can't disable pubkey algo %d: table full
+setup_pubkey_table
+../../cipher/md.c
+no asn for md algo %d
+dbgmd-%05d.%.10s
+md debug: can't open %s
+md_enable: algorithm %d not available
+more than algorithm in md_read(0)
+more than algorithm in md_digest(0)
+WARNING: more than algorithm in md_get_algo()
+WARNING: no length for md algo %d
+Oops: md debug already started
+md_digest
+md_read
+md_write
+load_digest_module
+DES maintenance test failed.
+Triple-DES test failed.
+DES weak key detection failed
+Triple-DES SSLeay test pattern no. %d failend on encryption.
+Triple-DES SSLeay test pattern no. %d failend on decryption.
+8IgL&
+8IgL&
+8IgL&
+QEKX-
+D0YW
+somedata=
+UUUUUUUU
+somedata
+UUUUUUUU
+somedata
+4Wsquiggle
+[~r)t
+TWOFISH
+TWOFISH128
+Twofish-128 test encryption failed.
+Twofish-128 test decryption failed.
+Twofish-256 test encryption failed.
+Twofish-256 test decryption failed.
+TO,2
+,`%b
+S|j(
+N>-i
+dH*O
+C}iW)
+BVJU^	
+W<<2
+{{q7
+GG0<$$
+1ff[
+,'11
+*sss
+L_yyTAkk
+KKtiSS6
+86**
+`xHHb
+LLlwAAB
+|c]]("66'
+$-??F
+rrplTT
+ (88
+@Ppp
+X55z
+xx9m
+>>1g
+UUHZ~~O
+^^xfZZ\KeeXNbb
+d}OO
+<3--
+IIhrFFDUww
+((i)
+49##5b
+PDll
+ZZfx
+**68
+AAwl((
+2u{{
+~~ZH
+$$<0
+kkAT
+]]c|hh;
+s11',
+v%VV
+Q	>>
+??-$vv
+MwwUD
+TTlpss*
+g1''F
+88( 
+HHx`
+eeK\++
+|-!!
+F<<W
+)iOO}d
+*..I
+Z66"(
+--3<yy_L
+8}33
+SSit
+bbNX__
+##94
+nllDP22]
+FFrh
++ppP@
+&K&W<
+{7{7
+G<$0$
+'1,1e
+_yLyAkTk
+KiStS
+6*8*
+xH`H
+LwAlA
+c]|]"6(6
+-?$?
+r;rlTpTL)
+(8 8.
+Pp@p0
+n+nn
+UZ~H~
+!O!z
+^fZxZKe\eNbXbE
+}OdOj
+3-<-
+IrFhFUwDw
+(C()
+9#4#b
+DlPl
+fxZf
+68*6T
+ Cb5
+wlAw
+ZH~Zz
+G<0$<
+ATkA
+Sc|]c;
+',1'v%
+-$?-
+UDwU
+lpTl*
+( 8(
+x`Hx.
+K\eK
+)}dO}
+"(6"
+3<-3_Ly_
+itSit
+NXbN
+94#9
+DPlD]
+2]rhFr&e
+P@pP
+t6Q8
+$F;p
+MCi).
+lCu7&
+>id*
+6BJ^
+Blowfish selftest failed (1).
+Blowfish selftest failed (2).
+Blowfish selftest failed (3).
+Blowfish selftest failed (4).
+abcdefghijklmnopqrstuvwxyz
+BLOWFISH
+!(Ew
+n6j/
+HWyn
+9)PF
+(-}|
+W;()f
+_xU`u
+08bX
+w``u N
+-%	?
+:hZ=
+%xP(
+B*k@5
+mK1f
+n:2C[
+V@E'
+::SU
+^|1)
+A4x{%`
+no:7
+7,gm;
+.97yY
+Bh;+j
+.x7B
+{x`M`
+BFUa.X
+YnFpW
+	-f3F2
+r9$|
+pzKD)
+ilRdV
+)L	u@
+?kh	
+|sG2
+U$qk.
+fC	c
+27;C
+qUN1
+/n[(
+Ze2Zh@
+Wcr"
+T0.S
+ap?#
+r3A~
+;"lY7
+@n2w
+_g@Cg
+~&jE
+ iciNWq
+x`\`U
+S2zw
+Qjh/T
+w?6r
+\^c$j
+yr,@
+H{1S
+"//w
+AJsN
+*!ec
+nCAST5 selftest failed (%s).
+CAST5
+}\cm
+xzdD]
+vOB9`
+pqT3^-ZI
+$;g9
+A^e$
+1d[O~
+!![z
+M:&)
+dU	2
+PIMAC
+gC_7
+F_C)x;
+a3bt
+Zbby
+S4n)
+lbfL
+Tq*+
+S9v.i
++LVvuOx39]O#2
+SU2`	
+-7HD
+Es/#
+s%iH
+SH6tc
+*Y#5
+/C~A
+Sj~=eI
+c8:$
+}oaO
+]ny`
+BN"r
+kMxn
+FS(l
+h,DUu
+uU~b
+v^FES
+{OJW
+z(~c
+5_	 
+=;&o
+~?Pa w
+WFgO
+(>nH&p
+gTzu
+|k	.T
+B=!&|
+!\1c
+)eyC
+^(O= 
+W1O	g_?
+*,]I
+Fv\;
+Eub'z
+\j#M
+SRqDIK
+_maz
+mn`I:T`H
+C?9z
+bcKU
+!+g\
+"%-U^7
+PaH?
+dv&4
+wj-K
+.n\	
+g&H`
+~8lI
+d^AE
+;]>r
+%?/?!
+"o;h(Y
+T*_}x:
+j Bz
+u\B&
+y7bT
+Ab61
+T<*2
+a.z9
+DGt2
+&5	M{
+yM;-
+jMG\^
+\Rijndael-128 test encryption failed.
+Rijndael-128 test decryption failed.
+Rijndael-192 test encryption failed.
+Rijndael-192 test decryption failed.
+Rijndael-256 test encryption failed.
+Rijndael-256 test decryption failed.
+!"#$&'()+,-.]
+vwtu
+wpqr
+$4,8-9'66.:$?#1*HhXpAeS~ZrNlS
+Ebl\tHeQ
+F~FbTwKiZ
+4,8$9'6-.:$6#1*?hXpHeS~ArNlZ
+EbS\tHlQ
+FeFbT~KiZw
+,8$4'6-9:$6.1*?#XpHhS~AeNlZrEbS
+tHl\
+FeQbT~FiZwK
+*<zG
+V},z7
+8$4,6-9'$6.:*?#1pHhX~AeSlZrNbS
+EHl\tFeQ
+T~FbZwKi
+lpHP
+PQAeS~
+U vm
+Ebdw
+HhXpE
+ZrNl
+=-9'6
+!h[T
+6.:$
+awKiZ
+~4[C)v
+j~FbT
+1?#1*
+[_=o
+$4,8
+l\tH
+eS~A
+U 0m
+Xti)I
+EbSw
+hXpH
+*fU(
+H2+p
+rNlZ
+9'6-
+!h\T
+[.:$6g
+KiZw
+Df~4[
+Bc"@
+j_FbT~
+#1*?
+h4,8$@_
+2\tHlWB
+S~Ae
+Xt!)I
+Q3EbS
++XpHh
+@Cwg
+pNlZr
+'6-9d
+[T:$6.
+ iZwK
+*C<"
+Df;4[
+bT~F
+1*?#0
+f7tN
+,8$4_
+(<IA
+tHl\B
+P~AeS
+-Xt!
+X>k'
+Q3`bS
+pHhX
+lZrN
+6-9'
+$6.:
+ZwKi
+T~Fb
+&x	nY
+*?#1
+>8$4,
+pHl\t
+WBcc
+00P`
+++}V
+=&&jL66Zl??A~
+44\h
+11Sb
+##eF
+''iN
+,,tX
+-6nn
+alula
+;;Mv
+})){R
+//q^
+  `@
+g99KrJJ
+33Uf
+<<Dx
+!88Hp
+!!cB
+==Gzdd
++2ss
+""fD**~T
+22Vd::Nt
+$$lH\\
+77Ynmm
+%%oJ..r\
+!>KK
+>>B|
+55_jWW
+3"ii
+((xP
+)--wZ
+0P`0
+g+}V+
+&jL&6Zl6?A~?
+4\h4
+1Sb1
+#eF#
+'iN'
+,tX,
+R;Mv;
+){R)
+/q^/
+ `@ 
+9Kr9J
+M3Uf3
+P<Dx<
+8Hp8
+!cB!
+~=Gz=d
+"fD"*~T*
+2Vd2:Nt:
+$lH$\
+7Yn7m
+x%oJ%.r\.
+p>B|>
+a5_j5W
+U(xP(
+-wZ-
+P`00
+gg}V++
+jL&&Zl66A~??
+\h44
+Sb11?*
+eF##^
+iN''
+tX,,.4
+RRMv;;a
+{R))>
+q^//
+`@  
+Kr99
+MMUf33
+PPDx<<
+Hp88
+cB!!0 
+DD9.
+~~Gz==
+]]+2
+fD""~T**
+Vd22Nt::
+lH$$
+Yn77
+xxoJ%%r\..$8
+tt!>
+ppB|>>
+aa_j55
+UUxP((z
+wZ--
+T`00P
+V++}
+L&&jl66Z~??A
+Oh44\Q
+sb11S*
+RF##e
+&N''i
+X,,t4
+v;;M
+R)){
+>^//q
+,@  `
+r99K
+f33U
+x<<D%
+p88H
+uB!!c 
+z==G
+D""fT**~;
+;d22Vt::N
+H$$l
+Cn77Y
+J%%o\..r8
+|>>Bq
+j55_
+P((x
+Z--w
+:c|w{
+9JLX
+~=d]
+CAMELLIA128
+CAMELLIA192
+CAMELLIA256
+CAMELLIA128 test encryption failed.
+CAMELLIA128 test decryption failed.
+CAMELLIA192 test encryption failed.
+CAMELLIA192 test decryption failed.
+CAMELLIA256 test encryption failed.
+CAMELLIA256 test decryption failed.
+IDEA test decryption failed.
+IDEA test encryption failed.
+../../cipher/idea.c
+keylen == 16
+do_setkey
+../../cipher/elgamal.c
+elg  p= 
+elg  g= 
+elg  y= 
+elg  x= 
+ELG-E
+choosing a random k of %u bits
+choosing a random x of size %u
+Elgamal operation: encrypt, decrypt failed
+gen_k
+generate
+phi= 
+  f= 
+  n= 
+  e= 
+  d= 
+  u= 
+RSA-E
+RSA-S
+RSA operation: public, secret failed
+RSA operation: secret, public failed
+../../cipher/primegen.c
+overflow in prime generation
+prime    : 
+factor  q: 
+factor q0: 
+factor pi: 
+, p%d=%u
+checking g: 
+bit sizes: prime=%u, q=%u
+, q0=%u
+mpi_cmp( x, nminus1 ) < 0 && mpi_cmp_ui( x, 1 ) > 0
+can't generate a prime with less than %d bits
+can't gen prime with pbits=%u qbits=%u
+gen prime: pbits=%u qbits=%u fbits=%u/%u n=%d
+m_out_of_n
+generate_elg_prime
+is_prime
+No way to gather entropy for the RNG
+`%s' is not a regular file - ignored
+note: random_seed file is empty
+WARNING: invalid size of random_seed file - not used
+random usage: poolsize=%d mixed=%lu polls=%lu/%lu added=%lu/%lu
+              outmix=%lu getlvl1=%lu/%lu getlvl2=%lu/%lu
+note: random_seed file not updated
+can't lock `%s': %s
+waiting for lock on `%s'...
+can't stat `%s': %s
+can't read `%s': %s
+../../cipher/random.c
+can't write `%s': %s
+can't close `%s': %s
+fast_random_poll
+set_random_seed_file
+read_pool
+choosing a random k 
+../../cipher/dsa.c
+nbits >= 512
+qbits >= 160
+qbits %8 == 0
+choosing a random x 
+dsa  p= 
+dsa  q= 
+dsa  g= 
+dsa  y= 
+dsa  x= 
+DSA:: sign, verify failed
+generate
+generate
+vRQ>
+8STs
+LwH'
+can't open %s: %s
+stat() off %s failed: %s
+/dev/random
+/dev/urandom
+select() error: %s
+Not enough random bytes available.  Please do some other work to give
+the OS a chance to collect more entropy! (Need %d more bytes)
+bogus read from random device (n=%d)
+read error on random device: %s
+D7q/;M
++Yo,
+&\8!
+* qW
+LwH'
+L*~e
+../../mpi/mpi-pow.c
+!bp_marker
+!mp_marker
+res->d == rp
+mpi_powm
+../../mpi/mpi-mpow.c
+i==k
+k < 10
+idx >= 0 && idx < (1<<k)
+mpi_mulpowm
+mpi_encode: mpi too large (%u bits)
+mpi too large for this implementation (%u bits)
+mpi larger than indicated length (%u bytes)
+mpi larger than buffer
+../../mpi/mpicoder.c
+%016lX
+[MPI_NULL]
+[%u bits]
+i == nlimbs
+mpi_set_buffer
+mpi_fromstr
+mpi_alloc_limb_space(%u)
+mpi_alloc(%u)
+mpi_alloc_secure(%u)
+mpi_free
+invalid flag value in mpi
+../../mpi/mpiutil.c
+mpi_get_opaque on normal mpi
+mpi_free_limb_space of size %lu
+mpi_set_cond: different sizes
+mpi_set_secure
+[%u]
+%s%s: %s
+?%s: %s
+ERROR: 
+WARNING: 
+fatal: 
+Ohhhh jeeee: 
+... this is a bug (%s:%d:%s)
+../../util/logger.c
+DBG: 
+can't open fd %d for logging: %s
+log_set_logfile
+%uy%ud%uh%um
+%04d-%02d-%02d %02d:%02d:%02d
+okay|okay
+cancel|cancel
+iconv_open failed: %s
+iso-8859-1
+../../util/strgutil.c
+estream_asprintf failed: %s
+ASCII
+ANSI_X3.4-1968
+utf8
+conversion from `%s' to `%s' not available
+01234567890_-.abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+conversion from `%s' to `%s' failed: %s
+utf8_to_native
+tcsetattr() failed: %s
+/dev/tty
+cannot open tty `%s': %s
+tcgetattr() failed: %s
+control d found
+Sorry, we are in batchmode - can't get input
+Sorry, no terminal at all requested - can't get input
+[??]
+%s:%u: argument not expected
+%s:%u: read error
+%s:%u: keyword too long
+%s:%u: missing argument
+%s:%u: invalid command
+%s:%u: invalid option
+Invalid command "%.50s"
+Option "%.50s" is ambiguous
+Command "%.50s" is ambiguous
+Invalid option "%.50s"
+Options:
+ -%c
+%c --%s
+warranty
+dump-options
+--%s
+ignore-invalid-option
+alias
+Invalid argument for ArgParse
+%s:%u: invalid alias definition
+Missing argument for option "%.50s"
+Option "%.50s" does not expect an argument
+(A single dash may be used instead of the double ones)
+--dump-options
+--help
+--version
+--warranty
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+Copyright (C) 2015 Free Software Foundation, Inc.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+This is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 3 of the License, or
+(at your option) any later version.
+It is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+You should have received a copy of the GNU General Public License
+along with this software.  If not, see <http://www.gnu.org/licenses/>.
+dummy m_size called
+out of %s memory while allocating %u bytes
+(this may be caused by too many secret keys used simultaneously or due to excessive large key sizes)
+WARNING: using insecure memory!
+please see http://www.gnupg.org/documentation/faqs.html for more information
+can't mmap pool of %u bytes: %s - using malloc
+can't allocate memory pool of %u bytes
+Oops, secure memory pool already initialized
+operation is not possible without initialized secure memory
+(you may have used the wrong program for this task)
+secure memory corrupted at block %p
+secmem usage: %u/%u bytes in %u/%u blocks of pool %lu/%lu
+failed to drop setuid
+secure memory is disabled
+failed to reset uid: %s
+can't lock memory: %s
+unknown packet type
+unknown version
+unknown pubkey algorithm
+unknown digest algorithm
+bad public key
+bad secret key
+bad signature
+checksum error
+bad passphrase
+public key not found
+unknown cipher algorithm
+can't open the keyring
+invalid packet
+invalid armor
+no such user id
+secret key not available
+wrong secret key used
+bad key
+file read error
+file write error
+unknown compress algorithm
+file open error
+file create error
+invalid passphrase
+unknown signature class
+trust database error
+bad MPI
+resource limit
+invalid keyring
+bad certificate
+malformed user id
+file close error
+file rename error
+file delete error
+unexpected data
+timestamp conflict
+unusable pubkey algorithm
+file exists
+weak key
+invalid argument
+bad URI
+unsupported URI
+network error
+selftest failed
+not encrypted
+not processed
+unusable public key
+unusable secret key
+keyserver error
+canceled
+no data
+g10err=%d
+unimplemented pubkey algorithm
+unimplemented cipher algorithm
+../../util/iobuf.c
+%s: read error: %s
+file_filter(fd)
+%s: close fd %d
+fd_cache_close (%d) real
+%s: write error: %s
+a->d.start == a->d.len
+iobuf-%d.%d: error
+IOBUFCTRL_FREE failed: %s
+iobuf-%d.%d: underflow: eof
+fd_cache_invalidate (all)
+fd_cache_invalidate (%s)
+                did (%s)
+iobuf-%d.%d: openrw `%s'
+[all]
+iobuf-*.*: ioctl `%s' fsync
+fd_cache_synchronize (%s)
+<null>
+[fd %d]
+iobuf-%d.%d: fdopen `%s'
+can't rewind fd %d: %s
+iobuf-%d.%d: open `%s' fd=%d
+iobuf-%d.%d: create `%s'
+flush on non-output iobuf
+iobuf_flush: no filter
+iobuf_close -> %p
+iobuf-%d.%d: close `%s'
+iobuf-%d.%d: push `%s'
+IOBUFCTRL_INIT failed: %s
+iobuf-%d.%d: pop `%s'
+iobuf-%d.%d: popped filter
+a->d.start == 1
+a->d.len < a->d.size
+c <= 0x1f
+n == OP_MIN_PARTIAL_CHUNK
+!a->buflen
+nbytes < OP_MIN_PARTIAL_CHUNK
+init block_filter %p
+block_filter
+block_filter: pending bytes!
+free block_filter %p
+fstat() failed: %s
+can't seek: %s
+can't lseek: %s
+a->use == 1 || a->use == 2
+fd_cache_close (%s) used existing slot
+fd_cache_close (%s) new slot created
+iobuf chain: %d.%d `%s' filter_eof=%d start=%d len=%d
+iobuf-%d.%d: pop `%s' in underflow
+iobuf-%d.%d: underflow: eof (due to filter eof)
+iobuf-%d.%d: underflow: req=%lu
+iobuf-%d.%d: underflow: got=%lu rc=%d
+iobuf-%d.%d: pop in underflow (!len)
+iobuf-%d.%d: underflow: eof (no filter)
+iobuf-%d.%d: ioctl `%s' keep=%d
+iobuf-*.*: ioctl `%s' invalidate
+iobuf-%d.%d: ioctl `%s' no_cache=%d
+fd_cache_open (%s) using cached fp
+fd_cache_open (%s) not cached
+increasing temp iobuf from %lu to %lu
+iobuf_flush did not write all!
+iobuf_flush failed on close: %s
+IOBUFCTRL_FREE failed on close: %s
+i/o filter too deeply nested - corrupted data?
+iobuf_flush failed in pop_filter: %s
+can't remove the last filter from the chain
+Ohh jeee, trying to remove a head filter
+Ohh jeee, trying to remove an intermediate filter
+pop_filter(): filter function not found
+block_filter: 1st length byte missing
+block_filter: 2nd length byte missing
+block_filter: invalid 4 byte length
+block_filter %p: read error (size=%lu,a->size=%lu)
+a->buflen <= OP_MIN_PARTIAL_CHUNK
+block_filter: write error: %s
+pop_filter called in iobuf_seek - please report
+pop_filter called in set_partial_block_mode - please report
+block_filter
+block_filter
+iobuf_set_partial_block_mode
+pop_filter
+pop_filter
+iobuf_write
+iobuf_writebyte
+iobuf_writebyte
+iobuf_peek
+underflow
+iobuf_push_filter2
+file_filter
+%10d
+%.*s/.#lk%p.
+%s.%d
+error writing to `%s': %s
+error reading lockfile `%s'
+(deadlock?) 
+Oops, `%s' is already locked
+cannot read lockfile
+lockfile disappeared
+Oops, `%s' is not locked
+can't check whether hardlinks are supported for `%s': %s
+locking for `%s' done via O_EXCL
+failed to create temporary file `%s': %s
+error opening lockfile `%s': %s
+invalid size of lockfile `%s'
+invalid pid %d in lockfile `%s'
+lock not made: writing to `%s' failed: %s
+lock not made: Oops: stat of tmp file failed: %s
+Oops: lock already held by us
+removing stale lockfile (created by %d)
+waiting for lock (held by %d%s) %s...
+lock not made: open(O_EXCL) of `%s' failed: %s
+release_dotlock: lockfile error
+release_dotlock: not our lock (pid=%d)
+release_dotlock: error removing lockfile `%s'
+._pka.
+ybndrfg8ejkmcpqxot1uwisza345h769../../util/convert.c
+hex2str_alloc
+0123456789abcdef
+0123456789ABCDEF
+(null)
+../../util/estream-printf.c
+argidx < argspecs_len
+!"bug"
+0123456789abcdefx
+parm.used
+valuetable[arg->width_pos-1].vt == VALTYPE_INT
+valuetable[arg->precision_pos-1].vt == VALTYPE_INT
+arg->vt == valuetable[arg->arg_pos-1].vt
+estream_vasprintf
+do_format
+fatal: too many args for xstrconcat
+fatal: out of memory
+0%s[%u.%p] DBG: -> 
+[Confidential data not shown]
+../../util/assuan-buffer.c
+atticlen < LINELENGTH
+ctx->inbound.eof
+%s[%u.%p] DBG: <- [EOF]
+%s[%u.%p] DBG: <- 
+%s[%u.%p] DBG: <- [Error: %s]
+%s[%u.%p] DBG: <- [Invalid line]
+%s[%u.%p] DBG: -> [supplied line too long -truncated]
+%s[%u.%p] DBG: -> [supplied line contained a LF -truncated]
+_assuan_read_line
+no error
+problem starting server
+not a server
+not a client
+nested commands
+invalid response
+no data callback
+no inquire callback
+connect failed
+accept failed
+not implemented
+server fault
+invalid command
+unknown command
+syntax error
+parameter error
+parameter conflict
+line not terminated
+no input
+no output
+unsupported algorithm
+server resource problem
+server io error
+server bug
+no data available
+unexpected command
+too much data
+inquire unknown
+inquire error
+invalid option
+invalid index
+unexpected status
+invalid status
+locale problem
+not confirmed
+user error first
+user error last
+ec=%u.%u
+ec=%d
+can't create socket: %s
+can't connect to server: %s
+;*3$"
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+0!0	
+0!0	
+2Kd}
+(2<FP/}
+#({s
+	#	%	+	/	5	C	I	M	O	U	Y	_	k	q	w	
+0!0	
+0!0	
+8b5b40b6287de8eec7f85c8d47f5d5958d1c02.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

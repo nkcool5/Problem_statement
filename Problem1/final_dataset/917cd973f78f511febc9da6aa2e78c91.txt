@@ -1,0 +1,970 @@
+/lib64/ld-linux-x86-64.so.2
+DJ@s
+libcanberra-gtk3.so.0
+g_free
+XFree
+__gmon_start__
+_Jv_RegisterClasses
+gtk_widget_get_type
+_ITM_deregisterTMCloneTable
+gdk_x11_display_get_xdisplay
+_ITM_registerTMCloneTable
+g_get_application_name
+gtk_window_get_type
+gtk_widget_get_screen
+g_object_get
+g_getenv
+gdk_x11_window_get_xid
+g_type_check_instance_is_a
+g_signal_connect_data
+gdk_screen_get_width
+g_type_check_instance_cast
+gtk_settings_get_for_screen
+ca_proplist_sets
+ca_proplist_destroy
+gdk_window_get_origin
+ca_proplist_create
+gdk_screen_get_default
+ca_context_play_full
+gdk_screen_get_height
+g_log
+gtk_widget_get_window
+gdk_window_get_screen
+ca_gtk_context_get
+libX11.so.6
+XQueryTree
+libcanberra.so.0
+libgtk-3.so.0
+cairo_region_subtract_rectangle
+g_object_new
+g_app_info_get_default_for_type
+g_malloc_n
+g_object_ref
+g_settings_get_boolean
+g_app_info_get_executable
+gdk_pixbuf_get_from_window
+g_settings_new
+g_return_if_fail_warning
+g_get_home_dir
+g_mkdir_with_parents
+g_io_error_quark
+gdk_pixbuf_fill
+g_type_register_static_simple
+gdk_display_get_device_manager
+gdk_pixbuf_composite
+g_type_class_adjust_private_offset
+g_timeout_add
+gdk_window_get_height
+g_application_get_type
+gdk_screen_is_composited
+g_error_free
+gdk_window_set_cursor
+g_strndup
+gdk_pixbuf_scale_simple
+g_application_hold
+cairo_set_operator
+gdk_pixbuf_get_colorspace
+g_task_return_pointer
+g_date_time_format
+g_path_get_basename
+g_build_filename
+gdk_device_get_associated_device
+gdk_rectangle_intersect
+gdk_cursor_new_for_display
+g_file_get_path
+cairo_set_source_rgba
+g_variant_new
+gdk_pixbuf_get_rowstride
+g_file_query_info
+g_application_release
+g_strdup
+cairo_region_create_rectangle
+g_file_query_exists
+g_uri_unescape_string
+g_strdup_printf
+g_malloc
+gdk_window_get_display
+gdk_pixbuf_get_height
+g_settings_get_int
+g_strsplit
+gdk_pixbuf_get_bits_per_sample
+gdk_pixbuf_get_width
+gdk_display_get_default
+cairo_region_union_rectangle
+g_type_instance_get_private
+g_strjoin
+gdk_device_manager_get_client_pointer
+g_idle_add
+g_once_init_enter
+g_slice_alloc0
+g_error_matches
+g_action_map_get_type
+g_get_user_special_dir
+g_dbus_connection_call_sync
+gdk_window_get_width
+g_intern_static_string
+g_strrstr
+g_strfreev
+gdk_window_get_frame_extents
+cairo_region_create
+g_variant_get
+gdk_x11_window_foreign_new_for_display
+gdk_pixbuf_get_formats
+g_static_resource_get_resource
+gdk_pixbuf_new_from_file
+g_task_set_task_data
+g_application_get_default
+g_application_get_dbus_connection
+g_file_new_for_uri
+g_variant_unref
+g_file_get_basename
+g_menu_model_get_type
+g_type_class_add_private
+g_date_time_new_now_local
+gdk_window_get_device_position
+g_unlink
+gdk_screen_get_n_monitors
+gdk_screen_get_monitor_geometry
+g_print
+gdk_flush
+g_static_resource_init
+gdk_window_get_toplevel
+g_strconcat
+g_static_resource_fini
+g_task_propagate_pointer
+g_settings_set_int
+cairo_region_destroy
+g_object_unref
+g_once_init_leave
+g_date_time_unref
+g_utf8_strlen
+g_settings_get_string
+gdk_pixbuf_format_get_name
+g_slist_foreach
+g_dbus_connection_call
+gdk_pixbuf_format_is_writable
+g_dbus_connection_call_finish
+gdk_pixbuf_new
+cairo_paint
+g_type_class_peek_parent
+g_file_new_for_path
+g_task_run_in_thread
+g_file_get_parent
+g_malloc0
+g_file_get_type
+g_settings_set_boolean
+g_list_nth_data
+gdk_pixbuf_get_pixels
+gdk_device_get_window_at_position
+g_assertion_message_expr
+g_task_new
+g_file_get_uri
+g_uri_escape_string
+gdk_pixbuf_get_has_alpha
+g_slice_free1
+gdk_window_input_shape_combine_region
+cairo_fill
+gdk_device_ungrab
+gdk_window_shape_combine_region
+cairo_region_subtract
+g_random_int
+g_source_remove
+gdk_screen_get_rgba_visual
+gdk_device_grab
+g_slist_free
+g_strcmp0
+gtk_application_window_new
+gtk_drag_source_set
+gtk_combo_box_set_model
+gtk_window_set_decorated
+gtk_radio_button_get_group
+gtk_widget_new
+gtk_cell_renderer_text_new
+gtk_label_get_type
+Degas are we not drawn onward no In union drawn onward to new eras aged
+gtk_message_dialog_new
+gtk_window_present
+gtk_widget_set_valign
+gtk_button_box_new
+gtk_container_add
+gtk_window_new
+gtk_widget_show_all
+Do nine men interpret Nine men I nod
+gtk_window_set_type_hint
+gtk_message_dialog_get_type
+gtk_box_pack_start
+gtk_label_set_mnemonic_widget
+gtk_editable_select_region
+gtk_container_get_type
+gtk_check_button_new_with_mnemonic
+gtk_adjustment_get_type
+gtk_button_box_get_type
+gtk_window_set_focus_on_map
+gtk_toggle_button_get_type
+gtk_adjustment_new
+gtk_label_set_use_markup
+gtk_header_bar_pack_start
+gtk_entry_get_type
+gtk_widget_hide
+gtk_tree_model_get
+gtk_label_new
+gtk_widget_destroy
+gtk_grid_attach
+gtk_cell_layout_get_type
+gtk_window_set_position
+gtk_button_box_set_layout
+gtk_dialog_get_type
+gtk_tree_model_get_type
+gtk_file_chooser_get_uri
+gtk_window_group_add_window
+gtk_box_pack_end
+gtk_toggle_button_get_active
+gtk_size_group_new
+gtk_widget_get_opacity
+gtk_image_new_from_icon_name
+gtk_widget_get_allocated_height
+gtk_header_bar_pack_end
+A Santa lives evil at NASA
+gtk_widget_set_size_request
+gtk_combo_box_new
+gtk_widget_get_app_paintable
+gtk_widget_realize
+gtk_clipboard_get_for_display
+gtk_cell_layout_pack_start
+gtk_combo_box_set_active
+gtk_recent_manager_get_default
+gtk_application_get_windows
+gtk_application_set_app_menu
+gtk_grid_get_type
+gtk_selection_data_set_pixbuf
+gtk_main_quit
+gtk_widget_set_can_default
+gtk_get_current_event_time
+gtk_window_set_keep_above
+gtk_window_set_accept_focus
+gtk_size_group_add_widget
+gtk_window_get_screen
+gtk_radio_button_get_type
+gtk_widget_grab_focus
+gtk_render_icon
+gtk_drag_set_icon_pixbuf
+gtk_window_set_skip_pager_hint
+gtk_builder_get_object
+gtk_dialog_run
+gtk_window_set_skip_taskbar_hint
+gtk_list_store_insert
+gtk_list_store_set
+gtk_aspect_frame_set
+gtk_box_new
+gtk_window_get_group
+gtk_window_resize
+gtk_render_frame
+gtk_window_set_titlebar
+gtk_style_context_restore
+gtk_entry_get_text
+gtk_widget_set_margin_start
+gtk_spin_button_new
+gtk_window_set_application
+gtk_window_set_default
+gtk_message_dialog_format_secondary_text
+gtk_widget_set_halign
+gtk_widget_set_visual
+gtk_button_new_with_mnemonic
+gtk_spin_button_get_value_as_int
+gtk_main
+gtk_widget_set_opacity
+gtk_render_background
+gtk_box_get_type
+gtk_label_new_with_mnemonic
+gtk_file_chooser_set_current_folder_uri
+gtk_editable_get_type
+gtk_widget_get_state_flags
+gtk_container_set_border_width
+gtk_file_chooser_get_type
+gtk_recent_manager_add_full
+gtk_header_bar_get_type
+gtk_button_box_set_child_secondary
+gtk_frame_get_type
+gtk_radio_button_new_with_mnemonic
+gtk_window_move
+gtk_combo_box_get_type
+gtk_widget_set_sensitive
+gtk_style_context_save
+gtk_application_get_active_window
+gtk_window_set_default_icon_name
+gtk_widget_get_style_context
+gtk_builder_add_from_resource
+gtk_widget_show
+gtk_widget_grab_default
+gtk_window_set_title
+gtk_widget_get_allocated_width
+gtk_entry_set_text
+gtk_application_get_type
+gtk_builder_new
+gtk_list_store_new
+gtk_combo_box_get_model
+gtk_widget_get_scale_factor
+gtk_cell_layout_set_attributes
+gtk_show_uri
+gtk_button_get_type
+gtk_clipboard_set_image
+gtk_show_about_dialog
+gtk_header_bar_new
+gtk_toggle_button_set_active
+gtk_frame_set_shadow_type
+gtk_style_context_add_class
+gtk_widget_set_app_paintable
+gtk_style_context_set_state
+gtk_combo_box_get_active_iter
+alula
+gtk_aspect_frame_get_type
+gtk_window_set_resizable
+libgdk-3.so.0
+cairo_region_get_rectangle
+cairo_region_num_rectangles
+g_printerr
+g_timeout_add_full
+gdk_pixbuf_get_n_channels
+XShapeGetRectangles
+gdk_pixbuf_get_option
+gdk_screen_get_active_window
+gdk_cursor_get_image
+gdk_screen_height
+gdk_get_default_root_window
+gdk_cursor_new
+gdk_window_get_type_hint
+gdk_screen_width
+libcairo.so.2
+libgdk_pixbuf-2.0.so.0
+g_task_get_type
+g_output_stream_get_type
+g_type_check_class_cast
+g_task_return_new_error
+gdk_pixbuf_save_to_stream_finish
+gdk_pixbuf_composite_color_simple
+gdk_pixbuf_saturate_and_pixelate
+gdk_pixbuf_format_get_extensions
+gdk_pixbuf_save_to_stream_async
+libgio-2.0.so.0
+g_get_user_cache_dir
+g_filename_from_utf8
+g_file_new_for_commandline_arg
+g_application_run
+g_settings_set_string
+g_application_add_main_option_entries
+g_file_create_finish
+g_action_map_add_action_entries
+g_file_replace_finish
+g_application_set_flags
+g_file_replace_async
+g_dbus_connection_get_type
+g_application_activate
+g_application_get_flags
+g_file_create_async
+g_application_command_line_get_options_dict
+libgobject-2.0.so.0
+libglib-2.0.so.0
+g_variant_dict_lookup
+g_variant_dict_contains
+g_utf8_strrchr
+libXext.so.6
+libm.so.6
+libpthread.so.0
+libc.so.6
+exit
+setlocale
+__isoc99_sscanf
+dcgettext
+__stack_chk_fail
+bind_textdomain_codeset
+getpwnam
+strstr
+strchr
+bindtextdomain
+strcmp
+__libc_start_main
+_edata
+__bss_start
+GLIBC_2.2.5
+GLIBC_2.4
+GLIBC_2.7
+ATUI
+[]A\
+UH-P=a
+AUATUSH
+[]A\A]
+ATUSH
+@([]A\
+[]A\
+ATUH
+[]A\
+AUATI
+[]A\A]
+ATUH
+[]A\
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATI
+([]A\A]A^A_
+ATh5
+AUATH
+D$H1
+D$HdH3
+X[]A\A]
+D$0H
+AVAUATUSH
+D$(1
+D$(dH3
+0[]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+ATUH
+ATUH
+D$81
+D$(P
+D$4P
+T$0D
+L$<D
+t$8dH34%(
+@[]A\
+AUATI
+D$81
+|$(H
+|$(H
+|$(H
+|$(I
+ZYut
+D$8dH3
+H[]A\A]
+D$0H
+AUATI
+[]A\A]
+AWAVAUATUSH
+([]A\A]A^A_
+ATUI
+0[]A\
+AWAVA
+AUATA
+D$`t
+]A\A]A^A_
+[]A\A]A^A_
+ATUH
+[]A\
+vHH9x(@
+`@f.
+AUATI
+[]A\A]
+AWAVI
+AUATI
+[]A\A]A^A_
+T$ A
+T$ H
+T$(H
+t$ H
+ATUSH
+[]A\
+AUATUSH
+[]A\A]
+AWAVAUATI
+([]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+ATUSH
+Eleele
+Tacocat
+P([]A\
+D$81
+D$8dH3
+AWAVAUATUSH
+Beeb
+|$0H
+t$8dH
+D$x1
+|$ H
+=x{ 
+=4{ 
+D$ A
+D$(H
+l$@H
+\$HL
+t$PD
+l$@H
+|$ H
+T$P1
+L$0E1
+L$8H
+L$xdH3
+[]A\A]A^A_
+AWAVAUATI
+D$ C
+L$LD
+t$PH
+D$xD
+HcD$PH
+t$`H
+D$xH
+D$0HcD$TH
++D$h
++D$<
+x-A9
+\$@9\$ ~
+T$DD
+D+d$<
+D9T$ @
+u3A9
+D;T$
+D$$H
+;D$8
+|$T;D$t
+D$XH
+[]A\A]A^A_
+AVAUATUH
+5jm 
+[]A\A]A^
+ATUSH
++[]A\
+ATUSH
++[]A\
+AWAVI
+AUATUSH
+([]A\A]A^A_
+ATUH
+[]A\
+AWAVAUATUSH
+|$0D
+D$8H
+\$8H
+|$8L
+\$ f
+l$bfD
+d$(fD
+l$`H
+t$0H
+D$0H
+dH34%(
+[]A\A]A^A_
+D$bf
+|$8L
+D$pH
+D$tH
+D$xH
+D$HH
+D+t$X
++L$dD
+t$pA
+D$tHc
+|$(H
+D$(H
+D9l$
+D$D9
+D$hL
+l$h~,f.
+t$hH
+D9d$
+T$HL
+T$XE9
+D9d$
+D$PE1
+D$bh
+AWAVAUATUSH
+([]A\A]A^A_
+]A\A]A^
+[]A\A]A^
+]A\A]A^
+AWAVA
+AUATL
+%nH 
+-vH 
+[]A\A]A^A_
+/usr/share/locale
+UTF-8
+CheeseFlash
+draw
+ffffff
+?Unable to capture a screenshot of any window
+Unable to capture a screenshot
+Impossible to find a valid location to save the screenshot: %s
+A file named "%s" already exists in "%s"
+Error creating file. Please choose another location and retry.
+Unable to save the screenshot: %s
+Save images of your screen or individual windows
+/org/gnome/screenshot/screenshot-app-menu.ui
+Send the grab directly to the clipboard
+Grab a window instead of the entire screen
+Grab an area of the screen instead of the entire screen
+Include the window border with the screenshot
+Remove the window border from the screenshot
+Include the pointer with the screenshot
+Take screenshot after specified delay [in seconds]
+Effect to add to the border (shadow, border, vintage or none)
+Save screenshot directly to this file
+Print version information and exit
+All possible methods failed
+dialog-error
+Screenshot taken
+screen-capture
+Error creating file
+Unity
+Overwrite existing file?
+tEXt::Software
+image/png
+GNOME Screenshot
+last-save-directory
+Emmanuele Bassi
+Jonathan Blandford
+Cosimo Cecchi
+translator-credits
+program-name
+authors
+3.18.0
+version
+wrap-license
+license-type
+applets-screenshooter
+logo-icon-name
+comments
+screenshot-application.c
+%s %s
+interactive
+ScreenshotApplication
+clipboard
+include-border
+remove-border
+include-pointer
+border-effect
+delay
+^&ay
+flags
+org.gnome.Screenshot
+application-id
+Graphics
+about
+help
+quit
+screen-shot
+window-shot
+seconds
+Interactively set options
+filename
+screenshot_dialog_response_cb
+Unable to select area using GNOME Shell's builtin screenshot interface, resorting to fallback X11.
+key-press-event
+button-press-event
+Borrow or rob
+button-release-event
+motion-notify-event
+(iiii)
+rubberband
+SelectArea
+org.gnome.Shell.Screenshot
+/org/gnome/Shell/Screenshot
+org.gnome.gnome-screenshot
+default-file-type
+include-icc-profile
+none
+c != NULL
+screenshot-config.c
+auto-save-directory
+XDG_CURRENT_DESKTOP
+Conflicting options: --window and --area should not be used at the same time.
+Conflicting options: --area and --delay should not be used at the same time.
+Option --clipboard is ignored in interactive mode.
+Option --include-pointer is ignored in interactive mode.
+Option --file is ignored in interactive mode.
+screenshot_save_config
+Unknown type %d
+grid1
+C_opy to Clipboard
+_Save
+can-default
+use-underline
+label
+filename_entry
+save_widget
+save_button
+clicked
+copy_button
+aspect_frame
+preview_darea
+button_press_event
+button_release_event
+configure_event
+drag_begin
+drag_data_get
+res != 0
+screenshot-dialog.c
+toplevel
+Screenshot.png
+/org/gnome/screenshot/screenshot-dialog.ui
+Unable to convert `%s' to valid UTF-8: %s
+Falling back to default file.
+screenshot_dialog_new
+?%Y-%m-%d %H-%M-%S
+Screenshot from %s.%s
+Screenshot from %s - %d.%s
+standard::type
+Failed to find a valid place to save
+effect != NULL
+None
+Take Screenshot
+</b>
+Grab the whole sc_reen
+toggled
+Grab the current _window
+Select _area to grab
+Grab after a _delay of
+value-changed
+Effects
+Include _pointer
+Include the window _border
+Apply _effect:
+text
+gtk-shell-shows-app-menu
+_Help
+Take _Screenshot
+suggested-action
+_Cancel
+Drop shadow
+Border
+Vintage
+vintage
+screenshot-interactive-dialog.c
+effect_combo_changed_cb
+L?event.id
+event.description
+permanent
+canberra.cache-control
+x_hot
+y_hot
+screenshot-utils.c
+ScreenshotWindow
+ScreenshotArea
+scr-%d.png
+(bbbs)
+(iiiibs)
+(bbs)
+message != NULL
+Error loading the help page
+Couldn't find window manager window
+gdk_pixbuf_get_colorspace (pixbuf) == GDK_COLORSPACE_RGB
+Unable to use GNOME Shell's builtin screenshot interface, resorting to fallback X11.
+(parent == NULL) || (GTK_IS_WINDOW (parent))
+help:ubuntu-help/screen-shot-record
+screenshot_show_dialog
+blank_rectangle_in_pixbuf
+GVariant
+screenshot-app-menu.ui
+<interface>
+  <menu id="app-menu">
+    <section>
+      <item>
+        <attribute name="action">app.help</attribute>
+        <attribute name="label" translatable="yes">Help</attribute>
+      </item>
+      <item>
+        <attribute name="action">app.about</attribute>
+        <attribute name="label" translatable="yes">About</attribute>
+      </item>
+      <item>
+       <attribute name="action">app.quit</attribute>
+       <attribute name="label" translatable="yes">Quit</attribute>
+      </item>
+    </section>
+  </menu>
+</interface>
+(uuay)org/
+gnome/
+screenshot-dialog.ui
+<?xml version="1.0" encoding="UTF-8"?>
+<interface>
+  <!-- interface-requires gtk+ 3.8 -->
+  <object class="GtkApplicationWindow" id="toplevel">
+    <property name="can_focus">False</property>
+    <property name="border_width">5</property>
+    <property name="title" translatable="yes">Save Screenshot</property>
+    <property name="resizable">False</property>
+    <property name="window_position">center</property>
+    <child type="titlebar">
+      <object class="GtkHeaderBar" id="headerbar1">
+        <property name="visible">True</property>
+        <property name="can_focus">False</property>
+        <property name="show_close_button">True</property>
+        <child>
+          <object class="GtkButton" id="copy_button">
+            <property name="label" translatable="yes">C_opy to Clipboard</property>
+            <property name="visible">True</property>
+            <property name="can_focus">True</property>
+            <property name="receives_default">True</property>
+            <property name="use_underline">True</property>
+          </object>
+          <packing>
+            <property name="pack-type">start</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkButton" id="save_button">
+            <property name="label" translatable="yes">_Save</property>
+            <property name="visible">True</property>
+            <property name="can_focus">True</property>
+            <property name="can_default">True</property>
+            <property name="has_default">True</property>
+            <property name="receives_default">True</property>
+            <property name="use_underline">True</property>
+            <style>
+              <class name="suggested-action"/>
+            </style>
+          </object>
+          <packing>
+            <property name="pack-type">end</property>
+          </packing>
+        </child>
+      </object>
+    </child>
+    <child>
+      <object class="GtkGrid" id="grid1">
+        <property name="visible">True</property>
+        <property name="can_focus">False</property>
+        <property name="margin_left">5</property>
+        <property name="margin_right">5</property>
+        <property name="margin_top">5</property>
+        <property name="margin_bottom">5</property>
+        <property name="row_spacing">8</property>
+        <property name="column_spacing">8</property>
+        <child>
+          <object class="GtkAlignment" id="alignment1">
+God A red nugget A fat egg under a dog
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="vexpand">True</property>
+            <child>
+              <object class="GtkAspectFrame" id="aspect_frame">
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <property name="label_xalign">0</property>
+                <property name="shadow_type">none</property>
+                <child>
+                  <object class="GtkDrawingArea" id="preview_darea">
+                    <property name="visible">True</property>
+                    <property name="can_focus">False</property>
+                  </object>
+                </child>
+              </object>
+            </child>
+          </object>
+          <packing>
+            <property name="left_attach">0</property>
+            <property name="top_attach">0</property>
+            <property name="width">1</property>
+            <property name="height">2</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkLabel" id="label1">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="halign">start</property>
+            <property name="valign">start</property>
+            <property name="label" translatable="yes">_Name:</property>
+            <property name="use_underline">True</property>
+            <property name="mnemonic_widget">filename_entry</property>
+          </object>
+          <packing>
+            <property name="left_attach">1</property>
+            <property name="top_attach">0</property>
+            <property name="width">1</property>
+            <property name="height">1</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkLabel" id="label2">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="halign">start</property>
+            <property name="valign">start</property>
+            <property name="label" translatable="yes">Save in _folder:</property>
+            <property name="use_underline">True</property>
+            <property name="mnemonic_widget">save_widget</property>
+          </object>
+          <packing>
+            <property name="left_attach">1</property>
+            <property name="top_attach">1</property>
+            <property name="width">1</property>
+            <property name="height">1</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkEntry" id="filename_entry">
+            <property name="visible">True</property>
+            <property name="can_focus">True</property>
+            <property name="valign">start</property>
+            <property name="activates_default">True</property>
+            <property name="width_chars">32</property>
+          </object>
+          <packing>
+            <property name="left_attach">2</property>
+            <property name="top_attach">0</property>
+            <property name="width">1</property>
+            <property name="height">1</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkFileChooserButton" id="save_widget">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="valign">start</property>
+            <property name="vexpand">True</property>
+            <property name="action">select-folder</property>
+            <property name="local_only">False</property>
+          </object>
+          <packing>
+            <property name="left_attach">2</property>
+            <property name="top_attach">1</property>
+            <property name="width">1</property>
+            <property name="height">1</property>
+          </packing>
+        </child>
+      </object>
+    </child>
+  </object>
+  <object class="GtkSizeGroup" id="header_bar_size_group">
+    <property name="mode">horizontal</property>
+    <widgets>
+      <widget name="copy_button"/>
+      <widget name="save_button"/>
+    </widgets>
+  </object>
+</interface>
+(uuay)screenshot/
+;*3$"
+43d6e31d407ba8444a4073eb5d7ef7468b71d2.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.gresource.screenshot
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

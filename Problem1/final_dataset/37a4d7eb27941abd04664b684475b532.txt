@@ -1,0 +1,4002 @@
+/usr/libexec/ld-elf.so.1
+FreeBSD
+libtcl84.so.1
+Tcl_DeleteInterp
+Tcl_Merge
+strcpy
+__stdoutp
+Tcl_TraceVar
+Tcl_ScanElement
+dlerror
+connect
+strerror
+geteuid
+Tcl_VarTraceInfo
+_DYNAMIC
+getenv
+__inet_addr
+Tcl_Init
+getpid
+memcpy
+Tcl_PkgProvide
+__stderrp
+malloc
+Tcl_GetByteArrayFromObj
+Tcl_DoOneEvent
+Tcl_WrongNumArgs
+gethostbyaddr
+Tcl_CreateObjCommand
+socket
+select
+fflush
+Tcl_AppendElement
+dlclose
+chmod
+strtol
+Tcl_ConvertElement
+_DefaultRuneLocale
+uname
+accept
+Tcl_FindExecutable
+rename
+strrchr
+write
+Tcl_EvalFile
+environ
+fprintf
+strcat
+bind
+Tcl_CreateInterp
+setsockopt
+Tcl_UntraceVar
+Tcl_SplitList
+Tcl_DStringFree
+strstr
+__error
+read
+Tcl_GlobalEval
+Tcl_SetVar
+strncmp
+dlopen
+strncpy
+unlink
+strcasecmp
+Tcl_DStringAppend
+realloc
+Tcl_GetVar2Ex
+_CurrentRuneLocale
+Tcl_ResetResult
+listen
+fork
+__inet_ntoa
+Tcl_GetVar
+dlsym
+Tcl_SetSystemEncoding
+localtime
+memset
+Tcl_AppendResult
+Tcl_GetEncoding
+Tcl_DeleteCommand
+strcmp
+getcwd
+gethostbyname
+gethostname
+sprintf
+setlocale
+Tcl_GetVar2
+strftime
+_GLOBAL_OFFSET_TABLE_
+Tcl_Eval
+Tcl_SetVar2
+atoi
+Tcl_UtfToLower
+Tcl_DStringInit
+strchr
+fcntl
+Tcl_VarEval
+strpbrk
+___tolower
+free
+Tcl_Free
+getsockname
+Tcl_ExprLong
+libm.so.2
+_init
+__deregister_frame_info
+_fini
+fputs
+__register_frame_info
+__moddi3
+__divdi3
+libc.so.4
+longjmp
+setjmp
+getdtablesize
+sigemptyset
+__stdinp
+atol
+fgets
+creat
+getuid
+vsnprintf
+strncasecmp
+bzero
+setpgid
+alarm
+fstat
+kill
+ctime
+__inet_aton
+__progname
+getrusage
+sscanf
+__inet_ntop
+sigaction
+fopen
+fclose
+getppid
+atexit
+srandom
+fsync
+freopen
+toupper
+_edata
+__bss_start
+_end
+% 2	
+%$2	
+%(2	
+%,2	
+%02	
+%42	
+%82	
+%<2	
+%@2	
+%D2	
+%H2	
+%L2	
+%P2	
+%T2	
+%X2	
+%\2	
+%`2	
+%d2	
+%h2	
+%l2	
+%p2	
+%t2	
+%x2	
+%|2	
+% 3	
+%$3	
+%(3	
+%,3	
+%03	
+%43	
+%83	
+%<3	
+%@3	
+%D3	
+%H3	
+%L3	
+%P3	
+%T3	
+%X3	
+%\3	
+%`3	
+%d3	
+%h3	
+%l3	
+%p3	
+%t3	
+%x3	
+%|3	
+=`[	
+8/u	
+h(@	
+h`@	
+h`@	
+h`@	
+54|	
+5@|	
+j@Wh`@	
+=`@	
+Vh`@	
+Vh`@	
+h`@	
+Ph`@	
+h`@	
+h`@	
+h`@	
+Wh`@	
+h s	
+h s	
+God A red nugget A fat egg under a dog
+Ph  
+Ph` 
+h`@	
+SVWP
+PQh%!
+h s	
+Rh s	
+Phd!
+Phq!
+Ph{!
+PVWS
+Ph*"
+Phm"
+!u-W
+5h/	
+Ph@#
+h`@	
+h`@	
+=`@	
+8:u4
+;5d		
+PQ+U
+;5d		
+Ph*"
+5h/	
+;=d		
+5h/	
+G;=d		
+Ph*"
+5h/	
+SPh .	
+,WVS
+VjxS
+;5d		
+Ph $
+F;5d		
+Ph-$
+SPh?$
+Rh]$
+Ph{$
+RVWh
+,WVS
+5h/	
+h`@	
+h`@	
+5h/	
+h`@	
+h`@	
+Ph-$
+ u	$
+Wh#%
+SWh6%
+WPhL
+;5d		
+u.;u
+F;5d		
+gfff
+WVS1
+<dtB
+<DtP
+<%tr
+<ctt
+<ut8
+;5d		
+uO;u
+F;5d		
+~2SVh
+ SVh
+Ph-)
+Ph?)
+PhN)
+Ph])
+Phi)
+Phw)
+PVWh
+PVWh
+VWh)*
+Ph3*
+PhF*
+PShU*
+PSh`*
+<WVS
+SVhp*
+Rhp*
+Phv*
+Ph$+
+Ph6+
+PVWhC+
+SVWhR+
+PVWha+
+Phr+
+pdWh
+PWhR+
+pdhL
+PWhL
+PhL,
+Ph6,
+Ph6,
+pdhL
+Phr,
+pdhL
+Phr,
+Php*
+Rh0-
+5h/	
+PhO-
+PhV-
+8<u 
+@Pha-
+PShj-
+Rh0-
+F;5d		
+WVS1
+5h[	
+=d[	
+j	WS
+,F;5H
+,F;5H
+5h[	
+,F;5H
+,F;5H
+,F;5H
+WVS1
+,F;5H
+WVS1
+,F;5H
+5h/	
+,F;5H
+,F;5H
+5d[	
+t.9~
+;5d		
+F;5d		
+Ph#0
+Vh60
+Ph@0
+PhJ0
+9pduA
+|D9r
+Rh]0
+1RhL
+Ph81
+Ph<1
+Ph<1
+PhF1
+Ph81
+5d[	
+PhP1
+RShL
+Phk1
+5d[	
+5d[	
+5d[	
+PRSh
+PRSh
+4:hL
+48hL
+4:hL
+T8 R
+Ph'2
+T8 R
+PhS2
+Phb2
+Phq2
+WVS1
+,G;=H
+8*u"
+Ph81
+:*t 
+Ph.3
+Ph@3
+Shx3
+Ph81
+8*tb
+Ph81
+=d[	
+5d[	
+=d[	
+5h/	
+Ph81
+Ph81
+Ph81
+\WVS
+,WVS
+5d		
+=`		
+5h/	
+Ph81
+Ph81
+Ph81
+Ph81
+5d		
+=`		
+5`		
+Ph"5
+,WVS
+5`		
+Ph.5
+Ph;5
+5`		
+PhV5
+Pha5
+Ph"5
+Phf5
+WVS1
+5d		
+Phv5
+5 |	
+Ph.5
+Ph;5
+5`		
+Ph81
+Sh81
+Phv5
+5 |	
+Ph=6
+Ph`6
+Phx3
+=d[	
+Ph.3
+Ph@3
+Rhx3
+Ph`6
+Shx3
+;5d		
+5 |	
+F;5d		
+,F;5H
+WVS1
+Shv8
+5h/	
+PSh s	
+Shv8
+PSWV
+Ph39
+PhK9
+Phx9
+h 0	
+Wh@:
+RPh`:
+5h/	
+5h/	
+= 0	
+hh/	
+h 0	
+h 0	
+5h/	
+hh/	
+h 0	
+5h/	
+<WVS
+F!Ph
+Ph =
+PhA=
+Rh_=
+SWh0>
+ShA>
+RhN>
+PhR>
+Phs>
+QPh'?
+RhN>
+PhR>
+Ph@?
+Phb?
+PhN>
+;5d		
+h s	
+Rh s	
+>*u<
+<	vYj
+Vh%@
+;5d		
+Rd9Pdu&;u
+F;5d		
+5@|	
+<WVS
+h .	
+RhCA
+ShSA
+RhnA
+RhxA
+,WVS
+t%<*t
+<WVS
+Ph&B
+PhOB
+RhoB
+Rh&C
+WVS1
+PhcC
+5h/	
+Ph D
+G;=d		
+PhiD
+F;5d		
+<+t0<-t,
+Ph3E
+Ph`E
+5h/	
+5h/	
+Ph@G
+,WVS
+Ph@H
+5h/	
+5h/	
+,WVS
+Ph J
+5h/	
+PShwJ
+5h/	
+Vh .	
+SVh .	
+5h/	
+5h/	
+Ph O
+Rh7O
+RhGO
+WVS1
+;=d		
+<WVS
+Ph"P
+<WVS
+PhbP
+<WVS
+Ph(Q
+Rh:Q
+RhaQ
+;5d		
+WhxQ
+F;5d		
+,WVS
+Ph`S
+<WVS
+;5d		
+=`		
+C(PW
+;5d		
+WVS1
+5h/	
+u.<+t
+ShlT
+Qh@U
+RhbU
+5h/	
+G;=d		
+;=d		
+uB<+t
+RhlT
+Rh]V
+RhuV
+Ph W
+Ph}W
+<	vp
+Rh%@
+Rh%@
+Ph}W
+Rh4Y
+,WVS
+F;5d		
+<+t$<-t 
+Ph Z
+Ph`Z
+,WVS
+5h/	
+Rh@[
+Phh[
+Ph}W
+Rh}W
+Ph	\
+Ph=\
+plh`\
+Vh2]
+0hK]
+0hQ]
+Rh]]
+0h{]
+Vh|^
+Rh&_
+Sh6_
+Rhl_
+5h/	
+5h/	
+5h/	
+;5d		
+F;5d		
+;5d		
+RhIa
+WhWa
+LWVS
+5h/	
+Qh /	
+RhAc
+QhRc
+LWVS
+5h/	
+Ph!e
+0ShL
+$hDf
+haI	
+VhLf
+haI	
+Phhf
+Shxf
+Ph+j
+h s	
+ ;5d		
+F;5d		
+<	w1
+ Sj	h
+Ph+j
+Ph!k
+j!hL
+j-hL
+PhCk
+Ph+j
+;=d		
+G;=d		
+Ph`k
+5h/	
+Ph+j
+Sh .	
+Ph+j
+Ph+j
+Ph+j
+Ph+j
+Ph l
+?su$
+PhBl
+PhJl
+Ph`l
+h .	
+Ph+j
+Ph+j
+Ph+j
+5h/	
+Ph+j
+Ph+j
+:[u<
+Fp;Fl}8
+B<[t
+Ph+j
+WVS1
+t/<.t+
+<.t1
+Ph+j
+Ph n
+5h/	
+pxh@n
+5h/	
+Phtn
+Ph}n
+=0&	
+Ph+j
+Ph+j
+Ph+j
+1Ph o
+|31@ux
+Ph+j
+1PhIo
+Ph+j
+Ph+j
+Ph+j
+Ph+j
+lWVS
+Ph+j
+;5d		
+F;5d		
+,WVS
+Ph+j
+5h/	
+Ph+j
+Ph+j
+Ph+j
+Ph+j
+<WVS
+h .	
+ShLq
+Ph+j
+Ph+j
+Ph+j
+Ph%r
+Ph@r
+5h/	
+5h/	
+5h/	
+Ph+j
+2< ~
+Ph+j
+j,SW
+h .	
+Ph+j
+Ph+j
+Ph+j
+Ph+j
+Ph_u
+Phqu
+Ph+j
+;=(&	
+5 |	
+Ph+j
+Ph+j
+ ;5d		
+F;5d		
+;5d		
+F;5d		
+WVS1
+;=d		
+Ph+j
+G;=d		
+=`		
+Ph+j
+D;1P
+1Ph/v
+Ph+j
+=(&	
+t.j:hvx
+j<hvx
+jAhvx
+jChvx
+;5d		
+F;5d		
+;=d		
+G;=d		
+u);]
+9Pdu
+,WVS
+5 |	
+=$&	
+;5d		
+F;5d		
+;=(&	
+=`		
+=`		
+;5d		
+F;5d		
+WVS1
+0hCy
+;5d		
+D91P
+F;5d		
+=`		
+;xl}w
+;xl|
+Borrow or rob
+5d		
+;5(&	
+=`		
+5`		
+Ph<z
+ShLz
+WVS1
+;5d		
+F;5d		
+;5d		
+F;5d		
+Ph`}
+Ph`}
+WVS1
+WVS1
+8@=`S	
+<	wI
+|WVS
+=`/	
+=`/	
+C\	F
+C`	F
+,WVS
+WVS1
+WVS1
+h`U	
+,WVS1
+5,|	
+,WVS
+;~u/1
+<*uu
+;*uh
+<*t!
+ < u'
+,WVS
+,WVS
+WVS1
+,WVS
+Sh s	
+h`s	
+Sh s	
+h`s	
+RVh?
+,WVS
+RVh?
+h \	
+h \	
+jxRh
+ h 0	
+Sh 0	
+gfff
+=,&	
+PShC
+=,&	
+j+h 
+j)h s	
+jQh \	
+h`s	
+h \	
+Sh s	
+5h/	
+5h/	
+5h/	
+5d		
+5d		
+=d		
+WVS1
+t$jch6
+jeh6
+>@tV
+<	w<
+PRh\
+PQho
+\WVS
+:*t 
+;5d		
+F;5d		
+,WVS
+=,&	
+PSh/
+VjxS
+WjxV
+VUUU
+gfff
+8uun
+ u&$
+5`{	
+WVS1
+=`{	
+5`{	
+WVS1
+v9=l
+b9=p
+N9=t
+:9=x
+5`{	
+WVS1
+tD<!u
+u<Rh"
+48hR
+<[t&
+ tR$
+tgh}
+8#tR
+89tH
+\WVS
+40hw
+WVS1
+<WVS
+lWVS
+j:VS
+hX&	
+hX&	
+tw<.u
+< tL<+tH
+hD*	
+;5d		
+F;5d		
+5`		
+54|	
+,WVS
+8*tB
+<+u	
+i<-u
+,WVS
+<+t <-t
+<+u	
+f<-u
+,WVS
+5`		
+<WVS
+\WVS
+<	vVj
+9xdt	
+5d		
+,WVS
+\WVS
+<WVS
+=@*	
+u	9\
+5`		
+,WVS
+PWVj
+PRh%
+PRh<
+PRhV
+PRho
+PRQSh
+hl+	
+5,|	
+5,|	
+PWh@
+8*u5
+8*u<
+,WVS
+,WVS
+5,|	
+,WVS
+5h/	
+ Sh2
+j.h>
+,WVS
+5(|	
+<WVS
+58|	
+,WVS
+5<|	
+50|	
+,WVS
+v hg
+8#t<j
+8#t<j
+\WVS
+PSh#
+PSh/
+PVh=
+u$PhX
+LWVS
+,WVS
+5h/	
+=`{	
+5h/	
+5h/	
+5h/	
+5h/	
+<-uI
+5h/	
+8+u_
+\WVS
+5h/	
+5h/	
+5h/	
+5h/	
+5h/	
+5h/	
+5h/	
+\WVS
+5h/	
+,WVS
+5h/	
+5h/	
+PSVW
+<WVS
+5h/	
+8*tl
+5h/	
+8*t 
+h`.	
+h .	
+h /	
+j<h6
+j=h6
+j\h6
+jdh6
+jeh6
+p4hB
+=`/	
+r4hQ
+,WVS
+=`/	
+Ph`.	
+h`.	
+p4ha
+=`/	
+=`/	
+Vh /	
+=@Y	
+5h/	
+5h/	
+Ph@Y	
+,WVS1
+Vh`Y	
+j!h`Y	
+;5d		
+F;5d		
+;=h/	
+;=h/	
+5h/	
+95h/	
+=|/	
+=|/	
+5p/	
+5t/	
+5x/	
+5h/	
+Vh /	
+5h/	
+Vh /	
+,WVS
+Sh .	
+t]<-uc
+tV<-tR
+vXSh
+=|/	
+j\j:
+lWVS
+=h/	
+=4&	
+=d/	
+h s	
+h 0	
+=`/	
+WShZ
+;5d		
+F;5d		
+PVh .	
+Vh /	
+8*tu
+5l/	
+=`/	
+5h/	
+Rh /	
+Rh /	
+Ph /	
+=`/	
+5h/	
+A Santa lives evil at NASA
+VSh /	
+=`/	
+Ph`.	
+Ph`.	
+Ph`.	
+C!PSh
+5h/	
+=|/	
+=|/	
+=`/	
+j\j:
+WVS1
+5|/	
+=`/	
+j\j:
+=|/	
+j\j:
+Php/	
+(Phn
+j\j:
+Pht/	
+j\j:
+Phx/	
+j\j:
+Qh`.	
+j	h`
+Qh .	
+\WVS
+5h/	
+5h/	
+tUG;}
+Vh /	
+Rh /	
+<*u:
+Rh /	
+;5d		
+F;5d		
+,WVS
+QZ^&
+8D")
+j@WS
+j@WS
+LWVS
+u09u
+<WVS
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+  Try freeing some disk space
+Launched into the background  (pid: %d)
+CANNOT FORK PROCESS.
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+chat %s NOTICE: %s (%s != %s).
+ct %s NOTICE: %s (%s != %s).
+%s %s (%s != %s).
+<%s> %s
+user
+*** (%s) %s
+direction
+*** (%s) %s
+user@bot
+* %s %s
+%s %s.
+%s %s
+Not online; note forwarded to:
+rejected your note.
+No reason
+%s %s. %s (lost %d bot%s and %d user%s)
+*** %s
+*bye
+#%s# who
+Channels: 
+%s, %s
+%s  (%s)
+Admin: %s
+%s  (* = %s, + = %s, @ = %s)
+assoc %d
+%s %s%d:  (* = %s, + = %s, @ = %s)
+%s '%s' (%s%d):  (* = %s, + = %s, @ = %s)
+  %c%-15s %s
+ (%s %lud%luh)
+ (%s %luh%lum)
+ (%s %lum)
+      %s: %s
+  %s%c%-15s %s
+ (%s %dm)
+ (%s %dh%dm)
+%s@%s
+#%s# botinfo
+%d day
+%02d:%02d
+server
+++  
+%s <%s> (%s) [UP %s]
+%s <NO_IRC> [UP %s]
+#%s# link %s
+%s %s ...
+#%s# unlink %s (%s)
+Unlinked from %s.
+Can't remotely unlink sharebots.
+Invalid eggnet protocol from %s (zapfing)
+%s %s (%s)
+error invalid eggnet protocol for 'nlinked'
+%s %s (mutual: %s)
+%s %s: disconnecting %s
+error Loop (%s)
+%s %s!  (%s -> %s)
+%s: %s %s
+error %s (%s -> %s)
+%s %s  (%s %s)
+%s %s (to %s): %s
+error %s
+bye %s
+*** (%s) %s %s.
+%s %s %s %s
+%s %s (%s) (lost %d bot%s and %d user%s
+%s:%s
+%s -> %s (%lu secs, %d hop%s)
+%s -> %s
+%s %s %s
+%s %s (%s: %s)
+No non sharebot boots.
+#%s# boot %s (%s)
+#%s# motd
+--- %s
+%s :(
+%s (%s): %s
+%s %s: %s
+filesys
+PRIVMSG %s :
+DCC SEND %s %s
+%s: %s
+NEAT_BOTNET
+botversion
+sock#
+*** (%s) Nick change: %s -> %s
+channel
+party line
+*** (%s) %s %s %s.
+*** (%s) %s %s %s (%s).
+*** (%s) %s %s: %s.
+uf-no %s
+versions-direction
+v %s %s %s
+Modules loaded:
+  Module: %s (v%d.%d)
+End of module list.
+zapf-broad
+zapf
+userfile?
+update
+unlinked
+unlink
+unaway
+uf-no
+traced
+trace
+thisbot
+reject
+priv
+pong
+ping
+part
+nlinked
+motd
+linked
+link
+join
+info?
+idle
+handshake
+filesend
+filereq
+filereject
+error
+chat
+chan
+away
+actchan
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+c %s@%s %D %s
+c %s %D %s
+chan %s%s%s %d %s
+a %s@%s %D %s
+a %s %D %s
+actchan %s%s%s %d %s
+ct %s %s
+chat %s %s
+ping
+pong
+priv %s %s@%s %s
+p %s %s@%s %s
+priv %s %s %s
+p %s %s %s
+who %s %s %d
+w %s %s %D
+i? %s
+info? %s
+unlink %s %s %s %s
+ul %s %s %s %s
+link %s %s %s
+l %s %s %s
+un %s %s
+unlinked %s
+n %s %s %c%D
+chat %s %s %s
+nlinked %s %s %c%d
+traced %s %s
+td %s %s
+trace %s %s %s:%s
+t %s %s %s:%s
+u %s %c%D
+update %s %c%d
+%s@%s
+reject %s %s %s
+r %s %s %s
+zapf %s %s %s
+z %s %s %s
+zb %s %s%s%s
+zapf-broad %s
+Tacocat
+motd %s %s
+m %s %s
+filereject %s %s %s
+f! %s %s %s
+filesend %s %s %s
+fs %s %s %s
+filereq %s %s:%s
+fr %s %s:%s
+i %s %D %D %s
+away %s %d %s
+idle %s %d %d
+aw %s%s %D %s
+chan %s %d %s is now away: %s.
+chan %s %d %s %s: %s.
+chan %s %d %s %s.
+unaway %s %d
+j %s %s %D %c%D %s
+join %s %s %d %c%d %s
+channel
+party line
+chan %s %d %s %s %s.
+j %s%s %s %D %c%D %s
+pt %s %s %D %s
+part %s %s %d
+chan %s %d %s has left the %s%s%s.
+pt %s%s %s %D %s
+nc %s %D %s
+chan %s %d %s: %s -> %s.
+chan %s %d %s : %s -> %s.
+-> %s@%s: %s
+%lu:%s
+-> %s: %s
+rejected your note.
+%s %s
+%s %s: %s
+via %s, 
+*** [%s] %s%s
+%cNote [%s]: %s%s
+_from
+_data
+_idx
+ $_from $_to $_data $_idx
+storenote
+*** %s.
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+./botnet.c
+!!! Duplicate botnet bot entry!!
+(unknown)
+unlinked
+unlinked %s
+%s (+: %s, *: %s)
+assoc %d
+%s %s%d:
+%s '%s%s' (%s%d):
+%%-%us   %%-%us  %%s
+ Host
+ Bot
+ Nick
+--------------------
+---------
+----------
+%%c%%-%us %%c %%-%us  %%s%%s
+ [idle %lud%luh]
+ [idle %luh%lum]
+ [idle %lum]
+   AWAY: %s
+ [idle?]
+   %s: %s
+Total users: %d
+Bots: %s
+(%s: %d)
+(%s %s)
+%s (%d.%d.%d.%d)
+  |  
+     
+  |-
+  `-
+%c%s
+ (%d.%d.%d.%d)
+%s%s
+(( tree error ))
+Degas are we not drawn onward no In union drawn onward to new eras aged
+%s  |-%s
+%s  `-%s
+Average hops: %3.1f, total bots: %d
+nlinked %s %s %c%d
+n %s %s %c%D
+join %s %s %d %c%d %s
+j !%s %s %D %c%D %s
+away %s %d %s
+idle %s %d %d
+i %s %D %D %s
+j %s %s %D %c%D %s
+%s: %s -> %s.
+%s: %s -> %s:%d
+%s %s.
+Stopped trying to link
+%s %s @ %s:%d
+%s %s (%s (%s)) (lost %d bot%s and %d user%s)
+bye %s
+%s %s (%s) (lost %d bot%s and %d user%s)
+bye No reason
+*** %s
+BUG!!: Found bot `%s' in internal bot list, but it
+   shouldn't have been there! Removing.
+   This is a known bug we haven't fixed yet. If this
+   bot is the newest eggdrop version available and you
+   know a *reliable* way to reproduce the bug, please
+   contact us - we need your help!
+killassoc &
+%s %s
+%s '%s'.
+%s .chaddr %s %s
+%s %s at %s:%d ...
+(primitive bot)
+%s  %d -> %d
+%s %s @ %s:%d ...
+*bye*
+%s %s.
+%s %s -> %s
+%s [%s]%s/%d
+(%s %s)
+Lost my terminal?!
+%s %s ...
+*** %s %s
+%s: %s -> %s
+*** %s %s
+*** %s %s.
+(%s %s.)
+*** %s joined the party line.
+rela  -> sock %d
+>rly  -> sock %d
+other  rela
+other  >rly
+RELAY
+RELAYING
+FORK_RELAY
+PRE_RELAY
+%s: %s
+%s: %s (lost %d bot%s and %d user%s)
+%s %s (%s).
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+%d day
+%02d:%02d
+%s %s  (%s)
+*unknown*
+I am %s, running %s:  %d user%s (mem: %uk)
+CPU %02d:%02d
+%s %s  (%s)  %s  %s %4.1f%%
+Admin: %s
+Config file: %s
+OS: %s %s
+info library
+%s %s
+8.4.4
+Beeb
+info patchlevel
+info tclversion
+%s %s (%s %s)
+Y@Botnet nickname: %s
+Firewall: %s:%d
+Userfile: %s
+Motd: %s
+Directories:
+  Help    : %s
+  Temp    : %s
+  Modules : %s
+%s [%s], %s: %s
+%s: %s
+Logfile #%d: %s on %s (%s: %s)
+Ignores last %d minute%s
+./chanprog.c
+I don't have a botnet nick!!
+server
+%s.test-%u-%s
+timer%lu
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+%s!%s
+(Can't add hostmask for %s because it matches %s)
+~^+=-
+*!%s%s
+*!%s
+(Added hostmask for %s from %s)
+%s  (* = %s, + = %s, @ = %s)
+assoc %d
+%s %s%d:  (* = %s, + = %s, @ = %s)
+%s '%s' (%s%d):  (* = %s, + = %s, @ = %s)
+  [%%.2lu]  %%c%%-%us %%s
+  %%c%%-%us %%s
+ (con:%s)
+ (idle %lud%luh)
+ (idle %luh%lum)
+ (idle %lum)
+      AWAY: %s
+Bots connected:
+%d %b %H:%M
+  [%%.2lu]  %%s%%c%%-%us (%%s) %%s
+  %%s%%c%%-%us (%%s) %%s
+Do nine men interpret Nine men I nod
+Other people on the bot:
+  [%%.2lu]  %%c%%-%us 
+  %%c%%-%us 
+(-OFF-) 
+(party) 
+(%5d) 
+ (idle %dm)
+ (idle %dh%dm)
+  [%%.2lu]  %%c%%-%us (files) %%s
+  %%c%%-%us (files) %%s
+%d day
+%02d:%02d
+#%s# botinfo
+%d:%s@%s
+server
+++  
+*** [%s] %s <%s> (%s) [UP %s]
+*** [%s] %s <NO_IRC> [UP %s]
+#%s# whom %s
+You have chat turned off.
+chan
+$chan
+assoc 
+No such channel exists.
+Channel number out of range: must be between 0 and %d.
+Usage: me <action>
+* %s %s
+#%s# motd %s
+That bot isn't connected.
+%s%d:%s@%s
+#%s# motd
+Usage: newpass <newpassword>
+Please use at least 6 characters.
+#%s# newpass...
+Changed password to '%s'.
+#%s# bots
+#%s# bottree
+#%s# vbottree
+#%s# rehelp
+Reload help cache...
+#%s# help %s
+#%s# help
+help
+partyline
+Usage: addlog <message>
+Placed entry in the log file.
+%s: %s
+#%s# who %s
+You are on a local channel.
+#%s# who
+Usage: whois <handle>
+#%s# whois %s
+Usage: match <nick/host> [[skip] count]
+#%s# match %s
+#&!+
+#%s# uptime
+You do not have Bot Master privileges.
+#%s# status all
+#%s# status
+#%s# dccstat
+Usage: boot nick[@bot]
+No such bot connected.
+#%s# boot %s@%s (%s)
+Remote boots are disabled here.
+You can't boot a bot owner.
+You can't boot a bot master.
+Booted %s from the file area.
+Booted %s from the party line.
+#%s# boot %s %s
+Who?  No such person on the party line.
+Your console is %s: %s (%s).
+#&!++-*
+No such user on the party line!
+#&!+*
+Invalid console channel: %s.
+You don't have op or master access to channel %s.
+#%s# console %s
+Set your console to %s: %s (%s).
+Set console of %s to %s: %s (%s).
+%s set your console to %s: %s (%s).
+console
+Usage: +bot <handle> [address[:telnet-port[/relay-port]]] [host]
+Someone already exists by that name.
+-,+*=:!.@#;$%&
+You can't start a botnick with '%c'.
+#%s# +bot %s%s%s%s%s
+none
+./cmds.c
+hostmask 
+no hostmask
+address 
+no address 
+Added bot '%s' with %s%s%s%s and %s%s%s%s.
+be on any channels that I'm on.
+You'll want to add a hostmask if this bot will ever %s
+Usage: chhandle <oldhandle> <newhandle>
+Bizarre quantum forces prevent nicknames from starting with '%c'.
+Somebody is already using %s.
+You can't change handles for non-bots.
+You can't change share bot's nick.
+You can't change a bot owner's handle.
+You can't change a permanent bot owner's handle.
+Hey! That's MY name!
+#%s# chhandle %s %s
+Changed.
+Failed.
+Usage: handle <new-handle>
+Bizarre quantum forces prevent handle from starting with '%c'.
+Hey!  That's MY name!
+#%s# handle %s
+Okay, changed.
+Usage: chpass <handle> [password]
+No such user.
+You can't change passwords for non-bots.
+You can't change a share bot's password.
+You can't change a bot owner's password.
+You can't change a permanent bot owner's password.
+#%s# chpass %s [nothing]
+Removed password.
+#%s# chpass %s [something]
+Changed password.
+Usage: chaddr <botname> <address[:telnet-port[/relay-port]]>
+This command is only useful for tandem bots.
+You can't change a share bot's address.
+#%s# chaddr %s %s
+Changed bot's address.
+Usage: comment <handle> <newcomment>
+No such user!
+You can't change comment on a bot owner.
+#%s# comment %s %s
+Okay, comment blanked.
+Changed comment.
+#%s# restart
+You cannot .restart a bot when running -n (due to Tcl).
+Restarting.
+Uh, guess you don't need to create a new userfile.
+Restarting ...
+#%s# rehash
+Rehashing.
+Rehashing ...
+#%s# reload
+Reloading user file...
+#%s# die %s
+BOT SHUTDOWN (%s: %s)
+DIE BY %s!%s (%s)
+BOT SHUTDOWN (Authorized by %s)
+DIE BY %s!%s (request)
+#%s# debug help
+#%s# debug
+Usage: simul <hand> <text>
+Unable to '.simul' permanent owners.
+#%s# simul %s %s
+No such user on the party line.
+Usage: link [some-bot] <new-bot>
+#%s# link %s
+No such bot online.
+Usage: unlink <bot> [reason]
+#%s# unlink %s
+Usage: relay <bot>
+#%s# relay %s
+#%s# save
+Saving user file...
+#%s# backup
+Backing up the channel & user files...
+Usage: trace <botname>
+That's me!  Hiya! :)
+Unreachable bot.
+#%s# trace %s
+#%s# binds %s
+Usage: banner <message>
+### Botwide: [%s] %s
+*** POOF! ***
+You are no longer a master on this bot.
+You are now a master on this bot.
+### POOF! ###
+You are now a botnet master on this bot.
+You are no longer a botnet master on this bot.
+@@@ POOF! @@@
+You are now an OWNER of this bot.
+You are no longer an owner of this bot.
+-+- POOF! -+-
+You no longer have file area access.
+DCC user [%s]%s removed from file system
+*** %s has returned.
+You are no longer a master on %s.
+You are now a master on %s.
+You are now an OWNER of %s.
+You are no longer an owner of %s.
+Usage: chattr <handle> [changes] [channel]
+No channel record for %s.
+Invalid console channel %s.
+You do not have channel master privileges for channel %s.
+#%s# (%s) chattr %s %s
+#%s# chattr %s %s
+Global flags for %s are now +%s.
+No global flags for %s.
+Channel flags for %s on %s are now +%s.
+No flags for %s on %s.
+Usage: botattr <handle> [changes] [channel]
+No such bot!
+You may not change the attributes of a directly linked bot.
+#%s# (%s) botattr %s %s
+#%s# botattr %s %s
+Bot flags for %s are now +%s.
+There are no bot flags for %s.
+Bot flags for %s on %s are now +%s.
+There are no bot flags for %s on %s.
+You weren't in chat anyway!
+Leaving chat mode...
+*** %s left the party line.
+No channel exists by that name.
+Channel number out of range: local channels must be *0-*99999.
+You're already on the party line!
+You're already on channel %s%d!
+*** %s left the channel.
+Entering the party line...
+*** %s joined the party line.
+Joining channel '%s'...
+*** %s joined the channel.
+Echo is currently %s.
+Echo turned on.
+Echo turned off.
+Usage: echo <on/off>
+bold, 
+color, 
+reverse, 
+underline, 
+ansi, 
+bells, 
+Your current strip settings are: %s (%s).
+#%s# strip %s %s
+#%s# strip %s
+Your strip settings are: %s (%s).
+Strip setting for %s: %s (%s).
+%s set your strip settings to: %s (%s).
+Usage: su <user>
+You can't su to a bot... then again, why would you wanna?
+You cannot currently double .su; try .su'ing directly.
+No party line access permitted for %s.
+#%s# su %s
+No password set for user. You may not .su to them.
+Enter password for %s%s
+Setting your username to %s.
+Turned off telnet codes.
+#%s# fixcodes (telnet off)
+Turned on telnet codes.
+#%s# fixcodes (telnet on)
+Currently paging outputs to %d lines.
+You don't have paging on.
+Paging turned off.
+#%s# page off
+Paging turned on, stopping every %d line%s.
+#%s# page %d
+Usage: page <off or #>
+tcl: evaluate (.tcl): %s
+Tcl: 
+Tcl error: 
+#%s# set %s
+set 
+info globals
+Global vars: 
+Currently: 
+Ok, set.
+Error: %s
+#%s# module %s
+%s: loadmod <module>
+%s: %s %s
+#%s# loadmod %s
+%s: unloadmod <module>
+%s %s: %s
+#%s# unloadmod %s
+%s %s
+Usage: +ignore <hostmask> [%%<XdXhXm>] [comment]
+requested
+%s!*@*
+%s@*
+That already matches an existing ignore.
+Now ignoring: %s (%s)
+#%s# +ignore %s %s
+Usage: -ignore <hostmask | ignore #>
+#%s# -ignore %s
+No longer ignoring: %s
+That ignore cannot be found.
+#%s# ignores %s
+Usage: +user <handle> [hostmask]
+You can't start a nick with '%c'.
+#%s# +user %s %s
+no host
+Added %s (%s) with no password and no flags.
+Usage: -user <hand>
+You can't remove a permanent bot owner!
+You can't remove a bot owner!
+You can't remove share bots.
+You can't remove a directly linked bot.
+You can't remove users who aren't bots!
+#%s# -user %s
+Deleted %s.
+Usage: +host [handle] <newhostmask>
+You can't add hostmasks to non-bots.
+You can't add hostmasks to share bots.
+You can't add hostmasks to a bot owner/master.
+You can't add hostmasks to a channel owner/master.
+Permission denied.
+You cannot add a host matching another user!
+That hostmask is already there.
+#%s# +host %s %s
+Added '%s' to %s.
+Usage: -host [handle] <hostmask>
+You can't remove hostmasks while having the +d or +k flag.
+You can't remove hostmasks from non-bots.
+You can't remove hostmasks from a share bot.
+You can't remove hostmasks from a bot owner/master.
+You can't remove hostmasks from a channel owner/master.
+#%s# -host %s %s
+Removed '%s' from %s.
+#%s# modules %s
+Modules loaded:
+  Module: %s (v%d.%d)
+End of modules list.
+v %s %s %d:%s
+Traffic since last restart
+==========================
+IRC:
+  out: %s
+ (%s today)
+   in: %s
+Botnet:
+Partyline:
+Transfer.mod:
+Misc:
+Total:
+#%s# traffic
+Bytes
+KBytes
+MBytes
+GBytes
+TBytes
+%.2f %s
+%lu Bytes
+P?You are %s@%s.
+#%s# whoami
+whoami
+traffic
+whom
+whois
+vbottree
+uptime
+unloadmod
+unlink
+trace
+strip
+status
+simul
+save
+restart
+reload
+relay
+rehelp
+rehash
+quit
+page
+nick
+handle
+newpass
+motd
+modules
+module
+match
+loadmod
+link
+ignores
+fixcodes
+echo
+debug
+dccstat
+comment
+chpass
+chnick
+chhandle
+chattr
+chat
+chaddr
+bottree
+bots
+botinfo
+botattr
+boot
+binds
+banner
+backup
+back
+away
+to|o
+addlog
+-user
+-ignore
+-host
+-bot
++user
++ignore
++host
++bot
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+Hell, yes!
+rejected
+bye %s
+version %d %d %s <%s>
+error Sorry, already connected.
+thisbot %s
+tb %s
+Non-matching handle lengths with %s, they use %d characters.
+error Non-matching handle length: mine %d, yours %d
+bad handlen
+*** Linked to %s
+linked
+v %d
+Couldn't link to %s.
+Unlinked %s (restructure) (lost %d bot%s and %d user%s)
+*** %s
+restructure
+%.2x
+digest %s
+Received challenge from %s... sending response ...
+*hello!
+version
+badpass
+passreq
+error
+bot*  waited %lus
+./dcc.c
+BOT_NEW
+{%s} %s
+[%s] %s
+Lost bot: %s (lost %d bot%s and %d user%s)
+bot   flags: 
+conn  bot
+FORK_BOT
+<%x%x@
+Response (password hash) from %s incorrect
+digest 
+*hello!
+badpass
+Timeout.
+pass  waited %lus
+too many pages - senq full
+CHAT_PASS
+*** %s lost dcc link.
+lost dcc link
+*** Ja mata!
+*** %s left the party line%s%s
+Returning to real nick %s!
+### SIMULATION RESET
+-> %s%s
+-%s-> %s
+=> %s%s
+=%s=> %s
+<%s> %s
+chat  flags: 
+CHAT
+Telnet connection flood
+Sorry, too many connections already.
+Lost listening socket while resolving %s
+-telnet!telnet@%s
+DNS lookup failed for ident
+No Free DCC's
+telnet@%s
+%d, %d
+ pub
+lstn  %d%s
+TELNET
+%s!%s
+error Already connected.
+wait  duplicate?
+DUPWAIT
+Sorry, that nickname format is invalid.
+This telnet port is for bots only.
+error Only users may connect at this port.
+Enter the nickname you would like to use.
+You don't have access.
+error You cannot link using my botnetnick.
+handshake %s
+Can't telnet until you have a password set.
+Challenging %s...
+passreq <%x%x@%s>
+t-in  waited %lus
+TELNET_ID
+You can't use weird symbols in your nick.
+Try another one please:
+-,+*=:!.@#;$
+You can't start your nick with the character '%c'
+Sorry, that nickname is taken already.
+Sorry, can't use my name for a nick.
+-telnet!*@*
+-telnet!%s@%s
+-telnet!%s@*%s
+-telnet!*@*%s
+YOU ARE THE MASTER/OWNER ON THIS BOT NOW
+Welcome to eggdrop! :)
+Okay, now choose and enter a password:
+(Only the first 15 letters are significant.)
+Try to use at least 4 characters in your password.
+Choose and enter a password:
+You can't use weird symbols in your password.
+Introduced to %s, %s
+Remember that!  You'll need it next time you log in.
+You now have an account on %s...
+Guess you're not there.  Bye.
+new   waited %lus
+newp  waited %lus
+TELNET_NEW
+TELNET_PW
+ $_n $_a
+scri  %s
+SCRIPT
+sock  (stranded)
+SOCKET
+lost
+LOST
+idtw  waited %lus
+IDENTWAIT
+%*[^:]:%[^:]:%*[^:]:%[^
+%s@%s
+idnt  (sock %d)
+IDENT
+-telnet!%s
+(script)
+(bots)
+(users)
+(If you are new, enter 'NEW' here.)
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+./dccutil.c
+*** %s joined the party line.
+*** %s joined the channel.
+%%-4s %%-8s %%-5s %%-%us %%-17s %%s
+TYPE
+HOST
+NICK
+PORT
+ADDR
+SOCK
+----
+-----------------
+---------
+-----
+--------
+%%-4d %%08X %%5d %%-%us %%-17s %%s
+?:%lX  !! ERROR !!
+You weren't away!
+*** %s is no longer away.
+You're not away any more.
+*** %s is now away: %s
+You are now away.
+[More]: 
+[More]
+*** FLOOD: %s.
+*** %s
+### SIMULATION RESET ###
+file section
+*** %s.
+### SIMULATION RESET
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+Lost connection while resolving hostname [%s/%d]
+dns   waited %lus
+./dns.c
+DNSWAIT
+DCCEVENT_HOSTBYIP
+DCCEVENT_IPBYHOST
+TCLEVENT_HOSTBYIP
+TCLEVENT_IPBYHOST
+<empty>
+(!) Unknown DNS event type found: %s
+ ip-address/hostname proc ?args...?"
+wrong # args: should be "
+dnslookup
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+msgs, 
+public, 
+joins, 
+kicks/modes, 
+cmds, 
+misc, 
+bots, 
+raw, 
+files, 
+server, 
+debug, 
+wallops, 
+server output, 
+botnet traffic, 
+share traffic, 
+level 1, 
+level 2, 
+level 3, 
+level 4, 
+level 5, 
+level 6, 
+level 7, 
+level 8, 
+none
+a %s %s
+./flags.c
+a %s %s %s
+--%s %s
+ handle BOTFL flags
+wrong # args: should be "
+  BOT FLAGS: %s
+BOTFL
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+./language.c
+LANG: Language loaded: %s
+LANG: Language unloaded: %s
+LANG: unexpected: reading from file %s failed.
+0x%x,%500c
+Malformed text line in %s at %d.
+LANG: %d messages of %d lines loaded from %s
+LANG: %d adds, %d updates to message table
+LANG: Section loaded: %s
+english
+LANG: No lang files found for section %s.
+LANG: Section unloaded: %s
+EGG_LANGDIR
+./language
+%s/%s.%s.lang
+.lang
+Note: This command is obsoleted by +lang.
+Usage: language <section>.<language>
+#%s# language %s
+Invalid parameter %s.
+Usage: +lang <language>
+#%s# +lang %s
+Usage: -lang <language>
+#%s# -lang %s
+Language %s not found.
+Usage: +lsec <section>
+#%s# +lsec %s
+Usage: -lsec <section>
+#%s# -lsec %s
+Section %s not found.
+Rechecking language sections...
+#%s# ldump %s
+0x%x: %s
+ LANGIDX TEXT
+0x%x   %s
+MSG-0-
+MSG%03X
+#%s# lstat %s
+Language code report:
+   Table size   : %d bytes
+   Text messages: %d
+   %d used, %d unused, maxdepth %d, avg %f
+   Supported languages:
+%s %s
+   SECTION              LANG
+   ==============================
+<none>
+   %-20s %s
+?The Tcl command 'language' is obsolete. Use 'addlang' instead.
+ language
+wrong # args: should be "
+Invalid parameter
+Language not found.
+ section
+Section not found
+relang
+lstat
+ldump
+-lsec
++lsec
+-lang
++lang
+language
+dellangsection
+addlangsection
+dellang
+addlang
+EGG_LANG
+core
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+* %s
+DEBUG.DEBUG
+Debug (%s) written %s
+Please report problem to bugs@eggheads.org
+after a visit to http://www.eggheads.org/bugzilla/
+Full Patch List: %s
+Context: 
+%s/%d,
+         
+%s/%d
+* Last context: %s/%d [%s]
+* Please REPORT this BUG!
+* Check doc/BUG-REPORT on how to do so.
+DEBUG
+* Failed to write DEBUG
+info library
+*unknown*
+Tcl library: %s
+8.4.4
+info patchlevel
+info tclversion
+Tcl version: %s (header version %s)
+gcc -pipe -g -O2 -I.. -I.. -DHAVE_CONFIG_H  
+Compile flags: %s
+gcc -pipe
+Link flags: %s
+strip
+Strip flags: %s
+%s/%d, [%s]
+         
+%s/%d [%s]
+* Wrote DEBUG
+BUS ERROR -- CRASHING!
+SEGMENT VIOLATION -- CRASHING!
+FLOATING POINT ERROR -- CRASHING!
+sigterm
+ACK, I've been terminated!
+TERMINATE SIGNAL -- SIGNING OFF
+RECEIVED TERMINATE SIGNAL (IGNORING)
+sigquit
+RECEIVED QUIT SIGNAL (IGNORING)
+sighup
+HANGUP SIGNAL -- SIGNING OFF
+Received HUP signal: rehashing...
+sigill
+* Context: %s/%d [%s]
+%s:%s
+  (patches: %s)
+%s~bak
+[1;1H
+server
+channels
+timer: drift (lastmin=%d, now=%d)
+(!) timer drift -- spun %d minutes
+--- %.11s%s
+%s.yesterday
+rehash
+prerehash
+save
+logfile
+loaded
+./main.c
+eggdrop v%s
+Eggdrop v%s (C) 1997 Robey Pointer (C) 2003 Eggheads
+ERROR: Eggdrop will not run as root!
+--- Loading %s (%s)
+=== %s: %d channels, %d users.
+pid.%s
+/dev/null
+llama@console
+none
+### ENTERING DCC CHAT SIMULATION ###
+cmds1.help
+cmds2.help
+core.help
+main: entering loop
+SERVER
+CHAT
+FILES
+SEND
+!!! untrapped dcc activity: type %s, sock %d
+END OF FILE ON TERMINAL
+*UNKNOWN*
+*** ATTENTION: DEAD SOCKET (%d) OF TYPE %s UNTRAPPED
+(@) EOF socket %d, not a dcc socket, not anything.
+* Socket error #%d; recovering.
+DCC socket %d (type %d, name '%s') expired -- pfft
+prerestart
+eggdrop
+encryption
+uptime
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+NOTICE %s :Think I'm using about %dk.
+Compiled without extensive memory debugging (sorry).
+*** FAILED MALLOC %s (%d) (%d): %s
+Memory allocation failed
+*** FAILED REALLOC %s (%d)
+*** ATTEMPTING TO FREE NULL PTR: %s (%d)
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+./misc.c
+~+-^=
+%s%s
+%d day%s ago
+%H:%M
+in %d day%s
+at %H:%M
+for %d day%s
+for 
+%02d:%02d
+[%H:%M]
+.%d%b%Y
+%s%s
+Logfile suffix changed. Closing all open logs.
+%s.yesterday
+     
+%s %s
+*UNKNOWN*
+help=
+center
+cols=
+%{help=
+%smsg/%s
+%sset/%s
+HELP FILE(S): %s
+set/
+msg/
+   %s (%s)
+NOTICE %s :%s
+%c%02x
+*** %s
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+User file rejected by %s: %s
+s un Not sharing userfile.
+./modules.c
+eggdrop
+/%s%s.so
+%s%s.so
+%s_start
+_%s_start
+Malloc error
+%s %s
+%s:%s
+MODULES LOADED:
+CORE
+  Module: %s, v %d.%d
+    requires: %s, v %d.%d
+No such module.
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+Hostname self-lookup failed. Please set 'my-ip' in the config file.
+Address already in use
+Address invalid on remote machine
+Address family not supported
+Socket already in use
+Socket descriptor is bad
+Connection refused
+Namespace segment violation
+Operation in progress
+Timeout
+Invalid namespace
+Socket already connected
+Network unreachable
+File descriptor, not a socket
+Connection timed out
+Socket is not connected
+Host is unreachable
+Broken pipe
+Connection reset by peer
+Permission denied
+Too many open files
+Error 0
+Unforseen error %d
+Socket table is full!
+Warning: Can't create new socket!
+./net.c
+Attempt to kill un-allocated socket %d !!
+%c%c%c%c%c%c%s
+%s %d
+WARNING: open_telnet_raw() is about to block in gethostbyname()!
+!! Cant open a listen port (you are using a firewall)
+%u.%u.%u.%u
+net: connect! sock %d
+net: eof!(read) socket %d
+sockread EAGAIN: %d %d (%s)
+net: socket: %d proxy errno: %d
+SERVER
+CHAT
+FILES
+SEND
+!!! writing to nonexistent socket: %d
+!-> '%s'
+net: eof!(write) socket %d (%s,%d)
+dequeue_sockets(): errno = %d (%s) on %d
+Open sockets:
+ (binary)
+ (listen)
+ (passed on)
+ (connecting)
+ (strong)
+ (file)
+ (inbuf: %04X)
+ (outbuf: %06lX)
+ done.
+ALERT: (%s!%s) specified an impossible port of %u!
+ALERT: (%s!%s) specified an impossible IP of %s!
+DNS information for submitted IP checks out.
+ALERT: (%s!%s) sent a DCC request with bogus IP information of %s port %s. %s does not resolve to %s!
+sock_has_data: could not find socket #%d, returning false.
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+* Tried to change my botnet nick, but I'm still linked to a botnet.
+* (Unlink and try again.)
+* IDENTITY CHANGE: %s -> %s
+%d:%d
+%d%*c%d
+invalid userfile permissions
+read-only variable
+you can't DECREASE max-dcc
+you can't DECREASE max-logs
+%s:%d
+./tcl.c
+pidfile
+logfile-suffix
+telnet-banner
+config
+firewall
+version
+username
+nat-ip
+whois-fields
+network
+my-hostname
+my-ip
+owner
+notify-newusers
+mod-path
+text-path
+temp-path
+help-path
+admin
+motd
+userfile
+botnet-nick
+use-console-r
+debug-output
+enable-simul
+strict-servernames
+quiet-reject
+copy-to-tmp
+userfile-perm
+strict-host
+dupwait-timeout
+force-expire
+quiet-save
+use-invites
+use-exempts
+paranoid-telnet-flood
+must-be-owner
+resolve-timeout
+allow-dk-cmds
+log-time
+share-unlinks
+ident-timeout
+sort-users
+dcc-sanitycheck
+protect-telnet
+raw-log
+quick-logs
+max-logsize
+max-logs
+max-dcc
+remote-boots
+die-on-sigterm
+die-on-sighup
+numversion
+default-flags
+console
+uptime
+use-telnet-banner
+stealth-telnets
+open-telnets
+keep-all-logs
+require-p
+reserved-port
+connect-timeout
+switch-logfiles-at
+hourly-updates
+dcc-flood-thr
+handlen
+ignore-time
+reserved-portrange
+telnet-flood
+tcl_interactive
+LC_ALL
+LC_CTYPE
+LANG
+iso8859-1
+eggdrop
+Tcl error in script for '%s':
+Tcl error in file '%s':
+errorInfo
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+ idx text
+wrong # args: should be "
+invalid idx
+ idx size text
+(server)
+ idx command
+ message
+*** %s
+ nickname
+ idx
+ idx channel
+chan
+$chan
+assoc 
+channel name is invalid
+channel out of range; must be -1 through 199999
+*script*
+console
+ channel message
+channel out of range; must be 0 through 199999
+ idx ?channel? ?console-modes?
+#&!+
+invalid channel
+ idx ?strip-flags?
+ idx ?status?
+*** %s has gone.
+gone
+./tcldcc.c
+ idx ?reason?
+channel
+partyline
+*** %s has left the %s%s%s
+ botnick message
+bot is not on the botnet
+ bot
+ ?type?
+?:%lX  !! ERROR !!
+*UNKNOWN*
+ chan
+ idx message
+ ?via-bot? bot
+ bot ?comment?
+ hostname port
+out of dcc table space
+DNS lookup failed
+ port type ?mask?/?proc ?flag??
+no such listen port is open
+no more DCC slots available
+Couldn't grab nearby port
+Couldn't assign the requested IP. Please make sure 'my-ip' is set properly.
+script
+(script)
+must give proc name for script listen
+. allowed flags: pub
+unknown flag: 
+bots
+(bots)
+users
+(users)
+(telnet)
+bots, users, all, off, script
+illegal listen type: must be one of 
+Listening at telnet port %d (%s)
+ user@bot ?reason?
+You can't restart a -n bot
+irc %ld %ld %ld %ld
+botnet %ld %ld %ld %ld
+partyline %ld %ld %ld %ld
+transfer %ld %ld %ld %ld
+misc %ld %ld %ld %ld
+total %ld %ld %ld %ld
+traffic
+restart
+rehash
+boot
+listen
+connect
+unlink
+link
+islinked
+setdccaway
+getdccaway
+getdccidle
+dccused
+whom
+dcclist
+botlist
+idx2hand
+putallbots
+putbot
+killdcc
+valididx
+control
+page
+echo
+strip
+dccputchan
+setchan
+getchan
+hand2idx
+dccbroadcast
+dccsimul
+putidx
+putdccraw
+putdcc
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+./tclhash.c
+unbind
+bind
+unld
+time
+note
+nkch
+load
+link
+filt
+disc
+chpt
+chon
+chof
+chjn
+chat
+bcst
+away
+evnt
+De-Allocated bind table %s
+Allocated bind table %s (flags %d)
+??? Tried to delete not listed bind table ???
+alula
+ type flags cmd/mask procname
+wrong # args: should be "
+ type flags cmd/mask ?procname?
+bad type, should be one of: 
+no such binding
+ from to args
+bad builtin command call!
+ nick msg
+ min hrs dom mon year
+ handle
+ bot nick sock
+ bot nick chan# flag&sock host
+ idx args
+invalid idx
+ handle idx
+ handle idx text
+ hand idx param
+break
+newpass
+chpass
+[something]
+tcl: builtin dcc call: %s %s %s %s
+Tcl proc: %s, param: %s
+<null>
+Tcl error [%s]: %s
+lastbind
+_dcc1
+_dcc2
+_dcc3
+ $_dcc1 $_dcc2 $_dcc3
+#%s# %s %s
+_bot1
+_bot2
+_bot3
+ $_bot1 $_bot2 $_bot3
+partyline
+_chonof1
+_chonof2
+ $_chonof1 $_chonof2
+_cab1
+_cab2
+_cab3
+ $_cab1 $_cab2 $_cab3
+_nkch1
+_nkch2
+ $_nkch1 $_nkch2
+_link1
+_link2
+ $_link1 $_link2
+_disc1
+ $_disc1
+_lu1
+ $_lu1
+_filt1
+_filt2
+ $_filt1 $_filt2
+_note1
+_note2
+_note3
+ $_note1 $_note2 $_note3
+ $_n
+error on listen: %s
+_chjn1
+_chjn2
+_chjn3
+_chjn4
+_chjn5
+_chjn6
+ $_chjn1 $_chjn2 $_chjn3 $_chjn4 $_chjn5 $_chjn6
+_chpt1
+_chpt2
+_chpt3
+_chpt4
+ $_chpt1 $_chpt2 $_chpt3 $_chpt4
+_away1
+_away2
+_away3
+ $_away1 $_away2 $_away3
+%02d
+_time1
+_time2
+_time3
+_time4
+%04d
+_time5
+%02d %02d %02d %02d %04d
+ $_time1 $_time2 $_time3 $_time4 $_time5
+_event1
+ $_event1
+  TYPE FLGS     COMMAND              HITS BINDING (TCL)
+  %-4s %-8s %-20s %4d %s
+No command bindings found that match %s
+No command bindings for type: %s.
+No command bindings exist.
+*%s:%s
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+ ?logModes channel logFile?
+wrong # args: should be "
+./tclmisc.c
+" from list: no such logfile
+can't remove "
+reached max # of logfiles
+ text
+ level channel text
+No valid log-level given
+ ?type/mask?
+ minutes command
+time value must be positive
+timer%lu
+ seconds command
+ timerID
+timer
+argument is not a timerID
+invalid timerID
+ seconds
+0 seconds
+%lu year%s 
+%lu week%s 
+%lu day%s 
+%lu hour%s 
+%lu minute%s 
+%lu second%s
+ unixtime
+ format ?time?
+ error with strftime
+ limit
+random limit must be greater than zero
+ from to message
+ nickname filename
+ idx filename
+illegal idx
+ ?reason?
+BOT SHUTDOWN (%s)
+BOT SHUTDOWN (No reason)
+EXIT
+ module-name
+loadmodule
+%s %s: %s
+*unkown*
+%d.%d
+ helpfile-name
+ event
+string
+%.2x
+callevent
+binds
+duration
+reloadhelp
+unloadhelp
+loadhelp
+modules
+checkmodule
+unloadmodule
+unames
+exit
+backup
+dccdumpfile
+dumpfile
+sendnote
+rand
+myip
+ctime
+strftime
+unixtime
+utimers
+timers
+killutimer
+killtimer
+utimer
+putloglev
+putxferlog
+putcmdlog
+putlog
+logfile
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+wrong # args: should be "
+ handle
+ nick!user@host
+ handle passwd
+ handle ?changes? ?channel?
+#&!+
+no such channel
+ bot-handle ?changes? ?channel?
+ handle flags ?channel?
+ handle ?hostmask?
+ handle address
+none
+./tcluser.c
+ handle hostmask
+non-existent user
+ ?flags ?channel??
+Invalid channel: 
+ oldnick newnick
+-,+*=:!.@#;$%&
+ hostmask creator comment ?lifetime?
+ hostmask
+ handle type
+HANDLE
+No such info type: 
+No such user.
+ handle type ?setting....?
+setuser
+getuser
+ignorelist
+killignore
+newignore
+isignore
+getting-users
+chnick
+chhandle
+reload
+save
+userlist
+delhost
+deluser
+addbot
+adduser
+matchchanattr
+matchattr
+botattr
+chattr
+passwdok
+finduser
+validuser
+countusers
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+./userent.c
+--%s %s
+c %s %s %s
+%s: change %s %s
+ handle type setting
+wrong # args: should be "
+  %s: %s
+  COMMENT: %.70s
+COMMENT
+INFO
+c PASS %s %s
+ handle PASS ?newpass?
+PASS
+%lu %s
+--LASTON %lu %s
+ handle LASTON ?channel?
+%lu 
+ handle LASTON time ?place?
+#&!+
+LASTON
+%s:%u/%u
+--%s %s:%u/%u
+c BOTADDR %s %s %d %d
+ handle type address ?telnetport ?relayport??
+  ADDRESS: %.70s
+     users: %d, bots: %d
+%s: change botaddr %s
+BOTADDR
+c XTRA %s %s %s
+ handle type key ?value?
+%s %s
+--XTRA %s %s
+ handle XTRA ?key?
+XTRA
+--HOSTS %s
+  HOSTS: 
+         %s
+none
+ handle HOSTS
+ handle HOSTS ?host?
+HOSTS
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+./userrec.c
+~+-^=
+%-10s - %-24s
+! %-20s %lu %-10s %s
+--%s %s
+*ignore - -
+- %s:%s%lu:%s:%lu:%s
+%s~new
+#4v: %s -- %s -- written %s
+%s (%s)
+-,+*=:!.@#;$%&
+h %s %s
+*** Handle change: %s -> %s
+created
+none
+n %s %s %s %s
+k %s
+-h %s %s
++bh %s %s
++h %s %s
+%s!%s
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+-i %s
+./users.c
++i %s %lu %c %s %s
+Started %s
+(perm)
+(expires %s)
+  [%3d] %s %s
+IGNORE: %s %s
+        %s: %s
+        %s %s
+        %s
+No ignores.
+%s %s (%s)
+global_bans
+*** Malformed banline for %s.
+global_exempts
+*** Malformed exemptline for %s.
+global_invites
+*** Malformed inviteline for %s.
+*** Malformed ignore line.
+user
+$user
+notes 
+never
+%d %b
+%H:%M
+%%-%us %%-5s%%5d %%-15s %%s (%%s)
+nowhere
+%%%us  %%-18s %%-15s %%s
+    INFO: %s
+%%-%us PASS NOTES FLAGS           LAST
+HANDLE
+*** %s '%s':
+(%s %d)
++-&|
+Unknown flag specified for matching!!
+#&!+
+*ban
+*ignore
+*exempt
+*Invite
+* %s '%s'!
+* %s '%s'
+%s %s
+Userfile loaded, unpacking...
+(!) I have an user record, but without +b
+*** %s bot %s
+bye %s
+(!) BUG: rejecting not connected bot %s!
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+$Id: inet_ntop.c,v 1.2 2003/04/02 21:16:22 wcc Exp $
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+Eleele
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+cp936
+ru_SU
+ru_RU
+iso8859-5
+korean
+ko_KR.eucKR
+ko_KR.euc
+ko_KR.EUC
+ko_KR
+euc-kr
+japanese-ujis
+japanese-sjis
+japanese.euc
+japanese.sjis
+japanese
+japan
+Jp_JP
+Ja_JP
+ja_JP
+ja_JP.ujis
+ja_JP.mscode
+iso2022-jp
+ja_JP.JIS
+euc-jp
+ja_JP.EUC
+shiftjis
+ja_JP.SJIS
+SQRVW
+_^ZY[
+SQR1
+SQRV
+H^ZY[
+SQRVW
+_^ZY[
+_^ZY[
+QSP1
+QSP1
+QSP1
+QSP1
+RQSP1
+X[YZ
+RQSP1
+X[YZ
+QSP1
+SQRV1
+^ZY[
+/dev/hdx
+SQRVW
+ZY[=
+ZY[=
+_^ZY[
+SQRVW
+Y[_^ZY[
+ZY[=
+[SQRVW
+tBSQR
+ZY[=
+ZY[=
+[X_^ZY[
+DOM`
+/bin/sh
+xxxxyyyyzzzz
+Y[XXXXXX
+GET /~telcom69/gov.php HTTP/1.0
+ppp0
+eth0
+h/bin
+PSQRVWP
+[X_^ZY[X
+SQRVWS
+ZY[=
+ZY[f
+ZY[=
+ZY[= 
+fAf;NH
+ZY[=
+YQSQR
+ZY[=
+ZY[=
+ZY[fAf;NLr
+ZY[=
+ZY[=
+F4SQR
+ZY[=
+[X_^ZY[
+ZY[=
+_WSQR
+ZY[SQR
+snortdos
+tory
+/lib/ld-linux.so.2
+456789:;<=
+ !"#$%&'()*+,-./0123
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789[]2
+unknown-net
+text/banner
+text/motd
+1.6.15
+eggdrop.conf
+help/
+text/
+.%d%b%Y
+modules/
+eggdrop
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz{|}~_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+GCC: (GNU) c 2.95.4 20020320 [FreeBSD]
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+.shstrtab
+.interp
+.note.ABI-tag
+.hash
+.dynsym
+.dynstr
+.rel.bss
+.rel.plt
+.init
+.text
+.fini
+.rodata
+.data
+.eh_frame
+.dynamic
+.ctors
+.dtors
+.got
+.comment
+.note

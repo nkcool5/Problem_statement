@@ -1,0 +1,674 @@
+/lib64/ld-linux-x86-64.so.2
+"5Rc
+\d&%
+Wd&%
+librt.so.1
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+clock_gettime
+libasound.so.2
+snd_ctl_card_info_get_id
+snd_pcm_format_size
+snd_pcm_chmap_print
+snd_pcm_hw_params_dump
+snd_pcm_format_silence_16
+snd_pcm_avail_delay
+snd_pcm_hw_params_any
+snd_pcm_format_silence_32
+snd_pcm_status_sizeof
+snd_pcm_hw_params_set_access
+snd_pcm_sw_params_current
+snd_pcm_hw_params_can_pause
+snd_pcm_hw_params_is_monotonic
+snd_pcm_sw_params_set_start_threshold
+snd_pcm_hw_params_set_channels
+snd_pcm_close
+snd_pcm_info_set_stream
+snd_pcm_info_get_subdevice_name
+snd_pcm_hw_params_set_access_mask
+snd_pcm_access_mask_set
+snd_pcm_status_get_trigger_tstamp
+snd_pcm_name
+snd_pcm_access_mask_sizeof
+snd_pcm_format_set_silence
+snd_pcm_format_value
+snd_pcm_hw_params_get_buffer_size
+snd_ctl_pcm_info
+snd_pcm_format_physical_width
+snd_pcm_chmap_parse_string
+snd_pcm_status_get_state
+snd_pcm_info_get_id
+snd_pcm_stream_name
+snd_pcm_hw_params_set_format
+snd_pcm_sw_params_sizeof
+snd_pcm_writei
+snd_pcm_writen
+snd_pcm_status_dump
+snd_pcm_info_set_subdevice
+snd_ctl_card_info
+snd_pcm_hw_params_set_rate_near
+snd_pcm_resume
+snd_pcm_info_get_subdevices_count
+snd_ctl_card_info_get_name
+snd_pcm_mmap_commit
+snd_pcm_info_sizeof
+snd_ctl_close
+snd_pcm_drain
+snd_pcm_hw_params_set_buffer_time_near
+snd_pcm_info
+snd_pcm_pause
+snd_pcm_mmap_readi
+snd_pcm_get_chmap
+snd_pcm_mmap_readn
+snd_pcm_sw_params_set_avail_min
+snd_device_name_hint
+snd_pcm_mmap_writei
+snd_pcm_status_get_trigger_htstamp
+snd_pcm_mmap_writen
+snd_pcm_hw_params_test_format
+snd_pcm_format_little_endian
+snd_pcm_nonblock
+snd_pcm_hw_params_set_buffer_size_near
+snd_pcm_prepare
+snd_pcm_info_get_subdevices_avail
+snd_pcm_sw_params_dump
+snd_device_name_free_hint
+snd_pcm_sw_params_set_stop_threshold
+snd_strerror
+snd_pcm_access_mask_none
+snd_pcm_open
+snd_device_name_get_hint
+snd_pcm_hw_params_set_period_time_near
+snd_pcm_info_get_name
+snd_pcm_hw_params_get_period_size
+snd_ctl_card_info_sizeof
+snd_pcm_mmap_begin
+snd_pcm_set_chmap
+snd_pcm_format_description
+snd_pcm_info_set_device
+snd_pcm_format_name
+snd_pcm_hw_params_sizeof
+snd_pcm_dump
+snd_pcm_status
+snd_pcm_sw_params
+snd_pcm_hw_params_set_period_size_near
+snd_pcm_readi
+snd_pcm_wait
+snd_pcm_readn
+snd_output_close
+snd_card_next
+snd_config_update_free_global
+snd_ctl_pcm_next_device
+snd_pcm_format_width
+snd_ctl_open
+snd_pcm_format_silence
+snd_pcm_hw_params
+snd_output_stdio_attach
+snd_pcm_hw_params_get_buffer_time_max
+snd_pcm_state_name
+libpthread.so.0
+read
+__errno_location
+lseek64
+fcntl
+libc.so.6
+fflush
+__printf_chk
+exit
+_IO_putc
+setlocale
+Do nine men interpret Nine men I nod
+fopen
+strsignal
+optind
+__strdup
+perror
+dcgettext
+strncpy
+__stack_chk_fail
+__lxstat
+mkdir
+realloc
+stdin
+getpid
+strftime
+__assert_fail
+strtol
+isatty
+calloc
+memset
+strstr
+tcsetattr
+memcmp
+__fprintf_chk
+stdout
+fputc
+fputs
+fclose
+malloc
+strcasecmp
+remove
+optarg
+stderr
+__snprintf_chk
+__memset_chk
+getopt_long
+fileno
+fwrite
+gettimeofday
+rename
+__memcpy_chk
+textdomain
+localtime
+strchr
+tcgetattr
+sleep
+__sprintf_chk
+memmove
+strcmp
+__libc_start_main
+free
+GLIBC_2.2.5
+GLIBC_2.4
+GLIBC_2.3.4
+ALSA_0.9.0rc8
+ALSA_0.9.0rc4
+ALSA_0.9
+AWAV
+AUAT
+[]A\A]A^A_
+AWAVAUATE1
+XZE9
+[A\A]A^A_]
+D$H1
+D$HdH3
+AUATA
+Z[]A\A]
+AUATUSH
+D$@H
+([]A\A]
+AWAVAUATE1
+E;4$t:H
+[A\A]A^A_]
+ATSH
+[A\]
+< t(<
+ATUH
+[]A\
+AVAUATUE1
+D$V|Bk
+D$ MAX
+D$ t
+D$"A
+D$"A
+D40 
+D40+
+A Santa lives evil at NASA
+D$c| MAf
+D$gX
+[]A\A]A^
+AWAVAUATI
+alula
+x(H9
+[]A\A]A^A_
+tnHc
+[]A\
+AWAVA
+AUATM
+Z[]A\A]A^A_
+X[]A\A]A^A_
+AWAVAUATUSH
+D$H1
+?-u#
+;.snd
+l$0L
+D$0H
+D$0J
+40L)
+D$0~
+L$8H
+L$8H
+T$0A
+|$8H
+\$0I
+\$0D
+D$ ysH
+L)d$ E1
+|$0I
+L$8t\A
+L$8t:A
+=RIFFt
+=RIFXA
+WAVE
+D$@I
+T$@A
+D$@H
+Degas are we not drawn onward no In union drawn onward to new eras aged
+fmt H
+tiI9
+T$@A
+l$@H9
+T$@A
+'w_H
+=g| 
+=W{ 
+l$@E
+T$@H)
+D$@H
+dataH
+=_y 
+-Jz 
+T$@A
+l$@H9
+=_w 
+D$HdH3
+X[]A\A]A^A_
+AWAVAUATSH
+=^u 
+=#u 
+Borrow or rob
+5fs 
+=Ss 
+-Fs 
+=rt 
+5+t 
+=`t 
+5wr 
+=#q 
+=Aq 
+=kq 
+x!M9
+[A\A]A^A_]
+AWAVAUATI
+%fp 
+=Jn 
+=?l 
+=nl 
+x!L9
+Beeb
+=3l 
+=qk 
+[A\A]A^A_]
+AWAVAUATI
+=Ej 
+<$-uBA
+|$(H
+.u	H
+t3VUA
+UAWA
+QAWA
+T$0H
+D$H%
+=Pe 
+L9-Af 
+5of 
+Eleele
+$L+,$H
+=Nf 
+x*L;t$
+=be 
+=#d 
+5:e 
+L)t$
+[]A\A]A^A_
+AWAVAUATI
+5Pb 
+=:a 
+=d` 
+=:` 
+[A\A]A^A_]
+=b` 
+=e^ 
+5O^ 
+=j] 
+=Z] 
+=?] 
+=(\ 
+=v] 
+= ] 
+=S] 
+5qZ 
+=sX 
+=7X 
+5pW 
+=NW 
+=	W 
+=?V 
+=_W 
+5>V 
+=yW 
+=WW 
+=*W 
+UH-`
+=iT 
+dataH=
+D$H1
+=%Q 
+$.snd
+=wP 
+=4P 
+=SO 
+AUATUS
+D$H1
+D$ RIFF
+D$(WAVE
+$fmt 
+dataD
+D$HdH3
+X[]A\A]
+D$ RIFF
+D$(WAVE
+$fmt 
+=bM 
+5oK 
+D$X1
+CreativeH
+t$0f
+T$FH
+D$0H
+ Voice F
+D$@ile
+D$Df
+=kL 
+D$XdH3
+`[]A\
+uVUS
+=GJ 
+=EJ 
+AWAVI
+AUATI
+dH3<%(
+[]A\A]A^A_
+AUATI
+]A\A]
+[]A\A]
+AWAVA
+AUATL
+[]A\A]A^A_
+Usage: %s [OPTION]... [FILE]...
+-h, --help              help
+    --version           print current version
+-l, --list-devices      list all soundcards and digital audio devices
+-L, --list-pcms         list device names
+-D, --device=NAME       select PCM by name
+-q, --quiet             quiet mode
+-t, --file-type TYPE    file type (voc, wav, raw or au)
+-c, --channels=#        channels
+-f, --format=FORMAT     sample format (case insensitive)
+-r, --rate=#            sample rate
+-d, --duration=#        interrupt after # seconds
+-M, --mmap              mmap stream
+-N, --nonblock          nonblocking mode
+-F, --period-time=#     distance between interrupts is # microseconds
+-B, --buffer-time=#     buffer duration is # microseconds
+    --period-size=#     distance between interrupts is # frames
+    --buffer-size=#     buffer duration is # frames
+-A, --avail-min=#       min available space for wakeup is # microseconds
+-R, --start-delay=#     delay for automatic PCM start is # microseconds 
+                        (relative to buffer size if <= 0)
+-T, --stop-delay=#      delay for automatic PCM stop is # microseconds from xrun
+-v, --verbose           show PCM structure and setup (accumulative)
+-V, --vumeter=TYPE      enable VU meter (TYPE: mono or stereo)
+-I, --separate-channels one file for each channel
+-i, --interactive       allow interactive operation from stdin
+-m, --chmap=ch1,ch2,..  Give the channel map to override or follow
+    --disable-resample  disable automatic rate resample
+    --disable-channels  disable automatic channel conversions
+    --disable-format    disable automatic format conversions
+    --disable-softvol   disable software volume control (softvol)
+    --test-position     test ring buffer position
+    --test-coef=#       test coefficient for ring buffer position (default 8)
+                        expression for validation is: coef * (buffer_size / 2)
+    --test-nowait       do not wait for ring buffer - eats whole CPU
+    --max-file-time=#   start another output file when the old file has recorded
+                        for this many seconds
+    --process-id-file   write the process ID here
+    --use-strftime      apply the strftime facility to the output file name
+    --dump-hw-params    dump hw_params of the device
+    --fatal-errors      treat all errors as fatal
+Recognized sample formats are:
+Some of these may not be available on selected hardware
+The available format shortcuts are:
+-f cd (16 bit little endian, 44100, stereo)
+-f cdr (16 bit big endian, 44100, stereo)
+-f dat (16 bit little endian, 48000, stereo)
+**** List of %s Hardware Devices ****
+control hardware info (%i): %s
+control digital audio info (%i): %s
+card %i: %s [%s], device %i: %s [%s]
+control digital audio playback info (%i): %s
+stdin O_NONBLOCK flag setup failed
+Suspicious buffer position (%li total): avail = %li, delay = %li, buffer = %li
+BUFPOS: avg%li/%li min%li/%li max%li/%li (%li) (%li:%li/%li)
+Broken configuration for this PCM: no configurations available
+Warning: rate is not accurate (requested = %iHz, got = %iHz)
+         please, try the plug plugin %s
+Can't use period equal to buffer size (%lu == %lu)
+Channel numbers don't match between hw_params and channel map
+Warning: unable to get channel map
+Channel %d doesn't match with hw_parmas
+snd_pcm_mmap_begin problem: %s
+mmap_area[%i] = %p,%u,%u (%u)
+%s!!! (at least %.3f ms long)
+capture stream format change? attempting recover...
+xrun(DRAINING): prepare error: %s
+Sparc Audio doesn't support %s format...
+Wave doesn't support %s format...
+=== PAUSE ===                                                            
+PAUSE command ignored (no hw support)
+                                                                          
+read error (called from line %i)
+Max peak (%li samples): 0x%08x 
+Warning: format is changed to MU_LAW
+Warning: format is changed to U8
+Warning: format is changed to S16_BE
+Playing Creative Labs Channel file '%s'...
+can't allocate buffer for silence
+can't play loops; %s isn't seekable
+unknown blocktype %d. terminate.
+unknown length of 'fmt ' chunk (read %u, should be %u at least)
+unknown length of extensible 'fmt ' chunk (read %u, should be %u at least)
+wrong format tag in extensible 'fmt ' chunk
+can't play WAVE-file format 0x%04x which is not PCM or FLOAT encoded
+can't play WAVE-files with %d tracks
+Warning: format is changed to %s
+God A red nugget A fat egg under a dog
+ can't play WAVE-files with sample %d bits in %d bytes wide (%d channels)
+ can't play WAVE-files with sample %d bits wide
+command should be named either arecord or aplay
+%s: version 1.1.0 by Jaroslav Kysela <perex@perex.cz>
+value %i for channels is invalid
+Unable to parse channel map string: %s
+Try `%s --help' for more information.
+Cannot create process ID file %s: %s
+Input
+Output
+NAME
+DESC
+IOID
+    
+%s: %s:%d: 
+no soundcards found...
+hw:%d
+control open (%i): %s
+snd_ctl_pcm_next_device
+  Subdevices: %i/%i
+  Subdevice #%i: %s
+snd_card_next
+HW Params of device "%s":
+--------------------
+Access type not available
+Sample format non available
+Available formats:
+- %s
+Channels count non available
+aplay.c
+err >= 0
+(-Dplug:%s)
+Unable to install hw params:
+unable to install sw params:
+not enough memory
+Tacocat
+hardware chmap = %s
+status error: %s
+underrun
+overrun
+fatal %s: %s
+Status:
+xrun: prepare error: %s
+Status(DRAINING):
+Status(R/W):
+read/write error, state = %s
+Suspended. Trying resume. 
+Failed. Restarting stream. 
+suspend: prepare error: %s
+Done.
+write error
+pause push error: %s
+pause release error: %s
+stdout
+stdin
+Playing
+Recording
+%s %s '%s' : 
+%s, 
+Rate %d Hz, 
+Mono
+Stereo
+Channels %i
+Aborted by signal %s...
+Unsupported bit size %d.
+%02d%%
+| %02i%%
+ !clip  
+ %i%%
+write error: %s
+read error
+Creative Voice File
+malloc error
+can't play packed .voc files
+voc_pcm_flush - silence error
+voc_pcm_flush error
+You need to specify %d files
+writev error: %s
+readv error: %s
+%02d
+Problem creating directory %s
+localtime
+mystrftime returned 0
+%s-01.%s
+%s-01
+%s-%02i.%s
+%s-%02i
+read error: %s
+default
+alsa-utils
+arecord
+aplay
+sparc
+unrecognized file format %s
+wrong extended format '%s'
+bad speed value %i
+audio open error: %s
+info error: %s
+nonblock setting error: %s
+help
+version
+list-devnames
+list-devices
+list-pcms
+quiet
+file-type
+rate
+duration
+mmap
+nonblock
+period-time
+period-size
+avail-min
+start-delay
+stop-delay
+buffer-time
+buffer-size
+verbose
+vumeter
+separate-channels
+playback
+capture
+disable-resample
+disable-channels
+disable-format
+disable-softvol
+test-position
+test-coef
+test-nowait
+max-file-time
+process-id-file
+use-strftime
+interactive
+dump-hw-params
+fatal-errors
+chmap
+raw data
+WAVE
+Sparc Audio
+pcm_readv
+capturev
+remap_datav
+pcm_writev
+playbackv
+pcm_read
+begin_voc
+end_voc
+begin_wave
+begin_au
+test_wavefile_read
+test_wavefile
+voc_pcm_flush
+suspend
+xrun
+do_pause
+remap_data
+pcm_write
+voc_write_silence
+setup_chmap
+set_params
+set_params
+voc_play
+test_au
+playback
+device_list
+hnlLD:qt:c:f:r:d:MNF:A:R:T:B:vV:IPCim:
+main
+main
+?ffffff
+;*3$"
+9d22355263f1b20defe126f7660c63136eb5c7.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

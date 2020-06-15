@@ -1,0 +1,10846 @@
+/lib64/ld-linux-x86-64.so.2
+|fUa
+libpcre.so.3
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+pcre_study
+_fini
+pcre_free
+pcre_exec
+pcre_compile
+_init
+libz.so.1
+inflateInit2_
+deflate
+deflateBound
+deflateInit2_
+inflate
+inflateInit_
+crc32
+inflateEnd
+deflateEnd
+deflateInit_
+libpthread.so.0
+pthread_self
+pthread_exit
+fsync
+__errno_location
+raise
+pthread_mutex_lock
+pthread_setspecific
+pread64
+lseek64
+fcntl
+pthread_create
+pthread_join
+sigaction
+pthread_getspecific
+funlockfile
+pthread_key_create
+flockfile
+pthread_mutex_unlock
+waitpid
+librt.so.1
+clock_gettime
+libc.so.6
+__xpg_basename
+fflush
+strcpy
+gmtime_r
+__printf_chk
+execv
+_IO_putc
+setlocale
+srand
+strncmp
+dcngettext
+strrchr
+regexec
+pipe
+__strdup
+perror
+dcgettext
+__open64_2
+ftruncate64
+getpwuid
+mmap64
+closedir
+ftell
+__read_chk
+signal
+fork
+regfree
+__stack_chk_fail
+unlink
+mkdir
+realloc
+abort
+stdin
+memchr
+getpid
+kill
+strspn
+bind_textdomain_codeset
+strftime
+chmod
+__assert_fail
+localtime_r
+gmtime
+strtol
+isatty
+feof
+strchrnul
+symlink
+fgets
+getpwnam
+calloc
+strlen
+ungetc
+setitimer
+sigemptyset
+getaddrinfo
+memset
+strstr
+strcspn
+rmdir
+fseek
+chdir
+memcmp
+getpagesize
+getdelim
+dup2
+unsetenv
+__fxstat64
+poll
+__fprintf_chk
+putenv
+stdout
+fputc
+fputs
+regerror
+memcpy
+fclose
+__strtol_internal
+__vsnprintf_chk
+strtoul
+malloc
+strcasecmp
+__lxstat64
+__uflow
+nl_langinfo
+opendir
+__xstat64
+__ctype_b_loc
+getenv
+sscanf
+regcomp
+stderr
+ioctl
+munmap
+_obstack_newchunk
+__snprintf_chk
+__memset_chk
+getuid
+readlink
+getpgid
+execvp
+strncasecmp
+fileno
+gethostname
+getcwd
+fwrite
+fread
+iconv_close
+gettimeofday
+rename
+mkstemp64
+__memcpy_chk
+__fread_chk
+localtime
+strchr
+obstack_free
+utime
+__vfprintf_chk
+mktime
+iconv
+fdopen
+readdir64
+qsort
+iconv_open
+__strcpy_chk
+freeaddrinfo
+setvbuf
+setsid
+getrlimit64
+memmove
+uname
+fopen64
+_obstack_begin
+bindtextdomain
+access
+memmem
+strcmp
+strerror
+tcgetpgrp
+__libc_start_main
+ferror
+__strtoul_internal
+sysconf
+__cxa_atexit
+_edata
+__bss_start
+_end
+GLIBC_2.2.5
+ZLIB_1.2.0
+GLIBC_2.3
+GLIBC_2.7
+GLIBC_2.14
+GLIBC_2.4
+GLIBC_2.3.4
+%zM-
+%rM-
+%jM-
+%bM-
+%ZM-
+%RM-
+%JM-
+%BM-
+%:M-
+%2M-
+%*M-
+%"M-
+%zL-
+%rL-
+%jL-
+%bL-
+%ZL-
+%RL-
+%JL-
+%BL-
+%:L-
+%2L-
+%*L-
+%"L-
+%zK-
+%rK-
+%jK-
+%bK-
+%ZK-
+%RK-
+%JK-
+%BK-
+%:K-
+%2K-
+%*K-
+%"K-
+%zJ-
+%rJ-
+%jJ-
+%bJ-
+%ZJ-
+%RJ-
+%JJ-
+%BJ-
+%:J-
+%2J-
+%*J-
+%"J-
+%zI-
+%rI-
+%jI-
+%bI-
+%ZI-
+%RI-
+%JI-
+%BI-
+%:I-
+%2I-
+%*I-
+%"I-
+%zH-
+%rH-
+%jH-
+%bH-
+%ZH-
+%RH-
+%JH-
+%BH-
+%:H-
+%2H-
+%*H-
+%"H-
+AUATI
+9-u<D
+:=upA
+:=u5A
+Bu"H
+AVAUATUI
+D$X1
+< u;I
+t$ L
+D$ H
+D$ L
+D$ H
+5d[-
+|$ 1
+|$@1
+D$@X@J
+=:Y-
+UH-8
+=qX-
+D$(1
+8-tF
+T$(dH3
+D$(1
+|$ H
+L$(dH3
+AWAVA
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUI
+ATUA
+t:A9
+]A\A]A^
+]A\A]A^
+]A\A]A^
+D$H1
+L$HdH3
+AVAUI
+ATUI
+T$0H
+D$(H
+t$0H
+[]A\A]A^
+|$(H
+T$0I
+[]A\A]A^
+ATUA
+[]A\
+[]A\
+[]A\
+AUATUSH
+D$(1
+L$(dH3
+8[]A\A]
+<$"t
+T$ H
+ATUSH
+D$(1
+T$(dH3
+0[]A\
+D$ 1
+D$ I9
+AVAUA
+ATUSH
+D;%&K-
+H9D$
+ []A\A]A^
+AUATA
+<	ur
+<\u?H
+H9D$
+([]A\A]
+ATUH
+tqHc
+55G-
+=&G-
+=}F-
+5VE-
+=)E-
+AWAVAUATUSH
+T$(H
+SXHcL$
+T$(H
+[]A\A]A^A_
+T$HI
+D$PH
+T$PI
+D$@H
+T$HH
+D$@H
+T$HI
+D$PH
+L$HD
+T$PI
+T$HH
+\tu~b
+btaH
+ATUI
+ []A\
+AVAUI
+ATUH
+uEE1
+[]A\A]A^
+AVAUI
+ATUI
+ []A\A]A^
+ATUI
+[]A\
+[]A\
+AUATI
+[]A\A]
+=\)-
+AUATI
+l$ H
+l$(H
+[]A\A]
+AUATI
+D$(1
+L$(dH3
+8[]A\A]
+d$ 1
+t$ L
+D$x`J@
+AWAVI
+AUATI
+=F -
+[]A\A]A^A_
+AUATUSH
+l$ H
+|$(H
+[]A\A]
+D$HH
+|$@H
+d$`H
+|$@H
+D$HH
+ATUI
+[]A\
+ATUI
+[]A\
+ATUI
+[]A\
+ATUI
+ []A\
+AUATI
+[]A\A]
+[]A\
+ATUH
+St#H
+AWAVI
+AUATI
+(HcX
+[]A\A]A^A_
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+AWAVE
+AUATI
+t$ L
+[]A\A]A^A_
+T$@D
+D$pE1
+l$XL
+t$(L
+\$4L
+t$ E
+|$0H)
+|$0E1
+\$4L
+t$(I
+l$8H
+L9|$ v
+|$0K
+4<M)
+t$ L
+AWAVAUATI
+t+<.u
+te<.ta<-t
+dH3<%(
+[]A\A]A^A_
+\$HH
+T$(Lc
+<2.Mc
+\$(B
+AWAVI
+AUATI
+tiHc
+?.u+
+$t$H
+[]A\A]A^A_
+ATUI
+[]A\H
+D$81
+D$8dH3
+@[]A\
+|$ H
+t$(H
+|$01
+D$0H
+|$ 1
+|$01
+D$ H
+T$(H
+|$ 1
+D$(H
+D$(H
+[]A\
+Z[]A\
+t>US
+|$ L
+L$(E1
+ t?H
+|$ H
+dH3<%(
+t$XH
+T$`H
+L$hL
+D$pL
+L$xt@
+D$H1
+T$HdH3
+Ct#H
+[]A\
+[]A\
+ATUSD
+ATUH
+StPE1
+[]A\
+AUATUSH
+t@H9
+t!H9
+[]A\A]
+ATUI
+t0H9
+[]A\
+AUATUSH
+tuH9
+[]A\A]
+[]A\A]
+ATU1
+Degas are we not drawn onward no In union drawn onward to new eras aged
+[]A\
+AUATI
+trH9
+tUH9
+dH34%(
+([]A\A]
+\$@dH
+[]A\
+t7Hc
+s,<<H
+[]A\
+\$(r
+D$81
+AWAVA
+AUATA
+H;-A
+[]A\A]A^A_
+H;-$
+ATUA
+[]A\H
+ATUA
+[]A\H
+AUATI
+[]A\A]
+ATUH
+ []A\
+ATUH
+[]A\
+[]A\
+AWAVA
+AUATUSH
+[]A\A]A^A_
+ATUSH
+[]A\
+AWAVA
+AUATI
+t#L9
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATI
+tLHc
+[]A\A]A^A_
+AVAUATUSH
+D$(1
+T$ H
+t$ L
+D$(dH3
+0[]A\A]A^
+AUATUSH
+[]A\A]
+AWAVAUATI
+D$(1
+L$(dH3
+8[]A\A]A^A_
+AWAVI
+AUATM
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AUATI
+/t6A
+[]A\A]
+]A\A]
+ATUI
+t!Hc
+[]A\
+utHc
+tl</t
+AWAVHc
+AUATUSH
+D$,H
+|$ H
+D$(I
+t$,H
+|$ H
+8[]A\A]A^A_
+8[]A\A]A^A_
+AVAUI
+ATUI
+/t8H
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+AUATI
+Beeb
+D$81
+/t3H
+|$ H
+t$0H
+t$(H
+D$8dH3
+H[]A\A]
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+ATUSH
+ []A\
+Lcd$
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+t$HH
+T$PH
+L$XL
+D$`L
+L$ht=
+)D$p
+D$81
+T$ H
+D$(H
+D$@H
+D$$0
+L$8dH3
+t$HH
+T$PH
+L$XL
+D$`L
+L$ht=
+)D$p
+D$81
+T$ H
+D$(H
+D$@H
+D$$0
+L$8dH3
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+T$PH
+L$XL
+D$`L
+L$ht=
+)D$p
+D$81
+L$ H
+D$(H
+D$@H
+D$$0
+T$8dH3
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+ATUSH
+ []A\
+ATUSH
+[]A\
+AWAVAUATI
+<$/A
+}"Hc
+4A:L=
+}3Hc
+[]A\A]A^A_
+[]A\A]A^A_
+~GHc
+/t	A
+</tt<.tJH
+tE</u
+/t8A
+.tZH
+/tKH
+AWAVAUATD
+/t%H
+[]A\A]A^A_
+AUATI
+t0Hc
+[]A\A]
+[]A\A]
+<.t8</t<
+AVAUI
+ATUE1
+]A\A]A^
+]A\A]A^
+StVH
+?'u1I
+'t"I
+\t:I
+!u*A
+AWAVI
+AUATI
+L;|$
+([]A\A]A^A_
+ubL;|$
+[]A\A]A^A_
+AVAUE1
+ATUH
+SH9w
+<'uw
+[]A\A]A^
+ATUH
+[]A\
+AVAUATUSH
+[]A\A]A^
+<$u 
+AUATE1
+[]A\A]A
+[]A\A]H
+[]A\A]
+AWAVAUATUSH
+<\t9I
+[]A\A]A^A_
+[]A\A]A^A_
+ATUH
+'t&@
+\t H
+[]A\
+ATUI
+[]A\
+ATUI
+[]A\
+$u:H
+AWAVI
+AUATI
+\$@L
+[]A\A]A^A_
+D$(1
+L$(dH3
+AWAVAUATUSH
+H9CP
+[]A\A]A^A_
+KH~5
+[]A\A]A^A_
+AUATI
+[]A\A]
+]A\A]
+AUATA
+t=E1
+[]A\A]
+]A\A]
+ATUI
+[]A\
+D$(1
+D$(dH3
+D$(1
+D$(dH3
+D$H1
+|$ H
+t$0H
+L$HdH3
+AVAUI
+ATUI
+D$81
+*<1w
+d$(L
+l$0H
+L$8dH3
+@[]A\A]A^
+/t?H
+AUATI
+=/s,
+[]A\A]
+[]A\A]
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVAUATI
+t$@L
+T$ H
+|$@1
+[]A\A]A^A_
+D$ I
+D$(I
+D$0A
+<-u(H
+ATUA
+D$x1
+L$XH
+D$`H
+D$hH
+T$ 1
+L$xdH3
+[]A\
+t[US1
+AWAVAUATUSH
+l$PL
+D@0H
+[]A\A]A^A_
+AVAUA
+ATUI
+D$H1
+T$HdH3
+P[]A\A]A^
+T$01
+0u6H
+AWAVAUATI
+D$h1
+T$ H
+T$ H
+T$hdH3
+x[]A\A]A^A_
+|$0H
+T$P1
+T$8H
+t$@D
+H;D$8t_L
+AWAVAUATUSH
+|$0M
+|$01
+[]A\A]A^A_
+t1Hc
+/u	H9
+AWAVAUATUSH
+ti</teA
+[]A\A]A^A_
+]A\A]A^A_
+AWAVI
+AUATI
+vCHc
+[]A\A]A^A_
+[]A\A]A^A_
+D$H1
+T$ 1
+|$ 1
+L$HdH3
+ATUI
+A;\$
+ATUI
+tH[]A\
+[]A\
+AUATI
+[]A\A]
+AVAU1
+ATUA
+]A\A]A^
+AWAVI
+AUATI
+\$hH
+ZYt-H
+[]A\A]A^A_
+t$(L
+D$81
+Hc79w
+AWAVI
+AUAT
+[]A\A]A^A_
+AWAVAUATI
+Lc+L
+[]A\A]A^A_
+A\A]A^A_
+ATUH
+AUATUSH
+[]A\A]
+[]A\A]
+AUATUSH
+D$X1
+T$XdH3
+h[]A\A]
+t$ H
+x( u
+xQ u
+	t6H
+L$(H
+t$PH
+|$0H
+D$(1
+\$(dH3
+AVAUATL
+g0USH
+]A\A]A^
+t6Hc{
+-sq,
+]A\A]A^
+AWAVAUATI
+T$0H
+D$H%
+[]A\A]A^A_
+ATUStWI
+[]A\
+[]A\A]A^
+ATUI
+t4Hc
+dH34%(
+ []A\
+AWAVAUATUSH
+t$PH
+|$`L
+|$0Mc
+|$0L
+|$0L
+t$`H
+t$@H
+T$,H
+|$@H
+D$0H
+D$@L
+d$8B
+D$PH
+D$`L
+l$XH
+[]A\A]A^A_
+|$@H
+T$,H
+t$PH
+D$0H
+T$8H
+D$8H
+D$8H
+\$8H
+D$@H
+AUATUSH
+[]A\A]
+[]A\A]
+refs/bisH
+D$0A
+D$8ect/M
+AWAVAUATI
+[]A\A]A^A_
+AWAVAUATI
+[]A\A]A^A_
+AWAVAUATUSH
+D$H1
+L$HdH3
+X[]A\A]A^A_
+A:T$
+d$ A
+t$01
+D$0I
+D$8I
+D$@A
+tNHc-
+AWAVAUATUSH
+[]A\A]A^A_
+@0refsH
+~\AUATI
+$}+I
+[]A\A]
+AWAVAUATUSH
+A9.~(I
+[]A\A]A^A_
+[]A\A]A^A_
+AUAT
+[]A\A]
+AWAVAUATUSH
+D$ Hc
+8[]A\A]A^A_
+|$(H
+T$(H
+AWAVAUATUSH
+D$(1
+t$ H
+t$ H
+t$ L
+t$ L
+t$ L
+t$ H
+|$ L
+T$ L
+L$(dH3
+8[]A\A]A^A_
+L$ L
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+AUATI
+D$(1
+L$(dH3
+8[]A\A]
+AWAVA
+AUATI
+|$@L
+D$PH
+T$`H
+D$x%
+D$0H
+D$x%
+[]A\A]A^A_
+|$01
+D$ H
+D$(H
+t$ H
+L$(H
+D$0H
+T$0H
+D$0H
+D$0H
+|$@L
+AWAVM
+AUATA
+T$8L
+T$,A
+T$ t
+D$ I
+t$ H
+L$LH
+D$pH
+D$LA
+t$81
+D$PL
+D$ 1
+t$`1
+|$`A
+dH34%(
+[]A\A]A^A_
+t$pM
+D$PH
+D$pH
+D$PH
+|$`D
+D$pH
+D$01
+t$ H
+L$LH
+t$,I
+t$81
+t$8L
+ATUI
+D$(1
+}0H9
+L$(dH3
+0[]A\
+[]E1
+ATUI
+[]A\E1
+AVAUI
+ATUH
+[]A\A]A^
+ATUI
+[]A\E1
+AVAUATUSH
+ []A\A]A^
+AWAVAUATI
+[]A\A]A^A_
+dH34%(
+AWAVAUATI
+D$81
+t$ H
+\$8dH3
+H[]A\A]A^A_
+|$01
+uSD;d$
+T$0H
+T$0H
+AWAVM
+AUATI
+=W;,
+D$X1
+T$XdH3
+h[]A\A]A^A_
+L$ E1
+AWAVAUATI
+T$`H
+D$x%
+l$ 1
+[]A\A]A^A_
+|$@H
+D$PA
+T$0H
+l$ E1
+T$0L
+|$@L
+T$0H
+L$0L
+AWAVAUATI
+t$0L
+t$PL
+[]A\A]A^A_
+|$p1
+t$pIc
+D;<$u]
+T$PH
+t$0E1
+AWAVAUATUSH
+D$0L
+d$@A
+t7L9
+tvL9
+t$ L
+|$ 1
+|$ 1
+D$0H
+[]A\A]A^A_
+AVAUI
+ATUH
+ []A\A]A^
+AWAVAUATUSH
+\$x1
+|$PI
+|$PL
+t$XH
+|$PL
+|$P1
+\$xdH3
+[]A\A]A^A_
+\$ H
+D$(I
+T$PH
+ tvH
+t$ L
+T$@I
+|$0M
+d$0L
+t$ I
+l$ I
+|$PL
+t$XH
+|$PL
+D$8L
+l$0H
+D$8H
+D$0I9
+AUATUSH
+D$81
+L$ E1
+L$8dH3
+H[]A\A]
+t$ H
+</t.
+$</t
+w:L9
+AWAVAUATUSH
+D$81
+\$8dH3
+H[]A\A]A^A_
+AWAVM
+AUATA
+\$`H
+L$ H
+D$hL
+T$`H
+T$pL
+|$pA
+[]A\A]A^A_
+T$pL
+|$pA
+(t0I
+T$0H
+AVAUI
+ATUA
+t&D;"u
+[]A\A]A^
+AVAUATUSH
+ []A\A]A^
+AWAVAUATUSH
+D$X1
+|$PH
+L$XdH3
+h[]A\A]A^A_
+D$0A
+|$T1
+D$$A
+|$ 1
+|$0A
+|$ A
+D$X1
+D$@	
+T$XdH3
+AVAUATUSH
+ []A\A]A^
+AUAT
+D$X1
+L$H!
+T$XdH3
+h[]A\A]
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+ATUI
+[]A\
+ATUSH
+tR</t
+[]A\
+[]A\
+[]A\
+AVAUATUSH
+9/tLH
+[]A\A]A^
+]A\A]A^
+ATUS
+[]A\
+ATUI
+D$81
+|$ H
+t$01
+D$0H
+|$ H
+\$8dH3
+@[]A\
+ATUH
+ATUI
+ []A\
+AVAUATUH
+[]A\A]A^
+~%E1
+T$0H
+L;t$0tMH
+t#E1
+/t6H
+dH34%(
+AUATI
+[]A\A]
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+|$ 1
+/tNA
+H;D$@
+D$@H
+H;-3
+ATUSH
+[]A\
+ATUI
+[]A\
+[]A\
+I@H9O@
+ATUS
+s 9p s	H
+{ 9x s	H
+-70,
+AVAUM
+ATUH
+pIc1
+D$h1
+D$hdH3
+p[]A\A]A^
+AWAVI
+AUATA
+|$ A
+[]A\A]A^A_
+O0E1
+ATUI
+[]A\
+T$ H
+D$8%
+T$PH
+[]A\
+AUATI
+[]A\A]
+AUATUSH
+[]A\A]
+AWAVM
+AUATA
+t<H9
+[]A\A]A^A_
+[]A\A]A^A_
+AUATUSH
+[]A\A]
+ATUH
+-&},
+H;-a$,
+[]A\
+AWAVI
+AUATI
+D$(%
+D$@D
+D$hH
+C@w[H
+[]A\A]A^A_
+AWAVAUATUSH
+t$ dH
+D$x1
+|$0H
+D$0H
+T$8H
+D$8H
+D$8H
+l$8L
+T$0H
+T$@H
+l$8H
+|$0H
+D$8H
+t$@L
+t$@H
+D$PH
+D$PA
+LcT$
+L$ H
+|$ )
+T$PJ
+D$XA
+|$(1
+D$xdH3
+[]A\A]A^A_
+T$ H
+t$@H
+=Rt,
+ATUH
+[]A\
+|$ Hc
+|$ H
+t$ H
+AVAUA
+ATUH
+l$0H
+[]A\A]A^
+AWAVAUATUSH
+D$ H
+|$0H
+|$@H
+D$pJ
+D$@H
+|$PH
+D$PH
+T$XH
+D$XH
+D$XH
+|$PH
+|$`H
+\$`H
+t$`H
+D9d$x
+|$p1
+[]A\A]A^A_
+t$$H
+/D9d$x
+D9d$x
+AWAV
+AUATUSH
+([]A\A]A^A_
+St;H
+[]A\
+AUATUSH
+[]A\A]
+[]A\A]
+ATUA
+AUATUSH
+t-f.
+[]A\A]
+AWAVAUATI
+\$0H
+tOcL
+[]A\A]A^A_
+u'H9
+ATUH
+oaSI
+[]A\
+AVAU
+ATUI
+]A\A]A^
+ATUSH
+J D9H H
+Q D9R v
+D$(%
+D$@H
+<$PACK
+[]A\
+E@I9@@
+H;D$@
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVI
+AUATI
+l$ 1
+[]A\A]A^A_
+AVAUI
+ATUI
+t$0H
+[]A\A]A^
+5"Z,
+?w&H
+AVAUATUH
+|$PdH
+[]A\A]A^
+D$H1
+L$HdH3
+AWAV
+AUATI
+[]A\A]A^A_
+t?9s(v2
+W H9
+AWAVAUATUSH
+[]A\A]A^A_
+@(PAT1
+[]A\A]A^A_
+AUATA
+[]A\A]
+[]A\A]
+AUATUSH
+Z0E1
+[]A\A]
+[]A\A]
+[]A\
+AVAUI
+ATUI
+D$(1
+D$ I
+L$(dH3
+0[]A\A]A^
+H;s u
+D$ L
+|$ L
+AUATI
+[]A\A]
+AWAVI
+AUATI
+T$0H
+L$8H
+D$(I
+D$pH
+L$XH
+T$XH
+L$`L
+t$pH9t$
+T$XA
+T$`L
+L$XI
+H9H u
+D$`H
+t$LH)
+t$pL
+D$`E1
+D$ L
+D$LH
+D$$H
+H+U(M
+M+e(I
+HcD$ 
+T$XL
+t$PL
+t$hL
+D$`L
+|$`M
+L$(H
+T$hH
+t$LH
+HcD$ H
+D$`H
+D$LH
+D$8H
+D$PH
+t$pH9
+dH34%(
+[]A\A]A^A_
+M+e(I
+L9%F
+T$(H
+L$(L
+t$XH
+HcD$ H
+D$PH
+L$`H
+T$XL
+D$`H
+D$(1
+T$(dH3
+tDUSH
+D$X1
+T$XdH3
+AWAVI
+AUATI
+D$01
+L$(H
+]L;l$
+L;l$
+dH3<%(
+[]A\A]A^A_
+D$0H
+AWAVI
+AUATUS
+dH34%(
+[]A\A]A^A_
+l$,t
+L$8H
+T$@H
+t$0H
+T$8H
+D$@H
+L$0D
+D$0A
+D$0H
+t$8H
+T$8H
+D$`L
+T$8L
+t$@H
+t$8L
+T$@A
+T$`H
+t$0M
+D$0H
+t$8L
+H;x 
+D$@H
+T$`H
+t$0M
+T$`H
+t$0L
+t$01
+AUATI
+t [H
+]A\A]A^
+D$01
+T$aH
+AVAUI
+ATU1
+D$(1
+H;D$
+H;D$
+L$(dH3
+0[]A\A]A^
+D$ A
+ATUH
+uY[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+|$0H
+HcD$
+|$01
+=Tp+
+=2p+
+t$ H
+D$ H
+D$81
+T$8dH3
+ATUI
+D$81
+L$8dH3
+@[]A\
+AWAVI
+AUATE
+L$0H
+[]A\A]A^A_
+L$0L
+D$0 
+|$0A
+D$`1
+|$0H
+D$`1
+AWAVI
+AUATE
+[]A\A]A^A_
+AUATI
+D$81
+L$8dH3
+H[]A\A]
+D$(1
+T$(dH3
+D$(1
+T$(dH3
+AVAUA
+ATUI
+D$81
+L$8dH3
+@[]A\A]A^
+fffffff
+AWAVI
+AUATI
+D$h1
+_0H;
+t$(H
+|$0L
+T$(I
+t$0D
+L$hdH3
+x[]A\A]A^A_
+t$(H
+|$0L
+D$@L
+AUATA
+D$h1
+L$hdH3
+x[]A\A]
+t$(L
+t$(L
+|$0L
+D$@L
+;PACK
+AWAVE1
+AUATI
+D$x1
+L$xdH3
+[]A\A]A^A_
+t$0H
+AUATI
+D$(1
+L$(dH3
+[]A\A]
+ATUH
+ []A\
+AWAVAUATI
+;](sN
+[]A\A]A^A_
+[]A\A]A^A_
+xxxxxxxxE1
+AWAVAUATA
+[]A\A]A^A_
+[]A\A]A^A_
+ATUI
+ u}1
+[]A\
+D$$[]
+D$$A\
+D$$]A\
+[]A\
+[]A\
+AWAVI
+AUATI
+2@81t
+[]A\A]A^A_
+ATUH
+AVAUATUH
+D$h1
+|$ E1
+L$hdH3
+p[]A\A]A^
+!u	H
+AWAVAUATUSH
+D$X1
+|$0H
+T$2I
+T$:I
+T$BI
+T$JA
+T$RA
+D$XdH3
+h[]A\A]A^A_
+ATUSH
+D$x1
+95>N+
+T$0H
+t$PH
+t$0H
+L$xdH3
+[]A\
+$`3B
+$p:B
+$@3B
+$ 3B
+AWAVM
+AUATLc
+USD)
+([]A\A]A^A_
+AUATUSH
+D$81
+L9d$
+T$ H
+t$(L
+L$8dH3
+H[]A\A]
+AUATI
+D$x1
+L$PH
+t$PH
+D$$ L
+t$0H
+L$xdH3
+[]A\A]
+ATUI
+ []A\
+AUATA
+[]A\A]
+[]A\A]
+AWAVLc
+AUATM
+D$x1
+T$`H
+t$xdH34%(
+[]A\A]A^A_
+;}u/H9
+L$(L
+T$0Lc
+D$,L
+D$0PAR
+t$,H
+t$ H
+|$0H
+T$0I
+D$0L
+T$`H
+T$0I
+T$0L
+|$8(L
+L$(L
+D$PB
+D$XN
+D$P:
+L$(L
+L$(H
+D$(H
+|$@L
+AWAVI
+AUATA
+dH34%(
+[]A\A]A^A_
+9A;o<uv
+d$ )
+\$(H
+E9|$<u
+|$XH
+|$0H
+|$0H
+T$8H
+S<H;T$8
+\$(H
+L$LH
+|$PL
+D$PH
+D$XH
+|$PL
+L$0H
+T$pH
+|$PH
+AWAT
+T$0H
+l$@H
+K8VI
+AWAVAUATA
+t-~KA9
+[]A\A]A^A_
+([]A\A]A^A_
+{t[H
+{u:I9
+([]A\A]
+ATUI
+[]A\
+-t)H
+AVAUI
+D$81
+d$ H
+L$8dH3
+@[]A\A]A^
+=e1+
+(H;W0vFH
+ATUH
+AUAT1
+[]A\A]H
+ATUH
+[]A\
+AVAUI
+ATUSH
+dH34%(
+ []A\A]A^
+=I,+
+Su3H
+|$ H
+|$ H
+AWAVE1
+AUATA
+D$81
+twD9
+D$ H
+T$ 1
+t D98~
+^0f.
+L$8dH3
+H[]A\A]A^A_
+H;D$
+AUATI
+([]A\A]
+H;D$
+D$81
+D$8dH3
+H;D$
+AUATI
+~oE1
+HcE H
+[]A\A]
+AVAUI
+A9F 
+n ]A\A]A^
+AWAVAUATUSH
+D$8H
+D$(E
+T$$E
+L$$H
+\$(I
+A9@ w
+\$P1
+d$$E
+D$$H
+L$(L
+D$ H
+L$ H
+t$@L
+D$ 9A
+D$hH
+t$8L
+T$X1
+9\$Xw
+[]A\A]A^A_
+D$ 1
+|$0H
+\$ E
+L$ I
+T$ E
+u+H9
+E;l$ }<E9
+D$(H
+|$0A
+E;l$ |
+L$ I
+t$HH
+|$0H
+}+D;,$H
+\$P1
+AUATI
+USHc
+D$@H
+([]A\A]
+T$PI
+t$XI
+l$@L
+T$PA
+AVAUATUSHc
+[]A\A]A^
+/tvH
+tm0H
+AUATI
+[]A\A]
+AUATI
+[]A\A]
+HcT$
+AVAUATH
+<6L9
+[]A\A]A^A_
+ATUI
+[]A\
+AWAVAUATUSH
+lm0H
+L9t$
+Tm0H
+([]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+ATUI
+[]A\
+ATUA
+[]A\
+[]A\
+ATUI
+ []A\
+T$0H
+Do nine men interpret Nine men I nod
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+T$PH
+L$XL
+D$`L
+L$ht=
+)D$p
+D$81
+T$ H
+D$$0
+D$(H
+D$@H
+D$8dH3
+T$ H
+D$$0
+D$(H
+D$@H
+[]A\A]A^
+AVAUI
+ATUI
+]A\A]A^
+]A\A]A^
+]A\A]A^
+AUATA
+[]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+AVAUATU
+[]A\A]A^
+[]L)
+A\A]A^
+[]A\A]A^
+AUATI
+/vwH
+[]A\A]
+[]A\A]
+[]A\A]
+8"uVH
+[]A\
+[]A\
+AUATA
+[]A\A]
+]A\A]
+AUATA
+dH3<%(
+[]A\A]
+ATU1
+[]A\
+t_ATUI
+<&tY
+t#<"u
+[]A\
+<<t4<>u
+AWAVA
+AUATI
+~uVf
+[]A\A]A^A_
+AVAUATUSH
+/t3H
+[]A\A]A^
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+ATUSH
+D$(1
+D$(dH3
+0[]A\
+T$ H)
+ATUH
+[]A\
+AWAVAUATI
+u3L9
+([]A\A]A^A_
+~0dH
+[]A\
+AWAVAUATUSH
+D$(1
+<&Hc
+L$(dH3
+8[]A\A]A^A_
+D$ H
++D$ A
+D$ 1
++D$ 
+AWAVE1
+AUATUSH
+([]A\A]A^A_
+AVAUI
+USHc
+||I9
+[]A\A]A^
+AWAVI
+AUATI
+l$ dH
+D$h1
+|$ H
+D$HA
+L$hdH3
+x[]A\A]A^A_
+AWAVA
+AUATH
+[]A\A]A^A_
+t)H=
+AWAV
+AUATA
+x+t1A
+[]A\A]A^A_
+%<S+
+AVAUATUI
+sqLc
+[]A\A]A^
+AWAV
+AUATI
+[]A\A]A^A_
+tTAVI
+A9l$
+[]A\A]A^
+]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+AUATUSH
+tTE1
+t%E1
+[]A\A]
+AUATUSH
+tTE1
+[]A\A]
+A9\$
+[]A\
+AVAU
+ATUSL
+A9l$
+$[]A\A]A^
+]A\A]A^
+uIHc
+AWAVAUATUSH
+<$tgA
+[]A\A]A^A_
+AWAVAUATUSH
+$t\A
+[]A\A]A^A_
+AWAVAUATE1
+D$81
+|$ L
+|$ B
+D$ I
+L$8dH3
+H[]A\A]A^A_
+>tHH9
+ATUSH
+ []A\
+AUATI
+[]A\A]
+AUATI
+[]A\A]
+ATUH
+[]A\
+=;@+
+ATUS
+[]A\
+ATUS
+[]A\
+AUAT
+[]A\A]
+[]A\A]
+/tmL
+$@MJ
+AUATI
+[]A\A]
+ATUH
+D$X1
+t$XdH34%(
+`[]A\
+t$ H
+D$ 1
+ATUI
+[]A\
+D$`L
+L$ht=
+)D$p
+D$81
+D$(H
+D$  
+D$$0
+D$0H
+D$8dH3
+T$ H
+D$`L
+L$ht=
+)D$p
+D$81
+D$(H
+D$  
+D$$0
+D$0H
+D$8dH3
+T$ H
+D$`L
+L$ht=
+)D$p
+D$81
+D$(H
+D$  
+D$$0
+D$0H
+D$8dH3
+T$ H
+ATUSH
+[]A\
+;HiD$
+u"Hi
+;HiD$
+AWAVAUATE
+([]A\A]A^A_
+[]A\A]A^A_
+ATUSH
+ []A\
+AWAVM
+AUATI
+D$x1
+|$0A
+HcD$
+L$ H
+D$ %
+T$`H
+D$`H
+D$pH
+|$`H
+H9T$
+L$xdH3
+[]A\A]A^A_
+AVAUHc
+ATUM
+t$PH
+[]A\A]A^
+ATUS
+[]A\
+AVAUHc
+ATUI
+]A\A]A^
+.[]A\
+tPAVAUE
+ATUI
+u8D)
+<,Hc
+[]A\A]A^
+[]A\A]A^
+AWAVI
+AUATUSH
+T$lD
+D$ A)
+x[]A\A]A^A_
+D$0H
+t$hx
+HcL$l
+D$LHc
+D$PH
+D$XIc
+D$`H
+T$HH
+\$(D
+L$$H
+L$$L
+\$(LcT$Hu#E
+t$@L
+(H;l$
+T$ I
+(H;l$
+D$LH
+x[]A\A]A^A_
+T$HH
+\$(D
+L$$H
+L$$L
+\$(D
+d$`D)
+D$hL
+T$HD
+L$$9
+L$$D
+L$(D
+;L$h
+D$$%
+[]A\A]A^A_
+T$PL
+|$XH
+T$$H
+T$PL
+Hc|$l
+D$lD
+AUATA
+O dH
+D$(1
+t!H;P
+D$ tEH
+D$(dH3
+8[]A\A]
+t+Hc
+/tAH
+ATUI
+[]A\
+AVAUI
+ATUI
+L$@H
+D$X1
+\$XdH3
+`[]A\A]A^
+D$@H
+D$HI
+D$PA
+AWAVI
+AUATH
+uR9\$
+u29l$(tDHc
+T$ H
+[]A\A]A^A_
+[]A\A]A^A_
+T$ H
+[]A\A]A^A_
+AWAVA
+AUATM
+T$(H
+|$@H
+|$PA
+|$PH
+|$`L
+T$8H
+t$4H
+L+L$PI
+D$8H
+|$@H
+D$8H
+T$8H
+D$ H
+D@0H
+D$ H
+fffffff
+D$ L
+T$8I
+|$`L
+t$PH
+T$HH
+[]A\A]A^A_
+|$@H
+H+T$PH
+|$@1
+L$(E1
+l$HI
+D$8H
+|$@L
+L$(E1
+L$(H
+AVAUE1
+ATUI
+[]A\A]A^
+]A\A]A^
+AWAVAUATUHc
+T$(dH
+D$(H
+\$(H
+|$pH
+|$PHcs 
+HcC H
+D$pHcS H
+D$hH
+D$8H
+D$@H
+L$0H
+D$`H
+Eleele
+|$8I
+d$ H
+d$ Mc
+|$@H
+D$(H
+t$P1
+I9D$
+T$(H
+D$(H
+[]A\A]A^A_
+D$hH
+D$pH
+AUATI
+[]A\A]
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+t$Hc
+L< u
+D4 %
+D$ H
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+tA=. 
+A;8s
+ veA
+AVAUA
+ATUSH
+tHMc
+[]A\A]A^
+[]A\A]A^
+AWAVI
+AUATUS
+t$(D
+D;4$~	M
+d$(L
+D;4$A
+8[]A\A]A^A_
+|$(1
+t$(A
+D$(H
+H9D$ 
+L$ H
+HcT$
+AVAUE
+ATUA
+[]A\A]A^
+AWAVA
+AUATUSH
+t$H1
+d$(I
+|$01
+\$@L
+|$(D
+|$(L
+|$(A
+|$(1
+T$(H
+|$(D
+D$0H
+H+T$@H
+|$0H
+t$0H
+t$8H
+L$0H
+t$@H
+T$8H
+D$@H
+D$HdH3
+X[]A\A]A^A_
+|$(L
+T$PH
+L$XL
+D$`L
+L$ht=
+)D$p
+D$81
+T$ H
+D$(H
+D$@H
+D$$0
+L$8dH3
+AVAUI
+ATUI
+D$(1
+\$ I
+lC H
+t$ L
+|$(dH3<%(
+0[]A\A]A^
+AWAVI
+AUATH
+t6Ic
+[]A\A]A^A_
+AUATI
+([]A\A]
+tKH)
+ATU1
+Sv(L
+[]A\
+AVAUI
+ATUH
+t-[]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+AWAVI
+AUATUSH
+.t	@
+([]A\A]A^A_
+[]A\A]A^A_
+t	</u
+t)H9
+AUATA
+[]A\A]
+[]A\A]
+AVAUI
+ATUI
+[]A\A]A^
+]A\A]A^
+ATUH
+[]A\
+ATUH
+t{[]A\
+ATUE1
+D$ H
+P[]A\
+AUATA
+[]A\A]
+AUATA
+[]A\A]
+AUATUA
+]A\A]A^
+taAUATA
+[]A\A]
+[]A\A]
+AUATA
+[]A\A]
+[]A\A]
+[]A\A]
+AVAUI
+ATUA
+H;D$
+ []A\A]A^
+tgAVA
+AUE1
+]A\A]A^
+]A\A]A^
++tI<wt
+<au5
+[]A\
+AUATH
+[]A\A]
+ATUH
+[]A\
+AWAVAUATLc
+D$(1
+H3L$
+L;d$
+L$(dH3
+8[]A\A]A^A_
+AUATI
+ZYv#H
+[]A\A]
+[]A\A]
+AUAT
+[]A\A]
+ATUH
+t>E1
+[]A\
+ATUA
+[]A\
+ATUA
+[]A\
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+x!Hc
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+ATUI
+[]A\
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AWAVHc
+AUATUSH
+T$$L
+D$8L
+t$,1
+D$$A
+D$ A
+D$(tYH
+D$(Ic
+D$$@
+t$,A
+HcT$ H
+|$8H
+HcT$
+|$,E9
+[]A\A]A^A_
+D$$@
+t$,E1
+t$,1
+HcD$,t3
+AWAVAUATUSH
+[]A\A]A^A_
+dH34%(
+AWAVI
+AUATI
+Lcd$
+([]A\A]A^A_
+?Mcf
+/<	toI
+t'Hc
+L)GpH)GxH
+FKpH
+FCxE1
+FWpH
+FWpH
+FWpH
+AUATA
+au)H
+[]A\A]
+FSpH
+FWpH
+AUATA
+au)H
+[]A\A]
+AWAVAUATUSH
+D$H1
+\$ A
+\$$E
+|$$E
+\$(A
+T$,A
+V0D1
+L$8A
+D$ E
+t$<E
+34$D3D$<
+D3D$(
+3,$3\$
+3l$,D
+3\$0
+3D$(A
+D$ D
+\$(D3\$0
+\$(F
+D3\$ A
+\$,G
+\$8D3\$0A
+D3\$$D3T$<A
+\$0G
+D3T$(A1
+T$4G
+T$8D3
+D3T$,A
+T$8G
+t$0E
+T$<D3T$
+T$<F
+D3T$ A1
+D3T$4D3L$(A
+D3T$$D3T$8A
+|$<A
+D3D$,A1
+3L$4A
+3T$ 3D$$3T$8
+D$ 3D$(A
+D$ A
+D$$3D$,E
+D$$A
+D$(E
+D$,3D$4A
+3D$ 
+D3t$8D1
+3L$(!
+D3t$$
+L$4A
+T$8D
+D3T$
+D3T$,
+D3|$
+D3|$0A!
+D3\$ D
+T$8A
+|$<D
+|$8A
+D3d$$
+D3l$(
+D3l$<3l$
+3l$,D
+3,$A!
+D3T$
+3\$0A1
+D3T$
+D3T$ 
+D3T$
+D3L$$D3L$<A
+D3L$
+D$ 3D$(3
+D$ A
+D$$3D$,3D$
+D$(3D$03D$
+3D$ 
+T$0A
+D$$A
+T$<A
+T$4A
+l$,A
+\$4A1
+T$8A
+t$8D
+T$<3T$
+$3T$
+3T$ D
+3T$ D
+T$ A
+$3T$
+T$ A
+D3d$
+D$$A
+3l$ 
+l$,E
+3\$$D3\$
+\$0A
+D34$D3\$(A
+D3T$,D1
+\$4G
+T$8E
+D3l$
+3D$0D
+D$HdH3
+X[]A\A]A^A_
+AVAUI
+ATUI
+[]A\A]A^
+?v6L
+AUATI
+[]A\A]
+AUATUSH
+[]A\A]
+=qB*
+-]B*
+/tNH
+5&A*
+D$X%
+|$ 1
+t$ H
+|$ H
+t$(H
+L$ H
+T$(H
+t$0H
+D$0H
+5x@*
+5)@*
+:/tDH
+t$HH
+T$PH
+L$XL
+D$`L
+L$ht=
+)D$p
+D$81
+T$ H
+D$(H
+D$@H
+D$$0
+D$8dH3
+AUATUSH
+]A\A]A^
+=yI*
+=FI*
+T$PH
+L$XL
+D$`L
+L$ht=
+)D$p
+D$81
+T$ H
+D$(H
+D$@H
+D$$0
+D$8dH3
+D$`H
+t$(H
+T$0H
+L$8L
+D$@H
+D$ L
+A9\$
+w!H9
+AVAUATI
+D$ E1
+A9\$
+]A\A]A^
+AUAT
+Q HcR
+q Hc
+7D;F
+[]A\A]
+AWAVAUATLc
+tIMc
+t89k
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVA
+AUAT
+txH9
+[]A\A]A^A_
+<!tyD
+=/@*
+AWAVAUATA
+tq<#tm
+([]A\A]A^A_
+^ E1
+([]A\A]A^A_
+[]A\A]A^A_
+]A\A]A^A_
+=^<*
+AWAVA
+AUAT
+[]A\A]A^A_
+AWAV
+AUATI
+[]A\A]A^A_
+AWAVAUATUSH
+L$H1
+l$ L
+|!Hc
+<//t
+Lct$
+D$ Hc
+t$(f
+D$HdH3
+X[]A\A]A^A_
+T$8H
+D$8H
+D$8H
+|$@1
+D$0H
+D$@H
+|$0I
+t$8B
+|$0H
+D$0H
+T$8H
+L$ E
+|$()
+5W#*
+t1f.
+ATUH
+u=A9
+ATUSH
+D$81
+D$8dH3
+@[]A\
+AWAVAUATUSH
+T$ 1
+L$,L
+D$HD
+D$ H
+d$0E1
+|$,H
+|$P1
+|$@H
+t$@1
+[]A\A]A^A_
+|$(H
+|$(1
+|$@H
+T$HD
+AWAVI
+qdUSH
+E E1
+|%Hc
+[]A\A]A^A_
+AWAVHc
+AUATI
+]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATA
+[]A\A]A^A_
+C Mc
+|>Hc
+[]A\A]A^A_
+K Lc
+tzATUI
+tZf.
+[]A\
+t#SH
+AUATUSH
+D$ ~<1
+D$ H
+A9l$
+[]A\A]
+AVAUATUH
+]A\A]A^
+[]A\A]A^
+AWAVE
+AUATUSH
+L$\t
+D;p<H
+D$`Mc
+\$ H
+$D9p<H
+XX~@H
+t$ 1
+}XE9
+t$81
+e<D9d$8L
+ID$ 
+L$0t	@
+L$XE
+D$\H
+t$hH
+|$pE
+[]A\A]A^A_
+D+d$8
+d$<1
+T$TL
+|$@L
+d$<L
+l$<L
+|$@L
+T$HL
+t$hH
+D$`H
+D$`H
+AWAVAUATUSH
+\$81
+D$ t+
+D$ H
+\$8dH3
+H[]A\A]A^A_
+D$0L
+l$(A
+L;l$(I
+D$ H
+D$ H
+l$0H
+D$ H
+l$0A
+E E1
+|$0L
+t$ H
+D$0D;`
+T$ H
+AUATUSH
+D$H1
+|$ H
+|$ H
+D$HdH3
+X[]A\A]
+xUATU1
+AWAVAUATUS
+L$81
+t$$H
+D$ H
+D$ H
+D$ H
+D$,P
+T$0H
+t$ H
+|$(L
+t$8dH34%(
+H[]A\A]A^A_
+AWAVAUATI
+[]A\A]A^A_
+ATUI
+[]A\H
+R(H9Q(r
+V(H9W(
+AUATI
+[]A\A]
+ATUSH
+ []A\
+H;D$
+AUAT1
+[]A\A]H
+AUAT1
+[]A\A]H
+t$ H
+AUAT1
+[]A\A]
+ATUI
+[]A\
+[]A\
+[]A\
+=Pl*
+[]A\
+AWAVAUATI
+t8Hc
+[]A\A]A^A_
+$<#t
+(~yA
+|$( uUM
+|$)A
+ u(D
+[]A\A]A^A_
+tMHc
+AWAVAUATUSH
+L$81
+C/H9
+C/H9
+E;t$
+D$	E1
+u1L9
+<$>I
+L$8dH3
+H[]A\A]A^A_
+t4H9
+AVAUL
+ATUA
+T$ H
+D$(1
+T$ tBD
+L$(dH3
+0[]A\A]A^
+T$ f
+~EAUATI
+[]A\A]
+5Jc*
+ATUSH
+[]A\
+O(H9J(s
+H9J(r
+ATUH
+D$81
+D$0H
+t6H9
+t$8dH34%(
+@[]A\
+AVAUI
+ATUA
+]A\A]A^
+AVAUATA
+T$0A
+T$0L
+T$0H
+[]A\A]A^A_
+AWAVHc
+AUATI
+\$H1
+D$ M
+L;d$ 
+T$(L
+\$HdH3
+X[]A\A]A^A_
+AWAVAUATI
+dH34%(
+([]A\A]A^A_
+ATUSH
+[]A\
+AUATUSH
+[]A\A]
+AVAUATUSH
+[]A\A]A^
+AUATUSH
+dH34%(
+[]A\A]
+AWAVAUATUSH
+t$ H
+D$(1
+l$ H
+> ty
+L$(dH3
+8[]A\A]A^A_
+AWAVAUATUSH
+t\E1
+[]A\A]A^A_
+[]A\A]A^A_
+T$ H
+D$81
+L$(H
+T$0I
+L$8dH3
+t1USH
+AWAVAUATUSH
+t$0H
+|$(dH
+D$X1
+|$0H
+D$ H
+D$8E1
+D$PH
+|$@H)
+\$8H
+t$ H
+L$XdH3
+h[]A\A]A^A_
+|$@H)
+t6USH
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVI
+AUATM
+D$h1
+|$ H
+|$ H
+|$ L
+|$ H
+D$ H
+T$(H
+D$(H
+D$(H
+|$ H
+T$(H
+D$ H
+T$(H
+|$ H
+D$(H
+D$(H
+t$@H
+|$ L
+d$PE1
+|$ Hc
+|$ L
+d$PA
+|$ Hc
+\$0H
+t$hdH34%(
+x[]A\A]A^A_
+\$0D
+D$(E1
+@tj1
+wTD9
+T$`H
+|$ H
+AWAVM
+AUATM
+D$(1
+|$pH
+D$ tuH
+t$ H
+PAWH
+L$(dH3
+8[]A\A]A^A_
+AUATUSH
+([]A\A]
+tXAUATI
+[]A\A]
+AWAVI
+AUATI
+<+ t 
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+D$``
+D$pL
+|$ A
+|$ A
+|$`L
+|$ A
+D$ H
+t$0H
+D$@H
+t$PH
+[]A\A]A^A_
+|$`L
+|$@H
+AWAVAUATUSH
+]A\A]A^A_
+[]A\A]A^A_
+tkI9
+s<L9
+AWAVAUATUSH
+|$81
+D$0H
+T$(L
+T$(H
++L$0
+vrHc
+l$09
+D$0H
+T$(H
+D$(H
+L+t$0
++D$(M9
+|$8dH3<%(
+H[]A\A]A^A_
+D$0H
+T$(H
++L$0
+l$0L
+D$0H
+T$(J
+D$0I9
+AWAVI
+AUAT
+t/Lcd$
+Hct$
+([]A\A]A^A_
+r dH
+|$@H
+|$ H
+D$HP
+D$XP
+D$0H
+l$pH
+[]A\
+8 tO
+AVAUATUS
+<$$I
+<$tR<:u
+<$t <
+]A\A]A^
+t;ATUSI
+$H)]
+AUATUSH
+[]A\A]
+5E.*
+>ltO
+[]A\
+ATUSH
+D$x1
+D$PH
+|$p1
+t$PH
+L$`L
+L$hH
+D$ p
+T$xdH3
+[]A\
+t$4H
+|$ 1
+AWAVI
+AUATH
+|$0D
+D$0H
+[]A\A]A^A_
+D$<E
+T$8t
+T$8u
+L$pH
+,$M)
+|$ A
+T$PH
+T$\9
+D$0H
+t,;T$T
+;L$d
+L$Tt
+T$\I
+AWAVAUATUSH
+([]A\A]A^A_
+[]A\A]A^A_
+H+D$
+AWAVAUATUSH
+D$H1
+T$0H
+D$<9D$4tK
+|$HdH3<%(
+X[]A\A]A^A_
+;D$Dr
+T$(L
+D$<9D$8t'A
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATI
+D$(1
+L$ H
+L$(dH3
+8[]A\A]A^A_
+AUATA
+([]A\A]
+AVAUA
+ATUI
+]A\A]A^
+tQH=
+AUAT
+IUSI
+[]A\A]
+]A\A]
+[]A\A]
+D$XH
+D$hH
+AVAUI
+ATUH
+[]A\A]A^
+xjH9
+ATUS
+[]A\
+AUATA
+[]A\A]
+AWAVH
+AUATI
+4$A)
+([]A\A]A^A_
+AUATA
+[]A\A]
+ATU1
+[]A\
+AUATUSH
+[]A\A]
+]A\A]
+xiHc
+tHLc
+$uLH
+AVAUM
+ATUA
+D$81
+D$ I
+D$(I
+T$8dH3
+@[]A\A]A^
+AWAVM
+AUATI
+t$8H
+L$8L
+L$0dH
+D$x1
+D$8D
+L$@H
+|$0H
+D$0E
+:u+1
+D$8A
+L$xdH3
+[]A\A]A^A_
+D$0E
+\$ L
+D$0L
+\$,L
+T$ D
+D$0L
+\$ L
+\$ uM
+\$ L
+\$ u
+AWAVAUATUSH
+t$0H
+|$0H
+t$@H
+D$XH
+D$`H
+D$hH
+D$pH
+t$,H
+|$@1
+[]A\A]A^A_
+T$,H
+|$@L
+t$,H
+d$,H
+\$PL
+|$@L
+|$@1
+D$,)D$T
+t$,L
+D$X1
+|$@1
+D$P+D$,
+D$PL
+ATUH
+ []A\
+ATUI
+D$H1
+ HcW
+\$HdH3
+P[]A\
+AWAVI
+AUATI
+D$h1
+|$0L
+L$hdH3
+x[]A\A]A^A_
+t$0H
+|$(H
+D$D#D$@#D$<#D$8#D$4
+|$@H
+L$(H
+D$0E1
+D$<E
+|$HH
+L$8H
+l$(I
+L$(H
+D$(1
+L$(dH3
+t-ATI
+A9\$8w
+[]A\
+t{ATUE1
+9k8w
+C@E1
+9k@w
+[]A\
+Q$H9
+B($A
+ATUI
+D$H1
+u`Hc
+L$HdH3
+P[]A\
+l$ Hc
+|$0L
+t[ATUHc
+[]A\
+t[USH
+AWAVAUATI
+D$H1
+t$0L
+kYE1
+D9k@w
+C8E1
+9k8v!H
+9k8w
+D$HdH3
+X[]A\A]A^A_
+ATUS
+[]A\
+AWAVAUATUSH
+l$YL
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAV1
+AUATUSHc
+[]A\A]A^A_
+5`++
+D-X</
+AWAVI
+AUATLc
+=|*+
+D-X</w
+Tacocat
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAV
+AUATI
+D$x1
+H;\$
+D$Pt
+H;\$
+I;F0H
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+tuE1
+D9c@I
+I;F0H
+L$xdH3
+[]A\A]A^A_
+D9c8v
+,>SH
+AVAUATI
+&[]A\A]A^
+]A\A]A^
+AWAVI
+AUATA
+[]A\A]A^A_
+/t=I
+D$8%
+AUATI
+[]A\A]1
+[]A\A]
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+L$,H
+t$@L
+D$XE
+t$@D
+D$8L
+T$0D
+\$ L
+T$0D
+9L$(
+D$TH
+D$ L
+T$HD
+L$8D
+T$ H
+D$TL
+T$HD
+L$8D
+9L$(
+D$ A
+HcD(
+|$()
+[]A\A]A^A_
+h[]A\A]A^A_
+D$8L
+T$0D
+\$ L
+T$0D
+L$8D
+\$PL
+T$HD
+9L$(
+D$PL
+T$8D
+\$0D
+L$ H
+T$XH
+D$PL
+T$8D
+\$0D
+L$ D
+\$0L
+T$8D
+AWAVM
+AUATI
+[]A\A]A^A_
+AWAVAUATUSH
+([]A\A]A^A_
+AVAUI
+ATUI
+;*t-H
+4$[]A\A]A^
+AWAVI
+AUATA
+L$$H
+T$ H
+D$(1
+tQLc|$
+D$(dH3
++u8H
+8[]A\A]A^A_
+AWAVI
+AUATA
+d$PM
+t$ H
+dH34%(
+[]A\A]A^A_
+?#ti1
+< td<\uX
+x^Lc
+tAE1
+t$ H
+T$ H
+ATU1
+HcK0
+s4Hc
+HcK0H
+AWAVI
+AUATE
+t%Hc
+[]A\A]A^A_
+t9E1
+D)t$@A
+D$@t
+t$@A
+AWAVIc
+ATL)
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVH
+G`AUATI
+x`Hc
+[]A\A]A^A_
+H9l$
+[]A\A]A^A_
+AWAVI
+AUATI
+o`dH
+tFIc]
+[]A\A]A^A_
+I;Wx
+D$ L
+GhIcF
+w`9l$
+GpLct$
+|$ H
+|$ H
+|$ 1
+L$@H
+D$dH
+D$lH
+|$ H
+|$ H
+|$ 1
+AVAUI
+ATUH
+[]A\A]A^
+[]A\A]A^
+AVAUATUI
+IcL$
+|$ H
+IcL$
+&[]A\A]A^
+]A\A]A^
+AWAVI
+AUATLc
+|$0D
+T$P1
+Et$@
+E|$@
+D$PI
+|$PM
+D$dL
+D$hM
+D$0H
+|$xH
+D$@L
+d$8M
+|$0H
+D$8H
+t$@H
+T$0H
+|$@H
+D$8H
+T$@H
+t$@H
+T$8A
+T$8H
+t$@L
+|$PM
+t$@H
+D$0L
+D$@L
+d$8L
+|$0H
+t$8H
+L$$L
+t$@H
+T$8I
+T$8E
+t$@H
+D$@D
+|$8H
+D;9u
+L$(L
+L$ H
+L$(u
+|$PM
+t$@H
+t$XL
+[]A\A]A^A_
+T$8H
+t$@L
+D$@D
+|$8L
+D$dHcD$`H
+L$`H
+T$8H
+t$@H
+D$0H
+t$@H
+T$8H
+D$8H
+T$8H
+T$0H
+D$8H
+T$@H
+|$pL
+|$0H
+AWAVI
+AUATI
+D$(1
+\$(dH3
+8[]A\A]A^A_
+ATUSH
+[]A\
+[]A\
+AWAVAUATI
+\$81
+T[0H
+Ic4$I
+Ict$
+AXAY
+\$8dH3
+H[]A\A]A^A_
+|$(H
+uxH9
+t$0E
+Lc|$
+|$ H
+t$(H
+|$0H
+AZA[tLD9
+L$01
+AUATH
+[]A\A]
+t;USH
+ATUI
+[]A\
+AWAVE1
+AUATL
+g0USI
+~p[]A\A]A^A_
+AWAVAUATUSH
+vxdH
+t$pI
+L$LH
+T$\H
+L$`H
+T$pH
+t$pHc
+Hc<$H
+t$pHc
+t$(H
+T$(H
+t$0H
+t$@H
+T$@H
+t$HH
+t$XH
+T$XH
+t$`H
+[]A\A]A^A_
+t$p1
+t$pHc
+AWAVAUATUSH
+D$H1
+$.L9
+D$uL
+L$LI
+t$$H
+L$HdH3
+X[]A\A]A^A_
+D$0H
+D$8H
+D;d$
+t$8H
+|$(H
+|$ H
+|$0H
+|$ H
+|$(H
+|$0H
+D$8H
+ATUSH
+[]A\
+[]A\
+w8uIL
+AUATI
+]A\A]
+C H	
+]A\A]
+AWAVAUATA
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVAUATI
+D$ I;E
+D$ L
+D$(H
+D$(H
+@t$I
+D$(H
+D$ I;E
+8[]A\A]A^A_
+t3SH
+H;N(rIH
+N H;N0
+F(H9F
+F(H9F
+F0H9F u
+AVAUI
+ATUI
+D$x1
+|$@L
+HcT$l
+L$hu
+HcT$l
+|$@Hc
+Icv,H
+Icv,
+t$@H
+HcL$(Hct$hH9
+T$XH
+D$@H34
+|$@H
+|$@1
+I9D$
+D$xdH3
+[]A\A]A^
+AVAUATUI
+D$x1
+|$@H
+HcT$l
+L$hu4
+Icu,L
+HcT$l
+t$@Hc
+Icu,H
+l$@I
+HcL$(Hct$hH9
+T$XH
+D$@H#4
+|$@L
+Icu,
+Icu,
+|$@H
+D$xdH3
+[]A\A]A^
+AVAUATUI
+D$x1
+|$@H
+Hct$,
+D$(f.
+HcT$l
+D$huY
+D$4I
+|$@Hc
+Icv,H
+Hct$,HcT$l
+l$tE
+t$@H
+l$@Hc
+Icu,L
+Icu,
+Icv,
+HcT$(HcL$hH9
+T$XH
+D$@H
+|$@L
+|$@H
+D$xdH3
+[]A\A]A^
+AVAUATUI
+D$x1
+|$@H
+HcT$l
+L$hu4
+Icu,L
+HcT$l
+t$@Hc
+Icu,H
+l$@I
+HcL$(Hct$hH9
+T$XH
+D$@H
+|$@L
+Icu,
+Icu,
+|$@1
+D$xdH3
+[]A\A]A^
+ATUA
+C H+
+[]A\
+AWAVAUATI
+E I+E
+[]A\A]A^A_
+AWAVAUATI
+[]A\A]A^A_
+HcO0HcW(H
+HcG,H9
+G4L)
+O(A)
+AWAVAUATUSH
+Hc_,
+Ic^,
+F(thN
+,;L9
+A3v4H
+Mcf(O
+<,L9
+[]A\A]A^A_
+W(Hc
+tAUSH
+U(Hc
+AWAVA
+AUATA
+[]A\A]A^A_
+AVAUI
+ATUI
+[]A\A]A^
+ATUH
+[]A\
+[]A\
+AUAT
+D$x1
+T$`H
+D$PH
+|$,H
+|$0I
+t$xdH34%(
+[]A\A]
+AWAVI
+AUAT
+\$0H
+D$8P
+D$HP
+t$d1
+t$`1
+[]A\A]A^A_
+ATUI
+L$ I
+D$81
+|$ H
+L$8dH3
+@[]A\
+AWAVAUATUSH
+|$(H
+D$ L
+d$(H
+H;\$
+t$(L
+l$ H
+d$(L
+4$E1
+4$E1
+L;l$
+E\$ H
+l$ H
+d$(1
+D$(H
+8[]A\A]A^A_
+\$ H
+|$(A
+[]A\A]A^A_
+ATUH
+D$(1
+L$(dH3
+0[]A\
+AWAVAUATUS
+|.X/u
+|.X/t
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\
+[]A\
+AUATI
+t\</u	
+[]A\A]
+AWAVI
+AUATI
+D$(1
+A;o<u
+t(Hc
+\$(dH3
+8[]A\A]A^A_
+AWAVA
+AUATI
+[]A\A]A^A_
+AVAUI
+ATUS
+A\A]A^
+4$[]A\
+ATUI
+[]A\
+[]A\
+[]A\
+ATUH
+D$(1
+T$ H
+T$ L
+L$(dH3
+0[]A\
+H;7u
+H97t
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+AUATI
+[]A\A]
+AWAVAUATUSH
+D9t$
+ D9t$
+([]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+AUATUSH
+D$x1
+|$`H
+`u.H
+t$xdH34%(
+[]A\A]
+AWAVAUATUSH
+L$(H
+D$,M
+|$P1
+L$HH
+t$@L
+T$HH
+|$PH
+t$PH
+t$@1
+t$@H
+L$HH
+T$8H
+T$HH
+D$<H
+|$PH
+t$(H
+|$ D
+|$,H
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+=7X)
+l$(M
+D$ I
+t$ 1
+D$0H
+t$(L
+d$ H
+\$81
+D$ H
+\$8L9
+T$0H
+t$(H
+AWAVAUATUSH
+tOcL
+D9l$
+t$ M
+L9$$u
+L9,$tXI
+D$0A
+[]A\A]A^A_
+$PACKdH
+AWAVA
+AUATM
+|$ H
+|$ L
+t$ H
+|$ I
+t$ H
+[]A\A]A^A_
+D$81
+L$8dH3
+AWAVA
+AUATI
+[]A\A]A^A_
+AWAVE1
+AUATL
+ryL9
+([]A\A]A^A_
+[]A\A]A^A_
+USx;H
+xrH9
+]A\A]A^
+$I)]
+[]A\A]A^
+ATUA
+ []A\
+AUATI
+]A\A]
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AWAVI
+AUATI
+D;l$
+upIc
+([]A\A]A^A_
+xGHc
+AUATI
+[]A\A]
+AWAV
+AUATUSH
+L$ H
+L$ u
+[]A\A]A^A_
+D$(1
+D$(dH3
+AWAVAUATA
+[]A\A]A^A_
+[]A\A]A^A_
+ATUI
+[]A\
+t>AUATI
+[]A\A]
+D+J 
+D+J@D
+[]A\A]
+[]A\A]
+AVAUA
+ATUH
+l$ H
+[]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+dH34%(
+AVAUI
+ATUH
+[]A\A]A^
+AUATLc
+[]A\A]
+AWAVI
+AUATA
+[]A\A]A^A_
+ATUH
+D$H1
+t$HdH34%(
+P[]A\
+H;T$
+|$0E1
+t$ H
+AVAUATUL
+6u!A
+[]A\A]A^
+FX9G
+ 9O 
+N 9O
+AVSH
+S0D	
+9@8:
+ [A^
+AWAVAUATUSH
+T$<H
+q8H9
+D$0D
+D$@DIRC
+D$HH
+t$$H
+T$PA
+kXw(H
+|$8H
+LcD$
+|$8%
+t$$H
+|$(D
+L;|$
+D$0H
+\$pH
+|$$L
+knil
+L$xD
+L$xH
+D$0H
+\$pH
+|$$L
+EERT
+L$xD
+L$xH
+D$0H
+\$pH
+|$$L
+CUER
+L$xD
+L$xH
+D$0H
+\$pH
+|$$L
+RTNU
+L$xD
+L$xH
+D$0E
+t$(H
+t$0L
+|$$H
+t$$H
+[]A\A]A^A_
+C<thD
+|$(D
+|$$H
+D$@DIRC
+D$HH
+t$$H
+ATUI
+[]A\
+5)R)
+[]A\
+[]A\
+AUATI
+[]A\A]
+ATUI
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+$xzH
+`YMc
+`YMc
+AVAUD
+ATUSIc
+[]A\A]A^
+AWAVI
+AUATA
+[]A\A]A^A_
+[]A\A]A^A_
+AUATA
+USIc
+[]A\A]
+[]A\A]
+AWAVE1
+AUATI
+t+x!D
+]A\A]A^A_
+[]A\A]A^A_
+AUATHc
+[]A\A]
+AVAUATUS
+[]A\A]A^
+AUATI
+[]A\A]
+HcW<;V<t
+AWAVE
+AUATA
+PTIc
+c8t =
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+L$ A
+L$ x.A
+uEHc
+<(HcW<A;T$<u&H
+L$ f.
+D$8A
+L$<L
+L$<A
+l$$L
+D$ Hc
+D;t$ 
+E;o<
+|/X/u
+d$(E
+\$<A
+D$8L
+\$4L
+D$ I
+D$ M)
+x.Hc
+0E;n<
+Hcl$
+D;k<
+|3X/
+9D$ u
+D$0M
+Hc\$4L
+D$8A
+L$<L
+AWAVI
+AUATHc
+[]A\A]A^A_
+AWAV
+AUAT
+T$(E
+D$8D
+D$ Hc
+T$ I
+L$0A
+\$PL
+L$0D
+9D$@
+A9@<
+T$(I
+IcU<Ic^<I
+F4A9E4
+h[]A\A]A^A_
+T$81
+[]A\A]A^A_
+t$(L
+t3Hc
+T$(H
+h[]A\A]A^A_
+T$ I
+L$TL
+L$HD
+\$PL
+D$0D
+\$PL
+L$TL
+9L$@
+T$ H
+L$PL
+L$0D
+L$0HcL$PL
+T$ Hc
+|$ Hc
+ATUA
+[]A\
+AWAVAUATUSH
+D$x1
+t$8H
+D$4%
+D$4A
+T$<I
+t$XL
+l$XM
+l$(A
+T$8I
+T$XE
+L$<E
+D$HH
+t$01
+L$xdH3
+[]A\A]A^A_
+T$,L
+D$tH
+L$pL
+D$@E
+t$Pt
+D$; H
+t$Xu
+D$t@H
+t$hH
+Dt$`
+L$8I
+D$HH
+T$ H
+T$ H
+D$8A
+AWAVAUATUSH
+[]A\A]A^A_
+;DIRC
+|$PH
+t$PH
+d$0H
+|$(H
+=RTNU
+=knil
+=EERT
+=CUERuxO
+@9@D
+h<ttI
+ATUS
+tLE1
+[]A\
+ATU1
+[]A\
+AVAUATUSH
+[]A\A]A^
+[]A\A]A^
+ATUH
+t5;Q
+[]A\
+D$0H
+AWAVAUATI
+vYHc
+t$XIc
+D$41
+[]A\A]A^A_
+[]A\A]A^A_
+AUATI
+[]A\A]
+9_<u
+AWAVAUATUSH
+D$(1
+xgHc
+T$ H
+T$ H
+T$(dH3
+8[]A\A]A^A_
+s>f.
+US~*
+AWAVA
+AUATI
+D$81
+D9t$
+L$8dH3
+H[]A\A]A^A_
+t$ H
+t+SH
+AUATI
+[]A\A]
+HcO0
+W4Hc
+HcK0H
+HcO@
+WDHc
+HcK@H
+HcOX
+W\Hc
+HcKXH
+HcOp
+WtHc
+HcKpH
+AWAVAUATUSHc
+~KE1
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUS
+[]A\A]A^A_
+[]A\A]A^A_
+<$Hc
+AWAVAUATI
+~YE1
+A9D$
+t7Lc|$
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATI
+D$(1
+L$(dH3
+8[]A\A]A^A_
+AWAVAUATA
+t$(1
+L$ uhH
+D$ H
+t$(dH34%(
+8[]A\A]A^A_
+AVAUATUI
+]A\A]A^
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+t;USH
+ATUI
+D$(1
+L$(dH3
+0[]A\
+AVAUI
+IcL$0H
+D$49
+T$4Hc
+|$ H
+IcL$0I
+T$0H
+[]A\A]A^
+ATUH
+AWAVAUATI
+D$h1
+D$@M
+|$0I
+L$(H
+t$(H
+T$hdH3
+x[]A\A]A^A_
+D$H9
+D$@H
+D$@H
+D$@H
+AWAV1
+AUAT
+T$ dH
+D$81
+~?E1
+k@D9
+"D;s0}<E
+D$8dH3
+H[]A\A]A^A_
+AUATUSH
+D$(1
+t$(dH34%(
+8[]A\A]
+US~/
+D$(1
+L$(dH3
+ATUS
+[]A\A]A^
+AWAVAUATUSH
+D$H1
+D$ H
+L$HdH3
+X[]A\A]A^A_
+D$ 1
+~HATU
+AWAVL
+AUATUSH
+[]A\A]A^A_
+ATUH
+[]A\
+[]A\H
+ATUSH
+[]A\
+AWAVI
+AUATI
+t&A9
+[]A\A]A^A_
+AVAUI
+ATUH
+ []A\A]A^
+tDUSH
+AWAV1
+AUATA
+[]A\A]A^A_
+AWAVD
+AUAT
+D$ D
+D$,u
+l$01
+L$LH
+T$PM
+D$LE
+D$PL
+D$0H
+D$ H
+d$`D	
+<$E1
+T$ H
+T$ H
+T$ H
+L$P1
+[]A\A]A^A_
+D$PH
+L$8L
+L$8H
+L$81
+<$E1
+|$PI
+t$XH
+T$ H
+T$ H
+AVAUATUSH
+D$(1
+L$(dH3
+0[]A\A]A^
+Hc{0
+D;s0
+;w0|
+O(Hc
+AVAUATUSH
+[]A\A]A^
+=R<(
+t9USH
+AWAVI
+AUATI
+D$81
+L$8dH3
+H[]A\A]A^A_
+T$ 1
+ATUSH
+[]A\
+D$(1
+L$(dH3
+D$ t
+AWAVAUATUSH
+[]A\A]A^A_
+AVAUI
+ATUH
+|$01
+T$01
+[]A\A]A^
+AUATUSH
+([]A\A]
+AUATUSH
+[]A\A]
+[]A\A]
+D$X1
+l$0H
+D$8H
+t$Ht
+L$XdH3
+AVAUI
+ATUS
+[]A\A]A^
+]A\I
+A]A^
+[]A\A]A^
+AWAVAUATI
+ E;l$
+[]A\A]A^A_
+AUATI
+(t(L
+[]A\A]
+T$$Hc
+t"Hc
+[]A\
+ATUS
+}DHc
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATI
+t}H9
+L$HA
+([]A\A]A^A_
+AWAVAUATUSH
+HcT$
+A\A]A^A_
+([]A\A]A^A_
+t=S1
+tuATI
+A9\$
+A9\$
+[]A\
+AUATUSH
+D$(1
+`uHH
+D$(dH3
+8[]A\A]
+T$ H
+tiAUATI
+[]A\A]
+AWAVI
+AUATUSH
+[]A\A]A^A_
+[]A\
+AWAVI
+AUATA
+Hco(
+[]A\A]A^A_
+@(H9G(r2H
+J(H9K(s
+AVAUATUSH
+[]A\A]A^
+D$xH
+ATUI
+[]A\
+[]A\
+AUATI
+|$@H
+[]A\A]
+D$PH
+L$XH
+D$@H
+L$HH
+|$ H
+t$@H
+T$XH
+D$(H
+L$0H)
+ATUH
+[]A\
+AWAVAUATA
+([]A\A]A^A_
+tXf.
+AWAVA
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUE1
+ATUI
+]A\A]A^
+D$H1
+D$HdH3
+|$ H
+\$ H
+AWAVA
+AUATI
+D$81
+\$8dH3
+H[]A\A]A^A_
+t$ H
+tX<=
+<ru,
+<tuS
+<mu+
+Nz@L
+Nz@H
+l$ H
+AUAT1
+[]A\A]H
+_0dH
+AWAVAUATUSH
+X[]A\A]A^A_
+D$HH
+d$@A
+D$ M
+T$8H
+L$ H
+Fw t
+t$8H
+t$0H
+T$(H
+t$(H
+T$(H
+|$HH
+T$8H
+ATUI
+Ex t
+[]A\
+[]E1
+tkATUI
+ATUH
+AUATI
+tXf.
+([]A\A]
+AWAVAUATA
+L$ L
+D3d$
+[]A\A]A^A_
+ATUI
+[]A\
+AWAVH
+AUATI
+L$0H
+E8E1
+T$HL
+T$HL
+HcT$T
+t$0H
+[]A\A]A^A_
+|$(H
+l$hD
+t$`L
+l$hD
+|$(H
+l$hD
+|$(H
+l$hD
+|$(H
+t$`H
+l$hD
+t$`L
+t$`5
+|$(H
+l$hD
+t$HH
+D$8H
+l$hD
+E{@t
+HcD$D
+|$pHc
+?-tt1
+t$PHc
+|$XH
+HcT$TH
+D$XH
+T$pHc
+HcT$T
+D$P9
+L$DM
+D$P9
+D$PHc
+|$XH
+HcT$TH
+L$TH
+L$0H
+Et`t
+9-u|
+l$hD
+\$<M
+|$PL
+HcT$T
+t$HH
+EPE1
+HcT$
+l$hD
+l$hD
+EPE1
+l$hD
+L$`H
+AWAVE1
+AUATE1
+D$X1
+T$HL
+Cu t
+W E1
+ D9t$@
+L$XdH3
+h[]A\A]A^A_
+Cw t
+Ctf%
+Cw L
+t$8H
+l$0H
+D$8H
+D$0H
+D$0H
+l$0E1
+ u8H
+l$0H
+Cx t
+|$0H
+|$0H
+I;9u
+D$01
+|$0H
+|$0I
+L$0L
+d$01
+I;G(v
+T$(1
+W(H9
+t$0H
+D$(H
+|$0H
+t$8I
+|$8L
+Ctf%
+D$(H
+$H;J(w
+D$0H
+D$0H
+H;(u
+l$8M
+l$(u
+D$(H
+l$(t
+AVAUL
+v0ATUI
+]A\A]A^
+]A\A]A^
+AUATUSH
+@uJH
+H;E(r7
+([]A\A]
+H;E(wC1
+u_[]A\
+[]A\
+AUATUSH
+[]A\A]
+[]A\A]
+Cv`t
+[]A\A]
+AUATUSH
+([]A\A]
+AWAVI
+AUATI
+[]A\A]A^A_
+]A\A]A^A_
+AWAVAUATUSH
+|$(H
+|$ L
+|$0L
+t$(1
+D$ H
+D$0L
+D+D$
+,/D8
+|$ H
+|$0H
+[]A\A]A^A_
+D9t$
+D9t$
+d$ )
+d$0L
+d$(I
+\$8D
+D$ M
+^(H9
+ATUSH
+[]A\
+D$(H
+[]A\
+AUATI
+]@;]8s@f
+9]8H
+[]A\A]
+AWAVH
+AUATUSH
+t;A;E
+C8L9
+G<9C<
+Td0H
+Td0A
+([]A\A]A^A_
+tI;A
+wDUSH
+uuE1
+~6Hc
+<2/t
+AWAVI
+AUATE
+T$ H
+D$8%
+[]A\A]A^A_
+D9O 
+u	E9
+dH34%(
+dH34%(
+~CHc
+tSAUATI
+[]A\A]
+[]A\A]
+AWAVAUATI
+|7(L
+$HcU
+[A\A]A^A_]
+AWAVAUATI
+\$ 1
+T$HE
+x7Hc
+dH3<%(
+[A\A]A^A_]
+t$ A
+t7Ic
+_AXM
+AYAZ
+D$@H
+x)H9
+AWE1
+t$ M
+ATUI
+D$81
+L$8dH3
+@[]A\
+AWAVI
+AUATUSH
+D$,H
+L$(A
+D$,I
+D$@A
+[]A\A]A^A_
+AVAUI
+ []A\A]A^
+dH34%(
+ATUStqH
+[]A\
+ATUH
+ []A\
+AVAUI
+ATUI
+D$(1
+D$(dH3
+0[]A\A]A^
+|$ H
+T$ H
+Cu@u
+D$81
+L$8dH3
+ATU1
+ []A\
+AWAVA
+AUATI
+D$x1
+D;<$
+t$xdH34%(
+[]A\A]A^A_
+L9|$
+AWAVM
+AUATI
+={5(
+([]A\A]A^A_
+AUATI
+([]A\A]
+AWAVAUATUSH
+T$`H
+D$x%
+|$`A
+5}2(
+T$4H
+=\2(
+D$`H
+|$@H
++t$0
+dH34%(
+[]A\A]A^A_
+D$<H
+L$8H
+t$@1
+T$<H
+L$8i
+D$@H
+|$@H
+D$ H
+t$ E
+D$(I
+D9=s/(
+D$ D
+D$`H
+|$`H
+T$`H
+D$ 1
+|$PH
+AXAY
+AVAUATUI
+[]A\A]A^
+[]A\A]A^
+<-t	
+8/t5H
+ATUH
+D@0H
+[]A\
+AWAVE
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+tFMc
+AWAVI
+AUATI
+<+tb< 
+([]A\A]A^A_
+([]A\A]A^A_
+~&A:U
+uJH9
+HcD$
+\$(L
+l$ E1
+([]A\A]A^A_
+AUATUS1
+[]A\A]
+AVAUATUI
+4$E1
+tqD)
+[]A\A]A^
+[]A\A]A^
+AWAVA
+AUATI
+O|u(@
+[]A\A]A^A_
++tfH
+[]A\A]A^A_
+AWAVAUATI
+|$ H
+D$(E
+Lc|$
+|$ H
+A;D$
+8[]A\A]A^A_
+gfffH
+AWAVAUATI
+D$X1
+|$@I
+|$@L
+L$ H
+D$XdH3
+h[]A\A]A^A_
+l$0H
+AWAVI
+AUATI
+D$(1
+L$ L
+L$$Hc|$ 
+W$Hc
+Tm0I
+D$(dH3
+8[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+D$(1
+>@t'H
+D$(dH3
+8[]A\A]A^A_
+L$$L
+D$ H
+HcD$
+HcL$ H
+C(u	I9
+u8L)
+u L)
+HcL$
+HcD$ H
+AWAVA
+AUATI
+XZ~bLc
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUI
+ATUI
+\$xH
+[]A\A]A^
+AWAVI
+AUATI
+D$h1
+t$!uD
+|$ H
+D$hdH3
+x[]A\A]A^A_
+H9D$
+ot/H
+ATUSH
+=Z&)
+T$Df
+D$4%
+dH34%(
+[]A\
+AUATUS1
+?-t'H
+([]A\A]
+AUATI
+[]A\A]
+ uoH
+AUATUSH
+D$h1
+t$ H
+K0I9
+u	I9
+u8L)
+D$hdH3
+x[]A\A]
+tDf=
+AWAVAUATUSH
+D$X1
+u>E1
+\$XdH3
+h[]A\A]A^A_
+9l$8
+t$(L
+<.te
+ATU1
+ []A\
+AWAVA
+AUATI
+D$X1
+ASAT1
+t$(E
+D$XdH3
+h[]A\A]A^A_
+l$@H
+|$@H
+|$@H
+|$@H
+H9L$
+D$(D
+T$ L
+|$@H
+|$@H
+|$@H
+T$ L
+D$(N
+|$@L
+D$PH
+T$HH
+l$8L
+t$@H
+D$@t
+|$@H
+|$@L
+|$@H
+t$(E
+AWAVAUATI
+D$(1
+t$</u
+r3H9
+\$(dH3
+8[]A\A]A^A_
+T$ H
+D$(1
+D$(dH3
+AVAUI
+ATUI
+@@fE
+H@fE
+t%fE9
+XZ[]A\A]A^
+AUAT
+dH3<%(
+([]A\A]
+AUAT
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+]A\A]
+ATUI
+ []A\
+ATUI
+[]A\
+AVAUATU
+[]A\A]A^
+k0tCH
+H9C0v
+T$pH
+D$X%
+s0E1
+t$ H
+D$ H
+|$ H
+D$(H
+|$ 1
+|$ H
+D$(E
+|$ 1
+|$ H
+ATUH
+[]A\
+T$ H
+D$8%
+T$PH
+ATUS
+[]A\
+D$0H9E0u
+E@f%
+t$ H
+AWAVM
+AUATI
+Ic7I
+[]A\A]A^A_
+Ic7M
+l$@H
+L$P1
+|$0H
+D$ HcA8H
+D$PHcA<L
+l$@L
+|$0H
+ATUSH
+ut[]A\
+	w.H
+AWAVI
+AUATI
+D$TA
+D$TH
+([]A\A]A^A_
+D$TA
+L$T A
+D$TA
+D$@t
+L$(@A
+L$,@H
+D$4A
+t$,I
+|$(L
+D$x9
+D$x(
+T$xA
+wLLc
+A!L$0H
+L$<1
+A	L$0
+D$,A
+t$|A
+D$TA
+L$(@A
+L$,@A
+<=ty
+AVAUAT%
+D$pA
+D$xA
+([]A\A]A^A_
+D$xD
+D$`H
+L$pH
+T$`H
+AUATI
+[]A\A]
+AVAUAT%
+T$PA
+[]A\A]A^A_
+[]A\A]A^A_
+(tZATUH
+uUf9
+AWAVAUATUSH
+D;=e
+QAQPAPA
+AUQH
+APAU
+PAQAPAUA
+A@APAUPAPA
+[]A\A]A^A_
+D$ H
+L$0H
+t$PH
+|$@I
+~JUS
+ATUH
+Hc5u
+AWAVAUATUSH
+GLdH
+D$(1
+D$(dH3
+8[]A\A]A^A_
+k0E9
+D;%	
+ATUSH
+[]A\
+AUATI
+|$01
+D$8P
+D$HP
+L$x@L
+t$`H
+[]A\A]
+AWAVI
+AUATI
+L$8dH
+T$@H
+T$@H
+D$ fA
+L$(H
+G@fE;E@
+G@fA3E@f
+|$ I
+[]A\A]A^A_
+D$h1
+T$PH
+t$h1
+|$(H
+T$pL
+|$0H
+L$8I
+|$(H
+|$0H
+C+ H
+D$pHcC8H
+HcC<H
+D$pH
+PAVL
+t$0L
+A:T$
+D$hH
+t$`AS1
+t$pL
+APASAV
+D$pH
+G@f%
+E@f%
+AWAVAUATUSL
+D$h1
+T$ A
+T$0H
+T$0H
+|$@H
+D$@P
+D$PP
+|$P1
+L$PH
+|$@1
+D$hdH3
+x[]A\A]A^A_
+L$,H
+QAUH
+T$8tvf
+t$8H
+t$8H
+L$<f;E@
+t$0L
+|$ 1
+t$0L
+L$0H
+|$@H
+\$ H
+|$@H
+|$@H
+|$@L
+D$8(
+|$PH
+|$PH
+AWAVAUATI
+D$81
+D$) 
+SATL
+T$8ARH
+T$8H
+t$0L
+D$8dH3
+H[]A\A]A^A_
+SATL
+t$01
+SATI
+T$8ARH
+T$8H
+t$0L
+SATI
+T$ L
+T$8H
+t$0L
+AWAVI
+AUATUSH
+<Xt'A
+D$0&
+@@f9
+[]A\A]A^A_
+B@fE
+J@fE9
+T$ H
+T$ H
+D$0 
+p0L+
+D$ H
+D$ H
+D$ H
+D$ H
+D$@A
+t$PL
+|$8M
+9D$ 
+D$(L9
+L$ I
+t$PL
+D$TA
+;D$4
+D$4H
+L$ ~
++T$4
+D$TE
+|$T1
+|$8Hc
+D$ H
+;D$ 
+|$PH
+T$HI
+|$(H9|$xD
+l$HwoD
++\$HI
+|$@H
+D$P1
+L$`M
+L$41
+t$HM
+|$pL
+|$XL
+|$XL
+H;l$8
+9\$T
+|$@H
+D$PM
+L$41
+L$4E1
+T$HM
+|$pL
+|$@H
+L$HM
+\$XI
+L$pI
+L$@I
+D$0 
+G)@t
+ATUSD
+I;1I
+W0Mc
+4$~5L
+O@I;1tb
+t;H9
+Hc2H
+[]A\
+[]A\
+Gv`u
+Gx u5H
+AUATA
+[]A\A]
+[]A\A]H
+AVAUATUH
+E0A9
+E0A9
+[]A\A]A^
+[]A\A]A^
+ATUH
+HcS,H
+[]A\
+AWAVAUATUSH
+HcS,H
+C@L9
+k8~!H
+;C8|
+C0E1
+0H;3t4H
+D;|$
+sPHc
+[]A\A]A^A_
+9C$}
+AWAVAUATUSH
+w@H9
+D9l$
+[]A\A]A^A_
+E;g0
+E9g(
+A9G$
+[]A\A]A^A_
+w@H9
+wHH;
+[]A\A]A^A_
+A9o(
+wHH9
+t#H9
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+uJUSH
+ATUH
+[]A\
+[]A\
+AWAVI
+AUAT
+[]A\A]A^A_
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+E H)
+AUATUSH
+[]A\A]
+D$x1
+\$xdH3
+AWAVI
+AUATE
+[]A\A]A^A_
+_t#L9
+[]A\A]A^A_
+AVAUATUSH
+[]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+ATUH
+dH3<%(
+ []A\
+AWAVAUATI
+D$h1
+d$@E
+tQD9
+L$ J
+43D)
+)l$(
+H9\$
+|$/H
+8HcT$(H
+D$hdH3
+x[]A\A]A^A_
+D$ I
+AWAVL
+AUATI
+[]A\A]A^A_A
+[]A\A]A^A_
+AWAVAUATUS1
+[]A\A]A^A_
+D$8%
+D$PL
+H9D$
+AWAVAUATUSH
+D$ H
+D$ H
+=?R(
+|$p1
+|$ I
+T$`H
+%yQ(
+D$ L
+d$`H
+D$0D
+T$(E
+L$`E1
+L$dE
+D$`E1
+T$,E
+\$ H
+[]A\A]A^A_
+\$XE
+t$ H
+|$0H
+t$ L
+d$@H
+l$HH
+\$PL
+|$0H
+d$@I
+\$PH
+l$HD
+|$ L
+d$@H
+\$PD
+d$@H
+l$HH
+\$PD
+D$ D
+DD$(
+t$(E
+D$ D
+t$ H
+|$0H
+|$p1
+t$ L
+|$p1
+t$ D
+D$ H
+D$ H
+D$ H
+ATUI
+[]A\
+[]A\
+[]A\
+[]A\
+ATUI
+[]A\
+[]A\
+AVAUE
+ATUI
+[]A\A]A^
+AVAUI
+ATUSH
+D$(1
+H;D$
+D$(dH3
+0[]A\A]A^
+ATUI
+[]A\
+|$ ]A\
+u%f.
+AUAT1
+[]A\A]
+[]A\A]
+[]A\A]
+T$ dH
+D$81
+L$8dH3
+t6USH
+t{ATI
+h []A\
+B []A\
+t:ATUI
+,$[]A\
+t3USH
+Hc{0I
+AWAVAUATI
+G`dH
+D$@H
+\DHA
+Ic}0M
+Ic}0I
+P(Ic
+P(A;UhA
+A;Ul
+dH3<%(
+[]A\A]A^A_
+ATUH
+whdH
+A(A+@(A;@,}
+A(A+@(A9@0~
+9P,~
+dH34%(
+[]A\
+HcS0I
+x;Hc
+x Hc
+@:0u
+@:0t
+AWAVAUATUSH
+LcghI
+[]A\A]A^A_
+HcGlA
+8LcP,
+LcP,r
+HcE(H
+HcohI
+AWAVAUATI
+T$0M
+t$ H
+T$0H
+[]A\A]A^A_
+AUATUS~E
+]A\A]A^
+tQUSH
+AWAVM
+AUATUS
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATE1
+USE1
+D$(1
+D$(dH3
+8[]A\A]A^A_
+LR0S
+AWAVAUATUSH
+|[D;r
+}cIc
+([]A\A]A^A_
+H90}s
+}3H;H
+P H9P
+}#H9
+t.H9w
+ATUSt6H
+[]A\
+AWAVI
+AUATUSH
+D$(1
+D$(dH3
+8[]A\A]A^A_
+\$ I
+T$ L
+D$(dH3
+8[]A\A]A^A_
+ATUS
+ATUS
+[]A\
+AWAVI
+AUATUSH
+|$0H
+t$(dH
+D$ ;G
+D$(H
+|$0L
+T$pH
+T$PH
+D$@H
+D$@H
+9H9x
+~9H9
+}FIc
+|$PL
+D$XH
+D$TA
+D$PA
+D$(H
+T$`H
+dH3<%(
+D$$u+H
+[]A\A]A^A_
+tFHc
+AWAVAUATUSH
+l$81
+ A9]
+D$ H
+L$LH
+L$LH
+T$XH
+t$PL
+D$XH
+l$PL
+d$pH
+l$xH
+D$pH
+D$(SH
+D$pPL
+T$PL
+t$hL9
+D$`H
+L$ H
+\$8H
+\$(H
+D$pP
+|$8H
+[]A\A]A^A_
+T$hI
+D$0tJH
+D$0H
+\$8H
+D$pH
+D$pP
+AWAVAUATUSH
+|$HH
+\$HH
+T$XH
+T$HH
+|$XH
+T$HH
+l$H1
+D$@A
+|$,H
+OXHc
+|$,H
+[]A\A]A^A_
+|$,H
+>H9|$
+D$,L
+;t$,
+\$0H
+L$p1
+T$,A9WT
+\$0I
+H9T$
+GXAYAZJ;
+WHLc
+l$8I
+L$0L
+GH_AXJ9\(
+l$8L;l
+}^L9l$
+H9\$
+GXY^J;\(
+t$,A;wT}!H
+|$0H
+8H9T$
+Lc\$,L
+9H9|$
+T$xH
+Lc\$,L
+\$HH
+T$HH
+AWAVAUATUSH
+L$x1
+|$(H
+L$@H
+L$PH
+|$@H
+L$0E1
+L$HM
+\$HL
+l$ E1
+t$HI
+t$HI
+d$(I
+D$8L
+d$(H
+l$PH
+D$(H
+L$xdH3
+[]A\A]A^A_
+L$8H
+t$HL
+d$ 1
+T$`H
+t$`H
+|$XL
+T$XH
+|$(H
+T$`E1
+t$`H
+|$XL
+D$PH
+AWAVM
+AUATI
+dH3<%(
+[]A\A]A^A_
+L$`H
+|$ E1
+Lct$`L
+L94$w
+|$ I
+T$pH
+L$pL
+AWAVH
+AUATM
+D$(L
+t <:t
+D$ H
+D$(H
+t$ H
+L$pH
+|$0E1
+HcL$pHcT$tM
+7H;t$
+H9t$
+H9t$
+[]A\A]A^A_
+T$(H
+t$ H
+t$0H
+ATUSL
+d$0L
+<:t`<^tVI
+tZH9
+[]A\A]A^
+t$8ATH
+ZYtT
+[]A\
+A]A^
+]A\A]A^
+<:t3<^t)E1
+yAAWAVM
+AUATM
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+D$h1
+Gu@t
+`t'H
+D$hdH3
+x[]A\A]A^A_
+t$ H
+|$ 1
+D$0%
+D$(H
+|$ L
+D$(H
+|$ L
+$HcD$
+AVAUI
+ATUI
+A9](vTI
+A9](w
+[]A\A]A^
+AWAVI
+AUAT
+D$(1
+D$(dH3
+8[]A\A]A^A_
+ATUH
+[]A\
+\$HH
+L$8t!H
+L$@H
+T$01
+AWAVAUATUSH
+D$X1
+?vNH
+PUAWATAU
+L$XdH3
+h[]A\A]A^A_
+T$ 1
+D$0H
+D$(L
+D$8H
+l$@L
+D$HL
+T$8dL
+D$XPH
+AWAVI
+AUATI
+t/Lcd$
+Hct$
+([]A\A]A^A_
+AWAVAUATUSH
+|$@I
+t$PH
+\$xH
+L$pH
+D$0H
+[]A\A]A^A_
+I;D$
+AWAV
+AUATI
+\$pH
+ATSH
+D$@H
+X[]A\A]A^A_
+|$`H
+t<US
+AWAVI
+AUATI
+[]A\A]A^A_
+AUATI
+D$81
+L$ H
+D$8dH3
+H[]A\A]
+L;d$
+ATUI
+trHk
+[]A\H
+[]A\
+AVAUA
+ATUH
+[]A\A]A^
+AWAVA
+AUATI
+D$H1
+tpH9
+D$HdH3
+X[]A\A]A^A_
+L$,H
+T$01
+@u H
+52'&
+AWAVI
+AUATI
+[]A\A]A^A_H
+|$ H
+L$ L
+AWAVH
+AUATH
+\$81
+\$ H
+T$0RP1
+D$8dH3
+H[]A\A]A^A_
+\$ A
+AWAVAUATA
+Czf%
+=&!&
+-m &
+5< &
+T$ H
+|$ H
+T$(H
+[]A\A]A^A_
+T$`H
+t$@H
+L$hH
+T$pE1
+t$HH
+|$PM
+|$ 1
+T$(H
+D$<H
+ATUH
+[]A\
+AWAVAUATI
+WxdH
+H#GxH
+H#CxH
+([]A\A]A^A_
+[]A\
+AVAUATUH
+dH34%(
+ []A\A]A^
+ATUS1
+ []A\
+D$ E1
+ATUI
+ []A\
+I#En
+AWAVAUATI
+8C u
+C!A8E
+/ukE
+[]A\A]A^A_
+S!8P
+AUATI
+[]A\A]
+[]A\A]
+AUATH
+9/tBH
+;wJH
+[]A\A]
+AWAVAUATUS
+T$(H
+t$@H
+l$HH
+D$@H
+D$P%
+T$hH
+D$hH
+D$pD
+D$hH
+D$`D
+T$hH
+D$hH
+D$pD
+D$hH
+D$`H
+T$hH
+D$hH
+D$hH
+D$`D
+T$hH
+T$hH
+T$hH
+l$HH
+|$`H
+D$PH
+|$`1
+t$0L
+t$ I
+D$$H
+D$0H
+t$ L
+T$4H
+t$(A
+[]A\A]A^A_
+AWAVI
+AUATI
+]A\A]A^A_
+ATUI
+[]A\
+t$ H
+AWAVAUATE
+([]A\A]A^A_
+([]A\A]A^A_
+([]A\A]A^A_
+AWAV
+AUATUSD
+t$xL
+T$8H
+8[]A\A]A^A_
+t$$9t$
+[]A\A]A^A_
+D$H1
+|$ 1
+L$HdH3
+|$ H
+|$ 1
+|$ 1
+|$ H
+*<1v\H
+*<1w
+AUATI
+D$(1
+D$(dH3
+8[]A\A]
+AUATUSH
+D$x1
+D$xdH3
+[]A\A]
+t$`L
+T$@H
+D$@H
+D$$H
+D$HH
+AWAVI
+AUATUSH
+[]A\A]A^A_
+AUAT
+[]A\A]H
+D$(1
+|$(dH3<%(
+ATUSH
+D$81
+T$8dH3
+@[]A\
+t$ L
+|$(1
+ATUI
+[]A\
+AWAVAUATUSH
+D$(1
+T$ H
+D$ H
+D$ I9
+D$ H9
+D$(dH3
+8[]A\A]A^A_
+AVAUM
+ATUH
+]A\A]A^
+[]A\A]A^
+AUATI
+T$@1
+T$ L
+|$0H
+[]A\A]
+D$81
+T$8dH3
+D$0H
+ZYx*H
+T$ A
+D$(1
+|$ H
+L$(dH3
+AWAVI
+AUATA
+[]A\A]A^A_
+[]A\
+SHcO
+t$~(
+ATUI
+D$81
+|$8dH3<%(
+@[]A\
+C8H9
+H;J8u
+d$ H
+t$ I
+|$ I
+|$ I
+D$ H
+D$ H
+d$0H
+D$ H
+t$ 1
+D$ H
+AUATUSH
+l$ I
+[]A\A]
+[]A\A]H
+AWAVAUATUSH
+T$8H
+D$,E
+L$,L
+D$0H
+\$HI
+DD$(M
+D$(H
+D$ H
+|$0H
+|$ H
+t$8H
+]A\A]A^A_
+F( t
+uIIcG
+[]A\A]A^A_
+X[]A\A]A^A_
+t$,I
+|$ H
+\$HIcG
+DD$(M
+|$ H
+t$@H
+D$81
+tf|,
+L$8dH3
+-tSH
+u4Hc
+AUATUSH
+([]A\A]
+tuAUATE1
+[]A\A]
+AWAVAUATUSL
+[]A\A]A^A_
+D$\H
+D$\H
+l$pH
+d$lH
+9-?s'
+D$(L
+T$8H
+D$(u
+T$8E
+l$ D
+(D	p
+$H9D$H
+|$\9|$@
+d$(D
+t$8E
+\$lE
+D$0H
+D$lA
+L$$E
+T$l9
+t$lH
+|$0H
+T$lL
+t$81
+\$(H
+l$$D
+d$8f
++ttH
+(tFH
+t$pH
+D$xH
+D$xH
+\$(D
+t$$@
+D$$I
+t$$H
+t$$H
+D$(H
+D$pH)
+	D$8
+|$0L
+D$xL
+l$pH
+T$$u
+T$pH
+T$xH
+D$(1
+T$(dH3
+fffffff
+t:Hc
+AWAVI
+AUATI
+dH34%(
+([]A\A]A^A_
+%+`&
+-+`&
+D@0H
+=F_&
+%#_&
+AWAVI
+AUATUSH
+x"Hc
+tRdH
+([]A\A]A^A_
+AVAUI
+ATUI
+ []A\A]A^
+AWAVI
+AUATI
+[]A\A]A^A_
+$wHH
+H9T$
+=(X&
+D$0V&K
+DR01
+AUATI
+|$0H
+[]A\A]
+AUATM
+|$ dH
+D$h1
+D$ H
+L$(A
+|$8A
+D$0H
+Nt3A
+t$@H
+<.wG
+L$hdH3
+x[]A\A]
+T$HH
+AWAVAUATUSH
+|$PH)
+[]A\A]A^A_
+D$`H
+t$hH
+{XH)
+D$PH
+t$(H
+t$XH
+t$ t
+D$ H
+T$(H
+t$01
+|$ H
+x&Hc
+T$()
+|$0H
+D$0H
+T$8H
+D$8H
+D$8H
+T$8H
+D$8H
+D$@D
+D$8H
+D$0H
+T$8H
+|$PH
+T$ H
+T$(H
+|$01
+L$(H
+D$0H
+T$8H
+D$8H
+D$8H
+T$8H
+D$0H
+T$8H
+D$8H
+D$8H
+T$8H
+T$8H
+T$8H
+AWAVI
+AUATI
+D$(1
+L$(dH3
+8[]A\A]A^A_
+<$L)
+AWAVA
+AUATI
+[]A\A]A^A_
+AWAVI
+AUATI
+D$h1
+L$hdH3
+x[]A\A]A^A_
+T$`H9
+l$`M
+|$hM
+H9L$
+H9]0t
+|$x1
+T$xA
+T$xA
+L9e0t
+|$x1
+L$hM
+D$pL
+M;|$h
+M;L$p
+t$8H
+l$ H
+H8E1
+L$PE1
+t$ H
+t$@H
+l$PH
+.<1v
+AWAVI
+AUATI
+D$81
+T$HI
+t$|H
+>%u#L
+|$ L
+D9t$
+D+t$
+t$(L
+T$(H
+t$0H
+T$8dH3
+H[]A\A]A^A_
+t$(L
+T$(H
+t$0L
+D9t$
+|$ H
+D9t$
+D9t$
+D+t$
+AVAUI
+ATUI
+t$hdH
+T$pH
+t$`L
+[]A\A]A^
+|$hH
+l$hM
+HcT$
+L$xH
+AWAVI
+AUAT
+x$Hc
+D9kxw
+([]A\A]A^A_
+AWAVHc
+AUATI
+[]A\A]A^A_
+AWAVAUATUSH
+D$81
+D$ H
+D$0A
+|$ E1
+T$0A
+l$0A
+L$,H
+t$ H
+D$8dH3
+H[]A\A]A^A_
+D$0H
+D$0D
+D$(H
+T$(H
+|$0D
+D$0A
+ []A\
+AWAVI
+AUATI
+\$PL
+$Hcs
+]A\A]A^A_
+AWAVI
+AUAT
+D$81
+L$8dH3
+H[]A\A]A^A_
+x9Hc
+HL;bH
+T$ 1
+ATUSH
+/H;u
+[]A\
+[]A\
+[]A\
+D$0H
+[]A\
+AVAUATUSH
+[]A\A]A^
+tGUSH
+D$(1
+T$(dH3
+AWAVAUATA
+[]A\A]A^A_
+:tbD
+xLE1
+ATUH
+D$PH
+D@0H
+t$PH
+|$@H
+T$HI
+D$@H
+t$HL
+[]A\
+D$PH
+AWAVAUATI
+[]A\A]A^A_
+AWAV
+AUATA
+H;T$
+([]A\A]A^A_
+AWAVI
+AUATI
+D$0H
+D$`H
+D$01
+[]A\A]A^A_
+D$ A
+t$@H
+t$0H
+T$ M
+L$8H
+T$0H
+D$8I
+D$`H
+L$8H
+T$(A
+5<M%
+=^d%
+T$ H
+|$@H
+D$`L
+L$`M
+D$0H
+D$8H
+t$0H
+D$0H
+t$0H
+L$ M
+T$(A
+t$PH
+|$H1
+t$0H
+L$ H
+D$@H
+T$HH
+D$HH
+D$HH
+T$HH
+L$ H
+AWAVAUATI
+D$81
+|$ A
+T$(H
+L$8dH3
+H[]A\A]A^A_
+AWAVAUATI
+D$X1
+t$@L
+L$XdH3
+h[]A\A]A^A_
+D$ H
+T$(H
+I;]Hr
+T$0H
+|$0H
+D$ 1
+|$0H
+t$@A
+|$@1
+T$@1
+AVAUI
+ATUH
+~Cf.
+[]A\A]A^
+ATUH
+ []A\
+|$ H
+L$ L
+AWAVAUATUSH
+D$@f%
+|$01
+D$8P
+D$HP
+|$0H
+L$x	H
+D$p PJ
+t$`H
+|$0I
+[]A\A]A^A_
+AWAVAUATUSH
+B@f%
+@@f%
+[]A\A]A^A_
+|$0L
+D$8P
+D$HP
+L$x	H
+D$0H
+D$p PJ
+AWAVI
+AUATI
+D$0d7K
+D$8n
+\$PH
+|$`1
+T$`H
+ D9$$w
+[]A\A]A^A_
+AUATI
+([]A\A]
+ATUI
+ []A\
+T$ 1
+AWAVI
+AUATM
+D$(H
+D$0dH
+[]A\A]A^A_
+|$PI
+|$PH
+|$PL
+D$ H
+d$(H
+D$8L
+|$pH
+T$pH
+|$pH
+D$pH
+T$xH
+D$xH
+D$xH
+|$pH
+|$pH
+D$PH
+T$XH
+D$XH
+D$XH
+T$xH
+D$ D
+T$81
+|$8L
+H9D$
+H9D$ 
+l$@D
+L$LL
+l$@D
+L$LL
+|$8D
+L$@A
+L$@L
+ATUH
+|$P1
+D$(I
+T$PH
+t$ 1
+[]A\
+AVAUA
+ATUSH
+|$ 1
+|$ H
+D$(P
+D$8P
+t$ H
+D$` PJ
+D$h	H
+[]A\A]A^
+AWAVI
+AUATA
+D$ P
+~(f.
+|$0H
+T$@H
+|$P1
+|$pH
+|$`1
+DD$`H
+D$@H
+|$ H
+D$ H
+[]A\A]A^A_
+AWAV
+AUATI
+d$ H
+D$(P
+D$8P
+D$pL
+L$h	H
+D$` PJ
+D$ L
+[]A\A]A^A_
+\$ H
+D$(P
+D$8P
+D$pH
+D$` PJ
+l$XH
+\$ H
+D$(P
+D$8P
+[]A\
+D$pH
+L$h	H
+D$` PJ
+D$ H
+|$PH
+AWAVAUATI
+D$81
+|$8dH3<%(
+H[]A\A]A^A_
+u!f.
+|$ L
+D$(H
+D$(H
+9\$ w
+ATUI
+D$81
+T$ H
+T$ H
+D$8dH3
+@[]A\
+AUATI
+D$h1
+D$ H
+d$(H
+T$HH
+T$X1
+L$hdH3
+x[]A\A]
+ATUA
+[]A\
+AWAVAUATI
+D$`H
+D$x1
+HcT$
+l$`L
+|$@H
+|$0L
+\$xdH3
+[]A\A]A^A_
+t$`A
+t$hH
+|$`H
+|$`1
+lu~A
+luvA
+ATUH
+D$h1
+l$ H
+T$HH
+T$X1
+L$hdH3
+p[]A\
+AVAUATUSH
+D$H1
+l$0H
+D$0H
+T$HdH3
+P[]A\A]A^
+|$ L
+D$81
+L$8dH3
+AVAUI
+ATUHc
+]A\A]A^
+[]A\A]A^
+AUATI
+([]A\A]
+Hct$
+$t_H
+tqAUATI
+]A\A]
+[]A\A]
+AWAVAUATI
+D$(1
+HD9;
+L$(dH3
+8[]A\A]A^A_
+AUATUSH
+[]A\A]
+AWAVAUATUSH
+D$X1
+D$ H
+D$0H
+T$8H
+D$@H
+t$0L
+l$@H
+D$(f
+D$(L
+l$8L
+d$HL
+D$ H
+t$@H
+L$XdH3
+h[]A\A]A^A_
+AVAUM
+ATUM
+D$81
+\$ H
+t$8dH34%(
+[]A\A]A^
+AVAUI
+ATUI
+\$0H
+[]A\A]A^
+AWAVI
+AUATUSH
+$u9L
+[]A\A]A^A_
+tgAUATI
+[]A\A]
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVA
+AUATH
+t$$H
+T$(Ic
+t$X1
+$3PK
+D$7E
+Hc,$
+T$PL)
+L$(D
+H9D$
+t$$H
+L$XdH3
+h[]A\A]A^A_
+D$!A
+D$#A
+H9D$
+v)H9D$
+H;D$
+L$(H
+D$(H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AWAVA
+AUATI
+\$(H
+[]A\A]A^A_
+l$,H
+AVAUI
+ []A\A]A^
+t>Hc
+AVAU
+ATUM
+]A\A]A^
+v-L9
+L	H8H
+L	H8H
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVI
+AUATA
+D$pD
+D$(H
+wHE1
+8[]A\A]A^A_
+God A red nugget A fat egg under a dog
+t$ H
+[]A\A]A^A_
+AWAVAUATI
+[]A\A]A^A_
+S(H	t
+[]A\A]A^A_
+tkHcS$HcK
+Hc{ 
+E@HcC
+AWAVI
+AUATA
+SHH)
+L$hL
+A^A_
+:M+A(H;t$
+T:pH
+HH;T$
+D$81
+D$8H
+D$8H;
+D$(H
+T$(u
+d$ L
+T$(L
+x8t$
+d$ H
+T$X	
+HH;l$
+[]A\A]A^A_
+l$HE
+D$(H
+D$hH
+t$pH
+D$@I
+\$0H
+x`Hc\$@H
+D9t$0
+\$@H
+D$xH
+|$`L
+D$0L
+D$ D
+T$@E
+d$PI
+t$ A
+~3Hc
+~4Hc
+L;l$ 
+D$ A
+9T$0}
+L$`D
+t$xIc
+L$`H
+|$Pt
+D$01
+d$xE
+9\$0}
+D$`H
+D$PH
+T$pH
+\$h9
+I#E8H
+D$h9
+t$pL
+T$ D8
+u|Hc
+tkHc
+T$ 1
+~2Hc
+~4Hc
+T$ 1
+T$pH
+D$@A
+t$PH
+I#H8I
+H!h8H
+L$hL
+|$ H
+D$HXZ
+|$0H;l$
+D$0H
+A8uQ1
+$t;H
+H;l$
+T$0H#
+H;D$
+t$0H
+T$0H#
+L;l$
+D$ H
+uBL9
+L$(H#H8H
+\$@H)\$ H
+L$`H
+L$HH
+H+L$@
+(t	A
+l$@H
+l$8H
+D$ H
+D$XI
+|$HI
+|$HH
+H9t$
+D$(I
+G8u3H
+t$@I
+L$ H
+x0Hc
+|$`A
+T$8L
+T$ I
+T$ A
+|$`E1
+AWAVH
+AUATUSH
+L$@H
+|$8dH
+\$@H
+D$@H
+\$@H
+D$0H
+D$wH
+L$xH)
+D$xH
+|$(H
+D$0H
+H9D$
+;-Dv&
+D$hH
+D$ 9D$p
+D$hH
+D$@H
+D$@D
+d$|L
+l$@H
+[]A\A]A^A_
+D$@H
+D$0HcP
+|$0H
+t$8L
+D$@H
+D$0H
+D$@H
+D$0H
+|$(H
+HcD$ H
+D9%Yr&
+L$dH
+D$PL
+t$XD
+L$dD
+T$HL
+D$PH
+L3 H
+d$|D
+D$@H
+t$|D
+\$ Hc
+D$|I
+T$01
+L8B@I9
+\$ H
+D$@1
+AUATA
+t"f.
+([]A\A]
+AWAV
+AUATD
+D$X1
+tZf%
+tMf=
+|$@H
+D$@H
+T$HH
+D$XdH3
+h[]A\A]A^A_
+tw9D$
+|$@H
+|$@H
+F0I9C0I
+C{0I
+D$@E1
+L$@L
+L$0H9
+T$0H
+|$8I
+C0H9
+D$8H
+D$8M
+T$ H
+s	H9
+AWAVAUATUSH
+-gh&
+D$X1
+D$0H
+T$8H
+D$(D9
+|$ L
+D;d$
+D;l$,
+D$(H
+D$@H
+T$HH
+D$XdH3
+h[]A\A]A^A_
+D$(H
+D$0f
+D$8f
+t$0H
+d$,D
+l$0L
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVM
+AUATI
+D$PI
+[]A\A]A^A_
+AWAVAUATUSH
+D$81
+=B]%
+D;t$
+Hct$
+D$8dH3
+H[]A\A]A^A_
+|$ 1
+|$ 1
+saE1
+t)<#t%A
+AVAUATUSH
+D$(1
+uUHcT$
+t$(dH34%(
+0[]A\A]A^
+AUATM
+]A\A]
+ATUSH
+[]A\
+D$X1
+L$ 1
+HcB8H
+D$ HcB<
+|$XdH3<%(
+L$ E1
+AWAVI
+AUATM
+D$H1
+t"E1
+G* u@H
+T$HdH3
+X[]A\A]A^A_
+l$ H
+L$0H
+D$(H
+D$8H
+AWAVAUATUSH
+|$ L
+d$ E1
+[]A\A]A^A_
+;-GW&
+=#V&
+t$ H
+AWAVAUATUSH
+[]A\A]A^A_
+=0Q%
+[]A\A]A^A_
+AWAVAUATUSHc
+t)fE
+[]A\A]A^A_
+AVAU
+ATUS
+|LIc
+5nO%
+uBHc
+]A\A]A^
+AUATUSE
+[]A\A]A^
+[]A\A]A^
+ATUH
+[]A\
+/[]A\
+[]A\
+AWAVAUATUSH
+8@8:
+9-TO&
+[]A\A]A^A_
+T$BA
+L$@J
+58I%
+t$ H
+t$p1
+D$xH
+f;C@
+*\$0f
+\$@z
+D+d$(
+C@f%
+D$8E
+D$XH
+t$8H
+t$\H
+D$PH
+t$(D
+L$4H
+C@f%
+|$hA
+t$8B
+T$01
+E@f%
+S0I9
+\T$@
+YD$H
+L$`H
+D$pH
+AWAV
+AUATUSH
+tdE1
+@vNK
+L$(H
+T$ H
+ u}L
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+|$(H
+L$8L
+|$ H
+D$(H
+H9l$
+D$ E1
+D$4L
+|$(3
+D+t$
+D$0t
+FD$4
+D$0D
+t$0L
+H;l$
+|$ A
+|$8H
+[]A\A]A^A_
+D8<7H
+|$ D
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUM
+ATUI
+]A\A]A^
+t$(A
+]A\A]A^
+ATUH
+oXSH
+ []A\
+AUATI
+l$0I
+D$XH
+[]A\A]
+AWAVI
+AUATI
+o4dH
+dH34%(
+[]A\A]A^A_
+AWAVAUATUSH
+D$(1
+|$PH
+L$(dH3
+8[]A\A]A^A_
+L$,H
+T$(H
+t$0D
+D$ L
+alula
+L$,H
+T$(H
+A[[xQ
+L$ f
+AYAZf
+GyE1
+D$ H
+IcM<H
+F(ML
+FDMA
+AWAVH
+AUATH
+|$ H
+=*.&
+t$@H
+T$XD
+D$(L
+B(M9D$
+D9d$
+T5 M
+ATAQD
+L$4H
+[]A\A]A^A_
+D$ D
+D$ A
+T$(%
+DD$(
+t$@L
+]A\9\$
+D$(%
+L$,H
+D$<H
+T$@L
+t$XD
+|$<A
+=hb$
+|$ dH
+T$ 1
+AWAVI
+AUATI
+tTE1
+([]A\A]A^A_
+AWAVA
+AUATI
+T$ I
+[]A\A]A^A_
+ATUH
+ []A\
+AVAUI
+ATUA
+]A\A]A^
+AUATUSH
+[]A\A]
+AWAVI
+AUAT
+[]A\A]A^A_
+AWAVI
+AUAT
+D$<A
+D$pA
+D$lA
+D$tA;FH~
+[]A\A]A^A_
+AUATUSH
+[]A\A]
+[]A\A]
+ATUI
+k8[]A\
+ATUI
+[]A\
+[]A\
+AWAVM
+AUATI
+D$pI
+D$xA
+D$pH
+D$xH
+[]A\A]A^A_
+D$@f9
+f9D$
+D$pH
+D$pH
+T$hA
+D$`H
+|$0L
+|$@H
+D$hPAVATL
+|$(L
+D$`H
+T$PH
+|$@M
+|$ H
+t$(H
+|$pL
+T$pH
+T$ fD
+D$HH
+D$XI
+D$`A
+L$`H
+AWAVI
+AUATI
+D$H1
+D$ H
+D$0I
+D$8I
+D$@I
+D$HA
+t$HdH34%(
+X[]A\A]A^A_
+AUATA
+|$(L
+|$PH
+[]A\A]
+D$01
+L$(dH3
+AVAUI
+ATUSH
+ []A\A]A^
+ATUI
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+[]A\
+T$ H
+D$8%
+AVAUI
+ATUI
+}@E1
+~@E1
+}@E1
+[]A\A]A^
+D$81
+T$8dH3
+t$ H
+T$(H
+t$0H
+H;T$(u
+t$0H
+AWAVAUATI
+L$X1
+T$8H
+D$(D
+|$(H
+D$XdH3
+h[]A\A]A^A_
+t$8H
+T$8H
+T$8H
+t$ H
+L$@L
+D$HH
+|$@1
+AWAVE
+AUATI
+D$pH
+D$x@
+D$,H
+EPE1
+[]A\A]A^A_
+UAVM
+L$(I
+AWAWL
+L$81
+T$,H
+t$ H
+L$01
+QQAVL
+L$@H
+SATI
+ATAVH
+L$(1
+T$,H
+t$ H
+AWAVI
+AUATA
+D$h1
+VPE1
+T$@A
+S@E1
+D$hdH3
+x[]A\A]A^A_
+AWAVM
+AUATI
+D$pI
+D$xA
+l$pH
+D$(H
+|$0H
+D$P1
+D$pH
+D$XH
+D$xH
+D$`H
+L$ H
+T$(L
+CPE1
+T$dH
+[]A\A]A^A_
+l$pH
+D$(H
+L$0I
+D$PH
+D$pH
+D$XH
+D$xH
+D$`H
+t$Pt
+9D$d
+D$hE1
+D$d%
+D$hf
+SPE1
+T$dA
+T$XH
+T$df
+L$ H
+T$(L
+|$dA
+AWAVI
+AUATI
+W dH
+D$@H
+D$@H
+[]A\A]A^A_
+L$@H
+D$HE
+|$HL
+d$HI
+D$ E
+,$t9f
+D$ D
+t$ L
+D9t$
+\$ H
+t$(L
+T$0L
+T$0H
+D9t$
+D$ D
+D$ Lcd$
+\$(1
+D$0f
+L$0H
+D$(H
+f;H@H
+D$(L
+D$(H
+D$ D
+T$(H
+L$8M
+T$(L
+D$0H
+L$8t
+HPHc
+D$ D
+D$HL
+D$HH
+l$ 1
+\$8L
+T$PH
+L$0L
+D$(H
+\$8H
+t$ H
+L$0QL
+L$PL
+D$@L
+T$PH
+E@ATE
+B@PH
+WPE1
+WPE1
+\$0L
+T$(D
+T$(D
+ASARL
+UASAUM
+L$(H
+T$8D
+t$0L
+L$0I
+T$PL
+\$XH
+D$8H
+D$H1
+t$0L
+L$PL
+D$(H
+\$pL
+T$XA
+l$ 1
+AYAZ
+D$HH
+\$ H
+l$(A
+l$0D
+}2Lc
+\$ H
+l$(L
+l$0L
+d$81
+|$HL
+GPE1
+|$PL
+\$0D
+\$@L
+ASAUD
+T$HD
+L$(H
+T$8H
+t$0D
+M@E1
+T$0H
+t$PE1
+D$(E
+UATH
+L$(H
+L$81
+GP^_
+l$ H
+GP^_E
+t$ U
+A@PH
+GPE1
+\$0H
+D$(H
+D$(L
+\$0D
+T$(D
+D$(L
+\$PD
+T$0D
+AWAVAUATI
+D$(1
+T$8L
+D$ H
+L$(dH3
+8[]A\A]A^A_
+AWAVI
+AUAT
+([]A\A]A^A_
+s8H)
+AWAVAUATUSH
+8D;d$
+8;l$
+[]A\A]A^A_
+AWAVAUATL
+HcO0
+_4dH
+t$XA
+T$<A
+T$<L
+T$0L
+dH34%(
+[]A\A]A^A_
+ATUI
+[]A\
+AVAUI
+ATUSH
+rJLc
+[]A\A]A^
+D$4%
+]A\A]A^
+ATUI
+[]A\
+AUATI
+[]A\A]
+ATUSL
+[]A\H
+[]A\
+AWAVAUATUSH
+D$H1
+h?Lc
+D$HdH3
+X[]A\A]A^A_
+AVAUATUSH
+H;D$
+ []A\A]A^
+AWAVA
+AUATI
+|$`D
+t$pL
+[]A\A]A^A_
+=uNH9
+8 ttA
+t$0H
+t$0H
+D$ H
+t$8H
+L$0H
+T$8H
+t$@H
+D$@H
+t$ H
+|$ H
+t$8H
+|$@H
+L$ A
+|$pH
+D$8L
+|$pH
+D$@H
+D$ H
+D$@H
+t$XH
+T$XH
+t$`H
+t$XH
+T$XH
+t$`H
+AUATI
+D$(1
+$`~I
+L$(dH3
+8[]A\A]
+AWAV
+AUATUSH
+T$ H
+m<D9
+D$PMc
+*D95e
+A9m<
+D$(D95
+D$PJ
+h&eK
+D$ H
+D$XL
+T$HH
+t$@H
+|$XH
+[]A\A]A^A_
+D$PH
+AVAUI
+D$81
+L$8dH3
+@[]A\A]A^
+[]A\
+AWAV
+AUATUSH
+D$xE
+9\$x
+D$pH
+|$PL
+|$PI
+9\$x
+|$XE1
+D9d$X
+\$PH
+D9d$XH
+D$PH
+t$XD
+[]A\A]A^A_
+|$ H
+|$0H
+D$HPL
+D$0H
+T$@H
+t$HH
+|$@H
+AWAVAUATI
+D$h1
+t$P1
+t$8H
+L$hdH3
+x[]A\A]A^A_
+t$PL
+|$0L
+ATUSH
+T$0H
+[]A\
+T$0H
+AUAT1
+A9\$
+A9\$
+[]A\A]
+[]A\A]
+ATUI
+uCHcC 
+[]A\
+H;:t
+AWAVH
+GXAUATI
+A9\$
+E;u<ueIc
+A9\$
+E;u<u
+([]A\A]A^A_
+N49O4
+AUATUSH
+[]A\A]
+t+USH
+AWAVAUATI
+HcD$
+A;F<
+D$PH
+|.X/
+0u]A
+A;F<
+D$ H
+D$XH
+[]A\A]A^A_
+AWAVI
+AUATM
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUATUSH
+[]A\A]A^
+AVAUATUI
+l$8E
+[]A\A]A^
+t$ H
+t$(H
+t$0H
+t$8H
+L$PH
+D$X1
+L$XdH3
+AWAVAUATUSH
+D$LH
+t$8H
+D$(HcD$L
+D$@HcD$HH
+D;uP
+T$(L
+L$<9H s
+D$8HcL$
+t$0L
+\$ H
+\$ t~
+T$H9T$
+D$8L
+d$0L
+[]A\A]A^A_
+D$<+D$L
+AWAVAUATA
+L$@dH
+|$@H
+L$ H
+D$0H9L$
+L$@A
+l$HL
+\$<I
+D$(I
+T$0H
+T$0D
+D$(H
+L$0E9
+t%I;
+D$ H
+L$ H
+H#L$
+D$@u
+t$0I
+T$ H
+d$PH
+t$8H
+T$pI
+T$(H	
+t$@H
+T$xH
+t$HH
+T$XH+P
+T$pE
+t$`H
+t$h~^L
+|$@E
+A;O<
+L$ H
+D$ A;G<
+[]A\A]A^A_
+L$ H
+D$@H
+|$PH
+T$PH
+t$XD
+\$@L
+AWAVHc
+AUATUSH
+D$<H
+\$H1
+L$4L
+L$0H
+L9|$
+L$DH
+Ht$0H
+HcD$ I
+H+D$(H
+L9|$
+D$<H
+L$HdH3
+X[]A\A]A^A_
+L$0L
+t$ L
+l$(H
+T$DL
+HD$0
+D$8!E8
+AUAT
+[]A\A]
+AWAVAUATUSH
+|$0H
+D$h 
+D$xI
+D$XteL
+T$0L
+s@Hc
+[]A\A]A^A_
+D$0A
+G:@t
+|$0A
+t$0H
+G<9D$P
+A9\$
+|.pH
+t$@H
+|$0A
+AWAVAUATUSH
+D$'L
+T$,A
+t$ I
+T$,E
+[]A\A]A^A_
+8[]A\A]A^A_
+8[]A\A]A^A_
+8[]A\A]A^A_H
+ATUSH
+[]A\
+@t:E1
+AWAVAUATA
+[]A\A]A^A_
+T$0H
+T$0L
+H;D$0
+T$0H
+L$@L
+t$8H
+D$8H
+L$`D
+L$`D
+ATUSH
+D$(%
+[]A\
+AWAVAUATI
+dH3<%(
+[]A\A]A^A_
+T$<I
+D$4%
+AWAVI
+AUATI
+D$x1
+T$(A
+T$(H
+|$0H
+T$PHcl$
+\$@H
+D$H%
+\$8H
+L$`L
+|$`I
+t$(H
+L$xdH3
+[]A\A]A^A_
+ATUH
+ []A\
+AWAVAUATA
+|$@dH
+|$pH
+|$@H
+t$ H
+|$pA
+L$(H
+L$ H
+[]A\A]A^A_
+Borrow or rob
+AWAVI
+AUATI
+|$ L
+D$H1
+T$@H
+D$8%
+d$(L
+|$0L
+D$HdH3
+X[]A\A]A^A_
+AUATI
+D$(1
+L$ H
+D$(dH3
+8[]A\A]
+t$ H
+AWAVAUATI
+D$H1
+T$0E1
+D$0H
+D$8H
+D$HdH3
+X[]A\A]A^A_
+T$0H
+|$0L
+|$0L
+ATUI
+4$u>
+[]A\
+AWAVM
+AUATI
+|$@H
+L$HL
+L$0H
+|$8H
+t$(H
+L$~H
+H9L$0
+t$ H9t$8H
+t$ H
+|$ H9|$
+|$XI
+t$PE1
+t$(L
+L9L$
+L;L$
+t$PL
+|$XH
+H9|$0
+L$(H9L$8
+L$(H
+t$(H9t$
+\$PI
+\$XH
+\$ L
+L;L$
+\$PL
+|$`I9}
+L$ H9L$
+\$XI
+\$PH
+H9L$
+H;t$P
+H;|$X
+J9t	
+|$hH
+t$pH
+L9d$
+\$PL
+t$(H9t$
+L$`I
+t$PE1
+H9L$
+H;t$P
+D$XM)
+D$XI
+L;D$X
+L9d$
+t$`I;u
+H9L$0
+t$ H9t$8
+D$HM9
+[]A\A]A^A_
+D$@L9
+t$PL
+|$XA
+AUPM
+L$hH
+|$`L
+x9AUARM
+L$hH
+|$`H
+\$PL
+\$XA
+|$hH
+t$pI
+l$hL
+d$pA
+l$hL
+d$pE1
+D$ H9D$
+H9D$
+T$(H9T$
+H9T$
+AWAVAUATUSH
+D$h1
+T$ L
+L$@H
+D$(H
+D$8H
+D$0H
+D$HH
+D$XH
+D$PH
+PATAWH
+|$@H
+L$hdH3
+x[]A\A]A^A_
+AWAVAUATE1
+D$ L;d$ 
+D$ I
+t-f.
+H9l$ ~
+H9D$(
+L;d$ 
+[]A\A]A^A_
+AWAVE1
+AUATUSH
+x6f.
+[]A\A]A^A_
+$t8L
+[]A\A]A^A_
+AWAVAUATI
+D$ H
+t$ H
+|$ L
+[]A\A]A^A_
+L;{ |
+FdI)
+AWAVI
+AUATI
+|$4dH
+L$h1
+t$XH
+L$0H
+D$HH
+\$(1
+L9t$
+L$`L
+D$8H
+T$@M
+L$0H
+t$`H
+H#D$(H
+T$ H
+L9t$
+|$0H
+L$ L
+D$`I
+T$XH
+L$`I
+T$PL
+|$8I
+T$@I
+\$hdH3
+x[]A\A]A^A_
+|$PH
+D$PI
+AWAVI
+AUATA
+D$ H
+D$8Hc
+t$(I
+D$pH
+D$ I
+D$ H
+[]A\A]A^A_
+MXH9
+L$pL
+t	H9
+L$pK
+E`I9
+}xI9
+D$81
+L$8dH3
+AVAUATUSH
+]A\A]A^H
+[]A\A]A^
+]A\A]A^
+tKUSH
+AWAVI
+AUATI
+L9l$
+ uQHc
+~0L9l$
+L9d$
+8[]A\A]A^A_
+Hc\$
+H9\$
+|$(L
+D$ H
+8[]A\A]A^A_
+8[]A\A]A^A_
+Hc\$
+L9d$
+L9d$
+8[]A\A]A^A_
+&uBH9D$
+[]A\A]A^A_
+AUATUSH
+([]A\A]
+u{E1
+([]A\A]
+D$(1
+gfffffff
+|$(dH3<%(
+AWAVI
+AUATM
+D$ @@ -
+4$Hc
+[]A\A]A^A_
+4$Hc
+AVAULc
+ATUH
+L$ H)
+[]A\A]A^
+AUATI
+t:L9
+[]A\A]
+AUATI
+[]A\A]
+AWAVI
+AUATM
+D$81
+L$(H
+L;l$
+M;l$8
+D$ L
+H9l$
+l$ H;k8}>H
+T$(H
+T$8dH3
+H[]A\A]A^A_
+D$7H
+AWAVAUATI
+|$PH
+D$XH
+D$ I
+|$HL
+D$HH
+L$8M
+l$(M
+xZL9
+l$(L
+L$`H
+D$0L
+ZYxUH
+D$HL
+D$HH
+dH3<%(
+[]A\A]A^A_
+l$(M
+L$PL
+L$0H
+T$(L
+D$HH
+@ L9
+D$HH
+H9D$
+L$8L
+L$8L
+D$(H
+D$HI
+ATUI
+l$PH
+{ L9
+|@9s
+l$XH
+H+K0M
+K H)
+0[]A\
+S(I9
+L$(L
+D$ H
+D$ L
+T$XH
+[]A\
+L$(L
+D$ H
+D$ L
+L$(t1
+t$XH
+AWAVAUATUSH
+|$Xu
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+t$HH
+L$@L
+D$PD
+D$\H
+_AXA
+G RAVD
+v`Pj
+D$HH
+D$,H
+D$@H
+D$(H
+D$PH
+D$XM
+\$,AXAYD
+T$,E
+T$ Hc
+p`Ic
+T$0A
+t$,AYAZD
+\$(E
+[]A\A]A^A_
+D$lI
+D$<j
+T$(D
+\$X1
+T$ Hc
+t$XHc
+t$PI
+D$\E
+D$,H
+L$<A\D
+\$(Ic
+t$@I
+t$,Hc
+t$HI
+AWAVI
+AUATI
+t$PH
+t$XH
+l$PH
+d$XM
+t$4A
+D$ I
+t$0H
+D$(A
+D$ A
+PARHc
+AZA[
+PLcM LcE
+dH34%(
+[]A\A]A^A_
+IcD$ D
+PIcD$
+A_ZtHH
+D\$`
+PLcM LcE
+AXAYt
+D$ I9
+IcD$
+l$8H
+\$@M
+l$8L
+\$@H
+IcD$ D
+D\$`
+IcL$
+PIcD$
+\$8H
+|$pI
+L$pH
+D$xH
+t$hH
+l$hM
+G(uR
+\$hH
+\$8H
+|$<AWj
+l$HL
+t$@D
+L$PL
+D$8H
+AWPL
+L$PL
+D$8H
+D$@I
+l$8M
+\$@L
+\$8L
+t$HI
+\$@I
+t$8)
+uJL9
+D$8H
+\$@L
+t$HA
+D$<Pj
+L$PL
+D$8H
+L$HH
+t$@H
+t$<VPSD
+L$PL
+D$8H
+L$HH
+t$@H
+\$8H
+AWAVA
+AUATI
+IcL$
+A;\$
+H90u
+D$8M
+D$@I
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+G`Hc
+AWAVAUATI
+dH3<%(
+[]A\A]A^A_
+\$8H
+l$HH
+Hc|$
+D$ E1
+P Ic
+t$PH
+|$HD
+t$PH
+|$`1
+ATSA)
+L$XH
+T$`H
+t$PH
+D$PD
+t$`H
+|$HA
+AUATI
+[]A\A]
+AWAVAUATUSH
+|$`H
+t$PdH
+L$HD
+dH3<%(
+[]A\A]A^A_
+HcT$
+t$PH
+u8HcT$
+|$HH
+D$PD
+D$`H
+HcD$4H
+\$XH
+D$(H
+D$(H
+|$XD
+\$4E
+D$(D
+D9|$
+s};\$
+D9|$
+D9l$ 
+|$49|$
+|$@E
+l$<H
+\$0E
+l$ A
+tDD;t$
+D9t$
+l$4E
+|$l9
+|$HHcD$
+|$LHcD$
+t$pD
+L$LD
+t$P)
+t$PD
+\$0E
+AWAVA
+AUATL
+[]A\A]A^A_
+bad argument
+git-
+bad command
+cvs server
+git-shell-commands
+git> 
+quit
+logout
+exit
+unrecognized command '%s'
+unrecognized command '%s'
+invalid command format '%s'
+git-shell-commands/help
+git-receive-pack
+git-upload-pack
+git-upload-archive
+could not determine user's home directory; HOME is unset
+could not chdir to user's home directory
+Interactive git shell is not enabled.
+hint: ~/git-shell-commands should exist and have read and execute access.
+git-shell-commands/no-interactive-login
+invalid command format '%s': %s
+Run with no arguments or with -c cmd
+invalid command format '%s': %s
+alias.%s
+size_t overflow: %lu * %lu
+cmdline ends with \
+unclosed quote
+BUG: config_buf can only ungetc the same character
+key does not contain a section: %s
+key does not contain variable name: %s
+bad numeric config value '%s' for '%s' in %s: %s
+bad numeric config value '%s' for '%s': %s
+BUG: strbuf_setlen() beyond buffer
+bogus format in GIT_CONFIG_PARAMETERS
+failed to expand user dir in: '%s'
+core.autocrlf=input conflicts with core.eol=crlf
+core.commentChar should only be one character
+invalid mode for object creation: %s
+Must be one of nothing, matching, simple, upstream or current.
+Could not expand include path '%s'
+relative config includes must come from files
+unable to parse command-line config
+unable to resolve config blob '%s'
+unable to load config blob object '%s'
+reference '%s' does not point to a blob
+unknown error occured while reading the configuration files
+unable to parse '%s' from command-line config
+bad config variable '%s' in file '%s' at line %d
+could not lock config file %s: %s
+could not write config file %s: %s
+failed to write new configuration file %s
+invalid key: %s
+invalid key (newline): %s
+invalid unit
+[%.*s "
+[%.*s]
+	%.*s = %s
+%s has multiple values
+bad config file line %d in %s
+GIT_CONFIG_PARAMETERS
+bogus config parameter: %s
+false
+Missing value for '%s'
+core.
+core.filemode
+core.trustctime
+core.checkstat
+core.quotepath
+core.symlinks
+core.ignorecase
+core.attributesfile
+core.bare
+core.ignorestat
+core.prefersymlinkrefs
+core.logallrefupdates
+core.warnambiguousrefs
+core.abbrev
+core.loosecompression
+bad zlib compression level %d
+core.compression
+core.packedgitwindowsize
+core.bigfilethreshold
+core.packedgitlimit
+core.deltabasecachelimit
+core.autocrlf
+core.safecrlf
+warn
+core.eol
+native
+core.notesref
+core.pager
+core.editor
+core.commentchar
+auto
+core.askpass
+core.excludesfile
+core.whitespace
+core.fsyncobjectfiles
+core.preloadindex
+core.createobject
+rename
+core.sparsecheckout
+core.precomposeunicode
+core.protecthfs
+core.protectntfs
+user.
+i18n.
+i18n.commitencoding
+i18n.logoutputencoding
+branch.
+branch.autosetupmerge
+branch.autosetuprebase
+never
+Malformed value for %s
+push.
+push.default
+nothing
+simple
+upstream
+tracking
+Malformed value for %s: %s
+mailmap.
+mailmap.file
+mailmap.blob
+advice.
+pager.color
+color.pager
+pack.packsizelimit
+the command line
+include.path
+/etc/gitconfig
+failed to parse %s
+GIT_CONFIG_NOSYSTEM
+~/.gitconfig
+<stdin>
+config.c
+values->nr > 0
+error: 
+opening %s: %s
+invalid pattern: %s
+invalid config file %s
+unable to mmap '%s': %s
+chmod on %s failed: %s
+Could not set '%s' to '%s'
+could not lock config file %s
+invalid section name: %s
+git_configset_get_value
+exceeded maximum include depth (%d) while including
+from
+Do you have circular includes?
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+@@@@@@@@@AA@@A@@@@@@@@@@@@@@@@@@
+     
+refs/replace/
+GIT_DIR
+GIT_OBJECT_DIRECTORY
+GIT_INDEX_FILE
+info/grafts
+GIT_GRAFT_FILE
+GIT_NO_REPLACE_OBJECTS
+GIT_REPLACE_REF_BASE
+GIT_NAMESPACE
+refs/namespaces/%s
+bad git namespace path "%s"
+GIT_SHALLOW_FILE
+%s/pack/pack-%s.keep
+Could not set GIT_DIR to '%s'
+UTF-8
+GIT_CONFIG
+GIT_WORK_TREE
+GIT_IMPLICIT_WORK_TREE
+GIT_PREFIX
+GIT_COMMON_DIR
+internal error: work tree has already been set
+Current worktree: %s
+New worktree: %s
+GIT_ALTERNATE_OBJECT_DIRECTORIES
+/usr
+GIT_EXEC_PATH
+/usr/lib/git-core
+/usr/bin:/bin
+trace: exec:
+exec_cmd.c
+trace: exec failed: %s
+too many args to run %s
+LANGUAGE
+POSIX
+/usr/share/locale
+GIT_TEXTDOMAINDIR
+David_K
+gedal
+size_t overflow: %lu + %lu
+0123456789abcdef
+unknown
+Unknown
+cannot get host name: %s
+%s.(none)
+/etc/mailname
+cannot open /etc/mailname: %s
+cannot read /etc/mailname: %s
+0123456789
+invalid date format: %s
+GIT_AUTHOR_NAME
+GIT_AUTHOR_EMAIL
+GIT_AUTHOR_DATE
+GIT_COMMITTER_NAME
+GIT_COMMITTER_EMAIL
+GIT_COMMITTER_DATE
+user.name
+user.email
+*** Please tell me who you are.
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+empty ident name (for <%s>) not allowed
+unable to auto-detect name (got '%s')
+unable to auto-detect email address (got '%s')
+Unable to create '%s.lock': %s.
+If no other git process is currently running, this probably means a
+git process crashed in this repository earlier. Make sure no other git
+process is running and remove the file manually to continue.
+Unable to create '%s.lock': %s
+BUG: get_locked_file_path() called for malformed lock object
+HEAD:.mailmap
+mailmap is not a blob: %s
+unable to open mailmap at %s: %s
+unable to read mailmap object at %s
+# repo-abbrev:
+info
+ref:
+git~1
+path.c
+XDG_CONFIG_HOME
+%s/git/%s
+%s/.config/git/%s
+CHERRY_PICK_HEAD
+REVERT_HEAD
+SQUASH_MSG
+MERGE_MSG
+MERGE_MODE
+MERGE_HEAD
+FETCH_HEAD
+shallow
+.git/.git
+hooks
+info/sparse-checkout
+logs/HEAD
+logs/refs/bisect
+lost-found
+worktrees
+rr-cache
+gc.pid
+packed-refs
+Could not make %s writable by group
+xdg_config_home
+Too many or long arguments
+abtnvfr
+Log for ref %s has gap after %s.
+Log for ref %s unexpectedly ended on %s.
+BUG: update called for transaction that is not open
+refusing to update ref with bad name %s
+BUG: create called without valid new_sha1
+BUG: delete called with old_sha1 set to zeros
+Could not open '%s' for writing
+Unexpected sha1 when deleting %s
+BUG: verify called with old_sha1 set to NULL
+Could not open '%s' for writing: %s
+Unexpected sha1 when writing %s
+update_ref failed for ref '%s': %s
+refs/tags/
+refs/heads/
+refs/remotes/
+%sHEAD
+ignoring dangling symref %s.
+ignoring broken ref %s.
+refs/bisect/
+refs/notes/
+Log for %s is empty.
+refs.c
+could not read ref '%s'
+Could not write to '%s'
+offset < total_len
+transfer.hiderefs
+refs/%.*s
+refs/tags/%.*s
+refs/heads/%.*s
+refs/remotes/%.*s
+refs/remotes/%.*s/HEAD
+shorten_unambiguous_ref
+ref_transaction_update
+ref_transaction_begin
+Couldn't write %s
+unable to append to %s: %s
+would prune %s
+%s %s %s %lu %+05d	%s
+keep %s
+Duplicated ref: %s
+refs/files-backend.c
+bad ref for %s
+entry->flag & REF_DIR
+# pack-refs with:
+ peeled 
+ fully-peeled 
+core.packedrefstimeout
+dir->sorted == dir->nr
+dir1->sorted == dir1->nr
+dir2->sorted == dir2->nr
+GIT_REF_PARANOIA
+can't verify ref %s
+%srefs/
+could not remove reference %s
+%s %s %s
+Couldn't set %s
+reflog for %s is a symlink
+refname %s not found
+logs/refs/.tmp-renamed-log
+unable to delete old %s
+Directory not empty: %s
+unable to delete existing %s
+Directory not empty: logs/%s
+ref: %s
+refname too long: %s
+Unable to open %s for writing
+Unable to write to %s
+Unable to create %s
+cannot lock ref '%s': %s
+Couldn't close %s.lock
+cannot fdopen %s (%s)
+couldn't write %s: %s
+couldn't write %s
+couldn't set %s
+Trying to write ref %s with nonexistent object %s
+Trying to write non-commit object %s to branch %s
+unable to create directory for %s: %s
+There are still logs under '%s'
+internal error: packed-ref cache cleared while locked
+Reference directory conflict: %s
+Duplicated ref, and SHA1s don't match: %s
+internal error: %s is not a valid packed reference!
+Multiple updates for ref '%s' not allowed.
+%s does not point to a valid object!
+Reference has invalid format: '%s'
+loose refname is dangerous: %s
+internal error peeling reference %s (%s)
+packed refname is dangerous: %s
+internal error: packed-refs not locked
+unable to fdopen packed-refs descriptor
+unable to overwrite old ref-pack file: %s
+'%s' exists; cannot create '%s'
+cannot process '%s' and '%s' at the same time
+conflict between reference and directory: %s
+there are still refs under '%s'
+unable to resolve reference %s: %s
+unable to create directory for %s
+ref %s is at %s but expected %s
+could not delete reference %s: %s
+could not delete references: %s
+Cannot update the ref '%s': %s
+refname %s is a symbolic ref, renaming it is not supported
+unable to move logfile logs/%s to logs/refs/.tmp-renamed-log: %s
+unable to move logfile logs/refs/.tmp-renamed-log to logs/%s: %s
+unable to rename '%s' to '%s': %s
+unable to write current sha1 into %s: %s
+unable to lock %s for rollback: %s
+unable to restore logfile %s from %s: %s
+unable to restore logfile %s from logs/refs/.tmp-renamed-log: %s
+no symlink - falling back to symbolic ref
+Unable to fix permissions on %s
+cannot seek back reflog for %s: %s
+cannot read %d bytes from reflog for %s: %s
+BUG: reverse reflog parser had leftover data
+BUG: commit called for transaction that is not open
+cannot update the ref '%s': %s
+unable to overwrite old ref-pack file
+BUG: initial ref transaction called with existing refs
+BUG: initial ref transaction with old_sha1 set
+unable to lock packed-refs file: %s
+internal error: packed refs not locked
+unable to commit packed-refs file: %s
+unable to write reflog '%s' (%s)
+initial_ref_transaction_commit
+ref_update_reject_duplicates
+ref_transaction_commit
+lock_ref_sha1_basic
+verify_refname_available_dir
+repack_without_refs
+do_for_each_entry_in_dir
+do_for_each_entry_in_dirs
+get_ref_dir
+# pack-refs with: peeled fully-peeled 
+waitpid for %s failed: %s
+waitpid is confused (%s)
+%s died of signal %d
+fatal: 
+open /dev/null failed
+standard input
+standard output
+standard error
+trace: run_command:
+run-command.c
+dup2(%d,%d) failed
+exec '%s': cd to '%s' failed
+BUG: shell command is empty
+|&;<>()$`\"' 	
+*?[#~=%
+/bin/sh
+%s "$@"
+cannot run %s: %s
+cannot exec '%s'
+cannot fork() for %s: %s
+cannot create pipe: %s
+cannot create thread: %s
+pthread_join failed
+hooks/%s
+cannot create %s pipe for %s: %s
+BUG: run_command with a pipe can cause deadlock
+bad flag '%s' used after filename
+%s: no such path in the working tree.
+Use 'git <command> -- <path>...' to specify paths that do not exist locally.
+ambiguous argument '%s': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+Expected git repo version <= %d, found %d
+unknown repository extension: %s
+ambiguous argument '%s': both revision and filename
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+unable to set up work tree using invalid config
+This operation must be run in a work tree
+Too large to be a .git file: '%s'
+core.bare and core.worktree do not make sense
+Unable to read current working directory
+GIT_DISCOVERY_ACROSS_FILESYSTEM
+Not a git repository (or any of the parent directories): %s
+Not a git repository (or any parent up to mount point %s)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+Problem with core.sharedRepository filemode value (0%.3o).
+The owner of files must always have read and write permissions.
+%.*s%s
+'%s' is outside repository
+failed to stat '%s'
+%s/commondir
+failed to read %s
+Please upgrade Git
+%s/HEAD
+/objects
+/refs
+gitdir: 
+%.*s%.*s
+Error opening '%s'
+Error reading %s
+Invalid gitfile format: %s
+No path in gitfile: %s
+Not a git repository: %s
+setup.c
+orig_path_len != 0
+'$%s' too big
+Not a git repository: '%s'
+Could not chdir to '%s'
+Could not come back to cwd
+GIT_CEILING_DIRECTORIES
+failed to stat '%*s%s%s'
+Cannot come back to cwd
+Cannot change to '%s/..'
+umask
+group
+world
+everybody
+extensions.
+core.repositoryformatversion
+core.sharedrepository
+preciousobjects
+noop
+core.worktree
+open /dev/null or dup failed
+fork failed
+setsid failed
+is_nonbare_repository_dir
+%s %lu
+invalid object type
+%s/pack/pack-%s.%s
+GIT_MMAP_LIMIT
+mmap failed
+/pack
+.bitmap
+%s/info/alternates
+objects/info/alternates
+index file %s is too small
+non-monotonic index %s
+%.*s.idx
+packfile %s index unavailable
+packfile %s size changed
+cannot set FD_CLOEXEC
+file %s is not a GIT packfile
+object file %s is empty
+bad object header
+corrupt loose object '%s'
+GIT_DEBUG_LOOKUP
+GIT_USE_LOOKUP
+lo %u hi %u rg %u mi %u
+I am totally screwed
+%s %lu
+sha1_file.c
+bad packed object CRC for %s
+failed to apply delta
+unable to unpack %s header
+unable to parse %s header
+failed to read object %s
+tree 
+object 
+/tmp_obj_XXXXXX
+file write error (%s)
+unable to write sha1 file
+error when closing sha1 file
+failed utime() on %s: %s
+corrupt commit
+corrupt tag
+cannot read sha1_file for %s
+open("%s"): %s
+readlink("%s"): %s
+%s: unsupported file type
+%s is not a valid object
+%s is not a valid '%s' object
+/%02x
+unable to open %s: %s
+%02x%s
+GIT_TRACE_PACK_ACCESS
+insanely long object directory %s
+pack_report: getpagesize()            = %10lu
+pack_report: core.packedGitWindowSize = %10lu
+pack_report: core.packedGitLimit      = %10lu
+pack_report: pack_used_ctr            = %10u
+pack_report: pack_mmap_calls          = %10u
+pack_report: pack_open_windows        = %10u / %10u
+pack_report: pack_mapped              = %10lu / %10lu
+attempting to mmap %lu over limit %lu
+pack '%s' still has open windows to it
+BUG! Want to close pack marked 'do-not-close'
+unable to open object pack directory: %s: %s
+%s: ignoring alternate object stores, nesting too deep.
+%s: ignoring relative alternate object store %s
+object directory %s does not exist; check .git/objects/info/alternates.
+unable to fdopen alternates lockfile
+unable to read alternates file
+unable to move new alternates file into place
+index file %s is version %u and is not supported by this binary (try upgrading GIT to a newer version)
+wrong index v1 file size in %s
+wrong index v2 file size in %s
+BUG: pack_name does not end in .pack
+packfile %s not a regular file
+cannot determine file descriptor flags
+file %s is far too short to be a packfile
+packfile %s is version %u and not supported (try upgrading GIT to a newer version)
+packfile %s claims to have %u objects while index indicates %u objects
+end of packfile %s is unavailable
+packfile %s signature is unavailable
+packfile %s does not match index
+packfile %s cannot be accessed
+offset beyond end of packfile (truncated pack?)
+offset before end of packfile (broken .idx?)
+garbage at end of loose object '%s'
+delta data unpack-initial failed
+offset before start of pack index for %s (corrupt index?)
+offset beyond end of pack index for %s (truncated index?)
+%02x%02x%02x... lo %u hi %u nr %u
+failed to read object %s at offset %lu from %s
+failed to validate delta base reference at offset %lu from %s
+BUG in unpack_entry: left loop at a valid delta
+unknown object type %i at offset %lu in %s
+failed to read delta base object %s at offset %lu from %s
+failed to unpack compressed delta at offset %lu from %s
+unable to parse %s header with --allow-unknown-type
+unable to unpack %s header with --allow-unknown-type
+replacement %s not found for %s
+loose object %s (stored in %s) is corrupt
+packed object %s (stored in %s) is corrupt
+unable to write sha1 filename %s: %s
+unable to set permission to '%s'
+insufficient permission for adding an object to repository database %s
+unable to create temporary file: %s
+unable to deflate new object %s (%d)
+deflateEnd on object %s failed (%d)
+confused by unstable object source data for %s
+would_convert_to_git_filter_fd(path)
+%s: failed to insert into database
+unable to get sha1 of object %u in %s
+index_stream_convert_blob
+0123456789abcdef
+%.2s
+%.2s/
+short SHA1 %.*s is ambiguous.
+@{push}
+@{upstream}
+@{u}
+checkout: moving from 
+commit}
+tag}
+tree}
+blob}
+object}
+refname '%.*s' is ambiguous.
+Invalid object name '%.*s'.
+BUG: startup_info struct is not initialized.
+relative path syntax can't be used outside working tree.
+%.*s: expected %s type, but the object dereferences to %s type
+Git normally never creates a ref that ends with 40 hex characters
+because it will be ignored when you just specify 40-hex. These refs
+may be created by mistake. For example,
+  git checkout -b $br $(git rev-parse ...)
+where "$br" is somehow empty and a 40-hex ref is created. Please
+examine these refs and maybe delete them. Turn this message off by
+running "git config advice.objectNameWarning false"
+Log for '%.*s' only goes back to %s.
+Log for '%.*s' only has %d entries.
+Path '%s' is in the index, but not at stage %d.
+Did you mean ':%d:%s'?
+Path '%s' is in the index, but not '%s'.
+Did you mean ':%d:%s' aka ':%d:./%s'?
+Path '%s' exists on disk, but not in the index.
+Path '%s' does not exist (neither on disk nor in the index).
+Path '%s' exists on disk, but not in '%.*s'.
+Path '%s' exists, but not '%s'.
+Did you mean '%.*s:%s' aka '%.*s:./%s'?
+Path '%s' does not exist in '%.*s'
+BUG: incompatible flags for get_sha1_with_context
+BUG: shallow must be initialized by now
+shallow file has changed since we read it
+Removing %s from .git/shallow
+BUG: is_repository_shallow must not be called before set_alternate_shallow_file
+shallow: prepare_shallow_info
+shallow: remove_nonexistent_theirs_shallow
+shallow: assign_shallow_commits_to_refs
+shallow %s
+shallow %s
+bad shallow line: %s
+shallow_XXXXXX
+failed to write to %s
+shallow.c
+unable to parse commit %s
+shallow: post_assign_shallow
+GIT_TRACE_SHALLOW
+BUG: signal out of range: %d
+you want to use way too much memory
+`pos' is too far after the end of the buffer
+`pos + len' is too far after the end of the buffer
+BUG: your vsnprintf is broken (returned %d)
+BUG: your vsnprintf is broken (insatiable)
+Out of memory, getdelim failed
+The empty string is not a valid path
+strbuf.c
+r == -1
+"<>&
+&quot;
+&lt;
+&gt;
+&amp;
+%%%02x
+%u.%2.2u GiB
+%u.%2.2u MiB
+%u.%2.2u KiB
+%u bytes
+strbuf_getwholeline
+%s:%p
+internal error in string_list_split(): list->strdup_strings must be set
+internal error in string_list_split_in_place(): list->strdup_strings must not be set
+missing object referenced by '%.*s'
+type 
+Unknown type %s
+tag 
+tagger 
+Could not read %s
+Object %s not a tag
+BUG: prepare_tempfile_object called for active object
+BUG: prepare_tempfile_object called for improperly-reset object
+Unable to create temporary file '%s'
+BUG: fdopen_tempfile() called for inactive object
+BUG: fdopen_tempfile() called for open object
+BUG: get_tempfile_path() called for inactive object
+BUG: get_tempfile_fd() called for inactive object
+BUG: get_tempfile_fp() called for inactive object
+BUG: reopen_tempfile called for an open object
+BUG: reopen_tempfile called for an inactive object
+cannot fix permission bits on %s
+BUG: rename_tempfile called for inactive object
+/tmp
+TMPDIR
+%02d:%02d:%02d.%06ld 
+%s:%d 
+performance: %.9f s
+(null)
+setup: git_dir: %s
+trace.c
+setup: git_common_dir: %s
+setup: worktree: %s
+setup: cwd: %s
+setup: prefix: %s
+git command:%s
+GIT_TRACE_SETUP
+GIT_TRACE_BARE
+GIT_TRACE
+GIT_TRACE_PERFORMANCE
+Could not open '%s' for tracing: %s
+Defaulting to tracing on stderr...
+What does '%s' for %s mean?
+If you want to trace into a file, then please set %s to an absolute pathname (starting with /).
+Defaulting to tracing on stderr...
+Could not trace into fd given by GIT_TRACE environment variable
+AObject %s not a tree
+Commit %s in submodule path %s%s not found
+Invalid commit %s in submodule path %s%s
+corrupt tree file
+tree-walk.c
+unable to read tree %s
+BUG:%s:%d: unsupported magic %x
+usage: 
+warning: 
+fatal: recursion detected in die handler
+fatal: recursion detected in die_errno handler
+utf-8
+utf8
+%*s%-*s
+alnum
+blank
+cntrl
+lower
+print
+upper
+xdigit
+alpha
+punct
+GIT_ALLOC_LIMIT
+unable to %s %s: %s
+Out of memory, strdup failed
+Out of memory, realloc failed
+Out of memory, calloc failed
+could not open %s for writing
+could not write to %s
+could not close %s
+Out of memory? fdopen failed
+wrapper.c
+unable to unlink %s: %s
+unlink
+rmdir
+unable to access '%s': %s
+unable to access '%s'
+BUG: your snprintf is broken
+attempting to allocate %lu over limit %lu
+Out of memory, malloc failed (tried to allocate %lu bytes)
+Data too large to fit into virtual memory space.
+data too large to fit into virtual memory space
+could not open '%s' for reading and writing
+could not open '%s' for writing
+could not open '%s' for reading
+unable to get current working directory
+BUG: attempt to snprintf into too-small buffer
+unlink_or_msg
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+GIT_FLUSH
+write failure on '%s'
+fsync error on '%s'
+%s: write error (%s)
+trailing-space
+tabwidth=
+tabwidth %.*s out of range
+trailing whitespace
+new blank line at EOF
+space before tab in indent
+indent with spaces
+space-before-tab
+indent-with-non-tab
+cr-at-eol
+blank-at-eol
+blank-at-eof
+tab-in-indent
+cannot enforce both tab-in-indent and indent-with-non-tab
+BUG: total_out mismatch
+BUG: total_in mismatch
+no message
+unknown error
+1.2.8
+deflateInit2: %s (%s)
+inflateInit: %s (%s)
+inflateInit2: %s (%s)
+inflateEnd: %s (%s)
+inflate: out of memory
+inflate: %s (%s)
+deflateInit: %s (%s)
+deflateEnd: %s (%s)
+deflate: out of memory
+deflate: %s (%s)
+wrong version
+data stream error
+stream consistency error
+needs dictionary
+Could not get current working directory
+Could not switch to '%s'
+Invalid symlink '%s'
+Could not change back to '%s'
+hint: %.*s
+pushupdaterejected
+pushnonffcurrent
+pushnonffmatching
+pushalreadyexists
+pushfetchfirst
+pushneedsforce
+statushints
+statusuoption
+commitbeforemerge
+resolveconflict
+implicitidentity
+detachedhead
+setupstreamfailure
+objectnamewarning
+rmhints
+pushnonfastforward
+%s is not possible because you have unmerged files.
+Fix them up in the work tree, and then use 'git add/rm <file>'
+as appropriate to mark resolution and make a commit.
+Exiting because of an unresolved conflict.
+You have not concluded your merge (MERGE_HEAD exists).
+Please, commit your changes before merging.
+Exiting because of unfinished merge.
+Note: checking out '%s'.
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by performing another checkout.
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -b with the checkout command again. Example:
+  git checkout -b <new-branch-name>
+%10s: %8u (%lu kB)
+[attr]
+%s not allowed: %s:%d
+GIT_ATTR_NOSYSTEM
+[builtin]
+/etc/gitattributes
+.gitattributes
+info/attributes
+attr.c
+attr_stack->origin
+%.*s is not a valid attribute name: %s:%d
+Negative patterns are ignored in git attributes
+Use '\!' for literal leading exclamation.
+BUG: non-INDEX attr direction in a bare repo
+[attr]binary -diff -merge -text
+prepare_attr_stack
+(builtin)unknown
+(builtin)false
+(builtin)true
+%s/pack/pack-
+unable to write pack header
+BUG: should not happen
+cannot seek back
+cannot find the current offset
+failed to read %d bytes from '%s'
+unexpected deflate failure: %d
+%c%d %d
+cache-tree.c
+!(dryrun && repair)
+%o %.*s%c
+cache-tree: internal error
+%s: unmerged (%s)
+You have both %s and %s
+fatal - unsorted cache subtree
+index cache-tree records empty sub-tree
+cache-tree.c: '%.*s' in '%s' not found
+invalid object %06o %s for '%.*s'
+update_one
+mergetag
+could not parse %s
+%s %s is not a commit!
+bad graft data: %s
+duplicate graft data: %s
+bogus commit object %s
+bad tree pointer in commit %s
+bad parents in commit %s
+parent 
+author
+committer
+Object %s not a commit
+cannot read commit object %s
+encoding 
+tree %s
+author %s
+committer %s
+encoding %s
+Conflicts:
+expected commit for %s, got %s
+a NUL byte in commit log message not allowed.
+Warning: commit message did not conform to UTF-8.
+You may want to amend it after fixing the message, or set the config
+variable i18n.commitencoding to the encoding your project uses.
+gpgsig
+convert_to_git_filter_fd
+smudge
+required
+external filter %s failed %d
+external filter %s failed
+%s: smudge filter %s failed
+$Id: 
+%s: clean filter '%s' failed
+convert.c
+ca.drv
+ca.drv->clean
+: %s $
+ident
+cannot fork to run external filter %s
+cannot feed the input to external filter %s
+read from external filter %s failed
+CRLF will be replaced by LF in %s.
+The file will have its original line endings in your working directory.
+CRLF would be replaced by LF in %s.
+LF will be replaced by CRLF in %s.
+The file will have its original line endings in your working directory.
+LF would be replaced by CRLF in %s
+copy-fd: read returned %s
+copy-fd: write returned %s
+%s: close error: %s
+%s: sha1 file read error
+%s: sha1 file truncated
+sha1 file '%s' write error
+%s: sha1 file error on close
+unable to open /dev/null
+unable to open '%s'
+sha1 file '%s' validation error
+sha1 file '%s' write error. Out of diskspace
+%s: error when reading the tail of sha1 file
+%s: sha1 file has trailing garbage
+%lu %c%02d%02d
+January
+yesterday
+seconds
+Sundays
+last
+months
+in the future
+%lu seconds ago
+%lu second ago
+%lu minutes ago
+%lu minute ago
+%lu hours ago
+%lu hour ago
+%lu days ago
+%lu day ago
+%lu weeks ago
+%lu week ago
+%lu years
+%lu year
+%s, %lu months ago
+%s, %lu month ago
+%lu years ago
+%lu year ago
+%lu %+05d
+%04d-%02d-%02d
+IDLW
+default-local
+iso8601-strict
+iso-strict
+iso8601
+rfc2822
+short
+format
+unknown date format %s
+minutes
+hours
+weeks
+zero
+three
+four
+five
+seven
+eight
+nine
+noon
+midnight
+MEWT
+MEST
+CEST
+MESZ
+EEST
+WAST
+WADT
+EAST
+EADT
+NZST
+NZDT
+IDLE
+Mondays
+Tuesdays
+Wednesdays
+Thursdays
+Fridays
+Saturdays
+February
+March
+April
+June
+July
+August
+September
+October
+November
+December
+BUG: cannot create anonymous strftime date_mode struct
+%04d-%02d-%02d %02d:%02d:%02d %+05d
+%04d-%02d-%02dT%02d:%02d:%02d%c%02d:%02d
+%.3s, %d %.3s %d %02d:%02d:%02d %+05d
+%.3s %.3s %d %02d:%02d:%02d %d%c%+05d
+date format missing colon separator: %s
+dir.c
+Location %s, system %s %s %s
+oops in prep_exclude
+GIT_DISABLE_UNTRACKED_CACHE
+.gitignore
+info/exclude
+GIT_TRACE_UNTRACKED_STATS
+failed to get kernel name and information
+pathspec '%s' did not match any file(s) known to git.
+cannot use %s as an exclude file
+x->baselen == 0 || x->base[x->baselen - 1] == '/'
+stk->baselen == dir->basebuf.len
+Untracked cache is disabled on this system.
+node creation: %u
+gitignore invalidation: %u
+directory invalidation: %u
+opendir: %u
+dir && subdir && *dir && *subdir
+dir_inside_of
+prep_exclude
+last_exclude_matching_from_list
+ewah/ewah_bitmap.c
+i >= self->bit_size
+it->literals < it->lw
+it->pointer < it->buffer_size
+rlw_get_literal_words(self->rlw) == current_num + 1
+rlw_get_run_bit(self->rlw) == v
+rlw_get_running_len(self->rlw) == run_len + 1
+rlw_get_running_len(self->rlw) == 0
+rlw_get_run_bit(self->rlw) == 0
+rlw_get_literal_words(self->rlw) == 0
+ewah_iterator_next
+ewah_set
+add_literal
+add_empty_word
+[GNUPG:] GOODSIG 
+-----BEGIN PGP SIGNATURE-----
+-----BEGIN PGP MESSAGE-----
+user.signingkey
+gpg.program
+-bsau
+could not run gpg.
+gpg did not accept the data
+gpg failed to sign the data
+--status-fd=1
+--verify
+.git_vtag_tmpXXXXXX
+[GNUPG:] BADSIG 
+[GNUPG:] TRUST_NEVER
+[GNUPG:] TRUST_UNDEFINED
+could not create temporary file '%s': %s
+failed writing detached signature to '%s': %s
+invalid object type "%s"
+object %s is a %s, not a %s
+sha1 mismatch %s
+unable to parse object: %s
+object %s has unknown type id %d
+packfile %s index not opened
+%s SHA1 checksum mismatch
+packed %s from %s is corrupt
+Packfile index for %s SHA1 mismatch
+%s SHA1 does not match its index
+internal error pack-check nth-packed-object
+index CRC mismatch for object %s from %s at offset %lu
+cannot unpack %s from %s at offset %lu
+internal error: pack revindex fubar
+bad offset for revindex
+pack-write.c
+index_name
+pack/tmp_idx_XXXXXX
+unable to create '%s'
+Failed to checksum '%s'
+keep	
+bad type %d
+pack/tmp_pack_XXXXXX
+%s.pack
+%s.idx
+The same object %s appears twice in the pack
+Failed seeking to start of '%s'
+Unable to reread header of '%s'
+Unexpected checksum for %s (disk corruption?)
+unable to make temporary pack file readable
+unable to make temporary index file readable
+unable to rename temporary pack file
+unable to rename temporary index file
+write_idx_file
+unexpected delta opcode 0
+delta replay has gone wild
+BUG: multiple sources given to packet_read
+The remote end hung up unexpectedly
+protocol error: impossibly long line
+protocol error: bad line length character: %.4s
+protocol error: bad line length %d
+PACK ...
+sideband
+PACK
+packet: %12s%c 
+pkt-line.c
+0000
+GIT_TRACE_PACKFILE
+GIT_TRACE_PACKET
+0123456789abcdef
+BUG: prio_queue_reverse() on non-LIFO queue
+%s: %3u%% (%u/%u)%s%s
+%s: %u%s%s
+%s...
+, %s.
+done
+internal error: ce_mode is %o
+GIT_INDEX_VERSION
+index.version
+GIT_TEST_SPLIT_INDEX
+GIT_ALLOW_NULL_SHA1
+read-cache.c
+Invalid path '%s'
+unable to index file %s
+unable to add %s to index
+add '%s'
+unable to stat '%s'
+A	%s
+T	%s
+D	%s
+M	%s
+U	%s
+%s needs update
+%s: needs update
+%s: needs merge
+%s: index file open failed
+cannot stat the open index
+unable to map index file
+bad signature
+bad index version %d
+bad index file sha1 signature
+ignoring %.4s extension
+index file corrupt
+sharedindex.%s
+sharedindex_XXXXXX
+%s: cannot drop to stage #0
+unordered stage entries in index
+multiple stage entries for merged file '%s'
+unordered stage entries for '%s'
+index.version set, but the value is invalid.
+Using version %i
+GIT_INDEX_VERSION set, but the value is invalid.
+Using version %i
+(flags & (COMMIT_LOCK | CLOSE_LOCK)) != (COMMIT_LOCK | CLOSE_LOCK)
+cannot create an empty blob in the object database
+'%s' appears as both a file and as a directory
+%s: can only add regular files, symbolic links or git-directories
+Will not add file alias '%s' ('%s' already exists in index)
+index file smaller than expected
+Unknown index entry format %08x
+malformed name field in the index
+index uses %.4s extension, which we do not understand
+broken index, expect %s in %s, got %s
+cache entry has null sha1: %s
+do_write_locked_index
+Invalid refspec '%s'
+(delete)
+remote.c
+replaced == NULL
+.remote
+.pushremote
+.merge
+url.
+.insteadof
+.pushinsteadof
+remote.
+pushdefault
+.mirror
+.skipdefaultupdate
+.skipfetchall
+.prune
+.url
+.pushurl
+.push
+.fetch
+.receivepack
+.uploadpack
+.tagopt
+--no-tags
+--tags
+.proxy
+.vcs
+URL:
+Push:
+Pull:
+refs/heads/%s:refs/heads/%s
+HEAD:refs/heads/%s
+remotes/%s
+branches/%s
+%s usually tracks %s, not %s
+%s tracks both %s and %s
+Internal error
+no such branch: '%s'
+BUG: unhandled push situation
+Couldn't find remote ref %s
+--left-right
+%s...%s
+revision walk setup failed
+refs/heads/master
+refs/tags/*
+Key '%s' of pattern had no '*'
+Value '%s' of pattern has no '*'
+Config remote shorthand cannot begin with '/': %s
+more than one receivepack given, using the first
+more than one uploadpack given, using the first
+query_refspecs_multiple: need either src or dst
+Cannot fetch both %s and %s to %s
+query_refspecs: need either src or dst
+push destination '%s' on remote '%s' has no local tracking branch
+src refspec %s matches more than one.
+src refspec %s does not match any.
+%s cannot be resolved to branch.
+unable to delete '%s': remote ref does not exist
+unable to push to unqualified destination: %s
+The destination refspec neither matches an existing ref on the remote nor
+begins with refs/, and we are unable to guess a prefix based on the source ref.
+dst refspec %s matches more than one.
+dst ref %s receives from more than one src.
+HEAD does not point to a branch
+no upstream configured for branch '%s'
+upstream branch '%s' not stored as a remote-tracking branch
+branch '%s' has no remote for pushing
+push refspecs for '%s' do not include '%s'
+push has no destination (push.default is 'nothing')
+cannot resolve 'simple' push to a single destination
+* Ignoring funny ref '%s' locally
+  (use "git branch --unset-upstream" to fixup)
+Your branch is up-to-date with '%s'.
+Your branch is ahead of '%s' by %d commits.
+Your branch is ahead of '%s' by %d commit.
+  (use "git push" to publish your local commits)
+  (use "git pull" to update your local branch)
+Your branch and '%s' have diverged,
+and have %d and %d different commits each, respectively.
+Your branch and '%s' have diverged,
+and have %d and %d different commit each, respectively.
+  (use "git pull" to merge the remote branch into yours)
+Your branch is based on '%s', but the upstream is gone.
+Your branch is behind '%s' by %d commits, and can be fast-forwarded.
+Your branch is behind '%s' by %d commit, and can be fast-forwarded.
+cannot parse expected object name '%s'
+make_remote
+bad replace ref name: %s
+duplicate replace ref: %s
+replace depth too high for object %s
+%o%c
+cannot unmerge '%s'
+Index records invalid resolve-undo information
+update_treesame %s
+%.*s <%.*s>
+bad object %s
+compact_treesame %u
+bad tree %s
+refs/bisect/%s
+--all
+--branches
+--remotes
+--reflog
+--not
+--do-walk
+--bisect
+--glob=
+--indexed-objects
+--exclude=
+--branches=
+--tags=
+--remotes=
+--no-walk=
+max-count
+skip
+-n requires an argument
+max-age
+since
+after
+min-age
+before
+until
+--first-parent
+--ancestry-path
+--walk-reflogs
+--default
+bad --default argument
+--merge
+--topo-order
+--simplify-merges
+--simplify-by-decoration
+--date-order
+--author-date-order
+--early-output
+--parents
+--dense
+--sparse
+--show-all
+--remove-empty
+--merges
+--no-merges
+--min-parents=
+--no-min-parents
+--max-parents=
+--no-max-parents
+--boundary
+--left-only
+--right-only
+--cherry
+--count
+--cherry-mark
+--cherry-pick
+--objects
+--objects-edge
+--objects-edge-aggressive
+--verify-objects
+--unpacked
+--unpacked=
+--cc
+--pretty
+--pretty=
+--format=
+--show-notes
+--notes
+--show-signature
+--show-linear-break
+--show-linear-break=
+--show-notes=
+--notes=
+--no-notes
+--standard-notes
+--no-standard-notes
+--oneline
+--graph
+--root
+--no-commit-id
+--always
+--no-abbrev
+--abbrev
+--abbrev=
+--abbrev-commit
+--no-abbrev-commit
+--full-diff
+--full-history
+--relative-date
+--log-size
+grep-reflog
+--grep-debug
+--basic-regexp
+--extended-regexp
+--regexp-ignore-case
+--perl-regexp
+--all-match
+--invert-grep
+--reverse
+--children
+--ignore-missing
+--fixed-strings
+Invalid revision range %s
+unknown option `%s'
+glob
+unsorted
+invalid argument to --no-walk
+--stdin
+--stdin given twice?
+bad revision '%s'
+--merge without HEAD?
+--merge without MERGE_HEAD?
+bad tag
+%s is unknown object
+treesame
+reflog 
+author 
+committer 
+compact_treesame parents mismatch
+reflog of '%s' references pruned commits
+'%s': not a non-negative integer
+--left-only is incompatible with --right-only or --cherry
+--right-only is incompatible with --left-only
+--cherry is incompatible with --left-only
+--cherry-mark is incompatible with --cherry-pick
+--cherry-pick is incompatible with --cherry-mark
+--unpacked=<packfile> no longer supported.
+                    ..........
+--show-linear-break and --graph are incompatible
+cannot simplify commit %s (because of %s)
+cannot simplify commit %s (invalid %s)
+bad tree compare for commit %s
+unable to add index blob to traversal
+Invalid symmetric difference expression %s
+options not supported in --stdin mode
+your current branch appears to be broken
+your current branch '%s' does not have any commits yet
+cannot combine --reverse with --walk-reflogs
+cannot combine --parents and --children
+cannot combine --reverse with --graph
+cannot combine --walk-reflogs with --graph
+cannot combine --no-walk with --graph
+cannot use --grep-reflog without --walk-reflogs
+--first-parent is incompatible with --bisect
+--ancestry-path given but there are no bottom commits
+mark_redundant_parents %d %d %d %d
+Failed to traverse parents of commit %s
+Failed to simplify parents of commit %s
+HEAD
+BUG: assertion failed in binary search
+ofs %u lov %x, hiv %x, kyv %x
+assertion failure lo %u mi %u hi %u %s
+sha1-lookup.c
+lov < hiv
+lo %u hi %u rg %u mi %u 
+sha1_entry_pos
+position for delete %d exceeds base index size %d
+position for replacement %d exceeds base index size %d
+too many replacements (%d vs %d)
+entry %d is marked as both replaced and deleted
+corrupt link extension, entry %d should have zero length name
+corrupt link extension (too short)
+corrupt delete bitmap in link extension
+corrupt replace bitmap in link extension
+garbage at the end of link extension
+corrupt link extension, entry %d should have non-zero length name
+!(ce->ce_flags & CE_STRIP_NAME)
+split-index.c
+prepare_to_write_split_index
+tree-diff.c
+t || tp
+emit_path
+skip-
+bisect_rev_setup
+BISECT_NAMES
+Could not open file '%s'
+BISECT_EXPECTED_REV
+BISECT_HEAD
+We cannot bisect more!
+dist=%d
+BISECT_TERMS
+good
+could not read file '%s': %s
+reading bisect refs failed
+BISECT_ANCESTORS_OK
+a %s revision is needed
+Not a valid commit name %s
+%s was both %s and %s
+%s is the first %s commit
+show-branch
+Badly quoted content in file '%s': %s
+There are only 'skip'ped commits left to test.
+The first %s commit could be any of:
+The merge base %s is bad.
+This means the bug has been fixed between %s and [%s].
+The merge base %s is new.
+The property has changed between %s and [%s].
+The merge base %s is %s.
+This means the first '%s' commit is between %s and [%s].
+Some %s revs are not ancestor of the %s rev.
+git bisect cannot work properly in this case.
+Maybe you mistook %s and %s revs?
+the merge base between %s and [%s] must be skipped.
+So we cannot be sure the first %s commit is between %s and %s.
+We continue anyway.
+Bisecting: a merge base must be tested
+could not create file '%s': %s
+No testable commit found.
+Maybe you started with bad path parameters?
+Bisecting: %d revision%s left to test after this (roughly %d step%s)
+?data->o
+%s%s:%d: %s.
+invalid diff
+%s%4d.%01d%% %.*s
+XXXXXX_
+unable to create temp-file
+unable to write temp-file
+%sdelta %lu
+%sliteral %lu
+1,%d
+Option '%c' requires a value
+@@ -
+cannot hash %s
+ %s mode %06o 
+unable to generate word diff
+changes
+noncumulative
+%s%s--- %s%s%s
+%s%s+++ %s%s%s
+ => 
+ %s %s (%d%%)
+%s mode change %06o => %06o%c
+myers
+diff.color.
+color.diff.
+diff.renamelimit
+plain
+meta
+frag
+func
+diff.suppress-blank-empty
+diff.dirstat
+submodule.
+diff.suppressblankempty
+diff.color
+color.diff
+diff.context
+diff.renames
+copy
+diff.autorefreshindex
+diff.mnemonicprefix
+diff.noprefix
+diff.statgraphwidth
+diff.external
+diff.wordregex
+diff.orderfile
+diff.ignoresubmodules
+diff.submodule
+diff.algorithm
+ %d file changed
+ %d files changed
+, %d insertion(+)
+, %d insertions(+)
+, %d deletion(-)
+, %d deletions(-)
+ 0 files changed
+-dirty
+Subproject commit %s%s
+stat(%s)
+readlink(%s)
+cannot read data blob for %s
+unable to read files to diff
+--dirstat=
+--dirstat-by-file=
+--stat
+-name-width
+-graph-width
+--relative=
+--color=
+--color-words=
+--word-diff=
+--ignore-submodules=
+--submodule=
+--ws-error-highlight=
+--patch
+unified
+--raw
+--patch-with-raw
+--numstat
+--shortstat
+--dirstat
+--dirstat-by-file
+--summary
+--patch-with-stat
+--name-only
+--name-status
+--no-patch
+--break-rewrites=
+--break-rewrites
+invalid argument to -B: %s
+--find-renames=
+--find-renames
+invalid argument to -M: %s
+--irreversible-delete
+--find-copies=
+--find-copies
+invalid argument to -C: %s
+--no-renames
+--rename-empty
+--no-rename-empty
+--relative
+--no-minimal
+--ignore-space-change
+--ignore-space-at-eol
+--ignore-blank-lines
+--patience
+--histogram
+diff-algorithm
+--binary
+--full-index
+--find-copies-harder
+--follow
+--no-follow
+--color
+--color-words
+bad --word-diff argument: %s
+--exit-code
+--quiet
+--ext-diff
+--no-ext-diff
+--textconv
+--no-textconv
+--ignore-submodules
+--pickaxe-all
+--pickaxe-regex
+diff-filter
+dst-prefix
+--no-prefix
+inter-hunk-context
+--function-context
+--no-function-context
+Could not open '%s'
+--cumulative
+--check
+--minimal
+--no-color
+--word-diff
+word-diff-regex
+--submodule
+src-prefix
+--ignore-all-space
+--text
+%s%.*s
+%s...
+internal diff status error
+diff.renameLimit
+--unified=
+%s%sdiff --git %s %s%s
+%s%snew file mode %06o%s
+%s%sdeleted file mode %06o%s
+%s%sold mode %06o%s
+%s%snew mode %06o%s
+ @@%s
+%sGIT binary patch
+GIT_DIFF_OPTS
+%s%ssimilarity index %d%%
+%s%scopy from 
+%s%scopy to 
+%s%srename from 
+%s%srename to 
+%s%sindex %s..
+GIT_DIFF_PATH_COUNTER=%d
+GIT_DIFF_PATH_TOTAL=%d
+* Unmerged path %s
+GIT_EXTERNAL_DIFF
+:%06o %06o %s 
+%c%03d%c
+%c%c
+-	-	
+%lu	%lu	
+ %s%-*s |
+ %*s
+ %s%lu%s
+ -> 
+ Unmerged
+ %*lu%s
+%s ...
+create
+%s rewrite 
+Could not open /dev/null
+%s%s:%d: leftover conflict marker
+  Failed to parse dirstat cut-off percentage '%s'
+  Unknown dirstat parameter '%s'
+Failed to parse --dirstat/-X option parameter:
+Found errors in 'diff.dirstat' config variable:
+Unknown value for 'diff.submodule' config variable: '%s'
+insertions == 0 && deletions == 0
+internal error: asking to populate invalid file.
+BUG: diff is failing to clean up its tempfiles
+unable to generate diffstat for %s
+--name-only, --name-status, --check and -s are mutually exclusive
+--follow requires exactly one pathspec
+Option '--%s' requires a value
+Option '--stat-width' requires a value
+Option '--stat-name-width' requires a value
+Option '--stat-graph-width' requires a value
+Option '--stat-count' requires a value
+option diff-algorithm accepts "myers", "minimal", "patience" and "histogram"
+option `color' expects "always", "auto", or "never"
+Failed to parse --submodule option parameter: '%s'
+unknown value after ws-error-highlight=%.*s
+unknown change class '%c' in --diff-filter=%s
+BUG: stat option does not begin with --stat: %s
+diff--gita/%.*sb/%.*snewfilemode%06o---/dev/null+++b/%.*s
+diff--gita/%.*sb/%.*sdeletedfilemode%06o---a/%.*s+++/dev/null
+diff--gita/%.*sb/%.*s---a/%.*s+++b/%.*s
+unable to generate patch-id diff for %s
+feeding unmodified %s to diffcore
+BUG: fill_textconv called with non-textconv driver
+error reading from textconv command '%s'
+%s%s--- %s%s%s
+%s%s+++ %s%s%s
+%s%s@@ -
+%sBinary files %s and %s differ
+Invalid regular expression: %s
+unable to generate diff for %s
+%s%sdissimilarity index %d%%%s
+external diff died, stopping at %s
+internal error in diff-resolve-rename-copy
+unable to generate checkdiff for %s
+fn_out_diff_words_aux
+diff_words_show
+checkdiff_consume
+print_stat_summary
+you may want to set your %s variable to at least %d and retry the command.
+only found copies from modified paths due to too many files.
+inexact rename detection was skipped due to too many files.
+ACDMRTXU*B
+------------
+@graph.c
+graph->num_parents >= 3
+graph->revs->boundary
+target * 2 <= i
+graph->new_mapping[i] == -1
+graph->new_mapping[i - 2] < 0
+par_column
+0 <= graph->expansion_row && graph->expansion_row < num_expansion_rows
+graph->new_mapping[i - 1] > target
+graph->new_mapping[i - 3] == target
+graph_output_collapsing_line
+graph_output_post_merge_line
+graph_output_commit_char
+graph_output_pre_commit_line
+graph_next_line
+diff_output_prefix_callback
+unmatched parenthesis
+not a pattern expression %s
+In '%s' at %d, 
+%s, 
+%s'%s': %s
+true
+*and*
+*not*
+*or*
+pattern
+pattern_head
+pattern_body
+<head %d>
+<body>
+(not
+(and
+grep.c
+regexp returned nonsense
+Not a valid grep expression
+'%s': short read %s
+'%s': unable to read %s
+BUG: invalid grep_source type
+Binary file 
+ matches
+[1;31m
+[36m
+grep.extendedregexp
+grep.patterntype
+basic
+extended
+fixed
+perl
+bad %s argument: %s
+grep.fullname
+color.grep
+color.grep.context
+color.grep.filename
+color.grep.function
+color.grep.linenumber
+color.grep.matchcontext
+color.grep.matchselected
+color.grep.selected
+color.grep.separator
+color.grep.match
+bug: unknown header field %d
+bug: malformed header expr
+x->node == GREP_NODE_OR
+[all-match]
+--not not followed by pattern expression
+--not followed by non pattern expression
+--and not followed by pattern expression
+pcre_exec failed with error code %d
+p->field < ARRAY_SIZE(header_field)
+Unexpected node type (internal error) %d
+bug: unknown binary handling mode
+BUG: attempt to textconv something without a path?
+bug: a non-header pattern in grep header list.
+incomplete pattern expression: %s
+match_one_pattern
+grep_splice_or
+memory exhausted
+Cannot read blob %s
+line-log.c
+out->nr == 0
+d && line <= d->lines
+d->spec && d->spec->data
+src != dst
+a <= b
+pair->two->path
+rg->path
+pair->two->sha1_valid
+o <= rs->nr
+No commit specified?
+Non commit %s?
+malformed -L argument '%s'
+file %s has only %lu lines
+%s%sdiff --git a/%s b/%s%s
+%s%s+++ b/%s%s
+rs->ranges[0].start < rs->ranges[0].end
+rs->ranges[i-1].end < rs->ranges[i].start
+rs->ranges[i].start < rs->ranges[i].end
+rs->nr == 0 || rs->ranges[rs->nr-1].end <= a
+More than one commit to dig from: %s and %s?
+-L argument not 'start,end:file' or ':funcname:file': %s
+There is no path %s in the commit
+%s%s@@ -%ld,%ld +%ld,%ld @@%s
+process_diff_filepair
+process_all_files
+move_diff_queue
+queue_diffs
+line_log_data_copy_one
+line_log_data_copy
+range_set_union
+nth_line
+range_set_check_invariants
+sort_and_merge_range_set
+range_set_append
+range_set_append_unsafe
+-L invalid empty range
+-L invalid line number: %ld
+line-range.c
+*arg == ':'
+-L parameter '%s': %s
+-L parameter '%s' starting at line %ld: %s
+-L parameter: regexec() failed: %s
+-L parameter '%s' starting at line %ld: no match
+-L parameter '%s' matches at EOF
+parse_range_funcname
+bad blob object
+bad tree object
+bad tree object %s
+unknown pending object %s (%s)
+ll-merge.c
+merge.default
+driver
+%s: lacks value
+.merge_file_XXXXXX
+conflict-marker-size
+built-in binary merge
+built-in 3-way text merge
+union
+built-in union merge
+Cannot merge binary files: %s (%s vs. %s)
+custom merge driver %s lacks command line.
+ll_ext_merge
+ll_binary_merge
+ll_xdl_merge
+ll_union_merge
+%s%.*s%s%s
+malformed mergetag
+merged tag '%s'
+parent #%d, tagged '%s'
+tag %s names a non-parent %s
+No signature
+remoteBranch
+grafted
+log-tree.c
+cb_data == NULL
+invalid replace ref %s
+replaced
+refs/stash
+tag: 
+v%d-
+%04d-%s
+Subject: 
+References: 
+attachment
+Subject: [%s%s%0*d/%d] 
+Subject: [%s] 
+Message-Id: <%s>
+In-Reply-To: <%s>
+%s<%s>
+ (from %s)
+log size %i
+stdout
+object names
+From %s Mon Sep 17 00:00:00 2001
+%sMIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="%s%s"
+This is a multi-part message in MIME format.
+--%s%s
+Content-Type: text/plain; charset=UTF-8; format=fixed
+Content-Transfer-Encoding: 8bit
+--%s%s
+Content-Type: text/x-patch; name="%s"
+Content-Transfer-Encoding: 8bit
+Content-Disposition: %s; filename="%s"
+add_ref_decoration
+notes.c
+fanout < 20
+!tws->next
+note_path_len <= 40 + 19
+note
+subtree
+prefix_len * 2 >= n
+GET_PTR_TYPE(entry) == 0
+tree && parent
+list->strdup_strings
+notes ref %s is invalid
+notes.displayref
+refs/notes/commits
+GIT_NOTES_REF
+!t->initialized
+!display_notes_trees
+GIT_NOTES_DISPLAY_REF
+Notes:
+Notes (%s):
+    
+tws->path[0] == '\0' && tws->path[1] == '\0'
+memchr(path + 3 * n, '/', path_len - (3 * n)) == NULL
+Could not read %s for notes-index
+Failed to load %s %s into notes tree from %s
+i == n && parent_stack[i] == tree
+CLR_PTR_TYPE(parent->a[index]) == tree
+GET_PTR_TYPE(*p) == PTR_TYPE_NOTE || GET_PTR_TYPE(*p) == PTR_TYPE_SUBTREE
+path_len < FANOUT_PATH_MAX - 1
+Failed to read notes tree referenced by %s (%s)
+utf-8
+format_display_notes
+prune_notes
+tree_write_stack_init_subtree
+write_each_note_helper
+write_each_note
+write_notes_tree
+construct_path_with_fanout
+for_each_note_helper
+for_each_note
+get_note
+remove_note
+add_note
+init_display_notes
+note_tree_consolidate
+note_tree_remove
+note_tree_insert
+load_subtree
+init_notes
+string_list_add_refs_by_glob
+refs/notes/%s
+update notes cache
+COLUMNS
+GIT_PAGER
+LESS
+LESS=FRX
+LV=-c
+GIT_PAGER_IN_USE
+pager.%s
+[%s]
+[=%s]
+[<%s>]
+ <%s>
+[=<%s>]
+cat <<\EOF
+usage: %s
+   or: %s
+    %s
+--%s
+-NUM
+%*s%s
+BUG: switch '%c' (--%s) %s
+BUG: option '%s' %s
+BUG: switch '%c' %s
+invalid short name
+short name already used
+should not accept an argument
+switch `%c' %s
+option `no-%s' %s
+option `%s' %s
+takes no value
+isn't available
+: incompatible with %s
+expects a numerical value
+help-all
+unknown switch `%c'
+did you mean `--%s` (with two dashes ?)
+STOP_AT_NON_OPTION and KEEP_UNKNOWN don't go together
+uses incompatible flags LASTARG_DEFAULT and OPTARG
+uses feature not supported for dashless options
+multi-word argh should use dash to separate words
+: incompatible with something else
+expects a non-negative integer value with an optional k/m/g suffix
+should not happen, someone must be hit on the forehead
+Ambiguous option: %s (could be --%s%s or --%s%s)
+unknown non-ascii option in string: `%s'
+BUG: PATHSPEC_PREFER_CWD and PATHSPEC_PREFER_FULL are incompatible
+BUG: PATHSPEC_PREFER_CWD requires arguments
+global 'glob' and 'noglob' pathspec settings are incompatible
+global 'literal' pathspec setting is incompatible with all other global pathspec settings
+invalid parameter for pathspec magic 'prefix'
+Missing ')' at the end of pathspec magic in '%s'
+BUG: 'prefix' magic is supposed to be used at worktree's root
+%s: 'literal' and 'glob' are incompatible
+%s: '%s' is outside repository
+Pathspec '%s' is in submodule '%.*s'
+item->nowildcard_len <= item->len && item->prefix <= item->len
+%s: pathspec magic not supported by this command: %s
+pathspec '%s' is beyond a symbolic link
+There is nothing to exclude from by :(exclude) patterns.
+Perhaps you forgot to add either ':/' or '.' ?
+BUG: PATHSPEC_MAXDEPTH_VALID and PATHSPEC_KEEP_ORDER are incompatible
+Invalid pathspec magic '%.*s' in '%s'
+Unimplemented pathspec magic '%c' in '%s'
+GIT_LITERAL_PATHSPECS
+GIT_GLOB_PATHSPECS
+GIT_NOGLOB_PATHSPECS
+GIT_ICASE_PATHSPECS
+prefix:
+,prefix:%d)
+:(prefix:%d)
+pathspec.c
+'%c'
+literal
+icase
+prefix_pathspec
+pretty.
+tformat:
+=%02X
+ =?%s?q?
+medium
+fuller
+full
+invalid --pretty format: %s
+From: 
+%s: %.*s%.*s <%.*s>
+Date:   %s
+%sDate: %s
+auto,
+green
+blue
+reset
+(auto)
+ltrunc)
+mtrunc)
+[31m
+[32m
+[34m
+bad parent line in commit
+Merge:
+Commit
+Author
+invalid --pretty format: '%s' references an alias which points to itself
+unable to parse --pretty format
+MIME-Version: 1.0
+Content-Type: text/plain; charset=%s
+Content-Transfer-Encoding: 8bit
+refs/%s
+Cannot walk reflogs for %s
+No current branch
+%s@{
+Reflog: %s (%s)
+Reflog message: %s
+sequencer
+revert
+Could not write to %s
+Error wrapping up %s
+options.no-commit
+options.edit
+options.signoff
+options.record-origin
+options.allow-ff
+options.mainline
+options.strategy
+options.gpg-sign
+options.strategy-option
+Invalid key: %s
+Invalid value for %s: %s
+(empty tree)
+Your index file is unmerged.
+%s: fast-forward
+parent of %s
+Revert "
+This reverts commit 
+, reversing
+changes made to 
+could not revert %s... %s
+could not apply %s... %s
+GIT_CHERRY_PICK_HELP
+Unable to update cache tree
+Could not parse commit %s
+A Santa lives evil at NASA
+-S%s
+commit.cleanup
+--cleanup=verbatim
+--allow-empty
+--allow-empty-message
+GIT_REFLOG_ACTION
+sequencer.c
+sequencer/todo
+%s %s %.*s
+Error wrapping up %s.
+opts->revs
+sequencer/head
+cannot resolve HEAD
+cannot open %s: %s
+unexpected end of file
+cannot read %s: %s
+sequencer/opts
+Malformed options sheet: %s
+Could not open %s
+Could not read %s.
+Cannot %s during a %s
+Could not parse line %d.
+No commits parsed.
+%s: can't cherry-pick a %s
+%s: bad revision
+empty commit set passed
+git %s: failed to read the index
+git %s: failed to refresh the index
+no cherry-pick or revert in progress
+Your local changes would be overwritten by cherry-pick.
+Your local changes would be overwritten by revert.
+Commit your changes or stash them to proceed.
+4b825dc642cb6eb9a060e54bf8d69288fbee4904
+Commit %s is a merge but no -m option was given.
+Commit %s does not have parent %d
+Mainline was specified but commit %s is not a merge.
+%s: cannot parse parent commit %s
+%s: Unable to write new index file
+after resolving the conflicts, mark the corrected paths
+with 'git add <paths>' or 'git rm <paths>'
+after resolving the conflicts, mark the corrected paths
+with 'git add <paths>' or 'git rm <paths>'
+and commit the result with 'git commit'
+Could not resolve HEAD commit
+Could not parse parent commit %s
+!(opts->signoff || opts->no_commit || opts->record_origin || opts->edit)
+cannot abort from a branch yet to be born
+stored pre-cherry-pick HEAD file '%s' is corrupt
+Unusable instruction sheet: %s
+BUG: expected exactly one commit from walk
+a cherry-pick or revert is already in progress
+try "git cherry-pick (--continue | --quit | --abort)"
+Could not create sequencer directory %s
+Can't revert as initial commit
+Can't cherry-pick into empty head
+pick_commits
+sequencer_pick_revisions
+(cherry picked from commit 
+Signed-off-by: 
+objects/
+ %h: %m %s
+rev-list
+fetch.recursesubmodules
+/.gitmodules
+untracked
+(submodule deleted)
+(not checked out)
+(new submodule)
+(commits not present)
+(revision walker failed)
+ (rewind)
+%s%sSubmodule %s %s..
+%s:%s
+--remotes=%s
+Pushing submodule '%s'
+on-demand
+--recurse-submodules-default
+%s/.git
+%s%s/
+Fetching submodule %s%s
+--submodule-prefix
+--porcelain
+-uno
+foreach
+--recursive
+test -f .git
+--ignore-submodules=none
+not checked out
+commits not present
+not fast-forward
+multiple merges found
+gitdir: %s
+%s/config
+Could not run 'git rev-list %s --not --remotes -n 1' command in submodule %s
+Cannot change unmerged .gitmodules, resolve merge conflicts first
+Could not find section in .gitmodules where path=%s
+Could not update .gitmodules entry %s
+Could not remove .gitmodules entry for %s
+staging updated .gitmodules failed
+bad --ignore-submodules argument: %s
+%sSubmodule %s contains untracked content
+%sSubmodule %s contains modified content
+Unable to push submodule '%s'
+Could not run 'git status --porcelain' in submodule %s
+'git status --porcelain' failed in submodule %s
+Could not run 'git status --porcelain -uall --ignore-submodules=none' in submodule %s
+'git status --porcelain -uall --ignore-submodules=none' failed in submodule %s
+Failed to merge submodule %s (%s)
+commits don't follow merge-base
+merge following commits not found
+Found a possible merge resolution for the submodule:
+If this is correct simply add it to the index for example
+by using:
+  git update-index --cacheinfo 160000 %s "%s"
+which will accept this suggestion.
+  %m %s
+WORKTREE
+fetchrecursesubmodules
+%s:.gitmodules
+%s:.gitmodules, multiple configurations found for 'submodule.%s.%s'. Skipping second one!
+Invalid parameter '%s' for config option 'submodule.%s.ignore'
+xfuncname
+cachetextconv
+textconv/%s
+!diff
+diff=true
+fortran
+fountain
+html
+^[ 	]*(<[Hh][1-6][ 	].*>.*)$
+java
+matlab
+objc
+pascal
+python
+^[ 	]*((class|def)[ 	].*)$
+ruby
+bibtex
+csharp
+!^(.*[ 	])?(is[ 	]+new|renames|is[ 	]+separate)([ 	].*)?$
+!^[ 	]*with[ 	].*$
+^[ 	]*((procedure|function)[ 	]+.*)$
+^[ 	]*((package|protected|task)[ 	]+.*)$
+[a-zA-Z][a-zA-Z0-9_]*|[-+]?[0-9][0-9#_.aAbBcCdDeEfF]*([eE][+-]?[0-9_]+)?|=>|\.\.|\*\*|:=|/=|>=|<=|<<|>>|<>|[^[:space:]]|[
+!^([C*]|[ 	]*!)
+!^[ 	]*MODULE[ 	]+PROCEDURE[ 	]
+^[ 	]*((END[ 	]+)?(PROGRAM|MODULE|BLOCK[ 	]+DATA|([^'" 	]+[ 	]+)*(SUBROUTINE|FUNCTION))[ 	]+[A-Z].*)$
+[a-zA-Z][a-zA-Z0-9_]*|\.([Ee][Qq]|[Nn][Ee]|[Gg][TtEe]|[Ll][TtEe]|[Tt][Rr][Uu][Ee]|[Ff][Aa][Ll][Ss][Ee]|[Aa][Nn][Dd]|[Oo][Rr]|[Nn]?[Ee][Qq][Vv]|[Nn][Oo][Tt])\.|[-+]?[0-9.]+([AaIiDdEeFfLlTtXx][Ss]?[-+]?[0-9.]*)?(_[a-zA-Z0-9][a-zA-Z0-9_]*)?|//|\*\*|::|[/<>=]=|[^[:space:]]|[
+^((\.[^.]|(int|ext|est|int\.?/ext|i/e)[. ]).*)$
+[^ 	-]+|[^[:space:]]|[
+[^<>= 	]+|[^[:space:]]|[
+!^[ 	]*(catch|do|for|if|instanceof|new|return|switch|throw|while)
+^[ 	]*(([A-Za-z_][A-Za-z_0-9]*[ 	]+)+[A-Za-z_][A-Za-z_0-9]*[ 	]*\([^;]*)$
+[a-zA-Z_][a-zA-Z0-9_]*|[-+0-9.e]+[fFlL]?|0[xXbB]?[0-9a-fA-F]+[lL]?|[-+*/<>%&^|=!]=|--|\+\+|<<=?|>>>?=?|&&|\|\||[^[:space:]]|[
+^[[:space:]]*((classdef|function)[[:space:]].*)$|^%%[[:space:]].*$
+[a-zA-Z_][a-zA-Z0-9_]*|[-+0-9.e]+|[=~<>]=|\.[*/\^']|\|\||&&|[^[:space:]]|[
+!^[ 	]*(do|for|if|else|return|switch|while)
+^[ 	]*([-+][ 	]*\([ 	]*[A-Za-z_][A-Za-z_0-9* 	]*\)[ 	]*[A-Za-z_].*)$
+^[ 	]*(([A-Za-z_][A-Za-z_0-9]*[ 	]+)+[A-Za-z_][A-Za-z_0-9]*[ 	]*\([^;]*)$
+^(@(implementation|interface|protocol)[ 	].*)$
+[a-zA-Z_][a-zA-Z0-9_]*|[-+0-9.e]+[fFlL]?|0[xXbB]?[0-9a-fA-F]+[lL]?|[-+*/<>%&^|=!]=|--|\+\+|<<=?|>>=?|&&|\|\||::|->|[^[:space:]]|[
+^(((class[ 	]+)?(procedure|function)|constructor|destructor|interface|implementation|initialization|finalization)[ 	]*.*)$
+^(.*=[ 	]*(class|record).*)$
+[a-zA-Z_][a-zA-Z0-9_]*|[-+0-9.e]+|0[xXbB]?[0-9a-fA-F]+|<>|<=|>=|:=|\.\.|[^[:space:]]|[
+^package .*
+^sub [[:alnum:]_':]+[ 	]*(\([^)]*\)[ 	]*)?(:[^;#]*)?(\{[ 	]*)?(#.*)?$
+^(BEGIN|END|INIT|CHECK|UNITCHECK|AUTOLOAD|DESTROY)[ 	]*(\{[ 	]*)?(#.*)?$
+^=head[0-9] .*
+[[:alpha:]_'][[:alnum:]_']*|0[xb]?[0-9a-fA-F_]*|[0-9a-fA-F_]+(\.[0-9a-fA-F_]+)?([eE][-+]?[0-9_]+)?|=>|-[rwxoRWXOezsfdlpSugkbctTBMAC>]|~~|::|&&=|\|\|=|//=|\*\*=|&&|\|\||//|\+\+|--|\*\*|\.\.\.?|[-+*/%.^&<>=!|]=|=~|!~|<<|<>|<=>|>>|[^[:space:]]|[
+^[	 ]*(((public|protected|private|static)[	 ]+)*function.*)$
+^[	 ]*(class.*)$
+[a-zA-Z_][a-zA-Z0-9_]*|[-+0-9.e]+|0[xXbB]?[0-9a-fA-F]+|[-+*/<>%&^|=!.]=|--|\+\+|<<=?|>>=?|===|&&|\|\||::|->|[^[:space:]]|[
+[a-zA-Z_][a-zA-Z0-9_]*|[-+0-9.e]+[jJlL]?|0[xX]?[0-9a-fA-F]+[lL]?|[-+*/<>%&^|=!]=|//=?|<<=?|>>=?|\*\*=?|[^[:space:]]|[
+^[ 	]*((class|module|def)[ 	].*)$
+(@|@@|\$)?[a-zA-Z_][a-zA-Z0-9_]*|[-+0-9.e]+|0[xXbB]?[0-9a-fA-F]+|\?(\\C-)?(\\M-)?.|//=?|[-+*/<>%&^|=!]=|<<=?|>>=?|===|\.{1,3}|::|[!=]~|[^[:space:]]|[
+(@[a-zA-Z]{1,}[ 	]*\{{0,1}[ 	]*[^ 	"@',\#}{~%]*).*$
+[={}"]|[^={}" 	]+|[^[:space:]]|[
+^(\\((sub)*section|chapter|part)\*{0,1}\{.*)$
+\\[a-zA-Z@]+|\\.|[a-zA-Z0-9
+]+|[^[:space:]]|[
+!^[ 	]*[A-Za-z_][A-Za-z_0-9]*:[[:space:]]*($|/[/*])
+^((::[[:space:]]*)?[A-Za-z_].*)$
+[a-zA-Z_][a-zA-Z0-9_]*|[-+0-9.e]+[fFlL]?|0[xXbB]?[0-9a-fA-F]+[lLuU]*|[-+*/<>%&^|=!]=|--|\+\+|<<=?|>>=?|&&|\|\||::|->\*?|\.\*|[^[:space:]]|[
+!^[ 	]*(do|while|for|if|else|instanceof|new|return|switch|case|throw|catch|using)
+^[ 	]*(((static|public|internal|private|protected|new|virtual|sealed|override|unsafe)[ 	]+)*[][<>@.~_[:alnum:]]+[ 	]+[<>@._[:alnum:]]+[ 	]*\(.*\))[ 	]*$
+^[ 	]*(((static|public|internal|private|protected|new|virtual|sealed|override|unsafe)[ 	]+)*[][<>@.~_[:alnum:]]+[ 	]+[@._[:alnum:]]+)[ 	]*$
+^[ 	]*(((static|public|internal|private|protected|new|unsafe|sealed|abstract|partial)[ 	]+)*(class|enum|interface|struct)[ 	]+.*)$
+^[ 	]*(namespace[ 	]+.*)$
+malformed diff output: %s
+Could not stat %s
+unable to read blob object %s
+merge.conflictstyle
+'%s' is not a boolean
+diff3
+Last expression must not be negated: %s
+Invalid regexp to look for hunk header: %s
+unknown style '%s' given for '%s'
+invalid base85 alphabet %c
+invalid base85 sequence %.5s
+0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!#$%&()*+-;<=>?@^_`{|}~%c8;5;%d
+%c8;2;%d;%d;%d
+black
+normal
+invalid color value: %.*s
+TERM
+dumb
+color.ui
+nobold
+nodim
+noul
+noblink
+noreverse
+yellow
+magenta
+cyan
+white
+[33m
+[35m
+[1;32m
+[1;33m
+[1;34m
+[1;35m
+[1;36m
+BUG: color parsing ran out of space
+Subproject commit %s
+object '%s' is not a blob!
+%.*s%s%s
+diff --cc 
+diff --combined 
+%s%sindex 
+..%s%s
+%s%snew file mode %06o
+%s%sdeleted file 
+mode 
+%s%06o
+..%06o
+--- 
++++ 
+readlink(%s): %s
+read error '%s'
+early EOF '%s'
+Binary files differ
+ -%lu,%lu
+ +%lu,%lu 
+%s%s %s%s
+unable to generate combined diff for %s
+internal error in merge #1
+internal error in merge #2
+internal error in merge #3
+internal error in merge #4
+failed to read orderfile '%s'
+diffcore-pickaxe.c
+data[sz] == '\0'
+invalid regex: %s
+contains
+internal error: dst already matched.
+Performing inexact rename detection
+skipping rename detection, detected duplicate destination '%s'
+Cdiff-delta.c
+packed_entry - (struct index_entry *)mem == entries
+create_delta_index
+(G]>
+pENOXHn
+0lY;
+F==8
+p;I}
+=J-f
+VYk[(
+	[x*w1
+L<<'2
+[<tR
+yrhj
+>/Vm-ikP I
+xj4UWg
+ h'$
+zyT_
+Lv<l
+rq{1
+A'eW|
+3B-9
+NN'C
+2waN
+	mdIP
+gwz3
+;9	kb
+4}@4m
+.(uw
+OJqj
+m"2T
+FH9<
+x6(T!
+p	~K
+X|	e
+h`LK
+JbEv
+R;*&
+unable to write new index file
+merge-%s
+failed to read the cache
+Failed to execute internal merge
+unsupported object type in the tree
+addinfo_cache failed for path '%s'
+Removing %s to make room for subdirectory
+refusing to lose untracked file at '%s'
+do not know what to do with %06o %s '%s'
+CONFLICT (%s/delete): %s deleted in %s and %s in %s. Version %s of %s left in tree.
+CONFLICT (%s/delete): %s deleted in %s and %s in %s. Version %s of %s left in tree at %s.
+%s is a directory in %s adding as %s instead
+Skipped %s (merged same as existing)
+CONFLICT (%s): Merge conflict in %s
+BUG: There are unmerged index entries:
+merging of trees %s and %s failed
+CONFLICT (rename/add): Rename %s->%s in %s. %s added in %s
+CONFLICT (rename/rename): Rename "%s"->"%s" in branch "%s" rename "%s"->"%s" in "%s"%s
+CONFLICT (rename/rename): Rename %s->%s in %s. Rename %s->%s in %s
+Renaming %s to %s and %s to %s instead
+CONFLICT (%s): There is a directory with name %s in %s. Adding %s as %s
+Fatal merge failure, shouldn't happen.
+%s:%s
+Unable to add %s to database
+!pair2 == !dst_entry2
+virtual %s
+(bad commit)
+cannot read object %s
+object %s is not a blob
+o_sha && a_sha
+cannot read object %s '%s'
+blob expected for %s '%s'
+failed to create path '%s'%s
+: perhaps a D/F conflict?
+failed to open '%s'
+failed to symlink '%s'
+content
+add/add
+Adding as %s instead
+Auto-merging %s
+Bug in merge-recursive.c
+BUG: %d %.*s
+error building trees
+Already up-to-date!
+ren1_src != ren2_src
+ren1_dst != ren2_dst
+Adding merged %s
+renamed
+ (left unresolved)
+Removing %s
+modified
+modify
+file/directory
+directory/file
+Adding %s
+Unprocessed path??? %s
+Merging:
+found %u common ancestors:
+found %u common ancestor:
+ancestor
+Temporary merge branch 1
+Temporary merge branch 2
+merge returned no commit
+merged common ancestors
+merged tree
+merge.renamelimit
+Could not parse object '%s'
+Unable to write index.
+merge.verbosity
+GIT_MERGE_VERBOSITY
+subtree=
+diff-algorithm=
+rename-threshold=
+theirs
+no-renormalize
+blob_unchanged
+setup_rename_conflict_info
+unable to create threaded lstat
+unable to join threaded lstat
+Could not read index
+postimage
+rr-cache/%s/%s
+rerere.c
+%s	%s%c
+unable to write rerere record
+thisimage
+preimage
+rr-cache/%s
+Could not write %s
+Failed to flush %s: %s
+rerere.enabled
+rerere.autoupdate
+Could not create directory %s
+corrupt MERGE_RR
+Recorded preimage for '%s'
+Could not open %s: %s
+Could not write %s: %s
+Writing %s failed: %s
+cannot unlink %s: %s
+Updated preimage for '%s'
+Forgot resolution for %s
+gc.rerereresolved
+gc.rerereunresolved
+rr->items[i].util != RERERE_RESOLVED
+There were errors while writing %s (%s)
+Could not parse conflict hunks in %s
+Resolved '%s' using previous resolution.
+Recorded resolution for '%s'.
+Staged '%s' using previous resolution.
+Unable to write new index file
+Could not parse conflict hunks in '%s'
+no remembered resolution for %s
+unable to open rr-cache directory
+write_rr
+%.*s/
+cannot stat '%s': %s
+(missing)
+ent#%d %06o %s
+switch branches
+removed
+overwritten
+Checking out files
+Aborting
+* unpack mask %lu, dirmask %lu, cnt %d 
+programming error in a caller of mark_ce_used_same_name
+Your local changes to the following files would be overwritten by %s:
+%%sPlease, commit your changes or stash them before you can %s.
+Your local changes to the following files would be overwritten by %s:
+The following untracked working tree files would be %s by %s:
+The following untracked working tree files would be %s by %s:
+%%sPlease move or remove them before you can %s.
+Updating the following directories would lose untracked files in it:
+Entry '%s' overlaps with '%s'.  Cannot bind.
+Cannot update sparse checkout: the following entries are not up-to-date:
+The following Working tree files would be overwritten by sparse checkout update:
+The following Working tree files would be removed by sparse checkout update:
+unpack_trees takes at most %d trees
+Merge requires file-level merging
+Sparse checkout leaves no entry on working directory
+BUG: both update and delete flags are set on %s
+Cannot do a twoway merge of %d trees
+Cannot do a bind merge of %d trees
+Cannot do a oneway merge of %d trees
+Entry '%s' would be overwritten by merge. Cannot merge.
+Entry '%s' not uptodate. Cannot merge.
+Updating '%s' would lose untracked files in it
+Untracked working tree file '%s' would be overwritten by merge.
+Untracked working tree file '%s' would be removed by merge.
+Entry '%s' not uptodate. Cannot update sparse checkout.
+Working tree file '%s' would be overwritten by sparse checkout update.
+Working tree file '%s' would be removed by sparse checkout update.
+.merge_link_XXXXXX
+unable to create file %s (%s)
+unable to write file %s
+entry.c
+state->istate
+cannot opendir '%s'
+cannot lstat '%s'
+cannot unlink '%s'
+cannot rmdir '%s'
+unable to create symlink %s (%s)
+cannot create temporary submodule %s
+cannot create submodule directory %s
+unknown file mode for %s in index
+unable to read sha1 file of %s (%s)
+%s already exists, no checkout
+unable to unlink old '%s' (%s)
+cannot create directory at '%s'
+write_entry
+cannot read tree %s
+unable to read tree (%s)
+%s is not a tree
+entry %.*s not found in tree %s
+entry %s in tree %s is not a tree
+cannot find path %s in tree %s
+\ No newline at end of file
+xdiff/xutils.c
+*ptr == '\n'
+xdl_hash_record
+;*3$"
+/bad-path/
+[36m
+[31m
+[32m
+[33m
+[41m
+[1;32m
+[1;31m
+[1;33m
+[1;35m
+[1;36m
+[1;34m
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss

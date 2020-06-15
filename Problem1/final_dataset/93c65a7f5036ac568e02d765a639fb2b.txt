@@ -1,0 +1,2406 @@
+/lib64/ld-linux-x86-64.so.2
+cl41
+libdrm_intel.so.1
+_ITM_deregisterTMCloneTable
+__gmon_start__
+pci_device_find_by_slot
+pci_device_probe
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+pci_system_init
+drmIoctl
+drm_intel_gem_bo_unmap_gtt
+drm_intel_gem_bo_map_gtt
+_fini
+drm_intel_bo_unreference
+drm_intel_bo_gem_create_from_name
+drm_intel_bo_alloc
+libdrm.so.2
+drmModeGetPlane
+drmModeFreeCrtc
+drmModeFreePlane
+drmModeSetPlane
+drmModeGetProperty
+drmModeObjectGetProperties
+drmModeGetEncoder
+drmModeGetConnector
+drmWaitVBlank
+drmModeFreeResources
+drmModeFreeEncoder
+drmGetCap
+drmModeSetCursor
+drmModeMoveCursor
+drmModeConnectorSetProperty
+drmModeSetCrtc
+drmModeFreeConnector
+drmModeGetPlaneResources
+drmModeObjectSetProperty
+drmModeGetResources
+drmModeGetConnectorCurrent
+drmModeGetCrtc
+drmModeFreeProperty
+drmModeFreePlaneResources
+drmSetClientCap
+drmSetMaster
+drmModeFreeObjectProperties
+libpciaccess.so.0
+pci_device_next
+pci_id_match_iterator_create
+pci_iterator_destroy
+pci_device_map_range
+libunwind.so.8
+_Ux86_64_getcontext
+_ULx86_64_step
+_ULx86_64_get_proc_name
+_ULx86_64_init_local
+libpthread.so.0
+system
+wait
+__errno_location
+pthread_mutex_lock
+sigaction
+fork
+pthread_mutex_unlock
+lseek
+waitpid
+libc.so.6
+setuid
+__xpg_basename
+fflush
+strcpy
+__printf_chk
+setlocale
+fopen
+strsignal
+strncmp
+optind
+strrchr
+__longjmp_chk
+regexec
+__strdup
+perror
+__isoc99_sscanf
+munlock
+mmap64
+strncpy
+sigprocmask
+__stack_chk_fail
+putchar
+realloc
+abort
+stdin
+_exit
+memchr
+getpid
+kill
+chmod
+__assert_fail
+strtol
+isatty
+mmap
+feof
+getppid
+calloc
+strlen
+sigemptyset
+strstr
+tcsetattr
+mlock
+__fprintf_chk
+sigaddset
+__sigsetjmp
+stdout
+__isoc99_fscanf
+fputs
+memcpy
+fclose
+strtoul
+malloc
+strcasecmp
+__strndup
+getgid
+__ctype_b_loc
+getenv
+__open_2
+regcomp
+optarg
+stderr
+ioctl
+alarm
+__snprintf_chk
+getuid
+readlink
+getopt_long
+__fxstat
+strncat
+strtoull
+usleep
+fwrite
+fread
+gettimeofday
+__memcpy_chk
+clock_gettime
+localtime
+strchr
+__vfprintf_chk
+getline
+program_invocation_short_name
+tcgetattr
+__strcpy_chk
+syscall
+__vasprintf_chk
+__sprintf_chk
+setpgrp
+__xstat
+mount
+errx
+uname
+access
+_IO_getc
+setgid
+strcmp
+strerror
+__asprintf_chk
+__libc_start_main
+snprintf
+sysconf
+free
+__progname
+__cxa_atexit
+_edata
+__bss_start
+_end
+__igt_test_description
+GLIBC_2.2.5
+GLIBC_2.3
+GLIBC_2.11
+GLIBC_2.14
+GLIBC_2.8
+GLIBC_2.4
+GLIBC_2.17
+GLIBC_2.7
+GLIBC_2.3.4
+%z~"
+%r~"
+%j~"
+%b~"
+%Z~"
+%R~"
+%J~"
+%B~"
+%:~"
+%2~"
+%*~"
+%"~"
+%z}"
+%r}"
+%j}"
+%b}"
+%Z}"
+%R}"
+%J}"
+%B}"
+%:}"
+%2}"
+%*}"
+%"}"
+AWAV
+AUATE1
+D$X1
+\$XdH3
+h[]A\A]A^A_
+D$$H
+D$ H
+~9ATI
+D$(H
+I;D$0|
+ATUH
+[]A\
+[]A\
+AUATI
+t9D9
+[]A\A]
+AWAVI
+AUATI
+t[D9+u
+[]A\A]A^A_
+=f|"
+ATUH
+_ dH
+[]A\
+Y^tHD
+AXAYuKH
+AWAVI
+AUATA
+]A]unA
+AYAZ
+[]A\A]A^A_
+AWAVAUATUSH
+D$81
+L$8dH3
+H[]A\A]A^A_
+ATUSH
+H;C0}
+AWAVAUATUSH
+D$(1
+T$(dH3
+8[]A\A]A^A_
+AWAVAUATUSH
+D$H1
+t$ L
+t$ L
+t$ 1
+L$HdH3
+X[]A\A]A^A_
+|$8D
+t$ L
+t$<D
+D$(H
+|$<A
+L$(H
+=Km"
+0w*H
+<w5H
+,w:H
+SASA
+ARP1
+$w"I
+AWAVA
+AUATI
+;w"H
+t)=".
+ARPf
+w(Mc
+[]A\A]A^A_
+AWAV
+AUATA
+T$ L
+D$@L
+\$(H
+\$`H
+l$HL
+d$PH
+l$XL
+t$0L
+|$8A
+PAW1
+AVAUATUSASARAPA
+[]A\A]A^A_
+PRHc
+PAS1
+ARAPA
+$w?I
+ARRPH
+ARRP
+=r_"
+APRA
+RPHc
+APARA
+AWAV
+AUATA
+T$(L
+\$0L
+t$8L
+|$@H
+D$HH
+l$PH
+\$hI
+T$xL
+d$XH
+l$`A
+PAW1
+AVAUATUSASARAQAPRA
+[]A\A]A^A_
+APRA
+ATUS%
+=3R"
+@AUI
+SAPL
+ASARHc
+H[]A\A]
+AWAV
+AUATUSH
+APAVA
+AUAT
+t$XUR
+SASAR
+[]A\A]A^A_
+PUHc
+APSA
+ASARH
+tcvn=
+RPHc
+AVAUAT%
+ASARAVUSAUAPATA
+X[]A\A]A^A_
+AQUH
+SASARAPA
+@[]A\
+PAPH
+ASAR1
+SARASAPA
+$w1H
+s!Hc
+APRA
+AUATA
+PAT1
+[]A\A]
+ASS1
+AWAV
+AUATA
+D$(1
+UARA
+AVSH
+D$(dH3
+8[]A\A]A^A_
+AWAVA
+AUATA
+D$H1
+\$,L
+T$ L
+T$ D
+\$,AQS1
+ASAWHc
+t$0ARM
+AVAUA
+|$HH
+D$HdH3
+X[]A\A]A^A_
+=A9"
+t{vi=
+ARAP1
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+D$81
+D$ H
+D$(H
+D$0H
+=U&"
+L$8dH3
+H[]A\A]A^A_
+AVAUI
+ATUI
+D93tNM
+[]A\A]A^
+AWAVAUATUSH
+t$ H
+t$@H
+|$8L
+t$ L
+L$8H
+[]A\A]A^A_
+Ic|$
+|$PL
+D$,A
+L$ H
+T$ H
+T$PH
+T$XH
+T$`H
+T$hH
+T$pH
+=0 "
+AUATI
+[]A\A]
+t$0E1
+h$t"
+D$(1
+T$(dH3
+;tTv"f=
+AUATI
+[]A\A]
+dH3<%(
+dH34%(
+dH34%(
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AVAUH
+ATUSH
+<unknownH
+[]A\A]A^
+[]A\
+ATUSH
+[]A\
+=Y	"
+AWAVAUATUSH
+D$H1
+D$ H
+D$(H
+D$0H
+D$8H
+D$HdH3
+X[]A\A]A^A_
+AVAWA
+L$(1
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AUATUSH
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+=~	"
+=J	"
+=B	"
+D$ H
+AUATUSH
+Nt<H
+AWAVAUATUSH
+%I	"
+([]A\A]A^A_
+AVAUATUS
+]A\A]A^
+]A\A]A^
+]A\A]A^
+AWAVI
+AUATI
+)D$`
+)L$p
+D$(1
+$1000
+AWAVM
+AUATI
+L$Xt:
+)D$`
+)L$p
+D$(1
+tYH;=9
+t H9
+AWAVAUATI
+D$(L
+D$8dH
+D$X1
+d$ Mc
+t$ H
+:tGH
+|$PL
+t$LH
+T$PA
+t$LH
+|$(1
+T$XdH3
+h[]A\A]A^A_
+AUATUSH
+[]A\A]
+[]A\A]
+AVAUATUSt
+Lc+A
+]A\A]A^
+[]A\
+ATUI
+[]A\
+AUATL
+Y^t(H
+[]A\A]
+AWAVI
+AUATUSH
+D$81
+D$,H
+\$0I
+D$4H
+tzf.
+t0E8
+L$8dH3
+H[]A\A]A^A_
+<?tG
+<[t]<\
+\$,I
+D;\$0taI9
+D;\$0r
+D;\$4v!1
+AWAVAUATUSH
+H;t$
+([]A\A]A^A_
+[]A\A]A^A_
+>*t5H
+XZ[1
+D$H1
+L$HdH3
+D$(1
+t$(dH34%(
+AUATE1
+L$@1
+[]A\A]
+ATUS1
+[]A\
+AWAV
+AUAT
+L$x1
+l$ L
+uhE1
+T$xdH3
+[]A\A]A^A_
+AUATA
+[]A\A]
+D$(1
+D$(dH3
+AVAUATSI
+IcT$
+[A\A]A^]
+AVAUH
+ror_statH
+/i915_erI
+[]A\A]A^
+AVAUA
+ATUA
+[]A\A]A^
+u0[]A\
+AVAUI
+ATUH
+ []A\A]A^
+t#SH
+D$(1
+D$(dH3
+ATUSH
+D$h1
+l$ L
+D$hdH3
+p[]A\
+AVAUE1
+ATUI
+[]A\A]A^
+AUATA
+[]A\A]
+[]A\A]
+ATUH
+ []A\
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+AWAVAUATUSH
+/sys/mod
+D$(ers/
+ule/i915H
+/parametH
+D$ H
+D$PH
+WARNING:H
+D$PH
+ Module 
+D$XH
+paramete
+D$`H
+rs may n
+D$hH
+ot have H
+D$pH
+been resH
+D$xH
+et to thH
+eir origH
+inal valH
+[]A\A]A^A_
+AVAUD
+ATUA
+S~YI
+[]A\A]A^
+AWAVAUATI
+$tUE
+[]A\A]A^A_
+AUATUSH
+[]A\A]
+AUATUSH
+[]A\A]
+T$@1
+D$@H
+D$HH
+D$PH
+D$XH
+D$ H
+D$`H
+D$(H
+D$hH
+D$0H
+ATUH
+T$@1
+D$@H
+D$HH
+D$PH
+D$XH
+D$ H
+D$`H
+D$(H
+D$hH
+D$0H
+Nt:H
+[]A\
+ATUSH
+[]A\
+D$(1
+\$(dH3
+ATU1
+D$(1
+$H+L$
+\$(dH3
+0[]A\
+;:t%;z
+t(9z H
+AWAVI
+AUATUSH
+alula
+D$H1
+/sys/modH
+ule/i915H
+/paramet
+ers/H
+D$HdH3
+X[]A\A]A^A_
+D$(1
+D$(dH3
+AWAVM
+AUATLc
+|$ 1
+D$0A
+L$`L
+T$hH
+t$`A
+D$`L
+D$xI
+[]A\A]A^A_
+ATUSH
+ []A\
+D$X1
+L$XdH3
+ATUSH
+D$X1
+D$XdH3
+`[]A\
+AWAVAUATUSH
+([]A\A]A^A_
+t{E1
+AWAVA
+AUATA
+u_;l$
+([]A\A]A^A_
+]d @L
+D$(1
+D$(dH3
+\d @L
+D$(1
+D$(dH3
+4$tEH
+D$(1
+L$(dH3
+id@@
+ATUH
+ []A\
+D$H1
+L$HdH3
+D$ H
+AUATA
+D$(1
+L$(dH3
+8[]A\A]
+D$(1
+L$(dH3
+AUATHc
+([]A\A]
+D$(1
+L$(dH3
+D$(1
+L$(dH3
+D$(1
+L$(dH3
+D$ H
+$u7H
+$tiH
+AUAT
+t$PL
+[]A\A]
+$u7H
+AWAVA
+AUATA
+D$x1
+l$$D
+D$ H
+t$xdH34%(
+[]A\A]A^A_
+ATUI
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+~0f.
+[]A\
+x";A
+=	h!
+O$APV
+G PRH
+AWAVA
+AUATI
+$w9H
+dH34%(
+([]A\A]A^A_
+=Vq!
+=Aq!
+AVAUA
+ATUI
+[]A\A]A^
+~qf.
+D9N 
+AWAVAUATE
+[]A\A]A^A_
+A9GH~QI
+D$8H
+A9GH
+E9t$
+ATUH
+[]A\
+[]A\
+AWAVAUATUSH
+D$H1
+D$HdH3
+X[]A\A]A^A_
+D9e0
+AWAVAUATA
+A9,$w
+[]A\A]A^A_
+ATUS
+[]A\
+~SAUATA
+A9\$
+[]A\A]
+AWAVI
+AUATH
+D$H1
+D$@M
+HcD$4A
+t$(H
+AXAY
+D$ H
+t$(A
+|$0Hc
+HcT$4H
+D$4A9G
+Hcx A
+l$@1
+D$8I
+D$PH
+L$0H
+T$ H
+D$ H
+T$(A
+HcD$4
+|$0H
+D$HdH3
+X[]A\A]A^A_
+AVAUATUI
+oHE1
+@A;m
+E9t$
+A9l$
+]A\A]A^
+AUATUSH
+[]A\A]
+[]A\A]
+s"Hc
+AVAUH
+ATUH
+ tjD
+D[]A\A]A^
+[]A\A]A^
+AVAUATUA
+[]A\A]A^
+AVAUATUA
+@[]A\A]A^
+AWAVAUATA
+[]A\A]A^A_
+AWAVAUATA
+[]A\A]A^A_
+AVAUATUA
+[]A\A]A^
+AVAUATU
+ []A\A]A^
+AUATUSH
+[]A\A]
+AWAV1
+AUATUSH
+D$PL
+d$XL
+@E;n
+T$pD
+|$ D
+L$(D
+L$8D
+t$HD
+t$HH
+T$hARD
+D$PAPD
+L$PAQD
+\$PA
+T$PH
+\$8H
+L$8Q
+|$8W
+T$8R
+D$pPD
+D$xAPD
+T$HD
+T$(D
+D$ H
+T$0D
+T$8RD
+L$8H
+L$0H
+D$ H
+L$(H
+T$`D
+t$0D
+T$hRD
+D$HH
+t$HA
+L$@H
+|$(D
+t$(D
+[]A\A]A^A_
+|$PH
+AWAV
+AUATE1
+A9m ~cI
+[]A\A]A^A_
+tRUSH
+AWAV
+AUATE1
+[]A\A]A^A_
+AVAUI
+]A\A]A^
+AWAVA
+AUATL
+%6%!
+-6%!
+[]A\A]A^A_
+[--count=N] REGISTER [...]
+COMMAND is one of:
+  %-14s%s
+REGISTER is defined as:
+PORTNAME is one of:
+Environment variables:
+Error writing snapshot: %s
+portio-vga not supported
+invalid port in '%s'
+port %d not supported
+valleyview
+cherryview
+ivybridge
+sandybridge
+broadwell
+haswell
+skylake
+ironlake
+INTEL_REG_SPEC
+%s/%04x
+%s/gen%d
+%s/%s
+ %2d
+ %s%d
+%s%s
+ (%s)
+%35s (0x%08x): 0x%08x%s
+%s:%s
+%s:0x%08x
+0x%02x:0x%08x
+%24s (%s): 0x%08x%s
+decode: no value
+decode: invalid value '%s'
+read: no registers specified
+write: no value
+write: invalid value '%s'
+Before:
+After:
+strdup: %s
+invalid devid '%s'
+invalid count '%s'
+--mmio requires --devid
+--devid without --mmio
+spec
+Beeb
+verbose
+quiet
+devid
+count
+post
+binary
+write
+dump
+dump all known registers
+decode
+snapshot
+list
+list all known register names
+show this help
+read and decode specified register(s)
+Intel graphics register multitool
+Usage: intel_reg [OPTION ...] COMMAND
+  [(PORTNAME|PORTNUM|MMIO-OFFSET):](REGNAME|REGADDR)
+OPTIONS common to most COMMANDS:
+ --spec=PATH    Read register spec from directory or file
+ --mmio=FILE    Use an MMIO snapshot
+ --devid=DEVID  Specify PCI device ID for --mmio=FILE
+ --all          Decode registers for all known platforms
+ --binary       Binary dump registers
+ --verbose      Increase verbosity
+ --quiet        Reduce verbosity
+ INTEL_REG_SPEC Read register spec from directory or file
+specifying --mmio=FILE is not compatible
+use this with --mmio=FILE --devid=0x%04X
+port %s only supported on vlv/chv
+/usr/share/intel-gpu-tools/registers
+Warning: stat '%s' failed: %s. Using builtin register spec.
+Warning: reading '%s' failed. Using builtin register spec.
+Warning: register spec not found in '%s'. Using builtin register spec.
+%24s (0x%08x:0x%08x): 0x%08x%s
+decode: no registers specified
+write: no registers specified
+value 0x%08x out of range for port %s
+Command missing. Try intel_reg help.
+'%s' is not an intel-reg command
+write value(s) to specified register(s)
+[--post] REGISTER VALUE [REGISTER VALUE ...]
+decode value(s) for specified register(s)
+REGISTER VALUE [REGISTER VALUE ...]
+create a snapshot of the MMIO bar to stdout
+0x%04x
+dual channel interleaved
+%d, %d
+%d bytes
+%s, pipe %c
+inactive
+rsvd
+interlaced legacy
+progressive
+interlaced embedded
+interlaced
+interlaced sdvo
+rotate 270
+rotate 0
+rotate 90
+rotate 180
+8bpc
+10bpc
+6bpc
+12bpc
+invalid bpc
+double-wide
+single-wide
+ FIFO_UNDERRUN
+ CRC_ERROR_ENABLE
+ CRC_DONE_ENABLE
+ GMBUS_EVENT_ENABLE
+ VSYNC_INT_ENABLE
+ DLINE_COMPARE_ENABLE
+ DPST_EVENT_ENABLE
+ LBLC_EVENT_ENABLE
+ OFIELD_INT_ENABLE
+ EFIELD_INT_ENABLE
+ SVBLANK_INT_ENABLE
+ VBLANK_INT_ENABLE
+ OREG_UPDATE_ENABLE
+ CRC_ERROR_INT_STATUS
+ CRC_DONE_INT_STATUS
+ GMBUS_INT_STATUS
+ VSYNC_INT_STATUS
+ DLINE_COMPARE_STATUS
+ DPST_EVENT_STATUS
+ LBLC_EVENT_STATUS
+ OFIELD_INT_STATUS
+ EFIELD_INT_STATUS
+ SVBLANK_INT_STATUS
+ VBLANK_INT_STATUS
+ OREG_UPDATE_STATUS
+high
+HW DRRS %s
+%d active, %d total
+%d start, %d end
+not ready
+unknown
+%s, %s, sequencing %s
+power target: %s
+, DPLLA N bypassed
+, DPLLA M bypassed
+, DPLLA input buffer disabled
+, DPLLB N bypassed
+, DPLLB M bypassed
+, DPLLB input buffer disabled
+%s%s%s%s%s%s
+%s, pipe %c, %chsync, %cvsync
+2 channels
+1 channel
+%s, pipe %c, %d bit, %s
+no stall
+TV stall
+unknown stall
+ DPUNIT_B
+ VSUNIT
+ VRHUNIT
+ VRDUNIT
+ AUDUNIT
+ DPUNIT_A
+ DPCUNIT
+ TVRUNIT
+ TVCUNIT
+ TVFUNIT
+ TVEUNIT
+ DVSUNIT
+ DSSUNIT
+ DDBUNIT
+ DPRUNIT
+ DPFUNIT
+ DPBMUNIT
+ DPLSUNIT
+ DPLUNIT
+ DPOUNIT
+ DPBUNIT
+ DCUNIT
+ DPUNIT
+ VRUNIT
+ OVHUNIT
+ DPIOUNIT
+ OVFUNIT
+ OVBUNIT
+ OVRUNIT
+ OVCUNIT
+ OVUUNIT
+ OVLUNIT
+ enabled
+low %d, high %d
+TU %d, val 0x%x %d
+pattern_1
+pattern_2
+pattern_idle
+not train
+0.4V
+0.6V
+0.8V
+1.2V
+1.5x
+3.5dB
+enable
+disable
+PCDClk
+RawClk
+centerspread
+downspread
+nonspread
+0.5us
+God A red nugget A fat egg under a dog
+1.0us
+4.0us
+1.5us
+3.0us
+6.0us
+12.0us
+FDI Delay %d
+%s, %s, %s
+least
+moderate
+most
+programmed
+hardcoded
+edge_enhance
+edge_soften
+field 0
+field 1
+auto
+bypass
+vscale %f
+vscale initial phase %f
+hscale %f
+TMDS
+SDVO
+HDMI
++vsync
+-vsync
++hsync
+-hsync
+non-detected
+do not 
+Reserved
+not reversed
+not detected
+port reserved
+mode reserved
+bpc reserved
++HSync
+-HSync
++VSync
+-VSync
+EDP input reserved
+reserved width
+enable %d, pipe %s
+cycle %d, freq %d
+freq %d, cycle %d
+PWM1-CPU PWM2-PCH
+PWM1-PCH PWM2-CPU
+n = %d, m1 = %d, m2 = %d
+Div 14
+Div 7
+default 120Mhz
+SuperSSC 120Mhz
+SDVO TVClkIn
+, gang mode
+, SDVO mult %d
+non-dvo
+, VGA
+, using FPx1!
+DAC/serial
+default
+TV A
+TV B/C
+spread spectrum
+%s port %s %s %s %s
+Error: %s
+data
+Vblank
+Vsync
+EDP A ON
+EDP A ONOFF
+EDP B ONOFF
+EDP C ONOFF
+8 bpc
+10 bpc
+6 bpc
+12 bpc
+DP SST
+DP MST
+no port
+DDIB
+DDIC
+DDID
+DDIE
+None
+LCPLL 2700
+LCPLL 1350
+LCPLL 810
+SPLL
+WRPLL 1
+WRPLL 2
+pf-pd
+pf-id
+if-id
+if-id-dbl
+pf-id-dbl
+XOR bank/rank
+swap bank
+XOR bank
+single channel
+dual channel asymmetric
+unknown channel layout
+Gen2
+i945GM
+Gen5
+Gen6
+Gen6+
+Gen7.5
+GEN6_RP_CONTROL
+GEN6_RPNSWREQ
+GEN6_RP_DOWN_TIMEOUT
+GEN6_RP_INTERRUPT_LIMITS
+GEN6_RP_UP_THRESHOLD
+GEN6_RP_UP_EI
+GEN6_RP_DOWN_EI
+GEN6_RP_IDLE_HYSTERSIS
+GEN6_RC_STATE
+GEN6_RC_CONTROL
+GEN6_RC1_WAKE_RATE_LIMIT
+GEN6_RC6_WAKE_RATE_LIMIT
+GEN6_RC_EVALUATION_INTERVAL
+GEN6_RC_IDLE_HYSTERSIS
+GEN6_RC_SLEEP
+GEN6_RC1e_THRESHOLD
+GEN6_RC6_THRESHOLD
+GEN6_RC_VIDEO_FREQ
+GEN6_PMIER
+GEN6_PMIMR
+GEN6_PMINTRMSK
+PGETBL_CTL
+PGTBL_ER
+EXCC
+HWS_PGA
+IPEIR
+IPEHR
+INSTDONE
+NOP_ID
+HWSTAM
+SCPD0
+INST_PM
+ECOSKPD
+HSW_PWR_WELL_CTL1
+HSW_PWR_WELL_CTL2
+HSW_PWR_WELL_CTL3
+HSW_PWR_WELL_CTL4
+HSW_PWR_WELL_CTL5
+HSW_PWR_WELL_CTL6
+PIPE_DDI_FUNC_CTL_A
+PIPE_DDI_FUNC_CTL_B
+PIPE_DDI_FUNC_CTL_C
+PIPE_DDI_FUNC_CTL_EDP
+DP_TP_CTL_A
+DP_TP_CTL_B
+DP_TP_CTL_C
+DP_TP_CTL_D
+DP_TP_CTL_E
+DP_TP_STATUS_B
+DP_TP_STATUS_C
+DP_TP_STATUS_D
+DP_TP_STATUS_E
+DDI_BUF_CTL_A
+DDI_BUF_CTL_B
+DDI_BUF_CTL_C
+DDI_BUF_CTL_D
+DDI_BUF_CTL_E
+SPLL_CTL
+LCPLL_CTL
+WRPLL_CTL1
+WRPLL_CTL2
+PORT_CLK_SEL_A
+PORT_CLK_SEL_B
+PORT_CLK_SEL_C
+PORT_CLK_SEL_D
+PORT_CLK_SEL_E
+PIPE_CLK_SEL_A
+PIPE_CLK_SEL_B
+PIPE_CLK_SEL_C
+WM_PIPE_A
+WM_PIPE_B
+WM_PIPE_C
+WM_LP1
+WM_LP2
+WM_LP3
+WM_LP1_SPR
+WM_LP2_SPR
+WM_LP3_SPR
+WM_MISC
+WM_SR_CNT
+PIPE_WM_LINETIME_A
+PIPE_WM_LINETIME_B
+PIPE_WM_LINETIME_C
+WM_DBG
+SFUSE_STRAP
+PIPEASRC
+DSPACNTR
+DSPASTRIDE
+DSPASURF
+DSPATILEOFF
+PIPEBSRC
+DSPBCNTR
+DSPBSTRIDE
+DSPBSURF
+DSPBTILEOFF
+PIPECSRC
+DSPCCNTR
+DSPCSTRIDE
+DSPCSURF
+DSPCTILEOFF
+PIPEACONF
+PIPEA_DATA_M1
+PIPEA_DATA_N1
+PIPEA_LINK_M1
+PIPEA_LINK_N1
+PIPEBCONF
+PIPEB_DATA_M1
+PIPEB_DATA_N1
+PIPEB_LINK_M1
+PIPEB_LINK_N1
+PIPECCONF
+PIPEC_DATA_M1
+PIPEC_DATA_N1
+PIPEC_LINK_M1
+PIPEC_LINK_N1
+PIPEEDPCONF
+HTOTAL_EDP
+HBLANK_EDP
+HSYNC_EDP
+VTOTAL_EDP
+VBLANK_EDP
+VSYNC_EDP
+VSYNCSHIFT_EDP
+PIPEEDP_DATA_M1
+PIPEEDP_DATA_N1
+PIPEEDP_LINK_M1
+PIPEEDP_LINK_N1
+PFA_CTL_1
+PFA_WIN_POS
+PFA_WIN_SIZE
+PFB_CTL_1
+PFB_WIN_POS
+PFB_WIN_SIZE
+PFC_CTL_1
+PFC_WIN_POS
+PFC_WIN_SIZE
+TRANS_HTOTAL_A
+TRANS_HBLANK_A
+TRANS_HSYNC_A
+TRANS_VTOTAL_A
+TRANS_VBLANK_A
+TRANS_VSYNC_A
+TRANS_VSYNCSHIFT_A
+TRANSACONF
+FDI_RXA_MISC
+FDI_RXA_TUSIZE1
+FDI_RXA_IIR
+FDI_RXA_IMR
+BLC_PWM_CPU_CTL2
+BLC_PWM_CPU_CTL
+BLC_PWM2_CPU_CTL2
+BLC_PWM2_CPU_CTL
+BLC_MISC_CTL
+BLC_PWM_PCH_CTL1
+BLC_PWM_PCH_CTL2
+UTIL_PIN_CTL
+PCH_PP_STATUS
+PCH_PP_CONTROL
+PCH_PP_ON_DELAYS
+PCH_PP_OFF_DELAYS
+PCH_PP_DIVISOR
+PIXCLK_GATE
+SDEISR
+RC6_RESIDENCY_TIME
+INSTDONE_I965
+INSTDONE_1
+CPU_VGACNTRL
+DIGITAL_PORT_HOTPLUG_CNTRL
+RR_HW_CTL
+FDI_PLL_BIOS_0
+FDI_PLL_BIOS_1
+FDI_PLL_BIOS_2
+DISPLAY_PORT_PLL_BIOS_0
+DISPLAY_PORT_PLL_BIOS_1
+DISPLAY_PORT_PLL_BIOS_2
+FDI_PLL_FREQ_CTL
+PIPEA_DATA_M2
+PIPEA_DATA_N2
+PIPEA_LINK_M2
+PIPEA_LINK_N2
+DSPABASE
+PIPEB_DATA_M2
+PIPEB_DATA_N2
+PIPEB_LINK_M2
+PIPEB_LINK_N2
+DSPBBASE
+PIPEC_DATA_M2
+PIPEC_DATA_N2
+PIPEC_LINK_M2
+PIPEC_LINK_N2
+DSPCBASE
+PFA_CTL_2
+PFA_CTL_3
+PFA_CTL_4
+PFB_CTL_2
+PFB_CTL_3
+PFB_CTL_4
+PFC_CTL_2
+PFC_CTL_3
+PFC_CTL_4
+PCH_DREF_CONTROL
+PCH_RAWCLK_FREQ
+PCH_DPLL_TMR_CFG
+PCH_SSC4_PARMS
+PCH_SSC4_AUX_PARMS
+PCH_DPLL_SEL
+PCH_DPLL_ANALOG_CTL
+PCH_DPLL_A
+PCH_DPLL_B
+PCH_FPA0
+PCH_FPA1
+PCH_FPB0
+PCH_FPB1
+TRANSA_DATA_M1
+TRANSA_DATA_N1
+Do nine men interpret Nine men I nod
+TRANSA_DATA_M2
+TRANSA_DATA_N2
+TRANSA_DP_LINK_M1
+TRANSA_DP_LINK_N1
+TRANSA_DP_LINK_M2
+Borrow or rob
+TRANSA_DP_LINK_N2
+TRANS_HTOTAL_B
+TRANS_HBLANK_B
+TRANS_HSYNC_B
+TRANS_VTOTAL_B
+TRANS_VBLANK_B
+TRANS_VSYNC_B
+TRANS_VSYNCSHIFT_B
+TRANSB_DATA_M1
+TRANSB_DATA_N1
+TRANSB_DATA_M2
+TRANSB_DATA_N2
+TRANSB_DP_LINK_M1
+TRANSB_DP_LINK_N1
+TRANSB_DP_LINK_M2
+TRANSB_DP_LINK_N2
+TRANS_HTOTAL_C
+TRANS_HBLANK_C
+TRANS_HSYNC_C
+TRANS_VTOTAL_C
+TRANS_VBLANK_C
+TRANS_VSYNC_C
+TRANS_VSYNCSHIFT_C
+TRANSC_DATA_M1
+TRANSC_DATA_N1
+TRANSC_DATA_M2
+TRANSC_DATA_N2
+TRANSC_DP_LINK_M1
+TRANSC_DP_LINK_N1
+TRANSC_DP_LINK_M2
+TRANSC_DP_LINK_N2
+TRANSBCONF
+TRANSCCONF
+FDI_TXA_CTL
+FDI_TXB_CTL
+FDI_TXC_CTL
+FDI_RXA_CTL
+FDI_RXB_CTL
+FDI_RXC_CTL
+DPAFE_BMFUNC
+DPAFE_DL_IREFCAL0
+DPAFE_DL_IREFCAL1
+DPAFE_DP_IREFCAL
+PCH_DSPCLK_GATE_D
+PCH_DSP_CHICKEN1
+PCH_DSP_CHICKEN2
+PCH_DSP_CHICKEN3
+FDI_RXB_MISC
+FDI_RXC_MISC
+FDI_RXA_TUSIZE2
+FDI_RXB_TUSIZE1
+FDI_RXB_TUSIZE2
+FDI_RXC_TUSIZE1
+FDI_RXC_TUSIZE2
+Eleele
+FDI_PLL_CTL_1
+FDI_PLL_CTL_2
+FDI_RXB_IIR
+FDI_RXB_IMR
+PCH_ADPA
+HDMIB
+HDMIC
+HDMID
+PCH_LVDS
+CPU_eDP_A
+PCH_DP_B
+PCH_DP_C
+PCH_DP_D
+TRANS_DP_CTL_A
+TRANS_DP_CTL_B
+TRANS_DP_CTL_C
+PORT_DBG
+RC6p_RESIDENCY_TIME
+RC6pp_RESIDENCY_TIME
+FENCE START 0
+FENCE END 0
+FENCE START 1
+FENCE END 1
+FENCE START 2
+FENCE END 2
+FENCE START 3
+FENCE END 3
+FENCE START 4
+FENCE END 4
+FENCE START 5
+FENCE END 5
+FENCE START 6
+FENCE END 6
+FENCE START 7
+FENCE END 7
+FENCE START 8
+FENCE END 8
+FENCE START 9
+FENCE END 9
+FENCE START 10
+FENCE END 10
+FENCE START 11
+FENCE END 11
+FENCE START 12
+FENCE END 12
+FENCE START 13
+FENCE END 13
+FENCE START 14
+FENCE END 14
+A Santa lives evil at NASA
+FENCE START 15
+FENCE END 15
+FENCE START 16
+FENCE END 16
+FENCE START 17
+FENCE END 17
+FENCE START 18
+FENCE END 18
+FENCE START 19
+FENCE END 19
+FENCE START 20
+FENCE END 20
+FENCE START 21
+FENCE END 21
+FENCE START 22
+FENCE END 22
+FENCE START 23
+FENCE END 23
+FENCE START 24
+FENCE END 24
+FENCE START 25
+FENCE END 25
+FENCE START 26
+FENCE END 26
+FENCE START 27
+FENCE END 27
+FENCE START 28
+FENCE END 28
+FENCE START 29
+FENCE END 29
+FENCE START 30
+FENCE END 30
+FENCE START 31
+FENCE END 31
+CHDECMISC
+C0DRB0
+C0DRB1
+C0DRB2
+C0DRB3
+C1DRB0
+C1DRB1
+C1DRB2
+C1DRB3
+C0DRA01
+C0DRA23
+C1DRA01
+C1DRA23
+VCLK_DIVISOR_VGA0
+VCLK_DIVISOR_VGA1
+VCLK_POST_DIV
+DPLL_TEST
+CACHE_MODE_0
+D_STATE
+RENCLK_GATE_D1
+RENCLK_GATE_D2
+SDVOB
+SDVOC
+SDVOUDI
+DSPARB
+FW_BLC
+FW_BLC2
+FW_BLC_SELF
+DSPFW1
+DSPFW2
+DSPFW3
+DVOA
+DVOA_SRCDIM
+DVOB_SRCDIM
+DVOC_SRCDIM
+BLC_PWM_CTL
+BLC_PWM_CTL2
+PFIT_CONTROL
+PFIT_PGM_RATIOS
+PORT_HOTPLUG_EN
+PORT_HOTPLUG_STAT
+DSPAPOS
+DSPASIZE
+PIPEASTAT
+PIPEA_GMCH_DATA_M
+PIPEA_GMCH_DATA_N
+PIPEA_DP_LINK_M
+PIPEA_DP_LINK_N
+CURSOR_A_BASE
+CURSOR_A_CONTROL
+CURSOR_A_POSITION
+DPLL_A_MD
+BCLRPAT_A
+DSPBPOS
+DSPBSIZE
+PIPEBSTAT
+PIPEB_GMCH_DATA_M
+PIPEB_GMCH_DATA_N
+PIPEB_DP_LINK_M
+PIPEB_DP_LINK_N
+CURSOR_B_BASE
+CURSOR_B_CONTROL
+CURSOR_B_POSITION
+DPLL_B_MD
+BCLRPAT_B
+TV_CTL
+TV_DAC
+TV_CSC_Y
+TV_CSC_Y2
+TV_CSC_U
+TV_CSC_U2
+TV_CSC_V
+TV_CSC_V2
+TV_CLR_KNOBS
+TV_CLR_LEVEL
+TV_H_CTL_1
+TV_H_CTL_2
+TV_H_CTL_3
+TV_V_CTL_1
+TV_V_CTL_2
+TV_V_CTL_3
+TV_V_CTL_4
+TV_V_CTL_5
+TV_V_CTL_6
+TV_V_CTL_7
+TV_SC_CTL_1
+TV_SC_CTL_2
+TV_SC_CTL_3
+TV_WIN_POS
+TV_WIN_SIZE
+TV_FILTER_CTL_1
+TV_FILTER_CTL_2
+TV_FILTER_CTL_3
+TV_CC_CONTROL
+TV_CC_DATA
+TV_H_LUMA_0
+TV_H_LUMA_59
+TV_H_CHROMA_0
+TV_H_CHROMA_59
+FBC_CFB_BASE
+FBC_LL_BASE
+FBC_CONTROL
+FBC_COMMAND
+FBC_STATUS
+FBC_CONTROL2
+FBC_FENCE_OFF
+FBC_MOD_NUM
+MI_MODE
+MI_ARB_STATE
+MI_RDRET_STATE
+DPB_AUX_CH_CTL
+DPB_AUX_CH_DATA1
+DPB_AUX_CH_DATA2
+DPB_AUX_CH_DATA3
+DPB_AUX_CH_DATA4
+DPB_AUX_CH_DATA5
+DPC_AUX_CH_CTL
+DPC_AUX_CH_DATA1
+DPC_AUX_CH_DATA2
+DPC_AUX_CH_DATA3
+DPC_AUX_CH_DATA4
+DPC_AUX_CH_DATA5
+DPD_AUX_CH_CTL
+DPD_AUX_CH_DATA1
+DPD_AUX_CH_DATA2
+DPD_AUX_CH_DATA3
+DPD_AUX_CH_DATA4
+DPD_AUX_CH_DATA5
+AUD_CONFIG
+AUD_HDMIW_STATUS
+AUD_CONV_CHCNT
+VIDEO_DIP_CTL
+AUD_PINW_CNTR
+AUD_CNTL_ST
+AUD_PIN_CAP
+AUD_PINW_CAP
+AUD_PINW_UNSOLRESP
+AUD_OUT_DIG_CNVT
+AUD_OUT_CWCAP
+AUD_GRP_CAP
+FENCE  0
+FENCE  1
+FENCE  2
+FENCE  3
+FENCE  4
+FENCE  5
+FENCE  6
+FENCE  7
+FENCE  8
+FENCE  9
+FENCE  10
+FENCE  11
+FENCE  12
+FENCE  13
+FENCE  14
+FENCE  15
+single or dual channel asymmetric
+%s, XOR randomization: %sabled, XOR bit: %d
+%s, ch2 enh %sabled, ch1 enh %sabled, ch0 enh %sabled, flex %sabled, ep %spresent
+status:%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s
+vga0 p1 = %d, p2 = %d, vga1 p1 = %d, p2 = %d
+%s, transcoder %c, %chsync, %cvsync
+%s, pipe %c, %s, %chsync, %cvsync
+clock gates disabled:%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s
+enabled, %c tiled, %4d pitch, 0x%08x - 0x%08x (%dkb)
+%s, %c tile walk, %4d pitch, 0x%08x start
+                                   0x%08x end
+%s, train pattern %s, voltage swing %s,pre-emphasis %s, port width %s, enhanced framing %s, FDI PLL %s, scrambing %s, master mode %s
+%s, train pattern %s, port width %s, %s,link_reverse_strap_overwrite %s, dmi_link_reverse %s, FDI PLL %s,FS ecc %s, FE ecc %s, FS err report %s, FE err report %s,scrambing %s, enhanced framing %s, %s
+cpu source %s, ssc_source %s, nonspread_source %s, superspread_source %s, ssc4_mode %s, ssc1 %s, ssc4 %s
+FDL_TP1 timer %s, FDL_TP2 timer %s, freq %d
+%s, auto_scale %s, auto_scale_cal %s, v_filter %s, vadapt %s, mode %s, filter_sel %s,chroma pre-filter %s, vert3tap %s, v_inter_invert %s
+%s pipe %c %s %s %s audio %s %s %s %s
+blacklight %s, %spower down on reset, panel %s
+display %s, crt %s, lane reversal %s, port b %s, port c %s, port d %s
+%s, %s, %s, %s, %s, %s, %s, %s
+primary %d, sprite %d, pipe %d
+%s, latency %d, fbc %d, pri %d, cur %d
+port d:%d, port c:%d, port b:%d, crt:%d
+enable %d, pipe %s, blinking %d, granularity %d
+enable %d, override %d, inverted polarity %d
+enable %d, transcoder %s, mode %s, data %d inverted polarity %d
+%s, sdvo high speed %s, mode %s, p2 %s, FPA0 P1 %d, FPA1 P1 %d, refclk %s, sdvo/hdmi mul %d
+%s, pipe %c, stall %s, %sdetected%s%s
+%s, %s%s, %s clock, %s mode, p1 = %d, p2 = %d%s%s
+TransA DPLL %s (DPLL %s), TransB DPLL %s (DPLL %s)
+8Error: fopen '%s': %s
+Error: %s:%d: %s
+regcomp %s
+portio-vga
+mmio-vga
+bunit
+punit
+dpio
+gpio-nc
+gpio_nc
+dpio2
+flisdsi
+^[[:space:]]*\([[:space:]]*'([[:print:]]*)'[[:space:]]*,[[:space:]]*'([[:print:]]*)'[[:space:]]*,[[:space:]]*'([[:print:]]*)'[[:space:]]*\)[[:space:]]*$
+Couldn't open %s
+!(fd == -1)
+../../lib/intel_mmio.c
+intel-mmio
+Couldn't mmap %s
+Couldn't map MMIO region
+!(error != 0)
+igt_global_mmio != NULL
+mmio_data.inited
+mmio_data.key != -1
+!range
+!(igt_global_mmio == ((void *) -1))
+Register read blocked for safety (*0x%08x)
+Warning on condition %s in fucntion %s, file %s:%i
+Register write blocked for safety (*0x%08x = 0x%x)
+intel_register_write
+intel_register_read
+intel_register_access_init
+intel_mmio_use_pci_bar
+intel_mmio_use_dump_file
+Couldn't initialize PCI system
+../../lib/intel_chipset.c
+intel-chipset
+Couldn't find graphics card
+Couldn't probe graphics card
+Graphics card is non-intel
+__drm_device_id
+INTEL_DEVID_OVERRIDE
+intel_get_drm_devid
+intel_get_pci_device
+!("Gen2/3 Ranges are not supported. Please use ""unsafe access.")
+../../lib/intel_reg_map.c
+intel-reg-map
+intel_get_register_map
+intel-iosf
+warning: pcode (%s) mailbox access failed
+timeout waiting for pcode %s (%d) to finish
+Usage: %s [OPTIONS]
+/dev/kmsg
+x86_64
+NOT-GIT
+1.14
+/proc/%d/exe
+Stack trace:
+  #%d [%s+0x%x]
+../../lib/igt_core.c
+helper_process_count == 0
+!in_fixture
+sigprocmask
+INTEL_SIMULATION
+DEBUG
+INFO
+WARNING
+CRITICAL
+NONE
+format
+(%s:%d) %s%s%s: %s
+application
+igt-core
+%sSubtest %s: %s (%.3fs)%s
+SUCCESS
+SKIP
+FAIL
+Unknown subtest: %s
+<6>%s: exiting, ret=%d
+Exiting with status code %d
+%s (%.3fs)
+!test_child
+failure
+Subtest %s failed.
+Test %s failed.
+No log.
+**** DEBUG ****
+****  END  ****
+!in_subtest
+test_with_subtests
+Invalid subtest name "%s".
+%sSubtest %s: %s%s
+<6>%s: starting subtest %s
+Starting subtest: %s
+Timed out: %s
+Timed out
+Failed assertion: %s
+Last errno: %i, %s
+/proc/self/oom_score_adj
+errno == ENOENT
+adj_scores_len > 0
+error: %d != %d
+sig != 0 || igt_exit_called
+error: %d == %d
+!igt_run_in_simulation()
+Test requirement passed: %s
+IGT_PLAIN_OUTPUT
+IGT_LOG_LEVEL
+warn
+ret >= 0
+<6>%s: executing
+!proc->running
+test_children
+Received signal 
+write(2, ".\n", 2) == 2
+CRASH
+list-subtests
+run-subtest
+help-description
+interactive-debug
+SIGABRT
+SIGSEGV
+SIGBUS
+  --list-subtests
+  --run-subtest <pattern>
+  --debug[=log-domain]
+  --interactive-debug[=domain]
+  --help-description
+  --help
+IGT-Version: %s-%s (%s) (%s: %s %s)
+(((signed char) ((((__extension__ (((union { __typeof(status) __in; int __i; }) { .__in = (status) }).__i))) & 0x7f) + 1) >> 1) > 0) && (((__extension__ (((union { __typeof(status) __in; int __i; }) { .__in = (status) }).__i))) & 0x7f) == (proc->use_SIGKILL ? 9 : 15)
+Could not read monotonic time: %s
+skipped_one || succeeded_one || failed_one
+exitcode != 0 && exitcode != 77
+!test_with_subtests || in_fixture
+child %i failed with exit status %i
+child %i died with signal %i, %s
+Unhandled failure [%d] in child %i
+Test assertion failure function %s, file %s:%i:
+write(fd, always_kill, sizeof(always_kill)) == sizeof(always_kill)
+/sys/module/lowmemorykiller/parameters/adj
+write(fd, no_lowmem_killer, sizeof(no_lowmem_killer)) == sizeof(no_lowmem_killer)
+write(fd, prev_adj_scores, adj_scores_len) == adj_scores_len
+asprintf(&err_str, "Last errno: %i, %s\n", err, strerror(err)) != -1
+vasprintf(&buf, f, args) != -1
+Test requirement not met in function %s, file %s:%i:
+Test requirement: %s
+%s%s
+Test requirement not met in function %s, file %s:%i:
+Test requirement: %s
+exit_handler_count < MAX_EXIT_HANDLERS
+failed to install the signal handler
+Conflicting long option values between --%s and --%s
+Conflicting long and short option values between --%s and -%s
+Conflicting short option: -%c
+Conflicting short option and long option value: --%s and -%c
+helper_process_count < (sizeof(helper_process_pids)/sizeof(helper_process_pids[0]))
+!test_with_subtests || in_subtest
+write(2, "Received signal ", 16) == 16
+write(2, handled_signals[i].name, handled_signals[i].name_len) == handled_signals[i].name_len
+Could not open data file "%s": %s
+igt_vlog
+igt_skip_on_simulation
+fatal_sig_handler
+igt_install_exit_handler
+igt_waitchildren
+__igt_fork
+__igt_fork
+igt_stop_helper
+igt_wait_helper
+fork_helper_exit_handler
+__igt_fork_helper
+__igt_fork_helper
+igt_exit
+igt_fail
+__igt_skip_check
+igt_skip
+__igt_run_subtest
+9999
+low_mem_killer_disable
+oom_adjust_for_doom
+common_exit_handler
+common_init
+__igt_fixture_end
+__igt_fixture_complete
+__igt_fixture
+>../../lib/drmtest.c
+flags != 0
+drmtest
+Tacocat
+i915
+/dev/dri/card%u
+ret != -1
+No intel gpu found
+drmSetMaster(fd) == 0
+/dev/dri/renderD%u
+Degas are we not drawn onward no In union drawn onward to new eras aged
+i915_ring_stop flags on exit 0x%x, can't quiescent gpu cleanly
+Can't become DRM master, please check if no other DRM client is running.
+__drm_open_driver_render
+drm_open_driver_master
+drm_open_driver
+drm_get_card
+check_stop_rings
+pipe %s none
+../../lib/igt_debugfs.c
+igt-debugfs
+CRC reading
+pipe_crc->flags & O_NONBLOCK
+%8u %8x %8x %8x %8x %8x
+/sys/kernel/debug
+/sys/kernel/debug/dri
+%s/dri/%d
+i915_display_crc_ctl
+pipe_crc->ctl_fd != -1
+i915_pipe_%s_crc
+pipe_crc->crc_fd != -1
+file
+n_read > 0
+feof(file)
+fclose(file) == 0
+error: %#x != %#x
+a->crc[i] == b->crc[i]
+crc->n_words == 5
+%08x %08x %08x %08x %08x
+pipe A none
+pipe %s %s
+all_zero
+crc->crc[i] == 0xffffffff
+0x%lx
+i915_gem_drop_caches
+nbytes == strlen(data) + 1
+i915_gem_objects
+%i objects
+scanned == 1
+plane1
+plane2
+pipe
+DP-B
+DP-C
+DP-D
+write(fd, buf, strlen(buf)) == strlen(buf)
+bytes_read == pipe_crc->line_len
+/sys/module/i915/parameters/prefault_disable
+write(fd, &buf[index], 1) == 1
+stat("/sys/kernel/debug", &st) == 0
+No display_crc_ctl found, kernel too old
+CRCs not supported on this platform
+(written == strlen(cmd) && ret == 0) || errno != ENODEV
+write(pipe_crc->ctl_fd, buf, strlen(buf)) == strlen(buf)
+igt_pipe_crc_do_start(pipe_crc)
+Suspicious CRC: All values are 0.
+Suspicious CRC: it looks like the CRC read back was from a register in a powered down well
+get_object_count
+igt_prefault_control
+igt_drop_caches_set
+crc_sanity_checks
+igt_pipe_crc_stop
+read_crc
+igt_pipe_crc_do_start
+igt_pipe_crc_start
+igt_pipe_crc_pipe_off
+pipe_crc_new
+igt_require_pipe_crc
+igt_crc_to_string
+igt_assert_crc_equal
+igt_debugfs_search
+__igt_debugfs_read
+__igt_debugfs_init
+../../lib/igt_aux.c
+IGT_DUMP_AUB
+%s100%%
+%s%3llu%%
+trash_bos
+igt-aux
+trash bo
+rtcwake -n -s 30 -m mem
+rtcwake -s 30 -m mem
+ret == 0
+rtcwake -n -s 90 -m disk
+rtcwake -s 90 -m disk
+getuid() == 0
+setgid(2) == 0
+setuid(2) == 0
+getgid() == 2
+getuid() == 2
+Is %s [Y/n]
+key != 'n' && key != 'N'
+auto
+size == 5
+pm_status_fd >= 0
+n_read >= 0
+suspended
+Unknown status %s
+false
+active
+suspending
+resuming
+(invalid)
+locked_mem
+close(fd) == 0
+write(fd, val, len) == len
+n < PARAM_VALUE_MAX_SZ
+DVI-I
+DVI-D
+DVI-A
+composite
+s-video
+component
+9-pin DIN
+HDMI-A
+HDMI-B
+disconnected
+TVDAC
+write(2, msg, sizeof(msg)) == sizeof(msg)
+!(system("rtcwake -n -s 30 -m mem") != 0)
+system("rtcwake -n -s 30 -m mem") != 0
+Test requirement passed: !(%s)
+This failure means that something is wrong with the rtcwake tool or how your distro is set up. This is not a i915.ko or i-g-t bug.
+!(system("rtcwake -n -s 90 -m disk") != 0)
+system("rtcwake -n -s 90 -m disk") != 0
+Press any key to continue ...
+/sys/devices/pci0000:00/0000:00:02.0/power/autosuspend_delay_ms
+Can't open /sys/devices/pci0000:00/0000:00:02.0/power/autosuspend_delay_ms
+/sys/devices/pci0000:00/0000:00:02.0/power/control
+Can't open /sys/devices/pci0000:00/0000:00:02.0/power/control
+strncmp(buf, "auto\n", 5) == 0
+/sys/devices/pci0000:00/0000:00:02.0/power/runtime_status
+Can't open /sys/devices/pci0000:00/0000:00:02.0/power/runtime_status
+gettimeofday(&start_, NULL) == 0
+gettimeofday(&end_, NULL) == 0
+Unlocking previously locked memory.
+Could not allocate enough memory to lock.
+Could not lock memory into RAM.
+Need to increase PARAM_NAME_MAX_SZ
+strlen(name) < PARAM_NAME_MAX_SZ
+Need to increase PARAM_VALUE_MAX_SZ
+n > 0 && n < PARAM_VALUE_MAX_SZ
+igt_set_module_param_int
+igt_module_param_exit_handler
+igt_save_module_param
+igt_set_module_param
+igt_lock_mem
+igt_wait_for_pm_status
+igt_get_runtime_pm_status
+igt_setup_runtime_pm
+igt_debug_manual_check
+igt_drop_root
+igt_system_hibernate_autoresume
+igt_system_suspend_autoresume
+igt_init_aperture_trashers
+IGT_HANG
+IGT_HANG_WITHOUT_RESET
+has_gpu_reset(fd)
+../../lib/igt_gt.c
+igt-gt
+i915_error_state
+write(fd, "", 1) == 1
+Triggering GPU reset
+i915_wedged
+ret == 3
+!(gen < 5)
+gen < 5
+IGT_NO_FORCEWAKE
+i915_forcewake_user
+i915_ring_stop
+l > 0
+l < sizeof(buf)
+errno == 0
+flags == 0 || current == 0
+current != flags
+/proc/cpuinfo
+processor
+clflush
+clflush size
+i915_ring_missed_irq
+render
+render ring
+bsd ring
+bsd1
+bsd2
+bsd2 ring
+blitter ring
+vebox
+video enhancement ring
+hang injection disabled by user
+ctx == 0 || ring == I915_EXEC_RENDER
+ring && ((ring & ~I915_EXEC_RING_MASK) == 0)
+(flags & ~(STOP_RING_ALL | STOP_RING_ALLOW_BAN | STOP_RING_ALLOW_ERRORS)) == 0
+previous i915_ring_stop is still 0x%x
+snprintf(buf, sizeof(buf), "0x%08x", mask) == 10
+i915_ring_stop readback mismatch 0x%x vs 0x%x
+fscanf(file, "%x", &missed) == 1
+intel_detect_and_clear_missed_interrupts
+stop_rings_write
+igt_set_stop_rings
+igt_get_stop_rings
+igt_to_stop_ring_flag
+igt_fork_hang_helper
+igt_force_gpu_reset
+eat_error_state
+igt_hang_ctx
+igt_require_hang_ring
+../../lib/ioctl_wrappers.c
+ioctl-wrappers
+st.tiling_mode == tiling
+open_struct.handle != 0
+create.handle
+err == 0
+create.ctx_id != 0
+has_ban_period
+arg.handle != 0
+gem_has_ring(fd, ring_id)
+gem_has_bsd2(fd)
+ret >= 0 || errno == ESPIPE
+ret == 0 || errno == EINVAL
+has_modifiers
+__gem_set_tiling(fd, handle, tiling, stride) == 0
+ret == 0 || (errno == ENOTTY || errno == EINVAL)
+drmIoctl((fd), ((((1U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x09)) << 0) | ((((sizeof(struct drm_gem_close)))) << ((0+8)+8)))), (&close_bo)) == 0
+drmIoctl((fd), ((((1U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x40 + 0x1d)) << 0) | ((((sizeof(struct drm_i915_gem_pwrite)))) << ((0+8)+8)))), (&gem_pwrite)) == 0
+drmIoctl((fd), ((((1U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x40 + 0x1c)) << 0) | ((((sizeof(struct drm_i915_gem_pread)))) << ((0+8)+8)))), (&gem_pread)) == 0
+drmIoctl((fd), ((((1U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x40 + 0x1f)) << 0) | ((((sizeof(struct drm_i915_gem_set_domain)))) << ((0+8)+8)))), (&set_domain)) == 0
+drmIoctl((fd), ((((2U|1U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x40 + 0x1b)) << 0) | ((((sizeof(struct local_i915_gem_create_v2)))) << ((0+8)+8)))), (&create)) == 0
+drmIoctl((fd), ((((2U|1U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x40 + 0x1b)) << 0) | ((((sizeof(struct drm_i915_gem_create)))) << ((0+8)+8)))), (&create)) == 0
+__gem_execbuf(fd, execbuf) == 0
+drmIoctl((fd), ((((2U|1U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x40 + 0x26)) << 0) | ((((sizeof(struct drm_i915_gem_madvise)))) << ((0+8)+8)))), (&madv)) == 0
+!(err == -ENODEV || errno == -EINVAL)
+err == -ENODEV || errno == -EINVAL
+drmIoctl((fd), ((((1U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x40 + 0x2e)) << 0) | ((((sizeof(struct drm_i915_gem_context_destroy)))) << ((0+8)+8)))), (&destroy)) == 0
+drmIoctl((fd), ((((2U|1U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x40 + 0x34)) << 0) | ((((sizeof(struct local_i915_gem_context_param)))) << ((0+8)+8)))), (p)) == 0
+__gem_context_set_param(fd, p) == 0
+drmIoctl(fd, LOCAL_IOCTL_I915_GEM_CONTEXT_GETPARAM, &p) == 0
+Skipping, synchronized mappings with no kernel CONFIG_MMU_NOTIFIER?
+!(ret == ENODEV && (flags & LOCAL_I915_USERPTR_UNSYNCHRONIZED) == 0 && !read_only)
+ret == ENODEV && (flags & LOCAL_I915_USERPTR_UNSYNCHRONIZED) == 0 && !read_only
+__gem_userptr(fd, ptr, size, read_only, flags, handle) == 0
+drmIoctl((fd), ((((1U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x40 + 0x20)) << 0) | ((((sizeof(struct drm_i915_gem_sw_finish)))) << ((0+8)+8)))), (&finish)) == 0
+drmIoctl((fd), ((((2U|1U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x40 + 0x17)) << 0) | ((((sizeof(struct drm_i915_gem_busy)))) << ((0+8)+8)))), (&busy)) == 0
+drmIoctl((fd), ((((2U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x40 + 0x23)) << 0) | ((((sizeof(struct drm_i915_gem_get_aperture)))) << ((0+8)+8)))), (&aperture)) == 0
+drmIoctl((fd), ((((2U|1U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x2d)) << 0) | ((((sizeof(struct drm_prime_handle)))) << ((0+8)+8)))), (&args)) == 0
+drmIoctl((fd), ((((2U|1U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x2e)) << 0) | ((((sizeof(struct drm_prime_handle)))) << ((0+8)+8)))), (&args)) == 0
+drmIoctl((dma_buf_fd), ((((1U) << (((0+8)+8)+14)) | ((('b')) << (0+8)) | (((0)) << 0) | ((((sizeof(struct local_dma_buf_sync)))) << ((0+8)+8)))), (&sync_start)) == 0
+drmIoctl((dma_buf_fd), ((((1U) << (((0+8)+8)+14)) | ((('b')) << (0+8)) | (((0)) << 0) | ((((sizeof(struct local_dma_buf_sync)))) << ((0+8)+8)))), (&sync_end)) == 0
+igt_require_fb_modifiers
+prime_sync_end
+prime_sync_start
+prime_get_size
+prime_fd_to_handle
+prime_handle_to_fd
+gem_require_ring
+gem_require_caching
+gem_global_aperture_size
+gem_aperture_size
+gem_available_aperture_size
+gem_bo_busy
+gem_sw_finish
+gem_userptr
+__gem_userptr
+gem_context_require_ban_period
+gem_context_require_param
+gem_context_set_param
+gem_context_get_param
+gem_context_destroy
+gem_context_create
+gem_madvise
+gem_mmap__cpu
+gem_mmap__wc
+gem_mmap__gtt
+gem_execbuf
+gem_create
+gem_create_stolen
+gem_set_domain
+gem_read
+gem_write
+gem_close
+gem_flink
+gem_open
+gem_get_caching
+gem_set_caching
+gem_set_tiling
+__gem_set_tiling
+gem_get_tiling
+gem_handle_to_libdrm_bo
+display: 
+igt-kms
+    
+display->log_shift >= 0
+../../lib/igt_kms.c
+invalid
+ (3D:
+SBSH
+LDGFX
+SBSF
+digital
+unspecified
+%s-%d/force
+Current forced connectors:
+%s-%d/edid_override
+debugfs_fd != -1
+reset
+no modes for connector %d
+drmModeGetResources failed
+connector %d has no modes
+could not get encoder %d: %s
+%s-%d
+%s: Selecting pipe %s
+DPMS
+found_it
+rc == 0
+init
+%s {
+plane_resources
+type
+rotation
+display->outputs
+background_color
+%s: set_pipe(any)
+%s: set_pipe(%s)
+plane=%d
+%s.%d: plane_set_fb(%d)
+commit
+!primary->rotation_changed
+plane->drm_plane
+modeset
+plane3
+cursor
+VT: %s: %s, cannot change its mode
+VT: original mode 0x%lx restored
+pipe >= 0 && pipe < display->n_pipes
+plane < ARRAY_SIZE(names) && names[plane]
+  %s %d %d %d %d %d %d %d %d %d 0x%x 0x%x %d%s%s%s
+VT: graphics mode set (mode was 0x%lx)
+asprintf(&path, "%s-%d/force", kmstest_connector_type_str(connector->connector_type), connector->connector_type_id) != -1
+Connector limit reached, %s will not be reset
+Connector %s is now forced %s
+asprintf(&path, "%s-%d/edid_override", kmstest_connector_type_str(connector->connector_type), connector->connector_type_id) != -1
+connector id doesn't match (%d != %d)
+asprintf(&output->name, "%s-%d", kmstest_connector_type_str(c->connector_type), c->connector_type_id) != -1
+drmModeConnectorSetProperty(fd, connector->connector_id, dpms, mode) == 0
+DPMS property not found on %d
+new_edid_ptr != NULL && new_length != NULL
+pipe->planes[IGT_PLANE_PRIMARY].drm_plane && pipe->planes[IGT_PLANE_CURSOR].drm_plane
+pipe->n_planes <= IGT_MAX_PLANES
+plane >= 0 && plane < (pipe->n_planes)
+%s.%d: plane_set_position(%d,%d)
+%s.%d: plane_set_size (%dx%d)
+%s.%d: fb_set_position(%d,%d)
+%s.%d: fb_set_position(%dx%d)
+%s.%d: plane_set_panning(%d,%d)
+%s.%d: plane_set_rotation(%s)
+%s.%d: crtc_set_background(%lx)
+drmWaitVBlank(drm_fd, &wait_vbl) == 0
+%s and %s are both trying to use pipe %s
+a->pending_crtc_idx_mask != b->pending_crtc_idx_mask
+%s: SetCursor pipe %s, fb %u %dx%d
+%s: SetCursor pipe %s, disabling
+%s: MoveCursor pipe %s, (%d, %d)
+(primary->crtc_x == 0 && primary->crtc_y == 0)
+%s: SetCrtc pipe %s, fb %u, panning (%d, %d), mode %dx%d
+igt_plane_supports_rotation(plane) || !plane->rotation_changed
+%s: SetPlane pipe %s, plane %d, disabling
+%s: SetPlane %s.%d, fb %u, src = (%d, %d) %ux%u dst = (%u, %u) %ux%u
+%s: SetCrtc pipe %s, disabling
+Unable to force state on %s-%d
+write(fd, "unspecified", 11) == 11
+igt_reset_connectors
+igt_wait_for_vblank
+rotation_name
+igt_pipe_get_plane
+igt_drm_plane_commit
+igt_primary_plane_commit_legacy
+igt_cursor_commit_legacy
+igt_output_get_driving_pipe
+igt_display_refresh
+igt_display_log_shift
+igt_output_refresh
+igt_display_init
+kmstest_unset_all_crtcs
+kmstest_edid_add_3d
+kmstest_set_connector_dpms
+kmstest_force_edid
+kmstest_force_connector
+kmstest_set_vt_graphics_mode
+/dev/tty0
+kmstest_restore_vt_mode
+kmstest_get_pipe_from_crtc_id
+kmstest_plane_name
+/sys/module/snd_hda_intel/parameters/power_save
+/sys/bus/pci/devices/0000:00:03.0/power/control
+/sys/class/scsi_host/host%d/link_power_management_policy
+write(fd, "min_power\n", strlen("min_power\n")) == strlen("min_power\n")
+write(fd, "max_performance\n", strlen("max_performance\n")) == strlen("max_performance\n")
+write(fd, "medium_power\n", strlen("medium_power\n")) == strlen("medium_power\n")
+write(fd, "1\n", 2) == 2
+../../lib/igt_pm.c
+igt-pm
+write(fd, "auto\n", 5) == 5
+max_performance
+medium_power
+min_power
+igt_pm_restore_sata_link_power_management
+igt_pm_enable_sata_link_power_management
+igt_pm_enable_audio_runtime_pm
+;*3$"
+a@E@1@
+@0 4
+;=?A
+      
+         
+a@E@1@
+q8-@X,E
+;=BD
+      
+         
+d3835e4aa292a4636c343114f3b03a79a237f0.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.data.rel.ro
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

@@ -1,0 +1,8261 @@
+/lib64/ld-linux-x86-64.so.2
+D(?bF
+uBH!<
+U@@	
+o2Jv
+HO+~
+1OAHD
+KYBJ
+$ghs
+5O3c
+y,qm
+dT0*<
+Q7D0
+A32\l
+>m&[
+8zcU
+nS'aE
+libgtkmm-2.4.so.1
+_ZN4Glib17SignalProxyNormalD2Ev
+_ZN4Glib16ValueBase_String10value_typeEv
+_ZN4sigc9trackableC2Ev
+_ZN4Glib7ustringaSERKS0_
+_ZN4sigc8internal8slot_rep6notifyEPv
+g_type_check_instance_cast
+_ITM_deregisterTMCloneTable
+_ZN4Glib10ObjectBaseC2EPKc
+_ZN3Gdk5ColorC1Ev
+g_assertion_message_expr
+_ZNK4Glib16ValueBase_String11get_cstringEv
+_ZN4Glib10ObjectBase10set_manageEv
+g_free
+_ZTIN4Glib5ErrorE
+_ZN4Glib5ValueIfE10value_typeEv
+_ZTIN3Atk11ImplementorE
+_ZN4Glib10ObjectBaseC2Ev
+_ZN4Glib18PropertyProxy_Base13set_property_ERKNS_9ValueBaseE
+_ZN4Glib7ustringC1Ev
+_ZNK3Gdk9Rectangle10get_heightEv
+_ZN4Glib5ValueIbE3setEb
+__gmon_start__
+_ZN4Glib5ValueINS_7ustringEE3setERKS1_
+_ZN4sigc9slot_baseD2Ev
+_ZN4Glib10ObjectBase15destroy_notify_Ev
+_ZNK4Glib10ObjectBase11unreferenceEv
+_ZN4Glib7ustringC1ERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE
+g_list_free
+_ZN4sigc10connectionC1ERNS_9slot_baseE
+_ZN4Glib7ustringC1EPKc
+_ZNK4sigc9trackable27add_destroy_notify_callbackEPvPFS1_S1_E
+g_list_last
+_ZN4Glib7ustringC1ERKS0_
+_ZN4Glib9ValueBase4initEm
+_ZN4Glib15ConstructParamsD1Ev
+_Jv_RegisterClasses
+_ZN3Gdk5ColorD1Ev
+_ZN4sigc9trackableD2Ev
+_ZN4sigc9slot_baseC2EPNS_8internal8slot_repE
+_ZNK4sigc9trackable30remove_destroy_notify_callbackEPv
+_ZNK4Glib7ustring7compareERKS0_
+_ZN4sigc9slot_baseC2Ev
+_ZN4Glib15ConstructParamsC1ERKNS_5ClassEPKcz
+_ZNK4Glib7ustring5c_strEv
+_ZN4Glib7ustringpLEPKc
+_ZN4Glib7ustringpLERKS0_
+_ZN4Glib16ValueBase_Object10set_objectEPNS_10ObjectBaseE
+gtk_viewport_get_type
+_ZTIN4Glib6ObjectE
+_ZN4Glib17SignalProxyNormal8connect_ERKN4sigc9slot_baseEb
+_ZNK4Glib10ObjectBase9referenceEv
+gtk_bin_get_type
+gtk_bin_get_child
+_ZNK4Glib7ustring4sizeEv
+_ZN4Glib9ValueBaseD2Ev
+gtk_viewport_set_shadow_type
+_ZTIN4Glib10ObjectBaseE
+_ZN3Atk11Implementor21ref_accessibile_vfuncEv
+_ZN4Glib9wrap_autoEP8_GObjectb
+g_list_length
+g_object_unref
+_ITM_registerTMCloneTable
+_ZN4Glib9ValueBaseC2Ev
+_ZN4Glib5ValueIfE3setEf
+_ZN4Glib7ustringD1Ev
+_ZN4Glib10ObjectBaseD2Ev
+_ZN4sigc9slot_baseD1Ev
+_ZTIN4Glib9InterfaceE
+_ZNK4Glib7ustring5emptyEv
+_ZNK3Gdk9Rectangle9get_widthEv
+_ZN3Gdk6Pixbuf13get_base_typeEv
+_ZN4sigc10connectionD1Ev
+g_malloc
+_ZN4Glib5ValueIbE10value_typeEv
+_ZNK4Glib5ValueIbE3getEv
+_ZN3Gtk8ComboBoxC1Ev
+_ZN3Gtk4VBoxD1Ev
+_ZN3Gtk6Window10set_manageEv
+_ZN3Gtk11ProgressBar8set_textERKN4Glib7ustringE
+_ZN3Gtk13TreeSelection14signal_changedEv
+_ZN3Gtk6Widget8on_unmapEv
+_ZN3Gtk16CellRendererText19property_foregroundEv
+_ZN3Gtk6Widget21on_drag_data_receivedERKN4Glib6RefPtrIN3Gdk11DragContextEEEiiRKNS_13SelectionDataEjj
+_ZN3Gtk4Misc13set_alignmentENS_13AlignmentEnumES1_
+_ZN3Gtk6VPanedD1Ev
+_ZN3Gtk6Dialog20set_default_responseEi
+_ZN3Gtk8MenuItemC1ERNS_6WidgetE
+_ZN3Gtk12Menu_Helpers7ElementD1Ev
+_ZN3Gtk14TreeViewColumn11class_init_Ev
+_ZN3Gtk8TreeView10get_columnEi
+_ZNK3Gtk5Entry15get_text_lengthEv
+_ZTIN3Gtk8MenuItemE
+_ZN3Gtk6Widget14on_drag_motionERKN4Glib6RefPtrIN3Gdk11DragContextEEEiij
+_ZN3Gtk6Window14on_frame_eventEP9_GdkEvent
+_ZN3Gtk6Widget22on_motion_notify_eventEP15_GdkEventMotion
+_ZN3Gtk18CellRendererToggle20property_activatableEv
+_ZNK3Gtk11FileChooser12get_filenameEv
+_ZN3Gtk3Box8pack_endERNS_6WidgetENS_11PackOptionsEj
+_ZN3Gtk7Toolbar12get_nth_itemEi
+_ZN3Gtk8ComboBox9set_modelERKN4Glib6RefPtrINS_9TreeModelEEE
+_ZN3Gtk10CellLayout16pack_start_vfuncEPNS_12CellRendererEb
+_ZN3Gtk10OptionMenu14signal_changedEv
+_ZN3Gtk5Label13set_line_wrapEb
+_ZN3Gtk21TreeModelColumnRecordC2Ev
+_ZNK3Gtk7Toolbar11get_n_itemsEv
+_ZN3Gtk4Main14events_pendingEv
+_ZN3Gtk12ComboBoxText16TextModelColumnsD0Ev
+_ZN3Gtk5Stock2OKE
+_ZN3Gtk5Stock4INFOE
+_ZN3Gtk11FileChooser18set_current_folderERKN4Glib7ustringE
+_ZN3Gtk23CellRenderer_Generation21generate_cellrendererIN4Glib6RefPtrIN3Gdk6PixbufEEEEEPNS_12CellRendererEb
+_ZN3Gtk12Menu_Helpers13ImageMenuElemC1ERKN4Glib7ustringERNS_6WidgetERNS_4MenuE
+_ZN3Gtk9StatusbarC1Ev
+_ZN3Gtk6Widget21on_enter_notify_eventEP17_GdkEventCrossing
+_ZN3Gtk6Object10set_manageEv
+_ZN3Gtk14TreeViewColumn23get_first_cell_rendererEv
+_ZN3Gtk8ComboBoxD2Ev
+_ZN3Gtk8TreePathC1ERKNS_8TreeIterE
+_ZN3Gtk5Paned12set_positionEi
+_ZN3Gtk5Stock11DIALOG_INFOE
+_ZN3Gtk17FileChooserDialogD1Ev
+_ZN3Gtk16CellRendererTextC1Ev
+_ZTv0_n32_N3Gtk12ComboBoxTextD1Ev
+_ZN3Gtk6Dialog17add_action_widgetERNS_6WidgetEi
+_ZN3Gtk4MainD1Ev
+_ZN3Gtk13MessageDialogC1ERNS_6WindowERKN4Glib7ustringEbNS_11MessageTypeENS_11ButtonsTypeEb
+_ZTVN3Gtk12ComboBoxText16TextModelColumnsE
+_ZN3Gtk6DialogD2Ev
+_ZN3Gtk6Widget17on_get_accessibleEv
+_ZNK3Gtk16TreeNodeChildrenixEj
+_ZN3Gtk8MenuItem14remove_submenuEv
+_ZN3Gtk10CellLayout19add_attribute_vfuncEPNS_12CellRendererERKN4Glib7ustringEi
+_ZN3Gtk11DrawingAreaC2Ev
+_ZN3Gtk11ProgressBar12set_fractionEd
+_ZTSN3Gtk12ComboBoxTextE
+_ZN3Gtk7ToolbarC1Ev
+_ZN3Gtk8ExpanderC1Ev
+_ZN3Gtk8TreeView18on_test_expand_rowERKNS_8TreeIterERKNS_8TreePathE
+_ZN3Gtk12Menu_Helpers8MenuElemC1ERKN4Glib7ustringERKN4sigc4slotIvNS6_3nilES8_S8_S8_S8_S8_S8_EE
+_ZN3Gtk11ProgressBar14set_pulse_stepEd
+_ZNK3Gtk9Container16child_type_vfuncEv
+_ZN3Gtk9TreeStore6createERKNS_21TreeModelColumnRecordE
+_ZN3Gtk8TreeItermmEv
+_ZNK3Gtk6Widget14get_allocationEv
+_ZN3Gtk8TreeViewC2Ev
+_ZN3Gtk9TreeStore6appendERKNS_16TreeNodeChildrenE
+_ZN3Gtk6Button14signal_clickedEv
+_ZN3Gtk13MessageDialog21property_message_typeEv
+_ZN3Gtk6Widget15on_client_eventEP15_GdkEventClient
+_ZNK3Gtk8TreeItercvbEv
+_ZN3Gtk6Widget12queue_resizeEv
+_ZN3Gtk11FileChooser29set_do_overwrite_confirmationEb
+_ZNK3Gtk5Label9get_labelEv
+_ZN3Gtk5Entry21set_activates_defaultEb
+_ZTv0_n56_N3Gtk6Object15destroy_notify_Ev
+_ZN3Gtk8TreeView16columns_autosizeEv
+_ZN3Gtk8TreeView20on_test_collapse_rowERKNS_8TreeIterERKNS_8TreePathE
+_ZN3Gtk13MessageDialog11set_messageERKN4Glib7ustringEb
+_ZN3Gtk5Stock4COPYE
+_ZN3Gtk6Window9set_titleERKN4Glib7ustringE
+_ZN3Gtk10CellLayout11clear_vfuncEv
+_ZThn16_N3Gtk12ComboBoxTextD1Ev
+_ZN3Gtk6Window13set_resizableEb
+_ZN3Gtk6Widget18on_focus_out_eventEP14_GdkEventFocus
+_ZNK3Gtk10OptionMenu11get_historyEv
+_ZN3Gtk10SpinButton9set_valueEd
+_ZN3Gtk10CellLayout14pack_end_vfuncEPNS_12CellRendererEb
+_ZN3Gtk14TreeViewColumn18get_cell_renderersEv
+_ZN3Gtk6Widget21on_proximity_in_eventEP18_GdkEventProximity
+_ZN3Gtk10ToolButtonC1ERKNS_7StockIDE
+_ZN3Gtk6Widget16on_style_changedERKN4Glib6RefPtrINS_5StyleEEE
+_ZN3Gtk5FrameC2Ev
+_ZN3Gtk6Widget20get_accessible_vfuncEv
+_ZN3Gtk14ScrolledWindow10set_policyENS_10PolicyTypeES1_
+_ZNK3Gtk7TreeRow8childrenEv
+_ZN3Gtk9ListStore6appendEv
+_ZN3Gtk5Stock21DIALOG_AUTHENTICATIONE
+_ZN3Gtk6Widget4showEv
+_ZN3Gtk4HBoxD1Ev
+_ZN3Gtk8TreeView14set_rules_hintEb
+_ZN3Gtk10SpinButton14set_incrementsEdd
+_ZN3Gtk9Container15on_check_resizeEv
+_ZN3Gtk6Widget14show_all_vfuncEv
+_ZTVN3Gtk12ComboBoxTextE
+_ZN3Gtk6Widget9modify_fgENS_9StateTypeERKN3Gdk5ColorE
+_ZN3Gtk4VBoxC1Ebi
+_ZN3Gtk6Widget12on_unrealizeEv
+_ZN3Gtk6Widget25signal_leave_notify_eventEv
+_ZN3Gtk6Widget10on_realizeEv
+_ZN3Gtk6Window17set_transient_forERS0_
+_ZN3Gtk12ComboBoxTextC1Ev
+_ZN3Gtk5Table16set_col_spacingsEj
+_ZN3Gtk8ComboBox14signal_changedEv
+_ZN3Gtk5Label17set_use_underlineEb
+_ZN3Gtk4HBoxC1Ebi
+_ZN3Gtk6Widget16on_size_allocateERN3Gdk9RectangleE
+_ZThn24_N3Gtk12ComboBoxTextD1Ev
+_ZN3Gtk8ComboBox10on_changedEv
+_ZN3Gtk12CellRenderer15property_xalignEv
+_ZTIN3Gtk12ComboBoxTextE
+_ZN3Gtk11AboutDialog12set_commentsERKN4Glib7ustringE
+_ZTVN3Gtk14TreeViewColumnE
+_ZN3Gtk8MenuItem11set_submenuERNS_4MenuE
+_ZN3Gtk6WindowD2Ev
+_ZN3Gtk7MenuBarD1Ev
+_ZN3Gtk13MessageDialogC2ERKN4Glib7ustringEbNS_11MessageTypeENS_11ButtonsTypeEb
+_ZN3Gtk6Widget21on_leave_notify_eventEP17_GdkEventCrossing
+_ZN3Gtk9ListStore6createERKNS_21TreeModelColumnRecordE
+_ZN3Gtk8TreeView10expand_allEv
+_ZN3Gtk6VPanedC1Ev
+_ZN3Gtk6Widget11signal_showEv
+_ZN3Gtk14ScrolledWindowD1Ev
+_ZN3Gtk6Widget10grab_focusEv
+_ZN3Gtk11ProgressBar5pulseEv
+_ZN3Gtk6Button9set_labelERKN4Glib7ustringE
+_ZN3Gtk9Container17show_all_childrenEb
+_ZN3Gtk5Entry14set_max_lengthEi
+_ZN3Gtk9TreeModel8childrenEv
+_ZN3Gtk6Dialog8get_vboxEv
+_ZN3Gtk6Widget13set_sensitiveEb
+_ZN3Gtk5EntryD1Ev
+_ZNK3Gtk7TreeRow14get_value_implEiRN4Glib9ValueBaseE
+_ZN3Gtk14TreeViewColumnC1ERKN4Glib7ustringE
+_ZTIN3Gtk13MessageDialogE
+_ZN3Gtk7Toolbar6appendERNS_8ToolItemE
+_ZN3Gtk21TreeModelColumnRecord3addERNS_19TreeModelColumnBaseE
+_ZN3Gtk6Widget15on_expose_eventEP15_GdkEventExpose
+_ZN3Gtk13MessageDialogD1Ev
+_ZN3Gtk5LabelD1Ev
+_ZN4Glib10ListHandleIPN3Gtk12CellRendererENS_17Container_Helpers10TypeTraitsIS3_EEED2Ev
+_ZN3Gtk6Widget25on_selection_notify_eventEP18_GdkEventSelection
+_ZN3Gtk6Widget16set_size_requestEii
+_ZN3Gtk5Label14set_use_markupEb
+_ZN3Gtk16RadioButtonGroupC1Ev
+_ZN3Gtk6Widget12on_map_eventEP12_GdkEventAny
+_ZNK3Gtk9TreeModel10get_stringERKNS_8TreeIterE
+_ZN3Gtk17FileChooserDialogC1ERKN4Glib7ustringENS_17FileChooserActionE
+_ZN3Gtk6Widget16on_drag_data_getERKN4Glib6RefPtrIN3Gdk11DragContextEEERNS_13SelectionDataEjj
+_ZN3Gtk6Window22property_default_widthEv
+_ZN3Gtk13TreeSelection12get_selectedEv
+_ZN3Gtk6ButtonD1Ev
+_ZNK3Gtk6Widget10get_heightEv
+_ZN3Gtk12Menu_Helpers7ElementD2Ev
+_ZN3Gtk10SpinButtonD1Ev
+_ZN3Gtk5Stock7EXECUTEE
+_ZN3Gtk9Container20composite_name_vfuncEP10_GtkWidget
+_ZN3Gtk9Statusbar3popEj
+_ZN3Gtk6DialogC2Ev
+_ZN3Gtk16CellRendererText15property_markupEv
+_ZN3Gtk6Widget16on_state_changedENS_9StateTypeE
+_ZN3Gtk8TreeView9set_modelERKN4Glib6RefPtrINS_9TreeModelEEE
+_ZN3Gtk12Menu_Helpers7ElementC1ERNS_8MenuItemE
+_ZNK3Gtk13CheckMenuItem10get_activeEv
+_ZN3Gtk6Widget24on_selection_clear_eventEP18_GdkEventSelection
+_ZN3Gtk5Stock6DELETEE
+_ZN3Gtk23CellRenderer_Generation21generate_cellrendererIbEEPNS_12CellRendererEb
+_ZN3Gtk9Container16set_border_widthEj
+_ZN3Gtk14TreeViewColumn12set_rendererERNS_12CellRendererERKNS_19TreeModelColumnBaseE
+_ZN3Gtk3Bin9get_childEv
+_ZNK3Gtk8ComboBox21get_active_row_numberEv
+_ZN3Gtk6Object15destroy_notify_Ev
+_ZN3Gtk13MessageDialog18set_secondary_textERKN4Glib7ustringEb
+_ZN3Gtk11AboutDialogD1Ev
+_ZN3Gtk6Widget6on_mapEv
+_ZN3Gtk6Widget8show_allEv
+_ZN3Gtk5ImageD1Ev
+_ZN3Gtk6Widget7on_showEv
+_ZN3Gtk6ObjectC2ERKN4Glib15ConstructParamsE
+_ZN3Gtk12ComboBoxText16TextModelColumnsD1Ev
+_ZN3Gtk6Widget17on_parent_changedEPS0_
+_ZN4Glib13PropertyProxyIbE9set_valueERKb
+_ZN3Gtk6Widget24on_property_notify_eventEP17_GdkEventProperty
+_ZN3Gtk7StockIDD1Ev
+_ZNK3Gtk11AboutDialog11set_authorsERKN4Glib11ArrayHandleINS1_7ustringENS1_17Container_Helpers10TypeTraitsIS3_EEEE
+_ZN3Gtk5TableC1Ejjb
+_ZN3Gtk10CellLayout22clear_attributes_vfuncEPNS_12CellRendererE
+_ZN3Gtk6Widget15on_size_requestEP15_GtkRequisition
+_ZN3Gtk6Widget4hideEv
+Tacocat
+_ZTIN3Gtk12ComboBoxText16TextModelColumnsE
+_ZN3Gtk11AboutDialog17set_website_labelERKN4Glib7ustringE
+_ZN3Gtk12Menu_Helpers8MenuList6insertEN4Glib17List_Cpp_IteratorI12_GtkMenuItemNS_8MenuItemEEERKNS0_7ElementE
+_ZN3Gtk9Container24set_child_property_vfuncEP10_GtkWidgetjPK7_GValueP11_GParamSpec
+_ZN3Gtk6Widget8on_eventEP9_GdkEvent
+_ZTIN3Gtk6ObjectE
+_ZN3Gtk5Frame16set_label_widgetERNS_6WidgetE
+_ZN3Gtk4MainC1ERiRPPcb
+_ZN3Gtk5Stock9GOTO_LASTE
+_ZN3Gtk12Menu_Helpers13SeparatorElemC1Ev
+_ZN3Gtk5Stock5CLOSEE
+_ZN3Gtk4Main3runEv
+_ZN3Gtk6Widget14on_grab_notifyEb
+_ZN3Gtk9MenuShell10accelerateERNS_6WindowE
+_ZNK3Gtk6Widget9sensitiveEv
+_ZN3Gtk6Widget15on_delete_eventEP12_GdkEventAny
+_ZN3Gtk8Expander14set_use_markupEb
+_ZN3Gtk5Table16set_row_spacingsEj
+_ZN3Gtk6Widget14hide_all_vfuncEv
+_ZN3Gtk6Widget10add_eventsEN3Gdk9EventMaskE
+_ZN3Gtk12Menu_Helpers13StockMenuElemC1ERKNS_7StockIDERKN4sigc4slotIvNS5_3nilES7_S7_S7_S7_S7_S7_EE
+_ZN3Gtk4MenuD1Ev
+_ZNK3Gtk10SpinButton16get_value_as_intEv
+_ZN3Gtk10CellLayout13reorder_vfuncEPNS_12CellRendererEi
+_ZN3Gtk9TreeStore6appendEv
+_ZN4Glib5ValueIN3Gtk11MessageTypeEE10value_typeEv
+_ZN3Gtk8TreeView24get_column_cell_rendererEi
+_ZN3Gtk12Menu_Helpers13CheckMenuElemC1ERKN4Glib7ustringERKN4sigc4slotIvNS6_3nilES8_S8_S8_S8_S8_S8_EE
+_ZN3Gtk11DrawingAreaD1Ev
+_ZTIN3Gtk16CellRendererTextE
+_ZN3Gtk8TreeView16on_row_activatedERKNS_8TreePathEPNS_14TreeViewColumnE
+_ZN3Gtk6WindowC2ENS_10WindowTypeE
+_ZN3Gtk6Widget14on_unmap_eventEP12_GdkEventAny
+_ZN3Gtk8ToolItem11set_tooltipERNS_8TooltipsERKN4Glib7ustringES6_
+_ZN3Gtk10SpinButton9set_rangeEdd
+_ZN3Gtk8TreeViewD1Ev
+_ZN3Gtk6ButtonC1ERKN4Glib7ustringEb
+_ZN3Gtk13MessageDialog16get_message_areaEv
+_ZN3Gtk6Window12on_set_focusEPNS_6WidgetE
+_ZN3Gtk18CellRendererToggle14signal_toggledEv
+_ZN3Gtk5Stock6CANCELE
+_ZN3Gtk10CellLayout13add_attributeERKN4Glib18PropertyProxy_BaseERKNS_19TreeModelColumnBaseE
+_ZN3Gtk7MenuBarC1Ev
+_ZN3Gtk5Stock5ABOUTE
+_ZN3Gtk8AccelKeyC1ERKN4Glib7ustringES4_
+_ZN3Gtk12Menu_Helpers13ImageMenuElemC1ERKN4Glib7ustringERKNS_8AccelKeyERNS_6WidgetERKN4sigc4slotIvNSB_3nilESD_SD_SD_SD_SD_SD_EE
+_ZN3Gtk6Widget17on_screen_changedERKN4Glib6RefPtrIN3Gdk6ScreenEEE
+_ZNK3Gtk12Menu_Helpers8MenuListixEm
+_ZN3Gtk5Stock7CONVERTE
+_ZN3Gtk5ImageC1ERKN4Glib6RefPtrIN3Gdk6PixbufEEE
+_ZN3Gtk11AboutDialog11set_artistsERKN4Glib11ArrayHandleINS1_7ustringENS1_17Container_Helpers10TypeTraitsIS3_EEEE
+_ZN3Gtk6Widget16on_selection_getERNS_13SelectionDataEjj
+_ZN3Gtk4HBoxD2Ev
+_ZN3Gtk5FrameD1Ev
+_ZN3Gtk14TreeViewColumn10pack_startERNS_12CellRendererEb
+_ZN3Gtk14ScrolledWindowC1Ev
+_ZN3Gtk8TreeIterC2Ev
+_ZN3Gtk6Widget8on_focusENS_13DirectionTypeE
+_ZTIN3Gtk5LabelE
+_ZTIN3Gtk5FrameE
+_ZN3Gtk8MenuItem15signal_activateEv
+_ZNK3Gtk16TreeNodeChildren4sizeEv
+_ZN3Gtk10HSeparatorC1Ev
+_ZN3Gtk5EntryC1Ev
+_ZN3Gtk5Frame30compute_child_allocation_vfuncERN3Gdk9RectangleE
+_ZN3Gtk8TreePathD1Ev
+_ZN3Gtk6HPanedD1Ev
+_ZTIN3Gtk6WindowE
+_ZN3Gtk5LabelC1Ev
+_ZN3Gtk14ScrolledWindow3addERNS_6WidgetE
+_ZN3Gtk5Stock5PASTEE
+_ZN3Gtk5LabelC1ERKN4Glib7ustringEb
+_ZN3Gtk5Stock4HELPE
+_ZN3Gtk12ComboBoxTextD0Ev
+_ZN3Gtk6Widget21on_selection_receivedERKNS_13SelectionDataEj
+_ZN3Gtk6Widget13on_drag_beginERKN4Glib6RefPtrIN3Gdk11DragContextEEE
+_ZN3Gtk12Menu_Helpers8MenuElemC1ERKN4Glib7ustringERNS_4MenuE
+_ZN3Gtk6Widget27signal_button_release_eventEv
+_ZN3Gtk8TreeView25on_set_scroll_adjustmentsEPNS_10AdjustmentES2_
+_ZN3Gtk5Paned5pack2ERNS_6WidgetEbb
+_ZN3Gtk10ToolButtonC1ERNS_6WidgetERKN4Glib7ustringE
+_ZN3Gtk6Dialog10add_buttonERKN4Glib7ustringEi
+_ZN4Glib11ArrayHandleINS_7ustringENS_17Container_Helpers10TypeTraitsIS1_EEED1Ev
+_ZN3Gtk5FrameC1ERKN4Glib7ustringE
+_ZN3Gtk6ButtonC1Ev
+_ZN3Gtk12Menu_Helpers13StockMenuElemC1ERKNS_7StockIDERKNS_8AccelKeyERKN4sigc4slotIvNS8_3nilESA_SA_SA_SA_SA_SA_EE
+_ZN3Gtk6Widget15on_scroll_eventEP15_GdkEventScroll
+_ZN3Gtk8TooltipsD1Ev
+_ZN3Gtk6Widget19on_drag_data_deleteERKN4Glib6RefPtrIN3Gdk11DragContextEEE
+_ZN3Gtk14TreeViewColumn13add_attributeERKN4Glib18PropertyProxy_BaseERKNS_19TreeModelColumnBaseE
+_ZN3Gtk5Stock12DIALOG_ERRORE
+_ZTIN3Gtk12CellRendererE
+_ZN3Gtk14TreeViewColumn18set_cell_data_funcERNS_12CellRendererERKN4sigc4slotIvPS1_RKNS_8TreeIterENS3_3nilES9_S9_S9_S9_EE
+_ZN3Gtk6Widget25signal_button_press_eventEv
+_ZN3Gtk10OptionMenuD1Ev
+_ZN3Gtk8Editable13select_regionEii
+_ZN3Gtk6Window21set_default_icon_nameERKN4Glib7ustringE
+_ZN3Gtk6Widget12get_colormapEv
+_ZN3Gtk10SpinButton11set_numericEb
+_ZN3Gtk11ProgressBarD1Ev
+_ZN3Gtk5Label8set_textERKN4Glib7ustringE
+_ZN3Gtk8TreeView10set_cursorERKNS_8TreePathE
+_ZN3Gtk5Stock4SAVEE
+_ZN3Gtk11AboutDialogC1Ev
+_ZN3Gtk13MessageDialogD2Ev
+_ZN3Gtk8MenuItem11get_submenuEv
+_ZN3Gtk5Stock14DIALOG_WARNINGE
+_ZNK3Gtk10SpinButton9get_valueEv
+_ZN3Gtk11FileChooser16set_current_nameERKN4Glib7ustringE
+_ZN3Gtk3Box10pack_startERNS_6WidgetENS_11PackOptionsEj
+_ZN3Gtk5Stock4QUITE
+_ZN3Gtk9AlignmentC1Effff
+_ZN3Gtk14TreeViewColumn13set_alignmentEf
+_ZTIN3Gtk6WidgetE
+_ZNK3Gtk7TreeRow14set_value_implEiRKN4Glib9ValueBaseE
+_ZN3Gtk6Widget17on_focus_in_eventEP14_GdkEventFocus
+_ZNK3Gtk7TreeRow9set_valueIN4Glib7ustringEEEvRKNS_15TreeModelColumnIT_EERKS5_
+_ZN3Gtk11AboutDialog18set_logo_icon_nameERKN4Glib7ustringE
+_ZN3Gtk6Dialog17set_has_separatorEb
+_ZN3Gtk4Main9iterationEb
+_ZN3Gtk6Dialog3runEv
+_ZN3Gtk10ToolButton14signal_clickedEv
+_ZN3Gtk6Widget17get_parent_windowEv
+_ZN3Gtk5Paned5pack1ERNS_6WidgetEbb
+_ZN3Gtk4Menu10set_activeEj
+_ZN3Gtk6Widget19create_pango_layoutERKN4Glib7ustringE
+_ZTIN3Gtk3BinE
+_ZN3Gtk6Widget23on_button_release_eventEP15_GdkEventButton
+_ZN3Gtk9TreeStore5clearEv
+_ZTTN3Gtk12ComboBoxTextE
+_ZN3Gtk8TreeView19set_headers_visibleEb
+_ZN3Gtk8ComboBoxD1Ev
+_ZN3Gtk5Label14set_selectableEb
+_ZN3Gtk4Main4quitEv
+_ZTv0_n32_N3Gtk12ComboBoxTextD0Ev
+_ZN3Gtk6Widget13on_drag_leaveERKN4Glib6RefPtrIN3Gdk11DragContextEEEj
+_ZN3Gtk13RadioMenuItemC1ERNS_16RadioButtonGroupE
+_ZN3Gtk6Widget13on_grab_focusEv
+_ZN3Gtk4MenuC1Ev
+_ZNK3Gtk5Paned12get_positionEv
+_ZN3Gtk6Widget39dispatch_child_properties_changed_vfuncEjPP11_GParamSpec
+_ZTIN3Gtk9ContainerE
+_ZN3Gtk9MenuShell5itemsEv
+_ZN3Gtk5Label9set_labelERKN4Glib7ustringE
+_ZN3Gtk11DrawingAreaC1Ev
+_ZN3Gtk11AboutDialog13set_copyrightERKN4Glib7ustringE
+_ZN3Gtk5ImageC1ERKNS_7StockIDENS_8IconSizeE
+_ZN3Gtk8ComboBox10set_activeEi
+_ZN3Gtk12ComboBoxText16TextModelColumnsD2Ev
+_ZTIN3Gtk6DialogE
+_ZN3Gtk8TreeViewC1Ev
+_ZN3Gtk6Widget21on_button_press_eventEP15_GdkEventButton
+_ZN3Gtk21TreeModelColumnRecordD2Ev
+_ZN3Gtk6Window16set_default_sizeEii
+_ZN3Gtk5LabelC1ERKN4Glib7ustringEffb
+_ZN3Gtk5TableD1Ev
+_ZN3Gtk14TreeViewColumn11set_visibleEb
+_ZN3Gtk6Window5raiseEv
+_ZN3Gtk6Widget21on_window_state_eventEP20_GdkEventWindowState
+_ZN3Gtk13TreeSelection8set_modeENS_13SelectionModeE
+_ZN3Gtk5Label10set_markupERKN4Glib7ustringE
+_ZN3Gtk6Widget10queue_drawEv
+_ZN3Gtk12Menu_Helpers13ImageMenuElemC1ERKN4Glib7ustringERNS_6WidgetERKN4sigc4slotIvNS8_3nilESA_SA_SA_SA_SA_SA_EE
+_ZN3Gtk9StatusbarD1Ev
+_ZN3Gtk5Stock7REFRESHE
+_ZThn16_N3Gtk12ComboBoxTextD0Ev
+_ZN3Gtk6Widget14signal_realizeEv
+_ZN3Gtk5Stock5APPLYE
+_ZTIN3Gtk10CellLayoutE
+_ZN3Gtk5FrameC1Ev
+_ZN3Gtk8TreeView15on_row_expandedERKNS_8TreeIterERKNS_8TreePathE
+_ZN3Gtk10SpinButton20signal_value_changedEv
+_ZN3Gtk6Widget10get_windowEv
+_ZN3Gtk6Widget20on_mnemonic_activateEb
+_ZN3Gtk4Main3runERNS_6WindowE
+_ZN3Gtk6Widget22on_proximity_out_eventEP18_GdkEventProximity
+_ZN3Gtk3Box11set_spacingEi
+_ZN3Gtk11AboutDialog22set_translator_creditsERKN4Glib7ustringE
+_ZN3Gtk9Container18on_set_focus_childEPNS_6WidgetE
+_ZN3Gtk6Widget18on_configure_eventEP18_GdkEventConfigure
+_ZN3Gtk5Stock3ADDE
+_ZN3Gtk11DrawingAreaD2Ev
+_ZN3Gtk8Expander9set_labelERKN4Glib7ustringE
+_ZN3Gtk6Widget12on_drag_dropERKN4Glib6RefPtrIN3Gdk11DragContextEEEiij
+_ZN3Gtk8TreeView13get_selectionEv
+_ZN3Gtk7ToolbarD1Ev
+_ZN3Gtk8ExpanderD1Ev
+_ZN3Gtk10OptionMenu8set_menuERNS_4MenuE
+_ZN3Gtk5Entry8set_textERKN4Glib7ustringE
+_ZN3Gtk8TreeViewD2Ev
+_ZN3Gtk6HPanedC1Ev
+_ZN3Gtk6Widget18on_no_expose_eventEP12_GdkEventAny
+_ZNK3Gtk5Entry8get_textEv
+_ZN3Gtk12ComboBoxText11append_textERKN4Glib7ustringE
+_ZN3Gtk16TreeNodeChildren3endEv
+_ZN3Gtk6Dialog10add_buttonERKNS_7StockIDEi
+_ZN3Gtk6Widget26on_visibility_notify_eventEP19_GdkEventVisibility
+_ZTTN3Gtk14TreeViewColumnE
+_ZN3Gtk5Table6attachERNS_6WidgetEjjjjNS_13AttachOptionsES3_jj
+_ZTIN3Gtk8TreeViewE
+_ZTIN3Gtk21TreeModelColumnRecordE
+_ZN3Gtk5Stock3NEWE
+_ZN3Gtk5Entry15set_width_charsEi
+_ZN3Gtk4Menu5popupEjj
+_ZThn24_N3Gtk12ComboBoxTextD0Ev
+_ZN3Gtk9Container9on_removeEPNS_6WidgetE
+_ZN3Gtk19TreeModelColumnBaseC2Em
+_ZN3Gtk7StockIDC1ERKNS_14BuiltinStockIDE
+_ZN3Gtk6ObjectD2Ev
+_ZN3Gtk14ScrolledWindow15set_shadow_typeENS_10ShadowTypeE
+_ZN3Gtk14TreeViewColumn10set_expandEb
+_init
+_ZN3Gtk10SpinButtonC1Edj
+_ZN3Gtk6Widget26on_selection_request_eventEP18_GdkEventSelection
+_ZN3Gtk6Widget11render_iconERKNS_7StockIDENS_8IconSizeERKN4Glib7ustringE
+_ZN3Gtk6Widget18on_key_press_eventEP12_GdkEventKey
+_ZN3Gtk9Container6on_addEPNS_6WidgetE
+_ZN3Gtk16CellRendererText17property_editableEv
+_ZN3Gtk5FrameD2Ev
+_ZN3Gtk5Stock5CLEARE
+_ZN3Gtk8TooltipsC1Ev
+_ZN3Gtk17SeparatorToolItemC1Ev
+_ZN3Gtk6Widget20on_hierarchy_changedEPS0_
+_ZN3Gtk10CellLayout10pack_startERNS_12CellRendererEb
+_ZTv0_n64_N3Gtk6Window10set_manageEv
+_ZNK3Gtk7TreeRowcvbEv
+_ZN3Gtk6Widget20on_direction_changedENS_13TextDirectionE
+_ZN3Gtk6Widget19signal_expose_eventEv
+_ZN3Gtk6Widget7on_hideEv
+_ZN3Gtk8TreeView17on_cursor_changedEv
+_ZN3Gtk6Dialog11on_responseEi
+_ZN3Gtk10OptionMenuC1Ev
+_ZN3Gtk11ProgressBarC1Ev
+_ZN3Gtk5Stock8HARDDISKE
+_ZN3Gtk11AboutDialog11set_versionERKN4Glib7ustringE
+_ZN3Gtk5Frame15set_shadow_typeENS_10ShadowTypeE
+_ZNK3Gtk9Container24get_child_property_vfuncEP10_GtkWidgetjP7_GValueP11_GParamSpec
+_ZN3Gtk8TreeView16on_row_collapsedERKNS_8TreeIterERKNS_8TreePathE
+_ZN3Gtk8AccelKeyC1EjN3Gdk12ModifierTypeERKN4Glib7ustringE
+_ZTIN3Gtk11DrawingAreaE
+_ZN3Gtk9Container12forall_vfuncEiPFvP10_GtkWidgetPvES3_
+_ZN3Gtk8Expander12set_expandedEb
+_ZN3Gtk10OptionMenu11set_historyEj
+_ZN3Gtk8TreeView18on_columns_changedEv
+_ZN3Gtk13CheckMenuItem10set_activeEb
+_ZTIN3Gtk4HBoxE
+_ZN3Gtk5Stock4UNDOE
+_ZN3Gtk12ComboBoxTextD1Ev
+_ZN3Gtk6Widget20on_key_release_eventEP12_GdkEventKey
+_ZN3Gtk9Statusbar4pushERKN4Glib7ustringEj
+_ZTIN3Gtk8ComboBoxE
+_ZTIN3Gtk3BoxE
+_ZN3Gtk4HBoxC2Ebi
+_ZN4Glib10ListHandleIPN3Gtk12CellRendererENS_17Container_Helpers10TypeTraitsIS3_EEED1Ev
+_ZN3Gtk9ListStore5clearEv
+_ZN3Gtk13MessageDialogC1ERKN4Glib7ustringEbNS_11MessageTypeENS_11ButtonsTypeEb
+_ZN3Gtk6Widget11on_drag_endERKN4Glib6RefPtrIN3Gdk11DragContextEEE
+_ZN3Gtk9TreeModel8get_iterERKN4Glib7ustringE
+_fini
+_ZN3Gtk5Paned10get_child1Ev
+_ZN4Glib11ArrayHandleINS_7ustringENS_17Container_Helpers10TypeTraitsIS1_EEED2Ev
+_ZN3Gtk6Widget15on_child_notifyEP11_GParamSpec
+_ZN3Gtk11AboutDialog8set_nameERKN4Glib7ustringE
+_ZTSN3Gtk12ComboBoxText16TextModelColumnsE
+_ZN3Gtk6Widget26signal_motion_notify_eventEv
+_ZTv0_n64_N3Gtk6Object10set_manageEv
+_ZN3Gtk9Container3addERNS_6WidgetE
+_ZN3Gtk8TreeView13append_columnERNS_14TreeViewColumnE
+libatkmm-1.6.so.1
+_ZN4Glib7ustringaSEPKc
+libgdkmm-2.4.so.1
+gdk_screen_get_default
+_ZN3Gdk8Drawable13draw_drawableERKN4Glib6RefPtrIKNS_2GCEEERKNS2_IKS0_EEiiiiii
+_ZN3Gdk8Drawable12draw_polygonERKN4Glib6RefPtrIKNS_2GCEEEbRKNS1_11ArrayHandleINS_5PointENS1_17Container_Helpers10TypeTraitsIS9_EEEE
+_ZNK3Gdk6Pixbuf9get_widthEv
+_ZN3Gdk5PointC1Ev
+_ZN3Gdk5ColorC1ERKN4Glib7ustringE
+_ZN3Gdk6Pixbuf6createENS_10ColorspaceEbiii
+_ZTIN3Gdk6PixbufE
+_ZN3Gdk6Window10set_cursorEv
+_ZN3Gdk8Drawable14draw_rectangleERKN4Glib6RefPtrIKNS_2GCEEEbiiii
+_ZN3Gdk6Window14set_backgroundERKNS_5ColorE
+_ZN3Gdk2GC14set_foregroundERKNS_5ColorE
+_ZN3Gdk6CursorC1ENS_10CursorTypeE
+_ZN3Gdk2GC6createERKN4Glib6RefPtrINS_8DrawableEEE
+_ZN3Gdk6CursorD1Ev
+_ZN3Gdk8Colormap10free_colorERNS_5ColorE
+_ZN3Gdk2GC19set_line_attributesEiNS_9LineStyleENS_8CapStyleENS_9JoinStyleE
+_ZN3Gdk6Window10set_cursorERKNS_6CursorE
+_ZN3Gdk8Colormap11alloc_colorERNS_5ColorEbb
+_ZN3Gdk5ColoraSERKS0_
+_ZN3Gdk8Drawable11draw_layoutERKN4Glib6RefPtrIKNS_2GCEEEiiRKNS2_IKN5Pango6LayoutEEE
+_ZN3Gdk5ColorC1ERKS0_
+_ZN3Gdk6Pixbuf4fillEj
+_ZN3Gdk5Color3setERKN4Glib7ustringE
+_ZNK3Gdk6Pixbuf10get_heightEv
+_ZN3Gdk6Pixmap6createERKN4Glib6RefPtrINS_8DrawableEEEiii
+libpangomm-1.4.so.1
+_ZNK4Glib7ustring6lengthEv
+_ZNK5Pango6Layout14get_pixel_sizeERiS1_
+libglibmm-2.4.so.1
+_ZN4sigc11signal_baseC2Ev
+_ZN4sigc9slot_baseC1EOS0_
+_ZN4sigc10connection6notifyEPv
+g_utf8_skip
+_ZNK4sigc9slot_base27add_destroy_notify_callbackEPvPFS1_S1_E
+_ZN4sigc11signal_baseD2Ev
+g_ascii_strtod
+_ZN4sigc11signal_base7connectERKNS_9slot_baseE
+_ZN4sigc9slot_baseC1Ev
+_ZN4sigc8internal11signal_impl5sweepEv
+_ZN4Glib5Mutex4lockEv
+_ZN4Glib16shell_parse_argvERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE
+_ZN4Glib7ustringpLEj
+_ZNK4Glib7ustring12find_last_ofEcm
+_ZN4Glib7ustring5beginB5cxx11Ev
+_ZNK4Glib7ustring16find_last_not_ofERKS0_m
+_ZN4Glib7ustring16SequenceToStringINS_16ustring_IteratorIN9__gnu_cxx17__normal_iteratorIPcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEEEjEC1ESD_SD_
+_ZN4Glib6getenvERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE
+_ZN4Glib14ValueBase_Enum8set_enumEi
+_ZN4Glib8strerrorEi
+_ZNSt7__cxx1112basic_stringIwSt11char_traitsIwESaIwEE12_M_constructIPwEEvT_S7_St20forward_iterator_tag
+_ZNSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE19_M_emplace_back_auxIIS5_EEEvDpOT_
+_ZN4Glib3DirD1Ev
+_ZN4Glib28custom_pointer_type_registerEPKc
+_ZN4Glib13SignalTimeout7connectERKN4sigc4slotIbNS1_3nilES3_S3_S3_S3_S3_S3_EEji
+_ZNK4Glib16ValueBase_Object15get_object_copyEv
+_ZNSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE12emplace_backIJS5_EEEvDpOT_
+_ZN4Glib15get_current_dirB5cxx11Ev
+_ZTSN4Glib9ExceptionE
+_ZNK4Glib7ustring7compareEPKc
+_ZN4Glib14signal_timeoutEv
+_ZN4Glib7ustring6appendEPKc
+_ZN4Glib3DirC1ERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE
+_ZNK4Glib5Timer7elapsedEv
+_ZN4Glib7ustring7replaceEmmPKc
+_ZTIN4Glib10SpawnErrorE
+_ZN4Glib5TimerC1Ev
+_ZNSt6vectorIN4Glib7ustringESaIS1_EE19_M_emplace_back_auxIIS1_EEEvDpOT_
+_ZN4Glib4Cond6signalEv
+_ZN4Glib7ustring5clearEv
+_ZN4Glib22spawn_async_with_pipesERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEERKNS_11ArrayHandleIS5_NS_17Container_Helpers10TypeTraitsIS5_EEEENS_10SpawnFlagsERKN4sigc4slotIvNSG_3nilESI_SI_SI_SI_SI_SI_EEPiSM_SM_SM_
+_ZN4Glib7ustring6resizeEmc
+_ZN4Glib15spawn_close_pidEi
+_ZN4Glib7convertERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES7_S7_
+_ZN4Glib6Thread4selfEv
+_ZN4Glib6Markup11escape_textERKNS_7ustringE
+_ZN4Glib18signal_child_watchEv
+_ZN4Glib4CondC1Ev
+_ZN4Glib7ustring7replaceEmmmj
+_ZN4Glib7ustring7replaceEmmRKS0_
+_ZN4Glib5TimerD1Ev
+_ZN4Glib5MutexC1Ev
+_ZNK4Glib7ustring9uppercaseEv
+_ZN4Glib5Mutex6unlockEv
+_ZN4Glib7ustring4swapERS0_
+_ZN4Glib4CondD1Ev
+_ZN4Glib16SignalChildWatch7connectERKN4sigc4slotIviiNS1_3nilES3_S3_S3_S3_EEii
+_ZN4Glib5Regex5splitERKNS_7ustringENS_15RegexMatchFlagsE
+_ZN4Glib5MutexD1Ev
+_ZN4Glib9IOChannel4readERNS_7ustringEm
+_ZN4Glib7ustringaSERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE
+_ZNK4Glib10SpawnError4codeEv
+_ZTSN4Glib10SpawnErrorE
+_ZN4Glib5Timer4stopEv
+_ZNK4Glib7ustring16find_last_not_ofEPKcm
+_ZNSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE12emplace_backIIS5_EEEvDpOT_
+_ZNK4Glib7ustring4findERKS0_m
+_ZN4Glib9IOChannel4readERj
+_ZN4Glib9IOChannel14create_from_fdEi
+_ZNK4Glib7ustring4findEPKcm
+_ZN4Glib11thread_initEP17_GThreadFunctions
+_ZNK4Glib7ustring4findEcm
+_ZN4Glib4Cond4waitERNS_5MutexE
+_ZN4Glib10build_pathERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEERKNS_11ArrayHandleIS5_NS_17Container_Helpers10TypeTraitsIS5_EEEE
+_ZN4Glib5ValueIiE10value_typeEv
+_ZN4Glib5Regex6createERKNS_7ustringENS_17RegexCompileFlagsENS_15RegexMatchFlagsE
+_ZNSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE19_M_emplace_back_auxIJS5_EEEvDpOT_
+_ZN4Glib11get_tmp_dirB5cxx11Ev
+_ZN4Glib7ustringC1ERKS0_mm
+_ZN4Glib7ustring6appendERKS0_
+_ZNK4Glib7ustring13find_first_ofERKS0_m
+_ZN4Glib12get_home_dirB5cxx11Ev
+_ZN4Glib20find_program_in_pathERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE
+_ZNK4Glib7ustring5rfindEPKcm
+_ZN4Glib3Dir9read_nameB5cxx11Ev
+_ZNSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EED1Ev
+_ZN4Glib7ustring6insertEmmc
+_ZN4Glib7ustring6appendEmc
+_ZN4Glib7ustring6appendEmj
+_ZTIN4Glib9ExceptionE
+_ZN4Glib6Thread6createERKN4sigc4slotIvNS1_3nilES3_S3_S3_S3_S3_S3_EEb
+_ZNSt6vectorIN4Glib7ustringESaIS1_EE19_M_emplace_back_auxIJS1_EEEvDpOT_
+_ZN4Glib5ValueIiE3setEi
+_ZNSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EED2Ev
+_ZNK4Glib7ustring4findEjm
+_ZN4Glib22spawn_async_with_pipesERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEERKNS_11ArrayHandleIS5_NS_17Container_Helpers10TypeTraitsIS5_EEEESE_NS_10SpawnFlagsERKN4sigc4slotIvNSG_3nilESI_SI_SI_SI_SI_SI_EEPiSM_SM_SM_
+_ZN4Glib5Timer5resetEv
+_ZNK4Glib7ustring5rfindERKS0_m
+_ZN4Glib9file_testERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEENS_8FileTestE
+_ZN4GliblsERSoRKNS_7ustringE
+_ZN4Glib7ustring3endB5cxx11Ev
+_ZNK4Glib7ustring17find_first_not_ofERKS0_m
+_ZN4Glib9IOChannel5closeEb
+_ZNK4Glib5Regex11unreferenceEv
+_ZN4Glib9IOChannel12set_encodingERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE
+_ZN4Glib7ustring9push_backEj
+_ZNK4Glib7ustring7compareEmmPKc
+_ZN4Glib29get_unichar_from_std_iteratorEN9__gnu_cxx17__normal_iteratorIPKcNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEE
+_ZNK4Glib7ustringixEm
+libsigc-2.0.so.0
+_ZN4sigc10connection7unblockEv
+_ZNSt7__cxx1110_List_baseIN4sigc9slot_baseESaIS2_EE8_M_clearEv
+_ZNK4sigc10connection9connectedEv
+_ZN4sigc10connection10disconnectEv
+_ZN4sigc10connectionaSERKS0_
+_ZN4sigc10connectionC1ERKS0_
+_ZN4sigc10connection5blockEb
+_ZN4sigc10connectionC1Ev
+_ZN4sigc11signal_baseC2ERKS0_
+_ZN4sigc8internal11signal_impl16unreference_execEv
+_ZN4sigc10connection8set_slotEPNS_9slot_baseE
+libgtk-x11-2.0.so.0
+g_ascii_strtoll
+g_clear_error
+g_idle_add
+gtk_get_current_event_time
+gtk_show_uri
+libgdk-x11-2.0.so.0
+gdk_set_program_class
+gdk_spawn_command_line_on_screen
+libgobject-2.0.so.0
+libglib-2.0.so.0
+g_io_add_watch
+g_child_watch_add
+libparted-fs-resize.so.0
+ped_geometry_new
+ped_device_open
+uuid_generate
+ped_device_close
+ped_file_system_get_resize_constraint
+ped_file_system_open
+ped_file_system_close
+ped_file_system_resize
+libparted.so.2
+ped_constraint_any
+ped_device_destroy
+ped_partition_set_system
+ped_get_version
+ped_device_get_next
+ped_device_read
+ped_disk_extended_partition
+ped_disk_type_check_feature
+ped_disk_next_partition
+ped_device_sync
+ped_device_probe_all
+ped_partition_is_flag_available
+ped_disk_new_fresh
+ped_partition_get_flag
+ped_partition_set_flag
+ped_disk_commit_to_dev
+ped_partition_flag_get_by_name
+ped_constraint_destroy
+ped_partition_get_name
+ped_partition_set_name
+ped_exception_set_handler
+ped_disk_get_max_primary_partition_count
+ped_disk_destroy
+ped_constraint_exact
+ped_partition_get_path
+ped_disk_type_get
+ped_disk_add_partition
+ped_partition_new
+ped_partition_flag_get_name
+ped_partition_flag_next
+ped_disk_set_partition_geom
+ped_disk_get_partition_by_sector
+ped_file_system_type_get
+ped_device_get
+ped_disk_type_get_next
+ped_disk_new
+ped_disk_commit_to_os
+ped_device_write
+ped_disk_delete_partition
+libuuid.so.1
+uuid_unparse
+libstdc++.so.6
+_ZNSo9_M_insertIdEERSoT_
+_ZTVN10__cxxabiv117__class_type_infoE
+_ZNSt14basic_ofstreamIcSt11char_traitsIcEEC1Ev
+_ZNSt7__cxx1119basic_istringstreamIcSt11char_traitsIcESaIcEED1Ev
+_ZNSt7__cxx1115basic_stringbufIwSt11char_traitsIwESaIwEED2Ev
+_ZSt29_Rb_tree_insert_and_rebalancebPSt18_Rb_tree_node_baseS0_RS_
+_ZNSt8ios_base4InitD1Ev
+_ZTVNSt7__cxx1119basic_ostringstreamIwSt11char_traitsIwESaIwEEE
+_ZNSt13basic_filebufIcSt11char_traitsIcEE5closeEv
+_ZTVSt14basic_ifstreamIcSt11char_traitsIcEE
+_ZTVSt15basic_streambufIcSt11char_traitsIcEE
+__gxx_personality_v0
+_ZNSt13basic_filebufIcSt11char_traitsIcEE4openEPKcSt13_Ios_Openmode
+_ZNSi10_M_extractImEERSiRT_
+_ZNSt13basic_ostreamIwSt11char_traitsIwEE9_M_insertIxEERS2_T_
+_ZNSo3putEc
+_ZTVSt13basic_filebufIcSt11char_traitsIcEE
+_ZTVN10__cxxabiv120__si_class_type_infoE
+_ZNKSt5ctypeIcE13_M_widen_initEv
+_ZNSt7__cxx1119basic_ostringstreamIcSt11char_traitsIcESaIcEED1Ev
+_ZNSt9basic_iosIcSt11char_traitsIcEE5clearESt12_Ios_Iostate
+_ZNSo5writeEPKcl
+__cxa_guard_abort
+_ZNSt7__cxx1115basic_stringbufIwSt11char_traitsIwESaIwEE7_M_syncEPwmm
+_ZSt18_Rb_tree_decrementPSt18_Rb_tree_node_base
+__cxa_pure_virtual
+_ZdlPv
+__cxa_begin_catch
+_ZSt20__throw_length_errorPKc
+_ZTVSt15basic_streambufIwSt11char_traitsIwEE
+_ZNSt7__cxx1112basic_stringIwSt11char_traitsIwESaIwEE4swapERS4_
+_ZTVNSt7__cxx1119basic_ostringstreamIcSt11char_traitsIcESaIcEEE
+_ZTVSt9basic_iosIcSt11char_traitsIcEE
+_ZNSirsERi
+_ZNSt7__cxx1119basic_ostringstreamIwSt11char_traitsIwESaIwEED1Ev
+_ZSt16__ostream_insertIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_PKS3_l
+_ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_
+_ZNSt6localeD1Ev
+_ZNSt13basic_ostreamIwSt11char_traitsIwEE9_M_insertImEERS2_T_
+_ZNSt7__cxx1118basic_stringstreamIcSt11char_traitsIcESaIcEED1Ev
+__cxa_end_catch
+_ZSt24__throw_out_of_range_fmtPKcz
+_ZTTNSt7__cxx1119basic_ostringstreamIwSt11char_traitsIwESaIwEEE
+_ZNSt8ios_baseD2Ev
+_ZNSt7__cxx1115basic_stringbufIcSt11char_traitsIcESaIcEED1Ev
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7reserveEm
+_ZNSt7__cxx1112basic_stringIwSt11char_traitsIwESaIwEE10_M_replaceEmmPKwm
+_ZSt16__throw_bad_castv
+_ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7compareEPKc
+_ZTVSt9basic_iosIwSt11char_traitsIwEE
+_ZSt17__throw_bad_allocv
+_ZNSt8ios_base4InitC1Ev
+_ZNSt13basic_filebufIcSt11char_traitsIcEED1Ev
+_ZNSt13basic_ostreamIwSt11char_traitsIwEE9_M_insertIdEERS2_T_
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE4swapERS4_
+_ZTTSt14basic_ofstreamIcSt11char_traitsIcEE
+_ZNSt7__cxx1115basic_stringbufIwSt11char_traitsIwESaIwEED1Ev
+_ZNSt7__cxx1115basic_stringbufIcSt11char_traitsIcESaIcEE7_M_syncEPcmm
+_ZTVNSt7__cxx1119basic_istringstreamIcSt11char_traitsIcESaIcEEE
+_ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE4findEPKcmm
+__cxa_guard_release
+_ZSt4cerr
+_ZNKSt7__cxx1115basic_stringbufIcSt11char_traitsIcESaIcEE3strEv
+_ZSt18_Rb_tree_incrementPSt18_Rb_tree_node_base
+_ZNSt7__cxx1112basic_stringIwSt11char_traitsIwESaIwEE9_M_assignERKS4_
+_ZTTNSt7__cxx1119basic_ostringstreamIcSt11char_traitsIcESaIcEEE
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE10_M_replaceEmmPKcm
+_ZNSt14basic_ofstreamIcSt11char_traitsIcEED1Ev
+_ZNSt9basic_iosIcSt11char_traitsIcEE4initEPSt15basic_streambufIcS1_E
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE9_M_appendEPKcm
+_Znwm
+_ZTVNSt7__cxx1115basic_stringbufIwSt11char_traitsIwESaIwEEE
+__cxa_rethrow
+_ZNSt12__basic_fileIcED1Ev
+_ZNSt8__detail15_List_node_base9_M_unhookEv
+_ZNSt6localeC1Ev
+_ZTVSt14basic_ofstreamIcSt11char_traitsIcEE
+_ZSt18_Rb_tree_incrementPKSt18_Rb_tree_node_base
+_ZNKSt12__basic_fileIcE7is_openEv
+_ZNSt8ios_baseC2Ev
+_ZNSt9basic_iosIwSt11char_traitsIwEE4initEPSt15basic_streambufIwS1_E
+_ZSt19__throw_logic_errorPKc
+_ZNKSt5ctypeIcE8do_widenEc
+_ZStrsIcSt11char_traitsIcESaIcEERSt13basic_istreamIT_T0_ES7_RNSt7__cxx1112basic_stringIS4_S5_T1_EE
+__cxa_guard_acquire
+_ZTTNSt7__cxx1119basic_istringstreamIcSt11char_traitsIcESaIcEEE
+_ZNSt13basic_ostreamIwSt11char_traitsIwEElsEi
+__dynamic_cast
+_ZTVNSt7__cxx1115basic_stringbufIcSt11char_traitsIcESaIcEEE
+_ZTTSt14basic_ifstreamIcSt11char_traitsIcEE
+_ZNSt13basic_filebufIcSt11char_traitsIcEEC1Ev
+_ZNSt7__cxx1115basic_stringbufIcSt11char_traitsIcESaIcEED0Ev
+_ZNSt7__cxx1112basic_stringIwSt11char_traitsIwESaIwEE9_M_createERmm
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE9_M_createERmm
+_ZNSo9_M_insertIxEERSoT_
+_ZNSt8__detail15_List_node_base7_M_hookEPS0_
+_ZNSo5seekpESt4fposI11__mbstate_tE
+_ZTVNSt7__cxx1118basic_stringstreamIcSt11char_traitsIcESaIcEEE
+_ZSt4cout
+_ZNSt7__cxx1115basic_stringbufIcSt11char_traitsIcESaIcEED2Ev
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE9_M_assignERKS4_
+_ZNSo5flushEv
+_ZNSt7__cxx1118basic_stringstreamIcSt11char_traitsIcESaIcEEC1ESt13_Ios_Openmode
+_ZNSt7__cxx1115basic_stringbufIwSt11char_traitsIwESaIwEED0Ev
+_ZNSt14basic_ifstreamIcSt11char_traitsIcEED1Ev
+_ZSt7getlineIcSt11char_traitsIcESaIcEERSt13basic_istreamIT_T0_ES7_RNSt7__cxx1112basic_stringIS4_S5_T1_EES4_
+_ZNSolsEi
+_ZTTNSt7__cxx1118basic_stringstreamIcSt11char_traitsIcESaIcEEE
+libm.so.6
+ceil
+floor
+libgcc_s.so.1
+_Unwind_Resume
+libpthread.so.0
+__errno_location
+fcntl
+libc.so.6
+mkdtemp
+setlocale
+ngettext
+wmemcpy
+__stack_chk_fail
+kill
+bind_textdomain_codeset
+statvfs
+isspace
+strtol
+setmntent
+calloc
+strlen
+__cxa_atexit
+memset
+rmdir
+memcmp
+getmntent
+sscanf
+getuid
+__realpath_chk
+__memcpy_chk
+endmntent
+sleep
+__sprintf_chk
+setpgrp
+memmove
+bindtextdomain
+__libc_start_main
+setenv
+_ZNSt6vectorIN4Glib7ustringESaIS1_EED2Ev
+_ZNSt6vectorIN4Glib7ustringESaIS1_EED1Ev
+_edata
+__bss_start
+_end
+GCC_3.0
+UUID_1.0
+GLIBC_2.2.5
+GLIBC_2.3.4
+GLIBC_2.4
+GLIBC_2.14
+LIBPARTED_FS_RESIZE_0.0.0
+GLIBCXX_3.4.11
+GLIBCXX_3.4.9
+GLIBCXX_3.4.15
+CXXABI_1.3
+GLIBCXX_3.4.20
+GLIBCXX_3.4
+GLIBCXX_3.4.21
+%zZ0
+%rZ0
+%jZ0
+%bZ0
+%ZZ0
+%RZ0
+%JZ0
+%BZ0
+%:Z0
+%2Z0
+%*Z0
+%"Z0
+%zY0
+%rY0
+%jY0
+%bY0
+%ZY0
+%RY0
+%JY0
+%BY0
+%:Y0
+%2Y0
+%*Y0
+%"Y0
+%zX0
+%rX0
+%jX0
+%bX0
+%ZX0
+%RX0
+%JX0
+%BX0
+%:X0
+%2X0
+%*X0
+%"X0
+%zW0
+%rW0
+%jW0
+%bW0
+%ZW0
+%RW0
+%JW0
+%BW0
+%:W0
+%2W0
+%*W0
+%"W0
+%zV0
+%rV0
+%jV0
+%bV0
+%ZV0
+%RV0
+%JV0
+%BV0
+%:V0
+%2V0
+%*V0
+%"V0
+%zU0
+%rU0
+%jU0
+%bU0
+%ZU0
+%RU0
+%JU0
+%BU0
+%:U0
+%2U0
+%*U0
+%"U0
+%zT0
+%rT0
+%jT0
+%bT0
+%ZT0
+%RT0
+%JT0
+%BT0
+%:T0
+%2T0
+%*T0
+%"T0
+%zS0
+%rS0
+%jS0
+%bS0
+%ZS0
+%RS0
+%JS0
+%BS0
+%:S0
+%2S0
+%*S0
+%"S0
+%zR0
+%rR0
+%jR0
+%bR0
+%ZR0
+%RR0
+%JR0
+%BR0
+%:R0
+%2R0
+%*R0
+%"R0
+%zQ0
+%rQ0
+%jQ0
+%bQ0
+%ZQ0
+%RQ0
+%JQ0
+%BQ0
+%:Q0
+%2Q0
+%*Q0
+%"Q0
+%zP0
+%rP0
+%jP0
+%bP0
+%ZP0
+%RP0
+%JP0
+%BP0
+%:P0
+%2P0
+%*P0
+%"P0
+%zO0
+%rO0
+%jO0
+%bO0
+%ZO0
+%RO0
+%JO0
+%BO0
+%:O0
+%2O0
+%*O0
+%"O0
+%zN0
+%rN0
+%jN0
+%bN0
+%ZN0
+%RN0
+%JN0
+%BN0
+%:N0
+%2N0
+%*N0
+%"N0
+%zM0
+%rM0
+%jM0
+%bM0
+%ZM0
+%RM0
+%JM0
+%BM0
+%:M0
+%2M0
+%*M0
+%"M0
+%zL0
+%rL0
+%jL0
+%bL0
+%ZL0
+%RL0
+%JL0
+%BL0
+%:L0
+%2L0
+%*L0
+%"L0
+%zK0
+%rK0
+%jK0
+%bK0
+%ZK0
+%RK0
+%JK0
+%BK0
+%:K0
+%2K0
+%*K0
+%"K0
+%zJ0
+%rJ0
+%jJ0
+%bJ0
+%ZJ0
+%RJ0
+%JJ0
+%BJ0
+%:J0
+%2J0
+%*J0
+%"J0
+%zI0
+%rI0
+%jI0
+%bI0
+%ZI0
+%RI0
+%JI0
+%BI0
+%:I0
+%2I0
+%*I0
+%"I0
+%zH0
+%rH0
+%jH0
+%bH0
+%ZH0
+%RH0
+%JH0
+%BH0
+%:H0
+%2H0
+%*H0
+%"H0
+%zG0
+%rG0
+%jG0
+%bG0
+%ZG0
+%RG0
+%JG0
+%BG0
+%:G0
+%2G0
+%*G0
+%"G0
+%zF0
+%rF0
+%jF0
+%bF0
+%ZF0
+%RF0
+%JF0
+%BF0
+%:F0
+%2F0
+%*F0
+%"F0
+%zE0
+%rE0
+%jE0
+%bE0
+%ZE0
+%RE0
+%JE0
+%BE0
+%:E0
+%2E0
+%*E0
+%"E0
+%zD0
+%rD0
+%jD0
+%bD0
+%ZD0
+%RD0
+%JD0
+%BD0
+%:D0
+%2D0
+%*D0
+%"D0
+%zC0
+%rC0
+%jC0
+%bC0
+%ZC0
+%RC0
+%JC0
+%BC0
+%:C0
+%2C0
+%*C0
+%"C0
+%r*0
+ATUSL
+o@I9
+[]A\
+4$dH
+|$ H
+HcD$
+\$0H
+\$0H
+ATUI
+$w8H
+[]A\
+AUATL
+g`USH
+l$hH
+D$XL
+D$`H
+([]A\A]
+AWAVI
+AUATUSH
+H3O8H
+|$pH
+D$ H
+\$ H
+t$0H
+9J }
+0<	w
+T$ 9
+L;$$
+t$PH
+9J }
+t$pH
+9J }
+D$(H
+9J }
+0<	w
+T$ 9
+L;$$
+t$ H
+9J }
+|$(H
+[]A\A]A^A_
+D$ H
+AWAVI
+AUATUSH
+t$@H
+9J }
+0<	w
+H;l$
+t$`H
+9J }
+|$0H
+D$0H
+|$01
+I9G8t
+I3w8H)
+L$(H
+t$`H
+9J }
+[]A\A]A^A_
+0<	w
+t$(H
+H;l$
+|$'H
+9J }
+|$0H
+AVAUATUSH
+D$H1
+` xH
+D$HdH3
+P[]A\A]A^
+t$ I
+t$ I
+CHH9C@H
+sXH9
+H3S8H)
+H3S8H)
+ATUH
+[]A\
+ATUH
+[]A\
+CXH9
+CXH9
+ATUSH
+[]A\
+t/ATI
+[]A\
+ATUI
+$w9H
+[]A\
+AWAVAUATSH
+9J }
+0<	w
+T$ 9
+[A\A]A^A_]
+ATUI
+$w8H
+[]A\
+ATUSH
+T$ H
+[]A\
+T$`H
+|$@H
+|$`H
+D$H1
+|$ H
+|$ H
+|$ H
+|$ H
+|$ H
+|$ H
+|$ H
+|$ H
+D$HdH3
+t$`H
+|$@H
+T$ H
+|$@1
+t$ H
+|$@H
+|$`H
+[]A\
+|$@L
+T$ H
+|$@H
+AVAUI
+ATUH
+|$ H
+T$ H
+|$@L
+D$pH
+|$`H
+D$`H
+D$pH9
+|$`H
+|$@H
+[]A\A]A^
+|$ H
+|$`H
+|$`H
+D$pH9
+AWAVI
+AUAT
+|$ H
+|$ L
+t$ H
+t$@H
+|$@I
+|$`H
+|$`L
+|$`A
+[]A\A]A^A_
+|$`L
+|$`1
+|$@H
+D$h1
+|$ H
+T$ H
+|$@H
+|$@H
+L$hdH3
+|$@H
+AWAVAUATI
+|$@L
+|$@L
+t$@H
+t$`H
+t$ H
+[]A\A]A^A_
+t$ H
+|$`H
+D$h1
+T$@H
+T$@H
+L$hdH3
+|$@H
+ATUH
+|$@H
+t$@H
+t$ H
+|$`1
+t$`H
+[]A\
+|$`H
+|$@H
+AUATUSH
+D$(1
+D$(dH3
+8[]A\A]
+ATUI
+D$`H
+|$PH
+D$PH
+t$PH
+|$PH
+D$`H9
+|$pH
+t$pH
+[]A\
+t$0H
+I;|$
+t$0L
+|$pH
+|$PH
+T$`H
+AUATUSH
+|$ H
+T$`H
+t$@H
+[]A\A]
+AWAVI
+AUATI
+|$ L
+t$ H
+t$@H
+T$`H
+t$ H
+A;D$ t
+[]A\A]A^A_
+AWAVAUATI
+|$ H
+|$`H
+t$`H
+|$`I
+t$@H
+t$ H
+[]A\A]A^A_
+|$`H
+AWAVI
+AUATI
+|$ L
+t$ H
+t$@H
+T$`H
+t$ H
+A;E H
+[]A\A]A^A_
+AWAVAUATI
+|$@H
+t$@H
+t$ H
+|$@1
+t$@L
+|$@H
+|$@L
+t$@H
+[]A\A]A^A_
+|$@H
+|$@H
+|$@H
+AUATUSH
+|$ H
+|$ 1
+t$ H
+[]A\A]
+|$ H
+|$ H
+ATUSH
+[]A\
+AWAVAUATUSH
+D$pH
+|$`H
+D$`H
+L$hL
+t$`H
+|$`H
+D$pH9
+t$`H
+T$hH
+|$ H
+9J }
+T$PH
+T$HH
+l$@H
+|$@H
+t$ H
+|$@H
+T$(L
+T$@H9
+t$PH
+|$XH
+0<	w
+|$`H
+L$hH
+T$ 9
+|$`H
+L$hH
+[]A\A]A^A_
+|$`H
+D$pH9
+|$@H
+T$PH9
+AWAVAUATI
+[]A\A]A^A_
+u1E1
+I+<$I
+D$(1
+D$(dH3
+AUATUSH
+[]A\A]
+AWAVAUATUH
+o@SH
+[]A\A]A^A_
+AVAUE1
+ATUI
+]A\A]A^
+|$ dH
+D$H1
+t$ H
+T$HdH3
+ATUI
+[]A\
+AWAVAUI
+ATSI)
+?~jH
+[A\A]A^A_]
+AWAVAUATUSH
+m H9
+[]A\A]A^A_
+[]A\A]A^A_
+ATUStvH
+]A\A]A^
+AUATI
+UStnL
+Z[]A\A]A^
+AWAVAUATI
+[]A\A]A^A_
+AWAVAUATI
+[]A\A]A^A_
+u1E1
+I+<$I
+AWAVI
+ATUSL
+D$(I
+D$(L
+H+D$
+8[]A\A]A^A_
+,0I9
+L+l$ I
+8[]A\A]A^A_
+H9D$
+w'H9
+w"E1
+H9\$
+ H9\$
+L;d$
+8[]A\A]A^A_
+AVAUATUSH
+D$(1
+D$(dH3
+0[]A\A]A^
+ATUI
+D$(1
+D$(dH3
+0[]A\
+AWAVAUATUSH
+D$(1
+D$(dH3
+8[]A\A]A^A_
+AWAVH
+AUATI
+4$dH
+L$H1
+H;\$
+t$ H
+D$HdH3
+X[]A\A]A^A_
+L9,$
+t$ H
+AWAVH
+AUATI
+L$(H
+L$X1
+T$ L
+H;\$
+t$0H
+t$(I
+H;\$
+D$XdH3
+h[]A\A]A^A_
+l$ I
+L9l$
+t$0H
+t$(L
+AWAVI
+AUATI)
+T$x1
+D$ H
+D$(I)
+|$ L
+|$ A
+t$(H
+|$ A
+t$ H
+|$0H
+|$0L
+t$0H
+L$PM
+|$PI
+?~dH
+|$0L
+t$0H
+L$PM
+|$PI
+D$xdH3
+[]A\A]A^A_
+AWAVAUATI
+D$X1
+|$0H
+D$ H
+T$0H
+|$0L
+T$$H
+L$@H
+t$(L
+|$DL
+D$,H
+L$4H
+T$0H
+T$0H
+D$XdH3
+h[]A\A]A^A_
+|$0H
+AVAUI
+[]A\A]A^
+AWAVAUATUSH
+D$hH
+D$pI
+t$ L
+t$(L
+t$0L
+t$8L
+t$@L
+t$HH
+T$`L
+T$ L
+T$(L
+T$0L
+T$8L
+T$@L
+T$hL
+T$pL
+|$PH
+[]A\A]A^A_
+|$HH
+t$xH
+|$HH
+AWAVAUATUSH
+D$pH
+D$xI
+t$ L
+t$(L
+t$0L
+t$8L
+t$@L
+t$HL
+t$PH
+T$hL
+T$ L
+T$(L
+T$0L
+T$8L
+T$@L
+T$HL
+T$pL
+T$xL
+|$XH
+[]A\A]A^A_
+|$PH
+|$PH
+ATUH
+ []A\
+ATUH
+ []A\
+D$(1
+T$(dH3
+AWAVAUATUSH
+D$H1
+|$0H
+D$ H
+|$0L
+T$0L
+D$HdH3
+X[]A\A]A^A_
+|$0H
+AWAVAUATUSH
+|$pdH
+|$@H
+|$@H
+|$@H
+|$pH
+D$pL
+D$xH
+|$pfA
+t$pH
+D$(H
+t$pH
+L$@H
+t$pH
+t$@H
+t$PH
+t$ H
+T$(H
+T$0H
+D$(H
+D$0H
+D$8H
+|$pH
+|$pH
+[]A\A]A^A_
+t$ H
+T$@H
+T$pH
+AWAVAUATI
+|$PL
+D$PH
+|$PH
+t$OH
+|$pH
+|$`H
+[]A\A]A^A_
+|$pI
+AWAVAUATUSH
+|$PL
+D$PH
+|$PH
+t$OH
+|$pH
+|$`H
+[]A\A]A^A_
+|$pI
+ATUH
+[]A\
+uJAUATL
+[]A\A]
+t8ATI
+[]A\
+ATUH
+ []A\
+AWAVI
+AUATI
+[]A\A]A^A_
+dH3<%(
+ATUH
+ []A\
+AWAVI
+o8ATUSH
+[]A\A]A^A_
+AUATUSH
+D$(1
+D$(dH3
+8[]A\A]
+H9Fx
+ATUSH
+YG H
+[]A\
+AUATUSL
+YG L
+[]A\A]
+[]A\
+D$x1
+|$0H
+t$0H
+t$PH
+|$0H
+t$0H
+|$PH
+t$PH
+D$xdH3
+|$PH
+AWAVAUATI
+D$@0
+|$PI
+\$XA
+D$@0
+|$PI
+\$XA
+[A\A]A^A_]
+D$@0
+|$PI
+\$XA
+AWAVAUATSH
+D$@0
+|$PI
+\$XA
+D$@0
+|$PI
+\$XA
+[A\A]A^A_]
+D$@0
+|$PI
+\$XA
+AVAUATUL
+[]A\A]A^
+AUATUH
+[]A\A]
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+AWAVAUATI
+|$0L
+|$0H
+|$pH
+T$0H
+t$pH
+t$PH
+T$0H
+I9D$
+D$ H
+[]A\A]A^A_
+|$PH
+|$0H
+AWAVAUATI
+|$@H
+|$@L
+|$@H
+T$@H
+t$`H
+T$@H
+I9D$
+D$ L
+D$(M
+D$0H
+\$(L
+d$ L9
+\$ H
+[]A\A]A^A_
+|$`H
+|$@H
+ATUH
+ATUH
+|$ dH
+D$H1
+T$ H
+L$HdH3
+AWAVAUL
+ATSI
+[A\A]A^A_]
+AWAVAUL
+oHATSH
+[A\A]A^A_]
+ATUI
+$w8H
+[]A\
+AWAVI
+AUATI
+|$0H
+t$(H
+|$PH
+t$PH
+L$ H
+t$0H
+9J }
+0<	w
+t$ H
+T$ 9
+L;d$
+|$pH
+t$pL
+|$pI
+|$(L
+|$(H
+[]A\A]A^A_
+|$pH
+AWAVM
+ATUSI
+[]A\A]A^A_
+AWAVI
+AUATL
+[]A\A]A^A_
+AWAVAUATI
+D$ I
+t$XH
+D$xI
+([]A\A]A^A_
+AWAVI
+AUATUSH
+D$0H
+D$(L
+|$8A
+D$xH
+l$0I9
+L$(H
+D$0H
+L$(H
+D$(H
+H[]A\A]A^A_
+D$(I
+l$8I)
+D$0L;d$
+D$ I
+t$XH
+D$xI
+L;d$
+T$(H
+D$0H
+D$8H;\$
+D$4I
+D$8H
+D$XH
+D$xH
+H9\$
+D$(H
+D$(H
+L$(H
+D$8H
+D$0H
+H9l$8H
+\$8t
+D$8L9
+D$8H
+D$(1
+|$ H
+D$ H
+|$ H
+|$ H
+|$ H
+|$ H
+D$(dH3
+T$ H
+AVAUATSH
+[A\A]A^]
+AUATUSH
+[]A\A]
+ATUI
+$w8H
+[]A\
+AUATL
+g0US
+|$ H
+D$ H
+t$ H
+E8P>C
+|$ H
+D$ H
+t$ H
+|$ H
+|$ H
+|$ H
+|$ H
+|$ H
+|$ H
+|$ H
+|$ H
+|$ H
+|$ H
+|$pH
+t$0H
+t$PH
+t$pH
+|$ L
+D$ H
+Eleele
+|$ H
+[]A\A]
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+AWAVAUATI
+[A\A]A^A_]
+;J ~
+t(f.
+T$ 9
+~PE1
+;H |
+AWAVI
+AUATI
+L$ H
+9J }
+0<	w
+t$ H
+T$ 9
+L;d$
+|$pH
+t$pL
+|$(1
+[]A\A]A^A_
+t$8L
+|$pH
+AWAVI
+AUATI
+9J }
+0<	w
+T$ 9
+L;$$
+|$pH
+t$pL
+|$ 1
+[]A\A]A^A_
+|$pH
+AWAVAUATL
+[]A\A]A^A_
+AVAUH
+ATUL
+[]A\A]A^
+ATUH
+[]A\
+ATUH
+[]A\
+ATUSH
+[]A\H
+[]A\
+|$ dH
+D$H1
+T$ H
+L$HdH3
+AWAVL
+AUATSI
+[A\A]A^A_]
+AWAVL
+wHAUATSH
+[A\A]A^A_]
+ATUI
+$w8H
+[]A\
+AWAVAUATUSH
+s(H)
+l$@H
+|$PH
+t$PH
+[]A\A]A^A_
+K(H)
+|$0L
+T$0H
+|$ L
+l$@H
+L$ H
+D$@H
+|$PH
+|$ H
+AWAVH
+.AUATUSH
+D$x1
+T$0H
+t$PH
+L$ H
+T$@H
+D$@H
+|$ E1
+}8E1
+J;D:HA
+D$xdH3
+[]A\A]A^A_
+|$ H
+AWAVAUATI
+[A\A]A^A_]
+AWAVAUATI
+9J }
+0<	w
+T$ 9
+_AXH
+[A\A]A^A_]
+AWAVL
+AUATI
+|$h1
+|$@H
+t$@H
+D$hdH3
+x[]A\A]A^A_
+|$@H
+AWAVAUATL
+L$ dH
+D$x1
+|$PH
+t$PH
+L$ @
+D$xdH3
+[]A\A]A^A_
+|$PH
+ATUH
+[]A\
+AVAUH
+.ATUI
+PPI9
+GXH)
+[]A\A]A^
+AWAVH
+AUATI
+|$0H
+D$(H
+D$0H
+D$ I
+t$XH
+D$xI
+t-f.
+D$0H
+L;d$
+D$ I
+t$XH
+D$xI
+L;d$
+D$0H
+D$0L
+HiD$8p
+T$(H
+L$0H
+H[]A\A]A^A_
+D$(H
+D$(H9
+D$0H
+\$(H
+H+8H
+AWAVH
+AUATUSH
+vJHi
+yxM9
+[]A\A]A^A_
+D/xH
+AWAVAUATL
+g8USH
+D$x1
+|$0L
+l$PL
+K(H)
+D$xdH3
+[]A\A]A^A_
+|$0L
+l$PL
+D?xH
+AUATI
+[]A\A]
+AWAVM
+ATUSI
+[]A\A]A^A_
+AWAVI
+AUATL
+[]A\A]A^A_
+|$@H
+D$ H
+D$(H
+D$0H
+T$@H
+|$`H
+|$@H
+t$`H
+t$@H
+|$@H
+|$@H
+ATUI
+$w8H
+[]A\
+D$H1
+|$ H
+D$HdH3
+|$ H
+|$ H
+AVAUI
+ATUI
+D$h1
+|$ H
+|$@H
+t$@L
+D$hdH3
+p[]A\A]A^
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+|$ H
+|$@H
+AUATUSH
+|$ H
+D$ H
+D$(H
+D$0H
+D$8H
+D$ H
+|$PH
+D$PH
+D$(H
+D$XH
+D$0H
+D$`H
+D$8H
+D$hH
+D$@H
+D$pH
+D$HH
+[]A\A]
+D$ H
+D$(H
+D$0H
+D$8H
+T$ L
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+|$PH
+|$PH
+|$PH
+C8`*D
+|$PH
+D$PH
+T$PH
+AWAVAUATSH
+9J }
+0<	w
+T$ 9
+[A\A]A^A_]
+AWAVAUATI
+D$PI
+t$81
+t$ H
+T$PL
+t$HH
+[]A\A]A^A_
+|$ H
+t$XH
+|$ H
+AWAVAUATUSH
+D$XI
+t$ L
+t$@1
+t$(H
+T$XL
+T$ L
+t$PH
+[]A\A]A^A_
+|$(H
+|$(H
+AWAVAUATSH
+9J }
+A[A\H
+9J }
+M9t$
+_AXH
+9J }
+[A\A]A^A_]
+9J }
+0<	v
+AYAZH
+A^A_H
+AWAVAUATI
+_AXH
+9J }
+M9t$
+[A\A]A^A_]
+0<	w
+T$ 9
+AWAVAUATUSH
+|$ H
+t$pH
+D$ H
+|$pH
+D$ H
+[]A\A]A^A_
+D$ H
+t$CH
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+|$pH
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+ATUSH
+[]A\
+ATUI
+D$(1
+L$(dH3
+0[]A\
+AUATI
+[]A\A]
+ATUI
+$w8H
+[]A\
+v A;0t&1
+AUATL
+D$H1
+D$HdH3
+X[]A\A]
+|$ I
+AVAUATUH
+D$H1
+D$HdH3
+P[]A\A]A^
+|$ I
+AWAVH
+AUATUSH
+^0H+^(H
+|$ H
+D$(H
+D$(H
+L$ H
+D$ I
+t$XH
+D$xI
+L9$$
+D$ H
+8[]A\A]A^A_
+H9l$(H
+\$(t
+D$ H
+AWAVAUATI
+D$X1
+D$ H
+|$0H
+|$0A
+D$ E
+SxI9
+H9T$
+L$XdH3
+h[]A\A]A^A_
+|$0H
+AWAVAUATI
+g(dH
+@0H=
+[A\A]A^A_]
+9J }
+9J }
+0<	w
+T$ 9
+@0H=
+PAUATAV
+0I;G8H
+AWAVAUATI
+AYAZH
+9J }
+9J }
+9J }
+x ;>
+0<	w
+T$ 9
+[A\A]A^A_]
+_AXH
+AWAVH
+AUATH
+XUSH
+|$0H
+t$0H
+|$pH
+D$pH
+L$xL
+t$pL)
+|$pH
+9J }
+|$PH
+[]A\A]A^A_
+0<	w
+|$pH
+L$xH
+T$ 9
+|$pH
+L$xH
+T$ 1
+|$ H
+|$pH
+|$PH
+AWAVAUATI
+t$ H
+D$81
+|$XH
+D$ H
+D$ I
+D$ A
+@0H=
+D$ H9
+D$8dH3
+H[]A\A]A^A_
+T$ H
+{XH9|$
+D$ H9
+{XH9|$
+AVAUATSI
+[A\A]A^]
+AVATSI
+[A\A^]
+FHI+F@H
+FHI+F@A
+FHI+F@H
+FHI+F@
+AWAVAUATI
+/tmp/gpaH
+rted-rovH
+iew-XXXXH
+[A\A]A^A_]
+ATUH
+[]A\
+ATUH
+](I9
+t"f.
+|$@H
+l$0I
+\$(H9
+l$(H
+ATUSH
+[]A\
+AVAUATUI
+[]A\A]A^
+D$(1
+|$ H
+D$ H
+Cpt$H
+|$ H
+{pE1
+D$(dH3
+AWAVAUATI
+Q`H+QXH
+[]A\A]A^A_
+AWAVI
+mAUATA
+F`H+FX
+([]A\A]A^A_
+AVAUATUSH
+|2PI
+F`H+FXH
+[]A\A]A^
+AWAVAUATUSH
+F`H+FXH
+|2HI
+([]A\A]A^A_
+AWAVAUATSH
+A]A^H
+AZA[H
+[A\A]A^A_]
+mUSH
+P`H+PXH
+[]A\A]A^
+AWAVAUATSH
+[A\A]A^A_]
+AWAVI
+mAUATUSH
+[]A\A]A^A_
+F`H+FXH
+[]A\A]A^A_
+AWAVI
+mAUATUSH
+[]A\A]A^A_
+F`H+FXH
+[]A\A]A^A_
+|9PH
+ATUH
+P`H+PXH
+t*Mc
+[]A\
+AUATI
+l$HH
+A+\$h
+T$l~
+T$PI+T$HH
+[]A\A]
+AWAVAUATI
+mUSH
+F`H+FXH
+[]A\A]A^A_
+AWAVH
+wHAUATI
+nPL9
+|$HI
+l$XI
+\$`H9
+\$XI
+l$`H9
+\$XH
+|$HH
+|$@I
+[]A\A]A^A_
+AWAVAUATI
+eHM9
+|$HI
+l$XM
+|$`L9
+\$XI
+l$`H9
+|$XM
+|$HH
+|$@I
+[]A\A]A^A_
+AWAVAUATI
+eHM9
+|$HI
+l$XI
+\$`H9
+\$XI
+l$`H9
+\$XH
+|$HH
+|$@I
+([]A\A]A^A_
+AWAVAUATUSH
+{8dH
+|$`H
+t$`H
+|$ H
+|$ H
+|$0H
+|$0H
+|$@H
+|$@H
+|$PH
+|$PH
+[]A\A]A^A_
+T$PH
+T$@H
+T$0H
+T$ H
+|$`H
+AWAVAUATUSH
+|$pH
+t$pH
+|$0H
+|$0H
+|$@H
+|$@H
+|$PH
+|$PH
+|$`H
+|$`H
+[]A\A]A^A_
+T$`H
+D$(H
+D$(L
+D$(I
+T$PH
+D$(H
+T$@H
+D$(H
+T$0H
+D$(H
+|$pH
+AWAVI
+AUATI
+D$H1
+t$HL
+|$`M
+\$0H
+T$/L
+H9l$
+H9\$
+L$HdH3
+X[]A\A]A^A_
+d$@M
+M9l$
+\$0H
+d$0M
+M9l$
+\$0H
+AWAVI
+AUATH
+L$ H
+\$pH
+D$@I
+|$xH
+|$Ht
+D$PH
+D$XI
+D$`I
+\$hL
+l$`M
+|$xI
+|$xH
+Hi\$
+*L$ H
+|$0H
+|$0H
+T$0H
+|$0H
+[]A\A]A^A_
+t$0L
+D$HH
+H;l$
+T$0H
+|$XH
+ATUH
+[]A\
+AWAVAUATUSH
+|$ H
+t$ H
+v`H9
+D$0H
+N`H9
+D$8H
+n`L9
+D$HI
+l$XI
+\$`H9
+\$XI
+l$`H9
+\$XH
+D$HH
+|$@I
+fXL9
+D$HI
+l$XI
+\$`H9
+\$XI
+l$`H9
+\$XH
+D$HH
+|$@I
+L9$$
+L9t$
+L$8H
+H`H9
+i`L9
+D$HI
+l$XI
+\$`H9
+\$XI
+l$`H9
+\$XH
+alula
+D$HH
+|$@I
+H`H9
+h`M9
+|$HI
+l$XI
+\$`H9
+\$XI
+l$`H9
+\$XH
+|$HH
+|$@I
+p`M9
+|$HI
+l$XI
+\$`H9
+\$XI
+l$`H9
+\$XH
+|$HH
+|$@I
+pH9D$
+pH9D$8H
+pH9D$(H
+D$ H
+t$0H
+p`H9
+H9\$0u
+D$ H
+D$ H
+L$(H
+D$(H
+D$ H
+|$ H
+H[]A\A]A^A_H
+D$8H
+D$0H
+AWAVAUATUSH
+|$HI
+l$XM
+|$`L9
+\$XI
+l$`H9
+|$XM
+|$HH
+|$@I
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATUSH
+L$0H
+mH+kXH
+D$(H
+D$(H
+L$0H
+D$8H
+CXH9
+Y`H+YXH
+D$ H
+D$ H
+jXL9
+D$ A
+D$$A
+D$(A
+D$,A
+D$0A
+D$4A
+D$8A
+D$<I
+D$@H
+|$Ht
+D$PI
+]`I+]XI
+|$XM
+|$`I
+\$hM
+]XI9
+l$`I
+pL9,$
+H9D$8
+D$0H
+X[]A\A]A^A_
+|$XH
+D$HH
+L9d$ H
+\$ t
+H9T$(H
+\$(t
+H;\$
+D$(H
+D$0H
+D$0H
+AWAVH
+mAUATUSH
+|$8H
+D$(H
+D$8H
+D$(I
+t$@H
+L$PH
+D$HH
+D$PH
+T$HH
+L$@H
+H9D$PH
+D$ H
+|$ A
+L$ H
+Y`H+YXH
+D$0H
+D$0H
+T$ H
+jXL9
+D$ A
+D$$A
+D$(A
+D$,A
+D$0A
+D$4A
+D$8A
+D$<I
+D$@H
+|$Ht
+D$PI
+]`I+]XI
+|$XM
+|$`I
+\$hM
+]XI9
+l$`I
+pL9l$
+D$ pH
+D$ H9D$P
+D$@H
+D$8H
+L;l$
+d$(M
+D$ A
+D$$A
+D$(A
+D$,A
+D$0A
+D$4A
+D$8A
+D$<I
+D$@H
+D$Ht
+D$PI
+]`I+]XI
+|$XM
+|$`I
+\$hM
+]XI9
+l$`I
+pL;l$
+D$8I
+~`L9
+n`H9
+D$8L
+L$8H
+t$(H
+D$XL
+x[]A\A]A^A_
+t$XH
+D$(H
+L;l$
+D$(L
+|$XH
+D$HH
+D$(L9
+D$8H
+\$(H
+H+8H
+D$HH
+H9T$HH
+\$Ht
+H;\$
+D$@H
+D$@H
+|$XH
+D$HH
+L9d$0H
+\$0t
+ATUI
+$w8H
+[]A\
+D$h1
+=c+,
+T$ H
+D$hdH3
+|$@H
+|$pH
+t$pH
+|$pH
+T$0H
+t$pH
+|$pH
+|$pH
+|$pH
+|$pH
+|$PH
+|$ dH
+D$H1
+|$ H
+t$ H
+L$HdH3
+ATUI
+|$ H
+T$@H
+t$ H
+t$`H
+t$ H
+[]A\
+|$`H
+AUATI
+T$ H
+|$@H
+|$@A
+T$`H
+[]A\A]
+|$@H
+T$@H
+=f ,
+|$`H
+T$@H
+t$ H
+t$ H
+|$@H
+|$`H
+|$ dH
+D$H1
+|$ H
+t$ H
+L$HdH3
+|$ dH
+D$H1
+|$ H
+t$ H
+L$HdH3
+ATUI
+$w8H
+[]A\
+AVAUATUSH
+gpdH
+D$(1
+M9l$
+D$(dH3
+0[]A\A]A^
+{h[]
+[]A\
+[]A\
+[]A\
+AWAVAUATI
+D$8`
+D$XI
+t$HE
+[A\A]A^A_]
+AWAVAUATUSH
+|$(H
+|$@H
+|$`H
+t$`H
+t$ H
+D$0H
+\$ H
+9J }
+D$0H
+L$8H
+\$(H
+t$ H
+[]A\A]A^A_
+0<	w
+D$0H
+9J }
+9J }
+D$0H
+L$8H
+D$0H
+L$8H
+D$0H
+L$8H
+|$`H
+AWAVAUATUSH
+t$@H
+T$HH
+D$0H
+t$ H
+9J }
+D$0H
+L$8H
+t$`H
+t$(H
+[]A\A]A^A_
+0<	w
+T$ 9
+D$0H
+t$ H
+9J }
+D$0H
+L$8H
+0<	w
+T$ 9
+D$0H
+L$8H
+D$0H
+L$8H
+g8f.
+ATUH
+S8[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+AUATUSH
+|$ dH
+D$X1
+D$ H
+t$0H
+|$@H
+D$@H
+|$@H
+|$0H
+|$ H
+|$@H
+T$HH
+|$0H
+T$8H
+|$ A
+D$ H
+|$ H
+|$0t
+t$0H
+D$@H
+|$@H
+|$0H
+D$XdH3
+h[]A\A]
+T$0H
+D$0H
+D$ H
+AWAVAUATUSH
+D$(1
++{D9
+L$(dH3
+8[]A\A]A^A_
+CPA)
+*cXf
+CDD9
+*cXf
++KD9
+CPD9
+ATUI
+[]A\
+ATUI
+[]A\
+GD+G<
+W8+G<
+AVAUATSI
++O<H
+^DA+^<I
+[A\A]A^]
+AWAVAUATSH
+O8dH
+GP+GD
+A]A^H
+A[A\H
+AYAZH
+[A\A]A^A_]
+AUATL
+ghUS
+D$X1
+|$ H
+D$ H
+t$ H
+|$ H
+D$ H
+t$ H
+|$ H
+D$ H
+t$ H
+|$ H
+D$ H
+t$ H
+|$ H
+D$ H
+t$ H
+|$ H
+D$ H
+t$ H
+t$0H
+|$ H
+|$ H
+t$0H
+|$ H
+|$ H
+t$0H
+|$ H
+|$ H
+t$0H
+|$ H
+|$ H
+t$0H
+|$ H
+|$ H
+|$ H
+L$ H
+L$ H
+D$$#
+T$ H
+D$XdH3
+h[]A\A]
+t$ H
+t$ H
+t$ H
+T$ H
+|$0H
+T$ H
+T$ H
+T$ H
+T$ H
+AVAUATUSH
+8[]A\A]A^A_
+D$(H
+|$(L
+AVAUATUSH
+H[]A\A]A^A_
+D$8H
+|$8L
+AWAVAUATUSH
+D$(1
+|$ I
+|$ L
+|$ H
+|$ H
+|$ L
+|$ H
+|$ H
+|$ L
+|$ H
+|$ H
+|$ L
+|$ H
+|$ H
+|$ L
+|$ H
+|$ H
+|$ L
+|$ H
+D$(dH3
+8[]A\A]A^A_
+AWAVH
+AUATUSH
+([]A\A]A^A_
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+AVAUI
+ATUH
+[]A\A]A^
+AWAVAUATSH
+A[A\H
+AYAZH
+[A\A]A^A_]
+AWAVAUATUSH
+D$(1
++CX)
+k A)
+L$(dH3
+8[]A\A]A^A_
++CX)
+ATUH
+[]A\
+ATUI
+$w8H
+[]A\
+D$(1
+D$(dH3
+D$H1
+|$ H
+|$ H
+|$ H
+|$ H
+|$ H
+|$ H
+D$HdH3
+ATUI
+ []A\
+L;F(
+"t:L
+u#H9
+AVAUATUH
+s?Hi
+@xL9
+]A\A]A^
+sUHi
+x 9{ t
+@xH;Cx~
+s5Hi
+@xL)
+{@H9{Ht
+|$@H
+t$@H
+T$ H
+|$`H
+|$`H
+AWAVI
+AUATUS
+\$81
+dH34%(
+[]A\A]A^A_
+D$ H
+twATUH
+I+T$ 
+[]A\
+[]A\
+D$X1
+T$XdH3
+t$0H
+|$0H
+t.ATUI
+ATUI
+[]A\
+ATUSH
+D$H1
+\$ H
+D$HdH3
+P[]A\
+\$ H
+AUATI
+([]A\A]
+|$01
+t$0H
+[]A\
+|$0H
+AUATI
+|$0H
+t$0H
+|$P1
+t$PH
+[]A\A]
+|$ H
+D$ H
+|$ 1
+|$ H
+|$PH
+ATUI
+|$xH
+|$pH
+l$8I
+\$0H9
+l$0H
+[]A\
+[]A\
+D$H1
+L$HdH3
+t$ H
+|$ H
+D$`H
+D$hH
+D$pH
+D$xH
+T$ H
+T$(H
+T$0H
+T$8H
+T$@H
+T$HH
+T$PH
+t$`H
+D$(1
+T$(dH3
+AWAVAUATI
+D$(1
+G H)
+D$(dH3
+8[]A\A]A^A_
+D$x1
+|$PH
+\$xdH3
+@0H=
+|$PH
+D$(1
+T$(dH3
+AUATI
+D$x1
+D$xdH3
+[]A\A]
+|$PL
+L$0H
+|$PH
+AWAVAUATI
+[A\A]A^A_]
+AVSH
+[A^]
+AUATI
+|$PH
+t$PH
+[]A\A]
+T$0H
+t$pH
+T$0H
+|$pH
+|$PH
+AWAVI
+AUATUSH
+l$ H
+l$`H
+[]A\A]A^A_
+l$`H
+AUATUSH
+[]A\A]
+|$ H
+t$ H
+|$ H
+D$0H9
+t$`H
+|$`H
+t$@H
+T$@H
+T$@H
+T$@H
+|$`H
+|$ H
+D$0H9
+AVAUATUH
+uDE1
+[]A\A]A^
+|$@H
+t$@H
+|$`H
+t$`H
+|$ A
+AWAVI
+AUATE1
+L$x1
+T$HH
+t$@H
+|$HH
+F H)
+L9d$
+t$ H
+t$HH
+L$xdH3
+[]A\A]A^A_
+D$/H
+AWAVI
+AUATI
+|$ H
+D$0H
+D$0H9
+[]A\A]A^A_
+t$ H
+|$HI;|$P
+|$HH
+|$HH
+D$0H
+|$ H
+D$ H
+D$0H9
+t$@H
+|$ L
+}HH;}PtjH
+D$ L
+|$@L
+|$ H
+D$0H9
+|$ H
+ATUI
+T$pH
+T$PH
+T$0H
+[]A\
+|$pH
+AWAVAUATI
+|$ dH
+T$@H
+t$ H
+|$ H
+[]A\A]A^A_
+|$`H
+AWAVI
+AUATUSH
+D$0H
+D$ H
+D$PH
+t$ H
+t$ H
+t$`H
+|$@H
+@0H=
+|$@H
+D$PH9
+|$ H
+D$0H9
+[]A\A]A^A_
+t$@H
+t$ H
+|$@H
+|$@H
+D$PH9
+|$ H
+D$0H9
+AWAVAUATI
+ATE1
+@xH)
+vxHi
+FxI9
+[A\A]A^A_]
+9x }
+9z }
+9} ~C
+[]A\
+AUATI
+D$x1
+D$xdH3
+[]A\A]
+l$PH
+l$PH
+|$0H
+AUATI
+|$ H
+t$ H
+|$@H
+t$@H
+|$`1
+t$`H
+uJf.
+[]A\A]
+|$`H
+AUATUSH
+v4dH
+[]A\A]
+|$ H
+t$ H
+|$@H
+t$@H
+|$`1
+t$`H
+|$`H
+AWAVI
+AUATI
+l$ H
+l$`H
+[]A\A]A^A_
+l$`H
+AWAVI
+AUATUSH
+l$PH
+t$p1
+[]A\A]A^A_
+l$PH
+t$p1
+AUATI
+|$ H
+t$ H
+|$@H
+t$@H
+|$`1
+t$`H
+[]A\A]
+|$@H
+t$@H
+t$`H
+|$`H
+|$`H
+AWAVH
+AUATUSH
+\$(L
+|$ I
+|$ H
+|$ H
+t$ H
+\$(H
+l$ H9
+t f.
+\$ H
+|$`u
+\$(H
+l$ H9
+|$ H
+|$`H
+t$`H
+t$@1
+t$`H
+t$@1
+|$`H
+t$`H
+[]A\A]A^A_
+|$ H
+|$`H
+|$@H
+ATUH
+[]A\H
+[]A\
+AWAVAUATI
+AVE1
+[A\A]A^A_]
+AWAVAUATI
+AUAT
+_AXx7
+[A\A]A^A_]
+{0E1
+AWAVI
+AUATH
+|$ A
+L$`H
+T$@H
+[]A\A]A^A_
+|$`H
+|$`H
+|$ H
+|$`H
+AWAVI
+AUATE
+v4dH
+[]A\A]A^A_
+D$0H
+D$0H
+D$01
+AUATI
+|$ H
+t$ H
+|$@1
+t$@H
+|$ H
+t$ H
+t$@H
+|$@A
+[]A\A]
+|$ A
+t$@H
+t$ H
+|$@H
+|$@H
+[]A\
+gPUSH
+S H;S(u
+[]A\
+@0H=
+@0H=
+@0H=
+AUATI
+[]A\A]
+l$PH
+D$PH
+l$pH
+|$PH
+|$0L
+t$0L
+l$PL
+|$0H
+|$PH
+AWAVH
+AUATI
+CxH9Ex~_H
+d$0L
+d$0L
+|$pL
+|$PL
+L$pH
+T$PH
+[]A\A]A^A_
+d$0L
+d$0L
+T$(H
+T$ H
+|$ H
+|$ H
+t$ H
+H+t$
+H+D$
+T$(H
+T$(H
+|$ H
+d$0L
+d$0L
+d$0L
+AVAUATUI
+BxH9Fxty
+t$ L
+[]A\A]A^
+t{E1
+tGE1
+|$ H
+AWAVAUATI
+|$ H
+t$ H
+|$@L
+t$@H
+t$`H
+D$ L
+D$0H
+|$ H
+t$ H
+|$@L
+t$@H
+t$`H
+[]A\A]A^A_
+AVAU
+ATUI
+[]A\A]A^
+|$ L
+D$8H
+D$ H
+D$0L
+|$@H
+|$`H
+T$@H
+t$`H
+ATUSH
+[]A\
+|$ H
+|$@H
+T$ H
+t$@H
+t$`H
+D$ H
+D$0H
+AWAVI
+AUATI
+t$H1
+D$HA
+Mp L
+D$XH
+D$HL
+T$XH)
+d$XL9
+H9\$
+D$HH
+T$ H
+D$XH
+D$HH
+l$PH
+|$HH
+[]A\A]A^A_
+l$PH
+|$PH
+|$`H
+L$XH
+T$`H
+|$ H
+D$(H
+\$0I
+l$8L
+|$HI
+D$XH
+\$0L
+t$PH
+H+D$XH
+t$PH
+\$0L
+AVATSI
+[A\A^]
+ATUI
+[]A\
+[]A\
+tjATUI
+u.[1
+[]A\
+AWAVAUATI
+9J }
+[A\A]A^A_]
+AVAUI
+ATUE
+RAVH
+dH34%(
+[]A\A]A^
+AVAUATUSH
+UxH9
+|$ 1
+t$ H
+[]A\A]A^
+|$ H
+AWAVI
+AUATH
+[]A\A]A^A_
+|$ H
+|$@H
+l$`H
+L$ H
+t$@H
+AWAVM
+AUATI
+ATAWH
+AVPH
+8[]A\A]A^A_
+AWAVI
+AUATI
+FxH9Bx
+[]A\A]A^A_
+AWAVI
+AUATH
+[]A\A]A^A_
+\$ L
+ExH;
+AVAUI
+ATUI
+ExH9Cx
+[]A\A]A^
+AWAVI
+AUATI
+[]A\A]A^A_
+\$ M
+Borrow or rob
+\$ M
+AWAVAUI
+ATSI)
+?~jH
+[A\A]A^A_]
+AUAT
+D$(1
+c@M9
+D$(dH3
+8[]A\A]
+AWAVAUATSH
+@8I9
+9J }
+X0H9
+[A\A]A^A_]
+0<	w
+T$ 9
+P0HcH\H
+HcP`Hc@XH
+%Lt*
+D$ I
+t$XH
+D$xI
+ATAWj
+_8H9
+AXAYI
+K H9
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+D$(1
+L$(dH3
+0[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+ATUSH
+[]A\
+AVAUH
+ATUE1
+]A\A]A^
+AWAVI
+AUATI
+D$h1
+|$0A
+D$PH
+|$@H
+D$@H
+L$PH
+T$@H9
+T$PH
+T$HH
+\$PH
+\$@H
+|$@I
+D$hdH3
+x[]A\A]A^A_
+0<	w
+|$ H9
+|$ H
+T$ L9
+T$0H
+T$(H
+|$ H
+|$ I
+T$ 9
+L9$$
+t$0H
+|$8H
+L$PH
+\$XH
+|$ H
+D$0H9
+|$@H
+T$PH9
+AVAUATUI
+[]A\A]A^
+AUATI
+\$ I9
+[]A\A]
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+AUATL
+[]A\A]
+[]A\A]
+AWAVAUATL
+g@SH
+[A\A]A^A_]
+AVAUI
+ATUI
+l$HI
+\$@M
+l$@H
+[]A\A]A^
+AVAUH
+.ATUI
+PPI9
+GXH)
+[]A\A]A^
+AWAVAUATUSH
+4	H9
+[]A\A]A^A_
+B 9E @
+t/ATI
+[]A\
+AUATI
+[]A\A]
+AVI)
+AUATUSL
+D$ H
+H+D$
+8[]A\A]A^A_
+|$ M9
+L+l$(I
+t+f.
+l$ H
+8[]A\A]A^A_
+H9D$
+w'H9
+8[]A\A]A^A_
+AWAVI
+AUATUSH
+|$ dH
+D$h1
+t$ H
+D$PH
+|$@H
+D$@H
+t$@H
+|$@H
+D$PH9
+t 9J }
+l$PM
+|$@H
+T$@L
+|$@H9
+D$@I
+|$@H
+D$PH9
+L$hdH3
+x[]A\A]A^A_
+|$@H
+T$PH9
+|$@H
+D$PH9
+|$@H
+D$PH9
+ATUH
+|$ H
+|$ H
+|$pH
+|$`H
+D$(p
+[]A\
+AWAVI
+AUATH
+D$H1
+D$0H
+D$ t
+|$ H
+t$ H
+|$ H
+D$0H9
+t 9J }
+l$0M
+|$ H
+T$ L
+|$ H9
+D$ I
+|$ H
+D$0H9
+L$HdH3
+X[]A\A]A^A_
+|$ H
+D$0H9
+|$ H
+D$0H9
+|$ H
+T$0H9
+ATUI
+|$ H
+|$ H
+|$pH
+|$`H
+D$(p
+[]A\
+ATUH
+|$ H
+|$ H
+|$pH
+|$`H
+D$(p
+[]A\
+AWAVH
+AUATE1
+D$ I
+D$(I
+D$0I
+D$8I
+D$@H
+D$`I
+([]A\A]A^A_
+AWAVH
+NAUATUSH
+|$PL
+T$PH
+D$@L
+D$PH
+T$8H
+D$(H
+T$(H9T$8H
+D$0H
+T$0H
+D$(H
+D$HH
+D$HH
+L$0H
+T$(H
+D$ I
+t$XH
+D$xI
+L9$$
+L$(H
+T$0H
+\$0H
+l$(L
+D$0L
+D$(L
+D$(H
+D$(H9D$8
+D$PH
+\$0H
+L$8t#H
+H9l$8u
+D$PH
+D$8H
+D$8H
+D$PH
+L$@H
+|$XH
+h[]A\A]A^A_
+T$XH
+|$@H
+D$(L
+D$0H
+D$@H
+T$0H9
+H;\$0u
+H9l$HH
+\$Ht
+D$0H
+D$PH
+\$@H
+H+8H
+AUATI
+[]A\A]
+AUATUI
+[]A\A]A^
+[]A\A]A^
+]A\A]A^
+T$ 1
+]A\A]A^
+D$ H9
+AVAUI
+ATUH
+[]A\A]A^
+[]A\A]A^
+AUATI
+[]A\A]
+AUATUI
+[]A\A]A^
+[]A\A]A^
+]A\A]A^
+T$ 1
+]A\A]A^
+D$ H9
+AVAUI
+ATUI
+[]A\A]A^
+[]A\A]A^
+AVAUI
+ATUI
+[]A\A]A^
+[]A\A]A^
+AWAVAUATUSH
+t$ H
+D$ I
+t$XH
+D$xI
+L9d$ 
+[]A\A]A^A_
+H9l$(H
+\$(t
+AWAVI
+AUATI
+[]A\A]A^A_
+$?L9
+t&M9
+ATUI
+tQH9
+dH34%(
+[]A\
+J D9
+ATUSH
+"D9f H
+D;` H
+[]A\A]
+D;` H
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+AUATH
+;B ~
+;C }MH
+T$ L
+C([]A\A]
+AWAVAUATSH
+S H9
+t 9J }
+[A\A]A^A_]
+ATUH
+|$ H
+|$ H
+|$pH
+|$`H
+D$(p
+[]A\
+ATUH
+|$ H
+|$ H
+|$pH
+|$`H
+D$(p
+[]A\
+AUATUSH
+D$81
+L$8dH3
+H[]A\A]
+AVAUATUSH
+g`dH
+M9l$
+ []A\A]A^
+AVAUATUSH
+g0dH
+M9l$
+ []A\A]A^
+AVAUATUSH
+g@dH
+M9l$
+ []A\A]A^
+AVAUATUSH
+gPdH
+M9l$
+ []A\A]A^
+AWAVAUATUSH
+God A red nugget A fat egg under a dog
+D$ H
+D$(H
+D$8H
+[]A\A]A^A_
+|$@H
+t$@H
+AWAV1
+AUAT1
+khdH
+D$`H
+|$`H
+|$pL
+|$p1
+|$pH
+|$PH
+|$PH
+|$PH
+|$PH
+|$PH
+[]A\A]A^A_
+D$pH
+AWAVAUATUSH
+D$pH
+|$pH
+|$`H
+|$`H
+|$`H
+|$`H
+|$`H
+[]A\A]A^A_
+ATUH
+[]A\
+ATUH
+[]A\
+D$H1
+|$ H
+|$ H
+D$HdH3
+AUAT1
+[]A\A]
+[]A\A]
+ATE1
+[]A\
+x2t H
+AWAVAUATUSH
+|$`dH
+t$`H
+t$`H
+t$`H
+[]A\A]A^A_
+H;=j
+H;=-
+t$ H
+|$`H
+L$(H
+T$ H
+l$@L
+l$HL
+t$@H
+|$@H
+L$(H
+T$ A
+|$ H
+t$@H
+D$@H
+D$@L
+D$@H
+H;-<
+l$HL
+t$@L9
+l$@H
+t$ H
+|$`H
+|$(L
+t$ L
+l$@1
+t$HH
+\$@L
+t$@H
+D$@H
+D$@H
+D$@L
+t$HH
+\$@I9
+t$@M
+|$(L
+|$ H
+t$HH
+\$@I9
+D$ H
+D$h1
+|$@H
+D$0H
+t$@H
+T$hdH3
+|$@H
+D$h1
+|$@H
+D$0H
+|$@H
+T$hdH3
+D$h1
+|$@H
+D$0H
+|$@H
+T$hdH3
+ATUSH
+D$h1
+|$@H
+D$0H
+T$hdH3
+p[]A\
+|$@H
+|$PH
+AVAUI
+ATUH
+41t5H
+]A\A]A^
+AVAUI
+ATUH
+[]A\A]A^
+|$ H
+|$@H
+D$`H
+D$hH
+D$@H
+D$@H
+|$ H
+t$ H
+t$ H
+|$@H
+AWAVAUATI
+@tLH
+[A\A]A^A_]
+ATUSH
+[]A\
+ATUSH
+[]A\
+AWAVH
+AUATI
+3333333
+[]A\A]A^A_
+3333333
+AWAVI
+AUATI
+,$tBL
+t$ L
+t$@H
+t$`H
+[]A\A]A^A_
+I+?I
+AVAUI
+[]A\A]A^
+]A\A]A^
+t2[L
+]A\A]A^
+AWAVAUATUH
+[]A\A]A^A_
+s%Hi
+H;rx|
+s%Hi
+H;rx|
+H;px|
+H9px
+AWAVAUATI
+v}Hi
+FxI9
+D$4I
+D$8H
+D$XH
+D$xH
+[A\A]A^A_]
+AUATUSH
+H;xx|
+|$8A
+D$xH
+C Lc
+[]A\A]
+[]A\A]
+H9px
+|$8A
+D$xH
+ATUS
+[]A\
+[]A\
+AVAU
+ATUSH
+l$ dH
+t$`H
+[]A\A]A^
+t$`H
+AWAVI
+AUATUSH
+D$(H
+t$PH
+D$0H
+D$8H
+D$@H
+D$HH
+t$pH
+[]A\A]A^A_
+ATUI
+$w8H
+[]A\
+AWAVH
+AUATUSH
+|$@dH
+|$`H
+t$`H
+t$ H
+9J }
+0<	w
+T$ 9
+t$@H
+9J }
+[]A\A]A^A_
+AVAUI
+ATUH
+t$@H
+D$ H
+D$(H
+D$0H
+D$8H
+t$`H
+[]A\A]A^
+ATUI
+$w8H
+[]A\
+AWAVAUATUSH
+\$0H
+D$8H
+D$@H
+t$(H
+9J }
+0<	w
+t$ H
+T$ 9
+t$8H
+9J }
+D$@H
+L$HH
+|$0L
+[]A\A]A^A_
+D$(H
+D$@H
+D$8H
+\$8H
+D$(H
+t$PH
+9J }
+0<	w
+t$pH
+9J }
+9J }
+D$@H
+L$HH
+|$0H
+D$8H
+D$(H
+D$@H
+L$HH
+D$@H
+L$HH
+AWAVI
+AUATI
+D$ I
+t$8I
+D$$A
+D$(A
+D$,A
+D$0A
+D$4A
+t$XI
+D$xI
+|$(H
+|$`H
+t$`H
+9J }
+0<	w
+T$ 9
+L;d$
+t'f.
+|$ H
+[]A\A]A^A_
+L$ H
+|$(H
+L$ I
+L$ I
+L$8I
+D$ I
+D$8I
+|$@H
+ATUI
+$w8H
+[]A\
+AWAVAUATSH
+9J }
+0<	v
+9J }
+9J }
+9J }
+9J }
+[A\A]A^A_]
+AWAVI
+AUATUSH
+D$(H
+t$PH
+D$0H
+D$8H
+D$@H
+D$HH
+t$pH
+[]A\A]A^A_
+AUATUSH
+]A\A]
+[]A\A]
+ATUI
+$w8H
+[]A\
+AWAVAUATUSH
+|$ H
+|$PH
+|$pH
+t$pH
+t$(H
+9J }
+0<	w
+T$ 9
+L;d$
+}PE1
+t$0H
+9J }
+}PE1
+t$PH
+9J }
+}PE1
+t$ H
+9J }
+}PE1
+|$(H
+[]A\A]A^A_
+AVAUI
+ATUH
+t$@H
+D$ H
+D$(H
+D$0H
+D$8H
+t$`H
+[]A\A]A^
+AVAUATUH
+s0Hi
+[]A\A]A^
+E Lc
+[]A\A]A^H
+AUATI
+[]A\A]
+AVAUATUSH
+g@dH
+T$(1
+M9l$
+D$(dH3
+0[]A\A]A^
+AWAVAUATI
+([]A\A]A^A_
+M9t$
+AVAUATUH
+[]A\A]A^
+[]A\
+ATUSH
+[]A\
+t$ H
+t$@H
+|$`I
+tjUS
+t:r$
+AWAVH
+AUATUSH
+([]A\A]A^A_
+AWAVAUATI
+|$`H
+t$xH
+t$@H
+t$`H
+|$0H
+D$0H
+t$0H
+|$0H
+D$0I
+|$8H
+t$0H
+t$0H
+[]A\A]A^A_
+|$0H
+|$ 1
+t$ H
+|$ H
+ATUH
+[]A\
+ATUH
+[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+ATUI
+$w8H
+[]A\
+AWAVAUATUSH
+|$@dH
+|$`H
+t$`H
+t$ H
+9J }
+0<	w
+T$ 9
+t$@H
+9J }
+[]A\A]A^A_
+AUATUSH
+]A\A]
+[]A\A]
+AWAVI
+AUATUSH
+D$(H
+t$PH
+D$0H
+D$8H
+D$@H
+D$HH
+t$pH
+[]A\A]A^A_
+AWAVAUATI
+[A\A]A^A_]
+I;D$
+AUATUSH
+D$(1
+T$(dH3
+8[]A\A]
+ATUI
+$w8H
+[]A\
+AWAVAUATUSH
+|$8H
+D$(H
+t$ H
+9J }
+0<	w
+T$ 9
+L;d$
+|$`H
+|$@H
+D$(H
+D$ H
+\$ H
+t$@H
+9J }
+0<	w
+D$(H
+L$0H
+|$8L
+[]A\A]A^A_
+t$`H
+9J }
+D$(H
+L$0H
+|$8H
+D$(H
+L$0H
+D$(H
+L$0H
+D$ H
+AWAVI
+AUATUSH
+D$(H
+t$PH
+D$0H
+D$8H
+D$@H
+D$HH
+t$pH
+[]A\A]A^A_
+ATUI
+$w8H
+[]A\
+ATUS
+[]A\
+[]A\
+AWAVAUATUSH
+|$ H
+D$0H
+t$(H
+9J }
+0<	w
+T$ 9
+L;d$
+D$ H
+|$@H
+|$`H
+t$`H
+D$0H
+D$(H
+\$(H
+9J }
+0<	w
+D$0H
+L$8H
+|$ L
+[]A\A]A^A_
+t$@H
+9J }
+D$0H
+L$8H
+|$ H
+D$0H
+L$8H
+D$(H
+D$0H
+L$8H
+AWAVI
+AUATUSH
+D$(H
+t$PH
+D$0H
+D$8H
+D$@H
+D$HH
+t$pH
+[]A\A]A^A_
+ATUI
+$w8H
+[]A\
+AWAVAUL
+|$`H
+|$@H
+|$ H
+t$ H
+9J }
+}PE1
+[]A\A]A^A_
+0<	w
+H;,$
+}PE1
+t$@H
+9J }
+}PE1
+t$`H
+9J }
+AUATUSH
+C Lc
+[]A\A]A
+[]A\A]
+AWAVI
+AUATUSH
+D$(H
+t$PH
+D$0H
+D$8H
+D$@H
+D$HH
+t$pH
+[]A\A]A^A_
+AUATUSH
+]A\A]
+[]A\A]
+AVAUATUI
+4$Lc
+[]A\A]A^H
+[]A\A]A^
+C Lc
+[]A\A]A^H
+D$(1
+D$(dH3
+AWAVA
+AUATUSH
+D$H1
+Hcu H
+|$ H
+t$ H
+|$ I
+|$ L
+Hcu H
+L$ H
+D$HdH3
+u u$H
+X[]A\A]A^A_
+AVAUE1
+ATUI
+]A\A]A^
+C 9E t
+CxH9Exu
+C$9E$
+l$PL
+[]A\A]A^A_
+[]A\A]A^A_
+}	M9
+APQA
+_AXH
+APRI
+AVAUE1
+ATUI
+]A\A]A^
+WxH9
+|#H;
+AUATI
+[]A\A]
+@~.f
+xeH9
+ATUH
+t"f.
+AUATUSH
+D$(1
+D$(dH3
+8[]A\A]
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+ATUStnH
+]A\A]A^
+]A\A]A^
+AWAVA
+AUATE
+D$81
+D$8dH3
+H[]A\A]A^A_
+AWAVAUATA
+PAQE
+AWAVj
+[A\A]A^A_]
+AUATI
+UStfL
+XZ[]A\A]A^
+AWAVAUI
+ATSI)
+?~jH
+[A\A]A^A_]
+AWAVAUATUSH
+m H9
+[]A\A]A^A_
+[]A\A]A^A_
+ATUStvH
+]A\A]A^
+AUATI
+UStnL
+Z[]A\A]A^
+AUATA
+o(SH
+D$81
+T$ H
+D$ H9
+D$8dH3
+H[]A\A]
+T$ I
+AWAVAUATUSH
+|$ dH
+D$H1
+L$HdH3
+X[]A\A]A^A_
+@0H=
+t$ H
+-/((
+t$ L
+$H9\$
+ATUI
+$w8H
+[]A\
+AVAUE1
+ATUI
+%I4(
+]A\A]A^
+AUATI
+I;|$
+u@t&H
+[]A\A]
+AWAV
+AUATUSH
+%82(
+D$PH
+D$@H
+D$pL
+t$@H
+t$@H
+|$`H
+t$@H
+|$`H
+t$@H
+|$`H
+t$@H
+|$`H
+t$@H
+|$`H
+D$hH
+T$hH
+t$`H
+|$`H
+t$`H
+=w+(
+|$@1
+@0H=
+|$`H
+D$pH9
+|$@H
+D$PH9
+[]A\A]A^A_
+T$HH
+|$@A
+H+D$HH)
+|$@H
+t$@H
+t$@H
+|$`H
+D$pH9
+|$@H
+D$PH9
+tRAUATI
+[]A\A]
+AUATI
+[]A\A]
+AUATUI
+[]A\A]A^
+[]A\A]A^
+]A\A]A^
+T$ 1
+]A\A]A^
+D$ H9
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+D$H1
+|$ H
+mdad
+|$ H
+D$HdH3
+AUAT1
+5} (
+5Y (
+[]A\A]
+[]A\A]
+t$@H
+t$`H
+t$ H
+|$ H
+|$ H
+AWAVAUATUSH
+|$`dH
+D$@H
+D$@H
+l$ H
+\$(H9
+l$HL
+d$@H
+l$(L
+D$ H
+|$(H
+|$(H
+l$HL
+t$@H
+|$(H;|$0
+D$ H
+|$@H
+|$ H
+D$(H)
+|$ H
+t$ H
+\$ H
+@0H=
+l$ H
+\$(H9
+l$(H
+\$ H9
+l$ H
+[]A\A]A^A_
+t$`H
+D$ H
+t$ H
+|$`H
+D$(H+D$ H
+t$ 1
+D$(H+D$ 
+l$(H
+\$ H9
+l$ H
+|$ 1
+\$ H
+D$@H
+D$@H
+D$HH+D$@H
+D$HH+D$@H
+t$ H
+t$ H
+\$ H
+l$HH
+\$@H9
+l$@H
+D$@H
+D$ H
+D$ H
+D$ H
+D$ H
+D$ H
+D$ H
+D$ H
+D$ H
+ATUSH
+[]A\
+AWAVH
+AUATI
+,$tQL
+t$ L
+t$@H
+t$`H
+[]A\A]A^A_
+I+?I
+AUATUSH
+[]A\A]
+4$w;H
+AVAUATUSH
+M9l$
+ []A\A]A^
+AWAVAUATUSH
+D$(1
+L$(dH3
+8[]A\A]A^A_
+t)fA
+AWAVAUATUSH
+t$ H
+t$(H
+t$0H
+t$8H
+t$@H
+t$HH
+t$PH
+t$XH
+t$`H
+CHt+H
+CPt'H
+D$8@
+l$HI
+T$@L
+T$ L
+T$(L
+T$0L
+T$8L
+T$`L
+T$XL
+T$PL
+T$HH
+[]A\A]A^A_
+t$hH
+AWAVAUATUSH
+t$ H
+t$(H
+t$0H
+t$8H
+t$@H
+t$HH
+t$PH
+t$XH
+t$`H
+t$hH
+CHt+H
+CPt'H
+D$8@
+l$HI
+T$HL
+T$ L
+T$(L
+T$0L
+T$8L
+T$@L
+T$hL
+T$`L
+T$XL
+T$PH
+[]A\A]A^A_
+AWAVA
+AUATL
+D$H1
+L$HdH3
+X[]A\A]A^A_
+D$81
+t$(1
+t$(H
+t$(H
+D$8dH3
+AVAUATUSH
+D$x1
+D$xdH3
+[]A\A]A^
+D$@H
+D$HH
+D$PH
+D$ H
+D$XH
+D$(H
+D$`H
+D$0H
+D$hH
+M9l$
+t$@H
+AWAVAUATI
+D$0L
+|$0H
+t$pH
+|$0H
+|$0H
+D$8H
+|$PH
+t$pH
+t$PL
+|$pI
+|$PH
+D$`H9
+|$PH
+D$8H
+t$PL
+|$pL9
+|$PH
+D$`H9
+[]A\A]A^A_
+t$pH
+D$0L
+|$0H
+D$0H
+|$PH
+T$`H9
+|$pI
+|$PH
+D$`H9
+T$0H
+|$pI
+D$0H
+D$0H
+D$0H
+AWAVI
+AUATI
+|$0H
+L$ dH
+D$(L
+|$`H
+D$`H
+t$0L
+D$0H
+D$hH
+D$8H
+D$pH
+D$@H
+D$xH
+D$HH
+\$hL
+t$`I
+|$`H
+[]A\A]A^A_
+D$(H
+L$ L
+L$0H
+D$H1
+D$HdH3
+ATUH
+[]A\
+t<USH
+u7UH
+ATUI
+$w8H
+[]A\
+@0H=
+AUATI
+[]A\A]
+[]A\A]
+D$81
+T$8dH3
+AVAUI
+ATUI
+[]A\A]A^
+|$ H
+t$ H
+t$@H
+t$`L
+|$`H
+AWAVAUATI
+[]A\A]A^A_
+|$ L
+l$ L
+D$ H
+D$ X
+D$ H
+t$0H
+|$ H
+|$0H
+D$ X
+|$hH
+D$ H
+|$ H
+@0H=
+D$ H
+|$ H
+|$0H
+ATUA
+ []A\
+D9d$
+AWAVA
+AUATA
+t$ H
+|$@H
+t$@H
+t$`H
+[]A\A]A^A_
+ATUSH
+D$ H
+|$0H
+\$0H
+|$xH
+D$0H
+D$0H
+D$0H
+t$@H
+D$ H9
+|$xH
+[]A\
+|$0H
+|$@I
+D$ H9
+|$xH
+AWAVI
+AUATI
+|$`L
+\$`L
+-u|'
+l$pH
+-7|'
+t$xH
+D$`L
+D$0H
+|$ H
+t$ H
+|$ H
+D$0H9
+[]A\A]A^A_
+T$PH
+|$@H
+T$@H
+t$@H
+|$@H
+D$PH9
+D$`H
+|$xI
+ATUH
+|$ H
+t$ L
+|$@H
+t$@H
+t$`L
+[]A\
+|$`H
+|$ H
+AWAVAUATI
+|$(H
+[A\A]A^A_]
+AUATUSH
+-aq'
+%Rq'
+T$`H
+t$@H
+|$ H
+|$ H
+|$ A
+[]A\A]
+|$ H
+D$(1
+T$(dH3
+AVAU1
+ATUI
+D$X1
+t$0H
+|$0H
+|$0H
+?vrI
+L$XdH3
+`[]A\A]A^
+|$0H
+T$ H
+|$@H
+t$@H
+t$`1
+t$`1
+|$@H
+AWAVI
+AUATI
+5Rf'
+|$ H
+t$ H
+D$PH
+D$@H
+|$@H
+|$`H
+T$@H
+t$`L
+|$@H
+D$PH9
+[]A\A]A^A_
+|$@H
+|$@H
+|$`H
+|$@H
+T$PH9
+|$@H
+D$PH9
+|$ H
+AVAUI
+ATU1
+D$(1
+D$(dH3
+0[]A\A]A^
+AWAVI
+AUATI
+D$(1
+D$(dH3
+8[]A\A]A^A_
+AVAUI
+[]A\A]A^
+ATUH
+[]A\
+CXH9
+CXH9
+ATUSH
+[]A\H
+[]A\
+AWAVAUATUSH
+D$PH
+|$@H
+D$@H
+L$HL
+t$@H
+\$`L)
+T$`H9
+T$pH
+T$hH
+l$`H
+|$`H
+|$@H
+D$PH9
+D$`H
+D$`H9
+D$pH
+D$hH
+|$ H
+|$`H
+9J }
+T$PH
+T$HH
+l$@H
+|$@H
+t$ H
+|$@H
+T$(L
+T$@H9
+t$PH
+|$XH
+0<	w
+|$@H
+L$HH
+T$ 9
+|$@H
+L$HH
+[]A\A]A^A_
+D$pH
+T$xH
+t$pH
+|$xH
+|$@H
+D$PH9
+|$`H
+|$`H
+|$@H
+D$PH9
+D$(1
+L$(dH3
+AUATUSH
+[]A\A]
+ATUI
+$w8H
+[]A\
+ATUH
+[]A\1
+[]A\
+AUATA
+|$0H
+t$0H
+|$0H
+|$@D
+t$@H
+|$ H
+L$ H
+T$0H
+D$0H
+|$0H
+D$0H
+t$0H
+[]A\A]
+|$`H
+T$0H
+|$ H
+|$ H
+AVAUI
+]A\A]A^
+AUATUSH
+E80{J
+([]A\A]
+ATUH
+D$81
+|$ H
+D$ H
+T$ H
+D$8dH3
+@[]A\
+t~L9
+seHi
+s2US
+ATUSH
+t]rK
+[]A\
+AVAUATUSH
+D$H1
+|$ H
+t$ H
+\$HdH3
+P[]A\A]A^
+AWAV1
+AUATUSH
+|$p1
+|$pH
+V$uW
+[]A\A]A^A_
+|$PH
+l$XH+l$PH
+D$PH
+l$HH
+D$@H
+T$PH
+t$@H
+|$PD
+l$XL
+d$PI
+|$PH
+L9l$
+|$0H
+D$0H
+|$PH
+T$0H
+|$ I
+L$ H
+T$@H
+D$@H
+d$XH
+l$PI9
+d$PM
+d$XH
+l$PH
+|$pH
+H9Fx
+|$pH
+D$XH+D$PH
+|$pH
+|$ H
+ATUA
+[]A\
+[]A\
+AUATUSH
+[]A\A]
+D$(H
+|$@H
+d$ H
+t$@H
+|$`L
+t$`H
+|$`H
+D$pH9
+|$@H
+D$PH9
+$$M9
+d$ H
+|$@H
+T$PH9
+|$`H
+T$pH9
+AWAV1
+ATUH
+|$ H
+|$0H
+|$@H
+|$PH
+|$`H
+D$pH
+|$pH
+[]A\A]A^A_
+AUAT
+t$@H
+|$ H
+\$XH
+L$`H
+D$ H
+T$0L
+D$0H
+D$@`
+t$@H
+\$XH
+L$`H
+L$ H
+T$0L
+D$0H
+L$0H
+T$@L
+D$@H
+t$@H
+|$ H
+\$XH
+L$ H
+T$0L
+D$0H
+L$0H
+T$@L
+D$@H
+t$@H
+|$ H
+\$XH
+T$ H
+T$0L
+D$0H
+t$@H
+\$XH
+T$ H
+T$0L
+D$0H
+L$0H
+T$@L
+D$@H
+|$0L
+L$0H
+T$@L
+D$@H
+L$0H
+T$@L
+D$@H
+D$@`RK
+t$@H
+|$ H
+\$XH
+T$ H
+T$0L
+D$0H
+|$0L
+L$0H
+T$@L
+D$@H
+L$0H
+T$@L
+D$@H
+t$@H
+|$ H
+\$XH
+T$ H
+T$0L
+D$0H
+t$@H
+\$XH
+Do nine men interpret Nine men I nod
+T$ H
+T$0L
+D$0H
+t$@H
+\$XH
+T$ H
+T$0L
+D$0H
+t$@H
+\$XH
+T$ H
+T$0L
+D$0H
+t$@H
+\$XH
+T$ H
+T$0L
+D$0H
+L$0H
+T$@L
+D$@H
+t$@H
+|$ H
+\$XH
+T$ H
+T$0L
+D$0H
+[]A\A]
+|$0H
+|$0H
+ATUSH
+|$0H
+t$@H
+\$XH
+D$0H
+|$ H
+t$ H
+L$@H
+|$0H
+t$0H
+L$0H
+T$@H
+D$@H
+t$@H
+|$ H
+\$XH
+T$ H
+T$0H
+D$0H
+|$0H
+L$0H
+T$@L
+D$@H
+t$@H
+|$0L
+\$XH
+t$`H
+D$0H
+|$ L
+t$ H
+D$@p
+t$@H
+|$0H
+\$XH
+L$0H
+|$ L
+t$ H
+t$@H
+|$0H
+\$XH
+D$0H
+|$ L
+t$ H
+|$@L
+t$@H
+D$@@zJ
+t$@H
+|$0L
+\$XH
+T$0H
+t$ H
+t$@H
+|$0H
+\$XH
+T$0H
+t$ H
+|$@L
+t$@H
+L$0H
+T$@L
+D$@H
+D$@`
+t$@H
+|$0H
+\$XH
+T$0H
+t$ H
+t$@H
+|$0L
+\$XH
+T$0H
+t$ H
+D$@`mK
+t$@H
+|$0H
+\$XH
+T$0H
+t$ H
+|$@L
+t$@H
+t$@H
+t$@H
+|$0L
+\$XH
+t$`H
+D$0H
+|$ L
+t$ H
+t$@H
+t$@H
+|$0H
+\$XH
+T$0H
+t$ H
+|$@H
+t$@H
+[]A\
+|$@H
+|$ H
+|$@H
+|$ H
+|$ H
+|$ H
+|$0H
+|$ H
+|$ H
+|$0H
+|$0H
+|$ H
+AVAUL
+T$pL
+|$@H
+|$pHc
+t$pH
+|$pHc
+t$pH
+|$0H
+L$0H
+T$@H
+D$@H
+|$@H
+D$@H
+t$@H
+|$ H
+|$ A
+|$0I
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+|$pL
+t$@H
+[]A\A]A^
+|$0H
+|$0H
+|$pH
+D$@H
+AWAVAUATUSH
+D$(1
+D$(dH3
+8[]A\A]A^A_
+AVAUL
+ATSH
+[A\A]A^]
+AWAVI
+AUATUSH
+|$`H
+d$hH
+\$`I
+|$HH;|$PH
+|$HH
+|$HH
+d$ H
+\$@H
+D$HH+D$@H
+|$@H
+Degas are we not drawn onward no In union drawn onward to new eras aged
+t$HH)
+l$hH
+\$`H9
+l$`H
+l$HH
+\$@H9
+l$@H
+l$(H
+\$ H9
+l$ H
+[]A\A]A^A_
+|$ H
+t$(H)
+\$@L
+d$ H
+d$ H
+d$ H
+d$ H
+d$ H
+d$ H
+d$ H
+d$ H
+AWAVAUATSH
+9J }
+C0H+C(H
+CHE1
+[A\A]A^A_]
+AVAUE1
+ATUSH
+[]A\A]A^
+D$h1
+|$ H
+t$ H
+|$@H
+t$@H
+|$@H
+D$hdH3
+|$@H
+AWAVAUATUSH
+T$P1
+t$(1
+t$ 1
+E80{J
+t$@1
+l$0H
+[]A\A]A^A_
+t$XH
+AWAVAUATUSH
+t$XH
+t$01
+t$(1
+E80{J
+t$H1
+l$8H
+[]A\A]A^A_
+ATUSH
+w@dH
+D$X1
+D$0H
+D$XdH3
+`[]A\
+AWAVAUATSH
+[A\A]A^A_]
+0<	w
+T$ 9
+AVATSI
+[A\A^]
+|$ dH
+D$H1
+T$ H
+D$HdH3
+AVATSI
+[A\A^]
+AVAUATSH
+g@dH
+t$4H
+[A\A]A^]
+C@E1
+wEHi
+AVATSH
+_@dH
+t$@E
+D$@AYAZ
+[A\A^]
+t$@H
+_AXH
+AWAVAUATSH
+_@dH
+[A\A]A^A_]
+AWAVAUATI
+_AXH
+[A\A]A^A_]
+AWAVAUATSH
+_@dH
+[A\A]A^A_]
+AWAVAUATA
+[A\A]A^A_]
+AWAVAUATSH
+[A\A]A^A_]
+t!f.
+AWAVAUATSH
+_AXL
+D$`H
+|$@H
+|$pH
+[A\A]A^A_]
+AYAZL
+D$`H
+|$@H
+|$pH
+AWAVAUATSH
+o@dH
+[A\A]A^A_]
+AVAUATUSH
+[]A\A]A^
+AUATUSH
+|$`H
+|$`H
+t$ H
+|$`H
+t$@H
+|$`H
+[]A\A]
+|$@H
+|$ H
+AVAUATUSH
+o@dH
+D$PH-N
+[]A\A]A^
+l$PH
+D$0H
+o@dH
+AWAVAUATI
+[A\A]A^A_]
+ATUSH
+w@dH
+|$0H
+|$0H
+|$PH
+|$`H
+D$@0oM
+[]A\
+ATUSH
+o@dH
+[]A\
+|$`H
+ATUSH
+w@dH
+[]A\
+|$`H
+AVATSH
+[A\A^]
+N@dH
+dH3<%(
+V@dH
+dH3<%(
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+D$(1
+D$(dH3
+AVAUA
+]A\A]A^
+[]A\A]A^
+AUATUSH
+[]A\A]
+ATUSH
+[]A\
+ATUI
+[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVAUATSH
+S H9
+t 9J }
+[A\A]A^A_]
+AWAVAUATSH
+9J }
+[A\A]A^A_]
+0<	w
+T$ 9
+ATUSH
+k(I9
+t"f.
+[]A\
+D$H1
+|$ H
+L$HdH3
+|$ H
+D$H1
+|$ H
+L$HdH3
+|$ H
+ATUH
+|$`dH
+|$ H
+t$ H
+t$@H
+t$`H
+[]A\
+ATUH
+|$`dH
+|$ H
+t$ H
+t$@H
+t$`H
+[]A\
+ATUI
+$w8H
+[]A\
+AWAV
+AUATI
+d$pH
+|$pI
+|$PH
+[]A\A]A^A_
+D$ H
+|$0H
+D$@H9
+D$ H9
+d$pH
+|$pI
+|$PH
+|$0H
+D$@H9
+|$pI
+|$pH
+|$PH
+D$`H9
+|$0H
+D$@H9
+T$ H9
+|$pH
+|$PH
+ATUSH
+|$PdH
+.ukH
+|$ H
+L9d$ 
+|$ H
+D$ H
+T$@H
+t$0H
+D$@H
+t$PH
+[]A\
+|$pH
+AUATI
+|$ dH
+D$H1
+|$ H
+|$ L
+L$HdH3
+X[]A\A]
+|$ H
+AVAUI
+ATUL
+o(SL
+D$H1
+D$HdH3
+P[]A\A]A^
+AWAVAUATI
+|$@H
+T$`H
+t$@H
+|$@L
+t$@L
+*D$ 
+l$8f
+*L$0
+uHH)
+[]A\A]A^A_
+D$8H
+t$@H
+t$(I
+AVAUI
+ATUL
+o(SH
+D$h1
+d$ L
+D$hdH3
+p[]A\A]A^
+AWAVH
+AUATUSH
+[]A\A]A^A_
+T$pt
+|$XH;|$`H
+|$XH
+|$XH
+D$8H;D$@
+t$pH
+|$0L
+|$XH;|$`
+t$PH
+T$0H
+D$8H)
+t$PL
+|$x1
+l$PA
+t$ H
+D$pI
+|$HL
+\$xH9
+l$xH
+T$0H
+D$8A
+d$XH
+l$PI9
+d$PM
+|$0H
+|$xH
+|$0H
+AWAVI
+AUATI
+|$@H
+D$ H
+t$0L
+t$(H
+l$8L
+Hct$ H
+d$0H
+l$(I9
+d$(M
+[]A\A]A^A_
+|$`H
+t$`H
+t$@H
+9J }
+0<	w
+T$ 9
+L;$$
+~PE1
+t$@H
+|$(H
+AWAVI
+AUATI
+D$(1
+t'f.
+t^H)
+L$(dH3
+8[]A\A]A^A_
+D$(1
+T$(dH3
+AVAUE1
+ATUI
+D$(1
+L$(dH3
+0[]A\A]A^
+ATUSH
+[]A\
+AUATL
+[]A\A]
+[]A\A]
+AVAUATUI
+[]A\A]A^
+AVAUI
+ATUI
+l$PI
+\$HM
+l$HH
+[]A\A]A^
+AUATI
+[]A\A]
+AUATUI
+[]A\A]A^
+[]A\A]A^
+]A\A]A^
+T$ 1
+]A\A]A^
+D$ H9
+AVAUI
+ATUH
+[]A\A]A^
+kHI9
+]A\A]A^
+kHI9
+ATUI
+|$ H
+|$@H
+t$ H
+t$@H
+t$`H
+[]A\
+|$ dH
+D$h1
+|$@H
+t$ H
+L$hdH3
+|$@H
+ATUI
+|$ L
+|$@H
+t$ H
+t$@H
+t$`H
+[]A\
+AUATA
+t$`H
+t$@H
+t$`H
+C8`@L
+[]A\A]
+|$ H
+AUATI
+[xH+]xH
+|$ H
+t$ H
+[]A\A]
+t$@H
+|$`H
+t$`H
+|$ H
+ATUI
+$w8H
+[]A\
+AWAVAUATUSH
+D$X1
+|$0H
+t$0H
+D$XdH3
+h[]A\A]A^A_
+|$0H
+AUATI
+|$@L
+t$ H
+t$@H
+[]A\A]
+|$`H
+AUATI
+|$@L
+t$ H
+t$@H
+t$`H
+[]A\A]
+AUATUSH
+|$ H
+t$ H
+D$PH
+|$@H
+D$@H
+t$@H
+|$`H
+D$pL
+d$hH9
+|$@H
+D$PH9
+[]A\A]
+t$@H
+D$PH
+t$@H
+|$`H
+D$pL
+d$hH9
+|$@H
+D$PH9
+D$PH
+t$@H
+|$`H
+D$pL
+d$hH9
+|$@H
+D$PH9
+D$PH
+t$@H
+|$`H
+D$pL
+d$hH9
+|$@H
+D$PH9
+D$PH
+t$@H
+|$`H
+D$pL
+d$hH9
+|$@H
+D$PH9
+D$PH
+t$@H
+|$`H
+D$pL
+d$hH9
+|$@H
+D$PH9
+D$PH
+t$@H
+|$`H
+D$pL
+d$hH9
+|$@H
+D$PH9
+T$@H
+|$`L
+|$`A
+D$PH
+t$@H
+|$`H
+D$pL
+d$hH9
+|$@H
+D$PH9
+D$PH
+t$@H
+|$`H
+D$pL
+d$hH9
+|$@H
+D$PH9
+D$PH
+t$@H
+|$`H
+D$pL
+d$hH9
+|$@H
+D$PH9
+D$PH
+t$@H
+|$`H
+D$pL
+d$hH9
+|$@H
+D$PH9
+D$PH
+t$@H
+|$`H
+D$pL
+d$hH9
+|$@H
+D$PH9
+D$PH
+t$@H
+|$`H
+D$pL
+d$hH9
+|$@H
+D$PH9
+|$@H
+D$PH9
+|$`H
+|$@H
+D$PH9
+AWAVAUATI
+|$ dH
+D$h1
+|$@H
+t$@H
+D$hdH3
+x[]A\A]A^A_
+M9t$
+t-fA
+|$@H
+AWAVAUATUSH
+|$ dH
+|$@H
+t$@H
+|$ H
+t$ H
+|$`H
+t$`H
+[]A\A]A^A_
+|$`H
+|$@H
+AUATUSH
+|$ dH
+D$h1
+|$@H
+t$ H
+T$ H
+|$@L
+D$hdH3
+x[]A\A]
+|$@H
+|$@H
+AUATUSH
+|$ dH
+D$h1
+|$@H
+t$ H
+T$ H
+|$@L
+t$@H
+D$hdH3
+x[]A\A]
+|$@H
+|$@H
+AVAUATUI
+|$0dH
+D$x1
+t$0H
+|$PA
+|$PL
+|$PL
+D$xdH3
+[]A\A]A^
+|$PH
+|$PA
+|$PH
+|$PH
+|$PA
+|$PH
+|$PH
+ATUH
+[]A\
+ATUH
+|$`dH
+|$ H
+t$ H
+t$@H
+t$`H
+[]A\
+mkfs.f2fH
+D$H1
+|$ H
+|$ H
+D$0H
+l$(H9
+T$HdH3
+AUATI
+USHc
+[]A\A]
+|$ dH
+D$H1
+t$ H
+L$HdH3
+ATUI
+|$ dH
+D$h1
+|$@H
+t$ H
+L$hdH3
+p[]A\
+|$@H
+ATU1
+D$H1
+mkfs.fatH
+|$ H
+D$0L
+d$(H9
+|$ H
+fsck.fatH
+|$ H
+D$0L
+d$(H9
+|$ H
+mdirH
+|$ H
+D$0H
+l$(H9
+mlabH
+|$ H
+D$0H
+l$(H9
+L$HdH3
+P[]A\
+dosfH
+|$ H
+D$0L
+d$(H9
+mkdoH
+|$ H
+D$0L
+d$(H9
+AVAUI
+ATUI
+D$H1
+|$ 1
+L$HdH3
+P[]A\A]A^
+|$ H
+AUATI
+|$ H
+|$ A
+t$@H
+t$`H
+[]A\A]
+|$`H
+|$ H
+ATUH
+t$ H
+|$@H
+t$@H
+t$`H
+[]A\
+ATUH
+|$@dH
+D$h1
+t$@H
+|$@L
+T$ H
+|$@H
+t$@H
+D$hdH3
+p[]A\
+|$@H
+AUATL
+g(USH
+|$@dH
+t$@H
+|$`A
+|$ H
+T$@H
+t$ H
+t$`H
+[]A\A]
+|$`H
+|$`H
+AVAUATUI
+|$ dH
+D$h1
+|$@H
+t$ H
+D$hdH3
+p[]A\A]A^
+|$ L
+t$ 1
+|$@L
+|$@H
+|$@A
+|$@H
+|$@A
+CXH)CP
+|$@H
+|$@A
+|$@H
+|$@H
+|$@H
+|$@H
+D$H1
+|$ H
+L$HdH3
+|$ H
+AUATI
+|$ H
+|$ A
+t$@H
+t$`H
+[]A\A]
+|$`H
+|$ H
+D$H1
+|$ H
+hforf
+|$ H
+D$0H
+l$(H9
+hfscH
+|$ H
+D$0H
+l$(H9
+vol_H
+|$ H
+D$0H
+l$(H9
+L$HdH3
+AUATL
+g(USH
+D$H1
+|$ H
+|$ A
+T$ H
+t$ H
+D$HdH3
+X[]A\A]
+|$ H
+|$ H
+D$H1
+|$ H
+L$HdH3
+|$ H
+AUATI
+|$ H
+|$ A
+t$@H
+t$`H
+[]A\A]
+|$`H
+|$ H
+mkfs.hfsH
+D$H1
+|$ H
+plusH
+|$ H
+D$0H
+l$(H9
+fsck.hfsH
+|$ H
+plusH
+|$ H
+D$0H
+l$(H9
+vol_H
+|$ H
+D$0H
+l$(H9
+L$HdH3
+AUATL
+g(USH
+D$H1
+|$ H
+|$ A
+T$ H
+t$ H
+D$HdH3
+X[]A\A]
+|$ H
+|$ H
+ATUH
+|$`dH
+|$ H
+t$ H
+t$@H
+t$`H
+[]A\
+D$H1
+|$ H
+L$HdH3
+|$ H
+ATUH
+|$`dH
+|$ H
+t$ H
+t$@H
+t$`H
+[]A\
+AVAUI
+ATUI
+T$ H
+|$@L
+t$@H
+[]A\A]A^
+|$`H
+t$`H
+|$@H
+ATUI
+D$H1
+|$ H
+L$HdH3
+P[]A\
+|$ H
+ATUH
+jfs_debuSH
+D$pH
+D$`f
+|$`H
+D$pH9
+D$pH
+t$`H
+D$`H
+jfs_tuneH
+|$`H
+D$pH9
+D$pH
+t$`H
+D$`H
+mkfs.jfsH
+|$`H
+D$pH9
+D$pH
+t$`H
+D$`H
+jfs_fsckH
+|$`H
+D$pH9
+mounH
+k0E1
+|$ H
+D$0H9
+[]A\
+t$@H
+D$PumouH
+k0u:H
+|$`H
+D$pH9
+|$@H
+D$PH9
+|$`H
+D$pH9
+|$@H
+D$PH9
+|$ H
+D$0H9
+|$`H
+D$pH9
+AUATL
+g(USH
+D$H1
+|$ H
+|$ A
+|$ H
+D$HdH3
+X[]A\A]
+|$ H
+AUATL
+g(USH
+D$H1
+|$ H
+|$ A
+|$ H
+t$ H
+D$HdH3
+X[]A\A]
+|$ H
+AVAUATUI
+D$h1
+|$ H
+t$ H
+|$@A
+D$hdH3
+p[]A\A]A^
+|$@H
+|$@A
+|$@H
+|$@H
+|$@A
+|$@H
+|$@H
+=17%
+[]A\
+[]A\
+[]A\
+ATUH
+|$`dH
+|$ H
+t$ H
+t$@H
+t$`H
+[]A\
+ATUH
+|$`dH
+|$ H
+t$ H
+t$@H
+t$`H
+[]A\
+|$`dH
+|$ H
+t$ H
+t$@H
+t$`H
+ATUI
+$w8H
+[]A\
+D$H1
+|$ H
+|$ H
+D$0H
+l$(H9
+|$ H
+|$ H
+D$0H
+l$(H9
+L$HdH3
+AUATI
+|$ H
+t$ H
+|$@H
+t$@H
+|$`1
+t$`H
+|$@H
+t$@H
+t$`H
+|$`L
+|$ L
+t$ H
+t$@H
+|$`H
+t$`H
+[]A\A]
+|$`H
+|$`H
+|$ H
+t$ H
+|$@H
+t$@H
+t$`H
+|$`H
+|$ H
+t$ H
+|$@H
+t$@H
+t$`H
+|$`H
+AWAVI
+AUATUSH
+H9l$
+|$ L
+d$ H
+t$ H
+|$@L
+A Santa lives evil at NASA
+|$ L9
+@0H=
+[]A\A]A^A_
+_PH9
+4$H)
+D$pH
+|$`H
+D$`H
+|$`1
+|$`H
+D$pH9
+|$ H
+T$0H9
+|$@H
+AUATL
+g(USH
+D$H1
+|$ H
+|$ A
+|$ H
+t$ H
+D$HdH3
+X[]A\A]
+|$ H
+AUATL
+g(USH
+D$H1
+|$ H
+|$ A
+|$ H
+D$HdH3
+X[]A\A]
+|$ H
+[]A\
+[]A\
+[]A\
+[]A\
+D$H1
+|$ H
+L$HdH3
+|$ H
+D$H1
+|$ H
+L$HdH3
+|$ H
+AUATA
+t$ H
+t$@H
+t$`H
+[]A\A]
+|$`H
+ATUH
+t$@H
+t$`H
+[]A\
+|$`H
+AUATUSH
+|$ dH
+D$H1
+|$ H
+|$ H
+|$ H
+|$ H
+t$ H
+D$HdH3
+X[]A\A]
+|$ H
+AVAUI
+ATUI
+<.L9
+]A\A]A^
+ATUH
+|$`dH
+|$ H
+t$ H
+t$@H
+t$`H
+[]A\
+ATUH
+|$`dH
+|$ H
+t$ H
+t$@H
+t$`H
+[]A\
+|$`dH
+|$ H
+t$ H
+t$@H
+t$`H
+AWAVA
+AUATI
+[]A\A]A^A_
+T$ H
+|$@L
+t$@H
+|$`H
+t$`H
+|$@H
+mkfs.nilH
+nilfs-tu
+mounH
+|$ H
+D$0H9
+[]A\
+t$@H
+D$PumouH
+|$`H
+D$pH9
+|$@H
+D$PH9
+nilfs-reH
+sizeH
+|$@H
+D$PH9
+|$ H
+D$0H9
+|$`H
+D$pH9
+AUATL
+g(USH
+D$H1
+|$ H
+|$ A
+|$ H
+D$HdH3
+X[]A\A]
+|$ H
+AUATL
+g(USH
+D$H1
+|$ H
+|$ A
+T$ H
+t$ H
+D$HdH3
+X[]A\A]
+|$ H
+|$ H
+AVAUATUI
+D$H1
+|$ H
+|$ A
+|$ H
+|$ A
+D$HdH3
+P[]A\A]A^
+|$ H
+|$ H
+|$ A
+|$ H
+|$ H
+AUATI
+USHc
+[]A\A]
+D$H1
+|$ H
+L$HdH3
+|$ H
+ATUH
+|$`dH
+|$ H
+t$ H
+t$@H
+t$`H
+[]A\
+ATUH
+|$`dH
+|$ H
+t$ H
+t$@H
+t$`H
+[]A\
+ATUI
+|$`dH
+|$ H
+t$ H
+t$@H
+t$`H
+[]A\
+AUATI
+D$H1
+L$HdH3
+X[]A\A]
+AVAUI
+ATUI
+|$ dH
+t$@H
+t$`H
+t$ H
+|$hH
+[]A\A]A^
+|$`H
+AWAVH
+AUATI
+D$H1
+|$ H
+D$HdH3
+X[]A\A]A^A_
+M9t$
+t-fA
+ATUH
+ntfsresiSH
+D$@H
+L$Pf
+|$`H
+|$`H
+D$pL
+d$hH9
+|$@H
+D$PH9
+D$PH
+ntfslabeH
+t$@H
+|$`H
+T$PH
+D$H	
+|$`H
+D$pL
+d$hH9
+|$@H
+D$PH9
+|$ 1
+T$@H
+|$`H
+t$`H
+D$PmkntH
+|$`H
+D$@f
+t$@H
+|$`H
+D$pH
+l$hH9
+|$@H
+D$PH9
+D$PH
+ntfsclonH
+t$@H
+|$`H
+L$PH
+D$H	
+|$`H
+D$pH
+l$hH9
+|$@H
+D$PH9
+[]A\
+|$@H
+D$PH9
+|$@H
+T$PH
+|$`H
+|$ H
+AUATL
+g(USH
+D$H1
+|$ H
+|$ 1
+|$ A
+|$ H
+t$ H
+D$HdH3
+X[]A\A]
+|$ H
+AUATI
+D$H1
+|$ H
+D$HdH3
+X[]A\A]
+|$ H
+|$ A
+|$ H
+|$ A
+|$ H
+|$ H
+ATUH
+[]A\
+D$H1
+|$ H
+L$HdH3
+|$ H
+ATUH
+|$`dH
+|$ H
+t$ H
+t$@H
+t$`H
+[]A\
+debugfs.H
+D$H1
+|$ H
+reisf
+|$ H
+D$0H
+l$(H9
+mkfs.reiH
+|$ H
+ser4H
+|$ H
+D$0H
+l$(H9
+fsck.reiH
+|$ H
+ser4H
+|$ H
+D$0H
+l$(H9
+T$HdH3
+AUATL
+g(USH
+D$H1
+|$ H
+|$ A
+|$ H
+D$HdH3
+X[]A\A]
+|$ H
+AUATL
+g(USH
+D$H1
+|$ H
+|$ A
+T$ H
+t$ H
+D$HdH3
+X[]A\A]
+|$ H
+|$ H
+AVAUATUI
+D$H1
+|$ H
+|$ A
+D$HdH3
+P[]A\A]A^
+|$ H
+|$ A
+|$ H
+|$ H
+|$ A
+|$ H
+|$ H
+D$H1
+|$ H
+L$HdH3
+|$ H
+ATUH
+|$`dH
+|$ H
+t$ H
+t$@H
+t$`H
+[]A\
+ATUH
+|$`dH
+|$ H
+t$ H
+t$@H
+t$`H
+[]A\
+AUATA
+t$ H
+t$@H
+[]A\A]
+|$`H
+|$`H
+|$@H
+ATUI
+D$H1
+|$ H
+L$HdH3
+P[]A\
+|$ H
+ATUH
+debugreiSH
+D$H1
+|$ H
+serf
+|$ H
+D$0H
+l$(H9
+reiserfsH
+|$ H
+tuneH
+|$ H
+D$0H
+l$(H9
+mkreiserH
+|$ H
+|$ H
+D$0H
+l$(H9
+reiserfs
+|$ H
+|$ H
+D$0H
+l$(H9
+resize_r
+|$ H
+eisef
+|$ H
+D$0H9
+T$HdH3
+P[]A\
+AUATL
+g(USH
+D$H1
+|$ H
+|$ A
+|$ H
+D$HdH3
+X[]A\A]
+|$ H
+AUATL
+g(USH
+D$H1
+|$ H
+|$ A
+|$ H
+t$ H
+D$HdH3
+X[]A\A]
+|$ H
+AVAUATUI
+D$H1
+|$ H
+|$ A
+D$HdH3
+P[]A\A]A^
+|$ H
+|$ A
+|$ H
+|$ H
+|$ A
+|$ H
+|$ H
+D$H1
+|$ H
+L$HdH3
+|$ H
+D$H1
+|$ H
+L$HdH3
+|$ H
+AUATI
+|$ H
+|$ A
+t$@H
+t$`H
+[]A\A]
+|$`H
+|$ H
+ATUH
+|$`dH
+|$ H
+t$ H
+t$@H
+t$`H
+[]A\
+AVAUI
+ATUI
+T$ H
+|$@L
+t$@H
+[]A\A]A^
+|$`H
+t$`H
+|$@H
+AWAVI
+AUATH
+[]A\A]A^A_
+T$@H
+|$ L
+|$`H
+t$`L
+t$ H
+t$ H
+t$ H
+|$@H
+|$`H
+AUATA
+D$pxfs_fD
+|$`H
+D$pH9
+D$pH
+xfs_admiH
+t$`H
+L$pH
+D$h	
+|$`H
+D$pH9
+D$pH
+t$`H
+D$`H
+mkfs.xfsH
+|$`H
+D$pH9
+D$pH
+xfs_repaA
+t$`H
+T$pH
+D$`fD
+|$`H
+D$pH9
+mounH
+|$ H
+D$0H9
+[]A\A]
+l$@A
+D$PumouH
+D$@fD
+|$`H
+D$pH9
+|$@H
+xfs_growH
+T$pH
+t$`H
+D$`f
+|$`H
+D$pH9
+D$0xfsdH
+D$ f
+|$@H
+|$ H
+D$0H9
+D$pH
+xfsrestoH
+t$`H
+L$pH
+D$`f
+|$`H
+D$pH9
+|$ H
+D$0H9
+|$`H
+D$pH9
+|$@H
+|$`H
+D$pH9
+|$@H
+D$PH9
+|$ H
+D$0H9
+|$`H
+D$pH9
+AUATL
+g(USH
+D$H1
+|$ H
+|$ A
+|$ H
+t$ H
+D$HdH3
+X[]A\A]
+|$ H
+AUATL
+g(USH
+D$H1
+|$ H
+|$ A
+|$ H
+D$HdH3
+X[]A\A]
+|$ H
+AVAUATUI
+D$H1
+|$ H
+|$ A
+D$HdH3
+P[]A\A]A^
+|$ H
+|$ A
+|$ H
+|$ H
+|$ H
+AWAVA
+AUATL
+[]A\A]A^A_
+basic_string::_M_construct null not valid
+%1 of %2 copied (%3 remaining)
+%s: __pos (which is %zu) > this->size() (which is %zu)
+copy %1 using a block size of %2
+Error while writing block at sector %1
+Error while reading block at sector %1
+(New UUID - will be randomly generated)
+(Half new UUID - will be randomly generated)
+basic_string::replace
+basic_string::substr
+%1 of %2 copied
+WCHAR_T
+UTF-8
+Operation Canceled
+?udevadm info --query=all --name=
+dmraid -sa -c
+^(no raid disks).*
+no raid disks
+dmsetup
+udevinfo
+udevadm
+nice -n 19 
+udevinfo --query=all --name=
+^E: DM_NAME=([^
+]*)$
+/dev/dm
+(/dev/dm-[0-9]+)p[0-9]+
+p?([0-9]+)
+/dev/dm-[0-9]+p([0-9]+)
+dmraid -ay -P "" -v
+dmraid -ay -v
+create missing %1 entries
+control
+dmsetup remove 
+delete affected %1 entries
+delete %1 entry
+update %1 entry
+/dev/mapper/
+vector::_M_range_insert
+This chart shows the actions supported on file systems.
+Not all actions are available on all file systems, in part due to the nature of file systems and limitations in the required software.
+title
+Create
+Grow
+Shrink
+Copy
+Check
+Label
+UUID
+Required Software
+Available offline and online
+Available offline only
+Not Available
+Legend
+Rescan For Supported Actions
+N7GParted14DialogFeatures28treeview_filesystems_ColumnsE
+N7GParted14DialogFeaturesE
+<span weight="bold" size="larger">
+Manage flags on %1
+</span>
+N7GParted17DialogManageFlags22treeview_flags_ColumnsE
+N7GParted17DialogManageFlagsE
+Resize
+Minimum size: %1 MiB
+Maximum size: %1 MiB
+Free space preceding (MiB):
+New size (MiB):
+Free space following (MiB):
+Align to:
+Cylinder
+None
+N7GParted21Dialog_Base_PartitionE
+?WARNING:  This will ERASE ALL DATA on the ENTIRE DISK %1
+Select new partition table type:
+Create partition table on %1
+msdos
+N3Gtk12ComboBoxTextE
+N3Gtk12ComboBoxText16TextModelColumnsE
+N7GParted16Dialog_DisklabelE
+Set file system label on %1
+Label:
+N7GParted23Dialog_FileSystem_LabelE
+Paste %1
+N7GParted21Dialog_Partition_CopyE
+0ABusy (At least one logical partition is mounted)
+Not busy (There are no mounted logical partitions)
+Not active (Not a member of any volume group)
+#F8F8BA
+white
+darkgrey
+black
+File system:
+UUID:
+Status:
+Active
+Mounted on %1
+Not active
+Not active and exported
+Not mounted
+Volume Group:
+Members:
+Logical Volumes:
+Used:
+Unused:
+Unallocated:
+Path:
+Name:
+Flags:
+First sector:
+Last sector:
+Total sectors:
+Information about %1
+Warning:
+<b> 
+ </b>
+</i>
+N7GParted21Dialog_Partition_InfoE
+?Set partition name on %1
+N7GParted21Dialog_Partition_NameE
+Create as:
+Primary Partition
+Logical Partition
+Extended Partition
+Partition name:
+New Partition #%1
+Create new Partition
+N7GParted20Dialog_Partition_NewE
+Resize/Move %1
+Resize %1
+N7GParted28Dialog_Partition_Resize_MoveE
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+Depending on the number and type of operations this might take a long time.
+All operations successfully completed
+An error occurred while applying the operations
+See the details for more information.
+If you want support, you need to provide the saved details!
+http://gparted.org/save-details.htm
+Are you sure you want to cancel the current operation?
+Canceling an operation might cause SEVERE file system damage.
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='
+<meta http-equiv='Content-Type' content='text/html;charset=utf-8' />
+<p>========================================</p>
+</i>
+<br />
+<table border='0'>
+<tr>
+<td colspan='2'>
+&nbsp;&nbsp;&nbsp;&nbsp;
+EXECUTING
+SUCCESS
+ERROR
+INFO
+</td>
+</tr>
+</table>
+<td>
+Force Cancel (%1)
+Force Cancel
+Applying pending operations
+Completed Operations:
+%1 of %2 operations completed
+Operation cancelled
+%1 warnings
+%1 warning
+IMPORTANT
+<i><b>
+</b>
+See %1 for more information.
+_Save Details
+Continue Operation
+Cancel Operation
+gparted_details.htm
+Libparted
+GParted Details
+ lang='
+<head>
+<title>
+</title>
+</head>
+<body>
+0.25.0
+ --enable-libparted-dmraid
+ --enable-online-resize
+</p>
+</body>
+</html>
+N7GParted15Dialog_Progress27treeview_operations_ColumnsE
+N7GParted15Dialog_ProgressE
+?^Primary partition\(+([0-9])+\)$
+^[	 ]+type: +([0-9]+)+\(+[a-zA-Z0-9]+\)\(+.+\)$
+^[	 ]+size: [0-9]+mb #s\(+[0-9]+\) s\(+([0-9]+)+\-+[0-9]+\)$
+^[	 ]+size: [0-9]+mb #s\(+[0-9]+\) s\(+[0-9]+\-+([0-9]+)+\)$
+Data found with inconsistencies
+WARNING!: The file systems marked with (!) are inconsistent.
+You might encounter errors trying to view these file systems.
+The 'View' buttons create read-only views of each file system.
+All mounted views will be unmounted when you close this dialog.
+Number of inconsistencies found
+Guessed primary partition table:
+The file system is mounted on:
+Unable to open the default file manager
+Warning: The detected file system area overlaps with at least one existing partition
+It is recommended that you do not use any overlapping file systems to avoid disturbing existing data.
+Do you want to try to deactivate the following mount points?
+An error occurred while creating a temporary directory for use as a mount point.
+Failed creating temporary directory
+An error occurred while creating the read-only view.
+Either the file system can not be mounted (like swap), or there are inconsistencies or errors in the file system.
+Failed creating read-only view
+Search disk for file systems
+Primary partition
+%1%2
+type:
+File systems
+basic_string::append
+/3/4, ReiserFs or XFS
+#%1: %2 (%3 MiB)
+ (!)
+File systems found on %1
+<big><b>
+Data found
+</b></big>
+file:
+Error:
+ mounted on 
+umount 
+mount -o ro,loop,offset=
+,sizelimit=
+N7GParted18Dialog_Rescue_DataE
+N7GParted21DrawingAreaVisualDiskE
+blkid
+blkid -v
+blkid.* ([0-9\.]+) 
+vol_id
+:([^
+]*)$
+ TYPE="([^"]*)"
+ SEC_TYPE="([^"]*)"
+vfat
+blkid -c /dev/null 
+fat16
+fat32
+ID_FS_TYPE=([^
+vol_id 
+( LABEL=")
+ LABEL="([^"]*)"
+ UUID="([^"]*)"
+ID_FS_UUID=([^
+^([^:]*):.* UUID="
+".*$
+^([^:]*):.* LABEL="
+_Mount
+_Unmount
+/gparted-
+XXXXXX
+%.*s
+mkdir -v 
+mkdtemp(%1): %2
+Created directory %1
+rmdir -v 
+rmdir(%1): 
+Removed directory %1
+N4Glib10SpawnErrorE
+N7GParted10FileSystemE
+lightgrey
+18Frame_Resizer_Base
+22Frame_Resizer_Extended
+^[[:blank:]]*Serial Number:[[:blank:]]*(.*)[[:blank:]]*$
+Linux Unified Key Setup encryption is not yet supported.
+Unable to detect file system! Possible reasons are:
+The file system is unknown to GParted
+There is no file system available (unformatted)
+The device entry %1 is missing
+Set partition name to "%1" on %2
+update boot sector of %1 file system on %2
+Error trying to write to boot sector in %1
+Error trying to seek to position 0x1c in %1
+Failed to set the number of hidden sectors to %1 in the NTFS boot record.
+You might try the following command to correct the problem:
+echo %1 | xxd -r -p | dd conv=notrunc of=%2 bs=1 seek=28
+^[^[:blank:]]+ on ([^[:blank:]]+) 
+Set file system label to "%1" on %2
+Set half of the UUID on %1 to a new, random value
+Set UUID on %1 to a new, random value
+check file system on %1 for errors and (if possible) fix them
+checking is not available for this file system
+Unable to read the contents of this file system!
+Because of this some operations may be unavailable.
+The cause might be a missing software package.
+The following list of software packages is required for %1 file system support:  %2.
+%1 of unallocated space within the partition.
+To grow the file system to fill the partition, select the partition and choose the menu item:
+new and old file system have the same size.  Hence skipping this operation
+grow file system to fill the partition
+growing is not available for this file system
+growing the file system is currently disallowed
+A partition cannot have a length of %1 sectors
+A partition with used sectors (%1) greater than its length (%2) is not valid
+shrink partition from %1 to %2
+new and old partition have the same size and position.  Hence skipping this operation
+move partition to the right and grow it from %1 to %2
+move partition to the right and shrink it from %1 to %2
+move partition to the left and grow it from %1 to %2
+move partition to the left and shrink it from %1 to %2
+resizing requires old and new start to be the same
+calculate new size and position of %1
+clear old file system signatures in %1
+write %1 of zeros at byte offset %2
+flush operating system cache of %1
+the destination is smaller than the source partition
+new and old file system have the same position.  Hence skipping this operation
+moving requires old and new length to be the same
+rollback last change to the partition table
+udevsettle
+hdparm
+/dev/root
+rootfs
+Partition path not found
+hdparm -I 
+none
+ReIsEr4
+LABELONE
+LVM2
+LUKS
+_BHRfS_M
+-FVE-FS-
+lp_device != NULL
+GParted_Core.cc
+udevsettle --timeout=
+udevadm settle --timeout=
+delete partition
+using libparted
+Libparted Information
+Libparted Warning
+Libparted Error
+Libparted Fatal
+Libparted Bug
+Libparted Unsupported Feature
+Libparted unknown exception
+Retry
+Ignore
+gpart
+LC_ALL=C
+PATH
+PATH=
+extended
+exfat
+ext2
+ext3
+ext4
+ext4dev
+linux-swap(v1)
+linux-swap(new)
+linux-swap(v0)
+linux-swap(old)
+LVM2_member
+f2fs
+nilfs2
+ntfs
+reiserfs
+hfs+
+hfsx
+hfsplus
+linux_raid_member
+swsusp
+swsuspend
+zfs_member
+The file system is damaged
+linux-swap
+crypto_LUKS
+ReFS
+Clear partition name on %1
+Error trying to open %1
+set partition type on %1
+new partition flag: %1
+new partition type: %1
+^UUID=(.*)
+^LABEL=(.*)
+^([^[:blank:]]+) on 
+^(/[^ ]+)
+create new %1 file system
+delete %1 file system
+Clear file system label on %1
+Unable to find mount point
+Partition --> Check.
+shrink file system
+grow file system
+resize file system
+======================
+libparted : 
+resize/move partition
+move partition to the right
+move partition to the left
+grow partition from %1 to %2
+old size: %1 (%2)
+old end: %1
+old start: %1
+new size: %1 (%2)
+new end: %1
+new start: %1
+requested size: %1 (%2)
+requested end: %1
+requested start: %1
+create empty partition
+path: %1 (%2)
+calibrate %1
+using internal algorithm
+copy %1
+finding optimal block size
+%1 seconds
+optimal block size is %1
+%1 (%2 B) copied
+roll back last transaction
+copy file system of %1 to %2
+move file system to the left
+move file system to the right
+move file system
+libparted messages
+/proc/mounts
+/proc/swaps
+/etc/fstab
+Scanning %1
+Confirming %1
+Beeb
+Searching %1 partitions
+loop
+unrecognized
+static bool GParted::GParted_Core::useable_device(PedDevice*)
+N7GParted15PedExceptionMsgE
+.A_Undo Last Operation
+_Clear All Operations
+_Apply All Operations
+N7GParted14HBoxOperations27treeview_operations_ColumnsE
+N7GParted14HBoxOperationsE
+lvm vgscan
+lvm pvs --config "log{command_names=0}" --nosuffix --noheadings --separator , --units b -o pv_name,pv_size,pv_free,vg_name
+lvm pvs --config "log{command_names=0}" --nosuffix --noheadings --separator , --units b -o vg_name,vg_attr,lv_name,lv_attr
+An error occurred reading LVM2 configuration!
+Some or all of the details might be missing or incorrect.
+You should NOT modify any LVM2 PV partitions.
+One or more Physical Volumes belonging to the Volume Group is missing.
+N7GParted9OperationE
+Set half the UUID to a new random value on %1 file system on %2
+Set a new random UUID on %1 file system on %2
+N7GParted19OperationChangeUUIDE
+Check and repair file system (%1) on %2
+N7GParted14OperationCheckE
+Copy %1 to %2 (start at %3)
+Copy %1 to %2
+copy of %1
+N7GParted13OperationCopyE
+Create %1 #%2 (%3, %4) on %5
+N7GParted15OperationCreateE
+Delete %1 (%2, %3) from %4
+N7GParted15OperationDeleteE
+<b><i>
+</i></b>
+N4Glib9ExceptionE
+Format %1 as %2
+N7GParted15OperationFormatE
+Set file system label "%1" on %2
+N7GParted24OperationLabelFileSystemE
+Set partition name "%1" on %2
+N7GParted22OperationNamePartitionE
+new and old partition have the same size and position.  Hence continuing anyway
+Move %1 to the left and grow it from %2 to %3
+Move %1 to the left and shrink it from %2 to %3
+Move %1 to the right and shrink it from %2 to %3
+Move %1 to the right and grow it from %2 to %3
+Move %1 to the left
+Shrink %1 from %2 to %3
+Move %1 to the right
+Grow %1 from %2 to %3
+resize/move %1
+N7GParted19OperationResizeMoveE
+?Pipe IOChannel read failed
+^[	 ]+[0-9]+[	 ]+[0-9]+[	 ]+[0-9]+[	 ]+([^0-9]+)$
+^[	 ]+[0-9]+[	 ]+[0-9]+[	 ]+[0-9]+[	 ]+(md[0-9]+)$
+^[	 ]+[0-9]+[	 ]+[0-9]+[	 ]+[0-9]+[	 ]+(mmcblk[0-9]+)$
+^[	 ]+[0-9]+[	 ]+[0-9]+[	 ]+[0-9]+[	 ]+(nvme[0-9]+n[0-9]+)$
+^[	 ]+[0-9]+[	 ]+[0-9]+[	 ]+[0-9]+[	 ]+([a-z]+/c[0-9]+d[0-9]+)$
+/proc/partitions
+/dev/
+%*d %*d %*d %4096s
+ARRAY 
+metadata=([[:graph:]]+)
+0.90
+name=(.*)$
+devices=
+/proc/mdstat
+ : active 
+ blocks 
+UUID=([[:graph:]]+)
+devices=([[:graph:]]+)
+super ([[:graph:]]+)
+^([[:xdigit:]]{8}:[[:xdigit:]]{8}:[[:xdigit:]]{8}:[[:xdigit:]]{8})$
+mdadm --examine --scan --verbose
+Name
+Mount Point
+Size
+Used
+Unused
+N7GParted15TreeView_Detail23treeview_detail_ColumnsE
+N7GParted15TreeView_DetailE
+PKN7GParted9PartitionE
+LC_ALL
+#A9A9A9
+#000000
+#7DFCFE
+#FF9955
+#9DB8D2
+#7590AE
+#4B6983
+#C1665A
+#DF421E
+#00FF00
+#18D918
+#2E8B57
+#826647
+#42E5AC
+#ADA7C8
+#887FA3
+#EED680
+#E0C39E
+#E0B6AF
+#C0A39E
+#D1940C
+#FFFFFF
+#B39169
+#494066
+#625B81
+#5A4733
+#884631
+#2AB98A
+#CC763D
+amiga
+pc98
+unallocated
+unknown
+unformatted
+cleared
+reiser4
+unused
+lvm2 pv
+bitlocker
+crypt-luks
+linux-raid
+linux-suspend
+refs
+btrfs-progs / btrfs-tools
+e2fsprogs
+e2fsprogs v1.41+
+f2fs-tools
+dosfstools, mtools
+hfsutils
+hfsprogs
+jfsutils
+util-linux
+lvm2
+nilfs-utils
+ntfs-3g / ntfsprogs
+reiser4progs
+xfsprogs, xfsdump
+Unexpected wait status 
+statvfs("
+"): 
+/proc/version
+Linux version %d.%d.%d
+/proc/filesystems
+modprobe 
+^([^.@]*)
+%1 B
+%1 KiB
+%1 GiB
+%1 TiB
+reiserfsprogs / reiserfs-utils
+pBWin_GParted.cc
+Delete the selected partition
+_New
+_Resize/Move
+_Format to
+--placeholder--
+_Mount on
+_Name Partition
+M_anage Flags
+C_heck
+_Label File System
+New UU_ID
+<control>r
+_Refresh Devices
+_Devices
+_GParted
+<control>z
+_Edit
+Device _Information
+Pending _Operations
+_View
+_File System Support
+_Create Partition Table
+_Attempt Data Rescue
+_Device
+_Partition
+_Contents
+_Help
+   (
+Scanning all devices...
+No devices detected
+Device Information
+ <b>
+Model:
+Serial:
+Partition table:
+Heads:
+Sectors/track:
+Cylinders:
+Sector size:
+umount -v "
+</i>
+%1 operations pending
+%1 operation pending
+%1 - GParted
+gparted
+Quit GParted?
+ghelp:
+yelp 
+http://gparted.org/faq.php
+Deactivating swap on %1
+Activating swap on %1
+swapoff -v 
+swapon -v 
+Could not deactivate swap
+Could not activate swap
+Deactivating Volume Group %1
+Activating Volume Group %1
+lvm vgchange -a n 
+lvm vgchange -a y 
+Unmounting %1
+Could not unmount %1
+mounting %1 on %2
+mount -v -t 
+Could not mount %1 on %2
+Command gpart was not found
+Do you want to continue?
+Search for file systems on %1
+No file systems found on %1
+umount /tmp/gparted-roview*
+Delete %1 (%2, %3)
+Unable to delete %1!
+GNOME Partition Editor
+Sinlu Bes <e80f00@gmail.com>
+Luca Bruno <lucab@debian.org>
+translator-credits
+http://gparted.org
+Apply operations to device
+valid_display_partition_ptr( selected_partition_ptr )
+selected_partition_ptr != NULL
+Create a new partition in the selected unallocated space
+Resize/Move the selected partition
+Copy the selected partition to the clipboard
+Paste the partition from the clipboard
+Most likely other partitions are also mounted on these mount points. You are advised to unmount them manually.
+The partition could not be unmounted from the following mount points:
+Could not add this operation to the list
+%1 operations are currently pending.
+%1 operation is currently pending.
+No partition table found on device %1
+A partition table is required before partitions can be added.
+To create a new partition table choose the menu item:
+Device --> Create Partition Table.
+Unable to open GParted Manual help file
+If you want more partitions you should first create an extended partition. Such a partition can contain other partitions. Because an extended partition is also a primary partition it might be necessary to remove a primary partition first.
+It is not possible to create more than %1 primary partitions
+It is not possible to create more than %1 primary partition
+Moving a partition might cause your operating system to fail to boot
+You have queued an operation to move the start sector of partition %1.
+  Failure to boot is most likely to occur if you move the GNU/Linux partition containing /boot, or if you move the Windows system partition C:.
+You can learn how to repair the boot configuration in the GParted FAQ.
+Moving a partition might take a very long time to apply.
+%1 operations are currently pending for partition %2
+%1 operation is currently pending for partition %2
+The swapon action cannot be performed if an operation is pending for the partition.
+Use the Edit menu to undo, clear, or apply operations before using swapon with this partition.
+The activate Volume Group action cannot be performed if an operation is pending for the partition.
+Use the Edit menu to undo, clear, or apply operations before using activate Volume Group with this partition.
+Could not deactivate Volume Group
+Could not activate Volume Group
+The mount action cannot be performed if an operation is pending for the partition.
+Use the Edit menu to undo, clear, or apply operations before using mount with this partition.
+This feature uses gpart. Please install gpart and try again.
+A full disk scan is needed to find file systems.
+The scan might take a very long time.
+After the scan you can mount any discovered file systems and copy the data to other media.
+Searching for file systems on %1
+The disk scan by gpart did not find any recognizable file systems on this disk.
+You are deleting non-empty LVM2 Physical Volume %1
+You are formatting over non-empty LVM2 Physical Volume %1
+You are pasting over non-empty LVM2 Physical Volume %1
+Deleting or overwriting the Physical Volume is irrecoverable and will destroy or damage the  Volume Group.
+To avoid destroying or damaging the Volume Group, you are advised to cancel and use external LVM commands to free the Physical Volume before attempting this operation.
+Do you want to continue to forcibly delete the Physical Volume?
+You have pasted into an existing partition
+The data in %1 will be lost if you apply this operation.
+Please unmount any logical partitions having a number higher than %1
+Are you sure you want to delete %1?
+After deletion this partition is no longer available for copying.
+A %1 file system requires a partition of at least %2.
+A partition with a %1 file system has a maximum size of %2.
+Cannot format this file system to %1
+Copyright 
+ 2004-2006 Bart Hakvoort
+Copyright 
+ 2008-2016 Curtis Gedak
+Copyright 
+ 2011-2016 Mike Fleetwood
+Wrolf Courtney <wrolf@wrolf.net>
+me Dumesnil <jerome.dumesnil@gmail.com>
+Markus Elfring <elfring@users.sourceforge.net>
+Mike Fleetwood <mike.fleetwood@googlemail.com>
+Curtis Gedak <gedakc@users.sf.net>
+Matthias Gehre <m.gehre@gmx.de>
+Rogier Goossens <goossens.rogier@gmail.com>
+Bart Hakvoort <gparted@users.sf.net>
+Seth Heeren <sgheeren@gmail.com>
+Joan Lled
+ <joanlluislledo@gmail.com>
+Phillip Susi <psusi@cfl.rr.com>
+Michael Zimmermann <sigmaepsilon92@gmail.com>
+Sebastian Kraft <kraft.sebastian@gmail.com>
+%1 partitions are currently active on device %2
+%1 partition is currently active on device %2
+A new partition table cannot be created when there are active partitions.
+Active partitions are those that are in use, such as a mounted file system, or enabled swap space.
+Use Partition menu options, such as unmount or swapoff, to deactivate all partitions on this device before creating a new partition table.
+%1 operations are currently pending
+%1 operation is currently pending
+A new partition table cannot be created when there are pending operations.
+Use the Edit menu to either clear or apply all operations before creating a new partition table.
+Error while creating partition table
+Are you sure you want to apply the pending operations?
+Editing partitions has the potential to cause LOSS of DATA.
+You are advised to backup your data before proceeding.
+void GParted::Win_GParted::activate_change_uuid()
+void GParted::Win_GParted::activate_name_partition()
+void GParted::Win_GParted::activate_label_filesystem()
+void GParted::Win_GParted::activate_check()
+void GParted::Win_GParted::activate_manage_flags()
+void GParted::Win_GParted::activate_mount_partition(unsigned int)
+void GParted::Win_GParted::toggle_busy_state()
+void GParted::Win_GParted::activate_format(GParted::FILESYSTEM)
+void GParted::Win_GParted::activate_info()
+void GParted::Win_GParted::activate_delete()
+void GParted::Win_GParted::activate_new()
+void GParted::Win_GParted::activate_paste()
+void GParted::Win_GParted::activate_copy()
+void GParted::Win_GParted::activate_resize()
+void GParted::Win_GParted::set_valid_operations()
+N7GParted11Win_GParted24treeview_devices_ColumnsE
+N7GParted11Win_GPartedE
+btrfsck 
+btrfstune -f -u 
+mkfs.btrfs -L "
+btrfs filesystem label 
+mkfs.btrfs
+btrfsck
+umount
+btrfs filesystem label --help
+btrfs-show
+btrfsctl
+btrfstune
+btrfstune --help
+^[[:blank:]]*(-u)[[:blank:]]
+btrfs filesystem show 
+btrfs-show 
+devid 
+Label: none  uuid:
+^Label: '(.*)'  uuid:
+^Label: (.*)  uuid:
+devid %d
+mount -v -t btrfs 
+btrfs filesystem resize 
+btrfsctl -r 
+umount -v 
+uuid:[[:blank:]]*([[:xdigit:]]{8}-[[:xdigit:]]{4}-[1-9a-fA-F][[:xdigit:]]{3}-[[:xdigit:]]{4}-[[:xdigit:]]{12})
+FS bytes used ([0-9\.]+( ?[KMGTPE]?i?B)?)
+devid .* path (/dev/[[:graph:]]+)
+devid .* used ([0-9\.]+( ?[KMGTPE]?i?B)?) path
+devid .* size ([0-9\.]+( ?[KMGTPE]?i?B)?) used 
+Failed to find devid for path %1
+N7GParted5btrfsE
+N7GParted5exfatE
+ -ra -p 
+ -ra -p -o 
+ -ra -p -O 
+ -f -y -v -C 0 
+mkfs.
+dumpe4fs
+dumpe2fs
+tune4fs
+tune2fs
+e4label
+e2label
+e4fsck
+e2fsck
+resize4fs
+resize2fs
+e4image
+e2image
+(-o src_offset)
+-o src_offset
+Writing inode tables: %d/%d
+%f%%
+ -h 
+Block count:
+Block count: %Ld
+Block size:
+Block size: %Ld
+Free blocks:
+Free blocks: %Ld
+^Filesystem UUID:[[:blank:]]*([[:xdigit:]]{8}-[[:xdigit:]]{4}-[1-9a-fA-F][[:xdigit:]]{3}-[[:xdigit:]]{4}-[[:xdigit:]]{12})
+N7GParted4ext2E
+Bmkfs.f2fs -l "
+N7GParted4f2fsE
+mlabel -s -n :: -i 
+ -a -w -v 
+MTOOLS_SKIP_CHECK
+mkfs.fat
+mkdosfs
+fsck.fat
+dosfsck
+*?.,;:/\|+=<>[]
+mlabel -c :: -i 
+mlabel ::"
+" -i 
+ -v -I -n "
+mdir -f :: -i 
+0000-0000
+mlabel -s :: -i 
+Volume label is ([^(]*)
+ -n -v 
+sectors total
+bytes per logical sector
+%Ld/%Ld
+bytes per cluster
+Volume Serial Number is[[:blank:]]([^[:space:]]+)
+Changing the UUID might invalidate the Windows Product Activation (WPA) key
+On FAT and NTFS file systems, the Volume Serial Number is used as the UUID. Changing the Volume Serial Number on the Windows system partition, normally C:, might invalidate the WPA key. An invalid WPA key will prevent login until you reactivate Windows.
+Changing the UUID on external storage media and non-system partitions is usually safe, but guarantees cannot be given.
+N7GParted5fat16E
+hfsck -v 
+hformat 
+hformat -l "
+ID_FS_LABEL=([^
+untitled
+N7GParted3hfsE
+fsck.hfsplus -f -y 
+mkfs.hfsplus 
+mkfs.hfsplus -v "
+N7GParted7hfsplusE
+jfs_tune -L "
+jfs_tune -U random 
+mkfs.jfs -q -L "
+mount -v -t jfs 
+jfs_fsck -f 
+jfs_tune -l 
+^Volume label:[	 ]*'(.*)'
+sh -c 'echo dm | jfs_debugfs 
+Block Size:
+Block Size: %Ld
+dn_mapsize:
+dn_mapsize: %Lx
+dn_nfree:
+dn_nfree: %Lx
+mount -v -t jfs -o remount,resize 
+^File system UUID:[[:blank:]]*([[:xdigit:]]{8}-[[:xdigit:]]{4}-[1-9a-fA-F][[:xdigit:]]{3}-[[:xdigit:]]{4}-[[:xdigit:]]{12})
+N7GParted3jfsE
+_Swapon
+_Swapoff
+swaplabel -L "
+mkswap -L "
+swaplabel -U "
+mkswap
+swaplabel
+ %*s %*d %Ld
+swaplabel 
+^LABEL:[[:blank:]]*(.*)$
+Partition move action skipped because %1 file system does not contain data
+Partition copy action skipped because %1 file system does not contain data
+open("/proc/swaps", O_RDONLY): 
+^UUID:[[:blank:]]*([[:xdigit:]]{8}-[[:xdigit:]]{4}-[1-9a-fA-F][[:xdigit:]]{3}-[[:xdigit:]]{4}-[[:xdigit:]]{12})
+N7GParted10linux_swapE
+Ac_tivate
+Deac_tivate
+lvm pvcreate -M 2 
+lvm pvck -v 
+ --setphysicalvolumesize 
+lvm pvresize -v 
+lvm pvremove 
+The LVM2 Physical Volume can not currently be resized because it is a member of an exported Volume Group.
+lvm pvremove --force --force --yes 
+N7GParted7lvm2_pvE
+Root privileges are required for running GParted
+Since GParted is a powerful tool capable of destroying partition tables and vast amounts of data, only root may run it.
+/usr/share/locale
+nilfs-tune -L "
+mkfs.nilfs2 -L "
+nilfs-tune -U 
+mount -v -t nilfs2 
+nilfs-resize -v -y 
+nilfs-tune -l 
+(none)
+Device size:
+Device size: %Ld
+Free blocks count:
+Free blocks count: %Ld
+^Filesystem volume name:[	 ]*(.*)$
+N7GParted6nilfs2E
+ntfsresize -i -f -v 
+ntfslabel --force 
+mkntfs -Q -v -F -L "
+ntfsclone -f --overwrite 
+ntfslabel --new-half-serial 
+ntfslabel --new-serial 
+ -s 
+ntfsresize --force --force
+run simulation
+ --no-action 
+real resize
+%f percent completed
+ntfslabel --help 
+--new-serial[[:blank:]]
+Current volume size:
+Current volume size: %Ld
+resize at
+resize at %Ld
+ERROR: Volume is full
+ntfsresize --info --force --no-progress-bar 
+In an attempt to avoid invalidating the WPA key, on NTFS file systems only half of the UUID is set to a new random value.
+N7GParted4ntfsE
+fsck.reiser4 --yes --fix --quiet 
+mkfs.reiser4 --force --yes --label "
+debugfs.reiser4 
+^label:[[:blank:]]*(.*)$
+<none>
+blocks:
+blocks: %Ld
+free blocks:
+free blocks: %Ld
+blksize:
+blksize: %Ld
+N7GParted7reiser4E
+reiserfstune -u random 
+reiserfstune --label "
+mkreiserfs -f -f --label "
+debugreiserfs 
+^label:[	 ]*(.*)$
+Blocksize:
+Blocksize: %Ld
+Free blocks
+sh -c 'echo y | resize_reiserfs
+reiserfsck --yes --fix-fixable --quiet 
+Count of blocks on the device:
+Count of blocks on the device: %Ld
+N7GParted8reiserfsE
+N7GParted3ufsE
+xfs_admin -U generate 
+xfs_repair -v 
+xfs_admin -L -- 
+xfs_admin -L "
+mkfs.xfs -f -L "
+mount -v -t xfs 
+xfs_growfs 
+mkfs.xfs -f 
+dest
+sh -c 'xfsdump -J - 
+ | xfsrestore -J - 
+xfs_db -r -c 'label' 
+^label = "(.*)"
+xfs_admin -u 
+blocksize = %Ld
+dblocks
+dblocks = %Ld
+fdblocks
+fdblocks = %Ld
+mount -v -t xfs -o noatime,ro 
+^UUID[[:blank:]]*=[[:blank:]]*([[:xdigit:]]{8}-[[:xdigit:]]{4}-[1-9a-fA-F][[:xdigit:]]{3}-[[:xdigit:]]{4}-[[:xdigit:]]{12})
+xfs_db -c 'sb 0' -c 'print blocksize' -c 'print dblocks' -c 'print fdblocks' -r 
+N7GParted3xfsE
+;*3$"
+zPLR
+. p.
+~. ].
+C. d.
+A. ].
+C. d.
+A. y.
+. R.
+. p.
+~. ].
+C. d.
+A. ].
+C. d.
+A. y.
+. R.
+. r.
+. R.
+. {.
+. R.
+. {.
+I. |.
+. x.
+I. |.
+\. s.
+. x.
+[. c.
+. x.
+[. c.
+. q.
+I. c.
+c. ].
+. |.
+C. i.
+C. i.
+g. i.
+. {.
+. R.
+. {.
+. R.
+. x.
+.0u.
+.0t.
+.0j.
+.0_.
+.0_.
+. P.
+. P.
+.0o.
+b.0v
+. t.
+f. S.
+. |.
+. R.
+.0e.
+672ab884211decac751344283f6246944388fd.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.gcc_except_table
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

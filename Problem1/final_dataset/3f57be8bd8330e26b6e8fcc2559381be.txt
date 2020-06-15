@@ -1,0 +1,523 @@
+/lib64/ld-linux-x86-64.so.2
+libpulse.so.0
+_ITM_deregisterTMCloneTable
+__gmon_start__
+pa_read
+pa_write
+pa_atou
+pa_log_level_meta
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+pa_stream_new_with_proplist
+pa_context_drain
+pa_locale_to_utf8
+pa_stream_begin_write
+pa_stream_cork
+pa_context_disconnect
+pa_rtclock_now
+pa_stream_set_moved_callback
+pa_proplist_gets
+pa_stream_drain
+pa_channel_map_init_extend
+pa_strerror
+pa_channel_map_compatible
+pa_stream_update_timing_info
+pa_stream_set_started_callback
+pa_context_errno
+pa_mainloop_new
+pa_context_new_with_proplist
+pa_stream_get_device_name
+pa_parse_sample_format
+pa_signal_init
+pa_proplist_new
+pa_stream_peek
+pa_context_get_state
+pa_context_rttime_new
+pa_proplist_free
+pa_operation_unref
+pa_proplist_contains
+pa_sample_spec_valid
+pa_proplist_update
+pa_stream_set_monitor_stream
+pa_stream_set_suspended_callback
+pa_usec_to_bytes
+pa_get_library_version
+pa_stream_get_context
+pa_stream_cancel_write
+pa_stream_write
+pa_xmalloc
+pa_cvolume_set
+pa_stream_readable_size
+pa_stream_set_underflow_callback
+pa_sample_spec_snprint
+pa_mainloop_free
+pa_stream_get_channel_map
+pa_xrealloc
+pa_xstrdup
+pa_channel_map_parse
+pa_context_rttime_restart
+pa_signal_new
+pa_stream_get_time
+pa_stream_disconnect
+pa_stream_get_device_index
+pa_frame_size
+pa_stream_get_state
+Do nine men interpret Nine men I nod
+pa_xfree
+pa_stream_set_event_callback
+pa_proplist_to_string_sep
+pa_stream_drop
+pa_mainloop_get_api
+pa_context_unref
+pa_stream_set_buffer_attr_callback
+pa_path_get_filename
+pa_context_set_state_callback
+pa_stream_set_read_callback
+pa_mainloop_run
+pa_stream_set_write_callback
+pa_proplist_setp
+pa_signal_done
+pa_proplist_sets
+pa_stream_is_suspended
+pa_stream_get_buffer_attr
+pa_stream_set_overflow_callback
+pa_stream_connect_record
+pa_context_connect
+pa_stream_connect_playback
+pa_stream_unref
+pa_stream_get_sample_spec
+pa_channel_map_snprint
+pa_stream_set_state_callback
+pa_stream_writable_size
+pa_stream_get_latency
+libpulsecommon-8.0.so
+pa_sndfile_dump_formats
+pa_sndfile_init_proplist
+pa_sndfile_write_sample_spec
+pa_sndfile_write_channel_map
+pa_close
+pa_sndfile_readf_function
+pa_sndfile_read_sample_spec
+pa_sndfile_writef_function
+pa_sndfile_read_channel_map
+pa_open_cloexec
+pa_silence_memory
+pa_sndfile_format_from_string
+pa_disable_sigpipe
+_fini
+libsndfile.so.1
+sf_close
+sf_open_fd
+sf_write_raw
+sf_read_raw
+libcap.so.2
+libpthread.so.0
+__errno_location
+librt.so.1
+libdl.so.2
+libm.so.6
+libc.so.6
+__printf_chk
+setlocale
+optind
+strrchr
+Borrow or rob
+dcgettext
+__stack_chk_fail
+abort
+strtol
+strstr
+dup2
+__fprintf_chk
+memcpy
+optarg
+stderr
+getopt_long
+fwrite
+bindtextdomain
+__libc_start_main
+_edata
+__bss_start
+_end
+/usr/lib/x86_64-linux-gnu/pulseaudio
+GLIBC_2.2.5
+libsndfile.so.1.0
+GLIBC_2.14
+GLIBC_2.4
+GLIBC_2.3.4
+PULSE_0
+%zx 
+%rx 
+%jx 
+%bx 
+%Zx 
+%Rx 
+%Jx 
+%Bx 
+%:x 
+%2x 
+%*x 
+%"x 
+%zw 
+%rw 
+%jw 
+%bw 
+%Zw 
+%Rw 
+%Jw 
+%Bw 
+%:w 
+%2w 
+%*w 
+%"w 
+%zv 
+%rv 
+%jv 
+%bv 
+%Zv 
+%Rv 
+%Jv 
+%Bv 
+%:v 
+%2v 
+%*v 
+%"v 
+%zu 
+%ru 
+%ju 
+%bu 
+%Zu 
+%Ru 
+%Ju 
+%Bu 
+%:u 
+%2u 
+%*u 
+%"u 
+%Bq 
+AWAVAUATUS
+=lt 
+=1t 
+=tt 
+=8t 
+=Dt 
+[]A\A]A^A_
+=jr 
+=bs 
+=_p 
+=Wq 
+=Vo 
+=Np 
+=Gn 
+=sm 
+=nn 
+=ln 
+=>n 
+=Cn 
+=*n 
+='l 
+=Ym 
+=<m 
+=_j 
+5Ni 
+=ih 
+=8h 
+=6i 
+AWAVI
+	D$ 
+=Cg 
+=1c 
+=}c 
+=1b 
+=qb 
+Beeb
+ATUS
+D$(1
+t$ H
+D$ H
+D$(dH3
+AVAUATUSH
+=*\ 
+=5\ 
+51\ 
+=2\ 
+-	\ 
+=P[ 
+5VZ 
+H;D$
+%rZ 
+ []A\A]A^
+tJH9
+5hW 
+=1W 
+=[V 
+=OV 
+=KV 
+=HU 
+AVAUATUSH
+[]A\A]A^
+AXAYH
+|$ H
+UATI
+AVAU
+H;5YQ 
+5tQ 
+5DQ 
+=6O 
+=VM 
+=HL 
+=oK 
+=\K 
+Hc=9J 
+=SI 
+5'I 
+5QJ 
+=QI 
+=rG 
+ATUS
+[]A\
+ []A\
+t4S1
+t"[H
+AUATUSH
+H;\$
+|~H9
+=AD 
+H;\$
+([]A\A]
+ATUS
+H;57B 
+=QB 
+[]A\H
+=AB 
+[]A\
+]A\H
+AWAVA
+AUATL
+[]A\A]A^A_
+pa_stream_update_timing_info() failed: %s
+Assertion '%s' failed at %s:%u, function %s(). Aborting.
+Got event '%s', properties '%s'
+Cork request stack is empty: corking stream
+Cork request stack is empty: uncorking stream
+Warning: Received more uncork requests than cork requests.
+Time: %0.3f sec; Latency: %0.0f usec.
+Draining connection to server.
+pa_stream_get_buffer_attr() failed: %s
+Buffer metrics: maxlength=%u, tlength=%u, prebuf=%u, minreq=%u
+Buffer metrics: maxlength=%u, fragsize=%u
+Using sample spec '%s', channel map '%s'.
+Connected to device %s (index: %u, suspended: %s).
+Stream buffer attributes changed.%s
+pa_stream_connect_playback() failed: %s
+Failed to set monitor stream: %s
+pa_stream_connect_record() failed: %s
+Stream moved to device %s (%u, %ssuspended).%s
+pa_stream_begin_write() failed: %s
+Play back encoded audio files on a PulseAudio sound server.
+Capture audio data from a PulseAudio sound server and write it to a file.
+Capture audio data from a PulseAudio sound server and write it to STDOUT or the specified file.
+Play back audio data from STDIN or the specified file on a PulseAudio sound server.
+%s [options]
+  -h, --help                            Show this help
+      --version                         Show version
+  -r, --record                          Create a connection for recording
+  -p, --playback                        Create a connection for playback
+alula
+  -v, --verbose                         Enable verbose operations
+  -s, --server=SERVER                   The name of the server to connect to
+  -d, --device=DEVICE                   The name of the sink/source to connect to
+  -n, --client-name=NAME                How to call this client on the server
+      --stream-name=NAME                How to call this stream on the server
+      --volume=VOLUME                   Specify the initial (linear) volume in range 0...65536
+      --rate=SAMPLERATE                 The sample rate in Hz (defaults to 44100)
+      --format=SAMPLEFORMAT             The sample type, one of s16le, s16be, u8, float32le,
+                                        float32be, ulaw, alaw, s32le, s32be, s24le, s24be,
+                                        s24-32le, s24-32be (defaults to s16ne)
+      --channels=CHANNELS               The number of channels, 1 for mono, 2 for stereo
+                                        (defaults to 2)
+      --channel-map=CHANNELMAP          Channel map to use instead of the default
+      --fix-format                      Take the sample format from the sink/source the stream is
+                                        being connected to.
+      --fix-rate                        Take the sampling rate from the sink/source the stream is
+                                        being connected to.
+      --fix-channels                    Take the number of channels and the channel map
+                                        from the sink/source the stream is being connected to.
+      --no-remix                        Don't upmix or downmix channels.
+      --no-remap                        Map channels by index instead of name.
+      --latency=BYTES                   Request the specified latency in bytes.
+      --process-time=BYTES              Request the specified process time per request in bytes.
+      --latency-msec=MSEC               Request the specified latency in msec.
+      --process-time-msec=MSEC          Request the specified process time per request in msec.
+      --property=PROPERTY=VALUE         Set the specified property to the specified value.
+      --raw                             Record/play raw PCM data.
+      --passthrough                     Passthrough data.
+      --file-format[=FFORMAT]           Record/play formatted PCM data.
+      --list-file-formats               List available file formats.
+      --monitor-stream=INDEX            Record from the sink input with index INDEX.
+pacat %s
+Compiled with libpulse %s
+Linked with libpulse %s
+Invalid latency specification '%s'
+Invalid process time specification '%s'
+Failed to parse the argument for --monitor-stream
+Failed to generate sample specification for file.
+Warning: specified sample specification will be overwritten with specification from file.
+Failed to determine sample specification from file.
+Warning: Failed to determine channel map from file.
+Channel map doesn't match sample specification
+Warning: failed to write channel map to file.
+Opening a %s stream with sample specification '%s' and channel map '%s'.
+pa_signal_init(mainloop_api) == 0
+pa_context_connect() failed: %s
+pa_context_rttime_new() failed.
+pulseaudio
+utils/pacat.c
+request-cork
+request-uncork
+Got signal, exiting.
+Failed to get latency: %s
+        
+length > 0
+!sndfile
+pa_stream_peek() failed: %s
+pa_stream_write() failed: %s
+Failed to drain stream: %s
+Playback stream drained.
+Stream successfully created.
+mode == RECORD
+Stream error: %s
+a == mainloop_api
+stdio_event == e
+buffer_length
+Stream started.%s
+Stream overrun.%s
+Stream underrun.%s
+!stream
+Connection established.%s
+pa_stream_new() failed: %s
+Connection failure: %s
+Stream device suspended.%s
+Stream device resumed.%s
+not 
+pa_stream_drain(): %s
+A Santa lives evil at NASA
+Got EOF.
+read() failed: %s
+/usr/share/locale
+play
+record
+8.0.0
+application.name
+Invalid client name '%s'
+media.name
+Invalid stream name '%s'
+Invalid channel map '%s'
+Invalid property '%s'
+Unknown file format %s.
+rpd:s:n:hv
+Invalid sample specification
+open(): %s
+dup2(): %s
+Too many arguments.
+Failed to open audio file.
+recording
+playback
+Failed to set media name.
+pa_mainloop_new() failed.
+io_new() failed.
+pa_context_new() failed.
+pa_mainloop_run() failed.
+device
+server
+client-name
+stream-name
+version
+help
+Degas are we not drawn onward no In union drawn onward to new eras aged
+verbose
+volume
+channel-map
+fix-format
+fix-rate
+fix-channels
+no-remap
+no-remix
+latency
+process-time
+property
+passthrough
+file-format
+list-file-formats
+latency-msec
+process-time-msec
+monitor-stream
+exit_signal_callback
+stdin_callback
+stdin_callback
+stdout_callback
+stdout_callback
+stream_state_callback
+stream_state_callback
+stream_drain_complete
+start_drain
+do_stream_write
+do_stream_write
+stream_write_callback
+stream_write_callback
+stream_read_callback
+stream_read_callback
+stream_suspended_callback
+stream_suspended_callback
+Eleele
+stream_moved_callback
+stream_moved_callback
+stream_underflow_callback
+stream_underflow_callback
+stream_overflow_callback
+stream_overflow_callback
+stream_started_callback
+stream_started_callback
+stream_event_callback
+stream_event_callback
+stream_buffer_attr_callback
+stream_buffer_attr_callback
+Tacocat
+context_state_callback
+context_state_callback
+quit
+quit
+stream_update_timing_callback
+stream_update_timing_callback
+time_event_callback
+main
+main
+;*3$"
+2170d4215d20c91c36e21303bb2350f698fced.debug
+.shstrtab
+.interp
+God A red nugget A fat egg under a dog
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

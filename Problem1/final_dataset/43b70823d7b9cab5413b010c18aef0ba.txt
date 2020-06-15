@@ -1,0 +1,726 @@
+/lib64/ld-linux-x86-64.so.2
+#j	C
+libgconf-2.so.4
+g_build_filename
+g_slist_length
+_ITM_deregisterTMCloneTable
+g_free
+g_str_equal
+g_slist_free
+g_slist_reverse
+g_printerr
+g_hash_table_lookup
+g_assertion_message_expr
+g_return_if_fail_warning
+g_strerror
+g_strconcat
+g_hash_table_new
+g_slist_prepend
+g_slist_sort
+__gmon_start__
+g_hash_table_size
+g_hash_table_insert
+g_hash_table_destroy
+g_str_hash
+g_dgettext
+_Jv_RegisterClasses
+g_strdup
+g_getenv
+_ITM_registerTMCloneTable
+g_hash_table_foreach
+g_error_free
+gconf_schema_set_default_value
+gconf_load_source_path
+gconf_engine_get_default
+gconf_schema_set_owner
+gconf_schema_get_long_desc
+gconf_engine_set_float
+gconf_schema_set_locale
+gconf_schema_set_short_desc
+gconf_value_to_string
+gconf_schema_get_locale
+gconf_value_get_cdr
+gconf_schema_set_cdr_type
+gconf_engine_set_bool
+gconf_value_get_string
+gconf_engine_get_without_default
+gconf_engine_set_string
+gconf_engine_dir_exists
+gconf_entry_get_key
+gconf_value_get_list_type
+gconf_engine_get_for_addresses
+gconf_engine_get_local_for_addresses
+gconf_engine_all_dirs
+gconf_engine_set_list
+gconf_entry_get_value
+gconf_entry_get_schema_name
+gconf_engine_recursive_unset
+gconf_entry_get_is_default
+gconf_schema_get_type
+gconf_engine_set
+gconf_entry_free
+gconf_schema_set_type
+gconf_value_get_bool
+gconf_engine_suggest_sync
+gconf_value_set_bool
+gconf_schema_set_car_type
+gconf_engine_set_pair
+gconf_value_set_car
+gconf_value_type_to_string
+gconf_value_new_from_string
+gconf_value_get_list
+gconf_unique_key
+gconf_schema_set_long_desc
+gconf_schema_get_short_desc
+gconf_value_set_list_nocopy
+gconf_value_get_schema
+gconf_ping_daemon
+gconf_schema_get_cdr_type
+gconf_engine_set_schema
+gconf_value_type_from_string
+gconf_concat_dir_and_key
+gconf_schema_set_list_type
+gconf_engine_unref
+gconf_spawn_daemon
+gconf_init
+gconf_value_new
+gconf_value_get_car
+gconf_engine_get
+gconf_engine_associate_schema
+gconf_schema_new
+gconf_value_set_schema_nocopy
+gconf_value_set_list_type
+gconf_shutdown_daemon
+gconf_schema_set_gettext_domain
+gconf_schema_set_default_value_nocopy
+gconf_schema_get_default_value
+gconf_engine_unset
+gconf_engine_get_entry
+gconf_value_set_cdr
+gconf_value_free
+_gconf_init_i18n
+gconf_persistent_name_get_address_list
+gconf_schema_get_owner
+gconf_schema_free
+gconf_value_new_list_from_string
+gconf_engine_all_entries
+gconf_schema_get_car_type
+gconf_value_new_pair_from_string
+gconf_engine_set_int
+gconf_key_key
+gconf_address_list_free
+gconf_schema_get_list_type
+libgthread-2.0.so.0
+g_thread_init
+libglib-2.0.so.0
+g_regex_match
+g_pattern_spec_new
+g_strnfill
+g_pattern_match_string
+g_print
+g_locale_to_utf8
+g_option_group_new
+g_option_context_parse
+g_strchomp
+g_regex_unref
+g_option_context_add_group
+g_pattern_spec_free
+g_option_context_add_main_entries
+g_regex_new
+g_option_context_new
+g_slist_nth_data
+g_option_group_set_translation_domain
+g_option_context_set_translation_domain
+g_option_group_add_entries
+g_markup_escape_text
+g_option_context_free
+libxml2.so.2
+xmlParseFile
+xmlNodeGetContent
+xmlCheckVersion
+xmlGetProp
+xmlFree
+xmlKeepBlanksDefault
+libpthread.so.0
+__errno_location
+libc.so.6
+setlocale
+fopen
+__stack_chk_fail
+strtol
+fgets
+fclose
+umask
+bindtextdomain
+strcmp
+__libc_start_main
+_edata
+__bss_start
+_end
+_IO_stdin_used
+__data_start
+__libc_csu_init
+__libc_csu_fini
+LIBXML2_2.4.30
+GLIBC_2.4
+GLIBC_2.2.5
+AWAVA
+AUATI
+([]A\A]A^A_
+AUATI
+D$(1
+L$0L
+L$(dH3
+8[]A\A]
+AWAVAUATUSH
+([]A\A]A^A_
+<StL
+<Bt5<Ft*
+d<LtR<PtU
+Z<itv
+J<pt?<st
+<lu>
+<TtN
+<tt>
+AUATI
+[]A\A]
+A Santa lives evil at NASA
+AWAVAUATI
+D$ E1
+D$x1
+L$xdH3
+|$(H
+L$PH
+T$HH
+t$XH
+L$0u
+T$`H
+L$`M
+d$`M
+T$(H
+d$XM
+t$PA
+L$`I
+D$`H
+|$HH
+D$hH
+D$XH
+d$PM
+L$8H
+L$8H
+T$0H
+T$0H
+[]A\A]A^A_
+AVAUATUSt
+[]A\A]A^
+AWAVAUATUSH
+t$0dH
+L$@H
+T$0H
+t$<H
+D$@H
+T$0H
+[]A\A]A^A_
+|$<H
+t$@H
+T$HH
+D$HH
+t/E1
+D$@H
+t$@H
+l$HH
+|$@H
+D$@H
+L$H1
+T$HH
+D$HH
+D$HH
+T$HH
+D$HH
+4$E1
+l$HH
+D$HM
+T$HH
+T$HL
+L$HH
+D$HH
+D$HH
+T$HL
+L$HH
+D$HH
+T$HH
+l$(H
+l$ H
+D$HH
+L$HL
+=]} 
+=)} 
+l$HL
+D$HH
+%:| 
+l$HH
+%x{ 
+l$HH
+D$HH
+D$HH
+5Zz 
+58z 
+l$HH
+D$HM
+Borrow or rob
+t$PH
+l$HH
+D$HH
+AUATUSH
+[]A\A]
+ATUI
+[]A\
+ATUSH
+[]A\
+AVAUATUH
+[]A\A]A^
+AWAVI
+AUATI
+([]A\A]A^A_
+AWAVAUATI
+USHc
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVI
+AUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+D$H1
+T$ H
+t$@H
+t$8L
+|$@H
+|$8H
+L$8H
+T$(H
+t$@H
+t$@M
+|$(H
+t$8M
+D$0H
+T$ H
+T$ H
+T$ H
+d$0M
+t$@L
+d$0M
+d$0M
+t$@L
+d$0M
+t$8L
+\$HdH3
+X[]A\A]A^A_
+ATUI
+[]A\
+AWAVI
+AUAT
+D$h1
+D$PH
+t$HL
+|$PH
+D$ H
+|$(I
+D$PH
+D$0H
+|$HH
+T$hdH3
+x[]A\A]A^A_
+D$(H
+D$ H
+D$ H
+Degas are we not drawn onward no In union drawn onward to new eras aged
+T$HL
+|$HH
+D$XH
+|$0H
+D$0H
+t$HH
+t$(H
+t$XH
+|$PL
+|$ H
+AUATI
+[]A\A]
+]A\A]A^
+AWAVA
+AUATL
+[]A\A]A^A_
+GConf2
+error != NULL
+gconftool.c
+GConf
+error == NULL
+default_value != NULL
+Error setting value: %s
+Hello
+blah
+     
+woo fooo s^%*^%&@^$@%&@%$
+No schema known for `%s'
+No schema stored at '%s'
+No value set for `%s'
+(no value set)
+ %s%s = %s
+ %s/%s = %s
+%s<value>
+%s  <int>%s</int>
+%s  <float>%s</float>
+%s  <string>%s</string>
+%s  <bool>%s</bool>
+%s<list type="%s">
+%s</list>
+%s<pair>
+%s  <car>
+%s  </car>
+%s  <cdr>
+%s  </cdr>
+%s</pair>
+%s<schema>
+%s  <owner>%s</owner>
+%s  <type>%s</type>
+%s  <car_type>%s</car_type>
+%s  <cdr_type>%s</cdr_type>
+%s  <locale name="%s">
+%s    <default_value>
+%s    </default_value>
+%s    <short>%s</short>
+%s    <long>%s</long>
+%s  </locale>
+%s</schema>
+%s</value>
+Don't understand type `%s'
+schema-install-source
+/etc/gconf
+/gconf.xml.defaults
+xml:merged:
+%s%s:
+float
+bool
+pair
+values == NULL
+g_slist_length(values) <= 1
+owner
+list_type
+car_type
+cdr_type
+default
+default_value
+applyto
+WARNING: empty <applyto> node
+gettext_domain
+short
+long
+gconfschemafile
+gconfentryfile
+Failed to open `%s': %s
+Document `%s' is empty?
+base
+entry
+schema_key
+schemalist
+entrylist
+schemas_hash != NULL
+    <entry>
+      <key>%s</key>
+    </entry>
+key != NULL
+dir != NULL
+/usr/share/locale
+alula
+Show client options
+Client options:
+client
+Show key type options
+Key type options:
+key-type
+Show load/save options
+Load/Save options:
+Show server options
+Server options:
+server
+Show installation options
+Installation options:
+install
+Show test options
+Test options:
+test
+Show schema options
+Schema options:
+3.2.6
+-p/--ping
+--dir-exists
+--install-schema-file
+--makefile-install-rule
+--makefile-uninstall-rule
+--break-key
+--break-directory
+Failed to init GConf: %s
+DBUS_SESSION_BUS_ADDRESS
+/path
+/etc/gconf/2
+List Type: %s
+Car Type: %s
+Cdr Type: %s
+Default Value: %s
+Unset
+Owner: %s
+Short Desc: %s
+Long Desc: %s
+Cannot set schema as value
+Error: %s
+Error syncing: %s
+No value found for key %s
+Not a boolean value: %s
+Key %s is not a list.
+Must specify list index.
+List index is out of bounds.
+Error setting value: %s
+Error syncing: %s
+Error unsetting `%s': %s
+Error listing dirs: %s
+Error compiling regex: %s
+<gconfentryfile>
+  <entrylist base="%s">
+  </entrylist>
+</gconfentryfile>
+Shutdown error: %s
+config_source == NULL
+GCONF_CONFIG_SOURCE
+err != NULL
+err == NULL
+Print version
+[FILE...]|[KEY...]|[DIR...]
+set-schema
+short-desc
+DESCRIPTION
+long-desc
+Specify the owner of a schema
+OWNER
+get-schema-name
+unapply-schema
+FILENAME
+config-source
+direct
+get-type
+get-list-size
+get-list-element
+list-type
+int|bool|float|string
+car-type
+cdr-type
+get-default-source
+shutdown
+spawn
+dump
+unload
+recursive-unset
+toggle
+Toggles a boolean key.
+all-entries
+all-dirs
+recursive-list
+search-key
+search-key-regex
+God A red nugget A fat egg under a dog
+short-docs
+long-docs
+ignore-schema-defaults
+WARNING: failed to install schema `%s', locale `%s': %s
+Installed schema `%s' for locale `%s'
+WARNING: failed to uninstall schema `%s', locale `%s': %s
+Uninstalled schema `%s' from locale `%s'
+WARNING: invalid or missing type for schema (%s)
+WARNING: invalid or missing list_type for schema (%s)
+WARNING: invalid or missing car_type or cdr_type for schema (%s)
+WARNING: You cannot set a default value for a schema
+WARNING: gconftool internal error, unknown GConfValueType
+WARNING: Failed to parse default value `%s' for schema (%s)
+WARNING: failed to associate schema `%s' with key `%s': %s
+Error syncing configuration data: %s
+Failed to unset breakage key %s: %s
+blah 
+blah blah 93475028934670 @%^%$&%$&^%
+Must specify a key or keys on the command line
+No doc string stored in schema at '%s'
+Error getting schema at '%s': %s
+Value at '%s' is not a schema
+Failed to get value for `%s': %s
+Failure listing entries in `%s': %s
+Eleele
+%s  <list_type>%s</list_type>
+WARNING: must have a child node under <value>
+WARNING: node <%s> not understood
+WARNING: must specify a list type for using <list type="type">
+WARNING: invalid list type '%s'
+WARNING: list type and element type do not match: %s != %s
+WARNING: must specify both a <car> and a <cdr> in a <pair>
+WARNING: key specified (%s) for schema under a <value> - ignoring
+WARNING: Failed to parse int value `%s'
+WARNING: Failed to parse float value `%s'
+WARNING: Failed to parse string value `%s'
+WARNING: Failed to parse boolean value `%s'
+WARNING: failed to parse type name `%s'
+WARNING: list_type can only be int, float, string or bool and not `%s'
+WARNING: car_type can only be int, float, string or bool and not `%s'
+WARNING: cdr_type can only be int, float, string or bool and not `%s'
+WARNING: node <%s> not understood below <schema>
+WARNING: no <list_type> specified for schema of type list
+WARNING: no <car_type> specified for schema of type pair
+WARNING: no <cdr_type> specified for schema of type pair
+WARNING: <locale> node has no `name="locale"' attribute, ignoring
+WARNING: multiple <locale> nodes for locale `%s', ignoring all past first
+WARNING: Invalid node <%s> in a <locale> node
+You must have at least one <locale> entry in a <schema>
+Document `%s' has the wrong type of root node (<%s>, should be <%s>)
+Document `%s' has no top level <%s> node
+WARNING: no key specified for schema
+WARNING: node <%s> not understood below <%s>
+WARNING: node <%s> below <%s> not understood
+Attached schema `%s' to key `%s'
+Must specify some schema files to install
+      <schema_key>%s</schema_key>
+- Tool to manipulate a GConf configuration
+Run '%s --help' to see a full list of available command line options.
+Error while parsing options: %s.
+Run '%s --help' to see a full list of available command line options.
+Can't get and set/unset simultaneously
+Can't set and get/unset simultaneously
+Can't get type and set/unset simultaneously
+Can't toggle and get/set/unset simultaneously
+Can't use --all-entries with --get or --set
+Beeb
+Can't use --all-dirs with --get or --set
+--recursive-list should not be used with --get, --set, --unset, --all-entries, --all-dirs, or --search-key
+--set_schema should not be used with --get, --set, --unset, --all-entries, --all-dirs, or --search-key
+Value type is only relevant when setting a value
+Must specify a type when setting a value
+--ignore-schema-defaults is only relevant with --get, --all-entries, --dump, --recursive-list, --get-list-size or --get-list-element
+%s option must be used by itself.
+You must specify a configuration source with --config-source when using --direct
+GCONF_DISABLE_MAKEFILE_SCHEMA_INSTALL
+GCONF_DISABLE_MAKEFILE_SCHEMA_INSTALL is set, not installing schemas
+GCONF_DISABLE_MAKEFILE_SCHEMA_UNINSTALL
+GCONF_DISABLE_MAKEFILE_SCHEMA_UNINSTALL is set, not uninstalling schemas
+Must set the GCONF_CONFIG_SOURCE environment variable
+Failed to spawn the configuration server (gconfd): %s
+Must specify some keys to break
+Trying to break your application by setting bad values for key:
+  %s
+Must specify some directories to break
+Trying to break your application by setting bad values for keys in directory:
+  %s
+Must specify a key or keys to get
+Must specify alternating keys/values as arguments
+No value to set for key: `%s'
+When setting a list you must specify a primitive list-type
+When setting a pair you must specify a primitive car-type and cdr-type
+Must specify one or more keys as arguments
+Must specify a key or keys to get type
+Must specify a key to lookup size of.
+Must specify a key from which to get list element.
+List index must be non-negative.
+Must specify key (schema name) as the only argument
+List type must be a primitive type: string, int, float or bool
+Pair car type must be a primitive type: string, int, float or bool
+Pair cdr type must be a primitive type: string, int, float or bool
+Must specify a schema name followed by the key name to apply it to
+Error associating schema name '%s' with key name '%s': %s
+Must specify keys to unapply schema from
+Error removing schema name from '%s': %s
+Must specify one or more directories to get key/value pairs from.
+Must specify one or more keys to unset.
+Must specify one or more keys to recursively unset.
+Failure during recursive unset of "%s": %s
+Must specify one or more directories to get subdirs from.
+Must specify one or more directories to recursively list.
+Must specify a key pattern to search for.
+Must specify a PCRE regex to search for.
+Must specify one or more directories to dump.
+Failed to access configuration source(s): %s
+Set a schema and sync. Use with --short-desc, --long-desc, --owner, and --type.
+Specify a short half-line description to go in a schema.
+Specify a several-line description to go in a schema.
+Get the name of the schema applied to this key
+Specify the schema name followed by the key to apply the schema name to
+Remove any schema name applied to the given keys
+Torture-test an application by setting and unsetting a bunch of values of different types for keys on the command line.
+Torture-test an application by setting and unsetting a bunch of keys inside the directories on the command line.
+Specify a schema file to be installed
+Specify a configuration source to use rather than the default path
+Bypass server, and access the configuration database directly. Requires that gconfd is not running.
+Properly installs schema files on the command line into the database. Specify a custom configuration source in the GCONF_CONFIG_SOURCE environment variable, or set set the variable to an empty string to use the default configuration source.
+Do nine men interpret Nine men I nod
+Properly uninstalls schema files on the command line from the database. GCONF_CONFIG_SOURCE environment variable should be set to a non-default configuration source or set to the empty string to use the default.
+Specify the type of the value being set, or the type of the value a schema describes. Unique abbreviations OK.
+int|bool|float|string|list|pair
+Print the data type of a key to standard output.
+Get the number of elements in a list key.
+Get a specific element from a list key, numerically indexed.
+Specify the type of the list value being set, or the type of the value a schema describes. Unique abbreviations OK.
+Specify the type of the car pair value being set, or the type of the value a schema describes. Unique abbreviations OK.
+Specify the type of the cdr pair value being set, or the type of the value a schema describes. Unique abbreviations OK.
+Get the name of the default source
+Shut down gconfd. DON'T USE THIS OPTION WITHOUT GOOD REASON.
+Return 0 if gconfd is running, 2 if not.
+Launch the configuration server (gconfd). (Normally happens automatically when needed.)
+Dump to standard output an XML description of all entries under a directory, recursively.
+Load from the specified file an XML description of values and set them relative to a directory.
+Unload a set of values described in an XML file.
+Set a key to a value and sync. Use with --type.
+Print the value of a key to standard output.
+Unset the keys on the command line
+Recursively unset all keys at or below the key/directory names on the command line
+Print all key/value pairs in a directory.
+Print all subdirectories in a directory.
+Print all subdirectories and entries under a directory, recursively.
+Search for a key, recursively.
+Get the short doc string for a key
+Get the long doc string for a key
+Return 0 if the directory exists, 2 if it does not.
+Ignore schema defaults when reading values.
+print_value_in_xml
+get_key_relative
+key_breakage
+set_values
+process_key_list
+fill_default_from_string
+get_values_from_xml
+get_first_value_from_xml
+hash_install_foreach
+process_schema
+main
+;*3$"
+gconftool-2
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+Tacocat
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

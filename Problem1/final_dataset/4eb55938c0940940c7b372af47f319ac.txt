@@ -1,0 +1,1593 @@
+/lib64/ld-linux-x86-64.so.2
+_r|rpx
+3gOT9
+O2c^70M
+tr%KA
+m}l-ut
+~$Ds
+libdbus-glib-1.so.2
+g_io_channel_unref
+g_signal_new
+g_value_get_type
+g_string_new
+_ITM_deregisterTMCloneTable
+g_object_unref
+g_value_peek_pointer
+g_value_unset
+g_signal_handlers_disconnect_matched
+g_slist_free
+g_value_set_long
+g_type_name
+g_list_prepend
+g_value_set_string
+g_set_error
+g_value_set_int
+g_return_if_fail_warning
+g_strconcat
+g_quark_from_static_string
+g_string_free
+g_object_new
+g_cclosure_marshal_VOID__VOID
+g_value_get_int
+g_strdup_printf
+g_type_class_peek_parent
+__gmon_start__
+g_object_ref
+g_param_spec_string
+g_slist_delete_link
+g_value_get_string
+g_io_channel_unix_new
+g_value_set_boolean
+g_type_check_class_cast
+g_type_class_add_private
+g_value_get_long
+g_strfreev
+g_object_class_install_property
+g_string_append_printf
+g_log
+g_slist_append
+g_object_remove_weak_pointer
+g_type_instance_get_private
+g_string_append
+g_malloc0_n
+g_type_check_instance_is_a
+g_type_check_instance_cast
+g_value_get_boolean
+_Jv_RegisterClasses
+g_malloc0
+g_strdup
+g_signal_emit
+g_object_add_weak_pointer
+_ITM_registerTMCloneTable
+g_value_get_uint
+g_error_free
+dbus_g_bus_get
+dbus_g_proxy_call
+dbus_connection_setup_with_g_main
+dbus_g_proxy_add_signal
+dbus_g_proxy_new_from_proxy
+dbus_g_proxy_connect_signal
+dbus_g_proxy_new_for_name
+libdbus-1.so.3
+dbus_bus_add_match
+dbus_bus_get
+dbus_message_iter_get_basic
+dbus_message_unref
+dbus_connection_register_object_path
+dbus_message_new_signal
+dbus_connection_send
+dbus_message_iter_get_element_type
+dbus_error_is_set
+dbus_message_is_signal
+dbus_message_new_method_return
+dbus_message_iter_next
+dbus_message_get_path
+dbus_message_iter_get_arg_type
+dbus_connection_send_with_reply_and_block
+dbus_bus_name_has_owner
+dbus_bus_request_name
+dbus_message_iter_init_append
+dbus_message_append_args
+dbus_message_get_destination
+dbus_message_get_args
+dbus_connection_add_filter
+dbus_message_iter_init
+dbus_connection_set_exit_on_disconnect
+dbus_message_new_error
+dbus_message_iter_append_basic
+dbus_message_iter_recurse
+dbus_message_is_method_call
+dbus_error_init
+dbus_message_get_no_reply
+dbus_connection_unref
+dbus_message_get_member
+dbus_error_free
+dbus_message_get_interface
+dbus_connection_get_is_connected
+libgnome-desktop-3.so.12
+g_settings_get_string
+g_intern_static_string
+g_signal_connect_object
+gdk_screen_get_type
+gdk_flush
+g_object_notify
+gdk_screen_get_n_monitors
+g_param_spec_int
+cairo_paint
+g_assertion_message_expr
+g_list_length
+gdk_x11_display_get_xdisplay
+gdk_error_trap_pop_ignored
+g_shell_quote
+g_param_spec_boolean
+g_object_get
+cairo_pattern_create_for_surface
+gdk_error_trap_push
+gdk_window_set_background_pattern
+g_settings_get_boolean
+gdk_screen_get_root_window
+gdk_x11_window_get_xid
+g_list_delete_link
+g_file_open_tmp
+gdk_screen_get_monitor_geometry
+g_str_has_prefix
+g_source_remove
+g_signal_connect_data
+gdk_screen_get_width
+cairo_pattern_destroy
+g_type_register_static_simple
+gdk_screen_get_number
+g_settings_new
+g_build_filename
+g_idle_add
+g_once_init_enter
+cairo_surface_destroy
+g_malloc_n
+g_once_init_leave
+gdk_screen_get_height
+g_variant_new
+g_type_class_adjust_private_offset
+gnome_rr_screen_list_crtcs
+gnome_wall_clock_get_type
+gnome_rr_screen_refresh
+gnome_rr_screen_new
+gnome_rr_crtc_set_gamma
+gnome_rr_crtc_get_gamma
+gnome_bg_new
+gnome_rr_crtc_get_current_mode
+gnome_bg_create_surface
+gnome_wall_clock_get_clock
+gnome_bg_load_from_preferences
+libgtk-3.so.0
+g_list_reverse
+g_bus_get_sync
+gdk_screen_get_monitor_at_window
+gdk_window_remove_filter
+gdk_error_trap_pop
+g_timeout_add
+gdk_window_add_filter
+gdk_window_set_cursor
+gdk_event_free
+g_timer_elapsed
+g_timer_destroy
+gdk_x11_get_default_root_xwindow
+g_slist_length
+cairo_surface_reference
+cairo_set_source_rgba
+gdk_screen_get_monitor_at_point
+XSelectInput
+cairo_region_create_rectangle
+g_get_prgname
+gdk_window_move
+gdk_window_raise
+gdk_display_get_default
+cairo_region_union_rectangle
+gdk_window_resize
+gdk_x11_window_lookup_for_display
+cairo_region_create
+g_getenv
+gdk_screen_make_display_name
+gdk_window_move_resize
+gdk_x11_window_set_user_time
+gdk_window_focus
+g_timeout_add_seconds
+g_print
+gdk_display_sync
+g_timer_new
+cairo_region_destroy
+g_strdup_vprintf
+g_settings_get
+g_themed_icon_new_with_default_fallbacks
+g_io_channel_set_close_on_unref
+cairo_region_get_extents
+gdk_event_copy
+XGetWindowAttributes
+gdk_display_get_screen
+g_locale_to_utf8
+gdk_x11_get_server_time
+gdk_window_set_background_rgba
+gdk_window_shape_combine_region
+XSync
+cairo_region_subtract
+gtk_main_iteration
+gtk_window_set_decorated
+gtk_label_get_type
+gtk_widget_set_visible
+gtk_window_get_type
+gtk_misc_set_alignment
+gtk_window_set_screen
+gtk_widget_get_window
+gtk_container_add
+gtk_image_new_from_stock
+gtk_widget_show_all
+gtk_widget_set_events
+gtk_box_pack_start
+gtk_container_get_type
+gtk_invisible_get_screen
+gtk_widget_add_events
+gtk_bin_get_type
+gtk_label_set_use_markup
+gtk_socket_add_id
+gtk_widget_hide
+gtk_label_new
+gtk_init_with_args
+gtk_widget_destroy
+gtk_info_bar_get_type
+gtk_widget_set_no_show_all
+gtk_misc_get_type
+gtk_box_pack_end
+gtk_widget_override_color
+gtk_size_group_new
+gtk_widget_set_size_request
+gtk_alignment_get_type
+gtk_widget_get_type
+gtk_main_quit
+gtk_invisible_get_type
+gtk_get_current_event_time
+gtk_window_set_keep_above
+gtk_size_group_add_widget
+gtk_window_get_screen
+gtk_window_set_skip_pager_hint
+gtk_alignment_new
+gtk_window_set_skip_taskbar_hint
+gtk_widget_get_events
+gtk_widget_get_screen
+gtk_widget_get_sensitive
+gtk_box_new
+gtk_events_pending
+gtk_socket_new
+gtk_label_set_markup
+gtk_label_set_line_wrap
+gtk_image_new_from_gicon
+gtk_main
+gtk_box_get_type
+gtk_bin_get_child
+gtk_info_bar_new
+gtk_widget_queue_draw
+gtk_container_set_border_width
+gtk_widget_get_visible
+gtk_widget_get_realized
+gtk_invisible_new
+gtk_alignment_set_padding
+gtk_widget_override_background_color
+gtk_widget_size_request
+gtk_widget_set_sensitive
+gtk_drawing_area_new
+gtk_window_fullscreen
+gtk_widget_show
+gtk_info_bar_get_content_area
+gtk_misc_set_padding
+gtk_widget_child_focus
+gtk_widget_queue_resize
+gtk_container_remove
+gtk_window_propagate_key_event
+gtk_socket_get_type
+gtk_widget_set_app_paintable
+libgdk-3.so.0
+XShapeQueryExtension
+XSetInputFocus
+g_usleep
+XSetErrorHandler
+XShapeSelectInput
+gdk_keyboard_ungrab
+gdk_display_get_n_screens
+gdk_display_get_pointer
+gdk_keyboard_grab
+gdk_pointer_ungrab
+gdk_x11_ungrab_server
+gdk_pointer_grab
+gdk_cursor_new
+gdk_pointer_is_grabbed
+gdk_screen_get_primary_monitor
+gdk_cursor_unref
+gdk_x11_grab_server
+libcairo.so.2
+libgio-2.0.so.0
+g_get_user_name
+g_spawn_async_with_pipes
+g_io_channel_read_line
+g_access
+g_shell_parse_argv
+g_spawn_close_pid
+g_settings_revert
+g_dbus_message_set_body
+g_dbus_connection_send_message
+g_dbus_message_new_method_call
+libgobject-2.0.so.0
+g_param_spec_long
+libglib-2.0.so.0
+g_get_real_name
+g_io_add_watch
+g_io_channel_get_flags
+g_vsnprintf
+g_io_channel_set_flags
+libXext.so.6
+libX11.so.6
+XGetInputFocus
+XGetScreenSaver
+XResetScreenSaver
+XSetScreenSaver
+libXxf86vm.so.1
+Degas are we not drawn onward no In union drawn onward to new eras aged
+XF86VidModeGetGamma
+XF86VidModeQueryExtension
+XF86VidModeQueryVersion
+XF86VidModeSetGamma
+XF86VidModeGetGammaRamp
+XF86VidModeGetGammaRampSize
+XF86VidModeSetGammaRamp
+libsystemd.so.0
+sd_pid_get_session
+sd_session_is_active
+libc.so.6
+fflush
+exit
+perror
+__isoc99_sscanf
+dcgettext
+sigprocmask
+__stack_chk_fail
+abort
+kill
+bind_textdomain_codeset
+strftime
+sigemptyset
+strstr
+__errno_location
+__fprintf_chk
+sigaddset
+fclose
+__vsnprintf_chk
+stderr
+__snprintf_chk
+waitpid
+localtime
+fdopen
+__sprintf_chk
+bindtextdomain
+strcmp
+strerror
+__libc_start_main
+__environ
+_edata
+__bss_start
+gs_window_is_obscured
+gs_window_get_monitor
+gs_listener_error_quark
+gs_window_request_unlock
+gs_watcher_get_enabled
+gs_window_is_dialog_up
+gs_window_get_type
+Tacocat
+gs_window_show_message
+gs_manager_request_unlock
+__libc_csu_fini
+gs_monitor_new
+signal_pid
+gs_watcher_set_enabled
+gs_listener_set_active
+gs_listener_get_type
+gs_monitor_get_type
+gnome_screensaver_quit
+gs_monitor_start
+gs_prefs_new
+__data_start
+gs_manager_set_active
+gs_listener_new
+gs_window_get_screen
+gs_window_set_status_message
+gs_fade_set_enabled
+gs_manager_get_lock_active
+gs_watcher_set_active
+gs_grab_new
+gs_grab_grab_offscreen
+gs_watcher_new
+gs_window_set_monitor
+gs_manager_set_keyboard_enabled
+gs_marshal_BOOLEAN__BOOLEAN
+gs_grab_move_to_window
+_gs_profile_log
+gs_window_set_logout_enabled
+gs_debug_init
+gs_manager_set_user_switch_enabled
+gs_window_set_background_surface
+gs_fade_reset
+gs_grab_get_type
+gs_prefs_get_type
+gs_manager_set_lock_timeout
+gs_manager_set_keyboard_command
+gs_window_clear
+gs_watcher_get_active
+gs_window_get_gdk_window
+gs_manager_set_logout_enabled
+gs_debug_enabled
+gs_window_set_lock_enabled
+gs_manager_set_lock_enabled
+gs_listener_set_activation_enabled
+gs_grab_release_mouse
+gs_fade_get_type
+alula
+gs_manager_get_type
+gs_grab_keyboard_reset
+gs_listener_set_session_idle
+__libc_csu_init
+gs_window_show
+gs_grab_grab_root
+gs_fade_new
+gs_grab_mouse_reset
+gs_fade_get_active
+gs_watcher_get_type
+gs_fade_get_enabled
+gs_manager_get_lock_enabled
+gs_manager_set_status_message
+gs_manager_show_message
+gs_fade_finish
+gs_window_set_keyboard_enabled
+gs_window_set_screen
+gs_debug_real
+gs_marshal_BOOLEAN__INT
+gs_window_new
+gs_debug_shutdown
+gs_window_cancel_unlock_request
+gs_manager_get_active
+gs_manager_set_logout_command
+gs_manager_set_logout_timeout
+gs_window_set_logout_timeout
+gs_fade_async
+gs_window_set_keyboard_command
+unblock_sigchld
+gs_listener_get_activation_enabled
+gs_window_set_user_switch_enabled
+gs_manager_set_lock_active
+gs_marshal_VOID__STRING_STRING_STRING
+gs_grab_grab_window
+gs_window_destroy
+gs_window_get_drawing_area
+gs_grab_release
+_IO_stdin_used
+gs_window_set_logout_command
+gs_fade_sync
+await_dying_children
+gs_listener_acquire
+gs_manager_new
+gs_manager_cancel_unlock_request
+gs_marshal_BOOLEAN__VOID
+LIBSYSTEMD_209
+GLIBC_2.4
+GLIBC_2.3.4
+GLIBC_2.7
+GLIBC_2.2.5
+LIBDBUS_1_3
+%z~!
+%r~!
+%j~!
+%b~!
+%Z~!
+%R~!
+%J~!
+%B~!
+%:~!
+%2~!
+%*~!
+%"~!
+%z}!
+%r}!
+%j}!
+%b}!
+%Z}!
+%R}!
+%J}!
+%B}!
+%:}!
+%2}!
+%*}!
+%"}!
+%z|!
+%r|!
+%j|!
+%b|!
+%Z|!
+%R|!
+%J|!
+%B|!
+%:|!
+%2|!
+%*|!
+%"|!
+%z{!
+%r{!
+%j{!
+%b{!
+%Z{!
+%R{!
+%J{!
+%B{!
+%:{!
+%2{!
+%*{!
+%"{!
+%zz!
+%rz!
+%jz!
+%bz!
+%Zz!
+%Rz!
+%Jz!
+%Bz!
+%:z!
+%2z!
+%*z!
+%"z!
+%zy!
+%ry!
+%jy!
+%by!
+%Zy!
+%Ry!
+%Jy!
+%By!
+%:y!
+%2y!
+%*y!
+%"y!
+%zx!
+%rx!
+%jx!
+%bx!
+%Zx!
+%Rx!
+%Jx!
+%Bx!
+%:x!
+%2x!
+%*x!
+%"x!
+%zw!
+%rw!
+%jw!
+%bw!
+%Zw!
+%Rw!
+%Jw!
+%Bw!
+%:w!
+%2w!
+%*w!
+%"w!
+%zv!
+%rv!
+%jv!
+%bv!
+%Zv!
+%Rv!
+%Jv!
+%Bv!
+%:v!
+%2v!
+%*v!
+%"v!
+|$ A
+L$ 1
+T$ H
+=^u!
+UH-P
+=ys!
+ATUI
+[]A\
+5%e!
+5Xd!
+ttUSH
+AVAUATUSH
+D$(1
+l$ UP1
+D$8H
+D$(dH3
+0[]A\A]A^
+D$8H
+AVAUI
+ATUH
+ []A\A]A^
+]A\A]A^
+AUATI
+([]A\A]
+[]A\A]
+ATUH
+D$(1
+T$(dH3
+0[]A\
+uBE1
+j@j@
+h@|A
+AUATUSH
+D$x1
+t$0L
+D$xdH3
+[]A\A]
+t$01
+|$0H
+AUATI
+([]A\A]
+[]A\A]
+t{SH
+=OQ!
+D$X1
+5yP!
+L$XdH3
+`[]A\
+D$ L
+AVAUI
+ATUH
+AVAUI
+[]A\A]A^
+L$`H
+5vI!
+5;I!
+t$`H
+t$`H
+AUATI
+buxH
+[]A\A]
+|$`M
+L$`1
+T$`H
+AUATI
+5dE!
+T$@1
+5$D!
+[]A\A]
+t$@H
+T$ H
+t$@I
+D$(Pjs1
+L$0H
+L$(H
+5yB!
+t$@H
+T$ H
+AVAUI
+ATUH
+D$81
+L$8dH3
+@[]A\A]A^
+ATUS
+[]A\
+[]A\
+AVAUATU
+u%E1
+]A\A]A^
+]A\A]A^
+]A\A]A^
+[]A\A]A^
+AVAUI
+ATUH
+ []A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+AUATUSH
+D$81
+L$8dH3
+H[]A\A]
+ATUI
+L$ 1
+ []A\
+H;D$
+ []A\
+AWAVAUATI
+USE1
+H;D$
+([]A\A]A^A_
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+([]A\A]
+AUATUSH
+[]A\A]1
+[]A\A]
+AUATI
+t	H;
+[]A\A]
+5='!
+]A\A]
+[]A\A]
+AVAUATUSH
+ []A\A]A^
+tKSH
+StZH
+AUATUSH
+[]A\A]1
+I+EPA
+}XLi
+uTL9
+[]A\A]
+H9h t*H
+ATUH
+[]A\
+D$0H
+[]A\
+ATUH
+[]A\
+D$8H
+[]A\
+ATUH
+[]A\
+D$@H
+[]A\
+AVAUI
+ATUH
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+ []A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+D9t$
+StJH
+AWAVI
+AUATI
+[]A\A]A^A_
+u0A9
+[]A\A]A^A_
+AUATI
+[]A\A]1
+[]A\A]
+D$(1
+D$(dH3
+AWAVAUATA
+[]A\A]A^A_
+[]A\A]A^A_
+W8dH
+=D	!
+ZYt%H
+=&	!
+ATUSH
+[]A\H
+D$(1
+D$(dH3
+D$(1
+T$(dH3
+t$ 1
+t^r$
+D$ 1
+ATUSH
+[]A\
+ATUSH
+^[]A\
+AWAVI
+AUATH
+t$ H
+T$HH
+L$PH
+t$8L
+D$X1
+t	H;
+D$XE1
+D$PPH
+D$TPj
+D$lPH
+D$DA
+T$XdH3
+h[]A\A]A^A_
+T$(Hc
+T$(H
+D$PL
+t$(1
+AWAVAUATUSH
+D$H1
+|$ H
+|$(H
+T$ 1
+C8E1
+T$ H
+D$XH
+C8E1
+D$xH
+C8E1
+D$HdH3
+X[]A\A]A^A_
+l$HI
+|$8H
+AWAVI
+AUATUSH
+4$dH
+D$H1
+l$01
+D$ H
+T$HR
+T$LRD
+T$HR
+T$LRD
+T$PL
+D$ H
+D$HdH3
+X[]A\A]A^A_
+ATUS
+t,=	
+d$8H
+AUATUSH
+[]A\A]E1
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+([]A\A]
+AUATI
+([]A\A]
+C8E1
+C8E1
+C8E1
+l$pI
+t	H9
+[]A\
+ATUH
+[]A\
+[]A\
+[]A\
+C8[H
+AVAUATUSH
+[]A\A]A^
+AVAUATUI
+ []A\A]A^
+D$hL
+D$`H
+l$`I
+l$hI
+C8E1
+C8E1
+C8E1
+C8E1
+AWAVI
+AUATI
+[]A\A]A^A_1
+[]A\A]A^A_
+C8[H
+\M f
+C89(t@
+AVAUI
+ATUH
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+ []A\A]A^
+ATUA
+[]A\
+@0pLA
+ATPA
+ []A\
+ATPA
+ []A\
+AVAUATUA
+[]A\A]A^
+t$ H
+D$81
+D$8dH3
+gnome_sc1
+reensaveH
+r_debug_H
+XXXXXX
+ATUI
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+[]A\
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+D$pH
+D$xH
+AUATA
+[]A\A]
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AUATUSH
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+AWAVI
+AUATI
+D$(1
+t$ H
+L$(dH3
+8[]A\A]A^A_
+[]A\H
+AWAVA
+AUATI
+t	H;
+[]A\A]A^A_1
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATLc
+([]A\A]A^A_
+ATUHc
+ D9e
+[]A\
+AVAUATUSH
+[]A\A]A^
+AVAUATUSH
+D$(1
+\$(dH3
+0[]A\A]A^
+AWAVAUATUSHc
+[]A\A]A^A_
+Ic<$
+Ic<$
+ATUI
+@9Z(~=I
+[]A\
+AWAVAUATI
+D$(1
+Hc{(
+t$$E1
+@D9`(
+D$(dH3
+8[]A\A]A^A_
+F( gA
+T$$H
+t$ L
+C00hA
+C00hA
+AUATI
+[]A\A]
+T(8I
+@9X(H
+[]A\A]
+AUATI
+[]A\A]1
+@9X(~0H
+God A red nugget A fat egg under a dog
+@9X(
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]1
+[]A\A]
+ATUI
+[]A\
+@9X(~&H
+@9X(
+[]A\
+AUATI
+[]A\A]
+AWAVAUATI
+ uDH
+[]A\A]A^A_
+AWAVAUATI
+ uDH
+[]A\A]A^A_
+AWAVAUATM
+ u_H
+A\A]A^A_
+AWAVA
+AUATL
+[]A\A]A^A_
+/usr/share/locale
+UTF-8
+Unable to initialize GTK+
+3.6.1
+%s %s
+gnome-screensaver.c
+Unable to start screensaver
+gnome-screensaver finished
+version
+Version of this application
+no-daemon
+Don't become a daemon
+debug
+Enable debugging code
+initializing gnome-screensaver %s
+main
+Unable to lock the screen
+gs-monitor.c
+Idle signal detected: %d
+Locking the screen suspend
+GSMonitor
+config-lock
+active-changed
+simulate-user-activity
+show-message
+idle-changed
+idle-notice-changed
+notify::status-message
+deactivated
+GS_IS_MONITOR (object)
+object != NULL
+monitor->priv != NULL
+GS_IS_MONITOR (monitor)
+Unable to set manager active: %d
+Unable to set the idle watcher active: %d
+Locking the screen on suspend disabled by the administrator
+Locking disabled by the administrator
+Idle notice signal detected: %d
+Could not grab the keyboard so not performing idle warning fade-out
+manager not active, performing fade cancellation
+manager active, skipping fade cancellation
+gs_monitor_start
+gs_monitor_finalize
+watcher_idle_cb
+watcher_idle_notice_cb
+listener_lock_cb
+gs_monitor_lock_screen
+listener_config_lock_cb
+listener_active_changed_cb
+Changing idle state: %d
+gs-watcher-x11.c
+noblank
+expose
+GSWatcher
+Unable to get session bus: %s
+org.gnome.SessionManager
+StatusChanged
+StatusTextChanged
+status
+status-text
+property
+GS_IS_WATCHER (object)
+watcher->priv != NULL
+GS_IS_WATCHER (watcher)
+inactive
+Idle detection is already %s
+turning watcher: %s
+Idle changed signal not handled: %d
+Changing idle notice state: %d
+Idle notice signal not handled: %d
+GSWatcher: not active, ignoring status changes
+disabling server builtin screensaver: (xset s %d %d; xset s %s; xset s %s)
+org.gnome.SessionManager.Presence
+/org/gnome/SessionManager/Presence
+org.freedesktop.DBus.Properties
+Couldn't get presence status: %s
+Couldn't get presence status text: %s
+%s:%d: invalid %s id %u for "%s" of type '%s' in '%s'
+Idle detection is disabled, cannot activate
+gs_watcher_get_enabled
+gs_watcher_set_enabled
+gs_watcher_set_active
+gs_watcher_get_active
+gs_watcher_finalize
+disable_builtin_screensaver
+_gs_watcher_set_session_idle_notice
+_gs_watcher_set_session_idle
+set_status
+couldn't connect to session bus: %s
+couldn't connect to system bus: %s
+/org/freedesktop/login1/session/
+There is a syntax error in the invocation of the method %s
+org.gnome.ScreenSaver.SyntaxError
+No connection to the system bus
+Couldn't determine our own session id: %s
+org.freedesktop.ConsoleKit.Manager
+/org/freedesktop/ConsoleKit/Manager
+Couldn't allocate the dbus message
+Trying to set active state when already: %s
+Active-changed signal not handled
+Sending the ActiveChanged(%s) signal on the session bus
+There is no valid connection to the message bus
+Not connected to the message bus
+Got disconnected from the system message bus; retrying to reconnect every 10 seconds
+org.freedesktop.login1.Session
+systemd requested session unlock
+systemd requested session lock
+org.freedesktop.login1.Manager
+systemd notified that system is about to sleep
+Failed to decode PropertiesChanged message.
+org.freedesktop.ConsoleKit.Session
+Console kit requested session unlock
+ConsoleKit requested session lock
+ConsoleKit notified ActiveChanged %d
+obj_path=%s interface=%s method=%s destination=%s
+Type mismatch setting property with id %s
+org.gnome.ScreenSaver.TypeMismatch
+Active start time is in the future
+Returning screensaver active for %u seconds
+org.freedesktop.DBus.Introspectable
+<!DOCTYPE node PUBLIC "-//freedesktop//DTD D-BUS Object Introspection 1.0//EN"
+"http://www.freedesktop.org/standards/dbus/1.0/introspect.dtd">
+<node>
+  <interface name="org.freedesktop.DBus.Introspectable">
+    <method name="Introspect">
+      <arg name="data" direction="out" type="s"/>
+    </method>
+  </interface>
+  <interface name="org.gnome.ScreenSaver">
+    <method name="Lock">
+    </method>
+    <method name="SimulateUserActivity">
+    </method>
+    <method name="GetActive">
+      <arg name="value" direction="out" type="b"/>
+    </method>
+    <method name="GetActiveTime">
+      <arg name="seconds" direction="out" type="u"/>
+    </method>
+    <method name="SetActive">
+      <arg name="value" direction="in" type="b"/>
+    </method>
+    <method name="ShowMessage">
+      <arg name="summary" direction="in" type="s"/>
+      <arg name="body" direction="in" type="s"/>
+      <arg name="icon" direction="in" type="s"/>
+    </method>
+    <signal name="ActiveChanged">
+      <arg name="new_value" type="b"/>
+    </signal>
+  </interface>
+Got disconnected from the session message bus; retrying to reconnect every 10 seconds
+Got NameLost, but couldn't read name
+Trying to set idle state when already %s
+failed to register with the message bus
+not connected to the message bus
+screensaver already running in this session
+out of memory registering object path
+type='signal',interface='org.freedesktop.DBus',sender='org.freedesktop.DBus',member='NameLost'
+type='signal',sender='org.freedesktop.login1',interface='org.freedesktop.login1.Session',member='Unlock'
+type='signal',sender='org.freedesktop.login1',interface='org.freedesktop.login1.Session',member='Lock'
+type='signal',sender='org.freedesktop.login1',interface='org.freedesktop.DBus.Properties',member='PropertiesChanged'
+type='signal',sender='org.freedesktop.login1',interface='org.freedesktop.login1.Manager',member='PrepareForSleep'
+Beeb
+type='signal',interface='org.freedesktop.ConsoleKit.Session',member='Unlock'
+type='signal',interface='org.freedesktop.ConsoleKit.Session',member='Lock'
+type='signal',interface='org.freedesktop.ConsoleKit.Session',member='ActiveChanged'
+gs-listener-dbus.c
+No memory
+GSListener
+/run/systemd/seats/
+GetCurrentSession
+org.freedesktop.ConsoleKit
+%s raised:
+Got session-id: %s
+GS_IS_LISTENER (object)
+listener->priv != NULL
+gs_listener_error
+TRUE
+FALSE
+GS_IS_LISTENER (listener)
+ActiveChanged
+org.gnome.ScreenSaver
+/org/gnome/ScreenSaver
+message != NULL
+Could not send %s signal
+Disconnected
+org.freedesktop.DBus.Local
+/org/freedesktop/DBus/Local
+Unlock
+Do nine men interpret Nine men I nod
+Lock
+cannot parse PrepareForSleep
+PropertiesChanged
+connection != NULL
+Unsupported property type %d
+Quit
+SetActive
+GetActive
+GetActiveTime
+Active start time was not set
+ShowMessage
+SimulateUserActivity
+Introspect
+</node>
+NameLost
+org.freedesktop.DBus
+Lost the name, shutting down.
+AddMatch
+not idle
+Setting session idle: %d
+Checking for activation
+Trying to activate
+Idle activation failed
+listener != NULL
+screensaver_is_running
+gs_listener_message_handler
+raise_error
+listener_get_active_time
+raise_property_type_error
+listener_set_property
+listener_dbus_handle_session_message
+properties_changed_match
+listener_dbus_handle_system_message
+gs_listener_acquire
+gs_listener_set_activation_enabled
+gs_listener_get_activation_enabled
+listener_check_activation
+gs_listener_set_session_idle
+send_dbus_message
+send_dbus_boolean_signal
+gs_listener_send_signal_active_changed
+gs_listener_set_active
+gs_listener_finalize
+query_session_id
+init_session_id
+gs_listener_dbus_init
+background changed
+gs-manager.c
+window unmapped!
+Handling window map event
+Borrow or rob
+auth-request-begin
+auth-request-end
+lock-enabled
+lock-timeout
+logout-enabled
+user-switch-enabled
+logout-timeout
+logout-command
+destroy
+map_event
+notify::dialog-up
+unmap
+grab_broken_event
+Moving grab to %p
+resetting fade
+GRAB BROKEN!
+GSManager
+org.gnome.desktop.background
+change-event
+GS_IS_MANAGER (manager)
+manager != NULL
+GS_IS_MANAGER (object)
+manager->priv != NULL
+Handling dialog up
+Handling dialog down
+GS_IS_WINDOW (window)
+Handling window show
+No background available
+Creating background w:%d h:%d
+window != NULL
+Setting lock active: %d
+GSManager: lock-enabled=%d
+monitors-changed
+GDK_IS_SCREEN (screen)
+We don't have any windows!
+Creating window for monitor %d [%d,%d] (%dx%d)
+Handling window map_event event
+WARNING: Could not find the GSWindow for screen %d
+Requesting unlock for screen %d
+Handling window dialog up changed: %s
+Trying to activate manager when already active
+Creating %d windows for screen %d
+Trying to deactivate a screensaver that is not active
+manager->priv->windows == NULL
+Request unlock but manager is not active
+Request unlock but dialog is already up
+Request unlock so finishing fade
+Monitors changed for screen %d: num=%d
+gs_manager_request_unlock
+gs_manager_get_active
+gs_manager_deactivate
+gs_manager_create_windows_for_screen
+gs_manager_create_windows
+gs_manager_activate
+find_window_at_pointer
+gs_manager_show_message
+gs_manager_set_status_message
+gs_manager_set_keyboard_command
+gs_manager_set_logout_command
+gs_manager_set_logout_timeout
+gs_manager_set_lock_timeout
+gs_manager_set_user_switch_enabled
+gs_manager_set_keyboard_enabled
+gs_manager_set_logout_enabled
+gs_manager_set_lock_enabled
+gs_manager_get_lock_enabled
+gs_manager_set_lock_active
+gs_manager_get_lock_active
+window_deactivated_idle
+window_deactivated_cb
+unfade_idle
+apply_background_to_window
+window_show_cb
+window_map_cb
+manager_maybe_grab_window
+window_map_event_cb
+handle_window_dialog_down
+handle_window_dialog_up
+window_dialog_up_changed_cb
+window_unmap_cb
+window_grab_broken_cb
+gs_manager_create_window_for_monitor
+on_screen_monitors_changed
+gs_manager_destroy_windows
+gs_manager_finalize
+on_bg_changed
+<b><span foreground="#ccc">%s</span></b>
+The monitor (in terms of Xinerama) which the window is on
+gtk_widget_get_realized (widget)
+Move and/or resize window on monitor %d: x=%d y=%d w=%d h=%d
+Got screen size changed signal
+Grab broken on window %X %s, new grab on window %X
+Grab broken on window %X %s, new grab is outside application
+waitpid () should not fail in 'GSWindow'
+Could not start command '%s': %s
+got geometry for monitor %d: x=%d y=%d w=%d h=%d
+using geometry for monitor %d: x=%d y=%d w=%d h=%d
+Clearing window to background pixmap
+Adding embedded keyboard widget
+Request unlock but window is not visible!
+obscured
+Xinerama monitor
+gs-window-x11.c
+command error output: %s
+Error reading from child: %s
+Could not parse command: %s
+A Santa lives evil at NASA
+DISPLAY
+DISPLAY=
+GSWindow
+XDG_CURRENT_DESKTOP
+draw
+Unity
+Unknown
+changes-prevent-symbolic
+realize
+notify::clock
+Ignoring brightness keys
+size_changed
+Raising screensaver window
+not raising our windows
+Window was reshaped!
+Keyboard finished
+Dialog finished
+GS_IS_WINDOW (object)
+window->priv != NULL
+keyboard command output: %s
+plug_added
+plug_removed
+Popping up dialog
+gnome-screensaver-dialog
+/usr/lib/gnome-screensaver
+ --status-message=%s
+ --enable-switch
+ --verbose
+Could not start command: %s
+ --enable-logout
+ --logout-command='%s'
+WINDOW ID=
+ WINDOW ID= %u %c
+Running command: %s
+NOTICE=
+NOTICE=AUTH FAILED
+RESPONSE=
+RESPONSE=OK
+Got OK response
+Got CANCEL response
+REQUEST QUIT
+Got request for quit
+<b>%s</b>
+<small>%s</small>
+Requesting unlock
+app-paintable
+gs_window_is_dialog_up
+gs_window_is_obscured
+gs_window_get_monitor
+gs_window_set_monitor
+gs_window_set_status_message
+gs_window_set_logout_command
+gs_window_set_logout_timeout
+gs_window_set_user_switch_enabled
+gs_window_set_logout_enabled
+Eleele
+gs_window_set_keyboard_command
+gs_window_set_keyboard_enabled
+gs_window_get_screen
+gs_window_set_screen
+gs_window_set_lock_enabled
+gs_window_cancel_unlock_request
+spawn_make_environment_for_screen
+error_watch
+spawn_on_window
+gs_window_clear_to_background_surface
+keyboard_command_watch
+embed_keyboard
+lock_command_watch
+popup_dialog
+gs_window_request_unlock
+gs_window_get_drawing_area
+gs_window_get_gdk_window
+gs_window_destroy
+gs_window_show
+gs_window_show_message
+gs_window_clear
+gs_window_set_background_surface
+wait_on_child
+keyboard_command_finish
+gs_window_dialog_finish
+gs_window_finalize
+gs_window_raise
+gs_window_xevent
+screen_size_changed
+gs_window_real_key_press_event
+gs_window_move_resize_window
+update_geometry
+gs_window_real_grab_broken
+lock-delay
+idle-activation-enabled
+gs-prefs.c
+disable-lock-screen
+ubuntu-lock-on-suspend
+ubuntu-lock-on-suspend=%d
+disable-user-switching
+embedded-keyboard-enabled
+embedded-keyboard-command
+status-message-enabled
+logout-delay
+Config key not handled: %s
+GSPrefs
+org.gnome.desktop.screensaver
+org.gnome.desktop.lockdown
+GS_IS_PREFS (object)
+prefs->priv != NULL
+gs_prefs_finalize
+key_changed_cb
+%H:%M:%S
+[%s] %s:%d (%s):	 %s
+disabled
+Debugging %s
+gs-debug.c
+Shutting down debugging
+MARK: %s %s: %s %s
+MARK: %s: %s %s
+gs_debug_shutdown
+gs_debug_init
+Child process %lu was already dead.
+Couldn't kill child process %lu
+waitpid(%d) ==> %ld (%d)
+waitpid(%d) ==> %ld
+screen != NULL
+Grabbing mouse widget=%X
+gs-grab-x11.c
+GrabSuccess
+AlreadyGrabbed
+GrabInvalidTime
+GrabNotViewable
+GrabFrozen
+unknown status: %d
+Couldn't grab keyboard!  (%s)
+Grabbing keyboard widget=%X
+GSGrab
+GS_IS_GRAB (object)
+grab->priv != NULL
+Ungrabbing keyboard
+Ungrabbing pointer
+Releasing all grabs
+/org/gnome/Shell
+org.gnome.Shell
+OverviewActive
+(ssv)
+Nuking focus
+Couldn't grab pointer!  (%s)
+Grabbing the root window
+Grabbing an offscreen window
+GS_IS_GRAB (grab)
+Getting keyboard grab on %X
+*** doing X server grab
+*** releasing X server grab
+Getting pointer grab on %X
+gs_grab_move_mouse
+gs_grab_move_keyboard
+gs_grab_move_to_window
+gs_grab_grab_offscreen
+gs_grab_grab_root
+gs_grab_get_mouse
+gs_grab_move_focus
+gs_grab_get_keyboard
+gs_grab_grab_window
+gs_grab_release_keyboard
+gs_grab_release
+gs_grab_release_mouse
+gs_grab_finalize
+Window %X is already grabbed, skipping
+Moving keyboard grab from %X to %X
+Could not grab keyboard for new window.  Resuming previous grab.
+Moving pointer grab from %X to %X
+Could not grab mouse for new window.  Resuming previous grab.
+Failed to set gamma. Bailing out and aborting fade
+Initialized gamma fade for screen %d: %f %f %f
+gs-fade.c
+Initialized gamma ramp fade
+faded
+Unknown fade type
+GSFade
+LTSP_CLIENT
+Fade type: %d
+GS_IS_FADE (object)
+fade->priv != NULL
+GS_IS_FADE (fade)
+Resetting fade
+gs_fade_reset
+gs_fade_sync
+gs_fade_set_timeout
+gs_fade_start
+gs_fade_async
+gs_fade_get_active
+gs_fade_finish
+gs_fade_set_enabled
+gs_fade_get_enabled
+gs_fade_finalize
+gamma_fade_setup
+xf86_whack_gamma
+gs_fade_init
+?return_value != NULL
+n_param_values == 1
+n_param_values == 2
+n_param_values == 4
+gs_marshal_VOID__STRING_STRING_STRING
+gs_marshal_BOOLEAN__BOOLEAN
+gs_marshal_BOOLEAN__INT
+gs_marshal_BOOLEAN__VOID
+;*3$"
+gnome-screensaver
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

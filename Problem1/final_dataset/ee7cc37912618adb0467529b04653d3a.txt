@@ -1,0 +1,4836 @@
+/lib64/ld-linux-x86-64.so.2
+5Btu9
+libssl.so.1.0.0
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_deregisterTMCloneTable
+_ITM_registerTMCloneTable
+SSL_get_verify_result
+SSL_write
+SSL_shutdown
+SSL_get_session
+SSL_CTX_new
+SSL_clear
+SSL_set_fd
+SSLv23_client_method
+SSL_read
+SSL_get_error
+SSL_get_peer_certificate
+SSL_load_error_strings
+SSL_connect
+SSL_library_init
+SSL_CTX_free
+SSL_CTX_ctrl
+SSL_CTX_set_timeout
+SSL_CTX_set_cipher_list
+SSL_set_session
+SSL_get_verify_mode
+SSL_get1_session
+SSL_CTX_set_verify
+SSL_new
+SSL_free
+SSL_ctrl
+libcrypto.so.1.0.0
+X509_free
+EVP_MD_size
+ERR_reason_error_string
+EVP_MD_CTX_cleanup
+EVP_EncryptInit
+RAND_add
+RAND_status
+EVP_DigestFinal
+EVP_CIPHER_CTX_set_padding
+ERR_error_string
+EVP_sha256
+ERR_get_error
+EVP_aes_128_cbc
+EVP_DecryptInit
+EVP_DigestUpdate
+EVP_EncryptFinal
+ERR_peek_last_error
+EVP_DigestInit
+EVP_MD_CTX_init
+EVP_DecryptFinal
+EVP_CIPHER_CTX_init
+EVP_DecryptUpdate
+EVP_CIPHER_CTX_cleanup
+EVP_EncryptUpdate
+HMAC
+libpcap.so.0.8
+pcap_get_selectable_fd
+pcap_setnonblock
+pcap_geterr
+pcap_freecode
+pcap_next
+pcap_setfilter
+pcap_datalink
+pcap_findalldevs
+pcap_lookupdev
+pcap_next_ex
+pcap_close
+pcap_compile
+pcap_open_live
+libstdc++.so.6
+_ZTVN10__cxxabiv117__class_type_infoE
+__gxx_personality_v0
+_ZTVN10__cxxabiv120__si_class_type_infoE
+__cxa_pure_virtual
+_ZdlPv
+__cxa_begin_catch
+__cxa_end_catch
+_ZSt24__throw_out_of_range_fmtPKcz
+_ZSt17__throw_bad_allocv
+_Znwm
+__cxa_rethrow
+libgcc_s.so.1
+_Unwind_Resume
+libc.so.6
+epoll_create
+strcasestr
+socket
+fflush
+__rawmemchr
+__printf_chk
+fopen
+gai_strerror
+optind
+strrchr
+__strdup
+perror
+__isoc99_sscanf
+in6addr_any
+__fdelt_chk
+inet_ntoa
+epoll_wait
+inet_ntop
+signal
+strncpy
+__stack_chk_fail
+putchar
+listen
+select
+realloc
+abort
+Do nine men interpret Nine men I nod
+strpbrk
+getpid
+inet_pton
+strftime
+__assert_fail
+strtod
+strtok
+strtol
+fgets
+calloc
+strlen
+ungetc
+__cxa_atexit
+send
+getaddrinfo
+memset
+strstr
+__errno_location
+bind
+memcmp
+getnameinfo
+getsockopt
+poll
+__fprintf_chk
+stdout
+fputc
+fputs
+memcpy
+fclose
+__vsnprintf_chk
+strtoul
+setsockopt
+malloc
+strcasecmp
+__ctype_b_loc
+getenv
+recvfrom
+optarg
+stderr
+ioctl
+gethostbyname
+__snprintf_chk
+readlink
+setrlimit
+__strncat_chk
+strncasecmp
+if_nametoindex
+sendmsg
+if_indextoname
+fwrite
+gettimeofday
+epoll_ctl
+geteuid
+__memcpy_chk
+localtime
+strchr
+getsockname
+sendto
+__vfprintf_chk
+qsort
+accept
+sleep
+__strcpy_chk
+__ctype_tolower_loc
+freeaddrinfo
+__vasprintf_chk
+fcntl
+__sprintf_chk
+__xstat
+getrlimit
+memmove
+access
+_IO_getc
+strcmp
+recvmsg
+__asprintf_chk
+__libc_start_main
+ferror
+getopt_long_only
+GCC_3.0
+GLIBCXX_3.4.20
+CXXABI_1.3
+GLIBCXX_3.4
+OPENSSL_1.0.0
+GLIBC_2.15
+GLIBC_2.8
+GLIBC_2.4
+GLIBC_2.7
+GLIBC_2.14
+GLIBC_2.3.2
+GLIBC_2.3
+GLIBC_2.2.5
+GLIBC_2.3.4
+%z{'
+%r{'
+%j{'
+%b{'
+%Z{'
+%R{'
+%J{'
+%B{'
+%:{'
+%2{'
+%*{'
+%"{'
+%zz'
+%rz'
+%jz'
+%bz'
+%Zz'
+%Rz'
+%Jz'
+%Bz'
+%:z'
+%2z'
+%*z'
+%"z'
+%zy'
+%ry'
+%jy'
+%by'
+%Zy'
+%Ry'
+%Jy'
+%By'
+%:y'
+%2y'
+%*y'
+%"y'
+%zx'
+%rx'
+%jx'
+%bx'
+%Zx'
+%Rx'
+%Jx'
+%Bx'
+%:x'
+%2x'
+%*x'
+%"x'
+%zw'
+%rw'
+%jw'
+%bw'
+%Zw'
+%Rw'
+%Jw'
+%Bw'
+%:w'
+%2w'
+%*w'
+%"w'
+%zv'
+%rv'
+%jv'
+%bv'
+%Zv'
+%Rv'
+%Jv'
+%Bv'
+%:v'
+%2v'
+%*v'
+%"v'
+=pv'
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+=^u'
+5Gu'
+|$ H
+L$ A
+God A red nugget A fat egg under a dog
+AWAVI
+AUATI
+[]A\A]A^A_
+ATUH
+dH34%(
+ []A\
+AWAVI
+AUAT1
+l$`I
+D$(H
+[]A\A]A^A_
+=pR'
+t$@H
+t$@H
+=/Q'
+=FP'
+<du*f.
+=^O'
+D$ t
+HcD$(
+tIHcD$(
+=WM'
+=aL'
+=$L'
+D$`L
+|$PH
+L9|$
+t$PH
+HcD$(
+HcD$(
+Nt$$
+D$hH
+T$pH
+D$PH
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+=?@'
+=&@'
+D$,=
+=B>'
+=L<'
+:<Ut"~5<f
+~r<st]<uu;
+HcD$(
+=`:'
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+="7'
+HcD$(
+=X6'
+<ctH<et0<a
+HcD$(
+D$ t
+HcD$(
+=?4'
+HcD$(
+=a3'
+HcD$(
+=c2'
+D$ t
+HcD$(
+T$,L
+HcD$(
+5b1'
+T$,L
+5;1'
+T$0H
+L$HL
+HcD$(
+5J0'
+T$,L
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+=>.'
+HcD$(
+HcD$(
+=s-'
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+=p,'
+HcD$(
+HcD$(
+HcD$(
+=n+'
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+=/*'
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+D$XH
+L$@H
+HcD$(
+=w''
+HcD$(
+t$,L
+HcD$(
+HcD$(
+=+&'
+HcD$(
+t$HH
+T$HL
+T$HH
+=t%'
+HcD$(
+|$,x
+|$,x
+t$,L
+T$,L
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+59"'
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+=c '
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+HcD$(
+W(wk)
+C(;C,
+G(;G$
+AWAVAUATA
+T$01
+|$(H
+[]A\A]A^A_
+|$(H
+D+|$
+D+|$
+AWAVI
+AUATI
+D$(1
+\$ I
+D$(dH3
+8[]A\A]A^A_
+AUATI
+[]A\A]
+ICMP
+TCP-Conn
+UDP-Unpr
+ivilegedH
+Unknown 
+mode
+dH34%(
+ATUI
+[]A\
+USHc
+AUATI
+USHc
+[]A\A]
+ftfH
+[]A\
+t$0H
+dH3<%(
+AVAUATUSH
+[]A\A]A^
+t;USH
+AUATUSH
+[]A\A]
+u,H9
+AUATA
+[]A\A]
+AWAVAUATUSH
+[]A\A]A^A_
+taUS
+v4@8,
+AWAV
+AUATUSH
+D$h1
+        f
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+D$`    
+L$ 1
+D9D$
+        H
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+D$`    
+D$hdH3
+x[]A\A]A^A_
+D9D$
+9]\w
+D$(1
+\$(dH3
+[[UnknowH
+n addresH
+s familyH
+ sockaddH
+r suppliH
+ed to IPH
+toa()]]
+[[NULL a
+()]]
+ddress sH
+upplied H
+to IPtoaH
+AUATI
+t\Hc
+dH3<%(
+[]A\A]
+ATUA
+\$ 1
+dH34%(
+[]A\
+ATUI
+dH34%(
+[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+AVAUATUH
+]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+AVAUATUSH
+dH34%(
+ []A\A]A^
+AVAUATU
+[]A\A]A^
+]A\A]A^
+AVAU
+[]A\A]A^
+AUATA
+[]A\A]
+AWAVAUATUSH
+|$XH
+unknown_
+addr_famH
+unknown_L
+addr_famH
+L$ L
+ASVE
+AQPM
+L$p1
+D$ SI
+RAQPH
+L$@M
+|$0L
+t$0H
+L$PM
+[]A\A]A^A_
+this_hosH
+unknown_
+host
+AWAVAUATUSH
+unknown_L
+addr_famH
+unknown_L
+addr_famH
+QRPL
+[]A\A]A^A_
+unknown_
+host
+this_hos
+AWAVI
+AUATA
+D$PL
+[]A\A]A^A_
+]A\A]A^A_
+D$PH
+[]A\A]A^A_
+D$PH
+[]A\A]A^A_
+ATUE1
+D$(1
+D$	j
+t$(dH34%(
+0[]A\
+AUATUSH
+T$ 1
+[]A\A]
+<@t5<`uQH
+<@t!H
+/vC<`u?
+<@t!H
+;vC<`u?
+dH34%(
+AWAV
+AUATUSH
+l$PH
+4$dH
+D;4$
+|$p 
+|$s 
+|$v 
+|$y 
+D$|< 
+dH34%(
+[]A\A]A^A_
+|$ 1
+D$ B
+D</K
+D$qH
+D$tH
+D$wH
+D$zH
+oL$@
+oL$0
+AWAVH
+AUAT
+[]A\A]A^A_
+|$@1
+D$@B
+|$@H
+T$(L
+D$ L
+D$@A
+T$(L
+D$ I
+|$@H
+T$0L
+D$(L
+L$ H
+D$@A
+T$0L
+L$ L
+D$(I
+|$@H
+T$0L
+D$(L
+L$ H
+D$@A
+T$0L
+L$ L
+D$(I
+|$@H
+T$0L
+D$(L
+L$ H
+D$@A
+T$0L
+L$ L
+D$(I
+|$@H
+T$0L
+D$(L
+L$ H
+D$@A
+T$0L
+L$ L
+D$(I
+|$@H
+L$(L
+D$ H
+D$@A
+L$(L
+D$ I
+D$PH
+D$`H
+D$pH
+AVAUATUSH
+[]A\A]A^
+ATUH
+w+A9
+dH34%(
+[]A\
+AUATUSH
+w(D9
+dH34%(
+[]A\A]
+AUATUSH
+w,D9
+dH34%(
+[]A\A]
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AWAVI
+AUATE1
+l$0H
+T$(H
+T$(H
+D$0I
+D$8I
+D$@I
+D$HI
+D$PI
+D$XI
+D$`I
+D$hI
+D$pI
+D$xI
+D$(1
+dH34%(
+[]A\A]A^A_
+ATUI
+[]A\
+srSH
+ATUSH
+[]A\
+AWAVAUATUSH
+l$(H
+l$$H
+t$ H
+D$ f
+[]A\A]A^A_
+AWAV
+AUATUSH
+[]A\A]A^A_
+AWAVAUATI
+I;|$
+[]A\A]A^A_
+unH)
+ATUH
+[]A\
+t7USH
+AUATUSH
+[]A\A]
+d$@H
+d$@H
+t$(L
+D$(H
+D$,f
+ATUA
+[]A\H
+gfffH
+ATUA
+}0f9y
+gfffH
+f92t
+w2ATUI
+2tDH
+kw^H
+F`<Bv	
+Bwb@
+D$(1
+L$(dH3
+t+SH
+AVAUI
+ATUI
+[]A\A]A^
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+@PH=
+@PH=
+@PH=
+@PH=
+@PH=
+@PH=
+@PH=
+@PH=
+@PH=
+@PH=
+@PH=
+@PH=
+@PH=
+@PH=
+@PH=
+@PH=
+AWAVAUATUSH
+H=PbA
+H=PbA
+H=PbA
+H=PbA
+D$ H
+D$ M
+H=PbA
+D$(I
+\$8L
+t$(H
+T$0L
+\$8H
+Ic|$
+T$(L
+IcT$
+t$ H
+Ic|$
+T$(L
+[]A\A]A^A_
+Ic|$
+IcT$
+t$ H
+D$(L
+t$(H
+AWAVI
+AUATUS
+H=PbA
+w Lcc
+H=PbA
+u Mcu
+H=PbA
+q Lcq
+H=PbA
+w Mcg
+4&D)
+[]A\A]A^A_
+AWAVAUATUSH
+H=PbA
+H=PbA
+H=PbA
+H=PbA
+D$ H
+D$ M
+H=PbA
+D$0M
+H=PbA
+D$8I
+D$(1
+D$(H
+D$@I
+D$(Hc
+D$(H
+t$8H
+D$(IcP
+D$HH
+l$@Icx
+D$8L
+t$0H
+D$8L
+l$(L
+Ic|$
+D$(L
+IcT$
+t$ H
+Ic|$
+D$(H
+D$ L
+D$ L
+[]A\A]A^A_
+Ic|$
+IcT$
+t$ H
+t$0H
+D$8L
+D$@H
+t$8H
+D$(IcP
+ATUSH
+[]A\
+AUATI
+[]A\A]
+AVAU
+ATUH
+sWHi
+[]A\A]A^
+]A\A]A^
+D$H1
+D$(H
+|$(H
+L$HdH3
+P[]A\
+D$(H
+AWAVI
+AUATI
+T$0L
+D$(H
+L$8H
+PAQ1
+D$@H
+D$PH
+D$`H
+D$`H
+D$xH
+D$x1
+D$xH
+D$xL
+D$`E1
+D$`D
+L$`H
+D$xHcQ
+D$`L
+D$PE1
+D$PD
+L$PH
+D$`HcQ
+D$PL
+t$xHcx
+\$ H
+\$ H
+|$ H
+\$ H
+|$ H
+X5`-
+\$0H
+\$0H
+\$0H
+PxA:E
+|$0H
+X=P,
+X=c)
+\$(H
+\$(H
+\$(H
+\$(H
+\$(H
+ZL$8f
+.T$8r>H
+[]A\A]A^A_
+\$ H
+D$PL
+t$XH
+D$PL
+|$@L
+D$@Hcx
+t$HL
+D$@H
+t$HI
+t$XH
+D$PH
+D$`L
+t$hH
+D$`H
+\$PH
+|$@L
+t$hH
+D$`H
+D$@1
+D$xHcx
+L$@H
+t$pH
+D$PHcQ
+L$@L
+D$xH
+t$`Hcy
+D$@Hcx
+D$PH
+D$@H
+t$pHcP
+D$PHcx
+D$`H
+D$PH
+D$`Hcx
+D$xH
+D$`H
+D$xHcx
+D$xH
+ATUI
+[]A\
+[]A\
+ATU1
+AWAV1
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AUATI
+[]A\A]
+ATUA
+L$,1
+L$<1
+L$L1
+L$\1
+L$l1
+L$|1
+AWAV
+AUATI
+[]A\A]A^A_
+AUAT1
+[]A\A]
+[]A\A]
+ATUI
+[]A\
+AVAUI
+[]A\A]A^
+ATUI
+[]A\
+ATUI
+[]A\
+AWAVAUATI
+[A\A]A^A_]
+[]A\
+$t$H
+AWAVAUATI
+[A\A]A^A_]
+AWAVAUATI
+[A\A]A^A_]
+AWAVAUATI
+[A\A]A^A_]
+ATUI
+[]A\
+AWAVAUATI
+[A\A]A^A_]
+ATUI
+[]A\
+AWAVAUATI
+dH34%(
+[A\A]A^A_]
+ATUI
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+3u"M
+AWAVI
+AUATUSH
+T$$I
+T$4I
+T$DI
+T$TI
+T$dI
+D$,I
+D$<I
+D$LI
+D$\I
+D$lI
+T$tH
+D$|I
+D$ H
+T$DH
+T$TH
+T$dH
+T$tH
+D$8H
+D$<H
+D$LH
+D$\H
+D$lH
+D$|H
+D$ L
+l$ H
+D$(H
+[]A\A]A^A_
+U$E1
+T$$H
+T$4H
+T$DH
+T$TH
+T$dH
+D$,H
+D$<H
+D$LH
+D$\H
+D$lH
+T$tI
+D$|H
+HiD$
+H9l$
+L9l$
+H9\$
+o@SH
+{@[]
+AUATD
+[]A\A]
+T$ H
+ATU1
+[]A\
+t$(I
+T$0H
+AUAT
+([]A\A]
+ATUI
+[]A\
+t6HcT$
+ATU1
+t []A\
+t	[]A\
+ATUI
+[]A\
+t6HcT$
+ATU1
+t []A\
+t	[]A\
+ATUI
+[]A\
+t6HcT$
+ATU1
+t []A\
+t	[]A\
+AWAVAUATI
+Ic|$
+IcT$
+Ic|$
+[A\A]A^A_]
+Ic|$
+IcT$
+AWAVAUATSH
+Ic|$
+IcT$
+Ic|$
+[A\A]A^A_]
+Ic|$
+IcT$
+AUATH
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+Lcl$
+Eleele
+B H=
+AWAVI
+AUATH
+|$0L
+D$ H
+[]A\A]A^A_
+|$0H
+AWAVAUATI
+[]A\A]A^A_
+|$@L
+|$ H
+ATUI
+[]A\
+AWAVI
+AUAT
+|$ H
+Borrow or rob
+[]A\A]A^A_
+HcT$
+|$ H
+ATUI
+[]A\
+AUATI
+@8H=
+@@H=
+[]A\A]
+@8H=
+[]A\A]
+AUATI
+@8H=
+@@H=
+[]A\A]
+@8H=
+AUAT
+dH34%(
+[]A\A]
+127.0.0.
+AWAVI
+AUATUSH
+=e:/
+[]A\A]A^A_
+T$,1
+D$4A
+t$0f
+T$,1
+T$,1
+T$@f
+D$0A
+D$8H
+T$@f
+ATUI
+[]A\
+AWAVI
+AUATUSH
+d$0H
+=-1/
+[]A\A]A^A_
+T$(1
+D$4A
+F(fD
+T$0f
+\$ H
+5S-/
+AXAYH
+t$,H
+T$(1
+l$,1
+T$(1
+-(+/
+T$(1
+l$,H
+T$@f
+D$0A
+l$,1
+-x(/
+D$8H
+T$@fD
+ATUI
+[]A\
+ATUI
+[]A\
+AWAVAUATI
+[]A\A]A^A_
+D$@H
+L$(H
+t$0H
+T$0H
+T$0H
+IcL$
+|$ H
+T$8H
+t$@H
+|$ H
+T$8H
+T$0H
+T$(I
+|$ 1
+T$0H
+t$0H
+T$0H
+T$0H
+t$0H
+t$0H
+D$0H
+|$ 1
+t$0H
+t$0H
+ATUI
+[]A\
+AWAVI
+AUATI
+d$@L
++\$(H
+\$(H
+HcT$(H9
+L$(+L$
+L$(H
+HcT$(H9
+D$ H
+L$(D
+D$ H
+L$(H
+HcT$(H9
+D$,H
+L$(D
+D$,H
+L$(H
+L$ H
+HcT$(H9
+D$,H
+T$(D
+D$,H
+L$ H
+|$pL
+HcL$xH
+D$(H
+D$(H
+B D)
+\$(H
+HcT$(H9
+L$(+L$
+L$(H
+HcT$(H9
+D$ H
+L$(D
+D$ H
+L$(H
+HcT$(H9
+D$,H
+L$(D
+D$,H
+L$(H
+L$ H
+HcT$(H9
+D$,H
+T$(D
+D$,H
+L$ H
+T$xH
+[]A\A]A^A_
+L$<H
+T$0D
+t$0H
+T$(H
+T$(H
+T$(H
+T$(H
+T$(H
+T$(H
+T$(H
+T$(H
+AWAVI
+AUATI
+|$@H
+\$pdH
+|$@H
+|$@H
+\$PH
+HcL$HH
+d$PM
+IcL$
+H D)
+B D)
+D$ H
+D$ H
+B D)
+D$(H
+D$(H
+L$ H
+B D)
+D$0H
+D$0H
+L$(H
+B D)
+t$ HcN
+D$<H
+D$ H
+D$<H
+L$0H
+B D)
+t$(HcN
+D$<H
+D$(H
+D$<H
+D$(H
+D$ H
+D$PE1
+T$HH
+[]A\A]A^A_
+AWAVA
+AUATI
+D$pH
+D$PH
+D$@H
+|$@A
+[]A\A]A^A_
+Lc|$HM
+d$PM
+Mc|$
+B H=
+4$H=
+HcT$
+B D)
+HcT$
+t$@H
+t$0H
+Mc|$
+$+\$
+4$H=
+HcT$
+HcT$
+D$ H
+D$ H
+HcT$
+D$ H
+D$ H
+T$0H
+|$@D
+t$@H
+Mc|$
+B H=
+B D)
+4$H=
+D$ H
+D$ H
+B D)
+D$ H
+D$ H
+|$pH
+D$PE1
+T$HH
+|$@1
+$+\$
+4$H=
+$+\$
+IcL$
+HcT$
+B D)
+HcT$
+D$ H
+D$ H
+HcT$
+D$,H
+L$ D
+D$,H
+B H=
+4$HcN
+HcT$
+D$,H
+L$ D
+D$,H
+|$pH
+AWAVA
+AUATI
+D$@H
+[]A\A]A^A_
+Mc|$
+B H=
+$+\$
+B D)
+$HcI
+D$ H
+D$ H
+B H=
+HcT$
+D$,H
+L$ D
+D$,H
+B D)
+HcT$
+D$,H
+L$ D
+D$,H
+t$0H
+Mc|$
+$+\$
+HcT$
+HcT$
+T$0H
+|$pL
+Lc|$xM
+Mc|$
+B H=
+D$ H
+D$ H
+B D)
+D$ H
+D$ H
+|$@H
+Lcd$xM
+$+\$
+$+\$
+IcL$
+HcT$
+HcT$
+D$ H
+D$ H
+HcT$
+D$,H
+L$ D
+D$,H
+B H=
+$HcI
+HcT$
+D$,H
+L$ D
+D$,H
+|$@H
+T$xH
+T$xH
+AWAVAUATI
+[A\A]A^A_]
+B A)
+B E)
+B D)
+AWAV
+AUAT1
+|$@1
+D$ tm
+[]A\A]A^A_
+D$@H
+D$4B
+D4HE
+t$@H
+D$@H
+D$8H
+t$@H
+l$ E1
+D$@H
+t$@H
+9D$<
+D9t$<
+9D$,
+D$@H
+D$8H
+D$(9D$<
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+D$pH
+D$xH
+AVAUA
+ATUI
+L$|H
+NEPkeyfoH
+rCiphertH
+extServeH
+r2Client
+NEPkeyfoH
+rMACServH
+er2ClienH
+NEPkeyfoH
+rMACServH
+er2ClienH
+tInitialH
+dH34%(
+[]A\A]A^
+NEPkeyfoH
+rCiphertH
+extClienH
+t2Server
+NEPkeyfoH
+rMACClieH
+nt2ServeH
+n@81u
+L$x1
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$lf
+|$xdH3<%(
+AWAVAUATUSH
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+D$|H
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+D$pH
+D$|f
+[]A\A]A^A_
+u|I)
+AWAVI
+AUATI
+D$X1
+t$XdH34%(
+h[]A\A]A^A_
+D$ H
+D$(H
+D$0H
+D$8H
+AWAVM
+AUATI
+AQAPI
+[]A\A]A^A_
+Hct$
+AWAVM
+AUATI
+AQAPI
+[]A\A]A^A_
+Hct$
+ATUI
+D$H1
+L$HdH3
+P[]A\
+AWAVI
+AUATD
+D$(1
+L$$A
+L$(dH3
+8[]A\A]A^A_
+L$$A
+AYAZ
+ATUS
+[]A\
+AWAVA
+AUATI
+T$PH
+$u	H
+}HH9
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUATUS
+AVATA
+Y[]A\A]A^
+AWAVAUATUSH
+AWAT1
+[]A\A]A^A_
+AWAVAUATUSH
+L$PL
+[]A\A]A^A_
+t$@L
+AVAW
+AWAVAUATUSH
+L$PL
+[]A\A]A^A_
+t$@L
+AVAW
+AWAVM
+AUATI
+t$xL
+AUAT
+L$pH
+8[]A\A]A^A_
+AUATM
+([]A\A]
+AWAVAUATUSH
+([]A\A]A^A_
+AVAUATUSH
+[]A\A]A^
+AWAVI
+AUATA
+D+T$
+T$(L
+D+T$
+[]A\A]A^A_
+t$ H
+|$HH
+|$PL
+Xt`1
+T$,L
+H;W@
+H;W(
+H;WX
+H;W8uwH
+H;WPu_H
+H;W u?H
+H;Opu8H
+H;Ohu
+AVAUATUI
+[]A\A]A^
+ATUSH
+[]A\A]
+[]A\A]
+s A)
+ATUH
+[]A\1
+[]A\
+xsHc
+[]A\
+AWAVI
+AUATA
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\
+[]A\
+AWAVL
+AUATUSH
+H;~8
+\$0H
+D$8H
+\$`H
+D$@H
+D$HH
+D$hH
+D$pH
+D$0H
+D$ H
+D$hH
+D$(M
+|$(I
+D$ L
+[]A\A]A^A_
+AUATL
+oxUSI
+[]A\A]
+AZA[
+AWAVAUATUSH
+ATAV1
+[]A\A]A^A_
+AUATI
+AUATI
+AUATI
+AUATI
+[]A\A]
+AVAUATUSH
+D$81
+t$ H
+T$0H
+t$(H
+tJH;i
+D$8dH3
+@[]A\A]A^
+D$8dH3
+@[]A\A]A^
+ATUSt>H
+[]A\
+AVAUE
+ATUM
+[]A\A]A^
+AVAUE
+ATUM
+[]A\A]A^
+AVAUM
+ATUI
+AVAU
+[]A\A]A^
+ATUI
+[]A\
+AWAVI
+AUATM
+[]A\A]A^A_
+AVAUM
+ATUM
+=j}$
+=i}$
+[]A\A]A^
+AWAVM
+AUATI
+D$ H
+=D{$
+=C{$
+dH34%(
+[]A\A]A^A_
+T$0A
+|$2L
+|$2Mc
+[]A\
+t~H;P
+AWAVI
+AUATI
+K(H)
+=jr$
+=ir$
+[]A\A]A^A_
+=gp$
+=0p$
+=/p$
+=xn$
+=Zm$
+]A\A]A^
+AVAUATUS
+]A\A]A^
+t4H9
+]A\A]A^
+t!H;
+H9G0
+AVAUL
+ATUL
+g`SH
+D$(1
+D$(dH3
+[]A\A]A^
+AWAVM
+AUATE
+[]A\A]A^A_
+L$(H
+D$0H
+D$(0
+D$,0
+D$@D
+=\]$
+=U]$
+AUATI
+=M\$
+=H\$
+D$@I
+AUAT
+T$@A
+AXAY
+ATUM
+=.X$
+=*X$
+[]A\
+ATUH
+D$81
+=ZW$
+D$ H
+T$ H
+L$8dH3
+@[]A\
+[]A\
+[]A\
+[]A\
+[]A\
+AWAVAUATUSH
+D$(1
+t1L;}
+\$(dH3
+8[]A\A]A^A_
+H+5z`.
+AWAVAUATUSH
+[]A\A]A^A_
+AVAUATUSH
+]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+dH34%(
+AWAVAUATUSH
+[]A\A]A^A_
+AXAY
+AVAUATUS
+[]A\A]A^
+t+S@
+AWAVAUATA
+D$h1
+l$01
+D$0D
+D$PH
+|$hdH3<%(
+x[]A\A]A^A_
+t]<%u
+St*H
+AVAUI
+[]A\A]A^
+]A\A]A^
+AWAVI
+AUATI
+=b0$
+=a0$
+[]A\A]A^A_
+D$X1
+D$`H
+L$(H
+|$0H
+L$@H
+D$@(
+D$D0
+D$PL
+D$XdH3
+=p-$
+=r-$
+ATUI
+t@fD
+[]A\
+AVAUI
+ATUI
+[]A\A]A^
+K0H+
+k(H+-
+=0*$
+=/*$
+ATUI
+tmfD
+[]A\
+[]A\
+AUATI
+=E($
+=D($
+([]A\A]
+K0H+
+ H+-
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+=x&$
+5a&$
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+5\%$
+tRAUATI
+[]A\A]
+AWAVAUATUSH
+A;D$
+]A\A]A^A_
+t;SH
+AWAVAUATUSH
+H9t$
+[]A\A]A^A_
+H;9H
+.v?9
+T$,L
+T$ L
+T$,M
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AWAVI
+AUATI
+([]A\A]A^A_
+AVAUI
+[]A\A]A^
+~AATUA
+[]A\
+ATUI
+[]A\
+[]A\
+[]A\
+rPw&f
+AWAV
+AUATA
+        f
+T$xH
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+        H
+|$0H
+D$0H
+D$8A
+D$@H
+D$PH
+D$XL
+|$iH
+D$`H
+D$xD
+D$4 
+D$0L
+D$8I
+D$@I
+D$HI
+D$PI
+D$XI
+D$`I
+D$hI
+D$pI
+D$xfA
+dH34%(
+[]A\A]A^A_
+D$8H
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+D$pH
+D$xf
+AUAT1
+[]A\A]
+tvHc
+<w(M
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+L$ H
+r,w%
+AUATUSH
+D$X1
+t$@H
+\$XdH3
+h[]A\A]
+USE1
+dH34%(
+AVAUL
+w ATUE1
+H HcC
+E;e\
+bHcC
+E;e\
+[]A\A]A^
+ATUH
+[]A\
+[]A\
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AWAVHc
+AUATL
+D$h1
+t$8L
+l$8I9
+|$hdH3<%(
+x[]A\A]A^A_
+D$8H
+D$8M
+T$ L
+taH9
+l$8H
+t$H9
+3u9@
+AUATI
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+ATUM
+T$	H
+ []A\
+D$(1
+l$'H
+L$(dH3
+0[]A\
+AUATI
+dH34%(
+[]A\A]
+AWAVAUATUSH
+L$(H
+D$h1
+|$01
+t$PH
+l$PL
+|$@1
+D$@H+D$0Hi
+D$HH+D$8I9
+T$hdH3
+x[]A\A]A^A_
+D$$E
+L$(H
+:t2@
+AWAVAUATUSH
+	~KE
+[]A\A]A^A_
+[]A\A]A^A_
+AUATUSH
+D$(1
+L$(dH3
+8[]A\A]
+AVAUI
+ATU1
+[]A\A]A^
+AUATI
+[]A\A]
+AVAU1
+ATUH
+C D9
+[]A\A]A^
+ATUI
+SHcV
+|$$Hi
+T$8L
+[]A\
+AWAVI
+Tacocat
+AUATI
+t$ A
+l$0L
+D$81
+D$ D
+D$@H
+D$0H
+l$0H
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+D$0H
+|$,1
+t$8L
+D9|$,
+D$0N
+D$0D
+$t'L
+D$0D
+D$0D
+T$8J
+D$8L
+ATUSH
+[]A\
+MobilityH
+ Header
+SCTPH
+IPIPH
+VISAH
+EIGRP
+IPv6-OptH
+IPv6-NoNH
+MOBILE
+IPv6-RouH
+ICMPH
+IPv6-ICMH
+IPv6-FraH
+IGMPH
+IPv6H
+HOPOPT
+Fibre ChH
+annel
+IPv6 HopH
+-by-Hop H
+Option
+Stream CH
+ocolH
+ontrol TH
+ransmissH
+ion ProtH
+VISA ProH
+tocol
+IP-withiH
+n-IP EncH
+apsulatiH
+on ProtoH
+EnhancedH
+ InterioH
+r GatewaH
+y RoutinH
+g ProtocH
+DestinatH
+IPv6H
+ion OptiH
+ons for H
+InternetH
+ ControlH
+ MessageH
+IP in IPH
+ (encapsH
+ulation)H
+InternetH
+ Group MH
+anagemenH
+User DatH
+agram
+InteriorH
+ GatewayH
+ ProtocoH
+Exterior
+TransmisH
+sion ConH
+trol ProH
+tocol
+No Next H
+Header fH
+or IPv6
+ICMP forH
+ IPv6
+IP MobilH
+AuthentiH
+cation HH
+eader
+Encap SeH
+curity PH
+ayload
+FragmentH
+ Header H
+for IPv6H
+Routing 
+InternetH
+ ProtocoH
+l versioH
+AWAVI
+AUAT1
+D$H1
+|$HdH3<%(
+X[]A\A]A^A_
+D9l$
+t;A9
+tgMc
+$~JIc
+D9,$
+T$ L
+D;D$
+AWAV
+AUATE1
+t$<H
+T$@H
+t$<H
+[]A\A]A^A_
+QRPL
+AXAY
+ARPUD
+D$LP
+D$8P
+t$P1
+t$XL
+ATQfA
+;D$<L
+AQARE
+;T$<
+ATAQAP
+ATAVM
+AQPWL
+PRVD
+Echo rep
+D$<A
+Security
+ failuref
+D$<A
+InformatA
+ion replfD
+Informat
+ion requH
+D$LA
+ParameteH
+r probleH
+m (unknoH
+wn code)H
+D$<A
+TTL exce
+eded (unH
+known coH
+Router s
+olicitatH
+Router aH
+mentH
+dvertise
+D$<A
+Echo req
+uest
+Domain n
+ame requH
+Domain nA
+ame replfD
+TracerouA
+Source q
+uencH
+RedirectH
+ (unknowH
+n code)
+D$<A
+Unknown 
+type
+ATQRL
+D$\H
+ATRM
+RATSP
+ATSfA
+AQWQM
+ATAQ
+D$<D
+D$<D
+D$<9
+D$<D
+AWAVLc
+AUATA
+\$`H
+([]A\A]A^A_
+L$(D
+[]A\A]A^A_
+AVAUD
+ATUI
+]A\A]A^
+dH34%(
+AWAVAUATE
+T$ H
+L$0A
+t$0H
+D$8D
+;l$,
+D$*A
+|$8H
+t$0Ic
+T$ H
+H[]A\A]A^A_
+L$0H
+T$ H
+H[]A\A]A^A_
+AUATE
+USt}M
+[]A\A]A^
+[]A\A]A^
+AUATUSH
+[]A\A]
+D$ H
+T$0A
+AVAUM
+ATUM
+D$81
+D$0H
+ZYu"
+\$8dH3
+@[]A\A]A^
+AVAUM
+ATUM
+D$81
+D$0H
+ZYu"
+\$8dH3
+@[]A\A]A^
+AWAVI
+AUATUSH
+D$ H
+T$/H
+D$pH
+D$/L
+|$`H
+L$xH
+\$ f
+|$01
+|$@1
+|$@1
+D$@H+D$0H
+L$8+L$Hi
+D$PH
+t$ H
+[]A\A]A^A_
+AWAVI
+AUATUSH
+t$~1
+T$vf
+L$|f
+D$zf
+|$@1
+D$~H
+|$@1
+D$@H+D$0H
+L$8+L$Hi
+D$PH
+T$ M
+9D$ u
+[]A\A]A^A_
+AVAUI
+#tw1
+t@I9
+]A\A]A^
+]A\A]A^
+uHHc
+ATUH
+@hH=
+PP[1
+AVAUH
+ATUI
+L$&I
+l$'M
+l$!M
+@hH=
+PP[1
+]A\A]A^
+@xH= 9D
+@xH= 9D
+AWAVH
+w AUAT
+|$0H
+@0H=
+D$0A
+u Mcu
+q H=
+p H=
+B H=
+q H=
+B H=
+r H=
+L$ L
+T$ L
+T$ H
+\$,L
+B E)
+F Mc~
+T$ L
+T$ H
+\$,H
+T$ H
+dH3<%(
+[]A\A]A^A_
+T$ L
+T$ L
+T$ L
+ &wz
+ &wz
+AWAVA
+AUATUSH
+D$X1
+H=@9D
+(w>B
+@hH=
+t$XdH34%(
+h[]A\A]A^A_
+@xH=`QD
+@xH=`QD
+AWAVAUATUSH
+D$h1
+@HH=
+)tUH
+@HH=
+t$hdH34%(
+x[]A\A]A^A_
+T$HH
+D$PH
+T$X1
+H D)
++\$ L
+L$ +\$(H
+D$0H
+D$0H
+L$(H
+B D)
+t$ LcF
+L$0L
+D$ H
+L$0L
+D$(H
+B D)
+L$(LcA
+L$(D
+L$<L
+L$(H
+L$<L
+L$(H
+D$ f.
+@pH= QD
+t$PH
+|$@M
+AWAVA
+AUATUSH
+@hH=
+[]A\A]A^A_
+AWAV
+AUATA
+@hH=
+[]A\A]A^A_
+C& A
+|$@1
+K(VP
+D$XE
+D$(`
+t$ P
+ASAW
+D$4A
+t$@U1
+WAQL
+t$xARVR
+K(VP
+D$ `
+O& 1
+O&@1
+G4rmH
+D$,H
+L$(H
+XYt3H
+t$ H
+G'@H
+H=0yD
+'vMUSH
+ATUS
+H=0yD
+D$&:
+[]A\
+H=0yD
+[]A\
+H=0yD
+[]A\
+[]A\
+W0dH
+W@dH
+AUATA
+@hH=
+[]A\A]
+[]A\
+AWAVAUATUSH
+	~KE
+[]A\A]A^A_
+[]A\A]A^A_
+AUATH
+@xH=
+AUASARWH
+@hH=
+[]A\A]
+AWAVAUATI
+T$ f
+w Mcl$
+v Mc~
+H D)
+q H=P
+B D)
+p H=P
+B D)
+q H=P
+L$8L
+\$,L
+L$8H
+\$,L
+B D)
+G McW
+\$,L
+\$,L
+T$8H
+t$ H
+D$01
+[]A\A]A^A_
+HcG\H
+F4t&E1
+~$D9
+ATUH
+@xH=
+@hH=
+PP[1
+v-USH
+AWAVAUATI
+T$ f
+w Mcl$
+v Mc~
+H D)
+q H=P
+B D)
+p H=P
+B D)
+q H=P
+L$8L
+\$,L
+L$8H
+\$,L
+B D)
+G McW
+\$,L
+\$,L
+T$8H
+t$ H
+D$&1
+[]A\A]A^A_
+ATUH
+@hH=
+PP[1
+ATUI
+C t*H
+[]A\
+[]A\
+t+USH
+t&D;
+$t H
+tKUSH
+B0H=
+AWAVAUATUSH
+D$H1
+L$HdH3
+X[]A\A]A^A_
+PpA9
+@xH=`5D
+B0H=
+@0H=
+:t(H
+@0H=
+@0H=
+@0H=
+@0H=
+Pxf9
+PpA9
+PpA9
+PpA9
+PxA8
+Px<(
+Px<(
+Px<&
+Px<	
+D$0H
+t$0H
+|$ H
+D$0H
+t$0H
+|$ H
+D$0H
+t$0H
+|$ H
+D$0H
+|$0H
+T$8H
+D$0H
+tc~A
+atC~1=
+@0H=
+AWAVI
+AUATI
+<<wM
+dH34%(
+[]A\A]A^A_
+|$pL
+t%f=
+|$pA
+|$@L
+AVAU
+ATUH
+@8H=
+@@H=
+[]A\A]A^
+@8H=
+B0H=
+AUATI
+@0H=
+[]A\A]
+AWAVAUATUSH
+IcL$
+H D)
+P D)
++\$ L
+D$ L
++\$(L
+L$ L
++\$(L
+D$ McP
+D$ D
+\$0L
+D$ M
+\$0L
+T$(L
+B D)
+D$(L
+L$ L
+D$(McQ
+L$(L
+D$ D
+\$<L
+L$(L
+D$ I
+\$<H
+T$0H
+L$(L
+D$ I
+[]A\A]A^A_
+D+d$
+xvIc
+L$ L
+L$ L
+P E)
+@0H=
+PpA9
+@0H=
+@0H=
+D$ D+d$(L
+L$ D+d$(H
+D$ McP
+D$(D
+\$0L
+D$(M
+\$0L
+T$ H
+B E)
+L$ L
+D$(McQ
+L$(L
+D$ D
+\$<L
+L$(L
+D$ I
+\$<L
+T$0D
+L$(L
+D$ I
+D$ D
+AWAVAUATUSH
+D$x1
+@HH=
+)tiH
+@HH=
+t$xdH34%(
+[]A\A]A^A_
+T$XH
+D$`H
+T$h1
+D$(H
+D$(L
+D$(H
+D$(H
+H D)
+l$(H
+HcT$(H9
+L$(+L$
+L$(L
+HcT$(H9
+L$(+L$ H
+L$(H
+HcT$(I9
+L$ L
+t$(D
+L$ L
+B D)
+t$(H=
+HcT$(I9
+L$,L
+T$(D
+L$,H
+D$ H
+D$@H
+L$(x
++l$(L
+$+l$(H
+l$(H
+IcL$
+HcT$(H9
+L$(D
+L$(H
+HcT$(H9
+L$(+L$ H
+L$(H
+HcT$(I9
+L$ L
+t$(D
+L$ L
+B D)
+t$(H=
+HcT$(I9
+L$,L
+T$(D
+L$,H
+D$ H
+t$`H
+t$@H
+T$(H
+T$(H
+T$(H
+T$(H
+T$(H
+T$(H
+T$(H
+T$(H
+ATUH
+Beeb
+@hH=
+PP[1
+dH34%(
+AVAUATUH
+[]A\A]A^
+[]A\A]A^
+ATUH
+@hH=
+PP[1
+ATUH
+@hH=
+PP[1
+ATUH
+XZt,H
+@hH=
+PP[1
+u3L9
+ t)H
+Degas are we not drawn onward no In union drawn onward to new eras aged
+s"f=	
+ wj1
+AUATUSH
+dH34%(
+[]A\A]
+_v7f
+AUATI
+dH34%(
+[]A\A]
+<$fE
+AWAVM
+AUATA
+[]A\A]A^A_
+([]A\A]A^A_
+<3Hc
+AWAV1
+?u#A
+F	L)
+vl[A^A_
+<vKH
+}qHc
+[]A\
+ATU1
+D$(1
+L$(dH3
+0[]A\
+C$3D$
+ATUI
+D$H1
+T$HdH3
+P[]A\
+D$H1
+L$HdH3
+ATUI
+D$H1
+T$HdH3
+P[]A\
+AVAU
+ATUI
+l$$H
+T$PH
+[]A\A]A^
+t+SH
+ATUI
+[]A\
+AWAVAUATUSH
+D$(H
+ntH9
+D$PL
+$:u0H
+$v?I
+H9l$ v4
+L$ H9L$(
+D$pL
+d$zH
+D$ SH
+D$LPH
+D$PPH
+D$TPH
+D$XP1
+L$`H
+D$XH
+D$(L)
+[]A\A]A^A_
+A;G$
+A;G8
+AWAVAU
+t$8AT
+t$PL
+\$(H
+D$(H
+N$D9J
+F$9G$u
+D$(1
+5t|f
+t$(dH34%(
+0[]A\
+AWAV
+AUATL
+l$`E
+<$E1
+AYAZ9
+A9_\
+A9_\
+T$01
+D$@1
+[]A\A]A^A_
+t$@H
+T$01
+t$@H
+t$@I
+T$01
+t$@H
+T$01
+T$01
+AWAVI
+AUAT
+[]A\A]A^A_
+D$(1
+L$(dH3
+t+SH
+AUATI
+\$ dH
+T$X=
+[]A\A]
+AUATI
+\$ dH
+T$X=
+[]A\A]
+AWAVI
+AUATI
+T$ H
+D$0H
+T$@L
+D$PH
+|$0H
+[]A\A]A^A_
+AWAV
+AUATUSH
+T$hdH
+t$hH
+[]A\A]A^A_
+D$ I
+D$(ARH
+t$(H
+D$PPH
+D$`PH
+D$pPH
+PAW1
+AVATS
+t$`L
+t$PA
+t$hH
+t+SH
+AUATI
+tRH=
+::u?A
+[]A\A]
+AUATI
+tRH=
+:.u?A
+[]A\A]
+AWAVAUATI
+dH34%(
+([]A\A]A^A_
+AVAUI
+ATUH
+D$(1
+|$(dH3<%(
+0[]A\A]A^
+AWAVA
+AUATL
+[]A\A]A^A_
+https://nmap.org/nping
+0.7.01
+Nping
+%s version %s ( %s )
+echo-reply
+echo-rep
+destination-unreachable
+dest-unr
+source-quench
+sour-que
+redi
+echo-request
+echo
+router-advertisement
+rout-adv
+router-solicitation
+rout-sol
+time-exceeded
+time-exc
+parameter-problem
+para-pro
+timestamp
+timestamp-reply
+time-rep
+information
+info
+information-reply
+info-rep
+mask-reply
+mask-rep
+traceroute
+trace
+network-unreachable
+netw-unr
+host-unreachable
+host-unr
+protocol-unreachable
+prot-unr
+proto
+port-unreachable
+port-unr
+needs-fragmentation
+need-fra
+source-route-failed
+sour-rou
+routefail
+network-unknown
+netw-unk
+net?
+host-unknown
+host-unk
+host?
+host-isolated
+host-iso
+network-prohibited
+netw-pro
+!net
+host-prohibited
+host-pro
+!host
+unreachable-network-tos
+netw-tos
+tosnet
+unreachable-host-tos
+toshost
+communication-prohibited
+comm-pro
+!comm
+host-precedence-violation
+prec-vio
+precedence-cutoff
+prec-cut
+redirect-network
+redi-net
+redirect-host
+redi-host
+redirect-network-tos
+redi-ntos
+redir-ntos
+redirect-host-tos
+redi-htos
+redir-htos
+normal-advertisement
+norm-adv
+normal
+default
+not-route-common-traffic
+not-rou
+mobile-ip
+!route
+!commontraffic
+ttl-exceeded-in-transit
+ttl-exc
+ttl-zero
+ttl-transit
+ttl-0
+!ttl
+frag-exc
+frag-time
+!timefrag
+!frag
+pointer-indicates-error
+poin-ind
+pointer-indicates
+pointertells
+missing-required-option
+miss-req
+miss-option
+option-missing
+missing-option
+!option
+bad-length
+bad-len
+badlen
+badlength
+!len
+bad-spi
+badspi
+!spi
+authentication-failed
+auth-fai
+auth-failed
+authfail
+!auth
+decompression-failed
+deco-fai
+decom-failed
+!decompress
+!decompression
+decryption-failed
+decr-fai
+decrypt-failed
+!decrypt
+!decryption
+need-authentication
+need-aut
+need-auth
+auth-needed
+need-authorization
+need-author
+authorization-needed
+author-needed
+!author
+!authorization
+drarp-request
+drarp
+drarp-reply
+drarp-rep
+drarp-error
+drarp-err
+inarp-request
+inarp
+inarp-reply
+inarp-rep
+arp-nak
+ipv4
+frame-relay
+frelay
+gsmp
+ipv6
+mpls
+mps-ual
+mcap
+pppoe-discovery
+pppoe-d
+pppoe-session
+pppoe-s
+ctag
+epon
+pbnac
+stag
+ethexp1
+ethexp2
+ethoui
+preauth
+lldp
+macsec
+mac-sec
+mac-security
+mvrp
+mmrp
+frrr
+now-
+now+
+Invalid time supplied
+Hop Limit
+tcp-connect
+icmp
+timestamp-request
+information-request
+netmask-request
+flags
+Invalid TCP flag supplied: %c
+badsum
+icmp-type
+icmp-code
+icmp-id
+icmp-seq
+icmp-redirect-addr
+icmp-param-pointer
+icmp-advert-lifetime
+icmp-advert-entry
+icmp-orig-time
+icmp-recv-time
+icmp-trans-time
+rarp-type
+rarp-code
+rarp-operation
+rarp-op
+rarp-sender-mac
+rarp-sender-ip
+rarp-target-mac
+rarp-target-ip
+source-mac
+spoof-mac
+ethtype
+ether-type
+Invalid Ethernet Type.
+hop-limit
+ip-options
+rand
+traffic-class
+data
+data-length
+data-string
+echo-client
+no-crypto
+include-payloads
+delay
+rate
+unprivileged
+send-eth
+send-ip
+bpf-filter
+quiet
+debug
+Setting default MTU=%d
+Invalid argument to -d: "%s".
+Invalid argument to -v: "%s".
+Invalid argument to -q: "%s".
+netmask
+dest-mac
+ethertype
+dest-ip
+badsum-ip
+flow
+echo-server
+echo-port
+safe-payloads
+nsock-engine
+source-port
+dest-port
+IPv4
+source-ip
+help
+version
+interface
+no-capture
+hide-sent
+verbose
+reduce-verbosity
+%s %s ( %s )
+Usage: nping [Probe mode] [Options] {target specification}
+TARGET SPECIFICATION:
+  Targets may be specified as hostnames, IP addresses, networks, etc.
+  Ex: scanme.nmap.org, microsoft.com/24, 192.168.0.1; 10.0.*.1-24
+PROBE MODES:
+  --tcp-connect                    : Unprivileged TCP connect probe mode.
+  --tcp                            : TCP probe mode.
+  --udp                            : UDP probe mode.
+  --icmp                           : ICMP probe mode.
+  --arp                            : ARP/RARP probe mode.
+  --tr, --traceroute               : Traceroute mode (can only be used with 
+                                     TCP/UDP/ICMP modes).
+TCP CONNECT MODE:
+   -p, --dest-port <port spec>     : Set destination port(s).
+   -g, --source-port <portnumber>  : Try to use a custom source port.
+TCP PROBE MODE:
+   -g, --source-port <portnumber>  : Set source port.
+   -p, --dest-port <port spec>     : Set destination port(s).
+   --seq <seqnumber>               : Set sequence number.
+   --flags <flag list>             : Set TCP flags (ACK,PSH,RST,SYN,FIN...)
+   --ack <acknumber>               : Set ACK number.
+   --win <size>                    : Set window size.
+   --badsum                        : Use a random invalid checksum. 
+UDP PROBE MODE:
+   -g, --source-port <portnumber>  : Set source port.
+   -p, --dest-port <port spec>     : Set destination port(s).
+   --badsum                        : Use a random invalid checksum. 
+ICMP PROBE MODE:
+  --icmp-type <type>               : ICMP type.
+  --icmp-code <code>               : ICMP code.
+  --icmp-id <id>                   : Set identifier.
+  --icmp-seq <n>                   : Set sequence number.
+  --icmp-redirect-addr <addr>      : Set redirect address.
+  --icmp-param-pointer <pnt>       : Set parameter problem pointer.
+  --icmp-advert-lifetime <time>    : Set router advertisement lifetime.
+  --icmp-advert-entry <IP,pref>    : Add router advertisement entry.
+  --icmp-orig-time  <timestamp>    : Set originate timestamp.
+  --icmp-recv-time  <timestamp>    : Set receive timestamp.
+  --icmp-trans-time <timestamp>    : Set transmit timestamp.
+ARP/RARP PROBE MODE:
+  --arp-type <type>                : Type: ARP, ARP-reply, RARP, RARP-reply.
+  --arp-sender-mac <mac>           : Set sender MAC address.
+  --arp-sender-ip  <addr>          : Set sender IP address.
+  --arp-target-mac <mac>           : Set target MAC address.
+  --arp-target-ip  <addr>          : Set target IP address.
+IPv4 OPTIONS:
+  -S, --source-ip                  : Set source IP address.
+  --dest-ip <addr>                 : Set destination IP address (used as an 
+                                     alternative to {target specification} ). 
+  --tos <tos>                      : Set type of service field (8bits).
+  --id  <id>                       : Set identification field (16 bits).
+  --df                             : Set Don't Fragment flag.
+  --mf                             : Set More Fragments flag.
+  --ttl <hops>                     : Set time to live [0-255].
+  --badsum-ip                      : Use a random invalid checksum. 
+  --ip-options <S|R [route]|L [route]|T|U ...> : Set IP options
+  --ip-options <hex string>                    : Set IP options
+  --mtu <size>                     : Set MTU. Packets get fragmented if MTU is
+                                     small enough.
+IPv6 OPTIONS:
+  -6, --IPv6                       : Use IP version 6.
+  --dest-ip                        : Set destination IP address (used as an
+                                     alternative to {target specification}).
+  --hop-limit                      : Set hop limit (same as IPv4 TTL).
+  --traffic-class <class> :        : Set traffic class.
+  --flow <label>                   : Set flow label.
+ETHERNET OPTIONS:
+  --dest-mac <mac>                 : Set destination mac address. (Disables
+                                     ARP resolution)
+  --source-mac <mac>               : Set source MAC address.
+  --ether-type <type>              : Set EtherType value.
+PAYLOAD OPTIONS:
+  --data <hex string>              : Include a custom payload.
+  --data-string <text>             : Include a custom ASCII text.
+  --data-length <len>              : Include len random bytes as payload.
+ECHO CLIENT/SERVER:
+  --echo-client <passphrase>       : Run Nping in client mode.
+  --echo-server <passphrase>       : Run Nping in server mode.
+  --echo-port <port>               : Use custom <port> to listen or connect.
+  --no-crypto                      : Disable encryption and authentication.
+  --once                           : Stop the server after one connection.
+  --safe-payloads                  : Erase application data in echoed packets.
+TIMING AND PERFORMANCE:
+  Options which take <time> are in seconds, or append 'ms' (milliseconds),
+  's' (seconds), 'm' (minutes), or 'h' (hours) to the value (e.g. 30m, 0.25h).
+  --delay <time>                   : Adjust delay between probes.
+  --rate  <rate>                   : Send num packets per second.
+MISC:
+  -h, --help                       : Display help information.
+  -V, --version                    : Display current version number. 
+  -c, --count <n>                  : Stop after <n> rounds.
+  -e, --interface <name>           : Use supplied network interface.
+  -H, --hide-sent                  : Do not display sent packets.
+  -N, --no-capture                 : Do not try to capture replies.
+  --privileged                     : Assume user is fully privileged.
+  --unprivileged                   : Assume user lacks raw socket privileges.
+  --send-eth                       : Send packets at the raw Ethernet layer.
+  --send-ip                        : Send packets using raw IP sockets.
+  --bpf-filter <filter spec>       : Specify custom BPF filter.
+OUTPUT:
+  -v                               : Increment verbosity level by one.
+  -v[level]                        : Set verbosity level. E.g: -v4
+  -d                               : Increment debugging level by one.
+  -d[level]                        : Set debugging level. E.g: -d3
+  -q                               : Decrease verbosity level by one.
+  -q[N]                            : Decrease verbosity level N times
+  --quiet                          : Set verbosity and debug level to minimum.
+  --debug                          : Set verbosity and debug to the max level.
+EXAMPLES:
+  nping scanme.nmap.org
+  nping --tcp -p 80 --flags rst --ttl 2 192.168.1.1
+  nping --icmp --icmp-type time --delay 500ms 192.168.254.254
+  nping --echo-server "public" -e wlan0 -vvv 
+  nping --echo-client "public" echo.nmap.org --tcp -p1-1024 --flags ack
+SEE THE MAN PAGE FOR MANY MORE OPTIONS, DESCRIPTIONS, AND EXAMPLES
+Invalid Router Advertising Entry specification: too short
+Invalid Router Advertising Entry specification: too long
+Invalid Router Advertising Entry specification: Bad syntax, missing comma delimiter
+Invalid Router Advertising Entry specification: Bad syntax, comma cannot be placed at start
+Invalid Router Advertising Entry specification: Bad syntax, comma cannot be placed at the end
+Invalid Router Advertising Entry specification: Unable to resolve %s
+Invalid Router Advertising Entry specification: %s is not a valid preference number
+fragment-reassembly-time-exceeded
+parseICMPTimestamp(): NULL pointer supplied.
+You must specify a valid time value after now- (e.g. 1000, 2s, 25m, etc.)
+Value is %s is too high for current time.
+You must specify a valid time value after now+ (e.g. 1000, 2s, 25m, etc.)
+46c:d::e:fg:hHK:NP:q::p:S:Vv::
+Invalid TCP Sequence number. Value must be 0<=N<2^32.
+Invalid TCP flag specification. Numerical values must be in the range [0,255].
+Invalid format in --flag. Make sure you specify a comma-separated list that contains 3-character flag names (e.g: --flags syn,ack,psh)
+Invalid TCP flag specification: "%s"
+Invalid TCP flag supplied (%c). If you want to specify flags using a number you must add prefix "0x"
+Invalid TCP ACK number. Value must be 0<=N<2^32.
+Invalid TCP Window size. Value must be 0<=N<65535.
+Invalid ICMP Type. Value must be 0<=N<=255.
+Warning: Specified ICMP type (%d) is not RFC compliant.
+Invalid ICMP Code. Value must be 0<=N<=255.
+Invalid ICMP Identifier. Value must be 0<=N<2^16.
+Invalid ICMP Sequence number. Value must be 0<=N<2^16.
+Could not resolve specified ICMP Redirect Address.
+Invalid ICMP Parameter problem pointer. Value must be 0<=N<=255..
+Invalid ICMP Router advertisement lifetime. Value must be 0<=N<2^16..
+Invalid ARP type/operation code
+Invalid ARP Sender MAC address.
+Invalid ARP Sender IP address.
+Invalid ARP Target MAC address.
+Invalid ARP Target IP address.
+Invalid Ethernet Destination MAC address.
+Invalid Ethernet Source MAC address.
+TOS option must be a number between 0 and 255 (inclusive)
+Identification must be a number between 0 and 65535 (inclusive)
+%s option must be a number between 0 and 255 (inclusive)
+Incorrect IP options specification.
+IPv6 Traffic Class must be a number between 0 and 255 (inclusive)
+IPv6 Flow Label cannot be greater than 1048575 
+IPv6 Flow Label must be a number between 0 and 1048575
+Invalid hex string specification
+Only one type of payload may be selected.
+Invalid payload length specification
+data-length must be a value between 0 and %d.
+WARNING: Payload exceeds maximum recommended payload (%d)
+Not enough memory to store payload.
+data-string must be between 0 and %d characters.
+Invalid echo port. Port can't be zero.
+Invalid echo port. Value must be 0<N<2^16.
+Invalid delay supplied. Delay must be a valid, positive integer or floating point number.
+Invalid delay supplied. Delays can never be negative.
+Invalid rate supplied. Rate can never be zero.
+Invalid rate supplied. Rate must be a valid, positive integer
+Unknown or non-available engine: %s
+WARNING: -f is irrelevant if an MTU has been previously specified
+Cannot specify source port twice.
+WARNING: a source port of zero may not work on all systems.
+Source port must be a number between 0 and 65535 (inclusive)
+Invalid target ports specification.
+Could not resolve source IPv6 address.
+Could not resolve source IPv4 address.
+Packet count must be an integer greater than 0.
+Invalid network interface supplied. Interface name cannot be NULL.
+Warning: A custom BPF filter was specified before disabling packet capture. BPF filter will be ignored.
+Debugging level must be an integer between 0 and 9.
+Verbosity level must be an integer between -4 and +4.
+You can only reduce verbosity from level 0 to level -4.
+Cannot specify more than one probe mode. Choose either %s or %s.
+You cannot specify mode %s if you want to send ICMP Destination unreachable messages.
+You cannot specify mode %s if you want to send ICMP Echo request messages.
+You cannot specify mode %s if you want to send ICMP Timestamp request messages.
+You cannot specify mode %s if you want to send ICMP Information request messages.
+You cannot specify mode %s if you want to send ICMP messages.
+You cannot specify mode %s if you want to send ARP messages.
+MTU must be >0 and multiple of 8
+Since April 2010, the default unit for --delay is seconds, so your time of "%s" is %g seconds. Use "%sms" for %g milliseconds.
+Warning: There is no point on specifying a BPF filter if you disable packet capture. BPF filter will be ignored.
+@common_modified.cc
+ipsleft + 1>= hosts_skipped
+sslen
+ipsleft == 1
+ipsleft > 1
+targets_type == IPV6_ADDRESS
+octet != -1
+Host specification invalid
+af == AF_INET6
+Bogus target structure passed to %s
+currentaddr.s_addr > startaddr.s_addr
+Invalid host expression: %s -- colons only allowed in IPv6 addresses, and then you need the -6 switch
+Illegal netmask value, must be /0 - /32 .  Assuming /32 (one host)
+Warning: Hostname %s resolves to %d IPs. Using %s.
+Failed to resolve given hostname/IP: %s.  Note that you can't use '/mask' AND '1-4,7,100-' style IP ranges
+Invalid target host specification: %s
+Your host specifications are illegal!
+Invalid host expression: %s -- slash not allowed.  IPv6 addresses can currently only be specified individually
+Failed to resolve given IPv6 hostname/IP: %s.  Note that you can't use '/mask' or '[1-4,7,100-]' style ranges for IPv6.  Error code %d: %s
+result->ai_addrlen == sizeof(struct sockaddr_in6)
+Invalid character in host specification.  Note in particular that square brackets [] are no longer allowed.  They were redundant and can simply be removed.
+Can't nest [] brackets in port/protocol specification
+Unexpected ] character in port/protocol specification
+Ports to be scanned must be between 0 and 65535 inclusive
+-100,200-1024,3000-4000,60000-
+Error #485: Your port specifications are illegal.  Example of proper form: "%s"
+Error #486: Your port specifications are illegal.  Example of proper form: "%s"
+Your port range %ld-%ld is backwards. Did you mean %ld-%ld?
+Error #487: Your port specifications are illegal.  Example of proper form: "%s"
+WARNING: Duplicate port number(s) specified.  Are you alert enough to be using Nping?  Have some coffee or grab a RedBull(tm).
+Unexpected ] character in port specification
+Error #488: Your port specifications are illegal.  Example of proper form: "%s"
+devname2ipaddr(): NULL values supplied.
+int TargetGroup::parse_expr(const char*, int)
+int TargetGroup::return_last_host()
+get_next_host
+int TargetGroup::get_next_host(sockaddr_storage*, size_t*)
+int TargetGroup::skip_range(TargetGroup::_octet_nums)
+int TargetGroup::rewind()
+signal_handler(): Received signal %d
+signal_handler(): Unexpected signal received (%d). Please report a bug.
+Unable to properly format time
+%lu target IP address%s determined.
+You cannot use -p (explicit port selection) in your current scan mode.
+(Perhaps you meant to use --tcp or --udp)
+Resolving specified targets...
+Execution aborted. Nping needs at least one valid target to operate.
+%Y-%m-%d %H:%M %Z
+Starting %s %s ( %s ) at %s
+Invalid role %d
+setVerbosity(): Invalid verbosity level supplied
+setDebugging(): Invalid debugging level supplied
+setSendPreference(): Invalid value supplied
+setDelay(): Invalid time supplied
+setDevice(): Invalid value supplied
+setIPVersion(): Invalid value supplied
+setPayloadType(): Invalid value supplied
+setPayloadBuffer(): Invalid value supplied
+setRoleClient(): Invalid role supplied
+setMTU(): Invalid mtu supplied
+setIPOptions(): NULL pointer supplied
+setIPv6SourceAddress(): NULL pointer supplied
+NpingOps::getSourceSockAddr(): IP version unset.
+setTargetPorts():: Invalid number of ports supplied.
+setFlagTCP(): Invalid flag supplied
+getICMPAdvertEntry(): Supplied index is out of bounds.
+getICMPAdvertEntry(): NULL pointer supplied
+Nping done: %lu %s served in %.2f seconds
+Nping done: %lu %s pinged in %.2f seconds
+TCP connection attempts: %llu 
+| Successful connections: %llu 
+Cannot obtain device for packet capture --> %s. You may want to specify one explicitly using option -e
+Nping requires libpcap to be installed on your system.
+WARNING: No targets were specified, so 0 hosts pinged.
+Sorry, ARP does not support IPv6 and Nping does not yet support NDP.
+Warning: Payload supplied in TCP Connect mode. Payload will be ignored.
+Cannot find a valid target. Please make sure the specified hosts are either IP addresses in standard notation or hostnames that can be resolved with DNS
+Cannot obtain device for packet capture --> %s
+Cannot figure out what source address to use for device %s, does it even exist?
+Cannot figure out what source address to use for device %s, are you root?
+Error trying to find a suitable network interface 
+Warning: ARP mode requires raw ethernet frame transmission. Specified preference will be ignored.
+You requested raw IP transmission mode for IPv6. Nping does not currently allow IPv6 header manipulation when sending packets at raw IP level due to the limitations on raw IPv6 sockets, imposed by RFC 2292. Please use raw Ethernet transmission (option --send-eth)
+Packets can't be sent to the same port that is used to connect to the echo server (%d)
+Packets can't be sent from the same port that is used to connect to the echo server (%d)
+The echo client can't be run with protocols other than TCP, UDP or ICMP.
+Nping will send packets in unprivileged mode using regular system calls
+Warning: Setting a source port in TCP-Connect mode with %d rounds may not work after the first round. You may want to do just one round (use --count 1).
+If you want to control some of the fields in the IPv6 header you also have to supply source and destination MAC address. However, you can always choose to let the kernel create the IPv6  header choosing not to pass --source-IP, --traffic-class or --flow options. That should simplify things a bit
+You requested raw ethernet level transmission and IPv6. In this case, you need to supply source MAC address, destination MAC address and IPv6 source address.
+clients
+IP address
+IP addresses
+Raw packets sent: %llu 
+(%s) 
+| Rcvd: %llu 
+| Lost: %llu 
+| Echoed: %llu 
+Raw packets captured: %llu 
+| Not Matched: %llu 
+| Failed: %llu 
+UDP packets sent: %llu 
+Tx time: %.5lfs 
+| Tx bytes/s: %.2lf 
+| Tx pkts/s: %.2lf
+Rx time: %.5lfs 
+| Rx bytes/s: %.2lf 
+| Rx pkts/s: %.2lf
+raw ethernet level
+raw IP level
+NMAP_PRIVILEGED
+NPING_PRIVILEGED
+NPING_UNPRIVILEGED
+No echo server was specified.
+Using network interface "%s"
+Nping will send packets at %s
+NMAP_UNPRIVILEGED
+root privileges
+Echo mode requires %s.
+Mode %s requires %s.
+%04x%s
+contains(): NULL value received.
+meansRandom(): NULL value received.
+C*************************************************
+getNetworkInterfaceName(): NULL value supplied.
+resolveCached(): MISSES: %d,  HITS: %d
+resolveCached(): NULL values supplied
+resolveCached(): Cache hit %d for %s
+resolveCached(): Cache miss %d for %s
+gethostbynameCached(): NULL values supplied
+gethostbynameCached(): Cache hit %d for %s
+gethostbynameCached(): Cache miss %d for %s
+arppackethdrinfo(): NULL value supplied
+HTYPE:%04X PTYPE:%04X HLEN:%d PLEN:%d OP:%04X SMAC:%s SIP:%s DMAC:%s DIP:%s
+safe_arppackethdrinfo() Invalid values supplied.
+TCP %s:%d > %s:%d %s seq=%lu win=%hu %s
+TCP [%s:%d > %s:%d %s seq=%lu win=%hu csum=0x%04X%s%s]
+TCP [%s:%d > %s:%d %s seq=%lu ack=%lu off=%d res=%d win=%hu csum=0x%04X urp=%d%s%s] 
+UDP [%s:%d > %s:%d csum=0x%04X]
+UDP [%s:%d > %s:%d len=%d csum=0x%04X]
+safe_ippackethdrinfo() Invalid values supplied.
+getPacketStrInfo(): Unable to determinate transport layer protocol
+getPacketStrInfo(): Unknown protocol
+%s: intf_open() failed. NULL descriptor
+Warning: createRawSocket() should not be called in ARP mode.
+createRawSocket(): NpingOps::getMode() does not return a valid mode. Please report this bug.
+Couldn't acquire IPv6 raw socket. Are you root?
+Couldn't acquire IPv4 raw socket. Are you root?
+Failed to set SO_BROADCAST on raw socket.
+getinterfaces_inet6_linux() NULL values supplied
+Couldn't get IPv6 interface information. File %s does not exist or you don't have read permissions.
+getroutes_inet6_linux() NULL values supplied
+Couldn't get IPv6 route information. File %s does not exist or you don't have read permissions.
+intf_len = %d
+intf_name = %s
+intf_type = %u
+intf_flags = %02x
+intf_mtu = %d
+intf_addr = %s
+intf_dst_addr = %s
+intf_link_addr = %s
+intf_alias_num = %d
+intf_alias_addrs[%d] = %s
+utils_net.cc
+s4!=NULL
+s6!=NULL
+ss!=NULL
+Error resolving %s
+broadcast
+bcast
+%02X:%02X:%02X:%02X:%02X:%02X
+BOGUS!  Packet too short.
+ARP who has %s? 
+ARP reply %s 
+RARP who is %s? Tell %s
+RARP reply: %s is at %s
+dstbuff
+len>=20
+ ack=%lu
+option incomplete
+len>=8
+UDP %s:%d > %s:%d
+RARP
+IPv6_NO_HEADER
+target
+pktLen > 0
+send_packet
+dst.ss_family == AF_INET
+%s: intf_loop() failed
+/proc/net/if_inet6
+Failed to open %s.
+Read %s:%d: %s
+/proc/net/ipv6_route
+print_interfaces_dnet
+int send_packet(NpingTarget*, int, u8*, size_t)
+int udppackethdrinfo(const u8*, size_t, u8*, size_t, int, sockaddr_storage*, sockaddr_storage*)
+int tcppackethdrinfo(const u8*, size_t, u8*, size_t, int, sockaddr_storage*, sockaddr_storage*)
+u16 sockaddr2port(sockaddr_in6*)
+u16 sockaddr2port(sockaddr_in*)
+u16 sockaddr2port(sockaddr_storage*)
+Y@getNextTarget(): NULL values supplied.
+BUG: TargetGroups are supposed to contain at least one IP! 
+getNextIPv4Address(): NULL value supplied. 
+getNextIPv4Address(): Trying to obtain an IPv4 address from an IPv6 target.
+Next target returned by getNextTarget(): Targets[%lu/%lu] --> %s 
+vector::_M_range_check: __n (which is %zu) >= this->size() (which is %zu)
+Failed to determine route to host %s. Skipping it...
+Device used for target host %s seems to be down.
+NpingTarget.cc
+ss_len
+targetsocklen <= sizeof(*ss)
+sourcesocklen <= sizeof(*ss)
+.-+=:_~*
+mac!=NULL
+%02x:%02x:%02x:%02x:%02x:%02x
+buflen > 8
+%s (%s)
+Unknown
+AF_INET6/OTHER
+Device Name:            %s
+Device FullName:        %s
+Device Type:            %s
+Directly connected?:    %s
+Address family:         %s
+Resolved Hostname:      %s
+Supplied Hostname:      %s
+Target Address:         %s
+Source Address:         %s
+Spoofed Address:        %s
+Next Hop Address:       %s
+Target MAC Address:     %s
+Source MAC Address:     %s
+Next Hop MAC Address:   %s
+Probes Sent: %ld 
+| Rcvd: %ld 
+| Lost: %ld 
+ (%.2lf%%)
+Max rtt: %.3lfms 
+Max rtt: N/A 
+| Min rtt: %.3lfms 
+| Min rtt: N/A 
+| Avg rtt: %.3lfms
+| Avg rtt: N/A
+Statistics for host %s:
+ |  
+ |_ 
+Ethernet
+Loopback
+directly_connected == 0 || directly_connected == 1
+ss_len > 0 && ss_len <= sizeof(*ss)
+spoofedsrcsocklen <= sizeof(*ss)
+nexthopsocklen <= sizeof(*next_hop)
+next_hop_len > 0 && next_hop_len <= sizeof(nexthopsock)
+Illegal character(s) in hostname -- replacing with '*'
+this->namedhost==1 || this->namedhost==0
+NpingTarget::GenerateIPString(): Unsupported address family
+NpingTarget::getSourceIPString(): Unsupported address family
+NpingTarget::getNextHopIPStr(): Unsupported address family
+Determining target %s MAC address or next hop MAC address...
+%s: Failed to determine nextHop to target
+    > Checking system's ARP cache...
+    > Success: Entry found [%s]
+    > No relevant entries found in system's ARP cache.
+    > Sending ARP request using spoofed IP %s...
+    > Success: 1 ARP response received [%s]
+    > No ARP responses received.
+    > Sending ARP request using our real IP %s...
+    > No ARP responses received
++-----------------TARGET-----------------+
+determineNextHopMACAddress
+const char* NpingTarget::getNameAndIP(char*, size_t)
+const char* NpingTarget::getMACStr(u8*)
+bool NpingTarget::isNamedHost()
+void NpingTarget::setNextHop(sockaddr_storage*, size_t)
+bool NpingTarget::getNextHop(sockaddr_storage*, size_t*)
+bool NpingTarget::isDirectlyConnected()
+int NpingTarget::getSpoofedSourceSockAddr(sockaddr_storage*, size_t*)
+int NpingTarget::setSpoofedSourceSockAddr(sockaddr_storage*, size_t)
+int NpingTarget::setSourceSockAddr(sockaddr_storage*, size_t)
+int NpingTarget::getSourceSockAddr(sockaddr_storage*, size_t*)
+int NpingTarget::setTargetSockAddr(sockaddr_storage*, size_t)
+int NpingTarget::getTargetSockAddr(sockaddr_storage*, size_t*)
+getBufferPointer(): Attempting to use superclass PacketElement method.
+getBinaryBuffer(): Couldn't get own data pointer
+getBinaryBuffer(): Packet exceeds maximum length %d
+decrypt
+encrypt
+int EchoHeader::setEchoedPacket(const u8*, size_t)
+int EchoHeader::setClientNonce(u8*)
+int EchoHeader::setServerNonce(u8*)
+EchoHeader.cc
+nonce
+this->length%16==0
+%s(%p, %lu, %p)
+13PacketElement
+23ApplicationLayerElement
+10EchoHeader
+%s()
+SENT: NEP_READY
+%s(%d) %lu
+%s(%d)
+Server bound to port %d
+Server bound to %s:%d
+%s(%p,%p,%p,%p,%p,%p)
+%s() Trying to match IP TOS
+[Match] IP TOS=%02x
+[Match] IP Proto=%02x
+[Match] IP Id=%u
+[Match] IP FragOff=%u
+[Match] IPv6 TClass=%u
+[Match] IPv6 Flow=%lu
+[Match] IPv6 NextHdr=%02x
+[Match] TCP Src=%u
+[Match] TCP Dst=%u
+[Match] TCP Seq=%u
+[Match] TCP Ack=%u
+[Match] TCP Flags=%02x
+[Match] TCP Win=%u
+[Match] ICMPv4 Type=%02x
+[Match] ICMPv4 Code=%02x
+[Match] UDP Src=%u
+[Match] UDP Dst=%u
+[Match] UDP Len=%u
+[Match] Payload magic=0x
+SENT: NEP_HANDSHAKE_FINAL
+Erasing %d payload bytes
+%s(ctx->id=%d)
+Deleted client #%d context.
+SENT: NEP_ECHO
+%s(%p, %lu)
+Session Key MAC_C2S:
+Session Key MAC_S2C:
+Session Key CIPHER_C2S:
+Session Key CIPHER_S2C:
+Opening pcap device %s
+Waiting for connections...
+Session Key MAC_S2C_INITIAL:
+Unexpected nsock_loop error.
+Scheduled next capture event
+Captured %lu bytes
+RCVD: NEP_HANDSHAKE_CLIENT
+RCVD: NEP_PACKETSPEC
+Found client with ID #%d at p%d. Total clients %lu
+No client with ID #%d was found. Total clients %lu
+Could not obtain AF_INET/SOCK_STREAM/IPPROTO_TCP socket
+Failed to set SO_REUSEADDR on master socket.
+Failed to bind to source address %s. Trying to bind to port %d...
+Could not bind to port %d (%s).
+[E] Failed to listen() on port %d (%s)
+%s() Trying to match packet against client #%d
+%s() Trying to match IP Next Protocol
+%s() Trying to match IP Identification
+%s() Trying to match IP Fragment offset
+%s() Trying to match IPv6 Traffic Class
+%s() Trying to match IPv6 Flow Label
+%s() Trying to match IPv6 Next Header
+%s() Trying to match TCP Source Port
+%s() Trying to match TCP Destination Port
+%s() Trying to match TCP Sequence Number
+%s() Trying to match TCP Acknowledgment
+%s() Trying to match TCP Flags
+%s() Trying to match TCP Window
+%s() Trying to match TCP Urgent Pointer
+%s() Trying to match ICMPv4 Type
+%s() Trying to match ICMPv4 Code
+%s() Trying to match UDP Source Port
+%s() Trying to match UDP Destination Port
+%s() Trying to match UDP Length
+%s() Trying to match Payload Magic value
+Bogus field specifier found in client #%d context. Please report a bug
+%s() current_score=%.02f candidate_score=%.02f
+%s() Found better candidate (client #%d; score=%.02f)
+%s() Packet matched successfully with client #%d
+%s() Couldn't match packet with any client.
+%s() Found matching client but score is too low. Discarded.
+No payload found. Echoing the whole packet
+[%lu] Client #%d (%s:%d) disconnected
+Client #%d disconnected but no context found. This may be a bug.
+Couldn't send NEP_ECHO. Terminating client session
+Couldn't send NEP_HANDSHAKE_SERVER. Terminating client session
+SENT: NEP_HANDSHAKE_SERVER to %s
+Error trying to match the packet. No clients connected.
+Error trying to match the packet. Bogus packet received (too short)
+Recv packet is IPv4. Trying to find a matching client.
+Encapsulated IPv4{ IPv6{ ICMPv6 } } received. Not supported.
+Recv packet is IPv6. Trying to find a matching client.
+Received ICMPv6 packet. Not yet supported.
+Received packet is not IP: Discarded.
+%s(): NULL parameter supplied.
+%s(): Unexpected length supplied.
+Expected NEP version %02x but message used %02x
+Expected NEP_HANDSHAKE_CLIENT but received %02X
+Received NEP_HANDSHAKE_CLIENT specifies an incorrect length (%u)
+Echoed nonce in NEP_HANDSHAKE_CLIENT message does not match client generate nonce
+Failed to decrypt NEP_HANDSHAKE_CLIENT data.
+NEP_HANDSHAKE_CLIENT authentication failed
+Failed to decrypt NEP_PACKET_SPEC data.
+Expected NEP_PACKET_SPEC but received %02X
+Received NEP_PACKET_SPEC specifies an incorrect length (%u)
+Expected sequence number %d but received %d
+NEP_PACKET_SPEC authentication failed
+Detected duplicate field specs in NEP_PACKET_SPEC message
+RCVD FieldSpec: Type=%02X Len=%02x Data=0x
+[%lu] Good packet specification received from client #%d (Specs=%d,IP=%d,Proto=%d,Cnt=%d)
+Failed to create new pool.  QUITTING.
+Failed to create new nsock_iod.  QUITTING.
+Error opening capture device %s
+Packet capture will be performed using network interface %s.
+[%lu] Connection received from %s:%d
+Not enough memory for new clients.
+Couldn't match captured packet with a client
+Captured packet belongs to client #%d
+Error: no context found for client #%d
+Error: no IOD found for client #%d
+Failed to receive NEP_HANDSHAKE_CLIENT. Terminating client session
+Failed to receive NEP_PACKET_SPEC message. Terminating client session
+[%lu] Couldn't establish NEP session with client #%d (%s:%d).
+[%lu] NEP handshake with client #%d (%s:%d) was performed successfully
+session_ended_handler
+ready_handler
+packetspec_handler
+hs_final_handler
+hs_client_handler
+hs_server_handler
+echo_handler
+capture_handler
+start
+generate_echo
+generate_ready
+generate_hs_final
+generate_hs_server
+parse_packet_spec
+parse_hs_client
+nep_session_ended_handler
+nep_ready_handler
+nep_packetspec_handler
+nep_hs_final_handler
+nep_hs_client_handler
+nep_hs_server_handler
+nep_echo_handler
+nep_capture_handler
+nep_match_packet
+nep_match_headers
+nep_listen_socket
+getNewClientID
+getClientNsockIOD
+getClientContext
+getClientContext
+addClientContext
+?333333
+?333333
+@333333
+ @333333
+?%s(): Failed to connect.
+%s(): Write operation failed.
+%s(%p, %u)
+%s(): Read operation failed.
+Couldn't initialize Nsock.
+Connection failed.
+Handshake failed.
+Didn't receive server's OK.
+CAPT (%.4fs) %s
+%s() Received %d bytes
+%s(): nse_readbuf failed.
+nep_connect(): NULL parameter supplied.
+%s packets are not supported in Echo Mode
+Expected NEP_HANDSHAKE_SERVER but received %02X
+Received NEP_HANDSHAKE_SERVER specifies an incorrect length (%u)
+NEP_HANDSHAKE_SERVER authentication failed
+Expected NEP_HANDSHAKE_FINAL but received %02X
+Received NEP_HANDSHAKE_FINAL specifies an incorrect length (%u)
+Echoed nonce in NEP_HANDSHAKE_FINAL message does not match client generate nonce
+Failed to decrypt NEP_HANDSHAKE_FINAL data.
+NEP_HANDSHAKE_FINAL authentication failed
+Failed to decrypt NEP_READY data.
+Expected NEP_READY but received %02X
+Received NEP_READY specifies an incorrect length (%u)
+NEP_READY authentication failed
+===NEP Handshake completed successfully===
+Couldn't send packet specification.
+Failed to decrypt NEP_ECHO data.
+Expected NEP_ECHO but received %02X
+NEP_ECHO authentication failed
+Received NEP_ECHO was authenticated successfully
+Unexpected error dealing with the NEP_ECHO message,
+Error displaying received NEP_ECHO message)
+===========================================================================
+ERROR: Server closed the connection. No more CAPT packets will be received.
+nep_echoed_packet_handler(): nse_readbuf failed!
+%s() Packet claims to have a length of %d bytes
+Warning. Received NEP packet (%dB) is bigger than %d bytes.
+%s(): Received exact length (%d).
+%s(): Missing %d bytes. Scheduled read operation for remaining bytes
+%s(): Received more than one packet
+recv_ready_handler
+recv_hs_final_handler
+recv_hs_server_handler
+write_done_handler
+connect_done_handler
+recv_std_header_handler
+echoed_packet_handler
+nep_recv_ready_handler
+nep_recv_hs_final_handler
+nep_recv_hs_server_handler
+nep_recv_std_header_handler
+nep_echoed_packet_handler
+generate_packet_spec
+generate_hs_client
+parse_error
+parse_echo
+parse_ready
+parse_hs_final
+parse_hs_server
+nep_recv_echo
+nep_recv_ready
+nep_send_packet_spec
+nep_handshake
+nep_connect
+start
+?BPF-filter: %s
+127.0.0.1
+(tcp and dst port %d) 
+(udp and dst port %d) 
+SENT (%.4fs) %s
+RCVD (%.4fs) %s
+RCVD (%.4fs) %s
+ICMP
+ICMPv6
+getNsockPool() called before init_nsock(). Please report a bug.
+createIPv4(): NULL pointer supplied.
+createIPv6(): NULL pointer supplied.
+createIPv6(): Cannot determine Source IPv6 Address
+doIPv6ThroughSocket(): setsockopt() for Unicast Hop Limit on IPv6 socket failed
+doIPv6ThroughSocket(): setsockopt() for Multicast Hop Limit on IPv6 socket failed
+doIPv6ThroughSocket(): failed to set IPV6_CHECKSUM option on IPv6 socket. 
+Error binding IPv6 socket to device %s
+ip and ( not (tcp and (dst port %d or src port %d) ) )
+Couldn't determine source address. Using address %s in BFP filter
+(src host %s and dst host %s) and (
+(not src host %s and dst host %s) and (
+(icmp and icmp[icmptype] = %d) 
+(icmp and icmp[icmptype] != %d) 
+arp and arp[6]==0x00 and (arp[7]==0x%02X or arp[7]==0x%02X)
+arp and arp[6]==0x00 and arp[7]==0x%02X
+or (icmp and (icmp[icmptype] = %d or icmp[icmptype] = %d or icmp[icmptype] = %d or icmp[icmptype] = %d or icmp[icmptype] = %d)) )
+arp and arp[6]==0x00 and arp[7]!=0x%02X
+Warning: Wrong address family (%d) in getBPFFilterString(). Please report a bug
+ProbeMode::probe_tcpconnect_event_handler(): Not enough memory
+%d descriptors needed, %d available
+tcpconnect_event_handler(): Received callback of type %s with status %s
+tcpconnect_event_handler(): NULL value supplied.
+RECV (%.4fs) Handshake with %s:%d (%s:%d) completed
+RECV (%.4fs) Handshake with %s:%d completed
+tcpconnect_event_handler():2: NULL value supplied.
+tcpconnect_event_handler(): Failed to create new nsock_iod.
+SENT (%.4fs) Starting TCP Handshake > %s:%d (%s:%d)
+SENT (%.4fs) Starting TCP Handshake > %s:%d
+tcpconnect_event_handler(): Unexpected behaviour, %s event received . Please report this bug.
+tcpconnect_event_handler(): Bogus event type (%d). Please report this bug.
+tcpconnect_event_handler(): Unexpected behaviour: Got EOF. Please report this bug.
+RECV (%.4fs) Possible TCP RST received from %s:%d --> %s
+ERR: (%.4fs) %s to %s:%d failed: %s
+tcpconnect_event_handler(): %s timeout: %s
+tcpconnect_event_handler(): %s canceled: %s
+tcpconnect_event_handler(): %s killed: %s
+tcpconnect_event_handler(): Unknown status code %d. Please report this bug.
+ProbeMode:probe_udpunpriv_event_handler(): Not enough memory
+udpunpriv_event_handler(): Received callback of type %s with status %s
+Nsock UDP "connection" completed successfully.
+udpunpriv_event_handler():: NULL value supplied.
+SENT (%.4fs) UDP packet with %lu bytes to %s:%d (%s:%d)
+SENT (%.4fs) UDP packet with %lu bytes to %s:%d
+Error: nse_readbuff failed to read in the from the probe
+RECV (%.4fs) UDP packet with %d bytes from %s:%d (%s:%d)
+RECV (%.4fs) UDP packet with %d bytes from %s:%d
+udpunpriv_event_handler(): Unexpected behavior, %s event received . Please report this bug.
+udpunpriv_event_handler(): Bogus event type (%d). Please report this bug.
+udpunpriv_event_handler(): Unexpected behaviour: Got EOF. Please report this bug.
+udpunpriv_event_handler(): %s timeout: %s
+udpunpriv_event_handler(): %s canceled: %s
+udpunpriv_event_handler(): %s killed: %s
+udpunpriv_event_handler(): Unknown status code %d. Please report this bug.
+nping_event_handler(): Received callback of type %s with status %s
+RCVD (%.4fs) Unsupported protocol (Ethernet type %02X)
+RCVD (%.4fs) Bogus packet received.
+RCVD (%.4fs) Unsupported protocol.
+Bug in nping_event_handler(). Received %s event.
+nping_event_handler(): Bogus event type.
+nping_event_handler(): Unexpected behaviour: Got EOF. Please report this bug.
+nping_event_handler(): %s failed: %s
+nping_event_handler(): %s timeout: %s
+nping_event_handler(): %s canceled: %s
+nping_event_handler(): %s killed: %s
+nping_event_handler(): Unknown status code %d
+fillPacketICMP(target=%p, buff=%p, bufflen=%d, filledlen=%p)
+fillPacketICMP(): NULL pointer supplied.
+fillPacketARP(target=%p, buff=%p, bufflen=%d, filledlen=%p)
+fillPacketARP(): NULL pointer supplied.
+fillPacketUDP(): NULL pointer supplied.
+fillPacketUDP(): Wrong IP version in NpingOps
+fillPacketTCP(): NULL pointer supplied.
+fillPacketTCP(): Wrong IP version in NpingOps
+fillPacket(target=%p, port=%d, buff=%p, bufflen=%d, filledlen=%p rawfd=%d)
+fillPacket(): Cannot determine Source MAC address.
+fillPacket(): Cannot determine Next Hop MAC address.
+Bug in fillPacket() and NpingOps::ipversion
+Bug in fillPacket() and NpingOps::getMode()
+Couldn't acquire raw socket. Are you root?
+Pcap device %s open successfully
+normalProbeMode(): Error in packet creation
+normalProbeMode(): Invalid packet returned by fillPacket() 
+normalProbeMode(): Error packet returned by createPacket() 
+normalProbeMode(): Wrong mode. Please report this bug.
+normalProbeMode(): NpingOps does not contain correct target ports
+delayed_output_handler
+udpunpriv_event_handler
+tcpconnect_event_handler
+nping_event_handler
+t@%s(%p, %lu, %p, %p, %lu, %p)
+EVP_EncryptInit() failed
+EVP_EncryptUpdate() failed
+EVP_EncryptFinal() failed
+EVP_DecryptInit() failed
+EVP_DecryptUpdate() failed
+OpenSSL bug: it says EVP_DecryptFinal() failed when it didn't (%s).
+OpenSSL is broken. SHA256 len is %d
+deriveKey
+generateNonce
+alula
+aes128_cbc_decrypt
+aes128_cbc_encrypt
+Socket trouble: %s
+nsock_connect.c
+Binding to %s (IOD #%li)
+current != NULL
+Unknown address family %d
+sslen <= sizeof(iod->peer)
+sctp
+socklen > 0
+slen > 0
+Setting of SO_REUSEADDR failed (#%li): %s (%d)
+Bind to %s failed (IOD #%li): %s (%d)
+Setting of IP options failed (IOD #%li): %s (%d)
+Setting of SO_BINDTODEVICE failed (IOD #%li): %s (%d)
+Setting of SO_BROADCAST failed (IOD #%li): %s (%d)
+nsi->state == NSIOD_STATE_INITIAL || nsi->state == NSIOD_STATE_UNKNOWN
+UDP unconnected socket (IOD #%li)
+TCP connection request (EID %lu) redirected through proxy chain
+UNIX domain socket (STREAM) connection requested to %s (IOD #%li) EID %li
+UNIX domain socket (DGRAM) connection requested to %s (IOD #%li) EID %li
+TCP connection requested to %s:%hu (IOD #%li) EID %li
+SCTP association requested to %s:%hu (IOD #%li) EID %li
+SSL connection requested to %s:%hu/%s (IOD #%li) EID %li
+SSL reconnection requested (IOD #%li) EID %li
+UDP connection requested to %s:%hu (IOD #%li) EID %li
+nsock_iod_get_communication_info
+nsock_connect_udp
+nsock_connect_udp
+nsock_reconnect_ssl
+nsock_reconnect_ssl
+nsock_connect_ssl
+nsock_connect_ssl
+nsock_connect_sctp
+nsock_connect_sctp
+nsock_connect_tcp
+nsock_connect_tcp
+nsock_connect_unixsock_datagram
+nsock_connect_unixsock_datagram
+nsock_connect_unixsock_stream
+nsock_connect_unixsock_stream
+nsock_connect_internal
+nsock_connect_internal
+mksock_set_broadcast
+mksock_bind_device
+mksock_set_ipopts
+mksock_bind_addr
+nsock_make_socket
+nsock_setup_udp
+nsock_setup_udp
+Unknown event type (%d) for IOD #%lu
+nse->sslinfo.ssl_desire == SSL_ERROR_WANT_READ || nse->sslinfo.ssl_desire == SSL_ERROR_WANT_WRITE
+SSL_read() failed for reason %s on NSI %li
+Strange connect error from %s (%d): %s
+SSL_set_tlsext_host_name failed: %s
+Uh-oh: SSL_set_session() failed - please tell dev@nmap.org
+certificate verification error for EID %li: %s
+EID %li reconnecting with SSL_OP_NO_SSLv2
+Unknown status (%d) for nsock event #%lu
+nsock_loop() started (timeout=%dms). %d events pending
+nsock_loop() started (no timeout). %d events pending
+Processing event %lu (timeout in %ldms, done=%d)
+Processing events on IOD %lu (ev=%d)
+NSE #%lu: Adding event (timeout in %ldms)
+PCAP NSE #%lu: Adding event to READ_EVENTS
+PCAP NSE #%lu: Adding event to PCAP_READ_EVENTS
+Callback: %s %s %sfor EID %li [%s]
+Callback: %s %s for EID %li [%s] %s(%d bytes)%s
+Callback: %s %s %sfor EID %li 
+nsock_trace_handler_callback
+socket_count_readpcap_inc
+nsock_pool_add_event
+nsock_pool_add_event
+process_expired_events
+gh_list_remove
+process_iod_events
+process_iod_events
+process_event
+process_event
+nsock_loop
+socket_count_readpcap_dec
+do_actual_read
+do_actual_read
+handle_write_result
+update_events
+socket_count_write_inc
+socket_count_read_inc
+socket_count_dec_ssl_desire
+socket_count_write_dec
+socket_count_read_dec
+handle_connect_result
+handle_connect_result
+nsock_core.c
+clrmask == EV_NONE
+iod->readsd_count > 0
+iod->writesd_count > 0
+nse->iod->ssl != NULL
+iod->readsd_count >= 0
+iod->writesd_count >= 0
+peerlen <= sizeof(iod->peer)
+gh_list.h
+list->last == lnode
+list->first == lnode
+Unknown event type %d
+ms->sslctx != NULL
+SSL_new failed: %s
+SSL_set_fd failed: %s
+Unknown status (%d)
+SSL_clear failed: %s
+EID %li %s
+bytesleft > 0
+res == -1
+Unknown operation type (%d)
+iod->readpcapsd_count > 0
+PCAP iterating %lu
+Event has unknown type (%d)
+NSE #%lu: Sending event
+nsp == nsi->nsp
+nse->event_done
+nse->iod->sd >= 0
+iod->readpcapsd_count >= 0
+Unknown nsock event type (%d)
+[EOF]
+[%s (%d)] 
+Callback: %s %s %sfor EID %li
+Invalid nsock event type (%d)
+nsock_iod_new (IOD #%lu)
+nsock_iod.c
+nsock_iod_delete (IOD #%lu)
+nsockiod
+nsock_iod_delete called with argument NSOCK_PENDING_ERROR on a nsock_iod that has %d pending event(s) associated with it
+pending_response == NSOCK_PENDING_NOTIFY || pending_response == NSOCK_PENDING_SILENT
+Trying to delete NSI, but could not find %d of the purportedly pending events on that IOD.
+nsock_iod_delete: SSL shutdown failed (%s) on NSI %li
+nsock_iod_get_write_count
+nsock_iod_get_read_count
+nsock_iod_get_sd
+nsock_iod_set_ipoptions
+nsock_iod_set_localaddr
+nsock_iod_get_udata
+nsock_iod_set_udata
+nsock_iod_id
+nsock_iod_delete
+nsock_iod_delete
+nsock_iod_new2
+nsock_read.c
+Read request for %d lines from IOD #%li [%s] EID %li
+Read request for %d bytes from IOD #%li [%s] EID %li
+Read request from IOD #%li [%s] (timeout: %dms) EID %li
+nsock_read
+nsock_read
+nsock_readbytes
+nsock_readbytes
+nsock_readlines
+nsock_readlines
+nsock_timers.c
+Timer created - %dms from now.  EID %li
+nsock_timer_create
+nsock_timer_create
+nsock_write.c
+sslen <= sizeof(nse->writeinfo.dest)
+Sendto request for %d bytes to IOD #%li EID %li [%s]%s
+Write request for %d bytes to IOD #%li EID %li [%s]%s
+nsock_printf
+nsock_printf
+nsock_write
+nsock_write
+nsock_sendto
+nsock_sendto
+RC4-SHA:RC4-MD5:NULL-SHA:EXP-DES-CBC-SHA:EXP-EDH-RSA-DES-CBC-SHA:EXP-RC4-MD5:NULL-MD5:EDH-RSA-DES-CBC-SHA:EXP-RC2-CBC-MD5:EDH-RSA-DES-CBC3-SHA:EXP-ADH-RC4-MD5:DHE-RSA-AES128-SHA:DHE-RSA-AES256-SHA:EXP-ADH-DES-CBC-SHA:ADH-AES256-SHA:ADH-DES-CBC-SHA:ADH-RC4-MD5:AES256-SHA:DES-CBC-SHA:DES-CBC3-SHA:ADH-DES-CBC3-SHA:AES128-SHA:ADH-AES128-SHA:eNULL:ALL
+ALL:!ADH:!LOW:!EXP:!MD5:@STRENGTH
+OpenSSL failed to create a new SSL_CTX: %s
+%s: Failed to seed OpenSSL PRNG (RAND_status returned false).
+Unable to set OpenSSL cipher list: %s
+nsock_ssl.c
+nsi_ssl_post_connect_verify
+nsock_pool_ssl_init
+nsock_event.c
+type < NSE_TYPE_MAX
+iod != NULL
+timeout_msecs >= 0
+%s (IOD #NULL) (EID #%li)
+%s (IOD #%li) (EID #%li)
+PCAP removed %lu
+nsp->events_pending >= 0
+nse->iod->events_pending >= 0
+UNKNOWN!
+%s on event #%li (type %s)
+SUCCESS
+TIMEOUT
+CANCELLED
+KILL
+PROXY ERROR
+SSL-CONNECT
+READ
+WRITE
+TIMER
+READ-PCAP
+Bogus event type in update_first_events
+iod->state != NSIOD_STATE_DELETED
+NSE #%lu: Removing event from list
+Event #%li (type %s) cancelled
+Bogus event type in nsock_event_cancel
+event_delete
+event_new
+event_new
+get_new_event_id
+event_dispatch_and_delete
+gh_list_remove
+nevent_delete
+nevent_delete
+nsock_event_cancel
+nsock_event_cancel
+nsock_pool.c
+res > 7
+gh_list_remove
+nsock_pool_delete
+nsock_library_initialize
+peer unspecified
+This nsi already has pcap device opened
+PCAP requested on device '%s' with berkeley filter '%s' (promisc=%i snaplen=%i to_ms=%i) (IOD #%li)
+pcap_open_live(%s, %d, %d, %d) failed with error: %s
+Will wait %d seconds then retry.
+pcap_open_live(%s, %d, %d, %d) failed %d times.
+There are several possible reasons for this, depending on your operating system:
+LINUX: If you are getting Socket type not supported, try modprobe af_packet or recompile your kernel with PACKET enabled.
+*BSD:  If you are getting device not configured, you need to recompile your kernel with Berkeley Packet Filter support.If you are getting No such file or directory, try creating the device (eg cd /dev; MAKEDEV <device>; or use mknod).
+*WINDOWS:  Nmap only supports ethernet interfaces on Windows for most operations because Microsoft disabled raw sockets as of Windows XP SP2. Depending on the reason for this error, it is possible that the --unprivileged command-line argument will help.
+SOLARIS:  If you are trying to scan localhost and getting '/dev/lo0: No such file or directory', complain to Sun.  I don't think Solaris can support advanced localhost scans.  You can probably use "-PN -sT localhost" though.
+Can't open pcap! Are you root?
+Error compiling pcap filter: %s
+Failed to set the pcap filter: %s
+Cannot obtain datalink information: %s
+Failed to set pcap descriptor on device %s to nonblocking mode: %s
+Failed to set pcap descriptor on device %s to nonblocking state: %s
+PCAP created successfully on device '%s' (pcap_desc=%i bsd_hack=%i to_valid=%i l3_offset=%i) (IOD #%li)
+Pcap read request from IOD #%li  EID %li
+PCAP %s TEST (IOD #%li) (EID #%li)
+PCAP %s READ (IOD #%li) (EID #%li) size=%i
+pcap_next_ex() fatal error while reading from pcap: %s
+Unexpected return code from pcap_next_ex! (%d)
+nsock_pcap.c
+Too-large bpf filter argument
+Unknown datalink type %d.
+fs_length(&(nse->iobuf)) == 0
+nsock_iod_linktype
+do_actual_pcap_read
+do_actual_pcap_read
+nsock_pcap_read_packet
+nsock_pcap_read_packet
+nsock_pcap_set_filter
+nsock_pcap_try_open
+nsock_pcap_open
+No suitable IO engine found! (%s)
+epoll poll select
+Attempt to FD_ISSET fd %d, which is not less than FD_SETSIZE (%d). Try using a lower parallelism.
+Attempt to FD_SET fd %d, which is not less than FD_SETSIZE (%d). Try using a lower parallelism.
+Attempt to FD_CLR fd %d, which is not less than FD_SETSIZE (%d). Try using a lower parallelism.
+!IOD_PROPGET(iod, IOD_REGISTERED)
+engine_select.c
+nsp->engine_data != NULL
+msec_timeout >= -1
+wait for events
+combined_msecs == -1
+nsock_loop error %d: %s
+(ev_set & ev_clr) == 0
+select_destroy
+select_iod_register
+select_iod_modify
+gh_list_remove
+get_evmask
+select_loop
+select_loop
+engine_epoll.c
+einfo != NULL
+epoll
+IOD_PROPGET(iod, IOD_REGISTERED)
+Unable to update events for IOD #%lu: %s
+Unable to register IOD #%lu: %s
+epoll_destroy
+epoll_iod_register
+epoll_iod_modify
+gh_list_remove
+iterate_through_event_lists
+epoll_loop
+epoll_loop
+engine_poll.c
+sd < pinfo->capacity
+pinfo != NULL
+poll_destroy
+poll_iod_register
+poll_iod_modify
+gh_list_remove
+get_evmask
+poll_loop
+poll_loop
+Cannot initialize proxy node %s
+Invalid protocol in proxy specification string: %s
+Invalid call. Existing proxychain on this nsock_pool
+Forwarding event upstream: TCP connect %s (IOD #%li) EID %li
+nsock_proxy.c
+nsock_proxy_ev_dispatch
+forward_event
+nsock_pool_set_proxychain
+0123456789abcdef
+libnsock %s(): %s
+nsock_log.c
+Set log level to %s
+FULL DEBUG
+INFO
+Registered external logging function: %p
+nsock_set_loglevel
+nsock_set_log_function
+http://%s:%d
+nsock_proxy.h
+ctx->px_current
+CONNECT %s:%d HTTP/1.1
+200 OK
+proxy_http.c
+Invalid proxy state!
+http://
+Connection refused from proxy %s
+handle_state_tcp_connected
+proxy_ctx_node_next
+socks4://%s:%d
+proxy_socks4.c
+ss->ss_family == AF_INET
+socks4://
+Ignoring invalid socks4 reply from proxy %s
+handle_state_tcp_connected
+socks4_data_init
+proxy_ctx_node_next
+ffffff
+?gh_heap.c
+index <= heap->count
+*cur_ptr == hnode
+heap->count == heap->highwm
+heap->slots
+!gh_hnode_is_valid(hnode)
+cur_idx < count
+ch1->index == ch1_idx
+(*parent_ptr)->index == parent_idx
+hnode_down
+gh_heap_remove
+A Santa lives evil at NASA
+hnode_up
+gh_heap_push
+gh_heap_free
+heap_grow
+hnode_ptr
+nbase_str.c
+end >= start
+mkstr
+/proc/self/exe
+nbase_misc.c
+buf != NULL
+%.3fKB
+%.3fMB
+format_bytecount
+sockaddr_storage_cmp
+')uB
+QUITTING!
+Tried to malloc negative amount of memory!!!
+Malloc Failed! Probably out of space.
+Tried to realloc negative amount of memory!!!
+Realloc Failed! Probably out of space.
+/dev/urandom
+/dev/arandom
+netutil.cc
+hostname
+rc == 0
+%s: unknown address family %d
+RTA_OK(*rtattr, *len)
+invalid ipv4 address format
+not a digit after '\'
+nothing before '*' char
+bad number after '*'
+Not a valid ipv4 address '%s'
+No more arguments allowed!
+d<dataend
+head->ts.tv_sec
+icmpv6
+ipsec/esp
+ipsec/ah
+UNKNOWN
+IPSec/AH
+IPSec/ESP
+SCTP
+optp
+mss %hu
+wscale %u
+sackOK
+malformed sack
+sack %d 
+{%u:%u}
+timestamp %lu %lu
+%s: intf_open() failed
+%s: cannot sendmsg: %s
+%s: cannot recvmsg: %s
+rc != -1
+p != NULL
+%s: can't find interface "%s"
+howmany
+%s: route_open() failed
+%s: route_loop() failed
+ EOL
+ NOP
+ %s%s{
+ [bad ptr=%02i]
+\x%02x
+%c%s
+ TM{
+ [bad flags=\x%01hhx]
+[%i hosts not recorded]
+ SI{
+[bad len %02i]
+id=%hu
+ ??{\x%02hhx\x%02hhx
+pt<=option_end
+ ipopts={
+ flg=
+ (original datagram missing)
+ frag offset=%d%s
+TCP %s:?? > %s:?? %s %s %s %s
+UDP %s:%hu > %s:%hu %s
+SCTP %s:%hu > %s:%hu %s
+id=%hu seq=%hu
+Destination unreachable%s
+Network %s unreachable
+Host %s unreachable
+Protocol %u unreachable
+Port %hu unreachable
+Port unreachable
+Fragmentation required
+Next-Hop-MTU=%hu
+Source route failed
+Destination host %s unknown
+Source host isolated
+Host %s unreachable for TOS
+Host precedence violation
+Precedence cutoff in effect
+Network redirect
+Host redirect
+TTL=0 during transit
+TTL=0 during reassembly
+pointer=%d
+Timestamp %s
+Address mask %s
+id=%u seq=%u mask=%s
+type=%d/code=%d
+%s (%d) %s > %s: %s
+ICMP %s > %s [??] %s
+Offending packet: %s
+send_ip_packet_sd
+headerlen <= (int) packetlen
+mtu > 0 && mtu % 8 == 0
+socket
+device != NULL
+%s: failed to open device %s
+rc >= 0 && (size_t) rc < sizeof(portbuf)
+result->ai_addrlen > 0 && result->ai_addrlen <= (int) sizeof(struct sockaddr_storage)
+ai->ai_addrlen > 0 && ai->ai_addrlen <= (int) sizeof(*output)
+rta_type == RTA_SRC || rta_type == RTA_DST
+Buffer too small. Or input data too big :)
+This option can't be used in that way
+Bad character in ip option '%c'
+When using source routing you must leave at least one slot for target's ip.
+%s passed ICMP packet with unhandled type %d
+%s passed ICMPv6 packet with unhandled type %d
+Your system does not support select()ing on pcap devices (%s). PLEASE REPORT THIS ALONG WITH DETAILED SYSTEM INFORMATION TO THE nmap-dev MAILING LIST!
+NULL packet device passed to %s
+WARNING: Negative timeout value (%lu) passed to %s() -- using 0
+datalink_offset failed for type %d (DLT_EN10MB = %d, DLT_LINUX_SLL = %d)
+%s() called with NULL device name!
+%s() called with empty device name!
+%s: cannot create AF_NETLINK socket: %s
+%s: cannot bind AF_NETLINK socket: %s
+Could not find interface %s which was specified by -e
+%s: wrong size reply in recvmsg
+%s: sysroutes_dnet_find_interfaces() failed
+ (part of original datagram missing)
+BOGUS!  Can't parse supposed IP packet
+ttl=%d id=%hu iplen=%hu%s %s%s%s
+ttl=%d id=%hu proto=%d csum=0x%04x iplen=%hu%s %s%s%s
+ver=%d ihl=%d tos=0x%02x iplen=%hu id=%hu%s%s%s%s foff=%d%s ttl=%d proto=%d csum=0x%04x%s%s%s
+hopl=%d flow=%x payloadlen=%hu
+hopl=%d tclass=%d flow=%x payloadlen=%hu
+ver=6, tclass=%x flow=%x payloadlen=%hu nh=%s hopl=%d 
+TCP %s:?? > %s:?? ?? %s (incomplete)
+TCP %s:?? > %s:?? %s ack=%lu win=%hu %s IP [%s]
+TCP [%s:?? > %s:?? %s seq=%lu ack=%lu off=%d res=%d win=%hu csum=0x%04X urp=%hu%s%s] IP [%s]
+TCP %s:%hu > %s:%hu ?? seq=%lu (incomplete) %s
+TCP %s:%hu > %s:%hu seq=%lu (incomplete), %s
+TCP [%s:%hu > %s:%hu seq=%lu ack=%lu (incomplete)] IP [%s]
+TCP %s:%hu > %s:%hu %s %s seq=%lu win=%hu (incomplete)
+TCP [%s:%hu > %s:%hu %s seq=%lu ack=%lu win=%hu (incomplete)] IP [%s]
+TCP [%s:%hu > %s:%hu %s seq=%lu ack=%lu off=%d res=%d win=%hu (incomplete)] IP [%s]
+TCP %s:%hu > %s:%hu %s %s seq=%lu win=%hu %s
+TCP [%s:%hu > %s:%hu %s seq=%lu win=%hu csum=0x%04X%s%s] IP [%s]
+TCP [%s:%hu > %s:%hu %s seq=%lu ack=%lu off=%d res=%d win=%hu csum=0x%04X urp=%hu%s%s] IP [%s]
+UDP %s:?? > %s:?? fragment %s (incomplete)
+UDP [%s:%hu > %s:%hu csum=0x%04X] IP [%s]
+UDP [%s:%hu > %s:%hu len=%hu csum=0x%04X] IP [%s]
+SCTP %s:?? > %s:?? fragment %s (incomplete)
+SCTP [%s:%hu > %s:%hu csum=0x%08x] IP [%s]
+SCTP [%s:%hu > %s:%hu vtag=%lu csum=0x%08x] IP [%s]
+ICMP %s > %s fragment %s (incomplete)
+Destination unreachable (bogus original datagram)
+Port unreachable (unknown protocol %u)
+Destination network %s unknown
+Destination network %s administratively prohibited
+Destination host %s administratively prohibited
+Network %s unreachable for TOS
+Communication administratively prohibited by filtering
+Destination unreachable (unknown code)
+Router advertisement (Mobile Agent Only)
+addrs=%u addrlen=%u lifetime=%hu
+Parameter problem (pointer indicates error)
+Parameter problem (option missing)
+Parameter problem (bad length)
+id=%hu seq=%hu orig=%lu recv=%lu trans=%lu
+ICMP [%s > %s %s (%s) %s] IP [%s]
+ICMPv6 (%d) %s > %s (type=%d/code=%d) %s
+Unknown protocol (%d) %s > %s: %s
+ICMP %s > %s %s (type=%d/code=%d) %s
+sendto in %s: sendto(%d, packet, %d, 0, %s, %d) => %s
+Omitting future %s error messages now that %d have been shown.  Use -d2 if you really want to see them.
+Sleeping %d seconds then retrying
+%s: Failed to open ethernet device (%s)
+headerlen >= 20 && headerlen <= 60
+Warning: fragmentation (mtu=%lu) requested but the payload is too small already (%lu)
+pcap_open_live(%s, %d, %d, %d) FAILED. Reported error: %s.  Will wait %d seconds then retry.
+%s called with too-large filter arg
+Error compiling our pcap filter: %s
+Failed to set the pcap filter: %s
+%s can only handle IPv6 addresses
+my_pcap_open_live(%s, 50, 1, 25) failed three times.
+ether dst %02X%02X%02X%02X%02X%02X and icmp6 and ip6[6:1] = %u and ip6[40:1] = %u
+WARNING: %s: eth_send of Neighbor Solicitation packet returned %u rather than expected %d bytes
+%s: Received -1 response from read_ns_reply_pcap
+%s can only handle IPv4 addresses
+arp and arp[18:4] = 0x%02X%02X%02X%02X and arp[22:2] = 0x%02X%02X
+WARNING: %s: eth_send of ARP packet returned %u rather than expected %d bytes
+%s: Received -1 response from readarp_reply_pcap
+One of the host specifications from your input file is too long (>= %u chars)
+doArp
+doND
+int read_reply_pcap(pcap_t*, long int, bool (*)(const unsigned char*, const pcap_pkthdr*, int, size_t), unsigned char**, pcap_pkthdr*, timeval*, int*, size_t*)
+read_reply_pcap
+set_pcap_filter
+pcap_t* my_pcap_open_live(const char*, int, int, int)
+send_ipv6_ipproto_raw
+send_ipv6_eth
+int send_frag_ip_packet(int, const eth_nfo*, const sockaddr_in*, const u8*, unsigned int, u32)
+int send_ip_packet_sd(int, const sockaddr_in*, const u8*, unsigned int)
+send_ip_packet_eth
+Sendto
+add_rtattr_addr
+void add_rtattr_addr(nlmsghdr*, rtattr**, unsigned int*, unsigned char, const sockaddr_storage*, int)
+int route_dst_netlink(const sockaddr_storage*, route_nfo*, const char*, const sockaddr_storage*)
+route_dst_netlink
+char* format_ip_options(const u8*, int)
+getsysroutes_dnet
+sys_route* getsysroutes(int*, char*, size_t)
+int canonicalize_address(const sockaddr_storage*, sockaddr_storage*)
+int collect_dnet_interfaces(const intf_entry*, void*)
+getinterfaces_dnet
+void tcppacketoptinfo(u8*, int, char*, int)
+eth_open_cached
+pcap_select
+icmpv6_get_data
+icmp_get_data
+int resolve_internal(const char*, short unsigned int, sockaddr_storage*, size_t*, int, int)
+int parse_ip_options(const char*, u8*, int, int*, int*, char*, size_t)
+ARP[]
+19NetworkLayerElement
+9ARPHeader
+EthernetHeader::setSrcMAC(u8*): NULL value supplied 
+EthernetHeader::setDstMAC(u8 *): NULL value supplied 
+Eth[
+ Type=%04x
+20DataLinkLayerElement
+14EthernetHeader
+Parameter problem (unknown code)
+ addrs=%u addrlen=%u lifetime=%d
+Echo reply
+Router advertisement
+Router solicitation
+Timestamp request
+Timestamp reply
+Information request
+Information reply
+Address mask request 
+Address mask reply
+Traceroute
+Domain name request
+Domain name reply
+Security failures
+Unknown ICMP type
+Source quench
+Reassembly time exceeded
+TTL exceeded (unknown code)
+Redirect (unknown code)
+Echo request
+ICMPv4[%s
+ (type=%u/code=%u)
+ id=%u seq=%u
+ unused=%u
+ addr=%s
+ pointer=%u
+ orig=%lu recv=%lu trans=%lu
+ id=%u
+ outhops=%u
+ rethops=%u
+ speed=%lu
+ mtu=%lu
+ reserved=%u
+ csum=0x%04X
+Redirect for network
+Redirect for host
+Redirect for TOS and network
+Redirect for TOS and host
+Network unreachable
+Host unreachable
+Protocol unreachable
+Destination network unknown
+Destination host unknown
+Network prohibited
+Host prohibited
+Network unreachable for TOS
+Host unreachable for TOS
+Communication prohibited
+Precedence violation
+Precedence cutoff
+10ICMPHeader
+12ICMPv4Header
+setFlags() cannot be used in NI, use setNodeInfoFlags() instead
+getFlags() cannot be used in NI, use getNodeInfoFlags() instead
+Router Renumbering (unknown code)
+Node info query (unknown code)
+Node info reply (unknown code)
+Node info reply (qtype unknown)
+Parameter problem (next header unknown)
+Parameter problem (bad option)
+Experimental mobility
+Multicast router advert
+Multicast router sol
+Multicast router term
+FMIPv6
+Unknown ICMPv6 type
+Packet too big
+HopLimit=0 in transit
+Time exceeded (unknown code)
+Cert path sol
+Cert path advert
+Group membership query
+Group membership report
+Group membership reduction
+Router sol
+Router advert
+Neighbor sol
+Neighbor advert
+Redirect
+Renumbering command
+Renumbering result
+Renumbering reset
+Prefix sol
+Prefix advert
+Home agent request
+Home agent reply
+Inverse neighbor sol
+Inverse neighbor advert
+MLDv2 report
+ICMPv6[%s
+ unused=%lu
+ reserved=%lu
+ pointer=%lu
+ flags=
+ nonce=%llu
+Node info reply (success)
+Node info reply (refused)
+Node info query (IPv6 addr)
+Node info query (name)
+Node info query (IPv4 addr)
+Parameter problem (bad field)
+Comm prohibited
+Beyond scope
+Address unreachable
+Source address failed
+Reject route
+12ICMPv6Header
+ttl=%d id=%d proto=%d csum=0x%04X iplen=%d%s%s%s%s
+ver=%d ihl=%d tos=0x%02x iplen=%d id=%d%s%s%s%s foff=%d%s ttl=%d proto=%d csum=0x%04X%s%s%s
+setNextProto(): NULL pointer supplied
+setNextProto(): Invalid protocol number
+setOpts(): NULL pointer supplied.
+getOpts(): NULL pointer supplied.
+IPv4[
+ttl=%d id=%d iplen=%d%s%s%s%s
+ %s]
+IPv4Header.cc
+opts_len<=MAX_IP_OPTIONS_LEN
+int IPv4Header::setOpts(u8*, u32)
+10IPv4Header
+setNextProto(): Invalid protocol number
+setSourceAddress(): NULL value supplied.
+setDestinationAddress(): NULL value supplied.
+ver=%d hlim=%d tclass=%d flow=%d plen=%d nh=%d
+IPv6[
+hlim=%d
+hlim=%d tclass=%d flow=%d
+10IPv6Header
+(this->length - TCP_HEADER_LEN) == this->tcpoptlen
+TCPHeader.cc
+mss %u
+timestamp %u %u
+TCP[
+ %s%s%s%s%s%s%s%s
+ seq=%lu
+ off=%d
+ res=%d
+ win=%hu
+ urp=%d
+NOOP
+WScale
+SAckOK
+SAck
+EchoReq
+EchoRep
+TStamp
+POCP
+POSP
+CC.NEW
+CC.ECHO
+AltSumReq
+AltSumData
+SCPS
+SNAck
+QStart
+nping_tcp_opt_t TCPHeader::getOption(unsigned int) const
+void TCPHeader::__tcppacketoptinfo(const u8*, int, char*, int) const
+21TransportLayerElement
+9TCPHeader
+UDPHeader::setTotalLength(): Invalid length.
+UDP[
+ len=%d
+9UDPHeader
+Payload[
+%d byte%s]
+7RawData
+Packets have different lengths
+PacketParser::split() returned NULL
+The two packets do not result in the same binary buffer
+The two packets do not have the same number of chained elements.
+IPv6 Hop-by-Hop
+ICMPv4
+IGMP
+IPv6-Route
+IPv6-Frag
+IPv6-NoNxt
+IPv6-Opts
+EIGRP
+L2TP
+Mobility Header
+MPLS-in-IP
+Raw Data
+Error in isResponse()
+PacketParser.cc
+finished==true
+NULL pointer supplied
+Protocol IDs do not match
+static pkt_type_t* PacketParser::parse_packet(const u8*, size_t, bool)
+HopByHop[%d,%d]
+HopByHopHeader.cc
+this->length%8==0
+int HopByHopHeader::addPadding()
+19IPv6ExtensionHeader
+14HopByHopHeader
+DestOpts[%d,%d]
+14DestOptsHeader
+Fragment[%d, %d]
+14FragmentHeader
+Routing[nh=%d len=%d type=%d segleft=%d]
+13RoutingHeader
+')uB
+/proc/net/arp
+%s 0x%x 0x%x %100s %100s %100s
+%s:%s:%s:%s:%s:%s:%s:%s/%d
+/proc/net/dev
+%04s%04s%04s%04s%04s%04s%04s%04s %x %02x %02x %02x %32s
+/proc/net/route
+%15s %X %X %X %d %d %d %X %d %d %d
+%04s%04s%04s%04s%04s%04s%04s%04s %02x %32s %02x %04s%04s%04s%04s%04s%04s%04s%04s %x %*x %*x %x %15s
+;*3$"
+zPLR
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.gcc_except_table
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss

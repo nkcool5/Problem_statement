@@ -1,0 +1,5868 @@
+/lib64/ld-linux-x86-64.so.2
+}]Tx
+s2\R
+" A9
+YaQ1
+$ %@
+	QA"a
+Pb@R
+&0(B
+P $2
+ 1Yd*+
+$6 Q 
+~H)zeu
+;	3D
+;eMYfP
+da2R
+3;3L
+QVh?U
+0o*m|@j
+GW!o
+(|D*l
+vqp/
+e{q'
+Am($$
+4x@5[
+m7Fc4}
+'.Sc
+^=K1
+^{;kdZ
+tIheh
+YxKO
+`a@dO8
+ns7<
+(3u(
+^'y/#v
+3A[Ni
+libz.so.1
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+uncompress
+deflate
+compress2
+deflateEnd
+deflateInit_
+libpthread.so.0
+pthread_cond_init
+pthread_mutex_destroy
+pthread_self
+pthread_rwlock_wrlock
+pthread_sigmask
+pthread_mutex_init
+pthread_cond_wait
+pthread_exit
+pthread_setcancelstate
+pthread_cond_destroy
+pthread_mutexattr_settype
+pthread_rwlock_unlock
+fsync
+__errno_location
+pthread_key_delete
+pthread_kill
+pthread_mutex_lock
+pthread_mutexattr_init
+pthread_setspecific
+pthread_cond_signal
+pthread_cond_timedwait
+lseek64
+fcntl
+pthread_cancel
+pthread_rwlock_init
+pthread_create
+pthread_join
+sigaction
+pthread_getspecific
+__pthread_unwind_next
+pthread_getschedparam
+__pthread_unregister_cancel
+pthread_attr_setinheritsched
+pthread_attr_init
+pthread_key_create
+pthread_rwlock_rdlock
+__pthread_register_cancel
+pthread_cond_broadcast
+pthread_attr_setschedparam
+pthread_attr_setschedpolicy
+pthread_attr_destroy
+sendto
+pthread_rwlock_destroy
+pthread_mutex_unlock
+pthread_attr_setdetachstate
+sendmsg
+waitpid
+pthread_mutex_trylock
+libdl.so.2
+dlclose
+dlsym
+dlopen
+dlerror
+librt.so.1
+mq_getattr
+clock_gettime
+libestr.so.0
+es_strbufcmp
+es_deleteStr
+es_strcasebufcmp
+es_newStrFromSubStr
+es_strCaseContains
+es_str2num
+es_newStr
+es_addBuf
+es_unescapeStr
+es_tolower
+es_newStrFromNumber
+es_str2cstr
+es_newStrFromBuf
+es_strncmp
+es_strncasecmp
+es_newStrFromCStr
+es_addChar
+es_strContains
+libjson-c.so.2
+json_object_get_double
+json_object_array_get_idx
+json_object_new_string_len
+json_tokener_new
+json_object_put
+json_object_new_string
+json_object_new_array
+json_object_get_string
+json_object_get_boolean
+json_object_get_int64
+json_object_new_int64
+json_object_is_type
+json_object_new_object
+json_object_get_int
+json_tokener_free
+json_tokener_error_desc
+json_object_object_get
+json_object_get_object
+json_object_to_json_string_ext
+json_object_object_get_ex
+json_object_new_boolean
+json_object_array_length
+json_object_object_add
+json_tokener_parse_ex
+json_object_new_double
+json_object_array_add
+json_object_get_type
+json_object_object_del
+json_object_get
+libuuid.so.1
+uuid_generate
+libc.so.6
+setuid
+chroot
+__xpg_basename
+gmtime_r
+__printf_chk
+fopen
+gai_strerror
+optind
+regexec
+pipe
+__strdup
+perror
+getpwuid
+__fdelt_chk
+initgroups
+strncpy
+fork
+sigfillset
+__stack_chk_fail
+__lxstat
+unlink
+select
+mkdir
+abort
+stdin
+strtoll
+getpid
+localtime_r
+strtol
+isatty
+ctime_r
+getgrnam_r
+execlp
+fdatasync
+fgets
+getppid
+calloc
+strlen
+prctl
+sigemptyset
+getaddrinfo
+memset
+dirname
+setutent
+glob
+strstr
+chdir
+memcmp
+getnameinfo
+getsockopt
+setgroups
+getopt
+clearerr
+unsetenv
+__fprintf_chk
+sigaddset
+fchown
+__sigsetjmp
+stdout
+fputc
+fputs
+memcpy
+fclose
+__vsnprintf_chk
+strtoul
+umask
+strcasecmp
+__strndup
+getgid
+__ctype_b_loc
+getenv
+optarg
+stderr
+alarm
+__snprintf_chk
+fscanf
+setrlimit
+__strncat_chk
+malloc_trim
+getpwnam_r
+__fxstat
+strncat
+fileno
+getcwd
+fwrite
+fread
+gettimeofday
+__memcpy_chk
+srandom
+endutent
+strchr
+getsockname
+qsort
+sleep
+__ctype_toupper_loc
+__ctype_tolower_loc
+syscall
+freeaddrinfo
+__vasprintf_chk
+setsid
+getutent
+__sprintf_chk
+__xstat
+getdtablesize
+access
+_IO_getc
+sysinfo
+setgid
+strcmp
+__libc_start_main
+ferror
+globfree
+_edata
+__bss_start
+_end
+wtiCancelThrd
+dbgFree
+bConfStrictScoping
+initAll
+yy_switch_to_buffer
+__libc_csu_fini
+dbgMutexUnlock
+wtiConstructFinalize
+MsgSetAfterPRIOffs
+strmDup
+strgenConstructFinalize
+OMSRsetEntry
+initRainerscript
+sd_notify
+strmSetbReopenOnTruncate
+yyrestart
+janitorRun
+hashtable_destroy
+getRcvFrom
+objlstDestruct
+parserConstructViaModAndName
+hashtable_iterator_search
+eDfltHostnameCmpMode
+OMSRgetSupportedTplOpts
+lookupNew
+wtpSetwtpState
+mutexCancelCleanup
+glblGetWorkDirRaw
+submitMsg2
+yynerrs
+actionCallHUPHdlr
+wtiDestruct
+rulesetProcessCnf
+getFIOPName
+dbgSetDebugFile
+MsgSetRcvFrom
+cnfvarNew
+sigsegvHdlr
+MsgSetHOSTNAME
+llAppend
+MsgSetRawMsg
+strmSetbSync
+dbgEntrFunc
+cnfDoBSDHost
+yyget_out
+rsCStrOffsetSzStrCmp
+strmClassInit
+cstrTrimTrailingWhiteSpace
+formatTimestampUnix
+wtpConstructFinalize
+dnscacheInit
+rsconfClassExit
+getNumberDigits
+modulesProcessCnf
+thrdExit
+DecodePRIFilter
+rulesetGetRuleset
+applyDfltTZ
+rsconfConstruct
+strmSetcryprovData
+activateRulesetQueues
+sd_is_mq
+parsSkipAfterChar
+wtpSetpmutUsr
+rsCStrAppendStrf
+rsCStrGetSzStrNoNULL
+pDfltParsLst
+pszAltDbgFileName
+rulesetDebugPrint
+cnfarrayDup
+cstrPrint
+thrdCreate
+datetimeClassInit
+errmsgClassExit
+llExecFunc
+yydebug
+statsobjInitialize
+MsgSetMSGID
+qqueueClassInit
+wtiClassInit
+sd_is_socket_inet
+MsgSetRcvFromStr
+llGetNextElt
+errmsgQueryInterface
+parserDestruct
+objlstNew
+rsCStrAppendInt
+qqueueSetiHighWtrMrk
+qqueueConstruct
+runConf
+cnffuncNew_prifilt
+cstrConstructFromESStr
+glblProcessTimezone
+prime_table_length
+tplToJSON
+moduleClassExit
+strExit
+qqueueSetiPersistUpdCnt
+ratelimitSetSeverity
+MsgDeserialize
+dnscacheDeinit
+varConstruct
+strmSetsIOBufSize
+msgPropDescrFill
+strmSetiZipLevel
+rsCStrLocateInSzStr
+rulesetQueryInterface
+moduleClassInit
+setProtocolVersion
+glblProcessCnf
+rsconfQueryInterface
+varInitialize
+iOverallQueueSize
+wtpSetiNumWorkerThreads
+lookupProcessCnf
+qqueueStart
+sd_booted
+strgenDestruct
+qqueueSettoEnq
+rsyslogdDebugSwitch
+ratelimitDestruct
+dbgSetDebugLevel
+GetString
+actionConstructFinalize
+wtpClassExit
+cnfstmtNewLegaAct
+varQueryInterface
+parseAndSubmitMessage
+submitMsg
+wtpClassInit
+wtpCancelAll
+OMSRdestruct
+yyerror
+forkRsyslog
+rsCStrDestruct
+rmLeadingSpace
+queueCnfParamsSet
+qqueueSetDefaultsRulesetQueue
+actionRemoveWorker
+yyparse
+yyin
+MsgReplaceMSG
+strmSetsType
+strmSetiFileNumDigits
+dbgExitFunc
+regCfSysLineHdlr
+rsCStrConstructFromszStr
+dbgMutexLock
+pFuncDBListRoot
+rsconfDebugPrint
+ochConstruct
+MarkInterval
+cnfarrayContentDestruct
+objlstPrint
+hash_from_string
+wtiSetAlwaysRunning
+lookupInitCnf
+thrdInit
+cnfstringvalNew
+dbgCallStackPrintAll
+activate
+containsGlobWildcard
+wtpAdviseMaxWorkers
+cfsyslineInit
+tplDeleteAll
+ochFind
+hashtable_iterator_remove
+hadErrMsgs
+strgenClassExit
+decodeSyslogName
+cnfstmtDestructLst
+getRawMsg
+MsgSetRcvFromIPStr
+MsgDup
+qqueueSetiDeqBatchSize
+modExitIminternal
+yyget_debug
+default_thread_attr
+cnfstmtOptimize
+send_to_all
+glblErrLogger
+rsconfConstructFinalize
+dbgMutLogAddEntry
+yytext
+tplToString
+ratelimitMsg
+janitorCB
+yyrealloc
+strmSettOpenMode
+hash
+llGetKey
+getRawMsgAfterPRI
+bProcessInternalMessages
+getFileSize
+dbgGetDbglogFd
+wtiGetDummy
+yy_create_buffer
+strmSetpszSizeLimitCmd
+wtiInitialize
+objlstAdd
+GetGnuTLSLoglevel
+glblProcessMainQCnf
+queryLocalHostname
+parsSkipWhitespace
+rulesetDestructForLinkedList
+ratelimitNew
+modInitShell
+glblModPath
+modInitpmrfc3164
+startMainQueue
+templateInit
+dbgMutLogFindFromBack
+objDeserializeObjAsPropBag
+cnfexprOptimize
+cslchSetEntry
+nvlstDestruct
+bActionReportSuspensionCont
+scriptAddStmt
+propDebugPrint
+ratelimitAddMsg
+wtpSetpfDoWork
+ratelimitSetNoTimeCache
+hashtable_search
+wtpInitialize
+rs_strerror_r
+skipWhiteSpace
+propClassInit
+rsCStrCaseInsensitveStartsWithSzStr
+statsobjDebugPrint
+hashtable_remove
+yylineno
+yy_flex_debug
+msgConstructForDeserializer
+cnfstmtNew
+loadConf
+statsobjClassExit
+rsrtIsInit
+qqueueSetpAction
+tester
+syslogd_crunch_list
+cnfexprEvalBool
+rsCStrSzStrMatchRegex
+activateActions
+parserConstructFinalize
+Debug
+propIDToName
+srSleep
+glblQueryInterface
+statsobjClassInit
+genFileName
+modInitPipe
+rsCStrSzStrStartsWithCStr
+dflt_ratelimiter
+cnfstmtNewPRIFILT
+modGetName
+sd_is_socket
+yyget_text
+rsconfDestruct
+cnfstmtNewContinue
+glbl_ourpid
+cnfexprPrint
+cnfarrayAdd
+popfile
+yyalloc
+qqueueDestruct
+MsgAddToStructuredData
+dbgSetExecLocation
+MsgSetRawMsgWOSize
+CreateOrReuseStringProp
+yyfree
+yyset_lineno
+statsobjQueryInterface
+modInitDiscard
+getOrdinal
+parsQuotedCStr
+getSubString
+debugging_on
+timeoutComp
+thrd_wti_key
+rsconfClassInit
+qqueueSetSpoolDir
+msgAddMetadata
+janitorInterval
+objDeserializeProperty
+wtiClassExit
+yy_scan_buffer
+addAction
+wtiConstruct
+glblClassInit
+srUtilStrDup
+tpeConstruct
+glblDoneLoadCnf
+llDestroyRootElt
+varDestruct
+hashtable_insert
+multiSubmitFlush
+moduleQueryInterface
+dbgMutLogFindHolder
+modInitsmfwd
+cnfexprDestruct
+cnfstmtNewSet
+strmInitialize
+nvlstFindName
+syslogFacNames
+regCfSysLineHdlr2
+glblPrepCnf
+wtpSetState
+__data_start
+tplPrintList
+cnfDoObj
+wtpSettoWrkShutdown
+doEscape
+syslogTime2time_t
+msgGetJSONPropJSONorString
+cnfSetLexFile
+yyout
+wtpShutdownAll
+llFind
+parserClassInit
+OMSRconstruct
+yy_scan_string
+llCmdList
+glblDebugOnShutdown
+strmMultiFileSeek
+yyset_in
+iminternalRemoveMsg
+rulesetConstruct
+rsCStrTruncate
+rsCStrSzStrCmp
+ourConf
+randomNumber
+cnfcurrfn
+strgenQueryInterface
+lookupDestruct
+rsCStrAppendStr
+yy_scan_bytes
+rulesetClassExit
+tplToArray
+strmSettOperationsMode
+modInitsmtradfile
+msgSetFromSockinfo
+yyget_lineno
+getProgramName
+llGetNumElts
+cnfSetDefaults
+strmSetbVeryReliableZip
+rsCStrConstructFromszStrf
+rsrtExit
+MsgSetTAG
+MsgSetStructuredData
+parserInitialize
+yyget_leng
+cs_save
+cnfDoBSDTag
+cnfexprNew
+sd_is_fifo
+pDfltHostnameCmp
+_IO_stdin_used
+rsParsDestruct
+yypush_buffer_state
+srUtilItoA
+cnfstmtNewCall
+cnfobjPrint
+writePidFile
+actionNewInst
+nvlstGetParams
+qqueueSetbSaveOnShutdown
+MsgSetRuleset
+bFinished
+yychar
+janitorAddEtry
+multiSubmitMsg
+tokenToString
+logmsgInternal
+internalMsg_ratelimiter
+parsPeekAtCharAtParsPtr
+actionConstruct
+rulesetKeyDestruct
+strgenInitialize
+MsgSetPropsViaJSON
+actionClassInit
+cstrConvSzStrAndDestruct
+formatTimestampToPgSQL
+wtpChkStopWrkr
+getWeek
+getTimeReported
+MsgSetInputName
+qqueueSetiDiscardSeverity
+strmQueryInterface
+getPRI
+parsGetCurrentPosition
+altdbg
+getProtocolVersionString
+wtiWorker
+rsyslogd_InitStdRatelimiters
+cnfexprEval
+objGetObjInterface
+cstrAppendCStr
+MsgSetRcvFromIP
+hashtable_iterator_advance
+dbgClassExit
+msgGetJSONMESG
+MsgSetPROCID
+yy_delete_buffer
+getHOSTNAMELen
+setDynaFileCacheSize
+__libc_csu_init
+qqueueSetiDeqtWinToHr
+formatTimestampSecFrac
+actionWriteToAction
+qqueueSetiNumWorkerThreads
+strgenClassInit
+cnfParseBuffer
+hashtable_iterator
+key_equals_string
+pMsgQueue
+wtpSetDbgHdr
+execProg
+hashtable_count
+SKIP_NOTHING
+msgSetJSONFromVar
+modInitsmfile
+wtiQueryInterface
+rsCStrConstructFromCStr
+strmSetiFlushInterval
+seedRandomNumber
+rsconfInitialize
+MsgSetFlowControlType
+qqueueEnqMsg
+jsonFind
+yypop_buffer_state
+yyleng
+iminternalAddMsg
+wtpQueryInterface
+readConfFile
+statsobjDestruct
+iActionNbr
+parsIsAtEndOfParseString
+parserClassExit
+hash_from_key_fn
+cnfobjNew
+modInitFwd
+lookupFindTable
+rulesetClassInit
+errmsgClassInit
+qqueueSetiDeqtWinFromHr
+MsgAddRef
+ratelimitModInit
+nvlstNewStr
+dbgprintf
+msgAddJSON
+tplAddLine
+wtpSetpfGetDeqBatchSize
+formatTimestamp3164
+wtiSetState
+OMSRgetEntryCount
+llFindAndDelete
+tzinfos
+getJSONPropVal
+propNameToID
+actionCommitAllDirect
+cnfobjDestruct
+unregCfSysLineHdlrs
+qqueueSetFilePrefix
+wtpSetpfRateLimiter
+MsgSetRcvFromWithoutAddRef
+rsParsGetParsePointer
+cnfDoScript
+unregCfSysLineHdlrs4Owner
+ochAddLine
+addModToCnfList
+glblClassExit
+rsCStrAppendStrWithLen
+rsCStrCStrCmp
+MsgSetMSGoffs
+checkStartupOK
+wtpSetpfObjProcessed
+create_hashtable
+pParsLstRoot
+dbgMutexTryLock
+cnfstmtNewPROPFILT
+rsyslogd_submitErrMsg
+strmSetiSizeLimit
+strmDestruct
+cnfstmtNewUnset
+getAPPNAME
+varDelete
+modInitIminternal
+dbgoprint
+dbgSetThrdName
+alula
+iminternalHaveMsgReady
+rsCStrStartsWithSzStr
+qqueueApplyCnfParam
+getMSGLen
+glblDestructMainqCnfObj
+parsInt
+yylex
+wtpConstruct
+rsCStrRegexDestruct
+dbgPrintAllDebugInfo
+doNameLine
+cnfDoInclude
+rsyslogd_usage
+cnfstmtPrintOnly
+parserProcessCnf
+propInitialize
+parserQueryInterface
+rsCStrExtendBuf
+rsParsAssignString
+multiSubmitMsg2
+propClassExit
+stddbg
+strgenConstruct
+msgPropDescrDestruct
+rulesetOptimizeAll
+tplLastStaticInit
+tplFind
+Tacocat
+dbgClassInit
+qqueueQueryInterface
+thrdTerminateAll
+bHaveMainQueue
+setLegacyDfltTpl
+formatTimestampToMySQL
+msgGetJSONPropJSON
+rsrtSetErrLogger
+cnfexprEvalCollection
+ratelimitModExit
+parser_errmsg
+inputProcessCnf
+tplDeleteNew
+rsCStrCaseInsensitiveLocateInSzStr
+getPROCID
+nvlstChkUnused
+sd_is_socket_unix
+dbgOutputTID
+qqueueSetDefaultsActionQueue
+default_thr_sched_policy
+dbgPrintCfSysLineHandlers
+msgDestruct
+yy_flush_buffer
+strmSetcryprov
+qqueueSetbSyncQueueFiles
+tellLexEndParsing
+getUUID
+cfsysline
+tokenval2str
+getTAG
+pInternalInputName
+propConstruct
+dbgCondWait
+tplGetEntryCount
+qqueueSettoActShutdown
+actionSetGlobalResumeInterval
+formatTimestamp3339
+qqueueSetiMinMsgsPerWrkr
+qqueueSetiDiscardMrk
+rulesetInitialize
+ochDeleteAll
+getMSG
+qqueueSetMaxFileSize
+varConstructFinalize
+readyModForCnf
+pDfltProgNameCmp
+thrdTerminate
+dbgCondTimedWait
+ratelimitSetThreadSafe
+qqueueSettoWrkShutdown
+cstrConstruct
+lookupBuildTable
+cnfparamsPrint
+MsgSetDfltTZ
+dnscacheLookup
+pszFileDfltTplName
+parsAddrWithBits
+nvlstNewArray
+parserConstruct
+rsyslogd_destructAllActions
+makeFileParentDirs
+ratelimitSetLinuxLike
+modInitpmrfc5424
+cnfparamvalsDestruct
+lookupClassInit
+timeoutVal
+bActionReportSuspension
+yylval
+cnfNewIterator
+datetimeQueryInterface
+SKIP_STRING
+MsgSetAPPNAME
+MsgGetSeverity
+wtpDestruct
+wtpSetpUsr
+msgConstructWithTime
+lookupDoHUP
+strmSetiMaxFileSize
+objDeserializeDummy
+modInitsmtradfwd
+rsCStrConvertToBool
+dbgMutLogDelEntry
+cnffparamlstNew
+wtpSetpfChkStopWrkr
+load
+llDestroy
+timeval2syslogTime
+global_var_root
+cflineParseTemplateName
+wtiSetpWtp
+yyget_in
+glblFindTimezoneInfo
+propDestruct
+doModLoad
+pStrgenLstRoot
+wtiGetState
+cnfparamGetIdx
+resetErrMsgsFlag
+qqueueSetiDeqSlowdown
+dbgMutLogFindSpecific
+cnfstmtNewAct
+varClassInit
+lookupKey_estr
+dbgmalloc
+sd_is_special
+getWeekdayNbr
+qqueueSetsizeOnDiskMax
+rsyslogdDoDie
+GatherStats
+syslogPriNames
+objDeserializeWithMethods
+qqueueSetiLightDlyMrk
+cnffuncNew
+OMSRgetEntry
+getHOSTNAME
+cnfstmtPrint
+cflineDoAction
+rsParsConstructFromSz
+rsrtInit
+msgConstruct
+varDebugPrint
+createMainQueue
+rsParsConstruct
+llInit
+wtiWakeupThrd
+statsobjConstruct
+tplProcessCnf
+rsCStrSetSzStr
+rulesetDestruct
+cnfarrayNew
+cnfnumvalNew
+strmReadMultiLine
+yyset_debug
+default_sched_param
+msgDelJSON
+cnfDoCfsysline
+strmConstruct
+propQueryInterface
+janitorDelEtry
+yyset_out
+ratelimitChecked
+actionDestruct
+ochPrintList
+printParserList
+sd_listen_fds
+modInitFile
+modInitUsrMsg
+currbs
+rsyslogd_InitGlobalClasses
+sd_notifyf
+qqueueSetiLowWtrMrk
+rsCStrConvertToNumber
+qqueueSetiFullDlyMrk
+cnfparamvalsIsSet
+mutObjGlobalOp
+MsgGetProp
+cflineParseFileName
+parsDelimCStr
+yylex_destroy
+nvlstSetName
+MsgGetStructuredData
+actionProcessMessage
+parser_warnmsg
+strInit
+iConfigVerify
+qqueueDbgPrint
+qqueueSetbIsDA
+processCfSysLineCommand
+MsgSetParseSuccess
+wtiSetDbgHdr
+qqueueSettoQShutdown
+setMSGLen
+nvlstPrint
+lookupClassExit
+UUID_1.0
+GLIBC_2.2.5
+GLIBC_2.3.4
+GLIBC_2.3.3
+GLIBC_2.3.2
+GLIBC_2.8
+GLIBC_2.14
+GLIBC_2.15
+GLIBC_2.4
+GLIBC_2.3
+[]A\
+AUATUS1
+-mS(
+$lD9
+[]A\A]
+-DN(
+AXAY
+ATUS
+5NP(
+[]A\
+5R;(
+5;;(
+AWAVI
+AUATI
+AYAZ
+[]A\A]A^A_
+|$0A
+?error.o
+.ip?
+btainingI
+=y3(
+=E2(
+=G2(
+AWAVAUATI
+[]A\A]A^A_
+=N0(
+=`/(
+=8.(
+=f.(
+=2-(
+=e((
+=]((
+=-((
+={'(
+t!Hc
+dH34%(
+=E#(
+ATU1
+=4"(
+=	"(
+[]A\
+=r!(
+=! (
+AWAVI
+AUATE1
+[]A\A]A^A_
+AWAVH
+AUAT1
+:txf
+[]A\A]A^A_
+[]A\
+AWAVH
+AUAT
+[]A\A]A^A_
+ATUS
+[]A\H
+AUAT
+8,taA
+tjrAA
+[]A\A]
+D$X1
+T$XdH3
+AWAVA
+AUATA
+D$(1
+D$ H
+\$ H
+L$(dH3
+8[]A\A]A^A_
+\$ H
+tO<;tKH
+AWAVI
+AUATUSH
+\$(H
+,$tNL
+d$0L
+l$8f.
+D$&H
+L$&D
+T$'H
+|$0A
+T$& 
+\$@L
+\$@L
+[]A\A]A^A_
+AWAVAUATI
+D$(1
+D$ L
+T$ H
+L$(dH3
+8[]A\A]A^A_
+AUATI
+[]A\A]
+[]A\A]
+AUATI
+tsE1
+[]A\A]
+ATUH
+[]A\
+ATUS
+[]A\
+AUATI
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+GX N
+AWAVI
+AUATI
+[]A\A]A^A_
+t$(H
+T$(H
+l$ H
+D$ H
+D$ H
+D$ H
+D$ H
+D$ H
+D$ H
+D$ H
+D$ H
+D$ H
+D$ H
+D$ H
+D$ H
+D$ H
+AVAUH
+ATUH
+ []A\A]A^
+[]A\
+\$ L
+\$ L
+AUATUSH
+[]A\A]
+[]A\A]
+AWAVI
+AUATE1
+HcoTH
+_hdH
+[]A\A]A^A_
+d$ H9
+<	tt
+L;|$
+L;d$
+AWAVA
+AUATUSH
+_TdH
+L;0H
+([]A\A]A^A_
+ATUH
+[]A\
+t*SH
+%uv'
+%Fu'
+AUATUSH
+[]A\A]
+[]A\A]
+=Et'
+xDHc
+v%<!t!
+AUATA
+([]A\A]
+AUATUSH
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+]A\A]
+AWAVAUATI
+[]A\A]A^A_
+L;|$
+L$ I)
+ATUI
+<!t4H9
+tvH9
+[]A\
+|$ f
+t$ H
+AWAVL
+AUATUSH
+L9t$
+]A\A]A^A_
+AWAVAUATUSH
+D$(1
+D$ I
+|$(dH3<%(
+8[]A\A]A^A_
+AUATI
+t/fA
+([]A\A]
+AUATI
+[]A\A]
+AWAVI
+AUATI
+D$(1
+\$ D
+L$(dH3
+8[]A\A]A^A_
+|$ 1
+|$ f
+ATUI
+[]A\
+@t-H
+ATUH
+[]A\
+[]A\
+[]A\
+.t_H
+AWAVI
+AUAT
+[]A\A]A^A_
+AVAUATUI
+D$(1
+D$(dH3
+0[]A\A]A^
+01234567H
+89ABCDEF
+tjE1
+GTD)
+>tTE1
+GTD)
+USHc
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+?[t%I
+D;e\
+D;e\}bI
+]tfL
+I;D$
+HcE\
+AUATI
+[]A\A]
+AVAUATUI
+]A\A]A^
+]A\A]A^
+t$\A
+ATUH
+[]A\
+[]A\
+AUATUH
+[]A\A]
+8-tb1
+t!Lc`
+ATUH
+EP@f
+$Hcu\
+C\HcuT
+Hcu`
+[]A\
+ATUSH
+ []A\
+CP@uTH
+ATUSH
+ []A\
+AUATUSH
+D$(1
+T$(dH3
+8[]A\A]
+t$ H
+t$ H
+ATUSH
+ []A\
+CP@ueH
+AWAVAUATUSH
+D$(1
+D$ H
+L$(dH3
+8[]A\A]A^A_
+t$ H
+t$ H
+[]A\
+HcC`H
+CpHc
+AWAVI
+AUATA
+{LIc
+ChHc
+[]A\A]A^A_
+AVAUI
+ATUI
+khIc
+HcCTH
+CL9CT
+[]A\A]A^
+cX[]A\A]A^
+AWAVAUATI
+l$0H
+D$81
+L$8dH3
+H[]A\A]A^A_
+|$0L
+D$0H
+D$0L
+t$0I
+|$0L
+D$0H
+t$0I
+|$0L
+D$0H
+t$0I
+|$0L
+D$0H
+t$0I
+|$0L
+D$0H
+t$0I
+|$0L
+D$0H
+t$0I
+|$0L
+D$0H
+t$0I
+|$0L
+D$0H
+D$0H
+x Lcw
+|$0L
+D$0H
+D$0H
+x Lcw
+|$0L
+D$0H
+D$0H
+|$0L
+D$0H
+D$0L
+=E#'
+|$0L
+D$0H
+D$0L
+t$ H
+|$0L
+D$0H
+D$0L
+t$(H
+|$0L
+D$0H
+D$0H
+|$0L
+D$0H
+D$0H
+|$0L
+D$0H
+D$0H
+|$0L
+D$0H
+D$0H
+|$0L
+D$0H
+D$0H
+|$0L
+D$0H
+D$0H
+|$0L
+D$0H
+D$0H
+|$0I
+|$0L
+D$0H
+D$0H
+|$0L
+D$0H
+D$0L
+AWAVI
+AUATI
+([]A\A]A^A_
+9!tOA
+AVAUI
+ATUI
+[]A\A]A^
+9!t8A
+AUATI
+[]A\A]
+9!t8A
+AWAVI
+AUATUSL
+\$8A
+dH3<%(
+[]A\A]A^A_
+D$8ts
+D$8t1A
+D$8u
+L$$H
+T$8L
+D$@H
+L$@H
+|$8fD
+D$8H
+\$8H
+T$$H
+T$$H
+T$$H
+d$8fD
+D$P@
+T$0H
+T$$H
+T$$H
+T$$H
+t$8H
+CHE1
+D$@H
+T$DA
+l$DM
+t$8H
+LcL$
+D$8Ic
+D$$C
+l$8f
+T$$D
+D$8H
+@tGf
+D$$1
+l$81
+d$8A
+t5I9
+C@I9
+D$8D
+D$8fD
+D$$H
+d$8L
+L$8H
+|$8E
+d$$A
+D$$E
+|$8Mc
+D$8H
+l$$A
+|$8f
+D$8f
+T$$H
+l$8E
+T$8H
+D$$A
+Do nine men interpret Nine men I nod
+t$8fD
+D$8f
+T$$H
+|$81
+T$8H
+D$$E1
+D$8H
+l$(H
+|$8E
+|$8H
+D$8f
+D$8H
+L$0H
+t$8I
+t$8L
+l$0t
+D$8H
+:!u)A
+AWAVA
+AUATI
+D$(1
+<!tt<.L
+tb</t>H
+T$(dH3
+8[]A\A]A^A_
+5@C'
+AWAVAUATUSH
+D$81
+D$0H
+D$(H
+T$8dH3
+H[]A\A]A^A_
+AUATL
+<!tD<.L
+t2</t H
+-q;'
+([]A\A]
+AUATI
+[]A\A]H
+[]A\A]
+AVAUATUH
+St[@
+Jt%H
+[]A\A]A^
+[]A\A]A^
+AUATI
+?-t	
+8-t:
+[]A\A]
+AUATA
+[]A\A]
+t;SH
+ATUI
+[]A\
+AUATI
+[]A\A]
+AUAT1
+[]A\A]
+H;]0t
+[]A\A]
+AWAVI
+AUATI
+H;s0tIH
+([]A\A]A^A_
+ATUHc
+[]A\
+$[]A\
+AVAUI
+ATUH
+[]A\A]A^
+AWAVI
+AUATI
+D$(1
+L$(dH3
+8[]A\A]A^A_
+AVAUI
+ATUI
+[]A\A]A^
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AVAUI
+ATUH
+[]A\A]A^
+AVAUI
+ATUI
+[]A\A]A^
+ATUI
+[]A\
+T$PH
+L$XL
+D$`L
+L$ht=
+)D$p
+D$81
+T$ H
+D$(H
+D$@H
+D$$0
+L$8dH3
+D$(1
+L$(dH3
+ATUI
+[]A\
+[]A\
+AUATUSH
+[]A\A]
+]A\A]
+ATUSH
+[]A\
+AUATUSH
+[]A\A]
+tGATUI
+[]A\
+AVAUA
+]A\A]A^
+ATU1
+<+t`
+?-thE1
+[]A\
+ATUI
+[]A\
+[]A\
+ATU1
+[]A\
+AWAV1
+AUATUSH
+[]A\A]A^A_
+<	w!C
+	wLAWE1
+AVAUATUS
+[]A\A]A^A_
+	w"D
+	w*G
+<ZtoD
+	wJG
+gffff
+gfff
+ATUI
+D$H1
+C	+H
+D$HdH3
+P[]A\
+C	+1
+C	-H
+AWAVAUATUSH
+D$h1
+2wqH
+T$hdH3
+x[]A\A]A^A_
+H;4$G
+D$PH
+D$PH
+t$QI
+D$@D
+L$8L
+T$0L
+\$(H
+T$ L
+\$(L
+T$0D
+L$8D
+T$HL
+\$@L
+L$0D
+L$(D
+D$ D
+L$0L
+T$8L
+\$@H
+AUATI
+([]A\A]
+gfff
+{	+[@
+dH34%(
+D$H1
+gfffffff
+\$HdH3
+AWAVE
+AUATL
+t[</u
+[]A\A]A^A_
+[]A\A]A^A_
+AUATA
+[]A\A]
+ATUI
+,$[]A\
+AWAVI
+AUATI
+|$0I
+[]A\A]A^A_
+t$0H
+|$0I
+gffffffff.
+;~#H
+H+L$
+dH3<%(
+AWAVAUATI
+D$X1
+L$XdH3
+h[]A\A]A^A_
+tJf.
+AWAVD
+AUATI
+[]A\A]A^A_
+< t8
+D$0H
+t&<?@
+AVAUI
+ATUA
+[]A\A]A^
+PAV1
+ATUA
+\$ L
+[]A\
+AUATA
+\$ L
+[]A\A]
+H;0u
+H90t
+AWAVAUATI
+l$`A
+L$ 1
+[]A\A]A^A_
+l$`A
+t$ L
+|$ 1
+\$ H
+AVAUI
+ATUA
+k t&H
+[]A\A]A^
+[]A\A]A^
+t,H;=
+ATUI
+f9i,u
+L;a u
+l$ L
+\$ L
+AUATA
+USHc
+[]A\A]
+AVAUATUSH
+D$H1
+D$HdH3
+P[]A\A]A^
+t8H;
+AWAVMc
+AUATI
+N(H;
+|$PH
+[]A\A]A^A_
+AVAULc
+ATUI
+N(H;
+[]A\A]A^
+AWAVAUATA
+[]A\A]A^A_
+AWAVAUATA
+[]A\A]A^A_
+AWAVMc
+AUATI
+O(H;
+t$PH
+dH34%(
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATA
+D$X1
+3t^I9
+D$XdH3
+h[]A\A]A^A_
+V tCD
+AUATUSH
+d$@I
+t1fA
+[]A\A]
+AVAUH
+ATUH
+dH34%(
+[]A\A]A^
+ u&H
+dueH
+.u7H
+AUATE1
+[]A\A]
+AWAVAUATI
+dH34%(
+([]A\A]A^A_
+dt>I
+]A\I
+A]A^
+]A\A]A^
+ATUS1
+dtNI
+[]A\A]A^
+]A\A]A^
+AUATI
+dtWH
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+D$H1
+t$HdH34%(
+X[]A\A]A^A_
+AWAVA
+AUATI
+D$PH
+[]A\A]A^A_
+AVAUI
+ATUH
+ []A\A]A^
+AWAVI
+AUATI
+([]A\A]A^A_
+[]A\
+[]A\
+AWAVI
+AUATI
+D$(1
+t$ H
+L$(dH3
+8[]A\A]A^A_
+:t H
+L$ H
+|$ I
+D$ A
+AWAVAUATI
+l$.dH
+D$H1
+t$.@
+L$HdH3
+Beeb
+X[]A\A]A^A_
+t$@H
+T$@H
+t$8H
+t$.M
+:tXI;E
+t$ H
+|$0H
+D$0H
+|$8H
+t$@H
+T$@H
+|$ H
+D$8L
+l$@H
+l$@H
+D$@H
+D$@H
+D$@H
+D$@H
+D$@H
+D$@H
+D$@H
+D$@H
+D$@L
+t$/H
+D$/L
+|$/:
+D$@H
+D$@A
+D$/H
+L$/H
+D;4$|
+t$@I
+|$/:ujH
+D$@I
+AVAUI
+ATUI
+[]A\A]A^
+AVAUI
+ATUH
+ []A\A]A^
+AWAVI
+AUATUSH
+D$81
+d$(H
+|$(Hc
+|$(H
+|$ H
+L$8dH3
+H[]A\A]A^A_
+T$01
+D$0H
+|$ H
+|$ A
+D$0H
+D$ H
+AWAVI
+AUATUSH
+l$4L
+d$@H
+|$ L
+L$(H
+D$H1
+|$@Hc
+|$8H
+|$8H
+\$HdH3
+X[]A\A]A^A_
+|$8H
+t$(H
+|$8H
+|$8H
+D$8H
+\$ H
+ATUI
+[]A\
+AVAUI
+ATUH
+ []A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVI
+AUATI
+D$H1
+L$HdH3
+X[]A\A]A^A_
+t$(H
+t$0H
+t$8H
+t$ H
+t$@H
+t$ H
+AUATI
+[]A\A]
+t0;X
+AUATUSH
+[]A\A]
+]A\A]
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+teIc
+<.u A
+D$PE1
+D$ I
+D$ L
+s,H;l$
+L$8H
+H;l$
+|$8H
+T$HH
+[]A\A]A^A_
+T$/L
+L;|$
+s(H;l$
+t$HH
+|$@1
+|$8H
+T$HH
+D$8H
+t$HH
+ATUH
+5~P&
+=WP&
+=AP&
+[]A\
+%:O&
+%yN&
+AUATI
+D$XH
+T$`H
+T$`H
+BXL;%t
+L;%o
+\$HH
+[]A\A]
+D$XH
+AWAVI
+AUATA
+]Pt.L
+[]A\A]A^A_
+AWAVAUATA
+|$(H
+|$(H
+|$(H
+|$(H
+|$(H
+|$(H
+|$(H
+|$(H
+|$(H
+|$(H
+|$(H
+|$(H
+|$(H
+|$(H
+|$(H
+|$(H
+l$0H
+|$(Hc0
+|$(I
+|$(H
+|$(H
+|$(I
+|$(H
+T$(H
+|$(L
+[]A\A]A^A_
+\$(H
+\$(H
+|$(H
+AWAVAUATUSH
+D$H1
+D$@A
+l$8H
+T$8H
+T$HdH3
+X[]A\A]A^A_
+|$@H
+|$@H
+|$@I
+|$@Hc0
+L$@H
+L$@H
+|$@H
+L$@H
+T$@H
+=uB&
+%#B&
+AVAUATUE1
+[]A\A]A^
+-uz&
+AWAVAUATI
+|$tL
+T$tH
+[]A\A]A^A_
+t$tH
+AUATUSH
+[]A\A]
+w8Hc
+tFAUL
+ATUSH
+Cht&L
+[]A\A]
+t[AUATI
+[]A\A]
+AUATUSH
+[]A\A]
+t-HcWpLcC H
+C<HcWpH
+LcC H
+ATUSH
+[]A\
+CHH9D$0|
+CHH9D$0|
+dH34%(
+{ Hc_
+E8Hc
+AUATUSH
+S0I9
+[]A\A]
+]A\A]
+[]A\A]
+AVAUATUI
+D$(1
+L$(dH3
+0[]A\A]A^
+H;CH~/L
+t$ L
+D$ H9
+AUATL
+-gi&
+[]A\A]
+AVAUI
+ATUI
+-*h&
+]A\A]A^
+AUATA
+[]A\A]
+[]A\A]
+[]A\A]
+AVAUATUSH
+-#e&
+[]A\A]A^
+C<HcSpH
+LcC H
+AWAVAUATI
+[]A\A]A^A_
+=Ya&
+uzIc
+Borrow or rob
+CHH9D$@|
+AUATUSH
+[]A\A]
+AUATUSH
+-f]&
+[]A\A]
+CHI9
+ATUA
+H;C`tVH
+[]A\
+AVAUI
+ATUS
+]`H9
+[]A\A]A^
+I;}`u
+D$(1
+t$(dH34%(
+AWAVI
+AUAT
+|$8H
+\$0H
+D$0rs:
+l$ M
+[]A\A]A^A_
+AUATUSH
+([]A\A]
+AWAVA
+AUATI
+([]A\A]A^A_
+AWAVAUATUSH
+D$H1
+l$?L
+d$@H
+Degas are we not drawn onward no In union drawn onward to new eras aged
+D$ H
+t$?A
+l$@I
+t$@H
+T$HdH3
+X[]A\A]A^A_
+T$@H
+t$@H
+t$@H
+T$(H
+AVAUI
+ATUSH
+[]A\A]A^
+FhtB
+AUATI
+[]A\A]
+C<HcSpH
+LcC H
+=u	&
+=|O&
+=_O&
+5MO&
+%(	&
+AUATI
+A9\$
+|$`I
+[]A\A]
+AUATUSH
+{`[]A\A]
+5^Q&
+AWAVAUATUSH
+D$H1
+ZYu=H
+L$HdH3
+X[]A\A]A^A_
+AWAVI
+AUATUS
+|$ 1
+|$ L
+[]A\A]A^A_
+~4ATI
+A9\$
+AWAVAUATUSH
+t|Ic
+([]A\A]A^A_
+tKATUH
+[]A\
+5~B&
+ATUH
+-R8&
+[]A\H
+[]A\
+ATUSH
+C`txH
+[]A\
+Lcd$
+AWAVAUATUSH
+|$@1
+l$0H
+Icv(
+D$PH
+D$|E1
+D$|D9
+pD9(
+|$,1
+[]A\A]A^A_
+tKATUH
+EXt+H
+[]A\
+5T8&
+HcW$H
+HcW$H
+HcW$H
+AWAVA
+AUATA
+[]A\A]A^A_
+[]A\A]A^A_
+9Kp~EH
+ATUH
+[]A\
+D$H1
+Ik\$
+L$HdH3
+AUATUSH
+%B$&
+[]A\A]
+ATUSH
+[]A\
+ATUL
+[]A\
+AUATE1
+([]A\A]
+HcsxH
+Hcs|L
+tHSH
+L$ dH
+\$X1
+L$HH
+t$0H
+D$ H
+\$XdH3
+AWAVI
+AUATI
+E ~SM
+t$H1
+[]A\A]A^A_
+[]A\A]A^A_
+H;S 
+ATUSH
+[]A\
+AWAVAUATI
+D$h1
+t$PH
+D$@H
+D$HH
+D;k4
+D$HA
+t$ H
+l$ H
+\$(H
+A;D$ ~7A
+l$ H
+l$ H
+t$HL
+l$ H
+k@M;
+t"L9)H
+l$PE1
+T$ A+T$
+~uA;
+t$ H
+T$PL
+L$PHc
+T$ A+T$
+t$<A
+$t`A
+L$hdH3
+x[]A\A]A^A_
+D$ A;
+l$ H
+\$ H
+|$ H
+L$PH
+A)/H
+T$ H
+A+t$
+A)/H
+T$PH
+L$$A
+T$ H
+L$PI
+T$PH
+A)l$ H
+A)l$
+T$ H
+A+t$
+L$PI
+T$PH
+ATUI
+D$4E
+[]A\
+t$0H
+AWAVI
+AUATI
+t$$dH
+D$H1
+D$(L
+\$0M
+A;F ~4A
+FhA9F 
+|$$1
+L$HdH3
+X[]A\A]A^A_
+t$(L
+F A;
+FlA9F 
+A;G\
+AWAVI
+AUAT
+t$<dH
+D$h1
+D$@L
+t$PH
+D$ H
+D$HH
+D$(L
+D;m4
+t$ H
+\$ I
+;E ~1
+t$HL
+m@M;
+L9)H
+L;*v{H
+|$<1
+L$hdH3
+x[]A\A]A^A_
+D$ A;
+T$PH
+l$ H
+T$(L9(
+T$PH
+L$$A
+T$ H
+L$PI
+T$PH
+E)o H
+L$PI
+T$PH
+4$H)
+ATUI
+[]A\
+AVAUE1
+ATUH
+]A\A]A^
+AWAVAUATI
+D$(1
+;C ~1
+L$(dH3
+8[]A\A]A^A_
+Ch9C 
+u[+C
+;C\|
+C +C
+Cl9C 
+AVAUI
+ATUI
+t[=y
+[]A\A]A^
+A9D$4
+D$HH
+AWAVI
+AUATH
+[]A\A]A^A_
+AVAUH
+ATUSH
+AZA[D
+tDD9
+_AYD
+kdD9
+dH34%(
+[]A\A]A^
+]A\D
+shV1
+{@Ic
+C t3
+;S\|)A
+{8Lc
+Hcs|H
+HcsxH
+ATU1
+[]A\
+|$0H
+tiAUATI
+[]A\A]
+ATUI
+[]A\
+ATUI
+[]A\
+AWAVAUATUSH
+D$X1
+D$>H
+D$ H
+D$@H
+L$XdH3
+h[]A\A]A^A_
+D$ H
+W8E1
+D9t$
+D$HJH
+D$@E1
+HcT$@I
+HcT$@I
+L$(H
+AVAUI
+ATUSH
+T$hH
+]A\A]A^
+AWAVH
+AUATI
+([]A\A]A^A_
+~AE1
+ATUI
+U(~8
+[]A\
+AVAUI
+ATUI
+[]A\A]A^
+ATUI
+ []A\
+ATUI
+[]A\
+dH3<%(
+[]A\
+AVAUATUH
+[]A\A]A^
+[]A\A]A^
+]A\A]A^
+ATUH
+[]A\
+AVAUI
+[]A\A]A^
+%dz%
+AWAVAUATI
+\$HH
+t$PL
+l$PL
+[]A\A]A^A_
+t4f.
+D$PH
+A9\$Hw
+[]A\A]A^A_
+AUATUSH
+T$0H
+T$0H9
+[]A\A]
+--y%
+%mx%
+AWAVAUATUSH
+D$h1
+D$8H
+D$8t
+D$@t
+D;{Hr
+D$PH
+D$hdH3
+x[]A\A]A^A_
+AWAVAUATI
+[]A\A]A^A_
+AUATH
+[]A\A]
+%6s%
+AUATI
+;0u_
+[]A\A]
+[]A\A]
+AWAVI
+AUATI
+,u-H
+E</w0H
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUI
+ATUI
+[]A\A]A^
+AUATI
+D$(1
+<$oub
+L$(dH3
+8[]A\A]
+AWAV
+AUATUSH
+d$PH
+D$01
+t$(H
+T$(H
+[]A\A]A^A_
+AUATI
+\$@dH
+[]A\A]
+ATUI
+[]A\
+AWAVI
+AUATI
+ u1I
+t/H;C
+[]A\A]A^A_
+AWAVI
+AUATI
+([]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVM
+AUATM
+|$`dH
+([]A\A]A^A_
+AWAVAUATI
+T$(dH
+D$H1
+t$0L
+l$8H
+|$@H
+D$(L
+D$@H
+D$0H
+L$HdH3
+X[]A\A]A^A_
+AWAVH
+AUATUSH
+D$(1
+|$ H
+t$ H
+D$(dH3
+8[]A\A]A^A_
+=Ia%
+ATUSH
+T$(1
+[]A\
+AWAVAUATUS
+[]A\A]A^A_
+tsI9
+D$(H9
+ATUE
+[]A\
+fD9d$
+AUATI
+[]A\A]
+/dev/mqu
+H9T$@
+H9D$H
+AVAUATUA
+<@tL</tH
+[]A\A]A^
+t$P1
+|$R@
+T$@H
+L$HL
+D$PL
+L$Xt:
+)D$`
+)L$p
+D$(1
+D$0H
+T$(dH3
+AWAVAUATUSH
+[]A\A]A^A_
+-]{%
+AWAVAUATI
+V`dH
+D$X1
+tdHcC
+\$XdH3
+h[]A\A]A^A_
+D$ H
+l$ H
+D$ H9C(
+D$ I
+T$`L
+t$0E1
+8HcC
+T$`H
+C4A9
+T$`H
+T$`D
+D$ I
+8HcC
+gfff
+S0Mc
+D$(H
+T$`H
+L$(1
+T$`H
+D$ A
+T$`D
+T$`H
+u&HcC
+SHcG
+uDHcG
+ATUI
+-Uv%
+$[]A\
+AVAUATUH
+D$H1
+C"t;
+L$HdH3
+P[]A\A]A^
+-4z%
+IcuhH
+IculH
+IcutH
+IcupH
+ATUH
+D$81
+T$8dH3
+@[]A\
+t$ H
+D$`H
+AWAVAUATUSH
+^`E1
+\$`H
+[]A\A]A^A_
+D$`H
+K(E1
+D;{(|
+AWAVI
+AUATI
+8Hco
+D$(1
+D$ 1
+ubLcD$
+D$ I
+A9G|
+L$(dH3
+8[]A\A]A^A_
+M(;M,
+W|E1
+E;w|
+u#Lc
+A;_|
+D$ H
+t2E1
+Icw|H
++U,A
+4	Ic
+AWAVI
+AUATI
+([]A\A]A^A_
+AWAVAUATI
+%NV%
+D$(1
+5J_%
+L$(dH3
+8[]A\A]A^A_
+5{]%
+AUATUSA
+[]A\A]A^
+[]A\
+AWAVAUATUSH
+5TR%
+[]A\A]A^A_
+AVAUATUI
+HcW@
+[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+HcS@
+[]A\A]A^
+t$ H
+|$01
+T$ H
+AWAVAUATI
+|$0H
+t$ dH
+T$(L
+|$XH
+D$ H
+D$(I
+=p&%
+|$XL
+T$XA
+[]A\A]A^A_
+D$ H
+t$8H
+D$(H
+D$XH
+\$0L
+|$LH
+D$PE1
+D9z|
+D$XH
+t$PI
+D$LH
+t$PH
+\$`H
+t$XE
+God A red nugget A fat egg under a dog
+AWAV1
+AUATI
+5z %
+== %
+=' %
+([]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+=	E%
+AVAUI
+ATUI
+=jD%
+[]A\A]A^
+]A\A]A^
+=2D%
+ATUI
+ []A\
+AVAUATUSH
+[]A\A]A^
+}fIc
+AUATUSH
+[]A\A]
+AWAVI
+AUATA
+|$ H
+D$(1
+d$ A
+I;D$
+L$(dH3
+8[]A\A]A^A_
+\$ H
+AWAVAUATI
+([]A\A]A^A_
+?"u9
+AWAVAUATI
+d$8H
+D$x1
+|$xdH3<%(
+[]A\A]A^A_
+/t_@
+,tYH
+ uKH
+\$8H
+\$8H
+t$(1
+T$@1
+L$0H
+\$0L
+D$(H
+\$0L
+|$(A
+D$(H
+AWAVE1
+AUATUS
+[]A\A]A^A_
+AWAVAUATI
+[]A\A]A^A_
+AUATI
+t';k
+[]A\A]
+[]A\A]
+AVAUI
+ATUI
+tCD;c
+]A\A]A^
+]A\A]A^
+AVAUATI
+E94$w
+]A\A]A^
+tqE1
+D$0H
+E94$w
+AUATUSH
+[]A\A]
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATI
+D$(1
+d$ H
+|$(dH3<%(
+8[]A\A]A^A_
+\$ I
+\$ L
+\$ I
+\$ L
+[]A\
+[]A\
+AWAVI
+AUATI
+|$ H
+-j %
+[]A\A]A^A_
+AWAVI
+AUATI
+D$(1
+T$ I
+D$ H
+L$(dH3
+8[]A\A]A^A_
+D$ t
+AWAVI
+AUATI
+D$81
+D$*L
+t$0H
+D$,H
+\$8dH3
+H[]A\A]A^A_
+t$,u
+AWAVA
+AUATUSH
+D$81
+D$(H
+l$(E
+L$8dH3
+H[]A\A]A^A_
+<'t\A
+l$(H
+l$(H
+t$(I
+t$01
+AWAVAUATI
+D$81
+L$8dH3
+H[]A\A]A^A_
+D$*I
+D$,H
+D$0H
+D$01
+HcT$,H
+HcD$,H
+Icw(I
+L$*H
+D$0A
+D$X<
+Hct$,
+L$,H
+T$0L
+D$*L
+D$,9E
+D$,H
+AWAVAUATUSH
+l$ H
+T$x1
+t$xdH34%(
+[]A\A]A^A_
+|$ H
+\$ H
+|$ H
+D$<A
+T$8tz9
+|$(L
+l$(M
+T$<A
+\$ H
+D$8A
+D$<A
+D$/I
+D$0H
+p<,ttI
+t`<%t\<:u
+T$ I
+l$(L
+|$(I
+|$HL
+T$ I
+|$(I
+T$@A
+T$<A
+T$8M
+|$0cu0
+|$1su)
+|$2vu"
+uKfA
+uIfA
+AWAVI
+AUATA
+%tBE
+([]A\A]A^A_
+AWAVAUATI
+=tHH
+[]A\A]A^A_
+t$XH
+\$(f
+D$0H
+l$/H
+ t#f.
+ t!H
+D$(H
+|$(B
+|$0su)
+|$1qu"
+|$2lu
+T$(H
+AWAVH
+AUAT1
+|$ H
+D$ H
+\$H1
+[]A\A]A^A_
+D$ H
+|$@H
+|$@H
+\$ H
+\$hE1
+D$<H
+T$4H
+DD$4
+D$4D
+T$4E
+9T$<
+L$`A
+D$PH
+D$\A
+l$pH
+D$xH
+D$ A
+9T$<
+L$<A
+D$(H
+D$<H
+T$hH
+T$hH
+L$pH
+L$<H
+D$\	
+ATUI
+[]A\
+ATUSL
+\$HH
+[]A\
+ATUSL
+\$HH
+[]A\
+AUATUSH
+[]A\A]
+AWAVAUATUSH
+[]A\A]A^A_
+AVAUI
+ATUH
+r dH
+D$(1
+D$ H
+|$(dH3<%(
+0[]A\A]A^
+D$P$
+D$H1
+D$HdH3
+ATUS1
+[]A\
+|&f.
+dH34%(
+[]A\
+Hc|$
+$jlG
+AUATI
+[]A\A]
+AUAT
+AWAVI
+AUATA
+D$H1
+t$HdH34%(
+X[]A\A]A^A_
+t$ Hc
+tASH
+AUATI
+[]A\A]
+AWAVI
+AUATE
+t$xdH
+D$(1
+d$pH
+|$ L
+|$ Hc
+|$ D
+|$ L
+\$ H
+L$(dH3
+8[]A\A]A^A_
+|$ H
+AWAVI
+AUATI
+tjE1
+[]A\A]A^A_
+ATUI
+[]A\
+AWAVH
+AUAT
+|$(L
+t$0M
+|$(L
+t$0I
+[]A\A]A^A_
+l$ A
+t7E1
+T$8H
+l$ A
+AWAVAUATUSH
+/dev
+[]A\A]A^A_
+AWAVH
+AUATUSH
+\$H1
+T$8H
+;t<@
+;t!H
+D$8H
+D$@D
+D$8H
+\$HdH3
+X[]A\A]A^A_
+*<5v
+AYAZ
+T$(H
+L$ H
+u&E9
+D$@H
+|$81
+ATUI
+[]A\
+AVAU1
+[]A\A]A^
+AUATE1
+[]A\A]
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVI
+AUATA
+[]A\A]A^A_
+ATUH
+[]A\1
+[]A\
+AWAVAUATI
+D$81
+=so$
+D$0H
+|$0H
+|$0H
+\$8dH3
+H[]A\A]A^A_
+D$0H
+|$0H
+D$0H
+|$0H
+|$0H
+D$0L
+T$'L
+T$'L
+|$0H
+ATUI
+$[]A\
+AWAVAUATI
+D$(1
+|$ E
+|$ H
+\$(dH3
+8[]A\A]A^A_
+t$ H
+ou^I
+D$ I
+|$ I
+;t:A
+#t.A
+t$ A
+t$ H
+t$ H
+)t'1
+AWAVAUATUSH
+[]A\A]A^A_
+ATUSH
+W(dH
+D$H1
+T$HdH3
+P[]A\
+AWAVI
+AUATI
+9(~o
+G 9(
+d$(M
+[]A\A]A^A_
+AWAVAUATA
+D$81
+D$ I
+D$(L
+|$0L
+H9l$
+H9l$
+t$8dH34%(
+H[]A\A]A^A_
+D$0H
+ATUI
+[]A\
+=mz$
+5qu$
+ATUHc
+ATUS
+AUATUSH
+C@f;
+[]A\A]
+5-f$
+P f;
+AVAU1
+=LO$
+[]A\A]A^
+AWAVI
+AUATI
+([]A\A]A^A_
+T$ f
+AVAUATUH
+[]A\A]A^
+SHHc
+-X<$
+AWAVA
+AUATUSH
+T$,H
+D$ Hc
+\$0L
+\$(I
+\$0E
+L$ Ic
+9D$,
+[]A\A]A^A_
+ uaH
+t,Hc
+9D$,
+-GQ$
+\$0H
+L$ H
+T$ Ic
+T$ H
+l$(9
+=GO$
+T$ H
+AWAV
+AUATI
+<?v9
+</ww<.
+dH34%(
+[]A\A]A^A_
+t$ E1
+Hc=VN$
+t$ E1
+;t'H
+ATUI
+ []A\
+=C>$
+=6J$
+AVAU1
+=\'$
+[]A\A]A^
+=-D$
+AWAVH
+AUATI
+([]A\A]A^A_
+=I$$
+AVAUATUS
+[]A\A]A^
+AUATI
+=	/$
+[]A\A]
+ATUI
+[]A\
+AVAUI
+ATU1
+[]A\A]A^
+[]A\A]A^
+ATUI
+[]A\
+AVAUATUSH
+OTdH
+H+shH
+ []A\A]A^
+AUATI
+[]A\A]
+AWAVI
+AUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATI
+H+uhH
+[]A\A]A^A_
+<]tDH
+ tp@
+:tjH
+ tW@
+:tQH
+AUATI
+[]A\A]
+AWAVI
+AUAT
+D$81
+T$,H
+t$0H
+HcD$,H
+>HcT$,H
+l$,A
+( Ic
+L$8dH3
+H[]A\A]A^A_
+AUATI
+[]A\A]
+AWAVI
+AUAT
+D$81
+T$,H
+t$0H
+HcD$,H
+<$ H
+( HcT$,Ic
+l$,A
+<$ D
+( Hc
+L$8dH3
+H[]A\A]A^A_
+AUATI
+[]A\A]
+AWAVI
+AUATUSH
+D$H1
+T$<H
+t$@H
+|$< ~
+D$< 
+D$$H
+D$(HcD$<H
+?HcT$<H
+l$<A
+( Ic
+T$(L
+D$$I
+L$HdH3
+X[]A\A]A^A_
+AUATI
+[]A\A]
+AWAVI
+AUATUSH
+D$H1
+T$<H
+t$@H
+|$< ~
+D$< 
+D$$H
+D$(HcD$<H
+<$ H
+?HcT$<H
+l$<A
+<$ A
+( Ic
+T$(L
+D$$I
+L$HdH3
+X[]A\A]A^A_
+AUATI
+[]A\A]
+ATUI
+AWAVAUATUSH
+|$PH
+H;\$
+D$8H
+t;I9
+L;|$
+[]A\A]A^A_
+|$0H
+T$8L
+L$4E
+\$4H
+D$(H
+l$HD
+\$@H
+D$0H
+L$(L
+T$ E1
+T$ L
+L$(L
+T$ H
+T$ L
+L$(D
+L$(H
+L$(H
+L$(H
+L$(H
+L$(H
+L$(H
+L$(A
+L$(A
+L$(A
+L$(H
+L$(H
+L$(H
+L$(A
+L$(H
+L$(H
+L$(H
+L$(A
+L$(H
+L$(H
+L$(H
+L$(H
+L$(H
+L$(H
+L$(H
+L$(H
+L$(H
+L$(H
+L$(H
+L$(H
+L$(A
+L$(H
+L$(H
+L$8H
+L$(H
+H;8t
+AUATUSH
+[]A\A]
+ATUI
+t6Hc
+[]A\
+ATUH
+[]A\
+ATUL
+[]A\
+ATUH
+[]A\
+H;8t.
+AUAT
+*buffer*
+[]A\A]A^
+]A\A]A^
+AUATUSH
+[]A\A]
+%As#
+AWAVAUATUSH
+B,Hc
+H[]A\A]A^A_
+H[]A\A]A^A_
+Z8I)
+D$ L
+D$ t]Hc
+U$H)
+Lcd$
+HcD$
+H;T$
+T$ B
+T$8L
+D$0L
+L$(L
+D$0H
+T$8u
+D$ L
+HcT$
+D$ L
+D$ Hc
+D$8L
+L$0H
+HcD$
+T$(L
+L$0L
+D$8H
+D$0L
+L$(L
+D$0L
+D$0L
+L$(H
+|$ H
+D$0L
+L$(L
+ATU1
+[]A\H
+<Jt(H
+<St	
+AUATI
+T$@H
+[]A\A]
+AUATI
+T$0H
+[]A\A]
+<NtX<Jt
+<StB<Jt
+AWAV
+AUATD
+[]A\A]A^A_
+AWAVAUATE1
+D$ H
+x-Ic
+[]A\A]A^A_
+[]A\
+[]A\
+tNUSH
+u6H9
+AVAUA
+]A\A]A^
+MATUSt'
+[]A\
+AWAVI
+AUATUSH
+D$h1
+l$PH
+t$<L
+At1H
+D$@L
+t$8H
+t$<E
+l$PH
+t$<L
+l$@H
+l$PL
+t$@L
+|$HS
+D$@H9D$P
+l$PL
+t$@L
+|$HS
+D$@H9D$P
+l$PH
+t$@L
+t$4L
+t$0I
+D$hdH3
+x[]A\A]A^A_
+D$<H
+L$PH
+t$PH
+l$PL
+t$@L
+t$4L
+l$PH
+t$<L
+At1H
+D$@L
+t$8H
+l$PH
+l$PL
+t$@L
+|$HSH
+H9D$P
+l$PH
+t$@L
+t$4L
+t$0I
+l$PL
+t$@L
+|$HS
+D$@H9D$P
+l$PH
+t$@H
+|$HSH
+H9D$P
+l$PH
+t$@L
+t$4L
+t$0I
+l$PH
+t$<L
+At1H
+D$@L
+t$8H
+l$@H
+l$PL
+t$@L
+|$HS
+D$@H9D$P
+l$PL
+t$@L
+t$4L
+l$PH
+l$PH
+t$<L
+At1H
+D$@L
+t$8H
+L$PH
+T$@H
+|$@H
+t$@H
+t$0L
+D$@L
+t$8H
+|$HS
+t$4L
+D$4E
+H;D$@
+|$HS
+t$4L
+H;D$@
+|$HS
+t$4L
+\$4E
+H;D$@
+|$HS
+t$4L
+\$4E
+H9D$@
+|$HS
+t$4L
+H;D$@
+t$@L
+|$HS
+t$4L
+D$4E
+H9D$@
+t$8L
+t$@L
+|$HS
+t$4L
+H9D$@
+t$8L
+|$HSI
+t$4L
+T$4E
+H;D$@
+t$8L
+|$HSI
+t$4L
+T$4E
+H9D$@
+t$8L
+|$HSI
+t$4L
+H;D$@
+t$8L
+|$HSI
+t$4L
+H;D$@
+t$8L
+|$HSI
+t$4L
+H;D$@
+l$PL
+T$PH
+t$0L
+H;D$P
+t$0L
+|$0E
+H;D$P
+t$0L
+D$0E
+H;D$P
+t$0L
+L$0E
+t$8L
+t$0L
+H;D$P
+D$@H
+D$@H
+D$@H
+D$@H
+t$0L
+t$8L
+D$P1
+t$8L
+t$8L
+t$8L
+t$8L
+|$PH
+D$@H
+t$8L
+|$PI
+t$8L
+|$PI
+D$PLcJ
+D$ H
+D$(u"
+D$(H
+|$ L
+D$@H
+D$@L
+D$@L
+D$@L
+D$@L
+D$@L
+t$8L
+|$@I
+t$8L
+|$@I
+t$8L
+|$@I
+t$8L
+|$@I
+t$<L
+t$<L
+L$<H
+t$<L
+t$<L
+t$<L
+t$<L
+AWAVI
+AUATUSH
+t$`L
+t$`H
+t$`H
+t$`H
+[]A\A]A^A_
+t$`H
+l$`H
+t$`H
+d$`E
+t$`L
+\$`H
+D$`L
+l$HE1
+D$pH
+fD;l$
+d$tA
+t$`L
+t$`H
+t$XL
+t$\L
+t$`H
+D$ 1
+<>A8<
+T$`1
+t$XH
+t$\I
+D$8H
+D$`H
+D$XE
+L$,D
+D$ L
+L$,D
+A:T5
+wVE9
+t$0L
+\$ D
+t$0H
+D$ L
+D$`H
+t$lH
+|$ L
+D9|$
+t$`H
+T$tH
+ttHc
+|$8)
+L$`H
+t$@H
+D$(1
+L$(dH3
+Ju!H
+t)HcK
+AUATI
+A9\$
+[]A\A]
+ATUI
+X([]A\
+ATUH
+[]A\
+AUATI
+([]A\A]
+AVAUATUH
+]A\A]A^
+uHfA
+u5fA
+u5fA
+u5fA
+u5fA
+u5fA
+u5fA
+u5fA
+AUATUSH
+dH34%(
+([]A\A]
+H+D$
+Ict$
+5z&#
+AUATI
+Nto1
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+([]A\A]A^A_
+tME1
+tNE1
+C0fA
+[Optimiz
+er Resulf
+{PE1
+tNE1
+AUATI
+l$8H
+[]A\A]
+|$8I
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+D$XH
+[]A\A]
+AVAUH
+ATUSH
+l$PdH
+D$h%
+D$h%
+[]A\A]A^
+??getcwd
+() faileH
+??getcwd
+() faileH
+<Jt(<St$<At
+t6USH
+t#SH
+t-USH
+ATUH
+[]A\
+tcAUATI
+[]A\A]
+AWAVAUATUSH
+D$H1
+L$HdH3
+X[]A\A]A^A_
+D$DL
+D$ L
+T$<M
+\$(I
+D$DH
+T$DH
+\$DH
+L$DA
+|$DA
+AUATUS
+[]A\A]
+[]A\A]
+AVAUI
+[]A\A]A^
+At6@
+[]A\
+AVAUI
+ATE1
+St|@
+AtfH
+[]A\A]A^
+AUATUSH
+[]A\A]1
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+AVAUATA
+]A\A]A^
+[]A\A]A^
+~&E1
+[]A\A]A^
+[]A\A]A^1
+]A\A]A^
+t:E1
+t)US
+AWAVAUATUSH
+([]A\A]A^A_
+~jLc
+~>Lc
+tFIc
+([]A\A]A^A_
+AWAVA
+AUATL
+[]A\A]A^A_
+rsyslog runtime error(%d,%d): %s
+rsyslog runtime initialized, version %s, current users %d
+rsyslog runtime de-initialized, current users %d
+statsobj
+prop
+glbl
+strgen
+rsconf
+lookup
+8.16.0
+Malformed from address %s
+dnscache.c
+errmsg
+dnscache: entry %p found
+Malicious PTR record, message dropped IP = "%s" HOST = "%s"
+Malicious PTR record (message accepted, but used IP instead of PTR name: IP = "%s" HOST = "%s"
+Host name for your address (%s) unknown
+dnscache: error creating hash table!
+dnscache: inserting element failed
+dnscacheLookup failed with iRet %d
+[localhost]
+ptcp
+127.0.0.1
+glbl.c
+offset
+processinternalmessages
+stdlog.channelspec
+tzinfo: '%s':%c%2.2d:%2.2d
+workdirectory
+localhostname
+defaultnetstreamdriverkeyfile
+defaultnetstreamdrivercafile
+defaultnetstreamdriver
+preservefqdn
+action.reportsuspension
+maxmessagesize
+debug.onshutdown
+debug: onShutdown set to %d
+debug.gnutls
+parser.spacelfonreceive
+parser.parsehostnameandtag
+debug.logfile
+debug log file is '%s', fd %d
+janitor.interval
+net.ipprotocol
+unspecified
+ipv4-only
+ipv6-only
+net.acladdhostnameonfail
+net.aclresolvehostname
+net.enabledns
+net.permitwarning
+debugfile
+debuglevel
+localhostipif
+optimizeforuniprocessor
+controlcharacterescapeprefix
+droptrailinglfonreception
+escape8bitcharactersonreceive
+escapecontrolcharactertab
+resetconfigvariables
+net.permitACLwarning
+GenerateLocalHostName uses '%s'
+$WorkDirectory: empty value - directive ignored
+$WorkDirectory: trailing slashes removed, new value is '%s'
+$WorkDirectory: %s can not be accessed, probably does not exist - directive ignored
+$WorkDirectory: %s not a directory - directive ignored
+debug level %d set via config file
+This is rsyslog version 8.16.0
+Eleele
+maxMessageSize tried to set to %lld, but cannot be less than 128 - set to 128 instead
+maxMessageSize larger than INT_MAX (%d) - reduced to INT_MAX
+rsyslog/glbl: using '%s' as localhost IP
+$LocalHostIPIF is already set and cannot be reset; place it at TOP OF rsyslog.conf!
+$LocalHostIPIF: IP address for interface '%s' cannnot be obtained - ignoring directive
+timezone param blk after glblProcessTimezone:
+glblProcessTimezone: program error, non-handled param '%s'
+offset parameter missing (logic error?), timezone config ignored
+id parameter missing (logic error?), timezone config ignored
+timezone offset has invalid format. Must be +/-hh:mm, e.g. "-07:00".
+timezone offset outside of supported range (hours 0..12, minutes 0..59)
+addTimezoneInfo: strdup failed with OOM
+glbl param blk after glblProcessCnf:
+rsyslog wasn't compiled with liblogging-stdlog support. The 'ProcessInternalMessages' parameter is ignored.
+rsyslog wasn't compiled with liblogging-stdlog support. The 'stdlog.channelspec' parameter is ignored.
+main_queue() object can only be specified once - all but first ignored
+Timezone information table (%d entries):
+defaultnetstreamdrivercertfile
+dropmsgswithmaliciousdnsptrrecords
+action.reportsuspensioncontinuation
+parser.controlcharacterescapeprefix
+parser.droptrailinglfonreception
+parser.escapecontrolcharactersonreceive
+parser.escape8bitcharactersonreceive
+parser.escapecontrolcharactertab
+parser.escapecontrolcharacterscstyle
+debug log file '%s' could not be opened
+invalid net.ipprotocol parameter '%s' -- ignored
+glblDoneLoadCnf: program error, non-handled param '%s'
+escapecontrolcharactersonreceive
+Invalid config line: could not extract name - line ignored
+INTERNAL ERROR: doNameLine() called with invalid eDir %d.
+Invalid $-configline - could not extract command - line ignored
+error: extra characters in config line ignored: '%s'
+invalid character in selector line - ';template' expected
+Decoding traditional PRI filter '%s'
+tried selector action for %s: %d
+ommysql.so
+could not extract module name
+MySQL
+	 ,;
+unknown priority name "%s"
+	 ,;.
+unknown facility name "%s"
+	 .;
+error %d parsing config line
+module
+lmnet
+janitor: entry %p, id '%s' added
+janitor: to be deleted entry '%s' not found
+janitor: processing entry %p, id '%s'
+janitor: deleted entry '%s'
+janitorRun() called
+fixedarray
+linkedlist
+disk
+direct
+configuration object %p
+Global Settings:
+Main queue size %d messages.
+Work Directory: '%s'.
+    %s
+setgroups(0, NULL): %d
+setgid(%d): %d
+initgroups(%s, %d): %d
+setuid(%d): %d
+cancel
+cooperative/SIGTTIN
+umask set to 0%3.3o.
+main Q
+configuration %p activated
+NOT 
+builtin:omfile
+builtin:ompipe
+builtin-shell
+builtin:omdiscard
+builtin:omfwd
+builtin:omusrmsg
+builtin:pmrfc5424
+builtin:pmrfc3164
+rsyslog.rfc5424
+rsyslog.rfc3164
+builtin:smfile
+builtin:smtradfile
+builtin:smfwd
+builtin:smtradfwd
+RSYSLOG_DefaultRuleset
+sleep
+logrsyslogstatusmessages
+errormessagestostderr
+abortonuncleanconfig
+repeatedmsgreduction
+debugprinttemplatelist
+debugprintmodulelist
+privdroptouser
+privdroptouserid
+privdroptogroup
+privdroptogroupid
+generateconfiggraph
+umask
+maxopenfiles
+actionresumeinterval
+modload
+defaultruleset
+outchannel
+allowedsender
+mainmsgqueuefilename
+mainmsgqueuesize
+mainmsgqueuehighwatermark
+mainmsgqueuelowwatermark
+mainmsgqueuediscardmark
+mainmsgqueuediscardseverity
+mainmsgqueuesyncqueuefiles
+mainmsgqueuetype
+mainmsgqueueworkerthreads
+mainmsgqueuetimeoutshutdown
+mainmsgqueuetimeoutenqueue
+mainmsgqueuedequeueslowdown
+mainmsgqueuemaxfilesize
+mainmsgqueuedequeuebatchsize
+mainmsgqueuemaxdiskspace
+mainmsgqueuesaveonshutdown
+mainmsgqueuedequeuetimebegin
+mainmsgqueuedequeuetimeend
+moddir
+RSYSLOG_DebugFormat
+RSYSLOG_FileFormat
+RSYSLOG_TraditionalFileFormat
+ WallFmt
+RSYSLOG_ForwardFormat
+ StdUsrMsgFmt
+ StdDBFmt
+RSYSLOG_SysklogdFileFormat
+ StdPgSQLFmt
+ StdJSONFmt
+%s on token '%s'
+cnf:global:obj: 
+A Santa lives evil at NASA
+cnf:global:script
+cnf:global:cfsysline: %s
+cnf:global:BSD tag: %s
+cnf:global:BSD host: %s
+rsconf.c
+datetime
+main message queue type set to FIXED_ARRAY
+main message queue type set to LINKEDLIST
+main message queue type set to DISK
+main message queue type set to DIRECT (no queueing at all)
+unknown mainmessagequeuetype parameter: %s
+begin new current rule set '%s'
+  bDebugPrintTemplateList.............: %d
+  bDebugPrintModuleList               : %d
+  bDebugPrintCfSysLineHandlerList.....: %d
+  bLogStatusMsgs                      : %d
+  bErrMsgToStderr.....................: %d
+  drop Msgs with malicious PTR Record : %d
+Main queue worker threads: %d, wThread shutdown: %d, Perists every %d updates.
+Main queue timeouts: shutdown: %d, action completion shutdown: %d, enq: %d
+Main queue watermarks: high: %d, low: %d, discard: %d, discard-severity: %d
+Main queue save on shutdown %d, max disk space allowed %lld
+Modules used in this configuration:
+could not remove supplemental group IDs
+could not set requested group id
+rsyslogd's groupid changed to %d
+could not get username for userid %d: %s
+could not set requested userid
+rsyslogd's userid changed to %d
+could not set process file limit to %d: %s [kernel max %ld]
+Max number of files set to %d [kernel max %ld].
+calling freeCnf(%p) for module '%s'
+telling modules to activate config (before dropping privs) %p
+pre priv drop activating config %p for module %s
+activation of module %s failed
+group privileges have been dropped to gid %u
+user privileges have been dropped to uid %u
+telling modules to activate config %p
+activating config %p for module %s
+module %s will not run, iRet %d
+activateMainQueue: mainq cnf obj ptr is %p
+fatal error %d: could not create message queue - rsyslogd can not run!
+Main processing queue is initialized and running
+running module %s with config %p, term mode: %s
+fatal error: could not activate built-in modules. Error code %d.
+doing legacy config system init
+debugprintcfsyslinehandlerlist
+mainmsgqueuecheckpointinterval
+mainmsgqueuetimeoutactioncompletion
+mainmsgqueueworkertimeoutthreadshutdown
+mainmsgqueueworkerthreadminimummessages
+RSYSLOG_SyslogProtocol23Format
+RSYSLOG_TraditionalForwardFormat
+RSYSLOG_omudpspoofDfltSourceTpl
+CONFIG ERROR: could not interpret master config file '%s'.
+could not open config file '%s': %s
+CONFIG ERROR: there are no active actions configured. Inputs will run, but no output whatsoever is created.
+Number of actions in this configuration: %d
+telling rsyslog core that config load for %p is done
+telling modules that config load for %p is done
+beginCnfLoad(%p) for module '%s'
+calling endCnfLoad() for module '%s'
+telling modules to check config %p
+module %s tells us config can %sbe activated
+$MainMsgQueueNumWorkers must be at least 1! Set to 1.
+No $WorkDirectory specified - can not run main message queue in 'disk' mode. Using 'FixedArray' instead.
+No $MainMsgQueueFileName specified - can not run main message queue in 'disk' mode. Using 'FixedArray' instead.
+rsyslog finished loading master config %p
+input param blk after parserProcessCnf:
+parser module name '%s' already exists
+parser module name '%s' is unknown
+parser module '%s' does not support parser() statement
+input param blk after inputProcessCnf:
+input module name '%s' is unknown
+input module '%s' does not support input() statement
+warning during parsing file %s, on or before line %d: %s
+error during config processing: %s
+error during parsing file %s, on or before line %d: %s
+error processing template object
+cnfDoObj program error: unexpected object type %u
+BSD-style blocks are no longer supported in rsyslog, see http://www.rsyslog.com/g/BSD for details and a solution (Block '%s')
+destructing parser '%s'
+~NOTRESOLVED~
+ (the default list)
+Parser '%s' returned %d
+parser: %s
+parser.c
+dropped NUL at very end of message
+dropped LF at very end of message (DropTrailingLF is set)
+Compressed message uncompressed with status %d, length: new %ld, old %d.
+Uncompression of a message failed with return code %d - enable debug logging if you need further information. Message ignored.
+msg parser: flags %x, from '%s', msg '%.60s'
+parse using parser list %p%s.
+Error: one message could not be processed by any parser, message is being discarded (start of raw msg: '%.50s')
+No parser could process the message (state %d), we need to discard it.
+DDDDD: added parser '%s' to list %p
+Parser '%s' added to default parser set.
+Parser '%s' added to list of available parsers.
+0123456789ABCDEFdestructing strgen '%s'
+strgen.c
+Strgen '%s' added to list of available strgens.
+0123456789ABCDEFjsonDeepCopy(): error unknown type %d
+Tried to set unsupported protocol version %d - changed to 0.
+[getUUID] pM->pszUUID is NULL
+[MsgSetUUID] START, lenRes %llu
+[MsgSetUUID] UUID : %s LEN: %d 
+[getUUID] pM->pszUUID already exists
+msgGetJSONPropVal; invalid property id %d
+msgGetJSONPropJSON; invalid property id %d
+**NO MATCH** **BAD REGULAR EXPRESSION**
+string to match for regex is: %s
+oops ... start offset of successful regexec is -1
+regex found at offset %d, new offset %d, tries %d
+could not get regexp object pointer, so regexp can not be evaluated
+Passed name %s is unknown kind of variable (It is not CEE, Local or Global variable).
+msgAddJSON: not a container in json path,name is '%s'
+msgAddJSON: trying to update a container node with a leaf, name is %s - forbidden
+DDDDDD: JSON string for message mod: '%s'
+MsgSetPropsViaJSON: Error parsing JSON '%s': %s
+mmexternal: invalid fac %d requested -- ignored
+msgSetPropViaJSON: unkonwn property ignored: %s
+DDDD: msgSetPropViaJSON key: '%s'
+msgDelJSONVar; jroot empty in unset for property %s
+unset JSON: could not find '%s'
+deleting JSON value path '%s', leaf '%s', type %d
+msgSetJSONFromVar: unsupported datatype %c
+\u0000
+timereported
+source
+syslogtag
+rawmsg
+rawmsg-after-pri
+inputname
+fromhost
+fromhost-ip
+pri-text
+syslogfacility
+syslogfacility-text
+syslogseverity
+syslogpriority
+syslogseverity-text
+syslogpriority-text
+timegenerated
+programname
+protocol-version
+structured-data
+app-name
+procid
+msgid
+jsonmesg
+parsesuccess
+uuid
+$now
+$year
+$month
+$day
+$hour
+$hhour
+$qhour
+$minute
+$now-utc
+$year-utc
+$month-utc
+$day-utc
+$hour-utc
+$hhour-utc
+$qhour-utc
+$minute-utc
+$myhostname
+$!all-json
+$!all-json-plain
+$bom
+$uptime
+PROP_INVALID for name '%s'
+$NOW
+$YEAR
+$MONTH
+$DAY
+$HOUR
+$HHOUR
+$QHOUR
+$MINUTE
+$NOW_UTC
+$YEAR_UTC
+$MONTH_UTC
+$DAY_UTC
+$HOUR_UTC
+$HHOUR_UTC
+$QHOUR_UTC
+$MINUTE_UTC
+$MYHOSTNAME
+*CEE-based property*
+*LOCAL_VARIABLE*
+$BOM
+*invalid property id*
+[getUUID] START
+[getUUID] pM is NULL
+[MsgSetUUID] END
+[getUUID] END
+invld
+YEAR OUT OF RANGE(1967-2099)
+INVALID eFmt OPTION!
+%s[%s]
+iProtocolVersion
+iSeverity
+iFacility
+msgFlags
+ttGenTime
+tRcvdAt
+tTIMESTAMP
+pszTAG
+pszRawMsg
+pszHOSTNAME
+pszInputName
+pszRcvFrom
+pszRcvFromIP
+pszStrucData
+pCSAPPNAME
+localvars
+pCSPROCID
+pCSMSGID
+pszUUID
+offMSG
+pszRuleset
+FAIL
+**OUT OF MEMORY**
+**SYSCALL FAILED**
+***REGEXP NOT AVAILABLE***
+**INVALID PROPERTY NAME**
+**FIELD NOT FOUND**
+invalid property id: '%d'
+lmregexp
+regexec return is %d
+**NO MATCH**
+#%3.3d
+regex: end search, found %d
+JSON value is not an object
+Unterminated input
+unsetting JSON root object
+!metadata
+invalid property '%s'
+emerg
+alert
+crit
+notice
+info
+debug
+kern
+mail
+daemon
+auth
+syslog
+news
+uucp
+cron
+authpriv
+audit
+clock
+local0
+local1
+local2
+local3
+local4
+local5
+local6
+local7
+1967
+1968
+1969
+1970
+1971
+1972
+1973
+1974
+1975
+1976
+1977
+1978
+1979
+1980
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+2035
+2036
+2037
+2038
+2039
+2040
+2041
+2042
+2043
+2044
+2045
+2046
+2047
+2048
+2049
+2050
+2051
+2052
+2053
+2054
+2055
+2056
+2057
+2058
+2059
+2060
+2061
+2062
+2063
+2064
+2065
+2066
+2067
+2068
+2069
+2070
+2071
+2072
+2073
+2074
+2075
+2076
+2077
+2078
+2079
+2080
+2081
+2082
+2083
+2084
+2085
+2086
+2087
+2088
+2089
+2090
+2091
+2092
+2093
+2094
+2095
+2096
+2097
+2098
+2099
+stringbuf.c
+true
+datetime.c
+ParseTIMESTAMP3164: invalid TZ string '%s' -- ignored
+exec program '%s' with param '%s'
+could not wait on child after executing '%s'
+in getSubString, error Src buffer > Dst buffer
+exec
+.%%0%dld
+.%ld
+symbolic name: %s
+ ==> %d
+bsd_security
+none
+panic
+warn
+Called LogMsg, msg: %s
+%s: %s [v%s]
+%s: %s [v%s try http://www.rsyslog.com/e/%d ]
+%s [v%s try http://www.rsyslog.com/e/%d ]
+%-15s (%lx)
+%-15s
+%4.4ld.%9.9ld:
+%s: 
+thread tid %u, name '%s'
+%s:%d:%s: free %p
+%d: %s:%d:%s:
+[NONE]
+%s:%d:%s: mutex %p UNlocked
+%s:%d [%s]
+%s:%d:%s: mutex %p aquired
+%s:%d: %s: enter
+%s:%d: %s: exit: (no iRet)
+%s:%d: %s: exit: %d
+waited on
+owned
+%d unique functions called
+ (SIGSEGV)
+ (SIGABRT)
+switching to debug file %s
+RSYSLOG_DEBUG
+debugondemand
+logfuncflow
+logallocfree
+printfuncdb
+printmutexaction
+printalldebuginfoonexit
+nologtimestamp
+nostdout
+noaborttrace
+outputtidtostderr
+filetrace
+RSYSLOG_DEBUGLOG
+main thread
+help
+thread created, tid %u, name '%s'
+Recorded Call Order for Thread '%s':
+maximum number of nested calls for this thread: %d.
+NOTE: not all calls may have been recorded, code does not currently guarantee that!
+destructor for debug call stack %p called
+%s:%d:%s: mutex %p UNlocked [but we did not yet know this mutex!]
+%s:%d:%s: mutex %p waiting on lock, held by %s
+%s:%d:%s: mutex %p waiting on condition %p (with timeout)
+%s:%d:%s: INFO: out of space in FuncDB for mutex info (max %d entries) - ignoring
+%s:%d:%s: ERROR: pthread_mutex_lock() for mutex %p failed with error %d
+%s:%d:%s: ERROR: pthread_mutex_trylock() for mutex %p failed with error %d
+%s:%d:%s: mutex %p waiting on condition %p
+Error %d allocating memory for FuncDB List entry, not adding
+Error %d allocating memory for FuncDB, not adding
+%s:%d: %s: debug module: call stack for this thread full, suspending call tracking
+WARNING: mutex still owned by us as we exit function, mutex: 
+%s:%d:%s:invocation %ld: %s %p[%d/%s]
+Stack pointer for thread %lx below 0 - resetting (some RETiRet still wrong!)
+Mutex log for all known mutex operations:
+unknown state %d - should not happen!
+mutex 0x%lx is being %s by code at %s:%d, thread %s
+%10.10ld times called: %s:%d:%s
+Signal %d%s occured, execution must be terminated.
+If the call trace is empty, you may want to ./configure --enable-rtinst
+To submit bug reports, visit http://www.rsyslog.com/bugs
+SIGUSR2 received, dumping debug information
+alternate debug file could not be opened, ignoring. Error: %s
+rsyslogd 8.16.0 runtime debug support - help requested, rsyslog terminates
+environment variables:
+addional logfile: export RSYSLOG_DEBUGFILE="/path/to/file"
+to set: export RSYSLOG_DEBUG="cmd cmd cmd"
+Commands are (all case-insensitive):
+help (this list, terminates rsyslogd
+LogFuncFlow
+LogAllocFree (very partly implemented)
+PrintFuncDB
+PrintMutexAction
+PrintAllDebugInfoOnExit (not yet implemented)
+NoLogTimestamp
+Nostdoout
+OutputTidToStderr
+filetrace=file (may be provided multiple times)
+DebugOnDemand - enables debugging on USR1, but does not turn on output
+See debug.html in your doc set or http://www.rsyslog.com for details
+Note: debug on demand turned on via configuraton file, use USR1 signal to activate.
+rsyslogd 8.16.0 error: logfile debug option requires filename, e.g. "logfile=debug.c"
+ERROR: out of memory during debug setup
+rsyslogd 8.16.0 error: invalid debug option '%s', value '%s' - ignored
+deserializer has possibly been able to re-sync and recover, state %d
+caller requested object '%s', not found (iRet %d)
+unregistering object '%s' failed with error code %d
+registering object '%s' failed with error code %d
+%d:%d:%d:%d:%d:%d:%d:%d:%d:%c:%d:%d
+error %d deserializing property name, offset %lld, step %d
+syslog time was successfully parsed (but is not displayed
+objDeserializePropBag error %d during header - trying to recover
+objDeserialize error %d during header processing - trying to recover
+objDeserializeObjAsPropBag error %d during header - trying to recover
+invalid PROPTYPE %d
+%s %p
+invalid VARTYPE %d
+error property name: '%s'
+error var type: '%d'
+error len: '%d'
+error data string: '%s'
+error number: %d
+obj.c
+config objects are not supported by module '%s' -- legacy config options MUST be used instead
+source file %s requested reference for module '%s', reference count now %u
+Loaded Module: Name='%s', IFVersion=%d, 
+PROGRAM ERROR: eMOD_ANY set as module type
+	activateCnfPrePrivDrop: 0x%lx
+setting default module load directory '%s'
+module %s of type %d being loaded (keepType=%d).
+module %s supports rsyslog v6 config interface
+module %s does neither provide doAction() nor commitTransaction() interface - cannot load
+module %s provides both doAction() and commitTransaction() interface, using commitTransaction()
+module %s provides both commitTransaction() but does not provide beginTransaction() - cannot load
+module %s NOT unloaded because it still has a refcount of %u
+rejecting unload of module '%s' because it has a refcount of %d
+internal error: module '%s' already has a refcount of 0 (released by %s)!
+file %s released module '%s', reference count now %u
+module '%s' has zero reference count, unloading...
+module '%s' already in this config
+module '%s' already in this config, cannot be added
+Requested to load module '%s'
+parameters for built-in module %s already set - ignored
+could not load module '%s', dlopen: %s
+could not load module '%s', ModDir was '%s'
+could not load module '%s', dlsym: %s
+could not load module '%s', rsyslog error %d
+module '%s', failed processing config parameters
+type=
+output
+library
+ module.
+Entry points:
+	queryEtryPt:        0x%lx
+	dbgPrintInstInfo:   0x%lx
+	freeInstance:       0x%lx
+	beginCnfLoad:       0x%lx
+	SetModCnf:          0x%lx
+	checkCnf:           0x%lx
+	activateCnf:        0x%lx
+	freeCnf:            0x%lx
+Output Module Entry Points:
+	doAction:           %p
+	parseSelectorAct:   %p
+	newActInst:         %p
+	tryResume:          %p
+	doHUP:              %p
+	BeginTransaction:   %p
+	EndTransaction:     %p
+Input Module Entry Points
+	runInput:           0x%lx
+	willRun:            0x%lx
+	afterRun:           0x%lx
+Parser Module Entry Points
+	parse:              0x%lx
+Strgen Module Entry Points
+	strgen:            0x%lx
+getType
+getKeepType
+modGetID
+modExit
+isCompatibleWithFeature
+setModCnf
+getModCnfName
+module config name is '%s'
+beginCnfLoad
+endCnfLoad
+freeCnf
+checkCnf
+activateCnf
+activateCnfPrePrivDrop
+runInput
+willRun
+afterRun
+newInpInst
+freeInstance
+dbgPrintInstInfo
+parseSelectorAct
+tryResume
+createWrkrInstance
+freeWrkrInstance
+doHUP
+doHUPWrkr
+SetShutdownImmdtPtr
+beginTransaction
+doAction
+commitTransaction
+endTransaction
+newActInst
+parse2
+newParserInst
+freeParserInst
+GetParserName
+parse
+modules.c
+GetName
+Unloading module %s
+regCfSysLineHdlr
+objGetObjInterface
+OMSRgetSupportedTplOpts
+queryCoreFeatureSupport
+builtin:
+/usr/lib/rsyslog/
+Module '%s' found
+Module '%s' already loaded
+loading module '%s'
+modInit
+modulesProcessCnf params:
+module type missing
+RSYSLOG_MODDIR
+statsobj object, currently no state info available
+addCounter: OOM in strdup()
+@cee: 
+origin
+origin=
+Note: stream '%s' is a named pipe, open with O_NONBLOCK
+file '%s' opened as #%d with mode %d
+Error: cannot obtain inode# for file %s
+log file (%d) write error %d: %s
+sync failed for file %d with error (%d): %s - ignoring
+stream/syncFile: fsync returned error, ignoring
+stream was requested with zip mode, but zlibw module unavailable (%d) - using without zip
+error %d opening directory file for fsync() use - fsync for directory disabled: %s
+file stream %s params: flush interval %d, async write %d
+ERROR: stream %p cold not create writer thread
+stream/after deserialize checking for file change on '%s', inode %u/%u, size/currOffs %llu/%llu
+opened file '%s' for %s as %d
+max file size %ld reached for %d, now %ld - starting new file
+strmPhysWrite, stream %p, len %u
+file size limit cmd for file '%s' did no resolve situation
+file size limit cmd for file '%s' failed with code %d.
+in deflate() loop, avail_in %d, total_in %ld
+after deflate, ret %d, avail_out %d
+error %d returned from zlib/deflateEnd()
+error %d returned from zlib/deflateInit2()
+file %d(%s) flush, buflen %ld%s
+error %d unlinking '%s' - ignored: %s
+stream checking for file change on '%s', inode %u/%u
+encrypted file %d pad bytes %d, actual data %ld
+strmSeek: error %lld seeking to offset %lld
+encrypted, doing skip read of %lld bytes
+prctl failed, not setting thread name for '%s'
+stream async writer timeout with error (%d): %s - ignoring
+readLine: have previous line segment: '%s'
+strmMultiFileSeek: detected new filenum, was %d, new %d, deleting '%s' (%lld bytes)
+open error %d, file '%s': %s
+/dev/console
+file %d is a tty-type file
+file %d write wrote %d bytes
+syncing file %d
+lmzlibw
+stream.c
+stream: file %s has changed
+READ
+WRITE
+sType
+iCurrFNum
+pszFName
+tOperationsMode
+tOpenMode
+iCurrOffs
+inode
+iMaxFileSize
+iMaxFiles
+iFileNumDigits
+bDeleteOnClose
+prevLineSegment
+prevMsgSegment
+bPrevWasNL
+ (no need to flush)
+file %d(%s) closing
+strmCloseFile: deleting '%s'
+file %d read %ld bytes
+file %d EOF
+we had a file change on '%s'
+file %d seek, pos %llu
+stream writer
+#012
+type: cstr, val '%s'
+type: number, val %lld
+type %d currently not suppored in debug output
+%s/w%d
+wtp.c
+%s: Worker thread %lx, terminated, num workers now %d
+%s: Worker thread %lx requested to be cancelled.
+%s: finalizing construction of worker thread pool (numworkerThreads %d)
+%s: waiting %ldms on worker thread termination, %d still running
+%s: timeout waiting on worker thread termination
+%s: high activity - starting %d additional worker thread(s).
+%s: started with state %d, num workers now %d
+canceling worker thread
+wti %p: worker starting
+wti %p, action %d, ptr %p
+wti %p: worker exiting
+wti.c
+%s: cancelation cleanup handler called.
+%s: done cancelation cleanup handler.
+sent SIGTTIN to worker thread 0x%x
+sent SIGTTIN to worker thread 0x%x, giving it a chance to terminate
+cooperative worker termination failed, using cancellation...
+%s: finalizing construction of worker instance data (for %d actions)
+wtiConstructFinalize: pWtp not set, this may be intentional
+terminating worker because of TERMINATE_NOW mode, del iRet %d
+terminating worker terminateRet=%d, bInactivityTOOccured=%d
+%s: worker IDLE, waiting for work.
+%s: inactivity timeout, worker terminating...
+worker awoke from idle processing
+DDDD: wti %p: worker cleanup action instances
+wtiGetDummy: error setspecific thrd_wti_key
+wti.c: pthread_key_create failed
+write wrote %lld octets to disk, queue disk size now %lld octets, EnqOnly:%d
+queue nearly full (%d entries), discarded severity %d message
+queue nearly full (%d entries), but could not drop msg (iRet: %d, severity %d)
+qqueueAdd: entry added, size now log %d, phys %d entries
+persisting queue to disk, %d entries...
+outside dequeue time window, delaying %d seconds
+clean startup, no .qi file found
+error %d trying to access .qi file
+state %d reading .qi file - can not read persisted info (if any)
+queue (type %d) will lose %d messages, destroying...
+queue: crypto provider name is too long: '%s' - encryption disabled
+queue: could not load crypto provider '%s' - encryption disabled
+queue: error constructing crypto provider %s dataset - encryption disabled
+loaded crypto provider %s, data instance at %p
+initiating worker thread shutdown sequence
+setting EnqOnly mode for DA worker
+awoke DA worker, told it to shut down.
+awoke DA queue regular worker, told it to shut down when done.
+trying shutdown of regular workers
+regular shutdown timed out on primary queue (this is OK)
+regular queue workers shut down.
+we have a DA queue (0x%lx), requesting its shutdown.
+trying shutdown of regular worker of DA queue
+shutdown timed out on DA queue worker (this is OK)
+trying to shutdown workers within Action Timeout
+trying immediate shutdown of regular workers (if any)
+immediate shutdown timed out on primary queue (this is acceptable and triggers cancellation)
+unexpected iRet state %d after trying immediate shutdown of the primary queue in disk save mode. Continuing, but results are unpredictable
+trying immediate shutdown of DA queue workers
+immediate shutdown timed out on DA queue (this is acceptable and triggers cancellation)
+unexpected iRet state %d after trying immediate shutdown of the DA queue in disk save mode. Continuing, but results are unpredictable
+trying regular shutdown of main queue DA worker pool
+shutdown timed out on main queue DA worker pool (this is not good, but probably OK)
+main queue DA worker pool shut down.
+checking to see if we need to cancel any worker threads of the primary queue
+unexpected iRet state %d trying to cancel primary queue worker threads, continuing, but results are unpredictable
+checking to see if we need to cancel any worker threads of the DA queue
+unexpected iRet state %d trying to cancel DA queue worker threads, continuing, but results are unpredictable
+checking to see if main queue DA worker pool needs to be cancelled
+worker threads terminated, remaining queue size log %d, phys %d.
+bSaveOnShutdown set, restarting DA worker...
+waiting for DA worker to terminate...
+end queue persistence run, iRet %d, queue size log %d, phys %d
+unexpected iRet state %d after trying to shut down primary queue in disk save mode, continuing, but results are unpredictable
+error %d persisting queue - data lost!
+is disk-assisted, disk will be used on demand
+doEnqSingleObject: queue FULL - configured for immediate discarding QueueSize=%d MaxQueueSize=%d sizeOnDisk=%lld sizeOnDiskMax=%lld
+doEnqSingleObject: queue FULL - waiting %dms to drain.
+doEnqSingleObject: queue FULL, discard due to FORCE_TERM.
+doEnqSingleObject: cond timeout, dropping message!
+doEnqSingleObject: wait solved queue full condition, enqueing
+DeleteProcessedBatch: error %d re-enqueuing unprocessed data element - discarded
+DeleteProcessedBatch: we deleted %d objects and enqueued %d objects
+doDeleteBatch: a %lld octet file has been deleted, now %lld octets disk space used
+doDeleteBatch: delete batch from store, new sizes: log %d, phys %d
+not at head of to-delete list, enqueue %d
+error %d dequeueing element - ignoring, but strange things may happen
+got 'file not found' error %d, queue defunct
+DA queue is in emergency mode, disabling DA in parent
+fatal error on disk queue '%s', emergency switch to direct mode
+sleeping %d microseconds as requested by config params
+regular consumer finished, iret=%d, szlog %d sz phys %d
+doEnqSingleObject: FullDelay mark reached for full delayable message - blocking, queue size is %d.
+potential program bug: pthread_cond_timedwait()/fulldelay returned %d
+wti worker in full delay timed out, checking termination...
+doEnqSingleObject: LightDelay mark reached for light delayable message - blocking a bit.
+potential program bug: pthread_cond_timedwait()/lightdelay returned %d
+MultiEnqObj advised worker start
+queue.timeoutactioncompletion: %d
+queue.timeoutworkerthreadshutdown: %d
+queue.workerthreadminimummessages: %d
+EnqueueMsg advised worker start
+ConsumerDA:qqueueEnqMsg caught RS_RET_ERR_QUEUE_EMERGENCY, aborting loop.
+ConsumerDA:qqueueEnqMsg item (%d) returned with error state: '%d'
+ConsumerDA:qqueueEnqMsg Resetting iRet from %d back to RS_RET_OK
+ConsumerDA:qqueueEnqMsg returns with iRet %d
+queue.spooldirectory must not end with '/', corrected to '%s'
+queue.timeoutworkerthreadshutdown
+queue.workerthreadminimummessages
+queue: program error, non-handled param '%s'
+error on queue '%s', disk mode selected, but no queue file name given; queue type changed to 'linkedList'
+error on queue '%s', crypto provider can only be set for disk or disk assisted queue - ignored
+.qi file name is '%s', len %d
+Note: queue.size="%d" is very low and can lead to unpredictable results. See also http://www.rsyslog.com/lower-bound-for-queue-sizes/
+queue "%s": high water mark is set quite low at %d. You should only set it below 60%% (%d) if you have a good reason for this.
+queue "%s": queue.workerThreadMinimumMessage is set quite low at %d. You should only set it below 10%% (%d) if you have a good reason for this.
+error: queue "%s": queue.discardMark %d is set larger than queue.size
+queue "%s": queue.discardMark is set quite low at %d. You should only set it below 80%% (%d) if you have a good reason for this.
+queue "%s": queue.fullDelayMark is set below high water mark. This will result in DA mode  NOT being activated for full delayable messages
+params: type %d, enq-only %d, disk assisted %d, spoolDir '%s', maxFileSz %lld, maxQSize %d, lqsize %d, pqsize %d, child %d, full delay %d, light delay %d, deq batch size %d, high wtrmrk %d, low wtrmrk %d, discardmrk %d, max wrkr %d, min msgs f. wrkr %d
+error starting up disk queue, using pure in-memory mode
+DA queue initialized, disk queue 0x%lx
+error %d creating disk queue - giving up.
+queue finished initialization
+iQueueSize
+tVars.disk.sizeOnDisk
+lmcry_%s
+queue.c
+DA queue worker shut down.
+setting EnqOnly mode
+is NOT disk-assisted
+qType
+(re)activating DA worker
+FixedArray
+LinkedList
+Direct
+invalid/unknown queue mode
+parameter dump:
+queue.filename '%s'
+queue.size: %d
+queue.dequeuebatchsize: %d
+queue.maxdiskspace: %lld
+queue.highwatermark: %d
+queue.lowwatermark: %d
+queue.fulldelaymark: %d
+queue.lightdelaymark: %d
+queue.discardmark: %d
+queue.discardseverity: %d
+queue.checkpointinterval: %d
+queue.syncqueuefiles: %d
+queue.type: %d [%s]
+queue.workerthreads: %d
+queue.timeoutshutdown: %d
+queue.timeoutenqueue: %d
+queue.maxfilesize: %lld
+queue.saveonshutdown: %d
+queue.dequeueslowdown: %d
+queue.dequeuetimebegin: %d
+queue.dequeuetimeend: %d
+queue param blk:
+queue.filename
+queue.cry.provider
+queue.spooldirectory
+queue.size
+queue.dequeuebatchsize
+queue.maxdiskspace
+queue.highwatermark
+queue.lowwatermark
+queue.fulldelaymark
+queue.lightdelaymark
+queue.discardmark
+queue.discardseverity
+queue.checkpointinterval
+queue.syncqueuefiles
+queue.type
+queue.workerthreads
+queue.timeoutshutdown
+queue.timeoutactioncompletion
+queue.timeoutenqueue
+queue.maxfilesize
+queue.saveonshutdown
+queue.dequeueslowdown
+queue.dequeuetimebegin
+queue.dequeuetimeend
+starting queue
+%s/%s.qi
+I am a child
+%s:Reg
+%s:DAwpool
+%s[DA]
+core.queue
+enqueued
+discarded.full
+discarded.nf
+maxqsize
+qqueue
+ruleset.c
+All Rulesets:
+End of Rulesets.
+rsyslog ruleset %s:
+[ruleset]
+TRUE
+FALSE
+executing action %d
+if condition result is %d
+%s : %s
+%s '%s': %s
+rulesetparser
+rulesetcreatemainqueue
+error: parser '%s' unknown at this time (maybe defined too late in rsyslog.conf?)
+error trying to find parser '%s'
+added parser '%s' to ruleset '%s'
+iterateAllActions calling into action %p
+error: unknown stmt type %u during iterateAll
+Activating Ruleset Queue[%p] for Ruleset %s
+current rule set changed to %p: '%s'
+default rule set changed to %p: '%s'
+destructing ruleset %p, name %p
+ruleset %s assigned parser list:
+ruleset '%s' before optimization:
+ruleset '%s' after optimization:
+error: currently no specific ruleset specified, thus a queue can not be added to it
+error: ruleset already has a main queue, can not add another one
+adding a ruleset-specific "main" queue for ruleset '%s'
+scriptExec: ShutdownImmediate set, force terminating
+action %d died, do NOT execute
+CALL: forwarding message to async ruleset %p
+foreach loop skipped, as object to iterate upon is either empty or not an array
+Filter: check for CEE property '%s' (value '%s') 
+Filter: check for local var '%s' (value '%s') 
+Filter: check for global var '%s' (value '%s') 
+Filter: check for property '%s' (value '%s') 
+PROPFILT condition result is %d
+error: unknown stmt type %u during exec
+PRIFILT condition result is %d
+processBATCH: batch of %d elements must be processed
+END batch execution phase, entering to commit phase
+processBATCH: next msg %d: %.128s
+processBATCH: batch of %d elements has been processed
+begin ruleset optimization phase
+ruleset optimization phase finished.
+ruleset param blk after rulesetProcessCnf:
+error: ruleset '%s' specified more than once
+prop object %p - no further debug info implemented
+%s: %u messages lost due to rate-limiting
+Message duplication failed, dropping repeat message.
+ message repeated %d times: [%.800s]
+%s: begin to drop messages due to rate-limiting
+Message discarded, parsing error %d
+message discarded by ratelimiting
+ratelimit:%s:new ratelimiter:bReduceRepeatMsgs %d
+msg repeated %d times
+*ERROR:MODULE NAME MISSING*
+ratelimit.c
+index
+value
+key: '%s', val: '%s'
+lookupProcessCnf params:
+lookup.c
+DDDD: table loaded (max size %u):
+lookup table file '%s' stat failed: %s
+lookup table file '%s' could not be opened: %s
+lookup table file '%s' read error: %s
+lookup table file '%s' json parsing error
+reload requested for lookup table '%s'
+lookup table '%s' reloaded from file '%s'
+lookup_table: program error, non-handled param '%s'
+lookup table '%s' loaded from file '%s'
+config directive is no longer supported -- ignored
+value must be octal (e.g 0644).
+value %lld too large for integer argument.
+Invalid $-configline - could not extract on/off option
+Option value must be on or off, but is '%s'
+Query for group '%s' resulted in an error
+ID for group '%s' could not be found
+gid %d obtained for group '%s'
+ID for user '%s' could not be found or error
+uid %d obtained for user '%s'
+doGetWord: get newval '%s' (len %d), hdlr %p
+invalid or yet-unknown config file command '%s' - have you forgotten to load a module?
+command '%s' is currently not permitted - did you already set it via a RainerScript command (v6+ config)?
+Sytem Line Configuration Commands:
+invalid number
+could not extract group name
+could not extract user name
+No character available
+	Command '%s':
+		type : %d
+		pData: 0x%lx
+		Hdlr : 0x%lx
+		Owner: 0x%lx
+cfsysline.c
+LISTEN_PID
+LISTEN_FDS
+NOTIFY_SOCKET
+/run/systemd/system/
+rtry
+susp
+comm
+ERROR/UNKNWON
+action %d
+core.action
+processed
+suspended
+suspended.duration
+resumed
+%s queue
+Action %p: queue %p created
+[unused]
+HUP: table entry %d: %p %s
+action.writeallmarkmessages
+action.execonlyeverynthtime
+action.resumeretrycount
+action.copymsg
+action.resumeinterval
+template: '%s' assigned
+module name '%s' is unknown
+../action.c
+actionname
+actionqueuefilename
+actionqueuesize
+actionwriteallmarkmessages
+actionqueuedequeuebatchsize
+actionqueuemaxdiskspace
+actionqueuehighwatermark
+actionqueuelowwatermark
+actionqueuediscardmark
+actionqueuediscardseverity
+actionqueuecheckpointinterval
+actionqueuesyncqueuefiles
+actionqueuetype
+actionqueueworkerthreads
+actionqueuetimeoutshutdown
+actionqueuetimeoutenqueue
+actionqueuemaxfilesize
+actionqueuesaveonshutdown
+actionqueuedequeueslowdown
+actionqueuedequeuetimebegin
+actionqueuedequeuetimeend
+actionexeconlyeverynthtime
+actionresumeretrycount
+Action %d transitioned to state: %s
+wti %p: we need to create a new action worker instance for action %d
+wti %p: created action worker instance %d for action %d
+actionDoRetry: %s enter loop, iRetries=%d
+actionDoRetry: %s action->tryResume returned %d
+actionDoRetry: %s had success RDY again (iRet=%d)
+action '%s' resumed (module '%s')
+actionDoRetry: %s check for max retries, iResumeRetryCount %d, iRetries %d
+action '%s' suspended, next retry is %s
+action '%s' suspended, earliest retry=%lld (now %lld), iNbrResRtry %d, duration %d
+actionTryResume: action %p state: %s, next retry (if applicable): %u [now %u]
+action queue type set to FIXED_ARRAY
+action queue type set to LINKEDLIST
+action queue type set to DISK
+action queue type set to DIRECT (no queueing at all)
+unknown actionqueue parameter: %s
+Invalid action engine state %u, program error
+error starting up action queue
+file prefix (work directory?) is missing
+Action %s[%p]: queue %p started
+action '%s'(%d) is transactional but parameter %d uses invalid parameter passing mode -- disabling action. This is probably caused by a pre-v7 output module that needs upgrade.
+info: firehose mode disabled for action because iExecEveryNthOccur=%d, iSecsExecOnceInterval=%d
+Invalid "$ActionQueueMaxDiskSpace", 				error %d. Ignored, running with default setting
+Invalid "$ActionQueueDequeueBatchSize", 				error %d. Ignored, running with default setting
+Invalid "$ActionQueueFileSize", 				error %d. Ignored, running with default setting
+Invalid "$ActionQueueFileName", 				error %d. Ignored, running with default setting
+Invalid "$ActionQueueCheckpointInterval", 				error %d. Ignored, running with default setting
+Invalid "$ActionQueueSyncQueueFiles", 				error %d. Ignored, running with default setting
+Invalid "$ActionQueueTimeoutShutdown", 				error %d. Ignored, running with default setting
+Invalid "$ActionQueueTimeoutActionCompletion", 				error %d. Ignored, running with default setting
+Invalid "$ActionQueueWorkerTimeoutThreadShutdown", 				error %d. Ignored, running with default setting
+Invalid "$ActionQueueTimeoutEnqueue", 				error %d. Ignored, running with default setting
+Invalid "$ActionQueueHighWaterMark", 				error %d. Ignored, running with default setting
+Invalid "$ActionQueueLowWaterMark", 				error %d. Ignored, running with default setting
+Invalid "$ActionQueueDiscardMark", 				error %d. Ignored, running with default setting
+Invalid "$ActionQueueDiscardSeverity", 				error %d. Ignored, running with default setting
+Invalid "$ActionQueueWorkerThreadMinimumMessages", 				error %d. Ignored, running with default setting
+Invalid "$ActionQueueWorkerThreads", 				error %d. Ignored, running with default setting
+Invalid "$ActionQueueSaveOnShutdown", 				error %d. Ignored, running with default setting
+Invalid "$ActionQueueDequeueSlowdown", 				error %d. Ignored, running with default setting
+Invalid "$ActionQueueDequeueTimeBegin", 				error %d. Ignored, running with default setting
+Invalid "$ActionQueueDequeueTimeEnd", 				error %d. Ignored, running with default setting
+module %s with message passing mode uses non-direct queue. This most probably leads to undesired results
+entering actionCalldoAction(), state: %s, actionNbr %d
+doTransaction: have commitTransaction IF, using that, pWrkrInfo %p
+entering actionCallCommitTransaction(), state: %s, actionNbr %d, nMsgs %u
+doTransaction: action %d, currIParam %d
+output plugin error: endTransaction() returns RS_RET_DEFER_COMMIT - ignored
+output plugin error: endTransaction() returns RS_RET_PREVIOUS_COMMITTED - ignored
+actionCommit, in retry loop, iRet %d
+software bug/error: unknown pAction->peParamPassing[%d] %d in prepareDoActionParams
+action '%s': is transactional - executing in commit phase
+action '%s': called, logging to %s (susp %d/%d, direct q %d)
+action '%s': NOT executing, as previous action was not suspended
+action '%s': set suspended state to %d
+action was recently called, ignoring mark message
+Called action(NotAllMark), processing via '%s'
+actionCommitAll: action %d, state %u, nbr to commit %d isTransactional %d
+Action %p checks HUP hdlr, act level: %p, wrkr level %p
+HUP handler returned error state %d - ignored
+n-th occurence handling timed out (%d sec), restarting from 0
+action %p passed %d times to execution - less than neded - discarding
+Called action(complex case), logging to %s
+action not yet ready again to be executed, onceInterval %d, tCurr %d, tNext %d
+Called action %p (complex case), logging to %s
+Module %s processes this action.
+action.execonlyeverynthtimetimeout
+action.execonlyonceeveryinterval
+action.execonlywhenpreviousissuspended
+action.repeatedmsgcontainsoriginalmsg
+action: program error, non-handled param '%s'
+ Could not find template %d '%s' - action disabled
+Action disabled. To use this action, you have to specify the SQL or stdSQL option in your template!
+action param blk after actionNewInst:
+actionqueuetimeoutactioncompletion
+actionqueueworkertimeoutthreadshutdown
+actionqueueworkerthreadminimummessages
+actionexeconlyeverynthtimetimeout
+actionexeconlyonceeveryinterval
+repeatedmsgcontainsoriginalmsg
+actionexeconlywhenpreviousissuspended
+request term via SIGTTIN for input thread '%s' 0x%x
+input thread term: timeout expired waiting on thread %s termination - canceling
+input thread term: thread %s returned normally and is terminated
+input thread term: cond_wait returned with error %d: %s
+non-cancel input thread termination succeeded for thread %s 0x%x
+thrdStarter: usrThrdMain %s - 0x%lx returned with iRet %d, exiting now.
+request term via canceling for input thread 0x%x
+set thread name to '%s'
+`ochAddLine could not alloc memory for outchannel name!
+Delete Outchannel: Name='%s'
+NULL
+Outchannel: Name='%s'
+	File Template: '%s'
+	Max Size.....: %lu
+	OnSizeLimtCmd: '%s'
+template bound to strgen '%s'
+strgen supports the stdsql option
+strgen supports the sql option
+strgen supports the json option
+tplToJSON: error %d looking up property %s
+TplToString: invalid entry type %d
+error: invalid regular expression type, rest of line %s
+template %s error: invalid regular expression type, rest of line %s
+error: invalid character in frompos after "R", property: '%%%s'
+we have a regexp and use match #%d, submatch #%d
+error: invalid character in frompos after "F,", property: '%%%s' - using 9 (HT) as field delimiter
+error: non-USASCII delimiter character value %d in template - using 9 (HT) as substitute
+error: invalid character '%c' in frompos after "F,", property: '%s' be sure to use DECIMAL character codes!
+error: invalid character in frompos after "F", property: '%%%s'
+error: extra character in frompos: '%s'
+error: can not find regex end in: '%s'
+Could not allocate memory for template parameter!
+error: can not compile regex: '%s'
+error %d trying to load regexp library - this may be desired and thus OK
+regexp library could not be loaded (error %d), regexp ignored
+error: can only specify one option out of (json, jsonf, jsonr, jsonfr, csv) - csv ignored
+error: can only specify one option out of (json, jsonf, jsonr, jsonfr, csv) - json ignored
+error: can only specify one option out of (json, jsonf, jsonr, jsonfr, csv) - jsonf ignored
+error: can only specify one option out of (json, jsonf, jsonr, jsonfr, csv) - jsonr ignored
+error: can only specify one option out of (json, jsonf, jsonr, jsonfr, csv) - jsonfr ignored
+template error: invalid field option '%s' specified - ignored
+template/do_Parameter: fieldName is NULL!
+tplAddLine processing template '%s'
+tplAddLine could not alloc memory for template name!
+Template '%s': error %d defining template via strgen module
+Template '%s' invalid, does not start with '"'!
+tplAddLine error: parameter invalid
+invalid subtree parameter, variable must start with '$!' but var name is '%s'
+template: program error, non-handled param '%s'
+template/tplProcessConf: logic error name == NULL - pblk wrong?
+template '%s' of type string needs string parameter
+template '%s' is not a string template but has a string specified - ignored
+template '%s' of type plugin needs plugin parameter
+template '%s' is not a plugin template but has a plugin specified - ignored
+template '%s' of type subtree needs subtree parameter
+template '%s' is not a subtree template but has a subtree specified - ignored
+template '%s' of type list has has no parameters specified
+template '%s' is not a list template but has parameters specified - ignored
+template '%s' has multiple incompatible options of sql, stdsql or json specified
+template.c: tplConstruct failed!
+template '%s': error %d defining template via plugin (strgen) module
+invalid regex.type '%s' for property
+invalid format type '%s' for property
+invalid controlcharacter mode '%s' for property
+invalid securepath mode '%s' for property
+invalid caseconversion type '%s' for property
+invalid date format '%s' for property
+template:propertyTpe: program error, non-handled param '%s'
+position.to=%d is higher than postion.from=%d in 'relativeToEnd' mode
+position.to=%d is lower than postion.from=%d
+both field extraction and regex extraction specified - this is not possible, remove one
+template:constantTpe: program error, non-handled param '%s'
+program error: invalid object type %d in createLstTpl
+[Format as buggy RFC3164-Date] 
+[replace control-characters with space] 
+[slashes are replaced by '_'] 
+[format as JSON without re-escaping] 
+[format as JSON field without re-escaping] 
+[substring, field #%d only (delemiter %d)] 
+[substring, from character %d to %d] 
+,stdsql
+,sql
+,json
+*LOGIC ERROR*
+debug: has regex 
+--end
+debug: regex detected: '%s'
+../template.c
+date-mysql
+date-pgsql
+date-rfc3164
+date-rfc3164-buggyday
+date-rfc3339
+date-unixtimestamp
+date-subseconds
+date-wdayname
+date-wday
+date-year
+date-month
+date-day
+date-hour
+date-minute
+date-second
+date-tzoffshour
+date-tzoffsmin
+date-tzoffsdirection
+date-ordinal
+date-week
+lowercase
+uppercase
+sp-if-no-1st-sp
+escape-cc
+drop-cc
+space-cc
+drop-last-lf
+secpath-drop
+secpath-replace
+pos-end-relative
+fixed-width
+jsonf
+jsonr
+jsonfr
+mandatory-field
+nosql
+Invalid option '%s' ignored.
+string
+plugin
+subtree
+invalid template type '%s'
+option.stdsql
+option.sql
+option.json
+create template from subobjs
+droplastlf
+fixedwidth
+mandatory
+spifno1stsp
+outname
+position.from
+position.to
+position.relativetoend
+field.number
+field.delimiter
+regex.expression
+regex.type
+regex.nomatchmode
+DFLT
+BLANK
+FIELD
+ZERO
+regex.match
+regex.submatch
+controlcharacters
+escape
+securepath
+caseconversion
+upper
+dateformat
+error compiling regex '%s'
+Template: Name='%s' 
+[SQL-Format (MySQL)] 
+[JSON-Escaped Format] 
+[SQL-Format (standard SQL)] 
+	Entry(%lx): type %d, 
+(UNDEFINED)
+(CONSTANT), value: '%s'
+(FIELD), value: '%d' 
+[EE-Property: '%s'] 
+[Local Var: '%s'] 
+[Format as MySQL-Date] 
+[Format as PgSQL-Date] 
+[Format as RFC3164-Date] 
+[Format as RFC3339-Date] 
+[Format as Unix timestamp] 
+[fractional seconds, only] 
+[UNKNOWN eDateFormat %d] 
+[Converted to Lower Case] 
+[Converted to Upper Case] 
+[escape control-characters] 
+[drop control-characters] 
+[slashes are dropped] 
+[SP iff no first SP] 
+[format as CSV (RFC4180)]
+[format as JSON] 
+[format as JSON field] 
+[mandatory field] 
+[drop last LF in msg] 
+[COMPLEX]
+Sorry, can't get enough memory, exiting.
+msgConsumer: UDP ACL must be checked for message (hostname-based)
+Message from '%s' discarded, not a permitted sender host
+********************************************************************************
+Switching debugging_on to true at %2.2d:%2.2d:%2.2d
+Switching debugging_on to false at %2.2d:%2.2d:%2.2d
+DoDie called 5 times - unconditional exit
+usage: rsyslogd [options]
+use "man rsyslogd" for details. To run rsyslog interactively, use "rsyslogd -n"to run it in debug mode use "rsyslogd -dn"
+For further information see http://www.rsyslog.com/doc
+rsyslogd: writing pidfile '%s'.
+rsyslogd: error writing pid file
+rsyslog: error writing pid file
+rsyslogd: checking if startup is ok, pidfile '%s'.
+rsyslogd: error reading pid file, cannot start up
+rsyslogd: pidfile '%s' and pid %d already exist.
+If you want to run multiple instances of rsyslog, you need to specify
+different pid files for them (-i option).
+rsyslogd: parent ready for forking
+error creating rsyslog "fork pipe" - terminating
+error forking rsyslogd process - terminating
+rsyslogd: in child, finalizing initialization
+rsyslog: error auto-backgrounding: %s
+rsyslogd: parent waiting up to 60 seconds to read startup message
+rsyslogd: select() returns %d: %s
+rsyslog startup failure, select() failed: %s
+rsyslog startup failure, child did not respond within startup timeout (60 seconds)
+rsyslog parent startup failure: %s
+rsyslogd: parent terminates after successful child startup
+Error during class init for object '%s' - failing...
+rsyslogd initializiation failed - global classes could not be initialized.
+Did you do a "make install"?
+Suggested action: run rsyslogd with -d -n options to see what exactly fails.
+could not create (ruleset) main message queue
+check queue file name '%s' vs '%s'
+Error: queue file name '%s' already in use  - using '%s' instead
+Invalid "$MainMsgQueueFileSize", error %d. Ignored, running with default setting
+Invalid "$MainMsgQueueMaxDiskSpace", error %d. Ignored, running with default setting
+Invalid "$MainMsgQueueDequeueBatchSize", error %d. Ignored, running with default setting
+Invalid "$MainMsgQueueFileName", error %d. Ignored, running with default setting
+Invalid "$MainMsgQueueCheckpointInterval", error %d. Ignored, running with default setting
+Invalid "$MainMsgQueueSyncQueueFiles", error %d. Ignored, running with default setting
+Invalid "$MainMsgQueueTimeoutShutdown", error %d. Ignored, running with default setting
+Invalid "$MainMsgQueueTimeoutActionCompletion", error %d. Ignored, running with default setting
+Invalid "$MainMsgQueueWorkerTimeoutThreadShutdown", error %d. Ignored, running with default setting
+Invalid "$MainMsgQueueTimeoutEnqueue", error %d. Ignored, running with default setting
+Invalid "$MainMsgQueueHighWaterMark", error %d. Ignored, running with default setting
+Invalid "$MainMsgQueueLowWaterMark", error %d. Ignored, running with default setting
+Invalid "$MainMsgQueueDiscardMark", error %d. Ignored, running with default setting
+Invalid "$MainMsgQueueDiscardSeverity", error %d. Ignored, running with default setting
+Invalid "$MainMsgQueueWorkerThreadMinimumMessages", error %d. Ignored, running with default setting
+Invalid "$MainMsgQueueSaveOnShutdown", error %d. Ignored, running with default setting
+Invalid "$MainMsgQueueDequeueSlowdown", error %d. Ignored, running with default setting
+Invalid "$MainMsgQueueDequeueTimeBegin", error %d. Ignored, running with default setting
+Invalid "$MainMsgQueueDequeueTimeEnd", error %d. Ignored, running with default setting
+could not start (ruleset) main message queue
+ [origin software="rsyslogd" swVersion="8.16.0" x-pid="%d" x-info="http://www.rsyslog.com"] rsyslogd was HUPed
+submitMsg2() could not submit message - queue does (no longer?) exist - ignored
+multiSubmitMsg() could not submit message - queue does (no longer?) exist - ignored
+	PLATFORM (lsb_release -d):		%s
+	GSSAPI Kerberos 5 support:		Yes
+	FEATURE_DEBUG (debug build, slow code):	No
+	32bit Atomic operations supported:	Yes
+	64bit Atomic operations supported:	Yes
+	memory allocator:			system default
+	Runtime Instrumentation (slow code):	No
+	Number of Bits in RainerScript integers: 64
+See http://www.rsyslog.com for more information.
+46a:Ac:dDef:g:hi:l:m:M:nN:op:qQr::s:S:t:T:u:Cvwx
+rsyslogd %s startup, module path '%s', cwd:%s
+fatal error: could not initialize errbuf object (error code %d).
+rsyslogd: the -4 command line option will go away soon.
+Please use the global(net.ipprotocol="ipv4-only") configuration parameter instead.
+rsyslogd: the -6 command line option will go away soon.
+Please use the global(net.ipprotocol="ipv6-only") configuration parameter instead.
+rsyslogd: the -A command line option will go away soon.
+Please use the omfwd parameter "upd.sendToAll" instead.
+rsyslogd: the -S command line option will go away soon.
+Please use the omrelp parameter "localClientIP" instead.
+rsyslogd: Only one -S argument allowed, the first one is taken.
+rsyslogd: the -l command line option will go away soon.
+ Make yourself heard on the rsyslog mailing list if you need it any longer.
+rsyslogd: Only one -l argument allowed, the first one is taken.
+rsyslogd: the -q command line option will go away soon.
+Please use the global(net.aclAddHostnameOnFail="on") configuration parameter instead.
+rsyslogd: the -Q command line option will go away soon.
+Please use the global(net.aclResolveHostname="off") configuration parameter instead.
+rsyslogd: the -s command line option will go away soon.
+ Make yourself heard on the rsyslog mailing list if you need it any longer.
+rsyslogd: Only one -s argument allowed, the first one is taken.
+rsyslogd: the -u command line option will go away soon.
+For the 0x01 bit, please use the global(parser.parseHostnameAndTag="off") configuration parameter instead.
+rsyslogd: the -u command line option will go away soon.
+For the 0x02 bit, please use the -C option instead.
+rsyslogd: the -w command line option will go away soon.
+Please use the global(net.permitWarning="off") configuration parameter instead.
+rsyslogd: the -x command line option will go away soon.
+Please use the global(net.enableDNS="off") configuration parameter instead.
+rsyslogd: version %s, config validation run (level %d), master config %s
+rsyslogd: $AbortOnUncleanConfig is set, and config is not clean.
+Check error log for details, fix errors and restart. As a last
+resort, you may want to remove $AbortOnUncleanConfig to permit a
+startup with a dirty config.
+Can not do 'cd /' - still trying to run
+ [origin software="rsyslogd" swVersion="8.16.0" x-pid="%d" x-info="http://www.rsyslog.com"] start
+rsyslogd: initialization completed, transitioning to regular run mode
+rsyslogd: child signalled OK, nWritten %d
+rsyslogd: End of config validation run. Bye.
+rsyslogd: run failed with error %d (see rsyslog.h or try http://www.rsyslog.com/e/%d to learn what that number means)
+rsyslogd: child %d has terminated
+ [origin software="rsyslogd" swVersion="8.16.0" x-pid="%d" x-info="http://www.rsyslog.com"] exiting on signal %d.
+all primary multi-thread sources have been terminated - now doing aux cleanup...
+destructing current config...
+Clean shutdown completed, bye
+DoDie called.
+error reading "fork pipe": %s
+rsyslog startup failure: %s
+dflt
+rsyslogd
+internal_messages
+rsyslog runtime
+rsyslogd.c
+NONAME
+%d-%s-%s
+rsyslogd:
+rsyslogd%d:
+rsyslogd: %s
+rsyslogd %s, 
+compiled with:
+x86_64-pc-linux-gnu
+	PLATFORM:				%s
+	FEATURE_REGEXP:				Yes
+	uuid support:				Yes
+deque option %c, optarg '%s'
+-T options needs a parameter
+chroot
+rsyslogd: child signaling OK
+READY=1
+exiting on signal %d
+Terminating input threads...
+Terminating main queue...
+Terminating outputs...
+/etc/rsyslog.conf
+/var/run/rsyslogd.pid
+exec
+Executing program '%s' failed
+omshell.c
+entry point '%s' not present in module
+users
+omusrmsg: send to user '%s'
+no user name given - ignored
+LOGIN
+:omusrmsg:
+write-all
+omusrmsg.c
+user name '%s...' too long - ignored
+omusrmsg supports only up to %d user names in a single action - all others have been ignored
+omusrmsg: program error, non-handled param '%s'
+write to terminal '%s' failed with [%d]:%s
+action '%s' treated as ':omusrmsg:%s' - please use ':omusrmsg:%s' syntax instead, '%s' will not be supported in the future
+omfwd.c
+lmnetstrms
+netstrm
+lmtcpclt
+1.2.8
+newActInst (omfwd)
+action param blk in omfwd:
+target
+omfwd: invalid protocol "%s"
+tcp_framing
+traditional
+octet-counted
+omfwd: invalid framing "%s"
+keepaliveprobes
+keepaliveintvl
+keepalivetime
+streamdriverauthmode
+streamdriverpermittedpeers
+maxerrormessages
+resendlastmsgonreconnect
+udp.sendtoall
+udp.senddelay
+compression.mode
+stream:always
+single
+TCPSendInit CREATE
+TCPSendInit FAILED with %d.
+%s found, resuming.
+omfwd: beginTransaction
+sendto() error: %d = %s.
+ %s:%s/%s
+actionforwarddefaulttemplate
+actionsendtcprebindinterval
+actionsendudprebindinterval
+actionsendtcpkeepalive
+actionsendtcpkeepalive_probes
+actionsendtcpkeepalive_intvl
+actionsendtcpkeepalive_time
+actionsendstreamdriver
+actionsendstreamdrivermode
+keepalive.probes
+keepalive.time
+keepalive.interval
+module (global) param blk for omfwd:
+omfwd: warning: default template was already set via legacy directive - may lead to inconsistent results.
+omfwd: program error, non-handled param '%s' in beginCnfLoad
+omfwd: TCP sent %ld bytes, requested %u
+TCPSendBuf error %d, destruct TCP Connection!
+error %d returned from zlib/deflateInit()
+omfwd: in deflate() loop, avail_in %d, total_in %ld, isFlush %d
+omfwd: add %u bytes to send buffer (curr offs %u)
+omfwd: we need to do a tcp send due to buffer out of space. If the transaction fails, this will lead to duplication of messages
+omfwd: either the "file" or "dynfile" parameter must be given
+could not activate network stream modules for TCP (internal error %d) - are modules missing?
+omfwd: ignoring empty permitted peer
+omfwd: adding permitted peer: '%s'
+Invalid ziplevel %d specified in forwardig action - NOT turning on compression.
+compression.stream.flushontxend
+omfwd: invalid value for 'compression.mode' parameter (given is '%s')
+omfwd: program error, non-handled param '%s'
+omfwd: parameter udp.sendToAll cannot be used with tcp transport -- ignored
+omfwd default template already set via module global parameter - can no longer be changed
+DDDD: createWrkrInstance: pWrkrData %p
+Invalid compression level '%c' specified in forwardig action - NOT turning on compression.
+Invalid option %c in forwarding action - ignoring.
+Option block not terminated in forwarding action.
+Could not get memory to store syslog forwarding port, using default port, results may not be what you intend
+could not get addrinfo for hostname '%s':'%s': %d%s
+omfwd: tryResume: pWrkrData %p
+omfwd dropping UDP 'connection' (as configured)
+error forwarding via udp, suspending
+omfwd: error %d sending via udp
+omfwd: max number of error message emitted - further messages will be suppressed
+Compressing message, length was %d now %d, return state  %d.
+Compression failed, sending uncompressed message
+there is gain in compression, so we do it
+error forwarding via tcp, suspending
+actionsendstreamdriverauthmode
+actionsendstreamdriverpermittedpeer
+actionsendresendlastmsgonreconnect
+omfile.c
+[OPEN FAILED]
+ (closed)
+[dynamic]
+%s%s
+	template='%s'
+	use async writer=%d
+	flush on TX end=%d
+	flush interval=%d
+	file cache size=%d
+	create directories: %s
+	very robust zip: %s
+	file owner %d, group %d
+dircreatemode
+filecreatemode
+dirowner
+dirownernum
+dirgroup
+dirgroupnum
+fileowner
+fileownernum
+filegroup
+filegroupnum
+lmsig_%s
+dynafile cache %s
+requests
+level0
+missed
+evicted
+maxused
+closetimeouts
+dyna
+newActInst (omfile)
+action param blk in omfile:
+dynafilecachesize
+veryrobustzip
+failonchownfailure
+createdirs
+dynafile
+sig.provider
+closetimeout
+omfile:%sfile:%s:%p
+omfile: file to log to: %s
+:omfile:
+not 
+omfileziplevel
+omfileflushinterval
+omfileasyncwriting
+omfileflushontxend
+omfileiobuffersize
+omfileforcechown
+actionfileenablesync
+actionfiledefaulttemplate
+DynaFileCacheSize must be greater 0 (%d given), changed to 1.
+DynaFileCacheSize maximum is 1,000 (%d given), changed to 1,000.
+DynaFileCacheSize changed to %d.
+Removing entry %d for file '%s' from dynaCache.
+	directory owner %d, group %d
+	dir create mode 0%3.3o, file create mode 0%3.3o
+	fail if owner/group can not be set: %s
+omfile janitor: checking dynafile %d:%s, inactive since %d
+omfile janitor: checking file %s, inactive since %d
+error processing module config parameters [module(...)]
+module (global) param blk for omfile:
+omfile: warning: default template was already set via legacy directive - may lead to inconsistent results.
+omfile: program error, non-handled param '%s' in beginCnfLoad
+omfile: signature provider name is too long: '%s' - signatures disabled
+omfile: could not load signature provider '%s' - signatures disabled
+omfile: error constructing signature provider %s dataset - signatures disabled
+loaded signature provider %s, data instance at %p
+omfile: crypto provider name is too long: '%s' - encryption disabled
+omfile: could not load crypto provider '%s' - encryption disabled
+omfile: error constructing crypto provider %s dataset - encryption disabled
+omfile: either the "file" or "dynafile" parameter must be given
+omfile: program error, non-handled param '%s'
+omfile: either the "file" or "dynfile" parameter must be given
+omfile: default template already set via module global parameter - can no longer be changed
+Could not open dynamic file '%s' [state %d] - discarding message
+Added new entry %d for file cache, file '%s'.
+Could not open output file '%s'
+omfile: write to stream, pData->pStrm %p, lenBuf %d, strt data %.128s
+outchannel '%s' not found - ignoring action line
+outchannel '%s' has no file name template - ignoring action line
+omfile: %susing transactional output interface.
+ (unused)
+Error opening log pipe: %s
+ompipe: writing to %s
+write error on pipe %s
+ompipe.c
+module (global) param blk for ompipe:
+ompipe: warning: default template was already set via legacy directive - may lead to inconsistent results.
+ompipe: program error, non-handled param '%s' in beginCnfLoad
+ompipe: program error, non-handled param '%s'
+Could not open output pipe '%s':
+ompipe: tryResume: ready to write fd %d: %d
+omdiscard.c
+discard
+warning: ~ action is deprecated, consider using the 'stop' statement instead
+pmrfc5424.c
+no TIMESTAMP detected!
+rfc5424 parser init called
+GetParserName addr %p
+Message has RFC5424/syslog-protocol format.
+pmrfc3164.c
+newParserInst (pmrfc3164)
+detect.yearaftertimestamp
+rfc3164 parser init called
+pmrfc3164: free parser instance %p
+parser param blk in pmrfc3164:
+permit.squarebracketsinhostname
+pmrfc3164: program error, non-handled param '%s'
+Message will now be parsed by the legacy syslog parser (one size fits all... ;)).
+HOSTNAME and TAG not parsed by user configuraton.
+traditional file format strgen init called, compiled with version %s
+rsyslog standard file format strgen init called, compiled with version %s
+rsyslog standard (network) forward format strgen init called, compiled with version %s
+rsyslog traditional (network) forward format strgen init called, compiled with version %s
+iminternalAddMsg() error %d - can not otherwise report this error, message lost
+Root element of iminternal linked list could not be destroyed - there is nothing we can do against it, we ignore it for now. Things may go wild from here on. This is most probably a program logic error.
+Stack now
+token
+nterm
+%s %s (
+Deleting
+Starting parse
+Stack size increased to %lu
+Entering state %d
+Reading a token: 
+Now at end of input.
+Next token is
+Shifting
+   $%d = 
+-> $$ =
+syntax error
+Error: discarding
+Error: popping
+memory exhausted
+Cleanup: discarding lookahead
+Cleanup: popping
+$end
+$undefined
+FUNC
+BEGINOBJ
+ENDOBJ
+BEGIN_ACTION
+BEGIN_PROPERTY
+BEGIN_CONSTANT
+BEGIN_TPL
+BEGIN_RULESET
+STOP
+RESET
+UNSET
+CONTINUE
+CALL
+LEGACY_ACTION
+LEGACY_RULESET
+PRIFILT
+PROPFILT
+BSD_TAG_SELECTOR
+BSD_HOST_SELECTOR
+THEN
+ELSE
+FOREACH
+ITERATOR_ASSIGNMENT
+STRING
+NUMBER
+CMP_EQ
+CMP_NE
+CMP_LE
+CMP_GE
+CMP_LT
+CMP_GT
+CMP_CONTAINS
+CMP_CONTAINSI
+CMP_STARTSWITH
+CMP_STARTSWITHI
+UMINUS
+$accept
+propconst
+property
+constant
+nvlst
+script
+stmt
+block
+actlst
+s_act
+expr
+fparams
+iterator_decl
+arrayelt
+Reducing stack by rule %d (line %lu):
+>??????@@@@@AAABCDDEFFGGHHHHHHHHHIIJJKKKKKLLLLLLLLLLLLLLLLLLLLLLLLLLLMMNOPP
+@HJKDDDD!!!
+5HII
+ !"#/9<LN9O0
+778GH9LLL"P
+$%&'()*+,-./0123!
+K755LL6H:LM:;=ILLLLLLLLLLLLLLLLLL
+I"FNA6G88;:"
+	6BC6MI:DD
+5%/2,d6e< &'()21:7-PQRSTU*^=f&'()W_+`>,8
+?@2*9
++\],
+Z<ghijklmnopqrstuvwxY[
+!FGHIJKLMNOPQRSTU
+FGHIJKLMNOPQRSTU
+cFGHIJKLMNOPQRSTU
+FGHIJKLMNOPQRSTUDE
+FGHIJKLMNOPQRSTUDE
+FGHIJKLMNOPQRSTU
+FGHIJKLMNOPQRSTU
+,+./012345679:8;<=
+9:1.;/
+ !"#$%&'()*+,-4bad buffer in yy_scan_bytes()
+stdin
+lexer: propfilt is '%s'
+$includeconfig 
+$ruleset 
+flex scanner jammed
+input in flex scanner failed
+out of dynamic memory in yy_create_buffer()
+out of dynamic memory in yyensure_buffer_stack()
+out of dynamic memory in yy_scan_buffer()
+out of dynamic memory in yy_scan_bytes()
+config parser: pushed file %s on top of stack
+config parser: reached end of file %s
+config parser: parsing completed
+config parser: resume parsing of file %s at line %d
+invalid character '%s' in expression - is there an invalid escape sequence somewhere?
+invalid character '%s' in 'call' statement- is there an invalid escape sequence somewhere?
+invalid character '%s' in object definition - is there an invalid escape sequence somewhere?
+invalid character '%s' - is there an invalid escape sequence somewhere?
+fatal flex scanner internal error--end of buffer missed
+fatal error - scanner input buffer overflow
+out of dynamic memory in yy_get_next_buffer()
+fatal flex scanner internal error--no action found
+	)	F	X	u	
+pmask: 
+%2X 
+%c[%d]
+contains
+isequal
+startswith
+ereregex
+isempty
+PreprocFileLineNumber(%d)
+eval expr %p, type '%s'
+***FIELD NOT FOUND***
+TABLE-NOT-FOUND
+errors
+warnings
+strlen
+getenv
+tolower
+cstr
+cnum
+re_match
+re_extract
+five
+three
+exec_template
+prifilt
+wrap
+random
+rainerscript.c
+cannot compile regex '%s'
+lookup table '%s' not found
+optimize expr %p, type '%s'
+ruleset '%s' cannot be found
+action(type="%s" ...)
+error: invalid param type
+%s%s
+ARRAY:
+string '
+nvlst %p:
+	name: '%s':
+	name: '%s', value '%s'
+global
+main_queue
+lookup_table
+error: invalid cnfobjType
+obj: '%s'
+objlst %p:
+%lld
+(unsupported datatype %c)
+(unset)
+var '%s'
+function '
+' (id:%d, params:%hu)
+CONTAINS
+CONTAINS_I
+STARTSWITH
+STARTSWITH_I
+UNSET %s
+ACTION %d [%s:%s]
+PRIFILT '%s'
+STOP
+CALL [%s, queue:%d]
+ELSE
+END IF
+FOREACH %s IN
+END FOREACH
+END SET
+END PRIFILT
+	CEE-Prop.: '%s'
+	Operation: 
+	Value....: '%s'
+END PROPFILT
+error: unknown stmt type %u
+THEN
+SET %s =
+	Property.: '%s'
+UNKNOWN TOKEN
+parameter '%s': ID for user %s could not be found
+param '%s': uid %d obtained for user '%s'
+parameter '%s': ID for group %s could not be found
+param '%s': uid %d obtained for group '%s'
+prifiltSetSeverity: program error, invalid mode %s
+parameter '%s' not known -- typo in config file?
+nvlstGetParams: invalid param block version %d, expected %d
+duplicate parameter '%s' -- interpretation is ambigious, one value will be randomly selected. Fix this problem.
+rainerscript: (json) var %d:%s: '%s'
+rainerscript: (json/string) var %d: '%s'
+rainerscript: (string) var %d: '%s'
+eval error: unknown nodetype %u['%c']
+eval expr %p, return datatype '%c':%d
+rainerscript: executing function id %d
+rainerscript: random(max) didn't get a valid 'max' limit, defaulting random-number value to 0
+rainerscript: random(max) invalid, 'max' is zero, , defaulting random-number value to 0
+rainerscript: desired random-number range [0 - %lld] is wider than supported limit of [0 - %d)
+JSONorString: cnum node type %c result %d
+re_match: regexec returned error %d
+re_extract() submatch %zd is too large
+re_extract: regexec return is %d
+re_extract: regex found at offset %d, new offset %d, tries %d
+re_extract: regex: end search, found %d
+field() field requested %d, field found %d
+***ERROR in field() FUNCTION***
+rainerscript: invalid function id %u (name '%s')
+cnfexprDestruct got NULL ptr - valid, so doing nothing
+cnfexprDestruct expr %p, type '%s'
+cnfarrayAdd: realloc failed, item ignored, ar->arr=%p
+error: unknown stmt type during destruct %u
+Decoding property-based filter '%s'
+error %d constructing parser object
+error %d parsing filter property
+error %d compare operation property - ignoring selector
+error: invalid compare operation '%s'
+error %d compare value property
+%s occured in file '%s' around line %d
+number of parameters for %s() must be %s but is %d.
+number of parameters for %s() must be %s (operand_string, fragment_to_find, fragment_to_replace_in_its_place)but is %d.
+number of parameters for %s() must either be two (operand_string, wrapper) orthree (operand_string, wrapper, wrapper_escape_str)but is %d.
+rsyslog logic error in line %d of file %s
+param 2 of re_match/extract() must be a constant string
+could not load regex support - regex ignored
+param 1 of prifilt() must be a constant string
+table name (param 1) of lookup() must be a constant string
+exec_template(): param 1 must be a constant string
+exec_template(): template '%s' could not be found
+warning: '==' or '<>' comparison of two constant string arrays makes no sense
+optimizer: sorting array of %d members for CMP_EQ/NEQ comparison
+invalid facility '%s', expression will always evaluate to FALSE
+optimizer: change comparison OP to FUNC prifilt()
+invalid syslogseverity '%s', expression will always evaluate to FALSE
+invalid syslogseverity %d, expression will always evaluate to FALSE
+invalid syslogfacility %d, expression will always evaluate to FALSE
+optimize combine AND/OR prifilt()
+optimize NOT prifilt() to inverted prifilt()
+optimizer: change IF to PRIFILT
+optimizer: replacing omdiscard by STOP
+CALL obtained ruleset ptr %p for ruleset %s [hasQueue:%d]
+STOP is followed by unreachable statements!
+optimizer error: we see a NOP, how come?
+error: unknown stmt type %u during optimizer run
+optimizer: removing always-true PRIFILT %p
+error: always-true PRI filter has else part!
+error accessing config file or directory '%s' [cwd:%s]: %s
+error accessing config file or directory '%s' [cwd: %s]: %s
+requested to include config file '%s'
+requested to include directory '%s'
+warning: unable to process IncludeConfig directive '%s'
+warnings occured in file '%s' around line %d
+errors occured in file '%s' around line %d
+parameter '%s' required but not specified - fix config
+parameter '%s' deprecated but accepted, consider removing or replacing it
+parameter '%s' specified more than once - one instance is ignored. Fix config
+nvlstGetParam: name '%s', type %d, valnode->bUsed %d
+parameter '%s' is not a string, which is not permitted
+param '%s': unknown queue type: '%s'
+parameter '%s' must be "on" or "off" but is neither. Results unpredictable.
+parameter '%s' is not a proper number
+parameter '%s' cannot be less than zero (was %lld)
+parameter '%s' cannot be less than one (was %lld)
+parameter '%s' does not contain a valid size
+parameter '%s' must contain exactly one character but contains %d - cannot be processed
+parameter '%s' contains whitespace, which is not permitted
+parameter '%s' must be an array, but is a different datatype
+parameter '%s' is no longer supported
+file modes need to be specified as 4-digit octal numbers starting with '0' -parameter '%s="%s"' is not a file mode
+nvlstPrint: unknown type '%s'
+error: unknown nodetype %u['%c']
+;*3$"
+"{\"message\":\"%msg:::json%\",\"fromhost\":\"%HOSTNAME:::json%\",\"facility\":\"%syslogfacility-text%\",\"priority\":\"%syslogpriority-text%\",\"timereported\":\"%timereported:::date-rfc3339%\",\"timegenerated\":\"%timegenerated:::date-rfc3339%\"}"
+"%TIMESTAMP% %HOSTNAME% %syslogtag%%msg:::sp-if-no-1st-sp%%msg%
+"%fromhost-ip%"
+"insert into SystemEvents (Message, Facility, FromHost, Priority, DeviceReportedTime, ReceivedAt, InfoUnitID, SysLogTag) values ('%msg%', %syslogfacility%, '%HOSTNAME%', %syslogpriority%, '%timereported:::date-pgsql%', '%timegenerated:::date-pgsql%', %iut%, '%syslogtag%')",STDSQL
+"insert into SystemEvents (Message, Facility, FromHost, Priority, DeviceReportedTime, ReceivedAt, InfoUnitID, SysLogTag) values ('%msg%', %syslogfacility%, '%HOSTNAME%', %syslogpriority%, '%timereported:::date-mysql%', '%timegenerated:::date-mysql%', %iut%, '%syslogtag%')",SQL
+" %syslogtag%%msg%
+Message from syslogd@%HOSTNAME% at %timegenerated% ...
+ %syslogtag%%msg%
+=RSYSLOG_TraditionalForwardFormat
+=RSYSLOG_ForwardFormat
+=RSYSLOG_FileFormat
+=RSYSLOG_TraditionalFileFormat
+"<%PRI%>1 %TIMESTAMP:::date-rfc3339% %HOSTNAME% %APP-NAME% %PROCID% %MSGID% %STRUCTURED-DATA% %msg%
+"Debug line with all properties:
+FROMHOST: '%FROMHOST%', fromhost-ip: '%fromhost-ip%', HOSTNAME: '%HOSTNAME%', PRI: %PRI%,
+syslogtag '%syslogtag%', programname: '%programname%', APP-NAME: '%APP-NAME%', PROCID: '%PROCID%', MSGID: '%MSGID%',
+TIMESTAMP: '%TIMESTAMP%', STRUCTURED-DATA: '%STRUCTURED-DATA%',
+msg: '%msg%'
+escaped msg: '%msg:::drop-cc%'
+inputname: %inputname% rawmsg: '%rawmsg%'
+$!:%$!%
+$.:%$.%
+$/:%$/%
+rsyslogd
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.data.rel.ro
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

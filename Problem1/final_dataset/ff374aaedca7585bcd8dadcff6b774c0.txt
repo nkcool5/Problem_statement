@@ -1,0 +1,1504 @@
+/lib64/ld-linux-x86-64.so.2
+libselinux.so.1
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+_init
+fgetfilecon
+freecon
+lgetfilecon
+_fini
+libc.so.6
+fflush
+strcpy
+gmtime_r
+__printf_chk
+fnmatch
+readdir
+setlocale
+mbrtowc
+strncmp
+optind
+strrchr
+fflush_unlocked
+dcgettext
+stpncpy
+getpwuid
+closedir
+__mempcpy_chk
+getgrgid
+error
+signal
+mbstowcs
+sigprocmask
+__stack_chk_fail
+__lxstat
+iswprint
+realloc
+abort
+_exit
+program_invocation_name
+strftime
+__assert_fail
+localtime_r
+__ctype_get_mb_cur_max
+isatty
+getpwnam
+calloc
+strlen
+ungetc
+sigemptyset
+memset
+localeconv
+strstr
+__errno_location
+memcmp
+mempcpy
+unsetenv
+_setjmp
+__fprintf_chk
+sigaddset
+getgrnam
+wcswidth
+stdout
+lseek
+memcpy
+fclose
+strtoul
+malloc
+timegm
+raise
+mbsinit
+tzset
+__uflow
+nl_langinfo
+opendir
+__ctype_b_loc
+getenv
+_obstack_allocated_p
+optarg
+__freading
+stderr
+wcwidth
+ioctl
+_obstack_begin_1
+_obstack_newchunk
+readlink
+fscanf
+getopt_long
+__fxstat
+fileno
+_obstack_memory_used
+fwrite
+gettimeofday
+sigaction
+__memcpy_chk
+sigismember
+clock_gettime
+__fpending
+localtime
+strchr
+iswcntrl
+program_invocation_short_name
+fdopen
+wcstombs
+__ctype_toupper_loc
+__ctype_tolower_loc
+obstack_alloc_failed_handler
+__sprintf_chk
+__xstat
+getxattr
+memmove
+_obstack_begin
+bindtextdomain
+fwrite_unlocked
+strcmp
+tcgetpgrp
+__libc_start_main
+dirfd
+stpcpy
+fseeko
+strcoll
+__overflow
+__strtoul_internal
+_obstack_free
+fputs_unlocked
+__progname
+__progname_full
+__cxa_atexit
+_edata
+__bss_start
+_end
+GLIBC_2.14
+GLIBC_2.4
+GLIBC_2.17
+GLIBC_2.3.4
+GLIBC_2.2.5
+GLIBC_2.3
+AWAVAUATUS
+T$01
+D$2f
+L$0E1
+D$0H
+L$HH
+l$HH
+T$@H
+G(H;G0
+G(H;G0
+G(H;G0
+t$0H
+T$0H
+[]A\A]A^A_
+L$0E1
+H9D$0H
+CD$0A
+D$(t	
+H-`TA
+T$@1
+t$@I
+G(H;G0
+D$0H
+t$(H
+|$0L
+D$0I
+D$(H
+D$0I
+t$(H
+|$01
+D$0Ic
+t$(H
+|$01
+AVAUA
+ATUL
+=tA~c
++A\A]A^
+6w5M
+AUATI
+[]A\A]
+AWAVD
+AUATI
+	t'H
+8.t.A
+?/uHH
+[]A\A]A^A_
+G(H;G0s{H
+G(H;G0s)H
+AWAVAUATI
+[A\A]A^A_]
+G(H;G0s!H
+ t#H
+O(H;O0r
+ATUH
+[]A\
+F@H9G@
+wXI9pX
+G`A+@`u
+G(H;G0s
+t<Hc
+txHc
+AUATA
+[]A\A]
+ATUSL
+[]A\
+[]A\
+AVAUI
+E H)
+U H)
+[]A\A]A^
+[]A\A]A^
+dH34%(
+AWAV@
+AUATE1
+tuL9
+G(H;G0
+=yy!
+G(H;G0sgH
+=1y!
+G(H;G0sZH
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVE
+AUATI
+[]A\A]A^A_
+LcD$
+AWAVAUATUSH
+l$0H
+D$(H
+l$0A
+D$0H
+????????H
+D$1fE
+D$:+
+D$(H
+=[t!
+=Qt!
+T$ H9
+|	E9
+51s!
+-"}!
+[]A\A]A^A_
+D$(H
+T$ L
+D$(L
+D$:.
+=>}!
+5@|!
+=,p!
+s0t%1
+t$`D
+-D{!
+t$@D
+|$ H
+$t;H
+|$`E1
+$u+E
+|$`1
+AWAVAUATUSH
+=Mn!
+G(H;G0
+8[]A\A]A^A_
+=xy!
+G(H;G0
+8[]A\A]A^A_
+G(H;G0r
+=Fx!
+=Kl!
+G(H;G0r
+D$(E1
+t$ L;-
+=?k!
+G(H;G0s7H
+D$(H9D$
+[]A\A]A^A_
+r w.H
+G@I9@@
+F@H9G@
+r"w0H
+F@H9G@
+r"w0H
+F@H9G@
+r w.H
+G@I9@@
+W@H9V@H
+W@H9V@H
+NxH9Ox
+NhH9Oh
+Fp+Gpu
+=~r!
+dH34%(
+AWAVAUATI
+=}p!
+=Uo!
+=Wc!
+=Ic!
+="o!
+=Lo!
+[A\A]A^A_]
+%	n!
+=Jn!
+=$n!
+=5j!
+=]i!
+=_h!
+GxH9FxH
+#|1H
+FhH9Gh
+Fp+Gpu H
+GhH9FhH
+Gp+Fpu
+FXH9GX
+F`+G`u H
+GXH9FXH
+G`+F`u
+FxH9Gx
+&|4H
+FxH9Gx
+&|4H
+GxH9FxH
+#|1H
+FhH9Gh
+Fp+Gpu H
+GhH9FhH
+Gp+Fpu
+FXH9GX
+F`+G`u H
+GXH9FXH
+G`+F`u
+NXH9OX
+F`+G`u
+wXI9pX
+G`A+@`u
+wxI9px
+Eleele
+whI9ph
+GpA+@pu
+NhH9Oh
+Fp+Gpu
+NxH9Ox
+t	[]A\
+<$]A\
+[]A\
+<$]A\
+whI9ph
+GpA+@pu
+wxI9px
+NXH9OX
+F`+G`u
+ATUH
+t	[]A\
+;[]A\
+ATUH
+t	[]A\
+;[]A\
+Tacocat
+ATUI
+[]A\
+ATUI
+[]A\
+ATUSL
+[]A\
+[]A\
+AUAT
+D$x1
+AWAV
+AUATI
+xRL9
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATI
+([]A\A]A^A_
+[]A\A]A^A_
+[]A\1
+AWAVI
+AUAT1
+=mD!
+=ID!
+G(H;G0s
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+AVAUATUSL
+]A\A]A^
+=pN!
+t1US1
+AWAVI
+AUATI
+[]A\A]A^A_
+<$/u
+AWAVI
+AUATI
+D$(1
+.uSA
+t$(dH34%(
+8[]A\A]A^A_
+|$ I
+Dl$ L)
+t	H9
+H;,$
+0<	w
+H;,$H
+<	vxL9
+<	w91
+H;,$t
+l$ L)
+HiD$
+	viH
+S0H;C
+AVAUI
+ATUI
+t}H9
+T$HH
+D$H[H
+]A\A]A^
+]A\A]A^
+T$HH
+D$HH
+[]A\A]A^
+AWAVA
+AUATI
+.L;n
+D$HH
+\$HH
+[]A\A]A^A_
+D$HH
+T$HH
+[]A\A]A^A_
+H9W 
+AUATUSH
+[]A\A]
+ATUI
+3[]H
+t4H9
+AWAVAUATUSH
+7L;w
+[]A\A]A^A_
+AWAV
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+ATUH
+'L;g
+[]A\
+ATUH
+'L;g
+ATUH
+g(dH
+D$X1
+d$(H
+D$0H
+D$8H
+D$@H
+L$XdH3
+`[]A\
+D$HH
+ATUSH
+[]A\
+[]A\
+AWAV
+AUAT
+T$HL
+D$8H
+d$ M
+D$ H
+\$ H
+D$41
+l$NH
+D$ H
+D$ H
+L$HL
+D$4L9
+_AXI
+T$0H
+L$0E
+[]A\A]A^A_
+|$8M
+|$8M
+D$PM
+|$ H
+L$01
+l$ L9
+l$NH
+l$NH
+D$@D
+D$0I
+l$ L9
+D$4H9
+l$NH
+D$@H1
+l$NH
+D$@H1
+D$@H1
+$$E1
+AUATI
+[]A\A]
+0<	v/H
+0<	w
+ATUSH
+9;tWH
+[]A\H
+ATUI
+t'@8k
+[]A\
+ATUSH
+9;tWH
+[]A\H
+ATUI
+t'@8k
+[]A\
+gfffffffxAf
+gfffffff
+AWAVI
+AUATI
+[]A\A]A^A_
+D$(H
+T$(H
+t$(H
+D$ H
+T$ H
+t$(H
+AWAVI
+AUATE1
+t,H9
+[]A\A]A^A_
+AWAVA
+AUATL
+,7USH
+dH34%(
+([]A\A]A^A_
+AWAVAUATUSH
+8[]A\A]A^A_
+D$ L
+L9t$
+H9D$ 
+D$(L
+L94$N
+H9D$
+8[I)
+A\A]A^A_
+D$ H
+T$ L
+8[]A\A]A^A_
+D$81
+L$8dH3
+D$ H
+D$(H
+D$0H
+AWAVE
+AUATI
+L$8H
+D$(H
+D$XH
+D$PdH
+D$xD
+D$ I
+D$<D
+T$0D
+D$<D
+L$|I
+T$0M9
+T$ H
+t$HD
+D$@D
+T$<D
+L$0H
+L$|H
+L$|D
+L$0D
+T$<D
+t$(H
+v L9
+T$HH
+t$hL
+L$XL
+T$8A
+dH34%(
+[]A\A]A^A_
+D"D$
+s2L9
+v2I9
+T$0D
+s2L9
+D$XL
+D$PL
+l$PL
+l$HH
+D$HC
+D$HC
+\$pD
+L$~H
+t$@L
+|$hL
+l$0D
+T$<H
+T$0H
+48L)
+D"D$
+L$~D
+t$@H
+\$pL
+|$hL
+l$0D
+T$<H
+t$@L
+T$hL
+l$0D
+T$<D
+T$<I
+L$~H
+\$pD
+t$@E1
+|$hL
+l$0D
+l$0M
+L$~H
+\$pD
+t$@L
+|$hD
+T$<v$A
+D$HC
+AWAVI
+AUATLc
+u(AWL
+T$(L
+L$<H
+T$(H
+t$0I
+[]A\A]A^A_
+ATUSH
+[]A\
+AWAV
+AUATI
+L$(L
+8[]A\A]A^A_
+AWAV
+AUATI
+s(AR1
+D$HH
+T$8A
+D$,H
+\$(M
+8[]A\A]A^A_
+D$81
+L$8dH3
+ATUI
+D$81
+T$8dH3
+@[]A\
+D$81
+D$ H
+D$(H
+t$8dH34%(
+D$x1
+T$PH
+D$@H
+T$XH
+T$ H
+D$HH
+T$`H
+T$(H
+T$hH
+T$0H
+\$xdH3
+D$81
+L$ H
+L$(H
+L$0t2H
+t$(H
+T$0H
+|$8dH3<%(
+ATUH
+St-I
+[]A\
+ATUH
+St-I
+[]A\
+AWAVI
+AUATUSH
+@0dH
+#u@H
+	w91
+Etr@
+Otl@
+[]A\A]A^A_
+tgL9
+vBHc
+D$@H
+L$0L)
+D$@H
+L$0E
+T$0D
+uLH9
+\$@Hc
+L$@H)
+L$0D
+L$@H
+L$0E
+L$0H
+t$(H
+L$0H
+L$0L
+L$0H
+~.Hc
+t$pD
+T$0D
+D$pH
+D$xH
+|$ H
+T$0D
+gfffffff
+u=L9
+s8Hc
+L$@D
+T$0H)
+T$0H
+L$@E
+L$0L
+L$0H
+\$@D
+T$0sGD
+\$@Hc
+L$@L)
+D$0D
+L$@L
+D$0E
+L$0L
+t$8H
+L$0L
+\$HH
+D$ H
+AZI9
+tgI9
+\$HHc
+T$HL)
+T$HH
+L$0L
+D$ H
+_AXL
+~.Hc
+D:D$0
+T$0E
+d9T$
+D+D$0A
+vWHc
+L$XH
+L$PH
+D$HD
+T$@D
+\$0H
+T$@D
+L$XH
+L$PD
+D$HD
+t5Ic
+L$@D
+T$0D
+T$0D
+L$@D
+D$0A
+D$01
+D$01
+D$01
+gfff
+~2Hc
+L$`D
+D$XD
+T$PD
+\$HH
+L$@D
+T$PD
+L$`D
+D$XD
+\$HH
+vTHc
+D$`D
+L$XH
+L$PD
+T$HD
+\$@H
+l$0D
+T$HL
+D$`D
+L$XH
+L$PD
+L$`H
+L$XH
+D$PD
+T$HD
+\$@H
+l$0D
+L$`H
+L$XL
+D$PD
+T$HD
+T$0H
+L$0L
+D$0L
+v`Hc
+L$hD
+L$`H
+D$XH
+D$@D
+T$PD
+T$@H
+l$@D
+T$PH
+L$hD
+L$`L
+D$XD
+L$0L
+D$@D
++L$@
+D$01
+\$0D
+T$@D
+D$HH
+L$PD
++D$@i
+D+D$0A
+D$@E1
+D$0H
+l$@D
+\$HD
+T$PL
+D$XD
+L$`H
+AWAVAUATM
+AQAUATAWAVL
+L$0L
+([]A\A]A^A_
+[]A\A]A^A_H
+[]A\A]A^A_1
+[]A\A]A^A_
+([]A\A]A^A_
+ATAWAVL
+D$ H
+([]A\A]A^A_
+AUATAWAVL
+D$X1
+D$XdH3
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AVAUI
+\$@dH
+w{L9
+[]A\A]A^
+AWAVAUATUSH
+dH3<%(
+([]A\A]A^A_
+5wS@
+AUATHc
+AWAVAUATUSH
+dH3<%(
+([]A\A]A^A_
+5wS@
+ATUSH
+AVAUATUSH
+G0H9
+[]A\A]A^
+H;0v
+u#[]A\
+[]A\
+tZAVAUATUSH
+[]A\A]A^
+AUATUSH
+[]A\A]
+[]A\A]
+AVAUATUSL
+]	tw
+E	H9
+[]A\A]A^
+]A\A]A^
+AUATUSH
+[]A\A]
+]A\A]
+txAUATI
+[]A\A]
+[]A\A]
+ATUSH
+D$H1
+L$HdH3
+P[]A\
+3T$ 	
+3T$$	
+ATUH
+A Santa lives evil at NASA
+t)[]A\
+[]A\
+8	[]A\
+AWAV
+AUATUSH
+[]A\A]A^A_
+charset.
+aliaf
+L$PH
+D$PI
+t$PM
+ATUSH
+u0[]A\
+[]A\
+G H9G(u
+ATUA
+[]A\
+Hc|$ H
+HcT$(H
+HcT$0H)
+HcT$8[]A\I)
+AWAVAUATI
+[]A\A]A^A_
+]A\A]A^A_
+AWAVI
+AUATUSH
+D$0H
+D$(A
+l$@D
+T$,H
+t$0D
+t$HH
+D$@H
+D$`H
+D$XI
+d$`H
+D$XL
+l$`E
+T$pH
+l$XH
+t$ M
+L;l$`t
+L$8E
+t$HH
+D$(H+D$@H
+\$0L
+\$$9
+L$`H
+t$pH
+|$`H
+l$`H
+D$pI
+D$xI
+[]A\A]A^A_
+l$8A
+t$hH
+l$8H
+t$ H
+L$xD
+T$pH
+t$XH
+AWAVA
+AUATL
+[]A\A]A^A_
+dev_ino_pop
+sort_files
+posix-
+main
+?pcdb-lswd
+# Configuration file for dircolors, a utility to help you set the
+# LS_COLORS environment variable used by GNU ls with the --color option.
+# Copyright (C) 1996-2016 Free Software Foundation, Inc.
+# Copying and distribution of this file, with or without modification,
+# are permitted provided the copyright notice and this notice are preserved.
+# The keywords COLOR, OPTIONS, and EIGHTBIT (honored by the
+# slackware version of dircolors) are recognized but ignored.
+# Below are TERM entries, which can be a glob patterns, to match
+# against the TERM environment variable to determine if it is colorizable.
+TERM Eterm
+TERM ansi
+TERM color-xterm
+TERM con[0-9]*x[0-9]*
+TERM cons25
+TERM console
+TERM cygwin
+TERM dtterm
+TERM eterm-color
+TERM gnome
+TERM gnome-256color
+TERM hurd
+TERM jfbterm
+TERM konsole
+TERM kterm
+TERM linux
+TERM linux-c
+TERM mach-color
+TERM mach-gnu-color
+TERM mlterm
+TERM putty
+TERM putty-256color
+TERM rxvt*
+TERM screen*
+TERM st
+TERM st-256color
+TERM terminator
+TERM tmux*
+TERM vt100
+TERM xterm*
+# Below are the color init strings for the basic file types. A color init
+# string consists of one or more of the following numeric codes:
+# Attribute codes:
+# 00=none 01=bold 04=underscore 05=blink 07=reverse 08=concealed
+# Text color codes:
+# 30=black 31=red 32=green 33=yellow 34=blue 35=magenta 36=cyan 37=white
+# Background color codes:
+# 40=black 41=red 42=green 43=yellow 44=blue 45=magenta 46=cyan 47=white
+#NORMAL 00 # no color code at all
+#FILE 00 # regular file: use no color at all
+RESET 0 # reset to "normal" color
+DIR 01;34 # directory
+LINK 01;36 # symbolic link. (If you set this to 'target' instead of a
+ # numerical value, the color is as for the file pointed to.)
+MULTIHARDLINK 00 # regular file with more than one link
+FIFO 40;33 # pipe
+SOCK 01;35 # socket
+DOOR 01;35 # door
+BLK 40;33;01 # block device driver
+CHR 40;33;01 # character device driver
+ORPHAN 40;31;01 # symlink to nonexistent file, or non-stat'able file ...
+MISSING 00 # ... and the files they point to
+SETUID 37;41 # file that is setuid (u+s)
+SETGID 30;43 # file that is setgid (g+s)
+CAPABILITY 30;41 # file with capability
+STICKY_OTHER_WRITABLE 30;42 # dir that is sticky and other-writable (+t,o+w)
+OTHER_WRITABLE 34;42 # dir that is other-writable (o+w) and not sticky
+STICKY 37;44 # dir with the sticky bit set (+t) and not other-writable
+# This is for files with execute permission:
+EXEC 01;32
+# List any file extensions like '.gz' or '.tar' that you would like ls
+# to colorize below. Put the extension, a space, and the color init string.
+# (and any comments you want to add after a '#')
+# If you use DOS-style suffixes, you may want to uncomment the following:
+Degas are we not drawn onward no In union drawn onward to new eras aged
+#.cmd 01;32 # executables (bright green)
+#.exe 01;32
+#.com 01;32
+#.btm 01;32
+#.bat 01;32
+# Or if you want to colorize scripts even if they do not have the
+# executable bit actually set.
+#.sh 01;32
+#.csh 01;32
+ # archives or compressed (bright red)
+.tar 01;31
+.tgz 01;31
+.arc 01;31
+.arj 01;31
+.taz 01;31
+.lha 01;31
+.lz4 01;31
+.lzh 01;31
+.lzma 01;31
+.tlz 01;31
+.txz 01;31
+.tzo 01;31
+.t7z 01;31
+.zip 01;31
+.z 01;31
+.Z 01;31
+.dz 01;31
+.gz 01;31
+.lrz 01;31
+.lz 01;31
+.lzo 01;31
+.xz 01;31
+.bz2 01;31
+.bz 01;31
+.tbz 01;31
+.tbz2 01;31
+.tz 01;31
+.deb 01;31
+.rpm 01;31
+.jar 01;31
+.war 01;31
+.ear 01;31
+.sar 01;31
+.rar 01;31
+.alz 01;31
+.ace 01;31
+.zoo 01;31
+.cpio 01;31
+.7z 01;31
+.rz 01;31
+.cab 01;31
+# image formats
+.jpg 01;35
+.jpeg 01;35
+.gif 01;35
+.bmp 01;35
+.pbm 01;35
+.pgm 01;35
+.ppm 01;35
+.tga 01;35
+.xbm 01;35
+.xpm 01;35
+.tif 01;35
+.tiff 01;35
+.png 01;35
+.svg 01;35
+.svgz 01;35
+.mng 01;35
+.pcx 01;35
+.mov 01;35
+.mpg 01;35
+.mpeg 01;35
+.m2v 01;35
+.mkv 01;35
+.webm 01;35
+.ogm 01;35
+.mp4 01;35
+.m4v 01;35
+.mp4v 01;35
+.vob 01;35
+.qt 01;35
+.nuv 01;35
+.wmv 01;35
+.asf 01;35
+.rm 01;35
+.rmvb 01;35
+.flc 01;35
+.avi 01;35
+.fli 01;35
+.flv 01;35
+.gl 01;35
+.dl 01;35
+.xcf 01;35
+.xwd 01;35
+.yuv 01;35
+.cgm 01;35
+.emf 01;35
+# http://wiki.xiph.org/index.php/MIME_Types_and_File_Extensions
+.ogv 01;35
+Beeb
+.ogx 01;35
+# audio formats
+.aac 00;36
+.au 00;36
+.flac 00;36
+.m4a 00;36
+.mid 00;36
+.midi 00;36
+.mka 00;36
+.mp3 00;36
+.mpc 00;36
+.ogg 00;36
+.ra 00;36
+.wav 00;36
+# http://wiki.xiph.org/index.php/MIME_Types_and_File_Extensions
+.oga 00;36
+.opus 00;36
+.spx 00;36
+.xspf 00;36
+src/ls.c
+sort_type != sort_version
+ %lu
+%*lu 
+%s %*s 
+%*s, %*s 
+ -> 
+cannot access %s
+cannot read symbolic link %s
+unlabeled
+vdir
+test invocation
+Multi-call invocation
+sha224sum
+sha2 utilities
+sha256sum
+sha384sum
+sha512sum
+%s online help: <%s>
+GNU coreutils
+full-iso
+/usr/share/locale
+QUOTING_STYLE
+COLUMNS
+TABSIZE
+invalid line width
+%s: %s
+invalid tab size
+--sort
+--time
+--format
+--color
+--indicator-style
+--quoting-style
+David MacKenzie
+Richard M. Stallman
+LS_BLOCK_SIZE
+*=>@|
+TIME_STYLE
+invalid time style format %s
+time style
+Valid arguments are:
+  - [posix-]%s
+%Y-%m-%d %H:%M:%S.%N %z
+%Y-%m-%d %H:%M
+%Y-%m-%d 
+LS_COLORS
+COLORTERM
+TERM 
+target
+found
+cannot open directory %s
+reading directory %s
+closing directory %s
+total
+//DIRED//
+//SUBDIRED//
+unrecognized prefix: %s
+force
+never
+none
+auto
+if-tty
+atime
+ctime
+status
+extension
+verbose
+long
+commas
+horizontal
+across
+vertical
+single-column
+directory
+dired
+full-time
+group-directories-first
+human-readable
+inode
+kibibytes
+numeric-uid-gid
+no-group
+hide-control-chars
+reverse
+almost-all
+ignore-backups
+classify
+file-type
+dereference-command-line
+hide
+ignore
+dereference
+literal
+quote-name
+recursive
+show-control-chars
+tabsize
+time-style
+block-size
+context
+author
+help
+%b %e  %Y
+%b %e %H:%M
+01;34
+01;36
+01;35
+01;33
+01;32
+37;41
+30;43
+37;44
+34;42
+30;42
+30;41
+slash
+long-iso
+Try '%s --help' for more information.
+Usage: %s [OPTION]... [FILE]...
+List information about the FILEs (the current directory by default).
+Sort entries alphabetically if none of -cftuvSUX nor --sort is specified.
+Mandatory arguments to long options are mandatory for short options too.
+  -a, --all                  do not ignore entries starting with .
+  -A, --almost-all           do not list implied . and ..
+      --author               with -l, print the author of each file
+  -b, --escape               print C-style escapes for nongraphic characters
+      --block-size=SIZE      scale sizes by SIZE before printing them; e.g.,
+                               '--block-size=M' prints sizes in units of
+                               1,048,576 bytes; see SIZE format below
+Do nine men interpret Nine men I nod
+  -B, --ignore-backups       do not list implied entries ending with ~
+  -c                         with -lt: sort by, and show, ctime (time of last
+                               modification of file status information);
+                               with -l: show ctime and sort by name;
+                               otherwise: sort by ctime, newest first
+  -C                         list entries by columns
+      --color[=WHEN]         colorize the output; WHEN can be 'always' (default
+                               if omitted), 'auto', or 'never'; more info below
+  -d, --directory            list directories themselves, not their contents
+Borrow or rob
+  -D, --dired                generate output designed for Emacs' dired mode
+  -f                         do not sort, enable -aU, disable -ls --color
+  -F, --classify             append indicator (one of */=>@|) to entries
+      --file-type            likewise, except do not append '*'
+      --format=WORD          across -x, commas -m, horizontal -x, long -l,
+                               single-column -1, verbose -l, vertical -C
+      --full-time            like -l --time-style=full-iso
+  -g                         like -l, but do not list owner
+      --group-directories-first
+                             group directories before files;
+                               can be augmented with a --sort option, but any
+                               use of --sort=none (-U) disables grouping
+  -G, --no-group             in a long listing, don't print group names
+  -h, --human-readable       with -l and/or -s, print human readable sizes
+                               (e.g., 1K 234M 2G)
+      --si                   likewise, but use powers of 1000 not 1024
+  -H, --dereference-command-line
+                             follow symbolic links listed on the command line
+      --dereference-command-line-symlink-to-dir
+                             follow each command line symbolic link
+                               that points to a directory
+      --hide=PATTERN         do not list implied entries matching shell PATTERN
+                               (overridden by -a or -A)
+      --indicator-style=WORD  append indicator with style WORD to entry names:
+                               none (default), slash (-p),
+                               file-type (--file-type), classify (-F)
+  -i, --inode                print the index number of each file
+  -I, --ignore=PATTERN       do not list implied entries matching shell PATTERN
+  -k, --kibibytes            default to 1024-byte blocks for disk usage
+  -l                         use a long listing format
+  -L, --dereference          when showing file information for a symbolic
+                               link, show information for the file the link
+                               references rather than for the link itself
+  -m                         fill width with a comma separated list of entries
+  -n, --numeric-uid-gid      like -l, but list numeric user and group IDs
+  -N, --literal              print raw entry names (don't treat e.g. control
+                               characters specially)
+  -o                         like -l, but do not list group information
+  -p, --indicator-style=slash
+                             append / indicator to directories
+  -q, --hide-control-chars   print ? instead of nongraphic characters
+      --show-control-chars   show nongraphic characters as-is (the default,
+                               unless program is 'ls' and output is a terminal)
+  -Q, --quote-name           enclose entry names in double quotes
+      --quoting-style=WORD   use quoting style WORD for entry names:
+                               literal, locale, shell, shell-always,
+                               shell-escape, shell-escape-always, c, escape
+  -r, --reverse              reverse order while sorting
+  -R, --recursive            list subdirectories recursively
+  -s, --size                 print the allocated size of each file, in blocks
+  -S                         sort by file size, largest first
+      --sort=WORD            sort by WORD instead of name: none (-U), size (-S),
+                               time (-t), version (-v), extension (-X)
+      --time=WORD            with -l, show time as WORD instead of default
+                               modification time: atime or access or use (-u);
+                               ctime or status (-c); also use specified time
+                               as sort key if --sort=time (newest first)
+      --time-style=STYLE     with -l, show times using style STYLE:
+                               full-iso, long-iso, iso, locale, or +FORMAT;
+                               FORMAT is interpreted like in 'date'; if FORMAT
+                               is FORMAT1<newline>FORMAT2, then FORMAT1 applies
+                               to non-recent files and FORMAT2 to recent files;
+                               if STYLE is prefixed with 'posix-', STYLE
+                               takes effect only outside the POSIX locale
+  -t                         sort by modification time, newest first
+  -T, --tabsize=COLS         assume tab stops at each COLS instead of 8
+  -u                         with -lt: sort by, and show, access time;
+                               with -l: show access time and sort by name;
+                               otherwise: sort by access time, newest first
+  -U                         do not sort; list entries in directory order
+  -v                         natural sort of (version) numbers within text
+  -w, --width=COLS           set output width to COLS.  0 means no limit
+  -x                         list entries by lines instead of by columns
+  -X                         sort alphabetically by entry extension
+  -Z, --context              print any security context of each file
+  -1                         list one file per line.  Avoid '\n' with -q or -b
+      --help     display this help and exit
+      --version  output version information and exit
+The SIZE argument is an integer and optional unit (example: 10K is 10*1024).
+Units are K,M,G,T,P,E,Z,Y (powers of 1024) or KB,MB,... (powers of 1000).
+Using color to distinguish file types is disabled both by default and
+with --color=never.  With --color=auto, ls emits color codes only when
+standard output is connected to a terminal.  The LS_COLORS environment
+variable can change the settings.  Use the dircolors command to set it.
+Exit status:
+ 0  if OK,
+ 1  if minor problems (e.g., cannot access subdirectory),
+ 2  if serious trouble (e.g., cannot access command-line argument).
+http://www.gnu.org/software/coreutils/
+Report %s translation bugs to <http://translationproject.org/team/>
+Full documentation at: <%s%s>
+or available locally via: info '(coreutils) %s%s'
+ignoring invalid value of environment variable QUOTING_STYLE: %s
+ignoring invalid width in environment variable COLUMNS: %s
+ignoring invalid tab size in environment variable TABSIZE: %s
+abcdfghiklmnopqrstuvw:xABCDFGHI:LNQRST:UXZ1
+  - +FORMAT (e.g., +%H:%M) for a 'date'-style format
+error initializing month strings
+dev_ino_size <= obstack_object_size (&dev_ino_obstack)
+cannot determine device and inode of %s
+%s: not listing already-listed directory
+//DIRED-OPTIONS// --quoting-style=%s
+hash_get_n_entries (active_dir_set) == 0
+unparsable value for LS_COLORS environment variable
+dereference-command-line-symlink-to-dir
+8.25
+invalid argument %s for %s
+ambiguous argument %s for %s
+Valid arguments are:
+  - %s
+, %s
+write error
+system.posix_acl_access
+system.posix_acl_default
+POSIX
+# entries:         %lu
+# buckets:         %lu
+max bucket length: %lu
+God A red nugget A fat egg under a dog
+# buckets used:    %lu (%.2f%%)
+=fff?
+Y@%.0Lf
+%.1Lf
+BLOCKSIZE
+POSIXLY_CORRECT
+eEgGkKmMpPtTyYzZ0
+KMGTPEZY
+A NULL argv[0] was passed through an exec system call.
+/.libs/
+shell
+shell-always
+shell-escape
+shell-escape-always
+alula
+c-maybe
+clocale
+%m/%d/%y
+%Y-%m-%d
+%H:%M:%S
+%s (%s) %s
+%s %s
+Written by %s.
+Written by %s and %s.
+Written by %s, %s, and %s.
+Report bugs to: %s
+bug-coreutils@gnu.org
+%s home page: <%s>
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Written by %s, %s, %s,
+and %s.
+Written by %s, %s, %s,
+%s, and %s.
+Written by %s, %s, %s,
+%s, %s, and %s.
+Written by %s, %s, %s,
+%s, %s, %s, and %s.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+and %s.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+%s, and %s.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+%s, %s, and others.
+General help using GNU software: <http://www.gnu.org/gethelp/>
+Copyright %s %d Free Software Foundation, Inc.
+memory exhausted
+lib/xstrtol.c
+0 <= strtol_base && strtol_base <= 36
+xstrtoul
+invalid %s%s argument '%s'
+%s%s argument '%s' too large
+invalid suffix in %s%s argument '%s'
+xstrtoumax
+/usr/lib/x86_64-linux-gnu
+ASCII
+CHARSETALIASDIR
+%50s %50s
+;*3$"
+08e06a2212d5cbe899263fdd1c0e67da29145a.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

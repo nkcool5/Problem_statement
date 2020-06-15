@@ -1,0 +1,2936 @@
+/lib64/ld-linux-x86-64.so.2
+libc.so.6
+__printf_chk
+fopen
+perror
+ftell
+strncpy
+__stack_chk_fail
+putchar
+stdin
+strtok
+strlen
+strstr
+fseek
+memcmp
+stdout
+fputs
+memcpy
+fclose
+__vsnprintf_chk
+strtoul
+malloc
+strcat
+__ctype_b_loc
+stderr
+strncat
+usleep
+fwrite
+fread
+gettimeofday
+strchr
+__vfprintf_chk
+__ctype_toupper_loc
+__strcpy_chk
+__ctype_tolower_loc
+_IO_getc
+strcmp
+__libc_start_main
+free
+__gmon_start__
+GLIBC_2.14
+GLIBC_2.4
+GLIBC_2.3.4
+GLIBC_2.2.5
+GLIBC_2.3
+ATUH
+[]A\
+AVAUATUH
+t_[D
+]A\A]A^
+]A\A]A^
+AWAVA
+AUATA
+[]A\A]A^A_
+[]A\A]A^A_
+ATUE1
+[]A\
+]A\1
+[uPH
+ATUH
+[]A\
+]A\1
+ATUH
+txE1
+[]A\
+AUATUSH
+u H9
+[]A\A]
+[]A\A]
+_ACxt*
+ASF!t*
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+ATUI
+[]A\A]A^
+[]A\A]A^
+]A\A]A^
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+tMUSH
+tMUSH
+AWAVA
+AUATUSH
+D$81
+L$8dH3
+H[]A\A]A^A_
+t$,H
+l$ E
+D$+H
+T$01
+H;l$0
+xtSD
+t$,I
+l$ E
+Tacocat
+t$,I
+l$ E
+t$,I
+l$ E
+ATUI
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+AVAUI
+ATUI
+[]A\A]A^
+?_uY
+t\AUATI
+[]A\A]
+NONE
+?_u9
+AWAVAUATA
+[]A\A]A^A_
+[]A\A]A^A_
+AUATE1
+[]A\A]
+AWAVI
+AUATI
+|$x1
+D$0H
+L$(H
+T$ H
+D$(H
+|$ A
+H+\$
+t$xdH34%(
+[]A\A]A^A_
+D$00H
+\$1H
+ATUH
+D$(1
+t$(dH34%(
+0[]A\
+AWAVH
+AUATI
+t$(1
+-uLA
+|$(dH3<%(
+8[]A\A]A^A_
+t$ L
+L$ D
+T$ H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AUATI
+[]A\A]
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AUATA
+[]A\A]
+AWAVA
+AUATL
+[]A\A]A^A_
+0x00
+ZeroOp
+DataObject
+0x01
+OneOp
+0x02-0x05
+0x06
+AliasOp
+TermObject
+NameString NameString
+0x07
+0x08
+NameOp
+NameString DataRefObject
+0x09
+0x0A
+BytePrefix
+0x0B
+0x0C
+DWordPrefix
+DWordData
+0x0D
+StringPrefix
+AsciiCharList NullChar
+0x0E
+QWordPrefix
+QWordData
+0x0F
+0x10
+ScopeOp
+0x11
+ByteList
+0x12
+Package TermList
+0x13
+VarPackageOp
+0x14
+MethodOp
+NameString ByteData
+0x15
+ExternalOp
+NameObject
+NameString ByteData ByteData
+0x16-0x2D
+0x2E
+DualNamePrefix
+NameSeg NameSeg
+0x2F
+MultiNamePrefix
+ByteData NameSeg
+0x30-0x39
+DigitChar
+0x3A-0x40
+0x41-0x5A
+NameChar
+0x5B
+ExtOpPrefix
+0x5B00
+0x5B01
+MutexOp
+0x5B02
+EventOp
+0x5B12
+CondRefOfOp
+SuperName SuperName
+0x5B13
+CreateFieldOp
+0x5B1F
+LoadTableOp
+0x5B20
+LoadOp
+NameString SuperName
+0x5B21
+StallOp
+DefStall := StallOp UsecTime
+0x5B22
+SleepOp
+DefSleep := SleepOp MsecTime
+0x5B23
+AcquireOp
+SuperName WordData
+0x5B24
+SignalOp
+0x5B25
+WaitOp
+SuperName TermArg
+0x5B26
+ResetOp
+0x5B27
+ReleaseOp
+0x5B28
+FromBcdOp
+0x5B29
+ToBcd
+0x5B2A
+UnloadOp
+0x5B30
+RevisionOp
+0x5B31
+DebugOp
+DebugObject
+0x5B32
+FatalOp
+ByteData DWordData TermArg
+0x5B33
+DefTimer := TimerOp
+0x5B80
+OperationRegionOp
+0x5B81
+FieldList
+0x5B82
+DeviceOp
+ObjectList
+0x5B83
+ProcessorOp
+0x5B84
+PowerResOp
+NameString ByteData WordData
+0x5B85
+ThermalZoneOp
+0x5B86
+IndexFieldOp
+0x5B87
+BankFieldOp
+0x5B88
+DataRegionOp
+0x5B89-0x5BFF
+0x5C
+RootChar
+0x5D
+0x5E
+ParentPrefixChar
+0x5F
+0x60
+Local0Op
+LocalObject
+0x61
+Local1Op
+0x62
+Local2Op
+0x63
+Local3Op
+0x64
+Local4Op
+0x65
+Local5Op
+0x66
+Local6Op
+0x67
+Local7Op
+0x68
+Arg0Op
+ArgObject
+0x69
+Arg1Op
+0x6A
+Arg2Op
+0x6B
+Arg3Op
+0x6C
+Arg4Op
+0x6D
+Arg5Op
+0x6E
+Arg6Op
+0x6F
+0x70
+StoreOp
+TermArg SuperName
+0x71
+SuperName 
+DefRefOf := RefOfOp SuperName
+0x72
+AddOp
+TermArg TermArg Target
+0x73
+ConcatOp
+0x74
+SubtractOp
+0x75
+IncrementOp
+0x76
+DecrementOp
+0x77
+MultiplyOp
+0x78
+DivideOp
+TermArg TermArg Target Target
+0x79
+ShiftLeftOp
+0x7A
+ShiftRightOp
+0x7B
+0x7C
+NandOp
+0x7D
+0x7E
+NorOp
+0x7F
+XorOp
+0x80
+0x81
+FindSetLeftBitOp
+0x82
+FindSetRightBitOp
+0x83
+DerefOfOp
+0x84
+ConcatResOp
+0x85
+ModOp
+0x86
+NotifyOp
+0x87
+SizeOfOp
+0x88
+IndexOp
+0x89
+MatchOp
+0x8A
+CreateDWordFieldOp
+TermArg TermArg NameString
+0x8B
+CreateWordFieldOp
+0x8C
+CreateByteFieldOp
+0x8D
+CreateBitFieldOp
+0x8E
+ObjectTypeOp
+0x8F
+CreateQWordFieldOp
+0x90
+LAndOp
+TermArg TermArg
+0x91
+LOrOp
+0x92
+LNotOp
+DefLNot := LNotOp Operand
+0x9293
+LNotEqualOp
+0x9294
+LLessEqualOp
+0x9295
+LGreaterEqualOp
+0x93
+LEqualOp
+0x94
+LGreaterOp
+0x95
+LLessOp
+0x96
+ToBufferOp
+0x97
+ToDecimalStringOp
+0x98
+ToHexStringOp
+0x99
+ToIntegerOp
+0x9A-0x9B
+0x9C
+ToStringOp
+0x9D
+CopyObjectOp
+TermArg SimpleName
+0x9E
+MidOp
+0x9F
+DefContinue := ContinueOp
+0xA0
+IfOp
+0xA1
+ElseOp
+0xA2
+WhileOp
+0xA3
+DefNoOp := NoOpOp
+0xA4
+ReturnOp
+0xA5
+DefBreak := BreakOp
+0xA6-0xCB
+0xCC
+DefBreakPoint := BreakPointOp
+0xCD-0xFE
+OnesOp
+DefAlias := AliasOp NameString NameString
+DefName := NameOp NameString DataRefObject
+ByteConst := BytePrefix ByteData
+WordConst := WordPrefix WordData
+DWordConst := DWordPrefix DWordData
+String := StringPrefix AsciiCharList NullChar
+QWordConst := QWordPrefix QWordData
+DefScope := ScopeOp PkgLength NameString TermList
+DefBuffer := BufferOp PkgLength BufferSize ByteList
+DefPackage := PackageOp PkgLength NumElements PackageElementList
+DefVarPackage := VarPackageOp PkgLength VarNumElements PackageElementList
+DefMethod := MethodOp PkgLength NameString MethodFlags TermList
+DefExternal := ExternalOp NameString ObjectType ArgumentCount
+DualNamePath := DualNamePrefix NameSeg NameSeg
+MultiNamePath := MultiNamePrefix SegCount NameSeg(SegCount)
+DefMutex := MutexOp NameString SyncFlags
+DefEvent := EventOp NameString
+DefCondRefOf := CondRefOfOp SuperName Target
+TermArg TermArg TermArg NameString
+DefCreateField := CreateFieldOp SourceBuff BitIndex NumBits NameString
+TermArg TermArg TermArg TermArg TermArg TermArg
+DefLoadTable := LoadTableOp TermArg TermArg TermArg TermArg TermArg TermArg
+DefLoad := LoadOp NameString DdbHandleObject
+DefAcquire := AcquireOp MutexObject Timeout
+DefSignal := SignalOp EventObject
+DefWait := WaitOp EventObject Operand
+DefReset := ResetOp EventObject
+DefRelease := ReleaseOp MutexObject
+DefFromBcd := FromBcdOp BcdValue Target
+DefToBcd := ToBcdOp Operand Target
+DefUnload := UnloadOp DdbHandleObject
+DefFatal := FatalOp FatalType FatalCode FatalArg
+NameString ByteData TermArg TermArg
+DefOpRegion := OpRegionOp NameString RegionSpace RegionOffset RegionLen
+DefField := FieldOp PkgLength NameString FieldFlags FieldList
+DefDevice := DeviceOp PkgLength NameString ObjectList
+NameString ByteData DWordData ByteData
+DefProcessor := ProcessorOp PkgLength NameString ProcId PblkAddr PblkLen ObjectList
+DefPowerRes := PowerResOp PkgLength NameString SystemLevel ResourceOrder ObjectList
+DefThermalZone := ThermalZoneOp PkgLength NameString ObjectList
+NameString NameString ByteData
+DefIndexField := IndexFieldOp PkgLength NameString NameString FieldFlags FieldList
+NameString NameString TermArg ByteData
+DefBankField := BankFieldOp PkgLength NameString NameString BankValue FieldFlags FieldList
+NameString TermArg TermArg TermArg
+DefDataRegion := DataRegionOp NameString TermArg TermArg TermArg
+DefStore := StoreOp TermArg SuperName
+DefAdd := AddOp Operand Operand Target
+DefConcat := ConcatOp Data Data Target
+DefSubtract := SubtractOp Operand Operand Target
+DefIncrement := IncrementOp SuperName
+DefDecrement := DecrementOp SuperName
+DefMultiply := MultiplyOp Operand Operand Target
+DefDivide := DivideOp Dividend Divisor Remainder Quotient
+DefShiftLeft := ShiftLeftOp Operand ShiftCount Target
+DefShiftRight := ShiftRightOp Operand ShiftCount Target
+DefAnd := AndOp Operand Operand Target
+DefNand := NandOp Operand Operand Target
+DefOr := OrOp Operand Operand Target
+DefNor := NorOp Operand Operand Target
+DefXor := XorOp Operand Operand Target
+DefNot := NotOp Operand Target
+DefFindSetLeftBit := FindSetLeftBitOp Operand Target
+DefFindSetRightBit := FindSetRightBitOp Operand Target
+DefDerefOf := DerefOfOp ObjReference
+DefConcatRes := ConcatResOp BufData BufData Target
+DefMod := ModOp Dividend Divisor Target
+DefNotify := NotifyOp NotifyObject NotifyValue
+DefSizeOf := SizeOfOp SuperName
+DefIndex := IndexOp BuffPkgStrObj IndexValue Target
+TermArg ByteData TermArg ByteData TermArg TermArg
+DefMatch := MatchOp SearchPkg MatchOpcode Operand MatchOpcode Operand StartIndex
+DefCreateDWordField := CreateDWordFieldOp SourceBuff ByteIndex NameString
+DefCreateWordField := CreateWordFieldOp SourceBuff ByteIndex NameString
+DefCreateByteField := CreateByteFieldOp SourceBuff ByteIndex NameString
+DefCreateBitField := CreateBitFieldOp SourceBuff BitIndex NameString
+DefObjectType := ObjectTypeOp SuperName
+DefCreateQWordField := CreateQWordFieldOp SourceBuff ByteIndex NameString
+DefLAnd := LAndOp Operand Operand
+DefLOr := LOrOp Operand Operand
+DefLNotEqual := LNotEqualOp Operand Operand
+DefLLessEqual := LLessEqualOp Operand Operand
+DefLGreaterEqual := LGreaterEqualOp Operand Operand
+DefLEqual := LEqualOp Operand Operand
+DefLGreater := LGreaterOp Operand Operand
+DefLLess := LLessOp Operand Operand
+DefToBuffer := ToBufferOp Operand Target
+DefToDecimalString := ToDecimalStringOp Operand Target
+DefToHexString := ToHexStringOp Operand Target
+DefToInteger := ToIntegerOp Operand Target
+DefToString := ToStringOp TermArg LengthArg Target
+DefCopyObject := CopyObjectOp TermArg SimpleName
+TermArg TermArg TermArg Target
+DefMid := MidOp MidObj TermArg TermArg Target
+DefIfElse := IfOp PkgLength Predicate TermList DefElse
+DefElse := Nothing | <ElseOp PkgLength TermList>
+DefWhile := WhileOp PkgLength Predicate TermList
+DefReturn := ReturnOp ArgObject
+ [ [
+![![
+"["[
+#[#[
+$[$[
+%[%[
+&[&[
+'['[
+([([
+)[)[
+*[*[
+0[0[
+1[1[
+2[2[
+3[3[
+#include "Filename"
+#include <Filename>
+#undef <Defined name>
+Delete a previous #define
+#if <Expression>
+#ifdef <Defined name>
+#ifndef <Defined name>
+#elif <Expression>
+#else
+#endif
+#line <LineNumber> [Filename]
+#error "String"
+#warning "String"
+#pragma message "String"
+__FILE__
+__PATH__
+__LINE__
+__DATE__
+Return the current date
+__IASL__
+AccessAttribKeyword
+AccessTypeKeyword
+Field Access Types
+AddressingModeKeyword
+Mode - Resource Descriptors
+AddressKeyword
+ACPI memory range types
+AddressSpaceKeyword
+BusMasterKeyword
+DMA Bus Mastering
+:= BusMaster | NotBusMaster
+ByteLengthKeyword
+ClockPhaseKeyword
+ClockPolarityKeyword
+:= SubDecode | PosDecode
+DmaTypeKeyword
+EndianKeyword
+:= BigEndian | LittleEndian
+ExtendedAttribKeyword
+Extended Bus Attributes
+FlowControlKeyword
+InterruptLevelKeyword
+Interrupt Active Types
+InterruptTypeKeyword
+Interrupt Types
+:= Edge | Level
+IoDecodeKeyword
+:= Decode16 | Decode10
+IoRestrictionKeyword
+LockRuleKeyword
+:= Lock | NoLock
+MatchOpKeyword
+Types for Match Operator
+MaxKeyword
+:= MaxFixed | MaxNotFixed
+MemTypeKeyword
+MinKeyword
+:= MinFixed | MinNotFixed
+ObjectTypeKeyword
+ACPI Object Types
+ParityKeyword
+PinConfigKeyword
+:= PolarityHigh | PolarityLow
+RangeTypeKeyword
+ReadWriteKeyword
+:= ReadWrite | ReadOnly
+RegionSpaceKeyword
+ResourceTypeKeyword
+SerializeRuleKeyword
+Control Method Serialization
+:= Serialized | NotSerialized
+ShareTypeKeyword
+SlaveModeKeyword
+StopBitsKeyword
+TransferWidthKeyword
+TranslationKeyword
+UpdateRuleKeyword
+Field Update Rules
+UserDefRegionSpace
+User defined address spaces
+:= IntegerData => 0x80 - 0xFF
+WireModeKeyword
+XferTypeKeyword
+DMA Transfer Types
+Standard include of an ASCII ASL source code file
+Alternate syntax for #include, alternate search path
+#includebuffer "Filename" <Name>
+Include a binary file to create AML Buffer with ASL namepath
+#includebuffer <Filename> <Name>
+Alternate syntax for #includebuffer, alternate search path
+#define <Name>, <Defined name>
+Simple macro definition (full macros not supported at this time)
+#define <Expression>, <Defined name>
+Evaluate <Expression> and test return value
+Test existence of the <Defined Name>
+Test non-existence of the <Defined Name>
+Else-If contraction - evaluate #if <Expression>, test return value
+Execute alternate case for a previous #if, #ifdef or #ifndef block
+Close a previous #if, #ifdef or #ifndef block
+Set the current ASL source code line number, optional filename
+Emit error message and abort compilation
+Emit an iASL warning at this location in the ASL source
+#pragma disable (Error number)
+Disable an iASL error or warning number
+Emit an informational message to the output file(s)
+Return the simple filename of the current ASL file
+Return the full pathname of the current ASL file
+Borrow or rob
+Return the current line number within the current ASL file
+Permanently defined for the iASL compiler
+Serial Bus Attributes (with legacy SMBus aliases)
+:= AttribQuick (SMBusQuick) | AttribSendReceive (SMBusSendReceive) | AttribByte (SMBusByte) | AttribWord (SMBusWord) | AttribBlock (SMBusBlock) | AttribProcessCall (SMBusProcessCall) | AttribBlockProcessCall (SMBusProcessCall)
+:= AnyAcc | ByteAcc | WordAcc | DWordAcc | QWordAcc | BufferAcc
+:= AddressingMode7Bit | AddressingMode10Bit
+:= AddressRangeMemory | AddressRangeReserved | AddressRangeNVS | AddressRangeACPI
+Operation Region Address Space Types
+:= RegionSpaceKeyword | FFixedHW
+Bits per Byte - Resource Descriptors
+:= DataBitsFive | DataBitsSix | DataBitsSeven | DataBitsEight | DataBitsNine
+:= ClockPhaseFirst | ClockPhaseSecond
+:= ClockPolarityLow | ClockPolarityHigh
+Type of Memory Decoding - Resource Descriptors
+DMA Types - DMA Resource Descriptor
+:= Compatibility | TypeA | TypeB | TypeF
+Endian type - Resource Descriptor
+:= AttribBytes (AccessLength) | AttribRawBytes (AccessLength) | AttribRawProcessBytes (AccessLength)
+:= FlowControlNone | FlowControlXon | FlowControlHardware
+:= ActiveHigh | ActiveLow | ActiveBoth
+I/O Decoding - IO Resource Descriptor
+I/O Restriction - GPIO Resource Descriptors
+:= IoRestrictionNone | IoRestrictionInputOnly | IoRestrictionOutputOnly | IoRestrictionNoneAndPreserve
+Global Lock use for Field Operator
+:= MTR | MEQ | MLE | MLT | MGE | MGT
+Max Range Type - Resource Descriptors
+Memory Types - Resource Descriptors
+:= Cacheable | WriteCombining | Prefetchable | NonCacheable
+Min Range Type - Resource Descriptors
+:= UnknownObj | IntObj | StrObj | BuffObj | PkgObj | FieldUnitObj | DeviceObj | EventObj | MethodObj | MutexObj | OpRegionObj | PowerResObj | ProcessorObj | ThermalZoneObj | BuffFieldObj | DDBHandleObj
+:= ParityTypeNone | ParityTypeSpace | ParityTypeMark | ParityTypeOdd | ParityTypeEven
+Pin Configuration - GPIO Resource Descriptors
+:= PullDefault | PullUp | PullDown | PullNone
+I/O Range Types - Resource Descriptors
+:= ISAOnlyRanges | NonISAOnlyRanges | EntireRange
+Memory Access Types - Resource Descriptors
+:= UserDefRegionSpace | SystemIO | SystemMemory | PCI_Config | EmbeddedControl | SMBus | SystemCMOS | PciBarTarget | IPMI | GeneralPurposeIo, GenericSerialBus
+Resource Usage - Resource Descriptors
+:= ResourceConsumer | ResourceProducer
+Interrupt Sharing - Resource Descriptors
+:= Shared | Exclusive | SharedAndWake | ExclusiveAndWake
+:= ControllerInitiated | DeviceInitiated
+:= StopBitsZero | StopBitsOne | StopBitsOnePlusHalf | StopBitsTwo
+DMA Widths - Fixed DMA Resource Descriptor
+:= Width8bit | Width16bit | Width32bit | Width64bit | Width128bit | Width256bit
+Translation Density Types - Resource Descriptors
+:= SparseTranslation | DenseTranslation
+Translation Types - Resource Descriptors
+:= TypeTranslation | TypeStatic
+:= Preserve | WriteAsOnes | WriteAsZeros
+SPI Wire Mode - Resource Descriptors
+:= ThreeWireMode | FourWireMode
+:= Transfer8 | Transfer16 | Transfer8_16
+AccessAs
+ChangeFieldUnitAccess
+Acquire
+Acquire a mutex
+Integer Add
+Alias
+(SourceObject, AliasObject)
+Define a name alias
+Integer Bitwise And
+Arg0 - Arg6
+Method argument data objects
+BankField
+Break
+No parameters
+BreakPoint
+Declare Buffer object
+Case
+(Value) {TermList}
+Concatenate
+ConcatenateResTemplate
+CondRefOf
+(Source, Result) => Boolean
+Connection
+(ResourceMacro)
+Continue
+CopyObject
+Copy and existing object
+CreateBitField
+CreateByteField
+CreateDWordField
+CreateField
+CreateQWordField
+CreateWordField
+DataTableRegion
+Declare a Data Table Region
+Debug
+Debugger output
+Decrement
+(Minuend) => Integer
+Decrement an Integer
+Default
+DefinitionBlock
+Declare a Definition Block
+DerefOf
+(Source) => Object
+(DeviceName) {ObjectList}
+Declare a bus/device object
+Integer Divide
+DMA Resource Descriptor macro
+DWordIo
+DWordMemory
+DWordSpace
+EisaId
+(EisaIdString) => DWordConst
+Else
+ElseIf
+(Predicate)
+Conditional execution
+EndDependentFn
+() => Buffer
+(EventName)
+ExtendedIo
+ExtendedMemory
+ExtendedSpace
+External
+Declare external objects
+Fatal
+(Type, Code, Arg)
+Fatal error check
+FindSetLeftBit
+(Source, Result) => Integer
+FindSetRightBit
+FixedDma
+FixedIo
+FromBcd
+(BcdValue, Result) => Integer
+Convert from BCD to numeric
+Function
+Declare control method
+GpioInt
+GpioIo
+I2cSerialBus
+(Predicate) {TermList}
+Include
+(FilePathName)
+Include another ASL file
+Increment
+(Addend) => Integer
+Increment a Integer
+Index
+IndexField
+Declare Index/Data Fields
+Interrupt
+I/O Resource Descriptor macro
+IrqNoFlags
+LAnd
+(Source1, Source2) => Boolean
+Logical And
+LEqual
+Logical Equal
+LGreater
+Logical Greater
+LGreaterEqual
+Logical Not less
+LLess
+Logical Less
+LLessEqual
+Logical Not greater
+LNot
+(Source) => Boolean
+Logical Not
+LNotEqual
+Logical Not equal
+Load
+(Object, DDBHandle)
+LoadTable
+Load Table from RSDT/XSDT
+Local
+Local0 - Local7
+Method local data objects
+Logical Or
+Match
+Memory24
+Memory32
+Memory32Fixed
+Declare a control method
+Integer Modulo
+Integer Multiply
+(MutexName, SyncLevel)
+(ObjectName, Object)
+Declare a Named object
+NAnd
+Integer Bitwise Nand
+NoOp
+No operation
+Integer Bitwise Nor
+Integer Bitwise Not
+Notify
+(Object, NotificationValue)
+Notify Object of event
+ObjectType
+(Object) => Integer
+Type of object
+(ByteOffset)
+Constant One Object (1)
+Ones
+OperationRegion
+Declare an operational region
+Integer Bitwise Or
+Declare a package object
+PowerResource
+Processor
+Declare a processor package
+QWordIo
+QWordMemory
+QWordSpace
+RawDataBuffer
+(Object) => ObjectReference
+Create Reference to an object
+Register
+Release
+(SyncObject)
+ResourceTemplate
+Return
+None | () | (ReturnArg)
+Return from method execution
+Constant revision object
+Scope
+(Location) {ObjectList}
+Open named scope 
+ShiftLeft
+Integer shift value left
+ShiftRight
+Integer shift value right
+Signal
+SizeOf
+(ObjectName) => Integer
+(Milliseconds)
+SpiSerialBus
+Stall
+(Microseconds)
+StartDependentFn
+StartDependentFnNoPri
+() {ResourceList}
+Store
+Store object
+Integer Subtract
+Switch
+(Expression) {CaseTermList}
+ThermalZone
+Get 64-bit timer value
+(Value, Result) => Integer
+Convert Integer to BCD
+ToBuffer
+(Data, Result) => Buffer
+Convert data type to buffer
+ToDecimalString
+(Data, Result) => String
+ToHexString
+ToInteger
+(Data, Result) => Integer
+Convert data type to integer
+ToString
+Copy ASCII string from buffer
+ToUuid
+(AsciiString) => Buffer
+Convert Ascii string to UUID
+UartSerialBus
+Unicode
+(String) => Buffer
+Unload
+(Handle)
+Unload definition block
+VendorLong
+Vendor Resource Descriptor
+VendorShort
+Wait
+Wait on an Event
+While
+Conditional loop
+WordBusNumber
+Integer Bitwise Xor
+Zero
+Constant Zero object (0)
+(AccessType, AccessAttribKeyword | ExtendedAttribKeyword (AccessLength))
+(SyncObject, TimeoutValue) => Boolean
+(Addend1, Addend2, Result) => Integer
+(Source1, Source2, Result) => Integer
+(RegionName, BankName, BankValue, AccessTypeKeyword, LockRuleKeyword, UpdateRuleKeyword) {FieldUnitList}
+Declare fields in a banked configuration object
+Continue following the innermost enclosing While
+Used for debugging, stops execution in the debugger
+(BufferSize) {String or ByteList} => Buffer
+Expression for conditional execution
+(Source1, Source2, Result) => ComputationalData
+Concatenate two strings, integers or buffers
+(Source1, Source2, Result) => Buffer
+Concatenate two resource templates
+Conditional reference to an object
+Associate connection with FieldUnits within a Field object
+Continue innermost enclosing While loop
+(Source, Destination) => DataRefObject
+(SourceBuffer, BitIndex, BitFieldName)
+Declare a bit field object of a buffer object
+(SourceBuffer, ByteIndex, ByteFieldName)
+Declare a byte field object of a buffer object
+(SourceBuffer, ByteIndex, DWordFieldName)
+Declare a DWord field object of a buffer object
+(SourceBuffer, BitIndex, NumBits, FieldName)
+Declare an arbitrary length bit field of a buffer object
+(SourceBuffer, ByteIndex, QWordFieldName)
+Declare a QWord field object of a buffer object
+(SourceBuffer, ByteIndex, WordFieldName)
+Declare a Word field object of a buffer object
+(RegionName, SignatureString, OemIDString, OemTableIDString)
+Default execution path in Switch()
+(AmlFileName, TableSignature, ComplianceRevision, OemId, TableId, OemRevision) {TermList}
+Dereference an object reference
+(Dividend, Divisor, Remainder, Result) => Integer
+(DmaTypeKeyword, BusMasterKeyword, XferTypeKeyword, DescriptorName) {DmaChannelList} => Buffer
+(ResourceTypeKeyword, MinKeyword, MaxKeyword, DecodeKeyword, RangeTypeKeyword, AddressGranularity, AddressMinimum, AddressMaximum, AddressTranslation, RangeLength, ResourceSourceIndex, ResourceSource, DescriptorName, TypeKeyword, TranslationKeyword)
+DWord I/O Resource Descriptor macro
+(ResourceTypeKeyword, DecodeKeyword, MinKeyword, MaxKeyword, MemTypeKeyword, ReadWriteKeyword, AddressGranularity, AddressMinimum, AddressMaximum, AddressTranslation, RangeLength, ResourceSourceIndex, ResourceSource, DescriptorName, AddressKeyword, TypeKeyword)
+DWord Memory Resource Descriptor macro
+(ResourceType, ResourceTypeKeyword, DecodeKeyword, MinKeyword, MaxKeyword, TypeSpecificFlags, AddressGranularity, AddressMinimum, AddressMaximum, AddressTranslation, RangeLength, ResourceSourceIndex, ResourceSource, DescriptorName)
+DWord Space Resource Descriptor macro
+EISA ID String to Integer conversion macro
+Alternate conditional execution
+End Dependent Function Resource Descriptor macro
+Declare an event synchronization object
+(ResourceTypeKeyword, MinKeyword, MaxKeyword, DecodeKeyword, RangeTypeKeyword, AddressGranularity, AddressMinimum, AddressMaximum, AddressTranslation, RangeLength, TypeSpecificAttributes, DescriptorName, TypeKeyword, TranslationKeyword)
+Extended I/O Resource Descriptor macro
+(ResourceTypeKeyword, DecodeKeyword, MinKeyword, MaxKeyword, MemTypeKeyword, ReadWriteKeyword, AddressGranularity, AddressMinimum, AddressMaximum, AddressTranslation, RangeLength, TypeSpecificAttributes, DescriptorName, AddressKeyword, TypeKeyword)
+Extended Memory Resource Descriptor macro
+(ResourceType, ResourceTypeKeyword, DecodeKeyword, MinKeyword, MaxKeyword, TypeSpecificFlags, AddressGranularity, AddressMinimum, AddressMaximum, AddressTranslation, RangeLength, TypeSpecificAttributes, DescriptorName)
+Extended Space Resource Descriptor macro
+(ObjectName, ObjectTypeKeyword, ReturnType, ParameterTypes)
+(RegionName, AccessTypeKeyword, LockRuleKeyword, UpdateRuleKeyword) {FieldUnitList}
+Declare fields of an operation region object
+Index of first least significant bit set
+Index of first most significant bit set
+(DmaRequestLine, Channel, TransferWidthKeyword, DescriptorName) => Buffer
+Fixed DMA Resource Descriptor macro
+(AddressBase, RangeLength, DescriptorName) => Buffer
+Fixed I/O Resource Descriptor macro
+(FunctionName, ReturnType, ParameterTypes) {TermList}
+(InterruptTypeKeyword, InterruptLevelKeyword, ShareTypeKeyword, PinConfigKeyword, DebounceTimeout, ResourceSource, ResourceSourceIndex, ResourceTypeKeyword, DescriptorName, RawDataBuffer() {VendorData}) {Pin}
+GPIO Interrupt Connection Resource Descriptor Macro
+(ShareTypeKeyword, PinConfigKeyword, DebounceTimeout, DriveStrength, IoRestrictionKeyword, ResourceSource, ResourceSourceIndex, ResourceTypeKeyword, DescriptorName, RawDataBuffer() {VendorData}) {PinList}
+GPIO I/O Connection Resource Descriptor Macro
+(SlaveAddress, SlaveModeKeyword, ConnectionSpeed, AddressingModeKeyword, ResourceSource, ResourceSourceIndex, ResourceTypeKeyword, DescriptorName, RawDataBuffer() {VendorData})
+I2C Serial Bus Connection Resource Descriptor Macro
+(Source, Index, Destination) => ObjectReference
+Indexed Reference to member object
+(IndexName, DataName, AccessTypeKeyword, LockRuleKeyword, UpdateRuleKeyword) {FieldUnitList}
+(ResourceTypeKeyword, InterruptTypeKeyword, InterruptLevelKeyword, ShareTypeKeyword, ResourceSourceIndex, ResourceSource, DescriptorName) {InterruptList} => Buffer
+Interrupt Resource Descriptor macro
+(IoDecodeKeyword, AddressMin, AddressMax, AddressAlignment, RangeLength, DescriptorName) => Buffer
+(InterruptTypeKeyword, InterruptLevelKeyword, ShareTypeKeyword, DescriptorName) {InterruptList} => Buffer
+(DescriptorName) {InterruptList} => Buffer
+Short Interrupt Resource Descriptor macro
+Load differentiating definition block
+(SignatureString, OemIdString, OemTableIdString, RootPathString, ParameterPathString, ParameterData) => DDBHandle
+(SearchPackage, MatchOpKeyword, MatchObject1, MatchOpKeyword, MatchObject2, StartIndex) => Ones | Integer
+Search for match in package array
+(ReadWriteKeyword, AddressMinimum, AddressMaximum, AddressAlignment, RangeLength, DescriptorName)
+Memory Resource Descriptor macro
+(ReadWriteKeyword, AddressBase, RangeLength, DescriptorName)
+(MethodName, NumArgs, SerializeRuleKeyword, SyncLevel, ReturnType, ParameterTypes) {TermList}
+(Source, Index, Length, Result) => Buffer or String
+Return a portion of buffer or string
+(Dividend, Divisor, Result) => Integer
+(Multiplicand, Multiplier, Result) => Integer
+Declare a mutex synchronization object
+Change Current Field Unit Offset
+Constant Ones Object (0xFFFFFFFF or 0xFFFFFFFFFFFFFFFF)
+(RegionName, RegionSpaceKeyword, Offset, Length)
+(NumElements) {PackageList} => Package
+(ResourceName, SystemLevel, ResourceOrder) {ObjectList}
+Declare a power resource object
+(ProcessorName, ProcessorID, PBlockAddress, PblockLength) {ObjectList}
+QWord I/O Resource Descriptor macro
+QWord Memory Resource Descriptor macro
+Qword Space Resource Descriptor macro
+(BufferSize) {ByteList} => RawDataBuffer
+Create a raw data buffer (does not use Buffer AML opcode)
+(AddressSpaceKeyword, RegisterBitWidth, RegisterBitOffset, RegisterAddress, AccessSize, DescriptorName)
+Generic register Resource Descriptor macro
+Release a synchronization object
+Reset a synchronization object
+() {ResourceMacroList} => Buffer
+Resource to buffer conversion macro
+(Source, ShiftCount, Result) => Integer
+Signal a synchronization object
+Get the size of a buffer}, string}, or package
+Sleep n milliseconds (yields the processor)
+(DeviceSelection, PolarityKeyword, WireModeKeyword, DataBitLength, SlaveModeKeyword, ConnectionSpeed, ClockPolarityKeyword, ClockPhaseKeyword, ResourceSource, ResourceSourceIndex, ResourceTypeKeyword, DescriptorName, RawDataBuffer() {VendorData})
+SPI Serial Bus Connection Resource Descriptor Macro
+Delay n microseconds (does not yield the processor)
+Eleele
+(CompatibilityPriority, PerformancePriority) {ResourceList}
+Start Dependent Function Resource Descriptor macro
+(Minuend, Subtrahend, Result) => Integer
+Select code to execute based on expression value
+(ThermalZoneName) {ObjectList}
+Declare a thermal zone package
+Convert data type to decimal string
+Convert data type to hexadecimal string
+(Source, Length, Result) => String
+(ConnectionSpeed, ByteLengthKeyword, StopBitsKeyword, LinesInUse, EndianKeyword, ParityKeyword, FlowControlKeyword, ReceiveBufferSize, TransmitBufferSize, ResourceSource, ResourceSourceIndex, ResourceTypeKeyword, DescriptorName, RawDataBuffer() {VendorData})
+UART Serial Bus Connection Resource Descriptor Macro
+String to Unicode conversion macro
+(DescriptorName) {VendorByteList}
+(ResourceTypeKeyword, MinKeyword, MaxKeyword, DecodeKeyword, AddressGranularity, AddressMinimum, AddressMaximum, AddressTranslation, RangeLength, ResourceSourceIndex, ResourceSource, DescriptorName)
+Word Bus number Resource Descriptor macro
+Word I/O Resource Descriptor macro
+Word Space Resource Descriptor macro
+ (depending on descriptor type)
+      %4.4s resource descriptor field is %s bits wide%s
+Found %d Predefined ACPI Names
+%.8s: Predefined name must be 4 characters maximum
+%s, no matching predefined names
+%s, no matching AML operators
+Invalid opcode (more than 16 bits)
+Invalid opcode (invalid extension prefix 0x%X)
+%s, no matching ASL operators
+ACPI and PNP Device/Hardware IDs:
+%.8s: Hardware ID must be 8 characters maximum
+Byte encoding of UUID/GUID strings into ACPI Buffer objects (use ToUUID from ASL):
+aabbccdd-eeff-gghh-iijj-kkllmmnnoopp
+dd,cc,bb,aa, ff,ee, hh,gg, ii,jj, kk,ll,mm,nn,oo,pp
+All defined ACPICA exception codes:
+AE_OK                        (No error occurred)
+%s: Invalid hexadecimal exception code value
+Invalid exception code (more than 16 bits)
+%s: <%s>
+%*s%s
+%.*s 
+Reserved opcode
+%18s: Opcode=%-9s
+%18s: Opcode=%-9s Type (%s)
+ FixedArgs (
+ VariableArgs (
+%22s: %s
+iASL Preprocessor Directives
+  %-36s : %s
+%s, no matching ASL keywords
+%16s: %s
+(){}, 
+%8s   %s
+%s, Hardware ID not found
+ACPI-related UUIDs/GUIDs:
+Input UUID/GUID String format
+%32s : %s
+Expected output ACPI buffer
+%36s
+Known ACPI tables:
+%8s : %s
+Total %u ACPI tables
+%.4X: %s
+%.4X: %-28s (%s)
+Unknown exception code
+_ADRP
+_ALN8
+_ASI
+_ASZ
+_ATT@
+_BAS0
+_BM_
+_DBT
+_DEC
+_DMA
+_DPL
+_DRS
+_END
+_FLC
+_GRAp
+_HE_
+_INT0
+_IOR
+_LENx
+_LIN
+_LL_
+_MAF
+_MAXp
+_MEM
+_MIF
+_MINp
+_MOD
+_MTP
+_PAR
+_PHA
+_PIN
+_PPI
+_POL
+_RBO
+_RBW
+_RNG
+_RT_
+_RW_
+_RXL
+_SHR
+_SIZ
+_SLV
+_SPE 
+_STB
+_TRAp
+_TRS
+_TSF
+_TTP
+_TXL
+_TYP
+_VEN
+_AC0
+_AC1
+_AC2
+_AC3
+_AC4
+_AC5
+_AC6
+_AC7
+_AC8
+_AC9
+_ADR
+_AEI
+_AL0
+_AL1
+Do nine men interpret Nine men I nod
+_AL2
+_AL3
+_AL4
+_AL5
+_AL6
+_AL7
+_AL8
+_AL9
+_ALC
+_ALI
+_ALP
+_ALR
+_ALT
+_ART
+_BBN
+_BCL
+_BCM	
+_BCT	
+_BDN
+_BFS	
+_BIF
+_BIX
+_BLTK
+_BMA	
+_BMC	
+_BMD
+_BMS	
+_BQC
+_BST
+_BTH	
+_BTM	
+_BTP	
+_CBA
+_CCA
+_CDM
+_CID
+_CLS
+_CPC
+_CR3
+_CRS
+_CRT
+_CSD
+_CST
+_CWS	
+_DCK	
+_DCS
+_DDC	
+_DDN
+_DEP
+_DGS
+_DIS
+_DLM
+_DMA
+_DOD
+_DOS	
+_DSD
+_DSM\B?_DSS	
+_DSWK
+_DTI	
+_EC_
+_EDL
+_EJ0	
+_EJ1	
+_EJ2	
+_EJ3	
+_EJ4	
+_EJD
+_ERR
+_EVT	
+_FDE
+_FDI
+_FDM	
+_FIF
+_FIX
+_FPS
+_FSL	
+_FST
+_GAI
+_GCP
+_GHL
+_GLK
+_GPD
+_GPE
+_GRT
+_GSB
+_GTF
+_GTM
+_GTS	
+_GWS	
+_HID
+_HOT
+_HPP
+_HPX
+_HRV
+_IFT
+_INI
+_IRC
+_LCK	
+_LID
+_LPD
+_LPI
+_MAT
+_MBM
+_MLS
+_MSG	
+_MSML
+_MTL
+_NTT
+_OFF
+_ON_
+_OS_
+_OSC\2
+_OSTK
+_PAI	
+_PCL
+_PCT
+_PDC
+_PDL
+_PIC	
+_PIF
+_PLD
+_PMC
+_PMD
+_PMM
+_PPC
+_PPE
+_PR0
+_PR1
+_PR2
+_PR3
+_PRE
+_PRL
+_PRR
+_PRS
+_PRT
+_PRW
+_PS0
+_PS1
+_PS2
+_PS3
+_PSC
+_PSD
+_PSE	
+_PSL
+_PSR
+_PSS
+_PSV
+_PSW	
+_PTC
+_PTPJ
+_PTS	
+_PUR
+_PXM
+_RDI
+_REGJ
+_REV
+_RMV
+_ROMJ
+_RST
+_RTV
+_S0_
+_S1_
+_S2_
+_S3_
+_S4_
+_S5_
+_S1D
+_S2D
+_S3D
+_S4D
+_S0W
+_S1W
+_S2W
+_S3W
+_S4W
+_SBS
+_SCP	
+_SDD
+_SEG
+_SHL	
+_SLI
+_SPD	
+_SRS
+_SRT
+_SRV
+_SST	
+_STA
+_STM
+_STPJ
+_STR
+_STVJ
+_SUB
+_SUN
+_SWS
+_TC1
+_TC2
+_TDL
+_TFP
+_TIP	
+_TIV	
+_TMP
+_TPC
+_TPT	
+_TRT
+_TSD
+_TSN
+ _TSP
+_TSS
+_TST
+_TTS	
+_TZD
+_TZM
+ _TZP
+_UID
+_UPC
+_UPD
+_UPP
+_VPO
+_WAK	
+_WDG
+_WED	
+10EC5640
+Realtek I2S Audio Codec
+80860F09
+Intel PWM Controller
+80860F0A
+Intel Atom UART Controller
+80860F0E
+Intel SPI Controller
+80860F14
+80860F28
+Intel SST Audio DSP
+80860F41
+ACPI0001
+SMBus 1.0 Host Controller
+ACPI0002
+Smart Battery Subsystem
+ACPI0003
+Power Source Device
+ACPI0004
+Module Device
+ACPI0005
+SMBus 2.0 Host Controller
+ACPI0006
+GPE Block Device
+ACPI0007
+Processor Device
+ACPI0008
+Ambient Light Sensor Device
+ACPI0009
+I/O xAPIC Device
+ACPI000A
+I/O APIC Device
+ACPI000B
+I/O SAPIC Device
+ACPI000C
+Processor Aggregator Device
+ACPI000D
+Power Meter Device
+ACPI000E
+Time and Alarm Device
+ACPI000F
+ADMA0F28
+Intel Audio DMA
+AMCR0F28
+Intel Audio Machine Driver
+ATK4001
+Asus Radio Control Button
+ATML1000
+Atmel Touchscreen Controller
+AUTH2750
+AuthenTec AES2750
+BCM2E39
+BCM4752E
+Broadcom GPS Controller
+BMG0160
+Bosch Gyro Sensor
+CPLM3218
+DELLABCE
+DLAC3002
+FTTH5506
+HAD0F28
+Intel HDMI Audio Driver
+INBC0000
+GPIO Expander
+INT0002
+Virtual GPIO Controller
+INT0800
+INT3394
+ACPI System Fan
+INT3396
+INT33A0
+INT33A1
+Intel Power Engine
+INT33BB
+INT33BD
+Intel Baytrail Mailbox Device
+INT33BE
+Camera Sensor OV5693
+INT33C0
+INT33C1
+INT33C2
+INT33C3
+INT33C4
+INT33C5
+INT33C6
+Intel SD Host Controller
+INT33C7
+INT33C8
+INT33C9
+INT33CA
+Intel SPB Peripheral
+INT33CB
+INT33D1
+Intel GPIO Buttons
+INT33D2
+INT33D3
+INT33D4
+INT33D6
+Intel Virtual Buttons Device
+INT33F0
+Camera Sensor MT9M114
+INT33F4
+XPOWER PMIC Controller
+INT33F5
+TI PMIC Controller
+INT33FB
+MIPI-CSI Camera Sensor OV2722
+INT33FC
+INT33FD
+INT33FE
+XPOWER Battery Device
+INT3400
+INT3401
+INT3403
+DPTF Temperature Sensor
+INT3406
+INT3407
+DPTF Platform Power Meter
+INT340E
+INT3420
+Intel Bluetooth RF Kill
+INT3F0D
+ACPI Motherboard Resources
+INTCF1A
+Sony IMX175 Camera Sensor
+INTCFD9
+INTL9C60
+INVN6500
+LNXCPU
+Linux Logical CPU
+LNXPOWER
+LNXPWRBN
+System Power Button
+LNXSYBUS
+System Bus
+LNXSYSTM
+ACPI Root Node
+LNXTHERM
+ACPI Thermal Zone
+LNXVIDEO
+ACPI Video Controller
+MAX17047
+Fuel Gauge Controller
+MSFT0101
+TPM 2.0 Security Device
+NXP5442
+NXP5472
+NXP NFC
+PNP0000
+PNP0001
+EISA Interrupt Controller
+PNP0002
+MCA Interrupt Controller
+PNP0003
+IO-APIC Interrupt Controller
+PNP0100
+PC-class System Timer
+PNP0103
+HPET System Timer
+PNP0200
+PC-class DMA Controller
+PNP0300
+PNP0301
+PNP0302
+PNP0303
+PNP0400
+Standard LPT Parallel Port
+PNP0401
+ECP Parallel Port
+PNP0500
+Standard PC COM Serial Port
+PNP0501
+PNP0510
+PNP0800
+PNP0A03
+PCI Bus
+PNP0A05
+Generic Container Device
+PNP0A06
+PNP0A08
+PCI Express Bus
+PNP0B00
+AT Real-Time Clock
+PNP0B01
+PNP0B02
+PNP0C01
+System Board
+PNP0C02
+PNP Motherboard Resources
+PNP0C04
+PNP0C08
+ACPI Core Hardware
+PNP0C09
+Embedded Controller Device
+PNP0C0A
+Control Method Battery
+PNP0C0B
+Fan (Thermal Solution)
+PNP0C0C
+Power Button Device
+PNP0C0D
+Lid Device
+PNP0C0E
+Sleep Button Device
+PNP0C0F
+PCI Interrupt Link Device
+PNP0C10
+System Indicator Device
+PNP0C11
+PNP0C12
+Device Bay Controller
+PNP0C14
+PNP0C15
+Docking Station
+PNP0C40
+Standard Button Controller
+PNP0C50
+HID Protocol Device (I2C bus)
+PNP0C60
+Display Sensor Device
+PNP0C70
+Dock Sensor Device
+alula
+PNP0C80
+Memory Device
+PNP0D10
+PNP0D15
+PNP0D20
+PNP0D25
+PNP0D40
+PNP0D80
+PNP0F03
+Microsoft PS/2-style Mouse
+PNP0F13
+PS/2 Mouse
+RTL8723
+Realtek Wireless Controller
+SMB0349
+Charger
+SMO91D0
+Sensor Hub
+SMSC3750
+SMSC 3750 USB MUX
+SSPX0000
+Intel SSP Device
+TBQ24296
+Intel Baytrail SDIO/MMC Host Controller
+Intel Baytrail I2C Host Controller
+User Presence Detection Device
+Broadcom BT Serial Bus Driver over UART Bus Enumerator
+Capella Micro CM3218x Ambient Light Sensor
+Dell Airplane Mode Switch Driver
+Qualcomm Atheros Bluetooth UART Transport
+FocalTech 5506 Touch Controller
+Intel 82802 Firmware Hub Device
+Standard Power Management Controller
+Intel Smart Connect Technology Device
+Intel Baytrail SD Host Controller
+Intel Serial I/O SPI Host Controller
+Intel Serial I/O I2C Host Controller
+Intel Serial I/O UART Host Controller
+Intel Serial I/O GPIO Host Controller
+Intel Smart Sound Technology Host Controller
+Wolfson Microelectronics Audio WM5102
+Intel Smart Sound Technology Audio Codec
+Intel Baytrail GPIO Controller
+Intel Baytrail Power Management IC
+Intel Dynamic Power Performance Management
+Intel Extended Thermal Model CPU
+Intel Dynamic Platform & Thermal Framework Display Participant
+Intel Baytrail SOC GPIO Controller
+Intel Baytrail SOC DMA Controller
+InvenSense MPU-6500 Six Axis Gyroscope and Accelerometer
+ACPI Power Resource (power gating)
+NXP 5442 Near Field Communications Controller
+8259-compatible Programmable Interrupt Controller
+IBM PC/XT Keyboard Controller (83 key)
+IBM PC/XT Keyboard Controller (86 key)
+IBM PC/XT Keyboard Controller (84 key)
+IBM Enhanced Keyboard (101/102-key, PS/2 Mouse)
+16550A-compatible COM Serial Port
+Generic IRDA-compatible Device
+Microsoft Sound System Compatible Device
+Intel PIIX4-compatible RTC/CMOS Device
+Dallas Semiconductor-compatible RTC/CMOS Device
+x87-compatible Floating Point Processing Unit
+Windows Management Instrumentation Device
+XHCI USB Controller with debug
+XHCI USB Controller without debug
+EHCI USB Controller without debug
+EHCI USB Controller with debug
+SDA Standard Compliant SD Host Controller
+Windows-compatible System Power Management Controller
+_ADR
+_ACx
+Active Cooling
+_AEI
+ACPI Event Interrupts
+_ALC
+Ambient Light Chromaticity
+_ALI
+Ambient Light Illuminance
+_ALN
+Alignment
+_ALP
+Ambient Light Polling
+_ALR
+Ambient Light Response
+_ALT
+Ambient Light Temperature
+_ALx
+Active List
+_ART
+_ASI
+Address Space Id
+Resource Descriptor field
+_ASZ
+Access Size
+_ATT
+Type-Specific Attribute
+_BAS
+_BBN
+BIOS Bus Number
+_BCL
+Brightness Control Levels
+_BCM
+Brightness Control Method
+_BCT
+Battery Charge Time
+_BDN
+BIOS Dock Name
+_BFS
+Back From Sleep
+Inform AML of a wake event
+_BIF
+Battery Information
+_BIX
+Battery Information Extended
+_BLT
+Battery Level Threshold
+_BM_
+Bus Master
+_BMA
+_BMC
+Battery Maintenance Control
+_BMD
+Battery Maintenance Data
+_BMS
+_BQC
+Brightness Query Current
+_BST
+Battery Status
+_BTH
+Battery Throttle Limit
+_BTM
+Battery Time
+Returns the battery runtime
+_BTP
+Battery Trip Point
+_CBA
+Configuration Base Address
+_CCA
+Cache Coherency Attribute
+_CDM
+Clock Domain
+_CID
+Compatible ID
+_CLS
+Class Code
+_CPC
+_CR3
+Warm/Standby Temperature
+_CRS
+Current Resource Settings
+_CRT
+Critical Temperature
+_CSD
+C-State Dependencies
+_CST
+C-States
+_CWS
+Clear Wake Alarm Status
+_DBT
+Debounce Timeout
+_DCK
+Dock Present
+_DCS
+Display Current Status
+_DDC
+Display Data Current
+_DDN
+DOS Device Name
+Returns a device logical name
+_DEC
+_DEP
+_DGS
+Display Graphics State
+_DIS
+Disable Device
+Disables a device
+_DLM
+Device Lock Mutex
+_DMA
+Direct Memory Access
+_DOD
+Display Output Devices
+_DOS
+Disable Output Switching
+_DPL
+Device Selection Polarity
+_DRS
+Drive Strength
+Device-Specific Data
+_DSM
+Device-Specific Method
+_DSS
+Device Set State
+Sets the display device state
+_DSW
+Device Sleep Wake
+_DTI
+A Santa lives evil at NASA
+Device Temperature Indication
+_Exx
+Edge-Triggered GPE
+_EC_
+Embedded Controller
+_EDL
+Eject Device List
+_EJD
+Ejection Dependent Device
+_EJx
+Eject Device
+Endianness
+_EVT
+Event method for GPIO events
+_FDE
+Floppy Disk Enumerate
+_FDI
+Floppy Drive Information
+_FDM
+Floppy Drive Mode
+Sets a floppy drive speed
+_FIF
+Fan Information
+_FIX
+_FLC
+Flow Control
+_FPS
+Fan Performance States
+_FSL
+Fan Set Level
+_FST
+Fan Status
+_GAI
+Get Averaging Interval
+_GCP
+Get Capabilities
+Get device time capabilities
+_GHL
+Get Hardware Limit
+_GL_
+_GLK
+Get Global Lock Requirement
+_GPD
+Get Post Data
+_GPE
+General Purpose Events
+_GRA
+Granularity
+_GRT
+Get Real Time
+_GSB
+Global System Interrupt Base
+_GTF
+Get Task File
+_GTM
+Get Timing Mode
+_GTS
+Going To Sleep
+Inform AML of pending sleep
+_GWS
+Get Wake Status
+Return status of wake alarms
+_HE_
+High-Edge
+_HID
+Hardware ID
+_HOT
+Hot Temperature
+_HPP
+Hot Plug Parameters
+_HPX
+Hot Plug Parameter Extensions
+_HRV
+Hardware Revision
+_IFT
+IPMI Interface Type
+_INI
+Initialize
+_INT
+_IOR
+I/O Restriction
+_IRC
+Inrush Current
+_Lxx
+Level-Triggered GPE
+_LCK
+Lock Device
+_LEN
+Length
+_LID
+Lid Status
+_LIN
+Lines In Use
+_LL_
+Low Level
+_LPD
+Low Power Dependencies
+_LPI
+Low Power Idle States
+_MAF
+Maximum Address Fixed
+_MAT
+Multiple APIC Table Entry
+_MAX
+Maximum Base Address
+_MBM
+_MEM
+Memory Attributes
+_MIF
+Minimum Address Fixed
+_MIN
+Minimum Base Address
+_MLS
+Multiple Language String
+_MOD
+_MSG
+Message
+_MSM
+Memory Set Monitoring
+_MTL
+Minimum Throttle Limit
+_MTP
+Memory Type
+_NTT
+_OFF
+Power Off
+_ON_
+Power On
+_OS_
+Operating System
+_OSC
+Operating System Capabilities
+_OSI
+Operating System Interfaces
+_OST
+OSPM Status Indication
+_PAI
+Power Averaging Interval
+_PAR
+Parity
+_PCL
+Power Consumer List
+_PCT
+Performance Control
+_PDC
+Processor Driver Capabilities
+_PDL
+P-state Depth Limit
+_PHA
+Clock Phase
+_PIC
+Interrupt Model
+_PIF
+Power Source Information
+_PIN
+Pin List
+_PLD
+Physical Location of Device
+_PMC
+Power Meter Capabilities
+_PMD
+Power Metered Devices
+_PMM
+Power Meter Measurement
+_POL
+_PPC
+_PPE
+Polling for Platform Error
+_PPI
+Pin Configuration
+_PR0
+Power Resources for D0
+_PR1
+Power Resources for D1
+_PR2
+Power Resources for D2
+_PR3
+Power Resources for D3hot
+_PRE
+_PRL
+Power Source Redundancy List
+_PRR
+Power Resource for Reset
+Execute a reset on a device
+_PRS
+Possible Resource Settings
+_PRT
+PCI Routing Table
+_PRW
+Power Resources for Wake
+_PS0
+Power State 0
+_PS1
+Power State 1
+_PS2
+Power State 2
+_PS3
+Power State 3
+_PSC
+Power State Current
+_PSD
+Power State Dependencies
+_PSE
+Power State for Enumeration
+_PSL
+Passive List
+_PSR
+Power Source
+_PSS
+Performance Supported States
+_PSV
+Passive Temperature
+_PSW
+Power State Wake
+Sets a device's wake function
+_PTC
+Processor Throttling Control
+_PTP
+Power Trip Points
+_PTS
+Prepare To Sleep
+_PUR
+Processor Utilization Request
+_PXM
+Device Proximity
+_Qxx
+EC Query
+_RBO
+Register Bit Offset
+_RBW
+Register Bit Width
+_RDI
+_REG
+Region Availability
+_REV
+Supported Integer Width
+_RMV
+Removal Status
+_RNG
+Range
+_RST
+Device Reset
+Executes a reset on a device
+_ROM
+Read-Only Memory
+_RT_
+Resource Type
+_RTV
+Relative Temperature Values
+_RW_
+Read-Write Status
+_RXL
+Receive Buffer Size
+S0 System State
+S1 System State
+S2 System State
+S3 System State
+S4 System State
+S5 System State
+_S1D
+S1 Device State
+_S2D
+S2 Device State
+_S3D
+S3 Device State
+_S4D
+S4 Device State
+_S0W
+S0 Device Wake State
+_S1W
+S1 Device Wake State
+_S2W
+S2 Device Wake State
+_S3W
+S3 Device Wake State
+_S4W
+S4 Device Wake State
+_SB_
+_SBS
+_SCP
+Set Cooling Policy
+_SDD
+Set Device Data
+Sets data for a SATA device
+_SEG
+PCI Segment
+_SHL
+Set Hardware Limit
+_SHR
+Sharable
+_SI_
+System Indicators
+Predefined scope
+_SIZ
+_SLI
+System Locality Information
+_SLV
+Slave Mode
+_SPD
+Set Post Device
+_SPE
+Speed
+_SRS
+Set Resource Settings
+_SRT
+Set Real Time
+_SRV
+IPMI Spec Revision
+_SST
+System Status
+_STA
+_STB
+Stop Bits
+_STM
+Set Timing Mode
+_STP
+Set Expired Timer Wake Policy
+_STR
+Description String
+God A red nugget A fat egg under a dog
+_STV
+Set Timer Value
+_SUB
+Subsystem ID
+_SUN
+Slot User Number
+_SWS
+System Wake Source
+_T_x
+Emitted by ASL Compiler
+_TC1
+Thermal Constant 1
+_TC2
+Thermal Constant 2
+_TDL
+T-State Depth Limit
+_TFP
+Thermal Fast Sampling Period
+_TIP
+_TIV
+Timer Values
+_TMP
+_TPC
+_TPT
+Trip Point Temperature
+_TRA
+Translation
+_TRS
+Translation Sparse
+_TRT
+Thermal Relationship Table
+_TSD
+Throttling State Dependencies
+_TSF
+Type-Specific Flags
+_TSN
+Thermal Sensor Device
+_TSP
+Thermal Sampling Period
+_TSS
+Throttling Supported States
+_TST
+Temperature Sensor Threshold
+_TTP
+Translation Type
+_TTS
+Transition To State
+_TXL
+Transmit Buffer Size
+_TYP
+_TZ_
+Predefined scope: ACPI 1.0
+_TZD
+Thermal Zone Devices
+_TZM
+Thermal Zone Member
+_TZP
+Thermal Zone Polling
+_UID
+Unique ID
+_UPC
+USB Port Capabilities
+_UPD
+User Presence Detect
+_UPP
+User Presence Polling
+_VEN
+Vendor Data
+_VPO
+Video Post Options
+_WAK
+_Wxx
+Wake Event
+Returns the active cooling policy threshold values
+Returns address of a device on parent bus, and resource field
+Returns a list of GPIO events to be used as ACPI events
+Returns the ambient light color chromaticity
+Returns the ambient light brightness
+Base alignment, Resource Descriptor field
+Returns the ambient light sensor polling frequency
+Returns the ambient light brightness to display brightness mappings
+Returns the ambient light color temperature
+Returns a list of active cooling device objects
+Active Cooling Relationship Table
+Returns thermal relationship information between platform devices and fan devices
+Range base address, Resource Descriptor field
+Returns the PCI bus number returned by the BIOS
+Returns a list of supported brightness control levels
+Sets the brightness level of the display device
+Returns time remaining to complete charging battery
+Returns the Dock ID returned by the BIOS
+Returns a Control Method Battery information block
+Returns a Control Method Battery extended information block
+Set battery level threshold preferences
+Battery Measurement Averaging Interval
+Sets battery measurement averaging interval
+Sets battery maintenance and control features
+Returns battery maintenance, control, and state data
+Battery Measurement Sampling Time
+Sets the battery measurement sampling time
+Returns the current display brightness level
+Returns a Control Method Battery status block
+Thermal limit for charging and discharging
+Sets a Control Method Battery trip point
+Sets the base address for a PCI Express host bridge
+Returns a device's support level for cache coherency
+Returns a logical processor's clock domain identifier
+Returns a device's Plug and Play Compatible ID list
+Returns PCI class code and subclass
+Continuous Performance Control
+Returns a list of performance control interfaces
+Temperature for a fast low power state
+Returns the current resource settings for a device
+Returns the shutdown critical temperature
+Returns a list of C-state dependencies
+Returns a list of supported C-states
+Clear the status of wake alarms
+Timeout value, Resource Descriptor field
+Sets docking isolation. Presence indicates device is a docking station
+Returns status of the display output device
+Returns the EDID for the display output device
+Device decoding type, Resource Descriptor field
+Returns a list of operation region dependencies
+Return the current state of the output device
+Defines mutex for OS/AML sharing
+Returns device current resources for DMA transactions, and resource field
+Enumerate all devices attached to the display adapter
+Sets the display output switching mode
+Polarity of Device Selection signal, Resource Descriptor field
+Drive Strength setting for GPIO connection, Resource Descriptor field
+Returns a list of device property information
+Executes device-specific functions
+Sets the sleep and wake transition states for a device
+Conveys native device temperature to the platform
+Method executed as a result of a general-purpose event
+returns EC offset and query information
+Returns a list of devices that are dependent on a device (docking)
+Returns the name of dependent (parent) device (docking)
+Begin or cancel a device ejection request (docking)
+Endian orientation, Resource Descriptor field
+Returns floppy disk configuration information
+Returns a floppy drive information block
+Returns fan device information
+Fixed Register Resource Provider
+Returns a list of devices that implement FADT register blocks
+Flow control, Resource Descriptor field
+Returns a list of supported fan performance states
+Control method that sets the fan device's speed level (performance state)
+Returns current status information for a fan device
+Returns the power meter averaging interval
+Returns the hardware limit enforced by the power meter
+OS-defined Global Lock mutex object
+Returns a device's Global Lock requirement for device access
+Returns the value of the VGA device that will be posted at boot
+Predefined scope (\_GPE) or SCI number for EC
+Address space granularity, Resource Descriptor field
+Returns current time-of-day from a time/alarm device
+Returns the GSB for a I/O APIC device
+Returns a list of ATA commands to restore a drive to default state
+Returns a list of IDE controller timing information
+Interrupt triggering, Resource Descriptor field
+Returns a device's Plug and Play Hardware ID
+Returns the critical temperature for sleep (entry to S4)
+Returns a list of hot-plug information for a PCI device
+Returns a list of hot-plug information for a PCI device. Supersedes _HPP
+Returns a hardware revision value
+See the Intelligent Platform Management Interface Specification
+Performs device specific initialization
+Interrupt mask bits, Resource Descriptor field
+Restriction type, Resource Descriptor field
+Presence indicates that a device has a significant inrush current draw
+Control method executed as a result of a general-purpose event
+Locks or unlocks a device (docking)
+Range length, Resource Descriptor field
+Returns the open/closed status of the lid on a mobile system
+Handshake lines, Resource Descriptor field
+Interrupt polarity, Resource Descriptor field
+Returns a list of dependencies for low power idle entry
+Returns a list of supported low power idle states
+Returns a list of MADT APIC structure entries
+Memory Bandwidth Monitoring Data
+Returns bandwidth monitoring data for a memory device
+Returns a device description in multiple languages
+Interrupt mode, Resource Descriptor field
+Sets the system message waiting status indicator
+Sets bandwidth monitoring parameters for a memory device
+Returns the minimum throttle limit for a thermal zone
+Notification Temperature Threshold
+Returns a threshold for device temperature change that requires platform notification
+Sets a power resource to the off state
+Sets a power resource to the on state
+Returns a string that identifies the operating system
+Inform AML of host features and capabilities
+Returns supported interfaces, behaviors, and features
+Inform AML of event processing status
+Sets the averaging interval for a power meter
+Parity bits, Resource Descriptor field
+Returns a list of devices powered by a power source
+Returns processor performance control and status registers
+Inform AML of processor driver capabilities
+Returns the lowest available performance P-state
+Clock phase, Resource Descriptor field
+Inform AML of the interrupt model in use
+Returns a Power Source information block
+Pin list, Resource Descriptor field
+Returns a device's physical location information
+Returns a list of Power Meter capabilities info
+Returns a list of devices that are measured by the power meter device
+Returns the current value of the Power Meter
+Performance Present Capabilities
+Returns a list of the performance states currently supported by the platform
+Returns the polling interval to retrieve Corrected Platform Error information
+Predefined scope for processor objects
+Returns a list of dependent power resources to enter state D0 (fully on)
+Returns a list of dependent power resources to enter state D1
+Returns a list of dependent power resources to enter state D2
+Returns a list of dependent power resources to enter state D3hot
+Power Resources for Enumeration
+Returns a list of dependent power resources to enumerate devices on a bus
+Returns a list of power source devices in the same redundancy grouping
+Returns a list of a device's possible resource settings
+Returns a list of PCI interrupt mappings
+Returns a list of dependent power resources for waking
+Sets a device's power state to D0 (device fully on)
+Sets a device's power state to D1
+Sets a device's power state to D2
+Sets a device's power state to D3 (device off)
+Returns a device's current power state
+Returns processor P-State dependencies
+Put a bus into enumeration power mode
+Returns a list of passive cooling device objects
+Returns the power source device currently in use
+Returns a list of supported processor performance states
+Returns the passive trip point temperature
+Returns throttling control and status registers
+Sets trip points for the Power Meter device
+Inform the platform of an impending sleep transition
+Returns the number of processors that the platform would like to idle
+Returns a device's proximity domain identifier
+Embedded Controller query and SMBus Alarm control method
+Resource Dependencies for Idle
+Returns a list of dependencies for idle states
+Inform AML code of an operation region availability change
+Returns the supported integer width (<= 1: 32 bits only, >=2: both 32 and 64 bits
+Returns a device's removal ability status (docking)
+Memory range type, Resource Descriptor field
+Returns a copy of the ROM data for a display device
+Returns temperature value information
+Serial channel buffer, Resource Descriptor field
+Returns values to enter the system into the S0 state
+Returns values to enter the system into the S1 state
+Returns values to enter the system into the S2 state
+Returns values to enter the system into the S3 state
+Returns values to enter the system into the S4 state
+Returns values to enter the system into the S5 state
+Returns the highest D-state supported by a device when in the S1 state
+Returns the highest D-state supported by a device when in the S2 state
+Returns the highest D-state supported by a device when in the S3 state
+Returns the highest D-state supported by a device when in the S4 state
+Returns the lowest D-state that the device can wake itself from S0
+Returns the lowest D-state for this device that can wake the system from S1
+Returns the lowest D-state for this device that can wake the system from S2
+Returns the lowest D-state for this device that can wake the system from S3
+Returns the lowest D-state for this device that can wake the system from S4
+Predefined scope for device and bus objects
+Returns the subsystem configuration
+Sets the cooling policy (active or passive)
+Returns a device's PCI Segment Group number
+Sets the hardware limit enforced by the Power Meter
+Interrupt share status, Resource Descriptor field
+DMA transfer size, Resource Descriptor field
+Returns a list of NUMA system localities
+Mode setting, Resource Descriptor field
+Sets which video device will be posted at boot
+Connection speed, Resource Descriptor field
+Sets a device's resource allocation
+Sets the current time for a time/alarm device
+Sets the system status indicator
+Returns the current status of a Device or Power Resource
+Serial channel stop bits, Resource Descriptor field
+Sets an IDE controller transfer timings
+Sets expired timer policies of the wake alarm device
+Returns a device's description string
+Set timer values of the wake alarm device
+Returns the subsystem ID for a device
+Returns the slot unique ID number
+Returns the source event that caused the system to wake
+Reserved for use by ASL compilers
+Returns TC1 for the passive cooling formula
+Returns TC2 for the passive cooling formula
+Returns the _TSS entry number of the lowest power throttling state
+Returns the sampling period for passive cooling
+Returns timer policies of the wake alarm device
+Returns remaining time of the wake alarm device
+Returns a thermal zone's current temperature
+Throttling Present Capabilities
+Returns the current number of supported throttling states
+Inform AML that a device's embedded temperature sensor has crossed a temperature trip point
+Address translation offset, Resource Descriptor field
+Sparse/dense flag, Resource Descriptor field
+Returns thermal relationships between platform devices
+Returns a list of T-state dependencies
+Returns a reference to a thermal sensor
+Returns the thermal sampling period for passive cooling
+Returns supported throttling state information
+Returns the minimum separation for a device's temperature trip points
+Translation/static flag, Resource Descriptor field
+Inform AML of an S-state transition
+Serial Channel buffer, Resource Descriptor field
+DMA channel type (speed), Resource Descriptor field
+Returns a list of device names associated with a Thermal Zone
+Returns a reference to the thermal zone of which a device is a member
+Returns a Thermal zone's polling frequency
+Return a device's unique persistent ID
+Returns a list of USB port capabilities
+Returns user detection information
+Returns the recommended user presence polling interval
+Returns the implemented video post options
+Inform AML that the system has just awakened
+Method executed as a result of a wake event
+acpihelp <options> [Name/Prefix | HexValue]
+AML (ACPI Machine Language) Names and Encodings:
+Find/Display both ASL operator and AML opcode name(s)
+Find/Display AML opcode name(s)
+ASL (ACPI Source Language) Names and Symbols:
+Find/Display ASL non-operator keyword(s)
+Find/Display ASL predefined method name(s)
+Find/Display ASL operator name(s)
+Find/Display ACPI/PNP Hardware ID(s)
+Display iASL Preprocessor directives
+Name/Prefix or HexValue not specified means "Display All"
+Default search with valid Name/Prefix and no options:
+    Find ASL/AML operator names - if NamePrefix does not start with underscore
+    Find ASL predefined method names - if NamePrefix starts with underscore
+Intel ACPI Component Architecture
+Copyright (c) 2000 - 2016 Intel Corporation
+Usage: %s
+Options:
+Display help
+  %-20s%s
+Display version information
+-a [Name/Prefix]
+-m [Name/Prefix]
+ACPI Values:
+Decode ACPICA exception code
+-e [HexValue]
+Decode hex AML opcode
+-o [HexValue]
+-k [Name/Prefix]
+-p [Name/Prefix]
+-s [Name/Prefix]
+Other ACPI Names:
+-i [Name/Prefix]
+Display supported ACPI tables
+Display ACPI-related UUIDs
+ACPI Help Utility
+%s version %8.8X%s
+adehikmopstuv
+BERT
+ASF!
+Alert Standard Format table
+Boot Error Record Table
+BGRT
+Boot Graphics Resource Table
+BOOT
+Simple Boot Flag Table
+CPEP
+CSRT
+Core System Resource Table
+DBG2
+Debug Port table type 2
+DBGP
+Debug Port table
+DMAR
+DMA Remapping table
+DRTM
+DSDT
+ECDT
+EINJ
+Error Injection table
+ERST
+FACS
+FACP
+FPDT
+GTDT
+HEST
+Hardware Error Source Table
+HPET
+IORT
+IO Remapping Table
+IVRS
+LPIT
+Low Power Idle Table
+APIC
+MCFG
+MCHI
+MPST
+Memory Power State Table
+MSCT
+MSDM
+MTMR
+MID Timer Table
+NFIT
+PCCT
+PMTT
+RSDP
+RSDT
+Root System Description Table
+S3PT
+S3 Performance Table
+SBST
+SLIC
+SLIT
+SPCR
+SPMI
+SRAT
+SSDT
+STAO
+Status Override table
+TCPA
+TPM2
+UEFI
+UEFI Boot Optimization Table
+VRTC
+Virtual Real-Time Clock Table
+WAET
+WDAT
+Watchdog Action Table
+WDDT
+Watchdog Description Table
+WDRT
+Watchdog Resource Table
+WPBT
+Windows Platform Binary Table
+XENV
+Xen Environment table
+Corrected Platform Error Polling table
+Dynamic Root of Trust for Measurement table
+Differentiated System Description Table (AML table)
+Embedded Controller Boot Resources Table
+Error Record Serialization Table
+Firmware ACPI Control Structure
+Fixed ACPI Description Table (FADT)
+Firmware Performance Data Table
+Generic Timer Description Table
+High Precision Event Timer table
+I/O Virtualization Reporting Structure
+Multiple APIC Description Table (MADT)
+Memory Mapped Configuration table
+Management Controller Host Interface table
+Maximum System Characteristics Table
+Microsoft Data Management table
+NVDIMM Firmware Interface Table
+Platform Communications Channel Table
+Platform Memory Topology Table
+Root System Description Pointer
+Smart Battery Specification Table
+Software Licensing Description Table
+System Locality Information Table
+Serial Port Console Redirection table
+Server Platform Management Interface table
+System Resource Affinity Table
+Secondary System Description Table (AML table)
+Trusted Computing Platform Alliance table
+Trusted Platform Module hardware interface table
+Windows ACPI Emulated Devices Table
+Extended System Description Table
+[Controllers]
+USB Controller
+SATA Controller
+[Devices]
+PCI Host Bridge Device
+HID I2C Device
+[Interfaces]
+Device Labeling Interface
+Physical Presence Interface
+Volatile Memory Region
+Persistent Memory Region
+NVDIMM Control Region
+NVDIMM Data Region
+Volatile Virtual Disk
+Volatile Virtual CD
+Persistent Virtual Disk
+Persistent Virtual CD
+[Miscellaneous]
+Platform-wide Capabilities
+Dynamic Enumeration
+Battery Thermal Limit
+Thermal Extensions
+Device Properties for _DSD
+4f248f40-d5e2-499f-834c-27758ea1cd3f
+ce2ee385-00e6-48cb-9f05-2edb927c4899
+e4db149b-fcfe-425b-a6d8-92357d78fc7f
+33db4d5b-1ff7-401c-9657-7441c03dd766
+3cdff6f7-4267-4555-ad05-b30a3d8938de
+dfbcf3c5-e7a5-44e6-9c1f-29c76f6e059c
+e5c937d0-3553-4d7a-9117-ea4d19c3434d
+3dddfaa6-361b-4eb4-a424-8d10089d1653
+[Non-volatile DIMM and NFIT table]
+7305944f-fdda-44e3-b16c-3f22d252e5d0
+66f0d379-b4f3-4074-ac43-0d3318b78cdb
+92f701f6-13b4-405d-910b-299367e8234c
+91af0530-5d86-470e-a6b0-0a2db9408249
+77ab535a-45fc-624b-5560-f7b281d1f96e
+3d5abd30-4175-87ce-6d64-d2ade523c4bb
+5cea02c9-4d07-69d3-269f-4496fbe096f9
+08018188-42cd-bb48-100f-5387d53ded3d
+0811b06e-4a27-44f9-8d60-3cbbc22e7b48
+d8c1a3a6-be9b-4c9b-91bf-c3cb81fc5daf
+4c2067e3-887d-475c-9720-4af1d3ed602e
+14d399cd-7a27-4b18-8fb4-7cb7b9f4e500
+daffd814-6eba-4d8c-8a91-bc9bbf4aa301
+Option requires an argument: -
+Option requires a single-character suboption: -
+%s%c
+Illegal option: -
+Could not open file
+Error reading file
+Error writing file
+UNKNOWN_STATUS_CODE
+AE_CTRL_RETURN_VALUE
+A Method returned a value
+AE_CTRL_PENDING
+AE_CTRL_TERMINATE
+AE_CTRL_TRUE
+AE_CTRL_FALSE
+AE_CTRL_DEPTH
+AE_CTRL_END
+AE_CTRL_TRANSFER
+AE_CTRL_BREAK
+A Break has been executed
+AE_CTRL_CONTINUE
+A Continue has been executed
+AE_CTRL_SKIP
+Not currently used
+AE_CTRL_PARSE_CONTINUE
+Used to skip over bad opcodes
+AE_CTRL_PARSE_PENDING
+AE_AML_BAD_OPCODE
+AE_AML_NO_OPERAND
+A required operand is missing
+AE_AML_OPERAND_TYPE
+AE_AML_OPERAND_VALUE
+AE_AML_UNINITIALIZED_LOCAL
+AE_AML_UNINITIALIZED_ARG
+AE_AML_UNINITIALIZED_ELEMENT
+AE_AML_NUMERIC_OVERFLOW
+AE_AML_REGION_LIMIT
+AE_AML_BUFFER_LIMIT
+AE_AML_PACKAGE_LIMIT
+AE_AML_DIVIDE_BY_ZERO
+AE_AML_BAD_NAME
+AE_AML_NAME_NOT_FOUND
+AE_AML_INTERNAL
+AE_AML_INVALID_SPACE_ID
+AE_AML_STRING_LIMIT
+AE_AML_NO_RETURN_VALUE
+AE_AML_METHOD_LIMIT
+AE_AML_NOT_OWNER
+AE_AML_MUTEX_ORDER
+AE_AML_MUTEX_NOT_ACQUIRED
+AE_AML_INVALID_RESOURCE_TYPE
+AE_AML_INVALID_INDEX
+AE_AML_REGISTER_LIMIT
+AE_AML_NO_WHILE
+AE_AML_ALIGNMENT
+AE_AML_NO_RESOURCE_END_TAG
+No End Tag in a resource list
+AE_AML_BAD_RESOURCE_VALUE
+AE_AML_CIRCULAR_REFERENCE
+AE_AML_BAD_RESOURCE_LENGTH
+AE_AML_ILLEGAL_ADDRESS
+AE_AML_INFINITE_LOOP
+AE_AML_UNINITIALIZED_NODE
+AE_AML_TARGET_TYPE
+AE_BAD_SIGNATURE
+AE_BAD_HEADER
+AE_BAD_CHECKSUM
+AE_BAD_VALUE
+AE_INVALID_TABLE_LENGTH
+AE_BAD_PARAMETER
+AE_BAD_CHARACTER
+AE_BAD_PATHNAME
+AE_BAD_DATA
+AE_BAD_HEX_CONSTANT
+AE_BAD_OCTAL_CONSTANT
+AE_BAD_DECIMAL_CONSTANT
+AE_MISSING_ARGUMENTS
+AE_BAD_ADDRESS
+An illegal null I/O address
+AE_OK
+No error
+AE_ERROR
+Unspecified error
+AE_NO_ACPI_TABLES
+AE_NO_NAMESPACE
+AE_NO_MEMORY
+Insufficient dynamic memory
+AE_NOT_FOUND
+AE_NOT_EXIST
+AE_ALREADY_EXISTS
+An entity already exists
+AE_TYPE
+The object type is incorrect
+AE_NULL_OBJECT
+A required object was missing
+AE_NULL_ENTRY
+AE_BUFFER_OVERFLOW
+AE_STACK_OVERFLOW
+An internal stack overflowed
+AE_STACK_UNDERFLOW
+An internal stack underflowed
+AE_NOT_IMPLEMENTED
+AE_SUPPORT
+The feature is not supported
+AE_LIMIT
+AE_TIME
+AE_ACQUIRE_DEADLOCK
+AE_RELEASE_DEADLOCK
+AE_NOT_ACQUIRED
+AE_ALREADY_ACQUIRED
+AE_NO_HARDWARE_RESPONSE
+AE_NO_GLOBAL_LOCK
+There is no FACS Global Lock
+AE_ABORT_METHOD
+A control method was aborted
+AE_SAME_HANDLER
+AE_NO_HANDLER
+AE_OWNER_ID_LIMIT
+AE_NOT_CONFIGURED
+AE_ACCESS
+AE_IO_ERROR
+An I/O error occurred
+Method is calling another method
+Beeb
+Terminate the executing method
+An If or While predicate result
+Maximum search depth has been reached
+An If or While predicate is false
+Transfer control to called method
+Used to implement AML While loops
+Invalid AML opcode encountered
+An operand of an incorrect type was encountered
+The operand had an inappropriate or invalid value
+Method tried to use an uninitialized local variable
+Method tried to use an uninitialized argument
+Method tried to use an empty package element
+Overflow during BCD conversion or other
+Tried to access beyond the end of an Operation Region
+Tried to access beyond the end of a buffer
+Tried to access beyond the end of a package
+During execution of AML Divide operator
+An ACPI name contains invalid character(s)
+Could not resolve a named reference
+An internal error within the interprete
+An Operation Region SpaceID is invalid
+String is longer than 200 characters
+A method did not return a required value
+A control method reached the maximum reentrancy limit of 255
+A thread tried to release a mutex that it does not own
+Mutex SyncLevel release mismatch
+Attempt to release a mutex that was not previously acquired
+Invalid resource type in resource list
+Invalid Argx or Localx (x too large)
+Bank value or Index value beyond range of register
+Break or Continue without a While
+Non-aligned memory transfer on platform that does not support this
+Invalid value of a resource element
+Two references refer to each other
+The length of a Resource Descriptor in the AML is incorrect
+A memory, I/O, or PCI configuration address is invalid
+An apparent infinite AML While loop, method was aborted
+A namespace node is uninitialized or unresolved
+A target operand of an incorrect type was encountered
+An ACPI table has an invalid signature
+Invalid field in an ACPI table header
+An ACPI table checksum is not correct
+An invalid value was found in a table
+The FADT or FACS has improper length
+A parameter is out of range or invalid
+An invalid character was found in a name
+An invalid character was found in a pathname
+A package or buffer contained incorrect data
+Invalid character in a Hex constant
+Invalid character in an Octal constant
+Invalid character in a Decimal constant
+Too few arguments were passed to a control method
+ACPI tables could not be found
+A namespace has not been loaded
+A requested entity is not found
+A required entity does not exist
+The requested object does not exist
+The buffer provided is too small
+The feature is not implemented
+A predefined limit was exceeded
+A time limit or timeout expired
+Internal error, attempt was made to acquire a mutex in improper order
+Internal error, attempt was made to release a mutex in improper order
+An attempt to release a mutex or Global Lock without a previous acquire
+Internal error, attempt was made to acquire a mutex twice
+Hardware did not respond after an I/O operation
+Attempt was made to install the same handler that is already installed
+A handler for the operation is not installed
+There are no more Owner IDs available for ACPI tables or control methods
+The interface is not part of the current subsystem configuration
+Permission denied for the requested operation
+_PR_
+Microsoft Windows NT
+\_S0_
+\_S1_
+\_S2_
+\_S3_
+\_S4_
+\_S5_
+0123456789ABCDEF(at least) 
+      
+    
+  Return value types: %s
+  No return value
+/variable
+, UNSUPPORTED-TYPE
+, Integer
+, String
+, Buffer
+Degas are we not drawn onward no In union drawn onward to new eras aged
+, Package
+/Integer
+/String
+/Buffer
+/Package
+/Reference
+**** Invalid argument count (%u) in predefined info structure
+**** Invalid argument type (%u) in predefined info structure
+%4.4s    Requires %s%u argument%s
+<NULL>
+0123456789ABCDEF
+0123456789abcdef
+;*3$"
+8644cfb6bc429c4354e4507ddabaa9ddf1ab32.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

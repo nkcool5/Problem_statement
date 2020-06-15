@@ -1,0 +1,1599 @@
+/lib64/ld-linux-x86-64.so.2
+H83 
+$@I"
+ 5@F%M
+I,uR
+><j&
+God A red nugget A fat egg under a dog
+1gUa
+qo8]
+)P<,y
+|!qj
+libaspell.so.15
+_Jv_RegisterClasses
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_ITM_registerTMCloneTable
+_ZN7acommon4Conv5setupERKNS_6ConfigERKNS_10ParmStringES6_NS_9NormalizeE
+_ZN7acommon8ObjStack5resetEv
+_ZN7acommon6String5writeEc
+_ZN7acommon6String9reserve_iEm
+_ZN7acommon17available_filtersEPNS_6ConfigE
+_ZN7acommon22available_filter_modesEPNS_6ConfigE
+_ZNK7acommon6Config4haveERKNS_10ParmStringE
+_ZN7acommon9HashTableINS_9StringMap5ParmsEE12create_tableEj
+_ZN7acommon8ObjStackC1Emm
+_ZNK7acommon12PosibErrBase10handle_errEv
+_ZN7acommon6String6appendEPKc
+_ZN7acommon9StringMap5clearEv
+_ZTIN7acommon17StringEnumerationE
+_ZN7acommon5MBLenclEPKcS2_
+_ZN7acommon7OStream6printlERKNS_10ParmStringE
+aspell_word_list_elements
+_ZN7acommon6Config19set_committed_stateEb
+_ZN7acommon12PosibErrBase7releaseEv
+_ZN7acommon7ConvertD1Ev
+_ZThn16_N7acommon7FStream5writeERKNS_10ParmStringE
+_ZNK8aspeller8Language12case_patternERKN7acommon10ParmStringE
+aspell_speller_check
+_ZNSt6vectorIbSaIbEE14_M_fill_insertESt13_Bit_iteratormb
+_ZN8aspeller25new_default_writable_dictEv
+_ZN8aspeller16WordListIterator3advEv
+aspell_speller_store_replacement
+aspell_string_enumeration_at_end
+aspell_string_enumeration_next
+_ZTSN7acommon17StringEnumerationE
+_ZN7acommon10ParmStringC1ERKNS_8PosibErrINS_6StringEEE
+_ZTSN7acommon16AddableContainerE
+_ZN7acommon3CINE
+_ZN7acommoneqERKNS_6StringEPKc
+_ZN7acommon8PosibErrIvED1Ev
+_ZN7acommonplERKNS_10ParmStringES2_
+aspell_speller_session_word_list
+_ZN8aspeller12new_languageERKN7acommon6ConfigERKNS0_10ParmStringE
+_ZN7acommon6StringD0Ev
+_ZN7acommon16fix_encoding_strERKNS_10ParmStringERNS_6StringE
+_ZN7acommon10new_configEv
+_ZN7acommon8PosibErrIvED2Ev
+_ZN7acommon8PosibErrINS_6StringEED1Ev
+_ZThn16_N7acommon7FStream5writeEc
+_ZNSt6vectorIjSaIjEE13_M_insert_auxEN9__gnu_cxx17__normal_iteratorIPjS1_EERKj
+aspell_error
+_ZN7acommon14new_string_mapEv
+_ZN7acommon6String6appendEPKvj
+_ZN7acommon6StringD1Ev
+_ZN8aspeller15open_affix_fileERKN7acommon6ConfigERNS0_7FStreamE
+_ZN7acommon20new_document_checkerEPNS_7SpellerE
+aspell_gettext_init
+_ZN7acommon8PosibErrINS_6StringEED2Ev
+_ZN7acommon10ParmStringC1ERKNS_6StringE
+aspell_speller_add_to_session
+_fini
+_ZN7acommon6StringD2Ev
+_ZN7acommon6String6assignEPKcm
+_ZN8aspeller16WordListIteratorC1EPN7acommon17StringEnumerationEPKNS_8LanguageEPNS1_7OStreamE
+_ZN7acommon19DictInfoEnumerationD0Ev
+_ZN8aspeller16WordListIterator4initERN7acommon6ConfigE
+_ZN7acommon12PosibErrBase7destroyEv
+aspell_speller_error
+_ZN7acommon14reload_filtersEPNS_7SpellerE
+_ZN7acommon10BlockSListINS_10StringPairEE9add_blockEj
+_ZN7acommon18release_cache_dataEPNS_15GlobalCacheBaseEPKNS_9CacheableE
+aspell_speller_error_message
+_ZN7acommon19DictInfoEnumerationD1Ev
+_ZTSN7acommon16MutableContainerE
+_ZN8aspeller11SpellerImpl10check_infoEv
+_ZN7acommon8ObjStackD1Ev
+aspell_error_message
+to_aspell_speller
+_ZNK8aspeller8Language11fake_expandERKN7acommon10ParmStringES4_RNS1_8ObjStackE
+_ZN7acommon6Config6removeERKNS_10ParmStringE
+_ZN7acommon7FStreamlsERKNS_10ParmStringE
+_ZTIN7acommon16AddableContainerE
+_ZN7acommon11rename_fileENS_10ParmStringES0_
+_ZN7acommon19DictInfoEnumerationD2Ev
+_ZNK7acommon6Config17possible_elementsEbb
+_ZN7acommon6Config3setEPNS0_5EntryEb
+_ZN7acommon5ConvPclEPc
+aspell_version_string
+_ZN7acommon6String5writeERKNS_10ParmStringE
+_ZN7acommon15DocumentChecker14set_status_funEPFvPvNS_5TokenEiES1_
+_ZN7acommon12PosibErrBase3delEv
+aspell_speller_suggest
+_ZN7acommon7FStream5closeEv
+_ZN7acommon9StringMap6removeERKNS_10ParmStringE
+aspell_speller_save_all_word_lists
+_ZN7acommon23set_mode_from_extensionEPNS_6ConfigENS_10ParmStringEP8_IO_FILE
+_ZN8aspeller28new_default_replacement_dictEv
+_ZN7acommon9HashTableINS_9StringMap5ParmsEE3delEv
+_ZNK8aspeller9WordEntry5writeERN7acommon7OStreamERKNS_8LanguageEPNS1_7ConvertE
+_ZN7acommon4COUTE
+_ZTSN7acommon9StringMapE
+_ZN7acommon7Convert15generic_convertEPKciRNS_6StringE
+_ZN7acommon8ObjStack9new_chunkEv
+_ZN8aspeller28create_default_readonly_dictEPN7acommon17StringEnumerationERNS0_6ConfigE
+_ZN7acommon6Config16read_in_settingsEPKS0_
+_ZN7acommon18get_dict_info_listEPNS_6ConfigE
+_ZN7acommon9StringMap3addERKNS_10ParmStringE
+_ZNSt6vectorIN7acommon6StringESaIS1_EE14_M_fill_insertEN9__gnu_cxx17__normal_iteratorIPS1_S3_EEmRKS1_
+_ZN8aspeller12add_data_setEN7acommon10ParmStringERNS0_6ConfigEPNS_8DictListEPNS_11SpellerImplES1_j
+_ZN7acommon16load_all_filtersEPNS_6ConfigE
+_ZNK7acommon6Config13retrieve_boolERKNS_10ParmStringE
+_ZN7acommon7OStream6printfEPKcz
+_ZNK8aspeller8AffixMgr6expandEN7acommon10ParmStringES2_RNS1_8ObjStackEi
+_ZN7acommon14ascii_encodingERKNS_6ConfigERKNS_10ParmStringE
+new_aspell_speller
+_ZTVN7acommon9StringMapE
+_ZN7acommon19DictInfoEnumeration4nextEv
+_ZNK8aspeller8Language8fix_caseENS_11CasePatternEPcPKc
+_ZTVN7acommon7FStreamE
+_ZN7acommon6Config15write_to_streamERNS_7OStreamEb
+_ZN7acommon15DocumentChecker7processEPKci
+_ZN7acommon10ParmStringC2ERKNS_6StringE
+_ZNK7acommon6Config12retrieve_anyERKNS_10ParmStringE
+aspell_word_list_size
+_ZTIN7acommon16MutableContainerE
+_ZTVN7acommon17StringEnumerationE
+_ZNK8aspeller8AffixMgr5munchEN7acommon10ParmStringEPNS_9GuessInfoEb
+delete_aspell_speller
+aspell_word_list_empty
+_ZN7acommon15DocumentChecker16next_misspellingEv
+delete_aspell_string_enumeration
+_ZN7acommon7FStream11append_lineERNS_6StringEc
+_ZTIN7acommon9StringMapE
+_ZN7acommon4CERRE
+_ZTVN7acommon6StringE
+_ZN7acommon9HashTableINS_9StringMap5ParmsEE6insertERKNS_10StringPairE
+_ZN7acommon9StringMapD0Ev
+_ZN7acommon7FStreamlsEd
+_ZN7acommon6String6appendEc
+_ZN7acommon10ParmStringC2ERKNS_8PosibErrINS_6StringEEE
+_ZN7acommon6Config7replaceERKNS_10ParmStringES3_
+_ZNK7acommon6Config8retrieveERKNS_10ParmStringE
+_ZN7acommon9StringMapD1Ev
+_ZNK7acommon6Config7keyinfoERKNS_10ParmStringE
+_ZN7acommon5ErrorD1Ev
+_ZN7acommon6Config10commit_allEPNS_6VectorIiEEPKc
+_ZN7acommon11remove_fileENS_10ParmStringE
+aspell_speller_add_to_personal
+_ZNSt6vectorIN7acommon6StringESaIS1_EE13_M_insert_auxEN9__gnu_cxx17__normal_iteratorIPS1_S3_EERKS1_
+_ZN7acommon5MBLen5setupERKNS_6ConfigERKNS_10ParmStringE
+_ZNK7acommon12DictInfoList8elementsEv
+_ZN7acommon20internal_new_convertERKNS_6ConfigENS_10ParmStringES3_bNS_9NormalizeE
+_ZN7acommon9StringMapD2Ev
+_ZN8aspeller13find_languageERN7acommon6ConfigE
+aspell_speller_personal_word_list
+libncursesw.so.5
+doupdate
+set_term
+clear
+winsdelln
+wnoutrefresh
+scrollok
+nonl
+setcchar
+delscreen
+waddch
+noecho
+getcchar
+newterm
+wgetch
+waddnstr
+endwin
+wins_wch
+wrefresh
+wget_wch
+wdelch
+werase
+winch
+wclrtoeol
+newwin
+wmove
+win_wch
+whline
+libtinfo.so.5
+halfdelay
+keypad
+tigetstr
+COLS
+stdscr
+libstdc++.so.6
+_ZTVN10__cxxabiv117__class_type_infoE
+_ZTVN10__cxxabiv120__si_class_type_infoE
+__cxa_pure_virtual
+_ZdlPv
+_ZSt20__throw_length_errorPKc
+_Znam
+_ZdaPv
+_Znwm
+libc.so.6
+fflush
+strcpy
+__printf_chk
+_IO_putc
+setlocale
+fopen
+signal
+__stack_chk_fail
+realloc
+clock
+abort
+stdin
+memchr
+bind_textdomain_codeset
+__assert_fail
+__ctype_get_mb_cur_max
+strtol
+isatty
+feof
+calloc
+strlen
+__cxa_atexit
+tcsetattr
+read
+memcmp
+dgettext
+stdout
+fputs
+memcpy
+fclose
+malloc
+raise
+nl_langinfo
+stderr
+__fxstat
+fileno
+fwrite
+strchr
+mblen
+fdopen
+wcstombs
+tcgetattr
+setvbuf
+memmove
+_IO_getc
+strcmp
+__libc_start_main
+ferror
+free
+_edata
+__bss_start
+NCURSESW_5.3.20021019
+NCURSESW_5.1.20000708
+NCURSES_TINFO_5.0.19991023
+CXXABI_1.3
+GLIBCXX_3.4
+GLIBC_2.4
+GLIBC_2.14
+GLIBC_2.2.5
+GLIBC_2.3.4
+AWAVAUATI
+D$`6
+x;Hc
+Hc4(H
+H95m
+H;=)
+H;=Z
+t!D8
+$t%H
+[]A\A]A^A_
+t$`H
+D$ Q
+T$ H
+T$@H
+t$0H
+T$PH
+L$XH
+ATUH
+[]A\
+{(H;{0H
+[]A\
+AVAUATUH
+]A\A]A^
+AVAUATUH
+]A\A]A^
+AVAUATUH
+]A\A]A^
+AWAVAUATUSH
+t$8H
+|$0H
+D$ H
+[@L9
+D$ H
+D$0H
+t$ H
+D$(H
+L$8H
+|$(H
+H[]A\A]A^A_
+@0H=
+D$(1
+D$(dH3
+ATUI
+|$ H
+Degas are we not drawn onward no In union drawn onward to new eras aged
+D$H1
+D$0H
+|$ H
+T$0H
+L$8j
+|$@H
+t$HdH34%(
+P[]A\
+ATUI
+|$ H
+D$H1
+D$0H
+|$ H
+D$0L
+|$@H
+L$HdH3
+P[]A\
+T$0H
+|$`H
+D$0I
+D$`H
+|$@H
+|$pH
+t$0H
+t$0H
+|$`H
+t$`H
+t$@H
+D$0H
+L$ H
+t$@H
+t$`H
+D$0H
+L$ H
+|$hH
+|$HH
+t$0H
+|$`H
+t$HH
+Borrow or rob
+T$PH
+|$`H)
+D$X1
+|$0H
+D$0H
+t$@H
+T$HH
+|$@H
+D$05
+t$0H
+D$XdH3
+H= GA
+ATUI
+[]A\
+ATU1
+D$(1
+D$(dH3
+0[]A\
+D$(1
+L$(dH3
+AUATUSH
+D$81
+\$ H
+D$ H
+HcZ(L
+T$(L
+d$ H
+T$ L)
+D$8dH3
+H[]A\A]
+ATUSH
+|$pH
+t$0H
+|$pH
+t$PH
+VHH;VPt+
+H;PPu
+l$ H
+L$pH
+L$pH
+|$pH
+D$pH
+D$xH
+|$xH
+|$XH
+|$8H
+[]A\
+|$pH
+L$pH
+AVAUATUSH
+T$PH
+|$0dH
+_v5H
+D$0H
+t$PH
+D$0H
+D$8H
+D$@H
+|$PH
+|$8H
+[]A\A]A^
+T$PH
+T$PH
+|$0H
+D$0H
+D$ t
+D$ H
+\$ A
+AUATE1
+|$ H
+D$ H
+l$(H
+|$`H
+|$`H
+|$`H
+|$`H
+t$`H
+D$`I
+D$`H
+l$@L
+d$PL
+D$`H
+D$@H
+D$0t
+D$0H
+D$`H
+D$`H
+D$`H
+\$hH
+t$`H
+[]A\A]
+T$0H
+|$`H
+d$PH
+D$0I
+t$`L
+l$@H
+T$0H
+|$`H
+D$0I
+t$`L
+|$`H
+ATUI
+[]A\H
+[]A\H
+AVAUUSH
+D$X1
+L$0H
+T$ H
+D$XdH3
+h[]A]A^
+@@ 7b
+D$0H
+D$ t
+D$ H
+|$0L
+t$0H
+t$@H
+T$HH
+AWAVAUATUSH
+D$X1
+d$0H)
+t$ H
+D$01
+D$ :
+D$ A
+T$@H
+L$HH
+|$PH
+D$XdH3
+h[]A\A]A^A_
+D$ (
+AUATUSH
+|$@H
+L$`H
+T$PH
+D$PO
+[]A\A]
+T$@H
+|$`H
+D$@T
+t$`H
+T$`H
+L$hH
+|$@H
+D$pH
+t$0H
+|$`H
+D$P5
+D$@H
+|$`H
+D$ #
+t$ H
+t$@H
+t$PH
+AUATUSH
+D$pH
+\$`H
+T$XH
+L$hH)
+alula
+|$PH
+T$XH
+D$XH
+t$`H
+D$ H)
+t$(H
+t$ H
+D$8H
+D$8H
+D$ H
+D$@H
+t$ H
+|$pH)
+t$XH
+|$PH
+t$XH
+D$ 6
+|$XH
+|$8H
+[]A\A]
+AWAVAUATUSH
+D$@H
+D$(H
+D$(H
+D$0H
+|$@H
+D$(H
+D$0H
+|$(H
+[]A\A]A^A_
+AWAVAUATUSH
+D$XH
+t$XH
+T$`H
+|$pH)
+D$xH
+\$xM
+|$8H
+d$@H
+\$0I
+D$XH
+T$HL
+5{}!
+5a}!
+t$0H
+5"}!
+t$0H
+D$XH
+D$ H
+D$`H
+t$@L
+5?{!
+t$0H
+T$@H
+t$0L
+|$(H
+|$xH
+|$XH
+[]A\A]A^A_
+t$PH
+|$p1
+|$p1
+AWAVAUATUSH
+5qz!
+=.z!
+D$(H
+D$(H
+D$0H
+|$ H
+D$0H
+|$(H
+l$(H
+l$HM
+|$PL
+t$`H
+|$@H
+|$`H
+|$`L
+|$@H
+|$`L
+|$@H
+|$hH
+|$HH
+|$(H
+[]A\A]A^A_
+5=t!
+T$0H
+D$X1
+D$0`7b
+D$ H
+T$8H
+|$0H
+|$0H
+D$0`7b
+D$XdH3
+AWAVI
+AUATE
+D$(1
+D$(dH3
+8[]A\A]A^A_
+AWAVAUATA
+D$H1
+=ap!
+D$HdH3
+X[]A\A]A^A_
+5-k!
+=\n!
+M;|$ H
+M9|$ 
+T$ H
+|$0I
+T$0L
+l$8H
+T$0L
+l$8H
+Tacocat
+D$0H
+|$0H
+H= GA
+AWAVAUATUSH
+5Lj!
+=ti!
+=<i!
+D$0H
+=5c!
+t$ H
+\$|H
+D$@H
+|$8H
+@0H=
+\$ H
+l$(f
+\$0H
+D$,H
+H	T$`H
+\$0H
+[]A\A]A^A_
+t$ H
+t$ H
+t$ H
+H	T$pH
+H	T$hH
+H	T$XH
+t$*H
+L+t$8f
+D$,H
+t$8L
+t$8I
+|$(H
+D$01
+@(H=0GA
+5ER!
+D$0H
+\$ H
+t$ H
+t$ H
+t$ H
+H	D$PH
+t$ H
+H	D$HH
+t$ H
+AWAVAUATUSH
+=CK!
+=sJ!
+=@J!
+-.J!
+=WI!
+=oH!
+=5H!
+t$ I
+HcZ(H
+l$hL
+l$`H
+@(H=0GA
+H+D$`H
+t$`H
+\$hH)
+t$`H
+|$PH
+T$PH
+|$PH
+=wD!
+T$PH
+|$hH;|$pH
+|$hH
+|$hH
+D$hH+D$`H
+|$@I
+|$(H
+l$hH
+\$`H9
+@(H=0GA
+l$`H
+[]A\A]A^A_
+|$hL
+H;|$pL
+D$<:
+T$PH
+|$PH
+t$<H
+CpH9Cx
+H#L$(
+<0~-
+D$`H
+=<<!
+|$@H
+T$PH
+L$XH
+T$PH
+t$PH
+T$HI
+|$@H
+T$HH
+AWAVAUATUSH
+=P7!
+517!
+|$@H
+D$@H
+|$HH
+\$`I
+T$xL
+D$`H
+l$`H
+D$(u
+T$(H
+D$ H
+D$(H
+H9D$ 
+H	D$
+L$`H
+t$8fE
+t$:fE
+L$`H
+D$xL
+t1f.
+L$`H
+L$`H
+t$8H
+t$:H
+T$`H
+t$(H
+p:fE
+T$8L
+T$8I
+D$0H
+p:fE
+p:fE
+t$ L
+t$PH
+t$`H
+d$ H
+[]A\A]A^A_
+AWAVAUATUSH
+|$^H
+=k'!
+t$_dH
+5G'!
+|$pH
+D$pH
+D$xH
+AXAYH
+D$Pu
+T$PH
+D$@H
+D$PH
+D$8H
+D$8H9D$@
+H	\$HH
+D$HH
+L$0@
+t$(D
+P ;U |
+D$8H
+D$PH
+D$ @
+D$ fE
+L$0L
+D$(H
+T$ @
+T$ L
+D$ u
+D$ H
+|$ H
+L9|$@
+D$ H
+L9|$@L
+Do nine men interpret Nine men I nod
+L9|$@u
+D$8u
+D$8H
+D$8H
+D$0H9D$@
+D$0H
+t$(I
+I+L$
+d$@I
+T$0I
+I+T$(I+D$
+t$0H
+D$(H
+t$(I
+T$0H
+A[A^H
+d$@M
+AYAZI
+tzf.
+x*H9
+A[A]
+AYAZ
+_AXu
+D$0H
+D$8H
+A^A_
+H9l$@u
+[]A\A]A^A_
+D$(H
+49I)
+t Hc
+Hc@(H
+tJf.
+|$(H
+|$(L
+\$HH
+AVAUATUSH
+u	E1
+ []A\A]A^
+AWAVAUATI
+[]A\A]A^A_
+]0t	H
+ATUSH
+@(H=0GA
+[]A\
+tUH	
+t8H	0
+t H	
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+ATUH
+[]A\
+ATUSL
+[]A\
+[]A\
+t5ATUH
+[]A\
+[]H)
+ATUI
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+ATUH
+C([]A\
+ATUSH
+C([]A\
+AWAVE
+AUATI
+n@dH
+D$H1
+|$@I
+D$@ZYH
+D$ H
+|$0H
+D$0H
+t$HdH34%(
+X[]A\A]A^A_
+D$8I
+D$@H
+D$@I
+AVAUE1
+ATUSL
+[]A\A]A^
+AWAVH
+AUATUSH
+8[]A\A]A^A_
+@(H=0GA
+|$(I
+d$ I
+8[]A\A]A^A_
+AVAUI
+f?UH
+[]A\A]A^
+AWAVI
+AUATI
+D$81
+T$ L
+D$8dH3
+H[]A\A]A^A_
+@(H=0GA
+,?L9
+AWAVH
+V AUATI
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+AVAUATUH
+F H+F
+l$ I
+\$(M
+D$HA
+T$PI+D$8H
+D$@H)
+l$HI
+t$8A
+\$PL
+[]A\A]A^
+AVAUI
+ATUS
+4)t\1
+]A\A]A^
+AWAVAUATI
+D$x1
+t$ I
+|$8H
+|$HH
+|$ H
+D$xdH3
+[]A\A]A^A_
+|$8H
+AWAVI
+AUATUSH
+[]A\A]A^A_
+uiH)
+AWAVI
+AUATUSH
+[]A\A]A^A_
+ukH)
+AWAVAUATI
+[]A\A]A^A_
+AVAUATUI
+D$(1
+L$(dH3
+0[]A\A]A^
+[]A\
+AWAVAUATUSH
+D$81
+r	H9
+,$L9
+@(H=0GA
+Eleele
+D$8dH3
+H[]A\A]A^A_
+,$M9
+T$ H
+T$ H
+AWAVAUATUSH
+~'f.
+[]A\A]A^A_
+[]A\A]A^A_
+r'H9
+[]A\A]A^A_
+AWAVAUATI
+[]A\A]A^A_
+AWAVAUATI
+t$ H
+[]A\A]A^A_
+AWAVAUATUSH
+t$ H
+T$(D
+\$(M
+A Santa lives evil at NASA
+t>I		H
+I!	H
+D$?M
+u	H9
+X[]A\A]A^A_
+D$8I
+D$HH
+t$8L
+L$HL
+I	4$
+I!4$
+X[]A\A]A^A_
+u	A9
+AWAVI
+AUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+rSH9
+[]A\A]A^A_
+AWAVI
+AUATA
+L+\$
+8[]A\A]A^A_
+t$(H
+AWAVAUATA
+H9,$
+([]A\A]A^A_
+AWAVH
+AUATH
+T$HH
+t$PH
+H;T$
+\$0H
+T$(L
+L$ L
+L$ H
+T$(L
+\$0u
+\$@L
+L$(L
+D$ H
+T$0L
+D$ L
+L$(H
+T$0L
+\$@tS
+D$HH
+L;t$P
+h[]A\A]A^A_
+|$8L
+\$0H
+T$(L
+L$ L
+L$ H
+T$(L
+t$XL
+\$0H
+T$(L
+L$ L
+T$(L
+L$ L
+L;t$PJ
+T$PA
+l$ H
+\$ L
+H+\$
+\$ L
+H+\$
+\$8L
+T$0L
+D$(H
+D$(L
+T$0L
+\$@L
+T$8L
+D$0H
+T$(H
+T$(L
+D$0L
+T$8L
+\$@t
+\$8L
+T$0L
+D$(H
+D$(L
+T$0L
+\$8uYH
+|$HL
+\$8L
+T$0L
+D$(H
+T$0L
+D$(H
+D$PH
+t$PL
+AWAVAUATUSH
+D$x1
+|$8H
+T$XH
+\$hH
+\$wH
+D$ L)
+D$PH
+|$8H
+\$(H
+|$hA
+|$ H
+|$PH
+D$ H
+t$(1
+D$0H
+\$0H9
+D$ H
+\$(L
+D$8H
+D$ H
+D$ H
+t$HH
+|$@L
+D$(L
+D$(L
+t$@L
+t$`H
+|$HL
+\$@H
+T$hH
+t$`H
+H+T$HH
+\$8H
+L$0L
+T$(L
+D$ H
+9D$ L
+T$(L
+D$0H
+D$PH
+D$8H
+AYAZu
+\$PH
+l$8H
+D$xdH3
+[]A\A]A^A_
+L$HL
+T$@H
+D$0H
+9D$0L
+T$@L
+L$@L
+T$0L
+t$(H
+|$ L
+L$@L
+|$wH
+\$8H
+|$wH
+|$PH
+t$ L
+|$(L
+t$(H
+AUATUSH
+[]A\A]
+Hc=&
+AVAUATI
+uHD9
+[]A\A]A^
+]A\A]A^
+AWAVAUD
+ATUSI
+Beeb
+tsIc
+[]A\A]A^A_
+AWAVAUATUSH
+.H;n
+[]A\A]A^A_
+AWAVAUATA
+/L;f
+([]A\A]A^A_
+AWAVAUATUSH
+D$H1
+Hch8H
+D$(H
+VUUU
+T$DH
+@hH9
+L$(H
+{ H9Xh
+VUUUD
+D$8D)
+D$(H
+PH;X
+D$(H;Xh
+L$DL
+D$(H9Xh
+D;D$$
+L;|$
+L;|$
+C I9
+D$8)
+;D$<
+D$HdH3
+X[]A\A]A^A_
+[(H)
+H+\$
+t$ L)
+L;|$
+T$DH
+L$(H
+XPH;Y
+l$DD
+\$(H
+D$(H
+D$(H;Xh
+L$(H
+AWAVAUATUSH
+[]A\A]A^A_
+	t.M
+[]A\A]A^A_
+[]A\A]A^A_
+~1f.
+AWAVAUATUSH
+D$x1
+t"E9
+t$0H
+|$PE1
+T$01
+t$PA
+D$xdH3
+[]A\A]A^A_
+t$0I
+T$(H
+|$PH
+|$8H
+t$0Hc
+D$8H
+T$(H
+|$PE1
+t$01
+|$0H
+L$$H
+|$0H)
+AVAUATUSH
+[]A\A]A^
+AWAVI
+AUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+rSH9
+[]A\A]A^A_
+ATUH
+c0H)
+C@H)
+[]A\
+-i} 
+[]A\
+nPH;k
+t|H9+tgH
+ATUH
+APH9G
+UhH9
+tlH9
+MHH)
+PH;E
+UhH9
+}@H;=
+[]A\
+@H9=ey 
+AUATUSH
+-'z 
+i0L+a8
+C8HcC(H
+C H)
+i0H)
+H8Mc
+[]A\A]
+56y 
+[]A\A]
+5Vx 
+H9Gh
+H;ChH
+{PH)
+PH;C
+H;Chu
+H9Ch
+stHcSpH
+AWAVAUATUSH
+McN(M
+[]A\A]A^A_
+AWAVH
+AUATUSH
+3333333
+t$h1
+|$HL
+D$hdH3
+x[]A\A]A^A_
+|$HL
+AWAVI
+AUATI
+3333333
+r	I9
+d$ H
+S(t	E
+D$ L)
+D$HH
+l$(L9
+d$HH
+]@L)
+e@M)
+tFf.
+t$ H
+[]A\A]A^A_
+D$@M
+l$8L
+|$hH
+\$pL
+t$xI
+D$XL
+|$0H
+D$ M
+L$PI
+t$PL
+d$HH
+D$(H
+D$ H
+t$8M
+l$@H
+{@M)
+k@I9
+|$XI
+L$(I
+L$PI
+D$`H
+\$pL
+|$hL
+t$xH
+f@M)
+d$8H
+l$@L+d$
+H+l$
+T$HE
+l$(L
+t$0D
+@t*I
+GHH)
+H;D$(
+H;D$
+l$(M
+d$8H
+l$@L+d$
+H+l$
+t$(H
+\$0D
+@t*I
+GHH)
+H;D$(
+H;D$
+l$HH
+[]A\A]A^A_
+AWAVA
+AUATL
+[]A\A]A^A_
+prog/aspell.cpp
+master
+setvbuf(stdin, 0, 1, 0) == 0
+setvbuf(stdout, 0, 1, 0) == 0
+x.size() == y.size()
++ %s
+Error: %s
+aspell
+encoding
+none
+Error: 
+Invalid Input
+./common/stack_ptr.hpp
+ptr==0
+utf-8
+true
+normalize
+false
+internal
+norm-strict
+norm-form
+validate-words
+validate-affixes
+clean-words
+clean-affixes
+skip-invalid-words
+%s/%s
+master-path
+personal
+aspeller
+module
+personal-path
+repl
+repl-path
+%s	%s
+[dont-]
+add|rem-
+=<str>
+=<int>
+  %-27s %s
+mode=email
+enter Email mode.
+mode
+  %s
+  %s filter: %s
+dont-
+  %-14s %s
+vector::reserve
+time
+suggest
+filter
+byte-offsets
+Time to load word list: 
+lang
+ %s%s
+# %s %u
+? %s 0 %u: %s
+Suggestion Time: %f
+& %s %u %u:
+reverse
+vector::_M_fill_insert
+You must specify a file name.
+.new
+keymapping
+ispell
+Invalid keymapping: %s
+Ignore
+Ignore all
+Replace
+Replace all
+Add Lower
+Abort
+Exit
+With: 
+.bak
+b != table.end()
+vector<bool>::_M_fill_insert
+q - tmp == s
+!entries[i]->aff
+simple
+single
+multi
+keep
+Invalid Option: %s
+You must specify an action
+Unknown Action: %s
+usage
+help
+version
+config
+dicts
+check
+pipe
+conv
+norm
+soundslike
+munch
+expand
+combine
+munch-list
+clean
+filters
+modes
+dump
+create
+merge
+affix
+<command> is one of:
+mode=html
+enter HTML mode.
+mode=tex
+enter TeX mode.
+mode=nroff
+enter Nroff mode.
+mode=debctrl
+enter Debctrl mode.
+ignore
+dont-backup
+dont-run-together
+dont-guess
+smaller.size() == larger.size()
+Error: bind_textdomain_codeset != nl_langinfo(CODESET)
+Sorry "filter" is currently unimplemented.
+@(#) International Ispell Version 3.1.20 (but really Aspell %s)
+Can't merge a master word list yet. Sorry.
+Sorry "create/merge personal" is currently unimplemented.
+Sorry "create/merge repl" is currently unimplemented.
+Usage: aspell [options] <command>
+Aspell %s.  Copyright 2000-2011 by Kevin Atkinson.
+Available Dictionaries:
+    Dictionaries can be selected directly via the "-d" or "master"
+    option.  They can also be selected indirectly via the "lang",
+    "variety", and "size" options.
+Available Filters (and associated options):
+    Filters can be added or removed via the "filter" option.
+Available Filter Modes:
+    Filter Modes are reconfigured combinations of filters optimized for
+    files of a specific type. A mode is selected via the "mode" option.
+    This will happen implicitly if Aspell is able to identify the file
+    type from the extension, and possibility the contents, of the file.
+WARNING: Unable to enter Nroff mode: %s
+Only one file name may be specified.
+Could not open the file "%s" for reading
+Could not open the file "%s" for writing. File not saved.
+Are you sure you want to abort (y/n)? 
+Sorry that is an invalid choice!
+!(ci->pre_flag && ci->suf_flag)
+0 <= e->rank && e->rank < (int)entries.size()
+"%s" is not a valid flag for the "munch-list" command.
+ does not take any parameters.
+You must specify a parameter for "%s".
+Error: You must specify at least %d parameters for "%s".
+  -?|usage         display a brief usage message
+  help             display a detailed help message
+  -c|check <file>  to check a file
+  -a|pipe          "ispell -a" compatibility mode
+  [dump] config    dumps the current configuration to stdout
+  config <key>     prints the current value of an option
+  [dump] dicts | filters | modes
+    lists available dictionaries / filters / filter modes
+[options] is any of the following:
+  list             produce a list of misspelled words from standard input
+  soundslike       returns the sounds like equivalent for each word entered
+  munch            generate possible root words and affixes
+  expand [1-4]     expands affix flags
+  clean [strict]   cleans a word list so that every line is a valid word
+  -v|version       prints a version line
+  munch-list [simple] [single|multi] [keep]
+    reduce the size of a word list via affix compression
+  conv <from> <to> [<norm-form>]
+    converts from one encoding to another
+  norm (<norm-map> | <from> <norm-map> <to>) [<norm-form>]
+    perform Unicode normalization
+  dump|create|merge master|personal|repl [<name>]
+    dumps, creates or merges a master, personal, or replacement dictionary.
+  <norm-form>      normalization form to use, either none, internal, or strict
+void merge(std::vector<bool>&, const std::vector<bool>&)
+void purge(std::vector<bool>&, const std::vector<bool>&)
+bool subset(const std::vector<bool>&, const std::vector<bool>&)
+void add_affix(acommon::HashTable<CML_Parms>::iterator, char, bool)
+void munch_list_complete(bool, bool)
+void munch_list_simple()
+void acommon::StackPtr<T>::reset(T*) [with T = acommon::Vector<Choice>]
+void acommon::StackPtr<T>::reset(T*) [with T = CheckerString]
+void line_buffer()
+void acommon::StackPtr<T>::reset(T*) [with T = acommon::Config]
+N7acommon17StringEnumerationE
+N7acommon16AddableContainerE
+N7acommon16MutableContainerE
+N7acommon9StringMapE
+18IstreamEnumeration
+.A) 
+cuu1
+cud1
+Error: Stdin not a terminal.
+prog/check_funs.cpp
+height > 0 && width > 0
+Accept Changes
+Enter
+Backspace
+Control-H
+Delete the previous character
+kcub1
+Left
+Control-B
+Move Back one space
+kcuf1
+Right
+Control-F
+Move Forward one space
+khome
+Home
+Control-A
+kend
+Control-E
+Move to the end of the line
+kdch1
+Delete
+Control-D
+Delete the next character
+Control-K
+Control-C
+Abort This Operation
+Move to the beginning of the line
+Kill all characters to the EOL
+void display_misspelled_word()
+prog/checker_string.cpp
+real_word_size_ > 0
+void CheckerString::replace(acommon::ParmString)
+;*3$"
+ddbac23d1b8f60cdcd5e3b448e9ff05d8f65af.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

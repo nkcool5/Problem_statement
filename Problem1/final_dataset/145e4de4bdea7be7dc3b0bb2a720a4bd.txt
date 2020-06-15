@@ -1,0 +1,5079 @@
+/lib64/ld-linux-x86-64.so.2
+_f &
+[2;*
+cEf<#
+libgtk-3.so.0
+g_object_new
+g_app_info_get_default_for_type
+g_get_current_dir
+g_list_reverse
+g_file_info_get_attribute_boolean
+g_malloc_n
+g_volume_monitor_get
+g_object_ref
+gdk_screen_get_resolution
+g_settings_get_boolean
+g_bus_get_sync
+g_option_context_parse
+g_option_context_add_group
+g_file_info_get_icon
+g_main_loop_is_running
+g_cclosure_marshal_VOID__INT
+g_get_application_name
+g_file_get_child_for_display_name
+g_settings_new
+gdk_x11_window_get_xid
+g_key_file_get_string_list
+g_return_if_fail_warning
+g_get_home_dir
+g_object_set_data_full
+g_value_get_enum
+g_mutex_clear
+g_file_query_info_async
+g_io_error_quark
+g_menu_model_iterate_item_links
+g_type_register_static_simple
+g_list_remove_link
+g_value_get_string
+gdk_pixbuf_get_type
+g_file_enumerate_children_finish
+g_settings_set
+g_path_is_absolute
+g_param_spec_boolean
+g_type_class_adjust_private_offset
+g_timeout_add
+g_variant_type_checked_
+g_strdupv
+g_get_charset
+g_cclosure_new
+g_format_size
+g_application_get_type
+g_error_free
+gdk_window_set_cursor
+g_variant_new_boolean
+g_type_add_interface_static
+g_cclosure_marshal_VOID__POINTER
+g_strndup
+g_key_file_load_from_file
+g_menu_attribute_iter_get_next
+g_variant_builder_end
+g_settings_set_enum
+g_variant_new_string
+g_slist_prepend
+g_propagate_error
+g_param_spec_string
+g_uri_list_extract_uris
+gdk_property_change
+gdk_event_free
+g_cclosure_marshal_VOID__STRING
+cairo_create
+gdk_app_launch_context_set_screen
+g_string_new
+g_str_equal
+g_file_info_get_content_type
+g_filename_to_uri
+g_param_spec_enum
+g_option_context_new
+g_application_hold
+g_file_has_uri_scheme
+g_error_new_literal
+g_list_length
+g_type_interface_peek
+g_action_map_lookup_action
+g_list_find
+g_log
+g_filename_to_utf8
+g_application_quit
+g_type_name
+g_file_info_get_is_backup
+g_main_loop_quit
+g_cancellable_cancel
+g_date_time_format
+g_path_get_basename
+g_variant_get_boolean
+g_list_append
+g_file_get_parse_name
+g_slist_find
+g_build_filename
+g_slist_length
+g_file_query_info_finish
+g_utf8_get_char
+g_hash_table_remove_all
+g_io_channel_set_encoding
+g_shell_quote
+g_file_delete
+g_value_set_uint
+cairo_rectangle
+g_file_get_path
+g_file_get_child
+g_file_read
+cairo_set_source_rgba
+g_file_info_get_attribute_uint64
+g_variant_new
+g_hash_table_get_keys
+g_list_free
+g_content_type_get_icon
+g_signal_handlers_disconnect_matched
+g_mutex_init
+g_hash_table_new_full
+g_filename_display_name
+g_file_query_info
+g_application_release
+g_error_copy
+g_signal_emit
+g_strdup
+g_simple_action_set_state
+g_value_get_object
+g_file_query_exists
+g_ascii_strncasecmp
+g_hash_table_insert
+g_strchomp
+g_file_is_native
+g_utf8_skip
+g_uri_unescape_string
+g_strdup_printf
+g_file_query_filesystem_info
+g_main_loop_run
+g_file_move
+g_menu_link_iter_get_next
+g_content_type_guess
+gdk_property_get
+g_malloc
+g_signal_new
+gdk_app_launch_context_set_timestamp
+g_list_remove
+g_ptr_array_sized_new
+g_main_loop_new
+g_hash_table_iter_init
+g_settings_schema_source_get_default
+g_settings_get_int
+g_value_take_object
+gdk_notify_startup_complete
+g_dir_close
+g_strsplit
+g_value_set_static_string
+g_list_concat
+g_utf8_collate_key_for_filename
+g_value_set_boolean
+g_boxed_type_register_static
+g_file_enumerator_next_files_async
+g_value_set_string
+g_cclosure_marshal_VOID__DOUBLE
+g_value_get_boolean
+g_string_insert_c
+g_type_instance_get_private
+g_variant_builder_init
+g_hash_table_lookup_extended
+g_list_last
+g_str_has_prefix
+g_get_tmp_dir
+g_cancellable_new
+g_idle_add
+g_find_program_in_path
+g_signal_connect_data
+g_action_map_add_action_entries
+g_once_init_enter
+g_unichar_isspace
+g_slice_alloc0
+g_error_matches
+g_menu_model_iterate_item_attributes
+g_signal_handler_disconnect
+cairo_clip_extents
+g_action_map_get_type
+g_hash_table_lookup
+g_cancellable_is_cancelled
+g_content_type_get_description
+g_file_info_get_is_hidden
+g_file_get_relative_path
+g_hash_table_iter_next
+g_intern_static_string
+g_variant_equal
+g_variant_ref
+g_file_enumerator_close_async
+g_strfreev
+g_strv_length
+cairo_surface_set_device_offset
+g_option_context_free
+g_type_class_unref
+g_mutex_lock
+g_list_free_full
+g_variant_get
+g_content_type_get_mime_type
+g_get_user_config_dir
+g_list_prepend
+g_file_mount_enclosing_volume_finish
+g_icon_equal
+g_getenv
+gdk_atom_intern_static_string
+g_str_hash
+gdk_property_delete
+g_static_resource_get_resource
+g_markup_printf_escaped
+g_themed_icon_new
+g_value_set_object
+_Jv_RegisterClasses
+g_file_hash
+gdk_drag_status
+g_file_info_get_display_name
+cairo_surface_destroy
+g_hash_table_unref
+g_file_enumerator_next_files_finish
+g_value_set_enum
+pango_font_description_get_size
+g_file_test
+g_object_set
+g_hash_table_replace
+g_mutex_unlock
+g_ptr_array_new
+g_menu_model_get_n_items
+g_file_info_dup
+g_object_get
+g_application_get_default
+g_object_class_install_property
+g_file_new_for_uri
+g_resources_open_stream
+gdk_drag_context_list_targets
+g_dir_open
+g_variant_unref
+g_file_get_basename
+g_menu_model_get_type
+g_dbus_method_invocation_return_value
+g_type_class_add_private
+g_key_file_set_string
+g_file_info_get_size
+g_param_spec_uint
+g_utf8_find_prev_char
+g_timeout_add_seconds
+g_list_find_custom
+g_date_time_new_now_local
+g_object_notify
+g_dbus_proxy_new_sync
+g_type_check_instance_is_a
+g_object_weak_ref
+g_print
+g_dpgettext
+g_object_set_property
+g_file_monitor_file
+g_dbus_method_invocation_return_error
+g_value_get_uint
+g_app_info_create_from_commandline
+g_key_file_to_data
+g_key_file_get_string
+g_quark_from_static_string
+g_settings_schema_source_lookup
+g_static_resource_init
+g_io_channel_unix_new
+g_file_info_get_file_type
+g_dir_read_name
+g_clear_error
+g_strconcat
+cairo_destroy
+g_option_context_add_main_entries
+g_dpgettext2
+g_hash_table_remove
+g_key_file_new
+g_static_resource_fini
+g_string_free
+g_file_make_directory
+g_option_context_set_ignore_unknown_options
+g_settings_set_int
+g_utf8_offset_to_pointer
+g_list_foreach
+g_object_set_data
+g_ptr_array_foreach
+gdk_display_flush
+g_object_unref
+g_cclosure_marshal_VOID__VOID
+g_once_init_leave
+g_date_time_unref
+g_warn_message
+g_value_peek_pointer
+g_file_info_get_attribute_string
+g_utf8_strlen
+g_ascii_strcasecmp
+gdk_screen_get_default
+g_strdup_vprintf
+gdk_drag_context_get_source_window
+g_slist_foreach
+gdk_display_get_app_launch_context
+g_malloc0_n
+g_type_class_ref
+g_simple_action_set_enabled
+g_settings_get
+g_list_copy
+g_key_file_free
+g_variant_get_string
+g_strchug
+g_realloc
+g_ptr_array_sort
+g_app_info_equal
+g_type_class_peek_parent
+g_app_info_supports_files
+g_file_new_for_path
+g_enum_register_static
+g_hash_table_destroy
+g_file_get_parent
+g_malloc0
+g_file_get_type
+g_ptr_array_add
+g_str_has_suffix
+g_ascii_strtoull
+g_settings_set_boolean
+g_variant_is_of_type
+g_value_init
+g_file_equal
+g_option_context_set_translation_domain
+g_slist_nth_data
+g_file_enumerate_children_async
+gdk_event_copy
+_ITM_deregisterTMCloneTable
+g_assertion_message_expr
+g_file_monitor_cancel
+g_string_append
+g_settings_get_strv
+g_slist_append
+g_regex_match_simple
+g_dbus_proxy_call_finish
+g_resources_get_info
+g_file_info_get_name
+g_file_info_has_attribute
+gdk_atom_intern
+g_file_get_uri
+g_file_info_get_attribute_byte_string
+g_variant_builder_add
+g_enum_get_value
+g_cclosure_marshal_VOID__BOOLEAN
+g_file_resolve_relative_path
+g_locale_to_utf8
+g_strjoinv
+g_uri_escape_string
+g_slice_free1
+g_value_unset
+cairo_set_source_surface
+g_file_mount_enclosing_volume
+g_settings_schema_unref
+g_list_sort
+pango_weight_get_type
+pango_ellipsize_mode_get_type
+cairo_fill
+g_param_spec_object
+g_file_enumerate_children
+g_dbus_proxy_call
+g_utf8_validate
+g_main_loop_unref
+__gmon_start__
+g_ptr_array_free
+g_list_nth
+g_object_get_data
+_ITM_registerTMCloneTable
+g_file_enumerator_close_finish
+gdk_window_create_similar_surface
+g_source_remove
+g_settings_get_enum
+g_dbus_proxy_get_type
+g_slist_free
+g_enum_get_value_by_nick
+g_strcmp0
+g_hash_table_new
+g_filename_display_basename
+g_io_channel_unref
+g_key_file_get_boolean
+gtk_tree_view_scroll_to_point
+gtk_clipboard_wait_for_contents
+gtk_drag_source_set
+gtk_text_buffer_insert
+gtk_menu_button_set_use_popover
+gtk_entry_set_icon_tooltip_text
+gtk_container_get_border_width
+gtk_get_option_group
+gtk_tree_path_copy
+gtk_orientable_set_orientation
+gtk_widget_new
+gtk_cell_renderer_text_new
+gtk_label_get_type
+gtk_spin_button_get_type
+gtk_progress_bar_pulse
+gtk_menu_get_type
+gtk_combo_box_text_get_type
+gtk_menu_button_set_menu_model
+gtk_dialog_set_default_response
+gtk_widget_set_visible
+gtk_window_add_accel_group
+gtk_message_dialog_new
+gtk_tree_sortable_get_sort_column_id
+gtk_app_chooser_dialog_new
+gtk_window_get_type
+gtk_tree_view_set_model
+gtk_entry_set_icon_from_icon_name
+gtk_window_present
+gtk_tree_view_column_pack_start
+gtk_menu_button_new
+gtk_icon_theme_get_default
+gtk_entry_set_icon_activatable
+gtk_widget_set_valign
+gtk_selection_data_get_length
+gtk_widget_get_window
+gtk_tree_view_column_pack_end
+gtk_menu_popup
+gtk_image_get_type
+gtk_search_entry_new
+gtk_clipboard_clear
+gtk_menu_shell_get_type
+gtk_window_set_default_size
+gtk_menu_new_from_model
+gtk_container_add
+gtk_list_store_set_column_types
+gtk_tree_selection_get_selected
+gtk_widget_show_all
+gtk_progress_bar_get_type
+gtk_grid_new
+gtk_icon_info_load_icon
+gtk_selection_data_get_data
+gtk_message_dialog_get_type
+gtk_button_new_from_icon_name
+gtk_box_pack_start
+gtk_label_set_mnemonic_widget
+gtk_tree_view_column_new
+gtk_tree_row_reference_free
+gtk_editable_select_region
+gtk_progress_bar_set_fraction
+gtk_container_get_type
+gtk_header_bar_set_show_close_button
+gtk_clipboard_get
+gtk_text_view_new
+gtk_tree_selection_path_is_selected
+gtk_button_box_get_type
+gtk_application_set_menubar
+gtk_drag_begin_with_coordinates
+gtk_toggle_button_get_type
+gtk_tree_view_get_column
+gtk_entry_new
+gtk_header_bar_pack_start
+gtk_info_bar_set_message_type
+gtk_paned_new
+gtk_style_context_remove_class
+gtk_entry_get_type
+gtk_clipboard_wait_is_target_available
+gtk_icon_theme_lookup_by_gicon
+gtk_widget_get_toplevel
+gtk_list_store_get_type
+gtk_recent_manager_add_item
+gtk_toggle_button_new
+gtk_button_new_with_label
+gtk_entry_set_visibility
+gtk_file_chooser_set_create_folders
+gtk_tree_store_clear
+gtk_widget_hide
+gtk_tree_model_get
+gtk_paned_get_type
+gtk_label_new
+gtk_search_bar_connect_entry
+gtk_target_list_unref
+gtk_entry_set_width_chars
+gtk_scrolled_window_new
+gtk_spin_button_get_value
+gtk_drag_dest_set
+gtk_label_set_text_with_mnemonic
+gtk_widget_get_mapped
+gtk_widget_get_preferred_size
+gtk_widget_destroy
+gtk_grid_attach
+gtk_tree_model_iter_next
+gtk_tree_row_reference_new
+gtk_info_bar_get_type
+gtk_tree_view_append_column
+gtk_search_bar_set_search_mode
+gtk_orientable_get_type
+gtk_tree_selection_unselect_all
+gtk_button_box_set_layout
+gtk_file_chooser_set_filter
+gtk_widget_set_vexpand
+gtk_file_filter_add_pattern
+gtk_check_menu_item_set_active
+gtk_widget_get_clipboard
+gtk_dialog_get_type
+gtk_drag_set_icon_surface
+gtk_tree_model_get_type
+gtk_dialog_get_content_area
+gtk_text_buffer_get_iter_at_offset
+gtk_tree_path_new_from_string
+gtk_recent_manager_remove_item
+gtk_window_group_add_window
+gtk_box_pack_end
+gtk_icon_size_lookup
+gtk_toggle_button_set_inconsistent
+gtk_dialog_get_action_area
+gtk_widget_get_display
+gtk_file_chooser_add_filter
+gtk_toggle_button_get_active
+gtk_size_group_new
+gtk_accel_group_new
+gtk_dialog_get_header_bar
+gtk_image_new_from_icon_name
+gtk_text_view_get_buffer
+gtk_widget_get_allocated_height
+gtk_header_bar_pack_end
+gtk_tree_sortable_get_type
+gtk_widget_set_size_request
+gtk_tree_model_iter_children
+gtk_entry_set_max_length
+gtk_css_provider_load_from_data
+gtk_tree_store_append
+gtk_places_sidebar_set_location
+gtk_tree_view_column_set_cell_data_func
+gtk_widget_has_focus
+gtk_file_chooser_set_select_multiple
+gtk_spin_button_set_value
+gtk_places_sidebar_get_type
+gtk_accelerator_parse
+gtk_label_get_text
+gtk_file_chooser_set_current_folder_file
+gtk_combo_box_set_active
+gtk_selection_data_get_format
+gtk_recent_manager_get_default
+gtk_application_get_windows
+gtk_application_set_app_menu
+gtk_tree_sortable_set_sort_func
+gtk_grid_get_type
+gtk_widget_get_type
+gtk_actionable_get_type
+gtk_tree_path_compare
+gtk_window_set_has_resize_grip
+gtk_widget_set_can_default
+gtk_tree_view_column_set_resizable
+gtk_dialog_set_response_sensitive
+gtk_list_store_remove
+gtk_target_list_new
+gtk_size_group_add_widget
+gtk_selection_data_free
+gtk_tree_view_column_get_width
+gtk_file_filter_set_name
+gtk_expander_get_type
+gtk_tree_model_get_iter_first
+gtk_style_context_add_provider_for_screen
+gtk_tree_view_row_activated
+gtk_window_get_screen
+gtk_drag_get_source_widget
+gtk_tree_view_set_search_column
+gtk_tree_view_new_with_model
+gtk_drag_finish
+gtk_text_view_set_cursor_visible
+gtk_tree_view_set_headers_visible
+gtk_widget_grab_focus
+gtk_file_chooser_set_extra_widget
+gtk_tree_view_get_selection
+gtk_paned_pack1
+gtk_paned_pack2
+gtk_builder_get_object
+gtk_dialog_run
+gtk_text_buffer_insert_with_tags_by_name
+gtk_tree_selection_select_iter
+gtk_list_store_set
+gtk_tree_model_get_iter
+gtk_tree_view_column_set_sort_column_id
+gtk_tree_view_get_path_at_pos
+gtk_propagate_event
+gtk_icon_theme_append_search_path
+gtk_menu_shell_append
+gtk_widget_get_screen
+gtk_widget_get_parent
+gtk_window_has_group
+gtk_box_new
+gtk_dialog_get_widget_for_response
+gtk_window_get_group
+gtk_render_frame
+gtk_css_provider_new
+gtk_tree_path_free
+gtk_window_set_titlebar
+gtk_scrolled_window_set_shadow_type
+gtk_list_store_append
+gtk_box_get_spacing
+gtk_entry_get_text
+gtk_tree_sortable_set_sort_column_id
+gtk_menu_button_get_type
+gtk_widget_set_tooltip_text
+gtk_file_chooser_set_local_only
+gtk_label_set_label
+gtk_dialog_add_buttons
+gtk_toggle_button_get_inconsistent
+gtk_tree_store_set
+gtk_tree_model_get_path
+gtk_menu_new
+gtk_message_dialog_format_secondary_text
+gtk_label_set_markup
+gtk_builder_add_from_file
+gtk_image_set_from_pixbuf
+gtk_settings_get_default
+gtk_button_new_with_mnemonic
+gtk_list_store_clear
+gtk_app_chooser_get_app_info
+gtk_file_chooser_dialog_new
+gtk_label_set_text
+gtk_text_view_get_type
+gtk_application_window_get_type
+gtk_cell_renderer_toggle_get_active
+gtk_actionable_set_action_name
+gtk_tree_row_reference_get_path
+gtk_render_background
+gtk_tree_view_get_bin_window
+gtk_window_has_toplevel_focus
+gtk_box_get_type
+gtk_label_new_with_mnemonic
+gtk_expander_set_expanded
+gtk_tree_view_column_new_with_attributes
+gtk_tree_view_set_cursor
+gtk_info_bar_new
+gtk_check_menu_item_get_type
+gtk_editable_get_type
+gtk_tree_selection_get_selected_rows
+gtk_clipboard_set_with_owner
+gtk_widget_get_state_flags
+gtk_tree_view_column_set_visible
+gtk_tree_view_set_rules_hint
+gtk_container_set_border_width
+gtk_search_bar_new
+gtk_tree_view_create_row_drag_icon
+gtk_file_chooser_get_type
+gtk_tree_view_get_type
+gtk_recent_manager_add_full
+gtk_header_bar_get_type
+gtk_dialog_add_action_widget
+gtk_widget_get_visible
+gtk_menu_item_new_with_label
+gtk_widget_get_realized
+gtk_paned_get_position
+gtk_menu_button_set_direction
+gtk_tree_view_column_set_title
+gtk_check_menu_item_get_active
+gtk_drag_check_threshold
+gtk_file_filter_new
+gtk_cell_renderer_toggle_new
+gtk_search_bar_get_type
+gtk_button_set_use_underline
+gtk_tree_view_expand_to_path
+gtk_text_view_set_editable
+gtk_combo_box_get_type
+gtk_widget_set_sensitive
+gtk_message_dialog_get_message_area
+gtk_selection_data_set
+gtk_window_set_default_icon_name
+gtk_cell_renderer_pixbuf_new
+gtk_tree_view_column_set_attributes
+gtk_tree_selection_iter_is_selected
+gtk_text_buffer_create_tag
+gtk_widget_is_toplevel
+gtk_dialog_add_button
+gtk_accel_group_connect
+gtk_file_filter_add_mime_type
+gtk_widget_get_style_context
+gtk_builder_add_from_resource
+gtk_tree_view_column_set_fixed_width
+gtk_widget_show
+gtk_button_set_label
+gtk_text_view_new_with_buffer
+gtk_tree_selection_selected_foreach
+gtk_scrolled_window_set_policy
+gtk_tree_selection_select_all
+gtk_app_chooser_get_type
+gtk_combo_box_get_active
+gtk_window_set_title
+gtk_info_bar_get_content_area
+gtk_drag_set_icon_default
+gtk_widget_get_allocated_width
+gtk_entry_set_text
+gtk_widget_set_hexpand
+gtk_application_get_type
+gtk_builder_new
+gtk_menu_button_set_popup
+gtk_window_set_destroy_with_parent
+gtk_list_store_new
+gtk_selection_data_get_target
+gtk_combo_box_text_append_text
+gtk_container_child_set
+gtk_text_buffer_new
+gtk_show_uri
+gtk_tree_view_set_enable_search
+gtk_scrolled_window_get_type
+gtk_window_get_size
+gtk_container_remove
+gtk_button_get_type
+gtk_box_set_spacing
+gtk_entry_get_visibility
+gtk_paned_set_position
+gtk_tree_view_get_model
+gtk_tree_model_row_changed
+gtk_show_about_dialog
+gtk_header_bar_new
+gtk_window_set_transient_for
+gtk_style_context_get
+gtk_tree_store_new
+gtk_window_group_new
+gtk_toggle_button_set_active
+gtk_tree_selection_set_mode
+gtk_menu_attach_to_widget
+gtk_style_provider_get_type
+gtk_header_bar_set_title
+gtk_tree_view_column_set_sizing
+gtk_style_context_add_class
+gtk_icon_theme_get_for_screen
+gtk_mount_operation_new
+gtk_window_set_resizable
+gtk_window_set_modal
+gtk_file_chooser_get_file
+libgdk-3.so.0
+g_input_stream_read
+g_settings_get_string
+g_locale_from_utf8
+g_timeout_add_full
+g_convert_error_quark
+g_app_launch_context_get_type
+g_output_stream_write_all
+gdk_cursor_new
+libpango-1.0.so.0
+libcairo.so.2
+libjson-glib-1.0.so.0
+g_input_stream_get_type
+g_output_stream_get_type
+g_type_check_class_cast
+g_type_check_instance_cast
+g_cancellable_set_error_if_cancelled
+g_output_stream_write
+g_variant_builder_close
+g_int64_hash
+g_variant_builder_open
+json_node_get_object
+json_object_get_string_member
+json_parser_get_root
+json_array_get_length
+json_parser_load_from_stream
+json_array_get_object_element
+json_parser_new
+json_object_get_array_member
+json_object_has_member
+json_object_get_int_member
+libnotify.so.4
+notify_notification_set_hint_string
+notify_notification_add_action
+notify_notification_new
+notify_notification_show
+notify_get_server_caps
+notify_init
+libgdk_pixbuf-2.0.so.0
+g_strcompress
+g_io_channel_read_line
+libgio-2.0.so.0
+g_error_new
+g_spawn_async_with_pipes
+g_io_channel_shutdown
+g_get_user_cache_dir
+g_filename_from_utf8
+g_regex_new
+g_key_file_set_boolean
+g_ptr_array_remove_index_fast
+g_date_time_new_from_timeval_local
+g_regex_split
+g_key_file_set_string_list
+g_hash_table_get_values
+g_simple_async_result_set_op_res_gpointer
+g_seekable_tell
+g_file_set_attribute_uint32
+g_file_info_get_modification_time
+g_application_run
+g_dbus_connection_register_object
+g_file_create
+g_file_replace
+g_action_activate
+g_settings_set_string
+g_simple_async_result_new
+g_app_info_launch_uris
+g_bus_own_name
+g_simple_async_result_set_from_error
+g_bus_unown_name
+g_file_dup
+g_seekable_get_type
+g_input_stream_read_finish
+g_file_make_symbolic_link
+g_simple_async_result_run_in_thread
+g_application_command_line_create_file_for_arg
+g_dbus_node_info_unref
+g_simple_async_result_get_op_res_gpointer
+g_file_read_finish
+g_memory_input_stream_get_type
+g_simple_async_result_get_type
+g_file_set_attributes_from_info
+g_action_get_state
+g_file_get_uri_scheme
+g_file_read_async
+g_action_get_type
+g_file_info_new
+g_file_info_set_attribute_uint32
+g_memory_input_stream_new
+g_dbus_node_info_new_for_xml
+g_cancellable_disconnect
+g_file_info_set_attribute_uint64
+g_simple_async_result_complete_in_idle
+g_cancellable_connect
+g_simple_async_result_propagate_error
+Tacocat
+g_settings_set_strv
+g_simple_async_result_get_source_tag
+g_file_info_get_attribute_uint32
+g_cancellable_reset
+g_input_stream_read_all
+g_simple_action_get_type
+g_simple_async_result_is_valid
+g_input_stream_read_async
+g_memory_input_stream_add_data
+g_dbus_connection_emit_signal
+g_file_copy_finish
+g_file_info_get_symlink_target
+g_action_change_state
+g_file_enumerator_next_file
+g_file_copy_async
+g_output_stream_close
+g_icon_hash
+g_application_command_line_get_arguments
+libgobject-2.0.so.0
+g_regex_unref
+libglib-2.0.so.0
+g_regex_match
+g_io_channel_set_buffer_size
+g_printf
+g_date_time_get_ymd
+g_rand_free
+g_rand_int_range
+g_utf8_strrchr
+g_int64_equal
+g_rand_new
+g_set_application_name
+g_io_channel_set_flags
+libarchive.so.13
+archive_write_set_format_iso9660
+archive_entry_uname
+archive_entry_size
+archive_write_set_format_pax_restricted
+archive_entry_set_gname
+archive_entry_pathname
+archive_write_add_filter_none
+archive_entry_symlink
+archive_entry_clone
+archive_entry_gname
+archive_write_header
+archive_read_open
+archive_entry_filetype
+archive_write_add_filter_lzma
+archive_write_open
+archive_write_add_filter_bzip2
+archive_entry_set_ctime
+archive_write_set_format_ar_svr4
+archive_entry_mode
+archive_entry_set_mtime
+archive_entry_set_symlink
+archive_entry_free
+archive_write_set_format_cpio
+archive_entry_mtime
+archive_entry_set_ino64
+archive_write_set_format_xar
+archive_read_data_block
+archive_entry_new
+archive_entry_hardlink
+archive_write_set_format_7zip
+archive_write_set_filter_option
+archive_error_string
+archive_entry_set_nlink
+archive_write_add_filter_lzop
+archive_write_add_filter_gzip
+archive_read_support_filter_all
+archive_entry_mtime_is_set
+archive_entry_set_pathname
+archive_write_finish_entry
+archive_entry_size_is_set
+archive_entry_unset_birthtime
+archive_write_close
+archive_write_set_format_zip
+archive_read_free
+archive_entry_set_size
+archive_write_free
+archive_entry_set_filetype
+archive_read_new
+archive_entry_set_uid
+archive_write_add_filter_lzip
+archive_entry_set_gid
+archive_entry_set_rdev
+archive_read_data_skip
+archive_entry_set_atime
+archive_entry_uid
+archive_entry_gid
+archive_read_support_format_all
+archive_write_data
+archive_write_add_filter_lrzip
+archive_entry_set_dev
+archive_entry_set_mode
+archive_write_new
+archive_write_add_filter_compress
+archive_entry_set_uname
+archive_write_set_bytes_in_last_block
+archive_write_add_filter_xz
+archive_read_next_header
+libmagic.so.1
+magic_open
+magic_error
+magic_buffer
+magic_load
+libm.so.6
+floor
+ceil
+libpthread.so.0
+__errno_location
+lseek
+waitpid
+libc.so.6
+mkdtemp
+strcpy
+strncmp
+dcngettext
+__isoc99_sscanf
+dcgettext
+getpwuid
+getgrgid
+strncpy
+__stack_chk_fail
+unlink
+bind_textdomain_codeset
+strftime
+strtol
+getpwnam
+strstr
+rmdir
+memcmp
+strptime
+getgrnam
+putenv
+memcpy
+killpg
+setpgid
+__strncpy_chk
+__ctype_b_loc
+localtime
+strchr
+mktime
+qsort
+__strcpy_chk
+setsid
+__xstat
+memmove
+bindtextdomain
+strcmp
+__libc_start_main
+_edata
+__bss_start
+GLIBC_2.2.5
+GLIBC_2.3.4
+GLIBC_2.4
+GLIBC_2.3
+GLIBC_2.7
+GLIBC_2.14
+%z9&
+%r9&
+%j9&
+%b9&
+%Z9&
+%R9&
+%J9&
+%B9&
+%:9&
+%29&
+%*9&
+%"9&
+%z8&
+%r8&
+%j8&
+%b8&
+%Z8&
+%R8&
+%J8&
+%B8&
+%:8&
+%28&
+%*8&
+%"8&
+%z7&
+%r7&
+%j7&
+%b7&
+%Z7&
+%R7&
+%J7&
+%B7&
+%:7&
+%27&
+%*7&
+%"7&
+%z6&
+%r6&
+%j6&
+%b6&
+%Z6&
+%R6&
+%J6&
+%B6&
+%:6&
+%26&
+%*6&
+%"6&
+%z5&
+%r5&
+%j5&
+%b5&
+%Z5&
+%R5&
+%J5&
+%B5&
+%:5&
+%25&
+%*5&
+%"5&
+%z4&
+%r4&
+%j4&
+%b4&
+%Z4&
+%R4&
+%J4&
+%B4&
+%:4&
+%24&
+%*4&
+%"4&
+%z3&
+%r3&
+%j3&
+%b3&
+%Z3&
+%R3&
+%J3&
+%B3&
+%:3&
+%23&
+%*3&
+%"3&
+%z2&
+%r2&
+%j2&
+%b2&
+%Z2&
+%R2&
+%J2&
+%B2&
+%:2&
+%22&
+%*2&
+%"2&
+%z1&
+%r1&
+%j1&
+%b1&
+%Z1&
+%R1&
+%J1&
+%B1&
+%:1&
+%21&
+%*1&
+%"1&
+%z0&
+%r0&
+%j0&
+%b0&
+%Z0&
+%R0&
+%J0&
+%B0&
+%:0&
+%20&
+%*0&
+%"0&
+%z/&
+%r/&
+%j/&
+%b/&
+%Z/&
+%R/&
+%J/&
+%B/&
+%:/&
+%2/&
+%*/&
+%"/&
+%z.&
+%r.&
+%j.&
+%b.&
+%Z.&
+%R.&
+%J.&
+%B.&
+%:.&
+%2.&
+%*.&
+%".&
+%z-&
+%r-&
+%j-&
+%b-&
+%Z-&
+%R-&
+%J-&
+%B-&
+%:-&
+%2-&
+%*-&
+%"-&
+%z,&
+%r,&
+%j,&
+%b,&
+%Z,&
+%R,&
+%J,&
+%B,&
+%:,&
+%2,&
+%*,&
+%",&
+%z+&
+%r+&
+%j+&
+%b+&
+%Z+&
+%R+&
+%J+&
+%B+&
+%:+&
+%2+&
+%*+&
+%"+&
+%z*&
+%r*&
+%j*&
+%b*&
+%Z*&
+%R*&
+%J*&
+%B*&
+%:*&
+%2*&
+%**&
+%"*&
+%z)&
+%r)&
+%j)&
+%b)&
+%Z)&
+%R)&
+%J)&
+%B)&
+%:)&
+%2)&
+%*)&
+%")&
+%z(&
+%r(&
+%j(&
+%b(&
+%Z(&
+%R(&
+%J(&
+%B(&
+%:(&
+%2(&
+%*(&
+%"(&
+%z'&
+%r'&
+%j'&
+%b'&
+%Z'&
+%R'&
+%J'&
+%B'&
+%:'&
+%2'&
+%*'&
+%"'&
+%z&&
+%r&&
+%j&&
+%b&&
+%Z&&
+%R&&
+%J&&
+%B&&
+%:&&
+%2&&
+%*&&
+%"&&
+%z%&
+%r%&
+%j%&
+%b%&
+%Z%&
+%R%&
+%J%&
+%B%&
+%:%&
+%2%&
+%*%&
+%"%&
+%z$&
+%r$&
+%j$&
+%b$&
+%Z$&
+%R$&
+%J$&
+%B$&
+%:$&
+%2$&
+%*$&
+%"$&
+%z#&
+%r#&
+%j#&
+%b#&
+%Z#&
+%R#&
+%J#&
+%B#&
+%:#&
+%2#&
+%*#&
+%"#&
+%z"&
+%r"&
+%j"&
+%b"&
+%Z"&
+%R"&
+%J"&
+%B"&
+%:"&
+%2"&
+%*"&
+%""&
+%z!&
+%r!&
+%j!&
+%b!&
+%Z!&
+%R!&
+%J!&
+%B!&
+%:!&
+%2!&
+%*!&
+%"!&
+%z &
+%r &
+%j &
+%b &
+%Z &
+%R &
+%J &
+%B &
+%: &
+%2 &
+%* &
+%" &
+ATUI
+[]A\
+t[USH
+-V'&
+AWAVI
+AUATI
+D$XD
+[]A\A]A^A_
+[]A\A]A^A_
+D$81
+D$8dH3
+AWAVAUATI
+T$hI
+T$`H
+D$`H
+([]A\A]A^A_
+AWAVH
+AUATUS
+D$P1
+D$$PH
+D$(PH
+D$XPL
+L$XL
+D$PH
+L$HH
+|$@H
+t$ L
+L$HdH3
+X[]A\A]A^A_
+AWAVAUATUSH
+D$x1
+T$P1
+D$xdH3
+[]A\A]A^A_
+L$@H
+t$PA
+D$<H
+L$0L
+D$(H
+L$ H
+T$HL
+AWAV
+AUATI
+D$X1
+D$(1
+D$(H
+D$XdH3
+h[]A\A]A^A_
+t$0H
+L$ 1
+T$(L
+T$(1
+D$(M
+AWAV
+AUATUSH
+D$H1
+ATAWL
+D$$H
+D$(PH
+D$XPL
+L$XL
+D$PH
+L$HH
+t$ H
+|$ H
+L$(A
+D$HdH3
+X[]A\A]A^A_
+AWAVAUATUSH
+D$81
+T$41
+D$,H
+L$,H
+L$0QH
+l$0L
+|$(L
+t$ H
+D$8dH3
+H[]A\A]A^A_
+AWAVAUATA
+Eleele
+4$E1
+([]A\A]A^A_
+ATUH
+[]A\
+AVAUATUI
+]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+AUATUSH
+[]A\A]
+AWAVAUATI
+C(ZY
+[]A\A]A^A_
+[]A\A]A^A_
+F0SH
+AWAVI
+AUATUSH
+D$(1
+t7E1
+L$(dH3
+8[]A\A]A^A_
+D$ 1
+T$0H
+~ E1
+~ E1
+ATUH
+t>[]A\
+[]A\H
+ATUI
+ATUI
+[]A\
+AVAUATUH
+D$(1
+D$ H
+D$ H
+D$(dH3
+0[]A\A]A^
+AUATI
+[]A\A]
+AWAVAUATI
+D$(1
+D$(dH3
+8[]A\A]A^A_
+D$ A
+D$ H
+D$ 1
+AVAUI
+]A\A]A^
+ATUSH
+[]A\
+[]A\
+AVAU
+ATUH
+ZYtfH
+[]A\A]A^
+[]A\A]A^
+AWAVAUATUSH
+L$ H
+T$(H
+([]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATI
+D$(1
+D$(dH3
+8[]A\A]A^A_
+AUATI
+D$X1
+t$01
+D$XdH3
+h[]A\A]
+D$81
+D$8dH3
+AVAUATUI
+[]A\A]A^
+ATUI
+[]A\
+|$PH
+D$PL
+[]A\
+AVAUATUH
+ []A\A]A^
+L$ E
+,S PL
+D$ H
+_AXH
+,C A
+,C A
+AUATI
+H;(t-H
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+D$x1
+L$xdH3
+[]A\A]A^A_
+T$HH
+|$H1
+t$HH
+,E PA
+L$LQL
+L$PH
+l$PL
+|$HH
+D$pH
+L$`H
+T$hH
+t$XH
+D$8A
+T$4D
+D$0D
+*\$8
+*T$<
+T$4D
+D$0E
+D$@L
+|$ L
+\$H1
+D$@H
+|$ H
+AUATI
+H;(t-H
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+AWAVI
+AUATI
+H;(t3H
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUATUI
+L;(t L
+]A\A]A^
+]A\A]A^H
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+USE1
+ATU1
+]A\A]A^
+ATUH
+[]A\
+ATU1
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATUS
+[]A\A]A^A_
+ATUA
+[]A\
+AUAT1
+dH34%(
+[]A\A]
+AWAVAUATUSH
+[]A\A]A^A_
+L;d$
+[]A\A]A^A_
+ATUS1
+[]A\
+AUATUS1
+[]A\A]
+[]A\A]
+ATU1
+[]A\
+8.u3D
+ATU1
+[]A\
+8.t-H
+[]A\
+AUATUSH
+([]A\A]
+ATUI
+ []A\
+AWAVAUATUSH
+t$$H
+D$81
+L$0H
+T$(H
+t$$H
+L$8dH3
+H[]A\A]A^A_
+AWAVAUATI
+|$ H
+|$ H
+|$ H
+[]A\A]A^A_
+AVAUATUH
+ []A\A]A^
+AVAUATUH
+]A\A]A^@
+[]A\
+[]A\
+AVAU1
+ATUI
+D$(1
+hfwE
+hswE
+h"wE
+T$XRh
+T$XRh
+D$(dH3
+0[]A\A]A^
+ATUH
+[]A\H
+ATUI
+[]A\
+ATUI
+[]A\
+AUATUSH
+[]A\A]E1
+AUATUSH
+[]A\A]E1
+hpBA
+AUATA
+[]A\A]
+t;SH
+t*SI
+tSUSH
+AVAUI
+ATUH
+;[]A\A]A^
+AWAVAUATUSH
+D$pD
+d$xD
+[]A\A]A^A_1
+T$,D
+\$(D
+L$$D
+D$ D
+L$$H
+\$(D
+T$,L
+\$xH
+D$p`
+[]A\A]A^A_E1
+AWAVAUATI
+[]A\A]A^A_
+D$`H
+AVAUATUSH
+[]A\A]A^
+AVAUH
+J ATUSH
+ []A\A]A^
+t{AVAUI
+ATUM
+[]A\A]A^H
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+([]A\A]
+AWAVAUATUSH
+L$(AQD
+D$,E1
+L$0E1
+QATAVH
+[]A\A]A^A_
+T$0ARD
+L$0AQD
+D$4E1
+L$8E1
+QAVH
+[]A\A]A^A_
+L$(AQD
+D$,E1
+L$0E1
+alula
+QATAVH
+[]A\A]A^A_
+([]A\A]A^A_
+u(VL
+AWAVI
+AUAT
+D$$H
+D$(H
+D$0H
+[]A\A]A^A_
+|$(A
+D$ A
+D$$A
+D$0H
+D$0I
+D$8H
+D$8I
+D$@H
+ATUH
+[]A\H
+ATUH
+ET[]A\
+E@[]A\
+EH[]A\
+EL[]A\
+ATUH
+[]A\
+AWAVAUATI
+[]A\A]A^A_
+E(D9h
+ATUI
+[]A\
+AUATI
+[]A\A]
+AWAVAUATUSH
+[]A\A]A^A_1
+L$@L
+D$8H
+L$0H
+T$(H
+t$ D
+T$LD
+|$(H
+\$HD
+T$LL
+|$0L
+|$8H
+|$@H
+|$ H
+]A\A]A^A_
+AWAVM
+AUATM
+[]A\A]A^A_
+AWAVAUATI
+D$8H
+D$ H
+D$(H
+D$0H
+T$0H
+L$(D
+T$ H
+T$8H
+]A\A]A^A_
+AWAVAUATI
+D$ L
+D$H1
+|$@H
+T$81
+D$8H
+t$8H
+\$@H
+L$HdH3
+X[]A\A]A^A_
+|$(L
+t$@H
+D$D1
+L$HD
+AWAVAUATI
+D$81
+T$(H
+D$8dH3
+H[]A\A]A^A_
+|$8E1
+ZYtsH
+D$01
+D$01
+D$01
+AWAVAUATUSH
+t$pL
+|$xH
+t$(H
+T$ H
+|$xD
+t$pD
+T$ H
+t$(H
+8[]A\A]A^A_
+AWAVAUATUSH
+D$<D
+T$0L
+|$ L
+\$(L
+T$0L
+L$8H
+H[]A\A]A^A_
+AWAVAUATI
+t$`L
+|$hH
+l$pL
+d$xH
+d$xL
+l$pL
+|$hH
+t$`D
+([]A\A]A^A_
+ATUI
+[]A\
+_ t#H
+AUATUSH
+[]A\A]
+=9b%
+ATUH
+AWAVAUATUSH
+[]A\A]A^A_
+[]E1
+@ @^B
+@0`]B
+ATUH
+[]A\
+t S1
+{p[H
+t[SH
+ATUI
+[]A\
+ATUI
+[]A\H
+AUATI
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+AWAVI
+AUATI
+D$81
+Fi@t	
+T$0H
+t$(1
+t$0L
+|$xH
+|$xH
+D$8dH3
+H[]A\A]A^A_
+@(9X
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_1
+St"H
+AWAVI
+AUATI
+D$0dH
+D$X1
+D$(H
+Gi@t
+<$E1
+L$8E
+L$XdH3
+h[]A\A]A^A_
+\$ H
+L$P1
+,$E1
+D$0f.
+l$0L
+L$0H
+T$PH
+t$HL
+t$PL
+t$HH
+D$P1
+AWAVAUATI
+D$pH
+D$(1
+D$ L
+t$@D
+L$DD
+D$@H
+t$ H
+D$(dH3
+8[]A\A]A^A_
+AWAVE
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_1
+AWAVAUATUSH
+D$81
+D$$1
+L$(D
+D$$H
+XZt6L
+D$$1
+L$(D
+D$$H
+D$8dH3
+H[]A\A]A^A_
+T$0H
+t$(1
+D$$PD
+L$(D
+D$$H
+t$8H
+AWAVI
+AUATUSH
+t$ H
+L$0D
+Ch u
+D$ E1
+D$(H
+l$(t
+t$@D
+L$$H
+A[[t
+h[]A\A]A^A_
+D$HE
+C(9h
+D$(H
+t$@L
+d$PE
+D$XH
+t$@D
+L$$H
+AZA[
+|$(H
+h[]A\A]A^A_
+t$@D
+L$$H
+|$ E1
+l$@D
+D$ M
+t$0t
+\$PI
+[]A\A]A^A_1
+|$ L
+|$ I
+tqLc
+tME1
+$tYH
+\$PI
+AWAVI
+AUATUSH
+D$xD
+d$`L
+l$hH
+l$pL
+AUATL
+T$ H
+D$hH
+]A\A]A^A_
+[]E1
+AWAVI
+AUATUSH
+D$pH
+D$xH
+D$ H
+D$,E1
+D$0P
+D$4P
+T$(H
+[]A\A]A^A_
+AVAUATUH
+[]A\A]A^
+AWAVI
+AUATI
+D$pD
+\$`H
+D$xH
+L$4AQh
+[]A\A]A^A_
+AWAVE1
+AUATI
+L$$D
+D$(D
+L$,H
+D$0H
+D$8dH
+D$H1
+/trI
+D$@E1
+D$<P
+D$@P
+D$DP
+t$@H
+t$0H
+t$@H
+D$HdH3
+X[]A\A]A^A_
+T$8H
+AWAVA
+AUATA
+]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+L$$H
+T$(H
+|$8H
+D$`H
+t$hH
+D$@H
+D$HH
+D$PdH
+D$x1
+t$xE1
+D$0H
+T$$H
+d$hH
+|$01
+|$(H
+D$pE1
+t$HL
+t$@H
+T$PH
+D$xdH3
+[]A\A]A^A_
+T$PH
+t$pH
+T$(1
+T$$H
+T$$H
+AWAVI
+AUATI
+]A\A]A^A_
+AWAVAUATUSH
+D$pH
+L$(D
+D$$D
+D$ L
+D$$H
+D$ L
+D$pH
+[]A\A]A^A_
+L$(H
+L$(D
+D$$H
+D$ L
+AWAVAUATUSH
+|$pH
+[]A\A]A^A_
+D$`H
+h@SB
+ATUI
+[]A\
+AWAVA
+AUATI
+]A\A]A^A_
+AWAVI
+AUATUSH
+D$HD
+L$LH
+D$PH
+Degas are we not drawn onward no In union drawn onward to new eras aged
+L$@H
+t$0H
+D$XdH
+D$h1
+|$(L
+D$0H
+|$ 1
+l$(H
+|$0H
+t$@H
+D$HL
+|$PH
+t$XH
+D$8H
+D$hdH3
+x[]A\A]A^A_
+t$xD
+L$|D
+D$xH
+L$pH
+T$HH
+t$`H
+\$8H
+t$`H
+AWAVAUATUSH
+[]A\A]A^A_
+D$(D
+L$$L
+D$ H
+\$(H
+ASAWAVAUATUD
+L$TD
+D$PH
+L$HH
+T$@H
+AWAVI
+AUATI
+CpE1
+[]A\A]A^A_
+]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+D$pL
+([]A\A]A^A_
+AUATI
+[]A\A]
+([]A\A]
+[]A\A]
+ATUH
+[]A\
+[]A\
+ATUI
+[]A\
+[]A\
+AUATI
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+AUATI
+[]A\A]
+AWAVE
+AUATI
+t$@H
+[]A\A]A^A_
+D$@H
+AVAUI
+ATUH
+[]A\A]A^
+AUATUSH
+[]A\A]H
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+|$A.
+tsSH
+AUAT
+}xt`
+[]A\A]
+AWAVAUATI
+D$H1
+D$HdH3
+X[]A\A]A^A_
+D$ H
+D$$L
+tsSH
+ATUI
+D$(1
+D$(dH3
+|$xH
+0[]A\
+ATUH
+}x]A\
+AWAVAUATUSH
+D$H1
+D$HdH3
+X[]A\A]A^A_
+D$ H
+D$$L
+D$8I
+tE<\u
+D$(I
+D$0I
+tsSH
+ATUH
+}x]A\
+AUATE
+}xtc
+[]A\A]
+AWAVAUATI
+D$X1
+|$ I
+t3E1
+D$(H
+D$$H
+D$ L
+D$XdH3
+h[]A\A]A^A_
+tsSH
+AWAV
+AUATE
+[]A\A]A^A_
+AUAT
+[]A\A]
+AWAVAUATUSH
+D$H1
+D$HdH3
+X[]A\A]A^A_
+8/t]1
+AUATUSH
+t1E1
+([]A\A]
+AWAVI
+AUATUSH
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AUATUSH
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+tsSH
+AUATI
+[]A\A]
+AWAVAUATI
+D$h1
+|$0I
+t-E1
+<$dH
+D$hdH3
+x[]A\A]A^A_
+|$(H
+tsSH
+{xt_H
+AWAVAUATUSH
+D$81
+/t3L
+D$8dH3
+H[]A\A]A^A_
+tsSH
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+D$X1
+<-t>H
+D$XdH3
+h[]A\A]A^A_
+|$ M
+t/E1
+|$ -l
+AWAVAUATUSH
+|$ H
+D$(D
+L$,H
+unE1
+l$8M
+L$,D
+D$(L
+L$,D
+D$(H
+H[]A\A]A^A_
+tsSH
+ATUH
+[]A\
+AUAT
+}xtR
+[]A\A]
+AWAVI
+AUATUSH
+D$x1
+l$ H
+D$(H
+|$0H
+t/E1
+|$8H
+D$TL
+D$HH
+D$DL
+|$ H
+S<ui
+|$(H
+D$xdH3
+[]A\A]A^A_
+D$ u
+D$ u
+tsSH
+{x[]A\
+t|rj
+{x[]A\
+ATUH
+[]A\
+D$XI
+D$ H
+\$(I
+D$0A
+tsSH
+AVAUI
+ATUI
+[]A\A]A^
+AUATUSH
+[]A\A]
+[]A\A]H
+[]A\A]
+ATUI
+/t`1
+C0[]A\
+[]A\
+ATUI
+[]A\
+[]A\
+{xur
+AWAVE
+AUATI
+[]A\A]A^A_
+ATUI
+{x[]A\
+{x[]A\
+AWAVE
+AUATI
+[]A\A]A^A_
+AWAVAUATI
+D$X1
+D$XdH3
+h[]A\A]A^A_
+D$ H
+D$(H
+|$ H
+D$,H
+D$0H
+D$4L
+D$(H
+D$$L
+>u)A
+tsSH
+AUATI
+[]A\A]
+AWAVAUATI
+D$h1
+|$0I
+t-E1
+<$dH
+D$hdH3
+x[]A\A]A^A_
+D$DF
+|$(H
+tsSH
+ATUH
+/taH
+[]A\
+[]A\
+AWAVE
+AUATI
+{xt?
+[]A\A]A^A_
+AWAVAUATI
+D$H1
+D$$H
+D$ H
+D$HdH3
+X[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+AUATUSH
+[]A\A]
+[]A\A]
+AUATI
+{xtA
+[]A\A]
+AWAVE
+AUATI
+{xtP
+[]A\A]A^A_
+AUATUSH
+=	_$
+([]A\A]
+AUAT
+}xteL
+[]A\A]
+AWAV
+AUATUSH
+D$81
+D$8dH3
+H[]A\A]A^A_
+tsSH
+@0`-C
+ATUS
+[]A\
+ATU1
+[]A\
+{x[]A\
+AVAUATUH
+[]A\A]A^
+[]A\A]A^
+?/t 
+]A\A]A^
+=yO$
+@0 :C
+ATUI
+|$xH
+|$x]A\
+ATUI
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+AWAVE
+AUATI
+|$xH
+|$xH
+|$xH
+[]A\A]A^A_
+AVAUE
+ATUH
+}x]A\A]A^
+AWAVAUATUSH
+D$H1
+D$HdH3
+X[]A\A]A^A_
+tsSH
+=)C$
+@0PDC
+AUATE
+}xtc
+[]A\A]
+AUAT
+}xtW
+[]A\A]
+AWAVAUATI
+D$H1
+D$HdH3
+X[]A\A]A^A_
+D$ 	
+tsSH
+t'USH
+AUATI
+[]A\A]
+tCAUATUSH
+[]A\A]
+H97t
+t.USH
+ATUI
+D$81
+D$8dH3
+@[]A\
+AVAUI
+ATUI
+C@[]A\A]A^H
+ATUI
+D$(1
+L$ H
+L$$H
+L$01
+D$ ZY;D$
+\$(dH3
+0[]A\
++D$ 
+ATUH
+D$(1
+D$(dH3
+0[]A\
+tCSH
+AWAVAUATI
+@@L;h
+[]A\A]A^A_
+D$PI
+T$dH
+t$`H
+D$@H
+l$@H
+l$XM
+|$@H
+L$ H
+L$HQj	D
+\$\ASj
+D$`APj
+t$hVj
+D$@I
+T$@H
+L$pH
+T$lH
+t$hH
+|$HH
+L$|H
+T$xH
+D$t9D$h
+D$x9D$l
+D$|9D$p
+l$XI
+l$dH
+t$PH
+D$@I
+l$@H
+D$@H
+@@L;h
+AUATI
+[]A\A]
+@@H;X
+ATUSH
+Z[]A\
+AUATI
+D$81
+D$8dH3
+H[]A\A]
+ATUI
+D$81
+D$ Pj
+L$HH
+D$$Pj
+L$PH
+D$0H
+ ;D$
+t$8dH34%(
+@[]A\
+t$ H
+\$(H
++\$0
+ATUI
+D$(1
+L$ H
+L$$H
+L$01
+D$ ZY;D$
+t$(dH34%(
+0[]A\
+t$ H
+ATUSH
+ []A\
+AUAT
+([]A\A]
+AUATUSH
+[]A\A]
+ATUH
+=j $
+[]A\
+AUATI
+[]A\A]
+ATUH
+ZY[]A\
+AVAUATUH
+\$@H
+]A\A]A^
+[]A\A]A^
+t9USH
+ATUI
+D$81
+D$8dH3
+@[]A\
+tCATUH
+ATUH
+D$81
+T$8dH3
+@[]A\
+ATUSH
+AVAUATUSH
+]A\A]A^
+AWAVAUATUSH
+L9d$
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+L9d$
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+tbATI
+[]A\
+t;USH
+tTUSH
+[]A\
+AWAV1
+AUAT
+=^	$
+t1D9=
+D98t
+t8D9=o
+t0D9=
+D98t'H9
+HcD$
+Lcl$
+HcD$
+([]A\A]A^A_
+t?D9=
+AXAY
+G @oC
+D$81
+L$8dH3
+ATUI
+[]A\H
+ATUSH
+t$(H
+T$0H
+L$8L
+D$@L
+D$pHc
+D$ H
+P[]A\
+AWAVAUATI
+=^	$
+[]A\A]A^A_
+@00{C
+ATUSH
+[]A\
+AUATE1
+[]A\A]
+AUATH
+[]A\A]
+ATUH
+AWAVA
+AUATI
+HcT$
+[]A\A]A^A_
+AWAVAUATI
+D$(1
+T$ H
+D$ 1
+D$ H
+L$(dH3
+8[]A\A]A^A_
+D$(H
+T$ 1
+D$ H
+ATUSH
+[]A\H
+tkSH
+tKSH
+o(SH
+dH34%(
+Hc@,
+ATUA
+[]A\
+[]A\
+AUAT
+HcP H
+D$ Pj
+([]A\A]
+AWAVAUATUSH
+[]A\A]A^A_
+HcH H
+AVAUATUH
+HcH 
+T$8H
+t$ H
+[]A\A]A^
+T$8H
+HcQ 
+ATE1
+[]A\
+tkATUH
+[]A\
+AUATI
+USHc
+[]A\A]
+x<USH
+x,SH
+T$0H
+L$8L
+D$@L
+L$HdH
+D$ H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+tKUSHc
+8HcH
+8HcH
+t+SH
+AUATUSH
+[]A\A]
+[]A\A]
+ATUSH
+[]A\
+j@j<E1
+h0 E
+ATUI
+[]A\
+D$01
+L$(H
+L$0H
+L$ 1
+l$(H
+t$0H
+T$(dH3
+AVAUI
+ATUI
+D$81
+D$@L
+D$@L
+D$@L
+D$ H
+D$(H
+T$8dH3
+@[]A\A]A^
+A Santa lives evil at NASA
+ATUI
+dH34%(
+ []A\
+@ +B 
+ATUI
+dH34%(
+ []A\
+@@+B@
+ATUI
+ []A\
+ATUI
+D$@H
+\$@H
+[]A\
+ATUSH
+[]A\
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+ATUI
+D$@H
+D$@H
+[]A\
+B@ATI
+[]A\
+[]A\H
+AWAVAUATUSH
+U(9B
+[]A\A]A^A_
+[]E1
+ATUI
+[]A\
+D$@H
+[]A\
+ATUSH
+AWAVAUATUSH
+t$ H
+t$,H
+L$HH
+L$@H
+[]A\A]A^A_E1
+zzuxH
+[]A\
+AUATUSH
+[]A\A]
+ATUSH
+[]A\
+ATUI
+[]A\
+ATUSH
+B@ATUSH
+tKSH
+t{USH
+AUATI
+|$HH
+D$@H
+[]A\A]
+ATUSH
+t?Hct$
+ []A\
+ATUSH
+[]A\H
+[]A\
+ATUSH
+[]A\
+AUATUSH
+j@dH
+D$(1
+L$(dH3
+8[]A\A]
+AWAVAUATUSH
+Z@dH
+D$81
+L$8dH3
+H[]A\A]A^A_
+,T$ 
+OxE1
+t$xH
+AVAUI
+ATUI
+[]A\A]A^
+AWAVI
+AUATUSH
+[]A\A]A^A_
+ZYu-H
+ATUI
+dH34%(
+ []A\
+ATUH
+U@H;B
+U@H;B t
+ATUI
+|$ H
+[]A\
+t;SH
+AVAUI
+ATUH
+[]A\A]A^
+tOI;
+e@M;
+[]A\A]A^
+t+SH
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+ATUH
+[]A\
+ATUH
+[]A\
+D$@L
+AWAVI
+AUATI
+D$PH
+[]A\A]A^A_
+AUATUSH
+[]A\A]
+[]A\A]
+[]A\A]1
+ATUSH
+[]A\
+C@[H
+AWAVI
+AUATI
+D$ Hc
+A9D$
+D$(L)
+|$ H
+A9D$
+|$ H
+X[]A\A]A^A_
+\$8H
+l$(H
+l$0I
+d$HL
+|$@M
+l$0H
+\$8D
+l$(L
+|$@L
+d$HH
+|$ H
+ATUSH
+[]A\
+[]A\
+AUATUSH
+D$(1
+D$(dH3
+8[]A\A]
+AWAVAUATI
+D$81
+L$8dH3
+H[]A\A]A^A_
+ATUI
+[]A\H
+ATUI
+[]A\H
+AWAVAUATI
+D$h1
+D$hdH3
+x[]A\A]A^A_
+D$@H
+D$@D
+D$@H
+D$@H
+D$HH
+D$@H
+D$HH
+D$@L
+D$@H
+t$@1
+D$@H
+D$@H
+t$@H
+D$@H
+D$@H
+t$ H
+D$@H
+T$ H
+D$@H
+D$@H
+L$HH
+D$pH
+D$@H
+t$@H
+D$@H
+D$@H
+T$@H
+ATUH
+[]A\
+[]A\A
+[]A\
+[]A\
+ATUH
+@0]A\
+AUATUSH
+[]A\A]
+AUATI
+[]A\A]E1
+AWAVAUATUSH
+[]A\A]A^A_
+AUATUSH
+[]A\A]
+AWAVAUATUSH
+D$81
+L$8dH3
+H[]A\A]A^A_
+AWAVAUATI
+L$HI
+L$HH
+}(E1
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+l$0A
+D$ E!
+T$$H
+|$(H
+T$$H
+#T$0
+D"t$
+u	D"l$
+[]A\A]A^A_
+H[]A\A]A^A_
+t[USH
+C@uMH
+AUATI
+T$$I
+E@E1
+D$(P
+8[]A\A]
+AWAVI
+AUATM
+L$`H
+{HSh
+D$<PH
+[]A\A]A^A_
+AWAVI
+AUATI
+D$8L
+\$(H
+[]A\A]A^A_
+|$01
+AWAVAUATI
+V0AVA
+[]A\A]A^A_
+[]A\A]A^A_
+AUATI
+D$(H
+D$ H
+R(Uh
+8[]A\A]
+k@tEH
+AWAVAUATA
+D$x1
+D$xdH3
+[]A\A]A^A_
+C@H;
+t4E1
+C@E1
+D$8H
+T$LH
+t$HH
+t$0j
+t$Hj
+t$pj
+t$PH
+t$Hj
+t$Pj
+t$pj
+l$HH
+t$8H
+AUATUSH
+[]A\A]
+AWAVAUATUSH
+D$x1
+D$(A
+j@j@I
+D$(H
+|$@H
+T$@H
+\$0L
+T$`H
+\$0L
+d$0H
+D$8I
+T$ I
+t$(H
+D$ H
+L$`I
+T$`H
+L$`H
+|$0L
+t$ I
+D$hH
+k@Y^L
+T$(L
+t$8I
+C@E1
+C@E1
+C@E1
+C@E1
+C@E1
+C@E1
+L$xdH3
+[]A\A]A^A_
+AWAVAUATA
+{HE1
+APVE
+RAWL
+X[]A\A]A^A_
+AWAVM
+AUATI
+D$`H
+tFShp
+ARAQM
+APQM
+x[]A\A]A^A_
+AUATUSH
+{HSH
+AUAT
+8[]A\A]
+AUATI
+[]A\A]
+ATUA
+SAPH
+T$$A
+L$(A
+t$ H
+{HATh
+XZ[]A\
+[]A\
+tcATUSL
+u	[]A\
+[]A\
+AUATUSH
+[]A\A]
+[]A\A]
+AUATUSH
+[]A\A]
+[]A\A]
+[]A\A]
+ATUH
+t[ATUH
+[]A\
+[]A\
+ATUH
+[]A\
+D$81
+L$8dH3
+AUATUSH
+[]A\A]
+[]A\A]
+ATUI
+D$H1
+t$ L
+L$HdH3
+P[]A\
+t$ 1
+rXt}H
+tCUSH
+AWAVAUATUSH
+D$H1
+L$HdH3
+X[]A\A]A^A_
+_AXtW
+t$ H
+t$ L
+t$ L
+RAT1
+AWAVAUATUSH
+D$H1
+L$HdH3
+X[]A\A]A^A_
+AXAY
+t$ H
+|$ H
+t$ L
+t$ L
+[]A\
+C@[]A\H
+ATUI
+[]A\
+wy=P
+AUAT
+[]A\A]
+[]A\A]
+AWAVAUATE1
+tBE1
+[]A\A]A^A_
+AWAVI
+AUATE1
+}(E1
+}(E1
+}(E1
+}(E1
+{HUA
+H[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+D$(H
+t$01
+[]A\A]A^A_
+L$(E1
+L$(H
+t$0E1
+AWAVAUATUSH
+D$ H
+l$0H
+ATSA
+AZA[
+D$<L
+L$@L
+D$(H
+t$0H
+|$(H
+H[]A\A]A^A_
+t$0H
+H[]A\A]A^A_
+t$0H
+D$(E
+D$ H
+L$0I
+D$81
+L$0H
+AVAUATUH
+]A\A]A^
+[]A\A]A^
+AUATUS
+[]A\A]
+AWAVAUATUSH
+AWAVH
+D$8L
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUATUSH
+[]A\A]A^
+ATUH
+[]A\
+AVAUI
+ATUSH
+AVh`
+[]A\A]A^
+tFUSH
+tFUSH
+tVUSH
+t+SH
+AVAUA
+ATUH
+[]A\A]A^
+tSAUATA
+[]A\A]
+AWAV
+AUAT1
+l$XD
+U@H;B
+U@H;B t
+[]A\A]A^A_1
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AUATI
+[]A\A]
+u2I9
+AUAT
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+x(WD
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+p$VD
+[]A\A]H
+[]A\A]
+tyATUSH
+[]A\
+AUATI
+[]A\A]
+ueE1
+[]A\A]
+AUATUSH
+[]A\A]
+R@SL
+[]A\A]
+AWAVAUATI
+8[]A\A]A^A_
+L$81
+AQjfA
+D$@APjdATL
+D$PH
+\$(L
+[]A\A]A^A_
+AWAVAUATUSH
+D$hH
+D$hP
+AXAYI
+([]A\A]A^A_
+r(9F
+C@Y^
+B(E1
+@(D9h
+AWAV1
+AUATI
+[]A\A]A^A_
+D$(H
+AWAV1
+AUAT
+[]A\A]A^A_
+AWAVA
+AUATI
+D$@D
+[]A\A]A^A_
+]A\A]A^A_
+AWAV
+AUATUSH
+[]A\A]A^A_
+C@E1
+ATUI
+[]A\
+ATUI
+[]A\
+ATUI
+[]A\
+ATUI
+p(Sh
+[]A\
+AUATI
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+ATUI
+[]A\
+ATUI
+[]A\
+ATUA
+[]A\
+AWAV
+AUATUSH
+([]A\A]A^A_
+C@E1
+AWAVAUATUSH
+([]A\A]A^A_
+ATUI
+[]A\
+AWAVAUATI
+<$tHH
+[]A\A]A^A_
+ATUI
+[]A\
+ATUI
+[]A\
+ATUI
+[]A\
+AWAVAUATI
+D$81
+T$(L
+D$8dH3
+H[]A\A]A^A_
+L$0H
+AWAVI
+AUATUSH
+j8dH
+[]A\A]A^A_
+AUATI
+[]A\A]
+AUATI
+[]A\A]
+AUATI
+[]A\A]
+AUATI
+[]A\A]
+AUATI
+S0E1
+K,E1
+([]A\A]
+AUATI
+[]A\A]
+t~SH
+ATU1
+[]A\1
+ATUH
+[]A\
+AUATUSH
+[]A\A]
+ATUH
+AWAV1
+AUATI
+[]A\A]A^A_
+HcrTHczP
+RXHcplHcxh
+t#SH
+AWAVI
+AUAT
+T$PH
+T$XH
+T$`H
+[]A\A]A^A_
+t#SH
+AWAVI
+AUAT
+[]A\A]A^A_
+ATUI
+[]A\
+AUATUSH
+[]A\A]
+[]A\A]
+ATUI
+C8t@H
+[]A\
+k@t;H9
+ATUSH
+[]A\
+[]A\
+ATUI
+CXt#H
+[]A\1
+[]A\
+ATUI
+[]A\
+ATUI
+[]A\
+[]A\
+AVAUATI
+|$XSH
+D$pH
+Do nine men interpret Nine men I nod
+T$(H
+T$0H
+|$8L
+L$PM
+|$XA
+A\A]A^
+|$@H
+T$P[I
+|$XM
+]A\A]A^1
+ATUI
+CH[]A\
+[]A\
+[]A\
+;*u*
+ATUSt_H
+[]A\
+AWAVAUATUSH
+l$`L
+t$hL
+|$pM
+\$`L
+[]A\A]A^A_
+[]A\A]A^A_1
+AVAUATUSH
+[]A\A]A^
+AWAVI
+AUAT
+l$`H
+([]A\A]A^A_
+AWAVAUATA
+t$`L
+|$hL
+ATAWH
+L$(H
+[]A\A]A^A_
+AWAVAUATA
+t$`L
+|$hL
+ATAWH
+L$(H
+[]A\A]A^A_
+AWAVAUATA
+t$`L
+|$hL
+ATAWH
+L$(H
+[]A\A]A^A_
+AWAVI
+AUAT
+l$`L
+d$hH
+\$pH
+([]A\A]A^A_
+AUATI
+[]A\A]
+AVAUI
+ATUH
+[]A\A]A^
+[]A\A]A^
+AWAVI
+AUATI
+([]A\A]A^A_
+;t<H
+;t H
+ATUI
+[]A\1
+AWAVA
+AUATA
+4$E1
+~%A:
+[]A\A]A^A_
+AWAVI
+AUATA
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUATUA
+<$ H
+]A\A]A^
+tsUS
+AUATUSH
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+t;USH
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+t[ATUSH
+t;USH
+AWAVAUATI
+[]A\A]A^A_
+AVAUATUA
+[]A\A]A^
+trSH
+<3/tTH
+xiHc
+<3/t6
+<3/u
+t;SH
+tSATU
+[]A\H)
+[]A\
+AVAUATUSt~H
+tJHc
+<4/A
+]A\A]A^
+]A\A]A^
+?.t	
+trSH
+tKATUSH
+[]A\H)
+[]A\
+ATUH
+| Hc
+[]A\
+AVAUI
+]A\A]A^
+ATUH
+[]A\
+ATUS
+[]A\
+ATUSH
+t$(H
+T$0H
+L$8L
+D$@L
+L$HdH
+D$ H
+P[]A\
+ATUH
+<ct-<nt
+ATUH
+[]A\
+t,< u
+ t4f
+? trf
+ATUStGH
+[]A\
+ATUA
+t+SH
+AUATUSH
+[]A\A]
+[]A\A]
+t+SH
+ATUSH
+u	[]A\
+[]A\
+AVAUI
+ATU1
+L$HI
+t$HH
+D$ H
+P[]A\A]A^
+ATUI
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+[]A\
+AWAVAUATM
+D$x1
+t$`L
+D$`(
+D$d0
+D$hH
+\$xdH3
+[]A\A]A^A_
+t$ 1
+XZf.
+tKUSH
+t"E1
+USE1
+t"E1
+USE1
+t"E1
+t"E1
+ATUA
+[]A\
+AUATH
+[]A\A]
+$9T$
+ATUS
+[]A\
+ATUSt_H
+[]A\
+AUATUSH
+[]A\A]
+[]A\A]
+[]A\A]
+AVAUATUSH
+ []A\A]A^
+AWAVE1
+AUATI
+D$81
+T$0H
+t$(H
+|$01
+|$01
+T$ L
+T$ H
+D$8dH3
+God A red nugget A fat egg under a dog
+H[]A\A]A^A_
+ATUI
+[]A\
+AWAVAUATA
+D$ D
+t$ H
+t$,H
+t$ H
+[]A\A]A^A_
+AUATA
+<*tH~
+</tR
+[]A\A]
+AUAT
+([]A\A]
+K"f9
+fD; I
+AVAU
+ATUI
+<;t(<.A
+D, H
+|$ B
+[]A\A]A^
+t3SH
+[]A\
+ATU1
+[]A\
+AUATH
+[]A\A]
+AUAT1
+[]A\A]
+[]A\A]
+AVAUATUH
+ []A\A]A^
+ATUH
+[]A\
+AUATM
+ u3H
+]A\A]
+AUATM
+ u3H
+]A\A]
+AUATM
+ u3H
+[]A\A]
+AUATI
+|$xL
+|$x1
+|$xH
+|$xH
+[]A\A]
+|$xH
+ATUI
+[]A\
+AWAVAUATUSH
+D$H1
+D$HdH3
+X[]A\A]A^A_
+AUATI
+[]A\A]
+ATUI
+[]A\
+AWAVE
+AUATUSH
+L$8H
+D$4L
+t$<H
+L$ L
+L$(D
+\$<H
+L$ H
+T$8D
+D$41
+[]A\A]A^A_1
+AWAVI
+AUATUSH
+t$pH
+hp+E
+h0GE
+h`WE
+L$XH
+T$PH
+([]A\A]A^A_
+AWAVM
+AUATI
+X[]A\A]A^A_
+AVAUM
+ATUI
+[]A\A]A^
+USE1
+AWAVI
+AUATUSH
+D$81
+D$8dH3
+H[]A\A]A^A_
+t$ H
+T$(L
+t$(H
+L$0H
+T$(H
+t$ L
+AWAVI
+AUATUSH
+t$pH
+hp+E
+h0GE
+h`WE
+L$XH
+T$PH
+([]A\A]A^A_
+AWAVAUATI
+D$(H
+L$4H
+L$8H
+L$@H
+T$HH
+D$8H
+L$4D
+L$,H
+t$(H
+X[]A\A]A^A_
+[]A\A]A^A_1
+AWAVI
+AUAT
+T$pH
+h`YE
+X[]A\A]A^A_
+AWAVAUATUSH
+L$<D
+D$8I
+L$4H
+T$(H
+L$<D
+L$4H
+T$(H
+H[]A\A]A^A_
+[]A\A]A^A_1
+AWAVI
+AUATUSH
+\$pD
+l$`L
+D$HE
+l$XE
+D$PE
+D$`A
+l$8I
+D$xH
+[]A\A]A^A_1
+ATUH
+[]A\
+AWAVI
+AUATL
+n0US1
+D$(1
+L$(dH3
+8[]A\A]A^A_
+|$HH
+t$ H
+|$PH
+t$ H
+H9D$
+t$xH
+Beeb
+t$xM
+|$HH
+|$PH
+AVAUI
+ATUH
+]A\A]A^
+AVAUI
+ATUSH
+]A\A]A^
+~@dH
+<$t7
+AUATUSH
+[]A\A]
+AVAUI
+ATUI
+]A\A]A^
+AWAVI
+AUATUSH
+|$0dH
+t$PL
+t$(H
+t$hH
+|$`E1
+T$hH
+t$`H
+[]A\A]A^A_
+D$h1
+D$@1
+T$81
+|$8H
+L$@L
+D$HL
+L$hL
+T$hL
+|$PH
+|$(L
+L$hL
+T$`H
+t$XM
+t$`H
+L$pH
+T$`H
+t$XL
+|$PH
+|$(L
+t$pL
+D$pL
+L;l$
+D$hH
+D$h1
+[]A\
+[]A\
+Ki,H
+AUATUSH
+[]A\A]
+uIUSH
+AVAUI
+ATUI
+t$0t
+[]A\A]A^
+t$0H
+t$0L
+t$0H
+tsSH
+AWAVA
+AUATL
+[]A\A]A^A_
+include_files_entry
+exclude_files_entry
+exclude_folders_entry
+update_checkbutton
+follow_links_checkbutton
+current-folder
+selected-files
+include-files
+exclude-files
+exclude-folders
+update
+no-symlinks
+base_dir
+filename
+include_files
+exclude_files
+exclude_folders
+no_symlinks
+add-options.ui
+Load Options
+use-header-bar
+modal
+title
+add_options_dialog
+_Delete
+_Apply
+_Cancel
+aod_treeview
+suggested-action
+destructive-action
+destroy
+row_activated
+clicked
+standard::name
+_Save
+_Options Name:
+Save Options
+Add Files
+add-dialog-options.ui
+extra_widget
+_Options
+activate
+Reset Options
+_Add
+response
+could not delete the options: %s
+You don't have the right permissions to read files from folder "%s"
+Could not add the files to the archive
+Could not load options file: %s
+Failed to enumerate children: %s
+Failed to get info while enumerating: %s
+Failed to get info after enumeration: %s
+org.gnome.FileRoller.Dialogs.Add
+ask-password.ui
+transient-for
+password_vbox
+password_entry
+dlg-ask-password.c
+Password required for "%s"
+title_label
+Wrong password.
+error_box
+dlg_ask_password__common
+Compress
+file_list != NULL
+dlg_batch_add_files
+delete.ui
+delete_box
+d_all_files_radio
+d_selected_files_radio
+d_files_entry
+org.gnome.FileRoller.Dialogs.Extract
+Destination folder "%s" does not exist.
+Do you want to create it?
+Could not create the destination folder: %s.
+You don't have the right permissions to extract archives in the folder "%s"
+_Extract
+extract-dialog-options.ui
+selected_files_radiobutton
+all_files_radiobutton
+skip-newer
+keep_newer_checkbutton
+recreate-folders
+keep_structure_checkbutton
+file_pattern_entry
+file_pattern_radiobutton
+Create _Folder
+Extraction not performed
+_Close
+Archive type not supported.
+_Search Command
+Could not open this file type
+/org/freedesktop/PackageKit
+org.freedesktop.PackageKit
+packages.match
+/usr/share/file-roller/
+(u^ass)
+InstallPackageNames
+Package Matches
+There is no command installed for %s files.
+Do you want to search for a command to open this file?
+org.freedesktop.Packagekit.Modify.Cancelled
+There was an internal error trying to search for applications:
+org.freedesktop.PackageKit.Modify
+hide-confirm-search,hide-finished,hide-warning
+encrypt_header_checkbutton
+Enter a password for "%s"
+properties.ui
+prefs_table
+p_path_label
+<a href="%s">%s</a>
+p_name_label
+%s Properties
+p_mime_type_label
+p_date_label
+p_uncomp_size_label
+p_cratio_label
+%0.2f
+p_files_label
+Update the file "%s" in the archive "%s"?
+%d files have been modified with an external application. If you don't update the files in the archive, all of your changes will be lost.
+The file has been modified with an external application. If you don't update the file in the archive, all of your changes will be lost.
+Update the files in the archive "%s"?
+update_file_primary_text_label
+update_file_secondary_text_label
+update_files_primary_text_label
+update_files_secondary_text_label
+<big><b>%s</b></big>
+update.ui
+update_file_dialog
+update_file_ok_button
+update_file_cancel_button
+update_files_dialog
+update_files_treeview
+update_files_ok_button
+update_files_cancel_button
+toggled
+active
+EggTreeMultiDndString
+motion_notify_event
+drag_data_get
+EggTreeMultiDragSource
+iface->row_draggable != NULL
+path_list != NULL
+surface != NULL
+iface->drag_data_get != NULL
+selection_data != NULL
+GTK_IS_TREE_VIEW (tree_view)
+button_press_event
+button_release_event
+XdndDirectSave0
+XdndFileRoller0
+EGG_IS_TREE_MULTI_DRAG_SOURCE (drag_source)
+egg-tree-view-multi-source-row
+iface->drag_data_delete != NULL
+_gtk_cairo_surface_extents
+egg_tree_multi_drag_add_drag_support
+egg_tree_multi_drag_source_drag_data_get
+egg_tree_multi_drag_source_drag_data_delete
+egg_tree_multi_drag_source_row_draggable
+FileData
+cache
+Failed to get %s: %s
+standard::size
+time::modified
+time::created
+standard::fast-content-type
+standard::content-type
+%s (%d)
+access::*
+access::can-read
+access::can-write
+access::can-execute
+unix::mode
+standard::name,standard::type
+filesystem::free
+/.fr-XXXXXX
+/.fr-
+Could not save options: %s
+Failed to get info while enumerating children: %s
+Failed to get info after enumerating children: %s
+- Create and modify an archive
+%s %s, Copyright 
+ 2001-2012 Free Software Foundation, Inc.
+Invalid action '%s', valid values are: create, create_single_file, extract
+Cannot initialize notification system.
+/org/gnome/FileRoller/../data/org.gnome.ArchiveManager1.xml
+Add files to the specified archive and quit the program
+Add files asking the name of the archive and quit the program
+Extract archives to the specified folder and quit the program
+Extract archives asking the destination folder and quit the program
+Extract the contents of the archives in the archive folder and quit the program
+Default folder to use for the '--add' and '--extract' commands
+Create destination folder without asking confirmation
+Use the notification system to notify the operation completion
+Failed to parse arguments: %s
+3.16.5
+Extract archive
+/org/gnome/ArchiveManager1
+GetSupportedTypes
+create
+create_single_file
+extract
+mime-type
+default-extension
+AddToArchive
+(s^asb)
+progress
+ready
+(^assb)
+(ssb)
+ExtractHere
+(sb)
+(aa{ss})
+aa{ss}
+(ds)
+Progress
+org.gnome.ArchiveManager1
+FrApplication
+Archive Manager
+org.gnome.FileRoller.Listing
+org.gnome.FileRoller.UI
+gtk-shell-shows-menubar
+gtk-shell-shows-app-menu
+flags
+org.gnome.FileRoller
+application-id
+add-to
+extract-to
+FOLDER
+extract-here
+default-dir
+notify
+Start as a service
+Show version
+Alexander Kirillov
+Breda McColgan
+translator-credits
+An archive manager for GNOME.
+comments
+copyright
+wrap-license
+license-type
+logo-icon-name
+documenters
+authors
+app-menu.ui
+changed::view-sidebar
+changed::list-mode
+app-menubar.ui
+app-menubar
+open
+true
+'as-dir'
+about
+quit
+Paolo Bacchilega <paolo.bacchilega@libero.it>
+Copyright 
+ 2001
+2014 Free Software Foundation, Inc.
+The archive file
+Content type
+The archive password
+Password
+Encrypt header
+encrypt-header
+Compression type
+compression
+Volume size
+volume-size
+start
+message
+stoppable
+working-archive
+file != NULL
+! archive->read_only
+FrArchive
+property
+fr-archive.c
+FR_IS_ARCHIVE (object)
+object != NULL
+%s%%20(%d)
+NONE
+CREATING_NEW_ARCHIVE
+LOADING_ARCHIVE
+LISTING_CONTENT
+DELETING_FILES
+TESTING_ARCHIVE
+GETTING_FILE_LIST
+COPYING_FILES_FROM_REMOTE
+ADDING_FILES
+EXTRACTING_FILES
+COPYING_FILES_TO_REMOTE
+CREATING_ARCHIVE
+SAVING_REMOTE_ARCHIVE
+RENAMING_FILES
+PASTING_FILES
+UPDATING_FILES
+A mime-type that describes the content type
+Whether to encrypt the archive header when creating the archive
+The compression type to use when creating the archive
+The size of each volume or 0 to not use volumes
+standard::name,standard::size,standard::is-hidden,standard::is-backup
+%s:%d: invalid %s id %u for "%s" of type '%s' in '%s'
+You don't have the right permissions.
+This archive type cannot be modified
+You can't add an archive to itself.
+g_simple_async_result_is_valid (result, G_OBJECT (file), fr_archive_open)
+could not create destination folder: %s
+fr_archive_remove
+fr_archive_add_files_with_filter
+fr_archive_add_files
+fr_archive_list
+fr_archive_open_finish
+fr_archive_open
+fr_archive_finalize
+?fr-command.c
+e_filename : %s
+sticky_only
+process
+Filename
+file-list
+self != NULL
+base_dir: %s
+dest_dir: %s
+mkdir %s
+symlink %s --> %s
+nothing to update.
+destination_path != NULL
+FrCommand
+notify::file
+Archive not found
+FR_IS_COMMAND (object)
+Failed to delete the local copy: %s
+Failed to delete temp folder: %s
+The process object used by the command
+The path of the archive the command will use (can be different from local_copy)
+All files got filtered, nothing to do.
+fr_command_finalize
+_fr_command_remove
+fr_command_extract
+_fr_command_extract
+_fr_command_extract
+find_file_in_archive
+create_tmp_base_dir
+_fr_command_add
+_fr_command_set_filename
+.001
+Wrong password?
+Enter password
+application/x-7z-compressed
+application/x-rar
+application/x-cbr
+application/x-cbz
+application/zip
+-sfx
+-tzip
+-mem=AES128
+-mhe=on
+-mx=1
+-mx=5
+-mx=7
+-mx=9
+-m0=lzma2
+-v%ub
+-slt
+Extracting "%s"
+Extracting  
+Creating archive 
+Adding "%s"
+Compressing  
+p7zip,p7zip-rar
+p7zip,p7zip-full
+FrCommand7z
+p7zip Version 
+4.55
+Listing archive: 
+----------
+Multivolume = 
+Path
+Modified
+Method
+Attributes
+line != NULL
+FR_IS_COMMAND_7Z (object)
+application/x-arj
+application/x-cd-image
+application/x-ms-wim
+application/x-7z-compressed-tar
+/usr/lib/p7zip/Codecs/Rar29.so
+application/x-ms-dos-executable
+application/vnd.ms-cab-compressed
+fr_command_7z_finalize
+list__process_line
+unace
+FrCommandAce
+UNACE
+public version
+  Date
+fr-command-ace.c
+FR_IS_COMMAND_ACE (object)
+application/x-ace
+fr_command_ace_finalize
+process_line
+unalz
+LC_CTYPE
+-euc-kr
+-cp949
+-utf8
+LC_ALL
+LANG
+UTF-8
+utf-8
+FrCommandAlz
+-pwd
+unalziiiing :
+done..
+FR_IS_COMMAND_ALZ (object)
+application/x-alz
+err code(28) (invalid password)
+fr_command_alz_finalize
+process_line
+process_extract_line
+binutils
+application/x-deb
+application/x-ar
+ -> 
+ link to 
+FrCommandAr
+FR_IS_COMMAND_AR (object)
+%c%c%c %a%n %n%n:%n%n %n%n%n%n
+fr_command_ar_finalize
+process_line
+[0-9]+\) 
+-ht/
+FrCommandArj
+MS-DOS
+WIN32
+FR_IS_COMMAND_ARJ (object)
+fr_command_arj_finalize
+list__process_line
+application/x-gzip
+application/x-bzip
+application/x-compress
+uncompress
+application/x-lzip
+application/x-lzma
+application/x-xz
+application/x-lzop
+--no-stdin
+application/x-rzip
+Unhandled mime type: '%s'
+fr-command-cfile.c
+FrCommandCFile
+FR_IS_COMMAND_CFILE (object)
+application/x-rzip-compressed-tar
+fr_command_cfile_finalize
+fr_command_cfile_add
+cpio -itv < 
+FrCommandCpio
+FR_IS_COMMAND_CPIO (object)
+application/x-cpio
+cpio -idu --no-absolute-filenames 
+fr_command_cpio_finalize
+list__process_line
+dpkg
+dpkg-deb
+bytes,
+/DEBIAN/
+DEBIAN
+FrCommandDpkg
+FR_IS_COMMAND_DPKG (object)
+fr_command_dpkg_finalize
+process_data_line
+genisoimage
+isoinfo
+FrCommandIso
+FR_IS_COMMAND_ISO (object)
+/usr/lib/file-roller/file-roller/isoinfo.sh
+fr_command_iso_finalize
+list__process_line
+zip,unzip
+.java
+.class
+FrCommandJar
+FR_IS_COMMAND_JAR (object)
+application/x-java-archive
+fr_command_jar_finalize
+[generic]
+[unknown]
+[MS-DOS]
+FrCommandLha
+FR_IS_COMMAND_LHA (object)
+application/x-lha
+fr_command_lha_finalize
+process_line
+Decompressed file size:
+FrCommandLrzip
+FR_IS_COMMAND_LRZIP (object)
+application/x-lrzip
+fr_command_lrzip_finalize
+list__process_line
+rar,unrar
+  OK 
+Extracting from 
+Deleting from 
+Removing "%s"
+Deleting 
+^.*\.part(0)*2\.rar$
+Adding    
+password incorrect
+password is incorrect
+wrong password
+Cannot find volume
+Could not find the volume: %s
+-Idp
+FrCommandRar
+UNRAR 
+UNRAR %d.
+Volume 
+FR_IS_COMMAND_RAR (object)
+fr_command_rar_finalize
+process_line
+cpio,rpm
+ -idu 
+ -itv
+FrCommandRpm
+FR_IS_COMMAND_RPM (object)
+application/x-rpm
+/usr/lib/file-roller/file-roller/rpm2cpio 
+fr_command_rpm_finalize
+list__process_line
+Decompressing archive
+Recompressing archive
+Deleting files from archive
+application/x-compressed-tar
+--use-compress-program=bzip2
+application/x-tarz
+--use-compress-program=lrzip
+--use-compress-program=lzip
+--use-compress-program=lzma
+--use-compress-program=xz
+--use-compress-program=lzop
+--use-compress-program=%s
+--force-local
+--no-wildcards
+--keep-newer-files
+-tvf
+tar,gzip
+tar,bzip2
+tar,gzip,ncompress
+tar,lrzip
+tar,lzma
+tar,lzip
+tar,rzip
+tar,p7zip
+tar,lzop
+tar,xz
+application/x-tar
+/usr/sfw/bin/gtar
+%n%n%n%n-%n%n-%n%n %n%n:%n%n
+FrCommandTar
+-dfU
+.tgz
+.tar.gz
+.tbz2
+.tar.bz2
+.taz
+.tar.Z
+.tlrz
+.tar.lrz
+.tlz
+.tar.lz
+.tar.lzma
+.tar.xz
+.tzo
+.tar.lzo
+.tar.7z
+.tar.rz
+--delete
+--no-recursion
+FR_IS_COMMAND_TAR (object)
+application/x-bzip-compressed-tar
+application/x-lrzip-compressed-tar
+application/x-lzip-compressed-tar
+application/x-lzma-compressed-tar
+application/x-xz-compressed-tar
+application/x-lzop-compressed-tar
+fr_command_tar_finalize
+process_line
+unsquashfs
+-dest
+-force
+-lls
+squashfs-root/
+squashfs-root
+FrCommandUnsquashfs
+application/vnd.squashfs
+application/vnd.snap
+FR_IS_COMMAND_UNSQUASHFS (object)
+fr_command_unsquashfs_finalize
+process_data_line
+unstaff
+orig != NULL
+unstuff
+FrCommandUnstuff
+-d=%s
+--trace
+fileEvent
+progressEvent - 
+str_start[i] != '\0'
+application/x-stuffit
+FR_IS_COMMAND_UNSTUFF (object)
+fr_command_unstuff_finalize
+process_line
+unstuff_is_shit_with_filenames
+[]*?!^-\
+-ZTs
+incorrect password
+FrCommandZip
+Empty zipfile.
+FR_IS_COMMAND_ZIP (object)
+application/x-ear
+application/x-war
+fr_command_zip_finalize
+list__process_line
+-test
+FrCommandZoo
+FR_IS_COMMAND_ZOO (object)
+application/x-zoo
+fr_command_zoo_finalize
+process_zoo_line
+FrError
+files_liststore
+Could not load the location
+location_entry
+places_sidebar
+file_list_context_menu
+font
+(ii)
+window-size
+extra_widget_container
+FrFileSelectorDialog
+file-selector.ui
+show-hidden
+show_hidden_files_menuitem
+row-activated
+go_up_button
+open-location
+button-press-event
+unselect_all_menuitem
+main_paned
+sidebar-size
+text/plain
+folder != NULL
+standard::type,standard::name,standard::size,standard::display-name,standard::icon,standard::is-hidden,time::modified,time::modified-usec
+org.gnome.FileRoller.FileSelector
+is_selected_cellrenderertoggle
+fr_file_selector_dialog_set_current_folder
+R@/usr/share/file-roller/icons
+.gnome2/file-roller/options
+mime type not recognized: %s
+.ace
+.alz
+.arj
+.bin
+.cab
+.cbr
+.cbz
+.cpio
+.deb
+.click
+.ear
+.exe
+.iso
+.jar
+.lha
+.lzh
+.rar
+.rpm
+.sit
+.sqsh
+.swm
+.tar
+.tar.bz
+.tbz
+.txz
+.tzma
+.war
+.wim
+.xar
+application/x-xar
+.zip
+.zoo
+application/x-bzip1
+application/x-bzip1-compressed-tar
+FrWindow
+window != NULL
+FrListModel
+n_columns > 0
+fr_list_model_new
+fr_list_model_multi_row_draggable
+fr_list_model_multi_drag_data_get
+FrLocationBar
+location-bar
+GNOME
+primary-toolbar
+.location-bar {
+	border-width: 0 0 1px 0;
+extension_comboboxtext
+volume_checkbutton
+volume_spinbutton
+password_label
+volume_box
+archive_icon
+FrNewArchiveDialog
+new-archive-dialog.ui
+C_reate
+filename_entry
+parent_filechooserbutton
+other_options_expander
+Could not create the archive
+_Replace
+org.gnome.FileRoller.Dialogs.New
+You have to specify an archive name.
+access::can-read,access::can-write,access::can-execute,standard::display-name
+Failed to get permission for extraction dir: %s
+You don't have permission to create an archive in this folder
+New name is the same as old one, please type other name.
+A file named "%s" already exists.  Do you want to replace it?
+The file already exists in "%s".  Replacing it will overwrite its contents.
+Could not delete the old archive.
+>LC_MESSAGES=C
+%d/%d) 
+fr-process.c
+! process->priv->running
+[error ignored]
+FrProcess
+process != NULL
+FR_IS_PROCESS (object)
+arg != NULL
+ISO-8859-1
+WINDOW-1252
+index >= 0 && index <= process->priv->n_comm
+process->priv->current_comm >= 0
+g_simple_async_result_is_valid (result, G_OBJECT (process), fr_process_execute)
+fr_process_execute_finish
+check_child
+execute_current_command
+fr_process_execute
+fr_process_set_err_line_func
+fr_process_set_out_line_func
+fr_process_use_standard_locale
+fr_process_end_command
+fr_process_set_continue_func
+fr_process_set_end_func
+fr_process_set_begin_func
+fr_process_set_arg_at
+fr_process_add_arg
+fr_process_set_ignore_error
+fr_process_set_sticky
+fr_process_set_working_dir
+fr_process_begin_command_at
+fr_process_begin_command
+fr_process_clear
+fr_process_finalize
+archive-loaded
+enabled
+fr_dialog_name
+Creating "%s"
+Loading "%s"
+Reading "%s"
+Deleting the files from "%s"
+Testing "%s"
+Getting the file list
+Adding the files to "%s"
+Saving "%s"
+Renaming the files in "%s"
+Updating the files in "%s"
+progress-dialog.ui
+progress_dialog_content
+_Show the Files
+_Open the Archive
+_Quit
+pack-type
+icon_image
+action_label
+progress_progressbar
+message_label
+progress_box
+delete_event
+%'d files remaining
+%d file remaining
+Please wait
+"%s" created successfully
+context != NULL
+single
+::DragEnd -->
+fr-window.c
+::DragEnd <--
+underline
+LastOutput
+rdata != NULL
+odata != NULL
+edata != NULL
+File Roller
+[read only]
+%s %s
+action != NULL
+::DragBegin -->
+xds.txt
+application/x-archive
+sort-method
+sort-type
+FR_IS_WINDOW (window)
+GTK_IS_WIDGET (child)
+%s: area not recognized!
+child != NULL
+window-width
+window-height
+sidebar-width
+name-column-width
+close
+edit-password
+open-with
+save-as
+test-archive
+view-properties
+view-selection
+mktree %s
+window->archive != NULL
+Operation completed
+emblem-symbolic-link
+emblem-nowrite
+owner_change
+<Control>w
+application
+org.gnome.FileRoller.General
+org.gnome.FileRoller.Dialogs
+show
+drag_data_received
+drag_motion
+key_press_event
+compression-level
+File
+Name
+pixbuf
+ellipsize
+leave_notify_event
+drag_begin
+drag_end
+search-changed
+Folders
+Borrow or rob
+weight
+win.extract-files
+win.add-files
+list-add-symbolic
+gears-menu.ui
+Find files by name
+win.find
+edit-find-symbolic
+win.go-back
+go-previous-symbolic
+win.go-forward
+go-next-symbolic
+raised
+linked
+Go to the home location
+win.go-home
+user-home-symbolic
+_Location:
+folder-symbolic
+menus.ui
+file-popup
+folder-popup
+sidebar-popup
+changed::show-type
+changed::show-size
+changed::show-time
+changed::show-path
+changed::click-policy
+new_archive
+New Archive
+standard::display-name
+Last Output
+destroy-with-parent
+monospace
+family
+unrealize
+_Rename
+_New folder name:
+_New file name:
+Could not rename the folder
+Could not rename the file
+Please use a different name.
+_Paste
+_Destination folder:
+Paste Selection
+default_dir != NULL
+::DragDataReceived -->
+_Open
+Create _Archive
+::DragDataReceived <--
+Test Result
+[BATCH] LOAD
+[BATCH] ADD
+[BATCH] REMOVE
+[BATCH] OPEN
+[BATCH] EXTRACT
+[BATCH] EXTRACT HERE
+[BATCH] EXTRACT_INTERACT
+[BATCH] RENAME
+[BATCH] PASTE
+[BATCH] OPEN FILES
+[BATCH] SAVE_AS
+[BATCH] TEST
+[BATCH] ENCRYPT
+[BATCH] CLOSE
+[BATCH] QUIT
+Command exited abnormally.
+Replace file "%s"?
+_Skip
+Replace _All
+fdata != NULL
+::DragDataGet -->
+::DragDataGet <--
+uri != NULL
+Could not open "%s"
+An error occurred.
+Command not found.
+desktop-entry
+actions
+document-open-symbolic
+error != NULL
+Type
+Location
+text/uri-list
+deselect-all
+<Shift><Control>a
+<Control>c
+<Control>e
+<Control>f
+reload
+<Control>r
+<control>a
+<alt>Return
+false
+sidebar-delete
+sidebar-edit-copy
+sidebar-edit-cut
+sidebar-edit-paste
+sidebar-extract-files
+sidebar-open-folder
+sidebar-rename
+stop
+Copying the files to add to "%s"
+Extracting the files from "%s"
+Copying the extracted files to the destination
+<span weight="bold" size="larger">%s</span>
+gdk_drag_context_get_source_window (context) != NULL
+_FILE_ROLLER_SPECIAL_CLIPBOARD
+application/file-roller-uri-list
+Moving the files from "%s" to "%s"
+Copying the files from "%s" to "%s"
+Could not save the archive "%s"
+org.gnome.nautilus.preferences
+Go to the previous visited location
+Go to the next visited location
+New name is void, please type a name.
+Name "%s" is not valid because it contains at least one of the following characters: %s, please type other name.
+A folder named "%s" already exists.
+A file named "%s" already exists.
+Could not perform the operation
+Do you want to add this file to the current archive or open it as a new archive?
+Do you want to create a new archive with these files?
+standard::type,standard::name,standard::display-name
+Another file with the same name already exists in "%s".
+An error occurred while extracting files.
+An error occurred while loading the archive.
+An error occurred while deleting files from the archive.
+An error occurred while adding files to the archive.
+An error occurred while testing archive.
+An error occurred while saving the archive.
+An error occurred while renaming the files.
+An error occurred while updating the files.
+Could not display the folder "%s"
+Extraction completed successfully
+fr_window_set_batch__extract
+fr_window_set_batch__extract_here
+fr_window_start_batch
+fr_window_append_batch_action
+fr_window_set_folders_visibility
+fr_window_set_default_dir
+fr_window_set_extract_default_dir
+fr_window_set_add_default_dir
+fr_window_set_open_default_dir
+open_files_data_unref
+open_file_modified_cb
+fr_window_open_extracted_files
+open_files_data_ref
+_encrypt_operation_completed_with_error
+fr_window_set_list_mode
+fr_window_go_forward
+fr_window_go_back
+fr_window_go_up_one_level
+fr_window_go_to_location
+fr_window_set_volume_size
+fr_window_set_compression
+fr_window_set_encrypt_header
+fr_window_get_password_for_second_archive
+fr_window_get_password
+fr_window_set_password_for_second_archive
+fr_window_set_password
+archive_is_encrypted
+extract_data_free
+fr_window_archive_reload
+fr_window_archive_is_present
+fr_window_get_archive_file_for_paste
+fr_window_get_archive_file
+fr_window_archive_close
+fr_window_archive_open
+fr_window_archive_new
+fr_window_attach
+fr_window_drag_data_received
+file_list_drag_end
+tree_view_drag_begin
+fr_window_folder_tree_drag_data_get
+fr_window_folder_tree_drag_data_get
+get_xds_atom_value
+nautilus_xds_dnd_is_valid_xds_context
+fr_window_file_list_drag_data_get
+fr_window_file_list_drag_data_get
+_convertion_completed_with_error
+fr_window_archive_save_as
+fr_window_paste_from_clipboard_data
+rename_data_free
+fr_window_exec_batch_action
+fr_window_get_selected_folder_in_tree_view
+fr_window_get_selected_item_from_file_list
+fr_window_get_file_list_pattern
+fr_window_get_file_list_from_path_list
+fr_window_get_folder_tree_selection
+fr_window_get_file_list_selection
+_fr_window_stop_activity_mode
+_fr_window_start_activity_mode
+fr_window_change_action_state
+?fr_window
+archive_loaded
+All archives
+All files
+id::file
+for_each_file_func != NULL
+G_IS_FILE (file)
+standard::name,standard::type,id::file
+standard::name,standard::type,standard::is-hidden,standard::is-backup,id::file
+g_simple_async_result_is_valid (result, G_OBJECT (file), _g_file_load_buffer_async)
+_g_file_make_directory_with_parents
+_g_file_load_buffer_finish
+_g_file_load_buffer_async
+g_directory_foreach_child
+file_filter_matches
+$'`"\!?* ()[]&|:;<>#
+%d %B %Y, %H:%M
+unable to open magic database
+!$&'()*+,;=:@/
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+unable to detect filetype from magic: %s
+icon_theme != NULL
+gth_icon_cache_new
+image-button
+text-button
+accel_data != NULL
+dialog != NULL
+C_ommand Line Output:
+height-request
+width-request
+shadow-type
+text-x-generic
+help:file-roller
+Could not display help
+/usr/share/file-roller/ui
+/org/gnome/FileRoller/ui/
+security-medium-symbolic
+Change password visibility
+icon-press
+label != NULL
+action_name != NULL
+icon_name != NULL
+app.
+win.
+accel
+gtk-dialogs-use-header
+request-dialog.ui
+request_box
+value_entry
+accel_data_free
+_gtk_header_bar_create_image_toggle_button
+_gtk_header_bar_create_image_button
+_gtk_header_bar_create_text_button
+_gtk_dialog_add_to_window_group
+package
+OpenFile
+Rar!
+^(.*\.part)([0-9]+)(\.rar)$
+^(.*\.r)([0-9]+)$
+^(.*\.)([0-9]+)$
+XDG_CURRENT_DESKTOP
+n_param_values == 3
+fr_marshal_VOID__DOUBLE_STRING
+fr_marshal_VOID__INT_BOXED
+fr_marshal_VOID__INT_INT
+FrClipboardOp
+FrWindowListMode
+FrCompression
+FrOverwrite
+FR_OVERWRITE_YES
+FR_OVERWRITE_NO
+FR_OVERWRITE_ASK
+FR_COMPRESSION_VERY_FAST
+very-fast
+FR_COMPRESSION_FAST
+FR_COMPRESSION_NORMAL
+normal
+FR_COMPRESSION_MAXIMUM
+maximum
+FR_WINDOW_LIST_MODE_FLAT
+flat
+FR_WINDOW_LIST_MODE_AS_DIR
+as-dir
+FR_CLIPBOARD_OP_CUT
+FR_CLIPBOARD_OP_COPY
+unarchiver
+lsar
+unar
+FrCommandUnarchiver
+-password=
+-output-directory=
+lsarFormatVersion
+lsarContents
+XADFileSize
+XADLastModificationDate
+%Y-%m-%d %H:%M:%S %z
+XADIsEncrypted
+XADFileName
+XADIsDirectory
+FR_IS_COMMAND_UNARCHIVER (object)
+fr_command_unarchiver_finalize
+Fatal error
+base_dir != NULL
+time::access-usec
+time::access
+time::created-usec
+time::modified-usec
+unix::device
+unix::gid
+unix::uid
+unix::inode
+unix::nlink
+unix::rdev
+standard::symlink-target
+FrArchiveLibarchive
+standard::*,time::*,access::*,unix::*
+standard::display-name,time::modified
+Could not create the hard link %s
+FR_IS_ARCHIVE_LIBARCHIVE (object)
+fr_archive_libarchive_finalize
+fr_archive_libarchive_add_files
+fr_archive_libarchive_paste_clipboard
+/usr//locale
+GVariant
+gears-menu.ui
+SDU$D
+(uuay)add-dialog-options.ui
+#PLs
+ZBY0=
+a F};
+Gr\_Z
+6psT
+FTqO
+W@-&
+m .%l?q
+zy)a}Z
+F5q3
+ZK+"b]
+_\^=
+|6A7
+;:Zm
+H="nk
+vArUY
+(uuay)add-options.ui
+.eaj
+/6obI
+x/o|
+qQs-OX
+(uuay)data/
+password.ui
+6<S2
+r&V{P
+Ftc~
+HnR[
+mzl7
+Yj0Z
+Nk'j
+;4GO}k4
+;<[,
+(uuay)../
+app-menu.ui
+n,EE
+M+n|
+Tk|yz
+(uuay)update.ui
+*Br%
+\-~@?
+C->.
+nbH~
+XyRm
+er&Zd
+pLUua
+}n+v
+*'yb
+qUH2D
+\R-c)
+VUD|
+dnO$s
+$yQ`UK
+?"L)
+3]Pm
+a$@F
+W3*:
+Hv4QG
+q*_|
+2n&G
+*LZB 
+O:M?
+|t$[
+(uuay)extract-dialog-options.ui
+P 2`
+)$hX0
+| d8{^
+CW'Mzg
+R2f2
+i+fi
+ l$T
+]z)s
+2']^
+_Lz6
+hjbD
+W:|U
+(uuay)properties.ui
+D$!-4
+)?V:
+k%c?
+}e=m
+(uuay)gnome/
+progress-dialog.ui
+zh7i
+&.F,
+"qxSG
+H>li%"
+-,K:
+(uuay)request-dialog.ui
+c;9_
+rhf 0;`,9
+oZ2hY
+yvmZL&
+Ekyv
+r]z.
+PJj,
+(uuay)org/
+file-selector.ui
+)X\;
+a"EB
+=7$S~VX
+SBsB
+j&YH
+D]I)
+B~V7
+$IBB
+1rGX
+Dv8B
+85U 
+bZOD
+sd>Ggs
+C-QU
+jnj9
+(uuay)ask-password.ui
+-A**
+F!#JM
+dpM#
+;`PeV
+#FwB
+VND	
+uFpF
+<(oX
+hIXV
+p]pX
+)	5]
+(uuay)menus-toolbars.ui
+6%?k
+6J00x'
+ 4>+J:
+>",NZ
+_vy5
+(uuay)app-menubar.ui
+TTjA
+GXlM
+e<.1
+c>os>Mo
+b  H
+_>*X
++~	w
+(uuay)new-archive-dialog.ui
+zidKr
+2u&N3q&
+!)gW^
+@GcU
+&&Y_kS
+\REy
+B"e~
+5x0I20	
+y=A|	Vl
+eain
+;2//
+|CTz
+QLq81
+(uuay)/
+delete.ui
+_ER#
+O&-82
+D3kf~
+`aT6
+eq;t
+[,j,
+qD.F
+.vhM
+-!`S
+ub'~#
+(uuay)menus.ui
+R(J[a
+,/rZN
+H6S	
+(uuay)org.gnome.ArchiveManager1.xml
+9<3g.
+3@tP
+>2	K
+h;-C
+E&dV
+jZ|q
+5;[\ol
+d5$/NA
+S+@-
+Xyr!F
+\Jwq
+7FE[w
+g6j4
+(uuay)FileRoller/
+;*3$"
+286e83f14bd66b145d5b64c398333b185f6620.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.gresource.fr
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

@@ -1,0 +1,4615 @@
+/lib/ld-linux.so.2
+libgtk-x11-2.0.so.0
+gtk_text_buffer_insert_at_cursor
+gtk_hseparator_new
+gtk_hbutton_box_set_layout_default
+g_dir_close
+g_strdup_printf
+gtk_statusbar_push
+gtk_text_iter_get_offset
+gtk_button_box_set_layout
+gtk_text_buffer_get_insert
+gtk_text_view_scroll_to_iter
+gtk_radio_button_new_with_mnemonic_from_widget
+gtk_menu_get_type
+gtk_widget_grab_default
+gtk_toggle_button_get_type
+gtk_table_attach_defaults
+gtk_text_buffer_apply_tag
+gtk_bin_get_child
+gtk_list_store_remove
+gtk_entry_set_text
+gtk_cell_renderer_pixbuf_new
+gtk_item_factory_create_item
+Do nine men interpret Nine men I nod
+gtk_tree_view_column_pack_start
+g_string_free
+gtk_color_selection_get_type
+g_main_context_iteration
+gtk_clist_remove
+gtk_radio_button_get_type
+gtk_vpaned_new
+gtk_text_iter_forward_to_line_end
+g_hash_table_replace
+gtk_editable_delete_text
+gtk_cell_renderer_toggle_new
+gtk_entry_set_activates_default
+gtk_object_get_type
+g_memdup
+g_signal_handler_block
+gtk_text_buffer_get_text
+gtk_drag_finish
+gtk_tree_model_get_path
+gtk_scrolled_window_get_type
+gtk_text_view_set_left_margin
+gtk_toggle_button_get_active
+gtk_paned_set_position
+gtk_window_resize
+gtk_tree_model_get_iter
+gtk_spin_button_set_numeric
+gtk_text_iter_starts_word
+gtk_scrolled_window_new
+gtk_notebook_append_page_menu
+gtk_misc_set_alignment
+gtk_separator_menu_item_new
+gtk_list_store_append
+gtk_tree_path_down
+gtk_tree_store_new
+gtk_text_iter_get_text
+gtk_text_iter_begins_tag
+g_signal_emit_by_name
+gtk_widget_show
+gtk_window_add_accel_group
+gtk_spin_button_update
+gtk_tree_view_expand_all
+g_unichar_to_utf8
+gtk_notebook_get_current_page
+g_list_insert
+gtk_tree_view_get_path_at_pos
+gdk_pixbuf_get_height
+gtk_file_selection_set_filename
+gtk_tree_row_reference_get_path
+gtk_toggle_button_set_active
+gtk_toolbar_set_orientation
+g_filename_to_utf8
+gtk_text_iter_set_line
+gtk_scrolled_window_set_shadow_type
+gtk_widget_set_size_request
+gtk_label_get_text
+g_object_set
+gtk_text_iter_backward_chars
+gtk_hbox_new
+gtk_widget_modify_bg
+gtk_menu_item_new_with_label
+gtk_statusbar_get_type
+gtk_toolbar_insert_stock
+gdk_color_parse
+gtk_tree_view_columns_autosize
+gtk_dialog_add_action_widget
+gtk_widget_show_all
+g_signal_connect_data
+g_error_free
+g_signal_handlers_unblock_matched
+gtk_signal_connect_full
+gtk_font_selection_dialog_set_font_name
+pango_tab_array_free
+gtk_text_iter_get_line
+gtk_progress_bar_set_fraction
+g_strfreev
+gtk_text_iter_backward_to_tag_toggle
+gtk_tree_path_get_depth
+pango_font_description_from_string
+gtk_text_view_window_to_buffer_coords
+gtk_notebook_page_num
+gtk_clist_insert
+gtk_widget_set_name
+gtk_tree_store_append
+gtk_window_set_type_hint
+gtk_window_set_resizable
+pango_font_description_free
+gtk_frame_new
+g_hash_table_remove
+gtk_label_set_markup
+gtk_notebook_set_tab_pos
+g_file_test
+g_slist_last
+gtk_image_menu_item_new_with_label
+gtk_menu_item_get_submenu
+gtk_text_view_set_tabs
+gtk_scale_set_digits
+gtk_dialog_new
+gtk_tree_view_scroll_to_cell
+gtk_widget_get_settings
+gtk_option_menu_get_history
+g_ascii_table
+gtk_tree_path_free
+gtk_text_buffer_get_iter_at_line
+g_utf8_validate
+gtk_table_attach
+gtk_editable_set_editable
+gtk_radio_button_new_with_label
+g_signal_handler_disconnect
+gtk_paned_add2
+gtk_menu_shell_insert
+g_filename_from_utf8
+gtk_notebook_set_tab_hborder
+gtk_accel_group_new
+g_snprintf
+gtk_radio_menu_item_get_type
+gtk_item_factory_create_items
+gtk_text_buffer_move_mark_by_name
+g_main_context_pending
+gtk_check_button_new_with_mnemonic
+gtk_option_menu_get_menu
+gtk_tree_store_insert_before
+gtk_combo_new
+gtk_container_add
+gtk_tree_view_get_visible_rect
+gdk_pixbuf_new_from_file
+gtk_color_selection_set_has_palette
+gtk_frame_set_label_widget
+gtk_widget_get_parent
+gtk_menu_shell_append
+gtk_toolbar_set_style
+gtk_table_get_type
+gtk_list_store_get_type
+g_list_nth
+gtk_check_button_new_with_label
+gtk_dialog_set_default_response
+gtk_window_set_transient_for
+gtk_misc_get_type
+gtk_widget_get_toplevel
+gtk_frame_set_shadow_type
+gtk_clist_new_with_titles
+gtk_text_buffer_set_text
+gtk_window_set_modal
+gtk_button_new
+gtk_toolbar_append_space
+gtk_text_buffer_copy_clipboard
+gtk_tree_view_set_cursor
+gtk_tree_view_get_cursor
+gtk_tree_model_iter_nth_child
+gtk_container_get_children
+g_file_get_contents
+gtk_text_tag_table_add
+g_path_get_basename
+g_markup_parse_context_parse
+gtk_adjustment_set_value
+gtk_container_remove
+gtk_window_set_position
+g_list_index
+gtk_dialog_new_with_buttons
+gtk_button_set_relief
+g_get_charset
+gtk_settings_get_default
+gtk_window_move
+g_list_remove
+gtk_clist_thaw
+gtk_notebook_remove_page
+gtk_timeout_add
+gtk_item_factory_new
+gtk_tree_model_iter_children
+gtk_notebook_set_current_page
+g_dir_open
+gtk_menu_item_new
+gtk_option_menu_new
+gtk_menu_item_get_type
+gtk_item_factory_delete_entry
+gtk_statusbar_set_has_resize_grip
+gtk_label_set_mnemonic_widget
+gtk_paint_layout
+gtk_toolbar_append_item
+gtk_window_set_default_size
+gtk_box_get_type
+gtk_clist_new
+gtk_text_buffer_place_cursor
+gtk_combo_set_case_sensitive
+gtk_option_menu_set_menu
+gtk_table_set_col_spacings
+gtk_menu_popup
+gtk_label_new
+gtk_list_store_new
+gtk_tree_view_column_set_attributes
+gtk_window_new
+gtk_hbutton_box_new
+gtk_tree_selection_select_path
+g_signal_handlers_block_matched
+gtk_box_pack_end
+gtk_window_get_type
+gtk_scale_get_type
+g_malloc0
+gtk_hscale_new
+gtk_menu_shell_get_type
+gtk_font_selection_dialog_get_font_name
+gtk_tree_model_iter_has_child
+g_strndup
+gtk_text_buffer_get_selection_bound
+g_slist_free
+gtk_window_present
+gtk_text_view_get_visible_rect
+gtk_dialog_get_type
+g_list_length
+gtk_label_get_type
+gtk_scrolled_window_set_policy
+gtk_text_view_scroll_mark_onscreen
+gtk_notebook_set_show_tabs
+gtk_tooltips_new
+gtk_file_selection_show_fileop_buttons
+gtk_frame_get_type
+gtk_file_selection_set_select_multiple
+gtk_accel_map_save
+gtk_image_menu_item_set_image
+gtk_text_buffer_get_selection_bounds
+g_list_last
+gtk_radio_button_new_with_label_from_widget
+gtk_tree_path_new_from_string
+gtk_menu_bar_new
+gtk_dialog_add_button
+gtk_text_view_new_with_buffer
+gtk_tree_view_expand_to_path
+gtk_tree_view_row_expanded
+gtk_text_iter_forward_line
+gtk_radio_menu_item_get_group
+gtk_item_factory_from_widget
+g_dir_read_name
+gtk_notebook_new
+gtk_widget_unref
+gtk_item_factory_get_widget
+g_path_get_dirname
+gtk_check_menu_item_get_type
+gtk_window_set_title
+gtk_combo_get_type
+gtk_text_iter_set_line_index
+gtk_widget_set_app_paintable
+gtk_font_selection_dialog_new
+gtk_entry_get_text
+g_hash_table_lookup
+gtk_color_selection_get_current_color
+g_list_free
+gtk_label_new_with_mnemonic
+gtk_file_selection_get_selections
+gtk_adjustment_new
+gtk_text_buffer_delete
+gtk_text_view_get_type
+gtk_toolbar_new
+gtk_color_selection_set_current_color
+gtk_box_pack_start
+gtk_tree_view_column_set_sizing
+gtk_widget_realize
+gtk_text_tag_table_new
+gtk_list_store_clear
+gtk_tree_store_get_type
+gtk_radio_menu_item_set_group
+gdk_pixbuf_get_type
+gtk_text_view_get_window_type
+gtk_text_view_get_line_yrange
+g_list_find
+gtk_text_view_set_wrap_mode
+gtk_dialog_run
+gtk_paint_flat_box
+gtk_container_set_border_width
+gtk_text_view_get_window
+gtk_text_iter_get_line_offset
+g_markup_parse_context_new
+gtk_text_view_get_buffer
+gtk_spin_button_new_with_range
+g_list_remove_link
+gtk_text_view_buffer_to_window_coords
+gtk_tree_model_get_value
+gtk_text_view_set_editable
+gtk_init
+g_print
+g_value_peek_pointer
+gtk_tree_view_new_with_model
+gtk_spin_button_new
+gtk_editable_get_chars
+g_pattern_match
+gtk_tree_model_iter_parent
+g_strsplit
+gtk_misc_set_padding
+gtk_radio_button_get_group
+g_type_check_value
+gtk_check_menu_item_new_with_label
+gtk_cell_renderer_text_new
+gtk_text_view_set_border_window_size
+gdk_window_get_pointer
+gtk_text_buffer_remove_all_tags
+gtk_label_get
+gtk_editable_insert_text
+g_malloc
+gtk_tree_row_reference_new
+gtk_notebook_set_tab_vborder
+gtk_menu_new
+gtk_radio_button_new_with_mnemonic
+gtk_notebook_set_show_border
+gtk_text_iter_backward_line
+gtk_text_buffer_insert
+gtk_text_buffer_remove_tag
+gdk_pixbuf_get_width
+gtk_text_view_get_iter_at_location
+g_source_remove
+gtk_tooltips_enable
+g_object_ref
+gtk_main_quit
+gtk_text_tag_table_remove
+gtk_text_tag_new
+g_hash_table_destroy
+gtk_text_buffer_get_end_iter
+gtk_widget_set_sensitive
+gtk_text_iter_forward_lines
+gdk_pixbuf_scale_simple
+gtk_toolbar_append_element
+gtk_spin_button_get_value_as_int
+g_convert
+g_utf8_skip
+Beeb
+gtk_progress_bar_get_type
+gtk_button_box_get_type
+gtk_notebook_popup_enable
+g_object_unref
+gtk_tree_view_get_model
+gtk_text_view_place_cursor_onscreen
+g_realloc
+gtk_entry_get_type
+gtk_editable_get_type
+gtk_widget_modify_fg
+gtk_main
+gtk_text_view_set_cursor_visible
+gtk_progress_bar_set_text
+gtk_text_view_get_border_window_size
+g_list_nth_data
+pango_layout_set_text
+g_get_home_dir
+gtk_tree_path_to_string
+gtk_tree_path_copy
+gtk_list_store_insert
+g_string_sized_new
+gtk_option_menu_set_history
+g_path_is_absolute
+gtk_widget_hide_all
+gtk_statusbar_new
+gtk_tree_model_get
+gtk_statusbar_remove
+g_markup_parse_context_free
+gtk_text_iter_ends_tag
+gdk_pixbuf_new_from_inline
+gtk_text_iter_backward_find_char
+gtk_window_list_toplevels
+gtk_clist_get_type
+g_strconcat
+gtk_range_get_type
+gtk_widget_create_pango_layout
+gtk_window_set_destroy_with_parent
+gdk_keyval_name
+gtk_text_buffer_get_char_count
+gtk_color_selection_new
+gtk_tree_selection_select_iter
+gtk_list_store_insert_before
+gtk_text_iter_set_line_offset
+gtk_menu_shell_prepend
+g_signal_handler_unblock
+gtk_text_iter_backward_lines
+gtk_label_set_use_markup
+gtk_spin_button_set_value
+gtk_tree_row_reference_free
+gtk_clipboard_get
+gtk_tree_view_collapse_row
+gtk_handle_box_new
+gtk_grab_remove
+gtk_clist_sort
+gtk_text_view_get_line_at_y
+gtk_file_selection_get_filename
+gtk_notebook_append_page
+pango_layout_get_pixel_size
+gtk_drag_dest_set
+gtk_clist_append
+gtk_text_iter_forward_find_char
+gtk_accel_map_add_entry
+gtk_text_buffer_get_iter_at_mark
+gtk_paned_pack1
+gtk_text_iter_equal
+gtk_widget_modify_font
+gtk_label_set_line_wrap
+gtk_aspect_frame_new
+gtk_menu_bar_get_type
+gtk_tree_model_get_type
+gtk_tree_store_remove
+gtk_timeout_remove
+g_pattern_spec_new
+gtk_text_iter_get_tags
+gtk_tooltips_set_tip
+g_object_get
+gtk_label_set_text
+gtk_notebook_get_type
+gtk_tree_model_iter_next
+gtk_clipboard_wait_for_text
+gtk_spin_button_get_type
+gtk_combo_disable_activate
+gtk_tree_view_expand_row
+gtk_notebook_next_page
+gtk_color_selection_set_has_opacity_control
+gtk_tree_view_scroll_to_point
+g_pattern_spec_free
+gtk_hpaned_new
+gtk_window_set_default
+g_unichar_isgraph
+gtk_list_store_set
+gtk_check_button_new
+gtk_toolbar_set_icon_size
+gtk_clist_get_text
+gtk_text_iter_forward_to_tag_toggle
+gtk_clist_set_selection_mode
+g_type_check_instance_is_a
+gtk_event_box_new
+gtk_statusbar_pop
+gtk_text_buffer_delete_mark
+gtk_combo_set_popdown_strings
+gtk_text_iter_get_char
+gtk_text_buffer_new
+gtk_label_set_justify
+gtk_tree_model_iter_n_children
+gtk_grab_add
+gtk_image_new_from_pixbuf
+gtk_paned_pack2
+gtk_button_get_type
+gtk_text_tag_get_type
+gtk_viewport_new
+gtk_tree_view_get_type
+gtk_tree_view_get_selection
+gtk_clist_set_sort_column
+gtk_tooltips_get_type
+gtk_text_iter_in_range
+g_list_concat
+gtk_table_set_row_spacings
+g_signal_handlers_destroy
+g_strdup
+gtk_window_get_title
+gtk_paned_get_type
+gtk_image_menu_item_get_type
+gtk_tree_view_set_headers_visible
+g_log
+gtk_tree_path_up
+gtk_text_buffer_get_bounds
+gtk_item_factory_set_translate_func
+gtk_text_buffer_cut_clipboard
+gtk_range_set_update_policy
+gtk_object_sink
+pango_layout_set_markup
+g_list_append
+gtk_clist_set_auto_sort
+gtk_clist_freeze
+gtk_text_buffer_get_iter_at_offset
+g_utf8_pointer_to_offset
+gtk_file_selection_get_type
+gtk_notebook_set_homogeneous_tabs
+gtk_notebook_set_scrollable
+gtk_widget_destroy
+gtk_table_set_row_spacing
+gtk_tree_store_set
+gtk_tree_view_set_model
+gtk_check_menu_item_set_active
+gtk_button_new_with_mnemonic
+gtk_widget_hide
+gtk_paned_add1
+gtk_tree_view_column_new
+gtk_text_iter_forward_word_end
+gtk_entry_set_editable
+gtk_accel_map_load
+gtk_adjustment_get_type
+gtk_button_new_from_stock
+g_get_current_dir
+gtk_option_menu_get_type
+gtk_progress_bar_new
+gtk_tree_view_append_column
+gtk_text_view_scroll_to_mark
+gtk_text_buffer_create_mark
+g_locale_to_utf8
+gtk_table_new
+gtk_editable_select_region
+gtk_entry_new_with_max_length
+g_list_prepend
+gtk_box_set_spacing
+gtk_spin_button_set_snap_to_ticks
+g_hash_table_new_full
+g_timeout_add
+gtk_text_iter_compare
+gtk_menu_item_set_submenu
+gtk_option_menu_remove_menu
+g_utf8_get_char
+gtk_entry_new
+gtk_tree_store_clear
+gtk_widget_size_request
+g_str_hash
+gtk_tree_selection_get_selected
+gtk_radio_menu_item_new_with_label
+gtk_container_get_type
+gtk_text_buffer_paste_clipboard
+gtk_window_get_size
+gtk_font_selection_dialog_get_type
+_Jv_RegisterClasses
+g_str_equal
+gtk_button_new_with_label
+gtk_entry_set_visibility
+gtk_tree_model_get_iter_first
+gtk_dialog_set_has_separator
+gtk_text_buffer_get_line_count
+gtk_tree_view_get_column
+gtk_window_maximize
+gtk_text_iter_forward_char
+gtk_text_buffer_move_mark
+g_hash_table_insert
+gtk_bin_get_type
+gtk_text_buffer_get_mark
+gtk_widget_get_type
+gtk_image_new_from_stock
+gtk_text_iter_forward_chars
+g_utf8_strlen
+gtk_paint_shadow
+g_list_first
+gtk_get_current_event_time
+gtk_toolbar_get_type
+gtk_tree_view_column_new_with_attributes
+gtk_vbox_new
+gtk_scrolled_window_add_with_viewport
+gtk_widget_ref
+gtk_file_selection_new
+__gmon_start__
+g_value_unset
+gtk_notebook_prev_page
+gtk_window_set_role
+gtk_widget_grab_focus
+libgdk-x11-2.0.so.0
+libatk-1.0.so.0
+_DYNAMIC
+_GLOBAL_OFFSET_TABLE_
+g_type_check_instance_cast
+libgdk_pixbuf-2.0.so.0
+gdk_pixbuf_unref
+gdk_pixbuf_save
+libm.so.6
+libpangoxft-1.0.so.0
+libpangox-1.0.so.0
+libpango-1.0.so.0
+pango_tab_array_new
+g_unichar_isspace
+pango_tab_array_set_tab
+libgobject-2.0.so.0
+g_value_fits_pointer
+libgmodule-2.0.so.0
+libdl.so.2
+libglib-2.0.so.0
+g_strcasecmp
+g_strdown
+g_int_hash
+g_strup
+g_utf8_strncpy
+g_strchug
+g_list_sort
+g_string_printf
+g_utf8_get_char_validated
+g_strjoin
+g_get_tmp_dir
+g_int_equal
+g_utf8_strup
+g_strchomp
+g_strncasecmp
+g_utf8_strdown
+g_get_real_name
+g_ascii_digit_value
+libgnomevfs-2.so.0
+gnome_vfs_set_file_info
+gnome_vfs_directory_open
+gnome_vfs_uri_get_scheme
+gnome_vfs_read
+gnome_vfs_uri_unref
+gnome_vfs_read_entire_file
+gnome_vfs_uri_new
+gnome_vfs_unlink
+gnome_vfs_uri_to_string
+gnome_vfs_open
+gnome_vfs_file_info_new
+gnome_vfs_directory_read_next
+gnome_vfs_create
+gnome_vfs_close
+gnome_vfs_directory_close
+gnome_vfs_init
+gnome_vfs_write
+gnome_vfs_module_callback_set_default
+gnome_vfs_uri_append_file_name
+gnome_vfs_uri_exists
+gnome_vfs_file_info_unref
+gnome_vfs_make_directory
+gnome_vfs_get_file_info
+gnome_vfs_move
+libbonobo-activation.so.4
+libORBit-2.so.0
+libgthread-2.0.so.0
+libpcre.so.0
+pcre_fullinfo
+pcre_compile
+pcre_study
+pcre_free
+pcre_exec
+librt.so.1
+libaspell.so.15
+aspell_dict_info_enumeration_next
+delete_aspell_dict_info_enumeration
+aspell_speller_add_to_session
+aspell_error_number
+get_aspell_dict_info_list
+new_aspell_speller
+delete_aspell_speller
+aspell_speller_save_all_word_lists
+delete_aspell_string_enumeration
+aspell_speller_check
+aspell_speller_store_replacement
+new_aspell_config
+aspell_dict_info_list_elements
+to_aspell_speller
+delete_aspell_config
+aspell_word_list_elements
+aspell_string_enumeration_next
+aspell_config_replace
+aspell_speller_add_to_personal
+aspell_speller_suggest
+libpthread.so.0
+system
+nanosleep
+__errno_location
+libc.so.6
+strcpy
+__strtod_internal
+msgctl
+memmove
+__strtol_internal
+getpid
+fgets
+msgrcv
+memcpy
+islower
+tolower
+getuid
+optarg
+opterr
+rmdir
+bind_textdomain_codeset
+abort
+strrchr
+ctime
+strcat
+dcgettext
+chdir
+optind
+strstr
+isupper
+strncmp
+strncat
+msgsnd
+regcomp
+getopt
+localtime
+memset
+regexec
+strcmp
+getcwd
+fclose
+setlocale
+regerror
+ctime_r
+fputc
+__ctype_b_loc
+__xstat
+exit
+bindtextdomain
+fopen
+_IO_stdin_used
+tempnam
+__libc_start_main
+toupper
+regfree
+strchr
+fputs
+mkdir
+msgget
+strpbrk
+_edata
+__bss_start
+replace_doc_multiple
+cmenu_editor
+rcfile_parse_main
+return_files_advanced
+recent_menu_init
+doc_new
+filebrowserconfig_init
+documentlist_return_index_from_filename
+tree_tips_mouse_leave
+edit_paste_cb
+file_save_as_cb
+boxed_full_entry
+statusbar_message
+bmark_add
+string_apply
+filebrowser_scroll_initial
+snr2_run_extern_replace
+apply_font_style
+array_from_arglist
+bmark_get_bookmarked_lines
+doc_toggle_highlighting_cb
+search_cb
+return_files_w_title
+bmark_cleanup
+menu_create_main
+notebook_show
+word_count_cb
+doc_get_max_offset
+tree_tips_hide
+doc_show_result
+filebrowser_open_dir
+gui_apply_settings
+return_file
+tree_tips_set_show_interval
+array_to_string
+list_switch_order
+ascii_charset
+recent_attribs
+bmark_store_all
+spell_start
+all_documents_apply_settings
+gui_notebook_switch
+outputbox
+rec_tag
+doc_has_selection
+spell_check_word
+redo_all_cb
+project_is_open
+add_window_entry_to_all_windows
+doc_unre_init
+main_window_destroy_lcb
+tree_tips_set_enabled
+generic_class_id_style_section
+gui_window_menu_cb
+doc_set_statusbar_editmode_encoding
+quickanchor_dialog
+file_save_cb
+tree_tips_set_tree
+undo_all_cb
+gui_set_main_toolbar_visible
+tree_tips_show
+go_to_line_from_selection_cb
+boxed_radiobut_with_value
+multi_thumbnail_dialog
+doc_indent_selection
+remove_from_stringlist
+style_but_new_for_wizard
+replace_cb
+gui_set_document_widgets
+fref_xml_get_refname
+window_close_by_data_cb
+unescape_string
+Tdnd_types
+multi_error_dialog
+documentlist_return_document_from_filename
+update_encoding_meta_in_file
+close_small
+table_convert_char2int
+doc_highlight_full
+gui_set_custom_menu_visible
+selectdialog_dialog
+return_allwindows_documentlist
+fref_loader_error
+_fp_hw
+multi_query_dialog
+bmark_add_rename_dialog
+progress_popup
+project_menu_cb
+doc_insert_two_strings
+spell_gui
+replace_all
+duplicate_stringlist
+menu_entry_sort
+make_main_toolbar
+project_edit
+span_dialog
+tree_tips_set_hide_interval
+integer_apply
+close_modal_window_lcb
+filter_changed_lcb
+email_dialog
+linkdialog_dialog
+tree_tips_set_content_function
+gui_notebook_bind_signals
+file_move_to_cb
+doc_save
+__fini_array_end
+snr2_run
+rpopup_doc_located_tag
+image_diag_cancel_clicked_cb
+bluefish_exit_request
+create_secure_dir_return_filename
+add_allwindows_entries_to_window
+utf8_byteoffset_to_charsoffset_cached
+h6_dialog
+fref_name_loader_start_element
+gui_bfwin_cleanup
+filebrowser_init
+quickstart_doctype_changed_cb
+recent_menu_init_project
+rcfile_parse_custom_menu
+filebrowser_set_basedir
+gui_toggle_hidewidget_cb
+get_int_from_string
+free_convert_table
+spell_gui_replace_clicked
+about_dialog_create
+left_panel_show_hide_toggle
+widget_set_visible
+frefcb_info_show
+__libc_csu_fini
+spell_gui_ok_clicked_cb
+edit_tag
+edit_color_dialog
+add_to_stringlist
+fref_string_to_list
+gui_create_main
+frameset_dialog
+file_open_url_cb
+replace_prompt_dialog
+highlight_return_tagtable
+fref_init
+bf_allbuttons_backend
+rcfile_check_directory
+style_but_new
+filebrowser_filters_rebuild
+bmark_check_length
+flush_queue
+append_string_to_file
+quickrule_dialog
+doc_set_font
+boxed_entry_with_text
+edit_select_all_cb
+spell_gui_ignore_clicked
+file_floatingview_menu_cb
+add_to_history_stringlist
+replace_prompt_doc
+doc_update_highlighting
+doc_replace_text_backend
+single_button_dialog_backend
+doc_unre_destroy
+spell_check_cb
+framewizard_dialog
+window_close_by_widget_cb
+file_copy
+remove_window_entry_from_all_windows
+project_open_from_file
+doc_scroll_to_cursor
+window_destroy
+doc_highlight_line
+doc_unre_add
+make_cust_menubar
+document_set_line_numbers
+fref_loader_start_element
+rcfile_parse_global_session
+fref_tip
+p_dialog
+formdialog_dialog
+switch_to_document_by_filename
+edit_tag_under_cursor_cb
+doc_activate
+spell_gui_cancel_clicked_cb
+doc_unre_clear_all
+add_entry_to_stringlist
+basefont_dialog
+left_panel_rebuild
+file_open_cb
+search_backend
+filetype_menus_empty
+fill_dialogvalues
+h5_dialog
+bf_label_tad_with_markup
+utf8_offset_cache_reset
+get_filetype_by_name
+most_efficient_filename
+doc_reset_filetype
+insert_time_dialog
+trunc_on_char
+set_authen_callbacks
+bf_generic_frame_new
+boxed_checkbut_with_value
+spell_gui_add_clicked
+rpopup_edit_color_cb
+change_dir
+doc_file_to_textbox
+h4_dialog
+msg_queue
+return_color
+generic_table_inside_notebookframe
+filetype_menu_rebuild
+doc_move_to_window
+search_doc
+notebook_hide
+get_list
+main_window_delete_event_lcb
+tree_tips_new
+return_filenamestringlist_from_doclist
+doc_replace_text
+unexpand_string
+html_diag_cancel_clicked_cb
+filetype_highlighting_rebuild
+doc_set_tabsize
+make_config_list_item
+open_advanced_from_filebrowser
+Degas are we not drawn onward no In union drawn onward to new eras aged
+fref_rescan_dir
+boxed_combo_with_popdown
+script_dialog
+snr2_init
+open_preferences_cb
+tabledatadialog_dialog
+stringlist_to_string
+replace_string_printflike
+progress_set
+thumbnail_insert_dialog
+menu_translate
+put_stringlist
+setup_toggle_item
+duplicate_arraylist
+gui_notebook_unbind_signals
+doc_undo_op_compare
+file_but_new
+string_is_color
+rename_window_entry_in_all_windows
+boxed_optionmenu_with_value
+doc_has_undo_list
+rcfile_save_configfile_menu_cb
+tree_tips_mouse_motion
+document_unset_filename
+rpopup_bevent_in_html_code
+inputdialog_rpopup
+left_panel_build
+docs_new_from_files
+msg_queue_start
+gui_set_undo_redo_widgets
+general_html_menu_cb
+doc_set_modified
+return_root_with_protocol
+tgl_enter_lcb
+bf_gtkstock_button
+replace_prompt_all
+format_entry_into_string
+bfwin_filebrowser_refresh_dir
+parse_integer_for_dialog
+autoclosing_init
+gui_new_window
+doc_is_empty_non_modified_and_nameless
+bf_str_repeat
+file_open_advanced_cb
+doc_destroy
+insert_integer_if_spin
+insert_char_cb
+bmark_reload
+bmark_add_at_bevent
+duplicate_stringarray
+file_close_cb
+__fini_array_start
+fref_prepare_text
+documentlist_return_document_from_index
+__libc_csu_init
+multi_warning_dialog
+doc_new_with_file
+bmark_set_for_doc
+html_diag_table_in_vbox
+embed_dialog
+tree_tips_destroy
+return_file_w_title
+html_diag_destroy_cb
+encoding_menu_rebuild
+doc_get_next_word
+test_only_empty_doc_left
+doc_has_redo_list
+get_utf8filename_from_on_disk_encoding
+fref_loader_load_ref_xml
+doc_remove_highlighting
+sel_colour_cb
+doc_new_with_new_file
+open_preferences_menu_cb
+init_output_box
+doc_unbind_signals
+menu_indent_cb
+notebook_changed
+__init_array_end
+return_files
+bmark_set_store
+gui_set_html_toolbar_visible
+doc_search_run_extern
+path_get_dirname_with_ending_slash
+switch_to_document_by_index
+insert_string_if_entry
+list_relative_document_filenames
+image_diag_destroy_cb
+tablewizard_dialog
+file_save_all_cb
+rcfile_parse_project
+div_dialog
+doc_get_chars
+doc_bind_signals
+h2_dialog
+list_from_arglist
+get_stringlist
+ask_new_filename
+filemode_to_string
+optgroupdialog_dialog
+window_with_title
+replace_backend
+project_save_and_close
+convert_string_utf8_to_html
+edit_copy_cb
+hl_init
+get_filetype_by_filename_and_content
+hbox_with_pix_and_text
+new_css_dialog
+add_filename_to_history
+buttondialog_dialog
+file_close_all_cb
+inputdialog_dialog
+fref_loader_unload_all
+project_save
+make_html_toolbar
+frame_dialog
+doc_get_selection
+gui_change_tabsize
+block_tag_edit_dialog
+tabledialog_dialog
+h1_dialog
+file_new_cb
+rcfile_save_global_session
+bmark_clean_for_doc
+gui_show_main
+rcfile_parse_highlighting
+filename_test_extensions
+tree_tips_new_full
+info_dialog
+quickstart_dialog
+image_insert_from_filename
+arraylist_load_new_identifiers_from_file
+create_relative_link_to
+remove_secure_dir_and_filename
+tablerowdialog_dialog
+widget_get_string_size
+external_menu_rebuild
+arraylist_load_new_identifiers_from_list
+filebrowser_cleanup
+php_var_but
+tree_tips_hide_cb
+doc_select_line
+fref_prepare_info
+doc_get_cursor_position
+fref_loader_unload_ref
+find_common_prefixlen_in_stringlist
+get_filename_on_disk_encoding
+bf_mnemonic_label_tad_with_alignment
+rpopup_edit_tag_cb
+iso8859_1_charset
+optiondialog_dialog
+bmark_store_bevent_location
+rec_color
+table_convert_int2char
+free_stringlist
+spinbut_with_value
+destroy_disposable_menu_cb
+file_open_from_selection
+html_diag_finish
+set_project_menu_widgets
+doc_reload
+put_stringlist_limited
+spell_add_to_session
+default_icon_list
+add_to_recent_list
+go_to_line_win_cb
+window_full2
+html_diag_new
+free_arraylist
+progress_destroy
+tree_tips_mouse_enter
+project_create_gui
+edit_cut_cb
+arraylist_value_exists
+combo_with_popdown_sized
+meta_dialog
+new_pixmap
+rcfile_save_project
+fref_prepare_dialog
+parse_html_for_dialogvalues
+switch_to_document_by_pointer
+doc_unre_new_group
+fref_loader_end_element
+browser_toolbar_cb
+return_first_existing_filename
+wordcount
+menu_current_document_set_toggle_wo_activate
+__init_array_start
+textareadialog_dialog
+parse_existence_for_dialog
+body_dialog
+image_insert_dialog
+quicklist_dialog
+file_insert_menucb
+search_from_selection
+test_docs_modified
+create_full_path
+fref_cleanup
+doc_convert_asciichars_in_selection
+file_exists_and_readable
+bmark_add_backend
+doc_textbox_to_file
+count_array
+replace_doc_once
+fref_show_info
+spell_run
+textview_buffer_in_scrolwin
+fref_gui
+rpopup_doc_located_color
+spell_gui_fill_dicts
+search_again_cb
+string_to_array
+doc_close
+doc_set_filetype
+tableheaddialog_dialog
+recent_menu_from_list
+bmark_gui
+return_dir
+doc_force_activate
+__data_start
+frefcb_info_keypress
+limit_stringlist
+fref_loader_text
+main_v
+countchars
+undo_cb
+color_but_new
+doc_select_region
+doc_set_statusbar_insovr
+bmark_init
+replace_again_cb
+buffer_to_file
+h3_dialog
+strip_any_whitespace
+doc_set_wrap
+insert_attr_if_checkbox
+pointer_switch_addresses
+new_convert_table
+gui_set_title
+redo_cb
+rcfile_save_all
+fref_free_info
+msg_queue_cleanup
+image_insert_dialog_backend
+search_all
+multi_button_dialog_backend
+GLIBC_2.0
+GLIBC_2.3
+GLIBC_2.1
+GLIBC_2.2
+PTRhP
+\[^_]
+[^_]
+[^_]
+l$01
+D$01
+D$01
+UWVS
+[^_]
+UWVS
+[^_]
+|$$;5
+~:9<
+[^_]
+ t	F
+UWVS
+C;\$
+[^_]
+UWVS
+[^_]
+[^_]
+[^_]
+,0<	v
+[^_]
+UWVS
+[^_]
+[^_]
+[^_]
+UWVS
+[^_]
+UWVS
+[^_]
+UWVS
+l[^_]
+l[^_]
+T$01
+<[^_]
+\[^_]
+UWVS
+T$H1
+L[^_]
+L[^_]
+|$DtO
+D$$1
+[^_]
+\$01
+T$*f
+UWVS
+L[^_]
+D$(1
+UWVS
+[^_]
+UWVS
+[^_]
+[^_]
+;\$ t
+|$Tt
+@,;B0t
+[^_]
+t$,t'
+|$4t
+D$D	
+\$ 1
+D$(1
+;sPt+
+UWVS
+D$(1
+[^_]
+[^_]
+3 C9
+UWVS
+[^_]
+l$41
+[^_]
+[^_]
+\$01
+Ep;@
+|$D9]
+D$ 1
+Ep;h
+GH9BH|1
+[^_]
+UWVS
+[^_]
+[^_]
+[^_]
+[^_]
+D$(1
+9D$<
+T$(1
+[^_]
+D$41
+T$41
+8/t6
+[^_]
+f9C tZ
+D$,)
+|$41
+l$81
+T$"f
+\$T1
+\$T1
+T$$1
+T$$1
+,[^_]
+,[^_]
+D$,1
+D$(1
+[^_]
+T$ B
+UWVS
+[^_]
+[^_]
+UWVS
+D$D1
+D$T1
+T$P1
+l[^_]
+l[^_]
+D$$1
+D$41
+T$01
+Gp;x
+D$41
+D$D1
+T$@1
+D$ 1
+D$81
+D$<1
+L$<;H
+[^_]
+D$@@
+T$@9
+D$P1
+D$@@
+D$$1
+[^_]
+UWVS
+D$(1
+D$ 1
+,[^_]
+,[^_]
+Gp;x
+D$41
+D$D1
+UWVS
+\[^_]
+l$<1
+UWVS
+<[^_]
+D$,t
+,[^_]
+`[^_
+D$,1
+D$L1
+`[^_
+BXu	
+t$01
+UWVS
+[^_]
+[^_]
+UWVS
+L[^_]
+L[^_]
+T$d1
+[^_]
+[^_]
+D$()
+D$()
+T$01
+l[^_]
+UWVS
+[^_]
+UWVS
+T$l1
+[^_]
+[^_]
+|[^_]
+UWVS
+D$,9
+;t$,
+[^_]
+8/t/
+|$,)
+|$T1
+D$,1
+t$$1
+\[^_]
+D$P1
+D$P1
+D$$1
+T$ 1
+\$$w8
+UWV1
+D$@9
+,[^_]
+T$&f
+T$&f
+T$&f
+@[^_
+UWVS
+[^_]
+,[^_]
+UWVS
+D$H1
+[^_]
+[^_]
+UWVS
+\[^_]
+D$81
+D$ 1
+D$$1
+ [^_
+ [^_
+UWVS
+L[^_]
+L[^_]
+L[^_]
+@[^_
+UWVS
+\[^_]
+T$,1
+D$8G
+T$,1
+<[^_]
+UWVS
+\$ 1
+<[^_]
+\$L1
+T$X1
+D$H1
+T$H1
+\$h1
+D$(1
+D$,1
+L$$1
+D$p1
+T$x1
+T$@1
+T$@1
+[^_]
+[^_]
+UWVS
+T$<1
+\[^_]
+T$41
+\[^_]
+D$41
+D$81
+9D$0
+D$41
+D$81
+9D$0
+UWVS
+,[^_]
+UWVS
+T$01
+[^_]
+UWVS
+[^_]
+UWVS
+\[^_]
+9D$0t
+HtX1
+t$$1
+[^_]
+[^_]
+D$01
+L$(1
+T$,1
+\[^_]
+D$(1
+\[^_]
+t$ t&
+UWVS
+[^_]
+|$Dt
+UWVS
+[^_]
+UWVS
+<[^_]
+<[^_]
+<[^_]
+,[^_]
+UWV1
+[^_]
+[^_]
+D$ 1
+UWVS
+[^_]
+[^_]
+[^_]
+UWVS
+[^_]
+T$01
+UWVS
+,[^_]
+T$01
+UWVS
+l$<;l$@~-
+E;l$@
+T$81
+E;l$@
+[^_]
+UWVS
+;\$<
+D$0~3
+E;l$<
+L$@1
+E;l$<
+L[^_]
+,[^_]
+,[^_]
+t$ 1
+D$$1
+D$41
+T$01
+D$L1
+L$D1
+l[^_]
+,[^_]
+t$ 1
+t$ 1
+t$ 1
+D$$1
+|$4t
+D$$1
+D$ 1
+UWVS
+\[^_]
+UWVS
+D$81
+D$@1
+D$D1
+L[^_]
+D$H1
+|$@u}
+F(@tA
+UWVS
+T$$1
+L$,9H
+C 9(
+<[^_]
+<[^_]
+;|$(
+;l$,
+T$$1
+C 9H
+;|$(
+<[^_]
+@ 9(|%
+UWVS
+[^_]
+T$81
+[^_]
+T$@1
+D$,1
+\$$w
+UWVS
+[^_]
+<[^_]
+UWVS
+|$41
+[^_]
+|$41
+[^_]
+t$ 1
+L$ 1
+[^_]
+[^_]
+T$$w9
+D$ 1
+,[^_]
+D$<w
+L$ 1
+D$L1
+l[^_]
+l[^_]
+UWVS
+l$41
+[^_]
+l$41
+[^_]
+t$ 1
+D$$1
+L$,1
+T$ 1
+t$ 1
+L$$1
+l[^_]
+l[^_]
+[^_]
+\$ 1
+<[^_]
+<[^_]
+UWVS
+|$D1
+,[^_]
+|$D1
+,[^_]
+|$ 1
+[^_]
+T$<1
+\$$1
+|$ 1
+\$$1
+[^_]
+UWVS
+D$41
+[^_]
+D$41
+[^_]
+t$ 1
+l[^_]
+l[^_]
+UWVS
+L[^_]
+T$$1
+UWVS
+|$41
+[^_]
+|$ 1
+,[^_]
+|$$1
+|$$1
+,[^_]
+UWVS
+D$41
+[^_]
+D$41
+[^_]
+l[^_]
+l[^_]
+UWVS
+|$41
+[^_]
+|$41
+[^_]
+T$ 1
+L$ 1
+[^_]
+[^_]
+UWVS
+D$41
+[^_]
+l$ 1
+,[^_]
+UWVS
+l$41
+[^_]
+l$41
+[^_]
+T$ 1
+|$ 1
+l[^_]
+UWVS
+|$41
+[^_]
+|$41
+[^_]
+l$ 1
+\$<1
+[^_]
+[^_]
+ [^_
+ [^_
+UWVS
+[^_]
+D$81
+ [^_
+,[^_]
+UWVS
+[^_]
+[^_]
+|$ 1
+D$41
+D$D1
+D$T1
+T$41
+[^_]
+[^_]
+D$h1
+D$x1
+D$<1
+T$d1
+\$ 1
+L[^_]
+\$dB
+\$dB
+D$@9
+T$@1
+t$ 1
+UWVS
+T$@1
+[^_]
+UWVS
+T$@1
+[^_]
+UWVS
+[^_]
+D$ 1
+[^_]
+[^_]
+UWVS
+[^_]
+UWVS
+T$01
+T$0F
+[^_]
+l$D1
+tE@1
+D$*f
+tE@1
+D$*f
+,[^_]
+D$*f
+,[^_]
+,[^_]
+|$$1
+t$8t9
+;D$0t,
+D$,1
+L$DE
+,[^_]
+UWV1
+[^_]
+[^_]
+L$ 1
+\$ 1
+l[^_]
+l[^_]
+UWVS
+[^_]
+[^_]
+|$ 1
+l[^_]
+l[^_]
+UWVS
+|$41
+[^_]
+|$41
+[^_]
+\[^_]
+\[^_]
+UWVS
+[^_]
+[^_]
+\[^_]
+\[^_]
+l$41
+UWVS
+[^_]
+[^_]
+|$<1
+t$ 1
+[^_]
+[^_]
+UWVS
+|$41
+[^_]
+|$41
+[^_]
+D$@1
+\[^_]
+\[^_]
+UWVS
+|$41
+[^_]
+|$41
+[^_]
+L$ 1
+l$ 1
+|[^_]
+|[^_]
+UWVS
+T$(1
+|$D1
+,[^_]
+|$D1
+,[^_]
+T$81
+l[^_]
+l[^_]
+UWVS
+D$41
+[^_]
+D$41
+[^_]
+|[^_]
+|[^_]
+UWVS
+D$$1
+,[^_]
+,[^_]
+UWVS
+[^_]
+|[^_]
+|[^_]
+UWVS
+D$<1
+\$81
+T$81
+[^_]
+D$4f
+D$0f
+,[^_]
+\$$1
+\$ 1
+\$ 1
+\$ 1
+\$ 1
+\$ 1
+\$ 1
+\$ 1
+\$ 1
+\$ 1
+\$ 1
+\$ 1
+\$ 1
+\$ 1
+\$ 1
+\$ 1
+\$ 1
+\$ 1
+\$ 1
+\$ 1
+\$ 1
+\$ 1
+\$ 1
+\$ 1
+\$ 1
+\$ 1
+\$ 1
+\$ 1
+UWVS
+[^_]
+[^_]
+ [^_
+,[^_]
+UWVS
+[^_]
+t$ 1
+UWV1
+[^_]
+UWVS
+[^_]
+[^_]
+;Btw)
+T$41
+T$41
+UWVS
+[^_]
+,[^_]
+UWVS
+[^_]
+[^_]
+UWVS
+l$T1
+<[^_]
+|$(1
+,[^_]
+UWVS
+[^_]
+UWVS
+[^_]
+UWVS
+[^_]
+[^_]
+UWVS
+8/t>
+[^_]
+C;\$
+C;\$
+\$L1
+T$<1
+D$01
+D$|1
+D$h1
+D$l1
+D$L1
+[^_]
+0[^_
+0[^_
+T$D)
+D$0=
+[^_]
+[^_]
+t$ 1
+@[^_
+@[^_
+,[^_]
+UWVS
+l$,1
+L[^_]
+D$ =
+[^_]
+UWVS
+[^_]
+UWVS
+[^_]
+UWVS
+L[^_]
+T$l1
+L[^_]
+ [^_
+L[^_]
+L[^_]
+UWVS
+God A red nugget A fat egg under a dog
+<[^_]
+<1tU
+UWVS
+L[^_]
+UWVS
+[^_]
+D$(1
+,[^_]
+D$T1
+T$T1
+<[^_]
+l$X1
+<[^_]
+\$ 1
+l[^_]
+[^_]
+D$|1
+D$h1
+D$X1
+D$,1
+[^_]
+UWVS
+[^_]
+UWVS
+|$ 1
+,[^_]
+,[^_]
+[^_]
+[^_]
+T$,1
+<[^_]
+,[^_]
+ [^_
+,[^_]
+,[^_]
+[^_]
+[^_]
+\$81
+D$D1
+D$@1
+|$7"
+|$7=
+9D$Dt
+[^_]
+\$D9\$@
+D$@)
+\$@)
+T$@H
+UWVS
+[^_]
+D$ t	
+[^_]
+D$,1
+T$01
+\$$1
+Cp;X
+[^_]
+[^_]
+D$D1
+[^_]
+[^_]
+D$P1
+D$L)
+D$L)
+[^_]
+D$<1
+D$@)
+D$<)
+D$81
+l[^_]
+UWVS
+,[^_]
+9D$,t
+D$0;B
+<[^_]
+UWVS
+;T$4}
+B;T$4|
+L[^_]
+L[^_]
+UWVS
+,[^_]
+t$<9Y
+T$41
+UWVS
+|$01
+[^_]
+UWVS
+T$$1
+L$x1
+D$h1
+L$$1
+\$ 1
+L$$1
+T$81
+\$ 1
+D$@1
+[^_]
+[^_]
+D$X1
+L$$1
+l$ 1
+UWVS
+[^_]
+[^_]
+t}<\u
+[^_]
+[^_]
+[^_]
+[^_]
+T$()
+[^_]
+UWVS
+[^_]
+UWVS
+;\$(|%
+C;\$(
+C;\$(
+[^_]
+[^_]
+UWVS
+[^_]
+\$41
+D$$1
+D$ 1
+D$$1
+D$ 1
+|$4t
+D$(1
+UWVS
+[^_]
+[^_]
+|$09
+tn9]
+9C,~
+UWVS
+|$41
+[^_]
+,[^_]
+;|$(
+T$,1
+T$81
+D$T1
+<[^_]
+;|$(
+L$ 1
+T$P1
+<[^_]
+[^_]
+[^_]
+[^_]
+Bluefish is an editor for experienced web designers and programmers. It supports many programming and markup languages, but focuses on editing dynamic and interactive websites. Bluefish is an open source development project, released under the GPL license.
+For more information, visit the Bluefish Website at http://bluefish.openoffice.nl/
+This version of bluefish was compiled with the following options:
+Project leader:
+  Olivier Sessink <olivier@bluefish.openoffice.nl>
+Developers for this release:
+  Jim Hayward <jimhayward@linuxexperience.com>
+  Oskar 
+wida <swida@aragorn.pb.bialystok.pl>
+  Christian Tellefsen <christian@tellefsen.net>
+  Eugene Morenko(More) <more@irpin.com>
+Developers for previous releases:
+  Chris Mazuc
+  Neil Millar
+  Gero Takke
+  Bo Forslund
+  David Arno
+  Pablo De Napoli
+  Santiago Capel Torres
+  Rasmus Toftdahl Olesen <rto@pohldata.dk>
+  Roland Steinbach <roland@netzblick.de>
+  Christian Tellefsen <chris@tellefsen.net>
+  Antti-Juhani Kaijanaho
+Documentation:
+  Alastair Porter <alastair@linuxexperience.com>
+  Daniel Blair <joecamel@realcoders.org>
+  Denny Reeh
+Package Maintainers:
+  Debian:   Davide Puricelli <evo@debian.org>
+  Redhat:   Matthias Haase <matthias_haase@bennewitz.com>
+  Mandrake: Todd Lyons <todd@mrball.net>
+If you know of anyone missing from this list, please let us know
+<bluefish@bluefish.openoffice.nl>
+Thanks to all who helped making this software available.
+Current translators:
+  Brazilian Portuguese - Anderson Rocha
+   <anderson@maxlinux.com.br>
+  Bulgarian - Peio Popov
+   <peio@peio.org>
+  Chinese - Ting Yang (Dormouse)
+   <mouselinux@163.com>
+  Danish - Rasmus Toftdahl Olesen
+   <rto@pohldata.dk>
+  Finnish - Juho Roukala
+   <j.mr@luukku.com>
+  French - Rom
+o Viu-Berges
+   <apostledemencia@free.fr>
+  German - Roland Steinbach
+   <roland@netzblick.de>
+  Hungarian - P
+ter S
+   <sasek@ccsystem.hu>
+  Italian - Stefano Canepa
+   <sc@linux.it>
+  Norwegian - Christian Tellefsen
+   <chris@tellefsen.net>
+  Polish - Oskar Swida
+   <swida@aragorn.pb.bialystok.pl>
+  Portuguese - Lopo Pizarro
+   <lopopizarro@netcabo.pt>
+  Russian - Eugene Rupakov
+   <rupakov@jet.msk.su>
+  Serbian - Marko Milenovi
+   <raven@sbb.co.yu>
+  Spanish - Walter Oscar Echarri
+   <wecharri@infovia.com.ar>
+  Swedish - David Smeringe
+   <david.smeringe@telia.com>
+  Tamil - Murugapandian Barathee
+   <barathee@yahoo.com>
+/usr/share/bluefish/bluefish_splash.png
+./configure --build=i586-mandrake-linux-gnu --prefix=/usr --exec-prefix=/usr --bindir=/usr/bin --sbindir=/usr/sbin --sysconfdir=/etc --datadir=/usr/share --includedir=/usr/include --libdir=/usr/lib --libexecdir=/usr/lib --localstatedir=/var/lib --sharedstatedir=/usr/com --mandir=/usr/share/man --infodir=/usr/share/info --disable-splash-screen --enable-bookmarks
+ERROR while loading splash screen: %s
+About Bluefish
+Info
+Authors
+Translators
+gtk-close
+clicked
+Authentication required
+gtk-cancel
+gtk-ok
+Username:
+Password:
+fill-authentication
+full-authentication
+save-authentication
+Authentication is required for %s
+Realm is %s
+proto=%s server=%s port=%d object=%s
+Bluefish has trouble reading the filenames. Try to set the environment variable G_BROKEN_FILENAMES=1
+/../
+file://
+(no suggested words)
+utf-8
+encoding
+Check Spelling
+Checking
+_Misspelled word:
+Change _to:
+I_gnore
+_Replace
+In _document
+I_n selection
+personal dictionary
+session dictionary
+Dictionary:
+_Add
+Set defa_ult
+Filter:
+no filter
+html filter
+gtk-spell-check
+hsvnp:?
+bluefish 0.13 HTML editor
+-p filename  open project
+-s           skip root check
+-v           current version
+-n           open new window
+/usr/share/locale
+/.bluefish/dir_history
+gtk-can-change-accels
+/.bluefish/menudump_2
+Bluefish tip:
+Usage: %s [options] [filenames ...]
+-h           this help screen
+Currently accepted options are:
+This message is shown since you do not have any items in the Quickbar.
+If you right-click a button in the HTML toolbars you can add buttons to the Quickbar.
+_Description:
+Temporary
+[%s] --> %s
+Could not find the file "%s".
+gtk-no
+gtk-yes
+Delete permanent bookmark.
+Edit bookmark
+Goto bookmark
+activate
+destroy
+button-press-event
+Add bookmark
+temp
+This bookmark is set in a file that no longer exists.
+Do you really want to delete %s?
+Cannot add bookmarks in unnamed files.
+You already have a bookmark here!
+Character count changed in file
+ %s.
+Bookmarks positions could be incorrect.
+&quot;
+&amp;
+&lt;
+&gt;
+&nbsp;
+&iexcl;
+&cent;
+&pound;
+&curren;
+&yen;
+&brvbar;
+&sect;
+&uml;
+&copy;
+&ordf;
+&laquo;
+&not;
+&shy;
+&reg;
+&macr;
+&deg;
+&plusmn;
+&sup2;
+&sup3;
+&acute;
+&micro;
+&para;
+&middot;
+&cedil;
+&sup1;
+&ordm;
+&raquo;
+&frac14;
+&frac12;
+&frac34;
+&iquest;
+&Agrave;
+&Aacute;
+&Acirc;
+&Atilde;
+&Auml;
+&Aring;
+&AElig;
+&Ccedil;
+&Egrave;
+&Eacute;
+&Ecirc;
+&Euml;
+&Igrave;
+&Iacute;
+&Icirc;
+&Iuml;
+&ETH;
+&Ntilde;
+&Ograve;
+&Oacute;
+&Ocirc;
+&Otilde;
+&Ouml;
+&times;
+&Oslash;
+&Ugrave;
+&Uacute;
+&Ucirc;
+&Uuml;
+&Yacute;
+&THORN;
+&szlig;
+&agrave;
+&aacute;
+&acirc;
+alula
+&atilde;
+&auml;
+&aring;
+&aelig;
+&ccedil;
+&egrave;
+&eacute;
+&ecirc;
+&euml;
+&igrave;
+&iacute;
+&icirc;
+&iuml;
+&eth;
+&ntilde;
+&ograve;
+&oacute;
+&ocirc;
+&otilde;
+&ouml;
+&divide;
+&oslash;
+&ugrave;
+&uacute;
+&ucirc;
+&uuml;
+&yacute;
+&thorn;
+&yuml;
+^<([a-z][a-z0-9]*)([
+	 ][^<>]*)?>$
+while testing for filetype '%s', pattern '%s' resulted in error '%s' at position %d
+test_docs_modified, calling without a doclist is deprecated, aborting
+<meta[ 	
+]http-equiv[ 	
+]*=[ 	
+]*"content-type"[ 	
+]+content[ 	
+]*=[ 	
+]*"text/html;[ 	
+]*charset=([a-z0-9-]+)"[ 	
+Cannot display file, unknown characters found.
+<meta[ 	
+]name[ 	
+]*=[ 	
+]*"generator"[ 	
+]+content[ 	
+]*=[ 	
+]*"[^"]*bluefish[^"]*"[ 	
+<meta[ 	
+]name[ 	
+]*=[ 	
+]*"generator"[ 	
+]+content[ 	
+]*=[ 	
+]*"[^"]*"[ 	
+<meta name="generator" content="Bluefish, see http://bluefish.openoffice.nl/">
+<meta[ 	
+]name[ 	
+]*=[ 	
+]*"author"[ 	
+]+content[ 	
+]*=[ 	
+]*"[^"]*"[ 	
+A backupfile for %s could not be created. If you continue, this file will be overwritten.
+Failed to convert %s to character encoding %s. Encoding failed on character '%s' at line %d column %d
+Continue saving in UTF-8 encoding?
+File encoding conversion failure
+The file you have selected is being edited in Bluefish.
+File %s exists and is opened, overwrite?
+Do you want to replace the existing file?
+A file named "%s" already exists.
+File: %s
+New modification time: %s
+Old modification time: %s
+File has been modified by another process.
+Do you want to save the changes made to
+"%s"?.
+Do you want to save the changes made to this untitled file?
+<span background="%s" >%d</span>
+These files could not opened:
+Filename: %s
+New modification time is: %s
+Old modification time is: %s
+File has been modified by another process
+grep {contains} `find {basedir} -name '{file type}'`
+Multiple open files have been changed.
+Your changes will be lost if you don't save them.
+Statistics: %d lines, %d words, %d characters
+/Document/Highlight Syntax
+Setting tabsize to %d
+Encoding: 
+Type: 
+Name: 
+ bytes
+Size (on disk): 
+Permissions: 
+Last modified: 
+Untitled %d
+selection_bound
+ Ln %d, Col %d
+ OVR
+ INS
+unknown
+  %s, %s
+diag_ins
+diag_sel
+http
+https
+document_src
+Could not read file:
+Opening file 
+input
+base
+gtk-find-and-replace
+Find
+gtk-find
+Edit color
+Edit tag
+insert-text
+delete-range
+Saving file
+<meta name="author" content="
+_Abort save
+File backup failure
+_Continue save
+_Continue save in UTF-8
+Previously: 
+Move/rename document to
+_Cancel
+_Overwrite
+Save document as
+Saving %s
+Could not write file:
+File save error
+Could not backup file:
+File save aborted.
+Do_n't save
+gtk-save
+This file has not been saved.
+#768BEA
+#62CB7F
+<span>%d</span>
+expose-event
+button-release-event
+mark-set
+toggle-overwrite
+drag-end
+drag-begin
+key-release-event
+key-press-event
+populate-popup
+No filename
+Loading files...
+Unable to open file(s)
+Unable to open file
+_Reload
+_Ignore
+-maxdepth 100 
+-maxdepth 1 
+-E -l 
+ -name '
+/bin/find
+searching files...
+/bin/grep
+Select basedir
+Advanced open file selector
+<b>General</b>
+Base_dir:
+_Browse...
+*.php
+*.php3
+*.html
+*.htm
+*.shtml
+*.pl
+*.cgi
+*.py
+*.java
+_File Type:
+_Recursive:
+<b>Contains</b>
+Pa_ttern:
+Is rege_x:
+Open URL
+Loading %d file(s)...
+Select file to insert
+No file to insert
+Choose per _File
+_Save All
+Close _All
+floatingview
+Untitled
+?Error creating path
+File name
+Directory name
+Opening directory...
+webimage
+Could not rename
+gtk-delete
+Could not delete 
+/Open _Advanced
+<Item>
+/_Refresh
+/_Set as basedir
+/New _File
+/_New Directory
+<Separator>
+/_Open
+/Rena_me
+/_Delete
+<Filebrowser>
+Show hidden files
+toggled
+Show backup files
+Filter
+All files
+showfulltree_toggled_lcb
+filebrowser.c
+pixbuf_expander_open
+pixbuf_expander_closed
+pixbuf
+editable
+Show full tree
+row-expanded
+row-activated
+button_press_event
+notify::position
+../icons/icon_unknown.png
+../icons/icon_dir.png
+The specified pathname already exists.
+The file will be permanently deleted.
+Are you sure you want to
+delete "%s" ?
+the dir_icon and unknown_icon items in the config file are invalid
+FILEBROWSER(bfwin->filebrowser)->basedir
+file %s: line %d (%s): assertion failed: (%s)
+description
+vallist
+function
+class
+attribute
+param
+return
+title
+FREF Config Error: %s
+</b></span>
+"><b>NOTES:</b> 
+#FFFFFF
+">       <b>RETURNS: 
+" ><b>NOTES:</b> 
+</i></span>
+<span size="small">       
+<span size="small">       <i>
+#666666
+)</i></b></span>
+#4B6983
+#7590AE
+Insert
+Dialog
+<span color='#FF0000'>
+ </span>
+/.bluefish/
+/usr/share/bluefish/
+Options
+Rescan reference files
+Left doubleclick action
+Info type
+Description
+Attributes/Parameters
+Notes
+funcref_*.xml
+Reference search
+Error
+Reference not found
+Unknown fref_info_type
+<i>%s</i>  %s( 
+</i>  <b>
+<b>%s:</b> 
+</i></span>  
+<span size="small" ><i>
+row-collapsed
+cursor-changed
+Show info window
+Search
+FREF Config Error: Unknown element
+FREF Config Error: Unknown tag (%s)
+Maximum nesting level reached!
+FREF Config Error: cannot assign vallist
+FREF Config Error: Unknown Error
+<span size="small"  foreground="#FFFFFF" >       
+<span size="medium" foreground="#FFFFFF" >  FUNCTION: <b>
+<span size="medium" foreground="#FFFFFF" >  TAG: <b>
+<span size="medium" foreground="
+<span size="small" foreground="
+<span size="small" foreground="#FFFFFF" >       <i>
+<span size="medium">       <b>RETURNS: 
+<span size="medium">  FUNCTION: <b>
+<span size="medium">  TAG: <b>
+<span size="medium"><b>NOTES:</b> 
+)</i></b></span> - <span size="small" foreground="
+<span size="small">          <b><i>
+)</i></b></span> - <span size="small">
+</i></b></span> - <span size="small" foreground="
+<span size="small" >          <b><i>
+</i></b></span> - <span size="small">
+Perhaps you didn't load a reference, or you did not select a reference to search in.
+weird, fref_doubleclick_action=%d
+<span size="small"><b>Parameters:</b></span>
+<span size="small"><b>Description:</b></span>
+<span size="small"><b>Attributes:</b></span>
+key_press_event
+</span>
+gtk-dialog-error
+gtk-dialog-info
+gtk-dialog-warning
+gtk-dialog-question
+%d of %d
+fileselect
+Select file
+Select files
+<span weight="bold" size="larger">
+Filebrowser
+Function reference
+Bookmarks
+/View/View Left Panel
+ - Bluefish 0.13
+submit
+hidden
+radio
+checkbox
+quickstart...
+QuickStart...
+body...
+bold
+italic
+Italic
+paragraph
+Paragraph
+break
+breakclear
+Break and clear
+nbsp
+Non-breaking space
+anchor...
+rule...
+center
+rightjustify
+Right Justify
+comment
+email...
+E-Mail...
+basefont...
+Base Font Size...
+fontsize+1
+Font Size +1
+fontsize-1
+Font Size -1
+preformatted
+Preformatted Text
+subscript
+Subscript
+superscript
+Superscript
+strong
+Strong
+emphasis
+Emphasis
+heading1
+Heading 1
+heading2
+Heading 2
+heading3
+Heading 3
+heading4
+Heading 4
+heading5
+Heading 5
+heading6
+Heading 6
+tablewizard...
+Table Wizard...
+table...
+tablerow...
+Table Row...
+tableheader...
+Table Header...
+tabledata...
+Table Data...
+tablerow
+Table Row
+tableheader
+Table Header
+tabledata
+Table Data
+tablecaption
+Table Caption
+framewizard...
+Frame Wizard...
+frameset...
+Frameset...
+frame...
+frameset
+Frameset
+noframes
+Noframes
+target
+Target
+form...
+Form...
+inputbutton...
+Input Button...
+text...
+hidden...
+Input Hidden...
+textarea...
+Textarea...
+radiobutton...
+Input Radio Button...
+checkbox...
+Input Check Box...
+select...
+option...
+Option...
+optiongroup...
+Option group...
+quicklist...
+Quick List...
+unorderedlist
+Unordered List
+listitem
+List Item
+definitionlist
+Definition List
+definitionterm
+Definition Term
+definition
+createstylesheet...
+Create stylesheet...
+span...
+Span...
+div...
+Style
+linkstylesheet...
+Link to stylesheet...
+Insert image...
+Insert thumbnail...
+mthumbnail...
+Multi thumbnail...
+code
+samp
+Sample
+Keyboard
+Variable
+cite
+Citation
+abbr
+Abbreviation
+acronym
+Acronym
+Remove from quickbar
+Add to quickbar
+ Quick bar 
+Heading
+ Standard bar 
+Context formatting
+ Fonts 
+ Tables 
+ Frames 
+ Forms 
+ List 
+ CSS 
+Open..
+gtk-new
+gtk-open
+Save As...
+gtk-save-as
+gtk-cut
+gtk-copy
+Search...
+gtk-paste
+Search and Replace...
+gtk-undo
+gtk-redo
+Shift Left
+Shift Right
+Spellcheck...
+View in browser
+Preferences...
+gtk-preferences
+/Edit/Undo
+/Edit/Undo All
+/Edit/Redo
+/Edit/Redo All
+/Document/Wrap
+/Document/Line Numbers
+switch-page
+Do_n't Save
+New Bluefish Window
+delete_event
+configure-event
+window-state-event
+Stand by...
+text/uri-list
+STRING
+drag_data_received
+Goto line
+_Line number:
+From _selection
+Keep _dialog
+/View/View HTML Toolbar
+/View/View Main Toolbar
+/View/View Custom Menu
+/Document/Auto Close HTML tags
+Failed to save the current project
+gui_toggle_hidewidget_cb should NEVER be called with action %d
+error compiling nameless pattern: name is not set
+error compiling pattern '%s', mode %d unknown
+error compiling pattern '%s' for mode 3: sub-pattern number missing, too large or incorrect
+error compiling pattern '%s' for mode 2: pattern missing
+error compiling pattern '%s' for mode 1: some pattern(s) missing
+error gettting info for pattern %s
+error compiling pattern %s offset %d
+error compiling parentmatch %s at %d
+doc_highlight_line, a tag that is started is nowhere to be found ??? BUG!
+^top$
+background
+foreground
+error studying pattern %s
+ERROR while loading icon: %s
+&euro;
+&oelig;
+&OElig;
+</ACRONYM>
+<ACRONYM>
+</ABBR>
+<ABBR>
+</CITE>
+<CITE>
+</VAR>
+<VAR>
+</KBD>
+<KBD>
+</SAMP>
+<SAMP>
+</CODE>
+<CODE>
+</DFN>
+<DFN>
+" />
+Bluefish 
+SCRIPT LANGUAGE
+//--></SCRIPT>
+</NOBR>
+<NOBR>
+STYLE TYPE
+<%s="text/css"><!--
+--></STYLE>
+<BR CLEAR="ALL">
+<MAP NAME="
+</DD>
+<DD>
+</DT>
+<DT>
+</MENU>
+<MENU>
+</OL>
+<OL>
+</UL>
+<UL>
+<LI>
+<BASE TARGET="">
+</NOFRAMES>
+<NOFRAMES>
+<FRAMESET>
+</STRONG>
+<STRONG>
+</SUP>
+<SUP>
+</SUB>
+<SUB>
+</PRE>
+<PRE>
+</FONT>
+<FONT SIZE="-1">
+<FONT SIZE="+1">
+ -->
+<!-- 
+</DIV>
+<DIV ALIGN="RIGHT">
+<DIV ALIGN="CENTER">
+</STRIKE>
+<STRIKE>
+<br>
+</P>
+</I>
+</B>
+</U>
+</TABLE>
+<TABLE>
+</H6>
+<H6>
+</CAPTION>
+<CAPTION>
+<TD>
+</TH>
+<TH>
+</TR>
+</H3>
+<H3>
+</H2>
+<H2>
+</H1>
+<H1>
+</EM>
+<EM>
+</H5>
+<H5>
+</H4>
+<H4>
+<br />
+</SPAN>
+<BR CLEAR="ALL" />
+<BASE TARGET="" />
+Insert Time
+  _Unix Time (%i)
+  Unix Date _String (%s
+  _Date (%i/%i/%i)
+  _Time (%i:%i:%i)
+ ** Error ** see stdout
+  Day of the _week (Saturday)
+  Day of the _week (Friday)
+  Day of the _week (Thursday)
+  Day of the _week (Tuesday)
+  Day of the _week (Monday)
+  Day of the _week (Sunday)
+HREF
+TARGET
+NAME
+ONCLICK
+ONDBLCLICK
+ONMOUSEOVER
+ONMOUSEDOWN
+ONMOUSEMOVE
+ONMOUSEOUT
+ONMOUSEUP
+ONKEYDOWN
+ONKEYPRESS
+ONKEYUP
+CLASS
+STYLE
+</A>
+href
+onkeyup
+onclick
+ondblclick
+onmouseover
+onmousedown
+onmousemove
+onmouseout
+onmouseup
+onkeydown
+onkeypress
+Quick Anchor
+Attributes
+_HREF:
+_Target:
+_Language:
+Custo_m:
+Events
+OnClic_k:
+OnD_blClick:
+OnMouseO_ver:
+OnMouse_Down:
+OnMouse_Move:
+OnMouseOu_t:
+OnMouse_Up:
+OnKeyDo_wn:
+OnKey_Press:
+OnKe_yUp:
+<SPAN
+<DIV
+Ali_gn:
+Cl_ass:
+St_yle:
+_ID:
+Span
+NOSHADE
+%s />
+NOSHADE="noshade"
+noshade
+Horizontal Rule
+_Align:
+Is _percent
+No _shading
+XHTML
+" XML:LANG="
+<HTML XMLNS="
+</TITLE>
+</HEAD>
+<BODY>
+</BODY>
+</HTML>
+" LANG="
+--></style>
+<style type="text/css"><!--
+<HTML>
+<HEAD>
+Quick Start
+_Doctype:
+Header tags:
+_Title:
+ _Include: 
+<BODY
+OnLoad
+OnUnLoad
+BACKGROUND
+BGCOLOR
+TEXT
+VLINK
+ALINK
+</BODY>
+bgcolor
+vlink
+alink
+language
+onload
+onunload
+Body
+On_Load:
+On_UnLoad:
+Depreciated options
+Background _Image:
+Back_ground Color:
+_Text Color:
+_Link Color:
+_Visited Link Color:
+_Active Link Color:
+<META
+HTTP-EQUIV
+CONTENT
+SCHEME
+http-equiv
+content
+scheme
+Copyright
+Meta
+Date
+Author
+Reply-to
+Keywords
+Borrow or rob
+PICS-label
+Expires
+Content-Type
+Content-Location
+Content-Language
+Content-Encoding
+Pragma
+_HTTP-EQUIV:
+Con_tent:
+_Scheme:
+<FONT
+FACE
+<BASEFONT
+ size="
+Size
+Color
+Face
+Custom
+Base Font
+<A HREF="mailto:
+?Subject=
+&Body=
+?Body=
+Email
+_Email address:
+UrlEncoded _subject:
+UrlEncoded _body:
+	<LI></LI>
+Quick List
+_Rows:
+Or_dered
+_Unordered
+Style:
+<FRAMESET
+COLS
+ROWS
+<FRAME>
+</FRAMESET>
+<FRAME />
+cols
+rows
+Co_ls:
+_Add <frame> elements
+<FRAME
+FRAMEBORDER
+SCROLLING
+MARGINWIDTH
+MARGINHEIGHT
+NORESIZE
+frameborder
+scrolling
+marginwidth
+marginheight
+noresize
+_Source:
+Margin _Width:
+Margin _Height:
+Scrollin_g:
+auto
+_Frameborder:
+No _Resize:
+<EMBED
+HEGHT
+Embed
+Bo_rder:
+<SCRIPT
+Script
+text/plain
+text/html
+javascript1.2
+javascript1.1
+application/javascript
+text/javascript
+application/x-javascript
+_Type:
+<LINK
+HREFLANG
+MEDIA
+hreflang
+media
+Link
+_Href:
+Href_lang:
+application/postscript
+text/css
+Appendix
+Contents
+Subsection
+Prev
+Section
+Chapter
+Glossary
+Index
+Stylesheet
+Next
+Alternate
+_Forward Relation:
+_Reverse Relation:
+braille
+print
+handheld
+aural
+projection
+screen
+Media:
+L_ang:
+_Custom:
+<META NAME="Generator" CONTENT="
+ http://bluefish.openoffice.nl/
+<%s="javascript" %s="text/javascript"><!--
+	<AREA SHAPE="" COORDS="" HREF="">
+</MAP>
+<DL>
+<DT></DT>
+	<DD></DD>
+</DL>
+<DIV STYLE="text-align: center">
+<DIV STYLE="text-align: right">
+<SPAN STYLE="text-decoration: underline;">
+<SPAN STYLE="font-size: smaller;">
+<SPAN STYLE="font-size: larger;">
+	<AREA SHAPE="" COORDS="" HREF="" />
+</MAP>
+You appear to have a non existant day!
+  Day of the _week (Wednesday)
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+%s%s
+%shttp://www.w3.org/1999/xhtml%sen">
+%s%s
+%shttp://www.w3.org/1999/xhtml%sen%sen">
+<?xml version="1.0" encoding="
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"  "http://www.w3.org/TR/REC-html40/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Frameset//EN" "http://www.w3.org/TR/REC-html40/frameset.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<meta name="generator" content="Bluefish"
+<meta name="author" content=""
+<meta name="copyright" content=""
+<meta name="keywords" content=""
+<meta name="description" content=""
+<meta name="ROBOTS" content="NOINDEX, NOFOLLOW"
+<meta http-equiv="Content-Type" content="text/html; charset=
+<meta http-equiv="Expires" content="Tue, 20 Aug 2004 14:25:27 GMT"
+<meta http-equiv="refresh" content="5; URL=http://"
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=
+a:link
+a:visited
+a:active
+address
+applet
+blockquote
+button
+colgroup
+embed
+fieldset
+iframe
+legend
+noscript
+object
+optgroup
+option
+small
+tbody
+textarea
+tfoot
+thead
+ruby
+white
+black
+blue
+yellow
+green
+brown
+purple
+repeat-x
+repeat-y
+no-repeat
+arial, helvetica, sans-serif
+courier, fixed, monospace
+western, fantasy
+Zapf-Chancery, cursive
+none
+normal
+wider
+narrower
+ultra-condensed
+A Santa lives evil at NASA
+extra-condensed
+semi-condensed
+semi-expanded
+extra-expanded
+ultra-expanded
+oblique
+small-caps
+bolder
+lighter
+scroll
+fixed
+10% 10%
+underline
+overline
+line-through
+blink
+capitalize
+uppercase
+lowercase
+dotted
+dashed
+solid
+double
+groove
+ridge
+inset
+outset
+static
+relative
+absolute
+both
+block
+inline
+list-item
+run-in
+compact
+marker
+inline-table
+table-row-group
+table-header-group
+table-footer-group
+table-row
+table-column-group
+table-column
+table-cell
+table-caption
+nowrap
+disc
+circle
+square
+decimal
+lower-roman
+upper-roman
+lower-alpha
+upper-alpha
+inside
+outside
+bidi-override
+baseline
+super
+text-top
+text-bottom
+visible
+collapse
+font-family
+font-stretch
+font-style
+font-variant
+font-weight
+font-size
+font-size-adjust
+background-color
+background-image
+background-repeat
+background-attachment
+background-position
+word-spacing
+letter-spacing
+text-decoration
+text-transform
+text-align
+text-indent
+text-shadow
+line-height
+margin-top
+margin-right
+margin-bottom
+margin-left
+margin
+padding-top
+padding-right
+padding-bottom
+padding-left
+border-top-width
+border-right-width
+border-bottom-width
+border-left-width
+border-width
+border-top-color
+border-right-color
+border-bottom-color
+border-left-color
+border-color
+border-top-style
+border-right-style
+border-bottom-style
+border-left-style
+border-style
+border-top
+border-right
+border-bottom
+border-left
+float
+direction
+unicode-bidi
+z-index
+min-width
+max-width
+min-height
+max-height
+white-space
+list-style
+list-style-type
+list-style-image
+list-style-position
+vertical-align
+overflow
+clip
+visibility
+caption-side
+table-layout
+Cascading StyleSheet dialog
+_Property:
+_Value:
+Property
+Value
+unselect_row
+ _Add 
+ _Update 
+ _Delete 
+Selector
+_Selector:
+#%.2X%.2X%.2X
+Bluefish: Select color
+gtk-color-palette
+gtk-select-color
+roman, 'times new roman', times, serif
+html_dialog
+%s %s="%s"
+%s %s
+%s %s="%d%%"
+%s %s="%d"
+<?php if (isset($_POST['%s'])) { echo 'checked'; } ?>
+<?php if (isset($_POST['%s'])) { echo 'checked=\"checked\"'; } ?>
+<?php if (isset($_POST['%s'])) { echo $%s; } ?>
+<?php if ($_POST['%s']=="%s") { echo 'checked'; } ?>
+<?php if ($_POST['%s']=="%s") { echo 'checked=\"checked\"'; } ?>
+application/x-www-form-urlencoded
+<FORM
+ACTION
+METHOD
+ENCTYPE
+</FORM>
+method
+enctype
+Form
+<?php echo $SCRIPT_NAME ?>
+'.$SCRIPT_NAME.'
+_Action:
+POST
+Metho_d:
+multipart/form-data
+_Enctype:
+_top
+_blank
+_parent
+<TEXTAREA
+</TEXTAREA>
+value
+Text area
+<SELECT
+MULTIPLE
+</SELECT>
+multiple
+Select
+Si_ze:
+Multiple _Selections:
+<OPTION
+VALUE
+LABEL
+SELECTED
+</OPTION>
+selected
+Option
+_Label:
+_Selected:
+<OPTGROUP
+</OPTGROUP>
+Option group
+<INPUT
+CHECKED
+passwd
+MAXLENGTH
+ONFOCUS
+ONBLUR
+ONSELECT
+ONCHANGE
+ACCEPT
+CHECKED="checked"
+checked
+maxlength
+accept
+onfocus
+onblur
+onselect
+onchange
+Input
+reset
+password
+selection-changed
+_Checked:
+Max _Length:
+_Accept:
+C_ustom:
+On_Focus:
+On_Blur:
+On_Select:
+On_Change:
+<BUTTON
+</BUTTON>
+Button
+<TABLE
+CELLPADDING
+CELLSPACING
+VALIGN
+rules
+cellpadding
+cellspacing
+valign
+Cell _Padding:
+C_ell Spacing:
+texttop
+absmiddle
+absbottom
+_Valign:
+Backgrou_nd Color:
+void
+above
+below
+hsides
+vsides
+_Frame:
+groups
+R_ules:
+COLSPAN
+ROWSPAN
+NOWRAP
+colspan
+rowspan
+Co_l Span:
+_Row Span:
+No Wra_p:
+jpeg
+quality
+"><IMG SRC="
+<A HREF="
+HSPACE
+VSPACE
+USEMAP
+<IMG
+</a>
+hspace
+vspace
+usemap
+Insert thumbnail
+Preview
+_Image location:
+Hei_ght:
+_Usemap:
+Alternate _text:
+_Hspace:
+_Vspace:
+Borde_r:
+Insert image
+value_changed
+Scaling (%)
+Width
+Height
+Multi thumbnail
+By scaling
+By width, keep aspect ratio
+By height, keep aspect ratio
+ERROR while saving thumbnail: %s
+Select files for thumbnail creation
+By width and height, ignore aspect ratio
+%r: original filename  %t: thumbnail filename
+%w: original width  %h: original height
+%x: thumbnail width  %y: thumbnail height
+%b: original size (bytes)
+MbP?
+menu_file_operations_cb, unknown action, abort!
+/Edit/Replace special/Tearoff1
+/Edit/Replace special/_ASCII to HTML Entities
+/Edit/Replace special/_ISO8859 to HTML Entities
+/Edit/Replace special/_Both Types to HTML Entities
+/Edit/Replace special/To _Uppercase
+/Edit/Replace special/To _Lowercase
+/Tags/Special/Accent/_Uppercase
+/Tags/Special/Accent/Uppercase/_A-I
+/Tags/Special/Accent/Uppercase/A-I/tearoff1
+/Tags/Special/Accent/Uppercase/A-I/A grave 
+/Tags/Special/Accent/Uppercase/A-I/A acute 
+/Tags/Special/Accent/Uppercase/A-I/A circumflex 
+/Tags/Special/Accent/Uppercase/A-I/A tilde 
+/Tags/Special/Accent/Uppercase/A-I/AE ligature 
+/Tags/Special/Accent/Uppercase/A-I/A diaeresis 
+/Tags/Special/Accent/Uppercase/A-I/A ring 
+/Tags/Special/Accent/Uppercase/A-I/C cedilla 
+/Tags/Special/Accent/Uppercase/A-I/E grave 
+/Tags/Special/Accent/Uppercase/A-I/E acute 
+/Tags/Special/Accent/Uppercase/A-I/E circumflex 
+/Tags/Special/Accent/Uppercase/A-I/E diaeresis 
+/Tags/Special/Accent/Uppercase/A-I/I grave 
+/Tags/Special/Accent/Uppercase/A-I/I acute 
+/Tags/Special/Accent/Uppercase/A-I/I circumflex 
+/Tags/Special/Accent/Uppercase/A-I/I diaeresis 
+/Tags/Special/Accent/Uppercase/_J-Z
+/Tags/Special/Accent/Uppercase/J-Z/tearoff1
+/Tags/Special/Accent/Uppercase/J-Z/N tilde 
+/Tags/Special/Accent/Uppercase/J-Z/O grave 
+/Tags/Special/Accent/Uppercase/J-Z/O acute 
+/Tags/Special/Accent/Uppercase/J-Z/O circumflex 
+/Tags/Special/Accent/Uppercase/J-Z/OE ligature
+/Tags/Special/Accent/Uppercase/J-Z/O tilde 
+/Tags/Special/Accent/Uppercase/J-Z/O diaeresis 
+/Tags/Special/Accent/Uppercase/J-Z/O slash 
+/Tags/Special/Accent/Uppercase/J-Z/U grave 
+/Tags/Special/Accent/Uppercase/J-Z/U acute 
+/Tags/Special/Accent/Uppercase/J-Z/U circumflex 
+/Tags/Special/Accent/Uppercase/J-Z/U diaeresis 
+/Tags/Special/Accent/Uppercase/J-Z/Y acute 
+/Tags/Special/Accent/_Lowercase
+/Tags/Special/Accent/Lowercase/_A-I
+/Tags/Special/Accent/Lowercase/A-I/tearoff1
+/Tags/Special/Accent/Lowercase/A-I/a grave 
+/Tags/Special/Accent/Lowercase/A-I/a acute 
+/Tags/Special/Accent/Lowercase/A-I/a circumflex 
+/Tags/Special/Accent/Lowercase/A-I/a tilde 
+/Tags/Special/Accent/Lowercase/A-I/a ring 
+/Tags/Special/Accent/Lowercase/A-I/ae ligature 
+/Tags/Special/Accent/Lowercase/A-I/a diaeresis 
+/Tags/Special/Accent/Lowercase/A-I/c cedilla 
+/Tags/Special/Accent/Lowercase/A-I/e grave 
+/Tags/Special/Accent/Lowercase/A-I/e acute 
+/Tags/Special/Accent/Lowercase/A-I/e circumflex 
+/Tags/Special/Accent/Lowercase/A-I/e diaeresis 
+/Tags/Special/Accent/Lowercase/A-I/i grave 
+/Tags/Special/Accent/Lowercase/A-I/i acute 
+/Tags/Special/Accent/Lowercase/A-I/i circumflex 
+/Tags/Special/Accent/Lowercase/A-I/i diaeresis 
+/Tags/Special/Accent/Lowercase/_J-Z
+/Tags/Special/Accent/Lowercase/J-Z/tearoff1
+/Tags/Special/Accent/Lowercase/J-Z/n tilde 
+/Tags/Special/Accent/Lowercase/J-Z/o grave 
+/Tags/Special/Accent/Lowercase/J-Z/o acute 
+/Tags/Special/Accent/Lowercase/J-Z/oe ligature 
+/Tags/Special/Accent/Lowercase/J-Z/o circumflex 
+/Tags/Special/Accent/Lowercase/J-Z/o tilde 
+/Tags/Special/Accent/Lowercase/J-Z/o diaeresis 
+/Tags/Special/Accent/Lowercase/J-Z/o slash 
+/Tags/Special/Accent/Lowercase/J-Z/u grave 
+/Tags/Special/Accent/Lowercase/J-Z/u acute 
+/Tags/Special/Accent/Lowercase/J-Z/u circumflex 
+/Tags/Special/Accent/Lowercase/J-Z/u diaeresis 
+/Tags/Special/Accent/Lowercase/J-Z/y acute 
+/Tags/Special/Accent/Lowercase/J-Z/y diaeresis 
+/Tags/Special/Accent/separator
+/Tags/Special/Accent/U_mlaut 
+/Tags/Special/Accent/_Acute 
+/Tags/Special/Accent/_Cedilla 
+/Tags/Special/Currency/tearoff1
+/Tags/Special/Currency/_Cent sign 
+/Tags/Special/Currency/_Pound sterling 
+/Tags/Special/Currency/C_urrency sign 
+/Tags/Special/Currency/_Yen sign 
+/Tags/Special/Math-Science/tearoff1
+/Tags/Special/Math-Science/Logical _not sign 
+/Tags/Special/Math-Science/_Multiplication sign 
+/Tags/Special/Math-Science/_Division sign 
+/Tags/Special/Math-Science/_Plus-minus sign 
+/Tags/Special/Math-Science/_Less-than sign <
+/Tags/Special/Math-Science/_Greater-than sign >
+/Tags/Special/Math-Science/Superscript _1 
+/Tags/Special/Math-Science/Superscript _2 
+/Tags/Special/Math-Science/Superscript _3 
+/Tags/Special/Math-Science/One _quarter 
+/Tags/Special/Math-Science/One _half 
+/Tags/Special/Math-Science/_Three quarters 
+/Tags/Special/Math-Science/Deg_ree sign 
+/Tags/Special/Non Latin/tearoff1
+/Tags/Special/Non Latin/_ETH (Icelandic) 
+/Tags/Special/Non Latin/_THORN (Icelandic) 
+/Tags/Special/Non Latin/et_h (Icelandic) 
+/Tags/Special/Non Latin/th_orn 
+/Tags/Special/Non Latin/Sharp _s 
+/Tags/Special/Non Latin/_Micro sign 
+/Tags/Special/Other/_Non-breaking space
+/Tags/Special/Other/_Section sign 
+/Tags/Special/Other/_Copyright sign 
+/Tags/Special/Other/_Left angle quotes 
+/Tags/Special/Other/_Right angle quotes 
+/Tags/Special/Other/Registered _trademark 
+/Tags/Special/Other/Inverted _exclamation 
+/Tags/Special/Other/Inverted _question mark 
+/Tags/Special/Other/_Feminine ordinal 
+/Tags/Special/Other/_Masculine ordinal 
+/Tags/Special/Other/_Pilcrow (paragraph sign) 
+/Tags/Special/Other/_Broken bar 
+/Tags/Special/Other/Soft _hypen -
+/Tags/Special/Other/Spa_cing macron 
+/Tags/Special/Other/Middle _dot 
+/Tags/Format by layout/tearoff1
+/Tags/Format by layout/_Italic
+/Tags/Format by layout/_Underline
+/Tags/Format by layout/_Strikeout
+/Tags/Format by context/tearoff1
+/Tags/Format by context/_Strong
+/Tags/Format by context/_Emphasis
+/Tags/Format by context/_Define
+/Tags/Format by context/Sa_mple
+/Tags/Format by context/_Keyboard
+/Tags/Format by context/_Variable
+/Tags/Format by context/Ci_tation
+/Tags/Format by context/_Abbreviation
+/Tags/Format by context/Ac_ronym
+/Tags/Format general/_Paragraph
+/Tags/Format general/Break clear _all
+/Tags/Format general/_Non-Breaking Space
+/Tags/Format general/<separator>
+/Tags/Format general/Font Si_ze +1
+/Tags/Format general/Font _Size -1
+/Tags/Format general/Preformatted _Text
+/Tags/Format general/Su_bscript
+/Tags/Format general/Su_perscript
+/Tags/Format general/Align _right
+/Tags/Insert Generator _META-Tag
+/Dialogs/General/_Quickstart...
+/Dialogs/General/Quick_list...
+/Dialogs/General/Select _Color...
+/Dialogs/General/Insert _Time...
+/Dialogs/General/Insert _Image...
+/Dialogs/General/Insert T_humbnail...
+/Dialogs/Table/Table _Wizard...
+/Dialogs/CSS/_Link to Stylesheet...
+/Dialogs/Frame/Frame _Wizard...
+/Dialogs/Form/Input Buttons...
+/Dialogs/Form/Option _Group...
+/Dialogs/_Edit tag under cursor...
+/Document/Auto Close H_TML tags
+/Document/_Update Highlighting
+/Document/Document Type/tearoff1
+/Document/Character Encoding/tearoff1
+/Project/E_dit Project Options...
+<bluefishmain>/Edit/Shift Right
+<bluefishmain>/Edit/Shift Left
+<bluefishmain>/Go/Previous document
+<bluefishmain>/Go/Next document
+<bluefishmain>/Go/First document
+<bluefishmain>/Go/Last document
+Could not view file in browser, the file does not yet have a name
+This custom search and replace requires a selection
+/Custom menu/Edit custom menu...
+The menupath you want to update does not exist yet
+The menupath should start with a / character
+The menupath you want to add already exists.
+Bmark action no. %d
+/_File
+<Branch>
+/File/tearoff1
+<Tearoff>
+/File/_New
+<control>n
+<StockItem>
+Eleele
+/File/New _Window
+/File/_Open...
+/File/Open recen_t
+/File/Open recent/tearoff1
+/File/Open Ad_vanced...
+<shift><control>O
+/File/Open _URL...
+/File/Open _from selection
+/File/sep1
+/File/_Save
+/File/Save _As...
+<shift><control>S
+/File/Sav_e All
+/File/_Revert to Saved
+gtk-revert-to-saved
+/File/sep2
+/File/_Insert...
+/File/Rena_me...
+/File/sep3
+/File/_Close
+/File/Close A_ll
+<shift><control>w
+/File/Close Win_dow
+/File/sep4
+/File/_Quit
+<control>Q
+gtk-quit
+/_Edit
+/Edit/Tearoff1
+/Edit/_Undo
+/Edit/_Redo
+<shift><control>z
+/Edit/sep1
+/Edit/Cu_t
+<control>x
+/Edit/_Copy
+<control>c
+/Edit/_Paste
+<control>v
+/Edit/sep2
+/Edit/Select _All
+/Edit/sep3
+/Edit/_Find...
+<control>f
+/Edit/Find A_gain
+<control>g
+/Edit/Find from selection
+/Edit/R_eplace...
+/Edit/Replace Agai_n
+<shift><control>h
+/Edit/Replace special
+/Edit/sep4
+/Edit/Sh_ift Right
+/Edit/S_hift Left
+/Edit/sep5
+/Edit/Add _Bookmark
+<control>d
+/Edit/sep6
+/Edit/_Save Settings
+/Edit/Save Shortcut _Keys
+/Edit/_Preferences
+/_View
+/View/tearoff1
+/View/View _Main Toolbar
+<ToggleItem>
+/View/View _HTML Toolbar
+/View/View _Custom Menu
+/View/View _Left Panel
+/_Tags
+/Tags/Tearoff1
+/Tags/_Headings
+/Tags/Headings/Tearoff1
+/Tags/Headings/H_1
+<control><alt>1
+/Tags/Headings/H_2
+<control><alt>2
+/Tags/Headings/H_3
+<control><alt>3
+/Tags/Headings/H_4
+<control><alt>4
+/Tags/Headings/H_5
+<control><alt>5
+/Tags/Headings/H_6
+<control><alt>6
+/Tags/_Special
+/Tags/Special/tearoff1
+/Tags/Special/_Accent
+/Tags/Special/Accent/tearoff1
+/Tags/Special/_Currency
+/Tags/Special/Currency/_Euro 
+/Tags/Special/_Math-Science
+<control><alt>slash
+<control><alt>comma
+<control><alt>period
+/Tags/Special/_Non Latin
+/Tags/Special/_Other
+/Tags/Special/Other/tearoff1
+/Tags/_Format by layout
+/Tags/Format by layout/_Bold
+<control><alt>b
+<control><alt>i
+<control><alt>u
+<control><alt>s
+/Tags/F_ormat by context
+<control><alt>g
+<control><alt>e
+/Tags/Format by context/_Code
+/Tags/Format _general
+/Tags/Format general/tearoff1
+<control><alt>p
+/Tags/Format general/_Break
+<control><alt>k
+<control><alt>n
+<control><alt>equal
+<control><alt>minus
+<Control><Alt>f
+/Tags/Format general/_Center
+<control><Alt>r
+/Tags/_Table
+/Tags/Table/tearoff1
+/Tags/Table/_Table
+<control><alt>t
+/Tags/Table/Table _Row
+/Tags/Table/Table _Header
+/Tags/Table/Table _Data
+/Tags/Table/Table _Caption
+/Tags/_List
+/Tags/List/tearoff1
+/Tags/List/Unordered _List
+<control><alt>L
+/Tags/List/_Ordered List
+<control><alt>O
+/Tags/List/List Ite_m
+<control><alt>M
+/Tags/List/De_finition List
+/Tags/List/Definition _Term
+/Tags/List/_Definition
+/Tags/List/Men_u
+/Tags/_Comment
+<control><alt>C
+/Dial_ogs
+/Dialogs/tearoff1
+/Dialogs/_General
+/Dialogs/General/tearoff1
+<shift><alt>q
+/Dialogs/General/_Body...
+<shift><alt>B
+/Dialogs/General/_Anchor...
+<shift><alt>a
+/Dialogs/General/_Email...
+<shift><alt>e
+/Dialogs/General/_Rule...
+<shift><alt>r
+/Dialogs/General/_Font...
+<shift><alt>f
+/Dialogs/General/Basef_ont...
+<shift><alt>L
+/Dialogs/General/_Meta...
+<shift><alt>m
+/Dialogs/General/Embe_d...
+<shift><alt>I
+<shift><alt>N
+/Dialogs/_Table
+/Dialogs/Table/tearoff1
+/Dialogs/Table/_Table...
+<shift><alt>T
+/Dialogs/Table/Table _Row...
+/Dialogs/Table/Table _Head...
+/Dialogs/Table/Table _Data...
+/Dialogs/_CSS
+/Dialogs/CSS/tearoff1
+/Dialogs/CSS/_Create Style...
+<shift><alt>S
+/Dialogs/CSS/S_pan...
+/Dialogs/CSS/_Div...
+<shift><alt>D
+/Dialogs/CSS/_Style...
+/Dialogs/_Frame
+/Dialogs/Frame/tearoff1
+/Dialogs/Frame/Frame_set...
+/Dialogs/Frame/_Frame...
+/Dialogs/F_orm
+/Dialogs/Form/tearoff1
+/Dialogs/Form/F_orm...
+/Dialogs/Form/_Input...
+/Dialogs/Form/Input Text...
+/Dialogs/Form/Text_area...
+/Dialogs/Form/_Select...
+/Dialogs/Form/O_ption...
+/Dialogs/Form/_Button...
+/Dialogs/sep1
+<ImageItem>
+/_Document
+/Document/tearoff1
+/Document/_Increase Tabsize
+/Document/_Decrease Tabsize
+/Document/_Auto Indent
+/Document/sep1
+<control>T
+/Document/_Wrap
+/Document/_Line Numbers
+/Document/sep2
+/Document/_Highlight Syntax
+/Document/sep3
+/Document/Document Ty_pe
+/Document/Character _Encoding
+/Document/sep4
+/Document/Check _Spelling...
+/Document/_Floating window
+/Document/Word _Count
+/_Go
+/Go/tearoff1
+/Go/_Previous document
+gtk-go-back
+/Go/_Next document
+gtk-go-forward
+/Go/sep1
+/Go/_First document
+gtk-goto-first
+/Go/L_ast document
+gtk-goto-last
+/Go/Goto _Line
+<control>l
+gtk-jump-to
+/Go/Goto _Selection
+/_Project
+/Project/tearoff1
+/Project/_Open Project...
+/Project/Open r_ecent
+/Project/Open recent/tearoff1
+/Project/_New Project
+/Project/sep1
+/Project/_Save
+/Project/Save _as...
+/Project/Save & _close
+/Project/sep2
+/E_xternal
+/External/tearoff1
+/_Help
+/Help/_About...
+/Document/Document Type
+<bluefishmain>
+/Document/Auto Indent
+Loading file(s)...
+The filename was:
+Could not open file
+/Project/Open recent
+/File/Open recent
+/Windows
+/External
+/External/Browsers
+/External/Commands
+/External/Outputbox
+/External/Outputbox/
+/External/Commands/
+/External/Browsers/
+/Document/Character Encoding
+/_Custom menu
+/Custom menu/sep
+<bluefishcustom>
+Search Pattern
+Replace String
+Formatstring Before
+Formatstring After
+Try 'add' instead.
+Custom Menu Editor
+Add New Menu Entry
+gtk-add
+Apply Changes
+gtk-apply
+Delete Menu Entry
+Close Discards Changes
+Save Changes and Exit
+_Menu Path:
+Menu path
+Number of _Variables:
+Variables
+%%%d: 
+Custom Dialo_g
+Custom _Search and Replace
+_Replace:
+Tacocat
+in current document
+from cursor
+in selection
+in all open documents
+Matc_hing:
+posix regular expresions
+perl regular expresions
+Case Se_nsitive
+These files were not opened:
+Filename
+Output
+ 2>&1
+GdkP
+GdkP
+GdkP
+I777
+333K
+___[
+GIII
+	'''
+sXXX
+GdkP
+q9X|=
+*B^G
+:Y|	Y
+&7I	r
+mmmFJt
+ EwZ*\
+-l9Z
+$9Tm
+$v$9T
+';R*V
+3OqnNz
+&<XxCk
+M$:U
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+s_`Z
+iEFA
+J330
+eBC;
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+1NlL1Nlw1Nl
+1NlU1Nl
+1Nlw1Nl
+1NlU1Nl
+1Nl\1Nl
+GdkP
+pGG?
+n44.
+s44/
+eed#
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+###8III
+OOOF***
+'''L
+j$$$
+PPP(***
+****
+-,):
+974D
+?=9E
+A?;E
+A?:E
+@>9E
+640C
+**)e=<:
+23(.34)/34)/34)/34)/34)/34)/23(.23'%,."
+GdkP
+GdkP
+xL~aaa
+pldF
+BBB'
+wYqaaa
+mjfD
+~vd`fff
+~wgB
+2{c4
+<92v
+:I>)
+$,*'
+K$$$
+1>>>
+DYI+
+##"z
+|td^
+:::	
+===$
+uYjfff
+vrkQ
+Q"!!~
+'FFF
+			TnZ2
+			6@9*
+zsdZqqq
+ihgB
+C)))
+ %$$~
+VRIW41,
+(...
+			R]YP
+GdkP
+ ',Z
+b9\z
+.)Gb
+GdkP
+9   
+>ITj%,3
+:CLH
+9AIk
+044@ 
+056> 
+2799
+;EQ$?JV
+1799
+2799
+WN-K!
+GdkP
+GdkP
+GdkP
+@;7N
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+@F?&
+JC(#
+<6 +
+GdkP
+GdkP
+GdkP
+(1.-7>
+(1.1=G
+*6?e38<
+!)ZAIO
+"(/3
+u%AZ
+GdkP
+GdkP
+new_pixmap, requested unknown type %d
+Select font
+response
+gtk-select-font
+edited
+activatable
+Filetype
+Extensions
+Update chars
+Icon
+Editable
+Content regex
+Auto close tags mode
+Filefilter
+Inverse filtering
+Filetypes in filter
+Filetypes (colon separated)
+Pattern name
+gtk-go-up
+gtk-go-down
+Start pattern and end pattern
+Only start pattern
+Subpattern from parent
+Start pattern
+End pattern
+Case sensitive matching
+Parentmatch
+Foreground color
+Background color
+don't change weight
+force non-bold weight
+force bold weight
+don't change style
+force non-italic style
+force italic style
+Browser
+Command
+gtk-goto-top
+%s = current filename
+Label
+Name
+File #
+Line #
+Output #
+Show all output
+File subpattern #
+Line subpattern #
+Output subpattern #
+check mtime and size
+no check
+check mtime
+check size
+Edit preferences
+Editor options
+Tab width
+Word wrap default
+Line numbers by default
+Highlight syntax by default
+Highlight # lines
+Undo history size
+Clear undo history on save
+Bookmark options
+Sort by line number
+Make permanent by default
+full path
+path from basedir
+Bookmarks filename display
+HTML options
+Lowercase HTML tags
+Files
+Use XHTML style tags (<br />)
+Automatic update author meta
+Default character set
+Backup
+Backup file suffix
+Create backup on save
+abort
+Action on backup failure
+Remove backupfile on close
+Misc
+File browser
+File modified on disk check 
+Default basedir
+Unknown icon
+Directory icon
+User interface
+Dimensions
+Restore last used dimensions
+Initial left panel width
+Initial window height
+Initial window width
+Show custom menu by default
+Show main toolbar by default
+Show left panel by default
+External outputbox in submenu
+Show HTML toolbar by default
+Make HTML dialogs transient
+External browsers in submenu
+External commands in submenu
+Images
+Thumbnails
+Thumbnail suffix
+Thumbnail filetype
+Filetypes
+Filefilters
+Syntax highlighting
+Patterns
+External programs
+Utilities and filters
+Output parsers
+Servers
+Remote servers
+Zope compatibility mode
+%s = current filename
+%f = output filename (for filters)
+Use spaces to indent, not tabs
+Use deprecated tags (e.g. <font> and <nobr>)
+Auto set <meta> encoding tag on change
+Allow multi instances of a file
+Open files in already running bluefish window
+Number of files in 'Open recent'
+Use separate file and directory view
+Notebook tab font (leave empty for gtk default)
+Document notebook tab position
+Left panel notebook tab position
+New project
+/Project/Save
+/Project/Save as...
+/Project/Save & close
+Create New Project
+Project _Name:
+_Basedir:
+_Preview URL:
+_Template:
+_Word wrap by default
+Create _Project
+Edit Project
+Create project
+Create empty project
+Enter Bluefish project filename
+/Project/Edit Project Options...
+Select Bluefish project filename
+This project contains %d files
+Create project with currently opened documents
+%s %i
+view_html_toolbar:
+view_custom_menu:
+view_main_toolbar:
+view_left_panel:
+view_line_numbers:
+fb_show_hidden_f:
+fb_show_backup_f:
+fb_two_pane_view:
+fb_unknown_icon:
+fb_dir_icon:
+courier 11
+editor_font_string:
+editor_tab_width:
+editor_indent_wspaces:
+tab_font_string:
+browsers:
+external_commands:
+highlight_num_lines_count:
+defaulthighlight:
+numcharsforfiletype:
+filefilters:
+last_filefilter:
+transient_htdialogs:
+restore_dimensions:
+left_panel_width:
+max_recent_files:
+max_dir_history:
+backup_file:
+backup_filestring:
+backup_abort_action:
+backup_cleanuponclose:
+_thumbnail
+image_thumbnailstring:
+image_thumbnailtype:
+image_thumbnailsizing_type:
+image_thumbnailsizing_val1:
+image_thumbnailsizing_val2:
+image_thumnailformatstring:
+allow_multi_instances:
+modified_check_type:
+num_undo_levels:
+clear_undo_on_save:
+newfile_default_encoding:
+auto_set_encoding_meta:
+auto_update_meta:
+encoding_search_Nbytes:
+outputbox:
+ext_browsers_in_submenu:
+ext_commands_in_submenu:
+ext_outputbox_in_submenu:
+reference_files:
+bookmarks_sort:
+bookmarks_default_store:
+bookmarks_filename_mode:
+document_tabposition:
+leftpanel_tabposition:
+default_basedir:
+project_suffix:
+.bfproject
+spell_default_lang:
+gimp-remote -n "%s"&
+image_editor_command:
+allow_the_use_of_font:
+format_by_context:
+use_xhtml:
+allow_the_use_of_ruby:
+force_an_dtd:
+url_in_dtd:
+xml_starting_line:
+lowercase_tags:
+word_wrap:
+autoindent:
+drop_at_drop_position:
+link_management:
+open_in_running_bluefish:
+server_zope_compat:
+/.bluefish/rcfile_v2
+../data/encodings.default
+../data/filetypes.default
+galeon -x %s&
+Galeon
+Opera
+Mozilla
+Gnome default
+Netscape
+gnome-moz-remote --newwin %s&
+C programming
+All web files
+c:image
+java:image:jsp
+Java programming
+Hide objectfiles
+objectfile
+cat '%s' | dos2unix > '%f'
+Dos2Unix filter
+Tidy cleanup filter
+make
+weblint '%s'
+weblint HTML checker
+tidy -qe '%s'
+tidy HTML validator
+javac
+javac '%s'
+cfml
+patterns:
+/.bluefish/highlighting
+../data/highlighting.default
+cmenu_insert:
+cmenu_replace:
+/.bluefish/custom_menu
+../data/custom_menu.default
+/.bluefish
+quickbar_items:
+two_pane_filebrowser_height:
+main_window_height:
+main_window_width:
+fref_ldoubleclick_action:
+fref_info_type:
+lasttime_cust_menu:
+lasttime_highlighting:
+lasttime_filetypes:
+lasttime_encodings:
+recent_projects:
+searchlist:
+replacelist:
+classlist:
+colorlist:
+targetlist:
+urllist:
+fontlist:
+dtd_cblist:
+bmarks:
+recent_dirs:
+Untitled Project
+webdir:
+template:
+/.bluefish/session
+/usr/share/bluefish/icon_unknown.png
+/usr/share/bluefish/icon_dir.png
+image_thumbnail_refresh_quality:
+<a href="%r"><img src="%t" width="%x" height="%y" border="0"></a>
+/usr/share/bluefish/encodings.default
+/usr/share/bluefish/filetypes.default
+opera -remote 'openURL(%s,new-window)' || opera %s&
+mozilla -remote 'openURL(%s, new-window)' || mozilla %s&
+/usr/lib/netscape/477/communicator/communicator-smotif %s&
+html:php:webimage:xml:javascript:stylesheet:jsp
+cat '%s' | tidy -utf8 -q >'%f' 2>/dev/null
+([a-zA-Z0-9/_.-]+):([0-9]+):(.*)
+([a-zA-Z0-9/_.-]+)\(([0-9]+)\): (.*)
+line ([0-9]+) column [0-9]+ - (.*)
+Unable to find '/usr/share/bluefish/encodings.default'
+Unable to find '/usr/share/bluefish/filetypes.default'
+/usr/share/bluefish/highlighting.default
+Unable to find '/usr/share/bluefish/highlighting.default'
+/usr/share/bluefish/custom_menu.default
+Unable to find '/usr/share/bluefish/custom_menu.default'
+rcfile_save_configfile_menu_cb, unknown action %d
+basefont
+Regular expression error: %s at offset %d
+\0 refers to the first subsearch_pattern, \1 to the second etc.
+Beginning of document till end
+Beginning of selection till end of selection
+All opened files begin till end
+Patterns contain backslash escape sequences (\n, \t)
+<meta[ 	
+]http-equiv[ 	
+]*=[ 	
+]*"content-type"[ 	
+]+content[ 	
+]*=[ 	
+]*"text/html;[ 	
+]*charset=[a-z0-9-]+"[ 	
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=
+Search failed
+Regular expression error: 
+Confirm replace
+Replace selected text?
+_Skip
+Replace _all
+Search: no match found
+Search _for: 
+Replace wit_h: 
+Current position till end
+Starts at:
+Disabled
+POSIX type
+PERL type
+Regular expression:
+Match ca_se
+O_verlap searches
+Rep_lace once
+Prompt _before replace
+Normal
+Replace type:
+Uppercase
+Lowercase
+<head>
+treetip
+tree-tooltips
+motion-notify-event
+enter-notify-event
+leave-notify-event
+focus-out-event
+?	<TR>
+<TD></TD>
+</TR>
+<TABLE>
+<TR>
+	<TD></TD>
+Table Wizard
+Number of _rows:
+Number of colu_mns:
+Table rows on one _line:
+_Indent table code:
+</TITLE>
+</HEAD>
+<HTML>
+<HEAD>
+<TITLE>
+<FRAMESET COLS="
+<FRAMESET ROWS="
+" SRC="
+<FRAME NAME="
+Frame Wizard
+Use _DTD:
+Orientation:
+_Horizontal
+_Vertical
+Number of _Frames:
+Frame's
+Size:
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN"
+	"http://www.w3.org/TR/html4/frameset.dtd">
+<NOFRAMES>
+</NOFRAMES>
+</FRAMESET>
+</HTML>
+.shstrtab
+.interp
+.note.ABI-tag
+.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rel.dyn
+.rel.plt
+.init
+.text
+.fini
+.rodata
+.eh_frame
+.data
+.dynamic
+.ctors
+.dtors
+.jcr
+.got
+.bss

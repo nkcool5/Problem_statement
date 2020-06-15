@@ -1,0 +1,956 @@
+/lib64/ld-linux-x86-64.so.2
+Gp;4
+%4Btu
+hgUa
+libip4tc.so.0
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+iptc_delete_chain
+iptc_first_chain
+iptc_zero_entries
+iptc_delete_entry
+_fini
+iptc_next_chain
+dump_entries
+A Santa lives evil at NASA
+iptc_first_rule
+alula
+iptc_check_entry
+iptc_create_chain
+iptc_builtin
+iptc_set_policy
+iptc_strerror
+iptc_replace_entry
+iptc_insert_entry
+iptc_is_chain
+iptc_flush_entries
+iptc_free
+iptc_append_entry
+iptc_ops
+iptc_delete_num_entry
+iptc_zero_counter
+iptc_get_policy
+iptc_init
+iptc_get_target
+iptc_next_rule
+iptc_rename_chain
+iptc_commit
+iptc_get_references
+libip6tc.so.0
+ip6tc_free
+ip6tc_delete_num_entry
+ip6tc_replace_entry
+ip6tc_create_chain
+ip6tc_get_references
+ip6tc_flush_entries
+ip6tc_next_chain
+ip6tc_insert_entry
+ip6tc_commit
+ip6tc_init
+ip6tc_first_rule
+ip6tc_set_policy
+ip6tc_append_entry
+ip6tc_builtin
+ip6tc_next_rule
+ip6tc_zero_counter
+ip6tc_first_chain
+ip6tc_ops
+dump_entries6
+ip6tc_rename_chain
+ip6tc_strerror
+ip6tc_zero_entries
+ip6tc_get_policy
+ip6tc_get_target
+ip6tc_delete_entry
+ip6tc_is_chain
+ip6tc_delete_chain
+ip6tc_check_entry
+libxtables.so.11
+xtables_modprobe_program
+xtables_malloc
+xtables_ip6addr_to_numeric
+xtables_ipmask_to_numeric
+xtables_ip6addr_to_anyname
+xtables_load_ko
+xtables_init_all
+xtables_merge_options
+xtables_parse_interface
+xtables_parse_protocol
+xtables_chain_protos
+xtables_option_mfcall
+xtables_strtoui
+xtables_find_match
+xtables_ipparse_multiple
+xtables_free_opts
+xtables_ip6mask_to_numeric
+xtables_targets
+xtables_option_mpcall
+xtables_compatible_revision
+xtables_calloc
+xtables_print_num
+xtables_matches
+line
+xtables_rule_matches_free
+xtables_ip6mask_to_cidr
+xtables_find_target
+xtables_ipaddr_to_numeric
+xtables_options_xfrm
+xtables_option_tfcall
+xtables_set_params
+xtables_ipaddr_to_anyname
+xtables_ip6parse_multiple
+xt_params
+xtables_option_tpcall
+Degas are we not drawn onward no In union drawn onward to new eras aged
+libc.so.6
+__xpg_basename
+fflush
+strcpy
+__printf_chk
+exit
+_IO_putc
+optind
+__strdup
+__isoc99_sscanf
+in6addr_any
+getprotobynumber
+inet_ntop
+strncpy
+__stack_chk_fail
+putchar
+stdin
+flock
+strtok
+fgets
+strlen
+memset
+__errno_location
+memcmp
+__fprintf_chk
+ctime
+stdout
+fputc
+fputs
+memcpy
+fclose
+__strncpy_chk
+__ctype_b_loc
+optarg
+stderr
+getopt_long
+fwrite
+strchr
+__vfprintf_chk
+sleep
+__strcpy_chk
+__ctype_tolower_loc
+fopen64
+opterr
+__strcat_chk
+strcmp
+__libc_start_main
+_edata
+__bss_start
+_end
+GLIBC_2.3
+GLIBC_2.7
+GLIBC_2.14
+GLIBC_2.4
+GLIBC_2.2.5
+GLIBC_2.3.4
+tH<-u
+tlSH
+&tz@
+"tHH
+=|['
+ATUI
+=yZ'
+<$-tkL
+[]A\
+(;-C
+=]Y'
+AWAVAUATA
+[]A\A]A^A_
+(L9|$
+([]A\A]A^A_
+AWAVAUATUS
+D$ H
+D$8H
+t7<"u
+(D;5
+|$@-u
+|$Atu
+      </
+rule>
+=RL'
+       <H
+/actions
+L$(H
+T$0H
+T$8I
+D$0A
+dH34%(
+[]A\A]A^A_
+ATUSH
+D$H1
+L$HdH3
+P[]A\
+ATUH
+t@Hc-
+AWAVAUATUS
+t$PL
+=7R'
+<\t<<"t
+t$PL
+|$(H
+D$(A
+t$(H
+T$0H
+L$8H
+T$@H
+T$8H
+dH34%(
+[]A\A]A^A_
+t$(H
+t$(H
+t$(H
+T$@H
+L$(L
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+AWAVA
+AUATA
+ u E
+}XpA
+EXD9
+EXD9
+Eleele
+[]A\A]A^A_
+D$ !
+D$ !
+\$ H
+[]A\
+[]A\
+ATUH
+[]A\
+dH34%(
+AWAVA
+AUATUSH
+[]A\A]A^A_
+tKUSH
+tKUSH
+tKUSH
+AWAVA
+AUATUSH
+kPfE
+CS@E
+CXD9
+CXD9
+[]A\A]A^A_
+AWAVE
+AUATUS
+T$ D
+|$HH
+T$l1
+L$ H
+|$Hf
+|$p1
+|$p1
+|$p1
+~-Hc
+|$p1
+|$p1
+|$p1
+|$p1
+|$p1
+|$p1
+[]A\A]A^A_
+|$p1
+T$HI
+T$HH
+RRRR
+D$ H
+8nud
+t$0H
+D$(U
+|$(H
+L$dH
+L$hH
+|$xH
+ChfA
+t$8L
+l$dH
+t$hH
+t$xH
+L$XH
+t$8H
+t$8H
+L$@L
+d$0L
+t$(L
+|$ H
+D$(D
+t$PL
+|$@L
+|$ L
+L;t$
+l$dH
+t$hH
+t$xH
+L$XH
+t$8H
+t$8H
+L$@L
+d$0L
+t$(L
+|$ H
+D$(D
+t$PL
+|$@L
+|$ L
+L9t$
+D$(H9D$H
+D$(H;D$H
+Q(f.
+\$0%
+D$ D
+D$(H
+t$0L
+D$ H
+L$xH
+D$@H
+L$ H
+T$(H
+D$ D
+|$HL
+L;|$
+D$ H9D$0
+\$(M
+L$ H
+L$xH
+D$HH
+L$(H
+T$0H
+|$ H
+D$(D
+t$HL
+|$PL
+|$ L
+L;t$
+D$(H9D$8
+D$ H
+|$tL
+ATUSH
+D$H1
+L$HdH3
+P[]A\
+ATUH
+t@Hc-
+AWAVAUATUS
+t$PL
+<\t<<"t
+t$PL
+|$(H
+D$(A
+t$(H
+T$0H
+L$8H
+T$@H
+T$8H
+dH34%(
+[]A\A]A^A_
+t$(H
+t$(H
+t$(H
+T$@H
+L$(L
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+AVAUI
+ATUH
+D$81
+D$8dH3
+@[]A\A]A^
+God A red nugget A fat egg under a dog
+AWAVA
+AUATA
+ u E
+D$ !
+D$ !
+\$ H
+[]A\A]A^A_
+[]A\
+[]A\
+ATUH
+[]A\
+dH34%(
+AWAVA
+AUATUSH
+[]A\A]A^A_
+tKUSH
+tKUSH
+tKUSH
+AWAVA
+AUATUSH
+[]A\A]A^A_
+AWAVE
+AUATUS
+T$(D
+|$p1
+T$l1
+L$(H
+|$p1
+|$p1
+~-Hc
+|$p1
+|$p1
+|$p1
+|$p1
+|$p1
+[]A\A]A^A_
+RRRR
+|$HH
+T$HI
+T$HH
+D$ P
+|$ H
+L$dH
+L$hH
+|$xH
+t$8L
+l$dH
+t$hH
+l$xH
+L$XH
+t$@H
+t$@L
+l$(L
+d$0L
+|$ H
+D$PI
+l$8L
+D$(D
+L$@H
+D$0H
+l$HL
+|$8L
+|$ L
+L;l$
+l$dH
+t$hH
+l$xH
+L$XH
+t$@H
+t$@L
+l$(L
+d$0L
+|$ H
+D$PI
+l$8L
+D$(D
+T$@H
+D$0H
+l$HL
+|$8L
+Borrow or rob
+|$ L
+L9l$
+D$(H9D$P
+D$(H;D$P
+L$xH
+D$8H
+L$(H
+|$ I
+D$PL
+D$(D
+D$HH
+D$0H
+l$8L
+|$@L
+|$ L
+L;l$
+D$(H;D$P
+D$(H
+\$0%
+D$ D
+D$(H
+\$(M
+L$ H
+L$xH
+D$0H
+L$ H
+D$HL
+D$ D
+\$@H
+D$(H
+C tuL
+|$8L
+L;|$
+D$ H;D$H
+t$0L
+D$(H
+|$tL
+=bk 
+t3@:-
+AUATA
+[]A\A]
+AWAVA
+AUATI
+[]A\A]A^A_
+ATUI
+t$ I
+D$ H
+[]A\
+?tMH
+t$ I
+Q(Hc
+AVAU1
+ATUA
+]A\A]A^
+]A\A]A^
+AWAVA
+AUATL
+[]A\A]A^A_
+iptables
+main4
+iptables-save
+save4
+iptables-restore
+restore4
+iptables-xml
+ip6tables
+main6
+ip6tables-save
+save6
+ip6tables-restore
+restore6
+--goto
+--jump
+&#%d;
+&amp;
+&lt;
+&gt;
+&quot;
+<!-- 
+ -->
+%s="
+    </chain>
+    <chain 
+name
+policy
+packet-count
+%s="%lld" 
+byte-count
+  </table>
+match
+call
+%s<%s 
+%s%s
+</%s>
+          
+--module
+ invert="1"
+xptables-xml
+Can't open %s: %s
+<!-- line %d 
+COMMIT
+  <table 
+%s: line %u policy invalid
+[%llu:%llu]
+Bad line %u: need ]
+Bad line %u: need :
+--table
+ACCEPT
+DROP
+QUEUE
+RETURN
+Combine action from next rule
+      <rule 
+       <conditions>
+       </conditions>
+       <actions>
+</iptables-rules>
+%s: line %u failed
+verbose
+combine
+help
+1.6.0
+Usage: %s [-c] [-v] [-h]
+          [--combine ]
+	   [ --verbose ]
+	   [ --help ]
+Unknown arguments found on commandline
+<iptables-rules version="1.0">
+%s: line %u table name invalid
+%s: line %u chain name invalid
+%s: line %u failed - no chain found
+Line %u seems to have a -t table option.
+%s: COMMIT expected at line %u
+/proc/net/ip_tables_names
+Badly formed tablename `%s'
+Cannot initialize: %s
+:%s 
+[%llu:%llu]
+- [0:0]
+COMMIT
+# Completed on %s
+bcdt:M:
+dump
+modprobe
+# Generated by iptables-save v%s on %s
+%s/%s Failed to initialize xtables
+-b/--binary option is not implemented
+Unknown arguments found on commandline
+Parser cannot handle more arguments
+Usage: %s [-c] [-v] [-t] [-h]
+	   [ --counters ]
+	   [ --verbose ]
+	   [ --test ]
+	   [ --help ]
+	   [ --noflush ]
+	   [ --table=<TABLE> ]
+          [ --modprobe=<command>]
+%s: unable to initialize table '%s'
+Invalid chain name `%s' (%u chars max)
+invalid policy counters for chain '%s'
+Can't set policy `%s' on `%s' line %u: %s
+The -t option (seen in line %u) cannot be used in iptables-restore.
+bcvthnM:T:
+Can't open %s: %s
+error flushing chain '%s':%s
+error creating chain '%s':%s
+Parameter too long!
+--set-counters
+test
+noflush
+filter
+iptables: %s.
+iptables: %s. Run `dmesg' for more information.
+Error occurred at line: %d
+%s v%s: 
+%s %s %u.%u.%u.%u
+/%u.%u.%u.%u
+Invalid target name `%s'
+%-4u 
+%-9s 
+%-5s
+%hu 
+%-5hu
+in %s 
+ %-6s 
+out %s 
+-> %s
+opt 
+anywhere
+[goto] 
+UNKNOWN match `%s' 
+unexpected ! flag
+Cannot use -%c with -%c
+cannot have ! before -%c
+%s -%c 
+Invalid rule number `%s'
+Flushing chain `%s'
+Deleting chain `%s'
+Zeroing chain `%s'
+[%llu:%llu] 
+-A %s
+%s -p %s
+%s -p %u
+%s -f
+ -m %s
+ -c %llu %llu
+ -j %s
+ -%c %s
+0.0.0.0/0
+-%c requires a rule number
+Invalid chain name `%s'
+can't alloc memory!
+wait seconds not numeric
+Not %s ;-)
+%s v%s
+-%c byte counter not numeric
+Bad argument `%s'
+no command specified
+Stopped waiting after %ds.
+PREROUTING
+INPUT
+Can't use -%c with %s
+POSTROUTING
+OUTPUT
+goto '%s' is not a chain
+Chain %s
+ (policy %s
+packets, 
+bytes
+ (ERROR obtaining refs)
+ (%u references)
+%-4s 
+pkts
+%5s 
+%8s 
+%10s 
+target
+ prot 
+source
+ %-19s 
+destination
+-P %s %s
+-N %s
+append
+delete
+check
+insert
+replace
+list
+list-rules
+zero
+new-chain
+delete-chain
+rename-chain
+protocol
+in-interface
+out-interface
+wait
+exact
+fragments
+version
+line-numbers
+ipv4
+ipv6
+Try `%s -h' or '%s --help' for more information.
+Perhaps iptables or your kernel needs to be upgraded.
+Invalid target name (too short)
+Invalid target name `%s' (%u chars max)
+[%u bytes of unknown target data] 
+multiple -%c flags not allowed
+Can't find library for match `%s'
+Beeb
+Can't find library for target `%s'
+Target `%s' is missing save function
+chain name `%s' too long (must be under %u chars)
+chain name not allowed to start with `%c'
+chain name may not clash with target name
+-%c requires old-chain-name and new-chain-name
+-%c requires a chain and a policy
+%s v%s
+Usage: %s -[ACD] chain rule-specification [options]
+       %s -I chain [rulenum] rule-specification [options]
+       %s -R chain rulenum rule-specification [options]
+       %s -D chain rulenum [options]
+       %s -[LS] [chain [rulenum]] [options]
+       %s -[FZ] [chain] [options]
+       %s -[NX] chain
+       %s -E old-chain-name new-chain-name
+       %s -P chain target [options]
+       %s -h (print this help information)
+Commands:
+Either long or short options are allowed.
+  --append  -A chain		Append to chain
+  --check   -C chain		Check for the existence of a rule
+  --delete  -D chain		Delete matching rule from chain
+  --delete  -D chain rulenum
+				Delete rule rulenum (1 = first) from chain
+  --insert  -I chain [rulenum]
+				Insert in chain as rulenum (default 1=first)
+  --replace -R chain rulenum
+				Replace rule rulenum (1 = first) in chain
+  --list    -L [chain [rulenum]]
+				List the rules in a chain or all chains
+  --list-rules -S [chain [rulenum]]
+				Print the rules in a chain or all chains
+Tacocat
+  --flush   -F [chain]		Delete all rules in  chain or all chains
+  --zero    -Z [chain [rulenum]]
+				Zero counters in chain or all chains
+  --new     -N chain		Create a new user-defined chain
+  --delete-chain
+            -X [chain]		Delete a user-defined chain
+  --policy  -P chain target
+				Change policy on chain to target
+  --rename-chain
+            -E old-chain new-chain
+				Change chain name, (moving any references)
+Options:
+    --ipv4	-4		Nothing (line is ignored by ip6tables-restore)
+    --ipv6	-6		Error (line is ignored by iptables-restore)
+[!] --protocol	-p proto	protocol: by number or name, eg. `tcp'
+[!] --source	-s address[/mask][...]
+				source specification
+[!] --destination -d address[/mask][...]
+				destination specification
+[!] --in-interface -i input name[+]
+				network interface name ([+] for wildcard)
+ --jump	-j target
+				target for rule (may load target extension)
+  --goto      -g chain
+                              jump to chain with no return
+  --match	-m match
+				extended match (may load extension)
+  --numeric	-n		numeric output of addresses and ports
+[!] --out-interface -o output name[+]
+				network interface name ([+] for wildcard)
+  --table	-t table	table to manipulate (default: `filter')
+  --verbose	-v		verbose mode
+  --wait	-w [seconds]	wait for the xtables lock
+  --line-numbers		print line numbers when listing
+  --exact	-x		expand numbers (display exact values)
+Do nine men interpret Nine men I nod
+[!] --fragment	-f		match second or further fragments only
+  --modprobe=<command>		try to insert modules using this command
+  --set-counters PKTS BYTES	set the counter during insert/append
+[!] --version	-V		print package version.
+rule would never match protocol
+Notice: The %s target is converted into %s target in rule listing and saving.
+Empty interface is likely to be undesired
+You cannot use `-w' from iptables-restore
+unexpected ! flag before --match
+Notice: the %s match is converted into %s match in rule listing and saving.
+unexpected ! flag before --table
+-%c requires packet and byte counter
+-%c packet counter not numeric
+This is the IPv4 version of iptables.
+multiple consecutive ! not allowed
+-:A:C:D:R:I:L::S::M:F::Z::N:X::E:P:Vh::o:p:s:d:j:i:fbvw::nt:m:xc:g:46
+The "nat" table is not intended for filtering, the use of DROP is therefore inhibited.
+unknown arguments found on commandline
+nothing appropriate following !
+! not allowed with multiple source or destination IP addresses
+Replacement rule does not specify a unique address
+You need to supply the `-%c' option for this command
+Illegal option `-%c' with this command
+Another app is currently holding the xtables lock. 
+Perhaps you want to use the -w option?
+can't initialize iptables table `%s': %s
+Warning: using chain %s, not extension
+x     x  x  x     x  xx xxxxx xxxxxxx     x  x  x     x  x   xxxx  xx xxxxxxx xxxxxxxxxxx xxxxxxxxxxx xxxxxxxxxxx xxxxxxxxxxx xxxx xxxxxx xxxxxxxxxxx xxxxxxxxxxx xxxxxxx     x  xx 
+nsdpjvxio0cf
+IDDRALFZNXPESZC/proc/net/ip6_tables_names
+# Generated by ip6tables-save v%s on %s
+Usage: %s [-c] [-v] [-t] [-h]
+	   [ --counters ]
+	   [ --verbose ]
+	   [ --test ]
+	   [ --help ]
+	   [ --noflush ]
+          [ --modprobe=<command>]
+The -t option (seen in line %u) cannot be used in ip6tables-restore.
+ip6tables: %s.
+ip6tables: %s. Run `dmesg' for more information.
+%s %s %s
+unexpected '!' flag
+%s -? %d
+::0/0
+Perhaps ip6tables or your kernel needs to be upgraded.
+Commands:
+Either long or short options are allowed.
+  --append  -A chain		Append to chain
+  --check   -C chain		Check for the existence of a rule
+  --delete  -D chain		Delete matching rule from chain
+  --delete  -D chain rulenum
+				Delete rule rulenum (1 = first) from chain
+  --insert  -I chain [rulenum]
+				Insert in chain as rulenum (default 1=first)
+  --replace -R chain rulenum
+				Replace rule rulenum (1 = first) in chain
+  --list    -L [chain [rulenum]]
+				List the rules in a chain or all chains
+  --list-rules -S [chain [rulenum]]
+				Print the rules in a chain or all chains
+  --flush   -F [chain]		Delete all rules in  chain or all chains
+  --zero    -Z [chain [rulenum]]
+				Zero counters in chain or all chains
+  --new     -N chain		Create a new user-defined chain
+  --delete-chain
+            -X [chain]		Delete a user-defined chain
+  --policy  -P chain target
+				Change policy on chain to target
+  --rename-chain
+            -E old-chain new-chain
+				Change chain name, (moving any references)
+Options:
+    --ipv4	-4		Error (line is ignored by ip6tables-restore)
+    --ipv6	-6		Nothing (line is ignored by iptables-restore)
+[!] --protocol	-p proto	protocol: by number or name, eg. `tcp'
+[!] --source	-s address[/mask][,...]
+				source specification
+[!] --destination -d address[/mask][,...]
+				destination specification
+[!] --in-interface -i input name[+]
+				network interface name ([+] for wildcard)
+  --jump	-j target
+				target for rule (may load target extension)
+  --goto	-g chain
+				jump to chain with no return
+  --match	-m match
+				extended match (may load extension)
+  --numeric	-n		numeric output of addresses and ports
+[!] --out-interface -o output name[+]
+				network interface name ([+] for wildcard)
+  --table	-t table	table to manipulate (default: `filter')
+  --verbose	-v		verbose mode
+  --wait	-w [seconds]	wait for the xtables lock
+  --line-numbers		print line numbers when listing
+  --exact	-x		expand numbers (display exact values)
+  --modprobe=<command>		try to insert modules using this command
+  --set-counters PKTS BYTES	set the counter during insert/append
+[!] --version	-V		print package version.
+Warning: never matched protocol: %s. use extension match instead.
+You cannot use `-w' from ip6tables-restore
+Notice: The %s match is converted into %s match in rule listing and saving.
+This is the IPv6 version of ip6tables.
+-:A:C:D:R:I:L::S::M:F::Z::N:X::E:P:Vh::o:p:s:d:j:i:bvw::nt:m:xc:g:46
+can't initialize ip6tables table `%s': %s
+x     x  x x     x  xxxxxxx xxxxxx     x  x x     x  x  xxxx  xx xxxxxx xxxxxxxxxx xxxxxxxxxx xxxxxxxxxx xxxxxxxxxx xxxx xxxxx xxxxxxxxxx xxxxxxxxxx xxxxxx     x  xx
+nsdpjvxio0c
+IDDRALFZNXPESZC%s does not take any options
+ * %s
+malloc
+unknown option "%s"
+Unknown arg "%s"
+/run/xtables.lock
+ERROR: No valid subcommand given.
+Valid subcommands:
+option "%s" requires an argument
+Another app is currently holding the xtables lock; waiting (%ds) for it to exit...
+;*3$"
+85c2f2521ab1dbf78a6db552fe53ae47703b34.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

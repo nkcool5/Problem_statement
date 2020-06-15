@@ -1,0 +1,980 @@
+/lib64/ld-linux-x86-64.so.2
+libsmartcols.so.1
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+scols_line_get_parent
+scols_line_set_userdata
+scols_init_debug
+scols_line_refer_data
+scols_print_table_to_string
+scols_line_set_data
+scols_line_next_child
+scols_table_is_empty
+scols_line_get_userdata
+scols_table_enable_noheadings
+scols_table_next_line
+scols_new_table
+scols_table_new_line
+scols_new_iter
+scols_free_iter
+scols_table_get_nlines
+scols_unref_table
+scols_table_new_column
+scols_line_has_children
+scols_table_enable_maxout
+scols_table_reduce_termwidth
+libfdisk.so.1
+fdisk_has_label
+fdisk_label_get_type
+fdisk_get_disklabel_id
+fdisk_get_nlabels
+fdisk_new_context
+fdisk_label_get_field
+fdisk_label_get_nparttypes
+fdisk_partition_is_freespace
+fdisk_get_sector_size
+fdisk_create_disklabel
+fdisk_partition_set_start
+fdisk_ask_menu_set_result
+fdisk_table_wrong_order
+fdisk_field_is_number
+fdisk_delete_partition
+fdisk_unref_partition
+fdisk_partition_partno_follow_default
+Tacocat
+fdisk_is_readonly
+fdisk_ask_get_type
+fdisk_reread_partition_table
+fdisk_partition_get_start
+fdisk_label_get_name
+fdisk_partition_has_size
+fdisk_partition_end_follow_default
+fdisk_get_label
+fdisk_parttype_get_string
+fdisk_add_partition
+fdisk_set_partition_type
+fdisk_partition_set_size
+fdisk_reorder_partitions
+fdisk_field_get_width
+fdisk_reset_iter
+fdisk_deassign_device
+fdisk_partition_is_container
+fdisk_unref_table
+fdisk_ask_menu_get_item
+fdisk_partition_to_string
+fdisk_get_freespaces
+fdisk_init_debug
+fdisk_ref_partition
+fdisk_label_has_code_parttypes
+fdisk_get_devfd
+fdisk_script_write_file
+fdisk_table_add_partition
+fdisk_new_script
+fdisk_label_get_fields_ids
+fdisk_ask_menu_get_nitems
+fdisk_field_get_id
+fdisk_partition_get_size
+fdisk_parttype_get_name
+fdisk_table_get_partition
+fdisk_get_partitions
+fdisk_unref_context
+fdisk_free_iter
+fdisk_toggle_partition_flag
+fdisk_assign_device
+Eleele
+fdisk_new_partition
+fdisk_label_get_parttype
+fdisk_get_nsectors
+fdisk_partition_get_partno
+fdisk_new_script_from_file
+fdisk_write_disklabel
+fdisk_set_ask
+fdisk_next_label
+fdisk_partition_get_type
+fdisk_is_labeltype
+fdisk_table_remove_partition
+fdisk_label_is_disabled
+fdisk_unref_script
+fdisk_table_get_nents
+fdisk_ask_print_get_mesg
+fdisk_parttype_get_code
+fdisk_script_read_context
+fdisk_table_next_partition
+fdisk_apply_script
+fdisk_new_iter
+fdisk_partition_is_nested
+fdisk_partition_has_start
+fdisk_get_devname
+fdisk_partition_size_explicit
+fdisk_field_get_name
+libblkid.so.1
+blkid_probe_lookup_value
+blkid_new_probe
+blkid_do_fullprobe
+blkid_free_probe
+blkid_probe_set_device
+libmount.so.1
+mnt_table_set_cache
+mnt_unref_cache
+mnt_table_parse_mtab
+mnt_new_table
+mnt_new_cache
+mnt_table_parse_fstab
+mnt_table_find_tag
+mnt_unref_table
+mnt_fs_get_target
+libncursesw.so.5
+delwin
+use_default_colors
+nonl
+waddch
+clearok
+noecho
+wattr_on
+mvprintw
+wgetch
+subwin
+wtouchln
+wborder
+waddnstr
+has_colors
+endwin
+wattr_off
+wrefresh
+wget_wch
+werase
+mvcur
+wclear
+resizeterm
+wclrtoeol
+wmove
+init_pair
+initscr
+start_color
+beep
+libtinfo.so.5
+acs_map
+keypad
+cbreak
+LINES
+curs_set
+setupterm
+COLS
+tigetnum
+stdscr
+libc.so.6
+__rawmemchr
+__printf_chk
+readdir
+setlocale
+mbrtowc
+fopen
+strncmp
+optind
+strrchr
+__strdup
+dcgettext
+closedir
+strncpy
+mbstowcs
+warnx
+__stack_chk_fail
+putchar
+iswprint
+realloc
+abort
+_exit
+getpid
+strspn
+__assert_fail
+strtod
+__ctype_get_mb_cur_max
+strtol
+isatty
+feof
+fgetc
+fgets
+calloc
+strlen
+sigemptyset
+localeconv
+warn
+strcspn
+__errno_location
+mempcpy
+__fprintf_chk
+stdout
+fputc
+fputs
+memcpy
+fclose
+__strtol_internal
+strtoul
+malloc
+strcasecmp
+__strndup
+opendir
+__ctype_b_loc
+getenv
+sscanf
+optarg
+stderr
+wcwidth
+ioctl
+__snprintf_chk
+getopt_long
+fileno
+fwrite
+sigaction
+__fpending
+strchr
+__vfprintf_chk
+program_invocation_short_name
+qsort
+wcstombs
+__ctype_tolower_loc
+__vasprintf_chk
+__sprintf_chk
+errx
+bindtextdomain
+access
+strcmp
+__asprintf_chk
+__libc_start_main
+ferror
+snprintf
+__strtoul_internal
+wctomb
+free
+__progname
+__cxa_atexit
+_init
+_fini
+_edata
+__bss_start
+_end
+BLKID_2.17
+BLKID_2.15
+NCURSESW_5.3.20021019
+NCURSESW_5.1.20000708
+MOUNT_2.19
+MOUNT_2.24
+NCURSES_TINFO_5.0.19991023
+GLIBC_2.3
+GLIBC_2.14
+GLIBC_2.8
+GLIBC_2.4
+GLIBC_2.3.4
+GLIBC_2.2.5
+SMARTCOLS_2.25
+FDISK_2.26
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AUAT
+[]A\A]
+D$ 1
+|$ H
+D$ H
+D$ H
+L$ H
+|$pH
+D$PH
+D$`H
+t$XH
+D$`H
+t$XH
+D$XH
+D$XH
+AVAUA
+ATUHc
+[]A\A]A^
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$8H
+T$@H
+L$HL
+D$PL
+L$Xt:
+)D$`
+)L$p
+D$(1
+D$0H
+D$(dH3
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+ATUH
+[]A\
+AWAVAUATSH
+[A\A]A^A_]
+"H9M
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+AUATUSH
+H9EH
+[]A\A]
+[]A\A]
+ATUH
+L9e@H
+[]A\
+H+O H
+G I9
+AUAT1
+[]A\A]
+[]A\A]
+AVAUATUSH
+]A\A]A^
+[]A\A]A^
+AUATUSH
+[]A\A]
+[]A\A]
+AWAVAUATI
+J(L)
+[A\A]A^A_]
+H;X0
+H;X0
+H;X0tG
+AWAV1
+AUATI
+d$01
+C8E1
+T$(L
+D$(H
+N(E1
+H9D$
+[]A\A]A^A_
+H9k(s
+T$(L
+AVAUATUSH
+[]A\A]A^
+ATUSH
+H9X0teH
+t?[H
+H Hc
+H9X0u
+[]A\
+[]A\H
+ATUS
+t$ H
+t$0H
+[]A\
+t$0H
+D$(H
+t$0H
+t$(H
+t$0H
+ATUI
+[]A\
+[]A\
+ATUSt~H
+[]A\
+[]A\
+[]A\
+ATUH
+StDI
+Borrow or rob
+[]A\
+[]A\
+alula
+ATUI
+[]A\
+ATUSH
+8 t;
+[]A\
+AWAVAUATUSH
+([]A\A]A^A_
+AWAVAUATUSH
+D$H1
+L$HdH3
+X[]A\A]A^A_
+T$(L
+L;c 
+|$0H
+tIL9c@vCH
+T$(L
+L;c sCH
+L$@H
+|$(H
+T$@H
+|$8L
+L;c r
+|$8H
+l$8H
+t$0L
+t$(L
+T$(L
+T$8H
+God A red nugget A fat egg under a dog
+t$8L
+AWAVAUATUSH
+oHdH
+D$81
+t$ M
+t$ M
+L$(H
+T$ H
+t$ M
+|$ H
+|$ H
+|$ H
+D$ H
+L$8dH3
+H[]A\A]A^A_
+T$01
+T$01
+l$01
+T$01
+l$01
+|$0H
+|$0M
+Cht$H
+AUATA
+sHH9
+[]A\A]
+AWAVAUATUSH
+[]A\A]A^A_
+t$0H
+|$P1
+|$PH
+D$HE1
+H;D$ 
+H;D$
+D$HH
+H9L$
+t$0L
+L$ L
+t$(H
+l$8L
+H9l$
+D$HI
+ L9d$
+\$0H
+t$ L
+l$8H
+D$ E1
+T$DH
+t$HL
+T$DH
+D$HH
+t$ H
+D$HH9D$
+ATUSH
+[]A\
+AWAVAUATUSH
+D$81
+D$0E1
+D$,H
+toL9
++wg@
+L$8dH3
+H[]A\A]A^A_
+@t+I
+AWAVAUATUSH
+D$81
+D$0E
+D$,H
+|$,D
+t$8dH34%(
+H[]A\A]A^A_
+@t<A
+tCUSH
+AVAUI
+ATUE1
+]A\A]A^
+AWAVE
+AUATI
+T$0L
+[]A\A]A^A_
+\$8L
+|$0H
+l$8E1
+l$8I
+D$(H
+l$8Mc
+tqAUATE1
+$<\tL
+[]A\A]
+AWAVH
+AUATUSH
+t$(1
+D$ H
+t$ H
+T$ H
+|$(dH3<%(
+8[]A\A]A^A_
+|$ A
+d$ A
+<$0u
+L$ H
+T$ I
+VUUU
+tsUSH
+AUATI
+T$0H
+L$8L
+D$@L
+L$HH
+X[]A\A]
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+$u9H
+AUAT%
+[]A\A]
+[]A\A]
+AUATUSH
+D$81
+gfffH
+SATA
+\$8dH3
+H[]A\A]
+AWAVE1
+AUATI
+taI9
+tPL9
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
++t+H
+AVAUI
+ATUI
+Beeb
+tbf.
+<,t]
+u5H9
+[]A\A]A^
+]A\A]A^
+AUATI
+<,tM
+u$H9
+x&I	E
+[]A\A]
+[]A\A]
+AVAUATUSH
+-t'1
+dH34%(
+[]A\A]A^
+AUATUSH
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUS1
+([]A\A]A^A_
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+=Ph 
+AWAVH
+AUAT
+|$@H
+t$(L
+5$e 
+[]A\A]A^A_
+H9l$
+5Yd 
+T$8L
+\$0L
+D$ H
+= d 
+T$8L
+\$0L
+T$8H
+T$8L
+AWAVAUATUSH
+l$ L
+dH34%(
+[]A\A]A^A_
+5E] 
+%MZ 
+AWAVAUATI
+[]A\A]A^A_
+58X 
+=RX 
+%$X 
+[]A\
+=!V 
+t^USH
+AWAVA
+AUATI
+USE1
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVA
+AUATL
+[]A\A]A^A_
+cannot allocate string
+%s: %m
+MISC
+cfdisk
+%d: %s: %8s: 
+resize on signal.
+disk-utils/cfdisk.c
+>>  
+cf->table
+    
+draw table
+delete window: %p
+die on signal.
+MENU
+pop menu
+clean_menu: line %zu
+%s%s%s
+cf->menu
+draw start
+cf->menu->ignore_cb
+update menu ignored keys
+cannot duplicate string
+update menu preferred keys
+ %s 
+draw end.
+Disk: %s
+Label: %s, identifier: %s
+Label: %s
+menu move key >%c<.
+Enter script file name: 
+Cannot open %s
+Failed to apply script %s
+l->extra
+Failed to write script %s
+writing dump into: '%s'
+%s: 
+cannot allocate %zu bytes
+new menu
+write error
+TABLE
+refreshing buffer
+convert to string
+cf->cxt
+cf->fields
+nested detected, using tree
+UUID
+LABEL
+draw extra
+ln->extra
+preparing extra data
+Partition name:
+Partition UUID:
+%s (%s)
+Partition type:
+Attributes:
+BSIZE:
+CPG:
+FSIZE:
+blkid prober: %p
+TYPE
+Filesystem:
+Filesystem label:
+Filesystem UUID:
+uuid || label
+%s (mounted)
+Mountpoint:
+draw window: %p
+goto table %d
+main menu action: key=%c
+  ignore '%c'
+menu action on %p
+Could not toggle the flag.
+Press a key to continue.
+Partition size: 
+get_size (default=%ju)
+Please, specify size.
+Minimum size is %ju bytes.
+Failed to parse size.
+asking for parttype.
+%2x %s
+Select partition type
+get parrtype done [type=%s] 
+Failed to write disklabel.
+Maximum size is %ju bytes.
+get_size (result=%ju, rc=%zd)
+/dev/hda
+/dev/sda
+ENABLED
+DISABLED
+/usr/share/locale
+util-linux
+Usage:
+ %1$s [options] <disk>
+Options:
+colors are enabled by default
+For more details see %s.
+cfdisk(8)
+unsupported color mode
+%s from %s
+util-linux 2.27.1
+L::hVz
+CFDISK_DEBUG
+cannot open %s
+init
+start cols=%zu, lines=%zu
+asking for new disklabe.
+Select label type
+create label done [rc=%d] 
+failed to read partitions
+main action key >%c<.
+extra: %s
+bye! [rc=%d]
+Command      Meaning
+-------      -------
+color
+help
+version
+zero
+Bootable
+Delete
+Delete the current partition
+Quit
+Type
+Change the partition type
+Help
+Print help screen
+Sort
+Fix partitions order
+Write
+Dump
+ui: resize refresh ui_cols=%zu, ui_lines=%zu
+draw partition %zu [page_sz=%zu, line=%d, idx=%zu]
+menuitem: cl=%d, ln=%d, item='%s'
+Size: %s, %ju bytes, %ju sectors
+The script file will be applied to in-memory partition table.
+Failed to parse script file %s
+The current in-memory partition table will be dumped to the file.
+Failed to allocate script handler
+Failed to read disk layout into script.
+Disk layout successfully dumped.
+internal error: unsupported dialog type %d
+asking for mountpoint [uuid=%s, label=%s]
+Could not delete partition %zu.
+Partition %zu has been deleted.
+May be followed by M for MiB, G for GiB, T for TiB, or S for sectors.
+get_size user=%ju, power=%d, sectors=%s
+Changed type of partition %zu.
+The type of partition %zu is unchanged.
+Device is open in read-only mode.
+Type "yes" or "no", or press ESC to leave this dialog.
+Are you sure you want to write the partition table to disk? 
+Did not write partition table to disk.
+The partition table has been altered.
+Note that partition table entries are not in disk order now.
+Display or manipulate a disk partition table.
+ -L, --color[=<when>]     colorize output (auto, always or never)
+                            %s
+ -z, --zero               start with zeroed partition table
+ -h, --help     display this help and exit
+ -V, --version  output version information and exit
+failed to allocate libfdisk context
+Device does not contain a recognized partition table.
+Select a type to create a new label or press 'L' to load script file.
+failed to create a new disklabel
+This is cfdisk, a curses-based disk partitioning program.
+It lets you create, delete, and modify partitions on a block device.
+  b          Toggle bootable flag of the current partition
+  d          Delete the current partition
+  h          Print this screen
+  n          Create new partition from free space
+  q          Quit program without writing partition table
+  s          Fix partitions order (only when in disarray)
+  t          Change the partition type
+  u          Dump disk layout to sfdisk compatible script file
+  W          Write partition table to disk (you must enter uppercase W);
+               since this might destroy data on the disk, you must either
+               confirm or deny the write by entering 'yes' or 'no'
+  x          Display/hide extra information about a partition
+Up Arrow     Move cursor to the previous partition
+Down Arrow   Move cursor to the next partition
+Left Arrow   Move cursor to the previous menu item
+Right Arrow  Move cursor to the next menu item
+Note: All of the commands can be entered with either upper or lower
+case letters (except for Write).
+Use lsblk(8) or partx(8) to see more details about the device.
+Toggle bootable flag of the current partition
+Create new partition from free space
+Quit program without writing partition table
+Write partition table to disk (this might destroy data)
+Dump partition table to sfdisk compatible script file
+main_menu_action
+extra_insert_pair
+get_mountpoint
+ui_draw_extra
+is_freespace
+ui_refresh
+table_to_string
+lines_refresh
+ui_get_string
+get_current_partition
+menu_pop
+ui_menu_move
+menu_update_ignore
+ui_draw_menu
+Degas are we not drawn onward no In union drawn onward to new eras aged
+menu_push
+ask_menu
+ask_callback
+\x%02x
+KMGTPEYZ
+kmgtpeyz
+%s: '%s'
+BKMGTPE
+%d%s%jd%s
+%d%s
+.ACONF
+termcolors
+terminal is NOT ready
+SCHEME
+free scheme
+disable
+enable
+A Santa lives evil at NASA
+reading dir: '%s'
+unknown type '%s'
+setting '%s' from %d -to-> %d
+%s/%s
+TERM
+XDG_CONFIG_HOME
+%s/terminal-colors.d
+%s/.config/terminal-colors.d
+/etc/terminal-colors.d
+reading file '%s'
+%128[^ ] %128[^
+add '%s'
+[%sm
+unknown logical name: %s
+sort scheme
+search '%s'
+undefined
+auto
+never
+always
+TERMINAL_COLORS_DEBUG
+Colors:
+	utilname = '%s'
+	termname = '%s'
+	scheme file = '%s'
+	mode = %s
+	has_colors = %d
+	disabled = %d
+	configured = %d
+	cs configured = %d
+	score %s = %d
+	scheme #%02zu 
+terminal is ready (supports %d colors)
+item '%s': score=%d [cur: %d, name(%zu): %s, term(%zu): %s]
+black
+[30m
+[34m
+brown
+[33m
+[36m
+darkgray
+[1;30m
+[37m
+[32m
+lightblue
+[1;34m
+lightcyan
+[1;36m
+lightgray,
+lightgreen
+[1;32m
+lightmagenta
+[1;35m
+lightred
+[1;31m
+[35m
+[31m
+yellow
+Do nine men interpret Nine men I nod
+[1;33m
+;*3$"
+7eeefe207e8ba5c04524172c1218e32677bbec.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.data.rel.ro
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

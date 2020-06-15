@@ -1,0 +1,1049 @@
+/lib64/ld-linux-x86-64.so.2
+"@LF0/ F
+~H)4>Tx
+GL`3f
+X@g1
+Zj	C
+ST1'
+oMR%
+&y/#@
+ g.N=
+'EQ9
+libsystemd.so.0
+__gmon_start__
+_ITM_deregisterTMCloneTable
+_ITM_registerTMCloneTable
+_Jv_RegisterClasses
+sd_listen_fds
+sd_notify
+libpulsecore-8.0.so
+pa_xmalloc
+pa_fopen_cloexec
+pa_log_parse_target
+pa_strbuf_puts
+pa_xmemdup
+pa_unblock_sigs
+pa_log_set_show_backtrace
+pa_reset_sigs
+pa_runtime_path
+pa_idxset_size
+pa_strbuf_new
+pa_parse_sample_format
+pa_log_level_meta
+pa_xstrdup
+pa_strbuf_printf
+pa_xfree
+pa_path_get_filename
+pa_log_set_flags
+pa_reset_priority
+pa_atoi
+pa_atou
+pa_reset_personality
+pa_close
+pa_run_from_build_tree
+pa_channels_valid
+pa_sample_format_to_string
+pa_parse_boolean
+pa_channel_map_snprint
+pa_sample_rate_valid
+pa_snprintf
+pa_channel_map_parse
+pa_log_target_free
+pa_rtclock_now
+pa_channel_map_init_extend
+pa_cstrerror
+pa_startswith
+pa_strbuf_to_string_free
+pa_unset_env_recorded
+pa_close_pipe
+pa_log_set_level
+pa_log_set_target
+pa_read
+pa_parse_resample_method
+pa_module_unload_all
+pa_dbus_connection_get
+pa_cli_command_execute_file_stream
+pa_module_load
+pa_scache_free_all
+pa_dbus_connection_unref
+pa_object_unref
+pa_full_status_string
+pa_core_exit
+pa_inotify_stop
+pa_core_new
+pa_stdio_acquire
+pa_get_dbus_address_from_server_type
+pa_modinfo_free
+pa_object_type_id
+pa_dbus_bus_get
+pa_cli_command_execute
+pa_modinfo_get_by_name
+pa_cpu_init
+pa_resample_method_supported
+pa_resample_method_to_string
+pa_inotify_start
+libpulsecommon-8.0.so
+pa_autospawn_lock_release
+pa_config_parse
+pa_rtclock_hrtimer
+pa_pid_file_remove
+pa_client_conf_load
+pa_config_parse_bool
+pa_memtrap_install
+pa_strlist_free
+pa_autospawn_lock_acquire
+pa_get_state_dir
+pa_realpath
+pa_pid_file_create
+pa_strlist_pop
+pa_random_seed
+pa_set_env_and_record
+pa_config_parse_string
+pa_raise_priority
+pa_client_conf_new
+pa_rtclock_hrtimer_enable
+pa_make_path_absolute
+pa_strbuf_free
+pa_strlist_parse
+pa_set_env
+pa_uname_string
+pa_autospawn_lock_init
+Degas are we not drawn onward no In union drawn onward to new eras aged
+pa_loop_read
+pa_loop_write
+pa_machine_id
+pa_shm_cleanup
+pa_pipe_cloexec
+pa_log_target_to_string
+pa_init_i18n
+pa_get_runtime_dir
+pa_ncpus
+pa_log_set_ident
+pa_make_secure_dir
+pa_pid_file_kill
+pa_in_system_mode
+pa_open_config_file
+pa_config_parse_unsigned
+pa_write
+pa_sig2str
+pa_make_fd_nonblock
+pa_pid_file_check_running
+pa_readlink
+pa_config_parse_int
+pa_running_in_vm
+Tacocat
+pa_client_conf_free
+pa_close_allv
+pa_pid_file_name
+pa_config_parse_size
+pa_session_id
+pa_config_parse_not_bool
+pa_disable_sigpipe
+pa_autospawn_lock_done
+pa_find_config_file
+pa_nullify_stdfds
+libpulse.so.0
+pa_mainloop_new
+pa_signal_init
+pa_mainloop_free
+pa_signal_new
+pa_mainloop_get_api
+pa_mainloop_run
+pa_signal_done
+libltdl.so.7
+lt_dlexit
+lt_dlsetsearchpath
+lt_dlforeachfile
+lt_dlpreload_default
+lt_dlloader_add
+lt_dlseterror
+lt_dlinit
+lt_dlloader_find
+libdbus-1.so.3
+dbus_message_unref
+dbus_connection_register_object_path
+dbus_connection_send
+dbus_error_is_set
+dbus_message_has_member
+dbus_message_new_method_return
+dbus_connection_unregister_object_path
+dbus_shutdown
+dbus_bus_request_name
+dbus_message_iter_init_append
+dbus_message_append_args
+dbus_message_get_args
+dbus_message_new_error_printf
+dbus_message_new_error
+dbus_message_iter_append_basic
+dbus_message_iter_close_container
+dbus_message_is_method_call
+dbus_error_init
+dbus_message_iter_open_container
+dbus_message_get_type
+dbus_error_free
+dbus_message_get_interface
+dbus_threads_init_default
+libcap.so.2
+cap_free
+cap_set_proc
+cap_clear
+cap_init
+libpthread.so.0
+__errno_location
+sigaction
+librt.so.1
+libdl.so.2
+dlclose
+dlsym
+dlopen
+dlerror
+libm.so.6
+libc.so.6
+sched_get_priority_min
+__printf_chk
+execv
+setlocale
+optind
+strrchr
+dcgettext
+initgroups
+signal
+fork
+__stack_chk_fail
+putchar
+abort
+__assert_fail
+strtol
+getpwnam
+strlen
+sigemptyset
+chdir
+getgrnam
+stdout
+getrusage
+fputs
+setresgid
+fclose
+umask
+getgid
+getenv
+setresuid
+optarg
+getuid
+getegid
+setrlimit
+getopt_long
+geteuid
+sched_get_priority_max
+mlockall
+setsid
+getrlimit
+strcmp
+__libc_start_main
+sysconf
+deny_severity
+allow_severity
+_edata
+__bss_start
+_end
+/usr/lib/x86_64-linux-gnu/pulseaudio
+pa_cmdline_help
+__libc_csu_fini
+pa_drop_caps
+pa_daemon_conf_set_local_server_type
+pa_cmdline_parse
+pa_daemon_conf_load
+pa_daemon_conf_open_default_script_file
+pa_ltdl_init
+pa_daemon_conf_set_log_target
+pa_daemon_conf_env
+pa_cpu_limit_done
+_IO_stdin_used
+__data_start
+pa_dbusobj_server_lookup_free
+pa_drop_root
+pa_daemon_conf_set_log_level
+pa_daemon_conf_free
+pa_dump_modules
+pa_ltdl_done
+__libc_csu_init
+pa_daemon_conf_new
+pa_daemon_conf_get_default_script_file
+__padsp_disabled__
+pa_daemon_conf_dump
+pa_cpu_limit_init
+pa_daemon_conf_set_resample_method
+lt__PROGRAM__LTX_preloaded_symbols
+pa_dbusobj_server_lookup_new
+GLIBC_2.2.5
+PULSE_0
+LIBDBUS_1_3
+LIBSYSTEMD_209
+GLIBC_2.4
+GLIBC_2.3.4
+ATUA
+D$(1
+L$(dH3
+0[]A\
+AWAVAUATI
+L$,L
+t$(1
+[]A\A]A^A_
+;l$,~
+;l$,
+;l$,
+;l$,
+;l$,
+HcT$,
+;l$,
+;l$,
+L$0A
+|$PH
+t$(1
+t$(1
+|$ H
+|$`H
+t$0H
+l$0M
+|$`L
+|$@H
+t$(1
+t$01
+t$(L
+ASUI
+AYAZ
+AUh1
+A^A_
+UH-pPa
+AWAVAUATUSH
+[]A\A]A^A_
+H;5A
+D$ H
+#[]A\
+#[]A\
+[]A\
+ATUSH
+dH34%(
+[]A\
+x`HcD$
+ATUI
+ATUSH
+[]A\
+ATUI
+ATUSH
+[]A\
+ATUI
+ATUSH
+[]A\
+ATUI
+ATUSt/H
+[]A\
+ATUI
+ATUSH
+[]A\
+ATUI
+ATUSH
+[]A\
+ATUI
+ATUSH
+[]A\
+ATUI
+ATUSt'H
+[]A\
+UATI
+StBH
+StRH
+ATUSt
+[]A\
+ATUI
+ATUSt
+[]A\
+ATUI
+St"H
+ATUSt
+[]A\
+ATUI
+ATUSt
+[]A\
+ATUI
+ATUH
+D$0p
+D$ H
+D$@H
+D$pL
+D$`H
+[]A\
+St:H
+AWAVAUATUSH
+{HE1
+[]A\A]A^A_
+AUATUSH
+[]A\A]
+[]A\A]
+AUATUSH
+[]A\A]
+[]A\A]
+AUATI
+D$H1
+T$HdH3
+X[]A\A]
+ATUSH
+D$H1
+D$HdH3
+P[]A\
+ATUSt'H
+[]A\
+ATUI
+D$hL
+[]A\
+D$(1
+L$(dH3
+T$(I
+ATUH
+[]A\
+[]A\
+ATUSH
+[]A\
+h !A
+t$ H
+L$pH
+|$p1
+t$pH
+h !A
+h !A
+h !A
+ATUSH
+[]A\
+hx!A
+hx!A
+hx!A
+T$p1
+L$ H
+ZYtHH
+h@!A
+t$ H
+L$pH
+t$pH
+D$(1
+L$(dH3
+AWAVA
+AUATL
+[]A\A]A^A_
+@PROGRAM@
+caps = cap_init()
+daemon/caps.c
+cap_clear(caps) == 0
+cap_set_proc(caps) == 0
+cap_free(caps) == 0
+Cleaning up privileges.
+setresuid(uid, uid, uid) >= 0
+setresgid(gid, gid, gid) >= 0
+getuid() == uid
+geteuid() == uid
+getgid() == gid
+getegid() == gid
+Assertion '%s' failed at %s:%u, function %s(). Aborting.
+pa_drop_caps
+pa_drop_caps
+pa_drop_root
+pa_drop_root
+argv0
+daemon/cmdline.c
+argc > 0
+argv
+load-module %s
+.include %s
+Invalid resample method '%s'.
+L:F:ChDnp:kv
+help
+version
+dump-conf
+dump-modules
+daemonize
+fail
+verbose
+log-level
+high-priority
+realtime
+disallow-module-loading
+disallow-exit
+exit-idle-time
+scache-idle-time
+log-target
+log-meta
+log-time
+log-backtrace
+load
+dl-search-path
+resample-method
+kill
+start
+use-pid-file
+check
+system
+no-cpu-limit
+disable-shm
+dump-resample-methods
+cleanup-shm
+%s [options]
+God A red nugget A fat egg under a dog
+COMMANDS:
+  -h, --help                            Show this help
+      --version                         Show version
+      --dump-conf                       Dump default configuration
+      --dump-modules                    Dump list of available modules
+      --dump-resample-methods           Dump available resample methods
+      --cleanup-shm                     Cleanup stale shared memory segments
+      --start                           Start the daemon if it is not running
+  -k  --kill                            Kill a running daemon
+      --check                           Check for a running daemon (only returns exit code)
+OPTIONS:
+      --system[=BOOL]                   Run as system-wide instance
+  -D, --daemonize[=BOOL]                Daemonize after startup
+      --fail[=BOOL]                     Quit when startup fails
+      --high-priority[=BOOL]            Try to set high nice level
+                                        (only available as root, when SUID or
+                                        with elevated RLIMIT_NICE)
+      --realtime[=BOOL]                 Try to enable realtime scheduling
+                                        (only available as root, when SUID or
+                                        with elevated RLIMIT_RTPRIO)
+      --disallow-module-loading[=BOOL]  Disallow module user requested module
+                                        loading/unloading after startup
+      --disallow-exit[=BOOL]            Disallow user requested exit
+      --exit-idle-time=SECS             Terminate the daemon when idle and this
+                                        time passed
+      --scache-idle-time=SECS           Unload autoloaded samples when idle and
+                                        this time passed
+      --log-level[=LEVEL]               Increase or set verbosity level
+  -v  --verbose                         Increase the verbosity level
+      --log-target={auto,syslog,stderr,file:PATH,newfile:PATH}
+                                        Specify the log target
+      --log-meta[=BOOL]                 Include code location in log messages
+      --log-time[=BOOL]                 Include timestamps in log messages
+      --log-backtrace=FRAMES            Include a backtrace in log messages
+  -p, --dl-search-path=PATH             Set the search path for dynamic shared
+                                        objects (plugins)
+      --resample-method=METHOD          Use the specified resampling method
+                                        (See --dump-resample-methods for
+                                        possible values)
+      --use-pid-file[=BOOL]             Create a PID file
+      --no-cpu-limit[=BOOL]             Do not install CPU load limiter on
+                                        platforms that support it.
+      --disable-shm[=BOOL]              Disable shared memory support.
+STARTUP SCRIPT:
+  -L, --load="MODULE ARGUMENTS"         Load the specified plugin module with
+                                        the specified argument
+  -F, --file=FILENAME                   Run the specified script
+  -C                                    Open a command line on the running TTY
+                                        after startup
+  -n                                    Don't load default script file
+load-module module-cli exit_on_eof=1
+--daemonize expects boolean argument
+--fail expects boolean argument
+--log-level expects log level argument (either numeric in range 0..4 or one of debug, info, notice, warn, error).
+--high-priority expects boolean argument
+--realtime expects boolean argument
+--disallow-module-loading expects boolean argument
+--disallow-exit expects boolean argument
+--use-pid-file expects boolean argument
+Invalid log target: use either 'syslog', 'journal','stderr' or 'auto' or a valid file name 'file:<path>', 'newfile:<path>'.
+--log-time expects boolean argument
+--log-meta expects boolean argument
+--system expects boolean argument
+--no-cpu-limit expects boolean argument
+--disable-shm expects boolean argument
+pa_cmdline_parse
+pa_cmdline_parse
+pa_cmdline_help
+pa_cmdline_help
+daemon/cpulimit.c
+f == PA_IO_EVENT_INPUT
+e == io_event
+fd == the_pipe[0]
+sig == 24
+!api
+!io_event
+the_pipe[0] == -1
+the_pipe[1] == -1
+!installed
+pipe() failed: %s
+Received request to terminate due to CPU overload.
+getrusage(RUSAGE_SELF, &ru) >= 0
+getrlimit(RLIMIT_CPU, &rl) >= 0
+setrlimit(RLIMIT_CPU, &rl) >= 0
+Soft CPU time limit exhausted, terminating.
+Hard CPU time limit exhausted, terminating forcibly.
+sigaction(SIGXCPU, &sigaction_prev, NULL) >= 0
+pa_cpu_limit_done
+pa_cpu_limit_done
+reset_cpu_time
+reset_cpu_time
+callback
+callback
+signal_handler
+signal_handler
+pa_cpu_limit_init
+pa_cpu_limit_init
+gfffff
+cAstate
+daemon/daemon-conf.c
+[%s:%u] Invalid rlimit '%s'.
+/usr/lib/pulse-8.0/modules
+string
+auto
+debug
+info
+notice
+warn
+user
+none
+realtime-scheduling
+system-instance
+local-server-type
+enable-shm
+flat-volumes
+lock-memory
+enable-deferred-volume
+realtime-priority
+default-sample-format
+default-sample-rate
+alternate-sample-rate
+default-sample-channels
+default-channel-map
+default-fragments
+default-fragment-size-msec
+nice-level
+disable-remixing
+enable-remixing
+disable-lfe-remixing
+enable-lfe-remixing
+lfe-crossover-freq
+load-default-script-file
+shm-size-bytes
+rlimit-fsize
+rlimit-data
+rlimit-stack
+rlimit-core
+rlimit-rss
+rlimit-nofile
+rlimit-as
+rlimit-nproc
+rlimit-memlock
+rlimit-locks
+rlimit-sigpending
+rlimit-msgqueue
+Eleele
+rlimit-nice
+rlimit-rtprio
+rlimit-rttime
+PULSE_CONFIG
+/etc/pulse/daemon.conf
+PULSE_DLPATH
+PULSE_SCRIPT
+/etc/pulse/system.pa
+/etc/pulse/default.pa
+daemonize = %s
+fail = %s
+high-priority = %s
+nice-level = %i
+realtime-scheduling = %s
+realtime-priority = %i
+allow-module-loading = %s
+allow-exit = %s
+use-pid-file = %s
+system-instance = %s
+local-server-type = %s
+cpu-limit = %s
+enable-shm = %s
+flat-volumes = %s
+lock-memory = %s
+exit-idle-time = %i
+scache-idle-time = %i
+dl-search-path = %s
+default-script-file = %s
+log-target = %s
+log-level = %s
+resample-method = %s
+enable-remixing = %s
+enable-lfe-remixing = %s
+lfe-crossover-freq = %u
+default-sample-format = %s
+default-sample-rate = %u
+alternate-sample-rate = %u
+default-sample-channels = %u
+default-channel-map = %s
+default-fragments = %u
+enable-deferred-volume = %s
+shm-size-bytes = %lu
+log-meta = %s
+log-time = %s
+log-backtrace = %u
+rlimit-fsize = %li
+rlimit-data = %li
+rlimit-stack = %li
+rlimit-core = %li
+rlimit-rss = %li
+rlimit-as = %li
+rlimit-nproc = %li
+rlimit-nofile = %li
+rlimit-memlock = %li
+rlimit-locks = %li
+rlimit-sigpending = %li
+rlimit-msgqueue = %li
+rlimit-nice = %li
+rlimit-rtprio = %li
+rlimit-rttime = %li
+error
+warning
+!!UNSET!!
+[%s:%u] Invalid nice level '%s'.
+[%s:%u] Invalid fragment size '%s'.
+[%s:%u] Invalid number of fragments '%s'.
+[%s:%u] Invalid channel map '%s'.
+[%s:%u] Invalid sample channels '%s'.
+[%s:%u] Invalid sample rate '%s'.
+[%s:%u] Invalid sample format '%s'.
+[%s:%u] Invalid realtime priority '%s'.
+Detected that we are run from the build tree, fixing search path.
+/build/pulseaudio-NNTtnW/pulseaudio-8.0/src
+[%s:%u] Invalid log target '%s'.
+[%s:%u] Invalid log level '%s'.
+[%s:%u] Invalid resample method '%s'.
+[%s:%u] Invalid server type '%s'.
+deferred-volume-safety-margin-usec
+deferred-volume-extra-delay-usec
+Failed to open configuration file: %s
+The specified default channel map has a different number of channels than the specified default number of channels.
+### Read from configuration file: %s ###
+c->log_level < PA_LOG_LEVEL_MAX
+load-default-script-file = %s
+default-fragment-size-msec = %u
+deferred-volume-safety-margin-usec = %u
+deferred-volume-extra-delay-usec = %d
+pa_daemon_conf_dump
+pa_daemon_conf_dump
+pa_daemon_conf_open_default_script_file
+pa_daemon_conf_open_default_script_file
+pa_daemon_conf_get_default_script_file
+pa_daemon_conf_get_default_script_file
+pa_daemon_conf_env
+pa_daemon_conf_env
+parse_server_type
+parse_server_type
+parse_rtprio
+parse_rtprio
+parse_log_target
+parse_log_target
+parse_log_level
+parse_log_level
+parse_resample_method
+parse_resample_method
+parse_sample_format
+parse_sample_format
+parse_sample_rate
+parse_sample_rate
+parse_alternate_sample_rate
+parse_alternate_sample_rate
+parse_sample_channels
+parse_sample_channels
+parse_channel_map
+parse_channel_map
+parse_fragments
+parse_fragments
+parse_fragment_size_msec
+parse_fragment_size_msec
+parse_nice_level
+parse_nice_level
+Do nine men interpret Nine men I nod
+parse_rlimit
+parse_rlimit
+pa_daemon_conf_load
+pa_daemon_conf_set_local_server_type
+pa_daemon_conf_set_local_server_type
+pa_daemon_conf_set_resample_method
+pa_daemon_conf_set_resample_method
+pa_daemon_conf_set_log_level
+pa_daemon_conf_set_log_level
+pa_daemon_conf_set_log_target
+pa_daemon_conf_set_log_target
+pa_daemon_conf_free
+pa_daemon_conf_free
+pa_daemon_conf_new
+daemon/dumpmodules.c
+Name: %s
+Version: %s
+Description: %s
+Author: %s
+Usage: %s
+Load Once: %s
+DEPRECATION WARNING: %s
+Path: %s
+%-40s%s
+module-
+No module information available
+show_info
+show_info
+long_info
+long_info
+short_info
+short_info
+pa_dump_modules
+pa_dump_modules
+daemon/ltdl-bind-now.c
+symbol
+fname
+Failed to open module %s: %s
+lt_dlinit() == 0
+lt_dlopen
+bind-now-loader
+lt_dlexit() == 0
+Failed to find original lt_dlopen loader.
+Failed to allocate new dl loader.
+Failed to add bind-now-loader.
+pa_ltdl_done
+pa_ltdl_done
+bind_now_open
+bind_now_open
+bind_now_close
+bind_now_close
+bind_now_find_sym
+bind_now_find_sym
+pa_ltdl_init
+pa_ltdl_init
+Got signal %s.
+daemon/main.c
+module-cli
+module-cli-protocol-unix
+Exiting.
+Got %s!
+Failed to acquire %s: %s: %s
+D-Bus name %s already taken.
+LD_BIND_NOW
+/usr/bin/pulseaudio
+/proc/self/exe
+execv(rp, argv) == 0
+./pulse/xmalloc.h
+n < INT_MAX/k
+PULSE_PASSED_FD
+Failed to parse command line.
+Too many arguments.
+pulseaudio 8.0
+Daemon not running
+Daemon running as PID %u
+Failed to kill daemon: %s
+native
+{%s}unix:%s
+Failed to acquire stdio.
+fork() failed: %s
+pa_close(daemon_pipe[1]) == 0
+read() failed: %s
+Daemon startup failed.
+Daemon startup successful.
+pa_close(daemon_pipe[0]) == 0
+setsid() failed: %s
+daemon_pipe[1] >= 0
+PULSE_INTERNAL
+chdir("/") == 0
+RLIMIT_FSIZE
+RLIMIT_DATA
+RLIMIT_STACK
+RLIMIT_CORE
+RLIMIT_RSS
+RLIMIT_NPROC
+RLIMIT_NOFILE
+RLIMIT_MEMLOCK
+RLIMIT_AS
+RLIMIT_LOCKS
+RLIMIT_SIGPENDING
+RLIMIT_MSGQUEUE
+RLIMIT_NICE
+RLIMIT_RTPRIO
+RLIMIT_RTTIME
+Failed to find user '%s'.
+Failed to find group '%s'.
+/var/run/pulse
+Failed to create '%s': %s
+/var/lib/pulse
+Failed to change GID: %s
+Failed to change UID: %s
+USER
+USERNAME
+LOGNAME
+HOME
+PULSE_RUNTIME_PATH
+PULSE_CONFIG_PATH
+PULSE_STATE_PATH
+PULSE_SYSTEM
+This is PulseAudio %s
+x86_64-pc-linux-gnu
+Compilation host: %s
+Compilation CFLAGS: %s
+Running on host: %s
+Found %u CPUs.
+Page size is %lu bytes
+Running in valgrind mode: %s
+Running in VM: %s
+Optimized build: yes
+Failed to get machine ID
+Machine ID is %s.
+Session ID is %s.
+Using runtime directory %s.
+Using state directory %s.
+Using modules directory %s.
+Running in system mode: %s
+pa_pid_file_create() failed.
+mlockall() failed: %s
+mainloop = pa_mainloop_new()
+pa_core_new() failed.
+dbus_threads_init_default()
+Beeb
+Failed to initialize daemon.
+org.PulseAudio1
+org.pulseaudio.Server
+Daemon startup complete.
+READY=1
+Daemon shutdown initiated.
+STOPPING=1
+./pulsecore/object.h
+Daemon terminated.
+Our pid file has been deleted (probably due to session logout), quitting...
+Unable to contact D-Bus: %s: %s
+setrlimit(%s, (%u, %u)) failed: %s
+/proc/self/exe does not point to %s, cannot self execute. Are you playing games?
+Couldn't read /proc/self/exe, cannot self execute. Running in a chroot()?
+Couldn't canonicalize binary path, cannot self execute.
+Code should not be reached at %s:%u, function %s(). Aborting.
+System mode refused for non-root user. Only starting the D-Bus server lookup service.
+conf->cmd == PA_CMD_DAEMON || conf->cmd == PA_CMD_START
+This program is not intended to be run as root (unless --system is specified).
+--start not supported for system instances.
+User-configured server at %s, refusing to start/autospawn.
+User-configured server at %s, which appears to be local. Probing deeper.
+Running in system mode, but --disallow-exit not set.
+Running in system mode, but --disallow-module-loading not set.
+Running in system mode, forcibly disabling SHM mode.
+Running in system mode, forcibly disabling exit idle time.
+Failed to initialize autospawn lock
+Failed to acquire autospawn lock
+pa_close(daemon_pipe2[1]) == 0
+pa_close(daemon_pipe2[0]) == 0
+Found user '%s' (UID %lu) and group '%s' (GID %lu).
+GID of user '%s' and of group '%s' don't match.
+Home directory of user '%s' is not '%s', ignoring.
+Failed to change group list: %s
+Successfully changed user to "pulse".
+-g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wall -W -Wextra -pipe -Wno-long-long -Wno-overlength-strings -Wunsafe-loop-optimizations -Wundef -Wformat=2 -Wlogical-op -Wsign-compare -Wformat-security -Wmissing-include-dirs -Wformat-nonliteral -Wpointer-arith -Winit-self -Wdeclaration-after-statement -Wfloat-equal -Wmissing-prototypes -Wredundant-decls -Wmissing-declarations -Wmissing-noreturn -Wshadow -Wendif-labels -Wcast-align -Wstrict-aliasing -Wwrite-strings -Wno-unused-parameter -ffast-math -fno-common -fdiagnostics-show-option -fdiagnostics-color=auto
+alula
+Compiled with Valgrind support: no
+FASTPATH defined, only fast path asserts disabled.
+OK, so you are running PA in system mode. Please note that you most likely shouldn't be doing that.
+If you do it nonetheless then it's your own fault if things don't work as expected.
+Please read http://www.freedesktop.org/wiki/Software/PulseAudio/Documentation/User/WhatIsWrongWithSystemWide/ for an explanation why system mode is usually a bad idea.
+System supports high resolution timers
+System appears to not support high resolution timers
+Successfully locked process into memory.
+pa_signal_init(pa_mainloop_get_api(mainloop)) == 0
+pa_cpu_limit_init(pa_mainloop_get_api(mainloop)) == 0
+Daemon startup without any loaded modules, refusing to work.
+!obj || obj->check_type(pa_object_type_id)
+pa_object_cast
+pa_object_cast
+register_dbus_name
+change_user
+set_one_rlimit
+set_one_rlimit
+_pa_xnew_internal
+pid_file_deleted
+signal_callback
+main
+main
+Address
+daemon/server-lookup.c
+Invalid arguments
+{sv}
+sl->path_registered
+Introspect
+org.PulseAudio.ServerLookup1
+%s: No such property
+%s: Property not settable
+GetAll
+sl->conn
+org.freedesktop.DBus.Error.InvalidArgs
+PulseAudio internal error: get_dbus_server_from_type() failed.
+org.freedesktop.DBus.Error.Failed
+org.freedesktop.DBus.Introspectable
+org.PulseAudio.Core1.NoSuchPropertyError
+org.freedesktop.DBus.Error.AccessDenied
+org.freedesktop.DBus.Properties
+/org/pulseaudio/server_lookup1
+Borrow or rob
+dbus_connection_unregister_object_path() failed for /org/pulseaudio/server_lookup1.
+dbus_connection_register_object_path() failed for /org/pulseaudio/server_lookup1.
+pa_dbusobj_server_lookup_free
+pa_dbusobj_server_lookup_free
+unregister_cb
+unregister_cb
+handle_get_all
+handle_get_all
+handle_get_address
+handle_get_address
+message_cb
+message_cb
+pa_dbusobj_server_lookup_new
+<!DOCTYPE node PUBLIC "-//freedesktop//DTD D-BUS Object Introspection 1.0//EN"
+"http://www.freedesktop.org/standards/dbus/1.0/introspect.dtd">
+<node> <!-- If you are looking for documentation make sure to check out
+      http://www.freedesktop.org/wiki/Software/PulseAudio/Documentation/Developer/Clients/DBus/ -->
+ <interface name="org.PulseAudio.ServerLookup1">
+  <property name="Address" type="s" access="read"/>
+ </interface>
+ <interface name="org.freedesktop.DBus.Introspectable">
+  <method name="Introspect">
+   <arg name="data" type="s" direction="out"/>
+  </method>
+ </interface>
+ <interface name="org.freedesktop.DBus.Properties">
+  <method name="Get">
+   <arg name="interface_name" type="s" direction="in"/>
+   <arg name="property_name" type="s" direction="in"/>
+   <arg name="value" type="v" direction="out"/>
+  </method>
+  <method name="Set">
+A Santa lives evil at NASA
+   <arg name="interface_name" type="s" direction="in"/>
+   <arg name="property_name" type="s" direction="in"/>
+   <arg name="value" type="v" direction="in"/>
+  </method>
+  <method name="GetAll">
+   <arg name="interface_name" type="s" direction="in"/>
+   <arg name="props" type="a{sv}" direction="out"/>
+  </method>
+ </interface>
+</node>
+;*3$"
+0a9a5e209dd375b051090e63d560a9e82a8401.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.data
+.bss
+.gnu_debuglink

@@ -1,0 +1,5949 @@
+__cxa_finalize
+__cxa_atexit
+__stack_chk_fail
+__init_tls
+__stack_chk_guard
+__set_tls
+mmap
+sigaltstack
+__thread_entry
+pthread_mutex_lock
+pthread_mutex_destroy
+pthread_exit
+_init_thread
+pthread_cond_init
+_pthread_internal_add
+sched_setscheduler
+__errno
+strerror
+pthread_create
+__isthreaded
+calloc
+pthread_mutex_init
+__pthread_clone
+_thread_created_hook
+pthread_mutex_unlock
+free
+munmap
+pthread_attr_init
+mprotect
+pthread_key_create
+pthread_key_delete
+pthread_getspecific
+pthread_setspecific
+__sF
+fclose
+dlsym
+__system_property_get
+atoi
+gMallocDebugLevel
+__progname
+strstr
+gMallocDebugBacklog
+dlopen
+__libc_malloc_dispatch
+dlclose
+snprintf
+dlerror
+get_malloc_leak_info
+gAllocationsMutex
+gHashTable
+dlmalloc
+qsort
+memcpy
+memset
+dlfree
+free_malloc_leak_info
+mallinfo
+dlmallinfo
+valloc
+dlvalloc
+pvalloc
+dlpvalloc
+posix_memalign
+dlposix_memalign
+malloc
+realloc
+memalign
+malloc_usable_size
+pthread_once
+__libc_malloc_default_dispatch
+dlcalloc
+dlrealloc
+dlmemalign
+dlmalloc_usable_size
+gMallocLeakZygoteChild
+gettid
+getpid
+__libc_init
+__libc_fini
+exit
+clock_gettime
+__futex_wake_ex
+__futex_syscall3
+__futex_wait_ex
+__futex_syscall4
+__pthread_cleanup_push
+__get_thread
+__pthread_cleanup_pop
+sigprocmask
+_exit_with_stack_teardown
+_exit_thread
+pthread_mutexattr_init
+pthread_mutexattr_destroy
+pthread_mutexattr_gettype
+pthread_mutexattr_settype
+pthread_mutexattr_setpshared
+pthread_mutexattr_getpshared
+pthread_mutex_trylock
+pthread_mutex_lock_timeout_np
+pthread_condattr_init
+pthread_condattr_getpshared
+pthread_condattr_setpshared
+pthread_condattr_destroy
+pthread_cond_destroy
+pthread_cond_broadcast
+pthread_cond_signal
+pthread_cond_wait
+__pthread_cond_timedwait_relative
+__pthread_cond_timedwait
+pthread_cond_timedwait
+pthread_cond_timedwait_monotonic
+pthread_cond_timedwait_monotonic_np
+pthread_cond_timedwait_relative_np
+pthread_cond_timeout_np
+__pthread_gettid
+__pthread_settid
+sbrk
+__bionic_name_mem
+sysconf
+time
+pthread_atfork
+abort
+dlrealloc_in_place
+dlindependent_calloc
+dlindependent_comalloc
+dlbulk_free
+dlmalloc_inspect_all
+dlmalloc_trim
+dlmalloc_footprint
+dlmalloc_max_footprint
+dlmalloc_footprint_limit
+dlmalloc_set_footprint_limit
+dlmalloc_stats
+fprintf
+dlmallopt
+raise
+sigaction
+_exit
+__assert
+__assert2
+__brk
+__bionic_brk
+dirfd
+fdopendir
+fstat
+opendir
+open
+readdir
+getdents
+readdir_r
+closedir
+close
+rewinddir
+lseek
+alphasort
+strcoll
+eventfd_read
+read
+eventfd_write
+write
+futimens
+utimensat
+getauxval
+getcwd
+__getcwd
+strdup
+__page_size
+__get_sp
+getrlimit
+pthread_attr_setstack
+environ
+__system_properties_init
+__page_shift
+__umoddi3
+__udivdi3
+strlen
+__strlen_chk
+writev
+strcpy
+getuid
+basename
+dirname
+basename_r
+dirname_r
+__mmap2
+madvise
+pthread_attr_destroy
+pthread_attr_setdetachstate
+pthread_attr_getdetachstate
+pthread_attr_setschedpolicy
+pthread_attr_getschedpolicy
+pthread_attr_setschedparam
+pthread_attr_getschedparam
+pthread_attr_setstacksize
+pthread_attr_getstacksize
+pthread_attr_setstackaddr
+pthread_attr_getstackaddr
+pthread_attr_getstack
+pthread_attr_setguardsize
+pthread_attr_getguardsize
+pthread_getattr_np
+pthread_attr_setscope
+pthread_attr_getscope
+pthread_detach
+pthread_equal
+pthread_getcpuclockid
+pthread_getschedparam
+sched_getparam
+sched_getscheduler
+pthread_join
+pthread_self
+pthread_kill
+tgkill
+pthread_setname_np
+prctl
+pthread_setschedparam
+pthread_sigmask
+__rt_sigprocmask
+scandir
+sched_getaffinity
+__sched_getaffinity
+__set_errno
+setlocale
+signalfd
+signalfd4
+sigwait
+__rt_sigtimedwait
+statvfs
+__statfs64
+strcmp
+fstatvfs
+__fstatfs64
+strerror_r
+strsignal
+getpwuid_r
+getpwuid
+getpwnam_r
+_ctype_
+strtoul
+getpwnam
+getgrouplist
+getlogin
+getgrgid
+getgrnam
+getnetbyname
+getnetbyaddr
+getprotobyname
+getprotobynumber
+endpwent
+getmntent
+ttyname
+ttyname_r
+getusershell
+setusershell
+endusershell
+fopen
+sscanf
+fgets
+__strchr_chk
+clock_getres
+tdestroy
+mkstemp
+unlink
+fdopen
+tmpfile
+wait
+wait4
+wait3
+waitpid
+waitid
+__waitid
+__wait4
+btowc
+fwprintf
+wprintf
+swprintf
+vwprintf
+vfwprintf
+vswprintf
+fwscanf
+wscanf
+swscanf
+iswalnum
+iswalpha
+iswcntrl
+iswdigit
+iswgraph
+iswlower
+iswprint
+iswpunct
+iswspace
+iswupper
+iswxdigit
+iswctype
+fgetwc
+fgetc
+fgetws
+fputwc
+fputc
+fputws
+fputs
+fwide
+getwc
+getc
+__srget
+getwchar
+mbsinit
+mbrlen
+mbrtowc
+mbsrtowcs
+memchr
+mbstowcs
+putwc
+putwchar
+putc
+__swbuf
+towlower
+_tolower_tab_
+towupper
+_toupper_tab_
+ungetwc
+ungetc
+wcrtomb
+wcsftime
+strftime
+wcsrtombs
+wcstombs
+wcstod
+strtod
+wcstol
+strtol
+wcstoul
+wcswcs
+wctob
+wctype
+wcwidth
+clearerr
+flockfile
+funlockfile
+clearerr_unlocked
+__sflush
+__sflags
+fcntl
+__sfp
+__sread
+__swrite
+__sseek
+__sclose
+feof
+feof_unlocked
+ferror
+ferror_unlocked
+__slbexpand
+fgetln
+__srefill
+fgetpos
+ftello
+fileno
+fileno_unlocked
+fpurge
+fsetpos
+fseeko
+funopen
+_fwalk
+__sglue
+fwrite
+getc_unlocked
+getchar
+getchar_unlocked
+__smakebuf
+_cleanup
+isatty
+__swhatbuf
+mktemp
+strchr
+arc4random_uniform
+__memcpy_chk
+stat
+mkdir
+lstat
+mkstemps
+mkdtemp
+putc_unlocked
+putchar
+putchar_unlocked
+puts
+putw
+remove
+rmdir
+setbuf
+setvbuf
+setbuffer
+setlinebuf
+tempnam
+issetugid
+getenv
+tmpnam
+__swsetup
+__sdidinit
+__sinit
+optind
+strncmp
+opterr
+warnx
+optopt
+optarg
+optreset
+getopt
+getopt_long
+getopt_long_only
+imaxabs
+__divdi3
+__moddi3
+imaxdiv
+labs
+llabs
+realpath
+strlcpy
+strrchr
+__memmove_chk
+strlcat
+readlink
+wcpcpy
+wcpncpy
+wcscasecmp
+wcscspn
+wcsdup
+wcslen
+wmemcpy
+wcslcat
+wcslcpy
+wcsncasecmp
+wcsncat
+wcsncmp
+wcsncpy
+wcsnlen
+wcspbrk
+wcsspn
+wcsstr
+wcstok
+wmemchr
+wmemmove
+memmove
+wmemset
+SHA1Transform
+SHA1Init
+SHA1Update
+SHA1Final
+inet_addr
+inet_aton
+creat
+fts_open
+fts_read
+fts_close
+nftw
+nice
+getpriority
+setpriority
+popen
+socketpair
+pthread_rwlock_rdlock
+vfork
+pthread_rwlock_unlock
+execl
+pipe2
+dup2
+pclose
+pthread_rwlock_wrlock
+psignal
+psiginfo
+longjmperror
+utime
+utimes
+inet_ntoa
+inet_ntop
+inet_pton
+__evConsIovec
+__evConsTime
+__evAddTime
+__evSubTime
+__evCmpTime
+__evNowTime
+gettimeofday
+__evUTCTime
+__evTimeSpec
+__evTimeVal
+regcomp
+regfree
+regerror
+memcmp
+regexec
+__getdelim
+getdelim
+getline
+bsearch
+drand48
+__rand48_seed
+erand48
+__dorand48
+ldexp
+jrand48
+ldiv
+lldiv
+lrand48
+mrand48
+nrand48
+__rand48_mult
+__rand48_add
+seed48
+srand48
+tdelete
+tfind
+tsearch
+memccpy
+strcasestr
+strncasecmp
+strxfrm
+killpg
+kill
+asctime_r
+__sprintf_chk
+asctime
+__strcpy_chk
+difftime
+tzname
+__strncpy_chk
+strncpy
+tzsetwall
+daylight
+timezone
+tzset
+localtime
+localtime_r
+gmtime
+gmtime_r
+ctime
+ctime_r
+mktime
+timelocal
+timegm
+time2posix
+posix2time
+mktime_tz
+localtime_tz
+mktime64
+strftime_tz
+strptime
+__fork
+_waitpid
+__sys_clone
+execve
+__setuid
+getgid
+geteuid
+getegid
+getresuid
+getresgid
+readahead
+getgroups
+getpgid
+getppid
+getsid
+setsid
+setgid
+__setreuid
+__setresuid
+setresgid
+tkill
+__ptrace
+__set_thread_area
+__getpriority
+setrlimit
+getrusage
+setgroups
+setpgid
+setregid
+chroot
+capget
+capset
+acct
+pread64
+pwrite64
+__open
+__openat
+__llseek
+mremap
+msync
+mlock
+munlock
+mlockall
+munlockall
+mincore
+__ioctl
+readv
+__fcntl
+flock
+fchmod
+pipe
+select
+ftruncate
+ftruncate64
+fsync
+fdatasync
+fchown
+sync
+__fcntl64
+sendfile
+fstatat
+mkdirat
+fchownat
+fchmodat
+renameat
+fsetxattr
+fgetxattr
+flistxattr
+fremovexattr
+link
+unlinkat
+chdir
+mknod
+chmod
+chown
+lchown
+mount
+umount2
+rename
+__access
+faccessat
+symlink
+fchdir
+truncate
+setxattr
+lsetxattr
+getxattr
+lgetxattr
+listxattr
+llistxattr
+removexattr
+lremovexattr
+unshare
+swapon
+swapoff
+pause
+settimeofday
+times
+nanosleep
+clock_settime
+clock_nanosleep
+getitimer
+setitimer
+__timer_create
+__timer_settime
+__timer_gettime
+__timer_getoverrun
+__timer_delete
+timerfd_create
+timerfd_settime
+timerfd_gettime
+__sigsuspend
+__rt_sigaction
+sigpending
+socket
+bind
+connect
+listen
+accept
+getsockname
+getpeername
+sendto
+recvfrom
+shutdown
+setsockopt
+getsockopt
+sendmsg
+recvmsg
+sched_yield
+sched_setparam
+sched_get_priority_max
+sched_get_priority_min
+sched_rr_get_interval
+sched_setaffinity
+__getcpu
+ioprio_set
+ioprio_get
+uname
+umask
+__reboot
+__syslog
+init_module
+delete_module
+klogctl
+sysinfo
+personality
+perf_event_open
+futex
+epoll_create
+epoll_ctl
+epoll_wait
+inotify_init
+inotify_add_watch
+inotify_rm_watch
+poll
+eventfd
+ioperm
+iopl
+adjtimex
+stime
+__bionic_clone
+__bionic_clone_entry
+__futex_wait
+__futex_wake
+_setjmp
+_longjmp
+setjmp
+sigblock
+longjmp
+sigsetmask
+sigsetjmp
+siglongjmp
+syscall
+bcopy
+strcat
+bzero
+memrchr
+index
+strnlen
+wcschr
+wcsrchr
+wcscmp
+__fgets_chk
+__memset_chk
+__strcat_chk
+__strlcat_chk
+__strlcpy_chk
+__strncat_chk
+__strrchr_chk
+__umask_chk
+__vsnprintf_chk
+vsnprintf
+__snprintf_chk
+__vsprintf_chk
+alarm
+execle
+execv
+execvp
+strsep
+execlp
+fnmatch
+isalnum
+isalpha
+isblank
+iscntrl
+isdigit
+isgraph
+islower
+isprint
+ispunct
+isspace
+isupper
+isxdigit
+openlog
+closelog
+setlogmask
+vsyslog_r
+syslog_r
+syslog
+send
+usleep
+vsyslog
+openlog_r
+closelog_r
+setlogmask_r
+system
+bsd_signal
+clock
+asprintf
+__vfprintf
+__sflush_locked
+fflush
+vfprintf
+fread
+freopen
+fscanf
+vfscanf
+fseek
+ftell
+gets
+printf
+rewind
+scanf
+sprintf
+vasprintf
+strtoumax
+strtoimax
+vprintf
+vsprintf
+vscanf
+vsscanf
+__atexit
+__atexit_invalid
+_thread_atexit_lock
+_thread_atexit_unlock
+isascii
+toascii
+_C_ctype_
+__findenv
+putenv
+setenv
+unsetenv
+freedtoa
+strtoll
+strtoull
+tolower
+_C_tolower_
+toupper
+_C_toupper_
+strcasecmp
+strcspn
+strpbrk
+strspn
+strtok
+strtok_r
+wcswidth
+wcsxfrm
+wcscpy
+__arc4_getbyte
+arc4random_stir
+arc4random_addrandom
+arc4random
+arc4random_buf
+atol
+atoll
+bindresvport
+clone
+clearenv
+cpuacct_add
+daemon
+fork
+verr
+verrx
+errx
+warn
+vwarn
+vwarnx
+ether_aton_r
+ether_aton
+ether_ntoa_r
+ether_ntoa
+vfdprintf
+fdprintf
+ftrylockfile
+__bionic_atfork_run_prepare
+__bionic_atfork_run_child
+__bionic_atfork_run_parent
+fstatfs
+ftime
+ftok
+fts_set
+fts_children
+getdtablesize
+gethostname
+getpgrp
+getpt
+if_indextoname
+ioctl
+if_nametoindex
+initgroups
+lseek64
+MD5_Init
+MD5_Update
+MD5_Final
+memmem
+memswap
+openat
+__openat_2
+access
+__open_2
+pathconf
+statfs
+fpathconf
+perror
+pread
+pselect
+ptsname
+ptsname_r
+pututline
+pwrite
+reboot
+recv
+__sched_cpualloc
+__sched_cpufree
+__popcountsi2
+__sched_cpucount
+sched_getcpu
+sem_init
+sem_destroy
+sem_open
+sem_close
+sem_unlink
+sem_wait
+sem_timedwait
+sem_post
+sem_trywait
+sem_getvalue
+setegid
+seteuid
+setpgrp
+setresuid
+setreuid
+setuid
+siginterrupt
+sys_siglist
+sysv_signal
+sys_signame
+sigsuspend
+sleep
+strndup
+strntoimax
+strntoumax
+strtotimeval
+pa_data_size
+__system_property_area__
+__system_property_set_filename
+__system_property_area_init
+pa_size
+__system_property_find
+__system_property_find_compat
+__system_property_read
+__system_property_read_compat
+__system_property_set
+__system_property_wait
+__system_property_update
+__system_property_add
+__system_property_serial
+__system_property_wait_any
+__system_property_find_nth
+__system_property_foreach_compat
+__system_property_foreach
+tcgetpgrp
+tcsetpgrp
+timegm64
+fake_localtime_r
+fake_gmtime_r
+timelocal64
+gmtime64_r
+localtime64_r
+asctime64_r
+ctime64_r
+localtime64
+gmtime64
+asctime64
+ctime64
+umount
+unlockpt
+setutent
+getutent
+endutent
+utmpname
+wcscoll
+__res_get_static
+__res_hnok
+dn_expand
+__get_h_errno
+__res_dnok
+_getshort
+__p_type
+__p_class
+__res_get_state
+res_setiface
+res_setmark
+__res_nquery
+__res_put_state
+__res_nsearch
+nsdispatch
+__hostalias
+gethostbyname_r
+gethostbyname
+gethostbyname2
+android_gethostbynameforiface
+android_gethostbyaddrforiface_proxy
+android_gethostbyaddrforiface_real
+android_gethostbyaddrforiface
+gethostbyaddr
+gethostent
+inet_nsap_addr
+inet_nsap_ntoa
+herror
+h_errlist
+hstrerror
+h_nerr
+__ns_name_uncompress
+__dn_comp
+__ns_name_compress
+__dn_skipname
+__ns_name_skip
+__res_ownok
+__res_mailok
+__putlong
+__ns_put32
+__putshort
+__ns_put16
+_getlong
+__ns_get32
+__ns_get16
+res_init
+__res_randomid
+__res_vinit
+__p_query
+__res_pquery
+__fp_query
+__fp_nquery
+res_mkquery
+__res_nmkquery
+res_query
+__res_send_setqhook
+__res_send_setrhook
+__res_isourserver
+__res_send
+__res_nsend
+__res_close
+__res_nclose
+res_search
+__res_querydomain
+__res_nquerydomain
+__res_opt
+__res_nopt
+__ns_msg_getflag
+__ns_parserr
+__ns_sprintrr
+__p_class_syms
+__p_type_syms
+__ns_initparse
+__p_rcode_syms
+__p_cdnname
+__p_cdname
+__p_fqnname
+__p_fqname
+__sym_ston
+__sym_ntos
+__sym_ntop
+__p_section
+__p_option
+__p_time
+__ns_format_ttl
+__p_rcode
+__p_sockun
+__loc_aton
+__loc_ntoa
+__dn_count_labels
+__p_secstodate
+__res_nametoclass
+__res_nametotype
+__p_cert_syms
+__p_key_syms
+__res_ninit
+__res_ndestroy
+__res_get_nibblesuffix
+__res_get_nibblesuffix2
+__res_setservers
+__res_getservers
+__res_hostalias
+getnameinfo
+__ns_samename
+__res_nameinquery
+__res_queriesmatch
+_resolv_flush_cache_for_default_iface
+_resolv_flush_cache_for_iface
+_resolv_set_default_iface
+_resolv_set_nameservers_for_iface
+freeaddrinfo
+getaddrinfo
+_cache_get_nameserver_addr
+_resolv_set_addr_of_iface
+_resolv_set_iface_for_pid
+_resolv_clear_iface_for_pid
+_resolv_get_pids_associated_interface
+_resolv_clear_iface_uid_range_mapping
+_resolv_clear_iface_pid_mapping
+_resolv_set_iface_for_uid_range
+_resolv_clear_iface_for_uid_range
+_resolv_get_uids_associated_interface
+getservbyname
+gai_strerror
+android_getaddrinfoforiface
+getservbyport
+android_getnameinfoforiface
+getservent_r
+setservent
+endservent
+getservent
+__b64_ntop
+__b64_pton
+__ns_name_ntop
+__ns_name_pton
+__ns_name_ntol
+__ns_name_unpack
+__ns_name_pack
+__ns_name_rollback
+_ns_flagdata
+__ns_skiprr
+__ns_sprintrrf
+__ns_makecanon
+pthread_rwlockattr_init
+pthread_rwlockattr_destroy
+pthread_rwlockattr_setpshared
+pthread_rwlockattr_getpshared
+pthread_rwlock_init
+pthread_rwlock_destroy
+pthread_rwlock_tryrdlock
+pthread_rwlock_timedrdlock
+pthread_rwlock_trywrlock
+pthread_rwlock_timedwrlock
+timer_create
+timer_delete
+timer_gettime
+timer_settime
+timer_getoverrun
+ptrace
+__get_tls
+__memcmp16
+strncat
+wcscat
+wmemcmp
+__popcount_tab
+_edata
+__bss_start
+_end
+libdl.so
+libc.so
+D$$t+
+d$4[^
+D$$t+
+d$0[^_
+UWVS
+d$L[
+T$,e
+d$<[^_]
+T$01
+[^_]
+UWVS
+[^_]
+T$De
+UWVS
+d$,[^_]
+d$,[^_]
+D$H1
+UWVS
+UWVS
+d$L[^_]
+d$L[^_]
+UWVS
+d$,[^_]
+l$8tg
+9J u
+UWVS
+L$ )
+D$$=
+D$$~
+T$$+T$,
+D$ +D$(
+T$,y
+T$$+T$,
+D$ +D$(
+T$,y
+d$<[^_]
+[^_]
+UWVS
+T$(tT
+D$(ti
+d$<[^_]
+L$$9
+L$,tn
+L$$9|$,u
+9D$,
+UWVS
+T$(tT
+D$(ti
+d$<[^_]
+L$$9
+L$,tn
+L$$9|$,u
+9D$,
+UWVS
++T$<
++D$8
+T$(tT
+D$$tb
+d$L[^_]
+L$ 9
+L$(tm
+L$ 9|$(u
+9D$(
+UWVS
++T$<
++D$8
+T$(tT
+D$$tb
+d$L[^_]
+L$ 9
+L$(tm
+L$ 9|$(u
+9D$(
+UWVS
++T$<
++D$8
+T$(tT
+D$$tb
+d$L[^_]
+L$ 9
+L$(tm
+L$ 9|$(u
+9D$(
+UWVS
++T$<
++D$8
+T$(tT
+D$$tb
+d$L[^_]
+L$ 9
+L$(tm
+L$ 9|$(u
+9D$(
+UWVS
+T$(tT
+D$(ti
+d$<[^_]
+L$$9
+L$,tn
+L$$9|$,u
+9D$,
+T$8i
+T$(tT
+D$(tc
+d$L[^_]
+L$$9
+L$,tn
+L$$9|$,u
+9D$,
+UWVS
+T$09W
+9T$0
+T$0;Q
+T$H;<
+T$@;W
+|$0;z
+L$$;J
+|$8;O
+T$8;J
+d$\[^_]
+|$<)
+T$81
+t$,9z
+t$L9y
+L$8!Q
+l$@9
+RL;<
+tD;F
+d$,[^_]
+|$@)
+d$,[^_]
+D$@)
+d$,[^_]
+UWVS
+d$,[
+d$,1
+[^_]
+L$0t
+[^_]
+L$ w
+|$$wn
+|$,9
+|$,9|$
+L$$;
+l$,wk
+w	;i
+UWVS
+D$,9
+9L$,
+T$09T$,
+H;D$0v.
+D$,+D$0
+9t$,
+5UUUU
+t$41
+D$4)
+9D$,sJ
++L$,
+d$\[
+d$\[^_]
+T$,+
+D$,)
+|$09
+9t$8
+9t$8
+5UUUU
+5UUUU
+UWVS
+d$,[^_]
+d$,[^_]
+|$$	
+;D$$
+D$4tu
+T$Dv\
+9D$Hw@
+9D$HrE
+5UUUU
+5UUUU
+UWVS
++D$ 
+d$L[^_]
+;L$ 
++D$`
+T$,)
+d$L[^_]
+5UUUU
++L$$
+UWVS
+[^_]
+[^_]
+5UUUU
+UWVS
+d$,1
+[^_]
+d$,1
+[^_]
+UWVS
+d$<[^_]
+d$<[^_]
+5UUUU
+v=f1
+5UUUU
+5UUUU
++T$P
+UWVS
+T$$1
+w7;D$
+s19D$
+L$$u
+d$L[^_]
+5UUUU
+UWVS
+D$ u
+d$L[^_]
+5UUUU
+t$@tK
+5UUUU
+T$D;
+D$ %
+UWVS
+d$,[
+t$Xf
+T$gu
+9t$@
++L$D
+|$H.
+|$Hl
+|$Hh
+|$Hs
+|$Hc
+|$Hp
+|$Hi
+|$Hd
+|$Ho
+|$Hu
+|$Hx
+|$HX
+|$H%
+|$Htt
+|$Hz
+|$Hs
+t$49t$H
++t$H
+t$hi
+D$l~}
+NT$0
+L$8)L$0
++t$H
+t$hi
+NT$4
+L$0)L$4
++|$@
+[^_]
++T$D
+|$Hl
+D$g%
+[^_]
+|$Ho
+|$Ho
+D$p-
+|$HX
+9l$8
+L$T9L$H
+D$H)
+|$Ho
+D$p%
+D$p0
+D$qx
+9L$Tt
+L$T;L$H
++T$H
+9T$ 
+9l$8
+;L$8t
+t$H1
+D$r0
+UWVS
+[^_]
+UWVS
+[^_]
+d$@[^_
+d$@[^_
+UWVS
+d$,1
+[^_]
+|$Dt
+t&;l$H}h
+r@tm
+8/t#
+UWVS
+t*9l$8
+[^_]
+|$(uZ
+D$<"u1
+BBBB
+BBBB
+BBBB
+BBBB
+BBBB
+BBBB1
+UWVS
+d$,[
+UWVS
+D$df
+;D$`
+;D$`u
+UWVS
+UWVS
+9l$ 
+D$,t
+[^_]
+d$([
+d$$[^
+d$$1
+D$$c
+D$%o
+D$&m
+D$'.
+D$(k
+D$)a
+D$*b
+D$+a
+D$,m
+D$-.
+D$.m
+D$/a
+D$0r
+D$1v
+D$2e
+D$3l
+D$4b
+D$5a
+D$6t
+D$7t
+D$8l
+D$9e
+D$$c
+D$%o
+D$&m
+D$'.
+D$(k
+D$)a
+D$*b
+D$+a
+D$,m
+D$-.
+D$.m
+D$/a
+D$0r
+D$1v
+D$2e
+D$3l
+D$4b
+D$5a
+D$6t
+D$7t
+D$8l
+D$9e
+UWVS
+;(tY
+9D$8
+Gt$4
+UWVS
+/sys
+tem/
+bin/f
+9D$\
+d$<[
+0t6;
+/sys
+tem/
+bin/f
+Ep/datf
+UWVS
+/sys
+tem/
+bin/f
+d$,[^_]
+0t2;
+/sys
+tem/
+bin/f
+Gp/datf
+UWVS
+/sys
+tem/
+bin/f
+9D$|
+d$\[
+;t$(u
+it$8
+0t2;
+/sys
+tem/
+bin/f
+Gp/datf
+UWVS
+/sys
+tem/
+bin/f
+[^_]
+;l$4u
+il$<
+0t2;
+D$0f
+/sys
+tem/
+bin/f
+Ap/datf
+UWVS
+/sys
+tem/
+bin/f
+[^_]
+0t2;
+/sys
+tem/
+bin/f
+Gp/datf
+UWVS
+[^_]
++D$,=
+|$$O
+0t>;
+D$$-
+UWVS
+D$,1
+d$\[^_]
+;l$4u
+iL$<
+0t2;
+[^_]
+UWVS
+[^_]
+l$8v(
+UWVS
+d$,[^_]
+d$([
+;Jl|
+D$@f
+9~Hr
+P;VH
+;nHw|
+UWVS
+d$,[^_]
+d$,[^_]
+9D$@
+<wtn<at"
+L$$	
+F u'
+t$(tU
+T$ f
+T$0f
+UWV1
+[^_]
++D$,
+D$\1
+uJf	N
+D$01
+l$T=
+D$/uh
+[^_]
+D$@%
+T$ 9T$
+V\xE
+;Vl|
+;Jl|
+l$\t
+D$T1
+UWVS
+Degas are we not drawn onward no In union drawn onward to new eras aged
+::t 
+d$L[^_]
+d$L[^_]
+::t"
+DD$(
+T$81
+UWVS
+T$p1
+;t$<
+|$$+|$4
++L$$
++D$4
+L$0f
++L$,9D$$
+;T$ 
+|$09|$
+T$4+T$$
++D$4
+D$,~o
++L$(9D$$
+;T$,
+|$09|$
+D$4+D$$
+[^_]
++D$4
+t$41
++L$$
+d$\[
+[^_]
+::t!
+9D$<
+9D$<
++D$4
+D$,~u
++L$$9D$8
+t$,9t$ 
+;T$0u
+D$4)
+L$ +L$4
+L$4+L$P;L$
++L$X9
+9D$X
+9t$X
+T$41
+9t$ 
+9t$ 
+|$T(
+|$X1
+9t$X
+d$@^_]
+l$P)
++T$(
+9D$0
+T$09T$Ps{
+;l$P
+;l$P
+t$ 9t$0
+d$@^_]
+L$P9L$ v{
+;l$P
+;l$P
+t$(9t$ 
+d$@^_]
+Hl$P
+9t$ 
+t$(+t$X
+D$ t
+UWVS
+D$@%
+[^_]
+D$@%
+UWVS
+UWVS
+1^_]
+[^_]
+|$4u(
+[^_]
+[^_]
+UWVS
+T$ !
+T$$1
+#L$$3L$
+D$,3D$4
+D$\3D$L1D$4
+D$03D$8
+D$`3D$P1D$8
+3D$,
+D$(3D$T1D$,
+T$@3T$0
+T$43T$X1T$0
+t$D3t$<
+t$83t$d1t$<
+D$H3D$@
+D$,3D$\1D$@
+L$h1
+D$@1
+T$L3T$D
+T$03T$`1T$D
+T$P3T$H
+T$<3T$(1T$H
+D$T3D$L
+D$@3D$41D$L
+D$X3D$P
+D$D3D$81D$P
+T$d3T$T
+T$H3T$,1T$T
+T$\3T$X
+T$L3T$01T$X
+D$`3D$d
+D$P3D$<1D$d
+D$(3D$\
+D$T3D$@1D$\
+T$43T$`
+T$X3T$D1T$`
+T$83T$(
+T$d3T$H1T$(
+D$,3D$4
+D$\3D$L1D$4
+D$03D$8
+D$`3D$P1D$8
+L$<3L$,
+L$(3L$T1L$,
+L$@3L$0
+L$43L$X1L$0
+l$D3l$<
+l$83l$d1l$<
+T$h3t$@
+t$,3t$\1t$@
+3L$`
+|$L3|$D1
+D$P3D$H
+D$<3D$(1D$H
+D$h1
+L$H1
+T$@3t$L3T$41
+#T$l!
+T$X3T$P
+T$D3T$81T$P
+D$P!
+D$d3D$T
+D$H3D$,1D$T
+D$T	
+p3D$0
+l$\3l$X1
+#D$h!
+T$`3D$<3T$d1
+D$l	
+l$l!
+p3T$\
+3T$@1T$\
+#T$l
+D$\	
+T$43T$`
+T$X3T$D1T$`
+T$h	
+l$h!
+|$`3l$(
+|$d3|$H
+T$l1
+#|$h!
+L$,3L$4
+3L$L1L$4
+l$l!
+L$03L$8
+L$`3L$P1L$8
+#L$l	
+3L$,
+L$(3L$T1L$,
+L$h	
+l$h!
+t$,3l$0
+t$43t$X1
+#t$h!
+D$D3D$<
+D$83D$d1D$<
+D$H3D$@
+D$,3D$\1D$@
+D$@#D$l
+D$L3D$D
+D$03D$`1D$D
+l$h	
+T$<-$C
+3l$H3T$(1
+#T$h!
+|$T3T$43|$L1
+|$L!
+D$X3D$P
+D$D3D$81D$P
+D$P	
+#D$l
+3D$T
+D$H3D$,1D$T
+D$T!
+|$l3D$0
+|$\3|$X1
+l$`3l$d
+l$P3l$<1l$d
+3l$l
+l$(3l$\
+l$T3l$@1l$\
+D$43D$`
+D$X3D$D1D$`
+T$h1
+D$`1
+D$83D$(
+D$d3D$H1D$(
+T$,3T$4
+T$\3T$L1T$4
+T$03T$8
+T$`3T$P1T$8
+D$<3D$,
+D$(3D$T1D$,
+D$@3D$0
+D$43D$X1D$0
+T$D3T$<
+T$83T$d1T$<
+T$H3T$@
+T$,3T$\1T$@
+D$L3D$D
+D$03D$`1D$D
+3D$H
+D$<3D$(1D$H
+T$T3T$L
+T$@3T$41T$L
+T$X3T$P
+T$D3T$81T$P
+L$d3L$T
+L$H3L$,1L$T
+|$\3|$X
+|$L3|$01|$X
+l$X1
+T$P3T$<
+l$`3l$d
+T$03T$,1
+3T$@
+D$(3D$\3l$H
+T$01
+D$43|$D3D$`1
+D$83D$(1
+d$|[^_]
+UWVS
+9D$H
+;L$H
+)D$H
+d$,[^_]
+UWVS
+L$()
+d$<[^_]
+UWVS
+d$,[^_]
+UWVS
+d$,[^_]
+|$$t)
+UWVS
+[^_]
+d$,[
+UWVS
+|$\=
+[^_]
+P$+P(
+P$+P(
+D$81
+UWVS
+[^_]
+[^_]
+d$<[^_]
+t$4tQ
+UWVS
+D$$1
++L$,
+T$r1
+D$(9
+}"9l$(
+9l$(~
+9|$,
++D$8;
+[^_]
+[^_]
+9D$\
+UWVS
+.u{;l$
+d$<[^_]
+t$d1
+L$ tE
+L$@+T$,9L$$th
+D$@9D$$t
+l$d1
+d$,[^_]
+7;t$
+d$,[^_]
+d$,[^_]
+<-t?<[
+d$,[^_]
+d$,[^_]
+T$,+T$(
+;D$8
+D$(9D$8
+D$09D$(s
+d$l[^_]
+T$((Q
+L$,	
+T$(1
+"L$(
+T$D9
+9l$4
+L$8:M
+9l$,t
+l$@1
+|$@9|$4
+l$Lve
+|$01
+l$( 
+;D$<u
+9D$,
+T$,+T$D
+d$l[^_]
+d$l[^_]
+9D$<
+9|$4
+t$(;D$(t
+9t$8
+l$01
+;D$<u
+l$01
+D$^]
+9|$0u
+9t$,
+@9D$0
+D$8=
+L$ tv
+9|$4
+9l$$
+L$,;t$,tY
+D$>]
+T$$9l$$
+d$L[^_]
+L$,sN
+l$$9
+T$$v
+d$L[^_]
+d$L[^_]
++L$ 
+d$L[^_]
++T$ 
++D$ 
++L$ 
++T$ 
+d$L[^_]
+|$(+|$ 
+L$ +D$ 
++L$ 
+t$(+t$0
++t$ 
++D$ 
+d$L[^_]
++T$ 
++D$ 
+D$$=
+D$(=
+|$ ;L$ 
+D$=]
+d$L[^_]
+d$L[1
+d$L[^_]
+D$$+D$
+d$L[1
+D$<^
+D$>]
+T$ 9
+T$$9
+D$(=
+T$$9|$$
+D$ f1
+I9L$
+D$ =
+D$,=
+D$ =
+D$ =
+r39T$
+d$,[^_]
+1;t$
+;L$@u
+9|$,
+d$\[^_]
+d$\[^_]
+D$L^
+D$N]
+L$4;T$4
+D$M]
+9|$,
+9|$,
+9|$,
+;D$0
+L$4u
+9D$0
++T$,
++D$,
++L$,
++D$,
++D$,
++T$,
++D$,
++l$,
++L$,
++T$,
++D$,
+9|$,
+9l$0
+l$49
+D$8=
+D$<=
+D$4=
+;|$0
+D$<=
+D$4=
+D$4=
+D$4=
+t$ 9u
+:|t{
++|$$
+d$<[^_]
+d$<[^_]
+t$$+T$
+D$(=
+D$$=
++D$ 
++D$ 
+D$(=
+UWVS
+T$@%
+T$8t^
+L$D8
+;T$8u
+D$@1
+[^_]
+L$@;y@v
+ED$4
+UWVS
+[^_]
+UWVS
+;T$`
+D$h-
+D$4f
+9T$`u
+[^_]
+ht0v&=
+pt'=
+9T$`
+[^_]
+D$(u
+|$(t
+;L$h
+UWVS
+L$h;|$`
+9l$`
+[^_]
+htJv@
+9l$`
+|$<	
++l$(
+;L$h
+;L$X
+T$$=
+[^_]
+;L$X
+|$,_
+|$,_
+;L$X
+;l$P
+;L$X
+;L$X
+;L$X
+T$$%
+;l$P
+;L$X
+D$ v
+9l$ 
+;L$X
+;L$X
+;l$P
+;L$X
+[^_]
+;L$X
+;L$X
+T$()
+l$ %
+D$$%
+D$P)
+@9D$$t
+D$$%
+T$$1
+;l$P
+T$$1
+;L$X
+T$$=
+[^_]
+;L$X
+|$,_
+|$,_
+;L$X
+;l$P
+;L$X
+;L$X
+;L$X
+T$$%
+;l$P
+;L$X
+D$ v
+9l$ 
+;L$X
+;L$X
+;l$P
+;L$X
+[^_]
+;L$X
+;L$X
+T$()
+l$ %
+D$$%
+D$P)
+@9D$$t
+D$$%
+T$$1
+;l$P
+T$$1
+L$(9P
+ED$$
+|$ _
+|$ _
+D$P9D$
+d$<[^_]
+L$(9P
+|$ _
+|$ _
+DL$$
+L$P9L$
+d$<[^_]
+;t$X
+T$ r
+t$,9t$X
+;D$Pu
+t$,9t$X
+d$<[^_]
+;D$Pu
+;D$Pu
+L$ +M
+L$ +M
+d$|[^_]
+D$ tv9L$
+|$,;l$
+T$89BDs
+T$P9
+D$P)
+9FDs
+[^_]
+d$|[^_]
+L$@1
+p09P
+L$X9L$T
+HtXwf
+9t$Xtu
+`t!v
+9t$Xu
+Dt$ ;D$$
+t$P9t$
+d$<[^_]
+;t$X
+T$ r
+t$,9t$X
+;D$Pu
+t$,9t$X
+d$<[^_]
+;D$Pu
+;D$Pu
+L$ +M
+L$ +M
+L$X9L$T
+HtYwg=
+8tP=
+9l$X
+`t v
+9l$Xu
+|$ _
+|$ _
+T$P9T$
+;D$$
+EL$(
+d$<[
+L$(1
+d$<[^_]
+UWVS
+d$|[^_]
+D$ ts;l$
+t$,;|$
+T$<9BDs
+T$T9
+L$Dv\
+9FDs
+d$|[^_]
+[^_]
+L$D1
+UWVS
+d$,[^_]
+d$,[
+UWVS
+d$,[^_]
+UWVS
+[^_]
+XD$ 
+XD$(
+d$4[^
+UWVS
+UWVS
+|$8t}
+[^_]
+[^_]
+UWVS
+l$8tt
+[^_]
+[^_]
+t$LtY
+UWVS
+[^_]
+|$$tQ
+|$8tU
+??? 
+??? 
+?? ?
+?:??
+:?? 
+????f
+??? 
+??? 
+?? ?
+?:??
+:?? 
+????f
+[^_]
+[^_]
+[^_]
+UWVS
++D$09
+T$0)D$<
+9D$,
+9D$4
+[^_]
+T$$k
++T$$i
+9D$4
+)|$ 
+L$D1
+T$$k
++T$$i
+)L$ )
+kD$ di
+D$ )
++D$ 
+9D$,
++D$09
+|$<;
+kD$,<
+L$@f
+D$x+D$$u6
+D$t+D$8u,
+D$p)
+D$l+D$@u
+D$h+D$0u
+D$d+D$<
+T$`9
+T$`1
+D$<;
+L$L9
+D$`+B
+L$$;L$xu
+Eleele
+T$89T$tu
+L$4;L$pu
+T$@;T$lu
+L$0;L$h
+L$<;L$d
++D$<
+9D$H
+[^_]
+D$ 9D$$
+;t$ 
+[^_]
+9D$(
+UWVS
+d$L[^_]
+iD$(
+T$4)D$ 
+T$ k
++T$ i
+l$ )
+l$(t
+|$ l
++D$,
+D$,t`
+|$ m
+)D$ 
+|$ l
+l$4u
+T$09P
++D$,)
+|$d)
++D$,)
+;D$H
+t&;l
+	w=1
+	wy1
+	w.1
+t$\<,t
+l$p)
+gfff
+iL$x
+L$|i
+|$@1
+D$ ;D$ 
+L$D1
+|$@u0
+|$x<
+t$d1
+t$,u:
+|$|<
+t$X9t$,
+DD$(
+[^_]
+	ww1
+DL$X
+T$Pu
++D$P
+l$(+l$ 
+ED$ 
+;T$$
+D$ u
+t$ 1
+T$|)
+t$ 1
+T$x)
++L$\
+L$X<:
+L$ 9L$$t
+t$ 9t$(t
+D$(9
+;D$ 
+l$$1
+[^_]
+|$(1
+9L$ 
+;t$T|
+9|$ 
+t$8tO
+UWVS
+T$,~G
+;D$$
+;D$$u
+D$,1
+;l$,u
+d$<[^_]
+UWVS
+D$(1
+;l$(u
+d$<[^_]
+;D$ 
+;D$ u
+T$(~8
+;D$ t8
+t$(1
+;l$(u
+UWVS
+D$(1
+;l$(u
+[^_]
+9D$ 
+9D$ u
+T$(~8
+;D$ t8
+D$(1
+;l$(u
+UWVS
+L$(1
+;l$(u
+L$<1
+[^_]
+;D$ 
+;D$ u
+T$(~8
+;D$ t8
+D$(1
+;l$(u
+UWVS
+D$(1
+;l$(u
+d$<[^_]
+9D$ 
+9D$ u
+T$(~8
+;D$ t8
+t$(1
+;l$(u
+UWVS
+D$(1
+;l$(u
+d$l[^_]
+9D$ 
+9D$ u
+T$(~8
+;D$ t8
+D$(1
+;l$(u
+UWVS
+L$(1
+;l$(u
+[^_]
+;D$ 
+;D$ u
+T$(~8
+;D$ t8
+D$(1
+;l$(u
+UWVS
+D$(1
+;l$(u
+[^_]
+9D$ 
+9D$ u
+T$(~8
+;D$ t8
+L$(1
+;l$(u
+UWVS
+D$(1
+;l$(u
+d$<)
+9D$ 
+9D$ u
+T$(~8
+;D$ t8
+D$(1
+;l$(u
+UWVS
+L$(1
+;l$(u
+;t$P}i
+;|$P}
+;|$P|
+d$<[^_]
+;L$P~
+9D$ 
+9D$ u
+T$(~8
+;D$ t8
+D$(1
+;l$(u
+UWVS
+[^_]
+9D$$
+[^_]
+UWVS
+D$D9
+T$(9
+D$0;T
+;t$D
+t$;t
+D$D9
+[^_]
+;t$D|
+UWVS
+[^_]
+L$<v1
+d$,[
+[^_]
+L$D-l
+SQRV
+^ZY[
+SQRVW
+_^ZY[
+SQRV
+^ZY[
+SQRVW
+_^ZY[
+SQRV
+^ZY[
+SQRV
+^ZY[
+SQRVW
+_^ZY[
+SQRVW
+_^ZY[
+SQRVW
+_^ZY[
+SQRV
+^ZY[
+SQRVW
+_^ZY[
+SQRVWU
+]_^ZY[
+SQRV
+^ZY[
+SQRVW
+_^ZY[
+SQRV
+^ZY[
+SQRV
+^ZY[
+SQRVW
+_^ZY[
+SQRV
+^ZY[
+SQRV
+^ZY[
+SQRVW
+_^ZY[
+SQRV
+^ZY[
+SQRVW
+_^ZY[
+SQRV
+^ZY[
+SQRVW
+_^ZY[
+SQRVW
+_^ZY[
+SQRV
+^ZY[
+SQRV
+^ZY[
+SQRV
+^ZY[
+SQRV
+^ZY[
+SQRV
+^ZY[
+SQRV
+^ZY[
+SQRV
+^ZY[
+SQRV
+^ZY[
+SQRV
+^ZY[
+SQRV
+^ZY[
+SQRV
+^ZY[
+SQRVW
+_^ZY[
+SQRVWU
+]_^ZY[
+SQRV
+^ZY[
+SQRV
+^ZY[
+SVWU
+]_^[
+uT@B
+uH@B
+u<@B
+u0@B
+u$@B
+@AJt}
+ui@AJtn
+uZ@AJt_
+uK@AJtP
+u<@AJtA
+u-@AJt2
+@AJt#
+@AJt
+o_ f
+og0f
+o_ f
+og0f
+o_ f
+og0f
+o_ f
+tO0f
+o_ f
+oA0f
+oQ f
+oA0f
+oQ f
+oY f
+oa0f
+ vhf
+oA0f
+oQ f
+oA0f
+tI f
+(p0f
+(p0f
+(p0f
+oV f
+oV0f
+oV f
+N09O0
+N49O4
+N89O8
+N<9O<
+oV f
+vW f
+oV0f
+vW0f
+oV f
+oV0f
+N 9O 
+N$9O$
+N(9O(
+N,9O,
+oV0f
+oo f
+vn f
+oO0f
+vN0f
+oV f
+vW f
+oO f
+vN f
+oO0f
+vN0f
+oO f
+vN f
+oV f
+N 9O 
+N$9O$ux_^
+N(9O(uc_^
+N,9O,uX_^
+N09O0u=_^
+N49O4u(_^
+N89O8u
+N<9O<u
+x$;T$,w4
+D$(;D$,v
+D$(;D$,v
+D$(;D$,v
+UWVS
+[^_]
+:L$$
+t$$tF
+;D$(v
+D$(9D$,r
+D$(9D$,r
+9D$$w
+UWVS
+t$4u
+[^_]
+D$(;D$,v
+|$$1
+D$$;D$,v
+D$$;D$,v
+d$8[
+d$81
+[^_]
+[^_]
+[^_]
+UWVS
+d$L[^_]
+ED$4
+T$;t
+|i8L$;|c
+3D$0
+9T$,
+OT$4
+UWVS
+d$\[^_]
+|$(/
+|$(/
+t_<*
+<[tl
+t$4)
+UWVS
+[^_]
+T$$9
+;l$$
+ET$ 
+T$ )T$
+;l$$
+L$ )D$
+t$ +t$
+;l$$
+[^_]
+T$P1
+T$ )T$
+T$ 1
+T$P1
+xI;D$
+D$ )T$
+T$P1
+d$([
+d$([
+UWVS
+[^_]
+UWVS
+[^_]
+UWVS
+4$)|$
+d$,[^_]
+d$,[^_]
+UWVS
+[^_]
+[^_]
+D$df
+D$$)
+D$,)
+F8+D$()
+9l$ |
+9T$ 
+#l$ 
+T$ f
+F0+n
+D$@%
+|$()
++D$()
+V0+F
+V0+F
+UWVS
+L$ )
+D$$;l$$
+)t$$
+t$ )
+d$<[^_]
+l$$f
+t$ )
++D$$
+D$ )
+l$$|
+D$$~3
+d$<[
+)t$$
+UWVS
+[^_]
+;|$0u
+[^_]
+;T$,t
+d$\[^_]
+D$@9L$0
+D$D9
+9L$0
+D$D9
+D$@9L$0
+L$4@
+9L$0
+D$D9
+9L$0
+D$D9
+D$@9L$0
+9L$0
+L$4 
+D$@9L$0
+D$@9L$0
+9L$0
+D$@9L$0
+D$@9L$0
+9L$0
+D$@9L$0
+9|$0
+L$4 
+9L$0
+D$@9L$0
+9L$0
+D$@9L$0
+D$@9L$0
+D$8)
+9L$0
+9L$0
+D$@9L$0
+;L$D
+9L$0
+;l$D|
+L$(9l$0
+t$x+
+t$x+
+D$|x
+DD$|
+[^_]
+|$df
+.D$X
+L$,u
+|$df
++D$p
+|$de
+|$df
+|$T9
+D$dg
+ED$p
++D$p9
+D$dx
+t$x+
+t$x9
+|$x9
+T$T)
+DD$|
+[^_]
+|$de
+D$Xf
+t$T9
+D$Xf
+T$p;t$T
++t$T
+D$p)
++|$p
++D$p
+.D$X
+|$dg
+D$dE
+|$T)
+D$dg
+Tacocat
+gfff
+D$de
+UWVS
+[^_]
+|$0z
+T$ v.
+[^_]
+ED$(
+t$$1
+t$$t\
+ED$4
+t$<t7
++D$0
+D$, 
+D$,@
+D$(+D$0
+ED$(
+;t$(
+ED$(
+D$(tn
+9T$(
+L$,f
+L$$1
+D$0*T$$
+D$0t
+	T$,
+L$, 
+L$,@
+T$0+D$,
+9L$$
++T$$
+T$(+D$(
+D$,@u?
+;L$0
+;t$0u
+L$09
+T$<f
+UWVS
+T$@9W
+d$,[^_]
+d$,[^_]
+UWVS
++D$$
+[^_]
+D$(+l$
+UWVS
++D$ 
+[^_]
+[^_]
++D$P
+d$<[^_]
+UWVS
+d$,1
+[^_]
+;|$(
+T$,1
+T$(9T$<
+T$L;D$L
+L$Ls
+L$49
+L$,tX
+T$D1
+9T$0w
+D$(t^
+L$81
+9L$0w
+D$49D$@
+d$\[^_]
+d$\[^_]
+L$$t
+9T$,
+|$D	
+t$09D$p
+L$p)
+T$49T$,t|
+D$(1
+9D$(
+T$(;P
+T$89T$0
+God A red nugget A fat egg under a dog
+d$\[^_]
+T$49T$,t|
+D$(1
+9D$(
+T$(;P
+T$@9T$0
+;|$4
+;|$4
+UWVS
+[^_]
+d$<[
+L$ 1
+D$  
+)T$ 
+UWVS
+T$Pt
+T$4u
+d$l[^_]
+T$P9T$Ht
+9T$8
+D$P9D$D
+D$09
+L$Ts
+L$Tf
+9|$,
+T$$tX
+T$@1
+9T$(w
+D$ t^
+L$@1
+9L$(w
+L$,9L$<
+d$l[^_]
+T$P9
+T$P9T$@
+D$,9
+T$Ts
+9L$<
++D$8
+L$(ta
+T$<1
+9T$$w
+D$ ta
+T$<1
+9T$$w
+D$09D$$
+|$H1
+9D$$
+T$$;P
+T$P9T$Ht-
+;|$P
+T$P9T$8
+T$P9T$H
+D$8t
+[^_]
+Et91
+t99|$l
+9D$|
+L$Hs 
+|$x1
+XD$p
+9t$lt2
+D$D1
+D$@+
+XD$p
+|$D1
+|$<1
+D$`)
+:98t
+L$ t
+t$x)
+9|$t
+[^_]
+L$tf
+t$x)
+T$d~
+D$h 
+)|$h1
+L$h	
+DD$d
+T$h~
+DD$h
+D$t9
+[^_]
+9D$ps&
+9D$ps.
+T$H)
+T$D)
+T$h9
+D$h0
+9D$ps/
+9D$ps$
+D$h0
+|$h9
+D$h0
+|$h9
+ND$h
+T$(t^
+L$$t
+L$$t
+UWVS
++t$h
+D$,9D$$|
+T$(9T$ 
+Dl$`
+d$L[^_]
+D$h1
+T$ 9T$(
+D$$9D$,
+;|$4~
+D$$3T$(3D$,	
+;|$4~
+D$$3T$(3D$,	
+T$$+D$ 
+D$(4333
+D$,333
+UWVS
+~'9D$
+Dt$@
+d$,[^_]
+UWVS
+Dt$@
+d$,[^_]
+UWVS
+D$h1
+T$41
+;t$(
+;L$h
+;|$,w
+;L$8~
+D$,1
+Dl$`
+d$L[^_]
+UWVS
+[^_]
+2^_]
+UWVS
+[^_]
+UWVS
+[^_]
+[^_]
+UWVS
+[^_]
+UWVS
+[^_]
+UWVS
+[^_]
+UWVS
+[^_]
+t$ =
+*L$ 
+UWVS
+[^_]
+UWVS
+L$ =
+*L$ 
+[^_]
+UWVS
+9|$(
+[^_]
+UWVS
+d$<[^_]
+t$$1
+T$@t
+T$D1
+UWVS
+[^_]
+D4 /
+UWV1
+[^_]
+d$8[
+d$8[
+d$x[
+L$H1
+3T$d
+A03D$`	
+T$Hf
+T$H1
+L$$u
+;D$(
+T$Hf
+[^_]
+L$ )
+D$@f
+D$ 9D$ 
+T$Df
+D$<f
+T$$f
+;A,u
+;Q0u
+T$ 9V
+T$,9V
+T$Hf
+[^_]
+D$4f
+T$Hf
+[^_]
+T$Hf
+T$Hf
+G03T$d3D$`	
+UWVS
+[^_]
+D$,f
+D$,f
+;B,u
+;J0u
+[^_]
+[^_]
+T$0t$
+UWVS
+[^_]
+UWVS
+[^_]
+9V0tj
+[^_]
+F03T$$3D$ 	
+F,3T$|3D$x	
+3D$ 	
+D$|1
+L$x1
+xo;H,u
+;h0u
+x!;H,u
+;p0u
+;P,u
+;H0u
+G% u|
+I|$ 
+D$ =
+D$ =
+|$ P
+d$8[
+	|$ 
+	|$ 
+	|$ 
+QZ^&
+	D$ 
+#D$ #L$
+$3T$ 
+t$ 3t$
+T$ 3D$
+W43D$ 
+t$ 	
+d$$^_]
+UWVS
+l$D9
+L$@)
+d$,[^_]
+d$|[^_]
+UWVS
+;D$T
+8T$/
+L$ 1
+8T$/
+l$T)
+t$ 9
+d$<[^_]
+$AMVS
+d$([
+R9l$
+d$,[^_]
+D$4~
+D$Xc
+D$Yo
+D$Zm
+D$[.
+D$\T
+D$]i
+D$^a
+D$_n
+D$`m
+D$aa
+D$b.
+D$Bc
+D$Co
+D$Dm
+D$E.
+D$Ft
+D$Gi
+D$Ha
+D$In
+D$Jm
+D$Ka
+D$Mc
+D$No
+D$Om
+D$P.
+D$Qc
+D$Ro
+D$Sm
+D$T2
+D$Uu
+D$Vs
+D$dn
+D$ee
+D$ft
+D$g.
+D$hi
+D$ia
+D$jr
+D$ko
+D$lu
+D$mn
+D$nd
+D$|c
+D$}o
+D$~m
+D$pc
+D$qo
+D$rm
+D$s.
+D$th
+D$uc
+D$vg
+D$w.
+D$xc
+D$yo
+D$zk
+UWVS
+D$J/
+D$Ks
+D$Ly
+D$Ms
+D$Nt
+D$Oe
+D$Pm
+D$Q/
+D$Rb
+D$Si
+D$Tn
+D$U/
+D$Vn
+D$Wo
+D$Xx
+D$p/
+D$qs
+D$ry
+D$ss
+D$tt
+D$ue
+D$vm
+D$w/
+D$xl
+D$yi
+D$zb
+D${/
+D$|v
+D$}b
+D$~o
+D$Z/
+D$[s
+D$\y
+D$]s
+D$^t
+D$_e
+D$`m
+D$a/
+D$bl
+D$ci
+D$db
+D$e/
+D$fv
+D$gb
+D$ho
+D$ix
+D$js
+D$kf
+D$l.
+D$mk
+D$no
+D$-/
+D$.d
+D$/e
+D$0v
+D$1/
+D$2v
+D$3b
+D$4o
+D$5x
+D$6u
+D$7s
+D$8e
+D$9r
+D$;/
+D$<d
+D$=e
+D$>v
+D$?/
+D$@v
+D$Ab
+D$Bo
+D$Cx
+D$Dg
+D$Eu
+D$Fe
+D$Gs
+D$Ht
+D$ c
+D$!o
+D$"m
+D$#.
+D$$t
+D$%e
+D$&n
+D$'c
+D$(e
+D$)n
+D$*t
+D$+.
+[^_]
+[^_]
+d$t[^
+d$t[^
+d$([
+9D$x~E
+UWVS
+[^_]
+d$([
+d$([
+UWV1
+[^_]
+UWVS
+d$,[^_]
+UWVS
++D$(+T$,
+[^_]
+d$<[^_]
+[^_]
+d$([
+d$([
+d$([
+UWVS
+t$@9
+d$$[^_]
+l$ ;E
+L$):M
+l$ ;E
+[^_]
+l$ ;E
+D$,;
+D$,;
+d$,[^_]
+[^_]
+d$,[^_]
+PROP
+D$L|
+PROP
+vOCEt
+vOCE
+4$u@
+UWVS
+|$@u
+d$,[^_]
+UWVS
+D$<c
+D$=o
+D$>m
+D$?.
+D$@n
+D$Ae
+D$Bx
+D$Co
+D$Dn
+D$E.
+D$Fd
+alula
+D$Ga
+D$H3
+D$Xc
+D$Yo
+D$Zm
+D$[.
+D$\w
+D$]e
+D$^l
+D$_l
+D$`g
+D$aa
+D$bm
+D$ce
+D$ds
+D$e.
+D$fs
+D$gs
+D$ic
+D$jo
+D$km
+D$l.
+D$ma
+D$nn
+D$oi
+D$pp
+D$ql
+D$re
+D$sx
+D$t.
+D$um
+D$va
+D$wg
+D$xi
+D$yr
+D$ze
+D${c
+D$|o
+D$Jc
+D$Ko
+D$Lm
+D$M.
+D$Nn
+D$Oe
+D$Px
+D$Qo
+D$Rn
+D$S.
+D$Ta
+D$Ux
+D$Ve
+L$ 9
+L$ 9
+D$1c
+D$2o
+D$3m
+D$4.
+D$5T
+D$6i
+D$7a
+D$8n
+D$9m
+D$:a
+[^_]
+[^_]
+arme
+abi-
+3866f
+1966f
+[^_]
+4500f
+2872f
+T$~v
+T$ 9
+T$~v
+T$ 9
+T$ 9
+L$ 9
+T$ 9
+T$ 9
+L$ 9
+L$ 9
+L$ 9
+L$ 9
+L$ 9
+andr
+oid 
+4.4.f
+moto
+4500f
+moto
+rola
+andr
+mtp,
+shamf
+4.4.f
+msm8
+Nexu
+UWVS
+T$$~=
+[^_]
+UWVS
+[^_]
+t$(f
+[^_]
+UWVS
+[^_]
+[^_]
+UWVS
+[^_]
+UWVS
+[^_]
+d$,1
+UWVS
+[^_]
+UWV1
+[^_]
+UWVS
+L$Piq
+d$<[^_]
+)D$ 
+UWVS
+;l$4
+D$41
+|$,1
+[^_]
+UWVS
+;l$4
+D$41
+|$,1
+[^_]
+UWVS
+ID$0
+D$ l
+d$L[^_]
+D$ E
+D$4<
+D$<<
+D$ F
+d$L[^_]
+UWVS
+d$|[^_]
+it$4
+kD$0<
+Q(+D$(
+D$8<
+D$0<
+D$ 9
+UWVS
+ID$,
+D$ l
+9T$$
+[^_]
+D$ E
+D$0<
+D$8<
+D$ F
+;t$(
+d$L[1
+d$4[^
+d$4[^
+d$([
+d$$1
+;D$,u~
+D$,tb
+;D$,u.
+d$<[^_]
+D$,tU
+;D$,
+[^_]
+9|$4
+T$4)
+T$(tj
+9T$4
+T$0r[
+T$ctb
+L$49L$0
+L$0)
+9L$4
+9T$4
+[^_]
+9D$0
+9L$8
+t$X1
+Ttx~
+Ttv9
+T$T9T$0
+L$T9L$4
+;l$4u
+|$D)
+9D$\
+T$01
+D$@1
+9|$D
+D$@1
+9D$d
+D$D)
+|$H9|$0
+D$D)
+T$(9
+D$@1
+9D$0
+9D$\
+UWVS
+t$<t
+T$$f
+;t$ s1
+[^_]
+UWVS
+d$<[^_]
+d$<[
+UWVS
+(t"9u
+d$,[^_]
+d$,[
+UWVS
+T$,k
+d$<[^_]
+d$L[^_]
+d$L[
+L$ f
+d$L[^_]
+9t$ }V
+UWVS
+[^_]
+UWVS
+[^_]
+UWVS
+[^_]
+UWVS
+[^_]
+UWVS
+[^_]
+D$`u
+;|$d
+UWVS
+[^_]
+[^_]
+[^_]
+UWVS
+[^_]
+[^_]
+[^_]
+UWVS
+[^_]
+;|$(s
+ET$ 
+[^_]
+l$Ht
+d$([
+D$ )
+d$4[^
+d$$[^
+d$$[^
+d$$[^
+d$$[^
+d$([
+UWVS
+	w+1
+<2vm1
+[^_]
+UWVS
+T$dt
+[^_]
+ED$P
+ED$l
+t&;0u
+[^_]
+UWVS
+D$0	
+L$nf
+L$V	
+T$Tf
+L$rf
+L$Z	
+l$hf
+L$^f
+L$\u$
+[^_]
+[^_]
+[^_]
+9L$P~	f
+UWVS
+[^_]
+[^_]
+d$ [^_
+d$ [^_
+;2tD
+d$$[^
+d$$[^
+;2tD
+d$$[^
+d$$[^
+UWVS
+A Santa lives evil at NASA
+[^_]
+L$41
+d$L[
+D$(	1
+D$(	
+t$(9
+t$(9
+UWVS
+gfff
+[^_]
+; er
+ror:
+ unk
+nown
+ LOC
+ RR 
+vers
+UWVS
+[^_]
+UWVS
+[^_]
+UWVS
+T$ < 
+d$<[^_]
+UWVS
+ip6.
+arpa
+ip6.
+[^_]
+UWVS
+d$,[%
+d$,[^_]
+UWVS
+l$H1
+k9T$H~ef
+d$,[^_]
+UWVS
+[^_]
+UWVS
+|$81
+[^_]
+[^_]
+UWVS
+|$H1
+[^_]
+[^_]
+UWV1
+;D$d
+[^_]
+d$L[
+DD$H
+D$,1
+|$,f
+l$8f
+l$8f
+T$vu
+[^_]
+|$vf
+[^_]
+|$vu
+|$v)
+|$vt)f
+T$@f9
+9D$4
+ND$4
+l$8f
+l$8f
+L$|9
+UWVS
+[^_]
+[^_]
+T$`f9
+9t$h
+ND$h
+9t$d
+t$p9t$4
+9l$d
+9l$4rP
+f9D$<u
+D$(f9D$Lu
+T$(<
+9t$h
+ND$h
+D$( 
+D$<9
+T$$u
+[^_]
+L$T=
+D$81
+;t$<u
+l$Lf
+l$Lf
+[^_]
+9t$h
+ND$h
+UWVS
+d$,1
+[^_]
+;8t"
+[^_]
+|$D1
+:92t&
+|$D;W
+UWVS
+D$.;
+[^_]
+[^_]
+[^_]
+UWVS
+9L$4
+[^_]
+f9D$0u
+D$.f9D$2u
+[^_]
+[^_]
+[^_]
+UWVS
+D$Ln
+D$,*
+D$T9
+D$ *
+[^_]
+[^_]
+[^_]
+L$<9M
+D$$9D$ ~
+T$$u
+D$0f
+D$lf;
+f9D$n
+f9D$n
+9L$p
+UWVS
+;D$$r
+9t$ 
+[^_]
+[^_]
+9t$ 
+[^_]
+L$()
+;D$,
+GD$,;D$$r
+UWVS
+t$09t$(t-
+t$49q ~0
+L$(9t$(u
+d$\[^_]
+t$,t
+D$$;
+9D$ 
+	T$<1
+9D$<
+;t$ 
+Gt$ 
+9t$ 
+9t$ 
+9t$ 
+9D$,
+d$<[^_]
+	T$,1
+UWVS
+D$ 	
+l$8th
+T$<9
+[^_]
+t.;u
+[^_]
+D$ 	
+T$89
+[^_]
+;l$0
+CD$0
+l$$9
+D$(;
+l$09l$$
+9D$ 
+9l$$
+9l$$
+9l$$
+l$P9o 
+[^_]
+;l$0
+CD$0
+l$(9
+D$<;
+L$ ;D$ 
+9T$ 
+T$09T$(
+l$ ;L$ 
+9l$ vV
+9l$ r'
+9|$(r
+9|$(w
+9l$ 
+9|$(
+D$0	
+L$ th
+T$L9
+[^_]
+;t$@
+CD$@
+l$89
+D$8;
+|$@9|$4
+9D$0
+9|$4
+9|$4
+9|$4
+[^_]
+[^_]
+|$D9x
+;t$@
+CD$@
+l$89
+D$8;E
+t$ 2U
+L$@9L$4
+|$ ;T$ 
+9|$ 
+9l$4
+9l$4
+9|$ 
+9|$ 
+9l$4
+UWVS
+D$,t
+T$$~M
+T$$~9
+UWVS
+(;0|
+d$,[^_]
+UWVS
+(;0|
+d$,[^_]
+UWVS
+;|$4
+(;2|
+[^_]
+L$$u
+T$(~
+T$$~*
+T$$~
+UWV1
+[^_]
+UWVS
+[^_]
+UWVS
+;0t\
+[^_]
+UWVS
+;(t$
+[^_]
+;D$H
+UWVS
+[^_]
+UWVS
+t%;:t3;j
+t.;h
+[^_]
+UWVS
+[^_]
+;D$H
+l$(u
+9D$4
+UWVS
+d$<[^_]
+L$ v.
+d$,[^_]
+[^_]
+T$@1
+UWVS
+[^_]
+[^_]
+D$X1
+[^_]
+T$<9T$8
+L$8)
+T$8ts
+L$81
+[^_]
+9L$@
+t$L1
+L$@1
+L$01
+T$@1
+D$<x
+D$Tt:=
+D$(1
+[^_]
+T$l1
+9D$,s
+[^_]
+[^_]
+T$49T$0u
+D$,1
+D$,1
+t$l;D$L
+;t$<
+9t$T
++D$T
+D$<%
+D$<f1
+D$lf
+T$Tt
+|$P?
+D$Pt
+D$Pt
+|$P?
+L$<9L$L
+D$L)
+T$Pf
+|$P 
+G$+F$
+[^_]
+D$\1
+[^_]
+[^_]
+[^_]
+d$<[
+[^_]
+[^_]
+UWVS
+D$Cu
+[^_]
+[^_]
+;T$hu
+9L$du
+9T$Ht
+L$H9L$`t
+L$P9
+;D$dt
+;L$Ht
+L$81
+UWVS
+tR<	t
+[^_]
+[^_]
+d$\[
+d$$[^
+[^_]
+L$$x
+D$Xttf
+D$Xf
+D$\ttf
+UWVS
+[^_]
+UWVS
+T$$~"
+l$,1
+[^_]
+d$<1
+[^_]
+UWVS
+[^_]
+d$<1
+[^_]
+UWVS
+;L$8
+9L$8
+D$89
+[^_]
+[^_]
+d$,[^_]
+9T$H
+l$D+D$
+;|$H
+T$D+D$
+9T$H
+l$D+D$
+tL;|$Hs6
+L$D+D$
+d$,[^_]
+UWVS
+[^_]
+UWVS
+;l$T
+;l$ 
+9t$ 
+9D$ 
+9D$ 
+9l$ 
+|$$A
+|$$c
+|$$	
+9D$ vl
+d$<[^_]
+;l$T
+;l$ 
++D$T
+9l$ 
+UWVS
+T$,1
+T$$9T$(
+D$$+D$,
+|$,9|$(
+|$$9|$(
+D$$+D$t=
+d$\1
+[^_]
++L$,
+D$,9D$(
+<.tx
+d$\[^_]
+d$\[
+9T$(
+t@<]tp
+9T$(v'9
+9T$(
+9T$(v
+T$,1
+T$$9T$(
++t$t
+UWVS
+D$H9D$D
+d$,[
++D$D
+d$,[^_]
+UWVS
+L$T9L$X
+T$P9T$X
+T$T+T$P
+t$X1
+t$ 9t$(vy
+489t$Tvp
+9D$Tv:
+t$P	
+;t$Ts
+;t$Pr
+;l$,
+[^_]
++D$X
+|$$+L$X
+UWVS
+T$p1
+d$\[^_]
+9l$0
+L$Et
+T$,9T$8
++D$(=
+D$Ft#
++L$(
+T$<9T$,
+T$H9T$@
+D$ +D$(=
+L$(	
++D$t
+d$\[^_]
+d$\[
+9D$0
++D$t
+UWVS
+|$ c
+|$ 	
+[^_]
+;l$$
+D$,!
+T$$t
+t79l$
+UWVS
+l$0~>
++D$0
+[^_]
+UWVS
+^^^^9
+^^^^
+^^^^
+^^^^
+^^^^
+^^^^
+G ^^^^
+G$^^^^
+G(^^^^
+G,^^^^
+d$,[1
+[^_]
+d$,[
+UWVS
+T$T9V$t
+9D$X
+F(9D$X
+L$$9D$X
+d$<[^_]
++T$$x
+|$T	
+T$\f
+d$<[^_]
+d$<[^_]
+T$<tq
+[^_]
+T$,)
+T$,w$
+[^_]
+|$0v:
+<.tT
++D$ 
+[^_]
++D$ 9l$ 
+UWVS
+9T$ 
++D$ 
+d$<[^_]
+d$<[
+UWVS
+[^_]
+UWVS
+L$0t
+@			
+9t$0
++|$(;
+D$l; 
+|$n~i
+t$4u
+;D$8u
++|$(;
+9t$0
++D$<
+[^_]
+<.t[
+D$l; 
+[^_]
++D$<
+[^_]
+				
+; se
+rial
+				
+; re
+fresf
+				
+; re
+9D$0
+VUUU
+L$,1
+|$0)
+t$,)
+09|$,
+T$0)
+T$4+T$,
+D$,0
+T$,9T$4
+9|$0
+9t$0
++D$,
+9D$0
+reco
+rd t
+oo l
+ong 
+to p
+rint
+(9T$0
+9D$0
+;D$0
+UWVS
+;D$8
+[^_]
+UWVS
+|,-.
+[^_]
+d$ [^_
+;x u
++D$(+t$,y
+d$<[^_]
+UWVS
+D$09
+d$l1
+[^_]
++t$ +|$(
+UWVS
+d$,[^_]
+|$Dt
+D$0t%
+D$`t5
+D$(t
+L$ uU
+D$89
+;T$<}
+UWVS
+1^_]
+[^_]
+ ^_]
+w	;E
+ ^_]
+ ^_]
+u39U
+w	;E
+ ^_]
+pthread_create sched_setscheduler call failed: %s
+pthread_create failed: couldn't allocate thread
+pthread_create failed: couldn't allocate %zd-byte stack: %s
+pthread_create failed: couldn't mprotect PROT_NONE %zd-byte stack guard region: %s
+pthread_create failed: clone failed: %s
+libc
+malloc_debug_finalize
+ro.kernel.qemu
+libc.debug.malloc
+libc.debug.malloc.program
+/system/bin/sh
+libc.debug.malloc.backlog
+malloc_leak_check
+malloc_debug_initialize
+memcheck_initialize
+leak
+malloc
+%s_%s
+%s: dlsym("%s") failed
+free
+calloc
+realloc
+memalign
+malloc_usable_size
+fill
+qemu_instrumented
+ro.kernel.memcheck
+pthread_debug
+pid: %d, tid: %d >>> %s <<<
+Illegal lock attempt:
+--- pthread_mutex_t at %p
+debug.libc.pthread
+libc_malloc
+max system bytes = %10lu
+system bytes     = %10lu
+in use bytes     = %10lu
+stack corruption detected
+%s:%d: assertion "%s" failed
+<unknown>
+(null)
+sign/precision unsupported
+/dev/log/main
+/dev/log/events
+/proc/self/task/%d/comm
+/proc/self/cmdline
+Success
+Hangup
+Unknown error %d
+Unknown
+Real-time
+%s signal %d
+Operation not permitted
+No such file or directory
+No such process
+Interrupted system call
+I/O error
+No such device or address
+Argument list too long
+Exec format error
+Bad file number
+No child processes
+Try again
+Out of memory
+Permission denied
+Bad address
+Block device required
+Device or resource busy
+File exists
+Cross-device link
+No such device
+Not a directory
+Is a directory
+Invalid argument
+File table overflow
+Too many open files
+Not a typewriter
+Text file busy
+File too large
+No space left on device
+Illegal seek
+Read-only file system
+Too many links
+Broken pipe
+Math result not representable
+Resource deadlock would occur
+File name too long
+No record locks available
+Function not implemented
+Directory not empty
+No message of desired type
+Identifier removed
+Channel number out of range
+Level 2 not synchronized
+Level 3 halted
+Level 3 reset
+Link number out of range
+Protocol driver not attached
+No CSI structure available
+Level 2 halted
+Invalid exchange
+Invalid request descriptor
+Exchange full
+No anode
+Invalid request code
+Invalid slot
+Bad font file format
+Device not a stream
+No data available
+Timer expired
+Out of streams resources
+Machine is not on the network
+Package not installed
+Object is remote
+Link has been severed
+Advertise error
+Srmount error
+Communication error on send
+Protocol error
+Multihop attempted
+RFS specific error
+Not a data message
+Name not unique on network
+File descriptor in bad state
+Remote address changed
+Illegal byte sequence
+Streams pipe error
+Too many users
+Destination address required
+Message too long
+Protocol not available
+Protocol not supported
+Socket type not supported
+Protocol family not supported
+Address already in use
+Network is down
+Network is unreachable
+Connection reset by peer
+No buffer space available
+Connection timed out
+Connection refused
+Host is down
+No route to host
+Operation already in progress
+Operation now in progress
+Stale NFS file handle
+Structure needs cleaning
+Not a XENIX named type file
+No XENIX semaphores available
+Is a named type file
+Remote I/O error
+Quota exceeded
+No medium found
+Wrong medium type
+Operation Canceled
+Required key not available
+Key has expired
+Key has been revoked
+Key was rejected by service
+Owner died
+State not recoverable
+Interrupt
+Quit
+Illegal instruction
+Trap
+Aborted
+Bus error
+Floating point exception
+Killed
+User signal 1
+Segmentation fault
+User signal 2
+Alarm clock
+Terminated
+Stack fault
+Child exited
+Continue
+Stopped (signal)
+Stopped
+Stopped (tty input)
+Stopped (tty output)
+Urgent I/O condition
+CPU time limit exceeded
+File size limit exceeded
+Virtual timer expired
+Profiling timer expired
+Window size changed
+I/O possible
+Power failure
+Bad system call
+u%u_i%u
+all_a%u
+u%u_%s
+u%u_a%u
+%s%c%s%c%s
+root
+system
+radio
+bluetooth
+graphics
+input
+audio
+camera
+compass
+mount
+wifi
+install
+media
+dhcp
+sdcard_rw
+keystore
+mdnsr
+media_rw
+drmrpc
+sdcard_r
+clat
+loop_radio
+mediadrm
+package_info
+sdcard_pics
+sdcard_av
+sdcard_all
+shell
+cache
+diag
+net_bt_admin
+net_bt
+inet
+net_raw
+net_admin
+net_bw_stats
+net_bw_acct
+net_bt_stack
+misc
+nobody
+/proc/meminfo
+/proc/stat
+cpu%u%c
+/sys/devices/system/cpu
+MemTotal: %ld kB
+MemFree: %ld kB
+%s/tmp.XXXXXXXXXX
+/data/local/tmp
+/tmp/
+<invalid>
+alnum
+alpha
+blank
+cntrl
+digit
+graph
+lower
+print
+punct
+space
+upper
+xdigit
+tmp.
+TMPDIR
+%s%s%sXXXXXX
+%s%sXXXXXX
+%stmp.%lu.XXXXXX
+POSIXLY_CORRECT
+buffer != 0
+state != 0
+context != 0
+data != 0
+digest != 0
+path != NULL
+command != NULL
+xtype != NULL
+iop != NULL
+longjmp botch.
+[inet_ntoa error]
+src != NULL
+dst != NULL
+%u.%u.%u.%u
+p != NULL
+cs != NULL
+[:<:]]
+[:>:]]
+preg != NULL
+pattern != NULL
+0123456789
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+0123456789ABCDEFabcdef
+alert
+backspace
+newline
+vertical-tab
+form-feed
+carriage-return
+exclamation-mark
+quotation-mark
+number-sign
+dollar-sign
+percent-sign
+ampersand
+apostrophe
+left-parenthesis
+right-parenthesis
+asterisk
+plus-sign
+comma
+hyphen
+hyphen-minus
+period
+full-stop
+slash
+solidus
+zero
+three
+four
+five
+seven
+eight
+nine
+colon
+semicolon
+less-than-sign
+equals-sign
+greater-than-sign
+question-mark
+commercial-at
+left-square-bracket
+backslash
+reverse-solidus
+right-square-bracket
+circumflex
+circumflex-accent
+underscore
+low-line
+grave-accent
+left-brace
+left-curly-bracket
+vertical-line
+right-brace
+right-curly-bracket
+tilde
+errbuf != NULL
+REG_0x%x
+REG_NOMATCH
+regexec() failed to match
+REG_BADPAT
+invalid regular expression
+REG_ECOLLATE
+invalid collating element
+REG_ECTYPE
+invalid character class
+REG_EESCAPE
+trailing backslash (\)
+REG_ESUBREG
+invalid backreference number
+REG_EBRACK
+brackets ([ ]) not balanced
+REG_EPAREN
+parentheses not balanced
+REG_EBRACE
+braces not balanced
+REG_BADBR
+invalid repetition count(s)
+REG_ERANGE
+invalid character range
+REG_ESPACE
+out of memory
+REG_BADRPT
+REG_EMPTY
+empty (sub)expression
+REG_ASSERT
+REG_INVARG
+g != NULL
+m != NULL
+start != NULL
+stop != NULL
+string != NULL
+pmatch != NULL
+preg->re_magic == MAGIC1
+fp != NULL
+key != NULL
+base0 != NULL || nmemb == 0
+compar != NULL
+xseed != NULL
+vkey != NULL
+t != 0
+f != 0
+s != NULL
+find != NULL
+s1 != NULL
+s2 != NULL
+short read
+tzdata
+,M4.1.0,M10.5.0
+posixrules
+localtime
+/data/misc/zoneinfo/tzdata
+persist.sys.timezone
+%02d
+%03d
+%04d
+%m/%d/%y
+%Y-%m-%d
+%H:%M
+%I:%M:%S %p
+%lld
+%H:%M:%S
+%e-%b-%Y
+January
+February
+March
+April
+June
+July
+August
+September
+October
+November
+December
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+%a %b %e %T %Y
+%a %b %e %H:%M:%S %Z %Y
+%a %b %d %H:%M:%S %Y
+fgets buffer size less than 0
+fgets buffer overflow
+memcpy buffer overflow
+memmove buffer overflow
+memset buffer overflow
+strcat buffer overflow
+read beyond buffer
+strcpy buffer overflow
+strlcat buffer overflow
+strlcpy buffer overflow
+strlen read overflow
+strncat buffer overflow
+strncpy buffer overflow
+strrchr read beyond buffer
+vsnprintf buffer overflow
+vsprintf buffer overflow
+/usr/bin:/bin
+PATH
+execvp: 
+: path too long
+lower:]
+upper:]
+/dev/syslog
+<%d>
+%h %e %T 
+[%ld]
+Error %d
+/dev/console
+0123456789ABCDEF
+0123456789abcdef
+inity
+Infinity
+/dev/urandom
+/acct/uid/%d/tasks
+/dev/null
+%s: 
+%02x:%02x:%02x:%02x:%02x:%02x
+/dev/ptmx
+/proc/version
+/system/etc/.version
+/system/bin/cat
+/proc/cpuinfo
+/proc/%d/cmdline
+/sys/class/net/wlan0/address
+/sys/class/net/eth0/address
+/proc/mounts
+/system/etc/.mounts
+/proc/bus/pci/devices
+/system/etc/.pci.devices
+/proc/interrupts
+/system/etc/.interrupts
+/proc/diskstats
+/system/etc/.blkinfo
+/proc/filesystems
+/system/etc/.filesystems
+/system/etc/.soulsopu
+/system/build.prop
+/data
+/system/bin/sdcard
+/sbin/adbd
+/sbin/healthd
+/system/bin/servicemanager
+/system/bin/vold
+/system/bin/drmserver
+/system/bin/installd
+/system/bin/keystore
+/system/bin/surfaceflinger
+/system/bin/debuggerd
+/system/bin/mediaserver
+/system/bin/netd
+/system/bin/wpa_supplicant
+/dev
+/system/bin/su
+/system/xbin/su
+/data/app/com.bignox
+iprt
+/sbin/v86d
+/proc/net/tcp
+/system/priv-app/
+/system/app/
+/system/bin
+/system/etc/.cpuinfo
+/proc/
+/status
+/cmdline
+/stat
+/proc/ioports
+/sys/
+_freq
+/system/etc/.cpufreq
+/sys/bus/pci/devices
+vendor
+/system/etc/.pci_vendor
+/proc/modules
+/system/etc/.modules
+com.lanjingren.ivwen
+/data/system/.build.prop
+com.facebook.katana
+/data/data/.appwithABI2
+/system/lib/arm/cpuinfo
+/data/data/.appwithABI2neon
+/system/lib/arm/cpuinfo.neon
+fstab.nox
+init.nox.rc
+ueventd.nox.rc
+/dev/pts/%u
+/var/run/utmp
+QUIT
+TRAP
+ABRT
+KILL
+USR1
+SEGV
+USR2
+PIPE
+ALRM
+TERM
+STKFLT
+CHLD
+CONT
+STOP
+TSTP
+TTIN
+TTOU
+XCPU
+XFSZ
+VTALRM
+PROF
+WINCH
+ANDROID_PROPERTY_WORKSPACE
+ro.opengles.version
+/system/lib/arm/check.xml
+</gl3>
+ro.product.cpu.abi
+getprop
+persist.nox.icc_op_alpha
+persist.nox.iso
+persist.nox.op_alpha
+persist.nox.cell_cid
+persist.nox.cell_lac
+ro.nox.country
+persist.sys.country
+persist.nox.mccmnc
+persist.sys.language
+ro.nox.language
+sys.usb.config
+ro.build.version.sdk
+persist.sdk.%s
+ro.build.version.release
+persist.rel.%s
+ro.hardware
+ro.boot.hardware
+/system/lib/hw/gralloc.nox.so
+persist.nox.hardware
+ro.boot.bootloader
+ro.bootloader
+persist.nox.bootloader
+ro.build.id
+ro.build.fingerprint
+persist.nox.buildid
+ro.build.display.id
+persist.nox.fingerprint
+ro.build.description
+persist.nox.description
+ro.product.model
+persist.nox.model
+ro.build.product
+persist.nox.product
+ro.product.name
+ro.product.board
+persist.nox.board
+ro.serialno
+ro.boot.serialno
+persist.nox.serial
+persist.nox.modem.imei
+ro.baseband
+ro.boot.baseband
+persist.nox.baseband
+ro.product.manufacturer
+persist.nox.manufacturer
+ro.board.platform
+persist.nox.platform
+com.google.android
+com.hcg.cok
+service.adb.root
+sys.usb.state
+ro.debuggable
+gsm.operator.numeric
+ro.build.version.incremental
+persist.nox.displayid
+persist.nox.host
+ro.build.host
+persist.nox.device
+ro.product.device
+persist.nox.brand
+ro.product.brand
+/system/etc/.build.prop
+/data/system/..build.prop
+ro.samsung.caps.
+%s=%s
+sys.boot_completed
+%u.%u.%u.%u.in-addr.arpa
+%x.%x.
+ip6.arpa
+/system/etc/hosts
+gethostbyname
+hosts
+ANDROID_DNS_MODE
+local
+/dev/socket/dnsproxyd
+gethostbyname %s %s %d
+gethostbyaddr %s %d %d %s
+gethostbyaddr
+files
+Resolver internal error
+Unknown resolver error
+Resolver Error 0 (no error)
+Unknown host
+Host name lookup failure
+Unknown server error
+QUERY
+IQUERY
+CQUERYM
+CQUERYU
+NOTIFY
+UPDATE
+ZONEINIT
+ZONEREF
+;; memory allocation failure
+;; ns_parserr: %s
+;; %s SECTION:
+CLASS%d
+TYPE%d
+;;	%s, type = %s, class = %s
+;; ns_sprintrr: %s
+NOERROR
+;; ns_initparse: %s
+; flags:
+; %s: %d
+, %s: %d
+BADTYPE
+BADCLASS
+init
+debug
+aaonly(unimpl)
+usevc
+primry(unimpl)
+igntc
+recurs
+defnam
+styopn
+dnsrch
+insecure1
+insecure2
+noaliases
+inet6
+edns0
+dname
+dnssec
+no-tld-query
+no-nibble2
+?0x%lx?
+[af%d]
+%lu.%.2lu
+%04d%02d%02d%02d%02d%02d
+CLASS
+type
+no error
+FORMERR
+format error
+SERVFAIL
+server failed
+NXDOMAIN
+no such domain name
+NOTIMP
+not implemented
+REFUSED
+refused
+YXDOMAIN
+domain name exists
+YXRRSET
+rrset exists
+NXRRSET
+rrset doesn't exist
+NOTAUTH
+not authoritative
+NOTZONE
+Do nine men interpret Nine men I nod
+Not in zone
+BADSIG
+bad signature
+BADKEY
+bad key
+BADTIME
+bad time
+address
+name server
+mail destination (deprecated)
+mail forwarder (deprecated)
+CNAME
+canonical name
+start of authority
+mailbox
+mail group member
+mail rename
+NULL
+null
+domain name pointer
+HINFO
+host information
+MINFO
+mailbox information
+mail exchanger
+text
+responsible person
+AFSDB
+DCE or AFS server
+X25 address
+ISDN
+ISDN address
+router
+NSAP
+nsap address
+NSAP_PTR
+signature
+mapping information
+GPOS
+AAAA
+IPv6 address
+location
+NIMLOC
+server selection
+ATMA
+ATM address (unimplemented)
+TKEY
+tkey
+TSIG
+transaction signature
+IXFR
+incremental zone transfer
+AXFR
+zone transfer
+ZXFR
+compressed zone transfer
+MAILB
+MAILA
+mail agent (deprecated)
+NAPTR
+URN Naming Authority
+Key Exchange
+CERT
+Certificate
+IPv6 Address
+DNAME
+SINK
+Kitchen Sink (experimental)
+EDNS Options
+"any"
+PKIX
+PKIX (X.509v3) Certificate
+SPKI
+SPKI certificate
+PGP certificate
+URL Private
+OID Private
+RSA KEY with MD5 hash
+Diffie Hellman
+Digital Signature Algorithm
+EXPIREONLY
+No algorithm
+PRIVATE
+Algorithm obtained from OID
+CHAOS
+HESIOD
+NONE
+ZONE
+PREREQUISITE
+ADDITIONAL
+ANSWER
+AUTHORITY
+ndots:
+;;	ndots=%d
+timeout:
+;;	timeout=%d
+attempts:
+;;	attempts=%d
+;;	debug
+no_tld_query
+rotate
+no-check-names
+nibble:
+nibble2:
+v6revmode:
+single
+both
+;;	..END..
+;;	%s
+RES_OPTIONS
+ip6.int
+;; res_nopt()
+;; res_opt()... ENDS0 DNSSEC
+;; res_query(%s, %d, %d)
+;; res_query: mkquery failed
+;; res_query: send error
+<Nil>
+%s.%s
+res_send: %s: %s
+socket(vc)
+setsockopt
+bind/vc
+res_send: %s ([%s].%s): %s
+connect/vc
+write failed
+read failed
+;; response truncated
+;; undersized: %d
+read(vc)
+;; old answer (unexpected):
+socket(dg)
+bind(dg)
+connect(dg)
+;; new DG socket
+send
+;; timeout
+select
+recvfrom
+;; old answer:
+;; not our server:
+;; wrong query name:
+server rejected query:
+;; truncated answer
+;; res_send()
+;; got answer:
+net.change
+BIONIC_DNSCACHE
+ro.net.dns_cache_size
+	^'"
+getaddrinfo
+Invalid value for ai_flags
+ai_family not supported
+Memory allocation failure
+ai_socktype not supported
+Invalid value for hints
+Resolved protocol is unknown
+Argument buffer overflow
+Unknown error
+%02x
+/%d]
+%d%c
+unknown RR type
+RR format error
+ %s %s
+					
+; expiry
+; minimum
+%u %u 
+%u %u %u 
+ %u ( 
+0x%04x %u %u
+ ; key_tag= %u
+%s %d %d %lu 
+%d %d %d 
+%u bytes
+\# %tu%s	; %s
+%02x 
+POSIX interval timer 0x%08x
+/system/lib/libc_malloc_debug_leak.so
+/system/lib/libc_malloc_debug_qemu.so
+%s: setting backlog length to %d
+%s: Debug level %d can only be set in emulator
+%s: Memory checking is not enabled in the emulator
+%s: Debug level %d is unknown
+%s: Missing module %s required for malloc debug level %d: %s
+%s: Initialization routine is not found in %s
+%s: memcheck_initialize routine is not found in %s
+%s: using libc.debug.malloc %d (%s)
+%s: some symbols for libc.debug.malloc level %d were not found (see above)
+Unable to initialize malloc_debug component.
+Unable to finalize malloc_debug component.
+===============================================================
++++ Currently held locks in this thread (in reverse order):
++++ Earlier, the following lock order (from last to first) was established
+pthread deadlock detection level %d enabled for pid %d (%s)
+heap corruption detected by %s
+invalid address or address of corrupt block %p passed to %s
+dlmalloc
+tmalloc_small
+tmalloc_large
+add_segment
+prepend_alloc
+dlfree
+release_unused_segments
+try_realloc_chunk
+dispose_chunk
+internal_bulk_free
+%s:%d: %s: assertion "%s" failed
+conversion specifier unsupported
+bionic/libc/bionic/libc_logging.cpp
+FORTIFY_SOURCE: %s. Calling abort().
+Math argument out of domain of func
+Too many symbolic links encountered
+Value too large for defined data type
+Can not access a needed shared library
+Accessing a corrupted shared library
+.lib section in a.out corrupted
+Attempting to link in too many shared libraries
+Cannot exec a shared library directly
+Interrupted system call should be restarted
+Socket operation on non-socket
+Protocol wrong type for socket
+Operation not supported on transport endpoint
+Address family not supported by protocol
+Cannot assign requested address
+Network dropped connection because of reset
+Software caused connection abort
+Transport endpoint is already connected
+Transport endpoint is not connected
+Cannot send after transport endpoint shutdown
+Too many references: cannot splice
+%s(3) is not implemented on Android
+void endpwent()
+mntent* getmntent(FILE*)
+char* ttyname(int)
+int ttyname_r(int, char*, size_t)
+char* getusershell()
+void setusershell()
+void endusershell()
+0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+illegal option -- %c
+invalid option -- %c
+option requires an argument -- %c
+option `%s%.*s' is ambiguous
+option `%s%.*s' doesn't allow an argument
+option `%s%s' requires an argument
+unrecognized option `%s%s'
+bionic/libc/upstream-netbsd/common/lib/libc/hash/sha1/sha1.c
+SHA1Transform
+SHA1Init
+SHA1Update
+SHA1Final
+bionic/libc/upstream-netbsd/libc/compat-43/creat.c
+creat
+bionic/libc/upstream-netbsd/libc/gen/popen.c
+popen
+pclose
+bionic/libc/upstream-netbsd/libc/gen/utime.c
+utime
+bionic/libc/upstream-netbsd/libc/inet/inet_ntop.c
+inet_ntop
+inet_ntop4
+inet_ntop6
+bionic/libc/upstream-netbsd/libc/inet/inet_pton.c
+inet_pton
+inet_pton4
+inet_pton6
+0123456789abcdef
+0123456789ABCDEF
+bionic/libc/upstream-netbsd/libc/regex/regcomp.c
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ 
+!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
+regcomp
+p_ere
+p_ere_exp
+p_bracket
+allocset
+p_b_term
+p_b_cclass
+mcadd
+p_b_eclass
+p_b_coll_elem
+repeat
+p_str
+p_bre
+p_simp_re
+errcode != REG_ATOI || preg != NULL
+bionic/libc/upstream-netbsd/libc/regex/regerror.c
+repetition-operator operand invalid
+"can't happen" -- you found a bug
+invalid argument to regex routine
+*** unknown regexp error code ***
+regerror
+bionic/libc/upstream-netbsd/libc/regex/engine.c
+bionic/libc/upstream-netbsd/libc/regex/regexec.c
+regexec
+smatcher
+sfast
+sstep
+sdissect
+sslow
+sbackref
+lmatcher
+lfast
+lstep
+ldissect
+lslow
+lbackref
+bionic/libc/upstream-netbsd/libc/regex/regfree.c
+regfree
+bionic/libc/upstream-netbsd/libc/stdio/getdelim.c
+__getdelim
+bionic/libc/upstream-netbsd/libc/stdlib/bsearch.c
+bsearch
+bionic/libc/upstream-netbsd/libc/stdlib/erand48.c
+erand48
+MbP?
+?aCoc
+<bionic/libc/upstream-netbsd/libc/stdlib/jrand48.c
+jrand48
+bionic/libc/upstream-netbsd/libc/stdlib/nrand48.c
+nrand48
+bionic/libc/upstream-netbsd/libc/stdlib/_rand48.c
+__dorand48
+bionic/libc/upstream-netbsd/libc/stdlib/seed48.c
+seed48
+bionic/libc/upstream-netbsd/libc/stdlib/tdelete.c
+tdelete
+bionic/libc/upstream-netbsd/libc/stdlib/tfind.c
+tfind
+bionic/libc/upstream-netbsd/libc/stdlib/tsearch.c
+tsearch
+bionic/libc/upstream-netbsd/libc/string/memccpy.c
+memccpy
+bionic/libc/upstream-netbsd/libc/string/strcasestr.c
+strcasestr
+bionic/libc/upstream-netbsd/libc/string/strcoll.c
+strcoll
+bionic/libc/upstream-netbsd/libc/string/strxfrm.c
+strxfrm
+%.3s %.3s%3d %2.2d:%2.2d:%2.2d     %s
+%.3s %.3s%3d %2.2d:%2.2d:%2.2d %-4s
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec%s: could not read header of "%s": %s
+%s: bad magic in "%s": "%.6s"
+%s: couldn't seek to index in "%s": %s
+%s: could not seek to %ld in "%s": %s
+/system/usr/share/zoneinfo/tzdata
+%s: couldn't find any tzdata when looking for %s!
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 :+-._
+Local time zone must be set--see zic manual page
+__bionic_open_tzdata
+__bionic_open_tzdata_path
+umask called with invalid mask
+syslog: unknown facility/priority: %x
+syslog_r: unknown facility/priority: %x
+                0000000000000000
+         (((((                  
+AAAAAA
+BBBBBB
+                                 
+vH7B
+W4vC
+O8M2
+[%Co
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+openat(O_CREAT) called without specifying a mode
+/sys/bus/pci/drivers/vboxguest
+/sys/bus/pci/drivers/virtio-pci
+open(O_CREAT) called without specifying a mode
+sIeRBSFX{Q
+JFS1NTFS
+sIeR
+(SJA
+NTFS/
+/dev/socket/property_service
+%.3s %.3s%3d %.2d:%.2d:%.2d %d
+JanFebMarAprMayJunJulAugSepOctNovDecSunMonTueWedThuFriSat
+gethostby*.getanswer: asked for "%s %s %s", got type "%s"
+gethostby*.getanswer: asked for "%s", got "%s"
+No address associated with name
+;; EDNS: version: %u, udp=%u, flags=%04x
+;; ->>HEADER<<- opcode: %s, status: %s, id: %d
+%d %.2d %.2d.%.3d %c %d %.2d %.2d.%.3d %c %s%d.%.2dm %sm %sm %sm
+well-known service (deprecated)
+geographical position (withdrawn)
+next valid name (unimplemented)
+endpoint identifier (unimplemented)
+NIMROD locator (unimplemented)
+mailbox-related data (deprecated)
+;; res_setoptions("%s", "%s")...
+;; res_setoptions("%s", "%s")..
+;; res_init()... default dnsrch list:
+;; res_nmkquery(%s, %s, %s, %s)
+;; res_nquery: retry without EDNS0
+;; rcode = (%s), counts = an:%d ns:%d ar:%d
+;; res_nquerydomain(%s, %s, %d, %d)
+server rejected query with EDNS0:
+;; Querying server (# %d) address = %s
+gethostby*.getanswer: asked for "%s %s %s", got type "%s"
+getaddrinfo %s %s %d %d %d %d %s
+Address family for hostname not supported
+Temporary failure in name resolution
+Non-recoverable failure in name resolution
+No address associated with hostname
+hostname nor servname provided, or not known
+servname not supported for ai_socktype
+System error returned in errno
+gethostby*.getanswer: asked for "%s", got "%s"
+tcpmux
+echo
+echo
+discard
+sink
+null
+discard
+sink
+null
+systat
+users
+daytime
+daytime
+netstat
+qotd
+quote
+chargen
+ttytst
+source
+chargen
+ttytst
+source
+ftp-data
+fspd
+telnet
+smtp
+mail
+time
+	timserver
+time
+	timserver
+resource
+nameserver
+name
+whois
+nicname
+tacacs
+tacacs
+re-mail-ck
+re-mail-ck
+domain
+nameserver
+domain
+nameserver
+	tacacs-ds
+	tacacs-ds
+bootps
+bootps
+bootpc
+bootpc
+tftp
+gopher
+gopher
+netrjs
+finger
+http
+link
+ttylink
+kerberos
+	kerberos5
+krb5
+kerberos-sec
+kerberos
+	kerberos5
+krb5
+kerberos-sec
+supdup
+	hostnames
+hostname
+iso-tsap
+tsap
+acr-nema
+dicom
+acr-nema
+dicom
+csnet-ns
+cso-ns
+csnet-ns
+cso-ns
+rtelnet
+rtelnet
+pop2
+postoffice
+pop-2
+pop2
+pop-2
+pop3
+pop-3
+pop3
+pop-3
+sunrpc
+portmapper
+sunrpc
+portmapper
+auth
+authentication
+ident
+sftp
+	uucp-path
+nntp
+readnews
+untp
+pwdgen
+pwdgen
+loc-srv
+epmap
+loc-srv
+epmap
+netbios-ns
+netbios-ns
+netbios-dgm
+netbios-dgm
+netbios-ssn
+netbios-ssn
+imap2
+imap
+imap2
+imap
+snmp
+snmp
+	snmp-trap
+snmptrap	snmp-trap
+snmptrap
+cmip-man
+cmip-man
+cmip-agent
+cmip-agent
+mailq
+mailq
+xdmcp
+xdmcp
+nextstep
+NeXTStep
+NextStep
+nextstep
+NeXTStep
+NextStep
+prospero
+prospero
+smux
+smux
+at-rtmp
+at-rtmp
+at-nbp
+at-nbp
+at-echo
+at-echo
+at-zis
+at-zis
+qmtp
+qmtp
+z3950
+wais
+z3950
+wais
+imap3
+imap3
+pawserv
+pawserv
+zserv
+zserv
+fatserv
+fatserv
+rpc2portmap
+rpc2portmap
+	codaauth2
+	codaauth2
+	clearcase
+	Clearcase	clearcase
+	Clearcase	ulistserv
+	ulistserv
+ldap
+ldap
+imsp
+imsp
+https
+https
+snpp
+snpp
+microsoft-ds
+microsoft-ds
+saft
+saft
+isakmp
+isakmp
+rtsp
+rtsp
+npmp-local
+dqs313_qmaster
+npmp-local
+dqs313_qmaster
+npmp-gui
+dqs313_execd
+npmp-gui
+dqs313_execd
+hmmp-ind
+dqs313_intercell
+hmmp-ind
+dqs313_intercell
+exec
+biff
+comsat
+login
+whod
+shell
+syslog
+printer
+spooler
+talk
+ntalk
+route
+router
+routed
+timed
+timeserver
+tempo
+newdate
+courier
+conference
+chat
+netnews
+readnews
+netwall
+gdomap
+gdomap
+uucp
+uucpd
+klogin
+kshell
+krcmd
+afpovertcp
+afpovertcp
+remotefs
+rfs_server
+nntps
+snntp
+nntps
+snntp
+submission
+submission
+ldaps
+ldaps
+tinc
+tinc
+silc
+silc
+kerberos-adm
+webster
+webster
+rsync
+rsync
+	ftps-data
+ftps
+telnets
+telnets
+imaps
+imaps
+ircs
+ircs
+pop3s
+pop3s
+socks
+socks
+proofd
+proofd
+rootd
+rootd
+openvpn
+openvpn
+rmiregistry
+rmiregistry
+kazaa
+kazaa
+nessus
+nessus
+	lotusnote
+lotusnotes	lotusnote
+lotusnotes
+ms-sql-s
+ms-sql-s
+ms-sql-m
+ms-sql-m
+ingreslock
+ingreslock
+prospero-np
+prospero-np
+datametrics
+old-radius
+datametrics
+old-radius
+sa-msg-port
+old-radacct
+sa-msg-port
+old-radacct
+kermit
+kermit
+l2tp
+l2tp
+radius
+radius
+radius-acct
+radacct
+radius-acct
+radacct
+unix-status
+log-server
+remoteping
+rtcm-sc104
+rtcm-sc104
+cvspserver	at
+cvspserver	au
+venus	~t
+venus	~u
+venus-se	
+venus-se	
+codasrv	
+codasrv	
+codasrv-se	
+codasrv-se	
+dict
+dict
+gpsd
+gpsd
+gds_db
+gds_db
+icpv2
+icpv2
+mysql
+mysql
+distcc
+distcc
+daap
+daap
+subversion
+subversion
+radmin-port
+radmin-port
+sip-tls
+sip-tls
+xmpp-client
+jabber-client
+xmpp-client
+jabber-client
+Borrow or rob
+xmpp-server
+jabber-server
+xmpp-server
+jabber-server
+cfengine
+cfengine
+postgresql
+postgres
+postgresql
+postgres
+x11-0
+x11-0
+x11-1
+x11-1
+x11-2
+x11-2
+x11-3
+x11-3
+x11-4
+x11-4
+x11-5
+x11-5
+x11-6
+x11-6
+x11-7
+x11-7
+gnutella-svc
+gnutella-svc
+gnutella-rtr
+gnutella-rtr
+afs3-fileserver
+afs3-fileserver
+afs3-callback
+afs3-callback
+afs3-prserver
+afs3-prserver
+afs3-vlserver
+afs3-vlserver
+afs3-kaserver
+afs3-kaserver
+afs3-volser
+afs3-volser
+afs3-errors
+afs3-errors
+afs3-bos
+afs3-bos
+afs3-update
+afs3-update
+afs3-rmtsys
+afs3-rmtsys
+font-service
+font-service
+bacula-dir#
+bacula-dir#
+	bacula-fd#
+	bacula-fd#
+	bacula-sd#
+	bacula-sd#
+amanda'`t
+amanda'`u
+hkp,kt
+hkp,ku
+bprd5
+bprd5
+bpdbm5
+bpdbm5
+bpjava-msvc5
+bpjava-msvc5
+vnetd5
+vnetd5
+bpcd5
+bpcd5
+vopied5
+vopied5
+wnn6W
+wnn6W
+	kerberos4
+kerberos-iv
+kdc	kerberos4
+kerberos-iv
+kerberos_master
+kerberos_master
+passwd_server
+krb_prop
+	krb5_prop
+hprop	krbupdate
+kreg
+kpasswd
+kpwd
+swat
+kpop
+knetd
+zephyr-srv
+zephyr-clt
+	zephyr-hm
+eklogin
+iprop
+supfilesrv
+supfiledbg
+	linuxconf
+poppassd
+poppassd
+ssmtp
+smtps
+moira_db
+moira_update
+moira_ureg
+spamd
+omirr
+omirrd
+omirr
+omirrd
+customs
+customs
+skkserv
+predict
+rmtcfg
+wipld
+xtel
+xtelw
+support
+sieve
+cfinger
+Beeb
+ndtp
+frox
+ninstall
+ninstall
+zebrasrv
+zebra
+ripd
+ripngd
+ospfd
+bgpd
+ospf6d
+ospfapi
+isisd
+afbackup
+afbackup
+	afmbackup
+	afmbackup
+xtell
+hylafax
+distmp3
+munin
+lrrd
+enbd-cstatd
+enbd-sstatd
+pcrd
+noclog
+noclog
+hostmon
+hostmon
+rplay
+rplay
+rptp
+rptp
+nsca
+mrtd
+bgpsim
+canna
+	sane-port
+sane
+saned
+ircd
+zope-ftp
+webcache
+tproxy
+omniorb
+omniorb
+clc-build-daemon#
+xinetd#
+mandelspawn$
+mandelbrot
+zope%
+kamanda'at
+kamanda'au
+	amandaidx'bt
+	amidxtape'ct
+smsqp+
+smsqp+
+xpilot;
+xpilot;
+sgi-cmsdBiu
+sgi-crsdBju
+sgi-gcdBku
+sgi-cadBlt
+isdnlogN+t
+isdnlogN+u
+vboxdN,t
+vboxdN,u
+binkp_
+aspj
+aspj
+	dircproxy
+tfido
+fido
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+0123456789
+;*2$"
+/dev/__properties__
+/var/run/utmp
+GCC: (GNU) 4.7
+warning: mktemp() possibly used unsafely; consider using mkstemp()warning: tempnam() possibly used unsafely; consider using mkstemp()warning: tmpnam() possibly used unsafely; consider using mkstemp()$NetBSD: ftw.c,v 1.1 2005/12/30 23:07:32 agc Exp $
+$NetBSD: nftw.c,v 1.1 2005/12/30 23:07:32 agc Exp $
+$NetBSD: ev_streams.c,v 1.6 2009/04/12 17:07:17 christos Exp $
+$NetBSD: ev_timers.c,v 1.11 2012/03/21 00:34:54 christos Exp $
+$NetBSD: getdelim.c,v 1.13 2011/07/22 23:12:30 joerg Exp $
+$NetBSD: getline.c,v 1.3 2009/12/02 08:46:33 roy Exp $
+$NetBSD: ns_name.c,v 1.3 2004/11/07 02:19:49 christos Exp $
+$NetBSD: ns_parse.c,v 1.2 2004/05/20 20:35:05 christos Exp $
+$NetBSD: ns_ttl.c,v 1.2 2004/05/20 20:35:05 christos Exp $
+$NetBSD: ns_netint.c,v 1.2 2004/05/20 20:19:00 christos Exp $
+$NetBSD: ns_print.c,v 1.5 2004/11/07 02:19:49 christos Exp $
+$NetBSD: ns_samedomain.c,v 1.2 2004/05/20 20:35:05 christos Exp $
+warning: gets() is very unsafe; consider using fgets()
+gold 1.11
+.shstrtab
+.dynsym
+.dynstr
+.hash
+.rel.dyn
+.rel.plt
+.text
+.rodata
+.eh_frame
+.eh_frame_hdr
+.data.rel.ro.local
+.fini_array
+.data.rel.ro
+.init_array
+.dynamic
+.got
+.got.plt
+.data
+.bss
+.comment
+.gnu.warning.mktemp
+.gnu.warning.tempnam
+.gnu.warning.tmpnam
+.ident
+.gnu.warning.gets
+.note.gnu.gold-version

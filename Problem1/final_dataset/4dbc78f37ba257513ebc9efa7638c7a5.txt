@@ -1,0 +1,1379 @@
+/lib64/ld-linux-x86-64.so.2
+libdrm_intel.so.1
+_ITM_deregisterTMCloneTable
+__gmon_start__
+pci_device_find_by_slot
+pci_device_probe
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+pci_system_init
+drmIoctl
+drm_intel_gem_bo_unmap_gtt
+drm_intel_gem_bo_map_gtt
+_fini
+drm_intel_bo_unreference
+drm_intel_bo_gem_create_from_name
+drm_intel_bo_alloc
+libdrm.so.2
+drmModeGetPlane
+drmModeFreeCrtc
+drmModeFreePlane
+drmModeSetPlane
+drmModeGetProperty
+drmModeObjectGetProperties
+drmModeGetEncoder
+drmModeGetConnector
+drmWaitVBlank
+drmModeFreeResources
+drmModeFreeEncoder
+drmGetCap
+drmModeSetCursor
+drmModeMoveCursor
+drmModeConnectorSetProperty
+drmModeSetCrtc
+drmModeFreeConnector
+drmModeGetPlaneResources
+drmModeObjectSetProperty
+drmModeGetResources
+drmModeGetConnectorCurrent
+drmModeGetCrtc
+drmModeFreeProperty
+drmModeFreePlaneResources
+drmSetClientCap
+drmSetMaster
+drmModeFreeObjectProperties
+libpciaccess.so.0
+pci_device_next
+pci_id_match_iterator_create
+pci_iterator_destroy
+pci_device_map_range
+libunwind.so.8
+_Ux86_64_getcontext
+_ULx86_64_step
+_ULx86_64_get_proc_name
+_ULx86_64_init_local
+libpthread.so.0
+system
+wait
+__errno_location
+pthread_mutex_lock
+sigaction
+fork
+pthread_mutex_unlock
+lseek
+waitpid
+libc.so.6
+setuid
+__xpg_basename
+fflush
+strcpy
+__printf_chk
+setlocale
+fopen
+strsignal
+strncmp
+optind
+strrchr
+__longjmp_chk
+__strdup
+perror
+__isoc99_sscanf
+munlock
+mmap64
+strncpy
+sigprocmask
+__stack_chk_fail
+realloc
+abort
+stdin
+_exit
+memchr
+getpid
+kill
+chmod
+__assert_fail
+strtol
+isatty
+mmap
+feof
+getppid
+calloc
+strlen
+sigemptyset
+strstr
+tcsetattr
+mlock
+getopt
+__fprintf_chk
+sigaddset
+__sigsetjmp
+stdout
+__isoc99_fscanf
+fputs
+memcpy
+fclose
+malloc
+getgid
+__ctype_b_loc
+getenv
+__open_2
+optarg
+stderr
+ioctl
+alarm
+__snprintf_chk
+getuid
+readlink
+getopt_long
+__fxstat
+strtoull
+usleep
+fwrite
+fread
+gettimeofday
+__memcpy_chk
+clock_gettime
+localtime
+strchr
+__vfprintf_chk
+getline
+program_invocation_short_name
+tcgetattr
+__strcpy_chk
+syscall
+__vasprintf_chk
+__sprintf_chk
+setpgrp
+__xstat
+mount
+errx
+uname
+access
+_IO_getc
+setgid
+strcmp
+strerror
+__asprintf_chk
+__libc_start_main
+sysconf
+free
+__progname
+__cxa_atexit
+_edata
+__bss_start
+_end
+__igt_test_description
+GLIBC_2.2.5
+GLIBC_2.3
+GLIBC_2.11
+GLIBC_2.14
+GLIBC_2.8
+GLIBC_2.4
+GLIBC_2.17
+GLIBC_2.7
+GLIBC_2.3.4
+AWAVAUATUS
+D$81
+t$,E
+D$$f
+L$8dH3
+H[]A\A]A^A_
+AWAVAUATUSHc
+[]A\A]A^A_
+t$0E1
+h$t"
+D$(1
+T$(dH3
+;tTv"f=
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AVAUH
+ATUSH
+<unknownH
+[]A\A]A^
+[]A\
+ATUSH
+=[|!
+[]A\
+5){!
+AWAVAUATUSH
+D$H1
+D$ H
+D$(H
+D$0H
+D$8H
+D$HdH3
+X[]A\A]A^A_
+AVAWA
+L$(1
+=\z!
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AUATUSH
+59~!
+=hu!
+=]u!
+=Uu!
+=Au!
+=\}!
+=,}!
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+AUATUSH
+=gr!
+-Er!
+Nt<H
+=gy!
+=_y!
+=$y!
+AWAVAUATUSH
+%I|!
+([]A\A]A^A_
+AVAUATUS
+]A\A]A^
+]A\A]A^
+=Tu!
+-Tu!
+]A\A]A^
+AWAVI
+AUATI
+)D$`
+)L$p
+D$(1
+$1000
+5{f!
+AWAVM
+AUATI
+L$Xt:
+)D$`
+)L$p
+D$(1
+Do nine men interpret Nine men I nod
+=Nm!
+=bm!
+tYH;=
+t H9
+=@c!
+AWAVAUATI
+D$(L
+D$8dH
+D$X1
+=Kj!
+d$ Mc
+t$ H
+:tGH
+=RZ!
+|$PL
+t$LH
+T$PA
+t$LH
+|$(1
+5Jf!
+=&f!
+T$XdH3
+h[]A\A]A^A_
+=`e!
+=*d!
+AUATUSH
+[]A\A]
+[]A\A]
+-?b!
+AVAUATUSt
+%ze!
+-#e!
+Lc+A
+]A\A]A^
+-Ad!
+=^_!
+%KV!
+[]A\
+=,V!
+ATUI
+[]A\
+AUATL
+Y^t(H
+[]A\A]
+AWAVI
+AUATUSH
+D$81
+D$,H
+\$0I
+D$4H
+tzf.
+t0E8
+L$8dH3
+H[]A\A]A^A_
+<?tG
+<[t]<\
+\$,I
+D;\$0taI9
+D;\$0r
+D;\$4v!1
+AWAVAUATUSH
+H;t$
+([]A\A]A^A_
+[]A\A]A^A_
+>*t5H
+XZ[1
+D$H1
+L$HdH3
+D$(1
+t$(dH34%(
+AUATE1
+L$@1
+[]A\A]
+=W@!
+=L@!
+ATUS1
+[]A\
+AWAV
+AUAT
+L$x1
+l$ L
+uhE1
+T$xdH3
+[]A\A]A^A_
+AUATA
+[]A\A]
+D$(1
+D$(dH3
+AVAUATSI
+IcT$
+[A\A]A^]
+AVAUH
+ror_statH
+/i915_erI
+[]A\A]A^
+AVAUA
+ATUA
+[]A\A]A^
+u0[]A\
+AVAUI
+ATUH
+ []A\A]A^
+t#SH
+D$(1
+D$(dH3
+ATUSH
+D$h1
+l$ L
+D$hdH3
+p[]A\
+AVAUE1
+ATUI
+[]A\A]A^
+AUATA
+[]A\A]
+[]A\A]
+ATUH
+ []A\
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+AWAVAUATUSH
+/sys/mod
+D$(ers/
+ule/i915H
+/parametH
+D$ H
+D$PH
+WARNING:H
+D$PH
+ Module 
+D$XH
+paramete
+D$`H
+rs may n
+D$hH
+ot have H
+D$pH
+been resH
+D$xH
+et to thH
+eir origH
+inal valH
+[]A\A]A^A_
+=|3!
+AVAUD
+ATUA
+S~YI
+[]A\A]A^
+AWAVAUATI
+-#4!
+$tUE
+[]A\A]A^A_
+AUATUSH
+-_3!
+-@3!
+[]A\A]
+AUATUSH
+[]A\A]
+T$@1
+D$@H
+D$HH
+D$PH
+D$XH
+D$ H
+D$`H
+D$(H
+D$hH
+D$0H
+ATUH
+T$@1
+D$@H
+D$HH
+D$PH
+D$XH
+D$ H
+D$`H
+D$(H
+D$hH
+D$0H
+Nt:H
+[]A\
+ATUSH
+[]A\
+D$(1
+\$(dH3
+ATU1
+D$(1
+$H+L$
+\$(dH3
+0[]A\
+;:t%;z
+t(9z H
+5`$!
+=_$!
+AWAVI
+AUATUSH
+D$H1
+/sys/modH
+ule/i915H
+/paramet
+ers/H
+-A#!
+D$HdH3
+X[]A\A]A^A_
+D$(1
+D$(dH3
+AWAVM
+AUATLc
+|$ 1
+D$0A
+L$`L
+T$hH
+t$`A
+D$`L
+D$xI
+[]A\A]A^A_
+ATUSH
+ []A\
+D$X1
+L$XdH3
+ATUSH
+D$X1
+D$XdH3
+`[]A\
+AWAVAUATUSH
+([]A\A]A^A_
+t{E1
+AWAVA
+AUATA
+u_;l$
+([]A\A]A^A_
+]d @L
+D$(1
+D$(dH3
+\d @L
+D$(1
+D$(dH3
+4$tEH
+D$(1
+L$(dH3
+id@@
+ATUH
+ []A\
+D$H1
+L$HdH3
+D$ H
+AUATA
+D$(1
+L$(dH3
+8[]A\A]
+D$(1
+L$(dH3
+AUATHc
+([]A\A]
+D$(1
+L$(dH3
+D$(1
+L$(dH3
+D$(1
+L$(dH3
+D$ H
+$u7H
+$tiH
+AUAT
+t$PL
+[]A\A]
+$u7H
+AWAVA
+AUATA
+D$x1
+l$$D
+D$ H
+t$xdH34%(
+[]A\A]A^A_
+ATUI
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+~0f.
+[]A\
+x";A
+O$APV
+G PRH
+AWAVA
+AUATI
+$w9H
+dH34%(
+([]A\A]A^A_
+AVAUA
+ATUI
+[]A\A]A^
+~qf.
+D9N 
+AWAVAUATE
+[]A\A]A^A_
+A9GH~QI
+D$8H
+A9GH
+E9t$
+ATUH
+[]A\
+[]A\
+AWAVAUATUSH
+D$H1
+D$HdH3
+X[]A\A]A^A_
+D9e0
+AWAVAUATA
+A9,$w
+[]A\A]A^A_
+Tacocat
+ATUS
+[]A\
+~SAUATA
+A9\$
+[]A\A]
+AWAVI
+AUATH
+D$H1
+D$@M
+HcD$4A
+A Santa lives evil at NASA
+t$(H
+AXAY
+D$ H
+t$(A
+|$0Hc
+HcT$4H
+D$4A9G
+Hcx A
+l$@1
+D$8I
+D$PH
+L$0H
+T$ H
+D$ H
+T$(A
+HcD$4
+|$0H
+D$HdH3
+X[]A\A]A^A_
+AVAUATUI
+oHE1
+@A;m
+E9t$
+A9l$
+]A\A]A^
+AUATUSH
+[]A\A]
+[]A\A]
+s"Hc
+AVAUH
+ATUH
+ tjD
+D[]A\A]A^
+[]A\A]A^
+AVAUATUA
+[]A\A]A^
+AVAUATUA
+@[]A\A]A^
+AWAVAUATA
+[]A\A]A^A_
+AWAVAUATA
+[]A\A]A^A_
+AVAUATUA
+[]A\A]A^
+AVAUATU
+ []A\A]A^
+Beeb
+AUATUSH
+[]A\A]
+AWAV1
+AUATUSH
+D$PL
+d$XL
+@E;n
+T$pD
+|$ D
+L$(D
+L$8D
+t$HD
+t$HH
+T$hARD
+D$PAPD
+L$PAQD
+\$PA
+T$PH
+\$8H
+L$8Q
+|$8W
+T$8R
+D$pPD
+D$xAPD
+T$HD
+T$(D
+D$ H
+T$0D
+T$8RD
+L$8H
+L$0H
+D$ H
+Degas are we not drawn onward no In union drawn onward to new eras aged
+L$(H
+T$`D
+t$0D
+T$hRD
+D$HH
+t$HA
+L$@H
+|$(D
+t$(D
+[]A\A]A^A_
+|$PH
+AWAV
+AUATE1
+A9m ~cI
+[]A\A]A^A_
+tRUSH
+AWAV
+AUATE1
+[]A\A]A^A_
+AVAUI
+]A\A]A^
+AWAVA
+AUATL
+[]A\A]A^A_
+enabled
+disabled
+Invalid pipe
+p:x:y:dlh
+Pipe %c:
+- %s
+- progressive
+- pf %s
+- tot %dx%d
+- src %dx%d
+- dst %dx%d
+X is too small
+X is too big
+X must be even
+Y is too small
+Y is too big
+Y must be even
+WARNING:
+This tool is a workaround for people that don't have a Kernel with overscan compensation properties: it is just a temporary solution that may or may not work. Use it at your own risk.
+This tool was only tested on Ironlake and newer
+Options:
+  -p pipe:    pipe to be used (A, B or C)
+  -x value:   final screen width size in pixels
+  -y value:   final screen height size in pixels
+  -d:         disable panel fitter
+  -l:         list the current state of each pipe
+  -h:         prints this message
+- interlaced (progressive fetch)
+- interlaced (interlaced fetch)
+../../tools/intel_panel_fitter.c
+Changing size for pipe %c:
+- width:  %d -> %d
+- height: %d -> %d
+- pos: %dx%d
+change_screen_size
+dump_pipe
+?Couldn't open %s
+!(fd == -1)
+../../lib/intel_mmio.c
+intel-mmio
+Couldn't mmap %s
+Couldn't map MMIO region
+!(error != 0)
+igt_global_mmio != NULL
+mmio_data.inited
+mmio_data.key != -1
+!range
+!(igt_global_mmio == ((void *) -1))
+Register read blocked for safety (*0x%08x)
+Warning on condition %s in fucntion %s, file %s:%i
+Register write blocked for safety (*0x%08x = 0x%x)
+intel_register_write
+intel_register_read
+intel_register_access_init
+intel_mmio_use_pci_bar
+intel_mmio_use_dump_file
+Couldn't initialize PCI system
+../../lib/intel_chipset.c
+intel-chipset
+Couldn't find graphics card
+Couldn't probe graphics card
+Graphics card is non-intel
+__drm_device_id
+INTEL_DEVID_OVERRIDE
+intel_get_drm_devid
+intel_get_pci_device
+!("Gen2/3 Ranges are not supported. Please use ""unsafe access.")
+../../lib/intel_reg_map.c
+intel-reg-map
+intel_get_register_map
+Usage: %s [OPTIONS]
+/dev/kmsg
+x86_64
+NOT-GIT
+1.14
+/proc/%d/exe
+Stack trace:
+  #%d [%s+0x%x]
+../../lib/igt_core.c
+helper_process_count == 0
+!in_fixture
+sigprocmask
+INTEL_SIMULATION
+DEBUG
+INFO
+WARNING
+CRITICAL
+NONE
+format
+(%s:%d) %s%s%s: %s
+application
+igt-core
+%sSubtest %s: %s (%.3fs)%s
+SUCCESS
+TIMEOUT
+SKIP
+FAIL
+Unknown subtest: %s
+<6>%s: exiting, ret=%d
+Exiting with status code %d
+%s (%.3fs)
+!test_child
+failure
+Subtest %s failed.
+Test %s failed.
+No log.
+**** DEBUG ****
+****  END  ****
+!in_subtest
+test_with_subtests
+Invalid subtest name "%s".
+%sSubtest %s: %s%s
+<6>%s: starting subtest %s
+Starting subtest: %s
+Timed out: %s
+Timed out
+Failed assertion: %s
+Last errno: %i, %s
+/proc/self/oom_score_adj
+errno == ENOENT
+adj_scores_len > 0
+error: %d != %d
+sig != 0 || igt_exit_called
+error: %d == %d
+!igt_run_in_simulation()
+Test requirement passed: %s
+IGT_PLAIN_OUTPUT
+IGT_LOG_LEVEL
+warn
+%s%s
+ret >= 0
+<6>%s: executing
+!proc->running
+test_children
+Received signal 
+write(2, ".\n", 2) == 2
+CRASH
+%s/%s
+list-subtests
+run-subtest
+help-description
+interactive-debug
+help
+SIGABRT
+SIGSEGV
+SIGBUS
+  --list-subtests
+  --run-subtest <pattern>
+  --debug[=log-domain]
+  --interactive-debug[=domain]
+  --help-description
+  --help
+IGT-Version: %s-%s (%s) (%s: %s %s)
+(((signed char) ((((__extension__ (((union { __typeof(status) __in; int __i; }) { .__in = (status) }).__i))) & 0x7f) + 1) >> 1) > 0) && (((__extension__ (((union { __typeof(status) __in; int __i; }) { .__in = (status) }).__i))) & 0x7f) == (proc->use_SIGKILL ? 9 : 15)
+Could not read monotonic time: %s
+skipped_one || succeeded_one || failed_one
+exitcode != 0 && exitcode != 77
+!test_with_subtests || in_fixture
+child %i failed with exit status %i
+child %i died with signal %i, %s
+Unhandled failure [%d] in child %i
+Test assertion failure function %s, file %s:%i:
+write(fd, always_kill, sizeof(always_kill)) == sizeof(always_kill)
+/sys/module/lowmemorykiller/parameters/adj
+write(fd, no_lowmem_killer, sizeof(no_lowmem_killer)) == sizeof(no_lowmem_killer)
+write(fd, prev_adj_scores, adj_scores_len) == adj_scores_len
+asprintf(&err_str, "Last errno: %i, %s\n", err, strerror(err)) != -1
+vasprintf(&buf, f, args) != -1
+Test requirement not met in function %s, file %s:%i:
+Test requirement: %s
+%s%s
+Test requirement not met in function %s, file %s:%i:
+Test requirement: %s
+exit_handler_count < MAX_EXIT_HANDLERS
+failed to install the signal handler
+Conflicting long option values between --%s and --%s
+Conflicting long and short option values between --%s and -%s
+Conflicting short option: -%c
+Conflicting short option and long option value: --%s and -%c
+helper_process_count < (sizeof(helper_process_pids)/sizeof(helper_process_pids[0]))
+!test_with_subtests || in_subtest
+write(2, "Received signal ", 16) == 16
+write(2, handled_signals[i].name, handled_signals[i].name_len) == handled_signals[i].name_len
+Could not open data file "%s": %s
+igt_vlog
+igt_skip_on_simulation
+fatal_sig_handler
+igt_install_exit_handler
+igt_waitchildren
+__igt_fork
+__igt_fork
+igt_stop_helper
+igt_wait_helper
+fork_helper_exit_handler
+__igt_fork_helper
+__igt_fork_helper
+igt_exit
+igt_fail
+__igt_skip_check
+igt_skip
+__igt_run_subtest
+9999
+low_mem_killer_disable
+oom_adjust_for_doom
+common_exit_handler
+common_init
+__igt_fixture_end
+__igt_fixture_complete
+__igt_fixture
+>../../lib/drmtest.c
+flags != 0
+drmtest
+i915
+alula
+/dev/dri/card%u
+ret != -1
+No intel gpu found
+drmSetMaster(fd) == 0
+/dev/dri/renderD%u
+i915_ring_stop flags on exit 0x%x, can't quiescent gpu cleanly
+Can't become DRM master, please check if no other DRM client is running.
+__drm_open_driver_render
+drm_open_driver_master
+drm_open_driver
+drm_get_card
+check_stop_rings
+pipe %s none
+../../lib/igt_debugfs.c
+igt-debugfs
+CRC reading
+pipe_crc->flags & O_NONBLOCK
+%8u %8x %8x %8x %8x %8x
+/sys/kernel/debug
+/sys/kernel/debug/dri
+%s/dri/%d
+i915_display_crc_ctl
+pipe_crc->ctl_fd != -1
+i915_pipe_%s_crc
+pipe_crc->crc_fd != -1
+file
+n_read > 0
+feof(file)
+fclose(file) == 0
+error: %#x != %#x
+a->crc[i] == b->crc[i]
+crc->n_words == 5
+%08x %08x %08x %08x %08x
+pipe A none
+pipe %s %s
+all_zero
+crc->crc[i] == 0xffffffff
+0x%lx
+i915_gem_drop_caches
+nbytes == strlen(data) + 1
+i915_gem_objects
+%i objects
+scanned == 1
+plane1
+plane2
+DP-B
+DP-C
+DP-D
+auto
+write(fd, buf, strlen(buf)) == strlen(buf)
+bytes_read == pipe_crc->line_len
+/sys/module/i915/parameters/prefault_disable
+write(fd, &buf[index], 1) == 1
+stat("/sys/kernel/debug", &st) == 0
+No display_crc_ctl found, kernel too old
+CRCs not supported on this platform
+(written == strlen(cmd) && ret == 0) || errno != ENODEV
+write(pipe_crc->ctl_fd, buf, strlen(buf)) == strlen(buf)
+igt_pipe_crc_do_start(pipe_crc)
+Suspicious CRC: All values are 0.
+Suspicious CRC: it looks like the CRC read back was from a register in a powered down well
+get_object_count
+igt_prefault_control
+igt_drop_caches_set
+crc_sanity_checks
+igt_pipe_crc_stop
+read_crc
+igt_pipe_crc_do_start
+igt_pipe_crc_start
+igt_pipe_crc_pipe_off
+pipe_crc_new
+igt_require_pipe_crc
+igt_crc_to_string
+igt_assert_crc_equal
+igt_debugfs_search
+__igt_debugfs_read
+__igt_debugfs_init
+../../lib/igt_aux.c
+IGT_DUMP_AUB
+%s100%%
+%s%3llu%%
+trash_bos
+igt-aux
+trash bo
+rtcwake -n -s 30 -m mem
+rtcwake -s 30 -m mem
+ret == 0
+rtcwake -n -s 90 -m disk
+rtcwake -s 90 -m disk
+getuid() == 0
+setgid(2) == 0
+setuid(2) == 0
+getgid() == 2
+getuid() == 2
+Is %s [Y/n]
+key != 'n' && key != 'N'
+auto
+size == 5
+pm_status_fd >= 0
+n_read >= 0
+suspended
+Unknown status %s
+false
+active
+suspending
+resuming
+(invalid)
+locked_mem
+data
+close(fd) == 0
+write(fd, val, len) == len
+n < PARAM_VALUE_MAX_SZ
+Eleele
+unknown
+DVI-I
+DVI-D
+DVI-A
+composite
+s-video
+LVDS
+component
+9-pin DIN
+HDMI-A
+HDMI-B
+disconnected
+TMDS
+TVDAC
+write(2, msg, sizeof(msg)) == sizeof(msg)
+!(system("rtcwake -n -s 30 -m mem") != 0)
+system("rtcwake -n -s 30 -m mem") != 0
+Test requirement passed: !(%s)
+This failure means that something is wrong with the rtcwake tool or how your distro is set up. This is not a i915.ko or i-g-t bug.
+!(system("rtcwake -n -s 90 -m disk") != 0)
+system("rtcwake -n -s 90 -m disk") != 0
+Press any key to continue ...
+/sys/devices/pci0000:00/0000:00:02.0/power/autosuspend_delay_ms
+Can't open /sys/devices/pci0000:00/0000:00:02.0/power/autosuspend_delay_ms
+/sys/devices/pci0000:00/0000:00:02.0/power/control
+Can't open /sys/devices/pci0000:00/0000:00:02.0/power/control
+strncmp(buf, "auto\n", 5) == 0
+/sys/devices/pci0000:00/0000:00:02.0/power/runtime_status
+Can't open /sys/devices/pci0000:00/0000:00:02.0/power/runtime_status
+gettimeofday(&start_, NULL) == 0
+gettimeofday(&end_, NULL) == 0
+Unlocking previously locked memory.
+Could not allocate enough memory to lock.
+Could not lock memory into RAM.
+Need to increase PARAM_NAME_MAX_SZ
+strlen(name) < PARAM_NAME_MAX_SZ
+Need to increase PARAM_VALUE_MAX_SZ
+n > 0 && n < PARAM_VALUE_MAX_SZ
+igt_set_module_param_int
+igt_module_param_exit_handler
+igt_save_module_param
+igt_set_module_param
+igt_lock_mem
+igt_wait_for_pm_status
+igt_get_runtime_pm_status
+igt_setup_runtime_pm
+igt_debug_manual_check
+igt_drop_root
+igt_system_hibernate_autoresume
+igt_system_suspend_autoresume
+igt_init_aperture_trashers
+IGT_HANG
+IGT_HANG_WITHOUT_RESET
+has_gpu_reset(fd)
+../../lib/igt_gt.c
+igt-gt
+i915_error_state
+write(fd, "", 1) == 1
+Triggering GPU reset
+i915_wedged
+ret == 3
+!(gen < 5)
+gen < 5
+IGT_NO_FORCEWAKE
+i915_forcewake_user
+i915_ring_stop
+l > 0
+l < sizeof(buf)
+errno == 0
+flags == 0 || current == 0
+0x%08x
+current != flags
+/proc/cpuinfo
+processor
+clflush
+clflush size
+i915_ring_missed_irq
+default
+render
+render ring
+bsd ring
+bsd1
+bsd2
+bsd2 ring
+blitter ring
+vebox
+video enhancement ring
+hang injection disabled by user
+ctx == 0 || ring == I915_EXEC_RENDER
+ring && ((ring & ~I915_EXEC_RING_MASK) == 0)
+(flags & ~(STOP_RING_ALL | STOP_RING_ALLOW_BAN | STOP_RING_ALLOW_ERRORS)) == 0
+previous i915_ring_stop is still 0x%x
+snprintf(buf, sizeof(buf), "0x%08x", mask) == 10
+i915_ring_stop readback mismatch 0x%x vs 0x%x
+fscanf(file, "%x", &missed) == 1
+intel_detect_and_clear_missed_interrupts
+stop_rings_write
+igt_set_stop_rings
+igt_get_stop_rings
+igt_to_stop_ring_flag
+igt_fork_hang_helper
+igt_force_gpu_reset
+eat_error_state
+igt_hang_ctx
+igt_require_hang_ring
+../../lib/ioctl_wrappers.c
+ioctl-wrappers
+st.tiling_mode == tiling
+open_struct.handle != 0
+create.handle
+err == 0
+create.ctx_id != 0
+has_ban_period
+arg.handle != 0
+gem_has_ring(fd, ring_id)
+gem_has_bsd2(fd)
+ret >= 0 || errno == ESPIPE
+ret == 0 || errno == EINVAL
+has_modifiers
+__gem_set_tiling(fd, handle, tiling, stride) == 0
+ret == 0 || (errno == ENOTTY || errno == EINVAL)
+drmIoctl((fd), ((((1U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x09)) << 0) | ((((sizeof(struct drm_gem_close)))) << ((0+8)+8)))), (&close_bo)) == 0
+drmIoctl((fd), ((((1U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x40 + 0x1d)) << 0) | ((((sizeof(struct drm_i915_gem_pwrite)))) << ((0+8)+8)))), (&gem_pwrite)) == 0
+drmIoctl((fd), ((((1U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x40 + 0x1c)) << 0) | ((((sizeof(struct drm_i915_gem_pread)))) << ((0+8)+8)))), (&gem_pread)) == 0
+drmIoctl((fd), ((((1U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x40 + 0x1f)) << 0) | ((((sizeof(struct drm_i915_gem_set_domain)))) << ((0+8)+8)))), (&set_domain)) == 0
+drmIoctl((fd), ((((2U|1U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x40 + 0x1b)) << 0) | ((((sizeof(struct local_i915_gem_create_v2)))) << ((0+8)+8)))), (&create)) == 0
+drmIoctl((fd), ((((2U|1U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x40 + 0x1b)) << 0) | ((((sizeof(struct drm_i915_gem_create)))) << ((0+8)+8)))), (&create)) == 0
+__gem_execbuf(fd, execbuf) == 0
+drmIoctl((fd), ((((2U|1U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x40 + 0x26)) << 0) | ((((sizeof(struct drm_i915_gem_madvise)))) << ((0+8)+8)))), (&madv)) == 0
+!(err == -ENODEV || errno == -EINVAL)
+err == -ENODEV || errno == -EINVAL
+drmIoctl((fd), ((((1U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x40 + 0x2e)) << 0) | ((((sizeof(struct drm_i915_gem_context_destroy)))) << ((0+8)+8)))), (&destroy)) == 0
+drmIoctl((fd), ((((2U|1U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x40 + 0x34)) << 0) | ((((sizeof(struct local_i915_gem_context_param)))) << ((0+8)+8)))), (p)) == 0
+__gem_context_set_param(fd, p) == 0
+drmIoctl(fd, LOCAL_IOCTL_I915_GEM_CONTEXT_GETPARAM, &p) == 0
+Skipping, synchronized mappings with no kernel CONFIG_MMU_NOTIFIER?
+!(ret == ENODEV && (flags & LOCAL_I915_USERPTR_UNSYNCHRONIZED) == 0 && !read_only)
+ret == ENODEV && (flags & LOCAL_I915_USERPTR_UNSYNCHRONIZED) == 0 && !read_only
+__gem_userptr(fd, ptr, size, read_only, flags, handle) == 0
+drmIoctl((fd), ((((1U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x40 + 0x20)) << 0) | ((((sizeof(struct drm_i915_gem_sw_finish)))) << ((0+8)+8)))), (&finish)) == 0
+drmIoctl((fd), ((((2U|1U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x40 + 0x17)) << 0) | ((((sizeof(struct drm_i915_gem_busy)))) << ((0+8)+8)))), (&busy)) == 0
+drmIoctl((fd), ((((2U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x40 + 0x23)) << 0) | ((((sizeof(struct drm_i915_gem_get_aperture)))) << ((0+8)+8)))), (&aperture)) == 0
+drmIoctl((fd), ((((2U|1U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x2d)) << 0) | ((((sizeof(struct drm_prime_handle)))) << ((0+8)+8)))), (&args)) == 0
+drmIoctl((fd), ((((2U|1U) << (((0+8)+8)+14)) | ((('d')) << (0+8)) | (((0x2e)) << 0) | ((((sizeof(struct drm_prime_handle)))) << ((0+8)+8)))), (&args)) == 0
+drmIoctl((dma_buf_fd), ((((1U) << (((0+8)+8)+14)) | ((('b')) << (0+8)) | (((0)) << 0) | ((((sizeof(struct local_dma_buf_sync)))) << ((0+8)+8)))), (&sync_start)) == 0
+drmIoctl((dma_buf_fd), ((((1U) << (((0+8)+8)+14)) | ((('b')) << (0+8)) | (((0)) << 0) | ((((sizeof(struct local_dma_buf_sync)))) << ((0+8)+8)))), (&sync_end)) == 0
+igt_require_fb_modifiers
+prime_sync_end
+prime_sync_start
+prime_get_size
+prime_fd_to_handle
+prime_handle_to_fd
+gem_require_ring
+gem_require_caching
+gem_global_aperture_size
+gem_aperture_size
+gem_available_aperture_size
+gem_bo_busy
+gem_sw_finish
+gem_userptr
+__gem_userptr
+gem_context_require_ban_period
+gem_context_require_param
+gem_context_set_param
+gem_context_get_param
+gem_context_destroy
+gem_context_create
+gem_madvise
+gem_mmap__cpu
+gem_mmap__wc
+gem_mmap__gtt
+gem_execbuf
+gem_create
+gem_create_stolen
+gem_set_domain
+gem_read
+gem_write
+gem_close
+gem_flink
+gem_open
+gem_get_caching
+gem_set_caching
+gem_set_tiling
+__gem_set_tiling
+gem_get_tiling
+gem_handle_to_libdrm_bo
+display: 
+igt-kms
+    
+display->log_shift >= 0
+../../lib/igt_kms.c
+invalid
+ (3D:
+SBSH
+LDGFX
+SBSF
+digital
+unspecified
+%s-%d/force
+Current forced connectors:
+%s-%d/edid_override
+debugfs_fd != -1
+reset
+no modes for connector %d
+drmModeGetResources failed
+connector %d has no modes
+could not get encoder %d: %s
+%s-%d
+%s: Selecting pipe %s
+DPMS
+found_it
+rc == 0
+init
+%s {
+plane_resources
+type
+rotation
+display->outputs
+background_color
+%s: set_pipe(any)
+%s: set_pipe(%s)
+plane=%d
+%s.%d: plane_set_fb(%d)
+commit
+!primary->rotation_changed
+plane->drm_plane
+modeset
+plane3
+cursor
+VT: %s: %s, cannot change its mode
+VT: original mode 0x%lx restored
+pipe >= 0 && pipe < display->n_pipes
+plane < ARRAY_SIZE(names) && names[plane]
+  %s %d %d %d %d %d %d %d %d %d 0x%x 0x%x %d%s%s%s
+VT: graphics mode set (mode was 0x%lx)
+asprintf(&path, "%s-%d/force", kmstest_connector_type_str(connector->connector_type), connector->connector_type_id) != -1
+Connector limit reached, %s will not be reset
+Connector %s is now forced %s
+asprintf(&path, "%s-%d/edid_override", kmstest_connector_type_str(connector->connector_type), connector->connector_type_id) != -1
+God A red nugget A fat egg under a dog
+connector id doesn't match (%d != %d)
+asprintf(&output->name, "%s-%d", kmstest_connector_type_str(c->connector_type), c->connector_type_id) != -1
+drmModeConnectorSetProperty(fd, connector->connector_id, dpms, mode) == 0
+DPMS property not found on %d
+new_edid_ptr != NULL && new_length != NULL
+pipe->planes[IGT_PLANE_PRIMARY].drm_plane && pipe->planes[IGT_PLANE_CURSOR].drm_plane
+pipe->n_planes <= IGT_MAX_PLANES
+plane >= 0 && plane < (pipe->n_planes)
+%s.%d: plane_set_position(%d,%d)
+%s.%d: plane_set_size (%dx%d)
+%s.%d: fb_set_position(%d,%d)
+%s.%d: fb_set_position(%dx%d)
+%s.%d: plane_set_panning(%d,%d)
+%s.%d: plane_set_rotation(%s)
+%s.%d: crtc_set_background(%lx)
+drmWaitVBlank(drm_fd, &wait_vbl) == 0
+%s and %s are both trying to use pipe %s
+a->pending_crtc_idx_mask != b->pending_crtc_idx_mask
+%s: SetCursor pipe %s, fb %u %dx%d
+%s: SetCursor pipe %s, disabling
+%s: MoveCursor pipe %s, (%d, %d)
+(primary->crtc_x == 0 && primary->crtc_y == 0)
+%s: SetCrtc pipe %s, fb %u, panning (%d, %d), mode %dx%d
+igt_plane_supports_rotation(plane) || !plane->rotation_changed
+%s: SetPlane pipe %s, plane %d, disabling
+%s: SetPlane %s.%d, fb %u, src = (%d, %d) %ux%u dst = (%u, %u) %ux%u
+%s: SetCrtc pipe %s, disabling
+Unable to force state on %s-%d
+write(fd, "unspecified", 11) == 11
+igt_reset_connectors
+igt_wait_for_vblank
+rotation_name
+igt_pipe_get_plane
+igt_drm_plane_commit
+igt_primary_plane_commit_legacy
+igt_cursor_commit_legacy
+igt_output_get_driving_pipe
+igt_display_refresh
+igt_display_log_shift
+igt_output_refresh
+igt_display_init
+kmstest_unset_all_crtcs
+kmstest_edid_add_3d
+kmstest_set_connector_dpms
+kmstest_force_edid
+kmstest_force_connector
+kmstest_set_vt_graphics_mode
+/dev/tty0
+kmstest_restore_vt_mode
+kmstest_get_pipe_from_crtc_id
+kmstest_plane_name
+Borrow or rob
+/sys/module/snd_hda_intel/parameters/power_save
+/sys/bus/pci/devices/0000:00:03.0/power/control
+/sys/class/scsi_host/host%d/link_power_management_policy
+write(fd, "min_power\n", strlen("min_power\n")) == strlen("min_power\n")
+write(fd, "max_performance\n", strlen("max_performance\n")) == strlen("max_performance\n")
+write(fd, "medium_power\n", strlen("medium_power\n")) == strlen("medium_power\n")
+write(fd, "1\n", 2) == 2
+../../lib/igt_pm.c
+igt-pm
+write(fd, "auto\n", 5) == 5
+max_performance
+medium_power
+min_power
+igt_pm_restore_sata_link_power_management
+igt_pm_enable_sata_link_power_management
+igt_pm_enable_audio_runtime_pm
+;*3$"
+a@E@1@
+@0 4
+;=?A
+      
+         
+a@E@1@
+q8-@X,E
+;=BD
+      
+         
+a6f22173ea545eede5fcafcedc1c75d5689096.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.data.rel.ro
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

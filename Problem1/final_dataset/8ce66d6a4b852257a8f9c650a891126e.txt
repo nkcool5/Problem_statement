@@ -1,0 +1,567 @@
+/lib64/ld-linux-x86-64.so.2
+libpciaccess.so.0
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+pci_device_next
+pci_system_init
+_fini
+pci_device_is_boot_vga
+pci_system_cleanup
+pci_slot_match_iterator_create
+libdrm.so.2
+drmFreeVersion
+drmGetVersion
+libkmod.so.2
+kmod_unref
+kmod_module_new_from_name
+kmod_module_info_get_key
+kmod_list_next
+kmod_module_get_info
+kmod_module_info_free_list
+kmod_module_unref
+kmod_module_info_get_value
+kmod_new
+libc.so.6
+fflush
+strcpy
+exit
+readdir
+sprintf
+fopen
+strncmp
+strrchr
+closedir
+__stack_chk_fail
+unlink
+putchar
+abort
+popen
+strdup
+strftime
+strtok
+fgets
+calloc
+strlen
+strstr
+__errno_location
+read
+toupper
+stdout
+fclose
+malloc
+strcat
+opendir
+__ctype_b_loc
+sscanf
+optarg
+stderr
+system
+readlink
+getopt_long
+fileno
+pclose
+fwrite
+rename
+localtime
+strchr
+fprintf
+getline
+memmove
+uname
+strcmp
+strerror
+__libc_start_main
+snprintf
+free
+__xstat
+__lxstat
+_edata
+__bss_start
+_end
+GLIBC_2.3
+GLIBC_2.4
+GLIBC_2.2.5
+LIBKMOD_5
+5R	!
+%T	!
+%R	!
+%J	!
+%B	!
+%:	!
+%2	!
+%*	!
+%"	!
+UH-`&a
+dH3<%(
+load_staH
+te=-1 unH
+load_staH
+te=1
+skip_optH
+imus_dsmH
+dH34%(
+AUATSH
+([A\A]]
+/usr/binH
+/amdconfH
+ --initiH
+dH34%(
+APWVE
+ARWV
+u-d-c-gpH
+u-%04x:%H
+02x:%02xH
+.%d-0x%0H
+4x-0x%04H
+APWM
+dH34%(
+/sys/claH
+ss/df
+2v'H
+/dev/driH
+dH34%(
+dH34%(
+/etc/atiH
+/amdpcsdH
+AWAVA
+AUATL
+[]A\A]A^A_
+can't access %s
+%s is empty
+/sys/module/%s/refcnt
+Error: %s does not exist or is empty.
+can't open %s
+can't get line from %s
+Invalid %s="%s"
+%s="%s"
+Found matching quirk
+Loading
+Unloading
+%s %s with "%s" parameters
+/sbin/modprobe
+/sbin/rmmod
+%s %s %s
+%s %s
+with
+without
+1st try: bbswitch %s quirks
+bbswitch
+2nd try: bbswitch %s quirks
+Failed to run command %s
+grep -G "blacklist.*%s[[:space:]]*$" %s
+%s is not a file
+Degas are we not drawn onward no In union drawn onward to new eras aged
+grep -G "^blacklist.*%s[[:space:]]*$" %s/*.conf
+dpkg --print-architecture
+amd64
+x86_64-linux-gnu
+i386-linux-gnu
+i386
+Warning: I couldn't open %s (fake alternatives path) for reading.
+nvidia
+update-alternatives --list %s_%s_conf
+prime
+Warning: I couldn't open %s (fake_core_alternatives_path) for reading.
+A Santa lives evil at NASA
+fglrx
+update-alternatives --list %s_gfxcore_conf
+unblacklist
+%s/u-d-c-%s-was-loaded
+%s was unloaded
+lightdm
+/etc/X11/default-display-manager
+Beeb
+sddm
+mesa
+core
+pxpress
+Warning: invalid alternative struct
+Warning: invalid current alternative
+Warning: invalid current core alternative
+Warning: invalid current egl alternative
+gfxcore
+Error: can't recognise pattern: %s
+Warning: can't open alternatives path: %s
+/usr/bin/update-alternatives --query %s_%s_conf
+Failed to run command: %s
+Value:
+Alternative:
+/usr/bin/update-alternatives --set %s_%s_conf %s
+update-alternatives status %d
+Calling ldconfig
+/sbin/ldconfig
+ldconfig status %d
+Error: no alternative found for %s
+Warning: no EGL alternative found for %s
+/proc/cmdline
+nogpumanager
+gpumanager_modesetting
+Detected boot parameter to force the modesetting driver
+gpumanager_uxa
+Detected boot parameter to force Intel/UXA
+gpumanager_sna
+Detected boot parameter to force Intel/SNA
+error: can't open %s for reading
+error: can't open %s for writing.
+copying %s to %s...
+write error on file %s
+%s was copied successfully to %s
+Error : Failed to open %s
+dir entry: %s
+%s/%s
+non-hybrid
+hybrid-performance
+God A red nugget A fat egg under a dog
+hybrid-power-saving
+force-dgpu-on
+force-dgpu-on: %s
+Calling amdconfig
+amdconfig status %d
+amdconfig is not available
+Regenerating xorg.conf. Path: %s
+I couldn't open %s for writing.
+    Driver "%s"
+Section "Device"
+    Identifier "Default Card %d"
+%s    BusID "PCI:%d@%d:%d:%d"
+EndSection
+Error: couldn't allocate memory for accel_method
+Section "ServerLayout"
+    Identifier "amd-layout"
+    Screen 0 "amd-screen" 0 0
+EndSection
+Section "Device"
+    Identifier "intel"
+    Driver "intel"
+    Option "AccelMethod" "%s"
+    BusID "PCI:%d@%d:%d:%d"
+EndSection
+Do nine men interpret Nine men I nod
+Section "Device"
+    Identifier "amd-device"
+    Driver "fglrx"
+    BusID "PCI:%d:%d:%d"
+EndSection
+Section "Monitor"
+    Identifier "amd-monitor"
+    Option "VendorName" "ATI Proprietary Driver"
+    Option "ModelName" "Generic Autodetecting Monitor"
+    Option "DPMS" "true"
+EndSection
+Section "Screen"
+    Identifier "amd-screen"
+    Device "amd-device"
+    Monitor "amd-monitor"
+    DefaultDepth 24
+Eleele
+    SubSection "Display"
+        Viewport   0 0
+        Depth     24
+    EndSubSection
+EndSection
+Error: I couldn't open %s for reading.
+EnabledFlags=
+sed -i s/EnabledFlags=V%u/EnabledFlags=V%u/g %s
+Setting EnabledFlags to %u
+Driver
+Found binary driver in %s
+"PCI:%d@%d:%d:%d"
+Option
+AllowEmptyInitialConfiguration
+ConstrainCursor
+IgnoreDisplayDevices
+AccelMethod
+None
+modesetting
+intel
+intel_matches: %d, nvidia_matches: %d, intel_set: %d, nvidia_set: %d x_options_matches: %d, accel_method_matches: %d
+"PCI:%d:%d:%d"
+intel_matches: %d, amd_matches: %d, intel_set: %d, fglrx_set: %d x_options_matches: %d
+BusID
+%s driver should be set in xorg.conf. Setting as failure.
+    Option "AccelMethod" "None"
+    Option "AccelMethod" "UXA"
+    Option "AccelMethod" "SNA"
+Error: failed to allocate accel_method.
+Section "ServerLayout"
+alula
+    Identifier "layout"
+    Screen 0 "nvidia"
+    Inactive "intel"
+EndSection
+Section "Device"
+    Identifier "intel"
+    Driver "%s"
+    BusID "PCI:%d@%d:%d:%d"
+%sEndSection
+Section "Screen"
+    Identifier "intel"
+    Device "intel"
+EndSection
+Section "Device"
+    Identifier "nvidia"
+    Driver "nvidia"
+    BusID "PCI:%d@%d:%d:%d"
+    Option "ConstrainCursor" "off"
+EndSection
+Section "Screen"
+    Identifier "nvidia"
+    Device "nvidia"
+    Option "AllowEmptyInitialConfiguration" "on"
+    Option "IgnoreDisplayDevices" "CRT"
+EndSection
+Error: can't open %s
+nvidia-modeset
+nvidia-drm
+LD_LIBRARY_PATH="/usr/lib/nvidia-%d" /usr/bin/nvidia-smi -pm 0
+Disabling persistence mode
+nvidia-uvm
+The number of cards has changed!
+%04x:%04x;%04x:%02x:%02x:%d;%d
+I couldn't open %s for reading.
+Create %s for the 1st time
+Adding GPU from file: %s
+no matches, status = %d, expected = %d
+Adding %04x:%04x in PCI:%02x@%04x:%02x:%d to the list
+Successfully detected disabled cards. Total number is %d now
+Looking for disabled cards in %s
+u-d-c-gpu-
+Error: name %s/%s too long
+Error: uname failed
+/lib/modules/%s/updates/dkms
+Looking for %s modules in %s
+Found %s module: %s
+/proc/modules
+Error: can't open /proc/modules
+can't access %s file
+Error: can't access %s
+/sys/bus/pci/devices/%04x:%02x:%02x.%d/driver
+pci-stub
+pciback
+connected
+Warning: can't open %s
+Warning: name %s/%s too long
+%s/%s/status
+output %d:
+card
+Found "%s", driven by "%s"
+Skipping "%s", driven by "%s"
+Error: can't open fd for %s
+Number of connected outputs for %s: %d
+amdgpu
+radeon
+nouveau
+i915
+/var/lib/ubuntu-drivers-common/requires_offloading
+%H%M%m%d%Y
+%s.%s
+Removing xorg.conf. Path: %s
+%m%d%Y
+Moved %s to %s
+No need to regenerate xorg.conf.
+Section "Device"
+    Identifier "Default Card %d"
+    BusID "PCI:%d@%d:%d:%d"
+EndSection
+Selecting mesa
+Selecting nvidia
+Driver is already loaded and enabled
+Check failed
+Custom non-hybrid xorg.conf detected
+No need to modify xorg.conf. Path: %s
+Error: failed to enable the driver
+Trying to create new settings for prime. Path: %s
+%d.%d
+Warning: couldn't get the driver version from %s
+can't acquire module via kmod
+can't get module info via kmod
+version
+force-dgpu-on hook %s
+Neither Lightdm nor GDM is the default display manager. Nothing to do
+Nvidia driver version %d.%d detected
+Error: hybrid graphics is not supported with driver releases older than 331
+Warning: no settings for prime can be found in %s.
+Error: failed to create %s
+Warning: can't load bbswitch, switching between GPUs won't work
+Custom hybrid performance xorg.conf detected
+Selecting prime
+Custom hybrid power saving xorg.conf detected
+No need to change the current bbswitch status
+Powering on the discrete card
+Powering off the discrete card
+Selecting fglrx
+Selecting pxpress
+a:b:c:d:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:x:y:z:
+option %s
+ with arg %s
+Warning: writing to %s failed (%s)
+Disabled by kernel parameter "%s"
+log_file: %s
+/var/lib/ubuntu-drivers-common/last_gfx_boot
+last_boot_file: %s
+No last_boot_file!
+new_boot_file: %s
+fake_lspci_file: %s
+xorg.conf file: %s
+/etc/X11/xorg.conf
+Couldn't allocate xorg_conf_file
+/run
+prime_settings file: %s
+/etc/prime-discrete
+Couldn't allocate prime_settings
+bbswitch_path file: %s
+/proc/acpi/bbswitch
+Couldn't allocate bbswitch_path
+bbswitch_quirks_path file: %s
+/usr/share/nvidia-prime/prime-quirks
+Couldn't allocate bbswitch_quirks_path
+dmi_product_name_path file: %s
+/sys/class/dmi/id/product_name
+Couldn't allocate dmi_product_name_path
+dmi_product_version_path file: %s
+/sys/class/dmi/id/product_version
+Couldn't allocate dmi_product_version_path
+amd_pcsdb_file file: %s
+Couldn't allocate amd_pcsdb_file
+nvidia_driver_version_path file: %s
+/sys/module/nvidia/version
+Couldn't allocate nvidia_driver_version_path
+modprobe_d_path file: %s
+/etc/modprobe.d
+Couldn't allocate modprobe_d_path
+custom_hook_path: %s
+/usr/share/gpu-manager.d
+Couldn't allocate custom_hook_path
+fake_modules_path file: %s
+i810
+Tacocat
+Is nvidia loaded? %s
+Was nvidia unloaded? %s
+Is nvidia blacklisted? %s
+Is fglrx loaded? %s
+Was fglrx unloaded? %s
+Is fglrx blacklisted? %s
+Is intel loaded? %s
+Is radeon loaded? %s
+Is radeon blacklisted? %s
+Is amdgpu loaded? %s
+Is amdgpu blacklisted? %s
+Is nouveau loaded? %s
+Is nouveau blacklisted? %s
+Is fglrx kernel module available? %s
+Is nvidia kernel module available? %s
+Error: can't read %s
+Vendor/Device Id: %x:%x
+BusID "PCI:%d@%d:%d:%d"
+Is boot vga? %s
+Borrow or rob
+The device is not bound to any driver. Skipping...
+The device is a pci passthrough. Skipping...
+Warning: too many devices %d. Max supported %d. Ignoring the rest.
+Does it require offloading? %s
+Can't read %s
+last cards number = %d
+Error: can't write to %s
+Has amd? %s
+Has intel? %s
+Has nvidia? %s
+How many cards? %d
+Has the system changed? %s
+Error: the current architecture is not supported
+main_arch_path %s, other_arch_path %s
+Error: no alternative found
+Current alternative: %s
+Current core alternative: %s
+Current egl alternative: %s
+Is nvidia enabled? %s
+Is nvidia egl enabled? %s
+Is fglrx enabled? %s
+Is mesa enabled? %s
+Is mesa egl enabled? %s
+Is pxpress enabled? %s
+Is prime enabled? %s
+Is prime egl enabled? %s
+Is nvidia available? %s
+Is nvidia egl available? %s
+Is fglrx available? %s
+Is fglrx-core available? %s
+Is mesa available? %s
+Is mesa egl available? %s
+Is pxpress available? %s
+Is prime available? %s
+Is prime egl available? %s
+Proprietary driver installer detected
+Nothing to do
+System configuration has changed
+Single card detected
+PowerXpress detected
+PRIME detected
+Kernel Module is not loaded
+No change - nothing to do
+Intel IGP detected
+Intel hybrid system
+Desktop system detected
+or laptop with open drivers
+Discrete NVIDIA card detected
+Driver not enabled or not in use
+Discrete AMD card detected
+Unsupported discrete card vendor: %x
+AMD IGP detected
+dry-run
+fake-requires-offloading
+fake-no-requires-offloading
+fake-lightdm
+fake-module-is-available
+fake-module-is-not-available
+backup-log
+fake-lspci
+last-boot-file
+new-boot-file
+xorg-conf-file
+amd-pcsdb-file
+fake-alternative
+fake-egl-alternative
+fake-core-alternative
+fake-modules-path
+fake-alternatives-path
+fake-egl-alternatives-path
+fake-core-alternatives-path
+gpu-detection-path
+prime-settings
+bbswitch-path
+bbswitch-quirks-path
+dmi-product-version-path
+dmi-product-name-path
+nvidia-driver-version-path
+modprobe-d-path
+custom-hook-path
+;*3$"
+abbd3c3d04795302a74978ed02ffd4f66109ca.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

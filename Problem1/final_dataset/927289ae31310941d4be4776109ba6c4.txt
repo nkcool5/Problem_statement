@@ -1,0 +1,1719 @@
+/lib64/ld-linux-x86-64.so.2
+dJ@L4
+RB3D
+e@2pK
+(T2)+
+vO*W
+;I\I<
+Borrow or rob
+	]B?
+6MS}
+1~emL
+#j	C
+libwidgets.so
+g_param_spec_object
+g_free
+gtk_get_current_event_time
+gtk_label_set_use_markup
+gtk_grid_set_row_spacing
+gtk_entry_new
+g_param_spec_string
+gtk_bin_get_child
+g_simple_async_result_set_op_res_gpointer
+g_time_val_from_iso8601
+g_value_get_string
+gtk_toggle_button_get_active
+gtk_cell_renderer_text_new
+__gmon_start__
+_Jv_RegisterClasses
+g_object_unref
+gtk_label_new
+g_signal_connect_object
+g_signal_emit_by_name
+g_strcmp0
+g_strdup
+gtk_entry_set_text
+g_clear_error
+g_value_set_boolean
+gtk_tree_view_insert_column_with_attributes
+g_simple_async_result_get_type
+gtk_combo_box_set_model
+gtk_widget_get_type
+g_list_foreach
+g_list_free
+g_strconcat
+gtk_size_group_add_widget
+gtk_grid_attach
+gtk_button_new_with_mnemonic
+gtk_window_set_focus_on_map
+gtk_label_set_xalign
+g_object_class_install_property
+g_enum_register_static
+gtk_tree_view_set_headers_visible
+gtk_message_dialog_new
+gtk_widget_get_preferred_size
+g_object_notify
+gtk_entry_get_text
+g_simple_async_result_new
+gtk_list_store_clear
+gtk_label_set_ellipsize
+_ITM_deregisterTMCloneTable
+g_value_get_boolean
+gtk_widget_show_all
+gtk_widget_set_sensitive
+g_assertion_message_expr
+g_object_new
+gtk_window_set_urgency_hint
+g_object_ref
+_ITM_registerTMCloneTable
+g_strdup_printf
+g_signal_handlers_disconnect_matched
+g_value_set_string
+g_type_check_class_cast
+g_simple_async_result_complete_in_idle
+g_file_query_file_type
+gtk_window_get_type
+g_param_spec_boolean
+gtk_grid_set_column_spacing
+g_signal_parse_name
+g_object_get
+gtk_box_new
+g_return_if_fail_warning
+gtk_image_new_from_icon_name
+gtk_window_get_screen
+g_type_register_static
+gtk_widget_get_style_context
+g_object_set
+g_value_get_object
+gtk_label_set_label
+gtk_widget_hide
+gtk_label_set_max_width_chars
+deja_dup_last_run_date
+g_signal_new
+g_object_ref_sink
+g_type_check_instance_is_a
+gtk_widget_set_hexpand
+g_type_name
+g_signal_connect_data
+g_file_get_parse_name
+g_type_instance_get_private
+g_simple_async_result_complete
+g_type_check_instance_cast
+gtk_widget_show
+gtk_list_store_new
+gtk_entry_set_input_purpose
+g_cclosure_marshal_VOID__VOID
+g_strsplit
+gtk_container_add
+gtk_tree_path_free
+gtk_grid_new
+gtk_size_group_new
+gtk_event_box_new
+gtk_toggle_button_set_active
+gtk_scrolled_window_new
+g_malloc0
+gtk_list_store_set
+g_idle_add_full
+gtk_message_dialog_format_secondary_text
+gtk_box_pack_start
+g_list_prepend
+g_simple_async_result_get_op_res_gpointer
+g_value_set_object
+g_once_init_enter
+g_file_get_path
+gtk_tree_model_get
+g_get_current_time
+gtk_combo_box_text_new
+g_error_free
+gtk_tree_model_get_iter
+gtk_combo_box_set_active_iter
+g_file_new_for_path
+g_dngettext
+g_once_init_leave
+gtk_check_button_new_with_mnemonic
+gtk_combo_box_get_active_iter
+gtk_container_remove
+g_quark_to_string
+g_dgettext
+g_type_class_add_private
+g_slice_free1
+g_type_class_peek_parent
+gtk_label_set_markup
+g_log
+gtk_container_set_border_width
+g_slice_alloc0
+gtk_tree_model_iter_n_children
+A Santa lives evil at NASA
+g_file_equal
+deja_dup_hide_background_window_for_shell
+deja_dup_config_location_get_extras
+deja_dup_show_background_window_for_shell
+deja_dup_destroy_widget
+deja_dup_config_location_new
+deja_dup_gui_initialize
+deja_dup_config_location_hidden_size
+deja_dup_config_label_location_new
+deja_dup_get_shell
+libgtk-3.so.0
+g_mount_operation_get_type
+g_sequence_new
+g_get_system_data_dirs
+g_sequence_free
+g_option_context_parse
+g_option_context_add_group
+g_cclosure_marshal_VOID__INT
+g_get_application_name
+g_type_is_a
+g_list_remove_link
+gdk_pixbuf_get_type
+g_file_new_for_commandline_arg
+g_sequence_get_length
+g_mount_operation_set_password
+g_str_equal
+g_option_context_new
+g_list_length
+g_main_loop_quit
+gdk_screen_get_display
+g_path_get_basename
+g_list_append
+g_build_filename
+g_file_get_child
+g_sequence_get_begin_iter
+g_hash_table_new_full
+g_mount_operation_set_domain
+g_file_query_exists
+g_hash_table_insert
+g_strchomp
+g_sequence_insert_sorted
+g_main_loop_run
+g_main_loop_new
+gdk_notify_startup_complete
+g_desktop_app_info_new
+g_type_check_value_holds
+g_hash_table_lookup_extended
+g_value_set_pointer
+g_app_info_launch
+g_hash_table_lookup
+g_param_spec_pointer
+g_option_context_free
+g_str_hash
+g_markup_printf_escaped
+g_hash_table_unref
+g_list_find_custom
+g_mount_operation_set_username
+g_print
+g_dpgettext
+g_value_get_pointer
+g_mount_operation_set_password_save
+g_mount_operation_set_anonymous
+g_mount_operation_set_choice
+g_option_context_add_main_entries
+g_param_spec_types
+g_sequence_get
+g_mount_operation_reply
+gdk_screen_get_default
+gdk_display_get_app_launch_context
+g_malloc0_n
+g_list_copy
+g_strchug
+g_sequence_remove
+g_file_get_type
+g_cclosure_marshal_VOID__OBJECT
+g_cclosure_marshal_VOID__BOOLEAN
+g_main_loop_unref
+g_source_remove
+gtk_get_option_group
+gtk_status_icon_position_menu
+gtk_orientable_set_orientation
+gtk_window_present_with_time
+gtk_label_get_type
+gtk_check_button_get_type
+gtk_progress_bar_pulse
+gtk_widget_set_visible
+gtk_text_buffer_get_line_count
+gtk_container_foreach
+gtk_icon_theme_get_default
+gtk_message_dialog_set_image
+gtk_widget_set_valign
+gtk_menu_popup
+gtk_button_box_new
+gtk_scrolled_window_get_vadjustment
+gtk_editable_select_region
+gtk_progress_bar_set_fraction
+gtk_text_view_new
+gtk_icon_theme_load_icon
+gtk_status_icon_new
+gtk_window_get_focus
+gtk_entry_get_type
+gtk_text_buffer_get_iter_at_line
+gtk_label_select_region
+gtk_text_buffer_set_text
+gtk_builder_connect_signals
+gtk_separator_menu_item_new
+gtk_button_box_set_layout
+gtk_widget_set_vexpand
+gtk_widget_set_no_show_all
+gtk_tree_path_new_from_string
+gtk_box_pack_end
+gtk_widget_override_color
+gtk_text_buffer_delete
+gtk_spinner_start
+gtk_text_view_get_buffer
+gtk_scrolled_window_add_with_viewport
+gtk_widget_set_size_request
+gtk_widget_ensure_style
+gtk_widget_realize
+gtk_widget_set_name
+gtk_status_icon_set_tooltip_text
+gtk_main_quit
+gtk_widget_set_can_default
+gtk_progress_bar_new
+gtk_tree_view_new_with_model
+gtk_radio_button_get_type
+gtk_widget_grab_focus
+gtk_text_buffer_get_char_count
+gtk_radio_button_new_with_mnemonic_from_widget
+gtk_expander_get_expanded
+gtk_adjustment_get_page_size
+gtk_list_store_prepend
+gtk_alignment_new
+gtk_label_set_selectable
+gtk_builder_get_object
+gtk_window_set_skip_taskbar_hint
+gtk_adjustment_get_upper
+gtk_icon_theme_append_search_path
+gtk_menu_shell_append
+gtk_list_store_append
+gtk_widget_set_tooltip_text
+gtk_expander_new_with_mnemonic
+gtk_dialog_add_buttons
+gtk_adjustment_get_value
+gtk_menu_new
+gtk_builder_add_from_file
+gtk_spinner_stop
+gtk_label_set_text
+gtk_main
+gtk_style_context_get_color
+gtk_cell_renderer_toggle_get_active
+gtk_widget_get_size_request
+gtk_box_get_type
+gtk_label_new_with_mnemonic
+gtk_window_get_icon_name
+gtk_file_chooser_button_new
+gtk_widget_get_visible
+gtk_radio_button_new_with_mnemonic
+gtk_widget_override_background_color
+gtk_window_move
+gtk_text_view_set_wrap_mode
+gtk_cell_renderer_toggle_new
+gtk_adjustment_set_value
+gtk_radio_button_new
+gtk_text_view_set_editable
+gtk_text_buffer_get_end_iter
+gtk_init
+gtk_window_set_default_icon_name
+gtk_text_buffer_get_start_iter
+gtk_widget_grab_default
+gtk_window_set_title
+gtk_spinner_new
+gtk_image_new
+gtk_builder_new
+gtk_menu_item_new_with_mnemonic
+gtk_label_set_track_visited_links
+gtk_container_child_set
+gtk_style_context_get_background_color
+gtk_widget_queue_resize
+gtk_scrolled_window_get_type
+gtk_window_set_icon_name
+gtk_box_set_spacing
+gtk_combo_box_text_get_active_text
+gtk_grid_set_row_homogeneous
+gtk_icon_theme_get_for_screen
+gtk_mount_operation_new
+gtk_file_chooser_get_filename
+libgdk-3.so.0
+g_printerr
+g_timeout_add_full
+libgdk_pixbuf-2.0.so.0
+libgio-2.0.so.0
+g_regex_new
+g_regex_replace_literal
+Do nine men interpret Nine men I nod
+g_mount_operation_get_choice
+g_file_has_parent
+libgobject-2.0.so.0
+g_regex_unref
+g_value_type_compatible
+g_type_fundamental_next
+g_type_register_fundamental
+g_signal_handlers_destroy
+g_type_free_instance
+g_param_spec_internal
+g_type_create_instance
+g_object_bind_property_with_closures
+libglib-2.0.so.0
+g_date_set_time_val
+g_time_val_to_iso8601
+g_option_context_get_help
+g_regex_error_quark
+g_date_compare
+g_option_context_set_summary
+g_regex_escape_string
+g_set_application_name
+libnotify.so.4
+notify_notification_close
+notify_notification_set_hint_string
+notify_notification_add_action
+notify_notification_new
+notify_notification_show
+notify_init
+libsecret-1.so.0
+secret_password_lookup
+secret_schema_unref
+secret_password_store
+secret_password_store_finish
+secret_password_lookup_finish
+libunity.so.9
+unity_launcher_entry_get_for_desktop_id
+unity_launcher_entry_set_quicklist
+unity_launcher_entry_set_progress
+unity_launcher_entry_set_progress_visible
+libdbusmenu-glib.so.4
+dbusmenu_menuitem_new
+dbusmenu_menuitem_child_append
+dbusmenu_menuitem_property_set
+libdeja.so
+deja_dup_get_passphrase_schema
+deja_dup_i18n_setup
+deja_dup_operation_get_state
+deja_dup_operation_get_type
+deja_dup_set_settings_read_only
+deja_dup_update_last_run_timestamp
+deja_dup_backend_set_mount_op
+deja_dup_operation_set_passphrase
+deja_dup_operation_get_use_cached_password
+deja_dup_operation_start
+deja_dup_operation_set_use_progress
+deja_dup_get_display_name
+deja_dup_has_seen_settings
+deja_dup_update_nag_time
+deja_dup_operation_stop
+deja_dup_operation_files_new
+deja_dup_operation_get_needs_password
+deja_dup_operation_cancel
+Eleele
+deja_dup_operation_set_state
+deja_dup_operation_status_new
+deja_dup_operation_files_get_time
+deja_dup_operation_state_unref
+deja_dup_operation_get_backend
+deja_dup_operation_backup_new
+deja_dup_get_file_desc
+deja_dup_update_prompt_time
+deja_dup_operation_restore_new
+deja_dup_operation_get_mode
+deja_dup_in_testing_mode
+deja_dup_operation_set_needs_password
+libpthread.so.0
+libc.so.6
+__stack_chk_fail
+strftime
+localtime_r
+strtol
+strlen
+strstr
+__libc_start_main
+_edata
+__bss_start
+/usr/lib/x86_64-linux-gnu/deja-dup
+deja_dup_app_main
+assistant_operation_add_setup_pages
+assistant_restore_missing_get_type
+assistant_restore_missing_new
+deja_dup_app_new
+assistant_operation_get_password_page
+mount_operation_assistant_set_label_username
+assistant_operation_make_confirm_page
+assistant_hide_for_now
+deleted_file_set_deleted
+mount_operation_assistant_set_label_show_password
+deleted_file_filename
+__libc_csu_fini
+show_prompt_notification
+assistant_backup_construct
+mount_operation_assistant_set_label_remember_password
+shell_status_icon_get_type
+deleted_file_set_restore
+assistant_operation_make_question_page
+deleted_file_get_type
+get_cancel_button
+assistant_param_spec_page_info
+assistant_operation_do_apply_finish
+assistant_restore_query_finished
+status_icon_create
+__data_start
+assistant_operation_ensure_status_icon
+value_set_deleted_file
+assistant_set_apply_text
+get_ok_button
+assistant_go_back
+assistant_skip
+assistant_restore_get_type
+status_icon_close_action_get_type
+assistant_interrupt
+assistant_restore_new
+assistant_type_get_type
+assistant_restore_missing_construct
+assistant_operation_get_type
+assistant_allow_forward
+assistant_restore_missing_do_query_files_at_date
+assistant_operation_get_nag_page
+mount_operation_assistant_set_label_password
+assistant_set_header_icon
+assistant_operation_apply_finished
+deja_dup_app_get_type
+mount_operation_assistant_get_type
+assistant_page_info_new
+mount_operation_assistant_set_go_forward
+mount_operation_assistant_get_assist
+assistant_backup_get_type
+mount_operation_assistant_new
+assistant_operation_make_progress_page
+assistant_set_page_title
+assistant_page_info_construct
+assistant_go_to_page
+assistant_restore_do_query_finish
+mount_operation_assistant_get_label_remember_password
+unity_status_icon_new
+assistant_go_forward
+legacy_status_icon_new
+mount_operation_assistant_get_label_password
+deleted_file_get_name
+assistant_restore_set_restore_location
+deleted_file_set_name
+assistant_operation_get_summary_page
+toplevel
+status_icon_get_show_automatic_progress
+assistant_operation_do_prepare
+assistant_page_info_ref
+assistant_operation_make_nag_page
+assistant_operation_get_error_occurred
+assistant_backup_new
+assistant_restore_get_restore_files
+assistant_page_info_unref
+assistant_value_set_page_info
+status_icon_update_progress
+assistant_restore_missing_query_files_finished
+mount_operation_assistant_get_label_title
+mount_operation_assistant_get_label_username
+mount_operation_assistant_construct
+assistant_get_apply_text
+assistant_restore_new_with_files
+assistant_operation_ask_passphrase
+unity_status_icon_construct
+assistant_operation_construct
+__libc_csu_init
+assistant_value_take_page_info
+mount_operation_assistant_get_go_forward
+assistant_operation_pause_op
+assistant_operation_set_secondary_label
+assistant_is_interrupted
+assistant_operation_do_cancel
+assistant_operation_create_op
+mount_operation_assistant_set_label_help
+mount_operation_assistant_set_label_title
+assistant_operation_get_automatic
+assistant_operation_provide_password_finish
+status_icon_get_op
+assistant_operation_do_close
+assistant_restore_get_restore_location
+deleted_file_get_restore
+param_spec_deleted_file
+assistant_operation_get_passphrase
+assistant_restore_missing_handle_listed_files
+assistant_operation_get_confirm_page
+deleted_file_ref
+assistant_operation_get_progress_file_prefix
+assistant_restore_construct
+mount_operation_assistant_get_label_button
+assistant_operation_hide_everything
+deleted_file_new
+legacy_status_icon_construct
+deleted_file_construct
+shell_status_icon_new
+assistant_operation_show_error
+deja_dup_app_construct
+mount_operation_assistant_set_label_button
+shell_status_icon_construct
+assistant_operation_do_apply
+status_icon_get_window
+deleted_file_queue_format
+status_icon_done
+value_take_deleted_file
+show_prompt_dialog
+unity_status_icon_get_type
+get_header
+assistant_restore_do_query
+assistant_operation_make_summary_page
+assistant_value_get_page_info
+status_icon_skip
+deleted_file_unref
+prompt
+status_icon_later
+assistant_restore_construct_with_files
+mount_operation_assistant_get_label_help
+assistant_get_last_op_was_back
+assistant_operation_get_op_icon
+assistant_operation_force_visible
+assistant_restore_handle_collection_dates
+status_icon_get_automatic
+value_get_deleted_file
+assistant_operation_make_op_icon
+_IO_stdin_used
+assistant_operation_provide_password
+assistant_page_info_get_type
+mount_operation_assistant_get_label_show_password
+assistant_operation_add_custom_config_pages
+deleted_file_get_deleted
+get_body
+assistant_append_page
+assistant_operation_make_password_page
+assistant_restore_set_restore_files
+assistant_operation_get_question_page
+assistant_operation_get_progress_page
+legacy_status_icon_get_type
+status_icon_set_show_automatic_progress
+GLIBC_2.4
+GLIBC_2.2.5
+UH-`
+AVAUATUSH
+ []A\A]A^
+AUATUSH
+phD9
+([]A\A]
+[]E1
+tVUS1
+AUATUSH
+D$8H
+[]A\A]
+[]A\A]
+[]A\A]
+AUATUSH
+[]A\A]
+tzAWAV1
+AUATUSH
+([]A\A]A^A_
+S8E1
+{HE1
+[]A\A]A^A_
+S8E1
+t[USH
+tVUSH
+t;USH
+AVAUE
+ATUI
+]A\A]A^
+[]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+AVAUI
+ATUI
+[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+ATUI
+@0]A\
+AWAVAUATI
+D$H1
+C8E1
+s@E1
+C8E1
+T$ H
+T$ 1
+L$HdH3
+X[]A\A]A^A_
+AVAUI
+ATUH
+]A\A]A^
+ []A\A]A^
+]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+t;SH
+AVAUI
+ATUH
+[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+t9E1
+tkUS
+ATUI
+[]A\
+tQSH
+t>SH
+ATUSH
+spE1
+sxE1
+_AXt
+[]A\
+Z[]A\
+spE1
+ATUSH
+[]A\
+tkUSH
+ATUSH
+[]A\
+AUATI
+[]A\A]
+AUATI
+[]A\A]
+t[US1
+tSUS1
+tSUS1
+tSUS1
+tSUS1
+t[US1
+t[US1
+tvUSH
+tsATUH
+{H[]A\
+AWAVAUATI
+t$ L
+l$pdH
+D$pL
+D$ H
+D$xH
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+[]A\A]A^A_
+ATUSH
+[]A\
+AUATUSH
+CXtaL
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+CXE1
+CXE1
+CXE1
+A[Xt
+CXE1
+CXE1
+AYAZt
+CXE1
+CXE1
+_AXt
+[]A\A]A^A_
+AVAUATUS
+t	L;0
+D$XE1
+T$XH
+D$XH
+[]A\A]A^
+T$XH
+[]A\A]A^
+AUATUSH
+T$XI
+D$XL
+[]A\A]
+D$XH
+[]A\A]
+[]A\A]
+[]E1
+AUATI
+K E1
+K E1
+K E1
+K E1
+K E1
+K E1
+K E1
+[]A\A]
+uWH;
+ttH;
+H;P8t'H;P@t!H
+T$$A
+t;SH
+StJH
+AVAUATUSH
+[]A\A]A^
+AVAUM
+ATUA
+[]A\A]A^H
+[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+AUATA
+[]A\A]
+ATUSH
+@003A
+ []A\
+ATUI
+@0]A\
+ATUI
+=_f!
+[]A\
+AVAUI
+ATUH
+]A\A]A^
+]A\A]A^
+T$XL
+[]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+ []A\A]A^
+[]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+AUATI
+K E1
+K E1
+K E1
+K E1
+[]A\A]
+@ PjA
+ATUSH
+=,Z!
+AVAUATUSH
+]A\A]A^
+AVAUATUS
+AYAZt
+^AXH
+]A\A]A^
+[]A\A]A^
+tXE1
+[]A\A]A^
+AUATA
+[]A\A]
+[]A\A]
+[]A\A]
+D$X1
+t$0H
+D$0H
+t$@H
+D$@H
+t$ H
+L$XdH3
+AWAVAUATUSH
+|$@H
+t$@H
+l$@L
+d$(L
+t$@H
+|$HH
+t$PH
+|$XH
+T$PH
+D$@H
+D$81
+t$`H
+\$`H
+T$@L
+T$hL
+t$pL
+d$xH
+\$$L
+D$ 1
+\$4H
+T$(L
+T$HH
+t$@H
+|$HH
+t$PH
+|$XH
+T$PH
+\$(H
+[]A\A]A^A_
+AWAVAUATI
+H;hx
+H;hp
+[]A\A]A^A_
+[]A\A]A^A_
+H;hx
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_H
+[]A\A]A^A_1
+[]A\A]A^A_
+[]A\A]A^A_1
+D$X1
+L$XdH3
+t$0A
+D$0H
+D$8H
+D$ H
+D$@H
+D$(H
+D$H1
+AWAVAUATUSH
+D$(1
+D$(dH3
+8[]A\A]A^A_
+T$ 1
+T$$H
+t$0L
+t$0H
+T$4D
+tCUSH
+t+USH
+tkATUH
+[]A\
+t+SH
+AUATI
+[]A\A]
+ATUI
+@0]A\
+ATUI
+[]A\
+AVAUI
+ATUH
+]A\A]A^
+ []A\A]A^
+]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+[]E1
+=5/!
+AUATUSH
+D$x1
+L$ L
+T$(H
+t$8H
+t$0H
+L$@1
+D$01
+T$HA
+t$PA
+T$PH
+T$XH
+D$h1
+D$xdH3
+[]A\A]
+AUATUSH
+L; I
+L; H
+]A\A]
+[]A\A]
+[]A\A]
+ATUStGH
+[]A\
+ATUStwH
+[]A\
+AUATA
+[]A\A]H
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+USt*
+AWAVAUATUSH
+L$81
+T$(1
+T$0H
+\$01
+D$8dH3
+H[]A\A]A^A_
+t	H;
+t	H;
+t	H;
+t	H;
+t	H;
+|$ E1
+T$8L
+T$8A
+D$ H
+AVAUATUSH
+|$ L
+D$@H
+D$HH
+T$ 1
+T$(H
+T$0H
+T$8H
+T$@H
+T$HH
+T$PH
+[]A\A]A^
+ATUStgH
+[]A\
+ATUH
+D$81
+T$ H
+T$(H
+t$8dH34%(
+@[]A\
+t;USH
+tcATUSH
+F0[]A\
+tkAVH
+AUATUSD
+P8[]A\A]A^
+AUATI
+D$81
+D$ H
+D$(H
+T$8dH3
+H[]A\A]
+AVAUE
+ATUI
+]A\A]A^
+[]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+X[]A\A]A^A_
+AVAU
+ATUSH
+D$x1
+d$@H
+D$@H
+D$HH
+D$PH
+D$XH
+D$ H
+D$`H
+D$(H
+D$hH
+D$0H
+T$xdH3
+[]A\A]A^
+D$@H
+D$HH
+D$PH
+D$XH
+D$ H
+D$`H
+D$(H
+D$hH
+D$0H
+AWAVAUATI
+[]A\A]A^A_
+|$P1
+t$PH
+D$PH
+D$XH
+D$`H
+D$hH
+D$pH
+D$xH
+T$(H
+L$ H
+T$HH
+L$@H
+|$0H
+t$8H
+|$(A
+AUATUSH
+p0E1
+([]A\A]
+T$ H
+T$(H
+T$0H
+b0E1
+AUATA
+[]A\A]
+[]A\A]
+[]A\A]
+AVAUATUI
+H;X8
+]A\A]A^
+ATUI
+@0]A\
+t#SH
+t+USH
+ATUSH
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+StBH
+tkSH
+AWAVAUATI
+C E1
+C E1
+C E1
+C E1
+xPE1
+[]A\A]A^A_
+C E1
+PxE1
+C E1
+C E1
+C E1
+C E1
+C E1
+C E1
+C E1
+AUATUSH
+[]A\A]
+[]A\A]
+t;USH
+tCUSH
+tCUSH
+tCUSH
+tCUSH
+tCUSH
+tCUSH
+ATUI
+[]A\
+AVAUI
+ATUI
+[]A\A]A^
+]A\A]A^
+]A\A]A^
+alula
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+ []A\A]A^
+[]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\
+AUAT
+[]A\A]
+AUATUSH
+[]A\A]
+AVAUI
+ATUA
+[]A\A]A^
+t!SH
+AVAUATUH
+[]A\A]A^
+ATUSH
+XZ[]A\
+t+USH
+ATUSH
+[]A\
+unE1
+taUSH
+t#S1
+t+S1
+ATUI
+[]A\
+AVAUI
+ATUI
+]A\A]A^
+[]A\A]A^
+[]A\A]A^
+ []A\A]A^
+[]A\A]A^
+[]A\A]A^1
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+ATUA
+[]A\H
+AWAVAUATI
+[]A\A]A^A_
+ATUA
+[]A\H
+AUATI
+[]A\A]
+ATUA
+[]A\H
+ATUSt
+[]A\H
+[]A\H
+[]A\H
+AVAUATUI
+]A\A]A^
+AWAVA
+AUATL
+[]A\A]A^A_
+ Dup Backup Tool
+deja-dup
+[FILES
+DIRECTORY
+34.2
+%s %s
+No directory provided
+Directory does not exist
+You must specify a mode
+destroy
+/usr/share/icons
+DejaDupApp
+Show version
+Restore given files
+Immediately start a backup
+auto
+restore-missing
+Restore deleted files
+prompt
+  %s --backup
+  %s --restore %s
+  %s --restore-missing %s
+ Dup is a simple backup tool.  It hides the complexity of backing up
+the Right Way (encrypted, off-site, and regular) and uses duplicity as
+the backend.
+You must provide a directory, not a file
+response
+self != NULL
+page != NULL
+' for value type `
+invalid object type `
+last-op-was-back
+info != NULL
+label != NULL
+AssistantType
+pixbuf
+Co_ntinue
+verb
+_Test
+_Cancel
+_Close
+_Back
+_Resume Later
+_tmp0_ != NULL
+prepare
+_Forward
+backward
+canceled
+closed
+Degas are we not drawn onward no In union drawn onward to new eras aged
+resumed
+apply-text
+AssistantPageInfo
+title != NULL
+header
+property
+ASSISTANT_TYPE_NORMAL
+normal
+ASSISTANT_TYPE_INTERRUPT
+interrupt
+ASSISTANT_TYPE_CHECK
+check
+ASSISTANT_TYPE_SUMMARY
+summary
+ASSISTANT_TYPE_PROGRESS
+ASSISTANT_TYPE_FINISH
+finish
+invalid unclassed object pointer for value type `
+<span size="xx-large" weight="ultrabold">%s</span>
+value location for `%s' passed as NULL
+/build/deja-dup-fKVThi/deja-dup-34.2/obj-x86_64-linux-gnu/deja-dup/Assistant.c
+file %s: line %d: uncaught error: %s (%s, %d)
+g_type_is_a (object_type, ASSISTANT_TYPE_PAGE_INFO)
+G_TYPE_CHECK_VALUE_TYPE (value, ASSISTANT_TYPE_PAGE_INFO)
+G_TYPE_CHECK_INSTANCE_TYPE (v_object, ASSISTANT_TYPE_PAGE_INFO)
+g_value_type_compatible (G_TYPE_FROM_INSTANCE (v_object), G_VALUE_TYPE (value))
+%s:%d: invalid %s id %u for "%s" of type '%s' in '%s'
+assistant_handle_response
+assistant_value_take_page_info
+assistant_value_set_page_info
+assistant_value_get_page_info
+assistant_param_spec_page_info
+assistant_get_last_op_was_back
+assistant_set_apply_text
+assistant_get_apply_text
+assistant_set_page_title
+assistant_set_first_page
+assistant_append_page
+assistant_interrupt
+assistant_go_to_page
+assistant_go_forward
+assistant_reset_size
+assistant_add_button
+assistant_set_buttons
+assistant_use_title
+assistant_page_changed
+assistant_set_last_op_was_back
+assistant_go_back
+assistant_skip
+assistant_is_interrupted
+assistant_hide_for_now
+assistant_set_header_icon
+assistant_allow_forward
+Backup Failed
+Backup Finished
+Backing Up
+assist != NULL
+Backing up:
+is-full
+automatic
+AssistantBackup
+back up is verb
+Back Up
+back up is verb
+_Back Up
+Your files were successfully backed up and tested.
+Creating the first backup.  This may take a while.
+Creating a fresh backup to protect against backup corruption.  This will take longer than normal.
+__lambda36_
+assistant_backup_real_do_prepare
+assistant_backup_do_resume
+focus-in-event
+win != NULL
+closing
+xalign
+wrap
+height-request
+border-width
+child
+vscrollbar-policy
+hscrollbar-policy
+_Details
+entry != NULL
+button != NULL
+dlg != NULL
+owner
+passphrase
+type
+res != NULL
+Backup encryption password
+op-icon
+confirm-page
+password-page
+nag-page
+question-page
+progress-page
+summary-page
+error-occurred
+detail != NULL
+dialog-error
+_error_ != NULL
+Scanning:
+Scanning
+insert-text
+file != NULL
+text != NULL
+_Password-protect your backup
+toggled
+    
+<i>%s</i>
+max-width-chars
+use-markup
+sensitive
+activates-default
+hexpand
+input-purpose
+E_ncryption password
+use-underline
+mnemonic-widget
+Confir_m password
+_Show password
+visibility
+_Remember password
+column-spacing
+row-spacing
+Test every two _months
+show-window
+hide-all
+Failed with an unknown error.
+done
+raise-error
+passphrase-required
+action-desc-changed
+action-file-changed
+pause-op
+dialog-password
+event != NULL
+is-active
+message != NULL
+Require Password?
+Encryption Password Needed
+back != NULL
+AssistantOperation
+Summary
+Restore Test
+delete-event
+Type `%s' does not implement abstract method `assistant_operation_get_progress_file_prefix'
+Type `%s' does not implement abstract method `assistant_operation_create_op'
+/build/deja-dup-fKVThi/deja-dup-34.2/obj-x86_64-linux-gnu/deja-dup/AssistantOperation.c
+AssistantOperation.vala:732: %s
+AssistantOperation.vala:872: %s
+AssistantOperation.vala:138: %s
+You will need your password to restore your files. You might want to write it down.
+_Allow restoring without a password
+In order to check that you will be able to retrieve your files in the case of an emergency, please enter your encryption password again to perform a brief restore test.
+assistant_operation_real_show_error
+assistant_operation_show_detail
+assistant_operation_real_apply_finished
+assistant_operation_pulse
+assistant_operation_real_do_prepare
+assistant_operation_set_error_occurred
+assistant_operation_set_automatic
+assistant_operation_set_summary_page
+assistant_operation_set_progress_page
+assistant_operation_set_question_page
+assistant_operation_set_nag_page
+assistant_operation_set_password_page
+assistant_operation_set_confirm_page
+assistant_operation_set_op_icon
+assistant_operation_do_minimize_to_tray
+assistant_operation_get_error_occurred
+Beeb
+assistant_operation_get_op_icon
+assistant_operation_get_summary_page
+assistant_operation_get_progress_page
+assistant_operation_get_question_page
+assistant_operation_get_nag_page
+assistant_operation_get_password_page
+assistant_operation_get_automatic
+assistant_operation_get_confirm_page
+assistant_operation_pause_op
+string_strip
+assistant_operation_provide_password_co
+assistant_operation_stop_password_loop
+assistant_operation_ask_passphrase
+assistant_operation_lookup_keyring_co
+___lambda23_
+assistant_operation_get_passphrase
+assistant_operation_user_focused
+assistant_operation_force_visible
+assistant_operation_do_close
+assistant_operation_do_cancel
+assistant_operation_hide_everything
+assistant_operation_do_prepare
+__lambda22_
+assistant_operation_set_progress_label
+assistant_operation_set_progress_label_file
+assistant_operation_show_progress
+assistant_operation_stop_question
+Tacocat
+assistant_operation_show_question
+assistant_operation_do_apply_co
+___lambda20_
+___lambda21_
+assistant_operation_ensure_status_icon
+assistant_operation_apply_finished
+assistant_operation_make_summary_page
+assistant_operation_make_question_page
+assistant_operation_check_nag_validity
+__lambda17_
+__lambda18_
+assistant_operation_make_nag_page
+assistant_operation_check_password_validity
+assistant_operation_make_password_page
+assistant_operation_show_error
+assistant_operation_make_progress_page
+assistant_operation_set_secondary_label
+assistant_operation_make_op_icon
+assistant_operation_get_progress_file_prefix
+assistant_operation_create_op
+assistant_operation_add_custom_config_pages
+assistant_operation_add_setup_pages
+assistant_operation_make_confirm_page
+?/build/deja-dup-fKVThi/deja-dup-34.2/obj-x86_64-linux-gnu/deja-dup/AssistantRestore.c
+Restore files to _original locations
+Choose destination for restored files
+Your files were successfully restored.
+Your file was successfully restored.
+collection-dates
+restore-location
+restore-files
+Restoring:
+yalign
+Restore date
+Restore folder
+Checking for Backups
+_Date
+Restore From When?
+selection-changed
+Restore _folder
+Restore to Where?
+Restore to _specific folder
+group
+one != NULL
+two != NULL
+%x %X
+No backups to restore
+format != NULL
+Original location
+Restore Failed
+Restore Finished
+Restoring
+Files to restore
+File to restore
+Restore From Where?
+_Backup location
+b != NULL
+AssistantRestore
+_Restore
+__lambda31_
+__lambda32_
+__lambda33_
+assistant_restore_add_restore_dest_page
+assistant_restore_add_date_page
+assistant_restore_add_query_backend_page
+assistant_restore_make_backup_location_page
+g_time_format
+assistant_restore_is_same_day
+assistant_restore_real_handle_collection_dates
+assistant_restore_real_query_finished
+______lambda35_
+assistant_restore_query_pulse
+assistant_restore_real_do_prepare
+assistant_restore_set_restore_files
+assistant_restore_get_restore_files
+assistant_restore_set_restore_location
+assistant_restore_get_restore_location
+__lambda34_
+assistant_restore_do_query_co
+assistant_restore_query_finished
+assistant_restore_handle_collection_dates
+toggle != NULL
+path != NULL
+a != NULL
+restore-missing.ui
+file-list-window
+folder-box
+status-box
+status-label
+Last seen
+Restore which Files?
+restore-missing-files
+name != NULL
+deleted != NULL
+DeletedFile
+needle != NULL
+list_dir != NULL
+date != NULL
+Scanning finished
+listed-current-files
+AssistantRestoreMissing
+AssistantRestoreMissing.vala:150: Error: Could not find interface file.
+AssistantRestoreMissing.vala:207: %s
+g_type_is_a (object_type, TYPE_DELETED_FILE)
+G_TYPE_CHECK_VALUE_TYPE (value, TYPE_DELETED_FILE)
+G_TYPE_CHECK_INSTANCE_TYPE (v_object, TYPE_DELETED_FILE)
+Scanning for files from up to a day ago
+Scanning for files from up to a week ago
+Scanning for files from up to a month ago
+Scanning for files from about %d months ago
+Scanning for files from about a month ago
+Scanning for files from about %d years ago
+Scanning for files from about a year ago
+___lambda39_
+___lambda38_
+assistant_restore_missing_add_listfiles_page
+assistant_restore_missing_real_do_prepare
+assistant_restore_missing_compare_time
+assistant_restore_missing_real_handle_collection_dates
+assistant_restore_missing_real_query_finished
+assistant_restore_missing_real_apply_finished
+assistant_restore_missing_query_files_finished
+__lambda40_
+assistant_restore_missing_do_query_files_at_date
+string_contains
+assistant_restore_missing_handle_listed_files
+assistant_restore_missing_construct
+value_take_deleted_file
+value_set_deleted_file
+value_get_deleted_file
+param_spec_deleted_file
+deleted_file_set_restore
+deleted_file_get_restore
+deleted_file_set_deleted
+deleted_file_get_deleted
+deleted_file_set_name
+deleted_file_get_name
+string_to_string
+g_time_format
+deleted_file_queue_format
+deleted_file_filename
+deleted_file_construct
+God A red nugget A fat egg under a dog
+button-clicked
+Location not available
+mop != NULL
+reply
+ask-question
+Connect _anonymously
+Connect as u_ser
+_Domain
+default_user != NULL
+default_domain != NULL
+assist
+label-button
+label-help
+label-title
+label-username
+label-password
+label-show-password
+label-remember-password
+MountOperationAssistant
+Connect to Server
+_Username
+_Password
+S_how password
+button_clicked
+notify::go-forward
+/build/deja-dup-fKVThi/deja-dup-34.2/obj-x86_64-linux-gnu/deja-dup/MountOperationAssistant.c
+mount_operation_assistant_is_valid_entry
+mount_operation_assistant_check_valid_inputs
+___lambda26_
+___lambda27_
+___lambda28_
+___lambda29_
+mount_operation_assistant_flesh_out_password_page
+mount_operation_assistant_real_ask_password
+__lambda30_
+mount_operation_assistant_real_ask_question
+mount_operation_assistant_set_assist
+mount_operation_assistant_go_forward_changed
+mount_operation_assistant_get_assist
+mount_operation_assistant_set_go_forward
+mount_operation_assistant_get_go_forward
+mount_operation_assistant_set_label_remember_password
+mount_operation_assistant_get_label_remember_password
+mount_operation_assistant_set_label_show_password
+mount_operation_assistant_get_label_show_password
+mount_operation_assistant_set_label_password
+mount_operation_assistant_get_label_password
+mount_operation_assistant_set_label_username
+mount_operation_assistant_get_label_username
+mount_operation_assistant_set_label_title
+mount_operation_assistant_get_label_title
+mount_operation_assistant_set_label_help
+mount_operation_assistant_get_label_help
+mount_operation_assistant_set_label_button
+mount_operation_assistant_get_label_button
+mount_operation_assistant_add_password_page
+string_strip
+mount_operation_assistant_do_prepare
+mount_operation_assistant_do_backward
+mount_operation_assistant_do_forward
+mount_operation_assistant_send_reply
+mount_operation_assistant_do_close
+mount_operation_assistant_construct
+?Prompt.vala:102: %s
+_Don't Show Again
+_Open Backup Settings
+unity-deja-dup-panel.desktop
+deja-dup-preferences.desktop
+Prompt.vala:87: %s
+Prompt.vala:111: %s
+Backups
+desktop-entry
+cancel
+Prompt.vala:118: %s
+/build/deja-dup-fKVThi/deja-dup-34.2/obj-x86_64-linux-gnu/deja-dup/Prompt.c
+Keep your files safe by backing up regularly
+Important documents, data, and settings can be protected by storing them in a backup. In the case of a disaster, you would be able to recover them from that backup.
+__lambda44_
+i != NULL
+Backup completed
+Backup finished
+StatusIcon.vala:120: %s
+StatusIcon.vala:141: %s
+%.1f%% complete
+status_icon != NULL
+StatusIconCloseAction
+action != NULL
+show-automatic-progress
+show_window
+hide_all
+_Skip Backup
+window != NULL
+UnityStatusIcon
+deja-dup.desktop
+item-activated
+ShellStatusIcon
+Starting scheduled backup
+Show Progress
+show-details
+later
+skip
+StatusIcon.vala:244: %s
+LegacyStatusIcon
+deja-dup-symbolic
+icon-name
+Show _Progress
+activate
+popup-menu
+STATUS_ICON_CLOSE_ACTION_HIDE
+hide
+minimize
+Not all files were successfully backed up.  See dialog for more details.
+/build/deja-dup-fKVThi/deja-dup-34.2/obj-x86_64-linux-gnu/deja-dup/StatusIcon.c
+file %s: line %d: unexpected error: %s (%s, %d)
+STATUS_ICON_CLOSE_ACTION_MINIMIZE
+__lambda10_
+___lambda11_
+____lambda12_
+legacy_status_icon_show_menu
+_legacy_status_icon___lambda13_
+legacy_status_icon_construct
+string_replace
+shell_status_icon_construct
+unity_status_icon_construct
+status_icon_set_automatic
+status_icon_set_op
+status_icon_set_window
+status_icon_set_action_desc
+status_icon_note_progress
+status_icon_set_show_automatic_progress
+status_icon_get_show_automatic_progress
+status_icon_get_automatic
+status_icon_get_op
+status_icon_get_window
+status_icon_skip
+status_icon_later
+status_icon_update_progress
+status_icon_done
+status_icon_create
+;*3$"
+1524ea54721614552911c1c1cb6543c76d4fed.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

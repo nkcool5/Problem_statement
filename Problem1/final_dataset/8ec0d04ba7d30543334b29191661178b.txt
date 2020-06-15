@@ -1,0 +1,4817 @@
+tdXZ
+/lib/ld-linux.so.2
+AH!D
+@BH@D
+ 1!! 
+B80(
+E@yB
+!	 @
+Cl $
+  E$
+P`a H0
+@ H,
+q@HQ
+(c	(
+vyd5>
+F suk
+pRDF
+-&Fy
+6'.c_
+w=eW
+O?@=O
+32LX
+jO7(
+lz6L
+e;*]2
+n'w6
+u92 
+7cMu$
+47*Q/
+h^k_
+'&%L
+3BLg
+p/n@6
+`0Tr
+r'&$
+e&wy
+R'&6=
+ PCI
+Q>0o
+][1q_+
+)Nd>H
+U'*2^-
+4=%-I
+n[pE
+q)zkIh
+AC!*
+:fVqL_w
+% "p'
+ 2v]
+U.|35
+5 DI
+C,+S
+FPjsB
+W:uY
+?pX}
+G;iR$MG>
+xBJd
+Hu$>l2
+{?$M
+lU&t
+*|Ti
+<HV`
+-k~[v
+a8$F
+xI H
+}_MD*
+q83-
+5:CbI
+e")3
+7kP#
+7)d"4Zm
+)i[(
+4c&<
+"J;H
+I\ U8*C
+as0&
+-i OG
+Z9Gz
+,2=>
+iY_v
+Q)XM
+E^@2
+\;,M
+vn#|
+YL/J8
+$N}F
+RU--
+GrUY
+sH(\
+fbLE
+.Afi
+N.6m
+~B<TE
+M>>o!
+8,zZ/)lZ
+?'|=:q
+A`(^!
+libncurses.so.5
+__gmon_start__
+_Jv_RegisterClasses
+tgoto
+tgetflag
+tgetent
+tgetnum
+tputs
+tgetstr
+libdl.so.2
+dlopen
+dlsym
+dlclose
+dlerror
+libc.so.6
+_IO_stdin_used
+setuid
+fflush
+strcpy
+setgrent
+pathconf
+_IO_putc
+setlocale
+mbrtowc
+towlower
+strsignal
+strncmp
+__strtold_internal
+getpwent
+strrchr
+setservent
+regexec
+dcgettext
+wcrtomb
+getpwuid
+closedir
+strncpy
+fork
+sigprocmask
+regfree
+sigfillset
+getgrent
+__stack_chk_fail
+unlink
+putchar
+select
+towupper
+strpbrk
+getpid
+strftime
+sbrk
+iswalnum
+iswlower
+__ctype_get_mb_cur_max
+endpwent
+isatty
+fgets
+getpwnam
+getppid
+wcschr
+iswctype
+__mbrlen
+sigemptyset
+memset
+strstr
+__errno_location
+tcsetattr
+confstr
+chdir
+getpagesize
+endgrent
+mbtowc
+ttyname
+tcflow
+dup2
+clearerr
+unsetenv
+wctob
+__fxstat64
+vsnprintf
+sigaddset
+iswupper
+putenv
+__sigsetjmp
+stdout
+fputc
+getrusage
+__strtoll_internal
+fputs
+strnlen
+memcpy
+fclose
+tcsetpgrp
+wcscmp
+__strtol_internal
+siglongjmp
+killpg
+strcat
+umask
+strcasecmp
+setpgid
+getpeername
+mbsinit
+getgid
+asprintf
+tzset
+__lxstat64
+opendir
+__xstat64
+__ctype_b_loc
+regcomp
+wcwidth
+stderr
+sigdelset
+ioctl
+alarm
+setrlimit64
+group_member
+getgroups
+getuid
+readlink
+getegid
+strncasecmp
+fileno
+gethostname
+getcwd
+fwrite
+gettimeofday
+sigaction
+geteuid
+waitpid
+localtime
+lseek64
+mblen
+fdopen
+readdir64
+qsort
+tcgetattr
+sleep
+__ctype_toupper_loc
+__ctype_tolower_loc
+setvbuf
+wcscoll
+fcntl
+getrlimit64
+wcsdup
+getdtablesize
+memmove
+fopen64
+endservent
+wcsrtombs
+bindtextdomain
+setgid
+__strtoull_internal
+strerror
+tcgetpgrp
+__libc_start_main
+setpwent
+ferror
+wcslen
+strcoll
+vfprintf
+wcsncmp
+__strtoul_internal
+sysconf
+getservent
+__environ
+_edata
+__bss_start
+initialize_job_control
+sys_error
+maybe_make_export_env
+emacs_meta_keymap
+eval_doc
+dispose_word
+sh_double_quote
+_rl_clear_screen
+rl_completion_query_items
+_rl_term_IC
+last_command_exit_signal
+_rl_insert_typein
+times_builtin
+rl_copy_text
+last_command_subst_pid
+ifs_firstc
+_rl_find_completion_word
+get_history_event
+rl_vi_yank_to
+prompt_string_pointer
+_rl_disable_tty_signals
+get_job_by_pid
+list_minus_o_opts
+make_select_command
+emacs_standard_keymap
+disable_priv_mode
+rl_tty_status
+rl_tilde_expand
+builtin_doc
+_rl_nsearch_callback
+current_host_name
+sh_canonpath
+put_command_name_into_env
+discard_unwind_frame
+running_under_emacs
+dequote_string
+posix_readline_initialize
+string_list_dollar_star
+execute_command_internal
+printf_builtin
+_rl_init_line_state
+rl_copy_forward_word
+sh_contains_shell_metas
+sh_exit
+named_function_string
+it_groups
+reader_loop
+sv_ignoreeof
+tt_setonechar
+readline_internal_char
+no_args
+update_export_env_inplace
+_rl_erase_entire_line
+prog_completion_enabled
+sccs_version
+readline_top_level
+extract_array_assignment_list
+rl_backward_word
+print_command
+local_builtin
+progcomp_size
+rl_transpose_chars
+the_current_working_directory
+ansiexpand
+_rl_keyseq_cxt_alloc
+rl_kill_word
+indirection_level_string
+array_dispose
+rl_tty_unset_default_bindings
+set_signal_handler
+make_subshell_command
+arith_for_doc
+last_command_exit_value
+sv_histignore
+rl_completion_mode
+kill_current_pipeline
+history_base
+dstack
+polite_directory_format
+xdupmbstowcs
+make_builtin_argv
+rl_vi_start_inserting
+bash_add_history
+enable_doc
+logout_doc
+_rl_input_queued
+_rl_parsing_conditionalized_out
+strlist_to_word_list
+rl_overwrite_mode
+remember_args
+dispose_cond_node
+_rl_strip_prompt
+rl_filename_quote_characters
+while_doc
+new_var_context
+set_bash_input_fd
+substring
+bash_tilde_find_word
+rl_backward_char_search
+last_shell_builtin
+history_length
+__libc_csu_fini
+rl_initialize
+list_opttype
+number_of_args
+prog_completes
+array_dispose_element
+rl_forward_char
+make_word
+set_current_prompt_level
+rl_vi_append_mode
+list_rest_of_args
+source_builtin
+rl_completion_type
+builtin_error
+_rl_get_screen_size
+bind_variable_value
+pushd_builtin
+xpg_echo
+remove_history
+_rl_enable_meta_key
+_rl_convert_meta_chars_to_ascii
+rl_vi_redo
+tt_setnocanon
+get_variable_value
+_rl_term_im
+rl_gnu_readline_p
+free_buffered_stream
+rl_funmap_names
+shopt_setopt
+sh_readonly
+_rl_set_mark_at_pos
+it_signals
+_rl_savestring
+shell_execve
+wlcache
+sv_histchars
+continue_doc
+pat_subst
+brace_arg_separator
+start_pipeline
+rl_dispatching
+rl_reset_terminal
+sh_memalign
+hash_walk
+just_one_command
+rl_add_funmap_entry
+rl_directory_rewrite_hook
+find_function
+_rl_complete_mark_directories
+command_string_index
+get_dirstack_from_string
+write_history
+rl_display_prompt
+read_octal
+rl_vi_tilde_expand
+rl_set_keyboard_input_timeout
+rl_unbind_command_in_map
+_rl_out_stream
+rl_instream
+xstrchr
+rl_display_fixed
+all_visible_variables
+rl_forward
+replace_history_entry
+rl_show_char
+rl_resize_terminal
+rl_bind_key_if_unbound_in_map
+rl_reset_screen_size
+sh_getopt
+rl_message
+replace_history_data
+umask_doc
+rl_macro_dumper
+array_rshift
+_rl_vi_initialize_line
+find_variable_internal
+ifs_firstc_len
+signal_name
+find_variable
+internal_strmatch
+Borrow or rob
+rl_abort
+no_options
+initialize_traps
+parse_and_execute
+sh_notfound
+end_job_control
+unbind_args
+_rl_init_terminal_io
+umask_builtin
+rl_on_new_line_with_prompt
+hash_string
+sh_notbuiltin
+quote_globbing_chars
+dist_version
+sh_calloc
+executing
+subshell_argv
+ttsetattr
+source_searches_cwd
+rl_noninc_reverse_search
+get_current_user_info
+rl_execute_next
+_rl_copy_undo_entry
+rl_macro_bind
+_rl_control_keypad
+rl_get_keymap_name
+command_connect
+_rl_kscxt
+it_shopts
+select_doc
+_rl_free_saved_history_line
+_rl_term_forward_char
+popd_builtin
+rl_byte_oriented
+show_name_attributes
+history_write_timestamps
+break_doc
+bash_readline_initialized
+_rl_horizontal_scroll_mode
+with_input_from_stdin
+make_word_from_token
+no_invisible_vars
+check_hashed_filenames
+rl_variable_value
+history_expansion_char
+maybe_execute_file
+hist_last_line_added
+save_parser_state
+uitos
+change_flag
+true_doc
+current_readline_line_index
+describe_pid
+top_level_mask
+rl_on_new_line
+_rl_adjust_point
+it_keywords
+maybe_append_history
+all_exported_variables
+set_shellopts
+the_printed_command
+signal_names
+delete_job
+_rl_term_ei
+maybe_set_sigchld_trap
+unquoted_glob_pattern_p
+push_stream
+_fp_hw
+rl_bind_key_in_map
+last_asynchronous_pid
+rl_basic_word_break_characters
+suspend_doc
+find_shell_builtin
+array_patsub
+rl_pending_input
+_rl_page_completions
+builtin_address_internal
+initialize_terminating_signals
+_rl_possible_control_prefixes
+_rl_eof_char
+_rl_suppress_redisplay
+give_terminal_to
+rl_unbind_function_in_map
+rl_copy_keymap
+rl_reverse_search_history
+alias_expand_all
+rl_filename_dequoting_function
+parse_and_execute_level
+execute_command
+rl_done
+should_ignore_glob_matches
+strlist_prefix_suffix
+time_to_check_mail
+set_buffered_stream
+rl_restore_state
+rl_inhibit_completion
+history_expansion_inhibited
+pipeline_pgrp
+rl_key_sequence_length
+_rl_set_insert_mode
+remember_on_history
+rl_ignore_completion_duplicates
+strsub
+pwd_doc
+enable_hostname_completion
+tt_setcbreak
+pop_context
+let_builtin
+dispose_variable
+ttattr
+_rl_output_some_chars
+command_word_completion_function
+sh_regmatch
+all_array_variables
+bash_brace_completion
+read_history
+make_cond_node
+rl_completion_append_character
+eof_encountered_limit
+posix_initialize
+_rl_keyseq_chain_dispose
+rl_yank
+max_input_history
+initialize_bash_input
+pop_var_context
+rl_universal_argument
+check_identifier
+sh_single_quote
+list_running_jobs
+zsyncfd
+history_quotes_inhibit_expansion
+strlist_from_word_list
+termsig_sighandler
+bash_default_completion
+binary_test
+ps2_prompt
+history_get
+uinttostr
+current_user
+current_command_line_count
+_rl_arg_overflow
+rl_yank_pop
+return_catch_flag
+_rl_enable_keypad
+initialize_aliases
+rl_possible_completions
+rl_binding_keymap
+exit_builtin
+rl_restore_prompt
+suspend_builtin
+rl_ignore_some_completions_function
+rl_generic_bind
+rl_filename_quoting_desired
+tt_seteightbit
+rl_set_keymap
+rl_vi_change_char
+build_version
+readline_internal_setup
+rl_getc_function
+get_array_value
+word_split
+file_status
+set_sigchld_handler
+rl_visible_prompt_length
+history_lines_this_session
+_rl_term_clreol
+it_arrayvars
+tilde_initialize
+exec_doc
+close_buffered_fd
+all_variables_matching_prefix
+rl_rubout_or_delete
+_rl_last_v_pos
+rl_translate_keyseq
+current_readline_prompt
+_rl_isearch_dispatch
+it_services
+error_trace_mode
+find_reserved_word
+sh_set_lines_and_columns
+xtrace_print_for_command_head
+duplicate_buffered_stream
+get_shopt_options
+_rl_push_executing_macro
+history_builtin
+zreadc
+rl_vi_search
+variable_context
+_rl_enable_meta
+user_command_matches
+strvec_dispose
+_rl_dispatch_subseq
+history_lines_in_file
+rl_executing_macro
+rl_backward_char
+_rl_input_available
+hashing_enabled
+ulimit_doc
+current_command_subst_pid
+rl_deprep_term_function
+array_remove
+rl_dump_variables
+compgen_builtin
+_rl_char_value
+trap_to_sighandler
+rl_character_len
+type_builtin
+set_pipestatus_array
+strlist_dispose
+it_jobs
+rl_rubout
+err_badarraysub
+rl_add_defun
+set_locale_var
+add_history_time
+sh_optopt
+return_builtin
+sv_strict_posix
+pop_scope
+_rl_doing_an_undo
+rl_catch_sigwinch
+history_inhibit_expansion_function
+clear_history
+cdspelling
+return_catch
+strvec_copy
+save_token_state
+getmaxchild
+make_word_list
+rl_editing_mode
+rl_forward_search_history
+make_simple_command
+command_errstr
+history_is_stifled
+get_directory_stack
+_rl_vi_reset_last
+source_doc
+rl_beg_of_line
+rl_complete
+_rl_backspace
+popd_doc
+rl_redisplay
+last_history_line
+unset_builtin
+rl_clear_pending_input
+bash_servicename_completion_function
+_rl_insert_char
+compgen_doc
+getmaxgroups
+ttnocanon
+rl_get_keymap_by_name
+stream_on_stack
+expand_arith_string
+rl_kill_region
+sh_mktmpfd
+unbound_vars_is_error
+disown_doc
+progcomp_remove
+bind_var_to_int
+export_builtin
+bind_builtin
+noclobber
+malloc_register
+set_tty_state
+expand_prompt_string
+remove_alias
+hist_last_line_pushed
+parse_shellopts
+initialize_shell_builtins
+_rl_clear_to_eol
+command_execution_string
+maybe_add_history
+indirection_level
+rl_copy_backward_word
+other_token_alist
+sh_stat
+cmd_init
+set_signal_ignored
+current_command_number
+absolute_pathname
+string_list_internal
+rl_arg_sign
+strvec_sort
+print_func_list
+reset_signal_handlers
+_rl_terminal_can_insert
+_rl_term_ip
+want_pending_command
+history_search
+sh_invalidopt
+wait_signal_received
+restore_default_signal
+set_job_control
+unbind_array_element
+array_create
+set_error_trap
+rl_bind_keyseq_in_map
+shift_builtin
+no_symbolic_links
+builtin_usage
+readonly_builtin
+rl_clear_signals
+tilde_expansion_preexpansion_hook
+kill_doc
+fg_percent_doc
+interrupt_immediately
+sh_mktmpname
+dispose_fd_bitmap
+rl_insert_comment
+rl_newline
+do_word_assignment
+_rl_internal_char_cleanup
+get_minus_o_opts
+set_dollar_vars_unchanged
+_rl_term_pc
+default_tty_job_signals
+rl_readline_state
+array_insert
+history_subst_char
+rl_completer_word_break_characters
+unset_doc
+sv_histtimefmt
+unwind_protect_mem
+wdcache
+cleanup_the_pipeline
+sh_invalidsig
+wait_builtin
+exec_builtin
+dirs_builtin
+parse_string_to_word_list
+_rl_enable_paren_matching
+copy_function_def_contents
+pop_dollar_vars
+_rl_dispatch
+sourcelevel
+get_current_prompt_level
+find_string_in_alist
+describe_command
+trap_doc
+make_word_flags
+_rl_rubout_char
+phash_search
+rl_vi_subst
+_rl_complete_mark_symlink_dirs
+bash_input_fd_changed
+_rl_set_the_line
+test_doc
+alloc_word_desc
+rl_insert_mode
+rl_directory_completion_hook
+sv_opterr
+stupidly_hack_special_variables
+_rl_search_getchar
+setifs
+stream_list
+set_itemlist_dirty
+fatal_error
+subshell_argc
+pre_process_line
+print_arith_command
+rl_completion_matches
+rl_tab_insert
+string_rest_of_args
+print_var_function
+loop_level
+extract_arithmetic_subst
+localetrans
+array_to_string
+rl_modifying
+history_tokenize
+_rl_redisplay_after_sigwinch
+find_flag
+_rl_make_prompt_for_search
+fg_builtin
+dispose_exec_redirects
+return_doc
+_rl_get_char_len
+local_exported_variables
+unset_bash_input
+_rl_abort_internal
+rl_copy_region_to_kill
+_rl_move_vert
+_rl_meta_flag
+make_case_command
+rl_undo_list
+printf_doc
+conditional_doc
+_rl_reset_argument
+rl_make_bare_keymap
+initialize_shell_options
+fail_glob_expansion
+get_working_directory
+rl_get_next_history
+find_tempenv_variable
+make_function_def
+_rl_term_dc
+command_builtin
+sh_unset_nodelay_mode
+static_shell_builtins
+set_var_read_only
+rl_completion_mark_symlink_dirs
+colon_doc
+cd_doc
+rl_invoking_keyseqs
+function_doc
+history_get_time
+ttcbreak
+time_doc
+zwrite
+_getenv
+stdin_redir
+get_exitstat
+rl_read_init_file
+vi_insertion_keymap
+builtin_builtin
+rl_filename_completion_desired
+builtin_address
+history_expansion
+_rl_term_goto
+restore_original_signals
+maybe_save_shell_history
+unset_sigwinch_handler
+_rl_in_stream
+rl_completion_display_matches_hook
+reset_shell_flags
+rl_end_undo_group
+begin_unwind_frame
+disown_builtin
+rl_crlf
+set_debug_trap
+_rl_copy_undo_list
+run_return_trap
+declare_doc
+_rl_restore_tty_signals
+check_binary_file
+dispose_saved_dollar_vars
+sh_invalidoptname
+_rl_screenchars
+rl_named_function
+list_all_jobs
+rl_bind_key_if_unbound
+rl_unix_word_rubout
+alias_expand
+make_local_variable
+disallow_filename_globbing
+already_making_children
+reset_internal_getopt
+rl_vi_prev_word
+expand_string_unsplit
+ifs_var
+_rl_keymap
+de_backslash
+bash_directory_completion_matches
+rl_executing_keymap
+rl_complete_with_tilde_expansion
+same_file
+__data_start
+current_command_first_line_saved
+bash_history_disable
+which_set_flags
+rl_display_match_list
+rl_delete_horizontal_space
+rl_unbind_key_in_map
+_rl_move_cursor_relative
+get_group_list
+bash_initialize_history
+sh_mktmpfp
+glob_ignore_case
+all_shell_variables
+list_one_job
+rl_replace_from_history
+sh_invalidid
+rl_vi_put
+rl_backward_kill_line
+rl_free_undo_list
+zreadintr
+history_delimiting_chars
+without_job_control
+rl_arrow_keys
+make_command_string
+type_doc
+map_over
+set_default_lang
+dispose_used_env_vars
+lcurrent
+_rl_callback_data_dispose
+make_if_command
+wait_for
+variable_help_doc
+this_command_name
+source_file
+ignore_tty_job_signals
+clean_itemlist
+subshell_envp
+sv_histsize
+history_doc
+_rl_free_history_entry
+close_fd_bitmap
+bash_getcwd_errstr
+push_dollar_vars
+err_readonly
+rl_free_line_state
+set_working_directory
+subshell_environment
+rl_outstream
+print_simple_command
+sv_comp_wordbreaks
+phash_insert
+rl_save_prompt
+rl_dump_macros
+make_variable_value
+read_from_stdin
+initialize_signals
+until_doc
+it_functions
+tilde_expand_word
+legal_alias_name
+funmap_program_specific_entry_start
+expand_words_shellexp
+sh_neednumarg
+sh_cfree
+tilde_additional_prefixes
+command_substitute
+add_alias
+get_word_from_string
+get_hostname_list
+yychar
+asynchronous_notification
+rl_completion_found_quote
+ifs_cmap
+case_doc
+assign_array_from_string
+rl_pre_input_hook
+shopt_builtin
+dirs_doc
+getifs
+_rl_char_search_internal
+strlist_resize
+rl_vi_back_to_indent
+rl_vi_check
+executable_file
+malloc_trace_at_exit
+initialize_flags
+strvec_from_word_list
+stdin_redirects
+bind_keyseq_to_unix_command
+sh_backslash_quote
+posixly_correct
+set_login_shell
+terminate_stopped_jobs
+bash_badsub_errmsg
+array_unshift_element
+rl_vi_delete
+_rl_vi_textmod_command
+rl_vi_bWord
+rl_reset_line_state
+rl_variable_dumper
+it_builtins
+hist_verify
+Tacocat
+get_name_for_error
+privileged_mode
+no_line_editing
+history_comment_char
+rl_already_prompted
+split_at_delims
+_rl_arg_callback
+sh_restricted
+interrupt_state
+the_current_maintainer
+rl_tty_set_default_bindings
+sh_setlinebuf
+rl_unix_line_discard
+rl_vi_fWord
+rl_make_keymap
+_rl_fix_point
+_rl_with_macro_input
+sh_backslash_quote_for_double_quotes
+valid_array_reference
+sh_makepath
+_rl_find_prev_mbchar
+expand_words_no_vars
+rl_completion_entry_function
+rl_vi_insert_beg
+fmtulong
+long_args
+pipefail_opt
+mailstat
+history_search_delimiter_chars
+history_search_pos
+map_over_funcs
+rl_vi_char_search
+sh_nojobs
+ttrestore
+print_cond_command
+rltty_set_default_bindings
+assign_array_var_from_word_list
+rl_begin_undo_group
+rl_initialize_funmap
+rl_library_version
+_rl_unget_char
+_rl_pop_executing_macro
+internal_wstrmatch
+get_job_by_name
+_rl_comment_begin
+kill_all_local_variables
+it_setopts
+execute_variable_command
+rl_get_keymap_name_from_edit_mode
+rl_insert_text
+rl_attempted_completion_function
+hash_builtin
+malloc_trace
+array_keys
+_rl_want_redisplay
+set_default_locale
+it_files
+mark_modified_vars
+read_builtin
+run_debug_trap
+get_random_number
+wordexp_only
+_rl_complete_show_all
+reset_parser
+sigint_sighandler
+num_shell_builtins
+gen_compspec_completions
+set_return_trap
+rl_get_termcap
+mk_msgstr
+_rl_init_eightbit
+_rl_term_backspace
+history_expand
+_rl_callback_data
+executing_line_number
+expand_string_to_string
+unstifle_history
+_rl_find_next_mbchar
+rl_event_hook
+exit_shell
+init_yy_io
+clear_hostname_list
+list_optarg
+_rl_output_meta_chars
+hash_copy
+array_create_element
+glob_vector
+expand_word_unsplit
+shell_is_restricted
+rl_vi_overstrike_delete
+rl_digit_argument
+rl_vi_overstrike
+rl_capitalize_word
+rl_bind_keyseq
+save_pipeline
+strlist_create
+rl_vi_set_mark
+readline_echoing_p
+internal_warning
+rl_redisplay_function
+fc_execute_file
+yy_input_name
+_rl_scxt_dispose
+char_is_quoted
+find_index_in_alist
+signal_is_special
+with_input_from_string
+rl_noninc_forward_search
+rl_yank_nth_arg
+_rl_dispatching_keymap
+rl_stop_output
+force_append_history
+_rl_dispatch_callback
+protected_mode
+_rl_to_lower
+bash_logout
+clear_unwind_protect_list
+rl_vi_delete_to
+secondary_prompt
+sh_optarg
+rl_history_search_backward
+is_directory
+move_to_high_fd
+rl_num_chars_to_read
+rl_transpose_words
+sh_un_double_quote
+rl_char_is_quoted_p
+make_arith_for_command
+bash_history_enable
+rl_terminal_name
+find_user_command
+list_length
+global_error_list
+sh_erange
+zcatfd
+caller_doc
+history_set_history_state
+unbind_variable
+_rl_pushed_input_available
+rl_callback_read_char
+signal_is_trapped
+enable_builtin
+delete_last_history
+rl_revert_line
+release_status
+rl_start_kbd_macro
+_rl_overwrite_rubout
+_rl_strindex
+trap_builtin
+help_builtin
+dispose_var_context
+Eleele
+shopt_listopt
+sh_needarg
+ansicstr
+dispose_function_def
+array_to_argv
+_rl_callback_func
+sv_locale
+subshell_top_level
+shell_name
+xstrmatch
+_rl_vis_botlin
+strlist_append
+fc_doc
+rl_get_keymap
+restricted_shell
+dont_save_function_defs
+_rl_set_cursor
+strcreplace
+close_pgrp_pipe
+history_no_expand_chars
+rl_set_signals
+completions_to_stringlist
+_rl_output_character_function
+rl_delete_text
+show_shell_version
+evalexp
+__libc_csu_init
+ungetc_with_restart
+_rl_argcxt
+ttnoecho
+declare_builtin
+_rl_term_up
+rl_attempted_completion_over
+rl_delete
+push_context
+rl_replace_line
+sh_badjob
+rl_upcase_word
+rl_completion_word_break_hook
+strip_trailing_ifs_whitespace
+rl_mark
+array_variable_name
+_rl_term_ic
+rl_backward_byte
+_rl_last_command_was_kill
+dispose_word_desc
+clean_simple_command
+rl_re_read_init_file
+rl_vi_goto_mark
+cd_builtin
+_rl_isearch_callback
+make_redirection
+rl_forced_update_display
+check_window_size
+programming_error
+rl_noninc_reverse_search_again
+xmbsrtowcs
+array_expand_index
+_rl_arg_getchar
+_rl_completion_case_fold
+rl_vi_change_case
+command_error
+loptend
+arith_doc
+shell_version_string
+expanding_redir
+return_EOF
+sync_buffered_stream
+rl_linefunc
+logout_builtin
+_rl_term_autowrap
+_rl_allow_pathname_alphabetic_chars
+trap_saved_exit_value
+_rl_isearch_terminators
+set_ppid
+startup_state
+strlist_merge
+expand_compound_array_assignment
+rl_vi_fetch_history
+it_disabled
+history_get_history_state
+progcomp_flush
+echo_command_at_execute
+_rl_pure_alphabetic
+force_fignore
+wait_doc
+rl_exchange_point_and_mark
+shell_start_time
+bind_function
+parser_error
+bash_groupname_completion_function
+current_prompt_string
+getopts_reset
+rl_vi_domove
+remember_mail_dates
+expand_words
+parse_symbolic_mode
+decode_prompt_string
+rl_set_mark
+wait_for_background_pids
+strvec_resize
+if_doc
+extended_glob
+assign_array_var_from_string
+display_signal_list
+free_pushed_string_input
+vi_movement_keymap
+do_redirections
+start_job
+get_new_window_size
+continuing
+addtimeval
+match_ignore_case
+running_trap
+ansic_shouldquote
+extract_process_subst
+rl_ding
+false_doc
+set_pwd
+_rl_callback_data_alloc
+rl_vi_column
+need_here_doc
+absolute_program
+sh_malloc
+history_reediting
+rl_refresh_line
+_rl_is_mbchar_matched
+rl_last_func
+strvec_remove
+breaking
+xtrace_print_assignment
+bind_array_variable
+expand_string_assignment
+jump_to_top_level
+rl_complete_internal
+strlist_copy
+ignore_signal
+find_alias
+delete_all_aliases
+sh_syntabsiz
+ttgetattr
+unlink_fifo_list
+strvec_len
+getopts_doc
+pop_stream
+make_group_command
+_rl_digit_p
+skipsubscript
+rl_set_prompt
+hash_size
+rl_vi_first_print
+redirection_expand
+legal_identifier
+file_error
+list_optopt
+grouping_braces_doc
+place_keywords_in_env
+_rl_erase_at_end_of_line
+array_keys_to_word_list
+bind_int_variable
+optflags
+reset_mail_files
+skip_to_delim
+caller_builtin
+command_oriented_history
+sh_validfd
+rl_discard_keymap
+sv_history_control
+sigwinch_received
+sh_physpath
+wait_intr_buf
+maybe_make_restricted
+rl_unbind_key
+_rl_digit_value
+rl_vi_eword
+add_unwind_protect
+hash_dispose
+rl_invoking_keyseqs_in_map
+rl_line_buffer_len
+colon_builtin
+_rl_history_preserve_point
+unbind_func
+sh_realpath
+rl_vi_replace
+rl_reset_after_signal
+get_tty_state
+make_until_command
+copy_function_def
+_rl_iscxt
+rl_filename_completion_function
+do_assignment
+rl_alphabetic
+rl_vi_insertion_mode
+rl_catch_signals
+rl_kill_text
+rl_visible_stats
+copy_history_entry
+_rl_scxt_alloc
+rl_forward_word
+remove_backslashes
+history_arg_extract
+get_locale_var
+run_unwind_protects
+rl_basic_quote_characters
+setup_async_signals
+current_readline_line
+search_for_command
+rl_add_undo
+_rl_fix_last_undo_of_type
+unfreeze_jobs_list
+signal_in_progress
+test_command
+rl_special_prefixes
+rl_vi_bword
+phash_flush
+dispose_redirects
+rl_vi_eof_maybe
+ttonechar
+check_bash_input
+sh_get_home_dir
+emacs_ctlx_keymap
+_rl_vi_last_command
+setup_ignore_patterns
+rl_forward_byte
+sh_badpid
+full_pathname
+tteightbit
+forced_interactive
+rl_completion_suppress_quote
+times_doc
+rl_backward
+array_assign_list
+set_minus_o_option
+all_digits
+debugging_login_shell
+rl_get_previous_history
+rl_getc
+rl_variable_bind
+get_numeric_arg
+eof_encountered
+shift_doc
+ifs_value
+make_command
+rl_deprep_terminal
+reset_mail_timer
+rl_completion_suppress_append
+hup_on_exit
+yyerror
+make_bare_simple_command
+fg_doc
+rl_prompt
+rl_filename_quoting_function
+filter_stringlist
+rl_kill_full_line
+sh_getopt_restore_state
+delete_all_jobs
+sigwinch_sighandler
+_rl_compare_chars
+sv_optind
+rl_vi_fword
+rl_point
+_rl_any_typein
+echo_builtin
+read_command
+sh_invalidnum
+make_here_document
+set_lang
+rl_readline_version
+rl_function_of_keyseq
+sh_valloc
+current_fds_to_close
+array_quote
+quote_string_for_globbing
+gnu_error_format
+close_buffered_stream
+local_doc
+interactive_shell
+ulimit_builtin
+typeset_doc
+expand_assignment_string_to_string
+_rl_mark_modified_lines
+sh_realloc
+set_dirstack_element
+wait_for_single_pid
+rl_end
+bash_dequote_text
+set_or_show_attributes
+rl_beginning_of_history
+strlist_flush
+_rl_saved_line_for_history
+decode_signal
+_rl_free_match_list
+rl_parse_and_bind
+phash_remove
+rl_menu_complete
+unalias_builtin
+brace_expand
+find_path_file
+base_pathname
+ansic_quote
+make_local_array_variable
+print_timeval
+history_search_prefix
+nohup_all_jobs
+rl_expand_prompt
+throw_to_top_level
+compspec_copy
+connect_async_list
+ttsave
+_rl_last_c_pos
+copy_redirect
+all_visible_functions
+list_string
+copy_command
+pushd_doc
+kill_pid
+new_fd_bitmap
+terminating_signal
+rl_vi_movement_mode
+adjust_shell_level
+sh_badopt
+dequote_list
+sh_mkdoublequoted
+find_special_builtin
+dispose_function_def_contents
+rl_prep_terminal
+parse_and_execute_cleanup
+parse_command
+_rl_set_screen_size
+run_pending_traps
+file_iswdir
+_rl_current_display_line
+bg_builtin
+sh_get_env_value
+_rl_vi_set_last
+trap_list
+rl_insert_close
+strlist_print
+rl_clear_message
+fc_builtin
+xtrace_print_select_command_head
+timeval_to_secs
+false_builtin
+rl_vi_next_word
+_rl_bell_preference
+array_shift_element
+continue_builtin
+array_shift
+find_or_make_array_variable
+rl_discard_argument
+run_interrupt_trap
+get_group_array
+print_shift_error
+getopts_builtin
+buffered_ungetchar
+tempenv_assign_error
+show_var_attributes
+xtrace_print_cond_term
+print_var_value
+sh_wrerror
+sh_syntaxtab
+current_builtin
+fmtumax
+it_commands
+rl_blink_matching_paren
+rl_set_paren_blink_timeout
+rl_vi_undo
+restore_parser_state
+rl_quoted_insert
+where_history
+rl_startup_hook
+_rl_arg_init
+_rl_vi_done_inserting
+cdable_vars
+global_command
+extract_colon_unit
+wcsmatch
+_rl_nscxt
+maybe_call_trap_handler
+open_buffered_stream
+patch_level
+sv_path
+it_aliases
+_rl_to_upper
+check_dev_tty
+strip_trailing
+brace_expansion
+_rl_update_final
+it_directories
+read_doc
+progcomp_create
+glob_error_return
+_rl_term_cr
+dispose_words
+rl_prefer_env_winsize
+default_buffered_input
+cond_expand_word
+it_hostnames
+rl_cleanup_after_signal
+find_token_in_alist
+rl_char_search
+progcomp_search
+rl_set_keymap_from_edit_mode
+sv_tz
+command_doc
+rl_maybe_replace_line
+reset_shell_options
+it_exports
+dollar_dollar_pid
+rl_insert
+hash_doc
+last_made_pid
+unclosed_pair
+set_dollar_vars_changed
+makunbound
+terminate_immediately
+run_unwind_frame
+subshell_level
+_rl_next_macro_key
+hangup_all_jobs
+this_shell_builtin
+convert_var_to_array
+make_new_array_variable
+it_users
+buffered_getchar
+progcomp_dispose
+readonly_doc
+rl_noninc_forward_search_again
+xtrace_print_case_command_head
+_rl_lowercase_p
+test_bracket_doc
+sh_xfree
+promptvars
+initialize_itemlist
+jobs_doc
+minus_o_option_value
+dump_po_strings
+notify_and_cleanup
+rl_kill_line
+rl_vi_match
+current_history
+set_default_locale_vars
+_rl_possible_meta_prefixes
+history_list
+compspec_create
+complete_builtin
+_rl_arg_dispatch
+run_exit_trap
+shell_tty
+strvec_to_word_list
+rl_insert_completions
+strlist_walk
+rl_backward_kill_word
+extract_command_subst
+perform_hostname_completion
+rl_vi_end_word
+bashline_reinitialize
+pop_args
+exec_redirection_undo_list
+nohup_job
+signal_is_ignored
+sh_optind
+assign_compound_array_list
+with_input_from_stream
+restore_token_state
+rl_push_macro_input
+rl_readline_name
+rl_bind_keyseq_if_unbound
+dispose_command
+mbstrlen
+save_bash_input
+test_binop
+_rl_read_mbchar
+array_variable_part
+rl_undo_command
+_rl_screenwidth
+all_shell_functions
+expand_aliases
+echo_doc
+sh_xmalloc
+export_doc
+ps1_prompt
+progcomp_insert
+fd_is_bash_input
+history_word_delimiters
+reset_shopt_options
+history_max_entries
+_rl_start_using_history
+sh_opterr
+restart_job_control
+sort_variables
+mail_warning
+compspec_dispose
+test_builtin
+push_var_context
+strlist_remove
+rl_callback_handler_install
+spname
+array_flush
+rl_emacs_editing_mode
+rl_maybe_unsave_line
+word_token_alist
+free_mail_files
+history_total_bytes
+push_args
+xtrace_print_word_list
+terminate_current_pipeline
+unary_test
+list_reverse
+array_to_word_list
+make_while_command
+primary_prompt
+allow_null_glob_expansion
+check_add_history
+yylval
+rl_explicit_arg
+restore_pipeline
+rl_read_key
+stop_making_children
+tilde_expansion_failure_hook
+dump_translatable_strings
+let_doc
+make_arith_command
+break_builtin
+history_number
+phash_create
+do_assignment_no_expand
+rl_maybe_save_line
+add_or_supercede_exported_var
+unalias_doc
+setup_glob_ignore
+make_absolute
+rl_list_funmap_names
+var_lookup
+shell_initialized
+rl_completer_quote_characters
+EOF_Reached
+global_variables
+word_list_remove_quoted_nulls
+sh_free
+print_rlimtype
+array_copy
+rl_vi_yank_arg
+rl_end_of_history
+rl_callback_handler_remove
+rl_extend_line_buffer
+rl_set_retained_kills
+_rl_match_hidden_files
+set_pipestatus_from_exit
+internal_error
+rl_vi_append_eol
+string_list_dollar_at
+_rl_kill_kbd_macro
+copy_word
+run_trap_cleanup
+debugging_mode
+rl_vi_eWord
+remove_unwind_protect
+zread
+bash_re_edit
+_rl_undo_group_level
+yynerrs
+print_var_list
+eval_builtin
+array_from_word_list
+exit_doc
+exit_immediately_on_error
+get_alias_value
+tt_setnoecho
+rl_completion_quote_character
+jobs_builtin
+return_catch_value
+bg_doc
+set_signal
+err_unboundvar
+report_error
+read_but_dont_execute
+sv_ifs
+delete_all_contexts
+echo_input_at_read
+string_to_rlimtype
+dot_found_in_search
+yyparse
+make_for_command
+rl_unix_filename_rubout
+rl_downcase_word
+it_bindings
+no_empty_command_completion
+rl_stuff_char
+set_var_attribute
+bgpids
+set_sigint_handler
+programmable_completions
+alloc_history_entry
+shell_glob_filename
+rl_do_undo
+this_shell_function
+array_needs_making
+sh_eaccess
+complete_doc
+noglob_dot_filenames
+quote_escapes
+wait_for_job
+_rl_term_DC
+_rl_bind_stty_chars
+_rl_qsort_string_compare
+string_quote_removal
+difftimeval
+find_function_def
+hostname_list_initialized
+source_uses_path
+get_dollar_var_value
+rl_vi_change_to
+array_to_assign
+run_error_trap
+it_enabled
+hash_bucket
+rl_erase_empty_line
+sv_globignore
+executable_or_directory
+zreset
+_rl_read_mbstring
+_rl_screenheight
+rl_do_lowercase_version
+get_job_spec
+rl_dump_functions
+make_funcname_visible
+kill_builtin
+rl_vi_arg_digit
+expand_word_leave_quoted
+subst_assign_varlist
+_rl_overwrite_char
+_rl_term_clrpag
+rl_set_key
+history_truncate_file
+rl_vi_bracktype
+reset_terminating_signals
+jobs_m_flag
+expand_string
+rl_call_last_kbd_macro
+history_set_pos
+print_array_assignment
+make_bare_word
+rl_function_dumper
+sv_terminal
+original_pgrp
+isnetconn
+dot_doc
+initialize_shell_variables
+_rl_clean_up_for_exit
+reap_dead_jobs
+alias_expand_word
+_rl_complete_show_unmodified
+xtrace_print_arith_cmd
+_rl_uppercase_p
+_rl_keyseq_cxt_dispose
+get_string_value
+array_walk
+rl_history_search_forward
+the_printed_command_size
+push_scope
+execute_shell_function
+with_input_from_buffered_stream
+rl_prep_term_function
+make_pattern_list
+the_printed_command_except_trap
+redirection_error
+rl_delete_or_show_completions
+rl_yank_last_arg
+it_stopped
+set_if_not
+rl_username_completion_function
+list_stopped_jobs
+_rl_replace_text
+_rl_walphabetic
+no_exit_on_failed_exec
+gather_here_documents
+bash_history_reinit
+malloc_flags
+sv_hostfile
+timeval_to_cpu
+merge_temporary_env
+sub_append_string
+rl_bind_keyseq_if_unbound_in_map
+interactive_comments
+strlist_sort
+make_default_mailpath
+rl_save_state
+_rl_add_macro_char
+function_trace_mode
+it_variables
+load_history
+assign_array_element
+tilde_additional_suffixes
+termsig_handler
+pwd_builtin
+sh_xrealloc
+it_running
+extended_quote
+_rl_history_saved_point
+setup_history_ignore
+copy_word_list
+pushed_string_list
+make_cond_command
+test_unop
+init_job_stats
+localeexpand
+strvec_flush
+rl_vi_search_again
+bash_tilde_expand
+readline_internal_teardown
+bind_doc
+shopt_doc
+rl_line_buffer
+rl_restart_output
+rl_numeric_arg
+count_all_jobs
+rl_end_kbd_macro
+legal_number
+read_history_range
+array_subrange
+rl_vi_editing_mode
+initialize_readline
+initialize_job_signals
+rl_vi_rubout
+make_child
+unbind_function_def
+rl_end_of_line
+rl_bind_key
+literal_history
+read_secondary_line
+sv_mail
+history_offset
+strvec_create
+shell_function_defs
+copy_redirects
+xbcopy
+delete_all_variables
+rl_untranslate_keyseq
+expand_string_unsplit_to_string
+stop_pipeline
+fd_to_buffered_stream
+_rl_print_completions_horizontally
+rl_vi_complete
+progcomp_walk
+terminal_pgrp
+assign_in_env
+file_isdir
+shell_pgrp
+strvec_strcmp
+GLIBC_2.1
+GLIBC_2.0
+GLIBC_2.4
+GLIBC_2.3
+GLIBC_2.3.4
+GLIBC_2.2
+PTRh
+/bin
+/bin
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+WVSQ
+t@<-
+{t#~(=
+< t2<	t.<itA
+[^_]
+[^_]
+,[^_]
+,[^_]
+,[^_]
+[^_]
+[^_]
+?!tW
+[^_]
+[^_]
+8;uO
+l[^_]
+l[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+t'=$
+[^_]
+[^_]
+[^_]
+L[^_]
+,[^_]
+[^_]
+[^_]
+t < 
+<	w3k
+[^_]
+0<	v
+</t2<.t
+<\t<<'f
+t6<"
+t	<:
+<+tW<-ta
+0<	wD
+::tz
+t8<:t4
+;~ts
+>/t4
+;/t!
+<[^_]
+,[^_]
+,[^_]
+WVS1
+<$tw
+c<"tg
+,[^_]
+< ti<	te
+tf<;
+,[^_]
+,[^_]
+[^_]
+<[^_]
+[^_]
+[^_]
+[^_]
+gfff
+gfff
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+l[^_]
+l[^_]
+l[^_]
+l[^_]
+,[^_]
+[^_]
+<%tG
+[^_]
+[^_]
+ [^]
+ [^]
+[^_]
+<[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+<[^_]
+;=H@
+[^_]
+[^_]
+[^_]
+[^_]
+<etb
+,[^_]
+ [^]
+gfff
+l[^_]
+;/u6
+[^_]
+;5L@
+[^_]
+[^_]
+l[^_]
+l[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+,[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+<[^_]
+t09X
+[^_]
+[^]f
+[^_]
+t2~01
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+\[^_]
+\[^_]
+Done
+[^_]
+[^_]
+L[^_]
+L[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+;5`R
+[^_]
+[^_]
+[^_]
+[^_]
+;5dR
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+<unk
+nownf
+[^_]
+[^_]
+,[^_]
+,[^_]
+<@tT<*
+uj9u
+[^_]
+[^_]
+[^_]
+[^_]
+,[^_]
+[^_]
+<[^_]
+<[^_]
+[^_]
+<[^_]
+<[^_]
+[^_]
+[^_]
+<@ts
+<[^_]
+<[^_]
+<[^_]
+<[^_]
+9*u	
+l[^_]
+l[^_]
+[^_]
+\[^_]
+tK<'tG
+<[^_]
+< t1<	t-<
+< t	<	t
+[^_]
+[^_]
+[^_]
+\[^_]
+te<'ta
+<$t~<`tz<<
+tr<>tn<
+tj<~
+tb<'t
+[^_]
+<[^_]
+[^_]
+<[^_]
+[^_]
+[^_]
+(tM1
+[^_]
+L[^_]
+tc<'
+L[^_]
+[^_]
+t^<'
+[^_]
+l[^_]
+<{tx<(
+l[^_]
+<(t}<{
+\[^_]
+\[^_]
+\[^_]
+,[^_]
+[^_]
+<	v"
+t=<(t@
+u7<:
+9*tS
+[^_]
+[^_]
+/dev
+/fd/
+;5\S
+;5\S
+L[^_]
+L[^_]
+tS=<S
+[^_]
+[^_]
+0<	vQ
+[^_]
+?.tl
+[^_]
+[^_]
+t*;s
+[^_]
+[^_]
+,[^_]
+95hS
+95hS
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+<St+
+,[^_]
+,[^_]
+;5@U
+[^_]
+t	;A
+[^_]
+;5Hn
+[^_]
+$<Xw
+[^_]
+<[^_]
+<[^_]
+[^_]
+[^_]
+?.tU
+[^_]
+[^_]
+!<<w
+<[^_]
+<?t&
+1<!t
+,[^_]
+W<@t
+[^_]
+[^_]
+<=tg<<tV<>tR<!ty
+<ttf
+G<3w
+G<3w
+<!t-<-tI
+t=<!
+<nt$<o
+<>t;<<t7<!
+<!tx<(
+<at~<ou
+[^_]
+[^_]
+[^_]
+8[t}
+[^_]
+[^_]
+L[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+,[^_]
+[^_]
+L[^_]
+[^_]
+[^_]
+0[^]
+tE)U
+t5<[tA<]
+[^_]
+<;]tA
+<@t@<*t<
+:]tJ
+[^_]
+[^_]
+;[tJ
+<[^_]
+Degas are we not drawn onward no In union drawn onward to new eras aged
+>]ta
+[^_]
+<@tg<*tc
+l[^_]
+,[^_]
+,[^_]
+|[^_]
+tx<\
+|[^_]
+L[^_]
+L[^_]
+L[^_]
+L[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+< t1<	t-<#
+[^_]
+[^_]
+,[^_]
+,[^_]
+t{<"
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+<[^_]
+[^_]
+>~u,
+[^_]
+< t,<	t(
+[^_]
+[^_]
+[^_]
+9=DW
+9=DW
+|[^_]
+|[^_]
+[^_]
+t4<\t
+[^_]
+[^_]
+[^_]
+[^_]
+< t2<	t.
+tB;=
+8< t
+tW;=
+8< t8<	t4
+[^_]
+[^_]
+,[^_]
+,[^_]
+<[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+<\t <
+[^_]
+[^_]
+[^_]
+[^_]
+:Tt>
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+8-tY
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+A Santa lives evil at NASA
+[^_]
+,[^_]
+[^_]
+[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+t,<=t(1
+[^_]
+t ;5
+[^_]
+[^_]
+[^_]
+[^_]
+/bin
+:/us
+r/bi
+n:/s
+bin:
+/usr
+/sbif
+[^_]
+ [^]
+[^_]
+[^_]
+,[^_]
+,[^_]
+,[^_]
+tV<%
+0<	vI
+ts<?t
+<[^_]
+<[^_]
+8-t4
+:-tF
+\[^_]
+[^_]
+WVS1
+[^_]
+_str
+[^_]
+[^_]
+,[^_]
+[^_]
+<-tq
+0<	v}
+[^_]
+[^_]
+0<	w
+[^_]
+8&t"
+\[^_]
+|	9U
+[^_]
+6<%tT
+[^_]
+[^_]
+[^_]
+8-uH
+95hX
+[^_]
+<-t*<+
+<lto<ctt<v
+,[^_]
+[^_]
+[^_]
+[^_]
+<ntE<-u
+<[^_]
+[^_]
+[^_]
+;5dX
+[^_]
+[^_]
+,[^_]
+<[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+,[^_]
+[^_]
+<-t;
+tg<?
+<ouj
+[^_]
+<[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+8-up
+[^_]
+tT~0
+p[^]
+\[^_]
+[^_]
+<atR
+[^_]
+<xt6<rf
+0<	vP
+[^_]
+[^_]
+gfff
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+"<Vw
+<'t`<"t\
+?"tM
+,[^_]
+<%t1
+0<	v
+0<	v
+uY9E
+<-t/
+WVS1
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+G$tM1
+[^_]
+[^_]
+[^_]
+L[^_]
+L[^_]
+</t:
+/dev
+/fd/
+gfff
+$[^_]
+[^_]
+tI</
+t9<.
+</tK
+t8</u
+,[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+,[^_]
+,[^_]
+[^_]
+tJ9s
+,[^_]
+,[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+Beeb
+[^_]
+[^_]
+[^_]
+8.u;
+[^_]
+	<uw
+t"<:t
+	<tw
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+B0v"
+gfff
+[^_]
+[^_]
+gfff
+@0v5
+BWv(
+gfff
+[^_]
+,[^_]
+[^_]
+[^_]
+	t)9E
+[^_]
+[^_]
+[t"~"
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+t	;E
+[^_]
+[^_]
+	tx9]
+[^_]
+[^_]
+[^_]
+ctD9
+[^_]
+< tc<	t_
+ [^]
+,[^_]
+[^_]
+[^_]
+[^_]
+L[^_]
+[^_]
+>^t1
+[^_]
+[^_]
+[^_]
+\[^_]
+\[^_]
+<[^_]
+u:8U
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+WVS1
+[^_]
+[^_]
+%t-=
+#t$=
+|t	=
+<[^_]
+<[^_]
+<[^_]
+<[^_]
+<[^_]
+<[^_]
+<[^_]
+,[^_]
+ [^]
+ [^]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+,[^_]
+L[^_]
+\C-?
+t.<	
+[^_]
+[^_]
+[^_]
+0<HwG
+,[^_]
+ [^]
+,[^_]
+[^_]
+[^_]
+ [^]
+t <	t
+Do nine men interpret Nine men I nod
+<[^_]
+< t5<	t1
+|[^_]
+< tN<	tJ
+C0;C,u
+i-se
+archf
+reve
+rse-
+,[^_]
+[^_]
+G`;G\t
+[^_]
+[^_]
+t[;=4x
+[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+xM<	t9
+[^_]
+[^_]
+[^_]
+t%9u
+[^_]
+;5|\
+;=,x
++=,x
+;=,x
+VUUU
+u	9]
+|[^_]
+|[^_]
+9=8a
+9=8a
+[^_]
+[^_]
+1<~t)< t"<	t
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+< t_<	t[
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+ [^]
+ [^]
+[^_]
+[^_]
+WVS1
+[^_]
+<[^_]
+[^_]
+[^_]
+[^_]
+,[^_]
+[^_]
+[^_]
+|Rt*
+[^_]
+[^_]
+\[^_]
+[^_]
+< t|<	tx
+	t/9
+[^_]
+[^_]
+<[^_]
+[^_]
+[^_]
+,[^_]
+|xtE
+[^_]
+;5@x
+95@x
+[^_]
+`[^]
+<[^_]
+,[^_]
+<[^_]
+<[^_]
+<[^_]
+<Rwd
+|[^_]
+|[^_]
+t#<'tF< t'<	t#<
+|[^_]
+.his
+tory
+95@x
+[^_]
+[^_]
+t69U
+[^_]
+,[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+;~t3
+[^_]
+[^_]
+[^_]
+,[^_]
+,[^_]
+[^_]
+[^_]
+,[^_]
+,[^_]
+t@w"<(
+[^_]
+<]tX
+<^t}
+[^_]
+,[^_]
+l[^_]
+l[^_]
+,[^_]
+uS9]
+ru9]
+,[^_]
+,[^_]
+|[^_]
+|[^_]
+,[^_]
+uN9]
+ru9]
+,[^_]
+tH)U
+,[^_]
+,[^_]
+t?<T
+<[^_]
+<[^_]
+[^_]
+9=@m
+[^_]
+[^_]
+[^_]
+,[^_]
+0^_]
+r	;u
+P^_]
+(^_]
+rqtb
+0^_]
+[^_]
+../bash/shell.c
+I have no name!
+rbash
+BASH_ENV
+i486-pc-linux-gnu
+GNU bash, version %s-(%s)
+GNU long options:
+	--%s
+Shell options:
+	-%s or -o option
+run_wordexp
+--wordexp
+run_one_command
+FUNCNAME
+BASH_SOURCE
+BASH_LINENO
+main
+%s: is a directory
+POSIXLY_CORRECT
+POSIX_PEDANTIC
+\s-\v\$ 
+~/.bashrc
+%s: invalid option
+%c%c: invalid option
+??host??
+emacs
+EMACS
+dumb
+SSH_CLIENT
+SSH2_CLIENT
+/etc/bash.bashrc
+/etc/profile
+~/.profile
+~/.bash_profile
+~/.bash_login
+debugger
+dump-po-strings
+dump-strings
+help
+noediting
+noprofile
+norc
+posix
+protected
+rcfile
+Usage:	%s [GNU long option] [option] ...
+	%s [GNU long option] [option] script-file ...
+	-irsD or -c command or -O shopt_option		(invocation only)
+Type `%s -c "help set"' for more information about shell options.
+Type `%s -c help' for more information about shell builtin commands.
+Use the `bashbug' command to report bugs.
+/usr/local/share/bashdb/bashdb-main.inc
+%s: cannot execute binary file
+%s: option requires an argument
+timed out waiting for input: auto-logout
+PROMPT_COMMAND
+eterm
+TMOUT
+reader_loop
+../bash/parse.y
+PIPESTATUS
+readline stdin
+	;|&
+syntax error near `%s'
+syntax error
+%a %b %d
+%H:%M:%S
+%I:%M:%S
+%I:%M %p
+%H:%M
+%s.%d
+HOME
+esac
+eval
+expected `)'
+y.tab.c
+Use "%s" to leave the shell.
+"$@"
+memory exhausted
+then
+else
+elif
+select
+while
+until
+done
+newline
+ !"#$%&'()-
+-0:41/65789
+%+(.uv
+zz}~z
+z{ikt
+zzzz
+zzzzzz
+EFzzzz
+XopqrsOe`
+zHQWzzzzfN
+zzCDIJ
+zhabzz
+zzz^cd
+]?@KL
+677778899999999999999999999999999999:::;;<<====>>>>>>>>>>>????????@@@@AAAAAABBBCCCDDEFFFGHIJJJKKLLLLMMNNOPPQQQRRRRRRSSTTTUUVVVWWWWWXXXXXXYYZZ
+syntax error near unexpected token `%s'
+syntax error: unexpected end of file
+unexpected EOF while looking for matching `%c'
+unexpected EOF while looking for `]]'
+syntax error in conditional expression: unexpected token `%s'
+syntax error in conditional expression
+unexpected EOF while looking for matching `)'
+unexpected token `%s', expected `)'
+unexpected argument `%s' to conditional unary operator
+unexpected argument to conditional unary operator
+unexpected token `%s', conditional binary operator expected
+conditional binary operator expected
+unexpected argument `%s' to conditional binary operator
+unexpected argument to conditional binary operator
+unexpected token `%c' in conditional command
+unexpected token `%s' in conditional command
+unexpected token %d in conditional command
+../bash/general.c
+OLDPWD
+/dev/tty
+`%s': not a valid identifier
+getcwd: cannot access parent directories
+clean_simple_command
+../bash/make_cmd.c
+syntax error: `;' unexpected
+syntax error: `((%s))'
+make_redirection: redirection instruction `%d' out of range
+make_here_document: bad instruction type %d
+syntax error: arithmetic expression required
+../bash/print_cmd.c
+ && 
+ || 
+case %s in 
+select %s in 
+for %s in 
+>> %s
+<<%s%s
+<<< %s
+%d<&%d
+%d>&%d
+%d<&%s
+%d>&%s
+%d<&%d-
+%d>&%d-
+%d<&%s-
+%d>&%s-
+%d>&-
+<> %s
+>|%s
+time 
+for ((
+ then
+else
+function %s () 
+print_command
+case %s in
+''%s
+%s=(%s)
+cprintf: `%c': invalid format character
+print_command: bad connector `%d'
+../bash/dispose_cmd.c
+dispose_command
+cannot duplicate fd %d to fd %d
+cannot redirect standard input from /dev/null: %s
+%s: restricted: cannot specify `/' in command names
+TIMEFORMAT: `%c': invalid format character
+../bash/execute_cmd.c
+%s: %s: bad interpreter
+/dev/null
+eval_builtin
+builtin_env
+return_temp_env
+execute_cond_node
+LINES
+COLUMNS
+%*d%s%s
+pipe error
+pipe-file-descriptors
+execute_connection
+loop_redirections
+%s: readonly function
+execute_command
+function_calling
+execute-shell-function
+simple-command
+auto_resume
+exact
+substring
+saved redirects
+saved_redirects
+command_not_found_handle
+%s: command not found
+real %2R
+user %2U
+sys %2S
+real	%3lR
+user	%3lU
+sys	%3lS
+../bash/variables.c
+BASH_ARGV
+BASH_ARGC
+OPTERR
+ignorespace
+erasedups
+ignoredups
+ignoreboth
+HISTFILE
+PPID
+shell-init
+SHLVL
+() {
+i486
+HOSTTYPE
+OSTYPE
+MACHTYPE
+HOSTNAME
+MAILCHECK
+OPTIND
+BASH
+BASH_VERSION
+BASH_VERSINFO
+BASH_EXECUTION_STRING
+~/.sh_history
+~/.bash_history
+IGNOREEOF
+ignoreeof
+HISTCONTROL
+HISTIGNORE
+EUID
+SECONDS
+BASH_COMMAND
+BASH_SUBSHELL
+RANDOM
+HISTCMD
+COMP_WORDBREAKS
+DIRSTACK
+GROUPS
+GLOBIGNORE
+HISTFILESIZE
+HISTSIZE
+HISTTIMEFORMAT
+HOSTFILE
+LANG
+LC_ALL
+LC_COLLATE
+LC_CTYPE
+LC_MESSAGES
+LC_NUMERIC
+LC_TIME
+MAIL
+MAILPATH
+TERMCAP
+TERMINFO
+TEXTDOMAIN
+TEXTDOMAINDIR
+histchars
+pop_var_context: head of shell_variables not a function context
+pop_var_context: no global_variables context
+pop_scope: head of shell_variables not a temporary environment scope
+all_local_variables: no function context at current scope
+make_local_variable: no function context at current scope
+shell level (%d) too high, resetting to 1
+error importing function definition for `%s'
+/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+../bash/copy_cmd.c
+(null)
+last command: %s
+Aborting...
+%s: %s: %d
+%s: 
+ line 
+%s: %s:%s%d: 
+%s: warning: 
+%s: readonly variable
+%s: unbound variable
+bash-maintainers@gnu.org
+unknown command error
+bad command type
+bad connector
+bad jump
+../bash/expr.c
+syntax error in expression
+recursion stack underflow
+invalid arithmetic base
+value too great for base
+*/%+-&^|
+missing `)'
+exponent less than 0
+division by 0
+expression expected
+bug: bad expassign token
+%s%s%s: %s (error token is "%s")
+expression recursion level exceeded
+syntax error: invalid arithmetic operator
+syntax error: operand expected
+identifier expected after pre-increment or pre-decrement
+`:' expected for conditional expression
+attempted assignment to non-variable
+../bash/flags.c
+Signal %d
+<unknown>
+[%d]%c 
+     
+%5ld
+Done
+Stopped
+Stopped(%s)
+Running
+Done(%d)
+Exit %d
+Unknown status
+(core dumped) 
+  (wd: %s)
+%s: line %d: 
+ (core dumped)
+(wd now: %s)
+notify_of_job_status
+../bash/jobs.c
+SIGCHLD trap
+[%d] %ld
+[%ld: %d] tcsetattr
+no job control in this shell
+%s: job has terminated
+[%d]%s
+	(wd: %s)
+job-working-directory
+start_pipeline: pgrp pipe
+fork
+child setpgid (%ld to %ld)
+describe_pid: %ld: no such pid
+initialize_job_control: getpgrp failed
+initialize_job_control: setpgid
+deleting stopped job %d with process group %ld
+wait_for: No record of process %ld
+%s: job %d already in background
+wait_for_job: job %d is stopped
+wait: pid %ld is not a child of this shell
+forked pid %d appears in running job %d
+../bash/subst.c
+command substitution
+#%:-=?+/}
+%:=+/
+%s: substring expression < 0
+%s: bad substitution
+%s: parameter null or not set
+process substitution
+no match: %s
+cannot make pipe for command substitution
+cannot make child for command substitution
+command_substitute: cannot duplicate pipe as fd 1
+%s: cannot assign list to array member
+bad substitution: no closing `%s' in %s
+$%s: cannot assign in this way
+cannot make pipe for process substitution
+cannot make child for process substitution
+cannot duplicate named pipe %s as fd %d
+bad substitution: no closing "`" in %s
+../bash/hashcmd.c
+../bash/hashlib.c
+../bash/mailcheck.c
+You have mail in $_
+You have new mail in $_
+The mail in %s has been read
+../bash/trap.c
+interrupt trap
+return trap
+error trap
+debug trap
+exit trap
+invalid signal number
+trap_handler: bad signal %d
+EXIT
+SIGHUP
+SIGINT
+SIGQUIT
+SIGILL
+SIGTRAP
+SIGABRT
+SIGBUS
+SIGFPE
+SIGKILL
+SIGUSR1
+SIGSEGV
+SIGUSR2
+SIGPIPE
+SIGALRM
+SIGTERM
+SIGSTKFLT
+SIGCHLD
+SIGCONT
+SIGSTOP
+SIGTSTP
+SIGTTIN
+SIGTTOU
+SIGURG
+SIGXCPU
+SIGXFSZ
+SIGVTALRM
+SIGPROF
+SIGWINCH
+SIGIO
+SIGPWR
+SIGSYS
+SIGJUNK(32)
+SIGJUNK(33)
+SIGRTMIN
+SIGRTMIN+1
+SIGRTMIN+2
+SIGRTMIN+3
+SIGRTMIN+4
+SIGRTMIN+5
+SIGRTMIN+6
+SIGRTMIN+7
+SIGRTMIN+8
+SIGRTMIN+9
+SIGRTMIN+10
+SIGRTMIN+11
+SIGRTMIN+12
+SIGRTMIN+13
+SIGRTMIN+14
+SIGRTMIN+15
+SIGRTMAX-14
+SIGRTMAX-13
+SIGRTMAX-12
+SIGRTMAX-11
+SIGRTMAX-10
+SIGRTMAX-9
+SIGRTMAX-8
+SIGRTMAX-7
+SIGRTMAX-6
+SIGRTMAX-5
+SIGRTMAX-4
+SIGRTMAX-3
+SIGRTMAX-2
+SIGRTMAX-1
+SIGRTMAX
+DEBUG
+RETURN
+run_pending_traps: bad value in trap_list[%d]: %p
+run_pending_traps: signal handler is SIG_DFL, resending %d (%s) to myself
+error reading input file: %s
+../bash/input.c
+cannot allocate new file descriptor for bash input from fd %d
+save_bash_input: buffer already exists for new fd %d
+../bash/unwind_prot.c
+../bash/pathexp.c
+%s: integer expression expected
+argument expected
+%s: unary operator expected
+%s: binary operator expected
+`)' expected
+`)' expected, found %s
+missing `]'
+too many arguments
+%s.%d(%d)-%s
+%s.%d(%d)
+GNU bash, version %s (%s)
+release
+Copyright (C) 2005 Free Software Foundation, Inc.
+@(#)Bash version 3.2.13(1) release GNU
+../bash/alias.c
+;|&(
+;|&()
+../bash/array.c
+../bash/arrayfunc.c
+'()'
+%s[%s: %s
+[%s]: %s
+array assign
+bad array subscript
+%s: cannot assign to non-numeric index
+../bash/braces.c
+../bash/bracecomp.c
+../bash/bashhist.c
+%s%s%s
+%s: cannot create: %s
+../bash/bashline.c
+no closing `%c' in %s
+%s: missing colon separator
+bash_execute_unix_command
+completion-ignore-case
+;|&{(`
+$include 
+hostname_completion_file
+/etc/hosts
+symlink-hook
+()<>;&| 	
+%s %d
+C-xC-e
+fc -e vi
+Bash
+shell-expand-line
+history-expand-line
+magic-space
+history-and-alias-expand-line
+insert-last-argument
+operate-and-get-next
+display-shell-version
+edit-and-execute-command
+complete-into-braces
+complete-filename
+possible-filename-completions
+complete-username
+possible-username-completions
+complete-hostname
+possible-hostname-completions
+complete-variable
+possible-variable-completions
+complete-command
+possible-command-completions
+glob-complete-word
+glob-expand-word
+glob-list-expansions
+dynamic-complete-history
+\"'@<>=;|&()#$`?*[!:{
+comment-begin
+FIGNORE
+"'@><=;|&(:
+"'><=;|&(:
+%s: first non-whitespace character is not `"'
+bash_execute_unix_command: cannot find keymap for command
+fc -e "${VISUAL:-${EDITOR:-$(command -v editor || echo emacs)}}"
+fc -e "${VISUAL:-${EDITOR:-$(command -v editor || echo vi)}}"
+../bash/stringlib.c
+../bash/locale.c
+POSIX
+/usr/share/locale
+#: %s:%d
+msgid %s%s
+msgstr ""
+../bash/findcmd.c
+redirection error: cannot duplicate fd
+%s: cannot overwrite existing file
+%s: restricted: cannot redirect output
+cannot create temp file for here document: %s
+../bash/redir.c
+sh-thd
+file descriptor out of range
+%s: ambiguous redirect
+../bash/pcomplete.c
+COMP_LINE
+COMP_POINT
+COMP_WORDS
+COMP_CWORD
+COMPREPLY
+completion: function `%s' not found
+../bash/pcomplib.c
+progcomp_insert: %s: NULL COMPSPEC
+xrealloc: %s:%d: cannot reallocate %lu bytes (%lu bytes allocated)
+xmalloc: %s:%d: cannot allocate %lu bytes (%lu bytes allocated)
+xrealloc: cannot reallocate %lu bytes (%lu bytes allocated)
+xmalloc: cannot allocate %lu bytes (%lu bytes allocated)
+unalias
+unalias [-a] name [name ...]
+break
+break [n]
+continue
+continue [n]
+caller
+caller [EXPR]
+cd [-L|-P] [dir]
+pwd [-LP]
+true
+false
+declare
+typeset
+local
+local name[=value] ...
+echo [-neE] [arg ...]
+enable
+eval [arg ...]
+getopts
+getopts optstring name [arg]
+exit [n]
+fg [job_spec]
+bg [job_spec ...]
+help [-s] [pattern ...]
+jobs
+disown
+let arg [arg ...]
+read
+return [n]
+unset [-f] [-v] [name ...]
+readonly
+shift
+shift [n]
+source
+source filename [arguments]
+. filename [arguments]
+suspend [-f]
+test
+test [expr]
+[ arg... ]
+times
+type [-afptP] name [name ...]
+ulimit
+umask
+umask [-p] [-S] [mode]
+wait
+wait [n]
+time [-p] PIPELINE
+{ ... }
+{ COMMANDS ; }
+JOB_SPEC [&]
+(( ... ))
+(( expression ))
+[[ ... ]]
+[[ expression ]]
+pushd
+pushd [dir | +N | -N] [-n]
+popd
+popd [+N | -N] [-n]
+dirs [-clpv] [+N] [-N]
+shopt
+printf
+compgen
+Return a successful result.
+Obsolete.  See `declare'.
+Logout of a login shell.
+alias [-p] [name[=value] ... ]
+bind [-lpvsPVS] [-m keymap] [-f filename] [-q name] [-u name] [-r keyseq] [-x keyseq:shell-command] [keyseq:readline-function or readline-command]
+builtin [shell-builtin [arg ...]]
+command [-pVv] command [arg ...]
+declare [-afFirtx] [-p] [name[=value] ...]
+typeset [-afFirtx] [-p] name[=value] ...
+enable [-pnds] [-a] [-f filename] [name ...]
+exec [-cl] [-a name] file [redirection ...]
+fc [-e ename] [-nlr] [first] [last] or fc -s [pat=rep] [cmd]
+hash [-lr] [-p pathname] [-dt] [name ...]
+history [-c] [-d offset] [n] or history -awrn [filename] or history -ps arg [arg...]
+jobs [-lnprs] [jobspec ...] or jobs -x command [args]
+disown [-h] [-ar] [jobspec ...]
+kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+read [-ers] [-u fd] [-t timeout] [-p prompt] [-a array] [-n nchars] [-d delim] [name ...]
+set [--abefhkmnptuvxBCHP] [-o option] [arg ...]
+export [-nf] [name[=value] ...] or export -p
+readonly [-af] [name[=value] ...] or readonly -p
+trap [-lp] [arg signal_spec ...]
+ulimit [-SHacdfilmnpqstuvx] [limit]
+for NAME [in WORDS ... ;] do COMMANDS; done
+for (( exp1; exp2; exp3 )); do COMMANDS; done
+select NAME [in WORDS ... ;] do COMMANDS; done
+case WORD in [PATTERN [| PATTERN]...) COMMANDS ;;]... esac
+if COMMANDS; then COMMANDS; [ elif COMMANDS; then COMMANDS; ]... [ else COMMANDS; ] fi
+while COMMANDS; do COMMANDS; done
+until COMMANDS; do COMMANDS; done
+function NAME { COMMANDS ; } or NAME () { COMMANDS ; }
+variables - Some variable names and meanings
+shopt [-pqsu] [-o long-option] optname [optname...]
+printf [-v var] format [arguments]
+complete [-abcdefgjksuv] [-pr] [-o option] [-A action] [-G globpat] [-W wordlist] [-P prefix] [-S suffix] [-X filterpat] [-F function] [-C command] [name ...]
+compgen [-abcdefgjksuv] [-o option] [-A action] [-G globpat] [-W wordlist] [-P prefix] [-S suffix] [-X filterpat] [-F function] [-C command] [word]
+`alias' with no arguments or with the -p option prints the list
+    of aliases in the form alias NAME=VALUE on standard output.
+    Otherwise, an alias is defined for each NAME whose VALUE is given.
+    A trailing space in VALUE causes the next word to be checked for
+    alias substitution when the alias is expanded.  Alias returns
+    true unless a NAME is given for which no alias has been defined.
+Remove NAMEs from the list of defined aliases.  If the -a option is given,
+    then remove all alias definitions.
+Bind a key sequence to a Readline function or a macro, or set
+    a Readline variable.  The non-option argument syntax is equivalent
+    to that found in ~/.inputrc, but must be passed as a single argument:
+    bind '"\C-x\C-r": re-read-init-file'.
+    bind accepts the following options:
+      -m  keymap         Use `keymap' as the keymap for the duration of this
+                         command.  Acceptable keymap names are emacs,
+                         emacs-standard, emacs-meta, emacs-ctlx, vi, vi-move,
+                         vi-command, and vi-insert.
+      -l                 List names of functions.
+      -P                 List function names and bindings.
+      -p                 List functions and bindings in a form that can be
+                         reused as input.
+      -r  keyseq         Remove the binding for KEYSEQ.
+      -x  keyseq:shell-command	Cause SHELL-COMMAND to be executed when
+    				KEYSEQ is entered.
+      -f  filename       Read key bindings from FILENAME.
+      -q  function-name  Query about which keys invoke the named function.
+      -u  function-name  Unbind all keys which are bound to the named function.
+      -V                 List variable names and values
+      -v                 List variable names and values in a form that can
+                         be reused as input.
+      -S                 List key sequences that invoke macros and their values
+      -s                 List key sequences that invoke macros and their values
+                         in a form that can be reused as input.
+Exit from within a FOR, WHILE or UNTIL loop.  If N is specified,
+    break N levels.
+Resume the next iteration of the enclosing FOR, WHILE or UNTIL loop.
+    If N is specified, resume at the N-th enclosing loop.
+Run a shell builtin.  This is useful when you wish to rename a
+    shell builtin to be a function, but need the functionality of the
+    builtin within the function itself.
+Returns the context of the current subroutine call.
+    
+    Without EXPR, returns "$line $filename".  With EXPR,
+    returns "$line $subroutine $filename"; this extra information
+    can be used to provide a stack trace.
+    
+    The value of EXPR indicates how many call frames to go back before the
+    current one; the top frame is frame 0.
+Change the current directory to DIR.  The variable $HOME is the
+    default DIR.  The variable CDPATH defines the search path for
+    the directory containing DIR.  Alternative directory names in CDPATH
+    are separated by a colon (:).  A null directory name is the same as
+    the current directory, i.e. `.'.  If DIR begins with a slash (/),
+    then CDPATH is not used.  If the directory is not found, and the
+    shell option `cdable_vars' is set, then try the word as a variable
+    name.  If that variable has a value, then cd to the value of that
+    variable.  The -P option says to use the physical directory structure
+    instead of following symbolic links; the -L option forces symbolic links
+    to be followed.
+Print the current working directory.  With the -P option, pwd prints
+    the physical directory, without any symbolic links; the -L option
+    makes pwd follow symbolic links.
+No effect; the command does nothing.  A zero exit code is returned.
+Return an unsuccessful result.
+Runs COMMAND with ARGS ignoring shell functions.  If you have a shell
+    function called `ls', and you wish to call the command `ls', you can
+    say "command ls".  If the -p option is given, a default value is used
+    for PATH that is guaranteed to find all of the standard utilities.  If
+    the -V or -v option is given, a string is printed describing COMMAND.
+    The -V option produces a more verbose description.
+Declare variables and/or give them attributes.  If no NAMEs are
+    given, then display the values of variables instead.  The -p option
+    will display the attributes and values of each NAME.
+    
+    The flags are:
+    
+      -a	to make NAMEs arrays (if supported)
+      -f	to select from among function names only
+      -F	to display function names (and line number and source file name if
+    	debugging) without definitions
+      -i	to make NAMEs have the `integer' attribute
+      -r	to make NAMEs readonly
+      -t	to make NAMEs have the `trace' attribute
+      -x	to make NAMEs export
+    
+    Variables with the integer attribute have arithmetic evaluation (see
+    `let') done when the variable is assigned to.
+    
+    When displaying values of variables, -f displays a function's name
+    and definition.  The -F option restricts the display to function
+    name only.
+    
+    Using `+' instead of `-' turns off the given attribute instead.  When
+    used in a function, makes NAMEs local, as with the `local' command.
+Create a local variable called NAME, and give it VALUE.  LOCAL
+    can only be used within a function; it makes the variable NAME
+    have a visible scope restricted to that function and its children.
+Output the ARGs.  If -n is specified, the trailing newline is
+    suppressed.  If the -e option is given, interpretation of the
+    following backslash-escaped characters is turned on:
+    	\a	alert (bell)
+    	\b	backspace
+    	\c	suppress trailing newline
+    	\E	escape character
+    	\f	form feed
+    	\n	new line
+    	\r	carriage return
+    	\t	horizontal tab
+    	\v	vertical tab
+    	\\	backslash
+    	\0nnn	the character whose ASCII code is NNN (octal).  NNN can be
+    		0 to 3 octal digits
+    
+    You can explicitly turn off the interpretation of the above characters
+    with the -E option.
+Enable and disable builtin shell commands.  This allows
+    you to use a disk command which has the same name as a shell
+    builtin without specifying a full pathname.  If -n is used, the
+    NAMEs become disabled; otherwise NAMEs are enabled.  For example,
+    to use the `test' found in $PATH instead of the shell builtin
+    version, type `enable -n test'.  On systems supporting dynamic
+    loading, the -f option may be used to load new builtins from the
+    shared object FILENAME.  The -d option will delete a builtin
+    previously loaded with -f.  If no non-option names are given, or
+    the -p option is supplied, a list of builtins is printed.  The
+    -a option means to print every builtin with an indication of whether
+    or not it is enabled.  The -s option restricts the output to the POSIX.2
+    `special' builtins.  The -n option displays a list of all disabled builtins.
+Read ARGs as input to the shell and execute the resulting command(s).
+Getopts is used by shell procedures to parse positional parameters.
+    
+    OPTSTRING contains the option letters to be recognized; if a letter
+    is followed by a colon, the option is expected to have an argument,
+    which should be separated from it by white space.
+    
+    Each time it is invoked, getopts will place the next option in the
+    shell variable $name, initializing name if it does not exist, and
+    the index of the next argument to be processed into the shell
+    variable OPTIND.  OPTIND is initialized to 1 each time the shell or
+    a shell script is invoked.  When an option requires an argument,
+    getopts places that argument into the shell variable OPTARG.
+    
+    getopts reports errors in one of two ways.  If the first character
+    of OPTSTRING is a colon, getopts uses silent error reporting.  In
+    this mode, no error messages are printed.  If an invalid option is
+    seen, getopts places the option character found into OPTARG.  If a
+    required argument is not found, getopts places a ':' into NAME and
+    sets OPTARG to the option character found.  If getopts is not in
+    silent mode, and an invalid option is seen, getopts places '?' into
+    NAME and unsets OPTARG.  If a required argument is not found, a '?'
+    is placed in NAME, OPTARG is unset, and a diagnostic message is
+    printed.
+    
+    If the shell variable OPTERR has the value 0, getopts disables the
+    printing of error messages, even if the first character of
+    OPTSTRING is not a colon.  OPTERR has the value 1 by default.
+    
+    Getopts normally parses the positional parameters ($0 - $9), but if
+    more arguments are given, they are parsed instead.
+Exec FILE, replacing this shell with the specified program.
+    If FILE is not specified, the redirections take effect in this
+    shell.  If the first argument is `-l', then place a dash in the
+    zeroth arg passed to FILE, as login does.  If the `-c' option
+    is supplied, FILE is executed with a null environment.  The `-a'
+    option means to make set argv[0] of the executed process to NAME.
+    If the file cannot be executed and the shell is not interactive,
+    then the shell exits, unless the shell option `execfail' is set.
+Exit the shell with a status of N.  If N is omitted, the exit status
+    is that of the last command executed.
+fc is used to list or edit and re-execute commands from the history list.
+    FIRST and LAST can be numbers specifying the range, or FIRST can be a
+    string, which means the most recent command beginning with that
+    string.
+    
+       -e ENAME selects which editor to use.  Default is FCEDIT, then EDITOR,
+          then vi.
+    
+       -l means list lines instead of editing.
+       -n means no line numbers listed.
+       -r means reverse the order of the lines (making it newest listed first).
+    
+    With the `fc -s [pat=rep ...] [command]' format, the command is
+    re-executed after the substitution OLD=NEW is performed.
+    
+    A useful alias to use with this is r='fc -s', so that typing `r cc'
+    runs the last command beginning with `cc' and typing `r' re-executes
+    the last command.
+Place JOB_SPEC in the foreground, and make it the current job.  If
+    JOB_SPEC is not present, the shell's notion of the current job is
+    used.
+Place each JOB_SPEC in the background, as if it had been started with
+    `&'.  If JOB_SPEC is not present, the shell's notion of the current
+    job is used.
+For each NAME, the full pathname of the command is determined and
+    remembered.  If the -p option is supplied, PATHNAME is used as the
+    full pathname of NAME, and no path search is performed.  The -r
+    option causes the shell to forget all remembered locations.  The -d
+    option causes the shell to forget the remembered location of each NAME.
+    If the -t option is supplied the full pathname to which each NAME
+    corresponds is printed.  If multiple NAME arguments are supplied with
+    -t, the NAME is printed before the hashed full pathname.  The -l option
+    causes output to be displayed in a format that may be reused as input.
+    If no arguments are given, information about remembered commands is displayed.
+Display helpful information about builtin commands.  If PATTERN is
+    specified, gives detailed help on all commands matching PATTERN,
+    otherwise a list of the builtins is printed.  The -s option
+    restricts the output for each builtin command matching PATTERN to
+    a short usage synopsis.
+Display the history list with line numbers.  Lines listed with
+    with a `*' have been modified.  Argument of N says to list only
+    the last N lines.  The `-c' option causes the history list to be
+    cleared by deleting all of the entries.  The `-d' option deletes
+    the history entry at offset OFFSET.  The `-w' option writes out the
+    current history to the history file;  `-r' means to read the file and
+    append the contents to the history list instead.  `-a' means
+    to append history lines from this session to the history file.
+    Argument `-n' means to read all history lines not already read
+    from the history file and append them to the history list.
+    
+    If FILENAME is given, then that is used as the history file else
+    if $HISTFILE has a value, that is used, else ~/.bash_history.
+    If the -s option is supplied, the non-option ARGs are appended to
+    the history list as a single entry.  The -p option means to perform
+    history expansion on each ARG and display the result, without storing
+    anything in the history list.
+    
+    If the $HISTTIMEFORMAT variable is set and not null, its value is used
+    as a format string for strftime(3) to print the time stamp associated
+    with each displayed history entry.  No time stamps are printed otherwise.
+Lists the active jobs.  The -l option lists process id's in addition
+    to the normal information; the -p option lists process id's only.
+    If -n is given, only processes that have changed status since the last
+    notification are printed.  JOBSPEC restricts output to that job.  The
+    -r and -s options restrict output to running and stopped jobs only,
+    respectively.  Without options, the status of all active jobs is
+    printed.  If -x is given, COMMAND is run after all job specifications
+    that appear in ARGS have been replaced with the process ID of that job's
+    process group leader.
+By default, removes each JOBSPEC argument from the table of active jobs.
+    If the -h option is given, the job is not removed from the table, but is
+    marked so that SIGHUP is not sent to the job if the shell receives a
+    SIGHUP.  The -a option, when JOBSPEC is not supplied, means to remove all
+    jobs from the job table; the -r option means to remove only running jobs.
+Send the processes named by PID (or JOBSPEC) the signal SIGSPEC.  If
+    SIGSPEC is not present, then SIGTERM is assumed.  An argument of `-l'
+    lists the signal names; if arguments follow `-l' they are assumed to
+    be signal numbers for which names should be listed.  Kill is a shell
+    builtin for two reasons: it allows job IDs to be used instead of
+    process IDs, and, if you have reached the limit on processes that
+    you can create, you don't have to start a process to kill another one.
+Each ARG is an arithmetic expression to be evaluated.  Evaluation
+    is done in fixed-width integers with no check for overflow, though
+    division by 0 is trapped and flagged as an error.  The following
+    list of operators is grouped into levels of equal-precedence operators.
+    The levels are listed in order of decreasing precedence.
+    
+    	id++, id--	variable post-increment, post-decrement
+    	++id, --id	variable pre-increment, pre-decrement
+    	-, +		unary minus, plus
+    	!, ~		logical and bitwise negation
+    	**		exponentiation
+    	*, /, %		multiplication, division, remainder
+    	+, -		addition, subtraction
+    	<<, >>		left and right bitwise shifts
+    	<=, >=, <, >	comparison
+    	==, !=		equality, inequality
+    	&		bitwise AND
+    	^		bitwise XOR
+    	|		bitwise OR
+    	&&		logical AND
+    	||		logical OR
+    	expr ? expr : expr
+    			conditional operator
+    	=, *=, /=, %=,
+    	+=, -=, <<=, >>=,
+    	&=, ^=, |=	assignment
+    
+    Shell variables are allowed as operands.  The name of the variable
+    is replaced by its value (coerced to a fixed-width integer) within
+    an expression.  The variable need not have its integer attribute
+    turned on to be used in an expression.
+    
+    Operators are evaluated in order of precedence.  Sub-expressions in
+    parentheses are evaluated first and may override the precedence
+    rules above.
+    
+    If the last ARG evaluates to 0, let returns 1; 0 is returned
+    otherwise.
+One line is read from the standard input, or from file descriptor FD if the
+    -u option is supplied, and the first word is assigned to the first NAME,
+    the second word to the second NAME, and so on, with leftover words assigned
+    to the last NAME.  Only the characters found in $IFS are recognized as word
+    delimiters.  If no NAMEs are supplied, the line read is stored in the REPLY
+    variable.  If the -r option is given, this signifies `raw' input, and
+    backslash escaping is disabled.  The -d option causes read to continue
+    until the first character of DELIM is read, rather than newline.  If the -p
+    option is supplied, the string PROMPT is output without a trailing newline
+    before attempting to read.  If -a is supplied, the words read are assigned
+    to sequential indices of ARRAY, starting at zero.  If -e is supplied and
+    the shell is interactive, readline is used to obtain the line.  If -n is
+    supplied with a non-zero NCHARS argument, read returns after NCHARS
+    characters have been read.  The -s option causes input coming from a
+    terminal to not be echoed.
+    
+    The -t option causes read to time out and return failure if a complete line
+    of input is not read within TIMEOUT seconds.  If the TMOUT variable is set,
+    its value is the default timeout.  The return code is zero, unless end-of-file
+    is encountered, read times out, or an invalid file descriptor is supplied as
+    the argument to -u.
+Causes a function to exit with the return value specified by N.  If N
+    is omitted, the return status is that of the last command.
+    -a  Mark variables which are modified or created for export.
+        -b  Notify of job termination immediately.
+        -e  Exit immediately if a command exits with a non-zero status.
+        -f  Disable file name generation (globbing).
+        -h  Remember the location of commands as they are looked up.
+        -k  All assignment arguments are placed in the environment for a
+            command, not just those that precede the command name.
+        -m  Job control is enabled.
+        -n  Read commands but do not execute them.
+        -o option-name
+            Set the variable corresponding to option-name:
+                allexport    same as -a
+                braceexpand  same as -B
+                emacs        use an emacs-style line editing interface
+                errexit      same as -e
+                errtrace     same as -E
+                functrace    same as -T
+                hashall      same as -h
+                histexpand   same as -H
+                history      enable command history
+                ignoreeof    the shell will not exit upon reading EOF
+                interactive-comments
+                             allow comments to appear in interactive commands
+                keyword      same as -k
+                monitor      same as -m
+                noclobber    same as -C
+                noexec       same as -n
+                noglob       same as -f
+                nolog        currently accepted but ignored
+                notify       same as -b
+                nounset      same as -u
+                onecmd       same as -t
+                physical     same as -P
+                pipefail     the return value of a pipeline is the status of
+                             the last command to exit with a non-zero status,
+                             or zero if no command exited with a non-zero status
+                posix        change the behavior of bash where the default
+                             operation differs from the 1003.2 standard to
+                             match the standard
+                privileged   same as -p
+                verbose      same as -v
+                vi           use a vi-style line editing interface
+                xtrace       same as -x
+        -p  Turned on whenever the real and effective user ids do not match.
+            Disables processing of the $ENV file and importing of shell
+            functions.  Turning this option off causes the effective uid and
+            gid to be set to the real uid and gid.
+        -t  Exit after reading and executing one command.
+        -u  Treat unset variables as an error when substituting.
+        -v  Print shell input lines as they are read.
+        -x  Print commands and their arguments as they are executed.
+        -B  the shell will perform brace expansion
+        -C  If set, disallow existing regular files to be overwritten
+            by redirection of output.
+        -E  If set, the ERR trap is inherited by shell functions.
+        -H  Enable ! style history substitution.  This flag is on
+            by default when the shell is interactive.
+        -P  If set, do not follow symbolic links when executing commands
+            such as cd which change the current directory.
+        -T  If set, the DEBUG trap is inherited by shell functions.
+        -   Assign any remaining arguments to the positional parameters.
+            The -x and -v options are turned off.
+    
+    Using + rather than - causes these flags to be turned off.  The
+    flags can also be used upon invocation of the shell.  The current
+    set of flags may be found in $-.  The remaining n ARGs are positional
+    parameters and are assigned, in order, to $1, $2, .. $n.  If no
+    ARGs are given, all shell variables are printed.
+For each NAME, remove the corresponding variable or function.  Given
+    the `-v', unset will only act on variables.  Given the `-f' flag,
+    unset will only act on functions.  With neither flag, unset first
+    tries to unset a variable, and if that fails, then tries to unset a
+    function.  Some variables cannot be unset; also see readonly.
+NAMEs are marked for automatic export to the environment of
+    subsequently executed commands.  If the -f option is given,
+    the NAMEs refer to functions.  If no NAMEs are given, or if `-p'
+    is given, a list of all names that are exported in this shell is
+    printed.  An argument of `-n' says to remove the export property
+    from subsequent NAMEs.  An argument of `--' disables further option
+    processing.
+The given NAMEs are marked readonly and the values of these NAMEs may
+    not be changed by subsequent assignment.  If the -f option is given,
+    then functions corresponding to the NAMEs are so marked.  If no
+    arguments are given, or if `-p' is given, a list of all readonly names
+    is printed.  The `-a' option means to treat each NAME as
+    an array variable.  An argument of `--' disables further option
+    processing.
+The positional parameters from $N+1 ... are renamed to $1 ...  If N is
+    not given, it is assumed to be 1.
+Read and execute commands from FILENAME and return.  The pathnames
+    in $PATH are used to find the directory containing FILENAME.  If any
+    ARGUMENTS are supplied, they become the positional parameters when
+    FILENAME is executed.
+Suspend the execution of this shell until it receives a SIGCONT
+    signal.  The `-f' if specified says not to complain about this
+    being a login shell if it is; just suspend anyway.
+Exits with a status of 0 (true) or 1 (false) depending on
+    the evaluation of EXPR.  Expressions may be unary or binary.  Unary
+    expressions are often used to examine the status of a file.  There
+    are string operators as well, and numeric comparison operators.
+    
+    File operators:
+    
+        -a FILE        True if file exists.
+        -b FILE        True if file is block special.
+        -c FILE        True if file is character special.
+        -d FILE        True if file is a directory.
+        -e FILE        True if file exists.
+        -f FILE        True if file exists and is a regular file.
+        -g FILE        True if file is set-group-id.
+        -h FILE        True if file is a symbolic link.
+        -L FILE        True if file is a symbolic link.
+        -k FILE        True if file has its `sticky' bit set.
+        -p FILE        True if file is a named pipe.
+        -r FILE        True if file is readable by you.
+        -s FILE        True if file exists and is not empty.
+        -S FILE        True if file is a socket.
+        -t FD          True if FD is opened on a terminal.
+        -u FILE        True if the file is set-user-id.
+        -w FILE        True if the file is writable by you.
+        -x FILE        True if the file is executable by you.
+        -O FILE        True if the file is effectively owned by you.
+        -G FILE        True if the file is effectively owned by your group.
+God A red nugget A fat egg under a dog
+        -N FILE        True if the file has been modified since it was last read.
+    
+      FILE1 -nt FILE2  True if file1 is newer than file2 (according to
+                       modification date).
+    
+      FILE1 -ot FILE2  True if file1 is older than file2.
+    
+      FILE1 -ef FILE2  True if file1 is a hard link to file2.
+    
+    All file operators except -h and -L are acting on the target of a symbolic
+    link, not on the symlink itself, if FILE is a symbolic link.
+    
+    String operators:
+    
+        -z STRING      True if string is empty.
+    
+        -n STRING
+        STRING         True if string is not empty.
+    
+        STRING1 = STRING2
+                       True if the strings are equal.
+        STRING1 != STRING2
+                       True if the strings are not equal.
+        STRING1 < STRING2
+                       True if STRING1 sorts before STRING2 lexicographically.
+        STRING1 > STRING2
+                       True if STRING1 sorts after STRING2 lexicographically.
+    
+    Other operators:
+    
+        -o OPTION      True if the shell option OPTION is enabled.
+        ! EXPR         True if expr is false.
+        EXPR1 -a EXPR2 True if both expr1 AND expr2 are true.
+        EXPR1 -o EXPR2 True if either expr1 OR expr2 is true.
+    
+        arg1 OP arg2   Arithmetic tests.  OP is one of -eq, -ne,
+                       -lt, -le, -gt, or -ge.
+    
+    Arithmetic binary operators return true if ARG1 is equal, not-equal,
+    less-than, less-than-or-equal, greater-than, or greater-than-or-equal
+    than ARG2.
+    
+    See the bash manual page bash(1) for the handling of parameters (i.e.
+    missing parameters).
+This is a synonym for the "test" builtin, but the last
+    argument must be a literal `]', to match the opening `['.
+Print the accumulated user and system times for processes run from
+    the shell.
+The command ARG is to be read and executed when the shell receives
+    signal(s) SIGNAL_SPEC.  If ARG is absent (and a single SIGNAL_SPEC
+    is supplied) or `-', each specified signal is reset to its original
+    value.  If ARG is the null string each SIGNAL_SPEC is ignored by the
+    shell and by the commands it invokes.  If a SIGNAL_SPEC is EXIT (0)
+    the command ARG is executed on exit from the shell.  If a SIGNAL_SPEC
+    is DEBUG, ARG is executed after every simple command.  If the`-p' option
+    is supplied then the trap commands associated with each SIGNAL_SPEC are
+    displayed.  If no arguments are supplied or if only `-p' is given, trap
+    prints the list of commands associated with each signal.  Each SIGNAL_SPEC
+    is either a signal name in <signal.h> or a signal number.  Signal names
+    are case insensitive and the SIG prefix is optional.  `trap -l' prints
+    a list of signal names and their corresponding numbers.  Note that a
+    signal can be sent to the shell with "kill -signal $$".
+For each NAME, indicate how it would be interpreted if used as a
+    command name.
+    
+    If the -t option is used, `type' outputs a single word which is one of
+    `alias', `keyword', `function', `builtin', `file' or `', if NAME is an
+    alias, shell reserved word, shell function, shell builtin, disk file,
+    or unfound, respectively.
+    
+    If the -p flag is used, `type' either returns the name of the disk
+    file that would be executed, or nothing if `type -t NAME' would not
+    return `file'.
+    
+    If the -a flag is used, `type' displays all of the places that contain
+    an executable named `file'.  This includes aliases, builtins, and
+    functions, if and only if the -p flag is not also used.
+    
+    The -f flag suppresses shell function lookup.
+    
+    The -P flag forces a PATH search for each NAME, even if it is an alias,
+    builtin, or function, and returns the name of the disk file that would
+    be executed.
+Ulimit provides control over the resources available to processes
+    started by the shell, on systems that allow such control.  If an
+    option is given, it is interpreted as follows:
+    
+        -S	use the `soft' resource limit
+        -H	use the `hard' resource limit
+        -a	all current limits are reported
+        -c	the maximum size of core files created
+        -d	the maximum size of a process's data segment
+        -e	the maximum scheduling priority (`nice')
+        -f	the maximum size of files written by the shell and its children
+        -i	the maximum number of pending signals
+        -l	the maximum size a process may lock into memory
+        -m	the maximum resident set size
+        -n	the maximum number of open file descriptors
+        -p	the pipe buffer size
+        -q	the maximum number of bytes in POSIX message queues
+        -r	the maximum real-time scheduling priority
+        -s	the maximum stack size
+        -t	the maximum amount of cpu time in seconds
+        -u	the maximum number of user processes
+        -v	the size of virtual memory
+        -x	the maximum number of file locks
+    
+    If LIMIT is given, it is the new value of the specified resource;
+    the special LIMIT values `soft', `hard', and `unlimited' stand for
+    the current soft limit, the current hard limit, and no limit, respectively.
+    Otherwise, the current value of the specified resource is printed.
+    If no option is given, then -f is assumed.  Values are in 1024-byte
+    increments, except for -t, which is in seconds, -p, which is in
+    increments of 512 bytes, and -u, which is an unscaled number of
+    processes.
+The user file-creation mask is set to MODE.  If MODE is omitted, or if
+    `-S' is supplied, the current value of the mask is printed.  The `-S'
+    option makes the output symbolic; otherwise an octal number is output.
+    If `-p' is supplied, and MODE is omitted, the output is in a form
+    that may be used as input.  If MODE begins with a digit, it is
+    interpreted as an octal number, otherwise it is a symbolic mode string
+    like that accepted by chmod(1).
+Wait for the specified process and report its termination status.  If
+    N is not given, all currently active child processes are waited for,
+    and the return code is zero.  N may be a process ID or a job
+    specification; if a job spec is given, all processes in the job's
+    pipeline are waited for.
+The `for' loop executes a sequence of commands for each member in a
+    list of items.  If `in WORDS ...;' is not present, then `in "$@"' is
+    assumed.  For each element in WORDS, NAME is set to that element, and
+    the COMMANDS are executed.
+Equivalent to
+    	(( EXP1 ))
+    	while (( EXP2 )); do
+    		COMMANDS
+    		(( EXP3 ))
+    	done
+    EXP1, EXP2, and EXP3 are arithmetic expressions.  If any expression is
+    omitted, it behaves as if it evaluates to 1.
+The WORDS are expanded, generating a list of words.  The
+    set of expanded words is printed on the standard error, each
+    preceded by a number.  If `in WORDS' is not present, `in "$@"'
+    is assumed.  The PS3 prompt is then displayed and a line read
+    from the standard input.  If the line consists of the number
+    corresponding to one of the displayed words, then NAME is set
+    to that word.  If the line is empty, WORDS and the prompt are
+    redisplayed.  If EOF is read, the command completes.  Any other
+    value read causes NAME to be set to null.  The line read is saved
+    in the variable REPLY.  COMMANDS are executed after each selection
+    until a break command is executed.
+Execute PIPELINE and print a summary of the real time, user CPU time,
+    and system CPU time spent executing PIPELINE when it terminates.
+    The return status is the return status of PIPELINE.  The `-p' option
+    prints the timing summary in a slightly different format.  This uses
+    the value of the TIMEFORMAT variable as the output format.
+Selectively execute COMMANDS based upon WORD matching PATTERN.  The
+    `|' is used to separate multiple patterns.
+The `if COMMANDS' list is executed.  If its exit status is zero, then the
+    `then COMMANDS' list is executed.  Otherwise, each `elif COMMANDS' list is
+    executed in turn, and if its exit status is zero, the corresponding
+    `then COMMANDS' list is executed and the if command completes.  Otherwise,
+    the `else COMMANDS' list is executed, if present.  The exit status of the
+    entire construct is the exit status of the last command executed, or zero
+    if no condition tested true.
+Expand and execute COMMANDS as long as the final command in the
+    `while' COMMANDS has an exit status of zero.
+Expand and execute COMMANDS as long as the final command in the
+    `until' COMMANDS has an exit status which is not zero.
+Create a simple command invoked by NAME which runs COMMANDS.
+    Arguments on the command line along with NAME are passed to the
+    function as $0 .. $n.
+Run a set of commands in a group.  This is one way to redirect an
+    entire set of commands.
+Equivalent to the JOB_SPEC argument to the `fg' command.  Resume a
+    stopped or background job.  JOB_SPEC can specify either a job name
+    or a job number.  Following JOB_SPEC with a `&' places the job in
+    the background, as if the job specification had been supplied as an
+    argument to `bg'.
+The EXPRESSION is evaluated according to the rules for arithmetic
+    evaluation.  Equivalent to "let EXPRESSION".
+Returns a status of 0 or 1 depending on the evaluation of the conditional
+    expression EXPRESSION.  Expressions are composed of the same primaries used
+    by the `test' builtin, and may be combined using the following operators
+    
+    	( EXPRESSION )	Returns the value of EXPRESSION
+    	! EXPRESSION	True if EXPRESSION is false; else false
+    	EXPR1 && EXPR2	True if both EXPR1 and EXPR2 are true; else false
+    	EXPR1 || EXPR2	True if either EXPR1 or EXPR2 is true; else false
+    
+    When the `==' and `!=' operators are used, the string to the right of the
+    operator is used as a pattern and pattern matching is performed.  The
+    && and || operators do not evaluate EXPR2 if EXPR1 is sufficient to
+    determine the expression's value.
+BASH_VERSION	Version information for this Bash.
+    CDPATH	A colon-separated list of directories to search
+    		for directries given as arguments to `cd'.
+    GLOBIGNORE	A colon-separated list of patterns describing filenames to
+    		be ignored by pathname expansion.
+    HISTFILE	The name of the file where your command history is stored.
+    HISTFILESIZE	The maximum number of lines this file can contain.
+    HISTSIZE	The maximum number of history lines that a running
+    		shell can access.
+    HOME	The complete pathname to your login directory.
+    HOSTNAME	The name of the current host.
+    HOSTTYPE	The type of CPU this version of Bash is running under.
+    IGNOREEOF	Controls the action of the shell on receipt of an EOF
+    		character as the sole input.  If set, then the value
+    		of it is the number of EOF characters that can be seen
+    		in a row on an empty line before the shell will exit
+    		(default 10).  When unset, EOF signifies the end of input.
+    MACHTYPE	A string describing the current system Bash is running on.
+    MAILCHECK	How often, in seconds, Bash checks for new mail.
+    MAILPATH	A colon-separated list of filenames which Bash checks
+    		for new mail.
+    OSTYPE	The version of Unix this version of Bash is running on.
+    PATH	A colon-separated list of directories to search when
+    		looking for commands.
+    PROMPT_COMMAND	A command to be executed before the printing of each
+    		primary prompt.
+    PS1		The primary prompt string.
+    PS2		The secondary prompt string.
+    PWD		The full pathname of the current directory.
+    SHELLOPTS	A colon-separated list of enabled shell options.
+    TERM	The name of the current terminal type.
+    TIMEFORMAT	The output format for timing statistics displayed by the
+    		`time' reserved word.
+    auto_resume	Non-null means a command word appearing on a line by
+    		itself is first looked for in the list of currently
+    		stopped jobs.  If found there, that job is foregrounded.
+    		A value of `exact' means that the command word must
+    		exactly match a command in the list of stopped jobs.  A
+    		value of `substring' means that the command word must
+    		match a substring of the job.  Any other value means that
+    		the command must be a prefix of a stopped job.
+    histchars	Characters controlling history expansion and quick
+    		substitution.  The first character is the history
+    		substitution character, usually `!'.  The second is
+    		the `quick substitution' character, usually `^'.  The
+    		third is the `history comment' character, usually `#'.
+    HISTIGNORE	A colon-separated list of patterns used to decide which
+    		commands should be saved on the history list.
+Adds a directory to the top of the directory stack, or rotates
+    the stack, making the new top of the stack the current working
+    directory.  With no arguments, exchanges the top two directories.
+    
+    +N	Rotates the stack so that the Nth directory (counting
+    	from the left of the list shown by `dirs', starting with
+    	zero) is at the top.
+    
+    -N	Rotates the stack so that the Nth directory (counting
+    	from the right of the list shown by `dirs', starting with
+    	zero) is at the top.
+    
+    -n	suppress the normal change of directory when adding directories
+    	to the stack, so only the stack is manipulated.
+    
+    dir	adds DIR to the directory stack at the top, making it the
+    	new current working directory.
+    
+    You can see the directory stack with the `dirs' command.
+Removes entries from the directory stack.  With no arguments,
+    removes the top directory from the stack, and cd's to the new
+    top directory.
+    
+    +N	removes the Nth entry counting from the left of the list
+    	shown by `dirs', starting with zero.  For example: `popd +0'
+    	removes the first directory, `popd +1' the second.
+    
+    -N	removes the Nth entry counting from the right of the list
+    	shown by `dirs', starting with zero.  For example: `popd -0'
+    	removes the last directory, `popd -1' the next to last.
+    
+    -n	suppress the normal change of directory when removing directories
+    	from the stack, so only the stack is manipulated.
+    
+    You can see the directory stack with the `dirs' command.
+Display the list of currently remembered directories.  Directories
+    find their way onto the list with the `pushd' command; you can get
+    back up through the list with the `popd' command.
+    
+    The -l flag specifies that `dirs' should not print shorthand versions
+    of directories which are relative to your home directory.  This means
+    that `~/bin' might be displayed as `/homes/bfox/bin'.  The -v flag
+    causes `dirs' to print the directory stack with one entry per line,
+    prepending the directory name with its position in the stack.  The -p
+    flag does the same thing, but the stack position is not prepended.
+    The -c flag clears the directory stack by deleting all of the elements.
+    
+    +N	displays the Nth entry counting from the left of the list shown by
+    	dirs when invoked without options, starting with zero.
+    
+alula
+    -N	displays the Nth entry counting from the right of the list shown by
+    	dirs when invoked without options, starting with zero.
+Toggle the values of variables controlling optional behavior.
+    The -s flag means to enable (set) each OPTNAME; the -u flag
+    unsets each OPTNAME.  The -q flag suppresses output; the exit
+    status indicates whether each OPTNAME is set or unset.  The -o
+    option restricts the OPTNAMEs to those defined for use with
+    `set -o'.  With no options, or with the -p option, a list of all
+    settable options is displayed, with an indication of whether or
+    not each is set.
+printf formats and prints ARGUMENTS under control of the FORMAT. FORMAT
+    is a character string which contains three types of objects: plain
+    characters, which are simply copied to standard output, character escape
+    sequences which are converted and copied to the standard output, and
+    format specifications, each of which causes printing of the next successive
+    argument.  In addition to the standard printf(1) formats, %b means to
+    expand backslash escape sequences in the corresponding argument, and %q
+    means to quote the argument in a way that can be reused as shell input.
+    If the -v option is supplied, the output is placed into the value of the
+    shell variable VAR rather than being sent to the standard output.
+For each NAME, specify how arguments are to be completed.
+    If the -p option is supplied, or if no options are supplied, existing
+    completion specifications are printed in a way that allows them to be
+    reused as input.  The -r option removes a completion specification for
+    each NAME, or, if no NAMEs are supplied, all completion specifications.
+Display the possible completions depending on the options.  Intended
+    to be used from within a shell function generating possible completions.
+    If the optional WORD argument is supplied, matches against WORD are
+    generated.
+alias 
+`%s': invalid alias name
+../../bash/builtins/../../bash/builtins/alias.def
+bind_builtin
+lvpVPsSf:q:u:m:r:x:
+`%s': invalid keymap name
+%s: cannot read: %s
+`%s': unknown function name
+%s is not bound to any keys.
+%s can be invoked via 
+"%s"%s
+`%s': cannot unbind
+only meaningful in a `for', `while', or `until' loop
+loop count
+NULL
+%s %s %s
+../../bash/builtins/../../bash/builtins/cd.def
+OLDPWD=
+chdir
+HOME not set
+OLDPWD not set
+CDPATH
+command_builtin
+../../bash/builtins/../../bash/builtins/command.def
+../../bash/builtins/common.c
+%s: usage: 
+%s: ambiguous job spec
+write error: %s
+%s: not a shell builtin
+%s: restricted
+%s: no job control
+%s: no such job
+%s: %s out of range
+SIGJUNK
+Unknown
+%2d) %s
+%s: invalid number
+%s: invalid option name
+%s: not found
+%s: numeric argument required
+%s: error retrieving current directory: %s: %s
+`%s': not a pid or valid job spec
+%s: invalid signal specification
++afiprtxF
+%s %d %s
+../../bash/builtins/../../bash/builtins/declare.def
+cannot use `-f' to make functions
+%s: cannot destroy array variables in this way
+can only be used in a function
+../../bash/builtins/../../bash/builtins/echo.def
+adnpsf:
+enable %s
+enable -n %s
+%s: not dynamically loaded
+%s: cannot delete: %s
+cannot open shared object %s: %s
+../../bash/builtins/../../bash/builtins/enable.def
+cannot find %s in shared object %s: %s
+%s: not a regular file
+%s: file is too large
+_evalfile
+../../bash/builtins/evalfile.c
+parse_and_execute_top
+pe_dispose
+parse_and_execute
+../../bash/builtins/evalstring.c
+../../bash/builtins/../../bash/builtins/exec.def
+cla:
+%s: cannot execute: %s
+~/.bash_logout
+/etc/bash.bash_logout
+There are stopped jobs.
+not login shell: use `exit'
+logout
+exit
+:e:lnrs
+no command found
+history specification
+bash-fc
+%s: cannot open temp file: %s
+%s %s
+fc builtin
+../../bash/builtins/../../bash/builtins/fc.def
+${FCEDIT:-${EDITOR:-$(command -v editor || echo ed)}}
+${FCEDIT:-${EDITOR:-$(command -v editor || echo vi)}}
+current
+job %d started without job control
+builtin hash -p %s %s
+%4d	%s
+hashing disabled
+dlp:rt
+hits	command
+%s: hash table empty
+../../bash/builtins/../../bash/builtins/hash.def
+%s: %s
+%s: cannot open: %s
+%*s%s
+These shell commands are defined internally.  Type `help' to see this list.
+Type `help name' to find out more about the function `name'.
+Use `info bash' to find out more about the shell in general.
+Use `man -k' or `info' to find out more about commands not in this list.
+A star (*) next to a name means that the command is disabled.
+Shell commands matching keywords `
+Shell commands matching keyword `
+no help topics match `%s'.  Try `help help' or `man -k %s' or `info %s'.
+acd:npsrw
+%s: history expansion failed
+history position
+%5d%c %s%s
+cannot use more than one of -anrw
+../../bash/builtins/../../bash/builtins/history.def
+lpnxrs
+jobs_builtin
+no other options allowed with `-x'
+../../bash/builtins/../../bash/builtins/jobs.def
+Unknown error
+(%ld) - %s
+%s: arguments must be process or job IDs
+dirstack
+directory stack empty
+directory stack index
+<no current directory>
+%2d  %s
+no other directory
+../../bash/builtins/../../bash/builtins/pushd.def
+%s: invalid timeout specification
+%s: invalid file descriptor specification
+%d: invalid file descriptor: %s
+../../bash/builtins/../../bash/builtins/read.def
+ersa:d:n:p:t:u:
+read_builtin
+read error: %d: %s
+can only `return' from a function or sourced script
+%s: cannot unset
+%s: cannot unset: readonly %s
+%s: not an array variable
+SHELLOPTS
+%-15s	%s
+set %co %s
+allexport
+braceexpand
+errexit
+errtrace
+functrace
+hashall
+histexpand
+interactive-comments
+keyword
+monitor
+noclobber
+noexec
+noglob
+nolog
+notify
+nounset
+onecmd
+physical
+pipefail
+privileged
+xtrace
+cannot simultaneously unset a function and a variable
+../../bash/builtins/../../bash/builtins/set.def
+../../bash/builtins/../../bash/builtins/setattr.def
+declare -%s 
+%s -%s 
+afnp
+%s: not a function
+shift count
+../../bash/builtins/../../bash/builtins/shift.def
+filename argument required
+%s: file not found
+../../bash/builtins/../../bash/builtins/source.def
+cannot suspend
+cannot suspend a login shell
+../../bash/builtins/../../bash/builtins/test.def
+unknown
+trap -- %s %d
+trap -- %s %s
+../../bash/builtins/../../bash/builtins/trap.def
+%s is aliased to `%s'
+alias %s=%s
+%s is a shell keyword
+%s is a function
+%s is a shell builtin
+%s is %s
+%s is hashed (%s)
+-type
+afptP
+-path
+-all
+../../bash/builtins/../../bash/builtins/type.def
+(%s, -%c) 
+(-%c) 
+%-20s %16s
+unlimited
+%s: cannot get limit: %s
+`%c': bad command
+hard
+soft
+%s: cannot modify limit: %s
+core file size
+blocks
+data seg size
+kbytes
+scheduling priority
+pending signals
+max locked memory
+max memory size
+open files
+pipe size
+512 bytes
+POSIX message queues
+real-time priority
+stack size
+cpu time
+seconds
+max user processes
+virtual memory
+file locks
+../../bash/builtins/../../bash/builtins/ulimit.def
+agou
+u=%s,g=%s,o=%s
+octal number
+umask%s 
+%04lo
+`%c': invalid symbolic mode operator
+`%c': invalid symbolic mode character
+OPTARG
+../../bash/builtins/../../bash/builtins/getopts.def
+%s: invalid shell option name
+shopt %s %s
+psuoq
+cdable_vars
+cdspell
+checkhash
+checkwinsize
+cmdhist
+dotglob
+execfail
+expand_aliases
+extdebug
+extglob
+extquote
+failglob
+force_fignore
+gnu_errfmt
+histappend
+histreedit
+histverify
+hostcomplete
+huponexit
+interactive_comments
+lithist
+login_shell
+mailwarn
+no_empty_cmd_completion
+nocaseglob
+nocasematch
+nullglob
+progcomp
+promptvars
+restricted_shell
+shift_verbose
+sourcepath
+xpg_echo
+../../bash/builtins/../../bash/builtins/shopt.def
+cannot set and unset shell options simultaneously
+missing hex digit for \x
+warning: %s: %s
+#'-+ 0
+hjlLtz
+../../bash/builtins/../../bash/builtins/printf.def
+`%s': missing format character
+%s: illegal option -- %c
+%s: option requires an argument -- %c
+%s: invalid action name
+complete 
+bashdefault
+-o %s 
+dirnames
+filenames
+nospace
+plusdirs
+arrayvar
+-A %s 
+enabled
+helptopic
+running
+setopt
+signal
+stopped
+%s %s 
+group
+service
+user
+abcdefgjko:prsuvA:G:W:P:S:X:F:C:
+warning: -F option may not work as you expect
+warning: -C option may not work as you expect
+../../bash/builtins/../../bash/builtins/complete.def
+%s: no completion specification
+../../../bash/lib/sh/getenv.c
+../../../bash/lib/sh/setlinebuf.c
+../../../bash/lib/sh/itos.c
+BASH_REMATCH
+../../../bash/lib/sh/shmatch.c
+/dev/fd/
+/dev/std
+%ldm%d.%03ds
+sh_makepath
+../../../bash/lib/sh/makepath.c
+../../../bash/lib/sh/pathcanon.c
+../../../bash/lib/sh/pathphys.c
+sh_realpath
+TMPDIR
+/var/tmp
+/usr/tmp
+shtmp
+%s/%s-%lu
+../../../bash/lib/sh/tmpfile.c
+../../../bash/lib/sh/stringlist.c
+../../../bash/lib/sh/stringvec.c
+../../../bash/lib/sh/shquote.c
+../../../bash/lib/sh/strtrans.c
+%s/cur
+%s/tmp
+%s/new
+%s/%s
+invalid base
+0123456789ABCDEF
+0123456789abcdef
+ l|h^0%bB
+ l|hwW^0bB
+ l|h^0bB
+ hl^$0ftFT;,%wbeWBE|
+_*\AaIiCcDdPpYyRrSsXx~
+abort
+accept-line
+arrow-key-prefix
+backward-byte
+backward-char
+backward-kill-line
+backward-kill-word
+beginning-of-history
+beginning-of-line
+call-last-kbd-macro
+capitalize-word
+character-search
+character-search-backward
+clear-screen
+copy-backward-word
+copy-forward-word
+copy-region-as-kill
+delete-char-or-list
+delete-horizontal-space
+digit-argument
+do-lowercase-version
+downcase-word
+dump-functions
+dump-macros
+dump-variables
+emacs-editing-mode
+end-kbd-macro
+end-of-history
+end-of-line
+exchange-point-and-mark
+forward-backward-delete-char
+forward-byte
+forward-char
+forward-search-history
+history-search-backward
+history-search-forward
+insert-comment
+insert-completions
+kill-whole-line
+kill-region
+menu-complete
+next-history
+overwrite-mode
+possible-completions
+previous-history
+quoted-insert
+re-read-init-file
+redraw-current-line
+reverse-search-history
+revert-line
+self-insert
+start-kbd-macro
+tab-insert
+transpose-chars
+transpose-words
+tty-status
+undo
+universal-argument
+unix-filename-rubout
+unix-line-discard
+unix-word-rubout
+upcase-word
+yank
+yank-last-arg
+yank-nth-arg
+yank-pop
+vi-append-eol
+vi-append-mode
+vi-arg-digit
+vi-back-to-indent
+vi-bWord
+vi-bword
+vi-change-case
+vi-change-char
+vi-change-to
+vi-char-search
+vi-column
+vi-complete
+vi-delete
+vi-delete-to
+vi-eWord
+vi-editing-mode
+vi-end-word
+vi-eof-maybe
+vi-eword
+vi-fWord
+vi-fetch-history
+vi-first-print
+vi-fword
+vi-goto-mark
+vi-insert-beg
+vi-insertion-mode
+vi-match
+vi-movement-mode
+vi-next-word
+vi-overstrike
+vi-overstrike-delete
+vi-prev-word
+vi-put
+vi-redo
+vi-replace
+vi-rubout
+vi-search
+vi-search-again
+vi-set-mark
+vi-subst
+vi-tilde-expand
+vi-yank-arg
+vi-yank-to
+non-incremental-forward-search-history
+non-incremental-reverse-search-history
+non-incremental-forward-search-history-again
+non-incremental-reverse-search-history-again
+--More--
+"\'`@$><=;|&{(
+Display all %d possibilities? (y or n)
+readline: bad value %d for what_to_do in rl_complete
+none
+readline: %s: line %d: %s
+readline: %s
+$endif without matching $if
+audible
+visible
+bell-style
+completion-query-items
+isearch-terminators
+keymap
+set %s %s
+%s is set to `%s'
+"%s%s": "%s"
+%s%s outputs %s
+\C-%c
+blink-matching-paren
+prefer-visible-bell
+term=
+mode=
+# %s (not bound)
+"%s": %s
+%s is not bound to any keys
+%s can be found on 
+C-\M-
+unknown parser directive
+no closing `"' in key binding
+prefix-meta
+INPUTRC
+~/.inputrc
+/etc/inputrc
+Control-
+CTRL-
+Meta
+other
+bind-tty-special-chars
+byte-oriented
+convert-meta
+disable-completion
+enable-keypad
+expand-tilde
+history-preserve-point
+horizontal-scroll-mode
+input-meta
+mark-directories
+mark-modified-lines
+mark-symlinked-directories
+match-hidden-files
+meta-flag
+output-meta
+page-completions
+show-all-if-ambiguous
+show-all-if-unmodified
+visible-stats
+emacs-standard
+emacs-meta
+emacs-ctlx
+vi-move
+vi-command
+vi-insert
+endif
+include
+Escape
+Newline
+Return
+Rubout
+Space
+$else found without matching $if
+print-completions-horizontally
+readline: debug: insert_some_chars: count (%d) != col (%d)
+/-_=~.#$
+readline: readline_callback_read_char() called with no handler!
+(arg: %d) 
+X%lu
+<>;&|$
+no previous substitution
+unknown expansion error
+event not found
+bad word specifier
+substitution failed
+unrecognized history modifier
+:$*%^
+;&()|<>
+../../../bash/lib/glob/glob.c
+ascii
+?*+@!
+alnum
+alpha
+blank
+cntrl
+graph
+lower
+punct
+upper
+xdigit
+alert
+backspace
+vertical-tab
+form-feed
+carriage-return
+exclamation-mark
+quotation-mark
+number-sign
+dollar-sign
+percent-sign
+ampersand
+apostrophe
+left-parenthesis
+right-parenthesis
+asterisk
+plus-sign
+comma
+hyphen
+hyphen-minus
+dash
+period
+full-stop
+zero
+three
+four
+five
+seven
+eight
+nine
+semicolon
+less-than-sign
+equals-sign
+greater-than-sign
+question-mark
+commercial-at
+left-square-bracket
+backslash
+reverse-solidus
+right-square-bracket
+circumflex
+circumflex-accent
+underscore
+grave-accent
+left-brace
+left-curly-bracket
+vertical-line
+right-brace
+right-curly-bracket
+../../../bash/lib/glob/smatch.c
+../../../bash/lib/glob/sm_loop.c
+p->minfo.mi_magic2 == 0x5555
+nunits < 30
+bcoalesce: CHAIN(mp2) != mp1
+malloc: %s:%d: assertion botched
+free: called with already freed block argument
+free: called with unallocated block argument
+free: underflow detected; mh_nbytes out of range
+free: start and end chunk sizes differ
+malloc: block on free list clobbered
+realloc: called with unallocated block argument
+realloc: underflow detected; mh_nbytes out of range
+realloc: start and end chunk sizes differ
+bash
+.shstrtab
+.interp
+.note.ABI-tag
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rel.dyn
+.rel.plt
+.init
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.ctors
+.dtors
+.jcr
+.dynamic
+.got
+.got.plt
+.data
+.bss
+.gnu_debuglink

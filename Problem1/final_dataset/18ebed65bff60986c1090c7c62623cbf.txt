@@ -1,0 +1,3163 @@
+/lib64/ld-linux-x86-64.so.2
+cEf<
+libcanberra-gtk3.so.0
+g_object_get_data
+__gmon_start__
+_Jv_RegisterClasses
+gtk_widget_get_type
+g_object_set_data_full
+_ITM_deregisterTMCloneTable
+_ITM_registerTMCloneTable
+g_get_application_name
+gtk_window_get_type
+gtk_widget_get_screen
+g_object_get
+gtk_widget_get_realized
+g_getenv
+g_quark_from_static_string
+g_type_check_instance_is_a
+g_signal_connect_data
+g_type_check_instance_cast
+gtk_settings_get_for_screen
+ca_context_change_props
+gtk_widget_get_display
+gdk_screen_get_default
+g_log
+gtk_widget_get_window
+ca_gtk_play_for_widget
+ca_gtk_play_for_event
+ca_gtk_context_get_for_screen
+libcanberra.so.0
+ca_context_play
+libgtk-3.so.0
+g_object_new
+g_list_reverse
+g_malloc_n
+g_object_ref
+g_settings_get_boolean
+g_intern_string
+gdk_rgba_equal
+g_option_context_parse
+g_option_context_add_group
+g_byte_array_free
+cairo_mask
+g_content_type_from_mime_type
+g_return_if_fail_warning
+g_get_home_dir
+g_mkdir_with_parents
+g_type_register_static_simple
+g_param_spec_boolean
+g_type_class_adjust_private_offset
+gdk_pixbuf_new_from_data
+gdk_cairo_get_clip_rectangle
+g_setenv
+g_value_get_int
+g_application_get_type
+g_error_free
+gdk_window_set_cursor
+g_type_add_interface_static
+g_cclosure_marshal_VOID__POINTER
+g_strndup
+g_slist_prepend
+g_ascii_toupper
+g_propagate_error
+g_param_spec_string
+g_value_get_double
+g_strdelimit
+g_timer_elapsed
+g_cclosure_marshal_VOID__STRING
+cairo_create
+g_str_equal
+g_timer_destroy
+g_value_dup_string
+gdk_window_get_state
+g_option_context_new
+g_settings_apply
+g_object_thaw_notify
+g_string_append_len
+g_cclosure_marshal_VOID__BOXED
+cairo_pattern_destroy
+g_type_name
+g_path_get_basename
+g_build_filename
+g_slist_length
+g_utf8_get_char
+gdk_cursor_new_for_display
+g_set_error_literal
+g_byte_array_append
+g_unichar_to_utf8
+g_file_read
+cairo_matrix_translate
+g_slist_reverse
+g_signal_newv
+g_list_free
+g_signal_handlers_disconnect_matched
+cairo_save
+g_hash_table_new_full
+g_filename_display_name
+g_file_query_info
+cairo_font_options_destroy
+g_error_copy
+g_signal_emit
+g_strdup
+cairo_format_stride_for_width
+cairo_region_create_rectangle
+g_value_get_object
+cairo_set_source
+g_hash_table_insert
+g_strchomp
+g_slist_delete_link
+g_file_open_tmp
+gdk_screen_get_font_options
+g_utf8_skip
+g_value_set_boxed
+g_unichar_toupper
+g_strdup_printf
+g_malloc
+g_signal_new
+g_ptr_array_sized_new
+g_hash_table_iter_init
+cairo_pattern_set_matrix
+g_file_set_contents
+g_settings_get_int
+g_dir_close
+g_strsplit
+gdk_keyval_from_name
+g_value_set_boolean
+g_boxed_type_register_static
+g_value_set_string
+g_value_get_boolean
+cairo_region_union_rectangle
+gdk_cursor_new_from_pixbuf
+g_string_insert_c
+g_type_instance_get_private
+g_strjoin
+g_str_has_prefix
+g_object_freeze_notify
+g_action_map_add_action_entries
+g_once_init_enter
+g_unichar_isspace
+g_slice_alloc0
+g_value_set_double
+g_strerror
+g_ascii_table
+g_signal_handler_disconnect
+g_action_map_get_type
+g_value_dup_object
+g_hash_table_lookup
+g_utf8_collate
+cairo_matrix_scale
+g_hash_table_iter_next
+g_ptr_array_set_size
+g_initable_new
+g_intern_static_string
+g_error_get_type
+g_file_get_contents
+g_strfreev
+cairo_set_matrix
+gdk_cairo_set_source_rgba
+g_strv_length
+g_string_sized_new
+g_option_context_free
+g_type_class_unref
+g_list_prepend
+g_str_hash
+g_static_resource_get_resource
+g_ascii_strdown
+g_markup_printf_escaped
+g_settings_delay
+g_value_set_object
+cairo_surface_destroy
+g_value_set_int
+g_hash_table_unref
+g_assertion_message_error
+g_object_set
+g_hash_table_replace
+gdk_pixbuf_new_from_file
+g_param_spec_boxed
+g_object_class_install_property
+g_file_new_for_uri
+g_dir_open
+cairo_matrix_init_identity
+cairo_image_surface_create_for_data
+g_menu_model_get_type
+g_type_class_add_private
+g_param_spec_uint
+g_timeout_add_seconds
+g_object_notify
+g_dpgettext
+gdk_rgba_get_type
+g_static_resource_init
+cairo_image_surface_create
+g_content_type_is_a
+g_slice_alloc
+g_dir_read_name
+g_clear_error
+g_strconcat
+cairo_destroy
+gdk_rectangle_union
+g_option_context_add_main_entries
+g_dpgettext2
+atk_object_ref_relation_set
+g_static_resource_fini
+g_timer_new
+g_string_free
+g_settings_set_int
+g_list_foreach
+g_object_set_data
+atk_relation_new
+g_timer_start
+cairo_region_destroy
+g_object_unref
+g_cclosure_marshal_VOID__VOID
+g_menu_append_section
+g_once_init_leave
+g_value_dup_boxed
+cairo_pattern_create_for_surface
+gdk_window_invalidate_rect
+g_value_peek_pointer
+gdk_cursor_new_from_name
+g_file_info_get_attribute_string
+cairo_surface_status
+cairo_matrix_init_translate
+g_ascii_strcasecmp
+g_strdup_vprintf
+g_slist_foreach
+g_type_class_ref
+g_param_spec_int
+g_hash_table_size
+cairo_restore
+g_strchug
+g_param_spec_double
+g_ptr_array_sort
+cairo_font_options_copy
+cairo_paint
+g_menu_new
+g_type_class_peek_parent
+g_file_new_for_path
+g_snprintf
+g_hash_table_destroy
+g_malloc0
+g_dgettext
+g_file_get_type
+g_slice_copy
+g_ptr_array_add
+g_str_has_suffix
+g_ascii_strtoull
+g_settings_set_boolean
+gdk_rgba_free
+gdk_threads_add_timeout_seconds
+g_option_context_set_translation_domain
+g_assertion_message_expr
+g_string_append
+g_hash_table_foreach
+atk_relation_set_add
+g_uri_escape_string
+g_slice_free1
+g_ascii_strtoll
+cairo_set_source_surface
+g_string_append_printf
+g_set_error
+g_list_sort
+g_param_spec_object
+g_value_get_boxed
+g_utf8_validate
+gdk_keyval_name
+g_ptr_array_free
+gdk_cairo_set_source_pixbuf
+g_signal_emit_by_name
+gdk_window_create_similar_surface
+g_source_remove
+g_slist_free
+g_strcmp0
+gtk_toggle_action_get_type
+gtk_get_option_group
+gtk_drawing_area_get_type
+gtk_table_new
+gtk_ui_manager_get_accel_group
+gtk_widget_get_direction
+gtk_toggle_action_new
+gtk_cell_renderer_text_new
+gtk_label_get_type
+gtk_statusbar_new
+gtk_statusbar_get_context_id
+gtk_dialog_set_default_response
+gtk_window_add_accel_group
+gtk_message_dialog_new
+gtk_misc_set_alignment
+gtk_window_present
+gtk_action_group_set_sensitive
+gtk_icon_theme_get_default
+gtk_accel_map_load
+gtk_tree_path_new_first
+gtk_widget_destroyed
+gtk_widget_queue_draw_region
+gtk_window_set_default_size
+gtk_action_set_sensitive
+gtk_container_add
+gtk_dialog_set_alternative_button_order
+gtk_icon_source_set_direction_wildcarded
+gtk_widget_set_margin_top
+gtk_tree_selection_get_selected
+gtk_widget_show_all
+gtk_widget_set_events
+gtk_dialog_response
+gtk_icon_factory_add
+gtk_message_dialog_get_type
+gtk_icon_factory_new
+gtk_box_pack_start
+gtk_ui_manager_new
+gtk_container_get_type
+gtk_tooltip_set_tip_area
+gtk_action_group_new
+gtk_label_set_use_markup
+gtk_widget_get_settings
+Borrow or rob
+gtk_application_add_accelerator
+gtk_icon_source_set_direction
+gtk_tree_model_get
+gtk_action_set_visible
+gtk_statusbar_pop
+gtk_label_new
+gtk_menu_item_get_type
+gtk_scrolled_window_new
+gtk_toggle_action_get_active
+gtk_widget_destroy
+gtk_radio_action_get_type
+gtk_action_group_add_actions
+gtk_vbox_new
+gtk_tree_view_append_column
+gtk_dialog_get_type
+gtk_action_group_add_toggle_actions
+gtk_tree_model_get_type
+gtk_dialog_get_content_area
+gtk_accelerator_get_default_mod_mask
+gtk_misc_get_type
+gtk_box_pack_end
+gtk_dialog_get_action_area
+gtk_statusbar_get_type
+gtk_widget_get_allocated_height
+gtk_tree_sortable_get_type
+gtk_widget_set_size_request
+gtk_css_provider_load_from_data
+gtk_alignment_get_type
+gtk_icon_source_free
+gtk_widget_has_focus
+gtk_ui_manager_insert_action_group
+gtk_ui_manager_ensure_update
+gtk_stock_add_static
+gtk_ui_manager_add_ui
+gtk_application_set_app_menu
+gtk_tree_sortable_set_sort_func
+gtk_table_attach_defaults
+gtk_action_get_name
+gtk_window_set_has_resize_grip
+gtk_get_current_event_time
+gtk_tree_view_new_with_model
+gtk_tree_view_set_headers_visible
+gtk_widget_grab_focus
+gtk_widget_queue_draw_area
+gtk_action_group_add_action
+gtk_widget_set_has_tooltip
+gtk_tree_view_get_selection
+gtk_alignment_new
+gtk_label_set_selectable
+gtk_table_set_col_spacings
+gtk_widget_get_events
+gtk_radio_action_new
+gtk_radio_action_get_group
+gtk_icon_theme_append_search_path
+gtk_ui_manager_new_merge_id
+gtk_css_provider_new
+gtk_statusbar_push
+gtk_tree_path_free
+gtk_list_store_insert_with_values
+gtk_tree_view_set_row_separator_func
+gtk_scrolled_window_set_shadow_type
+gtk_style_context_add_provider
+gtk_tree_sortable_set_sort_column_id
+gtk_widget_get_accessible
+gtk_tree_selection_select_path
+gtk_dialog_add_buttons
+gtk_icon_factory_add_default
+gtk_message_dialog_format_secondary_text
+gtk_label_set_markup
+gtk_tooltip_set_text
+gtk_widget_error_bell
+gtk_message_dialog_new_with_markup
+gtk_label_set_text
+gtk_application_window_get_type
+gtk_render_background
+gtk_statusbar_get_message_area
+gtk_icon_source_set_icon_name
+gtk_box_get_type
+gtk_tree_view_column_new_with_attributes
+gtk_radio_action_set_group
+gtk_action_get_type
+gtk_widget_queue_draw
+gtk_container_set_border_width
+gtk_table_set_row_spacings
+gtk_tree_view_get_type
+gtk_table_attach
+gtk_widget_set_can_focus
+gtk_alignment_set_padding
+gtk_drag_check_threshold
+gtk_icon_set_new
+gtk_activatable_get_type
+gtk_widget_style_get
+gtk_application_get_active_window
+gtk_window_set_default_icon_name
+gtk_activatable_get_related_action
+gtk_ui_manager_remove_action_group
+gtk_ui_manager_get_widget
+gtk_ui_manager_remove_ui
+gtk_table_get_type
+gtk_window_fullscreen
+gtk_widget_get_style_context
+gtk_widget_show
+gtk_scrolled_window_set_policy
+gtk_tree_view_scroll_to_cell
+gtk_window_set_title
+gtk_hbox_new
+gtk_widget_get_allocated_width
+gtk_application_get_type
+gtk_widget_set_margin_left
+gtk_list_store_new
+gtk_toggle_action_set_active
+gtk_icon_set_add_source
+gtk_action_group_set_translation_domain
+gtk_show_uri
+gtk_scrolled_window_get_type
+gtk_widget_set_margin_bottom
+gtk_widget_has_screen
+gtk_window_unfullscreen
+gtk_box_set_spacing
+gtk_window_maximize
+gtk_action_group_get_action
+gtk_show_about_dialog
+gtk_window_set_transient_for
+gtk_accel_map_save
+gtk_tree_selection_set_mode
+gtk_icon_source_new
+gtk_action_new
+gtk_style_provider_get_type
+gtk_style_context_add_class
+alula
+gtk_ui_manager_add_ui_from_resource
+God A red nugget A fat egg under a dog
+gtk_widget_class_install_style_property
+gtk_widget_set_margin_right
+gtk_icon_set_unref
+gtk_window_set_resizable
+gtk_window_set_modal
+libgdk-3.so.0
+g_printerr
+g_timeout_add_full
+g_idle_add_full
+libatk-1.0.so.0
+g_type_check_class_cast
+g_int_hash
+libgconf-2.so.4
+gconf_engine_get_default
+gconf_schema_set_owner
+gconf_schema_set_short_desc
+gconf_value_get_int
+gconf_client_get_entry
+gconf_client_set_float
+gconf_client_get_float
+gconf_client_set_schema
+gconf_entry_get_value
+gconf_client_set_int
+gconf_client_get_schema
+gconf_client_get_default
+gconf_schema_get_type
+gconf_schema_set_type
+gconf_schema_set_long_desc
+gconf_client_get_int
+gconf_client_get_bool
+gconf_client_set_bool
+gconf_entry_unref
+gconf_value_new
+gconf_client_get_list
+gconf_client_set_list
+gconf_engine_associate_schema
+gconf_schema_new
+gconf_schema_set_default_value_nocopy
+gconf_client_remove_dir
+gconf_client_add_dir
+gconf_client_notify_add
+gconf_schema_free
+gconf_client_set_string
+gconf_value_set_int
+gconf_client_get_string
+librsvg-2.so.2
+g_input_stream_get_type
+gdk_pixbuf_error_quark
+g_zlib_decompressor_new
+g_converter_input_stream_new
+g_converter_get_type
+cairo_set_antialias
+g_cancellable_get_type
+rsvg_handle_set_base_gfile
+rsvg_handle_render_cairo_sub
+rsvg_handle_get_type
+rsvg_handle_read_stream_sync
+rsvg_handle_get_dimensions
+libgio-2.0.so.0
+g_hash_table_iter_steal
+g_byte_array_set_size
+g_byte_array_sized_new
+g_spawn_async
+g_application_run
+g_settings_new_with_path
+g_menu_append
+g_initable_get_type
+libgdk_pixbuf-2.0.so.0
+gdk_pixbuf_new_from_inline
+libgobject-2.0.so.0
+libglib-2.0.so.0
+g_timer_continue
+g_rand_copy
+g_try_malloc0
+g_rand_free
+g_rand_int_range
+g_timer_stop
+g_rand_new
+g_set_application_name
+libcairo.so.2
+cairo_set_font_options
+cairo_font_options_equal
+cairo_font_options_get_antialias
+libguile-2.0.so.22
+scm_list_p
+scm_from_uint32
+scm_to_uint32
+scm_cons
+scm_list_ref
+scm_c_eval_string
+scm_variable_ref
+scm_display
+scm_dynwind_free
+scm_call_0
+scm_gc_unprotect_object
+scm_call_n
+scm_c_module_lookup
+scm_make_stack
+scm_c_catch
+scm_display_backtrace
+scm_the_root_module
+scm_to_int32
+scm_c_export
+scm_from_int32
+scm_length
+scm_append_x
+scm_from_utf8_string
+scm_primitive_load_path
+scm_c_define_module
+scm_equal_p
+scm_remember_upto_here
+scm_gc_protect_object
+scm_procedure_p
+scm_close_output_port
+scm_dynwind_end
+scm_open_output_string
+scm_from_locale_symbol
+scm_to_double
+scm_get_output_string
+scm_c_define_gsubr
+scm_dynwind_begin
+scm_boot_guile
+scm_list_set_x
+scm_to_utf8_string
+scm_variable_set_x
+scm_list_1
+scm_list_2
+scm_list_3
+Do nine men interpret Nine men I nod
+scm_throw
+libpthread.so.0
+__errno_location
+libc.so.6
+setlocale
+strncmp
+strrchr
+dcgettext
+__stack_chk_fail
+getpid
+bind_textdomain_codeset
+strlen
+memcmp
+memcpy
+strchr
+bindtextdomain
+strcmp
+__libc_start_main
+__data_start
+_edata
+__bss_start
+GLIBC_2.2.5
+GLIBC_2.4
+GLIBC_2.14
+GUILE_2.0
+%z~#
+%r~#
+%j~#
+%b~#
+%Z~#
+%R~#
+%J~#
+%B~#
+%:~#
+%2~#
+%*~#
+%"~#
+%z}#
+%r}#
+%j}#
+%b}#
+%Z}#
+%R}#
+%J}#
+%B}#
+%:}#
+%2}#
+%*}#
+%"}#
+%z|#
+%r|#
+%j|#
+%b|#
+%Z|#
+%R|#
+%J|#
+%B|#
+%:|#
+%2|#
+%*|#
+%"|#
+%z{#
+%r{#
+%j{#
+%b{#
+%Z{#
+%R{#
+%J{#
+%B{#
+%:{#
+%2{#
+%*{#
+%"{#
+%zz#
+%rz#
+%jz#
+%bz#
+%Zz#
+%Rz#
+%Jz#
+%Bz#
+%:z#
+%2z#
+%*z#
+%"z#
+%zy#
+%ry#
+%jy#
+%by#
+%Zy#
+%Ry#
+%Jy#
+%By#
+%:y#
+%2y#
+%*y#
+%"y#
+%zx#
+%rx#
+%jx#
+Beeb
+%bx#
+%Zx#
+%Rx#
+%Jx#
+%Bx#
+%:x#
+%2x#
+%*x#
+%"x#
+%zw#
+%rw#
+%jw#
+%bw#
+%Zw#
+%Rw#
+%Jw#
+AVAUATUSH
+=Bt#
+]A\A]A^
+[]A\A]A^1
+AUATI
+[]A\A]
+S0H+B
+S0[H+B
+D$(1
+D$(dH3
+D$ 1
+L$ 1
+AUATA
+D$(1
+D$(dH3
+8[]A\A]
+D$81
+D$8dH3
+AUATI
+[]A\A]
+[]A\A]
+AWAVAUATI
+D$h1
+D$ H
+D$ L
+T$@1
+|$8f
+L;l$@s
+|$8H
+|$(H
+\$0H
+d$ E1
+t$ L
+t$ L
+T$(H
+L$hdH3
+x[]A\A]A^A_
+AVAUI
+ATUI
+[]A\A]A^
+[]E1
+ATUH
+[]A\
+[]E1
+AWAV
+AUAT
+|$@H
+\$HH
+D$@L
+D$@L
+L9|$
+[]A\A]A^A_
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+([]A\A]
+ATUSL
+[]A\
+[]A\
+AWAVI
+AUATI
+D$PH
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUI
+ATUH
+[]A\A]A^
+A9D$@t
+A;D$Dt
+A9D$@
+A9D$D
+ATUS
+[]A\E1
+[]A\
+AUATA
+[]A\A]
+[]A\A]
+ATUI
+D$81
+D$ Ph
+D$HPh
+D$PPh
+D$XPheEB
+D$XP1
+T$dL
+D$dH
+9CHt
+9CLt
+D$ f
+D$(f
+D$0f
+.C8zwuuH
+D$8dH3
+@[]A\
+AUATUSH
+[]A\A]
+AVAUM
+ATUI
+Y<A9
+]A\A]A^
+]A\A]A^
+t9A)
+ATUL
+D$(1
+\$(dH3
+0[]A\
+=8=#
+ATUSH
+E0 ;A
+[]A\
+ATUI
+[]A\
+5(;#
+[]A\H
+(tGL
+AWAVAUATA
+o(dH
+D$(1
+L$ A
+t$ H
+L$ A
+t$ H
+|$(dH3<%(
+8[]A\A]A^A_
+AVAUA
+ATUH
+_(dH
+ []A\A]A^
+AUATUSH
+([]A\A]
+t3HcT$
+ATUSH
+[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_1
+AUATI
+o(dH
+D$H1
+D$HdH3
+X[]A\A]
+T$(H
+)s8L
+l$0H
+T$(H
+t$ H
+E@+C8
+ATUH
+[]A\
+AWAVAUATUSH
+v,f.
+[]A\A]A^A_
+AUATI
+_(dH
+([]A\A]
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+ATUI
+tVH;
+t6[]A\
+AWAVAUATI
+o(dH
+[]A\A]A^A_
+ATUI
+[]A\H
+AWAVI
+AUATI
+[]A\A]A^A_
+([]A\A]A^A_
+AWAVAUATSH
+[A\A]A^A_]
+ATUI
+D$(H
+]A\E1
+AWAVAUATI
+[A\A]A^A_]
+D+`0E
+h4D9
++Z0A
+AWAVAUATI
+D$(1
+L$(dH3
+8[]A\A]A^A_
+L$ H
+|$ H
+D$0E)
+t	D+E0E
+D$@E
+t$4D)
+t$<D)
+AVAUATUI
+,T$ 
+ []A\A]A^
+,T$ 
+,T$ 
+AVAUATUH
+ []A\A]A^
+,C A
+H9D$
+HcD$
+<$t%
+HcD$
+HcD$
+AVAUATUI
+[]A\A]A^
+]A\A]A^
+AUATI
+[]A\A]
+ATUH
+C([]A\
+AUATI
+h(txA
+[]A\A]E1
+[]A\A]
+[]A\A]E1
+ATUH
+@(t#
+[]A\
+0]A\
+=,	#
+ATUI
+@(]A\
+[]A\
+ATUH
+[]A\
+ATUI
+[]A\
+AVAUA
+ATUS
+[]A\A]A^
+ATUI
+[]A\
+[]A\
+AUATI
+[]A\A]
+ATUSH
+D$(1
+D$ D
+C0p^A
+C p]A
+T$ E1
+D$(dH3
+0[]A\
+hwMB
+hdMB
+hQMB
+hOMB
+hBMB
+h5MB
+h)MB
+t?w%H
+D$01
+t$ H
+T$(H
+\$(dH3
+ATUH
+[]A\
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+AUATUSH
+[]A\A]
+AUATI
+[]A\A]
+AUATI
+[]A\A]
+AVAUI
+[]A\A]A^
+h[]A\A]A^
+AVAUI
+ATUA
+Degas are we not drawn onward no In union drawn onward to new eras aged
+[]A\A]A^
+]A\A]A^1
+ATUI
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+([]A\A]
+ATUSt"A
+[]A\
+AWAVAUATUSH
+T$ I
+L;d$
+[]A\A]A^A_
+AWAVAUATI
+[A\A]A^A_]
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUI
+ATUH
+[]A\A]A^
+C E1
+ATUA
+D$(1
+T$(dH3
+0[]A\
+ATUSH
+D$81
+L$8dH3
+@[]A\
+D$ D
+T$0H
+t$(1
+AUATE
+D$(1
+T$ H
+\$(dH3
+8[]A\A]
+dH34%(
+AWAV1
+AUAT1
+~qE1
+([]A\A]A^A_
+AWAVI
+AUATUSH
+([]A\A]A^A_
+,$t9
+D$81
+L$8dH3
+l$ dH
+|$01
+l$HH
+D$8vH
+D$xH
+t$,H
+t$,H
+|$ H
+t$,H
+t$,H
+AWAVI
+AUATH
+[]A\A]A^A_
+AWAVI
+AUATH
+[]A\A]A^A_
+AWAVAUATI
+D$@H
+[]A\A]A^A_
+[]A\
+AVAUATUI
+[]A\A]A^
+_@dH
+AWAV1
+AUATI
+[]A\A]A^A_
+AUATA
+j@dH
+[]A\A]
+L$@H
+T$PH
+D$0rzB
+t$ 1
+ZYtDH
+ATUI
+[]A\
+[]A\
+AUATI
+[]A\A]
+AVAUATUSH
+n@dH
+[]A\A]A^
+ATUSL
+AUATUSH
+[]A\A]
+[]A\A]
+ATUI
+} H9
+[]A\
+[]A\
+[]A\
+AWAVAUATUSH
+T$X1
+|$PI
+|$ A
+D$ H
+l$(H
+t$ H
+|$Pj
+D$@L
+|$0I
+|$01
+D$XdH3
+h[]A\A]A^A_
+\$(1
+AVAUATUH
+[]A\A]A^
+|$ E1
+[]A\A]A^
+]A\A]A^
+AUATI
+ATE1
+[]A\A]E1
+[]A\A]
+Z@dH
+Z@dH
+Z@dH
+AUATI
+l$@H
+[]A\A]
+[]A\A]
+[]A\A]
+AVAUATUSH
+[]A\A]A^
+AWAVI
+AUATUSH
+D$x1
+|$0H
+L;t$Hs=H
+L;t$HH
+}PE1
+^_L;|$H
+|$Pj
+|$$H
+D$xdH3
+[]A\A]A^A_
+D$HH
+T$HI
+AVAUI
+ATUI
+[]A\A]A^
+]A\A]A^
+[]A\A]A^H
+[]A\A]A^
+]A\A]A^
+AUATUSH
+[]A\A]
+AWAVI
+AUAT1
+D$`H
+D$ H
+D$@(dB
+D$PXdB
+h+[B
+h8[B
+hF[B
+hN[B
+T$hRh][B
+Rhi[B
+Rhq[B
+Sh0[B
+hy[B
+[]A\A]A^A_
+AWAV
+AUAT
+d$0dH
+L$(M
+[]A\A]A^A_
+ATUI
+[]A\
+AUATUSH
+[]A\A]
+|$HH
+[]A\A]
+|$HH
+ATUH
+@0Y[]A\
+AUATI
+=o~"
+[]A\A]
+AVAUI
+ATUI
+[]A\A]A^
+ATUH
+[]A\H
+I;,$
+[]A\H
+[]A\
+AVAUI
+ATUH
+ []A\A]A^
+]A\A]A^
+AUATI
+([]A\A]
+[]A\A]
+AVAUATUSH
+7v;H
+[]A\A]A^
+=qp"
+=%p"
+ATUI
+[]A\
+AVAUI
+ATUH
+ []A\A]A^
+E []A\A]A^
+AVAUI
+ATUI
+[]A\A]A^
+[]A\A]A^
+ATUA
+[]A\
+[]A\
+7v#H
+AVAUATUSH
+D$ H
+dH3<%(
+[]A\A]A^
+AWAVI
+AUATI
+D$PH
+D$XH
+[]A\A]A^A_
+ATUSt'H
+u5[]A\H
+t&H9
+=)g"
+56O"
+=7O"
+AVAUI
+]A\A]A^
+=\b"
+AVAUATUSH
+[]A\A]A^1
+ []A\A]A^
+[]A\A]A^1
+AWAVAUATI
+D$H1
+D$ svg
+pysol
+D$8L
+|$ H
+L$HdH3
+X[]A\A]A^A_
+D$ svg
+D$(H
+pysol
+5sZ"
+ATUA
+[]A\
+ATUI
+[]A\
+[]A\
+[]A\
+N t7
+=uV"
+AUATI
+[]A\A]
+[]A\A]
+ATUI
+P0[H
+AVAUATUSt&L
+]A\A]A^
+=]S"
+ATUSH
+[]A\
+AVAUATI
+]A\A]A^
+AVAUATI
+]A\A]A^
+ATUSH
+[]A\
+ATUS
+[]A\
+AUATI
+[]A\A]
+AVAUATI
+]A\A]A^
+ATUSH
+[]A\
+ATUS
+[]A\
+ATUH
+[]A\
+[]A\
+ATUS
+AWAVAUATUSH
+L;(t"L
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATI
+L; t"L
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUATUS
+[]A\A]A^
+]A\A]A^
+-WD"
+=(D"
+ATUSH
+t([]A\
+[]A\
+=hB"
+St%H
+AUATI
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+[]A\A]
+AVAUA
+Z[]A\A]A^
+A Santa lives evil at NASA
+AX[]A\A]A^
+^[]A\A]A^
+AVAUATUSH
+dH34%(
+[]A\A]A^
+AWAVAUATI
+o@dH
+D$H1
+*T$h
+*\$l
+D$lf
+D$HdH3
+X[]A\A]A^A_
+[]A\
+[]A\H
+ATUI
+=g9"
+[]A\
+D$81
+L$8dH3
+HcS<H
+ATUH
+H9,$
+[]A\
+[]A\H
+AWAVI
+AUATH
+D$81
+T$0H
+t$(1
+uJE1
+L$8dH3
+H[]A\A]A^A_
+|$(H
+PAWH
+AVAUI
+ATUH
+;C8}x
+[]A\A]A^
+ []A\A]A^
+AUATI
+@8t~
+[]A\A]
+([]A\A]
+AVAUI
+ATUI
+ u:H
+]A\A]A^
+AVAUI
+ATUI
+ u:H
+]A\A]A^
+AUATM
+ u3H
+]A\A]
+5/*"
+=y)"
+AWAVAUATI
+D$(1
+L$(dH3
+8[]A\A]A^A_
+=c&"
+AVAUI
+ATUH
+[]A\A]A^
+ []A\A]A^
+AUATI
+D$X1
+d$ L
+D$XdH3
+h[]A\A]
+ATUI
+[]A\
+ZY[]A\
+ATUSt7H
+[]A\
+ATUSt7H
+[]A\
+ATUI
+[]A\
+ATUSH
+9Ehu
+9Ult@
+[]A\
+[]A\
+AWAVA
+AUATL
+[]A\A]A^A_
+ArApplication
+gnome-freecell
+gnome-aisleriot
+app.new-game
+Change Game
+app.change-game
+Statistics
+app.statistics
+app.fullscreen
+app.help
+About
+app.about
+Quit
+app.quit
+flags
+org.gnome.Aisleriot
+application-id
+ArClock
+00:00:00
+GAMES_IS_CLOCK (clock_widget)
+%.2d:%.2d:%.2d
+Clock not started, cannot add seconds!
+ar_clock_set_update
+ar_clock_add_seconds
+ar_clock_get_seconds
+ar_clock_reset
+ar_clock_stop
+ar_clock_is_started
+ar_clock_start
+openhand
+hand1
+closedhand
+grabbing
+ar-cursor.c
+ar_cursor_new
+GdkP
+GdkP
+game_module != NULL
+ar-game-chooser.c
+ArGameChooser
+property
+Select Game
+response
+_Select
+gtk-cancel
+row-activated
+text
+priv->window != NULL
+destroy-with-parent
+transient-for
+%s:%d: invalid %s id %u for "%s" of type '%s' in '%s'
+response_cb
+ar_game_chooser_constructor
+?games-tooltip
+deselect
+action != NULL
+disconnect-proxy
+aisleriot-move-redo
+edit-redo
+edit-undo
+aisleriot-move-undo
+cards-deal
+aisleriot-game-deal
+aisleriot-help-contents
+aisleriot-game-hint
+dialog-information
+aisleriot-game-new
+document-new
+aisleriot-game-reset
+edit-clear
+aisleriot-game-restart
+view-refresh
+aisleriot-fullscreen
+view-fullscreen
+aisleriot-leave-fullscreen
+view-restore
+aisleriot-game-pause
+media-playback-pause
+_Contents
+_Fullscreen
+_Hint
+_New
+_New Game
+_Redo Move
+_Reset
+_Restart
+_Undo Move
+_Deal
+_Leave Fullscreen
+_Pause
+%s is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version %d of the License, or (at your option) any later version.
+%s is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.
+menu_item_select_cb
+card-slot-prop
+card-overhang
+card-step
+card-theme
+click-to-move
+enable-sound
+focus-line-width
+focus-padding
+interior-focus
+selection-color
+show-tooltips
+show-status-messages
+ArStyle
+ar-style.c
+ffffff
+gtk-dnd-drag-threshold
+gtk-enable-event-sounds
+notify::gtk-double-click-time
+notify::gtk-enable-animations
+notify::gtk-touchscreen-mode
+style != NULL
+ar-style-gtk.c
+card-slot-ratio
+AR_IS_STYLE (style)
+GTK_IS_WIDGET (widget)
+ERROR: %s
+Ar::Style
+style-updated
+screen-changed
+direction-changed
+notify::gtk-enable-event-sounds
+g_object_get_data (G_OBJECT (widget), "Ar::Style") == NULL
+g_object_get_data (G_OBJECT (widget), "Ar::Style") == style
+_ar_style_gtk_detach
+AisleriotBoard{
+background-color: rgb(0%,31%,6%);
+-AisleriotBoard-selection-color: rgba(0%,0%,66%,0.5);
+background-image: url('resource:///org/gnome/aisleriot/art/baize.png');
+background-repeat: repeat;
+screen_changed_cb
+_ar_style_gtk_attach
+slot != NULL && card_id >= -1
+status-message
+n_cards >= slot->exposed
+board-noclutter.c
+slot != NULL || card_id == -1
+style == priv->style
+click
+slot-changed
+AisleriotBoard
+query-tooltip
+slide
+game-type
+game-cleared
+notify
+selection_slot->cards->len > selection_start_card_id
+card_id < 0 || card_id < slot->cards->len
+gtk_widget_get_realized (widget)
+priv->width > 0 && priv->height > 0
+selection_slot->cards->len >= selection_start_card_id
+aisleriot_board_sync_style
+aisleriot_board_setup_geometry
+aisleriot_board_move_selected_cards_to_slot
+set_cursor_by_location
+set_selection
+slot_update_card_images_full
+get_rect_by_slot_and_card
+.scm
+/schemas
+A per-game option
+An integer encoding a list of boolean values (LSB = first item) for use as options in a solitaire game.
+/apps/aisleriot/rules/
+/apps/aisleriot/statistics
+'4BHW
+card_style
+game_file
+recent_games_list
+show_toolbar
+click_to_move
+sound
+show_statusbar
+animations
+exception
+game-file
+aisleriot interface
+guile
+%load-path
+%load-compiled-path
+set-feature-word!
+get-feature-word
+set-statusbar-message
+reset-surface
+add-slot
+get-slot
+set-cards-c!
+set-slot-y-expansion!
+set-slot-x-expansion!
+set-lambda
+set-lambda!
+aisleriot-random
+click-to-move?
+update-score
+get-timeout
+set-timeout!
+delayed-call
+undo-set-sensitive
+redo-set-sensitive
+dealable-set-sensitive
+(set-timeout) unimplemented
+(get-timeout) unimplemented
+Not a procedure
+aisleriot-invalid-lambda
+aisleriot-invalid-call
+game != NULL
+slot->expanded_right
+!slot->dy_set
+slot->expanded_down
+!slot->dx_set
+start-game
+game->rand != NULL
+game.c
+AisleriotGame
+app_game == NULL
+slot != NULL
+slot type
+chooser
+slot type
+foundation
+slot type
+reserve
+slot type
+stock
+slot type
+tableau
+slot type
+waste
+slot hint
+%s on chooser
+slot hint
+%s on foundation
+slot hint
+%s on reserve
+slot hint
+%s on stock
+slot hint
+%s on tableau
+slot hint
+%s on waste
+AisleRiotGameError
+Variation: %s
+Scheme error:
+Scheme tag:
+Backtrace:
+	No backtrace available.
+Deck State:
+	Slot %d
+(%d %d %s)
+		(Empty)
+	No cards in deck
+partially-expanded
+partially-expanded-right
+game->state == GAME_RUNNING
+Invalid UTF-8
+Move %s onto %s.
+option != NULL
+record-move
+end-move
+discard-move
+(/ 1 0)
+do-deal-next-cards
+AISLERIOT_IS_GAME (game)
+game->state > GAME_UNINITIALISED
+Already have a delayed callback pending.
+Unknown lambda name in set-lambda!
+A scheme exception occurred, but there was no exception info
+Cannot add a new slot after the game has started.
+game_module != NULL && game_module[0] != '\0'
+This game does not have hint support yet.
+This game uses a deprecated hint method (case 3).
+Please file a bug at http://bugzilla.gnome.org including this message and the name of the game you were playing, which is %s.
+This game uses a deprecated hint method (case 4).
+Please file a bug at http://bugzilla.gnome.org including this message and the name of the game you were playing, which is %s.
+This game is unable to provide a hint.
+aisleriot_game_get_score
+aisleriot_game_option_free
+game_scm_new_game
+aisleriot_game_new_game_internal
+aisleriot_game_load_game
+aisleriot_game_set_paused
+ar_slot_get_hint_string
+ar_slot_get_type_string
+ar_slot_get_slot_type
+aisleriot_game_constructor
+scm_set_feature_word
+scm_get_feature_word
+scm_set_slot_y_expansion
+scm_set_slot_x_expansion
+new-game
+button-pressed
+button-released
+button-clicked
+button-double-clicked
+game-over
+winning-game
+hint
+get-options
+apply-options
+timeout
+droppable
+dealable
+variation
+Select the game type to play
+NAME
+seed
+FreeCell Solitaire
+AisleRiot
+klondike
+detailed
+GUILE_WARN_DEPRECATED
+GUILE_AUTO_COMPILE
+G_ENABLE_DIAGNOSTIC
+data.variation != NULL || data.freecell
+main_prog
+<b>%s</b>
+AisleriotStatsDialog
+Wins:
+Total:
+Percentage:
+Wins
+Best:
+Worst:
+Time
+gtk-close
+title
+%d%%
+%d:%02d
+Y@Could not show help for 
+visible
+/Toolbar/LeaveFullscreenSep
+draw
+error != NULL
+A scheme exception occurred
+_Report
+_Don't report
+error
+arcrashXXXXXX
+bug-buddy
+--package
+--appname
+--pid
+--include
+--unlink-tempfile
+window.c
+destroy
+Theme%d
+theme-info
+toggled
+new_theme_info != NULL
+victory
+There are no more moves
+splat
+Recent
+Recent%lu
+Play 
+activate
+/MainMenu/GameMenu/RecentMenu
+Options
+Option%u
+/MainMenu/OptionsMenu
+Main game:
+Card games:
+Vincent Povirk
+Sapphire Becker
+Card themes:
+Aike Reyer
+Aisleriot web site
+translator-credits
+About Aisleriot
+3.18.2
+version
+program-name
+wrap-license
+website-label
+website
+logo-icon-name
+documenters
+artists
+authors
+copyright
+comments
+AisleriotWindow
+GameMenu
+_Game
+ViewMenu
+_View
+ControlMenu
+_Control
+HelpMenu
+_Help
+NewGame
+<ctrl>N
+Start a new game
+RestartGame
+Restart the game
+gtk-index
+_Select Game
+<ctrl>O
+Play a different game
+_Recently Played
+S_tatistics
+Show gameplay statistics
+CloseWindow
+Close this window
+UndoMove
+Undo the last move
+RedoMove
+Redo the undone move
+Deal next card or cards
+Get a hint for your next move
+View help for Aisleriot
+HelpGame
+<shift>F1
+View help for this game
+gtk-about
+About this game
+InstallThemes
+Install card themes
+LeaveFullscreen
+ThemeMenu
+_Card Style
+MenuActions
+short-label
+game-message
+board-message
+Score:
+   0
+Time:
+/MainMenu
+/Toolbar
+primary-toolbar
+ClickToMove
+hide-if-empty
+notify::score
+notify::state
+notify::can-undo
+notify::can-redo
+notify::can-deal
+priv->action[i]
+_Toolbar
+Show or hide the toolbar
+_Statusbar
+Show or hide statusbar
+_Click to Move
+_Sound
+priv->hint_dialog == NULL
+priv->stats_dialog == NULL
+show-menubar
+application
+Please report this bug to the developers.
+Failed to launch bug buddy: %s
+Failed to create temp file: %s
+Aisleriot 3.18.2 scheme exception occurred
+-- 8< --
+-- >8 --
+Display cards with 
+ card theme
+/MainMenu/ViewMenu/ThemeMenu/ThemesPH
+Congratulations, you have won!
+Cannot start the game 
+This usually occurs when you run an older version of Aisleriot which does not have the game you last played. The default game, Klondike, is being started instead.
+Aisleriot cannot find the last game you played.
+Scheme exception:
+-- 8< --
+-- >8 --
+Jonathan Blandford <jrb@redhat.com>
+Felix Bellaby <felix@pooh.u-net.com>
+Rosanna Yuen <zana@webwynk.net>
+Callum McKenzie <callum@physics.otago.ac.nz>
+Christian Persch <chpe@gnome.org>
+Andreas R
+sdal <andreasr@gnome.org>
+W. Borgert <debacle@debian.org>
+Robert Brady <rwb197@ecs.soton.ac.uk>
+Nick Lamb <njl195@zepler.org.uk>
+Changwoo Ryu <cwryu@adam.kaist.ac.kr>
+Matthew Wilcox <matthew@wil.cx>
+Alan Horkan <horkana@maths.tcd.ie>
+Richard Hoelscher <rah@rahga.com>
+David Bellot http://david.bellot.free.fr/svg-cards
+Nicu Buculei http://www.nicubunu.ro/cards
+Frederik Elwert <frederik.elwert@web.de>
+Richard Hoelscher http://www.rahga.com/svg
+Mario Frasca <mariotomo@gmail.com>
+Aisleriot provides a rule-based solitaire card engine that allows many different games to be played.
+http://wiki.gnome.org/Apps/Aisleriot
+Copyright 
+ 1998-2006 Jonathan Blandford
+Copyright 
+ 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015 Christian Persch
+Install new card themes from the distribution packages repositories
+/org/gnome/aisleriot/ui/menus.xml
+/org/gnome/solitaire/window-state/
+Pick up and drop cards by clicking
+Whether or not to play event sounds
+priv->game_over_dialog == NULL
+priv->game_choice_dialog == NULL
+aisleriot_window_dispose
+card_theme_changed_cb
+recent_game_cb
+game_exception_response_cb
+game_exception_cb
+UndoMove
+RedoMove
+RestartGame
+Fullscreen
+HelpGame
+OptionsMenu
+Deal
+Hint
+LeaveFullscreen
+aisleriot_window_init
+#%s_%s
+%s-%s
+card symbol
+face-down card
+black joker
+red joker
+JOKER
+ace of clubs
+two of clubs
+three of clubs
+four of clubs
+five of clubs
+six of clubs
+seven of clubs
+eight of clubs
+nine of clubs
+ten of clubs
+jack of clubs
+queen of clubs
+king of clubs
+ace of diamonds
+two of diamonds
+three of diamonds
+four of diamonds
+five of diamonds
+six of diamonds
+seven of diamonds
+eight of diamonds
+nine of diamonds
+ten of diamonds
+jack of diamonds
+queen of diamonds
+king of diamonds
+ace of hearts
+two of hearts
+three of hearts
+four of hearts
+five of hearts
+six of hearts
+seven of hearts
+eight of hearts
+nine of hearts
+ten of hearts
+jack of hearts
+queen of hearts
+king of hearts
+ace of spades
+two of spades
+three of spades
+four of spades
+five of spades
+six of spades
+seven of spades
+eight of spades
+nine of spades
+ten of spades
+jack of spades
+queen of spades
+king of spades
+rank >= AR_CARD_JOKER && rank <= AR_CARD_ACE_HIGH
+ar_card_get_localised_rank_symbol
+jack
+queen
+king
+club
+diamond
+heart
+spade
+joker_black
+joker_red
+back
+slot
+ArCardSurfaceCache
+ar-card-surface-cache.c
+card_id < AR_CARDS_TOTAL
+AR_IS_CARD_SURFACE_CACHE (cache)
+theme == NULL || AR_IS_CARD_THEME (theme)
+ar_card_surface_cache_get_card_surface_by_id
+ar_card_surface_cache_get_theme
+ar_card_surface_cache_set_theme
+ar_card_surface_cache_drop
+ArCardTheme
+theme->theme_info != NULL
+ar-card-theme.c
+AR_IS_CARD_THEME (theme)
+a != NULL && b != NULL
+ArCardThemeInfo
+info->pref_name
+(card_id >= 0) && (card_id < AR_CARDS_TOTAL)
+AR_CARD_THEME_GET_CLASS (theme)->get_card_pixbuf != ar_card_theme_class_real_get_card_pixbuf
+(cardid >= 0) && (cardid < AR_CARDS_TOTAL)
+AR_CARD_THEME_GET_CLASS (card_theme)->paint_card != ar_card_theme_class_real_paint_card
+ar_card_theme_info_equal
+ar_card_theme_info_get_persistent_name
+ar_card_theme_info_get_display_name
+ar_card_theme_info_unref
+ar_card_theme_info_ref
+_ar_card_theme_info_collate
+ar_card_theme_paint_card
+ar_card_theme_get_card_pixbuf
+ar_card_theme_get_aspect
+ar_card_theme_set_size
+ar_card_theme_get_theme_info
+ar_card_theme_set_font_options
+ar_card_theme_constructor
+ar_card_theme_class_real_paint_card
+ar_card_theme_class_real_get_card_pixbuf
+ArCardThemes
+gnomangelo_bitmap.svgz
+.svg
+.png
+AR_IS_CARD_THEMES (theme_manager)
+ar_card_themes_get_themes
+ar_card_themes_get_themes_loaded
+ar_card_themes_get_theme_any
+ar_card_themes_get_theme_by_name
+ar_card_themes_get_theme
+ar_card_themes_request_themes
+value-changed
+game-name
+GNOME22_USER_DIR
+accels
+.gnome2
+%s/%s/%s
+ArConf
+ar-conf.c
+instance == NULL
+priv->game_name
+/apps/%s
+instance != NULL
+GTK_IS_WINDOW (window)
+ArConf::WindowState
+configure-event
+window-state-event
+Failed to create config directory "%s": %s
+Unknown value type for key %s
+!gtk_widget_get_realized (GTK_WIDGET (window))
+ar_conf_add_window
+ar_conf_get_default
+ar_conf_shutdown
+ar_conf_constructor
+maximized
+fullscreen
+width
+height
+height
+maximized
+GamesSettings::WindowState
+org.gnome.Patience.WindowState
+ar_gsettings_bind_window_state
+help:%s/%s
+help:%s
+doc_module != NULL
+ar_help_display_full
+/usr
+/usr/lib/x86_64-linux-gnu
+/usr/share
+/usr/share/aisleriot
+app_name != NULL
+locale
+pixmaps
+card-themes
+icons
+games
+/usr/lib/x86_64-linux-gnu/aisleriot
+directory < AR_RUNTIME_LAST_DIRECTORY
+ar_runtime_get_file
+ar_runtime_get_directory
+games-sound-initialised
+media.role
+%s.ogg
+media.filename
+media.name
+ar-sound.c
+ar_sound_canberra_play
+filename != NULL
+base_name != NULL
+display_name != NULL
+ar_filename_to_display_name
+AR_CARD_THEME_PATH_SVG
+/usr/share/aisleriot/cards
+info->pref_name == NULL
+ar-card-theme-svg.c
+ArCardThemeSVG
+ar_card_theme_svg_class_get_theme_info
+@back-index
+n-backs
+bottom01.gif
+%02d%c%s
+AR_CARD_THEME_PATH_PYSOL
+/usr/share/games/pysol
+cardset-
+config.txt
+PySol solitaire cardset
+PySolFC solitaire cardset
+%s (PySol)
+pysol:%s
+ar-card-theme-pysol.c
+ArCardThemePysol
+cdhs
+return_value != NULL
+n_param_values == 3
+n_param_values == 4
+ar_marshal_VOID__STRING_STRING
+ar_marshal_BOOLEAN__STRING_UINT_ENUM
+ar_marshal_BOOLEAN__ENUM_INT
+ArSvg
+standard::fast-content-type
+application/x-gzip
+Image has zero extent
+ar-svg.c
+AR_IS_SVG (svg)
+width > 0 && height > 0
+G_IS_FILE (file)
+uri != NULL
+cancellable == NULL || G_IS_CANCELLABLE (cancellable)
+error == NULL || *error == NULL
+ar_svg_get_height
+ar_svg_get_width
+ar_svg_set_font_options
+ar_svg_get_font_options
+ar_svg_new_from_filename_sync
+ar_svg_new_from_gfile_sync
+ar_svg_new_from_uri_sync
+ar_svg_render_cairo_sub
+ar_svg_render_cairo
+resource:///org/gnome/aisleriot/art/slot.svg
+ar-card-theme-preimage.c
+ArCardThemePreimage
+ar_card_theme_preimage_load
+GVariant
+S1R5
+slot.svg
+qa!t}
+(uuay)ui/
+art/
+baize.png
+IHDR
+bKGD
+	pHYs
+tIME
+iTXtComment
+Created with GIMPd.e
+IDATx
+/]-)3I
+#WJi
+RT)5
+>/W?O
+RBJ)
+"Cc	!
+BNpY
+_=SO
+J)})
+Ydpx)
+BNG)
+!P!D8H#H
+8BHp
+!\a/
+5$iY
+K)=!
+^q4W
+a;JG
+HWfX
+}"0pM
+a1FU
+b[BH
+9?YcVJI
+x<D{
+A>U>
+KJiDQL
+07"c>{
+Tk}E
+Cx{{s
+0htH
+KH;ZOj
+_D)%
+cLVJ
+Y)%D
+l,6;
+`OZ:
+G	@&0:Zk
+B^^^
+|>Sd
+SJ}u
+EI)a
+l:BH
+q___9
+HcLp
+R2)%
+d1m	
+n=hv
+aOH)
+m+!DZk
+PObpT
+t]WS
+^///\)
+=\sJI
+	xQ)%c
+"`ME{
+BN`M
+M:H)
+P`u>
+(	nC
+#pWJ)SJ
+vJ)_
+uP	[
+}_PxH
+CIqh
+yG)M
+d}/{&
+SOX	
+K)em5
+R}8O=
+*OI(
+:7X3M
+T(ggU
+}B'R
+Yk{J
+t:MG
+9vH@1
+>88#!DH)
+;v8B
+4oPJ)XP
+U MV
+2k-7
+Rx{{
+~__S
+9'P_:Xo
+U5R{
+@+x`l
+U3?`
+RJA=E
+{N)-
+pqMJi
+^__{B
+C~{{
+g4,n
+!RJe$
+^a&b
+IDATJ
+<YI)
+SRJS
+1J!Di
+Y%fo
+m[RJ
+(}@ODJ
+9w-*_7
+Ape#
+an"0
+WKXb
+,A{y
+E/'r
+!][<
+7@RJ
+w{>H
+Bt0|
+RJq$
+A.[J
+)MDl
+ZkXOvTP
+}?U	
+][AG
+1J)#Xe
+shKY!
+1`SC
+ckJI
+BH1FV
+iR}v0
+?Ckx
+,^)5c*
+8*HK9
+{oF!
+6bY0
+T~%[
+;C=D
+		R g
+`H)Y
+q4U2
+bBK=\g
+i(J)
+///Rk-Q
+1fPG
+=MS:
+f[J)%
+uFB>
+- 8"U
+R	Bw
+6P57$
+CYkO
+w:MS
+ijJi
+]Az[
+,D!4
+d[J)
+Eleele
+rp]J
+cCU[
+u]e;N>
+f]W[
+RJ_gJ0|
+4AmY
+:rdh
+16U#
+me#h
+X'2q
+u;jLJ
+	.3v]'
+1FI)
+R^ZN|
+y64K
+`8]}>
+RJi)
+viy9P]
+fM)Y(
+Hqk-[
+<5 $
+m4!mW
+%5<z
+jJ)p
+y5j?
+}?c]C
+FgBH
+M+SJ
+B1';
+RjJ)
+aM@u:
+,=x/
+Rx)E
+TJq1Fi
+R:<%wh
+J)q]
+0n.!
+%?9&
+3 G9
+J)[U
+s9gQ
+tOW#Da
+F+(B
+IDAT
+ucx<
+Gp	-
+#v	/70
+_	bP
+@J::
+ZE"8LX
+'0h_
+PQK)};Tr
+TZRJi
+rl >
+uB)U
+3Ts~J
+>}QJi
+a1FK)e
+RUpl 
+?	3B8
+Tm0Z
+_a!zl[
+>P0GO)
+1`,`
+j}v:b#
+ZbEg
+_^^8
+VMhMr
+}[p3
+Zo84=
+6H<%
+Av]7C
+RY<v
+]a0H
+y.)%[=
+88uN
+w8`DMM
+U/%*
+Qe	u
+.Hr+
+)eN)
+|Jin
+lt9MS(
+c-%y
+jDy]
+V)en
+$JZ+]
+8c,)
+JD>]
+YkY%7
+^-fP
+>0(9)
+R+@:k
+	jtP
+!ZjT1
+snSJ
+B0E}
+9 /Ci
+QcO)
+B,9g
+}dfA~
+LS1Z)B5e
+aW=;
+97Xc
+yH)a
+b	5b
+c8Zjs
+*bem
+=+9n:
+Q[J)E
+pRjV+cL
+GlF[:kM
+TO.A
+O@KA 
+ZQyl
+#w]G7
+}/ic
+Qc.D
+R^ko
+sfe\z
+cB!B
+C>yG
+.>kmG
+KRQO
+5r.)
+<A{>
+2XM^
+)%SkK
+CGa]
+6ooo
+<BQ[
+1r?#
+++NCRCT
+}G*GS
+m[MY
+}AI>(
+EQ/>
+*[kM
+IDAT
+RJNe
+$3VFo
+>>>~
+>4kL
+u){)
+*{g#
+!-re`M
+PJ	)
+\73Qc
+N'^+h
+}Ww&
+t:Y)e
+	!X)
+hh-R!
+^:@E
+S5`t4
+hcL{
+SJ)*
+0HaQ
+)C'B
+m[Ak
+'gZ&-
+v]wz
+!$)e
+oJK}
+WyCZc
+|]WI
+g0U9
+Pm.X
+O_///
+xVJm
+}x'	
+zr+d
+sJ)_
+7)eOg
+PEI;
+W<==uGX
+h/By
+IJij6`
+TYRP
+&JYo
+!DJIz
+^FsGb$
+RJN)
+O)q:%
+Uj1R#@'
+Ob21FUd
+a)e@
+?k1[
+>MSPJ
+}5[>?==	c
+Z;*@S
+!!-,[{
+QSJ-
+aXk^
+B0|n
+_Ex4E
+cv 6
+@KFe
+Qoz:
+9g)%
+^k-B
+4M_6;
+	e4\
+68G/D9
+T:-)
+H)C	
+|||H
+7ty6
+7#E<
+{oSJ
+*TD.
+@(W!
+tj.)%N
+!jA$
+|4dl
+6[<0T
+11F]+
+XpW^__
+(4qD
+=??/
+_^^d
+=iS5Gm
+|>gr
+}T9`h
+7FH^
+1J)%
+^^^d
+)%K7vY
+1F^4 
+li'{
+?0n}
+IDAT
+{OG!
+Zk#(
+$J;M
+RJFk
+t0f]
+A===Y:e
+*w2W
+[4G	!
+.eM5
+.RJ]-
+$<tY
+9OE@
+MctF;
+4iTO
+oHlA[n'
+]O_v
+vK9g6
+xwBk{
+c<E0
+<QFR+c
+QE1l
+cL///
+m]UF
+kO)yPR
+\sNB2P
+Tacocat
+Cu0[!D
+TBbJ
+f]W_r
+)^Qz
+jvjhhz:
+r>>>
+cLZk{D
+yL:=
+eY4-
+3O)mZ
+a~y>
+b,?~
+{(v:
+uwb93
+$td!
+$=??
+.D)I}*
+riSJF)
+k@>k
+Oy~~
+oP9.
+s(jF
+ahi,
+I|zz
+y,63
+Fimi
+6Ct|
+!PrgJ
+cLJ)'
+h>"[=*
+,?2B
+A#2B
+4XxQG
+(FS6~>
+`sJ3
+U+!D[
+>_}&
+}eQeY
+Zh3T
+Wt&.$
+}{{C
+T *J
+,$`^B
+v)%O)
+J)NAH0
+!LI7>E
+bC[v
+s>?06
+z hy
+s`X"
+RbRo
+#*WE9
+S~TwEK
+\.39d
+e^^^
+Vk= 
+j!FJ
+7Zk%
+Xbh0
+?<)9
+^Pk7
+y~yy
+s.w]
+SJQ)
+RJKt
+ZJ)g
+ZVP}
+emT1
+.t&F
+Z=-B
+c/M-
+p_^^~)ab
+@|}}
+e)EQJ
+KD)e&
+/tb<
+ C6<
+OOOo
+R*[%e03
+mJ)e
+<??g!D
+AgIJ
+@67&Z
+RjB'*
+BMvtX
+8C9x
+IDAT
+pjT_
+mAJ)Cc
+Mooo 
+<0u{
+V;MB
+G`v].
+G=X!
+eY2!
+9lf`
+i6N;
+8Uva_
+{x}}
+(WZy
+t1FS
+(q?}
+N:^Jau
+/_X)
+^sc$
+=0YA
+6P]y
+4^Lk
+/bJi
+I)mi
+<rVE-
+`U^)e
+CJi<
+KMK['!
+<<)j+
+.J)q
+\Z/5@
+J{L8
+ rCm	
+EB[#
+1F	f
+uf;\
+|fXN
+tzP#
+J)me
+(!dhK
+	@<p
+?op$E
+Lga^>J
+	ooo
+,/u#~
+R:Zk
+t:%0%9R
+ 0OM
+t!U)
+?==IB
+e8].
+SV)%
+7tjsLZ
+Bx}}
+LC^.
+"pij
+OS'X
+@C,v
+=SJy
+]28t
+Qx& 
+Tm oJ
+)%Y;
+///P
+\#8)
+e)eE
+]QJi-
+#ZbH
+%B Dt
+?*S 
+nToIBH
+\RJ=$
+Rz9*
+c|%1y
+1(\'
+Kooo\
+NA(m
+H)m 
+A7`!
+RZ0I9
+F*6~]
+u]g(
+w8:%
+yuu:
+=G)%
+IDAT`h
+Xke%
+TMMU
+6:2{
+Rzw}=
+l///
+`mJB
+>5k)C
+8b]4)
+}/*j
+l]Wpl
+1FRJw$.I
+'a1F
+(=MhcG
+QPrv]'
+gL1v
+3SJ9
+P'+0'
+_^s{S
+VGP)e
+5Yi3
+ZGJ)
+.L	!
+u]G9
+B+R4f
+M)A{
++p5>
+4>(%r
+n[-9=
+mZ`T
+>"UY
+K7MS
+T iy`3
+///p
+<=??
+SJw/
+w>>j
+<___A
+v]7`
+2d8Mg
+lFjG
+d]J)
+l^__5~o!
+C)M `
+48Rz5
+SHT>@P
+}w K
+1^Uuq
+%cl'
+xF;th
+6`p^k=)
+t;rX7
+Bp1F
+#Wb)%
+x;0TMR[
+Np"J
+8>$.
+\.G-'
+RZRJ
+]oH)
+G)%}
+HP@Vyzz
+RKJz
+	OOO
+sMmu
+D|l8
+:RJ_
+FP?U
+\8feZk
+Aj]J
+s2SWB
+q'm!gg
+1&6$
+LK)e
+F%1F6
+!PJY
+088/
+&D788+]|
+VCjV
+IDAT
+\^_^^
+sK}7
+tl]W
+Rbq??
+FmIJ)]J);
+RJw:
+ZJ9@
+GPvum
+lf:M
+OLSO
+	ZA@
+[J1U
+>ox{{K
+V///
+p*P8M
+(y`?
+B\eF&h
+9p?`9
+j[4|
+J)z]
+J(RJ
+v$)US
+cP~Xk
+4v]'j[u
+K)CJ
+Z`'%(
+!Zj:)
+5Z`g[J
+|>sr
+$0Q&
+/20L
+9gl +
+{vf~
+BJ?k
+u]W`K
+X<HE
+QJs;
+IJ)i
+0$k'&h
+|r9Nu
+-X	Sj
+D]Sa8#
+.	{h
+Bb m
+<"T}
++H:W
+"K)i
+{(+q
+	:///
+BFwH
+\JQ_
+f'	!
+.*M)Y
+3U5J
+	!"xc
+9_qi
+B0p9
+O_Fg@
+"%]K
+#~6c
+;K)1
+^;;`
+}S0L
+r(IRJ
+*@X;1
+Zk{@
+Hxt7
+uhI>G
+GcU^
+NS=U]B
+}1@5c
+%J)5
+'H	*+QI)
+I)OO
+!Lq@a5
+eQ,mV
+Zu]'
+\C% 
+5RJYJ
+s]u 
+310FR
+A:{]W?
+^nE/(
+# _{
+Y}KcP
+dsQrs
+@km9
+20&=
+{D$J
+!ooo
+%x-)
+bRJEJ
+7zk5
+hly_J
+IDAT4A
+Fj?+%
+kh'!
+VlJ)_
+!US<
+$_^^fTqrU
+!L)e
+RM5b0
+MQP8J
+6b+D#
+Jk=H)
+`81+
+<x@LF
+f @j
+GY[z
+^	!`\
+t	!t
+>00`8-y"
+VBCV
+ tC]U
+P44i
+p	D2y
+]cMEmR
+<j9	
+.*n=
+3+E)
+U)EW
+1AJi
+(tH:
+t:Qc
+Z[!D
+Rf!D
+6zz}}
+-rz{{
+MPmX
+G[)*
+n1P5Z
+P/t\
+1\k}k
+v[Ji
+s)ed
+F/Wl@
+<N0Y
+F5q8
+Lr{]
+"fhAN
+RJY3
+RY)%pw%
+7uPU
+9cLq
+1_S$
+D#p<
++Zke
+x&0*
+t_xML
+Yqty$
+BZkC)
+)%[J
+[kAc
+t:) 
+BLKU>
+ II)
+y{{c
+\k=I)U
+k~6}
+j	v,
+SJAJ
+=6LX
+tDx`
+	J)Z
+5?"My
+QK}W}
+P1K)
+_q+$
+[l	+
+d&!&x%
+gqsM
+]q	y.
+J)1c
+EJjY
+eQZk
+eBJi
+^i,z
+AJ)0
+nCa,"
+|mQ}d
+2l<J)
+Iugl*#	
+ *qPY
+q)%!
+v@).
+7mUq
+B9BHn*
+04\F
+}s=Cx
+9{)%
+|fx@
+IDAT
+J)=M
+pFJM
+T%^^^x
+///JJ9
+1FJ){H'
+!1MS
+ZkY+6
+12L.
+/	!$6
+0[kcM
+W{^Q
+mz"H
+1Fv]
+%&W5CT
+Tw8d
+vbGg
+yJiC!
+kU#S
+[+3~D
+SJye
+Q\riC
+xSJQ
+!dhi
+TJ} 
+eY(p
+SJw!D
+M~*	!
+s6)%_
+'TsH
+R+)I
+D)eR
++*}Bfik
+R"9pJ
+-VoEL
+l<k8k
+E6Fk=
+qTRJ
+;Vlj
+rspg`
+PJ\N
+<wJ)p
+8:([=
+$t/N
+}J)-
+9zu}e
+RJbY
+ew`m0
+,KN)
+u]5n
++&Xp
+	!\J
+3hUs
+Jef 
+FJI!}i;
+0pJi
+y"U[/
+IEND
+(uuay)org/
+debug-menus.xml
+<ui>
+  <menubar name="MainMenu">
+    <menu action="DebugMenu">
+      <menuitem action="DebugChooseSeed"/>
+      <menuitem action="DebugException"/>
+      <separator/>
+      <menuitem action="DebugCycle"/>
+      <separator/>
+      <menuitem action="DebugGameFirst"/>
+      <menuitem action="DebugGamePrev"/>
+      <menuitem action="DebugGameNext"/>
+      <menuitem action="DebugGameLast"/>
+    </menu>
+  </menubar>
+  <toolbar name="Toolbar">
+    <toolitem action="DebugGameFirst"/>
+    <toolitem action="DebugGamePrev"/>
+    <toolitem action="DebugGameNext"/>
+    <toolitem action="DebugGameLast"/>
+  </toolbar>
+</ui>
+(uuay)gnome/
+aisleriot/
+menus.xml
+<ui>
+  <menubar name="MainMenu">
+    <menu action="GameMenu">
+      <menuitem action="NewGame"/>
+      <menuitem action="RestartGame"/>
+      <menuitem action="Statistics"/>
+      <menuitem action="Select"/>
+      <menu action="RecentMenu"/>
+      <separator/>
+      <menuitem action="CloseWindow"/>
+    </menu>
+    <menu action="ViewMenu">
+      <menuitem action="Fullscreen"/>
+      <menuitem action="Toolbar"/>
+      <menuitem action="Statusbar"/>
+      <separator/>
+      <menu action="ThemeMenu">
+        <placeholder name="ThemesPH"/>
+      </menu>
+    </menu>
+    <menu action="ControlMenu">
+      <menuitem action="UndoMove"/>
+      <menuitem action="RedoMove"/>
+      <menuitem action="Deal"/>
+      <menuitem action="Hint"/>
+      <separator/>
+      <menuitem action="ClickToMove"/>
+      <menuitem action="Sound"/>
+    </menu>
+    <menu action="OptionsMenu"/>
+    <menu action="HelpMenu">
+      <menuitem action="Contents"/>
+      <menuitem action="HelpGame"/>
+      <menuitem action="About"/>
+    </menu>
+  </menubar>
+  <toolbar name="Toolbar">
+    <toolitem action="NewGame"/>
+    <toolitem action="RestartGame"/>
+    <toolitem action="Select"/>
+    <separator/>
+    <toolitem action="UndoMove"/>
+    <toolitem action="RedoMove"/>
+    <toolitem action="Deal"/>
+    <toolitem action="Hint"/>
+    <separator name="LeaveFullscreenSep" expand="true"/>
+    <toolitem action="LeaveFullscreen"/>
+  </toolbar>
+</ui>
+(uuay)
+;*3$"
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.gresource.aisleriot
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.data.rel.ro
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

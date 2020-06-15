@@ -1,0 +1,1599 @@
+/lib64/ld-linux-x86-64.so.2
+y*!&]
+libavahi-common.so.3
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+avahi_simple_poll_iterate
+avahi_strdup_printf
+_fini
+avahi_normalize_name
+avahi_strndup
+avahi_alternative_service_name
+avahi_simple_poll_get
+Borrow or rob
+avahi_string_list_free
+avahi_address_parse
+avahi_unescape_label
+avahi_string_list_copy
+avahi_address_cmp
+avahi_address_snprint
+avahi_simple_poll_new
+avahi_simple_poll_quit
+avahi_elapse_time
+avahi_strerror
+avahi_string_list_add_arbitrary
+avahi_domain_equal
+avahi_free
+avahi_strdup_vprintf
+avahi_string_list_add
+avahi_is_valid_domain_name
+avahi_alternative_host_name
+avahi_malloc
+avahi_simple_poll_free
+avahi_malloc0
+avahi_strdup
+libavahi-core.so.7
+avahi_server_add_address
+avahi_server_config_free
+avahi_s_dns_server_browser_free
+avahi_server_add
+avahi_s_record_browser_free
+avahi_server_get_group_of_service
+avahi_server_add_service_subtype
+avahi_s_dns_server_browser_new
+avahi_server_get_config
+avahi_server_update_service_txt_strlst
+avahi_s_entry_group_get_state
+avahi_set_log_function
+avahi_server_set_wide_area_servers
+avahi_server_get_domain_name
+avahi_s_record_browser_new
+avahi_rdata_serialize
+avahi_key_unref
+avahi_server_get_host_name_fqdn
+avahi_s_host_name_resolver_free
+avahi_key_new
+avahi_s_service_type_browser_new
+avahi_s_domain_browser_new
+avahi_s_entry_group_new
+avahi_s_entry_group_is_empty
+avahi_s_service_resolver_new
+avahi_s_entry_group_reset
+avahi_s_address_resolver_free
+avahi_s_service_browser_free
+avahi_server_get_host_name
+avahi_strdown
+avahi_s_entry_group_free
+avahi_log_debug
+avahi_server_add_service_strlst
+avahi_log_info
+avahi_log_warn
+avahi_s_domain_browser_free
+avahi_server_errno
+avahi_log_error
+avahi_s_host_name_resolver_new
+avahi_record_unref
+avahi_server_dump
+avahi_server_get_local_service_cookie
+avahi_server_add_dns_server_address
+avahi_s_service_resolver_free
+avahi_server_config_init
+avahi_s_entry_group_commit
+avahi_server_get_state
+avahi_server_new
+avahi_s_service_browser_new
+avahi_s_address_resolver_new
+avahi_s_service_type_browser_free
+avahi_log_notice
+avahi_server_free
+avahi_record_new_full
+avahi_server_set_browse_domains
+avahi_server_set_host_name
+avahi_rdata_parse
+libdaemon.so.0
+daemon_unblock_sigs
+daemon_retval_done
+daemon_retval_wait
+daemon_log
+daemon_set_verbosity
+daemon_pid_file_kill_wait
+daemon_signal_fd
+daemon_pid_file_ident
+daemon_pid_file_proc
+daemon_pid_file_is_running
+daemon_signal_next
+daemon_fork
+daemon_log_ident
+daemon_reset_sigs
+daemon_log_use
+daemon_signal_init
+daemon_pid_file_kill
+daemon_signal_done
+daemon_pid_file_create
+daemon_retval_send
+daemon_close_all
+daemon_retval_init
+libexpat.so.1
+XML_GetBuffer
+XML_SetUserData
+XML_ErrorString
+XML_SetElementHandler
+XML_SetCharacterDataHandler
+XML_ParserCreate
+XML_ParseBuffer
+XML_GetCurrentLineNumber
+XML_ParserFree
+XML_GetErrorCode
+libcap.so.2
+cap_free
+cap_set_proc
+cap_clear
+cap_init
+cap_set_flag
+libdl.so.2
+dlclose
+dlopen
+libdbus-1.so.3
+dbus_connection_set_dispatch_status_function
+dbus_bus_add_match
+dbus_message_unref
+dbus_timeout_get_data
+dbus_timeout_set_data
+dbus_watch_get_unix_fd
+dbus_watch_get_enabled
+dbus_connection_register_object_path
+dbus_connection_close
+dbus_message_new_signal
+dbus_connection_send
+dbus_message_iter_get_element_type
+dbus_error_is_set
+dbus_timeout_get_enabled
+dbus_message_is_signal
+dbus_connection_set_timeout_functions
+dbus_message_new_method_return
+dbus_connection_unregister_object_path
+dbus_message_iter_next
+dbus_message_get_path
+dbus_message_set_destination
+dbus_message_iter_get_fixed_array
+dbus_message_get_sender
+dbus_connection_set_watch_functions
+dbus_watch_get_data
+dbus_watch_set_data
+dbus_message_iter_get_arg_type
+dbus_bus_request_name
+dbus_message_iter_append_fixed_array
+dbus_message_iter_init_append
+dbus_message_append_args
+dbus_message_get_args
+dbus_connection_add_filter
+dbus_message_iter_init
+dbus_connection_set_exit_on_disconnect
+dbus_watch_get_flags
+dbus_connection_get_dispatch_status
+dbus_timeout_handle
+dbus_connection_ref
+dbus_message_new_error
+dbus_message_iter_recurse
+dbus_watch_handle
+dbus_message_iter_close_container
+dbus_message_is_method_call
+dbus_error_init
+dbus_message_iter_open_container
+dbus_connection_unref
+dbus_message_get_member
+dbus_error_free
+dbus_connection_dispatch
+dbus_bus_get_private
+dbus_message_ref
+dbus_timeout_get_interval
+dbus_message_get_interface
+libpthread.so.0
+write
+read
+__errno_location
+raise
+accept
+fcntl
+sigaction
+sendmsg
+recvmsg
+libc.so.6
+chroot
+socket
+__printf_chk
+srand
+fopen
+strncmp
+optind
+strrchr
+initgroups
+strncpy
+__stack_chk_fail
+__lxstat
+unlink
+listen
+mkdir
+abort
+_exit
+socketpair
+memchr
+getpid
+__assert_fail
+strtol
+feof
+fgets
+getpwnam
+strlen
+prctl
+memset
+glob
+strstr
+bind
+chdir
+memcmp
+getsockopt
+unsetenv
+__fprintf_chk
+getgrnam
+putenv
+stdout
+setresgid
+memcpy
+fclose
+__vsnprintf_chk
+strtoul
+umask
+strcasecmp
+__ctype_b_loc
+getenv
+sscanf
+setresuid
+optarg
+stderr
+ioctl
+inotify_init
+__snprintf_chk
+getuid
+setrlimit
+getopt_long
+if_nametoindex
+__fxstat
+strtoull
+chown
+if_indextoname
+strchr
+getsockname
+fdopen
+inotify_add_watch
+__vasprintf_chk
+__xstat
+memmove
+strcmp
+__libc_start_main
+globfree
+__environ
+_edata
+__bss_start
+_end
+GLIBC_2.2.5
+LIBDBUS_1_3
+GLIBC_2.3
+GLIBC_2.8
+GLIBC_2.14
+GLIBC_2.4
+GLIBC_2.3.4
+AVAUATU
+[]A\A]A^
+9D$ 
+tCE1
+UH-P
+AUATUStXH
+]A\A]A^
+ATUI
+[]A\
+[]A\
+AUATUSH
+j5UE1
+([]A\A]
+ATUSH
+=Qw!
+[]A\
+=}x!
+5)x!
+5	x!
+[]A\
+[]A\
+[]A\
+=?w!
+[]A\
+ATUH
+AWAVAUATUSH
+[]A\A]A^A_
+=`r!
+=sq!
+ATUS
+;t+H
+=Ep!
+[]A\
+=!p!
+=-n!
+Hc|$
+HcT$
+tD~"
+=el!
+AVAU
+ATUSH
+=Bj!
+-6j!
+=)j!
+=Aj!
+[]A\A]A^
+=9h!
+ATUSH
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+[]A\
+AUATUSH
+l$pdH
+D$81
+D$8dH3
+H[]A\A]
+=)^!
+AWAVAUATUSH
+L$p1
+[]A\A]A^A_
+=\X!
+T$pL
+\$(H
+=IU!
+=6U!
+ATUSH
+\$hdH
+D$81
+D$8dH3
+@[]A\
+=YT!
+=FT!
+ATUS
+[]A\
+[]A\
+[]A\H
+AUATUSH
+D$x1
+/var/run
+/avahi-df
+aemon/soH
+L$jH
+cketH
+T$xdH3
+[]A\A]
+H;Y0u#H
+ATUH
+[]A\
+ATUSH
+[]A\
+[]A\
+L$0H
+D$0H
+8atPH
+ATUSH
+D$xH
+[]A\
+AVAUATUSH
+D$X1
+|$(H
+l$0H
+E E1
+t$(H
+=hA!
+D$XdH3
+`[]A\A]A^
+AUATA
+H9D$Xt
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+=Q=!
+=<=!
+StpH
+=K9!
+=!9!
+AWAV
+AUAT
+|$@L
+T$@A
+[]A\A]A^A_
+D$ H
+5~6!
+D$(I
+D$0A
+=|5!
+ATUS
+I9,$u#H
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+t%<,ucI
+[]A\A]A^A_
+t;USH
+ATUSH
+%O,!
+[]A\
+ATUSH
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+[]A\
+L$(1
+[]A\
+D;d$
+AVAUATU
+[]A\A]A^
+ATUE
+[]A\
+fD9d$
+AUATI
+[]A\A]
+AVAUATUA
+<@tF</tB
+[]A\A]A^
+t$P1
+|$R@
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+AWAVAUATUSH
+[]A\A]A^A_
+t$ H
+l$0L
+d$pL
+l$ H
+t$@H
+d$PH
+AUATI
+D$x1
+L$xdH3
+[]A\A]
+t$ 1
+D$`H
+T$01
+D$@H
+D$@H
+AVAUI
+ATUSH
+[]A\A]A^
+]A\A]A^
+USE1
+AUATUSH
+[]A\A]
+D$,A9D$
+[]A\A]
+AVAUATUI
+|$@dH
+t$@1
+L$8H
+t$@E1
+[]A\A]A^
+t$@1
+t$@1
+t$8H
+t$@1
+D$4PjuH
+D$@PjiH
+D$hPjsH
+D$pPjsH
+D$xPjs1
+L$|H
+L$xH
+@0A9E
+mhUh 3A
+D$4H
+D$8P
+T$<L
+L$XL
+D$PH
+t$@1
+t$@1
+t$@1
+t$@1
+L$8H
+t$@E1
+L$8H
+t$@E1
+|$8H
+|$pI
+|$8H
+T$`H
+L$8H
+t$@E1
+|$8H
+L$8H
+t$@E1
+|$8H
+t$@1
+@0A9E
+D$@PjuH
+D$HPjiH
+D$hPjs1
+L$dH
+L$`H
+@0A9E
+Uh@0A
+T$4D
+L$@D
+D$8H
+D$@PjuH
+D$XPjs1
+L$XH
+L$TH
+|$8H
+@0A9E
+T$8D
+tfPj
+D$@PjuH
+D$HPjiH
+D$hPjs1
+L$dH
+L$`H
+D$@PjuH
+God A red nugget A fat egg under a dog
+D$XPjs1
+L$XH
+L$TH
+@0A9E
+L$@D
+D$8H
+A[A^
+@0A9E
+mXWH
+D$@H
+AXAY
+D$8PjuH
+D$PPjsH
+D$hPjs1
+L$dH
+L$`H
+@0A9E
+L$8L
+D$@H
+D$4PjuH
+D$@PjiH
+D$hPjsH
+D$pPjsH
+D$xPjs1
+L$|H
+L$xH
+@0A9E
+mpUh
+D$4H
+D$8PL
+L$XL
+D$PH
+D$@PjuH
+D$HPjiH
+D$hPjs1
+L$dH
+L$`H
+@0A9E
+L$@D
+D$8H
+A[A^t5
+D$@PjuH
+D$XPjs1
+L$XH
+L$TH
+|$8H
+@0A9E
+mHWL
+AXAYt5
+D$@PjuH
+D$<PjqH
+D$PPjqH
+D$xPjs1
+L$xH
+L$tH
+|$8H
+@0A9E
+t$ H
+D$@A
+ZYtd
+|$ 1
+L$ H
+t$0E1
+t$ H
+D$0Pjs1
+L$8H
+L$0H
+AWAVI
+AUATA
+[]A\A]A^A_
+ATUS
+[]A\A]
+[]A\A]
+AVAUATUSH
+[]A\A]A^
+D$8%
+D$PH=
+T$PH
+L$`H
+t$`H
+AUATUSH
+Tacocat
+auXH
+yuIH
+t$`H
+[]A\A]
+[]A\A]
+ATUSH
+t$`H
+HcT$
+|$`H
+yufH
+[]A\
+[]A\
+ZYu8H
+L$`H
+t$`H
+H;YHu<H
+AWAVAUATUSH
+D$X1
+D$XdH3
+h[]A\A]A^A_
+|$0M
+D$$j
+D$,PjuH
+D$ PjsH
+D$PPjsH
+D$XP1
+D$\H
+AVAUATUSH
+0[]A\A]A^
+0[]A\A]A^
+0[]A\A]A^
+H;Y8u<H
+AWAVAUATUSH
+D$X1
+D$XdH3
+h[]A\A]A^A_
+|$0M
+D$$j
+D$,PjuH
+D$@PjsH
+D$HPjiH
+D$@P1
+D$\H
+AVAUATUSH
+0[]A\A]A^
+0[]A\A]A^
+0[]A\A]A^
+H;Ypu<H
+AWAVAUATUSH
+D$(L
+L$ L
+D$x1
+|$PH
+L$(H
+D$ D
+t$8D
+D$Dj
+PjqH
+D$`PjsH
+D$hPjiH
+D$HPjsH
+D$`PjsH
+D$xPjsH
+T$D1
+D$xdH3
+[]A\A]A^A_
+D$(NGA
+AVAUATUSH
+0[]A\A]A^
+0[]A\A]A^
+0[]A\A]A^
+H;YPu<H
+AVAUATUSH
+0[]A\A]A^
+0[]A\A]A^
+0[]A\A]A^
+ATUSH
+ []A\
+D$$PjuH
+D$ P1
+D$8H
+H;Y(u<H
+AUATUSH
+[]A\A]
+AVAUATUSH
+t$P1
+[]A\A]A^
+t$P1
+t$P1
+t$P1
+t$P1
+D$*PjqH
+D$`PjsH
+D$hPjsH
+D$hPjsH
+PjsH
+Pju1
+D$$A
+@4A9D$ 
+D$8H
+D$@H
+D$*P
+t$PL
+D$$@u
+D$XPjsH
+D$`PjsH
+D$`PjsH
+D$xPjsH
+D$xPju1
+D$0H
+L$8M
+T$HH
+D$(A
+I4A9L$ 
+L$@H
+t$PP
+D$(@
+D$PPjsH
+Beeb
+D$PPjsH
+D$hPjsH
+D$hPju1
+L$tH
+L$pH
+D$@H
+t$HL
+L$XD
+D$XPjsH
+D$`PjsH
+D$hPju1
+L$pH
+L$hH
+|$HH
+D$8@u
+@4A9D$ 
+RAUL
+L$PD
+D$8@
+D$@PjuH
+D$<PjqH
+D$JPjqH
+PjsH
+D$xPju1
+L$8H
+D$(@u
+@4A9D$ s3H
+L$0H
+T$8H
+t$HH
+D$(M
+T$ H
+D$(@u
+H;Y`u<H
+AVAUATUSH
+0[]A\A]A^
+0[]A\A]A^
+0[]A\A]A^
+AWAVAUATUSH
+l$hL
+([]A\A]A^A_
+L$`D
+D$$PjuH
+D$xPjsH
+D$(PjsH
+D$@P1
+D$XH
+H;YXu<H
+AVAUATUSH
+0[]A\A]A^
+0[]A\A]A^
+0[]A\A]A^
+ATUSH
+ []A\
+D$$PjuH
+PjsH
+D$0P1
+D$HH
+H;Y@u<H
+ATUSH
+D$X1
+D$XdH3
+`[]A\
+|$0H
+D$,PjuH
+D$ PjsH
+D$PPjsH
+D$XP1
+D$\H
+H;Y0u<H
+ATUSH
+D$X1
+D$XdH3
+`[]A\
+|$0M
+D$,PjuH
+D$@PjsH
+D$HPjiH
+D$@P1
+D$\H
+H;Yhu<H
+AWAVAUATUSH
+D$(L
+L$ H
+D$x1
+|$PH
+D$ D
+L$(H
+|$8D
+D$@H
+PjqH
+D$`PjsH
+D$hPjiH
+D$HPjsH
+D$`PjsH
+D$xPjsH
+T$D1
+D$xdH3
+[]A\A]A^A_
+D$ D
+L$(H
+|$8D
+D$(NGA
+H;Yxu<H
+AVAUATUSH
+0[]A\A]A^
+0[]A\A]A^
+0[]A\A]A^
+AUATUSH
+[]A\A]
+jqRjqP1
+D$8H
+ATUS
+[]A\
+[]A\
+AUATUSH
+[]A\A]
+]A\A]
+[]A\A]
+ATUSH
+[]A\
+St6H
+StjH
+ATUS
+[]A\
+AWAVA
+AUATL
+[]A\A]A^A_
+/var/run/avahi-daemon//pid
+main.c
+%s: running [%s]
+%s: collision [%s]
+STATUS=Server error: %s
+%s: registering [%s]
+/etc/avahi
+/etc/avahi/services
+/etc/resolv.conf
+nameserver 
+nameserver	
+search 
+search	
+domain 
+domain	
+level < AVAHI_LOG_LEVEL_MAX
+fd == inotify_fd
+Files changed, reloading.
+SIGINT
+SIGTERM
+simple_poll_api
+daemon_signal_next() failed
+Got %s, quitting.
+Do nine men interpret Nine men I nod
+Got SIGHUP, reloading.
+/etc/avahi/avahi-daemon.conf
+host-name
+domain-name
+browse-domains
+use-ipv4
+use-ipv6
+check-response-ttl
+allow-point-to-point
+use-iff-running
+disallow-other-stacks
+host-name-from-machine-id
+/etc/machine-id
+/var/lib/dbus/machine-id
+enable-dbus
+allow-interfaces
+deny-interfaces
+ratelimit-interval-usec
+ratelimit-burst
+cache-entries-max
+clients-max
+objects-per-client-max
+entries-per-entry-group-max
+publish
+publish-addresses
+publish-hinfo
+publish-workstation
+publish-domain
+disable-publishing
+add-service-cookie
+publish-dns-servers
+publish-a-on-ipv6
+publish-aaaa-on-ipv4
+Degas are we not drawn onward no In union drawn onward to new eras aged
+enable-wide-area
+enable-reflector
+reflect-ipv
+rlimit-as
+rlimit-core
+rlimit-data
+rlimit-fsize
+rlimit-nofile
+rlimit-stack
+rlimit-nproc
+/dev/urandom
+hDkVf:rcs
+Too many arguments
+%s 0.6.32-rc
+Failed to kill daemon: %s
+Failed to find user 'avahi'.
+Failed to find group 'avahi'.
+/var/run/avahi-daemon/
+stat(): %s
+Failed to change GID: %s
+Failed to change UID: %s
+USER
+%s=%s
+LOGNAME
+HOME
+Failed to create PID file: %s
+RLIMIT_AS
+RLIMIT_CORE
+RLIMIT_DATA
+RLIMIT_FSIZE
+RLIMIT_NOFILE
+RLIMIT_STACK
+RLIMIT_NPROC
+RLIMIT_MEMLOCK
+%s 0.6.32-rc starting up.
+%s: starting up
+Failed to chroot(): %s
+Successfully called chroot().
+Failed to drop capabilities.
+Failed to create server: %s
+poll(): %s
+STATUS=%s 0.6.32-rc exiting.
+help
+daemonize
+kill
+version
+reload
+check
+syslog
+no-rlimits
+no-drop-root
+no-chroot
+no-proc-title
+debug
+avahi_s_entry_group_is_empty(g)
+Failed to parse address '%s', ignoring.
+Failed to add DNS server address: %s
+Server startup complete. Host name is %s. Local service cookie is %u.
+STATUS=Server startup complete. Host name is %s. Local service cookie is %u.
+Host name conflict, retrying with %s
+STATUS=Host name conflict, retrying with %s
+STATUS=Registering host name %s
+Failed to open /etc/resolv.conf: %s
+'%s' is no valid domain name, ignoring.
+setrlimit(%s, {%u, %u}) failed: %s
+Failed to read inotify event: %s
+Got SIGUSR1, dumping record data.
+Got spurious signal, ignoring.
+Invalid domain name "%s" for key "%s" in group "%s"
+Invalid ratelimit-burst setting %s
+Invalid cache-entries-max setting %s
+Invalid clients-max setting %s
+Invalid objects-per-client-max setting %s
+Invalid entries-per-entry-group-max setting %s
+Invalid configuration key "%s" in group "%s"
+publish-resolv-conf-dns-servers
+disable-user-service-publishing
+Invalid configuration file group "%s".
+Invalid ratelimit-interval-usec setting %s
+%s [options]
+    -h --help          Show this help
+    -D --daemonize     Daemonize after startup (implies -s)
+    -s --syslog        Write log messages to syslog(3) instead of STDERR
+    -k --kill          Kill a running daemon
+    -r --reload        Request a running daemon to reload static services
+    -c --check         Return 0 if a daemon is already running
+    -V --version       Show version
+    -f --file=FILE     Load the specified configuration file instead of
+                       /etc/avahi/avahi-daemon.conf
+       --no-rlimits    Don't enforce resource limits
+       --no-drop-root  Don't drop privileges
+       --no-chroot     Don't chroot()
+       --no-proc-title Don't modify process title
+       --debug         Increase verbosity
+This program is intended to be run as root.
+Daemon already running on PID %u
+Could not receive return value from daemon process.
+Failed to close all remaining file descriptors: %s
+mkdir("/var/run/avahi-daemon/"): %s
+Failed to create runtime directory /var/run/avahi-daemon/.
+Found user 'avahi' (UID %lu) and group 'avahi' (GID %lu).
+Failed to change group list: %s
+Successfully dropped root privileges.
+failed to start chroot() helper daemon.
+STATUS=%s 0.6.32-rc starting up.
+WARNING: No NSS support for mDNS detected, consider installing nss-mdns!
+Failed to create main loop object.
+Could not register signal handlers (%s).
+Failed to create signal watcher
+WARNING: Failed to contact D-Bus daemon.
+Successfully dropped remaining capabilities.
+Failed to initialize inotify: %s
+Failed to create inotify watcher
+signal_callback
+inotify_callback
+add_dns_servers
+server_callback
+is_yes
+log_function
+simple-protocol.c
+%+i %s
+%c %i %u %s %u
+c->server->n_clients >= 1
+*_head == _item
+read(): %s
+%63s %63s
+HELP
+FUCK
++ FUCK: Go fuck yourself!
+RESOLVE-HOSTNAME-IPV4
+RESOLVE-HOSTNAME-IPV6
+RESOLVE-HOSTNAME
+RESOLVE-ADDRESS
+BROWSE-DNS-SERVERS-IPV4
++ Browsing ...
+BROWSE-DNS-SERVERS-IPV6
+BROWSE-DNS-SERVERS
+write(): %s
++ %i %u %s
++ %i %u %s %s
+accept(): %s
+/var/run/avahi-daemon/socket
+!server
+bind(): %s
+listen(): %s
+c->inbuf_length <= sizeof(c->inbuf)
+%+i Failed to parse command, try "HELP".
++ Available commands are:
++      RESOLVE-HOSTNAME <hostname>
++      RESOLVE-HOSTNAME-IPV6 <hostname>
++      RESOLVE-HOSTNAME-IPV4 <hostname>
++      RESOLVE-ADDRESS <address>
++      BROWSE-DNS-SERVERS
++      BROWSE-DNS-SERVERS-IPV4
++      BROWSE-DNS-SERVERS-IPV6
+simple-protocol.c: Got %s request for '%s'.
+%+i Failed to parse address "%s".
+simple-protocol.c: Got %s request.
+%+i Invalid command "%s", try "HELP".
+simple-protocol.c: Got invalid request '%s'.
+(size_t) r <= c->outbuf_length
+Failed to acquire systemd file descriptors: %s
+Too many systemd file descriptors passed.
+Passed systemd file descriptor is of wrong type: %s
+socket(AF_LOCAL, SOCK_STREAM, 0): %s
+simple_protocol_restart_queries
+client_free
+client_output
+host_name_resolver_callback
+address_resolver_callback
+dns_server_browser_callback
+client_work
+server_work
+simple_protocol_setup
+static-services.c
+service-group
+replace-wildcards
+!u->service
+protocol
+subtype
+port
+txt-record
+XML_ParserCreate() failed.
+open("%s", O_RDONLY): %s
+fstat(): %s
+XML_GetBuffer() failed.
+read(): %s
+%s%s%s
+/etc/avahi/services/*.service
+Loading service file %s.
+entry_group_callback
+add_static_service_group_to_server
+static_service_group_free
+static_service_free
+remove_static_service_group_from_server
+static_service_new
+xml_start
+xml_end
+xml_cdata
+static_service_group_load
+%s: parse failure: service group incomplete.
+%s: parse failure: service incomplete.
+%s: parse failure: invalid port specification "%s".
+%s: parse failure: invalid protocol specification "%s".
+%s: parse failure: didn't expect element <%s>.
+%s: parse failure: invalid attribute for element <%s>.
+XML_ParseBuffer() failed at line %d: %s.
+avahi_s_entry_group_is_empty(g->entry_group)
+Failed to add service '%s' of type '%s', ignoring service group (%s): %s
+Failed to add subtype '%s' for service '%s' of type '%s', ignoring subtype (%s): %s
+Service name conflict for "%s" (%s), retrying with "%s".
+Service "%s" (%s) successfully established.
+Failed to publish service "%s" (%s): %s
+Service group file %s vanished, removing services.
+Failed to stat() file %s, ignoring: %s
+Service group file %s changed, reloading.
+Failed to load service group file %s, removing service.
+Not enough memory to read service directory /etc/avahi/services.
+No service file found in /etc/avahi/services.
+Failed to read /etc/avahi/services.
+Failed to load service group file %s, ignoring.
+static-hosts.c
+/etc/avahi/hosts
+Host name conflict for "%s", not established.
+Static host name "%s" successfully established.
+Failed to establish static host name "%s": %s.
+avahi_s_entry_group_new() failed: %s
+Static host name %s: avahi_server_add_address failure: %s
+Failed to open static hosts file: %s
+%s:%d: Error, unexpected end of line!
+%s:%d: Junk on the end of the line!
+Static host name %s: failed to parse address %s
+Loading new static hostname %s.
+Static hostname %s vanished, removing.
+static_host_free
+entry_group_callback
+ini-file-parser.c
+fname
+Failed to open file '%s': %s
+../avahi-common/malloc.h
+n < 0x7fffffff/k
+*t == ','
+Unclosed group header in %s:%u: <%s>
+Missing assignment in %s:%u: <%s>
+Assignment outside group in %s:%u <%s>
+avahi_split_csv
+avahi_ini_file_free
+avahi_new_internal
+avahi_ini_file_load
+LISTEN_PID
+LISTEN_FDS
+NOTIFY_SOCKET
+/sys/fs/cgroup
+/sys/fs/cgroup/systemd
+libnss_mdns.so.2
+libnss_mdns4.so.2
+libnss_mdns6.so.2
+chroot.c
+helper_fd < 0
+socketpair() failed: %s
+chroot.c: fork() failed: %s
+%s: chroot helper
+fd >= 0
+chroot.c: read() failed: %s
+r == sizeof(command)
+chroot.c: open() failed: %s
+chroot.c: write() failed: %s
+sendmsg() failed: %s
+recvmsg() failed: %s
+recvmsg() sent no fd.
+h->cmsg_type == SCM_RIGHTS
+read() failed: %s
+chroot.c: chroot() helper started
+chroot.c: chroot() helper got command %02x
+chroot.c: Unknown command %02x.
+chroot.c: chroot() helper exiting with return value %i
+chroot() helper accessed for invalid file name
+/usr/share/dbus-1/interfaces/org.freedesktop.Avahi.Server.xml
+/usr/share/dbus-1/interfaces/org.freedesktop.Avahi.EntryGroup.xml
+/usr/share/dbus-1/interfaces/org.freedesktop.Avahi.AddressResolver.xml
+/usr/share/dbus-1/interfaces/org.freedesktop.Avahi.DomainBrowser.xml
+/usr/share/dbus-1/interfaces/org.freedesktop.Avahi.HostNameResolver.xml
+/usr/share/dbus-1/interfaces/org.freedesktop.Avahi.ServiceBrowser.xml
+/usr/share/dbus-1/interfaces/org.freedesktop.Avahi.ServiceResolver.xml
+/usr/share/dbus-1/interfaces/org.freedesktop.Avahi.ServiceTypeBrowser.xml
+/usr/share/dbus-1/interfaces/org.freedesktop.Avahi.RecordBrowser.xml
+avahi_chroot_helper_get_file
+recv_fd
+helper_main
+avahi_chroot_helper_start
+caps.c
+caps
+cap_set_proc() failed: %s
+prctl(PR_SET_KEEPCAPS) failed: %s
+avahi_caps_drop_all
+avahi_caps_reduce2
+avahi_caps_reduce
+dbus-protocol.c
+!server->bus
+dbus_error_is_set(&error)
+dbus_bus_get_private(): %s
+org.freedesktop.Avahi
+dbus_bus_request_name(): %s
+dbus_bus_add_match(): %s
+server->n_clients > 0
+Introspect
+GetHostName
+org.freedesktop.Avahi.Server
+SetHostName
+Changing host name to '%s'.
+GetDomainName
+GetHostNameFqdn
+IsNSSSupportAvailable
+GetVersionString
+avahi 0.6.32-rc
+GetAPIVersion
+GetState
+GetLocalServiceCookie
+OS Error: %s
+GetAlternativeHostName
+GetAlternativeServiceName
+EntryGroupNew
+/Client%u/EntryGroup%u
+ResolveHostName
+ResolveAddress
+DomainBrowserNew
+/Client%u/DomainBrowser%u
+ServiceTypeBrowserNew
+ServiceBrowserNew
+/Client%u/ServiceBrowser%u
+ResolveService
+ServiceResolverNew
+/Client%u/ServiceResolver%u
+HostNameResolverNew
+/Client%u/HostNameResolver%u
+AddressResolverNew
+/Client%u/AddressResolver%u
+RecordBrowserNew
+/Client%u/RecordBrowser%u
+Missed message %s::%s()
+c->n_objects == 0
+server->n_clients == 0
+Disconnected
+org.freedesktop.DBus.Local
+NameAcquired
+org.freedesktop.DBus
+NameOwnerChanged
+StateChanged
+Failed allocate message
+org.freedesktop.Avahi.Success
+Eleele
+avahi_dbus_connection_glue() failed
+Failed to acquire D-Bus name 'org.freedesktop.Avahi'
+dbus_connection_add_filter() failed
+type='signal',interface='org.freedesktop.DBus'
+dbus_connection_register_object_path() failed
+dbus-protocol.c: Connection failed, retrying in %ims...
+dbus-protocol.c: Successfully reconnected.
+dbus-protocol.c: interface=%s, path=%s, member=%s
+org.freedesktop.DBus.Introspectable
+org.freedesktop.Avahi.Server.xml
+Error parsing Server::GetHostName message
+Error parsing Server::SetHostName message
+Error parsing Server::GetDomainName message
+Error parsing Server::GetHostNameFqdn message
+Error parsing Server::IsNSSSupportAvailable message
+Error parsing Server::GetVersionString message
+Error parsing Server::GetAPIVersion message
+Error parsing Server::GetState message
+Error parsing Server::GetLocalServiceCookie message
+GetNetworkInterfaceNameByIndex
+Error parsing Server::GetNetworkInterfaceNameByIndex message
+GetNetworkInterfaceIndexByName
+Error parsing Server::GetNetworkInterfaceIndexByName message
+Error parsing Server::GetAlternativeHostName message
+Error parsing Server::GetAlternativeServiceName message
+Error parsing Server::EntryGroupNew message
+Too many clients, client request failed.
+Too many objects for client '%s', client request failed.
+Error parsing Server::ResolveHostName message
+Error parsing Server::ResolveAddress message
+Error parsing Server::DomainBrowserNew message
+Error parsing Server::ServiceTypeBrowserNew message
+/Client%u/ServiceTypeBrowser%u
+Error parsing Server::ServiceBrowserNew message
+Error parsing Server::ResolveService message
+Error parsing Server::ServiceResolverNew message
+dbus-protocol.c: Too many clients, client request failed.
+dbus-protocol.c: Too many objects for client '%s', client request failed.
+Error parsing Server::HostNameResolverNew message
+Error parsing Server::AddressResolverNew message
+Error parsing Server::RecordBrowserNew message
+Disconnected from D-Bus, trying to reconnect in %ims...
+Disconnected from D-Bus, exiting.
+Error parsing NameAcquired message
+Error parsing NameOwnerChanged message
+dbus-protocol.c: client %s vanished.
+org.freedesktop.Avahi.CollisionError
+WARNING: Failed to contact D-Bus daemon, retrying in %ims.
+msg_server_impl
+client_free
+client_get
+dbus_disconnect
+dbus_connect
+reconnect_callback
+dbus-util.c
+-error > -AVAHI_OK
+-error < -AVAHI_ERR_MAX
+ItemNew
+ItemRemove
+CacheExhausted
+AllForNow
+Found
+/usr/share/dbus-1/interfaces
+%s/%s
+Failed to open %s: %s
+stat(%s) failed: %s
+Invalid file %s
+File too large %s
+reply
+Error parsing data
+at == ((int) 'a')
+Error parsing TXT data
+dbus-util.c: Responding error '%s' (%i)
+Error parsing Introspect message: %s
+Failed to load introspection data.
+avahi_dbus_append_rdata
+avahi_dbus_read_strlst
+avahi_dbus_read_rdata
+avahi_dbus_append_string_list
+avahi_new_internal
+file_get_contents
+avahi_dbus_handle_introspect
+avahi_dbus_respond_error
+dbus-async-address-resolver.c
+i->client->n_objects >= 1
+address
+host_name
+Free
+org.freedesktop.Avahi.AddressResolver
+event == AVAHI_RESOLVER_FAILURE
+dbus-async-address-resolver.c: interface=%s, path=%s, member=%s
+org.freedesktop.Avahi.AddressResolver.xml
+Error parsing AddressResolver::Free message
+avahi_dbus_msg_async_address_resolver_impl
+avahi_dbus_async_address_resolver_callback
+avahi_dbus_async_address_resolver_free
+dbus-async-host-name-resolver.c
+org.freedesktop.Avahi.HostNameResolver
+dbus-async-host-name-resolver.c: interface=%s, path=%s, member=%s
+org.freedesktop.Avahi.HostNameResolver.xml
+Error parsing HostNameResolver::Free message
+avahi_dbus_msg_async_host_name_resolver_impl
+avahi_dbus_async_host_name_resolver_callback
+avahi_dbus_async_host_name_resolver_free
+dbus-async-service-resolver.c
+org.freedesktop.Avahi.ServiceResolver
+dbus-async-service-resolver.c: interface=%s, path=%s, member=%s
+org.freedesktop.Avahi.ServiceResolver.xml
+Error parsing ServiceResolver::Free message
+avahi_dbus_msg_async_service_resolver_impl
+avahi_dbus_async_service_resolver_callback
+avahi_dbus_async_service_resolver_free
+dbus-domain-browser.c
+dbus-domain-browser.c: interface=%s, path=%s, member=%s
+org.freedesktop.Avahi.DomainBrowser.xml
+org.freedesktop.Avahi.DomainBrowser
+Error parsing DomainBrowser::Free message
+avahi_dbus_domain_browser_callback
+avahi_dbus_msg_domain_browser_impl
+avahi_dbus_domain_browser_free
+dbus-entry-group.c
+Commit
+Reset
+IsEmpty
+AddService
+AddServiceSubtype
+UpdateServiceTxt
+AddAddress
+AddRecord
+org.freedesktop.Avahi.EntryGroup
+dbus-entry-group.c: interface=%s, path=%s, member=%s
+org.freedesktop.Avahi.EntryGroup.xml
+Error parsing EntryGroup::Free message
+Error parsing EntryGroup::Commit message
+Error parsing EntryGroup::Reset message
+Error parsing EntryGroup::IsEmpty message
+Error parsing EntryGroup::GetState message
+Error parsing EntryGroup::AddService message
+Error parsing EntryGroup::AddServiceSubtype message
+Error parsing EntryGroup::UpdateServiceTxt message
+Error parsing EntryGroup::AddAddress message
+Error parsing EntryGroup::AddRecord message
+avahi_dbus_msg_entry_group_impl
+avahi_dbus_entry_group_callback
+avahi_dbus_entry_group_free
+dbus-service-browser.c
+dbus-service-browser.c: interface=%s, path=%s, member=%s
+org.freedesktop.Avahi.ServiceBrowser.xml
+org.freedesktop.Avahi.ServiceBrowser
+Error parsing ServiceBrowser::Free message
+avahi_dbus_service_browser_callback
+avahi_dbus_msg_service_browser_impl
+avahi_dbus_service_browser_free
+dbus-service-type-browser.c
+dbus-service-type-browser.c: interface=%s, path=%s, member=%s
+org.freedesktop.Avahi.ServiceTypeBrowser.xml
+org.freedesktop.Avahi.ServiceTypeBrowser
+Error parsing ServiceTypeBrowser::Free message
+avahi_dbus_service_type_browser_callback
+avahi_dbus_msg_service_type_browser_impl
+avahi_dbus_service_type_browser_free
+dbus-sync-address-resolver.c
+avahi_dbus_sync_address_resolver_callback
+avahi_dbus_sync_address_resolver_free
+dbus-sync-host-name-resolver.c
+avahi_dbus_sync_host_name_resolver_callback
+avahi_dbus_sync_host_name_resolver_free
+dbus-sync-service-resolver.c
+avahi_dbus_sync_service_resolver_callback
+avahi_dbus_sync_service_resolver_free
+dbus-record-browser.c
+dbus-record-browser.c: interface=%s, path=%s, member=%s
+org.freedesktop.Avahi.RecordBrowser.xml
+org.freedesktop.Avahi.RecordBrowser
+Error parsing RecordBrowser::Free message
+dbus-record-browser.c: Failed to append rdata
+avahi_dbus_record_browser_callback
+avahi_dbus_msg_record_browser_impl
+avahi_dbus_record_browser_free
+org.freedesktop.Avahi.Failure
+../avahi-common/dbus.c
+error > AVAHI_ERR_MAX
+error < 1
+org.freedesktop.Avahi.OSError
+avahi_error_number_to_dbus
+A Santa lives evil at NASA
+avahi_error_dbus_to_number
+org.freedesktop.DBus.Error.Failed
+org.freedesktop.DBus.Error.NoMemory
+org.freedesktop.DBus.Error.ServiceUnknown
+org.freedesktop.DBus.Error.BadAddress
+org.freedesktop.DBus.Error.NotSupported
+org.freedesktop.DBus.Error.LimitsExceeded
+org.freedesktop.DBus.Error.AccessDenied
+org.freedesktop.DBus.Error.AuthFailed
+org.freedesktop.DBus.Error.NoServer
+org.freedesktop.DBus.Error.Timeout
+org.freedesktop.DBus.Error.NoNetwork
+org.freedesktop.DBus.Error.Disconnected
+org.freedesktop.DBus.Error.InvalidArgs
+org.freedesktop.DBus.Error.TimedOut
+org.freedesktop.Avahi.BadStateError
+org.freedesktop.Avahi.InvalidHostNameError
+org.freedesktop.Avahi.InvalidDomainNameError
+org.freedesktop.Avahi.NoNetworkError
+org.freedesktop.Avahi.InvalidTTLError
+org.freedesktop.Avahi.IsPatternError
+org.freedesktop.Avahi.InvalidRecordError
+org.freedesktop.Avahi.InvalidServiceNameError
+org.freedesktop.Avahi.InvalidServiceTypeError
+org.freedesktop.Avahi.InvalidPortError
+org.freedesktop.Avahi.InvalidKeyError
+org.freedesktop.Avahi.InvalidAddressError
+org.freedesktop.Avahi.TimeoutError
+org.freedesktop.Avahi.TooManyClientsError
+org.freedesktop.Avahi.TooManyObjectsError
+org.freedesktop.Avahi.TooManyEntriesError
+org.freedesktop.Avahi.InvalidOperationError
+org.freedesktop.Avahi.DBusError
+org.freedesktop.Avahi.DisconnectedError
+org.freedesktop.Avahi.NoMemoryError
+org.freedesktop.Avahi.InvalidObjectError
+org.freedesktop.Avahi.NoDaemonError
+org.freedesktop.Avahi.InvalidInterfaceError
+org.freedesktop.Avahi.InvalidInterfaceProtocolError
+org.freedesktop.Avahi.InvalidFlagsError
+org.freedesktop.Avahi.NotFoundError
+org.freedesktop.Avahi.InvalidConfigurationError
+org.freedesktop.Avahi.VersionMismatchError
+org.freedesktop.Avahi.InvalidServiceSubtypeError
+org.freedesktop.Avahi.InvalidPacketError
+org.freedesktop.Avahi.InvalidDNSErrorError
+org.freedesktop.Avahi.DNSFORMERR
+org.freedesktop.Avahi.DNSSERVFAIL
+org.freedesktop.Avahi.DNSNXDOMAIN
+org.freedesktop.Avahi.DNSNOTIMP
+alula
+org.freedesktop.Avahi.DNSREFUSED
+org.freedesktop.Avahi.DNSYXDOMAIN
+org.freedesktop.Avahi.DNSYXRRSET
+org.freedesktop.Avahi.DNSNXRRSET
+org.freedesktop.Avahi.DNSNOTAUTH
+org.freedesktop.Avahi.DNSNOTZONE
+org.freedesktop.Avahi.InvalidRDataError
+org.freedesktop.Avahi.InvalidDNSClassError
+org.freedesktop.Avahi.InvalidDNSTypeError
+org.freedesktop.Avahi.NotSupportedError
+org.freedesktop.Avahi.NotPermittedError
+org.freedesktop.Avahi.InvalidArgumentError
+org.freedesktop.Avahi.IsEmptyError
+org.freedesktop.Avahi.NoChangeError
+../avahi-common/dbus-watch-glue.c
+dbus_connection_get_dispatch_status(d->connection) == DBUS_DISPATCH_DATA_REMAINS
+dbus_watch
+dbus_timeout
+d->ref >= 1
+timeout->ref >= 1
+avahi_timeout
+avahi_watch
+connection_data_unref
+request_dispatch
+connection_data_ref
+dispatch_timeout_callback
+add_watch
+remove_watch
+watch_callback
+update_watch
+watch_toggled
+timeout_data_ref
+timeout_callback
+timeout_data_unref
+add_timeout
+remove_timeout
+update_timeout
+timeout_toggled
+avahi_dbus_connection_glue
+;*3$"
+d7beb091e8efc6fde557a2e8a6c0792a21265d.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

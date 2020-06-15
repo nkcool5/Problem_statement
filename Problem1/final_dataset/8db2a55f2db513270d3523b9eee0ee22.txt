@@ -1,0 +1,1265 @@
+/lib64/ld-linux-x86-64.so.2
+libfdisk.so.1
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+fdisk_has_label
+fdisk_label_get_field_by_name
+fdisk_ask_number_get_default
+fdisk_label_get_type
+fdisk_get_disklabel_id
+fdisk_sun_set_pcylcount
+fdisk_new_context
+fdisk_info
+fdisk_verify_disklabel
+fdisk_label_get_field
+fdisk_use_cylinders
+fdisk_label_get_fields_ids_all
+fdisk_save_user_sector_size
+fdisk_warn
+fdisk_label_get_nparttypes
+fdisk_ask_string
+fdisk_get_geom_heads
+fdisk_get_sector_size
+fdisk_create_disklabel
+fdisk_set_disklabel_id
+fdisk_override_geometry
+fdisk_ask_yesno_set_result
+fdisk_sun_set_rspeed
+fdisk_warnx
+fdisk_get_units_per_sector
+fdisk_dos_is_compatible
+fdisk_ask_menu_set_result
+fdisk_table_wrong_order
+fdisk_field_is_number
+fdisk_ask_number_set_result
+fdisk_label_set_disabled
+fdisk_is_listonly
+fdisk_delete_partition
+fdisk_get_parent
+fdisk_unref_partition
+fdisk_enable_bootbits_protection
+fdisk_is_readonly
+fdisk_sun_set_alt_cyl
+fdisk_ask_get_type
+fdisk_reread_partition_table
+fdisk_get_geom_cylinders
+fdisk_ask_string_set_result
+fdisk_is_details
+fdisk_partition_get_start
+fdisk_get_optimal_iosize
+fdisk_label_get_name
+fdisk_partition_has_size
+fdisk_get_alignment_offset
+fdisk_get_label
+fdisk_parttype_get_string
+fdisk_label_parse_parttype
+fdisk_label_is_changed
+fdisk_ask_number_get_high
+fdisk_sgi_set_bootfile
+fdisk_add_partition
+fdisk_set_partition_type
+fdisk_ask_get_query
+fdisk_get_minimal_iosize
+fdisk_enable_listonly
+fdisk_reorder_partitions
+fdisk_field_get_width
+fdisk_reset_iter
+fdisk_deassign_device
+fdisk_unref_table
+fdisk_ask_menu_get_item
+fdisk_get_partition
+fdisk_partition_to_string
+fdisk_get_freespaces
+fdisk_init_debug
+fdisk_label_has_code_parttypes
+fdisk_get_devfd
+fdisk_new_nested_context
+fdisk_script_write_file
+fdisk_new_script
+fdisk_sgi_create_info
+fdisk_ask_number_set_relative
+fdisk_label_get_fields_ids
+fdisk_locate_disklabel
+fdisk_field_get_id
+fdisk_list_disklabel
+fdisk_partition_get_size
+fdisk_ask_number_get_base
+fdisk_lba_is_phy_aligned
+fdisk_parttype_get_name
+fdisk_get_partitions
+fdisk_unref_context
+fdisk_free_iter
+fdisk_toggle_partition_flag
+fdisk_reset_alignment
+fdisk_assign_device
+fdisk_ask_number_get_range
+fdisk_new_partition
+fdisk_enable_details
+fdisk_label_get_parttype
+fdisk_set_unit
+fdisk_partition_set_uuid
+fdisk_ask_number
+fdisk_get_nsectors
+fdisk_partition_get_partno
+fdisk_set_size_unit
+fdisk_new_script_from_file
+fdisk_write_disklabel
+fdisk_dos_move_begin
+fdisk_bsd_write_bootstrap
+fdisk_set_ask
+fdisk_get_geom_sectors
+fdisk_label_require_geometry
+fdisk_has_user_device_properties
+fdisk_next_label
+fdisk_ask_number_inchars
+fdisk_partition_get_type
+fdisk_is_labeltype
+fdisk_ask_print_get_errno
+fdisk_gpt_is_hybrid
+fdisk_ask_menu_get_default
+fdisk_sun_set_xcyl
+fdisk_ask_number_get_low
+fdisk_get_physector_size
+fdisk_unref_script
+fdisk_table_get_nents
+fdisk_save_user_geometry
+fdisk_bsd_link_partition
+fdisk_ask_print_get_mesg
+fdisk_parttype_get_code
+fdisk_script_read_context
+fdisk_ask_number_get_unit
+fdisk_partition_set_name
+fdisk_table_next_partition
+fdisk_bsd_edit_disklabel
+fdisk_apply_script
+fdisk_dos_enable_compatible
+fdisk_get_unit
+fdisk_sun_set_ilfact
+fdisk_new_iter
+fdisk_partition_has_start
+fdisk_get_devname
+fdisk_ask_partnum
+fdisk_unref_parttype
+fdisk_set_partition
+fdisk_field_get_name
+libsmartcols.so.1
+scols_print_table
+scols_init_debug
+scols_cell_set_color
+scols_line_refer_data
+scols_table_enable_colors
+scols_column_get_header
+scols_table_is_empty
+scols_new_table
+scols_table_new_line
+scols_unref_table
+scols_table_new_column
+libtinfo.so.5
+setupterm
+tigetnum
+libc.so.6
+fflush
+__rawmemchr
+__printf_chk
+readdir
+_IO_putc
+setlocale
+mbrtowc
+fopen
+strncmp
+optind
+strrchr
+readlinkat
+__strdup
+rpmatch
+dcgettext
+closedir
+nanosleep
+strncpy
+mbstowcs
+vfscanf
+__stack_chk_fail
+putchar
+iswprint
+mkdir
+realloc
+rewinddir
+abort
+stdin
+_exit
+getpid
+strspn
+__assert_fail
+strtod
+__ctype_get_mb_cur_max
+strtol
+isatty
+feof
+fgetc
+fgets
+calloc
+strlen
+localeconv
+strstr
+strcspn
+__errno_location
+read
+memcmp
+ttyname
+mempcpy
+__fprintf_chk
+stdout
+fputc
+fputs
+lseek
+memcpy
+fclose
+__strtol_internal
+strtoul
+malloc
+umask
+strcasecmp
+fdopendir
+realpath
+setegid
+__openat_2
+__strndup
+getgid
+__ctype_b_loc
+Do nine men interpret Nine men I nod
+getenv
+sscanf
+optarg
+stderr
+wcwidth
+ioctl
+__snprintf_chk
+seteuid
+getuid
+readlink
+getegid
+getopt_long
+strncasecmp
+__fxstat
+fwrite
+geteuid
+__memcpy_chk
+__fpending
+strchr
+__vfprintf_chk
+program_invocation_short_name
+fdopen
+qsort
+wcstombs
+__ctype_toupper_loc
+__ctype_tolower_loc
+fcntl
+__sprintf_chk
+__xstat
+getdtablesize
+errx
+memmove
+uname
+mkostemp
+bindtextdomain
+access
+__fxstatat
+faccessat
+strcmp
+__asprintf_chk
+__libc_start_main
+dirfd
+ferror
+basename
+__strtoul_internal
+free
+__progname
+__cxa_atexit
+NCURSES_TINFO_5.0.19991023
+SMARTCOLS_2.25
+GLIBC_2.14
+GLIBC_2.8
+GLIBC_2.7
+GLIBC_2.4
+GLIBC_2.3.4
+GLIBC_2.2.5
+GLIBC_2.3
+FDISK_2.27
+FDISK_2.26
+%zA!
+%rA!
+%jA!
+%bA!
+%ZA!
+%RA!
+%JA!
+%BA!
+%:A!
+%2A!
+%*A!
+%"A!
+%z@!
+%r@!
+%j@!
+%b@!
+%Z@!
+%R@!
+%J@!
+%B@!
+%:@!
+%2@!
+%*@!
+%"@!
+%z?!
+%r?!
+%j?!
+%b?!
+%Z?!
+%R?!
+%J?!
+%B?!
+%:?!
+%2?!
+%*?!
+%"?!
+%z>!
+%r>!
+%j>!
+%b>!
+%Z>!
+%R>!
+%J>!
+%B>!
+%:>!
+%2>!
+%*>!
+%">!
+%z=!
+%r=!
+%j=!
+%b=!
+%Z=!
+%R=!
+%J=!
+%B=!
+%:=!
+%2=!
+%*=!
+%"=!
+%z<!
+%r<!
+%j<!
+%b<!
+%Z<!
+%R<!
+%J<!
+%B<!
+%:<!
+%2<!
+%*<!
+%"<!
+%z;!
+%r;!
+%j;!
+%b;!
+%Z;!
+%R;!
+%J;!
+%B;!
+%:;!
+%2;!
+%*;!
+%";!
+%z:!
+%r:!
+%j:!
+%b:!
+%Z:!
+%R:!
+%J:!
+%B:!
+%::!
+%2:!
+%*:!
+%":!
+%z9!
+%r9!
+%j9!
+%b9!
+%Z9!
+%R9!
+%J9!
+%B9!
+%:9!
+%r0!
+AWAVAUATUSH
+D$(1
+=!C!
+=-C!
+L$(dH3
+8[]A\A]A^A_
+=eA!
+-v@!
+t$ 1
+T$ H
+T$ H
+=Q;!
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+={:!
+5Q:!
+AWAVI
+AUATI
+D$81
+~vI)
+D$8dH3
+[]A\A]A^A_
+|$ 1
+D$8dH3
+H[]A\A]A^A_
+-$6!
+ATUSH
+8 t;
+[]A\
+AUATI
+=n2!
+[]A\A]
+AWAVAUATUSH
+5U0!
+5F0!
+l$P1
+L$HL
+alula
+L$<H
+D$HH
+L$@H
+T$<H
+l$PE
+D9t$<L
+T$<E1
+D$(H
+H;D$ 
+t$(I
+-[.!
+=A.!
+55.!
+[]A\A]A^A_
+D$(H
+H;D$
+t$PE
+T$@H
+D$ H
+t$HH9t$
+H9t$
+5Q+!
+- +!
+5=*!
+=3*!
+T$PH
+H9D$
+H9D$ 
+t$H1
+T$HH9
+t$(AVI
+AZA[
+=o&!
+L$@H
+t$HA
+D$ H+D$H
+D$H1
+t$(H
+D$(H
+L$ H
+L$81
+D$0H
+L$(H
+t$ I
+AWAVAUATUSH
+[]A\A]A^A_
+t$0E1
+5V!!
+ATUSH
+dH34%(
+[]A\
+[]A\
+[]A\
+AUATUSH
+([]A\A]
+AVAU1
+ATUH
+D$(1
+L$(dH3
+0[]A\A]A^
+H9T$
+L$ D
+l$ M
+ATUSH
+[]A\1
+ATUSH
+ []A\
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AWAVAUATI
+[]A\A]A^A_
+t19D$
+[]A\A]A^A_
+/ukH
+<ot~<su
+<st+<c
+AUATUSH
+<Mt9<i
+([]A\A]
+<iu9H
+<au$1
+ATUH
+u9<b
+[]A\
+<st*<xuOH
+<eu=H
+AWAVAUATI
+D$81
+L$8dH3
+H[]A\A]A^A_
+-tmH
+t$ 1
+D$ 1
+Tacocat
+T$ H
+T$ H
+t$ H
+t$ H
+D$ 1
+AUATI
+[]A\A]
+ATSH
+[A\]
+AUATUSH
+[]A\A]
+AWAV1
+AUATUSH
+[]A\A]A^A_
+AWAVE1
+AUATE1
+D$(1
+D$(dH3
+8[]A\A]A^A_
+L$ H
+T$ H
+AUATA
+[]A\A]
+[]A\A]
+[]A\A]
+ATUI
+[]A\
+AWAVAUATI
+([]A\A]A^A_
+ATUH
+[]A\
+AWAVAUATUSH
+D$H1
+t$(H
+uOE1
+D$HdH3
+X[]A\A]A^A_
+T$81
+L9|$8
+|$(H
+tTE1
+L9d$8v
+|$0H
+L$@H
+T$@L
+|$(H
+AVAUA
+[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+AUATI
+[]A\A]
+ATE1
+]A\A]A^
+[]A\A]A^
+T$`H
+ATUH
+[]A\
+ATUSH
+dH34%(
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+ATUSH
+[]A\
+AWAVAUATUSH
+D$81
+D$0E1
+D$,H
+toL9
++wg@
+L$8dH3
+H[]A\A]A^A_
+@t+I
+AWAVAUATUSH
+D$81
+D$0E
+D$,H
+|$,D
+t$8dH34%(
+H[]A\A]A^A_
+@t<A
+tCUSH
+AVAUI
+ATUE1
+]A\A]A^
+AWAVE
+AUATI
+T$0L
+[]A\A]A^A_
+\$8L
+|$0H
+l$8E1
+l$8I
+D$(H
+l$8Mc
+tqAUATE1
+$<\tL
+[]A\A]
+AWAVH
+AUATUSH
+t$(1
+D$ H
+t$ H
+T$ H
+|$(dH3<%(
+8[]A\A]A^A_
+|$ A
+d$ A
+<$0u
+L$ H
+T$ I
+VUUU
+tsUSH
+AUATI
+T$0H
+L$8L
+D$@L
+L$HH
+X[]A\A]
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+$u9H
+AUAT%
+[]A\A]
+[]A\A]
+AUATUSH
+D$81
+gfffH
+SATA
+\$8dH3
+H[]A\A]
+AWAVE1
+AUATI
+taI9
+tPL9
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
++t+H
+AVAUI
+A Santa lives evil at NASA
+ATUI
+tbf.
+<,t]
+u5H9
+[]A\A]A^
+]A\A]A^
+AUATI
+<,tM
+u$H9
+x&I	E
+[]A\A]
+[]A\A]
+AVAUATUSH
+-t'1
+dH34%(
+[]A\A]A^
+AUATUSH
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUS1
+([]A\A]A^A_
+AUATI
+[]A\A]
+Eleele
+]A\A]
+ZYx;H
+dH34%(
+AUATI
+[]A\A]
+l$8H
+tISH
+AUATI
+dH34%(
+[]A\A]
+AUATI
+[]A\A]
+]A\A]
+[]A\A]
+AVAUI
+ATUI
+[]A\A]A^
+;/tZM
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+AWAVA
+AUAT1
+D9|$
+[]A\A]A^A_
+AWAVAUATI
+~NH)
+([]A\A]A^A_
+AWAVAUATUSH
+D$81
+L$8dH3
+H[]A\A]A^A_
+~NH)
+ATUI
+[]A\
+ATUI
+[]A\
+AVAUI
+ATU1
+/dev
+D$X%
+L;l$hu
+[]A\A]A^
+/sys/dev
+/blo
+AVAUATUSH
+/subsyst
+[]A\A]A^
+AWAVH
+AUATI
+[]A\A]A^A_
+AWAVAUATUSH
+l$P1
+[]A\A]A^A_
+ATUH
+D$81
+\$8dH3
+@[]A\
+AWAVAUATUSH
+dH34%(
+[]A\A]A^A_
+AUATI
+thAT
+ZYx0Hc
+[]A\A]
+D$ P
+D$$PD
+L$(1
+x3Hc
+D$ P
+D$$PD
+ATUSH
+[]A\
+ATU1
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+dH34%(
+ATUI
+ []A\
+[]A\
+AUATA
+[]A\A]
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AWAVH
+AUAT
+|$@H
+t$(L
+[]A\A]A^A_
+H9l$
+T$8L
+\$0L
+D$ H
+T$8L
+\$0L
+T$8H
+T$8L
+AWAVAUATUSH
+l$ L
+dH34%(
+[]A\A]A^A_
+AWAVAUATI
+[]A\A]A^A_
+[]A\
+-uq 
+t^USH
+AWAVA
+AUATI
+USE1
+5Zk 
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVA
+AUATL
+%fj 
+-fj 
+[]A\A]A^A_
+%s: offset = %ju, size = %zu bytes.
+ %1$s [options] <disk>      change partition table
+ %1$s [options] -l [<disk>] list partition table(s)
+Display or manipulate a disk partition table.
+ -b, --sector-size <size>      physical and logical sector size
+ -B, --protect-boot            don't erase bootbits when create a new label
+ -c, --compatibility[=<mode>]  mode is 'dos' or 'nondos' (default)
+ -L, --color[=<when>]          colorize output (auto, always or never)
+                                 %s
+ -l, --list                    display partitions end exit
+Borrow or rob
+ -o, --output <list>           output columns
+ -t, --type <type>             recognize specified partition table type only
+ -u, --units[=<unit>]          display units: 'cylinders' or 'sectors' (default)
+ -s, --getsz                   display device size in 512-byte sectors [DEPRECATED]
+     --bytes                   print SIZE in bytes rather than in human readable format
+ -C, --cylinders <number>      specify the number of cylinders
+ -H, --heads <number>          specify the number of heads
+ -S, --sectors <number>        specify the number of sectors per track
+ -h, --help     display this help and exit
+ -V, --version  output version information and exit
+asking for number ['%s', <%ju,%ju>, default=%ju, range: %s]
+asking for offset ['%s', <%ju,%ju>, base=%ju, default=%ju, range: %s]
+final offset: %ju [sig: %c, power: %d, %s]
+yes-no ask: reply '%s' [rc=%d]
+string ask: reply '%s' [rc=%d]
+internal error: unsupported dialog type %d
+Partition type (type L to list all types): 
+Hex code (type L to list all codes): 
+DOS Compatibility flag is set (DEPRECATED!)
+DOS Compatibility flag is not set
+Partition %zu does not exist yet!
+Changed type of partition '%s' to '%s'.
+Type of partition %zu is unchanged: %s.
+failed to allocate libfdisk context
+unknown compatibility mode '%s'
+The device properties (sector size and geometry) should be used with one specified device only.
+Changes will remain in memory only, until you decide to write them.
+Be careful before using the write command.
+Device is open in read-only mode.
+Device does not contain a recognized partition table.
+A hybrid GPT was detected. You have to sync the hybrid MBR manually (expert command 'M').
+disk-utils/fdisk.c
+fd >= 0
+cannot seek
+cannot allocate %zu bytes
+cannot read
+%08jx 
+ %02x
+Usage:
+Options:
+colors are enabled by default
+For more details see %s.
+fdisk(8)
+write error
+Do you really want to quit? 
+fdisk
+%d: %s: %8s: 
+user's reply: >>>%s<<<
+relative
+absolute
+   %c   %s (%s)
+Select (default %c): 
+Using default response %c.
+Value out of range.
+%s (%s, default %c): 
+%s (%s, default %ju): 
+%s (%c-%c, default %c): 
+%s (%ju-%ju, default %ju): 
+%s (%c-%c): 
+%s (%ju-%ju): 
+parsed size: %ju
+[31m
+warn
+: %m
+ [Y]es/[N]o: 
+%s: 
+cannot duplicate string
+%c%2x  
+%-15.15s
+%3zu %-30s %s
+Unknown
+%15s: %s
+First sector
+/usr/share/locale
+util-linux
+FDISK_DEBUG
+invalid sector size argument
+invalid cylinders argument
+not found DOS label driver
+nondos
+invalid heads argument
+invalid sectors argument
+unsupported color mode
+unsupported disklabel: %s
+%s from %s
+util-linux 2.27.1
+b:Bc::C:hH:lL::o:sS:t:u::vV
+cannot open %s
+BLKGETSIZE ioctl failed on %s
+%s: %ju
+[32m
+welcome
+Welcome to fdisk (%s).
+color
+compatibility
+getsz
+help
+list
+sector-size
+version
+output
+protect-boot
+dump_disklabel
+dump_blkdev
+dump_firstsector
+ask_partition_type
+change_partition_type
+list_partition_types
+ask_offset
+ask_number
+ask_callback
+disk-utils/fdisk-menu.c
+MENU
+enter Create label menu
+enter GEO menu
+Number of cylinders
+Number of heads
+Number of sectors
+fdisk_is_label(cxt, GPT)
+enter GPT menu
+New name
+enter SUN menu
+fdisk_is_label(cxt, SUN)
+enter SGI menu
+fdisk_is_label(cxt, SGI)
+enter DOS menu
+Leaving nested disklabel.
+fdisk_is_label(cxt, BSD)
+enter BSD menu
+failed to write disklabel
+warning: duplicate key '%c'
+       : %s
+Help (expert commands):
+Help:
+help-title
+  %s
+   %c   %s
+Enter script file name
+Cannot open %s
+Failed to apply script %s
+Script successfully applied.
+Failed to write script %s
+Script successfully saved.
+Expert command (m for help): 
+Command (m for help): 
+selected: key=%c, entry='%s'
+no callback for key '%c'
+God A red nugget A fat egg under a dog
+process menu done [rc=%d]
+%c: unknown command
+edit drive data
+install bootstrap
+Beeb
+show complete disklabel
+DOS (MBR)
+toggle a bootable flag
+edit nested BSD disklabel
+change the disk identifier
+select bootable partition
+edit bootfile entry
+select sgi swap partition
+create SGI info
+toggle the read-only flag
+toggle the mountable flag
+change interleave factor
+change rotation speed (rpm)
+change disk GUID
+change partition name
+change partition UUID
+enter protective/hybrid MBR
+toggle the GUID specific bits
+Geometry
+change number of cylinders
+change number of heads
+Create a new label
+Generic
+delete a partition
+list free unpartitioned space
+list known partition types
+add a new partition
+print the partition table
+change a partition type
+verify the partition table
+fix partitions order
+Misc
+print this menu
+change display/entry units
+Script
+Save & Exit
+write table to disk and exit
+write table to disk
+quit without saving changes
+return to main menu
+return from BSD to DOS
+Entering protective/hybrid MBR disklabel.
+New UUID (in 8-4-4-4-12 format)
+Entering nested BSD disklabel.
+The partition table has been altered.
+warning: not found entry for %c
+You're editing nested '%s' partition table, primary partition table is '%s'.
+Could not delete partition %zu
+Partition %zu has been deleted.
+Failed to parse script file %s
+Failed to allocate script handler
+Failed to transform disk layout into script
+Changing display/entry units to cylinders (DEPRECATED!).
+Changing display/entry units to sectors.
+link BSD partition to non-BSD partition
+toggle the dos compatibility flag
+move beginning of data in a partition
+return from protective/hybrid MBR to GPT
+change number of alternate cylinders
+change number of extra sectors per cylinder
+change number of physical cylinders
+toggle the legacy BIOS bootable flag
+toggle the no block IO protocol flag
+toggle the required partition flag
+change number of sectors/track
+create a new empty GPT partition table
+create a new empty SGI (IRIX) partition table
+create a new empty DOS partition table
+create a new empty Sun partition table
+create an IRIX (SGI) partition table
+print information about a partition
+print the raw data of the first sector from the device
+print the raw data of the disklabel from the device
+extra functionality (experts only)
+load disk layout from sfdisk script file
+dump disk layout to sfdisk script file
+bsd_menu_cb
+sgi_menu_cb
+sun_menu_cb
+gpt_menu_cb
+geo_menu_cb
+createlabel_menu_cb
+next_menu_entry
+disk-utils/fdisk-list.c
+namesz
+fields_label
+%s unknown column: %s
+ %*d %*d %*d %128[^
+header
+Alignment offset: %lu bytes
+Disklabel type: %s
+Disk identifier: %s
+Start
+failed to allocate iterator
+/proc/partitions
+Available columns (for -o):
+ %s:
+     
+Sectors
+Size
+Disk %s: %s, %ju bytes, %ju sectors
+Geometry: %d heads, %llu sectors/track, %llu cylinders
+Units: %s of %d * %ld = %ld bytes
+Sector size (logical/physical): %lu bytes / %lu bytes
+I/O size (minimum/optimal): %lu bytes / %lu bytes
+failed to allocate output table
+failed to allocate output line
+Unpartitioned space %s: %s, %ju bytes, %ju sectors
+Partition %zu does not start on physical sector boundary.
+Partition table entries are not in disk order.
+fieldname_to_id
+list_disklabel
+@tape
+printer
+processor
+worm
+scanner
+mo-disk
+changer
+comm
+raid
+enclosure
+no-lun
+/dm-
+/sys/block/%s/dm/name
+/dev/mapper/%s
+\x%02x
+Degas are we not drawn onward no In union drawn onward to new eras aged
+KMGTPEYZ
+kmgtpeyz
+%s: '%s'
+BKMGTPE
+%d%s%jd%s
+%d%s
+.Aqueue/
+/sys/dev/block/%d:%d/%s
+/sys/dev/block/%d:%d
+/dev/
+/sys/block/%s/%s/dev
+/sys/block/%s/dev
+%s/start
+%s/partition
+%1023[^
+slaves
+removable
+dm/uuid
+part
+LVM-
+device
+%u:%u:%u:%u
+/sys/class/%s_host/host%d/%s
+/sys/class/%s_host/host%d
+ieee1394
+pcmcia
+/sys/bus/scsi/devices/%d:%d:%d:%d/%s
+/sys/bus/scsi/devices/%d:%d:%d:%d
+COLUMNS
+%d.%d.%d
+/tmp/
+TMPDIR
+%s/%s.XXXXXX
+CONF
+termcolors
+terminal is NOT ready
+SCHEME
+free scheme
+disable
+enable
+reading dir: '%s'
+unknown type '%s'
+setting '%s' from %d -to-> %d
+%s/%s
+TERM
+XDG_CONFIG_HOME
+%s/terminal-colors.d
+%s/.config/terminal-colors.d
+/etc/terminal-colors.d
+reading file '%s'
+%128[^ ] %128[^
+add '%s'
+[%sm
+unknown logical name: %s
+sort scheme
+search '%s'
+undefined
+auto
+never
+always
+TERMINAL_COLORS_DEBUG
+Colors:
+	utilname = '%s'
+	termname = '%s'
+	scheme file = '%s'
+	mode = %s
+	has_colors = %d
+	disabled = %d
+	configured = %d
+	cs configured = %d
+	score %s = %d
+	scheme #%02zu 
+terminal is ready (supports %d colors)
+item '%s': score=%d [cur: %d, name(%zu): %s, term(%zu): %s]
+black
+[30m
+[34m
+brown
+[33m
+[36m
+darkgray
+[1;30m
+[37m
+lightblue
+[1;34m
+lightcyan
+[1;36m
+lightgray,
+lightgreen
+[1;32m
+lightmagenta
+[1;35m
+lightred
+[1;31m
+[35m
+yellow
+[1;33m
+;*3$"
+13b8ff230d99f66052a71f5ecaca5e91113020.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.data.rel.ro
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

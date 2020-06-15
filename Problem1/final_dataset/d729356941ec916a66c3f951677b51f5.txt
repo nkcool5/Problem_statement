@@ -1,0 +1,3326 @@
+/lib64/ld-linux-x86-64.so.2
+fRtJ
+ugUa
+libopcodes-2.26.1-system.so
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+_fini
+i386_optab
+i386_regtab_size
+i386_regtab
+libbfd-2.26.1-system.so
+bfd_cache_close_all
+bfd_set_section_size
+xexit
+_hex_value
+bfd_reloc_name_lookup
+bfd_target_list
+bfd_set_section_contents
+xstrdup
+bfd_elf_add_obj_attr_string
+bfd_elf_set_obj_attr_contents
+bfd_update_compression_header
+_sch_tolower
+concat
+bfd_get_reloc_size
+bfd_set_error_program_name
+bfd_is_local_label
+_sch_istable
+bfd_elf_add_obj_attr_int_string
+xmalloc_set_program_name
+bfd_alloc
+bfd_close
+bfd_make_section_old_way
+xcalloc
+bfd_errmsg
+bfd_hash_set_default_size
+bfd_elf_obj_attr_size
+filename_ncmp
+bfd_get_section_by_name
+bfd_map_over_sections
+Do nine men interpret Nine men I nod
+unlink_if_ordinary
+xmalloc
+bfd_set_section_flags
+_bfd_std_section
+hex_init
+bfd_set_format
+xrealloc
+bfd_set_symtab
+bfd_get_reloc_code_name
+bfd_elf_add_obj_attr_int
+_sch_toupper
+bfd_scan_vma
+bfd_get_section_by_name_if
+_bfd_elf_large_com_section
+bfd_get_compression_header_size
+lbasename
+bfd_arch_bits_per_address
+getpwd
+bfd_get_error
+bfd_install_relocation
+bfd_reloc_type_lookup
+bfd_openw
+filename_cmp
+bfd_get_arch_size
+_bfd_elf_obj_attrs_arg_type
+bfd_init
+xstrerror
+bfd_make_section_anyway
+bfd_elf_get_default_section_type
+bfd_set_reloc
+_xexit_cleanup
+libz.so.1
+deflate
+deflateEnd
+deflateInit_
+libc.so.6
+fflush
+strcpy
+__printf_chk
+_IO_putc
+setlocale
+fopen
+strncmp
+optind
+dcgettext
+__mempcpy_chk
+ftell
+strncpy
+mbstowcs
+__stack_chk_fail
+abort
+stdin
+strftime
+sbrk
+strtol
+feof
+fgetc
+fgets
+strlen
+ungetc
+memset
+strstr
+__errno_location
+fseek
+mempcpy
+__fprintf_chk
+stdout
+fputc
+getrusage
+fputs
+memcpy
+fclose
+__vsnprintf_chk
+strtoul
+strcasecmp
+_obstack_allocated_p
+optarg
+stderr
+_obstack_begin_1
+_obstack_newchunk
+__snprintf_chk
+strncasecmp
+_obstack_memory_used
+fwrite
+fread
+__memcpy_chk
+localtime
+strchr
+__vfprintf_chk
+obstack_alloc_failed_handler
+__sprintf_chk
+memmove
+_obstack_begin
+bindtextdomain
+_IO_getc
+strcmp
+__asprintf_chk
+__libc_start_main
+ferror
+stpcpy
+getopt_long_only
+_obstack_free
+_edata
+__bss_start
+_end
+GLIBC_2.14
+GLIBC_2.8
+GLIBC_2.4
+GLIBC_2.2.5
+GLIBC_2.3.4
+%zf%
+%rf%
+%jf%
+%bf%
+%Zf%
+%Rf%
+%Jf%
+%Bf%
+%:f%
+%2f%
+%*f%
+%"f%
+%ze%
+%re%
+%je%
+%be%
+%Ze%
+%Re%
+%Je%
+%Be%
+%:e%
+%2e%
+%*e%
+%"e%
+%zd%
+%rd%
+%jd%
+%bd%
+%Zd%
+%Rd%
+%Jd%
+%Bd%
+%:d%
+%2d%
+%*d%
+%"d%
+%zc%
+%rc%
+%jc%
+%bc%
+%Zc%
+%Rc%
+%Jc%
+%r_%
+ATUI
+[]A\
+AWAVAUATUSH
+5<h%
+D$,H
+5~"-
+l$p1
+l$p1
+C$toH
+AWAVI
+AUATL
+*tJL9
+*ulL9
+[]A\A]A^A_
+]A\A]A^A_
+	wTL
+*uWL9
+AVAUI
+ATUH
+D$(1
+L$(dH3
+0[]A\A]A^
+ATU1
+[]A\H
+AWAVAUATSH
+H+0H
+[A\A]A^A_]
+AVAUI
+ATUI
++C I
+[]A\A]A^
+AUATI
+[]A\A]
+D$H1
+"t`1
+D$HdH3
+P[]A\
+T$ H
+T$(H
+T$0H
+T$8H
+T$@H
+D$0H
+D$h1
+D$\H
+T$0H
+T$8H
+T$@H
+T$HH
+T$PH
+T$XH
+T$`H
+D$PH
+D$hdH3
+D$ H
+D$ H
+D$81
+T$ H
+T$(H
+T$0H
+D$ H
+D$8dH3
+< tB
+AUATUS
+D$H1
+HcT$
+D$<H
+T$ H
+T$(H
+T$0H
+T$8H
+T$@H
+D$HdH3
+X[]A\A]
+D$0H
+="k-
+D$(1
+D$(dH3
+55h-
+F H95
+s	H95
+5!z-
+5"z-
+=Eg-
+P,t+H
+ATUS
+D$H1
+D$HdH3
+P[]A\
+HcT$
+D$<H
+T$ H
+T$(H
+T$0H
+T$8H
+T$@H
+D$0H
+.t"H
+<IuF
+t\9x4|W
+t89^4|3H95wt-
+s"H95{t-
+5bt-
+5ct-
+AWAVI
+AUATI
+ tGA
+[]A\A]A^A_
+AUATI
+[]A\A]
+[]A\A]
+t<USH
+=A_-
+5|p-
+ATUH
+I;l$
+[]A\
+ATUI
+[]A\
+AWAVA
+AUATI
+=>\-
+=;\-
+=*[-
+=dZ-
+D9%+Z-
+([]A\A]A^A_
+-vY-
+ATUI
+AWAVAUATI
+USHc
+[]A\A]A^A_
+[]A\A]A^A_
+ATUSH
+ATUH
+[]A\H
+D$(1
+D$(dH3
+D$x1
+=Ed-
+D$xdH3
+AUAT1
+USHc
+=Tb-
+D$ H
+\$ H
+\$ H
+[]A\A]
+AWAVAUATSH
+[A\A]A^A_]
+;iu:
+AWAVAUATUSH
+D$81
+HcC`
+D$8dH3
+H[]A\A]A^A_
+HcC`H9C
+5NH-
+AWAV
+AUATUSH
+D$LH
+=CZ-
+T$LE
+[]A\A]A^A_
+|$PH
+|$`D
+\$hH
+D;%xD-
+D;%3D-
+t$8H
+T$H1
+L;t$
+T$(H
+t$ H
+\$(D
+D$0E
+D$ t
+H+t$0
+D$8H
+=}S-
+=aS-
+=HS-
+={?-
+t/E1
+|$pH
+|$`I
+l$`H
+t$`L
+l$hH
+l$(L
+=B;-
+D$@H
+D$@H
+|$@H
+H+D$
+-4K-
+D$(1
+L$(dH3
+`u8H
+8,tG
+8,tH
+ATUSH
+<"td
+t#;-
+[]A\
+z	_t?
+< tu<,t9
+< tY
+ATUSH
+D$(1
+D$(dH3
+0[]A\
+-	@-
+,t,H
+=d;-
+AUATA
+D$(1
+D$(dH3
+8[]A\A]
+AWAVI
+AUATI
+D$X1
+D$XdH3
+h[]A\A]A^A_
+< tW
+uc<"t_
+ATUA
+=	6-
+[]A\
+AVAUI
+ATUI
+D$(1
+U(f9P
+P8A:UHu
+]@H9X0u
+]0H9X u
+C8tQ
+H;kHt
+H;kHu
+\$(dH3
+0[]A\A]A^
+ATUI
+[]A\
+-|0-
+ATUSH
+=P'-
+[]A\
+	tXH
+AUATUSH
+([]A\A]
+Hc] 
+:L0|u
+:L0|
+:L0|
+|8|@
+?~[H=
+~lH=
+HcE H
+Hc] L
+HcU H
+HcE H
+@8D)
+?~AH=
+AUATUSH
+[]A\A]
+D%|H
+AWAVAUATUSH
+t+f.
+[]A\A]A^A_
+t	fA
+[]A\A]A^A_
+D$(1
+L$(dH3
+t6H;x
+D$(1
+T$(dH3
+D$(1
+T$(dH3
+AVAUATUSH
+D$H1
+L$0H
+T$ H
+L$HdH3
+P[]A\A]A^
+L$0H
+T$ H
+L$8H
+T$(H
+T$ H
+D$(H=
+H9|$
+t(H=
+L$0H
+T$ H
+D$ H
+<$H=
+H9L$
+H9L$
+H9L$
+H9L$
+H;L$
+H#t$
+H3t$
+T$ H
+D$(H9
+D$(H=
+T$ H
+D$(H=
+D$ L
+D$ H
+D$(H=
+D$ L
+L+t$
+D$ H
+t$8H
+|$0H
+H9|$
+H;T$(
+D$8H9D$0
+"tSH
+AWAVI
+AUATUSH
+\$X1
+t$XdH34%(
+h[]A\A]A^A_
+D$0H
+|$0H
+T$(H
+D$0D
+D$0@:|$
+D$H<
+L9,$
+tTI9
+t?I9
+@8|$
+D$HA
+T$@A
+2D$I
+D$0A
+D$0A
+D$8H
+T$@I
+2D$II
+|$(H
+|$'H
+t$(D
+|$@M
+D$II
+L9,$A
+t$L;-
+L;-&
+>H9|$0
+T$'H
+D$(H
+!u:H
+T$@A
+2D$I
+L9,$
+|$01
+2D$II
+T$(H
+D$0H
+|$01
+T$(L
+|$0H
+L$@H
+2D$IH)
+T$(H
+2D$II
+AUATA
+8 tyH
+([]A\A]
+tSL;-
+D$(1
+T$(dH3
+ATUH
+[]A\
+[]A\
+[]A\
+AWAV
+AUAT
++USE1
+[]A\A]A^A_
+H)L$
+@HH)
+CHH9C@
+CHH)
+H;-R
+BPH+BHH9
+j0H9
+BPH+BHH9
+AVAUA
+ATUA
+t$HL
+[]A\A]A^
+BPH+BH
+@HH)
+v5H9
+t5H9
+v8I)
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+ATUH
+Hc5L
+C(H9
+C(I)
+[]A\
+ATUI
+ []A\
+C(H9
+C(H)
+ATUI
+ []A\
+C(H9
+C(H)
+ATUI
+[]A\
+ATUA
+ []A\
+H;C0s
+tOAUATI
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+D$X1
+D$XdH3
+tvUSH
+-pr$
+ATUSH
+[]A\
+[]A\
+[]A\
+tg~%
+AUATUSH
+[]A\A]
+AWAVAUATUSH
+H;}Pu
+H;EP
+[]A\A]A^A_
+ t.H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AWAVAUATUS
+D95tf$
+([]A\A]A^A_
+[]A\A]A^A_1
+<.t8
+AWAVI
+AUATI
+[]A\A]A^A_
+<\tt
+Q H9
+H;PPu
+AWAVAUATUSH
+[]A\A]A^A_
+L$ u
+vtTH
+|$hH
+|$pI
+L$pH
+D$(L
+T$8H
+T$8H
+D$0I
+D$0L
+D$@D
+L$@H
+l$LH
+D$HL
+d$XL
+l$PD
+L$0I9
+H9T$0
+d$ D
+|$(E
+Lc5m
+d$ D
+l$LD
+d$XL
+l$PD
+t$0tZ
+9\$Hv
+D$0H
+D$0H
+t$@1
+D$(H
+L$ M
+l$P1
+l$LD
+d$XD
+|$\I
+t$0H
+\$8H
+T$Ht	
+AUATA
+[]A\A]
+[]A\A]
+[]A\A]
+AUATUSH
+H9:v,H
+[]A\A]
+AWAVI
+AUATE
+toM9
+@tWA
+[]A\A]A^A_
+AWAVE1
+AUATI
+|$0H
+T$(L
+D$h1
+D$ L
+|$0H
+D$ L
+T$@H
+|$0I
+L$hdH3
+x[]A\A]A^A_
+T$ L
+|$8H
+D$(I
+9PPu
+T$@H
+)tqL
+t$PL
+T$ I
+L$0H
+|$0I
+t$0L
+AWAVI
+AUATI
+"t"@
+!u:H
+tZH9
+[]A\A]A^A_
+AWAVI
+AUATUSH
+D$81
+T$8dH3
+H[]A\A]A^A_
+<;ww
+L9d$
+|$ H
+t$ H
+AWAVAUATI
+D$81
+L$8dH3
+H[]A\A]A^A_
+t	H9
+|$ H
+L$ L
+|$ H
+I;\$
+T$ A
+:ru=A
+eu6A
+qu/A
+AUATA
+[]A\A]
+AWAVI
+AUATUSH
+t$(H
+D$0L
+t$ <	t
+< u!
+<4< t
+T$0H
+t$(L
+D$0L
+[]A\A]A^A_
+D$ D
+D$ H
+[]A\A]A^A_
+t$ I
+AWAVI
+AUAT
+D$(1
+H9D$
+t$(dH34%(
+8[]A\A]A^A_
+<8(tqL
+<0)t"H
+AWAVAUATSH
+0<;w
+<'u	E
+[A\A]A^A_]
+}8L)
+57u,
+ATSI
+[A\]
+AWAVAUATA
+|$ I
+T$ 1
+l$HL
+T$@H
+[]A\A]A^A_
+L$xH
+<8"u(M
+T$@H
+|$ E1
+T$@H
+|$ E1
+T$@H
+|$ E1
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+T$ 1
+|$ L
+T$ 1
+|$ I
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+ATUA
+ATUA
+AWAVE
+AUATI
+D$h1
+D$hdH3
+x[]A\A]A^A_
+AZA[
+l$@H
+|$ M
+L$0L
+L$0L
+AXAY
+t3USH
+tXIc
+_u<H
+D$(1
+5Vm,
+\$(dH3
+=Fj,
+~SHc
+=1i,
+ATUSH
+[8H9
+t9D9
+[]A\
+t1H;=
+(XZ[]A\
+< tH<*
+tT<'uPA
+tD<@uX1
+<\t E
+[]A\
+[]A\
+thH9=!W,
+=df,
+D$H1
+|$0H
+L$0H
+5ce,
+D$HdH3
+D$X1
+|$ H
+|$ H
+|$@H
+|$@H
+D$ PD
+D$ H
+T$PH
+|$PH
+D$XdH3
+D$ 1
+D$ H
+trH=
+=ja,
+t6~P
+@u~1
+D$(1
+< t2
+L$(dH3
+~2Hc
+~DHc
+D$(1
+T$(dH3
+tTUSH
+Hc5{H,
+u$f.
+AWAVAUATA
+=KZ,
+5*Z,
+[]A\A]A^A_
+ATUI
+D$81
+|$ H
+D$8dH3
+@[]A\
+D$(1
+D$(dH3
+AVAUA
+ATUH
+D$X1
+|$ A
+t$@H
+|$ D
+H)D$H
+|$@H
+|$@L
+|$ H
+D$XdH3
+`[]A\A]A^
+5rG,
+D$(1
+t$(dH34%(
+AWAVA
+AUATUSH
+D$H1
+D$HdH3
+X[]A\A]A^A_
+|$0D
+t$0D
+D$(1
+D$(dH3
+ATUSH
+D$(1
+D$(dH3
+0[]A\
+ATUSH
+D$H1
+D$HdH3
+P[]A\
+d$ H
+=cI,
+AXAY
+ATUSH
+5.H,
+[]A\
+D$(1
+D$(dH3
+D$H1
+9,t2
+D$HdH3
+|$ H
+D$(1
+D$(dH3
+D$(1
+=EF,
+D$(dH3
+D$(1
+: ts
+=67,
+D$(dH3
+=%6,
+8,u1
+AWAV
+AUATUSH
+D$H1
+t$ 1
+=x@,
+D$ H
+D$HdH3
+X[]A\A]A^A_
+t$@I
+%nC,
+D$ I
+t$ 1
+D$ I
+D$0I
+D$0I
+AVAUA
+ATUSH
+D$81
+D$8dH3
+@[]A\A]A^
+l$ D
+Hc<$I
+l$ D
+D$(1
+< t|<0
+D$(dH3
+Hc|$
+8,uV
+<"tn< 
+<,tzH
+AVAUATUSH
+D$(1
+D$(dH3
+0[]A\A]A^
+5I3,
+5	4,
+ATUA
+D$(1
+D$(dH3
+0[]A\
+AUATI
+[]A\A]
+AUATUSH
+[]A\A]
+=%/,
+Hc|$
+Hc|$
+[]A\A]
+Hc|$
+Hc|$
+D;d$
+AVAULc
+ATUSH
+D$H1
+=V*,
+=<',
+t$ 1
+D$HdH3
+P[]A\A]A^
+H9l$
+=U(,
+=@(,
+AXAY
+D$0H
+AVAUA
+ATUS
+D$(1
+%*',
+D$(dH3
+0[]A\A]A^
+D$81
+D$)H
+T$ H
+D$8dH3
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+w2M9
+AWAVI
+AUATUSH
+D$H1
+T$HdH3
+X[]A\A]A^A_
+AVAUATUSH
+D$81
+H+T$
+8,t[
+D$8dH3
+@[]A\A]A^
+ATUS
+uc[]A\
+D$(1
+8,tI
+D$(dH3
+8,t7
+AVAUATUSH
+D$(1
+D$(dH3
+0[]A\A]A^
+AUATUSH
+[]A\A]
+< t&<,
+<"tX
+<"t < u
+8>t"
+D$(1
+L$(dH3
+AVAUATUA
+D$81
+<"tT
+D$8dH3
+@[]A\A]A^
+AWAVAUATUSH
+D$H1
+D$HdH3
+[]A\A]A^A_
+|$ H
+|$ H
+D$HdH3
+X[]A\A]A^A_
+HcT$
+~`E1
+D9=w
+AWAVAUATUSH
+D$81
+t/H;
+wTH9
+|$ H
+|$ 1
+H=@n@
+H=@s@
+tNH=
+D$8dH3
+H[]A\A]A^A_
+HcT$
+E []A\
+AVAUATSI
+[A\A]A^]
+ATUI
+[]A\
+ATUI
+[]A\
+,u<H
+AWAVAUATI
+[]A\A]A^A_
+AWAVI
+AUATE1
+D$x1
+stZH
+D$xdH3
+[]A\A]A^A_
+|$HL
+D$HH
+T$#t1H
+D$$H
+D$0H
+L$8L
+L$8H
+Hct$
+Hct$
+t$$H
+t$0H
+D$PH
+L$8H
+L$8H
+L;%q
+H;-T
+vOH;-c
+AWAVAUATI
+D$H1
+D$HdH3
+X[]A\A]A^A_
+l$ D
+AUATA
+[]A\A]
+ATSH
+[A\]
+AUATSH
+[A\A]]
+AUPH
+ATUH
+ []A\
+D$81
+D$8dH3
+AUATA
+Hc5.
+[]A\A]
+[]A\A]
+;uDH
+t?H9
+ATUSH
+[]A\
+[]A\
+|H9BHu
+AUATH
+8*tgI
+[]A\A]
+AVAUATUH
+ []A\A]A^
+AUATI
+[]A\A]
+tEH9
+ATUI
+[]A\
+[]A\
+H9>t3H9:t>H
+H9:u
+ATUI
+k0[]A\
+I9,$t
+D$H1
+L$HdH3
+|$ H
+|$(H
+|$0H
+|$ H
+D$8H
+D$0H
+D$8<
+H98tKH
+AUATI
+gffffffff
+v"L;!
+gfffffff
+([]A\A]
+	vzSH
+H;_Pu	
+gfffffff
+s$H;nPu
+gfffffff
+AVAUATUS
+[]A\A]A^
+Z[]A\A]A^
+t+H9W
+t|H9
+H9B 
+H;p t
+AVAUI
+ATUI
+[]A\A]A^
+AWAVAUATUSH
+D$H1
+uJf.
+t$HdH34%(
+X[]A\A]A^A_
+*L;%=
+L9%-
+u	M9
+q H95
+\$(H
+D$ L
+D$ L
+\$(L9%,
+y H9=
+tNL9
+H9I0t
+T$<H
+t$@H
+t$<H
+|$@H
+t1H;
+H9J u
+H;Q 
+AUATA
+[]A\A]
+]A\A]
+AUAT1
+[]A\A]
+@t8H
+H9C@
+[]A\A]
+R H9
+AUATUSH
+[]A\A]
+H9q 
+[]A\A]
+H9J 
+tzH;
+tCH;
+C0H;X8t
+O(t8H
+ATUH
+I9D$
+AUATLc
+L$`H
+[]A\A]
+L$`H
+[]A\A]
+AVAUI
+ATUI
+D$(1
+L$ H
+|$(dH3<%(
+0[]A\A]A^
+K H)
+AWAVAUATUSH
+v8dH
+D$x1
+D$xdH3
+[]A\A]A^A_
+D$8H
+D$0t
+D$(I
+|$(H
+|$hH
+|$8H
+|$0L
+t$@H
+l$HA
+l$ M
+L$hI
+l$ M
+t$@H
+l$HH
+L$dH
+t$pI
+T$HH
+T$`L
+HcT$dH
+L$hH
+D$HI
+t$PH
+I9D$@
+L$`H
+D$8H!
+T$HH)
+t$HH
+T$@L
+D$hI
+L$PH
+D$HH)
+T$ H
+T$XH
+D$ M
+D$ L
+D$(H
+D$8H
+|$(H
+AVAUI
+ATUI
+God A red nugget A fat egg under a dog
+tqr&
+[]A\A]A^
+AUATI
+|$ H
+D$(I
+D$(H
+d$@M
+[]A\A]
+C u 
+D$(H
+AVAUI
+ATUH
+N8H9
+F []A\A]A^
+0+3+s
+ATUI
+=Hu+
+=]s+
+[]A\
+AWAVAUATUSH
+l$pI
+[]A\A]A^A_
+AWAVAUATUSH
+X|E1
+[]A\A]A^A_
+AWAVAUATUSH
+D$ H
+G I9D$
+I9G sVH
+\$ I
+D$ D
+D$ I
+8[]A\A]A^A_
+T$ H
+[]A\A]A^A_
+D$ PAQM
+AVAUA
+ATUI
+UAPI
+0[]A\A]A^
+AWAVAUATUSH
+ u I
+[]A\A]A^A_
+t	H9
+vpI9
+~`AWL
+ tyI
+H)D$
+H#T$
+|$`L
+L$ H
+L$`H
+FP-`
+V0H)
+F(uNI
+H)D$
+9wps
+AWAVI
+AUATUSH
+H+\$
+([]A\A]A^A_
+EZA2GZ
+H;D$
+GXfA9EXt
+H9\$
+AWAVAUATI
+D$(H
+C`L)
+L+c H
+S8M)
+L$(H
+L$(H
+BHH;B@H
+BHI)
+L$(I
+L$(L
+L$(L
+K8L+!L
+T$$M
+$I9D$
+d$8M
+D$$H
+8[]A\A]A^A_
+AWAVAUATUSH
+D$(1
+=)Y+
+=BW+
+=cX+
+=$X+
+tuE1
+L;=^T+
+L;=aS+
+D$(dH3
+8[]A\A]A^A_
+$I;F8
+=qQ+
+={P+
+=EP+
+=#P+
+D$81
+=?@+
+D$(t@
+t$8dH34%(
+=R>+
+=2>+
+@tAH
+=o9+
+H9=&D+
+=^9+
+[]A\
+ATUS
+[]A\
+=Q5+
+AVAUATUSH
+dH34%(
+[]A\A]A^
+=92+
+=W0+
+=//+
+=w-+
+%2-+
+=_,+
+=@++
+=H)+
+=b)+
+=V)+
+-+)+
+-/(+
+AVAUATUH
+=((+
+H#A(H=
+dH34%(
+[]A\A]A^
+H#q(H
+5h%+
+=r#+
+H#q(H
+= %+
+=0#+
+ATUH
+<%t[< tc
+$tqH
+tOH9
+dH3<%(
+ []A\
+< ts<(
+ tfA
+(AVAUATUS
+[]A\A]A^
+AWAVAUATE1
+ t-H
+dH3<%(
+([]A\A]A^A_
+t=;5;
+D;%H
+`< t
+AUATUSH
+[]A\A]
+[]A\A]
+AVAUATUSH
+[]A\A]A^
+zujH
+AWAVAUATUSH
+up<,tlI
+t$(H
+|$ A
+8[]A\A]A^A_
+? tEA
+4(Lc
+D$(H
+<,Hc
+[]A\A]A^A_
+HAVA
+[]A\A]A^
+]A\A]A^
+]A\A]A^
+tKv9
+D$X1
+|$0H
+T$0H
+L$XdH3
+AWAV
+AUATA
+xcH=
+x]Ic
+[]A\A]A^A_
+AVAUATUSH
+8,tG
+[]A\A]A^
+D$(H
+T$DH
+D$HH
+t$HH
+D$8H
+D$0H
+D$8H
+D$XH
+t$XH
+D$xH
+t$xH
+D$hH
+D$`H
+D$hH
+AUATUSH
+[]A\A]
+[]A\A]
+AWAV
+AUATL
+[]A\A]A^A_
+;}ug
+ATUI
+[]A\
+udHc
+AWAVAUATI
+D$(1
+<:tz<{
+utHc=
+L$(dH3
+8[]A\A]A^A_
+E	`uz
+t	I9
+T$ A
+t$ H
+u:<(
+<*t6
+T$ H
+T$ H
+<%t/<)
+AWAV1
+AUATUSH
+D$H1
+AYAZH
+D$HdH3
+X[]A\A]A^A_
+t$HdH34%(
+]A\A]A^A_
+G|H)
+D$|A
+D$ f
+t	9X
+G|H)
+H9|$
+H+L$
+@8H9
+d$ H
+l$(1
+Cz?t
+l$(u%
+G|H)
+t$HdH34%(
+[]A\A]A^A_
+H9|$ 
+D$ H
+H+T$
+H+t$8H
+H+T$
+H+t$ H
+H+L$
+AWAVAUATE1
+[]A\A]A^A_
+[]A\A]A^A_
+5^x"
+H;-r
+L;5m
+[]A\A]A^A_
+AWAVA
+AUATUSH
+D$81
+t*Hc
+\$8dH3
+H[]A\A]A^A_
+@(`u
+D$ H
+D$(H
+t}rd
+AWAVAUATUSH
+<bt.<w
+3L;s
+51c"
+I#V(H9
+dH34%(
+[]A\A]A^A_
+ t	M
+u&E1
+L$P!
+ t	M
+D$pH
+D$pH
+|$`#
+D$`H
+t$xH
+D$xH
+H#D$8H	
+D$8H1
+D$8H
+F.f%
+H#D$
+D$@I
+ 2D$@
+L$hD
+D$@H
+D$hH
+H#D$0H	
+D$0L1
+D$@E
+L$0I
+L$HE
+L$HE
+H#D$(H	
+D$(H1
+D$(H
+D#L$P
+|$XD
+T$LL
+D$XH
+H#D$ L	
+D$ L1
+D$ H
+D$HE
+D$@L
+L$@H
+|$LA
+F/8t<A
+|sX@
+|sb@
+ATUS
+H;C tp
+AWAV
+AUATI
+D$H1
+tV<.L
+D$HdH3
+X[]A\A]A^A_
+D$ H
+`L;}
+D$* 
+|$0f
+x\Hc
+wu#I
+uzL1
+D	'A
+P8#P|
+p4!pxH
+WpH9
+H,H9
+W|H)
+H=@^m
+=qy*
+t=H=@^m
+=:w*
+p,H9
+--r*
+=5p*
+-e!"
+=vn*
+%_o*
+5"o*
+=>o*
+-yn*
+= m*
+|$0f
+|$0fu
+9=Zn*
+9=Cn*
+=&l*
+=ym*
+5El*
+=;i*
+0< t
+-1h*
+-|f*
+-mf*
+-]f*
+AUATI
+[]A\A]E1
+ATU1
+[]A\
+HcD$
+ATUH
+C WH
+[]A\
+C WA
+AYAZ
+AVAUATUI
+D$ A
+T$`H
+I+t$
+I+4$
+]A\A]A^
+t$HI
+|$@H
+T$`1
+t$HI
+|$@H
+AVAUATUI
+[]A\A]A^
+s>=i
+w9=h
+s0=_
+,$t`
+]A\A]A^
+[]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+=qd*
+<%tj<[uK
+AWAV
+QAUATUSH
+D$x1
+L$xdH3
+[]A\A]A^A_
+5gb*
+T$4H
+D$8H
+t$8H
+D$(H
+D$ H
+D$(H
+D$HH
+t$HH
+D$hH
+t$hH
+D$XH
+D$PH
+D$XH
+='G*
+5dU*
+50U*
+=QF*
+?_u,
+t7H;
+P	tB
+={C*
+AVAUI
+ATUI
+~PdH
+I;D$
+|$P`
+[]A\A]A^
+t$hI
+|$`H
+I;D$
+Eleele
+D$(H
+t$hI
+|$`H
+L$(H)
+D$XI
+t$hI
+|$`H
+T$(H
+|$P$H
+t$hI
+|$`H
+D$(H
+t$hI
+|$`H
+AVAUATUS
+[]A\A]A^
+> t_
+%D@*
+-D:*
+-	:*
+[]A\
+[]A\
+[]A\
+D$(1
+D$(dH3
+D$ esp
+D$$rsp
+=}8*
+=uC*
+=TC*
+=3C*
+=.?*
+ATUSH
+D$81
+D$8dH3
+@[]A\
+T$ H
+T$(H
+T$ L
+AUATUSH
+\$IH
+[]A\A]
+ATUSt
+[]A\
+AUATH
+8,t?E
+[]A\A]
+"usH
+5r=*
+"tIH
+AUATUSH
+dH34%(
+([]A\A]
+AVAUATSI
+0str
+Lcp8H
+d$8I
+[A\A]A^]
+AUATUSH
+<"t2
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+H+0H
+[]A\A]1
+=i1*
+AVAUATUS1
+D$(1
+H D1
+=q0*
+j8L9
+5x-*
+D$(dH3
+0[]A\A]A^
+AVAUATUSH
+[]A\A]A^
+[]A\A]A^H
+ATUSH
+@tEH
+[]A\
+ t=H9
+$tHH
+dH34%(
+ATUSH
+8,tD
+[]A\
+AWAVAUATUSH
+A	T$
+[]A\A]A^A_
+8#tf
+8,urH
+=< *
+AWAVI
+AUATE
+=G *
+E D1
+[]A\A]A^A_1
+([]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUATUSH
+[]A\A]A^
+AWAVAUATUSH
+D$81
+|$0H
+D$8dH3
+H[]A\A]A^A_
+|$(H
+l$(I
+L$(H
+D$ L
+D$0A
+%t_H
+|$(H
+|$(H
+t 9x
+AWAVAUATA
+<_u<I
+[A\A]A^A_]
+ATUI
+[]A\
+AUATI
+]A\A]A^
+[]A\A]A^
+AWAV
+DAUATI
+([]A\A]A^A_
+AWAVA
+AUATA
+D$(1
+ftJA
+L$(dH3
+8[]A\A]A^A_
+uSLcl$
+ATUS
+[]A\
+t;USH
+AWAVAUATUSH
+Hct$
+[]A\A]A^A_
+t#<"
+<'t,<"
+AWAVI
+AUATI
+"<:w
+[]A\A]A^A_
+AWAVE1
+AUATUSH
+H[]A\A]A^A_
+L$<L
+\$0H
+L$(H
+T$ Hc6H
+T$ H
+\$0H
+L$(L
+L$<H
+D$ H
+L$ H
+HiT$
+ATUSH
+AVAUATUSH
+G0H9
+[]A\A]A^
+H;0v
+u#[]A\
+[]A\
+AWAVA
+AUATL
+[]A\A]A^A_
+../../gas/app.c
+end of file in comment
+	.linefile 
+end of file in string; '%c' inserted
+end of file not at end of a line; newline inserted
+Case value %ld unexpected at line %d of file "%s"
+end of file in multiline comment
+end of file after a one-character quote; \0 inserted
+end of file in escape character
+end of file in comment; newline inserted
+app_pop
+$._ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+%s: data size %ld
+x86_64-linux-gnu
+2.26.1
+/usr/share/locale
+a.out
+unrecognized option -%c%s
+Report bugs to %s
+GNU assembler %s
+alias = %s
+canonical = %s
+x86_64-pc-linux-gnu
+cpu-type = %s
+x86_64
+bfd-target = %s
+none
+zlib
+zlib-gnu
+zlib-gabi
+alternate
+invalid listing option `%c'
+../../gas/as.c
+.gasversion.
+.text
+.data
+.bss
+*ABS*
+*UND*
+*GAS `reg' section*
+*GAS `expr' section*
+.note.GNU-stack
+%d warning
+%d warnings
+%d error
+%d errors
+nocompress-debug-sections
+debug-prefix-map
+defsym
+dump-config
+emulation
+noexecstack
+size-check
+sectname-subst
+fatal-warnings
+gdwarf-2
+gdwarf2
+gdwarf-sections
+gen-debug
+gstabs
+gstabs+
+hash-size
+keep-locals
+listing-lhs-width
+listing-lhs-width2
+listing-rhs-width
+listing-cont-lines
+nocpp
+no-warn
+reduce-memory-overheads
+statistics
+strip-local-absolute
+version
+verbose
+target-help
+traditional-format
+%s: total time in assembly: %ld.%06ld
+GNU assembler version %s (%s) using BFD version %s
+(GNU Binutils for Ubuntu) 2.26.1
+Usage: %s [option...] [asmfile...]
+Options:
+  -a[sub-option...]	  turn on listings
+                      	  Sub-options [default hls]:
+                      	  c      omit false conditionals
+                      	  d      omit debugging directives
+                      	  g      include general info
+                      	  h      include high-level source
+                      	  l      include assembly
+                      	  m      include macro expansions
+                      	  n      omit forms processing
+                      	  s      include symbols
+                      	  =FILE  list to FILE (must be last sub-option)
+  --alternate             initially turn on alternate macro syntax
+  --compress-debug-sections[={none|zlib|zlib-gnu|zlib-gabi}]
+                          compress DWARF debug sections using zlib
+  --nocompress-debug-sections
+                          don't compress DWARF debug sections [default]
+  -D                      produce assembler debugging messages
+  --debug-prefix-map OLD=NEW
+                          map OLD to NEW in debug information
+  --defsym SYM=VAL        define symbol SYM to given value
+  --execstack             require executable stack for this object
+  --noexecstack           don't require executable stack for this object
+  --size-check=[error|warning]
+			  ELF .size directive check (default --size-check=error)
+  --sectname-subst        enable section name substitution sequences
+  -f                      skip whitespace and comment preprocessing
+  -g --gen-debug          generate debugging information
+  --gstabs                generate STABS debugging information
+  --gstabs+               generate STABS debug info with GNU extensions
+  --gdwarf-2              generate DWARF2 debugging information
+  --gdwarf-sections       generate per-function section names for DWARF line information
+  --hash-size=<value>     set the hash table size close to <value>
+  --help                  show this message and exit
+  --target-help           show target specific options
+  -I DIR                  add DIR to search list for .include directives
+  -J                      don't warn about signed overflow
+  -K                      warn when differences altered for long displacements
+  -L,--keep-locals        keep local symbols (e.g. starting with `L')
+  -M,--mri                assemble in MRI compatibility mode
+  --MD FILE               write dependency information in FILE (default none)
+  -nocpp                  ignored
+  -o OBJFILE              name the object-file output OBJFILE (default a.out)
+  -R                      fold data section into text section
+  --reduce-memory-overheads 
+                          prefer smaller memory use at the cost of longer
+                          assembly times
+  --statistics            print various measured statistics from execution
+  --strip-local-absolute  strip local absolute symbols
+  --traditional-format    Use same format as native assembler when possible
+  --version               print assembler version number and exit
+  -W  --no-warn           suppress warnings
+  --warn                  don't suppress warnings
+  --fatal-warnings        treat warnings as errors
+  -w                      ignored
+  -X                      ignored
+  -Z                      generate object file even after errors
+  --listing-lhs-width     set the width in words of the output data column of
+                          the listing
+  --listing-lhs-width2    set the width in words of the continuation lines
+                          of the output data column; ignored if smaller than
+                          the width of the first line
+  --listing-rhs-width     set the max width in characters of the lines from
+                          the source file
+  --listing-cont-lines    set the maximum number of continuation lines used
+                          for the output data column of the listing
+  @FILE                   read options from FILE
+<http://www.sourceware.org/bugzilla/>
+Copyright (C) 2015 Free Software Foundation, Inc.
+This program is free software; you may redistribute it under the terms of
+the GNU General Public License version 3 or later.
+This program has absolutely no warranty.
+This assembler was configured for a target of `%s'.
+emulations not handled in this configuration
+Invalid --compress-debug-sections option: `%s'
+bad defsym; format is --defsym name=value
+Invalid --size-check= option: `%s'
+--hash-size needs a numeric argument
+%s, treating warnings as errors
+%s, %s, generating bad object file
+-JLMRWZa::Dfg::I:o:vwX
+main
+../../gas/atof-generic.c
+inity
+failed sanity check
+atof_generic
+1.2.8
+invalid identifier for ".ifdef"
+non-constant expression in ".if" statement
+".elseif" without matching ".if"
+non-constant expression in ".elseif" statement
+".else" without matching ".if"
+end of macro inside conditional
+end of file inside conditional
+here is the start of the unterminated conditional
+here is the "else" of the unterminated conditional
+../../gas/cond.c
+bad format for ifc or ifnc
+".elseif" after ".else"
+here is the previous ".else"
+here is the previous ".if"
+".endif" without ".if"
+duplicate ".else"
+.ifeqs syntax error
+ifdef
+ifndef
+else
+endif
+endc
+s_elseif
+s_if
+can't open `%s' for writing
+can't close `%s'
+../../gas/dwarf2dbg.c
+.Ldebug_line_start
+.Ldebug_line_end
+.Loc.%u.%u
+file number less than one
+unassigned file number %ld
+basic_block
+prologue_end
+epilogue_begin
+is_stmt
+is_stmt value not 0 or 1
+isa number less than zero
+discriminator
+discriminator less than zero
+expected 0 or 1
+.debug_info
+.debug_line
+.debug_line%s
+.debug_line_end
+.debug_abbrev
+.debug_aranges
+.debug_ranges
+GNU AS %s
+file number %ld already allocated
+unknown .loc sub-directive `%s'
+duplicate .debug_line sections
+dwarf line number information for %s ignored
+out_debug_info
+get_frag_fix
+dwarf2_finish
+emit_inc_line_addr
+emit_fixed_inc_line_addr
+dwarf2dbg_convert_frag
+get_line_subseg
+.cfi_inline_lsda is not supported for this target
+Degas are we not drawn onward no In union drawn onward to new eras aged
+.cfi_personality_id is not supported for this target
+.cfi_fde_data is not supported for this target
+CFI instruction used without previous .cfi_startproc
+invalid or unsupported encoding in .cfi_lsda
+.cfi_lsda requires encoding and symbol arguments
+wrong second argument to .cfi_lsda
+invalid or unsupported encoding in .cfi_personality
+.cfi_personality requires encoding and symbol arguments
+wrong second argument to .cfi_personality
+inconsistent uses of .cfi_sections
+wrong third argument to .cfi_val_encoded_addr
+.cfi_endproc without corresponding .cfi_startproc
+previous CFI entry not closed (missing .cfi_endproc)
+register save offset not a multiple of %u
+CFI state restore without previous remember
+open CFI at the end of file; missing .cfi_endproc directive
+bad register expression
+.eh_frame
+.debug_frame
+../../gas/dw2gencfi.c
+missing separator
+simple
+cfi_sections
+cfi_startproc
+cfi_endproc
+cfi_fde_data
+cfi_def_cfa
+cfi_def_cfa_register
+cfi_def_cfa_offset
+cfi_adjust_cfa_offset
+cfi_offset
+cfi_rel_offset
+cfi_register
+cfi_return_column
+cfi_restore
+cfi_undefined
+cfi_same_value
+cfi_remember_state
+cfi_restore_state
+cfi_window_save
+cfi_escape
+cfi_signal_frame
+cfi_personality
+cfi_personality_id
+cfi_lsda
+cfi_val_encoded_addr
+cfi_inline_lsda
+cfi_label
+output_cfi_insn
+encoding_size
+select_cie_for_fde
+dot_cfi
+cfi_add_CFA_offset
+../../gas/ehopt.c
+eh_frame_convert_frag
+eh_frame_estimate_size_before_relax
+../../gas/expr.c
+bignum invalid
+floating point number invalid
+missing closing '"'
+invalid use of operator "%s"
+missing operand; zero assumed
+missing right bracket
+division by zero
+shift count
+missing '%c'
+startof.
+sizeof.
+.startof.%s
+.sizeof.%s
+bad expression
+bad floating-point constant: exponent overflow
+bad floating-point constant: unknown error code=%d
+a bignum with underscores may not have more than 8 hex digits in any word
+a bignum with underscores must have exactly 4 words
+backward ref to unknown label "%d:"
+left operand is a bignum; integer 0 assumed
+left operand is a float; integer 0 assumed
+right operand is a bignum; integer 0 assumed
+right operand is a float; integer 0 assumed
+operation combines symbols in different segments
+Unary operator %c ignored because bad operand follows
+syntax error in .startof. or .sizeof.
+integer_constant
+operand
+expr
+expr_set_rank
+dI@B
+2I%%
+`VHT[
+Z5.{
+KyLpYZ]
+I9C-
+RASQ
+sNM ?.3-
+kpnJ
+Y>VPr^2>#
+[Am-
+R`i;
+.eNQ
+_ZX`]OSO
+9#J{
+attempt to allocate data in absolute section
+attempt to allocate data in common section
+../../gas/frags.c
+can't extend frag %lu chars
+frag_new
+exists
+../../gas/hash.c
+hash_delete
+can't read from %s: %s
+../../gas/input-file.c
+{standard input}
+can't open %s for reading: %s
+O_APP
+can't close %s: %s
+input_file_open
+macros nested too deeply
+../../gas/input-scrub.c
+new_logical_line_flags
+%02X
+GAS LISTING
+%s %s 			page %d
+% 4d     
+% 4d ???? 
+% 4d %04x 
+%c%c
+****  %s
+% 4d      
+endef
+stabn
+Warning: 
+Error: 
+.debug
+.line
+can't open %s: %s
+ options passed	: 
+ input file    	: %s
+ output file   	: %s
+ target        	: %s
+%Y-%m-%dT%H:%M:%S.000%z
+ time stamp    	: %s
+	%s 
+../../gas/listing.c
+unable to rebuffer file: %s
+%4u:%-13s **** %s
+NO DEFINED SYMBOLS
+%%0%lulx
+%20s:%-5d  %s:%s %s
+%33s:%s %s
+NO UNDEFINED SYMBOLS
+new line in title
+ GNU assembler version %s (%s)
+	 using BFD version %s.
+strange paper height, set to no form
+listing_list
+listing_listing
+missing `)'
+LOCAL
+.LL%04x
+$NARG
+vararg
+ENDR
+IRPC
+IREPC
+IREP
+REPT
+linefile
+ENDM
+MACRO
+Missing macro name
+too many positional arguments
+missing model parameter
+`%s' was already used as parameter (or another local) name
+% operator needs absolute expression
+Missing parameter qualifier for `%s' in macro `%s'
+`%s' is not a valid parameter qualifier for `%s' in macro `%s'
+Pointless default value for required parameter `%s' in macro `%s'
+A parameter named `%s' already exists for macro `%s'
+Reserved word `%s' used as parameter in macro `%s'
+unexpected end of file in macro `%s' definition
+missing `)' after formals in macro definition `%s'
+Bad parameter list for macro `%s'
+Macro `%s' was already defined
+confusion in formal parameters
+Parameter named `%s' does not exist for macro `%s'
+Value for parameter `%s' of macro `%s' was already specified
+can't mix positional and keyword arguments
+Missing value for required parameter `%s' of macro `%s'
+Attempt to purge non-existant macro `%s'
+unexpected end of file in irp or irpc
+%s: 
+Assembler messages:
+%s:%u: 
+%s:%u: %s%s
+%s: %s%s
+Fatal error: 
+Internal error!
+Assertion failure at %s:%d.
+Please report this bug.
+../../gas/messages.c
+%016lx
+Assertion failure in %s at %s:%d.
+Internal error, aborting at %s:%d in %s
+Internal error, aborting at %s:%d
+%s out of domain (%d is not a multiple of %d)
+%s out of range (%d is not between %d and %d)
+%s out of range (0x%s is not between 0x%s and 0x%s)
+as_internal_value_out_of_range
+can't open a bfd on stdout %s
+can't create %s: %s
+selected target format '%s' unknown
+bad or irreducible absolute expression
+.abort detected.  Abandoning ship.
+unknown floating type type '%c'
+floating point constant too large
+ignoring fill value in absolute section
+only constant offsets supported in absolute section
+attempt to redefine pseudo-op `%s' ignored
+symbol "%s" undefined; zero assumed
+some symbol undefined; zero assumed
+ignoring macro exit outside a macro definition.
+error constructing %s pseudo-op table: %s
+MRI mode not supported for this target
+junk at end of line, first unrecognized character is `%c'
+junk at end of line, first unrecognized character valued 0x%x
+.end%c encountered without preceding %s
+alignment too large: %u assumed
+unrecognized .linkonce type `%s'
+.linkonce is not supported for this object file format
+.bundle_align_mode alignment too large (maximum %u)
+cannot change .bundle_align_mode inside .bundle_lock
+.bundle_lock is meaningless without .bundle_align_mode
+.bundle_unlock without preceding .bundle_lock
+.bundle_lock sequence is %u bytes, but bundle size only %u
+missing or bad offset expression
+.endfunc missing for previous .func
+attempt to set value of section symbol
+can't equate global symbol `%s' with register name
+`%s' can't be equated to common symbol '%s'
+symbol `%s' is already defined
+attempt to store value in absolute section
+zero assumed for missing expression
+register value used as expression
+value 0x%lx truncated to 0x%lx
+unsupported variable size or fill value
+.space repeat count is zero, ignored
+.space repeat count is negative, ignored
+space allocation too complex in absolute section
+space allocation too complex in common section
+unterminated string; newline inserted
+symbol name not recognised in the current locale
+size (%ld) out of range, ignored
+size of "%s" is already %ld; not changing to %ld
+%s: would close weakref loop: %s
+strings must be placed into a section
+line numbers must be positive; line number %d rejected
+incompatible flag %i in line directive
+unsupported flag %i in line directive
+this string may not contain '\0'
+.error directive invoked in source file
+.warning directive invoked in source file
+.incbin count zero, ignoring `%s'
+seek to end of .incbin file failed `%s'
+skip (%ld) or count (%ld) invalid for file size (%ld)
+could not skip to %ld in file `%s'
+truncated file `%s', %ld of %ld bytes read
+cannot change section or subsection inside .bundle_lock
+.bundle_lock sequence at %u bytes but .bundle_align_mode limit is %u bytes
+single instruction is %u bytes long but .bundle_align_mode limit is %u
+.bundle_lock with no matching .bundle_unlock
+this_GCC_requires_the_GNU_assembler
+this_gcc_requires_the_gnu_assembler
+s_bundle_unlock
+stringer_append_char
+stringer
+emit_leb128_expr
+float_cons
+emit_expr_with_reloc
+pseudo_set
+ignore_rest_of_line
+demand_empty_rest_of_line
+s_weakref
+s_float_space
+do_repeat_with_expander
+s_align
+mri_comment_end
+finish_bundle
+pending_bundle_size
+start_bundle
+../../gas/read.c
+invalid segment "%s"
+start address not supported
+missing closing `%c'
+stray `\'
+expected address expression
+standard
+%s without %s
+expected alignment after size
+alignment negative; 0 assumed
+alignment not a power of 2
+.rept, .irp, or .irpc
+.macro
+expected fill pattern missing
+.err encountered
+.fail %ld encountered
+.fill size clamped to %d
+size negative; .fill ignored
+repeat < 0; .fill ignored
+discard
+one_only
+same_size
+same_contents
+bfd_set_section_flags: %s
+NONE
+missing reloc type
+BFD_RELOC_
+unrecognized reloc type
+bad reloc expression
+missing value
+bad floating literal: %s
+missing .func
+illegal expression
+missing expression
+bignum truncated to %d bytes
+rva without symbol
+expected symbol name
+missing size expression
+%s%s
+expected comma after "%s"
+ => 
+expected <nn>
+missing string
+.error
+.warning
+%s argument must be a string
+%s/%s
+Beeb
+file not found: %s
+unknown pseudo-op: `%s'
+#NO_APP
+pseudo-op table
+abort
+ascii
+asciz
+balign
+balignw
+balignl
+bundle_align_mode
+bundle_lock
+bundle_unlock
+common.s
+dc.a
+dc.b
+dc.d
+dc.l
+dc.s
+dc.w
+dc.x
+dcb.b
+dcb.d
+dcb.l
+dcb.s
+dcb.w
+dcb.x
+ds.b
+ds.d
+ds.l
+ds.p
+ds.s
+ds.w
+ds.x
+double
+eject
+elsec
+elseif
+endfunc
+endm
+endr
+equiv
+exitm
+appfile
+appline
+fail
+fill
+global
+globl
+hword
+ifeq
+ifeqs
+ifge
+ifgt
+ifle
+iflt
+ifnb
+ifne
+ifnes
+ifnotdef
+incbin
+include
+irep
+irepc
+lcomm
+lflags
+llen
+lsym
+mexit
+.mri
+noaltmacro
+noformat
+nolist
+nopage
+octa
+p2align
+p2alignw
+p2alignl
+plen
+print
+psize
+purgem
+quad
+rept
+sbttl
+short
+single
+space
+skip
+sleb128
+stabd
+string8
+string16
+string32
+string64
+struct
+uleb128
+xcom
+xdef
+xref
+weakref
+invalid argument '%s' to -fdebug-prefix-map
+string buffer overflow
+.stab%c: missing comma
+%sF%d
+",%d,0,0,%s
+.stabstr
+.stab
+comma missing in .xstabs
+%sL%d
+%d,0,%d,%s-%s
+%d,0,%d,%s
+"void:t1=1",128,0,0,0
+"%s:F1",%d,0,%d,%s
+%sendfunc%d
+"",%d,0,0,%s-%s
+.stab%c: description field '%x' too big, try a different debug format
+../../gas/subsegs.c
+frag chains:
+	%p %-10s	%10d frags
+section_symbol
+subseg_set_rest
+../../gas/symbols.c
+dollar
+bfd_make_empty_symbol: %s
+expr 
+illegal
+absent
+constant %lx
+symbol
+%*s<
+%*s%lx
+register #%d
+uminus -<
+bit_not
+multiply
+divide
+modulus
+lshift
+rshift
+bit_ior
+bit_xor
+bit_and
+logical_and
+logical_or
+%*s<
+%*s<
+subtract
+%*s<
+{unknown opcode %d}
+(unnamed)
+sym 
+ frag 
+ resolved
+ local
+ written
+ resolving
+ used-in-reloc
+ extern
+ weak
+ debug
+ defined
+ weakrefr
+ weakrefd
+%*s<
+mini local symbol table
+invalid operands (%s and %s sections) for `%s'
+invalid operand (%s section) for `%s'
+invalid operands (%s and %s sections) for `%s' when setting `%s'
+invalid operand (%s section) for `%s' when setting `%s'
+inserting "%s" into symbol table failed: %s
+"%d" (instance number %d of a %s label)
+symbol definition loop encountered at `%s'
+division by zero when setting `%s'
+can't resolve value for symbol `%s'
+attempt to get value of unresolved symbol `%s'
+section symbols are already global
+can't make register symbol `%s' global
+symbol `%s' is already defined as "%s"/%s%ld
+Accessing function `%s' as thread-local object
+Accessing `%s' as thread-local object
+%lu mini local symbols created, %lu converted
+symbol_next
+symbol_previous
+S_SET_SEGMENT
+S_IS_LOCAL
+S_IS_EXTERNAL
+fb_label_name
+dollar_label_instance
+dollar_label_name
+dollar_label_defined
+report_op_error
+resolve_symbol_value
+verify_symbol_chain
+symbol_insert
+symbol_remove
+symbol_clear_list_pointers
+symbol_append
+symbol_clone
+symbol_table_insert
+local_symbol_convert
+symbol_new
+field fx_size too small to hold %d
+redefined symbol cannot be used on reloc
+%s:%u: bad return from bfd_install_relocation: %x
+attempt to .org/.space backwards? (%ld)
+can't write %ld bytes to section %s of %s because: '%s'
+can't fill %ld bytes in section %s of %s because '%s'
+cannot fill %ld bytes in section %s of %s because: '%s'
+reloc not within (fixed part of) section
+internal error: fixup not contained within frag
+can't resolve `%s' {%s section} - `%s' {%s section}
+value of %s too large for field of %d bytes at %s
+alignment padding (%lu bytes) not a multiple of %ld
+attempt to move .org backwards
+.space specifies non-absolute value
+.space or .fill with negative value, ignored
+Infinite loop encountered whilst attempting to compute the addresses of symbols in section %s
+%s: global symbols not supported in common sections
+local label `%s' is not defined
+Local symbol `%s' can't be equated to common symbol `%s'
+can't make global register symbol `%s'
+ where=%ld offset=%lx addnumber=%lx
+../../gas/write.c
+can't extend frag
+alula
+.debug_
+can't extend frag %u chars
+relocation overflow
+relocation out of range
+.gnu.linkonce
+.gnu.attributes
+invalid offset expression
+invalid reloc expression
+fixups: %d
+fix 
+ %s:%d
+ pcrel
+ pcrel_adjust=%d
+ im_disp
+ tcbit
+ done
+    size=%d frag=
+    %s (%d)
+   +<
+   -<
+number_to_chars_littleendian
+number_to_chars_bigendian
+relax_segment
+relax_frag
+set_symtab
+subsegs_finish_section
+chain_frchains_together_1
+cvt_frag_to_fill
+size_seg
+adjust_reloc_syms
+fixup_segment
+compress_debug
+write_contents
+fix_new_internal
+64bit mode not supported on `%s'.
+32bit mode not supported on `%s'.
+Borrow or rob
+invalid use of pseudo-register
+missing or invalid immediate expression `%s'
+illegal immediate register operand %s
+the last operand of `%s' must be `%s%s'
+the first operand of `%s' must be `%s%s'
+bad argument to %s_check directive.
+missing argument for %s_check directive
+bad argument to syntax directive.
+same type of prefix used twice
+using `%s%s' instead of `%s%s' due to `%c' suffix
+`%s%s' not allowed with `%s%c'
+incorrect register `%s%s' used with `%c' suffix
+no instruction mnemonic suffix given and no register operands; can't size instruction
+ambiguous operand size for `%s'
+ambiguous memory operand size for `%s`
+`%s' is not valid here (expected `%c%s%s%c')
+`%s' is not a valid %s expression
+can't use register '%s%s' as operand %d in '%s'.
+`%s' can't be used for write mask
+unknown vector operation: `%s'
+@%s reloc is not supported with %d-bit output format
+there are no pc-relative size relocations
+%u-byte relocation cannot be applied to %u-byte field
+non-pc-relative relocation for pc-relative field
+relocated field and relocation type differ in signedness
+there are no unsigned pc-relative relocations
+cannot do %u byte pc-relative relocation
+cannot do %s %u byte relocation
+`%s' isn't valid for Intel MCU
+no such architecture modifier: `%s'
+.largecomm supported only in 64bit mode, producing .comm
+missing or invalid displacement expression `%s'
+0x%lx out range of signed 32bit displacement
+immediate operand illegal with absolute jump
+at most %d immediate operands are allowed
+too many memory references for `%s'
+expecting `,' or `)' after index register in `%s'
+expecting scale factor of 1, 2, 4, or 8: got `%s'
+scale factor of %d without an index register
+expecting `)' after scale factor in `%s'
+expecting index register or scale factor after `,'; got '%c'
+expecting `,' or `)' after base register in `%s'
+at most %d displacement operands are allowed
+invalid char %s beginning operand %d `%s'
+skipping prefixes on this instruction
+can't handle non absolute segment in `%s'
+../../gas/config/tc-i386-intel.c
+conflicting operand size modifiers
+cannot infer the segment part of the operand
+segment register name expected
+mask, index, and destination registers should be distinct
+index and destination registers should be distinct
+constant doesn't fit in 4 bits
+unsupported with Intel mnemonic
+mask, index, and destination registers must be distinct
+unsupported vector index register
+broadcast not on source memory operand
+broadcast is needed for operand of such type
+mask not on destination operand
+unsupported static rounding/sae
+RC/SAE operand must precede immediate operands
+RC/SAE operand must follow immediate operands
+invalid character %s in mnemonic
+expecting mnemonic; got nothing
+`%s' is not supported in 64-bit mode
+`%s' is only supported in 64-bit mode
+`%s' is not supported on `%s%s'
+use .code16 to ensure correct addressing mode
+invalid character %s before operand %d
+unbalanced parenthesis in operand %d.
+unbalanced brackets in operand %d.
+invalid character %s in operand %d
+spurious operands; (%d operands/instruction max)
+expecting operand after ','; got nothing
+expecting operand before ','; got nothing
+invalid instruction `%s' after `%s'
+expecting lockable instruction after `lock'
+instruction `%s' after `xacquire' not allowed
+memory destination needed for instruction `%s' after `xrelease'
+expecting valid branch instruction after `bnd'
+32-bit address isn't allowed in 64-bit MPX instructions.
+`%s' operand %d must use `%ses' segment
+no instruction mnemonic suffix given; can't determine immediate size
+segment override on `%s' is ineffectual
+instruction `%s' isn't supported in 16-bit mode.
+can't encode register '%s%s' in an instruction requiring REX prefix.
+missing or invalid expression `%s'
+invalid -mmnemonic= option: `%s'
+invalid -msyntax= option: `%s'
+invalid -msse-check= option: `%s'
+invalid -moperand-check= option: `%s'
+invalid -mavxscalar= option: `%s'
+invalid -mevexlig= option: `%s'
+invalid -mevexrcig= option: `%s'
+invalid -mevexwig= option: `%s'
+invalid -momit-lock-prefix= option: `%s'
+invalid -mrelax-relocations= option: `%s'
+no compiled in support for x86_64
+no compiled in support for 32bit x86_64
+  -Q                      ignored
+  -V                      print assembler version number
+  -k                      ignored
+  -n                      Do not optimize code alignment
+  -q                      quieten some warnings
+  -s                      ignored
+  --32/--64/--x32         generate 32bit/64bit/x32 code
+  --divide                ignored
+  -march=CPU[,+EXTENSION...]
+                          generate code for CPU and EXTENSION, CPU is one of:
+                          EXTENSION is combination of:
+  -mtune=CPU              optimize for CPU, CPU is one of:
+  -msse2avx               encode SSE instructions with VEX prefix
+  -msse-check=[none|error|warning]
+                          check SSE instructions
+  -moperand-check=[none|error|warning]
+                          check operand combinations for validity
+  -mavxscalar=[128|256]   encode scalar AVX instructions with specific vector
+                           length
+  -mevexlig=[128|256|512] encode scalar EVEX instructions with specific vector
+                           length
+  -mevexwig=[0|1]         encode EVEX instructions with specific EVEX.W value
+                           for EVEX.W bit ignored instructions
+  -mevexrcig=[rne|rd|ru|rz]
+                          encode EVEX instructions with specific EVEX.RC value
+                           for SAE-only ignored instructions
+  -mmnemonic=[att|intel]  use AT&T/Intel mnemonic
+  -msyntax=[att|intel]    use AT&T/Intel syntax
+  -mindex-reg             support pseudo index registers
+  -mnaked-reg             don't require `%%' prefix for registers
+  -mold-gcc               support old (<= 2.8.1) versions of gcc
+  -madd-bnd-prefix        add BND prefix for all valid branches
+  -mshared                disable branch optimization for shared code
+  -momit-lock-prefix=[no|yes]
+                          strip all lock prefixes
+  -mrelax-relocations=[no|yes]
+                          generate relax relocations
+  -mamd64                 accept only AMD64 ISA
+  -mintel64               accept only Intel64 ISA
+Intel MCU doesn't support `%s' architecture
+symbol size computation overflow
+can not do %d byte pc-relative relocation
+cannot represent relocation type %s in x32 mode
+cannot represent relocation type %s
+bad .section directive: want a,l,w,x,M,S,G,T in string
+bad .section directive: want a,w,x,M,S,G,T in string
+invalid use of register
+xmm0
+ymm0
+noprefix
+../../gas/config/tc-i386.c
+string address
+base/index
+st(0)
+duplicated `%s'
+Unsupported broadcast: `%s'
+invalid write mask `%s'
+invalid zeroing-masking `%s'
+missing `}' in `%s'
+SIZE
+_GLOBAL_OFFSET_TABLE_
+unsigned
+unknown relocation (%u)
+%s shortened to %s
+generic32
+missing cpu architecture
+nojumps
+no such architecture: `%s'
+(0x%x)
+.lbss
+rn-sae
+Missing '}': '%s'
+Junk after '}': '%s'
+bad memory operand `%s'
+junk `%s' after register
+bad register name `%s'
+junk `%s' after expression
+16-bit jump out of range
+invalid expression
+invalid operand
+operand size mismatch
+operand type mismatch
+register type mismatch
+number of operands mismatch
+invalid instruction suffix
+only supported with old gcc
+unsupported syntax
+unsupported instruction `%s'
+invalid VSIB address
+unsupported broadcast
+unsupported masking
+default mask isn't allowed
+invalid register operand
+%s for `%s'
+indirect %s without `*'
+stand-alone `%s' prefix
+Intel L1OM is 64bit ELF only
+Intel K1OM is 64bit ELF only
+Intel MCU is 32bit ELF only
+unknown architecture
+can't hash %s: %s
+i386 opcode
+i386 register
+no such instruction: `%s'
+expecting prefix; got nothing
+redundant %s prefix
+bound
+invlpga
+extrq
+insertq
+movabs
+SSE instruction `%s' is used
+missing `lock' with `%s'
+you can't `pop %scs'
+translating to `%s %s%s,%s%s'
+translating to `%s %s%s'
+translating to `%sp'
+long jump required
+jump target out of range
+elf64-x86-64
+coff-x86-64
+pe-x86-64
+pei-x86-64
+mach-o-x86-64
+elf32-x86-64
+x86_64:32
+invalid -march= option: `%s'
+invalid -mtune= option: `%s'
+intel
+elf32-i386
+elf64-l1om
+elf64-k1om
+elf32-iamcu
+Intel L1OM is 64bit only
+Intel K1OM is 64bit only
+Intel MCU is 32bit only
+GOT already in symbol table
+can not do %d byte relocation
+unwind
+large
+PLTOFF
+GOTPLT
+GOTOFF
+GOTPCREL
+TLSGD
+TLSLDM
+TLSLD
+GOTTPOFF
+DTPOFF
+GOTNTPOFF
+INDNTPOFF
+TLSDESC
+TLSCALL
+dword
+fword
+qword
+tbyte
+oword
+xmmword
+ymmword
+zmmword
+near
+mshared
+march
+mtune
+mmnemonic
+msyntax
+mindex-reg
+mnaked-reg
+mold-gcc
+msse2avx
+msse-check
+moperand-check
+mavxscalar
+madd-bnd-prefix
+mevexlig
+mevexwig
+momit-lock-prefix
+mrelax-relocations
+mevexrcig
+mamd64
+mintel64
+kVQ:sqn
+ffloat
+dfloat
+tfloat
+slong
+noopt
+optim
+code16gcc
+code16
+code32
+code64
+intel_syntax
+att_syntax
+intel_mnemonic
+att_mnemonic
+disallow_index_reg
+sse_check
+operand_check
+largecomm
+generic64
+i8086
+i186
+i286
+i486
+i586
+i686
+pentium
+pentiumpro
+pentiumii
+pentiumiii
+pentium4
+prescott
+nocona
+yonah
+core
+merom
+core2
+corei7
+k6_2
+athlon
+sledgehammer
+opteron
+amdfam10
+bdver1
+bdver2
+bdver3
+bdver4
+znver1
+btver1
+btver2
+.8087
+.287
+.387
+.no87
+.mmx
+.nommx
+.sse
+.sse2
+.sse3
+.ssse3
+.sse4.1
+.sse4.2
+.sse4
+.nosse
+.avx
+.avx2
+.avx512f
+.avx512cd
+.avx512er
+.avx512pf
+.avx512dq
+.avx512bw
+.avx512vl
+.noavx
+.vmx
+.vmfunc
+.smx
+.xsave
+.xsaveopt
+.xsavec
+.xsaves
+.aes
+.pclmul
+.clmul
+.fsgsbase
+.rdrnd
+.f16c
+.bmi2
+.fma
+.fma4
+.xop
+.lwp
+.movbe
+.cx16
+.ept
+.lzcnt
+.hle
+.rtm
+.invpcid
+.clflush
+.nop
+.syscall
+.rdtscp
+.3dnow
+.3dnowa
+.padlock
+.pacifica
+.svme
+.sse4a
+.abm
+.bmi
+.tbm
+.adx
+.rdseed
+.prfchw
+.smap
+.mpx
+.sha
+.clflushopt
+.prefetchwt1
+.se1
+.clwb
+.pcommit
+.avx512ifma
+.avx512vbmi
+.clzero
+.mwaitx
+A Santa lives evil at NASA
+.ospke
+rd-sae
+ru-sae
+rz-sae
+tc_x86_frame_initial_instructions
+tc_gen_reloc
+i386_validate_fix
+show_arch
+md_operand
+elf_symbol_resolved_in_segment_p
+i386_frag_max_var
+offset_in_range
+output_disp
+output_jump
+output_insn
+add_prefix
+build_evex_prefix
+build_vex_prefix
+build_modrm_byte
+process_operands
+process_immext
+finalize_imm
+process_suffix
+check_hle
+fits_in_vec_disp8
+check_VecOperands
+operand_size_match
+match_template
+optimize_imm
+swap_operands
+parse_real_register
+parse_register
+i386_intel_simplify
+i386_intel_operand
+i386_align_code
+set_16bit_gcc_code_flag
+fFdDxX
+*%-([{
+.comment
+bss"
+data"
+bad .common segment %s
+../../gas/config/obj-elf.c
+.note
+expected quoted string
+.group
+can't create group: %s
+STT_FUNC
+STT_OBJECT
+tls_object
+STT_TLS
+notype
+STT_NOTYPE
+STT_COMMON
+gnu_indirect_function
+STT_GNU_IFUNC
+gnu_unique_object
+unrecognized symbol type "%s"
+progbits
+nobits
+fini_array
+preinit_array
+unrecognized section type
+.interp
+.strtab
+.symtab
+	,; 
+missing name
+invalid merge entity size
+comdat
+write
+alloc
+execinstr
+exclude
+expected numeric constant
+bad string constant
+expected <tag> , <value>
+expected comma
+ident
+previous
+section.s
+sect
+sect.s
+pushsection
+popsection
+internal
+hidden
+protected
+symver
+subsection
+vtable_inherit
+vtable_entry
+gnu_attribute
+Tacocat
+2byte
+4byte
+8byte
+loc_mark_labels
+tls_common
+expected comma after name `%s' in .size directive
+missing expression in .size directive
+expected `%s' to have already been set for .vtable_inherit
+expected comma after name in .vtable_inherit
+.size expression for %s does not evaluate to a constant
+invalid attempt to declare external version name as default in symbol `%s'
+symbol `%s' can not be both weak and common
+assuming all members of group `%s' are COMDAT
+Missing symbol name in directive
+expected comma after name in .symver
+missing version name in `%s' for symbol `%s'
+multiple versions [`%s'|`%s'] for symbol `%s'
+symbol '%s' is already defined
+symbol type "%s" is supported only by GNU and FreeBSD targets
+symbol type "%s" is supported only by GNU targets
+.popsection without corresponding .pushsection; ignored
+.previous without corresponding .section; ignored
+expected comma after name in .vtable_entry
+setting incorrect section type for %s
+ignoring incorrect section type for %s
+setting incorrect section attributes for %s
+ignoring changed section type for %s
+ignoring changed section attributes for %s
+ignoring changed section entity size for %s
+unrecognized .section attribute: want a,e,w,x,M,S,G,T
+entity size for SHF_MERGE not specified
+? section flag ignored with G present
+group name for SHF_GROUP not specified
+character following name is not '#'
+unrecognized section attribute
+Attribute name not recognised: %s
+adjust_stab_sections
+obj_elf_init_stab_section
+obj_elf_vendor_attribute
+obj_elf_vtable_inherit
+obj_elf_visibility
+cannot create floating-point number
+Unrecognized or unsupported floating point constant
+%s: error: too many @-files encountered
+memory exhausted
+;*3$"
+                                                                                
+%$-+(,)*._~/<>|&^!:[@]
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

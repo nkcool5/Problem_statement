@@ -1,0 +1,834 @@
+/lib64/ld-linux-x86-64.so.2
+ fUa
+libext2fs.so.2
+_ITM_deregisterTMCloneTable
+com_err
+__gmon_start__
+error_message
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+ext2fs_allocate_block_bitmap
+ext2fs_block_alloc_stats2
+ext2fs_block_iterate3
+ext2fs_block_bitmap_loc
+ext2fs_open_inode_scan
+ext2fs_group_of_blk2
+ext2fs_close
+ext2fs_read_inode
+et_ext2_error_table
+ext2fs_free
+ext2fs_add_journal_inode2
+ext2fs_read_bitmaps
+ext2fs_r_blocks_count_set
+test_io_manager
+ext2fs_inode_has_valid_blocks2
+ext2fs_inode_table_loc
+ext2fs_mmp_init
+ext2fs_badblocks_list_free
+io_channel_read_blk64
+ext2fs_read_inode_bitmap
+ext2fs_file_acl_block_set
+ext2fs_free_blocks_count_set
+ext2fs_blocks_count
+ext2fs_group_first_block2
+ext2fs_free_blocks_count
+ext2fs_read_block_bitmap
+ext2fs_mmp_clear
+undo_io_manager
+ext2fs_inode_bitmap_loc_set
+ext2fs_free_block_bitmap
+ext2fs_bg_free_inodes_count_set
+set_undo_io_backing_manager
+ext2fs_journal_sb_start
+ext2fs_file_acl_block
+ext2fs_read_bb_inode
+ext2fs_block_bitmap_loc_set
+unix_io_manager
+ext2fs_bg_free_blocks_count_set
+ext2fs_open2
+ext2fs_group_desc_csum_set
+ext2fs_test_generic_bmap
+ext2fs_new_block2
+test_io_backing_manager
+ext2fs_free_blocks_count_add
+ext2fs_unmark_generic_bmap
+ext2fs_add_journal_device
+ext2fs_get_next_inode
+ext2fs_mark_generic_bmap
+ext2fs_close_free
+ext2fs_badblocks_list_test
+ext2fs_check_if_mounted
+ext2fs_mmp_read
+set_undo_io_backup_file
+io_channel_write_blk64
+ext2fs_bg_free_blocks_count
+ext2fs_group_desc
+ext2fs_open
+ext2fs_inode_bitmap_loc
+ext2fs_default_journal_size
+ext2fs_group_desc_csum_verify
+ext2fs_open_file
+ext2fs_r_blocks_count
+ext2fs_check_desc
+ext2fs_find_block_device
+ext2fs_update_dynamic_rev
+ext2fs_mmp_stop
+_fini
+ext2fs_close_inode_scan
+ext2fs_write_inode
+ext2fs_fstat
+libcom_err.so.2
+set_com_err_gettext
+add_error_table
+remove_error_table
+libblkid.so.1
+blkid_probe_lookup_value
+blkid_probe_enable_partitions
+blkid_put_cache
+blkid_get_tag_value
+blkid_get_devname
+blkid_new_probe_from_filename
+blkid_probe_enable_superblocks
+blkid_get_cache
+blkid_do_fullprobe
+blkid_free_probe
+libuuid.so.1
+uuid_is_null
+uuid_clear
+uuid_unparse
+uuid_generate_time
+uuid_parse
+uuid_generate
+ext2fs_lookup
+ext2fs_write_bitmaps
+ext2fs_file_close
+ext2fs_inode_i_blocks
+ext2fs_file_llseek
+ext2fs_file_read
+ext2fs_file_write
+ext2fs_punch
+ext2fs_iblk_set
+ext2fs_write_new_inode
+ext2fs_file_open
+ext2fs_file_flush
+ext2fs_file_get_lsize
+ext2fs_file_set_size2
+libe2p.so.2
+list_super
+e2p_edit_feature2
+parse_num_blocks2
+e2p_feature2string
+e2p_string2hash
+e2p_edit_mntopts
+libc.so.6
+__xpg_basename
+fflush
+__printf_chk
+exit
+_IO_putc
+setlocale
+dcngettext
+optind
+strrchr
+__longjmp_chk
+perror
+dcgettext
+signal
+strncpy
+__stack_chk_fail
+unlink
+stdin
+strdup
+strtod
+strtol
+fgets
+getpwnam
+calloc
+strlen
+memset
+Beeb
+__errno_location
+memcmp
+getopt
+strptime
+_setjmp
+__fprintf_chk
+ctime
+getgrnam
+stdout
+fputc
+fputs
+memcpy
+strtoul
+malloc
+strcasecmp
+getenv
+optarg
+stderr
+alarm
+__snprintf_chk
+strncat
+fwrite
+strchr
+mktime
+__sprintf_chk
+bindtextdomain
+access
+strcmp
+strerror
+__libc_start_main
+_edata
+__bss_start
+_end
+BLKID_1.0
+BLKID_2.17
+BLKID_2.15
+GLIBC_2.11
+GLIBC_2.14
+GLIBC_2.4
+GLIBC_2.3.4
+GLIBC_2.2.5
+UUID_1.0
+AWAVAUATUS
+\$HE1
+G(L9
+[]A\A]A^A_
+D$HA
+D$ H
+D$HI
+t$X1
+D$XL
+D$H1
+D$H1
+D$H1
+D$H1
+D$HL
+t$X1
+D$HH
+l$HH
+L$X1
+l$HH
+l$Hu
+|$H1
+;o0r
+;o0A
+|$HH
+l$HH
+t$X1
+t$XH
+Do nine men interpret Nine men I nod
+|$XI
+|$H;o0r
+D$HH
+D$HH
+T$HH
+T$PH
+D$PL
+t$XH
+D$ L
+t$(D;m0
+L$ M
+|$XD
+|$X1
+|$X1
+|$XL
+D$H1
+|$XL
+H9D$
+D$PH
+d$PH
+l$PE1
+D;e0
+T$ H
+t$X1
+t$XH
+T$XH
+w	H9
+D$(E;g0
+G D;H(skL
+L$<L
+T$(J
+T$0D
+L$<H
+D;w 
+D;/wEE
+D;w(tMD;/tHA
+t$`H
+t$`H
+t$D1
+|$XH
+T$`H
+t$`H
+t$`H
+t$`H
+t$DH
+T$`H
+AWAVAUATUSH
+t$ H
+T$ 1
+[]A\A]A^A_
+|$`H
+L$ L
+AWAV
+AUAT
+c:e:fg:iH
+|$xL
+D$PH
+:jlm:o:rH
+D$XH
+:s:u:C:EH
+D$`H
+:I:J:L:MH
+D$hH
+:O:T:U:
+D$p1
+T$PH
+Lc%G
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+C\ t'
+uUE1
+E9w0f
+$3S`
+S\D1
+D;k\
+E9w0w
+$;C`
+D;cd
+T$ L
+T$ D
+uME1
+|$ 1
+AVAUI
+ATUI
+[]A\A]A^
+XZuWH
+tt=C
+L$@H
+D$hI
+T$pH
+AVAUA
+ATU1
+D$81
+Hc8I
+L$HH
+[]A\A]A^
+AUATA
+[]A\A]
+AVAUATUH
+[]A\A]A^
+ATUI
+[]A\
+AUATA
+[]A\A]
+E@I9
+C([1
+dH34%(
+ATUA
+[]A\
+AY[]A\
+AWAVAUATE1
+D9d$
+[]A\A]A^A_
+} AXAYH
+AVAUI
+ATUSL
+t$(H
+[]A\A]A^
+AWAVAUATI
+([]A\A]A^A_
+AUATL
+[]A\A]
+tVAUATI
+Mxt(
+L)`@H
+[]A\A]
+tVAUATI
+Mxt(
+[]A\A]
+ATUSH
+[]A\
+AUATUSH
+([]A\A]
+} XZH
+AVAUATUSH
+t$ E1
+|$ H
+t$ L
+[]A\A]A^
+|$PXZH
+ATUA
+[]A\
+ATUA
+[]A\
+t<Hc
+AVAULc
+ATUSH
+ []A\A]A^
+H;C(|%H
+ATUH
+[]A\
+AWAVAUATA
+|$ D
+T$$H
+D$@A
+|$:fD
+T$@H
+B`@t	
+D$@L
+Eleele
+[]A\A]A^A_
+|$HI
+D$ D
+AUATUSH
+V8dH
+l$(L
+tKH;t$
+([]A\A]
+H;t$
+AWAVAUATUSHc
+([]A\A]A^A_
+D$81
+D$4'
+L$8dH3
+dH34%(
+Tacocat
+=u| 
+dH34%(
+D$H1
+D$HdH3
+=py 
+AWAVA
+AUATUSH
+[]A\A]A^A_
+=Yw 
+[]A\A]A^A_A
+[]A\
+=Iv 
+AWAVAUATA
+D$(L
+|$(A
+9APw
+t$4H
+[]A\A]A^A_
+[]A\A]A^A_
+L;d$
+,$D;hPr
+L$ D
+T$0L
+L$ D
+d$ A
+l$(L
+u?H9
+d$ H
+AWAVA
+AUATI
+[]A\A]A^A_
+=Ir 
+[]A\A]A^A_
+=Iq 
+God A red nugget A fat egg under a dog
+AWAVA
+AUATI
+D$(1
+\$(dH3
+8[]A\A]A^A_
+T$$L
+T$$A
+=4n 
+=Um 
+AWAVI
+AUAT
+[]A\A]A^A_
+D$TA
+([]A\A]A^A_
+D$TA
+t$TL
+T$\1
+t$XH
+l$XA
+=Gi 
+t$XL
+ATUH
+S09C\
+[]A\
+[]A\
+=!g 
+AUATA
+U(9E\
+[]A\A]
+[]A\A]
+AVAUI
+ATUI
+|$P1
+t$pH
+]A\A]A^
+]A\A]A^
+t;ATUI
+[]A\
+AUATUSH
+taH9
+[]A\A]
+]A\A]
+]A\A]
+AUATI
+t$ L
+$$L9
+[]A\A]
+[]A\A]
+AUATI
+V H9
+[]A\A]
+ATUI
+[]A\
+t!H;r
+H;2t
+G8H9G0
+AWAVA
+AUATL
+[]A\A]A^A_
+Usage: %s [-c max_mounts_count] [-e errors_behavior] [-g group]
+	[-i interval[d|m|w]] [-j] [-J journal_options] [-l]
+	[-m reserved_blocks_percent] [-o [^]mount_options[,...]] [-p mmp_update_interval]
+	[-r reserved_blocks_count] [-u user] [-C mount_count] [-L volume_label]
+	[-M last_mounted_dir] [-O [^]feature[,...]]
+	[-Q quota_options]
+	[-E extended-option[,...]] [-T last_check_time] [-U UUID]
+	[ -I new_inode_size ] device
+Please run e2fsck on the filesystem.
+while reading journal superblock
+Journal superblock not found!
+while trying to open external journal
+while writing journal superblock.
+Cannot locate journal device. It was NOT removed
+Use -f option to remove missing journal device.
+Filesystem's UUID not found on journal device.
+Couldn't allocate memory to parse quota options!
+Bad quota options specified.
+Following valid quota options are available (pass by separating with comma):
+	[^]usrquota
+	[^]grpquota
+bad reserved blocks count - %s
+Couldn't parse date/time specifier: %s
+Inode size must be a power of two- %s
+Invalid filesystem option set: %s
+Clearing filesystem feature '%s' not supported.
+Setting filesystem feature '%s' not supported.
+The has_journal feature may only be cleared when the filesystem is
+unmounted or mounted read-only.
+The needs_recovery flag is set.  Please run e2fsck before clearing
+the has_journal flag.
+Setting filesystem feature 'sparse_super' not supported
+for filesystems with the meta_bg feature enabled.
+The multiple mount protection feature can't
+be set if the filesystem is mounted or
+read-only.
+Error while enabling multiple mount protection feature.
+Multiple mount protection has been enabled with update interval %ds.
+The multiple mount protection feature cannot
+be disabled if the filesystem is readonly.
+Magic number in MMP block does not match. expected: %x, actual: %x
+Clearing the flex_bg flag would cause the the filesystem to be
+inconsistent.
+The huge_file feature may only be cleared when the filesystem is
+unmounted or mounted read-only.
+Warning: '^quota' option overrides '-Q'arguments.
+Usage: e2label device [newlabel]
+If you are sure the filesystem is not in use on any node, run:
+'tune2fs -f -E clear_mmp {device}'
+MMP block magic is bad. Try to fix it by running:
+'e2fsck -f %s'
+Couldn't find valid filesystem superblock.
+The inode size is already %lu
+Shrinking inode size is not supported
+Invalid inode size %lu (max %d)
+Couldn't allocate memory for tdb filename
+To undo the tune2fs operation please run the command
+    e2undo %s %s
+while determining whether %s is mounted.
+Setting maximal mount count to %d
+Setting current mount count to %d
+Setting reserved blocks gid to %lu
+interval between checks is too big (%lu)
+Setting interval between checks to %lu seconds
+Setting reserved blocks percentage to %g%% (%llu blocks)
+reserved blocks count is too big (%llu)
+Setting reserved blocks count to %llu
+The filesystem already has sparse superblocks.
+Setting the sparse superblock flag not supported
+for filesystems with the meta_bg feature enabled.
+Sparse superblock flag set.  %s
+Clearing the sparse superblock flag not supported.
+Setting time filesystem last checked to %s
+Setting reserved blocks uid to %lu
+Warning: label too long, truncating.
+Couldn't allocate memory to parse options!
+Invalid mmp_update_interval: %s
+mmp_update_interval too big: %lu
+Setting multiple mount protection update interval to %lu seconds
+Setting multiple mount protection update interval to %lu second
+Invalid RAID stripe-width: %s
+Setting default hash algorithm to %s (%d)
+Extended mount options too long
+Bad options specified.
+Extended options are separated by commas, and may take an argument which
+	is set off by an equals ('=') sign.
+Valid extended options are:
+	clear_mmp
+	hash_alg=<hash algorithm>
+	mount_opts=<extended default mount options>
+	stride=<RAID per-disk chunk size in blocks>
+	stripe_width=<RAID stride*data disks in blocks>
+	test_fs
+	^test_fs
+Error in using clear_mmp. It must be used with -f
+The filesystem already has a journal.
+	while trying to open journal on %s
+Creating journal on device %s: 
+while adding filesystem to journal on %s
+	while trying to create journal file
+The quota feature may only be changed when the filesystem is unmounted.
+The UUID may only be changed when the filesystem is unmounted.
+Need to update journal superblock.
+The inode size may only be changed when the filesystem is unmounted.
+Changing the inode size not supported for filesystems with the flex_bg
+feature enabled.
+Failed to allocate block bitmap when increasing inode size
+Not enough space to increase inode size 
+Failed to relocate blocks during inode resize 
+Error in resizing the inode size.
+Run e2undo to undo the file system changes. 
+Borrow or rob
+Setting extended default mount options to '%s'
+(and reboot afterwards!)
+UUID
+TEST_IO_FLAGS
+TEST_IO_BLOCK
+%s is not a journal device.
+Journal removed
+alula
+17-May-2015
+1.42.13
+tune2fs %s (%s)
+bad mounts count - %s
+continue
+remount-ro
+Degas are we not drawn onward no In union drawn onward to new eras aged
+panic
+bad error behavior - %s
+bad gid/group name - %s
+bad interval - %s
+bad reserved block ratio - %s
+-o may only be specified once
+-O may only be specified once
+^usrquota
+^grpquota
+%Y%m%d%H%M%S
+bad uid/user name - %s
+bad inode size - %s
+Unable to resolve '%s'
+while reading journal inode
+while reading bitmaps
+while clearing journal inode
+while writing journal inode
+Error while reading bitmaps
+while reading MMP block.
+while trying to open %s
+/var/lib/e2fsprogs
+/usr/share/locale
+e2label
+TEST_IO_DEBUG
+E2FSPROGS_UNDO_DIR
+none
+%s/tune2fs-%s.e2undo
+while trying to delete %s
+%.*s
+ext2fs_check_if_mount
+Setting error behavior to %d
+Invalid mount option set: %s
+clear-mmp
+clear_mmp
+mmp_update_interval
+Setting test filesystem flag
+^test_fs
+Clearing test filesystem flag
+stride
+Invalid RAID stride: %s
+stripe-width
+stripe_width
+hash_alg
+hash-alg
+Invalid hash algorithm: %s
+mount_opts
+journal
+done
+Creating journal inode: 
+null
+clear
+time
+random
+Invalid UUID format
+Failed to read inode bitmap
+Failed to read block bitmap
+blocks to be moved
+Setting inode size %lu
+Failed to change inode size
+Setting stride size to %d
+Setting stripe width to %d
+tune2fs
+<proceeding>
+Proceed anyway? (y,n) 
+Creating regular file %s
+stat
+LABEL
+%s contains a %s file system
+	last mounted on %s on %s
+	last mounted on %s
+	created on %s
+	last modified on %s
+PTTYPE
+Could not open %s: %s
+%s is mounted; 
+will not make a %s here!
+mke2fs forced anyway.
+device
+size
+location
+v1_superblock
+MMP check failed: %s
+Proceed anyway (or wait %d seconds) ? (y,n) 
+The file %s does not exist and no size was specified.
+The device apparently does not exist; did you specify it correctly?
+%s is not a block special device.
+%s contains a %s file system labelled '%s'
+Found a %s partition table in %s
+%s is entire device, not just one partition!
+mke2fs forced anyway.  Hope /etc/mtab is incorrect.
+%s is apparently in use by the system; 
+Couldn't allocate memory to parse journal options!
+Could not find journal device matching %s
+Bad journal options specified.
+Journal options are separated by commas, and may take an argument which
+	is set off by an equals ('=') sign.
+Valid journal options are:
+	size=<journal size in megabytes>
+	device=<journal device>
+	location=<journal location>
+The journal size must be between 1024 and 10240000 filesystem blocks.
+Filesystem too small for a journal
+The requested journal size is %d blocks; it must be
+between 1024 and 10240000 blocks.  Aborting.
+Journal size too big for filesystem.
+This filesystem will be automatically checked every %d mounts or
+%g days, whichever comes first.  Use tune2fs -c or -i to override.
+MMP error info: last update: %s node: %s device: %s
+@/build/e2fsprogs-Fbwc2X/e2fsprogs-1.42.13/lib/quota/mkquota.c
+[ERROR] %s:%d:%s:: Unable to allocate dquot
+[QUOTA WARNING] Usage inconsistent for ID %d:actual (%llu, %llu) != expected (%llu, %llu)
+[ERROR] %s:%d:%s:: Couldn't read bitmaps: %s
+[ERROR] %s:%d:%s:: Couldn't write bitmaps: %s
+[ERROR] %s:%d:%s:: Cannot initialize io on quotafile
+[ERROR] %s:%d:%s:: Cannot finish IO on new quotafile: %s
+[ERROR] %s:%d:%s:: Unable to allocate quota handle: %s
+[ERROR] %s:%d:%s:: Cannot close quotafile: %s
+[ERROR] %s:%d:%s:: Failed to allocate quota context
+[ERROR] %s:%d:%s:: Failed to allocate dictionary
+[ERROR] %s:%d:%s:: while opening inode scan. ret=%ld
+[ERROR] %s:%d:%s:: while getting next inode. ret=%ld
+[ERROR] %s:%d:%s:: Open quota file failed
+[ERROR] %s:%d:%s:: Unable to allocate quota handle
+[ERROR] %s:%d:%s:: Error scanning dquots
+[QUOTA WARNING] Missing quota entry ID %d
+quota_compare_and_update
+quota_update_limits
+quota_compute_usage
+get_dq
+quota_release_context
+quota_init_context
+quota_write_inode
+quota_remove_inode
+/build/e2fsprogs-Fbwc2X/e2fsprogs-1.42.13/lib/quota/quotaio.c
+[ERROR] %s:%d:%s:: ext2fs_file_llseek failed: %ld
+[ERROR] %s:%d:%s:: ext2fs_file_read failed: %ld
+[ERROR] %s:%d:%s:: ext2fs_file_write failed: %ld
+[ERROR] %s:%d:%s:: ex2fs_read_inode failed
+[ERROR] %s:%d:%s:: ext2fs_write_new_inode failed: %ld
+[ERROR] %s:%d:%s:: init_new_quota_inode failed
+[ERROR] %s:%d:%s:: ext2fs_file_open failed: %d
+[ERROR] %s:%d:%s:: qh_ops->new_io failed
+[ERROR] %s:%d:%s:: ext2fs_file_open failed: %s
+[ERROR] %s:%d:%s:: qh_ops->check_file failed
+[ERROR] %s:%d:%s:: qh_ops->init_io failed
+[ERROR] %s:%d:%s:: Failed to allocate dquot
+%s.%s
+aquota
+user
+group
+get_empty_dquot
+quota_inode_init_new
+quota_file_create
+quota_write_nomount
+quota_read_nomount
+quota_file_open
+/build/e2fsprogs-Fbwc2X/e2fsprogs-1.42.13/lib/quota/quotaio_v2.c
+[ERROR] %s:%d:%s:: Not Implemented.
+[ERROR] %s:%d:%s:: Your quota file is stored in wrong endianity
+v2_check_file
+v2_report
+/build/e2fsprogs-Fbwc2X/e2fsprogs-1.42.13/lib/quota/quotaio_tree.c
+[ERROR] %s:%d:%s:: Cannot write block (%u): %s
+[ERROR] %s:%d:%s:: Cannot read block %u: %s
+[ERROR] %s:%d:%s:: Illegal reference (%u >= %u) in %s quota file. Quota file is probably corrupted.
+A Santa lives evil at NASA
+Please run e2fsck (8) to fix it.
+[ERROR] %s:%d:%s:: Failed to allocate dqbuf
+[ERROR] %s:%d:%s:: Cannot allocate new quota block (out of disk space).
+[ERROR] %s:%d:%s:: Quota for id %u referenced but not present.
+[ERROR] %s:%d:%s:: Inserting already present quota entry (block %u).
+[ERROR] %s:%d:%s:: find_free_dqentry(): Data block full unexpectedly.
+[ERROR] %s:%d:%s:: Quota structure has offset to other block (%u) than it should (%u).
+[ERROR] %s:%d:%s:: Cannot write quota (id %u): %s
+[ERROR] %s:%d:%s:: Quota write failed (id %u): %s
+[ERROR] %s:%d:%s:: Cannot read quota structure for id %u: %s
+check_reference
+find_block_dqentry
+qtree_read_dquot
+free_dqentry
+write_blk
+find_free_dqentry
+read_blk
+get_free_dqblk
+getdqbuf
+do_insert_tree
+dq_insert_tree
+qtree_write_dquot
+;*3$"
+tune2fs
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

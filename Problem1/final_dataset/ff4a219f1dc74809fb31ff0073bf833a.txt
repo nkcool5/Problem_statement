@@ -1,0 +1,697 @@
+/lib64/ld-linux-x86-64.so.2
+libpulse.so.0
+_ITM_deregisterTMCloneTable
+pa_snprintf
+pa_strip
+pa_split
+__gmon_start__
+pa_atou
+pa_log_level_meta
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+pa_sw_volume_from_linear
+pa_context_drain
+pa_locale_to_utf8
+pa_context_set_subscribe_callback
+pa_context_move_source_output_by_name
+pa_context_get_index
+pa_context_disconnect
+pa_context_get_sink_info_by_name
+pa_context_get_source_output_info_list
+pa_proplist_gets
+pa_format_info_snprint
+Borrow or rob
+pa_stream_connect_upload
+pa_channel_map_init_extend
+pa_context_set_source_output_volume
+pa_xstrndup
+Tacocat
+pa_strerror
+pa_context_play_sample
+pa_context_get_source_output_info
+pa_context_unload_module
+pa_context_load_module
+pa_channel_map_compatible
+pa_context_set_port_latency_offset
+pa_context_get_source_info_by_name
+pa_format_info_free
+pa_context_set_sink_port_by_name
+pa_context_errno
+pa_context_set_card_profile_by_name
+pa_context_get_server_info
+pa_mainloop_new
+pa_context_new_with_proplist
+pa_context_get_sink_input_info
+pa_cvolume_get_balance
+pa_context_set_source_port_by_name
+pa_context_suspend_source_by_index
+pa_context_stat
+pa_signal_init
+pa_stream_finish_upload
+pa_proplist_new
+pa_ext_device_restore_save_formats
+pa_context_get_state
+pa_proplist_free
+pa_context_suspend_sink_by_name
+pa_operation_unref
+pa_context_suspend_sink_by_index
+pa_context_get_source_info_list
+pa_volume_snprint_verbose
+pa_context_get_server
+pa_context_get_client_info_list
+pa_sample_spec_valid
+pa_sw_volume_from_dB
+pa_get_library_version
+pa_stream_get_context
+pa_context_set_sink_mute_by_name
+pa_stream_write
+pa_context_is_local
+pa_context_suspend_source_by_name
+pa_xmalloc
+pa_cvolume_set
+pa_context_get_sample_info_list
+pa_context_set_source_volume_by_name
+pa_context_set_source_mute_by_name
+pa_bytes_snprint
+pa_sample_spec_snprint
+pa_context_get_module_info_list
+pa_mainloop_free
+pa_xstrdup
+pa_proplist_isempty
+pa_signal_new
+pa_stream_new
+pa_context_get_sink_input_info_list
+pa_context_set_default_source
+pa_frame_size
+pa_stream_get_state
+pa_context_get_server_protocol_version
+pa_xfree
+pa_context_get_sink_info_list
+pa_proplist_to_string_sep
+pa_mainloop_get_api
+pa_context_unref
+pa_path_get_filename
+pa_context_set_state_callback
+pa_context_set_default_sink
+pa_context_exit_daemon
+pa_context_get_tile_size
+pa_mainloop_run
+pa_stream_set_write_callback
+pa_signal_done
+pa_context_subscribe
+pa_context_get_card_info_list
+pa_proplist_sets
+pa_context_get_protocol_version
+pa_format_info_from_string
+pa_context_remove_sample
+pa_context_set_sink_input_mute
+pa_context_set_sink_input_volume
+pa_context_set_sink_volume_by_name
+pa_context_connect
+pa_stream_unref
+pa_channel_map_snprint
+pa_context_set_source_output_mute
+pa_cvolume_snprint_verbose
+Degas are we not drawn onward no In union drawn onward to new eras aged
+pa_stream_set_state_callback
+pa_sw_cvolume_multiply
+pa_context_move_sink_input_by_name
+libpulsecommon-8.0.so
+pa_parse_boolean
+pa_atod
+pa_endswith
+pa_atoi
+pa_sndfile_read_sample_spec
+pa_sndfile_read_channel_map
+pa_startswith
+pa_disable_sigpipe
+_fini
+libsndfile.so.1
+sf_close
+sf_open
+sf_readf_float
+libcap.so.2
+libpthread.so.0
+librt.so.1
+libdl.so.2
+libm.so.6
+libc.so.6
+fflush
+__printf_chk
+setlocale
+optind
+dcgettext
+__stack_chk_fail
+putchar
+alula
+abort
+strtol
+stdout
+optarg
+getopt_long
+strchr
+__sprintf_chk
+bindtextdomain
+strcmp
+__libc_start_main
+_edata
+__bss_start
+_end
+/usr/lib/x86_64-linux-gnu/pulseaudio
+libsndfile.so.1.0
+GLIBC_2.4
+GLIBC_2.3.4
+GLIBC_2.2.5
+PULSE_0
+Su=Ph
+AVAUATUSH
+u;Vh
+[]A\A]A^
+AWAVAUATE1
+D$H1
+L$HdH3
+A Santa lives evil at NASA
+X[]A\A]A^A_
+huFL
+T$ 1
+D$ H
+xgHc
+UH-h
+AUATUSH
+[]A\A]
+[]A\A]
+[]A\A]
+AWAVA
+AUATI
+[]A\A]A^A_
+SxCu9H
+SxCu9H
+Sx;u1H
+Sx;u1H
+ATUS
+[]A\H
+=-} 
+[]A\
+XZ[]A\
+x~t$H
+5ty 
+x~t$H
+58x 
+x~t$H
+x~t$H
+=ft 
+AVAUATUSH
+D$(1
+=Jt 
+D$(dH3
+0[]A\A]A^
+AWAVAUATUSH
+=so 
+[]A\A]A^A_
+D$(I
+|$`L
+|$@L
+D$ E
+\$PSAUL
+D$PH
+|$@H
+AUATUSH
+D$(1
+=Mk 
+D$(dH3
+8[]A\A]
+AWAVAUATUSH
+AVAUE
+|$0H
+L$(H
+D$ H
+AVAU
+ATAW1
+L$XL
+D$PH
+[]A\A]A^A_
+AWAVAUATUSH
+D$81
+=ie 
+D$8dH3
+H[]A\A]A^A_
+[ AYAZE
+H0RD
+God A red nugget A fat egg under a dog
+AVATH
+AWAVAUATUSH
+D$8I
+D$(I
+D$PL
+L$HA
+L$@H
+AUAT
+t$0AV
+t$PU
+t$|VL
+[]A\A]A^A_
+L$@I
+AWAVAUATUSH
+D$8I
+D$(I
+D$PL
+L$HA
+L$@H
+AUAT
+t$0AV
+t$PU
+t$|VL
+[]A\A]A^A_
+L$@I
+AWAVAUATUSH
+T$0H
+d$xH
+D$`L
+L$hH
+AUATH
+t$hU
+ASAWAVL
+[]A\A]A^A_
+AWAVAUATUSH
+=SP 
+D$ I
+d$hI
+l$pM
+D$xA
+D$XL
+L$`H
+t$XAT
+AWAVL
+[]A\A]A^A_
+AWAVA
+AUATL
+%&C 
+-.C 
+[]A\A]A^A_
+[options]
+pulseaudio
+stat
+info
+[TYPE]
+list [short]
+%s %s %s %s
+exit
+FILENAME [NAME]
+upload-sample
+NAME [SINK]
+play-sample 
+NAME
+remove-sample 
+NAME [ARGS ...]
+NAME|#N
+unload-module 
+#N SINK|SOURCE
+NAME|#N 1|0
+suspend-(sink|source)
+CARD PROFILE
+set-card-profile 
+set-default-(sink|source)
+NAME|#N PORT
+set-(sink|source)-port
+NAME|#N VOLUME [VOLUME ...]
+set-(sink|source)-volume
+NAME|#N 1|0|toggle
+set-(sink|source)-mute
+#N FORMATS
+set-sink-formats
+CARD-NAME|CARD-#N PORT OFFSET
+set-port-latency-offset
+subscribe
+mainloop_api
+utils/pactl.c
+Got SIGINT, exiting.
+s && length && sndfile
+sample_length >= length
+Premature end of file
+sample_stream
+modules
+sinks
+sources
+sink-inputs
+source-outputs
+clients
+samples
+cards
+Operation failed: %s
+Connection failure: %s
+mute_text
+client
+sample-cache
+server
+card
+unknown
+change
+remove
+Event '%s' on %s #%u
+actions > 0
+%u	%s	%s	
+Failed to get statistics: %s
+Sample cache size: %s
+%u	%s	%s	%0.3f
+(null)
+application.process.binary
+%u	%s	%s
+Failure: %s
+Failed to upload sample: %s
+vol_spec
+Invalid volume specification
+, available
+, not available
+	Profiles:
+	Active Profile: %s
+	Ports:
+				
+			Properties:
+				%s
+			Part of profile(s): %s
+, %s
+%u	%u	%s	%s	%s
+SET_FORMATS 
+LATENCY 
+DECIBEL_VOLUME 
+HW_VOLUME_CTRL 
+HW_MUTE_CTRL 
+NETWORK 
+HARDWARE 
+%u	%s	%s	%s	%s
+		%s: %s (priority: %u%s)
+	Active Port: %s
+	Formats:
+/usr/share/locale
+8.0.0
+application.name
+Invalid client name '%s'
++s:n:h
+list
+short
+Failed to open sound file.
+play-sample
+remove-sample
+move-sink-input
+move-source-output
+%s%s
+unload-module
+suspend-sink
+suspend-source
+set-card-profile
+set-sink-port
+set-default-sink
+set-source-port
+set-default-source
+set-sink-volume
+set-source-volume
+set-sink-input-volume
+Invalid sink input index
+set-source-output-volume
+Invalid source output index
+set-sink-mute
+Invalid mute specification
+set-source-mute
+set-sink-input-mute
+set-source-output-mute
+help
+No valid command specified.
+pa_mainloop_new() failed.
+pa_context_new() failed.
+pa_mainloop_run() failed.
+RUNNING
+IDLE
+SUSPENDED
+client-name
+version
+move-(sink-input|source-output)
+set-(sink-input|source-output)-volume
+set-(sink-input|source-output)-mute
+The special names @DEFAULT_SINK@, @DEFAULT_SOURCE@ and @DEFAULT_MONITOR@
+can be used to specify the default sink, source and monitor.
+  -h, --help                            Show this help
+      --version                         Show version
+  -s, --server=SERVER                   The name of the server to connect to
+  -n, --client-name=NAME                How to call this client on the server
+Assertion '%s' failed at %s:%u, function %s(). Aborting.
+Failed to set format: invalid format string %s
+Code should not be reached at %s:%u, function %s(). Aborting.
+Failed to get sink information: %s
+Failed to get source information: %s
+Failed to get sink input information: %s
+Failed to get source output information: %s
+Failed to set volume: You tried to set volumes for %d channels, whereas channel/s supported = %d
+Failed to get module information: %s
+Failed to unload module: Module %s not loaded
+Module #%u
+	Name: %s
+	Argument: %s
+	Usage counter: %s
+	Properties:
+		%s
+Currently in use: %u blocks containing %s bytes total.
+Allocated during whole lifetime: %u blocks containing %s bytes total.
+Failed to get sample information: %s
+Sample #%u
+	Name: %s
+	Sample Specification: %s
+	Channel Map: %s
+	Volume: %s
+	        balance %0.2f
+	Duration: %0.1fs
+	Size: %s
+	Lazy: %s
+	Filename: %s
+	Properties:
+		%s
+Failed to get client information: %s
+Client #%u
+	Driver: %s
+	Owner Module: %s
+	Properties:
+		%s
+Invalid number of volume specifications.
+Volume outside permissible range.
+Inconsistent volume specification.
+Failed to get server information: %s
+Server String: %s
+Library Protocol Version: %u
+Server Protocol Version: %u
+Is Local: %s
+Client Index: %u
+Tile Size: %zu
+User Name: %s
+Host Name: %s
+Server Name: %s
+Server Version: %s
+Default Sample Specification: %s
+Default Channel Map: %s
+Default Sink: %s
+Default Source: %s
+Cookie: %04x:%04x
+Failed to get card information: %s
+Card #%u
+	Name: %s
+	Driver: %s
+	Owner Module: %s
+	Properties:
+		%s
+		%s: %s (sinks: %u, sources: %u, priority: %u, available: %s)
+		%s: %s (priority: %u, latency offset: %ld usec%s)
+Sink Input #%u
+	Driver: %s
+	Owner Module: %s
+	Client: %s
+	Sink: %u
+	Sample Specification: %s
+	Channel Map: %s
+	Format: %s
+	Corked: %s
+	Mute: %s
+	Volume: %s
+	        balance %0.2f
+	Buffer Latency: %0.0f usec
+	Sink Latency: %0.0f usec
+	Resample method: %s
+	Properties:
+		%s
+Source Output #%u
+	Driver: %s
+	Owner Module: %s
+	Client: %s
+	Source: %u
+	Sample Specification: %s
+	Channel Map: %s
+	Format: %s
+	Corked: %s
+	Mute: %s
+	Volume: %s
+	        balance %0.2f
+	Buffer Latency: %0.0f usec
+	Source Latency: %0.0f usec
+	Resample method: %s
+	Properties:
+		%s
+Sink #%u
+	State: %s
+	Name: %s
+	Description: %s
+	Driver: %s
+	Sample Specification: %s
+	Channel Map: %s
+	Owner Module: %u
+	Mute: %s
+	Volume: %s
+	        balance %0.2f
+	Base Volume: %s
+	Monitor Source: %s
+	Latency: %0.0f usec, configured %0.0f usec
+	Flags: %s%s%s%s%s%s%s
+	Properties:
+		%s
+Source #%u
+	State: %s
+	Name: %s
+	Description: %s
+	Driver: %s
+	Sample Specification: %s
+	Channel Map: %s
+	Owner Module: %u
+	Mute: %s
+	Volume: %s
+	        balance %0.2f
+	Base Volume: %s
+	Monitor of Sink: %s
+	Latency: %0.0f usec, configured %0.0f usec
+	Flags: %s%s%s%s%s%s
+	Properties:
+		%s
+pactl %s
+Compiled with libpulse %s
+Linked with libpulse %s
+Specify nothing, or one of: %s
+modules, sinks, sources, sink-inputs, source-outputs, clients, samples, cards
+Please specify a sample file to load
+Failed to determine sample specification from file.
+Warning: Failed to determine sample specification from file.
+pa_channel_map_compatible(&channel_map, &sample_spec)
+You have to specify a sample name to play
+You have to specify a sample name to remove
+You have to specify a sink input index and a sink
+You have to specify a source output index and a source
+You have to specify a module name and arguments.
+You have to specify a module index or name
+You may not specify more than one sink. You have to specify a boolean value.
+Invalid suspend specification.
+You may not specify more than one source. You have to specify a boolean value.
+You have to specify a card name/index and a profile name
+You have to specify a sink name/index and a port name
+You have to specify a sink name
+You have to specify a source name/index and a port name
+You have to specify a source name
+You have to specify a sink name/index and a volume
+You have to specify a source name/index and a volume
+You have to specify a sink input index and a volume
+You have to specify a source output index and a volume
+You have to specify a sink name/index and a mute action (0, 1, or 'toggle')
+You have to specify a source name/index and a mute action (0, 1, or 'toggle')
+You have to specify a sink input index and a mute action (0, 1, or 'toggle')
+Invalid sink input index specification
+You have to specify a source output index and a mute action (0, 1, or 'toggle')
+Invalid source output index specification
+You have to specify a sink index and a semicolon-separated list of supported formats
+You have to specify a card name/index, a port name and a latency offset
+Could not parse latency offset
+pa_signal_init(mainloop_api) == 0
+pa_context_connect() failed: %s
+parse_mute
+Beeb
+parse_mute
+parse_volume
+parse_volume
+parse_volumes
+exit_signal_callback
+quit
+quit
+set_sink_formats
+stat_callback
+get_server_info_callback
+simple_callback
+stream_state_callback
+stream_state_callback
+stream_write_callback
+stream_write_callback
+get_module_info_callback
+get_module_info_callback
+get_sink_info_callback
+get_sink_info_callback
+get_source_info_callback
+get_source_info_callback
+get_sink_input_info_callback
+get_sink_input_info_callback
+get_source_output_info_callback
+Eleele
+get_source_output_info_callback
+get_client_info_callback
+get_client_info_callback
+get_sample_info_callback
+get_sample_info_callback
+get_card_info_callback
+get_card_info_callback
+index_callback
+complete_action
+complete_action
+unload_module_by_name_callback
+unload_module_by_name_callback
+sink_toggle_mute_callback
+sink_toggle_mute_callback
+source_toggle_mute_callback
+source_toggle_mute_callback
+sink_input_toggle_mute_callback
+sink_input_toggle_mute_callback
+source_output_toggle_mute_callback
+source_output_toggle_mute_callback
+get_sink_volume_callback
+get_sink_volume_callback
+get_source_volume_callback
+get_source_volume_callback
+get_sink_input_volume_callback
+get_sink_input_volume_callback
+fill_volume
+get_source_output_volume_callback
+get_source_output_volume_callback
+context_subscribe_callback
+context_subscribe_callback
+context_state_callback
+context_state_callback
+main
+main
+;*3$"
+b0cea043ebb049461a8d4c3dd5eb7595231caa.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+Do nine men interpret Nine men I nod
+.data
+.bss
+.gnu_debuglink

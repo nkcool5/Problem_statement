@@ -1,0 +1,2469 @@
+/lib/ld-linux.so.2
+srand
+GLIBC_2.0
+libc.so.6
+_IO_stdin_used
+__libc_start_main
+__gmon_start__
+_ITM_deregisterTMCloneTable
+_ITM_registerTMCloneTable
+strcat
+_Jv_RegisterClasses
+stpcpy
+stderr
+rand
+fwrite
+exit
+puts
+pthread_mutex_lock
+libpthread.so.0
+gmtime
+pthread_mutex_unlock
+getpid
+ftime
+munmap
+free
+__strdup
+time
+sleep
+memcmp
+gettimeofday
+calloc
+malloc
+memcpy
+geteuid
+setpriority
+sched_setscheduler
+mmap
+madvise
+mlock
+strcmp
+strtol
+strchr
+strncpy
+strncasecmp
+curl_version
+CURL_OPENSSL_3
+libcurl.so.4
+strstr
+strrchr
+strlen
+memmove
+sprintf
+snprintf
+curl_easy_init
+memset
+curl_easy_cleanup
+optarg
+getopt_long
+optind
+pthread_mutex_init
+curl_global_init
+fork
+setsid
+pthread_mutex_destroy
+chdir
+fflush
+signal
+sysconf
+localtime
+vfprintf
+pthread_create
+GLIBC_2.1
+vsnprintf
+fprintf
+syslog
+strncmp
+openlog
+strcasecmp
+pthread_join
+__errno_location
+recv
+realloc
+strtok
+select
+strcpy
+socket
+setsockopt
+send
+memchr
+__ctype_b_loc
+GLIBC_2.3
+curl_easy_setopt
+curl_easy_perform
+fclose
+pthread_cond_init
+GLIBC_2.3.2
+pthread_cond_destroy
+pthread_cond_signal
+curl_slist_append
+curl_slist_free_all
+curl_easy_reset
+curl_easy_getinfo
+pthread_cond_timedwait
+pthread_cond_wait
+qsort
+__assert_fail
+strdup
+strerror
+feof
+fgetc
+fopen
+strtod
+PTRh@-
+T$L1
+\[^_]
+D$(1
+T$4f
+L$,;M
+;D$,
+D$H1
+[^_]
+L$,;M
+UUUU
+D$0u
+UWVS
+[^_]
+8Ou?
+T$,9
+D$,1
+8Ot3
+i|$<
+UWVS
+[^_]
+T$(1
+UWVS
+[^_]
+D$ te
+[^_]
+[^_]
+UWVS
+[^_]
+iT$P
+\$01
+;D$<
+[^_]
+D$(2
+D$,2
+UWVS
+[^_]
+[^_]
+[^_]
+UWVS
+,[^_]
+UWVS
+[^_]
+,[^_]
+|[^_]
+UWVS
+D$ 1
+D$8	T
+[^_]
+UWVS
+[^_]
+UWVS
+[^_]
+[^_]
+{"id
+": 1
+, "m
+etho
+d": 
+"min
+ing.
+subs
+C crib
+C$e", 
+C("par
+C,ams"
+C0: []f
+l$(1
+T$<1
+(unk
+nown
+ rea
+son)
+D$Tt#
+|$L1
+D$P1
+9t$P
+|$@1
+D$T1
+UWVS
+[^_]
+[^_]
+|$41
+[^_]
+D$@1
+[^_]
+9D$Ls
++D$,
+[^_]
++D$,
+[^_]
+UWVS
+D$@3D$81
+3\$ 3\$(3T$
+3T$$
+\$<3T$,3\$43\$D3\$L3\$T
+T$d3D$H
+\$h3D$P3T$\3D$X3\$`3T$l3\$p3T$t3\$x3T$|3
+|$01
+\$$1
+3D$(1
+3T$,
+D$81
+T$D1
+D$H1
+T$P1
+3t$T
+t$X1
+\$d1
+\$p1
+|$`1
+|$x1
+3t$|
+1|$8
+1t$`
+u<!|$
+!t$0
+1L$0
+u@!t$<1T$<
+uD!t$@
+t$<1D$@
+uH!t$d
+uL!t$h1|$d
+}<1|$h
+Beeb
+ud!t$
+uh!t$D1T$D
+ul!t$H
+t$D1D$H
+up!t$l
+ut!t$p1|$l
+}d1|$p
+!|$ 
+1\$ 
+!t$$
+t$ 1L$$
+!t$L1T$L
+!t$P
+t$L1D$P
+!t$t
+!t$x1|$t
+1|$x
+!|$(
+1\$(
+!t$,
+t$(1L$,
+!t$T1T$T
+!t$X
+t$T1D$X
+!t$|
+1|$|
+[^_]
+;l$ 
+[^_]
+UWVS
+$[^_]
+UWVS
+<$3,
+t$$3
+|$$3
+\$$3
+|$$3
+|$$3
+|$$3
+|$$3
+\$$3
+|$$3
+|$$3
+0[^_]
+~$3L$
+V,3|$ 
+3L$$
+3T$(
+$3l$,1
+3|$0
+L$p1
+3|$83L$<3;1
+3T$@3S
+3D$t3C<
+@;t$4
+[^_]
+;L$$
+GL$$
+|$8)
+9L$$
+\$<)
+|$<f
+;|$ 
+;|$ si
+;|$ r
+D$49\$$
+D$@f
+L$@f
+T$Pf
+\$`f
+l$`f
+[^_]
+UWVS
+oX f
+|$ f
+j?$f
+o4$f
+od$ f
+oT$ 
+\$tf
+T$pf
+|$H1
+L$ 1
+T$@3
+\$X1
+t$P1
+T$83
+t$P1
+\$\1
+|$P1
+L$h1
+L$@1C
+T$81+
+l$H1C
+L$t1s
+1+1K
+L$|1{
+[^_]
+UWVS
+,[^_]
+,[^_]
+UWVS
+<[^_]
+D$ 1
+UWVS
+D$P6666
+D$T6666
+D$X6666
+D$\6666
+D$`6666
+D$d6666
+D$h6666
+D$l6666
+D$p6666
+D$t6666
+D$x6666
+D$|6666
+6666
+6666
+6666
+6666
+\$ 3L$
+9T$$w
+9D$ w
+D$P\\\\
+D$T\\\\
+D$X\\\\
+D$\\\\\
+D$`\\\\
+D$d\\\\
+D$h\\\\
+D$l\\\\
+D$p\\\\
+D$t\\\\
+D$x\\\\
+D$|\\\\
+\\\\
+\\\\
+\\\\
+\\\\
+\$ 3L$
+9T$$w
+9D$ w
+[^_]
+D$Pg
+D$Xr
+D$\:
+D$  
+UWVS
+D$P6666
+D$T6666
+D$X6666
+D$\6666
+D$`6666
+D$d6666
+D$h6666
+D$l6666
+D$p6666
+D$t6666
+D$x6666
+D$|6666
+6666
+6666
+6666
+6666
+\$ 3L$
+9T$$w
+9D$ w
+D$P\\\\
+D$T\\\\
+D$X\\\\
+D$\\\\\
+D$`\\\\
+D$d\\\\
+D$h\\\\
+D$l\\\\
+D$p\\\\
+D$t\\\\
+D$x\\\\
+D$|\\\\
+\\\\
+\\\\
+\\\\
+\\\\
+\$ 3L$
+9T$$w
+9D$ w
+[^_]
+D$Pg
+D$Xr
+D$\:
+D$0!
+D$$1T$8
+3D$H#l$t
+l$4#l$8
+l$L!
+l$|!
+1l$H
+1l$$
+l$l#l$
+l$0#l$,
+1l$@
+l$81l$d
+1T$8
+T$4!
+#T$03T$,
+l$|!L$,#D$l3D$
+1l$,
+l$@#l$l
+l$d#l$0
+l$t1
+l$41
+l$8!
+l$L1
+l$|1
+l$@!
+l$d!l$
+l$l1
+l$01l$
+l$8!l$0
+!l$ 1L$01\$ 
+T$t1D$L
+3\$83
+D$l#\$H
+#L$$1\$d
+\$01
+l$43L$$3\$H3\$t1
+l$@3\$L1
+l$ 1
+L$0#
+L$,1L$0
+L$t1L$0
+L$d3L$t3l$4
+L$83L$4
+T$$3T$l
+L$43T$
+T$L1
+%UUUU
+UUUU
+UUUU
+$%UUUU
+UUUU
+UUUU
+L$0	
+UUUU
+UUUU
+3\$T
+T$h#
+3L$x
+1l$H
+1l$$
+l$p!
+l$\!
+1l$,1|$T
+#l$`1
+\$<1
+L$h#L$P#\$(
+l$D1
+T$p1
+3L$`3
+#T$h#l$
+3T$P#D$<#|$
+3D$(
+l$X1
+#|$<#l$h
+|$p1
+|$D!
+l$\1
+#l$03l$
+|$h1|$
+|$<1|$
+|$(	
+|$01|$`
+|$D1|$x
+1|$p
+1|$\
+|$(!
+1\$0
+\$x1
+|$(#L$H#\$$1
+3l$H
+|$\#|$T1
+3\$$
+\$X3L$\
+l$$3
+3\$p
+l$p1|$<
+3|$T#l$,1l$h
+|$`3l$,1
+l$x1l$T1|$,
+l$P1l$T1
+D$h3D$`#
+3|$x
+T$<3l$`
+D$,3D$X3T$x
+T$T3
+D$01
+UUUU%
+UUUU
+L$<	
+UUUU
+UUUU
+UUUU
+%UUUU
+T$p	
+UUUU
+UUUU
+3\$t#
+3L$4
+1l$<
+l$L#l$
+l$@#l$
+1\$(
+\$81
+L$d#L$
+#\$ 
+l$(1
+T$l1
+3T$@
+3D$L3\$d#L$ 3L$8#l$
+l$,#l$
+l$|1l$d
+l$l1l$8
+l$t#l$
+l$4#l$ 
+1l$|
+1l$l
+l$(!
+l$,!l$h
+1l$h
+l$t!l$
+l$4!l$
+l$ 1l$
+l$d	
+l$8	
+l$(1l$T
+l$,1l$L
+l$|	
+l$l	
+l$t1l$ 
+l$41
+l$d#
+l$h#l$81D$(
+D$T1
+l$d#D$<#
+D$81
+D$t3T$<3
+D$h3l$|3D$l3T$ 
+D$ #D$
+l$T1D$4
+D$L1l$
+#l$|1D$
+#l$l3l$L1D$
+D$T1
+3\$L1
+3D$@
+3L$t3\$<
+D$h1
+\$<1
+\$(1
+D$h1
+\$81
+3333
+3333
+3333
+%3333
+3333
+3333
+T$|%
+3333
+3333
+T$P	
+T$p#
+3\$`
+3L$x
+|$H#|$8#l$$1
+L$D#L$p#\$\
+l$41
+#L$$#\$H3L$P3\$8#T$p#l$$3T$D#D$\#|$H3
+l$X1
+1|$8
+|$d#|$\#l$p
+|$4!
+|$$1
+|$0!|$x
+|$d1
+|$p#l$`3l$H1|$x
+|$\1
+|$D	
+|$8	
+|$`1|$$
+|$41|$P
+|$01|$\
+|$d1
+|$D!
+|$8#
+1\$X
+\$P1
+|$D#L$
+L$83l$
+L$43
+\$`3
+3\$\
+l$\1|$p
+1l$0
+|$$3l$
+l$P1l$
+3|$P
+l$H1l$
+D$03D$$
+l$x#
+3l$$
+T$p3D$`3T$P
+3T$41
+D$X1
+3333%
+3333
+L$p	
+3333
+3333
+3333
+%3333
+3333
+3333
+T$|#
+3\$T#
+3L$L
+1l$L
+l$(#l$<
+l$,#l$h1\$
+\$ 1
+#L$|#\$l
+l$t1
+T$@1
+#l$h
+3l$,
+#T$<#L$|3T$(3L$
+#D$l3D$ #\$<
+#\$h
+\$@1\$
+\$t1\$ 
+\$T#\$|
+\$p#\$l
+1\$d
+1\$8
+!\$(
+\$<1\$(
+\$h1
+\$T!\$t
+\$p!\$x
+\$|1\$t
+\$l1\$x
+\$ 	
+1\$h
+1\$<
+\$d	
+\$8	
+\$T1\$@
+\$p1
+\$(#\$
+\$ #
+T$<1
+#T$L1
+l$ 1
+T$(3
+3\$L3l$@
+l$L3\$d3l$83
+\$@3L$h3D$<#
+L$x#L$81\$|
+\$t3\$h1
+D$|3D$h
+1\$@
+1\$@1l$l
+l$x#\$d3l$<1\$
+D$T3L$,
+\$l3\$<1
+D$(3L$
+\$ 1
+L$L1
+D$x3L$
+T$@	
+T$ 	
+T$H	
+3\$$
+3L$P!
+1l$8
+1l$P
+#|$(#l$
+\$D1
+L$\#
+#\$0
+3L$(3\$H#
+|$L#|$
+#D$03D$D
+|$`3T$\1
+l$41l$D
+l$X#l$0
+|$@#
+1|$d
+!|$$
+1|$$
+#l$L3l$
+|$@!|$
+|$X!|$
+|$01|$
+|$\	
+|$D	
+|$|1|$(
+|$L1|$`
+|$4	
+|$d	
+|$@1
+|$X1
+|$$#|$\
+|$D1L$|
+L$(#L$8!
+|$\#\$P1
+L$D3l$P3T$(1
+\$$3\$8
+L$@3l$d
+|$$3|$4
+1l$01|$\
+3l$(3|$`3
+3l$|3|$H
+3D$`#T$41T$D
+T$\3T$`
+#D$d
+T$`1D$8
+T$@3D$(1
+T$81
+D$L1
+T$$1
+D$P1
+D$H1
+\$0	
+3\$h
+3L$<
+1l$h
+1l$<
+#l$t
+#l$x1\$$
+\$ 1
+#L$l#\$p
+l$$1
+T$T1
+#T$x
+#D$t#\$l3D$
+#L$p3L$ #l$t
+l$P#l$x
+l$,1l$
+l$T1l$ 
+l$4#l$l
+l$8#l$p
+l$$!
+l$P!l$
+l$t1
+l$x1l$
+l$4!l$
+l$8!l$
+l$l1l$
+l$p1l$
+l$ 	
+l$$1l$,
+l$P1l$T
+l$41l$p
+l$81
+#l$ 1D$$
+D$,1
+#D$h#
+D$ 1
+D$43T$h3
+3T$p
+1l$l
+D$p#D$<
+l$,1D$x
+3D$<1
+D$T1l$<
+3l$T1D$
+D$,1
+\$l3\$T1
+D$<3D$t
+3L$43\$h
+\$h1
+\$$1
+T$l%
+T$H	
+T$0#
+3\$(
+3L$`
+1l$<
+|$X#
+\$d1
+L$D#L$0#\$\
+l$|1
+#\$X3L$H3
+#T$0#
+3T$D#D$\#|$X3D$d
+l$L1
+|$@1|$d
+#|$\#l$0
+|$|!
+#l$x3l$X
+|$8!|$X
+|$01|$X
+|$\1
+|$D	
+|$d	
+|$x1|$(
+|$|1|$`
+|$81|$\
+|$D!
+|$d#
+1\$x
+\$`1
+|$D#L$<#\$
+L$d3l$<
+L$@3
+\$L3
+3\$\
+l$\1|$0
+1l$|
+|$(3l$
+l$`1l$
+3|$`
+l$H1l$
+D$|3D$(
+l$X#
+3l$(
+T$03D$L3T$`
+3T$@1
+D$x1
+L$0	
+T$l#
+3\$,#
+3L$T
+1l$T
+l$$#l$h
+l$P#l$
+\$ 1
+#L$l#\$p
+l$41
+T$t1
+3l$P
+#T$h#L$l3T$$3L$
+#D$p3D$ #\$h
+\$,#\$
+\$t1\$
+\$41\$ 
+\$X#\$l
+\$0#\$p
+1\$d
+1\$8
+\$,!
+\$h1\$
+\$X!\$t
+\$0!\$4
+\$l1\$t
+\$p1\$4
+\$ 	
+\$,1\$$
+\$d	
+\$8	
+\$X1\$p
+\$01
+\$ #
+1T$h
+T$$1
+#T$T1
+l$ 1
+3\$T3l$p
+l$T3\$d3l$83
+\$p3L$
+3D$$#
+L$4#L$81\$l
+\$t3\$
+D$l3D$
+1\$X
+\$h#
+1\$X1l$0
+l$4#\$d3l$$1\$p3
+D$,3L$P
+\$03\$$1
+3L$p
+L$T1
+D$43L$h
+F0f1
+T$X	
+l$pf1
+T$H	
+3\$(
+3L$`!
+1l$8
+1l$(
+|$<#|$
+\$D1
+L$\#
+#\$|
+l$<1
+#L$<#\$
+3\$H#
+|$`#|$
+#D$|3D$D
+|$L3T$\1
+l$@1l$D
+l$X#l$|
+|$x#
+1|$d
+|$<1|$
+#l$`3l$
+|$x!|$
+|$X!|$@
+|$|1|$@
+|$\	
+|$D	
+1|$H
+|$`1|$T
+|$ 	
+|$d	
+|$x1
+|$X1
+#|$\
+|$D1
+L$H#L$8!
+|$\#\$(1
+L$D3l$(3T$H1
+3\$8
+L$L3l$d
+3|$ 
+1l$|1|$\
+|$@3
+3l$H3|$T3
+3|$<
+3D$T#T$ 1T$D
+T$\3T$T
+D$@#D$d
+T$T1D$8
+T$L3D$H1
+T$81
+D$`1
+D$(1D$X
+D$<1
+\$|	
+|$|f1
+3\$$
+l$P3
+l$h#l$t
+#l$41|$$
+\$p#\$l#|$0
+l$,1
+#l$4
+#L$l#\$t3L$p3\$h#T$03T$
+#|$t
+|$(#|$4
+|$P1|$p
+|$,1|$
+|$@#|$l
+|$d#|$0
+1|$8
+|$$!
+|$(!|$
+|$t1
+|$41|$
+|$@!|$P
+|$d!|$4
+|$l1|$P
+|$01|$4
+|$p	
+|$$1|$h
+|$(1|$,
+|$8	
+|$@1|$(
+|$d1|$l
+|$p#
+\$,1
+|$p#
+\$@3
+3\$(
+\$t3\$l
+\$81
+\$(#\$
+\$l#\$
+1\$0
+1\$p
+\$P3\$
+\$43\$
+\$h1\$
+\$,1\$
+\$$1\$
+\$P#\$8
+\$4#
+\$h1\$(
+\$,1L$(
+L$p1\$P1T$P
+T$01
+3\$@3T$h
+3l$(3|$P
+3T$t1
+3\$$
+3|$H
+L$83\$T
+1D$H
+D$x#D$81l$
+l$<#l$X1
+|$D#|$|1
+L$L#l$X#\$\
+|$T#D$\
+3D$ 1
+l$`#|$x
+\$`1
+#L$X
+#T$|
+3T$D
+|$L3L$<#\$x3\$81|$ 
+|$d#|$\#l$|
+|$X1
+!|$<
+|$d!|$`
+|$|1|$<
+|$\1|$`
+|$D1
+#l$T	
+3l$x
+|$ 	
+|$T1|$x
+1|$X
+|$L	
+1|$\
+|$d1
+|$D!
+|$ #
+1\$8
+\$X1
+|$D#
+L$ 1
+|$|3
+3l$\3
+l$\1
+1l$ 
+l$`3l$H
+#|$H
+l$x1|$d
+|$<3|$
+|$X1|$H
+|$T1|$H
+|$`#
+|$x#l$L1
+l$X1l$`1T$L1D$`
+D$ 3L$L3\$`1
+l$H1
+3l$|1
+3D$83T$T
+3|$h
+T$(3\$,
+l$@3
+l$p!
+l$0!
+1l$h
+1l$<
+#l$4
+l$$#l$l1
+|$(1
+\$P#\$
+l$41
+L$@1
+#L$4
+#T$l#|$
+3T$$3|$P#\$
+3\$(#
+l$,#l$l
+l$@1
+l$t1
+l$\#l$
+l$p1
+l$01
+l$,!l$P
+l$41l$
+l$l1l$P
+l$\!l$(
+!l$l
+1l$(
+1l$l
+1l$$
+l$,1l$@
+l$\1l$0
+l$P#
+L$@1
+l$t1
+L$P3
+3l$0
+l$43l$
+l$0#l$h
+#l$<
+1l$p
+1l$\
+l$(3l$h
+l$l3l$<
+l$$1l$h
+l$@1l$<
+1l$h
+l$,1l$<
+l$(#
+l$l#
+1|$P
+|$$1
+\$@1|$P1
+l$P3T$P
+\$p3\$$
+l$\3l$@
+|$(3L$(
+\$h3\$t1
+\$03|$43l$
+3T$,
+3|$x
+L$H3\$X!
+l$d!
+l$ !
+l$T1
+D$D#
+\$L#\$
+|$`#|$H1
+D$ 1
+#T$H
+3T$`#\$D#L$
+3L$T#D$
+#|$D3D$L
+|$|1
+#l$H
+|$d1
+|$8!|$|
+1|$|
+!|$ 
+|$H#l$X3l$D1|$
+1|$ 
+|$L	
+|$X1|$T
+|$81|$x
+1|$d
+1|$8
+|$L!
+#|$|1\$D
+\$x1
+|$L#L$
+3|$8
+\$|3\$
+l$X3l$d
+|$83
+l$d#
+|$ #
+D$L3D$T#
+\$ 3|$x3
+3l$T3L$T3\$x3L$D3\$`
+T$|3T$x
+D$H1D$
+D$H3T$D3D$`
+[^_]
+\$<t,
+[^_]
+T$@1
+T$4f
+l$<tC
+T$D1
+D$09|$0
+1l$`1t$d1D$h1|$l1L$p
+1T$t1l$x1t$|1
+D$D1
+T$H1
+[^_]
+1l$`
+1l$d
+1l$h
+1l$l
+1l$p
+1l$t
+1l$x
+1l$|
+D$41
+T$$f
+D$09l$0
+1|$`1l$d1t$h1T$l1D$p1\$t
+1L$x
+1|$|1
+\$tf
+\$d3t$(
+D$D3D$d
+3t$83t$03|$,
+D$p3T$`3|$<3|$4
+D$p 
+l$x1
+|$|1
+T$<1
+l$ 1
+T$L1
+l$81
+T$,1
+l$H1
+T$41
+l$(1
+T$$1
+l$01
+T$<1
+l$h1
+T$L1
+l$P1
+t$X1
+|$\1
+T$,1
+t$P1
+|$T1
+D$(1
+l$t1
+l$(1
+\$81
+|$<1
+|$D1
+[^_]
+3|$p3L$t
+3|$x3L$|3
+L$81
+3D$ 
+T$$1
+t$p1
+L$83|$ 
+3\$$
+|$41
+3D$(
+T$,1
+|$01
+t$x1
+3|$(
+3\$,
+|$41
+3D$0
+T$41
+L$@3|$8
+3\$<
+3L$03|$4
+|$H1
+3|$X
+3\$\
+3L$P
+3|$T
+|$41
+3D$0
+T$41
+3|$@
+3\$D
+3L$`3|$d
+|$T1
+3D$0
+T$41
+|$01
+3|$H
+3\$L
+|$d1
+3D$0
+T$41
+L$P3|$
+$3|$
+3D$P
+T$T1
+|$P1
+3D$P
+T$T1
+|$P1
+3D$P
+T$T1
+|$P3L$
+3<$3L$
+Borrow or rob
+3D$P
+T$T1
+|$P1
+t$x1
+|$d1
+|$01
+3|$`
+3L$d
+t$P1
+3D$ 
+T$$1
+3|$P3L$T
+3D$ 
+T$$1
+|$(1
+3|$0
+3L$4
+|$(1
+L$\3L$
+t$01
+3D$ 
+T$$1
+|$(3L$
+L$D3|$
+3D$ 
+T$$1
+|$(1
+L$L3L$
+t$01
+3D$ 
+T$$1
+t$h1
+|$p3
+t$|3
+T$,3
+3T$0
+3D$4
+[^_]
+UWVS
+T$d1
+T$(1
+T$H1
+L$@1
+L$81
+|$(1
+\$01
+D$<1
+|$ 1
+T$83
+T$l3
+T$p3
+T$,3
+T$ 3
+|$03
+3t$P3|$T
+~\$8
+\$hf
+~L$@
+~\$(
+\$xf
+~L$ 
+~\$H
+\$Xf
+~L$0f
+[^_]
+UWVS
+SHA3
+|$ 1
+B\$(
+[^_]
+|$X1
+D$@SHA3
+FL$(
+|$( 
+|$(@
+F|$$
+l$$@9t$(
+|$$1
+UWVS
+\$43
+\$ 3
+\$Z3
+\$<3
+\$<3
+\$<3
+\$<3
+\$83
+L$<f
+9T$,w#r
+l$@9l$(w
+9l$$w r
+l$H9l$ w
+t$T3q
+L$<3
+9T$$w*r
+l$@9l$ w
+9l$,w r
+l$H9l$(w
+t$T3q
+\$<3
+\$<3
+\$<3
+\$<3
+\$<3
+\$<3
+\$<3
+\$83
+[^_]
+;D$$u
+2D$<
+T$(1
+[^_]
+;D$$u
+,[^_]
+[^_]
+l$8t,
+9D$H
+L$D1
+UWVS
+D$ 	
+L[^_]
+|$h+|$$
+9T$(
+l$xt
+|$@1
+L$ 1
+UWVS
+[^_]
+<ut$
+<uuz
+[^_]
+_Try `minerd --help' for more information.
+Usage: minerd [OPTIONS]
+Options:
+  -o, --url=URL         URL of mining server
+  -O, --userpass=U:P    username:password pair for mining server
+  -u, --user=USERNAME   username for mining server
+  -p, --pass=PASSWORD   password for mining server
+      --cert=FILE       certificate for mining server using SSL
+  -x, --proxy=[PROTOCOL://]HOST[:PORT]  connect through a proxy
+  -t, --threads=N       number of miner threads (default: number of processors)
+  -r, --retries=N       number of times to retry if a network call fails
+                          (default: retry indefinitely)
+  -R, --retry-pause=N   time to pause between retries, in seconds (default: 30)
+  -T, --timeout=N       timeout for long polling, in seconds (default: none)
+  -s, --scantime=N      upper bound on time spent scanning current work when
+                          long polling is unavailable, in seconds (default: 5)
+      --no-longpoll     disable X-Long-Polling support
+      --no-stratum      disable X-Stratum support
+      --no-redirect     ignore requests to change the URL of the mining server
+  -q, --quiet           disable per-thread hashmeter output
+  -D, --debug           enable debug output
+  -P, --protocol-dump   verbose dump of protocol-level activities
+  -S, --syslog          use system log for output messages
+  -B, --background      run the miner in the background
+      --benchmark       run in offline benchmark mode
+  -c, --config=FILE     load a JSON-format configuration file
+  -V, --version         display version information and exit
+  -h, --help            display this help text and exit
+accepted: %lu/%lu (%.2f%%), %.2f H/s at diff %g %s
+work retrieval failed, exiting mining thread %d
+Stratum connection interrupted
+cpuminer 2.3.3
+ built on Oct 22 2017
+ features: i386 SSE2
+Tried to decode job without JSON-RPC 2.0
+Requested work before work was received
+{"method": "login", "params": {"login": "%s", "pass": "%s", "agent": "cpuminer-multi/0.1"}, "id": 1}
+Failed to call rpc command after %i tries
+Tried to call rpc2 command before authentication
+{"method": "getjob", "params": {"id": "%s"}, "id":1}
+{"method": "getwork", "params": [], "id":0}
+DEBUG: stale work detected, discarding
+{"method": "submit", "params": {"id": "%s", "job_id": "%s", "nonce": "%s", "result": "%s"}, "id":1}
+{"method": "mining.submit", "params": ["%s", "%s", "%s", "%s", "%s"], "id":4}
+submit_upstream_work stratum_send_line failed
+submit_upstream_work json_rpc_call failed
+{"method": "getwork", "params": [ "%s" ], "id":1}
+json_rpc_call failed, terminating workio thread
+getwork failed, retry after %d seconds
+%s: unsupported non-option argument '%s'
+%d miner threads started, using '%s' algorithm.
+(yay!!!)
+(booooo)
+DEBUG: reject reason: %s
+SIGHUP received
+SIGINT received, exiting
+SIGTERM received, exiting
+JSON key '%s' not found
+JSON key '%s' is not a string
+data
+JSON inval data
+target
+JSON inval target
+Starting Stratum on %s
+...terminating workio thread
+...retry after %d seconds
+Stratum detected new block
+Stratum connection timed out
+JSON decode failed(%d): %s
+result
+error
+status
+JSON decode of %s failed
+http://
+https://
+stratum+tcp://
+http://%s
+stratum
+A Santa lives evil at NASA
+socks4://
+socks5://
+socks4a://
+socks5h://
+job_id
+JSON inval job id
+blob
+JSON inval blob
+JSON invalid blob length
+Pool set diff to %g
+JSON invalid result
+JSON inval id
+JSON id is not a string
+Auth id: %s
+JSON inval status
+JSON status is not a string
+JSON returned status "%s"
+DEBUG: authenticated in %d ms
+params
+message
+Unauthenticated
+Low difficulty share
+Block expired
+Invalid job id
+Duplicate share
+reject-reason
+json_rpc2.0 error: %s
+CURL initialization failed
+%s%s%s
+Long-polling activated for %s
+submitold
+LONGPOLL detected new block
+DEBUG: got new work
+submit_upstream_work OOM
+DEBUG: got new work in %d ms
+algo
+I go faster as root.
+Using JSON-RPC 2.0
+config
+JSON option %s invalid
+%s: no URL supplied
+%s:%s
+https:
+setsid() failed (errno = %d)
+chdir() failed (errno = %d)
+cpuminer
+workio thread create failed
+longpoll thread create failed
+stratum thread create failed
+thread %d create failed
+cryptonight
+workio thread dead, exiting.
+scrypt
+sha256d
+keccak
+heavy
+quark
+skein
+shavite3
+blake
+background
+benchmark
+cert
+debug
+help
+no-longpoll
+no-redirect
+no-stratum
+pass
+protocol-dump
+proxy
+quiet
+retries
+retry-pause
+scantime
+syslog
+threads
+timeout
+user
+userpass
+version
+X-Long-Polling
+X-Reject-Reason
+X-Stratum
+%02x
+hex2bin str truncated
+hex2bin failed on '%s'
+hash <= target
+> %s
+stratum_recv_line timed out
+stratum_recv_line failed
+< %s
+http%s
+Stratum connection failed: %s
+stratum_subscribe send failed
+stratum_subscribe timed out
+JSON-RPC call failed: %s
+mining.notify
+Failed to get extranonce1
+Stratum session id: %s
+method
+mining.set_difficulty
+Stratum difficulty set to %g
+client.reconnect
+stratum+tcp://%s:%d
+client.get_version
+cpuminer/2.3.3
+client.show_message
+MESSAGE FROM SERVER: %s
+Stratum authentication failed
+JSON protocol request:
+Content-Length: %lu
+User-Agent: cpuminer/2.3.3
+X-Mining-Extensions: midstate
+HTTP request failed: %s
+JSON protocol response:
+%02x 
+BSa:c:Dhp:Px:qr:R:s:t:T:o:u:O:V
+>[%d-%02d-%02d %02d:%02d:%02d] %s
+hash > target (false positive)
+DEBUG: %s
+Hash:   %s
+Target: %s
+stratum_recv_line failed to parse a newline-terminated string
+{"id": 1, "method": "mining.subscribe", "params": ["cpuminer/2.3.3", "%s"]}
+{"id": 1, "method": "mining.subscribe", "params": ["cpuminer/2.3.3"]}
+Failed to get Stratum session id
+Failed to get extranonce2_size
+Stratum notify: invalid parameters
+Stratum notify: invalid Merkle branch
+Ignoring request to reconnect to %s
+Server requested reconnection to %s
+{"method": "login", "params": {"login": "%s", "pass": "%s", "agent": "cpuminer-multi/0.1"}, "id": 1}
+{"id": 2, "method": "mining.authorize", "params": ["%s", "%s"]}
+Content-Type: application/json
+Empty data received in json_rpc_call.
+_E`%
+\hQV
+Sb*kA?AT?*
+0Hx(x`(07
+$~Z6ZH6$
+tX4Fr.rh.46Aw-wl-6
+%Ku>
+cw/X
+cB pP0P@0 
+Eleele
+&y_5_L5&
+.eK9K\9.
+2O}+}d+2
+k(lD<DP<(
+r\8Tl$lp$8W_
+Ws!R
+>]c!c|!>
+B|q&W
+:Si'it':'
++"wU3UD3"
+-<Zf"fx"<
+m,bN:NX:,
+!(Ew
+E~Dl
+0/*g
+)5CN
+@T z
+p_i7
+$1J^
+5;6Q
+kgyA
+~	L#'Q&
+k<VL
+XX&~
+0t*Q
+N^ee
+1p.D
+0xGNe
+Mf3L
+<$;nq
+TZFx
+)l\^'-
+2_{6n
+Fxy;*W
+0eZ;
+>$rgHba
+-`rM
+00P`
+++}V
+=&&jL66Zl??A~
+44\h
+11Sb
+##eF
+''iN
+,,tX
+-6nn
+;;Mv
+})){R
+//q^
+  `@
+g99KrJJ
+33Uf
+<<Dx
+!88Hp
+!!cB
+==Gzdd
++2ss
+""fD**~T
+22Vd::Nt
+$$lH\\
+77Ynmm
+%%oJ..r\
+!>KK
+>>B|
+55_jWW
+3"ii
+((xP
+)--wZ
+0P`0
+g+}V+
+&jL&6Zl6?A~?
+4\h4
+1Sb1
+#eF#
+'iN'
+,tX,
+R;Mv;
+){R)
+/q^/
+ `@ 
+9Kr9J
+M3Uf3
+P<Dx<
+8Hp8
+!cB!
+~=Gz=d
+"fD"*~T*
+2Vd2:Nt:
+$lH$\
+7Yn7m
+x%oJ%.r\.
+p>B|>
+a5_j5W
+U(xP(
+-wZ-
+P`00
+gg}V++
+jL&&Zl66A~??
+\h44
+Sb11?*
+eF##^
+iN''
+tX,,.4
+RRMv;;a
+{R))>
+q^//
+`@  
+Kr99
+MMUf33
+Degas are we not drawn onward no In union drawn onward to new eras aged
+PPDx<<
+Hp88
+cB!!0 
+DD9.
+~~Gz==
+]]+2
+fD""~T**
+Vd22Nt::
+lH$$
+Yn77
+xxoJ%%r\..$8
+tt!>
+ppB|>>
+aa_j55
+UUxP((z
+wZ--
+T`00P
+V++}
+L&&jl66Z~??A
+Oh44\Q
+sb11S*
+RF##e
+&N''i
+X,,t4
+v;;M
+R)){
+>^//q
+,@  `
+r99K
+f33U
+x<<D%
+p88H
+uB!!c 
+z==G
+D""fT**~;
+Tacocat
+;d22Vt::N
+H$$l
+Cn77Y
+J%%o\..r8
+|>>Bq
+j55_
+P((x
+Z--w
+:c|w{
+9JLX
+~=d]
+ "$&(*,.02468:<>@BDFHJLNPRTVXZ\^`bdfhjlnprtvxz|~
+;9?=3175+)/-#!'%[Y_]SQWUKIOMCAGE{y
+}sqwukiomcage
+0365<?:9(+.-$'"!`cfelojix{~}twrqPSVU\_ZYHKNMDGBA
+[X]^WTQRC@EFOLIJkhmngdabspuv
+|yz;8=>7412# %&/,)*
+$-6?HAZSle~w
+;2) 
+szahW^EL
+dmR[@I>7,%
+MD_Vi`{r
+!(3:
+|ungXQJC4=&/
+GNU\cjqx
++"90
+.'<5BKPYfot}
+18#*
+ypkb]TOF
+,':1XSNEt
+{pmfW\AJ#(5>
+FMP[ja|w
+29$/
+=6+ 
+ensxIB_T
+GLQZk`}v
+38%.
+<7*!
+doryHC^U
+-&;0YRODu~ch
+zqlgV]@K")4?
+49.#her
+\QFK
+kfq|_REH
+7:- m`wzYTCN
+1<+&
+2?(%nctyZW@M
+>3$)boxuV[LAal{vUXOB	
+=0'*
+gj}pS^ID
+;6!,
+85"/di~sP]JG
+86$*p~lbHFTZ
+;5')
+KEWYs}oa
+MCQ_u{ig=3!/
+vxjdN@R\
+>0",
+AO]Sywek1?-#	
+ztfhBL^P
+2<. 
+4:(&|r`nDJXV79+%
+GI[U
+lpHP
+\u%04x
+\u%04x\u%04x
+null
+true
+false
+%.17g
+dump.c
+i == size
+value
+do_dump
+%s near '%s'
+%s near end of file
+load.c
+count >= 2
+unable to decode byte 0x%x at position %d
+stream->buffer_pos > 0
+stream->buffer[stream->buffer_pos] == c
+c == d
+str[0] == 'u'
+premature end of input
+unexpected newline
+control character 0x%x
+invalid escape
+invalid Unicode '\u%04X\u%04X'
+invalid Unicode '\u%04X'
+\u0000 is not allowed
+end == saved_text + lex->saved_text.length
+too big integer
+too big negative integer
+real number overflow
+true
+false
+null
+string or '}' expected
+':' expected
+'}' expected
+']' expected
+invalid token
+unexpected token
+'[' or '{' expected
+end of file expected
+unable to open %s: %s
+lex_scan_number
+lex_scan_string
+alula
+decode_unicode_escape
+lex_unget_unsave
+stream_unget
+stream_get
+;*2$"
+OAES
+                                                                                                                                                                                                                                                                
+GCC: (Debian 4.7.2-5) 4.7.2
+GCC: (Debian 4.4.7-2) 4.4.7
+gold 1.11
+crtstuff.c
+__JCR_LIST__
+__TMC_LIST__
+deregister_tm_clones
+register_tm_clones
+__do_global_dtors_aux
+completed.5730
+__do_global_dtors_aux_fini_array_entry
+frame_dummy
+__frame_dummy_init_array_entry
+cpu-miner.c
+show_usage_and_exit
+share_result
+stats_lock
+opt_n_threads
+thr_hashrates
+thr_times
+accepted_count
+rejected_count
+rpc2_target
+signal_handler
+workio_cmd_free
+jobj_binary
+work_decode.part.4
+stratum_gen_work.constprop.7
+stratum
+g_work
+miner_thread
+opt_benchmark
+g_work_time
+g_work_lock
+opt_scantime
+work_thr_id
+stratum_thread
+opt_retries
+opt_fail_pause
+rpc_pass
+rpc_user
+parse_arg
+opt_quiet
+rpc_userpass
+opt_background
+opt_config
+algo_names
+rpc_url
+rpc2_blob
+rpc2_bloblen
+rpc2_job_id
+rpc2_job_lock
+rpc2_id
+rpc2_login
+rpc2_login_lock
+longpoll_thread
+submit_old
+submit_upstream_work
+workio_thread
+options
+short_options
+num_processors
+util.c
+seek_data_cb
+upload_data_cb
+all_data_cb
+socket_full
+opensocket_grab_cb
+sockopt_keepalive_cb
+resp_hdr_cb
+cryptonight_common.c
+c_keccak.c
+c_groestl.c
+RND512P
+RND512Q
+Transform
+c_blake256.c
+padding
+c_jh.c
+c_skein.c
+Skein_256_Process_Block
+Skein_512_Process_Block
+Skein1024_Process_Block
+Skein_512_Update
+Skein_256_Update
+Skein1024_Update
+cryptonight_lobotomized.c
+oaes_lib.c
+oaes_shift_rows
+oaes_key_destroy
+oaes_key_expand
+oaes_sub_byte_value
+oaes_gf_8
+oaes_key_gen.part.0
+oaes_inv_mix_cols
+oaes_gf_mul_e
+oaes_gf_mul_9
+oaes_gf_mul_d
+oaes_gf_mul_b
+oaes_mix_cols
+oaes_gf_mul_2
+oaes_gf_mul_3
+oaes_header
+oaes_inv_sub_byte_value
+dump.c
+dump_to_strbuffer
+dump_to_file
+whitespace
+dump_indent
+dump_string
+object_key_compare_keys
+object_key_compare_serials
+do_dump
+__PRETTY_FUNCTION__.3174
+load.c
+json_incref
+json_decref
+json_object_set_nocheck
+json_array_append
+error_init
+error_set
+stream_init
+stream_get
+__PRETTY_FUNCTION__.3225
+stream_unget
+__PRETTY_FUNCTION__.3233
+lex_get
+lex_eof
+lex_save
+lex_get_save
+lex_unget_unsave
+__PRETTY_FUNCTION__.3255
+lex_save_cached
+decode_unicode_escape
+__PRETTY_FUNCTION__.3267
+lex_scan_string
+__PRETTY_FUNCTION__.3291
+lex_scan_number
+__PRETTY_FUNCTION__.3318
+lex_scan
+lex_steal_string
+lex_init
+lex_close
+parse_object
+parse_value
+parse_array
+parse_json
+string_get
+string_eof
+strbuffer.c
+utf.c
+value.c
+json_init
+hash_key
+key_equal
+value_decref
+json_delete_object
+json_object_equal
+json_object_copy
+json_object_deep_copy
+json_delete_array
+array_move
+array_copy
+json_array_grow
+json_array_equal
+Do nine men interpret Nine men I nod
+json_array_copy
+json_array_deep_copy
+json_delete_string
+json_string_equal
+json_string_copy
+json_delete_integer
+json_integer_equal
+json_integer_copy
+json_delete_real
+json_real_equal
+json_real_copy
+the_true.3337
+the_false.3341
+the_null.3345
+hashtable.c
+list_init
+list_insert
+list_remove
+bucket_is_empty
+insert_to_bucket
+primes
+num_primes
+num_buckets
+hashtable_find_pair
+hashtable_do_del
+hashtable_do_clear
+hashtable_do_rehash
+__FRAME_END__
+__JCR_END__
+God A red nugget A fat egg under a dog
+__dso_handle
+__i686.get_pc_thunk.bx
+__TMC_END__
+_DYNAMIC
+__init_array_start
+__init_array_end
+_GLOBAL_OFFSET_TABLE_
+_fp_hw
+__libc_csu_fini
+_start
+__libc_csu_init
+main
+srand
+data_start
+_IO_stdin_used
+__libc_start_main
+__data_start
+__gmon_start__
+_init
+_fini
+_ITM_deregisterTMCloneTable
+_ITM_registerTMCloneTable
+strcat
+_Jv_RegisterClasses
+stpcpy
+stderr
+rand
+fwrite
+exit
+puts
+pthread_mutex_lock
+gmtime
+pthread_mutex_unlock
+getpid
+applog
+opt_debug
+ftime
+persistentctxs
+munmap
+free
+json_object_get
+json_string_value
+hex2bin
+__strdup
+jsonrpc_2
+have_stratum
+time
+sleep
+memcmp
+work_restart
+have_longpoll
+gettimeofday
+scanhash_cryptonight
+timeval_subtract
+calloc
+malloc
+memcpy
+thr_info
+tq_push
+tq_freeze
+tq_pop
+geteuid
+setpriority
+sched_setscheduler
+mmap
+madvise
+mlock
+strcmp
+stratum_socket_full
+stratum_disconnect
+stratum_connect
+stratum_recv_line
+stratum_handle_method
+json_loads
+json_delete
+stratum_subscribe
+stratum_authorize
+json_array_get
+want_longpoll
+want_stratum
+strtol
+opt_cert
+strchr
+strncpy
+json_load_file
+strncasecmp
+opt_proxy_type
+opt_proxy
+curl_version
+opt_timeout
+opt_protocol
+opt_redirect
+use_syslog
+strstr
+strrchr
+strlen
+memmove
+sprintf
+rpc2_job_decode
+rpc2_login_decode
+snprintf
+json_rpc_call
+json_rpc2_call_recur
+json_string_set
+json_dumps
+json_string
+json_object_set_new
+json_rpc2_call
+curl_easy_init
+memset
+curl_easy_cleanup
+bin2hex
+stratum_send_line
+cryptonight_hash
+optarg
+getopt_long
+optind
+applog_lock
+pthread_mutex_init
+curl_global_init
+fork
+setsid
+pthread_mutex_destroy
+chdir
+fflush
+signal
+sysconf
+localtime
+tq_new
+vfprintf
+pthread_create
+vsnprintf
+fprintf
+syslog
+strncmp
+openlog
+strcasecmp
+stratum_thr_id
+pthread_join
+__errno_location
+recv
+longpoll_thr_id
+realloc
+strtok
+select
+strcpy
+socket
+setsockopt
+send
+memchr
+__ctype_b_loc
+fulltest
+diff_to_target
+curl_easy_setopt
+curl_easy_perform
+json_array_size
+json_integer_value
+json_number_value
+json_object
+json_null
+json_true
+fclose
+pthread_cond_init
+tq_free
+pthread_cond_destroy
+pthread_cond_signal
+tq_thaw
+curl_slist_append
+curl_slist_free_all
+curl_easy_reset
+curl_easy_getinfo
+pthread_cond_timedwait
+pthread_cond_wait
+do_skein_hash
+skein_hash
+do_jh_hash
+jh_hash
+do_groestl_hash
+groestl
+do_blake_hash
+blake256_hash
+xor_blocks_dst
+cryptonight_hash_ctx
+extra_hashes
+keccakf
+keccakf_piln
+keccakf_rotc
+keccakf_rndc
+keccak
+__gnu_lto_v1
+indices_cyclic
+shift_Values
+blake256_compress
+sigma
+blake256_init
+blake224_init
+blake256_update
+blake224_update
+blake256_final_h
+blake256_final
+blake224_final
+blake224_hash
+hmac_blake256_init
+hmac_blake224_init
+hmac_blake256_update
+hmac_blake224_update
+hmac_blake256_final
+hmac_blake224_final
+hmac_blake256_hash
+hmac_blake224_hash
+E8_bitslice_roundconstant
+JH224_H0
+JH512_H0
+JH256_H0
+JH384_H0
+SKEIN_512_IV_512
+SKEIN1024_IV_1024
+SKEIN_512_IV_256
+SKEIN_512_IV_224
+SKEIN_512_IV_384
+SKEIN1024_IV_512
+SKEIN1024_IV_384
+SKEIN_512_IV_160
+SKEIN_512_IV_128
+SKEIN_256_IV_256
+SKEIN_256_IV_224
+SKEIN_256_IV_160
+SKEIN_256_IV_128
+oaes_alloc
+oaes_key_import_data
+TestTable2
+TestTable1
+TestTable3
+TestTable4
+oaes_free
+oaes_sprintf
+oaes_key_gen_128
+oaes_key_gen_192
+oaes_key_gen_256
+oaes_key_export
+oaes_key_export_data
+oaes_key_import
+oaes_set_option
+oaes_encrypt
+oaes_decrypt
+oaes_encryption_round
+oaes_pseudo_encrypt_ecb
+qsort
+__assert_fail
+strdup
+strbuffer_append_bytes
+utf8_iterate
+json_real_value
+json_object_iter
+json_object_size
+jsonp_object_iter_fullkey
+json_object_iter_next
+json_object_iter_key
+json_object_iter_value
+strbuffer_init
+strerror
+strbuffer_close
+strbuffer_value
+feof
+json_dumpf
+fgetc
+json_dump_file
+fopen
+json_object_set_new_nocheck
+json_array_append_new
+utf8_check_first
+utf8_check_full
+strbuffer_append_byte
+strbuffer_pop
+utf8_encode
+strtod
+strbuffer_clear
+json_array
+json_string_nocheck
+json_integer
+json_real
+json_false
+json_loadf
+strbuffer_steal_value
+strbuffer_append
+utf8_check_string
+hashtable_init
+hashtable_close
+hashtable_get
+hashtable_set
+json_object_del
+hashtable_del
+json_object_clear
+hashtable_clear
+json_object_update
+hashtable_iter
+json_object_iter_at
+hashtable_iter_at
+hashtable_iter_next
+hashtable_iter_key
+hashtable_iter_value
+json_object_iter_set_new
+hashtable_iter_set
+json_equal
+json_deep_copy
+json_array_set_new
+json_array_insert_new
+json_array_remove
+json_array_clear
+json_array_extend
+json_string_set_nocheck
+json_integer_set
+json_real_set
+json_copy
+hashtable_create
+hashtable_destroy
+_edata
+__bss_start
+_end
+.init_array
+.fini_array
+.text
+.got
+.comment
+.got.plt
+.rel.plt
+.init
+.bss
+.dynstr
+.eh_frame_hdr
+.jcr
+.gnu.version_r
+.interp
+.rel.dyn
+.gnu.version
+.note.gnu.gold-version
+.dynsym
+.fini
+.gnu.hash
+.note.ABI-tag
+.eh_frame
+.tm_clone_table
+.note.gnu.build-id
+.dynamic
+.shstrtab
+.strtab
+.symtab
+.rodata
+.data

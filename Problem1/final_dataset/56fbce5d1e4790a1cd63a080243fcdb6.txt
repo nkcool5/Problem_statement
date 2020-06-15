@@ -1,0 +1,5141 @@
+/lib64/ld-linux-x86-64.so.2
+libdl.so.2
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+dlclose
+dlsym
+dladdr
+dlopen
+dlerror
+libc.so.6
+socket
+fflush
+strcpy
+sigsuspend
+__printf_chk
+readdir
+execv
+fopen
+strsignal
+strncmp
+strrchr
+__longjmp_chk
+pipe
+__strdup
+perror
+connect
+getpwuid
+__fdelt_chk
+closedir
+inet_ntoa
+getgrgid
+ftell
+__read_chk
+strncpy
+personality
+__vsprintf_chk
+fork
+sigprocmask
+sigfillset
+__stack_chk_fail
+unlink
+listen
+select
+realloc
+rewinddir
+stdin
+_exit
+socketpair
+kill
+strtok
+strtol
+mmap
+feof
+strchrnul
+pread64
+fgets
+getppid
+calloc
+strlen
+sigemptyset
+memset
+strstr
+__errno_location
+tcsetattr
+bind
+fseek
+memcmp
+getnameinfo
+dup2
+setns
+__fprintf_chk
+sigaddset
+ctime
+__sigsetjmp
+stdout
+fputc
+fputs
+lseek
+memcpy
+fclose
+rand
+tcsetpgrp
+__vsnprintf_chk
+strtoul
+setsockopt
+malloc
+strcat
+raise
+setpgid
+opendir
+__ctype_b_loc
+sscanf
+__open_2
+stderr
+munmap
+__snprintf_chk
+readlink
+fscanf
+getpgid
+execvp
+ptrace
+__fxstat
+sendmsg
+fileno
+fwrite
+fread
+gettimeofday
+sigaction
+statfs
+__memcpy_chk
+waitpid
+strchr
+getsockname
+__vfprintf_chk
+qsort
+accept
+tcgetattr
+__strcpy_chk
+__ctype_tolower_loc
+syscall
+__vasprintf_chk
+fcntl
+__sprintf_chk
+__xstat
+getrlimit
+memmove
+Eleele
+pread
+pwrite
+pipe2
+memmem
+strcmp
+recvmsg
+strerror
+tcgetpgrp
+__libc_start_main
+dirfd
+ferror
+stpcpy
+sysconf
+free
+__cxa_atexit
+ps_pdwrite
+ps_pglobal_lookup
+ps_lsetregs
+ps_getpid
+ps_lgetfpregs
+ps_lsetfpregs
+ps_lgetregs
+ps_pdread
+ps_get_thread_area
+GLIBC_2.2.5
+GLIBC_2.3
+GLIBC_2.9
+GLIBC_2.11
+GLIBC_2.8
+GLIBC_2.14
+GLIBC_2.15
+GLIBC_2.7
+GLIBC_2.4
+GLIBC_2.3.4
+ATUH
+%vw&
+=ow&
+=$}&
+%9w&
+D$(1
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+ATUA
+|$"H
+5lJ&
+5^J&
+5PJ&
+=C#&
+[]A\
+=!"&
+L$ 1
+}1Hc
+AWAVAUATS
+[A\A]A^A_]
+ATUI
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+-i^&
+=Pc&
+5s`&
+AWAVAUATUSH
+dH3<%(
+[]A\A]A^A_
+t$ L
+t$ L
+t$ L
+t$ L
+t$USH
+t&ATUI
+[]A\
+T$ H
+ATUA
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+D$8H
+T$@H
+L$HH
+ATUA
+D$(1
+T$(dH3
+0[]A\
+ATUI
+|$HH
+-yE&
+-TE&
+D$$H
+3t,H
+ATUA
+[]A\
+%MC&
+-FC&
+[]A\
+t]HcP
+AWAVAUATI
+[]A\A]A^A_
+AUATI
+]A\A]
+AUATI
+[]A\A]
+USHc
+/t?HcU
+}&Hc
+D$(1
+\$(dH3
+HcT$
+\$ H
+Hc=?
+AWAVAUATI
+USHc
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+D$(1
+D$(dH3
+0[]A\
+L$R1
+T$PH
+D$h%
+AUATI
+[]A\A]
+t5<;u
+ATUI
+T$0H
+ []A\
+8.u4H
+AUATI
+$t_D
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+5f'&
+-7*&
+thread:
+coreH
+library:
+watcL
+L;4$A
+swbreak:A
+hwbreak:A
+,tuM
+[]A\A]A^
+AWAVAUATI
+:t1Lc
+<4[]A\A]A^A_
+AWAVAUATM
+:t5Mc
+]A\A]A^A_
+AWAVL
+AUATM
+:t/I
+[]A\A]A^A_
+AVAUI
+ATUH
+]A\A]A^
+ATUI
+AWAVA
+AUATI
+[]A\A]A^A_
+qSymbol:H
+mu_H
+D$(H
+AUATI
+\$ H
+qRelocInH
+D$(sn:
+D$ O
+D$!K
+D$ E
+D$!0
+D$"1
+[]A\A]
+ATUH
+[]A\
+AUATA
+A9,$vBH
+A9,$w
+[]A\A]
+[]A\A]
+AVAUATSH
+dH34%(
+[A\A]A^]
+ATUI
+[]A\
+E.Must s
+elect a 
+hreaH
+single tf
+E.Btrace
+ not ena
+bledH
+E.No sucH
+h threadH
+ATUSH
+sDH)
+ []A\
+AUATUSH
+<libraryH
+-list ve
+rsion="1
+.0">H
+</librarH
+y-list>
+v	L)
+dH34%(
+([]A\A]
+ATUSH
+T$@H
+[]A\
+T$@H
+T$@1
+T$@1
+AUATH
+  <libraUSH
+ry name=I
+"><segmeH
+nt addreH
+ss="
+"/></libH
+raryH
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+QRPH
+ATULc
+D$81
+L$8dH3
+@[]A\
+|$ D
+t$8H
+D$ H
+D$(H
+D$0H
+AUATSH
+[A\A]]
+AVAUI
+ATUI
+[]A\A]A^
+AUATUSH
+([]A\A]
+AUATI
+[]A\A]
+E.Must s
+elect a 
+hreaH
+single tf
+E.Bad anH
+nex.
+E.No sucH
+h threadH
+E.Btrace
+ not ena
+bledH
+AUATUSH
+[]A\A]
+AUATI
+x0Lc
+[]A\A]
+AUATI
+[]A\A]
+D$81
+T$ H
+|$ H
+D$8dH3
+D$ H
+D$(H
+D$0H
+E.No unwH
+aited-fo
+r childrH
+en left.H
+D$h1
+D$hdH3
+5Z_%
+5L_%
+5>_%
+T$ H
+AWAVAUATA
+D$x1
+D$xdH3
+[]A\A]A^A_
+8,uyH
+d$8L
+|$@H
+;qXfer:lH
+ibrariesH
+-svr4:reH
+ad+;augmH
+ented-liH
+braries-H
+svr4-reaA
+p0fD
+;qXfer:aH
+uxv:readH
+pu:read+H
+;qXfer:sH
+pu:writeH
+;qXfer:sH
+iginfo:rH
+ead+;qXfH
+er:siginH
+fo:writeA
+H fD
+;qXfer:fH
+dpic:reaA
+;qXfer:fA
+eatures:H
+readfD
+;qXfer:oH
+sdata:reH
+;QDisablH
+eRandomiH
+zation+
+;qXfer:tH
+hreads:r
+ead+H
+;ConditiH
+kpoints+H
+onalBreaH
+;BreakpoH
+intCommaH
+nds+
+xec-fileH
+;qXfer:eH
+:reaf
+;vContSuH
+pported+H
+;QThreadH
+Events+
+;no-resuH
+med+
+t$@H
+L$@H
+D$@H
+D$HH
+;QStartNH
+oAckMode
+D$@H
+D$HH
+D$XA
+T$0H
+|$@H
+t$XH
+d$8H
+T$hH
+t$`L
+D$xdH3
+[]A\A]A^A_
+L$0H
+L$@H
+T$8I
+l$0L
+|$@D
+d$(v
+|$(E
+T$(L
+t$(9
+D$ f
+H+T$
+t$ H
+9D$(
+Hct$,H
+D$xdH3
+;exec-evH
+entsfD
+;vfork-eH
+ventf
+;QCatchSH
+yscalls+H
+;multiprH
+ocesf
+;QAgent+H
+;QbtraceH
+-conf:btH
+:bts
+s:size+
+tVf.
+;QbtraceH
+-conf:ptA
+:pt+H
+:sizfD
+;QbtraceH
+;qXfer:bH
+:offH
+trace:re
+trace-co
+nf:read+H
+;swbreakH
+;hwbreakH
+;ConditiH
+onalTracE
+epoints+H
+;TraceStH
+ateVariaH
+;Tracepo
+bles
+intSourcH
+;Disconnf
+ectedTraH
+cingfD
+;FastTraH
+cepointsA
+;StaticTH
+racepoinA
+;Install
+InTrace+H
+;qXfer:sH
+tatictraH
+ce:read+H
+;qXfer:tH
+raceframH
+e-info:rH
+ead+H
+;EnableDH
+isableTrH
+acepointH
+;QTBuffeH
+r:size+
+;tracenzH
+;QNonStoH
+;fork-evH
+entsf
+;qXfer:lH
+ibrariesH
+:reaH
+L$8H
+T$@D)
+D$81
+L$@H
+t$(H
+T$0H
+t$@L
+D$0D
+L$@L
+t$09
+|$@1
+St;H
+tTH;W
+StuH
+tDH;
+t%H;G
+ATUI
+[]A\
+AUATUSH
+([]A\A]
+AUATUSH
+D$H1
+;qtSH
+D$0H
+D$8H
+=>z%
+L$(H
+=Mz%
+D$@1
+=!4%
+D$ H
+D$(H
+D$8dH3
+D$@1
+=|3%
+D$ H
+D$(H
+D$8dH3
+AWAVAUATUSH
+[]A\A]A^A_
+T$tL
+T$pH
+t$xH
+T$pH
+T$pH
+T$pH
+L$pH
+T$xA
+T$pH
+=i,%
+t8H9
+=(i%
+=r!%
+D$@H
+D$HH
+D$PH
+\$4HcD$4H
+D$8H
+D$ H
+D$(A
+;l$4}GHc
+L$ H
+L$(H
+t$8L
+vCont;c;A
+;s;SA
+=^~%
+=F|%
+}	tu
+=	w%
+ATUSt>H
+D$X1
+T$ H
+L$(H
+t$0H
+5\s%
+T$ H
+T$(H
+P@f.
+\$XdH3
+5Sw%
+5Ew%
+57w%
+5Fq%
+58q%
+5*q%
+5Oq%
+=2q%
+[]A\
+ATUH
+QRPH
+D$81
+D$ H
+t$8dH34%(
+D$(H
+AUATA
+[]A\A]
+AUATI
+=Gh%
+[]A\A]
+AUATA
+t$hH
+([]A\A]
+D$x1
+D$@H
+D$HH
+D$PH
+t$@H
+D$xdH3
+D$81
+D$XH
+D$`H
+D$8dH3
+AVAUATSI
+=B=%
+5+=%
+5h<%
+=Y;%
+AWAVI
+AUATUS
+[]A\A]A^A_
+tMATUI
+AUATI
+[]A\A]
+[]A\A]
+t#H9
+AWAVI
+AUATA
+([]A\A]A^A_
+t8M;w
+AUATSH
+W$dH
+[A\A]]
+ATUA
+x H9o
+[]A\
+D$(1
+L$(dH3
+D$(1
+L$(dH3
+AUAT
+[]A\A]
+[]A\A]
+x=t6H
+ATUSH
+[]A\
+ATUSH
+[]A\
+tOv%
+ATUSH
+ []A\
+HcT$
+HcT$
+AVAUATSI
+t!L9
+dH34%(
+[A\A]A^]
+AWAVAUATI
+t0H;X
+[A\A]A^A_]
+uYIc
+ATSI
+t0L;c
+[A\]
+ATSI
+txL;c
+[A\]
+tzAUATD
+0tnD
+[]A\A]
+Tacocat
+[]A\A]
+[]A\A]
+AUATUS1
+$tAH
+[]A\A]
+AVAUATU1
+$tHH
+[]A\A]A^
+ATUH
+u	[]A\
+[]A\H
+AUATI
+[]A\A]
+[]A\A]
+P H9Z
+AVAUATI
+0tQA
+[]A\A]A^A_
+[]A\A]A^A_
+@ D;p
+[]A\A]A^A_
+AWAVAUATA
+D$(1
+X@Ic
+t$$A
+HcD$$
+V$I9
+D$(dH3
+8[]A\A]A^A_
+AWAVA
+AUATI
+D$H1
+`8Ic
+D$0M
+d$8L
+|$(L
+H;T$
+L$ D
+T$ J
+d$8L
+|$0L
+t$DA
+HcD$D
+T$$H9
+L$(H9
+vZH9
+D$HdH3
+X[]A\A]A^A_
+AWAVAUATUSH
+([]A\A]A^A_
+t}<,tyI
+<,t`
+t9<,t5L9
+t$ H
+8,tKA
+=b3%
+|$ 1
+AUATA
+[]A\A]
+=z1%
+AUATI
+[]A\A]
+=z0%
+AVAUA
+[]A\A]A^
+Hc|$
+HcL$
+HcT$
+t$ H
+t$ H
+}tLLc
+HcL$
+Hct$
+HcT$
+Hct$
+St;H
+tTH;W
+StuH
+tDH;
+t%H;G
+AUATUSH
+([]A\A]
+ATUSt>H
+=i$%
+AWAVAUATI
+t';+u
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+B(H9
+[]A\A]A^A_
+-C$%
+AWAVA
+AUATUSH
+[]A\A]A^A_
+=	 %
+[]A\A]A^A_
+Hc;1
+AUATI
+AYAZ
+-lL%
+[]A\A]
+[]A\A]
+5:J%
+[]A\A]
+ATUSH
+[]A\
+u&Hi
+[]A\
+<$Et
+=1E%
+t<H9
+ATUI
+ []A\
+5uA%
+AVAUATSI
+[A\A]A^]
+AVAUATUH
+AVAU1
+]A\A]A^
+[]A\A]A^
+Hc;[H
+t[AVLc
+AUATUH
+4$[]A\A]A^
+ATUSH
+[]A\
+AUATUSH
+5H:%
+%+4%
+[]A\A]
+D9c0v
+AUATI
+D$81
+L$8dH3
+H[]A\A]
+ATPH
+D$8PL
+d$HATH
+D$@PH
+D$@PH
+<$L)
+E.GDBser
+ver was H
+built wiH
+thout stH
+atic traH
+cepointsH
+ supportH
+E.In-pro
+CXle.
+cess ageH
+nt libraH
+ry not lH
+oaded inH
+ processH
+.  Fast H
+and statH
+ic traceH
+points uH
+navailabH
+AWAVAUATUSH
+([]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATA
+D$(1
+twH9
+\$(dH3
+8[]A\A]A^A_
+AWAVAUATI
+SAT1
+[A\A]A^A_]
+SATUSH
+R}7@
+AVAU
+ATUH
+w(dH
+FastTracf
+D$+H
+D$/H
+D$7H
+t8E1
+D9m0H
+[]A\A]A^
+HcT$
+tW;k
+H98w
+ATUH
+[]A\
+$uzH
+was clai
+ming
+=g(%
+u^Hc
+52'%
+AVAU
+ATUSH
+D$X1
+D$XdH3
+`[]A\A]A^
+D$ H
+T$0AP)
+L$X)
+AYAZ
+T$Pf
+L$RI
+T$RH
+D$RH
+T$HM
+H+D$
+L;l$0s,
+D$ H
+L;l$8L
+l$0L
+L$8H
+D$PA)
+$9D$
+=A!%
+D$0H
+D$8H
+D$ H
+D$@H
+AWAVAUATSH
+ATSARQ
+AWAVP
+[A\A]A^A_]
+tstoM
+Beeb
+terror:
+closf
+AWAV
+AUAT
+D$x1
+l$(D
+t$@H
+\$tH
+D$@H
+D$0H
+D$8H
+T$0H
+D$@H
+t$@H
+T$@H
+D$8H
+D$PH
+|$0H
+t$0H
+|$0H
+T$(H
+t$8C
+t$@H
+D$@H
+L$xdH3
+[]A\A]A^A_
+t$@H
+D$8D
+|$@H
+t$(H
+t$ H
+l$ L
+t$8H
+t$@H
+|$0H
+t$8L
+d$8A
+D$8M
+t$8L
+d$XM
+I9D$
+A;T$
+T$8I
+T$8L
+T$8H
+D$8M
+|$8A
+|$@H
+T$8I
+T$8H
+t$ H
+l$ L
+|$XH
+E.In-pro
+EXle.
+cess age
+nt libraH
+ry not lH
+oaded in
+ processH
+.  Fast H
+and statH
+ic traceH
+points uH
+navailabH
+EP~*
+t$@H
+|$@H
+D$8A
+\$@E
+tXD9
+|$(H
+D$@E
+E.In-pro
+EXle.
+cess ageH
+nt libraH
+ry not lH
+oaded inH
+ processH
+.  Fast H
+and statH
+ic traceH
+points uH
+navailabH
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+t$@L
+@XH9
+D$8H
+t$@H
+T$(H
+t$(H
+D$(H
+<:u`A
+<-t9
+|$0L
+d$0H
+t$8H
+|$0H
+t$8H
+|$0H
+t$ H
+t$8H
+|$0H
+t$8H
+|$0H
+AWAV
+AUAT
+D$81
+\$8dH3
+H[]A\A]A^A_
+D$0E
+t$0H
+|$0H
+T$(H
+t$(H
+5c[$
+t$0H
+|$(1
+t$0H
+T$(H9
+T$0H9
+D$0H
+D$(H)
+D$(V
+D9l$
+D$(1
+L$(dH3
+t:H;
+D$ H
+D$ H
+H9Pxu
+H;Pxu
+AVAUATUH
+]A\A]A^
+]A\A]A^
+AUATI
+D$81
+D$8dH3
+H[]A\A]
+T$ E
+AWAVAUATI
+D$81
+|$ L
+I;G@
+T$8dH3
+H[]A\A]A^A_
+AWAVAUATUSH
+D$H1
+T$HdH3
+X[]A\A]A^A_
+D$(H
+T$ H
+D$(H
+|$0H
+D$0H
+t!H9
+|$ L
+D9c0w
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\
+AWAVAUATUS
+D$(1
+D$'M)
+\$(dH3
+8[]A\A]A^A_
+AVAUI
+ATUH
+[]A\A]A^
+[]A\
+AWAVAUATUSH
+l$ dH
+D$X1
+l$(L
+d$0L
+t$8L
+H9\$ w
+H;\$(
+H;\$0
+L$XdH3
+h[]A\A]A^A_
+H9D$Ht
+|$@H
+H;}xu
+&gt;
+&lt;
+&apofD
+&ampf
+&quofD
+dH34%(
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AWAVAUATA
+t$(A
+t$,L
+9D$,|CI
+L$$H
+8[]A\A]A^A_
+|$ H
+|$ L
+9D$(|
+[]A\A]A^A_
+t9USH
+t9USH
+T$ 9T$
+L$(H9L$
+D$0H9D$
+H95p2$
+t6H9
+H95<
+t	H9
+t/H9
+t	H9
+t/H9
+L$(L9
+D$ D
+t(L9L$
+L9T$
+AVAU
+ATUI
+[]A\A]A^
+t$SH
+AVAUI
+ATUI
+D$H1
+T$`H
+L$hL
+D$pL
+L$xH
+t$ H
+D$HdH3
+[]A\A]A^
+AWAVAUATI
+tRf.
+tD<\u(A
+[A\A]A^A_]
+A Santa lives evil at NASA
+0tbA
+ tlA
+.uBA
+lt5I
+DuEA
+t(;r
+AUATI
+[]A\A]
+t+A;x
+AUATSI
+[A\A]]
+H;G(t5H
+ATUI
+|$ H
+t$(H
+D$81
+D$8dH3
+AUATLc
+uDM9
+[]A\A]
+[]A\A]
+[]A\A]
+=6`$
+ATUH
+[]A\
+ATUS
+[]A\
+00000000H
+00000000H
+0000
+0000
+ATUH
+ []A\
+[]A\H
+[]A\
+D$ 1
+AWAVI
+AUATUSH
+[]A\A]A^A_
+AVAUATE1
+|rE1
+)~=F
+(]A\A]A^A_
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+ATUSH
+[]A\
+ATUSH
+[]A\
+ATUI
+[]A\
+ATUH
+[]A\
+AWAVAUATUSH
+=Ir$
+-:r$
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t;r1
+u.[H
+tIr7
+AWAVAUATI
+]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+?@OD
+tTUSH
+=.5$
+%"5$
+D$H1
+L$HdH3
+ELFt
+H+7H
+ATUA
+[]A\
+=W-$
+AUATI
+D$(1
+L$(dH3
+8[]A\A]
+AVAUI
+[]A\A]A^
+AVAUATUSH
+]A\A]A^
+]A\A]A^
+AWAVAUATA
+dH3<%(
+[A\A]A^A_]
+AWAVI
+AUATE1
+D$pH
+D$xt	A
+[]A\A]A^A_
+t$LL
+t$MH
+D$,H
+ 9D$
+=Cw$
+5pw$
+ATUH
+AUATI
+[]A\A]
+AWAVI
+AUATI
+[]A\A]A^A_
+tOIc
+H;L$
+=Bw$
+AWAVAUATS
+dH3<%(
+[A\A]A^A_]
+AUATSH
+}SHc
+[A\A]]
+AWAVAUATUSH
+D$01
+D$$H
+t$(dH34%(
+8[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+|$ E
+AWAVAUATSH
+[A\A]A^A_]
+AUATI
+[]A\A]
+[]A\A]
+5)l$
+AWAVAUATSH
+[A\A]A^A_]
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+ATUH
+[]A\
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+ATUH
+[]A\
+tfUS
+-a[$
+=Z[$
+-8[$
+AUATI
+[]A\A]
+H;E@L
+[]A\A]
+[]A\A]
+-AZ$
+AVAUATUSH
+]A\A]A^
+]A\A]A^
+-:^$
+D$HE
+I;D$@I
+|$@I
+5OW$
+5&W$
+=,\$
+ATUSH
+[]A\
+ATUI
+[]A\
+[]A\
+AWAVAUATI
+[]A\A]A^A_
+ATUH
+AWAVI
+AUATI
+D$ H
+[]A\A]A^A_
+AWAVAUATUSH
+L$(dH
+T$H1
+\$ L
+D$HdH3
+X[]A\A]A^A_
+=vK$
+=-Q$
+Lcl$
+|$0H
+AUATUSH
+[]A\A]
+[]A\A]1
+ATUH
+L$ H
+0[]A\
+t$h1
+ATUI
+-hJ$
+5fI$
+ATUI
+[]A\
+$tJL
+AUATI
+xdtq
+([]A\A]
+AWAVI
+AUATI
+t$4H
+[]A\A]A^A_
+|$8H
+t$(H
+t$(H
+<libraryH
+-list-sv
+r4 versiL
+on="1.0"H
+D$8H
+D$8L
+D$8H
+D$@H
+D$`H
+t$HD
+t$PD
+t$XD
+t$hD
+t$`D
+t$@H
+T$hH9
+t$XI
+</librarA
+vr4>A
+y-list-sI
+T$$H
+Ic>H
+t$hu
+t$8D
+t$pL
+t$(L
+D$pH
+AWAVAUATUSH
+[]A\A]A^A_
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+D$pH
+D$xH
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+D$pH
+AWAVAUATUS
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+u5Hc
+AWAVI
+AUATUSH
+[]A\A]A^A_
+D$ H
+D$(I
+T$(u
+D$ M
+|$pHc
+T$(H
+D$xI
+D$ H
+ L;%@ $
+D$ A
+T$(A
+uJHcD$
+T$(H
+T$(H
+=P#$
+L$HL
+T$(H
+H;|$H
+|$HL
+D$8L
+T$0H
+T$(H
+D$8H
+|$HL
+T$0H
+|$HH
+|$p1
+T$ tZL
+T$(H
+D$@H
+T$ H
+|$H1
+D$ L
+T$(H
+L$ I
+T$0H
+t$PH
+D$(H
+L$ L
+T$0H
+T$ H
+T$ 1
+D$pI
+D$xI
+T$0L
+T$0L
+t$D@
+|$HL
+D$(1
+D$(dH3
+ATUH
+[]A\
+E@H9D$
+H;D$
+L$ 1
+E@H9D$0
+D$PH
+AUATUSH
+[]A\A]
+AUATUSH
+[]A\A]
+Ste1
+D$(1
+D$(dH3
+AWAVAUATUSH
+D$@H
+T$HH
+L$PQRPQRP
+dH34%(
+[]A\A]A^A_
+D$ H
+T$(H
+L$0QRPQRP
+I9Epw	1
+I9Ex
+5cq#
+5Uq#
+5Gq#
+E@I;Epr;I
+}xH9
+d$`1
+}`E1
+Hct$
+MxH9
+U@H9
+s	H9
+D$HH
+D$X1
+D$XdH3
+t$PH
+ATUI
+t$XH
+t$XH
+ []A\
+L$(1
+L$(dH3
+ATU1
+|$P1
+[]A\
+t$XH
+T$,H
+D$(1
+D$@H
+D$HH
+D$PH
+L$(dH3
+$p$B
+AWAVAUATI
+D$(1
+D$(dH3
+8[]A\A]A^A_
+L;l$
+AWAVH
+AUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+L$X1
+T$(H
+L$0H
+$sRH
+T$XdH3
+h[]A\A]A^A_
+AWAVAUATI
+|$ H
+[]A\A]A^A_
+L$ 1
+AWAVI
+AUATI
+T$ H
+D$8%
+sGH)
+[]A\A]A^A_
+AWAVI
+AUATI
+snH)
+[]A\A]A^A_
+AWAVAUATA
+[]A\A]A^A_
+D$TH
+D$tH
+D$DP1
+L$HL
+L$DH
+AXAYu
+L$LL
+D$PH
+D$`L
+L$lL
+D$pH
+D$bE
+l$`f
+t$0H
+t$ 1
+T$DH
+T$dH
+D$4f
+D$8f
+s,H)
+[]A\
+4$dH
+AWAVAUATI
+[]A\A]A^A_
+t$(H
+|$pL
+t$0H
+t$,L
+t$4L
+T$HH
+T$PH
+t$XH
+D$hPH
+D$hPH
+D$LPH
+D$LPH
+D$XPH
+D$XPH
+T$tH
+t$`H
+t$hH
+AWAVAUATI
+[]A\A]A^A_
+|$@L
+t$ L
+t$0H
+AWAV
+D$hPD
+L$X1
+D$8PH
+D$0PH
+D$0PH
+D$<PH
+D$<P1
+L$XL
+D$TH
+L$\H
+T$@H
+t$8H
+AWAVAUATI
+[]A\A]A^A_
+t$(H
+|$pL
+t$0H
+t$,L
+t$4L
+T$HH
+T$PH
+t$XH
+D$xPH
+D$hPH
+D$hPH
+D$LPH
+D$LPH
+D$XPH
+D$XPH
+D$xPH
+T$tH
+t$`H
+t$hH
+ATUSH
+D$`1
+\$XdH3
+`[]A\
+AWAVAUATI
+T$@H
+D$X%
+|$ 1
+sOH)
+[]A\A]A^A_
+AWAVAUATUSH
+D$@H
+T$pH
+D$@H
+Borrow or rob
+D$01
+HcT$H
+t$0H
+|$P1
+l$8H
+L$(A
+T$@I
+H9D$
+L$ H
+[]A\A]A^A_
+AWAVAUATI
+[]A\A]A^A_
+sJH)
+[]A\A]A^A_
+[]A\A]A^A_
+]A\A]A^A_
+AUATA
+D$h1
+L$hdH3
+x[]A\A]
+[]A\
+D$h1
+L$hdH3
+D$h1
+L$hdH3
+D$p1
+t$hdH34%(
+AVAU
+ATUA
+[]A\A]A^
+|$ Ic
+D$ 1
+AVAUATUSH
+[]A\A]A^
+t8L9
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+=yb#
+AWAV1
+AUATI
+[]A\A]A^A_
+X[]1
+ <_I
+[]A\A]A^
+AWAVAUATA
+[A\A]A^A_]
+AWAVA
+AUATI
+D$@D
+d$PH
+D$`H
+L$pH
+D$xH
+D$0(
+D$ H
+[]A\A]A^A_
+l$0H
+AVAUE1
+ATUA
+L$ L
+A[]w0
+_AXH
+AYAZx
+ATUSH
+[]A\
+L$ H
+ZYx0
+AUATE1
+H9D$
+H9D$
+ZYxo
+[]A\A]
+L$ H
+Y^xD
+H9D$
+AUATA
+ZYxgA
+[]A\A]
+ZYxV
+AUATI
+T$$L
+XYxQ
+u}HcD$
+([]A\A]
+[]A\
+X[RQH
+$3\$
+$#\$
+$HdH
+$HdH
+ATUA
+ []A\
+ATUA
+ []A\
+AWAVA
+AUATI
+|$hH
+L$`H
+D$HH
+D$ H
+D$PH
+D$8H
+D$@H
+D$(H
+D$0H
+D$XdH
+t$`Hc
+H+L$
+H+L$
+H+L$
+L$(H
+|$ D
+tsD)
+L$8D
+L$@H
+[]A\A]A^A_
+D$PH
+|$HA
+D$|f
+God A red nugget A fat egg under a dog
+D$@H
+D$XH
+E.Cannot
+ allocat
+@PtionH
+e trampof
+line spa
+ce needeH
+d for faH
+st traceH
+points oH
+n 4-byteH
+ instrucH
+D$$H
+D$ H
+AUATA
+[]A\A]
+[]A\A]
+AUATA
+[]A\A]
+[]A\A]
+[]A\
+[]A\
+ATUI
+ []A\
+D$h1
+T$hdH3
+AWAVM
+AUATI
+D$0H
+D$8H
+D$ H
+D$(dH
+t$0L
+t$XUSL
+D$PH
+T$HH
+[]A\A]A^A_
+D$`T
+D$aU
+D$bW
+D$cVH
+D$dRI
+D$eQ
+D$fS
+D$gP
+D$hA
+D$iW
+D$jA
+D$kV
+D$lA
+D$mU
+D$nA
+D$oT
+D$pA
+D$qS
+D$rA
+D$sR
+D$tA
+D$uQ
+D$vA
+D$wP
+D$yH
+D$P$
+T$XH9
+|$HA
+D$@H
+T$XI9
+H+L$@
+D$@J
+D$HH
+T$XI9
+H+L$H
+D$@A
+D$@H
+D$HH
+T$XI9
+H+L$H
+D$@J
+D$HH
+T$XI9
+H+L$H
+\$@H
+|$PH
+\$PH
+T$XI9
+D$@J
+D$HH
+T$XI9
+H+L$H
+D$@J
+D$HH
+T$XI9
+H+L$H
+D$@A
+D$@H
+D$HH
+T$XI9
+H+L$H
+D$@A
+D$@H
+D$HH
+T$XI9
+H+L$H
+D$@J
+D$HH
+T$XI9
+H+L$H
+\$@H
+|$PH
+\$PH
+T$XI9
+\$HHc
+D$@H
+T$XI9
+H+L$@
+D$@J
+D$HH
+T$XI9
+H+L$H
+\$@H
+|$PH
+\$PH
+T$XI9
+T$XI9
+H+L$
+|$PH
+\$PH
+T$XI9
+T$XI9
+|$PH
+\$PH
+T$XI9
+|$PH)
+D$`H
+D$eAH
+D$fX
+D$gA
+D$hY
+D$iA
+D$jZ
+D$kA
+D$l[
+D$mA
+D$n\
+D$oA
+D$p]
+D$qA
+D$r^
+D$sA
+D$t_
+D$uX
+D$v[
+D$wY
+D$xZ
+D$y^
+D$z_
+D${]
+D$|\
+D$PH
+|$PL
+|$PH
+\$`D
+D$PH
+T$PL)
+\$`H
+L$0D
+D$8H
+|$(H
+ATUI
+D$H1
+L$HdH3
+P[]A\
+L$0H
+D$41
+AUATA
+[]A\A]
+AUATUS
+[]A\A]A^
+ATUI
+dH3<%(
+ []A\
+O$AVA
+O$A^
+AWAVE1
+AUATA
+USE1
+t	J94Ot?E1
+W$udH
+[]A\A]A^A_
+AUATI
+T$$H
+D$ H
+D$(H
+D$0H
+[]A\A]
+AWAV1
+AUATE
+[]A\A]A^A_
+AWAVAUATUSH
+D$X1
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+HcL$
+D$ H
+L$XdH3
+h[]A\A]A^A_
+D$ H
+AWAVI
+AUATUSH
+D$X1
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+L$XdH3
+h[]A\A]A^A_
+HcL$
+AWAVE1
+AUATE1
+USE1
+[]A\A]A^A_
+AVAUI
+ATUI
+ []A\A]A^
+AVAUI
+ATUI
+[]A\A]A^
+AWAVI
+AUATI
+D$(1
+D$(dH3
+8[]A\A]A^A_
+AWAVAUATI
+D$h1
+D$ I
+ t)I
+@t;I
+D$hdH3
+x[]A\A]A^A_
+t$ H
+L94$tFH
+L94$u
+D;<$tFH
+D$ H
+T$(I
+D;<$u
+D$ H
+L;4$u
+L94$u
+L94$t=H
+D$ I
+L94$u
+ L94$tSH
+L94$u
+@L94$tSH
+L94$u
+@L94$tFH
+D$ H
+T$(A
+L94$u
+@L94$
+D$ H
+T$(A
+D$ H
+T$(I
+D$ I
+AWAVE1
+AUATI
+([]A\A]A^A_
+AWAVAUATE1
+([]A\A]A^A_
+D9$$u
+L;4$u
+|$ H
+ntel
+Genu
+ineIu?
+dH3<%(
+AVAUATUSH
+tqrg
+[]A\A]A^
+D$(	
+0<:w
+AVAUATUSH
+D$81
+D$pH
+D$ H
+D$xH
+D$(H
+D$(H
+D$0H
+|$8dH3<%(
+@[]A\A]A^
+D$xH
+AWAVAUATUSH
+L$h1
+|$0H
+|$hdH3<%(
+x[]A\A]A^A_
+L$(H
+L$HH
+|$81
+D$ t
+D$0H
+L$8H
+D$ H9
+t$8H
+D$ 1
+L$(H
+H;t$ L
+L;|$
+H9l$
+|$(H
+L$HH9
+|$(H
+D$(H
+D$(L
+D$0H
+D$(L
+D$0L
+D$(H
+0H9t$ t
+D$(H
+D$ H
+t$HH9
+H9D$8H
+D$(H
+u$[]A\
+AUATA
+[]A\A]
+|$ dH
+D$81
+D$8dH3
+|$ dH
+D$81
+D$8dH3
+AUATH
+([]A\A]
+dH3<%(
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+D$pH
+D$x1
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+D$pH
+D$x1
+D$$H
+D$ I
+D$(I
+D$0I
+D$8I
+D$@I
+D$HI
+D$PI
+D$XI
+D$`I
+D$hI
+D$pI
+D$xI
+AUATUSH
+[]A\A]
+uYHcT$xA9
+T$xH
+ATUSH
+D$(1
+D$XH
+T$(dH3
+0[]A\
+C8tIH
+C@t2H
+C`u|
+C txH
+CPtAH
+ATUH
+d_db.so.
+libthreaH
+[]A\
+t$@H
+t$P1
+t$PH
+AWAVI
+AUATI
+([]A\A]A^A_
+AWAVAUATUSH
+D$(1
+t$(dH34%(
+8[]A\A]A^A_
+AUATUSH
+D$,H
+([]A\A]
+ATUSH
+ []A\
+ATUSt}H
+[]A\
+t;USH
+AWAVAUATUSH
+Hct$
+[]A\A]A^A_
+t#<"
+<'t$<"
+AVAUI
+ATUI
+"<:w
+[]A\A]A^
+AWAVE1
+AUATUSH
+H[]A\A]A^A_
+L$<L
+\$0H
+L$(H
+T$ Hc6H
+T$ H
+\$0H
+L$(L
+L$<H
+D$ H
+L$ H
+AWAVA
+AUATL
+[]A\A]A^A_
+gdb_agent_helper_thread_id
+symbol `%s' not found
+unable to write
+agent: resumed helper thread
+/tmp
+%s/gdb_ust%d
+error opening sync socket: %s
+agent: stop helper thread
+gdb_agent_cmd_buf
+gdb_agent_capability
+Error reading helper thread's id in lib
+string overflow allocating socket name
+error connecting sync socket (%s): %s. Make sure the directory exists and that it is writable.
+agent: signalling helper thread
+agent: waiting for helper thread's response
+Error reading command response
+agent: helper thread's response received
+Error reading capability of agent
+gdbserver/ax: %s
+Printf of "%s" with %d args
+?undef?
+empty agent expression
+Cannot compile op 0x%x
+Combining equal & if_goto
+At end of expression
+Op %s compiled
+Want to jump from %s to %s
+empty agent expression
+About to interpret byte 0x%x
+Attempted to divide by zero
+unhandled register size
+Expression stack overflow
+Expression stack underflow
+Op %s -> sp=%d, top=0x%s
+div_signed
+div_unsigned
+rem_signed
+rem_unsigned
+rsh_signed
+rsh_unsigned
+trace_quick
+log_not
+bit_and
+bit_or
+bit_xor
+bit_not
+equal
+less_signed
+less_unsigned
+ref8
+ref16
+ref32
+ref64
+ref_float
+ref_double
+ref_long_double
+l_to_d
+d_to_l
+const8
+const16
+const32
+const64
+zero_ext
+swap
+getv
+setv
+tracev
+tracenz
+trace16
+invalid2
+pick
+printf
+Wrong number of arguments for specified format-string
+current substring is '%s', class is %d
+long long not supported in agent printf
+Format directive in '%s' not supported in agent printf
+About to compile op 0x%x, pc=%d
+Combining equal & log_not & if_goto
+Combining less_signed & if_goto
+Combining less_signed & log_not & if_goto
+Combining swap & less_signed & if_goto
+Combining swap & less_signed & log_not & if_goto
+Agent expression op 0x%x not recognized
+Error %d while emitting code for %s
+Destination of goto %d not found
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/ax.c
+At end of expression, sp=%d, stack top cache=0x%s
+Stack is empty, nothing to return
+Unterminated format string in printf bytecode
+Agent expression op 0x%x valid, but not handled
+Agent expression op 0x%x not recognized
+find_thread_process (process) == NULL
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/inferiors.c
+%s: Assertion `%s' failed.
+current_thread != NULL
+current_process
+remove_process
+tdesc->registers_size != 0
+proc->tdesc != NULL
+src != NULL && dst != NULL
+src->tdesc == dst->tdesc
+src != dst
+Unknown register %s requested
+regcache != NULL
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/regcache.c
+Wrong sized register packet (expected %d bytes, got %d)
+regnum >= 0 && regnum < regcache->tdesc->num_registers
+That operation is not available on integers of more than%d bytes.
+regcache_read_pc: Unable to find PC
+regcache_write_pc: Unable to update PC
+regcache_raw_read_unsigned
+regcache_cpy
+new_register_cache
+get_thread_regcache
+handling possible accept event
+Remote debugging from host %s
+input_interrupt, count = %d c = %d 
+putpkt ("%s"); [looking for ack]
+[getpkt: discarding char '%c']
+Bad checksum, sentsum=0x%x, csum=0x%x, buf=%s [no-ack-mode, Bad medium?]
+Bad checksum, sentsum=0x%x, csum=0x%x, buf=%s
+getpkt ("%s");  [sending ack] 
+getpkt ("%s");  [no ack sent] 
+Writing resume reply for %s:%d
+Malformed response to qSymbol, ignoring: %s
+An error occurred while relocating an instruction: %s
+Malformed response to qRelocInsn, ignoring: %s
+Accept failed
+client connection closed
+('%c')
+('\x%02x')
+readchar: Got EOF
+readchar
+putpkt(write)
+putpkt ("%s"); [notif]
+putpkt ("%s"); [noack mode]
+[received '%c' (0x%x)]
+stdio
+Bad port argument: %s
+Can't open socket
+Can't bind address
+Remote debugging using stdio
+Could not open remote device
+Remote debugging using %s
+Can't determine port
+Listening on port %d
+p-%x.
+p%x.
+invalid remote ptid: %s
+[sent ack]
+vfork
+syscall_entry
+syscall_return
+T%02x%s:
+T%02xvforkdone:;
+exec
+T%02xcreate:;
+T%02x%s:%x;
+T%02x
+W%x;process:%x
+W%02x
+X%x;process:%x
+X%02x
+w%x;
+unhandled waitkind
+qSymbol:
+qRelocInsn:%s;%s
+qRelocInsn:
+The following monitor commands are supported:
+    Enable general debugging messages
+    Enable h/w breakpoint/watchpoint debugging messages
+    Enable remote protocol debugging messages
+  set debug-format option1[,option2,...]
+    Add additional information to debugging messages
+All extra debug format options enabled.
+All extra debug format options disabled.
+Timestamps will be added to debug output.
+Unknown debug-format argument: "%s"
+Usage:	gdbserver [OPTIONS] COMM PROG [ARGS ...]
+	gdbserver [OPTIONS] --attach COMM PID
+	gdbserver [OPTIONS] --multi COMM
+COMM may either be a tty device (for serial debugging),
+HOST:PORT to listen for a TCP connection, or '-' or 'stdio' to use 
+stdin/stdout of gdbserver.
+PROG is the executable program.  ARGS are arguments passed to inferior.
+PID is the process ID to attach to, when --attach is specified.
+Operating modes:
+  --attach              Attach to running process PID.
+  --multi               Start server without a specific program, and
+                        only quit when explicitly commanded.
+  --once                Exit after the first connection has closed.
+  --help                Print this message and then exit.
+  --version             Display version information and exit.
+Other options:
+  --wrapper WRAPPER --  Run WRAPPER to start new programs.
+  --disable-randomization
+                        Run PROG with address space randomization disabled.
+  --no-disable-randomization
+                        Don't disable address space randomization when
+                        starting PROG.
+Debug options:
+  --debug               Enable general debugging output.
+  --debug-format=opt1[,opt2,...]
+                        Specify extra content in debugging output.
+                          Options:
+                            all
+                            none
+                            timestamp
+  --remote-debug        Enable remote protocol debugging output.
+  --disable-packet=opt1[,opt2,...]
+                        Disable support for RSP packets or features.
+                          Options:
+                            vCont, Tthread, qC, qfThreadInfo and 
+                            threads (disable all threading packets).
+For more information, consult the GDB manual (available as on-line 
+info or a printed manual).
+<http://www.gnu.org/software/gdb/bugs/>
+Process %s created; pid = %ld
+Reporting thread %s as already stopped with %s
+thread->last_status.kind != TARGET_WAITKIND_IGNORE
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/server.c
+PacketSize=%x;QPassSignals+;QProgramSignals+
+H/W point debugging output enabled.
+H/W point debugging output disabled.
+Protocol debug output enabled.
+Protocol debug output disabled.
+Unable to allocate memory to perform the search
+Error in parsing qSearch:memory packet
+Unable to access %ld bytes of target memory at 0x%lx, halting search.
+iter != NULL && iter->p != NULL
+(Ubuntu 7.11.1-0ubuntu1~16.5) 
+GNU gdbserver %s%s
+Copyright (C) 2016 Free Software Foundation, Inc.
+gdbserver is free software, covered by the GNU General Public License.
+This gdbserver was configured as "%s"
+Disableable packets:
+  vCont       	All vCont packets
+  qC          	Querying the current thread
+  qfThreadInfo	Thread listing
+  Tthread     	Passing the thread specifier in the T stop reply packet
+  threads     	All of the above
+Don't know how to disable "%s".
+Attaching not supported on this target
+Remote side has terminated connection.  GDBserver will reopen the connection.
+Disconnected tracing disabled; stopping trace run.
+E.Bad Qbtrace operation. Use bts, pt, or off.
+E.Could not disable branch tracing.
+Unknown catch-syscalls mode requested: %s
+Unknown non-stop mode requested: %s
+[address space randomization disabled]
+[address space randomization enabled]
+E.Must select a single thread.
+E.Bad Qbtrace configuration option.
+E.Unknown thread-events mode requested: %s
+Disconnected tracing in effect, leaving gdbserver attached to the process
+Persistent commands are present, leaving gdbserver attached to the process
+tp->last_status.kind != TARGET_WAITKIND_IGNORE
+Found breakpoint commands %s.
+captured_main should never return
+handling possible serial event
+handling possible target event
+GDB not connected; forwarding event %d for [%s]
+  set debug <0|1>
+  set debug-hw-points <0|1>
+  set remote-debug <0|1>
+    Options: all, none
+, timestamp
+  exit
+    Quit GDBserver
+Killing process(es):
+Detaching process(es):
+Detach or kill failed: %s
+<threads>
+</threads>
+<thread id="%s"
+ core="%s"
+ name="%s"
+Report bugs to "%s".
+Attached; pid = %d
+new_argv[%d] = "%s"
+target.xml
+delta
+qSymbol::
+qfThreadInfo
+qsThreadInfo
+qOffsets
+Text=%lX;Data=%lX;Bss=%lX
+qSupported
+multiprocess+
+qRelocInsn+
+swbreak+
+hwbreak+
+vfork-events+
+exec-events+
+vContSupported+
+QThreadEvents+
+no-resumed+
+qGetTLSAddr:
+qGetTIBAddr:
+qRcmd,
+set debug 1
+Debug output enabled.
+set debug 0
+Debug output disabled.
+set debug-hw-points 1
+set debug-hw-points 0
+set remote-debug 1
+set remote-debug 0
+set debug-format 
+exit
+Unknown monitor command.
+qSearch:memory:
+1,%lx
+qAttached
+qAttached:
+qCRC:
+C%lx
+qXfer:
+q != NULL
+q->head != NULL
+--version
+--help
+--attach
+--multi
+--wrapper
+--debug
+--debug-format=
+--remote-debug
+--disable-packet
+--disable-packet=
+vCont
+Tthread
+--disable-randomization
+--no-disable-randomization
+--once
+Unknown argument: %s
+No program to debug
+Quit
+gdbserver: %s
+non-stop
+all-stop
+Enable
+Disable
+disabled
+enabled
+E.Btrace already enabled.
+E.Branch tracing not enabled.
+E.Could not enable btrace.
+QPassSignals:
+QProgramSignals:
+QCatchSyscalls:
+quick_push
+QStartNoAckMode
+[noack mode enabled]
+QNonStop:
+Setting %s mode failed
+[%s mode enabled]
+QDisableRandomization:
+QAgent:
+E.Unknown QAgent value
+[%s agent]
+Qbtrace:
+E.No such thread.
+bts:size=
+E.Bad size value.
+pt:size=
+[thread events are now %s]
+Forcing non-stop mode
+Detaching from process %d
+Found breakpoint condition.
+cmds:
+Unknown token %c, ignoring.
+Killing all inferiors
+GDBserver restarting
+vCtrlC
+vCont;
+vCont?
+vFile:
+vAttach;
+Already debugging a process
+vRun;
+vKill;
+No process to kill
+Qbtrace-conf:
+QThreadEvents:
+Exiting
+btrace
+btrace-conf
+exec-file
+fdpic
+features
+libraries
+libraries-svr4
+osdata
+siginfo
+statictrace
+traceframe-info
+vStopped
+queue_stop_reply_callback
+handle_status
+VEC_int_quick_push
+process_serial_event
+main
+queue_notif_event_p_free
+queue_notif_event_p_length
+queue_notif_event_p_iterate
+queue_notif_event_p_remove_elem
+queue_notif_event_p_is_empty
+queue_notif_event_p_peek
+queue_notif_event_p_deque
+queue_notif_event_p_enque
+gdb_signal_to_symbol_string
+(int) sig >= GDB_SIGNAL_FIRST && (int) sig <= GDB_SIGNAL_LAST
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/../common/signals.c
+GDB bug: target.c (gdb_signal_from_host): unrecognized real-time signal
+Signal %s does not exist on this system.
+Need to relinquish monitor mode
+Internal error: printing GDB_SIGNAL_DEFAULT
+TARGET_SIGNAL_LINUXTHREADS_RESTART
+TARGET_SIGNAL_LINUXTHREADS_CANCEL
+TARGET_SIGNAL_LINUXTHREADS_DEBUG
+Unknown signal
+SIGHUP
+GDB_SIGNAL_0
+Signal 0
+GDB_SIGNAL_HUP
+Hangup
+GDB_SIGNAL_INT
+SIGINT
+Interrupt
+GDB_SIGNAL_QUIT
+SIGQUIT
+GDB_SIGNAL_ILL
+SIGILL
+Illegal instruction
+GDB_SIGNAL_TRAP
+SIGTRAP
+Trace/breakpoint trap
+GDB_SIGNAL_ABRT
+SIGABRT
+Aborted
+GDB_SIGNAL_EMT
+SIGEMT
+Emulation trap
+GDB_SIGNAL_FPE
+SIGFPE
+Arithmetic exception
+GDB_SIGNAL_KILL
+SIGKILL
+Killed
+GDB_SIGNAL_BUS
+SIGBUS
+Bus error
+GDB_SIGNAL_SEGV
+SIGSEGV
+Segmentation fault
+GDB_SIGNAL_SYS
+SIGSYS
+Bad system call
+GDB_SIGNAL_PIPE
+SIGPIPE
+Broken pipe
+GDB_SIGNAL_ALRM
+SIGALRM
+Alarm clock
+GDB_SIGNAL_TERM
+SIGTERM
+Terminated
+GDB_SIGNAL_URG
+alula
+SIGURG
+Urgent I/O condition
+GDB_SIGNAL_STOP
+SIGSTOP
+Stopped (signal)
+GDB_SIGNAL_TSTP
+SIGTSTP
+Stopped (user)
+GDB_SIGNAL_CONT
+SIGCONT
+Continued
+GDB_SIGNAL_CHLD
+SIGCHLD
+Child status changed
+GDB_SIGNAL_TTIN
+SIGTTIN
+Stopped (tty input)
+GDB_SIGNAL_TTOU
+SIGTTOU
+Stopped (tty output)
+GDB_SIGNAL_IO
+SIGIO
+I/O possible
+GDB_SIGNAL_XCPU
+SIGXCPU
+CPU time limit exceeded
+GDB_SIGNAL_XFSZ
+SIGXFSZ
+File size limit exceeded
+GDB_SIGNAL_VTALRM
+SIGVTALRM
+Virtual timer expired
+GDB_SIGNAL_PROF
+SIGPROF
+Profiling timer expired
+GDB_SIGNAL_WINCH
+SIGWINCH
+Window size changed
+GDB_SIGNAL_LOST
+SIGLOST
+Resource lost
+GDB_SIGNAL_USR1
+SIGUSR1
+User defined signal 1
+GDB_SIGNAL_USR2
+SIGUSR2
+User defined signal 2
+GDB_SIGNAL_PWR
+SIGPWR
+Power fail/restart
+GDB_SIGNAL_POLL
+SIGPOLL
+Pollable event occurred
+GDB_SIGNAL_WIND
+SIGWIND
+GDB_SIGNAL_PHONE
+SIGPHONE
+GDB_SIGNAL_WAITING
+SIGWAITING
+Process's LWPs are blocked
+GDB_SIGNAL_LWP
+SIGLWP
+Signal LWP
+GDB_SIGNAL_DANGER
+SIGDANGER
+Swap space dangerously low
+GDB_SIGNAL_GRANT
+SIGGRANT
+Monitor mode granted
+GDB_SIGNAL_RETRACT
+SIGRETRACT
+GDB_SIGNAL_MSG
+SIGMSG
+Monitor mode data available
+GDB_SIGNAL_SOUND
+SIGSOUND
+Sound completed
+GDB_SIGNAL_SAK
+SIGSAK
+Secure attention
+GDB_SIGNAL_PRIO
+SIGPRIO
+GDB_SIGNAL_REALTIME_33
+SIG33
+Real-time event 33
+GDB_SIGNAL_REALTIME_34
+SIG34
+Real-time event 34
+GDB_SIGNAL_REALTIME_35
+SIG35
+Real-time event 35
+GDB_SIGNAL_REALTIME_36
+SIG36
+Real-time event 36
+GDB_SIGNAL_REALTIME_37
+SIG37
+Real-time event 37
+GDB_SIGNAL_REALTIME_38
+SIG38
+Real-time event 38
+GDB_SIGNAL_REALTIME_39
+SIG39
+Real-time event 39
+GDB_SIGNAL_REALTIME_40
+SIG40
+Real-time event 40
+GDB_SIGNAL_REALTIME_41
+SIG41
+Real-time event 41
+GDB_SIGNAL_REALTIME_42
+SIG42
+Real-time event 42
+GDB_SIGNAL_REALTIME_43
+SIG43
+Real-time event 43
+GDB_SIGNAL_REALTIME_44
+SIG44
+Real-time event 44
+GDB_SIGNAL_REALTIME_45
+SIG45
+Real-time event 45
+GDB_SIGNAL_REALTIME_46
+SIG46
+Real-time event 46
+GDB_SIGNAL_REALTIME_47
+SIG47
+Real-time event 47
+GDB_SIGNAL_REALTIME_48
+SIG48
+Real-time event 48
+GDB_SIGNAL_REALTIME_49
+SIG49
+Real-time event 49
+GDB_SIGNAL_REALTIME_50
+SIG50
+Real-time event 50
+GDB_SIGNAL_REALTIME_51
+SIG51
+Real-time event 51
+GDB_SIGNAL_REALTIME_52
+SIG52
+Real-time event 52
+GDB_SIGNAL_REALTIME_53
+SIG53
+Real-time event 53
+GDB_SIGNAL_REALTIME_54
+SIG54
+Real-time event 54
+GDB_SIGNAL_REALTIME_55
+SIG55
+Real-time event 55
+GDB_SIGNAL_REALTIME_56
+SIG56
+Real-time event 56
+GDB_SIGNAL_REALTIME_57
+SIG57
+Real-time event 57
+GDB_SIGNAL_REALTIME_58
+SIG58
+Real-time event 58
+GDB_SIGNAL_REALTIME_59
+SIG59
+Real-time event 59
+GDB_SIGNAL_REALTIME_60
+SIG60
+Real-time event 60
+GDB_SIGNAL_REALTIME_61
+SIG61
+Real-time event 61
+GDB_SIGNAL_REALTIME_62
+SIG62
+Real-time event 62
+GDB_SIGNAL_REALTIME_63
+SIG63
+Real-time event 63
+GDB_SIGNAL_CANCEL
+SIGCANCEL
+LWP internal signal
+GDB_SIGNAL_REALTIME_32
+SIG32
+Real-time event 32
+GDB_SIGNAL_REALTIME_64
+SIG64
+Real-time event 64
+GDB_SIGNAL_REALTIME_65
+SIG65
+Real-time event 65
+GDB_SIGNAL_REALTIME_66
+SIG66
+Real-time event 66
+GDB_SIGNAL_REALTIME_67
+SIG67
+Real-time event 67
+GDB_SIGNAL_REALTIME_68
+SIG68
+Real-time event 68
+GDB_SIGNAL_REALTIME_69
+SIG69
+Real-time event 69
+GDB_SIGNAL_REALTIME_70
+SIG70
+Real-time event 70
+GDB_SIGNAL_REALTIME_71
+SIG71
+Real-time event 71
+GDB_SIGNAL_REALTIME_72
+SIG72
+Real-time event 72
+GDB_SIGNAL_REALTIME_73
+Do nine men interpret Nine men I nod
+SIG73
+Real-time event 73
+GDB_SIGNAL_REALTIME_74
+SIG74
+Real-time event 74
+GDB_SIGNAL_REALTIME_75
+SIG75
+Real-time event 75
+GDB_SIGNAL_REALTIME_76
+SIG76
+Real-time event 76
+GDB_SIGNAL_REALTIME_77
+SIG77
+Real-time event 77
+GDB_SIGNAL_REALTIME_78
+SIG78
+Real-time event 78
+GDB_SIGNAL_REALTIME_79
+SIG79
+Real-time event 79
+GDB_SIGNAL_REALTIME_80
+SIG80
+Real-time event 80
+GDB_SIGNAL_REALTIME_81
+SIG81
+Real-time event 81
+GDB_SIGNAL_REALTIME_82
+SIG82
+Real-time event 82
+GDB_SIGNAL_REALTIME_83
+SIG83
+Real-time event 83
+GDB_SIGNAL_REALTIME_84
+SIG84
+Real-time event 84
+GDB_SIGNAL_REALTIME_85
+SIG85
+Real-time event 85
+GDB_SIGNAL_REALTIME_86
+SIG86
+Real-time event 86
+GDB_SIGNAL_REALTIME_87
+SIG87
+Real-time event 87
+GDB_SIGNAL_REALTIME_88
+SIG88
+Real-time event 88
+GDB_SIGNAL_REALTIME_89
+SIG89
+Real-time event 89
+GDB_SIGNAL_REALTIME_90
+SIG90
+Real-time event 90
+GDB_SIGNAL_REALTIME_91
+SIG91
+Real-time event 91
+GDB_SIGNAL_REALTIME_92
+SIG92
+Real-time event 92
+GDB_SIGNAL_REALTIME_93
+SIG93
+Real-time event 93
+GDB_SIGNAL_REALTIME_94
+SIG94
+Real-time event 94
+GDB_SIGNAL_REALTIME_95
+SIG95
+Real-time event 95
+GDB_SIGNAL_REALTIME_96
+SIG96
+Real-time event 96
+GDB_SIGNAL_REALTIME_97
+SIG97
+Real-time event 97
+GDB_SIGNAL_REALTIME_98
+SIG98
+Real-time event 98
+GDB_SIGNAL_REALTIME_99
+SIG99
+Real-time event 99
+GDB_SIGNAL_REALTIME_100
+SIG100
+Real-time event 100
+GDB_SIGNAL_REALTIME_101
+SIG101
+Real-time event 101
+GDB_SIGNAL_REALTIME_102
+SIG102
+Real-time event 102
+GDB_SIGNAL_REALTIME_103
+SIG103
+Real-time event 103
+GDB_SIGNAL_REALTIME_104
+SIG104
+Real-time event 104
+GDB_SIGNAL_REALTIME_105
+SIG105
+Real-time event 105
+GDB_SIGNAL_REALTIME_106
+SIG106
+Real-time event 106
+GDB_SIGNAL_REALTIME_107
+SIG107
+Real-time event 107
+GDB_SIGNAL_REALTIME_108
+SIG108
+Real-time event 108
+GDB_SIGNAL_REALTIME_109
+SIG109
+Real-time event 109
+GDB_SIGNAL_REALTIME_110
+SIG110
+Real-time event 110
+GDB_SIGNAL_REALTIME_111
+SIG111
+Real-time event 111
+GDB_SIGNAL_REALTIME_112
+SIG112
+Real-time event 112
+GDB_SIGNAL_REALTIME_113
+SIG113
+Real-time event 113
+GDB_SIGNAL_REALTIME_114
+SIG114
+Real-time event 114
+GDB_SIGNAL_REALTIME_115
+SIG115
+Real-time event 115
+GDB_SIGNAL_REALTIME_116
+SIG116
+Real-time event 116
+GDB_SIGNAL_REALTIME_117
+SIG117
+Real-time event 117
+GDB_SIGNAL_REALTIME_118
+SIG118
+Real-time event 118
+GDB_SIGNAL_REALTIME_119
+SIG119
+Real-time event 119
+GDB_SIGNAL_REALTIME_120
+SIG120
+Real-time event 120
+GDB_SIGNAL_REALTIME_121
+SIG121
+Real-time event 121
+GDB_SIGNAL_REALTIME_122
+SIG122
+Real-time event 122
+GDB_SIGNAL_REALTIME_123
+SIG123
+Real-time event 123
+GDB_SIGNAL_REALTIME_124
+SIG124
+Real-time event 124
+GDB_SIGNAL_REALTIME_125
+SIG125
+Real-time event 125
+GDB_SIGNAL_REALTIME_126
+SIG126
+Real-time event 126
+GDB_SIGNAL_REALTIME_127
+SIG127
+Real-time event 127
+GDB_SIGNAL_INFO
+SIGINFO
+Information request
+GDB_SIGNAL_UNKNOWN
+GDB_SIGNAL_DEFAULT
+GDB_EXC_BAD_ACCESS
+Could not access memory
+GDB_EXC_BAD_INSTRUCTION
+Illegal instruction/operand
+GDB_EXC_ARITHMETIC
+GDB_EXC_EMULATION
+Emulation instruction
+GDB_EXC_SOFTWARE
+Software generated exception
+GDB_EXC_BREAKPOINT
+Breakpoint
+LinuxThreads restart signal
+LinuxThreads cancel signal
+LinuxThreads debug signal
+GDB_SIGNAL_LAST
+Child exited with status %d
+<all threads>
+<null thread>
+Thread %d.0x%lx
+LWP %d.%ld
+Process %d
+Child terminated with signal = 0x%x (%s)
+the_target->sw_breakpoint_from_kind != NULL
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/target.c
+default_breakpoint_kind_from_pc
+status->kind = 
+%sexited, status = %d
+%sstopped, signal = %s
+%ssignalled, signal = %s
+%sloaded
+%sforked
+%svforked
+%sexecd
+%svfork-done
+%sentered syscall
+%sexited syscall
+%sspurious
+%signore
+%sno-history
+%sno-resumed
+%sthread created
+%sthread exited, status = %d
+%sunknown???
+gdbserver: ran out of memory while trying to allocate %lu bytes
+%s:%d: A problem internal to GDBserver has been detected.
+unknown error
+gdbserver: 
+%ld:%06ld 
+>>>> entering %s
+<<<< exiting %s
+x86_64-linux-gnu
+x86_64-linux-gnu
+7.11.1
+alloc - num < (unsigned)(reserve < 0 ? -reserve : reserve)
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/../common/vec.c
+calculate_allocation
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/../common/gdb_vecs.c
+VEC_char_ptr_quick_push
+Failed to uninsert raw breakpoint at 0x%s while deleting it.
+Could not find raw breakpoint in list.
+Could not find breakpoint in list.
+Inconsistent breakpoint kind?  Was %d, now %d.
+Failed to insert breakpoint at 0x%s (%d).
+Breakpoint already inserted at reinsert time.
+Failed to reinsert breakpoint at 0x%s (%d).
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/mem-break.c
+bp->raw_type == raw_bkpt_type_sw
+'0' <= z_type && z_type <= '4'
+at 0x%s, type Z%c, bp command_list is 0x%s
+Breakpoint at %s is marked insert-disabled.
+Failed to uninsert raw breakpoint at 0x%s.
+Failed to read shadow memory of breakpoint at 0x%s (%s).
+Failed to insert breakpoint at 0x%s (%s).
+Failed to uninsert raw breakpoint at 0x%s (%s) while deleting it.
+Failed to uninsert fast tracepoint jump at 0x%s (%s) while deleting it.
+Could not find fast tracepoint jump in list.
+Failed to read shadow memory of fast tracepoint at 0x%s (%s).
+Failed to insert fast tracepoint jump at 0x%s (%s).
+Could not find fast tracepoint jump at 0x%s in list (uninserting).
+Failed to uninsert fast tracepoint jump at 0x%s (%s).
+Could not find fast tracepoint jump at 0x%s in list (reinserting).
+Jump already inserted at reinsert time.
+Failed to reinsert fast tracepoint jump at 0x%s (%s).
+Condition evaluation failed. Assuming unconditional.
+Command evaluation failed. Disabling.
+Could not find breakpoint at 0x%s in list (uninserting).
+Could not find raw breakpoint at 0x%s in list (reinserting).
+fast_tracepoint_jump_shadow (jp) >= buf + mem_len || buf >= fast_tracepoint_jump_shadow (jp) + (jp)->length
+bp->old_data >= buf + mem_len || buf >= &bp->old_data[sizeof (bp->old_data)]
+fast_tracepoint_jump_shadow (jp) >= myaddr + mem_len || myaddr >= fast_tracepoint_jump_shadow (jp) + (jp)->length
+fast_tracepoint_jump_insn (jp) >= buf + mem_len || buf >= fast_tracepoint_jump_insn (jp) + (jp)->length
+bp->old_data >= myaddr + mem_len || myaddr >= &bp->old_data[sizeof (bp->old_data)]
+bp->inserted
+bad raw breakpoint type %d
+unhandled Z packet type.
+Hit a removed breakpoint?
+check_mem_write
+check_mem_read
+validate_inserted_breakpoint
+Z_packet_to_bkpt_type
+Z_packet_to_raw_bkpt_type
+F-1,%x
+F%x;
+vFile:open:
+vFile:pread:
+vFile:pwrite:
+vFile:fstat:
+vFile:close:
+vFile:unlink:
+vFile:readlink:
+vFile:setfs:
+Exception condition detected on fd %s
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/event-loop.c
+select
+queue_gdb_event_p_free
+queue_gdb_event_p_length
+queue_gdb_event_p_iterate
+queue_gdb_event_p_remove_elem
+queue_gdb_event_p_is_empty
+queue_gdb_event_p_peek
+queue_gdb_event_p_deque
+queue_gdb_event_p_enque
+Want to allocate %ld+%ld bytes in trace buffer
+Trace buffer [%d] start=%d free=%d endfree=%d wrap=%d hi=%d
+Upper part too small, setting wraparound
+Not enough space in the trace buffer
+Need more space in the trace buffer
+Discarding past the wraparound
+Discarded a traceframe
+Trace buffer [%d], start=%d free=%d endfree=%d wrap=%d hi=%d
+claim_jump_space reserves %s bytes at %s
+Tracepoint %d at %s %s eval reports error %d
+run_inferior_command: running: %s
+Tracepoint %d at 0x%s was never installed, nothing to clear
+Error reading ust_loaded in lib
+Tracepoint %d at 0x%s is already %s
+Failed to temporarily stop inferior threads
+Cannot write enabled flag into inferior process memory
+Tracepoint %d at 0x%s not found
+tframe->tpnum == tpoint->number
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/tracepoint.c
+tracepoint_handler: tracepoint at 0x%s hit
+couldn't get target heap head pointer
+error extracting jump_pad_buffer
+tpoint->type == fast_tracepoint || tpoint->type == static_tracepoint
+Starting condition compilation for tracepoint %d
+Condition compilation for tracepoint %d complete
+Condition compilation for tracepoint %d failed, error code %d
+Requested a fast tracepoint on an instruction that is of less than the minimum length.
+traceframe %d has unknown block type 0x%x
+traceframe %d has no register data
+<memory start="0x%s" length="0x%s"/>
+Unhandled trace block type (%d) '%c ' while building trace frame info.
+agent: read from cmd_buf 0x%x 0x%x
+No trace state variable %d, skipping value get
+get_trace_state_variable_value(%d) ==> %s
+No trace state variable %d, skipping value set
+error extracting trampoline_buffer
+error extracting trampoline_buffer_end
+claim_trampoline_space failed to reserve %s bytes
+claim_trampoline_space reserves %s bytes at %s
+Tracing is already off, ignoring
+Error clearing tracing variable in lib
+Stopping the trace because tracepoint %d was hit %lu times
+Stopping the trace because the trace buffer is full
+Stopping the trace because of an expression eval error
+Stopping the trace because GDB disconnected
+Stopping the trace because of a tstop command
+ipa_traceframe_count (racy area): %d (w=%d, r=%d)
+ipa_traceframe_count (blocked area): %d (w=%d, r=%d)
+note that ipa_traceframe_count's parts changed
+Lib: Trace buffer [%d] start=%d free=%d endfree=%d wrap=%d hi=%d
+Uploading: couldn't read traceframe at %s
+Uploading: No (more) fast traceframes, but ipa_traceframe_count == %u??
+Uploading: trace buffer is full
+Uploading: Couldn't read traceframe data at %s
+Uploading: traceframe didn't fit
+Lib: Discarding past the wraparound
+Lib: buffer is fully empty.  Trace buffer [%d] start=%d free=%d endfree=%d
+Uploaded a traceframe
+Lib: Trace buffer [%d] start=%d free=%d endfree=%d wrap=%d hi=%d
+Done uploading traceframes [%d]
+Returning trace status as %d, stop reason %s
+T%d;%s:%x;tframes:%x;tcreated:%x;tfree:%x;tsize:%s;circular:%d;disconn:%d;starttime:%s;stoptime:%s;username:%s;notes:%s:
+Tracepoint error: tracepoint %d at 0x%s already exists
+Unknown optional tracepoint field
+Defined %stracepoint %d at 0x%s, enabled %d step %lu pass %lu
+Want to collect %s bytes at 0x%s (basereg %d)
+Want to collect static trace data
+Unexpected step action, ignoring
+unknown trace action '%c', ignoring...
+Tracepoint error: tracepoint %d at 0x%s not found
+Requested a %s tracepoint, but fast tracepoints aren't supported.
+Requested a static tracepoint, but static tracepoints are not supported.
+E.GDBserver was built without static tracepoints support
+Added readonly region from 0x%s to 0x%s
+Error setting tracing variable in lib
+Error clearing stopping_tracepoint variable in lib
+Error clearing trace_buffer_is_full variable in lib
+Error setting stop_tracing breakpoint
+Error setting flush_trace_buffer breakpoint
+Want to find next traceframe at pc=0x%s
+Want to find next traceframe in the range 0x%s to 0x%s
+Want to find next traceframe outside the range 0x%s to 0x%s
+Want to find next traceframe for tracepoint %d
+Want to stop looking at traceframes
+Returning first tracepoint definition piece
+Returning subsequent tracepoint definition piece
+Returning first trace state variable definition
+Returning additional trace state variable definition
+traceframe %d has no data for variable %d
+Want to get trace buffer, %d bytes at offset 0x%s
+lib: trace_buffer_is_full: %d, stopping_tracepoint: %s, ipa_expr_eval_result: %d, error_tracepoint: %s, 
+lib stopped due to full buffer.
+lib stopped at flush_trace_buffer
+Trace buffer block allocation failed, skipping
+Storing stop pc (0x%s) in regblock
+warning: collecting static trace data, but static tracepoints are not supported
+unknown trace action '%c', ignoring
+Thread %s finished a single-step for tracepoint %d at 0x%s
+NO TRACEPOINT %d at 0x%s FOR THREAD %s!
+Making new step traceframe for tracepoint %d at 0x%s, step %d of %lu, hit %lu
+Tracepoint %d at 0x%s about to do step action '%s'
+Thread %s done stepping for tracepoint %d at 0x%s
+Thread %s at address of tracepoint %d at 0x%s
+Tracepoint %d at 0x%s condition evals to %s
+Making new traceframe for tracepoint %d at 0x%s, hit %lu
+Tracepoint %d at 0x%s about to do action '%s'
+traceframe %d has %d bytes at %s
+traceframe %d has no memory data for the desired region
+traceframe %d has no static trace data
+error extracting `gdb_jump_pad_buffer'
+error extracting `gdb_jump_pad_buffer_end'
+error extracting `gdb_trampoline_buffer'
+error extracting `gdb_trampoline_buffer_end'
+in jump pad of tpoint (%d, %s); jump_pad(%s, %s); adj_insn(%s, %s)
+in trampoline of tpoint (%d, %s); trampoline(%s, %s)
+fast_tracepoint_collecting: failed reading 'collecting' in the inferior
+fast_tracepoint_collecting: not collecting (and nobody is).
+fast_tracepoint_collecting: not collecting (another thread is)
+fast_tracepoint_collecting, returning continue-until-break at %s
+fast_tracepoint_collecting, returning need-single-step (%s-%s)
+in jump pad, but no matching tpoint?
+in trampoline, but no matching tpoint?
+fast_tracepoint_collecting: collecting, but tpoint %s not found?
+No trace state variable %d, skipping name set
+No trace state variable %d, skipping getter set
+gdb_agent_gdb_jump_pad_buffer_end
+gdb_agent_gdb_trampoline_buffer
+gdb_agent_gdb_trampoline_buffer_end
+gdb_agent_gdb_trampoline_buffer_error
+gdb_agent_about_to_request_buffer_space
+gdb_agent_trace_buffer_is_full
+gdb_agent_trace_buffer_ctrl_curr
+gdb_agent_traceframe_read_count
+gdb_agent_traceframe_write_count
+gdb_agent_trace_state_variables
+gdb_agent_get_trace_state_variable_value
+gdb_agent_set_trace_state_variable_value
+No traceframes to discard
+Allocated %d bytes
+unprobe_marker_at:%s
+In-process agent not loaded
+Disabling
+Enabling
+%s tracepoint %d at 0x%s
+%x:%s:%x:%s
+T%x:%s:%c:%lx:%lx
+:F%x
+:X%x,%s
+lib hit flush_trace_buffer
+lib hit stop_tracing
+from->handle
+traceframe %d has no data
+Z%x:%s:%s:%x:%x:%s
+<tvar id="%d"/>
+gdb_agent_gdb_tp_heap_buffer
+error extracting errbuf
+Stopping the trace
+t???
+tpasscount
+tfull
+tdisconnected
+tstop
+Lib: Committed %08x -> %08x
+terror:
+fast 
+static 
+static
+fast
+circular
+linear
+QTinit
+Initializing the trace
+Looking at var %d
+Deleting var %d
+QTDP:
+Also has actions
+Want to collect registers
+Want to evaluate expression
+error reading `tp_prev->next'
+Unknown tracepoint type
+QTDPsrc:
+QTEnable:
+QTDisable:
+QTDV:
+QTro:
+Want to mark readonly regions
+QTStart
+Starting the trace
+tsv->getter == NULL
+QTStop
+QTDisconnected:
+QTFrame:
+range:
+outside:
+tdp:
+Want to look at traceframe %d
+F%xT%x
+QTBuffer:circular:
+Trace buffer is now %s
+QTBuffer:size:
+Trace buffer is now %s bytes
+QTNotes:
+user:
+User is '%s'
+notes:
+Notes is '%s'
+tstop:
+tstop note is '%s'
+qTStatus
+qTP:
+qTfP
+qTsP
+%c%x:%s:%s
+qTfV
+qTsV
+qTV:
+traceframe_read_tsv
+no current traceframe
+traceframe %d not found
+traceframe %d has variable %d
+tnotrun
+qTBuffer:
+qTfSTM
+qTsSTM
+qTSTMat:
+qTMinFTPILen
+V%lu:%lu
+lib stopped at stop_tracing
+lib stopped due to tpoint
+lib stopped due to error
+%d bytes recorded
+action expression
+Variable %d recorded
+traceframe_read_mem
+traceframe_read_sdata
+traceframe_read_info
+<traceframe-info>
+</traceframe-info>
+fast_tracepoint_collecting
+trace_timestamp
+terror:in the attic
+terror:empty expression
+terror:empty stack
+terror:stack overflow
+terror:stack underflow
+terror:unhandled opcode
+terror:unrecognized opcode
+terror:divide by zero
+gdb_agent_gdb_jump_pad_buffer
+gdb_agent_collecting
+gdb_agent_gdb_collect
+gdb_agent_stop_tracing
+gdb_agent_flush_trace_buffer
+gdb_agent_stopping_tracepoint
+gdb_agent_expr_eval_result
+gdb_agent_error_tracepoint
+gdb_agent_tracepoints
+gdb_agent_tracing
+gdb_agent_trace_buffer_ctrl
+gdb_agent_trace_buffer_lo
+gdb_agent_trace_buffer_hi
+gdb_agent_traceframes_created
+gdb_agent_get_raw_reg
+gdb_agent_ust_loaded
+get_context_regcache
+download_trace_state_variables
+download_tracepoint_1
+clone_fast_tracepoint
+add_traceframe_block
+vasprintf call failed
+ret < size
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/../common/common-utils.c
+xsnprintf
+Unrecognized escape character \%c in format string.
+`*' not supported for precision or width in printf
+Format specifier `n' not supported in printf
+Incomplete format specifier at end of format string
+Unrecognized format specifier '%c' in printf
+Inappropriate modifiers to format specifier '%c' in printf
+0-+ #
+0123456789
+/proc/self/fd
+fd not found in open_fds
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/../common/filestuff.c
+unmark_fd_no_cloexec
+VEC_int_quick_push
+%s: acking %d
+pending events: %s %d
+2 * tdesc->registers_size + 32 <= PBUFSIZ
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/tdesc.c
+init_target_desc
+%s%0*lu
+%s%0*lu%09lu
+%s%0*lu%09lu%09lu
+%08lx%08lx
+%04x
+%lx%08lx
+0%0*lo
+0%0*lo%010lo
+0%0*lo%010lo%010lo
+hex_string_custom: insufficient space to store result
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/../common/print-utils.c
+failed internal consistency check
+Reply contains invalid hex digit %d
+Received too much data from the target.
+Unmatched escape character in target response.
+0123456789abcdef
+old_chain != NULL
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/../common/cleanups.c
+restore_my_cleanups has found a stale cleanup
+make_my_cleanup2
+bad state
+bad switch
+depth > 0
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/../common/common-exceptions.c
+throw_it
+objfile == NULL
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/symbol.c
+find_minimal_symbol_address
+No or unknown format
+Branch Trace Store
+Intel Processor Trace
+Unknown branch trace format
+Unkown branch trace format.
+index
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/../common/btrace-common.c
+VEC_btrace_block_s_quick_push
+VEC_btrace_block_s_index
+Register %d is not available
+i386-linux.xml
+i386-avx-linux.xml
+i386-avx512-linux.xml
+i386-mmx-linux.xml
+32bit-linux.xml
+i386-mpx-linux.xml
+32bit-core.xml
+32bit-sse.xml
+32bit-avx.xml
+32bit-avx512.xml
+32bit-mpx.xml
+amd64-linux.xml
+amd64-avx-linux.xml
+amd64-avx512-linux.xml
+64bit-linux.xml
+amd64-mpx-linux.xml
+x32-linux.xml
+x32-avx-linux.xml
+x32-avx512-linux.xml
+64bit-core.xml
+64bit-sse.xml
+64bit-avx.xml
+64bit-avx512.xml
+x32-core.xml
+64bit-mpx.xml
+<?xml version="1.0"?>
+<!-- Copyright (C) 2013-2016 Free Software Foundation, Inc.
+     Copying and distribution of this file, with or without modification,
+     are permitted in any medium without royalty provided the copyright
+     notice and this notice are preserved.  -->
+<!DOCTYPE feature SYSTEM "gdb-target.dtd">
+<feature name="org.gnu.gdb.i386.mpx">
+  <struct id="br128">
+    <field name="lbound" type="uint64"/>
+    <field name="ubound_raw" type="uint64"/>
+  </struct>
+  <struct id="_bndstatus" size="8">
+    <field name="bde" start="2" end="63"/>
+    <field name="error" start="0" end="1"/>
+  </struct>
+  <union id="status">
+    <field name="raw" type="data_ptr"/>
+    <field name="status" type="_bndstatus"/>
+  </union>
+  <struct id="_bndcfgu" size="8">
+    <field name="base" start="12" end="63"/>
+    <field name="reserved" start="2" end="11"/>
+    <field name="preserved" start="1" end="1"/>
+    <field name="enabled" start="0" end="0"/>
+  </struct>
+   <union id="cfgu">
+    <field name="raw" type="data_ptr"/>
+    <field name="config" type="_bndcfgu"/>
+  </union>
+  <reg name="bnd0raw" bitsize="128" type="br128"/>
+  <reg name="bnd1raw" bitsize="128" type="br128"/>
+  <reg name="bnd2raw" bitsize="128" type="br128"/>
+  <reg name="bnd3raw" bitsize="128" type="br128"/>
+  <reg name="bndcfgu"    bitsize="64" type="cfgu"/>
+  <reg name="bndstatus"  bitsize="64" type="status"/>
+</feature>
+<?xml version="1.0"?>
+<!-- Copyright (C) 2012-2016 Free Software Foundation, Inc.
+     Copying and distribution of this file, with or without modification,
+     are permitted in any medium without royalty provided the copyright
+     notice and this notice are preserved.  -->
+<!DOCTYPE feature SYSTEM "gdb-target.dtd">
+<feature name="org.gnu.gdb.i386.core">
+  <flags id="i386_eflags" size="4">
+    <field name="CF" start="0" end="0"/>
+    <field name="" start="1" end="1"/>
+    <field name="PF" start="2" end="2"/>
+    <field name="AF" start="4" end="4"/>
+    <field name="ZF" start="6" end="6"/>
+    <field name="SF" start="7" end="7"/>
+    <field name="TF" start="8" end="8"/>
+    <field name="IF" start="9" end="9"/>
+    <field name="DF" start="10" end="10"/>
+    <field name="OF" start="11" end="11"/>
+    <field name="NT" start="14" end="14"/>
+    <field name="RF" start="16" end="16"/>
+    <field name="VM" start="17" end="17"/>
+    <field name="AC" start="18" end="18"/>
+    <field name="VIF" start="19" end="19"/>
+    <field name="VIP" start="20" end="20"/>
+    <field name="ID" start="21" end="21"/>
+  </flags>
+  <reg name="rax" bitsize="64" type="int64"/>
+  <reg name="rbx" bitsize="64" type="int64"/>
+  <reg name="rcx" bitsize="64" type="int64"/>
+  <reg name="rdx" bitsize="64" type="int64"/>
+  <reg name="rsi" bitsize="64" type="int64"/>
+  <reg name="rdi" bitsize="64" type="int64"/>
+  <reg name="rbp" bitsize="64" type="int64"/>
+  <reg name="rsp" bitsize="64" type="int64"/>
+  <reg name="r8" bitsize="64" type="int64"/>
+  <reg name="r9" bitsize="64" type="int64"/>
+  <reg name="r10" bitsize="64" type="int64"/>
+  <reg name="r11" bitsize="64" type="int64"/>
+  <reg name="r12" bitsize="64" type="int64"/>
+  <reg name="r13" bitsize="64" type="int64"/>
+  <reg name="r14" bitsize="64" type="int64"/>
+  <reg name="r15" bitsize="64" type="int64"/>
+  <reg name="rip" bitsize="64" type="uint64"/>
+  <reg name="eflags" bitsize="32" type="i386_eflags"/>
+  <reg name="cs" bitsize="32" type="int32"/>
+  <reg name="ss" bitsize="32" type="int32"/>
+  <reg name="ds" bitsize="32" type="int32"/>
+  <reg name="es" bitsize="32" type="int32"/>
+  <reg name="fs" bitsize="32" type="int32"/>
+  <reg name="gs" bitsize="32" type="int32"/>
+  <reg name="st0" bitsize="80" type="i387_ext"/>
+  <reg name="st1" bitsize="80" type="i387_ext"/>
+  <reg name="st2" bitsize="80" type="i387_ext"/>
+  <reg name="st3" bitsize="80" type="i387_ext"/>
+  <reg name="st4" bitsize="80" type="i387_ext"/>
+  <reg name="st5" bitsize="80" type="i387_ext"/>
+  <reg name="st6" bitsize="80" type="i387_ext"/>
+  <reg name="st7" bitsize="80" type="i387_ext"/>
+  <reg name="fctrl" bitsize="32" type="int" group="float"/>
+  <reg name="fstat" bitsize="32" type="int" group="float"/>
+  <reg name="ftag" bitsize="32" type="int" group="float"/>
+  <reg name="fiseg" bitsize="32" type="int" group="float"/>
+  <reg name="fioff" bitsize="32" type="int" group="float"/>
+  <reg name="foseg" bitsize="32" type="int" group="float"/>
+  <reg name="fooff" bitsize="32" type="int" group="float"/>
+  <reg name="fop" bitsize="32" type="int" group="float"/>
+</feature>
+<?xml version="1.0"?>
+<!-- Copyright (C) 2014-2016 Free Software Foundation, Inc.
+     Copying and distribution of this file, with or without modification,
+     are permitted in any medium without royalty provided the copyright
+     notice and this notice are preserved.  -->
+<!DOCTYPE feature SYSTEM "gdb-target.dtd">
+<feature name="org.gnu.gdb.i386.avx512">
+<vector id="v4f" type="ieee_single" count="4"/>
+  <vector id="v2d" type="ieee_double" count="2"/>
+  <vector id="v16i8" type="int8" count="16"/>
+  <vector id="v8i16" type="int16" count="8"/>
+  <vector id="v4i32" type="int32" count="4"/>
+  <vector id="v2i64" type="int64" count="2"/>
+  <union id="vec128">
+    <field name="v4_float" type="v4f"/>
+    <field name="v2_double" type="v2d"/>
+    <field name="v16_int8" type="v16i8"/>
+    <field name="v8_int16" type="v8i16"/>
+    <field name="v4_int32" type="v4i32"/>
+    <field name="v2_int64" type="v2i64"/>
+    <field name="uint128" type="uint128"/>
+  </union>
+  <reg name="xmm16" bitsize="128" type="vec128"/>
+  <reg name="xmm17" bitsize="128" type="vec128"/>
+  <reg name="xmm18" bitsize="128" type="vec128"/>
+  <reg name="xmm19" bitsize="128" type="vec128"/>
+  <reg name="xmm20" bitsize="128" type="vec128"/>
+  <reg name="xmm21" bitsize="128" type="vec128"/>
+  <reg name="xmm22" bitsize="128" type="vec128"/>
+  <reg name="xmm23" bitsize="128" type="vec128"/>
+  <reg name="xmm24" bitsize="128" type="vec128"/>
+  <reg name="xmm25" bitsize="128" type="vec128"/>
+  <reg name="xmm26" bitsize="128" type="vec128"/>
+  <reg name="xmm27" bitsize="128" type="vec128"/>
+  <reg name="xmm28" bitsize="128" type="vec128"/>
+  <reg name="xmm29" bitsize="128" type="vec128"/>
+  <reg name="xmm30" bitsize="128" type="vec128"/>
+  <reg name="xmm31" bitsize="128" type="vec128"/>
+  <reg name="ymm16h" bitsize="128" type="uint128"/>
+  <reg name="ymm17h" bitsize="128" type="uint128"/>
+  <reg name="ymm18h" bitsize="128" type="uint128"/>
+  <reg name="ymm19h" bitsize="128" type="uint128"/>
+  <reg name="ymm20h" bitsize="128" type="uint128"/>
+  <reg name="ymm21h" bitsize="128" type="uint128"/>
+  <reg name="ymm22h" bitsize="128" type="uint128"/>
+  <reg name="ymm23h" bitsize="128" type="uint128"/>
+  <reg name="ymm24h" bitsize="128" type="uint128"/>
+  <reg name="ymm25h" bitsize="128" type="uint128"/>
+  <reg name="ymm26h" bitsize="128" type="uint128"/>
+  <reg name="ymm27h" bitsize="128" type="uint128"/>
+  <reg name="ymm28h" bitsize="128" type="uint128"/>
+  <reg name="ymm29h" bitsize="128" type="uint128"/>
+  <reg name="ymm30h" bitsize="128" type="uint128"/>
+  <reg name="ymm31h" bitsize="128" type="uint128"/>
+  <vector id="v2ui128" type="uint128" count="2"/>
+  <reg name="k0" bitsize="64" type="uint64"/>
+  <reg name="k1" bitsize="64" type="uint64"/>
+  <reg name="k2" bitsize="64" type="uint64"/>
+  <reg name="k3" bitsize="64" type="uint64"/>
+  <reg name="k4" bitsize="64" type="uint64"/>
+  <reg name="k5" bitsize="64" type="uint64"/>
+  <reg name="k6" bitsize="64" type="uint64"/>
+  <reg name="k7" bitsize="64" type="uint64"/>
+  <reg name="zmm0h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm1h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm2h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm3h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm4h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm5h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm6h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm7h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm8h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm9h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm10h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm11h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm12h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm13h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm14h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm15h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm16h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm17h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm18h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm19h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm20h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm21h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm22h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm23h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm24h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm25h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm26h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm27h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm28h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm29h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm30h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm31h" bitsize="256" type="v2ui128"/>
+</feature>
+<?xml version="1.0"?>
+<!-- Copyright (C) 2010-2016 Free Software Foundation, Inc.
+     Copying and distribution of this file, with or without modification,
+     are permitted in any medium without royalty provided the copyright
+     notice and this notice are preserved.  -->
+<!DOCTYPE feature SYSTEM "gdb-target.dtd">
+<feature name="org.gnu.gdb.i386.avx">
+  <reg name="ymm0h" bitsize="128" type="uint128"/>
+  <reg name="ymm1h" bitsize="128" type="uint128"/>
+  <reg name="ymm2h" bitsize="128" type="uint128"/>
+  <reg name="ymm3h" bitsize="128" type="uint128"/>
+  <reg name="ymm4h" bitsize="128" type="uint128"/>
+  <reg name="ymm5h" bitsize="128" type="uint128"/>
+  <reg name="ymm6h" bitsize="128" type="uint128"/>
+  <reg name="ymm7h" bitsize="128" type="uint128"/>
+  <reg name="ymm8h" bitsize="128" type="uint128"/>
+  <reg name="ymm9h" bitsize="128" type="uint128"/>
+  <reg name="ymm10h" bitsize="128" type="uint128"/>
+  <reg name="ymm11h" bitsize="128" type="uint128"/>
+  <reg name="ymm12h" bitsize="128" type="uint128"/>
+  <reg name="ymm13h" bitsize="128" type="uint128"/>
+  <reg name="ymm14h" bitsize="128" type="uint128"/>
+  <reg name="ymm15h" bitsize="128" type="uint128"/>
+</feature>
+<?xml version="1.0"?>
+<!-- Copyright (C) 2010-2016 Free Software Foundation, Inc.
+     Copying and distribution of this file, with or without modification,
+     are permitted in any medium without royalty provided the copyright
+     notice and this notice are preserved.  -->
+<!DOCTYPE feature SYSTEM "gdb-target.dtd">
+<feature name="org.gnu.gdb.i386.sse">
+  <vector id="v4f" type="ieee_single" count="4"/>
+  <vector id="v2d" type="ieee_double" count="2"/>
+  <vector id="v16i8" type="int8" count="16"/>
+  <vector id="v8i16" type="int16" count="8"/>
+  <vector id="v4i32" type="int32" count="4"/>
+  <vector id="v2i64" type="int64" count="2"/>
+  <union id="vec128">
+    <field name="v4_float" type="v4f"/>
+    <field name="v2_double" type="v2d"/>
+    <field name="v16_int8" type="v16i8"/>
+    <field name="v8_int16" type="v8i16"/>
+    <field name="v4_int32" type="v4i32"/>
+    <field name="v2_int64" type="v2i64"/>
+    <field name="uint128" type="uint128"/>
+  </union>
+  <flags id="i386_mxcsr" size="4">
+    <field name="IE" start="0" end="0"/>
+    <field name="DE" start="1" end="1"/>
+    <field name="ZE" start="2" end="2"/>
+    <field name="OE" start="3" end="3"/>
+    <field name="UE" start="4" end="4"/>
+    <field name="PE" start="5" end="5"/>
+    <field name="DAZ" start="6" end="6"/>
+    <field name="IM" start="7" end="7"/>
+    <field name="DM" start="8" end="8"/>
+    <field name="ZM" start="9" end="9"/>
+    <field name="OM" start="10" end="10"/>
+    <field name="UM" start="11" end="11"/>
+    <field name="PM" start="12" end="12"/>
+    <field name="FZ" start="15" end="15"/>
+  </flags>
+  <reg name="xmm0" bitsize="128" type="vec128" regnum="40"/>
+  <reg name="xmm1" bitsize="128" type="vec128"/>
+  <reg name="xmm2" bitsize="128" type="vec128"/>
+  <reg name="xmm3" bitsize="128" type="vec128"/>
+  <reg name="xmm4" bitsize="128" type="vec128"/>
+  <reg name="xmm5" bitsize="128" type="vec128"/>
+  <reg name="xmm6" bitsize="128" type="vec128"/>
+  <reg name="xmm7" bitsize="128" type="vec128"/>
+  <reg name="xmm8" bitsize="128" type="vec128"/>
+  <reg name="xmm9" bitsize="128" type="vec128"/>
+  <reg name="xmm10" bitsize="128" type="vec128"/>
+  <reg name="xmm11" bitsize="128" type="vec128"/>
+  <reg name="xmm12" bitsize="128" type="vec128"/>
+  <reg name="xmm13" bitsize="128" type="vec128"/>
+  <reg name="xmm14" bitsize="128" type="vec128"/>
+  <reg name="xmm15" bitsize="128" type="vec128"/>
+  <reg name="mxcsr" bitsize="32" type="i386_mxcsr" group="vector"/>
+</feature>
+<?xml version="1.0"?>
+<!-- Copyright (C) 2010-2016 Free Software Foundation, Inc.
+     Copying and distribution of this file, with or without modification,
+     are permitted in any medium without royalty provided the copyright
+     notice and this notice are preserved.  -->
+<!DOCTYPE feature SYSTEM "gdb-target.dtd">
+<feature name="org.gnu.gdb.i386.core">
+  <flags id="i386_eflags" size="4">
+    <field name="CF" start="0" end="0"/>
+    <field name="" start="1" end="1"/>
+    <field name="PF" start="2" end="2"/>
+    <field name="AF" start="4" end="4"/>
+    <field name="ZF" start="6" end="6"/>
+    <field name="SF" start="7" end="7"/>
+    <field name="TF" start="8" end="8"/>
+    <field name="IF" start="9" end="9"/>
+    <field name="DF" start="10" end="10"/>
+    <field name="OF" start="11" end="11"/>
+    <field name="NT" start="14" end="14"/>
+    <field name="RF" start="16" end="16"/>
+    <field name="VM" start="17" end="17"/>
+    <field name="AC" start="18" end="18"/>
+    <field name="VIF" start="19" end="19"/>
+    <field name="VIP" start="20" end="20"/>
+    <field name="ID" start="21" end="21"/>
+  </flags>
+  <reg name="rax" bitsize="64" type="int64"/>
+  <reg name="rbx" bitsize="64" type="int64"/>
+  <reg name="rcx" bitsize="64" type="int64"/>
+  <reg name="rdx" bitsize="64" type="int64"/>
+  <reg name="rsi" bitsize="64" type="int64"/>
+  <reg name="rdi" bitsize="64" type="int64"/>
+  <reg name="rbp" bitsize="64" type="data_ptr"/>
+  <reg name="rsp" bitsize="64" type="data_ptr"/>
+  <reg name="r8" bitsize="64" type="int64"/>
+  <reg name="r9" bitsize="64" type="int64"/>
+  <reg name="r10" bitsize="64" type="int64"/>
+  <reg name="r11" bitsize="64" type="int64"/>
+  <reg name="r12" bitsize="64" type="int64"/>
+  <reg name="r13" bitsize="64" type="int64"/>
+  <reg name="r14" bitsize="64" type="int64"/>
+  <reg name="r15" bitsize="64" type="int64"/>
+  <reg name="rip" bitsize="64" type="code_ptr"/>
+  <reg name="eflags" bitsize="32" type="i386_eflags"/>
+  <reg name="cs" bitsize="32" type="int32"/>
+  <reg name="ss" bitsize="32" type="int32"/>
+  <reg name="ds" bitsize="32" type="int32"/>
+  <reg name="es" bitsize="32" type="int32"/>
+  <reg name="fs" bitsize="32" type="int32"/>
+  <reg name="gs" bitsize="32" type="int32"/>
+  <reg name="st0" bitsize="80" type="i387_ext"/>
+  <reg name="st1" bitsize="80" type="i387_ext"/>
+  <reg name="st2" bitsize="80" type="i387_ext"/>
+  <reg name="st3" bitsize="80" type="i387_ext"/>
+  <reg name="st4" bitsize="80" type="i387_ext"/>
+  <reg name="st5" bitsize="80" type="i387_ext"/>
+  <reg name="st6" bitsize="80" type="i387_ext"/>
+  <reg name="st7" bitsize="80" type="i387_ext"/>
+  <reg name="fctrl" bitsize="32" type="int" group="float"/>
+  <reg name="fstat" bitsize="32" type="int" group="float"/>
+  <reg name="ftag" bitsize="32" type="int" group="float"/>
+  <reg name="fiseg" bitsize="32" type="int" group="float"/>
+  <reg name="fioff" bitsize="32" type="int" group="float"/>
+  <reg name="foseg" bitsize="32" type="int" group="float"/>
+  <reg name="fooff" bitsize="32" type="int" group="float"/>
+  <reg name="fop" bitsize="32" type="int" group="float"/>
+</feature>
+<?xml version="1.0"?>
+<!-- Copyright (C) 2014-2016 Free Software Foundation, Inc.
+     Copying and distribution of this file, with or without modification,
+     are permitted in any medium without royalty provided the copyright
+     notice and this notice are preserved.  -->
+<!-- X32 with AVX512 - Includes Linux-only special "register".  -->
+<!DOCTYPE target SYSTEM "gdb-target.dtd">
+<target>
+  <architecture>i386:x64-32</architecture>
+  <osabi>GNU/Linux</osabi>
+  <xi:include href="x32-core.xml"/>
+  <xi:include href="64bit-sse.xml"/>
+  <xi:include href="64bit-linux.xml"/>
+  <xi:include href="64bit-avx.xml"/>
+  <xi:include href="64bit-mpx.xml"/>
+  <xi:include href="64bit-avx512.xml"/>
+</target>
+<?xml version="1.0"?>
+<!-- Copyright (C) 2012-2016 Free Software Foundation, Inc.
+     Copying and distribution of this file, with or without modification,
+     are permitted in any medium without royalty provided the copyright
+     notice and this notice are preserved.  -->
+<!-- X32 with AVX - Includes Linux-only special "register".  -->
+<!DOCTYPE target SYSTEM "gdb-target.dtd">
+<target>
+  <architecture>i386:x64-32</architecture>
+  <osabi>GNU/Linux</osabi>
+  <xi:include href="x32-core.xml"/>
+  <xi:include href="64bit-sse.xml"/>
+  <xi:include href="64bit-linux.xml"/>
+  <xi:include href="64bit-avx.xml"/>
+</target>
+<?xml version="1.0"?>
+<!-- Copyright (C) 2012-2016 Free Software Foundation, Inc.
+     Copying and distribution of this file, with or without modification,
+     are permitted in any medium without royalty provided the copyright
+     notice and this notice are preserved.  -->
+<!-- X32 - Includes Linux-only special "register".  -->
+<!DOCTYPE target SYSTEM "gdb-target.dtd">
+<target>
+  <architecture>i386:x64-32</architecture>
+  <osabi>GNU/Linux</osabi>
+  <xi:include href="x32-core.xml"/>
+  <xi:include href="64bit-sse.xml"/>
+  <xi:include href="64bit-linux.xml"/>
+</target>
+<?xml version="1.0"?>
+<!-- Copyright (C) 2013-2016 Free Software Foundation, Inc.
+     Copying and distribution of this file, with or without modification,
+     are permitted in any medium without royalty provided the copyright
+     notice and this notice are preserved.  -->
+<!-- AMD64 with MPX - Includes Linux-only special "register".  -->
+<!DOCTYPE target SYSTEM "gdb-target.dtd">
+<target>
+  <architecture>i386:x86-64</architecture>
+  <osabi>GNU/Linux</osabi>
+  <xi:include href="64bit-core.xml"/>
+  <xi:include href="64bit-sse.xml"/>
+  <xi:include href="64bit-linux.xml"/>
+  <xi:include href="64bit-avx.xml"/>
+  <xi:include href="64bit-mpx.xml"/>
+</target>
+<?xml version="1.0"?>
+<!-- Copyright (C) 2010-2016 Free Software Foundation, Inc.
+     Copying and distribution of this file, with or without modification,
+     are permitted in any medium without royalty provided the copyright
+     notice and this notice are preserved.  -->
+<!DOCTYPE feature SYSTEM "gdb-target.dtd">
+<feature name="org.gnu.gdb.i386.linux">
+  <reg name="orig_rax" bitsize="64" type="int" regnum="57"/>
+</feature>
+<?xml version="1.0"?>
+<!-- Copyright (C) 2014-2016 Free Software Foundation, Inc.
+     Copying and distribution of this file, with or without modification,
+     are permitted in any medium without royalty provided the copyright
+     notice and this notice are preserved.  -->
+<!-- AMD64 with AVX512 - Includes Linux-only special "register".  -->
+<!DOCTYPE target SYSTEM "gdb-target.dtd">
+<target>
+  <architecture>i386:x86-64</architecture>
+  <osabi>GNU/Linux</osabi>
+  <xi:include href="64bit-core.xml"/>
+  <xi:include href="64bit-sse.xml"/>
+  <xi:include href="64bit-linux.xml"/>
+  <xi:include href="64bit-avx.xml"/>
+  <xi:include href="64bit-mpx.xml"/>
+  <xi:include href="64bit-avx512.xml"/>
+</target>
+<?xml version="1.0"?>
+<!-- Copyright (C) 2010-2016 Free Software Foundation, Inc.
+     Copying and distribution of this file, with or without modification,
+     are permitted in any medium without royalty provided the copyright
+     notice and this notice are preserved.  -->
+<!-- AMD64 with AVX - Includes Linux-only special "register".  -->
+<!DOCTYPE target SYSTEM "gdb-target.dtd">
+<target>
+  <architecture>i386:x86-64</architecture>
+  <osabi>GNU/Linux</osabi>
+  <xi:include href="64bit-core.xml"/>
+  <xi:include href="64bit-sse.xml"/>
+  <xi:include href="64bit-linux.xml"/>
+  <xi:include href="64bit-avx.xml"/>
+</target>
+<?xml version="1.0"?>
+<!-- Copyright (C) 2010-2016 Free Software Foundation, Inc.
+     Copying and distribution of this file, with or without modification,
+     are permitted in any medium without royalty provided the copyright
+     notice and this notice are preserved.  -->
+<!-- AMD64 - Includes Linux-only special "register".  -->
+<!DOCTYPE target SYSTEM "gdb-target.dtd">
+<target>
+  <architecture>i386:x86-64</architecture>
+  <osabi>GNU/Linux</osabi>
+  <xi:include href="64bit-core.xml"/>
+  <xi:include href="64bit-sse.xml"/>
+  <xi:include href="64bit-linux.xml"/>
+</target>
+<?xml version="1.0"?>
+<!-- Copyright (C) 2013-2016 Free Software Foundation, Inc.
+     Copying and distribution of this file, with or without modification,
+     are permitted in any medium without royalty provided the copyright
+     notice and this notice are preserved.  -->
+<!DOCTYPE feature SYSTEM "gdb-target.dtd">
+<feature name="org.gnu.gdb.i386.mpx">
+  <struct id="br128">
+    <field name="lbound" type="uint64"/>
+    <field name="ubound_raw" type="uint64"/>
+  </struct>
+  <struct id="_bndstatus" size="8">
+    <field name="bde" start="2" end="31"/>
+    <field name="error" start="0" end="1"/>
+  </struct>
+  <union id="status">
+    <field name="raw" type="data_ptr"/>
+    <field name="status" type="_bndstatus"/>
+  </union>
+  <struct id="_bndcfgu" size="8">
+    <field name="base" start="12" end="31" />
+    <field name="reserved" start="2" end="11"/>
+    <field name="preserved" start="1" end="1"/>
+    <field name="enabled" start="0" end="1"/>
+  </struct>
+   <union id="cfgu">
+    <field name="raw" type="data_ptr"/>
+    <field name="config" type="_bndcfgu"/>
+  </union>
+  <reg name="bnd0raw" bitsize="128" type="br128"/>
+  <reg name="bnd1raw" bitsize="128" type="br128"/>
+  <reg name="bnd2raw" bitsize="128" type="br128"/>
+  <reg name="bnd3raw" bitsize="128" type="br128"/>
+  <reg name="bndcfgu"    bitsize="64" type="cfgu"/>
+  <reg name="bndstatus"  bitsize="64" type="status"/>
+</feature>
+<?xml version="1.0"?>
+<!-- Copyright (C) 2014-2016 Free Software Foundation, Inc.
+     Copying and distribution of this file, with or without modification,
+     are permitted in any medium without royalty provided the copyright
+     notice and this notice are preserved.  -->
+<!DOCTYPE feature SYSTEM "gdb-target.dtd">
+<feature name="org.gnu.gdb.i386.avx512">
+  <vector id="v2ui128" type="uint128" count="2"/>
+  <reg name="k0" bitsize="64" type="uint64"/>
+  <reg name="k1" bitsize="64" type="uint64"/>
+  <reg name="k2" bitsize="64" type="uint64"/>
+  <reg name="k3" bitsize="64" type="uint64"/>
+  <reg name="k4" bitsize="64" type="uint64"/>
+  <reg name="k5" bitsize="64" type="uint64"/>
+  <reg name="k6" bitsize="64" type="uint64"/>
+  <reg name="k7" bitsize="64" type="uint64"/>
+  <reg name="zmm0h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm1h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm2h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm3h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm4h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm5h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm6h" bitsize="256" type="v2ui128"/>
+  <reg name="zmm7h" bitsize="256" type="v2ui128"/>
+</feature>
+<?xml version="1.0"?>
+<!-- Copyright (C) 2010-2016 Free Software Foundation, Inc.
+     Copying and distribution of this file, with or without modification,
+     are permitted in any medium without royalty provided the copyright
+     notice and this notice are preserved.  -->
+<!DOCTYPE feature SYSTEM "gdb-target.dtd">
+<feature name="org.gnu.gdb.i386.avx">
+  <reg name="ymm0h" bitsize="128" type="uint128"/>
+  <reg name="ymm1h" bitsize="128" type="uint128"/>
+  <reg name="ymm2h" bitsize="128" type="uint128"/>
+  <reg name="ymm3h" bitsize="128" type="uint128"/>
+  <reg name="ymm4h" bitsize="128" type="uint128"/>
+  <reg name="ymm5h" bitsize="128" type="uint128"/>
+  <reg name="ymm6h" bitsize="128" type="uint128"/>
+  <reg name="ymm7h" bitsize="128" type="uint128"/>
+</feature>
+<?xml version="1.0"?>
+<!-- Copyright (C) 2010-2016 Free Software Foundation, Inc.
+     Copying and distribution of this file, with or without modification,
+     are permitted in any medium without royalty provided the copyright
+     notice and this notice are preserved.  -->
+<!DOCTYPE feature SYSTEM "gdb-target.dtd">
+<feature name="org.gnu.gdb.i386.sse">
+  <vector id="v4f" type="ieee_single" count="4"/>
+  <vector id="v2d" type="ieee_double" count="2"/>
+  <vector id="v16i8" type="int8" count="16"/>
+  <vector id="v8i16" type="int16" count="8"/>
+  <vector id="v4i32" type="int32" count="4"/>
+  <vector id="v2i64" type="int64" count="2"/>
+  <union id="vec128">
+    <field name="v4_float" type="v4f"/>
+    <field name="v2_double" type="v2d"/>
+    <field name="v16_int8" type="v16i8"/>
+    <field name="v8_int16" type="v8i16"/>
+    <field name="v4_int32" type="v4i32"/>
+    <field name="v2_int64" type="v2i64"/>
+    <field name="uint128" type="uint128"/>
+  </union>
+  <flags id="i386_mxcsr" size="4">
+    <field name="IE" start="0" end="0"/>
+    <field name="DE" start="1" end="1"/>
+    <field name="ZE" start="2" end="2"/>
+    <field name="OE" start="3" end="3"/>
+    <field name="UE" start="4" end="4"/>
+    <field name="PE" start="5" end="5"/>
+    <field name="DAZ" start="6" end="6"/>
+    <field name="IM" start="7" end="7"/>
+    <field name="DM" start="8" end="8"/>
+    <field name="ZM" start="9" end="9"/>
+    <field name="OM" start="10" end="10"/>
+    <field name="UM" start="11" end="11"/>
+    <field name="PM" start="12" end="12"/>
+    <field name="FZ" start="15" end="15"/>
+  </flags>
+  <reg name="xmm0" bitsize="128" type="vec128" regnum="32"/>
+  <reg name="xmm1" bitsize="128" type="vec128"/>
+  <reg name="xmm2" bitsize="128" type="vec128"/>
+  <reg name="xmm3" bitsize="128" type="vec128"/>
+  <reg name="xmm4" bitsize="128" type="vec128"/>
+  <reg name="xmm5" bitsize="128" type="vec128"/>
+  <reg name="xmm6" bitsize="128" type="vec128"/>
+  <reg name="xmm7" bitsize="128" type="vec128"/>
+  <reg name="mxcsr" bitsize="32" type="i386_mxcsr" group="vector"/>
+</feature>
+<?xml version="1.0"?>
+<!-- Copyright (C) 2010-2016 Free Software Foundation, Inc.
+     Copying and distribution of this file, with or without modification,
+     are permitted in any medium without royalty provided the copyright
+     notice and this notice are preserved.  -->
+<!DOCTYPE feature SYSTEM "gdb-target.dtd">
+<feature name="org.gnu.gdb.i386.core">
+  <flags id="i386_eflags" size="4">
+    <field name="CF" start="0" end="0"/>
+    <field name="" start="1" end="1"/>
+    <field name="PF" start="2" end="2"/>
+    <field name="AF" start="4" end="4"/>
+    <field name="ZF" start="6" end="6"/>
+    <field name="SF" start="7" end="7"/>
+    <field name="TF" start="8" end="8"/>
+    <field name="IF" start="9" end="9"/>
+    <field name="DF" start="10" end="10"/>
+    <field name="OF" start="11" end="11"/>
+    <field name="NT" start="14" end="14"/>
+    <field name="RF" start="16" end="16"/>
+    <field name="VM" start="17" end="17"/>
+    <field name="AC" start="18" end="18"/>
+    <field name="VIF" start="19" end="19"/>
+    <field name="VIP" start="20" end="20"/>
+    <field name="ID" start="21" end="21"/>
+  </flags>
+  <reg name="eax" bitsize="32" type="int32"/>
+  <reg name="ecx" bitsize="32" type="int32"/>
+  <reg name="edx" bitsize="32" type="int32"/>
+  <reg name="ebx" bitsize="32" type="int32"/>
+  <reg name="esp" bitsize="32" type="data_ptr"/>
+  <reg name="ebp" bitsize="32" type="data_ptr"/>
+  <reg name="esi" bitsize="32" type="int32"/>
+  <reg name="edi" bitsize="32" type="int32"/>
+  <reg name="eip" bitsize="32" type="code_ptr"/>
+  <reg name="eflags" bitsize="32" type="i386_eflags"/>
+  <reg name="cs" bitsize="32" type="int32"/>
+  <reg name="ss" bitsize="32" type="int32"/>
+  <reg name="ds" bitsize="32" type="int32"/>
+  <reg name="es" bitsize="32" type="int32"/>
+  <reg name="fs" bitsize="32" type="int32"/>
+  <reg name="gs" bitsize="32" type="int32"/>
+  <reg name="st0" bitsize="80" type="i387_ext"/>
+  <reg name="st1" bitsize="80" type="i387_ext"/>
+  <reg name="st2" bitsize="80" type="i387_ext"/>
+  <reg name="st3" bitsize="80" type="i387_ext"/>
+  <reg name="st4" bitsize="80" type="i387_ext"/>
+  <reg name="st5" bitsize="80" type="i387_ext"/>
+  <reg name="st6" bitsize="80" type="i387_ext"/>
+  <reg name="st7" bitsize="80" type="i387_ext"/>
+  <reg name="fctrl" bitsize="32" type="int" group="float"/>
+  <reg name="fstat" bitsize="32" type="int" group="float"/>
+  <reg name="ftag" bitsize="32" type="int" group="float"/>
+  <reg name="fiseg" bitsize="32" type="int" group="float"/>
+  <reg name="fioff" bitsize="32" type="int" group="float"/>
+  <reg name="foseg" bitsize="32" type="int" group="float"/>
+  <reg name="fooff" bitsize="32" type="int" group="float"/>
+  <reg name="fop" bitsize="32" type="int" group="float"/>
+</feature>
+<?xml version="1.0"?>
+<!-- Copyright (C) 2013-2016 Free Software Foundation, Inc.
+     Copying and distribution of this file, with or without modification,
+     are permitted in any medium without royalty provided the copyright
+     notice and this notice are preserved.  -->
+<!-- I386 with MPX- Includes Linux-only special "register".  -->
+<!DOCTYPE target SYSTEM "gdb-target.dtd">
+<target>
+  <architecture>i386</architecture>
+  <osabi>GNU/Linux</osabi>
+  <xi:include href="32bit-core.xml"/>
+  <xi:include href="32bit-sse.xml"/>
+  <xi:include href="32bit-linux.xml"/>
+  <xi:include href="32bit-avx.xml"/>
+  <xi:include href="32bit-mpx.xml"/>
+</target>
+<?xml version="1.0"?>
+<!-- Copyright (C) 2010-2016 Free Software Foundation, Inc.
+     Copying and distribution of this file, with or without modification,
+     are permitted in any medium without royalty provided the copyright
+     notice and this notice are preserved.  -->
+<!DOCTYPE feature SYSTEM "gdb-target.dtd">
+<feature name="org.gnu.gdb.i386.linux">
+  <reg name="orig_eax" bitsize="32" type="int" regnum="41"/>
+</feature>
+<?xml version="1.0"?>
+<!-- Copyright (C) 2010-2016 Free Software Foundation, Inc.
+     Copying and distribution of this file, with or without modification,
+     are permitted in any medium without royalty provided the copyright
+     notice and this notice are preserved.  -->
+<!-- I386 with MMX - Includes Linux-only special "register".  -->
+<!DOCTYPE target SYSTEM "gdb-target.dtd">
+<target>
+  <architecture>i386</architecture>
+  <osabi>GNU/Linux</osabi>
+  <xi:include href="32bit-core.xml"/>
+  <xi:include href="32bit-linux.xml"/>
+</target>
+<?xml version="1.0"?>
+<!-- Copyright (C) 2014-2016 Free Software Foundation, Inc.
+     Copying and distribution of this file, with or without modification,
+     are permitted in any medium without royalty provided the copyright
+     notice and this notice are preserved.  -->
+<!-- I386 with AVX512 - Includes Linux-only special "register".  -->
+<!DOCTYPE target SYSTEM "gdb-target.dtd">
+<target>
+  <architecture>i386</architecture>
+  <osabi>GNU/Linux</osabi>
+  <xi:include href="32bit-core.xml"/>
+  <xi:include href="32bit-sse.xml"/>
+  <xi:include href="32bit-linux.xml"/>
+  <xi:include href="32bit-avx.xml"/>
+  <xi:include href="32bit-mpx.xml"/>
+  <xi:include href="32bit-avx512.xml"/>
+</target>
+<?xml version="1.0"?>
+<!-- Copyright (C) 2010-2016 Free Software Foundation, Inc.
+     Copying and distribution of this file, with or without modification,
+     are permitted in any medium without royalty provided the copyright
+     notice and this notice are preserved.  -->
+<!-- I386 with AVX- Includes Linux-only special "register".  -->
+<!DOCTYPE target SYSTEM "gdb-target.dtd">
+<target>
+  <architecture>i386</architecture>
+  <osabi>GNU/Linux</osabi>
+  <xi:include href="32bit-core.xml"/>
+  <xi:include href="32bit-sse.xml"/>
+  <xi:include href="32bit-linux.xml"/>
+  <xi:include href="32bit-avx.xml"/>
+</target>
+<?xml version="1.0"?>
+<!-- Copyright (C) 2010-2016 Free Software Foundation, Inc.
+     Copying and distribution of this file, with or without modification,
+     are permitted in any medium without royalty provided the copyright
+     notice and this notice are preserved.  -->
+<!-- I386 with SSE - Includes Linux-only special "register".  -->
+<!DOCTYPE target SYSTEM "gdb-target.dtd">
+<target>
+  <architecture>i386</architecture>
+  <osabi>GNU/Linux</osabi>
+  <xi:include href="32bit-core.xml"/>
+  <xi:include href="32bit-linux.xml"/>
+  <xi:include href="32bit-sse.xml"/>
+</target>
+eflags
+fctrl
+fstat
+ftag
+fiseg
+fioff
+foseg
+fooff
+xmm0
+xmm1
+xmm2
+xmm3
+xmm4
+xmm5
+xmm6
+xmm7
+xmm8
+xmm9
+xmm10
+xmm11
+xmm12
+xmm13
+xmm14
+xmm15
+mxcsr
+orig_rax
+ymm0h
+ymm1h
+ymm2h
+ymm3h
+ymm4h
+ymm5h
+ymm6h
+ymm7h
+ymm8h
+ymm9h
+ymm10h
+ymm11h
+ymm12h
+ymm13h
+ymm14h
+ymm15h
+bnd0raw
+bnd1raw
+bnd2raw
+bnd3raw
+bndcfgu
+bndstatus
+xmm16
+xmm17
+xmm18
+xmm19
+xmm20
+xmm21
+xmm22
+xmm23
+xmm24
+xmm25
+xmm26
+xmm27
+xmm28
+xmm29
+xmm30
+xmm31
+ymm16h
+ymm17h
+ymm18h
+ymm19h
+ymm20h
+ymm21h
+ymm22h
+ymm23h
+ymm24h
+ymm25h
+ymm26h
+ymm27h
+ymm28h
+ymm29h
+ymm30h
+ymm31h
+zmm0h
+zmm1h
+zmm2h
+zmm3h
+zmm4h
+zmm5h
+zmm6h
+zmm7h
+zmm8h
+zmm9h
+zmm10h
+zmm11h
+zmm12h
+zmm13h
+zmm14h
+zmm15h
+zmm16h
+zmm17h
+zmm18h
+zmm19h
+zmm20h
+zmm21h
+zmm22h
+zmm23h
+zmm24h
+zmm25h
+zmm26h
+zmm27h
+zmm28h
+zmm29h
+zmm30h
+zmm31h
+orig_eax
+tkill
+sigchld_handler
+<btrace-conf version="1.0">
+<bts
+ size="0x%x"
+</btrace-conf>
+E.Overflow.
+E.Generic Error.
+E.No Trace.
+<btrace version="1.0">
+<pt>
+<pt-config>
+</pt-config>
+<raw>
+</raw>
+</pt>
+</btrace>
+E.Unsupported Trace Format.
+/proc/%d/auxv
+   (no more queued signals)
+   Still queued %d
+stopping
+deleting %ld
+/proc/%ld/fd
+/proc/%ld/fd/%d
+/proc/%ld/fd/%s
+/proc/%d/mem
+num_phdr < 100
+Invalid register number %d.
+reading register %d: %s
+Sending SIGCONT to %s
+Can't detach %s: %s
+writing register %d: %s
+   Already queued %d
+Sending sigstop to lwp %d
+selector != NULL
+count != NULL
+the_low_target.set_pc != NULL
+unhandled pointer size
+lp->last_status != 0
+PC of %ld changed
+lwp->suspended >= 0
+Need step over [LWP %ld]? No
+lwp->stopped
+unstopping all lwps
+unstop_all_lwps done
+kill_wait_lwp
+lkop: is last of process %s
+not expected
+step
+continue
+  pending reinsert at 0x%s
+  %s from pc 0x%lx
+resuming thread
+lp->stopped
+proceed_one_lwp: lwp %ld
+   LWP %ld already running
+   LWP %ld is suspended
+stopping LWP %ld
+already stopped LWP %ld
+resuming LWP %ld
+leaving LWP %ld stopped
+Finished step over.
+creating event pipe failed.
+/dev/null
+stdin/stdout redirected
+Cannot exec %s: %s.
+/proc/%d/exe
+prev
+unexpected r_debug version %d
+ main-lm="0x%lx"
+Reading
+Writing
+%s siginfo for lwp %d.
+Found new lwp %d
+Cannot attach to lwp %d: %s
+ERRNO-OK
+LLW: waitpid %ld received %s
+LLFE: %d exited.
+WIFSTOPPED (wstat)
+waiting for new child
+child_proc != NULL
+child_lwp != NULL
+HEW: leaving child suspended
+current_thread == event_thr
+unknown ptrace event %d
+CSBB: %s stopped by trace
+Expected stop.
+WNOHANG set, no event found
+sigsuspend'ing
+Got a pending child %ld
+stop-and-suspend
+ret == -1
+LWP %ld suspended=%d
+linux_resume:
+linux_resume done
+linux_wait_1: [%s]
+lwp->suspended == 0
+got a tracepoint event
+Hit a gdbserver breakpoint.
+event_child->suspended >= 0
+dequeued one signal.
+no deferred signals.
+Ignored syscall for LWP %ld.
+Step-over finished.
+Tracepoint event.
+proceeding all threads.
+Stopped by watchpoint.
+Stopped by GDB breakpoint.
+SEL: Select single-step %s
+num_events > 0
+lwpid > 0
+stop pc is 0x%x
+stop pc is 0x%lx
+<!DOCTYPE btrace-conf SYSTEM "btrace-conf.dtd">
+<!DOCTYPE btrace SYSTEM "btrace.dtd">
+<block begin="0x%s" end="0x%s"/>
+<cpu vendor="GenuineIntel" family="%u" model="%u" stepping="%u"/>
+Unexpected missing AT_PHDR and/or AT_PHNUM: phdr_memaddr = %ld, phdr_num = %d
+Reporting deferred signal %d for LWP %ld.
+Writing %s to 0x%08lx in process %d
+already %s LWP %ld at GDB's request
+Dequeueing deferred signal %d for LWP %ld, leaving status pending.
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/linux-low.c
+Warning: ptrace(regsets_store_inferior_registers)
+ptrace(regsets_fetch_inferior_registers) PID=%d
+GPS: lwp %s hasn't stopped: no pending signal
+GPS: lwp %s had stopped with extended status: no pending signal
+GPS: lwp %s had signal %s, but it is in nopass state
+GPS: lwp %s had signal %s, but we don't know if we should pass it. Default to not.
+GPS: lwp %s has pending signal %s: delivering it.
+LWP %ld has a suspiciously high suspend count, suspended=%d
+Deferring signal %d for LWP %ld.
+   (no more currently queued signals)
+Not requeuing already queued non-RT signal %d for LWP %ld
+Have pending sigstop for lwp %d
+the_low_target.sw_breakpoint_from_kind != NULL
+unsuspend LWP %ld, suspended=%d
+discarding pending breakpoint status
+Need step over [LWP %ld]? Ignoring, not stopped
+Need step over [LWP %ld]? Ignoring, should remain stopped
+Need step over [LWP %ld]? Ignoring, suspended
+Need step over [LWP %ld]? Ignoring, has pending status.
+Need step over [LWP %ld]? Cancelling, PC was changed. Old stop_pc was 0x%s, PC is now 0x%s
+Need step over [LWP %ld]? yes, but found GDB breakpoint at 0x%s; skipping step over
+Need step over [LWP %ld]? yes, found breakpoint at 0x%s
+Need step over [LWP %ld]? No, no breakpoint found at 0x%s
+get_syscall_trapinfo sysno %d sysret %d
+LWP %ld is suspended, suspended=%d
+unstopping all lwps, except=(LWP %ld)
+kwl: killing lwp %d, for pid: %d
+LKL:  kill_lwp (SIGKILL) %s, 0, 0 (%s)
+LKL:  PTRACE_KILL %s, 0, 0 (%s)
+stepping is not implemented on this target
+lwp->waitstatus.kind == TARGET_WAITKIND_IGNORE
+!stabilizing_threads || fast_tp_collecting
+Not resuming lwp %ld (%s, signal %d, stop %s); has pending status
+Resuming lwp %ld (%s, signal %d, stop %s)
+BAD - reinserting but not stepping.
+BAD - reinserting and suspended(%d).
+lwp %ld wants to get out of fast tracepoint jump pad (exit-jump-pad-bkpt)
+lwp %ld wants to get out of fast tracepoint jump pad single-stepping
+moving out of jump pad single-stepping not implemented on this target
+lwp %ld has a while-stepping action -> forcing step.
+RSRL: resuming stopped-resumed LWP %s at %s: step=%d
+   client wants LWP to remain %ld stopped
+   LWP %ld has pending status, leaving stopped
+Client wants LWP %ld to stop. Making sure it has a SIGSTOP pending
+   stepping LWP %ld, client wants it stepping
+   stepping LWP %ld, reinsert set
+resume_stop request for LWP %ld
+linux_async (%d), previous=%d
+unable to read r_map from 0x%lx
+Corrupted shared library list: 0x%lx != 0x%lx
+<library name="%s" lm="0x%lx" l_addr="0x%lx" l_ld="0x%lx"/>
+Attached to a stopped process
+Cannot attach to lwp %d: thread is gone (%d: %s)
+requesting an event out of a suspended child?
+Got an event from pending child %ld (%04x)
+LWFE: waitpid(-1, ...) returned %d, %s
+LLW: Re-adding thread group leader LWP %dafter exec.
+event_lwp->waitstatus.kind == TARGET_WAITKIND_IGNORE
+wait returned unexpected PID %d
+wait returned unexpected status 0x%x
+HEW: Got fork event from LWP %ld, new child is %d
+HEW: Got clone event from LWP %ld, new child is LWP %ld
+HEW: Got exec event from LWP %ld
+CSBB: %s stopped by software breakpoint
+CSBB: %s stopped by hardware breakpoint
+CSBB: %s stopped by hardware watchpoint
+LLW: resume_stop SIGSTOP caught for %s.
+LLW: SIGSTOP caught for %s while stopping threads.
+LLW: %s %s, 0, 0 (discard delayed SIGSTOP)
+leader_pid=%d, leader_lp!=NULL=%d, num_lwps=%d, zombie=%d
+CZL: Thread group leader %d zombie (it exited, or another thread execd).
+LLW: exit (no unwaited-for LWP)
+stopping_threads == NOT_STOPPING_THREADS
+stop_all_lwps (%s, except=%s)
+wait_for_sigstop: pulling events
+Previously current thread died.
+stop_all_lwps done, setting stopping_threads back to !stopping
+Checking whether LWP %ld needs to move out of the jump pad.
+Checking whether LWP %ld needs to move out of the jump pad...it does
+Cancelling fast exit-jump-pad: removing bkpt. stopping all threads momentarily.
+Checking whether LWP %ld needs to move out of the jump pad...no
+LWP %ld needs stabilizing (in jump pad)
+Signal %d for LWP %ld deferred (in jump pad)
+Starting step-over on LWP %ld.  Stopping all threads
+Done stopping all threads for step-over.
+proceed_all_lwps: found thread %ld needing a step-over
+Proceeding, no step-over needed
+Not resuming all, need step over
+Not resuming, all-stop and found an LWP with pending status
+Resuming, no pending status or step over needed
+step_over_bkpt set [%s], doing a blocking wait
+target_options & TARGET_WNOHANG
+linux_wait_1 ret = null_ptid, TARGET_WAITKIND_IGNORE
+linux_wait_1 ret = null_ptid, TARGET_WAITKIND_NO_RESUMED
+linux_wait_1 ret = %s, exited with retcode %d
+linux_wait_1 ret = %s, terminated with signal %d
+step-over for %s executed software breakpoint
+!stabilizing_threads || lwp->collecting_fast_tracepoint
+Got signal %d for LWP %ld.  Check if we need to defer or adjust it.
+LWP %ld was trying to move out of the jump pad (%d). Check if we're already there.
+No longer need exit-jump-pad bkpt; removing it.stopping all threads momentarily.
+fast tracepoint finished collecting successfully.
+linux_wait_1 ret = %s, stopped while stabilizing threads
+Ignored signal %d for LWP %ld.
+LWP %ld: extended event with waitstatus %s
+GDB wanted to single-step, reporting event.
+Hit a non-gdbserver trap event.
+SEL: Found %d SIGTRAP events, selecting #%d
+ptid_equal (step_over_bkpt, null_ptid)
+linux_wait_1 ret = %s, %d, %d
+Range stepping pc 0x%s [0x%s, 0x%s).
+Out of step range, reporting event.
+can't stabilize, LWP %ld is stuck in jump pad
+couldn't stabilize, LWP %ld got stuck in jump pad
+detach: step over in progress, finish it first
+lk_1: cannot find lwp for pid: %d
+Cannot attach to process %ld: %s
+linux_attach
+complete_ongoing_step_over
+linux_resume
+linux_write_pc
+count_events_callback
+select_event_lwp_callback
+select_event_lwp
+need_step_over_p
+handle_tracepoints
+linux_wait_1
+stuck_in_jump_pad_callback
+check_ptrace_stopped_lwp_gone
+linux_resume_one_lwp_throw
+proceed_one_lwp
+unstop_all_lwps
+handle_extended_wait
+linux_low_filter_event
+thread_still_has_status_pending_p
+wait_for_sigstop
+stop_all_lwps
+maybe_move_out_of_jump_pad
+move_out_of_jump_pad_callback
+read_one_ptr
+get_dynamic
+linux_sw_breakpoint_from_kind
+>/proc/%lld/stat
+%lld %17s
+/proc/%lld/cmdline
+/proc
+</osdata>
+<osdata type="modules">
+/proc/modules
+%llx
+<osdata type="files">
+/proc/%s
+/proc/%s/fd
+%s/%s
+<osdata type="cpus">
+/proc/cpuinfo
+processor
+</item><item>
+<column name="%s">%s</column>
+</item>
+/proc/net/tcp
+/proc/net/udp
+/proc/net/tcp6
+/proc/net/udp6
+(unknown)
+STREAM
+DGRAM
+INET
+INET6
+%8X%8X%8X%8X
+<osdata type="I sockets">
+/proc/sysvipc/msg
+<osdata type="semaphores">
+/proc/sysvipc/sem
+/proc/sysvipc/shm
+/proc/%lld/task/%lld/stat
+<osdata type="threads">
+/proc/%s/task
+<osdata type="processes">
+/proc/%lld
+/proc/%lld/task
+<osdata type="types">
+readbuf
+ESTABLISHED
+SYN_SENT
+SYN_RECV
+FIN_WAIT1
+FIN_WAIT2
+TIME_WAIT
+CLOSE
+CLOSE_WAIT
+LAST_ACK
+LISTEN
+CLOSING
+cpus
+CPUs
+files
+File descriptors
+Kernel modules
+Message queues
+Listing of all message queues
+Processes
+Listing of all processes
+procgroups
+Process groups
+Listing of all process groups
+Semaphores
+Listing of all semaphores
+Shared-memory regions
+sockets
+Sockets
+Threads
+Listing of all threads
+<osdata type="process groups">
+<item><column name="pgid">%lld</column><column name="leader command">%s</column><column name="pid">%lld</column><column name="command line">%s</column></item>
+<item><column name="name">%s</column><column name="size">%u</column><column name="num uses">%d</column><column name="dependencies">%s</column><column name="status">%s</column><column name="address">%llx</column></item>
+<item><column name="pid">%s</column><column name="command">%s</column><column name="file descriptor">%s</column><column name="name">%s</column></item>
+%*d: %32[0-9A-F]:%X %32[0-9A-F]:%X %X %*X:%*X %*X:%*X %*X %d %*d %*u %*s
+<item><column name="local address">%s</column><column name="local port">%s</column><column name="remote address">%s</column><column name="remote port">%s</column><column name="state">%s</column><column name="user">%s</column><column name="family">%s</column><column name="protocol">%s</column></item>
+<osdata type="message queues">
+%d %d %o %u %u %lld %lld %d %d %d %d %lld %lld %lld
+<item><column name="key">%d</column><column name="msqid">%d</column><column name="permissions">%o</column><column name="num used bytes">%u</column><column name="num messages">%u</column><column name="last msgsnd() command">%s</column><column name="last msgrcv() command">%s</column><column name="user">%s</column><column name="group">%s</column><column name="creator user">%s</column><column name="creator group">%s</column><column name="last msgsnd() time">%s</column><column name="last msgrcv() time">%s</column><column name="last msgctl() time">%s</column></item>
+%d %d %o %u %d %d %d %d %lld %lld
+<item><column name="key">%d</column><column name="semid">%d</column><column name="permissions">%o</column><column name="num semaphores">%u</column><column name="user">%s</column><column name="group">%s</column><column name="creator user">%s</column><column name="creator group">%s</column><column name="last semop() time">%s</column><column name="last semctl() time">%s</column></item>
+<osdata type="shared memory">
+%d %d %o %d %lld %lld %d %u %u %u %u %lld %lld %lld
+<item><column name="key">%d</column><column name="shmid">%d</column><column name="permissions">%o</column><column name="size">%d</column><column name="creator command">%s</column><column name="last op. command">%s</column><column name="num attached">%d</column><column name="user">%s</column><column name="group">%s</column><column name="creator user">%s</column><column name="creator group">%s</column><column name="last shmat() time">%s</column><column name="last shmdt() time">%s</column><column name="last shmctl() time">%s</column></item>
+<item><column name="pid">%lld</column><column name="command">%s</column><column name="tid">%lld</column><column name="core">%d</column></item>
+<item><column name="pid">%lld</column><column name="user">%s</column><column name="command">%s</column><column name="cores">%s</column></item>
+<item><column name="Type">%s</column><column name="Description">%s</column><column name="Title">%s</column></item>
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/../nat/linux-osdata.c
+Listing of all cpus/cores on the system
+Listing of all file descriptors
+Listing of all loaded kernel modules
+Listing of all shared-memory regions
+Listing of all internet-domain sockets
+linux_common_xfer_osdata
+/proc/%d/status
+State:
+Tgid
+TracerPid
+T (stopped)
+T (tracing stop)
+Z (zombie)
+/proc/%ld/task/%ld/comm
+/proc/%ld/task
+unable to open /proc file '%s'
+Could not open /proc/%ld/task.
+%s (%d), %s
+%s (%d)
+waitpid
+asm block did not terminate
+process %d is already traced by process %d
+process %d is a zombie - the process has already terminated
+linux_check_ptrace_features: waitpid: unexpected result %d.
+linux_check_ptrace_features: waitpid: unexpected status %d.
+linux_test_for_tracefork: failed to resume child
+linux_test_for_tracefork: failed to kill second child
+linux_test_for_tracefork: unexpected result from waitpid (%d, status 0x%x)
+linux_check_ptrace_features: failed to kill child
+linux_ptrace_test_ret_to_nx: Cannot mmap: %s
+linux_ptrace_test_ret_to_nx: Cannot fork: %s
+linux_ptrace_test_ret_to_nx: Cannot PTRACE_TRACEME: %s
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/../nat/linux-ptrace.c
+linux_ptrace_test_ret_to_nx: waitpid returned %ld: %s
+linux_ptrace_test_ret_to_nx: WTERMSIG %d is not SIGKILL!
+Cannot call inferior functions, Linux kernel PaX protection forbids return to non-executable pages!
+linux_ptrace_test_ret_to_nx: status %d is not WIFSTOPPED!
+linux_ptrace_test_ret_to_nx: WSTOPSIG %d is neither SIGTRAP nor SIGSEGV!
+linux_ptrace_test_ret_to_nx: Cannot PTRACE_PEEKUSER: %s
+linux_ptrace_test_ret_to_nx: PTRACE_KILL waitpid returned %ld: %s
+linux_ptrace_test_ret_to_nx: PTRACE_KILL status %d is not WIFSIGNALED!
+linux_ptrace_test_ret_to_nx: PC %p is neither near return address %p nor is the return instruction %p!
+Cannot call inferior functions on this system - Linux kernel with broken i386 NX (non-executable pages) support detected!
+Degas are we not drawn onward no In union drawn onward to new eras aged
+linux_ptrace_test_ret_to_nx
+%s (stopped at syscall)
+%s (stopped)
+%s (terminated)
+%d (exited)
+my_waitpid (%d, 0x%x)
+my_waitpid (%d, 0x%x): status(%x), %d
+Error restoring address space randomization: %s
+Error disabling address space randomization: %s
+ERROR
+SETNS
+OPEN
+UNLINK
+READLINK
+unknown-packet-%d
+ %d %d %d "
+/proc/%d/ns/%s
+unhandled error %d
+unhandled status %d
+unknown pid %d
+mnsh: send: 
+ -> %s
+mnsh: recv: 
+type == MNSH_RET_INT
+fd == -1
+size == 0
+type == MNSH_RET_FD
+result < 0
+access == MNSH_FS_HELPER
+type == MNSH_RET_INTSTR
+size == ret
+user
+mnsh_recv_intstr
+linux_mntns_readlink
+linux_mntns_unlink
+mnsh_recv_fd
+mnsh_recv_int
+linux_mntns_open_cloexec
+linux_ns_filename
+linux_ns_get_namespace
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/../nat/linux-namespaces.c
+type >= 0 && type < NUM_LINUX_NS_TYPES
+mount namespace helper vanished?
+mount namespace helper exited with status %d
+mount namespace helper killed by signal %d
+namespace-helper: recv failed (%s)
+namespace-helper: recv truncated (%s 0x%x)
+Started mount namespace helper process %d
+Adding %d bytes of insn at %s
+4-byte fast tracepoints not available; %s
+E.Jump back from jump pad too far from tracepoint (offset 0x%lx > int32).
+E.Jump pad too far from tracepoint (offset 0x%lx > int32).
+parent->priv != NULL && parent->priv->arch_private != NULL
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/linux-x86-low.c
+child->priv != NULL && child->priv->arch_private != NULL
+@<target><architecture>i386:x86-64</architecture><osabi>GNU/Linux</osabi></target>
+@<target><architecture>i386</architecture><osabi>GNU/Linux</osabi></target>
+83 ec 08
+65 a1 00 00 00 00
+89 44 24 04
+31 c0
+f0 0f b1 25
+75 f2
+89 e0
+83 c0 08
+89 44 24 fc
+c7 04 24
+83 c4 08
+48 83 ec 18
+48 b8
+48 89 04 24
+64 48 8b 04 25 00 00 00 00
+48 89 44 24 08
+48 be
+48 89 e1
+f0 48 0f b1 0e
+48 85 c0
+75 f4
+48 89 e6
+48 83 c6 18
+48 bf
+ff d0
+48 a3
+48 83 c4 18
+xmlRegisters=
+i386
+x86_linux_new_fork
+state->dr_control_mirror == 0
+data-read
+data-write
+data-read/write
+??unknown??
+instruction-execute
+ (addr=%s, len=%d, type=%s)
+insert_watchpoint
+remove_watchpoint
+watchpoint_hit
+stopped_data_addr
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/../nat/x86-dregs.c
+new_state->dr_mirror[i] == state->dr_mirror[i]
+	CONTROL (DR7): %s          STATUS (DR6): %s
+	DR%d: addr=0x%s, ref.count=%d  DR%d: addr=0x%s, ref.count=%d
+The i386 doesn't support data-read watchpoints.
+Invalid hardware breakpoint type %d in x86_length_and_rw_bits.
+Invalid hardware breakpoint length %d in x86_length_and_rw_bits.
+x86_update_inferior_debug_regs
+x86_remove_aligned_watchpoint
+/proc/kallsyms
+%lx %*[tT] %7s
+_text
+test bts: cannot fork: %s.
+test pt: cannot fork: %s.
+begin <= start
+start <= end
+Unkown btrace read type.
+/sys/bus/event_source/devices/intel_pt/type
+test bts: cannot PTRACE_TRACEME: %s.
+test bts: cannot raise SIGTRAP: %s.
+test bts: bad pid %ld, error: %s.
+test bts: expected stop. status: %d.
+test bts: expected killed. status: %d.
+test pt: cannot PTRACE_TRACEME: %s.
+test pt: cannot raise SIGTRAP: %s.
+test pt: bad pid %ld, error: %s.
+test pt: expected stop. status: %d.
+test pt: expected killed. status: %d.
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/../nat/linux-btrace.c
+Branch trace may be incomplete.
+VEC_btrace_block_s_quick_push
+perf_event_read_bts
+ptid_lwp_p (ptid)
+Couldn't read debug register
+Couldn't write debug register
+lwp_is_stopped (lwp)
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/../nat/x86-linux-dregs.c
+DR_FIRSTADDR <= regnum && regnum <= DR_LASTADDR
+x86_linux_dr_set
+x86_linux_update_debug_registers
+x86_linux_dr_set_addr
+x86_linux_dr_get
+x86_linux_dr_get_addr
+generic 'call succeeded'
+generic error
+no thread to satisfy query
+no LWP to satisfy query
+invalid process handle
+invalid thread handle
+invalid thread agent
+invalid key
+no event message for getmsg
+capability not available
+debugger service failed
+operation not applicable to
+malloc failed
+unknown thread_db error '%d'
+Found thread %ld (LWP %d)
+dlopen failed: %s.
+td_init
+Host %s resolved to: %s.
+proc->priv->thread_db == NULL
+td_ta_new
+dlsym: %s
+td_ta_new(): %s
+td_ta_map_lwp2thr
+td_thr_get_info
+td_ta_thr_iter
+td_symbol_list
+td_ta_event_addr
+td_ta_set_event
+td_ta_event_getmsg
+td_thr_tls_get_addr
+td_thr_tlsbase
+Cannot get thread info: %s
+$sdir:$pdir
+$sdir
+libthread_db.so.1
+Cannot find new threads: %s
+td_ta_clear_event
+td_ta_delete
+set libthread-db-search-path
+no sync handle to satisfy query
+invalid synchronization handle
+FPU register set not available
+application not linked with libthread
+requested event is not supported
+no thread-specific data for this thread
+only part of register set was written/read
+X register set not available for this thread
+version mismatch between libthread_db and libpthread
+Cannot get thread handle for LWP %d: %s
+Cannot get thread info for LWP %d: %s
+PID mismatch!  Expected %ld, got %ld
+Trying host libthread_db library: %s.
+/build/gdb-9un5Xp/gdb-7.11.1/gdb/gdbserver/thread-db.c
+libthread-db-search-path component too long, ignored: %s.
+thread_db: skipping exited and joined thread (0x%lx)
+Attaching to thread %ld (LWP %d)
+Could not attach to thread %ld (LWP %d): %s
+Found %d threads in iteration %d.
+thread_db_load_search returning %d
+libthread-db-search-path set to `
+attach_thread
+try_thread_db_load_1
+(undocumented errno %d)
+%s: error: too many @-files encountered
+US]CQ
+^(BM
+kZ;&
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+;*3$"
+649f78939bda13cf0618884f5fb63eba94c3c3.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

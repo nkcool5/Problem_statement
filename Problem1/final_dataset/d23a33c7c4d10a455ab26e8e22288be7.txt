@@ -1,0 +1,689 @@
+/lib64/ld-linux-x86-64.so.2
+_'IU
+"+Yh
+Z	QDrBBE
+gk^?
+I}+N
+libsignon-plugins-common.so.1
+_ZN11QMetaObject8activateEP7QObjectPKS_iPPv
+_ZN7QObject11eventFilterEPS_P6QEvent
+_ZN7QObject10childEventEP11QChildEvent
+_ZN12QMapDataBase8freeDataEPS_
+_ZN12QMapDataBase11shared_nullE
+_ZN7QObject11qt_metacallEN11QMetaObject4CallEiPPv
+_ZN6QDebugD1Ev
+_ZrsR11QDataStreamR7QString
+_ZN8QVariantaSERKS_
+_ZltRK7QStringS1_
+_ZNK11QObjectData17dynamicMetaObjectEv
+_ZN7QObject16disconnectNotifyERK11QMetaMethod
+_ZN9QMetaType25registerNormalizedTypedefERK10QByteArrayi
+_ZN8QVariantC1ERKS_
+_ZN7QObject10disconnectEPKS_PKcS1_S3_
+_ZN11QTextStreamlsEi
+_ZN8QVariantD1Ev
+_ZNK14QMessageLogger5debugEv
+_ZN7QObject11customEventEP6QEvent
+_ZN7QObject10timerEventEP11QTimerEvent
+_ZN10QArrayData11shared_nullE
+_ZN12QMapDataBase18recalcMostLeftNodeEv
+_ZN11QDataStreamlsEi
+_ZN11QDataStreamrsERi
+_ZlsR11QDataStreamRK7QString
+_ZN7QObject16staticMetaObjectE
+_ZN11QTextStreamlsEc
+_Jv_RegisterClasses
+_ZN11QDataStreamD1Ev
+_ZN7QObjectC2EPS_
+_ZN12QMapDataBase8freeTreeEP12QMapNodeBasei
+_ZN7QString15fromUtf8_helperEPKci
+_ZN7QObject7connectEPKS_PKcS1_S3_N2Qt14ConnectionTypeE
+_ZlsR11QDataStreamRK8QVariant
+_ZN7QObject11qt_metacastEPKc
+_ZN10QArrayData10deallocateEPS_mm
+_ZN15QSocketNotifier10setEnabledEb
+_ZN11QMetaObject14normalizedTypeEPKc
+_ZN9QMetaType22registerNormalizedTypeERK10QByteArrayPFvPvEPFS3_PKvES5_PFS3_S3_S7_Ei6QFlagsINS_8TypeFlagEEPK11QMetaObject
+_ZN11QTextStreamlsERK7QString
+_ZN12QMapDataBase10createNodeEiiP12QMapNodeBaseb
+_ZNK12QMapNodeBase8nextNodeEv
+_ZN7QObjectD2Ev
+_ITM_deregisterTMCloneTable
+_ZN7QObject13connectNotifyERK11QMetaMethod
+_ZN7QObject5eventEP6QEvent
+_ZN11QDataStreamC1EP9QIODevice
+_ZN11QMetaObject10ConnectionD1Ev
+__gmon_start__
+_ITM_registerTMCloneTable
+_ZN12QMapDataBase10createDataEv
+_ZNK14QMessageLogger8criticalEv
+_ZN6SignOn13BlobIOHandler11receiveDataEi
+_ZN6SignOn13BlobIOHandler28setReadChannelSocketNotifierEP15QSocketNotifier
+_fini
+_ZN6SignOn13BlobIOHandler8sendDataERK4QMapI7QString8QVariantE
+_ZN4QMapI7QString8QVariantE13detach_helperEv
+Tacocat
+_ZNK8QMapNodeI7QString8QVariantE4copyEP8QMapDataIS0_S1_E
+_ZN6SignOn13BlobIOHandlerC1EP9QIODeviceS2_P7QObject
+_ZN8QMapNodeI7QString8QVariantE14destroySubTreeEv
+_init
+libsignon-plugins.so.1
+_ZN17QtMetaTypePrivate23QMetaTypeFunctionHelperIN6SignOn11SessionDataELb1EE9ConstructEPvPKv
+_Z17qRegisterMetaTypeIN6SignOn5ErrorEEiPKcPT_N9QtPrivate21MetaTypeDefinedHelperIS4_Xaasr12QMetaTypeId2IS4_E7DefinedntsrS9_9IsBuiltInEE11DefinedTypeE
+_ZN17QtMetaTypePrivate23QMetaTypeFunctionHelperIN6SignOn5ErrorELb1EE6CreateEPKv
+_ZTVN6SignOn5ErrorE
+_ZN17QtMetaTypePrivate23QMetaTypeFunctionHelperIN6SignOn13UiSessionDataELb1EE6CreateEPKv
+_ZN6SignOn5ErrorD1Ev
+_ZN19AuthPluginInterface5abortEv
+_ZN17QtMetaTypePrivate23QMetaTypeFunctionHelperIN6SignOn5ErrorELb1EE6DeleteEPv
+_ZZN11QMetaTypeIdIN6SignOn13UiSessionDataEE14qt_metatype_idEvE11metatype_id
+_ZN19AuthPluginInterface18userActionFinishedERKN6SignOn13UiSessionDataE
+_ZZN11QMetaTypeIdIN6SignOn5ErrorEE14qt_metatype_idEvE11metatype_id
+_ZN17QtMetaTypePrivate23QMetaTypeFunctionHelperIN6SignOn11SessionDataELb1EE8DestructEPv
+_ZN17QtMetaTypePrivate23QMetaTypeFunctionHelperIN6SignOn5ErrorELb1EE8DestructEPv
+_ZN6SignOn5ErrorD2Ev
+_ZN17QtMetaTypePrivate23QMetaTypeFunctionHelperIN6SignOn13UiSessionDataELb1EE6DeleteEPv
+_ZN19AuthPluginInterface7refreshERKN6SignOn13UiSessionDataE
+_ZN17QtMetaTypePrivate23QMetaTypeFunctionHelperIN6SignOn13UiSessionDataELb1EE8DestructEPv
+_ZZN11QMetaTypeIdIN6SignOn11SessionDataEE14qt_metatype_idEvE11metatype_id
+_ZN6SignOn5ErrorD0Ev
+_ZN19AuthPluginInterface9refreshedERKN6SignOn13UiSessionDataE
+_ZN17QtMetaTypePrivate23QMetaTypeFunctionHelperIN6SignOn13UiSessionDataELb1EE9ConstructEPvPKv
+_ZN17QtMetaTypePrivate23QMetaTypeFunctionHelperIN6SignOn5ErrorELb1EE9ConstructEPvPKv
+_ZN17QtMetaTypePrivate23QMetaTypeFunctionHelperIN6SignOn11SessionDataELb1EE6CreateEPKv
+_ZN17QtMetaTypePrivate23QMetaTypeFunctionHelperIN6SignOn11SessionDataELb1EE6DeleteEPv
+libproxy.so.1
+px_proxy_factory_new
+px_proxy_factory_free
+px_proxy_factory_get_proxies
+libQt5Network.so.5
+_ZN9QListData7disposeEPNS_4DataE
+_ZN7QString17fromLatin1_helperEPKci
+_ZN9QListData11shared_nullE
+_ZNK7QString3argERKS_i5QChar
+_ZN9QListData6detachEi
+_ZN7QString11reallocDataEjb
+_ZN9QListData11detach_growEPii
+_ZN9QListData6appendEv
+_ZeqRK7QStringS1_
+_ZNK7QStringeqE13QLatin1String
+_ZN6QTimer10singleShotEiPK7QObjectPKc
+_ZN7QString6appendERKS_
+_ZNK7QString5toIntEPbi
+_ZN4QUrlC1ERKS_
+_ZN4QUrlC1Ev
+_ZN10QByteArrayC1EPKci
+_ZNK4QUrl9toEncodedE12QUrlTwoFlagsINS_19UrlFormattingOptionENS_25ComponentFormattingOptionEE
+_ZN4QUrlD1Ev
+_ZNK4QUrl6schemeEv
+_ZN9QListData7reallocEi
+_ZNK4QUrl4portEi
+_ZNK4QUrl8userNameE6QFlagsINS_25ComponentFormattingOptionEE
+_ZNK4QUrl8passwordE6QFlagsINS_25ComponentFormattingOptionEE
+_ZN11QTextStreamlsEj
+_ZN4QUrl9setSchemeERK7QString
+_ZN4QUrl7setHostERK7QStringNS_11ParsingModeE
+_ZN4QUrl7setPortEi
+_ZN7QObject9setParentEPS_
+_ZN7QThread4quitEv
+Degas are we not drawn onward no In union drawn onward to new eras aged
+_ZN7QThread4waitEm
+_ZNK7QThread10isFinishedEv
+_ZNK4QUrl4hostE6QFlagsINS_25ComponentFormattingOptionEE
+_ZN5QFileC1Ev
+_ZN5QFileD1Ev
+_ZN11QFileDevice5flushEv
+_ZN4QUrl11fromEncodedERK10QByteArrayNS_11ParsingModeE
+_ZN7QString16fromAscii_helperEPKci
+_ZN7QThread5startENS_8PriorityE
+_ZN10QEventLoopC1EP7QObject
+_ZN10QEventLoop4execE6QFlagsINS_17ProcessEventsFlagEE
+_ZN10QEventLoopD1Ev
+_ZN11QDataStreamC1ERK10QByteArray
+_ZN8QLibrary4loadEv
+_ZN8QLibrary7resolveEPKc
+_ZN8QLibraryD1Ev
+_Z7qgetenvPKc
+_ZN15QSocketNotifierC1ExNS_4TypeEP7QObject
+_ZN4QDir9cleanPathERK7QString
+_ZN20QNetworkProxyFactoryC2Ev
+_ZN20QNetworkProxyFactory26setApplicationProxyFactoryEPS_
+_ZN13QNetworkProxyC1ERKS_
+_ZNK18QNetworkProxyQuery12peerHostNameEv
+_ZNK13QNetworkProxy12capabilitiesEv
+_ZNK18QNetworkProxyQuery8peerPortEv
+_ZN13QNetworkProxyD1Ev
+_ZNK18QNetworkProxyQuery3urlEv
+_ZNK18QNetworkProxyQuery9queryTypeEv
+_ZN20QNetworkProxyFactoryD2Ev
+_ZN13QNetworkProxyC1ENS_9ProxyTypeERK7QStringtS3_S3_
+libQt5Core.so.5
+_ZNK8QLibrary11errorStringEv
+_ZN4QDir9separatorEv
+_ZN16QCoreApplication9argumentsEv
+_Z18qInstallMsgHandlerPFv9QtMsgTypePKcE
+_ZN8QVariantC1ERK11QStringList
+_ZN16QCoreApplicationD1Ev
+_ZN7QThreadC2EP7QObject
+_ZN11QTextStreamlsEPKv
+_ZNK7QThread9isRunningEv
+_ZN7QThread18yieldCurrentThreadEv
+_ZN16QCoreApplicationC1ERiPPci
+_ZN8QLibraryC1ERK7QStringP7QObject
+_ZN7QThreadD2Ev
+_ZN7QThread11qt_metacastEPKc
+_ZN7QThread4execEv
+_ZN7QThread9terminateEv
+_ZN7QThread16staticMetaObjectE
+_ZN7QThread5eventEP6QEvent
+_ZN7QThread11qt_metacallEN11QMetaObject4CallEiPPv
+_ZN16QCoreApplication4execEv
+_ZN5QFile4openEi6QFlagsIN9QIODevice12OpenModeFlagEES0_IN11QFileDevice14FileHandleFlagEE
+libpthread.so.0
+read
+fcntl
+libstdc++.so.6
+_ZdlPv
+__cxa_guard_release
+_Znwm
+__cxa_guard_acquire
+libc.so.6
+fflush
+__stack_chk_fail
+stdin
+strlen
+__cxa_atexit
+openlog
+__syslog_chk
+__fprintf_chk
+stdout
+fileno
+usleep
+strcmp
+__libc_start_main
+closelog
+_edata
+__bss_start
+_end
+GLIBCXX_3.4
+CXXABI_1.3
+GLIBC_2.2.5
+GLIBC_2.3.4
+GLIBC_2.4
+AWAV
+AUATI
+l$0dH
+D$h1
+t$@H
+D$XH
+A Santa lives evil at NASA
+l$@L
+D$@HcP
+|$@A
+t$ H
+D$XH
+$tYH
+L$hdH3
+x[]A\A]A^A_
+\$ H
+D$XH
+ATUH
+SHcW
+D$H1
+t$ H
+D$8H
+L$HdH3
+AWAVA
+AUATI
+D$H1
+\$ H
+D$8H
+D$HdH3
+X[]A\A]A^A_
+AWAVH
+AUATI
+l$@dH
+D$H1
+|$@1
+|$@I
+$Hcz
+T$ v
+\$HdH3
+X[]A\A]A^A_
+|$@L
+D$81
+D$8dH3
+D$81
+D$8dH3
+D$81
+D$8dH3
+D$81
+D$8dH3
+AWAVAUATUSH
+D$X1
+D$XdH3
+h[]A\A]A^A_
+t$0H
+D$HH
+|$0H
+D$HH
+t$0H
+D$HH
+t$0H
+D$HH
+AVAUATUI
+l$0dH
+D$x1
+l$PH
+\$ E
+D$xdH3
+[]A\A]A^
+|$ f
+AWAVAUATUSH
+D$H1
+D$8H
+D$8H
+L$HdH3
+X[]A\A]A^A_
+ATUSH
+[]A\
+AVAU
+ATUI
+l$ H
+t$`L
+D$xH
+|$ L
+[]A\A]A^
+\$0H
+t$`H
+D$xH
+|$0H
+|$0f.
+ATUH
+w(SH
+\$ L
+D$H1
+D$HdH3
+Beeb
+P[]A\
+AVAUH
+ATUSH
+D$x1
+t$PL
+D$hH
+D$xdH3
+[]A\A]A^
+t$PL
+D$hH
+AUATI
+t$8L
+([]A\A]
+AWAVAUATI
+D$pH
+|$`H
+|$`H
+D$`H
+D$`H
+l$@H
+D$hI
+|$0H
+[]A\A]A^A_
+D$hH
+|$0H
+|$0L
+|$0t$H
+D$/H
+D$/H
+|$0L
+D$`HcP
+d$`H
+D$pH
+AWAVH
+AUATH
+(USI
+L$pH
+|$ H
+D$0H
+D$`H
+D$`H
+l$`H
+|$0L
+d$@H
+D$hI
+|$0L
+D$ L
+[]A\A]A^A_
+D$hH
+|$0H
+|$0H
+alula
+|$0t$H
+D$/H
+D$/H
+|$0H
+D$`HcP
+AWAVAUATI
+L$pH
+D$0H
+D$`H
+D$`H
+d$`H
+t$0L
+God A red nugget A fat egg under a dog
+l$@H
+D$hI
+|$0H
+D$ L
+[]A\A]A^A_
+D$hH
+|$0H
+|$0L
+|$0t$H
+D$/H
+D$/H
+|$0L
+D$`HcP
+AWAVAUATI
+D$pH
+|$`H
+|$`H
+D$`H
+D$`H
+l$@H
+D$hI
+|$0H
+[]A\A]A^A_
+D$hH
+|$0H
+|$0L
+|$0t$H
+D$/H
+D$/H
+|$0L
+D$`HcP
+d$`H
+D$pH
+AWAVAUATUSH
+d$`H
+|$`L
+|$`L
+|$`L
+t$PH
+|$PL
+|$PL
+|$PL
+t$PH
+|$PL
+|$PL
+|$PL
+t$PH
+|$PL
+|$PL
+|$PL
+[]A\A]A^A_
+d$`H
+t$P1
+t$PL
+d$0L
+t$ L
+d$`1
+t$PL
+d$0L
+t$ L
+d$`1
+ATUI
+[]A\
+<$f.
+ATU1
+D$(1
+|$81
+=Ln 
+Do nine men interpret Nine men I nod
+D$(dH3
+0[]A\
+AWAVI
+AUATUSH
+D$H1
+d$ A
+D$8H
+D$8H
+l$0I
+|$0I
+D$HdH3
+X[]A\A]A^A_
+|$0f
+l$ tX
+l$ M
+l$ I
+l$ I
+l$ I
+l$ I
+St*H
+tKSH
+Eleele
+ATUH
+ []A\
+-}` 
+ATUH
+ []A\
+-Y_ 
+AUATUSHc
+;Lc\$
+Lc\$
+HcL$
+[]A\H
+ATUSH
+[]A\
+AUATI
+USE1
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+tkUSH
+AUATUSH
+[]A\A]
+[]A\A]
+ATUSH
+[]A\
+[]A\
+ATUI
+[]A\
+ATUH
+SHcW
+AWAVAUATI
+D$(1
+|$ H
+t$ H
+|$ I
+L$(dH3
+8[]A\A]A^A_
+T$ H
+AWAVAUATUSH
+|$0H
+|$`H
+D$`H
+T$`H
+D$pH
+T$PH
+D$pH
+H#D$
+L$H!
+D$0H
+[]A\A]A^A_
+|$0H
+H#D$ H
+H#D$(H
+H#D$@H
+|$0L
+\$8H
+|$0H
+D$pHcP
+|$PH
+t$8H
+|$PH
+t$8H
+5aG 
+AWAVLc
+AUATI
+$Hc|$
+tDf.
+$Hc|$
+$HcL$
+[]A\H
+A^A_
+AWAVLc
+AUATI
+$Hc|$
+tDf.
+$Hc|$
+u[IcU
+$HcL$
+[]A\H
+A^A_
+ATUSH
+	w?H
+[]A\
+tCUSH
+ATUI
+[]A\
+tCUSH
+ATUI
+[]A\
+tkUSH
+AUATUSH
+[]A\A]
+[]A\A]
+AUATUSH
+[]A\A]
+[]A\A]
+AWAVA
+AUATL
+%&/ 
+-&/ 
+[]A\A]A^A_
+SSO_DEBUG
+default
+handler:
+process started
+1quit()
+2processStopped()
+../../../../src/remotepluginprocess/main.cpp
+Type of plugin is not specified
+main
+SSO_PLUGINS_DIR
+plugin.so
+1startTask()
+2activated(int)
+Before the isFinished loop 
+Internal iteration 
+Cannot disable cancel thread
+error is sent
+cancel thread created
+1blobIOError()
+2error()
+1cancel()
+ unknown operation code: 
+operation is completed
+SignOn::SessionData
+QString
+SignOn::Error
+ loading auth library for 
+library loaded
+auth_plugin_instance
+constructor resolved
+1error(const SignOn::Error &)
+2error(const SignOn::Error &)
+plugin is fully initialized
+2started()
+The cancel thread is started
+Wrong operation code.
+../../../../src/remotepluginprocess/remotepluginprocess.cpp
+/usr/lib/x86_64-linux-gnu/signon
+Cannot do anything with cancel thread
+1sessionDataReceived(const QVariantMap &)
+2dataReceived(const QVariantMap &)
+Cannot read from cancel socket
+wrong operation code: breakage of remotepluginprocess threads synchronization: 
+Failed to I/O session data to/from the signon daemon.
+Failed to load %1 (reason: %2)
+Failed to resolve init function in %1 (reason: %2)
+com.nokia.SingleSignOn.PluginInterface/1.3
+Failed to cast object for %1 type
+1result(const SignOn::SessionData&)
+2result(const SignOn::SessionData&)
+1store(const SignOn::SessionData&)
+2store(const SignOn::SessionData&)
+1userActionRequired(const SignOn::UiSessionData&)
+2userActionRequired(const SignOn::UiSessionData&)
+1refreshed(const SignOn::UiSessionData&)
+2refreshed(const SignOn::UiSessionData&)
+1statusChanged(const AuthPluginState, const QString&)
+2statusChanged(const AuthPluginState, const QString&)
+Plugin process - invalid operation code.
+startTask
+disableCancelThread
+sessionDataReceived
+statusChanged
+refreshed
+Borrow or rob
+userActionRequired
+error
+setupProxySettings
+setupDataStreams
+loadPlugin
+http
+socks
+socks5
+direct
+SignOn::UiSessionData
+RemotePluginProcessNS::RemotePluginProcess
+processStopped
+startTask
+sessionDataReceived
+sessionDataMap
+result
+SignOn::SessionData
+data
+store
+error
+SignOn::Error
+userActionRequired
+SignOn::UiSessionData
+refreshed
+statusChanged
+AuthPluginState
+state
+message
+blobIOError
+RemotePluginProcessNS::CancelEventThread
+cancel
+;*3$"
+fba94a5a2a145f36e2fadb0114606019eda462.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.data.rel.ro
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

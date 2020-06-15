@@ -1,0 +1,2508 @@
+/lib/ld-linux.so.2
+/usr/local/cpanel/perl/libperl.so
+Perl_pregcomp
+perl_free
+perl_parse
+PL_perl_destruct_level
+__gmon_start__
+_Jv_RegisterClasses
+PL_curpad
+Perl_save_int
+_fini
+perl_run
+Perl_gv_fetchpv
+PL_amagic_generation
+Perl_gp_free
+Perl_sv_setpv
+PL_main_start
+Perl_free_tmps
+Perl_hv_store
+PL_compcv
+PL_stack_sp
+perl_alloc
+PL_cshlen
+Perl_savepvn
+PL_markstack_max
+Perl_malloc
+PL_markstack_ptr
+perl_construct
+Perl_av_extend
+Perl_av_store
+PL_main_root
+Perl_sv_setpvn
+Perl_gv_fetchfile
+PL_sv_undef
+Perl_stack_grow
+Perl_sv_newmortal
+perl_destruct
+PL_tmps_floor
+Perl_mg_set
+PL_initav
+Perl_get_cv
+PL_op_desc
+PL_cshname
+PL_do_undump
+PL_tmps_ix
+PL_stack_max
+Perl_gv_stashpv
+Perl_newXS
+PL_ppaddr
+PL_op_name
+PL_main_cv
+PL_incgv
+Perl_markstack_grow
+PL_stack_base
+_init
+Perl_sv_magic
+/usr/local/cpanel/perl/Cpanel/POSIX/Tiny/Tiny.so
+boot_Cpanel__POSIX__Tiny
+/usr/local/cpanel/perl/Fcntl/Fcntl.so
+boot_Fcntl
+/usr/local/cpanel/perl/Storable/Storable.so
+/usr/local/cpanel/perl/IO/IO.so
+boot_IO
+libnsl.so.1
+libdl.so.2
+libm.so.6
+libc.so.6
+exit
+_IO_stdin_used
+__libc_start_main
+strlen
+libcrypt.so.1
+libutil.so.1
+Perl_croak
+Perl_sv_2pv
+Perl_form
+Perl_get_sv
+strcmp
+getenv
+atoi
+PL_sv_yes
+PL_op
+PL_na
+Perl_sv_2iv
+Perl_newRV
+Perl_sv_2mortal
+Perl_vmess
+Perl_realloc
+strncpy
+dlsym
+dlerror
+Perl_sv_setiv
+dlclose
+dlopen
+_edata
+__bss_start
+_end
+/usr/local/cpanel/lib
+GLIBC_2.1
+GLIBC_2.0
+PTRh<
+$w 	
+$@"	
+$'#	
+$P#	
+$@%	
+$ &	
+$~&	
+$J&	
+$k%	
+$4*	
+$`*	
+$I,	
+$(-	
+$9-	
+$Y-	
+$k-	
+$z-	
+$Q.	
+$`.	
+$&1	
+$61	
+$J1	
+$[1	
+$q1	
+$-2	
+$<2	
+$Z2	
+$g2	
+$k2	
+$z2	
+$~2	
+$S2	
+$%3	
+$<3	
+$L3	
+$x3	
+$'4	
+$44	
+$;4	
+$Q4	
+$_4	
+$j4	
+$"5	
+$B5	
+$B5	
+$W5	
+$16	
+$a6	
+$/8	
+$>9	
+$F9	
+$W9	
+$);	
+$Q;	
+$Q;	
+$d;	
+$2<	
+$`<	
+$$=	
+$,=	
+$Y=	
+$m=	
+$8>	
+$8>	
+$J>	
+$.@	
+$c@	
+$	A	
+$pA	
+$dB	
+$yB	
+$yB	
+$<C	
+$[C	
+$cC	
+$$D	
+$6D	
+$GD	
+$\D	
+$qD	
+$%0	
+`AgL
+$lI	
+$lI	
+$(J	
+$(J	
+$?J	
+$KJ	
+$UJ	
+$|J	
+$"K	
+$%K	
+$8K	
+$SK	
+$bK	
+$ L	
+$YL	
+$4M	
+$TM	
+$!N	
+$0N	
+$1O	
+$EO	
+$QO	
+$+P	
+$IP	
+$gP	
+$pP	
+$yP	
+$iQ	
+$~Q	
+$$T	
+$;U	
+$PU	
+$fU	
+$"V	
+$'V	
+$@V	
+$@W	
+$bW	
+$ X	
+$$Z	
+$]Z	
+$ \	
+$@\	
+$l]	
+$'_	
+$@_	
+$d_	
+$$`	
+$;`	
+$``	
+$ a	
+$Ya	
+$ b	
+$`b	
+$ c	
+$`c	
+$@d	
+$@e	
+$!f	
+$mf	
+$ g	
+$@g	
+$]g	
+$xg	
+$xg	
+$'h	
+$'h	
+$Ah	
+$Ah	
+$^h	
+$^h	
+$xh	
+$xh	
+$0i	
+$ai	
+$"j	
+$"j	
+$@j	
+$@k	
+$ l	
+$`l	
+$ m	
+$`m	
+$!n	
+$Gn	
+$an	
+$yn	
+$%o	
+$Do	
+$Ap	
+$kp	
+$@q	
+$pq	
+$@r	
+$cr	
+$"s	
+$3t	
+$Lt	
+$kt	
+$(u	
+$8u	
+$]u	
+$.v	
+$>v	
+$Ov	
+$bv	
+$rv	
+$*w	
+$:w	
+$Iw	
+$Xw	
+$hw	
+$xw	
+$"x	
+$2x	
+$Ax	
+$Qx	
+$`x	
+$ox	
+$}x	
+$'y	
+$5y	
+$Dy	
+$Qy	
+$`y	
+$ty	
+$-z	
+$<z	
+$Kz	
+$[z	
+$lz	
+${z	
+$.{	
+$@{	
+$O{	
+$_{	
+$90	
+$2|	
+$B|	
+$Q|	
+$c|	
+$x|	
+$/}	
+$D}	
+$R}	
+$e}	
+$r}	
+$~}	
+$k%	
+$J&	
+$S2	
+$44	
+$j4	
+$"5	
+$bW	
+WShx
+u)Ph{
+RRPh
+SVPRQh
+[^_]
+C	@t
+[^_]
+[^_]
+QQPR
+QQSV
+RRPh
+[^_]
+RRPh
+C	@t
+[^_]
+SSPh
+[^_]
+WAIT
+234567890
+0000000000
+5.562
+1.15
+1.26
+5.58
+48361
+1283372683
+1.02
+1.03
+suspendedpage.cgi.pl.c
+DynaLoader::boot_DynaLoader
+Fcntl
+Cpanel::POSIX::Tiny
+Usage: DynaLoader::dl_undef_symbols()
+XS_VERSION
+%s::%s
+1.04
+bootstrap parameter
+%s object version %s does not match %s%s%s%s %_
+DynaLoader.c
+DynaLoader::dl_load_file
+DynaLoader::dl_unload_file
+DynaLoader::dl_find_symbol
+DynaLoader::dl_undef_symbols
+DynaLoader::dl_install_xsub
+DynaLoader::dl_error
+PERL_DL_NONLAZY
+Usage: DynaLoader::dl_error()
+Usage: DynaLoader::dl_install_xsub(perl_name, symref, filename="$Package")
+DynaLoader
+Usage: DynaLoader::dl_find_symbol(libhandle, symbolname)
+Usage: DynaLoader::dl_unload_file(libref)
+Usage: DynaLoader::dl_load_file(filename, flags=0)
+cgi-sys/suspendedpage.cgi
+main
+main::ARGV
+--bincheck
+BinCheck ok
+Content-type: text/html
+main::ENV
+SERVER_NAME
+Cpanel::AcctUtils::SiteOwner::get_site_owner
+/usr/local/cpanel/Cpanel/AcctUtils/SiteOwner.pm
+Cpanel::AcctUtils::SiteOwner
+main::_
+^www\.
+/etc/userdomains
+Cpanel::AcctUtils::DomainOwnerCache::cachedomainowners
+/usr/local/cpanel/Cpanel/AcctUtils/DomainOwnerCache.pm
+Cpanel::AcctUtils::DomainOwnerCache
+Cpanel::AcctUtils::DomainOwner::DOMAINOWNERCACHE
+/usr/local/cpanel/Cpanel/AcctUtils/DomainOwner.pm
+Cpanel::Config::LoadUserDomains::loaduserdomains
+/usr/local/cpanel/Cpanel/Config/LoadUserDomains.pm
+Cpanel::Config::LoadUserDomains
+\s*[:]\s*
+^\s*[#]
+use_reverse
+skip_keys
+nobody
+use_hash_of_arr_refs
+Cpanel::Config::LoadConfig::loadConfig
+/usr/local/cpanel/Cpanel/Config/LoadConfig.pm
+Cpanel::Config::LoadConfig
+^\s*[#;]
+main::>
+Cpanel::Logger
+loadConfig requires valid filename
+warn
+skip_readable_check
+Unable to read 
+, permission denied
+info
+loadConfig: undefined non-reference argument encountered where reference expected when loading: 
+Cpanel::Config::LoadConfig::_hashify_ref
+HASH
+hashifying non-HASH reference
+Cpanel::Logger::cplog
+Cpanel/Logger.pm
+message
+level
+service
+output
+backtrace
+Cpanel::Logger::logger
+Cpanel::Logger::__Logger_pushback
+^Cpanel::Logger
+@list
+$self
+Something is wrong
+find_progname
+Cpanel::Time::localtime2timestamp
+Cpanel/Time.pm
+Cpanel::Time
+%+03d%02d
+%04d-%02d-%02d
+%02d:%02d:%02d %s
+$time
+$delimiter
+$localtimecacheref
+$sec
+$min
+$hour
+$mday
+$mon
+$year
+$gmmin
+$gmhour
+$gmday
+$gmoffset
+alternate_logfile
+main::STDERR
+panic
+invalid
+/usr/local/cpanel/logs/panic_log
+main::STDOUT
+exit level [
+$usingstderr
+$logfile
+$std_log_file
+$log_fh
+$panic_fh
+$out
+/usr/local/cpanel/logs/error_log
+$msg
+$loglevel
+$service
+$nostdout
+defined value encountered where reference expected
+$conf_ref
+limit
+/var/cpanel/configs.cache
+main::INC
+/usr/local/cpanel
+/usr/local/cpanel/build-tools/stubs
+/usr/lib/perl5/C214
+/usr/lib/perl5/5.6.2/i686-linux
+/usr/lib/perl5/5.6.2
+/usr/lib/perl5/site_perl/5.6.2/i686-linux
+/usr/lib/perl5/site_perl/5.6.2
+/usr/lib/perl5/site_perl
+/usr/lib/perl5/5.6.2/Carp.pm
+/usr/lib/perl5/5.6.2/Exporter.pm
+/usr/local/cpanel/Cpanel/CPAN/Sys/Hostname/Long.pm
+/usr/local/cpanel/Cpanel/StringFunc/Trim.pm
+/usr/lib/perl5/5.6.2/FileHandle.pm
+/usr/local/cpanel/Cpanel/Template/Files.pm
+/usr/lib/perl5/5.6.2/SelectSaver.pm
+/usr/lib/perl5/5.6.2/i686-linux/IO.pm
+/usr/local/cpanel/Cpanel/Debug.pm
+/usr/local/cpanel/Cpanel/AcctUtils/GetHomeDir.pm
+/usr/local/cpanel/Cpanel/Sys/GetOS.pm
+/usr/local/cpanel/Cpanel/Hash.pm
+/usr/local/cpanel/build-tools/stubs/strict.pm
+/usr/lib/perl5/5.6.2/base.pm
+/usr/local/cpanel/build-tools/stubs/Config.pm
+/usr/local/cpanel/Cpanel/Sys/Hostname.pm
+/usr/lib/perl5/5.6.2/i686-linux/IO/File.pm
+/usr/lib/perl5/site_perl/5.6.2/i686-linux/Cpanel/POSIX/Tiny.pm
+/usr/local/cpanel/Cpanel/Template/Simple.pm
+Cpanel/LoadFile.pm
+/usr/local/cpanel/Cpanel/FileLookup.pm
+Cpanel/Version.pm
+/usr/lib/perl5/5.6.2/i686-linux/O.pm
+/usr/local/cpanel/Cpanel/Config/LoadCpUserFile.pm
+/usr/local/cpanel/Cpanel/PwCache.pm
+/usr/lib/perl5/5.6.2/i686-linux/XSLoader.pm
+/usr/lib/perl5/site_perl/5.6.2/i686-linux/auto/Cpanel/POSIX/Tiny/autosplit.ix
+/usr/lib/perl5/C214/B/C.pm
+/usr/lib/perl5/5.6.2/Symbol.pm
+/usr/lib/perl5/5.6.2/Exporter/Heavy.pm
+/usr/lib/perl5/5.6.2/i686-linux/B.pm
+/usr/local/cpanel/Cpanel/CgiSys.pm
+/usr/local/cpanel/Cpanel/SafeRun/Simple.pm
+/usr/local/cpanel/Cpanel/OSSys.pm
+/usr/local/cpanel/Cpanel/SafeFile.pm
+/usr/local/cpanel/build-tools/stubs/warnings.pm
+/usr/local/cpanel/Cpanel/WebTemplates.pm
+/usr/local/cpanel/Cpanel/StringFunc/Case.pm
+/usr/lib/perl5/5.6.2/i686-linux/IO/Handle.pm
+/usr/local/cpanel/Cpanel/AcctUtils/Owner.pm
+/usr/lib/perl5/5.6.2/i686-linux/B/Asmdata.pm
+/usr/lib/perl5/5.6.2/i686-linux/Fcntl.pm
+/usr/lib/perl5/5.6.2/AutoLoader.pm
+/usr/lib/perl5/5.6.2/i686-linux/IO/Seekable.pm
+/usr/local/cpanel/Cpanel/DomainTools.pm
+Carp.pm
+Exporter.pm
+Cpanel/CPAN/Sys/Hostname/Long.pm
+Cpanel/Config/LoadConfig.pm
+Cpanel/StringFunc/Trim.pm
+FileHandle.pm
+Cpanel/Template/Files.pm
+SelectSaver.pm
+IO.pm
+Cpanel/Debug.pm
+Cpanel/AcctUtils/GetHomeDir.pm
+Cpanel/AcctUtils/DomainOwnerCache.pm
+Cpanel/Sys/GetOS.pm
+Cpanel/Hash.pm
+strict.pm
+base.pm
+Config.pm
+Cpanel/AcctUtils/SiteOwner.pm
+Cpanel/Sys/Hostname.pm
+IO/File.pm
+Cpanel/POSIX/Tiny.pm
+Cpanel/Template/Simple.pm
+Cpanel/FileLookup.pm
+O.pm
+Cpanel/Config/LoadCpUserFile.pm
+Cpanel/PwCache.pm
+XSLoader.pm
+B/C.pm
+Symbol.pm
+Exporter/Heavy.pm
+B.pm
+Cpanel/CgiSys.pm
+Cpanel/SafeRun/Simple.pm
+Cpanel/OSSys.pm
+Cpanel/SafeFile.pm
+warnings.pm
+Cpanel/WebTemplates.pm
+Cpanel/AcctUtils/DomainOwner.pm
+Cpanel/Config/LoadUserDomains.pm
+Cpanel/StringFunc/Case.pm
+IO/Handle.pm
+Cpanel/AcctUtils/Owner.pm
+B/Asmdata.pm
+Fcntl.pm
+AutoLoader.pm
+IO/Seekable.pm
+Cpanel/DomainTools.pm
+Storable.pm
+nocache
+Cpanel::Config::LoadConfig::_sorted_hashref_txt
+_____
+ARRAY
+$hashref
+Cpanel::Debug::level
+::loadConfig stringified_args[
+Cpanel::Hash::get_fastest_hash
+Cpanel::Hash
+Digest/MD5.pm
+$hashed_data = Digest::MD5::md5_hex($data_to_hash);
+Cpanel/CPAN/Digest/Perl/MD5.pm
+$hashed_data = Cpanel::CPAN::Digest::Perl::MD5::md5_hex($data_to_hash);
+/scripts
+local $SIG{__DIE__}; local $SIG{__WARN__}; require Cpanel::CPAN::Digest::Perl::MD5;
+Crypt/PasswdMD5/XS.pm
+ABCDEFGHI
+JKLMNOPQR
+STUVWXYZ1
+abcdefghi
+jklmnopqr
+rstuvwxyz
+!@#$%^&*(
+)-=+_;{}[
+($new_data) .= Crypt::PasswdMD5::XS::unix_md5_crypt($data_to_hash,$salt);
+^\$1\$[^\$]+\$
+[^a-f0-9]
+require Digest::MD5;
+Carp::confess("Failed to generate hash");
+Failed to generate hash: 
+main::@
+Failed to generate hash
+$data_to_hash
+$hashed_data
+@predefsalt
+$salt
+$new_data
+::loadConfig file:
+, cache_file:
+, cache_filesys_mtime:
+ , filesys_mtime: 
+ , now : 
+local $SIG{__DIE__}; local $SIG{__WARN__}; $cache_conf_ref = Storable::pretrieve($cache_fh);
+Cpanel::Config::LoadConfig::CONF
+FileHandle
+Cpanel::SafeFile::safeopen
+Cpanel::SafeFile
+Cpanel::SafeFile::_get_open_args
+^([<>+|]+|)(.*)
+$arg1
+$arg2
+$mode
+$file
+Invalid arguments
+Cpanel::SafeFile::safelock
+safelock: Invalid arguments
+/var/cpanel/safefile_verbose
+main::0
+ - waiting for lockfile
+Cpanel::SafeFile::_lock_wait
+.lock
+^[><]*
+Invalid lockfile 
+ detected (zero size) [UID]: 
+ [MTIME]: 
+Stale lock file: 
+. Age is 
+ (mtime=
+) which is longer then waittime (
+Cpanel::SafeFile::_proc_is_usable
+/proc/1
+Cpanel::SafeFile::_fetch_lockfile_info
+unknown
+(\d+)
+main::1
+$lockfile
+$lock_pid
+$lock_name
+$lockfile_fh
+$pid_line
+main::$
+] Waiting on invalid lock 
+ for 
+ seconds
+] Double locking detected on 
+ by self (
+] Waiting for lock on 
+ held by 
+ with pid 
+Cpanel::SafeFile::_is_valid_pid
+$pid
+/proc/
+] Lock file 
+ now gone, try to acquire
+] Removing expired lock file 
+Lock file 
+ expired
+$fileuid
+$locksize
+$start_lockfile_mtime
+$logger
+$waittime
+$lock_file_age
+$verbose
+$lock_is_our_uid
+$proc_is_usable
+$seconds_waiting
+$mtime
+accumulator_on
+container
+cloned
+Fcntl::O_WRONLY
+B::C
+Fcntl::O_EXCL
+Fcntl::O_CREAT
+Cpanel::SafeFile::_getdir
+@path
+safelock: waited for lock twice
+$lock_fh
+$lock_file_dir
+$second_lockfile
+main::SIG
+ALRM
+Cpanel::SafeFile::safeunlock
+safeunlock: Invalid arguments
+Lock 
+ lost!
+Invalid zero length lock file 
+ detected.
+] Attempt to unlock file that was locked by another process [LOCK] 
+ [LOCK PID] 
+ [LOCK PROCESS] 
+$lock
+could not get a lock
+$orig_alarm
+flock 2 timeout
+Cpanel::SafeFile::__ANON__
+main::/
+Cpanel::SafeFile::safeclose
+flock 8 timeout
+ %{$conf_ref}=(  %$conf_ref, map { (split(m/
+/, $_, 2))[0,1] } split(/\n/, $cfg_txt ) ); 
+Failed to parse :: 
+[slow parser used for 
+] LIMIT:[!
+] PRETREATLINE[!
+] USE_REVERSE[!
+] USE_HASH_OF_ARR_REFS[
+$parser_code_ref = sub { 
+LINELOOP:
+                foreach my $line (@dconf) {
+                    chomp $line; 
+next LINELOOP if ( $line =~ m/$comment/o );
+last if $keys++ == 
+$line =~ s/$pretreatline//go;
+( $value, $name ) = split( /$delimiter/, $line, 2 );
+( $name, $value ) = split( /$delimiter/, $line, 2 );
+ if ( !$name || !defined $value ) { next LINELOOP; } 
+ push @{ $conf_ref->{$name} }, $value; 
+ $conf_ref->{$name} = $value; 
+                }
+            };
+Failed to generate parser code :: 
+Unable to open 
+main::!
+Storable::lock_nstore( $conf_ref, $cache_file  );
+$hasargs
+$comment
+$pretreatline
+$usebadlines
+$arg_ref
+$use_reverse
+$use_hash_of_arr_refs
+$is_root
+$limit
+$cache_dir
+$cache_file
+$safefile
+$stringified_args
+$cache_key
+$filesys_mtime
+$cache_filesys_mtime
+$now
+$cache_conf_ref
+$cache_fh
+$conflock
+$cfg_txt
+$parser_code
+@dconf
+$keys
+$name
+$value
+$parser_code_ref
+%skip_key_list_ref
+$reverse
+$usearr
+default
+Cpanel::AcctUtils::DomainOwner::getdomainowner
+Cpanel::AcctUtils::DomainOwner
+Cpanel::FileLookup::FILELOOKUPCACHE
+cacheonly
+root
+skiptruelookup
+/etc/trueuserdomains
+Cpanel::FileLookup::_filelookup
+Cpanel::FileLookup
+initcache
+Cpanel::FileLookup::REVERSE_FILELOOKUPCACHE
+[\r\s]
+noreversecache
+nowwwcache
+www.
+$file_fh
+%OPTS
+$line
+Cpanel::FileLookup::
+$key
+$val
+$rkey
+$domain
+$opref
+Cpanel::AcctUtils::DomainOwner::
+/etc/valiases/
+Cpanel::AcctUtils::Owner::getowner
+Cpanel::AcctUtils::Owner
+cpanel
+Invalid user
+/etc/trueuserowners
+/var/cpanel/users/
+Cpanel::AcctUtils::Owner::build_trueuserowners_cache
+Cpanel::Config::LoadCpUserFile::loadcpuserfile
+Cpanel::Config::LoadCpUserFile
+Cpanel::Config::LoadCpUserFile::load
+Invalid username to loadcpuserfile.
+file
+/var/cpanel/users.cache/
+User file '
+' is empty or non-existent.
+load cPanel user file [
+debug
+__DIE__
+__WARN__
+Storable::pretrieve
+load cache hit user[
+] now[
+] mtime[
+] cache_mtime[
+MTIME
+load cache miss user[
+DOMAIN
+OWNER
+PLAN
+undefined
+FEATURELIST
+STARTDATE
+127.0.0.1
+HASCGI
+DEMO
+DOMAINS
+DEADDOMAINS
+BWLIMIT
+unlimited
+MAXADDON
+MAXFTP
+MAXLST
+MAXPARK
+MAXPOP
+MAXSQL
+MAXSUB
+USER
+Beeb
+Cpanel::Config::LoadCpUserFile::CPUCONF
+^\s*#
+\s*=
+ \A DNS \d+ \z 
+ \A XDNS \d+ \z 
+LOCALE
+LANG
+Cpanel/Locale/Utils/Legacy.pm
+Cpanel::Locale::Utils::Legacy::map_any_old_style_to_new_style
+english-utf8
+/var/cpanel/users.cache
+Fcntl::O_TRUNC
+Storable::nstore_fd
+$user
+$load_opts_ref
+$has_storable
+$user_file
+$user_cache_file
+$cpuid
+$cpgid
+$size
+$cache_mtime
+$conf_fh
+$cpuser_ref
+%cpuser
+%DOMAIN_MAP
+%DEAD_DOMAIN_MAP
+$usercache_fh
+Unable to access cPanel user file /var/cpanel/users/
+$owner
+$test_host
+@DNSPATH
+@SEARCHPATH
+Cpanel::Sys::Hostname::gethostname
+Cpanel::Sys::Hostname
+Cpanel::Sys::Hostname::cachedhostname
+Cpanel::Sys::Hostname::_gethostname
+/proc/sys/kernel/hostname
+skip_exists_check
+Cpanel::LoadFile::loadfile
+Cpanel::LoadFile
+Cpanel::LoadFile::_load_file
+binmode
+array_ref
+$lf_fh
+$data
+SCALAR
+$fileref
+Cpanel::CPAN::Sys::Hostname::Long::hostname_long
+Cpanel::CPAN::Sys::Hostname::Long
+Cpanel::CPAN::Sys::Hostname::Long::hostlong
+uname
+Cpanel::CPAN::Sys::Hostname::Long::dispatcher
+Cpanel::CPAN::Sys::Hostname::Long::lastdispatch
+Cpanel::CPAN::Sys::Hostname::Long::dispatch
+Execute "hostname"
+hostname
+$tmp
+Cpanel::CPAN::Sys::Hostname::Long::__ANON__
+description
+title
+exec
+POSIX::uname
+Cpanel::OSSys::uname
+Cpanel::OSSys
+@UNAME = 
+::uname();
+*Cpanel::OSSys::uname = *
+::uname;
+@UNAME
+$POSIX
+Cpanel::POSIX::Tiny
+LMachine/System/CurrentControlSet/Service/VxD/MSTCP/Domain
+WIN32 Registry
+				use Win32::TieRegistry ( TiedHash => '%RegistryHash' );
+				$RegistryHash{'LMachine'}{'System'}{'CurrentControlSet'}{'Services'}{'VxD'}{'MSTCP'}{'Domain'}; 
+Network Socket hostname (not DNS)
+				use IO::Socket;
+				my $s = IO::Socket::INET->new(
+					PeerAddr => '202.12.27.33',
+					PeerPort => 2000,
+					Proto => 'udp',
+				) or die "Faile socket - $!";
+				gethostbyaddr($s->sockaddr(), AF_INET);
+LMachine/System/CurrentControlSet/Services/VxD/MSTCP/Domain
+Network Socket IP then Hostname via DNS
+				use IO::Socket;
+				my $s = IO::Socket::INET->new(
+					PeerAddr => '202.12.27.33',
+					PeerPort => 2000,
+					Proto => 'udp',
+				) or die "Faile socket - $!";
+				$s->sockhost;
+Get Host by Name
+localhost
+Execute "hostname --fqdn"
+main::<
+su nobody -s /bin/sh -c "hostname --fqdn"
+hostname --fqdn
+Execute "hostname" and "domainname"
+domainname
+exec_hostname
+win32_registry1
+network
+win32_registry2
+gethostbyname
+exec_hostname_fqdn
+exec_hostname_domainname
+$method
+@rest
+Cpanel::CPAN::Sys::Hostname::Long::
+.*\..*
+main::
+MacOS
+IRIX
+cygwin
+MSWin32
+(bsd|nto)
+solaris
+Cpanel::CPAN::Sys::Hostname::Long - Last Dispatch method = 
+$debug
+Cpanel::Sys::Hostname::_get_host_domain_name_from_file
+Cpanel::Sys::GetOS::getos
+Cpanel::Sys::GetOS
+/etc/fedora-release
+fedora
+/etc/whitebox-release
+whitebox
+/etc/trustix-release
+trustix
+/etc/caos-release
+caos
+/etc/gentoo-release
+gentoo
+/etc/SuSE-release
+suse
+/etc/mandrake-release
+mandrake
+/etc/CentOS-release
+centos
+/etc/redhat-release
+redhat
+/etc/debian_version
+debian
+freebsd
+Unsupported operating system
+Cannot open /etc/redhat-release
+$cachedos
+$release_fh
+/etc/sysconfig/network
+HOSTNAME
+/etc/HOSTNAME
+^[a-z][a-z0-9-]*
+/etc/hostname
+/etc/dnsdomainname
+^[a-z0-9-\.]+
+/etc/rc.conf
+^\s*hostname\s*="([^"]+)"
+Cpanel::Sys::Hostname::logger
+Unable to fetch hostname from config for debian
+$hostname
+$domainname
+$conf_file
+$f_handle
+Cpanel::SafeRun::Simple::saferun
+Cpanel::SafeRun::Simple
+Cpanel::SafeRun::Simple::saferun_r
+(.*)
+PATH
+Error while executing: [
+@PROGA
+$output
+$prog_fh
+$ref
+Unable to determine correct hostname
+$filehostname
+$filedomainname
+$nocache
+Cpanel::Sys::Hostname::
+Could not determine user from environment
+Cpanel::CgiSys::valid_user
+Cpanel::CgiSys
+/var/cpanel/user_pw_cache/
+Cpanel::PwCache::load_pw_cache_file
+Cpanel::PwCache
+contents
+cachetime
+hcachetime
+$passwduid
+$passwdmtime
+$no_uidcheck
+$keepforever
+$pwdata_ref
+$pw_file_fh
+$pwdata
+$pwcache_ref
+Cpanel::PwCache::getpwuid
+Cpanel::PwCache::_pwfunc
+::_pwfunc cache tie (tied) value[
+] field[
+/etc/passwd
+/etc/master.passwd
+/etc/shadow
+::_pwfunc exists in cache value[
+::_pwfunc cache miss value[
+] pwkey[
+hpasswdmtime: 
+ != 
+passwdmtime: 
+::_pwfunc cache hit value[
+::_pwfunc cache miss pwkey[
+] value[
+] passwdmtime[
+] pwcacheistied[
+Degas are we not drawn onward no In union drawn onward to new eras aged
+] hpasswdmtime[
+Cpanel::PwCache::_getpwdata
+::_getpwdata called for myuid[
+Cpanel::PwCache::_readmasterpasswd
+Unable to open /etc/master.passwd: 
+Carp::cluck
+Carp
+Carp::longmess
+Carp/Heavy.pm
+Carp::longmess_heavy
+$field
+$shadowmtime
+$master_fh
+Cpanel::PwCache::_readpasswd
+^[A-Za-z0-9_.]
+$pwline
+$passwd_fh
+$match
+Cpanel::PwCache::_readshadow
+Unable to open /etc/shadow: 
+Entry for 
+ missing in /etc/shadow
+$shadow_fh
+$myuid
+$pwdatafunc
+$pwdatafuncuid
+$system
+linux
+$useipc
+$pwkey
+$pwcacheistied
+$pwcachetie
+$hpasswdmtime
+$skip_uid_cache
+$pwref
+$userpwcache_file
+$lookup_user
+Executing in an invalid environment for the supplied user
+Cpanel::user
+Cpanel::CPDATA
+cgi-sys/suspendedpage.cgi.pl
+Cpanel::appname
+suspended
+english
+data
+contactemail
+webmaster@
+protocol
+HTTPS
+https
+http
+Cpanel::WebTemplates::process_web_template
+Cpanel::WebTemplates
+Cpanel::WebTemplates::fetch_template_path
+.tmpl
+/var/cpanel/webtemplates/
+/var/cpanel/webtemplates
+nonexistant
+customonly
+nobackcompat
+/usr/local/apache/htdocs
+Cpanel::AcctUtils::GetHomeDir::gethomedir
+Cpanel::AcctUtils::GetHomeDir
+Missing user argument
+Cpanel::homedir
+Cpanel::PwCache::getpwnam
+%HOMEDIRCACHE
+/public_html/suspended.page/index.html
+/index_original.html
+/usr/local/cpanel/etc/webtemplates/
+/usr/local/cpanel/etc/webtemplates
+$template_name
+$language
+$base_path
+$template_path
+@PATHS
+$path
+$homedir
+template_file
+print
+webtemplates
+Cpanel::Template::Simple::process_template
+Cpanel::Template::Simple
+The template file must be given
+Template file not defined.
+Template file 
+ does not exist.
+branding
+Cpanel::Template::Files::get_branding_template_file
+Cpanel::Template::Files
+/usr/local/cpanel/whostmgr/docroot/themes/
+/branding/default/
+template
+Cpanel::Template::Files::tmpl_dir
+Tacocat
+/var/cpanel/templates
+Cpanel::Template::Files::tmpl_source_dir
+/usr/local/cpanel/src/templates
+$opts
+$branding_dir
+Cpanel::Template::Files::
+skip_local
+Cpanel::Template::Files::get_service_template_file
+/main.local
+/main.default
+Template file for 
+ not located
+local$
+'local' template in use (
+$skip_local
+$template_file
+\[%-?\s+
+\s+-?%\]
+Template Error: 
+$input_hr
+$options_hr
+$error
+$template_file_data
+$subkey
+$dataref
+$status
+$output_ref
+Exporter::require_version
+Exporter
+::VERSION
+(undef)
+ required--this is only version 
+Carp::croak
+Carp::shortmess
+Carp::shortmess_heavy
+$wanted
+$pkg
+$version
+Exporter::export_to_level
+Exporter::heavy_export_to_level
+export
+$level
+$callpkg
+Exporter::sym
+AutoLoader::EXPORT_FAIL
+Exporter::DESTROY
+AutoLoader::EXPORT
+Exporter::Verbose
+Exporter::TIEHANDLE
+Exporter::EXPORT
+Exporter::heavy_export
+::EXPORT
+Exporter::exports
+::EXPORT_OK
+^[/!:]
+::EXPORT_TAGS
+:DEFAULT
+DEFAULT
+" is not defined in %
+^/(.*)/$
+Import 
+main::"
+require_version
+" is not exported by the 
+ module
+Carp::carp
+Can't continue after import errors
+::EXPORT_FAIL
+Exporter::fail
+::EXPORT_FAIL cached: 
+export_fail
+" is not implemented by the 
+ module 
+on this architecture
+Importing into 
+ from 
+^(\W)
+Can't export symbol: 
+@imports
+$type
+$sym
+$oops
+$tagsref
+$tagdata
+%imports
+$remove
+$spec
+@names
+@allexports
+$patn
+@expanded
+@failed
+ at \S*Exporter\S*.pm line \d+.*\n
+Carp::CarpLevel
+$text
+Exporter::__ANON__
+^Unable to create sub named "(.*?)::"
+Illegal null symbol in @
+Fcntl
+Fcntl::EXPORT
+21/32
+Fcntl::EXPORT_FAIL
+B::C::O_WRONLY
+B::C::specialsv_name
+B::Asmdata::specialsv_name
+Exporter::export_ok_tags
+EXPORT_OK
+Exporter::_push_tags
+Exporter::export_tags
+EXPORT
+main::
+Some names are not tags
+$var
+$syms
+$nontag
+Exporter::TIEARRAY
+Exporter::Debug
+Exporter::TIESCALAR
+Exporter::import
+Exporter::ExportLevel
+Exporter::export
+$args
+AutoLoader
+128/256
+IO::Handle::EXPORT_OK
+Carp::EXPORT_OK
+B::C::carp
+Exporter::EXPORT_FAIL
+Exporter::new
+Exporter::VERSION
+Exporter::TIEHASH
+Exporter::export_fail
+Symbol::import
+Symbol::delete_package
+Symbol
+^main::.*::$
+^main::
+main::
+(.*::)(\w+::)$
+$stem
+$leaf
+$stem_symtab
+$leaf_symtab
+Symbol::qualify
+^([^a-z])|(\^[a-z])$
+%global
+STDOUT
+STDERR
+ARGVOUT
+STDIN
+ARGV
+Symbol::EXPORT_FAIL
+Symbol::qualify_to_ref
+Symbol::VERSION
+Symbol::gensym
+$genseq
+$genpkg
+Symbol::
+Symbol::ISA
+Symbol::ungensym
+Symbol::EXPORT
+gensym
+ungensym
+qualify
+qualify_to_ref
+Symbol::EXPORT_OK
+delete_package
+Symbol::BEGIN
+main::stdout
+strict::import
+strict::unimport
+strict::bits
+strict
+attributes::bootstrap
+IO::bootstrap
+IO::import
+deprecated
+Parameterless "use IO" deprecated
+warnings::warnif
+warnings
+warnings::warn
+Handle
+Seekable
+File
+Pipe
+Socket
+require IO::
+(\w+)
+croak
+IO::Seekable::tell
+IO::Seekable
+usage: $io->tell()
+IO::Seekable::setpos
+IO::Seekable::sysseek
+usage: $io->sysseek(POS, WHENCE)
+A Santa lives evil at NASA
+IO::Seekable::SEEK_CUR
+Fcntl::SEEK_CUR
+IO::Seekable::SEEK_SET
+Fcntl::SEEK_SET
+IO::Seekable::VERSION
+1.10
+IO::Seekable::ISA
+IO::Seekable::getpos
+IO::Seekable::EXPORT
+SEEK_SET
+SEEK_CUR
+SEEK_END
+IO::Seekable::seek
+usage: $io->seek(POS, WHENCE)
+IO::Seekable::SEEK_END
+Fcntl::SEEK_END
+IO::Seekable::BEGIN
+IO::Handle::input_record_separator
+IO::Handle
+input_record_separator is not supported on a per-handle basis
+$prev
+IO::Handle::format_lines_per_page
+SelectSaver
+main::=
+$old
+IO::Handle::getc
+usage: $io->getc()
+IO::Handle::_IONBF
+IO::Handle::setbuf
+IO::Handle::close
+usage: $io->close()
+IO::Handle::format_formfeed
+format_formfeed is not supported on a per-handle basis
+main::
+IO::Handle::ISA
+IO::Handle::output_field_separator
+output_field_separator is not supported on a per-handle basis
+main::,
+IO::Handle::GLOB
+IO::Handle::EXPORT
+input_record_separator
+printflush
+format_lines_per_page
+output_record_separator
+_IONBF
+format_formfeed
+output_field_separator
+printf
+format_top_name
+flush
+format_lines_left
+_IOFBF
+input_line_number
+format_write
+autoflush
+format_line_break_characters
+getlines
+getline
+format_name
+format_page_number
+_IOLBF
+IO::Handle::format_top_name
+main::^
+IO::Handle::stat
+usage: $io->stat()
+IO::Handle::formline
+main::
+main::\
+$picture
+IO::Handle::setvbuf
+IO::Handle::fileno
+usage: $io->fileno()
+IO::Handle::ungetc
+IO::Handle::fdopen
+usage: $io->fdopen(FD, MODE)
+GLOB\(
+^\d+$
+IO::Handle::_open_mode_string
+^\+?(<|>>?)$
+^r(\+?)$
+^w(\+?)$
+^a(\+?)$
+IO::Handle: bad open mode: 
+IO::Handle::import
+IO::Handle::blocking
+IO::Handle::constant
+^(SEEK_(SET|CUR|END)|_IO[FLN]BF)$
+IO::Handle::format_line_break_characters
+format_line_break_characters is not supported on a per-handle basis
+main:::
+IO::Handle::gets
+usage: $io->getline()
+$this
+IO::Handle::getline
+IO::Handle::write
+usage: $io->write(BUF [, LEN [, OFFSET]])
+IO::Handle::getlines
+usage: $io->getlines()
+Can't call $io->getlines in a scalar context, use $io->getline
+IO::Handle::VERSION
+1.29
+IO::Handle::error
+IO::Handle::new_from_fd
+usage: new_from_fd 
+ FD, MODE
+$class
+IO::Handle::format_name
+main::~
+IO::Handle::say
+usage: $io->say(ARGS)
+IO::Handle::BEGIN
+IO::Handle::printflush
+main::|
+IO::Handle::output_record_separator
+output_record_separator is not supported on a per-handle basis
+IO::Handle::sync
+IO::Handle::SEEK_CUR
+IO::Handle::DESTROY
+IO::Handle::read
+usage: $io->read(BUF, LEN [, OFFSET])
+IO::Handle::opened
+usage: $io->opened()
+IO::Handle::printf
+usage: $io->printf(FMT,[ARGS])
+IO::Handle::format_lines_left
+main::-
+IO::Handle::flush
+IO::Handle::_IOFBF
+IO::Handle::SEEK_END
+IO::Handle::sysread
+usage: $io->sysread(BUF, LEN [, OFFSET])
+IO::Handle::format_write
+usage: $io->write( [FORMAT_NAME] )
+$fmt
+$oldfmt
+IO::Handle::input_line_number
+main::.
+IO::Handle::autoflush
+IO::Handle::untaint
+IO::Handle::EXPORT_FAIL
+IO::Handle::print
+usage: $io->print(ARGS)
+IO::Handle::new
+usage: new 
+IO::Handle::ioctl
+usage: $io->ioctl( OP, VALUE );
+IO::Handle::SEEK_SET
+IO::Handle::clearerr
+IO::Handle::fcntl
+usage: $io->fcntl( OP, VALUE );
+IO::Handle::syswrite
+usage: $io->syswrite(BUF [, LEN [, OFFSET]])
+IO::Handle::truncate
+usage: $io->truncate(LEN)
+IO::Handle::format_page_number
+main::%
+IO::Handle::eof
+usage: $io->eof()
+IO::Handle::_IOLBF
+IO::Poll::POLLWRBAND
+IO::Poll
+IO::Poll::POLLOUT
+IO::Poll::POLLPRI
+IO::Poll::POLLNVAL
+IO::Poll::POLLRDNORM
+IO::Poll::POLLHUP
+IO::Poll::_poll
+IO::Poll::POLLERR
+IO::Poll::POLLIN
+IO::Poll::POLLWRNORM
+IO::Poll::POLLRDBAND
+IO::File::import
+IO::File
+FD_CLOEXEC
+F_ALLOCSP
+F_ALLOCSP64
+F_COMPAT
+F_DUP2FD
+F_DUPFD
+F_EXLCK
+F_FREESP
+F_FREESP64
+F_FSYNC
+F_FSYNC64
+F_GETFD
+F_GETFL
+F_GETLK
+F_GETLK64
+F_GETOWN
+F_NODNY
+F_POSIX
+F_RDACC
+F_RDDNY
+F_RDLCK
+F_RWACC
+F_RWDNY
+F_SETFD
+F_SETFL
+F_SETLK
+F_SETLK64
+F_SETLKW
+F_SETLKW64
+F_SETOWN
+F_SHARE
+F_SHLCK
+F_UNLCK
+F_UNSHARE
+F_WRACC
+F_WRDNY
+F_WRLCK
+O_ACCMODE
+O_ALIAS
+O_APPEND
+O_ASYNC
+O_BINARY
+O_CREAT
+O_DEFER
+O_DIRECT
+O_DIRECTORY
+O_DSYNC
+O_EXCL
+O_EXLOCK
+O_LARGEFILE
+O_NDELAY
+O_NOCTTY
+O_NOFOLLOW
+O_NOINHERIT
+O_NONBLOCK
+O_RANDOM
+O_RAW
+O_RDONLY
+O_RDWR
+O_RSRC
+O_RSYNC
+O_SEQUENTIAL
+O_SHLOCK
+O_SYNC
+O_TEMPORARY
+O_TEXT
+O_TRUNC
+O_WRONLY
+FSYNC
+S_ENFMT
+S_IROTH
+S_IWGRP
+S_IEXEC
+S_ISFIFO
+S_IMODE
+S_ISVTX
+FASYNC
+S_IWUSR
+S_ISCHR
+S_ISDIR
+S_IREAD
+S_IXOTH
+S_ISENFMT
+S_IWRITE
+S_ISUID
+S_IFCHR
+S_IRWXG
+FRSYNC
+S_IFDIR
+LOCK_SH
+FDEFER
+S_IRWXO
+S_IFIFO
+S_IRGRP
+S_IRWXU
+S_ISBLK
+S_ISGID
+_S_IFMT
+S_IRUSR
+S_IFBLK
+FAPPEND
+S_IFMT
+S_IXGRP
+S_ISTXT
+FNONBLOCK
+S_ISWHT
+S_ISLNK
+S_IXUSR
+FNDELAY
+S_IWOTH
+FLARGEFILE
+LOCK_EX
+FTRUNC
+FDSYNC
+S_IFWHT
+S_IFLNK
+S_IFSOCK
+S_ISSOCK
+FCREAT
+LOCK_UN
+S_ISREG
+LOCK_NB
+FEXCL
+S_IFREG
+import
+IO::File::EXPORT
+IO::File::
+IO::File::ISA
+IO::File::open
+usage: $fh->open(FILENAME [,MODE [,PERMS]])
+usage: $fh->open(FILENAME, IOLAYERS)
+$perms
+IO::File::new_tmpfile
+IO::File::new
+ [FILENAME [,MODE [,PERMS]]]
+SUPER::new
+open
+IO::File::EXPORT_OK
+IO::File::binmode
+usage $fh->binmode([LAYER])
+$layer
+IO::File::VERSION
+IO::File::BEGIN
+IO::Socket::sockatmark
+IO::VERSION
+IO::BEGIN
+AutoLoader::import
+auto/
+/autosplit.ix
+^(.*)Cpanel/POSIX/Tiny\.pm$
+^(.*)
+\.pm$
+$calldir
+Cpanel/POSIX/Tiny
+AutoLoader::unimport
+package 
+; sub AUTOLOAD;
+AutoLoader::AUTOLOAD
+(.*)::([^:]+)$
+auto:
+\.pm\z
+^([a-z]:)?[\\/]
+^([a-z?]:)?[\\/]
+::DESTROY
+(\w{12,})\.al$
+ at .*\n
+$sub
+$filename
+$func
+$is_macos
+$is_dosish
+$is_epoc
+$is_vms
+$save
+AutoLoader::__ANON__
+AutoLoader::VERSION
+AutoLoader::EXPORT_OK
+AUTOLOAD
+AutoLoader::BEGIN
+DB::args
+Cpanel::WebTemplates::web_template_pages
+redirect
+moving
+Cpanel::WebTemplates::BEGIN
+Cpanel::Template::Simple::VERSION
+Cpanel::Template::Simple::BEGIN
+Cpanel::Logger::event
+summary
+logger
+%args
+Cpanel::Logger::panic
+store_message
+%log
+Cpanel::Logger::get_messages
+Cpanel::Logger::get_accumulate
+Cpanel::Logger::get_msg_of_type
+@msgs
+Cpanel::Logger::is_accumulated
+Cpanel::Logger::reset_accumulator
+Cpanel::Logger::backtrace
+([\\'])
+\x%02X
+([\x00-\x1F\x7F-\xFF])
+require 
+eval '
+(eval)
+eval {...}
+^-?\d+(?:\.\d+(?:[eE][+-]\d+)?)?$
+undef
+ called
+ at 
+ line 
+$pack
+$hargs
+$eval
+$require
+@parms
+Cpanel::Logger::accumulate
+Cpanel::Logger::store_message
+%s [%s] %s
+Cpanel::Logger::die
+main::STDIN
+Cpanel::Logger::debug
+force
+debug() at 
+local $SIG{__DIE__}; local $SIG{__WARN__}; require YAML::Syck; $outmsg = YAML::Syck::Dump($outmsg) 
+\A\d+(?:\.\d+)?\z
+debug() number 
+$message
+$conf_hr
+@caller
+$outmsg
+Cpanel::Logger::no_accumulate
+Cpanel::Logger::find_progname
+::BEGIN$
+.+/(.+)$
+\..+$
+$cached_progname
+$cached_prog_pid
+@service
+Cpanel::Logger::new
+no_args
+reset_accumulator
+accumulate
+CPANEL_LOGGER_FILE
+\.\.
+^/usr/local/cpanel/logs/
+/usr/local/cpanel/logs/
+$hr_args
+$args_sig
+%singleton_stash
+$alt_log_file
+Cpanel::Logger::info
+Cpanel::Logger::VERSION
+Cpanel::Logger::invalid
+Cpanel::Version::gettree
+Cpanel::Version
+version
+Cpanel::Version::_cached_version
+/var/cpanel/
+.display
+Cpanel::Version::SOURCE
+internal
+disk
+versiononly
+/usr/local/cpanel/version
+Cpanel::Version::_versiononly_from_version
+Cpanel::Version::DISTVERSIONS
+BETA
+cpanel:
+  x: 19
+  x3: 1835
+  x3mail: 27
+webmail:
+  x: 6
+  x3: 27
+11.26.8
+/home/svn/cpanel/releases/cpanel-11.25.0
+11.26.8-BETA
+11.26.8-BETA_48361
+revision
+tree
+themerevisions
+build
+versionnumber
+buildtime
+%VCACHE
+$ver
+Cpanel::Version::
+Cpanel::Version::_tree_from_version
+STABLE
+RELEASE
+CURRENT
+EDGE
+DNSONLY
+/var/cpanel/DEBUG
+Cpanel/SafeRun/Errors.pm
+/scripts/icontact
+--define
+app=
+subject=Cpanel::Logger::invalid called in 
+message=
+level=3
+Cpanel::SafeRun::Errors::saferunallerrors
+$tree
+%non_fatals
+Cpanel::Logger::clear_messages
+Cpanel::Logger::warn
+Cpanel::Logger::BEGIN
+Cpanel::Logger::get_last_msg
+Cpanel::StringFunc::Trim::begintrim
+Eleele
+Cpanel::StringFunc::Trim
+$str
+$totrim
+Cpanel::StringFunc::Trim::ws_trim
+^\s+
+\s+$
+$fix
+Cpanel::StringFunc::Trim::ws_trim_hash_values
+Cpanel::StringFunc::Trim::ws_trim_array
+$idx
+Cpanel::StringFunc::Trim::VERSION
+Cpanel::StringFunc::Trim::endtrim
+Cpanel::StringFunc::Case::ToUpper
+Cpanel::StringFunc::Case
+Cpanel::StringFunc::Case::ToLower
+Cpanel::StringFunc::Case::VERSION
+Cpanel::StringFunc::Case::BEGIN
+Cpanel::Time::time2http
+%s, %02d %s %04d %02d:%02d:%02d GMT
+$wday
+$yday
+$isdst
+@weekday
+@month
+Cpanel::Time::time2dnstime
+%04d%02d%02d
+Cpanel::Time::time2cookie
+%s, %02d-%s-%02d %02d:%02d:%02d GMT
+@longday
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Cpanel::Time::time2condensedtime
+%04d%02d%02d%02d%02d%02d
+Cpanel::Time::time2clftime
+%02d/%02d/%04d:%02d:%02d:%02d -0000
+Cpanel::Time::time2datetime
+%02d:%02d:%02d
+$timecacheref
+Cpanel::PwCache::validate
+Cpanel::PwCache::validate called for record 
+Cpanel::PwCache::dump_rec
+$rec
+$buf
+Cpanel::PwCache::validate returned 1 
+Cpanel::PwCache::validate returned 0 
+::validate returned 0 [ hstored_mtime = 
+, hpasswdmtime = 
+ ] [ stored_mtime = 
+God A red nugget A fat egg under a dog
+, passwdmtime = 
+$record
+$stored_mtime
+$hstored_mtime
+Cpanel::PwCache::endpwent
+$getpwent_passwd_fh
+$isopen
+Cpanel::PwCache::GRPFILE
+Cpanel::PwCache::init_passwdless_pwcache
+nopasswd
+Cpanel::PwCache::_build_pwcache
+/etc/passwd.cache
+/etc/master.passwd.cache
+/etc/shadow.cache
+local $SIG{__DIE__}; local $SIG{__WARN__}; $cache_ref = Storable::pretrieve($cache_fh);
+[read pwcache from 
+0:root
+[validated pwcache from 
+Cpanel::PwCache::_load_pws
+$lookup_file
+$lookup_fh
+^[A-Za-z0-9_]
+[wrote pwcache to 
+Cpanel::PwCache::PWCACHEFILE
+Storable::nstore_fd( $pwcache_ref, \*PWCACHEFILE  );
+$cache_file_mtime
+$epasswd_ref
+$epasswd_file
+$cache_ref
+$pwcache_inited
+$pwcache_passwd_fh
+@SHAREDPW
+$pwlock
+Cpanel::PwCache::_get_line_from_pwfile
+Cpanel::PwCache::beginmatch
+$lookup_key
+Cpanel::PwCache::_getos
+Cpanel::PwCache::VERSION
+Cpanel::PwCache::pwmksafecache
+Cpanel::PwCache::fetch_pwcache
+Cpanel::PwCache::getpwent
+Unable to open /etc/passwd: 
+$cryptpw
+$getpwent_open_time
+$passwd_line
+Cpanel::PwCache::pwcache_is_initted
+Cpanel::PwCache::BEGIN
+Cpanel::PwCache::init
+Cpanel::PwCache::get_gid_cacheref
+/etc/group
+%GIDCACHE
+$grplock
+@GRP
+Cpanel::PwCache::pwcheckos
+Cpanel::PwCache::invalidate
+user
+/var/cpanel/@pwcache/
+/var/cpanel/pw.cache/
+$keyname
+Cpanel::PwCache::_get_keyvalue_from_pwfile
+$key_position
+Cpanel::PwCache::load
+::load called for pwkey 
+Cpanel::PwCache::no_uid_cache
+Cpanel::PwCache::deinit
+Cpanel::PwCache::setpwent
+Cpanel::PwCache::pwclearcache
+Cpanel::PwCache::init_pwcache
+Cpanel::CPAN::Sys::Hostname::Long::dispatch_description
+Cpanel::CPAN::Sys::Hostname::Long::dispatch_keys
+Cpanel::CPAN::Sys::Hostname::Long::VERSION
+Cpanel::CPAN::Sys::Hostname::Long::dispatch_title
+Cpanel::CPAN::Sys::Hostname::Long::ISA
+Sys::Hostname
+Cpanel::CPAN::Sys::Hostname::Long::EXPORT
+hostname_long
+Cpanel::CPAN::Sys::Hostname::Long::BEGIN
+Cpanel::Config::LoadUserDomains::counttrueuserdomains
+$num_ud
+$ud_fh
+$buffer
+Cpanel::Config::LoadUserDomains::BEGIN
+Cpanel::Config::LoadUserDomains::loadtrueuserdomains
+/etc/domainusers
+Cpanel::Version::getbits
+$bits
+$ignore_limit
+Cpanel::Config::LoadCpUserFile::BEGIN
+Cpanel::Config::LoadConfig::BEGIN
+Cpanel::DomainTools::makevaliddns
+Cpanel::DomainTools
+Cpanel::DomainTools::normalize
+Cpanel::DomainTools::is_valid
+wildcard_disallowed
+domain-not-provided
+parkadmin-doesnotconform
+wildcards-notallowed
+parkadmin-exceeds254chars
+^[a-z\d][a-z\d\-]*[a-z\d]$
+^[a-z0-9*]$
+^[a-z0-9]$
+$wildcard_allowed
+@namearray
+$is_first
+$ele
+$ele_length
+Invalid domain 
+ specified.
+Cpanel::DomainTools::makevalid
+Cpanel::DomainTools::make_valid
+Cpanel::DomainTools::isvalid
+Cpanel::DomainTools::BEGIN
+Cpanel::POSIX::Tiny::closefds
+Cpanel::POSIX::Tiny::bootstrap
+Cpanel::POSIX::Tiny::getuniqid
+Cpanel::POSIX::Tiny::close
+Cpanel::POSIX::Tiny::ISA
+Cpanel::POSIX::Tiny::EXPORT
+Cpanel::POSIX::Tiny::nice
+Cpanel::POSIX::Tiny::sysconf
+Cpanel::POSIX::Tiny::pipe
+Cpanel::POSIX::Tiny::constant
+Cpanel::POSIX::Tiny::AUTOLOAD
+::(_?[a-z])
+.*::
+ is not a valid POSIX macro
+Your vendor has not defined POSIX macro 
+, used
+Cpanel::POSIX::Tiny::
+$constname
+$EAGAIN
+$EINVAL
+Cpanel::POSIX::Tiny::__ANON__
+Cpanel::POSIX::Tiny::uname
+Cpanel::POSIX::Tiny::write
+Cpanel::POSIX::Tiny::VERSION
+Cpanel::POSIX::Tiny::daemonclosefds
+Cpanel::POSIX::Tiny::getlogin
+Cpanel::POSIX::Tiny::setlogin
+Cpanel::POSIX::Tiny::EXPORT_OK
+nice
+setsid
+pipe
+close
+times
+sysconf
+write
+closefds
+daemonclosefds
+Cpanel::POSIX::Tiny::times
+Cpanel::POSIX::Tiny::setsid
+Cpanel::POSIX::Tiny::BEGIN
+Cpanel::AcctUtils::DomainOwnerCache::uncachedomainowners
+Cpanel::AcctUtils::DomainOwnerCache::BEGIN
+Cpanel::AcctUtils::SiteOwner::BEGIN
+Cpanel::AcctUtils::DomainOwner::getdomainownerBAMP
+$searchdomain
+$rootdomainowner
+Cpanel::AcctUtils::DomainOwner::build_truedomain_cache
+Cpanel::AcctUtils::DomainOwner::build_domain_cache
+Cpanel::AcctUtils::DomainOwner::BEGIN
+Cpanel::AcctUtils::GetHomeDir::BEGIN
+Cpanel::AcctUtils::Owner::getdomainowner
+Cpanel::AcctUtils::Owner::BEGIN
+Cpanel::SafeFile::SAFEEDIT
+Cpanel::SafeFile::safe_readwrite
+CODE
+Cpanel::SafeFile::safe_replace_content
+@content
+RcsRecord.pm
+RcsRecord::rcsrecord
+$code_ref
+$rclog
+Cpanel::SafeFile::VERSION
+Cpanel::SafeFile::BEGIN
+Cpanel::OSSys::write
+::write(@_);
+Cpanel::OSSys::getos
+Cpanel::OSSys::get_system
+Cpanel::OSSys::VERSION
+Cpanel::OSSys::close
+::close(@_)
+*Cpanel::OSSys::close = *
+::close;
+Cpanel::OSSys::nice
+::nice(
+Cpanel::OSSys::sysconf
+sysconf cannot accept a 
+ it must be passed a scalar which will be converted into a constant
+POSIX
+::constant($const,0);
+Unknown constant 
+$res = 
+::sysconf(
+$const
+$res
+Cpanel::OSSys::times
+@times = 
+::times()
+@times
+Cpanel::OSSys::pipe
+@fds = 
+::pipe()
+@fds
+Cpanel::OSSys::BEGIN
+Cpanel::OSSys::setsid
+::setsid()
+*Cpanel::OSSys::setsid = *
+::setsid;
+Cpanel::Sys::Hostname::validhostname
+[.]{2,}
+[.][0-9]+[.]
+[.]-[.]
+^[a-z][a-z0-9\-]*\.[a-z0-9\-\.]+\.[a-z0-9\-]+$
+Cpanel::Sys::Hostname::VERSION
+Cpanel::Sys::Hostname::shorthostname
+$shorthost
+Cpanel::Sys::Hostname::BEGIN
+Cpanel::Sys::GetOS::BEGIN
+Cpanel::Sys::GetOS::VERSION
+Cpanel::Version::getthemerevisions
+Cpanel::Version::getbuild
+Cpanel::Version::_build_from_version
+Cpanel::Version::getversionnumber
+Cpanel::Version::getrevision
+Cpanel::Version::Compare::compare
+Cpanel::Version::compare
+Cpanel/Version/Compare.pm
+Could not load Cpanel::Version::Compare
+Cpanel::Version::geturl
+Cpanel::Version::VERSION
+Cpanel::Version::getversiononly
+Cpanel::Version::getbuildtime
+Cpanel::Version::getversion
+Cpanel::Version::setbits
+Cpanel::Version::BEGIN
+Cpanel::SafeRun::Simple::BEGIN
+Cpanel::LoadFile::loadbinfile
+Cpanel::LoadFile::loadfile_r
+Cpanel::LoadFile::loadfileasarrayref
+Cpanel::LoadFile::load_userfile_as_root
+Fcntl::O_RDONLY
+Fcntl::O_NOFOLLOW
+$max_length
+$ff_fh
+Cpanel::LoadFile::slurpfile
+Cpanel::LoadFile::loadfile_to_fh
+Cpanel::LoadFile::BEGIN
+Cpanel::CgiSys::BEGIN
+Cpanel::FileLookup::BEGIN
+warnings::import
+warnings::enabled
+warnings::BEGIN
+Fcntl::FD_CLOEXEC
+Fcntl::O_RANDOM
+Fcntl::F_GETLK64
+Fcntl::O_DIRECTORY
+Fcntl::S_ISFIFO
+Fcntl::_S_IFMT
+Fcntl::S_IFIFO
+Fcntl::ISA
+Fcntl::O_APPEND
+Fcntl::F_FSYNC
+Fcntl::F_RDACC
+Fcntl::F_FREESP64
+Fcntl::S_IMODE
+Fcntl::O_ASYNC
+Fcntl::import
+Fcntl::F_ALLOCSP64
+Fcntl::F_FREESP
+Fcntl::F_COMPAT
+Fcntl::S_ISCHR
+Fcntl::S_IFCHR
+Fcntl::O_BINARY
+Fcntl::__ANON__
+Fcntl::O_NOINHERIT
+Fcntl::F_RWACC
+Fcntl::F_GETFD
+Fcntl::O_RDWR
+Fcntl::F_NODNY
+Fcntl::S_ISDIR
+Fcntl::S_IFDIR
+Fcntl::F_WRACC
+Fcntl::S_ISENFMT
+Fcntl::S_IFENFMT
+Fcntl::BEGIN
+Fcntl::O_NDELAY
+Fcntl::F_GETFL
+Fcntl::F_SETOWN
+Fcntl::F_EXLCK
+Fcntl::O_RSYNC
+Fcntl::O_TEXT
+Fcntl::F_SETLK
+Fcntl::O_EXLOCK
+Fcntl::F_SHLCK
+Fcntl::O_DEFER
+Fcntl::O_NONBLOCK
+Fcntl::O_RSRC
+Fcntl::O_NOCTTY
+Fcntl::S_ISBLK
+Fcntl::S_IFBLK
+Fcntl::O_SYNC
+Fcntl::F_FSYNC64
+Fcntl::S_IFMT
+Fcntl::F_RDDNY
+Fcntl::O_RAW
+Fcntl::F_POSIX
+Fcntl::O_SEQUENTIAL
+Fcntl::O_ACCMODE
+Fcntl::F_UNLCK
+Fcntl::F_RWDNY
+Fcntl::F_WRDNY
+Fcntl::constant
+Fcntl::S_ISWHT
+Fcntl::S_IFWHT
+Fcntl::F_RDLCK
+Fcntl::F_SETFD
+Fcntl::S_ISLNK
+Fcntl::S_IFLNK
+Fcntl::F_UNSHARE
+Fcntl::VERSION
+Fcntl::O_ALIAS
+Fcntl::F_GETOWN
+Fcntl::F_SETLK64
+Fcntl::F_SETFL
+Fcntl::EXPORT_OK
+Fcntl::O_DSYNC
+Fcntl::F_SHARE
+Fcntl::O_TEMPORARY
+Fcntl::bootstrap
+Fcntl::S_IFSOCK
+Fcntl::F_DUP2FD
+Fcntl::S_ISSOCK
+Fcntl::F_WRLCK
+Fcntl::F_SETLKW
+Fcntl::F_ALLOCSP
+Fcntl::F_SETLKW64
+Fcntl::F_GETLK
+Fcntl::O_SHLOCK
+Fcntl::EXPORT_TAGS
+mode
+flock
+seek
+Fcompat
+Fcntl::S_ISREG
+Fcntl::S_IFREG
+Fcntl::AUTOLOAD
+Invalid
+EINVAL
+Your vendor has not defined Fcntl macro 
+, used at 
+Fcntl::
+Fcntl::O_LARGEFILE
+Fcntl::O_DIRECT
+Fcntl::F_DUPFD
+SelectSaver::carp
+SelectSaver::qualify
+SelectSaver::croak
+SelectSaver::qualify_to_ref
+Borrow or rob
+SelectSaver::new
+usage: new SelectSaver [FILEHANDLE]
+Do nine men interpret Nine men I nod
+SelectSaver::DESTROY
+$__ANONIO__
+SelectSaver::gensym
+SelectSaver::ungensym
+SelectSaver::confess
+alula
+Carp::confess
+SelectSaver::BEGIN
+main::stderr
+main::stdin
+Carp::MaxEvalLen
+Carp::MaxArgNums
+Carp::Verbose
+Carp::ISA
+Carp::EXPORT
+confess
+carp
+Carp::import
+Carp::EXPORT_FAIL
+verbose
+Carp::MaxArgLen
+cluck
+Carp::export_fail
+$host
+@(		
+@5		
+@K		
+@[		
+@f		
+@r		
+@|		
+@# 	
+@0 	
+@= 	
+@J 	
+@V 	
+@b 	
+@j 	
+@# 	
+@# 	
+@6#	
+@>#	
+@I#	
+@# 	
+@I#	
+@# 	
+@j 	
+@;$	
+@# 	
+@M$	
+@Q$	
+@4$	
+@r'	
+@|'	
+@ *	
+@&*	
+@,+	
+@6+	
+@B+	
+@B+	
+@I+	
+@]+	
+@c'	
+@r'	
+@e+	
+@n+	
+@v+	
+m@3,	
+m@;,	
+n@@,	
+@n@+
+n@;,	
+?;,	
+b@	/	
+c@'/	
+c@0/	
+d@9/	
+ d@A/	
+ d@G/	
+ d@N/	
+ d@Z/	
+d@`/	
+h@j/	
+a@;,	
+?;,	
+m@;,	
+ w@	
+v@;,	
+u@_3	
+u@g3	
+?^7	
+@^7	
+@+8	
+@^7	
+@^7	
+@^7	
+@+8	
+@+8	
+@^7	
+@S=	
+@S=	
+@3>	
+@+8	
+@^7	
+@S=	
+@+8	
+@^7	
+@S=	
+@^7	
+@+8	
+@cA	
+@hA	
+@^7	
+@^7	
+@S=	
+@+8	
+@+8	
+@`B	
+@+8	
+@`B	
+@^7	
+@eI	
+@	/	
+@;,	
+@B+	
+@kK	
+@pK	
+@;,	
+@zK	
+?B+	
+@/M	
+@	/	
+@kK	
+@B+	
+@/M	
+@	P	
+@/M	
+@#P	
+@4Q	
+@=Q	
+@GQ	
+@GQ	
+@/M	
+?333333
+@/M	
+@/M	
+@S=	
+@,V	
+@{W	
+~@dX	
+~@jX	
+~@pX	
+~@wX	
+`~@O
+p~@T
+p~@Y
+p~@_
+p~@e
+p~@j
+p~@+
+@dX	
+@DY	
+0~@O
+@~@T
+@~@Y
+@~@_
+@~@e
+@~@j
+@~@+
+~@OZ	
+@# 	
+@f		
+@# 	
+@5^	
+@G^	
+@T^	
+@b^	
+@j 	
+@$$	
+@j 	
+@j 	
+@Ka	
+@4$	
+@# 	
+@j 	
+@%d	
+@ *	
+@n+	
+@	P	
+@Fi	
+?Qi	
+?Yi	
+&@Fi	
+@6n	
+@@n	
+@y@+
+p{@Ju	
+{@Vu	
+y@Fi	
+pw@}
+w@S=	
+@!~	
+@n+	
+GCC: (GNU) 2.96 20000731 (Red Hat Linux 7.3 2.96-110)
+GCC: (GNU) 2.96 20000731 (Red Hat Linux 7.3 2.96-110)
+GCC: (GNU) 4.3.5
+GCC: (GNU) 4.3.5
+GCC: (GNU) 4.3.5
+GCC: (GNU) 4.3.5
+GCC: (GNU) 2.96 20000731 (Red Hat Linux 7.3 2.96-110)
+01.01
+01.01
+01.01
+.shstrtab
+.interp
+.note.ABI-tag
+.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rel.dyn
+.rel.plt
+.init
+.text
+.fini
+.rodata
+.eh_frame
+.ctors
+.dtors
+.jcr
+.dynamic
+.got
+.got.plt
+.data
+.bss
+.comment
+.note

@@ -1,0 +1,689 @@
+/lib64/ld-linux-x86-64.so.2
+j)DF
+Y@eM
+Ul3b
+libgtk-3.so.0
+g_settings_get_boolean
+g_settings_new
+g_get_home_dir
+g_setenv
+g_error_free
+g_string_new
+g_string_append_len
+g_list_length
+g_log
+g_list_append
+g_build_filename
+g_file_get_path
+XUngrabServer
+g_list_free
+g_list_first
+g_strdup
+g_ascii_strncasecmp
+g_strchomp
+g_strdup_printf
+gdk_app_launch_context_set_timestamp
+Tacocat
+g_settings_get_int
+g_dir_close
+g_strsplit
+gdk_display_get_default
+g_str_has_prefix
+gdk_x11_get_xatom_by_name
+g_signal_connect_data
+g_app_info_launch
+XGrabServer
+g_strfreev
+g_strv_length
+g_get_user_config_dir
+_Jv_RegisterClasses
+g_slist_remove
+g_file_test
+g_dir_open
+g_timeout_add_seconds
+g_list_find_custom
+g_print
+gdk_flush
+g_file_monitor_file
+g_app_info_create_from_commandline
+g_file_monitor_directory
+A Santa lives evil at NASA
+g_dir_read_name
+g_strconcat
+g_string_free
+g_object_set_data
+g_object_unref
+g_utf8_strlen
+gdk_display_get_app_launch_context
+g_settings_get
+pango_layout_get_lines_readonly
+g_strchug
+g_file_new_for_path
+g_malloc0
+g_str_has_suffix
+g_settings_set_boolean
+_ITM_deregisterTMCloneTable
+g_assertion_message_expr
+g_object_ref_sink
+g_string_append
+gdk_atom_intern
+gdk_x11_get_server_time
+g_string_append_printf
+__gmon_start__
+g_slist_insert_sorted
+XGetSelectionOwner
+g_object_get_data
+_ITM_registerTMCloneTable
+gdk_x11_display_get_xdisplay
+g_source_remove
+pango_layout_set_width
+g_slist_free
+g_strcmp0
+gtk_label_get_type
+gtk_menu_get_type
+gtk_text_iter_get_text
+gtk_message_dialog_new
+gtk_window_get_type
+gtk_widget_get_window
+gtk_menu_shell_get_type
+gtk_window_new
+gtk_widget_show_all
+gtk_message_dialog_get_type
+gtk_container_get_type
+gtk_clipboard_get
+gtk_window_set_focus_on_map
+gtk_text_buffer_apply_tag
+gtk_widget_hide
+gtk_check_menu_item_new_with_label
+gtk_text_buffer_set_text
+gtk_label_new
+gtk_builder_connect_signals
+gtk_init_with_args
+gtk_separator_menu_item_new
+gtk_widget_destroy
+gtk_text_iter_forward_char
+gtk_check_menu_item_set_active
+gtk_dialog_get_type
+gtk_text_buffer_get_iter_at_offset
+gtk_text_view_get_iter_at_location
+gtk_text_view_get_buffer
+gtk_widget_realize
+gtk_widget_get_type
+gtk_main_quit
+gtk_menu_shell_insert
+gtk_builder_get_object
+gtk_dialog_run
+gtk_clipboard_set_with_data
+gtk_image_menu_item_new_from_stock
+gtk_menu_shell_append
+gtk_text_iter_get_tags
+gtk_menu_new
+gtk_message_dialog_format_secondary_text
+gtk_label_set_markup
+gtk_builder_add_from_file
+gtk_label_set_line_wrap
+gtk_main
+gtk_text_view_get_type
+gtk_check_menu_item_get_type
+gtk_text_buffer_apply_tag_by_name
+gtk_label_get_layout
+gtk_menu_item_new_with_label
+gtk_check_menu_item_get_active
+gtk_widget_set_sensitive
+gtk_text_iter_get_offset
+gtk_window_set_default_icon_name
+gtk_text_view_window_to_buffer_coords
+gtk_text_buffer_create_tag
+gtk_dialog_add_button
+gtk_widget_show
+gtk_container_get_children
+gtk_button_set_label
+gtk_window_set_title
+gtk_builder_new
+gtk_container_remove
+gtk_button_get_type
+gtk_text_iter_forward_search
+libgdk-3.so.0
+g_logv
+libpango-1.0.so.0
+pango_units_from_double
+libnotify.so.4
+g_type_check_instance_cast
+notify_notification_close
+notify_init
+libgio-2.0.so.0
+g_spawn_command_line_async
+g_checksum_update
+g_spawn_async
+g_checksum_get_digest
+g_checksum_free
+g_child_watch_add
+g_checksum_new
+libX11.so.6
+libgudev-1.0.so.0
+g_udev_device_get_name
+g_udev_client_new
+g_udev_device_get_sysfs_path
+g_udev_client_query_by_subsystem
+g_udev_device_get_sysfs_attr
+libgobject-2.0.so.0
+libglib-2.0.so.0
+g_log_set_handler
+g_unix_signal_add_full
+g_log_default_handler
+g_spawn_sync
+g_set_application_name
+libappindicator3.so.1
+app_indicator_set_icon
+app_indicator_get_status
+app_indicator_new
+app_indicator_set_menu
+app_indicator_set_status
+libc.so.6
+exit
+setlocale
+fopen
+dcngettext
+__strdup
+__isoc99_sscanf
+dcgettext
+strncpy
+__stack_chk_fail
+mkdir
+bind_textdomain_codeset
+__assert_fail
+strtol
+fgets
+strstr
+memcmp
+__fprintf_chk
+ctime
+getgrnam
+__isoc99_fscanf
+fclose
+malloc
+strcasecmp
+nl_langinfo
+__ctype_b_loc
+getenv
+stderr
+getgroups
+getuid
+fread
+rename
+__xstat
+uname
+bindtextdomain
+strcmp
+__libc_start_main
+_edata
+__bss_start
+_end
+tray_applet_ui_set_visible
+rfc822_header_lookup
+__libc_csu_fini
+up_get_clipboard
+tray_applet_ui_set_menu
+tray_applet_ui_set_single_action
+__data_start
+crashreport_tray_icon_init
+Borrow or rob
+in_admin_group
+tray_applet_ui_set_icon
+rfc822_parse_stanza
+update_tray_icon_init
+rfc822_header_free_all
+tray_applet_ui_destroy
+on_button_run_clicked
+uevent_init
+tray_applet_ui_set_data
+tray_applet_ui_get_visible
+actions
+tray_applet_ui_ensure
+__libc_csu_init
+on_button_next_clicked
+avahi_disabled
+invoke
+update_apt_is_running
+invoke_with_pkexec
+tray_applet_ui_get_data
+crashreport_check
+tray_applet_ui_set_tooltip_text
+_IO_stdin_used
+check_update_hooks
+update_check
+hook_tray_icon_init
+hplip_helper
+GLIBC_2.4
+GLIBC_2.3.4
+GLIBC_2.3
+GLIBC_2.7
+GLIBC_2.2.5
+D$(1
+L$ 1
+L$ 1
+T$(dH3
+0[]A\
+ATUS
+[]A\
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+Beeb
+)T$p
+ATUSH
+D$(1
+D$(dH3
+0[]A\
+ATUSH
+=#} 
+=	} 
+[]A\
+ATUSD
+[]A\
+AWAVE1
+AUATUSH
+d$ H
+l$ @
+|$!.I
+dH34%(
+[]A\A]A^A_
+tDUSH
+t6USH
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AUATH
+[]A\A]
+D$hH9D$XH
+MD$XH
+AWAVH
+AUATUSH
+[]A\A]A^A_
+AVAUI
+ATUI
+L$PM
+T$`H
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+D$XXZ
+[]A\A]A^
+AWAVAUATI
+([]A\A]A^A_
+AUATI
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+t$ 1
+L$pH
+[]A\A]A^A_
+AUATUSH
+D$x1
+D$xdH3
+Eleele
+[]A\A]
+D$h1
+AUATI
+HcT$
+[]A\A]
+HcT$
+ATU1
+[]A\
+[]A\
+AWAVAUATUSH
+D$(1
+tWL9
+L$(dH3
+8[]A\A]A^A_
+D$ 1
+AUATI
+[]A\A]
+D$(1
+T$(dH3
+D$(1
+L$(dH3
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+ATUI
+[]A\
+[]A\
+H+D$XH=
+AVAUATUSH
+D$H(
+D$ Pj
+D$h 
+\$(Sj
+[]A\A]A^
+D$(1
+D$ H
+D$ H
+t$ H
+H;D$ 
+D$x(
+D$(H
+D$ H
+AWAVAUATUSH
+[]A\A]A^A_
+t$(H
+Do nine men interpret Nine men I nod
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+56H 
+D$H1
+T$HdH3
+D$(N
+D$ PH
+|$ H
+AVAUI
+ATUH
+]A\A]A^
+AVAUI
+ATUH
+|$ H
+]A\A]A^
+AWAVA
+AUATL
+[]A\A]A^A_
+executing: %s
+lock
+/var/lib/apt/
+apt_get_running=TRUE
+/var/cache/apt/
+/var/lib/dpkg/status
+dpkg_was_run=TRUE
+new hook!
+/var/crash/
+crashreport found
+update
+invoke_with_pkexec ()
+/usr/bin/pkexec
+Launching failed: %s
+avahi disabled ()
+admin
+sudo
+trayapplet_create()
+software-update-available
+hook-notifier
+apport
+/var/lib/apt/lists/
+- inform about updates
+unknown error
+Failed to init the UI: %s
+/usr/share/locale
+UTF-8
+G_MESSAGES_DEBUG
+com.ubuntu.update-notifier
+end-system-uids
+not starting for system user
+already running?
+%s/update-notifier
+UPSTART_SESSION
+changed
+can not add '%s'
+/var/lib/apt/lists/partial/
+/var/cache/apt/archives/
+debug-hooks
+Enable hooks debugging
+debug-updates
+debug-inotify
+Enable inotify debugging
+debug-uevent
+Enable uevent debugging
+debug-misc
+force
+force-use-pkexec
+startup-delay
+script execution failed or not executable
+/var/lib/update-notifier/dpkg-run-stamp
+/var/lib/apt/periodic/update-success-stamp
+/var/lib/update-notifier/user.d/
+/var/run/avahi-daemon/disabled-for-unicast-local
+avahi disabled due to unicast .local domain
+/usr/lib/update-notifier/local-avahi-notification
+/usr/share/update-notifier/plugins/cache-changed
+checking for valid crashreport now
+checking for disabled avahi due to unicast .local domain now
+/var/cache/apt/archives/partial/
+Enable updates/autolaunch debugging
+Enable uncategorized debug prints
+Force start even if the user is not in the admin group
+Force running all commands (update-manager, synaptic) with pkexec
+Degas are we not drawn onward no In union drawn onward to new eras aged
+Delay startup by given amount of seconds
+UPGRADE_NOTIFIER_SELECTION
+%s/%s
+can't read %s
+can't stat %s
+is_hook_relevant(): %s
+%s%s
+OnlyAdminUsers
+true
+found DontShowAfterReboot
+/proc/uptime
+%lf %lf
+diff: %li  uptime: %f
+hook is relevant
+DisplayIf
+found DisplayIf command: '%s'
+'%s' returned: %i
+underline
+blue
+foreground
+http://
+mark_hook_file_as_seen: %s
+will write out: %s (%s)
+e->seen: %s %li %x
+%s %li %x
+same md5: %s %li %x
+GettextDomain
+%s-%s.%s
+%s-%s
+can't open %s
+Command
+Terminal
+term
+hook_file
+Title
+Name
+Description
+bold_tag
+ButtonText
+_Run this action now
+HookFile
+hooks.c
+/usr/bin/gnome-open
+reading hook_file: %s 
+got: %s %i %i 
+%s %i %i
+mark_hook_file_as_run: %s
+cmd is NULL
+x-terminal-emulator -e %s
+cb_button_next()
+check_update_hooks()
+can't read %s directory
+alula
+reading '%s' dir
+investigating file '%s'
+not relevant: '%s'
+never seen before: %s
+elm != NULL
+newer mtime: %s (%li > %li))
+%s increases unseen_count
+already seen: '%s'
+show_hooks()
+builder
+Information available
+priv->dialog_hooks
+priv->label_title
+priv->textview_hook
+priv->button_run
+priv->button_next
+weight
+scale
+insert-text
+event-after
+init_already_seen_hooks
+.update-notifier/hooks_seen
+now: %li mtime: %li uptime: %f
+not relevant because of reboot: %s
+Something went wrong writing the user's hook file
+no unseen hookfile found in hook list of len (%i)
+<span weight="bold" size="larger">%s</span>
+hookfile: %s already in the list
+existing is newer, ignoring the read one
+button_next called without HookFile
+the file '%s' was NOT SEEN yet
+%s (%s) was seen also in %s (%s)
+showing hooks with focus on map == FALSE
+/usr/share/update-notifier/ui/hooks-dialog.ui
+Couldn't load builder file: %s
+show_hooks called without HookFile
+/etc/update-notifier/hooks_seen
+show_hooks
+compare_hook_func
+check_update_hooks
+333333
+?/usr/share/apport/apport-checkreports
+apport notifications disabled, not displaying crashes
+System program problem detected
+Do you want to report the problem now?
+crashreport found running apport now
+--system
+Can not run %s
+crashreport_check
+/usr/share/apport/apport-gtk
+show-apport-crashes
+gtk-cancel
+Report problem
+fire up the crashreport tool
+no-show-notifications
+God A red nugget A fat egg under a dog
+action
+gtk-dialog-warning-panel
+update_apt_is_running: %i
+software-update-urgent
+update_check()
+/usr/bin/nice
+/usr/bin/ionice
+dialog-error
+Error launching %s
+%s returned %i (security: %i)
+/var/run/reboot-required
+There is %i update available
+regular-auto-launch-interval
+interval_days: %i
+com.ubuntu.update-manager
+launch-time
+last_launch: %i (%s)
+/usr/bin/unattended-upgrades
+--security-updates-unattended
+error: %s
+time now %i (%s), delta: %i
+need to auto launch
+Show notifications
+toggled
+gtk-preferences
+activate
+Show updates
+Install all updates
+Check for updates
+Start package manager
+/usr/share/applications/software-properties.desktop
+/usr/bin/software-properties-gtk
+The update information is outdated. This may be caused by network problems or by a repository that is no longer available. Please update manually by selecting 'Show updates' from the indicator menu, and watching for any failing repositories.
+/usr/lib/update-notifier/apt-check
+An error occurred, please run Package Manager from the right-click menu or apt-get in a terminal to see what is wrong.
+The error message was: '%s'. 
+An error occurred, please run Package Manager from the right-click menu or apt-get in a terminal to see what is wrong.
+This usually means that your installed packages have unmet dependencies
+A problem occurred when checking for the updates.
+A reboot is currently pending.
+There are %i updates available
+/usr/lib/update-notifier/package-system-locked
+failed to run /usr/lib/update-notifier/package-system-locked: %s
+/usr/lib/update-notifier/package-system-locked exited abnormally with code %i
+is_package_system_locked: /usr/lib/update-notifier/package-system-lockedreturned %i
+security updates, but update-manager was launched within the AUTOLAUNCH_MINIMAL_SECURITY_INTERVAL
+--security-updates-unattended: %i
+nice ionice -c3 update-manager --no-update --no-focus-on-map
+security updates, auto-launching
+/usr/lib/update-notifier/backend_helper.py show_updates
+/usr/share/applications/update-manager.desktop
+/usr/lib/update-notifier/backend_helper.py install_all_updates
+/usr/share/applications/synaptic.desktop
+/usr/lib/update-notifier/backend_helper.py check_updates
+/usr/lib/update-notifier/backend_helper.py start_packagemanager
+bInterfaceClass
+bInterfaceSubClass
+-ocommand
+-Cpython
+system-config-printer
+system-config-printer-applet
+%s could not be called: %s
+change
+firmware
+/usr/bin/hp-plugin-ubuntu
+deal_with_scp: devpath=%s: not a printer
+deal_with_scp: devpath=%s: printer identified
+deal_with_scp: error calling ps: %s
+deal_with_scp: running python processes:%s
+deal_with_scp: system-config-printer already running
+deal_with_scp: launching system-config-printer
+uevent.c on_uevent: action=%s, devpath=%s
+uname() failed, not monitoring devices
+tray_applet_ui_ensure: %s
+fake-tooltip
+tray_applet_ui_destroy: %s
+;*3$"
+update-notifier
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

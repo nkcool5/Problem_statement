@@ -1,0 +1,671 @@
+/lib64/ld-linux-x86-64.so.2
+wT~7y
+libutil.so.1
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+openpty
+Beeb
+libc.so.6
+socket
+fflush
+strcpy
+exit
+srand
+fopen
+gai_strerror
+inet_aton
+optind
+strrchr
+__longjmp_chk
+pipe
+__strdup
+perror
+connect
+__fdelt_chk
+inet_ntoa
+signal
+strncpy
+fork
+time
+__stack_chk_fail
+daemon
+unlink
+listen
+select
+mkdir
+realloc
+popen
+getpid
+kill
+inet_pton
+chmod
+__assert_fail
+strtod
+strtol
+fgets
+prctl
+setitimer
+openlog
+getaddrinfo
+dirname
+__errno_location
+bind
+read
+__syslog_chk
+alula
+getsockopt
+ttyname
+dup2
+pause
+__fprintf_chk
+__sigsetjmp
+stdout
+fputc
+memcpy
+fclose
+__vsnprintf_chk
+setsockopt
+malloc
+optarg
+stderr
+__snprintf_chk
+getopt_long
+execvp
+fileno
+pclose
+fwrite
+gettimeofday
+sigaction
+waitpid
+fdopen
+accept
+sleep
+freeaddrinfo
+fcntl
+__xstat
+memmove
+strcmp
+__libc_start_main
+closelog
+free
+GLIBC_2.2.5
+GLIBC_2.11
+GLIBC_2.14
+GLIBC_2.15
+GLIBC_2.4
+GLIBC_2.3.4
+D$H1
+t$HdH34%(
+AWAVAUATUSH
+[]A\A]A^A_
+ATUSH
+ []A\
+/usr/sbiH
+n/ppf
+3840f
+AVAUATUSH
+t$ H
+t$8H
+L$,M
+ATUSH
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+ATUSH
+dH3<%(
+[]A\
+D$(1
+L$(dH3
+AUATUSH
+dH3<%(
+[]A\A]
+AWAVAUATUSH
+VQRPE
+D9L$
+D;L$
+D;L$
+[]A\A]A^A_
+AUATUSH
+t?A)
+[]A\A]
+AWAVAUATUSH
+l$ Lc
+[]A\A]A^A_
+D$(1
+D$(dH3
+AUATUSH
+[]A\A]
+AWAVAUATUSH
+t'fA
+[]A\A]A^A_
+AUATUSH
+[]A\A]
+AVAUATUSH
++<Mf
+D$ l
+D$\c
+D$]a
+D$^n
+D$_a
+D$`n
+D$ai
+D$ba
+D$cn
+[]A\A]A^
+AUATUSH
++<Mf
+[]A\A]
++<Mf
++<Mf
+AUATUSH
++<Mt
++<Mf
+D$<l
+D$=o
+D$>c
+D$?a
+D$@l
+D$|c
+D$}a
+D$~n
+t$ H
+t$ H
++<Mf
++<Mf
++<Mf
++<Mf
+t$ H
+$fD;h
+dH34%(
+[]A\A]
++<Mt
+AVAUATUSH
+D$(1
++<Mf
+ttHc
+\$(dH3
+0[]A\A]A^
+~ Hc
+AUATUSH
+[]A\A]
+AUATUSH
+|AHc
+[]A\A]
+AWAVAUATUSH
+A93~
+E9"~
+43D)
+},Hc
+Borrow or rob
+[]A\A]A^A_
+AVAUATUSA
+t"M9
+[]A\A]A^
+AUATUSH
+\$ L
+SAUATUh
+[]A\A]
+AUATUSH
+\$ L
+SAUATUh#
+=Ms 
+[]A\A]
+AUATUSH
+Eleele
+\$ L
+SAUATUh(
+ATUSA
+[]A\
+ATUS
+$@	a
+$@	a
+[]A\
++<Mf
+D$(R
+D$)E
+Do nine men interpret Nine men I nod
+D$*L
+D$+A
+D$,Y
+D$-_
+D$.P
+D$/P
+D$0P
+D$11H
++<Mf
+D$ Y
+D$!_
+D$"P
+D$#P
+God A red nugget A fat egg under a dog
+D$$P
+D$%1
+D$\M
+D$]S
+D$^ 
+D$_W
+D$`i
+D$an
+D$b 
+D$cN
+Degas are we not drawn onward no In union drawn onward to new eras aged
+D$dTH
+dH34%(
+AVAUATUS
+;P4~
+OD;c4
+s4D;c4~
+{(Ic
+[]A\A]A^
+C +D$
+ATUSH
+[]A\
+D$(1
+L$(dH3
+D$(1
+D$(dH3
+D$x1
+D$xdH3
+AWAVAUATUSH
+D$@H
+=/^ 
+t$ H
+D$(L
+Tacocat
+l$ L
+;\$4~
+D$4H
+L$4L
+u7Hc
+Hc\$
+D$<n
+t$(H!
+T$<H
+;\$4~
+t$HH
+t$HH
+L$4L
+L$4L
+L$4H
+dH34%(
+[]A\A]A^A_
+5*x 
+AWAVA
+AUATL
+%^I 
+-fI 
+[]A\A]A^A_
+GRE statistics:
+rx accepted  = %d
+rx lost      = %d
+rx under win = %d
+rx over  win = %d
+rx buffered  = %d
+rx OS errors = %d
+rx truncated = %d
+rx invalid   = %d
+rx acks      = %d
+tx sent      = %d
+tx failed    = %d
+tx short     = %d
+tx acks      = %d
+tx oversize  = %d
+round trip   = %d usecs
+pptp.c
+getaddrinfo(): %s
+pptp: call manager for %s
+pptpcm
+prctl
+NOT 
+(null)
+Could not find free pty.
+Could not fork pppd process
+Child process died
+Could not launch pppd
+daemon
+/dev/null
+pptpgw
+phone
+nolaunchpppd
+quirks
+debug
+sync
+timeout
+logstring
+localbind
+loglevel
+nobuffer
+idle-wait
+max-echo-wait
+version
+test-type
+test-rate
+missing-window
+rtmark
+nohostroute
+  --missing-window <n>  Activate 'missing window' validation and set tolerance to <n> packages (300=default, 6000=recommended)
+Copyright (C) 2000  Free Software Foundation
+This program comes with ABSOLUTELY NO WARRANTY; for details see source.
+This is free software, and you are welcome to redistribute it under certain
+conditions; see source for details.
+Usage:
+  %s <hostname> [<pptp options>] [[--] <pppd options>]
+Or using pppd's pty option: 
+  pppd pty "%s <hostname> --nolaunchpppd <pptp options>"
+Available pptp options:
+  --version        Display version number and exit
+  --phone <number>	Pass <number> to remote host as phone number
+  --nolaunchpppd	Do not launch pppd, for use as a pppd pty
+  --quirks <quirk>	Work around a buggy PPTP implementation
+			Currently recognised values are BEZEQ_ISRAEL only
+  --debug		Run in foreground (for debugging with gdb)
+  --sync		Enable Synchronous HDLC (pppd must use it too)
+  --timeout <secs>	Time to wait for reordered packets (0.01 to 10 secs)
+  --nobuffer		Disable packet buffering and reordering completely
+  --idle-wait		Time to wait before sending echo request
+  --max-echo-wait		Time to wait before giving up on lack of reply
+  --logstring <name>	Use <name> instead of 'anon' in syslog messages
+  --localbind <addr>	Bind to specified IP address instead of wildcard
+  --rtmark <n>	Use specified policy routing mark for all packets
+  --nohostroute		Do not add host route towards <hostname>
+  --loglevel <level>	Sets the debugging level (0=low, 1=default, 2=high)
+  --test-type <type>	Damage the packet stream by reordering
+  --test-rate <n>		Do the test every n packets
+%s called with wrong arguments, program not started.
+Host '%s' possesses no IPv4 address
+Could not create unix domain socket: %s
+fork() to launch call manager failed.
+Call manager exited with error %d
+Could not launch call manager after %d tries.
+Packet timeout %s (%f) out of range: should be between 0.01 and 10 seconds
+Packet timeout %s (%f) out of range: should bebetween 0.01 and 10 seconds
+Local bind address %s invalid
+--idle-wait must not be negative
+--max-echo-wait must not be negative
+--max-echo-wait ignored, not yet implemented
+--missing-window must be integer greater than zero
+--missing-window is set very low: default=300, recommended=6000 - proceeding anyway
+--missing-window validation is active and set to: %d
+The synchronous pptp option is %sactivated
+Cannot bind GRE socket, aborting.
+pptp: GRE-to-PPP gateway on %s
+open_callmgr
+get_ip_address
+main
+usage
+$tI-- begin packet (%u) --
+%02x%02x 
+-- end packet --
+socket: %s
+pptp_gre.c
+setsockopt(SO_MARK): %s
+bind: %s
+connect: %s
+short read (%zd): %s
+getsockopt: %s
+getsockopt: IP_MTU: %d
+accepting
+buffering
+short read (%d): %s
+accepting packet %d
+accepting %d from queue
+transmitted GRE packet triggered an ICMP destination unreachable, fragmentation needed, or exceeds the MTU of the network interface
+pppd may have shutdown, see pppd log
+pptp --sync option is active, yet the ppp mode is asynchronous!
+The ppp mode is synchronous, yet no pptp --sync option is specified!
+Bad Frame Check Sequence during PPP to GRE decapsulation
+Discarding GRE: %X %X %X %X %X %X
+discarding truncated packet (expected %d, got %d bytes)
+discarding duplicate or old packet %d (expecting %d)
+%s packet %d (expecting %d, lost or reordered)
+discarding bogus packet %d (expecting %d)
+timeout waiting for %d packets
+dequeue_gre
+decaps_gre
+decaps_hdlc
+pptp_gre_bind
+Buffered
+Sent
+pptp_ctrl.c
+Echo Re%s received.
+/dev/random
+using rand()
+conn && conn->call
+conn != ((void *)0)
+conn->call != ((void *)0)
+write error: %s
+Out of memory
+read error: %s
+buf != ((void *)0)
+size != ((void *)0)
+Out of memory.
+%lu bad bytes thrown away.
+call->state.pns != PNS_IDLE
+Closing PPTP connection
+Received Outgoing Call Reply.
+Received Call Clear Request.
+pptp_conn_close(%d)
+invalid control message type
+Stop-Control-Connection-Reply
+Echo-Request
+Echo-Reply
+Outgoing-Call-Request
+Outgoing-Call-Reply
+Incoming-Call-Request
+Incoming-Call-Reply
+Incoming-Call-Connected
+Call-Clear-Request
+Call-Disconnect-Notify
+WAN-Error-Notify
+Set-Link-Info
+Unknown Result Code
+General Error
+Requester is not Authorized
+Lost Carrier
+Administrative Shutdown
+(your) Request
+No Carrier Detected
+Busy Signal
+No Dial Tone
+Time Out
+(None)
+No general error
+(Not-Connected)
+(Bad-Format)
+(Bad-Value)
+(No-Resource)
+(Bad-Call ID)
+(PAC-Error)
+%s control packet type is %d '%s'
+no more Echo Reply/Request packets will be reported.
+Result code is %d '%s'. Error code is %d, Cause code is %d
+Reply result code is %d '%s'. Error code is %d
+Result code is something else then "general error", so the following error is probably bogus.
+Error is '%s', Error message: '%s'
+problem: opening /dev/random or getting number
+vector_contains(conn->call, call->call_id)
+(size_t)retval <= conn->write_size
+read returned zero, peer has closed
+conn->read_size <= conn->read_alloc
+reserved0 field is not zero! (0x%x) Cisco feature? 
+calling the start_ctrl_conn hook failed (%d)
+conn->conn_state == CONN_ESTABLISHED
+calling the out_call_rqst hook failed (%d)
+call->call_type == PPTP_CALL_PNS
+calling the set_link hook failed (%d)
+__bswap_32 (header->magic) == 0x1A2B3C4D
+(__extension__ ({ unsigned short int __v, __x = (unsigned short int) (header->length); if (__builtin_constant_p (__x)) __v = ((unsigned short int) ((((__x) >> 8) & 0xff) | (((__x) & 0xff) << 8))); else __asm__ ("rorw $8, %w0" : "=r" (__v) : "0" (__x) : "cc"); __v; })) == size
+(__extension__ ({ unsigned short int __v, __x = (unsigned short int) (header->pptp_type); if (__builtin_constant_p (__x)) __v = ((unsigned short int) ((((__x) >> 8) & 0xff) | (((__x) & 0xff) << 8))); else __asm__ ("rorw $8, %w0" : "=r" (__v) : "0" (__x) : "cc"); __v; })) == 1
+Invalid packet received [type: %d; length: %d].
+Received Start Control Connection Request
+server connection ESTABLISHED.
+Received Start Control Connection Reply
+Negative reply received to our Start Control Connection Request
+Client connection established.
+Received Stop Control Connection Request.
+Received Stop Control Connection Reply.
+Received Outgoing Call Request.
+PPTP_OUT_CALL_RPLY received for non-existant call: peer call ID (us)  %d call ID (them) %d.
+Ack!  How did this call_type get here?
+Unexpected(?) Outgoing Call Reply will be ignored.
+Our outgoing call request [callid %d] has not been accepted.
+Outgoing call established (call ID %u, peer's call ID %u).
+Call closed (RQST) (call id %d)
+Call disconnect notification received (call id %d)
+PPTP_SET_LINK_INFO received from peer_callid %u
+  send_accm is %08lX, recv_accm is %08lX
+Non-zero Async Control Character Maps are not supported!
+Unrecognized Packet %d received.
+PPTP management message received, but not understood.
+Unknown PPTP control message type received: %u
+closing control connection due to missing echo reply
+call->state.pns == PNS_WAIT_DISCONNECT
+Start-Control-Connection-Request
+Start-Control-Connection-Reply
+Stop-Control-Connection-Request
+Successful Channel Establishment
+Command Channel Already Exists
+Not Accepted, Call is administratively prohibited
+No control connection exists yet for this PAC-PNS pair
+Length is wrong or Magic Cookie value is incorrect
+One of the field values was out of range or reserved field was non-zero
+Insufficient resources to handle this command now
+The Call ID is invalid in this context
+A generic vendor-specific error occured in the PAC
+pptp_conn_closure_get
+pptp_conn_closure_put
+pptp_call_closure_get
+pptp_call_closure_put
+pptp_call_get_ids
+pptp_set_link
+ctrlp_error
+logecho
+ctrlp_disp
+ctrlp_disp
+pptp_dispatch_packet
+pptp_dispatch_packet
+pptp_send_ctrl_packet
+pptp_send_ctrl_packet
+pptp_make_packet
+pptp_make_packet
+pptp_read_some
+pptp_read_some
+ctrlp_rep
+pptp_write_some
+pptp_write_some
+pptp_handle_timer
+pptp_handle_timer
+pptp_dispatch
+pptp_fd_set
+pptp_conn_destroy
+pptp_conn_close
+pptp_conn_close
+pptp_call_destroy
+pptp_call_close
+pptp_call_open
+pptp_call_open
+randci
+pptp_conn_open
+A Santa lives evil at NASA
+vector.c
+v != ((void *)0)
+!vector_contains(v, key)
+v->size < v->alloc
+key != ((void *)0)
+0 <= n && n < vector_size(v)
+tmp >= v->item && tmp < v->item + v->size
+v != ((void *)0) && call != ((void *)0)
+x - l <= v->item[x].key - v->item[l].key
+r - x <= v->item[r].key - v->item[x].key
+vector_get_Nth
+vector_scan
+vector_contains
+vector_search
+vector_remove
+vector_insert
+vector_size
+pptp
+%s %s[%s:%s:%d]: %s
+warn
+fatal
+anon
+pptp version 1.8.0
+test order swap, packet buffered
+test order retransmit, packet buffered
+test order retransmit, packets sent
+test order reverse, packet buffered
+test order reverse, packets sent
+test.c
+test order swap, packets sent
+write_reordered_reverse
+write_reordered_retransmit
+write_reordered_swap
+BEZEQ_ISRAEL
+error reallocating packet: %s
+pqueue.c
+error allocating newent: %s
+error allocating packet: %s
+newent->capacity >= packlen
+discarding duplicate packet %d
+pqueue_alloc
+pqueue_alloc
+pqueue_add
+pptp_callmgr.c
+lci != ((void *)0)
+/var/run/pptp/%s:%s
+Could not make path to %s: %s
+Invalid IP address: %s
+Could not fork.
+Could not open connection.
+No memory.
+Socket not accepted: %s
+retval
+Closing connection (shutdown)
+Closing connection (call state)
+lci != ((void *)0) && conninfo != ((void *)0)
+Unhandled call callback state [%d].
+Call manager for %s is already running.
+Usage: %s ip.add.ress.here [--phone <phone number>]
+Could not open control connection to %s
+Could not open unix socket for %s
+Closing connection (unhandled)
+open_unixsock
+open_inetsock
+callmgr_main
+callmgr_main
+call_callback
+call_callback
+/bin/ip
+%s route get %s
+%s route replace %s
+%s route delete %s
+;*3$"
+pptp
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got
+.got.plt
+.data
+.bss
+.gnu_debuglink

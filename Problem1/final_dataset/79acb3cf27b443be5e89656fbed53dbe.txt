@@ -1,0 +1,17235 @@
+/lib64/ld-linux-x86-64.so.2
+"P!(
+$( cBB|"
+"8yA
+00,$
+@BHP
+CB"$b`
+T"!`
+*P@Q
+ 1 q(
+P@J@
+&?P	
+^.4>
+k	o\
+(d9F
+er@^
+\nY$
+$*#Q8
+ptQ(
+D.dSR
+4w?yw
+\<=|
+94Aj	
+&fxC'(_^
+!bY^
+I}Mxhv
+paz`
+8<B!
+JJs/
+5fUa
+TZRY
+CN, 
+|4H_j
+IvtvkX~
+ (`2
+t5U\H3?
+,3S(I
+X"	>
+r*yem
+_{v@
+45\!u5
+|6EL
+4!4;
+T@?x
+^SBu
+[jPB
+ OWC
+4+oX
+a ON
+9f9l
+"W'oH
+78;I \=
+hd<1H
+hdn2a
+6}ua
+Hipy
+Eyzuir	
+4pUsx
+2LQL_0
+k L\
+vTI?
+_0IF
+6c1-
+B.V$
+P5	_
+)aaL
+l7D?4
+TTB}Z
+]A<;d
+tGeZ
+)1bd
+B+V5&rE
+/Wn`
+hOh^
+=1X]Q
+/KR_
+&xZzcf
+u+,;
+>VHn
+\;95
+6MtK
+CZy}`
+GU`$hH
+@"f}M
+c}j{
+Pp*P
+Z8MGg&~CmsF
+Uv3K'
+=<\;
+ga"%]d3
+	#>;
+'y<;R
+ #SZM/
+nJpO
+y|K_ZRp
+ud%cty
+iY	p
+l#{T
+H:_~
+|1&)
+	#9)q
+^:<F
+|?Wm
+Cg&;S
+FpTh-
+libdl.so.2
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+dlclose
+dlsym
+dlopen
+dlerror
+libm.so.6
+modf
+floor
+ldexp
+frexp
+fmod
+_LIB_VERSION
+finitel
+sqrt
+ceil
+libpthread.so.0
+pthread_mutex_destroy
+send
+recvfrom
+pthread_mutex_init
+__h_errno_location
+__errno_location
+pthread_key_delete
+pthread_mutex_lock
+pthread_setspecific
+lseek64
+fcntl
+sigaction
+pthread_getspecific
+pthread_key_create
+connect
+sendto
+pause
+pthread_mutex_unlock
+libc.so.6
+getspnam_r
+fflush
+shmget
+fchmod
+setgrent
+__register_atfork
+execl
+endprotoent
+getprotobynumber_r
+execv
+setlocale
+strncmp
+getnetbyname_r
+getprotoent_r
+getservent_r
+setservent
+strrchr
+__longjmp_chk
+pipe
+setregid
+shmat
+ftruncate64
+getpwent_r
+fchdir
+sigprocmask
+futimes
+sigfillset
+setreuid
+endnetent
+__stack_chk_fail
+shmctl
+unlink
+shmdt
+abort
+memchr
+getpid
+kill
+localtime_r
+strtod
+__ctype_get_mb_cur_max
+endpwent
+isatty
+getgrnam_r
+feof
+eaccess
+symlink
+fgetc
+gethostbyname_r
+getnetent_r
+prctl
+sigemptyset
+memset
+localeconv
+strstr
+memcmp
+endgrent
+mbtowc
+setprotoent
+getsockopt
+setgroups
+getlogin_r
+msgget
+dup2
+unsetenv
+__fxstat64
+sigaddset
+getpwuid_r
+fchown
+__sigsetjmp
+gethostent_r
+fseeko64
+endhostent
+setresgid
+memcpy
+freopen64
+fclose
+__vsnprintf_chk
+setsockopt
+killpg
+ftello64
+setegid
+setpgid
+getgid
+tzset
+__lxstat64
+nl_langinfo
+opendir
+getnetbyaddr_r
+__xstat64
+__ctype_b_loc
+getenv
+setresuid
+msgctl
+getservbyname_r
+__snprintf_chk
+seteuid
+getgroups
+getuid
+getegid
+getpgid
+execvp
+getpwnam_r
+sethostent
+getcwd
+fwrite
+fread
+gettimeofday
+setnetent
+mkstemp64
+geteuid
+__memcpy_chk
+sigismember
+strerror_r
+localtime
+strchr
+getsockname
+getgrent_r
+__vfprintf_chk
+qsort
+__ctype_toupper_loc
+__ctype_tolower_loc
+getprotobyname_r
+gethostbyaddr_r
+readdir64_r
+getgrgid_r
+memmove
+endservent
+fopen64
+strxfrm
+getservbyport_r
+strcmp
+__libc_start_main
+setpwent
+ferror
+gcvt
+sysconf
+__environ
+libcrypt.so.1
+crypt_r
+Perl_save_sptr
+Perl_utf8_to_uvchr_buf
+Perl_mfree
+Perl_pp_stub
+Perl_peep
+Perl_save_adelete
+PL_valid_types_IVX
+XS_version_stringify
+Perl_padname_dup
+Perl_save_pptr
+__libc_csu_fini
+Perl_sortsv
+Perl_utf16_to_utf8_reversed
+Perl_my_clearenv
+Perl_pp_flop
+Perl_ck_open
+PerlIO_tab_sv
+Perl_cx_dup
+Perl_vstringify
+Perl_PerlIO_save_errno
+Perl_he_dup
+Perl_sv_free_arenas
+PL_op_private_bitdef_ix
+PerlIOBuf_bufsiz
+Perl_pp_divide
+Perl_newSVREF
+Perl_rninstr
+Perl_is_uni_graph
+Perl_pp_leaveloop
+Perl_dump_vindent
+Perl_get_re_arg
+Perl_sv_setref_pv
+Perl_ck_exec
+PL_valid_types_NVX
+Perl_sv_2bool
+PerlIOStdio_fileno
+Perl_sv_free
+Perl_set_numeric_local
+Perl_sv_2iv_flags
+Perl__get_swash_invlist
+Perl_is_uni_space_lc
+Perl_getenv_len
+Perl_ck_svconst
+PerlIOUnix_refcnt_inc
+PerlIO_list_push
+Perl_padnamelist_free
+PerlIOBuf_open
+Perl_repeatcpy
+Perl_pp_method_redir_super
+Perl_mess_sv
+Perl_sv_2bool_flags
+Perl_pp_formline
+PL_block_type
+Perl_current_re_engine
+PL_warn_uninit
+Perl_is_utf8_space
+Perl_magic_setdbline
+Perl_save_nogv
+Perl_ck_defined
+Perl_pp_rcatline
+Perl_init_stacks
+Perl_sawparens
+Perl_looks_like_number
+Perl_find_rundefsv2
+Perl_hv_iterkeysv
+Perl_pp_ssockopt
+Perl_sv_catsv_mg
+Perl_newWHILEOP
+Perl_closest_cop
+Perl_PerlIO_stdout
+Perl_ptr_table_store
+Perl_whichsig_sv
+Perl_save_long
+Perl_magic_clear_all_env
+Perl_pp_select
+Perl_rsignal_save
+Perl_pp_method_super
+Perl_is_uni_ascii_lc
+Perl_magic_getdefelem
+Perl_cv_undef
+Perl_sv_kill_backrefs
+Perl_sv_setnv
+Perl_PerlIO_fileno
+Perl_magic_set_all_env
+Perl_is_utf8_cntrl
+PerlIO_isutf8
+Perl_reg_named_buff_firstkey
+PerlIO_init
+PerlIO_define_layer
+Perl_is_uni_graph_lc
+Perl_dofile
+Perl_magic_sizepack
+Perl_ck_return
+Perl_newANONLIST
+Perl_reg_numbered_buff_length
+Perl_packlist
+Perl_ck_prototype
+Perl_ck_rfun
+PerlIO_intmode2str
+Perl_pp_dbmopen
+PerlIO_findFILE
+Perl_magic_killbackrefs
+Perl_sv_utf8_encode
+Perl_av_create_and_push
+Perl_hv_exists
+Perl_pp_exists
+Perl_newLISTOP
+Perl_is_uni_idfirst_lc
+Perl_pp_nbit_or
+Perl_mro_get_linear_isa
+Perl_is_utf8_xidfirst
+PerlIO_destruct
+Perl_sv_catpvn_mg
+Perl_newANONHASH
+Perl_utf8_to_bytes
+Perl__is_utf8_idcont
+Perl_sv_pvn_force_flags
+Perl_magic_settaint
+Perl_lex_read_unichar
+Perl_report_evil_fh
+Perl_pp_chroot
+Perl_av_iter_p
+Perl_magic_clearenv
+Perl_is_lvalue_sub
+Perl_is_uni_space
+Perl_pp_leaveeval
+Perl_newRV_noinc
+XS_version_is_alpha
+Perl_pp_rename
+Perl_pad_findmy_sv
+PL_revision
+Perl_mg_find_mglob
+Perl_ck_stringify
+Perl_grok_atoUV
+Perl_is_uni_alnum_lc
+Perl_mg_dup
+PerlIOPop_pushed
+Perl_pp_lvref
+Perl_pp_srefgen
+Perl_sv_2uv_flags
+Perl_sv_clean_all
+Perl_av_arylen_p
+Perl_pp_multiply
+Perl_stack_grow
+Perl_is_utf8_string_loc
+PerlIOPending_set_ptrcnt
+Perl_rv2cv_op_cv
+Perl_sv_setpviv_mg
+Perl_magic_setuvar
+Perl_ck_eval
+Perl_pp_unshift
+Perl_pp_hintseval
+Perl_amagic_deref_call
+Perl_pp_join
+Perl_sv_true
+Perl_save_generic_pvref
+Perl_despatch_signals
+Perl_pp_ncomplement
+XS_UNIVERSAL_isa
+Perl_my_atof
+Perl_sv_catpvn
+Perl_sv_add_backref
+Perl_gv_fetchmethod_pvn_flags
+S_op_clear_gv
+Perl_tied_method
+Perl_pp_seq
+Perl_whichsig_pvn
+Perl_mg_copy
+Perl_pp_splice
+PerlIOUnix_pushed
+Perl_PerlIO_get_cnt
+PerlIO_list_free
+Perl_pp_ord
+Perl_sv_unmagicext
+Perl_magic_existspack
+Perl_PerlIO_set_ptrcnt
+Perl_hv_fetch
+Perl_clone_params_new
+Perl__is_cur_LC_category_utf8
+Perl_pp_semctl
+PL_No
+Perl_custom_op_desc
+Perl_sv_catpvn_flags
+Perl_pp_preinc
+Perl_newGVREF
+Perl_pp_ge
+Perl_get_context
+Perl_get_db_sub
+PL_no_sock_func
+Perl_pp_pushre
+Perl_sv_pos_b2u
+Perl_pp_postinc
+Perl_my_atof2
+Perl_populate_isa
+Perl_die
+Perl_save_alloc
+Perl_pp_gnetent
+PL_no_helem_sv
+PL_interp_size
+Perl_swash_fetch
+Perl_pp_grepwhile
+Perl_deb
+Perl_is_uni_lower_lc
+Perl_gv_name_set
+Perl_newAV
+gp_flags_imported_names
+Perl_save_delete
+Perl_pp_rkeys
+PL_fold_latin1
+Perl_hv_delete_ent
+Perl__is_utf8_xidstart
+Perl_sv_del_backref
+Perl_pp_unpack
+Perl_PerlIO_restore_errno
+Perl_is_uni_punct_lc
+Perl_PerlIO_get_ptr
+Perl_do_tell
+Perl_cando
+XS_version_noop
+Perl_save_gp
+Perl_hv_ename_delete
+Perl_pp_prototype
+Perl_parse_fullexpr
+Perl_pp_umask
+Perl_refcounted_he_chain_2hv
+Perl_newHVhv
+Perl_magic_setdebugvar
+Perl_do_openn
+Perl_is_utf8_alpha
+Perl_mro_set_mro
+Perl_ck_subr
+PerlIOCrlf_write
+PL_curinterp
+PerlIOBuf_get_base
+Perl_pp_i_le
+Perl_oopsHV
+Perl_sv_vcatpvf
+Perl_gv_dump
+PL_bitcount
+Perl_op_dump
+Perl_parse_label
+Perl_utf8_to_uvuni
+PL_magic_data
+Perl_sv_insert_flags
+Perl_call_method
+Perl_pad_swipe
+Perl_gv_fullname3
+PL_regkind
+Perl_sv_utf8_downgrade
+Perl_pp_enter
+Perl_package_version
+Perl_nothreadhook
+Perl_cast_ulong
+Perl_magic_setmglob
+PL_no_func
+PL_reg_name
+Perl_magic_setpack
+Perl_taint_env
+Perl_gv_try_downgrade
+PerlIORaw_pushed
+Perl_newPMOP
+Perl_newSVhek
+Perl_pp_mapwhile
+Perl_pp_untie
+Perl_pp_scmp
+Perl_package
+Perl_is_uni_cntrl_lc
+PerlIOBuf_unread
+Perl_pp_open_dir
+PerlIOBase_noop_fail
+Perl_sv_magicext
+Perl_pp_sysread
+Perl_sv_setsv
+Perl_pp_hslice
+XS_PerlIO_get_layers
+Perl_save_freeop
+Perl_sv_does_pvn
+Perl_pp_gvsv
+Perl_noperl_die
+Perl_die_unwind
+Perl_sv_setpviv
+Perl_save_op
+XS_version_numify
+first_sv_flags_names
+Perl_pp_defined
+Perl_sv_derived_from
+cv_flags_names
+Perl_pp_link
+Perl_do_readline
+Perl_sv_unref_flags
+Perl_magic_setcollxfrm
+Perl_utf8_to_uvuni_buf
+Perl_pad_add_name_pvn
+Perl_av_len
+Perl_save_strlen
+Perl_sub_crush_depth
+Perl_ck_sort
+Perl_is_utf8_upper
+Perl_coresub_op
+Perl_lex_stuff_pv
+Perl_newIO
+Perl_pp_refgen
+Perl_pp_i_subtract
+Perl_pop_scope
+Perl_hv_rand_set
+Perl_parse_block
+PL_sv_placeholder
+Perl_die_nocontext
+Perl_ck_select
+Perl_gv_efullname3
+Perl_validate_proto
+Perl_av_shift
+Perl_magic_setsig
+Perl_pp_split
+PerlIO_modestr
+Perl_reentrant_retry
+Perl_sv_setpvn_mg
+Perl_pp_getppid
+Perl_savesharedpv
+Perl_localize
+Perl_to_utf8_title
+PerlIOPending_fill
+Perl_sv_reset
+PerlIO_tmpfile
+Perl_pp_kvaslice
+Perl_sv_reftype
+Perl_pp_ghostent
+Perl_is_invariant_string
+Perl_boot_core_UNIVERSAL
+Perl_my_cxt_init
+Perl_pp_padrange
+Perl_scalar
+Perl_newCONSTSUB
+Perl_pp_aslice
+Perl_sv_vcatpvfn_flags
+Perl_pp_rv2sv
+XS_re_regnames
+PL_no_symref_sv
+boot_DynaLoader
+Perl_magic_setarylen
+Perl_mess_nocontext
+PL_runops_std
+Perl_pp_wait
+_edata
+PerlIO_parse_layers
+Perl_pp_mkdir
+PerlIOBase_noop_ok
+Perl_re_compile
+Perl_vcmp
+Perl_init_i18nl14n
+Perl_gv_fetchmeth_pvn
+Perl_get_hash_seed
+Perl_gv_fetchmethod_sv_flags
+Perl_warn_nocontext
+Perl_pp_method_named
+Perl_gv_fetchmethod_pv_flags
+Perl_hv_placeholders_set
+Perl_pp_i_eq
+Perl_PerlIO_get_base
+Perl_core_prototype
+perl_clone
+Perl_newSV
+Perl_sv_pos_b2u_flags
+Perl_padnamelist_fetch
+Perl_pp_chr
+Perl_hv_riter_set
+Perl_pad_push
+Perl_reg_named_buff_all
+Perl__to_upper_title_latin1
+PL_freq
+PerlIOBuf_fill
+Perl_my_strerror
+PerlIO_exportFILE
+Perl_gv_fetchfile_flags
+Perl_pp_tied
+Perl_PerlIO_tell
+Perl_vnormal
+Perl_is_uni_alnumc
+Perl__swash_inversion_hash
+Perl_mg_clear
+Perl_do_aexec
+Perl_pmop_dump
+Perl_sv_2num
+Perl_gv_IOadd
+perl_construct
+Perl_pp_xor
+Perl__warn_problematic_locale
+Perl_pp_rand
+Perl_report_wrongway_fh
+Perl_my_dirfd
+PL_mmap_page_size
+Perl_magic_getuvar
+Perl_unsharepvn
+Perl_parse_subsignature
+Perl_gv_init_sv
+Perl_do_dump_pad
+Perl_ptr_table_free
+Perl_pp_accept
+Perl_wait4pid
+PerlIOBuf_get_ptr
+Perl_pregfree
+Perl_newRANGE
+Perl_refcounted_he_fetch_pvn
+Perl_fbm_instr
+Perl_sv_magicext_mglob
+Perl_custom_op_get_field
+PL_my_ctx_mutex
+Perl_get_opargs
+Perl_lex_bufutf8
+Perl__new_invlist
+PerlIO_importFILE
+Perl_ck_ftst
+Perl_defelem_target
+perl_free
+Perl_sv_2pv_nolen
+Perl_lex_stuff_pvn
+Perl_pp_vec
+PerlIO_arg_fetch
+Perl_sv_force_normal_flags
+Perl_reg_qr_package
+Perl_sv_collxfrm_flags
+Perl_ninstr
+Perl_newCONSTSUB_flags
+Perl_do_open
+PL_varies
+PL_op_private_bitfields
+Perl_mg_free_type
+Perl_pp_leavesublv
+Perl_parser_free_nexttoke_ops
+Perl_is_uni_digit_lc
+Perl_ref
+Perl_pp_range
+Perl_pp_each
+PerlIO_apply_layers
+PerlIOPending_close
+Perl_require_pv
+Perl_gv_const_sv
+Perl_sv_2iv
+Perl_pad_alloc
+PL_version
+Perl_pp_entergiven
+Perl_cv_const_sv
+Perl_sv_setref_nv
+Perl_pp_int
+Perl_pp_crypt
+Perl_gv_HVadd
+Perl_pp_lslice
+Perl_pp_not
+PL_fold_locale
+Perl_sv_clean_objs
+Perl_drand48_r
+Perl_vmess
+Perl_sv_force_normal
+Perl_save_pushptrptr
+Perl_is_utf8_idcont
+PerlIOStdio_read
+God A red nugget A fat egg under a dog
+Perl_pp_getpriority
+S_check_hash_fields_and_hekify
+XS_UNIVERSAL_DOES
+Perl_vnewSVpvf
+XS_Internals_hv_clear_placehold
+Perl_unpackstring
+Perl_pv_display
+Perl_pp_lvrefslice
+Perl_do_aexec5
+Perl_padlist_dup
+Perl_newSTUB
+PerlIO_allocate
+Perl_do_open9
+Perl_get_cvn_flags
+Perl_pp_pack
+Perl_mini_mktime
+Perl_pp_fork
+PerlIOStdio_clearerr
+Perl_pp_rv2cv
+Perl_vcroak
+PerlIOBase_binmode
+Perl_init_dbargs
+Perl_opslab_force_free
+Perl_ss_dup
+PerlIO_rewind
+PerlIOCrlf_binmode
+PL_op_private_valid
+Perl_pp_rmdir
+Perl_was_lvalue_sub
+Perl_pp_fileno
+Perl_Slab_Alloc
+Perl_do_eof
+Perl_set_numeric_radix
+Perl_pp_readline
+Perl_delimcpy
+PL_simple
+Perl_warner
+Perl_sv_catpvf
+Perl_pp_flip
+Perl_newHV
+Perl_newMETHOP
+Perl_mro_register
+Perl_sv_catpvf_mg_nocontext
+Perl_sv_upgrade
+Perl_sv_pos_u2b_flags
+PerlIOStdio_write
+Perl_pp_gelem
+Perl_dump_all_perl
+Perl_pp_aelemfast
+Perl_pp_nextstate
+Perl_is_uni_alpha_lc
+Perl_pp_readlink
+Perl_pp_seekdir
+Perl_sv_setiv_mg
+Perl_sv_newref
+Perl_pp_gpwent
+PerlIOStdio_eof
+Perl_pp_sselect
+Perl_PerlIO_close
+Perl_ck_warner
+Perl_sv_does_pv
+PL_thr_key
+Perl_fbm_compile
+Perl_keyword
+Perl_savesvpv
+Perl_str_to_version
+Perl_uvuni_to_utf8
+Perl_sv_dup_inc
+Perl_get_no_modify
+Perl_magic_sethint
+Perl_share_hek
+Perl_gv_stashpvn
+Perl_pp_sysopen
+Perl_re_dup_guts
+PL_no_modify
+Perl_tmps_grow_p
+PerlIO_getpos
+Perl_sv_pvn
+XS_re_regexp_pattern
+PerlIO_apply_layera
+Perl_scan_oct
+PerlIOStdio_mode
+Perl_hv_placeholders_p
+Perl_save_I32
+Perl_pp_tie
+Perl_pp_lt
+Perl_do_execfree
+Perl_do_magic_dump
+Perl_sv_setpvf_mg
+Perl_mro_method_changed_in
+Perl_lex_stuff_sv
+PerlIO_fdupopen
+Perl_pp_nbit_and
+Perl_magic_getvec
+Perl_utf8_distance
+Perl_ck_grep
+Perl_ck_index
+Perl_pp_aeach
+Perl_grok_infnan
+Perl_PerlIO_stdin
+Perl_save_item
+PL_warn_nl
+Perl_rsignal_restore
+Perl_pp_eq
+Perl_magic_clearsig
+Perl_ck_smartmatch
+Perl_ck_length
+Perl_pp_length
+op_flags_names
+PerlIOStdio_unread
+Perl_reg_temp_copy
+Perl_reentrant_size
+perl_destruct
+Perl_custom_op_register
+Perl_is_uni_upper
+PL_no_mem
+Perl_refcounted_he_free
+Perl_dirp_dup
+XS_version_vcmp
+Perl_parse_stmtseq
+Perl_newLOOPEX
+PL_do_undump
+Perl_nextargv
+S_deb_padvar
+Perl_pp_syswrite
+PL_warn_reserved
+Perl_av_store
+Perl_rxres_save
+PerlIO_push
+Perl_pp_leave
+PL_warn_uninit_sv
+Perl_save_shared_pvref
+PerlIOBase_read
+Perl_op_clear
+Perl_pp_concat
+Perl_pp_unstack
+Perl_pp_bit_and
+Perl_ck_exists
+Perl_sv_setpv
+Perl_newPADNAMEpvn
+Perl_sv_catpvf_nocontext
+Perl_sv_catpvf_mg
+Perl_newSVnv
+Perl_pp_fttext
+Perl_re_intuit_string
+Perl_newDEFSVOP
+PL_valid_types_RV
+Perl_sv_setpvf_mg_nocontext
+Perl_pp_close
+Perl_sv_setref_pvn
+PerlIOUnix_dup
+XS_PerlIO__Layer__find
+Perl_pp_uc
+Perl_sv_bless
+Perl_ck_rvconst
+XS_UNIVERSAL_can
+Perl_hek_dup
+Perl_do_sysseek
+Perl_magic_clearhint
+Perl_ck_match
+Perl_op_null
+Perl_sv_setnv_mg
+Perl_pad_new
+Perl_sv_cat_decode
+Perl_rpeep
+Perl_pp_getpeername
+PerlIO_default_buffer
+Perl_sv_unref
+Perl_hv_exists_ent
+Perl_ck_glob
+Perl_regdupe_internal
+Perl_is_uni_idfirst
+Perl_sv_pvn_force
+Perl_pp_redo
+Perl_getcwd_sv
+hv_flags_names
+PL_core_reg_engine
+Perl_sv_chop
+Perl_warn
+XS_utf8_is_utf8
+Perl_sv_isa
+Perl_sv_2pvbyte
+Perl_do_open_raw
+Perl__is_utf8_perl_idstart
+Perl_savestack_grow_cnt
+Perl_bind_match
+PL_varies_bitmask
+Perl_pp_and
+PerlIOBase_dup
+PerlIOPending_read
+Perl_pp_reset
+pmflags_flags_names
+Perl_watch
+Perl_is_uni_print
+XS_DynaLoader_dl_error
+Perl_sv_2pv_flags
+Perl_xs_boot_epilog
+XS_DynaLoader_dl_load_file
+Perl_magic_setregexp
+PL_valid_types_IV_set
+Perl_create_eval_scope
+Perl_av_delete
+Perl_pad_add_name_pv
+Perl__swash_to_invlist
+Perl_pp_ref
+PerlIO_resolve_layers
+perl_alloc
+Perl_magic_getpos
+Perl_grok_bin
+Perl_mro_get_private_data
+XS_re_regnames_count
+PerlIO_canset_cnt
+Perl_padname_free
+Beeb
+Perl_invert
+Perl_isALNUM_lazy
+PerlIOBase_clearerr
+Perl_my_popen
+Perl_sv_setsv_cow
+Perl_hv_iternext_flags
+NATIVE_TO_NEED
+Perl_grok_number
+Perl_pp_padcv
+Perl_runops_standard
+Perl_newMETHOP_named
+Perl_ptr_table_new
+Perl_my_exit
+Perl_sv_unmagic
+Perl_pp_ncmp
+XS_DynaLoader_dl_find_symbol
+Perl_newBINOP
+Perl_set_caret_X
+Perl_sv_nolocking
+PerlIOStdio_seek
+Perl_pp_print
+Perl_sv_pos_u2b
+PL_uudmap
+Perl_ck_repeat
+Perl_get_cv
+Perl_parse_termexpr
+PL_charclass
+Perl_gv_autoload_pvn
+Perl_is_utf8_posix_digit
+Perl_pp_gmtime
+Perl_hv_name_set
+PerlIOUnix_seek
+Perl_uvuni_to_utf8_flags
+Perl_pp_add
+perlsio_binmode
+Perl_dounwind
+Perl_PerlIO_context_layers
+Perl_cv_const_sv_or_av
+PerlIOBuf_get_cnt
+Perl__invlist_dump
+Perl_newNULLLIST
+PerlIOBuf_read
+Perl_pp_sin
+Perl_pp_leavetry
+Perl_sv_dec_nomg
+Perl_pad_tidy
+Perl_new_version
+PerlIO_getname
+Perl_sv_does_sv
+Perl_cop_fetch_label
+PL_runops_dbg
+Perl_pp_repeat
+Perl_magic_clearisa
+Perl_safesysmalloc
+Perl_pp_padsv
+Perl_ck_each
+Perl_pp_iter
+Perl_sv_untaint
+Perl_si_dup
+Perl_pp_abs
+Perl_varname
+PerlIOBase_flush_linebuf
+Perl_sv_setref_iv
+Perl_sv_clear
+Perl_refcounted_he_new_pv
+PerlIO_utf8
+XS_utf8_valid
+Perl_magic_getsubstr
+Perl_pp_i_ne
+Perl_magic_setpos
+Perl_sv_dup
+PerlIOPending_flush
+Perl_parser_dup
+PerlIO_layer_fetch
+Perl_ck_readline
+Perl_padlist_store
+PerlIOBuf_flush
+PerlIO_cleanup
+Perl_save_svref
+PL_sh_path
+Perl_drand48_init_r
+Perl_yyerror_pv
+Perl_ckwarn_d
+Perl_init_constants
+Perl_new_numeric
+Perl_bytes_from_utf8
+Perl_hv_store_ent
+Perl_save_hash
+Perl_hv_delete
+Perl_pp_delete
+Perl_do_ipcctl
+Perl_unpack_str
+PerlIOUnix_close
+XS_Internals_SvREFCNT
+Perl_reg_numbered_buff_store
+Perl_PerlIO_flush
+Perl_find_runcv_where
+Perl_do_shmio
+Perl__is_utf8_perl_idcont
+Perl_pp_stringify
+Perl__invlist_invert
+Perl__is_in_locale_category
+Perl_mro_meta_dup
+Perl_init_tm
+Perl_pp_once
+Perl_pp_caller
+Perl_op_append_list
+Perl_sv_pvn_nomg
+PL_perlio_fd_refcnt
+Perl_PerlIO_seek
+ASCII_TO_NEED
+Perl_pp_complement
+XS_utf8_encode
+Perl_magic_cleararylen_p
+PL_veto_cleanup
+Perl_magic_getnkeys
+Perl_hv_iternextsv
+Perl_pp_ggrent
+Perl_intro_my
+Perl_sv_pvutf8
+XS_version_is_qv
+Perl_cx_dump
+Perl_pp_sort
+Perl_sv_ref
+Perl_pp_qr
+Perl_sv_pvutf8n
+Perl_newSTATEOP
+Perl_pp_waitpid
+Perl_pad_findmy_pv
+Perl_sv_cmp_locale
+Perl_newLOGOP
+Perl_pp_anonlist
+Perl_ck_fun
+Perl_hfree_next_entry
+__data_start
+Perl_grok_oct
+Perl_sv_nounlocking
+Perl_pp_aassign
+Perl_ck_entersub_args_proto
+Perl_pp_rv2av
+Perl_pp_readdir
+PerlIOUnix_fileno
+Perl_PerlIO_clearerr
+PerlIOBase_error
+Perl_sv_nosharing
+PerlIOStdio_pushed
+Perl_pp_const
+Perl_pp_anoncode
+Perl_parse_arithexpr
+Perl_cxinc
+Perl_hv_scalar
+Perl_pp_socket
+second_sv_flags_names
+PerlIO_raw
+Perl_pp_truncate
+Perl_newSLICEOP
+Perl_to_uni_title_lc
+Perl__setup_canned_invlist
+Perl_hv_eiter_p
+Perl_pp_exit
+XS_PerlIO__Layer__NoWarnings
+PerlIOCrlf_flush
+Perl_newPROG
+PerlIO_releaseFILE
+Perl_pp_ne
+Perl_do_trans
+Perl_cvstash_set
+PL_valid_types_NV_set
+Perl_sv_gets
+Perl_find_lexical_cv
+Perl_sv_isobject
+Perl_save_iv
+PL_magic_vtables
+Perl_sv_setuv
+Perl_my_strftime
+Perl_isIDFIRST_lazy
+Perl_reg_named_buff_scalar
+Perl__to_uni_fold_flags
+Perl_sv_inc
+Perl_save_I8
+PerlIO_cleantable
+Perl_do_semop
+Perl_isinfnan
+Perl_gv_fetchpv
+Perl_magic_setvec
+Perl_debstackptrs
+Perl__invlist_contents
+Perl_sv_setpvf_nocontext
+XS_utf8_upgrade
+Perl_mg_magical
+Perl_hv_ksplit
+Perl_pp_binmode
+Perl_pp_aelem
+Perl__to_utf8_fold_flags
+PerlIOBuf_set_ptrcnt
+Perl_sv_pvutf8n_force
+PerlIOUnix_oflags
+Perl_filter_del
+Perl__load_PL_utf8_foldclosures
+Perl_sv_mortalcopy_flags
+Perl_pp_left_shift
+PL_sig_num
+PL_valid_types_PVX
+Perl_jmaybe
+PerlIOBase_close
+Perl_is_uni_cntrl
+Perl_sv_backoff
+Perl_refcounted_he_fetch_pv
+Perl_op_scope
+Perl_mg_localize
+Perl_pp_fc
+Perl_init_argv_symbols
+XS_DynaLoader_dl_install_xsub
+Perl_pp_anonconst
+Perl_save_padsv_and_mortalize
+Perl_gv_fetchmeth_sv
+PL_subversion
+Perl_pp_chown
+Perl_do_ncmp
+Perl_newSVsv
+Perl_scalarvoid
+Perl_do_gv_dump
+Perl_is_uni_xdigit
+PL_reg_extflags_name
+Perl_amagic_call
+Perl_croak_xs_usage
+Perl_dump_sub
+PL_Yes
+XS_Internals_SvREADONLY
+Perl_sv_2pvutf8_nolen
+Perl_save_hints
+Perl_pp_i_negate
+Perl_newSUB
+Perl_croak_no_mem
+Perl_newSVpvn_flags
+Perl_apply
+Perl_newFOROP
+Perl_magic_clearpack
+PerlIOBase_open
+PerlIO_stdio
+Perl_pp_telldir
+Perl_gp_free
+Perl_ck_anoncode
+Perl_pad_add_name_sv
+Perl_sv_grow
+Perl_pp_flock
+Perl_grok_numeric_radix
+Perl_magic_regdatum_get
+Perl_sv_utf8_upgrade_flags_grow
+Perl_magic_setdefelem
+PerlIO_byte
+Perl_io_close
+Perl_gv_handler
+Perl_pad_block_start
+Perl_sv_2nv_flags
+Perl_save_I16
+Perl_sv_usepvn
+Perl_gv_check
+Perl_find_script
+PL_sig_name
+Perl_ck_method
+Perl_gv_stashpv
+PL_op_private_labels
+Perl_get_ppaddr
+PerlIOBuf_tell
+Perl_dump_packsubs
+Perl_gv_fetchmeth_pvn_autoload
+Perl_parse_listexpr
+_IO_stdin_used
+Perl_sv_len
+Perl_ck_delete
+Perl_filter_read
+Perl_newANONATTRSUB
+Perl_vdeb
+S_maybe_multideref
+Perl__to_utf8_title_flags
+Perl_magic_getarylen
+PerlIOStdio_tell
+Perl_wrap_op_checker
+Perl_gv_setref
+Perl_hv_riter_p
+Perl_pp_syscall
+Perl_PerlIO_unread
+Perl_cv_name
+Perl_pp_trans
+Perl_dump_form
+Perl_mg_size
+Perl_pp_enterwhen
+PL_my_cxt_index
+Perl_pp_runcv
+Perl_ck_cmp
+Perl_pp_enterwrite
+Perl_mess
+Perl_pv_pretty
+Perl_pp_subst
+Perl_foldEQ_utf8_flags
+Perl_parse_unicode_opts
+Perl_feature_is_enabled
+Perl_load_module_nocontext
+Perl_pp_chop
+Perl_prescan_version
+Perl_pp_substr
+Perl_pp_ftis
+XS_re_is_regexp
+Perl_pp_leavesub
+Perl_debstack
+Perl_pp_smartmatch
+Perl_sv_usepvn_flags
+PL_memory_wrap
+Perl_scan_bin
+Perl_warner_nocontext
+Perl_ck_spair
+PL_perlio_debug_fd
+Perl_any_dup
+Perl_croak_no_modify
+PerlIOBuf_seek
+PerlIO_fdopen
+Perl_my_stat
+Perl_do_seek
+Perl_printf_nocontext
+Perl_op_lvalue_flags
+Perl_pp_next
+Perl_croak
+Do nine men interpret Nine men I nod
+PL_check
+Perl_av_push
+Perl_do_vop
+Perl_Gv_AMupdate
+PerlIO_crlf
+Perl_regprop
+Perl_cast_i32
+Perl_save_bool
+Perl_sv_uv
+Perl_sys_init3
+Perl_pp_enteriter
+Perl_ck_split
+Perl_pp_return
+Perl_av_create_and_unshift_one
+PL_no_usym
+Perl_magic_freearylen_p
+Perl_vivify_defelem
+Perl_save_pushi32ptr
+Perl_hv_eiter_set
+Perl_is_uni_alpha
+Perl_pp_ftrread
+PL_use_safe_putenv
+Perl_to_utf8_fold
+Perl_sv_cmp_flags
+Perl_sv_eq_flags
+Perl__add_range_to_invlist
+Perl_my_vsnprintf
+Perl_pp_ftrowned
+Perl_pp_setpgrp
+Perl_magic_freeovrld
+PL_bincompat_options
+XS_DynaLoader_CLONE
+Perl_boot_core_PerlIO
+S_op_sibling_newUNOP
+Perl_new_ctype
+Perl_av_reify
+PL_op_name
+Perl_pp_shostent
+Perl_dump_sub_perl
+Perl_to_uni_lower_lc
+Perl_fprintf_nocontext
+Perl_softref2xv
+PerlIO_teardown
+PL_keyword_plugin
+Perl_cv_ckproto_len_flags
+Perl_pp_wantarray
+Perl_debop
+Perl_die_sv
+Perl_pp_i_lt
+PL_no_aelem
+Perl_pp_leavewrite
+Perl_pp_padhv
+Perl_emulate_cop_io
+Perl_pp_listen
+Perl_savepvn
+Perl_pp_method_redir
+Perl_pp_i_ge
+Perl_magic_getdebugvar
+Perl_pp_getlogin
+Perl_pp_gv
+Perl_newGVOP
+Perl_gv_fetchsv
+Perl_newAVREF
+PerlIO__close
+PerlIO_vprintf
+Perl_newSVpv
+Perl_pp_leavewhen
+PL_uuemap
+Perl_gv_fetchpvn_flags
+Perl_pp_entereval
+Perl_is_uni_digit
+Perl_yyunlex
+Perl_pp_gt
+Perl_foldEQ_latin1
+Perl_hv_copy_hints_hv
+XS_DynaLoader_dl_unload_file
+Perl_newHVREF
+Perl_newPVOP
+Perl_cvgv_from_hek
+Perl_save_pushptr
+Perl_safesyscalloc
+Perl_sv_sethek
+PL_no_myglob
+Perl_calloc
+Perl_save_hptr
+Perl_newLOOPOP
+Perl_sv_destroyable
+Perl_pp_srand
+__libc_csu_init
+Perl_pp_clonecv
+Perl_save_generic_svref
+Perl_pp_helem
+Perl_newCVREF
+Perl_pregcomp
+Perl_do_print
+PerlIOBase_unread
+Perl_pp_or
+Perl_reginitcolors
+XS_version_boolean
+Perl_vload_module
+Perl_pp_goto
+Perl_cv_clone
+Perl_do_kv
+Perl_av_unshift
+Perl_is_utf8_perl_word
+Perl_op_contextualize
+PL_no_symref
+Perl_refcounted_he_inc
+Perl_is_utf8_lower
+Perl_pp_exec
+Perl_gv_fetchmethod_autoload
+Perl__is_utf8_xidcont
+Perl_get_sv
+XS_version_new
+Perl_refcounted_he_fetch_sv
+PerlIOBase_fileno
+Perl_av_pop
+PL_fold
+Perl_pad_compname_type
+Perl_is_uni_print_lc
+Perl_load_module
+Perl_new_stackinfo
+Perl_pp_right_shift
+Perl_op_prepend_elem
+Perl_pp_null
+Perl_pp_match
+Perl_my_lstat_flags
+Perl_pad_add_weakref
+Perl_pp_semget
+Perl_PerlIO_get_bufsiz
+Perl_pp_modulo
+Perl_newGVgen_flags
+Perl_croak_nocontext
+Perl_save_aelem_flags
+Perl_sys_init
+Perl_call_list
+PerlIOStdio_setlinebuf
+Perl_new_collate
+Perl_newXS
+PerlIOUnix_read
+Perl_fp_dup
+Perl_my_setenv
+regexp_extflags_names
+Perl_op_free
+Perl_my_lstat
+PerlIO_pop
+Perl_is_uni_alnum
+Perl_magic_get
+Perl_pp_regcreset
+Perl_ptr_table_fetch
+Perl_PerlIO_set_cnt
+Perl__is_uni_perl_idcont
+PerlIO_open
+Perl_Slab_Free
+PerlIOStdio_fill
+Perl_is_uni_alnumc_lc
+Perl_pp_sbit_and
+PerlIOStdio_flush
+PerlIOUnix_tell
+PerlIO_has_cntptr
+Perl_atfork_unlock
+Perl_sv_does
+Perl_report_redefined_cv
+PerlIOCrlf_pushed
+Perl_reg_named_buff_iter
+Perl_gv_fullname4
+Perl__get_encoding
+Perl_doing_taint
+Perl_gv_efullname4
+Perl_newXS_deffile
+Perl_gv_AVadd
+Perl_sv_pvbyte
+Perl_newASSIGNOP
+Perl_PerlIO_read
+Perl_bytes_to_utf8
+Perl_lex_next_chunk
+Perl_magic_regdata_cnt
+Perl_sys_term
+Perl_cast_uv
+Perl_gv_fetchmeth_pv
+Perl_sv_peek
+PL_no_wrongref
+Perl__is_utf8_idstart
+Perl_reg_named_buff
+Perl_pp_last
+Perl_grok_hex
+Perl_regfree_internal
+Perl_pp_shift
+PerlIOCrlf_set_ptrcnt
+Perl_more_bodies
+Perl_init_debugger
+Perl_hv_store_flags
+Perl_free_tied_hv_pool
+PL_no_security
+Perl_rvpv_dup
+Perl_pp_gprotoent
+Perl_pv_uni_display
+Perl_gv_stashsv
+Perl_pp_i_add
+Perl_pp_undef
+Perl_newGIVENOP
+Perl_av_fill
+Perl_get_op_names
+Perl__to_utf8_upper_flags
+Perl_sv_2nv
+Perl_write_to_stderr
+Perl_newSVpv_share
+Perl_pp_fttty
+XS_DynaLoader_dl_undef_symbols
+Perl_sv_vsetpvf_mg
+Perl_try_amagic_bin
+Perl_cop_store_label
+Perl_start_subparse
+Perl_save_set_svflags
+Perl_ck_trunc
+Perl_save_list
+Perl_utf16_to_utf8
+Perl_save_freesv
+Perl_qerror
+Perl_utf8n_to_uvchr
+Perl_save_destructor
+Perl_dump_packsubs_perl
+Perl_malloc
+Perl_setdefout
+Perl_vwarner
+PerlIO_setpos
+PerlIOBuf_write
+Perl_my_popen_list
+PerlIOBase_pushed
+Perl_uvchr_to_utf8_flags
+PL_op_private_bitdefs
+Perl_magic_set
+Perl_mg_set
+Perl_mg_free
+Perl_my_attrs
+Perl_hv_ename_add
+Perl_pp_av2arylen
+Perl_hv_iterinit
+Perl__invlist_populate_swatch
+Perl_magic_setutf8
+Perl_sv_mortalcopy
+Perl_pp_ucfirst
+Perl_to_uni_title
+Perl_sv_derived_from_pvn
+Perl_hv_backreferences_p
+Perl_pp_refassign
+Perl_finalize_optree
+Perl_is_utf8_char_buf
+Perl_PerlIO_error
+Perl_newCONDOP
+Perl_delete_eval_scope
+Perl_pregexec
+S_alloc_LOGOP
+Perl_sv_vcatpvf_mg
+Perl_new_warnings_bitfield
+Perl_foldEQ_locale
+Perl_pad_leavemy
+Perl_sv_inc_nomg
+Perl_dowantarray
+Perl_hv_clear_placeholders
+Perl_pp_ehostent
+perl_parse
+PerlIOBase_setlinebuf
+Perl_lex_read_to
+Perl_get_op_descs
+Perl_pp_ftlink
+Perl_magic_clearhints
+Perl_set_numeric_standard
+Perl_sv_setsv_flags
+Perl_newXS_flags
+Perl_sv_2mortal
+Perl_pad_findmy_pvn
+Perl_sv_cmp
+PL_ppaddr
+Perl_padnamelist_store
+Perl_pp_regcomp
+Perl_mem_collxfrm
+Perl_mg_get
+Perl_refcounted_he_new_pvn
+Perl_magic_regdatum_set
+Perl_op_sibling_splice
+Perl_magic_setnkeys
+Perl_form
+Perl_eval_pv
+Perl_pp_padav
+PerlIO_find_layer
+S_softref2xv_lite
+Perl_save_helem_flags
+Perl_pp_le
+Perl_uvoffuni_to_utf8_flags
+PL_csighandlerp
+Perl_save_aptr
+Perl_magic_setsubstr
+Perl_pp_setpriority
+Perl_sv_len_utf8_nomg
+regexp_core_intflags_names
+__bss_start
+Perl_hv_common
+Perl_pp_coreargs
+Perl_reg_named_buff_fetch
+Perl_sv_utf8_upgrade
+PerlIOPending_seek
+Perl_PerlIO_eof
+Perl_sv_copypv
+Perl_pp_oct
+Perl_do_msgrcv
+Perl_init_i18nl10n
+Perl_pp_break
+Perl_is_utf8_string_loclen
+Perl_pp_enterloop
+Perl_vverify
+Perl_newPADNAMEouter
+Perl_find_runcv
+Perl_try_amagic_un
+Perl_gv_fetchmethod
+Perl_is_utf8_alnum
+Perl_pp_index
+Perl_pp_push
+Perl_deb_stack_all
+Perl_ck_warner_d
+Perl_swash_init
+Perl_ck_tell
+Perl_newSVuv
+Perl_safesysfree
+Perl_dump_all
+Perl_pp_lc
+Perl_pp_bind
+Perl_leave_scope
+Perl_pp_pipe_op
+Perl_safesysrealloc
+Perl_block_end
+Perl_newXS_len_flags
+Perl_pp_stat
+Perl_sv_2cv
+Perl_pp_list
+Perl_pp_entersub
+Perl_vwarn
+Perl_pp_chdir
+Perl_hv_delayfree_ent
+PerlIO_ungetc
+Perl_scan_vstring
+Perl_valid_utf8_to_uvchr
+Perl__new_invlist_C_array
+Perl_pp_scomplement
+Perl_pp_cond_expr
+Perl_pp_entertry
+Perl_block_start
+XS_utf8_downgrade
+Perl_boot_core_mro
+Perl_call_pv
+Perl_pp_require
+Perl_clone_params_del
+Perl_sv_catsv_flags
+Perl_is_utf8_graph
+Perl_do_exec3
+gp_flags_names
+Perl_lex_peek_unichar
+PL_sigfpe_saved
+PerlIOStdio_close
+Perl_av_undef
+Perl_pp_rv2gv
+Perl_ck_refassign
+Perl_hv_kill_backrefs
+Perl_magic_dump
+Perl_ck_backtick
+PerlIO_unix
+Perl_sv_catsv
+Perl_do_join
+Perl_mode_from_discipline
+Perl_pp_system
+Perl_save_ary
+Perl_croak_sv
+Perl_save_re_context
+Perl_is_uni_blank_lc
+Perl_list
+XS_utf8_unicode_to_native
+Perl_sv_2uv
+Perl_cvgv_set
+Perl_sv_resetpvn
+Perl_keyword_plugin_standard
+Perl_dump_indent
+Perl_sv_2io
+Perl_xs_handshake
+Perl_pad_free
+Perl_gp_ref
+PL_check_mutex
+Perl__is_utf8_mark
+Perl_to_uni_upper_lc
+Perl_magic_methcall
+Perl_do_open6
+PerlIOUtf8_pushed
+Perl_refcounted_he_new_sv
+Perl_save_freepv
+XS_version_qv
+Perl_filter_add
+Perl_op_append_elem
+PerlIOBuf_popped
+Perl_sv_derived_from_pv
+Perl_is_utf8_char
+Perl_my_pclose
+Perl_magic_scalarpack
+Perl_save_hdelete
+Perl_sv_insert
+Perl_pp_sle
+Perl_is_utf8_digit
+Perl_sv_pv
+Perl_rsignal_state
+Perl_hv_iterkey
+Perl_my_strlcat
+Perl_av_fetch
+Perl_pp_closedir
+PL_simple_bitmask
+Perl_oopsAV
+Perl_unshare_hek
+Perl_av_make
+XS_utf8_native_to_unicode
+Perl_ck_sassign
+Perl_sv_get_backrefs
+Perl_find_rundefsv
+Perl_is_uni_punct
+Perl_ck_require
+PerlIO_pending
+Perl_bytes_cmp_utf8
+PerlIO_sv_dup
+Perl_atfork_lock
+PL_op_seq
+Perl_newWHENOP
+Perl_utf8n_to_uvuni
+Perl_lex_read_space
+Perl_check_utf8_print
+Perl_pp_prtf
+Perl__is_uni_perl_idstart
+Perl_sv_pvbyten_force
+Perl_save_clearsv
+Perl_lex_start
+Perl_warn_sv
+PerlIO_stdoutf
+Perl_mro_package_moved
+Perl__invlist_union_maybe_complement_2nd
+Perl_pp_introcv
+Perl_sv_copypv_flags
+Perl_mro_set_private_data
+Perl_newSVavdefelem
+Perl_pad_fixup_inner_anons
+Perl_hv_undef_flags
+Perl_utf8_length
+Perl_parse_barestmt
+Perl_magic_gettaint
+Perl_gv_efullname
+Perl_regexec_flags
+Perl_magic_setenv
+Perl_is_utf8_idfirst
+Perl_is_utf8_string
+Perl_op_unscope
+Perl_do_gvgv_dump
+Perl_to_utf8_lower
+PL_op_desc
+PerlIOStdio_error
+PerlIO_binmode
+PerlIO_default_layers
+Perl_op_linklist
+PerlIOStdio_dup
+PerlIO_printf
+Perl_lex_discard_to
+Perl_amagic_is_enabled
+Perl_pp_rewinddir
+Perl_gv_override
+Perl_newPADNAMELIST
+Perl_multideref_stringify
+XS_constant__make_const
+Perl_gv_fetchfile
+Perl_sv_catpv_mg
+Perl_parser_free
+Perl_pp_sbit_or
+Perl_mro_isa_changed_in
+Perl_do_binmode
+Perl_translate_substr_offsets
+Perl_alloccopstash
+Perl_ptr_table_clear
+Perl_pp_shutdown
+Perl_is_utf8_alnumc
+Perl_pp_bless
+Perl_newUNOP_AUX
+Perl_free_tmps
+Perl_pp_i_modulo
+Perl_my_unexec
+Perl_sv_rvweaken
+Perl_huge
+Perl_sv_setsv_mg
+Perl_newOP
+Perl_pp_dbstate
+Perl_pp_warn
+Perl_pp_sockpair
+Perl_do_close
+Perl_pp_lock
+Perl_pp_atan2
+Perl_moreswitches
+Perl_pp_substcont
+Perl_newPADOP
+Perl_pp_getpgrp
+Perl__invlist_intersection_maybe_complement_2nd
+Perl__get_regclass_nonbitmap_data
+PerlIO_debug
+Perl_my_failure_exit
+Perl_save_mortalizesv
+Perl_pp_tms
+Perl_cv_set_call_checker_flags
+Perl_foldEQ
+Perl_yyparse
+Perl_newANONSUB
+Perl_isinfnansv
+PL_no_localize_ref
+Perl_op_convert_list
+PerlIO_list_alloc
+Perl_do_msgsnd
+Perl_yylex
+Perl_markstack_grow
+Perl_save_aliased_sv
+Perl_is_utf8_xidcont
+Perl_vnumify
+Perl_hv_common_key_len
+Perl_eval_sv
+Perl_sv_setpvn
+Perl_pp_quotemeta
+Perl_newRV
+Perl_pp_die
+PerlIOStdio_open
+Perl_pp_lvavref
+Perl_mg_find
+Perl_get_vtbl
+PerlIO_perlio
+Perl_newSVOP
+Perl_newSV_type
+Perl_newFORM
+Perl_newSVrv
+Perl_my_socketpair
+Perl_PerlIO_write
+Perl_doref
+Perl_pp_time
+perl_run
+Perl_unimplemented_op
+Perl_yyerror
+PL_reg_intflags_name
+Perl_mg_length
+Perl_gv_SVadd
+Perl_is_uni_lower
+Perl_parse_fullstmt
+Perl_cv_forget_slab
+Perl_hv_store
+Perl_my_stat_flags
+Perl_get_av
+Perl_pv_escape
+Perl_block_gimme
+Perl_pp_backtick
+Perl_pp_reverse
+Perl_form_nocontext
+Perl_sv_2pvutf8
+Perl_pp_continue
+Perl_is_uni_upper_lc
+Perl_sv_catpv
+Perl_op_refcnt_lock
+Perl_sv_report_used
+Perl_sv_catpv_flags
+Perl_magic_setlvref
+Perl_my_strlcpy
+Perl_newSVpvf_nocontext
+Perl_seed
+Perl_savestack_grow
+Perl_sv_utf8_decode
+Perl_is_utf8_xdigit
+Perl_start_glob
+Perl_gv_fetchmeth_sv_autoload
+Perl_opslab_free_nopad
+Perl_is_uni_xdigit_lc
+PerlIO_default_layer
+Perl_opslab_free
+Perl_is_utf8_ascii
+Perl_custom_op_name
+Perl_is_uni_blank
+Perl_report_uninit
+Perl_sv_vsetpvfn
+Perl_pp_i_ncmp
+Perl_ck_concat
+PL_no_dir_func
+Perl_pp_akeys
+Perl_ck_lfun
+PerlIO_getc
+Perl_sync_locale
+PL_hexdigit
+Perl_sv_setpv_mg
+Perl_gv_autoload_pv
+Perl_do_sv_dump
+Perl_ck_entersub_args_proto_or_list
+Perl_magic_wipepack
+Perl_newATTRSUB_x
+Perl_pp_shmwrite
+PL_hash_seed_set
+Perl_deb_nocontext
+Perl_save_vptr
+Perl_sv_magic
+PL_warn_nosemi
+Perl_sv_dec
+Perl_pp_glob
+Perl_sv_vcatpvfn
+Perl_magic_nextpack
+Perl_newMYSUB
+Perl_my_snprintf
+PerlIOCrlf_unread
+PL_latin1_lc
+Perl__is_utf8_FOO
+PerlIOBuf_pushed
+PerlIO_clone
+Perl_call_sv
+Perl_scan_num
+Perl_sv_derived_from_sv
+Perl_hv_clear
+Perl_yyerror_pvn
+PerlIO_stdstreams
+Perl_pp_leavegiven
+XS_version_normal
+Perl_my_fork
+PL_opargs
+Perl_do_ipcget
+Perl_scan_hex
+PL_op_mutex
+Perl_magic_copycallchecker
+Perl_do_sprintf
+Perl_av_exists
+Perl_taint_proper
+Perl_sv_len_utf8
+Perl_sv_setuv_mg
+PL_phase_names
+Perl_magic_getsig
+Perl_sv_free2
+Perl_ckwarn
+PerlIOUnix_refcnt_dec
+Perl_push_scope
+Perl_do_pmop_dump
+Perl_do_hv_dump
+Perl_grok_number_flags
+Perl_sv_2pvbyte_nolen
+Perl_ck_listiob
+Perl_is_utf8_blank
+Perl_save_destructor_x
+Perl_to_uni_upper
+Perl_pp_eof
+Perl_savesharedsvpv
+Perl_pp_pow
+Perl_regnext
+Perl_reentrant_init
+Perl_is_utf8_punct
+Perl_instr
+PL_perlio_fd_refcnt_size
+Perl_sv_setref_uv
+Perl_sv_2pv
+Perl_newGP
+Perl_sv_setpvf
+PerlIO_clone_list
+Perl_hv_iternext
+Perl_utf8_to_uvchr
+PerlIOUnix_write
+Perl_pp_i_gt
+Perl_is_utf8_perl_space
+Perl_pp_study
+Perl_pp_getc
+PerlIO_has_base
+Perl_pad_add_anon
+Perl_do_vecget
+Perl__is_uni_FOO
+PerlIOUnix_open
+Perl_pp_subtract
+Perl_hv_fill
+PL_dollarzero_mutex
+Perl_utilize
+Perl_scan_version
+Perl_utf8_hop
+Perl_newSViv
+Perl_sv_usepvn_mg
+PerlIO_remove
+Perl_gv_init_pv
+Perl_regclass_swash
+Perl_newSVpvn_share
+PL_interp_size_5_18_0
+Perl_PerlIO_setlinebuf
+Perl_pp_kvhslice
+Perl_hv_iterval
+Perl_reg_numbered_buff_fetch
+PL_op_sequence
+Perl_pp_sprintf
+Perl_call_argv
+Perl_pp_pushmark
+PerlIOPending_pushed
+Perl_sv_vsetpvf
+Perl_magic_getpack
+Perl_PerlIO_stderr
+Perl_do_op_dump
+Perl_pp_ioctl
+PerlIOBuf_close
+Perl_pp_alarm
+Perl_sv_recode_to_utf8
+Perl_call_atexit
+Perl_ck_join
+Perl_pp_anonhash
+PerlIO_putc
+Perl_pp_tell
+Perl__to_fold_latin1
+Perl_is_utf8_print
+Perl_pp_sysseek
+Perl_ck_eof
+PL_mod_latin1_uc
+Perl_do_vecset
+Perl_sv_collxfrm
+Perl_op_refcnt_unlock
+Perl_pp_schop
+Perl_ck_entersub_args_core
+Perl_mg_findext
+Perl_sv_dump
+Perl_savesharedpvn
+Perl_magic_setisa
+Perl_cv_clone_into
+Perl_reg_named_buff_exists
+Perl_sv_iv
+Perl_mro_meta_init
+Perl_pp_i_multiply
+Perl_upg_version
+Perl_gv_fetchmeth_pv_autoload
+Perl_whichsig_pv
+Perl_cv_undef_flags
+Perl_gv_add_by_type
+Perl_ck_null
+Perl_sv_taint
+Perl_croak_popstack
+Perl_vivify_ref
+Perl_ck_shift
+Perl_find_rundefsvoffset
+Perl_mro_get_from_name
+Perl_dump_eval
+Perl_sv_setiv
+Perl_uvchr_to_utf8
+Perl_re_op_compile
+Perl_newUNOP
+Perl_savepv
+Perl_valid_utf8_to_uvuni
+Perl__to_utf8_lower_flags
+PerlIO_fast_gets
+Perl_av_extend_guts
+Perl_reentrant_free
+PerlIOCrlf_get_cnt
+Perl_gv_init_pvn
+Perl_sv_pvbyten
+Perl_is_utf8_mark
+Perl_newSVpvf
+Perl_to_utf8_upper
+Perl_pp_multideref
+Perl_ptr_table_split
+PL_perlio_mutex
+Perl_pmruntime
+Perl_reg_named_buff_nextkey
+Perl_pp_method
+Perl_runops_debug
+XS_universal_version
+Perl_re_intuit_start
+Perl_newSVpvn
+Perl_cv_set_call_checker
+Perl_hv_free_ent
+PerlIO_puts
+PerlIO_openn
+Perl_my_fflush_all
+PL_magic_vtable_names
+Perl_pp_pos
+Perl_set_context
+Perl_sv_eq
+Perl_pp_sleep
+Perl_ck_bitop
+Perl_csighandler
+Perl_sv_newmortal
+Perl_caller_cx
+Perl_vform
+Perl_sv_tainted
+Perl_sv_replace
+Perl_ck_substr
+Perl_sv_cmp_locale_flags
+Perl_apply_attrs_string
+Perl_realloc
+Perl_pp_grepstart
+Perl_gv_fullname
+PerlIOBuf_dup
+Perl_to_uni_lower
+Perl_pp_i_divide
+Perl_lex_unstuff
+Perl_pp_open
+Perl_is_uni_ascii
+Perl_regdump
+Perl_pp_sassign
+Perl_debprofdump
+PerlIOBase_popped
+XS_re_regname
+Perl_pp_bit_or
+PerlIO_reopen
+Perl_to_utf8_case
+Perl__invlist_search
+PL_utf8skip
+Perl__core_swash_init
+Perl_pack_cat
+Perl_padnamelist_dup
+Perl_rsignal
+Perl_cv_get_call_checker
+Perl_hv_magic
+Perl_sv_uni_display
+Perl_pp_gservent
+Perl_av_clear
+Perl_save_scalar
+PL_hash_seed
+Perl_ck_entersub_args_list
+XS_mro_method_changed_in
+Perl_pp_negate
+PL_hints_mutex
+Perl_pp_sne
+PerlIOBase_eof
+Perl_PerlIO_fill
+Perl_gp_dup
+Perl_gv_autoload_sv
+Perl_sortsv_flags
+Perl_save_int
+XS_utf8_decode
+Perl_blockhook_register
+Perl_sighandler
+Perl_hv_placeholders_get
+Perl_cast_iv
+Perl_sv_nv
+Perl_lex_grow_linestr
+Perl_pregfree2
+Perl_hv_fetch_ent
+Perl_allocmy
+Perl_get_hv
+Perl_av_extend
+PerlIOUnix_refcnt
+GLIBC_2.2.5
+GLIBC_2.11
+GLIBC_2.14
+GLIBC_2.3.2
+GLIBC_2.4
+GLIBC_2.3.4
+GLIBC_2.3
+52I;
+%4I;
+%2I;
+%*I;
+%"I;
+%zH;
+%rH;
+%jH;
+%bH;
+%ZH;
+%RH;
+%JH;
+%BH;
+%:H;
+%2H;
+%*H;
+%"H;
+%zG;
+%rG;
+%jG;
+%bG;
+%ZG;
+%RG;
+%JG;
+%BG;
+%:G;
+%2G;
+%*G;
+%"G;
+%zF;
+%rF;
+%jF;
+%bF;
+%ZF;
+%RF;
+%JF;
+%BF;
+%:F;
+%2F;
+%*F;
+%"F;
+%zE;
+%rE;
+%jE;
+%bE;
+%ZE;
+%RE;
+%JE;
+%BE;
+%:E;
+%2E;
+%*E;
+%"E;
+%zD;
+%rD;
+%jD;
+%bD;
+%ZD;
+%RD;
+%JD;
+%BD;
+%:D;
+%2D;
+%*D;
+%"D;
+%zC;
+%rC;
+%jC;
+%bC;
+%ZC;
+%RC;
+%JC;
+%BC;
+%:C;
+%2C;
+%*C;
+%"C;
+%zB;
+%rB;
+%jB;
+%bB;
+%ZB;
+%RB;
+%JB;
+%BB;
+%:B;
+%2B;
+%*B;
+%"B;
+%2:;
+AVAUI
+ATUI
+[]A\A]A^
+ATUI
+[]A\
+AVAUI
+ATU1
+B] t	H
+$uqM
+Bjf-
+@#@H
+dH3<%(
+[]A\A]A^
+AWAVA
+AUATA
+,$u&1
+H#@H
+([]A\A]A^A_
+A9@$A
+AVAUI
+A\A]H
+AVAUATU
+u_E1
+]A\A]A^
+ATUI
+}ubH
+vu4A
+[]A\
+ATUH
+[]A\A]A^
+AVAUA
+ATUA
+AVAUM
+ATUH
+=PH;
+={G;
+=*G;
+N)t?
+.urH
+G f%
+G f%
+t'v0f=
+v@f=
+t8wvf
+v0H9
+ATUStWf
+[]A\
+tfATUSH
+[]A\
+F f%
+uNf=
+GxATUSL
+~(Hc
+[]A\
+F f%
+tLw8f=
+tfwXf=
+t<f=
+w:f=
+AWAVA
+AUATI
+[]A\A]A^A_
+AWAVA
+AUAT
+[]A\A]A^A_
+D;s0
+[]A\
+A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AUATUSH
+OxHc
+f(H)
+C L)
+[]A\A]
+C L)
+[]A\A]
+[]A\A]
+ATUSH
+[]A\
+XZ[]A\
+AVAU
+ATUA
+t.wTf=
+uZf.
+ []A\A]A^
+E f%
+PAQL
+APAV
+vDf-}
+AQAPAVR
+AWAVAUATUSH
+([]A\A]A^A_
+G f%
+v f=
+E f%
+C f%
+E f%
+v f=
+F f%
+v f=
+AVAUATUSL
+D$ f%
+vZf=
+t3f=
+]A\A]A^
+]A\A]A^
+l$(H
+E f%
+vrf=
+F f%
+vrf=
+C f%
+vrf=
+@ f%
+@ f%
+@ f%
+T$(I
+@ f%
+tCI;
+D$HH
+t$I;
+AUATUSH
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+AWAVI
+AUATA
+[]A\A]A^A_
+[]A\A]A^A_
+ux<_
+?$t(I
+ATUH
+v-f=
+[]A\
+[]A\
+[]A\
+AVAUATUI
+F f%
+[]A\A]A^
+wjf=
+AWAVAUATUS1
+[]A\A]A^A_
+F#@f
+AUATI
+C0f%
+[]A\A]
+[]A\A]
+ATUI
+p t&H
+[]A\
+AUATUSH
+[]A\A]
+[]A\A]
+AWAVAUATI
+B f%
+C f%
+([]A\A]A^A_
+B f%
+AUATUSH
+F f%
+[]A\A]
+[]A\A]
+B f%
+F# t
+B f%
+F f%
+D$ f%
+@ f%
+AVAUATUA
+]A\A]A^
+AUATI
+USHc
+[]A\A]H
+ATUH
+[]A\
+AUATA
+[]A\A]
+AWAVI
+AUATI
+A] t#H
+([]A\A]A^A_
+[]A\A]A^A_
+L9d$
+AUATA
+[]A\A]
+F f%
+^tTf
+atNf
+B" u
+AVAUATUS
+[]A\A]A^
+LI	1
+C# u"H
+u(f%
+[]A\A]A^
+F f%
+ tYH
+C f%
+K#@H
+AWAVAUATI
+:I+E
+@ f%
+[]A\A]A^A_
+@ f%
+[]A\A]A^A_
+@ f%
+[]A\A]A^A_
+@ f%
+F f%
+A f%
+t f=
+AVAUATUSH
+u	H9
+h t(
+[]A\A]A^
+[]A\A]A^
+ATUH
+t []A\
+AWAVAUATI
+#t`A
+[]A\A]A^A_
+AUATI
+C!tfA
+T$!H
+]A\A]A^
+AWAVAUATUSH
+D$81
+t0f=
+D$8dH3
+H[]A\A]A^A_
+\$ I
+C f%
+D$ L
+D$0I
+\$ L
+T$0L
+|$0H
+D$(H
+D$ L
+|$0H
+D$(H
+D$ H
+|$0I
+D$(H
+\$ H
+D$0L
+D$0H
+AWAVE1
+AUATI
+C f%
+B f%
+B"@t
+[]A\A]A^A_
+C f%
+B f%
+A f%
+t	H9
+@ f%
+E f%
+A f%
+A f%
+C f%
+C f%
+C f%
+C f%
+AVAUATUSH
+@t;H
+ []A\A]A^
+tgwWf
+F f%
+F f%
+AUAQ
+APSAU
+AQAPSAU
+AVAUI
+k#f%
+c Mc
+[]A\A]A^
+AWAVLc
+AUAT
+M f%
+U"uh
+]A\A]A^A_
+L$!@I
+H!@L
+StJH
+H!@H
+AWAVI
+AUATA
+C f%
+CHt=L
+C f%
+[]A\A]A^A_
+C f%
+AUATI
+[]A\A]
+[]A\A]
+AWAVI
+AUATLc
+[]A\A]A^A_
+ATUSH
+tc[]A\H
+@ f%
+[]A\
+D$ f%
+F f%
+AUATLc
+S f%
+@ 	C@H
+[]A\A]
+AWAVI
+AUATLc
+S f%
+[]A\A]A^A_
+F f%
+tqATUSH
+C f%
+[]A\
+ATUSH
+4$dH
+D$<H
+HcD$<
+dH34%(
+[]A\
+B f%
+B f%
+D$@H
+D$@H
+D$@H
+D$@H9
+$tRH
+@ f%
+D$@H
+t$@H
+D$@H
+D$@H
+|$ H
+D$PH
+D$XH
+D$`H
+D$hH
+D$pH
+D$xH
+D$PH
+t$ H
+D$(;B@
+D$<1
+L$HH
+D$HH
+D$HH9
+D$HH
+D$(;F@
+T$HH
+T$HH
+T$HH
+D$HH=@
+D$(;E@
+AWAVI
+AUATA
+{(f%
+C Ic
+O!@H
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVA
+AUATLc
+S f%
+[]A\A]A^A_
+AWAVI
+AUATLc
+S f%
+C#u9
+[]A\A]A^A_
+N#@1
+AVAUM
+ATUI
+]A\A]A^
+[]A\A]A^
+AWAVA
+AUATUSH
+t$0H
+T$@H
+|$8H
+D$(H
+D$0H
+l$(H
+\$@E1
+\$$E1
+C f%
+C H	
+C f%
+C f%
+D$#H
+C f%
+B f%
+|$0H
+D$$L
+\$HL
+L$PA
+D$0H
+D$(H
+T$0u
+A(H9
+D$0D
+D$0A
+x[]A\A]A^A_
+B f%
+\$`D
+D$\L
+L$PD
+T$HL
+L$PD
+D$\D
+\$`D
+D$\L
+L$PD
+T$HL
+L$PD
+D$\H
+\$`H
+A f%
+\$`D
+D$\L
+L$PD
+\$`D
+D$\L
+L$PD
+F f%
+A f%
+]"C"
+\$`D
+D$\L
+L$PD
+T$HL
+L$PD
+D$\D
+\$lD
+D$kL
+L$`D
+T$\H
+L$PH
+L$PD
+\$lD
+D$kL
+L$`D
+T$\H
+D$(L
+|$8H
+H+\$
+AVAUA
+ATUI
+A f%
+I! I
+[]A\A]A^
+F f%
+[]A\A]A^
+AVAUI
+ATUI
+te[]A\A]A^
+[]A\A]A^
+AVAUE
+[]A\A]A^
+AWAVI
+AUATI
+E f%
+[]A\A]A^A_
+D$#@f%
+F#@u(A
+ATU1
+[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+]A\A]A^A_
+]A\A]A^A_
+[]A\A]A^A_1
+AVAUA
+ATUI
+[]A\A]A^
+]A\A]A^
+tvvTf
+C f%
+C f%
+ttwR
+C f%
+tTATUH
+[]A\
+tSUSH
+ATUH
+%t(H
+[]A\
+B f%
+AWAVM
+AUATI
+A f%
+[]A\A]A^A_
+[]A\A]A^A_
+G f%
+G f%
+G f%
+O! H
+[]A\A]A^A_
+B f%
+B f%
+S(f%
+AWAVAUATI
+D$(1
+C f%
+K! H
+L$(dH3
+8[]A\A]A^A_
+.@(z
+D$ H
+D$ H
+AWAVAUATI
+B f%
+C"@u&
+[]A\A]A^A_
+E f%
+AWAVI
+AUATLc
+[]A\A]A^A_
+tXUSH
+tXUSH
+ATUA
+[]A\
+AUATUSH
+[]A\A]
+[]A\A]
+ATUH
+F f%
+[]A\
+[]A\H
+[]A\
+ATUH
+f(f%
+[]A\
+[]A\
+C0[]A\
+AUATUSH
+C f%
+s"wtf=
+[]A\A]
+tjwXf=
+B f%
+F f%
+F f%
+I;D$
+AUATI
+[]A\A]
+ATUI
+t$(H
+D$"L
+[]A\
+AVAUA
+ATUH
+D9k0
+ []A\A]A^
+AWAVI
+A Santa lives evil at NASA
+AUATA
+H#@I
+G(t(
+D9c0~
+[]A\A]A^A_
+AUATI
+[]A\A]
+F f%
+H#@H
+C H)
+[]A\A]
+HcQ H
+[]A\A]
+[]A\A]
+ATUA
+[]A\
+C f%
+[]A\
+K# H
+C f%
+[]A\
+AWAVAUATA
+}tnfA
+[]A\A]A^A_
+C f%
+B f%
+C"@u
+F f%
+F f%
+C f%
+C f%
+C f%
+ATUSH
+F f%
+@u-H
+C f%
+AWAVAUATI
+D$(1
+L$(dH3
+8[]A\A]A^A_
+alula
+D$ H
+D$ f%
+E f%
+E f%
+T$ L
+D$"@
+T$(H
+m(E1
+E f%
+L$"@H
+t$0L
+L$"@I
+AVAUATUA
+dH34%(
+ []A\A]A^
+F E1
+F f%
+B f%
+H;\$
+F f%
+B f%
+.@(z
+A f%
+F f%
+F f%
+AWAVM
+AUATI
+H;D$
+t$8I
+D$HL
+l$@@
+dH3<%(
+([]A\A]A^A_
+@ f%
+D$ H
+AWAVI
+AUATI
+G f%
+B f%
+h#uV
+H[]A\A]A^A_
+B f%
+L$(H
+|$ L
+D$ H
+L$(H
+|$ L
+AWAVAUATA
+B f%
+[]A\A]A^A_
+E f%
+@ f%
+ATUI
+[]A\A
+[]A\A
+AUATUSH
+[]A\A]
+[]A\A]
+D$ H
+ATUI
+[]A\
+AWAVAUATI
+M#@A
+@u}I
+[]A\A]A^A_
+C f%
+Q(L;
+	L;Q(
+F f%
+F f%
+ATUI
+[]A\
+AWAVAUATI
+C f%
+([]A\A]A^A_
+F f%
+t.f=
+F f%
+F f%
+u&f=|
+F f%
+B f%
+@ f%
+B f%
+C f%
+F f%
+ATUI
+@ f%
+[]A\H
+AWAVI
+AUATUSH
+N"dH
+D$H1
+@t%A
+\$HdH3
+X[]A\A]A^A_
+E f%
+E f%
+F f%
+A f%
+\$8H
+D$0I
+\$8H
+D$ H
+t$ 1
+\$8H
+L$@H
+t$ L
+D$(L
+D$(0E1
+F f%
+\$ D
+\$ D
+D$0I
+D$(A
+F f%
+F f%
+F f%
+B f%
+T$@H
+@ HcP
+D$(H
+\$8L
+D$0I
+\$8H
+D$ H
+\$ H
+T$@%
+T$@L
+\$(L
+D$ H
+\$(A
+ATUH
+[]A\
+[]A\
+ATUS
+@ f%
+B f%
+[]A\
+J#@H
+[]A\
+F f%
+ATUH
+D$ f%
+t$f=
+tvf=
+[]A\
+D$ f%
+K#@fA
+[]A\
+AVAUATUH
+@ f%
+[]A\A]A^
+B f%
+]A\A]A^
+[]A\A]A^
+AVAUATUH
+D$ f%
+[]A\A]A^
+l$(D
+T$(H
+l$(A
+ATUI
+[]A\
+AUATUSH
+[]A\A]
+@ f%
+B f%
+AWAVAUATI
+[]A\A]A^A_
+AUATUSH
+F f%
+[]A\A]
+[]A\A]
+[]A\A]
+AUATUSH
+[]A\A]
+]A\A]
+[]A\A]
+ATUSL
+E f%
+[]A\
+[]A\
+ATUI
+C f%
+tu[H
+[]A\
+@ f%
+C f%
+B f%
+B f%
+B#@t
+B! u
+J" H
+I#@H
+ATUH
+[]A\
+[]A\
+[]A\
+ATUSH
+[]A\
+[]A\
+AWAVAUATUSH
+D$(L
+@ f%
+[]A\A]A^A_
+K"@L
+C#fA
+|$(1
+B f%
+AVAUI
+ATU1
+[]A\A]A^H
+AWAVI
+AUATUSH
+T$ H
+t$X1
+T$PH
+T$PL
+D$PtEf.
+D$Pu
+T$PL
+D$(M
+L9l$
+t$ 1
+t$XdH34%(
+h[]A\A]A^A_
+l$8E1
+D$0A
+t$ 1
+t$(H
+\$@L
+\$@H
+t$(E1
+E f%
+E f%
+E f%
+E f%
+E f%
+@ f%
+t$(E1
+T$LD
+T$LH
+D$8D
+\$@E
+|$0H
+|$(L
+T$ L
+l$HH
+%<:vDH
+t$ 1
+|$(H
+AWAVAUATUSH
+D$x1
+D$xdH3
+[]A\A]A^A_
+|$HD
+D$xdH3
+[]A\A]A^A_
+E f%
+E f%
+G f%
+|$(H
+|$(I
+B f%
+B"@t
+E f%
+M"@H
+E f%
+E f%
+E f%
+B f%
+@ f%
+F f%
+E f%
+J# H
+F f%
+F f%
+E f%
+F f%
+H;B0
+D$Ot+
+|$0H
+D$0H
+@ f%
+|$8H
+D$8H
+D$0H
+D$@u2
+D$@H
+|$@H
+D$@H
+E f%
+v f=
+C f%
+v f=
+B f%
+v f=
+F f%
+v f=
+T$ L
+G f%
+D$8H
+T$ D
+E f%
+D$HD
+E f%
+HcD$HH
+D$HD
+D$HH
+E f%
+F f%
+E"E1
+A f%
+E f%
+E f%
+F f%
+E f%
+HcD$HH
+|$(H
+D8L$
+@ fA
+G fA
+B f%
+E f%
+tGf%
+M fA
+|$HH
+E f%
+H;A(
+B f%
+@ f%
+E f%
+HcD$HH
+D$HH
+E f%
+|$HH
+E f%
+E f%
+|$HH
+E f%
+HcD$HH
+D$HH
+HcD$HH
+D$HH
+D$HD
+A f%
+A f%
+F f%
+P0H9
+HcD$HH
+E f%
+E f%
+Z fA
+R fA
+B f%
+B f%
+E#@t
+|$(A
+G fA
+|$(H
+O fA
+AWAVM
+AUATA
+D$(1
+|$(dH3<%(
+8[]A\A]A^A_
+AVAUI
+ATUA
+M#@[H
+]A\A]A^
+VUUUH
+[]A\A]A^
+[]A\A]A^H
+AWAVI
+AUATI
+t	H;
+[]A\A]A^A_
+[]A\A]A^A_
+AUATUSH
+L$PH
+([]A\A]
+AWAVAUATM
+L$hL
+[]A\A]A^A_
+L$hL
+L$`L
+AWAVI
+AUATI
+D$ P
+T$(H
+[]A\A]A^A_
+AWAVAUATI
+D$h1
+L$HL
+D$@D
+L$(H
+T$@H
+t$HL
+t$HH
+L$Pt A
+t$HH
+t$@H
+E f%
+D$PL
+D$`H
+L$@L
+_AXH
+ZYtgH
+E H)
+L$XM
+D$PA
+T$(L
+D$(I
+T$PH
+t$HI
+D$PL
+D$XH
+T$XH
+	B\H
+A;E0
+\$hdH3
+x[]A\A]A^A_
+D$`H
+T$XH
+T$(D
+L$PL
+L$PL
+H#@I
+G(t(
+<Bt(<E
+D$`H
+L$`1
+D$(I
+D$,I
+T$`H
+D$8E
+D$8I
+|$ H
+|$0H
+|$,H
+	x\I
+D$@I
+L$@L
+t$`H
+D$8I
+D$@I
+AWAVI
+AUATI
+B f%
+B f%
+PAU1
+T$(A
+G"D	
+B f%
+D$ f%
+B f%
+dH3<%(
+[]A\A]A^A_
+E f%
+B f%
+E f%
+RAU1
+T$0A
+B f%
+D$0t
+L$fL
+F f%
+D$ L
+D$ L
+M#@L
+|$fL
+tID9
+|$ @
+D$0E
+t	I9
+D$ H
+D$PA
+t$8E
+|$8H
+D$hL
+d$8E
+l$(I
+D$`H
+T$0H
+|$HIc
+l$(L
+|$HL
+|$(H
+l$XL
+T$pI
+|$0f
+t$hH
+T$0H
+t$hA
+t$hH
+D9t$(
+l$XL
+T$pL
+|$81
+t$hL)
+T$0A
+|$HL
+H9|$8
+L9d$
+|$PH9|$ 
+D$pH
+t$@I
+\$HH
+|$8H9|$
+D$0D
+l$XE
+D$0A
+T$8D
+T$8H
+D$@A
+D$hH
+T$8D
+|$PH9|$ H
+T$8H
+t$(I
+|$(H
+t$@O
+T$0K
+vbH=
+vIH=
+v<H=
+v/H=
+v"H=
+l$8H
+D$`H
+t$@M
+D$ D
+D$`H
+D$ H
+H;D$PL
+D$ s	
+|$(H
+t$ L
+PAU1
+;C0L
+t$@L
+D$8H
+D$PH
+H9D$
+D$(H
+H9|$ 
+t$ L
+D$`H
+T$8I
+D$`I
+t$ H
+D$xH
+|$ L
+t$pH
+T$8D
+AXAYL
+T$8D
+T$PI
+D$`I
+\$HL
+L$ L)
+L$ L
+\$HH
+T$8D
+T$8D
+t$hH
+T$8D
+T$8D
+t$@H
+T$8D
+T$8D
+D$8H
+AWAVI
+AUATI
+G f%
+[]A\A]A^A_
+[]A\A]A^A_1
+AUATI
+C f%
+C f%
+D$ f%
+[]A\A]
+AWAVAUATUSH
+A f%
+@ f%
+D$ f%
+@ f%
+[]A\A]A^A_
+[]A\A]A^A_
+A f%
+AWAVI
+AUATH
+H#@M
+[]A\A]A^A_
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AWAVM
+AUATI
+[]A\A]A^A_H
+AUATH
+[]A\A]H
+AWAVAUATI
+T$0H
+L$XL
+D$PH
+t$(L
+|$x1
+HcB`
+L$XH
+L$XH
+t$PH
+D$ H
+D$pH
+D$ H
+L$,L
+D$pI
+L$PH
+AXAYH
+D$xI
+I+T$
+D$ H)
+T$PH
+t$XH
+L$XH
+D$,H
+L$,L
+D$hH
+T$hL
+D$8H
+|$8H
+D$ H
+D$ H
+|$ I
+D$8H
+t$pM
+HHHcP`H
+t\Hc
+D$(A9D$0~
+t$0L
+|$xdH3<%(
+[]A\A]A^A_
+H;hP
+	P\I
+T$HL
+D$ L
+L$`H
+\$,E
+H#@I
+|$@I
+G(t(
+L$PH
+L$PH
+t$@1
+D$ M
+H;hPt
+AWAVI
+AUATI
+@ f%
+L$" E
+D$#H
+[]A\A]A^A_
+\$(H
+L$#@
+ATUI
+@ f%
+G f%
+[]A\
+D$ f%
+AWAVAUATA
+[]A\A]A^A_
+ATUSH
+T$(H
+[]A\
+D$"H
+l$(H
+[]A\
+ATUI
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+L$ H
+[]A\
+AUATI
+[]A\A]
+AUATI
+[]A\A]
+AWAVE
+AUATI
+[]A\A]A^A_
+ATUH
+ZY[]A\
+u9[]A\
+AUATUSH
+[]A\A]
+AUAT
+[]A\A]
+[]A\A]
+AUATUSH
+[]A\A]
+AUATI
+[]A\A]
+AWAV
+AUAT
+([]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVA
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+=eV9
+=gV9
+ATUI
+[]A\
+ATUA
+[]A\H
+AVAUATUH
+T$<H
+l$P1
+D$<L
+T$PH
+HcD$
+T$(H)
+D$LH
+HcD$
+CXH9CP~
+\$ H
+D$LH
+[]A\A]A^
+t$<H
+D$PH
+T$PH
+D$PH
+D$pf%
+L$s@
+T$PH
+HcD$
+\$0H)
+ uMH
+\$8;X@
+XXH9XP~
+H;B 
+HcD$
+D$<H
+ATUH
+[]A\
+AWAVA
+AUATI
+]A\A]A^A_
+ATUH
+[]A\
+AVUH
+T$ H
+D$8H
+D$$t I
+T$@1
+\$ f%
+|$x1
+T$@H9
+HcD$8H
+|$(H)
+D$  
+D$<uMH
+D$pH
+HcD$8
+CXH9CP
+D$<H
+[]A^
+D$c0
+xXH9xP~
+D$pH
+HcD$8H
+D$ H
+[]A\
+[]A\
+AVAUATUI
+[]A\A]A^
+[]A\
+A]A^
+@u$%
+AYAZ
+=*89
+AVAUATUSH
+L$8L
+L$HdH
+P[]A\A]A^
+D$ H
+AVAUD
+ATUH
+<$-tk
+<$-u!A
+ t	A
+[]A\A]A^
+[]A\A]A^1
+[]A\A]A^
+AWAVAUATI
+D$(1
+4$E1
+H9D$
+AYAZL
+H9L$
+D$ H
+L$0A
+D$(dH3
+8[]A\A]A^A_
+AVSH
+D$DH
+D$0H
+D$XH
+D$(H
+D$ H
+|$(1
+;H@|
+XXH9XP
+D$PH
+XXH9XP~
+D$PH
+D$8H
+t$ H
+D$HH
+D$PH
+t$ H
+T$ H
+T$ H
+T$ H
+t$0H
+AVAUATUSH
+|$(1
+D$ H
+KXH9KP
+t,Hc
+HXH9HP
+Hc@ 
+|THc
+[]A\A]A^
+ATUI
+AWAVH
+AUATUSH
+t$(1
+:u2H
+\$(dH3
+8[]A\A]A^A_
+T$ E1
+L$ H9
+D$ H
+T$ E1
+T$ H
+D$ H
+AWAVI
+AUATA
+[]A\A]A^A_
+4$E1
+|$8H
+u9H9
+t)I9
+uBH9
+t$8L
+l$0H
+t$(E
+l$0L
+t$(H
+T$hH
+;k@|
+pXH9pP
+D9t$@
+9D$D
+T$xH
+L$4H
+	tFH
+L$HH
+|$PH
+{XH9{P~	H
+D9t$@t
+D$X9D$D
+T$ H
+AVSH
+pXH9pP~	H
+;X@|
+HXH9HP
+	tQH
+ATUI
+[]A\
+<	t!
+ATUI
+[]A\
+ATUI
+p8H9
+X8t"
+[]A\
+H;h0u
+[]A\
+q H9
+[]A\
+[]A\
+AVAUH
+ATUI
+[]A\A]A^H
+AVAUE1
+ATUI
+@ t&I
+[]A\A]A^
+AWAVAUATUSH
+H;H8
+([]A\A]A^A_
+t-Lc@
+|$(A
++<6v
+ATUSH
+ATUE1
+dH3<%(
+[]A\
+AVAUA
+ATUI
+[]A\A]A^
+AWAVI
+AUATI
+|$,w
+D$ H
+8[]A\A]A^A_
+$L;h u
+J H9
+tAHcQ
+[]A\A]A^A_
+L$(H
+AWAVAUATUSH
+8XZA
+	t3H
+uEL9
+[]A\A]A^A_
+tGE1
+AUAT1
+@8Lc@
+	t9H
+[]A\A]
+[]A\A]
+AVAUI
+ATUI
+[]A\A]A^
+AVAUE
+ATUI
+]A\A]A^
+AWAVI
+AUATI
+D$81
+L$8dH3
+H[]A\A]A^A_
+D$4D
+Y^Hct$4
+D$4D
+t$$H
+D$ Hct$4H
+D$(H
+D$ H
+D$(H
+AWAVE
+AUATA
+ USH
+|$(1
+AXAY
+$L;j(t5E1
+L$ H
+	Zt-L
+t$(dH34%(
+8[]A\A]A^A_
+AWAVI
+AUATA
+D$ A
+[]A\A]A^A_
+D$ A
+|$0L
+T$(H
+D40:
+t$ A
+AXAY
+v(HcH
+t$ H
+T$(I
+L$(I
+D$0I9
+|$0L
+T$(H
+D40:
+t$ A
+L$(I
+T$(I
+D$0I9
+L$ AQ
+AUATI
+dH3<%(
+[]A\A]
+AUATA
+[]A\A]
+AUATI
+[]A\A]H
+AWAVI
+AUATI
+[]A\A]A^A_
+L$@H
+L$@D
+D$ I
+T$ A
+D<@:
+L$ L
+L$(A
+D$@H9
+|$8H
+L$@H
+L$ H
+T$@H9
+L$8H
+AWAVAUATA
+D$X1
+T$ %
+|$XdH3<%(
+h[]A\A]A^A_
+\$ H
+l$LH
+H9\$
+D$(I
+D$(L
+DL$(H
+D$LE1
+L$HL
+D$(L
+\$@L
+T$0L
+\$@L9
+T$0M
+L$0H
+L$0H
+L$0I
+T$(H)
+D$0A
+A]XM9
+DT$8
+\$ H
+AYAZt
+t$P1
+D$PH=
+T$@H
+T$0I
+T$@H
+H9x(u
+T$(H)
+T$(I
+D$8A
+D$8E
+\$(H
+T$(P
+T$8ZYI
+uLE1
+AUATA
+[]A\A]
+AUATA
+[]A\A]A
+AUATI
+[]A\A]
+AWAVA
+AUATI
+dH3<%(
+[]A\A]A^A_
+AWAVA
+AUATA
+[]A\A]A^A_
+L$ D
+D4 :
+h u	H
+D$ I9
+AWAVAUATI
+[]A\A]A^A_
+AWAVE
+AUATA
+T$8H
+D$XD
+L$L%
+T$Ht
+t$ E1
+D$xH
+L$(H
+D$@I
+D$XE
+|$H;x
+D$XI
+D$@H
+dH3<%(
+[]A\A]A^A_
+L;|$
+AZA[
+D$@H
+|$@H
+L$,L
+D$XH
+D$0H
+L$$H
+t$pA
+D$p:
+D$(D
+d$$I
+D$XI
+D$pD
+L$(H
+d$hH
+L$0L
+L$PA
+L$$L
+D$pH9
+t$8H
+T$X1
+9D$H
+|$@H
+D$hH
+D$@H
+t$pH
+UNIVERSA1
+D$xL
+D$y:
+D$z:
+AVAUE
+ATUH
+ZY[]A\A]A^
+ATUI
+APE1
+ []A\
+AWAVE
+AUATI
+ AQE
+A[Zt
+[]A\A]A^A_
+AVAUI
+ATUI
+dH3<%(
+[]A\A]A^
+AVAUE
+ATUA
+[]A\A]A^
+AWAVAUATUSH
+T$$dH
+E(;X
+|$01
+t$ A
+l$@A
+t$ L
+D$0A
+[]A\A]A^A_
+D$0A
+t$ A
+AVAUATUS
+@ Hc
+@(D;h
+]A\A]A^
+AWAVI
+AUATI
+D$(H
+t$$H
+[]A\A]A^A_
+D$rC
+L$0H
+M+D$
+L$ H
+L$0M
+L$s@L
+D$ L)
+H9D$8
+|$DI
+D$xI
+I+D$
+t$/H
+L$ H
+T$$E1
+D$rB
+D$rA
+L$$I
+L$8L
+D$$E
+\$(AU
+AVHc
+A[[H
+L$HL
+L$HL
+D$0H
+D$(I
+AUAV
+AVAUA
+ATUA
+[]A\A]A^
+[]A\A]A^
+ u>H
+@u7I
+AWAVA
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+B"@t6I
+@uhI
+AUATA
+t^H9
+[]A\A]
+AUATI
+dH3<%(
+[]A\A]
+AUATA
+[]A\A]
+AUATUSH
+	H#F
+[]A\A]
+H;r8u
+I#D$
+$L;R 
+H;r8
+AUATA
+<	t[%
+[]A\A]
+[]A\A]
+[]A\A]
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+#t1H
+[]A\A]A^A_
+t f.
+t+f.
+d$0L
+T$0H
+t$8L
+D$8I)
+D$0H
+D$@H
+8ZYA
+H$9L$
+L$,L
+L$,L
+D$ L
+D$(H
+L$ u
+D$@H
+B(L;l$
+AUATA
+Icu0
+]A\A]
+Icu0
+AUATA
+D@	H
+ ug1
+[]A\A]
+[]A\A]
+ t2I
+]A\1
+[]A\
+AWAVI
+AUATL
+L9l$
+H+L$
+[]A\A]A^A_
+feature_H
+AWAVI
+AUATI
+[]A\A]A^A_
+t	H;
+AUATI
+[]A\A]
+AWAVH
+AUATUSH
+([]A\A]A^A_
+AWAVAUATUSH
+$.M9
+<.M9
+[]A\A]A^A_
+[]A\A]A^A_
+ATUA
+[]A\H
+ATUH
+wKtDH
+[]A\
+AWAVAUATUSH
+L$0H
+|$ dH
+L$H1
+t$8H
+t$(H
+|$ H
+D$@H
+D$7 
+D$4D
+D$4D
+D$5H
+T$HdH3
+X[]A\A]A^A_
+t$71
+L$(L)
+ u|h
+L$ H
+|$0L
+L$8H
+|$ M
+D$7 
+L$8H
+|$ M
+L$8H
+|$ M
+L$7L
+D$8M
+HcH0H
+AVAUI
+ATUI
+D$81
+l$(A
+T$(H
+L$0E1
+D$8dH3
+@[]A\A]A^
+AWAVAUATI
+8[]A\A]A^A_
+D$(H
+D$ H
+D$(H
+\$(H)
+D$ L
+\$(H
+[]A\A]A^A_
+x,SH
+H9r0u
+AUATA
+[]A\A]
+[]A\A]
+I+D$
+[]A\A]
+AWAVI
+AUATUSH
+([]A\A]A^A_
+AWAVAUATUSH
+t/L9
+[]A\A]A^A_
+AWAVI
+AUATA
+[]A\A]A^A_
+tQ;H0|LH
+AWAVL
+AUATL
+L9,$
+[]A\A]A^A_
+ta<'
+4$M9
+tQ<'
+T$+I
+X$ZY
+AQAVQ
+HcB0H
+AWAVI
+AUATI
+[]A\A]A^A_
+H;l$
+\u|D
+L9l$
+H;l$
+\$ML
+ tHI
+AWAV1
+AUATI
+ tFI
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATUSH
+D$x1
+L$HD
+D$<L
+D$;I
+L$XE
+T$XH
+l$;@
+l$;H
+l$`I
+\$XI
+4$rV
+T$`L
+L$pL
+AZA[H
+D$:H)
+L$ I
+D$(I
+T$01
+L$ H
+D$:H
+t$(H
+L$0H
+HcT$TI
+N$H9
+HcD$
+D$;H
+t$9D
+l$;M
+T$XH
+t$`L
+t$9L
+D$HM
+|$XI
+D$@H
+|$xdH3<%(
+[]A\A]A^A_
+L$XA
+L$XA
+H+T$X
+AWAVAUATUSH
+D$81
+T$(Hc
+D$ L
+\$8dH3
+H[]A\A]A^A_
+D$4H
+HcL$4I
+D$4H
+D$ L
+D$ H
+t$(1
+ATUSH
+D	h\H
+]A\A]A^
+[]A\A]A^
+AWAVI
+AUAT1
+LcHx
+P|A9
+dH3<%(
+([]A\A]A^A_
+ATUA
+[]A\H
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+ tRH
+[]A\A]A^A_
+AWAVAUATA
+D$(1
+D$@%
+|$(dH3<%(
+8[]A\A]A^A_
+T$ H
+AWAVI
+AUATI
+D$81
+\$8dH3
+H[]A\A]A^A_
+L$ L
+AZA[
+I+T$
+L$ H
+t$XL
+D$PL
+D$XI
+D$xH
+I+T$
+D$ L)
+t$ L
+T$01
+L$8H
+D$01
+AXAYH
+L$ A
+^_t,H
+D$XI9D$P
+I+T$
+L$ H
+T$0L
+T$0H
+AUATI
+I+\$
+[]A\A]
+ATUSH
+dH34%(
+ []A\
+AWAVH
+AUATI
+|$81
+t$ L
+|$ H
+;.uA
+|$8dH3<%(
+H[]A\A]A^A_
+<$H)
+AWAVI
+AUATI
+D$X1
+<Et|H
+D$(R
+D$ _
+D$ D
+t$XdH34%(
+h[]A\A]A^A_
+T$HL
+L$@L
+T$HL
+L$@L
+D$0f
+D$ D
+D$((
+D$ 3
+L$PL
+D$PH
+\$HL
+L$@L
+D$0L
+D$8L
+L$@L
+D$ K
+T$HL
+L$@L
+D$0L
+D$8L
+L$@D
+4$E1
+D$(H
+D$(H
+D$0L
+D$0L
+t$PL
+T$ L
+T$ L
+T$ L
+T$ L
+T$(L
+L$ L
+L$ L
+T$(L
+T$ L
+T$ L
+\$HD
+T$@L
+\$HD
+T$@L
+AWAVAUATI
+IcC0I
+dH3<%(
+[]A\A]A^A_
+D$ L
+xh#@
+T$8M
+L94$w
+ehfA
+IcC4I
+HcP4H
+t$E1
+HcH4H
+L$hE1
+D$(H
+D$hH
+D$ L
+T$(u
+L$xI
+D$0H
+T$hL
+T$(L
+T$(u
+t	;P0
+D$hH
+|$hH
+|$hu
+FB$A
+IcC0
+d~"I
+#u	I9
+d~"I
+IcC0I
+FB$A
+t	;E0
+;\u$I
+CxA9C|t
+A;S0
+BK<	
+A;C0
+L$xA
+BK<	
+A;C0
+FA$I
+FP$A
+AWSL
+IcC0I
+IcC0I
+IcC0I
+<$-L
+L$hE1
+8}u<A
+IcC0I
+|$ A
+H;T$xvIH
+|$ H
+t$ L
+D$ H+X
+D$ H
+t$ L
+D$ Hc
+T$HI
+D$8H
+L$@H
+D$8L
+d$@L)
+t$8H
+T$h1
+D$8H
+D$XH
+PAVj
+t$8I
+L$xE1
+|$ H
+D$ M
+x '@
+VPL)
+L$@L
+D$@H
+L$ 1
+|$ I
+L$pH
+T$xE1
+t$xI
+|$ H
+\$ L
+L$pH
+T$xE1
+D$xL
+L$8H
+L94$
+T$xL
+80u	H
+H9,$
+\$ H
+I;C`
+t$E1
+\$ H
+T$hH
+D$ ZY
+D$hH
+D$(A
+T$hH
+D$8H
+FA$H
+L$8D
+D$@I
+FB$A
+D$hH
+C`I;
+D$pL
+T$pH
+|$ I
+D$@H
+\N{Uf
+$H+L$8H
+$H+D$8H
+t$ L
+L;t$@
+L$hE1
+T$ A
+L$8L
+T$0L
+D$ L
+L$8L
+T$0D
+L$ D
+L$hE1
+t$hI
+T$pH
+D$hH
+t$h1
+D$xA9D$|t
+HcT$xI
+IcC0I
+IcC0I
+I9C`
+r8Hc
+FB$A
+T$hH
+@#@I
+\$(AS
+L$pH
+T$xE1
+D$xL
+T$@I
+CxA9C|
+FQ$A
+T$@L
+D$8H
+L$hH
+L$pH
+T$xE1
+t$8I
+H;t$8s'
+l$8H
+l$8H
+L$pH
+T$xE1
+D$xH9
+|$ H
+$H+T$8L
+\$ H
+d$ M
+L$ <=
+H! I
+|$ (M
+Cjf=
+|$(-
+p AQE1
+L;d$8
+L;d$8
+D$8L
+L;d$8I
+D$Xr5
+L;d$8
+D$8L
+D$8t
+FA$H
+FA$M
+L$hD
+t$hH
+@#@H
+<	tn
+t$hH
+D$xL
+t$xH
+T$p1
+t$pE1
+T$PD
+D$pL
+D$8L
+Tacocat
+_AXI
+r{<t
+*tyI
+HcT$x1
+ARGV
+\N{}H
+D$HH
+T$pH
+|$ H
+|$ H
+H+L$@H
+$H+D$@L
+t$ H
+T$pH
+L$8I
+FB$A
+< w#H
+E H)
+EXI9EP~
+L$xL
+D$xH
+$<qt
+L$hL
+T$hH
+D$hH
+D$hH
+<qtx<xttI
+t#M9
+<\tED8
+L$hL
+d$hI
+<:tr<{@
+xx9x|t
+H#@I
+L$hA
+l$hH
+L$hA
+ t E1
+?(us
+L$xH
+HcT$xH
+Lcx Mk
+Lc\$xL
+d$(M
+D$ L)
+L;L$
+\$8L
+L$0H
+L$0L
+D:?u(I
+HcT$xH)
+HcD$xL
+T$ L
+T$ H
+H+T$
+D$(f
+L;p8
+|$xMc
+L$hA
+\$hI
+,tPA
+8(tRM
+L$hH
+$u8M
+L9t$@
+L$xA
+D$ H
+D$ H
+$H+D$8H
+$H+D$8L
+L$HH
+L$HH
+$H+T$8
+l$HH
+l$ L
+t$xL9t$@w
+D$ H
+T$@H
+L$xA
+L$XL
+D$PL
+L$XH
+E`H;
+L$xE1
+t$xE1
+<sunA
+D$xH
+|$ H
+$H+D$@
+T$pH
+D$pL
+D$xH
+t$hH
+T$8E1
+T$hL
+<Mt>L
+<$Cu
+t$xL
+$tWA
+<<taM
+L$hH
+T$hH
+IcC0
+@t"A
+*tqM
+	tKA
+8\$ 
+ u9A
+FP$A
+L$xA
+T$xH
+D$xH
+]tGH
+;$tXI
+D$hI
+@K	I
+L$xE1
+t$xE1
+D$pI
+eugH
+L$dL
+D$cH
+L$pH
+D;`$tGI
+@$D)
+L$pH
+AXAY
+t$xH
+L$hE1
+ARSI
+ATRM
+CxA9C|t
+z 'u
+FQ$A
+{xA9{|t
+D$hL
+D$hH
+D$hA
+ u_A
+D$hH
+<tIH
+AUATUSH
+[]A\A]
+::tFH
+AWAV1
+AUATUSH
+[]A\A]A^A_
+twHc
+Hc4$H
+[]A\A]A^A_H
+AUATUSH
+A9t$0~
+tKI;
+[]A\A]
+[]A\A]
+AWAVI
+AUATUS
+D$(1
+~;f.
+tkI;] 
+A9v0~
+U(fD
+|$(dH3<%(
+8[]A\A]A^A_
+G#IcU
+G#IcU
+G#IcU
+G#IcU
+A f%
+G#IcU
+G#IcU
+AZA[tB
+A f%
+H\ IcU
+B f%
+A f%
+H\ IcU
+|$ IcU
+E H9
+I;] I
+](wI
+I9] I
+A9v0~
+A[A_
+AXAY
+AVAUATUH
+[]A\A]A^
+[]A\A]A^
+ATUH
+[]A\
+AWAVAUATI
+AWPM
+|$ 1
+[]A\A]A^A_
+ATUH
+[]A\
+[]A\
+[]A\
+R8u,
+AWAVI
+AUATUSH
+tsHc
+[]A\A]A^A_
+L9pP
+AVAUI
+ATUI
+[]A\A]A^
+AWAVHc
+AUATL
+([]A\A]A^A_
+6un@
+&th@
+toIc
+([]A\A]A^A_
+~+SH
+k([]A\
+tZUSH
+AUATI
+[]A\A]
+AUATA
+[]A\A]
+[]A\A]
+AWAVAUATI
+H\@I
+L$ H
+L$(E
+Hc@`H
+D$@H
+T$4H
+|$@H
+|$`t
+d$HL
+l$@L
+d$ D
+T$PD
+0t3A9
+D$4L
+d$HD
+T$PL
+l$@E
+L$ D
+|$(E
+tbE9
+L$ H
+L$ u
+dH34%(
+[]A\A]A^A_
+|$`H
+T$hA
+AYAZL
+T$hI
+T$4H
+R(H;B
+l$HD
+l$(L
+d$PD
+T$@M
+\$@E1
+@\@u
+@PH9D$HH
+T$`H
+t$HE1
+\$XD
+D$8L
+\$XJ
+\$XH
+t$HL
+\$hN
+D$4L
+d$PL
+T$@L
+|$(I
+l$(E
+l$ M
+@\@u
+D$8L
+T$4H
+@\@uOH
+H;pP
+T$@H
+D$pM
+L$hH
+L$xL
+D$pH
+D$pL
+L$xI
+AWAVA
+AUATI
+(E	q
+[]A\A]A^A_
+AWAVA
+AUATI
+[]A\A]A^A_
+AWAVI
+AUATA
+H[]A\A]A^A_
+t$ E
+l$(D
+d$4I
+](A:\$(u
+t$ E
+l$(D
+d$4t
+P(:U(u
+$H;H
+\$ L
+\$ u
+H[]A\A]A^A_
+t$ L
+l$(D
+AVAUM
+ATUA
+[]A\A]A^
+AUATM
+ t<H
+[]A\A]
+AWAVI
+AUATUSH
+|$0dH
+T$H1
+L$<H
+D$ D
+L$8H
+t$(H
+E(L9
+t$89
+D$(L
+D$ H
+D$(H
+L$HdH3
+X[]A\A]A^A_
+D$ H
+d$0AT
+t$ j
+|$PL
+D$ H
+D$(M
+D$0H
+L$0L
+L$89
+L$89
++D$8
+Hc\$
+T$(I
+T$ H
+HcB`
+D$ H
+D$ H
+|$@1
+A\A]H
+D$ H
+t$ H
+D$0L
+J\ Lc
+|$0L
+|$(1
+|$PL
+D$0AYAZH
+AWAVAUATUSH
+dH34%(
+([]A\A]A^A_
+D$(I9
+<$I9
+ATUA
+[]A\H
+ t6H
+rHHcJ`H
+AUATI
+[]A\A]
+AUAT1
+[]A\A]
+AWAVAUATUS
+t3L9
+t%L9
+[]A\A]A^A_
+tEL9
+t@H9
+AWAVAUATI
+E\u+
+8[]A\A]A^A_
+tzIc
+H;ZPu
+D$(H
+L$ D
+D$(H
+L$ D
+ATUH
+[]A\E1
+AUATI
+[]A\A]
+[]A\A]
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATI
+L9,$I
+[]A\A]A^A_
+D;<$
+q(H9
+AWAVE
+AUATI
+~$Ic
+tIH9~
+H9>u
+[]A\A]A^A_
+F`L9
+FPL9
+AUAT
+S`H9SXt
+[]A\A]
+S`H9SXt
+SX[]A\
+S`H9SXt
+t/I9
+ATUH
+H;C8tHH
+C`H9CXI
+AWAVAUATI
+D$8H
+D$ dH
+D$h1
+$H;D$(
+H9t$0
+t$0J
+tQE1
+d$@M
+d$@A
+t$@D
+D$@H
+$H;D$(
+\$hdH3
+x[]A\A]A^A_
+t8I9
+|$XA
+D$`t
+|$HI
+A9N(
+HcD$HI
+T$X1
+HcD$HH
+D$0A
+D$HH
+L$XH
+T$`H
+L$XH
+T$`L
+LcD$
++t.w
+&t2@
+)tl@
+!t6f
+]tJv8@
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AUATA
+f8L;f0
+u|f.
+[]A\A]
+[]A\A]
+C`H9CXt
+C0H9C8H
+FS81
+C`H9CXt
+C0H9C8
+FS81
+ATUSH
+=wlH
+[]A\
+]t/H)
+[]A\
+AWAVI
+AUATI
+D$81
+{t-H
+t$8dH34%(
+H[]A\A]A^A_
+D$0tw
+T$0H
+L$,E1
+D$0H)
+AVAU
+ATUI
+ u@A
+L;l$
+ []A\A]A^
+AWAVI
+AUATI
+[]A\A]A^A_
+FXUD
+F`SL
+VXtO
+AWAVE
+AUATI
+H9K8
+K`H9
+[]A\A]A^A_
+AVAUATI
+[]A\A]A^A_
+[]A\A]A^A_L
+CxHc
+[]A\A]A^A_
+]A\A]A^A_
+A;H`
+AWAVAUATUSH
+|$ H
+A9\$(~3Hc
+A9\$(I
+xlLc
+[]A\A]A^A_
+AWAVAUATI
+xhIcG
+C IcW(H
+~?E1
+G Ic
+E9o(
+HcT$
+L9t$
+HcT$
+[]A\A]A^A_
+{tV%
+dH3<%(
+l$HM
+ tpH
+D$0H
+H+D$(
+L$ L)
+AVAUI
+ATUI
+t$ H
+D$ A
+AWAVAUATUSH
+n8dH
+D$(1
+d$ L
+|$$L
+C8f.
+C0H9C8
+FS81
+PQM)
+D$ M
+D$(dH3
+8[]A\A]A^A_
+K8H)
+C0H)
+VAUH
+D$(dH3
+[]A\A]A^A_
+|$01
+|$01
+|$01
+AWAVATUI
+ []A\A^A_
+ATUH
+[]A\
+[]A\
+ATUA
+[]A\H
+AWAVAUATI
+t$0H
+D$xH
+L9z ~)KcD
+A9D$`
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+t;ATUH
+]A\H
+AUATUSH
+[]A\A]
+[]A\A]
+[]A\
+AVAUATUA
+[]A\A]A^
+[]A\
+AVAUI
+ATUSH
+[]A\A]A^
+I I94
+I;0r
+AWAVI
+AUATI
+L$81
+$H9kXt
+D$8dH3
+H[]A\A]A^A_
+L$ H
+SXH9
+n`H9nXA
+L$ H
+t$ L
+T$ L
+D$ D
+t$ L
+D$ L
+D$ s
+D$!s
+AUATUSH
+[]A\A]
+AWAVI
+AUATI
+H[]A\A]A^A_
+G0H)
+H[]A\A]A^A_
+T$(L
+\$ L
+\$ H
+T$(I
+sKI9
+D$0H
+F0H)
+T$(L
+T$8L
+\$0L
+L$ H
+T$8L
+\$0H
+T$(L
+L$ H
+vHI)
+T$ H
+T$ H
+H[]A\A]A^A_
+T$ H
+T$ H
+ATUSH
+$@ulH
+ []A\
+AVAUATUI
+r0dH
+[]A\A]A^
+AVAUI
+ATUI
+[]A\A]A^
+AWAVI
+AUATUS
+L$0H
+T$(L
+T$(I
+L$0H
+sEL9
+D$ H
+F0H)
+L$(L
+L$8H
+T$0L
+T$ H
+L$8H
+T$0H
+L$(L
+T$ I
+uGI)
+L$ L
+L$ H
+H[]A\A]A^A_
+B0H)
+4$H)
+H[]A\A]A^A_
+H[]A\A]A^A_
+tQI9
+B0H)
+L$0H
+T$(L
+T$(I
+L$0H
+L$ L
+L$ L
+KuKH
+F`H9FX
+PAP1
+AVAUI
+ATUH
+dH3<%(
+[]A\A]A^
+AWAVAUATI
+]A\A]A^A_
+D#E(E!
+AWAVAUATI
+([]A\A]A^A_
+t{#C(
+t:I9
+ []A\
+AWAVI
+AUATI
+([]A\A]A^A_
+AWAVAUATM
+D$pH
+D$(1
+D$ L
+t$ H
+\$(dH3
+8[]A\A]A^A_
+ATUH
+[]A\
+AVAUI
+ATUSH
+t$xL
+T$XH
+D$(H
+]A\A]A^
+AWAVI
+AUATI
+[]A\A]A^A_
+x H9xp
+<]w&
+F`H9FXt^ATI
+[]A\
+[]A\
+AWAVI
+AUATI
+L$h1
+T$$D
+D$8A
+L$<H
+D$0H
+I9GX
+HcD$LI
+L$0H
+D$TA
+|$$:
+|$$?A
+L$Tt
+D$ A
+|$ E
+D$ H
+T$TH
+I9GXtSA
+I9GX
+t$hdH34%(
+x[]A\A]A^A_
+|$$:
+thH-
+|$$>
+t$0A
+D$<A
+G0I9G8
+L$ A9
+D$$:
+D$(H
+L$(A
+I9GX
+D$0A
+L$(A
+G`I9GXI
+G0I9G8
+FW81
+L$TA
+T$0L
+G`I9GXA
+I;GX
+L$$E
+G0H9
+G`I9GXt
+W`I+o
+I9WX
+G8I+G
+G`I9GXt
+L$(I
+H;T$(H
+L$(s
+T$(H)
+d$LL
+D$(I
+G`I9GX
+w`I9wXH
+D$(H
+L$(A
+G`I9GXtFM
+O`I9OXI
+RPM)
+D$$>
+I9GXL
+G8L9
+9T$$
+I;GX
+T$XH
+t$`L
+|$$-
+|$$+
+M9wXH
+D;h`
+D$$,
+w`M9wXL
+G8I;G0t	
+M;wXt
+G0I9G8
+FW81
+G`I9GXI
+G0I9G8
+FW81
+W0L)
+T$XH
+t$`L
+D$`H=
+l$8A
+D$TE
+O`H9
+I9OXt
+PRM)
+D$$:
+~1Lc
+G8H)
+G`I9GXt
+G`I9GXt
+G`I9GXI
+PQM)
+L$@D
+D$8L
+w`M9wXL
+G8I9
+M;wXt*
+t$0H
+G`I9GXt
+G0I9G8
+FW81
+H;D$(
+M9wXt
+G0I9G8H
+FW81
+T$XH
+t$`I
+l$`I
+D$XA
+l$`I
+D$XI
+G`I9GXt
+I9OXI
+I;OXt*
+G`I9GXt
+l$8H
+D$` 
+I9OXt
+PRM)
+G`I9GXH
+I;OXt
+D$8H
+vd<&
+T$XH
+D$`H=
+D$XI
+I;OXt
+ATPRVA
+G`I+o
+I9GXt
+ASPI
+G`I9GXt
+G0I9G8
+FW81
+I9GXI
+I9OXt
+D$TH
+ASVHc
+G`I9GXt
+G0I9G8
+FW81
+G`I9GXt
+G`I9GXt
+PVQWV
+D$@I
+G`I9GXt
+G0I9G8
+FW81
+G`I9GXt
+G0I9G8H
+FW81
+G`I9GXt
+PVQWV
+G8I+G
+G`I9GXt
+G`I9GXI
+G0I9G8
+FW81
+G`I9GXI
+G0I9G8
+FW81
+I;wXt
+T$$A
+ATPH)
+M;wXt
+AUP@
+G`I9GXt
+PVI)
+G`I9GXI
+G0I9G8
+FW81
+AWAVI
+AUATI
+D$81
+	~,H
+|$8dH3<%(
+H[]A\A]A^A_
+f`M9fXH
+L$0H
+T$0H
+L$,H
+D$0H
+I+V8L
+M;N8w
+M;N8v
+M;N8w
+L$0I
+F`I9FXt
+F0I9F8
+FV81
+F`I9FXt
+F0I9F8
+FV81
+V`I+^
+I9VXt
+D$0H
+M;fXI
+F0I9F8H
+FV81
+F`I9FXM
+AWAVI
+AUATUSD
+L$dH
+T$0D
+D$`H
+D$8H
+D$hH
+C`H9CXH
+D$pH
+D$xH
+H;{X
+H9C0
+|$@I9
+D$@H
+D$@I
+C8I9
+4$Lc
+=wqH
+t	A8
+\$ H
+D$8H
+D$dH
+|$0H
+[]A\A]A^A_
+H;{XH
+H9C0
+H;CX
+l$HH
+AZA[
+t$HL
+8L$W
+D$pH
+t$xH
+D$ H
+D$ H
+H;CX
+D$8H
+D$hH
+{0H9
+H9|$@H
+L9d$@
+t$xH
+t$(L
+t$(L
+C0L)
+PAQ1
+H;sXteI
+C8E1
+H;C0
+H;{X
+H;{Xty
+ASR1
+H;CXt"H
+H9t$@
+H;CX
+|$@H9
+|$@_
+H;CXt
+T$@L
+D$HH
+C8E1
+t$HL
+t$ L
+|$HH
+{0H)
+D$@H;
+D$XH
+RVWAPARWH)
+H;CX
+<]t 
+D$0L
+8]t#H
+H9T$@H
+H;CXt"H
+D$@D
+\$PA
+SVRQ
+H9D$X
++l$XH
+H;CXt
+C0H)
+L$@L
+|$@H
+t$pH
+t$xH;r
+D$hH
+D$8H
+H9D$@H
+H9T$@
+|$@0
+|$@A
+|$@a
+|$hL
+H;{X
+|$8A
+{Xu*<
+H;CXt
+D$HH
+t$HL
+D$hL
+H;CX
+H;CX
+WAPL
+L$@L
+A]A^
+{0H)
+H;CXt
+D$@H
+PQM)
+L+d$XH;{Xt
+t$ L
+H;{Xt
+|$@D
+T$PM
+H;CX
+|$XE1
+t$HL
+D$HH
+H;CX
+C8E1
+SXH9T$
+t$ L
+D$hH
+D$8H
+L$@H
+D$hH
+D$8H
+D$XPL
+ASRVWRL
+uRHcT$@
+u'Hc
+{0H)
+D$XH
+D$(H
+D$(H
+D$@H
+SXH9T$
+8D$`r
+SXH9T$
+C0H9C8L
+FS81
+PQM)
+H9{X
+H9S0
+APAT
+H;CX
+{0H)
+L$@H
+H;CXt
+C0H9C8
+FS81
+PQM)
+T$@tGH
+H9CXD
+L$pH
+AZA[
+H;CXt
+C0H9C8
+FS81
+PQM)
+H9CXH
+D$@A
+H;CX
+D$ H
+D$0AXAY
+t$ L
+D$ H
+L$ t H
+l$@H
+k8H)
+H;{Xt
+t$ D
+t$ L
+t$ L
+|$@H
+H;{Xt!H
+PAPVRA
+H;CXt
+H;CXt
+D$lPL
+L$@L
+H;CXtA
+{0H)
+|$@H
+H;{XH
+RQM)
+8-uK
+H;CX
+{0H)
+H;{XH
+RQM)
+H;CXt
+C0H9C8
+FS81
+PQM)
+H;CXt
+t$ L
+H;{XH
+RQM)
+AWAVAUATUSH
+D$x1
+T$8H
+L$ D
+D$@L
+D$D%
+D$0I9
+F0H+F(
+s8H9s0
+I;F0I
+D$`1
+T$`H
+T$`L
+|$0H;{XH
+RQM)
+D$@H
+D$`Pj
+T$@H
+t$XH
+L$@H
+|$`E1
+D$0H;CXL
+D$(H
+t$(H
+D$0H;CXt
+C0H9C8H
+FS81
+PQM)
+A8H;A0s
+t$(H
+H9p0H
+D$(H
+D$8H
+T$XL
+T$`L
+D$p1
+T$`L
+D$h1
+T$hH
+t$pL
+t$hH
+T$`L
+D$`H
+D$@H
+D$`Pj
+T$@H
+C0H9
+t$pH
+<\tt<]u
+D$0I
+t$8H9
+<[t<
+D$8A
+|$8AVE1
+t$pH
+W8H9
+\$xdH3
+[]A\A]A^A_
+L$0H
+H;KXH
+RQM)
+L$0H
+H;KXH
+S0H)
+T$hH
+t$`L
+L$`L
+D$hL9
+T$pL
+L$@H
+C8E1
+G8I9
+L$HH
+L$ H
+T$XH
+D$@L
+L;cXI
+t$XH
+D$0H;CXt
+C0H)
+k0M)
+L;cXt
+t$XH
+D$0H;CXt
+C0H9C8
+FS81
+PQM)
+D$0H;CXt
+C0H9C8
+FS81
+PQM)
+D$0M)
+H;CXt
+T$01
+D$0H;CXt
+S0H9S8
+FC8L
+RQM)
+D$0L
+c0M)
+H;CXt
+F`H9FXt
+C0H9C8
+FS81
+PQM)
+L$0H
+H;KXH
+RQM)
+AWAVD
+AUATA
+[]A\A]A^A_
+S`H9SXH
+RQM)
+L$dE
+HcT$d
+K8H;K0
+D$hA
+D$6H
+H9KXH
+|$8L
+d$(D
+l$@%
+H9{X
+|$5E1
+l$ L
+L;c0
+D$xA
+H9CX
+L9C(sxA
+s0H)
+D$xA
+H9C0
+H9CXH
+d$xL9c0
+|$xA
+d$(M
+D$hH
+D$xH
+D$pE
+|$6#
+D$6H
+SXH9T$
+t$pH
+H;CXt
+D$xH
+H9CXt
+C0H9C8H
+FS81
+L$HN
+H;D$p
+D$6H
+d$(M
+HcD$
+d$(L
+|$xH
+D$pv
+T$xH9sXH
+T$xt
+H;S0s
+D$p	
+C0H9
+H;sXt
+H9CXA
+d$(A
+H9CXI
+D$xA
+D$pH
+D$HL
+L$8H
+t$8H
+D$xH
+H9CX
+T$xH=
+t$pH
+H9CX
+D$x1
+K`L9KXL
+S8I9
+L;KXL
+S`H9SXH
+D$ht
+S`H9SXH
+D$ht
+D$hH
+S`H9SX
+H9SX
+C8AUE1
+C0H9
+H9CXt
+C0H9C8
+FS81
+D$hH
+H9CX
+{0M)
+H9sX
+t$pH
+S`L+k
+H9SXt
+t$xH
+D$pH
+D$xH
+D$xH9C0
+ t	I
+H+D$ H
+T$6H
+D$ L9
+ twM9
+Eleele
+t$ L9
+d$(I
+PAQ1
+d$(L
+D$pH
+T$xH
+H9CXH
+C`L+k
+H9CXL
+C0H)
+VAPA
+C`H9CXt
+D$PD
+L$HL
+t$xH
+T$PD
+L$HL
+T$PE
+L$xH
+D$xt
+t$xL
+T$PM
+\$XM)
+L$HA
+\$XH
+T$XH
+L$PL)
+APAR
+S`L9SXL
+D$hI
+ASAT1
+L9SX
+d$(I
+H9CXt
+C0H9C8
+FS81
+d$(H
+T$xA
+D$xM
+d$(A
+\$xL
+C`H9CXL
+C0H9C8H
+FS81
+C`L+k
+H9CXt
+H9CXt
+L;KXt
+AVRH
+C`H9CXt
+C0H9C8
+FS81
+C`H9CXt
+C0H9C8
+FS81
+C`H9CXt
+C0H9C8
+FS81
+D$xH
+H9CXt
+C0H9C8
+FS81
+H9CXt
+AQPL
+C`H9CXu
+C`H9CXt
+C0H9C8
+FS81
+C`L+c
+H9CXt
+HcT$dI
+AWPL
+C`H9CXH
+C`H9CXH
+C`H9CXt
+AWAVI
+AUATE1
+D$X1
+D$,u6H
+^`H9^Xt
+I;^X
+n8I;n0
+T$DH
+M9VXt
+M9VXt
+D$D	u
+F8I;F0s4
+D$,H
+n8I;n0L
+\$XdH3
+h[]A\A]A^A_
+T$ M9VXt
+T$ M9VXt
+T$ M9VX
+T$PH
+t$HH
+T$HH
+T$8;T$0
+F`I9FX
+|$ M)
+D$@H
+|$0I
+T$ H
+T$PH
+t$HH
+L$8L
+D$0H
+\$HH
+T$ H
+T$ H9
+T$ H
+T$ fA
+M9~XI
+|$ M)
+F`M)
+I9FXt
+V`L)
+I9VXt
+D$DE
+\$0H9
+M9VX
+T$ PI
+\$0L
+F`I9FXt
+|$01
+F`I9FXt
+F0I9F8
+FV81
+PQM)
+AWAVAUATUSH
+|$8H
+L$hL
+D$`L
+D$(H
+|$8I
+D$pu
+H9L$h
+D$hH
+L$`H
+D$xH
+D$hH9
+l$8H
+D$XH
+L$XI
+L;|$
+T$@f
+T$@1
+D$PL
+D$PL
+L$@I
+t$(L
+D$PL
+D$PL
+L$@L
+t$(I
+L9|$
+L$XH9L$hH
+I9F@
+t$XL
+H9D$`H
+L$ H
+L$pH
+@ L9
+L$`H
+D$hH9
+l$pL
+d$ H
+|$  HZ
+H;l$
+|$8B
+L$pI
+H+t$xH
+D$XH
+L$pI
+H9D$`H
+d$ I
+|$0I
+d$HE1
+\$PJ
+H;D$0
+T$ A
+D;T$
+|$8H
+t$ A
+D$PL
+D$PL
+L$@L
+t$(I
+t$(H
+t$(H
+|$8H
+|$HH
+AYAZt&H
+T$HH
+L$@H
+L$@H
+T$HH
+D$PH
+D$PH
+T$@I
+lt'1
+I9FH
+L$pI
+|$8H
+d$0I
+D$0D
+\$pD
+D$@D
+L$ H
+L$0I
+\$pD
+D$@D
+L$ J
+|$`I
+D$hD
+d$ H
+D$PH
+D$@H
+L9l$
+L;l$
+|$  HZ
+L;l$
+t$HH
+L$0I
+H+t$xH
+D$XH
+t$@H
+H9D$`H
+d$ A
+d$ H
+\$0E
+|$8H
+|$HH
+AXAY
+D9T$
+\$0I
+t$HH
+T$HI
+L9l$
+t$pH
+d$ H
+\$0A
+H9L$h
+L$hH
+D$`H)
+L$xH
+V(H)
+D$XH+D$xH
+A;FXv
+[]A\A]A^A_
+t$@H
+|$8H
+T$HH
+L$pL
+L$pL
+|$8H
+T$HH
+L$@L
+T$HI
+L$@L
+L$`H
+D$hH
+D$xH
+D$hH
+L$`H9
+d$HH
+\$0D
+\$H1
+|$ E1
+L$HB
+|$ 9|
+t$(H
+|$81
+t$(H
+|$8Ic
+\$xtd
+L$@H
+|$8H
+\$0A
+|$xI)V@E
+I)VHf
+t$(H
+|$81
+D$XH
+L$xH
+L$`H
+t$(H
+\$0D
+|$ 1
+\$0A
+AWAVAUATUSH
+L$8L
+D$XE1
+L9\$
+\$H<
+|$ M
+D$HA
+D$hH
+D$`H
+|$xH
+t$XH
+D$0L
+L$hH
+t$ H
+H+T$ H
+H;\$ 
+|$0H
+\$xH9
+t$ H
+D$0H
+L$8H
+L$hH
+t$0H
+t$HM
+D$@L
+\$ H
+t$HI
+|$hHc
+L$`L
+\$HL
+D$@L
+T$ L
+\$HL
+D$8H
+t$0L
+T$0H
+\$xH
+D$XH
+4$H9
+H+L$0H9
+T$0H
+[]A\A]A^A_
+4$IcL$
+L$8L
+L$ u0L
+|$hL
+t$pL
+T$HI
+D$`I
+(tUE1
+\$@H
+D$hL
+PATL
+L$hH
+T$8H
+\$@H
+T$HL
+|$hL
+PUATH
+l$8H
+t$ L
+T$@H
+H9\$
+D$ H
+D$ H)
+D$@H
+L$8L
+|$H1
+L$hH
+t$0H
+CHH9
+L$xH
+|$XJ
+D$ E
+|$ t)H
+T$ @
+t$ H
+t$0H)
+D$HA
+x	DH
+L$8L
+D$HH
+D$p%
+t$`WI
+PAVL
+L$8H
+L$hH
+D$PH
+L$@E
+D$ H
+D$xI9
+D$ H
+T$0H+T$@L
+D$0H
+D$ E1
+D$xH
+D$p%
+\$0H
+L$8L
+L$8L
+L$8L
+\$ L
+\$ L9
+t$ L
+t$ H
+\$hE
+D$HH
+L$8L
+|$`I
+PAVL
+L$8H
+L$hH
+D$PH
+D$HI
+t$`H)
+|$hH9|$`
+T$@H
+T$HH
+t$ H
+H+T$@H
+L$8L
+H9\$
+T$HL
+T$HL
+L$8L
+	B(I
+D$XH
+\$xA
+D$ L
+L$8L
+T$ <
+L$ L
+AXAY
+'ufH
+H9D$
+D$HH
+tKH;D$HtD
+t<<(
+L;T$
+aL9T$
+\$@D
+L$ L
+\$@D
+L$ A
+D$xH9BPs	H
+D$xH
+D$hI
+D$HH
+x	DH
+I9FXt
+I9FXt
+<ft8<s
+t$0H
+D$0I
+!B(I
+|$0E
+\$0H
+d$xH9
+D$@H
+L$hH
+T$`I
+|$H%
+|$`H
+D$`H
+L$`H
+H9D$
+L$8L
+L$hH
+t$0H
+ATUH
+ []A\
+AWAVI
+AUATA
+D$8L
+L$hH
+F f%
+F f%
+B f%
+AZA[
+D$8H
+l$hD
+F f%
+t$0Hc
+D$(E1
+D;F(L
+V(A9
+}ZD9
+D$(H
+D$0H
+L$(D
+\t1H
+v]E9
+D$0H
+T$(I+W
+GXI9GPI
+D$8A
+~2Hc
+D$PA
+\$PH
+\$8H
+l$8H
++u.A
+l$@L
+t$DL
+\$xA
+D$Dt E
+D$XL
+A	UdH
+I;F@I
+t$8H
+uaHc
+D$Pt
+[]A\A]A^A_
+@@VAT
+FXE1
+VXH)
+T$HH
+D$(I
+\$0D
+D$ L
+\$HD
+D$pI
+\$HD
+T$0H
+D$pD
+\$`D
+t$(D
+T$HH
+|$0H
+\$`H
+|$0H
+T$ H
+|$0I
+D$ L
+\$HH
+|$|L
+|$`H
+D$Hf
+D$HI
+D$0D
+D$`;D$
+|$|L
+|$ A
+\$pH
+H)P8H
+F f%
+Nd H
+FXE1
+D$pI
+T$0L
+\$HH
+t$PH
+thAUATI
+[]A\A]
+[]A\A]
+($[]A\
+[]A\
+AWAVI
+AUATM
+D$x1
+T$ L
+L$(D
+D$3H
+%1234567H
+D$PH
+89ABCDF
+t$PH
+D$XD
+|$ H
+D$8D
+L$0D9
+D$Qtf
+t	I9
+D$09
+|$HL9|$
+D$(H
+L+T$ L
+t$xdH34%(
+[]A\A]A^A_
+T$PA
+L$HE
+L$0A
+|$PI
+|$ H
+D$Qr
+t+wN
+D$Qn
+|$3"
+D$Q"
+D$Qv
+D$Qf
+D$HH9D$
+AWAVM
+AUATI
+D$ dH
+D$H1
+\$@M
+D$,H
+T$(M
+D$ H
+H;D$@
+T$HdH3
+X[]A\A]A^A_
+\$@M
+T$(A
+\$HM
+T$0L
+H;D$@
+AVAUM
+ATUM
+]A\A]A^
+]A\A]A^
+AWAVI
+AUATUSH
+UUUU
+L9<$
+L9|$
+SHL9<
+UUUUt
+[]A\A]A^A_
+ t7I
+[]A\A]A^A_
+@ HcH
+ATUM
+[]A\
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AUATA
+[]A\A]
+ATUH
+[]A\
+[]A\1
+AWAVD
+AUATI
+[]A\A]A^A_
+AWAV1
+AUATA
+C f%
+CC ttD
+]A\A]A^A_
+C#@H
+AWAVA
+AUATI
+D$X1
+D$ f%
+D$#E
+D$ E
+\$ %
+\$ D
+|$,A
+l$0L
+d$8E
+l$0D
+|$,fE
+d$(M
+D$XdH3
+h[]A\A]A^A_
+D$ f%
+t$0H
+t$8H
+t$@H
+t$HH
+D$ A)
+D$ H
+L$(D
+L$(fA
+L$ f
+L$"H
+D$!H
+D$#@
+\$ L
+s>f=
+D$$E
+T$(H
+L$(H
+L$LH
+T$PL
+L$LH
+t$0H
+AVAU1
+ATUI
+P8I9
+[]A\A]A^
+AUATM
+[]A\A]
+[]A\A]
+ATUM
+Y[]A\1
+AVAUM
+ATU1
+@ HcH
+Y[]A\A]A^1
+]A\A]A^
+AWAVI
+AUATUSH
+D$(D
+D$7dH
+D$ h
+T$ E
+[]A\A]A^A_
+t$(I
+A_XH
+Lc@`1
+9L$(
+R HcR
+R HcJ
+L$ H
+T$0L
+AZA[I
+|$(D
+@\`t.
+D$8D
+_AXf
+9L$(
+D$8P
+D$8D
+L$,H
+AQE1
+|$(I
+@ Lc@
+A]ZH
+t$(I
+A\A]
+L$8A
+L$HI
+t$ L
+D$0L
+L$,D
+D$@H
+L$HH
+R H9
+9L$(
+HcD$
+D$(H
+L;d$
+D$(L
+L$,D
+D$(H
+D$8L
+D$8D
+L$,H
+t$(D
+t$ L
+|$(D
+D$8D
+D$8A
+D$8D
+L$,D
+D$8A
+D$8D
+L$,H
+l$ A
+|$(M
+$XZM
+D$8A
+D$8D
+L$,I
+A_XM
+D$8L
+D$8D
+L$,D
+A[A]M
+D$8L
+D$8D
+L$,D
+AYAZM
+D$(M
+D$8L
+D$8D
+L$,D
+B,9B(t
+D$8P
+D$8D
+L$,D
+AYAZ
+D$8P
+D$8D
+L$,D
+D$8P
+D$8D
+L$,D
+L$8H9H
+t$(I
+\$ H
+t$8L
+\$ L
+t$8L
+@ Hc@
+@ Hc@
+D$8L
+D$8D
+L$,D
+Lc@(H
+\$ L
+AYAZH
+\$ L
+F] H
+	HcI
+t$(I
+AWAVAUATUSH
+l$hD
+wtQ1
+V(E1
+([]A\A]A^A_
+N AUH
+D$ H
+AXAY
+t$,I
+AZA[
+N(AUH
+D$ H
+AWAVA
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_1
+AWAV
+AUATI
+D$(1
+L$(dH3
+8[]A\A]A^A_
+0t6H
+L$ H
+ATUSH
+E f%
+trf=
+tLf=
+AUATUSH
+@uVH
+[]A\A]
+tkAUATI
+[]A\A]
+tKH9
+w`SD
+AWAVE
+AUATI
+([]A\A]A^A_
+tMH9
+A8D$
+AVAUATUH
+uhH9
+[]A\A]A^
+]A\A]A^
+AUATI
+	t4H
+[]A\A]
+[]A\A]
+	tBH
+AWAVAUATI
+([]A\A]A^A_
+t$ H
+D:8u
+t;USH
+[]A\
+t;USH
+	t$H
+AWAVA
+AUATI
+C H)
+dH34%(
+([]A\A]A^A_
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+T$ H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+T$ H
+StK1
+AUATI
+[]A\A]
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+T$ H
+dH34%(
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AUATUSH
+dH34%(
+[]A\A]
+AUATI
+[]A\A]
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+=S}3
+T$ H
+dH34%(
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+T$ H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+=Ew3
+L$ H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AWAVA
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+[A^A_
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+[]A\
+AWAVAUATUSH
+8[]A\A]A^A_
+5Yq3
+, Mc
+[]A\A]A^A_
+L$ t
+L$ u
+D$(f
+L;t$(u
+D$ H
+-ho3
+=Po3
+8[]A\A]A^A_
+AUATUSH
+[]A\A]
+H9=al3
+AWAVAUATI
+D$81
+|$41
+L$8dH3
+H[]A\A]A^A_
+|$0D
+HcD$
+D$4A
+AWAVI
+AUATI
+D$81
+L$8dH3
+H[]A\A]A^A_
+|$0@
+HcD$
+HcD$
+|$ <w
+Lct$
+|$0D
+|$41
+HcD$
+T$4H
+AVAUE1
+ATUH
+ []A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVA
+[A^A_1
+[A^A_
+[A^A_H
+AWAVI
+AUATUSH
+[]A\A]A^A_
+gfff
+40Ei
+gfffA
+AWAVA
+AUATI
+D$x1
+|$@H
+D$@H
+D$HH
+D$PH
+D$XH
+D$ H
+D$`H
+D$(H
+D$hH
+D$0H
+D$(H
+D$pH
+L$xdH3
+[]A\A]A^A_
+AUATUSt
+[]A\A]A^A_
+A\A]A^A_
+D$@D
+[]A\A]A^A_
+A\A]A^A_
+tGE1
+AWAVAUATI
+D$H1
+L$,H
+D$71
+D$DPL
+L$HL
+D$<H
+T$PH
+D$0Y^H
+D$,A
+D$,M
+gfffA
+D$,M
+t$81
+>uu I
+\$HdH3
+X[]A\A]A^A_
+|$81
+t$81
+t$81
+D$LH
+t$ E1
+AWAVAUATA
+|$ 1
+[]A\A]A^A_
+B(E1
+|$`A
+?w"Hc
+AWAVAUATI
+[]A\A]A^A_
+_AXt5
+Y^t5
+@ Hc
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+@ Hc
+@ Hc
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+D$ E1
+@ A9
+4$H9t$
+[]A\A]A^A_
+H9D$
+H9\$
+H9\$
+AUATI
+([]A\A]
+D$(1
+L$(dH3
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+dH34%(
+uGSH
+AUATI
+[]A\A]
+AWAVAUATI
+D$(1
+L$HL
+D$PL
+D$0H
+|$(dH3<%(
+h[]A\A]A^A_
+AVAUI
+ATUI
+s*L)
+[]A\A]A^
+AUATI
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+l$(H
+l$<H
+vSM9
+L$<H
+|$@L
+l$<H
+t,Hc
+|$@.
+L$'H
+D$@Hc
+t$@L
+l$(H
+l$(u
+AWAVI
+AUATI
+@tRH
+[]A\A]A^A_
+[]A\A]A^A_
+@ HcH
+AVAUE1
+ATUI
+[]A\A]A^
+><wt:H
+tWH=@
+@0;F
+t+vQ
+AWAVI
+AUAT1
+HcD$,L
+D$ u'
+tSH;l$
+L;l$
+[]A\A]A^A_
+Hct$,L
+t&I9
+HcD$,I
+AUAT1
+[]A\A]
+AVAUI
+ATUI
+[]A\A]A^
+AVAUI
+ATUI
+]A\A]A^
+[]A\A]A^
+AUAT1
+[]A\A]
+AWAVAUATUSH
+W taE
+[]A\A]A^A_
+AUATUI
+[]A\A]A^
+ATUH
+[]A\
+AWAVA
+AUATI
+[]A\A]A^A_
+ATUI
+ATUS
+[]A\
+t$HH
+[]A\H
+[]A\
+t$HH
+AVAUATUH
+[]A\A]A^
+<	t %
+@ L9
+[]A\A]A^
+AVAUI
+ATUI
+[]A\A]A^
+,3H9
+/uZH
+u8H9
+AUATUSH
+[]A\A]
+AWAVAUATI
+Et~I
+[]A\A]A^A_
+ATUH
+AUAT1
+[]A\A]
+tQUSH
+AWAVE
+AUATI
+D$81
+C H)
+CXH9CP
+|$8dH3<%(
+x[]A\A]A^A_
+D$ 0
+D$(H
+D$@N
+D$0H
+AWAVI
+AUATI
+|$PH
+t0AWUL
+([]A\A]A^A_
+|$PH
+[]A\A]A^A_A
+USE1
+ATUI
+AUATI
+[]A\A]
+qt2ATUI
+[]A\
+ATUI
+ZYtC
+|E[]A\
+ATUI
+AUATI
+[]A\A]
+ATUI
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+ATUH
+[]A\
+.@(z
+AWAVAUATI
+D$81
+L$0D
+t$(H
+T$ L
+|$ H
+t$8AVL
+D$(H
+L$0I
+\$8dH3
+H[]A\A]A^A_
+T$(tl
+t$0I
+D$0L
+AWAVI
+AUATI
+D$H1
+T$8H
+T$01
+|$0E1
+L$@A
+t$HAVL
+AYAZ
+D$@H
+ urH
+L$8L
+L$ H
+\$8XZ@
+L+\$
+L$HdH3
+X[]A\A]A^A_
+T$8L
+\$(H
+T$(L
+D$8L
+L$8I
+L$PH
+T$HL
+T$8A
+D$@H
+L$8L
+L$PH
+AVAUI
+ATUH
+p@E1
+[]A\A]A^
+@@[]A\A]A^
+P0uRI
+]A\A]A^
+AUATUSH
+[]A\A]
+p@E1
+[]A\A]
+h@x;
+xHyu
+ATUH
+AVAUI
+ATUSH
+xyH9
+[]A\A]A^
+t'SH
+z(SH
+AUATI
+[]A\A]
+AWAVI
+AUATUSH
+r(dH
+D$(1
+L$(dH3
+8[]A\A]A^A_
+l$ 1
+t$ H
+t$ L
+D$ A
+Hc|$
+u Hc
+l$ I
+D$ H
+L$ H
+AUATI
+[]A\A]
+[]A\A]
+ATUI
+$tVH
+[]A\
+AWAVAUATI
+|$ D
+t$ 1
+L$(E1
+[]A\A]A^A_
+L$(H
+ATUI
+[]A\
+AWAVAUATLc
+t$(H
+T$0dH
+D$ I
+L$@H
+T$HA
+d$ H
+\$ H
+T$PI
+A;G4
+D$ H
+D$(L
+D$(L
+\$XI
+D$ H
+\$ I
+\$ I
+[]A\A]A^A_
+T$@H
+T$@H
+	tTL
+|$PD
+t$P1
+ATUH
+tP:C
+[]A\
+AUATUSH
+t$(H
+T$0H
+L$8L
+D$@L
+D$ H
+X[]A\A]
+@ f%
+@ f%
+@ f%
+@ f%
+@ f%
+@ f%
+H`RH
+AWAVAUATUSH
+D$(1
+T$$L
+L$$HcP
+_AXu
+L$$HcP
+D$0H
+L$(L
+L$$H
+D$(dH3
+8[]A\A]A^A_
+t#H;] t
+AUATI
+tJH;] 
+PATj
+[]A\A]
+H9U tR
+j E1
+ATUH
+PATj
+[]A\
+AWAVAUATUS
+D$H1
+L$HdH3
+X[]A\A]A^A_
+ATE1
+T$XL
+L$(A
+D$0L
+D$8%
+D$HdH3
+]A\A]A^A_
+T$4L
+D$ H
+L$(H9L$
+T$XH
+L$ Mc
+L$ E1
+d$ M
+AWAVI
+AUATUSH
+|$h1
+L$XL
+D$PL
+t$0H
+t$PH
+AXAYH
+D$XE1
+T$PH
+t$HA
+l$HL
+L$`H
+t$XH
+L$`H
+t$0H
+L$8H
+t$ I
+t$XH
+D$PH
+d$HA
+D$`t
+6XZH
+t$PH
+D$ L
+L$PIc
+T$`H
+L$`H
+t$XH
+H;|$P
+|$`<
+L$(H
+L$`t
+L$0L
+t$XL
+D$hdH3
+x[]A\A]A^A_
+t$XH
+L$XHc
+T$`L
+L$`I
+AZA[
+H;D$X
+|$`<
+T$PH
+T$(H
+T$(H
+l$ L
+|$0L
+t$(H
+H;D$P
+T$8H
+T$8H
+t$0L
+|$8L
+d$@H
+t$0L
+|$8L
+l$ L
+t$(L
+t$HE1
+|$(O
+L$`H
+L$pA[XH
+t$PE
+D$P1
+H9T$
+L$pE1
+AYAZE
+L$`t
+D$(_AXM9
+L$`H
+|$(H
+AUATI
+S8t\L
+[]A\A]
+AWAVAUATUSH
+D$ H
+[]A\A]A^A_
+$tPI
+L;4$L
+AUE1
+ L94$w
+PAUj
+\$(XZ
+AWAVI
+AUATUSH
+|$x1
+t$Hu
+t$@H
+|$Xt
+D$0H
+D$0H
+\$0H
+D$8H
+D$0H
+|$@H
+D$XH
+|$X	H
+AZA[
+D$0H
+|$HH
+D$pt
+t$(H
+AXAY
+t$HL
+l$@H
+ATj$A
+t$8H
+|$HH
+\$XHcG
+D$@H
+L$hH
+T$pD
+D$xdH3
+[]A\A]A^A_
+D$(f
+AVj$A
+|$(H9|$
+|$ HcM
+t$ L
+|$X	u
+D$01
+D$0H
+D$0H
+T$@H
+t$HL
+L$lH
+L$lH
+AWAVAUATI
+t	L; 
+[]A\A]A^A_
+AVAUATUS
+	LcA
+ZYtX
+[]A\A]A^
+[]A\A]A^
+ATUSH
+SxHc
+u=Hc
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+F	<n
+F	<a
+AWAVI
+AUATA
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVAUATA
+|$8H
+t$(L
+|$0E
+D$ E
+H[]A\A]A^A_
+t$(M
+|$0I
+D$ B
+D$8H
+AWAVI
+AUATI
+D$H1
+D$HdH3
+X[]A\A]A^A_
+l$ M
+L$(D
+A9,$u
+E9|$
+L$(D
+l$ L
+T$@L
+L$?D
+L$@D
+ATUH
+[]A\
+SLcV
+t#Lc
+tkATUH
+[]A\
+AWAVI
+AUATA
+[]A\A]A^A_
+[]A\A]A^A_
+ATUSH
+[]A\
+[]A\L
+AVAUI
+ATUA
+[]A\A]A^
+t[ATUSH
+[]A\
+t,USH
+AUATI
+dH3<%(
+[]A\A]
+ATUH
+[]A\
+AUATUSH
+[]A\A]H
+[]A\A]
+[]A\A]
+AWAVAUATA
+D$ M
+H;l$
+H;l$
+8[]A\A]A^A_
+HcD$
+8[]A\A]A^A_
+T$(H
+D$ L
+\$ H
+8[]A\A]A^A_
+t>USH
+AWAVAUATI
+D$(A9D$,tQA
+D$(A
+D$,E
+[]A\A]A^A_
+D$(A9D$,
+D$(A
+t$,1
+D$(1
+A9D$,A
+AUATI
+[]A\A]
+[]A\A]
+AVAUI
+ATU1
+[]A\A]A^
+]A\A]A^
+ATUE1
+ []A\
+AWAVAUATA
+L9<$r
+[]A\A]A^A_
+AWAVAUATE
+LcL$
+6HcV
+([]A\A]A^A_
+IcT$
+([]A\A]A^A_
+([]A\A]A^A_
+AWAVAUATUSH
+D$XD
+D$x1
+l$n@
+L$XA
+D$pM
+\$xdH3
+[]A\A]A^A_
+~ E1
+T$XH
+L$nL
+D$XI
+D$@H
+D$XH
+\$(I
+l$<L
+d$0D
+L$HH
+D$ H
+D$PA
+T$ H
+D$PA
+3D$@
+d$0H
+;T$@t$
+\$(A
+l$<L
+D$XH
+D$pH
+T$ H
+T$ H
+L$@L
+@HTI
+T$(E
+D$<D
+D$pH
+\$ I
+l$(M
+L$@L
+D$0A
+A9)u
+D$0A
+3D$<
+L$@L
+d$HH
+l$(I;
+l$pt'A
+l$pH
+D$(L
+L$ L
+D$(1
+T$XL
+T$XA
+T$pH
+L$oL
+T$(D
+T$(D
+T$XL
+D$ L
+T$(I
+\$<E
+D$XH
+T$(E1
+D$ L
+D$ L
+D$0H
+D$(L
+D$(L
+D$XL
+T$(D
+T$(D
+T$(D
+D$ H
+T$(H
+l$pI
+T$XL
+T$XL
+T$(I
+D$ L
+T$XL
+L$pL
+D$(L
+L$ L
+L$ L
+QAQH
+AWAVI
+AUATUSH
+|$ H
+D$ H
+L$HH
+D$HH
+D$HH
+D$@H
+T$HH
+t$ L
+t$ 1
+t$ L
+t%H9
+t%L9
+t$`L
+D$PH
+D$0H9D$H
+L$@H
+T$HH
+T$ H
+T$PH
+D$@H
+h[]A\A]A^A_
+D$PH
+D$(H
+D$XH
+L$0E1
+t.H;t$
+H;t$(
+H;t$8
+D$PH
+L$0H
+AWAVAUATI
+PAWj$F
+[]A\A]A^A_
+AVAUATUA
+[]A\A]A^
+]A\A]A^
+	LcA
+t$(H
+t$0H
+AVAUATUI
+tpE1
+u0[H
+]A\A]A^
+[]A\A]A^
+ATUH
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+<@tfL
+AWAVE
+AUATUSH
+txD;C
+@tsH
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUE
+ATUA
+[]A\A]A^
+AVAUI
+ATUSD
+dH3<%(
+[]A\A]A^
+AWAVI
+AUATI
+D$81
+L$ L
+\$0%
+,;H9
+L$8dH3
+H[]A\A]A^A_
+L$(D
+L$(D
+T$0L
+D$ L
+\$0D
+d$0H
+t$ H
+AWAVE
+AUATA
+[]A\A]A^A_
+AWAVAUATI
+dH3<%(
+[]A\A]A^A_
+tNUSH
+:u/H
+ATUH
+D$HXZ[]A\
+AUATI
+[]A\A]
+.@(z
+AWAVI
+AUATM
+[]A\A]A^A_
+gfffffffI
+AVAUATUI
+[]A\A]A^H
+XZ[]A\A]A^
+AWAVI
+AUATI
+H;D$
+@u5I;
+A\A]A^A_
+[]A\A]A^A_
+ATUH
+[]A\
+@HtI
+[]A\
+AWAVAUATI
+[]A\A]A^A_
+AVAUATUS
+@uHH
+H+P H
+[]A\A]A^
+]A\A]A^
+AUATUSH
+[]A\A]H
+[]A\A]
+ATUS
+t;E1
+[]A\
+AVAUATUSH
+H+A H
+[]A\A]A^
+]A\A]A^
+ATUH
+[]A\1
+ATUS
+tCE1
+[]A\
+ATUH
+$H;h
+XZ[]A\A]A^
+]A\A]A^
+]A\A]A^1
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+AUATUSH
+@teH
+L;L$
+[]A\A]
+[]A\A]
+[]A\A]
+AVAUI
+ATUSH
+[]A\A]A^
+[]A\A]A^
+]A\A]A^
+ATUH
+[]A\
+C([]A\
+AWAVAUATI
+/u{H
+E H)
+[]A\A]A^A_
+W SH
+HcB H
+GXH9GP
+ATUSH
+G H)
+[]A\
+GxSH
+W SH
+B f%
+.@(z
+AWAVAUATUSH
+@t	H
+[]A\A]A^A_
+ATUS
+#[]H
+#[]H
+@0A\
+.@(z
+HcB H
+CXH9CP
+HcK@H
+;s0|
+AWAVAUATI
+D$81
+D$(I
+L$(H
+|$8dH3<%(
+H[]A\A]A^A_
+t$L9
+T$(H
+AVAUATUSH
+[]A\A]A^
+Hcs0D
+K(Hc
+#[]H
+A\A]A^
+GxtgL+c
+ATUSH
+@ H9A 
+Q vPH
+@u^H
+B f%
+.@(z
+AVAUI
+ATUSH
+@0]A\A]A^
+[]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+p t	H
+AVAUATUSH
+C H)
+ u,L
+]A\A]A^
+AUATUSH
+OxHc
+[]A\A]
+W SH
+AWAVI
+AUATUSH
+WxLc H
+@"@ttH
+[]A\A]A^A_
+@ f%
+@ f%
+[]A\A]A^A_
+W H)
+AVAUATUSH
+@ f%
+dH34%(
+[]A\A]A^
+ tKA
+uJf.
+AWAVA
+AUATI
+D$(H
+OxHc
+OxHc@
+D$0H
+\$@H9\$(
+$H+D$0I
+I;w`
+\$0H9
+\$@H9\$(
+D$@L
+t$0H
+L$HH
+T$pH
+T$ H
+D$`H
+t$hL
+H;l$
+t.H;\$H
+H;\$p
+H;\$x
+L;4$
+|$(H9|$ 
+L$(H
+T$@H
+|$0H
+[]A\A]A^A_
+t$PL
+l$`H
+D$HI9
+D$ H
+L;4$A
+L;4$A
+D$ H
+D$ H
+|$ D
+L;4$H
+L$ H
+B#t'
+D$hL
+t$0H
+t"M9
+L$HH
+D$0H
+$H+T$0H
+D$0H
+AWAVAUATUSH
+C L)
+[]A\A]A^A_
+AWAVAUATUSH
+D$h1
+T$4L
+T$`L
+D$,H
+l$HH
+x	I9
+L$,E
+D$^a
+D$]E1
+t$ L
+l$PI
+L$@L
+D$,L
+DD$@H
+D$HH
+T$fRj
+t$8H
+D$HH
+T$8H
+sPH;s`
+D9d$
+D9d$
+D$8H
+D$X;C0
+\$hdH3
+x[]A\A]A^A_
+C H)
+D$`I
+D$X;C0
+T$8H
+T$8H
+D$^!
+t$ H
+t$ L
+t$XH
+T$8D
+D$X;C0
+T$8H+D$
+D$^a
+AWAVI
+AUATUSH
+D$H1
+Y^t/I
+|$HdH3<%(
+X[]A\A]A^A_
+G L)
+Pv"H
+D$8H
+T$ H
+T$@1
+D$(H
+T$@1
+AVAUATUSH
+K H)
+[]A\A]A^
+[]A\A]A^
+@"@tHI
+B"@L
++[]H
+A\A]A^
+AWAVAUATUSH
+G L)
+HcB H
+u8L;u@
+dH3<%(
+([]A\A]A^A_
+E@E1
+u@L9
+HcE L
+AWAVAUATUSH
+D$x1
+D$Pt
+t$0H
+T$p1
+L$KH
+D$ I
+A E1
+L$(L
+D$(M
+T$hE1
+Degas are we not drawn onward no In union drawn onward to new eras aged
+T$hI
+H;HH
+\$LE
+D$pL
+T$p1
+t$KL
+|$KH
+|$KI
+\$0H
+D$(M
+l$0L
+L$hH
+D$TH
+T$XH
+H9l$
+t$HH
+H9D$ 
+t$(H
+L$KH)
+L$KH
+T$8H
+D$@t
+t$@1
+D$8%
+D$hA
+t$@H
+C L)
+D$PH
+;C0}
+t$xdH34%(
+[]A\A]A^A_
+T$8H
+t$@H
+T$@H
+t$@H
+l$0A
+ t!H
+t$(H)
+D$P;C0
+F A;F$
+t$ H
+HcB H
+T$KH
+t$Pf
+t$(H
+|$LM
+|$KH
+|$KM)
+T$(1
+D$0L
+L9t$(L
+L$(H
+H;D$ 
+t$KI
+t$KL
+t$(L)
+t#I9
+L$8H
+T$hH
+t$0H
+T$hL
+AUATUSH
+CXH9CP
+CxHc
+CxHc
+[]A\A]
+SxHc2H
+.@(z
+sxHc@
+[]A\A]
+C L)
+AWAVAUATUSH
+/HcQ H
+A HcU
+h`uAH
+[]A\A]A^A_
+GXH9GP
+H+B H
+[]A\A]A^A_
+GXH9GP
+G L)
+u'S1
+AWAVAUATUSH
+D$81
+MxHc
+B ;B$
+HcB H
+ExH+EpH
+D"`#E
+y8L)
+|$8dH3<%(
+H[]A\A]A^A_
+HcD$
+t$ H
+Lct$
+L$(H
+T$0E1
+D$(H
+T$(H
+E H+
+D$(H
+T$0H
+t$ H
+uxHc
+ATUA
+[]A\
+[]A\
+ATUSH
+G H)
+D$" t
+$[]A\
+$[]A\
+AWAVA
+AUATUSH
+@" L
+[]A\A]A^A_
+[]A\A]A^A_
+	urH
+AWAV1
+AUATL
+V H)
+[]A\A]A^A_
+AWAVAUATI
+([]A\A]A^A_
+,@(H
+([]A\A]A^A_
+([]A\A]A^A_
+AWAVAUATUSH
+dH3<%(
+([]A\A]A^A_
+xHyu
+AWAVAUATUSH
+C L)
+dH34%(
+([]A\A]A^A_
+C L)
+AWAVAUATUSH
+C L)
+dH3<%(
+([]A\A]A^A_
+C L)
+AWAVAUATUSH
+C L)
+dH3<%(
+([]A\A]A^A_
+C L)
+AWAVAUATUSH
+C L)
+dH3<%(
+([]A\A]A^A_
+C L)
+AWAVAUATUSH
+[]A\A]A^A_
+x%Hc
+F f%
+AUATUI
+[]A\A]
+sDH9
+F f%
+rAH9
+AWAVI
+AUATA
+[]A\A]A^A_
+ t+H
+H;C`H
+H;E`H
+AWAVI
+AUATUSH
+h9x8tWE1
+B f%
+[]A\A]A^A_
+@ f%
+vMH9
+AWAVI
+AUATL
+D$(1
+H;T$
+L;|$
+T$ H
+BH<T
+t+Lc@
+T$ H
+H9D$
+H9D$
+D$(dH3
+8[]A\A]A^A_
+tDH;
+t;H;
+t2USH
+t'H;
+AWAVAUATUSH
+[]A\A]A^A_
+tR<wu
+[]A\A]A^A_
+[]A\A]A^A_
+AUATI
+t$PI;t$`|
+D$PI
+T$HH
+D$PH
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+]A\A]
+[]A\A]
+[]A\A]
+AVAUATUH
+4$I9
+[]A\A]A^
+ATUSH
+[]A\A]
+F H;F(I
+[]A\A]
+ATUS
+t	[]A\
+[]A\
+AWAVAUATUSH
+t8L;x
+[]A\A]A^A_
+twATUI
+[]A\
+tKUSH
+ATUSH
+[]A\
+!f=D t
+$tZH
+$t3H
+AUATUSH
+([]A\A]
+H;D$
+AWAVI
+AUATI
+[]A\A]A^A_
+D$TO
+,"M9
+|$TH)
+@8|$W
+t$XH
+\$X1
+D$ H
+@8|$T
+D$0I
+L$xL
+D$ L
+L$xH
+0u+E
+D8T$
+0t+E
+D$ H
+D$0H
+*tC@
+HcL$8D
+t$ H
+T$@D
+L$8H
+L$8D
+|$hE1
+"L$UH
+L$tL
+|$8H9
+D$8H9
+@8|$T
+|$TH
+T$ H
+L$xL
+D$ L
+L$xH
+L$xL
+D$ L
+D$ L
+L$xI
+F f%
+D$VH
+|$WH
+@8<$s:E
+t$`L
+D$8H
+D$8H
+L$xL
+D$ L
+@ f%
+@ f%
+L;l$ 
+$H;D$ 
+T$tH
+D$ H
+\$`H
+|$xHc
+T$tH
+F f%
+|$ D
+ED$8H
+D$0H9
+8D$Us[
+D$@tM
+T$tH
+D$0H
+l$ I
+|$xE1
+D$xL
+V<$wy
+\$xH
+"L$U
+T$xD
+L$tD
+L$@H
+D$0D
+D$8HcL$t
+D$xA
+F f%
+D$WH
+D$`H
+t$`L
+d$`L
+D$hH
+D$x;
+|$xHc
+D$x1
+8D$U
+|$0H9
+D$0H
+T$tH
+T$tD
+L$@D
+D$8L
+T$tD
+L$@D
+D$8A
+AXAYH
+l$ H
+T$tD
+L$@D
+D$8D
+L$@D
+T$tA
+D$`H
+tgD;
+D$x9
+|$xHc
+T$tD
+L$@D
+D$TD
+T$tD
+L$@D
+t$`H
+D$xH
+H9\$h
+H9t$hu
+\$0I
+D$hH
+T$hL
+D$hH9
+H+D$hI
+AZA[H9
+H9D$0H
+d$0I
+H9\$8
+D$`H
+|$8H9
+D$`H
+t$`1
+D$xH
+D$hA
+HcD$h9
+|$xH
+|$hH
+D$xH
+D$@H
+D$x;
+|$xHc
+H9T$h
+H9T$h
+T$@D
+L$8D
+D$hD
+T$@D
+L$8D
+D$8H
+D$`H
+D$xH
+T$@D
+L$8D
+D$hD
+L$8D
+t$`A
+t$`L
+D$x1
+t$`1
+\$`L
+T$8D
+T$8D
+\$`H
+D$x1
+\$`L
+D$xH
+t$`1
+T$0H+T$8H
+D$xH
+t$`1
+t$`1
+D$xH
+ATUI
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+[]A\
+ATUH
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+@u$H
+[]A\
+ATUI
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+[]A\
+AUATI
+([]A\A]
+ATUI
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+@u$H
+[]A\
+AUATI
+t$XH
+D$XH
+L$ L
+8[]A\A]
+AUATI
+[]A\A]
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+T$ H
+dH34%(
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AWAVI
+AUATI
+D$(1
+<$tOH
+@ E1
+D$(dH3
+8[]A\A]A^A_
+D$ H
+IcL$0I
+T$(H
+A;D$4A
+@ HcP
+U E1
+AWAVAUATUSH
+([]A\A]A^A_
+F f%
+F f%
+@ HcP
+AUATUSH
+[]A\A]
+ATUSH
+]A\H
+[]A\
+AWAVN
+AUATI
+voE1
+([]A\A]A^A_
+ATUI
+AWAVI
+AUATA
+D$81
+@t=H
+|$8dH3<%(
+H[]A\A]A^A_
+\$6H
+l$6I
+AVAUATUSH
+[]A\A]A^
+E L)
+EXH9EP
+AVAUATUSH
+]A\A]A^
+[]A\A]A^
+AWAVA
+AUATI
+D$(1
+\$(dH3
+8[]A\A]A^A_
+T$ Hc
+l$ I
+ATUA
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_E1
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUH
+ATUI
+[]A\A]A^
+AVAUATUH
+[]A\A]A^
+AWAVAUATUSH
+4$t	
+[]A\A]A^A_
+H9<$
+ATUH
+[]A\
+AUATI
+=H>0
+[]A\A]
+[]A\A]
+AWAVA
+AUATM
+	teA
+tUH;h
+H;(t&H;h t H;h(t
+H;h0
+HcD$PM
+[]A\A]A^A_
+T$PH
+AUATI
+[]A\A]
+ATUI
+uMf.
+[]A\
+AWAVAUATUSH
+t(H;p
+([]A\A]A^A_
+J Hcy
+EH<t
+u(H;s
+L9D$
+L9D$
+AWAVH
+AUATUSH
+[]A\A]A^A_
+tSUSH
+AVAUATUS
+t H;p
+[]A\A]A^
+MS4H
+[]A\A]A^
+AVAUATUS
+t H;p
+[]A\A]A^
+u0E1
+u(E1
+[]A\A]A^
+AVAUATUSH
+gt#H
+[]A\A]A^
+AWAVI
+AUATL
+t(L;p
+[]A\A]A^A_
+v8E1
+[]A\A]A^A_
+v8E1
+~8E1
+AVAUATUS
+t H;p
+[]A\A]A^
+[]A\A]A^
+AWAVAUATI
+(Hc~4L
+[]A\A]A^A_
+F#@t1A
+xHyu
+AUATUSH
+[]A\A]
+AUATUSH
+ t9L
+([]A\A]
+t+USH
+ u!H
+AWAVI
+AUATM
+[]A\A]A^A_
+AWAVM
+AUATI
+H+t$PL
+t$M9
+[]A\A]A^A_
+H;T$Pv	L
+T$PL
+H+L$PH+T$PO
+H;L$Pv	L
+L$PH
+t}H+L$PL
+<H+T$PL
+H+D$PH
+H+T$PM9
+H+T$PL
+H+T$P
+AWAVI
+AUATI
+D$(1
+taE1
+L$(dH3
+8[]A\A]A^A_
+T$0I
+AUAVL
+tBHc
+AWAVAUATI
+D$(1
+|$(dH3<%(
+8[]A\A]A^A_
+T$ M
+T$ L
+D$ L
+AVAUATUA
+[]A\A]A^
+F f%
+AUATUSH
+[]A\A]
+]A\A]
+~"Hc
+AWAVAUATI
+tt|H
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+y[USH
+AUATL
+[]A\A]
+[]A\A]
+AVAUI
+ATUH
+[]A\A]A^
+AVAUA
+ATUI
+dH34%(
+ []A\A]A^
+D$ H
+AWAVAUATA
+@ HcP
+[]A\A]A^A_
+[]A\A]A^A_
+t>E1
+AUATI
+[]A\A]
+[]A\A]
+ATUI
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+@u	H
+ATUA
+H;E`H
+EP}7H
+[]A\
+AWAVI
+AUATUSH
+J8M9
+vgH9
+t{Hc
+[]A\A]A^A_
+tfHc
+[]A\A]A^A_A
+D$X1
+F f%
+D$XdH3
+ATUH
+ATUI
+[]A\
+AWAVAUATA
+D$(1
+|$ H
+|$(dH3<%(
+8[]A\A]A^A_
+T$ H
+|$ I
+ ttL
+D$ H9
+D$ H
+AWAVAUATA
+D$(1
+l$ L
+t$(dH34%(
+8[]A\A]A^A_
+T$ H
+l$ I
+l$ M
+l$ L
+l$ L
+AVAUATUI
+dH34%(
+ []A\A]A^
+@u	H
+AUATUSH
+dH3<%(
+([]A\A]
+*H f
+*@ f
+ATUH
+dH3<%(
+ []A\
+AWAVAUATUSH
+C H)
+Ic4$H
+HcT$PH
+CXH9CPL
+[]A\A]A^A_
+ATUH
+ []A\
+AVAUI
+ATUI
+[]A\A]A^
+[]A\A]A^
+@u	H
+AVAUI
+ATUI
+uJE1
+@uN[H
+]A\A]A^
+]A\A]A^
+AUATI
+[]A\A]
+AVAUI
+ATUI
+]A\A]A^
+AUATM
+[]A\A]
+ATUI
+[]A\
+F f%
+[]A\E1
+@u	H
+ATUI
+[]A\
+@u	H
+ATUI
+[]A\
+ATUH
+[]A\
+F f%
+[]A\E1
+@u	H
+ATUSH
+D$X1
+D$XdH3
+`[]A\
+H9Q 
+t+USH
+ u!H
+ATUH
+[]A\
+H9Q t5
+[]A\
+[]A\
+t+USH
+ u!H
+AUATI
+dH34%(
+([]A\A]
+F f%
+AWAVAUATUSH
+([]A\A]A^A_
+<HL;
+AWAVI
+AUATI
+[]A\A]A^A_
+AUATUSH
+@u6H
+([]A\A]
+AUATA
+[]A\A]
+AWAVAUATUSH
+L9l$
+([]A\A]A^A_
+@u	H
+AWAVI
+AUATI
+D$(1
+L$pH
+|$ L
+D$(dH3
+8[]A\A]A^A_
+t)M)
+AWAVI
+AUATA
+([]A\A]A^A_
+D$ H
+HcL$
+ATUI
+[]A\
+ATUI
+[]A\
+ATUI
+ uwH
+H;E`H
+EP}3H
+[]A\
+ATUI
+[]A\
+[]A\
+AWAVLc
+AUATI
+D$h%
+L$HH
+w&H)
+t$ H
+dH34%(
+[]A\A]A^A_
+D$(H
+t$(L
+t$8L
+\$ H9
+L9d$
+t$8H)
+D$(H
+t$(H
+t$ I
+L;d$
+t$(M
+D$ H
+D$HH
+t$ H
+D$ H
+L9d$
+L$0L
+D$ G
+P~	A9
+T$(H9
+D$HH
+D$(H
+|$(M
+tsM+}
+t$(L
+T$0H
+T$0H
+T$HL
+t$ L
+HcD$
+L;d$
+t$(H
+D$(H
+t$(H
+t$(H
+AUATI
+[]A\A]
+AWAVAUATUSH
+([]A\A]A^A_
+([]A\A]A^A_
+AWAVAUATUSH
+D$H1
+l$0H
+\$8H
+L$(H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+tAE1
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+D$ H
+H+}pH
+CpH)
+UxH)
+Hc{D
+HcS@H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+t$ H
+C L)
+CXH9CP
+t$ H
+L$HdH3
+X[]A\A]A^A_
+t$@H
+AVAUATUSH
+C L)
+CXH9CPL
+[]A\A]A^
+CXH9CPL
+t@H9P
+t,SH
+AWAVA
+AUATM
+([]A\A]A^A_
+@uKH
+B f%
+[]A\A]A^A_
+[]A\A]A^A_
+B f%
+E"@L
+F f%
+A^A_
+}0E1
+H;l$
+AXAY
+F f%
+E E1
+A\A]
+F f%
+t	I9
+B f%
+F f%
+H;l$
+H;l$
+AZA[
+E f%
+L; D
+E f%
+T$ H
+T$ 1
+ATUH
+[]A\
+ATUH
+[]A\
+AUATI
+[]A\A]
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+L$ H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AUATI
+@XZu
+[]A\A]
+[]A\A]
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+L$ H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$(P
+AUATI
+[]A\A]
+[]A\A]
+t9USH
+AVAUATUH
+[]A\A]A^
+@#@u
+[]A\A]A^
+ATUI
+[]A\
+zHyu
+AWAVI
+AUATA
+D$(1
+L$(dH3
+8[]A\A]A^A_
+A3T$
+T$ L
+T$ L
+T$ M
+T$ E1
+T$ L
+D$ L
+T$ I
+AWAV1
+AUATUSH
+D$(1
+D$(dH3
+8[]A\A]A^A_
+L$ L
+T$ H=
+waH=
+w(H=
+L$ L
+t$ I
+L$ H
+t$ H
+AUATA
+[]A\A]
+[]A\A]
+[]A\E1
+[]A\
+C H)
+AVAUATUSH
+C H)
++[]H
+A\A]A^
+]A\A]A^
+C H)
+AVAUATUSH
+G L)
+ tHA
+3[]H
+A\A]A^
+[]A\A]A^
+[]A\A]A^
+W H)
+ATU1
+P E1
+A" t
+dH34%(
+AUATUSH
+@" L
+[]A\A]
+AUATUSH
+@" I
+@H.I
+[]A\A]
+@u>M
+[]A\A]
+< tIH
+dH34%(
+AWAVAUATL
+dH3<%(
+([]A\A]A^A_
+tyE1
+F] t
+ATUSH
+@\ u,H
+C H)
+C H)
+AUATUSH
+OxHc
+E L)
+[]A\A]
+uPH;u`|
+[]A\A]
+ATUSH
+AUATUSH
+dH34%(
+[]A\A]
+AVAUATUSH
+[]A\A]A^
+ATUSH
+[]A\
+AUATUSH
+@"@tvL
+@ f%
+dH34%(
+[]A\A]
+W H)
+AUATUSH
+*t$A
+@u4M
+[]A\A]
+AWAVI
+AUATUSH
+WxLc0H
+G H)
+[]A\A]A^A_
+G H)
+AVAUATUSH
+G H)
+]A\A]A^
+A\A]A^
+AUATUSH
+[]A\A]
+AWAVAUATUSH
+[]A\A]A^A_
+@ t	H
+AVAUATUSH
+[]A\A]A^
+@ t	H
+R t	H
+AVAUATUSH
+[]A\A]A^
+I t	H
+p t	H
+AWAVAUATUSH
+([]A\A]A^A_
+AWAVAUATUSH
+D$(1
+D$ I
+|$(dH3<%(
+8[]A\A]A^A_
+T$ 1
+SxHc(H
+KxHc
+AWAVAUATUSH
+[]A\A]A^A_
+p t	H
+AWAVAUATUSH
+@udL
+[]A\A]A^A_
+AWAVAUATUSH
+@udL
+[]A\A]A^A_
+ATUI
+[]A\
+[]A\
+ATUSH
+@ H9A 
+ATUSH
+@ H9A 
+ATUSH
+@ H9A 
+ATUSH
+@ H9A 
+ATUSH
+@ H9A 
+AUATUSH
+@uML
+[]A\A]
+AWAVAUATUSH
+@ f%
+[]A\A]A^A_
+ATUSH
+ATUSH
+AWAVAUATUSH
+@umL
+[]A\A]A^A_
+AWAVAUATUSH
+([]A\A]A^A_
+AWAVAUATUSH
+@u]L
+[]A\A]A^A_
+AUATUSH
+@"@t=L
+[]A\A]
+AWAVAUATUSH
+B"@u
+([]A\A]A^A_
+B"@u
+AWAVAUATUSH
+t	E1
+[]A\A]A^A_
+AVAUATUSH
+B"@I
+@u_L
+A\A]A^
+AWAVAUATUSH
+@tzL
+R H9
+0tsA
+([]A\A]A^A_
+.@(z
+ATUSH
+0twH
+@u5I
+ATUSL
+@u6I
+ATUSL
+@u8I
+AVAUATUSH
+@"@txL
+p tpH
+A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+AVAUATUSH
+A\A]A^
+AVAUATUSH
+A\A]A^
+A"@u
+AVAUATUSH
+P L)
+A\A]A^
+A"@u
+AUATUSH
+h tUH
+[]A\A]
+AUATUSH
+h tUH
+[]A\A]
+AUATUSH
+h tUH
+[]A\A]
+AUATUSH
+h tUH
+[]A\A]
+AUATUSH
+h tUH
+[]A\A]
+AUATUSH
+h tUH
+[]A\A]
+AVAUATUSH
+@ I9
+@uiL
+A\A]A^
+AWAVAUATUSH
+([]A\A]A^A_
+AUATUSH
+H(tUH
+@uqL
+[]A\A]
+AVAUI
+ATUSH
+[]A\A]A^
+4$E1
+AUATL
+[]A\A]
+K H)
+ATUSH
+@uyH
+C H)
+ []A\
+C H)
+AUATUSH
+@ t9
+@uEI
+[]A\A]
+AUATUSH
+@ u9
+[]A\A]
+AVAUATUI
+@ f%
+@u|H
+dH3<%(
+ []A\A]A^
+<0t|
+<XtR<Bu
+AUATUSH
+A3D$
+[]A\A]
+AWAV
+AUATUSH
+D$h1
+L$(H
+T$@A
+T$@I
+\$@H
+D$`L
+t$ L
+L$`L
+A[A^
+|$XM
+L$`A
+D$HI
+@HxI
+|$(H
+D$`L
+t$ L
+|$hdH3<%(
+x[]A\A]A^A_
+T$@1
+D$XH
+D$`L
+t$PE1
+|$ H
+T$(H
+L$`L
+L$XH
+D$(H
+AYAZt
+D$ I
+T$@H
+D$(H
+T$8I
+L$XH
+D$(H
+L+t$(H
+D$HI
+L$XH
+D$(H
+t$ H
+AWAVAUATUSH
+@" us
+[]A\A]A^A_
+@HvI
+AWAVI
+AUATUSH
+D$81
+T$0L
+T$(H
+t$(H
+T$(H9
+L$0L
+t*H+
+L$'H
+T$0L
+\$8dH3
+H[]A\A]A^A_
+T$0L
+T$(H
+D$(I
+T$(H
+t$0H
+T$(1
+L$0H
+AVAUATUSH
+WxHc
+]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+ thH
+AVAUATUSH
+A\A]A^
+AWAVAUATUSH
+([]A\A]A^A_
+AWAVAUATUSH
+D$81
+@ f%
+D$ H
+I#T$
+D$ I
+T$!I9
+t$8dH34%(
+H[]A\A]A^A_
+T$ H
+T$ A
+t$ H
+t$ H
+T$ L
+T$ H
+D$ H
+AWAVAUATI
+D$H1
+d$ H
+d$ I
+<.I9
+L$(H
+T$0L
+T$(H9
+T$(H
+t$0L
+|$(L9t$
+R8t	
+d$ 1
+l$ I
+d$ I
+H;\$
+\$HdH3
+X[]A\A]A^A_
+L9t$
+\$ H
+D$ H
+d$ A
+|$ L9
+AWAVI
+AUATUSH
+D$81
+$L;j
+T$ H
+I+l$
+t$ H
+H9\$
+L;$$t
+I+l$
+|$8dH3<%(
+H[]A\A]A^A_
+I+l$
+AWAVI
+AUATUSH
+dH3<%(
+([]A\A]A^A_
+AWAVI
+AUATA
+D$X1
+D$ H
+D$0H
+D$ H
+D$,H
+D$8H
+D$@I
+D$,L
+T$8I9
+T$8L
+d$8L9|$
+D$ H
+|$XdH3<%(
+h[]A\A]A^A_
+l$0H
+L;|$
+L;|$
+\$0H
+D$0H
+t$8A
+t$@I
+T$8L
+AWAVAUATA
+D$(H
+WxHc
+D$ H
+@" u
+D$ H
+H9D$
+8[]A\A]A^A_
+|$(H
+L$ L
+L9t$
+L9t$
+L9t$
+@ I9
+H9l$
+L9t$
+AWAVAUATUSH
+h"L)
+([]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+C L)
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUATUSH
+[]A\A]A^
+]A\A]A^
+C H)
+tOE1
+AVAUATUSH
+C L)
+[]A\A]A^
+ATUSL
+@ f%
+t6[]A\
+[]A\
+[]A\
+[]A\
+AWAVAUATI
+D$X1
+|$XdH3<%(
+h[]A\A]A^A_
+MxHc
+t$ M
+D$(H
+D$@H
+D$(H
+H9l$
+t$HE
+D$PH
+L$PA
+t$PL
+t$PL
+H9l$
+D$ H
+D$PE
+L$PA
+D$PH
+t$@E1
+D$8I
+UxHc
+D$ H
+D$PE
+D$ H
+H;l$
+D$(H+D$8H
+L$@I
+D$4I
+D$(H
+t$HE
+D$ f.
+D$PH
+D$0H
+D$pH
+L$PA
+D$PH
+D$pH
+L$PA
+t$PL
+t$PL
+H;D$
+|$@H
+	t:H
+AWAVA
+AUATI
+D$(H
+WxHc
+D$ H
+T$ A!
+H;t$
+$r[E
+D$ I
+8[]A\A]A^A_
+T$(H
+AWAVAUATUSH
+h"I)
+t$(L
+t$(L
+([]A\A]A^A_
+WxHc(H
+AWAVI
+AUATUSH
+OxHc
+OxHc@
+[]A\A]A^A_
+[]A\A]A^A_
+AUATUSH
+OxHc
+C H)
+[]A\A]
+AWAV
+AUATUSH
+WxLc0I
+ urH
+[]A\A]A^A_
+AWAVI
+AUATUSH
+WxHc
+H9D$
+H+D$
+H+D$
+|$8L)
+D$@H
+H+L$
+D$0H
+l$0M
+X[]A\A]A^A_
+L9l$
+H+t$
+T$8L
+H9D$
+vPI;v`
+L$ H
+T$(H9
+T$ H
+t$(H
+D$ H
+L$0H
+T$8L
+vPI;v`
+T$@H
+X[]A\A]A^A_
+H+P H
+L$ H
+D$8K
+H9D$0
+|$@L
+|$ H
+L$(H
+L$ H
+D$ H
+|$0H
+|$HH
+T$@L
+T$(H
+D$ H
+T$ H
+|$ H
+D$ H
+AWAVAUATUSH
+WxLc(H
+@uaL
+[]A\A]A^A_
+AUATUSH
+C H)
+[]A\A]
+C H)
+AWAVAUATUSH
+WxLc H
+vLM)
+L;l$
+[]A\A]A^A_
+CxtlM
+AWAVI
+AUATUSH
+D$(1
+OxHc
+|$(dH3<%(
+8[]A\A]A^A_
+T$ H
+T$ H
+T$ I
+AWAVI
+AUATUSH
+@"@t
+D$(H
+D$@H
+t$ H
+D$XI
+D$<A
+D$TH
+l$(1
+D$ L
+@uAH
+|$(%
+l$(I
+D$(H
+D$`L
+G H)
+D$`L
+T$8I
+D$hH+D$pM
+L;d$X
+|$@M
+L$8H
+G L)
+D$TA;G0M
+dH34%(
+[]A\A]A^A_
+L$8I
+L$ L
+L$8I
+t$0I
+t$0I9
+D$8E1
+D$ L)
+D$8E
+D$PH
+;D$8
+D$8E1
+D$01
+t$8H
+9X`|uH
+HxHc
+L$0H)
+9X`}
+H;\$
+L$0H)
+D$ L)
+l$0L
+|$HD
+D$ I
+D$0H
+L$ H
+L$HL
+G L)
+G L)
+D$(I
+G L)
+HcD$
+t$(L
+G L)
+s0L9
+|$PH
+D$0H
+t-H9
+D$ I
+D$ A:
+L$0L
+G L)
+ATUSL
+AWAVAUATUSH
+HcF L
+8[]A\A]A^A_
+E L)
+HcQ H
+8[]A\A]A^A_
+J8D!
+L$ D
+LcT$
+L$ I
+HcB H
+E Ic
+LcP 
+D;\$
+\$ L
+HcB L
+LcT$
+LcT$
+LcT$
+J8D!
+\$ D
+LcT$
+\$ L
+F f%
+AUATUSH
+C H)
+[]A\A]
+C H)
+AWAVE1
+AUATUSH
+H"E1
+[]A\A]A^A_
+AWAV
+AUATUSH
+@"@I
+C H)
+[]A\A]A^A_
+@"@t
+AWAVAUATUSH
+[]A\A]A^A_
+@ H9
+$H;H
+@"@t=
+S H)
+AUATA
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+ATUH
+HcZ$
+D$$I
+HcA$H)
+@ A\
+SHcW@H
+;WDt
+HcS@H
+D$pH
+D$x]A\
+LcW0L
+O(Mc
+G`H)
+ATUL
+GPH9
+t0L9
+CPH9
+[]A\
+LcO0L
+G(Hc
+ATUH
+[]A\
+LcO0L
+AUATA
+[]A\A]
+[]A\A]
+]A\A]
+ATUI
+[]A\
+[]A\
+ATUI
+[]A\
+[]A\
+HcO0H
+LcO0L
+G(Hc
+LcO0H
+HcO0H
+HcO0H
+LcO0H
+HcO0H
+HcO0H
+LcG0H
+O(Hc
+u(HcO0H
+ATUI
+[]A\
+LcG0H
+LcG0H
+LcG0H
+ATUSH
+[]A\
+D$ []A\
+AWAVI
+AUATI
+6HcO0H
+@t^D
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATI
+ u}HcK0H
+[]A\A]A^A_
+[]A\A]A^A_
+AUATUSH
+;S4A
+]A\A]
+s4Hc
+AUATI
+HcW0H
+[]A\A]
+[]A\A]
+AWAVI
+AUATUS
+8[]A\A]A^A_
+l$(H
+t$ H
+L;l$
+L;l$
+L;t$
+l$(A
+JPH9
+L$(L
+D$ H
+D$ M
+;w0|	
+ATUSH
+[]A\
+AWAVI
+AUATE
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVM
+AUATI
+[]A\A]A^A_
+D$8M
+A9t$0~
+D$PI
+D$ H)
+D$XI9D$P
+D$XI9D$P
+D$8M
+A9t$0~
+h`t,H
+D$PI
+D$PI
+D$PI
+H+B H
+H+B H
+AWAVAUATUSH
+|$81
+L$,H
+T$0L
+T$,D1
+D$0H
+|$8dH3<%(
+H[]A\A]A^A_
+L;l$0
+4$H9
+t}L9
+G f%
+H9l$
+@ f%
+T$0H
+AWAVAUATUSH
+D$81
+L$8dH3
+H[]A\A]A^A_
+T$0M
+H+l$0A
+C L)
+T$01
+L$0H
+T$ H
+D$0I
+CXH9CPL
+L$0I
+T$0H
+T$(H
+L$ E1
+L$ t
+D$ H
+D$ H
+D$ H
+HcQ H
+ATUI
+[]A\
+AWAVI
+AUATUSH
+CXH9CP~
+8[]A\A]A^A_
+8[]A\A]A^A_
+.@(z
+{XE1
+EXI9EP
+L;d$
+CXH9CP~
+8[]A\A]A^A_
+.H(z
+8[]A\A]A^A_
+CXH9CP
+.X(z
+CXH9CP~
+L;|$
+t$(H
+CXH9CPH
+H;D$
+t$ 1
+t$0j
+t$(E1
+t$0j
+t$ 1
+|$8I
+L$(1
+AVAUATUI
+~YHc
+[]A\A]A^
+D$8L
+A9t$0
+p`u>A
+A9t$0
+H+B H
+AWAVI
+AUATUSH
+D$81
+F f%
+C"@t
+T$(H
+D$(I
+L$$H
+T$0L
+T$$1
+T$0L
+D9z ~
+|$8dH3<%(
+H[]A\A]A^A_
+<$H9|$0
+D$0H
+|$(I
+F f%
+|$(H
+AWAVI
+AUATI
+E f%
+HcF H
+HcF L
+D$HL
+E f%
+E f%
+NxHc
+]A\A]A^A_
+NxHc
+HcB H
+s(E1
+[]A\A]A^A_
+FxtjL
+F L)
+HcB Hk
+@ Rj
+ATUSH
+D$8%
+[]A\
+AVAUATUI
+[]A\A]A^
+AWAVA
+AUATUSH
+A"@H
+i0t%H
+wxHc
+D$/PA
+([]A\A]A^A_
+E f%
+E"@D
+r`H9p
+9B`s
+t6	H
+AWAVAUATI
+HcB H
+IcW H
+IcW(H
+IcO0I
+Hc:H
+;A`v
+T$ L
+T$ u
+H9<$L
+M@H9
+m(s@A
+A9t$0
+HcB H
+8[]A\A]A^A_
+\$(H
+T$ H
+M@H9
+\$(H
+<$H)
+M8s;A
+EE A
+8[]A\A]A^A_
+\$(L
+T$ L
+\$(t
+\$(L
+\$(L
+T$ H
+Eu L
+AWAVI
+AUAT
+WxHc
+T$xH
+D$V%
+l$ H)
+\$(H
+l$XL
+D$hH
+|$XH
+D$H1
+\$8H
+D$TH
+D$8H
+D$8E1
+\$xH
+HcD$PH
+[]A\A]A^A_
+H9D$@
+D$@M
+HcD$
+D$8M
+|$W@8|$T
+|$hH
+L$8H
+u8H9
+D$pH9
+D$pH
+|$@H
+D$@I
+L$`H
+\$8L
+D$ H
+D$8H
+d$,H
+\$0L
+t$UD
+L;d$
+\$,H
+D$09\$
+T$ E
+L;d$
+t$UA
+\$0D
+d$,H
+H9l$
++|$8
++D$8H
+D$@H
+t$TL
+D$HI
+D$HA
+\$8H
+D$T@
+D$8H9
+t6H9
++D$8D
+D$VH
+D$,I
+t$UA
++D$8D
+H+L$
+\$@H
+H+l$
+L$,A
+D$ L
+T$ H
+|$(H
+HcD$
+|$(H
+\$hH
+D$`I
+D$`E
+t$XH
+\$@H
+\$@H
+L$8H
+t$@L
+D$@1
+t$XL
+l$XM
+D$8M
+t$UI
+D$8E1
+|$h1
+D$8H
+x[Hc
+t2r5
+AUATUSH
+CxHc
+B f%
+[]A\A]
+C H)
+[]A\A]
+AWAVAUATUSH
+D+ E
+C D9
+CXH9CP
+CxHcP
+([]A\A]A^A_
+sxHc@
+([]A\A]A^A_
+SXH9
+SPIc
+H;s`
+HcD$
+SHMc
+CXH9CPH
+C H)
+.@(z
+AVAUATUSH
+E#@L
+@ I9
+@(]A\H
+@0A]A^
+[]A\A]A^
+E([]H
+@0A\A]A^
+H9B 
+AWAVAUATUSH
+@ I9
+uPH;u`
+E L)
+([]A\A]A^A_
+.@(wL
+@ I9
+.B(z
+H9B 
+Hcp H
+x]Hc
+t)r,
+x]Hc
+t)r,
+AWAV
+AUATUSH
+HcH 
+HcH L
+AVAUATUSH
+taD9
+]A\A]A^
+]A\A]A^
+x-Hc
+XK;D
+t$Hc
+t)r,
+H;P(H
+G H)
+x/Hc
+t7r:
+AWAVAUATUSH
+C L)
+([]A\A]A^A_
+Lch$H
+/<(u#H
+C L)
+L+` 
+dH3<%(
+AUATUSH
+HcB L
+GXH9GP
+[]A\A]
+HcK0H
+CXH9CP~
+[]A\A]
+D$ A;D$$
+D$ H
+HcB H
+CxH+CpH
+l$(I
+D$@H
+D$ H
+HHHcP`H
+[]A\A]
+AUATUSH
+E A;E$}~
+HcB H
+SxH+SpH
+[]A\A]
+ATUSH
+HcA H
+#ZYH
+[]A\
+HcA L
+AWAVAUATUSH
+OxHc
+E ;E$
+HcA H
+CxH+CpH
+@tDI
+80t;A
+[]A\A]A^A_
+AUATUSH
+E A;E$
+HcB H
+SxH+SpH
+[]A\A]
+ATUE1
+HcA H
+s@Hcu L
+AWAVAUATUSH
+I Lc L
+t]r_@
+wYA9
+[]A\A]A^A_
+HcA 
+D$ H
+D$ H
+O<Jt
+D$ H
+L;|$
+CPH9CX
+L;|$
+L;|$
+d$(H
+L$ L
+L+\$
+L$ L
+d$(I
+H+B H
+D$ H
+CXH9CP
+D$(H
+L$ D
+D$ H
+D$ H
+D$ H
+D$ H
+D$(H
+L$ 1
+L$ D
+D$(H
+AVAUATUSH
+HcF H
+N HcM
+u@ZY
+trHcU
+E []A\A]A^
+H+B H
+AWAV
+AUATUSH
+HcB H
+x`uuL
+HcU H
+[]A\A]A^A_
+H+B H
+HcB H
+CxHcE
+E([]H
+@@A\
+E([]H
+@@A\
+L$ f
+HcR H
+CxHcU
+;s0|-H
+CXH9CP
+[]A\
+CXH9CP~
+[]A\
+AWAVAUATUSH
+ukE1
+D$8L
+L$HL
+AXAY
+B f%
+L$HL
+D$HH
+D;` }gD
+HcB H
+CxHcB
+D$HH
+D$PA
+dH3<%(
+[]A\A]A^A_
+CXH9CP
+HcB H
+Hc@ H
+HcS@H
+l$ L
+|$(I
+L$81
+D$HH
+D;` 
+HcP`I
+p(H9
+ HcB H
+D;b 
+H+B H
+|$(L
+l$ H
+D;` 
+AVATU
+x>Ic
+[]A\A^
+0M;V tjA
+[]A\A^
+AWAVI
+AUATUSH
+D$LH
+@ f%
+D$PH
+l$8I
+D$@I
+D$8H
+D$ H
+D$pL
+F H)
+D$@H
+D$(H
+FXI9FPI
+t$(L
+T$HL
+D$ H
+D$0H
+@ f%
+B f%
+AZA[u/
+@ f%
+L$`H
+[]A\A]A^A_
+l$ H
+D$PH
+|$`H
+t$XL
+t$ L
+|$(1
+HcL$hH
+L$0H
+E ;E$
+HcB H
+FxI+FpH
+t$L1
+t$8H
+@ f%
+FXI9FPH
+L$PH
+AZA[
+t+H9
+T$hL
+T$hL
+D$0I
+D$@H9
+t$0L
+L$xH
+L$ I
+AXAY
+l$8H
+D$PH
+@ f%
+D$ L
+D$XH
+t$ 1
+L$`H
+AXAY
+L$8L
+L$8L
+D$ H
+gfff
+L$ I
+L$(E1
+L$(M
+D$PL
+l$ H
+ATUSH
+G H)
+AWAVI
+AUATUSH
+D$x1
+D$0A
+T$HI
+|$PA
+D$8H
+D$PH
+L$H1
+C ;C$
+\$0HcB H
+*I+W
+WxI+WpH
+t\L9,$vVD
+D$ L
+L$HH
+t$0I
+\$xdH3
+[]A\A]A^A_
+T$HL
+\$8H
+L$HA
+T$(L
+\$8H
+AWAVAUATUSH
+HcB H
+\$(L
+([]A\A]A^A_
+\$(L
+ATUSH
+HcB H
+[]A\
+AVAUA
+ATUSH
+E ;E$
+HcB H
+CxH+CpH
+]A\A]A^
+AWAVAUATUSH
+HcB H
+[]A\A]A^A_
+AUATUSH
+D$ A;D$$
+D$ H
+HcB H
+SxH+SpH
+[]A\A]
+ATUA
+HcA H
++ZYH
+[]A\
+AVAUATUSL
+F0[]H
+A\A]A^
+E A;E$
+HcB H
+SxH+SpH
+]A\A]A^
+AUATUSH
+McA D
+Y^;h |JH
+[]A\A]
+Hc@ 
+CxHcE
+[]A\A]
+ATUSH
+HcA 
+HcA H
+E []H
+McA D
+tcA9
+Lc@ H
+W H)
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+ATUH
+[]A\
+[]A\H
+AUATA
+[]A\A]
+K H)
+AWAVAUATUSH
+[]A\A]A^A_
+C H)
+AVAUATUSH
+[]A\A]A^
+B"@L
+]A\A]A^
+AUATUSH
+OxHc
+dH34%(
+[]A\A]
+AWAVAUATUSH
+OxHc
+C L)
+AWAVI
+AUATE
+D$81
+t9L)
+|$8dH3<%(
+x[]A\A]A^A_
+D$ 0
+D$(H
+D$@O
+D$ H
+2t,H
+T$(E
+D$(u
+AWAVAUATUSH
+WxLc J
+dH3<%(
+([]A\A]A^A_
+@uSH
+AUATUSH
+[]A\A]
+[]A\A]
+AVAUATUSH
+[]A\A]A^
+AUATUSH
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+AUATUSH
+C H)
+[]A\A]
+AWAVAUATUSH
+([]A\A]A^A_
+tGI;u
+tZAVUL
+AWAVI
+AUATUSH
+WxHc
+G H)
+([]A\A]A^A_
+G H)
+AWAVAUATUSH
+([]A\A]A^A_
+C L)
+AUATUSH
+[]A\A]
+AWAVI
+AUAT
+G H)
+[]A\A]A^A_
+AWAVI
+AUATE1
+D$h1
+D$0H
+T$0H
+\$H1
+l$HH
+L$XB
+T$P1
+L$Ht
+HcT$
+*D$8
+*L$0
+|$hdH3<%(
+x[]A\A]A^A_
+@t/%
+\$(L
+D$ L
+\$(L
+D$ L
+AWAVI
+AUATI
+G A;G$
+HcB H
+SxH+SpH
+HHHcP`H
+[]A\A]A^A_
+AWAVAUATE1
+C H)
+[]A\A]A^A_
+C H)
+AVAUATUSH
+[]A\A]A^
+C H)
+C H)
+ATUSH
+W H)
+[]A\H
+AWAVAUATI
+HcA H
+|$(H
+\$HH
+>H;_ 
+Q HcX
+BHH+A H
+([]A\A]A^A_
+D$@I
+D$HI
+]A\A]A^A_
+U8Hcp
+A9u0
+H+T$
+RHH)P M
+HcA H
+t$PH
+D$PI
+AWAVAUATUSH
+WxHc
+@"@tQL
+vGE1
+[]A\A]A^A_
+[]A\A]A^A_
+S L)
+AVAUA
+ATUSH
+dH3<%(
+[]A\A]A^
+AWAVAUATI
+OxHc
+D$HH
+L$PH
+t$@L
+D$HH
+dH3<%(
+[]A\A]A^A_
+AXAY
+D$@H
+T$hL
+D$8I
+@ f%
+ t%I
+D$hH9
+@ f%
+|$ H
+T$4%
+T$hI
+L$(H
+D$ H
+D$8I9
+H9L$
+D$XL
+D$0I
+|$HL
+|$PL
+D$PH
+L$dL
+|$4H
+L$HH
+T$pL
+|$PL
+L$dL
+D$hH
+t$PL
+AWAVAUATUSH
+D$H1
+WxHc(H
+L$HdH3
+X[]A\A]A^A_
+D$,L
+L$81
+D$ H
+t$ H
+l$ H
+L$8L
+L$8I
+,$L)
+|$,H
+@ I9
+L$@L
+|$,D
+t$4H
+t$ H
+L$@H
+L$@H
+HcD$4HcL$@I
+T$8L
+D$8H
+L$3H
+T$@L
+D$@M
+L$@I
+T$8L
+F f%
+AWAVAUATUSH
+[]A\A]A^A_
+W H)
+[]A\A]A^A_
+t5ATj
+[]A\A]A^A_
+AVAUATUSH
+[]A\A]A^
+C H)
+[]A\A]A^
+AWAVAUATUSH
+@ f%
+[]A\A]A^A_
+ATAUH
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+([]A\A]A^A_
+F f%
+AVAUATUSH
+@u}L
+]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+([]A\A]A^A_
+AVAUATUSH
+ []A\A]A^
+AUATUSH
+[]A\A]
+AWAVAUATUSH
+[]A\A]A^A_
+AVAUATUSH
+]A\A]A^
+]A\A]A^
+AWAVAUATUSH
+D$(1
+` fA
+tqfA
+L$(dH3
+8[]A\A]A^A_
+AWAVAUATUSH
+` fA
+tofA
+[]A\A]A^A_
+AVAUATUSH
+B E1
+B f%
+C H)
+A\A]A^
+C Mc
+sPH;s`
++[]H
+A\A]A^
+@ f%
+AVAU
+ATUSH
+j#f%
+[]A\A]A^
+K H)
+tS[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+@ f%
+[]A\
+K H)
+[]A\
+[]A\
+K H)
+B f%
+K H)
+K H)
+ATUSH
+P"t	
+ []A\
+K H)
+AVAUATUSH
+P"td
+[]A\A]A^
+B f%
+B f%
+K H)
+B f%
+B f%
+AVAUATUSH
+#[]H
+A\A]A^
+@u{I
+A\A]A^
+@uCI
+ATUSH
+wxHc
+@u'H
+C H)
+C H)
+ATUSH
+@uGI
+[]A\
+AVAUATUSH
+@uWI
+[]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+ATUSH
+@udL
+[]A\
+AWAVA
+AUATUSH
+dH3<%(
+[]A\A]A^A_
+AVAUATUSH
+[]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+C H)
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AUATUSH
+[]A\A]
+[]A\A]
+AUATUSH
+[]A\A]
+ATUSL
+AUATUSH
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+G H)
+dH34%(
+[]A\A]A^A_
+ATUSH
+@u{H
+C H)
+[]A\
+AWAVAUATUSH
+@u{M
+[]A\A]A^A_
+AWAVAUATUSH
+WxLc H
+|$0A
+t$01
+|$ D
+C H)
+[]A\A]A^A_
+C L)
+|$$1
+@"@u}I
+D$$E
+D$$H
+AVAUATUH
+WxLc H
+E L)
+]A\A]A^
+ATUSH
+@u+H
+C H)
+C H)
+ATUSH
+@uXH
+C H)
+AVAUE1
+ATUSH
+]A\A]A^
+C L)
+AVAUATUSH
+@u>L
+]A\A]A^
+AWAVAUATUSH
+@umI
+[]A\A]A^A_
+ATUSH
+@u)H
+C H)
+C H)
+ATUSH
+D$81
+G H)
+*D$ 
+*D$(
+T$8dH3
+@[]A\
+AVAUATUA
+B f%
+@ f%
+C H)
+HcD$8HcT$0H
+HcD$4L
+D$(P
+D$4P
+D$@PD
+L$L1
+[]A\A]A^
+C H)
+p	H;s`
+Lcd$ H
+Lcd$$H
+Lcd$(H
+Lcd$,H
+Lcd$0H
+*D$4
+Lcd$8H
+Lcd$<H
+Lcl$@H
+t$`H
+L$|D
+T$@H
+D$lH
+T$HH
+D$pH
+D$0+
+l$4A
+D$<l
+t$`H
+D$@H
+D$HH
+ATUSH
+x=Hc
+@uGL
+ATUSH
+H+T$
+@u~H
+C H)
+ []A\
+ATUSH
+wxHc
+@ubL
+ATUSH
+wxHc
+t0Hc
+@uBL
+ATUSH
+wxHc
+@u-H
+AVAUATUH
+G L)
+J`PH
+[]A\A]A^
+AWAVAUATUSH
+C E1
+[]A\A]A^A_
+C H)
+[]A\A]A^A_
+AWAVAUATUSH
+C H)
+[]A\A]A^A_
+C H)
+[]A\A]A^A_
+AWAVAUATUSH
+C H)
+[]A\A]A^A_
+C H)
+tavOf
+C H)
+C H)
+AWAVAUATUSH
+h fA
+C H)
+t$ 1
+t$(1
+[]A\A]A^A_
+[]A\A]A^A_
+C H)
+AWAVAUATUSH
+C H)
+[]A\A]A^A_
+C H)
+[]A\A]A^A_
+ATUSH
+G H)
+"t#H
+AWAVI
+AUATUSH
+WxHc(H
+tRH9
+t$XH
+T$@1
+L$XL
+D$PH
+L$HH
+t$8H
+[]A\A]A^A_
+T$0H
+L$81
+t$(H
+T$0L
+D$@1
+L$8H
+t$(H
+T$0L
+L$H1
+D$@H
+L$8H
+t$(H
+t$(H
+|$ 1
+T$0H
+t$(1
+|$ 1
+AWAVAUATI
+D$x1
+D$`H
+T$`1
+D$8I
+D$8H
+|$PL
+l$PH
+\$hE
+D$PH
+H;T$8u 
+T$HH
+L;d$
+s<L)
+T$ I
+H9T$
+l$pL
+H;D$
+|$xdH3<%(
+[]A\A]A^A_
+T$h1
+T$hI
+l$hI
+l$hI
+l$pI
+T$h1
+T$hH
+D$pD
+|$pL9
+T$pL
+l$pI
+|$0L
+d$0L
+\$pH
+D$0H
+H;D$
+v2L)
+L;|$
+H9D$
+L$8H
+T$HH
+L$ H
+\$@A
+D$pL
+T$pL
+D$pI
+H+D$
+T$h1
+|$hH
+D$PA
+D$PH
+l$ I
+D$(E1
+L;|$(t
+|$ L
+|$(I
+L;l$
+s2H)
+L9|$
+L;|$8uT
+|$HH
+|$ L
+|$(I
+D$HH
+L$pD
+H;D$(H
+D$pI
+D$ L
+|$(1
+D$0H
+D$pH
+H9T$ 
+D$pf.
+D$PI
+L$_y
+L$_L
+l$ L
+\$_A
+H+L$(
+T$pL
+D$pI
+T$p1
+D$0A
+D$0I
+L$@y
+L$@L
+T$pL
+D$pH
+L$(I
+D$hH
+D$hH
+D$ H
+|$pL
+t$0L
+|$(1
+H9T$ 
+D$@I
+l$pM
+D$pH
+T$pL
+D$pI
+A:0u
+L$_H
+t$PH
+T$hL
+D$PH
+D$hH
+D$pH
+D$pH
+D$0H
+L$@H
+t$0H
+T$pL
+D$0H
+D$pH
+t$(H
+D$(I
+|$(1
+AWAVI)
+AUATM
+D$81
+L$(H
+L$0H
+D$8dH3
+H[]A\A]A^A_
+L$0H
+L$(H
+D$0L
+D$(H
+AVAUA
+ATUI
+PAUL
+ []A\A]A^
+AWAVI
+AUATI
+@" u=
+dH34%(
+[]A\A]A^A_
+AWAVAUATUSH
+L;t$
+([]A\A]A^A_
+4)L9t$
+L;t$
+AWAVM
+AUATI
+D$X1
+D$(A
+t$ H
+T$HA
+L$HH
+t$@H9
+l$@L
+D$@I
+D$@H
+T$HH9
+l$@H
+D$HI
+D$ A
+D$@I
+T$HH
+L$HH
+D$ H
+D$XdH3
+h[]A\A]A^A_
+T$@H
+L$HH
+D$(H
+t$(1
+|$ L
+t$@H
+L$HH
+D$(H
+T$ H
+D$(L
+t$(H
+t$ H
+L$HH
+t$@H
+T$HH
+T$@H
+D$PM
+d$8L
+l$(L
+D$ L
+D$PL
+T$P1
+T$ H1
+L+t$
+d$ L
+d$8L
+l$(M
+D$PH
+d$8L
+l$(L
+D$ L
+D$PL
+T$P1
+T$ H	
+|$ H
+t$(1
+L$HH9L$
+L$@H9L$
+|$ H
+t$(1
+T$@1
+T$ H)
+t$ D
+D$PL
+l$(L
+d$(L
+d$ H
+D$ L
+D$PL
+T$P1
+T$ H!
+L+t$
+|$HH
+T$7t
+T$(H)
+D$ H
+D$(H
+D$ H
+D$(H
+AWAVAUATUSH
+@ f%
+C L)
+C L)
+C L)
+[]A\A]A^A_
+[]A\A]A^A_
+@HkI
+AWAVI
+AUATI
+D$PI
+-tlH
+[]A\A]A^A_
+L$PI
+	t[H
+AWAVAUATUSH
+D$ dH
+<<t4H
+T$<H
+t$@D
+[]A\A]A^A_
+T$0H
+T$(D
+AUATI
+[]A\A]
+AWAVAUATI
+D$P1
+D$'H
+L$0L
+D$@H
+L$8H
+t$AH
+D$@#
+D$@1
+D$@H
+L$,H
+T$<L
+T$?R
+T$HR
+t$`L
+t$`L
+\$HdH3
+X[]A\A]A^A_
+AWAVM
+AUATI
+D$p1
+D$KH
+T$pL
+L$TL
+D$`H
+AZA[H
+B f%
+D$XL
+L$XH
+L$8L
+L$0H
+u'f.
+D$`r
+D$ab
+D$`E1
+D$`E1
+D$cP
+D$lP
+L$@H
+t$HL
+|$hdH3<%(
+x[]A\A]A^A_
+D$`r
+D$ab
+D$`w
+D$ab
+t$`H
+T$`H
+D$aL
+D$`w
+D$ab
+D$at
+T$ H
+D$at
+D$at
+D$at
+D$`E1
+D$`E1
+D$`r
+D$ab
+t$`H
+D$`a
+T$`H
+H E1
+D$at
+t$X1
+L$XH
+L$8H
+L$8H
+T$`H
+L$ D
+L$ D
+t$X1
+L$ D
+L$ D
+D$(t
+u#[Hc
+AWAVAUATUSH
+r(H9
+[]A\A]A^A_
+tcE1
+AWAVAUATA
+D$(1
+D$ H
+L$0H
+L$(dH3
+8[]A\A]A^A_
+L$ E1
+L$ A
+L$ L
+AVAUATUSH
+[]A\A]A^
+[]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+<ctp<ru
+<atl<ru
+AUATUSH
+ unH
+([]A\A]
+,201H
+F f%
+AUATUSH
+[]A\A]
+ATUSH
+[]A\
+AWAVAUATUSH
+d$ H
+[]A\A]A^A_
+8/tr
+d$ H
+AWAVI
+AUATUSH
+ t.A
+[]A\A]A^A_
+AWAVA
+AUATI
+D$X1
+L$XdH3
+h[]A\A]A^A_
+D$(H
+D$(H
+T$(H
+D$(H
+D$0H
+l$0H
+D$@H
+D$(H
+T$(H
+L$(H
+A[A]
+T$ A
+AYAZ
+AVAUATUH
+[]A\A]A^
+~;Hc
+[]A\
+A]A^
+[]A\
+A]A^
+]A\A]A^
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATI
+USHc
+D$x1
+L$xdH3
+[]A\A]A^A_
+|$`M
+AVAUI
+ATUSH
+[]A\A]A^
+AWAVAUATI
+t$ Hc
+U	u	H
+[]A\A]A^A_
+AVAUATUI
+dH3<%(
+[]A\A]A^
+AWAVI
+AUATUSH
+u Hc
+H;D$P
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+O0Hc
+G0D9Fpr
+AVAUI
+D$XH
+[]A\A]A^
+D$X1
+D$XH
+D$XH
+H9Hh
+AWAVI
+AUATI
+[]A\A]A^A_
+JpH9L
+AWAVI
+AUATI
+D$81
+t$8dH34%(
+H[]A\A]A^A_
+$t*E
+T$0H
+|$(E1
+F f%
+T$1H
+ATUH
+D;C4Hc
+{0Hc
+Hcs0L
+Hcs0L
+Hcs0~
+HcS0H
+HcS0H
+HcS0H
+[]A\
+Hcs0
+[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+tDH9
+=|P+
+xCt,H9
+AVAUATUSH
+[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+AWAVA
+AUATUSH
+D$81
+t$8dH34%(
+H[]A\A]A^A_
+D$(u
+|$0D
+|$0D
+D$(A
+|$0H
+D$0D
+D$(H
+T$0L
+d$(f
+|$0L
+D$0L
+D$(H
+D$0D
+T$0H
+d$(L
+AWAVAUATI
+[]A\A]A^A_
+[]A\
+AWAVAUATUS
+D$(1
+|$(dH3<%(
+8[]A\A]A^A_
+t$ A
+t$ A
+t$ A
+AVAUATUI
+	wNJ
+[]A\A]A^
+F f%
+Bp<	
+AWAVI
+AUATI
+|$h1
+t$hdH34%(
+x[]A\A]A^A_
+d$@E1
+t$ H
+|$(M
+D$As
+D$@sA
+L$BH
+$ HZ
+L$8L
+$ IZ
+D$@M
+t$ L
+|$(I)
+AWAVI
+AUATMc
+hZdH
+D$X1
+|$XdH3<%(
+h[]A\A]A^A_
+L$PL
+D$4H
+L$@H
+T$ L
+;T$$
+t$0H
+t$@L
+L$$9
+D$(A
+D9l$
+\$(H
+D$(t/
+EYAWP1
+L$(H
+|$ H
+t$0H
+H;,$
+F f%
+Bp<	
+D$(D
+tDH9
+AWAVAUATI
+Fx~#
+9Vp|
+D$PH
+D$ H
+|$hH
+D$ZH
+D$0M
+D$XL
+FYt/
+L$PH
+u4A9v0H
+D$ H
+t$ H
+D$(H
+D$0H
+D$\f.
+D$ 1
+HcB H
+HcB H
+[]A\A]A^A_
+\$@H
+d$ H
+t$xH
+t$xH
+A;T$pv
+T$pH
+T$t;W
+\$@H
+t$ L
+D$(H
+AYt/
+L$PH
+D$PH
+|$(H
+D$ H
+D$hH
+D$0A
+L$\M
+L$\H
+D$(f.
+L$ H
+t$0D
+E8AXAY
+D$(H
+t	;E
+A9v0
+Pp;U
+}(H9
+A9v0
+Pp;U
+L;|$8
+l$@L
+l$xL
+\$pI
+\$pH
+l$@L
+l$xL
+D$ H
+|$ H
+;Gpv
+D$(H
+t	;E
+D$[H
+A9v0
+Pp;U
+MHSL
+t$0A
+D$hA
+D$hA
+D$hA
+D$hA
+|$(M
+|$ L
+u$A9v0
+t$ H
+t$0H
+H8HcE0H
+u0A9v0
+AYt/
+|$PH
+D$PH
+D$ H
+D$hI
+u0A9v0
+D$(H
+D$0H
+t$ L
+u A9v0
+Pp;U
+D$hM
+A9v0
+Pp;U
+D$0H
+H8HcE0H
+D$(M
+t$ L
+D$8I
+D$hA
+|$ H
+D$xH
+H9t$
+HcB H
+HcP`H
+D$xH
+D$xH
+D$xH
+D$ H
+L$xH
+L$`I
+D$8H
+t$ H
+D$@I
+D$pA
+ tHI
+D$ H
+t$@I
+D$(M
+t$ 1
+D$ZH
+|$0H
+T$PH
+D$(H
+l$(H
+u A9v0
+D$(H
+D$(H
+D$ H
+L$pL
+L$@L
+D$8L
+L$@H
+L$pH
+|$ L)
+D9gps
+D$ D
+D$(H
+u A9v0
+Pp9U$s(H
+;U$w
+L$8I
+D$8D
+u$A9v0H
+t$ H
+L$0H
+H8HcE0H
+u$A9v0M
+t$ H
+D$0M
+|$0H
+|$`L
+|$ I
+8D$Y
+9D$8
+8D$Y
+;D$8
+;D$8
+;D$8
+L$HE
+L$PM
+D$@L)
+D$pL
+D$pL
+D$YM
+PATL
+L$PM
+L$ H
+|$0H
+D$8H
+D$0L;x@
+D$xH
+L$ H
+t$0M
+L;x(
+D$p IZ
+D$x@
+D$84H
+|$ L
+SL;Gp
+D$8H
+|$83
+t$pMc
+|$83L
+D$ HcU
+D$p HZ
+D$87
+D$p HZ
+D$86
+D$85
+D$p IZ
+D$x@
+|$ L
+D$(H
+D$p HZ
+D$83
+D$p HZ
+<1t9<2
+<Dt8
+D$aPj
+D$z1
+L$YH
+D$8L)
+L$8L
+L$8M
+t$ H
+t$ZA9
+D$YM
+T$ZH
+;D$8
+WLua
+H;PP~%H
+T$xI
+D$@;D$p
+t$ A
+LcM<E
+HcE@L
++D$8
+9T$8
+|$@E
+9T$8
+L$ H
+t$0H
+LcM<AZA[D9
+D$YH)
+D$@PAPj
+D$ H
+L$ H
+;Apv
+D$(H
+A;E0
+|$@E
+H;D$@
+;D$8
+t	;E0
+9G8L
+t$8H
+D$@H
+D$8H
+D$8H
+D$@H
+\$pL
+l$xH
+D$@H
+|$8A
+t$ L
+\$`E
+|$ H
+9T$8
+L$8H
+D$pL)
+F f%
+D$xH
+t$ H
+L$0L
+F f%
+|$8A
+W8A)
+t$@H
+\$pL
+l$xE
+|$81
+|$8H
+D$ H
+L$ I
+;Apv
+D$8H
+t$ H
+D$@I
+D$pA
+D$@H
+L$8H
+D$@L)
+D$pL
+D$pL
+D$aM
+T$PL
+t$@L
+D$H1
+|$@L
+\$pL
+\$pI
+l$xH
+D$8H
+MHSL
+t$0H
+|$(H
+;D$8
+D$8H
+t$ H
+D$xI
+D$@I
+D$pA
+D$xI
+T$8H
+t$ 1
+D$ H
+D$hL
+<2ti<Dt4
+,utf
++t.f
+9W8u
+t$ M
+\$pL
+l$xL
+|$8H
+D$@L)
+F f%
+|$ H
+t$ L
+L$HE
+L$XH
+L$ K
+t$ M
+9T$8
+d$8E
+9T$8
+\$pI
+l$xH
+L$8H
+D$\9
+D$\9
+D$85
+T$@H
+D$@E
+9D$8
+L$@H
+D$@E
+u0A9v0
+}(H9
+L$(H
+|$ H
+F f%
+D$8L)
+F f%
+B ;B$
+HcB H
+FxI+FpH
+HcP`H
+L$8I
+T$pH
+L$@H
+|$XH
+|$hL
+L$pI
+AWAVI
+AUATI
+L$hL
+YY<S
+<$vnA
+T$hL
+D$hH
+L$hw
+[]A\A]A^A_
+T$hH
+L$hw
+$H;L$h
+T$hL
+D$hH
+T$hL
+D$XI
+D$HH
+$I+E@H
+D$ 1
+H9D$h
+t$0I
+d$hI
+D$\H
+L;$$
+t$(H
+D$ H
+t$(H
+D$ L
+L;$$
+T$hI)
+l$?L
+SATL
+L$0D
+D$@H
+T$hH
+H9t$
+|$hI
+T$hH9
+T$hL
+D$hH
+T$hL
+D$hH
+D$hw
+D$hH9
+<$wQ
+T$hL
+D$hH
+D$hH
+<$H9
+T$hL
+T$hH
+|$h<
+$H;D$hL
+T$hL
+T$hA
+t$hI
+L$xD
+L$hI)
+D$hH
+T$hL
+L$hH
+|$hI
+T$hH9
+T$hL
+T$hL
+T$hH9
+T$hL
+D$hH
+T$hw
+|$hI
+T$hH
+D$hH
+D$hH9
+T$hL
+D$hw
+D$0H
+|$0H
+D$xA
+vXH=
+vKH=
+v>H=
+v1H=
+v$H=
+L$@H=
+T$PH
+|$@A
+T$Pt
+D$0H
+|$0E
+D$0L
+T$PH
+F f%
+|$0H
+T$PD
+D$\H
+|$0H
+T$PH
+|$0H
+D$\H
+t$@H
+D$xH)
+T$@H
+D$xI
+t$(H
+D$ H
+D$hH
+|$0H
+T$hL
+t$0I
+FXI9FP~
+usM9
+d$hM9
+T$hL
+T$hL
+T$hH9
+T$hL
+T$hw
+T$hH9
+T$hL
+T$hw
+T$hH9
+T$hL
+T$hw
+t$hH94$
+T$hL
+H94$H
+t$hw
+t$hH94$
+T$hL
+H94$H
+t$hw
+l$?1
+T$hH
+T$hL
+T$hH
+T$hL
+|$0E
+D$0L
+T$PH
+F f%
+|$0H
+t$0I
+FXI9FP
+|$hI
+T$hH9
+T$hL
+l$hH9h
+H9,$we
+T$hL
+D$hH
+H9,$H
+l$hv6E
+D$hH9G
+T$hL
+D$hH
+T$hH
+|$h<
+$H;D$hH
+T$hH
+t$hH
+D$xL
+T$hL
+T$hH9P
+D$hH9
+T$hH
+D$hE
+D$xD
+T$hH
+T$hL
+D$hH
+T$hH9
+T$hL
+T$hM
+T$hL
+|$hI
+T$hH;
+T$hvo
+T$hL
+D$hH9A
+T$hL
+D$hH
+D$hH
+T$hL
+D$hH9G
+D$hH
+T$hL
+D$hH
+D:?u
+T$hL
+D$hH9A
+D$hH
+T$hL
+|$hI
+T$hH9
+T$hL
+l$hH9h
+H9,$w7
+D$hH
+H9,$H
+l$hvgE
+T$hL
+T$hL
+D$hH
+T$hL
+T$hH9P
+D$hH9
+T$hL
+D$hA
+L$xD
+AZA[t
+T$hL
+T$hH
+T$hL
+T$hH9P
+A\A]
+T$hL
+t0Hc
+H9,$
+T$hL
+T$hL
+T$hL
+T$`H
+L$PI
+T$`H
+L$PI
+T$hH
+T$hL
+T$hH9P
+AYAZ
+T$hH9P
+|$h<
+$H9D$hrG
+T$hL
+t$hI
+T$hH
+T$hL
+T$hH9P
+T$xI
+AXAYH9
+Bp<	@
+H9,$
+t)Hc
+AWAVI
+AUATM
+T$'L
+H;S@
+|$ H
+T$'L
+H9S@
+\$xL
+D$&t	
+l$@I
+L+t$
+dH34%(
+[]A\A]A^A_
+D$ H
+\$0L
+T$(L
+KXL)
+q`H9
+T$'E
+D$HHk
+H+K@L
+L$0H
+L$0L
+D$(HkD$H(L
+L$@H
+T$(H9
+HkD$H(H
+L$(H9L$0
+L$(I9
+L$HL
+T$0L
+\$(H
+\$(L
+T$0M
+L+t$
+D$ H
+\$hL
+L$`L
+D$@L
+T$XL
+L$`L
+D$@H
+|$PI
+H+C@I9
+L$0L
+L$0L
+I+AXL9
+pXH;p`I
+\$HL
+L$0L
+T$(I
+L$0L
+D$8H
+\$PL
+T$HH
+T$HL
+\$PH
+D$0H
+D$0H
+T$(L
+L$pH
+\$PL
+T$HL
+\$PL
+L$HH)
+T$0H
+L$(L
+T$0L
+L$HL
+T$hL
+L$`L
+\$(H
+D$HL
+L$XL
+H+s@L
+D$0L
+\$(H
+L$XL
+L$`L
+D$PL
+T$XL
+\$PL
+H+t$
+\$PL
+T$XL
+L$`H
+D$(HkD$H(L
+\$`L
+T$XL
+L$PI
+L$PL
+T$XL
+D$(L
+L$0L
+L$0L
+\$@f
+D$8H
+l$@H
+L$0L
+T$(H
+L$0L
+L$0L
+D$(L
+\$@I
+L$0L
+D$(L
+L$HL
+T$0L
+L$(H
+L$(L
+L$HL
+D$(H
+\$PL
+D$HL
+T$0Hc
+D$HL
+L9d$0
+H+D$
+D$XH
+phH;p@
+CXt{H
+L$0H
+T$0L
+\$`L
+L$XL
+T$PH
+D$(L
+L$XL
+H+T$
+ppH;pH
+D$PH
+|$@L
+T$0L
+\$(H
+L;d$@I
+\$(L
+HkD$H(
+|$(L
+T$PL
+\$0I+t
+\$0I
+D$(H
+D$(I
+D$@u
+HkD$H(H
+|$(I+|
+T$PL
+L$0H
+Hct$0L
+\$HH
+D$0L
+T$(H
+L$pM
+AWAVI
+AUATM
+D$ t
+D$(tw
+L+UP
+dH3<%(
+[]A\A]A^A_
+L;T$
+NBXL
+D$ H
+D$0H
+l$PH
+D$0H
+|$0H
+|$@H
+u	I9
+L9T$p
+D$8;C0
+\$0H
+L$ H
+T$0L
+AXAY
+H9D$
+D$8;C0
+t$8H
+t$ H
+D$ H
+t$ H
+L+T$
+D$ L
+T$0H9
+D$pL9
+T$pH
+D:(u
+T$pH
+D$pH
+T$pv
+D$pu
+D$pL9
+D$pH
+D:(u
+T$pH
+D$pv
+D8(t
+D:(u
+D$pw
+H+T$pH9V8
+|$(L
+L$pL
+H+D$
+D$8;C0
+T$pH
+D$pM9
+D$pA
+L$ H
+T$(L
+D$@L
+T$0L
+D$@H
+D$@L
+T$0L
+T$(E
+D$(L
+D$(H
+|$(1
+L$XL
+|$@L
+L$XL
+L$PH
+D$HL
+D$pH
+L$@H
+D$PL9D$H
+L$(D
+D$<L
+t$@H
+L$`H
+D$XI
+L$`L
+D$PH
+T$XH
+L$hH
+L$`H
+D$@L
+L$hH
+L$`H
+T$XH
+D$pE
+tjM9
+D$pM9
+T$pH
+D$pL
+D$pM9
+T$pH
+D$@L
+D$PM
+NAXL
+UxL)
+|$pL
+D$$PD
+D$0H
+T$ L
+AYAZ
+D$PL
+D$PH
+D$`H
+IL$XH
+D$`I
+D$PL
+D$PI
+L$PL
+L$PH
+D$0H
+D$@L
+D$$PD
+D$0H
+D$(H
+D$@1
+T$@H
+T$@H
+UxH)
+D$pL
+mxH)
+t$ A
+L$PL
+D$@I
+T$pH
+D$@L
+D$@L
+T$0H
+D$@L
+T$0L
+t$(H
+t$(H
+D$@H
+L$HL
+D$@L
+L$HL
+D$@L
+T$0H
+D$@L
+D$@L
+T$0H
+T$0H
+D$@H
+D$(L
+D$(L
+D$pM
+D$(tR
+T$pI9
+D$pH
+T$(L
+D$pH
+T$(L
+T$x%
+L$x=
+|$pL
+L9D$
+D$(H
+L$HL
+D$(t\L9t$
+L$@H
+T$ E
+AWAVI
+AUATM
+D$81
+T$0E1
+L$0H
+L$0I
+|$8dH3<%(
+H[]A\A]A^A_
+L$,H
+T$0E1
+L$,H
+T$0E1
+D$0L
+AWAVI
+AUATE1
+T$ 1
+L$8H
+D$@j
+D$0H
+H9\$
+D$0H
+t$HH
+D$0H
+D$ H
+D$XH
+D$0H
+D$ H
+D$X1
+\$ H
+t$XM
+[]A\A]A^A_
+l$xI
+t$WL
+|$@M
+l$HA
+t$0L
+H9t$
+H9T$
+H+L$
+H+T$
+D$hH
+D$XH
+D$`H
+\$`H
+L;t$
+t$HD
+h M9
+L$0H
+D$(%
+t$ H
+t$(I
+|$(L
+D$Hw
+H9\$
+AUATUSH
+[]A\A]
+[]A\A]
+[]A\A]
+AWAVI
+AUATE
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+F f%
+ATUSH
+="/*
+dH3<%(
+[]A\
+,7H9
+AWAVAUATI
+dH3<%(
+[]A\A]A^A_
+=*,*
+AVAUM
+F f%
+[]A\A]A^
+F f%
+AUATI
+[]A\A]
+F f%
+ATUH9
+vdH9
+uaH9
+[]A\
+F f%
+F f%
+ATUI
+$[]A\
+u+L9
+v)H=
+AWAVAUATUSH
+Borrow or rob
+D$(1
+|$(dH3<%(
+8[]A\A]A^A_
+AXAY
+T$ H
+D$ J
+D$ I
+D$ M
+D$ I
+D$ J
+AWAVE1
+AUAT1
+D$@H
+(HcT$8H
+t$HH
+L$8H
+T$HL
+L$<H
+T$PH
+AZA[
+L$ H
+D$@H
+D$0H
+\$0H
+t$ L
+L$xL
+D$pH
+L$hH
+D$ AXAY
+t$XL9t$`
+T$hH
+T$pH
+L$pH
+T$hH
+@ H9
+trL9
+T$hH9
+t$hH
+T$hH
+T$hI
+L9t$`
+H9L$ 
+[]A\A]A^A_
+t$p1
+D$@H
+AWAVAUATUSH
+D$h1
+\$hdH3
+x[]A\A]A^A_
+D$8H
+D$@H
+t$0I
+|$8L
+T$8I
+D$@sgE1
+D$HI
+L$PH
+T$HH
+D$@s+
+L$hL
+D$ H
+|$XH
+-vJH
+t}vSA
+t$@L
+t$@L
+t$@L
+D$@1
+t$@L
+D$@1
+|$XI
+l$gH
+t$0I
+t$@H
+D$HM
+t$8L
+l$HH
+t$PL
+T$PH
+t$8H
+L$XH
+D$@H
+D$8H
+t$XL
+D$8L
+d$HH
+T$8u
+AWAVI
+AUATA
+D$(D
+L$,H
+D$@dH
+D$X1
+D$ H
+H9t$
+E H)
+T$0L
+T$8H
+HcT$(H
+HcT$,H
+D$ H
+|$XdH3<%(
+h[]A\A]A^A_
+D$ H
+H;\$
+u4Pj
+t$@L
+D$P1
+T$PH
+T$0L
+T$0L
+D$@1
+D$@E
+Rj$1
+T$Pt5H
+D$@H
+L$HH
+D$PttA
+ATUSH
+[]A\
+AWAVI
+AUATI
+D$(1
+T$pH
+L$ H
+D$ H
+v!f.
+|$(dH3<%(
+8[]A\A]A^A_
+L$ H
+D$ H
+D$ t.
+L$ H
+F f%
+F f%
+vOATUH
+ZY[]A\
+vOATUH
+ZY[]A\
+ATUI
+ZY[]A\
+AVAUI
+[]A\A]A^
+^_[]A\A]A^
+]A\A]A^
+[]A\A]A^A
+[]A\A]A^
+AVAUI
+[]A\A]A^
+^_[]A\A]A^
+]A\A]A^
+[]A\A]A^A
+[]A\A]A^
+AVAUI
+[]A\A]A^
+ZY[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+AWAVE
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+tIH=
+tAH=
+AVAUI
+ATUD
+D$(1
+L$(dH3
+0[]A\A]A^
+AVAUATUI
+D$(1
+L$(dH3
+0[]A\A]A^
+PAUA
+ATUH
+[]A\
+ATUH
+[]A\
+ATUH
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+AUATE1
+[]A\A]
+AUATE1
+[]A\A]
+ATUSH
+[]A\
+AVAUATUL
+F f%
+dH3<%(
+[]A\A]A^
+AWAVM
+AUATI
+$L;p
+t Hc
+([]A\A]A^A_
+AWAVAUATUSH
+|$PH
+T$0L
+D$NH
+D$8H
+t$OH
+t$0H
+|$8H
+t$@H
+D$XH
+H;\$
+H9|$
+D$`L
+d$hM
+t$`M
+D$pf
+d$hM
+uPI)
+t$`L
+[]A\A]A^A_
+d$hL
+t$`M
+D$@H
+D$ H
+L$hH
+|$PH
+D$ H
+|$PH
+L$`H
+T$pH
+l$pA
+D$ H
+|$PH
+L$`H
+l$pA
+D$ H
+|$PH
+L$hH
+D$@H
+t	H9
+D$XH
+H9D$
+D$0H
+D$8H
+AUAT
+[]A\A]
+AUATUSH
+([]A\A]
+D$0H
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVAUATUSH
+WxHc
+[]A\A]A^A_
+AWAVE1
+AUATUSH
+WxHc
+([]A\A]A^A_
+AUATI
+[]A\A]
+AVAUE
+ATUI
+[]A\A]A^
+]A\A]A^
+AUATI
+dH3<%(
+[]A\A]
+ATUI
+[]A\E1
+AUATA
+[]A\A]
+AWAVAUATUSH
+WxHc
+[]A\A]A^A_
+AUATI
+[]A\A]
+C L)
+CXH9CP
+[]A\A]
+ATUSH
+WxHc
+uTHc
+#[]A\
+#[]A\
+ATUH
+[]A\H
+AUATI
+[]A\A]
+[]A\H
+AUATUSH
+UxHc
+[]A\A]
+[]A\A]
+AVAUATUSH
+WxHc
+3[]A\A]A^
+[]A\A]A^
+ATUH
+WxHc
+usHc
+[]A\
+[]A\
+AUATUSH
+WxHc
+ uMH
+[]A\A]
+ATUSH
+WxHc
+uNHc
+[]A\
+[]A\
+AUATUSH
+SxHc
+[]A\A]
+AUATUSH
+WxHc
+@u8M
+[]A\A]
+AUATUSH
+SxHc
+[]A\A]
+AUATI
+WxHc
+[]A\A]
+AUATUSH
+SxHc
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+.@(z
+WxHc
+AVAUATUH
+UxHc
+[]A\A]A^
+SxHc
+u4Hc
+AWAVAUATUSH
+D$H1
+SxHc
+D$@I
+<it?<o
+HcD$,H
+D$HdH3
+X[]A\A]A^A_
+.B(A
+.R(A
+t$ I
+|$ H
+HcD$,H
+C E1
+T$8L
+L$0D
+T$8H
+L$0D
+T$0D
+T$0D
+ATUSH
+WxHc
+uTHc
+#[]A\
+#[]A\
+ATUSH
+SxHc
+[]A\
+[]A\
+AUATUSH
+KxHc
+[]A\A]
+[]A\A]
+.@(z
+AWAVAUATI
+WxHc
+[]A\A]A^A_
+D$ I
+[]A\A]A^A_
+AWAVI
+AUATUSH
+WxHc
+C H)
+([]A\A]A^A_
+C H)
+ATUSH
+KxHc
+~rHc
+tDE1
+[]A\
+ATUSH
+KxHc
+~rHc
+tDE1
+[]A\
+ATUSH
+SxHc
+uaHc
+t?E1
++[]A\H
+AVAUATUSH
+SxHc
++[]A\A]A^H
+ATUSH
+SxHc
++[]A\H
+SxHc
+AVAUA
+ATUI
+WxHc
+tgE1
++[]A\A]A^
+[]A\
+Hc@ 
+CHH9
+x u H
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AUATI
+[]A\A]
+]A\A]
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+ATUI
+=5z)
+ZYwoHc
+t$ H
+[]A\
+WxHc
+ATUI
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+AUATUI
+tAf.
+[]A\A]A^
+ATUSH
+[]A\
+[]A\
+CHH9
+AUATI
+$tEH
+[]A\A]
+AWAVH
+AUATI
+D$(H
+[]A\A]A^A_
+t$ L
+t$(L
+[]A\A]A^A_
+[]A\
+AUATUSH
+WxHc
+[]A\A]
+AWAVI
+AUATI
+<:u>
+[]A\A]A^A_
+[]A\A]A^A_
+$tOL
+"APL
+xLHc
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSL
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUI
+ATUI
+]A\A]A^
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUL
+ATUH
+[]A\A]A^
+t%USH
+AUATI
+[]A\A]
+[]A\A]
+AVAUA
+ATUI
+[]A\A]A^
+[]A\A]A^
+ATUSH
+S0H)
+[]A\
+AUATA
+[]A\A]
+AUATL
+\$ M
+[]A\A]
+AWAVI
+AUATI
+C@H)C8H
+xsH9
+{0L)
+4/L)
+[]A\A]A^A_
+AVAUI
+ATUH
+p8[]A\A]A^
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVI
+AUATI
+I9u0
+I+E0H
+]0M9
+U H9
+<.M9
+[]A\A]A^A_
+C(H+C0H
+C([H)
+C([H)
+~+ATUI
+[]A\
+AVAUATUSH
+[]A\A]A^
+C@H)C8
+]A\A]A^
+[]A\A]A^
+]A\A]A^
+AUATI
+T$Pu
+H+C0H
+[]A\A]
+C(H9
+C0H9
+L$PH
+H+C0
+CPt4H
+H;S(t1H)
+AWAVAUATUSH
+C I9
+C0L9
+C0L9
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+M0I9
+s#L)
+L+4$M
+[]A\A]A^A_
+U8L)
+I;E(I
+[]A\A]A^A_
+<#t9<It5H
+<rt=<wtI<a
+<bt1<tt
+AWAVM
+AUATI
+[]A\A]A^A_
+AWAVI
+AUATI
+ ]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+H+D$
+[]A\A]A^A_
+AWAVAUATI
+@tnH
+[]A\A]A^A_
+[]A\A]A^A_
+t+USH
+AVAUI
+ATUI
+x%H9
+t$[L
+]A\A]A^
+]A\A]A^
+]A\A]A^
+AUATUSH
+[]A\A]
+]A\A]
+ATUH
+[]A\
+AUATUSH
+[]A\A]
+AWAVI
+AUATI
+T$xH
+T$xR
+T$xRL
+L$8A
+[]A\A]A^A_
+AWAVI
+AUATI
+l$pH
+RAPL
+[]A\A]A^A_
+T$@L
+L$LL
+SHH9
+AWAVE
+AUATI
+D$@H
+[]A\A]A^A_
+AVAUATUS
+[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+AUATUS
+Lc%):)
+[]A\A]
+ATUSH
+l$ u7
+ []A\
+AVAUATUE
+[]A\A]A^
+ATUSH
+X tpH
+[]A\
+ATUSH
+~VH;
+t?H;
+tVH;
+[]A\
+AWAVI
+AUATI
+L$81
+T$(I
+|$0L
+L$8dH3
+H[]A\A]A^A_
+T$(L
+T$(L
+T$(H
+|$0L
+|$0L
+ATUS
+[]A\
++tZH
++t'H
++t/H
+AVAUATUI
+[]A\A]A^
+AWAVI
+AUATI
+D$(1
+l$pH
+T$ H
+T$xL
+|$(dH3<%(
+8[]A\A]A^A_
+T$ I
+AUATUSH
+[]A\A]
+[]A\A]
+AUATUSH
+=r))
+[]A\A]
+tQSH
+H9p u
+=j')
+=w&)
+[]A\
+AUATI
+D$81
+T$ L
+D$ H
+D$(H
+t$8dH34%(
+H[]A\A]
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+>rti
+pHE1
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATUSH
+d$pH
+D$(1
+L$xH
+L$(dH3
+8[]A\A]A^A_
+T$ H
+t$ H
+T$ tSH
+T$ H
+PAT1
+t$,AVD
+L$0D
+D$,H
+T$8H
+VATL
+L$8QL
+L$<L
+t$8H
+T$@H
+L$HL
+D$PL
+L$Xt:
+)D$`
+)L$p
+D$(1
+T$ H
+t$(dH34%(
+AWAVAUATUSH
+/tmp/Per
+lIO_XXXXH
+([]A\A]A^A_
+ATUI
+[]A\
+AUATI
+[]A\A]
+ATUH
+[]A\
+ATUI
+[]A\
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AWAVI
+AUATI
+[]A\A]A^A_
+_uUH
+D$(L
+L$ L
+L$ L
+8[]A\A]A^A_
+L$(L
+D$ L
+L$(f
+D$ L
+D$(L
+L$ L
+L$ L
+D$(M)
+<BthH
+0tsH
+AWAVAUATI
+T$ L
+D$ H
+]A\A]A^A_
+D$8D
+T$0L
+w=L+D$
+D$ L
+|$(A
+H[]A\A]A^A_
+D$0L+D$
+H+\$
+H+\$
+AWAVI
+AUATUSH
+T$ L
+D$(A
+D$ M)
+L$(A
+8[]A\A]A^A_
+D$ L
+]A\A]A^A_
+D$(1
+D$ H
+D$ H
+D$(dH3
+D$(1
+D$ H
+D$ H
+D$(dH3
+D$(1
+D$ H
+D$ H
+D$(dH3
+AWAVAUATI
+<$tWH
+[]A\A]A^A_
+AWAVL
+AUATI
+D$(1
+uKI9
+\$(dH3
+8[]A\A]A^A_
+t$ L
+L9L$ 
+J	I9
+L9L$ 
+AWAVAUATUSH
+D$(1
+<+trE1
+<1t~
+|$(dH3<%(
+8[]A\A]A^A_
+<)t.
+0t{L
+<Xto<B
+T$ L)
+T$ L)
+uAI9
+AWAVAUATUSH
+|$ H
+T$(dH
+t$HH
+t$HH
+D$HH
+|$ H
+t$PH
+L$PH9
+t$X1
+D$H1
+|$ H
+dH3<%(
+[]A\A]A^A_
+D$0H
+*L$0
+D$HH
+T$pH
+D$xH
+D$pH
+D$HH
+t"E1
+z1u/
+T$0f
+T$pH
+T$pH
+D$Hf
+T$pH
+AVAUATUI
+[]A\A]A^
+t	I9
+ tCH
+dH3<%(
+ATUI
+[]A\
+[]A\
+ATU1
+[]A\
+[]A\
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+T$ H
+dH34%(
+D$(P
+D$(P
+D$(P
+HcG0
+HcC0H
+HcC0H
+HcC0H
+HcG0
+HcC0H
+HcC0H
+HcC0H
+HcG0
+HcC0H
+HcC0H
+AWAVAUATA
+HcS0
+HcS0H
+HcC0H
+|2Ic
+HcS0
+[]A\A]A^A_
+APQE1
+AQAPLc
+L$0H
+AQARA
+u6SH
+u.SH
+t~Hc
+tNHc
+D$(1
+T$(dH3
+D$(1
+T$(dH3
+D$(1
+T$(dH3
+Bp<	
+dH34%(
+ATUI
+[]A\<
+ATUI
+[]A\
+ATUSH
+D$h1
+D$hdH3
+p[]A\
+AWAVI
+AUATUSH
+([]A\A]A^A_
+L9l$
+AUATA
+[]A\A]
+8.teH
+>Ct"
+ATUSH
+[]A\
+[]A\
+>Ct*
+pHE1
+tQH=@
+AWAVE1
+AUATE1
+[]A\A]A^A_
+8CtOH
+AWAVA
+AUATI
+D$x1
+D$P1
+|$PL
+D$ H
+L$(H
+L$(H
+\$4f
+D$(H
+\$4M
+L$(H
+t-E1
+t+E1
+t$ L
+t$HL
+L$xdH3
+[]A\A]A^A_
+|$ H
+	t*L
+[]A\
+[]A\H
+AUATUS
+[t|I9
+[]A\A]
+AWAVH
+AUATI
+t$(1
+tII9
+L$ H
+T$ H
+\$(dH3
+8[]A\A]A^A_
+vBL9
+L$ L)
+AWAVAUATUSH
+L94$
+[]A\A]A^A_
+]A\A]A^A_
+},cH
+/tNL
+F0vKA
+T$$L
+\$8L
+T$0L
+L$(L
+\$8L
+T$0L
+L$(L
+AWAVI
+AUATE1
+btu~
+\$8L
+T$0D
+L$,D
+D$(H
+L$ H
+L$ L
+\$8L
+T$0H
+L$,D
+D$(H
+[]A\A]A^A_
+AWAVAUATUSH
+ uBL
+H[]A\A]A^A_
+D$,I
+t$(I
+HcP,L
+IcD$,H
+|$(I
+l$0L
+d$8M
+M9,$t
+|$(I
+l$0L
+d$8H)
+IcD$,I
+IcD$,I
+D$8M
+d$@M
+L$ H
+H[]A\A]A^A_
+L+p H
+D$,H
+ATUA
+[]A\
+wt(D
+7uWH
+AUATA
+[]A\A]
+AWAVI
+AUATUSH
+t$(H
+D$xH
+D$pH
+t$(L
+H;D$xu	
+\$(D
+D+$$
+D$ht
+D$0Ic
+tYA)
+H9D$
+|$@H
+F H+D$
+vPI;v`
+T$PH
+HcT$PI
+D$8I
+t$8L
+HcT$X
+\$0H9\$
+D$(1
+H!D$ H
+t$ L
+D$8I
+T$ A
+d$ D
+d$ L
+T$ A
+|$(H
+~6H9D$
+H9D$
+H9D$
+\$`D
+d$PL
+d$@L
+H9D$
+H9D$
+L$PH
+\$`H
+H;D$
+H9D$
+d$8L
+d$ D
+L$HD
+L$HM
+d$ D
+L$PH
+D$HH
+D$HH
+D$HH
+\$(H
+F H+D$
+vPI;v`
+H9D$
+L$pH
+T$HM
+T$HH
+F H+D$
+H9D$
+L$HM
+L$PE
+|$@A
+|$HH
+D$HH
+D$HH
+D$(u
+L$HH
+L$HH
+F H+D$
+|$(H
+l$PD
+L$HD
+|$@H
+l$(L
+M0 H
+D$8L
+\$@M
+F H+D$
+L$PH
+D$ H
+T$HH
+T$PH
+HcT$PH
+L$PH
+T$HI
+L$HH
+T$PH
+T$PI
+T$`H
+T$`H
+T$PH
+T$PH
+L$HH
+T$PH
+T$PI
+L$PH
+D$ H
+T$HH
+L$PH
+T$HI
+L$HH
+L$HI
+T$PH
+T$PI
+T$`H
+T$`H
+L$HH
+L$HI
+L$PH
+T$HI
+|$(H
+L$HH
+#o0H
+\$8I
+L$PD
+\$8A
+F H+D$
+\$8L
+L$HH
+L$HH
+[]A\A]A^A_
+D$8L
+L$HD
+T$ H
+T$ E
+H9D$
+H9D$
+H+4$H
+L$HH
+L$HH
+@0@u
+t$81
+F H+D$
+t$8L
+T$@M
+T$@I
+L$HH
+\$8A
+F H+D$
+T$ H
+L$HH
+L$Ht
+H9D$
+H9D$
+H+4$
+L$8D
+L9|$
+\$@L
+t#L;
+L$HI
+L$HH
+L$HH
+L$HH
+L$HH
+L$HH
+L$HH
+AWAVL
+AUATH)
+t$0L
+D$HdH
+|$XH
+L$8H
+D$oE
+D$0H
+t$XH
+D$pH
+|$ 1
+D$8L
+HcL$
+tT)D$
+D$0Hc\$
+\$0A
+[]A\A]A^A_
+\$0L
+Hct$ 
+d$@D
+d$@L
+d$@D
+l$@L
+\$PH
+D$@H
+D$0I
+t$@L
+d$PH
+d$@D
+d$@D
+d$@D
+d$@D
+d$@D
+l$@A
+l$@M
+l$@L)
+J8H9
+D$@H
+H;,$r6
+$H;,$v9
+D$0L
+|$0A
+,$L)
+d$@D
+d$@D
+d$@D
+d$@D
+d$@D
+D$0L
+|$`I9
+D$PH
+d$`L
+l$`E
+|$PH9
+t%L9
+l$@H
+D$ I
+D$ H
+D$8H
+l$00
+D$HH
+H9D$Hu
+l$@M
+l$@L)
+L+|$
+D$`E1
+|$`L
+d$PL
+l$@L
+D$ M
+D$ H
+D$8L
+D$ M
+D$ H
+D$8L
+D$8A
+L+|$
+D$ I
+D$ H
+D$8H
+D$ I
+D$ H
+D$8H
+D$ I
+D$ H
+D$8H
+D$ I
+D$ H
+D$8H
+D$ I
+D$ H
+D$8H
+D$ I
+D$ H
+D$8H
+D$ I
+D$ H
+D$8H
+D$ I
+D$ H
+D$8H
+D$ I
+D$ H
+D$8H
+D$ I
+D$ H
+D$8H
+D$ I
+D$ H
+D$8H
+D$ I
+D$ H
+D$8H
+D$ I
+D$ H
+D$8H
+D$ I
+D$ H
+D$8H
+D$ I
+D$ H
+D$8H
+D$ I
+D$ H
+D$8H
+D$ I
+D$ H
+D$8H
+D$ I
+D$ H
+D$8H
+D$ I
+D$ H
+D$8H
+D$ I
+D$ H
+D$8H
+l$@L)
+t$xI
+|$pH
+;t$ 
+|$0H
+T$HH+T$8H
+D$8L
+|$`I9
+D$PH
+VUUU
+t$0H
+Hct$
+Hc\$
+\$0H
+\$0L
+t$0E1
+\$0L
+t$0H
+|$XH
+|$0A
+D$ I
+D$ H
+D$8H
+D$ I
+D$ H
+D$8H
+l$`L
+\$0I
+\$0L
+ZHcL$
+D$0L
+|$XL
+|$0L
+\$0L
+|$PH9
+ZHcT$
+\$0L
+D$ M
+D$ H
+D$8L
+D$ M
+D$ H
+D$8L
+D$ M
+D$ H
+D$8L
+D$ M
+D$ H
+D$8L
+D$ M
+D$ H
+D$8L
+HcT$
+Zu%H
+HcT$
+D$0L
+\$0L
+D$0L
+\$0L
+d$PL
+D$0H
+AWAVI
+AUATM
+D$X1
+\$@H
+L$XdH3
+h[]A\A]A^A_
+Ut;E1
+AVAUATUSH
+dH3<%(
+ []A\A]A^
+AUATM
+D$H1
+L$0(M
+D$HdH3
+X[]A\A]
+AWAVAUATUSH
+WxHc
+@uSH
+([]A\A]A^A_
+AWAVH
+AUATUSH
+t$pdH
+L$xH
+D$hH
+D$pE1
+l$hE1
+d$0H
+H9D$
+H9D$
+l$8H
+H;D$
+\$ L
+l$(I
+\$ L
+l$(L9
+H;l$
+H;\$
+H9L$
+d$0H
+D$pH
+L$@1
+D$hH
+L$PH
+D$HH
+D$@H
+L$PH
+|$HH
+D$XH
+T$8H
+D$`H
+L$0L;l$8
+|$0H9|$
+D$0L
+\$(L
+l$ M
+L9l$
+l$ H
+\$(L
+\$ M
+<$L)
+\$ I9
+L;l$8H
+L;l$8M
+T$HH
+L$PH
+|$XH)
+L$HH
+D$@H
+H;l$
+L$8H9L$
+H9L$
+t$8H9t$
+H;L$
+?t%H
+\$ L
+l$(L
+l$(H
+|$ H
+|$ L
+D$hH
+L$xH
+[]A\A]A^A_
+\$(M
+D$8H
+L$0H9
+L$0H
+L$`H
+|$@H
+D$@1
+|$pH
+\$hL
+D$hH
+|$pH
+T$@H
+AWAVAUATI
+[]A\A]A^A_
++D$(9D$4
+t$(L
+HcD$
+HcD$
+HcD$0H
+D$,Ic
+D$8H
+D$8L
+T$ D
+L$ 9L$(
+D9|$
+<$Ic
+D9|$
+L$ 9L$(
+D$,9D$ 
+HcD$ 
+HcD$,H
+L$ 9L$(
+HcD$ H
+HcD$,H
+HcD$,9D$ t
+HcD$ 9D$(
+<D9|$
+D9|$
+t3Ic
+HcD$,H
+HcD$,H
+HcD$ H
+t$(M
+D$,9
+HcD$0H
+D9t$
+D$ H
+D$0H
+D$8M
+t[~VL
+D$8L
+T$ I
+T$ H
+|$(H
+T$ I
+T$ I
+ATUI
+AWAVAUATUSH
+;k@A
+[]A\A]A^A_
+;k@|
+ATUI
+tGE1
+[]A\
+ATUI
+tGE1
+[]A\
+ATUI
+tGE1
+[]A\
+ATUI
+tGE1
+[]A\
+AWAVI
+AUATI
+C L)
+;k@|
+[]A\A]A^A_
+AWAVI
+AUATUSH
+;k@L
+;k@|
+[]A\A]A^A_
+t I)
+AWAVAUATI
+[]A\A]A^A_
+|$ M
+AWAVI
+AUATUSH
+G L)
+dH3<%(
+[]A\A]A^A_
+L$xH
+D$ E1
+D$xL
+l$(H
+G H+D$
+l$8D
+d$@L
+T$ I
+\$`M
+d$[L
+D$ D
+D$kL
+T$@L
+D$8L
+l$LD
+d$[L
+8T$Z
+E A;E$
+HcB H
+GxI+GpH
+\$HD"h#E
+B`~%I
+HcP`I
+HcB H
+A9w0
+HcB H
+|$@H
+DD$\
+~QE1
+l$(J
+T$ H
+T$ H
+t$ZM
+d$@L
+l$8H
+G H+D$
+L$ E
+|$lD
+\$`I
+H+B H
+T$8H
+T$ H
+T$xH
+ATUA
+[]A\
+WxHc
+AVAUATUSH
+WxHc
+[]A\A]A^
+WxHc
+uBHc
+[]A\
+T$@H
+L$HL
+D$PL
+L$Xt:
+)D$`
+)L$p
+D$(1
+D$(dH3
+AVAUATUSH
+WxHc
++[]A\A]A^
++[]A\A]A^
+AVAUATUSH
+WxHc
+@udM
+[]A\A]A^
+AVAUATUSH
+WxHc
+[]A\A]A^
+ATUH
+[]A\
+AWAVA
+AUATL
+[]A\A]A^A_
+DynaLoader::boot_DynaLoader
+perlmain.c
+BEGIN
+UNITCHECK
+Too late to run CHECK block
+Too late to run INIT block
+undef
+Can't use global %.*s in "%s"
+Use of %s $_ is experimental
+op.c
+FIELDS
+Prototype mismatch:
+ sub %-p
+ (%d%lu%4p)
+: none
+ vs 
+a HASH
+an ARRAY
+a SCALAR
+::SUPER::
+prototype(
+a constant (undef)
+negative pattern binding (!~)
+a variable
+a constant (%s)
+a constant (%-p)
+reflags
+reflags_charset
+Too many arguments for %s
+evalbytes
+oops: oopsAV
+oops: oopsHV
+ construct
+() operator
+Bareword found in conditional
+readpipe
+unieval
+STDOUT
+Format %-p redefined
+Format STDOUT redefined
+DB::postponed
+do block
+local
+non-lvalue subroutine call
+Can't modify %s in %s
+refaliasing
+Useless localization of %s
+Can't declare %s in "%s"
+__ANONIO__
+%s%c...%c
+Not enough arguments for %s
+panic: ck_grep, type=%u
+require
+%s is experimental
+keys 
+block or sub {}
+Too many arguments for %-p
+one of %.*s
+scalar
+Not enough arguments for %-p
+entereval
+backtick
+;\[$*]
++;$$@
+?$@@%&*$
+Subroutine %-p redefined
+autouse
+__ANON__::__ANON__
+%s[%s:%ld]
+%s:%ld-%ld
+# comment
+%04lx	%04lx	XXXX
+%04lx		XXXX
+%04lx	%04lx	%04lx
+%04lx		%04lx
+FINAL
+@array
+%hash
+panic: ck_split, type=%u
+Module name must be constant
+unimport
+attributes
+__ANON__::
+attributes.pm
+@$%*
+File::Glob
+Assignment to both a list and a scalar
+Bareword "%-p" not allowed while "strict subs" in use
+Magical list constants are not supported
+Scalar value @%-p%c%s%c better written as $%-p%c%s%c
+Scalar value @%-p%c%-p%c better written as $%-p%c%-p%c
+panic: allocmy illegal flag bits 0x%lx
+Can't use global %c^%c%.*s in "%s"
+panic: MUTEX_LOCK (%d) [%s:%d]
+panic: MUTEX_UNLOCK (%d) [%s:%d]
+No such class field "%-p" in variable %d%lu%4p of type %2p
+Statement unlikely to be reached
+	(Maybe you meant system() when you said exec()?)
+%-p() called too early to check prototype
+'%s' trapped by operation mask
+The bitwise feature is experimental
+Possible precedence problem on bitwise %s operator
+Can't use bareword ("%-p") as %s ref while "strict refs" in use
+panic: rv2cv_op_cv bad flags %x
+panic: can't register custom OP %s
+panic: op_sibling_splice(): NULL parent
+Attribute prototype(%d%lu%4p) discards earlier prototype attribute in same sub
+Prototype '%d%lu%4p' overridden by attribute 'prototype(%d%lu%4p)' in %-p
+non-destructive substitution (s///r)
+non-destructive transliteration (tr///r)
+Useless use of %-p in void context
+Useless use of %s in void context
+Useless use of sort in scalar context
+%%%-p%c%s%c in scalar context better written as $%-p%c%s%c
+%%%-p%c%-p%c in scalar context better written as $%-p%c%-p%c
+panic: fold_constants JMPENV_PUSH returned %d
+Found = in conditional, should be ==
+Possible precedence issue with control flow operator
+Deprecated use of my() in false conditional
+Value of %s%s can be "0"; test with defined()
+Can't use an array as a reference
+Can't use a hash as a reference
+panic: op_contextualize bad context %ld
+Can't modify reference to localized parenthesized array in list assignment
+Can't modify reference to parenthesized hash in list assignment
+Can't modify reference to %s in %s
+panic: unexpected lvalue entersub args: type/targ %ld:%lu
+Unexpected constant lvalue entersub entry via type/targ %ld:%lu
+Can't localize lexical variable %d%lu%4p
+Experimental aliasing via reference not enabled
+Aliasing via reference is experimental
+Can't use %s for loop variable
+"%s %s" used in sort comparison
+$[ used in %s (did you mean $] ?)
+Missing comma after first argument to %s function
+Type of arg %d to %s must be %s (not %s)
+Useless use of %s with no values
+%s on reference is experimental
+delete argument is index/value array slice, use array slice
+delete argument is key/value hash slice, use hash slice
+delete argument is not a HASH or ARRAY element or slice
+exists argument is not a subroutine name
+exists argument is not a HASH or ARRAY element or a subroutine
+Can't use 'defined(@array)' (Maybe you should just omit the defined()?)
+Can't use 'defined(%%hash)' (Maybe you should just omit the defined()?)
+/%-p/ should probably be written as "%-p"
+length() used on %-p (did you mean "scalar(%s%-p)"?)
+length() used on %%hash (did you mean "scalar(keys %%hash)"?)
+length() used on @array (did you mean "scalar(@array)"?)
+Can't modify reference to %s in scalar assignment
+Type of arg %d to %-p must be %s (not %s)
+panic: ck_entersub_args_proto CV with no proto, flags=%lx
+Malformed prototype for %-p: %-p
+Constant subroutine %-p redefined
+lvalue attribute ignored after the subroutine has been defined
+BEGIN not safe after errors--compilation aborted
+Useless use of /d modifier in transliteration operator
+Replacement list is longer than search list
+Applying %s to %-p will act on scalar(%-p)
+Applying %s to %s will act on scalar(%s)
+Using !~ with s///r doesn't make sense
+Using !~ with tr///r doesn't make sense
+Use of /g modifier is meaningless in split
+Version number must be a constant number
+Parentheses missing around "%s" list
+Initialization of state variables in list context currently forbidden
+@Compiled at Nov 10 2017 14:39:06
+/5.22.1/x86_64-linux-gnu-thread-multi
+/x86_64-linux-gnu-thread-multi
+panic: MUTEX_INIT (%d) [%s:%d]
+panic: MUTEX_DESTROY (%d) [%s:%d]
+panic: pthread_key_create failed
+panic: pthread_setspecific (%d) [%s:%d]
+panic: sysconf: pagesize unknown
+-i used with no filenames on the command line, reading from STDIN
+BEGIN failed--compilation aborted
+panic: restartop in call_list
+Unbalanced scopes: %ld more ENTERs than LEAVEs
+Unbalanced saves: %ld more saves than restores
+Unbalanced tmps: %ld more allocs than frees
+Unbalanced context: %ld more PUSHes than POPs
+Unbalanced string table refcount: (%ld) for "%s"
+This is perl 5, version 22, subversion 1 (%-p) built for x86_64-linux-gnu-thread-multi
+(with %d registered patch%s, see perl -V for more detail)
+Copyright 1987-2015, Larry Wall
+Perl may be copied only under the terms of either the Artistic License or the
+GNU General Public License, which may be found in the Perl 5 source kit.
+Complete documentation for Perl, including FAQ lists, should be found on
+this system using "man perl" or "perldoc perl".  If you have access to the
+Internet, point your browser at http://www.perl.org/, the Perl Home Page.
+  -0[octal]         specify record separator (\0, if no argument)
+  -a                autosplit mode with -n or -p (splits $_ into @F)
+  -C[number/list]   enables the listed Unicode features
+  -c                check syntax only (runs BEGIN and CHECK blocks)
+  -d[:debugger]     run program under debugger
+  -D[number/list]   set debugging flags (argument is a bit mask or alphabets)
+Usage: %s [switches] [--] [programfile] [arguments]
+Recompile perl with -DDEBUGGING to use -D switch (did you mean -d ?)
+Module name required with -%c option
+Invalid module name %.*s with -%c option: contains single ':'
+"-%c" is on the #! line, it must also be used on the command line%s
+Can't emulate -%.1s on #! line
+Unrecognized switch: -%.1s  (-h will show valid options)
+HASH_FUNCTION = %s HASH_SEED = 0x
+use Config; Config::config_vars(qw%c%s%c)
+Unrecognized switch: -%s  (-h will show valid options)
+Illegal switch in PERL5OPT: -%c
+/usr/local/lib/x86_64-linux-gnu/perl/5.22.1
+/usr/lib/x86_64-linux-gnu/perl5/5.22
+/usr/lib/x86_64-linux-gnu/perl/5.22
+/usr/lib/x86_64-linux-gnu/perl-base
+Wrong syntax (suid) fd script name "%s"
+Missing (suid) fd script name
+No %s allowed with (suid) fdscript
+Can't open perl script "%s": %s
+YOU HAVEN'T DISABLED SET-ID SCRIPTS IN THE KERNEL YET!
+FIX YOUR KERNEL, PUT A C WRAPPER AROUND THIS SCRIPT, OR USE -u AND UNDUMP!
+Can't ignore signal CHLD, forcing to default
+No Perl script found in input
+Execution of %s aborted due to compilation errors.
+  -e program        one line of program (several -e's allowed, omit programfile)
+  -E program        like -e, but enables all optional features
+  -f                don't do $sitelib/sitecustomize.pl at startup
+  -F/pattern/       split() pattern for -a switch (//'s are optional)
+  -i[extension]     edit <> files in place (makes backup if extension supplied)
+  -Idirectory       specify @INC/#include directory (several -I's allowed)
+  -l[octal]         enable line ending processing, specifies line terminator
+  -[mM][-]module    execute "use/no module..." before executing program
+  -n                assume "while (<>) { ... }" loop around program
+  -p                assume loop like -n but print line also, like sed
+  -s                enable rudimentary parsing for switches after programfile
+  -S                look for programfile using PATH environment variable
+  -t                enable tainting warnings
+  -T                enable tainting checks
+  -u                dump core after parsing program
+  -U                allow unsafe operations
+  -v                print version, patchlevel and license
+  -V[:variable]     print configuration summary (or a single Config.pm variable)
+  -w                enable many useful warnings
+  -W                enable all warnings
+  -x[directory]     ignore text before #!perl line (optionally cd to directory)
+  -X                disable all warnings
+Run 'perldoc perl' for more help with Perl.
+DEBPKG:debian/cpan_definstalldirs - Provide a sensible INSTALLDIRS default for modules installed from CPAN.
+DEBPKG:debian/db_file_ver - http://bugs.debian.org/340047 Remove overly restrictive DB_File version check.
+DEBPKG:debian/doc_info - Replace generic man(1) instructions with Debian-specific information.
+DEBPKG:debian/enc2xs_inc - http://bugs.debian.org/290336 Tweak enc2xs to follow symlinks and ignore missing @INC directories.
+DEBPKG:debian/errno_ver - http://bugs.debian.org/343351 Remove Errno version check due to upgrade problems with long-running processes.
+DEBPKG:debian/libperl_embed_doc - http://bugs.debian.org/186778 Note that libperl-dev package is required for embedded linking
+DEBPKG:fixes/respect_umask - Respect umask during installation
+DEBPKG:debian/writable_site_dirs - Set umask approproately for site install directories
+DEBPKG:debian/extutils_set_libperl_path - EU:MM: set location of libperl.a under /usr/lib
+DEBPKG:debian/no_packlist_perllocal - Don't install .packlist or perllocal.pod for perl or vendor
+DEBPKG:debian/fakeroot - Postpone LD_LIBRARY_PATH evaluation to the binary targets.
+DEBPKG:debian/instmodsh_doc - Debian policy doesn't install .packlist files for core or vendor.
+DEBPKG:debian/ld_run_path - Remove standard libs from LD_RUN_PATH as per Debian policy.
+DEBPKG:debian/libnet_config_path - Set location of libnet.cfg to /etc/perl/Net as /usr may not be writable.
+DEBPKG:debian/mod_paths - Tweak @INC ordering for Debian
+DEBPKG:debian/prune_libs - http://bugs.debian.org/128355 Prune the list of libraries wanted to what we actually need.
+DEBPKG:fixes/net_smtp_docs - [rt.cpan.org #36038] http://bugs.debian.org/100195 Document the Net::SMTP 'Port' option
+DEBPKG:debian/perlivp - http://bugs.debian.org/510895 Make perlivp skip include directories in /usr/local
+DEBPKG:debian/deprecate-with-apt - http://bugs.debian.org/747628 Point users to Debian packages of deprecated core modules
+DEBPKG:debian/squelch-locale-warnings - http://bugs.debian.org/508764 Squelch locale warnings in Debian package maintainer scripts
+DEBPKG:debian/skip-upstream-git-tests - Skip tests specific to the upstream Git repository
+DEBPKG:debian/patchlevel - http://bugs.debian.org/567489 List packaged patches for 5.22.1-9ubuntu0.2 in patchlevel.h
+DEBPKG:debian/skip-kfreebsd-crash - http://bugs.debian.org/628493 [perl #96272] Skip a crashing test case in t/op/threads.t on GNU/kFreeBSD
+DEBPKG:fixes/document_makemaker_ccflags - http://bugs.debian.org/628522 [rt.cpan.org #68613] Document that CCFLAGS should include $Config{ccflags}
+DEBPKG:debian/find_html2text - http://bugs.debian.org/640479 Configure CPAN::Distribution with correct name of html2text
+DEBPKG:debian/perl5db-x-terminal-emulator.patch - http://bugs.debian.org/668490 Invoke x-terminal-emulator rather than xterm in perl5db.pl
+DEBPKG:debian/cpan-missing-site-dirs - http://bugs.debian.org/688842 Fix CPAN::FirstTime defaults with nonexisting site dirs if a parent is writable
+DEBPKG:fixes/memoize_storable_nstore - [rt.cpan.org #77790] http://bugs.debian.org/587650 Memoize::Storable: respect 'nstore' option not respected
+DEBPKG:debian/regen-skip - Skip a regeneration check in unrelated git repositories
+DEBPKG:debian/makemaker-pasthru - http://bugs.debian.org/758471 Pass LD settings through to subdirectories
+DEBPKG:fixes/pod_man_reproducible_date - http://bugs.debian.org/759405 Support POD_MAN_DATE in Pod::Man for the left-hand footer
+DEBPKG:debian/locale-robustness - http://bugs.debian.org/782068 [perl #124310] Make t/run/locale.t survive missing locales masked by LC_ALL
+DEBPKG:fixes/podman-utc - http://bugs.debian.org/780259 Make the embedded date from Pod::Man reproducible
+DEBPKG:fixes/podman-utc-docs - http://bugs.debian.org/780259 Documentation and test suite updates for UTC fix
+DEBPKG:fixes/podman-empty-date - http://bugs.debian.org/780259 Support an empty POD_MAN_DATE environment variable
+DEBPKG:fixes/podman-pipe - http://bugs.debian.org/777405 Better errors for man pages from standard input
+DEBPKG:debian/pod2man-customized - Update porting/customized.dat for pod2man modifications
+DEBPKG:debian/makemaker-manext - http://bugs.debian.org/247370 Make EU::MakeMaker honour MANnEXT settings in generated manpage headers
+DEBPKG:debian/makemaker_customized - Update t/porting/customized.dat for files patched in Debian
+DEBPKG:debian/do-not-record-build-date - [6baa8db] http://bugs.debian.org/774422 [perl #125830] Allow overriding the compile time in "perl -V" output
+DEBPKG:fixes/podman-source-date-epoch - http://bugs.debian.org/801621 Make Pod::Man honor the SOURCE_DATE_EPOCH environment variable
+DEBPKG:fixes/podman-source-date-epoch-cleanups - http://bugs.debian.org/801621 Coding style and documentation for SOURCE_EPOCH_DATE
+DEBPKG:fixes/podman-source-date-epoch-testfix - http://bugs.debian.org/807086 Guard for building with SOURCE_DATE_EPOCH or POD_MAN_DATE set
+DEBPKG:debian/devel-ppport-reproducibility - http://bugs.debian.org/801523 Sort the list of XS code files when generating RealPPPort.xs
+DEBPKG:fixes/encode-unicode-bom - http://bugs.debian.org/798727 [rt.cpan.org #107043] Address https://rt.cpan.org/Public/Bug/Display.html?id=107043
+DEBPKG:debian/encode-unicode-bom-doc - http://bugs.debian.org/798727 Document Debian backport of Encode::Unicode fix
+DEBPKG:debian/kfreebsd-softupdates - http://bugs.debian.org/796798 Work around Debian Bug#796798
+DEBPKG:fixes/autodie-scope - http://bugs.debian.org/798096 Fix a scoping issue with "no autodie" and the "system" sub
+DEBPKG:debian/debugperl-compat-fix - [perl #127212] http://bugs.debian.org/810326 Disable PERL_TRACK_MEMPOOL for debugging builds
+DEBPKG:fixes/CVE-2015-8607_file_spec_taint_fix - http://bugs.debian.org/810719 [perl #126862] ensure File::Spec::canonpath() preserves taint
+DEBPKG:fixes/mkstemp-umask - http://bugs.debian.org/810924 [perl #127322] [e57270b] Fix umask for mkstemp(3) calls
+DEBPKG:fixes/crosscompile-no-targethost - [perl #127234] Fix the Configure escape with usecrosscompile but no targethost
+DEBPKG:fixes/podlators-no-encode - [rt.cpan.org #111156] Degrade gracefully if utf8 is requested but Encode is not available
+DEBPKG:debian/cross-time-hires - [rt.cpan.org #111391] Add an environment variable to skip running configuration probes
+DEBPKG:fixes/encode-unicode-pod - Unicode.pm: Fix POD error
+DEBPKG:fixes/memoize-pod - [rt.cpan.org #89441] Fix POD errors in Memoize
+DEBPKG:fixes/ok-pod - Added encoding for pod.
+DEBPKG:fixes/CVE-2016-2381_duplicate_env - remove duplicate environment variables from environ
+DEBPKG:fixes/CVE-2017-12837.patch - [PATCH] regcomp [perl #131582]
+DEBPKG:fixes/CVE-2017-12883.patch - [PATCH] PATCH: [perl #131598]
+.../
+%s/%s
+perl.c
+eval_sv()
+require q%c%s%c
+Cannot set tied @DB::args
+DB::DB
+DB::dbline
+DB::sub
+DB::single
+DB::trace
+DB::signal
+v5.22.1
+panic: sysconf: %s
+panic: bad pagesize %ld
+linux
+ARGV
+main::F
+%s failed--call queue aborted
+panic: top_env, v=%d
+main::
+Scalars leaked: %ld
+Unexpected exit %lu
+use 
+ no 
+PERL5DB_THREADED
+no Devel::
+use Devel::
+ split(/,/,q{%s});
+PERL5DB
+Can't use '%c' after -mname
+Missing argument to -%c
+No directory specified for -I
+DETERMINISTIC
+RANDOM
+/dev/null
+PERL_HASH_SEED_DEBUG
+ONE_AT_A_TIME_HARD
+%02x
+ PERTURB_KEYS = %d (%s)
+NoNe  SuCh
+main
+%240s
+DB::
+CORE::GLOBAL::
+No code specified for -%c
+use Config; Config::_V()
+help
+PERL5OPT
+CDIMUdmtwW
+PERL5LIB
+PERLLIB
+/etc/perl
+/usr/local/share/perl/5.22.1
+/usr/share/perl5
+/usr/share/perl/5.22
+/usr/local/lib/site_perl
+/dev/fd/
+program input from stdin
+Can't open /dev/null: %s
+Illegal suidscript
+PERL
+Can't chdir to %s
+Internals::V
+IO::Seekable::
+IO::Handle::
+IO::File::ISA
+Exporter::
+STDIN
+stdout
+STDERR
+stderr
+PERL_SIGNALS
+:utf8
+unsafe
+PERL_SIGNALS illegal: "%s"
+%s had compilation errors.
+panic: top_env
+%s syntax OK
+panic: restartop in perl_run
+Unexpected exit failure %ld
+ split(/,/,q
+:utf8
+:utf8
+:utf8
+:utf8
+ PERL_DONT_CREATE_GVSV PERL_HASH_FUNC_ONE_AT_A_TIME_HARD PERL_MALLOC_WRAP PERL_NEW_COPY_ON_WRITE PERL_PRESERVE_IVUV USE_LOCALE USE_LOCALE_CTYPE USE_PERL_ATOF
+dirhandle
+Bad symbol for %s
+overloading
+panic: gv name too long (%lu)
+::SUPER
+IO::File
+IO/File.pm
+CORE
+<none>::
+Errno
+TIEHASH
+Tie::Hash::NamedCapture
+$%c is no longer supported
+arybase
+FETCH
+XPORT
+HILD_ERROR_NATIVE
+LOBAL_PHASE
+AST_FH
+REMATCH
+OSTMATCH
+TF8LOCALE
+TF8CACHE
+ARNING_BITS
+%d%lu%4p::_GEN_%ld
+UNIVERSAL
+(${}
+Stub found while resolving
+Can't resolve
+overload
+has no overloaded magic
+in overloaded package 
+	left 
+(@{}
+(%{}
+(*{}
+(&{}
+(neg
+(int
+(**=
+(<<=
+(>>=
+(&.=
+(|.=
+(^.=
+(atan2
+(cos
+(sin
+(exp
+(log
+(sqrt
+gv.c
+AUTOLOAD
+Name "%2p::%2p" used only once: possible typo
+Attempt to free unreferenced glob pointers, Perl interpreter: 0x%p
+panic: gp_free failed to free glob pointer - something is repeatedly re-creating entries
+Cannot convert a reference to %s to typeglob
+&CORE::%s cannot be called directly
+Use of inherited AUTOLOAD for non-method %-p::%d%lu%4p() is deprecated
+Can't locate object method "%d%lu%4p" via package "%2p"
+Can't locate object method "%d%lu%4p" via package "%-p" (perhaps you forgot to load "%-p"?)
+panic: Can't use %c%c because %-p is not available
+panic: Can't use %c%c because %-p does not support method %s
+Variable "%c%d%lu%4p" is not imported
+	(Did you mean &%d%lu%4p instead?)
+Global symbol "%s%d%lu%4p" requires explicit package name (did you forget to declare "my %s%d%lu%4p"?)
+Had to create %d%lu%4p unexpectedly
+Can't use anonymous symbol table for method lookup
+Can't locate package %-p for @%2p::ISA
+%s method "%-256p" overloading "%s" in package "%3p"
+	right argument has no overloaded magic
+	right argument in overloaded package 
+Operation "%s": no method found,%sargument %s%-p%s%-p
+Copy method did not return a reference
+Overloaded dereference did not return a reference
+msyq
+qwxr
+;&/|})]oaiuwef!=
+No comma allowed after %s
+Parse error
+parse_expr
+Identifier too long
+lex_start
+lex_stuff_pvn
+lex_stuff_sv
+lex_unstuff
+lex_read_to
+lex_discard_to
+$@%*;[]&\_+
+lex_next_chunk
+lex_peek_unichar
+lex_read_unichar
+lex_read_space
+[...]
+{...}
+[\]^_?
+postderef_qq
+[#!%*<>()-=
+])} =
+wds]
+rnftbxcav
+aA01! 
+zZ79~
+CORE::
+([{< )]}> )]}>
+at EOF
+next token ???
+at end of line
+within pattern
+within string
+next char 
+\%03o
+ at %s line %ld, 
+near "%d%lu%4p"
+%-p%s has too many errors.
+msixxnopnadlu
+msixxnopnadlugc
+Search pattern not terminated
+} is not defined
+Call to &{$^H{
+:short
+:full
+_charnames
+Constant(%.*s) unknown
+Unknown charname '%.*s'
+Constant(%.*s): %s%s%s
+Propagated
+0xffffffff
+Hexadecimal
+hexadecimal
+Binary
+037777777777
+Octal
+octal
+float
+panic: scan_num, *s=%d
+Misplaced _ in number
+Illegal octal digit '%c'
+Illegal binary digit '%c'
+Integer overflow in %s number
+%s number > %s non-portable
+Number too long
++-0123456789_
+subroutin
+variabl
+Format not terminated
+Unterminated attribute list
+Number with no digits
+Missing right brace on \o{
+Missing braces on \o{}
+panic: yylex, *s=%u
+:'{$
+()| 
+\%c better written as $%c
+lLuUEQF
+Missing braces on \N{}
+Missing right brace on \N{}
+_Perl_Charname_Begin
+_Perl_Charname_Continue
+%02X.
+panic: %s buffer overflow
+\N{U+%X
+Use "%c" instead of "\c{"
+Sequence "\c{" invalid
+\x%02X
+use feature ':5.22';
+LINE: while (<>) {
+chomp;
+our @F=split(%s);
+our @F=split(' ');
+=cut
+perl -
+indir
+Can't exec %s
+Too late for "-%.*s" option
+panic: input overflow
+postderef
+bitwise
+Smartmatch is experimental
+unique
+Use of :unique is deprecated
+lvalue
+locked
+Use of :locked is deprecated
+:const is experimental
+syntax error
+Unmatched right curly bracket
++-*/%.^&|<
+Reversed %c= operator
+!=~ should be !~
+Excessively long <> operator
+Unterminated <> operator
+Glob not terminated
+readline
+{$:+-@
+Array length
+Scalar
+Final $ should be \$ or $name
+You need to quote "%d%lu%4p"
+$@"'`q
+&*<%
+Array
+ 	$#+-'"
+study
+Number
+String
+Backticks
+Backslash
+Bad name after %d%lu%4p%s
+Bareword
+DATA
+:encoding(%-p)
+DB_File::
+NDBM_File::
+AnyDBM_File::ISA
+ODBM_File::
+SDBM_File::
+GDBM_File::
+Missing $ on loop variable
+given is experimental
+lexsubs
+__PACKAGE__
+No such class %.1000s
+|&*+-=!?:.
+msixxnopnadlugcer
+eval 
+subroutine name
+Missing name in "%s"
+signatures
+Prototype not terminated
+when is experimental
+Missing right brace on \x{}
+Useless use of \E
+parse_block
+parse_barestmt
+parse_label
+parse_fullstmt
+parse_stmtseq
+Slurpy parameter not last
+%s (...) interpreted as function
+Can't find string terminator %c%s%c anywhere before EOF
+Warning: Use of "%d%lu%4p" without parentheses is ambiguous
+Parsing code internal error (%s)
+Lexing code internal error (%s)
+Lexing code attempted to stuff non-Latin-1 character into Latin-1 input
+Prototype after '%c' for %-p : %s
+Missing ']' in prototype for %-p : %s
+Illegal character in prototype for %-p : %s
+Illegal character after '_' in prototype for %-p : %s
+Source filters apply only to byte streams
+filter_del can only delete in reverse order (currently)
+;}continue{print or die qq(-p destination: $!\n);}
+Use of literal control characters in variable names is deprecated
+Use of literal non-graphic characters in variable names is deprecated
+Ambiguous use of %c{%s%s} resolved to %c%s%s
+Ambiguous use of %c{%-p} resolved to %c%-p
+panic: utf16_textfilter called in block mode (for %d characters)
+panic: utf16_textfilter called after error (status=%ld)
+  (Might be a runaway multi-line %c%c string starting on line %ld)
+%s found where operator expected
+	(Missing semicolon on previous line?)
+	(Do you need to predeclare %d%lu%4p?)
+	(Missing operator before %d%lu%4p?)
+Unknown regexp modifier "/%.*s"
+Regexp modifiers "/%c" and "/%c" are mutually exclusive
+Regexp modifier "/%c" may not appear twice
+Regexp modifier "/a" may appear a maximum of twice
+Use of /c modifier is meaningless without /g
+Having more than one /%c regexp modifier is deprecated
+}} did not return a defined value
+Integer overflow in decimal number
+0b11111111111111111111111111111111
+Hexadecimal float: exponent underflow
+Hexadecimal float: exponent overflow
+Hexadecimal float: mantissa overflow
+"%s" not allowed in expression
+Missing right curly or square bracket
+No package name allowed for variable %s in "our"
+Possible unintended interpolation of %d%lu%4p in string
+Bad evalled substitution pattern
+Sequence (?{...}) not terminated with ')'
+Invalid range "%c-%c" in transliteration operator
+Ambiguous range in transliteration operator
+Possible unintended interpolation of $\ in regex
+Unrecognized escape \%c passed through
+'%.*s' resolved to '\o{%.*s}%c'
+Non-octal character '%c'.  Resolved as "\o{%.*s}"
+Missing right brace on \N{} or unescaped left brace after \N
+Invalid hexadecimal number in \N{U+...}
+Malformed UTF-8 character immediately after '%.*s'
+NO-BREAK SPACE in a charnames alias definition is deprecated
+charnames alias definitions may not contain trailing white-space; marked by <-- HERE in %.*s<-- HERE %.*s
+Malformed UTF-8 returned by %.*s immediately after '%.*s'
+Invalid character in \N{...}; marked by <-- HERE in %.*s<-- HERE %.*s
+charnames alias definitions may not contain a sequence of multiple spaces; marked by <-- HERE in %.*s<-- HERE %.*s
+Character following "\c" must be printable ASCII
+"\c%c" is more clearly written simply as "%s"
+Missing control char name in \c
+panic: constant overflowed allocated space, %lu >= %lu
+Unrecognized character %s; marked by <-- HERE after %d%lu%4p<-- HERE near column %d
+BEGIN { require 'perl5db.pl' };
+Unsupported script encoding UTF-32LE
+Unsupported script encoding UTF-32BE
+panic: input overflow, %p > %p
+Postfix dereference is experimental
+Use of := for an empty attribute list is not allowed
+Unterminated attribute parameter in attribute list
+The 'unique' attribute may only be applied to 'our' variables
+:const is not permitted on named subroutines
+Invalid separator character %c%c%c in attribute list
+Unmatched right square bracket
+Unterminated delimiter for here document
+Use of bare << to mean <<"" is deprecated
+Delimiter for here document is too long
+Use of comma-less variable list is deprecated
+Multidimensional syntax %d%lu%4p not supported
+Can't use \%c to mean $%c in expression
+Bad plugin affecting keyword '%s'
+dump() better written as CORE::dump()
+Ambiguous call resolved as CORE::%s(), qualify as such or use &
+Bareword "%d%lu%4p" refers to nonexistent package
+Operator or semicolon missing before %c%d%lu%4p
+Ambiguous use of %c resolved as operator %c
+CORE::%d%lu%4p is not a keyword
+Experimental "%s" subs not enabled
+The lexical_subs feature is experimental
+Precedence problem: open %d%lu%4p should be open(%d%lu%4p)
+Possible attempt to separate words with commas
+Possible attempt to put comments in qw() list
+<> at require-statement should be quotes
+Substitution pattern not terminated
+Substitution replacement not terminated
+Use of /c modifier is meaningless in s///
+Illegal declaration of anonymous subroutine
+Illegal declaration of subroutine %-p
+Transliteration pattern not terminated
+Transliteration replacement not terminated
+Optional parameter lacks default expression
+Mandatory parameter follows optional parameter
+Odd name/value argument for subroutine at %s line %d.
+Too few arguments for subroutine at %s line %d.
+Too many arguments for subroutine at %s line %d.
+our @F=split(q
+AUnimplemented
+The signatures feature is experimental
+jklmnop
+$2456789>?@ABCDLXYZ`adfg
+ "#%&'()*./01eqz
+!xyzvv
+dddq
+IJKM	
+d3:;<=NOQRSTUVW\]^_bd	
+ddddCZd
+ddq-
+e'()*.0yzx
+>dfg
+}sssssC
+sdssq
+ggggc
+ggdce
+r{|	e
+ccccd
+t~cttvGeq
+vettu+,
+vtdt
+fedi
+H@AN>?BC
+G,/:
+ikjljmjnjojpjqrstuvvwwxxyyzz{z|zz}zzzzzzzz~
+zzzz
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLNQRSTUVWZ[\]^_`ab%d%lu%4p never introduced
+panic: pad_free po
+%2d. 0x%lx<%lu>
+Subroutin
+Variabl
+pad.c
+panic: no pad in cv_clone
+panic: pad_alloc, %p!=%p
+scope
+Can't undef active subroutine
+panic: pad_swipe curpad, %p!=%p
+panic: pad_swipe po=%ld, fill=%ld
+panic: pad_free curpad, %p!=%p
+PADNAME = 0x%lx(0x%lx) PAD = 0x%lx(0x%lx)
+%2d. 0x%lx<%lu> FAKE "%s" flags=0x%lx index=%lu
+%2d. 0x%lx<%lu> (%lu,%lu) "%s"
+%se "%d%lu%4p" is not available
+Constants from lexical variables potentially modified elsewhere are deprecated
+panic: pad_add_name_pvn illegal flag bits 0x%lx
+"%s" %s %d%lu%4p masks earlier declaration in same %s
+"our" variable %d%lu%4p redeclared
+	(Did you mean "local" instead of "our"?)
+panic: pad_findlex illegal flag bits 0x%lx
+%se "%d%lu%4p" will not stay shared
+panic: pad_findmy_pvn illegal flag bits 0x%lx
+panic: reg_node overrun trying to emit %d, %p>=%p
+Sequence (?#... not terminated
+Overloaded qr did not return a REGEXP
+panic: attempting to append to an inversion list, but wasn't at the end of the list, final=%lu, start=%lu, match=%c
+Group name must start with a non-digit word character
+panic: no svname in reg_scan_name
+Reference to nonexistent named group
+panic: bad flag %lx in reg_scan_name
+panic: re_dup unknown data code '%c'
+Regexp modifier "%c" may appear a maximum of twice
+Regexp modifier "%c" may not appear twice
+Regexp modifiers "%c" and "%c" are mutually exclusive
+Regexp modifier "%c" may not appear after the "-"
+Useless (%s%c) - %suse /%c modifier in regex; marked by <-- HERE in m/%d%lu%4p <-- HERE %d%lu%4p/
+Useless (%sc) - %suse /gc modifier in regex; marked by <-- HERE in m/%d%lu%4p <-- HERE %d%lu%4p/
+Useless use of (?-p) in regex; marked by <-- HERE in m/%d%lu%4p <-- HERE %d%lu%4p/
+Sequence (%d%lu%4p...) not recognized
+panic: Unknown flags %d in named_buff_iter
+panic: Unknown flags %d in named_buff_scalar
+panic: Unknown flags %d in named_buff
+panic: Incorrect version for previously generated inversion list
+Perl folding rules are not up-to-date for 0x%02X; please use the perlbug utility to report; in regex; marked by <-- HERE in m/%d%lu%4p <-- HERE %d%lu%4p/
+%sCan't dump inversion list because is in middle of iterating
+Corrupted regexp opcode %d > %d
+In '(*VERB...)', the '(' and '*' must be adjacent
+Unterminated verb pattern argument
+Unknown verb pattern '%d%lu%4p'
+Verb pattern '%.*s' may not have an argument
+Verb pattern '%.*s' has a mandatory argument
+In '(?...)', the '(' and '?' must be adjacent
+Sequence %.3s... not terminated
+Sequence (%.*s...) not recognized
+Sequence (?%c... not terminated
+panic: reg_scan_name returned NULL
+panic: paren_name hash element allocation failed
+Sequence (?%c...) not implemented
+Sequence (?&... not terminated
+Reference to nonexistent group
+panic: Sequence (?{...}): no code block found
+Eval-group not allowed at runtime, use re 'eval'
+Sequence (?(%c... not terminated
+Switch condition not recognized
+panic: regbranch returned NULL, flags=%#lx in regex m/%d%lu%4p%s/
+(?(DEFINE)....) does not allow branches
+Switch (?(condition)... not terminated
+Switch (?(condition)... contains too many branches
+Unknown switch condition (?(...))
+\N{NAME} must be resolved by the lexer
+panic: reg returned NULL to grok_bslash_N, flags=%#lx in regex m/%d%lu%4p%s/
+Use \x{...} for more than two hex characters
+POSIX syntax [%c %c] belongs inside character classes in regex; marked by <-- HERE in m/%d%lu%4p <-- HERE %d%lu%4p/
+POSIX class [:%d%lu%4p:] unknown
+POSIX syntax [%c %c] is reserved for future extensions
+panic: grok_bslash_N set RESTART_UTF8
+\N in a character class must be a named character: \N{...}
+Ignoring zero length \N{} in character class in regex; marked by <-- HERE in m/%d%lu%4p <-- HERE %d%lu%4p/
+\N{} in inverted character class or as a range end-point is restricted to one character
+Using just the first character returned by \N{} in character class in regex; marked by <-- HERE in m/%d%lu%4p <-- HERE %d%lu%4p/
+Property '%d%lu%4p' is unknown
+Invalid escape in the specified encoding
+Invalid escape in the specified encoding in regex; marked by <-- HERE in m/%d%lu%4p <-- HERE %d%lu%4p/
+Unrecognized escape \%c in character class
+Unrecognized escape \%c in character class passed through in regex; marked by <-- HERE in m/%d%lu%4p <-- HERE %d%lu%4p/
+False [] range "%d%lu%4p" in regex; marked by <-- HERE in m/%d%lu%4p <-- HERE %d%lu%4p/
+False [] range "%*.*s" in regex; marked by <-- HERE in m/%d%lu%4p <-- HERE %d%lu%4p/
+Both or neither range ends should be Unicode in regex; marked by <-- HERE in m/%d%lu%4p <-- HERE %d%lu%4p/
+Ranges of ASCII printables should be some subset of "0-9", "A-Z", or "a-z" in regex; marked by <-- HERE in m/%d%lu%4p <-- HERE %d%lu%4p/
+Ranges of digits should be from the same group of 10 in regex; marked by <-- HERE in m/%d%lu%4p <-- HERE %d%lu%4p/
+"%.*s" is more clearly written simply as "%s" in regex; marked by <-- HERE in m/%d%lu%4p <-- HERE %d%lu%4p/
+panic: regclass returned NULL to handle_sets, flags=%#lx in regex m/%d%lu%4p%s/
+The regex_sets feature is experimental in regex; marked by <-- HERE in m/%d%lu%4p <-- HERE %d%lu%4p/
+panic: Read past end of '(?[ ])'
+Unexpected '(' with no preceding operator
+Unexpected binary operator '%c' with no preceding operand
+Operand with no preceding operator
+Incomplete expression within '(?[ ])'
+panic: regclass returned NULL to regatom, flags=%#lx in regex m/%d%lu%4p%s/
+panic: reg returned NULL to regatom, flags=%#lx in regex m/%d%lu%4p%s/
+\C is deprecated in regex; marked by <-- HERE in m/%d%lu%4p <-- HERE %d%lu%4p/
+'%d%lu%4p' is an unknown bound type
+Using /u for '%.*s' instead of /%s in regex; marked by <-- HERE in m/%d%lu%4p <-- HERE %d%lu%4p/
+Sequence %.2s... not terminated
+Reference to nonexistent or unclosed group
+Unrecognized escape \%.*s passed through in regex; marked by <-- HERE in m/%d%lu%4p <-- HERE %d%lu%4p/
+Unescaped left brace in regex is deprecated, passed through in regex; marked by <-- HERE in m/%d%lu%4p <-- HERE %d%lu%4p/
+panic: regatom returned NULL, flags=%#lx in regex m/%d%lu%4p%s/
+Quantifier in {,} bigger than %d
+Quantifier {n,m} with n > m can't match in regex; marked by <-- HERE in m/%d%lu%4p <-- HERE %d%lu%4p/
+Useless use of greediness modifier '%c' in regex; marked by <-- HERE in m/%d%lu%4p <-- HERE %d%lu%4p/
+%d%lu%4p matches null string many times in regex; marked by <-- HERE in m/%d%lu%4p <-- HERE %d%lu%4p/
+panic: regpiece returned NULL, flags=%#lx in regex m/%d%lu%4p%s/
+panic! In trie construction, unknown node type %u %s
+error creating/fetching widecharmap entry for 0x%lX
+panic! In trie construction, no char mapping for %ld
+Quantifier unexpected on zero-length expression in regex m/%d%lu%4p/
+Variable length lookbehind not implemented
+Lookbehind longer than %lu not implemented in regex m/%d%lu%4p%s/
+Eval-group in insecure regular expression
+panic: reg returned NULL to re_op_compile for sizing pass, flags=%#lx
+panic: reg returned NULL to re_op_compile for generation pass, flags=%#lx
+reg2Lanode
+reganode
+reg_node
+Regexp
+%s in regex m/%d%lu%4p%s/
+Non-octal character
+regcomp.c
+panic: regfree data code '%c'
+don't 
+Sequence (?... not terminated
+PERL_RE_COLORS
+regcomp
+%04lX	INFINITY
+%04lX	%04lX
+%s[%lu] 0x%04lX .. INFINITY
+%s[%lu] 0x%04lX .. 0x%04lX
+%s[%lu] 0x%04lX
+Unterminated verb pattern
+ACCEPT
+COMMIT
+PRUNE
+Sequence (?R) not terminated
+Illegal pattern
+Expecting close bracket
+DEFINE
+Sequence (? incomplete
+Unmatched (
+Unmatched )
+Junk on end of regexp
+Non-hex character
+Unmatched '%c' in POSIX class
+alph
+spac
+grap
+asci
+blan
+cntr
+alnu
+lowe
+uppe
+digi
+prin
+punc
+xdigit
+Unmatched '[' in POSIX class
+Zero length \N{}
+Empty \%c{}
+Missing right brace on \%c{}
+%s%.*s%s
+%s::%s
+%cutf8::%d%lu%4p
+Need exactly 3 octal digits
+Invalid [] range "%d%lu%4p"
+False [] range "%*.*s"
+False [] range "%d%lu%4p"
+(?[...]) not valid in locale
+Syntax error in (?[...])
+Expecting '(?flags:(?[...'
+Unexpected ')'
+Unexpected character
+\x{%lX}-\x{%lX}
+Unmatched [
+Internal urp
+Quantifier follows nothing
+Reference to invalid group 0
+Unterminated \g... pattern
+Unterminated \g{...} pattern
+Trailing \
+Internal disaster
+Invalid quantifier in {,}
+Nested quantifiers
+E_TRIE_MAXBUF
+msixxn
+Regexp out of space
+IMPLICIT
+NAUGHTY
+VERBARG_SEEN
+CUTGROUP_SEEN
+USE_RE_EVAL
+NOSCAN
+CANY_SEEN
+GPOS_SEEN
+GPOS_FLOAT
+ANCH_MBOL
+ANCH_SBOL
+ANCH_GPOS
+MULTILINE
+SINGLELINE
+FOLD
+EXTENDED
+EXTENDED_MORE
+NOCAPTURE
+KEEPCOPY
+CHARSET0
+CHARSET1
+CHARSET2
+STRICT
+SPLIT
+UNUSED_BIT_12
+UNUSED_BIT_13
+UNUSED_BIT_14
+UNUSED_BIT_15
+NO_INPLACE_SUBST
+EVAL_SEEN
+UNBOUNDED_QUANTIFIER_SEEN
+CHECK_ALL
+MATCH_UTF8
+USE_INTUIT_NOML
+USE_INTUIT_ML
+INTUIT_TAIL
+IS_ANCHORED
+COPY_DONE
+TAINTED_SEEN
+START_ONLY
+NULL
+SUCCEED
+SEOL
+MEOL
+NBOUND
+NBOUNDL
+NBOUNDU
+NBOUNDA
+REG_ANY
+SANY
+CANY
+ANYOF
+ANYOFL
+NPOSIXD
+NPOSIXL
+NPOSIXU
+NPOSIXA
+CLUMP
+BRANCH
+EXACT
+EXACTL
+EXACTF
+EXACTFL
+EXACTFU
+EXACTFA
+EXACTFU_SS
+EXACTFLU8
+EXACTFA_NO_TRIE
+NOTHING
+STAR
+PLUS
+CURLY
+CURLYN
+CURLYM
+CURLYX
+WHILEM
+OPEN
+CLOSE
+NREF
+NREFF
+NREFFL
+NREFFU
+NREFFA
+LONGJMP
+BRANCHJ
+IFMATCH
+UNLESSM
+SUSPEND
+IFTHEN
+MINMOD
+LOGICAL
+RENUM
+TRIEC
+AHOCORASICK
+AHOCORASICKC
+GOSUB
+GOSTART
+NGROUPP
+INSUBP
+DEFINEP
+ENDLIKE
+OPFAIL
+VERB
+MARKPOINT
+CUTGROUP
+KEEPS
+LNBREAK
+OPTIMIZED
+PSEUDO
+TRIE_next
+TRIE_next_fail
+EVAL_AB
+EVAL_AB_fail
+CURLYX_end
+CURLYX_end_fail
+WHILEM_A_pre
+WHILEM_A_pre_fail
+WHILEM_A_min
+WHILEM_A_min_fail
+WHILEM_A_max
+WHILEM_A_max_fail
+WHILEM_B_min
+WHILEM_B_min_fail
+WHILEM_B_max
+WHILEM_B_max_fail
+BRANCH_next
+BRANCH_next_fail
+CURLYM_A
+CURLYM_A_fail
+CURLYM_B
+CURLYM_B_fail
+IFMATCH_A
+IFMATCH_A_fail
+CURLY_B_min_known
+CURLY_B_min_known_fail
+CURLY_B_min
+CURLY_B_min_fail
+CURLY_B_max
+CURLY_B_max_fail
+COMMIT_next
+COMMIT_next_fail
+MARKPOINT_next
+MARKPOINT_next_fail
+SKIP_next
+SKIP_next_fail
+CUTGROUP_next
+CUTGROUP_next_fail
+KEEPS_next
+KEEPS_next_fail
+=!<,>
+*+,-./03456789:;<>AB
+((*+,,,,0123333333333=>>>>>CDEF>HHHHLMNOPQQQTTTTTTZ[(]HHDD//0000000000
+....??,,,,,,XXVVWWYYZZ
+<NULLGV>
+%c%-p
+[%lu]
+[%d%lu%4p
+%cx%02lx
+%cx{%02lx}
+%c%03o
+%c%o
+WILD
+SV_UNDEF
+SV_YES
+SV_PLACEHOLDER
+<%lu%s>
+CV(%s)
+FREED
+[%s]
+ [UTF8 "%s"]
+(%g)
+(%ld)
+ [tainted]
+SV_NO
+SUB %s = 
+(xsub 0x%lx %d)
+<undef>
+FORMAT %s = 
+ (RUNTIME)
+PMf_PRE %c%.*s%c%s
+PMf_PRE (RUNTIME)
+PMf_REPL = 
+CODE_LIST =
+CODE_LIST = 0x%lx
+,ONCE
+:USED
+,TAINTED
+,SCANFIRST
+,ALL
+,SKIPWHITE
+PMFLAGS = (%s)
+(%lu)
+%-4lu
+????
+%*sTYPE = %s  ===> 
+NULL
+  (was %s)
+TARG = %ld
+,VOID
+,SCALAR
+,LIST
+,UNKNOWN
+,SLABBED
+,SAVEFREE
+,STATIC
+,FOLDED
+,MORESIB
+PRIVATE = (%s)
+PRIVATE = (0x%lx)
+PADIX = %ld
+ARGS = 
+%lu => 0x%lx
+LINE = %lu
+PACKAGE = "%s"
+LABEL = "%s"
+SEQ = %u
+REDO ===> 
+DONE
+NEXT ===> 
+LAST ===> 
+OTHER ===> 
+REFCNT = %lu
+GV_NAME = %s
+-> %s
+%s = 0x%lx
+	"%s"
+"%s" :: "
+ANON
+MAIN
+UNIQUE
+UNDEFINED
+ALIASED_SV
+STANDARD
+PLUG-IN
+SV = 0
+PADSTALE,
+PADTMP,
+ROK,
+WEAKREF,
+IsCOW,
+PCS_IMPORTED,
+SCREAM,
+IMPORT
+EVALED,
+IsUV,
+VALID,
+SV = 
+%s%s
+UNKNOWN(0x%lx) %s
+  UV = %lu
+  IV = %ld
+  NV = %.*g
+  RV = 0x%lx
+  OFFSET = %lu
+  PV = 0x%lx 
+( %s . ) 
+    
+  CUR = %ld
+  LEN = %ld
+  COW_REFCNT = %d
+  PV = 0
+  STASH
+  USEFUL = %ld
+  ARRAY = 0x%lx
+ (offset=%ld)
+  ALLOC = 0x%lx
+  FILL = %ld
+  MAX = %ld
+  ARYLEN = 0x%lx
+,REAL
+,REIFY
+  FLAGS = (%s)
+Elt No. %ld
+  AUX_FLAGS = %lu
+%d%s:%d
+  hash quality = %.1f%%
+  KEYS = %ld
+  FILL = %lu (cached = %lu)
+  FILL = %lu
+  RITER = %ld
+  EITER = 0x%lx
+  RAND = 0x%lx
+ (LAST = 0x%lx)
+  PMROOT = 0x%lx
+  NAME = "%s"
+  NAMECOUNT = %ld
+, "%s"
+, (null)
+  ENAME = %s
+  ENAME = "%s"
+  BACKREFS = 0x%lx
+  MRO_WHICH = "%s" (0x%lx)
+  CACHE_GEN = 0x%lx
+  PKG_GEN = 0x%lx
+  MRO_LINEAR_ALL = 0x%lx
+  MRO_LINEAR_CURRENT = 0x%lx
+  MRO_NEXTMETHOD = 0x%lx
+  ISA = 0x%lx
+Elt %s 
+[UTF8 "%s"] 
+[CURRENT] 
+HASH = 0x%lx
+  AUTOLOAD = "%s"
+  PROTOTYPE = "%s"
+  COMP_STASH
+  START = 0x%lx ===> %ld
+  ROOT = 0x%lx
+  XSUB = 0x%lx
+  XSUBANY = 0x%lx (CONST SV)
+  XSUBANY = %ld
+  GVGV::GV
+  DEPTH = %ld
+  FLAGS = 0x%lx
+  OUTSIDE_SEQ = %lu
+  PADLIST = 0x%lx
+  HSCXT = 0x%p
+  OUTSIDE = 0x%lx (%s)
+  TYPE = %c
+  TARGOFF = %ld
+  TARGLEN = %ld
+  TARG = 0x%lx
+  FLAGS = %ld
+  NAMELEN = %ld
+  GvSTASH
+  GP = 0x%lx
+    SV = 0x%lx
+    REFCNT = %ld
+    IO = 0x%lx
+    FORM = 0x%lx  
+    AV = 0x%lx
+    HV = 0x%lx
+    CV = 0x%lx
+    CVGEN = 0x%lx
+    GPFLAGS = 0x%lx (%s)
+    LINE = %ld
+    FILE = "%s"
+    EGV
+  IFP = 0x%lx
+  OFP = 0x%lx
+  DIRP = 0x%lx
+  LINES = %ld
+  PAGE = %ld
+  PAGE_LEN = %ld
+  LINES_LEFT = %ld
+  TOP_NAME = "%s"
+  TOP_GV
+  TOP_GV = 0x%lx
+  FMT_NAME = "%s"
+  FMT_GV
+  FMT_GV = 0x%lx
+  BOTTOM_NAME = "%s"
+  BOTTOM_GV
+  BOTTOM_GV = 0x%lx
+  TYPE = '%c'
+  TYPE = '\%o'
+  COMPFLAGS = 0x%lx (%s)
+  EXTFLAGS = 0x%lx (%s)
+  ENGINE = 0x%lx (%s)
+  INTFLAGS = 0x%lx (%s)
+  INTFLAGS = 0x%lx
+  NPARENS = %lu
+  LASTPAREN = %lu
+  LASTCLOSEPAREN = %lu
+  MINLEN = %ld
+  MINLENRET = %ld
+  GOFS = %lu
+  PRE_PREFIX = %lu
+  SUBLEN = %ld
+  SUBOFFSET = %ld
+  SUBCOFFSET = %ld
+  SUBBEG = 0x%lx %s
+  SUBBEG = 0x0
+  MOTHER_RE = 0x%lx
+  PAREN_NAMES = 0x%lx
+  SUBSTRS = 0x%lx
+  PPRIVATE = 0x%lx
+  OFFS = 0x%lx
+  QR_ANONCV = 0x%lx
+  SAVED_COPY = 0x%lx
+arylen(#)
+sv(\0)
+  MAGIC = 0x%lx
+    MG_VIRTUAL = &PL_vtbl_%s
+    MG_VIRTUAL = 0x%lx
+    MG_VIRTUAL = 0
+    MG_PRIVATE = %d
+    MG_FLAGS = 0x%02X
+      TAINTEDDIR
+      MINMATCH
+      REFCOUNTED
+      GSKIP
+      COPY
+      DUP
+      LOCAL
+      BYTES
+    MG_OBJ = 0x%lx
+    PAT = %s
+    MG_LEN = %ld
+    MG_PTR = 0x%lx
+ => HEf_SVKEY
+      %2ld: %lu -> %lu
+    MG_TYPE = PERL_MAGIC_%s
+    MG_TYPE = UNKNOWN(\%o)
+UNKNOWN(%d)
+(cv ref: %s)
+(NULL)
+NULL OP IN RUN
+%5lu %s
+SKIP,
+IMPLICIT,
+NAUGHTY,
+VERBARG_SEEN,
+CUTGROUP_SEEN,
+USE_RE_EVAL,
+NOSCAN,
+CANY_SEEN,
+GPOS_SEEN,
+GPOS_FLOAT,
+ANCH_MBOL,
+ANCH_SBOL,
+ANCH_GPOS,
+PMf_MULTILINE,
+PMf_SINGLELINE,
+PMf_FOLD,
+PMf_EXTENDED,
+PMf_EXTENDED_MORE,
+PMf_KEEPCOPY,
+PMf_NOCAPURE,
+IS_ANCHORED,
+NO_INPLACE_SUBST,
+EVAL_SEEN,
+CHECK_ALL,
+MATCH_UTF8,
+USE_INTUIT_NOML,
+USE_INTUIT_ML,
+INTUIT_TAIL,
+SPLIT,
+COPY_DONE,
+TAINTED_SEEN,
+TAINTED,
+START_ONLY,
+SKIPWHITE,
+NULL,
+INTRO,
+MULTI,
+ASSUMECV,
+SHAREKEYS,
+LAZYDEL,
+HASKFLAGS,
+OVERLOAD,
+CLONEABLE,
+ANON,
+UNIQUE,
+CLONE,
+CLONED,
+CONST,
+NODEBUG,
+LVALUE,
+METHOD,
+WEAKOUTSIDE,
+CVGV_RC,
+DYNFILE,
+AUTOLOAD,
+HASEVAL,
+SLABBED,
+NAMED,
+LEXICAL,
+ISXSUB,
+OOK,
+FAKE,
+READONLY,
+PROTECT,
+BREAK,
+pIOK,
+pNOK,
+pPOK,
+TEMP,
+OBJECT,
+GMG,
+SMG,
+RMG,
+rhash(%)
+debugvar(*)
+pos(.)
+symtab(:)
+backref(<)
+arylen_p(@)
+bm(B)
+overload_table(c)
+regdata(D)
+regdatum(d)
+env(E)
+envelem(e)
+fm(f)
+regex_global(g)
+hints(H)
+hintselem(h)
+isa(I)
+isaelem(i)
+nkeys(k)
+dbfile(L)
+dbline(l)
+shared(N)
+shared_scalar(n)
+collxfrm(o)
+tied(P)
+tiedelem(p)
+tiedscalar(q)
+qr(r)
+sig(S)
+sigelem(s)
+taint(t)
+uvar(U)
+uvar_elem(u)
+vstring(V)
+vec(v)
+utf8(w)
+substr(x)
+defelem(y)
+lvref(\)
+checkcall(])
+ext(~)
+,KIDS
+,PARENS
+,REF
+,MOD
+,STACKED
+,SPECIAL
+,CONST
+,KEEP
+,GLOBAL
+,CONTINUE
+,RETAINT
+,EVAL
+,NONDESTRUCT
+,HAS_CV
+,CODELIST_PRIVATE
+,IS_QR
+INVLST
+PVIV
+PVNV
+PVMG
+REGEXP
+PVLV
+INVLIST
+PVGV
+PVAV
+PVHV
+PVCV
+PVFM
+PVIO
+(0x%lx) at 0x%lx
+%*s  REFCNT = %ld
+%*s  FLAGS = (
+ ???? - dump.c does not know how to handle this MG_LEN
+WARNING: %lx changed from %lx to %lx
+WATCHING, %lx is currently %lx
+Y@PRINT
+panic: POPSTACK
+ at %s line %ld
+, <%-p> %s %ld
+ during global destruction
+util.c
+EXEC
+Insecure %s%s
+Can't fork: %s
+closed
+unopened
+socket
+%s%s on %s %s%s%-p
+width
+Integer overflow in version
+v.Inf
+original
+vinf
+POSIX
+%.9f
+Invalid version object
+%0*d_%d
+%0*d
+v%ld
+.%ld
+/dev/urandom
+PERL_HASH_SEED
+PERL_PERTURB_KEYS
+XS_VERSION
+v5.22.0
+%-p::%s
+$%-p::%s %-p
+bootstrap parameter %-p
+execute
+ on PATH
+, '.' not in PATH
+Can't %s %s%s%s
+Can't fork, trying again in 5 seconds
+panic: kid popen errno read, n=%u
+panic: pthread_setspecific, error=%d
+Filehandle %2p opened only for %sput
+Filehandle opened only for %sput
+	(Are you trying to call %s%s on dirhandle%s%-p?)
+Invalid version format (dotted-decimal versions require at least three parts)
+Invalid version format (no leading zeros)
+Invalid version format (maximum 3 digits between decimals)
+Invalid version format (no underscores)
+Invalid version format (multiple underscores)
+Invalid version format (underscores before decimal)
+Invalid version format (0 before decimal required)
+Invalid version format (negative version number)
+Invalid version format (version required)
+Invalid version format (non-numeric data)
+Invalid version format (alpha without decimal)
+Invalid version format (misplaced underscore)
+Invalid version format (fractional part required)
+Invalid version format (dotted-decimal versions must begin with 'v')
+Integer overflow in version %d
+Version string '%s' contains invalid data; ignoring: '%s'
+Unknown Unicode option letter '%c'
+Unknown Unicode option value %lu
+perl: warning: Non hex character in '$ENV{PERL_HASH_SEED}', seed only partially set
+perl: warning: strange setting in '$ENV{PERL_PERTURB_KEYS}': '%s'
+panic: my_snprintf buffer overflow
+panic: my_vsnprintf buffer overflow
+%s: loadable library and perl binaries are mismatched (got handshake key %p, needed %p)
+Perl API version %s of %-p does not match %s
+%-p object version %-p does not match 
+p@encoding
+Size magic not implemented
+open<
+open>
+_NCODING
+(unknown)
+warnings::Bits
+UUUUUUUUUUUUUUUUU
+setenv
+Wide character in %s
+STORE
+DELETE
+FETCHSIZE
+CLEAR
+NEXTKEY
+FIRSTKEY
+EXISTS
+substr outside of string
+ CODE
+a negative integer
+encoding::
+assigning to $^O
+mg.c
+Can't set $0 with prctl(): %s
+CHLD
+IGNORE
+__DIE__
+__WARN__
+No such hook: %s
+No such signal: SIG%s
+DEFAULT
+signo
+Maximal count of pending signals (%lu) exceeded
+FETCHSIZE returned a negative value
+panic: magic_setdbline len=%ld, ptr='%s'
+Attempt to set length of freed array
+Attempt to use reference as lvalue in substr
+Assigned value is not a reference
+Assigned value is not a%s reference
+Setting ${^ENCODING} is deprecated
+Setting $/ to a reference to %s as a form of slurp is deprecated, treating as undef
+Setting $/ to a%s %s reference is forbidden
+Assigning non-zero to $[ is no longer possible
+Signal SIG%s received, but no signal handler set.
+SIG%s handler "%2p" not defined.
+SIG%s handler "__ANON__" not defined.
+gethostbyaddr
+gethostbyname
+gethostent
+getgrnam
+getgrgid
+getgrent
+getnetbyaddr
+getnetbyname
+getnetent
+getpwnam
+getpwuid
+getpwent
+getprotobyname
+getprotobynumber
+getprotoent
+getservbyname
+getservbyport
+getservent
+panic: hv_store() failed in set_mro_private_data() for '%.*s' %d
+panic: hv_store() failed in mro_register() for '%.*s' %d
+Can't linearize anonymous symbol table
+Recursive inheritance detected in package '%2p'
+Can't call mro_isa_changed_in() on anonymous symbol table
+Can't call mro_method_changed_in() on anonymous symbol table
+panic: invalid MRO!
+classname
+No such class: '%-p'!
+Invalid mro name: '%-p'
+mro::method_changed_in
+mro_core.c
+elseif should be elsif
+__SUB__
+ (utf8)
+%ld/%ld
+panic: hv name too long (%lu)
+panic: hv_placeholders_p
+fetch
+store
+delete
+panic: hv_placeholders_set
+hv.c
+Attempt to free nonexistent shared string '%s'%s, Perl interpreter: 0x%p
+panic: refcounted_he_value bad flags %lx
+Use of each() on hash after insertion without resetting hash iterator results in undefined behavior, Perl interpreter: 0x%p
+Attempt to delete readonly key '%-p' from a restricted hash
+Attempt to delete disallowed key '%-p' from a restricted hash
+Attempt to access disallowed key '%-p' in a restricted hash
+panic: refcounted_he_chain_2hv bad flags %lx
+panic: refcounted_he_fetch_pvn bad flags %lx
+panic: refcounted_he_fetch_sv bad flags %lx
+panic: refcounted_he_new_sv bad flags %lx
+panic: cop_store_label illegal flag bits 0x%lx
+Cannot modify shared string table in hv_%s
+NEGATIVE_INDICES
+EXTEND
+PUSH
+UNSHIFT
+STORESIZE
+Out of memory during array extend
+Out of memory during array extend
+Not %s reference
+panic: pp_match
+, core dumped
+READLINE
+$&*(){}[]'";\|?<>~`
+panic: pp_iter, type=%u
+Substitution loop
+Not a CODE reference
+a subroutine
+Closure prototype called
+Undefined subroutine called
+DB::lsub
+No DB::sub routine defined
+Not an ARRAY reference
+Not a HASH reference
+Can't call method "%-p" on unblessed reference
+Useless assignment to a temporary
+Can't return %s to lvalue scalar context
+Reference found where even-sized list expected
+Odd number of elements in hash assignment
+panic: attempt to copy freed scalar %p
+Assigned value is not a SCALAR reference
+panic: pp_match start/end pointers, i=%ld, start=%ld, end=%ld, s=%p, strend=%p, len=%lu
+glob failed (child exited with status %d%s)
+utf8 "\x%02X" does not map to Unicode
+Use of freed value in iteration
+panic: pp_subst, pm=%p, orig=%p
+Deep recursion on anonymous subroutine
+Deep recursion on subroutine "%-p"
+Can't use string ("%-32p"%s) as a subroutine ref while "strict refs" in use
+Undefined subroutine &%-p called
+Can't modify non-lvalue subroutine call
+Use of reference "%-p" as array index
+Can't call method "%-p" without a package or object reference
+Can't call method "%-p" on an undefined value
+Out of memory during array extend
+a HASH
+an ARRAY
+sv_vcatpvfn()
+Missing argument in %s
+sv_vcatpvfn
+panic: del_backref, svp=0
+DESTROY
+Not a subroutine reference
+sv.c
+join or string
+ in 
+Redundant argument in %s
+BbcDdiOopuUXx
+Cannot printf %g with '%c'
+panic: frexp: %Lg
+%c%+d
+\%03lo
+end of string
+%2p::%2p
+Bizarre copy of %s in %s
+Bizarre copy of %s
+Cannot copy to %s in %s
+Cannot copy to %s
+VSTRING
+LVALUE
+FORMAT
+GLOB
+Can't upgrade %s (%lu) to %lu
+IO::File::
+NULLREF
+Can't weaken a nonreference
+Reference is already weak
+Bizarre SvTYPE [%ld]
+sv_len_utf8
+utf8_mg_pos_cache_update
+sv_pos_u2b_cache
+sv_pos_b2u
+Wide character
+Argument "%s" isn't numeric
+cat_decode
+{%s}
+within 
+Wide character in $/
+CLONE_SKIP
+hash element
+exists
+${$/}
+Bad filehandle: %2p
+Bad filehandle: %-p
+Hexadecimal float: internal error (entry)
+Hexadecimal float: internal error (overflow)
+Integer overflow in format string for %s
+panic: %s cache %lu real %lu for %-p
+panic: del_backref, *svp=%p phase=%s refcnt=%lu
+panic: del_backref, *svp=%p, sv=%p
+DESTROY created new reference to dead object '%2p'
+Attempt to free unreferenced scalar: SV 0x%lx, Perl interpreter: 0x%p
+internal %%<num>p might conflict with future printf extensions
+vector argument not supported with alpha versions
+Invalid conversion in %sprintf: 
+panic: attempt to copy value %-p to a freed scalar %p
+panic: attempt to copy freed scalar %p to %p
+Undefined value assigned to typeglob
+sv_upgrade from type %d down to type %d
+panic: sv_upgrade to unknown type %lu
+panic: sv_chop ptr=%p, start=%p, end=%p
+Cloning substitution context is unimplemented
+panic: ss_dup inconsistency (%ld)
+panic: sv_pos_b2u: bad byte offset, blen=%lu, byte=%lu
+Don't know how to handle magic of type \%o
+panic: sv_setpvn called with negative strlen %ld
+Argument "%s" isn't numeric in %s
+sv_2iv assumed (U_V(fabs((double)SvNVX(sv))) < (UV)IV_MAX) but SvNVX(sv)=%g U_V is 0x%lx, IV_MAX is 0x%lx
+Invalid argument to sv_cat_decode
+Can't bless non-reference value
+panic: reference miscount on nsv in sv_replace() (%lu != 1)
+Can't coerce %s to integer in %s
+Can't coerce %s to number in %s
+Lost precision when incrementing %f by 1
+Argument "%s" treated as 0 in increment (++)
+Lost precision when decrementing %f by 1
+Can't coerce %s to string in %s
+panic: sv_insert, midend=%p, bigend=%p
+semi-panic: attempt to dup freed string
+panic: magic_killbackrefs (freed backref AV/SV)
+panic: magic_killbackrefs (flags=%lx)
+WATCHING: %lx cloned as %lx with value %lx
+(null)
+Not a GLOB reference
+a symbol
+Not a SCALAR reference
+ILEHANDLE
+ACKAGE
+(anonymous)
+Illegal division by zero
+Illegal modulus zero
+Can't take %s of %g
+Integer overflow in srand
+0 but true
+Cannot chr %g
+SPLICE
+panic: pp_split, pm=%p, s=%p
+Split loop
+[out of range]
+Too many
+Not enough
+scalar reference
+reference to one of [$@%*]
+reference to one of [$@%&*]
+%s arguments for %s
+panic: unknown OA_*: %x
+Not an unblessed ARRAY reference
+Can't return array to lvalue scalar context
+Can't return hash to lvalue scalar context
+Can't find an opnumber for "%d%lu%4p"
+Attempt to bless into a freed package
+Attempt to bless into a reference
+Explicit blessing to '' (assuming package main)
+Use of *glob{FILEHANDLE} is deprecated
+Constant subroutine %-p undefined
+Negative repeat count does nothing
+Out of memory during list extend
+Out of memory during string extend
+Non-finite repeat count does nothing
+Invalid negative number (%-p) in chr
+Can't modify index/value array slice in list assignment
+Type of argument to %s must be unblessed hashref or arrayref
+panic: avhv_delete no longer supported
+Can't modify key/value hash slice in list assignment
+Odd number of elements in anonymous hash
+splice() offset past end of array
+panic: unimplemented op %s (#%d) called
+Type of arg %d to &CORE::%s must be hash reference
+Type of arg %d to &CORE::%s must be %s
+panic: pad offset %lu out of range (%p-%p)
+panic: save_alloc elems %lu out of range (%ld-%ld)
+panic: corrupt saved stack index %ld
+panic: leave_scope inconsistency %u
+a temporary
+a readonly value
+Exiting %s via %s
+Label not found for "%s %-p"
+Unknown error
+Compilation error
+pathname
+%0*.*f
+%*.*f
+%#*.*f
+%#0*.*f
+Null picture in formline
+Not enough format arguments
+panic: bad gimme: %d
+	(in cleanup) %-p
+panic: die 
+(eval)
+No DB::DB routine defined
+panic: return, type=%u
+panic: last, type=%u
+redo
+Goto undefined subroutine
+DB::goto
+goto must have label
+panic: goto, type=%u, ix=%ld
+Can't find label %d%lu%4p
+v%d.%d.0
+Can't locate %s:   %s
+/loader/0x%lx/%s
+@INC entry
+Can't locate %s:   %s: %s
+ module)
+ (did you run h2ph?)
+Can't locate %s
+_<(eval %lu)[%s:%ld]
+_<(eval %lu)
+default
+pseudo-block
+format
+substitution
+Can't return %s from lvalue subroutine
+Can't return a %s from lvalue subroutine
+Target of goto is too deeply nested
+Smart matching a non-overloaded object breaks encapsulation
+Can't "%s" outside a loop block
+%-pCompilation failed in require
+Invalid \0 character in %s for %s: %s\0%s
+Repeated format line will never terminate (~~ and @#)
+Range iterator outside integer range
+Can't return outside a subroutine
+%-p did not return a true value
+Goto undefined subroutine &%-p
+Can't goto subroutine outside a subroutine
+Can't goto subroutine from an eval-string
+Can't goto subroutine from an eval-block
+Can't goto subroutine from a sort sub (or similar callback)
+Can't "goto" out of a pseudo block
+Can't "goto" into the middle of a foreach loop
+Use of "goto" to jump into a construct is deprecated
+Perls since %-p too modern--this is %-p, stopped
+Perl %-p required--this is only %-p, stopped
+Perl %-p required (did you mean %-p?)--this is only %-p, stopped
+Missing or undefined argument to require
+Attempt to reload %s aborted.
+Compilation failed in require
+ (you may need to install the 
+ (change .h to .ph maybe?) (did you run h2ph?)
+Can't locate %s in @INC%-p (@INC contains:%-p)
+Can't "%s" outside a topicalizer
+Can't "continue" outside a when block
+Can't "break" outside a given block
+Can't "break" in a loop topicalizer
+$@UTC
+	...caught
+Warning: something's wrong
+PROPAGATE
+	...propagated
+Died
+FILENO
+umask
+BINMODE
+TIEARRAY
+TIEHANDLE
+TIESCALAR
+Cannot tie unreifiable array
+UNTIE
+AnyDBM_File
+No dbm on this machine
+AnyDBM_File.pm
+Non-string passed as bitmask
+GETC
+Undefined format "%-p" called
+%2p_TOP
+page overflow
+PRINTF
+READ
+Negative length
+Offset outside string
+WRITE
+TELL
+SEEK
+truncate
+socketpair
+lstat() on filehandle%s%-p
+HOME
+LOGDIR
+chdir
+chroot
+rename
+mkdir
+rmdir
+system
+setpgrp
+setpriority
+localtime
+gmtime
+%s(%.0f) too large
+%s(%.0f) too small
+%s(%.0f) failed
+%s %s %2d %02d:%02d:%02d %ld
+getspnam
+getlogin
+Too many args to syscall
+Too few args to syscall
+OozScbfdpugkesMAC
+RWXrwx
+0 but true
+Opening dirhandle %2p also as a file
+Can't locate object method "%s" via package "%-p"
+Self-ties of arrays and hashes are not supported
+untie attempted while %lu inner references still exist
+Undefined top format "%-p" called
+Possible memory corruption: %s overflowed 3rd argument
+The stat preceding lstat() wasn't an lstat
+-T and -B not implemented on filehandles
+Use of chdir('') or chdir(undef) as chdir() is deprecated
+Opening filehandle %2p also as a directory
+readdir() attempted on invalid dirhandle %2p
+telldir() attempted on invalid dirhandle %2p
+seekdir() attempted on invalid dirhandle %2p
+rewinddir() attempted on invalid dirhandle %2p
+closedir() attempted on invalid dirhandle %2p
+@85.OW
+NONE
+panic: do_trans_count line %d
+Illegal number of bits in vec
+panic: do_trans_complex_utf8 line %d
+panic: do_trans_complex line %d
+panic: do_trans_simple_utf8 line %d
+panic: do_trans_simple line %d
+Bit vector size > 32 non-portable
+Negative offset to vec in lvalue context
+panic: do_vop called for op %u (%s)
+Warning: unable to close filehandle %2p properly.
+Filehandle STD%s reopened as %2p only for input
+Filehandle STDIN reopened as %2p only for output
+More than one argument to '%c&' open
+More than one argument to '>%c' open
+More than one argument to '<%c' open
+panic: sysopen with multiple args, num_svs=%ld
+Warning: unable to close filehandle %2p properly: %-p
+Warning: unable to close filehandle properly: %-p
+Can't do inplace edit: %s is not a regular file
+Can't rename %s to %-p: %s, skipping file
+Can't remove %s: %s, skipping file
+Can't do inplace edit on %s: %s
+The stat preceding -l _ wasn't an lstat
+Unrecognized signal name "%-p"
+Can't kill a non-numeric process ID
+Bad arg length for %s, is %lu, should be %ld
+glob failed (can't start child: %s)
+Can't exec "%s": %s
+sysopen
+Unknown open() mode '%.*s'
+Missing command in piped open
+Can't open bidirectional pipe
+ARGVOUT
+inplace open
+Can't open %s: %s
+print
+Use of -l on filehandle %2p
+Use of -l on filehandle
+lstat
+$&*(){}[]'";\|?<>~`
+chmod
+chown
+unlink
+utime
+Arg too short for msgsnd
+echo 
+|tr -s ' 	
+' '\n\n\n\n'|
+panic: isFOO_lc() has an unexpected character class '%d'
+Malformed UTF-8 character (fatal)
+Matched non-Unicode code point 0x%04lX against Unicode property; may not be portable
+panic: paren_elems_to_push, %i < 0, maxopenparen: %i parenfloor: %i REGCP_PAREN_ELEMS: %u
+panic: paren_elems_to_push offset %lu out of range (%lu-%ld)
+panic: invalid PL_utf8_foldclosures structure
+panic: regrepeat() node %d='%s' has an unexpected character class '%d'
+panic: regrepeat() called with unrecognized node type %d='%s'
+Use of \b{} or \B{} for non-UTF-8 locale is wrong.  Assuming a UTF-8 locale
+Pattern subroutine nesting without pos change exceeded limit in regex
+EVAL without pos change exceeded limit in regex
+Complex regular subexpression recursion limit (%d) exceeded
+panic: find_byclass() node %d='%s' has an unexpected character class '%d'
+Wide character (U+%lX) in %s
+panic: Unexpected op %u
+corrupted regexp pointers
+Infinite recursion in regex
+REGMARK
+%lx %d
+regexp memory corruption
+REGERROR
+panic: unknown regstclass %d
+corrupted regexp program
+%s: illegal mapping '%s'
+TYPE
+EXTRAS
+INVERT_IT
+UTF-16 surrogate U+%04lX
+Malformed UTF-8 character
+%s (empty string)
+Malformed UTF-16 surrogate
+SPECIALS
+SWASHNEW
+USER_DEFINED
+ToUc
+ToTc
+ToLc
+ToCf
+XIdContinue
+_Perl_IDStart
+_Perl_IDCont
+XIdStart
+\x{%lx}
+XPosixWord
+XPosixDigit
+XPosixAlpha
+XPosixLower
+XPosixUpper
+XPosixPunct
+XPosixPrint
+XPosixAlnum
+XPosixGraph
+Cased
+panic: swatch_get doesn't expect bits %lu
+panic: swatch_get found swatch size mismatch, bits=%lu, otherbits=%lu
+panic: swatch_get got improper swatch
+panic: swatch_get found swatch length mismatch, slen=%lu, olen=%lu
+Code point 0x%04lX is not Unicode, may not be portable
+Unicode non-character U+%04lX is illegal for open interchange
+%s (unexpected continuation byte 0x%02x, with no preceding start byte)
+%s (unexpected non-continuation byte 0x%02x, immediately after start byte 0x%02x)
+%s (unexpected non-continuation byte 0x%02x, %d bytes after start byte 0x%02x, expected %d bytes)
+%s (%d byte%s, need %d, after start byte 0x%02x)
+%s (overflow at byte 0x%02x, after start byte 0x%02x)
+Code point 0x%lX is not Unicode, and not portable
+Can't do %s("\x{%lX}") on non-UTF-8 locale; resolved to "\x{%lX}".
+Malformed UTF-8 character (unexpected non-continuation byte 0x%02x, immediately after start byte 0x%02x)%s%s
+panic: utf16_to_utf8: odd bytelen %lu
+panic: utf16_to_utf8_reversed: odd bytelen %lu
+panic: to_upper_title_latin1 did not expect '%c' to map to '%c'
+panic: swash_fetch got improper swatch, svp=%p, tmps=%p, slen=%lu, needents=%lu
+panic: swash_fetch got swatch of unexpected bit width, slen=%lu, needents=%lu
+panic: swash_inversion_hash doesn't expect bits %lu
+panic: value returned from hv_iternextsv() unexpectedly is not a string, flags=%lu
+panic: hv_store() unexpectedly failed
+panic: av_fetch() unexpectedly failed
+panic: unexpected entry for %s
+panic: Expecting a valid count of elements at start of inversion list
+panic: Expecting a valid 0th element for inversion list
+panic: Expecting %lu more elements than available
+panic: Expecting a valid element in inversion list
+panic: _swash_to_invlist only operates on boolean properties, bits=%lu, otherbits=%lu
+Can't find Unicode property definition "%-p"
+Passing malformed UTF-8 to "%s" is deprecated
+Operation "%s" returns its argument for UTF-16 surrogate U+%04lX
+Operation "%s" returns its argument for non-Unicode code point 0x%04lX
+Can't do fc("\x{1E9E}") on non-UTF-8 locale; resolved to "\x{17F}\x{17F}".
+Can't do fc("\x{FB05}") on non-UTF-8 locale; resolved to "\x{FB06}".
+Unicode surrogate U+%04lX is illegal in UTF-8
+Malformed UTF-8 character (unexpected end of string)
+ while running setuid
+ while running setgid
+ while running with -T switch
+ while running with -t switch
+another variable
+%%ENV is aliased to %s%s
+%%ENV is aliased to %%%s%s
+$ENV{PATH}
+Insecure directory in %s%s
+TERM
+-_.+
+Insecure $ENV{%s}%s
+CDPATH
+BASH_ENV
+    =>  
+Usage: invocant->DOES(kind)
+Usage: %2p::%2p(%s)
+Usage: %2p(%s)
+Usage: CODE(0x%lx)(%s)
+reference, kind
+object-ref, method
+sv, failok=0
+SCALAR[, ON]
+SCALAR[, REFCOUNT]
+filehandle[,args]
+input
+output
+details
+%-p(%-p)
+name[, all ]
+[all]
+msixxnp
+lobj, ...
+lobj is not of type version
+ver is not of type version
+lobj
+UNIVERSAL::isa
+utf8::unicode_to_native
+utf8::native_to_unicode
+Regexp::
+UNIVERSAL::can
+UNIVERSAL::DOES
+UNIVERSAL::VERSION
+version::_VERSION
+version::()
+version::new
+version::parse
+version::(""
+version::stringify
+version::(0+
+version::numify
+version::normal
+version::(cmp
+version::(<=>
+version::vcmp
+version::(bool
+version::boolean
+version::(+
+version::(-
+version::(*
+version::(/
+version::(+=
+version::(-=
+version::(*=
+version::(/=
+version::(abs
+version::(nomethod
+version::noop
+version::is_alpha
+version::qv
+version::declare
+version::is_qv
+utf8::is_utf8
+utf8::valid
+utf8::encode
+utf8::decode
+utf8::upgrade
+utf8::downgrade
+Internals::SvREADONLY
+\[$%@];$
+constant::_make_const
+\[$@]
+Internals::SvREFCNT
+PerlIO::get_layers
+re::is_regexp
+re::regname
+re::regnames
+re::regnames_count
+re::regexp_pattern
+Usage: version::new(class, version)
+Usage: UNIVERSAL::VERSION(sv, ...)
+Cannot find version of an unblessed reference
+%2p does not define $%2p::VERSION--version check failed
+%2p version %-p required--this is only version %-p
+%-p defines neither package nor VERSION--version check failed
+get_layers: unknown argument '%s'
+NULL array element in re::regnames()
+operation not supported with version object
+Internals::hv_clear_placeholders
+universal.c
+PPPA
+4D&a.L%
+u |(Y2
+i5i5|(g
+$MOD
+<UTF
+>UTF
+AMPER
+BARE
+BKWARD
+BOOL
+BOOL?
+BYTES
+COMMON
+COMPL
+CONST
+COPHH
+CV2GV
+DELETE
+DEREF1
+DEREF2
+DESC
+DOLIST
+DREFAV
+DREFHV
+DREFSV
+EARLYCV
+ELEM
+ENTERED
+EXISTS
+FAKE
+FTACCESS
+FTAFTERt
+FTSTACKED
+FTSTACKING
+GREPLEX
+GROWS
+GUESSED
+HAS_HH
+HUSH
+IDENT
+IMPLIM
+INARGS
+INBIN
+INCR
+INPLACE
+ITER
+LINENUM
+LVDEFER
+LVINTRO
+LVSUB
+MARK
+NO()
+NOINIT
+NOVER
+OURINTR
+OUTBIN
+OUTCR
+QSORT
+REFC
+REPARSE
+REPL1ST
+REVERSED
+RTIME
+SHORT
+SLICE
+SLICEWARN
+SQUASH
+STABLE
+STATE
+STRICT
+TARG
+TARGMY
+ HAS_TIMES MULTIPLICITY PERLIO_LAYERS PERL_IMPLICIT_CONTEXT USE_64_BIT_ALL USE_64_BIT_INT USE_ITHREADS USE_LARGE_FILES USE_LOCALE_COLLATE USE_LOCALE_NUMERIC USE_LOCALE_TIME USE_PERLIO USE_REENTRANT_API
+(3>IU`kv
+ !"#$%&')*+,-./012456789:;<=?@ABCDEFGHJKLMNOPQRSVWXYZ[\]^_abcdefghijlmnopqrstuwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?
+`!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+/bin/sh
+0123456789abcdef0123456789ABCDEF
+panic: memory wrap
+Can't localize through a reference
+"%s" %se %s can't be in a package
+The %s function is unimplemented
+Unsupported directory function "%s" called
+Unsupported socket function "%s" called
+Insecure dependency in %s%s
+Out of memory!
+Modification of a read-only value attempted
+Modification of non-creatable hash value attempted, subscript "%-p"
+Modification of non-creatable array value attempted, subscript %d
+Can't use an undefined value as %s reference
+Can't use string ("%-32p"%s) as %s ref while "strict refs" in use
+Can't use string ("%.32s") as %s ref while "strict refs" in use
+Can't use %s ref as %s ref
+Unsuccessful %s on filename containing newline
+Unquoted string "%s" may clash with future reserved word
+Semicolon seems to be missing
+Use of uninitialized value%-p%s%s
+Use of uninitialized value%s%s%s
+arylen_p
+backref
+checkcall
+collxfrm
+debugvar
+defelem
+envelem
+hintselem
+isaelem
+lvref
+mglob
+nkeys
+ovrld
+packelem
+regdata
+regdatum
+sigelem
+substr
+taint
+uvar
+null operation
+stub
+pushmark
+wantarray
+constant item
+scalar variable
+glob value
+glob elem
+private variable
+private array
+private hash
+private value
+push regexp
+ref-to-glob cast
+scalar dereference
+array length
+subroutine dereference
+anonymous subroutine
+subroutine prototype
+reference constructor
+single ref constructor
+reference-type operator
+bless
+quoted execution (``, qx)
+<HANDLE>
+append I/O operator
+regexp internal guard
+regexp internal reset
+regexp compilation
+pattern match (m//)
+pattern quote (qr//)
+substitution (s///)
+substitution iterator
+transliteration (tr///)
+scalar assignment
+list assignment
+scalar chop
+scalar chomp
+defined operator
+undef operator
+match position
+integer preincrement (++)
+integer predecrement (--)
+integer postincrement (++)
+integer postdecrement (--)
+exponentiation (**)
+integer multiplication (*)
+integer division (/)
+integer modulus (%)
+repeat (x)
+integer addition (+)
+integer subtraction (-)
+concatenation (.) or string
+left bitshift (<<)
+right bitshift (>>)
+numeric lt (<)
+integer lt (<)
+numeric gt (>)
+integer gt (>)
+numeric le (<=)
+integer le (<=)
+numeric ge (>=)
+integer ge (>=)
+numeric eq (==)
+integer eq (==)
+numeric ne (!=)
+integer ne (!=)
+numeric comparison (<=>)
+integer comparison (<=>)
+string lt
+string gt
+string le
+string ge
+string eq
+string ne
+string comparison (cmp)
+bitwise and (&)
+numeric bitiwse and (&)
+numeric bitwise xor (^)
+numeric bitwise or (|)
+string bitiwse and (&)
+string bitwise xor (^)
+string bitwise or (|)
+integer negation (-)
+numeric 1's complement (~)
+string 1's complement (~)
+smart match
+rindex
+sprintf
+crypt
+ucfirst
+lcfirst
+quotemeta
+array dereference
+constant array element
+index/value array slice
+each on array
+keys on array
+values on array
+hash dereference
+key/value hash slice
+array or hash lookup
+split
+list slice
+anonymous array ([])
+anonymous hash ({})
+splice
+push
+unshift
+reverse
+grep
+grep iterator
+map iterator
+flipflop
+range (or flip)
+range (or flop)
+logical and (&&)
+logical or (||)
+logical xor
+defined or (//)
+conditional expression
+logical and assignment (&&=)
+logical or assignment (||=)
+defined or assignment (//=)
+method lookup
+subroutine entry
+subroutine exit
+lvalue subroutine return
+caller
+warn
+symbol reset
+line sequence
+debug next statement
+iteration finalizer
+block entry
+block exit
+foreach loop entry
+foreach loop iterator
+loop exit
+dump
+method with known name
+super with known name
+given()
+leave given block
+when()
+leave when block
+break
+continue
+fileno
+binmode
+untie
+tied
+dbmopen
+dbmclose
+select system call
+getc
+write exit
+sysseek
+sysread
+syswrite
+tell
+fcntl
+ioctl
+flock
+send
+recv
+bind
+connect
+listen
+accept
+shutdown
+getsockopt
+setsockopt
+getsockname
+getpeername
+symlink
+readlink
+opendir
+readdir
+telldir
+seekdir
+rewinddir
+closedir
+fork
+wait
+waitpid
+kill
+getppid
+getpgrp
+getpriority
+times
+alarm
+sleep
+shmget
+shmctl
+shmread
+shmwrite
+msgget
+msgctl
+msgrcv
+semop
+semget
+semctl
+do "file"
+eval hints
+eval "string"
+eval "string" exit
+eval {block}
+eval {block} exit
+sethostent
+setnetent
+setprotoent
+setservent
+endhostent
+endnetent
+endprotoent
+endservent
+setpwent
+endpwent
+setgrent
+endgrent
+once
+unknown custom operator
+each on reference
+keys on reference
+values on reference
+CORE:: subroutine
+private subroutine
+list of private variables
+lvalue ref assignment
+lvalue array reference
+anonymous constant
+freed op
+gvsv
+padsv
+padav
+padhv
+padany
+pushre
+rv2gv
+rv2sv
+av2arylen
+rv2cv
+anoncode
+srefgen
+rcatline
+regcmaybe
+regcreset
+subst
+substcont
+trans
+transr
+sassign
+aassign
+schop
+schomp
+i_preinc
+i_predec
+i_postinc
+i_postdec
+i_multiply
+i_divide
+i_modulo
+repeat
+i_add
+i_subtract
+concat
+left_shift
+right_shift
+i_lt
+i_gt
+i_le
+i_ge
+i_eq
+i_ne
+i_ncmp
+scmp
+nbit_and
+nbit_xor
+nbit_or
+sbit_and
+sbit_xor
+sbit_or
+i_negate
+ncomplement
+scomplement
+smartmatch
+rv2av
+aelemfast
+aelemfast_lex
+kvaslice
+aeach
+akeys
+avalues
+rv2hv
+helem
+kvhslice
+multideref
+join
+lslice
+anonlist
+anonhash
+grepstart
+grepwhile
+mapstart
+mapwhile
+flip
+cond_expr
+andassign
+dorassign
+entersub
+leavesub
+leavesublv
+lineseq
+nextstate
+dbstate
+unstack
+enter
+leave
+enteriter
+enterloop
+leaveloop
+method_named
+method_super
+method_redir
+method_redir_super
+entergiven
+leavegiven
+enterwhen
+leavewhen
+pipe_op
+sselect
+enterwrite
+leavewrite
+prtf
+sockpair
+gsockopt
+ssockopt
+ftrread
+ftrwrite
+ftrexec
+fteread
+ftewrite
+fteexec
+ftis
+ftsize
+ftmtime
+ftatime
+ftctime
+ftrowned
+fteowned
+ftzero
+ftsock
+ftchr
+ftblk
+ftfile
+ftdir
+ftpipe
+ftsuid
+ftsgid
+ftsvtx
+ftlink
+fttty
+fttext
+ftbinary
+open_dir
+dofile
+hintseval
+leaveeval
+entertry
+leavetry
+ghbyname
+ghbyaddr
+ghostent
+gnbyname
+gnbyaddr
+gnetent
+gpbyname
+gpbynumber
+gprotoent
+gsbyname
+gsbyport
+gservent
+shostent
+snetent
+sprotoent
+sservent
+ehostent
+enetent
+eprotoent
+eservent
+gpwnam
+gpwuid
+gpwent
+spwent
+epwent
+ggrnam
+ggrgid
+ggrent
+sgrent
+egrent
+custom
+reach
+rkeys
+rvalues
+coreargs
+runcv
+padcv
+introcv
+clonecv
+padrange
+refassign
+lvrefslice
+lvavref
+anonconst
+freed
+CONSTRUCT
+WHEN
+BLOCK
+GIVEN
+LOOP_FOR
+LOOP_PLAIN
+LOOP_LAZYSV
+LOOP_LAZYIV
+ZERO
+QUIT
+TRAP
+ABRT
+KILL
+USR1
+SEGV
+USR2
+PIPE
+STKFLT
+CONT
+STOP
+TSTP
+TTIN
+TTOU
+XCPU
+XFSZ
+VTALRM
+PROF
+WINCH
+NUM32
+NUM33
+RTMIN
+NUM35
+NUM36
+NUM37
+NUM38
+NUM39
+NUM40
+NUM41
+NUM42
+NUM43
+NUM44
+NUM45
+NUM46
+NUM47
+NUM48
+NUM49
+NUM50
+NUM51
+NUM52
+NUM53
+NUM54
+NUM55
+NUM56
+NUM57
+NUM58
+NUM59
+NUM60
+NUM61
+NUM62
+NUM63
+RTMAX
+POLL
+UNUSED
+constant lexical array element
+redirect method with known name
+redirect super method with known name
+(none)
+PERLIO_DEBUG
+vsnprintf
+%.40s:%ld 
+warning:%s
+Clone %p from %p
+(Null)
+PerlIO_pop f=%p %s
+%.*s => %p
+PerlIO
+PerlIO::Layer::NoWarnings
+Cannot find %.*s
+PerlIO::Layer
+define %s %p
+Unknown PerlIO layer "%.*s"
+perlio
+Pushing %s
+Layer %ld is %s
+PERLIO
+perlio.c
+PerlIO::Layer::find
+size expected by this perl
+PerlIO layer instance size
+PerlIO_push f=%p %s %s %p
+Cannot flush f=%p
+Destruct %p
+Destruct popping %s
+:raw f=%p :%s
+fdupopen f=%p param=%p
+Zeroing %p, %d
+refcnt_inc: fd %d: %d <= 0
+refcnt_inc: fd %d refcnt=%d
+refcnt_inc: fd %d < 0
+refcnt_dec: fd %d: %d <= 0
+refcnt_dec: fd %d refcnt=%d
+refcnt_dec: fd %d < 0
+refcnt: fd %d: %d <= 0
+refcnt: fd %d < 0
+Cleanup layers for %p
+Unknown PerlIO layer "scalar"
+Hash
+Code
+TMPDIR
+crlf
+pending
+stdio
+unix
+Recursive call to Perl_load_module in PerlIO_find_layer
+Usage class->find(name[,load])
+Invalid separator character %c%c%c in PerlIO layer specification %s
+Argument list not closed for PerlIO layer "%.*s"
+panic: PerlIO layer array corrupt
+PerlIO layer function table size
+%s (%lu) does not match %s (%lu)
+%s (%lu) smaller than %s (%lu)
+PerlIO_binmode f=%p %s %c %x %s
+PerlIOBase_dup %s f=%p o=%p param=%p
+More fds - old=%d, need %d, new=%d
+refcnt_dec: fd %d >= refcnt_size %d
+refcnt: fd %d >= refcnt_size %d
+Don't know how to get file name
+More than one argument to open(,':%s')
+openn(%s,'%s','%s',%d,%x,%o,%p,%d,%p)
+Integer overflow in binary number
+Illegal binary digit '%c' ignored
+Binary number > 0b11111111111111111111111111111111 non-portable
+Integer overflow in hexadecimal number
+Illegal hexadecimal digit '%c' ignored
+Hexadecimal number > 0xffffffff non-portable
+Integer overflow in octal number
+Illegal octal digit '%c' ignored
+Octal number > 037777777777 non-portable
+inqs#
+ @:raw
+Can't fix broken locale name "%s"
+panic: strxfrm() gets absurd - a => %lu, ab => %lu
+The following characters (and maybe others) may not have the same meaning as the Perl program expects:
+  Some characters in it are not recognized by Perl.
+Locale '%s' may not work well.%s%s%s
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+    are supported and installed on your system.
+UTF-8
+unset
+Falling back to
+Failed to fall back to
+a fallback locale
+the standard locale
+LANGUAGE
+PERL_SKIP_LOCALE_INIT
+LC_ALL
+PERL_BADLANG
+DPKG_RUNNING_VERSION
+	LANGUAGE = %c%s%c,
+	LC_ALL = %c%s%c,
+LC_ALL=
+	%.*s = "%s",
+	LANG = %c%s%c
+perl: warning: %s %s ("%s").
+perl: warning: %s %s.
+PERL_UNICODE
+No group ending character '%c' found in template
+pack/unpack repeat count overflow
+Character(s) in '%c' format wrapped in %s
+()-group starts with a count in %s
+Too deeply nested ()-groups in %s
+'%c' allowed only after types %s in %s
+Can't use both '<' and '>' after type '%c' in %s
+Can't use '%c' in a group with different byte-order in %s
+Duplicate modifier '%c' after '%c' in %s
+'/' does not take a repeat count in %s
+Within []-length '*' not allowed in %s
+Within []-length '%c' not allowed in %s
+panic: marks beyond string end, m=%p, marks=%p, level=%d
+Malformed UTF-8 string in '%c' format in unpack
+Character in '%c' format wrapped in unpack
+'@' outside of string in unpack
+'@' outside of string with malformed UTF-8 in unpack
+Malformed UTF-8 string in unpack
+'X' outside of string in unpack
+'x' outside of string in unpack
+'/' must follow a numeric type in unpack
+Unterminated compressed integer in unpack
+'P' must have an explicit size in unpack
+Count after length/code in unpack
+length/code after end of string in unpack
+Code missing after '/' in unpack
+Code missing after '/' in pack
+Malformed UTF-8 string in pack
+'%c' outside of string in pack
+panic: predicted utf8 length not available, for '%c', aptr=%p end=%p cur=%p, fromlen=%lu
+Character in 'c' format wrapped in pack
+Character in 'C' format wrapped in pack
+Character in 'W' format wrapped in pack
+Cannot compress negative numbers in pack
+Cannot compress integer in pack
+Attempt to pack pointer to temporary value
+Field too wide in 'u' format in pack
+panic: string is shorter than advertised, aptr=%p, aend=%p, buffer=%p, todo=%ld
+Can only compress unsigned integers in pack
+sSiIlLqQjJfFdDpP(
+sSiIlLxXnNvV@.
+Invalid type ',' in %s
+Malformed integer in [] in %s
+Invalid type '%c' in %s
+'X' outside of string in %s
+Cannot compress %g in pack
+Cannot pack %g with '%c'
+Invalid type '%c' in unpack
+U0 mode on a byte string
+%.*lu
+fFdD
+cCsSiIlLnNUWvVqQjJ
+Negative '/' count in unpack
+0000000000
+@Xxu
+Invalid type '%c' in pack
+'%%' may not be used in pack
+Undefined subroutine in sort
+Sort subroutine didn't return single value
+Undefined sort subroutine "%-p" called
+/proc/self/exe
+libhandle, symbolname
+libref
+filename, flags=0
+DynaLoader.c
+DynaLoader::dl_load_file
+DynaLoader::dl_unload_file
+DynaLoader::dl_find_symbol
+DynaLoader::dl_undef_symbols
+DynaLoader::dl_install_xsub
+DynaLoader::dl_error
+DynaLoader::CLONE
+PERL_DL_NONLAZY
+perl_name, symref, filename="$Package"
+;*3$"
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+perl
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

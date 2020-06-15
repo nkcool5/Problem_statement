@@ -1,0 +1,777 @@
+/lib64/ld-linux-x86-64.so.2
+|fUa
+libusb-1.0.so.0
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+libusb_release_interface
+libusb_get_device_descriptor
+libusb_get_configuration
+libusb_get_next_timeout
+libusb_close
+_fini
+libusb_get_device_list
+libusb_alloc_transfer
+libusb_handle_events_timeout
+libusb_free_device_list
+libusb_get_string_descriptor_ascii
+libusb_get_max_packet_size
+libusb_open
+libusb_cancel_transfer
+libusb_get_pollfds
+libusb_detach_kernel_driver
+libusb_get_active_config_descriptor
+libusb_claim_interface
+libusb_get_bus_number
+libusb_get_device_address
+libusb_init
+libusb_set_configuration
+libusb_submit_transfer
+libusb_kernel_driver_active
+libusb_exit
+libusb_free_config_descriptor
+Degas are we not drawn onward no In union drawn onward to new eras aged
+libusb_free_transfer
+libimobiledevice.so.6
+plist_new_array
+plist_dict_set_item
+plist_dict_get_item
+plist_dict_remove_item
+plist_from_xml
+plist_get_string_val
+plist_to_bin
+plist_free
+plist_get_data_val
+plist_copy
+plist_array_append_item
+plist_from_bin
+plist_new_data
+plist_get_uint_val
+plist_get_node_type
+plist_new_uint
+plist_new_string
+plist_to_xml
+plist_new_dict
+lockdownd_start_session
+lockdownd_pair
+idevice_free
+lockdownd_validate_pair
+np_client_free
+lockdownd_set_value
+lockdownd_start_service
+np_observe_notifications
+np_set_notify_callback
+lockdownd_query_type
+np_client_new
+lockdownd_get_value
+A Santa lives evil at NASA
+lockdownd_client_new
+lockdownd_client_free
+lockdownd_service_descriptor_free
+libplist.so.3
+libpthread.so.0
+pthread_mutex_destroy
+send
+pthread_mutex_init
+recv
+__errno_location
+pthread_mutex_lock
+accept
+fcntl
+pthread_create
+sigaction
+fork
+pthread_attr_init
+pthread_mutex_unlock
+pthread_attr_setdetachstate
+libc.so.6
+setuid
+socket
+__printf_chk
+srand
+fopen
+pipe
+__strdup
+initgroups
+ftell
+signal
+strncpy
+puts
+sigprocmask
+__stack_chk_fail
+unlink
+putchar
+listen
+mkdir
+realloc
+stdin
+getpid
+kill
+strftime
+chmod
+rewind
+strtol
+getpwnam
+getppid
+calloc
+strlen
+sigemptyset
+openlog
+dirname
+bind
+fseek
+chdir
+memcmp
+__fprintf_chk
+sigaddset
+stdout
+memcpy
+fclose
+malloc
+remove
+getgid
+optarg
+stderr
+getuid
+setrlimit
+getopt_long
+freopen
+chown
+fwrite
+fread
+gettimeofday
+geteuid
+localtime
+__vfprintf_chk
+__vsyslog_chk
+sleep
+setsid
+__sprintf_chk
+__xstat
+getrlimit
+memmove
+setgid
+strerror
+__libc_start_main
+stpcpy
+ppoll
+closelog
+_edata
+__bss_start
+_end
+GLIBC_2.2.5
+GLIBC_2.14
+GLIBC_2.4
+GLIBC_2.3.4
+AWAVAUATUS
+t$`1
+[]A\A]A^A_
+|$ 9
+T$ 1
+Hct$ 
+L$`i
+9\$ 
+D$0H
+D$(u
+|$ 1
+UH-`
+ATUH
+[]A\
+AWAVA
+AUATE
+[]A\A]A^A_
+[]A\
+[]A\
+ATUI
+[]A\
+AUATUSH
+t[L9
+[]A\A]
+[]A\
+[]A\
+ATUI
+[]A\
+AWAVAUATA
+D$(1
+9+tLH
+D$(dH3
+8[]A\A]A^A_
+K4XZ
+T$ H
+T$ L
+T$ H
+t$ H
+|$ D
+|$ H
+t$ 1
+T$ H
+|$ H
+t$ H
+t$ H
+ATUI
+[]A\
+AVAUA
+[]A\A]A^
+AWAVI
+AUATI
+[]A\A]A^A_
+NNfA
+[]A\A]A^A_
+Kdt[
+9C f
+C@t[A
+9C f
+ATUA
+D$ 1
+ASARVW
+ []A\
+AWAVA
+AUAT
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+AWAVAUATA
+D$81
+H9+t[H
+D$8dH3
+H[]A\A]A^A_
+D$8dH3
+[]A\A]A^A_
+T$ D
+fD;U
+fD;]
+SHUD
+D$8H
+|$0f
+D$8dH3
+D$,A
+T$ fD
+\$"E
+T$ E1
+ATUSH
+t	9J
+ []A\
+ATUH
+H9+t;H
+[]A\
+C E1
+AWAVA
+AUAT
+HcD$
+([]A\A]A^A_
+RhH9
+AWAVE1
+AUATE1
+D95	
+D9c ~
+[]A\A]A^A_
+AVAU1
+A9\$ 
+[]A\A]A^
+AVAU1
+D$ 1
+A9\$ 
+[]A\A]A^
+ATUH
+D$x1
+t$ H
+T$ H
+t$0H
+T$8H
+|$8H
+|$8H
+t$`H
+D$PH
+|$HH
+t$(1
+|$(A
+\$xdH3
+[]A\
+t$(H
+t$(H
+|$(A
+ATUH
+D$H1
+D$HdH3
+P[]A\
+AUATUSH
+T$@H
+L$HL
+D$PL
+L$Xt:
+)D$`
+)L$p
+D$(1
+D$(dH3
+[]A\A]
+Tacocat
+|$	A
+D$0H
+$H+t$
+dH3<%(
+AUATUSH
+[]A\A]
+([]A\A]
+~ZATE1
+9-J| 
+[]A\
+AVAUI
+ATUH
+[]A\A]A^
+[]A\A]A^
+Z[]A\A]A^
+AWAV1
+AUATUSH
+t$(dH
+D$X1
+D$(H
+D:r	u
+t$XdH34%(
+h[]A\A]A^A_
+t$@H
+t$0H
+|$0H
+D$Q;D$$
+t$8H
+|$8H
+|$0L
+t$8H
+T$8I
+L$QD
+D$$1
+t$QH
+T$QD
+D$ E
+|$HZY
+t$PH
+|$0I
+D$HC
+t$	A
+D$JfA
+D$0I
+L$	A
+D$ E
+L$	A
+ATUH
+[]A\
+t0x\H
+ i4$
+dH3<%(
+ATU1
+D$(1
+\$(dH3
+0[]A\
+ATU1
+9-sl 
+[]A\1
+tXH9
+I;1t?A
+t#H9
+t6ATUH
+3[]A\H
+t$(H
+T$0H
+L$8L
+D$@L
+|$(H
+D$ H
+t$ H
+t$(H
+AVAUI
+,$[]A\A]A^
+[]A\A]A^
+ATUH
+[]A\
+[]A\
+ATUSH
+ []A\
+ Hi4$
+dH3<%(
+ATUI
+[]A\
+/var/lib
+~-Hc
+9/u"
+/u	H9
+tcUS
+tsE1
+AUATUSH
+([]A\A]
+=}` 
+ATUH
+ []A\
+=$^ 
+ATUI
+=W] 
+tBE1
+[]A\
+tcE1
+ATUH
+=+\ 
+tvE1
+[]A\
+=XY 
+AWAVA
+AUATL
+[]A\A]A^A_
+Attached
+MessageType
+DeviceID
+ConnectionSpeed
+ConnectionType
+LocationID
+ProductID
+SerialNumber
+Properties
+%s: Failed to realloc.
+Result
+PairRecordID
+accept() failed (%s)
+New client on fd %d
+Disconnecting client fd %d
+Client %d connection closed
+Listen
+Client %d now LISTENING
+Beeb
+Connect
+PortNumber
+ListDevices
+DeviceList
+ReadBUID
+ReadPairRecord
+PairRecordData
+SavePairRecord
+DeletePairRecord
+Client %d invalid command %d
+client_device_remove: id %d
+Detached
+client_init
+client_shutdown
+send_pkt fd %d tag %d msg %d payload_length %d
+%s: Enlarging client %d output buffer %d -> %d
+%s: Could not convert plist to xml
+client_read fd %d buf %p len %d
+Attempted to read from client %d not in CONNECTED state
+client_write fd %d buf %p len %d
+Attempted to write to client %d not in CONNECTED state
+client_set_events to client %d not in CONNECTED state
+Client died mid-connect, aborting device %d connection
+client_notify_connect fd %d result %d
+client_notify_connect when client %d is not in CONNECTING1 state
+client_process in CONNECTED state
+Receive from client fd %d failed: %s
+Client %d message is too long (%d bytes)
+Client %d message is too short (%d bytes)
+Client command in fd %d len %d ver %d msg %d tag %d
+Client %d command received in the wrong state
+Client %d version mismatch: expected 0 or 1, got %d
+Do nine men interpret Nine men I nod
+Could not parse plist from payload!
+Could not read valid MessageType node from plist!
+Could not extract MessageType from plist!
+Received connect request without device_id!
+Received connect request without port number!
+Client %d connection request to device %d port %d
+Unexpected command '%s' received!
+Client %d OUT process but nothing to send?
+Send to client fd %d failed: %d %s
+Client %d switching to CONNECTED state
+client_process: fd %d not found in client list
+client_device_add: id %d, location 0x%x, serial %s
+send_pkt
+send_plist_pkt
+Invalid protocol %d for outgoing packet (dev %d hdr %p data %p len %d)
+send_packet(%d, 0x%x, %p, %p, %d)
+Tried to send packet larger than USB MTU (hdr %d data %d total %d) to device %d
+usb_send failed while sending packet (len %d) to device %d: %d
+update_connection: sendable %d, events %d, flags %d
+[OUT] dev=%d sport=%d dport=%d seq=%d ack=%d flags=0x%x window=%d[%d] len=%d
+connection_teardown dev %d sport %d dport %d
+Error sending TCP RST to device %d (%d->%d)
+Error sending TCP ACK (%d->%d)
+Unable to allocate port for device %d
+Error sending TCP SYN to device %d (%d->%d)
+Attempted to connect to nonexistent device %d
+Could not find connection for device %d client %p
+error reading from client (%d)
+Attempted to abort for nonexistent connection for device %d
+Too much data received from USB (%d), file a bug
+Mux data input for device %p: %p len %d
+Incoming split packet is too large (%d so far), dropping!
+Gathered mux data from buffer (total size: %d)
+Appended mux data to buffer (total size: %d)
+Copied mux data to buffer (size: %d)
+Incoming packet size mismatch (dev %d, expected %d, got %d)
+Incoming version packet is too small (%d)
+Version packet from already initialized device %d
+Device %d has unknown version %d.%d
+Connected to v%d.%d device %d on location 0x%x with serial number %s
+%s: Error occured, but empty error message
+%s: got a type 1 packet without payload
+Incoming TCP packet is too small (%d)
+[IN] dev=%d sport=%d dport=%d seq=%d ack=%d flags=0x%x window=%d[%d] len=%d
+Received TCP packet from device %d but the device isn't active yet, discarding
+No connection for device %d incoming packet %d->%d
+[OUT] dev=%d sport=%d dport=%d flags=0x%x
+Connection refused by device %d (%d->%d)
+Error sending TCP ACK to device %d (%d->%d)
+Connection reset by device %d (%d->%d)
+Input buffer overflow on device %d connection %d->%d (space=%d, payload=%d)
+Incoming packet for device %d has unknown protocol 0x%x)
+Cannot find device entry for RX input from USB device %p on location 0x%x
+Error sending version request packet to device %d
+Connecting to new device on location 0x%x as ID %d
+Removed device %d on location 0x%x
+Borrow or rob
+Cannot find device entry while removing USB device %p on location 0x%x
+Sending ACK due to expired timeout (%lu -> %lu)
+device_client_process (%d)
+error writing to client (%d)
+%s: ERROR: %s
+RST reason: %s
+device_init
+device_kill_connections
+device_shutdown
+device_control_input
+%s: Setting UntrustedHostBUID to %s
+God A red nugget A fat egg under a dog
+%s: Starting preflight on device %s...
+%s: ERROR: Could not connect to lockdownd on device %s, lockdown error %d
+%s: ERROR: Could not get lockdownd type from device %s, lockdown error %d
+%s: Finished preflight on device %s
+%s: StartSession success for device %s
+%s: StartSession failed on device %s, lockdown error %d
+%s: Device %s is not paired with this host.
+%s: The stored pair record for device %s is invalid. Removing.
+%s: Could not remove pair record for device %s
+%s: ERROR: Could not get ProductVersion from device %s, lockdown error %d
+%s: Could not get ProductVersion string from device %s handle %d
+%s: Found ProductVersion %s device %s
+%s: Pair success for device %s
+com.apple.mobile.insecure_notification_proxy
+%s: ERROR: Could not start insecure_notification_proxy on %s, lockdown error %d
+com.apple.mobile.lockdown.request_pair
+com.apple.mobile.lockdown.request_host_buid
+%s: Waiting for user to trust this computer on device %s
+%s: Finished waiting for notification from device %s, is_device_connected %d
+%s: Device %s is locked with a passcode. Cannot pair.
+%s: ERROR: Pair failed for device %s, lockdown error %d
+%s: ERROR StartSession failed on device %s, lockdown error %d
+%s: ERROR: ValidatePair failed for device %s, lockdown error %d
+%s: user trusted this computer on device %s, pairing now
+ERROR: failed to start preflight worker thread for device %s: %s (%d). Invoking client_device_add() directly but things might not work as expected.
+UntrustedHostBUID
+com.apple.mobile.lockdown
+ProductVersion
+lockdownd_set_untrusted_host_buid
+np_callback
+preflight_worker_handle_device_add
+[%H:%M:%S
+.%03d][%d] %s
+TX callback dev %d-%d len %d -> %d status %d
+Device %d-%d TX aborted due to error or disconnect
+TX transfer timed out for device %d-%d
+Device %d-%d TX transfer cancelled
+TX transfer stalled for device %d-%d
+Device %d-%d TX aborted due to disconnect
+TX transfer overflow for device %d-%d
+RX callback dev %d-%d len %d status %d
+Device %d-%d RX aborted due to error or disconnect
+RX transfer timed out for device %d-%d
+Device %d-%d RX transfer cancelled
+RX transfer stalled for device %d-%d
+Device %d-%d RX aborted due to disconnect
+RX transfer overflow for device %d-%d
+usb_disconnect: cancelling RX xfer %p
+usb_disconnect: cancelling TX xfer %p
+libusb_handle_events_timeout for usb_disconnect failed: %d
+Failed to submit TX transfer %p len %d to device %d-%d: %d
+Failed to submit TX ZLP transfer to device %d-%d: %d
+Too many errors getting device list
+usb_discover: scanning %d devices
+Could not get device descriptor for device %d-%d: %d
+Found new device with v/p %04x:%04x at %d-%d
+Could not open device %d-%d: %d
+Could not get configuration for device %d-%d: %d
+Could not get old configuration descriptor for device %d-%d: %d
+Could not check kernel ownership of interface %d for device %d-%d: %d
+Detaching kernel driver for device %d-%d, interface %d
+Could not detach kernel driver (%d), configuration change will probably fail!
+Setting configuration for device %d-%d, from %d to %d
+Could not set configuration %d for device %d-%d: %d
+Could not get configuration descriptor for device %d-%d: %d
+Endpoint count mismatch for interface %d of device %d-%d
+Eleele
+Found interface %d with endpoints %02x/%02x for device %d-%d
+Found interface %d with swapped endpoints %02x/%02x for device %d-%d
+Endpoint type mismatch for interface %d of device %d-%d
+Could not find a suitable USB interface for device %d-%d
+Could not claim interface %d for device %d-%d: %d
+Could not get serial number for device %d-%d: %d
+Could not determine wMaxPacketSize for device %d-%d, setting to 64
+Using wMaxPacketSize=%d for device %d-%d
+Failed to submit RX transfer to device %d-%d: %d
+Failed to start RX loop number %d
+All %d RX loops started successfully
+libusb_get_next_timeout failed: %d
+libusb_handle_events_timeout failed: %d
+usb_init for linux / libusb 1.0
+Send ZLP
+Could not get device list: %d
+libusb_get_pollfds failed
+usb polling enable: %d
+usb_discover failed: %d
+libusb_init failed: %d
+alula
+usb_shutdown
+collection_remove: element %p not present in collection %p (cap %d)
+%s: ERROR: couldn't read %d bytes from %s
+bplist00
+buffer_read_from_filename
+reading key %s from config_file %s
+setting key %s to %s in config_file %s
+setting key %s in config_file %s
+could not open '%s' for writing: %s
+%s: ERROR couldn't get HostID from pairing record for udid %s
+initialized config_dir to %s
+SystemConfiguration.plist
+SystemBUID
+got %s %s
+no previous %s found
+ABCDEF0123456789
+using %s as %s
+%s: failed to read '%s': %s
+could not remove %s: %s
+HostID
+config_device_record_get_host_id
+config_get_device_record
+Usage: %s [OPTIONS]
+Caught signal %d, exiting
+Could not notify parent!
+/dev/null
+Redirection of stderr failed.
+hfvVuU:xXsnz
+usbmuxd 1.1.0
+usbmuxd v%s starting up
+/var/run/usbmuxd.pid
+Could not open lockfile
+pipe() failed.
+fork() failed.
+setsid() failed.
+fork() failed (second).
+chdir() failed
+Redirection of stdin failed.
+Redirection of stdout failed.
+Lockfile locking failed!
+Could not write pidfile!
+Creating socket
+/var/run/usbmuxd
+unlink(%s) failed: %s
+socket() failed: %s
+bind() failed: %s
+listen() failed: %s
+chmod(%s, 02775) failed: %s
+chown(%s, %d, %d) failed: %s
+Initializing USB
+%d device%s detected
+Initialization complete
+main_loop iteration
+USB timeout is %d ms
+Device timeout is %d ms
+fd count is %d
+poll() returned %d
+Event processing interrupted
+Device discovery triggered
+usb_process() failed
+client_accept() failed
+usbmuxd shutting down
+Shutdown complete
+Could not daemonize!
+main_loop failed
+help
+foreground
+verbose
+user
+disable-hotplug
+enable-exit
+udev
+systemd
+force-exit
+version
+Expose a socket to multiplex connections from and to iOS devices.
+  -h, --help		Print this message.
+  -v, --verbose		Be verbose (use twice or more to increase).
+  -f, --foreground	Do not daemonize (implies one -v).
+  -U, --user USER	Change to this user after startup (needs USB privileges).
+  -n, --disable-hotplug	Disables automatic discovery of devices on hotplug.
+                       	Starting another instance will trigger discovery instead.
+  -z, --enable-exit	Enable "--exit" request from other instances and exit
+                   	automatically if no device is attached.
+  -u, --udev		Run in udev operation mode (implies -n and -z).
+  -s, --systemd		Run in systemd operation mode (implies -z and -f).
+  -x, --exit		Notify a running instance to exit if there are no devices
+            		connected (sends SIGUSR1 to running instance) and exit.
+  -X, --force-exit	Notify a running instance to exit even if there are still
+                  	devices connected (always works) and exit.
+  -V, --version		Print version information and exit.
+Caught SIGUSR1, checking if we can terminate (no more devices attached)...
+Refusing to terminate, there are still devices attached. Kill me with signal 15 (TERM) to force quit.
+Caught SIGUSR2, scheduling device discovery
+Caught SIGUSR1/2 but this instance was not started with "--enable-exit", ignoring.
+Sending signal %d to instance with pid %d
+Could not deliver signal %d to pid %d
+Could not determine pid of the other running instance!
+Another instance is already running (pid %d). exiting.
+Another instance is already running (pid %d). Telling it to check for devices.
+Sending signal SIGUSR2 to instance with pid %d
+Could not deliver SIGUSR2 to pid %d
+No running instance found, none killed. Exiting.
+usbmuxd: ERROR: Failed to get init status from child, check syslog for messages.
+usbmuxd: ERROR: Child process exited with error %d, check syslog for messages.
+Failed to create required directory '%s': %s
+stat() failed after creating directory '%s': %s
+No user to drop privileges to?
+Dropping privileges failed, check if user '%s' exists!
+Not dropping privileges to root
+Failed to drop privileges (cannot set supplementary groups)
+Failed to drop privileges (cannot set group ID to %d)
+Failed to drop privileges (cannot set user ID to %d)
+Failed to drop privileges properly!
+Successfully dropped privileges to '%s'
+Automatic device discovery on hotplug disabled.
+Enabled exit on SIGUSR1 if no devices are attached. Start a new instance with "--exit" to trigger.
+usbmuxd: FATAL: Could not daemonize!
+;*3$"
+e6221910bb5cc55a39889b299e6d1794c129cb.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

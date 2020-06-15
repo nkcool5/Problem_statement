@@ -1,0 +1,1532 @@
+/lib64/ld-linux-x86-64.so.2
+libgio-2.0.so.0
+g_intern_static_string
+g_signal_new
+g_error_new
+g_list_delete_link
+g_cclosure_marshal_VOID__OBJECT
+g_file_read_link
+g_main_loop_unref
+g_list_append
+g_variant_type_checked_
+g_variant_new_variant
+g_variant_get_child_value
+g_slist_free_full
+g_string_new
+g_once_init_enter
+_ITM_deregisterTMCloneTable
+g_object_unref
+g_list_free_full
+g_mutex_unlock
+g_hash_table_remove
+g_signal_handlers_disconnect_matched
+g_variant_unref
+g_str_equal
+g_variant_builder_end
+g_print
+g_hash_table_remove_all
+g_once_init_leave
+g_list_concat
+g_array_set_size
+g_printerr
+g_hash_table_lookup
+g_type_name
+g_list_prepend
+g_value_get_object
+g_set_error
+g_usleep
+g_idle_add
+g_type_class_adjust_private_offset
+g_assertion_message_expr
+g_slist_remove
+g_variant_builder_add
+g_return_if_fail_warning
+g_str_has_suffix
+g_array_new
+g_list_find
+g_hash_table_new
+g_object_set_qdata
+g_variant_builder_new
+g_quark_from_static_string
+g_string_free
+g_slist_prepend
+g_idle_add_full
+g_object_new
+g_variant_builder_init
+g_list_remove_link
+g_signal_handler_disconnect
+g_strcmp0
+g_cclosure_marshal_VOID__VOID
+g_array_free
+g_variant_ref_sink
+g_ptr_array_add
+g_strdup_printf
+g_type_class_peek_parent
+g_spawn_async
+g_ptr_array_new
+g_hash_table_get_keys
+g_hash_table_new_full
+__gmon_start__
+g_object_ref
+g_variant_get_variant
+g_array_append_vals
+g_source_remove
+g_value_take_object
+g_variant_get_boolean
+g_value_set_boolean
+g_type_interface_peek
+g_main_loop_new
+g_main_loop_run
+g_type_register_static_simple
+g_hash_table_insert
+g_shell_parse_argv
+g_strfreev
+g_object_class_install_property
+g_object_set_qdata_full
+g_log
+g_variant_equal
+g_slist_append
+g_object_get_qdata
+g_variant_new_boolean
+g_variant_new_string
+g_param_spec_object
+g_list_remove
+g_spawn_close_pid
+g_variant_new_object_path
+g_variant_ref
+g_variant_classify
+g_hash_table_destroy
+g_mutex_lock
+g_list_free
+g_str_hash
+g_mutex_init
+g_hash_table_get_values
+g_main_context_iteration
+g_type_check_instance_is_a
+g_option_context_new
+g_slice_alloc0
+g_variant_new
+_Jv_RegisterClasses
+g_variant_get
+g_mutex_clear
+g_object_notify
+g_strdup
+g_signal_emit
+g_signal_connect_data
+g_value_set_object
+g_main_loop_quit
+g_child_watch_add
+g_slice_free1
+g_ptr_array_free
+g_strdupv
+_ITM_registerTMCloneTable
+g_timeout_add
+g_variant_get_string
+g_slice_alloc
+g_type_add_interface_static
+g_variant_builder_unref
+g_string_insert_c
+g_value_dup_object
+g_list_foreach
+g_error_free
+g_cclosure_marshal_VOID__STRING
+g_simple_async_result_set_op_res_gpointer
+g_dbus_proxy_get_cached_property
+_fini
+g_dbus_proxy_call
+g_dbus_message_get_body
+g_cancellable_cancel
+g_dbus_server_get_guid
+g_dbus_message_get_interface
+g_simple_async_result_new
+g_dbus_proxy_get_connection
+Beeb
+g_dbus_server_get_client_address
+g_dbus_message_set_destination
+g_bus_own_name
+g_dbus_connection_add_filter
+g_dbus_error_quark
+g_dbus_message_get_message_type
+g_simple_async_result_set_from_error
+g_dbus_method_invocation_return_value
+g_dbus_connection_close
+g_initable_new
+g_dbus_connection_remove_filter
+g_dbus_message_get_locked
+g_dbus_is_interface_name
+g_dbus_message_new_signal
+g_simple_async_result_get_op_res_gpointer
+g_cancellable_is_cancelled
+g_cancellable_new
+g_dbus_message_get_path
+g_simple_async_result_get_type
+g_dbus_connection_is_closed
+g_dbus_message_set_body
+g_dbus_message_copy
+g_dbus_proxy_call_finish
+g_dbus_server_start
+g_simple_async_result_set_op_res_gboolean
+g_dbus_proxy_get_type
+g_dbus_message_get_destination
+g_cancellable_disconnect
+g_dbus_message_new_method_error
+g_dbus_method_invocation_return_gerror
+g_dbus_message_set_signature
+g_dbus_connection_send_message
+g_dbus_proxy_set_cached_property
+g_dbus_message_get_type
+g_simple_async_result_complete_in_idle
+g_cancellable_connect
+g_simple_async_result_propagate_error
+g_dbus_connection_get_type
+g_dbus_connection_flush_sync
+g_simple_async_result_get_source_tag
+g_simple_async_result_set_error
+g_initable_get_type
+g_dbus_method_invocation_return_error
+g_dbus_message_set_serial
+g_dbus_server_new_sync
+g_dbus_message_set_sender
+g_dbus_is_member_name
+g_dbus_method_invocation_get_connection
+g_dbus_generate_guid
+g_dbus_message_get_member
+g_dbus_is_name
+g_cancellable_get_type
+g_dbus_server_stop
+g_dbus_message_get_sender
+g_dbus_is_unique_name
+g_io_error_quark
+libgobject-2.0.so.0
+g_object_ref_sink
+g_type_check_instance_cast
+g_type_check_class_cast
+g_object_is_floating
+g_value_peek_pointer
+libglib-2.0.so.0
+g_get_application_name
+glib_mem_profiler_table
+g_option_context_parse
+g_mem_profile
+g_option_context_add_main_entries
+g_list_find_custom
+g_mem_set_vtable
+g_slist_remove_link
+libibus-1.0.so.5
+ibus_engine_desc_get_name
+ibus_init
+ibus_service_get_type
+ibus_engine_desc_new
+ibus_lookup_table_page_down
+ibus_prop_list_get_type
+ibus_component_get_name
+ibus_lookup_table_page_up
+ibus_keymap_lookup_keysym
+ibus_registry_load_cache
+ibus_engine_desc_get_layout
+ibus_get_address
+ibus_service_get_connection
+ibus_serializable_deserialize
+ibus_service_class_add_interfaces
+ibus_serializable_serialize
+ibus_object_destroy
+ibus_bus_exit
+ibus_set_log_handler
+ibus_registry_get_components
+ibus_registry_save_cache
+ibus_property_get_type
+ibus_registry_start_monitor_changes
+ibus_lookup_table_cursor_up
+ibus_registry_check_modification
+ibus_get_user_name
+ibus_service_get_object_path
+ibus_keymap_get
+ibus_registry_new
+ibus_registry_load
+ibus_service_unregister
+ibus_lookup_table_get_type
+ibus_text_new_from_static_string
+ibus_component_get_exec
+ibus_engine_desc_get_type
+God A red nugget A fat egg under a dog
+ibus_lookup_table_new
+ibus_lookup_table_cursor_down
+ibus_proxy_get_type
+alula
+ibus_write_address
+ibus_text_new_from_string
+ibus_bus_new
+ibus_proxy_destroy
+ibus_prop_list_update_property
+ibus_object_get_type
+ibus_component_get_type
+ibus_component_get_engines
+ibus_prop_list_new
+ibus_text_get_type
+ibus_bus_is_connected
+ibus_service_register
+libpthread.so.0
+waitpid
+libc.so.6
+execv
+setlocale
+getpwuid
+__stack_chk_fail
+daemon
+getpid
+kill
+setpgid
+getuid
+__libc_start_main
+sysconf
+_edata
+__bss_start
+GLIBC_2.2.5
+GLIBC_2.4
+C  l@
+ATUI
+t$f.
+[]A\
+F0H9
+{0H9
+C0E1
+t$$A
+t$$A
+ATUA
+ []A\
+XZt#
+9kDt#A
+AWAVAUATI
+t$PL
+|$XL
+t$PL
+[]A\A]A^A_
+AVAUI
+ATUI
+t$@L
+[]A\A]A^
+ATUSH
+j@j@H
+j@AT
+j@ATH
+j@UE1
+[]A\
+AVAUI
+ATUI
+ []A\A]A^
+AUATI
+[]A\A]
+AUATI
+\$PH
+[]A\A]
+|$PH
+D$PE1
+AUATI
+[]A\A]
+ATUSH
+_AXH
+[]A\
+AVAUATUSH
+c`E1
+;H;}
+]A\A]A^
+]A\A]A^
+]A\A]A^
+H;0u
+AWAVAUATUSH
+[]A\A]A^A_
+St2H
+St*H
+AUATI
+[]A\A]
+|$8H
+AVAUI
+ATUI
+]A\A]A^
+ATUI
+[]A\
+AWAVAUATI
+([]A\A]A^A_
+XZt$H
+AUATI
+[]A\A]
+|$0I
+[]A\A]
+AWAVI
+AUATI
+|$`L
+[]A\A]A^A_
+d$hL
+|$`I
+]A\A]A^A_
+([]A\A]A^A_
+AVAUATUSH
+[]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+AVAUI
+ATUI
+ []A\A]A^
+AUATI
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUM
+ATUI
+]A\A]A^
+AWAVAUATA
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+ATUH
+C@E1
+ATUH
+ZYu+H
+[]A\
+ATUI
+[]A\
+AWAVM
+AUATI
+l$PL
+[]A\A]A^A_
+t$XL
+l$PI
+]A\A]A^A_
+]A\A]A^A_
+AWAVM
+AUATI
+[]A\A]A^A_
+l$PH
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATM
+d$PL
+Degas are we not drawn onward no In union drawn onward to new eras aged
+[]A\A]A^A_
+[]A\A]A^A_
+l$XL
+d$PI
+]A\A]A^A_
+ATUH
+[]A\
+ATUH
+[]A\
+ATUI
+[]A\
+AUATI
+tCL;ext=L
+[]A\A]
+AVAUATUH
+]A\A]A^1
+]A\A]A^
+ATU1
+[]A\
+FxH9
+H;~Hu
+AVAUI
+ATUSH
+[]A\A]A^
+AUAT
+[]A\A]
+;E\t
+AWAVI
+AUATI
+L;:t
+[]A\A]A^A_
+ATUH
+[]A\
+ATUH
+[]A\
+ATUSL
+t;[L
+]A\E1
+[]A\
+AUATI
+|$@H
+[]A\A]
+ATUH
+{xH9
+[]A\
+AWAV1
+AUAT
+|$HE1
+t$HL
+\$`H
+|$hH
+|$pH
+|$pH
+|$`L
+|$`H
+[]A\A]A^A_
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+H;kxtRH
+H;]xt
+AVAUI
+ATUH
+[]A\A]A^
+]A\A]A^
+[]A\A]A^
+ATUSH
+[]A\H
+AWAVI
+AUATM
+d$PL
+[]A\A]A^A_
+[]A\A]A^A_
+l$XL
+d$PI
+]A\A]A^A_
+AVAUI
+ATUI
+[]A\A]A^
+ATUI
+CL t
+ []A\
+AWAVM
+AUATUSH
+d$`L
+[]A\A]A^A_
+|$hL
+d$`M
+]A\A]A^A_
+ATUI
+L;c8t"A
+[]A\
+[]A\
+[]A\1
+H;k8A
+H;k8A
+H;k8A
+H;k8A
+H;k8A
+H;k8A
+H;k8A
+H;k8A
+H;k8A
+H;k8A
+AVAUE
+ATUA
+sxta
+[]A\A]A^
+[]A\A]A^1
+[]A\A]A^
+AWAVE
+AUATA
+H;k8t"A
+[]A\A]A^A_
+H;k8t"A
+AUATA
+H;k8t"A
+[]A\A]H
+[]A\A]
+AVAUA
+ATUH
+H;k8t"A
+[]A\A]A^
+[]A\A]A^
+H9-Q
+ATUH
+H;k8t"A
+[]A\
+ATUA
+[]A\
+[]A\H
+[]A\
+AUATA
+H;k8t"A
+[]A\A]
+ATUA
+[]A\
+5|}!
+[]A\H
+[]A\
+AUATA
+H;k8t"A
+[]A\A]
+5F{!
+5qz!
+5Xz!
+5?z!
+ATUH
+H;k8t"A
+[]A\
+AWAVM
+AUATA
+]A\A]A^A_H
+[]A\A]A^A_
+5`t!
+5:t!
+5hq!
+5Oq!
+5Oq!
+AUATA
+]A\A]
+[]A\A]
+ATUA
+[]A\
+AUATI
+[]A\A]
+5"k!
+[]A\A]
+5zj!
+5ai!
+5Hi!
+5/i!
+E8H9
+}8E1
+H;k8t"A
+ATUH
+t*;kLt
+;kLt
+ATUI
+[]A\
+ATUA
+=}`!
+=i`!
+ATUSH
+@ @=A
+[]A\H
+AVAUM
+ATUI
+[]A\A]A^
+]A\A]A^
+C4t"H
+[]A\A]A^
+AVAUI
+ATUI
+5#U!
+ []A\A]A^
+5.T!
+5~R!
+}hH;=}O!
+t$$A
+ATUI
+[]A\H
+[]A\
+AVAUATUSH
+[]A\A]A^
+H=p A
+AWAVM
+AUATA
+AWAVH
+[]A\A]A^A_
+AVAUE
+ATUA
+9k4tSE
+XZ[]A\A]A^
+D9c8u
+D9k<u
+D9s@u
+9k0t2
+ATUA
+XZ[]A\
+AVAUA
+ATUA
+XZ[]A\A]A^
+D9c`u
+D9kdu
+AUATA
+[]A\A]
+AUATA
+[]A\A]
+ATUStWH
+ATPA
+ []A\
+j@E1
+hpT@
+hpT@
+AVAUI
+ATUI
+5Z8!
+ []A\A]A^
+5v7!
+ATUA
+[]A\
+AUATA
+]A\A]
+[]A\A]
+-j1!
+AVAUE
+ATUA
+XZ[]A\A]A^
+AWAVE
+AUATA
+H;k(t"H
+[]A\A]A^A_
+[]A\A]A^A_
+AUATA
+[]A\A]
+AVAUA
+ATUH
+H;k(t"[]A\A]A^
+[]A\A]A^
+A Santa lives evil at NASA
+ATUA
+XZ[]A\
+AUATA
+H;k(t"H
+[]A\A]
+[]A\A]
+ATUA
+XZ[]A\
+Borrow or rob
+AUATA
+H;k(t"H
+[]A\A]
+[]A\A]
+ATUH
+H;k(t
+[]A\
+[]A\
+ATUH
+H;k(t
+[]A\
+[]A\
+ATUA
+XZ[]A\
+AUATA
+H;k(t"H
+[]A\A]
+[]A\A]
+H;k(t
+H;k(t
+H;k(t
+H;k(t
+H;k(t
+Do nine men interpret Nine men I nod
+H;k(t
+H;k(t
+H;k(t
+H;k(t
+H;k(t
+H;k(t
+AUATI
+L;e(t
+[]A\A]
+AUATI
+u(I9
+[]A\A]
+H;](t"A
+AWAVM
+AUATA
+AWAVM
+[]A\A]A^A_
+AUATUSH
+([]A\A]
+ATUH
+[]A\
+AUATI
+[]A\A]
+|$X9_
+\$`H
+ATE1
+[]A\
+AUATUSH
+ttf.
++L9m
+|$`H
+[]A\A]
+ATUI
+[]A\
+O( H
+AUATUSH
+O(@H
+[]A\A]
+AWAVAUATUSH
+D$(1
+<	w(I
+|$(dH3<%(
+8[]A\A]A^A_
+A9\$
+<'u(
+<'t@
+	wu1
+AVAUATUS
+]A\A]A^
+[]A\A]A^
+ATUS
+G(;F(H
+[]A\
+M,9K,u
+ATUH
+[]A\E1
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+AVAUI
+ATUI
+ u:H
+]A\A]A^
+AVAUI
+ATUI
+ u:L
+t$ L
+]A\A]A^
+AUATM
+ u3H
+]A\A]
+AUATM
+ u3H
+[]A\A]
+AUATM
+ u3H
+]A\A]
+AUATM
+ u3H
+]A\A]
+AUATM
+ u3H
+[]A\A]
+AUATM
+ u;H
+[]A\A]
+AUATM
+ u;H
+[]A\A]
+AUATM
+ u3H
+]A\A]
+AUATM
+ u3H
+]A\A]
+AUATM
+ u3H
+[]A\A]
+ATUSH
+ []A\
+AWAVA
+AUATL
+[]A\A]A^A_
+component
+component.c
+IBUS
+BusComponent
+component->factory == factory
+IBUS_IS_COMPONENT (component)
+destroy
+component->component == NULL
+component->pid == pid
+IBUS_IS_ENGINE_DESC (engine)
+IBUS_IS_COMPONENT (component->component)
+BUS_IS_FACTORY_PROXY (factory)
+%s:%d: invalid %s id %u for "%s" of type '%s' in '%s'
+Can not parse component %s exec: %s
+Can not execute component %s: %s
+bus_component_from_engine_desc
+bus_component_is_running
+bus_component_stop
+bus_component_child_cb
+bus_component_start
+bus_component_set_restart
+bus_component_set_destroy_with_factory
+bus_component_get_engines
+bus_component_get_name
+bus_component_get_factory
+bus_component_factory_destroy_cb
+bus_component_set_factory
+bus_component_get_component
+bus_component_new
+bus_component_constructor
+bus_component_set_property
+name-owner-changed
+name-lost
+name-acquired
+FIXME
+(null)
+(&s)
+'%s' is not a legal bus name
+org.freedesktop.DBus
+org.freedesktop.IBus
+(&su)
+Failed to start %s
+Parse match rule [%s] failed
+(as)
+dbus->dispatch_queue != NULL
+service != NULL
+dbusimpl.c
+connection != NULL
+service->owners != NULL
+:1.%u
+BusDBusImpl
+Hello
+BUS_IS_DBUS_IMPL (dbus)
+/org/freedesktop/DBus
+forward message failed:  %s.
+The service name is '%s'.
+dbus->forward_queue != NULL
+G_IS_DBUS_MESSAGE (message)
+NameAcquired
+NameLost
+DISPATCHED
+old_owner != NULL
+new_owner != NULL
+NameOwnerChanged
+(sss)
+BUS_IS_DBUS_IMPL (user_data)
+new_message != NULL
+IBUS_IS_SERVICE (object)
+ListNames
+NameHasOwner
+GetNameOwner
+ListQueuedOwners
+GetId
+AddMatch
+RemoveMatch
+RequestName
+ReleaseName
+StartServiceByName
+Timeout reached before starting %s
+'%s' is not a legal service name.
+Eleele
+Service name '%s' is owned by IBus.
+BUS_IS_CONNECTION (connection)
+Can not acquire the service name '%s', it is reserved by IBus
+Already handled an Hello message
+org.freedesktop.DBus does not support %s
+Can not get name owner of '%s': no such name
+g_list_find (dbus->connections, connection) == NULL
+org.freedesktop.DBus.Error.ServiceUnknown 
+skip_connection == NULL || BUS_IS_CONNECTION (skip_connection)
+G_IS_DBUS_CONNECTION (dbus_connection)
+file %s: line %d (%s): should not be reached
+Unknown method call: destination=NULL, path='%s', interface='%s', member='%s'
+bus_dbus_impl_unregister_object
+bus_dbus_impl_register_object
+bus_dbus_impl_dispatch_message_by_rule_idle_cb
+bus_dbus_impl_dispatch_message_by_rule
+bus_dbus_impl_forward_message_idle_cb
+bus_dbus_impl_forward_message
+bus_dbus_impl_get_connection_by_name
+bus_dbus_impl_connection_filter_cb
+bus_dbus_impl_new_connection
+bus_dbus_impl_connection_destroy_cb
+bus_dbus_impl_list_queued_owners
+bus_name_service_set_primary_owner
+bus_connection_owner_new
+bus_name_service_add_non_primary_owner
+bus_name_service_new
+bus_name_service_get_primary_owner
+bus_name_service_remove_owner
+bus_name_service_find_owner
+start_service_timeout_cb
+bus_dbus_impl_service_method_call
+bus_dbus_impl_name_owner_changed
+bus_dbus_impl_name_lost
+bus_dbus_impl_name_acquired
+bus_connection_owner_free
+bus_name_service_free
+<node>  <interface name='org.freedesktop.DBus'>    <method name='Hello'>      <arg direction='out' type='s' name='unique_name' />    </method>    <method name='RequestName'>      <arg direction='in'  type='s' name='name' />      <arg direction='in'  type='u' name='flags' />      <arg direction='out' type='u' />    </method>    <method name='ReleaseName'>      <arg direction='in'  type='s' name='name' />      <arg direction='out' type='u' />    </method>    <method name='StartServiceByName'>      <arg direction='in'  type='s' />      <arg direction='in'  type='u' />      <arg direction='out' type='u' />    </method>    <method name='UpdateActivationEnvironment'>      <arg direction='in' type='a{ss}'/>    </method>    <method name='NameHasOwner'>      <arg direction='in'  type='s' name='name' />      <arg direction='out' type='b' />    </method>    <method name='ListNames'>      <arg direction='out' type='as' />    </method>    <method name='ListActivatableNames'>      <arg direction='out' type='as' />    </method>    <method name='AddMatch'>      <arg direction='in'  type='s' name='match_rule' />    </method>    <method name='RemoveMatch'>      <arg direction='in'  type='s' name='match_rule' />    </method>    <method name='GetNameOwner'>      <arg direction='in'  type='s' name='name' />      <arg direction='out' type='s' name='unique_name' />    </method>    <method name='ListQueuedOwners'>      <arg direction='in'  type='s' name='name' />      <arg direction='out' type='as' />    </method>    <method name='GetConnectionUnixUser'>      <arg direction='in'  type='s' />      <arg direction='out' type='u' />    </method>    <method name='GetConnectionUnixProcessID'>      <arg direction='in'  type='s' />      <arg direction='out' type='u' />    </method>    <method name='GetAdtAuditSessionData'>      <arg direction='in'  type='s' />      <arg direction='out' type='ay' />    </method>    <method name='GetConnectionSELinuxSecurityContext'>      <arg direction='in'  type='s' />      <arg direction='out' type='ay' />    </method>    <method name='ReloadConfig' />    <method name='GetId'>      <arg direction='out' type='s' />    </method>    <signal name='NameOwnerChanged'>      <arg type='s' name='name' />      <arg type='s' name='old_owner' />      <arg type='s' name='new_owner' />    </signal>    <signal name='NameLost'>      <arg type='s' name='name' />    </signal>    <signal name='NameAcquired'>      <arg type='s' name='name' />    </signal>  </interface></node>
+PreloadEngines
+EmbedPreeditText
+CreateInputContext
+(@av)
+(^a&s)
+(av)
+names != NULL
+ibusimpl.c
+Set global engine failed: %s
+Create factory failed.
+/org/freedesktop/IBus
+RegistryChanged
+GlobalEngineChanged
+engine_name != NULL
+engine_name[0] != '\0'
+xkb:us::eng
+Cannot find engine %s.
+PropertiesChanged
+{sv}
+(sa{sv}as)
+^a&s
+No global engine.
+No focused input context
+request-engine
+Create input context failed!
+BusIBusImpl
+BUS_IS_PANEL_PROXY (panel)
+BUS_IS_IBUS_IMPL (ibus)
+ibus->panel == panel
+fake
+engine-changed
+none
+refresh
+auto
+org.freedesktop.IBus.Panel
+old_name != NULL
+new_name != NULL
+ibus->panel == NULL
+focus-in
+focus-out
+RegisterComponent
+GetEnginesByNames
+Exit
+Ping
+SetGlobalEngine
+GetAddress
+CurrentInputContext
+ListEngines
+ListActiveEngines
+GetUseSysLayout
+GetUseGlobalEngine
+GetGlobalEngine
+IsGlobalEngineEnabled
+service_set_property received an unknown property: %s
+service_get_property received an unknown property: %s
+service_method_call received an unknown method: %s
+org.freedesktop.IBus.ListActiveEngines() is deprecated!
+org.freedesktop.IBus.ListEngines() is deprecated!
+org.freedesktop.IBus.IsGlobalEngineEnabled() is deprecated!
+org.freedesktop.IBus.GetUseGlobalEngine() is deprecated!
+org.freedesktop.IBus.GetUseSysLayout() is deprecated!
+org.freedesktop.IBus.GetAddress() is deprecated!
+The first argument should be an IBusComponent.
+Not every child processes exited!
+Global engine feature is disabled.
+org.freedesktop.DBus.Properties
+org.freedesktop.IBus.GetGlobalEngine() is deprecated!
+org.freedesktop.IBus.CurrentInputContext() is deprecated!
+context == NULL || BUS_IS_INPUT_CONTEXT (context)
+context == NULL || bus_input_context_get_capabilities (context) & IBUS_CAP_FOCUS
+Engine %s is already registered by other component
+BUS_IS_INPUT_CONTEXT (context)
+bus_ibus_impl_get_focused_input_context
+bus_ibus_impl_is_embed_preedit_text
+bus_ibus_impl_is_use_sys_layout
+_component_is_name_cb
+bus_ibus_impl_lookup_component_by_name
+bus_ibus_impl_get_keymap
+bus_ibus_impl_lookup_factory
+_context_focus_in_cb
+_context_focus_out_cb
+_context_destroy_cb
+_component_destroy_cb
+_ibus_get_engines_by_names
+bus_ibus_impl_get_engine_desc
+bus_ibus_impl_set_focused_context
+bus_ibus_impl_component_name_owner_changed
+_panel_destroy_cb
+_dbus_name_owner_changed_cb
+<node>
+  <interface name='org.freedesktop.IBus'>
+    <property name='Address' type='s' access='read' />
+    <property name='CurrentInputContext' type='o' access='read' />
+    <property name='Engines' type='av' access='read' />
+    <property name='GlobalEngine' type='v' access='read' />
+    <property name='PreloadEngines' type='as' access='write'>
+      <annotation
+          name='org.freedesktop.DBus.Property.EmitsChangedSignal'
+          value='true' />
+    </property>
+    <property name='EmbedPreeditText' type='b' access='readwrite'>
+      <annotation
+          name='org.freedesktop.DBus.Property.EmitsChangedSignal'
+          value='true' />
+    </property>
+    <method name='CreateInputContext'>
+      <arg direction='in'  type='s' name='client_name' />
+      <arg direction='out' type='o' name='object_path' />
+    </method>
+    <method name='RegisterComponent'>
+      <arg direction='in'  type='v' name='component' />
+    </method>
+    <method name='GetEnginesByNames'>
+      <arg direction='in'  type='as' name='names' />
+      <arg direction='out' type='av' name='engines' />
+    </method>
+    <method name='Exit'>
+      <arg direction='in'  type='b' name='restart' />
+    </method>
+    <method name='Ping'>
+      <arg direction='in'  type='v' name='data' />
+      <arg direction='out' type='v' name='data' />
+    </method>
+    <method name='SetGlobalEngine'>
+      <arg direction='in'  type='s' name='engine_name' />
+    </method>
+    <signal name='RegistryChanged'>
+    </signal>
+    <signal name='GlobalEngineChanged'>
+      <arg type='s' name='engine_name' />
+    </signal>
+    <property name='ActiveEngines' type='av' access='read' />
+    <method name='GetAddress'>
+      <arg direction='out' type='s' name='address' />
+      <annotation name='org.freedesktop.DBus.Deprecated' value='true'/>
+    </method>
+    <method name='CurrentInputContext'>
+      <arg direction='out' type='o' name='object_path' />
+      <annotation name='org.freedesktop.DBus.Deprecated' value='true'/>
+    </method>
+    <method name='ListEngines'>
+      <arg direction='out' type='av' name='engines' />
+      <annotation name='org.freedesktop.DBus.Deprecated' value='true'/>
+    </method>
+    <method name='ListActiveEngines'>
+      <arg direction='out' type='av' name='engines' />
+      <annotation name='org.freedesktop.DBus.Deprecated' value='true'/>
+    </method>
+    <method name='GetUseSysLayout'>
+      <arg direction='out' type='b' name='enabled' />
+      <annotation name='org.freedesktop.DBus.Deprecated' value='true'/>
+    </method>
+    <method name='GetUseGlobalEngine'>
+      <arg direction='out' type='b' name='enabled' />
+    </method>
+    <method name='IsGlobalEngineEnabled'>
+      <arg direction='out' type='b' name='enabled' />
+      <annotation name='org.freedesktop.DBus.Deprecated' value='true'/>
+    </method>
+    <method name='GetGlobalEngine'>
+      <arg direction='out' type='v' name='desc' />
+      <annotation name='org.freedesktop.DBus.Deprecated' value='true'/>
+    </method>
+  </interface>
+</node>
+dummy
+ibus-engine
+process-key-event
+set-cursor-location
+update-preedit-text
+show-preedit-text
+hide-preedit-text
+update-auxiliary-text
+show-auxiliary-text
+hide-auxiliary-text
+update-lookup-table
+show-lookup-table
+hide-lookup-table
+page-up-lookup-table
+page-down-lookup-table
+cursor-up-lookup-table
+cursor-down-lookup-table
+register-properties
+update-property
+set-content-type
+ProcessKeyEvent
+inputcontext.c
+(vuu)
+(iiii)
+(uu)
+ContentType
+BusInputContext
+BUS_IS_ENGINE_PROXY (engine)
+IBUS_IS_PROPERTY (prop)
+UpdateProperty
+context->engine == engine
+CursorDownLookupTable
+CursorUpLookupTable
+PageDownLookupTable
+PageUpLookupTable
+HideLookupTable
+ShowLookupTable
+HideAuxiliaryText
+ShowAuxiliaryText
+HidePreeditText
+ShowPreeditText
+(vub)
+UpdatePreeditText
+IBUS_IS_TEXT (text)
+RequireSurroundingText
+DeleteSurroundingText
+(iu)
+ForwardKeyEvent
+(uuu)
+CommitText
+text != NULL
+(vb)
+UpdateAuxiliaryText
+UpdateLookupTable
+IBUS_IS_LOOKUP_TABLE (table)
+IBUS_IS_PROP_LIST (props)
+RegisterProperties
+IBUS_IS_ENGINE_DESC (desc)
+Operation was cancelled
+context->data == NULL
+Can not find engine %s.
+client != NULL
+commit-text
+Opertation was cancelled
+Set context engine failed: %s
+SetCursorLocation
+ProcessHandWritingEvent
+CancelHandWriting
+FocusIn
+FocusOut
+Reset
+SetCapabilities
+PropertyActivate
+SetEngine
+GetEngine
+SetSurroundingText
+forward-key-event
+delete-surrounding-text
+require-surrounding-text
+org.freedesktop.IBus.InputContext
+Failed to emit PropertiesChanged signal: %s
+cancellable == NULL || G_IS_CANCELLABLE (cancellable)
+Context which does not has focus can not change engine to %s.
+The input context does not support focus.
+connection == NULL || BUS_IS_CONNECTION (connection)
+/org/freedesktop/IBus/InputContext_%d
+g_simple_async_result_get_source_tag (simple) == bus_input_context_set_engine_by_desc
+purpose != NULL && hints != NULL
+bus_input_context_set_content_type
+bus_input_context_get_content_type
+bus_input_context_get_client
+bus_input_context_set_capabilities
+bus_input_context_get_capabilities
+bus_input_context_get_engine_desc
+bus_input_context_get_engine
+bus_input_context_set_engine_by_desc_finish
+bus_input_context_set_engine_by_desc
+bus_input_context_set_engine
+bus_input_context_disable
+bus_input_context_enable
+bus_input_context_new
+bus_input_context_property_activate
+bus_input_context_candidate_clicked
+bus_input_context_cursor_down
+bus_input_context_cursor_up
+bus_input_context_page_down
+bus_input_context_page_up
+bus_input_context_focus_out
+bus_input_context_focus_in
+bus_input_context_has_focus
+bus_input_context_register_properties
+bus_input_context_update_lookup_table
+bus_input_context_update_auxiliary_text
+bus_input_context_clear_preedit_text
+bus_input_context_commit_text
+_engine_commit_text_cb
+_engine_forward_key_event_cb
+_engine_delete_surrounding_text_cb
+_engine_require_surrounding_text_cb
+bus_input_context_update_preedit_text
+_engine_update_preedit_text_cb
+bus_input_context_show_preedit_text
+_engine_show_preedit_text_cb
+bus_input_context_hide_preedit_text
+_engine_hide_preedit_text_cb
+_engine_update_auxiliary_text_cb
+bus_input_context_show_auxiliary_text
+_engine_show_auxiliary_text_cb
+bus_input_context_hide_auxiliary_text
+_engine_hide_auxiliary_text_cb
+_engine_update_lookup_table_cb
+bus_input_context_show_lookup_table
+_engine_show_lookup_table_cb
+bus_input_context_hide_lookup_table
+_engine_hide_lookup_table_cb
+bus_input_context_page_up_lookup_table
+_engine_page_up_lookup_table_cb
+bus_input_context_page_down_lookup_table
+_engine_page_down_lookup_table_cb
+bus_input_context_cursor_up_lookup_table
+_engine_cursor_up_lookup_table_cb
+bus_input_context_cursor_down_lookup_table
+_engine_cursor_down_lookup_table_cb
+_engine_register_properties_cb
+bus_input_context_update_property
+_engine_update_property_cb
+_engine_destroy_cb
+bus_input_context_unset_engine
+_connection_destroy_cb
+bus_input_context_service_method_call
+bus_input_context_service_set_property
+<node>  <interface name='org.freedesktop.IBus.InputContext'>    <method name='ProcessKeyEvent'>      <arg direction='in'  type='u' name='keyval' />      <arg direction='in'  type='u' name='keycode' />      <arg direction='in'  type='u' name='state' />      <arg direction='out' type='b' name='handled' />    </method>    <method name='SetCursorLocation'>      <arg direction='in' type='i' name='x' />      <arg direction='in' type='i' name='y' />      <arg direction='in' type='i' name='w' />      <arg direction='in' type='i' name='h' />    </method>    <method name='ProcessHandWritingEvent'>      <arg direction='in' type='ad' name='coordinates' />    </method>    <method name='CancelHandWriting'>      <arg direction='in' type='u' name='n_strokes' />    </method>    <method name='FocusIn' />    <method name='FocusOut' />    <method name='Reset' />    <method name='SetCapabilities'>      <arg direction='in' type='u' name='caps' />    </method>    <method name='PropertyActivate'>      <arg direction='in' type='s' name='name' />      <arg direction='in' type='u' name='state' />    </method>    <method name='SetEngine'>      <arg direction='in' type='s' name='name' />    </method>    <method name='GetEngine'>      <arg direction='out' type='v' name='desc' />    </method>    <method name='SetSurroundingText'>      <arg direction='in' type='v' name='text' />      <arg direction='in' type='u' name='cursor_pos' />      <arg direction='in' type='u' name='anchor_pos' />    </method>    <signal name='CommitText'>      <arg type='v' name='text' />    </signal>    <signal name='ForwardKeyEvent'>      <arg type='u' name='keyval' />      <arg type='u' name='keycode' />      <arg type='u' name='state' />    </signal>    <signal name='UpdatePreeditText'>      <arg type='v' name='text' />      <arg type='u' name='cursor_pos' />      <arg type='b' name='visible' />    </signal>    <signal name='ShowPreeditText'/>    <signal name='HidePreeditText'/>    <signal name='UpdateAuxiliaryText'>      <arg type='v' name='text' />      <arg type='b' name='visible' />    </signal>    <signal name='ShowAuxiliaryText'/>    <signal name='HideAuxiliaryText'/>    <signal name='UpdateLookupTable'>      <arg type='v' name='table' />      <arg type='b' name='visible' />    </signal>    <signal name='ShowLookupTable'/>    <signal name='HideLookupTable'/>    <signal name='PageUpLookupTable'/>    <signal name='PageDownLookupTable'/>    <signal name='CursorUpLookupTable'/>    <signal name='CursorDownLookupTable'/>    <signal name='RegisterProperties'>      <arg type='v' name='props' />    </signal>    <signal name='UpdateProperty'>      <arg type='v' name='prop' />    </signal>    <property name='ContentType' type='(uu)' access='write' />  </interface></node>
+desc
+engineproxy.c
+notify::factory
+callback
+Timeout was reached
+(vubu)
+arg0 != NULL
+table != NULL
+prop_list != NULL
+prop != NULL
+prop
+IBUS_IS_PROP_LIST (prop_list)
+engine->desc == NULL
+BusEngineProxy
+Desc is NULL
+g-connection
+g-flags
+g-default-timeout
+g-object-path
+org.freedesktop.IBus.Engine
+g-interface-name
+data->simple != NULL
+(su)
+prop_name != NULL
+PropertyShow
+PropertyHide
+(ssv)
+PageUp
+PageDown
+CursorUp
+CursorDown
+Enable
+Disable
+CandidateClicked
+G_IS_DBUS_CONNECTION (connection)
+error == NULL || *error == NULL
+g_simple_async_result_get_source_tag (simple) == bus_engine_proxy_new
+org.freedesktop.DBus.Properties.Set
+bus_engine_proxy_is_enabled
+bus_engine_proxy_get_properties
+bus_engine_proxy_get_desc
+bus_engine_proxy_candidate_clicked
+bus_engine_proxy_disable
+bus_engine_proxy_enable
+bus_engine_proxy_focus_out
+bus_engine_proxy_focus_in
+bus_engine_proxy_cursor_down
+bus_engine_proxy_cursor_up
+bus_engine_proxy_page_down
+bus_engine_proxy_page_up
+bus_engine_proxy_reset
+bus_engine_proxy_set_content_type
+bus_engine_proxy_set_surrounding_text
+bus_engine_proxy_property_hide
+bus_engine_proxy_property_show
+bus_engine_proxy_property_activate
+bus_engine_proxy_set_capabilities
+bus_engine_proxy_cancel_hand_writing
+bus_engine_proxy_process_hand_writing_event
+bus_engine_proxy_set_cursor_location
+bus_engine_proxy_process_key_event
+bus_engine_proxy_new_finish
+bus_engine_proxy_new_internal
+create_engine_ready_cb
+bus_engine_proxy_new
+bus_engine_proxy_set_property
+bus_engine_proxy_real_register_properties
+bus_engine_proxy_real_update_property
+bus_engine_proxy_g_signal
+page-up
+page-down
+cursor-up
+cursor-down
+candidate-clicked
+property-activate
+property-show
+property-hide
+panelproxy.c
+BusPanelProxy
+/org/freedesktop/IBus/Panel
+StateChanged
+DestroyContext
+panel->focused_context == context
+context == panel->focused_context
+bus_panel_proxy_destroy_context
+bus_panel_proxy_focus_out
+_context_set_cursor_location_cb
+_context_update_preedit_text_cb
+_context_show_preedit_text_cb
+_context_hide_preedit_text_cb
+_context_update_auxiliary_text_cb
+_context_show_auxiliary_text_cb
+_context_hide_auxiliary_text_cb
+_context_update_lookup_table_cb
+_context_show_lookup_table_cb
+_context_hide_lookup_table_cb
+_context_page_up_lookup_table_cb
+_context_page_down_lookup_table_cb
+_context_cursor_up_lookup_table_cb
+_context_cursor_down_lookup_table_cb
+_context_register_properties_cb
+_context_update_property_cb
+_context_state_changed_cb
+_context_destroy_cb
+_context_set_content_type_cb
+bus_panel_proxy_focus_in
+bus_panel_proxy_state_changed
+bus_panel_proxy_cursor_down_lookup_table
+bus_panel_proxy_cursor_up_lookup_table
+bus_panel_proxy_page_down_lookup_table
+bus_panel_proxy_page_up_lookup_table
+bus_panel_proxy_hide_lookup_table
+bus_panel_proxy_show_lookup_table
+bus_panel_proxy_hide_auxiliary_text
+bus_panel_proxy_show_auxiliary_text
+bus_panel_proxy_hide_preedit_text
+bus_panel_proxy_show_preedit_text
+bus_panel_proxy_set_content_type
+bus_panel_proxy_update_property
+bus_panel_proxy_register_properties
+bus_panel_proxy_update_lookup_table
+bus_panel_proxy_update_auxiliary_text
+bus_panel_proxy_update_preedit_text
+bus_panel_proxy_set_cursor_location
+bus_panel_proxy_new
+bus_panel_proxy_g_signal
+bus_panel_proxy_page_up
+bus_panel_proxy_page_down
+bus_panel_proxy_cursor_up
+bus_panel_proxy_cursor_down
+bus_panel_proxy_candidate_clicked
+bus_panel_proxy_property_activate
+BusFactoryProxy
+factoryproxy.c
+/org/freedesktop/IBus/Factory
+org.freedesktop.IBus.Factory
+CreateEngine
+bus_factory_proxy_create_engine
+bus_factory_proxy_new
+unix:tmpdir=/tmp
+new-connection
+%s,guid=%s
+/usr/bin/ibus-daemon
+/proc/%d/exe
+execv %s failed!
+server
+ (deleted)
+bus_server_run
+BusConnection
+BUS_CONNECTION
+closed
+connection.c
+bus_connection_lookup (dbus_connection) == NULL
+connection->unique_name == NULL
+bus_connection_set_filter
+bus_connection_get_dbus_connection
+bus_connection_set_unique_name
+bus_connection_lookup
+bus_connection_new
+matchrule.c
+BusMatchRule
+rule != NULL
+sender != NULL
+interface != NULL
+member != NULL
+path != NULL
+dest != NULL
+arg != NULL
+true
+false
+signal
+method_call
+method_return
+error
+sender
+interface
+member
+destination
+eavesdrop
+a != NULL
+b != NULL
+BUS_IS_MATCH_RULE (rule)
+type == G_DBUS_MESSAGE_TYPE_SIGNAL || type == G_DBUS_MESSAGE_TYPE_METHOD_CALL || type == G_DBUS_MESSAGE_TYPE_METHOD_RETURN || type == G_DBUS_MESSAGE_TYPE_ERROR
+bus_match_rule_get_recipients
+bus_match_rule_remove_recipient
+bus_match_rule_add_recipient
+bus_match_rule_is_equal
+bus_match_rule_match
+bus_match_rule_set_arg
+bus_match_rule_set_destination
+bus_match_rule_set_path
+bus_match_rule_set_member
+bus_match_rule_set_interface
+bus_match_rule_set_sender
+bus_match_rule_set_message_type
+bus_match_rule_new
+bus_match_rule_connection_destroy_cb
+return_value != NULL
+n_param_values == 4
+n_param_values == 2
+n_param_values == 3
+n_param_values == 5
+bus_marshal_VOID__UINT_UINT_UINT
+bus_marshal_VOID__UINT_UINT
+bus_marshal_VOID__STRING_INT
+bus_marshal_VOID__OBJECT_STRING_STRING_STRING
+bus_marshal_VOID__OBJECT_UINT_BOOLEAN_UINT
+bus_marshal_VOID__OBJECT_UINT_BOOLEAN
+bus_marshal_VOID__OBJECT_STRING
+bus_marshal_VOID__OBJECT_BOOLEAN
+bus_marshal_VOID__INT_INT_INT_INT
+bus_marshal_VOID__INT_UINT
+bus_marshal_OBJECT__STRING
+bus_marshal_BOOLEAN__UINT_UINT_UINT
+1.5.11
+Tacocat
+%s - Version %s
+cmdline
+main.c
+- ibus daemon
+Option parsing failed: %s
+Can not daemonize ibus.
+default
+org.freedesktop.IBus.Config
+disable
+version
+daemonize
+single
+execute ibus XIM server.
+desktop
+config
+address
+replace
+cache
+timeout [default is 15000]
+mem-profile
+restart
+verbose
+verbose.
+gnome
+Can not parse cmdline `%s` exec: %s
+Can not execute cmdline `%s`: %s
+Bad timeout (must be >= -1): %d
+Please run ibus-daemon with login user! Do not run ibus-daemon with sudo or su.
+current session already has an ibus-daemon.
+Can not execute default config program
+Can not execute default panel program
+/usr/lib/ibus/ibus-x11 --kill-daemon
+Show the application's version.
+run ibus as background process.
+do not execute panel and config module.
+specify the name of desktop session. [default=gnome]
+specify the cmdline of panel program. pass 'disable' not to start a panel program.
+specify the cmdline of config program. pass 'disable' not to start a config program.
+specify the address of ibus daemon.
+if there is an old ibus-daemon is running, it will be replaced.
+specify the cache mode. [auto/refresh/none]
+gdbus reply timeout in milliseconds. pass -1 to use the default timeout of gdbus.
+enable memory profile, send SIGUSR2 to print out the memory profile.
+restart panel and config processes when they die.
+execute_cmdline
+;*3$"
+3e25010484dea20ebeea6b2a8b5940a2220817.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

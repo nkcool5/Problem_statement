@@ -1,0 +1,3086 @@
+/lib64/ld-linux-x86-64.so.2
+H$2@
+UY F%T
+0B0	
+I,5A
+i?/q
+Mokj 6
+1F1c
+F :9H
+-Fc"
+m,PB
+	j	C
+'xP?
+mnTQ
+WzhQ
+8l':/
+\mUM
+hRox}
+libgtk-3.so.0
+g_object_new
+g_module_open
+g_object_ref
+gdk_screen_get_width
+Eleele
+g_option_context_parse
+gdk_x11_window_get_xid
+g_return_if_fail_warning
+g_get_home_dir
+g_object_set_data_full
+g_mkdir_with_parents
+g_base64_encode
+gdk_screen_get_monitor_at_window
+g_type_register_static_simple
+gdk_error_trap_pop
+g_value_get_string
+gdk_display_get_device_manager
+g_type_class_adjust_private_offset
+g_timeout_add
+g_error_free
+gdk_window_set_cursor
+XGetWindowProperty
+g_strndup
+g_key_file_load_from_file
+gdk_device_get_source
+g_uri_list_extract_uris
+g_cclosure_marshal_VOID__STRING
+g_string_new
+g_str_equal
+gdk_window_get_state
+g_option_context_new
+g_get_current_time
+g_list_length
+g_log
+gdk_screen_get_display
+g_list_append
+g_build_filename
+gdk_device_get_associated_device
+g_hash_table_remove_all
+gdk_screen_get_root_window
+g_memdup
+g_key_file_load_from_data
+g_hash_table_get_keys
+g_list_free
+g_list_first
+gdk_screen_get_monitor_at_point
+g_hash_table_new_full
+g_signal_emit
+g_strdup
+g_hash_table_insert
+gdk_error_trap_push
+gdk_screen_get_height
+g_strdup_printf
+gdk_keyval_to_lower
+g_malloc
+g_signal_new
+gdk_window_get_display
+g_hash_table_iter_init
+g_file_set_contents
+g_dir_close
+gdk_keyval_from_name
+gdk_color_parse
+g_module_error
+gdk_x11_get_xatom_by_name_for_display
+g_value_set_boolean
+gdk_display_get_default
+g_string_insert_c
+g_strjoin
+gdk_threads_leave
+g_key_file_get_groups
+g_str_has_prefix
+gdk_device_manager_get_client_pointer
+g_idle_add
+g_signal_connect_data
+g_once_init_enter
+g_hash_table_lookup
+g_hash_table_iter_next
+gdk_threads_enter
+g_intern_static_string
+g_strrstr
+g_strfreev
+g_option_context_free
+g_str_hash
+g_ascii_strdown
+g_markup_printf_escaped
+_Jv_RegisterClasses
+g_ptr_array_remove_index
+g_file_test
+g_object_set
+g_ptr_array_new
+gdk_threads_add_timeout
+XFree
+gdk_screen_get_type
+g_dir_open
+gdk_keyval_to_upper
+g_key_file_set_string
+g_unlink
+gdk_screen_get_monitor_geometry
+g_type_check_instance_is_a
+g_object_set_property
+gdk_flush
+gdk_device_get_position
+g_key_file_to_data
+g_key_file_get_keys
+g_key_file_get_string
+gdk_window_get_type
+g_node_insert_before
+gdk_window_get_parent
+g_module_symbol
+g_dir_read_name
+g_option_context_add_main_entries
+g_hash_table_remove
+g_key_file_new
+g_string_free
+g_object_set_data
+g_ptr_array_foreach
+g_key_file_get_integer
+gdk_screen_get_number
+g_application_get_is_remote
+g_object_unref
+g_cclosure_marshal_VOID__VOID
+g_once_init_leave
+g_value_peek_pointer
+gdk_screen_get_default
+g_strdup_vprintf
+g_malloc0_n
+g_key_file_free
+g_realloc
+g_ptr_array_sort
+g_convert
+g_type_class_peek_parent
+g_snprintf
+g_hash_table_destroy
+g_malloc0
+g_dgettext
+g_node_unlink
+g_ptr_array_add
+g_option_context_set_help_enabled
+g_str_has_suffix
+g_list_nth_data
+g_value_init
+pango_font_description_from_string
+_ITM_deregisterTMCloneTable
+gdk_device_get_window_at_position
+g_string_append
+g_slist_append
+g_cclosure_marshal_VOID__OBJECT
+g_value_unset
+g_key_file_has_key
+gdk_device_ungrab
+gdk_keyval_name
+__gmon_start__
+g_ptr_array_free
+gdk_threads_add_idle
+g_object_get_data
+_ITM_registerTMCloneTable
+g_node_new
+g_module_supported
+gdk_x11_display_get_xdisplay
+g_signal_emit_by_name
+gdk_window_get_origin
+g_app_info_launch_default_for_uri
+g_source_remove
+gdk_device_grab
+g_slist_free
+g_strcmp0
+g_hash_table_new
+g_key_file_get_boolean
+gtk_text_buffer_insert
+gtk_range_get_value
+gtk_toggle_action_get_type
+gtk_combo_box_text_prepend_text
+gtk_cell_renderer_get_type
+gtk_widget_is_sensitive
+gtk_ui_manager_get_accel_group
+gtk_text_buffer_get_text
+gtk_cell_renderer_text_new
+gtk_label_get_type
+gtk_check_button_get_type
+gtk_statusbar_new
+gtk_menu_get_type
+gtk_radio_button_new_with_label_from_widget
+gtk_combo_box_text_get_type
+gtk_statusbar_get_context_id
+gtk_dialog_set_default_response
+gtk_widget_set_margin_end
+gtk_about_dialog_set_copyright
+gtk_file_chooser_set_action
+gtk_window_add_accel_group
+gtk_message_dialog_new
+gtk_tree_sortable_get_sort_column_id
+gtk_widget_get_allocation
+gtk_window_get_type
+gtk_tree_view_set_model
+gtk_widget_is_focus
+gtk_misc_set_alignment
+gtk_notebook_set_current_page
+gtk_window_present
+gtk_box_set_homogeneous
+gtk_notebook_get_type
+gtk_tree_view_column_pack_start
+gtk_action_group_set_sensitive
+gtk_icon_theme_get_default
+gtk_toolbar_set_icon_size
+gtk_about_dialog_set_wrap_license
+gtk_widget_get_window
+gtk_menu_popup
+gtk_image_get_type
+gtk_font_button_set_font_name
+gtk_button_box_new
+gtk_menu_shell_get_type
+gtk_tool_button_set_icon_name
+gtk_window_set_default_size
+gtk_container_add
+gtk_window_new
+gtk_text_buffer_get_bounds
+gtk_about_dialog_set_artists
+gtk_dialog_set_alternative_button_order
+gtk_range_set_value
+gtk_tree_selection_get_selected
+gtk_widget_show_all
+gtk_grid_new
+gtk_dialog_response
+gtk_table_resize
+gtk_toolbar_get_type
+gtk_selection_data_get_data
+gtk_window_get_position
+gtk_box_pack_start
+gtk_combo_box_new_with_model
+gtk_tool_item_new
+gtk_notebook_page_num
+gtk_button_new
+gtk_toggle_tool_button_new
+gtk_tree_view_column_new
+gtk_ui_manager_new
+gtk_editable_select_region
+gtk_file_chooser_set_filename
+gtk_container_get_type
+gtk_cell_renderer_progress_new
+gtk_widget_add_events
+gtk_about_dialog_set_program_name
+gtk_text_view_new
+gtk_radio_button_new_with_label
+gtk_cell_renderer_pixbuf_get_type
+gtk_adjustment_get_type
+gtk_button_box_get_type
+gtk_menu_item_get_submenu
+gtk_toggle_button_get_type
+gtk_entry_set_activates_default
+gtk_bin_get_type
+gtk_action_group_new
+gtk_tree_view_get_column
+gtk_entry_new
+gtk_paned_new
+gtk_image_set_from_stock
+gtk_file_chooser_get_filenames
+gtk_event_box_new
+gtk_entry_get_type
+gtk_radio_action_get_current_value
+gtk_alignment_set
+gtk_widget_get_toplevel
+gtk_list_store_get_type
+gtk_toggle_button_new
+gtk_button_new_with_label
+gtk_entry_set_visibility
+gtk_event_box_get_type
+gtk_widget_hide
+gtk_about_dialog_new
+gtk_action_group_add_radio_actions
+gtk_tree_model_get
+gtk_paned_get_type
+gtk_font_button_get_type
+gtk_statusbar_pop
+gtk_list_store_set_valist
+gtk_check_menu_item_new_with_label
+gtk_text_buffer_set_text
+gtk_label_new
+gtk_menu_item_get_type
+gtk_frame_new
+gtk_separator_menu_item_new
+gtk_entry_set_width_chars
+gtk_tree_selection_set_select_function
+gtk_scrolled_window_new
+gtk_ui_manager_add_ui_from_string
+gtk_drag_dest_set
+gtk_toggle_action_get_active
+gtk_widget_get_mapped
+gtk_widget_get_preferred_size
+gtk_widget_reparent
+gtk_toolbar_set_show_arrow
+gtk_widget_destroy
+gtk_grid_attach
+gtk_tree_model_iter_next
+gtk_cell_layout_get_type
+gtk_tree_row_reference_new
+gtk_action_group_add_actions
+gtk_tree_view_append_column
+gtk_window_set_position
+gtk_toolbar_insert
+gtk_button_box_set_layout
+gtk_widget_set_vexpand
+gtk_check_menu_item_set_active
+gtk_label_set_max_width_chars
+gtk_grab_add
+gtk_notebook_get_current_page
+gtk_file_chooser_set_current_folder
+gtk_dialog_get_type
+gtk_file_chooser_button_set_width_chars
+gtk_action_group_add_toggle_actions
+gtk_tree_model_get_type
+gtk_dialog_get_content_area
+gtk_grid_set_row_spacing
+gtk_misc_get_type
+gtk_tree_path_new_from_string
+gtk_widget_override_color
+gtk_dialog_get_action_area
+gtk_toggle_tool_button_get_type
+gtk_widget_get_display
+gtk_statusbar_get_type
+gtk_toggle_button_get_active
+gtk_image_new_from_icon_name
+gtk_tree_model_filter_get_type
+gtk_text_view_get_buffer
+gtk_tree_sortable_get_type
+gtk_widget_set_size_request
+gtk_tree_model_iter_children
+gtk_vbox_get_type
+gtk_entry_set_max_length
+gtk_file_chooser_button_new_with_dialog
+gtk_css_provider_load_from_data
+gtk_tree_store_append
+gtk_alignment_get_type
+gtk_tree_view_column_set_cell_data_func
+gtk_widget_set_tooltip_markup
+gtk_widget_realize
+gtk_file_chooser_set_select_multiple
+gtk_ui_manager_insert_action_group
+gtk_cell_layout_pack_start
+gtk_tree_view_expand_all
+gtk_combo_box_text_new_with_entry
+gtk_radio_menu_item_get_group
+gtk_combo_box_set_active
+gtk_widget_set_name
+gtk_ui_manager_add_ui
+gtk_check_button_new_with_label
+gtk_grid_get_type
+gtk_tree_model_get_value
+gtk_widget_get_type
+gtk_tool_button_get_type
+gtk_notebook_set_show_tabs
+gtk_about_dialog_set_license
+gtk_table_attach_defaults
+gtk_main_quit
+gtk_get_current_event_time
+gtk_tree_view_column_set_resizable
+gtk_window_set_accept_focus
+gtk_scale_get_type
+gtk_dialog_set_response_sensitive
+gtk_list_store_remove
+gtk_tree_model_filter_new
+gtk_button_set_focus_on_click
+gtk_tree_model_get_iter_first
+gtk_notebook_set_tab_detachable
+gtk_style_context_add_provider_for_screen
+gtk_window_get_screen
+gtk_menu_item_set_submenu
+gtk_scale_new_with_range
+gtk_menu_shell_insert
+gtk_widget_is_composited
+gtk_tree_view_new_with_model
+gtk_radio_button_get_type
+gtk_tree_view_set_headers_visible
+gtk_widget_grab_focus
+gtk_notebook_set_scrollable
+gtk_list_store_swap
+gtk_file_chooser_set_extra_widget
+gtk_notebook_remove_page
+gtk_window_iconify
+gtk_viewport_new
+gtk_combo_box_set_active_iter
+gtk_action_group_add_action
+gtk_tree_view_get_selection
+gtk_paned_pack1
+gtk_paned_pack2
+gtk_tree_view_column_set_alignment
+gtk_alignment_new
+gtk_dialog_run
+gtk_text_buffer_insert_with_tags_by_name
+gtk_tree_selection_select_iter
+gtk_list_store_set
+gtk_toggle_tool_button_set_active
+gtk_image_menu_item_new_from_stock
+gtk_tree_model_get_iter
+gtk_tree_view_column_set_sort_column_id
+gtk_adjustment_get_upper
+gtk_button_new_from_stock
+gtk_icon_theme_append_search_path
+gtk_menu_shell_append
+gtk_separator_tool_item_new
+gtk_widget_get_parent
+gtk_tree_model_filter_set_visible_func
+gtk_widget_get_sensitive
+gtk_box_new
+gtk_about_dialog_get_type
+gtk_ui_manager_new_merge_id
+gtk_toolbar_unset_icon_size
+gtk_window_resize
+gtk_tree_view_set_tooltip_row
+gtk_tree_view_column_add_attribute
+gtk_scrollable_get_hadjustment
+gtk_css_provider_new
+gtk_statusbar_push
+gtk_tree_path_free
+gtk_widget_modify_fg
+gtk_tree_view_expand_row
+gtk_grid_set_column_homogeneous
+gtk_about_dialog_set_version
+gtk_list_store_append
+gtk_scrollable_get_vadjustment
+gtk_grid_set_column_spacing
+gtk_entry_get_text
+gtk_tree_sortable_set_sort_column_id
+gtk_widget_set_tooltip_text
+gtk_scrollable_get_type
+gtk_menu_shell_prepend
+gtk_dialog_add_buttons
+gtk_about_dialog_set_logo_icon_name
+gtk_tree_store_set
+gtk_adjustment_get_value
+gtk_tree_model_get_path
+gtk_tool_button_set_label
+gtk_menu_new
+gtk_tree_view_column_set_expand
+gtk_button_set_image
+gtk_container_set_focus_chain
+gtk_range_get_type
+gtk_label_set_markup
+gtk_cell_layout_add_attribute
+gtk_image_set_from_pixbuf
+gtk_notebook_new
+gtk_tooltip_set_text
+gtk_button_new_with_mnemonic
+gtk_list_store_clear
+gtk_file_chooser_dialog_new
+gtk_tree_store_get_type
+gtk_viewport_set_shadow_type
+gtk_label_set_text
+gtk_main
+gtk_text_view_get_type
+gtk_widget_set_opacity
+gtk_tree_row_reference_get_path
+gtk_button_set_relief
+gtk_arrow_new
+gtk_box_get_type
+gtk_tree_view_get_tooltip_context
+gtk_bin_get_child
+gtk_tree_model_filter_refilter
+gtk_entry_set_icon_from_stock
+gtk_window_unmaximize
+gtk_tree_view_column_new_with_attributes
+gtk_dialog_new_with_buttons
+gtk_tree_view_set_cursor
+gtk_file_chooser_button_new
+gtk_check_menu_item_get_type
+gtk_editable_get_type
+gtk_tree_selection_get_selected_rows
+gtk_viewport_get_type
+gtk_scale_set_draw_value
+gtk_tree_view_column_set_visible
+gtk_radio_menu_item_get_type
+gtk_notebook_set_tab_reorderable
+gtk_container_set_border_width
+gtk_file_chooser_get_type
+gtk_tree_view_get_type
+gtk_file_chooser_get_current_folder
+gtk_table_attach
+gtk_menu_item_set_label
+gtk_widget_set_can_focus
+gtk_button_box_set_child_secondary
+gtk_menu_item_new_with_label
+gtk_widget_get_realized
+gtk_paned_get_position
+gtk_tree_view_map_expanded_rows
+gtk_frame_get_type
+gtk_tree_view_column_set_title
+gtk_widget_override_background_color
+gtk_window_move
+gtk_check_menu_item_get_active
+gtk_text_view_set_wrap_mode
+gtk_tool_item_set_tooltip_text
+gtk_adjustment_set_value
+gtk_widget_get_has_window
+gtk_text_view_set_editable
+gtk_text_buffer_get_end_iter
+gtk_init
+gtk_combo_box_get_type
+gtk_widget_set_sensitive
+gtk_window_set_default_icon_name
+gtk_combo_box_text_new
+gtk_ui_manager_get_widget
+gtk_check_button_new
+gtk_cell_renderer_pixbuf_new
+gtk_tool_item_get_type
+gtk_notebook_append_page
+gtk_about_dialog_set_authors
+gtk_tree_path_prev
+gtk_text_buffer_create_tag
+gtk_dialog_add_button
+gtk_table_get_type
+gtk_tool_item_set_is_important
+gtk_image_new_from_pixbuf
+gtk_window_fullscreen
+gtk_widget_get_style_context
+gtk_combo_box_text_append
+gtk_about_dialog_set_translator_credits
+gtk_notebook_set_show_border
+gtk_widget_show
+gtk_radio_menu_item_new_with_label
+gtk_container_get_children
+gtk_button_set_label
+gtk_about_dialog_set_website
+gtk_file_chooser_button_get_type
+gtk_scrolled_window_set_policy
+gtk_tree_view_scroll_to_cell
+gtk_combo_box_get_active
+gtk_window_set_title
+gtk_font_button_new
+gtk_toolbar_set_style
+gtk_text_view_scroll_to_iter
+gtk_entry_set_text
+gtk_widget_set_hexpand
+gtk_image_new
+gtk_window_set_destroy_with_parent
+gtk_menu_item_new_with_mnemonic
+gtk_list_store_new
+gtk_toggle_action_set_active
+gtk_tool_button_new
+gtk_combo_box_get_model
+gtk_combo_box_text_append_text
+gtk_notebook_get_nth_page
+gtk_action_group_set_translation_domain
+gtk_grab_remove
+gtk_font_button_get_font_name
+gtk_scrolled_window_get_type
+gtk_window_deiconify
+gtk_window_get_size
+gtk_tree_view_new
+gtk_container_remove
+gtk_button_get_type
+gtk_box_set_spacing
+gtk_window_maximize
+gtk_paned_set_position
+gtk_action_group_get_action
+gtk_toolbar_new
+gtk_combo_box_text_get_active_text
+gtk_window_set_transient_for
+gtk_container_check_resize
+gtk_tree_model_sort_new_with_model
+gtk_tree_store_new
+gtk_toggle_button_set_active
+gtk_tree_selection_set_mode
+gtk_cell_layout_pack_end
+gtk_scrollbar_new
+gtk_about_dialog_set_comments
+gtk_action_new
+gtk_frame_set_shadow_type
+gtk_style_provider_get_type
+gtk_toggle_tool_button_get_active
+gtk_style_context_add_class
+gtk_combo_box_get_active_iter
+gtk_widget_set_margin_right
+gtk_notebook_get_n_pages
+gtk_window_set_resizable
+gtk_image_menu_item_get_type
+gtk_file_chooser_get_filename
+gtk_window_set_modal
+libgdk-3.so.0
+g_ptr_array_remove
+gdk_get_display
+gdk_threads_init
+gdk_cursor_new
+libglib-2.0.so.0
+g_key_file_set_boolean
+g_spawn_command_line_sync
+g_option_context_get_help
+g_key_file_set_integer
+g_strlcpy
+g_base64_decode
+g_get_user_name
+g_set_application_name
+libgio-2.0.so.0
+g_application_run
+g_application_new
+g_action_get_name
+g_application_set_inactivity_timeout
+g_application_command_line_get_arguments
+libgobject-2.0.so.0
+g_type_check_instance_cast
+g_type_check_class_cast
+g_type_init
+libgmodule-2.0.so.0
+libpango-1.0.so.0
+libgdk_pixbuf-2.0.so.0
+gdk_pixbuf_new_from_xpm_data
+libX11.so.6
+libssh.so.4
+ssh_key_free
+ssh_userauth_publickey
+ssh_set_callbacks
+channel_request_shell
+ssh_userauth_kbdint
+sftp_fstat
+ssh_get_publickey_hash
+ssh_pki_import_privkey_file
+channel_send_eof
+sftp_canonicalize_path
+sftp_opendir
+ssh_get_error
+ssh_write_knownhost
+ssh_string_free_char
+ssh_threads_set_callbacks
+sftp_stat
+channel_forward_cancel
+channel_get_exit_status
+sftp_unlink
+sftp_new
+channel_change_pty_size
+ssh_get_hexa
+sftp_write
+ssh_select
+ssh_userauth_password
+ssh_userauth_none
+sftp_rmdir
+channel_accept_x11
+sftp_close
+channel_poll
+ssh_userauth_kbdint_setanswer
+channel_request_x11
+sftp_readdir
+channel_read_nonblocking
+sftp_dir_eof
+ssh_userauth_kbdint_getnprompts
+ssh_userauth_list
+ssh_connect
+channel_write
+sftp_attributes_free
+ssh_userauth_autopubkey
+channel_forward_accept
+ssh_init
+channel_free
+sftp_closedir
+sftp_mkdir
+channel_close
+channel_request_pty
+sftp_seek64
+channel_new
+sftp_init
+ssh_get_publickey
+channel_open_session
+channel_forward_listen
+sftp_read
+ssh_options_set
+channel_open_forward
+channel_request_exec
+ssh_clean_pubkey_hash
+ssh_is_server_known
+ssh_new
+libssh_threads.so.4
+ssh_threads_get_pthread
+libpthread.so.0
+pthread_mutex_destroy
+pthread_mutex_init
+pthread_setcancelstate
+__errno_location
+pthread_mutex_lock
+fcntl
+pthread_cancel
+pthread_create
+pthread_join
+__pthread_unwind_next
+__pthread_unregister_cancel
+__pthread_register_cancel
+pthread_mutex_unlock
+pthread_setcanceltype
+pthread_testcancel
+libgcrypt.so.20
+gcry_cipher_setiv
+gcry_cipher_encrypt
+gcry_check_version
+gcry_cipher_close
+gcry_cipher_open
+gcry_cipher_decrypt
+gcry_cipher_setkey
+gcry_control
+gcry_strerror
+libavahi-common.so.3
+avahi_simple_poll_iterate
+avahi_simple_poll_get
+avahi_simple_poll_new
+avahi_strerror
+avahi_simple_poll_free
+libavahi-client.so.3
+avahi_service_resolver_new
+avahi_client_errno
+avahi_client_new
+avahi_client_free
+avahi_service_browser_free
+avahi_service_browser_new
+avahi_service_browser_get_client
+avahi_service_resolver_get_client
+avahi_service_resolver_free
+libavahi-ui-gtk3.so.0
+aui_service_dialog_get_type
+aui_service_dialog_get_host_name
+aui_service_dialog_set_resolve_host_name
+aui_service_dialog_new
+aui_service_dialog_get_port
+aui_service_dialog_set_resolve_service
+aui_service_dialog_set_browse_service_types
+libvte-2.91.so.0
+vte_terminal_new
+vte_terminal_set_font
+vte_terminal_set_scrollback_lines
+vte_terminal_set_pty
+vte_pty_new_foreign_sync
+vte_terminal_set_encoding
+vte_terminal_get_row_count
+vte_terminal_set_size
+vte_terminal_paste_clipboard
+vte_terminal_set_scroll_on_keystroke
+vte_terminal_get_column_count
+vte_terminal_get_type
+vte_terminal_set_allow_bold
+vte_terminal_copy_clipboard
+libappindicator3.so.1
+app_indicator_set_title
+app_indicator_new
+app_indicator_set_menu
+app_indicator_set_status
+app_indicator_set_icon_theme_path
+libc.so.6
+socket
+srand
+dcngettext
+strrchr
+posix_openpt
+__strdup
+Tacocat
+__isoc99_sscanf
+dcgettext
+__fdelt_chk
+__stack_chk_fail
+bind_textdomain_codeset
+__assert_fail
+strtol
+strlen
+memset
+strstr
+tcsetattr
+bind
+grantpt
+ptsname
+putenv
+__sigsetjmp
+fseeko64
+inet_addr
+memcpy
+fclose
+setsockopt
+ftello64
+__strndup
+__xstat64
+system
+__snprintf_chk
+fwrite
+fread
+unlockpt
+strchr
+tcgetattr
+sleep
+__strcpy_chk
+fopen64
+bindtextdomain
+__libc_start_main
+_edata
+__bss_start
+remmina_scaler_new
+remmina_applet_menu_item_new
+remmina_file_editor_new_copy
+remmina_public_load_combo_text_d
+remmina_main_get_type
+remmina_ssh_set_error
+remmina_keymap_file
+remmina_init_dialog_authuserpwd
+remmina_key_chooser_get_type
+remmina_protocol_widget_init_show
+remmina_key_chooser_new
+remmina_applet_menu_get_type
+remmina_external_tools_launcher
+remmina_scrolled_viewport_remove_motion
+remmina_file_get_string
+remmina_chain_button_set
+remmina_log_start
+remmina_connection_window_open_from_filename
+remmina_public_create_group
+remmina_init_dialog_authpwd
+__libc_csu_fini
+remmina_file_get_secret
+remmina_ftp_client_add_file
+remmina_plugin_manager_for_each_plugin
+remmina_pref_get_value
+remmina_file_dup_temp_protocol
+remmina_protocol_widget_init_save_cred
+remmina_file_set_string
+remmina_protocol_widget_set_expand
+remmina_protocol_widget_get_height
+remmina_ssh_find_identity
+remmina_file_set_string_ref
+remmina_sftp_new_from_ssh
+remmina_crypt_decrypt
+remmina_protocol_widget_close_connection
+remmina_public_open_xdisplay
+remmina_protocol_widget_changed_certificate
+remmina_ssh_tunnel_free
+remmina_public_create_combo_entry
+remmina_icon_is_autostart
+remmina_applet_menu_item_get_type
+remmina_ftp_client_clear_file_list
+remmina_protocol_widget_emit_signal
+remmina_ssh_tunnel_new_from_file
+remmina_file_get_icon_name
+remmina_public_create_combo_map
+remmina_pref_file
+remmina_connection_window_get_type
+__data_start
+remmina_public_create_combo_text_d
+remmina_ssh_auth_gui
+remmina_widget_pool_register
+remmina_applet_menu_add_item
+remmina_protocol_widget_get_expand
+remmina_icon_init
+remmina_init_dialog_set_status
+remmina_public_create_combo
+remmina_protocol_widget_init_show_retry
+remmina_ftp_task_free
+remmina_file_save_all
+remmina_avahi_stop
+remmina_protocol_widget_init_get_cacrl
+remmina_ssh_tunnel_xport
+remmina_file_copy
+remmina_pref_dialog_get_type
+remmina_avahi_new
+remmina_public_create_combo_mapint
+remmina_string_list_set_text
+remmina_connection_window_open_from_file
+remmina_ssh_tunnel_open
+remmina_protocol_widget_get_domain
+remmina_ftp_client_save_state
+remmina_file_manager_get_group_tree
+remmina_public_popup_position
+remmina_file_free
+remmina_scaler_set
+remmina_chain_button_get_type
+remmina_protocol_widget_init_hide
+remmina_protocol_widget_get_scale
+remmina_ssh_tunnel_cancel_accept
+remmina_plugin_manager_get_secret_plugin
+remmina_ssh_shell_new_from_file
+remmina_ssh_unconvert
+remmina_pref_keymap_get_keyval
+remmina_file_manager_init
+remmina_chain_button_new
+remmina_protocol_widget_call_feature_by_ref
+remmina_file_get_int
+default_resolutions
+remmina_public_get_xauth_cookie
+remmina_protocol_widget_init_get_clientkey
+remmina_string_list_get_type
+remmina_protocol_widget_set_error
+remmina_string_array_intersect
+remmina_marshal_BOOLEAN__INT_STRING
+remmina_applet_menu_set_hide_count
+remmina_protocol_widget_init_authx509
+remmina_protocol_widget_ssh_exec
+remmina_file_delete
+remmina_file_get_filename
+remmina_ssh_auth
+remmina_about_open
+remmina_file_editor_new
+remmina_system_settings
+remmina_protocol_widget_new
+remmina_chat_window_receive
+remmina_avahi_start
+remmina_protocol_widget_start_xport_tunnel
+remmina_applet_menu_populate
+remmina_widget_pool_init
+remmina_icon_populate_menu
+remmina_ftp_client_set_show_hidden
+remmina_ssh_plugin_register
+remmina_crypt_encrypt
+remmina_string_list_get_text
+remmina_pref_dialog_new
+remmina_protocol_widget_chat_open
+remmina_protocol_widget_register_hostkey
+remmina_widget_pool_hold
+remmina_file_new
+remmina_log_running
+remmina_protocol_widget_has_error
+remmina_file_set_int
+remmina_protocol_widget_init_authuserpwd
+remmina_main_new
+remmina_chat_window_get_type
+remmina_file_manager_get_groups
+remmina_protocol_widget_call_feature_by_type
+remmina_applet_menu_new
+remmina_init_dialog_serverkey_unknown
+remmina_protocol_widget_open_connection
+remmina_string_array_new
+remmina_string_list_new
+remmina_file_editor_new_full
+remmina_string_array_new_from_string
+remmina_protocol_widget_get_type
+remmina_pref_get_scale_quality
+remmina_ssh_convert
+remmina_init_dialog_set_status_temp
+remmina_cell_renderer_pixbuf_get_type
+remmina_ssh_shell_new_from_ssh
+remmina_ssh_set_application_error
+remmina_string_array_remove_index
+remmina_sftp_client_open
+remmina_file_editor_get_type
+remmina_external_tools_from_filename
+remmina_protocol_widget_init_get_clientcert
+remmina_sftp_client_new_init
+remmina_protocol_widget_start_direct_tunnel
+remmina_ftp_client_update_task
+remmina_pref_keymap_groups
+remmina_protocol_widget_get_error_message
+__libc_csu_init
+remmina_public_threads_leave
+remmina_log_printf
+remmina_widget_pool_find
+remmina_ssh_tunnel_terminated
+remmina_protocol_widget_init_get_domain
+remmina_pref_clear_recent
+remmina_protocol_widget_init_get_password
+remmina_protocol_widget_chat_receive
+remmina_ssh_tunnel_reverse
+remmina_widget_pool_find_by_window
+remmina_sftp_client_get_type
+remmina_protocol_widget_init_certificate
+remmina_string_array_new_from_allocated_string
+remmina_plugin_manager_get_import_file_handler
+remmina_pref_get_recent
+view_popup_menu_onDoSomething
+remmina_pref_set_value
+remmina_protocol_widget_init_get_savepassword
+remmina_init_dialog_certificate_changed
+remmina_file_set_filename
+remmina_scaler_set_draw_value
+remmina_protocol_widget_start_reverse_tunnel
+remmina_string_array_add
+remmina_public_combine_path
+remmina_string_array_to_string
+remmina_plugin_manager_init
+remmina_file_unsave_password
+remmina_connection_holder_on_notebook_create_window
+remmina_ssh_log_callback
+remmina_ssh_shell_open
+remmina_ftp_client_get_waiting_task
+remmina_string_array_remove
+remmina_log_print
+remmina_sftp_new_from_file
+remmina_ftp_client_new
+remmina_plugin_manager_get_export_file_handler
+remmina_public_combo_get_active_text
+remmina_init_dialog_serverkey_changed
+remmina_string_list_set_auto_sort
+remmina_string_array_find
+remmina_init_dialog_authx509
+remmina_file_update_screen_resolution
+remmina_file_generate_filename
+remmina_key_chooser_set_keyval
+remmina_protocol_widget_init_get_cacert
+remmina_init_dialog_certificate
+remmina_icon_set_autostart
+remmina_applet_menu_item_compare
+remmina_ssh_tunnel_x11
+remmina_protocol_widget_is_closed
+remmina_marshal_BOOLEAN__INT
+remmina_pref_get_sshtunnel_port
+remmina_protocol_widget_init_show_listen
+remmina_plugin_manager_service
+remmina_sftp_plugin_register
+remmina_protocol_widget_init_authpwd
+remmina_file_manager_load_file
+remmina_scaler_get_type
+remmina_ssh_identity_path
+remmina_file_editor_new_from_filename
+remmina_init_dialog_get_type
+remmina_scrolled_viewport_get_type
+remmina_ssh_init_session
+remmina_ftp_client_get_dir
+remmina_public_get_current_workspace
+remmina_protocol_widget_set_width
+remmina_sftp_open
+remmina_file_manager_iterate
+remmina_ssh_free
+remmina_protocol_widget_query_feature_by_type
+remmina_exec_command
+remmina_init_dialog_new
+remmina_plugin_manager_show
+remmina_string_list_set_hints
+remmina_connection_window_open_from_file_full
+remmina_protocol_widget_set_scale
+remmina_pref_save
+remmina_ssh_init_from_file
+remmina_file_save_group
+remmina_avahi_free
+remmina_ftp_client_get_type
+remmina_string_list_set_validation_func
+remmina_pref
+remmina_log_window_get_type
+remmina_chat_window_new
+remmina_widget_pool_foreach
+remmina_ssh_shell_set_size
+remmina_protocol_widget_init_get_username
+remmina_applet_menu_register_item
+remmina_protocol_widget_set_display
+remmina_protocol_widget_set_height
+remmina_protocol_widget_get_width
+remmina_sftp_client_new
+remmina_protocol_widget_get_init_dialog
+remmina_protocol_widget_set_hostkey_func
+remmina_pref_init
+remmina_string_array_sort
+_IO_stdin_used
+remmina_protocol_widget_get_features
+remmina_file_load
+remmina_plugin_manager_get_plugin
+remmina_public_get_server_port
+remmina_protocol_widget_query_feature_by_ref
+remmina_file_manager_free_group_tree
+remmina_protocol_widget_open_connection_real
+remmina_pref_add_recent
+remmina_protocol_widget_grab_focus
+remmina_sftp_free
+remmina_ftp_client_set_dir
+remmina_file_dup
+remmina_file_editor_new_from_file
+remmina_protocol_widget_get_file
+remmina_scrolled_viewport_new
+remmina_public_get_window_workspace
+remmina_string_array_free
+remmina_ssh_shell_free
+remmina_ftp_client_load_state
+remmina_protocol_widget_chat_close
+GLIBC_2.3.3
+GLIBC_2.2.5
+GCRYPT_1.6
+GLIBC_2.3.4
+GLIBC_2.15
+GLIBC_2.4
+GLIBC_2.7
+GLIBC_2.14
+%*i#
+%2i#
+%2i#
+|$ 1
+\$ H
+UH- 
+AVAUH
+ATUI
+D$x1
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+D$XH
+D$`H
+D$xdH3
+[]A\A]A^
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVI
+AUATUSH
+|$ H
+D$H1
+l$8H
+D$@H
+D$(f
+D$(H
+l$@H
+D$ H
+D$(H
+L;0t
+t$0H
+t$0H
+t$0H
+D$HdH3
+X[]A\A]A^A_
+AVAUI
+ATUSH
+[]A\A]A^
+=bz#
+D$pH
+T$0H
+D$ H
+P[]A\
+ATUI
+pXu7H
+{P[]A\
+[]A\
+[]A\
+AWAVAUATUSH
+|$PH
+[]A\A]A^A_1
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_H
+AWAVAUATUSH
+l$PL
+|$XD
+t$hH
+[]A\A]A^A_
+t+SH
+ATUH
+59m#
+5'm#
+ []A\
+AUATUSH
+=Pg#
+[]A\A]
+5bi#
+-Ah#
+3j@H
+AWAVI
+AUATI
+D$X1
+|$8H
+D$XdH3
+h[]A\A]A^A_
+AVAUI
+ATUI
+[]A\A]A^
+ATUI
+D$X1
+|$8H
+|$8H
+L$XdH3
+[]A\
+AWAVAUATI
+D$x1
+L$xdH3
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+D$(1
+D$(dH3
+8[]A\A]A^A_
+AUATUSH
+L; t
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+D$81
+T$ H
+l$(D
+D9t$
+D;t$
+D$8dH3
+H[]A\A]A^A_
+u	A9
+|$0H
+AVAUI
+=zS#
+ATUSH
+D$8L
+[]A\A]A^
+AUATUSH
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+D$(1
+t$ 1
++L$$
+uPD;l$
+L$(dH3
+8[]A\A]A^A_
++\$$H
+ATUSH
+[]A\H
+[]A\
+AUATUSH
+[]A\A]
+[]A\A]
+ATUSH
+[]A\H
+[]A\
+H;(t
+God A red nugget A fat egg under a dog
+AWAVAUATUSH
+([]A\A]A^A_
+AUATUSH
+[]A\A]
+[]A\A]
+AUATUSH
+[]A\A]
+[]A\A]
+ATUSH
+L; t7L
+AUATI
+[]A\A]
+[]A\A]
+AUATUSH
+[]A\A]
+[]A\A]
+AUATUSH
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+X[]A\A]A^A_
+|$(L
+D$HH
+X[]A\A]A^A_
+t$HL
+l$0I
+T$0H
+T$ H
+L$(H
+t$HL
+L$(H
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AUATUSH
+D$8L
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+D$81
+D$8dH3
+H[]A\A]A^A_
+L$4H
+T$0H
+t$,1
+l$,D
+AUATUSH
+[]A\A]
+[]A\A]
+AWAVI
+A Santa lives evil at NASA
+AUATUSH
+([]A\A]A^A_
+D$(H
+([]A\A]A^A_
+AVAUI
+ATUI
+XLtP
+[]A\A]A^
+AWAVAUATUSH
+t$(H
+t$ L
+T$(L
+T$(1
+t$ L
+t$ L
+[]A\A]A^A_
+AWAVAUATUSH
+D$8L
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+AUATI
+H;(t'H
+[]A\A]
+H;(t2H
+H;(t
+AVAU
+ATUI
+]A\A]A^
+AVAUATUSH
+D$H1
+l$0H
+M9.ttL
+L$HdH3
+P[]A\A]A^
+|$0H
++l$,
+D+t$(E
+AUATI
+[]A\A]
+AVAUATUSH
+ []A\A]A^
+ATUSH
+[]A\
+[]A\
+[]A\
+AWAVAUATA
+4$tSH
+[]A\A]A^A_
+D9|$
+[]A\A]A^A_
+AVAUI
+ATUSH
+D$8H
+[]A\A]A^
+AWAVAUATI
+D$X1
+T$01
+L$(A
+|$ L
+L$(A
+D$XdH3
+h[]A\A]A^A_
+AWAVI
+AUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+D$Lt'9
+[]A\A]A^A_
+[]A\A]A^A_
+A;D$P
+A;D$T
+A;D$X
+A;D$\
+A;D$`tsA;D$d
+A;D$h
+A;D$l
+A;D$p
+AVAUI
+ATUI
+D$(1
+L$(dH3
+0[]A\A]A^
+ATUSH
+<$E1
+dH34%(
+[]A\
+ATUH
+ []A\
+AWAVAUATE1
+[]A\A]A^A_
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+ATUH
+Do nine men interpret Nine men I nod
+[]A\
+AWAVAUATUSH
+D$X1
+d$0H
+t$(L
+l$ H
+l$ 1
+T$ H
+t$ H
+L$(H
+T$ H
+T$01
+D$XdH3
+h[]A\A]A^A_
+T$ H
+T$ H
+T$(H
+t$ H
+T$ H
+t#SH
+AUATUSH
+D$81
+L$8dH3
+H[]A\A]
+ATUH
+D$(1
+D$(dH3
+0[]A\
+AVAUI
+ATUS
+T$@M
+]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+S@t-H
+AWAVAUATUSH
+_@dH
+D$X1
+D$(H
+D$ H
+\$(H
+t$ I
+t$ I
+t$ I
+t$ I
+D$XdH3
+h[]A\A]A^A_
+|$(H
+AVAU1
+ATUH
+[]A\A]A^
+]A\A]A^
+[]A\A]A^
+S@[H
+AVAUI
+ATU1
+[]A\A]A^
+AVAUI
+ATUI
+[]A\A]A^
+AWAVI
+AUATH
+[]A\A]A^A_
+AWAVM
+AUATI
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVAUATUSH
+8[]A\A]A^A_
+T$(H
+T$ A
+t$(H
+L$(L
+t$ H
+\$ H
+\$ M
+t$ H
+AUATUSH
+[]A\A]
+[]A\A]
+X[]A\A]
+ATUSH
+[]A\
+AWAVAUATI
+t$ H
+L$8H
+L$ A
+L$ H
+[]A\A]A^A_
+8[]A\A]A^A_
+|$ H
+T$ H
+H;(t%H
+AWAVI
+AUATI
+D$81
+T$(I
+L$8dH3
+H[]A\A]A^A_
+AWAVI
+AUATUSH
+t$ H
+t$(H
+[]A\A]A^A_
+t$ L
+t$(H
+ATUI
+[]A\
+AVAUI
+ATUI
+ux[]A\A]A^
+]A\A]A^
+AWAVI
+AUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+AVAU1
+ATUSH
+[]A\A]A^
+t[USH
+3j@H
+5-x"
+5>x"
+D$$Pj
+D$(1
+D$(dH3
+AVAUA
+ATUM
+D$H1
+l$(E1
+ZYu(1
+\$HdH3
+P[]A\A]A^
+AUATI
+D$0@
+D$0Hc
+[]A\A]
+AVAUI
+ATUSH
+t	H;(
+H;*t
+[]A\A]A^
+[]A\A]A^1
+AWAVAUATUSH
+^0dH
+D$x1
+D$xdH3
+[]A\A]A^A_
+t$(H
+D$0tQI
+t$0L
+t$(H
+L$HH
+D$PL
+l$8H
+L$ H
+L$@I
+L$DH
+L$0A
+L$ 1
+t$XH
+L$(1
+l$8H
+t$(H
+L$0H;
+t$0H
+t$(H
+AVAUI
+ATUI
+_0dH
+D$81
+D$8dH3
+@[]A\A]A^
+AWAVI
+AUATUSH
+t$ dH
+oPXZH
+[]A\A]A^A_
+l$0L
+t$PL
+ATUSH
+[]A\
+AWAVAUATI
+n0dH
+D$(1
+Borrow or rob
+D$(dH3
+8[]A\A]A^A_
+AVAUH
+ATUI
+j0dH
+D$81
+D$8dH3
+@[]A\A]A^
+R0dH
+AVAUATUH
+D$81
+L$8dH3
+@[]A\A]A^
+|$ H
+|$ j
+AUATH
+D$$Pj
+([]A\A]
+AWAVAUATUSH
+\$ L
+T$(L
+[]A\A]A^A_H
+=0q"
+E0Hc
+ATUSH
+t$XH
+T$`H
+L$hL
+D$pL
+L$xt@
+D$H1
+D$40
+D$8H
+D$PH
+T$0H
+D$HdH3
+[]A\
+AWAVAUATI
+w0dH
+D$81
+D$8dH3
+H[]A\A]A^A_
+AWAVAUATUSH
+D$x1
+|$0I
+j	AUH
+D$dH
+T$xdH3
+[]A\A]A^A_
+AVAUATUSH
+g0dH
+D$(1
+|$8H
+|$8H
+D$(dH3
+0[]A\A]A^
+t;SH
+=Pi"
+=3i"
+AWAVAUATUSH
+D$H1
+=sg"
+l$ L
+D$HdH3
+X[]A\A]A^A_
+=ib"
+=9b"
+=*b"
+=P`"
+=?`"
+AUATUSH
+[]A\A]
+5V["
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+AWAVI
+AUATA
+[]A\A]A^A_
+AWAVI
+AUATUSH
+L$(D
+[]A\A]A^A_
+D$(H
+t$(H
+AWAVI
+AUATH
+|$PH
+|$@H
+|$HH
+|$HH
+[]A\A]A^A_
+AWAVM
+AUATI
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+=R<"
+w8t8
+AVAUI
+ATUS
+XZt	[]A\A]A^
+]A\A]A^
+AVAUATUH
+E@[]A\A]A^
+=b7"
+ATUSH
+-67"
+D$X1
+T$XdH3
+`[]A\
+ATUSH
+D$X1
+=Y6"
+L$XdH3
+`[]A\
+=Q5"
+=>5"
+=05"
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+tVUSH
+ATUH
+ATUSH
+|$HH
+[]A\
+tVUSH
+ATUSH
+[]A\
+[]A\H
+h|[]A\
+D$81
+D$8dH3
+AWAVAUATUSH
+D$81
+L$HH
+D$8dH3
+H[]A\A]A^A_
+AVAUI
+ATU1
+]A\A]A^
+AWAVI
+AUATUSH
+D$81
+L$8dH3
+H[]A\A]A^A_
+T$ H
+T$(H
+AWAVAUATUSH
+D$X1
+l$0L
+L$HL
+D$XdH3
+h[]A\A]A^A_
+AWAVI
+AUATUSH
+D$H1
+|$ H
+D$HdH3
+X[]A\A]A^A_
+ATUS
+AUATUSH
+[]A\A]
+C8ZYH
+ATUSH
+[]A\
+[]A\
+AWAVAUATUSH
+l$@A
+[]A\A]A^A_
+AWAVAUATUSH
+D$X1
+L$8H
+D$8H
+t$ I
+t$(H
+D$XdH3
+h[]A\A]A^A_
+t$ H
+[]A\
+AUATUSH
+D$(1
+T$(dH3
+8[]A\A]
+D$0Pj
+D$8Pj
+|$ H
+|$ H
+AWAVI
+AUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUI
+ATUL
+]A\A]A^
+AUATI
+[]A\A]
+-		"
+AVAUI
+ATUI
+ u:L
+t$ L
+]A\A]A^
+AVAUI
+ATUI
+ u:H
+]A\A]A^
+AVAUATUH
+D$(1
+L$(dH3
+[]A\A]A^
+ATUSH
+[]A\
+AUATI
+E94$u
+]A\A]A^
+]A\A]A^
+t\AUATA
+D9.u
+[]A\A]
+AUATH
+[]A\A]
+tnAUATI
+[]A\A]
+[]A\A]
+tnAUATI
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+D$h1
+D$0H
+D$hdH3
+x[]A\A]A^A_
+D$0L
+t$@H
+t$(1
+T$(I
+ATUSH
+[]A\
+AWAVAUATUSH
+D$(1
+D$(dH3
+8[]A\A]A^A_
+E,9C
+E,9C
+ATUI
+[]A\
+AVAUATUSH
+[]A\A]A^
+AWAVAUATUSH
+D9|$
+[]A\A]A^A_
+AUATI
+[]A\A]
+AWAVI
+AUAT
+|$0H
+t$0H
+t$4H
+L$(H
+D$PH
+t$ L
+t$ L
+L$8H
+t$ L
+t$ L
+L$,H
+t$ L
+L$0H
+|$(L
+t$@H
+t$ L
+t$@H
+t$(L
+|$<H
+|$@H
+|$HH
+D$H1
+L$0H
+t$@H
+t$(L
+|$XL
+t$@H
+t$(L
+T$(H
+L$0H
+t$ L
+t$ L
+t$ L
+\$0H
+t$HH
+[]A\A]A^A_
+T$(H
+t!<xt.
+0<	w+
+AUATUSH
+[]A\A]
+AVAUATUSH
+;CHA
+]A\A]A^
+ATUSL
+[]A\
+[]A\
+ATUSH
+L; t
+[]A\
+[]A\
+G8u+H
+AVAUA
+ATUSH
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+[]A\A]A^
+ATUH
+[]A\
+ATUI
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+[]A\
+AVAUATUSH
+D$PI
+t$PI
+t?[]A\A]A^
+]A\A]A^
+u8Hc
+ATUH
+[]A\
+AWAV
+AUATUSH
+W8dH
+[]A\A]A^A_
+|$ 1
+\$ H
+L$$H
+\$$H
+T$$H
+t$(H
+|$(H
+[]A^
+|$01
+\$0H
+t$(L
+T$$I
+|$(u@
+AVAT1
+[]A\A^
+|$ 1
+\$ H
+AVATUSH
+[]A\A^
+|$01
+\$0H
+T$(1
+t$(H
+AUATI
+T$8H
+[]A\A]
+AVAUE1
+ATUI
+T$8H
+[]A\A]A^
+AUATI
+[]A\A]
+alula
+AUATI
+[]A\A]
+AVAUH
+ATUH
+[]A\A]A^
+AUATUSH
+[]A\A]
+[]A\A]
+AUATA
+]A\A]
+AVAUATUSH
+l$PH
+[]A\A]A^
+D$PH
+[]A\A]A^
+teATUH
+[]A\H
+AWAVA
+AUATUSH
+[]A\A]A^A_
+AWAVI
+AUATI
+D$H1
+t$ L
+D$HdH3
+X[]A\A]A^A_
+AWAVI
+AUAT
+[]A\A]A^A_
+ATUS
+[]A\
+[]A\
+AWAVA
+AUATUSH
+L$(H
+t$ dH
+D$X1
+t$ H
+T$XdH3
+h[]A\A]A^A_
+t$ H
+AUATA
+([]A\A]
+AUATI
+[]A\A]A
+D$81
+H;(tmH
+L$8dH3
+AUATM
+D$(1
+D$(dH3
+8[]A\A]
+t>USH
+AWAVA
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AUATUSH
+D$x1
+L$xdH3
+[]A\A]
+ATUSH
+D$(1
+T$ E1
+T$ RH
+T$ RH
+T$(Rj
+|$ 1
+L$(dH3
+0[]A\
+ATUSH
+D$(1
+L$(dH3
+0[]A\
+T$ E1
+T$ RH
+T$ RH
+T$(Rj
+|$ 1
+AUATUSH
+[]A\A]E1
+F8tC
+AVAUA
+ATUI
+D$@L
+D$@L
+T$@H
+]A\A]A^
+ATUI
+D$@H
+D$@H
+[]A\
+5f}!
+=0}!
+AWAVAUATUSH
+D$81
+L$8dH3
+H[]A\A]A^A_
+L$,H
+T$(H
+t$0H
+T$,1
+gfff
+T$,A
+gfff
+|$ 1
+\$ H
+ATUI
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+[]A\
+AWAVAUATUSH
+L$ M
+L$(H
+L$(L
+L$ M
+[]A\A]A^A_
+|$ L
+AWAVI
+AUATI
+[]A\A]A^A_
+ATUSH
+D$(D
+GHdH
+t$8E
+L$0L
+[]A\
+|$(H
+\$ 1
+l$8H
+t$0H
+L$ Hc
+|$P1
+l$PH
+t$(H
+|$(H
+D$ H
+L$(H
+t$@L
+|$@H
+L$0H
+L$0H
+AWAVAUATI
+T$(H
+D$0I
+L$ H
+|$ 1
+*D$`
+[]A\A]A^A_
+T$(L
+ATUSH
+D$8D
+GHdH
+t$0E
+L$(L
+[]A\
+l$0H
+t$(H
+|$@H
+|$8H
+|$ Hc
+|$P1
+l$PH
+t$(H
+l$0H
+t$(H
+L$(H
+t$@1
+T$@H
+t$@H
+L$(H
+L$8H
+L$8H
+GLdH
+L$x1
+L$xdH3
+AWAVAUATUSH
+L$0Qj
+T$HRj
+([]A\A]A^A_
+AUATUSH
+t	H;(
+H;*t H
+[]A\A]
+[]A\A]
+56[!
+AVAUI
+Z[]A\A]A^
+[]A\A]A^
+AUATUSH
+[]A\A]
+AUATI
+[]A\A]
+D$8H
+AWAVAUATUSH
+D$H1
+4$E1
+T$ I
+l$ 1
+T$ H
+t$0L
+A9T$
+T$ I
+l$ 1
+t$(H
+L$HdH3
+X[]A\A]A^A_
+AVAUATUH
+t	L;(
+t	L;*
+[]A\A]A^
+]A\A]A^
+ATUH
+[]A\
+Beeb
+]A\1
+[]A\
+P`[1
+AVAU1
+ATUH
+]A\A]A^
+[]A\A]A^
+AUATUSH
+[]A\A]H
+USHc
+ATUE1
+~Zf.
+[]A\
+AUATI
+[]A\A]
+?/t&SH
+AWAVAUL
+oXATUSH
+[]A\A]A^A_
+L$`H
+t$@H
+L$PH
+L$ H
+L$@H
+`t6HcT$
+~PD;|$
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AWAV1
+AUATI
+D$pH
+D$(H
+D$`H
+D$ H
+D$XH
+D$pH
+D$xH
+L$X1
+[]A\A]A^A_
+L$HE
+D$h@
+Hc<.A9
+~.I)
+D$XM
+L$8H
+T$LH
+D$pH+D$
+L$xH+L$
+D$pH
+D$xH
+T$XH
+AVAUATUH
+[]A\A]A^
+AWAVI
+AUATA
+D$(1
+L$(dH3
+8[]A\A]A^A_
+|$ L
+AWAVAUATUSH
+[]A\A]A^A_
+OHt3H
+WHt3H
+ATUA
+D$(1
+T$(dH3
+0[]A\
+AUATI
+D$H1
+L$HdH3
+X[]A\A]
+AUATA
+[]A\A]
+ATUH
+[]A\H
+[]A\H
+]A\1
+[]A\
+AVU1
+[]A^
+|$ 1
+AWAVAUATUSH
+[]A\A]A^A_
+ATUH
+AUATUSH
+[]A\A]
+[]A\A]
+tYAUATI
+A9\$
+[]A\A]
+[]A\A]
+AUATI
+tlE1
+[]A\A]
+ATUH
+AWAVAUATUSH
+([]A\A]A^A_
+AUATUSH
+D$H1
+D$HdH3
+X[]A\A]
+l$ 1
+AVAUATUSH
+D$H1
+D$HdH3
+P[]A\A]A^
+l$ 1
+D$(1
+D$(dH3
+AUATUSH
+D$(1
+D$(dH3
+8[]A\A]
+AWAVH
+AUATUSH
+D$H1
+D$HdH3
+X[]A\A]A^A_
+AWAVAUATI
+D$(1
+}0E1
+Y^tN
+D$(dH3
+8[]A\A]A^A_
+AWAVA
+AUATI
+D$H1
+T$HdH3
+X[]A\A]A^A_
+AWAVAUATUSH
+H;(u
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+L;(t9L
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVH
+AUATUSH
+D$`H
+l$0L
+l$(H
+D$ H
+t$ L
+d$(H
+[]A\A]A^A_
+AWAVA
+AUATL
+[]A\A]A^A_
+Maintainers:
+Vic Lee <llyzs@163.com>
+Contributors:
+Alex Chateau <ash@zednet.lv>
+1.1.2
+translator-credits
+response
+Alexander Logvinov <avl@logvinov.com>
+Antenore Gatta <antenore@simbiosi.org>
+Fabio Castelli (Muflone) <muflone@vbsimple.net>
+Giovanni Panozzo <giovanni@panozzo.it>
+Harun Trefry <aihtdikh@gmail.com>
+Nikolay Botev <bono8106@gmail.com>
+Martin Lettner <m.lettner@gmail.com>
+You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+Remmina is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+Remmina is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+Copyright (C) 2009-2012 Vic Lee
+The GTK+ Remote Desktop Client
+http://freerdp.github.io/Remmina/
+destroy
+launch-item
+edit-item
+folder-remote
+RemminaAppletMenu
+%s (%i)
+%s/.remmina
+%s/%s
+RemminaAppletMenuItem
+remmina-sftp
+utilities-terminal
+remmina-rdp
+remmina-vnc
+remmina-xdmcp
+remmina-nx
+remmina-xdmcp-ssh
+remmina-vnc-ssh
+remmina-rdp-ssh
+protocol
+ssh_enabled
+Discovered
+New Connection
+SFTP
+XDMCP
+go-jump
+?/build/remmina-IrhZhi/remmina-1.1.2/remmina/src/remmina_avahi.c
+(remmina-applet avahi-browser) %s
+(remmina-applet avahi-browser) Found service '%s' of type '%s' in domain '%s'
+(remmina-applet avahi-browser) Failed to resolve service '%s': %s
+(remmina-applet avahi-browser) Removed service '%s' of type '%s' in domain '%s'
+(remmina-applet avahi-resolver) Failed to resolve service '%s' of type '%s' in domain '%s': %s
+(remmina-applet avahi-resolver) Added service '%s'
+(remmina-applet avahi) Server connection failure: %s
+Failed to create simple poll object.
+Failed to create service browser: %s
+%s,%s,%s
+[%s]:%i
+Failed to create client: %s
+_rfb._tcp
+remmina_avahi_resolve_callback
+remmina_avahi_browse_callback
+- The GTK+ Remote Desktop Client
+Create a new connection profile
+option parsing failed: %s
+/usr/share/icons
+/usr/share/locale
+UTF-8
+org.Remmina
+startup
+command-line
+Show about dialog
+Connect to a .remmina file F
+Edit a .remmina file F
+help
+Show preference dialog
+plugin
+Execute plugin P
+quit
+Quit the application
+Use default server name S
+Use default protocol T
+Start as tray icon
+clicked
+chain-toggled
+RemminaChainButton
+9 24 13 1
+ 	c None
+.	c #555753
++	c #8D8D8E
+@	c #E8E8E9
+#	c #8E8E90
+$	c #888A85
+%	c #8F8F91
+&	c #2E3436
+*	c #EEEEEC
+=	c #989899
+-	c #959597
+;	c #9D9D9E
+>	c #B9B9BA
+  .....  
+ .+@@@#. 
+ .@...@. 
+ .@. .@. 
+ .@.$.@. 
+ .%&*$%. 
+  .&*$.  
+   &*$   
+         
+ .=&*$-. 
+ .@.&.@. 
+ .;@@@>. 
+9 7 3 1
+.	c #FFFFFF
++	c #A9A5A2
+    .+   
+.....+   
++++++    
+.	c #A9A5A2
++	c #FFFFFF
+.....    
++++++.   
+    +.   
+(%s) 
+sender-foreground
+RemminaChatWindow
+Chat with %s
+blue
+receiver-foreground
+key-press-event
+document-send
+_Send
+edit-clear
+_Clear
+cnnobj
+hscale
+vscale
+aspectscale
+viewmode
+window_maximize
+window_height
+window_width
+new-page-num
+feature-type
+toolbar_opacity
+keyboard_grab
+create-window
+page-added
+page-removed
+feature-value
+deactivate
+Viewport fullscreen mode
+Scrolled fullscreen mode
+button-press-event
+scaled
+ (%s + %s,%s)
+ (%s + %s)
+%s%s
+remmina-fit-window
+remmina-fullscreen
+Toggle fullscreen mode
+remmina-small-button
+remmina-switch-page
+Switch tab pages
+remmina-scale
+Toggle scaled mode
+input-keyboard
+Grab all keyboard events
+preferences-system
+system-run
+_Bottom
+go-bottom
+Minimize window
+_Disconnect
+gtk-disconnect
+window-close
+remmina-pin-down
+remmina-pin-up
+RemminaConnectionWindow
+delete-event
+window-state-event
+focus-in-event
+focus-out-event
+enter-notify-event
+leave-notify-event
+configure_event
+scroll-event
+user-data
+desktop-resize
+update-align
+size-allocate
+File %s not found.
+There are %i active connections in the current window. Are you sure to close?
+Resize the window to fit in remote resolution
+*.remmina-small-button
+  -GtkWidget::focus-padding = 0
+  -GtkWidget::focus-line-width = 0
+  xthickness = 0
+  ythickness = 0
+?secret corrupted
+gcry_cipher_open failure: %s
+gcry_cipher_setkey failure: %s
+gcry_cipher_setiv failure: %s
+gcry_cipher_encrypt failure: %s
+gcry_cipher_decrypt failure: %s
+Plugin %s is not registered.
+%s/.remmina/%li%03li.remmina
+resolution_width
+resolution_height
+cacert
+cacrl
+clientcert
+clientkey
+Remote Desktop Preference
+_Save
+document-save
+_Cancel
+gtk-connect
+realize
+Default
+ssh_charset
+ssh_loopback
+ssh_username
+ssh_server
+ssh_auth
+ssh_privatekey
+Default settings saved.
+Server
+Password
+Resolution
+Use window size
+Use client resolution
+Custom
+Keyboard mapping
+Horizontal scale
+Vertical scale
+Basic
+dialog-information
+Advanced
+dialog-password
+Enable SSH tunnel
+Tunnel via loopback address
+Same server at port %i
+Character set
+Startup program
+exec
+Startup path
+execpath
+SSH Authentication
+User name
+Public key (automatic)
+Identity file
+_Open
+%s/.ssh
+RemminaFileEditor
+Profile
+Quick Connect
+Group
+Protocol
+Choose a Remote Desktop Server
+<tt><big>Supported formats
+* server
+* server:port
+* [server]:port</big></tt>
+Browse the network to find a %s server
+<tt><big>Supported formats
+* :port
+* server
+* server:port
+* [server]:port</big></tt>
+ASCII,BIG5,CP437,CP720,CP737,CP775,CP850,CP852,CP855,CP857,CP858,CP862,CP866,CP874,CP1125,CP1250,CP1251,CP1252,CP1253,CP1254,CP1255,CP1256,CP1257,CP1258,EUC-JP,EUC-KR,GBK,ISO-8859-1,ISO-8859-2,ISO-8859-3,ISO-8859-4,ISO-8859-5,ISO-8859-6,ISO-8859-7,ISO-8859-8,ISO-8859-9,ISO-8859-10,ISO-8859-11,ISO-8859-12,ISO-8859-13,ISO-8859-14,ISO-8859-15,ISO-8859-16,KOI8-R,SJIS,UTF-8
+Use '%s' as subgroup delimiter
+open-dir
+new-task
+cancel-task
+delete-file
+gtk-go-up
+gtk-go-down
+gtk-media-pause
+stock-id
+gtk-yes
+gtk-no
+Choose a file to upload
+gtk-ok
+gtk-cancel
+Upload folder
+Choose download location
+gtk-directory
+gtk-file
+Download
+Upload
+_Delete
+%.1fM
+%.1fG
+%s / %s
+xalign
+RemminaCellRendererPixbuf
+gtk-home
+Go to home folder
+Go to parent folder
+gtk-refresh
+Refresh current folder
+Download from server
+Upload to server
+gtk-delete
+Delete files on server
+File Name
+Size
+User
+Permission
+has-tooltip
+Remote
+Local
+Progress
+query-tooltip
+RemminaFTPClient
+ftp_vpanedpos
+%i%s
+Are you sure to delete the selected files on server?
+P?Open Main Window
+_Preferences
+_About
+Enable Service Discovery
+_Quit
+remmina-icon
+Version
+Desktop Entry
+Remmina Applet
+Comment
+Icon
+remmina -i
+Exec
+Terminal
+Application
+Type
+Hidden
+%s/.config/autostart/remmina-applet.desktop
+Connect to remote desktops through the applet menu
+gtk-dialog-info
+gtk-dialog-warning
+%s/.pki
+RemminaInitDialog
+gtk-dialog-authentication
+Save %s
+Domain
+Save password
+Certificate Details:
+Subject:
+Issuer:
+Accept Certificate?
+Certificate Changed! Details:
+Old Fingerprint:
+New Fingerprint:
+Accept Changed Certificate?
+CA certificate
+CA CRL
+Client certificate
+Client key
+Do you trust the new public key?
+<span size="large"><b>%s</b></span>
+The server is unknown. The public key fingerprint is:
+WARNING: The server has changed its public key. This means either you are under attack,
+or the administrator has changed the key. The new public key fingerprint is:
+RemminaKeyChooser
+<None>
+Choose a new key
+gtk-remove
+Please press the new key...
+RemminaLogWindow
+sound
+gtk-save
+gtk-open
+/PopupMenu
+status
+%s (%s)
+sort-column-changed
+Total %i items.
+Total %i item.
+Remmina Remote Desktop Client
+RemminaMainActions
+building menus failed: %s
+/MenuBar
+/ToolBar
+primary-toolbar
+/ToolBar/ConnectionConnect
+/ToolBar/ConnectionNew
+gtk-find
+gtk-clear
+primary-icon-activatable
+icon-press
+Connect !
+icon-name
+stock-size
+ViewToolbar
+ViewStatusbar
+ViewQuickSearch
+ViewSmallToolbutton
+drag-data-received
+Are you sure to delete '%s'
+Unable to import:
+file://
+RemminaMain
+ViewFileList
+List View
+ViewFileTree
+Tree View
+Quick Search
+Small Toolbar Buttons
+<control>O
+ConnectionCopy
+gtk-copy
+<control>C
+ConnectionEdit
+gtk-edit
+<control>E
+ConnectionDelete
+<control>D
+ToolsExport
+ConnectionExternalTools
+External Tools
+<control>T
+_Connection
+_Edit
+_View
+_Tools
+_Help
+gtk-new
+<control>N
+EditPreferences
+gtk-preferences
+<control>P
+Open the preferences dialog
+ConnectionClose
+gtk-close
+<control>X
+ToolsImport
+ToolsPlugins
+HelpHomepage
+HelpWiki
+Online Wiki
+HelpDebug
+Debug Window
+HelpAbout
+gtk-about
+text/uri-list
+This protocol does not support exporting.
+http://sourceforge.net/apps/mediawiki/remmina/
+http://remmina.sourceforge.net
+RemminaMainFileSensitiveActions
+<ui>  <menubar name='MenuBar'>    <menu name='ConnectionMenu' action='Connection'>      <menuitem name='ConnectionConnectMenu' action='ConnectionConnect'/>      <separator/>      <menuitem name='ConnectionNewMenu' action='ConnectionNew'/>      <menuitem name='ConnectionCopyMenu' action='ConnectionCopy'/>      <menuitem name='ConnectionEditMenu' action='ConnectionEdit'/>      <menuitem name='ConnectionDeleteMenu' action='ConnectionDelete'/>      <separator/>      <menuitem name='ConnectionCloseMenu' action='ConnectionClose'/>    </menu>    <menu name='EditMenu' action='Edit'>      <menuitem name='EditPreferencesMenu' action='EditPreferences'/>    </menu>    <menu name='ViewMenu' action='View'>      <menuitem name='ViewToolbarMenu' action='ViewToolbar'/>      <menuitem name='ViewStatusbarMenu' action='ViewStatusbar'/>      <menuitem name='ViewQuickSearchMenu' action='ViewQuickSearch'/>      <separator/>      <menuitem name='ViewSmallToolbuttonMenu' action='ViewSmallToolbutton'/>      <separator/>      <menuitem name='ViewFileListMenu' action='ViewFileList'/>      <menuitem name='ViewFileTreeMenu' action='ViewFileTree'/>    </menu>    <menu name='ToolsMenu' action='Tools'>      <menuitem name='ToolsImportMenu' action='ToolsImport'/>      <menuitem name='ToolsExportMenu' action='ToolsExport'/>      <placeholder name='ToolsAdditions'/>      <separator/>      <menuitem name='ToolsPluginsMenu' action='ToolsPlugins'/>    </menu>    <menu name='HelpMenu' action='Help'>      <menuitem name='HelpHomepageMenu' action='HelpHomepage'/>      <menuitem name='HelpWikiMenu' action='HelpWiki'/>      <menuitem name='HelpDebugMenu' action='HelpDebug'/>      <separator/>      <menuitem name='HelpAboutMenu' action='HelpAbout'/>    </menu>  </menubar>  <toolbar name='ToolBar'>    <toolitem action='ConnectionConnect'/>    <separator/>    <toolitem action='ConnectionNew'/>    <toolitem action='ConnectionCopy'/>    <toolitem action='ConnectionEdit'/>    <toolitem action='ConnectionDelete'/>    <separator/>    <toolitem action='EditPreferences'/>  </toolbar>  <popup name='PopupMenu'>    <menuitem action='ConnectionConnect'/>    <separator/>    <menuitem action='ConnectionCopy'/>    <menuitem action='ConnectionEdit'/>    <menuitem action='ConnectionDelete'/>    <menuitem action='ConnectionExternalTools'/>  </popup></ui>
+/MenuBar/ToolsMenu/ToolsAdditions
+Open the connection to the selected remote desktop file
+Create a copy of the selected remote desktop file
+Edit the selected remote desktop file
+Delete the selected remote desktop file
+Create a new remote desktop file
+return_value != NULL
+n_param_values == 2
+n_param_values == 3
+remmina_marshal_BOOLEAN__INT_STRING
+remmina_marshal_BOOLEAN__INT
+Secret
+Failed to load plugin: %s.
+Error: %s
+remmina_plugin_entry
+Description
+File
+Tool
+Remmina plugin %s (type=%s) bypassed.
+Remmina plugin %s (type=%s) registered.
+Dynamic loading of plugins is not supported in this platform!
+/usr/lib/x86_64-linux-gnu/remmina/plugins
+/usr/lib/x86_64-linux-gnu/remmina/plugins/%s
+Failed to locate plugin entry: %s.
+Plugin entry returned false: %s.
+Plugin not found (type=%i, name=%s)
+%s/.remmina/remmina.pref
+%s/.remmina/remmina.keymap
+save_view_mode
+remmina_pref
+save_when_connect
+invisible_toolbar
+always_show_tab
+hide_connection_toolbar
+default_action
+scale_quality
+hide_toolbar
+hide_statusbar
+show_quick_search
+small_toolbutton
+view_file_mode
+resolutions
+main_width
+main_height
+main_maximize
+main_sort_column_id
+main_sort_order
+expanded_group
+toolbar_pin_down
+sshtunnel_port
+applet_new_ontop
+applet_hide_count
+applet_enable_avahi
+disable_tray_icon
+recent_maximum
+default_mode
+tab_mode
+auto_scroll_step
+hostkey
+shortcutkey_fullscreen
+shortcutkey_autofit
+shortcutkey_nexttab
+shortcutkey_prevtab
+shortcutkey_scale
+shortcutkey_grab
+shortcutkey_minimize
+shortcutkey_disconnect
+shortcutkey_toolbar
+secret
+vte_font
+vte_allow_bold_text
+vte_lines
+vte_shortcutkey_copy
+vte_shortcutkey_paste
+minimize_to_tray
+recent_%s
+recent_
+# Please check gdk/gdkkeysyms.h for a full list of all key names or hex key values
+[Map Meta Keys]
+Super_L = Meta_L
+Super_R = Meta_R
+Meta_L = Super_L
+Meta_R = Super_R
+Failed to initialize keymap table
+640x480,800x600,1024x768,1152x864,1280x960,1400x1050
+Remmina Preferences
+Options
+Always show tabs
+Double-click action
+Default view mode
+Tab interface
+Scale quality
+SSH tunnel local port
+Auto scroll step size
+Maximum recent items
+Resolutions
+Disable tray icon
+Keyboard
+Host key
+Auto-fit window
+Grab keyboard
+Show / hide toolbar
+Font
+Use system default font
+Monospace 12
+Allow bold text
+Scrollback lines
+%s + 
+Paste
+Recent lists cleared.
+RemminaPrefDialog
+Tab by groups
+Tab by protocols
+Tab all connections
+Do not use tabs
+Automatic
+Scrolled window
+Scrolled fullscreen
+Viewport fullscreen
+Nearest
+Tiles
+Bilinear
+Hyper
+Open connection
+Edit settings
+Remember last view mode for each connection
+Save settings when starting the connection
+Invisible toolbar in fullscreen mode
+Hide toolbar in tabbed interface
+Show new connection on top of the menu
+Hide total count in group menu
+Start Remmina in tray icon at user logon
+Please enter format 'widthxheight'.
+RemminaProtocolWidget
+localhost
+key-release-event
+Failed to execute command: %s
+unix:%i
+Open Secure File Transfer...
+Connecting to '%s'...
+127.0.0.1
+127.0.0.1:%i
+listenport
+Failed to open channel : %s
+%s password
+SSH password
+SSH private key passphrase
+domain
+Command %s not found on SSH server
+Command %s failed on SSH server (status = %i).
+Protocol plugin %s is not installed.
+Open Secure Shell in New Terminal...
+Connecting to SSH server %s...
+Connecting to %s through SSH tunnel...
+Waiting for an incoming SSH tunnel at port %i...
+Listening on port %i for an incoming %s connection...
+Authentication failed. Trying to reconnect...
+xpad
+<b>%s</b>
+xauth list %s
+Degas are we not drawn onward no In union drawn onward to new eras aged
+MIT-MAGIC-COOKIE-1
+xauth returns %s
+unix
+/tmp/.X11-unix/X%d
+GDK_IS_SCREEN (screen)
+_NET_CURRENT_DESKTOP
+GTK_IS_WINDOW (gtkwindow)
+_NET_WM_DESKTOP
+gtk_widget_get_realized (GTK_WIDGET (gtkwindow))
+remmina_public_get_window_workspace
+remmina_public_get_current_workspace
+format-value
+value-changed
+Fit window size
+%.2f
+RemminaScaler
+Y@RemminaScrolledViewport
+@Overwrite
+Resume
+File exists
+gtk-dialog-question
+Error creating directory %s.
+Error creating file %s.
+Error writing file %s.
+Error opening file %s.
+Error seeking local file %s.
+./%s
+Failed reading directory. %s
+Failed to delete '%s'. %s
+RemminaSFTPClient
+Error opening directory %s. %s
+The following file already exists in the target folder:
+Error opening file %s on server. %s
+Error seeking remote file %s. %s
+Error creating file %s on server. %s
+Error writing file %s on server. %s
+Failed to open directory %s. %s
+File transfer currently in progress.
+Are you sure to cancel it?
+Error creating folder %s on server. %s
+plugin-data
+showhidden
+SFTP - Secure File Transfer
+Show Hidden Files
+Failed to initialize pthread. Falling back to non-thread mode...
+[SSH] %s
+.ssh/id_rsa
+Failed to request shell : %s
+Failed to accept local socket
+Failed to create channel : %s
+No response from the server.
+SSH public key has changed!
+SSH Key file not yet set.
+Failed to create socket.
+Failed to bind on local port.
+Failed to initialize pthread.
+Failed to create pty device.
+.ssh/id_dsa
+.ssh/identity
+Failed to createt channel : %s
+Failed to connect to the SSH tunnel destination: %s
+Failed to execute %s on SSH server : %%s
+Failed to request port forwarding : %s
+Cannot connect to local port %i.
+SSH password authentication failed: %s
+SSH public key authentication failed: %s
+SSH automatic public key authentication failed: %s
+ssh_get_publickey() has failed: %s
+ssh_get_publickey_hash() has failed: %s
+SSH known host checking failed: %s
+Authenticating %s's password to SSH server %s...
+Authenticating %s's identity to SSH server %s...
+Failed to startup SSH session: %s
+Destination port has not been assigned
+Failed to listen on local port.
+Failed to create sftp session: %s
+Failed to initialize sftp session: %s
+SSH - Secure Shell
+gtk-paste
+editable
+edited
+list-add
+list-remove
+RemminaStringList
+/usr/share/remmina/external_tools
+/usr/share/remmina/external_tools/launcher.sh
+remmina_
+%s=%s
+%s %s
+;*3$"
+bb4946dedb4705304298b1ecd281c6f600eb2e.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.data.rel.ro
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

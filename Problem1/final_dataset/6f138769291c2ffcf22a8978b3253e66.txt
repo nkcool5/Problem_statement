@@ -1,0 +1,1689 @@
+/lib64/ld-linux-x86-64.so.2
+libcups.so.2
+__gmon_start__
+_Jv_RegisterClasses
+avahi_client_free
+avahi_string_list_find
+_ITM_deregisterTMCloneTable
+_ITM_registerTMCloneTable
+avahi_client_new
+avahi_service_resolver_new
+avahi_service_browser_new
+avahi_service_resolver_free
+avahi_service_browser_free
+avahi_string_list_get_pair
+ippFindAttribute
+cupsGetJobs2
+cupsTempFile2
+_ppdCreateFromIPP
+ippNextAttribute
+ippSetVersion
+cupsArrayAdd
+cupsSetPasswordCB2
+ippGetValueTag
+_cups_strcasecmp
+ippGetBoolean
+ippGetName
+cupsDoFileRequest
+pwgMediaForSize
+cupsUser
+_pwgMediaTypeForType
+cupsServer
+cupsDoRequest
+ippGetCount
+cupsEncodeOptions2
+cupsArrayNew
+httpConnect
+httpAssembleURI
+cupsArrayIndex
+cupsFileOpen
+cupsFileClose
+cupsGetPPD
+httpAssembleURIf
+ppdClose
+ippNewRequest
+ippGetCollection
+cupsLastError
+ippAddBoolean
+ippGetResolution
+ippContainsString
+ippAttributeString
+cupsGetDests
+cupsLastErrorString
+httpSeparateURI
+ppdMarkDefaults
+cupsAddOption
+ippAddString
+cupsSetServer
+httpClose
+cupsFreeJobs
+ippAddStrings
+ippGetInteger
+cupsFreeDests
+cupsGetOption
+ippGetString
+cupsGetServerPPD
+cupsFreeOptions
+httpConnectEncrypt
+cupsArrayRemove
+httpAddrString
+ppdOpenFile
+ppdNextOption
+ippDelete
+_pwgPageSizeForMedia
+cupsFilePuts
+cupsArrayNext
+_pwgInputSlotForSource
+cupsTempFd
+cupsFilePrintf
+ippAddInteger
+cupsParseOptions
+cupsEncryption
+ippGetGroupTag
+cupsFileGetConf
+_cupsStrFormatd
+cupsArrayFirst
+ppdFirstOption
+ippPort
+ippGetStatusCode
+ippFirstAttribute
+_fini
+_cups_strncasecmp
+cupsArrayCount
+httpAddrLength
+libavahi-common.so.3
+avahi_address_snprint
+avahi_strerror
+avahi_free
+libavahi-client.so.3
+avahi_client_errno
+avahi_service_browser_get_client
+avahi_service_resolver_get_client
+libavahi-glib.so.1
+g_source_destroy
+g_malloc
+g_assertion_message_expr
+g_main_context_unref
+g_malloc0
+avahi_glib_poll_free
+Degas are we not drawn onward no In union drawn onward to new eras aged
+avahi_glib_poll_new
+avahi_glib_poll_get
+Do nine men interpret Nine men I nod
+libgio-2.0.so.0
+g_intern_static_string
+g_signal_new
+g_object_get_property
+g_main_loop_unref
+g_quark_try_string
+g_variant_type_checked_
+g_string_new
+g_once_init_enter
+g_object_unref
+g_list_free_full
+g_strsplit
+g_value_unset
+g_variant_unref
+g_str_equal
+g_variant_builder_end
+g_hash_table_remove_all
+Borrow or rob
+g_once_init_leave
+g_strjoinv
+g_object_class_find_property
+g_hash_table_lookup
+g_set_error
+g_idle_add
+g_type_class_adjust_private_offset
+g_ascii_strdown
+g_type_interface_add_prerequisite
+g_string_free
+g_object_new
+g_variant_builder_init
+g_variant_ref_sink
+g_cclosure_marshal_generic
+g_type_class_peek_parent
+g_hash_table_new_full
+g_variant_n_children
+g_source_remove
+g_variant_iter_next
+g_type_add_instance_private
+g_io_channel_unix_new
+g_main_loop_new
+g_main_loop_run
+g_type_register_static_simple
+Beeb
+g_hash_table_insert
+g_value_set_variant
+g_strfreev
+g_string_append_printf
+g_variant_iter_free
+g_hash_table_destroy
+g_variant_iter_next_value
+g_str_hash
+g_mutex_init
+g_malloc0_n
+g_signal_emit_by_name
+g_variant_iter_loop
+g_strchomp
+g_variant_new
+g_value_get_boolean
+g_variant_get
+g_mutex_clear
+g_object_notify
+g_main_context_ref_thread_default
+g_signal_lookup
+g_strdup
+g_signal_connect_data
+g_value_set_object
+g_main_loop_quit
+g_hash_table_foreach
+g_variant_iter_init
+g_value_init
+g_type_add_interface_static
+g_object_set_property
+g_list_foreach
+g_error_free
+g_async_initable_new_async
+g_dbus_proxy_set_interface_info
+g_dbus_message_get_unix_fd_list
+g_dbus_interface_skeleton_get_type
+g_dbus_error_quark
+g_unix_fd_list_get_type
+g_initable_new
+g_dbus_interface_info_lookup_property
+g_dbus_proxy_new_for_bus_sync
+g_dbus_proxy_get_type
+g_async_initable_new_finish
+g_dbus_gvariant_to_gvalue
+g_dbus_method_invocation_get_type
+g_dbus_method_invocation_return_error
+g_async_result_get_source_object
+g_dbus_method_invocation_get_method_info
+g_dbus_interface_skeleton_get_object_path
+g_dbus_gvalue_to_gvariant
+g_dbus_connection_emit_signal
+g_dbus_interface_skeleton_get_connections
+g_dbus_interface_info_lookup_signal
+g_async_initable_get_type
+g_dbus_method_invocation_get_message
+libgobject-2.0.so.0
+g_datalist_id_set_data_full
+g_datalist_clear
+g_type_check_instance_cast
+g_type_check_class_cast
+g_signal_emitv
+libglib-2.0.so.0
+g_strsplit_set
+g_io_add_watch
+g_hash_table_find
+g_list_insert
+g_io_channel_set_close_on_unref
+g_timeout_add_seconds
+libldap_r-2.4.so.2
+ldap_msgfree
+ldap_value_free_len
+ldap_get_dn
+ldap_set_rebind_proc
+ldap_initialize
+ldap_get_values_len
+ldap_next_entry
+ldap_unbind_ext_s
+ldap_search_ext_s
+ldap_count_entries
+ldap_err2string
+ldap_memfree
+ldap_sasl_bind_s
+ldap_first_entry
+ldap_set_option
+libpthread.so.0
+recvfrom
+__errno_location
+sigaction
+sendto
+libc.so.6
+strcasestr
+socket
+__res_init
+fflush
+exit
+fopen
+inet_aton
+strrchr
+regexec
+__strdup
+strncpy
+regfree
+time
+__stack_chk_fail
+unlink
+realloc
+inet_pton
+strtol
+fgets
+calloc
+strlen
+sigemptyset
+localeconv
+strstr
+bind
+memcmp
+getnameinfo
+__fprintf_chk
+sigaddset
+fputs
+regerror
+memcpy
+fclose
+strtoul
+setsockopt
+__strncpy_chk
+__ctype_b_loc
+getenv
+sscanf
+regcomp
+stderr
+__snprintf_chk
+fscanf
+freeifaddrs
+getifaddrs
+if_indextoname
+fwrite
+strchr
+__vfprintf_chk
+__strtok_r
+sleep
+__ctype_toupper_loc
+__sprintf_chk
+__xstat
+memmove
+strcmp
+__libc_start_main
+setenv
+_edata
+__bss_start
+OPENLDAP_2.4_2
+GLIBC_2.4
+GLIBC_2.14
+GLIBC_2.3.4
+GLIBC_2.2.5
+GLIBC_2.3
+AWAVI
+AUATA
+\$0H
+D$0P
+[]A\A]A^A_
+t$ 1
+AWAVAUATI
+H9,$r<H
+[]A\A]A^A_
+AWAVL
+AUATE1
+[]A\A]A^A_
+ATUH
+t/H9
+[]A\
+AUATA
+([]A\A]
+L9d$
+AUATM
+[]A\A]
+t$(H
+T$0H
+L$8L
+D$@L
+God A red nugget A fat egg under a dog
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$81
+D$ H
+L$8dH3
+[]A\
+[]A\
+ATU1
+[]A\1
+AVAUI
+ATU1
+[]A\A]A^
+]A\A]A^
+AWAVAUATUSH
+D$81
+D$8dH3
+H[]A\A]A^A_
+|$0H
+t7f.
+D$ H
+D$ t
+t$ A
+l$$A
+|$(H
+AWAVAUATUSH
+D$XL
+t$`tf
+AVh "A
+[]A\A]A^A_
+[]A\A]A^A_1
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+k(E1
+tMf.
+t$XH
+\$HH
+AWAVI
+AUATUSH
+D$`H
+D$@H
+F(ZYH
+ATPH
+[]A\A]A^A_
+AXAY
+ATUI
+AWAVAUATSH
+[A\A]A^A_]
+AWAVAUATI
+[]A\A]A^A_
+ATUSH
+[]A\
+AWAVI
+AUAT
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+USE1
+ATUA
+[]A\
+ATUE1
+[]A\
+Bt-H
+t+S1
+AUATUS
+[]A\A]
+[]A\A]
+[]A\
+tSSH
+t\USH
+AWAV
+AUATI
+[]A\A]A^A_
+D;`T
+$ 9b
+L$ I
+t$8E1
+9D$,~
+D$,I
+D$,H
+=Z}!
+tvSH
+AWAV1
+AUATUSH
+=g|!
+H;k@
+H;k@
+D$@H
+=az!
+[]A\A]A^A_
+H;k@|
+=$y!
+~NE1
+D9{(A
+L$ I
+AUATA
+_tIA
+;-uoH
+[]A\A]
+[]A\A]
+=iq!
+=bp!
+=>p!
+=>n!
+=:n!
+AWAV
+AUATUSH
+D$,H
+t$0H
+H9l$8t
+|$0H
+T$81
+=Ii!
+D$0H
+\$0H
+[]A\A]A^A_
+\$0H
+|$0H
+\$0H
+\$0H
+\$0H
+\$0H
+ tAH
+\$0H
+\$0H
+\$0H
+|$0H
+|$0H
+T$81
+|$0H
+\$0H
+|$0H
+|$0H
+|$0H
+|$0H
+|$0H
+|$0H
+ATUH
+[]A\
+AVAUA
+ATUI
+dH3<%(
+[]A\A]A^
+AWAVI
+AUATUSH
+|$0H
+D$0H
+D$ {
+|$ H
+|$$H
+\$(A
+D$8H
+t$8H
+t$@H
+|$(L
+\$(A
+D$8H
+t$8H
+t$@H
+|$(L
+\$(A
+D$8H
+t$8H
+t$@H
++D$ H
++D$$H
+|$81
+\$(H
+|$H1
+t$`H
+2t:I
+T$`E
+|$H1
+t$`H
+D$`H
+T$XA
+L$\H
+T$X1
+D$0H
+[]A\A]A^A_
+L$\H
+L$\H
+T$XL
+T$XL
+D$`H
+L$\1
+AWAVAUATI
+AUPh
+=r;!
+= <!
+=}:!
+^_H9
+[A\A]A^A_]
+=	3!
+AWAVAUATI
+t$8L
+L$(f
+T$NH
+D$p|
+D$4M
+L$4L
+=W-!
+t$`H
+T$h1
+t$`H
+t$hH
+t'E1
+[]A\A]A^A_
+printer
+T$XH
+t$P1
+|$PH
+l$XM
+T$XH
+t$P1
+|$PH
+\$XH
+T$XH
+t$P1
+|$PH
+d$XM
+T$XH
+t$P1
+|$PH
+d$XM
+|$hE
+D$h}
+=b(!
+=	(!
+\$HH
+\$TS
+\$XSH
+\$@S
+t$8L
+L$XH
+L$hH
+=R&!
+\$8I
+D$X1
+|$(I
+D$xI
+|$`H
+D$hI
+D$pI
+D$xH
+L$xI
+T$p1
+T$XH
+t$P1
+|$PH
+\$XH
+L$4L
+\$81
+AWAV
+AUATUSH
+D$PL
+T$`H
+ZYf.
+[]A\A]A^A_
+ATUS
+(objectcH
+lass=cupH
+sPrinterH
+AWAVAUATUSH
+[]A\A]A^A_
+T$HH
+t$@1
+T$XH
+t$P1
+T$@H
+L$HH
+D$PM
+T$hA
+T$`H
+T$@f
+|$Pt4
+adminurl
+|$(H
+D$(L
+L$XI
+t$8H
+AXAY
+T$PXY
+L$XM
+|$(H
+|$(H
+AWAV
+AUATI
+D$0H
+\$pH
+D$$Ph
+[]A\A]A^A_
+t$	1
+AWAV
+AUAT
+[]A\A]A^A_
+"usH
+AWAV1
+AUATI
+|$ I
+[]A\A]A^A_
+ZY~3
+ATUI
+[]A\
+[]A\
+[]A\
+ATUI
+[]A\
+[]A\
+[]A\
+AVAUATUI
+[]A\A]A^
+t,L)
+Z[]A\A]A^
+GXpOA
+G``NA
+G8PMA
+G@@LA
+G  HA
+Sj@H
+h`]@
+h`]@
+h`]@
+h`]@
+j@E1
+j@j@
+h`]@
+j@E1
+j@j@
+h`]@
+j@E1
+j@j@
+h`]@
+j@E1
+j@j@
+h`]@
+j@E1
+j@j@
+h`]@
+j@E1
+j@j@
+h`]@
+j@E1
+j@j@
+h`]@
+j@E1
+j@j@
+h`]@
+j@E1
+j@j@
+h`]@
+j@E1
+j@j@1
+h`]@
+j@E1
+j@j@1
+h`]@
+j@E1
+j@j@1
+h`]@
+@0 DA
+@0@_A
+AWAVH
+AUATUSH
+[]A\A]A^A_
+PAQ1
+PAQ1
+PAQ1
+PAQ1
+PAQ1
+PAQ1
+PAQ1
+PAQ1
+PAQ1
+D$@P
+D$@P
+D$@P
+D$@PAQ1
+D$@P
+D$@P
+D$@P
+D$@PAQ1
+D$@P
+D$@P
+D$@P
+D$@PAQ1
+AVAUATUH
+ []A\A]A^
+AWAVI
+AUATI
+X[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVI
+AUATA
+X[]A\A]A^A_
+ATUI
+AWAVI
+AUATA
+Tacocat
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+T$8H
+L$0D
+D$,L
+L$ L
+T$(H
+T$(I
+\$(ASAWAVAUM
+L$PD
+D$\H
+L$`H
+T$hH
+[]A\A]A^A_
+AWAVAUATUSH
+T$8H
+L$0D
+D$,L
+L$ L
+T$(H
+T$(I
+\$(ASAWAVAUM
+L$PD
+D$\H
+L$`H
+T$hH
+[]A\A]A^A_
+AWAVAUATUSH
+T$8H
+L$0D
+D$,L
+L$ L
+T$(H
+T$(I
+\$(ASAWAVAUM
+L$PD
+D$\H
+L$`H
+T$hH
+[]A\A]A^A_
+AWAVI
+AUATI
+D$$H
+Y^tK
+[]A\A]A^A_
+AWAVI
+AUATI
+D$$H
+Y^tK
+[]A\A]A^A_
+AWAVI
+AUATI
+D$$H
+Y^tK
+[]A\A]A^A_
+AWAVI
+AUATI
+D$$H
+Y^tK
+[]A\A]A^A_
+AWAVI
+AUATI
+D$$H
+Y^tK
+[]A\A]A^A_
+AWAVI
+AUATI
+D$$H
+Y^tK
+[]A\A]A^A_
+AWAVI
+AUATI
+D$$H
+Y^tK
+[]A\A]A^A_
+AWAVI
+AUATI
+D$$H
+Y^tK
+[]A\A]A^A_
+AWAVI
+AUATI
+D$$H
+Y^tK
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+AVAUM
+ATUL
+\$XL
+t$PdH
+ []A\A]A^
+AUATM
+\$PdH
+([]A\A]
+AWAVAUATUSL
+L$ L
+D$(I
+|$PH
+L$01
+[]A\A]A^A_
+L$ L
+AWAVA
+AUATL
+[]A\A]A^A_
+cups-browsed: Unbind from LDAP server failed with status %d: %s
+cups-browsed: Failed to get LDAP value %s for %s!
+cups-browsed: Attribute %s is too big! (dn: %s)
+cups-browsed: ldap_connect: Setting CA certificate file "%s"
+cups-browsed: Unable to set CA certificate file for LDAP connections: %d - %s
+cups-browsed: Unable to initialize LDAP!
+cups-browsed: Temporarily disabling LDAP browsing...
+cups-browsed: Disabling LDAP browsing!
+cups-browsed: Unable to set LDAP protocol version %d!
+cups-browsed: Setting LDAP rebind function failed with status %d: %s
+cups-browsed: LDAP bind failed with error %d: %s
+cups-browsed: LDAP connection established
+cups-browsed: Try LDAP reconnect...
+cups-browsed: ldap_rebind_proc: Rebind to %s
+cups-browsed [BrowsePoll %s:%d]: IPP-Create-Subscription
+cups-browsed [BrowsePoll %s:%d]: setting IPP version %d.%d
+cups-browsed [BrowsePoll %s:%d]: subscription ID=%d
+cups-browsed [BrowsePoll %s:%d]: no ID returned
+cupsd-browsed [BrowsePoll %s:%d]: failed: %s
+cups-browsed [BrowsePoll %s:%d]: connection failure attempting to cancel
+cups-browsed [BrowsePoll %s:%d]: IPP-Cancel-Subscription
+cups-browsed [BrowsePoll %s:%d]: IPP-Get-Notifications
+cups-browsed [BrowsePoll %s:%d]: Lease expired
+cups-browsed [BrowsePoll %s:%d]: printer-* event
+cups-browsed [BrowsePoll %s:%d]: no events
+cups-browsed: browse send failed to connect to localhost
+cups-browsed: preparing browse data
+cups-browsed: browse send failed for localhost: %s
+cups-browsed: skipping %s (%d)
+cups-browsed [BrowsePoll localhost:631]: cupsGetDests
+cups-browsed: Can't free LDAPMessage!
+cups-browsed: Freeing LDAPMessage was unnecessary
+cups-browsed: checking queues in %ds
+cups-browsed: Avahi Browser: ERROR: %s
+cups-browsed: Avahi Browser: NEW: service '%s' of type '%s' in domain '%s'
+Failed to resolve service '%s': %s
+cups-browsed: Avahi Browser: REMOVE: service '%s' of type '%s' in domain '%s'
+cups-browsed: Removing the duplicate printer %s on host %s, scheduling its master printer %s on host %s for update, to assure it will have the correct device URI.
+cups-browsed: Printer %s diasappeared, replacing by backup on host %s with URI %s.
+cups-browsed: Bonjour IDs: Service name: "%s", Service type: "%s", Domain: "%s"
+cups-browsed: Avahi Browser: %s
+cups-browsed: Printer %s (Host: %s, URI: %s) disappeared and no duplicate available, or a duplicate of another printer, removing entry.
+%x %x %s "%s" "%s" "%s" lease-duration=%d%s%s
+cups-browsed: oversize packet not sent
+cups-browsed: packet to send:
+cupsd-browsed: sendto returned %d: %s
+cups-browsed: unable to get interface addresses: %s
+cups-browsed: network interface at %s
+cups-browsed: NetworkManager ActiveConnections changed
+cups-browsed: Caught signal %d, switching to permanent mode ...
+cups-browsed: We have left auto shutdown mode, killing auto shutdown timer.
+cups-browsed: Caught signal %d, shutting down ...
+cups-browsed: Error subscribing to CUPS notifications: %s
+cups-browsed: ipp-create-printer-subscription response doesn't contain subscription id.
+cups-browsed: Error renewing CUPS subscription %d: %s
+/var/cache/cups/cups-browsed-options-%s
+cups-browsed: Recording printer options for %s to %s
+cups-browsed: ERROR: Failed creating file %s
+cups-browsed: Unable to get PPD file for %s: %s
+cups-browsed: Unable to open PPD file for %s.
+cups-browsed: Applying default option settings to printer %s: %s
+cups-browsed: Retrieving printer options for %s from %s
+cups-browsed: Failed reading file %s, probably no options recorded yet
+cups-browsed: Applying retrieved option settings to printer %s:
+cups-browsed: Failed reading file %s: %s
+cups-browsed: Unable to modify CUPS queue (%s)!
+cups-browsed: All our remote printers are without jobs.
+cups-browsed: Queue %s still has jobs!
+cups-browsed: Automatic shutdown as there are no print queues maintained by us or no jobs on them for %d sec.
+cups-browsed: Caught signal %d, switching to auto shutdown mode ...
+cups-browsed: We entered auto shutdown mode and no printers are there to make available or no jobs on them, shutting down in %d sec...
+cups-browsed: No information regarding enabled/disabled found about the requested printer '%s'
+cups-browsed: ERROR: Request for printer info failed: %s
+cups-browsed: ERROR: Failed enabling printer '%s': %s
+cups-browsed: Enabled printer '%s'
+cups-browsed: ERROR: Failed disabling printer '%s': %s
+cups-browsed: Disabled printer '%s'
+cups-browsed: ERROR: Failed setting CUPS default printer to '%s': %s
+cups-browsed: Successfully set CUPS default printer to '%s'
+cups-browsed: Could not determine system default printer!
+/var/cache/cups/cups-browsed-local-default-printer
+/var/cache/cups/cups-browsed-remote-default-printer
+cups-browsed: Failed reading file %s
+cups-browsed: [CUPS Notification] Printer modified: %s
+cups-browsed: Settings of printer %s got modified, doing backup.
+cups-browsed: [CUPS Notification] Printer deleted: %s
+cups-browsed: Printer %s got deleted, re-creating it.
+cups-browsed: ERROR: Failed recording remote default printer. Removing the file with possible old recording.
+cups-browsed: Recorded %s as remote default printer so that it gets set as default after re-creating.
+cups-browsed: [CUPS Notification] Printer state change: %s
+cups-browsed: No jobs there any more on printers made available by us, shutting down in %d sec...
+cups-browsed: New jobs there on the printers made available by us, killing auto shutdown timer.
+cups-browsed: [CUPS Notification] Default printer changed from %s to %s.
+cups-browsed: Manually switched default printer from a cups-browsed-generated one to a local printer.
+cups-browsed: ERROR: Failed recording local default printer. Removing the file with possible old recording.
+cups-browsed: Recorded previous default printer so that if the currently selected cups-browsed-generated one disappears, we can return to the old local one.
+ is no longer the default printer
+cups-browsed: [CUPS Notification] %s not default printer any more.
+cups-browsed: [CUPS Notification] %s starts processing a job.
+cups-browsed: [CUPS Notification] %s is using the "implicitclass" CUPS backend, so let us search for a destination for this job.
+cups-browsed: Checking state of remote printer %s on host %s.
+cups-browsed: Printer %s on host %s is accepting jobs.
+cups-browsed: Printer %s on host %s is idle, take this as destination and stop searching.
+cups-browsed: Printer %s on host %s is printing and it has %d jobs.
+cups-browsed: Printer %s on host %s is printing.
+cups-browsed: Printer %s on host %s is disabled, skip it.
+cups-browsed: Printer %s on host %s is not accepting jobs, skip it.
+/var/cache/cups/cups-browsed-dest-host-%s
+cups-browsed: Wrote destination for job to %s: %s (to file %s)
+cups-browsed: All destinations busy for job to %s (file %s)
+cups-browsed: No destination found for job to %s (file %s)
+cups-browsed: ERROR: Could not set former default printer %s as default again.
+cups-browsed: Former default printer %s re-appeared, set as default again.
+cups-browsed: ERROR: Failed recording remote default printer (%s). Removing the file with possible old recording.
+cups-browsed: Recorded the fact that the current printer (%s) is the default printer before deleting the queue and returning to the local default printer.
+cups-browsed: Switching back to %s as default printer.
+cups-browsed: ERROR: Unable to switch back to %s as default printer.
+cups-browsed: Processing printer list ...
+cups-browsed: No remote printer named %s available, removing entry from previous session.
+cups-browsed: Removing entry %s%s.
+cups-browsed: Unable to connect to CUPS!
+cups-browsed: Queue has still jobs or CUPS error!
+Printer disappeared or cups-browsed shutdown
+cups-browsed: Unable to remove CUPS queue!
+cups-browsed: Removed a duplicate of printer %s on %s, scheduling its master printer %s on host %s for update, to assure it will have the correct device URI.
+cups-browsed: No printers there any more to make available or no jobs, shutting down in %d sec...
+cups-browsed: Creating/Updating CUPS queue for %s
+cups-browsed: Queue has %d duplicates
+cups-browsed: Print queue %s has duplicates, using implicit class device URI %s
+cups-browsed: Print queue %s has no duplicates, using direct device URI %s
+cups-browsed: Non-raw queue %s with system PPD: %s
+cups-browsed: Non-raw queue %s with PPD file: %s
+cups-browsed: Non-raw queue %s with interface script: %s
+cups-browsed: Unable to create/modify CUPS queue!
+cups-browsed: Unable to set printer-is-shared bit to false (%s)!
+Printer stopped due to backend errors
+cups-browsed: starting BrowseTimeout timer for %s (%ds)
+cups-browsed: Avahi server disappeared, switching to auto shutdown mode ...
+cups-browsed: Avahi server connection got available, setting up service browsers.
+cups-browsed: ERROR: Failed to create service browser for IPP: %s
+cups-browsed: ERROR: Failed to create service browser for IPPS: %s
+cups-browsed: Avahi server available, switching to permanent mode ...
+cups-browsed: Avahi server disappeared, shutting down service browsers, removing Bonjour-discovered print queues.
+cups-browsed: ERROR: Failed to create client: %s
+cups-browsed: ERROR: Avahi server connection failure: %s
+cups-browsed: ERROR: Failed to create glib poll object.
+cups-browsed: unable to open configuration file; using defaults
+cups-browsed: Reading config%s: %s %s
+cups-browsed: Unknown protocol '%s'
+cups-browsed: unable to realloc: ignoring BrowsePoll line
+cups-browsed: Adding BrowsePoll server: %s
+ignoring unknown server option: %s
+cups-browsed: BrowseAllow value "%s" not understood
+cups-browsed: BrowseDeny value "%s" not understood
+cups-browsed: BrowseOrder value "%s" not understood
+cups-browsed: BrowseFilter line with error in regular expression "%s": %s
+cups-browsed: Turning on auto shutdown mode.
+cups-browsed: Turning off auto shutdown mode (permanent mode).
+cups-browsed: Turning on auto shutdown control by appearing and disappearing of the Avahi server.
+cups-browsed: Unknown mode '%s'
+cups-browsed: Set auto shutdown timeout to %d sec.
+cups-browsed: Invalid auto shutdown timeout value: %d
+cups-browsed: Set auto shutdown inactivity type to no %s.
+cups-browsed: No "Browse..." line at all, accept all servers ("BrowseOrder Deny,Allow").
+cups-browsed: No "BrowseOrder" line and only "BrowseDeny" lines, accept all except what matches the "BrowseDeny" lines  ("BrowseOrder Deny,Allow").
+cups-browsed: No "BrowseOrder" line and only "BrowseAllow" lines, deny all except what matches the "BrowseAllow" lines  ("BrowseOrder Allow,Deny").
+cups-browsed: No "BrowseOrder" line, use "BrowseOrder Deny,Allow" as default.
+cups-browsed: Invalid auto shutdown inactivity type value: %s
+cups-browsed of cups-filters version 1.8.3 starting.
+cups-browsed: Reading command line option %s, turning on debug mode.
+cups-browsed: Reading command line option -c %s, using alternative configuration file.
+cups-browsed: Reading command line option -c, no alternative configuration file name supplied.
+cups-browsed: Reading command line option -o %s, applying extra configuration option.
+cups-browsed: Reading command line option -o, no extra configuration option supplied.
+cups-browsed: Reading command line: %s
+cups-browsed: Expected auto shutdown timeout setting after "--autoshutdown-timeout" option.
+cups-browsed: Invalid auto shutdown timeout value: %d
+cups-browsed: Expected auto shutdown inactivity type ("no-queues" or "no-jobs") after "--autoshutdown-on" option.
+cups-browsed: Expected auto shutdown setting after "--autoshutdown" option.
+cups-browsed: Unknown mode '%s'
+cups-browsed: Reading command line option %s, unknown command line option.
+cups-browsed: Local support for DNSSD not implemented
+cups-browsed: Local support for LDAP not implemented
+cups-browsed: Using signal handler SIGACTION
+cups-browsed: We set auto shutdown mode and no printers are there to make available or no jobs on them, shutting down in %d sec...
+cups-browsed: failed to create CUPS Browsing socket: %s
+cups-browsed: failed to bind CUPS Browsing socket: %s
+cups-browsed: failed to allow broadcast: %s
+cups-browsed: nothing left to do
+org.freedesktop.NetworkManager
+/org/freedesktop/NetworkManager
+cups-browsed: will send browse data every %ds
+cups-browsed: will browse poll LDAP every %ds
+cups-browsed: will browse poll %s every %ds
+cups-browsed: Error creating cups notify handler: %s
+cups-browsed: No printers found to make available, shutting down in %d sec...
+cups-browsed: main loop exited
+cups-browsed of cups-filters version 1.8.3
+Usage: cups-browsed [options]
+Options:
+  -c cups-browsed.conf    Set alternative cups-browsed.conf file to use.
+  -d
+  -v
+  --debug                 Run in debug mode (verbose logging).
+  -h
+  --help
+  --version               Show this usage message.
+  -o Option=Value         Supply configuration option via command line,
+                          options are the same as in cups-browsed.conf.
+  --autoshutdown=<mode>   Automatically shut down cups-browsed when inactive:
+                          <mode> can be set to Off, On, or avahi, where Off
+                          means that cups-browsed stays running permanently
+                          (default), On means that it shuts down after 30
+                          seconds (or any given timeout) of inactivity, and
+                          avahi means that cups-browsed shuts down when
+                          avahi-daemon shuts down.
+  --autoshutdown-timout=<time> Timeout (in seconds) for auto-shutdown.
+  --autoshutdown-on=<type> Type of inactivity which leads to an auto-
+                          shutdown: If <type> is "no-queues", the shutdown
+                          is triggered by not having any cups-browsed-created
+                          print queue any more. With <type> being "no-jobs"
+                          shutdown is initiated by no job being printed
+                          on any cups-browsed-generated print queue any more.
+                          "no-queues" is the default.
+cups-browsed: No data format suitable for PPD auto-generation supported by the printer, not generating PPD
+*cupsFilter2: "image/pwg-raster image/pwg-raster 10 -"
+*cupsFilter2: "application/vnd.cups-postscript application/postscript 10 -"
+*OpenUI *PageSize: PickOne
+*OrderDependency: 10 AnySetup *PageSize
+*DefaultPageSize: %s
+cups-browsed: No page sizes reported as supported by the printer, not generating PPD
+*OpenUI *PageRegion: PickOne
+*OrderDependency: 10 AnySetup *PageRegion
+*DefaultPageRegion: %s
+*PageSize %s: "<</PageSize[%s %s]>>setpagedevice"
+*DefaultImageableArea: %s
+*DefaultPaperDimension: %s
+*PageRegion %s: "<</PageSize[%s %s]>>setpagedevice"
+*ImageableArea %s: "%s %s %s %s"
+*OpenUI *InputSlot: PickOne
+*OrderDependency: 10 AnySetup *InputSlot
+*DefaultInputSlot: %s
+*InputSlot %s/%s: "<</MediaPosition %d>>setpagedevice"
+*OpenUI *MediaType: PickOne
+*OrderDependency: 10 AnySetup *MediaType
+*DefaultMediaType: %s
+*MediaType %s/%s: "<</MediaType(%s)>>setpagedevice"
+pwg-raster-document-type-supported
+*OpenUI *ColorModel/Color Mode: PickOne
+*OrderDependency: 10 AnySetup *ColorModel
+*ColorModel FastGray/Fast Grayscale: "<</cupsColorSpace 3/cupsBitsPerColor 1/cupsColorOrder 0/cupsCompression 0>>setpagedevice"
+*ColorModel Gray/Grayscale: "<</cupsColorSpace 18/cupsBitsPerColor 8/cupsColorOrder 0/cupsCompression 0>>setpagedevice"
+*ColorModel RGB/Color: "<</cupsColorSpace 19/cupsBitsPerColor 8/cupsColorOrder 0/cupsCompression 0>>setpagedevice"
+*OpenUI *Duplex/2-Sided Printing: PickOne
+*OrderDependency: 10 AnySetup *Duplex
+*DefaultDuplex: None
+*Duplex None/Off (1-Sided): "<</Duplex false>>setpagedevice"
+*Duplex DuplexNoTumble/Long-Edge (Portrait): "<</Duplex true/Tumble false>>setpagedevice"
+*Duplex DuplexTumble/Short-Edge (Landscape): "<</Duplex true/Tumble true>>setpagedevice"
+*CloseUI: *Duplex
+pwg-raster-document-sheet-back
+pwg-raster-document-resolution-supported
+*OpenUI *cupsPrintQuality/Print Quality: PickOne
+*OrderDependency: 10 AnySetup *cupsPrintQuality
+*DefaultcupsPrintQuality: Normal
+*cupsPrintQuality Draft: "<</HWResolution[%d %d]>>setpagedevice"
+*cupsPrintQuality Normal: "<</HWResolution[%d %d]>>setpagedevice"
+*cupsPrintQuality High: "<</HWResolution[%d %d]>>setpagedevice"
+*MediaType %s: "<</MediaType(%s)>>setpagedevice"
+cups-browsed: ERROR: Unable to allocate memory.
+cups-browsed: Printer %s (%s) is an IPP network printer and cups-browsed is not configured to set up such printers automatically, ignoring this printer.
+cups-browsed: Cannot create remote printer %s (%s) as its PDLs are not known, ignoring this printer.
+cups-browsed: Cannot connect to remote printer %s (%s:%d), ignoring this printer.
+cups-browsed: Unable to create PPD file: %s
+Margins: Left: %d, Right: %d, Top: %d, Bottom: %d
+No info about supported color spaces found!
+Unable to create interface script file
+Creating temp script file "%s"
+#!/bin/sh
+# System V interface script for printer %s generated by cups-browsed
+if [ $# -lt 5 -o $# -gt 6 ]; then
+  echo "ERROR: $0 job-id user title copies options [file]" >&2
+  exit 1
+# Read from given file
+if [ -n "$6" ]; then
+  exec "$0" "$1" "$2" "$3" "$4" "$5" < "$6"
+%s/filter/sys5ippprinter "$1" "$2" "$3" "$4" "$5"
+Unable to write interface script into the file
+cups-browsed: Created temporary IPP Everywhere PPD: %s
+cups-browsed: New printers there to make available, killing auto shutdown timer.
+cups-browsed: ERROR: Unable to create print queue, ignoring printer.
+cups-browsed: Printer %s already available through host %s.
+cups-browsed: Unconfirmed/disappeared printer %s already available through host %s, marking that printer duplicate of the newly found one.
+cups-browsed: Found CUPS queue: %s on host %s.
+cups-browsed: Remote Bonjour-advertised CUPS queue %s on host %s is raw, ignored.
+cups-browsed: %s already taken, using fallback name: %s
+cups-browsed: %s also taken, printer ignored.
+cups-browsed: Matching printer "%s" with properties Host = "%s", Port = %d, Service Name = "%s", Domain = "%s" with the BrowseFilter lines in cups-browsed.conf
+cups-browsed: All BrowseFilter lines matched or skipped, accepting printer %s
+cups-browsed: Matching with line "BrowseFilter %s%s%s %s"
+cups-browsed: One BrowseFilter line did not match, ignoring printer %s
+cups-browsed: Printer %s does not match BrowseFilter lines in cups-browsed.conf, printer ignored.
+cups-browsed: Upgrading printer %s (Host: %s) to IPPS. New URI: %s
+cups-browsed: Changing URI of printer %s (Host: %s) to %s.
+cups-browsed: Entry for %s (URI: %s) already exists.
+cups-browsed: Marking entry for %s (URI: %s) as confirmed.
+: Field not found --> SKIPPED
+cups-browsed: Printer with URI %s already exists, printer ignored.
+cups-browsed: UpdateLDAPBrowse
+cups-browsed: LDAP search failed with status %d: %s
+cups-browsed: We try the LDAP search once again after reconnecting to the server
+cups-browsed: ldap_search_rec: LDAP entry/object not found
+cups-browsed: ldap_search_rec: LDAP search failed with status %d: %s
+cups-browsed: LDAP update temporary disabled
+cups-browsed: LDAP update enabled
+cups-browsed: LDAP search returned %d entries
+cups-browsed: don't understand URI: %s
+cups-browsed: browsed LDAP queue name is %s
+cups-browsed: Need to set BrowseLDAPDN to use LDAP browsing!
+cups-browsed: Could not allocate memory for LDAP browse query filter!
+cups-browsed: Avahi-Resolver: Failed to resolve service '%s' of type '%s' in domain '%s': %s
+cups-browsed: Avahi Resolver: Service '%s' of type '%s' in domain '%s'.
+cups-browsed: Avahi Resolver: Service '%s' of type '%s' in domain '%s' with IP address %s.
+cups-browsed: Avahi Resolver: Service '%s' of type '%s' in domain '%s' skipped, could not determine IP address.
+cups-browsed: browsed queue name is %s
+cups-browsed: ignoring own broadcast on %s
+cupsd-browsed: error receiving browse packet: %s
+cups-browsed: browse packet from %s disallowed
+cups-browsed: browse packet received from %s
+cups-browsed: incorrect browse packet format
+Eleele
+cups-browsed: browse polling %s:%d
+cups-browsed [BrowsePoll %s:%d]: failed to connect
+cups-browsed [BrowsePoll %s:%d]: CUPS-Get-Printers
+cups-browsed [BrowsePoll %s:%d]: failed: %s
+cups-browsed: Found CUPS queue %s (URI: %s) from previous session.
+%dx%ddpi
+localhost
+ldapi:///
+EXTERNAL
+printer-uri
+ippget
+notify-pull-method
+utf-8
+notify-charset
+requesting-user-name
+notify-events
+notify-time-interval
+notify-subscription-id
+notify-subscription-ids
+notify-sequence-numbers
+notify-sequence-number
+device-uri
+true
+requested-attributes
+printer-type
+printer-state
+printer-uri-supported
+printer-location
+printer-info
+printer-make-and-model
+auth-info-required
+none
+auth-info-required=%s 
+printer-uuid
+uuid=%s 
+job-sheets-default
+job-sheets=%s,%s 
+ "'\
+%s=%s 
+cups-browsed: listening
+CACHE_EXHAUSTED
+ALL_FOR_NOW
+cups-browsed: malloc failure
+a{sv}
+ActiveConnections
+{&sv}
+dbus://
+notify-recipient-uri
+notify-lease-duration
+/printers/%s
+PageRegion
+%s=%s
+ %s=%s
+/admin/
+adobe
+black
+gray
+cmyk
+Score for color space %s: %d
+printer-name
+printer-state-message
+Disabled by cups-browsed
+ is now the default printer
+ state changed to processing
+%s:%d
+printer-is-accepting-jobs
+"%s"
+"ALL_DESTS_BUSY"
+"NO_DEST_FOUND"
+ and its CUPS queue
+implicitclass:%s
+cups-browsed-default
+cups-browsed: Raw queue %s
+false
+printer-is-shared
+_ipp._tcp
+_ipps._tcp
+/etc/cups/cups-browsed.conf
+ (from command line)
+queues
+alula
+BrowseProtocols
+BrowseLocalProtocols
+BrowseRemoteProtocols
+dnssd
+ldap
+BrowsePoll
+version=1.0
+version=1.1
+version=2.0
+version=2.1
+version=2.2
+BrowseAllow
+BrowseDeny
+BrowseOrder
+BrowseFilter
+EXACT
+DomainSocket
+IPBasedDeviceURIs
+IPv4
+IPv4Only
+IPv6
+IPv6Only
+IPAddress
+CreateRemoteRawPrinterQueues
+CreateIPPPrinterQueues
+IPPPrinterQueueType
+Auto
+NoPPD
+LoadBalancing
+QueueOnClient
+QueueOnServers
+DefaultOptions
+AutoShutdown
+True
+False
+avahi
+AutoShutdownTimeout
+AutoShutdownOn
+BrowseLDAPBindDN
+BrowseLDAPCACertFile
+BrowseLDAPDN
+BrowseLDAPPassword
+BrowseLDAPServer
+BrowseLDAPFilter
+/var/run/cups/cups.sock
+--debug
+--autoshutdown-timeout
+--autoshutdown-on
+--autoshutdown
+--version
+--help
+CUPS_SERVER
+g-properties-changed
+/org/cups/cupsd/Notifier
+printer-state-changed
+printer-deleted
+printer-modified
+%.12f
+FastGray
+*PPD-Adobe: "4.3"
+*FormatVersion: "4.3"
+*FileVersion: "%d.%d"
+*LanguageVersion: English
+*LanguageEncoding: ISOLatin1
+*PSVersion: "(3010.000) 0"
+*LanguageLevel: "3"
+*FileSystem: False
+*PCFileName: "ippeve.ppd"
+Unknown Printer
+Hewlett Packard 
+Hewlett-Packard 
+*Manufacturer: "%s"
+*ModelName: "%s"
+*Product: "(%s)"
+*NickName: "%s"
+*ShortNickName: "%s"
+color-supported
+*ColorDevice: True
+*ColorDevice: False
+*cupsVersion: %d.%d
+*cupsSNMPSupplies: False
+*cupsLanguages: "en"
+document-format-supported
+image/pwg-raster
+application/postscript
+media-bottom-margin-supported
+media-left-margin-supported
+media-right-margin-supported
+media-top-margin-supported
+media-col-default
+media-size
+x-dimension
+y-dimension
+Unknown
+media-size-supported
+*CloseUI: *PageSize
+*CloseUI: *PageRegion
+*PaperDimension %s: "%s %s"
+media-source
+media-source-supported
+*CloseUI: *InputSlot
+media-type
+media-type-supported
+*CloseUI: *MediaType
+print-color-mode-supported
+black_1
+process-bi-level
+sgray_8
+process-monochrome
+srgb_8
+color
+*DefaultColorModel: %s
+*CloseUI: *ColorModel
+sides-supported
+two-sided-long-edge
+flipped
+*cupsBackSide: Flipped
+manual-tumble
+*cupsBackSide: ManualTumble
+normal
+*cupsBackSide: Normal
+*cupsBackSide: Rotated
+urf-supported
+*DefaultResolution: %s
+*CloseUI: *cupsPrintQuality
+*DefaultResolution: 300dpi
+*DefaultResolution: %ddpi
+printer-resolution-default
+/usr/lib/cups
+application/pdf
+application/vnd.hp-PCL
+application/PCL
+application/x-pcl
+Hewlett Packard
+Hewlett-Packard
+LaserJet
+Mopier
+application/vnd.hp-PCLXL
+Attr: %s
+Value: %s
+Keyword: %s
+media-default
+Default page size: %s
+media-ready
+No default page size found!
+media-bottom-margin-default
+media-left-margin-default
+media-right-margin-default
+media-top-margin-default
+Supported color space: %s
+Best color space: %s
+print-color-mode-default
+sides-default
+output-format-default
+make-and-model-default
+CUPS_SERVERBIN
+product
+EXACT 
+NOT 
+usb_MDL
+_ipps
+Color
+Duplex
+%s@%s
+ --> MATCHED
+, TXT record entry: %s = %s
+PrinterName
+Queue
+QueueName
+RemoteHost
+RemoteHostName
+ServerName
+Port
+Service
+ServiceName
+Domain
+ --> FAILED
+ipp:
+printerDescription
+printerLocation
+printerMakeAndModel
+printerType
+printerURI
+/printers/
+/classes/
+(objectclass=cupsPrinter)
+(&%s%s)
+adminurl
+http://%s
++%s]
+%x%x%1023s
+printer-type-mask
+Cassette
+alternate
+Multipurpose
+large-capacity
+LargeCapacity
+bottom
+Lower
+middle
+Middle
+Upper
+rear
+Rear
+side
+Side
+envelope
+Envelope
+main-roll
+alternate-roll
+Roll2
+auto
+cardstock
+Cardstock
+photographic-glossy
+photographic-high-gloss
+photographic-matte
+stationery
+Plain
+stationery-coated
+Coated
+stationery-inkjet
+Inkjet
+stationery-letterhead
+stationery-preprinted
+Preprinted
+transparency
+Transparency
+custom_
+w%dh%d
+Automatic
+Disc
+CD/DVD/Bluray
+Labels
+Label
+Other
+Photographic
+PhotographicGlossy
+Glossy Photo
+PhotographicHighGloss
+High-Gloss Photo
+PhotographicMatte
+Matte Photo
+PhotographicSatin
+Satin Photo
+PhotographicSemiGloss
+Semi-Gloss Photo
+Stationery
+Plain Paper
+StationeryLetterhead
+Main
+Alternate
+Large Capacity
+Manual
+Hagaki
+MainRoll
+Main Roll
+AlternateRoll
+Alternate Roll
+Bottom
+Left
+Right
+Center
+ByPassTray
+Tray1
+Tray 1
+Tray2
+Tray 2
+Tray3
+Tray 3
+Tray4
+Tray 4
+Tray5
+Tray 5
+Tray6
+Tray 6
+Tray7
+Tray 7
+Tray8
+Tray 8
+Tray9
+Tray 9
+Tray10
+Tray 10
+Tray11
+A Santa lives evil at NASA
+Tray 11
+Tray12
+Tray 12
+Tray13
+Tray 13
+Tray14
+Tray 14
+Tray15
+Tray 15
+Tray16
+Tray 16
+Tray17
+Tray 17
+Tray18
+Tray 18
+Tray19
+Tray 19
+Tray20
+Tray 20
+Roll1
+Roll 1
+Roll 2
+Roll3
+Roll 3
+Roll4
+Roll 4
+Roll5
+Roll 5
+Roll6
+Roll 6
+Roll7
+Roll 7
+Roll8
+Roll 8
+Roll9
+Roll 9
+Roll10
+Roll 10
+*-default
+job-quota-period
+job-k-limit
+job-page-limit
+printer-error-policy
+printer-geo-location
+printer-op-policy
+printer-organization
+printer-organizational-unit
+requesting-user-name-allowed
+requesting-user-name-denied
+job-template
+printer-added
+printer-changed
+printer-config-changed
+@server-started
+server-restarted
+server-stopped
+server-audit
+printer-restarted
+printer-stopped
+printer-shutdown
+printer-finishings-changed
+printer-media-changed
+job-created
+job-completed
+job-state
+CupsNotifier
+CupsNotifierProxy
+g-flags
+org.cups.cupsd.Notifier
+g-interface-name
+g-object-path
+g-connection
+g-name
+g-bus-type
+CupsNotifierSkeleton
+(sssusbuussu)
+JobState
+JobCompleted
+JobCreated
+(sssusb)
+PrinterMediaChanged
+PrinterFinishingsChanged
+PrinterStateChanged
+PrinterShutdown
+PrinterStopped
+PrinterRestarted
+PrinterModified
+PrinterDeleted
+PrinterAdded
+ServerAudit
+ServerStopped
+ServerRestarted
+ServerStarted
+No property with name %s
+info != NULL
+cups-notifier.c
+notifier
+job_impressions_completed
+job_name
+job_state_reasons
+job_state
+job_id
+printer_is_accepting_jobs
+printer_state_reasons
+printer_state
+printer_name
+printer_uri
+text
+Method %s is not implemented on interface %s
+_cups_notifier_skeleton_handle_method_call
+_cups_notifier_skeleton_handle_get_property
+_cups_notifier_skeleton_handle_set_property
+;*3$"
+fe975057bebeae70bf502c10c3ab9e873e8546.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

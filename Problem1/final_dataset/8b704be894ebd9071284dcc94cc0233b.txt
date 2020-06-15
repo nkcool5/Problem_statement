@@ -1,0 +1,511 @@
+/lib64/ld-linux-x86-64.so.2
+libcdio.so.13
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+cdio_loglevel_default
+cdio_free_device_list
+mmc_timeout_ms
+cdio_get_devices_with_cap_ret
+_fini
+libcdio_cdda.so.1
+cdio_cddap_track_preemp
+cdio_cddap_disc_firstsector
+cdio_cddap_track_copyp
+cdio_cddap_track_audiop
+cdio_cddap_close
+cdio_cddap_track_channels
+cdio_cddap_messages
+cdio_cddap_track_lastsector
+cdio_cddap_sector_gettrack
+cdio_cddap_errors
+cdio_cddap_verbose_set
+cdio_cddap_speed_set
+cdio_cddap_track_firstsector
+cdio_cddap_disc_lastsector
+cdio_cddap_open
+cdio_cddap_identify
+libcdio_paranoia.so.1
+cdio_paranoia_modeset
+cdio_paranoia_free
+cdio_paranoia_init
+cdio_paranoia_seek
+cdio_paranoia_read_limited
+cdio_paranoia_overlapset
+libc.so.6
+fflush
+fopen
+optind
+strrchr
+__strdup
+perror
+__stack_chk_fail
+unlink
+strspn
+strtol
+isatty
+__errno_location
+__fprintf_chk
+stdout
+fputc
+fputs
+memcpy
+fclose
+setegid
+getgid
+optarg
+stderr
+__snprintf_chk
+seteuid
+getuid
+getopt_long
+__strncat_chk
+fileno
+fwrite
+gettimeofday
+strchr
+__sprintf_chk
+__strcat_chk
+strerror
+__libc_start_main
+__cxa_atexit
+_edata
+__bss_start
+_end
+CDIO_13
+CDIO_PARANOIA_1
+CDIO_CDDA_1
+GLIBC_2.14
+GLIBC_2.4
+GLIBC_2.2.5
+GLIBC_2.3.4
+52i 
+%4i 
+%2i 
+%*i 
+%"i 
+%zh 
+%rh 
+%jh 
+%bh 
+%Zh 
+%Rh 
+%Jh 
+%Bh 
+%:h 
+%2h 
+%*h 
+%"h 
+%zg 
+%rg 
+%jg 
+%bg 
+%Zg 
+Beeb
+%Rg 
+%Jg 
+%2e 
+AWAVAUATUSH
+A:E1D
+|$0D
+L$(L
+D$ H
+L$(t
+L$ Hc
+Hc\$
+HiD$
+[]A\A]A^A_
+AWAVE1
+AUATUS
+t$0dH
+|$$L
+53c 
+H;=8b 
+=:b 
+={a 
+=/a 
+D$$H
+9D$$
+L$0H
+D$hI
+T$hH
+D$`I
+-M^ 
+L$(H
+LcT$H
+T$`H
+E:}1
+D$xH
+T$xH
+T$xH
+=	\ 
+Degas are we not drawn onward no In union drawn onward to new eras aged
+t$pH
+=\[ 
+D$(H
+T$(H
+=7[ 
+t$(H
+=ZZ 
+=VZ 
+D$8I
+t$8H
+D$h1
+D$xH
+t$`H
+=]Y 
+=LY 
+=$Y 
+D$(H
+D$(H
+9T$$
+L$0L
+L;,$
+=yW 
+=jW 
+5RW 
+T$ I
+L;,$
+L;,$
+L9l$
+=5V 
+[]A\A]A^A_
+\$DE
+Borrow or rob
+D$PA
+Tacocat
+L$HH
+AXAYu6
+Hct$LH
+=pR 
+-}R 
+5\R 
+9T$$
+ARATL
+D$HH
+=oP 
+=zP 
+=aP 
+=TP 
+H=0	
+=3O 
+t$(H
+=QO 
+=EO 
+=~N 
+UH-H
+H;=9K 
+AUATA
+[]A\A]
+=bJ 
+God A red nugget A fat egg under a dog
+=5J 
+AWAVAUATUSH
+=OJ 
+[]A\A]A^A_
+        
+    H
+5?G 
+-oG 
+l$ L
+57G 
+-jE 
+-lE 
+-aE 
+=ME 
+=	E 
+l$ VAWA
+l$ H
+~yAUATA
+[]A\A]
+[]A\A]
+AUATA
+uOH+-y
+[]A\A]
+9=.@ 
+AVAUA
+ATUI
+[]A\A]A^
+5y; 
+=B; 
+5,; 
+AWAVA
+AUATL
+[]A\A]A^A_
+Error parsing span argument
+0123456789
+Track #%d does not exist.
+= :-)
+ :^D
+ 8-X
+ ;-(
+ :-(
+ :-0
+ 8-|
+ :-P
+ :-/
+ :-|
+##: %d [%s] @ %ld
+ yes
+  no
+  OK
+0.83
+Unable to open disc.
+Done.
+Cannot dupplicate stdout: %s
+outputting to stdout
+ %strack%02d.%s
+%s%s
+cdda.raw
+cdda.wav
+cdda.aifc
+cdda.aiff
+outputting to %s
+track%02d.
+Error writing output: %s
+Removing aborted file: %s
+abort-on-skip
+batch
+disable-extra-paranoia
+disable-fragmentation
+disable-paranoia
+force-cdrom-big-endian
+force-cdrom-device
+force-cdrom-little-endian
+force-default-sectors
+force-generic-device
+force-read-speed
+force-search-overlap
+help
+log-summary
+mmc-timeout
+never-skip
+output-aifc
+output-aiff
+output-raw
+output-raw-big-endian
+output-raw-little-endian
+output-wav
+query
+quiet
+sample-offset
+search-for-drive
+stderr-progress
+test-mode
+toc-bias
+toc-offset
+verbose
+version
+wrote
+finished
+read
+verify
+jitter
+correction
+scratch
+scratch repair
+drift
+backoff
+dropped
+duped
+transport error
+Time/sector offset goes beyond end of specified track.
+Time/sector offset goes beyond end of disc.
+An (integer) argument for option -%c was expected  but not found. Option ignored
+Value '%s' for option -%c out of range. Value %ld used instead.
+Can't convert '%s' for option -%c completely into an integer. Option ignored.
+  ...aborting; please wait... 
+ (== PROGRESS == [%s| %06ld %02d ] ==%s %c ==)   
+ (== PROGRESS == [%s| ...... %02d ] ==%s %c ==)   
+Sending all callback output to stderr for wrapper script
+Multiple cdrom devices given. Previous device %s ignored
+Cannot open log summary file %s: %s
+cdparanoia III release 9.8 libcdio 0.83 x86_64-pc-linux-gnu
+(C) 2001 Monty <monty@xiph.org> and Xiphophorus
+(C) 2004, 2005, 2008 Rocky Bernstein <rocky@gnu.org>
+Report bugs to bug-libcdio@gnu.org
+Unable find or access a CD-ROM drive with an audio CD in it.
+You might try specifying the drive, especially if it has mixed-mode (and non-audio) format tracks
+Unable to open cdrom drive; -v might give more information.
+Forcing CDROM sense to little-endian; ignoring preset and autosense
+Forcing CDROM sense to big-endian; ignoring preset and autosense
+Default sector read size must be 1<= n <= 100
+Forcing default to read %ld sectors; ignoring preset and autosense
+Search overlap sectors must be 0<= n <=75
+Eleele
+Forcing search overlap to %ld sectors; ignoring autosense
+Unable to open disc.  Is there an audio CD in the drive?
+Cdparanoia could not find a way to read audio from this drive.
+Table of contents (audio tracks only):
+track        length               begin        copy pre ch
+===========================================================
+%3d.  %7ld [%02d:%02d.%02d]  %7ld [%02d:%02d.%02d]  %s %s %s
+TOTAL %7ld [%02d:%02d.%02d]    (audio only)
+WARNING: The autosensed/selected sectors per read value is
+         one sector, making it very unlikely Paranoia can 
+         work.
+Do nine men interpret Nine men I nod
+         Attempting to continue...
+Ripping from sector %7ld (track %2d [%d:%02d.%02d])
+	  to sector %7ld (track %2d [%d:%02d.%02d])
+Selected span contains non audio tracks.  Aborting.
+Are you sure you wanted 'batch' (-B) output with stdout?
+Cannot open specified output file %s: %s
+Cannot open default output file %s: %s
+paranoia_read: Unrecoverable error, bailing.
+paranoia_read: Unrecoverable error reading through sample_offset shift
+	at end of track, bailing.
+                                                                          
+%s%s
+aBcCd:efg:hi:l:m:n:o:O:pqQrRsS:Tt:VvwWx:XYZz::
+USAGE:
+  cd-paranoia [options] <span> [outfile]
+OPTIONS:
+  -v --verbose                    : extra verbose operation
+  -q --quiet                      : quiet operation
+  -e --stderr-progress            : force output of progress information to
+                                    stderr (for wrapper scripts)
+  -l --log-summary         <file> : save result summary to file
+  -V --version                    : print version info and quit
+  -Q --query                      : autosense drive, query disc and quit
+  -B --batch                      : 'batch' mode (saves each track to a
+                                    seperate file.
+  -s --search-for-drive           : do an exhaustive search for drive
+  -h --help                       : print help
+  -p --output-raw                 : output raw 16 bit PCM in host byte 
+                                    order
+  -r --output-raw-little-endian   : output raw 16 bit little-endian PCM
+A Santa lives evil at NASA
+  -R --output-raw-big-endian      : output raw 16 bit big-endian PCM
+  -w --output-wav                 : output as WAV file (default)
+  -f --output-aiff                : output as AIFF file
+  -a --output-aifc                : output as AIFF-C file
+  -c --force-cdrom-little-endian  : force treating drive as little endian
+  -C --force-cdrom-big-endian     : force treating drive as big endian
+  -n --force-default-sectors <n>  : force default number of sectors in read
+                                    to n sectors
+  -o --force-search-overlap  <n>  : force minimum overlap search during
+                                    verification to n sectors
+  -d --force-cdrom-device   <dev> : use specified device; disallow 
+                                    autosense
+  -g --force-generic-device <dev> : really an alias for -d. Kept for 
+                                    compatibility.
+  -S --force-read-speed <n>       : read from device at specified speed
+  -t --toc-offset <n>             : Add <n> sectors to the values reported
+                                    when addressing tracks. May be negative
+  -T --toc-bias                   : Assume that the beginning offset of 
+                                    track 1 as reported in the TOC will be
+                                    addressed as LBA 0.  Necessary for some
+                                    Toshiba drives to get track boundaries
+                                    correct
+  -m --mmc-timeout <n>            : Set SCSI-MMC timeout to <n> seconds.
+  -O --sample-offset <n>          : Add <n> samples to the offset when
+                                    reading data.  May be negative.
+  -z --never-skip[=n]             : never accept any less than perfect
+                                    data reconstruction (don't allow 'V's)
+                                    but if [n] is given, skip after [n]
+                                    retries without progress.
+  -Z --disable-paranoia           : disable all paranoia checking
+  -Y --disable-extra-paranoia     : only do cdda2wav-style overlap checking
+  -X --abort-on-skip              : abort on imperfect reads/skips
+  -x --test-flags=mask            : simulate CD-reading errors of ilk-mask n
+                                    mask & 0x10  - simulate underrun errors
+OUTPUT SMILIES:
+  :-)   Normal operation, low/no jitter
+  :-|   Normal operation, considerable jitter
+  :-/   Read drift
+  :-P   Unreported loss of streaming in atomic read operation
+  8-|   Finding read problems at same point during reread; hard to correct
+  :-0   SCSI/ATAPI transport error
+  :-(   Scratch detected
+  ;-(   Gave up trying to perform a correction
+  8-X   Aborted (as per -X) due to a scratch/skip
+  :^D   Finished extracting
+PROGRESS BAR SYMBOLS:
+<space> No corrections needed
+   -    Jitter correction required
+   +    Unreported loss of streaming/other error in read
+   !    Errors are getting through stage 1 but corrected in stage2
+   e    SCSI/ATAPI transport error (corrected)
+   V    Uncorrected error/skip
+SPAN ARGUMENT:
+The span argument may be a simple track number or a offset/span
+specification.  The syntax of an offset/span takes the rough form:
+                       1[ww:xx:yy.zz]-2[aa:bb:cc.dd] 
+Here, 1 and 2 are track numbers; the numbers in brackets provide a
+finer grained offset within a particular track. [aa:bb:cc.dd] is in
+hours/minutes/seconds/sectors format. Zero fields need not be
+specified: [::20], [:20], [20], [20.], etc, would be interpreted as
+twenty seconds, [10:] would be ten minutes, [.30] would be thirty
+alula
+sectors (75 sectors per second).
+When only a single offset is supplied, it is interpreted as a starting
+offset and ripping will continue to the end of he track.  If a single
+offset is preceeded or followed by a hyphen, the implicit missing
+offset is taken to be the start or end of the disc, respectively. Thus:
+    1:[20.35]    Specifies ripping from track 1, second 20, sector 35 to 
+                 the end of track 1.
+    1:[20.35]-   Specifies ripping from 1[20.35] to the end of the disc
+    -2           Specifies ripping from the beginning of the disc up to
+                 (and including) track 2
+    -2:[30.35]   Specifies ripping from the beginning of the disc up to
+                 2:[30.35]
+    2-4          Specifies ripping from the beginning of track two to the
+                 end of track 4.
+Don't forget to protect square brackets and preceeding hyphens from
+the shell...
+A few examples, protected from the shell:
+  A) query only with exhaustive search for a drive and full reporting
+     of autosense:
+       cd-paranoia -vsQ
+  B) extract up to and including track 3, putting each track in a separate
+     file:
+       cd-paranoia -B -- "-3"
+  C) extract from track 1, time 0:30.12 to 1:10.00:
+       cd-paranoia "[:30.12]-1[1:10]"
+Submit bug reports to bug-libcdio@gnu.org
+Awrite (in buffering_write, flushing)
+write (in buffering_write, full buffer)
+write (in buffering_close)
+Could not write to output.
+RIFF
+WAVEfmt 
+data
+FORM
+AIFF
+COMM
+SSND
+AIFC
+FVER
+NONE
+not compressed
+;*3$"
+                              
+cd-paranoia
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

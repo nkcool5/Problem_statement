@@ -1,0 +1,880 @@
+/lib64/ld-linux-x86-64.so.2
+CN!BE
+libgettextsrc-0.19.7.so
+xasprintf
+__gmon_start__
+_Jv_RegisterClasses
+multiline_error
+freea
+_ITM_deregisterTMCloneTable
+_ITM_registerTMCloneTable
+xconcatenated_filename
+c_strstr
+locale_charset
+xmalloc
+xstrdup
+c_strcasecmp
+msgdomain_list_english
+po_strftime
+message_page_width_set
+output_format_po
+msgdomain_list_print
+handle_color_option
+po_charset_canonicalize
+message_alloc
+message_list_prepend
+handle_style_option
+input_format_po
+read_catalog_file
+input_format_stringtable
+message_list_search
+output_format_properties
+output_format_stringtable
+plural_table
+extract_plural_expression
+input_format_properties
+color_test_mode
+message_page_width_ignore
+po_charset_ascii
+_fini
+plural_table_size
+libgettextlib-0.19.7.so
+create_pipe_in
+close_stdout
+maybe_print_progname
+wait_subprocess
+libintl_once_singlethreaded
+set_program_name
+libintl_recursive_lock_init_multithreaded
+proper_name
+xsetenv
+gl_locale_name
+libc.so.6
+strcpy
+__printf_chk
+readdir
+setlocale
+fopen
+strncmp
+optind
+strrchr
+dcgettext
+error_print_progname
+getpwuid
+God A red nugget A fat egg under a dog
+closedir
+__stack_chk_fail
+putchar
+pthread_mutex_lock
+fgets_unlocked
+realloc
+abort
+strtol
+getpwnam
+strlen
+memset
+__errno_location
+memcmp
+mempcpy
+unsetenv
+__fprintf_chk
+pthread_mutex_unlock
+fputc
+fputs
+memcpy
+fclose
+opendir
+__ctype_b_loc
+getenv
+optarg
+stderr
+getlogin
+getuid
+getopt_long
+pthread_mutex_init
+__getdelim
+localtime
+strchr
+fdopen
+qsort
+Tacocat
+__fsetlocking
+bindtextdomain
+access
+strcmp
+__libc_start_main
+basename
+free
+__cxa_atexit
+libpthread.so.0
+pthread_mutexattr_settype
+pthread_mutexattr_init
+pthread_cancel
+pthread_mutexattr_destroy
+_edata
+__bss_start
+_end
+GLIBC_2.2.5
+GLIBC_2.4
+GLIBC_2.3
+GLIBC_2.14
+GLIBC_2.3.4
+%zo 
+%ro 
+%jo 
+%bo 
+%Zo 
+%Ro 
+%Jo 
+%Bo 
+%:o 
+%2o 
+%*o 
+%"o 
+%zn 
+%rn 
+%jn 
+%bn 
+%Zn 
+%Rn 
+%Jn 
+%Bn 
+%:n 
+%2n 
+%*n 
+%"n 
+%zm 
+%rm 
+%jm 
+%bm 
+%Zm 
+%Rm 
+%Jm 
+%Bm 
+%:m 
+%2m 
+%*m 
+%"m 
+AWAVE1
+AUATA
+=q} 
+Degas are we not drawn onward no In union drawn onward to new eras aged
+H9L$8
+%x| 
+_t"I
+.<1w
+d$(H
+d$(1
+D$8H
+D$(1
+Beeb
+D$PgW@
+H= i@
+\$hH
+\$(H
+D$XH
+l$8I
+t$PH
+a L9
+D$XH
+D$@H
+D$8H
+|$0L
+T$0H
+D$8H
+t$ E1
+=}u 
+=Gq 
+L$ H
+5-t 
+t$ H
+D$8H
+UH-P
+=Yq 
+ATUI
+<+:t
+t&H)
+[]A\
+5#p 
+AUATUSH
+[]A\A]
+[]A\A]1
+AVAUATUSH
+--f 
+D$h1
+%uj 
+L$hdH3
+p[]A\A]A^
+t$8H
+\$ I
+D$ _U@
+d$PH
+D$HH
+AUATUS
+D$X1
+=Rg 
+L$XdH3
+h[]A\A]
+%!g 
+D$8NU@
+D$HH
+%je 
+AUAT
+D$H1
+D$(H
+D$08V@
+$u&H
+\$HdH3
+X[]A\A]
+ATUSH
+D$H1
+L$HdH3
+P[]A\
+D$0H
+D$0H
+=}^ 
+AWAVAUATE1
+6D:&u
+[A\A]A^A_]
+AWAVAUATSH
+/locale.
+alia
+=>Z 
+[A\A]A^A_]
+=dX 
+-8X 
+5'X 
+=(X 
+AWAV
+AUATUSH
+=kW 
+-nW 
+5jW 
+[]A\A]A^A_
+5aV 
+AWAVA
+AUATL
+[]A\A]A^A_
+8bit
+LC_ALL
+UTF-8
+Content-Type
+charset=
+text/plain; charset=%s
+Usage: %s [OPTION]
+Input file location:
+Output file location:
+Input file syntax:
+Output details:
+Informative output:
+Language %s
+/usr/lib/gettext
+common
+GETTEXTCLDRDIR
+GETTEXTLIBDIR
+cldr-plurals
+supplemental
+plurals.xml
+/dev/null
+fdopen() failed
+%s subprocess I/O error
+none
+/bin/sh
+/usr/share/gettext/projects
+%s %s
+PACKAGE VERSION
+Project-Id-Version
+project-id
+EMAIL@ADDRESS
+Automatically generated
+USER
+getpwnam("%s")
+getpwuid(%ju)
+/usr/lib/gettext/user-email
+%s <%s>
+POT-Creation-Date
+PACKAGE
+/usr/share/locale
+gettext-tools
+bison-runtime
+hi:l:o:pPVw:
+0.19.7
+%s (GNU %s) %s
+2001-2010
+Bruno Haible
+Written by %s.
+too many arguments
+.pot
+LC_MESSAGES
+%s.po
+SOME DESCRIPTIVE TITLE
+LANGUAGE
+OUTPUT_CHARSET
+FIRST AUTHOR <EMAIL@ADDRESS>
+YEAR
+Created %s.
+msginit.c
+ace_ID
+af_ZA
+ak_GH
+am_ET
+an_ES
+ang_GB
+arn_CL
+as_IN
+ast_ES
+av_RU
+awa_IN
+az_AZ
+ban_ID
+be_BY
+bej_SD
+bem_ZM
+bg_BG
+bho_IN
+bik_PH
+bin_NG
+bm_ML
+bn_IN
+bo_CN
+br_FR
+bs_BA
+bug_ID
+ca_ES
+ce_RU
+ceb_PH
+co_FR
+cr_CA
+cs_CZ
+csb_PL
+cy_GB
+da_DK
+de_DE
+din_SD
+doi_IN
+dsb_DE
+dv_MV
+dz_BT
+ee_GH
+el_GR
+es_ES
+et_EE
+fa_IR
+fi_FI
+fil_PH
+fj_FJ
+fo_FO
+fon_BJ
+fr_FR
+fur_IT
+fy_NL
+ga_IE
+gd_GB
+gon_IN
+gsw_CH
+gu_IN
+he_IL
+hi_IN
+hil_PH
+hr_HR
+hsb_DE
+ht_HT
+hu_HU
+hy_AM
+id_ID
+ig_NG
+ii_CN
+ilo_PH
+is_IS
+it_IT
+ja_JP
+jab_NG
+jv_ID
+ka_GE
+kab_DZ
+kaj_NG
+kam_KE
+kmb_AO
+kcg_NG
+kdm_NG
+kg_CD
+kk_KZ
+kl_GL
+km_KH
+kn_IN
+ko_KR
+kok_IN
+kr_NG
+kru_IN
+lg_UG
+li_BE
+lo_LA
+lt_LT
+lu_CD
+lua_CD
+luo_KE
+lv_LV
+mad_ID
+mag_IN
+mai_IN
+mak_ID
+man_ML
+men_SL
+mg_MG
+mi_NZ
+min_ID
+mk_MK
+ml_IN
+mn_MN
+mni_IN
+mos_BF
+mr_IN
+ms_MY
+mt_MT
+mwr_IN
+my_MM
+na_NR
+nah_MX
+nap_IT
+nb_NO
+nds_DE
+ne_NP
+nl_NL
+nn_NO
+no_NO
+nr_ZA
+nso_ZA
+nym_TZ
+nyn_UG
+oc_FR
+oj_CA
+or_IN
+pa_IN
+pag_PH
+pam_PH
+pap_AN
+pbb_CO
+pl_PL
+ps_AF
+pt_PT
+raj_IN
+rm_CH
+rn_BI
+ro_RO
+ru_RU
+sa_IN
+sah_RU
+sas_ID
+sat_IN
+sc_IT
+scn_IT
+sg_CF
+shn_MM
+si_LK
+sid_ET
+sk_SK
+sl_SI
+smn_FI
+sms_FI
+so_SO
+sq_AL
+sr_RS
+srr_SN
+suk_TZ
+sus_GN
+sv_SE
+te_IN
+tem_SL
+tet_ID
+tg_TJ
+th_TH
+tiv_NG
+tk_TM
+tl_PH
+to_TO
+tr_TR
+tum_MW
+ug_CN
+uk_UA
+umb_AO
+ur_PK
+uz_UZ
+ve_ZA
+vi_VN
+wa_BE
+wal_ET
+war_PH
+wen_DE
+yao_MW
+zap_MX
+Eleele
+PO-Revision-Date
+Last-Translator
+Language-Team
+Language
+MIME-Version
+Content-Transfer-Encoding
+Plural-Forms
+color
+help
+no-translator
+no-wrap
+output-file
+properties-input
+properties-output
+stringtable-input
+stringtable-output
+style
+version
+width
+Try '%s --help' for more information.
+Creates a new PO file, initializing the meta information with values from the
+user's environment.
+Mandatory arguments to long options are mandatory for short options too.
+  -i, --input=INPUTFILE       input POT file
+If no input file is given, the current directory is searched for the POT file.
+If it is -, standard input is read.
+  -o, --output-file=FILE      write output to specified PO file
+If no output file is given, it depends on the --locale option or the user's
+locale setting.  If it is -, the results are written to standard output.
+  -P, --properties-input      input file is in Java .properties syntax
+      --stringtable-input     input file is in NeXTstep/GNUstep .strings syntax
+  -l, --locale=LL_CC          set target locale
+      --no-translator         assume the PO file is automatically generated
+      --color                 use colors and other text attributes always
+      --color=WHEN            use colors and other text attributes if WHEN.
+Borrow or rob
+                              WHEN may be 'always', 'never', 'auto', or 'html'.
+      --style=STYLEFILE       specify CSS style rule file for --color
+  -p, --properties-output     write out a Java .properties file
+      --stringtable-output    write out a NeXTstep/GNUstep .strings file
+  -w, --width=NUMBER          set output page width
+      --no-wrap               do not break long message lines, longer than
+                              the output page width, into several lines
+  -h, --help                  display this help and exit
+  -V, --version               output version information and exit
+Report bugs to <bug-gnu-gettext@gnu.org>.
+%s subprocess failed with exit code %d
+/usr/share/gettext/projects/team-address
+The new message catalog should contain your email address, so that users can
+give you feedback about the translations, and so that maintainers can contact
+you in case of unexpected technical problems.
+at most one input file allowed
+Copyright (C) %s Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Found no .pot file in the current directory.
+Please specify the input .pot file through the --input option.
+Found more than one .pot file.
+Please specify the input .pot file through the --input option.
+error reading current directory
+You are in a language indifferent environment.  Please set
+your LANG environment variable, as described in the ABOUT-NLS
+file.  This is necessary so you can test your translations.
+Output file %s already exists.
+Please specify the locale through the --locale option or
+the output .po file through the --output-file option.
+%s translations for %%s package
+English translations for %s package
+de_AT
+Austrian
+en_GB
+English (British)
+es_AR
+Argentinian
+es_IC
+Spanish (Canary Islands)
+pt_BR
+Brazilian Portuguese
+zh_CN
+Chinese (simplified)
+zh_HK
+Chinese (Hong Kong)
+zh_TW
+Chinese (traditional)
+Afar
+Abkhazian
+Achinese
+Avestan
+Afrikaans
+Akan
+Amharic
+Aragonese
+Old English
+Arabic
+Mapudungun
+Assamese
+Asturian
+Avaric
+Awadhi
+Aymara
+Azerbaijani
+Bashkir
+Baluchi
+Balinese
+Belarusian
+Beja
+Bemba
+Bulgarian
+Bihari
+Bhojpuri
+Bislama
+Bikol
+Bini
+Bambara
+Bengali
+Tibetan
+Breton
+Bosnian
+Buginese
+Catalan
+Chechen
+Cebuano
+Chamorro
+Corsican
+Cree
+Crimean Tatar
+Czech
+Kashubian
+Church Slavic
+Chuvash
+Welsh
+Danish
+Dinka
+Dogri
+Lower Sorbian
+Divehi
+Dzongkha
+Greek
+Esperanto
+Spanish
+Estonian
+Basque
+Persian
+Fulah
+Finnish
+Filipino
+Fijian
+Faroese
+French
+Friulian
+Western Frisian
+Irish
+Scottish Gaelic
+Galician
+Guarani
+Gondi
+Swiss German
+Gujarati
+Manx
+Hausa
+Hebrew
+Hindi
+Hiligaynon
+Hmong
+Hiri Motu
+Croatian
+Upper Sorbian
+Haitian
+Hungarian
+Armenian
+Herero
+Interlingua
+Indonesian
+Interlingue
+Igbo
+Sichuan Yi
+Inupiak
+Iloko
+Icelandic
+Italian
+Inuktitut
+Japanese
+Hyam
+Javanese
+Georgian
+Kabyle
+Kamba
+Kabardian
+Tyap
+Kagoma
+Kongo
+Kikuyu
+Kuanyama
+Kazakh
+Kalaallisut
+Central Khmer
+Kimbundu
+Kannada
+Korean
+Kanuri
+Kurukh
+Kashmiri
+Kurdish
+Komi
+Cornish
+Kirghiz
+Konkani
+Latin
+Letzeburgesch
+Ganda
+Limburgish
+Lingala
+Laotian
+Lithuanian
+Luba-Katanga
+Luba-Lulua
+Latvian
+Madurese
+Magahi
+Maithili
+Makasar
+Mandingo
+Mende
+Malagasy
+Marshallese
+Maori
+Minangkabau
+Macedonian
+Malayalam
+Mongolian
+Manipuri
+Moldavian
+Mohawk
+Mossi
+Marathi
+Malay
+Maltese
+Marwari
+Burmese
+Mayan
+Nauru
+Neapolitan
+Nahuatl
+Norwegian Bokmal
+North Ndebele
+Low Saxon
+Nepali
+Ndonga
+Dutch
+Norwegian Nynorsk
+Norwegian
+South Ndebele
+Northern Sotho
+Navajo
+Nyanja
+Nyamwezi
+Nyankole
+Occitan
+Ojibwa
+(Afan) Oromo
+Oriya
+Ossetian
+Punjabi
+Pangasinan
+Pampanga
+Papiamento
+Pali
+Polish
+Pashto
+Quechua
+Rajasthani
+Romansh
+Kirundi
+Romanian
+Russian
+Kinyarwanda
+Sanskrit
+Yakut
+Sasak
+Santali
+Sardinian
+Sicilian
+Sindhi
+Northern Sami
+Sango
+Shan
+Sinhala
+Sidamo
+Slovak
+Slovenian
+Samoan
+Southern Sami
+Lule Sami
+Inari Sami
+alula
+Skolt Sami
+Shona
+Somali
+Albanian
+Serbian
+Serer
+Siswati
+Sesotho
+Sundanese
+Sukuma
+Susu
+Swedish
+Swahili
+Tamil
+Telugu
+Timne
+Tetum
+Tajik
+Thai
+Tigrinya
+Turkmen
+Tagalog
+Setswana
+Tonga
+Turkish
+Tsonga
+Do nine men interpret Nine men I nod
+Tumbuka
+Tahitian
+Uighur
+Ukrainian
+Umbundu
+Urdu
+Uzbek
+Venda
+Vietnamese
+A Santa lives evil at NASA
+Volapuk
+Walamo
+Waray
+Wolof
+Xhosa
+Yiddish
+Yoruba
+Zhuang
+Chinese
+Zulu
+Zapotec
+;*3$"
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss

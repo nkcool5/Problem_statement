@@ -1,0 +1,1671 @@
+/lib64/ld-linux-x86-64.so.2
+n&+t1
+$,Xe
+BaT(
+C+G~*h
+~U;!
+eEb[S?
+;gBE
+4`u:
+r`]o
+Plm]
+qQEQfVD@1
+~/ vU
+OdCq
+VowB
+`:O{
+^[Y7z
+vBK(
++,2@
+OgIo
+*65 
+*lho
+;wA$
+libpoppler.so.58
+FT_New_Memory_Face
+cmsOpenProfileFromMem
+FT_Init_FreeType
+FT_Library_Version
+FT_Get_Name_Index
+_Jv_RegisterClasses
+cmsCloseProfile
+cmsCreate_sRGBProfile
+_ITM_deregisterTMCloneTable
+FT_New_Face
+FT_Done_Face
+__gmon_start__
+_ITM_registerTMCloneTable
+_ZN6PDFDoc11getNumPagesEv
+_ZN9OutputDev15updateWordSpaceEP8GfxState
+gmallocn
+_ZN11ImageStream8getPixelEPh
+_ZN9OutputDev18beginMarkedContentEPcP4Dict
+_ZN9OutputDev15updateTextShiftEP8GfxStated
+greallocn
+_ZN9OutputDev9psXObjectEP6StreamS1_
+_ZN10JpegWriterC1ENS_6FormatE
+gatof
+gmalloc
+_ZN7GfxPath6moveToEdd
+_ZN10GfxFontLocD1Ev
+_ZN9OutputDev18updateTextKnockoutEP8GfxState
+_ZN9GooString6appendEPKci
+_ZN9OutputDev9markPointEPc
+_ZN9OutputDev12incCharCountEi
+_ZN12GlobalParams13getUnicodeMapEP9GooString
+_ZN11ImageStreamD1Ev
+_ZN9OutputDev21updateStrokeOverprintEP8GfxState
+_ZN7GfxFont16getAlternateNameEPKc
+_ZN12GlobalParamsC1EPKc
+_ZN9OutputDev13beginStringOpEP8GfxState
+_ZN7GfxPath6lineToEdd
+_ZN16GfxImageColorMap6getRGBEPhP6GfxRGB
+_ZN12PopplerCacheC1Ei
+_ZN13PDFDocFactoryD1Ev
+_ZN9OutputDev14updateTransferEP8GfxState
+_ZN9OutputDev14checkPageSliceEP4PageddibbiiiibPFbPvES2_PFbP5AnnotS2_ES2_
+_ZN9OutputDev22checkTransparencyGroupEP8GfxStateb
+_ZN9OutputDev20updatePatternOpacityEP8GfxState
+_ZN9OutputDev19updateFillOverprintEP8GfxState
+_ZN11JBIG2Stream16getGlobalsStreamEv
+_ZN9OutputDev8drawFormE3Ref
+_ZN9OutputDev8opiBeginEP8GfxStateP4Dict
+gmallocn3
+_ZN9OutputDev14restoreTextPosEP8GfxState
+_ZN6Object4freeEv
+_ZN9OutputDev11endStringOpEP8GfxState
+_ZN3Gfx7displayEP6Objectb
+_ZN9GooStringC1EPKS_
+_ZN8TextPage9incRefCntEv
+_ZN11ImageStream7getLineEv
+gfree
+_ZN9OutputDev18updateStrokeAdjustEP8GfxState
+_ZN13GfxColorSpace5parseEP12GfxResourcesP6ObjectP9OutputDevP8GfxStatei
+_ZN9OutputDev4dumpEv
+_ZN9OutputDev18setVectorAntialiasEb
+_ZN9OutputDev20updateFillColorSpaceEP8GfxState
+_ZN10FoFiType1C14getCIDToGIDMapEPi
+_ZN25GfxGouraudTriangleShading11getTriangleEiPdS0_S0_S0_S0_S0_S0_S0_S0_
+_ZNK9GooString3cmpEPKc
+_ZN6Object8memCheckEP8_IO_FILE
+_ZTI9OutputDev
+_ZN6PDFDoc16displayPageSliceEP9OutputDeviddibbbiiiiPFbPvES2_PFbP5AnnotS2_ES2_b
+_ZN9GooStringC1EPKci
+_ZTV9OutputDev
+_ZN10FoFiType1C4makeEPci
+_fini
+_ZN10ActualText5beginEP8GfxStateP9GooString
+_ZN9OutputDev16endMarkedContentEP8GfxState
+_ZN7GfxFont10locateFontEP4XRefP11PSOutputDev
+_ZN9OutputDev11processLinkEP9AnnotLink
+_ZN7GfxPathD1Ev
+_ZN9OutputDev11needNonTextEv
+_ZN9PNGWriter14setSRGBProfileEv
+_ZN3GfxC1EP6PDFDocP9OutputDevP4DictP12PDFRectangleS7_PFbPvES8_P4XRef
+_ZN10GfxCIDFont15getCodeToGIDMapEP12FoFiTrueTypePi
+_ZN7GfxFont9incRefCntEv
+_ZN11JBIG2Stream19getGlobalsStreamRefEv
+_ZN9PNGWriterC1ENS_6FormatE
+_ZN9OutputDev10updateRiseEP8GfxState
+_ZN11Gfx8BitFont12getCharProcsEv
+_ZN9OutputDev11saveTextPosEP8GfxState
+_ZN12GlobalParams15getStrokeAdjustEv
+_ZN4Dict6getKeyEi
+_ZN8GfxState15getUserClipBBoxEPdS0_S0_S0_
+grealloc
+_ZN10ActualTextD1Ev
+_ZN9GooStringD1Ev
+_ZN9OutputDev6opiEndEP8GfxStateP4Dict
+_ZN13PDFDocFactoryC1EP7GooList
+_ZN13GfxColorSpace17setDisplayProfileEPv
+_ZN9OutputDev13needCharCountEv
+_ZN9OutputDev13updateTextMatEP8GfxState
+_ZN7GfxPathC1EbddPP10GfxSubpathii
+_ZN13PDFDocFactory12createPDFDocERK9GooStringPS0_S3_Pv
+_ZN4Dict6lookupEPKcP6Objecti
+_ZN10FoFiType1C4loadEPc
+_ZN9OutputDev13setDefaultCTMEPd
+_ZN16GfxImageColorMap11getGrayLineEPhS0_i
+_ZN8TextPage9startPageEP8GfxState
+_ZN9OutputDev12cvtDevToUserEddPdS0_
+_ZN9OutputDev12cvtUserToDevEddPiS0_
+_ZN10ActualText7addCharEP8GfxStateddddjiPji
+_ZN8TextPage9decRefCntEv
+_ZN4Dict6getValEiP6Object
+_ZN8TextPage7endPageEv
+_ZN9OutputDev10endProfileEv
+_ZN6PDFDocD1Ev
+_ZN9OutputDev12startProfileEv
+_ZN9OutputDev18updateHorizScalingEP8GfxState
+_ZN10ActualText3endEP8GfxState
+_ZN25GfxGouraudTriangleShading11getTriangleEiPdS0_P8GfxColorS0_S0_S2_S0_S0_S2_
+_ZN12GlobalParams11setErrQuietEb
+_ZN9OutputDev19clearPatternOpacityEP8GfxState
+_ZN9GooStringC1EPKc
+_Z5error13ErrorCategoryxPKcz
+_ZN10ActualTextC1EP8TextPage
+_ZN16GfxImageColorMap10getRGBLineEPhPji
+_ZN9OutputDev11useDrawFormEv
+_ZN9OutputDev18getVectorAntialiasEv
+_ZN11ImageStreamC1EP6Streamiii
+_ZN9OutputDev15updateCharSpaceEP8GfxState
+_ZNK9GooString4cmpNEPKci
+_ZN9OutputDev13updateTextPosEP8GfxState
+copyString
+_ZN11ImageStream5resetEv
+_ZN9OutputDev14getProfileHashEv
+_ZN12FoFiTrueType4loadEPci
+_ZN10UnicodeMap10mapUnicodeEjPci
+_ZN9GooString7appendfEPKcz
+_ZN9GooStringC1Ev
+_ZN8GfxState9clearPathEv
+_ZN7GfxPath5closeEv
+_ZN9OutputDev10drawStringEP8GfxStateP9GooString
+_ZN11ImageStream5closeEv
+_ZN11Gfx8BitFont15getCodeToGIDMapEP12FoFiTrueType
+_ZN12FoFiTrueType4makeEPcii
+_ZN9OutputDev22updateStrokeColorSpaceEP8GfxState
+_ZN9GooString3SetEPKciS1_i
+_ZN12GlobalParamsD1Ev
+_ZN9OutputDev9markPointEPcP4Dict
+_ZN8TextPage10updateFontEP8GfxState
+_ZN3GfxD1Ev
+_ZN18GfxFunctionShading8getColorEddP8GfxColor
+_ZN19GfxPatchMeshShading21getParameterizedColorEdP8GfxColor
+_ZN10TiffWriter20setCompressionStringEPKc
+_ZN9OutputDev18updateAlphaIsShapeEP8GfxState
+_ZN9OutputDev12updateRenderEP8GfxState
+_ZN25GfxGouraudTriangleShading21getParameterizedColorEdP8GfxColor
+_ZN11Gfx8BitFont12getResourcesEv
+_ZN8TextPage8coalesceEbdb
+_ZN12FoFiTrueType14getCIDToGIDMapEPi
+_ZN12PopplerCacheD1Ev
+_ZN7GfxFont9decRefCntEv
+_ZN9OutputDev19updateOverprintModeEP8GfxState
+_ZN10TiffWriterC1ENS_6FormatE
+_ZN7GfxFont15readEmbFontFileEP4XRefPi
+_ZN9PNGWriter13setICCProfileEPKcPhi
+globalParams
+_ZN6PDFDoc7getPageEi
+libfreetype.so.6
+libcairo.so.2
+cairo_surface_set_fallback_resolution
+cairo_destroy
+cairo_set_matrix
+cairo_glyph_path
+cairo_mesh_pattern_move_to
+cairo_ps_surface_dsc_comment
+cairo_curve_to
+cairo_surface_create_similar
+cairo_pattern_add_color_stop_rgba
+cairo_status_to_string
+cairo_mesh_pattern_begin_patch
+cairo_surface_set_mime_data
+cairo_matrix_init
+cairo_mask
+cairo_scaled_font_text_extents
+cairo_font_options_create
+cairo_ps_surface_restrict_to_level
+cairo_font_face_set_user_data
+cairo_mesh_pattern_end_patch
+cairo_set_font_face
+cairo_matrix_multiply
+cairo_get_dash_count
+cairo_mesh_pattern_set_control_point
+cairo_image_surface_get_data
+cairo_ps_surface_dsc_begin_page_setup
+cairo_pattern_get_type
+cairo_surface_destroy
+cairo_pattern_create_for_surface
+cairo_push_group_with_content
+cairo_font_face_get_user_data
+cairo_matrix_init_identity
+cairo_pattern_set_extend
+cairo_surface_finish
+cairo_set_miter_limit
+cairo_pop_group
+cairo_user_to_device
+cairo_copy_path
+cairo_matrix_scale
+cairo_pattern_create_mesh
+cairo_matrix_translate
+cairo_set_source
+cairo_image_surface_get_height
+cairo_line_to
+cairo_pattern_set_matrix
+cairo_device_to_user
+cairo_get_group_target
+cairo_paint_with_alpha
+cairo_font_face_reference
+cairo_get_target
+cairo_user_font_face_create
+Beeb
+cairo_pattern_destroy
+cairo_pattern_create_rgba
+cairo_pattern_create_linear
+cairo_user_font_face_set_init_func
+cairo_ft_font_face_create_for_ft_face
+cairo_mesh_pattern_set_corner_color_rgb
+cairo_pdf_surface_set_size
+cairo_image_surface_create
+cairo_ps_surface_create_for_stream
+cairo_pattern_get_matrix
+cairo_device_to_user_distance
+cairo_surface_mark_dirty
+cairo_mesh_pattern_curve_to
+cairo_rectangle
+cairo_scaled_font_destroy
+cairo_reference
+cairo_set_line_join
+cairo_scale
+cairo_image_surface_get_width
+cairo_font_options_destroy
+cairo_translate
+cairo_append_path
+cairo_surface_reference
+cairo_ps_surface_dsc_begin_setup
+cairo_paint
+cairo_ps_surface_set_eps
+cairo_pattern_status
+cairo_clip_extents
+cairo_create
+cairo_new_path
+cairo_pattern_create_radial
+cairo_ps_surface_set_size
+cairo_path_destroy
+cairo_get_line_join
+cairo_scaled_font_get_font_face
+cairo_matrix_transform_point
+cairo_get_dash
+cairo_image_surface_get_stride
+cairo_matrix_transform_distance
+cairo_surface_has_show_text_glyphs
+cairo_close_path
+cairo_stroke
+cairo_pattern_create_rgb
+cairo_pattern_set_filter
+cairo_restore
+cairo_matrix_init_translate
+cairo_set_font_matrix
+cairo_clip
+cairo_user_font_face_set_render_glyph_func
+cairo_font_options_set_hint_metrics
+cairo_surface_flush
+Tacocat
+cairo_matrix_init_scale
+cairo_mesh_pattern_line_to
+cairo_show_glyphs
+cairo_svg_surface_create_for_stream
+cairo_get_miter_limit
+cairo_font_options_set_hint_style
+cairo_set_line_cap
+cairo_scaled_font_create
+cairo_set_source_rgb
+cairo_set_dash
+cairo_get_matrix
+cairo_pattern_get_surface
+cairo_get_line_width
+cairo_get_line_cap
+cairo_fill
+cairo_surface_set_device_offset
+cairo_set_fill_rule
+cairo_show_text_glyphs
+cairo_push_group
+cairo_svg_surface_restrict_to_version
+cairo_surface_get_device_offset
+cairo_pdf_surface_create_for_stream
+cairo_set_operator
+cairo_move_to
+cairo_user_to_device_distance
+cairo_matrix_invert
+cairo_font_face_destroy
+cairo_save
+cairo_surface_show_page
+cairo_pattern_reference
+cairo_set_line_width
+cairo_status
+cairo_surface_status
+cairo_transform
+cairo_pop_group_to_source
+liblcms2.so.2
+cmsGetHeaderProfileID
+libpthread.so.0
+pthread_mutex_destroy
+pthread_mutex_init
+pthread_mutexattr_settype
+pthread_mutex_lock
+pthread_mutexattr_init
+pthread_mutexattr_destroy
+pthread_mutex_unlock
+libstdc++.so.6
+_ZTVN10__cxxabiv117__class_type_infoE
+_ZTVN10__cxxabiv120__si_class_type_infoE
+__cxa_pure_virtual
+_ZdlPv
+_Znwm
+libm.so.6
+floor
+ceilf
+sqrt
+ceil
+floorf
+libc.so.6
+fflush
+__printf_chk
+fopen
+strrchr
+ftell
+strncpy
+__stack_chk_fail
+abort
+__assert_fail
+strtol
+mmap
+strlen
+__cxa_atexit
+memset
+fseek
+memcmp
+__fprintf_chk
+stdout
+fputc
+memcpy
+fclose
+strcasecmp
+stderr
+munmap
+__snprintf_chk
+__fxstat
+fwrite
+fread
+strcmp
+__libc_start_main
+_edata
+__bss_start
+_end
+GLIBCXX_3.4
+CXXABI_1.3
+GLIBC_2.2.5
+GLIBC_2.4
+GLIBC_2.14
+GLIBC_2.3.4
+5*A!
+%,A!
+%*A!
+%*A!
+%*A!
+%*A!
+%*A!
+%*A!
+%*A!
+%2A!
+%:A!
+%:A!
+%:A!
+%:A!
+%:A!
+%:A!
+%:A!
+%:A!
+%:A!
+%:A!
+%:A!
+%:A!
+%:A!
+%:A!
+%:A!
+%:A!
+A Santa lives evil at NASA
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%BA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+%JA!
+AWAVAUATUSH
+|$lH
+t$lH
+=I?!
+=;?!
+=s?!
+=e?!
+=W?!
+=I?!
+=;?!
+=L?!
+=B?!
+=`>!
+=b>!
+=?>!
+=$>!
+=	>!
+=3<!
+|$@L
+=.=!
+|$@H
+=	=!
+=t<!
+=e<!
+\$0H
+\$0H
+=|9!
+L$PH
+T$HE1
+t$@L
+t	A9
+=b:!
+=>9!
+= :!
+= 8!
+=D7!
+D$pf
+D$x9
+=M6!
+D$pf
+.D$x
+=$6!
+=d7!
+d$(f
+.d$ 
+=s5!
+D$hf
+={3!
+=03!
+=#3!
+=I4!
+=<4!
+=l3!
+=_2!
+t$0H
+|$0H
+=m2!
+t$xH
+L$ 1
+=B0!
+=/0!
+D$pf
+\$@H
+\$XH
+\$0H
+\$HH
+\$PH
+D$`H
+[]A\A]A^A_
+=}-!
+=p-!
+L$xL
+=l.!
+=K.!
+==.!
+=/.!
+= .!
+|$0H
+D$`1
+=P,!
+=W+!
+=D+!
+=8+!
+=%+!
+5z+!
+t$XH
+|$@H
+|$@H
+5Q)!
+\$0H
+\$0H
+D$0H
+D$0H
+D$`H
+\$0H
+\$0H
+=H'!
+=K%!
+5~$!
+5|#!
+=M#!
+57#!
+UH-0
+AUATI
+-8#!
+[]A\A]
+AWAVAUATI
+D$H1
+=G!!
+=6!!
+=*!!
+D$HdH3
+X[]A\A]A^A_
+l$0H
+D$(Ic
+D9t$
+D$(1
+D$(dH3
+ATUI
+[]A\
+t!SH
+PhuGH
+ATUH
+D$81
+D$8dH3
+@[]A\
+ATUSH
+[]A\
+ATUSH
+D$(1
+D$(dH3
+0[]A\
+d$ u?H
+T$ H
+L$ f
+d$ H
+D$ L
+L$ f
+L$ f
+D$x1
+D$ H
+L$(H
+D$(H
+D$xdH3
+ATUH
+D$81
+T$8dH3
+@[]A\
+AVAUI
+ATUH
+T$HH
+t$@L
+|$8f
+*T$x
+*L$t
+*D$p
+*T$x
+*L$t
+*D$p
+*T$x
+*L$t
+*D$p
+*T$x
+*L$t
+*D$p
+|$0f
+D$hH
+L$`H
+T$XH
+t$PL
+L$XI
+L$hI
+L$hI
+L$XI
+HcP H
+[]A\A]A^
+ATUH
+d$(dH
+t$Hf
+t$8f
+[]A\
+AUATUSH
+[]A\A]
+AWAVI
+AUATA
+D$h1
+L$4H
+t~Ic
+d$8I
+L$4A
+T$ I
+D$hdH3
+x[]A\A]A^A_
+t$@H
+L9t$
+tXSH
+tIUSH
+AVAUI
+]A\A]A^
+AUATI
+God A red nugget A fat egg under a dog
+D$81
+E@tB
+D$8dH3
+H[]A\A]
+AUATH
+u	D9
+[]A\A]
+[]A\A]
+AUATH
+u	D9
+[]A\A]
+[]A\A]
+ATUH
+D$h1
+l$(H
+D$8H
+D$@H
+D$HH
+D$ H
+D$PH
+D$(H
+D$hdH3
+p[]A\
+AWAVI
+AUATI
+|$hH
+D$`H
+T$@I
+D$XH
+D$PH
+D$(H
+D$xH
+D$ H
+D$pH
+D$8H
+D$0H
+D$Hf
+t$XL
+L$XL
+L$PH
+|$hL
+D$`H
+L$XH
+T$PL
+HcP H
+[]A\A]A^A_
+t$XL
+L$XL
+D$8H
+L$PH
+D$`H
+D$XH
+AWAVI
+AUATUSH
+D$@L
+d$PH
+,BE1
+*T$H
+*L$D
+*D$@
+D$@H
+L$8H
+T$0H
+t$(H
+L$0H
+L$@H
+L$@H
+L$0H
+HcP H
+[]A\A]A^A_
+AUATI
+~<E1
+[]A\A]
+ATUH
+[]A\
+[]A\
+AWAVI
+AUATLc
+D$81
+T$ H
+tsE1
+D$8dH3
+H[]A\A]A^A_
+T$0H
+Borrow or rob
+t$(H
+D$(A
+\D$ f
+T$0H
+t$(D
+\D$ f
+AWAVI
+AUATUSH
+D$81
+D$0A
+L$0H
+l$0A
+A;G 
+D$8dH3
+H[]A\A]A^A_
+L$0H
+l$0I
+d$(I
+AWAV
+AUATI
+T$ H
+T$hH
+t$`H
+t$pH
+t$(t51
+[]A\A]A^A_
+|$0H
+t$8H
+|$0H
+D$(L
+L$PH
+T$HL
+D$XH
+t$@L
+L$HH
+AWAVI
+AUATM
+[]A\A]A^A_
+L$`H
+D$pH
+l$hI
+L$XI
+D$ I
+T$ H
+\$XL
+T$`I
+D$hH
+L$pH
+T$ H
+l$hf
+T$`f
+Xl$x1
+D$@f
+D$xH
+$tKE
+9D$ 
+\$8H
+T$@H
+t$xH
+AUATM
+D$81
+T$0H
+t$(H
+T$01
+D$8dH3
+H[]A\A]
+T$(H
+Degas are we not drawn onward no In union drawn onward to new eras aged
+t$0H
+AVAUATUS
+D$H1
+L$HdH3
+P[]A\A]A^
+AWAVAUATUSH
+L$0H
+D$8D
+D$ dH
+[]A\A]A^A_
+T$ L
+t$0I
+|$8E
+\$(D
+D9d$
+T$<L
+|$@f
+*D$8
+|$pf
+AWAVE
+AUATI
+L$ H
+t$(D
+D$$dH
+D$h1
+D$hdH3
+x[]A\A]A^A_
+$$D9|$ u
+T$$L
+d$ f
+l$0f
+D$(H
+AWAVAUATI
+L$tH
+XD$(
++D$Pf
+X|$0f
+T$ )
+t$8f
+*L$tf
+XD$(
+*D$ 
+XD$(
+D$0D
+\$0L
+D$`D
+d$`9
+t$01
+L$(L
+\$(E
+D$pA
+|$hA9
+D$d)
+D$pf
+~]LcD$LE1
+D$Xf
+t$LB
+D9\$
+|$@D
+t$pD
+L$LD
+t$pD
+D$xPVH
+D$|1
+T$pD
+D$dH
+|$XL
+t$xI
+*L$ 
+*D$P
+t$xI
+*L$ 
+*D$P
+\$@H
+[]A\A]A^A_
+XD$(
+Xl$0
+t$xf
+L$8L
+L$pD
+L$dH
+AWAVI
+AUATE
+D$X1
+t$ H
+8\$ 
+D$XdH3
+h[]A\A]A^A_
+t$ D
+.D$0
+.D$(
+YL$8f
+ATUSH
+T$0E
+t$(L
+ATUSH
+T$0E
+t$(L
+AWAVI
+AUATE
+D$h1
+@8l$
+d$PH
+d$`H
+D$hdH3
+x[]A\A]A^A_
+Do nine men interpret Nine men I nod
+T$(L
+.D$ z
+T$(L
+AWAVH
+AUATI
+[]A\A]A^A_
+]A\A]A^A_
+ATUI
+D$(1
+T$(dH3
+0[]A\
+T$ L
+T$ HcL$
+AWAVI
+AUATI
+D$H1
+D$HdH3
+X[]A\A]A^A_
+|$0D
+|$0L
+	toI
+L$$H
+T$(H
+	tWH
+T$(HcL$$L
+AWAVAUATUSH
+L$8H
+t$(H
+T$0H
+[]A\A]A^A_
+|$@D
+|$@L
+t$ H
+l$HE
+t$8L
+d$@I
+d$@L
+l$HH
+T$<L
+L$0M
+T$ H
+t$(H
+t$8f
+l$Pf
+AWAVAUATE
+t$(L
+T$0H
+D$8dH
+D$`H
+L$\L
+D$XD
+D$\A
+uxD;l$
+~q9t$
+9\$$A
+u=A9
+T$<L
+L$0H
+t$(M
+[]A\A]A^A_
+|$HL
+l$@f
+t$W1
+l$HE1
+d$WH
+ziugH
+AWAVA
+AUATM
+\$ H
+D$X1
+D$ f
+L$@f
+D$8f
+D$Hf
+D$XdH3
+h[]A\A]A^A_
+AWAVI
+AUATE
+\$XE1
+D$PH
+D$PPL
+L$PL
+\$`I
+T$XH
+D$XdH3
+h[]A\A]A^A_
+D$,L
+D$0P
+D$4PH
+L$0H
+t$(L
+AWAVI
+AUATE
+D$H1
+D$@PH
+D$@PL
+L$@L
+\$PI
+T$HH
+D$$L
+D$(PH
+L$(H
+D$HdH3
+X[]A\A]A^A_
+AWAVI
+AUATE
+\$XE1
+D$PD
+T$$H
+t$ H
+D$PPL
+L$PL
+\$`I
+T$XH
+D$XdH3
+h[]A\A]A^A_
+D$$A
+D$0P
+t$(H
+L$(H
+|$(L
+AWAVI
+AUATE
+D$`L
+T$(D
+\$4H
+t$0H
+|$ L
+t$hE1
+D$`PL
+L$`L
+\$pI
+T$hH
+D$hdH3
+x[]A\A]A^A_
+D$<L
+D$`P
+t$PH
+L$PH
+|$8L
+AWAVI
+AUATE
+D$`D
+T$0D
+\$4H
+t$$H
+|$(L
+t$hE1
+D$`PL
+L$`L
+\$pI
+T$hH
+D$hdH3
+x[]A\A]A^A_
+D$<L
+D$@P
+D$TP
+t$PH
+L$PH
+|$8L
+AUATA
+[]A\A]
+AVAUATUS~D
+[]A\A]A^A_
+AWAVAUHc
+ATUSH
+[]A\A]A^A_
+AWAVA
+AUATI
+D$HH
+D$ H
+t$$A9
+|$xM
+D$hH
+t$HH
+D$`H
+|$(H
+D$pH
+D$8L
+|$0L
+L$ L
+|$$L
+t$\L
+|$PL
+t$0A)
+L$ L
+|$$L
+t$\H
+|$0L
+|$HL
+L$ L
+l$PL
+\$XL
+d$pL
+L9l$(
+t$hH
+D$8H
+t$@H;D$`
+[]A\A]A^A_
+T$XA
+ATUH
+5:~ 
+[]A\
+AWAVLc
+AUATI
+T$@L
+|$8I
+\$0H
+L;u8u
+L;}(u
+H9] u
+dH34%(
+[]A\A]A^A_
+D$P1
+|$@H
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+Eleele
+D$PH
+D$XH
+5/{ 
+D$(t`H
+D$(H
+D$@t
+AWAVAUATI
+[]A\A]A^A_
+D$`L
+D$`L
+L$(L
+T$(H
+D$ A
+D$(u)L
+9w v
+AUATUSH
+D$x1
+D$xdH3
+[]A\A]
+T$@H
+AWAVI
+AUATUSH
+D$h1
+T$LH
+t$L1
+L$LH
+L$`L
+D$XL
+t$ D
+D$TH
+T$`H
+L$hdH3
+x[]A\A]A^A_
+t$L1
+L$LH
+L$`L
+D$XL
+|$XL
+|$XH
+L$LH
+L$`L
+D$XL
+%6k 
+L$LH
+L$`L
+D$XL
+t$LL
+L$LH
+L$`L
+D$XL
+t$L1
+T$PL
+D$8H
+HcT$PI
+t$TL
+HcT$PI
+%mh 
+%Ih 
+%+h 
+t$TL
+D$(P
+AWAVAUATI
+L$ H
+T$$A
+L$ H
+~1E1
+T$(M
+[]A\A]A^A_
+ATUH
+AWAVI
+AUATI
+D$81
+L$,L
+l$0H
+alula
+@tpO
+|$8dH3<%(
+H[]A\A]A^A_
+L$,L
+t$ H
+AUATUI
+[]A\A]A^
+	w"f
+AWAVAUATA
+|$(H
+t$ H
+}vIc
+D$(H
+8[]A\A]A^A_
+D$ )
+L$ A9
+AWAVA
+AUATL
+[]A\A]A^A_
+Error: %s may only be used with the -png, -jpeg, or -tiff output options.
+Error: %s may only be used with the -ps, -eps, -pdf, or -svg output options.
+Copyright 2005-2016 The Poppler Developers - http://poppler.freedesktop.org
+Copyright 1996-2011 Glyph & Cog, LLC
+Error: one of the output format options (-png, -jpeg, -ps, -eps, -pdf, -print, -printdlg, -svg) must be used.
+Error: use only one of the output format options (-png, -jpeg, -ps, -eps, -pdf, -printdlg, -print, -svg).
+Error: -transp may only be used with png or tiff output.
+Error: -mono and -gray may not be used together.
+Error: -mono may only be used with png or tiff output.
+Error: -tiffcompression may only be used with tiff output.
+Error: use only one of the 'level' options.
+Error: page size options may not be used with eps output.
+Error: both -paperw and -paperh must be specified.
+Error: -origpagesizes and -paper may not be used together.
+Error: stdout may only be used with the ps, eps, pdf, svg output options or if -singlefile is used.
+Error: an output filename or '-' must be supplied when the PDF file is stdin.
+Error: invalid output filename.
+Error: unable to open icc profile %s
+Error: unable to read icc profile %s
+Error: lcms error opening profile
+Wrong page range given: the first page (%d) can not be after the last page (%d).
+EPS files can only contain one page.
+Warning: Single file will write only the first of the %d pages.
+%%IncludeFeature: *Duplex DuplexNoTumble
+Error: -icc may only be used with png output.
+Error: an output filename or '-' must be supplied when the output format is PDF and input PDF file is a local file.
+set TIFF compression: none, packbits, jpeg, lzw, deflate
+generate Encapsulated PostScript (EPS)
+generate a Scalable Vector Graphics (SVG) file
+write only the first page and do not add digits
+resolution, in PPI (default is 150)
+X resolution, in PPI (default is 150)
+Y resolution, in PPI (default is 150)
+scales each page to fit within scale-to*scale-to pixel box
+scales each page horizontally to fit in scale-to-x pixels
+scales each page vertically to fit in scale-to-y pixels
+x-coordinate of the crop area top left corner
+y-coordinate of the crop area top left corner
+width of crop area in pixels (default is 0)
+height of crop area in pixels (default is 0)
+size of crop square in pixels (sets W and H)
+use the crop box rather than media box
+generate a monochrome image file (PNG, JPEG)
+generate a grayscale image file (PNG, JPEG)
+use a transparent background instead of white (PNG)
+generate Level 2 PostScript (PS, EPS)
+generate Level 3 PostScript (PS, EPS)
+conserve original page sizes (PS, PDF, SVG)
+paper size (letter, legal, A4, A3, match)
+expand pages smaller than the paper size
+don't shrink pages larger than the paper size
+don't center pages smaller than the paper size
+owner password (for encrypted files)
+user password (for encrypted files)
+don't print any messages or errors
+print copyright and version info
+Error opening output file %s
+Error writing %s
+fd://0
+pdftocairo
+0.41.0
+pdftocairo version %s
+<PDF-file> [<output-file>]
+-mono
+-gray
+-transp
+-icc
+-singlefile
+-cropbox
+-scale-to
+-scale-to-x
+-scale-to-y
+-level2
+-level3
+-origpagesizes
+-paper
+-paperw
+-paperh
+-nocrop
+-expand
+-noshrink
+-nocenter
+-duplex
+match
+letter
+legal
+http://
+https://
+.pdf
+.eps
+.svg
+Error opening PDF file.
+-%0*d
+.png
+.jpg
+.tif
+%%Requirements: duplex
+%%PageOrientation: Landscape
+%%PageOrientation: Portrait
+cairo error: {0:s}
+Invalid paper size
+-png
+generate a PNG file
+-jpeg
+generate a JPEG file
+-tiff
+generate a TIFF file
+-tiffcompression
+generate PostScript file
+-eps
+-pdf
+generate a PDF file
+-svg
+first page to print
+last page to print
+print only odd pages
+print only even pages
+ICC color profile to use
+paper width, in points
+paper height, in points
+don't crop pages to CropBox
+enable duplex printing
+-opw
+-upw
+print usage information
+--help
+void CairoOutputDev::drawImageMaskPrescaled(GfxState*, Object*, Stream*, int, int, GBool, GBool, GBool)
+void CairoOutputDev::setCairo(cairo_t*)
+font matrix not invertible
+matrix not invertible
+UTF-8
+{0:d}-{1:d}
+Bad image stream
+cairo context error: {0:s}
+CairoOutputDev.cc
+!cairo_shape
+BAD status: %s
+0 && "over run\n"
+%d %d %d
+0 && "bad access\n"
+n = %d (%d %d %d)
+n == 0
+image/jp2
+application/x-cairo.jbig2
+image/jpeg
+ColorSpace
+poppler-surface-
+application/x-cairo.uuid
+%d > %d (%d %d %d %d) (%d %d %d)
+application/x-cairo.jbig2-global-id
+Call to Object where the object was type {0:d}, not the expected type {1:d}
+application/x-cairo.jbig2-global
+14CairoOutputDev
+19CairoImageOutputDev
+16RescaleDrawImage
+CairoRescaleBox.cc
+width + start_column <= scaled_width
+virtual GBool CairoRescaleBox::downScaleImage(unsigned int, unsigned int, int, int, short unsigned int, short unsigned int, short unsigned int, short unsigned int, cairo_surface_t*)
+15CairoRescaleBox
+(unnamed)
+could not create type1 face
+failed to load truetype font
+could not create cid face
+font type %d not handled
+some font thing failed
+Couldn't find a font for '{0:s}'
+could not create truetype face
+could not create cid (OT) face
+9CairoFont
+17CairoFreeTypeFont
+14CairoType3Font
+? <int>
+ <fp>
+ <string>
+Usage: %s [options]
+  %s
+%-*s
+: %s
+Internal error in arg table
+;*3$"
+6e262b74310376c1ae68a0b0a211308cec6aa5.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.init
+.plt
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.data.rel.ro
+.dynamic
+.data
+.bss
+.gnu_debuglink

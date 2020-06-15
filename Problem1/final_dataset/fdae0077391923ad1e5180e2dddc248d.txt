@@ -1,0 +1,5841 @@
+/lib64/ld-linux-x86-64.so.2
+1Q,(2
+S-K0|F
+X;#:
+?'2b
+[@^i OG
+{T6*
+libreadline.so.6
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+rl_startup_hook
+rl_event_hook
+rl_cleanup_after_signal
+rl_echo_signal_char
+rl_completion_append_character
+rl_completion_matches
+rl_line_buffer
+rl_stuff_char
+history_list
+rl_prompt
+rl_set_keyboard_input_timeout
+rl_free_line_state
+rl_completer_word_break_characters
+rl_attempted_completion_over
+rl_display_match_list
+rl_attempted_completion_function
+rl_complete_with_tilde_expansion
+rl_completion_display_matches_hook
+rl_forced_update_display
+rl_insert_text
+add_history
+libnm.so.0
+g_value_set_int64
+g_slist_remove
+g_value_unset
+g_strdupv
+g_bytes_get_data
+g_value_get_boxed
+g_value_take_string
+g_key_file_get_keys
+g_hash_table_get_type
+g_intern_static_string
+g_slist_free
+g_strsplit_set
+g_value_dup_string
+g_hash_table_destroy
+g_str_hash
+g_dbus_error_strip_remote_error
+g_value_get_string
+g_variant_builder_add
+g_bytes_get_size
+g_ptr_array_new_with_free_func
+g_print
+g_key_file_get_string
+g_signal_emit
+g_variant_builder_init
+g_object_unref
+g_slist_reverse
+g_strcmp0
+g_bytes_new
+g_key_file_new
+g_strdup
+g_clear_error
+g_simple_async_result_get_type
+g_object_get_property
+g_key_file_set_string
+g_hash_table_insert
+g_list_free
+g_array_new
+g_value_set_int
+g_ptr_array_get_type
+g_value_get_uint
+g_array_unref
+g_malloc
+g_string_new
+g_hash_table_remove
+g_string_sized_new
+g_simple_async_result_new
+g_strndup
+g_strv_length
+g_ptr_array_add
+g_malloc0_n
+g_variant_iter_next
+g_assertion_message_expr
+g_object_new
+g_object_ref
+g_variant_new_string
+g_timeout_add_seconds
+g_strdup_printf
+g_signal_handlers_disconnect_matched
+g_value_set_string
+g_string_free
+g_variant_type_checked_
+g_type_check_class_cast
+g_ptr_array_free
+g_simple_async_result_complete_in_idle
+g_object_class_list_properties
+g_hash_table_size
+g_hash_table_new
+g_hash_table_iter_next
+g_hash_table_iter_init
+g_hash_table_new_full
+g_byte_array_free
+g_mutex_unlock
+g_slist_prepend
+g_propagate_error
+g_param_value_validate
+g_variant_new_fixed_array
+g_type_class_peek
+g_object_get
+g_snprintf
+g_variant_builder_end
+g_return_if_fail_warning
+g_object_set
+g_set_error
+g_slist_find
+g_variant_iter_init
+g_getenv
+g_bytes_get_type
+g_error_matches
+g_slice_alloc
+g_quark_from_static_string
+g_signal_new
+g_ptr_array_new_full
+g_ascii_table
+g_param_value_set_default
+g_initable_new
+g_strchomp
+g_type_check_instance_is_a
+g_array_sized_new
+g_byte_array_sized_new
+g_str_has_prefix
+g_type_name
+g_strchug
+g_source_remove
+g_signal_connect_data
+g_strv_get_type
+g_slist_length
+g_type_instance_get_private
+g_type_check_instance_cast
+g_key_file_load_from_file
+g_variant_n_children
+g_variant_unref
+g_type_register_static_simple
+g_byte_array_append
+g_signal_handlers_block_matched
+g_slist_delete_link
+g_strsplit
+g_hash_table_lookup
+g_value_set_flags
+g_object_class_find_property
+g_bytes_unref
+g_malloc0
+g_ptr_array_sized_new
+g_value_init
+g_set_error_literal
+g_string_insert_c
+g_mutex_lock
+g_build_filename
+g_file_get_contents
+g_idle_add
+g_once_init_enter
+g_value_set_uint
+g_string_truncate
+g_qsort_with_data
+g_hash_table_unref
+g_warn_message
+g_key_file_error_quark
+g_error_free
+g_strfreev
+g_str_has_suffix
+g_ptr_array_unref
+g_ptr_array_new
+g_malloc_n
+g_value_get_int
+g_type_check_value
+g_object_set_property
+g_once_init_leave
+g_file_error_quark
+g_param_spec_types
+g_prefix_error
+g_type_class_add_private
+g_slist_free_full
+g_slice_free1
+g_array_append_vals
+g_string_append
+g_type_class_peek_parent
+g_simple_async_result_propagate_error
+g_string_append_printf
+g_log
+g_str_equal
+g_file_test
+g_slice_alloc0
+g_ascii_strcasecmp
+g_signal_handlers_unblock_matched
+nm_dhcp_config_get_options
+nm_access_point_get_ssid
+nm_setting_802_1x_get_num_eap_methods
+nm_vpn_connection_get_banner
+nm_setting_connection_add_permission
+nm_client_get_permission_result
+nm_setting_802_1x_get_client_cert_scheme
+nm_setting_802_1x_get_phase2_ca_cert_path
+nm_setting_cdma_get_type
+nm_setting_dcb_set_priority_group_bandwidth
+nm_client_get_primary_connection
+nm_connection_get_interface_name
+nm_setting_wireless_security_get_type
+nm_setting_wireless_security_remove_group_by_value
+nm_device_team_get_type
+nm_device_get_state_reason
+nm_device_disconnect_finish
+nm_remote_connection_commit_changes_finish
+nm_device_get_available_connections
+nm_setting_ip_config_remove_dns
+nm_simple_connection_new_clone
+nm_active_connection_get_uuid
+nm_device_vlan_get_parent
+nm_setting_802_1x_get_phase2_private_key_blob
+nm_setting_vpn_new
+nm_ip_config_get_domains
+nm_setting_ip_tunnel_get_type
+nm_client_add_and_activate_connection_finish
+nm_manager_error_quark
+nm_client_load_connections
+nm_connection_is_type
+nm_setting_dcb_get_priority_group_bandwidth
+nm_client_wwan_get_enabled
+nm_setting_ip_config_get_route
+nm_vpn_plugin_info_load_editor_plugin
+nm_device_vlan_get_type
+nm_setting_wireless_security_remove_proto_by_value
+nm_setting_wired_remove_mac_blacklist_item
+nm_client_add_connection_async
+nm_setting_ip_config_get_method
+nm_device_ethernet_get_speed
+nm_setting_ip_config_get_num_dns_searches
+nm_setting_dcb_get_priority_flow_control
+nm_setting_wireless_get_channel
+nm_setting_ip_config_add_dns_search
+nm_setting_vlan_remove_priority_str_by_value
+nm_access_point_get_wpa_flags
+nm_connection_get_type
+nm_device_wifi_get_type
+nm_client_get_active_connections
+nm_device_is_software
+nm_setting_ip_config_add_route
+nm_client_set_logging
+nm_vpn_editor_plugin_export
+nm_setting_connection_get_zone
+nm_setting_wireless_security_add_group
+nm_setting_wimax_get_type
+nm_setting_ip_tunnel_get_mode
+nm_setting_ip_config_remove_dns_option
+nm_access_point_get_max_bitrate
+nm_ip_config_get_addresses
+nm_utils_iface_valid_name
+nm_setting_team_new
+nm_setting_wireless_security_remove_proto
+nm_setting_ip6_config_new
+nm_device_bridge_get_slaves
+nm_client_get_logging
+nm_device_get_firmware_missing
+nm_client_add_and_activate_connection_async
+nm_device_get_physical_port_id
+nm_device_wifi_get_access_points
+nm_client_add_connection_finish
+nm_utils_hwaddr_aton
+nm_device_get_ip4_config
+nm_setting_wireless_security_get_auth_alg
+nm_setting_802_1x_get_eap_method
+nm_connection_is_virtual
+nm_setting_dcb_get_priority_bandwidth
+nm_client_wireless_hardware_get_enabled
+nm_connection_update_secrets
+nm_setting_vpn_foreach_data_item
+nm_setting_connection_remove_permission
+nm_utils_ssid_to_utf8
+nm_connection_get_setting_connection
+nm_vpn_editor_plugin_get_capabilities
+nm_setting_802_1x_get_ca_cert_scheme
+nm_client_wwan_hardware_get_enabled
+nm_connection_get_setting_pppoe
+nm_client_wireless_set_enabled
+nm_active_connection_get_ip6_config
+nm_setting_ip_config_get_type
+nm_setting_team_port_new
+nm_ip_address_get_address
+nm_setting_team_get_type
+nm_setting_connection_get_num_secondaries
+nm_setting_vpn_get_secret
+nm_connection_get_setting_gsm
+nm_setting_connection_get_connection_type
+nm_setting_wireless_get_num_mac_blacklist_items
+nm_connection_get_setting_ip6_config
+nm_client_get_connection_by_uuid
+nm_setting_wireless_get_type
+nm_device_get_type
+nm_vpn_plugin_info_get_filename
+nm_vpn_plugin_error_quark
+nm_device_set_autoconnect
+nm_device_get_iface
+nm_setting_team_port_get_type
+nm_setting_connection_remove_permission_by_value
+nm_setting_wireless_security_get_num_pairwise
+nm_client_check_connectivity
+nm_setting_ip_config_add_dns
+nm_setting_connection_remove_secondary_by_value
+nm_setting_olpc_mesh_get_ssid
+nm_setting_802_1x_get_phase2_client_cert_scheme
+nm_vpn_plugin_info_lookup_property
+nm_setting_mac_randomization_get_type
+nm_setting_macvlan_get_type
+nm_setting_generic_new
+nm_device_wifi_get_active_access_point
+nm_setting_get_type
+nm_setting_cdma_new
+nm_ip_route_new
+nm_setting_802_1x_get_client_cert_path
+nm_vpn_plugin_info_get_editor_plugin
+nm_setting_wireless_get_mode
+nm_setting_vpn_add_secret
+nm_client_networking_set_enabled
+nm_active_connection_get_state
+nm_utils_hwaddr_ntoa
+nm_remote_connection_delete_finish
+nm_client_get_connections
+nm_vpn_connection_get_vpn_state
+nm_utils_uuid_generate
+nm_device_wifi_request_scan_finish
+nm_client_get_connectivity
+nm_client_networking_get_enabled
+nm_setting_ip4_config_get_type
+nm_device_delete_finish
+nm_setting_bluetooth_get_type
+nm_setting_macvlan_get_mode
+nm_setting_802_1x_get_phase2_client_cert_blob
+nm_client_activate_connection_async
+nm_utils_wifi_is_channel_valid
+nm_connection_get_setting_wireless
+nm_setting_ip6_config_get_type
+nm_setting_ip_config_remove_route_by_value
+nm_setting_ip_config_remove_address_by_value
+nm_setting_macvlan_new
+nm_utils_enum_get_values
+nm_setting_ip_config_remove_address
+nm_ip_route_get_next_hop
+nm_device_get_driver
+nm_access_point_get_flags
+nm_setting_wired_new
+nm_setting_wireless_security_add_pairwise
+nm_device_ethernet_get_carrier
+nm_setting_wimax_new
+nm_client_get_nm_running
+nm_ip_config_get_gateway
+nm_device_bt_get_type
+nm_access_point_get_bssid
+nm_setting_wired_remove_mac_blacklist_item_by_value
+nm_setting_vlan_get_priority
+nm_setting_wireless_security_remove_pairwise_by_value
+nm_vpn_connection_get_type
+nm_setting_802_1x_get_private_key_path
+nm_setting_wired_add_s390_option
+nm_setting_dcb_get_priority_traffic_class
+nm_client_new
+nm_setting_dcb_get_priority_strict_bandwidth
+nm_setting_connection_get_autoconnect_priority
+nm_setting_802_1x_set_private_key
+nm_device_get_autoconnect
+nm_setting_verify
+nm_setting_802_1x_set_client_cert
+nm_setting_dcb_set_priority_strict_bandwidth
+nm_setting_wireless_get_band
+nm_utils_enum_from_str
+nm_secret_agent_old_unregister
+nm_active_connection_get_ip4_config
+nm_device_get_state
+nm_setting_vlan_get_flags
+nm_setting_connection_get_read_only
+nm_client_wwan_set_enabled
+nm_setting_adsl_new
+nm_setting_wireless_remove_mac_blacklist_item
+nm_device_disconnect_async
+nm_object_get_type
+nm_vpn_plugin_info_list_load
+nm_connection_get_setting_ip4_config
+nm_setting_802_1x_get_ca_cert_blob
+nm_utils_hexstr2bin
+nm_setting_wireless_get_mtu
+nm_setting_wired_add_mac_blacklist_item
+nm_device_get_firmware_version
+nm_device_get_active_connection
+nm_utils_wpa_psk_valid
+nm_connection_get_connection_type
+nm_setting_dcb_set_priority_flow_control
+nm_setting_adsl_get_type
+nm_access_point_get_type
+nm_setting_connection_get_id
+nm_setting_wireless_security_add_proto
+nm_setting_ip_config_add_dns_option
+nm_connection_get_setting_wireless_security
+nm_connection_get_path
+nm_setting_infiniband_get_mtu
+nm_device_set_managed
+nm_device_get_device_type
+nm_setting_vpn_get_user_name
+nm_device_bond_get_type
+nm_lldp_neighbor_get_attr_string_value
+nm_setting_ip_config_remove_dns_option_by_value
+nm_active_connection_get_connection_type
+nm_setting_802_1x_set_ca_cert
+nm_connection_get_setting_by_name
+nm_client_get_devices
+nm_vpn_service_plugin_get_secret_flags
+nm_setting_bond_get_valid_options
+nm_setting_802_1x_get_num_altsubject_matches
+nm_device_get_managed
+nm_setting_gsm_new
+nm_setting_vpn_remove_secret
+nm_ip_address_unref
+nm_client_deactivate_connection
+nm_setting_802_1x_get_phase2_ca_cert_blob
+nm_active_connection_get_connection
+nm_setting_vxlan_new
+nm_access_point_get_mode
+nm_setting_connection_new
+nm_setting_wireless_new
+nm_access_point_get_strength
+nm_setting_wireless_security_get_num_groups
+nm_setting_dcb_get_priority_group_id
+nm_client_get_type
+nm_connection_get_uuid
+nm_setting_bond_get_option
+nm_setting_802_1x_add_altsubject_match
+nm_setting_wireless_get_mac_address_randomization
+nm_setting_vpn_get_service_type
+nm_ip_address_get_prefix
+nm_client_wimax_set_enabled
+nm_setting_ppp_get_type
+nm_setting_wireless_remove_mac_blacklist_item_by_value
+nm_vpn_plugin_info_get_name
+nm_connection_compare
+nm_active_connection_get_default6
+nm_utils_hwaddr_len
+nm_device_get_dhcp6_config
+nm_setting_wired_remove_s390_option
+nm_setting_connection_lldp_get_type
+nm_setting_connection_get_timestamp
+nm_ip_config_get_wins_servers
+nm_setting_802_1x_get_num_phase2_altsubject_matches
+nm_setting_connection_get_num_permissions
+nm_ip_route_get_dest
+nm_setting_802_1x_remove_phase2_altsubject_match_by_value
+nm_setting_connection_get_permission
+nm_device_ethernet_get_s390_subchannels
+nm_setting_802_1x_get_private_key_scheme
+nm_utils_ipaddr_valid
+nm_setting_vlan_get_type
+nm_connection_to_dbus
+nm_setting_ip_config_get_gateway
+nm_client_get_startup
+nm_setting_bond_add_option
+nm_setting_serial_get_type
+nm_setting_vlan_new
+nm_remote_connection_get_type
+nm_device_get_product
+nm_active_connection_get_devices
+nm_setting_wireless_security_new
+nm_setting_connection_get_type
+nm_setting_ip_tunnel_new
+nm_device_get_driver_version
+nm_secret_agent_old_get_type
+nm_setting_802_1x_get_phase2_private_key_path
+nm_setting_tun_get_type
+nm_setting_wired_get_type
+nm_device_get_udi
+nm_setting_tun_new
+nm_device_wifi_get_bitrate
+nm_setting_ip_config_get_dad_timeout
+nm_remote_connection_delete_async
+nm_setting_ip6_config_get_addr_gen_mode
+nm_setting_wireless_security_set_wep_key
+nm_connection_get_setting_802_1x
+nm_device_get_vendor
+nm_setting_connection_get_lldp
+nm_ip_route_unref
+nm_device_wifi_request_scan_options
+nm_setting_ip_config_get_num_dns_options
+nm_setting_802_1x_remove_altsubject_match
+nm_utils_hwaddr_atoba
+nm_device_wifi_request_scan_options_async
+nm_setting_olpc_mesh_get_type
+nm_connection_add_setting
+nm_setting_pppoe_new
+nm_setting_wireless_security_get_wep_key
+nm_utils_wep_key_valid
+nm_ip_address_new
+nm_vpn_plugin_info_list_find_by_service
+nm_setting_tun_get_mode
+nm_active_connection_get_master
+nm_setting_ip_config_remove_dns_by_value
+nm_device_get_capabilities
+nm_setting_get_name
+nm_setting_802_1x_set_phase2_ca_cert
+nm_setting_802_1x_get_password_raw
+nm_setting_serial_get_parity
+nm_setting_dcb_set_priority_traffic_class
+nm_setting_vlan_get_num_priorities
+nm_device_get_mtu
+nm_setting_vpn_get_data_item
+nm_access_point_get_frequency
+nm_secret_agent_error_quark
+nm_ip_config_get_routes
+nm_remote_connection_commit_changes_async
+nm_ip_tunnel_mode_get_type
+nm_setting_ip_config_get_num_addresses
+nm_setting_ip_config_clear_dns_options
+nm_setting_wired_get_mtu
+nm_setting_connection_get_autoconnect_slaves
+nm_setting_vpn_add_data_item
+nm_device_get_lldp_neighbors
+nm_connection_verify
+nm_client_get_version
+nm_setting_vlan_add_priority_str
+nm_setting_ip_config_add_address
+nm_setting_802_1x_get_client_cert_blob
+nm_setting_bridge_port_new
+nm_device_get_dhcp4_config
+nm_setting_bridge_get_type
+nm_setting_802_1x_get_private_key_password
+nm_active_connection_get_id
+nm_setting_infiniband_get_type
+nm_object_get_path
+nm_device_team_get_slaves
+nm_connection_normalize
+nm_device_bt_get_capabilities
+nm_setting_802_1x_remove_eap_method_by_value
+nm_setting_802_1x_get_phase2_ca_cert_scheme
+nm_active_connection_get_dhcp6_config
+nm_setting_vlan_remove_priority
+nm_setting_wireless_powersave_get_type
+nm_setting_olpc_mesh_new
+nm_simple_connection_new
+nm_setting_802_1x_get_phase2_private_key_scheme
+nm_active_connection_get_default
+nm_setting_ip_config_remove_dns_search
+nm_setting_bluetooth_new
+nm_setting_802_1x_get_phase2_private_key_password
+nm_setting_wireless_get_ssid
+nm_setting_ip_config_remove_dns_search_by_value
+nm_connection_get_setting_cdma
+nm_setting_ip6_config_get_ip6_privacy
+nm_setting_wireless_security_remove_group
+nm_setting_dcb_set_priority_group_id
+nm_setting_bridge_port_get_type
+nm_setting_ip_config_get_num_dns
+nm_device_vlan_get_vlan_id
+nm_device_get_type_description
+nm_device_get_metered
+nm_setting_802_1x_get_private_key_blob
+nm_setting_wireless_security_get_num_protos
+nm_utils_wifi_freq_to_channel
+nm_setting_tun_mode_get_type
+nm_client_get_device_by_iface
+nm_setting_ip_config_get_num_routes
+nm_setting_connection_remove_secondary
+nm_utils_enum_to_str
+nm_ip_route_get_prefix
+nm_connection_get_id
+nm_client_get_state
+nm_setting_wireless_get_powersave
+nm_setting_connection_get_autoconnect
+nm_vpn_plugin_info_get_plugin
+nm_setting_802_1x_get_phase2_client_cert_path
+nm_setting_vpn_remove_data_item
+nm_client_reload_connections
+nm_setting_ip6_config_addr_gen_mode_get_type
+nm_setting_wireless_security_get_wep_tx_keyidx
+nm_setting_802_1x_add_phase2_altsubject_match
+nm_device_reapply_async
+nm_device_get_ip_iface
+nm_device_get_hw_address
+nm_setting_macvlan_mode_get_type
+nm_device_delete_async
+nm_setting_wired_get_num_mac_blacklist_items
+nm_device_wifi_get_capabilities
+nm_setting_connection_get_master
+nm_utils_wifi_strength_bars
+nm_setting_ip_config_has_dns_options
+nm_setting_bond_get_num_options
+nm_setting_802_1x_remove_phase2_altsubject_match
+nm_setting_vpn_get_num_data_items
+nm_client_wireless_get_enabled
+nm_ip_route_get_metric
+nm_setting_lookup_type
+nm_vpn_plugin_info_list_find_by_name
+nm_client_save_hostname_finish
+nm_device_bond_get_slaves
+nm_setting_802_1x_get_type
+nm_connection_replace_settings_from_connection
+nm_utils_file_search_in_paths
+nm_connection_remove_setting
+God A red nugget A fat egg under a dog
+nm_active_connection_get_specific_object_path
+nm_access_point_get_rsn_flags
+nm_vpn_editor_plugin_import
+nm_device_connection_compatible
+nm_client_save_hostname_async
+nm_setting_wired_get_wake_on_lan
+nm_setting_bond_remove_option
+nm_setting_dcb_set_priority_bandwidth
+nm_setting_connection_get_slave_type
+nm_setting_ip4_config_new
+nm_setting_wireless_add_mac_blacklist_item
+nm_setting_wireless_security_remove_pairwise
+nm_setting_802_1x_get_ca_cert_path
+nm_setting_connection_get_interface_name
+nm_setting_connection_get_metered
+nm_lldp_neighbor_get_attr_uint_value
+nm_utils_is_uuid
+nm_active_connection_get_dhcp4_config
+nm_setting_802_1x_remove_eap_method
+nm_setting_ip_config_get_address
+nm_connection_get_setting_vpn
+nm_setting_wired_get_valid_s390_options
+nm_client_activate_connection_finish
+nm_ip_config_get_nameservers
+nm_setting_vxlan_get_type
+nm_setting_infiniband_new
+nm_utils_hwaddr_valid
+nm_setting_wireless_security_get_wep_key_type
+nm_setting_802_1x_add_eap_method
+nm_setting_bond_get_type
+nm_device_get_ip6_config
+nm_setting_802_1x_set_phase2_private_key
+nm_setting_infiniband_get_p_key
+nm_setting_gsm_get_type
+nm_setting_vpn_get_type
+nm_setting_802_1x_set_phase2_client_cert
+nm_device_reapply_finish
+nm_remote_connection_get_unsaved
+nm_device_ethernet_get_type
+nm_device_get_nm_plugin_missing
+nm_setting_pppoe_get_type
+nm_setting_802_1x_remove_altsubject_match_by_value
+nm_setting_wired_wake_on_lan_get_type
+nm_remote_connection_get_secrets
+nm_setting_vpn_foreach_secret
+nm_setting_dcb_get_type
+nm_setting_ip_config_remove_route
+nm_setting_bridge_new
+nm_device_bridge_get_type
+nm_device_wifi_request_scan_async
+nm_setting_connection_get_uuid
+nm_setting_bond_new
+nm_setting_wireless_security_get_key_mgmt
+nm_setting_connection_add_secondary
+libpolkit-agent-1.so.0
+g_main_loop_unref
+polkit_unix_user_get_type
+g_printerr
+g_cancellable_connect
+polkit_error_quark
+polkit_identity_to_string
+g_main_loop_new
+g_main_loop_run
+g_cancellable_disconnect
+g_main_loop_quit
+polkit_identity_get_type
+g_simple_async_result_set_error
+polkit_agent_session_new
+polkit_agent_listener_register
+polkit_agent_session_response
+polkit_agent_session_initiate
+polkit_agent_listener_get_type
+polkit_agent_session_cancel
+polkit_agent_listener_unregister
+libpolkit-gobject-1.so.0
+g_error_copy
+polkit_unix_process_new_for_owner
+polkit_unix_session_new_for_process_sync
+polkit_unix_user_get_name
+libgio-2.0.so.0
+g_error_new
+g_get_user_name
+g_cond_signal
+g_strjoinv
+g_mkstemp
+g_ascii_strncasecmp
+g_get_home_dir
+g_thread_new
+g_variant_builder_new
+g_utf8_get_char
+g_strdup_vprintf
+g_array_free
+g_file_set_contents
+g_key_file_free
+g_hash_table_replace
+g_random_int_range
+g_hash_table_get_values
+g_key_file_remove_group
+g_key_file_to_data
+g_timeout_add
+g_weak_ref_get
+g_cond_wait
+g_utf8_skip
+g_strlcpy
+g_weak_ref_set
+g_string_prepend
+g_ptr_array_foreach
+libgobject-2.0.so.0
+g_thread_unref
+g_strescape
+g_strdelimit
+g_value_register_transform_func
+g_param_spec_get_name
+g_weak_ref_clear
+g_weak_ref_init
+libglib-2.0.so.0
+g_ptr_array_remove_range
+g_ascii_strup
+g_get_host_name
+g_unichar_iszerowidth
+g_strlcat
+g_strnfill
+g_bytes_unref_to_array
+g_string_printf
+g_string_assign
+g_list_find_custom
+g_spawn_sync
+g_unichar_iswide
+g_ptr_array_sort_with_data
+libpthread.so.0
+pthread_sigmask
+__errno_location
+pthread_mutex_lock
+pthread_create
+close
+pthread_mutex_unlock
+sigwait
+libc.so.6
+fflush
+__printf_chk
+exit
+setlocale
+strsignal
+strncmp
+dcngettext
+strrchr
+dcgettext
+__stack_chk_fail
+unlink
+stdin
+getpid
+kill
+bind_textdomain_codeset
+inet_pton
+strftime
+strtol
+isatty
+strlen
+sigemptyset
+tcsetattr
+memcmp
+sigaddset
+stdout
+fputc
+memcpy
+strtoul
+ioctl
+__snprintf_chk
+getuid
+fileno
+__getdelim
+localtime
+strchr
+qsort
+tcgetattr
+sleep
+memmove
+bindtextdomain
+strcmp
+__libc_start_main
+_edata
+__bss_start
+print_ip6_config
+nmc_empty_output_fields
+nmc_fields_setting_ip_tunnel
+setting_802_11_wireless
+nmc_term_format_sequence
+nmc_get_allowed_fields
+nmc_rl_gen_func_basic
+nm_vpn_supports_ipv6
+nmc_device_state_to_string
+loop
+nm_polkit_listener_set_show_info_callback
+nmc_unique_connection_name
+nmc_fields_setting_team_port
+nmc_string_to_uint
+nmc_fields_setting_cdma
+nmc_fields_setting_dcb
+nmc_setting_remove_property_option
+nmc_set_in_readline
+_IO_stdin_used
+nmc_string_to_bool
+nmc_secrets_requested
+nmc_fields_setting_wireless
+nmc_fields_setting_bluetooth
+print_dhcp6_config
+nmc_fields_setting_vpn
+nmc_string_to_arg_array
+setting_802_11_olpc_mesh
+nmc_fields_setting_serial
+nmc_parse_args
+nmc_readline
+nmc_setting_reset_property
+nmc_device_reason_to_string
+nmc_fields_setting_bridge
+nmc_bond_validate_mode
+nmc_strsplit_set
+print_required_fields
+nmc_polkit_agent_fini
+nmc_setting_get_property_parsable
+nmc_terse_option_check
+nmc_readline_echo
+setting_802_3_ethernet
+nmc_terminal_erase_line
+nmc_fields_setting_wired
+nm_vpn_get_service_for_name_default
+nmc_setting_get_property
+nmc_setting_ip6_connect_handlers
+setting_ipv6
+nmc_string_to_uint_base
+nmc_fields_setting_team
+nmc_cleanup_readline
+nmc_terminal_show_progress
+nmc_get_in_readline
+print_dhcp4_config
+nmc_setting_custom_init
+nm_secret_agent_simple_enable
+nmc_fields_setting_connection
+set_val_arrc
+do_monitor
+set_val_str
+do_connections
+nmc_fields_setting_8021X
+nm_vpn_lookup_plugin
+nmc_find_connection
+nmc_fields_setting_ip4_config
+nmc_filter_out_colors
+setting_details
+nmc_fields_setting_wireless_security
+do_agent
+nmc_fields_dhcp6_config
+nm_secret_agent_simple_response
+print_data
+nm_vpn_get_plugin_names
+nmc_setting_new_for_name
+set_val_arr
+nmc_string_to_int_base
+signal_handling_thread
+nm_polkit_listener_set_show_error_callback
+nmc_fields_ip6_config
+nmc_seen_sigint
+nmc_fields_dhcp4_config
+nmc_fields_setting_ip6_config
+termios_orig
+nmc_properties_cleanup
+monitor_devices
+nmc_setting_wireless_connect_handlers
+nmc_setting_set_property
+nmc_string_to_int
+nmc_fields_setting_vlan
+nmc_polkit_agent_init
+nmc_property_set_gvalue
+nmc_fields_setting_bridge_port
+nmc_fields_setting_bond
+nmc_team_check_config
+nmc_fields_setting_infiniband
+nmc_set_sigquit_internal
+nmc_parse_lldp_capabilities
+set_val_color_all
+nm_vpn_get_service_for_name
+nmc_clear_sigint
+nmc_fields_setting_tun
+do_devices
+nmc_vlan_parse_priority_maps
+__data_start
+nmc_setting_get_property_desc
+nmc_term_color_sequence
+do_radio
+nmc_rl_set_deftext
+nmc_setting_ip4_connect_handlers
+all_settings
+setting_802_11_wireless_security
+nmc_string_screen_width
+nm_cli
+setting_generic
+nmc_rl_pre_input_deftext
+nmc_fields_setting_pppoe
+nmc_property_get_gvalue
+nmc_properties_init
+nmc_filter_out_colors_inplace
+nm_secret_agent_simple_get_type
+ssid_to_hex
+nmc_string_to_tristate
+nmc_fields_setting_adsl
+nm_polkit_listener_get_type
+nm_polkit_listener_new
+nmc_util_strv_for_display
+nm_polkit_listener_set_request_callback
+nmc_arg_is_help
+__libc_csu_init
+nmc_setting_get_valid_properties
+parse_output_fields
+nmc_string_is_valid
+nm_vpn_get_plugins
+nmc_parse_and_build_address
+nmc_fields_ip4_config
+nmc_fields_setting_macvlan
+nmc_fields_setting_olpc_mesh
+nmc_device_metered_to_string
+next_arg
+setting_ipv4
+nmc_setting_get_property_allowed_values
+nmc_fields_setting_ppp
+nmc_arg_is_option
+nmcli_error_quark
+print_ip4_config
+monitor_connections
+nmc_term_color_parse_string
+nm_vpn_openconnect_authenticate_helper
+do_general
+set_val_color_fmt_all
+nmc_fields_setting_gsm
+nmc_start_polkit_agent_start_try
+__libc_csu_fini
+nmc_setting_connection_connect_handlers
+set_val_strc
+nmc_parse_and_build_route
+nmc_free_output_field_values
+nmc_property_set_default_value
+nm_vpn_get_secret_names
+do_networking
+nmc_colorize
+nm_polkit_listener_set_completed_callback
+nmc_fields_setting_vxlan
+nmc_dup_fields_array
+nm_secret_agent_simple_new
+nmc_fields_setting_wimax
+nmc_get_user_input
+GLIBC_2.2.5
+libnm_1_2_0
+libnm_1_0_0
+GLIBC_2.4
+GLIBC_2.14
+GLIBC_2.3.4
+%z~'
+%r~'
+%j~'
+%b~'
+%Z~'
+%R~'
+%J~'
+%B~'
+%:~'
+%2~'
+%*~'
+%"~'
+%z}'
+%r}'
+%j}'
+%b}'
+%Z}'
+%R}'
+%J}'
+%B}'
+%:}'
+%2}'
+%*}'
+%"}'
+%z|'
+%r|'
+%j|'
+%b|'
+%Z|'
+%R|'
+%J|'
+%B|'
+%:|'
+%2|'
+%*|'
+%"|'
+%z{'
+%r{'
+%j{'
+%b{'
+%Z{'
+%R{'
+%J{'
+%B{'
+%:{'
+%2{'
+%*{'
+%"{'
+%zz'
+%rz'
+%jz'
+%bz'
+%Zz'
+%Rz'
+%Jz'
+%Bz'
+%:z'
+%2z'
+%*z'
+%"z'
+%zy'
+%ry'
+%jy'
+%by'
+%Zy'
+%Ry'
+%Jy'
+%By'
+%:y'
+%2y'
+%*y'
+%"y'
+%zx'
+%rx'
+%jx'
+%bx'
+%Zx'
+%Rx'
+%Jx'
+%Bx'
+%:x'
+%2x'
+%*x'
+%"x'
+%zw'
+%rw'
+%jw'
+%bw'
+%Zw'
+%Rw'
+%Jw'
+%Bw'
+%:w'
+%2w'
+%*w'
+%"w'
+%zv'
+%rv'
+%jv'
+%bv'
+%Zv'
+%Rv'
+%Jv'
+%Bv'
+%:v'
+%2v'
+%*v'
+%"v'
+%zu'
+%ru'
+%ju'
+%bu'
+%Zu'
+%Ru'
+%Ju'
+%Bu'
+%:u'
+%2u'
+%*u'
+%"u'
+%zt'
+%rt'
+%jt'
+%bt'
+%Zt'
+%Rt'
+%Jt'
+%Bt'
+%:t'
+%2t'
+%*t'
+%"t'
+%"\'
+AWAVI
+AUATLc
+9L;t$
+[]A\A]A^A_
+AUATI
+[]A\A]
+D$X1
+T$XdH3
+ []A\
+D$81
+L$8dH3
+ATU1
+ []A\
+AVAUI
+ATUH
+]A\A]A^
+AVAUATUSH
+VAVI
+[]A\A]A^
+AWAVI
+AUATI
+H;0t+H
+AUAW
+[]A\A]A^A_
+ATUI
+AUAT1
+[]A\A]
+AWAVI
+AUATI
+Hc*H
+[]A\A]A^A_
+AWAVAUATI
+[]A\A]A^A_
+AWAVAUATUSH
+t$LH
+L$LH
+D$ L
+t$@H
+L$LH
+t$@H
+t$@H
+t$@H
+<$ku$A
+t$@H
+D$@t4H
+t$@H
+|$LH
+D$@u
+T$hH
+t$@H
+|$LH
+T$hH
+D$h1
+D$@H
+D$KM
+T$dH
+|$pH
+L$h1
+D$hH
+|$8H
+T$d1
+T$(1
+D$`E1
+T$(L
+T$8H
+t$(H
+T$8u91
+T$ A
+t$(E1
+[]A\A]A^A_
+AVAUE1
+ATUSH
+$u.L
+$t2L
+|$ H
+[]A\A]A^
+AWAVI
+AUATI
+D$(1
+|$pH
+|$pH
+L$(dH3
+8[]A\A]A^A_
+AWAVAUATE1
+D$(1
+D$ 1
+D$ H
+L$(dH3
+8[]A\A]A^A_
+AUATI
+[]A\A]
+AWAVE1
+AUATE1
+t$LH
+D$X1
+t$@H
+D$@uBL
+t$@H
+D$@t5H
+L$LH
+D$P1
+D$PH
+D$ L
+D$(H
+D$(D9x
+D$(H
+t$8H
+|$0I
+L$XdH3
+h[]A\A]A^A_
+t$ dH
+D$(1
+L$(dH3
+C0ta
+AWAVAUATI
+A9l$
+[]A\A]A^A_
+ATUA
+[]A\
+[]A\
+[]A\
+[]A\
+AWAVH
+AUATE1
+T$81
+t$0H
+D$(H
+t$ L
+T$8H
+t$0H
+[]A\A]A^A_
+AWAVH
+AUATE1
+T$81
+t$0H
+D$(H
+t$ L
+T$8H
+t$0H
+[]A\A]A^A_
+AVAUATUSH
+D$81
+|$pH
+|$pH
+L$8dH3
+@[]A\A]A^
+AVAUATUSH
+D$81
+|$pH
+|$pH
+L$8dH3
+@[]A\A]A^
+AVAUATU
+ []A\A]A^
+AWAVI
+AUATI
+D$(1
+\$(dH3
+8[]A\A]A^A_
+L$ L
+8:uA
+D$ 1
+tsv9
+AWAVAUATUSH
+D$(1
+L$(dH3
+8[]A\A]A^A_
+D$ 1
+:tqH
+AUATUSH
+dH34%(
+[]A\A]
+AWAVI
+AUATUSH
+1D9w
+t$ L
+[]A\A]A^A_
+D$(H
+D$(H
+AVAUI
+ATUH
+]A\A]A^
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$ 1
+D$ H
+D$`H
+D$(H
+D$hH
+D$pH
+D$8H
+D$xH
+D$@H
+D$HH
+D$PH
+T$ 1
+AWAVAUATM
+D$X1
+|$(H
+t$ H
+D$XdH3
+h[]A\A]A^A_
+t$ H
+|$(H
+L$8L
+D$4H
+L$PH
+T$HH
+t$@L
+D$4A
+t$HM
+D$@H
+D$HH
+D$PH
+AVAUI
+ATUSH
+tVHc
+]A\A]A^
+[]A\A]A^
+AVAUATUSH
+D$X1
+D$XdH3
+[]A\A]A^
+D$XdH3
+[]A\A]A^
+ tJJ
+ u#J
+ t,H
+AVAUATUA
+[]A\A]A^1
+D$(1
+L$(dH3
+D$X1
+D$ t
+D$(}
+L$XdH3
+D$(1
+L$(dH3
+D$h1
+D$ }
+D$05
+D$Xa
+L$hdH3
+D$X1
+L$XdH3
+D$(1
+L$(dH3
+D$H1
+D$ #
+D$(+
+D$07
+L$HdH3
+D$(1
+L$(dH3
+D$(1
+L$(dH3
+tRAT
+[]A\
+AWAVAUATUSH
+h[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+t	H;
+|$0M
+l$LI
+\$PL
+l$@L
+l$LH
+l$LH
+\$PE1
+AWAVAUATUSH
+D$81
+l$01
+AUE1
+L$8I
+T$8dH3
+H[]A\A]A^A_
+AVAUI
+ATUA
+[]A\A]A^
+|$ L
+|$ 1
+AWAVAUATI
+[]A\A]A^A_
+	ucI
+[]A\A]A^A_
+ATUI
+[]A\
+ATUH
+[]A\
+AVAUI
+[]A\A]A^
+AWAVAUATI
+[]A\A]A^A_
+tBATU
+[]A\
+t:ATU
+[]A\
+AWAVAUATA
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUATUH
+Lc%.
+thHc
+]A\A]A^
+]A\A]A^
+]A\A]A^
+[]A\
+AWAVAUATI
+[]A\A]A^A_
+AUATI
+ t7H
+[]A\A]
+AWAVAUATUSH
+([]A\A]A^A_
+AVAUATUI
+ []A\A]A^
+AWAVAUATLc
+D$81
+L$8dH3
+H[]A\A]A^A_
+HcD$
+HcD$
+&L9L$
+T$ E1
+D$ S
+T$ E1
+D$ S
+AVAUATUA
+]A\A]A^
+t|AWAVI
+AUATI
+[]A\A]A^A_
+D$(1
+L$(dH3
+AUATUSH
+[]A\A]
+dt?A
+ATUH
+[]A\
+[]A\
+[]A\
+[]A\
+[]A\
+AWAVAUATI
+D$H1
+t$,H
+T$ H
+L$8H
+D$ H
+t$ H
+|$,L
+D$ H
+t$ H
+|$,H
+L$8L
+T$8L
+D$@1
+L$@1
+D$8H
+|$(M
+L$HdH3
+X[]A\A]A^A_
+D$8L
+D$81
+D$8L
+ATUH
+ATUH
+[]A\1
+AWAVI
+AUAT1
+D$(1
+L$(dH3
+8[]A\A]A^A_
+A9D$
+uPJc
+|$ H
+ATUSH
+ []A\
+C(9h
+ATUH
+[]A\E1
+AWAVAUATI
+T$ H
+T$h1
+\$hdH3
+x[]A\A]A^A_
+l$HL
+D$HPL
+t$ H
+|$(L
+L$HL
+L$`H
+T$XH
+t$PH
+D$(H
+|$(L
+t$HH
+D$HH
+C0t\E1
+T$8H
+L$0H
+L$PH
+t$ H
+|$(1
+t$HH
+ATUH
+[]A\
+[]A\
+[]A\
+AUATI
+[]A\A]
+ATUI
+[]A\
+ATUA
+[]A\
+AWAVA
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+ATUSL
+[]A\
+[]A\
+AWAVAUATI
+[]A\A]A^A_
+AWAVAUATI
+D$81
+L$8dH3
+H[]A\A]A^A_
+t$ H
+ATUH
+[]A\
+[]A\
+[]A\
+t	H9
+AVAUI
+ATUI
+[]A\A]A^
+uIE1
+=bk'
+ATUH
+CHZYt
+[]A\
+[]A\
+AWAVAUATI
+[]A\A]A^A_
+ATUA
+[]A\
+ATUA
+[]A\
+=0k'
+AWAVI
+AUAT
+[]A\A]A^A_
+AWAVAUATUSH
+A9D$
+t$(H
+Et$ H
+t$ H
+8[]A\A]A^A_
+L$ H
+ATUA
+[]A\
+AWAVE
+AUATI
+|$@H
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+t;ATUH
+[]A\
+t;ATUH
+[]A\
+AVAU
+ATUI
+ []A\A]A^
+AVAU
+ []A\A]A^
+tsv9
+AUATUSH
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+AVAUATUS
+]A\A]A^
+]A\A]A^
+]A\A]A^
+ATUH
+[]A\
+[]A\
+AWAVI
+AUATUSH
+D$0H
+t$ H
+t$(L
+t$0L
+u#f.
+D$8H
+[]A\A]A^A_
+t$ H
+D$8H
+AUATUSH
+[]A\A]
+[]A\A]
+ATUH
+[]A\
+AUATUSH
+[]A\A]
+[]A\A]
+AUATUSH
+]A\A]
+[]A\A]
+ATUSH
+[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+AUATI
+[]A\A]
+ATUH
+[]A\
+tSATI
+[]A\
+AWAV
+AUATUSH
+T$\H
+D$xH
+L$pH
+-pG'
+%jG'
+|$`H
+|$`H
+[]A\A]A^A_
+T$ L
+=b@'
+5w?'
+L$(H
+T$ H
+T$ H
+T$ H
+D$(H
+T$ H
+D$0H
+l$DH
+t$0H
+|$8L
+|$HA
+D$HA
+T$HH
+t$0H
+|$HA
+|$8L
+d$0H
+|$81
+t$0H
+|$8H
+t$0H
+t$0H
+|$8H
+t$0H
+|$8A
+D$(H
+T$ L
+L$(1
+L$(I
+T$0H
+T$ H
+L$(H
+D$(H
+T$ L
+|$`H
+T$(H
+T$(I
+T$ H
+D$(H
+T$ L
+T$ H
+T$HH
+t$0H
+|$H1
+t$@H
+|$HH
+|$HE1
+AYAZ
+D$HD
+t$0H
+t$0H
+|$81
+t$0I
+d$8H
+t$0H
+t$0L
+T$HH
+t$0H
+|$HA
+t$0H
+d$H1
+t$@H
+t$0H
+T$HH
+t$0H
+t$0H
+t$0H
+|$8H
+T$HH
+t$0H
+t$0H
+|$xH
+T$ L
+AWAVAUATI
+L$XD
+L$\H
+D$PdH
+[]A\A]A^A_
+T$XH
+T$\H
+L$PH
+D$\A
+T$\1
+L$PH
+T$\1
+L$PH
+L$XH
+T$\1
+L$PH
+D$XH
+l$XH
+T$\M
+L$PH
+L$XI
+\$XH
+T$\M
+L$PH
+\$XH
+T$\M
+L$PH
+|$XH
+\$XH
+T$\M
+L$PH
+t$XH
+L$PH
+T$\E1
+AZA[
+t$\L
+\$XH
+L$PH
+T$\H
+\$XH
+T$\M
+L$PH
+L$XI
+T$ 1
+\$XH
+L$PH
+T$\H
+D$@u
+|$XI
+T$\1
+L$PH
+t$XH
+T$\1
+L$PH
+L$hL
+T$\1
+L$PH
+l$XH
+T$\1
+L$PH
+L$hL
+\$XH
+T$\M
+L$PH
+t$pH
+t$xH
+T$p1
+T$x1
+D$(H
+T$\1
+D$hH
+L$PH
+D$xH
+|$xH
+|$pH
+t$`H
+t$dH
+D$0H
+D$ H
+D$(H
+D$8H
+APhF
+D$ H
+T$\1
+L$PH
+APAW
+L$hL
+AYAZ
+|$ H
+|$ 1
+T$(H
+L$ H
+L$ H
+\$XH
+T$\M
+L$PH
+l$XH
+Borrow or rob
+L$PH
+T$\H
+\$HH
+|$HL
+T$`1
+T$d1
+D$HH
+|$ H
+|$ 1
+D$0H
+D$8H
+\$@1
+\$0H
+D$ H
+D$ H
+t$(H
+|$ H
+t$(H
+T$HH
+D$@H
+D$@H
+\$@1
+\$ H
+\$@1
+\$(H
+D$ H
+t$ H
+D$pu
+|$pH
+D$ H
+|$ H
+t$ H
+t$ H
+\$XH
+L$PH
+T$\H
+D$(H
+D$ H
+D$ H
+\$XH
+L$PH
+D$0H
+\$8H
+\$8H
+\$ H
+D$(u
+D$(H
+D$(H
+AWAV
+AUATUSH
+t$,H
+T$ H
+D$8H
+L$ H
+D$@H
+D$pH
+T$,H
+D$PH
+D$X1
+D$`H
+|$81
+L$p1
+|$HH
+T$xH
+t$0H
+|$XH
+T$xH
+t$4H
+|$PH
+|$@H
+t$`1
+T$hL
+t$pA
+D$hPh
+l$`L
+D$PH
+T$XL
+t$(D
+D$pH
+D$pH
+D$pH
+D$pH
+[]A\A]A^A_
+|$PH
+T$4H
+d$PA
+T$PL
+|$8H
+D$8H
+D$PH
+AUATE1
+[]A\A]
+AWAVI
+AUATUSH
+T$8D
+D$|L
+L$pH
+[]A\A]A^A_
+D$PA
+|$ A
+D$pH
+t$pH
+|$PH
+T$4I
+t$pH
+D$pH
+D$pH
+|$P1
+\$8H
+T$8L
+D$(H
+t	H9
+D$(H
+D$(H
+L$@E
+D$ H
+D$hL
+t	H;
+l$`1
+D$ H
+D$ H
+D$ H
+T$ H
+t$ H
+D$ @
+D$ @
+D$ @
+d$ E
+d$ L
+$A9F
+L$4I
+D$@H
+D$HH
+T$@H
+T$8H
+T$(H
+D$XH
+t$ H
+AWAVAUATUSH
+t$,H
+T$ dH
+D$ H
+|$,E
+[]A\A]A^A_
+D$ H
+t$,H
+t$ H
+L$ D
+D$,L
+D$,H
+T$ H
+D$<H
+l$x1
+CLUh
+A[A\
+t$ H
+|$,A
+t$ H
+|$,A
+D$ H
+D$,H
+L$ D
+D$,1
+D$ H
+t$XH
+D$XH
+t$XH
+|$<H
+D$XE1
+puZA
+t$XH
+L$<H
+t$XH
+t$XH
+D$`H
+L$p1
+D$`H
+D$pE
+D$xH
+t$xH
+D$xH
+L$hH
+t$xH
+t$ H
+D$xH
+t$ H
+D$ H
+t$XH
+|$<L
+Tacocat
+D$ H
+D$,H
+D$`H
+L$p1
+D$pH
+t$xH
+D$xH
+L$hH
+D$xH
+t$xH
+D$xH
+l$xH
+D$x1
+D$,L
+l$ H
+D$pH
+T$xHc
+D$pH
+|$xH
+|$xJ
+t$ H
+|$,E1
+t$ H
+|$,A
+T$,H
+D$ H
+T$@H
+t$hH
+D$hL
+t$hH
+t$hD
+L$xL
+t$ H
+T$,H
+T$DH
+l$xL
+|$DH
+D$xH
+t$ H
+D$,H
+T$ H
+D$HH
+t$pH
+t$pH
+D$pL
+D$pL
+D$,L
+D$LH
+|$PH
+|$`L
+t$LL
+D$`L
+D$`H
+tVE1
+|$`L
+t$ H
+D$ H
+l$x1
+t$ H
+D$xH
+tyE1
+l$xL
+D$<H
+D$xH
+D$xH
+D$hL
+T$xH
+t$pH
+D$hL
+ tdH
+=xC&
+AWAVA
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+ATUSL
+[]A\
+[]A\
+&USH
+[]A\
+[]A\
+ATUA
+[]A\
+[]E1
+=[@&
+AVAUI
+ATUI
+[]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+AVAUI
+ATUI
+[]A\A]A^
+ATUH
+CHZYt
+[]A\
+[]A\
+ATUH
+AVAUATUI
+ []A\A]A^
+<$E1
+AUATI
+<$E1
+<$E1
+[]A\A]
+AVAUATUI
+[]A\A]A^
+ATUI
+[]A\
+AUATUSH
+A9\$
+[]A\A]
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+ATUH
+[]A\
+[]A\
+AWAVAUATI
+[]A\A]A^A_
+AWAVAUATI
+[]A\A]A^A_
+ATUH
+[]A\
+[]A\
+AWAVAUATI
+\$hH
+D$xH
+([]A\A]A^A_
+|$pH
+|$pH
+AWAVI
+AUATI
+t	H;
+t	H;
+A9\$
+A9\$
+[]A\A]A^A_
+AWAVI
+AUAT1
+D$@H
+D$ H
+D$@H
+[]A\A]A^A_
+D$ H
+D$ H
+L$(H
+D$HH
+t	H;
+t	H;
+|$pH
+t	H9
+t	H9
+t	H9
+t	H9
+t	H9
+|$HH
+|$PH
+|$0H
+AWAVAUATUSH
+D$h1
+t$`L
+t$`H
+t$`L
+D$XD
+I;T$
+I;T$
+I;T$
+D$hdH3
+x[]A\A]A^A_
+AWAVAUATA
+D$x1
+L$xdH3
+[]A\A]A^A_
+d$8H
+l$HH
+t$HH
+|$PL
+T$<H
+T$(L
+T$PE1
+D$  
+^_f.
+d$4H
+d$PH
+t$XH
+t$XH
+|$PE1
+CLtwL
+d$<H
+t$XH
+|$PL
+D$PL
+t$PH
+D$PH
+T$XH
+t$HH
+t$HA
+|$XH
+t$PH
+D$PH
+t$PH
+D$PH
+T$XH
+t$HH
+D$HA
+t$HH
+D$Hu
+t$HH
+D$X1
+|$`E1
+AXAY
+|$`E1
+t$HH
+t$HH
+t$HH
+auPA
+ATUI
+[]A\
+ATUS
+<nu:
+[]A\
+[]A\
+[]A\
+tsv9
+AWAVA
+AUATA
+Cxt|
+([]A\A]A^A_
+AUATUSH
+[]A\A]1
+[]A\A]
+[]A\A]
+[]A\A]
+AUATUSH
+D$(1
+D$(H
+[]A\A]
+T$(1
+|$(H
+D$(1
+D$(H
+|$01
+D$ H
+|$0H
+D$@H
+D$(H
+D$0$wF
+D$P*wF
+T$(H
+t$ H
+L$(H
+T$ H
+D$(H
+T$ H
+D$(1
+L$(dH3
+ATUH
+SttH
+[]A\
+^_ti
+^_ti
+AUATI
+([]A\A]
+AVAUATUH
+[]A\A]A^
+[]A\A]A^H
+AWAVA
+AUATI
+([]A\A]A^A_
+ATUA
+[]A\
+[]A\
+AVAUI
+ATUI
+[]A\A]A^
+ATUA
+[]A\
+[]A\
+AVAUI
+ATUI
+[]A\A]A^
+AWAVI
+AUATI
+<$tHH
+([]A\A]A^A_
+AVAUI
+ATUH
+ []A\A]A^
+AWAVA
+AUATI
+([]A\A]A^A_
+ATUA
+[]A\
+[]A\
+AUATI
+D$(1
+L$(dH3
+8[]A\A]
+AVAUI
+ATUI
+[]A\A]A^
+AWAVI
+AUATI
+([]A\A]A^A_
+ATUA
+[]A\
+[]A\
+AVAUI
+ATUH
+]A\A]A^
+]A\A]A^
+AUATI
+D$(1
+L$(dH3
+8[]A\A]
+ATUI
+[]A\
+ATUSH
+[]A\
+AUATI
+[]A\A]
+AVAUI
+ATUA
+8Lt6
+ []A\A]A^
+AVAUI
+ATUI
+[]A\A]A^
+AWAVI
+AUATI
+([]A\A]A^A_
+AVAUA
+ATUH
+]A\A]A^
+AVAUI
+St*H
+]A\A]A^
+]A\A]A^
+]A\A]A^
+AVAUI
+St*H
+]A\A]A^
+]A\A]A^
+]A\A]A^
+AWAVAUATE1
+[]A\A]A^A_
+[]A\
+AVAUI
+St*H
+]A\A]A^
+]A\A]A^
+]A\A]A^
+AVAUI
+St*H
+]A\A]A^
+]A\A]A^
+]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+AVAUI
+ATUI
+ []A\A]A^
+AVAUI
+ATUI
+[]A\A]A^
+AVAUI
+ATUI
+D$(1
+L$(dH3
+0[]A\A]A^
+8Lt9
+|$ 1
+AWAVAUATUSH
+[]A\A]A^A_
+AUATI
+[]A\A]
+AWAVAUATUSH
+D$(1
+L$(dH3
+8[]A\A]A^A_
+D$ I9
+L$ u
+D$ H
+H9D$
+L$,1
+|$ I
+AUATI
+8Lt4
+XZE1
+([]A\A]
+AVAUI
+ATUI
+[]A\A]A^
+AVAUI
+ATUI
+[]A\A]A^
+AVAUI
+ATUH
+ []A\A]A^
+ATUA
+[]A\
+[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+=!7%
+ATUSH
+dH34%(
+ []A\
+AWAVAUATI
+$t+H
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AUATUSH
+([]A\A]
+AVAUI
+ATUI
+D$(1
+L$(dH3
+0[]A\A]A^
+8Lt3
+|$ 1
+AWAVAUATI
+[]A\A]A^A_
+AWAVAUATI
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+AUATI
+[]A\A]
+AUATI
+[]A\A]
+AUATI
+[]A\A]
+AUATI
+[]A\A]
+AUATI
+[]A\A]
+|$pH
+|$pH
+[]A\A]
+AUATI
+[]A\A]
+|$pH
+|$pH
+[]A\A]
+AUATI
+[]A\A]
+|$pH
+|$pH
+[]A\A]
+AUATI
+[]A\A]
+|$pH
+|$pH
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+AVAUA
+ATUH
+]A\A]A^
+|$pH
+|$pH
+]A\A]A^
+AUATI
+[]A\A]
+|$pH
+|$pH
+[]A\A]
+AUATI
+[]A\A]
+alula
+|$pH
+|$pH
+[]A\A]
+AUATI
+[]A\A]
+|$pH
+|$pH
+[]A\A]
+AUATI
+[]A\A]
+|$pH
+|$pH
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+|$pH
+|$pH
+[]A\A]
+AUATI
+[]A\A]
+|$pH
+|$pH
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+|$pH
+|$pH
+[]A\A]
+AWAVAUATI
+D$H1
+L$HdH3
+X[]A\A]A^A_
+t$ 1
+H;D$(
+H;D$0@
+AWAVI
+AUATI
+[]A\A]A^A_
+D9d$
+<Et0<Ot$H
+<Nu31
+ATUSH
+]A\A]A^
+]A\A]A^
+]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+AVAUI
+ATUH
+[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+AVAUI
+ATUH
+ []A\A]A^
+AVAUA
+ATUH
+]A\A]A^
+|$pH
+|$pH
+]A\A]A^
+AVAUA
+ATUH
+]A\A]A^
+|$pH
+|$pH
+]A\A]A^
+AVAUA
+ATUH
+]A\A]A^
+|$pH
+|$pH
+]A\A]A^
+AVAUA
+ATUH
+]A\A]A^
+|$pH
+|$pH
+]A\A]A^
+AVAUA
+ATUH
+]A\A]A^
+|$pH
+|$pH
+]A\A]A^
+St'H
+[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+AVAUI
+ATUI
+[]A\A]A^
+AUATI
+[]A\A]
+AUATI
+[]A\A]
+AWAVI
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AUATM
+[]A\A]
+[]A\A]
+AUATM
+[]A\A]
+[]A\A]
+AUATM
+[]A\A]
+[]A\A]
+AUATM
+D$(1
+L$(dH3
+8[]A\A]
+ATUM
+[]A\
+AUATM
+D$(1
+L$(dH3
+8[]A\A]
+ATUM
+[]A\
+ATUM
+[]A\
+AWAVI
+AUATM
+[]A\A]A^A_
+AVAUI
+]A\A]A^
+]A\A]A^
+AUATI
+[]A\A]
+|$pH
+|$pH
+[]A\A]
+AUATI
+[]A\A]
+ w:H
+[]A\A]
+[]A\A]
+AVAUI
+ATUI
+[]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+AVAUATUL
+[]A\A]A^
+AVAUATUL
+[]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+AVAUATUL
+[]A\A]A^
+AVAUATUL
+[]A\A]A^
+AUATM
+[]A\A]
+[]A\A]
+AUATM
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+ATUM
+ []A\
+ATUM
+[]A\
+AVAUI
+ATUI
+[]A\A]A^
+AUATI
+[]A\A]
+|$pH
+|$pH
+[]A\A]
+AUATI
+[]A\A]
+|$pH
+|$pH
+[]A\A]
+AUATI
+[]A\A]
+|$pH
+|$pH
+[]A\A]
+St'H
+[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+St'H
+[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+ATUI
+D$(1
+L$(dH3
+0[]A\
+ATUI
+D$(1
+L$(dH3
+0[]A\
+ATUI
+D$(1
+L$(dH3
+0[]A\
+ATUI
+D$(1
+L$(dH3
+0[]A\
+L$ H
+du^f
+ATUI
+D$(1
+L$(dH3
+0[]A\
+ATUI
+D$(1
+L$(dH3
+0[]A\
+tWre
+AUATM
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+St'H
+[]A\A]A^
+[]A\A]A^
+[]A\A]A^
+AUATM
+[]A\A]
+[]A\A]
+ATUL
+[]A\
+AUATM
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+AVAUA
+ATUH
+]A\A]A^
+|$pH
+|$pH
+]A\A]A^
+AUATM
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+AUATM
+[]A\A]
+[]A\A]
+AVAUI
+St*H
+]A\A]A^
+]A\A]A^
+]A\A]A^
+AVAUI
+St*H
+]A\A]A^
+]A\A]A^
+]A\A]A^
+AVAUI
+St*H
+]A\A]A^
+]A\A]A^
+]A\A]A^
+AVAUI
+St*H
+]A\A]A^
+]A\A]A^
+]A\A]A^
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+ATU1
+[]A\
+ATU1
+[]A\
+ATU1
+[]A\
+ATU1
+[]A\
+ATU1
+tRH;S
+[]A\
+ATU1
+tRH;S
+[]A\
+AUATI
+[]A\A]
+|$pH
+|$pH
+[]A\A]
+AUATI
+[]A\A]
+|$pH
+|$pH
+[]A\A]
+D$81
+=B~$
+=s}$
+=.}$
+=_|$
+=K{$
+=|z$
+=7z$
+=hy$
+=#y$
+=Tx$
+=@w$
+=qv$
+=,v$
+=]u$
+=It$
+=zs$
+=5s$
+=fr$
+=!r$
+=Rq$
+=>p$
+=oo$
+=*o$
+=[n$
+=Gm$
+=xl$
+=3l$
+=dk$
+=Pj$
+=<i$
+=mh$
+=(h$
+=Yg$
+=Ef$
+=ve$
+=1e$
+$P(D
+$P(D
+=rN$
+=-N$
+=^M$
+=JL$
+={K$
+=6K$
+=gJ$
+="J$
+=SI$
+=?H$
+=pG$
+=+G$
+=\F$
+=HE$
+=yD$
+=4D$
+=eC$
+= C$
+=QB$
+==A$
+=n@$
+=)@$
+=Z?$
+=F>$
+=w=$
+=2=$
+=c<$
+=O;$
+=;:$
+D$8dH3
+AWAVAUATI
+[A\A]A^A_]
+= 9$
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+[]E1
+t	H;
+=(4$
+=	4$
+ATUH
+Beeb
+ []A\
+AUATI
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+ATUI
+AVAUA
+ATUI
+]A\A]A^
+]A\A]A^
+[]A\A]A^
+]A\A]A^
+AWAV
+AUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+ATUH
+[]A\
+AUATI
+[]A\A]
+[]A\A]
+^_ut
+^_ut
+AVAUI
+ATUI
+]A\A]A^
+]A\A]A^
+AWAV
+AUATI
+;-tWD
+=g$$
+([]A\A]A^A_
+ATUH
+D$81
+D$8dH3
+@[]A\
+AWAVI
+AUATUSH
+[]A\A]A^A_
+ATUI
+[]A\
+-t#1
+AWAVAUATUSH
+[]A\A]A^A_
+tNATUH
+AUATI
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+[]A\A]
+AVAUA
+ATUA
+[]A\A]A^
+[]A\A]A^
+AUATI
+dH3<%(
+([]A\A]
+AWAVA
+AUATI
+dH34%(
+([]A\A]A^A_
+AWAVA
+AUATI
+dH34%(
+([]A\A]A^A_
+AWAVAUATUSH
+([]A\A]A^A_
+u L9
+|$(I
+AUATI
+D$H1
+L$HdH3
+X[]A\A]
+t$ 1
+AUATI
+D$X1
+L$XdH3
+h[]A\A]
+t$01
+AVAUA
+ATUI
+uX[L
+]A\A]A^
+I;T$
+I;T$
+AWAV
+AUATM
+F:t#
+[]A\A]A^A_
+AWAVAUATUSH
+H;l$
+H;l$
+H;l$
+]A\A]A^A_
+tDSH
+@t%H
+AUATLc
+[]A\A]
+AWAVAUATUS
+4$dH
+L$81
+D$(t?I
+L$8dH3
+H[]A\A]A^A_
+D$ H
+l$4u
+.HcD$0H
+l$0H
+l$0I
+t$4H
+ATUH
+[]A\
+ATUI
+h0[]A\
+AWAVAUATUSH
+GPdH
+\$X1
+|$HE	
+D$XdH3
+h[]A\A]A^A_
+|$8Hc
+L$TH
+<$Hc
+t;<:
+t$@1
+4+D)
+D$<H
+D$(H
+|$0H
+|$0H
+L$8u
+T$ H
+\$TE
+D$TH
+D$(D+|$<
+t$()
+D$TE
+~#Hc
+Hc|$(
+AWAVAUATUSH
+WpdH
+Ep9X
+[]A\A]A^A_
+AUAT1
+8:t=H
+[]A\A]
+ATUSH
+D$0P
+Pj@E1
+j@j@1
+[]A\
+AWAVI
+AUAT
+{(t?H
+[]A\A]A^A_
+ATUH
+[]A\
+AWAVI
+AUATI
+A9l$
+([]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATI
+D$hH
+|$`H
+[]A\A]A^A_
+([]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+D$81
+D$8dH3
+H[]A\A]A^A_
+AWAVAUATI
+A9\$
+|$@H
+A9\$
+|$@H
+|$PL
+L$@H
+T$HH
+T$@H
+t$HH
+l$8H
+D$ L
+[]A\A]A^A_
+D$@H
+T$(H
+AWAVI
+AUATUSH
+([]A\A]A^A_
+([]A\A]A^A_
+AUATI
+"t&M
+[]A\A]
+AVAUATUH
+[]A\A]A^
+AWAVAUATA
+D$h1
+D$(5
+H9\$
+L$hdH3
+x[]A\A]A^A_
+u=E1
+|$hD
+AWAVI
+AUATI
+D$p1
+D$P%
+AQE1
+|$ H
+SAV1
+D$ PH
+L$hdH3
+x[]A\A]A^A_
+ATUSH
+[]A\
+ATUI
+H;(tLH
+[]A\
+AWAVAUATUSH
+d$pL
+|$xH
+t$`L
+[]A\A]A^A_
+L;8t_L
+([]A\A]A^A_
+AUATA
+XZt'H
+[]A\A]
+[]A\A]
+AUATA
+[]A\A]
+[]A\A]
+ATUI
+[]A\
+hh[]A\
+AWAVA
+AUATL
+[]A\A]A^A_
+Usage: nmcli agent { COMMAND | help }
+COMMAND := { secret | polkit | all }
+nmcli successfully registered as a NetworkManager's secret agent.
+Error: secret agent initialization failed
+Error: polkit agent initialization failed: %s
+nmcli successfully registered as a polkit agent.
+Error: NetworkManager is not running.
+Usage: nmcli agent secret { help }
+Runs nmcli as NetworkManager secret agent. When NetworkManager requires
+a password it asks registered agents for it. This command keeps nmcli running
+and if a password is required asks the user for it.
+Usage: nmcli agent polkit { help }
+Registers nmcli as a polkit action for the user session.
+When a polkit daemon requires an authorization, nmcli asks the user and gives
+the response back to polkit.
+Usage: nmcli agent all { help }
+Runs nmcli as both NetworkManager secret and a polkit agent.
+Error: 'agent' command '%s' is not valid.
+nmcli-agent
+request-secrets
+%s (%s): 
+polkit
+0.0.0.0
+GROUP,OPTION
+%s = %s
+invalid IP address: %s
+ip_str != NULL
+nmcli
+invalid metric '%s'
+invalid route: %s
+first != NULL
+second || !third
+connecting (configuring)
+deactivating
+unknown
+yes (guessed)
+no (guessed)
+No reason given
+Unknown error
+Device is now managed
+Device is now unmanaged
+802.1X supplicant failed
+PPP service failed to start
+PPP service disconnected
+PPP failed
+DHCP client failed to start
+DHCP client error
+DHCP client failed
+AutoIP service error
+AutoIP service failed
+The line is busy
+No dial tone
+The dialing request timed out
+The dialing attempt failed
+Modem initialization failed
+Not searching for networks
+Network registration denied
+PIN check failed
+The device was removed
+NetworkManager went to sleep
+Carrier/link changed
+The modem could not be found
+GSM Modem's SIM PIN required
+GSM Modem's SIM PUK required
+GSM Modem's SIM wrong
+ModemManager is unavailable
+DCB or FCoE setup failed
+teamd control failed
+Modem now ready and available
+SIM PIN was incorrect
+The device's parent changed
+Unknown
+invalid priority map '%s'
+priority_map != NULL
+%s-%d
+cookie
+gwcert
+other
+repeater
+mac-bridge
+wlan-access-point
+router
+telephone
+docsis-cable-device
+station-only
+c-vlan-component
+s-vlan-component
+tpmr
+reserved
+balance-rr
+active-backup
+balance-xor
+broadcast
+802.3ad
+balance-tlb
+balance-alb
+GROUP
+ADDRESS
+GATEWAY
+ROUTE
+DOMAIN
+WINS
+GROUP,ADDRESS,GATEWAY,ROUTE,DNS,DOMAIN,WINS
+dst = %s/%u, nh = %s%c mt = %u
+GROUP,ADDRESS,GATEWAY,ROUTE,DNS,DOMAIN
+invalid prefix '%s'; <1-%d> allowed
+error == NULL || *error == NULL
+the second component of route ('%s') is neither a next hop address nor a metric
+default route cannot be added (NetworkManager handles it by itself)
+family == AF_INET || family == AF_INET6
+connecting (need authentication)
+connecting (getting IP configuration)
+connecting (checking IP connectivity)
+connecting (starting secondary connections)
+The device could not be readied for configuration
+IP configuration could not be reserved (no available address, timeout, etc.)
+The IP configuration is no longer valid
+Secrets were required, but not provided
+802.1X supplicant disconnected
+802.1X supplicant configuration failed
+802.1X supplicant took too long to authenticate
+Shared connection service failed to start
+Shared connection service failed
+AutoIP service failed to start
+No carrier could be established
+Failed to select the specified APN
+Network registration timed out
+Failed to register with the requested network
+Necessary firmware for the device may be missing
+The device's active connection disappeared
+Device disconnected by user or client
+The device's existing connection was assumed
+The supplicant is now available
+The Bluetooth connection failed or timed out
+GSM Modem's SIM card not inserted
+InfiniBand device does not support connected mode
+A dependency of the connection failed
+A problem with the RFC 2684 Ethernet over ADSL bridge
+The Wi-Fi network could not be found
+A secondary connection of the base connection failed
+Modem failed or no longer available
+New connection activation was enqueued
+The device parent's management changed
+priority '%s' is not valid (<0-%ld>)
+'%s' is not a valid team configuration or file name.
+org.freedesktop.NetworkManager.openconnect
+Error: openconnect failed: %s
+Error: openconnect failed with status %d
+Error: openconnect failed with signal %d
+Warning: password for '%s' not given in 'passwd-file' and nmcli cannot ask without '--ask' option.
+nmc_vlan_parse_priority_maps
+nmc_parse_and_build_route
+nmc_parse_and_build_address
+VPN connecting (prepare)
+VPN connecting
+VPN connected
+VPN connection failed
+VPN disconnected
+s_con
+connections.c
+setting
+change
+describe
+print
+back
+quit
+temporary
+status-line
+save-confirmation
+prompt-color
+goto
+verify
+activate
+normal
+black
+green
+yellow
+blue
+magenta
+cyan
+white
+vcmux
+pppoe
+pppoa
+ipoatm
+miimon
+panu
+dun-gsm
+dun-cdma
+datagram
+infrastructure
+adhoc
+generic
+VPN type: 
+File to import: 
+802-11-wireless
+nmc != NULL
+iface || ap || nsp
+*device == NULL
+{&s@a{sv}}
+Available properties: %s
+Property name? 
+Error: property %s
+%s (%s)
+%s-slave
+(%s/%s) [%s]%s 
+Connection type: 
+Master: 
+Bonding mode [balance-rr]: 
+(miimon/arp) [miimon]: 
+(pppoa/pppoe/ipoatm): 
+(vcmux/llc) [none]: 
+(tun/tap) [tun]: 
+Tunnel mode: 
+MACVLAN mode: 
+'%s' not among [%s]
+pairwise
+NM_IS_SETTING (setting)
+Enter connection type: 
+Setting name? 
+nmcli>
+team-slave
+bridge-slave
+no-slave
+team-port
+bridge-port
+InfiniBand transport mode
+Wi-Fi mode
+ADSL encapsulation
+=== [%s] ===
+<<< %s >>>
+['%s' setting values]
+Connection profile details
+common
+Error: 'connection show': %s
+print_settings_array
+connection-added
+connection-removed
+802-11-wireless-security
+unknown device '%s'.
+wifi-sec
+wifi
+nmcli-connect
+notify::state
+vpn-state-changed
+%s (%s) cloned as %s (%s).
+ifname/
+uuid/
+%s%d
+Do you want to provide it? %s
+Error: %s
+ingress
+egress
+Error: 'master' is required.
+G_IS_PARAM_SPEC_UINT (pspec)
+manual
+Error: 
+IPv4 gateway [none]: 
+IPv6 gateway [none]: 
+deactivated
+remote != NULL
+unknown reason
+the user was disconnected
+no valid VPN secrets
+invalid VPN secrets
+the connection was removed
+apath
+InfiniBand
+Ethernet
+MTU [auto]: 
+Cloned MAC [none]: 
+cloned-mac
+nmcli> 
+eth0
+A Santa lives evil at NASA
+con-name
+.nmcli-history
+Warning: %s parse error: %s
+Valid connection types: %s
+802-3-ethernet
+nm-bond
+nm-team
+nm-bridge
+infiniband
+#777
+*99#
+adsl
+Enter '%s' value: 
+Available settings: %s
+Error: unknown setting '%s'
+nmcli %s> 
+nmcli %s.%s> 
+Edit '%s' value: 
+Unknown command: '%s'
+Error: unknown setting: '%s'
+%s.%s: %s
+Invalid verify option: %s
+Verify setting '%s': %s
+Verify connection: %s
+Error: invalid argument '%s'
+(unknown error)
+Error: status-line: %s
+Error: save-confirmation: %s
+Error: show-secrets: %s
+Error: bad color: %s
+bond-slave
+Adding a new '%s' connection
+Error: invalid property: %s
+s_con_loc
+s_con_rem
+Current nmcli configuration:
+cloned-mac-address
+Transport mode %s
+Parent interface [none]: 
+P_KEY [none]: 
+Error: 'ssid' is required.
+Wi-Fi
+Mode %s
+wimax
+WiMAX NSP name: 
+Error: 'nsp' is required.
+WiMAX
+PPPoE username: 
+PPPoE
+Password [none]: 
+Service [none]: 
+user
+APN: 
+Error: 'apn' is required.
+mobile broadband
+Username [none]: 
+bluetooth
+bt-type
+Bluetooth device address: 
+Error: 'addr' is required.
+Bluetooth type %s
+Error: 'dev' is required.
+VLAN ID <0-4094>: 
+Error: 'id' is required.
+VLAN
+VLAN flags (<0-7>) [none]: 
+Egress priority maps [none]: 
+primary
+downdelay
+updelay
+arp-interval
+arp-ip-target
+lacp-rate
+Bonding monitoring mode %s
+Bonding miimon [100]: 
+Bonding downdelay [0]: 
+Bonding updelay [0]: 
+Bonding arp-interval [0]: 
+slow
+fast
+Error: 'mode': %s.
+arp_interval
+arp_ip_target
+lacp_rate
+Enable STP %s
+Error: 'stp': %s.
+STP priority [32768]: 
+32768
+Forward delay [15]: 
+Hello time [2]: 
+Max age [20]: 
+Enable IGMP snooping %s
+Error: 'stp': %s.
+hairpin
+Bridge port priority [32]: 
+Hairpin %s
+Error: 'hairpin': %s.
+Error: 'hairpin': %s.
+vpn-type
+802-11-olpc-mesh
+dhcp-anycast
+OLPC Mesh
+OLPC Mesh channel [1]: 
+dhcp-anycast-address
+Username: 
+Protocol %s
+ADSL protocol
+ADSL
+ADSL encapsulation %s
+macvlan
+Error: 'mode' is required.
+Error: 'mode' is not valid.
+Tap %s
+Error: 'tap': %s.
+Error: 'tap': %s.
+TUN device mode
+User ID [none]: 
+Group ID [none]: 
+Enable PI %s
+Error: 'pi': %s.
+Enable VNET header %s
+Error: 'vnet-hdr': %s.
+Enable multi queue %s
+Error: 'multi-queue': %s.
+Error: 'pi': %s.
+Error: 'vnet-hdr': %s.
+Error: 'multi-queue': %s.
+ip-tunnel
+Remote endpoint: 
+Error: 'remote' is required.
+IP Tunnel
+Local endpoint [none]: 
+Parent device [none]: 
+vxlan
+VXLAN ID: 
+Remote: 
+VXLAN
+Local address [none]: 
+Minimum source port [0]: 
+Maximum source port [0]: 
+Destination port [8472]: 
+8472
+ifname
+Valid types: [%s]
+Error: 'autoconnect': %s.
+Error: 'save': %s.
+Interface name [*]: 
+%s-%s
+NAME,UUID,TYPE,DEVICE
+Xauth username
+leftxauthusername
+IPSec gateway
+right
+<invisible> %s
+never
+profile
+active
+all,
+Activate connection details
+DHCP4
+DHCP6
+%d - %s
+openvpn
+vpnc
+pptp
+openswan
+libreswan
+l2tp
+Error: %s.
+print_groups
+s_con != NULL
+show
+down
+modify
+clone
+edit
+delete
+monitor
+reload
+import
+export
+order
+'--order' argument is missing
+passwd-file
+Unknown parameter: %s
+preparing
+editor-thread
+'%s', 
+Could not load file '%s'
+Error: No arguments provided.
+New connection name: 
+Unknown parameter: %s
+Output file name: 
+/tmp/nmcli-export-temp-XXXXXX
+ipv4
+ipv6
+802-1x
+serial
+GENERAL
+USERNAME
+BANNER
+VPN-STATE
+DEVICES
+DEFAULT
+DEFAULT6
+SPEC-OBJECT
+DBUS-PATH
+CON-PATH
+ZONE
+MASTER-PATH
+TIMESTAMP
+TIMESTAMP-REAL
+AUTOCONNECT
+AUTOCONNECT-PRIORITY
+READONLY
+ACTIVE
+ACTIVE-PATH
+VPN connecting (need authentication)
+VPN connecting (getting IP configuration)
+%s: connection profile changed
+[ Type: %s | Name: %s | UUID: %s | Dirty: %s | Temp: %s ]
+Connection (name, UUID, or path): 
+Connection(s) (name, UUID, or path): 
+Connection(s) (name, UUID, path or apath): 
+VPN connection (name, UUID, or path): 
+no active connection on device '%s'
+no active connection or device
+device '%s' not compatible with connection '%s'
+no device found for connection '%s'
+device != NULL && *device == NULL
+spec_object != NULL && *spec_object == NULL
+Do nine men interpret Nine men I nod
+The connection is not saved. Do you really want to quit? %s
+(infrastructure/ap/adhoc) [infrastructure]: 
+(datagram/connected) [datagram]: 
+(panu/dun-gsm/dun-cdma) [panu]: 
+Error updating secrets for %s: %s
+Usage: nmcli connection { COMMAND | help }
+COMMAND := { show | up | down | add | modify | edit | delete | monitor | reload | load }
+  show [--active] [--order <order spec>]
+  show [--active] [id | uuid | path | apath] <ID> ...
+  up [[id | uuid | path] <ID>] [ifname <ifname>] [ap <BSSID>] [passwd-file <file with passwords>]
+  down [id | uuid | path | apath] <ID> ...
+  add COMMON_OPTIONS TYPE_SPECIFIC_OPTIONS SLAVE_OPTIONS IP_OPTIONS [-- ([+|-]<setting>.<property> <value>)+]
+  modify [--temporary] [id | uuid | path] <ID> ([+|-]<setting>.<property> <value>)+
+  clone [--temporary] [id | uuid | path ] <ID> <new name>
+  edit [id | uuid | path] <ID>
+  edit [type <new_con_type>] [con-name <new_con_name>]
+  delete [id | uuid | path] <ID>
+  monitor [id | uuid | path] <ID> ...
+  reload
+  load <filename> [ <filename>... ]
+  import [--temporary] type <type> file <file to import>
+  export [id | uuid | path] <ID> [<output file>]
+Error: '%s': '%s' is not a valid %s %s.
+Connection successfully activated (D-Bus active path: %s)
+Error: Connection activation failed.
+Error: <setting>.<property> argument is missing.
+Error: value for '%s' is missing.
+Error: invalid <setting>.<property> '%s'.
+Error: invalid or not allowed setting '%s': %s.
+Error: don't know how to create '%s' setting.
+Error: invalid property '%s': %s.
+Error: failed to modify %s.%s: %s.
+Error: failed to remove a value from %s.%s: %s.
+connection,802-3-ethernet,802-1x,802-11-wireless,802-11-wireless-security,ipv4,ipv6,serial,ppp,pppoe,adsl,gsm,cdma,bluetooth,802-11-olpc-mesh,vpn,infiniband,bond,vlan,bridge,bridge-port,team,team-port,dcb,tun,ip-tunnel,macvlan,vxlan
+Error: %s argument is missing.
+Error: unknown connection '%s'
+Error: not all connections found.
+%s: connection profile created
+neither a valid connection nor device given
+failed to read passwd-file '%s': %s
+missing colon in 'password' entry '%s'
+missing dot in 'password' entry '%s'
+invalid setting name in 'password' entry '%s'
+Error: Timeout %d sec expired.
+Connection successfully activated (master waiting for slaves) (D-Bus active path: %s)
+Error: Connection activation failed.
+Error: Failed to add '%s' connection: %s
+Connection '%s' (%s) successfully added.
+Error: Failed to modify connection '%s': %s
+Connection '%s' (%s) successfully modified.
+Error: Connection activation failed: %s
+%s: connection profile removed
+Warning: master='%s' doesn't refer to any existing profile.
+There are %d optional arguments for '%s' connection type.
+There is %d optional argument for '%s' connection type.
+Do you want to provide them? %s
+Team JSON configuration [none]: 
+Error: '%s': '%s' is not valid; %s 
+Warning: 'type' is ignored. Use 'nmcli connection add "%s" ...' instead.
+Error: redundant 'master' option.
+Error: '%s': '%s' is not valid; use <%u-%u>.
+IPv4 address (IP[/plen]) [none]: 
+IPv6 address (IP[/plen]) [none]: 
+  Address successfully added: %s
+  Warning: address already present: %s
+  Warning: ignoring garbage at the end: '%s'
+Error: invalid gateway address '%s'
+Error: 'mtu': '%s' is not a valid MTU.
+Error: 'flags': '%s' is not valid; use <0-7>.
+Error: '%s' is not a valid UID/GID.
+Error: setting '%s' is mandatory and cannot be removed.
+VPN connection successfully activated (D-Bus active path: %s)
+the base network connection was interrupted
+the VPN service stopped unexpectedly
+the VPN service returned invalid configuration
+the connection attempt timed out
+the VPN service did not start in time
+the VPN service failed to start
+Error: Connection activation failed: %s.
+Connection '%s' (%s) successfully deleted.
+Error: not all connections deleted.
+Error: Connection deletion failed: %s
+Connection '%s' successfully deactivated (D-Bus active path: %s)
+Error: 'parent': '%s' is not a valid interface name.
+Error: 'p-key': '%s' is not a valid InfiniBand P_KEY.
+Error: '%s': '%s' is not a valid %s MAC address.
+type == ARPHRD_ETHER || type == ARPHRD_INFINIBAND
+Error: only one of 'id', uuid, or 'path' can be provided.
+Error: Unknown connection '%s'.
+Warning: editing existing connection '%s'; 'type' argument is ignored
+Warning: editing existing connection '%s'; 'con-name' argument is ignored
+Error: invalid connection type; %s
+Type 'help' or '?' for available commands.
+Type 'describe [<setting>.<prop>]' for detailed property description.
+You may edit the following settings: %s
+The connection profile has been removed from another client. You may type 'save' to restore it.
+Allowed values for '%s' property: %s
+Error: failed to set '%s' property: %s
+Error: no setting selected; valid are [%s]
+use 'goto <setting>' first, or 'set <setting>.<property>'
+Error: invalid setting argument '%s'; valid are [%s]
+Error: missing setting for '%s' property
+Error: invalid setting name; %s
+You may edit the following properties: %s
+The connection profile has been removed from another client. You may type 'save' in the main menu to restore it.
+Error: failed to remove value of '%s': %s
+Unknown command argument: '%s'
+------------------------------------------------------------------------------
+---[ Property menu ]---
+set      [<value>]               :: set new value
+add      [<value>]               :: add new option to the property
+change                           :: change current value
+remove   [<index> | <option>]    :: delete the value
+describe                         :: describe property
+print    [setting | connection]  :: print property (setting/connection) value(s)
+back                             :: go to upper level
+help/?   [<command>]             :: print this help or command description
+quit                             :: exit nmcli
+set [<value>]  :: set new value
+This command sets provided <value> to this property
+add [<value>]  :: append new value to the property
+This command adds provided <value> to this property, if the property is of a container type. For single-valued properties the property value is replaced (same as 'set').
+change  :: change current value
+Displays current value and allows editing it.
+remove [<value>|<index>|<option name>]  :: delete the value
+Removes the property value. For single-valued properties, this sets the
+property back to its default value. For container-type properties, this removes
+all the values of that property, or you can specify an argument to remove just
+a single item or option. The argument is either a value or index of the item to
+remove, or an option name (for properties with named options).
+Examples: nmcli ipv4.dns> remove 8.8.8.8
+          nmcli ipv4.dns> remove 2
+          nmcli bond.options> remove downdelay
+describe  :: describe property
+Shows property description. You can consult nm-settings(5) manual page to see all NM settings and properties.
+print [property|setting|connection]  :: print property (setting, connection) value(s)
+Shows property value. Providing an argument you can also display values for the whole setting or connection.
+back  :: go to upper menu level
+help/? [<command>]  :: help for nmcli commands
+quit  :: exit nmcli
+This command exits nmcli. When the connection being edited is not saved, the user is asked to confirm the action.
+Error: no argument given; valid are [%s]
+Setting '%s' is not present in the connection.
+Error: %s properties, nor it is a setting name.
+use 'goto <setting>' first, or 'describe <setting>.<property>'
+Error: invalid property: %s, neither a valid setting name.
+Error: '%s' setting not present in the connection
+, neither a valid setting name
+Error: invalid property: %s%s
+The error cannot be fixed automatically.
+Saving the connection with 'autoconnect=yes'. That might result in an immediate activation of the connection.
+Do you still want to save? %s
+Error: Failed to save '%s' (%s) connection: %s
+Connection '%s' (%s) successfully saved.
+Connection '%s' (%s) successfully updated.
+Error: connection verification failed: %s
+You may try running 'verify fix' to fix errors.
+Error: connection is not saved. Type 'save' first.
+Error: connection is not valid: %s
+Error: Cannot activate connection: %s.
+Error: Failed to activate '%s' (%s) connection: %s
+Monitoring connection activation (press any key to continue)
+---[ Main menu ]---
+goto     [<setting> | <prop>]        :: go to a setting or property
+remove   <setting>[.<prop>] | <prop> :: remove setting or reset property value
+set      [<setting>.<prop> <value>]  :: set property value
+describe [<setting>.<prop>]          :: describe property
+print    [all | <setting>[.<prop>]]  :: print the connection
+verify   [all | fix]                 :: verify the connection
+save     [persistent|temporary]      :: save the connection
+activate [<ifname>] [/<ap>|<nsp>]    :: activate the connection
+back                                 :: go one level up (back)
+help/?   [<command>]                 :: print this help
+nmcli    <conf-option> <value>       :: nmcli configuration
+quit                                 :: exit nmcli
+goto <setting>[.<prop>] | <prop>  :: enter setting/property for editing
+This command enters into a setting or property for editing it.
+Examples: nmcli> goto connection
+          nmcli connection> goto secondaries
+          nmcli> goto ipv4.addresses
+remove <setting>[.<prop>]  :: remove setting or reset property value
+This command removes an entire setting from the connection, or if a property
+is given, resets that property to the default value.
+Examples: nmcli> remove wifi-sec
+          nmcli> remove eth.mtu
+set [<setting>.<prop> <value>]  :: set property value
+This command sets property value.
+Example: nmcli> set con.id My connection
+describe [<setting>.<prop>]  :: describe property
+Shows property description. You can consult nm-settings(5) manual page to see all NM settings and properties.
+print [all]  :: print setting or connection values
+Shows current property or the whole connection.
+Example: nmcli ipv4> print all
+verify [all | fix]  :: verify setting or connection validity
+Verifies whether the setting or connection is valid and can be saved later.
+It indicates invalid values on error. Some errors may be fixed automatically
+by 'fix' option.
+Examples: nmcli> verify
+          nmcli> verify fix
+          nmcli bond> verify
+save [persistent|temporary]  :: save the connection
+Sends the connection profile to NetworkManager that either will save it
+persistently, or will only keep it in memory. 'save' without an argument
+means 'save persistent'.
+Note that once you save the profile persistently those settings are saved
+across reboot or restart. Subsequent changes can also be temporary or
+persistent, but any temporary changes will not persist across reboot or
+restart. If you want to fully remove the persistent connection, the connection
+profile must be deleted.
+activate [<ifname>] [/<ap>|<nsp>]  :: activate the connection
+Activates the connection.
+Available options:
+<ifname>    - device the connection will be activated on
+/<ap>|<nsp> - AP (Wi-Fi) or NSP (WiMAX) (prepend with / when <ifname> is not specified)
+help/? [<command>]  :: help for the nmcli commands
+nmcli [<conf-option> <value>]  :: nmcli configuration
+Configures nmcli. The following options are available:
+status-line yes | no          [default: no]
+save-confirmation yes | no    [default: yes]
+show-secrets yes | no         [default: no]
+prompt-color <color> | <0-8>  [default: 0]
+Examples: nmcli> nmcli status-line yes
+          nmcli> nmcli save-confirmation no
+          nmcli> nmcli prompt-color 3
+  0 = normal
+  1 = 
+[30mblack
+  2 = 
+[31mred
+  3 = 
+[32mgreen
+  4 = 
+[33myellow
+  5 = 
+[34mblue
+  6 = 
+[35mmagenta
+  7 = 
+[36mcyan
+  8 = 
+[37mwhite
+status-line: %s
+save-confirmation: %s
+show-secrets: %s
+prompt-color: %d
+Invalid configuration option '%s'; allowed [%s]
+status-line, save-confirmation, show-secrets, prompt-color
+===| nmcli interactive connection editor |===
+Editing existing '%s' connection: '%s'
+Error: 'p-key' is mandatory when 'parent' is specified.
+Error: 'parent': not valid without 'p-key'.
+Error: 'username' is required.
+Error: 'bt-type': '%s' is not a valid bluetooth type.
+Error: 'bt-type': '%s' not valid; use [%s, %s (%s), %s].
+VLAN parent device or connection UUID: 
+Error: 'id': '%s' is not valid; use <0-4094>.
+Error: 'dev': '%s' is neither UUID, interface name, nor MAC.
+Ingress priority maps [none]: 
+Bonding primary interface [none]: 
+Bonding arp-ip-target [none]: 
+LACP rate ('slow' or 'fast') [slow]: 
+Error: 'primary': '%s' is not a valid interface name.
+Error: 'priority': '%s' is not a valid number <0-%d>.
+Error: 'forward-delay': '%s' is not a valid number <2-30>.
+Error: 'hello-time': '%s' is not a valid number <1-10>.
+Error: 'max-age': '%s' is not a valid number <6-40>.
+MAC address ageing time [300]: 
+Error: 'ageing-time': '%s' is not a valid number <0-1000000>.
+Error: 'multicast-snooping': %s.
+Error: 'multicast-snooping': %s.
+Bridge port STP path cost [100]: 
+Error: 'vpn-type' is required.
+Warning: 'vpn-type': %s not known.
+DHCP anycast MAC address [none]: 
+Error: 'channel': '%s' is not valid; use <1-13>.
+Error: 'protocol' is required.
+MACVLAN parent device or connection UUID: 
+Error: 'mode': '%s' is not valid, use one of %s
+Error: 'remote': '%s' is not valid; must be an IP address
+Error: 'local': '%s' is not valid; must be an IP address
+Error: 'dev': '%s' is neither UUID nor interface name.
+Error: 'id': '%s' is not valid; use <0-16777215>.
+Error: 'source-port-min': '%s' is not a valid number <0-65535>.
+Error: 'source-port-max': '%s' is not a valid number <0-65535>.
+Error: 'destination-port': '%s' is not a valid number <0-65535>.
+Error: 'remote': '%s' is not a valid IP address
+Error: 'local': '%s' is not a valid IP address
+Error: 'source-port-min': %s is not valid; use <0-65535>.
+Error: 'source-port-max': %s is not valid; use <0-65535>.
+Error: 'destination-port': %s is not valid; use <0-65535>.
+Error: '%s' is not a valid connection type.
+Error: IPv4 gateway specified without IPv4 addresses
+Error: multiple IPv4 gateways specified
+Error: Invalid IPv4 gateway '%s'
+Error: IPv6 gateway specified without IPv6 addresses
+Error: multiple IPv6 gateways specified
+Error: Invalid IPv6 gateway '%s'
+Do you want to add IP addresses? %s
+Press <Enter> to finish adding addresses.
+Error: 'primary': '%s' is not a valid interface name.
+Error: '%s' is not a valid monitoring mode; use '%s' or '%s'.
+Error: 'miimon': '%s' is not a valid number <0-%u>.
+Error: 'downdelay': '%s' is not a valid number <0-%u>.
+Error: 'updelay': '%s' is not a valid number <0-%u>.
+Error: 'arp-interval': '%s' is not a valid number <0-%u>.
+Error: 'lacp_rate': '%s' is invalid ('slow' or 'fast').
+Error: 'channel': '%s' is not a valid number <1-13>.
+Error: 'local': '%s' is not valid; must be an IP address
+Error: 'dev': '%s' is neither UUID nor interface name.
+Error: 'local': '%s' is not a valid IP address.
+Error: 'type' argument is required.
+Error: invalid connection type; %s.
+Error: 'ifname' argument is required.
+Error: mandatory 'ifname' not seen before '%s'.
+Error: 'ifname': '%s' is not a valid interface nor '*'.
+NAME,UUID,TYPE,TIMESTAMP,TIMESTAMP-REAL,AUTOCONNECT,AUTOCONNECT-PRIORITY,READONLY,DBUS-PATH,ACTIVE,DEVICE,STATE,ACTIVE-PATH
+GENERAL,IP4,DHCP4,IP6,DHCP6,VPN
+GROUP,NAME,UUID,DEVICES,STATE,DEFAULT,DEFAULT6,VPN,ZONE,DBUS-PATH,CON-PATH,SPEC-OBJECT,MASTER-PATH
+GROUP,TYPE,USERNAME,GATEWAY,BANNER,VPN-STATE,CFG
+NetworkManager active profiles
+NetworkManager connection profiles
+invalid field '%s'; allowed fields: %s and %s, or %s,%s
+Error: %s - no such connection profile.
+Usage: nmcli connection show { ARGUMENTS | help }
+ARGUMENTS := [--active] [--order <order spec>]
+List in-memory and on-disk connection profiles, some of which may also be
+active if a device is using that connection profile. Without a parameter, all
+profiles are listed. When --active option is specified, only the active
+profiles are shown. --order allows custom connection ordering (see manual page).
+ARGUMENTS := [--active] [id | uuid | path | apath] <ID> ...
+Show details for specified connections. By default, both static configuration
+and active connection data are displayed. It is possible to filter the output
+using global '--fields' option. Refer to the manual page for more information.
+When --active option is specified, only the active profiles are taken into
+account. Use global --show-secrets option to reveal associated secrets as well.
+Usage: nmcli connection up { ARGUMENTS | help }
+ARGUMENTS := [id | uuid | path] <ID> [ifname <ifname>] [ap <BSSID>] [nsp <name>] [passwd-file <file with passwords>]
+Activate a connection on a device. The profile to activate is identified by its
+name, UUID or D-Bus path.
+ARGUMENTS := ifname <ifname> [ap <BSSID>] [nsp <name>] [passwd-file <file with passwords>]
+Activate a device with a connection. The connection profile is selected
+automatically by NetworkManager.
+ifname      - specifies the device to active the connection on
+ap          - specifies AP to connect to (only valid for Wi-Fi)
+nsp         - specifies NSP to connect to (only valid for WiMAX)
+passwd-file - file with password(s) required to activate the connection
+Usage: nmcli connection down { ARGUMENTS | help }
+ARGUMENTS := [id | uuid | path | apath] <ID> ...
+Deactivate a connection from a device (without preventing the device from
+further auto-activation). The profile to deactivate is identified by its name,
+UUID or D-Bus path.
+Usage: nmcli connection add { ARGUMENTS | help }
+ARGUMENTS := COMMON_OPTIONS TYPE_SPECIFIC_OPTIONS SLAVE_OPTIONS IP_OPTIONS [-- ([+|-]<setting>.<property> <value>)+]
+  COMMON_OPTIONS:
+                  type <type>
+                  ifname <interface name> | "*"
+                  [con-name <connection name>]
+                  [autoconnect yes|no]
+                  [save yes|no]
+                  [master <master (ifname, or connection UUID or name)>]
+                  [slave-type <master connection type>]
+  TYPE_SPECIFIC_OPTIONS:
+    ethernet:     [mac <MAC address>]
+                  [cloned-mac <cloned MAC address>]
+                  [mtu <MTU>]
+    wifi:         ssid <SSID>
+                  [mac <MAC address>]
+                  [cloned-mac <cloned MAC address>]
+                  [mtu <MTU>]
+                  [mode infrastructure|ap|adhoc]
+    wimax:        [mac <MAC address>]
+                  [nsp <NSP>]
+    pppoe:        username <PPPoE username>
+                  [password <PPPoE password>]
+                  [service <PPPoE service name>]
+                  [mtu <MTU>]
+                  [mac <MAC address>]
+    gsm:          apn <APN>
+                  [user <username>]
+                  [password <password>]
+    cdma:         [user <username>]
+                  [password <password>]
+    infiniband:   [mac <MAC address>]
+                  [mtu <MTU>]
+                  [transport-mode datagram | connected]
+                  [parent <ifname>]
+                  [p-key <IPoIB P_Key>]
+    bluetooth:    [addr <bluetooth address>]
+                  [bt-type panu|dun-gsm|dun-cdma]
+    vlan:         dev <parent device (connection UUID, ifname, or MAC)>
+                  id <VLAN ID>
+                  [flags <VLAN flags>]
+                  [ingress <ingress priority mapping>]
+                  [egress <egress priority mapping>]
+                  [mtu <MTU>]
+    bond:         [mode balance-rr (0) | active-backup (1) | balance-xor (2) | broadcast (3) |
+                        802.3ad    (4) | balance-tlb   (5) | balance-alb (6)]
+                  [primary <ifname>]
+                  [miimon <num>]
+                  [downdelay <num>]
+                  [updelay <num>]
+                  [arp-interval <num>]
+                  [arp-ip-target <num>]
+                  [lacp-rate slow (0) | fast (1)]
+    bond-slave:   master <master (ifname, or connection UUID or name)>
+    team:         [config <file>|<raw JSON data>]
+    team-slave:   master <master (ifname, or connection UUID or name)>
+                  [config <file>|<raw JSON data>]
+    bridge:       [stp yes|no]
+                  [priority <num>]
+                  [forward-delay <2-30>]
+                  [hello-time <1-10>]
+                  [max-age <6-40>]
+                  [ageing-time <0-1000000>]
+                  [multicast-snooping yes|no]
+                  [mac <MAC address>]
+    bridge-slave: master <master (ifname, or connection UUID or name)>
+                  [priority <0-63>]
+                  [path-cost <1-65535>]
+                  [hairpin yes|no]
+    vpn:          vpn-type vpnc|openvpn|pptp|openconnect|openswan|libreswan|ssh|l2tp|iodine|...
+                  [user <username>]
+    olpc-mesh:    ssid <SSID>
+                  [channel <1-13>]
+                  [dhcp-anycast <MAC address>]
+    adsl:         username <username>
+                  protocol pppoa|pppoe|ipoatm
+                  [password <password>]
+                  [encapsulation vcmux|llc]
+    tun:          mode tun|tap
+                  [owner <UID>]
+                  [group <GID>]
+                  [pi yes|no]
+                  [vnet-hdr yes|no]
+                  [multi-queue yes|no]
+    ip-tunnel:    mode ipip|gre|sit|isatap|vti|ip6ip6|ipip6|ip6gre|vti6
+                  remote <remote endpoint IP>
+                  [local <local endpoint IP>]
+                  [dev <parent device (ifname or connection UUID)>]
+    macvlan:      dev <parent device (connection UUID, ifname, or MAC)>
+                  mode vepa|bridge|private|passthru|source
+                  [tap yes|no]
+    vxlan:        id <VXLAN ID>
+                  remote <IP of multicast group or remote address>
+                  [local <source IP>]
+                  [dev <parent device (ifname or connection UUID)>]
+                  [source-port-min <0-65535>]
+                  [source-port-max <0-65535>]
+                  [destination-port <0-65535>]
+  SLAVE_OPTIONS:
+    bridge:       [priority <0-63>]
+                  [path-cost <1-65535>]
+                  [hairpin yes|no]
+    team:         [config <file>|<raw JSON data>]
+  IP_OPTIONS:
+                  [ip4 <IPv4 address>] [gw4 <IPv4 gateway>]
+                  [ip6 <IPv6 address>] [gw6 <IPv6 gateway>]
+Usage: nmcli connection modify { ARGUMENTS | help }
+ARGUMENTS := [id | uuid | path] <ID> ([+|-]<setting>.<property> <value>)+
+Modify one or more properties of the connection profile.
+The profile is identified by its name, UUID or D-Bus path. For multi-valued
+properties you can use optional '+' or '-' prefix to the property name.
+The '+' sign allows appending items instead of overwriting the whole value.
+The '-' sign allows removing selected items instead of the whole value.
+Examples:
+nmcli con mod home-wifi wifi.ssid rakosnicek
+nmcli con mod em1-1 ipv4.method manual ipv4.addr "192.168.1.2/24, 10.10.1.5/8"
+nmcli con mod em1-1 +ipv4.dns 8.8.4.4
+nmcli con mod em1-1 -ipv4.dns 1
+nmcli con mod em1-1 -ipv6.addr "abbe::cafe/56"
+nmcli con mod bond0 +bond.options mii=500
+nmcli con mod bond0 -bond.options downdelay
+Usage: nmcli connection clone { ARGUMENTS | help }
+ARGUMENTS := [--temporary] [id | uuid | path] <ID> <new name>
+Clone an existing connection profile. The newly created connection will be
+the exact copy of the <ID>, except the uuid property (will be generated) and
+id (provided as <new name> argument).
+Usage: nmcli connection edit { ARGUMENTS | help }
+ARGUMENTS := [id | uuid | path] <ID>
+Edit an existing connection profile in an interactive editor.
+The profile is identified by its name, UUID or D-Bus path
+ARGUMENTS := [type <new connection type>] [con-name <new connection name>]
+Add a new connection profile in an interactive editor.
+Usage: nmcli connection delete { ARGUMENTS | help }
+ARGUMENTS := [id | uuid | path] <ID>
+Delete a connection profile.
+The profile is identified by its name, UUID or D-Bus path.
+Usage: nmcli connection monitor { ARGUMENTS | help }
+ARGUMENTS := [id | uuid | path] <ID> ...
+Monitor connection profile activity.
+This command prints a line whenever the specified connection changes.
+Monitors all connection profiles in case none is specified.
+Usage: nmcli connection reload { help }
+Reload all connection files from disk.
+Usage: nmcli connection load { ARGUMENTS | help }
+ARGUMENTS := <filename> [<filename>...]
+Load/reload one or more connection files from disk. Use this after manually
+editing a connection file to ensure that NetworkManager is aware of its latest
+state.
+Usage: nmcli connection import { ARGUMENTS | help }
+ARGUMENTS := [--temporary] type <type> file <file to import>
+Import an external/foreign configuration as a NetworkManager connection profile.
+The type of the input file is specified by type option.
+Only VPN configurations are supported at the moment. The configuration
+is imported by NetworkManager VPN plugins.
+Usage: nmcli connection export { ARGUMENTS | help }
+ARGUMENTS := [id | uuid | path] <ID> [<output file>]
+Export a connection. Only VPN connections are supported at the moment.
+The data are directed to standard output or to a file if a name is given.
+incorrect string '%s' of '--order' option
+incorrect item '%s' in '--order' option
+Error: Connection '%s' does not exist.
+Error: No connection specified.
+Error: '%s' is not an active connection.
+Error: not all active connections found.
+Error: no active connection provided.
+Error: no connection provided.
+Error: cannot delete unknown connection(s): %s.
+Error: failed to reload connections: %s.
+Error: failed to load connection: %s.
+Error: connection ID is missing.
+Error: <new name> argument is missing.
+Error: unexpected extra argument '%s'.
+Warning: 'type' already specified, ignoring extra one.
+Warning: 'file' already specified, ignoring extra one.
+Error: 'file' argument is required.
+Error: failed to load VPN plugin: %s.
+Error: failed to import '%s': %s.
+Error: unknown extra argument: '%s'.
+Error: the connection is not VPN.
+Error: failed to create temporary file %s.
+Error: failed to read temporary file '%s': %s.
+Error: '%s' is not valid 'connection' command.
+Error: failed to export '%s': %s.
+do_connection_clone
+read_connection_properties
+check_mac
+bridge_prop_string_to_uint
+complete_connection_by_type
+normalized_master_for_slave
+gen_func_master_ifnames
+fill_output_active_connection
+nmc_active_connection_details
+fill_output_connection
+nmc_activate_connection
+refresh_remote_connection
+confirm_connection_saving
+nmc_connection_profile_details
+is_setting_mandatory
+connection_remove_setting
+editor_show_status_line
+editor_init_new_connection
+check_valid_name
+_setting_property_is_boolean
+get_default_active_connection
+find_device_for_connection
+do_connection_edit
+Interface: 
+Interface(s): 
+%s: using connection '%s'
+pair_wpe40
+pair_wpe104
+pair_tkip
+pair_ccmp
+group_wpe40
+group_wpe104
+group_tkip
+group_ccmp
+802.1X
+notify::active-connection
+devices.c
+%s: device removed
+%s: device created
+Error: not all devices found.
+device-added
+device-removed
+NM_IS_DEVICE_WIFI (device)
+SSID or BSSID: 
+wep-key-type
+private
+Error: %s: %s.
+Error: No Wi-Fi device found.
+a{sv}
+Password: 
+Error: '%s' cannot repeat.
+Device LLDP neighbors
+NEIGHBOR[%d]
+chassis-id
+port-id
+port-description
+system-name
+system-description
+system-capabilities
+%u (%s)
+ieee-802-1-pvid
+ieee-802-1-ppvid
+ieee-802-1-ppvid-flags
+ieee-802-1-vid
+ieee-802-1-vlan-name
+destination
+chassis-id-type
+port-id-type
+Error: 'device lldp list': %s
+Error: Device '%s' not found.
+DEVICE,TYPE,STATE,CONNECTION
+Error: 'device status': %s
+Status of devices
+NAME,SLAVES
+NAME,CARRIER,S390-SUBCHANNELS
+NAME,PARENT,ID
+NAME,CAPABILITIES
+Device details
+Error: 'device show': %s
+%d (%s)
+%u Mb/s
+%s | %s
+%s/{
+%u MHz
+%u Mbit/s
+WPA1
+WPA2
+AP[%d]
+Ad-Hoc
+Infra
+Wi-Fi scan list
+hwaddr
+Error: 'device wifi': %s
+wpa-psk
+reapply
+Error: device '%s' not found.
+disconnect
+Error: No property specified.
+Error: 'managed': %s.
+hotspot
+Error: ssid is too long.
+show-password
+Error: Unknown parameter %s.
+Hotspot
+Hotspot-%s
+'%s' is not valid WPA PSK
+key-mgmt
+0123456789abcdef
+wep-key0
+Hotspot password: %s
+rescan
+shared
+ignore
+CHASSIS-ID
+PORT-DESCRIPTION
+SYSTEM-NAME
+SYSTEM-DESCRIPTION
+SYSTEM-CAPABILITIES
+IEEE-802-1-PVID
+IEEE-802-1-PPVID
+IEEE-802-1-PPVID-FLAGS
+IEEE-802-1-VID
+IEEE-802-1-VLAN-NAME
+DESTINATION
+CHASSIS-ID-TYPE
+PORT-ID-TYPE
+WIFI-PROPERTIES
+WIRED-PROPERTIES
+WIMAX-PROPERTIES
+BOND
+TEAM
+BRIDGE
+BLUETOOTH
+PARENT
+SIGNAL
+SSID-HEX
+BSSID
+MODE
+CHAN
+RATE
+BARS
+SECURITY
+WPA-FLAGS
+RSN-FLAGS
+IN-USE
+CTR-FREQ
+RSSI
+CINR
+TX-POW
+BSID
+TKIP
+CCMP
+ADHOC
+2GHZ
+5GHZ
+CARRIER
+CARRIER-DETECT
+SPEED
+IS-SOFTWARE
+AVAILABLE-CONNECTION-PATHS
+AVAILABLE-CONNECTIONS
+NM-TYPE
+VENDOR
+PRODUCT
+DRIVER
+DRIVER-VERSION
+FIRMWARE-VERSION
+HWADDR
+REASON
+IP-IFACE
+NM-MANAGED
+FIRMWARE-MISSING
+NM-PLUGIN-MISSING
+PHYS-PORT-ID
+CON-UUID
+METERED
+Usage: nmcli device set { ARGUMENTS | help }
+ARGUMENTS := DEVICE { PROPERTY [ PROPERTY ... ] }
+DEVICE    := [ifname] <ifname> 
+PROPERTY  := { autoconnect { yes | no } |
+             { managed { yes | no }
+Modify device properties.
+Usage: nmcli device { COMMAND | help }
+COMMAND := { status | show | connect | reapply | disconnect | delete | monitor | wifi | lldp }
+  status
+  show [<ifname>]
+  set [ifname] <ifname> [autoconnect yes|no] [managed yes|no]
+  connect <ifname>
+  reapply <ifname>
+  disconnect <ifname> ...
+  delete <ifname> ...
+  monitor <ifname> ...
+  wifi [list [ifname <ifname>] [bssid <BSSID>]]
+  wifi connect <(B)SSID> [password <password>] [wep-key-type key|phrase] [ifname <ifname>]
+                         [bssid <BSSID>] [name <name>] [private yes|no] [hidden yes|no]
+  wifi hotspot [ifname <ifname>] [con-name <name>] [ssid <SSID>] [band a|bg] [channel <channel>] [password <password>]
+  wifi rescan [ifname <ifname>] [[ssid <SSID to scan>] ...]
+  lldp [list [ifname <ifname>]]
+Error: Device activation failed: %s
+Error: Device activation failed: device was disconnected
+Device '%s' has been connected.
+Device '%s' successfully activated with '%s'.
+Error: Connection activation failed: (%d) %s.
+Error: Failed to setup a Wi-Fi hotspot: %s
+Error: Failed to add/activate new connection: %s
+Error: Failed to setup a Wi-Fi hotspot
+Error: Failed to add/activate new connection: Unknown error
+Connection with UUID '%s' created and activated on device '%s'
+Hotspot '%s' activated on device '%s'
+Error: No interface specified.
+Warning: argument '%s' is duplicated.
+Error: Device '%s' not found.
+(bssid && !ssid) || (!bssid && ssid)
+Error: SSID or BSSID are missing.
+Error: bssid argument value '%s' is not a valid BSSID.
+Error: wep-key-type argument value '%s' is invalid, use 'key' or 'phrase'.
+Error: BSSID to connect to (%s) differs from bssid argument (%s).
+Error: Parameter '%s' is neither SSID nor BSSID.
+Error: Device '%s' is not a Wi-Fi device.
+Error: Failed to scan hidden SSID: %s.
+Error: No network with SSID '%s' found.
+Error: No access point with BSSID '%s' found.
+Warning: '%s' should be SSID for hidden APs; but it looks like a BSSID.
+DEVICE,CHASSIS-ID,PORT-ID,PORT-DESCRIPTION,SYSTEM-NAME,SYSTEM-DESCRIPTION,SYSTEM-CAPABILITIES
+DEVICE,CHASSIS-ID,PORT-ID,PORT-DESCRIPTION,SYSTEM-NAME,SYSTEM-DESCRIPTION,SYSTEM-CAPABILITIES,IEEE-802-1-PVID,IEEE-802-1-PPVID,IEEE-802-1-PPVID-FLAGS,IEEE-802-1-VID,IEEE-802-1-VLAN-NAME,DESTINATION,CHASSIS-ID-TYPE,PORT-ID-TYPE
+Error: invalid extra argument '%s'.
+Error: Reapplying connection to device '%s' (%s) failed: %s
+Connection successfully reapplied to device '%s'.
+Device '%s' successfully disconnected.
+Device '%s' successfully removed.
+Error: not all devices disconnected.
+Error: Device '%s' (%s) disconnecting failed: %s
+Error: not all devices deleted.
+Error: Device '%s' (%s) deletion failed: %s
+DEVICE,TYPE,STATE,DBUS-PATH,CONNECTION,CON-UUID,CON-PATH
+GENERAL.DEVICE,GENERAL.TYPE,GENERAL.HWADDR,GENERAL.MTU,GENERAL.STATE,GENERAL.CONNECTION,GENERAL.CON-PATH,WIRED-PROPERTIES,IP4,IP6
+GENERAL,CAPABILITIES,BOND,TEAM,BRIDGE,VLAN,WIFI-PROPERTIES,AP,WIRED-PROPERTIES,BLUETOOTH,CONNECTIONS,IP4,DHCP4,IP6,DHCP6
+NAME,DEVICE,TYPE,NM-TYPE,VENDOR,PRODUCT,DRIVER,DRIVER-VERSION,FIRMWARE-VERSION,HWADDR,MTU,STATE,REASON,UDI,IP-IFACE,IS-SOFTWARE,NM-MANAGED,AUTOCONNECT,FIRMWARE-MISSING,NM-PLUGIN-MISSING,PHYS-PORT-ID,CONNECTION,CON-UUID,CON-PATH,METERED
+NAME,CARRIER-DETECT,SPEED,IS-SOFTWARE
+NAME,WEP,WPA,WPA2,TKIP,CCMP,AP,ADHOC,2GHZ,5GHZ
+NAME,IN-USE,SSID,MODE,CHAN,RATE,SIGNAL,BARS,SECURITY
+AVAILABLE-CONNECTION-PATHS,AVAILABLE-CONNECTIONS
+/org/freedesktop/NetworkManager/Settings
+IN-USE,SSID,MODE,CHAN,RATE,SIGNAL,BARS,SECURITY
+SSID,SSID-HEX,BSSID,MODE,CHAN,FREQ,RATE,SIGNAL,BARS,SECURITY,WPA-FLAGS,RSN-FLAGS,DEVICE,ACTIVE,IN-USE,DBUS-PATH
+Error: Access point with bssid '%s' not found.
+Error: Device '%s' was not recognized as a Wi-Fi device, check NetworkManager Wi-Fi plugin.
+Usage: nmcli device status { help }
+Show status for all devices.
+By default, the following columns are shown:
+ DEVICE     - interface name
+ TYPE       - device type
+ STATE      - device state
+ CONNECTION - connection activated on device (if any)
+Displayed columns can be changed using '--fields' global option. 'status' is
+the default command, which means 'nmcli device' calls 'nmcli device status'.
+Usage: nmcli device show { ARGUMENTS | help }
+ARGUMENTS := [<ifname>]
+Show details of device(s).
+The command lists details for all devices, or for a given device.
+Usage: nmcli device connect { ARGUMENTS | help }
+ARGUMENTS := <ifname>
+Connect the device.
+NetworkManager will try to find a suitable connection that will be activated.
+It will also consider connections that are not set to auto-connect.
+Error: extra argument not allowed: '%s'.
+Usage: nmcli device reapply { ARGUMENTS | help }
+ARGUMENTS := <ifname>
+Attempts to update device with changes to the currently active connection
+made since it was last applied.
+Error: unsupported argument '%s'.
+Usage: nmcli device disconnect { ARGUMENTS | help }
+ARGUMENTS := <ifname> ...
+Disconnect devices.
+The command disconnects the device and prevents it from auto-activating
+further connections without user/manual intervention.
+Usage: nmcli device delete { ARGUMENTS | help }
+ARGUMENTS := <ifname> ...
+Delete the software devices.
+The command removes the interfaces. It only works for software devices
+(like bonds, bridges, etc.). Hardware devices cannot be deleted by the
+command.
+Error: '%s' argument is missing.
+Error: property '%s' is not known.
+Usage: nmcli device monitor { ARGUMENTS | help }
+ARGUMENTS := [<ifname>] ...
+Monitor device activity.
+This command prints a line whenever the specified devices change state.
+Monitors all devices in case no interface is specified.
+Usage: nmcli device wifi { ARGUMENTS | help }
+Perform operation on Wi-Fi devices.
+ARGUMENTS := [list [ifname <ifname>] [bssid <BSSID>]]
+List available Wi-Fi access points. The 'ifname' and 'bssid' options can be
+used to list APs for a particular interface, or with a specific BSSID.
+ARGUMENTS := connect <(B)SSID> [password <password>] [wep-key-type key|phrase] [ifname <ifname>]
+                    [bssid <BSSID>] [name <name>] [private yes|no] [hidden yes|no]
+Connect to a Wi-Fi network specified by SSID or BSSID. The command creates
+a new connection and then activates it on a device. This is a command-line
+counterpart of clicking an SSID in a GUI client. The command always creates
+a new connection and thus it is mainly useful for connecting to new Wi-Fi
+networks. If a connection for the network already exists, it is better to
+bring up the existing profile as follows: nmcli con up id <name>. Note that
+only open, WEP and WPA-PSK networks are supported at the moment. It is also
+assumed that IP configuration is obtained via DHCP.
+ARGUMENTS := wifi hotspot [ifname <ifname>] [con-name <name>] [ssid <SSID>]
+                          [band a|bg] [channel <channel>] [password <password>]
+Create a Wi-Fi hotspot. Use 'connection down' or 'device disconnect'
+to stop the hotspot.
+Parameters of the hotspot can be influenced by the optional parameters:
+ifname - Wi-Fi device to use
+con-name - name of the created hotspot connection profile
+ssid - SSID of the hotspot
+band - Wi-Fi band to use
+channel - Wi-Fi channel to use
+password - password to use for the hotspot
+ARGUMENTS := rescan [ifname <ifname>] [[ssid <SSID to scan>] ...]
+Request that NetworkManager immediately re-scan for available access points.
+NetworkManager scans Wi-Fi networks periodically, but in some cases it might
+be useful to start scanning manually. 'ssid' allows scanning for a specific
+SSID, which is useful for APs with hidden SSIDs. More 'ssid' parameters can be
+given. Note that this command does not show the APs,
+use 'nmcli device wifi list' for that.
+Error: band argument value '%s' is invalid; use 'a' or 'bg'.
+Error: channel requires band too.
+Error: channel '%s' not valid for band '%s'.
+Error: Device '%s' supports neither AP nor Ad-Hoc mode.
+'%s' is not valid WEP key (it should be 5 or 13 ASCII chars)
+Error: 'device wifi' command '%s' is not valid.
+Usage: nmcli device lldp { ARGUMENTS | help }
+ARGUMENTS := [list [ifname <ifname>]]
+List neighboring devices discovered through LLDP. The 'ifname' option can be
+used to list neighbors for a particular interface.
+Error: 'device lldp' command '%s' is not valid.
+Error: 'dev' command '%s' is not valid.
+Error: Invalid 'password': %s.
+find_ap_on_device
+connect_device_cb
+sort_access_points
+asleep
+connected (local only)
+connected (site only)
+disconnecting
+Hostname set to '%s'
+arg1 && arg2
+res != NULL
+NetworkManager has started
+NetworkManager has stopped
+portal
+limited
+full
+NetworkManager status
+starting
+enabled
+disabled
+switch_name != NULL
+Connectivity
+CONNECTIVITY
+Connectivity is now '%s'
+PERMISSION,VALUE
+LEVEL,DOMAINS
+NetworkManager permissions
+Error: 'general logging': %s
+NetworkManager logging
+level
+domains
+Networking
+NETWORKING
+Radio switches
+WIFI-HW,WIFI,WWAN-HW,WWAN
+Wi-Fi radio switch
+WIFI
+wwan
+WWAN radio switch
+notify::nm-running
+notify::hostname
+notify::primary-connection
+notify::connectivity
+LEVEL
+PERMISSION
+RUNNING
+STARTUP
+WIFI-HW
+WWAN-HW
+WIMAX-HW
+WIMAX
+nmc_switch_parse_on_off
+nmc_switch_show
+Error: failed to set hostname: %s
+Usage: nmcli general { COMMAND | help }
+COMMAND := { status | hostname | permissions | logging }
+  status
+  hostname [<hostname>]
+  permissions
+  logging [level <log level>] [domains <log domains>]
+Usage: nmcli networking { COMMAND | help }
+COMMAND := { [ on | off | connectivity ] }
+  on
+  off
+  connectivity [check]
+Usage: nmcli radio { COMMAND | help }
+COMMAND := { all | wifi | wwan }
+  all | wifi | wwan [ on | off ]
+Error: invalid '%s' argument: '%s' (use on/off).
+Networkmanager is now in the '%s' state
+RUNNING,VERSION,STATE,STARTUP,CONNECTIVITY,NETWORKING,WIFI-HW,WIFI,WWAN-HW,WWAN
+STATE,CONNECTIVITY,WIFI-HW,WIFI,WWAN-HW,WWAN
+Error: only these fields are allowed: %s
+Error: '--fields' value '%s' is not valid here (allowed field: %s)
+'%s' is now the primary connection
+There's no primary connection
+org.freedesktop.NetworkManager.enable-disable-network
+org.freedesktop.NetworkManager.enable-disable-wifi
+org.freedesktop.NetworkManager.enable-disable-wwan
+org.freedesktop.NetworkManager.enable-disable-wimax
+org.freedesktop.NetworkManager.sleep-wake
+org.freedesktop.NetworkManager.network-control
+org.freedesktop.NetworkManager.wifi.share.protected
+org.freedesktop.NetworkManager.wifi.share.open
+org.freedesktop.NetworkManager.settings.modify.system
+org.freedesktop.NetworkManager.settings.modify.own
+org.freedesktop.NetworkManager.settings.modify.hostname
+org.freedesktop.NetworkManager.settings.modify.global-dns
+org.freedesktop.NetworkManager.reload
+Usage: nmcli general status { help }
+Show overall status of NetworkManager.
+'status' is the default action, which means 'nmcli gen' calls 'nmcli gen status'
+Usage: nmcli general hostname { ARGUMENTS | help }
+ARGUMENTS := [<hostname>]
+Get or change persistent system hostname.
+With no arguments, this prints currently configured hostname. When you pass
+a hostname, NetworkManager will set it as the new persistent system hostname.
+Warning: ignoring extra garbage after '%s' hostname
+Usage: nmcli general permissions { help }
+Show caller permissions for authenticated operations.
+Error: 'general permissions': %s
+Usage: nmcli general logging { ARGUMENTS | help }
+ARGUMENTS := [level <log level>] [domains <log domains>]
+Get or change NetworkManager logging level and domains.
+Without any argument current logging level and domains are shown. In order to
+change logging state, provide level and/or domain. Please refer to the man page
+for the list of possible logging domains.
+Error: failed to set logging: %s
+Error: 'general' command '%s' is not valid.
+Usage: nmcli networking connectivity { ARGUMENTS | help }
+ARGUMENTS := [check]
+Get network connectivity state.
+The optional 'check' argument makes NetworkManager re-check the connectivity.
+Error: 'networking connectivity' command '%s' is not valid.
+Usage: nmcli networking on { help }
+Switch networking on.
+Usage: nmcli networking off { help }
+Switch networking off.
+Error: 'networking' command '%s' is not valid.
+Usage: nmcli radio all { ARGUMENTS | help }
+ARGUMENTS := [on | off]
+Get status of all radio switches, or turn them on/off.
+Usage: nmcli radio wifi { ARGUMENTS | help }
+ARGUMENTS := [on | off]
+Get status of Wi-Fi radio switch, or turn it on/off.
+Usage: nmcli radio wwan { ARGUMENTS | help }
+ARGUMENTS := [on | off]
+Get status of mobile broadband radio switch, or turn it on/off.
+Error: 'radio' command '%s' is not valid.
+Error: 'monitor' command '%s' is not valid.
+Usage: nmcli monitor
+Monitor NetworkManager changes.
+Prints a line whenever a change occurs in NetworkManager
+Networkmanager is not running (waiting for it)
+ipv4.method
+auto
+ipv6.method
+leap-password
+leap-username
+auth-alg
+wep-tx-keyidx
+mac-address-blacklist
+wake-on-lan-password
+s390-subchannels
+gateway-ping-timeout
+autoconnect-priority
+phase2-private-key-password
+phase2-domain-suffix-match
+phase2-altsubject-matches
+phase1-fast-provisioning
+'%s' is not a number
+always
+%s (%u)
+'%s' is not a valid MAC
+'%s' is not a valid channel
+'%ld' is not a valid channel
+disable
+%d:%d,
+G_IS_PARAM_SPEC (pspec)
+settings.c
+%u, 
+enable
+advertise
+willing
+'%s' is not a valid DCB flag
+%d (disabled)
+%d (unknown)
+ip = %s/%u
+, nh = %s
+, mt = %u
+invalid IPv6 address '%s'
+invalid IPv4 address '%s'
+%d (default)
+%d (off)
+out_array != NULL
+%d (no)
+%d (yes)
+%s:%s,
+%s=%s,
+file://
+NM_IS_SETTING_VXLAN (s_vxlan)
+NM_IS_SETTING_TUN (s_tun)
+name,options
+NM_IS_SETTING_BOND (s_bond)
+NM_IS_SETTING_VPN (s_vpn)
+<hidden>
+name,config
+NM_IS_SETTING_TEAM (s_team)
+name,mac-address,network-name
+NM_IS_SETTING_WIMAX (s_wimax)
+name,bdaddr,type
+NM_IS_SETTING_PPP (s_ppp)
+%d (key)
+%d (passphrase)
+passphrase
+wep-key1
+wep-key2
+wep-key3
+WEP key index set to '%d'
+'%s' is not valid
+-1 (unset)
+user:
+0 (none)
+%u (
+agent-owned, 
+not saved, 
+not required, 
+leap-password-flags
+psk-flags
+wep-key-flags
+NM_IS_SETTING_PPPOE (s_pppoe)
+NM_IS_SETTING_CDMA (s_cdma)
+NM_IS_SETTING_ADSL (s_adsl)
+NM_IS_SETTING_GSM (s_gsm)
+private-key-password-flags
+'%s' is not a valid PSK
+static
+no item to remove
+invalid option '%s'
+missing option
+no priority to remove
+even
+eui64,stable-privacy
+invalid gateway address '%s'
+0x%04x
+NM_IS_SETTING_WIRED (s_wired)
+priority-flow-control-flags
+'%s' cannot be empty
+0 (NONE)
+%d (
+REORDER_HEADERS, 
+GVRP, 
+LOOSE_BINDING, 
+MVRP, 
+NM_IS_SETTING_VLAN (s_vlan)
+0 (disabled)
+enabled, 
+advertise, 
+willing, 
+NM_IS_SETTING_DCB (s_dcb)
+802-1xeap
+802-1xidentity
+802-1xanonymous-identity
+802-1xpac-file
+802-1xca-cert
+802-1xca-path
+802-1xsubject-match
+802-1xaltsubject-matches
+802-1xdomain-suffix-match
+802-1xclient-cert
+802-1xphase1-peapver
+802-1xphase1-peaplabel
+802-1xphase2-auth
+802-1xphase2-autheap
+802-1xphase2-ca-cert
+802-1xphase2-ca-path
+802-1xphase2-subject-match
+802-1xphase2-client-cert
+802-1xpassword
+802-1xpassword-flags
+802-1xpassword-raw
+802-1xpassword-raw-flags
+802-1xprivate-key
+802-1xprivate-key-password
+802-1xphase2-private-key
+802-1xpin
+802-1xpin-flags
+802-1xsystem-ca-certs
+adslusername
+adslpassword
+adslpassword-flags
+adslprotocol
+adslencapsulation
+adslvpi
+adslvci
+bluetoothbdaddr
+bluetoothtype
+bondoptions
+bridgemac-address
+bridgestp
+bridgepriority
+bridgeforward-delay
+bridgehello-time
+bridgemax-age
+bridgeageing-time
+bridgemulticast-snooping
+bridge-portpriority
+bridge-portpath-cost
+bridge-porthairpin-mode
+cdmanumber
+cdmausername
+cdmapassword
+cdmapassword-flags
+connectionid
+connectionuuid
+connectioninterface-name
+connectiontype
+connectionautoconnect
+connectiontimestamp
+connectionread-only
+connectionpermissions
+connectionzone
+connectionmaster
+connectionslave-type
+connectionautoconnect-slaves
+connectionsecondaries
+connectionmetered
+connectionlldp
+dcbapp-fcoe-flags
+dcbapp-fcoe-mode
+dcbapp-fcoe-priority
+dcbapp-iscsi-flags
+dcbapp-iscsi-priority
+dcbapp-fip-flags
+dcbapp-fip-priority
+dcbpriority-flow-control
+dcbpriority-group-flags
+dcbpriority-group-id
+dcbpriority-group-bandwidth
+dcbpriority-bandwidth
+dcbpriority-strict-bandwidth
+dcbpriority-traffic-class
+gsmnumber
+gsmusername
+gsmpassword
+gsmpassword-flags
+gsmapn
+gsmnetwork-id
+gsmpin
+gsmpin-flags
+gsmhome-only
+gsmdevice-id
+gsmsim-id
+gsmsim-operator-id
+infinibandmac-address
+infinibandmtu
+infinibandtransport-mode
+infinibandp-key
+infinibandparent
+ipv4method
+ipv4dns
+ipv4dns-search
+ipv4dns-options
+ipv4dns-priority
+ipv4addresses
+ipv4gateway
+ipv4routes
+ipv4route-metric
+ipv4ignore-auto-routes
+ipv4ignore-auto-dns
+ipv4dhcp-client-id
+ipv4dhcp-timeout
+ipv4dhcp-send-hostname
+ipv4dhcp-hostname
+ipv4dhcp-fqdn
+ipv4never-default
+ipv4may-fail
+ipv4dad-timeout
+ipv6method
+ipv6dns
+ipv6dns-search
+ipv6dns-options
+ipv6dns-priority
+ipv6addresses
+ipv6gateway
+ipv6routes
+ipv6route-metric
+ipv6ignore-auto-routes
+ipv6ignore-auto-dns
+ipv6never-default
+ipv6may-fail
+ipv6ip6-privacy
+ipv6addr-gen-mode
+ipv6dhcp-send-hostname
+ipv6dhcp-hostname
+802-11-olpc-meshssid
+802-11-olpc-meshchannel
+pppnoauth
+ppprefuse-eap
+ppprefuse-pap
+ppprefuse-chap
+ppprefuse-mschap
+ppprefuse-mschapv2
+pppnobsdcomp
+pppnodeflate
+pppno-vj-comp
+ppprequire-mppe
+ppprequire-mppe-128
+pppmppe-stateful
+pppcrtscts
+pppbaud
+pppmru
+pppmtu
+ppplcp-echo-failure
+ppplcp-echo-interval
+pppoeservice
+pppoeusername
+pppoepassword
+pppoepassword-flags
+serialbaud
+serialbits
+serialparity
+serialstopbits
+serialsend-delay
+teamconfig
+team-portconfig
+vlanid
+vlanflags
+vlaningress-priority-map
+vlanegress-priority-map
+vpnservice-type
+vpnuser-name
+vpndata
+vpnsecrets
+vpnpersistent
+vpntimeout
+wimaxnetwork-name
+wimaxmac-address
+802-3-ethernetport
+802-3-ethernetspeed
+802-3-ethernetduplex
+802-3-ethernetauto-negotiate
+802-3-ethernetmac-address
+802-3-ethernetmtu
+802-3-ethernets390-nettype
+802-3-ethernets390-options
+802-3-ethernetwake-on-lan
+802-11-wirelessssid
+802-11-wirelessmode
+802-11-wirelessband
+802-11-wirelesschannel
+802-11-wirelessbssid
+802-11-wirelessrate
+802-11-wirelesstx-power
+802-11-wirelessmac-address
+802-11-wirelessseen-bssids
+802-11-wirelessmtu
+802-11-wirelesshidden
+802-11-wirelesspowersave
+802-11-wireless-securityproto
+802-11-wireless-securitygroup
+802-11-wireless-securitypsk
+tunmode
+tunowner
+tungroup
+tunpi
+tunvnet-hdr
+tunmulti-queue
+ip-tunnelmode
+Eleele
+ip-tunnelparent
+ip-tunnellocal
+ip-tunnelremote
+ip-tunnelttl
+ip-tunneltos
+ip-tunnelpath-mtu-discovery
+ip-tunnelinput-key
+ip-tunneloutput-key
+ip-tunnelencapsulation-limit
+ip-tunnelflow-label
+ip-tunnelmtu
+macvlanparent
+macvlanmode
+macvlanpromiscuous
+macvlantap
+vxlanparent
+vxlanid
+vxlanlocal
+vxlanremote
+vxlansource-port-min
+vxlansource-port-max
+vxlandestination-port
+vxlantos
+vxlanttl
+vxlanageing
+vxlanlimit
+vxlanlearning
+vxlanproxy
+vxlanrsc
+vxlanl2-miss
+vxlanl3-miss
+notify::addresses
+notify::method
+notify::band
+notify::channel
+notify::master
+the property can't be changed
+[NM property description]
+[nmcli specific description]
+%s%s%s%s
+ipv4.addresses
+ipv6.addresses
+Array of IP addresses.
+Array of DNS search domains.
+Array of IP routes.
+None
+VCI of ADSL connection
+VPI of ADSL connection
+mac-address-randomization
+fabric
+vn2vn
+wep40
+wep104
+open
+leap
+ieee8021x
+wpa-none
+wpa-eap
+qeth
+dhcp
+link-local
+peap
+ttls
+Enter the type of WEP keys. The accepted values are: 0 or unknown, 1 or key, and 2 or passphrase.
+Enter a list of subchannels (comma or space separated).
+Example: 0.0.0e20 0.0.0e21 0.0.0e22
+nmcli can accepts both direct JSON configuration data and a file name containing the configuration. In the latter case the file is read and the contents is put into this property.
+Examples: set team.config { "device": "team0", "runner": {"name": "roundrobin"}, "ports": {"eth1": {}, "eth2": {}} }
+          set team.config /etc/my-team.conf
+Enter a list of IPv6 routes formatted as:
+  ip[/prefix] [next-hop] [metric],...
+Missing prefix is regarded as a prefix of 128.
+Missing next-hop is regarded as "::".
+Missing metric means default (NM/kernel will set a default value).
+Examples: 2001:db8:beef:2::/64 2001:db8:beef::2, 2001:db8:beef:3::/64 2001:db8:beef::3 2
+          abbe::/64 55
+Enter a list of IPv6 addresses formatted as:
+  ip[/prefix], ip[/prefix],...
+Missing prefix is regarded as prefix of 128.
+Example: 2607:f0d0:1002:51::4/64, 1050:0:0:0:5:600:300c:326b
+Enter a list of IPv6 addresses of DNS servers.  If the IPv6 configuration method is 'auto' these DNS servers are appended to those (if any) returned by automatic configuration.  DNS servers cannot be used with the 'shared' or 'link-local' IPv6 configuration methods, as there is no upstream network. In all other IPv6 configuration methods, these DNS servers are used as the only DNS servers for this connection.
+Example: 2607:f0d0:1002:51::4, 2607:f0d0:1002:51::1
+Enter a list of IPv4 routes formatted as:
+  ip[/prefix] [next-hop] [metric],...
+Missing prefix is regarded as a prefix of 32.
+Missing next-hop is regarded as 0.0.0.0.
+Missing metric means default (NM/kernel will set a default value).
+Examples: 192.168.2.0/24 192.168.2.1 3, 10.1.0.0/16 10.0.0.254
+          10.1.2.0/24
+Enter a list of IPv4 addresses formatted as:
+  ip[/prefix], ip[/prefix],...
+Missing prefix is regarded as prefix of 32.
+Example: 192.168.1.5/24, 10.0.0.11/24
+Enter a list of IPv4 addresses of DNS servers.
+Example: 8.8.8.8, 8.8.4.4
+Enter a value which indicates whether the connection is subject to a data
+quota, usage costs or other limitations. Accepted options are:
+'true','yes','on' to set the connection as metered
+'false','no','off' to set the connection as not metered
+'unknown' to let NetworkManager choose a value using some heuristics
+Enter secondary connections that should be activated when this connection is
+activated. Connections can be specified either by UUID or ID (name). nmcli
+transparently translates names to UUIDs. Note that NetworkManager only supports
+VPNs as secondary connections at the moment.
+The items can be separated by commas or spaces.
+Example: private-openvpn, fe6ba5d8-c2fc-4aae-b2e3-97efddd8d9a7
+Enter a list of user permissions. This is a list of user names formatted as:
+  [user:]<user name 1>, [user:]<user name 2>,...
+The items can be separated by commas or spaces.
+Example: alice bob charlie
+Enter path to a private key and the key password (if not set yet):
+  [file://]<file path> [<password>]
+Note that nmcli does not support specifying private key as raw blob data.
+Example: /home/cimrman/jara-priv-key Dardanely
+Enter bytes as a list of hexadecimal values.
+Two formats are accepted:
+(a) a string of hexadecimal digits, where each two digits represent one byte
+(b) space-separated list of bytes written as hexadecimal digits (with optional 0x/0X prefix, and optional leading 0).
+Examples: ab0455a6ea3a74C2
+          ab 4 55 0xa6 ea 3a 74 C2
+Enter file path to client certificate for inner authentication (optionally prefixed
+with file://).
+  [file://]<file path>
+Note that nmcli does not support specifying certificates as raw blob data.
+Example: /home/cimrman/jara-zweite-phase.crt
+Enter file path to CA certificate for inner authentication (optionally prefixed
+with file://).
+  [file://]<file path>
+Note that nmcli does not support specifying certificates as raw blob data.
+Example: /home/cimrman/ca-zweite-phase.crt
+Enter file path to client certificate (optionally prefixed with file://).
+  [file://]<file path>
+Note that nmcli does not support specifying certificates as raw blob data.
+Example: /home/cimrman/jara.crt
+Enter file path to CA certificate (optionally prefixed with file://).
+  [file://]<file path>
+Note that nmcli does not support specifying certificates as raw blob data.
+Example: /home/cimrman/cacert.crt
+Do you also want to set '%s' to '%s'? [yes]: 
+Do you also want to clear '%s'? [yes]: 
+Warning: %s.%s set to '%s', but it might be ignored in infrastructure mode
+Warning: setting %s.%s requires removing ipv4 and ipv6 settings
+Do you want to remove them? [yes] 
+invalid option '%s', use one of [%s]
+invalid mode '%s', use one of %s
+'%s' is not valid; use 0, 1, or 2
+'%s' is not a valid flag number; use <0-%d>
+Warning: '%s' sum is higher than all flags => all flags set
+invalid option '%s', use 'default', 'never' or 'always'
+invalid option '%s', use a combination of [%s] or 'ignore', 'default' or 'none'
+'default' and 'ignore' are incompatible with other flags
+Enter a list of S/390 options formatted as:
+  option = <value>, option = <value>,...
+Valid options are: %s
+'%s' is not valid; 2 or 3 strings should be provided
+'%u' flags are not valid; use combination of %s
+'%s' is not a valid number (or out of range)
+%d (enabled, prefer public IP)
+%d (enabled, prefer temporary IP)
+'%s' is not valid (the format is: ip[/prefix] [next-hop] [metric])
+'%lld' is not valid; use <%lld-%lld>
+'%s' is not a valid IBoIP P_Key
+must contain 8 comma-separated numbers
+'%s' not a number between 0 and %u (inclusive) or %u
+'%s' not a number between 0 and %u (inclusive)
+'%d' is not valid; use <%d-%d>
+'%s' is not a DCB app priority
+default,disable,enable-rx,enable
+Warning: %s is not an UUID of any existing connection profile
+'%s' is not a VPN connection profile
+'%s' is not a name of any exiting profile
+Enter a list of bonding options formatted as:
+  option = <value>, option = <value>,... 
+Valid options are: %s
+'mode' can be provided as a name or a number:
+balance-rr    = 0
+active-backup = 1
+balance-xor   = 2
+broadcast     = 3
+802.3ad       = 4
+balance-tlb   = 5
+balance-alb   = 6
+Example: mode=2,miimon=120
+'%s' is not valid; use <option>=<value>
+'%u' is not valid; use <%u-%u>
+private key password not provided
+'%s' is not a valid hex character
+name,parent,id,local,remote,source-port-min,source-port-max,destination-port,tos,ttl,ageing,limit,learning,proxy,rsc,l2-miss,l3-miss
+name,parent,mode,promiscuous,tap
+NM_IS_SETTING_MACVLAN (s_macvlan)
+name,mode,parent,local,remote,ttl,tos,path-mtu-discovery,input-key,output-key,encapsulation-limit,flow-label,mtu
+NM_IS_SETTING_IP_TUNNEL (s_ip_tunnel)
+name,mode,owner,group,pi,vnet-hdr,multi-queue
+name,service-type,user-name,data,secrets,persistent,timeout
+name,ssid,channel,dhcp-anycast-address
+NM_IS_SETTING_OLPC_MESH (s_olpc_mesh)
+name,method,dns,dns-search,dns-options,dns-priority,addresses,gateway,routes,route-metric,ignore-auto-routes,ignore-auto-dns,never-default,may-fail,ip6-privacy,addr-gen-mode,dhcp-send-hostname,dhcp-hostname
+NM_IS_SETTING_IP6_CONFIG (s_ip6)
+name,method,dns,dns-search,dns-options,dns-priority,addresses,gateway,routes,route-metric,ignore-auto-routes,ignore-auto-dns,dhcp-client-id,dhcp-timeout,dhcp-send-hostname,dhcp-hostname,dhcp-fqdn,never-default,may-fail,dad-timeout
+NM_IS_SETTING_IP4_CONFIG (s_ip4)
+name,id,uuid,interface-name,type,autoconnect,autoconnect-priority,timestamp,read-only,permissions,zone,master,slave-type,autoconnect-slaves,secondaries,gateway-ping-timeout,metered,lldp
+NM_IS_SETTING_CONNECTION (s_con)
+NM_IS_SETTING_TEAM_PORT (s_team_port)
+name,priority,path-cost,hairpin-mode
+NM_IS_SETTING_BRIDGE_PORT (s_bridge_port)
+name,mac-address,stp,priority,forward-delay,hello-time,max-age,ageing-time,multicast-snooping
+NM_IS_SETTING_BRIDGE (s_bridge)
+NM_IS_SETTING_BLUETOOTH (s_bluetooth)
+name,noauth,refuse-eap,refuse-pap,refuse-chap,refuse-mschap,refuse-mschapv2,nobsdcomp,nodeflate,no-vj-comp,require-mppe,require-mppe-128,mppe-stateful,crtscts,baud,mru,mtu,lcp-echo-failure,lcp-echo-interval
+'%s' not among [0 (unknown), 1 (key), 2 (passphrase)]
+Warning: '%s' is not compatible with '%s' type, please change or delete the key.
+'%s' not compatible with %s '%s', please change the key or set the right %s first.
+WEP key is guessed to be of '%s'
+'%s' is not valid; use [e, o, n]
+invalid option '%s', use '%s' or '%s'
+name,key-mgmt,wep-tx-keyidx,auth-alg,proto,pairwise,group,leap-username,wep-key0,wep-key1,wep-key2,wep-key3,wep-key-flags,wep-key-type,psk,psk-flags,leap-password,leap-password-flags
+NM_IS_SETTING_WIRELESS_SECURITY (s_wireless_sec)
+name,service,username,password,password-flags
+name,number,username,password,password-flags
+name,username,password,password-flags,protocol,encapsulation,vpi,vci
+name,number,username,password,password-flags,apn,network-id,pin,pin-flags,home-only,device-id,sim-id,sim-operator-id
+phase2-private-key-password-flags
+'%s' is not a valid channel; use <1-13>
+'%s' string value should consist of 1 - 199 characters
+SIM operator ID must be a 5 or 6 number MCCMNC code
+the property doesn't contain protocol '%s'
+index '%d' is not in range <0-%d>
+'%s' is not a valid MAC address
+the property doesn't contain MAC address '%s'
+Warning: only one mapping at a time is supported; taking the first one (%s)
+the property doesn't contain mapping '%s'
+index '%d' is not in the range of <0-%d>
+name,baud,bits,parity,stopbits,send-delay
+NM_IS_SETTING_SERIAL (s_serial)
+the property doesn't contain route '%s'
+the property doesn't contain IP address '%s'
+the property doesn't contain DNS option '%s'
+the property doesn't contain DNS search domain '%s'
+the property doesn't contain DNS server '%s'
+'%s' is not a valid value; use -1, 0 or 1
+name,port,speed,duplex,auto-negotiate,mac-address,cloned-mac-address,mac-address-blacklist,mtu,s390-subchannels,s390-nettype,s390-options,wake-on-lan,wake-on-lan-password
+name,ssid,mode,band,channel,bssid,rate,tx-power,mac-address,cloned-mac-address,mac-address-blacklist,mac-address-randomization,mtu,seen-bssids,hidden,powersave
+NM_IS_SETTING_WIRELESS (s_wireless)
+name,mac-address,mtu,transport-mode,p-key,parent
+NM_IS_SETTING_INFINIBAND (s_infiniband)
+'%s' is not a valid InfiniBand MAC
+'%s' is not a valid Ethernet MAC
+Warning: changes will have no effect until '%s' includes 1 (enabled)
+bandwidth percentages must total 100%%
+the value '%s' is not a valid UUID
+the property doesn't contain UUID '%s'
+'%s' is not valid master; use ifname or connection UUID
+'%s' is not a valid interface name
+the property doesn't contain permission '%s'
+the property doesn't contain "phase2" alternative subject match '%s'
+name,eap,identity,anonymous-identity,pac-file,ca-cert,ca-path,subject-match,altsubject-matches,domain-suffix-match,client-cert,phase1-peapver,phase1-peaplabel,phase1-fast-provisioning,phase2-auth,phase2-autheap,phase2-ca-cert,phase2-ca-path,phase2-subject-match,phase2-altsubject-matches,phase2-domain-suffix-match,phase2-client-cert,password,password-flags,password-raw,password-raw-flags,private-key,private-key-password,private-key-password-flags,phase2-private-key,phase2-private-key-password,phase2-private-key-password-flags,pin,pin-flags,system-ca-certs
+NM_IS_SETTING_802_1X (s_8021x)
+the property doesn't contain alternative subject match '%s'
+the property doesn't contain EAP method '%s'
+name,parent,id,flags,ingress-priority-map,egress-priority-map
+name,app-fcoe-flags,app-fcoe-priority,app-fcoe-mode,app-iscsi-flags,app-iscsi-priority,app-fip-flags,app-fip-priority,priority-flow-control-flags,priority-flow-control,priority-group-flags,priority-group-id,priority-group-bandwidth,priority-bandwidth,priority-strict-bandwidth,priority-traffic-class
+802-1xphase1-fast-provisioning
+802-1xphase2-altsubject-matches
+802-1xphase2-domain-suffix-match
+802-1xprivate-key-password-flags
+802-1xphase2-private-key-password
+802-1xphase2-private-key-password-flags
+connectionautoconnect-priority
+connectiongateway-ping-timeout
+dcbpriority-flow-control-flags
+802-11-olpc-meshdhcp-anycast-address
+802-3-ethernetcloned-mac-address
+802-3-ethernetmac-address-blacklist
+802-3-ethernets390-subchannels
+802-3-ethernetwake-on-lan-password
+802-11-wirelesscloned-mac-address
+802-11-wirelessmac-address-blacklist
+802-11-wirelessmac-address-randomization
+802-11-wireless-securitykey-mgmt
+802-11-wireless-securitywep-tx-keyidx
+802-11-wireless-securityauth-alg
+802-11-wireless-securitypairwise
+802-11-wireless-securityleap-username
+802-11-wireless-securitywep-key0
+802-11-wireless-securitywep-key1
+802-11-wireless-securitywep-key2
+802-11-wireless-securitywep-key3
+802-11-wireless-securitywep-key-flags
+802-11-wireless-securitywep-key-type
+802-11-wireless-securitypsk-flags
+802-11-wireless-securityleap-password
+802-11-wireless-securityleap-password-flags
+don't know how to get the property value
+NM_IS_SETTING_IP4_CONFIG (setting)
+NM_IS_SETTING_IP6_CONFIG (setting)
+NM_IS_SETTING_WIRELESS (setting)
+NM_IS_SETTING_CONNECTION (setting)
+If specified, this connection will only apply to the WiMAX device whose MAC address matches. This property does not change the MAC address of the device (known as MAC spoofing). Deprecated: 1
+The setting's name, which uniquely identifies the setting within the connection.  Each setting type has a name unique to that type, for example "ppp" or "wireless" or "wired".
+Network Service Provider (NSP) name of the WiMAX network this connection should use. Deprecated: 1
+Specifies the lifetime in seconds of FDB entries learnt by the kernel.
+Specifies the UDP destination port to communicate to the remote VXLAN tunnel endpoint.
+Specifies the VXLAN Network Identifer (or VXLAN Segment Identifier) to use.
+Specifies whether netlink LL ADDR miss notifications are generated.
+Specifies whether netlink IP ADDR miss notifications are generated.
+Specifies whether unknown source link layer addresses and IP addresses are entered into the VXLAN device forwarding database.
+Specifies the maximum number of FDB entries. A value of zero means that the kernel will store unlimited entries.
+If given, specifies the source IP address to use in outgoing packets.
+If given, specifies the parent interface name or parent connection UUID.
+Specifies whether ARP proxy is turned on.
+Specifies the unicast destination IP address to use in outgoing packets when the destination link layer address is not known in the VXLAN device forwarding database, or the multicast IP address to join.
+Specifies whether route short circuit is turned on.
+Specifies the maximum UDP source port to communicate to the remote VXLAN tunnel endpoint.
+Specifies the minimum UDP source port to communicate to the remote VXLAN tunnel endpoint.
+Specifies the TOS value to use in outgoing packets.
+Specifies the time-to-live value to use in outgoing packets.
+Dictionary of key/value pairs of VPN plugin specific data.  Both keys and values must be strings.
+If the VPN service supports persistence, and this property is TRUE, the VPN will attempt to stay connected across link changes and outages, until explicitly disconnected.
+Dictionary of key/value pairs of VPN plugin specific secrets like passwords or private keys.  Both keys and values must be strings.
+D-Bus service name of the VPN plugin that this setting uses to connect to its network.  i.e. org.freedesktop.NetworkManager.vpnc for the vpnc plugin.
+Timeout for the VPN service to establish the connection. Some services may take quite a long time to connect. Value of 0 means a default timeout, which is 60 seconds (unless overriden by vpn.timeout in configuration file). Values greater than zero mean timeout in seconds.
+If the VPN connection requires a user name for authentication, that name should be provided here.  If the connection is available to more than one user, and the VPN requires each user to supply a different name, then leave this property empty.  If this property is empty, NetworkManager will automatically supply the username of the user which requested the VPN connection.
+For outgoing packets, a list of mappings from Linux SKB priorities to 802.1p priorities.  The mapping is given in the format "from:to" where both "from" and "to" are unsigned integers, ie "7:3".
+One or more flags which control the behavior and features of the VLAN interface.  Flags include NM_VLAN_FLAG_REORDER_HEADERS (0x1) (reordering of output packet headers), NM_VLAN_FLAG_GVRP (0x2) (use of the GVRP protocol), and NM_VLAN_FLAG_LOOSE_BINDING (0x4) (loose binding of the interface to its master device's operating state). NM_VLAN_FLAG_MVRP (0x8) (use of the MVRP protocol). The default value of this property is NM_VLAN_FLAG_REORDER_HEADERS, but it used to be 0. To preserve backward compatibility, the default-value in the D-Bus API continues to be 0 and a missing property on D-Bus is still considered as 0.
+The VLAN identifier that the interface created by this connection should be assigned. The valid range is from 0 to 4094, without the reserved id 4095.
+For incoming packets, a list of mappings from 802.1p priorities to Linux SKB priorities.  The mapping is given in the format "from:to" where both "from" and "to" are unsigned integers, ie "7:3".
+If given, specifies the parent interface name or parent connection UUID from which this VLAN interface should be created.  If this property is not specified, the connection must contain an "802-3-ethernet" setting with a "mac-address" property.
+The group ID which will own the device. If set to NULL everyone will be able to use the device.
+The operating mode of the virtual device. Allowed values are NM_SETTING_TUN_MODE_TUN (1) to create a layer 3 device and NM_SETTING_TUN_MODE_TAP (2) to create an Ethernet-like layer 2 one.
+If the property is set to TRUE, the interface will support multiple file descriptors (queues) to parallelize packet sending or receiving. Otherwise, the interface will only support a single queue.
+The user ID which will own the device. If set to NULL everyone will be able to use the device.
+If TRUE the interface will prepend a 4 byte header describing the physical interface to the packets.
+If TRUE the IFF_VNET_HDR the tunnel packets will include a virtio network header.
+The JSON configuration for the team port. The property should contain raw JSON configuration data suitable for teamd, because the value is passed directly to teamd. If not specified, the default configuration is used. See man teamd.conf for the format details.
+The JSON configuration for the team network interface.  The property should contain raw JSON configuration data suitable for teamd, because the value is passed directly to teamd. If not specified, the default configuration is used.  See man teamd.conf for the format details.
+Speed to use for communication over the serial port.  Note that this value usually has no effect for mobile broadband modems as they generally ignore speed settings and use the highest available speed.
+Byte-width of the serial communication. The 8 in "8n1" for example.
+Parity setting of the serial port.
+Time to delay between each byte sent to the modem, in microseconds.
+Number of stop bits for communication on the serial port.  Either 1 or 2. The 1 in "8n1" for example.
+Password used to authenticate with the PPPoE service.
+Flags indicating how to handle the "password" property.
+If specified, instruct PPPoE to only initiate sessions with access concentrators that provide the specified service.  For most providers, this should be left blank.  It is only required if there are multiple access concentrators or a specific service is known to be required.
+Username used to authenticate with the PPPoE service.
+If non-zero, instruct pppd to set the serial port to the specified baudrate.  This value should normally be left as 0 to automatically choose the speed.
+If TRUE, specify that pppd should set the serial port to use hardware flow control with RTS and CTS signals.  This value should normally be set to FALSE.
+If non-zero, instruct pppd to presume the connection to the peer has failed if the specified number of LCP echo-requests go unanswered by the peer.  The "lcp-echo-interval" property must also be set to a non-zero value if this property is used.
+If non-zero, instruct pppd to send an LCP echo-request frame to the peer every n seconds (where n is the specified value).  Note that some PPP peers will respond to echo requests and some will not, and it is not possible to autodetect this.
+If TRUE, stateful MPPE is used.  See pppd documentation for more information on stateful MPPE.
+If non-zero, instruct pppd to request that the peer send packets no larger than the specified size.  If non-zero, the MRU should be between 128 and 16384.
+If non-zero, instruct pppd to send packets no larger than the specified size.
+If TRUE, Van Jacobsen TCP header compression will not be requested.
+If TRUE, do not require the other side (usually the PPP server) to authenticate itself to the client.  If FALSE, require authentication from the remote side.  In almost all cases, this should be TRUE.
+If TRUE, BSD compression will not be requested.
+If TRUE, "deflate" compression will not be requested.
+If TRUE, the CHAP authentication method will not be used.
+If TRUE, the EAP authentication method will not be used.
+If TRUE, the MSCHAP authentication method will not be used.
+If TRUE, the MSCHAPv2 authentication method will not be used.
+If TRUE, the PAP authentication method will not be used.
+If TRUE, MPPE (Microsoft Point-to-Point Encrpytion) will be required for the PPP session.  If either 64-bit or 128-bit MPPE is not available the session will fail.  Note that MPPE is not used on mobile broadband connections.
+If TRUE, 128-bit MPPE (Microsoft Point-to-Point Encrpytion) will be required for the PPP session, and the "require-mppe" property must also be set to TRUE.  If 128-bit MPPE is not available the session will fail.
+The macvlan mode, which specifies the communication mechanism between multiple macvlans on the same lower device.
+If given, specifies the parent interface name or parent connection UUID from which this MAC-VLAN interface should be created.  If this property is not specified, the connection must contain an "802-3-ethernet" setting with a "mac-address" property.
+Whether the interface should be put in promiscuous mode.
+Whether the interface should be a MACVTAP.
+Configure method for creating the address for use with RFC4862 IPv6 Stateless Address Autoconfiguration. The permitted values are: "eui64", or "stable-privacy". If the property is set to "eui64", the addresses will be generated using the interface tokens derived from  hardware address. This makes the host part of the address to stay constant, making it possible to track host's presence when it changes networks. The address changes when the interface hardware is replaced. The value of "stable-privacy" enables use of cryptographically secure hash of a secret host-specific key along with the connection identification and the network address as specified by RFC7217. This makes it impossible to use the address track host's presence, and makes the address stable when the network interface hardware is replaced. On D-Bus, the absence of an addr-gen-mode setting equals enabling "stable-privacy". For keyfile plugin, the absence of the setting on disk means "eui64" so that the property doesn't change on upgrade from older versions. Note that this setting is distinct from the Privacy Extensions as configured by "ip6-privacy" property and it does not affect the temporary addresses configured with this option.
+Timeout in milliseconds used to check for the presence of duplicate IP addresses on the network.  If an address conflict is detected, the activation will fail.  A zero value means that no duplicate address detection is performed, -1 means the default value (either configuration ipvx.dad-timeout override or 3 seconds).  A value greater than zero is a timeout in milliseconds.
+If the "dhcp-send-hostname" property is TRUE, then the specified name will be sent to the DHCP server when acquiring a lease. This property and "dhcp-fqdn" are mutually exclusive and cannot be set at the same time.
+If TRUE, a hostname is sent to the DHCP server when acquiring a lease. Some DHCP servers use this hostname to update DNS databases, essentially providing a static hostname for the computer.  If the "dhcp-hostname" property is NULL and this property is TRUE, the current persistent hostname of the computer is sent.
+A timeout for a DHCP transaction in seconds.
+Array of IP addresses of DNS servers.
+Array of DNS options. NULL means that the options are unset and left at the default. In this case NetworkManager will use default options. This is distinct from an empty list of properties.
+DNS priority. The relative priority to be used when determining the order of DNS servers in resolv.conf.  A lower value means that servers will be on top of the file.  Zero selects the default value, which is 50 for VPNs and 100 for other connections.  When multiple devices have configurations with the same priority, the one with an active default route will be preferred.  Note that when using dns=dnsmasq the order is meaningless since dnsmasq forwards queries to all known servers at the same time. Negative values have the special effect of excluding other configurations with a greater priority value; so in presence of at least a negative priority, only DNS servers from configurations with the lowest priority value will be used.
+The gateway associated with this configuration. This is only meaningful if "addresses" is also set.
+When "method" is set to "auto" and this property to TRUE, automatically configured nameservers and search domains are ignored and only nameservers and search domains specified in the "dns" and "dns-search" properties, if any, are used.
+When "method" is set to "auto" and this property to TRUE, automatically configured routes are ignored and only routes specified in the "routes" property, if any, are used.
+Configure IPv6 Privacy Extensions for SLAAC, described in RFC4941.  If enabled, it makes the kernel generate a temporary IPv6 address in addition to the public one generated from MAC address via modified EUI-64.  This enhances privacy, but could cause problems in some applications, on the other hand.  The permitted values are: -1: unknown, 0: disabled, 1: enabled (prefer public address), 2: enabled (prefer temporary addresses). Having a per-connection setting set to "-1" (unknown) means fallback to global configuration "ipv6.ip6-privacy". If also global configuration is unspecified or set to "-1", fallback to read "/proc/sys/net/ipv6/conf/default/use_tempaddr". Note that this setting is distinct from the Stable Privacy addresses that can be enabled with the "addr-gen-mode" property's "stable-privacy" setting as another way of avoiding host tracking with IPv6 addresses.
+If TRUE, allow overall network configuration to proceed even if the configuration specified by this property times out.  Note that at least one IP configuration must succeed or overall network configuration will still fail.  For example, in IPv6-only networks, setting this property to TRUE on the NMSettingIP4Config allows the overall network configuration to succeed if IPv4 configuration fails but IPv6 configuration completes successfully.
+IP configuration method. NMSettingIP4Config and NMSettingIP6Config both support "auto", "manual", and "link-local". See the subclass-specific documentation for other values. In general, for the "auto" method, properties such as "dns" and "routes" specify information that is added on to the information returned from automatic configuration.  The "ignore-auto-routes" and "ignore-auto-dns" properties modify this behavior. For methods that imply no upstream network, such as "shared" or "link-local", these properties must be empty. For IPv4 method "shared", the IP subnet can be configured by adding one manual IPv4 address or otherwise 10.42.x.0/24 is chosen.
+If TRUE, this connection will never be the default connection for this IP type, meaning it will never be assigned the default route by NetworkManager.
+The default metric for routes that don't explicitly specify a metric. The default value -1 means that the metric is choosen automatically based on the device type. The metric applies to dynamic routes, manual (static) routes that don't have an explicit metric setting, address prefix routes, and the default route. Note that for IPv6, the kernel accepts zero (0) but coerces it to 1024 (user default). Hence, setting this property to zero effectively mean setting it to 1024. For IPv4, zero is a regular value for the metric.
+A string sent to the DHCP server to identify the local machine which the DHCP server may use to customize the DHCP lease and options.
+If the "dhcp-send-hostname" property is TRUE, then the specified FQDN will be sent to the DHCP server when acquiring a lease. This property and "dhcp-hostname" are mutually exclusive and cannot be set at the same time.
+How many additional levels of encapsulation are permitted to be prepended to packets. This property applies only to IPv6 tunnels.
+The flow label to assign to tunnel packets. This property applies only to IPv6 tunnels.
+The key used for tunnel input packets; the property is valid only for certain tunnel modes (GRE, IP6GRE). If empty, no key is used.
+The local endpoint of the tunnel; the value can be empty, otherwise it must contain an IPv4 or IPv6 address.
+The tunneling mode, for example NM_IP_TUNNEL_MODE_IPIP (1) or NM_IP_TUNNEL_MODE_GRE (2).
+The key used for tunnel output packets; the property is valid only for certain tunnel modes (GRE, IP6GRE). If empty, no key is used.
+If given, specifies the parent interface name or parent connection UUID the new device will be bound to so that tunneled packets will only be routed via that interface.
+Whether to enable Path MTU Discovery on this tunnel.
+The remote endpoint of the tunnel; the value must contain an IPv4 or IPv6 address.
+The type of service (IPv4) or traffic class (IPv6) field to be set on tunneled packets.
+The TTL to assign to tunneled packets. 0 is a special value meaning that packets inherit the TTL value.
+If specified, this connection will only apply to the IPoIB device whose permanent MAC address matches. This property does not change the MAC address of the device (i.e. MAC spoofing).
+If non-zero, only transmit packets of the specified size or smaller, breaking larger packets up into multiple frames.
+The InfiniBand P_Key to use for this device. A value of -1 means to use the default P_Key (aka "the P_Key at index 0").  Otherwise it is a 16-bit unsigned integer, whose high bit is set if it is a "full membership" P_Key.
+The interface name of the parent device of this device. Normally NULL, but if the "p_key" property is set, then you must specify the base device by setting either this property or "mac-address".
+The IP-over-InfiniBand transport mode. Either "datagram" or "connected".
+The GPRS Access Point Name specifying the APN used when establishing a data session with the GSM-based network.  The APN often determines how the user will be billed for their network usage and whether the user has access to the Internet or just a provider-specific walled-garden, so it is important to use the correct APN for the user's mobile broadband plan. The APN may only be composed of the characters a-z, 0-9, ., and - per GSM 03.60 Section 14.9.
+The device unique identifier (as given by the WWAN management service) which this connection applies to.  If given, the connection will only apply to the specified device.
+When TRUE, only connections to the home network will be allowed. Connections to roaming networks will not be made.
+The Network ID (GSM LAI format, ie MCC-MNC) to force specific network registration.  If the Network ID is specified, NetworkManager will attempt to force the device to register only on the specified network. This can be used to ensure that the device does not roam when direct roaming control of the device is not otherwise possible.
+Number to dial when establishing a PPP data session with the GSM-based mobile broadband network.  Many modems do not require PPP for connections to the mobile network and thus this property should be left blank, which allows NetworkManager to select the appropriate settings automatically.
+The password used to authenticate with the network, if required.  Many providers do not require a password, or accept any password.  But if a password is required, it is specified here.
+If the SIM is locked with a PIN it must be unlocked before any other operations are requested.  Specify the PIN here to allow operation of the device.
+Flags indicating how to handle the "pin" property.
+The SIM card unique identifier (as given by the WWAN management service) which this connection applies to.  If given, the connection will apply to any device also allowed by "device-id" which contains a SIM card matching the given identifier.
+A MCC/MNC string like "310260" or "21601" identifying the specific mobile network operator which this connection applies to.  If given, the connection will apply to any device also allowed by "device-id" and "sim-id" which contains a SIM card provisioined by the given operator.
+The username used to authenticate with the network, if required.  Many providers do not require a username, or accept any username.  But if a username is required, it is specified here.
+Specifies the NMSettingDcbFlags for the DCB FCoE application.  Flags may be any combination of NM_SETTING_DCB_FLAG_ENABLE (0x1), NM_SETTING_DCB_FLAG_ADVERTISE (0x2), and NM_SETTING_DCB_FLAG_WILLING (0x4).
+The FCoE controller mode; either "fabric" (default) or "vn2vn".
+The highest User Priority (0 - 7) which FCoE frames should use, or -1 for default priority.  Only used when the "app-fcoe-flags" property includes the NM_SETTING_DCB_FLAG_ENABLE (0x1) flag.
+Specifies the NMSettingDcbFlags for the DCB FIP application.  Flags may be any combination of NM_SETTING_DCB_FLAG_ENABLE (0x1), NM_SETTING_DCB_FLAG_ADVERTISE (0x2), and NM_SETTING_DCB_FLAG_WILLING (0x4).
+The highest User Priority (0 - 7) which FIP frames should use, or -1 for default priority.  Only used when the "app-fip-flags" property includes the NM_SETTING_DCB_FLAG_ENABLE (0x1) flag.
+Specifies the NMSettingDcbFlags for the DCB iSCSI application.  Flags may be any combination of NM_SETTING_DCB_FLAG_ENABLE (0x1), NM_SETTING_DCB_FLAG_ADVERTISE (0x2), and NM_SETTING_DCB_FLAG_WILLING (0x4).
+The highest User Priority (0 - 7) which iSCSI frames should use, or -1 for default priority. Only used when the "app-iscsi-flags" property includes the NM_SETTING_DCB_FLAG_ENABLE (0x1) flag.
+An array of 8 uint values, where the array index corresponds to the User Priority (0 - 7) and the value indicates the percentage of bandwidth of the priority's assigned group that the priority may use.  The sum of all percentages for priorities which belong to the same group must total 100 percent.
+An array of 8 boolean values, where the array index corresponds to the User Priority (0 - 7) and the value indicates whether or not the corresponding priority should transmit priority pause.
+Specifies the NMSettingDcbFlags for DCB Priority Flow Control (PFC). Flags may be any combination of NM_SETTING_DCB_FLAG_ENABLE (0x1), NM_SETTING_DCB_FLAG_ADVERTISE (0x2), and NM_SETTING_DCB_FLAG_WILLING (0x4).
+An array of 8 uint values, where the array index corresponds to the Priority Group ID (0 - 7) and the value indicates the percentage of link bandwidth allocated to that group.  Allowed values are 0 - 100, and the sum of all values must total 100 percent.
+Specifies the NMSettingDcbFlags for DCB Priority Groups.  Flags may be any combination of NM_SETTING_DCB_FLAG_ENABLE (0x1), NM_SETTING_DCB_FLAG_ADVERTISE (0x2), and NM_SETTING_DCB_FLAG_WILLING (0x4).
+An array of 8 uint values, where the array index corresponds to the User Priority (0 - 7) and the value indicates the Priority Group ID.  Allowed Priority Group ID values are 0 - 7 or 15 for the unrestricted group.
+An array of 8 boolean values, where the array index corresponds to the User Priority (0 - 7) and the value indicates whether or not the priority may use all of the bandwidth allocated to its assigned group.
+An array of 8 uint values, where the array index corresponds to the User Priority (0 - 7) and the value indicates the traffic class (0 - 7) to which the priority is mapped.
+Whether or not the connection should be automatically connected by NetworkManager when the resources for the connection are available. TRUE to automatically activate the connection, FALSE to require manual intervention to activate the connection.
+The autoconnect priority. If the connection is set to autoconnect, connections with higher priority will be preferred. Defaults to 0. The higher number means higher priority.
+Whether or not slaves of this connection should be automatically brought up when NetworkManager activates this connection. This only has a real effect for master connections. The permitted values are: 0: leave slave connections untouched, 1: activate all the slave connections with this connection, -1: default. If -1 (default) is set, global connection.autoconnect-slaves is read to determine the real value. If it is default as well, this fallbacks to 0.
+If greater than zero, delay success of IP addressing until either the timeout is reached, or an IP gateway replies to a ping.
+A human readable unique identifier for the connection, like "Work Wi-Fi" or "T-Mobile 3G".
+The name of the network interface this connection is bound to. If not set, then the connection can be attached to any interface of the appropriate type (subject to restrictions imposed by other settings). For software devices this specifies the name of the created device. For connection types where interface names cannot easily be made persistent (e.g. mobile broadband or USB Ethernet), this property should not be used. Setting this property restricts the interfaces a connection can be used with, and if interface names change or are reordered the connection may be applied to the wrong interface.
+Whether LLDP is enabled for the connection.
+Interface name of the master device or UUID of the master connection.
+Whether the connection is metered. When updating this property on a currently activated connection, the change takes effect immediately.
+An array of strings defining what access a given user has to this connection.  If this is NULL or empty, all users are allowed to access this connection.  Otherwise a user is allowed to access this connection if and only if they are in this list. Each entry is of the form "[type]:[id]:[reserved]"; for example, "user:dcbw:blah". At this time only the "user" [type] is allowed.  Any other values are ignored and reserved for future use.  [id] is the username that this permission refers to, which may not contain the ":" character. Any [reserved] information present must be ignored and is reserved for future use.  All of [type], [id], and [reserved] must be valid UTF-8.
+FALSE if the connection can be modified using the provided settings service's D-Bus interface with the right privileges, or TRUE if the connection is read-only and cannot be modified.
+List of connection UUIDs that should be activated when the base connection itself is activated. Currently only VPN connections are supported.
+Setting name of the device type of this slave's master connection (eg, "bond"), or NULL if this connection is not a slave.
+The time, in seconds since the Unix Epoch, that the connection was last _successfully_ fully activated. NetworkManager updates the connection timestamp periodically when the connection is active to ensure that an active connection has the latest timestamp. The property is only meant for reading (changes to this property will not be preserved).
+Base type of the connection. For hardware-dependent connections, should contain the setting name of the hardware-type specific setting (ie, "802-3-ethernet" or "802-11-wireless" or "bluetooth", etc), and for non-hardware dependent connections like VPN or otherwise, should contain the setting name of that setting type (ie, "vpn" or "bridge", etc).
+A universally unique identifier for the connection, for example generated with libuuid.  It should be assigned when the connection is created, and never changed as long as the connection still applies to the same network.  For example, it should not be changed when the "id" property or NMSettingIP4Config changes, but might need to be re-created when the Wi-Fi SSID, mobile broadband network provider, or "type" property changes. The UUID must be in the format "2815492f-7e56-435e-b2e9-246bd7cdc664" (ie, contains only hexadecimal characters and "-").
+The trust level of a the connection.  Free form case-insensitive string (for example "Home", "Work", "Public").  NULL or unspecified zone means the connection will be placed in the default zone as defined by the firewall. When updating this property on a currently activated connection, the change takes effect immediately.
+The number to dial to establish the connection to the CDMA-based mobile broadband network, if any.  If not specified, the default number (#777) is used when required.
+Enables or disabled "hairpin mode" for the port, which allows frames to be sent back out through the port the frame was received on.
+The Spanning Tree Protocol (STP) port cost for destinations via this port.
+The Spanning Tree Protocol (STP) priority of this bridge port.
+The Ethernet MAC address aging time, in seconds.
+The Spanning Tree Protocol (STP) forwarding delay, in seconds.
+The Spanning Tree Protocol (STP) hello time, in seconds.
+If specified, the MAC address of bridge. When creating a new bridge, this MAC address will be set. When matching an existing (outside NetworkManager created) bridge, this MAC address must match.
+The Spanning Tree Protocol (STP) maximum message age, in seconds.
+Controls whether IGMP snooping is enabled for this bridge. Note that if snooping was automatically disabled due to hash collisions, the system may refuse to enable the feature until the collisions are resolved.
+Sets the Spanning Tree Protocol (STP) priority for this bridge.  Lower values are "better"; the lowest priority bridge will be elected the root bridge.
+Controls whether Spanning Tree Protocol (STP) is enabled for this bridge.
+Dictionary of key/value pairs of bonding options.  Both keys and values must be strings. Option names must contain only alphanumeric characters (ie, [a-zA-Z0-9]).
+The Bluetooth address of the device.
+Either "dun" for Dial-Up Networking connections or "panu" for Personal Area Networking connections to devices supporting the NAP profile.
+Encapsulation of ADSL connection.  Can be "vcmux" or "llc".
+Password used to authenticate with the ADSL service.
+ADSL connection protocol.  Can be "pppoa", "pppoe" or "ipoatm".
+Username used to authenticate with the ADSL service.
+If TRUE, allow auto-negotiation of port speed and duplex mode.  If FALSE, do not allow auto-negotiation, in which case the "speed" and "duplex" properties should be set.
+If specified, request that the device use this MAC address instead of its permanent MAC address.  This is known as MAC cloning or spoofing.
+If specified, request that the device only use the specified duplex mode. Either "half" or "full".
+If specified, this connection will only apply to the Ethernet device whose permanent MAC address matches. This property does not change the MAC address of the device (i.e. MAC spoofing).
+If specified, this connection will never apply to the Ethernet device whose permanent MAC address matches an address in the list.  Each MAC address is in the standard hex-digits-and-colons notation (00:11:22:33:44:55).
+If non-zero, only transmit packets of the specified size or smaller, breaking larger packets up into multiple Ethernet frames.
+Specific port type to use if multiple the device supports multiple attachment methods.  One of "tp" (Twisted Pair), "aui" (Attachment Unit Interface), "bnc" (Thin Ethernet) or "mii" (Media Independent Interface. If the device supports only one port type, this setting is ignored.
+s390 network device type; one of "qeth", "lcs", or "ctc", representing the different types of virtual network devices available on s390 systems.
+Dictionary of key/value pairs of s390-specific device options.  Both keys and values must be strings.  Allowed keys include "portno", "layer2", "portname", "protocol", among others.  Key names must contain only alphanumeric characters (ie, [a-zA-Z0-9]).
+Identifies specific subchannels that this network device uses for communication with z/VM or s390 host.  Like the "mac-address" property for non-z/VM devices, this property can be used to ensure this connection only applies to the network device that uses these subchannels.  The list should contain exactly 3 strings, and each string may only be composed of hexadecimal characters and the period (.) character.
+If non-zero, request that the device use only the specified speed.  In Mbit/s, ie 100 == 100Mbit/s.
+The NMSettingWiredWakeOnLan options to enable. Not all devices support all options. May be any combination of NM_SETTING_WIRED_WAKE_ON_LAN_PHY (0x2), NM_SETTING_WIRED_WAKE_ON_LAN_UNICAST (0x4), NM_SETTING_WIRED_WAKE_ON_LAN_MULTICAST (0x8), NM_SETTING_WIRED_WAKE_ON_LAN_BROADCAST (0x10), NM_SETTING_WIRED_WAKE_ON_LAN_ARP (0x20), NM_SETTING_WIRED_WAKE_ON_LAN_MAGIC (0x40) or the special values NM_SETTING_WIRED_WAKE_ON_LAN_DEFAULT (0x1) (to use global settings) and NM_SETTING_WIRED_WAKE_ON_LAN_IGNORE (0x8000) (to disable management of Wake-on-LAN in NetworkManager).
+If specified, the password used with magic-packet-based Wake-on-LAN, represented as an Ethernet MAC address.  If NULL, no password will be required.
+List of strings to be matched against the altSubjectName of the certificate presented by the authentication server. If the list is empty, no verification of the server certificate's altSubjectName is performed.
+Anonymous identity string for EAP authentication methods.  Used as the unencrypted identity with EAP types that support different tunneled identity like EAP-TTLS.
+Contains the CA certificate if used by the EAP method specified in the "eap" property. Certificate data is specified using a "scheme"; two are currently supported: blob and path. When using the blob scheme (which is backwards compatible with NM 0.7.x) this property should be set to the certificate's DER encoded data. When using the path scheme, this property should be set to the full UTF-8 encoded path of the certificate, prefixed with the string "file://" and ending with a terminating NUL byte. This property can be unset even if the EAP method supports CA certificates, but this allows man-in-the-middle attacks and is NOT recommended.
+UTF-8 encoded path to a directory containing PEM or DER formatted certificates to be added to the verification chain in addition to the certificate specified in the "ca-cert" property.
+Contains the client certificate if used by the EAP method specified in the "eap" property. Certificate data is specified using a "scheme"; two are currently supported: blob and path. When using the blob scheme (which is backwards compatible with NM 0.7.x) this property should be set to the certificate's DER encoded data. When using the path scheme, this property should be set to the full UTF-8 encoded path of the certificate, prefixed with the string "file://" and ending with a terminating NUL byte.
+Constraint for server domain name. If set, this FQDN is used as a suffix match requirement for dNSName element(s) of the certificate presented by the authentication server.  If a matching dNSName is found, this constraint is met.  If no dNSName values are present, this constraint is matched against SubjectName CN using same suffix match comparison.
+The allowed EAP method to be used when authenticating to the network with 802.1x.  Valid methods are: "leap", "md5", "tls", "peap", "ttls", "pwd", and "fast".  Each method requires different configuration using the properties of this setting; refer to wpa_supplicant documentation for the allowed combinations.
+Identity string for EAP authentication methods.  Often the user's user or login name.
+UTF-8 encoded file path containing PAC for EAP-FAST.
+UTF-8 encoded password used for EAP authentication methods. If both the "password" property and the "password-raw" property are specified, "password" is preferred.
+Password used for EAP authentication methods, given as a byte array to allow passwords in other encodings than UTF-8 to be used. If both the "password" property and the "password-raw" property are specified, "password" is preferred.
+Flags indicating how to handle the "password-raw" property.
+Enables or disables in-line provisioning of EAP-FAST credentials when FAST is specified as the EAP method in the "eap" property. Recognized values are "0" (disabled), "1" (allow unauthenticated provisioning), "2" (allow authenticated provisioning), and "3" (allow both authenticated and unauthenticated provisioning).  See the wpa_supplicant documentation for more details.
+Forces use of the new PEAP label during key derivation.  Some RADIUS servers may require forcing the new PEAP label to interoperate with PEAPv1.  Set to "1" to force use of the new PEAP label.  See the wpa_supplicant documentation for more details.
+Forces which PEAP version is used when PEAP is set as the EAP method in the "eap" property.  When unset, the version reported by the server will be used.  Sometimes when using older RADIUS servers, it is necessary to force the client to use a particular PEAP version.  To do so, this property may be set to "0" or "1" to force that specific PEAP version.
+List of strings to be matched against the altSubjectName of the certificate presented by the authentication server during the inner "phase 2" authentication. If the list is empty, no verification of the server certificate's altSubjectName is performed.
+Specifies the allowed "phase 2" inner non-EAP authentication methods when an EAP method that uses an inner TLS tunnel is specified in the "eap" property.  Recognized non-EAP "phase 2" methods are "pap", "chap", "mschap", "mschapv2", "gtc", "otp", "md5", and "tls". Each "phase 2" inner method requires specific parameters for successful authentication; see the wpa_supplicant documentation for more details.
+Specifies the allowed "phase 2" inner EAP-based authentication methods when an EAP method that uses an inner TLS tunnel is specified in the "eap" property.  Recognized EAP-based "phase 2" methods are "md5", "mschapv2", "otp", "gtc", and "tls". Each "phase 2" inner method requires specific parameters for successful authentication; see the wpa_supplicant documentation for more details.
+Contains the "phase 2" CA certificate if used by the EAP method specified in the "phase2-auth" or "phase2-autheap" properties. Certificate data is specified using a "scheme"; two are currently supported: blob and path. When using the blob scheme (which is backwards compatible with NM 0.7.x) this property should be set to the certificate's DER encoded data. When using the path scheme, this property should be set to the full UTF-8 encoded path of the certificate, prefixed with the string "file://" and ending with a terminating NUL byte. This property can be unset even if the EAP method supports CA certificates, but this allows man-in-the-middle attacks and is NOT recommended.
+UTF-8 encoded path to a directory containing PEM or DER formatted certificates to be added to the verification chain in addition to the certificate specified in the "phase2-ca-cert" property.
+Contains the "phase 2" client certificate if used by the EAP method specified in the "phase2-auth" or "phase2-autheap" properties. Certificate data is specified using a "scheme"; two are currently supported: blob and path. When using the blob scheme (which is backwards compatible with NM 0.7.x) this property should be set to the certificate's DER encoded data. When using the path scheme, this property should be set to the full UTF-8 encoded path of the certificate, prefixed with the string "file://" and ending with a terminating NUL byte. This property can be unset even if the EAP method supports CA certificates, but this allows man-in-the-middle attacks and is NOT recommended.
+Constraint for server domain name. If set, this FQDN is used as a suffix match requirement for dNSName element(s) of the certificate presented by the authentication server during the inner "phase 2" authentication.  If a matching dNSName is found, this constraint is met.  If no dNSName values are present, this constraint is matched against SubjectName CN using same suffix match comparison.
+Contains the "phase 2" inner private key when the "phase2-auth" or "phase2-autheap" property is set to "tls". Key data is specified using a "scheme"; two are currently supported: blob and path. When using the blob scheme and private keys, this property should be set to the key's encrypted PEM encoded data. When using private keys with the path scheme, this property should be set to the full UTF-8 encoded path of the key, prefixed with the string "file://" and ending with a terminating NUL byte. When using PKCS#12 format private keys and the blob scheme, this property should be set to the PKCS#12 data and the "phase2-private-key-password" property must be set to password used to decrypt the PKCS#12 certificate and key. When using PKCS#12 files and the path scheme, this property should be set to the full UTF-8 encoded path of the key, prefixed with the string "file://" and and ending with a terminating NUL byte, and as with the blob scheme the "phase2-private-key-password" property must be set to the password used to decode the PKCS#12 private key and certificate.
+The password used to decrypt the "phase 2" private key specified in the "phase2-private-key" property when the private key either uses the path scheme, or is a PKCS#12 format key.
+Flags indicating how to handle the "phase2-private-key-password" property.
+Substring to be matched against the subject of the certificate presented by the authentication server during the inner "phase 2" authentication. When unset, no verification of the authentication server certificate's subject is performed.  This property provides little security, if any, and its use is deprecated in favor of NMSetting8021x:phase2-domain-suffix-match.
+PIN used for EAP authentication methods.
+Contains the private key when the "eap" property is set to "tls". Key data is specified using a "scheme"; two are currently supported: blob and path. When using the blob scheme and private keys, this property should be set to the key's encrypted PEM encoded data. When using private keys with the path scheme, this property should be set to the full UTF-8 encoded path of the key, prefixed with the string "file://" and ending with a terminating NUL byte. When using PKCS#12 format private keys and the blob scheme, this property should be set to the PKCS#12 data and the "private-key-password" property must be set to password used to decrypt the PKCS#12 certificate and key. When using PKCS#12 files and the path scheme, this property should be set to the full UTF-8 encoded path of the key, prefixed with the string "file://" and and ending with a terminating NUL byte, and as with the blob scheme the "private-key-password" property must be set to the password used to decode the PKCS#12 private key and certificate. WARNING: "private-key" is not a "secret" property, and thus unencrypted private key data using the BLOB scheme may be readable by unprivileged users.  Private keys should always be encrypted with a private key password to prevent unauthorized access to unencrypted private key data.
+The password used to decrypt the private key specified in the "private-key" property when the private key either uses the path scheme, or if the private key is a PKCS#12 format key.
+Flags indicating how to handle the "private-key-password" property.
+Substring to be matched against the subject of the certificate presented by the authentication server. When unset, no verification of the authentication server certificate's subject is performed.  This property provides little security, if any, and its use is deprecated in favor of NMSetting8021x:domain-suffix-match.
+When TRUE, overrides the "ca-path" and "phase2-ca-path" properties using the system CA directory specified at configure time with the --system-ca-path switch.  The certificates in this directory are added to the verification chain in addition to any certificates specified by the "ca-cert" and "phase2-ca-cert" properties. If the path provided with --system-ca-path is rather a file name (bundle of trusted CA certificates), it overrides "ca-cert" and "phase2-ca-cert" properties instead (sets ca_cert/ca_cert2 options for wpa_supplicant).
+When WEP is used (ie, key-mgmt = "none" or "ieee8021x") indicate the 802.11 authentication algorithm required by the AP here.  One of "open" for Open System, "shared" for Shared Key, or "leap" for Cisco LEAP.  When using Cisco LEAP (ie, key-mgmt = "ieee8021x" and auth-alg = "leap") the "leap-username" and "leap-password" properties must be specified.
+A list of group/broadcast encryption algorithms which prevents connections to Wi-Fi networks that do not utilize one of the algorithms in the list.  For maximum compatibility leave this property empty.  Each list element may be one of "wep40", "wep104", "tkip", or "ccmp".
+Key management used for the connection.  One of "none" (WEP), "ieee8021x" (Dynamic WEP), "wpa-none" (Ad-Hoc WPA-PSK), "wpa-psk" (infrastructure WPA-PSK), or "wpa-eap" (WPA-Enterprise).  This property must be set for any Wi-Fi connection that uses security.
+The login password for legacy LEAP connections (ie, key-mgmt = "ieee8021x" and auth-alg = "leap").
+Flags indicating how to handle the "leap-password" property.
+The login username for legacy LEAP connections (ie, key-mgmt = "ieee8021x" and auth-alg = "leap").
+A list of pairwise encryption algorithms which prevents connections to Wi-Fi networks that do not utilize one of the algorithms in the list. For maximum compatibility leave this property empty.  Each list element may be one of "tkip" or "ccmp".
+List of strings specifying the allowed WPA protocol versions to use. Each element may be one "wpa" (allow WPA) or "rsn" (allow WPA2/RSN).  If not specified, both WPA and RSN connections are allowed.
+Pre-Shared-Key for WPA networks.  If the key is 64-characters long, it must contain only hexadecimal characters and is interpreted as a hexadecimal WPA key.  Otherwise, the key must be between 8 and 63 ASCII characters (as specified in the 802.11i standard) and is interpreted as a WPA passphrase, and is hashed to derive the actual WPA-PSK used when connecting to the Wi-Fi network.
+Flags indicating how to handle the "psk" property.
+Flags indicating how to handle the "wep-key0", "wep-key1", "wep-key2", and "wep-key3" properties.
+Controls the interpretation of WEP keys.  Allowed values are NM_WEP_KEY_TYPE_KEY (1), in which case the key is either a 10- or 26-character hexadecimal string, or a 5- or 13-character ASCII password; or NM_WEP_KEY_TYPE_PASSPHRASE (2), in which case the passphrase is provided as a string and will be hashed using the de-facto MD5 method to derive the actual WEP key.
+Index 0 WEP key.  This is the WEP key used in most networks.  See the "wep-key-type" property for a description of how this key is interpreted.
+Index 1 WEP key.  This WEP index is not used by most networks.  See the "wep-key-type" property for a description of how this key is interpreted.
+Index 2 WEP key.  This WEP index is not used by most networks.  See the "wep-key-type" property for a description of how this key is interpreted.
+Index 3 WEP key.  This WEP index is not used by most networks.  See the "wep-key-type" property for a description of how this key is interpreted.
+When static WEP is used (ie, key-mgmt = "none") and a non-default WEP key index is used by the AP, put that WEP key index here.  Valid values are 0 (default key) through 3.  Note that some consumer access points (like the Linksys WRT54G) number the keys 1 - 4.
+802.11 frequency band of the network.  One of "a" for 5GHz 802.11a or "bg" for 2.4GHz 802.11.  This will lock associations to the Wi-Fi network to the specific band, i.e. if "a" is specified, the device will not associate with the same network in the 2.4GHz band even if the network's settings are compatible.  This setting depends on specific driver capability and may not work with all drivers.
+If specified, directs the device to only associate with the given access point.  This capability is highly driver dependent and not supported by all devices.  Note: this property does not control the BSSID used when creating an Ad-Hoc network and is unlikely to in the future.
+Wireless channel to use for the Wi-Fi connection.  The device will only join (or create for Ad-Hoc networks) a Wi-Fi network on the specified channel.  Because channel numbers overlap between bands, this property also requires the "band" property to be set.
+If specified, request that the Wi-Fi device use this MAC address instead of its permanent MAC address.  This is known as MAC cloning or spoofing.
+If TRUE, indicates this network is a non-broadcasting network that hides its SSID.  In this case various workarounds may take place, such as probe-scanning the SSID for more reliable network discovery.  However, these workarounds expose inherent insecurities with hidden SSID networks, and thus hidden SSID networks should be used with caution.
+If specified, this connection will only apply to the Wi-Fi device whose permanent MAC address matches. This property does not change the MAC address of the device (i.e. MAC spoofing).
+A list of permanent MAC addresses of Wi-Fi devices to which this connection should never apply.  Each MAC address should be given in the standard hex-digits-and-colons notation (eg "00:11:22:33:44:55").
+One of NM_SETTING_MAC_RANDOMIZATION_DEFAULT (0) (never randomize unless the user has set a global default to randomize and the supplicant supports randomization),  NM_SETTING_MAC_RANDOMIZATION_NEVER (1) (never randomize the MAC address), or NM_SETTING_MAC_RANDOMIZATION_ALWAYS (2) (always randomize the MAC address).
+Wi-Fi network mode; one of "infrastructure", "adhoc" or "ap".  If blank, infrastructure is assumed.
+One of NM_SETTING_WIRELESS_POWERSAVE_DISABLE (2) (disable Wi-Fi power saving), NM_SETTING_WIRELESS_POWERSAVE_ENABLE (3) (enable Wi-Fi power saving), NM_SETTING_WIRELESS_POWERSAVE_IGNORE (1) (don't touch currently configure setting) or NM_SETTING_WIRELESS_POWERSAVE_DEFAULT (0) (use the globally configured value). All other values are reserved.
+If non-zero, directs the device to only use the specified bitrate for communication with the access point.  Units are in Kb/s, ie 5500 = 5.5 Mbit/s.  This property is highly driver dependent and not all devices support setting a static bitrate.
+A list of BSSIDs (each BSSID formatted as a MAC address like "00:11:22:33:44:55") that have been detected as part of the Wi-Fi network.  NetworkManager internally tracks previously seen BSSIDs. The property is only meant for reading and reflects the BSSID list of NetworkManager. The changes you make to this property will not be preserved.
+SSID of the Wi-Fi network. Must be specified.
+If non-zero, directs the device to use the specified transmit power. Units are dBm.  This property is highly driver dependent and not all devices support setting a static transmit power.
+Channel on which the mesh network to join is located.
+Anycast DHCP MAC address used when requesting an IP address via DHCP. The specific anycast address used determines which DHCP server class answers the request.
+SSID of the mesh network to join.
+setting_connection_details
+setting_wired_details
+setting_802_1X_details
+setting_wireless_details
+setting_wireless_security_details
+setting_ip4_config_details
+setting_ip6_config_details
+setting_serial_details
+setting_ppp_details
+setting_pppoe_details
+setting_gsm_details
+setting_cdma_details
+setting_bluetooth_details
+setting_olpc_mesh_details
+setting_vpn_details
+setting_wimax_details
+setting_infiniband_details
+setting_bond_details
+setting_vlan_details
+setting_adsl_details
+setting_bridge_details
+setting_bridge_port_details
+setting_team_details
+setting_team_port_details
+setting_dcb_details
+setting_tun_details
+setting_ip_tunnel_details
+setting_macvlan_details
+setting_vxlan_details
+setting_details
+nmc_setting_get_property_desc
+nmc_setting_get_property_allowed_values
+nmc_setting_remove_property_option
+nmc_setting_reset_property
+nmc_setting_set_property
+get_property_val
+check_and_add_802_1X_eap
+nmc_property_802_1X_set_altsubject_matches
+nmc_property_802_1X_set_phase2_altsubject_matches
+nmc_property_set_secret_flags
+nmc_property_set_byte_array
+nmc_property_set_bool
+validate_uint
+nmc_property_set_uint
+nmc_property_set_mac
+nmc_property_bond_set_options
+nmc_property_set_ifname
+nmc_property_set_int
+nmc_property_connection_set_permissions
+nmc_property_con_set_master
+nmc_property_set_trilean
+nmc_property_connection_set_secondaries
+nmc_property_connection_set_metered
+nmc_property_dcb_set_flags
+validate_int
+nmc_property_dcb_set_priority
+nmc_property_dcb_set_pfc
+nmc_property_dcb_set_pg_group_id
+nmc_property_dcb_set_pg_group_bandwidth
+nmc_property_dcb_set_pg_bandwidth
+nmc_property_dcb_set_pg_strict
+dcb_parse_uint_array
+nmc_property_dcb_set_pg_traffic_class
+nmc_property_gsm_set_sim_operator_id
+nmc_property_ib_set_mac
+nmc_property_ib_set_p_key
+nmc_property_ipv4_set_dns
+nmc_property_ipv4_set_dns_search
+nmc_property_ipv4_set_dns_options
+nmc_property_ipv4_set_addresses
+nmc_property_ipv4_set_gateway
+nmc_property_ipv4_set_routes
+validate_int64
+nmc_property_set_int64
+nmc_property_ipv6_set_dns
+verify_string_list
+nmc_property_ipv6_set_dns_search
+nmc_property_ipv6_set_dns_options
+nmc_property_ipv6_set_addresses
+nmc_property_ipv6_set_gateway
+nmc_property_ipv6_set_routes
+nmc_property_ipv6_set_ip6_privacy
+nmc_property_set_ssid
+nmc_property_olpc_set_channel
+nmc_property_team_set_config
+validate_flags
+nmc_property_set_flags
+nmc_property_vpn_set_data
+nmc_property_vpn_set_secrets
+nmc_property_wired_set_mac_address_blacklist
+nmc_property_wired_set_s390_options
+nmc_property_wifi_set_channel
+nmc_property_wireless_set_mac_address_blacklist
+check_and_set_string
+check_and_add_wifi_sec_proto
+check_and_add_wifi_sec_pairwise
+check_and_add_wifi_sec_group
+nmc_property_wifi_set_wep_key
+nmc_property_wifi_set_wep_key_type
+nmc_property_wifi_set_psk
+nmc_setting_custom_init
+nmc_setting_connection_connect_handlers
+nmc_setting_wireless_connect_handlers
+nmc_setting_ip6_connect_handlers
+nmc_setting_ip4_connect_handlers
+nmc_setting_new_for_name
+Error: nmcli terminated by signal %s (%d)
+Usage: %s [OPTIONS] OBJECT { COMMAND | help }
+OPTIONS
+  -t[erse]                                   terse output
+  -p[retty]                                  pretty output
+  -m[ode] tabular|multiline                  output mode
+  -c[olors] auto|yes|no                      whether to use colors in output
+  -f[ields] <field1,field2,...>|all|common   specify fields to output
+  -e[scape] yes|no                           escape columns separators in values
+  -a[sk]                                     ask for missing parameters
+  -s[how-secrets]                            allow displaying passwords
+  -w[ait] <seconds>                          set timeout waiting for finishing operations
+  -v[ersion]                                 show program version
+  -h[elp]                                    print this help
+OBJECT
+  g[eneral]       NetworkManager's general status and operations
+  n[etworking]    overall networking control
+  r[adio]         NetworkManager radio switches
+  c[onnection]    NetworkManager's connections
+  d[evice]        devices managed by NetworkManager
+  a[gent]         NetworkManager secret agent or polkit agent
+  m[onitor]       monitor NetworkManager changes
+Error: Could not create NMClient object: %s.
+Error: Option '--terse' is specified the second time.
+Error: Option '--terse' is mutually exclusive with '--pretty'.
+Error: Option '--pretty' is specified the second time.
+Error: Option '--pretty' is mutually exclusive with '--terse'.
+Error: missing argument for '%s' option.
+Error: '%s' is not valid argument for '%s' option.
+Error: fields for '%s' options are missing.
+Error: '%s' is not a valid timeout for '%s' option.
+Error: Option '%s' is unknown, try 'nmcli -help'.
+Error: Object '%s' is unknown, try 'nmcli help'.
+Failed to set signal mask: %d
+Failed to create signal handling thread: %d
+general
+-terse
+-pretty
+tabular
+multiline
+-colors
+-escape
+-fields
+-nocheck
+-ask
+-show-secrets
+-wait
+-version
+nmcli tool, version %s
+1.2.6
+-help
+%s=%s
+0x%02X
+ ... 
+Degas are we not drawn onward no In union drawn onward to new eras aged
+nmcli-error-quark
+/usr/share/locale
+NetworkManager
+UTF-8
+Success
+networking
+radio
+TERM
+dumb
+arg_arr != NULL
+%c %s
+%s%s%s%s%s
+'%s' is ambiguous (%s x %s)
+missing name, try one of [%s]
+true
+false
+'%s' is ambiguous (%s)
+on x off
+true, yes, on
+false, no, off
+%s.%s,
+field '%s' has to be alone
+%s%s%s[%d]:
+%-*s%s
+%s%s%s:
+%-*s
+utils.c
+[30m
+[31m
+[32m
+[33m
+[34m
+[35m
+[36m
+[37m
+Error: Unexpected argument '%s'
+Error: value for '%s' argument is required.
+Error: Argument '%s' was expected, but '%s' provided.
+'%s' is not valid; use [%s] or [%s]
+'%s' is not valid; use [%s], [%s] or [%s]
+invalid field '%s'; allowed fields: %s
+group_fields == NULL || *group_fields == NULL
+Option '--terse' requires specifying '--fields'
+Option '--terse' requires specific '--fields' option values , not '%s'
+!is_array || !section_prefix || idx != 0
+print_required_fields
+nmc_terse_option_check
+parse_output_fields
+nmc_string_is_valid
+nmc_string_to_tristate
+nmc_string_to_bool
+nmc_parse_args
+Authentication error: %s
+Authentication message: %s
+(action_id: %s)
+Warning: polkit agent initialization failed: %s
+nmc_polkit_agent_init
+%s.%s.%s
+Username
+Password
+Identity
+Private key password
+wep-key%d
+iee8021x
+Wired 802.1X authentication
+Network name
+DSL authentication
+Service
+VPN password required
+x-vpn-message:
+PIN code required
+NMSecretAgentSimple
+%s/%s
+a{ss}
+a{sa{sv}}
+User cancelled
+request != NULL
+identifier
+Authentication required by wireless network
+Passwords or encryption keys are required to access the wireless network '%s'.
+Mobile broadband network password
+A password is required to connect to '%s'.
+PIN code is needed for the mobile broadband device
+Request for %s secrets already pending
+Stored passwords not supported
+The secret agent is going away
+NM_IS_SECRET_AGENT_SIMPLE (self)
+Request for %s secrets doesn't match path %s
+nm_secret_agent_simple_response
+unknown VPN plugin "%s"
+properties
+GNOME
+!service ^ !name
+strongswan
+iodine
+fortisslvpn
+VPN Connection
+s_vpn != NULL
+/usr/sbin/
+/usr/local/sbin/
+/usr/bin/
+/usr/local/bin/
+/usr/sbin/openconnect
+--authenticate
+COOKIE=
+HOST=
+FINGERPRINT=
+Gateway
+Cookie
+Gateway certificate hash
+xauthpassword
+pskvalue
+Group password
+Xauth password
+IPSec secret
+cert-pass
+Certificate password
+http-proxy-password
+HTTP proxy password
+cannot cannot load legacy-only VPN plugin "%s" for "%s"
+cannot load VPN plugin "%s" due to missing "%s". Missing client plugin?
+failed to load VPN plugin "%s": %s
+org.freedesktop.NetworkManager
+nm_vpn_supports_ipv6
+nm_vpn_get_service_for_name
+nm_vpn_lookup_plugin
+NMPolkitListener
+USER
+root
+completed
+request
+show-info
+show-error
+NM_IS_POLKIT_LISTENER (self)
+An authentication session is already underway.
+nm_polkit_listener_set_completed_callback
+nm_polkit_listener_set_show_error_callback
+nm_polkit_listener_set_show_info_callback
+nm_polkit_listener_set_request_callback
+nm_polkit_listener_new
+;*3$"
+9aaf7442fb96190eb537f6ce011f79fff47fc3.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

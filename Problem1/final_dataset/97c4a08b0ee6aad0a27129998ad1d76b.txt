@@ -1,0 +1,1340 @@
+/lib64/ld-linux-x86-64.so.2
+Q_3BE
+ gUa
+libext2fs.so.2
+_ITM_deregisterTMCloneTable
+com_err
+__gmon_start__
+error_message
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+_et_list
+ext2fs_lookup
+ext2fs_block_alloc_stats2
+ext2fs_numeric_progress_update
+ext2fs_convert_subcluster_bitmap
+ext2fs_read_bb_FILE
+ext2fs_bg_has_super
+ext2fs_group_of_blk2
+ext2fs_create_journal_superblock
+ext2fs_numeric_progress_close
+ext2fs_read_inode
+et_ext2_error_table
+ext2fs_find_first_set_generic_bmap
+ext2fs_add_journal_inode2
+ext2fs_r_blocks_count_set
+test_io_manager
+ext2fs_badblocks_list_iterate
+ext2fs_get_free_blocks2
+ext2fs_blocks_count_set
+ext2fs_get_device_phys_sectsize
+ext2fs_inode_table_loc
+ext2fs_mmp_init
+ext2fs_bg_flags_set
+ext2fs_find_first_zero_generic_bmap
+ext2fs_create_resize_inode
+io_channel_read_blk64
+ext2fs_badblocks_list_iterate_end
+ext2fs_iblk_add_blocks
+ext2fs_free_blocks_count_set
+ext2fs_blocks_count
+ext2fs_block_alloc_stats_range
+ext2fs_free_blocks_count
+ext2fs_extent_open2
+undo_io_manager
+ext2fs_inode_bitmap_loc_set
+ext2fs_update_bb_inode
+set_undo_io_backing_manager
+ext2fs_block_bitmap_loc_set
+unix_io_manager
+ext2fs_bg_free_blocks_count_set
+ext2fs_open2
+ext2fs_group_desc_csum_set
+ext2fs_inode_size_set
+ext2fs_new_block2
+test_io_backing_manager
+ext2fs_group_last_block2
+ext2fs_badblocks_list_iterate_begin
+ext2fs_free_blocks_count_add
+ext2fs_add_journal_device
+ext2fs_get_device_size2
+ext2fs_mark_generic_bmap
+ext2fs_close_free
+io_channel_set_options
+ext2fs_badblocks_list_test
+ext2fs_extent_insert
+ext2fs_check_if_mounted
+ext2fs_write_new_inode
+ext2fs_bg_itable_unused_set
+ext2fs_inode_alloc_stats2
+ext2fs_new_inode
+ext2fs_inode_table_loc_set
+set_undo_io_backup_file
+io_channel_write_blk64
+ext2fs_bg_free_blocks_count
+ext2fs_open
+ext2fs_link
+ext2fs_default_journal_size
+ext2fs_open_file
+ext2fs_numeric_progress_init
+io_channel_discard
+ext2fs_allocate_tables
+ext2fs_extent_free
+ext2fs_bg_itable_unused
+ext2fs_r_blocks_count
+ext2fs_expand_dir
+ext2fs_get_device_sectsize
+ext2fs_initialize
+ext2fs_zero_blocks2
+ext2fs_mkdir
+_fini
+ext2fs_write_inode
+ext2fs_fstat
+libcom_err.so.2
+set_com_err_gettext
+add_error_table
+remove_error_table
+libblkid.so.1
+blkid_probe_lookup_value
+blkid_probe_enable_partitions
+blkid_put_cache
+blkid_get_tag_value
+blkid_probe_get_topology
+blkid_get_devname
+blkid_topology_get_optimal_io_size
+blkid_topology_get_alignment_offset
+blkid_new_probe_from_filename
+blkid_probe_enable_superblocks
+blkid_get_cache
+blkid_do_fullprobe
+blkid_topology_get_minimum_io_size
+blkid_free_probe
+libuuid.so.1
+uuid_parse
+uuid_generate
+ext2fs_read_bitmaps
+ext2fs_write_bitmaps
+ext2fs_file_close
+ext2fs_open_inode_scan
+ext2fs_get_next_inode
+ext2fs_inode_i_blocks
+ext2fs_close_inode_scan
+ext2fs_file_llseek
+ext2fs_file_read
+ext2fs_file_write
+ext2fs_inode_has_valid_blocks2
+ext2fs_punch
+ext2fs_iblk_set
+ext2fs_file_open
+ext2fs_block_iterate3
+ext2fs_file_flush
+ext2fs_file_get_lsize
+ext2fs_file_set_size2
+libe2p.so.2
+parse_num_blocks2
+e2p_string2hash
+e2p_edit_feature
+e2p_is_null_uuid
+e2p_edit_mntopts
+e2p_uuid2str
+e2p_os2string
+libc.so.6
+__xpg_basename
+fflush
+strcpy
+__printf_chk
+exit
+readdir
+_IO_putc
+setlocale
+fopen
+strncmp
+optind
+strrchr
+__longjmp_chk
+perror
+dcgettext
+closedir
+signal
+strncpy
+__stack_chk_fail
+unlink
+putchar
+realloc
+stdin
+popen
+strdup
+strtod
+strtol
+isatty
+feof
+fgets
+calloc
+strlen
+memset
+__errno_location
+memcmp
+getopt
+_setjmp
+__fprintf_chk
+ctime
+putenv
+stdout
+fputc
+fputs
+memcpy
+fclose
+strtoul
+malloc
+strcasecmp
+getgid
+opendir
+__ctype_b_loc
+getenv
+optarg
+stderr
+alarm
+__snprintf_chk
+getuid
+fscanf
+strncat
+strtoull
+pclose
+fwrite
+strchr
+qsort
+__sprintf_chk
+__xstat
+uname
+bindtextdomain
+God A red nugget A fat egg under a dog
+access
+sync
+setbuf
+strcmp
+strerror
+__libc_start_main
+sysconf
+_edata
+__bss_start
+UUID_1.0
+BLKID_1.0
+BLKID_2.17
+BLKID_2.15
+GLIBC_2.3
+GLIBC_2.11
+GLIBC_2.14
+GLIBC_2.4
+GLIBC_2.3.4
+GLIBC_2.2.5
+5bS!
+%dS!
+%bS!
+%ZS!
+%RS!
+%JS!
+%BS!
+%:S!
+%2S!
+%*S!
+%"S!
+%zR!
+%rR!
+%jR!
+%bR!
+%ZR!
+%RR!
+%JR!
+%BR!
+%:R!
+%2R!
+%*R!
+%"R!
+%zQ!
+%rQ!
+%jQ!
+%bQ!
+%ZQ!
+%RQ!
+%JQ!
+%BQ!
+%:Q!
+%2Q!
+%*Q!
+%"Q!
+%zP!
+%rP!
+%jP!
+%bP!
+%ZP!
+%RP!
+%JP!
+%BP!
+%:P!
+%2P!
+%*P!
+%"P!
+%zO!
+%rO!
+%jO!
+%bO!
+%ZO!
+%RO!
+%JO!
+%BO!
+%:O!
+%2O!
+%*O!
+%"O!
+%zN!
+%rN!
+%jN!
+%bN!
+%ZN!
+%RN!
+%JN!
+%BN!
+%:N!
+%2N!
+%*N!
+%"N!
+%zM!
+%rM!
+%jM!
+%bM!
+%ZM!
+%RM!
+%JM!
+%BM!
+AWAVAUATUSH
+=LN!
+==L!
+D$0H
+\$0t
+=kR!
+-DL!
+5RK!
+5DO!
+\$0H
+%	O!
+T$8H
+\$0D
+t$8M
+c8D9
+=AI!
+=KO!
+;k0r
+=jL!
+d$PL
+t$HH
+|$PL
+\$0H
+%pM!
+|$0H
+\$0H
+9k0w
+=mL!
+D$0L
+=KL!
+=1L!
+t$PH
+5:J!
+D$0H
+|$0H
+=KE!
+[]A\A]A^A_
+=3I!
+\$0H
+={J!
+-OF!
+=@F!
+%7F!
+H;->@!
+l$0I
+=_?!
+--D!
+D$PI
+-G>!
+D$0H
+t$8H
+T$PH
+D|$PL
+L9|$
+L$01
+l$0L
+d$P1
+T$,H
+t$HL
+D$,L
+U A)
+T$,E
+\$01
+=x>!
+=k>!
+T$`H
+l$01
+t$PH
+l$8H
+\$0H
+\$0H
+T$PD
+C0A9
+t$P1
+\$0H
+\$0A
+T$PD
+D;k0
+t$P1
+L$@)
+l$@1
+T$PD
+D;k0
+t$PM
+d$P1
+\$0H
+D$01
+=(2!
+L$P1
+=21!
+Lc A
+=x4!
+-!5!
+L$@1
+d$PE1
+D$,D
+L$HL
+l$,H
+UH-H
+AUATUSH
+[]A\A]
+[]A\A]
+=`)!
+=#)!
+ATUH
+= -!
+=b.!
+[]A\
+	AUATUSMc
+E@=WEV
+VEWtPL
+[]A\A]A^A_
+=V&!
+[]A\A]A^A_1
+=	&!
+D$81
+\$8dH3
+AWAVAUATA
+[]A\A]A^A_
+%U"!
+H;l$
+AWAVAUATUSH
+=t#!
+[]A\A]A^A_
+=?!!
+AVAUI
+ATUI
+tlHc
+[]A\A]A^
+ATUI
+[]A\
+|$HS
+AWAVAUATUS
+PATH=/sbI
+D$`t
+D$`t
+D$,E1
+D$$-
+t$`1
+t$`1
+D$(-
+t$`1
+t$`1
+t$`1
+t$`1
+t$pH
+\$hH
+D$8H
+l$8L
+D$8H
+|$0H
+|$`H
+D$`t
+D$`t
+D$XE
+D;l$T
+\$XA9
+Hc\$XH
+u	Hc
+\$`H
+|$`H
+|$`H
+H9D$
+[]A\A]A^A_
+D$`t
+Hcl$(1
+D$`t'
+|$`H
+\$`H
+|$`H
+|$`H
+L$T9
+\$HH
+L$x1
+L$pE1
+L$hE1
+AVAUA
+ATU1
+D$81
+Hc8I
+L$HH
+[]A\A]A^
+AUATA
+[]A\A]
+AVAUATUH
+[]A\A]A^
+ATUI
+[]A\
+tY<"tUH
+t3<"t/<\u
+t;USH
+AUATI
+]A\A]
+[]A\A]
+AWAVAUATUSH
+[]A\A]A^A_
+AVAUATUH
+?[t&1
+ []A\A]A^
+tzH9
+<;v_<{
+d$0M
+d$0M
+<;vMH
+ATU1
+[]A\
+|$ H
+|$ H
+AWAVI
+AUAT
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+T$@H
+D$X%
+Lct$
+\$8L
+D$8I
+D$8L
+D$8I
+D$8L
+\$8H
+D$ H
+D$(H
+|$ 1
+dH3<%(
+[]A\A]A^A_
+Lct$
+|$ H
+|$ H
+AWAVAUATUSH
+D$81
+T$ 1
+L$8dH3
+H[]A\A]A^A_
+D$ L
+AVAUATUS
+$[]A\A]A^
+AWAVH
+AUATUSH
+alula
+C09A
+C(E1
+~ u	M
+C0HcC4I
+([]A\A]A^A_
+[]A\A]A^A_
+t$ H
+L$0H
+t$ H
+D$H1
+\$HdH3
+ATUL
+w@Hc
+H9D$
+ []A\
+AUATUS1
+H9D$
+([]A\A]
+AUATUS1
+D$(1
+t$ I
+H9D$ u0
+\$(dH3
+8[]A\A]
+ATUL
+[]A\
+ATUH
+ []A\
+AWAVH
+AUAT
+T$0dH
+D$H%
+[]A\A]A^A_
+L$(H
+T$$H
+L$(H
+T$$H
+D$(H9D$
+/staf
+T$(H
+H9D$
+AWAV1
+AUATE1
+[]A\A]A^A_
+D$P1
+T$PL
+l$PH
+T$pH
+t:E1
+L$PL
+D$D1
+t$PH
+L$PL
+D\$PH
+T$pH
+t$D1
+t$DH
+L$HH
+T$pH
+L$ H
+Borrow or rob
+|$HH
+D$PH
+D$PH
+|$HI
+T$PM
+l$`L
+|$PH
+L$(H
+t$DH
+T$pH
+t$pH
+D$(H
+t$pH
+t$DH
+T$pH
+L$DA
+|$HH
+L$ L)
+L$PE1
+L$P1
+L$8H
+H)L$ 
+AUATA
+[]A\A]
+E@I9
+C([1
+dH34%(
+ATUA
+[]A\
+AY[]A\
+AWAVAUATE1
+D9d$
+[]A\A]A^A_
+} AXAYH
+AVAUI
+ATUSL
+t$(H
+[]A\A]A^
+AWAVAUATI
+([]A\A]A^A_
+AUATL
+[]A\A]
+tVAUATI
+Mxt(
+L)`@H
+[]A\A]
+tVAUATI
+Mxt(
+[]A\A]
+ATUSH
+[]A\
+AUATUSH
+([]A\A]
+} XZH
+AVAUATUSH
+t$ E1
+Tacocat
+|$ H
+t$ L
+[]A\A]A^
+|$PXZH
+ATUA
+[]A\
+ATUA
+[]A\
+t<Hc
+AVAULc
+ATUSH
+ []A\A]A^
+H;C(|%H
+ATUH
+[]A\
+AWAVAUATA
+|$ D
+T$$H
+D$@A
+|$:fD
+T$@H
+B`@t	
+D$@L
+[]A\A]A^A_
+|$HI
+D$ D
+AUATUSH
+V8dH
+l$(L
+tKH;t$
+([]A\A]
+H;t$
+AWAVAUATUSHc
+([]A\A]A^A_
+D$81
+D$4'
+L$8dH3
+dH34%(
+dH34%(
+D$H1
+D$HdH3
+AWAVA
+AUATUSH
+[]A\A]A^A_
+[]A\A]A^A_A
+[]A\
+AWAVAUATA
+D$(L
+|$(A
+9APw
+t$4H
+[]A\A]A^A_
+[]A\A]A^A_
+L;d$
+,$D;hPr
+L$ D
+T$0L
+L$ D
+d$ A
+l$(L
+u?H9
+d$ H
+AWAVA
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVA
+AUATI
+D$(1
+\$(dH3
+8[]A\A]A^A_
+T$$L
+T$$A
+AWAVI
+AUAT
+[]A\A]A^A_
+D$TA
+([]A\A]A^A_
+D$TA
+t$TL
+T$\1
+t$XH
+l$XA
+t$XL
+ATUH
+S09C\
+[]A\
+[]A\
+AUATA
+U(9E\
+[]A\A]
+[]A\A]
+AVAUI
+ATUI
+|$P1
+t$pH
+]A\A]A^
+]A\A]A^
+t;ATUI
+[]A\
+AUATUSH
+taH9
+[]A\A]
+]A\A]
+]A\A]
+AUATI
+t$ L
+$$L9
+[]A\A]
+[]A\A]
+AUATI
+V H9
+[]A\A]
+ATUI
+[]A\
+t!H;r
+H;2t
+G8H9G0
+AWAVA
+AUATL
+%.n 
+-.n 
+[]A\A]A^A_
+Usage: %s [-c|-l filename] [-b block-size] [-C cluster-size]
+	[-i bytes-per-inode] [-I inode-size] [-J journal-options]
+	[-G flex-group-size] [-N number-of-inodes]
+	[-m reserved-blocks-percentage] [-o creator-os]
+	[-g blocks-per-group] [-L volume-label] [-M last-mounted-directory]
+	[-O feature[,...]] [-r fs-revision] [-E extended-option[,...]]
+	[-t fs-type] [-T usage-type ] [-U UUID] [-jnqvDFKSV] device [blocks-count]
+Bad block %u out of range; ignored.
+Syntax error in mke2fs config file (%s, line #%d)
+badblocks -b %d -X %s%s%s %llu
+while processing list of bad blocks from program
+Out of memory erasing sectors %d-%d
+Warning: could not read block 0: %s
+Warning: could not erase sector %d: %s
+Invalid filesystem option set: %s
+Couldn't allocate memory to parse options!
+Eleele
+'%s' must be before 'resize=%u'
+Invalid mmp_update_interval: %s
+Invalid # of backup superblocks: %s
+Invalid stripe-width parameter: %s
+The resize maximum must be greater than the filesystem size.
+On-line resizing not supported with revision 0 filesystems
+Invalid quotatype parameter: %s
+Bad option(s) specified: %s
+Extended options are separated by commas, and may take an argument which
+	is set off by an equals ('=') sign.
+Valid extended options are:
+	mmp_update_interval=<interval>
+	num_backup_sb=<0|1|2>
+	stride=<RAID per-disk data chunk in blocks>
+	stripe-width=<RAID stride * data disks in blocks>
+	offset=<offset to create the file system>
+	resize=<resize maximum size in blocks>
+	packed_meta_blocks=<0 to disable, 1 to enable>
+	lazy_itable_init=<0 to disable, 1 to enable>
+	lazy_journal_init=<0 to disable, 1 to enable>
+	root_uid=<uid of root directory>
+	root_gid=<gid of root directory>
+	test_fs
+	discard
+	nodiscard
+	quotatype=<usr OR grp>
+Warning: RAID stripe-width %u not an even multiple of stride %u.
+Couldn't allocate memory for new PATH.
+Couldn't init profile successfully (error: %ld).
+Warning: blocksize %d not usable on most systems.
+'-R' is deprecated, use '-E' instead
+Illegal number for blocks per group
+blocks per group must be multiple of 8
+Illegal number for flex_bg size
+flex_bg size must be a power of 2
+flex_bg size (%lu) must be less than or equal to 2^31
+invalid inode ratio %s (min %d/max %d)
+Warning: -K option is deprecated and should not be used anymore. Use '-E nodiscard' extended option instead!
+in malloc for bad_blocks_filename
+invalid reserved blocks percent - %s
+while trying to create revision %d
+The -t option may only be used once
+The -T option may only be used once
+b:cg:i:jl:m:no:qr:s:t:vC:DE:FG:I:J:KL:M:N:O:R:ST:U:V
+while trying to open journal device %s
+Journal dev blocksize (%d) smaller than minimum blocksize %d
+Using journal device's blocksize: %d
+invalid blocks '%s' on device '%s'
+while trying to determine filesystem size
+Couldn't determine device size; you must specify
+the size of the filesystem
+Device size reported to be zero.  Invalid partition specified, or
+	partition table wasn't reread after running fdisk, due to
+	a modified partition being busy and in use.  You may need to reboot
+	to re-read your partition table.
+Filesystem larger than apparent device size.
+Your mke2fs.conf file does not define the %s filesystem type.
+You probably need to install an updated mke2fs.conf file.
+Warning: the fs_type %s is not defined in mke2fs.conf
+Failed to parse fs types list
+sparse_super,large_file,filetype,resize_inode,dir_index
+while trying to determine hardware sector size
+while trying to determine physical sector size
+while setting blocksize; too small for device
+Warning: specified blocksize %d is less than device physical sectorsize %d
+%s: Size of device (0x%llx blocks) %s too big to be expressed
+	in 32 bits using a blocksize of %d.
+fs_types for mke2fs.conf resolution: 
+Filesystem features not supported with revision 0 filesystems
+Sparse superblocks not supported with revision 0 filesystems
+Journals not supported with revision 0 filesystems
+invalid reserved blocks percent - %lf
+Extents MUST be enabled for a 64-bit filesystem.  Pass -O extents to rectify.
+The cluster size may not be smaller than the block size.
+specifying a cluster size requires the bigalloc feature
+warning: Unable to get device geometry for %s
+%s alignment is offset by %lu bytes.
+This may result in very poor performance, (re)-partitioning suggested.
+%d-byte blocks too big for system (max %d)
+Warning: %d-byte blocks too big for system (max %d), forced to continue
+/sys/fs/ext4/features/lazy_itable_init
+Can't support bigalloc feature without extents feature
+The resize_inode and meta_bg features are not compatible.
+They can not be both enabled simultaneously.
+Warning: the bigalloc feature is still under development
+See https://ext4.wiki.kernel.org/index.php/Bigalloc for more information
+reserved online resize blocks not supported on non-sparse filesystem
+blocks per group count out of range
+Flex_bg feature not enabled, so flex_bg size may not be specified
+invalid inode size %d (min %d/max %d)
+too many inodes (%llu), raise inode ratio?
+too many inodes (%llu), specify < 2^32 inodes
+inode_size (%u) * inodes_count (%u) too big for a
+	filesystem with %llu blocks, specify higher inode_ratio (-i)
+	or lower inode count (-N).
+Overwriting existing filesystem; this can be undone using the command:
+    e2undo %s %s
+while trying to setup undo file
+Discard succeeded and will return 0s - skipping inode table wipe
+Creating filesystem with %llu %dk blocks and %u inodes
+warning: %llu blocks unused.
+Stride=%u blocks, Stripe width=%u blocks
+%llu blocks (%2.2f%%) reserved for the super user
+Maximum filesystem blocks=%lu
+%u blocks per group, %u clusters per group
+%u blocks per group, %u fragments per group
+Superblock backups stored on blocks: 
+while initializing journal superblock
+while zeroing journal device (block %llu, count %d)
+while writing journal superblock
+while reading in list of bad blocks from file
+Block %d in primary superblock/group descriptor area bad.
+Blocks %u through %u must be good in order to build a filesystem.
+Warning: the backup superblock/group descriptors at block %u contain
+	bad blocks.
+while marking bad blocks as used
+ext2fs_badblocks_list_iterate_begin
+while trying to allocate filesystem tables
+done                            
+	while converting subcluster bitmap
+while zeroing block %llu at end of filesystem
+Could not write %d blocks in inode table starting at %llu: %s
+while setting root inode ownership
+while reserving blocks for online resize
+	while trying to add journal to device %s
+Skipping journal creation in super-only mode
+Creating journal (%u blocks): 
+	while trying to create journal
+Error while enabling multiple mount protection feature.
+Multiple mount protection is enabled with update interval %d seconds.
+Writing superblocks and filesystem accounting information: 
+Warning, had trouble writing out superblocks.
+Running command: %s
+while trying to run '%s'
+popen
+ext2fs_read_bb_FILE
+fs_types
+uname
+desc-size
+desc_size
+%s requires '-O 64bit'
+Invalid desc_size: '%s'
+offset
+Invalid offset: %s
+mmp_update_interval
+num_backup_sb
+packed_meta_blocks
+stride
+Invalid stride parameter: %s
+stripe-width
+stripe_width
+resize
+Invalid resize parameter: %s
+test_fs
+lazy_itable_init
+lazy_journal_init
+root_owner
+Invalid root_owner: '%s'
+nodiscard
+quotatype
+defaults
+force_undo
+floppy
+small
+default
+huge
+ext4
+ext2
+PATH
+MKE2FS_SYNC
+MKE2FS_CONFIG
+mkfs.ext3
+mke3fs
+invalid block size - %s
+invalid cluster size - %s
+invalid inode size - %s
+bad num inodes - %s
+bad revision level - %s
+17-May-2015
+1.42.13
+mke2fs %s (%s)
+	Using %s
+TEST_IO_FLAGS
+TEST_IO_BLOCK
+proceed_delay
+options
+fs_type
+devices
+usage_types
+hurd
+mke4fs
+mkfs.
+ext4dev
+Aborting...
+base_features
+acl,user_xattr
+default_mntopts
+Invalid mount option set: %s
+default_features
+MKE2FS_DEVICE_SECTSIZE
+MKE2FS_DEVICE_PHYS_SECTSIZE
+blocksize
+journal
+reserved_ratio
+MKE2FS_FIRST_META_BG
+cluster_size
+inode_ratio
+journal_location
+inode_size
+flex_bg_size
+PATH=/sbin
+filesystem
+auto_64-bit_support
+/usr/share/locale
+E2FSPROGS_UNDO_DIR
+/var/lib/e2fsprogs
+undo_dir
+none
+%s/mke2fs-%s.e2undo
+old_bitmaps
+while setting up superblock
+Discarding device blocks: 
+tdb_data_size=%d
+offset=%llu
+could not parse UUID: %s
+half_md4
+hash_alg
+enable_periodic_fsck
+linux
+freebsd
+lites
+Filesystem label=%s
+OS type: %s
+Block size=%u (log=%u)
+Cluster size=%u (log=%u)
+Fragment size=%u (log=%u)
+%u inodes, %llu blocks
+First data block=%u
+Root directory owner=%u:%u
+%u block groups
+%u block group
+%u inodes per group
+Filesystem UUID: %s
+create_journal_dev
+Zeroing journal device: 
+while trying to open %s
+read_bad_blocks_file
+Aborting....
+Allocating group tables: 
+Writing inode tables: 
+while creating root dir
+ext2fs_mkdir
+while reading root inode
+ext2fs_read_inode
+ext2fs_write_inode
+while creating /lost+found
+while looking up /lost+found
+ext2_lookup
+while expanding /lost+found
+ext2fs_expand_dir
+while setting bad block inode
+ext2fs_update_bb_inode
+ext2fs_create_resize_inode
+Adding journal to device %s: 
+done
+while creating huge files
+done
+MKE2FS_SKIP_CHECK_MSG
+failed - 
+unknown os - %s
+<default>
+/etc/mke2fs.conf
+mke2fs
+<proceeding>
+Proceed anyway? (y,n) 
+Creating regular file %s
+stat
+LABEL
+%s contains a %s file system
+	last mounted on %s on %s
+	last mounted on %s
+	created on %s
+	last modified on %s
+PTTYPE
+Could not open %s: %s
+ext2fs_check_if_mount
+%s is mounted; 
+Beeb
+will not make a %s here!
+mke2fs forced anyway.
+device
+v1_superblock
+MMP check failed: %s
+Proceed anyway (or wait %d seconds) ? (y,n) 
+The file %s does not exist and no size was specified.
+The device apparently does not exist; did you specify it correctly?
+%s is not a block special device.
+%s contains a %s file system labelled '%s'
+Found a %s partition table in %s
+%s is entire device, not just one partition!
+while determining whether %s is mounted.
+mke2fs forced anyway.  Hope /etc/mtab is incorrect.
+%s is apparently in use by the system; 
+Couldn't allocate memory to parse journal options!
+Could not find journal device matching %s
+Bad journal options specified.
+Journal options are separated by commas, and may take an argument which
+	is set off by an equals ('=') sign.
+Valid journal options are:
+	size=<journal size in megabytes>
+	device=<journal device>
+	location=<journal location>
+The journal size must be between 1024 and 10240000 filesystem blocks.
+Filesystem too small for a journal
+The requested journal size is %d blocks; it must be
+between 1024 and 10240000 blocks.  Aborting.
+Journal size too big for filesystem.
+This filesystem will be automatically checked every %d mounts or
+%g days, whichever comes first.  Use tune2fs -c or -i to override.
+MMP error info: last update: %s node: %s device: %s
+@(root)
+HOME
+Do nine men interpret Nine men I nod
+%s/%s
+false
+true
+Profile version 0.0
+Profile section not found
+Profile relation not found
+Missing open brace in profile
+Bad magic value in profile_t
+No more sections
+No profile file open
+Couldn't open profile file
+Section already exists
+Invalid boolean value
+Invalid integer value
+Bad magic value in profile_node
+Attempt to add a relation to node which is not a section
+A profile section header has a non-zero value
+Bad linked list in profile structures
+Bad group level in profile structures
+Bad parent pointer in profile structures
+Bad magic value in profile iterator
+Can't set value on section node
+Invalid argument passed to profile library
+Attempt to modify read-only profile
+Profile section header not at top level
+Syntax error in profile section header
+Syntax error in profile relation
+Extra closing brace in profile
+Bad magic value in profile_section_t
+Iteration through all top level section not supported
+Invalid profile_section object
+Bad nameset passed to query routine
+Bad magic value in profile_file_t
+Bad magic value in profile_file_data_t
+[defaults]
+	base_features = sparse_super,large_file,filetype,resize_inode,dir_index,ext_attr
+	default_mntopts = acl,user_xattr
+	enable_periodic_fsck = 0
+	blocksize = 4096
+	inode_size = 256
+	inode_ratio = 16384
+[fs_types]
+	ext3 = {
+		features = has_journal
+	ext4 = {
+		features = has_journal,extent,huge_file,flex_bg,uninit_bg,dir_nlink,extra_isize
+		auto_64-bit_support = 1
+		inode_size = 256
+	ext4dev = {
+		features = has_journal,extent,huge_file,flex_bg,uninit_bg,dir_nlink,extra_isize
+		inode_size = 256
+		options = test_fs=1
+	small = {
+		blocksize = 1024
+		inode_size = 128
+		inode_ratio = 4096
+	floppy = {
+		blocksize = 1024
+		inode_size = 128
+		inode_ratio = 8192
+	big = {
+		inode_ratio = 32768
+	huge = {
+		inode_ratio = 65536
+	news = {
+		inode_ratio = 4096
+	largefile = {
+		inode_ratio = 1048576
+		blocksize = -1
+	largefile4 = {
+		inode_ratio = 4194304
+		blocksize = -1
+	hurd = {
+	     blocksize = 4096
+	     inode_size = 128
+/sys/block
+/sys/block/%s/dev
+%u:%u
+/sys/block/%s
+%s/%s/dev
+make_hugefiles
+hugefiles_uid
+hugefiles_gid
+hugefiles_umask
+num_hugefiles
+hugefiles_slack
+hugefiles_size
+hugefiles_align
+hugefiles_align_disk
+zero_hugefiles
+hugefiles_dir
+Huge files will be zero'ed
+Creating %lu huge file(s) 
+with %llu blocks each
+%0*lu
+while creating huge file %lu
+hugefile
+hugefiles_name
+hugefiles_digits
+Partition offset of %llu (%uk) blocks not compatible with cluster size %u.
+while zeroing block %llu for hugefile
+/build/e2fsprogs-Fbwc2X/e2fsprogs-1.42.13/lib/quota/mkquota.c
+[ERROR] %s:%d:%s:: Unable to allocate dquot
+[QUOTA WARNING] Usage inconsistent for ID %d:actual (%llu, %llu) != expected (%llu, %llu)
+[ERROR] %s:%d:%s:: Couldn't read bitmaps: %s
+[ERROR] %s:%d:%s:: Couldn't write bitmaps: %s
+[ERROR] %s:%d:%s:: Cannot initialize io on quotafile
+[ERROR] %s:%d:%s:: Cannot finish IO on new quotafile: %s
+[ERROR] %s:%d:%s:: Unable to allocate quota handle: %s
+[ERROR] %s:%d:%s:: Cannot close quotafile: %s
+[ERROR] %s:%d:%s:: Failed to allocate quota context
+[ERROR] %s:%d:%s:: Failed to allocate dictionary
+[ERROR] %s:%d:%s:: while opening inode scan. ret=%ld
+[ERROR] %s:%d:%s:: while getting next inode. ret=%ld
+[ERROR] %s:%d:%s:: Open quota file failed
+[ERROR] %s:%d:%s:: Unable to allocate quota handle
+[ERROR] %s:%d:%s:: Error scanning dquots
+[QUOTA WARNING] Missing quota entry ID %d
+quota_compare_and_update
+quota_update_limits
+quota_compute_usage
+get_dq
+quota_release_context
+quota_init_context
+quota_write_inode
+quota_remove_inode
+/build/e2fsprogs-Fbwc2X/e2fsprogs-1.42.13/lib/quota/quotaio.c
+A Santa lives evil at NASA
+[ERROR] %s:%d:%s:: ext2fs_file_llseek failed: %ld
+[ERROR] %s:%d:%s:: ext2fs_file_read failed: %ld
+[ERROR] %s:%d:%s:: ext2fs_file_write failed: %ld
+[ERROR] %s:%d:%s:: ex2fs_read_inode failed
+[ERROR] %s:%d:%s:: ext2fs_write_new_inode failed: %ld
+[ERROR] %s:%d:%s:: init_new_quota_inode failed
+[ERROR] %s:%d:%s:: ext2fs_file_open failed: %d
+[ERROR] %s:%d:%s:: qh_ops->new_io failed
+[ERROR] %s:%d:%s:: ext2fs_file_open failed: %s
+[ERROR] %s:%d:%s:: qh_ops->check_file failed
+[ERROR] %s:%d:%s:: qh_ops->init_io failed
+[ERROR] %s:%d:%s:: Failed to allocate dquot
+%s.%s
+aquota
+user
+group
+get_empty_dquot
+quota_inode_init_new
+quota_file_create
+quota_write_nomount
+quota_read_nomount
+quota_file_open
+/build/e2fsprogs-Fbwc2X/e2fsprogs-1.42.13/lib/quota/quotaio_v2.c
+[ERROR] %s:%d:%s:: Not Implemented.
+[ERROR] %s:%d:%s:: Your quota file is stored in wrong endianity
+v2_check_file
+v2_report
+/build/e2fsprogs-Fbwc2X/e2fsprogs-1.42.13/lib/quota/quotaio_tree.c
+[ERROR] %s:%d:%s:: Cannot write block (%u): %s
+[ERROR] %s:%d:%s:: Cannot read block %u: %s
+[ERROR] %s:%d:%s:: Illegal reference (%u >= %u) in %s quota file. Quota file is probably corrupted.
+Please run e2fsck (8) to fix it.
+[ERROR] %s:%d:%s:: Failed to allocate dqbuf
+[ERROR] %s:%d:%s:: Cannot allocate new quota block (out of disk space).
+[ERROR] %s:%d:%s:: Quota for id %u referenced but not present.
+[ERROR] %s:%d:%s:: Inserting already present quota entry (block %u).
+[ERROR] %s:%d:%s:: find_free_dqentry(): Data block full unexpectedly.
+[ERROR] %s:%d:%s:: Quota structure has offset to other block (%u) than it should (%u).
+[ERROR] %s:%d:%s:: Cannot write quota (id %u): %s
+[ERROR] %s:%d:%s:: Quota write failed (id %u): %s
+[ERROR] %s:%d:%s:: Cannot read quota structure for id %u: %s
+check_reference
+find_block_dqentry
+qtree_read_dquot
+free_dqentry
+write_blk
+find_free_dqentry
+read_blk
+get_free_dqblk
+getdqbuf
+Degas are we not drawn onward no In union drawn onward to new eras aged
+do_insert_tree
+dq_insert_tree
+qtree_write_dquot
+;*3$"
+mke2fs
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

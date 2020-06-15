@@ -1,0 +1,604 @@
+/lib64/ld-linux-x86-64.so.2
+libiso9660.so.8
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+iso9660_get_xa_attr_str
+iso9660_get_system_id
+iso9660_get_volume_id
+iso9660_fs_readdir
+_fini
+iso9660_fs_read_pvd
+iso9660_get_ltime
+_init
+iso9660_get_application_id
+iso9660_get_volumeset_id
+iso9660_name_translate_ext
+iso9660_get_dtime
+iso9660_get_publisher_id
+iso9660_fs_read_superblock
+iso9660_get_preparer_id
+libcdio.so.13
+mmc_audio_state2str
+cdio_open_cue
+cdio_get_devices_ret
+_cdio_list_node_next
+cdio_get_cdtext
+cdio_get_joliet_level
+cdio_get_track_lsn
+cdio_get_track_copy_permit
+cdio_get_default_device
+cdio_get_track_channels
+cdio_have_driver
+cdio_get_last_session
+mmc_get_hwinfo
+mmc_isrc_track_read_subchannel
+track_format2str
+mmc_feature_profile2str
+cdio_get_driver_name
+_cdio_list_append
+cdio_get_first_track_num
+cdio_is_discmode_cdrom
+cdio_loglevel_default
+_cdio_list_free
+cdio_driver_describe
+cdio_get_hwinfo
+cdio_open_am
+cdio_log_set_handler
+cdio_free_device_list
+cdio_msf_to_str
+cdio_is_discmode_dvd
+cdio_open
+discmode2str
+cdio_audio_get_volume
+cdio_get_mcn
+cdtext_destroy
+cdio_get_track_preemphasis
+cdio_get_track_format
+cdio_msf_to_lsn
+cdio_get_track_msf
+cdio_get_arg
+cdio_audio_get_msf_seconds
+mmc_run_cmd
+cdio_destroy
+cdio_get_discmode
+cdio_drivers
+mmc_feature2str
+cdio_get_track_green
+_cdio_list_new
+cdio_guess_cd_type
+cdio_get_num_tracks
+cdio_audio_read_subchannel
+Eleele
+cdio_get_drive_cap
+cdtext_field2str
+_cdio_list_begin
+_cdio_list_node_data
+libc.so.6
+fflush
+__printf_chk
+exit
+optind
+strrchr
+__strdup
+puts
+__stack_chk_fail
+putchar
+strftime
+strtol
+calloc
+strlen
+__fprintf_chk
+stdout
+malloc
+optarg
+stderr
+Borrow or rob
+__snprintf_chk
+getopt_long
+__memcpy_chk
+__vfprintf_chk
+__sprintf_chk
+__strcat_chk
+__libc_start_main
+_edata
+__bss_start
+_end
+GLIBC_2.4
+GLIBC_2.2.5
+GLIBC_2.3.4
+CDIO_13
+5Br 
+%Dr 
+%Br 
+%:r 
+%2r 
+%*r 
+%"r 
+%zq 
+%rq 
+%jq 
+%bq 
+%Zq 
+%Rq 
+%Jq 
+%Bq 
+%:q 
+%2q 
+%*q 
+%"q 
+%zp 
+%rp 
+%jp 
+%bp 
+%Zp 
+%Rp 
+%Jp 
+%Bp 
+%:p 
+%2p 
+%*p 
+%"p 
+AWAV
+AUATUS
+=ym 
+=io 
+=4o 
+=En 
+= n 
+5%n 
+=&n 
+L$LH
+T$HH
+t$DH
+=wm 
+=Qm 
+t$4H
+D$;L
+|$PD
+[]A\A]A^A_
+T$ L
+T$(Lc
+_AXw
+=Wj 
+|$PH
+LcD$0
+T$0D
+t$`D
+L$tD
+T$LD
+=xf 
+d$;H
+D$L 
+=ue 
+=de 
+=<e 
+D$`L
+|$iL
+t$PH
+t$`L
+AZA[
+t$`H
+t$4H
+|$<d
+D${D
+=5d 
++l$<
+T$(Mc
+=Ea 
+T$PH
+D$E@
+D$zA
+L$yH
+=Ea 
+=i_ 
+D$[H
+L$i1
+t$`H
+L$`H
+=z^ 
+God A red nugget A fat egg under a dog
+HcT$<H
+=X^ 
+=e_ 
+ATU@
+%!^ 
+AWAVAUATUS1
+T$,dH
+T$(L
+[]A\A]A^A_
+=hY 
+AWAVA
+AUATA
+@t$E
+[]A\A]A^A_
+=`S 
+=+S 
+$D:L$
+D8T$
+AWAVAUATD
+gfff
+([]A\A]A^A_
+=#R 
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+=fO 
+=PO 
+=\O 
+=TO 
+=PN 
+=)N 
+=}M 
+Do nine men interpret Nine men I nod
+=RM 
+tGUSH
+AWAVI
+AUAT
+=mJ 
+wAfA
+s	L9
+[]A\A]A^A_
+=YI 
+=AI 
+,+M9
+=yH 
+=%H 
+=eG 
+=OG 
+=-G 
+=}F 
+=AF 
+=)F 
+=yE 
+=YE 
+=9E 
+AVAUA
+=hD 
+=KD 
+=.D 
+=jC 
+=JC 
+=*C 
+=eB 
+=HB 
+=*B 
+[]A\A]A^
+[]A\A]A^H
+=lA 
+=YA 
+=9A 
+AWAVAUATI
+D$x1
+|$Pu	E
+=V@ 
+T$PH
+=;@ 
+D$xdH3
+[]A\A]A^A_
+=f? 
+|$PH
+T$P1
+AWAVA
+AUATL
+%~9 
+-~9 
+[]A\A]A^A_
+	%s: %s
+Error allocating memory
+%s%s
+/Ready
+ Portfolio 
+CD-TEXT for Disc:
+CD-TEXT for Track %2d:
+ and rockridge extensions
+CD-Interactive%s
+CD-ROM with Macintosh HFS
+CD-ROM with Unix UFS
+CD-ROM with UDFX filesystem
+Application: %s
+Preparer   : %s
+Publisher  : %s
+System     : %s
+Volume     : %s
+Volume Set : %s
+ISO9660 filesystem
+UDF: version %x.%2.2x
+mixed mode CD   
+XA sectors   
+Multisession, offset = %i   
+Hidden Track   
+%sPhoto CD   
+Commodore CDTV   
+CD-Plus/Extra   
+bootable CD   
+Video CD   
+Chaoji Video CD (CVD)
+true 
+false
+error
+0.83 x86_64-pc-linux-gnu
+source
+CD location   : %s
+CD driver name: %s
+access-mode
+   access mode: %s
+Model
+Vendor
+Revision
+list of devices found:
+Drive %s
+%-8s: %s
+%-8s: %s
+%-8s: %s
+Disc mode is listed as: %s
+Use --dvd to override.
+CD-ROM Track List (%i - %i)
+ Channels Premphasis?
+%3d: %8s  %06lu leadout 
+(%lu bytes
+(%lu KB
+(%lu MB
+ raw, 
+ formatted)
+%3d: %8s  %06lu %-6s %-5s  
+%-5s
+unknown
+ %-8s
+ %-8d
+Media Catalog Number (MCN): 
+not available
+Last CD Session LSN: 
+TRACK %2d ISRC: %s
+failed
+audio status: 
+ can't get volume levels
+not implemented
+FAILED
+debug
+no-tracks
+no-analyze
+no-cddb
+cddb-port
+cddb-http
+cddb-server
+cddb-email
+no-cddb-cache
+cddb-timeout
+no-device-info
+no-disc-mode
+no-vcd
+no-ioctl
+bin-file
+cue-file
+nrg-file
+toc-file
+input
+iso9660
+cdrom-device
+list-drives
+no-header
+no-joliet
+no-rock-ridge
+no-xa
+quiet
+version
+help
+usage
+%s: another source type option given before.
+%s: give only one source type option.
+Error getting above directory information
+CD-ROM with ISO 9660 filesystem
+ and joliet extension level %d
+CD-ROM with CD-RTOS and ISO 9660 filesystem
+CD-ROM with High Sierra filesystem
+CD-ROM with both Macintosh HFS and ISO 9660 filesystem
+Degas are we not drawn onward no In union drawn onward to new eras aged
+CD-ROM with GNU/Linux EXT2 (native) filesystem
+CD-ROM with Panasonic 3DO filesystem
+A Santa lives evil at NASA
+CD-ROM with unknown filesystem
+CD-ROM with Microsoft X-BOX XISO filesystem
+ISO 9660: %i blocks, label `%.32s'
+Super Video CD (SVCD) or Chaoji Video CD (CVD)
+%s: Source '%s' given as an argument of an option and as unnamed option '%s'
+%s: Source specified in previously %s and %s
+%s: %s: Error in opening device driver for input %s.
+%s: %s: Error in opening device driver for unspecified input.
+%s: %s: No input device given/found
+%-28s: %s
+%-28s: %s
+%-28s: %s
+__________________________________
+No further information currently given for DVDs.
+Tacocat
+%s: Can't get first track number. I give up%s.
+%s: Can't get number of tracks. I give up.%s
+  #: MSF       LSN    Type   Green? Copy?
+%s: cdio_track_msf for track %i failed, I give up.
+not supported by drive/driver
+ at: %02d:%02d abs / %02d:%02d track %d
+volume level port %d: %3d (0..255) %3d (0..100)
+CD Analysis Report omitted because audio is currently playing.
+__________________________________
+CD Analysis Report
+Oops: %lu unused sectors at start, but hidden track check failed.
+session #%d starts at track %2i, LSN: %lu, ISO 9660 blocks: %6i
+a:d:TAP:HvIb::c::N::t::i::C::lqV?
+Usage: %s [-a|--access-mode STRING] [-d|--debug INT] [-T|--no-tracks]
+        [-A|--no-analyze] [--no-cddb] [-P|--cddb-port INT] [-H|--cddb-http]
+        [--cddb-server=STRING] [--cddb-cache=STRING] [--cddb-email=STRING]
+        [--no-cddb-cache] [--cddb-timeout=INT] [--no-device-info]
+        [--no-disc-mode] [--dvd] [-v|--no-vcd] [-I|--no-ioctl]
+        [-b|--bin-file FILE] [-c|--cue-file FILE] [-N|--nrg-file FILE]
+        [-t|--toc-file FILE] [-i|--input FILE] [--iso9660]
+        [-C|--cdrom-device DEVICE] [-l|--list-drives] [--no-header]
+        [--no-joliet] [--no-rock-ridge] [--no-xa] [-q|--quiet] [-V|--version]
+        [-?|--help] [--usage]
+Usage: %s [OPTION...]
+  -a, --access-mode=STRING        Set CD access method
+  -d, --debug=INT                 Set debugging to LEVEL
+  -T, --no-tracks                 Don't show track information
+  -A, --no-analyze                Don't filesystem analysis
+  --no-cddb                       Does nothing since this program is not
+  -P, --cddb-port=INT             CDDB-enabled
+  -H, --cddb-http
+  --cddb-server=STRING
+  --cddb-cache=STRING
+  --cddb-email=STRING
+  --no-cddb-cache
+  --cddb-timeout=INT
+  --no-device-info                Don't show device info, just CD info
+  --no-disc-mode                  Don't show disc-mode info
+  --dvd                           Attempt to give DVD information if a DVD is
+                                  found.
+  -v, --no-vcd                    Don't look up Video CD information - for
+                                  this build, this is always set
+  -I, --no-ioctl                  Don't show ioctl() information
+  -b, --bin-file[=FILE]           set "bin" CD-ROM disk image file as source
+  -c, --cue-file[=FILE]           set "cue" CD-ROM disk image file as source
+  -N, --nrg-file[=FILE]           set Nero CD-ROM disk image file as source
+  -t, --toc-file[=FILE]           set cdrdao CD-ROM disk image file as source
+  -i, --input[=FILE]              set source and determine if "bin" image or
+                                  device
+  --iso9660                       print directory contents of any ISO-9660
+                                  filesystems
+  -C, --cdrom-device[=DEVICE]     set CD-ROM device as source
+  -l, --list-drives               Give a list of CD-drives
+  --no-header                     Don't display header and copyright (for
+                                  regression testing)
+  --no-joliet                     Don't use Joliet extensions
+  --no-rock-ridge                 Don't use Rock-Ridge-extension information
+  --no-xa                         Don't use XA-extension information
+  -q, --quiet                     Don't produce warning output
+  -V, --version                   display version and copyright information
+                                  and exit
+Help options:
+  -?, --help                      Show this help message
+  --usage                         Display brief usage message
+%s version %s
+Copyright (c) 2003, 2004, 2005, 2007, 2008, 2011 R. Bernstein
+This is free software; see the source for copying conditions.
+There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE.
+%s: Error in automatically selecting driver for input %s.
+Error in automatically selecting driver.
+%s: Cannot use CD-ROM device %s. Is a CD loaded?
+Cannot find a CD-ROM with a CD loaded.
+%s: %s: Error in opening CDRWin BIN/CUE image for BIN input %s
+alula
+Cannot find CDRWin BIN/CUE image.
+%s: %s: Error in opening CDRWin BIN/CUE image for CUE input %s
+%s: Error in opening Nero NRG image for input %s
+%s: Error in opening cdrdao TOC with input %s.
+Cannot find cdrdao TOC image.
+	Operational Change Request/Notification %ssupported
+	%synchronous GET EVENT/STATUS NOTIFICATION supported
+	Caddy/Slot type loading mechanism
+	Pop-up type loading mechanism
+	Embedded changer with individually changeable discs
+	Embedded changer using a magazine mechanism
+	can%s eject the medium or magazine via the normal START/STOP command
+	can%s be locked into the Logical Unit
+	C2 Error pointers are %ssupported
+	audio channels can %sbe muted separately
+	audio channels can %shave separate volume levels
+Error in getting drive hardware properties
+Uknown drive hardware properties
+Hardware                                  : %s
+Can eject                                 : %s
+Can close tray                            : %s
+Can disable manual eject                  : %s
+Can select juke-box disc                  : %s
+Can set drive speed                       : %s
+Can read multiple sessions (e.g. PhotoCD) : %s
+Can hard reset device                     : %s
+Error in getting drive reading properties
+Error in getting drive writing properties
+Uknown drive reading properties
+Uknown drive writing properties
+  Can read Mode 2 Form 1                  : %s
+  Can read Mode 2 Form 2                  : %s
+Beeb
+  Can read (S)VCD (i.e. Mode 2 Form 1/2)  : %s
+  Can read C2 Errors                      : %s
+  Can read IRSC                           : %s
+  Can read Media Channel Number (or UPC)  : %s
+  Can play audio                          : %s
+  Can read CD-DA                          : %s
+  Can read CD-R                           : %s
+  Can read CD-RW                          : %s
+  Can read DVD-ROM                        : %s
+  Can write CD-RW                         : %s
+  Can write DVD-R                         : %s
+  Can write DVD-RAM                       : %s
+  Can write DVD-RW                        : %s
+  Can write DVD+RW                        : %s
+  %s %d %d [fn %.2d] [LSN %6lu] 
+Have driver: %s
+Default CD-ROM device: %s
+No CD-ROM device found.
+%s: %s
+Cannot find Nero NRG image.
+/dev/
+/dev/%s
+not 
+Persistent
+%s Feature
+ - on
+	unspecified interface
+	SCSI interface
+	ATAPI interface
+	IEEE 1394 interface
+	IEEE 1394A interface
+	Fibre Channel interface
+	Tray type loading mechanism
+	Unknown changer mechanism
+	CD-Text is %ssupported
+	%s-DRM mode is supported
+	SCAN command is %ssupported
+	%d volume levels can be set
+	CSS version %d
+Didn't get all feature codes
+Disk Image
+CD-ROM or DVD
+Reading....
+Writing....
+%9u (%9u)
+  %c [LSN %6lu] %9u
+%b %d %Y %H:%M:%S 
+ %s %s
+ -> %s
+;*3$"
+cd-info
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

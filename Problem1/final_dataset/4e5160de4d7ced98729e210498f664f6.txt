@@ -1,0 +1,587 @@
+/lib64/ld-linux-x86-64.so.2
+|fUa
+libusb-1.0.so.0
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+libusb_release_interface
+libusb_get_device_descriptor
+libusb_interrupt_transfer
+libusb_close
+_fini
+libusb_bulk_transfer
+libusb_get_device_list
+libusb_get_config_descriptor
+libusb_set_debug
+libusb_get_string_descriptor_ascii
+libusb_open
+libusb_reset_device
+libusb_detach_kernel_driver
+libusb_set_interface_alt_setting
+libusb_error_name
+libusb_get_active_config_descriptor
+libusb_claim_interface
+libusb_get_bus_number
+libusb_get_device_address
+libusb_clear_halt
+libusb_control_transfer
+libusb_init
+libusb_set_configuration
+Borrow or rob
+libusb_kernel_driver_active
+libusb_exit
+libusb_free_config_descriptor
+libc.so.6
+fflush
+strcpy
+__printf_chk
+fopen
+strncmp
+strrchr
+perror
+signal
+strncpy
+puts
+__stack_chk_fail
+putchar
+abort
+stdin
+strtok
+strtol
+fgets
+strlen
+openlog
+strstr
+A Santa lives evil at NASA
+__syslog_chk
+__fprintf_chk
+stdout
+fputc
+memcpy
+fclose
+malloc
+optarg
+stderr
+getopt_long
+usleep
+fwrite
+strchr
+__ctype_toupper_loc
+__strcpy_chk
+__sprintf_chk
+strcmp
+__libc_start_main
+stpcpy
+closelog
+free
+_edata
+__bss_start
+_end
+GLIBC_2.3.4
+GLIBC_2.14
+GLIBC_2.4
+GLIBC_2.2.5
+GLIBC_2.3
+AUATUSH
+D$(1
+        H
+not prov
+ided
+not prov
+ided
+not prov
+alula
+ided
+AUAT
+D$(1
+T$(dH3
+8[]A\A]
+|$ I
+D$(1
+L$(dH3
+0[]A\
+ATUS
+gfff
+[]A\
+Tacocat
+[]A\H
+[]A\H
+ZYu"H
+ZYt1
+ZYx"H
+ZYx&H
+ZYx"H
+ZYuHH
+ZYx(H
+ZYx'H
+<	v)
+<	v#
+ATUA
+ATUSH
+ []A\
+ATUSH
+D$X1
+D$ H
+D$@H
+D$XdH3
+`[]A\
+AWAVI
+AUATA
+D$x1
+t$ I
+D$8A9
+D$ H
+L$8D
+D$:1
+D$8A9
+T$:9
+=_} 
+=k| 
+L$xdH3
+[]A\A]A^A_
+T$(1
+|$(H
+=a{ 
+=4{ 
+=*z 
+jdE1
+=xy 
+='y 
+=V{ 
+jdE1
+Beeb
+=Qx 
+=(z 
+= w 
+=[v 
+=yv 
+=Iv 
+=hs 
+=!t 
+AWAVAUATUSH
+-1r 
+D95yo 
+[]A\A]A^A_
+=Lm 
+=*m 
+=kb 
+AVAUATUSH
+=q` 
+=I` 
+=	` 
+=A_ 
+=Ai 
+=!^ 
+=	^ 
+=1\ 
+5a[ 
+5ie 
+[]A\A]A^
+AWAVA
+AUATL
+%NP 
+-NP 
+[]A\A]A^A_
+DefaultVendor=  0x%04x
+DefaultProduct= 0x%04x
+TargetVendor=   0x%04x
+TargetProduct=  0x%04x
+TargetClass=    0x%02x
+TargetProductList="%s"
+StandardEject=1
+DetachStorageOnly=1
+HuaweiMode=1
+HuaweiNewMode=1
+SierraMode=1
+SonyMode=1
+QisdaMode=1
+QuantaMode=1
+GCTMode=1
+KobilMode=1
+SequansMode=1
+MobileActionMode=1
+CiscoMode=1
+BlackberryMode=1
+PantechMode=1
+MessageEndpoint=0x%02x
+MessageContent="%s"
+MessageContent2="%s"
+MessageContent3="%s"
+NeedResponse=%i
+ResponseEndpoint=0x%02x
+Interface=0x%02x
+Configuration=0x%02x
+AltSetting=0x%02x
+InquireDevice=1
+    
+  Vendor String: 
+   Model String: 
+Revision String: 
+-------------------------
+Search USB devices ...
+Reset USB device 
+ Device reset failed.
+ Device was reset
+Change to alt setting %i ...
+Send Sierra control message
+Send Sequans control message
+ OK, driver detached
+ OK, configuration set
+Set up interface %d
+55534243
+Set up Cisco interface %d
+ bus/device number matched
+  found USB ID %04x:%04x
+   vendor ID matched
+   product ID matched
+   target class %02x matches
+   count device
+Send Sony control message
+ After %d seconds:
+ device came back, proceed
+ device still gone, abort
+ OK, control message sent
+Manufacturer: %s
+     Product: %s
+  Serial No.: %s
+device seems to have switched
+stdin
+Read long config from stdin
+Read config file: %s
+TargetVendor
+TargetProduct
+TargetProductList
+TargetClass
+DefaultVendor
+DefaultProduct
+DetachStorageOnly
+HuaweiMode
+HuaweiNewMode
+SierraMode
+SonyMode
+GCTMode
+KobilMode
+SequansMode
+MobileActionMode
+CiscoMode
+QisdaMode
+QuantaMode
+BlackberryMode
+PantechMode
+StandardEject
+NoDriverLoading
+MessageEndpoint
+MessageContent
+MessageContent2
+MessageContent3
+ReleaseDelay
+NeedResponse
+ResponseEndpoint
+ResetUSB
+InquireDevice
+CheckSuccess
+Interface
+Configuration
+AltSetting
+2.2.5
+%04x
+Look for target devices ...
+Look for default devices ...
+Use interface number %d
+usb_modeswitch
+ok:busdev
+ok:no_data
+ok:%04x:%04x
+fail:
+help
+version
+default-vendor
+default-product
+target-vendor
+target-product
+target-class
+message-endpoint
+message-content
+message-content2
+message-content3
+release-delay
+response-endpoint
+bus-num
+device-num
+detach-only
+huawei-mode
+sierra-mode
+sony-mode
+qisda-mode
+quanta-mode
+kobil-mode
+gct-mode
+sequans-mode
+mobileaction-mode
+cisco-mode
+blackberry-mode
+pantech-mode
+std-eject
+need-response
+reset-usb
+config-file
+verbose
+quiet
+sysmode
+inquire
+stdinput
+find-mbim
+long-config
+check-success
+interface
+configuration
+altsetting
+Success check enabled, max. wait time %d seconds
+System integration mode enabled
+Error: could not get description string "manufacturer"
+Error: could not get description string "product"
+Error: could not get description string "serial number"
+ Could not claim interface (error %d). Skip device inquiry
+ INQUIRY message failed (error %d)
+ INQUIRY response failed (error %d)
+SCSI inquiry data (for identification)
+Libusb could not access USB. Abort
+Found device, search for MBIM configuration...
+Device handle empty, skip USB reset
+ Could not claim interface (error %d). Skip AltSetting
+ Change to alt setting returned error %d. Try to continue
+Send old Huawei control message ...
+Error: Huawei control message failed (error %d). Abort
+ communication with device stopped. May have switched modes anyway
+Error: Sierra control message failed (error %d). Abort
+ Could not claim interface (error %d). Skip GCT sequence
+Send GCT control message 1 ...
+ GCT control message 1 failed (error %d), continue anyway ...
+Send GCT control message 2 ...
+ GCT control message 2 failed (error %d). Abort
+Send Kobil control message ...
+Error: Kobil control message failed (error %d). Abort
+Sending Qisda control message ...
+Error: Qisda control message failed (error %d). Abort
+Send Quanta control message ...
+Error: Quanta control message failed (error %d). Abort
+Send Blackberry control message 1 ...
+Error: Blackberry control message 1 failed (result %d)
+Send Blackberry control message 2 ...
+Error: Blackberry control message 2 failed (result %d). Abort
+Send Pantech control message, wValue %d ...
+ Error: Pantech control message failed (error %d). Abort
+Send MobileAction control sequence ...
+ MobileAction control sequence did not complete
+ Last error was %d
+ MobileAction control sequence complete
+Error: Sequans request failed (error %d). Abort
+Looking for active driver ...
+ Can't do driver detection on this platform.
+ Driver check failed with error %d. Try to continue
+ No active driver found. Detached before or never attached
+ Can't do driver detaching on this platform.
+ Driver detach failed (error %d). Try to continue
+Change configuration to %i ...
+ Device is busy, try to detach kernel driver
+ Changing the configuration failed (error %d). Try to continue
+ OK, message successfully sent
+ Device seems to have vanished right after sending. Good.
+ Sending the message returned error %d. Try to continue
+ Response successfully read (%d bytes).
+ Device seems to have vanished after reading. Good.
+ Response reading failed (error %d)
+Error: MessageContent %d hex string has uneven length. Skipping ...
+Trying to send message %d to endpoint 0x%02x ...
+Error: MessageContent %d %s
+ is not a hex string. Skipping ...
+ Could not claim interface (error %d). Skip message sending
+Use endpoint 0x%02x for message sending ...
+Read the response to message %d (CSW) ...
+Read the response to message %d ...
+Reset response endpoint 0x%02x
+ Could not reset endpoint (probably harmless): %d
+Reset message endpoint 0x%02x
+Wait for %d ms before releasing interface ...
+ Device is gone, skip any further commands
+Program cancelled by system. Bye!
+55534243f83bcd810002000080000afd000000030000000100000000000000
+55534243984300820002000080000afd000000070000000100000000000000
+55534243984300820000000000000afd000100071000000000000000000000
+55534243984300820002000080000afd000200230000000100000000000000
+55534243984300820000000000000afd000300238200000000000000000000
+55534243984300820002000080000afd000200260000000100000000000000
+55534243984300820000000000000afd00030026c800000000000000000000
+55534243d84c04820002000080000afd000010730000000100000000000000
+55534243d84c04820002000080000afd000200240000000100000000000000
+55534243d84c04820000000000000afd000300241300000000000000000000
+55534243d84c04820000000000000afd000110732400000000000000000000
+ Could not claim interface (error %d). Abort
+ Read the response (CSW) to bulk message %d ...
+ Repeat reading the response to bulk message %d ...
+Device returned error %d, skip further commands
+Get the current device configuration ...
+ Determining the active configuration failed (error %d). Abort
+Libusb failed to get USB access!
+Error: entry in product ID list has wrong length: %s. Ignored
+Error: entry in product ID list is not a hex string: %s. Ignored
+   device not counted, target class reached
+   device class %02x not matching target
+   device configuration %d not matching target
+   device not counted, target configuration reached
+Error: Sony control message failed (error %d). Abort
+ OK, control message sent, wait for device to return ...
+Error: could not get handle on device
+Send Sony control message again ...
+Error: Sony control message (2) failed (error %d)
+Check for mode switch (max. %d times, once per second) ...
+ Wait for original device to vanish ...
+ Original device can't be accessed anymore. Good.
+ Original device still present after the timeout
+Mode switch most likely failed. Bye!
+ Search for target devices ...
+Found target device, open it
+God A red nugget A fat egg under a dog
+Found target device %03d on bus %03d
+Target device description data
+ Found correct target device
+Mode switch succeeded. Bye!
+ No new devices in target mode or class found
+Mode switch has failed. Bye!
+ (For a better success check provide target IDs or class)
+ Original device vanished after switching
+Mode switch most likely succeeded. Bye!
+switched to %04x:%04x on %03d/%03d
+Read long config from command line
+Error: Could not find file %s. Abort
+Error reading parameters from file %s - Missing end quote:
+Error reading parameters from file %s - Missing variable name:
+Error reading parameter from file %s - Missing value:
+Warning: TargetProductList overrides TargetProduct!
+Usage: usb_modeswitch [<params>] [-c filename]
+ -h, --help                    this help
+ -e, --version                 print version information and exit
+ -j, --find-mbim               return config no. with MBIM interface, exit
+ -v, --default-vendor NUM      vendor ID of original mode (mandatory)
+ -p, --default-product NUM     product ID of original mode (mandatory)
+ -V, --target-vendor NUM       target mode vendor ID (optional)
+ -P, --target-product NUM      target mode product ID (optional)
+ -C, --target-class NUM        target mode device class (optional)
+ -b, --bus-num NUM             system bus number of device (for hard ID)
+ -g, --device-num NUM          system device number (for hard ID)
+ -m, --message-endpoint NUM    direct the message transfer there (optional)
+ -M, --message-content <msg>   message to send (hex number as string)
+ -2 <msg>, -3 <msg>            additional messages to send (-n recommended)
+ -n, --need-response           read response to the message transfer (CSW)
+ -r, --response-endpoint NUM   read response from there (optional)
+ -K, --std-eject               send standard EJECT sequence
+ -d, --detach-only             detach the active driver, no further action
+ -H, --huawei-mode             apply a special procedure
+ -J, --huawei-new-mode         apply a special procedure
+ -S, --sierra-mode             apply a special procedure
+ -O, --sony-mode               apply a special procedure
+ -G, --gct-mode                apply a special procedure
+ -N, --sequans-mode            apply a special procedure
+ -A, --mobileaction-mode       apply a special procedure
+ -T, --kobil-mode              apply a special procedure
+ -L, --cisco-mode              apply a special procedure
+ -B, --qisda-mode              apply a special procedure
+ -E, --quanta-mode             apply a special procedure
+ -F, --pantech-mode NUM        apply a special procedure, pass NUM through
+ -R, --reset-usb               reset the device after all other actions
+ -Q, --quiet                   don't show progress or error messages
+ -W, --verbose                 print all settings and debug output
+ -D, --sysmode                 specific result and syslog message
+ -s, --success <seconds>       switching result check with timeout
+ -I, --inquire                 retrieve SCSI attributes initially
+ -c, --config-file <filename>  load long configuration from file
+ -t, --stdinput                read long configuration from stdin
+ -f, --long-config <text>      get long configuration from string
+ -i, --interface NUM           select initial USB interface (default 0)
+ -u, --configuration NUM       select USB configuration
+ -a, --altsetting NUM          select alternative USB interface setting
+ * usb_modeswitch: handle USB devices with multiple modes
+ * Version %s (C) Josua Dietze 2015
+ * Based on libusb1/libusbx
+ ! PLEASE REPORT NEW CONFIGURATIONS !
+hejWQDndKHJSOBEGTNALZF:RItv:p:V:P:C:m:M:2:3:w:r:c:i:u:a:s:f:b:g:
+Take all parameters from the command line
+No default vendor/product ID given. Abort
+Error: MessageContent hex string has uneven length. Abort
+Use given bus/device number: %03d/%03d ...
+Note: No target parameter given; success check limited
+Error: Failed to initialize libusb. %s (%d)
+ Found devices in target mode or class (%d)
+ No devices in target mode or class found
+ Found devices in default mode (%d)
+ No devices in default mode found. Nothing to do. Bye!
+ No bus/device match. Is device connected? Abort
+Access device %03d on bus %03d
+Error opening the device. Abort
+Current configuration number is %d
+Error: message endpoint not given or found. Abort
+Error: response endpoint not given or found. Abort
+Use endpoints 0x%02x (out) and 0x%02x (in)
+Error: Could not get class of interface %d. Does it exist? Abort
+Bogus Class/InterfaceClass: 0x%02x/0x08
+Error: can't use storage command in MessageContent with interface %d;
+       interface class is %d, expected 8. Abort
+Inquire device details; driver will be detached ...
+Not a storage device, skip SCSI inquiry
+USB description data (for identification)
+Multiple special modes selected; check configuration. Abort
+Warning: MessageContent/StandardEject ignored; can't combine with special mode
+Warning: MessageContent2/3 ignored; only one allowed with StandardEject
+Eleele
+Warning: no switching method given. See documentation
+Degas are we not drawn onward no In union drawn onward to new eras aged
+switch device %04x:%04x on %03d/%03d
+Detach storage driver as switching method ...
+ Any driver was already detached for inquiry. Do nothing
+ You may want to remove the storage driver manually
+Waiting for auto-switch of Pantech modem ...
+Note: CheckSuccess ignored; Sony mode does separate checks
+Sending standard EJECT sequence
+5553424387654321000000000000061e000000000000000000000000000000
+5553424397654321000000000000061b000000020000000000000000000000
+Using standard Huawei switching message
+55534243123456780000000000000011062000000101000100000000000000
+The configuration was set successfully
+Changing the configuration has failed
+Target configuration %d found. Do nothing
+switched S.E. MD400 to modem mode
+-> device should be stable now. Bye!
+-> switching was probably not completed. Bye!
+-> Run lsusb to note any changes. Bye!
+Error: MessageContent %s
+ is not a hex string. Abort
+Do nine men interpret Nine men I nod
+;*3$"
+d7fe2356e7b487a5476d32f5ef04ad6afd43db.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got
+.got.plt
+.data
+.bss
+.gnu_debuglink

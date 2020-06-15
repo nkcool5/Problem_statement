@@ -1,0 +1,634 @@
+/lib64/ld-linux-x86-64.so.2
+|fUa
+liblpsolve55.so
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+print_duals
+get_presolve
+set_maxpivot
+set_use_names
+time_elapsed
+write_mps
+read_lp
+print_solution
+get_pivoting
+_init
+set_mip_gap
+set_BFP
+set_epsperturb
+set_debug
+set_pivoting
+set_simplextype
+delete_lp
+set_epsint
+set_minim
+read_mps
+set_print_sol
+read_basis
+set_epsel
+read_freemps
+get_presolveloops
+print_lp
+set_anti_degen
+_fini
+print_scales
+set_obj_in_basis
+set_basiscrash
+write_basis
+get_nameindex
+set_break_at_first
+set_XLI
+guess_basis
+print_objective
+put_msgfunc
+set_break_at_value
+set_bb_floorfirst
+write_freemps
+write_lp
+set_preferdual
+set_int
+write_params
+set_bb_depthlimit
+set_bb_rule
+get_total_iter
+read_params
+get_bb_rule
+A Santa lives evil at NASA
+write_XLI
+print_constraints
+get_Nrows
+get_Ncolumns
+set_epspivot
+set_scalelimit
+get_solutioncount
+get_total_nodes
+print_debugdump
+set_basis
+set_presolve
+get_working_objective
+set_solutionlimit
+get_max_level
+print_tableau
+set_trace
+set_epsb
+set_epsd
+set_improve
+read_XLI
+set_scaling
+set_obj_bound
+set_semicont
+is_SOS_var
+set_timeout
+get_scaling
+set_maxim
+libc.so.6
+__printf_chk
+exit
+fopen
+strncmp
+strrchr
+signal
+puts
+putchar
+clock
+stdin
+isspace
+strtod
+strtol
+feof
+fgets
+calloc
+__fprintf_chk
+fclose
+malloc
+stderr
+fwrite
+strcmp
+__libc_start_main
+free
+_edata
+__bss_start
+_end
+/usr/lib/lp_solve
+GLIBC_2.3.4
+GLIBC_2.2.5
+AWAVI
+AUATA
+D${H
+L$Xf
+\$@L
+D$ f
+D$(H
+l$ M
+|$ L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+|$(D
+~ZHc
+~;Hc
+l$ D
+D$xf
+alula
+D${<
+t$\H
+t$dH
+t$TH
+t$`H
+Tacocat
+_AXf
+D$(H
+T$@H
+|$(1
+l$ M
+t$pH
+|$(D
+L$@L
+t$XD
+BtTu{
+\$@L
+\$@L
+T$@E
+D$@L
+L$@L
+D$@L
+D$@L
+D$@L
+D$@s5
+D$@L
+L$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+D$d"
+\$@L
+\$@L
+T$@D
+T$@D
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+Degas are we not drawn onward no In union drawn onward to new eras aged
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+\$@L
+L$@D
+L$@u
+L$@D
+L$@u-
+L$@D
+L$@u
+L$@D
+L$@u-
+L$@D
+L$@u
+~]Hc
+L$@D
+~;Hc
+L$@D
+L$@u=E
+~YHc
+L$@D
+L$@u
+D$@I
+D$@I
+D$@I
+L$@H
+D$pL
+D$@I
+D$@I
+<-u+A
+ou$A
+T$(H;
+D$(L
+UH-8
+=AK 
+AWAVM
+AUATM
+d$PL
+|$Xt
+[]A\A]A^A_
+[]A\A]A^A_
+=;A 
+AWAVA
+AUATL
+[]A\A]A^A_
+%s %6.1fsec %8g
+Feasible solution 
+Real solution 
+First MILP    
+Improved MILP 
+%s [options] [[<]input_file]
+List of options:
+-h		prints this message
+	 -piv0: Select first
+	 -piv3: Select steepest edge
+-pivm		Multiple pricing.
+Beeb
+	 -s0: No scaling
+	 -s2: Curtis-reid scaling
+	  -s:
+	 -s7: Scale quadratic
+-sp		also do power scaling.
+-presolvem	Merge rows
+-presolvefd	COLFIXDUAL
+-presolvebnd	Presolve bounds
+-presolved	Presolve duals
+-presolveslk	IMPLIEDSLK
+-C <mode>	basis crash mode
+	 -C0: No crash basis
+	 -C2: Most feasible basis
+	 -C3: Least degenerate basis
+-degenf		anti-degen fixedvars
+-degens		anti-degen stalling
+-degenl		anti-degen lostfeas
+-degenb		anti-degen B&B
+	 -improve0: none
+-g <number>
+		solution
+		value is better than value
+-Bg		Greedy branch-and-bound
+-BG		GubMode branch-and-bound
+-Bd		Dynamic branch-and-bound
+	 -v0: NEUTRAL
+	 -v1: CRITICAL
+	 -v2: SEVERE
+	 -v3: IMPORTANT (default)
+	 -v4: NORMAL
+	 -v5: DETAILED
+	 -v6: FULL
+God A red nugget A fat egg under a dog
+-t		trace pivot selection
+	 -S0: Print nothing
+	 -S1: Only objective value
+-nonames
+-norownames
+-nocolnames
+-depth
+-timeoutok
+-prim
+-dual
+-simplexpp
+-simplexdp
+-simplexpd
+Do nine men interpret Nine men I nod
+-simplexdd
+-gbas
+-improve
+-pivll
+-pivla
+-pivf
+-pivm
+-piva
+-pivr
+-pivh
+-pivt
+-piv
+-wlp
+Borrow or rob
+-mps
+-fmps
+-wmps
+-wfmps
+-wafter
+-degen
+-degenf
+-degenc
+-degens
+-degenn
+-degenl
+-degeni
+-degend
+-degenb
+-degenr
+-degenp
+-time
+-bfp
+-rxli
+-rxlidata
+-rxliopt
+-wxli
+-wxliopt
+-wxlisol
+-wxlisolopt
+-rbas
+-wbas
+-timeout
+-trej
+-epsp
+-epsd
+-epsb
+-epsel
+-parse_only
+-presolverow
+-presolvecol
+-presolve
+-presolvel
+-presolves
+-presolver
+-presolvek
+-presolveq
+-presolvem
+-presolvefd
+-presolvebnd
+-presolved
+-presolvef
+-presolveslk
+-presolveg
+-presolveb
+-presolvec
+-presolverowd
+-presolvecold
+-min
+-max
+-noint
+-rpar
+-rparopt
+-wpar
+-wparopt
+Parsing input
+Unable to read model.
+Unable to set BFP package.
+Mallformed line: %s
+Unable to set guessed basis.
+guess_basis: Out of memory.
+Unable to open file %s
+Unable to read basis file.
+Unable to write basis file.
+solving
+Suboptimal solution
+Presolved solution
+Out of memory
+This problem is infeasible
+This problem is unbounded
+The B&B routine failed
+Eleele
+Timeout
+User aborted
+lp_solve failed
+Usage of %s version %d.%d.%d.%d:
+-lp		read from LP file (default)
+-mps		read from MPS file in fixed format
+-fmps		read from MPS file in free format
+-rpar filename	read parameters from filename.
+-rparopt options
+		options for parameter file:
+		 -H headername: header name for parameters. By default 'Default'
+-rxli xliname filename
+		read file with xli library
+-rxlidata datafilename
+		data file name for xli library.
+-rxliopt options
+		options for xli library.
+-rbas filename	read basis from filename.
+-gbas filename	guess basis with variables from filename.
+-wlp filename	write to LP file
+-wmps filename	write to MPS file in fixed format
+-wfmps filename	write to MPS file in free format
+-wxli xliname filename
+		write file with xli library
+-wxliopt options
+		options for xli library.
+-wxlisol xliname filename
+		write solution file with xli library
+-wxlisolopt options
+		options for xli library.
+-wbas filename	write basis to filename.
+-wpar filename	write parameters to filename.
+-wparopt options
+		options for parameter file:
+-wafter		Write model after solve (useful if presolve used).
+-parse_only	parse input file but do not solve
+-nonames	Ignore variables and constraint names
+-norownames	Ignore constraint names
+-nocolnames	Ignore variable names
+-min		Minimize the lp problem (overrules setting in file)
+-max		Maximize the lp problem (overrules setting in file)
+-r <value>	specify max nbr of pivots between a re-inversion of the matrix
+-piv <rule>	specify simplex pivot rule
+	 -piv1: Select according to Dantzig
+	 -piv2: Select Devex pricing from Paula Harris (default)
+These pivot rules can be combined with any of the following:
+-pivf		In case of Steepest Edge, fall back to DEVEX in primal.
+-piva		Temporarily use First Index if cycling is detected.
+-pivr		Adds a small randomization effect to the selected pricer.
+-pivll		Scan entering/leaving columns left rather than right.
+-pivla		Scan entering/leaving columns alternatingly left/right.
+-pivh		Use Harris' primal pivot logic rather than the default.
+-pivt		Use true norms for Devex and Steepest Edge initializations.
+-o0		Don't put objective in basis%s.
+-o1		Put objective in basis%s.
+-s <mode> <scaleloop>	use automatic problem scaling.
+	 -s1: Geometric scaling (default)
+	 -s3: Scale to convergence using largest absolute value
+	 -s4: Numerical range-based scaling
+	 -s5: Scale to convergence using logarithmic mean of all values
+	 -s6: Scale based on the simple numerical range
+These scaling rules can be combined with any of the following:
+-si		also do Integer scaling (default).
+-se		also do equilibration to scale to the -1..1 range (default).
+-presolve	presolve problem before start optimizing (rows+columns)
+-presolverow	presolve problem before start optimizing (rows only)
+-presolvecol	presolve problem before start optimizing (columns only)
+-presolvel	also eliminate linearly dependent rows
+-presolves	also convert constraints to SOSes (only SOS1 handled)
+-presolver	If the phase 1 solution process finds that a constraint is
+		redundant then this constraint is deleted
+-presolvek	Simplification of knapsack-type constraints through
+		addition of an extra variable, which also helps bound the OF
+-presolveq	Direct substitution of one variable in 2-element equality
+		constraints; this requires changes to the constraint matrix
+-presolvef	Identify implied free variables (releasing their expl. bounds)
+-presolveg	Reduce (tighten) coef. in integer models based on GCD argument
+-presolveb	Attempt to fix binary variables at one of their bounds
+-presolvec	Attempt to reduce coefficients in binary models
+-presolverowd	Idenfify and delete qualifying constraints that
+		are dominated by others, also fixes variables at a bound
+-presolvecold	Deletes variables (mainly binary), that are dominated
+		by others (only one can be non-zero)
+-prim		Prefer the primal simplex for both phases.
+-dual		Prefer the dual simplex for both phases.
+-simplexpp	Set Phase1 Primal, Phase2 Primal.
+-simplexdp	Set Phase1 Dual, Phase2 Primal.
+-simplexpd	Set Phase1 Primal, Phase2 Dual.
+-simplexdd	Set Phase1 Dual, Phase2 Dual.
+-degen		use perturbations to reduce degeneracy,
+		can increase numerical instability
+-degenc		use column check to reduce degeneracy
+-degend		dynamic check to reduce degeneracy
+-degenn		anti-degen numfailure
+-degeni		anti-degen infeasible
+-degenr		anti-degen Perturbation of the working RHS at refactorization
+-degenp		anti-degen Limit bound flips
+-trej <Trej>	set minimum pivot value
+-epsd <epsd>	set minimum tolerance for reduced costs
+-epsb <epsb>	set minimum tolerance for the RHS
+-epsel <epsel>	set tolerance for rounding values to zero
+-epsp <epsp>	set the value that is used as perturbation scalar for
+		degenerative problems
+-improve <level>	iterative improvement level
+	 -improve1: Running accuracy measurement of solved equations on Bx=r
+	 -improve2: Improve initial dual feasibility by bound flips (default)
+	 -improve4: Low-cost accuracy monitoring in the dual
+	 -improve8: check for primal/dual feasibility at the node level
+-timeout <sec>	Timeout after sec seconds when not solution found.
+-bfp <filename>	Set basis factorization package.
+-noint		Ignore integer restrictions
+-e <number>	specifies the tolerance which is used to determine whether a
+		floating point number is in fact an integer.
+		Should be < 0.5
+-ga <number>	specifies the absolute MIP gap for branch-and-bound.
+		This specifies the absolute allowed tolerance
+		on the object function. Can result in faster solving times.
+-gr <number>	specifies the relative MIP gap for branch-and-bound.
+		This specifies the relative allowed tolerance
+		on the object function. Can result in faster solving times.
+-f		specifies that branch-and-bound algorithm stops at first found
+-b <bound>	specify a lower bound for the objective function
+		to the program. If close enough, may speed up the
+		calculations.
+-o <value>	specifies that branch-and-bound algorithm stops when objective
+-cc		during branch-and-bound, take the ceiling branch first
+-cf		during branch-and-bound, take the floor branch first
+-ca		during branch-and-bound, the algorithm chooses branch
+-depth <limit>	set branch-and-bound depth limit
+-n <solnr>	specify which solution number to return
+-B <rule>	specify branch-and-bound rule
+	 -B0: Select Lowest indexed non-integer column (default)
+	 -B1: Selection based on distance from the current bounds
+	 -B2: Selection based on the largest current bound
+	 -B3: Selection based on largest fractional value
+	 -B4: Simple, unweighted pseudo-cost of a variable
+	 -B5: This is an extended pseudo-costing strategy based on minimizing
+	      the number of integer infeasibilities
+	 -B6: This is an extended pseudo-costing strategy based on maximizing
+	      the normal pseudo-cost divided by the number of infeasibilities.
+	      Similar to (the reciprocal of) a cost/benefit ratio
+These branch-and-bound rules can be combined with any of the following:
+-Bw		WeightReverse branch-and-bound
+-Bb		BranchReverse branch-and-bound
+-Bp		PseudoCost branch-and-bound
+-Bf		DepthFirst branch-and-bound
+-Br		Randomize branch-and-bound
+-Bs		RestartMode branch-and-bound
+-BB		BreadthFirst branch-and-bound
+-Bo		Order variables to improve branch-and-bound performance
+-Bc		Do bound tightening during B&B based of reduced cost info
+-Bi		Initialize pseudo-costs by strong branching
+-time		Print CPU time to parse input and to calculate result.
+-v <level>	verbose mode, gives flow through the program.
+		 if level not provided (-v) then -v4 (NORMAL) is taken.
+-d		debug mode, all intermediate results are printed,
+		and the branch-and-bound decisions
+-R		report information while solving the model
+-Db <filename>	Do a generic readable data dump of key lp_solve model variables
+		before solve.
+		Principally for run difference and debugging purposes
+-Da <filename>	Do a generic readable data dump of key lp_solve model variables
+		after solve.
+		Principally for run difference and debugging purposes
+-i		print all intermediate valid solutions.
+		Can give you useful solutions even if the total run time
+		is too long
+-ia		print all intermediate (only non-zero values) valid solutions.
+		Can give you useful solutions even if the total run time
+		is too long
+-S <detail>	Print solution. If detail omitted, then -S2 is used.
+	 -S2: Obj value+variables (default)
+	 -S3: Obj value+variables+constraints
+	 -S4: Obj value+variables+constraints+duals
+	 -S5: Obj value+variables+constraints+duals+lp model
+	 -S6: Obj value+variables+constraints+duals+lp model+scales
+	 -S7: Obj value+variables+constraints+duals+lp model+scales+lp tableau
+CPU Time for %s: %gs (%gs total since program start)
+Unable to set XLI library (%s).
+Invalid tolerance %g; 0 < epsilon < 0.5
+CPU times not available on this machine
+Error, Unable to open input file '%s'
+Error, Unrecognized command line argument '%s'
+Unable to read parameter file (%s)
+Unable to remove integer conditions because there is at least one SOS constraint
+guess_basis: Unknown variable name %s
+Unable to guess basis from provided variables.
+Unable to write parameter file (%s)
+Branch & Bound depth: %d
+Nodes processed: %.0f
+Simplex pivots: %.0f
+Number of equal solutions: %d
+;*3$"
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss

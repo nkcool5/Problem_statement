@@ -1,0 +1,1867 @@
+/lib/ld-linux.so.2
+__gmon_start__
+libstdc++-libc6.1-1.so.2
+__cp_push_exception
+_DYNAMIC
+__rtti_user
+__rtti_si
+_init
+__check_eh_spec
+__throw
+__deregister_frame_info
+terminate__Fv
+__throw_type_match_rtti
+__cp_pop_exception
+__builtin_vec_new
+_fini
+__rtti_ptr
+_GLOBAL_OFFSET_TABLE_
+__cp_eh_info
+__builtin_delete
+__builtin_new
+__register_frame_info
+libm.so.6
+clog
+libc.so.6
+strcpy
+printf
+stdout
+__register_frame
+memmove
+__write
+errno
+__strtol_internal
+_IO_2_1_stdout_
+memcpy
+feof
+malloc
+_IO_2_1_stdin_
+__bzero
+__frame_state_for
+__finitef
+__ctype_toupper
+__register_frame_table
+calloc
+strcat
+__finite
+stdin
+ferror
+unlink
+_IO_getc
+fread
+__deregister_frame
+sprintf
+fclose
+fwrite
+fopen
+_IO_stdin_used
+_exit
+__libc_start_main
+_IO_list_all
+__register_frame_info_table
+_IO_2_1_stderr_
+__finitel
+free
+_errno
+_etext
+_edata
+__bss_start
+_end
+GLIBC_2.1
+GLIBC_2.0
+PTRh
+QVh@V
+}$8t
+$WVS
+Gl9E
+u=AB
+u5AB
+u-;M
+s(AB
+u AB
+Cl9E
+)yh)yd)yT
+Wd+U
+Wl;Gxwv
+t^;WxsY
+Wd+U
+G\@f
+W@#_,
+8WVS
+4WVS
+}	9U
+0WVS
+tz;]
+4WVS
+WVS1
+8WVS
+j8h8x
+$WVS
+J,+M
++B(;E
+;B0t
+vIH+
+s,C9
+DWVS
+N,+M
+^,9]
+q,+u
+A0;E
+$WVS
+A(9E
+;O,u
+A(9E
+;"t"C9
+<(tX
+X<)tO
+t1NC9
+t|h0
+<(tW
+W<)tN
+t4OC9
+$SQh
+$SQh
+$QSh 
+$QSh`
+$QSh
+$QSh
+dWVS
+$SQh
+$SQh 
+HWVS
+xWVS
+fHf=
+xWVS
+u-jH
+u-jH
+fHf=
+WVPRh
+$0< 
+SPRh
+$0< 
+=cff
+/uGj
+</t$
+/u@j
+#uLj
+PSSW
+p<:tPh 
+dWVS
+(WVS
+$0<0u
+$0<0u
+u'h:
+uJh`
+~)QR
+~.QR
+~)QR
+<<t9h
+~.QR
+~)QR
+.CJu
+<u!h
+~4QR
+~0QR
+~)QR
+~)QR
+~*QR
+.CJu
+~-QR
+~/QR
+~2QR
+~)QR
+~/QR
+~/QR
+~*RQ
+~0RQ
+~/QR
+-tQh
+~-QR
+~/QR
+~/QR
+.CJu
+<u!h
+~4QR
+~0QR
+~)QR
+~)QR
+~*QR
+.CJu
+fAf9
+xWVS
+tff;
+f92t
+hWVS
+dWVS
+dWVS
+lWVS
+sHf;
+t	Ix
+sHf;
+f98t
+t	Ix
+t	f;
+|WVS
+uFj8h
+|WVS
+ t+h
+8)tl
+ACB;U
+(WVS
+dWVS
+"t&h
+lWVS
+lWVS
+lWVS
+lWVS
+t%h 
+$WVS
+=cff
+=cff
+</t*
+/u@j
+#uhj
+tWVS
+xWVS
+:"uS
+xWVS
+:"uS
+uPGF
+LWVS
+<WVS
+$SVh
+dWVS
+ n;^
+Qkkbal
+i]Wb
+9a&g
+MGiI
+wn>Jj
+#.zf
++o*7
+- deflate 1.1.3 Copyright 1995-1998 Jean-loup Gailly 
+1.1.3
+								
+1.1.3
+invalid distance code
+invalid literal/length code
+unknown compression method
+invalid window size
+incorrect header check
+need dictionary
+incorrect data check
+ inflate 1.1.3 Copyright 1995-1998 Mark Adler 
+oversubscribed dynamic bit lengths tree
+incomplete dynamic bit lengths tree
+oversubscribed literal/length tree
+incomplete literal/length tree
+oversubscribed distance tree
+incomplete distance tree
+empty distance tree with lengths
+invalid block type
+invalid stored block lengths
+too many length or distance symbols
+invalid bit length repeat
+invalid literal/length code
+invalid distance code
+incompatible version
+buffer error
+insufficient memory
+data error
+stream error
+file error
+stream end
+need dictionary
+1.1.3
+Insufficient memory!
+Corrupt input file!
+Could not allocate %lu bytes (largest possible block size=%lu bytes) !
+Fatal error in ReleaseBlock !
+String constant "..." expected instead of '
+Could not find closing '"' in string '
+Could not find closing parenthesis for parameter '
+Compressor '
+' is not defined
+Could not find compressor '
+    
+  - 
+21UserCompressorFactory
+Insufficient memory!
+Corrupt input file!
+Could not allocate %lu bytes (largest possible block size=%lu bytes) !
+Fatal error in ReleaseBlock !
+Could not write output file!
+Fatal Error !
+%lu : 
+String constant "..." expected instead of '
+Header:          Uncompressed: %8lu   Compressed: %8lu (%f%%)
+Structure:       Uncompressed: %8lu   Compressed: %8lu (%f%%)
+Whitespaces:     Uncompressed: %8lu   Compressed: %8lu (%f%%)
+Special:         Uncompressed: %8lu   Compressed: %8lu (%f%%)
+User Compressor: Uncompressed: %8lu   Compressed: %8lu (%f%%)
+Data:            Uncompressed: %8lu   Compressed: %8lu (%f%%)
+                                          --------------------
+Sum:                                      Compressed: %8lu
+B       %4lu: 
+   Structure:
+ Whitespaces:
+     Special:
+%8lu ==> %8lu (%f%%)
+%8lu ==> Small...
+        Sum: %8lu ==> %8lu (%f%%)
+Insufficient memory!
+Corrupt input file!
+Could not allocate %lu bytes (largest possible block size=%lu bytes) !
+Fatal error in ReleaseBlock !
+%lu : 
+String constant "..." expected instead of '
+ <- 
+Insufficient memory!
+Corrupt input file!
+Could not allocate %lu bytes (largest possible block size=%lu bytes) !
+Fatal error in ReleaseBlock !
+%lu : 
+String constant "..." expected instead of '
+Insufficient memory!
+Corrupt input file!
+Could not allocate %lu bytes (largest possible block size=%lu bytes) !
+Fatal error in ReleaseBlock !
+String constant "..." expected instead of '
+First parameter in rep(
+) should be a string!
+Compressor '
+' must always accept the string!
+Missing closed parenthesis in '
+Compressor for substrings separated by some delimiter string
+Division compressor 'seq' requires a sequence of strings and compressors as parameters
+26RepeatSepCompressorFactory
+21UserCompressorFactory
+19RepeatSepCompressor
+14UserCompressor
+Insufficient memory!
+Corrupt input file!
+Could not allocate %lu bytes (largest possible block size=%lu bytes) !
+Fatal error in ReleaseBlock !
+String constant "..." expected instead of '
+Run-length encoder for arbitrary text strings
+Run length compressor 'rl' should not have any arguments ('
+26RunLengthCompressorFactory
+21UserCompressorFactory
+19RunLengthCompressor
+14UserCompressor
+Insufficient memory!
+Corrupt input file!
+Could not write output file!
+Fatal Error !
+Could not allocate %lu bytes (largest possible block size=%lu bytes) !
+Fatal error in ReleaseBlock !
+%lu : 
+String constant "..." expected instead of '
+Could not read from file '%s' (Error %lu)!
+Could not read from standard input (Error %lu)!
+Unexpected end of file!
+Parse error in line %lu:
+Symbol '=' expected !
+Line %lu: Missing '"' at the end of attribute value '
+Skip invalid character '%c' in line %lu
+Unfinished end label!
+Symbol '/' in label must be followed by '>' !
+Symbol '>' expected after '/' in tag!
+Could not find closing '?>' for processing instruction in line %lu !
+Do nine men interpret Nine men I nod
+Could not find closing ']]>' for CDATA section starting in line %lu !
+Could not find closing '-->' for comment starting in line %lu !
+Could not find closing ']>' for DOCTYPE section starting in line %lu !
+Character '<' expected !
+<![CDATA[
+Invalid tag '
+...' should probably be '<![CDATA ...' !
+<!DOCTYPE
+...' should probably be '<!DOCTYPE ...' !
+...' should probably be '<!-- ...' !
+...' !
+Invalid label '<=...'!
+CARBOHYD 
+End label has trailing white spaces!
+Unexpected end label '
+End label '
+' does not match start label '
+Warning: End label '
+' in line %lu does not match start label '
+ => Additional end label inserted!
+Fatal error: no automaton accepts current path !
+Insufficient memory!
+Corrupt input file!
+Could not allocate %lu bytes (largest possible block size=%lu bytes) !
+Fatal error in ReleaseBlock !
+String constant "..." expected instead of '
+Plain text compressor
+Plain text compressor 't' should not have any arguments ('
+Could not compress '
+'...
+Print compressor
+Compressor for unsigned integers
+Invalid parameter '
+' for compressor 'u8'!
+Compressor for integers between 0 and 255
+Compressor for signed integers
+' for compressor 'i'!
+Delta compressor for signed integers
+' for compressor 'di'!
+"..."
+Constant compressor
+Constant text compressor 'c' requires string argument
+Parameter '
+' is not a string
+25ConstantCompressorFactory
+22DeltaCompressorFactory
+26SignedIntCompressorFactory
+29UnsignedInt8CompressorFactory
+28UnsignedIntCompressorFactory
+22PrintCompressorFactory
+15PrintCompressor
+26PlainTextCompressorFactory
+14UserCompressor
+21UserCompressorFactory
+18ConstantCompressor
+15DeltaCompressor
+A Santa lives evil at NASA
+19SignedIntCompressor
+22UnsignedInt8Compressor
+21UnsignedIntCompressor
+19PlainTextCompressor
+Insufficient memory!
+Corrupt input file!
+Could not allocate %lu bytes (largest possible block size=%lu bytes) !
+Fatal error in ReleaseBlock !
+String constant "..." expected instead of '
+%lu : 
+Error while parsing path expression:
+Character ':' expected at '...'
+...'
+Unexpected character
+Symbol '/' or '|' expected after '#'
+Symbol '/' or '|' expected after '*'
+Missing closed parenthesis ')'
+Invalid symbol
+Character '/' expected
+Insufficient memory!
+Corrupt input file!
+Could not allocate %lu bytes (largest possible block size=%lu bytes) !
+Fatal error in ReleaseBlock !
+String constant "..." expected instead of '
+Could not read from file '%s' (Error %lu)!
+Could not read from standard input (Error %lu)!
+Unexpected end of file!
+Could not write output file!
+Fatal Error !
+%lu : 
+Parse error in line %lu:
+Symbol '=' expected !
+Line %lu: Missing '"' at the end of attribute value '
+Skip invalid character '%c' in line %lu
+Unfinished end label!
+Symbol '/' in label must be followed by '>' !
+Symbol '>' expected after '/' in tag!
+Could not find closing '?>' for processing instruction in line %lu !
+Could not find closing ']]>' for CDATA section starting in line %lu !
+Could not find closing '-->' for comment starting in line %lu !
+Could not find closing ']>' for DOCTYPE section starting in line %lu !
+Character '<' expected !
+<![CDATA[
+Invalid tag '
+...' should probably be '<![CDATA ...' !
+<!DOCTYPE
+...' should probably be '<!DOCTYPE ...' !
+...' should probably be '<!-- ...' !
+...' !
+Invalid label '<=...'!
+Overwrite file %s ? (Y(es) | N(o) | A(ll) | Q(uit)) 
+.xml
+.xmi
+Error in file '
+No input file specified! Specify '-c' to use stdin/stdout
+Could not find file '
+Could not create output file '
+P14XMillException
+14XMillException
+Insufficient memory!
+Corrupt input file!
+Insufficient memory!
+Corrupt input file!
+Could not allocate %lu bytes (largest possible block size=%lu bytes) !
+Fatal error in ReleaseBlock !
+String constant "..." expected instead of '
+Variant compressor
+Division compressor 'divsep' requires a sequence of strings and compressors as parameters
+22OrSepCompressorFactory
+21UserCompressorFactory
+15OrSepCompressor
+14UserCompressor
+Insufficient memory!
+Corrupt input file!
+Could not read from file '%s' (Error %lu)!
+Could not read from standard input (Error %lu)!
+Unexpected end of file!
+Could not allocate %lu bytes (largest possible block size=%lu bytes) !
+Fatal error in ReleaseBlock !
+String constant "..." expected instead of '
+Only one option file allowed!
+Could not open parameter file '
+Input file '
+' is too large!
+Invalid filename for option '-f'
+Option '-m' must be followed be a number >=1
+Invalid option '-
+XMill 0.7 (30 Nov 99) - a compressor for XML
+Copyright (C) 1999 AT&T Labs Research
+Usage:
+  xmill [-i file] [-v] [-p path] [-m num] [-1..9] [-c] [-d] [-r] [-w] [-h] file ...
+Usage:
+  xmill [-i file] [-v] [-p path] [-m num] [-1..9] [-c] [-d] [-r] [-w] [-h]
+        [-w(i|g|t)] [-l(i|g|t)] [-r(i|g|t)] [-a(i|g)] [-n(c|t|p|d)]  file ...
+ -i file  - include options from file
+ -v       - verbose mode
+ -p path  - define path expression
+ -m num   - set memory limit
+ -1..9    - set the compression factor of zlib (default=6)
+ -c       - write on standard output
+ -d       - delete input files
+ -f       - force overwrite of output files
+ -w       - preserve white spaces
+ -h       - show extended white space options and user compressors
+  Extended options:
+    -wi      - ignore complete white spaces (default)
+    -wg      - store complete white spaces in global container
+    -wt      - store complete white spaces as normal text
+    -li      - ignore left white spaces (default)
+    -lg      - store left white spaces in global container
+    -lt      - store left white spaces as normal text
+    -ri      - ignore right white spaces (default)
+    -rg      - store right white spaces in global container
+    -rt      - store right white spaces as normal text
+    -ai      - ignore attribute white spaces (default)
+    -ag      - store attribute white spaces in global container
+    -nc      - ignore comments
+    -nt      - ignore DOCTYPE sections
+    -np      - ignore PI sections
+    -nd      - ignore CDATA sections
+  User compressors:
+Insufficient memory!
+Corrupt input file!
+Could not allocate %lu bytes (largest possible block size=%lu bytes) !
+Fatal error in ReleaseBlock !
+Insufficient memory!
+Corrupt input file!
+Could not allocate %lu bytes (largest possible block size=%lu bytes) !
+Fatal error in ReleaseBlock !
+String constant "..." expected instead of '
+Sequence compressor for strings with separators
+Sequence compressor 'seq' must have a sequence of strings and compressors as parameters
+seqcomb
+Combined sequence compressor for strings with separators
+Combined sequence compressor 'seqcomb' must have a sequence of strings and compressors as parameters
+27DivCombineCompressorFactory
+23DivSepCompressorFactory
+21UserCompressorFactory
+20DivCombineCompressor
+16DivSepCompressor
+14UserCompressor
+Insufficient memory!
+Corrupt input file!
+Could not allocate %lu bytes (largest possible block size=%lu bytes) !
+Fatal error in ReleaseBlock !
+String constant "..." expected instead of '
+       Enum: %8lu ==> %8lu (%f%%)
+       Enum: %8lu ==> Small...
+Compressor for small number of distinct data values
+Enumeration compressor 'e' should not have any arguments ('
+28EnumerationCompressorFactory
+B21EnumerationCompressor
+14UserCompressor
+21UserCompressorFactory
+Insufficient memory!
+Corrupt input file!
+P14XMillException
+14XMillException
+Insufficient memory!
+Corrupt input file!
+Could not allocate %lu bytes (largest possible block size=%lu bytes) !
+Fatal error in ReleaseBlock !
+%lu : 
+Insufficient memory!
+Corrupt input file!
+Could not allocate %lu bytes (largest possible block size=%lu bytes) !
+Fatal error in ReleaseBlock !
+Could not read from file '%s' (Error %lu)!
+Could not read from standard input (Error %lu)!
+Unexpected end of file!
+Could not write output file!
+Fatal Error !
+1.1.3
+Error while compressing container!
+pure virtual method called
+init.c
+/usr/src/bs/BUILD/glibc/csu/
+gcc2_compiled.
+int:t(0,1)=r(0,1);0020000000000;0017777777777;
+char:t(0,2)=r(0,2);0;127;
+long int:t(0,3)=r(0,1);0020000000000;0017777777777;
+unsigned int:t(0,4)=r(0,1);0000000000000;0037777777777;
+long unsigned int:t(0,5)=r(0,1);0000000000000;0037777777777;
+long long int:t(0,6)=r(0,1);01000000000000000000000;0777777777777777777777;
+long long unsigned int:t(0,7)=r(0,1);0000000000000;01777777777777777777777;
+short int:t(0,8)=r(0,8);-32768;32767;
+short unsigned int:t(0,9)=r(0,9);0;65535;
+signed char:t(0,10)=r(0,10);-128;127;
+unsigned char:t(0,11)=r(0,11);0;255;
+float:t(0,12)=r(0,1);4;0;
+double:t(0,13)=r(0,1);8;0;
+long double:t(0,14)=r(0,1);12;0;
+complex int:t(0,15)=s8real:(0,1),0,32;imag:(0,1),32,32;;
+complex float:t(0,16)=r(0,16);4;0;
+complex double:t(0,17)=r(0,17);8;0;
+complex long double:t(0,18)=r(0,18);12;0;
+void:t(0,19)=(0,19)
+../include/libc-symbols.h
+/usr/src/bs/BUILD/glibc/build-i386-linux/config.h
+../include/libintl.h
+../intl/libintl.h
+../include/features.h
+../include/sys/cdefs.h
+../misc/sys/cdefs.h
+/usr/lib/gcc-lib/i386-redhat-linux/egcs-2.91.66/include/stddef.h
+../include/locale.h
+../locale/locale.h
+lconv:T(10,1)=s48decimal_point:(10,2)=*(0,2),0,32;thousands_sep:(10,2),32,32;\
+grouping:(10,2),64,32;int_curr_symbol:(10,2),96,32;\
+currency_symbol:(10,2),128,32;mon_decimal_point:(10,2),160,32;\
+mon_thousands_sep:(10,2),192,32;mon_grouping:(10,2),224,32;\
+positive_sign:(10,2),256,32;negative_sign:(10,2),288,32;\
+int_frac_digits:(0,2),320,8;frac_digits:(0,2),328,8;\
+p_cs_precedes:(0,2),336,8;p_sep_by_space:(0,2),344,8;\
+n_cs_precedes:(0,2),352,8;n_sep_by_space:(0,2),360,8;\
+p_sign_posn:(0,2),368,8;n_sign_posn:(0,2),376,8;;
+../include/xlocale.h
+../locale/xlocale.h
+__locale_struct:T(13,1)=s36__locales:(13,2)=ar(0,1);0;5;(13,3)=*(13,4)=xslocale_data:,0,192;\
+__ctype_b:(13,5)=*(0,9),192,32;__ctype_tolower:(13,6)=*(0,1),224,32;\
+__ctype_toupper:(13,6),256,32;;
+__locale_t:t(13,7)=(13,8)=*(13,1)
+../sysdeps/unix/sysv/linux/_G_config.h
+../sysdeps/unix/sysv/linux/bits/types.h
+size_t:t(16,1)=(0,4)
+__u_char:t(15,1)=(0,11)
+__u_short:t(15,2)=(0,9)
+__u_int:t(15,3)=(0,4)
+__u_long:t(15,4)=(0,5)
+__u_quad_t:t(15,5)=(0,7)
+__quad_t:t(15,6)=(0,6)
+__int8_t:t(15,7)=(0,10)
+__uint8_t:t(15,8)=(0,11)
+__int16_t:t(15,9)=(0,8)
+__uint16_t:t(15,10)=(0,9)
+__int32_t:t(15,11)=(0,1)
+__uint32_t:t(15,12)=(0,4)
+__int64_t:t(15,13)=(0,6)
+__uint64_t:t(15,14)=(0,7)
+__qaddr_t:t(15,15)=(15,16)=*(15,6)
+__dev_t:t(15,17)=(15,5)
+__uid_t:t(15,18)=(15,3)
+__gid_t:t(15,19)=(15,3)
+__ino_t:t(15,20)=(15,4)
+__mode_t:t(15,21)=(15,3)
+__nlink_t:t(15,22)=(15,3)
+__off_t:t(15,23)=(0,3)
+__loff_t:t(15,24)=(15,6)
+__pid_t:t(15,25)=(0,1)
+__ssize_t:t(15,26)=(0,1)
+__rlim_t:t(15,27)=(0,3)
+__rlim64_t:t(15,28)=(15,6)
+__id_t:t(15,29)=(15,3)
+__fsid_t:t(15,30)=(15,31)=s8__val:(15,32)=ar(0,1);0;1;(0,1),0,64;;
+__daddr_t:t(15,33)=(0,1)
+__caddr_t:t(15,34)=(10,2)
+__time_t:t(15,35)=(0,3)
+__swblk_t:t(15,36)=(0,3)
+__clock_t:t(15,37)=(0,3)
+__fd_mask:t(15,38)=(0,5)
+__fd_set:t(15,39)=(15,40)=s128fds_bits:(15,41)=ar(0,1);0;31;(15,38),0,1024;;
+__key_t:t(15,42)=(0,1)
+__ipc_pid_t:t(15,43)=(0,9)
+__blkcnt_t:t(15,44)=(15,4)
+__blkcnt64_t:t(15,45)=(15,5)
+__fsblkcnt_t:t(15,46)=(0,3)
+__fsblkcnt64_t:t(15,47)=(15,6)
+__fsfilcnt_t:t(15,48)=(15,4)
+__fsfilcnt64_t:t(15,49)=(15,5)
+__ino64_t:t(15,50)=(15,4)
+__off64_t:t(15,51)=(15,24)
+__t_scalar_t:t(15,52)=(0,1)
+__t_uscalar_t:t(15,53)=(0,4)
+__intptr_t:t(15,54)=(0,1)
+../linuxthreads/sysdeps/pthread/bits/pthreadtypes.h
+../sysdeps/unix/sysv/linux/bits/sched.h
+__sched_param:T(18,1)=s4sched_priority:(0,1),0,32;;
+_pthread_fastlock:T(17,1)=s8__status:(0,3),0,32;__spinlock:(0,1),32,32;;
+_pthread_descr:t(17,2)=(17,3)=*(17,4)=xs_pthread_descr_struct:
+pthread_attr_t:t(17,5)=(17,6)=s36__detachstate:(0,1),0,32;\
+__schedpolicy:(0,1),32,32;__schedparam:(18,1),64,32;\
+__inheritsched:(0,1),96,32;__scope:(0,1),128,32;\
+__guardsize:(16,1),160,32;__stackaddr_set:(0,1),192,32;\
+__stackaddr:(17,7)=*(0,19),224,32;__stacksize:(16,1),256,32;;
+pthread_cond_t:t(17,8)=(17,9)=s12__c_lock:(17,1),0,64;\
+__c_waiting:(17,2),64,32;;
+pthread_condattr_t:t(17,10)=(17,11)=s4__dummy:(0,1),0,32;;
+pthread_key_t:t(17,12)=(0,4)
+pthread_mutex_t:t(17,13)=(17,14)=s24__m_reserved:(0,1),0,32;\
+__m_count:(0,1),32,32;__m_owner:(17,2),64,32;\
+__m_kind:(0,1),96,32;__m_lock:(17,1),128,64;;
+pthread_mutexattr_t:t(17,15)=(17,16)=s4__mutexkind:(0,1),0,32;;
+pthread_once_t:t(17,17)=(0,1)
+pthread_rwlock_t:t(17,18)=(17,19)=s32__rw_lock:(17,1),0,64;\
+__rw_readers:(0,1),64,32;__rw_writer:(17,2),96,32;\
+__rw_read_waiting:(17,2),128,32;__rw_write_waiting:(17,2),160,32;\
+__rw_kind:(0,1),192,32;__rw_pshared:(0,1),224,32;;
+pthread_rwlockattr_t:t(17,20)=(17,21)=s8__lockkind:(0,1),0,32;\
+__pshared:(0,1),32,32;;
+pthread_t:t(17,22)=(0,5)
+wchar_t:t(19,1)=(0,3)
+wint_t:t(19,2)=(0,4)
+_G_int16_t:t(14,1)=(0,8)
+_G_int32_t:t(14,2)=(0,1)
+_G_uint16_t:t(14,3)=(0,9)
+_G_uint32_t:t(14,4)=(0,4)
+_IO_stdin_used:G(0,1)
+/usr/src/bs/BUILD/egcs-1.1.2/obj-i386-linux/gcc/
+../../gcc/libgcc2.c
+tconfig.h
+../../gcc/config/i386/xm-i386.h
+tm.h
+../../gcc/config/i386/linux.h
+../../gcc/config/i386/i386.h
+processor_costs:T(5,1)=s28add:(0,1),0,32;lea:(0,1),32,32;\
+shift_var:(0,1),64,32;shift_const:(0,1),96,32;\
+mult_init:(0,1),128,32;mult_bit:(0,1),160,32;\
+divide:(0,1),192,32;;
+processor_type:T(5,2)=ePROCESSOR_I386:0,PROCESSOR_I486:1,\
+PROCESSOR_PENTIUM:2,PROCESSOR_PENTIUMPRO:3,;
+reg_class:T(5,3)=eNO_REGS:0,AREG:1,DREG:2,\
+CREG:3,BREG:4,AD_REGS:5,Q_REGS:6,\
+SIREG:7,DIREG:8,INDEX_REGS:9,GENERAL_REGS:10,\
+FP_TOP_REG:11,FP_SECOND_REG:12,FLOAT_REGS:13,\
+ALL_REGS:14,LIM_REG_CLASSES:15,;
+i386_args:T(5,4)=s12words:(0,1),0,32;nregs:(0,1),32,32;\
+regno:(0,1),64,32;;
+CUMULATIVE_ARGS:t(5,5)=(5,4)
+../../gcc/config/i386/att.h
+../../gcc/config/i386/unix.h
+../../gcc/config/linux.h
+../../gcc/config/svr4.h
+../../gcc/config/i386/perform.h
+/usr/include/stdlib.h
+/usr/include/features.h
+/usr/include/sys/cdefs.h
+/usr/include/gnu/stubs.h
+include/stddef.h
+size_t:t(15,1)=(0,4)
+wchar_t:t(15,2)=(0,3)
+div_t:t(11,1)=(11,2)=s8quot:(0,1),0,32;rem:(0,1),32,32;;
+ldiv_t:t(11,3)=(11,4)=s8quot:(0,3),0,32;rem:(0,3),32,32;;
+/usr/include/sys/types.h
+/usr/include/bits/types.h
+__u_char:t(17,1)=(0,11)
+__u_short:t(17,2)=(0,9)
+__u_int:t(17,3)=(0,4)
+__u_long:t(17,4)=(0,5)
+__u_quad_t:t(17,5)=(0,7)
+__quad_t:t(17,6)=(0,6)
+__int8_t:t(17,7)=(0,10)
+__uint8_t:t(17,8)=(0,11)
+__int16_t:t(17,9)=(0,8)
+Eleele
+__uint16_t:t(17,10)=(0,9)
+__int32_t:t(17,11)=(0,1)
+__uint32_t:t(17,12)=(0,4)
+__int64_t:t(17,13)=(0,6)
+__uint64_t:t(17,14)=(0,7)
+__qaddr_t:t(17,15)=(17,16)=*(17,6)
+__dev_t:t(17,17)=(17,5)
+__uid_t:t(17,18)=(17,3)
+__gid_t:t(17,19)=(17,3)
+__ino_t:t(17,20)=(17,4)
+__mode_t:t(17,21)=(17,3)
+__nlink_t:t(17,22)=(17,3)
+__off_t:t(17,23)=(0,3)
+__loff_t:t(17,24)=(17,6)
+__pid_t:t(17,25)=(0,1)
+__ssize_t:t(17,26)=(0,1)
+__rlim_t:t(17,27)=(0,3)
+__rlim64_t:t(17,28)=(17,6)
+__id_t:t(17,29)=(17,3)
+__fsid_t:t(17,30)=(17,31)=s8__val:(17,32)=ar(0,1);0;1;(0,1),0,64;;
+__daddr_t:t(17,33)=(0,1)
+__caddr_t:t(17,34)=(17,35)=*(0,2)
+__time_t:t(17,36)=(0,3)
+__swblk_t:t(17,37)=(0,3)
+__clock_t:t(17,38)=(0,3)
+__fd_mask:t(17,39)=(0,5)
+__fd_set:t(17,40)=(17,41)=s128__fds_bits:(17,42)=ar(0,1);0;31;(17,39),0,1024;;
+__key_t:t(17,43)=(0,1)
+__ipc_pid_t:t(17,44)=(0,9)
+__blkcnt_t:t(17,45)=(17,4)
+__blkcnt64_t:t(17,46)=(17,5)
+__fsblkcnt_t:t(17,47)=(0,3)
+__fsblkcnt64_t:t(17,48)=(17,6)
+__fsfilcnt_t:t(17,49)=(17,4)
+__fsfilcnt64_t:t(17,50)=(17,5)
+__ino64_t:t(17,51)=(17,4)
+__off64_t:t(17,52)=(17,24)
+__t_scalar_t:t(17,53)=(0,1)
+__t_uscalar_t:t(17,54)=(0,4)
+__intptr_t:t(17,55)=(0,1)
+u_char:t(16,1)=(17,1)
+u_short:t(16,2)=(17,2)
+u_int:t(16,3)=(17,3)
+u_long:t(16,4)=(17,4)
+quad_t:t(16,5)=(17,6)
+u_quad_t:t(16,6)=(17,5)
+fsid_t:t(16,7)=(17,30)
+loff_t:t(16,8)=(17,24)
+ino_t:t(16,9)=(17,20)
+dev_t:t(16,10)=(17,17)
+gid_t:t(16,11)=(17,19)
+mode_t:t(16,12)=(17,21)
+nlink_t:t(16,13)=(17,22)
+uid_t:t(16,14)=(17,18)
+off_t:t(16,15)=(17,23)
+pid_t:t(16,16)=(17,25)
+id_t:t(16,17)=(17,29)
+ssize_t:t(16,18)=(17,26)
+daddr_t:t(16,19)=(17,33)
+caddr_t:t(16,20)=(17,34)
+key_t:t(16,21)=(17,43)
+/usr/include/time.h
+time_t:t(19,1)=(17,36)
+ulong:t(16,22)=(0,5)
+ushort:t(16,23)=(0,9)
+uint:t(16,24)=(0,4)
+int8_t:t(16,25)=(0,10)
+int16_t:t(16,26)=(0,8)
+int32_t:t(16,27)=(0,1)
+int64_t:t(16,28)=(0,6)
+u_int8_t:t(16,29)=(0,11)
+u_int16_t:t(16,30)=(0,9)
+u_int32_t:t(16,31)=(0,4)
+u_int64_t:t(16,32)=(0,7)
+register_t:t(16,33)=(0,1)
+/usr/include/endian.h
+/usr/include/bits/endian.h
+/usr/include/sys/select.h
+/usr/include/bits/select.h
+/usr/include/bits/sigset.h
+__sig_atomic_t:t(25,1)=(0,1)
+__sigset_t:t(25,2)=(25,3)=s128__val:(25,4)=ar(0,1);0;31;(0,5),0,1024;;
+timespec:T(26,1)=s8tv_sec:(0,3),0,32;tv_nsec:(0,3),32,32;;
+fd_mask:t(23,1)=(17,39)
+fd_set:t(23,2)=(17,40)
+/usr/include/sys/sysmacros.h
+blkcnt_t:t(16,34)=(17,45)
+fsblkcnt_t:t(16,35)=(17,47)
+fsfilcnt_t:t(16,36)=(17,49)
+random_data:T(11,5)=s28fptr:(11,6)=*(16,27),0,32;rptr:(11,6),32,32;\
+state:(11,6),64,32;rand_type:(0,1),96,32;rand_deg:(0,1),128,32;\
+rand_sep:(0,1),160,32;end_ptr:(11,6),192,32;;
+drand48_data:T(11,7)=s24x:(11,8)=ar(0,1);0;2;(0,9),0,48;\
+a:(11,8),48,48;c:(0,9),96,16;old_x:(11,8),112,48;\
+init:(0,1),160,32;;
+/usr/include/alloca.h
+__compar_fn_t:t(11,9)=(11,10)=*(11,11)=f(0,1)
+Tacocat
+/usr/include/unistd.h
+/usr/include/bits/posix_opt.h
+/usr/include/bits/confname.h
+ :T(33,1)=e_PC_LINK_MAX:0,_PC_MAX_CANON:1,_PC_MAX_INPUT:2,\
+_PC_NAME_MAX:3,_PC_PATH_MAX:4,_PC_PIPE_BUF:5,\
+_PC_CHOWN_RESTRICTED:6,_PC_NO_TRUNC:7,_PC_VDISABLE:8,\
+_PC_SYNC_IO:9,_PC_ASYNC_IO:10,_PC_PRIO_IO:11,\
+_PC_SOCK_MAXBUF:12,_PC_FILESIZEBITS:13,;
+ :T(33,2)=e_SC_ARG_MAX:0,_SC_CHILD_MAX:1,_SC_CLK_TCK:2,\
+_SC_NGROUPS_MAX:3,_SC_OPEN_MAX:4,_SC_STREAM_MAX:5,\
+_SC_TZNAME_MAX:6,_SC_JOB_CONTROL:7,_SC_SAVED_IDS:8,\
+_SC_REALTIME_SIGNALS:9,_SC_PRIORITY_SCHEDULING:10,\
+_SC_TIMERS:11,_SC_ASYNCHRONOUS_IO:12,_SC_PRIORITIZED_IO:13,\
+_SC_SYNCHRONIZED_IO:14,_SC_FSYNC:15,_SC_MAPPED_FILES:16,\
+_SC_MEMLOCK:17,_SC_MEMLOCK_RANGE:18,_SC_MEMORY_PROTECTION:19,\
+_SC_MESSAGE_PASSING:20,_SC_SEMAPHORES:21,_SC_SHARED_MEMORY_OBJECTS:22,\
+_SC_AIO_LISTIO_MAX:23,_SC_AIO_MAX:24,_SC_AIO_PRIO_DELTA_MAX:25,\
+_SC_DELAYTIMER_MAX:26,_SC_MQ_OPEN_MAX:27,_SC_MQ_PRIO_MAX:28,\
+_SC_VERSION:29,_SC_PAGESIZE:30,_SC_RTSIG_MAX:31,\
+_SC_SEM_NSEMS_MAX:32,_SC_SEM_VALUE_MAX:33,_SC_SIGQUEUE_MAX:34,\
+_SC_TIMER_MAX:35,_SC_BC_BASE_MAX:36,_SC_BC_DIM_MAX:37,\
+_SC_BC_SCALE_MAX:38,_SC_BC_STRING_MAX:39,_SC_COLL_WEIGHTS_MAX:40,\
+_SC_EQUIV_CLASS_MAX:41,_SC_EXPR_NEST_MAX:42,_SC_LINE_MAX:43,\
+_SC_RE_DUP_MAX:44,_SC_CHARCLASS_NAME_MAX:45,_SC_2_VERSION:46,\
+_SC_2_C_BIND:47,_SC_2_C_DEV:48,_SC_2_FORT_DEV:49,\
+_SC_2_FORT_RUN:50,_SC_2_SW_DEV:51,_SC_2_LOCALEDEF:52,\
+_SC_PII:53,_SC_PII_XTI:54,_SC_PII_SOCKET:55,\
+_SC_PII_INTERNET:56,_SC_PII_OSI:57,_SC_POLL:58,\
+_SC_SELECT:59,_SC_UIO_MAXIOV:60,_SC_PII_INTERNET_STREAM:61,\
+_SC_PII_INTERNET_DGRAM:62,_SC_PII_OSI_COTS:63,_SC_PII_OSI_CLTS:64,\
+_SC_PII_OSI_M:65,_SC_T_IOV_MAX:66,_SC_THREADS:67,\
+_SC_THREAD_SAFE_FUNCTIONS:68,_SC_GETGR_R_SIZE_MAX:69,\
+_SC_GETPW_R_SIZE_MAX:70,_SC_LOGIN_NAME_MAX:71,_SC_TTY_NAME_MAX:72,\
+_SC_THREAD_DESTRUCTOR_ITERATIONS:73,_SC_THREAD_KEYS_MAX:74,\
+_SC_THREAD_STACK_MIN:75,_SC_THREAD_THREADS_MAX:76,\
+_SC_THREAD_ATTR_STACKADDR:77,_SC_THREAD_ATTR_STACKSIZE:78,\
+_SC_THREAD_PRIORITY_SCHEDULING:79,_SC_THREAD_PRIO_INHERIT:80,\
+_SC_THREAD_PRIO_PROTECT:81,_SC_THREAD_PROCESS_SHARED:82,\
+_SC_NPROCESSORS_CONF:83,_SC_NPROCESSORS_ONLN:84,_SC_PHYS_PAGES:85,\
+_SC_AVPHYS_PAGES:86,_SC_ATEXIT_MAX:87,_SC_PASS_MAX:88,\
+_SC_XOPEN_VERSION:89,_SC_XOPEN_XCU_VERSION:90,_SC_XOPEN_UNIX:91,\
+_SC_XOPEN_CRYPT:92,_SC_XOPEN_ENH_I18N:93,_SC_XOPEN_SHM:94,\
+_SC_2_CHAR_TERM:95,_SC_2_C_VERSION:96,_SC_2_UPE:97,\
+_SC_XOPEN_XPG2:98,_SC_XOPEN_XPG3:99,_SC_XOPEN_XPG4:100,\
+_SC_CHAR_BIT:101,_SC_CHAR_MAX:102,_SC_CHAR_MIN:103,\
+_SC_INT_MAX:104,_SC_INT_MIN:105,_SC_LONG_BIT:106,\
+_SC_WORD_BIT:107,_SC_MB_LEN_MAX:108,_SC_NZERO:109,\
+alula
+_SC_SSIZE_MAX:110,_SC_SCHAR_MAX:111,_SC_SCHAR_MIN:112,\
+_SC_SHRT_MAX:113,_SC_SHRT_MIN:114,_SC_UCHAR_MAX:115,\
+_SC_UINT_MAX:116,_SC_ULONG_MAX:117,_SC_USHRT_MAX:118,\
+_SC_NL_ARGMAX:119,_SC_NL_LANGMAX:120,_SC_NL_MSGMAX:121,\
+_SC_NL_NMAX:122,_SC_NL_SETMAX:123,_SC_NL_TEXTMAX:124,\
+_SC_XBS5_ILP32_OFF32:125,_SC_XBS5_ILP32_OFFBIG:126,\
+_SC_XBS5_LP64_OFF64:127,_SC_XBS5_LPBIG_OFFBIG:128,_SC_XOPEN_LEGACY:129,\
+_SC_XOPEN_REALTIME:130,_SC_XOPEN_REALTIME_THREADS:131,;
+ :T(33,3)=e_CS_PATH:0,;
+../../gcc/getopt.h
+option:T(34,1)=s16name:(34,2)=*(0,2),0,32;has_arg:(0,1),32,32;\
+flag:(34,3)=*(0,1),64,32;val:(0,1),96,32;;
+ptrdiff_t:t(35,1)=(0,1)
+../../gcc/machmode.h
+../../gcc/gansidecl.h
+../../gcc/machmode.def
+machine_mode:T(36,1)=eVOIDmode:0,PQImode:1,QImode:2,\
+PHImode:3,HImode:4,PSImode:5,SImode:6,\
+PDImode:7,DImode:8,TImode:9,OImode:10,\
+QFmode:11,HFmode:12,TQFmode:13,SFmode:14,\
+DFmode:15,XFmode:16,TFmode:17,QCmode:18,\
+HCmode:19,SCmode:20,DCmode:21,XCmode:22,\
+TCmode:23,CQImode:24,CHImode:25,CSImode:26,\
+CDImode:27,CTImode:28,COImode:29,\
+BLKmode:30,CCmode:31,CCFPEQmode:32,\
+MAX_MACHINE_MODE:33,;
+mode_class:T(36,2)=eMODE_RANDOM:0,MODE_INT:1,MODE_FLOAT:2,\
+MODE_PARTIAL_INT:3,MODE_CC:4,MODE_COMPLEX_INT:5,\
+MODE_COMPLEX_FLOAT:6,MAX_MODE_CLASS:7,;
+../../gcc/defaults.h
+wint_t:t(40,1)=(0,4)
+UQItype:t(0,20)=(0,11)
+SItype:t(0,21)=(0,1)
+USItype:t(0,22)=(0,4)
+DItype:t(0,23)=(0,6)
+UDItype:t(0,24)=(0,7)
+SFtype:t(0,25)=(0,12)
+DFtype:t(0,26)=(0,13)
+XFtype:t(0,27)=(0,14)
+word_type:t(0,28)=(0,1)
+DIstruct:T(0,29)=s8low:(0,21),0,32;high:(0,21),32,32;;
+DIunion:t(0,30)=(0,31)=u8s:(0,29),0,64;ll:(0,23),0,64;;
+/usr/include/stdio.h
+include/stdarg.h
+__gnuc_va_list:t(43,1)=(43,2)=*(0,19)
+FILE:t(41,1)=(41,2)=xs_IO_FILE:
+/usr/include/libio.h
+/usr/include/_G_config.h
+_G_int16_t:t(45,1)=(0,8)
+_G_int32_t:t(45,2)=(0,1)
+_G_uint16_t:t(45,3)=(0,9)
+_G_uint32_t:t(45,4)=(0,4)
+_IO_lock_t:t(44,1)=(0,19)
+_IO_marker:T(44,2)=s12_next:(44,3)=*(44,2),0,32;_sbuf:(44,4)=*(41,2),32,32;\
+_pos:(0,1),64,32;;
+_IO_FILE:T(41,2)=s148_flags:(0,1),0,32;_IO_read_ptr:(17,35),32,32;\
+_IO_read_end:(17,35),64,32;_IO_read_base:(17,35),96,32;\
+_IO_write_base:(17,35),128,32;_IO_write_ptr:(17,35),160,32;\
+_IO_write_end:(17,35),192,32;_IO_buf_base:(17,35),224,32;\
+_IO_buf_end:(17,35),256,32;_IO_save_base:(17,35),288,32;\
+_IO_backup_base:(17,35),320,32;_IO_save_end:(17,35),352,32;\
+_markers:(44,3),384,32;_chain:(44,4),416,32;_fileno:(0,1),448,32;\
+_blksize:(0,1),480,32;_old_offset:(17,23),512,32;\
+_cur_column:(0,9),544,16;_vtable_offset:(0,10),560,8;\
+_shortbuf:(44,5)=ar(0,1);0;0;(0,2),568,8;_lock:(44,6)=*(44,1),576,32;\
+_offset:(17,52),608,64;_unused2:(44,7)=ar(0,1);0;15;(0,1),672,512;;
+_IO_FILE:t(44,8)=(41,2)
+fpos_t:t(41,3)=(17,23)
+/usr/include/bits/stdio_lim.h
+/usr/include/bits/stdio.h
+__pure_virtual:F(0,19)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+Borrow or rob
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+GCC: (GNU) egcs-2.91.66 19990314/Linux (egcs-1.1.2 release)
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+01.01
+.symtab
+.strtab
+.shstrtab
+.interp
+.note.ABI-tag
+.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rel.got
+.rel.bss
+.rel.plt
+.init
+.plt
+.text
+.fini
+.rodata
+.data
+.gcc_except_table
+.eh_frame
+.ctors
+.dtors
+.got
+.dynamic
+.bss
+.stab
+.stabstr
+.comment
+.note
+initfini.c
+gcc2_compiled.
+init.c
+crtstuff.c
+__DTOR_LIST__
+completed.3
+__do_global_dtors_aux
+__EH_FRAME_BEGIN__
+fini_dummy
+object.8
+frame_dummy
+init_dummy
+force_to_data
+__CTOR_LIST__
+__do_global_ctors_aux
+__CTOR_END__
+__DTOR_END__
+__FRAME_END__
+adler32.c
+crc32.c
+crc_table
+deflate.c
+configuration_table
+deflate_stored
+deflate_fast
+deflate_slow
+my_version.54
+longest_match
+fill_window
+lm_init
+trees.c
+extra_lbits
+extra_dbits
+extra_blbits
+bl_order
+static_ltree
+static_dtree
+base_length
+base_dist
+static_l_desc
+static_d_desc
+static_bl_desc
+gen_bitlen
+build_tree
+bi_reverse
+send_tree
+build_bl_tree
+send_all_trees
+bi_flush
+set_data_type
+copy_block
+compress_block
+bi_windup
+init_block
+uncompr.c
+inffast.c
+inflate.c
+mark.64
+inftrees.c
+cplens
+cplext
+cpdist
+cpdext
+huft_build
+fixed_bl
+fixed_bd
+fixed_tl
+fixed_td
+infutil.c
+infblock.c
+border
+infcodes.c
+zutil.c
+CompressMan.cpp
+_GLOBAL_.I.CreateCompressorInstance__11CompressManRPcPc
+.LFB10
+.LFB11
+.LFB12
+.LFB13
+.LFE13
+__FRAME_BEGIN__
+ContMan.cpp
+__EXCEPTION_TABLE__
+PathDict.cpp
+_GLOBAL_.I.pathdictmem
+PathTree.cpp
+RepeatCompress.cpp
+_GLOBAL_.I.repeatsepcompressfactory
+.LFB2
+.LFE2
+.LFB3
+.LFB4
+.LFB5
+.LFE5
+.LFE10
+.LFE11
+.LFE12
+.LFB14
+.LFE14
+.LFB15
+.LFE15
+.LFB16
+.LFE16
+RunLenCompress.cpp
+_GLOBAL_.I.runlengthcompressor
+SAXClient.cpp
+StdCompress.cpp
+_GLOBAL_.I.constantcompressfactoryptr
+.LFE3
+.LFB6
+.LFE6
+.LFB7
+.LEHB2433
+.LEHB2434
+.LEHE2434
+.LEHB2440
+.LEHB2441
+.L2434
+.LEHB2442
+.LEHE2442
+.LEHE2441
+.L2442
+.L2441
+.LEHE2440
+.L2440
+.LEHE2433
+.LEHB2454
+.LEHB2455
+.L2433
+.LEHB2456
+.LEHE2456
+.LEHE2455
+.L2456
+.L2455
+.LEHE2454
+.L2454
+.LFE7
+.LFB8
+.LFB9
+.LEHB2094
+.LEHB2095
+.LEHE2095
+.LEHB2101
+.LEHB2102
+.L2095
+.LEHB2103
+.LEHE2103
+.LEHE2102
+.L2103
+.L2102
+.LEHE2101
+.L2101
+.LEHE2094
+.LEHB2115
+.LEHB2116
+.L2094
+.LEHB2117
+.LEHE2117
+.LEHE2116
+Degas are we not drawn onward no In union drawn onward to new eras aged
+.L2117
+.L2116
+.LEHE2115
+.L2115
+.LEHB1883
+.LEHB1884
+.LEHE1884
+.LEHB1890
+.LEHB1891
+.L1884
+.LEHB1892
+.LEHE1892
+.LEHE1891
+.L1892
+.L1891
+.LEHE1890
+.L1890
+.LEHE1883
+.LEHB1904
+.LEHB1905
+.L1883
+.LEHB1906
+.LEHE1906
+.LEHE1905
+.L1906
+.L1905
+.LEHE1904
+.L1904
+.LFB17
+.LFB18
+.LFE18
+.LFB19
+.LEHB1781
+.LEHB1782
+.LEHE1782
+.LEHB1788
+.LEHB1789
+.L1782
+.LEHB1790
+.LEHE1790
+.LEHE1789
+.L1790
+.L1789
+.LEHE1788
+.L1788
+.LEHE1781
+.LEHB1802
+.LEHB1803
+.L1781
+.LEHB1804
+.LEHE1804
+.LEHE1803
+.L1804
+.L1803
+.LEHE1802
+.L1802
+.LFE19
+.LFB20
+.LFB21
+.LFB22
+.LFE22
+.LFB23
+.LFB24
+.LFB25
+.LFB26
+.LFE26
+.LFB27
+.LFB28
+.LFB29
+.LFE29
+.LFB30
+.LFE30
+.LFB31
+.LFB32
+.LFB33
+.LFE33
+.LFB35
+.LFB37
+.LFB43
+.LFB44
+.LFE44
+.LFB45
+.LFE45
+.LFB46
+.LFE46
+.LFB47
+.LFE47
+.LFB48
+.LFB49
+.LFE49
+.LFB50
+.LFE50
+.LFB51
+.LFE51
+.LFB52
+.LFE52
+.LFB53
+.LFE53
+.LFB54
+.LFE54
+.LFB55
+.LFE55
+.LFB56
+.LFE56
+.LFB57
+.LFE57
+.LFB58
+.LFE58
+.LFB59
+.LFE59
+.LFB60
+.LFE60
+VPathExprMan.cpp
+Main.cpp
+_GLOBAL_.D.AskOverwriteFile__FPc
+_GLOBAL_.I.AskOverwriteFile__FPc
+.LFE8
+.LFE9
+MemMan.cpp
+OrCompress.cpp
+_GLOBAL_.I.orsepcompressfactory
+Options.cpp
+MemStreamer.cpp
+DivCompress.cpp
+_GLOBAL_.I.divcombcompressfactory
+.LFE17
+.LFE20
+.LFE21
+.LFE23
+.LFE24
+EnumCompress.cpp
+_GLOBAL_.I.enumcompressfactory
+.LEHB2344
+.LEHE2344
+.LEHB2368
+.L2344
+.LEHE2368
+.L2368
+.LFE4
+.LEHB1965
+.LEHE1965
+.LEHB2340
+.L1965
+.LEHE2340
+.L2340
+Error.cpp
+FSM.cpp
+ZLib.cpp
+libgcc2.c
+GetName__23DivSepCompressorFactory
+datacontsizeorig
+CompressString__19RepeatSepCompressorPcUiP17CompressContainerT1
+__tf22PrintCompressorFactory
+argstrings
+InitCompress__21EnumerationCompressorP17CompressContainerPc
+InitCompress__14UserCompressorP17CompressContainerPc
+uncompress
+structcontsizeorig
+__vt_26PlainTextCompressorFactory
+GetName__26SignedIntCompressorFactory
+GetDescription__26RunLengthCompressorFactory
+CompressString__15PrintCompressorPcUiP17CompressContainerT1
+ParseString__19SignedIntCompressorPcUiT1
+deflate
+__ti25ConstantCompressorFactory
+GetName__22PrintCompressorFactory
+fileheadersize_orig
+GetDescription__26RepeatSepCompressorFactory
+ComputeStatesHasPoundsAhead__3FSM
+__ti14UserCompressor
+argnum
+pathdictmem
+__pure_virtual
+InstantiateCompressor__22PrintCompressorFactoryPci
+ferror@@GLIBC_2.0
+GetDescription__25ConstantCompressorFactory
+__ti29UnsignedInt8CompressorFactory
+pathdict
+curpath
+InitCompress__20DivCombineCompressorP17CompressContainerPc
+ErrorCont__FPc
+CompressString__22UnsignedInt8CompressorPcUiP17CompressContainerT1
+ParseString__15DeltaCompressorPcUiT1
+skip_all_files
+feof@@GLIBC_2.0
+ParseUnsignedInt__FPciPUl
+_tr_flush_block
+CompressString__21EnumerationCompressorPcUiP17CompressContainerT1
+HandleCDATA__9SAXClientPcic
+__tf15DeltaCompressor
+__vt_26RunLengthCompressorFactory
+__ti22OrSepCompressorFactory
+__tf15PrintCompressor
+InitCompress__19RunLengthCompressorP17CompressContainerPc
+ignore_cdata
+zlibVersion
+__cp_push_exception
+ParseXPathItem__9VPathExprRPcPcP3FSMP8FSMStateT4c
+_DYNAMIC
+zfree__FPvT0
+AddNewVPathExpr__12VPathExprManRPcPc
+GetName__29UnsignedInt8CompressorFactory
+ParseString__16DivSepCompressorPcUiT1
+_etext
+_length_code
+__ti14XMillException
+ignore_comment
+GetNextState__8FSMStateUsPc
+inflate
+__write@@GLIBC_2.0
+compressorcontsizecompressed
+InitCompress__19RepeatSepCompressorP17CompressContainerPc
+__vt_26SignedIntCompressorFactory
+__ti18ConstantCompressor
+xmlparser
+CompressString__19SignedIntCompressorPcUiP17CompressContainerT1
+elementpoundlabelid
+deflateSetDictionary
+_fp_hw
+_._10Compressor
+__vt_28UnsignedIntCompressorFactory
+GetName__27DivCombineCompressorFactory
+output_initialized
+optfiledata
+FinishCompress__19RepeatSepCompressorP17CompressContainerPc
+CreateReverseFSM__3FSM
+verbose
+__ti19RepeatSepCompressor
+ReleaseMemory__20CompressContainerMan
+FinishCompress__16DivSepCompressorP17CompressContainerPc
+GetName__28EnumerationCompressorFactory
+CompressSmallGlobalData__28EnumerationCompressorFactoryP10Compressor
+Exit__Fv
+unlink@@GLIBC_2.0
+PrintCompressInfo__19RepeatSepCompressorPcPUlT2
+__tf26PlainTextCompressorFactory
+PrintCompressInfo__16DivSepCompressorPcPUlT2
+ErrorCont__FPci
+HandleStartLabel__9SAXClientPcic
+inflate_fast
+__vt_21EnumerationCompressor
+CompressLargeGlobalData__21UserCompressorFactoryP6Output
+__ti22UnsignedInt8Compressor
+orsepcompressfactory
+CompressTextItem__FPciii
+GetDataSize__11CompressMan
+FinishCompress__15OrSepCompressorP17CompressContainerPc
+CompressString__20DivCombineCompressorPcUiP17CompressContainerT1
+GetDescription__22DeltaCompressorFactory
+__vt_29UnsignedInt8CompressorFactory
+FinishCompress__19RunLengthCompressorP17CompressContainerPc
+CreateCompressorInstance__11CompressManRPcPc
+curargidx
+errmsg
+__vt_19RepeatSepCompressor
+HandleComment__9SAXClientPcic
+inflate_flush
+__ti27DivCombineCompressorFactory
+pathtreemem
+__10CompressorP6Output
+HandlePI__9SAXClientPcic
+globalspecialcont
+ParseString__22UnsignedInt8CompressorPcUiT1
+PrintCompressorInfo__11CompressMan
+globalattribwhitespacescompress
+HandleFileArg__FPc
+__ti16DivSepCompressor
+InitWhitespaceHandling__9VPathExpr
+__vt_23DivSepCompressorFactory
+__tf16DivSepCompressor
+InstantiateCompressor__22OrSepCompressorFactoryPci
+CompressSmallContainers__20CompressContainerManP10Compressor
+HandleDOCTYPE__9SAXClientPcic
+globalwhitespacecont
+globalrightwhitespacescompress
+constantcompressor
+PrintCompressInfo__15OrSepCompressorPcPUlT2
+FinishCompress__20CompressContainerMan
+fsmmem
+__rtti_user
+__tf28UnsignedIntCompressorFactory
+AskOverwriteFile__FPc
+printcompressor
+unsignedintcompressor
+CompressString__21UnsignedIntCompressorPcUiP17CompressContainerT1
+ParseString__15OrSepCompressorPcUiT1
+HandleAllOptions__FPPci
+__vt_20DivCombineCompressor
+AddFSM__3FSMP8FSMStateT1P3FSM
+divcombcompressfactory
+GetName__26RepeatSepCompressorFactory
+InitCompress__15DeltaCompressorP17CompressContainerPc
+ComputeOutCompleteness__8FSMState
+GetGlobalDataSize__28EnumerationCompressorFactory
+GetDescription__29UnsignedInt8CompressorFactory
+signedintcompressor
+fsmtmpmem
+__rtti_si
+__ti21UserCompressorFactory
+MarkDependentNotEqual__FP22StateEqualPairListItem
+ParseString__21UnsignedIntCompressorPcUiT1
+inflateSyncPoint
+GetDescription__23DivSepCompressorFactory
+__tf25ConstantCompressorFactory
+_init
+__check_eh_spec
+GetName__22OrSepCompressorFactory
+PrintErrorMsg__Fv
+malloc@@GLIBC_2.0
+__ti19SignedIntCompressor
+_tr_stored_block
+__ti22PrintCompressorFactory
+InitCompress__15OrSepCompressorP17CompressContainerPc
+structcontsizecompressed
+AddToStateSet__FP15FSMStateSetItemP8FSMState
+zlib_compressidx
+ParseString__19RepeatSepCompressorPcUiT1
+curfileptr
+CompressSmallGlobalData__21UserCompressorFactoryP10Compressor
+inflateInit_
+__vt_28EnumerationCompressorFactory
+ExtendCurPath__8PathTreeP12PathTreeNodeUs
+CreateFromString__9VPathExprRPcPc
+fread@@GLIBC_2.0
+memmove@@GLIBC_2.0
+__ti21UnsignedIntCompressor
+__throw
+__tf14XMillException
+GetDataSize__20CompressContainerMan
+__tf21UnsignedIntCompressor
+InterpretOptionString__FPc
+FindEndOfParamString__FPcT0
+InstantiateCompressor__26PlainTextCompressorFactoryPci
+__tf19RunLengthCompressor
+inflate_blocks_free
+deflateInit_
+adler32
+__tf18ConstantCompressor
+fileheadersize_compressed
+zcfree
+__vt_21UnsignedIntCompressor
+__tf19RepeatSepCompressor
+__ti28UnsignedIntCompressorFactory
+stdout@@GLIBC_2.0
+PrintInfo__12PathDictNode
+__deregister_frame_info
+ignore_doctype
+FinishCompress__14UserCompressorP17CompressContainerPc
+GetName__28UnsignedIntCompressorFactory
+Beeb
+__vt_22PrintCompressorFactory
+terminate__Fv
+__vt_27DivCombineCompressorFactory
+__tf22UnsignedInt8Compressor
+curargptr
+Flush__6Output
+allocatedmemory
+PrintCompressInfo__14UserCompressorPcPUlT2
+compressman
+PrintUsage__Fc
+__throw_type_match_rtti
+__ti15DeltaCompressor
+globaltreecont
+CompressMemStream__10CompressorP11MemStreamer
+delete_inputfiles
+GetName__26PlainTextCompressorFactory
+CompressData__10CompressorPUcUi
+usestdout
+__tf21UserCompressorFactory
+FindCompressorFactory__11CompressManPci
+__tf26RepeatSepCompressorFactory
+zError
+crc32
+ignore_pi
+no_output
+unsignedint8compressor
+__tf27DivCombineCompressorFactory
+GetDescription__26PlainTextCompressorFactory
+inflate_mask
+_start
+inflate_trees_fixed
+__vt_22UnsignedInt8Compressor
+enumcompressfactory
+__vt_18ConstantCompressor
+__ti19RunLengthCompressor
+deflateInit2_
+Error__FPci
+_13EnumHashTable.isinitialized
+AllocateBlockRecurs__FUc
+CompressString__16DivSepCompressorPcUiP17CompressContainerT1
+ParseString__15PrintCompressorPcUiT1
+InstantiateCompressor__22DeltaCompressorFactoryPci
+GetGlobalDataSize__21UserCompressorFactory
+GetName__26RunLengthCompressorFactory
+__strtol_internal@@GLIBC_2.0
+deflate_copyright
+CompressString__15DeltaCompressorPcUiP17CompressContainerT1
+GetName__25ConstantCompressorFactory
+ParseString__18ConstantCompressorPcUiT1
+inflateReset
+__ctype_toupper@@GLIBC_2.0
+constantcompressfactoryptr
+_dist_code
+deflateReset
+inflate_codes_new
+InstantiateCompressor__26RunLengthCompressorFactoryPci
+whitespacecontsizecompressed
+globallabeldict
+plaincompressor
+blocksizeidxs
+EliminateRedundantPoundEdges__3FSM
+inflate_trees_bits
+inflateSync
+PrintCompressInfo__20DivCombineCompressorPcPUlT2
+inflate_codes
+__vt_15DeltaCompressor
+__vt_21UserCompressorFactory
+__vt_14UserCompressor
+usedosnewline
+specialcontsizeorig
+FindAcceptingStates__3FSM
+CompressSmallGlobalData__11CompressManP10Compressor
+blocksizes
+__bss_start
+EliminateRedundantPoundEdges__8FSMState
+main
+__cp_pop_exception
+PruneRedundantStates__3FSM
+memory_cutoff
+__vt_15PrintCompressor
+__tf19SignedIntCompressor
+__ti26RepeatSepCompressorFactory
+InstantiateCompressor__29UnsignedInt8CompressorFactoryPci
+__libc_start_main@@GLIBC_2.0
+__tf14UserCompressor
+__tf28EnumerationCompressorFactory
+curerrline
+__ti15OrSepCompressor
+ReleaseMemory__11MemStreamerUl
+FindAcceptingStatesRecurs__8FSMState
+__ti28EnumerationCompressorFactory
+strcat@@GLIBC_2.0
+HandleSingleFile__FPc
+errno@@GLIBC_2.0
+errstrlen
+data_start
+ReleaseMemory__8PathTree
+z_errmsg
+tmpmem
+__builtin_vec_new
+__ti21EnumerationCompressor
+printf@@GLIBC_2.0
+CompressLargeGlobalData__11CompressManP6Output
+zcalloc
+InstantiateCompressor__26RepeatSepCompressorFactoryPci
+_13EnumHashTable.hashtable
+__tfP14XMillException
+InstantiateCompressor__28UnsignedIntCompressorFactoryPci
+_fini
+CreateRootNode__8PathTree
+memcpy@@GLIBC_2.0
+zalloc__FPvUiUi
+HasPoundsAheadRecurs__8FSMState
+deflateCopy
+blockmem
+__tf26SignedIntCompressorFactory
+__ti23DivSepCompressorFactory
+CompressString__19RunLengthCompressorPcUiP17CompressContainerT1
+fclose@@GLIBC_2.1
+freeblocklists
+curptr
+InstantiateCompressor__27DivCombineCompressorFactoryPci
+Compress__FPcT0
+PrintCompressInfo__21EnumerationCompressorPcPUlT2
+GetDescription__22OrSepCompressorFactory
+compressorcontsizeorig
+__ti26SignedIntCompressorFactory
+InitSpecialContainerSizeSum__Fv
+__rtti_ptr
+inflate_blocks
+attribpoundlabelid
+__ti22DeltaCompressorFactory
+GetDescription__26SignedIntCompressorFactory
+__vt_19SignedIntCompressor
+whitespacecontsizeorig
+__vt_26RepeatSepCompressorFactory
+__tf23DivSepCompressorFactory
+divsepcompressfactory
+HandleAttribWhiteSpaces__9SAXClientPcic
+__tf20DivCombineCompressor
+inflate_blocks_reset
+CreateNewContainerBlock__20CompressContainerManUiUiP12PathDictNodeP9VPathExpr
+fileheader_iswritten
+runlengthcompressor
+God A red nugget A fat egg under a dog
+CreateState__3FSMc
+__ti19PlainTextCompressor
+globalcontblock
+CreateLabelEdge__3FSMP8FSMStateT1Us
+GetDescription__22PrintCompressorFactory
+GetName__22DeltaCompressorFactory
+PrintSpecialContainerSizeSum__Fv
+HandleText__9SAXClientPcicii
+Store__12VPathExprManP11MemStreamer
+calloc@@GLIBC_2.0
+datacontsizecompressed
+InstantiateCompressor__23DivSepCompressorFactoryPci
+Minimize__3FSM
+__vt_22DeltaCompressorFactory
+__tf29UnsignedInt8CompressorFactory
+GetDescription__27DivCombineCompressorFactory
+globalfullwhitespacescompress
+inflate_blocks_sync_point
+_edata
+FinishCompress__10CompressorPUlT1
+_GLOBAL_OFFSET_TABLE_
+free@@GLIBC_2.0
+HandleAttribName__9SAXClientPcic
+_end
+MakeDeterministic__3FSM
+CreateNegEdge__3FSMP8FSMStateT1P8FSMLabel
+inflate_copyright
+msgptr
+inflate_trees_dynamic
+__cp_eh_info
+inflate_set_dictionary
+repeatsepcompressfactory
+__vt_19PlainTextCompressor
+_exit@@GLIBC_2.0
+stdin@@GLIBC_2.0
+InstantiateCompressor__25ConstantCompressorFactoryPci
+CompressLargeContainers__20CompressContainerManP6Output
+InstantiateCompressor__28EnumerationCompressorFactoryPci
+inflate_codes_free
+__tf26RunLengthCompressorFactory
+HandleEndLabel__9SAXClientPcic
+__vt_19RunLengthCompressor
+InitCompress__16DivSepCompressorP17CompressContainerPc
+_tr_init
+__tf22DeltaCompressorFactory
+overwrite_files
+__tf15OrSepCompressor
+__vt_15OrSepCompressor
+enumhashtable
+__ti26RunLengthCompressorFactory
+AddEnumCompressState__FP17EnumCompressState
+deflateParams
+fopen@@GLIBC_2.1
+mainmem
+CompressString__18ConstantCompressorPcUiP17CompressContainerT1
+CreateEmptyEdge__3FSMP8FSMStateT1
+__builtin_delete
+pathexprman
+_IO_stdin_used
+__builtin_new
+__ti15PrintCompressor
+inflateSetDictionary
+GetDescription__28UnsignedIntCompressorFactory
+__tiP14XMillException
+FSMInit__Fv
+CompressString__19PlainTextCompressorPcUiP17CompressContainerT1
+__ti26PlainTextCompressorFactory
+InstantiateCompressor__26SignedIntCompressorFactoryPci
+__tf19PlainTextCompressor
+ParseString__14UserCompressorPcUiT1
+__vt_22OrSepCompressorFactory
+sprintf@@GLIBC_2.0
+globalleftwhitespacescompress
+fwrite@@GLIBC_2.0
+inflate_blocks_new
+__vt_25ConstantCompressorFactory
+Error__FPc
+StoreMainInfo__20CompressContainerManP11MemStreamer
+__data_start
+__vt_16DivSepCompressor
+CompressLargeGlobalData__28EnumerationCompressorFactoryP6Output
+inflateEnd
+PruneRedundantStatesRecurs__8FSMState
+_IO_getc@@GLIBC_2.0
+GetDescription__28EnumerationCompressorFactory
+__tf22OrSepCompressorFactory
+deltacompressor
+inflateInit2_
+__register_frame_info
+_tr_tally
+deflateEnd
+FinishCompress__20DivCombineCompressorP17CompressContainerPc
+get_crc_table
+ComputeOutCompleteness__3FSM
+HandleAttribValue__9SAXClientPcic
+InitWhitespaceHandling__12VPathExprMan
+_tr_align
+PrintRegExpr__9VPathExpr
+specialcontsizecompressed
+__tf21EnumerationCompressor
+__ti20DivCombineCompressor
+pathtree
+compresscontman
+__gmon_start__
+__bzero@@GLIBC_2.0
+strcpy@@GLIBC_2.0
+CompressString__15OrSepCompressorPcUiP17CompressContainerT1
+__21UserCompressorFactory

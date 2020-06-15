@@ -1,0 +1,6045 @@
+/lib64/ld-linux-x86-64.so.2
+libstdc++.so.6
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_deregisterTMCloneTable
+_ITM_registerTMCloneTable
+_ZNSo9_M_insertIdEERSoT_
+_ZSt29_Rb_tree_insert_and_rebalancebPSt18_Rb_tree_node_baseS0_RS_
+_ZNSt8ios_base4InitD1Ev
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE9_M_mutateEmmPKcm
+_ZNSt13basic_filebufIcSt11char_traitsIcEE5closeEv
+_ZTVSt14basic_ifstreamIcSt11char_traitsIcEE
+_ZTVSt15basic_streambufIcSt11char_traitsIcEE
+__gxx_personality_v0
+_ZNSt13basic_filebufIcSt11char_traitsIcEE4openEPKcSt13_Ios_Openmode
+_ZNSo3putEc
+_ZTVSt13basic_filebufIcSt11char_traitsIcEE
+_ZNKSt5ctypeIcE13_M_widen_initEv
+_ZNSt7__cxx1119basic_ostringstreamIcSt11char_traitsIcESaIcEED1Ev
+_ZNSt9basic_iosIcSt11char_traitsIcEE5clearESt12_Ios_Iostate
+_ZSt18_Rb_tree_decrementPSt18_Rb_tree_node_base
+_ZdlPv
+__cxa_begin_catch
+_ZSt20__throw_length_errorPKc
+_ZTVNSt7__cxx1119basic_ostringstreamIcSt11char_traitsIcESaIcEEE
+_ZTVSt9basic_iosIcSt11char_traitsIcEE
+_ZNSo9_M_insertIyEERSoT_
+_ZSt16__ostream_insertIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_PKS3_l
+_ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_
+_ZNSt6localeD1Ev
+_ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE4findEcm
+__cxa_end_catch
+_ZNSi4readEPcl
+_ZSt24__throw_out_of_range_fmtPKcz
+_ZNSt8ios_baseD2Ev
+_ZNSt7__cxx1115basic_stringbufIcSt11char_traitsIcESaIcEED1Ev
+_ZNSi5tellgEv
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7reserveEm
+_ZSt16__throw_bad_castv
+_ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7compareEPKc
+_ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE5rfindEPKcmm
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE8_M_eraseEmm
+_ZSt17__throw_bad_allocv
+_ZNSt8ios_base4InitC1Ev
+_ZNSt13basic_filebufIcSt11char_traitsIcEED1Ev
+_ZStplIcSt11char_traitsIcESaIcEENSt7__cxx1112basic_stringIT_T0_T1_EEPKS5_RKS8_
+_ZNSt7__cxx1115basic_stringbufIcSt11char_traitsIcESaIcEE7_M_syncEPcmm
+_ZStplIcSt11char_traitsIcESaIcEENSt7__cxx1112basic_stringIT_T0_T1_EERKS8_SA_
+_ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE4findEPKcmm
+_ZNSi5seekgElSt12_Ios_Seekdir
+_ZNKSt7__cxx1115basic_stringbufIcSt11char_traitsIcESaIcEE3strEv
+_ZNSo9_M_insertImEERSoT_
+_ZSt18_Rb_tree_incrementPSt18_Rb_tree_node_base
+_ZTTNSt7__cxx1119basic_ostringstreamIcSt11char_traitsIcESaIcEEE
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEED1Ev
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE10_M_replaceEmmPKcm
+_ZNSt9basic_iosIcSt11char_traitsIcEE4initEPSt15basic_streambufIcS1_E
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE9_M_appendEPKcm
+_Znwm
+__cxa_rethrow
+_ZNSt12__basic_fileIcED1Ev
+_ZNSt6localeC1Ev
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE14_M_replace_auxEmmmc
+_ZSt18_Rb_tree_incrementPKSt18_Rb_tree_node_base
+_ZNSt8ios_baseC2Ev
+_ZSt19__throw_logic_errorPKc
+_ZNKSt5ctypeIcE8do_widenEc
+_ZTVNSt7__cxx1115basic_stringbufIcSt11char_traitsIcESaIcEEE
+_ZTTSt14basic_ifstreamIcSt11char_traitsIcEE
+_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc
+_ZNSt13basic_filebufIcSt11char_traitsIcEEC1Ev
+_ZSt28_Rb_tree_rebalance_for_erasePSt18_Rb_tree_node_baseRS_
+_ZNSt7__cxx1115basic_stringbufIcSt11char_traitsIcESaIcEED0Ev
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE9_M_createERmm
+_ZSt4cout
+_ZNSt7__cxx1115basic_stringbufIcSt11char_traitsIcESaIcEED2Ev
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE9_M_assignERKS4_
+_ZNSo5flushEv
+_ZNSt14basic_ifstreamIcSt11char_traitsIcEED1Ev
+_ZNSolsEi
+libgcc_s.so.1
+_Unwind_Resume
+libc.so.6
+socket
+__xpg_basename
+mkdtemp
+fflush
+gmtime_r
+execl
+setlocale
+fopen
+strrchr
+regexec
+inet_ntoa
+__read_chk
+strncpy
+puts
+regfree
+gettext
+__stack_chk_fail
+__lxstat
+unlink
+strtoll
+strpbrk
+tolower
+getpid
+bind_textdomain_codeset
+strftime
+chmod
+localtime_r
+strtol
+isatty
+mmap
+feof
+fgets
+calloc
+strlen
+__cxa_atexit
+memset
+glob
+rmdir
+__errno_location
+chdir
+open64
+confstr
+read
+memcmp
+getpagesize
+toupper
+__fxstat64
+__fprintf_chk
+fputc
+memcpy
+fclose
+malloc
+strcasecmp
+getenv
+sscanf
+regcomp
+stderr
+ioctl
+munmap
+__snprintf_chk
+readlink
+fscanf
+__xmknod
+__fxstat
+__realpath_chk
+gethostname
+getcwd
+__getdelim
+fwrite
+scandir
+geteuid
+umount
+lseek64
+strchr
+alphasort
+__strcpy_chk
+__sprintf_chk
+__xstat
+memmove
+uname
+bindtextdomain
+access
+__strcat_chk
+strcmp
+strerror
+__libc_start_main
+globfree
+snprintf
+sysconf
+GCC_3.0
+GLIBCXX_3.4.9
+CXXABI_1.3
+GLIBCXX_3.4.11
+GLIBCXX_3.4.20
+GLIBCXX_3.4.21
+GLIBCXX_3.4
+GLIBC_2.14
+GLIBC_2.4
+GLIBC_2.3.4
+GLIBC_2.2.5
+5By)
+%Dy)
+%By)
+%:y)
+%2y)
+%*y)
+%"y)
+%zx)
+%rx)
+%jx)
+%bx)
+%Zx)
+%Rx)
+%Jx)
+%Bx)
+%:x)
+%2x)
+%*x)
+%"x)
+%zw)
+%rw)
+%jw)
+%bw)
+%Zw)
+%Rw)
+%Jw)
+%Bw)
+%:w)
+%2w)
+%*w)
+%"w)
+%zv)
+%rv)
+%jv)
+%bv)
+%Zv)
+%Rv)
+%Jv)
+%Bv)
+%:v)
+%2v)
+%*v)
+%"v)
+%zu)
+%ru)
+%ju)
+%bu)
+%Zu)
+%Ru)
+%Ju)
+%Bu)
+%:u)
+%2u)
+%*u)
+%"u)
+%zt)
+%rt)
+%ro)
+AVAUATUH
+D$`H
+L$@H
+t$ H
+|$ H
+D$0H9
+|$@H
+D$PH9
+|$`H
+D$pH9
+=dv)
+[]A\A]A^
+|$@1
+T$HH
+|$@H
+D$PH9
+|$`1
+T$hH
+|$`H
+D$pH9
+=6t)
+|$@H
+T$PH
+|$`H
+T$pH
+|$`H
+D$pH9
+|$ H
+T$0H
+|$@H
+D$PH9
+D$X1
+D$XdH3
+AUATL
+$w5H
+[]A\A]
+D$81
+5{l)
+=Xl)
+=5l)
+D$ H
+/usr/binH
+T$ H
+/lshw-gtH
+D$ H9
+=yj)
+=Yj)
+=9j)
+D$8dH3
+T$ H
+5-i)
+=)i)
+5	i)
+ATUI
+$w8H
+[]A\
+ATUL
+D$H1
+tBH9C
+|$ H
+t$ H
+|$ H
+D$0H9
+T$HdH3
+P[]A\
+|$ H
+T$0H
+AUATUSH
+[]A\A]
+dH3<%(
+AWAVA
+AUATI
+D$(1
+D$(dH3
+8[]A\A]A^A_
+tdUSH
+tJUSH
+D$(1
+D$(dH3
+D$(1
+D$(dH3
+D$(1
+D$(dH3
+D$(1
+D$(dH3
+D$(1
+D$(dH3
+D$(1
+D$(dH3
+D$(1
+D$(dH3
+D$(1
+D$(dH3
+AWAVAUATUSH
+|$ H
+tXL9c
+D$PH
+|$@H
+D$@H
+t$@H
+|$@H
+D$PH9
+H;T$
+|$ H
+D$0H9
+[]A\A]A^A_
+D$pH
+|$`H
+D$`H
+t$`H
+|$`H
+D$pH9
+|$ H
+D$0H9
+|$@H
+T$PH
+|$`H
+T$pH
+AUATUSH
+[]A\A]
+[]A\A]
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AUATUSH
+|$`H
+|$`A
+D$pH9
+|$@H
+t$@H
+|$ H
+T$(E1
+H;T$hL
+D$0I9
+|$`H
+D$pH9
+|$@H
+D$PH9
+[]A\A]
+t$`L
+|$`H
+T$pH9
+|$@H
+T$PH9
+|$`H
+D$pH9
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUATUSH
+D$(1
+L$(dH3
+0[]A\A]A^
+AVAU
+ATUI
+D$H1
+l$01
+l$ H
+|$ H
+L9l$(
+T$(H
+t$ H
+|$ H9
+\$HdH3
+P[]A\A]A^
+|$ H
+D$0H9
+|$ H
+T$0H
+AVAUI
+ATUSH
+[]A\A]A^
+[]A\A]A^
+D$(1
+D$(dH3
+ATUSH
+D$H1
+\$ L
+|$ H
+D$HdH3
+P[]A\
+\$ L
+|$ H
+|$ H
+|$ H
+AWAVAUATI
+D$81
+D$ E1
+L;|$
+L;|$
+L$8dH3
+H[]A\A]A^A_
+L;|$
+AWAVAUATUSH
+D$h1
+|$PI
+l$@L
+|$0H9
+T$PH
+t$PH
+H;T$8H
+t$0H
+\$hdH3
+x[]A\A]A^A_
+|$0H
+T$@H
+D$81
+|$ I
+T$ H
+t$ H
+D$8dH3
+D$H1
+D$HdH3
+D$(1
+D$(dH3
+AWAVAUATUSH
+D$(1
+D$(dH3
+8[]A\A]A^A_
+D$(1
+D$(dH3
+ATUI
+[]A\
+ATUI
+[]A\
+AUATI
+[]A\A]
+1;2t	
+v5H9
+R H9Q 
+v,H9
+A H9B 
+AUATUSH
+[]A\A]
+]A\A]
+C H9
+S H9
+A08G0
+D$X1
+D$0H
+T$@H
+t$@H
+H9D$
+T$ H
+|$ H
+D$0H9
+\$XdH3
+|$ H
+T$0H9
+|$ H
+t$ H
+|$ H
+D$0H9
+[]A\
+\$`H
+t$`L
+T$hH
+|$`H
+D$pH9
+|$@H
+t$@H
+|$@H
+D$PH9
+\$`H
+|$`H
+|$ H
+T$0H
+|$@H
+T$PH
+AUATI
+|$@H
+t$@H
+|$@H
+D$PH9
+[]A\A]
+|$ H
+t$ H
+|$ H
+D$0H9
+|$`H
+t$`H
+|$`H
+D$pH9
+|$@H
+T$PH
+|$`H
+T$pH
+|$ H
+T$0H
+D$(1
+L$(dH3
+AVAUATUH
+D$(1
+<$L9
+L$(dH3
+0[]A\A]A^
+AWAVAUATUSH
+D$X1
+D$@I
+|$ H
+t$0H
+|$0H;|$
+|$0L
+T$0H
+L$XdH3
+h[]A\A]A^A_
+|$0H
+T$@H
+T$ H9
+AUATUSH
+[]A\A]
+AUATUSH
+[]A\A]
+[]A\
+AWAVI
+AUATI
+l$0H)
+|$ H
+H;T$(H
+H;T$
+<$uAH
+[]A\A]A^A_
+|$@H
+D$PH9
+|$`H
+t$`H
+|$`H
+D$pH9
+T$`H
+|$`H
+T$pH
+|$@H
+T$PH
+AWAVAUATUSH
+D$h1
+T$@H
+L$8H
+D$0H
+L$(H
+T$ H
+T$@H
+L$8H
+D$0H
+L$(H
+T$ H
+l$`H
+D$PH
+T$XH
+L$PL
+|$`H
+D$PH
+D$hdH3
+x[]A\A]A^A_
+|$`H
+t$PH
+AWAVAUATI
+D$X1
+\$8H
+T$0H
+L$(L
+D$ L
+\$8H
+T$0H
+L$(H
+D$ H
+t$PH
+D$@H
+T$HH
+L$@L
+|$PH
+D$@H
+L$XdH3
+h[]A\A]A^A_
+|$PH
+t$@H
+AWAVAUATI
+D$ H9
+[]A\A]A^A_
+|$0L
+D$@H9
+|$PL
+t$PH
+|$PH
+D$`H9
+D$pH
+D$pH
+t$pH
+|$pH
+T$ H9
+|$pH
+|$PH
+T$`H
+|$0H
+T$@H
+AWAVAUATI
+[]A\A]A^A_
+r(L9
+x2E1
+AWAVAUATI
+H9D$
+[]A\A]A^A_
+|$`H
+t$`L
+D$pH9
+|$@L
+|$ H
+t$ H
+t$@H
+|$ H
+D$0H9
+|$@H
+D$PH9
+<$H9
+|$`H
+T$pH
+|$@H
+T$PH9
+|$ H
+T$0H
+ATUSH
+D$H1
+D$HdH3
+P[]A\
+|$ L
+t$ H
+|$ H
+D$0H9
+|$ H
+T$0H9
+ATUI
+D$(1
+L$(dH3
+0[]A\
+AWAVAUATI
+D$x1
+H9,$
+t$xdH34%(
+[]A\A]A^A_
+D$ K
+|$0L
+D$@H
+D$`H
+D$PH
+D$0H
+T$0H
+|$PH
+D$`H9
+|$0H
+D$@H9
+D$ H9
+|$0H
+T$ H9
+|$0H
+D$@H9
+AWAVAUATUSH
+T$,dH
+D$0H
+D$PH
+|$pH
+|$0H
+t$pH
+D$PH
+D$PH
+L$,1
+t$,H
+l$XH
+\$PH9
+l$PH
+[]A\A]A^A_
+@0H=
+D$,H
+t$(H
+t$(H
+t$(H
+t$(H
+t$(H
+t$(H
+t$(H
+t$(H
+t$(H
+t$(H
+t$(H
+t$(H
+t$(H
+t$(H
+t$(H
+\$8L
+d$0H
+t$(H
+D$8H+D$0H
+D$(L
+\$0H
+D$8H+D$0A
+@0H=
+t$(H
+\$8L
+d$0I9
+\$8L
+d$0H
+t$(H
+D$8H+D$0H
+D$(L
+T$0H
+D$8H+D$0A
+\$0H
+@0H=
+t$(H
+\$8L
+d$0I9
+d$8H
+\$XL
+d$PI9
+D$0H
+D$,H
+D$,H
+t$(H
+t$(H
+t$(H
+t$(H
+t$(H
+t$(H
+t$(H
+t$(H
+D$0H
+D$PH
+D$PH
+D$ H
+|$pH
+D$PH
+D$PH
+AWAVAUATUSH
+D$0H
+D$ H
+D$PH
+|$pH
+|$0H
+t$pH
+D$PH
+D$PH
+l$XH
+\$PH9
+l$PH
+l$8H
+\$0H9
+l$0H
+[]A\A]A^A_
+D$(H
+D$(H
+D$(H
+D$(H
+D$(H
+D$(1
+@0H=
+D$(H
+D$(H
+D$(H
+D$(H
+l$8L
+d$0H
+D$(H
+D$8H+D$0H
+D$(1
+D$8H+D$0A
+t$0H
+@0H=
+l$8L
+d$0L9
+t$ H
+l$8L
+d$0H
+D$(H
+D$8H+D$0H
+D$(1
+D$8H+D$0A
+T$0H
+T$0H
+@0H=
+t$,H
+l$8L
+d$0L9
+l$XL
+d$8L
+d$PH
+D$(H
+D$XH+D$PH
+t$(H
+D$XH+D$PA
+@0H=
+l$XL
+d$PI9
+t%f.
+D$(H
+D$(H
+D$(H
+D$(H
+D$(H
+|$pH
+D$PH
+D$0H
+D$ H
+D$PH
+D$0H
+D$ H
+D$PH
+D$PH
+AWAVAUATUSH
+k(I9
+L9d$
+\$(I9
+t$ L
+|$@H
+D$ H9
+[]A\A]A^A_
+D$@K
+|$PL
+D$0H
+D$`H
+t$0H
+D$pH
+D$PH
+T$8H
+T$PL
+|$pI
+|$PH
+D$`H9
+|$0H
+D$@H9
+|$PH
+|$0H
+T$@H9
+D$ H9
+|$PH
+D$`H9
+AWAVAUATUSH
+|$ I
+H9\$
+|$ H
+D$0H9
+l$`H
+|$`H
+@PH9
+C0H9
+[]A\A]A^A_
+D$PH
+l$`K
+D$@H
+t$@H
+E0H9
+|$`H
+|$@H
+D$PH9
+|$@H
+T$PH9
+|$ H
+D$0H9
+|$`H
+|$`H
+AVAUATUI
+D$ H
+[]A\A]A^
+r(L9
+x2E1
+AWAVAUATUSH
+L$X1
+H9\$
+D$XdH3
+h[]A\A]A^A_
+D$@H
+|$0H
+D$0H
+D$ H
+D$Pt
+T$0H
+|$PH
+|$0H
+D$@H9
+|$0H
+AWAVAUATI
+D$H1
+l$ H
+|$ I
+l$ H
+|$ I
+l$ H
+|$ I
+l$ H
+|$ I
+l$ H
+|$ I
+l$ 1
+|$ H
+|$ L9
+t5f.
+D$HdH3
+X[]A\A]A^A_
+l$ H
+|$ I
+l$ H
+|$ I
+l$ H
+|$ I
+|$ I
+AWAVAUATUSH
+D$X1
+H9\$
+L$XdH3
+h[]A\A]A^A_
+D$@H
+|$0H
+D$0H
+D$ H
+D$Pt
+T$0H
+|$PH
+|$0H
+D$@H9
+|$0H
+ATUSH
+[]A\
+AWAVAUATI
+[]A\A]A^A_
+AWAVAUATI
+[]A\A]A^A_
+[]A\
+C0H9
+AVAUE1
+ATUI
+[]A\A]A^
+AVAUI
+ATUI
+[]A\A]A^
+CXH9
+CXH9
+tSATI
+C0H9
+[]A\
+tJATI
+C0H9
+[]A\
+ATUH
+ExH9
+EXH9
+E8H9
+[]A\
+[]A\
+ExH9
+EXH9
+E8H9
+AWAVAUATI
+D$81
+I;|$
+D$ I
+D$ H9
+D$8dH3
+H[]A\A]A^A_
+,$L9
+T$ H9
+tJL94$L
+AWAVAUATL
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATI
+([]A\A]A^A_
+4	L9
+AWAVI
+AUATI
+hPH9
+h0L9
+sPL9
+{0L9
+[]A\A]A^A_
+{ I9
+{ I9
+x I9
+x H9
+dH3<%(
+AWAVI
+AUATI
+{ L9
+[]A\A]A^A_
+AWAVAUATI
+[]A\A]A^A_
+AWAVAUATI
+I;|$
+([]A\A]A^A_
+t'f.
+AWAVAUATUSH
+s L9
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUATI
+tjx~H
+[]A\A]A^A_
+~0L)
+}rI9_
+[]A\A]A^A_
+[]A\A]A^A_
+I9_ tZH
+[]A\A]A^A_
+AWAVI
+AUATUSH
+D$x1
+L9d$
+\$(L
+t$ L
+L$xdH3
+[]A\A]A^A_
+D$ K
+|$0L
+D$@H
+D$`H
+D$PH
+D$0H
+T$0L
+|$PI
+D$`H9
+|$0H
+D$@H9
+D$ H9
+T$ H9
+|$0H
+D$@H9
+AWAVAUATUSH
+s L9
+[]A\A]A^A_
+[]A\A]A^A_
+AVAUATI
+tjx~H
+[]A\A]A^A_
+~0L)
+}rI9_
+[]A\A]A^A_
+[]A\A]A^A_
+I9_ tZH
+[]A\A]A^A_
+AUATI
+[]A\A]
+D$pH
+D$PH
+D$@H
+D$ H
+L$pL
+D$PH
+L$0H
+|$0H
+D$@H9
+|$PH
+D$`H9
+|$pH
+|$pH
+t$pH
+D$pH
+ComputerH
+|$pH
+D$ I
+|$0H
+D$@H9
+|$PH
+D$`H9
+|$pH
+|$pH
+ATUI
+$w8H
+[]A\
+~|ATUA
+[]A\
+[]A\
+AUATL
+D$h1
+w(H9
+D$0H
+|$ H
+t$ H
+|$ H
+D$0H9
+D$HH
+L$@1
+|$@H
+D$hdH3
+x[]A\A]
+l$@H
+T$@H
+|$@H
+@0H=
+|$@H
+|$ H
+T$0H
+AWAVAUATUSH
+@hI9
+D$ H
+|$0)
+T$8H
+t$0H
+|$0H
+D$@H9
+D$ H9
+D$`H
+T$PH
+|$p)
+T$xH
+t$pH
+|$pH
+|$PH
+D$`H9
+H;|$
+H;<$t
+[]A\A]A^A_
+|$PH
+T$`H9
+|$0H
+T$@H
+T$ H9
+|$pH
+AWAVAUATA
+T$ H
+D$0H
+D$PH
+|$pH
+|$0H
+t$pH
+\$xL
+l$pL9
+\$pH
+D$PH
+D$PH
+D$0H
+D$PH
+|$0H
+D$PH
+D$PH
+D$'H
+D$ 1
+@0H=
+@0H=
+l$XH
+\$PH9
+l$PH
+l$8H
+\$0H9
+l$0H
+[]A\A]A^A_
+D$ 1
+D$ 1
+D$ 1
+D$ 1
+D$ 1
+Do nine men interpret Nine men I nod
+D$ 1
+@0H=
+@0H=
+|$ 1
+@0H=
+D$ 1
+D$ 1
+D$ 1
+D$ 1
+D$ 1
+D$ 1
+D$ 1
+D$ 1
+D$8H+D$0H
+D$XH+D$PH
+|$ 1
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+|$ 1
+|$ 1
+D$ 1
+D$XH+D$PH
+D$XH+D$PA
+D$ 1
+D$8H+D$0H
+D$8H+D$0A
+D$ 1
+H;<$t
+D$ 1
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+@0H=
+D$8H+D$0H
+D$XH+D$PH
+@0H=
+@0H=
+@0H=
+D$PH
+|$pH
+D$PH
+D$0H
+|$(H
+D$PH
+D$0H
+AWAVE1
+AUATI
+|$@H
+D$0H
+|$ H
+D$ H
+H9D$(
+t$ H
+D$pH
+|$`H
+D$`H
+T$HH
+t$@H
+t$`H
+|$`H
+D$pH9
+|$ H
+D$0H9
+|$@H
+D$PH9
+[]A\A]A^A_
+{ I9
+|$`H
+T$pH
+|$ H
+T$0H9
+|$@H
+D$PH9
+|$`H
+D$pH9
+|$ H
+D$0H9
+D$H1
+|$ H
+D$0H
+T$ H
+|$ H
+D$0H9
+CpH9
+CPH9
+C0H9
+D$HdH3
+|$ H
+T$0H
+AWAVE1
+AUAT
+|$ H
+t$ H
+|$ H
+D$0H9
+|$@H
+|$@H
+D$PH9
+|$`H
+|$`H
+D$pH9
+I;\$
+[]A\A]A^A_
+{ I9
+|$ H
+T$0H
+|$`H
+T$pH
+|$@H
+T$PH
+CpH9
+CPH9
+C0H9
+CpH9
+CPH9
+C0H9
+ATUSH
+CpH9
+CPH9
+C0H9
+[]A\
+AWAVAUATI
+D$@H
+|$0I
+D$0H
+t$ H
+D$`H
+|$PH
+D$PH
+t$@H
+|$pH
+D$pH
+t$`H
+t$0H
+t$PH
+t$pH
+|$pH
+|$PH
+D$`H9
+|$0H
+D$@H9
+[]A\A]A^A_
+t$ L
+t$@H
+t$`H
+T$hH
+t$ H
+t$@H
+t$`H
+D$ I
+l$ H9
+H9\$
+H;\$
+CpH9
+CPH9
+C0H9
+H;\$
+D$(H
+D$(H
+}@I9
+} L9
+D$ H9
+x@H9
+x I9
+}@L9
+} L9
+H;|$
+|$pH
+|$PH
+D$`H9
+|$0H
+D$@H9
+H9D$ H
+H9\$ u
+}@I9
+} I9
+H9|$
+AWAVH
+core/memAUATA
+core/memH
+coreH
+\$`H
+D$pmemoH
+D$`f
+iconH
+|$`H
+tOI9
+[]A\A]A^A_
+coreH
+\$`L
+|$@L
+d$ H
+D$0memoI
+D$`I
+D$@I
+D$ f
+|$ I
+|$@I
+|$`H
+memoH
+\$`L
+|$@L
+d$ H
+D$`I
+D$@I
+D$0coreH
+|$ I
+|$@I
+|$`H
+coreH
+|$ I
+|$@I
+|$`H
+|$`H
+ATUI
+$w8H
+[]A\
+D$(1
+L$(dH3
+H+D$
+H+D$
+H+D$
+H+D$
+H+D$
+H+D$
+H+D$
+H+D$
+H+D$
+ATUI
+D$(1
+L$(dH3
+0[]A\
+ATUSH
+D$X1
+D$XdH3
+`[]A\
+|$0H
+|$0A
+D$@H9
+D$@H
+D$0M
+|$0L
+D$ H
+T$0H
+D$ H9
+|$0H
+D$@H9
+D$ H
+D$@H
+t$0H
+|$0H
+D$@H9
+D$ H9
+D$@H
+D$0t
+|$0L
+t$0H
+|$0H
+D$@H9
+|$0H
+D$@H9
+|$0H
+D$@H9
+D$ H9
+D$ H9
+AWAVAUATSH
+[A\A]A^A_]
+AVAUA
+ATUH
+H+L$
+|$ H
+t$ H
+|$ H
+D$0H9
+[]A\A]A^
+D$pH
+D$`t
+|$`H
+D$PH
+T$`H
+t$@H
+|$@H
+D$PH9
+|$`H
+D$pH9
+|$ H
+T$0H
+|$`H
+T$pH9
+|$@H
+Degas are we not drawn onward no In union drawn onward to new eras aged
+T$PH
+AWAVAUATSH
+wBE1
+[A\A]A^A_]
+S	E1
+'v4D
+C	PD
+AWAVAUATI
+[A\A]A^A_]
+AUAT
+|$PH
+D$`H
+|$PL
+|$PH
+T$`H9
+l$8H
+\$0H
+l$0H
+[]A\A]
+l$8H
+|$pL
+|$PH
+D$`H9
+|$PH
+D$`H9
+|$pH
+|$0H
+AWAVAUATI
+D$X1
+t$XdH34%(
+h[]A\A]A^A_
+|$&fD
+D$(t
+t$0H
+T$0J
+T$8J
+T$@B
+T$HB
+T$LB
+T$ L
+L$:L
+D$8H
+L$6H
+ZYu:E
+|$*L
+L$,1
+T$*D
+t$*L
+D$(L
+ATUI
+$w8H
+[]A\
+AWAV
+AUAT
+|$0H
+|$pH
+D$`H
+T$pH
+t$PH
+|$PH
+D$`H9
+|$pH
+|$0H
+t$0H
+t$ H
+|$0H
+D$@H9
+[]A\A]A^A_
+|$ I
+|$ L
+|$ H
+|$ 1
+|$PH
+T$`H9
+|$pH
+|$0H
+T$@H9
+AWAVAUATSH
+[A\A]A^A_]
+AVAUH
+ATUH
+H9D$Pt>L
+[]A\A]A^
+<$L9
+AWAV
+AUATI
+D$@H
+D$WH
+D$ H
+D$(L
+|$(L
+D$ H
+D$(H
+D$ H
+|$(L
+D$ H
+D$(H
+D$(H
+D$ H
+|$ H
+T$ H
+D$ H
+D$(H
+|$(L
+D$ H
+D$(H
+D$(L
+t$ H
+t$(L
+|$@H
+D$ H
+|$@H
+\$@H
+D$XH
+D$HH
+\$PH
+D$ H
+|$ H
+D$(H
+D$ H
+H;|$Xt
+D$HH
+H;|$Ht
+|$@H
+|$pH
+\$ H
+T$(H
+|$@H
+D$(H
+[]A\A]A^A_
+T$`H
+D$0H
+D$0>
+D$ H
+D$(H
+D$(H
+D$ H
+D$@H
+D$(H
+D$ H
+D$ H
+D$(H
+D$ H
+D$(H
+D$(H
+D$ H
+D$ H
+D$(H
+|$pH
+D$(H
+D$ H
+D$(H
+D$ H
+ATUI
+$w8H
+[]A\
+ATUA
+\$`L
+|$`H
+[]A\
+\$`H
+|$@H
+D$0H
+L$@H
+t$ I
+|$ H
+D$0H9
+|$@H
+D$PH9
+|$`H
+|$`H
+|$ H
+T$0H
+|$@H
+T$PH9
+|$`H
+AWAV
+AUAT
+|$0H
+|$pH
+\$pH
+T$xH
+t$pH
+|$pH9
+T$8H
+|$0E1
+-Ip&
+|$pL9
+|$PH
+D$`H9
+|$PH
+|$pL
+|$pH
+H;<$t
+t$pH
+t$PH
+|$0H
+D$@H9
+[]A\A]A^A_
+|$pH
+|$PH
+D$`H9
+|$0H
+D$@H9
+|$pH
+.t(H
+.t(H
+ATUI
+$w8H
+[]A\
+dH34%(
+AVAUH
+ATUI
+<$H9
+[]A\A]A^
+<$L9
+D$H1
+|$ H
+D$0H
+T$ H
+|$ H
+D$0H9
+L$HdH3
+|$ H
+T$0H
+.t0H
+.t0H
+H9D$
+AWAVH
+AUATUSH
+$H9T$
+[]A\A]A^A_
+;H9|$
+AWAVH
+AUATUSH
+$H9T$
+[]A\A]A^A_
+;H9|$
+D$X1
+|$XdH3<%(
+D$X1
+|$XdH3<%(
+D$H1
+L$HdH3
+dH34%(
+[]A\
+dH34%(
+[]A\
+ATUSH
+[]A\A]
+AVAUAT
+I;D$
+I;D$
+[]A\A]A^A_
+"u[L
+H9D$
+$wGB
+H;|$
+AVAUAT
+I+D$
+	uzL
+I+D$
+[]A\A]A^A_
+I+D$
+$H9D$
+$wEB
+I+D$
+<$H;|$
+AVAUAT
+$t]I
+[]A\A]A^A_
+<$H;<$H
+AUATI
+D$X1
+T$XdH3
+h[]A\A]
+AWAV
+AUATL
+[]A\A]A^A_
+AWAVA
+AUATI
+D$H1
+|$0f
+T$(H
+t$ L
+|$ L9
+L$HdH3
+X[]A\A]A^A_
+<$H;|$
+|$ H
+T$0H
+AVAUATI
+|$H1
+|$ H
+D$0E1
+T$(H
+M;t$
+T$(H
+T$(H
+|$ E1
+T$(H
+M;t$
+,0f.
+D$ H;D$
+t$(M
+T$0I9
+D$ A
+|$(B
+M;t$
+|$ H
+D$0H9
+|$HdH3<%(
+X[]A\A]A^A_
+T$(H
+|$ A
+l$(F
+D$ L
+H;D$
+T$0I9
+D$ D
+l$(L
+M9t$
+T$(H
+t$ H
+|$ A
+|$ A
+T$(H
+M;t$
+T$(H
+|$ A
+T$(H
+M;t$
+|$ H
+T$0H
+8H9|$
+AUATI
+D$(1
+L$(dH3
+8[]A\A]
+D$PH
+D$@H
+D$`H
+|$ H
+D$0H
+H+L$(H9
+|$ H
+T$@H
+t$ H
+|$ H
+D$0H9
+|$@H
+D$PH9
+|$ H
+D$0H9
+|$@H
+T$PH9
+|$ H
+T$0H
+AVAUATUI
+|$PL
+l$PL
+t$XH
+|$PH
+T$pH9
+t$xH
+D$ H
+D$ H9
+[]A\A]A^
+T$@H
+L$0H
+t$xH
+T$0H
+t$0L
+|$0H
+D$@H9
+D$PL
+|$0H
+T$@H
+<$H9
+|$XH
+T$ H
+AVAUATUI
+|$PL
+l$PL
+t$XH
+|$PH
+T$pH9
+t$xH
+D$ H
+D$ H9
+dH34%(
+[]A\A]A^
+T$@H
+t$xH
+|$0H
+T$0H
+t$0L
+|$0H
+D$@H9
+D$PL
+|$0H
+T$@H
+<$H9
+|$XH
+T$ H
+AWAVA
+AUATUSH
+D$81
+t&f.
+\$8dH3
+H[]A\A]A^A_
+D$ H
+D$ H9
+D$ H9
+T$ H
+D$ H
+L$@H
+|$ H
+\$ H
+T$(H
+t$ H
+|$ H9
+[]A\
+|$ H
+T$0H
+ATUI
+|$ H
+D$0H
+D$PH
+|$@H
+D$PH9
+D$pH
+|$`H
+D$pH9
+|$ H
+D$0H9
+[]A\
+t$ I
+|$ H
+T$0H9
+,$I9
+|$`H
+T$pH
+|$@H
+T$PH
+dH34%(
+D$(1
+L$(dH3
+AWAVAUATI
+|$0dH
+D$@H
+D$(H
+D$(H
+|$pH
+|$pL
+t$pH
+|$pL9
+D$(H
+|$pL9
+D$(H
+D$(H
+t$0H
+T$8H
+T$0H
+|$0H
+D$@H9
+[]A\A]A^A_
+|$PH
+D$`H9
+|$0H
+D$@H9
+ATUI
+D$(1
+L$(dH3
+0[]A\
+D$HI
+\$(H
+<$[]A\
+[]A\
+AWAVAUATUSH
+L9t$
+tkH;l$
+ H9l$
+L9$$t"
+ L9$$u
+([]A\A]A^A_
+H;,$t
+ H9,$u
+AWAVAUATUSH
+L;t$
+tkH;l$
+ H9l$
+L9$$t"
+ L9$$u
+([]A\A]A^A_
+H9,$t
+ H9,$u
+AVAU
+t$(I
+D$ H
+D$HH
+D$8L
+D$0I
+L$@A\A]A^
+AWAVI
+AUATUSH
+FHH+F(H
+v0H+s8H
+s H+s
+D$(H
+|$ H
+tWI9
+8[]A\A]A^A_
+l$(H9
+ H9l$
+D$ H
+D$ H
+AWAVAUATI
+[]A\A]A^A_
+s(L)
+ATUI
+$w8H
+[]A\
+AWAVI
+AUATE1
+d$0A
+|$ L
+t$ L
+dH3<%(
+[]A\A]A^A_
+t$ L
+|$ H
+|$ H
+AVAUI
+ATUM
+D$81
+D$ H
+D$ H9
+D$ H
+D$ H9
+D$ H
+D$ H9
+D$ H
+D$ H9
+D$ H
+D$ H9
+D$8dH3
+@[]A\A]A^
+D$ H9
+D$ H9
+T$ H
+D$ H9
+D$ H9
+AWAVI
+AUATI
+[]A\A]A^A_
+ATUI
+D$h1
+|$ H
+t$ @
+t$@H
+|$@H
+D$PH9
+L$hdH3
+p[]A\
+|$@H
+T$PH
+ATUI
+D$h1
+|$ H
+t$ I
+t$@H
+|$@H
+D$PH9
+L$hdH3
+p[]A\
+|$@H
+T$PH
+H97t	
+D$81
+\$8dH3
+AWAV
+AUAT
+D$pH
+|$`H
+|$ H
+D$`H
+D$@H
+D$@H
+|$`H
+D$pH9
+l$HH
+\$@I
+|$ I
+l$ H
+\$(H9
+|$@L
+l$HH
+\$@H
+l$@H
+l$(H
+\$ H9
+l$ H
+[]A\A]A^A_
+t$ H
+D$(H
+\$ H
+H;<$
+H;|$
+t$ H
+H;|$
+|$`H
+D$pH9
+AWAVI
+AUAT
+D$0H
+D$f1
+D$ H
+t$(H
+L$(E
+D$b 
+D$0H
+[]A\A]A^A_
+D$:f=
+D$:f=
+l$ H
+T$<L
+|$pH
+T$pH
+L$(E
+t$ H
+D$@H
+D$@H
+t$hH
+H;|$@t
+l$dH
+t$(H
+D$b 
+|$HH
+D$ H
+D$<	
+D$:f=
+D$:f=
+D$0L
+l$gH
+l$fH
+d$dH
+D$ H
+|$HH
+|$HH
+D$0H
+D$ H
+D$ H
+AWAVAUATI
+C`PH
+CXPH
+CPPH
+CHPH
+C@PH
+CpPH
+C8PH
+C0PH
+C(PH
+C PH
+[A\A]A^A_]
+AWAVI
+AUAT
+[]A\A]A^A_
+D$XH
+D$XH
+D$XH
+D$XH
+H;|$
+D$XH
+D$XH
+D$XH
+D$XH
+D$XH
+D$XH
+D$ L9
+D$XH
+D$ H
+|$ L
+D$ H
+D$pD
+D$(I
+D$XH
+H;|$
+D$pH
+L$hH
+T$hH
+t$`H
+t$PL
+T$hH
+t$`H
+t$0L
+T$hH
+t$`H
+t$@L
+D$ H
+D$pL
+D$(I
+D$ H
+|$0H
+|$@H
+|$(H
+D$ H
+|$(H
+|$PH
+T$ H
+ATUSH
+C0H9
+[]A\
+AWAVAUATI
+D$X1
+|$0I
+D$ I
+D$(H
+D$@H
+t$0H
+D$ H
+D$(H
+|$0H
+D$@H9
+D$XdH3
+h[]A\A]A^A_
+,$L9
+C0H9
+|$0H
+T$@H9
+C0H9
+C0H9
+tNL9<$L
+C0H9
+~ H9
+ATUI
+$w8H
+[]A\
+AVAUH
+ATUSH
+l$@E1
+|$ I
+|$ I
+|$ I
+|$ I
+|$ I
+[]A\A]A^
+|$ I
+D$ H
+|$ I
+|$ I
+|$ I
+|$ I
+|$ I
+|$ I
+|$ I
+|$ I
+|$ I
+|$ I
+|$ I
+|$ I
+|$ I
+|$ I
+|$ I
+|$ I
+|$ I
+|$ I
+|$ I
+|$ I
+|$ I
+|$ I
+|$ I
+|$ I
+|$ I
+|$ I
+|$ I
+AWAVAUATSH
+[A\A]A^A_]
+ATUH
+|$0dH
+D$X1
+D$@H9
+L$XdH3
+`[]A\
+D$ H
+D$ H
+D$@H
+t$0H
+D$@iconH
+|$0H
+D$@H9
+D$ H9
+|$0H
+D$@H9
+D$@H
+DVD-RAM A
+L$@A
+T$0H
+burnH
+D$ dvd-H
+D$ H9
+|$0H
+D$@H9
+D$@H
+DVD-RAM A
+t$0H
+L$@H
+writfD
+|$0H
+D$@H9
+D$@read
+D$ statH
+D$ H
+T$0H
+D$ H9
+|$0H
+D$@H9
+D$@H
+DVD play
+L$@f
+t$ H
+T$0H
+backH
+D$ H
+D$ H9
+|$0H
+D$@H9
+D$@H
+DVD readH
+t$0H
+D$0f
+|$0H
+D$@H9
+D$@H
+CD-RW buH
+T$0H
+L$@H
+D$ cd-rH
+rninH
+D$ H
+D$ H9
+|$0H
+D$@H9
+D$@H
+|$01
+CD-R/CD-H
+D$0H
+t$0H
+T$@H
+RW writeH
+T$0H
+|$0H
+D$@H9
+D$@H
+DVD-R buH
+T$0H
+L$@H
+D$ dvd-H
+rninH
+D$ H
+D$ H9
+|$0H
+D$@H9
+D$@H
+DVD writ
+t$0H
+L$@H
+D$0f
+|$0H
+D$@H9
+D$@H
+CD-R burH
+T$0H
+L$@H
+ningH
+D$ H
+D$ cd-rH
+D$ H9
+|$0H
+D$@H9
+CD-R wriH
+t$0H
+L$@H
+D$0f
+|$0H
+D$@H9
+D$@H
+|$01
+Audio CDH
+D$0H
+T$@H
+ playbacH
+T$0H
+D$ H
+D$ audiH
+D$ H9
+|$0H
+D$@H9
+T$0H
+D$ statH
+D$0H
+D$@busyH
+D$ H9
+|$0H
+D$@H9
+D$ statH
+T$0H
+D$@openH
+D$0H
+D$ H
+D$@nodiA
+T$0H
+D$0f
+D$ statH
+|$0H
+D$@H9
+|$0H
+D$@H9
+D$ H9
+D$ H9
+ATUI
+$w8H
+[]A\
+AWAVAUATUSH
+D$81
+T$ H
+t$ H
+L$8dH3
+H[]A\A]A^A_
+AWAVA
+AUATUSH
+t$pH
+[]A\A]A^A_
+t$ H
+t$0H
+t$@H
+t$PH
+t$`H
+|$PH
+|$`H
+|$0H
+|$@H
+|$ H
+|$pH
+AWAV
+AUATUSH
+[]A\A]A^A_
+D$$PH
+D$(PAU1
+L$0L
+t$0H
+|$ 1
+t$ L
+t$@H
+t$PH
+t$`H
+t$pL
+|$pI
+|$0H
+|$PH
+|$pH
+|$`H
+|$@H
+ATUI
+$w8H
+[]A\
+D$pH
+D$ 1
+D$dH
+D$	 
+D$( N
+|$@D
+D$CH
+D$(1
+L$(dH3
+AWAVA
+ATUS
+D$PH
+D$0H
+T$@H
+t$ H
+T$hH
+t$`H
+|$`H
+D$pH9
+|$ H
+D$0H9
+|$@H
+D$PH9
+[]A\A]A^A_
+|$ H
+T$0H9
+|$@H
+T$PH9
+|$`H
+T$pH
+D$(1
+L$(dH3
+AVAUHc
+ATUL
+|$ H
+t$ H
+|$ H
+D$0H9
+|$@Hc
+T$@H
+T$hH
+t$`H
+|$`H
+D$pH9
+|$@H
+D$PH9
+[]A\A]A^
+|$@H
+T$PH9
+|$ H
+T$0H
+|$`H
+T$pH
+AWAV
+AUATH
+H;|$
+H;|$ t
+T$<1
+|$</u
+t$@H
+[]A\A]A^A_
+t$(H
+|$@H
+t$@H
+SHH;
+t$PH
+t$pH
+t$`H
+|$@1
+L$8H
+t$@H
+|$PH
+|$pH
+|$`H
+AWAVI
+AUAT
+D$ H
+D$(H
+D$HH
+H;|$(t
+H;|$
+D$HJ
+D$PH
+D$PH
+t$X1
+H9D$Xt
+H;|$
+t$0H
+t$@L
+|$@I
+l$hH
+\$`H9
+l$`H
+[]A\A]A^A_
+l$hH
+\$`E1
+D$HJ
+L;|$ 
+t$`H
+l$hH
+\$`H
+l$hH
+d$hH
+l$`I9
+d$`M
+|$@H
+|$0H
+AWAV
+AUATUSH
+L$@1
+T$,1
+T$01
+t$,H
+D$HH
+|$(L
+t$ H
+H;|$
+H;|$
+H9\$@
+[]A\A]A^A_
+r(M9
+~ H9<$H
+AUATH
+|$PH
+D$x1
+D$`H9
+L$xdH3
+[]A\A]
+|$PH
+D$`H9
+HcT$
+D$`H
+sectorsiH
+t$PH
+D$Pf
+|$PH
+D$`H9
+d$ E
+d$ H
+D$`H
+|$P1
+T$ H
+logicalsH
+D$PH
+t$PH
+T$`H
+ectorsizH
+D$ H
+T$PH
+|$PH
+D$`H9
+D$@H
+t$0L
+D$@discH
+D$`H
+t$PL
+D$`iconH
+|$PH
+D$`H9
+|$0H
+D$@H9
+HcD$
+|$0H
+T$@H9
+|$PH
+D$`H9
+|$PH
+D$`H9
+.t*H
+ATUI
+$w8H
+[]A\
+AVAUATU
+[]A\A]A^
+D$PH
+D$0H
+|$ H
+D$ H
+H9D$(
+T$@H
+t$ H
+t$`H
+|$`H
+D$pH9
+|$ H
+D$0H9
+|$@H
+D$PH9
+|$ H
+T$0H9
+|$@H
+T$PH9
+|$ H
+D$0H9
+|$`H
+T$pH
+AWAV
+AUAT
+|$p1
+D$0H
+T$PH
+T$@H
+|$@L
+alula
+T$@H
+|$`L9
+|$@H
+D$PH9
+H9\$
+[]A\A]A^A_
+|$@H
+D$PH9
+l$0L
+|$ M
+|$ I
+|$ H
+|$@H
+D$PH9
+|$`H
+D$pH9
+l$0L
+ATUI
+$w8H
+[]A\
+AWAVAUATI
+D$@H
+|$0M
+D$0H
+|$0H
+D$@H9
+_wtH
+[]A\A]A^A_
+D$p1
+l$`L
+t$pH
+|$pL9
+|$PL9
+l$PH
+|$PH9C
+t$PH
+I;|$
+T$pH
+|$PH
+T$`H9
+|$pH
+|$0H
+T$@H
+AWAVAUATUSH
+|$ H
+H;|$
+H;|$
+|$@L
+|$@1
+T$PH
+t$@H
+t$`H
+t$@H
+|$@L
+t$@H
+t$@H
+|$@H
+t$@H
+T$pH
+|$@H
+[]A\A]A^A_
+|$@H
+t$@H
+t$@H
+t$@H
+|$ H
+t$@H
+t$@H
+d$(H
+t$@H
+|$ H
+t$@H
+t$@H
+l$/H
+t$@H
+|$ H
+|$`H
+AUATI
+[]A\A]
+AWAVAUATSH
+dH34%(
+[A\A]A^A_]
+directcoA
+visufD
+accelera
+modeH
+xresH
+yresH
+dept
+frequencH
+pseudocoA
+visuf
+truecolo
+visuf
+monof
+visuf
+monoH
+visufD
+static_pH
+seudocolH
+visufD
+ATUI
+$w8H
+[]A\
+D$H1
+|$ H
+|$ H
+D$0H9
+D$HdH3
+|$ H
+T$0H
+D$H1
+|$ H
+|$ H=
+L$HdH3
+D$H1
+|$ H
+D$0H9
+L$HdH3
+|$ H
+T$0H
+D$H1
+D$HdH3
+|$ H
+|$ H
+D$0H9
+AWAVAUATI
+[]A\A]A^A_
+r(L9
+x2E1
+AWAVH
+AUATI
+D$`H
+D$Pt
+|$PL
+t$PH
+|$xL
+l$pA
+\$(I9
+t$ L
+|$PH
+D$`H9
+D$ M
+|$8A
+t$0H
+k(I9
+](I9
+|$0H
+D$@H9
+D$ H9
+[]A\A]A^A_
+D$`K
+|$pL
+D$PH
+t$PH
+D$pH
+T$XH
+T$pL
+|$pH
+|$PH
+D$`H9
+D$pt
+|$pL
+|$pH
+|$pH
+|$PH
+D$`H9
+|$0H
+D$@H9
+D$ H9
+|$pH
+|$pH
+|$PH
+D$`H9
+AWAV
+AUATI
+|$@H
+D$PH
+L$pA
+D$`H
+t$`H
+|$`H;<$t
+|$@H
+D$PH9
+[]A\A]A^A_
+t$ H
+H;|$
+t$(H
+T$ H
+t$(H
+|$ H
+l$(H
+\$ H9
+l$ H
+d$(H
+l$ I9
+d$ M
+|$@H
+D$PH9
+|$`H
+D$pH9
+D$81
+L$8dH3
+T$ H=H
+AVAUH
+ATUH
+D$PH
+D$@t
+|$@H
+Tacocat
+t$@H
+|$ H
+d$(A
+t$ H
+k(I9
+](I9
+|$ H
+D$0H9
+|$`H
+D$pH9
+|$@H
+D$PH9
+[]A\A]A^
+|$ H
+D$0H9
+|$`H
+D$pH9
+|$@H
+D$PH9
+AWAVH
+AUATH
+k M9
+[]A\A]A^A_
+L9l$
+[]A\A]A^A_
+AWAVAUATL
+[]A\A]A^A_
+[]A\A]A^A_
+tAATI
+[]A\
+AWAVH
+AUATUSH
+s I9
+l$(H
+|$ L
+[]A\A]A^A_
+AWAVAUATUSH
+trI9
+@0H9
+[]A\A]A^A_
+ATUI
+$w8H
+[]A\
+AWAVA
+AUATA
+D$h1
+L$hdH3
+x[]A\A]A^A_
+D$@t
+|$@H
+|$ I
+|$@H
+D$@t
+|$ I
+|$@H
+D$@t
+|$@H
+D$@t
+D$@t
+D$@t
+|$@H
+D$@t
+D$@t
+|$@H
+D$@t
+|$ L
+D$@t
+|$@H
+D$@t
+|$@H
+D$@t
+|$ L
+D$@t
+D$@t
+|$@H
+D$@t
+|$ L
+D$@t
+|$ L
+|$ I
+|$@H
+D$@t
+D$@t
+|$@H
+D$@t
+|$ L
+|$ I
+|$@H
+|$ I
+|$@H
+D$@t
+|$ L
+D$@t
+|$ L
+D$@t
+|$ L
+D$@t
+|$ L
+D$@t
+|$@H
+D$@t
+|$ L
+D$@t
+D$@t
+D$@t
+|$ I
+|$@H
+|$ I
+|$ I
+AVAUATSI
+[A\A]A^]
+AVAUATUI
+[]A\A]A^
+B fA9
+AVAUATUI
+[]A\A]A^
+B A9
+AWAVAUATSH
+fD;` v
+fE;e 
+;B v
+A;E 
+t-f.
+uWE1
+[A\A]A^A_]
+A[A\H
+fD;x v
+f;B 
+AWAV
+fD;x v
+fA;F 
+D;x v
+D;z 
+D;x v
+D;x 
+tAATI
+[]A\
+tAATI
+[]A\
+K fD9
+ATUSH
+fD;f sEH
+fD;` H
+[]A\A]
+fD;` H
+[]A\A]
+f9C r,L
+[]A\A]
+[]A\A]
+[]A\A]
+K D9
+ATUSH
+"D;f H
+D;` H
+[]A\A]
+D;` H
+[]A\A]
+9C r.L
+[]A\A]
+[]A\A]
+[]A\A]
+ATUI
+$w8H
+[]A\
+ATUI
+[]A\
+AUATI
+[]A\A]
+CPH9
+C0H9
+ATUI
+[]A\
+ATUI
+[]A\
+ATUI
+D$0H
+T$ H
+t$@H
+|$`L
+t$`H
+H9D$
+|$`H
+D$pH9
+|$@H
+D$PH9
+|$ H
+D$0H9
+[]A\
+|$`H
+T$pH9
+|$@H
+T$PH9
+|$ H
+T$0H9
+AWAVAUATUSH
+l$@H
+t$`H
+|$`I
+|$@H
+[]A\A]A^A_
+D$0H
+D$ H
+l$@H
+t$`H
+|$`I
+|$@H
+|$ H
+D$0H9
+|$`I
+|$@H
+|$`I
+|$@H
+|$ H
+T$0H9
+AWAVI
+AUATUSH
+|$ dH
+D$0H
+D$PH
+A Santa lives evil at NASA
+|$@H
+D$@H
+H9D$H
+t$@L
+|$@H
+D$PH9
+|$ H
+D$0H9
+[]A\A]A^A_
+|$`H
+D$pH9
+D$pH
+D$`H
+|$`L
+|$`H
+D$pH9
+|$`L
+t$`H
+t$ H
+T$(H
+|$ H
+T$0H9
+|$`H
+T$pH
+|$@H
+T$PH
+|$@H
+D$PH9
+|$`H
+D$pH9
+|$ H
+|$ H
+D$0H9
+|$@H
+T$@H
+|$`H
+t$`H
+|$`H
+D$pH9
+|$@H
+D$PH9
+t$ H
+|$ H
+T$0H9
+|$`H
+T$pH
+|$@H
+T$PH9
+AWAVAUATI
+D$PH
+D$@H
+t$pL
+H;,$
+|$`L
+t$`H
+H+D$hH
+t$`H
+|$@H
+|$`L9
+|$@L
+l$ H
+D$ t
+|$@H
+D$PH9
+|$ H
+[]A\A]A^A_
+|$`H
+T$pH9
+|$@H
+T$PH9
+|$`H
+D$pH9
+|$ H
+ATUI
+D$0H
+T$ H
+t$@H
+|$`L
+t$`H
+|$`H
+D$pH9
+|$@H
+D$PH9
+|$ H
+D$0H9
+[]A\
+|$`H
+T$pH9
+|$@H
+T$PH9
+|$ H
+T$0H9
+AWAVAUATI
+D$@H
+T$0H
+t$PH
+|$pH
+t$pH
+D$ H
+H+D$
+|$pH
+|$PH
+D$`H9
+|$0H
+D$@H9
+|$PH
+t$PH
+|$PH
+D$`H9
+D$ H9
+[]A\A]A^A_
+t$pH
+H;|$
+|$pL9
+|$PH
+D$`H9
+D$ H9
+|$pH
+|$0H
+T$@H9
+D$ H9
+|$pH
+|$PH
+D$`H9
+ATUH
+H+D$
+C!H9
+[]A\
+/var/tmpH
+|$`H
+D$pXXX
+D$`H
+/sys-XXXH
+D$h1
+D$0L
+|$ I
+t$ H
+|$ H
+D$0H9
+D$PH
+|$@H
+D$@H
+H+D$HH
+	vRH
+D$PH9
+|$@H
+D$PH9
+|$@H
+T$PH9
+|$ H
+T$0H9
+D$(1
+L$(dH3
+ATUI
+$w8H
+[]A\
+AWAVH
+AUATI
+|$0dH
+D$x1
+t$0H
+t$PL
+|$PH
+D$`H9
+|$0H
+D$@H9
+|$PL
+D$`H9
+L$xdH3
+[]A\A]A^A_
+l$`L
+d$@L
+|$PI
+d$0H
+|$0L
+t$PH
+|$0A
+|$PH9
+Borrow or rob
+l$PH
+|$PL
+t$PL
+|$PH9
+|$PH
+T$`H
+|$0H
+T$@H
+T$ H9
+|$PH
+D$`H9
+|$PH
+D$`H9
+|$0H
+D$@H9
+AVAUH
+ATUI
+[]A\A]A^
+|$@H
+|$`H
+T$hH
+t$`H
+|$`L9
+4$H)
+\$ H
+|$@H
+D$PH9
+|$ H
+t$@H
+\$ H
+T$HH
+\$ H
+|$ H
+|$@H
+T$PH9
+|$`H
+T$pH
+AWAVI
+AUAT
+|$pH
+t$p1
+t$p1
+t$p1
+|$pH
+t$pH
+D$ H
+t$0H
+D$`H
+|$PH
+D$PH
+H9D$X
+t$PI
+T$xH
+t$pL
+|$PH
+D$`H9
+|$0H
+D$@H9
+D$ H9
+[]A\A]A^A_
+t$p1
+L$pH
+T$pH
+|$pH
+t$p1
+D$pH
+D$pL
+l$xD
+:thH
+D$pH;D$
+|$pA
+D$pH;D$
+D$pL
+|$pA
+t$pI
+|$pH
+|$pH
+|$PH
+T$`H9
+|$0H
+T$@H9
+T$ H9
+|$PH
+D$`H9
+AUATUSH
+|$`H
+t$`L
+d$ I
+T$hH
+|$`H
+D$pH9
+t(f.
+|$@H
+D$PH9
+|$ I
+[]A\A]
+|$`H
+D$pH9
+,$I9
+|$@H
+D$PH9
+|$ I
+ATUI
+$w8H
+[]A\
+AWAVI
+AUAT
+D$ H
+D$(H
+|$0I
+D$(H
+H9\$
+H9\$
+[]A\A]A^A_
+|$0H
+H#D$
+H#D$
+|$0H
+|$0L
+|$0H
+t$0H
+|$0L
+t$0H
+D$ H
+|$0H
+|$0H
+|$0L
+|$01
+D$ H
+|$0L
+t$@H
+t$PH
+t$`H
+t$pH
+|$`H
+|$pH
+|$@H
+|$PH
+|$pH
+t$pH
+|$pH
+|$pH
+|$pH
+|$pH
+t$pH
+|$pH
+|$pH
+t$pH
+|$pH
+|$pH
+|$PH
+|$0H
+D$ H
+L$pL
+D$PH
+L$0H
+D$ H9
+|$0H
+D$@H9
+|$PH
+D$`H9
+|$pH
+T$ H9
+|$0H
+T$@H9
+|$PH
+T$`H9
+|$pH
+|$pH
+AWAVI
+AUATUS1
+d$`H
+l$pL
+D$PH
+D$@A
+D$@H
+t$@L
+l$HL
+|$@I
+D$PH9
+D$PH
+D$@H
+|$@H
+|$@H
+T$PH9
+D$PH
+D$@H
+|$@H
+|$@H
+D$PH9
+D$PH
+|$@1
+cpuinfo_H
+D$@H
+|$@H
+T$PH
+min_freqH
+T$@H
+|$@H
+D$PH9
+D$PH
+|$@1
+cpuinfo_H
+max_freqH
+D$@H
+|$@H
+T$PH
+T$@H
+|$@H
+D$PH9
+D$PH
+|$@H
+scaling_H
+D$@H
+|$@H
+T$PH
+cur_freqH
+T$@H
+|$@H
+D$PH9
+D$PH
+|$@1
+uency scH
+CPU FreqH
+D$@L
+T$PH
+alinH
+T$@H
+t$ A
+cpufH
+|$ L9
+|$@H
+D$PH9
+|$@H
+D$PH9
+|$@H
+D$@H
+D$PL
+|$@H
+D$@H
+D$PH
+D$PH
+D$PH
+|$@H
+D$@H
+D$PH
+D$PH
+[]A\A]A^A_
+|$@H
+D$PH9
+|$ H
+D$0H9
+D$81
+L$8dH3
+D$ H
+T$(u
+ATUI
+$w8H
+[]A\
+ATU1
+D$PH
+D$@t)H
+[]A\
+D$`H
+D$pH
+|$@H
+D$PH9
+|$@1
+T$ H
+|$ H
+D$0H9
+|$ H
+D$0H9
+|$@H
+T$PH9
+|$pH
+|$PH
+|$0H
+D$ H
+L$pL
+D$PH
+L$0H
+D$ H9
+|$0H
+D$@H9
+|$PH
+D$`H9
+|$pH
+|$PH
+D$`H9
+|$pH
+D$ H9
+|$0H
+D$@H9
+D$(1
+L$(dH3
+AVAUH
+ATUSH
+D$ H9
+D$@H
+t$0H
+D$@H9
+[]A\A]A^
+|$pH
+D$`H
+L$pH
+|$PH
+D$`H9
+|$pH
+|$pH
+|$PH
+T$`H9
+T$ H
+|$0H
+T$@H
+AWAVI
+AUATA
+d$PL
+|$PI
+|$pH
+[]A\A]A^A_
+D$pL
+|$pH
+D$pH
+|$pH
+D$@H
+d$PH
+T$0H
+|$PI
+D$ H9
+|$0H
+D$@H9
+|$PI
+|$pH
+|$PI
+T$ H9
+|$0H
+T$@H9
+|$pH
+|$pH
+AWAVAUATI
+t$8H
+[]A\A]A^A_
+D$ H
+D$(H
+D$0H
+D$8H
+D$PH
+|$@H
+D$PH9
+D$pH
+T$`H
+|$`H
+D$pH9
+L$(H
+T$ 1
+L$(H
+T$ A
+|$ H
+l$ L
+l$ L
+H;|$
+H;|$
+D$0H
+d$(H
+l$ I9
+|$ H
+|$@H
+D$PH9
+|$`H
+T$pH9
+AWAVAUATUSH
+[]A\A]A^A_
+D$`H
+|$pH
+|$PH
+D$@H
+D$pH
+L$PH
+t$0H
+|$0H
+D$@H9
+|$PH;|$
+|$pH;|$
+|$ L
+|$ L
+L$ L
+L$ D
+|$ L
+t$ H
+|$0H
+T$@H
+|$PH
+T$`H9
+|$pH
+AWAV
+AUATUSH
+|$PH
+D$`H
+|$PH
+T$`H9
+[]A\A]A^A_
+f=MPu
+L9d$
+t$pH
+|$pH
+f=MP
+|$ L
+|$ H
+t$PH
+t$PH
+T$0H
+H;D$XH
+t$PH
+L$ H
+|$ L
+t$ H
+T$@H
+|$ L
+|$PH
+D$`H9
+|$pH
+AWAVAUATUSH
+[]A\A]A^A_
+EFI PARTH9
+T$@H
+T$@H
+D$`H
+|$PH
+t$PH
+t$pH
+|$pH
+|$ H
+T$0H
+T$@H
+|$ H
+L$ H
+t$ L
+|$PH
+D$`H9
+|$pH
+AUATI
+[]A\A]
+S(H9
+[]A\A]
+ATUI
+$w8H
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+D$ H
+D$(H
+D$0H
+uZH9
+D$pH
+|$`H
+D$`H
+t$`H
+|$`H
+D$pH9
+|$@H
+D$PH9
+|$@H
+T$PH
+|$`H
+D$pH9
+ATUI
+$w8H
+[]A\
+AWAVA
+AUATA
+|$`L
+D$PH
+T$`H
+t$@H
+|$@H
+D$PH9
+|$`H
+D$pH9
+t$^f
+D$.I
+|$ H
+D$0H9
+[]A\A]A^A_
+T$^I
+t$6H
+T$6I
+t$.H
+T$(I
+|$ H
+D$0H9
+|$@H
+D$PH9
+|$`H
+D$pH9
+ATUI
+D$(1
+coreH
+L$(dH3
+ATUI
+$w8H
+[]A\
+T$PH
+t$PH
+dH3<%(
+AVAU
+ATUH
+[]A\A]A^
+D$0H
+t$ H
+|$ H
+D$0H9
+t$@H
+|$@H
+D$PH9
+D$pH
+t$`H
+|$`H
+D$pH9
+|$`H
+D$pH9
+|$@H
+D$PH9
+|$ H
+T$0H
+AUATUSH
+[]A\A]
+D$0H
+t$ H
+t$@H
+|$@H
+D$PH9
+|$ H
+D$0H9
+D$pH
+t$`H
+|$`H
+D$pH9
+|$`H
+T$pH9
+|$@H
+T$PH
+|$ H
+T$0H9
+D$0H
+t$ H
+t$@H
+|$@H
+D$PH9
+|$ H
+D$0H9
+D$pH
+t$`H
+|$`H
+D$pH9
+|$`H
+D$pH9
+|$ H
+T$0H9
+|$@H
+T$PH
+ATUH
+[]A\
+D$0H
+D$ t
+|$ L
+T$ H
+|$ H
+D$0H9
+D$PH
+t$@H
+|$@H
+D$PH9
+D$pH
+t$`H
+|$`H
+D$pH9
+|$ H
+D$0H9
+|$`H
+D$pH9
+|$@H
+D$PH9
+AVAUATSI
+[A\A]A^]
+AUATUSH
+[]A\A]
+D$0H
+t$ H
+t$@H
+|$@H
+D$PH9
+|$ H
+D$0H9
+D$pH
+t$`H
+|$`H
+D$pH9
+|$`H
+D$pH9
+|$@H
+T$PH
+|$ H
+T$0H9
+AWAVI
+AUATI
+D$pH
+D$`H
+|$`H
+D$PL
+|$@I
+T$`H
+t$@L
+|$@H
+D$PH9
+|$`H
+D$pH9
+D$PH
+T$@H
+|$`L
+D$pH9
+|$@H
+D$PH9
+D$pH
+D$`t
+|$`H
+D$PH
+T$`H
+t$@L
+|$@H
+D$PH9
+|$`H
+D$pH9
+|$`L
+D$pH9
+D$PH
+D$@t
+|$@H
+D$0H
+|$ H
+D$ H
+H9D$(
+T$@H
+t$ H
+t$`L
+|$`H
+D$pH9
+|$ H
+D$0H9
+|$@H
+D$PH9
+[]A\A]A^A_
+D$pL
+|$`I
+D$PH
+T$`H
+t$@L
+|$@H
+D$PH9
+|$`H
+D$pH9
+|$@H
+D$PH9
+|$`H
+D$pH9
+|$@H
+D$PH9
+|$`H
+D$pH9
+|$`H
+D$pH9
+|$ H
+T$0H9
+|$ H
+D$0H9
+ATUH
+[]A\
+D$pH
+t$`H
+|$`H
+D$pH9
+D$PH
+t$@H
+|$@H
+D$PH9
+D$0H
+t$ H
+|$ H
+D$0H9
+|$ H
+D$0H9
+|$`H
+D$pH9
+|$@H
+D$PH9
+AWAVAUATI
+D$ H
+D$0H
+D$8H
+[A\A]A^A_]
+D$ I
+T$8H
+D$0M
+*!Nb
+ATUI
+$w8H
+[]A\
+AWAVAUATUSH
+D$X1
+l$ H
+D$0L
+t$0H
+|$0A
+\$XdH3
+h[]A\A]A^A_
+H9|$
+T$ H9
+|$0H
+T$@H
+AWAVAUATI
+|$`H
+\$ dH
+|$(H
+|$ M
+|$`H
+D$pH9
+[]A\A]A^A_
+\$ L
+|$(H
+|$@H
+\$ H
+t$@H
+|$HL
+l$@M9
+|$@M
+|$(H
+D$ L
+H;L$
+|$(H
+D$ I
+H;T$hH
+t$`H
+H;L$
+H;L$
+|$(H
+|$@H
+|$`H
+D$pH9
+|$(H
+\$ D
+AWAV
+AUAT
+|$`H
+D$pH
+t$ H
+|$`H
+D$pH9
+l$(H
+D$ H
+l$@H
+l$HI9
+l$@H
+\$HH9
+\$@H
+l$(H
+D$ I
+l$ H
+[]A\A]A^A_
+D$@L
+|$@H
+H;<$t
+D$@H
+D$@H
+l$@H
+l$(H
+|$`H
+T$pH
+D$ H
+AWAVAUATUSH
+D$x1
+D$`H
+/proc/syH
+|$PH
+L$`H
+D$X	
+|$PH
+D$`H9
+D$`H
+|$PH
+t$(1
+T$(H
+kernel/vH
+D$PH
+|$PH
+T$`H
+syscall6H
+D$(H
+T$PH
+D$`H9
+D$0H
+t$`H
+T$0H
+D$(H
+|$0L9
+|$PL9
+D$ H
+H9\$
+D$ L
+l$0M
+t$(1
+D$0H
+D$(H
+D$@H
+|$ H
+|$PH
+D$`H9
+D$8H
+vsyscall
+D$`H
+L$`H
+D$Pf
+|$PH
+D$`H9
+|$0H
+vsyscallH
+L$@L
+D$0f
+T$PH
+|$0I
+|$PH
+D$`H9
+L$xdH3
+[]A\A]A^A_
+D$`H
+vsyscallH
+T$PH
+D$PH
+D$0H
+D$@H
+D$0f
+|$0H
+|$PH
+D$`H9
+|$PH
+t$(1
+D$PH
+D$(H
+D$`H
+D$(H
+t$(1
+D$0H
+D$(H
+D$@H
+D$(H
+|$PH
+D$`H9
+|$PH
+D$`H9
+|$0I
+|$0H
+ATUI
+$w8H
+[]A\
+AWAVAUATUSH
+D$@H
+t$0H
+D$@H9
+D$`H
+t$PH
+D$`H9
+|$pI
+D$xH
+T$xH
+t$pH
+|$pL9
+D$ H9
+[]A\A]A^A_
+|$pH
+D$ H9
+|$PH
+T$`H
+|$0H
+T$@H
+ATUI
+$w8H
+[]A\
+AWAV1
+AUATI
+t$pdH
+|$~D
+L$}I
+l$0L
+|$PI
+|$0I
+[]A\A]A^A_
+D$p<
+t$(H
+l$0H
+D$pH
+l$0L
+l$0L
+|$PI
+|$0I
+AWAVA
+AUATL
+[]A\A]A^A_
+basic_string::_M_construct null not valid
+usage: %s [-format] [-options ...]
+	-version        print program version (%s)
+	-html           output hardware tree as HTML
+	-xml            output hardware tree as XML
+	-short          output hardware paths
+	-businfo        output bus information
+	-X              use graphical interface
+	-class CLASS    only show a certain class of hardware
+	-C CLASS        same as '-class CLASS'
+	-c CLASS        same as '-class CLASS'
+	-disable TEST   disable a test (like pci, isapnp, cpuid, etc. )
+	-enable TEST    enable a test (like pci, isapnp, cpuid, etc. )
+	-quiet          don't display status
+	-sanitize       sanitize output (remove sensitive information like serial numbers, etc.)
+	-numeric        output numeric IDs (for PCI, USB, etc.)
+ERROR: Sorry, cannot run the X11/GTK interface because %s/lshw-gtk
+ is not available.
+HINT: Install the lshw-gtk package in Debian.
+ERROR: There was an error when trying to execute %s/lshw-gtk: %s
+Will just print the information on screen
+WARNING: you should run this program as super-user.
+WARNING: output may be incomplete or inaccurate, you should run this program as super-user.
+Hardware Lister (lshw) - %s
+       %s -version
+format can be
+DISPLAY
+options can be
+output:quiet
+output:verbose
+/usr/share/locale
+lshw
+UTF-8
+isapnp
+output:json
+output:db
+output:xml
+output:html
+output:hwpath
+output:businfo
+output:X
+output:sanitize
+output:numeric
+disc
+network
+display
+multimedia
+sound
+communication
+modem
+the latest version is %s
+--help
+-verbose
+-quiet
+-json
+-xml
+-html
+-short
+-businfo
+-sanitize
+-sanitise
+-numeric
+/usr/bin/lshw-gtk
+/usr/bin
+OUTFILE
+%s: __pos (which is %zu) > this->size() (which is %zu)
+0123456789abcdefghijklmnopqrstuvwxyz_.:-
+00000000-0000-0000-0000-000000000000
+<?xml version="1.0" standalone="yes" ?>
+<!-- WARNING: not running as root -->
+basic_string::erase
+generic
+basic_string::substr
+basic_string::append
+%x.%x.%x
+(none)
+iomemory
+%llx-%llx
+(prefetchable)
+ioport
+%lx(size=%ld)
+(unknown)
+false
+(nil)
+/dev/
+" value="
+"id" : "
+"class" : "
+"disabled" : true
+"claimed" : true
+"handle" : "
+"description" : "
+"product" : "
+"vendor" : "
+"physid" : "
+"businfo" : "
+"logicalname" : 
+"dev" : "
+"version" : "
+"date" : "
+"serial" : "
+[REMOVED]
+"slot" : "
+"units" : "bytes"
+"units" : "Hz"
+"units" : "mWh"
+"units" : "bit/s"
+"size" : 
+"capacity" : 
+"width" : 
+"clock" : 
+"configuration" : {
+"capabilities" : {
+"children" : [
+5.4.0 20160609
+<!-- generated by lshw-
+<!-- GCC 
+<!-- 
+<!-- GNU libc 
+) -->
+output:list
+<list>
+<node id="
+ disabled="true"
+ claimed="true"
+ class="
+ handle="
+<description>
+</description>
+<product>
+</product>
+<vendor>
+</vendor>
+<physid>
+</physid>
+<businfo>
+</businfo>
+<logicalname>
+</logicalname>
+<dev>
+</dev>
+<version>
+</version>
+<date>
+</date>
+<serial>
+</serial>
+<slot>
+</slot>
+<size
+ units="bytes"
+ units="Hz"
+ units="bit/s"
+ units="mWh"
+</size>
+<capacity
+</capacity>
+<width units="bits">
+</width>
+<clock units="Hz">
+</clock>
+<configuration>
+<setting id="
+" />
+</configuration>
+<capabilities>
+<capability id="
+</capability>
+</capabilities>
+<resources>
+<resource type="
+</resources>
+</node>
+</list>
+bridge
+address
+storage
+tape
+input
+PA-RISC
+/proc/cpuinfo
+CPUID
+cpuid
+PCI (sysfs)
+ISA PnP
+pcilegacy
+PCI (legacy)
+pcmcia
+pcmcia-legacy
+kernel device tree (sysfs)
+sysfs
+ideraid
+SCSI
+Network interfaces
+Framebuffer devices
+CPUFreq
+cpufreq
+LINES
+COLUMNS
+</td><td>=</td><td>
+</td><td>:</td><td>
+<head>
+<meta name="generator" 
+ content="lshw-
+<style type="text/css">
+</style>
+<title>
+</title>
+</head>
+<body>
+<div class="indented">
+-unclaimed
+-disabled
+" summary="attributes of 
+ DISABLED
+ UNCLAIMED
+ <tbody>
+description
+<tr><td class="first">
+</td><td class="second">
+product
+physical id
+</div></td></tr>
+bus info
+logical name
+date
+slot
+range
+width
+ bits
+clock
+capabilities
+<dfn title="
+</dfn> 
+configuration:
+configuration of 
+</table></td></tr>
+<tr><td class="sub-first">
+resources:
+resources of 
+ </tbody>
+</table></div>
+</body>
+</html>
+</td></tr></thead>
+Bus info
+Device
+Description
+H/W path
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  .first {font-weight: bold; margin-left: none; padding-right: 1em;vertical-align: top; }
+  .second {padding-left: 1em; width: 100%; vertical-align: center; }
+  .id {font-family: monospace;}
+  .indented {margin-left: 2em; border-left: dotted thin #dde; padding-bottom: 1em; }
+  .node {border: solid thin #ffcc66; padding: 1em; background: #ffffcc; }
+  .node-unclaimed {border: dotted thin #c3c3c3; padding: 1em; background: #fafafa; color: red; }
+  .node-disabled {border: solid thin #f55; padding: 1em; background: #fee; color: gray; }
+<table width="100%" class="node
+ <thead><tr><td class="first">id:</td><td class="second"><div class="id">
+</td><td class="second"><div class="id">
+</td><td class="second"><table summary="
+A/proc/kcore
+System memory
+Enhanced Disk Drive extensions
+Booting from IEEE1394 (Firewire)
+Function-key initiated network service boot
+UEFI specification is supported
+This machine is a virtual machine
+%02X%02X%02X%02X-%02X%02X-%02X%02X-%02X%02X-%02X%02X%02X%02X%02X%02X
+/sys/firmware/dmi/tables/smbios_entry_point
+Standard 
+FPM 
+PARITY 
+ECC 
+SIMM 
+DIMM 
+Burst EDO 
+SDRAM 
+chassis
+_SM_
+_DMI_
+SMBIOS version 
+smbios-
+DMI version 
+dmi-
+Non-burst
+non-burst
+Burst
+Pipeline burst
+pipeline-burst
+Synchronous
+Asynchronous
+asynchronous
+Internal
+internal
+External
+external
+L%d 
+Write-trough
+write-through
+Write-back
+write-back
+Varies With Memory Address
+varies
+Instruction cache
+Data cache
+Unified cache
+DMI:%04X
+firmware
+chip
+MCA bus
+EISA bus
+EISA
+PCI bus
+PCMCIA/PCCard
+Plug-and-Play
+Advanced Power Management
+BIOS EEPROM can be upgraded
+upgrade
+BIOS shadowing
+VESA video extensions
+VESA
+ESCD
+Booting from CD-ROM/DVD
+cdboot
+Selectable boot path
+bootselect
+BIOS ROM is socketed
+socketedrom
+Booting from PCMCIA
+pcmciaboot
+NEC 9800 floppy
+int13floppynec
+Toshiba floppy
+int13floppytoshiba
+5.25" 360KB floppy
+int13floppy360
+5.25" 1.2MB floppy
+int13floppy1200
+3.5" 720KB floppy
+int13floppy720
+3.5" 2.88MB floppy
+int13floppy2880
+Print Screen key
+int5printscreen
+i8042 keyboard controller
+int9keyboard
+INT14 serial line control
+int14serial
+INT17 printer control
+int17printer
+INT10 CGA/Mono video
+int10video
+NEC PC-98
+pc98
+ACPI
+USB legacy emulation
+I2O booting
+I2Oboot
+Booting from LS-120
+LS120boot
+Booting from ATAPI ZIP
+ZIPboot
+IEEE1394boot
+Smart battery
+smartbattery
+BIOS boot specification
+biosbootspecification
+netboot
+uefi
+virtualmachine
+uuid
+family
+Motherboard
+cpu@%d
+[empty]
+enabledcores
+threads
+64bits extensions (x86-64)
+x86-64
+ Memory Controller
+empty memory bank
+level
+System Memory
+Video Memory
+Flash Memory
+NVRAM
+Cache Memory
+Generic Memory
+%d/%d
+Fast-paged
+Static column
+Pseudo-static
+RAMBUS
+CMOS
+Window DRAM
+Cache DRAM
+Non-volatile
+%u MHz (%.1f ns)
+voltage
+%.1fV
+ Battery
+power-on_password
+keyboard_password
+administrator_password
+frontpanel_password
+remoteaccess
+make outbound connections
+outbound
+receive inbound connections
+inbound
+oem-specific
+/sys/firmware/dmi/tables/DMI
+/sys/firmware/efi/systab
+/proc/efi/systab
+SMBIOS
+/dev/mem
+normal
+no-bootable-media
+os-error
+hardware-failure-fw
+hardware-failure-os
+user-requested
+security-violation
+image
+watchdog
+enabled
+unknown
+Other
+Unknown
+Lead Acid
+Nickel Cadmium
+Nickel Metal Hydride
+Lithium Ion
+Zinc Air
+Lithium Polymer
+ EDRAM
+ VRAM
+ SRAM
+ RAM
+ FLASH
+ EEPROM
+ FEPROM
+ EPROM
+ CDRAM
+ 3DRAM
+ SDRAM
+ SGRAM
+ RDRAM
+ DDR
+ DDR2
+ DDR2 FB-DIMM
+ DDR3
+ FBD2
+ SIMM
+ SIP
+ Chip
+ DIP
+ Proprietary Card
+ DIMM
+ TSOP
+ Row of chips
+ RIMM
+ SODIMM
+ SRIMM
+PC-98/C20 add-on card
+PC-98/C24 add-on card
+PC-98/E add-on card
+PC-98/Local bus add-on card
+PC-98/Card slot add-on card
+System board or motherboard
+EISA add-on card
+PCI add-on card
+MCA add-on card
+PCMCIA add-on card
+Proprietary add-on card
+NuBus
+8086
+i386
+i486
+8087
+80287
+80387
+80487
+Pentium
+Pentium Pro
+Pentium II
+Pentium MMX
+Pentium II Xeon
+Pentium III
+Celeron M
+Pentium 4 HT
+Duron
+K6-2
+K6-3
+Athlon
+AMD2900
+K6-2+
+Power PC
+Power PC 601
+Power PC 603
+Power PC 603+
+Power PC 604
+Power PC 620
+Power PC x704
+Power PC 750
+Core Duo
+Core Duo mobile
+Core Solo mobile
+Atom
+Alpha
+Alpha 21064
+Alpha 21066
+Alpha 21164
+Alpha 21164PC
+Alpha 21164a
+Alpha 21264
+Alpha 21364
+MIPS
+MIPS R4000
+MIPS R4200
+MIPS R4400
+MIPS R4600
+MIPS R10000
+SuperSPARC
+MicroSPARC II
+MicroSPARC IIep
+UltraSPARC
+UltraSPARC II
+UltraSPARC IIi
+UltraSPARC III
+UltraSPARC IIIi
+68040
+68xxx
+68000
+68010
+68020
+68030
+Hobbit
+Crusoe TM5000
+Crusoe TM3000
+Efficeon TM8000
+Weitek
+Itanium
+Athlon 64
+Sempron
+Turion 64 Mobile
+Dual-Core Opteron
+Athlon 64 X2 Dual-Core
+Turion 64 X2 Mobile
+Quad-Core Opteron
+3rd-generation Opteron
+Phenom FX Quad-Core
+Phenom X4 Quad-Core
+Phenom X2 Dual-Core
+Athlon X2 Dual-Core
+PA-RISC 8500
+PA-RISC 8000
+PA-RISC 7300LC
+PA-RISC 7200
+PA-RISC 7100LC
+PA-RISC 7100
+Pentium III Xeon
+Pentium III Speedstep
+Pentium 4
+AS400
+Xeon MP
+Athlon XP
+Athlon MP
+Itanium 2
+Pentium M
+Celeron D
+Pentium D
+Pentium Extreme Edition
+Core Solo
+Core 2 Duo
+Core 2 Solo
+Core 2 Extreme
+Core 2 Quad
+Core 2 Extreme mobile
+Core 2 Duo mobile
+Core 2 Solo mobile
+Core i7
+Dual-Core Celeron
+IBM390
+ESA/390 G6
+z/Architectur base
+Core i5
+Core i3
+VIA C7-M
+VIA C7-D
+VIA C7
+VIA Eden
+Multi-Core Xeon
+Dual-Core Xeon 3xxx
+Quad-Core Xeon 3xxx
+VIA Nano
+Dual-Core Xeon 5xxx
+Quad-Core Xeon 5xxx
+Dual-Core Xeon 7xxx
+Quad-Core Xeon 7xxx
+Multi-Core Xeon 7xxx
+Multi-Core Xeon 3400
+Embedded Opteron Quad-Core
+Phenom Triple-Core
+Turion Ultra Dual-Core Mobile
+Turion Dual-Core Mobile
+Athlon Dual-Core
+Sempron SI
+Phenom II
+Athlon II
+Six-Core Opteron
+Sempron M
+i860
+i960
+Server Blade
+Connectivitiy Switch
+System Management Module
+Processor Module
+I/O Module
+Daughter Board
+Processor/Memory Module
+Processor/IO Module 
+Interconnect Board
+desktop
+desktopcomputer
+low-profile
+Low Profile Desktop Computer
+pizzabox
+Pizza Box Computer
+mini-tower
+Mini Tower Computer
+towercomputer
+portable
+Portable Computer
+laptop
+Laptop
+handheld
+Hand Held Computer
+docking
+Docking Station
+all-in-one
+All In One
+sub-notebook
+Sub Notebook
+space-saving
+Space-saving Computer
+lunchbox
+Lunch Box Computer
+server
+System
+Sub Chassis
+bus-expansion
+Bus Expansion Chassis
+peripheral
+Peripheral Chassis
+RAID Chassis
+rackmount
+Rack Mount Chassis
+sealed
+Sealed-case PC
+multi-system
+Multi-system
+cluster
+Compact PCI
+Advanced TCA
+blade
+Blade enclosure
+@/proc/device-tree/rom/boot-rom
+/proc/device-tree/rom/boot-rom/model
+/proc/device-tree/rom/boot-rom/BootROM-version
+/proc/device-tree/rom/boot-rom/write-characteristic
+/proc/device-tree/rom/boot-rom/reg
+/proc/device-tree/openprom/model
+/proc/device-tree/openprom/supports-bootinfo
+/proc/device-tree/serial-number
+/proc/device-tree/clock-frequency
+PowerBook Titanium w/ Gigabit Ethernet
+PowerBook G4 15" double layer SD
+PowerBook G4 17" double layer SD
+BootROM
+/proc/device-tree/openprom
+bootinfo
+/proc/device-tree
+/proc/device-tree/cpus
+/proc/device-tree/cpus/
+/device_type
+/name
+/clock-frequency
+/bus-frequency
+/altivec
+/cpu-version
+%lx.%d.%d
+/state
+running
+/performance-monitor
+/d-cache-size
+L1 Cache
+l2-cache
+L2 Cache
+/cache-unified
+ (unified)
+ (data)
+ (instruction)
+/i-cache-size
+AAPL,8500
+/proc/device-tree/model
+/proc/device-tree/system-id
+/proc/device-tree/copyright
+/proc/device-tree/memory@
+/proc/device-tree/memory
+/slot-names
+/dimm-types
+/dimm-speeds
+/reg
+/dimm-info
+none
+errordetection
+parity
+%02X%02X,%02X %02X,%02X
+spd-%d.%d
+Memory bank
+/proc/device-tree/compatible
+PowerMac 8500/8600
+AAPL,9500
+PowerMac 9500/9600
+AAPL,7200
+PowerMac 7200
+AAPL,7300
+PowerMac 7200/7300
+AAPL,7500
+PowerMac 7500
+AAPL,ShinerESB
+Apple Network Server
+AAPL,e407
+Alchemy
+AAPL,e411
+Gazelle
+AAPL,3400/2400
+PowerBook 3400
+AAPL,3500
+PowerBook 3500
+AAPL,Gossamer
+PowerMac G3 (Gossamer)
+AAPL,PowerMac G3
+PowerMac G3 (Silk)
+AAPL,PowerBook1998
+PowerBook Wallstreet
+iMac,1
+iMac (first generation)
+PowerMac1,1
+Blue & White G3
+powermac
+PowerMac1,2
+PowerMac G4 PCI Graphics
+PowerMac2,1
+iMac FireWire
+PowerMac2,2
+PowerMac3,1
+PowerMac G4 AGP Graphics
+PowerMac3,2
+PowerMac3,3
+PowerMac3,4
+PowerMac G4 QuickSilver
+PowerMac3,5
+PowerMac3,6
+PowerMac G4 Windtunnel
+PowerMac4,1
+iMac "Flower Power"
+PowerMac4,2
+iMac LCD 15"
+PowerMac4,4
+eMac
+PowerMac4,5
+iMac LCD 17"
+PowerMac5,1
+PowerMac G4 Cube
+PowerMac5,2
+PowerMac6,1
+PowerMac7,2
+PowerMac G5
+powermacg5
+PowerMac7,3
+PowerMac8,1
+iMac G5
+PowerMac8,2
+PowerMac10,1
+Mac mini
+PowerMac10,2
+PowerMac11,2
+PowerMac12,1
+PowerBook1,1
+PowerBook 101 (Lombard)
+PowerBook2,1
+iBook (first generation)
+PowerBook2,2
+iBook FireWire
+PowerBook3,1
+PowerBook Pismo
+PowerBook3,2
+PowerBook Titanium
+PowerBook3,3
+PowerBook3,4
+PowerBook Titanium w/ DVI
+PowerBook3,5
+PowerBook Titanium 1GHz
+PowerBook4,1
+iBook 12" (May 2001)
+PowerBook4,2
+iBook 2
+PowerBook4,3
+iBook 2 rev. 2 (Nov 2002)
+PowerBook4,4
+iBook 2 rev. 2
+PowerBook5,1
+PowerBook G4 17"
+PowerBook5,2
+PowerBook G4 15"
+PowerBook5,3
+PowerBook G4 17" 1.33GHz
+PowerBook5,4
+PowerBook G4 15" 1.5/1.33GHz
+PowerBook5,5
+PowerBook G4 17" 1.5GHz
+PowerBook5,6
+PowerBook G4 15" 1.67/1.5GHz
+PowerBook5,7
+PowerBook G4 17" 1.67GHz
+PowerBook5,8
+PowerBook5,9
+PowerBook6,1
+PowerBook G4 12"
+PowerBook6,2
+PowerBook G4 12" DVI
+PowerBook6,3
+iBook G4
+PowerBook6,4
+PowerBook6,5
+PowerBook6,7
+PowerBook6,8
+PowerBook G4 12" 1.5GHz
+RackMac1,1
+XServe
+RackMac1,2
+XServe rev. 2
+RackMac3,1
+XServe G5
+on-chip advanced programmable interrupt controller (APIC)
+debug trace and EMON store MSRs
+fast floating point save/restore
+streaming SIMD extensions (SSE)
+streaming SIMD extensions (SSE2)
+multimedia extensions (MMXExt)
+multimedia extensions (3DNow!Ext)
+multimedia extensions (3DNow!)
+LongRun Dynamic Power/Thermal Management
+multimedia extensions (Cyrix MMX)
+random number generator (enhanced)
+advanced cryptography engine (enhanced)
+4GB+ memory addressing (Physical Address Extension)
+siblings
+vendor_id
+model name
+AuthenticAMD
+GenuineIntel
+Advanced Micro Devices [AMD]
+Intel Corp.
+Physical processor ID
+fdiv_bug
+hlt_bug
+f00f_bug
+coma_bug
+fpu_exception
+flags
+mathematical co-processor
+virtual mode extensions
+debugging extensions
+time stamp counter
+model-specific registers
+machine check exceptions
+compare and exchange 8-byte
+apic
+fast system calls
+memory type range registers
+page global enable
+machine check architecture
+conditional move instruction
+cmov
+page attribute table
+36-bit page size extensions
+pse36
+processor serial number
+thermal control (ACPI)
+acpi
+fxsr
+sse2
+self-snoop
+thermal interrupt and status
+IA-64 (64-bit Intel CPU)
+ia64
+pending break event
+syscall
+multi-processor capable
+no-execute bit (NX)
+mmxext
+3dnowext
+3dnow
+longrun
+LongRun Table Interface
+lrti
+cxmmx
+AMD K6 MTRRs
+k6_mtrr
+random number generator
+rng_en
+advanced cryptography engine
+ace_en
+HyperThreading
+multimedia extensions (MMX)
+FPU exceptions reporting
+%lld
+%llX
+&lt;
+&gt;
+&amp;
+&quot;
+%s/lshw-%d
+KMGTPEZY
+/etc/lsb-release
+/etc/lsb_release
+/etc/system-release
+/etc/release
+/etc/arch-release
+/etc/arklinux-release
+/etc/aurox-release
+/etc/conectiva-release
+/etc/debian_version
+/etc/fedora-release
+/etc/gentoo-release
+/etc/linuxppc-release
+/etc/mandrake-release
+/etc/mandriva-release
+/etc/novell-release
+/etc/pld-release
+/etc/redhat-release
+/etc/slackware-version
+/etc/sun-release
+/etc/SuSE-release
+/etc/yellowdog-release
+/usr/tmp
+/var/tmp
+/var/run
+/usr/share/pci.ids:/usr/share/lshw-common/pci.ids:/usr/local/share/pci.ids:/usr/share/pci.ids:/etc/pci.ids:/usr/share/hwdata/pci.ids:/usr/share/misc/pci.ids
+CompactPCI Central Resource Control
+Open Host Controller Interface
+Universal Host Controller Interface (USB1)
+Enhanced Host Controller Interface (USB2)
+%x %x %x %llx %llx %llx %llx %llx %llx %llx %llx %llx %llx %llx %llx %llx %llx %[ -z]s
+^[[:xdigit:]]+:[[:xdigit:]]+:[[:xdigit:]]+\.[[:xdigit:]]+$
+pci.vendor
+pci.device
+pci.subvendor
+pci.subdevice
+pci.class
+%04x:%02x
+PCIBUS:
+%lx%lx
+eisa
+nubus
+firewire
+fiber
+audio
+parallel
+AGP 
+agp-
+Vital Product Data
+Slot Identification
+slotid
+, chassis 
+Message Signalled Interrupts
+Hot-swap
+hotswap
+PCI-X
+pcix
+HyperTransport
+Debug port
+debug
+ccrc
+AGP 8x
+agp8x
+PCI Express
+pciexpress
+MSI-X
+msix
+PCI:%02x:%02x.%x
+PCI:%04x:%02x:%02x.%x
+maxlatency
+mingnt
+bus mastering
+bus master
+VGA palette
+PCI capabilities listing
+cap list
+VGA graphical framebuffer
+PC-Card (PCMCIA)
+Generic interface
+ohci
+uhci
+ehci
+/proc/bus/pci/devices
+%02x/%02x.%x
+/proc/bus/pci
+/sys/bus/pci/devices
+/config
+%hx:%hx:%hhx.%hhx
+/resource
+/driver
+/driver/module
+/rom
+extension ROM
+/irq
+%llx %llx %llx
+support is non-magnetic (optical)
+S.M.A.R.T. (Self-Monitoring And Reporting Technology)
+ATAPI packet device
+packet
+ATA Disk
+ATAPI
+atapi
+can read CD-ROMs
+cdrom
+IDE 
+support is removable
+nonmagnetic
+Direct Memory Access
+Large Block Addressing
+I/O ready reporting
+iordy
+smart
+ATA security extensions
+security
+udma0
+mode
+udma1
+udma2
+udma3
+udma4
+udma5
+udma6
+udma7
+5.25 inch
+3.5 inch
+2.5 inch
+less than 1.8 inch
+/proc/ide
+IDE:
+/proc/ide/
+/channel
+ide@
+/media
+/capacity
+IDE Channel 
+Direct-access device
+Sequential-access device
+Printer
+Processor
+Write-once device
+CD-ROM
+Scanner
+Optical memory
+Medium changer
+Communications device
+ACS-IT8 device
+Array controller
+Enclosure services
+Reduced block command device
+Optical card reader/writer
+PCMCIA:%d
+pccard
+Socket %d
+/proc/devices
+%d %s
+/var/lib/pcmcia/stab
+%d %s %s %d %s %d %d
+SCSI:
+scsi@
+/dev/sg*
+0123456789
+scanner
+magnetooptical
+ansiversion
+15000 rotations per minute
+God A red nugget A fat egg under a dog
+15000rpm
+10000 rotations per minute
+10000rpm
+7200 rotations per minute
+7200rpm
+5400 rotations per minute
+5400rpm
+Eleele
+ATA 
+SCSI 
+bus.icon
+ide-scsi
+Emulated device
+emulated
+/proc/scsi
+scsi_host
+SCSI host adapter
+scsi-host
+/proc/scsi/sg/host_strs
+SCSI storage controller
+/dev/sd*[!0-9]
+Tape
+Write-Once Read-Only Memory
+Magneto-optical Disk
+Medium Changer
+Enclosure
+/dev/scd*
+/dev/sr*
+/dev/cd*
+/dev/dvd*
+/dev/nst*
+/dev/nosst*
+/dev/ntape*
+/dev/nrtape*
+eeprom-
+core/memory
+/proc/sys/dev/sensors
+bank:%d
+rows
+Ethernet
+SLIP
+loopback
+FDDI
+IEEE1394
+IRDA
+IPtunnel
+Framerelay.DLCI
+Framerelay.AD
+IP6tunnel
+IP6inIP4
+/proc/net/dev
+point-to-point
+remoteip
+automedia
+broadcast
+promiscuous
+slave
+multicast
+Logical interface
+logical
+Physical interface
+physical
+00:05:69
+00:0C:29
+00:50:56
+0A:00:27
+Wireless-LAN
+wireless
+Wireless interface
+wifi
+twisted pair
+Media Independent Interface
+optical fibre
+10Mbit/s
+10bt
+10Mbit/s (full duplex)
+10bt-fd
+100Mbit/s
+100bt
+100Mbit/s (full duplex)
+100bt-fd
+1Gbit/s
+1000bt
+1Gbit/s (full duplex)
+1000bt-fd
+Auto-negotiation
+autonegotiation
+speed
+10Gbit/s
+half
+duplex
+full
+driverversion
+00:1C:42
+%s/fb-%d
+/dev/fb%d
+%dx%d
+%5.2fHz
+mB-disable
+-enable
+-class
+IEEE 1284.4 compatible bidirectional
+RBC (typically Flash) mass storage
+/usr/share/usb.ids:/usr/share/lshw-common/usb.ids:/usr/local/share/usb.ids:/usr/share/usb.ids:/etc/usb.ids:/usr/share/hwdata/usb.ids:/usr/share/misc/usb.ids
+^[[:xdigit:]][[:xdigit:]][[:xdigit:]][[:xdigit:]]
+T: Bus=%u Lev=%u Prnt=%u Port=%u Cnt=%u Dev#=%u Spd=%f MxCh=%u
+D: Ver=%s Cls=%x(%*5c) Sub=%x Prot=%x MxPS=%u #Cfgs=%u
+P: Vendor=%x ProdID=%x Rev=%10s
+C:* #Ifs=%u Cfg#=%u Atr=%x MxPwr=%s
+I:* If#=%u Alt=%u #EPs=%u Cls=%x(%*5c) Sub=%x Prot=%x Driver=%80[ -z]
+I: If#=%u Alt=%u #EPs=%u Cls=%x(%*5c) Sub=%x Prot=%x Driver=%80[ -z]
+Audio device
+Control device
+audio-control
+MIDI
+midi
+Audio streaming
+audio-streaming
+Communication device
+Modem
+AT (Hayes) compatible
+atcommands
+Ethernet networking
+ethernet
+OBEX networking
+obex
+Human interface device
+Keyboard
+Mouse
+Unidirectional
+unidirectional
+Bidirectional
+bidirectional
+ieee1284.4
+Mass storage device
+flash
+SFF-8020i, MMC-2 (ATAPI)
+Floppy (UFI)
+USB hub
+Smart card reader
+Video
+Bluetooth wireless interface
+Bluetooth wireless radio
+bluetooth
+Generic USB device
+USB:%u:%u
+/sys/kernel/debug/usb/devices
+/proc/bus/usb/devices
+usbhost
+usb%u
+usb@%u:%u
+usb@%u
+%.fMbit/s
+slots
+usb-
+USB 1.0
+usb-1.00
+USB 1.1
+usb-1.10
+USB 2.0
+usb-2.00
+usb.bDeviceClass
+usb.bDeviceSubClass
+usb.bDeviceProtocol
+usb.idVendor
+usb.idProduct
+S: %80[^=]=%80[ -z]
+Manufacturer
+SerialNumber
+maxpower
+/sys
+/class/.
+/classes/.
+/class/
+/devices/
+/bus/
+/bus
+pci@
+/device
+/../
+^[[:xdigit:]][[:xdigit:]][[:xdigit:]][[:xdigit:]]:[[:xdigit:]][[:xdigit:]]:[[:xdigit:]][[:xdigit:]]\.[[:xdigit:]]$
+^[[:xdigit:]][[:xdigit:]]:[[:xdigit:]][[:xdigit:]]\.[[:xdigit:]]$
+^[0-9]+-[0-9]+(\.[0-9]+)*:[0-9]+\.[0-9]+$
+^ST.+
+^0x[[:xdigit:]][[:xdigit:]]+$
+pci@0000:
+usb@
+^[[:xdigit:]]+-[0-9]+$
+firewire@
+^[0-9]+(:[0-9]+)*$
+parisc@
+Seagate
+^D...-.+
+^IBM.+
+^HITACHI.+
+Hitachi
+^IC.+
+^HTS.+
+^FUJITSU.+
+Fujitsu
+^MP.+
+^TOSHIBA.+
+Toshiba
+^MK.+
+^MAXTOR.+
+Maxtor
+^Pioneer.+
+Pioneer
+^PHILIPS.+
+Philips
+^QUANTUM.+
+Quantum
+FIREBALL.+
+^WDC.+
+Western Digital
+WD.+
+Core Centronics Parallel interface
+hw_type
+sversion
+hversion
+Type B DMA I/O
+b-dma
+Type A DMA I/O
+a-dma
+MUX port
+RS-232 port
+Type A Direct I/O
+a-direct
+busconverter
+Bus converter port
+HP-CIO adapter
+Foreign I/O module
+Bus adapter
+I/O adapter
+Bus bridge to foreign bus
+Fabric ASIC
+Faulty module
+/sys/devices/parisc
+PA7000 (PCX)
+PA7000 (PCX-S)
+1.1a
+PA7100 (PCX-T)
+1.1b
+PA7200 (PCX-T')
+1.1c
+PA7100LC (PCX-L)
+1.1d
+PA7300LC (PCX-L2)
+1.1e
+PA8000 (PCX-U)
+PA8200 (PCX-U+)
+PA8500 (PCX-W)
+PA8600 (PCX-W+)
+PA8700 (PCX-W2)
+PA8800 (Mako)
+Graphics Display
+Centronics Parallel interface
+Core SCSI controller
+FW-SCSI controller
+Token Ring Interface
+Fibre Channel controller
+ATM Interface
+Core Bus
+VME Bus
+Wax Bus
+Wax EISA Bus
+TIMI Bus
+Bus Converter
+PCI Bridge
+lanconsole
+LAN/Console
+Core Ethernet Interface
+Core HIL
+Core RS-232 Serial Interface
+Audio
+FDDI Interface
+Floppy
+PS/2 port
+ISDN
+VME Networking Interface
+RJ-16
+Boot ROM
+100VG LAN Interface
+10/100BT LAN Interface
+Ultra2 SCSI controller
+/sys/devices/system/cpu/cpu%d/cpufreq/
+%08x-%04x-%04x-%02x%02x-%02x%02x%02x%02x%02x%02x
+C12A7328-F81F-11D2-BA4B-00A0C93EC93B
+024DEE41-33E7-11D3-9D69-0008C781F39F
+21686148-6449-6E6F-744E-656564454649
+0657FD6D-A4AB-43C4-84E5-0933C84B4F4F
+A19D880F-05FC-4D3B-A006-743F0F84911E
+E6D6D379-F507-44C2-A23C-238F2A3DF928
+8DA63339-0007-60C0-C436-083AC8230908
+75894C1E-3AEB-11D3-B7C1-7B03A0000000
+E2A1E728-32E3-11D6-A682-7B03A0000000
+48465300-0000-11AA-AA11-00306543ECAC
+6A898CC3-1DD2-11B2-99A6-080020736631
+OS X ZFS partition or Solaris /usr partition
+52414944-0000-11AA-AA11-00306543ECAC
+52414944-5F4F-11AA-AA11-00306543ECAC
+4C616265-6C00-11AA-AA11-00306543ECAC
+5265636F-7665-11AA-AA11-00306543ECAC
+53746F72-6167-11AA-AA11-00306543ECAC
+Apple Core Storage (File Vault)
+426F6F74-0000-11AA-AA11-00306543ECAC
+55465300-0000-11AA-AA11-00306543ECAC
+516E7CB4-6ECF-11D6-8FF8-00022D09712B
+516E7CB6-6ECF-11D6-8FF8-00022D09712B
+516E7CBA-6ECF-11D6-8FF8-00022D09712B
+516E7CB8-6ECF-11D6-8FF8-00022D09712B
+Vinum Volume Manager partition
+516E7CB5-6ECF-11D6-8FF8-00022D09712B
+83BD6B9D-7F41-11DC-BE0B-001560B84F0F
+EBD0A0A2-B9E5-4433-87C0-68B6B72699C7
+DE94BBA4-06D1-4D40-A16A-BFD50179D6AC
+37AFFC90-EF7D-4E96-91C3-2D7AE055B174
+5808C8AA-7E8F-42E0-85D2-E1E90434CFB3
+AF9B60A0-1431-4F62-BC68-3311714A69AD
+E3C9E316-0B5C-4DB8-817D-F92DF00215AE
+FE3A2A5D-4F32-41A7-B725-ACCC3285A309
+3CB8E202-3B7E-47DD-8A3C-7FF2A13CFCEC
+2E0A753D-9E48-43B0-8337-B15192CB1B5E
+6A82CB45-1DD2-11B2-99A6-080020736631
+6A85CF4D-1DD2-11B2-99A6-080020736631
+6A87C46F-1DD2-11B2-99A6-080020736631
+6A8B642B-1DD2-11B2-99A6-080020736631
+6A8EF2E9-1DD2-11B2-99A6-080020736631
+6A90BA39-1DD2-11B2-99A6-080020736631
+6A9283A5-1DD2-11B2-99A6-080020736631
+6A945A3B-1DD2-11B2-99A6-080020736631
+6A9630D1-1DD2-11B2-99A6-080020736631
+6A980767-1DD2-11B2-99A6-080020736631
+6A96237F-1DD2-11B2-99A6-080020736631
+6A8D2AC7-1DD2-11B2-99A6-080020736631
+49F48D32-B10E-11DC-B99B-0019D1879648
+49F48D5A-B10E-11DC-B99B-0019D1879648
+49F48D82-B10E-11DC-B99B-0019D1879648
+49F48DAA-B10E-11DC-B99B-0019D1879648
+2DB519C4-B10F-11DC-B99B-0019D1879648
+2DB519EC-B10F-11DC-B99B-0019D1879648
+42465331-3ba3-10f1-802a-4861696b7521
+This partition is required for the platform to function
+Bootable disk
+LUKS
+medium
+partitioned
+partitioned:
+Partitioned disk
+Empty
+fat12
+Extended partition
+partitioned:extended
+No filesystem
+logicalvolume
+Bootable partition (active)
+Contains boot code
+Multi-volumes
+multi
+Hidden partition
+%08lx
+signature
+Primary partition
+primary
+apple_bootstrap
+Bootstrap partition
+linux_lvm
+%d.%02d
+GUID Partition Table version 
+gpt-
+partitions
+guid
+GUID:
+System partition
+MBR partition scheme
+BIOS Boot partition
+swap partition
+RAID partition
+reserved partition
+HP-UX
+service partition
+Apple HFS+ partition
+Mac OS X
+RAID partition (offline)
+offline
+Apple label
+recovery partition
+Apple TV
+encrypted
+boot partition
+UFS partition
+FreeBSD
+ZFS partition
+Windows
+recovery environment
+IBM GPFS partition
+LDM configuration
+LDM data partition
+kernel
+ChromeOS
+root filesystem
+reserved
+root partition
+backup partition
+/var partition
+/home partition
+alternate sector
+NetBSD
+FFS partition
+LFS partition
+concatenated partition
+encrypted partition
+BeFS partition
+Haiku
+EFI partition
+precious
+Read-only partition
+readonly
+No automatic mount
+nomount
+Contains encrypted data
+empty
+XENIX root
+xenix
+XENIX usr
+fat16
+Extended
+ntfs
+AIX bootable
+OS/2 Boot Manager
+boot,nofs
+fat32
+W95 Ext'd (LBA)
+OPUS
+Hidden FAT12
+Compaq diagnostics
+Hidden FAT16 <32M
+Hidden FAT16
+Hidden HPFS/NTFS
+AST SmartSleep
+Hidden W95 FAT32
+Hidden W95 FAT32 (LBA)
+Hidden W95 FAT16 (LBA)
+NEC DOS
+Plan 9
+plan9
+PartitionMagic recovery
+Venix 80286
+PPC PReP Boot
+Beeb
+QNX4.x
+QNX4.x 2nd part
+QNX4.x 3rd part
+OnTrack DM
+OnTrack DM6 Aux1
+CP/M
+OnTrack DM6 Aux3
+OnTrackDM6
+EZ-Drive
+Golden Bow
+Priam Edisk
+SpeedStor
+GNU HURD or SysV
+Novell Netware 286
+Novell Netware 386
+DiskSecure Multi-Boot
+PC/IX
+Old Minix
+minix
+Minix / old Linux
+Linux swap / Solaris
+Linux filesystem
+linux
+OS/2 hidden C: drive
+Linux extended
+NTFS volume set
+Linux plaintext
+Linux LVM Physical Volume
+Amoeba
+Amoeba BBT
+BSD/OS
+bsdos
+IBM Thinkpad hibernation
+freebsd
+OpenBSD
+openbsd
+NeXTSTEP
+nextstep
+Darwin/OS X UFS
+darwin
+netbsd
+Darwin/OS X boot
+Darwin/OS X RAID
+Darwin/OS X HFS+
+BSDI fs
+BSDI swap
+Boot Wizard hidden
+Solaris boot
+DRDOS/sec (FAT-12)
+DRDOS/sec (FAT-16 < 32M)
+DRDOS/sec (FAT-16)
+Syrinx
+Non-FS data
+CP/M / CTOS / ...
+Dell Utility
+BootIt
+DOS access
+DOS R/O
+BeOS fs
+EFI GPT
+EFI (FAT-12/16/32)
+Linux/PA-RISC boot
+DOS secondary
+Linux raid autodetect
+LANstep
+BSD disklabel
+GUID partition table
+MS-DOS partition table
+Apple Macintosh partition map
+HP-UX LIF
+luks
+Linux Unified Key Setup
+solaris-x86
+Solaris disklabel
+solaris-sparc
+Linux RAID
+atari
+Atari ST
+amiga
+Amiga
+ n;^
+Qkkbal
+i]Wb
+9a&g
+MGiI
+wn>Jj
+#.zf
++o*7
+LABELONE
+lvm2
+QkkXa
+member:
+/dev/twe
+raid@c
+%02x%02x%02x%02x-%02x%02x-%02x%02x-%02x%02x-%02x%02x%02x%02x%02x%02x
+Contains a bootable Mac OS installation
+Contains a bootable Mac OS X installation
+directories with 65000+ subdirs
+%F %T
+SWAPSPACE2
+SWAP-SPACE
+pagesize
+unclean
+created
+backup
+modified
+ReIsEr2Fs
+ReIsErFs
+ReIsEr3Fs
+hash
+yura
+nonstandard 
+Encrypted volume
+cipher
+FATs
+NO NAME
+%04lx-%04lx
+hfsx
+10.0
+8.10
+Mac OS
+HFSJ
+Mac OS X (journaled)
+fsck
+Mac OS X (fsck)
+lastmountedby
+recover
+macos
+checked
+initialized volume
+initialized
+GNU Hurd
+MASIX
+LITES
+mounted
+lastmountpoint
+Extended Attributes
+extended_attributes
+4GB+ files
+large_files
+16TB+ files
+huge_files
+dir_nlink
+needs recovery
+64bit filesystem
+64bit
+extent-based allocation
+extents
+ext4
+EXT4 volume
+ext3
+EXT3 volume
+clustersize
+dirty
+modified_by_chkdsk
+mounted_on_nt4
+upgrade_on_mount
+resize_log_file
+blank
+Blank
+Windows FAT
+Windows NTFS
+secure
+hpfs
+OS/2 HPFS
+ext2
+EXT2/EXT3
+reiserfs
+Linux ReiserFS
+secure,journaled
+romfs
+Linux ROMFS
+squashfs
+Linux SquashFS
+cramfs
+Linux CramFS
+minixfs
+MinixFS
+sysvfs
+System V FS
+Linux JFS
+Linux XFS
+iso9660
+ISO-9660
+secure,ro
+xboxdvd
+X-Box DVD
+hphfs
+HP-UX HFS
+vxfs
+VxFS
+befs
+BeOS BFS
+qnxfs
+QNX FS
+MacOS MFS
+hfsplus
+MacOS HFS+
+MacOS HFS
+Linux swap
+^[0-9][0-9][0-9]$
+mount.fstype
+mount.options
+/proc/mounts
+32-bit processes
+64-bit processes
+Hynix Semiconductor (Hyundai Electronics)
+^[0-9a-fA-F]+$
+8001
+8002
+8004
+0500
+Elpida
+8007
+Inmos
+8008
+Intersil
+800B
+Mostek
+800D
+Freescale (Motorola)
+800E
+Conexant (Rockwell)
+8013
+NXP (Philips Semi, Signetics)
+8015
+Synertek
+8016
+Xicor
+8019
+Zilog
+801A
+Mitsubishi
+801C
+Micron Technology
+802C
+ProMOS/Mosel Vitelic
+Goldenram
+806A
+7F7F7F0B
+Nanya Technology
+830B
+Fairchild
+8083
+Numonyx (Intel)
+8089
+DATARAM
+8091
+8098
+80A4
+80AD
+Infineon (Siemens)
+80C1
+7F7F7F7F7F51
+Samsung
+80CE
+Winbond Electronics
+80DE
+LG Semiconductor (Goldstar)
+80E0
+7F45
+Micron CMS
+7F98
+Kingston
+7F7F7F7F43
+Ramaxel Technology
+MSWIN
+FAT32   
+FAT16   
+MSDOS
+FAT12   
+NO NAME    
+;*3$"
+zPLR
+@(#) $URL: https://ezix.org/source/packages/lshw/releases/B.02.17/src/core/version.cc $ >
+lshw
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.gcc_except_table
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

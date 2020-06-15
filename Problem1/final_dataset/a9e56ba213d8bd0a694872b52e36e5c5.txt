@@ -1,0 +1,3833 @@
+/lib/ld-linux.so.2
+libmysqlclient.so.15
+mysql_store_result
+mysql_init
+mysql_refresh
+mysql_select_db
+mysql_close
+mysql_num_rows
+mysql_error
+mysql_query
+mysql_real_connect
+_edata
+__bss_start
+_end
+libmysqlclient_15
+v!H;
+t$Ht^H
+<9v&
+<9v3
+<0rR,9v
+<0rR,9v
+w	;E
+<+rc,+t
+tHHud
+<	rS,
+,	t%
+,	t"
+,	t"
+<"u)
+<"u$
+<"uA
+<"uD
+t6H|
+t1H|
+<	r!,
+<	r+,	t-
+t+HuG
+t6HuR
+t0HuL
+tAHu]
+t4Ht
+t4Ht
+tJH|f
+|);U
+HtEHua
+Ht:HuV
+<buZ
+<suM
+<tu@
+tVj 
+tXIu
+uI;E
+u	;E
+	|*=
+	|*=
+fHt)fHt
+@ +B
+,#t	,
+P +P
+~%;E
+u	;]
+;C(u7
+;C(u
+;B4u
+;P8ta
+@0;B0u*
+@4;B4u
+@,;B,u
+@(;B(t
+u[;]
+@-<:
+@-<[u@
+@-<.u_
+tJ,$
+@-<]t`
+@-<]t
+@-<)u
+@-<>u
+HtLHt[
+t);]
+Ht;HtK
+	|D=
+	|?=
+;F(~"
+;F(~
+<:u$
+</u>
+<.uA
+</u,
+<.u 
+</uO
+</u)
+Ht@Htu
+<-t1
+<.u2
+<:u4
+<*uc
+t9Ht
+HtXH
+Ht;Ht^
+<+u+
+<-t!
+<"r:,"t
+<-t0
+< t[
+u'j(
+<"r:,"t
+|-Ht
+<"r,,"t
+<5rE
+<:uJ
+t;HthH
+<cr6,ct)
+< u7
+< u7
+<DrC,Dt.,	t
+<AuK
+, tI,#
+<Hu:
+Ht$Ht:Htl
+Ht2HtHHtzH
+tXIu
+<{t6j
+<-t6j
+<-t6j
+<-t6j
+<0r@,9v
+tYHtuH
+,*tY,
+<*r!,*t!,
+~%Ht
+|(Ht
+</t*
+t"Hu>
+<Wu#
+<WuQ
+<Wu#
+}|Zj
+<=u	
+<"u)
+<"u$
+<"uA
+<"uD
+,*tY,
+<*r!,*t!,
+<"u-
+FPC 2.0.4 [2006/08/22] for i386 - Linux
+Starting Mysql create database table for Artica for Postfix Mail system...
+TObject
+F&{00000000-0000-0000-C000-000000000046}
+F&{00020400-0000-0000-C000-000000000046}
+F&{00000000-0000-0000-C000-000000000046}
+TInterfacedObject
+?HUUUUU
+KUUUUU
+@v:k
+@aQY
+E@|o
+BoU'9
+6A_p
+?S;uD
+zc%C1
+.:7w
+-64OS
+0123456789ABCDEF
+6A_p
+-Inf
++Inf
+(0000000000000000000000000000000000000000
+At end of ExceptionAddresStack
+At end of ExceptionObjectStack
+Internal error.
+)Program needs probably the variants unit.
+1Include the variants unit in your uses statements
+as one of the first units.
+Runtime error 
+ at $
+Assertion failed
+, line 
+.This binary has no thread support compiled in.
+jRecompile the application with a thread-driver in the program uses clause before other units using thread.
+TRUE
+FALSE
+/proc/self/exe
+AnsiString
+WideString
+PChar
+PPChar
+UCS4Char
+	PUCS4Char
+TUCS4CharArray
+PUCS4CharArray
+UCS4Char
+UCS4String
+UCS4String
+UTF8String	
+UTF8String
+PUTF8String
+HRESULT
+	TDateTime
+TError
+PSingle
+PDouble
+	PCurrency
+PComp
+	PExtended
+	PSmallInt
+	PShortInt
+PInteger
+PByte
+PWord
+PDWord
+	PLongWord
+PLongint
+	PCardinal
+PQWord
+PInt64
+PPtrInt
+PSizeInt
+PPointer
+	PPPointer
+PBoolean
+	PWordBool
+	PLongBool
+PShortString
+PAnsiString
+PDate
+PError
+PVariant
+POleVariant
+	PWideChar
+PPWideChar
+PWideString
+PText
+TTextLineBreakStyle
+tlbsLF
+tlbsCRLF
+tlbsCR
+TProcedure
+PRTLCriticalSection
+LongInt
+Pointer
+TRTLCriticalSection
+SmallInt
+IntegerArray
+PIntegerArray
+PointerArray
+PPointerArray
+LongInt
+TBoundArray
+TBoundArray
+TPCharArray
+PPCharArray
+Byte
+real48
+TWideStringManagerD
+TRuntimeError
+reNone
+reOutOfMemory
+reInvalidPtr
+reDivByZero
+reRangeError
+reIntOverflow
+reInvalidOp
+reZeroDivide
+reOverflow
+reUnderflow
+reInvalidCast
+reAccessViolation
+rePrivInstruction
+reControlBreak
+reStackOverflow
+reVarTypeCast
+reVarInvalidOp
+reVarDispatch
+reVarArrayCreate
+reVarNotArray
+reVarArrayBounds
+reAssertionFailed
+reExternalException
+reIntfCastError
+reSafeCallError
+reQuit
+reCodesetConversion
+TBackTraceStrFunc
+TErrorProc
+TAbstractErrorProc
+TAssertErrorProc
+jmp_buf
+PJmp_buf
+IUnknown
+TClass
+PClass
+TMsgStrTable
+PMsgStrTable
+LongWord
+TStringMessageTable
+pstringmessagetable
+PGuid
+Word
+TGuid
+pinterfaceentry
+tinterfaceentry
+pinterfacetable
+tinterfacetable
+TMethod
+TObjectx
+System
+IUnknown
+System&{00000000-0000-0000-C000-000000000046}
+IInvokable
+IInvokable
+System
+	IDispatch
+	IDispatch
+System&{00020400-0000-0000-C000-000000000046}
+TInterfacedObject
+System
+TInterfacedClass
+PUnknown
+	PPUnknown
+	PDispatch
+PPDispatch
+TExceptProc
+PExceptObject
+TExceptObject
+PVarRec
+Boolean
+Char
+WideChar
+TVarRec
+pvararrayboundarray
+pvararraycoorarray
+pvararraybound
+	pvararray
+tvararraybound
+tvararrayboundarray
+tvararraycoorarray
+	tvararray
+tvarop
+opadd
+opsubtract
+opmultiply
+opdivide
+opintdivide	opmodulus
+opshiftleft
+opshiftright
+opand
+opor
+opxor	opcompare
+opnegate
+opnot
+opcmpeq
+opcmpne
+opcmplt
+opcmple
+opcmpgt
+opcmpge
+oppower
+Single
+Double
+Currency
+WordBool
+ShortInt
+Int64
+QWord
+tvardata
+pvardata
+	pcalldesc
+	tcalldesc
+	pdispdesc
+	tdispdesc
+tvariantmanager
+pvariantmanager
+pdynarrayindex
+pdynarraytypeinfo
+tdynarraytypeinfo
+fpc_big_chararray
+fpc_big_widechararray
+fpc_normal_set
+TFPCHeapStatus
+THeapStatus(
+PMemoryManager
+TMemoryManager$
+TMemoryMutexManager
+TThreadFunc
+trtlmethod
+$void
+TBeginThreadHandler
+TEndThreadHandler
+TThreadHandler
+TThreadSwitchHandler
+TWaitForThreadTerminateHandler
+TThreadSetPriorityHandler
+TThreadGetPriorityHandler
+TGetCurrentThreadIdHandler
+TCriticalSectionHandler
+TInitThreadVarHandler
+TRelocateThreadVarHandler
+TAllocateThreadVarsHandler
+TReleaseThreadVarsHandler
+TBasicEventHandler
+TBasicEventWaitForHandler
+TBasicEventCreateHandler
+TRTLEventHandler
+TRTLEventHandlerTimeout
+TRTLCreateEventHandler
+TRTLEventSyncHandler
+TThreadManager
+TFPCResourceSectionInfo
+PTFPCResourceSectionInfo
+TFPCResourceSectionTable0
+PFPCResourceSectionTable
+TFPCResourceInfo
+PFPCResourceInfo
+AnsiString
+TFPCRuntimeResourceInfo
+PFPCRuntimeResourceInfo
+FileRecL
+TLineEndStr
+TextBuf
+TextRecP
+FileFunc
+pstring
+	bytearray
+ppointer
+pvmt
+tvmt
+ppointer
+pvmt
+tvmt
+ppointer
+pvmt
+tvmt
+pvmt
+tvmt
+pvmt
+tvmt
+TabCoef
+float64
+treal_type
+rt_s32real
+rt_s64real
+rt_s80real	rt_c64bit
+rt_currency
+rt_s128real
+TSplitExtended
+Extended
+TIntPartStack
+QWordRec
+qwordrec
+	tqwordrec
+PAnsiRec
+TAnsiRec	
+PWideRec
+TWideRec
+pSizeInt
+	pdynarray
+	tdynarray
+tmethodnamerec
+tmethodnametable
+pmethodnametable
+PFieldInfo
+ShortString
+TFieldInfo
+PFieldTable
+TFieldTable
+tmessagehandler
+$formal
+$void
+tmessagehandlerrec
+	tmsgtable
+	pmsgtable
+	PSizeUInt
+TRecElem
+TRecElemArray
+PRecRec
+TRecRec
+PExceptAddr
+TExceptAddr
+TExceptObjectClass
+	TRTTIProc
+tMT19937StateArray
+TInitFinalRec
+TInitFinalTable
+PExitProcInfo
+TExitProcInfo
+pcInt
+pcUInt
+pcLong
+pculong
+pcshort
+pcushort
+pcchar
+pcuchar
+pcunsigned
+pcFloat
+pcDouble
+	pclDouble
+pDev
+pkDev
+pGid
+pIno
+pMode
+pnLink
+pOff
+pPid
+pSize
+pSSize
+pClock
+pTime
+ptime_t
+pwchar_t
+pUid
+pSockLen
+timeval
+ptimeval
+timespec
+	ptimespec
+TStatfs@
+PStatFS
+sched_param
+pthread_attr_t$
+_pthread_fastlock
+pthread_mutex_t
+pthread_mutexattr_t
+pthread_cond_t0
+pthread_condattr_t
+pthread_rwlock_t
+pthread_rwlockattr_t
+sem_t
+PBlkSize
+PBlkCnt
+PIno64
+POff64
+UtsName
+Stat@
+PStat
+Dirent
+pDirent
+pDir
+UTimBuf
+pUtimBuf
+FLock
+PTms
+TFDSet
+pFDSet
+timezone
+	ptimezone
+PRLimit
+TRLimit
+iovec
+piovec
+sigset_t
+psigset
+psiginfo
+tsiginfo
+tfpreg
+pfpstate
+tfpstatep
+PSigContext
+TSigContextX
+tsigaltstack
+	Pucontext
+	TUcontext|
+signalhandler_t
+sigactionhandler_t
+sigrestorerhandler_t
+psigactionrec
+sigactionrec
+	tmmapargs
+poschunk
+toschunk 
+pmemchunk_fixed
+tmemchunk_fixed
+pmemchunk_var
+tmemchunk_var
+tmemchunk_fixed_hdr
+tmemchunk_var_hdr
+tfreelists
+pfreelists
+pltvInitEntry
+ltvInitEntry
+TltvInitTablesTable
+ line 
+ of 
+pstab
+LongInt
+Byte
+Word
+LongWord
+tstab
+telf32header4
+telf32sechdr(
+PInteger
+LongInt
+IntegerArray
+PIntegerArray
+Pointer
+PointerArray
+PPointerArray
+LongInt
+TBoundArray
+TBoundArray
+TResourceIterator
+PResStringRec
+PResourceStringRecord
+AnsiString
+LongInt
+TResourceStringRecord
+TResourceStringTable
+PResourceStringTable
+TResourceTableList
+TPF0
+EStreamError
+EFCreateError
+EFOpenError
+EFilerError
+EReadError
+EWriteError
+EClassNotFound
+EMethodNotFound
+EInvalidImage
+EResNotFound
+EListError
+EBitsError
+EStringListError
+EComponentError
+EParserError
+EOutOfResources
+EInvalidOperation
+TFPList
+TList
+TThreadList$
+TBits
+TPersistent
+F&{00000000-0000-0000-C000-000000000046}
+TInterfacedPersistent
+TRecall
+TCollectionItem
+TCollection
+TOwnedCollection
+&{739C2F34-52EC-11D0-9EA6-0020AF3D82DA}
+TStrings
+TStringList2
+TStream
+TOwnerStream
+&{B8CD12A3-267A-11D4-83DA-00C04F60B2DD}
+THandleStream
+TFileStream
+TCustomMemoryStream
+TMemoryStream
+TStringStream
+TResourceStream
+TFiler
+TAbstractObjectReader
+TBinaryObjectReader
+TReader
+TAbstractObjectWriter
+TBinaryObjectWriter
+TTextObjectWriter
+TWriterH
+TParser.
+EThread
+EThreadDestroyCalled
+TThread8
+&{B971E807-E3A6-11D1-AAB1-00C04FB16FBC}
+TComponent
+TBasicActionLink
+TBasicAction
+zr&{285DEA8A-B865-11D1-AAA7-00C04FB17A72}
+zr&{285DEA8A-B865-11D1-AAA7-00C04FB17A72}
+TInterfaceList
+TDataModuleI
+TComponentPage
+	TIntConst
+TPropFixup
+TInitHandler
+0123456789ABCDEF
+0123456789ABCDEF
+Strings
+A thread cannot destroy itself except by setting FreeOnTerminate and leaving!
+Error assigning to 
+ from : 
+left
+Height
+HorizontalOffset
+VerticalOffset
+Width
+OWNER
+TPF0
+Illegal stream image
+inherited
+inline
+object
+False
+True
+  item
+    
+  end
+TPF0
+OBJECT
+INHERITED
+INLINE
+OBJECT
+INHERITED
+INLINE
+True
+False
+item
+OBJECT
+INHERITED
+False
+True
+Null
+NULL
+FALSE
+TRUE
+FALSE
+TRUE
+NULL
+Owner
+.Owner
+SmallInt
+TSmallPoint
+TSeekOrigin
+soBeginning	soCurrent
+soEnd
+TDuplicates
+	dupIgnore	dupAccept
+dupError
+TAlignment
+taLeftJustify
+taRightJustify
+taCenter
+TLeftRight
+taLeftJustify
+taRightJustify
+taCenter
+	TBiDiMode
+bdLeftToRight
+bdRightToLeft
+bdRightToLeftNoAlign
+bdRightToLeftReadingOnly
+TShiftStateEnum
+ssShift
+ssAlt
+ssCtrl
+ssLeft
+ssRight
+ssMiddle
+ssDouble
+ssMeta
+ssSuper
+ssHyper
+ssAltGr
+ssCaps
+ssNum
+ssScroll
+ssTriple
+ssQuad
+TShiftState
+THelpContext
+	THelpType
+	htKeyword	htContext
+	TShortCut
+TNotifyEvent
+Sender
+TObject
+$void
+THelpEvent
+Command
+Word
+Data
+LongInt
+CallHelp
+Boolean
+Boolean
+Tacocat
+TGetStrProc
+AnsiString
+$void
+EStreamErrorP6
+Classes
+EFCreateError
+Classes
+EFOpenError
+Classes
+EFilerErrort7
+Classes
+EReadError
+Classes
+EWriteError48
+Classes
+EClassNotFound
+Classes
+EMethodNotFound
+Classes
+EInvalidImage`9
+Classes
+EResNotFound
+Classes
+EListError$:
+Classes
+EBitsError
+Classes
+EStringListError
+Classes
+EComponentErrorP;
+Classes
+EParserError
+Classes
+EOutOfResources
+Classes
+EInvalidOperation
+Classes
+PPointerList
+Pointer
+TPointerList
+TListSortCompare
+TListCallback
+data
+Pointer
+Pointer
+$void
+TListStaticCallback
+TFPList
+Classes
+TListNotification
+lnAdded
+lnExtracted	lnDeleted
+TList8=
+Classes
+TThreadList
+Classes
+LongWord
+	TBitArray
+TBits
+Classes
+TPersistenth>
+Classes
+TPersistentClass
+TInterfacedPersistent
+TInterfacedPersistent@?
+Classes
+TRecall
+Classes
+TCollectionItem
+Classes
+TCollectionItemClass
+TCollectionNotification
+cnAdded
+cnExtracting
+cnDeleting
+TCollection
+TCollection
+Classes
+Do nine men interpret Nine men I nod
+TOwnedCollection8A
+Classes
+IStringsAdapter
+IStringsAdapter
+Classes&{739C2F34-52EC-11D0-9EA6-0020AF3D82DA}
+TStrings
+TStrings
+Classes
+PStringItem
+TStringItem
+AnsiString
+TStringItem
+PStringItemList
+TStringItemList
+TStringItemList
+TStringListSortCompare
+TStringList
+Classes
+TStream
+Classes
+TOwnerStreamhD
+Classes
+IStreamPersist
+IStreamPersist
+Classes&{B8CD12A3-267A-11D4-83DA-00C04F60B2DD}
+THandleStream,E
+Classes
+TFileStream
+TFileStream
+Classes
+TCustomMemoryStreamDF
+Classes
+TMemoryStream
+Classes
+TStringStream
+TStringStream`G
+Classes
+TResourceStream
+Classes
+TValueType
+vaNull
+vaList
+vaInt8
+vaInt16
+vaInt32
+vaExtended
+vaString
+vaIdent
+vaFalse
+vaTrue
+vaBinary
+vaSet	vaLString
+vaNil
+vaCollection
+vaSingle
+vaCurrency
+vaDate	vaWString
+vaInt64
+vaUTF8String
+TFilerFlag
+ffInherited
+ffChildPos
+ffInline
+TFilerFlags
+TReaderProc
+Reader
+TReader
+$void
+TWriterProc
+Writer
+alula
+TWriter
+$void
+TStreamProc
+Stream
+TStream
+$void
+TFilerpH
+Classes
+TComponentClass
+TAbstractObjectReader
+God A red nugget A fat egg under a dog
+Classes
+TBinaryObjectReader
+Classes
+TFindMethodEvent
+Reader
+TReader
+MethodName
+AnsiString
+Address
+Pointer
+Error
+Boolean
+$void
+TSetMethodPropertyEvent
+Reader
+TReader
+Instance
+TPersistent
+PropInfo	PPropInfo
+TheMethodName
+AnsiString
+Handled
+Boolean
+$void
+TSetNameEvent
+Reader
+TReader
+	Component
+TComponent
+Name
+AnsiString
+$void
+TReferenceNameEvent
+Reader
+TReader
+Name
+AnsiString
+$void
+TAncestorNotFoundEvent
+Reader
+TReader
+ComponentName
+AnsiString
+ComponentClass
+TPersistentClass
+	Component
+TComponent
+$void
+TReadComponentsProc
+	Component
+TComponent
+$void
+TReaderError
+Reader
+TReader
+Message
+AnsiString
+Handled
+Boolean
+$void
+TPropertyNotFoundEvent
+Reader
+TReader
+Instance
+TPersistent
+PropName
+AnsiString
+IsPath
+Boolean
+Handled
+Boolean
+Skip
+Boolean
+$void
+TFindComponentClassEvent
+Reader
+TReader
+	ClassName
+AnsiString
+ComponentClass
+TComponentClass
+$void
+TCreateComponentEvent
+Reader
+TReader
+ComponentClass
+TComponentClass
+	Component
+TComponent
+$void
+TReadWriteStringPropertyEvent
+Sender
+TObject
+Instance
+TPersistent
+PropInfo	PPropInfo
+Content
+AnsiString
+$void
+TReader
+TReaderTJ
+Classes
+TAbstractObjectWriter
+Classes
+TBinaryObjectWriter
+Classes
+TTextObjectWriter8L
+Classes
+TFindAncestorEvent
+Writer
+TWriter
+	Component
+TComponent
+Name
+AnsiString
+Ancestor
+TComponent
+RootAncestor
+TComponent
+$void
+TWriteMethodPropertyEvent
+Writer
+TWriter
+Instance
+TPersistent
+PropInfo	PPropInfo
+MethodValue
+TMethod
+DefMethodCodeValue
+Pointer
+Handled
+Boolean
+$void
+TWriter
+TWriter
+Classes
+TParser
+TParserHM
+A Santa lives evil at NASA
+Classes
+EThread
+Classes
+EThreadDestroyCalled
+Classes
+TSynchronizeProcVar
+TThreadMethod
+$void
+TThreadPriority
+tpIdle
+tpLowest
+tpLower
+tpNormal
+tpHigher	tpHighest
+tpTimeCritical
+TThreadlN
+Classes
+TOperation
+opInsert
+opRemove
+	csLoading	csReading	csWriting
+csDestroying
+csDesigning
+csAncestor
+csUpdating
+csFixups
+csFreeNotification
+csInline
+csDesignInstance
+TComponentState
+csInheritable
+csCheckPropAvail
+csSubComponent
+csTransient
+TComponentStyle
+TGetChildProc
+Child
+TComponent
+$void
+IDesignerNotify
+IDesignerNotify
+Classes&{B971E807-E3A6-11D1-AAB1-00C04FB16FBC}
+TComponent
+LongInt
+TComponent
+Classes
+Name<w
+TBasicActionLink
+Classes
+TBasicActionLinkClass
+TBasicActionhP
+Classes
+TBasicActionClass
+TActiveXRegType
+axrComponentOnly
+axrIncludeDescendants
+IInterfaceList
+IInterfaceList
+Classes&{285DEA8A-B865-11D1-AAA7-00C04FB17A72}
+TInterfaceList,R
+Classes
+Boolean
+TDataModule
+Classes
+OnCreate
+0	OnDestroy0y
+OldCreateOrder
+TIdentMapEntry
+TIdentMapEntry
+TIdentToInt
+TIntToIdent
+TFindGlobalComponent
+TInitComponentHandler
+TSeek64
+offset
+Int64
+Origin
+TSeekOrigin
+Int64
+PByte
+Word
+Longrec
+TComponentPage
+Classes
+TComponentPage
+	TIntConst(T
+Classes
+TPropFixup
+Classes
+TPropFixup
+TInitHandler
+Classes
+CharToOrdFuncty
+	PLongWord
+LongWord
+ShortString
+TFieldInfo
+PFieldClassTable
+TFieldClassTable
+PFieldTable
+TFieldTable
+	Exception
+	EExternal
+	EInterror
+EDivByZero
+ERangeError
+EIntOverflow
+EMathError
+EInvalidOp
+EZeroDivide
+	EOverflow
+EUnderflow
+EInOutError
+EHeapMemoryError
+EExternalException
+EInvalidPointer
+EOutOfMemory
+EInvalidCast
+EVariantError
+EAccessViolation
+	EBusError
+EPrivilege
+EStackOverflow
+	EControlC
+EConvertError
+EFormatError
+EAbort
+EAbstractError
+EAssertionFailed
+EPropReadOnly
+EPropWriteOnly
+EIntfCastError
+EInvalidContainer
+EInvalidInsert
+EPackageError
+EOSError
+ESafecallException
+ENoThreadSupport
+Jan                                                                                                                             
+Feb                                                                                                                             
+Mar                                                                                                                             
+Apr                                                                                                                             
+May                                                                                                                             
+Jun                                                                                                                             
+Jul                                                                                                                             
+Aug                                                                                                                             
+Sep                                                                                                                             
+Oct                                                                                                                             
+Nov                                                                                                                             
+Dec                                                                                                                             
+January                                                                                                                         
+February                                                                                                                        
+March                                                                                                                           
+April                                                                                                                           
+May                                                                                                                             
+June                                                                                                                            
+July                                                                                                                            
+August                                                                                                                          	September                                                                                                                       
+October                                                                                                                         
+November                                                                                                                        
+December                                                                                                                        
+Sun                                                                                                                             
+Mon                                                                                                                             
+Tue                                                                                                                             
+Wed                                                                                                                             
+Thu                                                                                                                             
+Fri                                                                                                                             
+Sat                                                                                                                             
+Sunday                                                                                                                          
+Monday                                                                                                                          
+Tuesday                                                                                                                         	Wednesday                                                                                                                       
+Thursday                                                                                                                        
+Friday                                                                                                                          
+Saturday                                                                                                                        
+hh:nn                                                                                                                           
+Borrow or rob
+hh:nn:ss                                                                                                                        :
+AM     
+PM     .,
+$      ,
+=?&{7B108C52-1D8F-4CDB-9CDF-57E071193D3F}
+=?&{7B108C52-1D8F-4CDB-9CDF-57E071193D3F}$TMultiReadExclusiveWriteSynchronizer(
+0123456789ABCDEF
+.cfg
+d/m/y
+dd" "mmmm" "yyyy
+HOME
+/../
+/../
+1234567890
+TRUE
+FALSE
+TRUE
+FALSE
+@v:k
+%d-%d-%d is not a valid date specification
+%d:%d:%d.%d is not a valid time specification
+ddddd
+Illegal format string
+Invalid date format
+Invalid date format
+Invalid date format
+Invalid Time format
+AMPM
+AM/PM
+AMPM
+AM/PM
+Illegal character in format string
+0000
+1234567890
+%s%.5d.tmp
+%.4x
+{%.8x-%.4x-%.4x-%.2x%.2x-%.2x%.2x%.2x%.2x%.2x%.2x}
+An unhandled exception occurred at $
+Exception object 
+ is not of class Exception.
+/dev/urandom
+/proc/sys/kernel/random/uuid
+/fd0/.
+/fd1/.
+HOME
+XDG_CONFIG_HOME
+.config/
+TEMP
+/tmp/
+/etc
+TGetAppNameEvent
+TGetTempDirEvent
+TGetTempFileEvent
+	PDayTable
+Word
+	TDayTable
+TSystemTime
+LongInt
+TTimeStamp
+PString
+TFloatFormat
+	ffGeneral
+ffExponent
+ffFixed
+ffNumber
+ffCurrency
+TFloatValue
+fvExtended
+fvCurrency
+fvSingle
+fvReal
+fvDouble
+fvComp
+rfReplaceAll
+rfIgnoreCase
+TReplaceFlags
+Boolean
+Char
+	TFloatRec
+TMbcsByteType
+mbSingleByte
+mbLeadByte
+mbTrailByte
+TSysCharSet
+PSysCharSet
+TProcedure
+TIntegerSet
+Byte
+LongRec
+WordRec
+LongWord
+Int64Rec
+PByteArray
+TByteArray
+PWordarray
+TWordArray
+	Exception
+	Exception|}
+sysutils
+ExceptClass
+	EExternal
+sysutils
+	EInterror<~
+sysutils
+EDivByZero
+sysutils
+ERangeError
+sysutils
+EIntOverflow`
+sysutils
+EMathError
+sysutils
+EInvalidOp 
+sysutils
+EZeroDivide
+sysutils
+	EOverflow
+sysutils
+EUnderflow@
+sysutils
+EInOutError
+sysutils
+EHeapMemoryError
+sysutils
+EExternalExceptionp
+sysutils
+EInvalidPointer
+sysutils
+EOutOfMemory8
+sysutils
+EInvalidCast
+sysutils
+EVariantError
+sysutils
+EAccessViolationh
+sysutils
+	EBusError
+sysutils
+EPrivilege(
+sysutils
+EStackOverflow
+sysutils
+	EControlC
+sysutils
+EConvertErrorP
+sysutils
+EFormatError
+sysutils
+EAbort
+sysutils
+EAbstractErrort
+sysutils
+EAssertionFailed
+sysutils
+EPropReadOnly@
+sysutils
+EPropWriteOnly
+sysutils
+EIntfCastError
+sysutils
+EInvalidContainerp
+sysutils
+EInvalidInsert
+sysutils
+EPackageError8
+sysutils
+EOSError
+sysutils
+ESafecallException
+sysutils
+ENoThreadSupporth
+sysutils
+TCreateGUIDFunc
+TTerminateProc
+FileRecL
+TLineEndStr
+TextBuf
+Pointer
+TextRecP
+TCaseTranslationTable
+TSysLocale
+TSearchRec(
+Int64
+AnsiString
+TSearchRec(
+IReadWriteSync
+IReadWriteSync
+Beeb
+sysutils&{7B108C52-1D8F-4CDB-9CDF-57E071193D3F}
+$TMultiReadExclusiveWriteSynchronizer$
+sysutils
+TSignalState
+ssNotHooked
+ssHooked
+ssOverridden
+pbyte
+Char
+	CharArray
+PPRecord
+TPRecord
+pglob
+tglob
+ShortString
+TGlobSearchRec
+PGlobSearchRec
+postfix_mysql
+/etc/artica-postfix
+/etc/artica-postfix/artica-postfix.conf
+Testing your system configuration...
+Distribution detected : 
+DISTRI
+LINUX
+Unable to locate update system tool (urpm or apt) aborting the installation
+UPDATE_TOOLS
+LINUX
+Unable to locate postfix mail system... Artica-postfix require postfix installed first...aborting installation
+/etc/init.d/mysql
+MYSQL_INSTALLED
+LINUX
+/etc/init.d/mysql
+MYSQL_INSTALLED
+LINUX
+Mysql database system is not installed..
+/etc/init.d/postfix
+/usr/bin/apt-get
+/bin/rpm
+Couldn't connect to MySQL.
+Error was: 
+mysql_select_db->results: 
+Couldnt select database ->
+SHOW TABLES LIKE '
+testing table 
+mysql_select_db->error number : 
+error query ->
+.tar
+Backup your old config in /etc/postfix/backup.
+.tar /etc/postfix/master.cf /etc/postfix/main.cf
+/bin/tar -cf /etc/postfix/backup.
+true
+USE_MYSQL
+POSTFIX
+Give the server name to connect/create to the server (127.0.0.1)
+127.0.0.1
+SERVER_NAME
+MYSQL
+Give the username to connect to the server:
+Degas are we not drawn onward no In union drawn onward to new eras aged
+USER_NAME
+MYSQL
+Give the password to connect to the server:
+PASSWORD
+MYSQL
+Give the database name to connect/create to the server:
+DATABASE
+MYSQL
+Writing settings in /etc/artica-postfix/settings.inc for web console
+/etc/artica-postfix
+Writing settings for daemon...
+127.0.0.1
+SERVER_NAME
+MYSQL
+USER_NAME
+MYSQL
+PASSWORD
+MYSQL
+DATABASE
+MYSQL
+USE_MYSQL
+POSTFIX
+true
+false
+ /etc/artica-postfix/settings.inc
+<?php $_GLOBAL["use_mysql"]=
+$_GLOBAL["sql_user"]="
+$_GLOBAL["sql_password"]="
+$_GLOBAL["sql_hosts"]="
+";?>
+$_GLOBAL["sql_database"]="
+/bin/chmod 655 /etc/artica-postfix/settings.inc
+Writing settings for web console done...
+] doesn't seems to be right path :
+Give the path to artica web root:[
+/img/content.css
+Writing initial config directory done..
+ressourcespath
+RESSOURCES
+MaxSizeLimit
+Install temp folders...
+/ressources/logs
+/ressources/conf
+/ressources/logs
+/bin/chmod 0777 
+/ressources/conf
+/bin/chmod 0777 
+Installing artica-postfix done...
+USE_MYSQL
+POSTFIX
+Reading settings from /etc/artica-postfix
+127.0.0.1
+SERVER_NAME
+MYSQL
+USER_NAME
+MYSQL
+PASSWORD
+MYSQL
+DATABASE
+MYSQL
+Unable to connect to mysql server
+success connecting to your server
+Testing your database 
+database doesn't exists create it...
+CREATE DATABASE `
+alias
+CREATE TABLE `alias` (
+`address` varchar( 255 ) NOT NULL default '',
+ `goto` text NOT NULL ,
+ `domain` varchar( 255 ) NOT NULL default '',
+ `created` datetime NOT NULL default '0000-00-00 00:00:00',
+ `modified` datetime NOT NULL default '0000-00-00 00:00:00',
+ `active` tinyint( 1 ) NOT NULL default '1',
+ PRIMARY KEY ( address )
+) TYPE = MYISAM COMMENT = 'Postfix Admin - Virtual Aliases'
+Creating table alias...
+domain
+CREATE TABLE `domain` (
+`domain` varchar( 255 ) NOT NULL default '',
+`description` varchar( 255 ) NOT NULL default '',
+`aliases` int( 10 ) NOT NULL default '0',
+`mailboxes` int( 10 ) NOT NULL default '0',
+`maxquota` int( 10 ) NOT NULL default '0',
+`transport` varchar( 255 ) default NULL ,
+`backupmx` tinyint( 1 ) NOT NULL default '0',
+`created` datetime NOT NULL default '0000-00-00 00:00:00',
+`modified` datetime NOT NULL default '0000-00-00 00:00:00',
+`active` tinyint( 1 ) NOT NULL default '1',
+PRIMARY KEY ( domain ) 
+) TYPE = MYISAM COMMENT = 'Postfix Admin - Virtual Domains';
+Creating table domain...
+mailbox
+CREATE TABLE `mailbox` (
+`username` varchar( 255 ) NOT NULL default '',
+`password` varchar( 255 ) NOT NULL default '',
+`name` varchar( 255 ) NOT NULL default '',
+`maildir` varchar( 255 ) NOT NULL default '',
+`quota` int( 10 ) NOT NULL default '0',
+`domain` varchar( 255 ) NOT NULL default '',
+`created` datetime NOT NULL default '0000-00-00 00:00:00',
+`modified` datetime NOT NULL default '0000-00-00 00:00:00',
+`active` tinyint( 1 ) NOT NULL default '1',
+PRIMARY KEY ( `username` ) 
+) TYPE = MYISAM COMMENT = 'Postfix Admin - Virtual Mailboxes';
+Creating table mailbox...
+transport_maps
+CREATE TABLE `transport_maps` (
+`domain` VARCHAR( 255 ) NOT NULL ,`goto` VARCHAR( 255 ) NOT NULL ,
+PRIMARY KEY ( `domain` ) 
+) ENGINE = MYISAM ;
+Creating table transport_maps...
+creating tables for PostFix done...
+USE_MYSQL
+POSTFIX
+aborting, mysql is disabled...
+creating config file for PostFix mysql_virtual_alias_maps...
+127.0.0.1
+SERVER_NAME
+MYSQL
+USER_NAME
+MYSQL
+PASSWORD
+MYSQL
+DATABASE
+MYSQL
+(/etc/postfix/mysql_virtual_alias_maps.cf
+user =
+password =
+hosts = 
+dbname = 
+query = SELECT goto FROM alias WHERE address='%s' AND active = 1
+creating config file  for PostFix mysql_virtual_domains_maps...
+*/etc/postfix/mysql_virtual_domains_maps.cf
+user =
+password =
+hosts = 
+dbname = 
+query = SELECT domain FROM domain WHERE domain='%s'
+creating config file  for PostFix mysql_virtual_mailbox_maps...
+*/etc/postfix/mysql_virtual_mailbox_maps.cf
+user =
+password =
+hosts = 
+dbname = 
+query = SELECT maildir FROM mailbox WHERE username='%s' AND active = 1
+creating config file  for PostFix mysql_virtual_mailbox_limit_maps...
+0/etc/postfix/mysql_virtual_mailbox_limit_maps.cf
+user =
+password =
+hosts = 
+dbname = 
+query = SELECT quota FROM mailbox WHERE username='%s'
+creating config file  for PostFix mysql_relay_domains_maps...
+(/etc/postfix/mysql_relay_domains_maps.cf
+user =
+password =
+hosts = 
+dbname = 
+query = SELECT domain FROM domain WHERE domain='%s' and backupmx = '1'
+creating config file  for PostFix mysql_transport_maps...
+$/etc/postfix/mysql_transport_maps.cf
+user =
+password =
+hosts = 
+dbname = 
+query = SELECT goto FROM transport_maps WHERE domain='%s'
+apply security to allow compatibility PostFix/Mysql
+/bin/chmod 640 /etc/postfix/mysql_virtual_mailbox_limit_maps.cf
+/bin/chmod 640 /etc/postfix/mysql_relay_domains_maps.cf
+/bin/chmod 640 /etc/postfix/mysql_virtual_mailbox_maps.cf
+/bin/chmod 640 /etc/postfix/mysql_virtual_domains_maps.cf
+/bin/chmod 640 /etc/postfix/mysql_virtual_alias_maps.cf
+/bin/chmod 640 /etc/postfix/mysql_transport_maps.cf
+/bin/chgrp postfix /etc/postfix/mysql_virtual_mailbox_limit_maps.cf
+/bin/chgrp postfix /etc/postfix/mysql_relay_domains_maps.cf
+/bin/chgrp postfix /etc/postfix/mysql_virtual_mailbox_maps.cf
+/bin/chgrp postfix /etc/postfix/mysql_virtual_domains_maps.cf
+/bin/chgrp postfix /etc/postfix/mysql_virtual_alias_maps.cf
+/bin/chgrp postfix /etc/postfix/mysql_transport_maps.cf
+/bin/mkdir -p /var/spool/postfix/var/run/mysqld
+/bin/chown mysql /var/spool/postfix/var/run/mysqld
+/var/spool/postfix/var/run/mysqld/mysqld.sock
+/bin/ln -s /var/run/mysqld/mysqld.sock /var/spool/postfix/var/run/mysqld/mysqld.sock
+/home/vmail
+Where your want to store mailboxes on this server ?: [
+Your server can be a relay or a mailboxes server...
+/usr/bin/groupadd -g 5000 vmail
+/usr/bin/useradd -g vmail -u 5000 vmail -d /home/vmail -m
+Change postfix settings for accessing mysql database and mailboxes
+/usr/sbin/postconf -e virtual_alias_maps=mysql:/etc/postfix/mysql_virtual_alias_maps.cf
+/usr/sbin/postconf -e transport_maps=mysql:/etc/postfix/mysql_transport_maps.cf
+/usr/sbin/postconf -e virtual_gid_maps=static:5000
+/usr/sbin/postconf -e virtual_mailbox_base=
+/usr/sbin/postconf -e virtual_mailbox_domains=mysql:/etc/postfix/mysql_virtual_domains_maps.cf
+/usr/sbin/postconf -e virtual_mailbox_limit=51200000
+/usr/sbin/postconf -e virtual_mailbox_maps=mysql:/etc/postfix/mysql_virtual_mailbox_maps.cf
+/usr/sbin/postconf -e virtual_minimum_uid=5000
+/usr/sbin/postconf -e virtual_transport=virtual
+/usr/sbin/postconf -e virtual_uid_maps=static:5000
+/usr/sbin/postconf -e virtual_create_maildirsize=yes
+/usr/sbin/postconf -e virtual_mailbox_extended=yes
+/usr/sbin/postconf -e virtual_mailbox_limit_maps=mysql:/etc/postfix/mysql_virtual_mailbox_limit_maps.cf
+/usr/sbin/postconf -e virtual_mailbox_limit_override=yes
+/usr/sbin/postconf -e virtual_maildir_limit_message=Mailbox_is_full
+/usr/sbin/postconf -e virtual_overquota_bounce=yes
+/usr/sbin/postconf -e relay_domains=mysql:/etc/postfix/mysql_relay_domains_maps.cf
+Restarting postfix server
+/etc/init.d/postfix restart
+OPERATION 2 :
+OPERATION 2 :
+creating startup scripts
+/etc/init.d/artica-postfix
+# !/bin/sh
+function start() {
+# Start daemons.
+echo "Starting artica-postfix:"
+/bin/artica-postfix
+RETVAL=$?
+function stop() {
+# Stop daemons.
+echo "Shutting down artica-postfix: "
+killall artica-postfix
+RETVAL=$?
+return $RETVAL
+# See how we were called.
+case "$1" in
+start)
+start
+stop)
+stop
+restart)
+stop
+start
+echo "Usage: $0 start|stop|restart}"
+RETVAL=1
+esac
+exit $RETVAL
+adding startup scripts to the system
+/bin/chmod +x /etc/init.d/artica-postfix
+/usr/sbin/update-rc.d -f artica-postfix defaults
+/etc/mandrake-release
+Mandrake
+/etc/redhat-release
+Red Hat
+/etc/gentoo-release
+Gentoo
+/etc/debian_version
+Debian
+/etc/slackware-version
+Slackware
+/etc/SuSE-release
+SuSE
+/etc/aurox-release
+Aurox
+/etc/annvix-release
+Annvix
+/etc/arch-release
+Arch Linux
+/etc/arklinux-release
+Arklinux
+/etc/aurox-release
+Aurox Linux
+/etc/blackcat-release
+BlackCat
+/etc/cobalt-release
+Cobalt
+/etc/conectiva-release
+Conectiva
+/etc/debian_version
+Debian
+/etc/debian_release
+Debian
+/etc/fedora-release
+Fedora Core
+/etc/gentoo-release
+Gentoo Linux
+/etc/immunix-release
+Immunix
+/etc/lfs-release
+Linux-From-Scratch
+/etc/linuxppc-release
+Linux-PPC
+/etc/mandrake-release
+Mandrake
+/etc/mandriva-release
+Mandriva/Mandrake Linux
+/etc/mandrake-release
+Mandrake
+/etc/mandakelinux-release
+Mandrake
+/etc/mklinux-release
+MkLinux
+/etc/nld-release
+Novell Linux Desktop
+/etc/pld-release
+PLD Linux
+/etc/redhat-release
+Red Hat
+/etc/redhat_version
+Red Hat
+/etc/slackware-version
+Slackware
+/etc/slackware-release
+Slackware
+/etc/e-smith-release
+SME Server (Formerly E-Smith)
+/etc/release
+Solaris SPARC
+/etc/sun-release
+Sun JDS
+/etc/SuSE-release
+SUSE Linux
+/etc/novell-release
+SUSE Linux
+/etc/sles-release
+SUSE Linux ES9
+/etc/tinysofa-release
+Tiny Sofa
+/etc/turbolinux-release
+TurboLinux
+/etc/lsb-release
+Ubuntu Linux
+/etc/ultrapenguin-release
+UltraPenguin
+/etc/UnitedLinux-release
+UnitedLinux
+/etc/va-release
+VA-Linux/RH-VALE
+/etc/yellowdog-release
+Yellow Dog
+postfix_mysql
+postfix_mysql
+TPostmysql
+F&{00000001-0000-0000-C000-000000000046}
+Dw=&{0c733a30-2a1c-11ce-ade5-00aa0044773d}
+F&{0000000C-0000-0000-C000-000000000046}
+LongInt
+TIntegerDynArray
+LongInt
+TIntegerDynArray
+LongWord
+TCardinalDynArray
+LongWord
+TCardinalDynArray
+Word
+TWordDynArray
+Word
+TWordDynArray
+SmallInt
+TSmallIntDynArray
+SmallInt
+TSmallIntDynArray
+Byte
+TByteDynArray
+Byte
+TByteDynArray
+ShortInt
+TShortIntDynArray
+ShortInt
+TShortIntDynArray
+Int64
+TInt64DynArray
+Int64
+TInt64DynArray
+QWord
+TQWordDynArray
+QWord
+TQWordDynArray
+TLongWordDynArray
+TLongWordDynArray
+Single
+TSingleDynArray
+Single
+TSingleDynArray
+Double
+TDoubleDynArray
+Double
+TDoubleDynArray
+Boolean
+TBooleanDynArray
+Boolean
+TBooleanDynArray
+TStringDynArray
+AnsiString
+TStringDynArray
+TWideStringDynArray
+WideString
+TWideStringDynArray
+TPoint
+PPoint
+TRect
+PRect
+TSize
+PSize
+TSmallPoint
+PSmallPoint
+PPOleStr
+PDWord
+TXrmOptionDescRec
+PXrmOptionDescRec
+	_FILETIME
+	PFileTime
+tagSTATSTGH
+PStatStg
+IClassFactory
+IClassFactory
+types&{00000001-0000-0000-C000-000000000046}
+ISequentialStream
+ISequentialStream
+types&{0c733a30-2a1c-11ce-ade5-00aa0044773d}
+IStream
+IStream
+types&{0000000C-0000-0000-C000-000000000046}
+EPropertyError
+False
+True
+	TTypeKind
+	tkUnknown	tkInteger
+tkChar
+tkEnumeration
+tkFloat
+tkSet
+tkMethod	tkSString	tkLString	tkAString	tkWString	tkVariant
+tkArray
+tkRecord
+tkInterface
+tkClass
+tkObject
+tkWChar
+tkBool
+tkInt64
+tkQWord
+tkDynArray
+tkInterfaceRaw
+TOrdType
+otSByte
+otUByte
+otSWord
+otUWord
+otSLong
+otULong
+TFloatType
+ftSingle
+ftDouble
+ftExtended
+ftComp
+ftCurr
+TMethodKind
+mkProcedure
+mkFunction
+mkConstructor
+mkDestructor
+mkClassProcedure
+mkClassFunction
+TParamFlag
+pfVar
+pfConst
+pfArray	pfAddress
+pfReference
+pfOut
+TParamFlags
+	TIntfFlag
+	ifHasGuid
+ifDispInterface
+ifDispatch
+ifHasStrGUID
+TIntfFlags
+TIntfFlagsBase
+TTypeKinds
+ShortString
+	TTypeInfo
+	PTypeInfo
+PPTypeInfo
+	PTypeData
+LongInt
+Byte
+SmallInt
+Char
+Int64
+QWord
+	TTypeData
+Word
+	TPropData
+	PPropInfo
+Pointer
+	TPropInfo
+TProcInfoProc
+PropInfo	PPropInfo
+$void
+	PPropList
+	TPropList
+EPropertyError
+typinfo
+TGetPropValue
+TSetPropValue
+TGetVariantProp
+TSetVariantProp
+PMethod
+TBooleanFunc
+Boolean
+TInsertProp
+TGetInt64ProcIndex
+index
+LongInt
+Int64
+TGetInt64Proc
+Int64
+TGetIntegerProcIndex
+index
+LongInt
+LongInt
+TGetIntegerProc
+LongInt
+TGetWordProcIndex
+index
+LongInt
+Word
+TGetWordProc
+Word
+TGetByteProcIndex
+index
+LongInt
+Byte
+TGetByteProc
+Byte
+TSetInt64ProcIndex
+index
+LongInt
+Int64
+$void
+TSetInt64Proc
+Int64
+$void
+TSetIntegerProcIndex
+index
+LongInt
+LongInt
+$void
+TSetIntegerProc
+LongInt
+$void
+TGetShortStrProcIndex
+index
+LongInt
+ShortString
+TGetShortStrProc
+ShortString
+TGetAnsiStrProcIndex
+index
+LongInt
+Eleele
+AnsiString
+TGetAnsiStrProc
+AnsiString
+TSetShortStrProcIndex
+index
+LongInt
+ShortString
+$void
+TSetShortStrProc
+ShortString
+$void
+TSetAnsiStrProcIndex
+index
+LongInt
+AnsiString
+$void
+TSetAnsiStrProc
+AnsiString
+$void
+TGetWideStrProcIndex
+index
+LongInt
+WideString
+TGetWideStrProc
+WideString
+TSetWideStrProcIndex
+index
+LongInt
+WideString
+$void
+TSetWideStrProc
+WideString
+$void
+TGetExtendedProc
+Extended
+TGetExtendedProcIndex
+Index
+LongInt
+Extended
+TGetDoubleProc
+Double
+TGetDoubleProcIndex
+Index
+LongInt
+Double
+TGetSingleProc
+Single
+TGetSingleProcIndex
+Index
+LongInt
+Single
+TGetCurrencyProc
+Currency
+TGetCurrencyProcIndex
+Index
+LongInt
+Currency
+TSetExtendedProc
+AValue
+Extended
+$void
+TSetExtendedProcIndex
+Index
+LongInt
+AValue
+Extended
+$void
+TSetDoubleProc
+AValue
+Double
+$void
+TSetDoubleProcIndex
+Index
+LongInt
+AValue
+Double
+$void
+TSetSingleProc
+AValue
+Single
+$void
+TSetSingleProcIndex
+Index
+LongInt
+AValue
+Single
+$void
+TSetCurrencyProc
+AValue
+Currency
+$void
+TSetCurrencyProcIndex
+Index
+LongInt
+AValue
+Currency
+$void
+TGetMethodProcIndex
+Index
+LongInt
+TMethod
+TGetMethodProc
+TMethod
+TSetMethodProcIndex
+index
+LongInt
+PMethod
+$void
+TSetMethodProc
+PMethod
+$void
+No context-sensitive Help installed.
+rtlconsts.hnocontext
+No Help Manager installed.
+rtlconsts.hnosystem
+No Table of Contents found.
+rtlconsts.hnotableofcontents
+No help found for "%s"
+rtlconsts.hnothingfound
+No topic-based Help installed.
+rtlconsts.hnotopics
+Abort
+rtlconsts.sabortbutton
+&All
+rtlconsts.sallbutton
+All files
+rtlconsts.sallfilter
+Ancestor class for "%s" not found.
+rtlconsts.sancestornotfound
+Cannot assign a %s to a %s.
+rtlconsts.sassignerror
+Asynchronous socket error: %d
+rtlconsts.sasyncsocketerror
+rtlconsts.sbg
+Bitmap is empty
+rtlconsts.sbitmapempty
+Bits index out of range.
+rtlconsts.sbitsindexerror
+Bold
+rtlconsts.sboldfont
+Bold Italic
+rtlconsts.sbolditalicfont
+List is locked during an active ForEach.
+rtlconsts.sbucketlistlocked
+Cancel
+rtlconsts.scancelbutton
+Das Verzeichnis kann nicht erstellt werden
+rtlconsts.scannotcreatedir
+Cannot use standard name for and unknown component
+rtlconsts.scannotcreatename
+Unable to create new socket
+rtlconsts.scannotcreatesocket
+Forms cannot be dragged
+rtlconsts.scannotdragform
+A disbled or invisible Window cannot get focus
+rtlconsts.scannotfocus
+Listening on an open socket is not allowed
+rtlconsts.scannotlistenonopen
+AVI can not be opened
+rtlconsts.scannotopenavi
+A visible Window can not be made modal
+rtlconsts.scannotshowmodal
+Changing value on an active socket is not allowed
+rtlconsts.scantchangewhileactive
+Can not write to read-only ResourceStream
+rtlconsts.scantwriteresourcestreamerror
+CARDS library could not be loaded
+rtlconsts.scarddllnotloaded
+Can not change icon size
+rtlconsts.schangeiconsize
+"%s" expected
+rtlconsts.scharexpected
+CheckSynchronize called from non-main thread "$%x"
+rtlconsts.schecksynchronizeerror
+Resource %s has wrong class
+rtlconsts.sclassmismatch
+Class "%s" not found
+rtlconsts.sclassnotfound
+Client of TDrag was not initialized
+rtlconsts.sclientnotset
+&Close
+rtlconsts.sclosebutton
+Failed to parse imaginary portion
+rtlconsts.scmplxcouldnotparseimaginary
+Failed to parse required "+" (or "-") symbol
+rtlconsts.scmplxcouldnotparseplus
+Failed to parse real portion
+rtlconsts.scmplxcouldnotparsereal
+Failed to parse required "%s" symbol
+rtlconsts.scmplxcouldnotparsesymbol
+%s [%s<?>%s]
+rtlconsts.scmplxerrorsuffix
+Unexpected characters
+rtlconsts.scmplxunexpectedchars
+Unexpected end of string [%s]
+rtlconsts.scmplxunexpectedeos
+Color
+rtlconsts.scolorprefix
+ABCDEFGHIJKLMNOP
+rtlconsts.scolortags
+Component name "%s" exceeds 64 character limit
+rtlconsts.scomponentnametoolong
+The selected directory does not exist. Should it be created?
+rtlconsts.sconfirmcreatedir
+A component can not have itself as parent
+rtlconsts.scontrolparentsettoself
+Conversion family "%s" already registered
+rtlconsts.sconvduplicatefamily
+Conversion type (%s) already registered in %s
+rtlconsts.sconvduplicatetype
+"%s" has a factor of zero
+rtlconsts.sconvfactorzero
+Illegal family
+rtlconsts.sconvillegalfamily
+Illegal type
+rtlconsts.sconvillegaltype
+Incompatible conversion types (%s, %s)
+rtlconsts.sconvincompatibletypes2
+Incompatible conversion types (%s, %s, %s)
+rtlconsts.sconvincompatibletypes3
+Incompatible conversion types (%s - %s, %s - %s)
+rtlconsts.sconvincompatibletypes4
+Could not parse %s
+rtlconsts.sconvstrparseerror
+[$%.8x]
+rtlconsts.sconvunknowndescription
+[%s%.8x]
+rtlconsts.sconvunknowndescriptionwithprefix
+Unknown conversion family: "%s"
+rtlconsts.sconvunknownfamily
+Unknown conversion type: "%s"
+rtlconsts.sconvunknowntype
+Custom colors
+rtlconsts.scustomcolors
+Invalid argument for date encode.
+rtlconsts.sdateencodeerror
+DDE error - conversion was not performed ($0%x)
+rtlconsts.sddeconverr
+An error was returned by DDE ($0%x)
+rtlconsts.sddeerr
+An error occurred - not enough memory for DDE ($0%x)
+rtlconsts.sddememerr
+DDE-Conversation could not be started
+rtlconsts.sddenoconnect
+Default
+rtlconsts.sdefault
+All files (*.*)|*.*
+rtlconsts.sdefaultfilter
+Delimiter and QuoteChar properties cannot have the same value
+rtlconsts.sdelimiterquotecharerror
+%s on %s
+rtlconsts.sdeviceonport
+Image size mismatch
+rtlconsts.sdimsdonotmatch
+Directory &name:
+rtlconsts.sdirnamecap
+&Directories:
+rtlconsts.sdirscap
+&Drives:
+rtlconsts.sdrivescap
+Duplicate card ID found
+rtlconsts.sduplicatecardid
+A class named "%s" already exists
+rtlconsts.sduplicateclass
+Duplicates not allowed in this list ($0%x)
+rtlconsts.sduplicateitem
+Menu "%s" is used by another form
+rtlconsts.sduplicatemenus
+Duplicate name: A component named "%s" already exists
+rtlconsts.sduplicatename
+WriteObject was called twice for one instance
+rtlconsts.sduplicatereference
+String list does not allow duplicates
+rtlconsts.sduplicatestring
+Illegal Nil stream for TReader constructor
+rtlconsts.semptystreamillegalreader
+Illegal Nil stream for TWriter constructor
+rtlconsts.semptystreamillegalwriter
+Bit index exceeds array limit: %d
+rtlconsts.serrindextoolarge
+Invalid bit index : %d
+rtlconsts.serrinvalidbitindex
+Failed to initialize component: No streaming method available.
+rtlconsts.serrnostreaming
+No variant support for properties. Please use the variants unit in your project and recompile
+rtlconsts.serrnovariantsupport
+Out of memory
+rtlconsts.serroutofmemory
+Unknown property: "%s"
+rtlconsts.serrpropertynotfound
+Unknown enumeration value: "%s"
+rtlconsts.serrunknownenumvalue
+TStrings descendant "%s" failed to call inherited constructor
+rtlconsts.sfailedtocallconstructor
+rtlconsts.sfb
+Unable to create file "%s"
+rtlconsts.sfcreateerror
+Unable to create file "%s": %s
+rtlconsts.sfcreateerrorex
+rtlconsts.sfg
+&Files: (*.*)
+rtlconsts.sfilescap
+Fixed column count must be less than column count
+rtlconsts.sfixedcoltoobig
+Fixed row count must be less than row count
+rtlconsts.sfixedrowtoobig
+Unable to open file "%s"
+rtlconsts.sfopenerror
+Unable to open file "%s": %s
+rtlconsts.sfopenerrorex
+Grid too large for this operation
+rtlconsts.sgridtoolarge
+GroupIndex must be greater than preceding menu groupindex
+rtlconsts.sgroupindextoolow
+&Help
+rtlconsts.shelpbutton
+Clipboard does not support Icons
+rtlconsts.sicontoclipboard
+Identifier expected
+rtlconsts.sidentifierexpected
+&Ignore
+rtlconsts.signorebutton
+A Canvas can only be changed if it contains a bitmap
+rtlconsts.simagecanvasneedsbitmap
+Invalid ImageList index
+rtlconsts.simageindexerror
+The ImageList data could not be read from stream
+rtlconsts.simagereadfail
+The ImageList data could not be written to stream
+rtlconsts.simagewritefail
+Grid index out of range
+rtlconsts.sindexoutofrange
+Unable to write to "%s"
+rtlconsts.sinifilewriteerror
+Line could not be inserted
+rtlconsts.sinsertlineerror
+Invalid action creation
+rtlconsts.sinvalidactioncreation
+Invalid action enumeration
+rtlconsts.sinvalidactionenumeration
+Invalid action registration
+rtlconsts.sinvalidactionregistration
+Invalid action unregistration
+rtlconsts.sinvalidactionunregistration
+Invalid binary value
+rtlconsts.sinvalidbinary
+Invalid Bitmap
+rtlconsts.sinvalidbitmap
+Invalid clipboard format
+rtlconsts.sinvalidclipfmt
+Invalid item
+rtlconsts.sinvalidcurrentitem
+(%d, %d) is not a valid DateDay pair
+rtlconsts.sinvaliddateday
+(%d, %d, %d, %d) is not a valid DateMonthWeek quad
+rtlconsts.sinvaliddatemonthweek
+(%d, %d, %d) is not a valid DateWeek triplet
+rtlconsts.sinvaliddateweek
+(%d, %d, %d, %d) is not a valid DayOfWeekInMonth quad
+rtlconsts.sinvaliddayofweekinmonth
+"%s" is not a valid file name.
+rtlconsts.sinvalidfilename
+Invalid Icon
+rtlconsts.sinvalidicon
+Invalid stream format
+rtlconsts.sinvalidimage
+Invalid ImageList
+rtlconsts.sinvalidimagelist
+Invalid image size
+rtlconsts.sinvalidimagesize
+%f Julian cannot be represented as a DateTime
+rtlconsts.sinvalidjuliandate
+"%s" is not a valid mask at (%d)
+rtlconsts.sinvalidmask
+Text larger than memo capacity
+rtlconsts.sinvalidmemosize
+Invalid Metafile
+rtlconsts.sinvalidmetafile
+"%s" is not a valid component name
+rtlconsts.sinvalidname
+Invalid numerical value
+rtlconsts.sinvalidnumber
+Invalid Pixelformat
+rtlconsts.sinvalidpixelformat
+Selected printer is invalid
+rtlconsts.sinvalidprinter
+Operation invalid on selected printer
+rtlconsts.sinvalidprinterop
+Invalid property value
+rtlconsts.sinvalidproperty
+Invalid property element: "%s"
+rtlconsts.sinvalidpropertyelement
+Invalid property path
+rtlconsts.sinvalidpropertypath
+Property type (%s) is not valid
+rtlconsts.sinvalidpropertytype
+Invalid value for property
+rtlconsts.sinvalidpropertyvalue
+Invalid data type for "%s"
+rtlconsts.sinvalidregtype
+Invalid string constant
+rtlconsts.sinvalidstring
+Unable to insert rows in or delete rows from grid
+rtlconsts.sinvalidstringgridop
+Registerindex out of bounds
+rtlconsts.sinvalidtabindex
+Italic
+rtlconsts.sitalicfont
+Item not found ($0%x)
+rtlconsts.sitemnotfound
+Line too long
+rtlconsts.slinetoolong
+List capacity (%d) exceeded.
+rtlconsts.slistcapacityerror
+List count (%d) out of bounds.
+rtlconsts.slistcounterror
+List index (%d) out of bounds
+rtlconsts.slistindexerror
+Invalid mask input value.  Use escape key to abandon changes
+rtlconsts.smaskediterr
+Invalid mask input value
+rtlconsts.smaskerr
+A MDI-Child Window can not be hidden.
+rtlconsts.smdichildnotvisible
+Out of memory while expanding memory stream
+rtlconsts.smemorystreamerror
+Menu Index out of range
+rtlconsts.smenuindexerror
+Menu entry not found in menu
+rtlconsts.smenunotfound
+Menu reinserted
+rtlconsts.smenureinserted
+rtlconsts.smissingdatetimefield
+All files (*.*)|*.*|Wave-files (*.WAV)|*.WAV|Midi-files (*.MID)|*.MID|Video for Windows (*.avi)|*.avi
+rtlconsts.smpopenfilter
+Ne&twork...
+rtlconsts.snetworkcap
+No address specified
+rtlconsts.snoaddress
+rtlconsts.snobutton
+Canvas handle does not allow drawing
+rtlconsts.snocanvashandle
+"%s" has not been registered as a COM class
+rtlconsts.snocomsupport
+No default printer was selected
+rtlconsts.snodefaultprinter
+No MDI form is available, none is active
+rtlconsts.snomdiform
+No timers available
+rtlconsts.snotimers
+No MCI-device opened
+rtlconsts.snotopenerr
+Printer is not currently printing
+rtlconsts.snotprinting
+: [ - No name - ]
+rtlconsts.snovolumelabel
+Number expected
+rtlconsts.snumberexpected
+rtlconsts.sokbutton
+Can not load older version of TShape
+rtlconsts.soldtshape
+Invalid operation for TOleGraphic
+rtlconsts.solegraphic
+rtlconsts.soutlinebadlevel
+Invalid Node index
+rtlconsts.soutlineerror
+Parent node must be expanded
+rtlconsts.soutlineexpanderror
+Error loading file
+rtlconsts.soutlinefileload
+Node index not found
+rtlconsts.soutlineindexerror
+Line too long
+rtlconsts.soutlinelongline
+Maximum level exceeded
+rtlconsts.soutlinemaxlevels
+Invalid selection
+rtlconsts.soutlineselection
+Value must be between %d and %d
+rtlconsts.soutofrange
+Out of system resources
+rtlconsts.soutofresources
+Element '%s' has no parent Window
+rtlconsts.sparentrequired
+%s on line %d
+rtlconsts.sparseerror
+ (%dx%d)
+rtlconsts.spicturedesc
+Image:
+rtlconsts.spicturelabel
+Preview
+rtlconsts.spreviewlabel
+Printer Index out of range
+rtlconsts.sprinterindexerror
+Printing in progress
+rtlconsts.sprinting
+Properties
+rtlconsts.spropertiesverb
+Error reading %s%s%s: %s
+rtlconsts.spropertyexception
+Property %s out of range
+rtlconsts.spropertyoutofrange
+PutObject on undefined object
+rtlconsts.sputobjecterror
+Range error
+rtlconsts.srangeerror
+Stream read error
+rtlconsts.sreaderror
+Property is read-only
+rtlconsts.sreadonlyproperty
+Failed to create key %s
+rtlconsts.sregcreatefailed
+Failed to get data for "%s"
+rtlconsts.sreggetdatafailed
+Invalid component registration
+rtlconsts.sregistererror
+Failed to set data for "%s"
+rtlconsts.sregsetdatafailed
+Normal
+rtlconsts.sregularfont
+Image can not be replaced
+rtlconsts.sreplaceimage
+Resource "%s" not found
+rtlconsts.sresnotfound
+&Retry
+rtlconsts.sretrybutton
+(Empty)
+rtlconsts.srnone
+(Unknown)
+rtlconsts.srunknown
+Line index out of bounds
+rtlconsts.sscanline
+Scrollbar property out of range
+rtlconsts.sscrollbarrange
+%s.Seek not implemented
+rtlconsts.sseeknotimplemented
+Select directory
+rtlconsts.sselectdircap
+Socket is already open
+rtlconsts.ssocketalreadyopen
+%s error %d, %s
+rtlconsts.ssocketioerror
+Socket must be in blocking mode
+rtlconsts.ssocketmustbeblocking
+Read
+rtlconsts.ssocketread
+Write
+rtlconsts.ssocketwrite
+Operation not allowed on sorted list
+rtlconsts.ssortedlisterror
+Error setting stream size
+rtlconsts.sstreamsetsize
+String expected
+rtlconsts.sstringexpected
+%s expected
+rtlconsts.ssymbolexpected
+Thread creation error: %s
+rtlconsts.sthreadcreateerror
+Thread Error: %s (%d)
+rtlconsts.sthreaderror
+Too many rows or columns deleted
+rtlconsts.stoomanydeleted
+Too many images
+rtlconsts.stoomanyimages
+There is only one MDI window available
+rtlconsts.stwomdiforms
+Unknown clipboard format
+rtlconsts.sunknownclipboardformat
+Unknown extension for RichEdit-conversion (.%s)
+rtlconsts.sunknownconversion
+Unknown extension (.%s)
+rtlconsts.sunknownextension
+%s not in a class registration group
+rtlconsts.sunknowngroup
+Unknown property: "%s"
+rtlconsts.sunknownproperty
+Unknown property type %d
+rtlconsts.sunknownpropertytype
+(Untitled)
+rtlconsts.suntitled
+Bitmaps
+rtlconsts.svbitmaps
+Enhanced MetaFiles
+rtlconsts.svenhmetafiles
+Icons
+rtlconsts.svicons
+Visible property cannot be changed in OnShow or OnHide handlers
+rtlconsts.svisiblechanged
+MetaFiles
+rtlconsts.svmetafiles
+Error when initializing Window Class
+rtlconsts.swindowclass
+Error when creating Window
+rtlconsts.swindowcreate
+Error when??
+rtlconsts.swindowdcerror
+A Windows socket error occurred: %s (%d), on API "%s"
+rtlconsts.swindowssocketerror
+Stream write error
+rtlconsts.swriteerror
+&Yes
+rtlconsts.syesbutton
+Alt+
+rtlconsts.smkcalt
+Backspace
+rtlconsts.smkcbksp
+Ctrl+
+rtlconsts.smkcctrl
+Delete
+rtlconsts.smkcdel
+Down
+rtlconsts.smkcdown
+rtlconsts.smkcend
+Enter
+rtlconsts.smkcenter
+rtlconsts.smkcesc
+Home
+rtlconsts.smkchome
+Insert
+rtlconsts.smkcins
+Left
+rtlconsts.smkcleft
+Page down
+rtlconsts.smkcpgdn
+Page up
+rtlconsts.smkcpgup
+Right
+rtlconsts.smkcright
+Shift+
+rtlconsts.smkcshift
+Space
+rtlconsts.smkcspace
+rtlconsts.smkctab
+rtlconsts.smkcup
+Angstroms
+rtlconsts.sangstromsdescription
+AstronomicalUnits
+rtlconsts.sastronomicalunitsdescription
+Centimeters
+rtlconsts.scentimetersdescription
+Chains
+rtlconsts.schainsdescription
+Cubits
+rtlconsts.scubitsdescription
+Decameters
+rtlconsts.sdecametersdescription
+Decimeters
+rtlconsts.sdecimetersdescription
+Distance
+rtlconsts.sdistancedescription
+Fathoms
+rtlconsts.sfathomsdescription
+Feet
+rtlconsts.sfeetdescription
+Furlongs
+rtlconsts.sfurlongsdescription
+Gigameters
+rtlconsts.sgigametersdescription
+Hands
+rtlconsts.shandsdescription
+Hectometers
+rtlconsts.shectometersdescription
+Inches
+rtlconsts.sinchesdescription
+Kilometers
+rtlconsts.skilometersdescription
+LightYears
+rtlconsts.slightyearsdescription
+Links
+rtlconsts.slinksdescription
+Megameters
+rtlconsts.smegametersdescription
+Meters
+rtlconsts.smetersdescription
+Micromicrons
+rtlconsts.smicromicronsdescription
+Microns
+rtlconsts.smicronsdescription
+Miles
+rtlconsts.smilesdescription
+Millimeters
+rtlconsts.smillimetersdescription
+Millimicrons
+rtlconsts.smillimicronsdescription
+NauticalMiles
+rtlconsts.snauticalmilesdescription
+Paces
+rtlconsts.spacesdescription
+Parsecs
+rtlconsts.sparsecsdescription
+Picas
+rtlconsts.spicasdescription
+Points
+rtlconsts.spointsdescription
+Rods
+rtlconsts.srodsdescription
+Yards
+rtlconsts.syardsdescription
+Acres
+rtlconsts.sacresdescription
+Area
+rtlconsts.sareadescription
+Ares
+rtlconsts.saresdescription
+Centares
+rtlconsts.scentaresdescription
+Hectares
+rtlconsts.shectaresdescription
+SquareCentimeters
+rtlconsts.ssquarecentimetersdescription
+SquareDecameters
+rtlconsts.ssquaredecametersdescription
+SquareDecimeters
+rtlconsts.ssquaredecimetersdescription
+SquareFeet
+rtlconsts.ssquarefeetdescription
+SquareHectometers
+rtlconsts.ssquarehectometersdescription
+SquareInches
+rtlconsts.ssquareinchesdescription
+SquareKilometers
+rtlconsts.ssquarekilometersdescription
+SquareMeters
+rtlconsts.ssquaremetersdescription
+SquareMiles
+rtlconsts.ssquaremilesdescription
+SquareMillimeters
+rtlconsts.ssquaremillimetersdescription
+SquareRods
+rtlconsts.ssquarerodsdescription
+SquareYards
+rtlconsts.ssquareyardsdescription
+AcreFeet
+rtlconsts.sacrefeetdescription
+AcreInches
+rtlconsts.sacreinchesdescription
+CentiLiters
+rtlconsts.scentilitersdescription
+CordFeet
+rtlconsts.scordfeetdescription
+Cords
+rtlconsts.scordsdescription
+CubicCentimeters
+rtlconsts.scubiccentimetersdescription
+CubicDecameters
+rtlconsts.scubicdecametersdescription
+CubicDecimeters
+rtlconsts.scubicdecimetersdescription
+CubicFeet
+rtlconsts.scubicfeetdescription
+CubicHectometers
+rtlconsts.scubichectometersdescription
+CubicInches
+rtlconsts.scubicinchesdescription
+CubicKilometers
+rtlconsts.scubickilometersdescription
+CubicMeters
+rtlconsts.scubicmetersdescription
+CubicMiles
+rtlconsts.scubicmilesdescription
+CubicMillimeters
+rtlconsts.scubicmillimetersdescription
+CubicYards
+rtlconsts.scubicyardsdescription
+DecaLiters
+rtlconsts.sdecalitersdescription
+Decasteres
+rtlconsts.sdecasteresdescription
+DeciLiters
+rtlconsts.sdecilitersdescription
+Decisteres
+rtlconsts.sdecisteresdescription
+HectoLiters
+rtlconsts.shectolitersdescription
+KiloLiters
+rtlconsts.skilolitersdescription
+Liters
+rtlconsts.slitersdescription
+MilliLiters
+rtlconsts.smillilitersdescription
+Steres
+rtlconsts.ssteresdescription
+Volume
+rtlconsts.svolumedescription
+FluidCups
+rtlconsts.sfluidcupsdescription
+FluidGallons
+rtlconsts.sfluidgallonsdescription
+FluidGills
+rtlconsts.sfluidgillsdescription
+FluidOunces
+rtlconsts.sfluidouncesdescription
+FluidPints
+rtlconsts.sfluidpintsdescription
+FluidQuarts
+rtlconsts.sfluidquartsdescription
+FluidTablespoons
+rtlconsts.sfluidtablespoonsdescription
+FluidTeaspoons
+rtlconsts.sfluidteaspoonsdescription
+DryBuckets
+rtlconsts.sdrybucketsdescription
+DryBushels
+rtlconsts.sdrybushelsdescription
+DryGallons
+rtlconsts.sdrygallonsdescription
+DryPecks
+rtlconsts.sdrypecksdescription
+DryPints
+rtlconsts.sdrypintsdescription
+DryQuarts
+rtlconsts.sdryquartsdescription
+UKBuckets
+rtlconsts.sukbucketsdescription
+UKBushels
+rtlconsts.sukbushelsdescription
+UKGallons
+rtlconsts.sukgallonsdescription
+UKGill
+rtlconsts.sukgillsdescription
+UKOunces
+rtlconsts.sukouncesdescription
+UKPecks
+rtlconsts.sukpecksdescription
+UKPints
+rtlconsts.sukpintsdescription
+UKPottle
+rtlconsts.sukpottlesdescription
+UKQuarts
+rtlconsts.sukquartsdescription
+Centigrams
+rtlconsts.scentigramsdescription
+Decagrams
+rtlconsts.sdecagramsdescription
+Decigrams
+rtlconsts.sdecigramsdescription
+Drams
+rtlconsts.sdramsdescription
+Grains
+rtlconsts.sgrainsdescription
+Grams
+rtlconsts.sgramsdescription
+Hectograms
+rtlconsts.shectogramsdescription
+Kilograms
+rtlconsts.skilogramsdescription
+LongTons
+rtlconsts.slongtonsdescription
+Mass
+rtlconsts.smassdescription
+MetricTons
+rtlconsts.smetrictonsdescription
+Micrograms
+rtlconsts.smicrogramsdescription
+Milligrams
+rtlconsts.smilligramsdescription
+Nanograms
+rtlconsts.snanogramsdescription
+Ounces
+rtlconsts.souncesdescription
+Pounds
+rtlconsts.spoundsdescription
+Stones
+rtlconsts.sstonesdescription
+Tons
+rtlconsts.stonsdescription
+Celsius
+rtlconsts.scelsiusdescription
+Fahrenheit
+rtlconsts.sfahrenheitdescription
+Kelvin
+rtlconsts.skelvindescription
+Rankine
+rtlconsts.srankinedescription
+Reaumur
+rtlconsts.sreaumurdescription
+Temperature
+rtlconsts.stemperaturedescription
+Centuries
+rtlconsts.scenturiesdescription
+DateTime
+rtlconsts.sdatetimedescription
+Days
+rtlconsts.sdaysdescription
+Decades
+rtlconsts.sdecadesdescription
+Fortnights
+rtlconsts.sfortnightsdescription
+Hours
+rtlconsts.shoursdescription
+JulianDate
+rtlconsts.sjuliandatedescription
+Millennia
+rtlconsts.smillenniadescription
+MilliSeconds
+rtlconsts.smillisecondsdescription
+Minutes
+rtlconsts.sminutesdescription
+ModifiedJulianDate
+rtlconsts.smodifiedjuliandatedescription
+Months
+rtlconsts.smonthsdescription
+Seconds
+rtlconsts.ssecondsdescription
+Time
+rtlconsts.stimedescription
+Weeks
+rtlconsts.sweeksdescription
+Years
+rtlconsts.syearsdescription
+"%s" is not a valid date
+rtlconsts.sinvaliddate
+"%s" is not a valid date and time
+rtlconsts.sinvaliddatetime
+"%s" is not a valid integer value
+rtlconsts.sinvalidinteger
+"%s" is not a valid time
+rtlconsts.sinvalidtime
+Invalid argument to time encode
+rtlconsts.stimeencodeerror
+AVIVideo
+rtlconsts.smciavivideo
+CDAudio
+rtlconsts.smcicdaudio
+rtlconsts.smcidat
+DigitalVideo
+rtlconsts.smcidigitalvideo
+MMMovie
+rtlconsts.smcimmmovie
+rtlconsts.smcinil
+Other
+rtlconsts.smciother
+Overlay
+rtlconsts.smcioverlay
+Scanner
+rtlconsts.smciscanner
+Sequencer
+rtlconsts.smcisequencer
+Unknown error code
+rtlconsts.smciunknownerror
+rtlconsts.smcivcr
+Videodisc
+rtlconsts.smcivideodisc
+WaveAudio
+rtlconsts.smciwaveaudio
+&Abort
+rtlconsts.smsgdlgabort
+&All
+rtlconsts.smsgdlgall
+Cancel
+rtlconsts.smsgdlgcancel
+Confirm
+rtlconsts.smsgdlgconfirm
+Error
+rtlconsts.smsgdlgerror
+&Help
+rtlconsts.smsgdlghelp
+Help
+rtlconsts.smsgdlghelphelp
+No help available
+rtlconsts.smsgdlghelpnone
+&Ignore
+rtlconsts.smsgdlgignore
+Information
+rtlconsts.smsgdlginformation
+rtlconsts.smsgdlgno
+N&o to all
+rtlconsts.smsgdlgnotoall
+rtlconsts.smsgdlgok
+&Retry
+rtlconsts.smsgdlgretry
+Warning
+rtlconsts.smsgdlgwarning
+&Yes
+rtlconsts.smsgdlgyes
+Yes to a&ll
+rtlconsts.smsgdlgyestoall
+I8S	
+8Q	H=
+~`	$@
+ 5	XG
+3r'	
+PATH
+/bin/sh
+/bin/sh
+/bin/sh
+	localtime
+TZDIR
+/usr/share/zoneinfo
+/etc/timezone
+/etc/localtime
+/usr/lib/zoneinfo/localtime
+/bin/sh
+TFSearchOption
+NoCurrentDirectory
+CurrentDirectoryFirst
+CurrentDirectoryLast
+TLineEndStr
+Char
+TextBuf
+LongInt
+Pointer
+Byte
+TextRecP
+FileRecL
+ttzhead,
+pttinfo
+Boolean
+tttinfo
+pleap
+tleap
+Success
+Operation not permitted
+No such file or directory
+No such process
+Interrupted system call
+I/O error
+No such device or address
+Arg list too long
+Exec format error
+Bad file number
+No child processes
+Try again
+Out of memory
+Permission denied
+Bad address
+Block device required
+Device or resource busy
+File exists
+Cross-device link
+No such device
+Not a directory
+Is a directory
+Invalid argument
+File table overflow
+Too many open files
+Not a typewriter
+Text (code segment) file busy
+File too large
+No space left on device
+Illegal seek
+Read-only file system
+Too many links
+Broken pipe
+Math argument out of domain of func
+Math result not representable
+Resource deadlock would occur
+File name too long
+No record locks available
+Function not implemented
+Directory not empty
+Too many symbolic links encountered
+Operation would block
+No message of desired type
+Identifier removed
+Channel number out of range
+Level 2 not synchronized
+Level 3 halted
+Level 3 reset
+Link number out of range
+Protocol driver not attached
+No CSI structure available
+Level 2 halted
+Invalid exchange
+Invalid request descriptor
+Exchange full
+No anode
+Invalid request code
+Invalid slot
+File locking deadlock error
+Bad font file format
+Device not a stream
+No data available
+Timer expired
+Out of streams resources
+Machine is not on the network
+Package not installed
+Object is remote
+Link has been severed
+Advertise error
+Srmount error
+Communication error on send
+Protocol error
+Multihop attempted
+RFS specific error
+Not a data message
+Value too large for defined data type
+Name not unique on network
+File descriptor in bad state
+Remote address changed
+Can not access a needed shared library
+Accessing a corrupted shared library
+.lib section in a.out corrupted
+Attempting to link in too many shared libraries
+Cannot exec a shared library directly
+Illegal byte sequence
+Interrupted system call should be restarted
+Streams pipe error
+Too many users
+Socket operation on non-socket
+Destination address required
+Message too long
+Protocol wrong type for socket
+Protocol not available
+Protocol not supported
+Socket type not supported
+Operation not supported on transport endpoint
+Protocol family not supported
+Address family not supported by protocol
+Address already in use
+Cannot assign requested address
+Network is down
+Network is unreachable
+Network dropped connection because of reset
+Software caused connection abort
+Connection reset by peer
+No buffer space available
+Transport endpoint is already connected
+Transport endpoint is not connected
+Cannot send after transport endpoint shutdown
+Too many references: cannot splice
+Connection timed out
+Connection refused
+Host is down
+No route to host
+Operation already in progress
+Operation now in progress
+Stale NFS file handle
+Structure needs cleaning
+Not a XENIX named type file
+No XENIX semaphores available
+Is a named type file
+Remote I/O error
+Quota exceeded
+No medium found
+Wrong medium type
+Unknown Error (
+Operation aborted
+sysconst.saborterror
+Abstract method called
+sysconst.sabstracterror
+Access denied
+sysconst.saccessdenied
+Access violation
+sysconst.saccessviolation
+Missing argument in format "%s"
+sysconst.sargumentmissing
+%s (%s, line %d)
+sysconst.sasserterror
+Assertion failed
+sysconst.sassertionfailed
+Bus error or misaligned data access
+sysconst.sbuserror
+Cannot create empty directory
+sysconst.scannotcreateemptydir
+Control-C hit
+sysconst.scontrolc
+Disk Full
+sysconst.sdiskfull
+No variant method call dispatch
+sysconst.sdispatcherror
+Division by zero
+sysconst.sdivbyzero
+Read past end of file
+sysconst.sendoffile
+Year %d, month %d, Week %d and day %d is not a valid date.
+sysconst.serrinvaliddatemonthweek
+%d %d %d is not a valid dateweek
+sysconst.serrinvaliddateweek
+%d is not a valid day of the week
+sysconst.serrinvaliddayofweek
+Year %d Month %d NDow %d DOW %d is not a valid date
+sysconst.serrinvaliddayofweekinmonth
+Year %d does not have a day number %d
+sysconst.serrinvaliddayofyear
+Invalid date/timestamp : "%s"
+sysconst.serrinvalidtimestamp
+exception at %p
+sysconst.sexceptionerrormessage
+Exception stack error
+sysconst.sexceptionstack
+Failed to execute %s : %d
+sysconst.sexecuteprocessfailed
+External exception %x
+sysconst.sexternalexception
+File not assigned
+sysconst.sfilenotassigned
+File not found
+sysconst.sfilenotfound
+File not open
+sysconst.sfilenotopen
+File not open for input
+sysconst.sfilenotopenforinput
+File not open for output
+sysconst.sfilenotopenforoutput
+Invalid filename
+sysconst.sinvalidfilename
+Arithmetic overflow
+sysconst.sintoverflow
+Interface not supported
+sysconst.sintfcasterror
+Invalid argument index in format "%s"
+sysconst.sinvalidargindex
+"%s" is not a valid boolean.
+sysconst.sinvalidboolean
+Invalid type cast
+sysconst.sinvalidcast
+Invalid currency: "%s"
+sysconst.sinvalidcurrency
+%f is not a valid date/time value.
+sysconst.sinvaliddatetime
+Invalid drive specified
+sysconst.sinvaliddrive
+Invalid file handle
+sysconst.sinvalidfilehandle
+"%s" is an invalid float
+sysconst.sinvalidfloat
+Invalid format specifier : "%s"
+sysconst.sinvalidformat
+"%s" is not a valid GUID value
+sysconst.sinvalidguid
+Invalid input
+sysconst.sinvalidinput
+"%s" is an invalid integer
+sysconst.sinvalidinteger
+Invalid floating point operation
+sysconst.sinvalidop
+Invalid pointer operation
+sysconst.sinvalidpointer
+Invalid variant type cast
+sysconst.sinvalidvarcast
+Invalid NULL variant operation
+sysconst.sinvalidvarnullop
+Invalid variant operation
+sysconst.sinvalidvarop
+Invalid variant operation (%s%.8x)
+sysconst.sinvalidvaropwithhresultwithprefix
+No error.
+sysconst.snoerror
+Threads not supported. Recompile program with thread driver.
+sysconst.snothreadsupport
+System error, (OS Code %d):
+sysconst.soserror
+Out of memory
+sysconst.soutofmemory
+Floating point overflow
+sysconst.soverflow
+Privileged instruction
+sysconst.sprivilege
+Range check error
+sysconst.srangeerror
+Exception in safecall method
+sysconst.ssafecallexception
+Too many open files
+sysconst.stoomanyopenfiles
+Unknown Run-Time error : %3.3d
+sysconst.sunknownruntimeerror
+Floating point underflow
+sysconst.sunderflow
+An operating system call failed.
+sysconst.sunkoserror
+Unknown run-time error code: 
+sysconst.sunknown
+Unknown error code: %d
+sysconst.sunknownerrorcode
+Variant array bounds error
+sysconst.svararraybounds
+Variant array cannot be created
+sysconst.svararraycreate
+Variant array locked
+sysconst.svararraylocked
+Invalid variant type
+sysconst.svarbadtype
+Invalid argument
+sysconst.svarinvalid
+Invalid argument: %s
+sysconst.svarinvalid1
+Variant doesn't contain an array
+sysconst.svarnotarray
+Operation not supported
+sysconst.svarnotimplemented
+Variant operation ran out memory
+sysconst.svaroutofmemory
+Variant overflow
+sysconst.svaroverflow
+Variant Parameter not found
+sysconst.svarparamnotfound
+Custom variant type (%s%.4x) already used by %s
+sysconst.svartypealreadyusedwithprefix
+Overflow while converting variant of type (%s) into type (%s)
+sysconst.svartypeconvertoverflow
+Could not convert variant of type (%s) into type (%s)
+sysconst.svartypecouldnotconvert
+Custom variant type (%s%.4x) is not usable
+sysconst.svartypenotusablewithprefix
+Custom variant type (%s%.4x) is out of range
+sysconst.svartypeoutofrangewithprefix
+Range check error for variant of type (%s)
+sysconst.svartyperangecheck1
+Range check error while converting variant of type (%s) into type (%s)
+sysconst.svartyperangecheck2
+Too many custom variant types have been registered
+sysconst.svartypetoomanycustom
+Unexpected variant error
+sysconst.svarunexpected
+An error, whose error code is larger than can be returned to the OS, has occured
+sysconst.sfallbackerror
+Toolserver is not installed, cannot execute Tool
+sysconst.snotoolserver
+sysconst.sshortmonthnamejan
+sysconst.sshortmonthnamefeb
+sysconst.sshortmonthnamemar
+sysconst.sshortmonthnameapr
+sysconst.sshortmonthnamemay
+sysconst.sshortmonthnamejun
+sysconst.sshortmonthnamejul
+sysconst.sshortmonthnameaug
+sysconst.sshortmonthnamesep
+sysconst.sshortmonthnameoct
+sysconst.sshortmonthnamenov
+sysconst.sshortmonthnamedec
+January
+sysconst.slongmonthnamejan
+February
+sysconst.slongmonthnamefeb
+March
+sysconst.slongmonthnamemar
+April
+sysconst.slongmonthnameapr
+sysconst.slongmonthnamemay
+June
+sysconst.slongmonthnamejun
+July
+sysconst.slongmonthnamejul
+August
+sysconst.slongmonthnameaug
+September
+sysconst.slongmonthnamesep
+October
+sysconst.slongmonthnameoct
+November
+sysconst.slongmonthnamenov
+December
+sysconst.slongmonthnamedec
+sysconst.sshortdaynamemon
+sysconst.sshortdaynametue
+sysconst.sshortdaynamewed
+sysconst.sshortdaynamethu
+sysconst.sshortdaynamefri
+sysconst.sshortdaynamesat
+sysconst.sshortdaynamesun
+Monday
+sysconst.slongdaynamemon
+Tuesday
+sysconst.slongdaynametue
+Wednesday
+sysconst.slongdaynamewed
+Thursday
+sysconst.slongdaynamethu
+Friday
+sysconst.slongdaynamefri
+Saturday
+sysconst.slongdaynamesat
+Sunday
+sysconst.slongdaynamesun
+4GW	
+pcInt
+pcUInt
+pcLong
+pculong
+pcshort
+pcushort
+pcchar
+pcuchar
+pcunsigned
+pcFloat
+pcDouble
+	pclDouble
+pDev
+pkDev
+pGid
+pIno
+pMode
+pnLink
+pOff
+pPid
+pSize
+pSSize
+pClock
+pTime
+ptime_t
+pwchar_t
+pUid
+pSockLen
+LongInt
+timeval
+ptimeval
+timespec
+	ptimespec
+TStatfs@
+PStatFS
+sched_param
+LongWord
+Pointer
+pthread_attr_t$
+_pthread_fastlock
+pthread_mutex_t
+pthread_mutexattr_t
+Byte
+Int64
+pthread_cond_t0
+pthread_condattr_t
+pthread_rwlock_t
+pthread_rwlockattr_t
+sem_t
+/bin/sh
+PBlkSize
+PBlkCnt
+PIno64
+POff64
+Char
+UtsName
+Word
+LongInt
+Stat@
+PStat
+Dirent
+pDirent
+SmallInt
+Pointer
+pDir
+UTimBuf
+pUtimBuf
+FLock
+LongWord
+PTms
+TFDSet
+pFDSet
+timezone
+	ptimezone
+PRLimit
+TRLimit
+iovec
+piovec
+sigset_t
+psigset
+psiginfo
+tsiginfo
+tfpreg
+pfpstate
+tfpstatep
+PSigContext
+TSigContextX
+tsigaltstack
+	Pucontext
+	TUcontext|
+signalhandler_t
+sigactionhandler_t
+sigrestorerhandler_t
+psigactionrec
+sigactionrec
+TGrpArr
+pGrpArr
+TFilDes
+pFilDes
+	ITimerVal
+TLineEndStr
+Char
+TextBuf
+LongInt
+Pointer
+Byte
+TextRecP
+FileRecL
+TLineEndStr
+Char
+TextBuf
+LongInt
+Pointer
+Byte
+TextRecP
+FileRecL
+Pmy_bool
+Pgptr
+Pmy_socket
+Pst_mysql_field
+LongWord
+st_mysql_fieldP
+PMYSQL_FIELD
+PMYSQL_ROW
+PMYSQL_FIELD_OFFSET
+Pmy_ulonglong
+Pst_mysql_rows
+st_mysql_rows
+PMYSQL_ROWS
+MYSQL_ROW_OFFSET
+PMYSQL_ROW_OFFSET
+Pst_used_mem
+st_used_mem
+	PUSED_MEM
+Pst_mem_root
+st_mem_root 
+	PMEM_ROOT
+Pst_mysql_data
+QWord
+st_mysql_data4
+PMYSQL_DATA
+mysql_option
+MYSQL_OPT_CONNECT_TIMEOUT
+MYSQL_OPT_COMPRESS
+MYSQL_OPT_NAMED_PIPE
+MYSQL_INIT_COMMAND
+MYSQL_READ_DEFAULT_FILE
+MYSQL_READ_DEFAULT_GROUP
+MYSQL_SET_CHARSET_DIR
+MYSQL_SET_CHARSET_NAME
+Pst_mysql_options
+Char
+Pointer
+st_mysql_options
+PTMYSQL_OPTIONS
+mysql_status
+MYSQL_STATUS_READY
+MYSQL_STATUS_GET_RESULT
+MYSQL_STATUS_USE_RESULT
+mysql_rpl_type
+MYSQL_RPL_MASTER
+MYSQL_RPL_SLAVE
+MYSQL_RPL_ADMIN
+	Pst_mysql
+st_mysql
+PMYSQL
+Pst_mysql_res
+st_mysql_resT
+PMYSQL_RES
+Pst_mysql_manager
+LongInt
+st_mysql_manager
+PMYSQL_MANAGER
+TExdendBuffer
+TProcess
+EProcess
+-geometry
+-title
+Cannot execute empty command-line
+-title
+%dx%d
+-geometry
+xterm
+%dx%d
++%d+%d
+Failed to create pipes
+PATH
+Failed to Fork process
+/dev/null
+TProcessOption
+poRunSuspended
+poWaitOnExit
+poUsePipes
+poStderrToOutPut
+poNoConsole
+poNewConsole
+poDefaultErrorMode
+poNewProcessGroup
+poDebugProcess
+poDebugOnlyThisProcess
+TShowWindowOptions
+swoNone
+swoHIDE
+swoMaximize
+swoMinimize
+swoRestore
+swoShow
+swoShowDefault
+swoShowMaximized
+swoShowMinimized
+swoshowMinNOActive	swoShowNA
+swoShowNoActivate
+swoShowNormal
+TStartupOption
+suoUseShowWindow
+suoUseSize
+suoUsePosition
+suoUseCountChars
+suoUseFillAttribute
+TProcessPriority
+ppHigh
+ppIdle
+ppNormal
+ppRealTime
+TProcessOptions
+TStartupOptions
+TProcess
+Boolean
+AnsiString
+LongWord
+TProcess$
+process
+Active
+ApplicationName
+CommandLine
+ConsoleTitle
+CurrentDirectory
+Desktop
+Environment0
+Options
+PriorityH
+StartupOptions
+Running
+ShowWindow
+WindowColumns
+WindowHeight
+WindowLeft
+WindowRows
+4	WindowTop
+WindowWidth
+FillAttribute
+EProcess
+process
+TPCharArray
+PPCharArray
+TPipeEnd
+peRead
+peWrite
+LongInt
+	TPipePair
+00000000000000000000000000000000000000000000000000000000000000000123012i02245501262301i2i20000000123012i02245501262301i2i20000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+Function "%s" (strutils) is not yet implemented
+0123456789ABCDEF
+0123456789ABCDEF
+TStringSearchOption
+soDown
+soMatchCase
+soWholeWord
+TStringSearchOptions
+TSoundexLength
+TSoundexIntLength
+TCompareTextProc
+TIniFileKey
+TIniFileKeyList
+TIniFileSection
+TIniFileSectionList
+TCustomIniFile
+TIniFile
+TMemIniFile
+[]=;\
+TIniFileKey
+TIniFileKey
+IniFiles
+TIniFileKeyList<
+IniFiles
+TIniFileSection
+TIniFileSection
+IniFiles
+TIniFileSectionList
+IniFiles
+TCustomIniFile
+TCustomIniFile
+IniFiles
+TIniFileD
+IniFiles
+TMemIniFile
+IniFiles
+LongWord
+st_dynamic_array
+pst_dynamic_array
+PLongint
+	PSmallInt
+PByte
+PWord
+PDWord
+PDouble
+pppchar
+enum_server_command
+	COM_SLEEP
+COM_QUIT
+COM_INIT_DB	COM_QUERY
+COM_FIELD_LIST
+COM_CREATE_DB
+COM_DROP_DB
+COM_REFRESH
+COM_SHUTDOWN
+COM_STATISTICS
+COM_PROCESS_INFO
+COM_CONNECT
+COM_PROCESS_KILL	COM_DEBUG
+COM_PING
+COM_TIME
+COM_DELAYED_INSERT
+COM_CHANGE_USER
+COM_BINLOG_DUMP
+COM_TABLE_DUMP
+COM_CONNECT_OUT
+COM_REGISTER_SLAVE
+Pst_net
+Pointer
+LongInt
+LongWord
+Byte
+ShortInt
+Char
+st_netl
+PNET
+enum_field_types
+FIELD_TYPE_DECIMAL
+FIELD_TYPE_TINY
+FIELD_TYPE_SHORT
+FIELD_TYPE_LONG
+FIELD_TYPE_FLOAT
+FIELD_TYPE_DOUBLE
+FIELD_TYPE_NULL
+FIELD_TYPE_TIMESTAMP
+FIELD_TYPE_LONGLONG
+FIELD_TYPE_INT24
+FIELD_TYPE_DATE
+FIELD_TYPE_TIME
+FIELD_TYPE_DATETIME
+FIELD_TYPE_YEAR
+FIELD_TYPE_NEWDATE
+FIELD_TYPE_ENUM
+FIELD_TYPE_SET
+FIELD_TYPE_TINY_BLOB
+FIELD_TYPE_MEDIUM_BLOB
+FIELD_TYPE_LONG_BLOB
+FIELD_TYPE_BLOB
+FIELD_TYPE_VAR_STRING
+FIELD_TYPE_STRING
+Prand_struct
+Double
+rand_struct
+Item_result
+STRING_RESULT
+REAL_RESULT
+INT_RESULT
+pitem_result
+Pst_udf_args
+st_udf_args
+	PUDF_ARGS
+Pst_udf_init
+st_udf_init
+	PUDF_INIT
+EPipeError
+ENoReadPipe
+ENoWritePipe
+	EPipeSeek
+EPipeCreation
+TInputPipeStream
+TOutputPipeStream
+Failed to create pipe.
+Cannot write to InputPipeStream.
+Cannot seek on pipes
+Cannot read from OuputPipeStream.
+Cannot seek on pipes
+EPipeError
+Pipes
+ENoReadPipe
+Pipes
+ENoWritePipeD
+Pipes
+	EPipeSeek
+Pipes
+EPipeCreation
+Pipes
+TInputPipeStreamp
+Pipes
+TOutputPipeStream
+Pipes
+.shstrtab
+.interp
+.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rel.plt
+.text
+.dynamic
+.got.plt
+.data
+.bss

@@ -1,0 +1,4089 @@
+/usr/libexec/ld-elf.so.1
+FreeBSD
+libc.so.4
+in6addr_any
+strcpy
+waitpid
+vsprintf
+connect
+strerror
+___toupper
+snprintf
+_DYNAMIC
+atol
+usleep
+getpid
+memcpy
+execl
+recvfrom
+socket
+select
+strncasecmp
+bzero
+freeaddrinfo
+_init
+_DefaultRuneLocale
+accept
+calloc
+write
+environ
+ctime
+bind
+__deregister_frame_info
+setsockopt
+__progname
+strstr
+__error
+signal
+read
+___runetype
+strncmp
+strncpy
+unlink
+strcasecmp
+sendto
+_CurrentRuneLocale
+listen
+fork
+sscanf
+__inet_ntoa
+__inet_ntop
+localtime
+srand
+getppid
+strcmp
+_fini
+atexit
+getaddrinfo
+stat
+_GLOBAL_OFFSET_TABLE_
+atoi
+_exit
+open
+strchr
+setsid
+fcntl
+__register_frame_info
+close
+strpbrk
+___tolower
+free
+getsockname
+_edata
+__bss_start
+_end
+8/u	
+PSVW
+<0t	<1t
+<0t	<1t
+Wh@V
+t]<#tY1
+Ph-Y
+PRh Z
+Wh`P
+|WVS
+PVVh
+Ph#[
+Ph+[
+PWSh
+Vh@\
+Rh&]
+WVh4]
+WVh4]
+Ph4]
+;^ t
+;F u
+r<h:]
+Ph#i
+Ph_i
+Ph@j
+Ph`P
+Whbj
+Ph`P
+Ph`P
+Sh`P
+Ph`P
+Rh`P
+,WVS
+Rh`P
+!u2;}
+Ph`P
+Vh k
+Ph`P
+Vh`P
+WVh`l
+Rh`P
+Ph`P
+Ph`P
+PjpW
+PjsW
+PjmW
+PjtW
+PjiW
+PjnW
+PjkW
+PjlW
+Ph`P
+Wh`P
+VWh`l
+jdh@n
+Sh@p
+,WVS
+;5@P
+F;5@P
+Ph+q
+Vh7q
+7hPq
+7h[q
+6hPq
+6h[q
+gfff
+t<Ph
+Ph(t
+Ph>t
+Ph]t
+Phst
+gfff
+Ph|t
+RWSh
+<#u:
+<#u;
+Ph6x
+PhMx
+Ph{x
+r<h6y
+p4hKy
+Ph`y
+Phuy
+PWh.z
+Ph@{
+joj+j
+jvj+j
+joj-j
+jvj-j
+Vho|
+Vh`|
+;=u;C
+Vh!}
+Vh,}
+Sh4}
+PhJ}
+LWVS
+Vh ~
+RhP~
+Rhn~
+s0Vh 
+WVh_
+PSh~
+<#t/
+WSh 
+VSh!
+P0WVh
+tJh>
+<#t,
+\WVS
+s<h:
+Ph`P
+\WVS
+,WVS
+Ph`P
+Ph`P
+PVSh`P
+Wh`P
+VPh`P
+PSh=
+PShZ
+PShj
+PShz
+v<hP
+C	Ph
+;5@P
+C(Ph
+CHPh-
+F;5@P
+A< u
+<%u<B
+<nu"
+B< u
+PRSVh
+PRhI
+Vh`%
+Vh`%
+,WVS
+<\u4B
+	<nt
+;5@P
+F;5@P
+t-;]
+C	<e
+<ftX
+t ;}
+tA;}
+t:;}
+{	fu7
+=u7@
+>*uz
+Ph`P
+>*uT
+;=@P
+G;=@P
+;5@P
+PSh`
+;5@P
+F;5@P
+{	du
+t#;]
+{	du
+t=;]
+{	eu2
+{	fu+
+{	eu
+{	du
+Ph`P
+VWhi
+t`;]
+{	eu2
+VSh6
+VShE
+VShT
+PVhc
+PVh@
+;#u2
+8#ui
+C<PW
+F;5@P
+{	du
+lWVS
+\t	1
+<*u	
+|WVS
+LWVS1
+t ;]
+{	cu/
+Ph G
+Ph G
+Ph`Q
+Ph`Q
+Wh .
+ VVVh
+Ph`P
+|WVS
+?#uN
+Ph`P
+ F;u
+;#u+
+Ph`P
+Ph`P
+Vh`P
+Ph`P
+Ph`P
+Sh`P
+Ph`P
+Vh`P
+PSh 
+PWh5
+<+t:<@u@
+PShl
+PShl
+PShl
+<	w\
+,WVS
+,WVS
+8$t%
+SVWh
+<$u]
+?*t!
+8#tl
+v<h^
+vDhi
+vHht
+PVhE
+\WVS
+t!WjL
+,WVS
+<+u&C
+<-uDC
+<cu3
+H<#t
+HPh&
+:*u5
+8*tQ
+<@uKG
+9FH}
+\WVS
+t!SjL
+s<h^
+WVS1
+WVS1
+;#t5
+{	eu@
+<$uD
+SVh,
+SVh,
+WVS1
+~	fu:
+F,Ph
+,WVS
+SVWh(
+PVhV
+WVh@
+PShA
+PVha
+,WVS
+none
+%s %s will not join any channels
+init: Error: Illegal nick %s
+init: Error: Couldn't add %s
+%s Stray LOGIN setting (ignored)
+%s Stray IRCNAME setting (ignored)
+%s Invalid channel name
+%s Stray SIGMASTER setting (ingored)
+%s Multiple SIGMASTER: Only one bot can be sigmaster (ignored)
+%s Stray CMDCHAR setting (ignored)
+%s Stray SET setting (ignored)
+%s Unknown set (%s) in %s
+%s Channel SET (%s) with no active channel (ignored)
+%s Stray TOG setting (ignored)
+%s Unknown toggle (%s) in %s
+%s Channel TOG (%s) with no active channel (ignored)
+%s Stray MODES setting (ignored)
+%s Stray VIRTUAL setting (ignored)
+%s Stray WINGATE setting (ignored)
+init: Syntax error in WINGATE statement, port number expected
+init: Service %s already exists (ignored)
+init: Failed to add service %s
+SERVICE
+ALIAS
+WINGATE
+VIRTUAL
+MODES
+SIGMASTER
+SERVER
+TOPIC
+CHANNEL
+IRCNAME
+LOGIN
+CMDCHAR
+NICK
+USERFILE
+LINK
+LINKPORT
+LINKPASS
+ENTITY
+AUTOLINK
+NOSEEN
+NOSHELLCMD
+NOSIGNALS
+HASONOTICE
+EXPIRE
+REASON
+TIME
+SHIT
+KICKSAY
+Do nine men interpret Nine men I nod
+PASS
+PROT
+ECHO
+AVOICE
+ACCESS
+MASK
+HANDLE
+init: Unknown configuration item: "%s" (ignored)
+./cfg
+./session
+init: Restoring previously saved session...
+init: Couldn't open the file %s
+init: Error: No bots in the configfile
+%s Entity name not set, deactivating linkport
+init: Mech(s) added [ 
+, ...
+%s%s
+Users on %s that are idle more than %i second%s:
+%s: %s
+--- end of list ---
++o %s
+PRIVMSG %s :%s
+Idle for %s minutes
+Quit the nick floods you lamer
+Auto-Shit
+Get the hell out nick-flooding lamer!!!
+%s kicked from %s for nick flooding
+JOIN %s %s
+TOPIC %s :%s
+PART %s
+JOIN %s %s
+spymsg
+[%s] %s
+statmsg
+logs/%s.%d.%d.%d
+[%s] %s
+Channel
+]                             [
+Users
+]   [
+]   [
+Voiced
+]   [
+Modes
+%-10i%-8i%-11i%s
+(Trying to rejoin...)
+(Inactive)
+--        --      --         %s
+ (current)
+%c%s%s
+%-35s   %s
+End of Channels
+I'm not on %s, checking old channels...
+Nope...not found
+Users on %s the last time I was there:
+Names on %s:
+<UNKNOWN>
+MODE %s %c
+TRUE
+FALSE
+(massmode(2)) willdo = %s (%s[%i]) (pat=%s)
+(channel_massmode)
+(...)
+%s %s
+%s!%s@%s
+WINGATE
+WHOM
+WHOIS
+WALL
+VOICE
+VIRTUAL
+VERIFY
+USTATS
+USET
+USERLIST
+USERHOST
+USER
+USAGE
+UPTIME
+UNVOICE
+UNVERIFY
+UNBAN
+TOPIC
+TIME
+STATS
+STATMSG
+SPYMSG
+SPYLIST
+SITEKB
+SITEBAN
+SHUTDOWN
+SHOWIDLE
+SHITLVL
+SHITLIST
+SHIT
+SETPASS
+SERVICE
+SERVERLIST
+SERVER
+SEEN
+SCREW
+SAVELISTS
+SAVELEVELS
+SAVE
+RSTATMSG
+RSPYMSG
+RSPY
+RSHIT
+RESET
+REPORT
+REHASH
+QSHIT
+PICKUP
+PASSWD
+PART
+ONTIME
+NICK
+NEXTSERVER
+NAMES
+MODE
+LUSERS
+LOADLISTS
+LOADLEVELS
+LOAD
+LINK
+LAST
+KSLIST
+KICK
+JOIN
+INVITE
+INSULT
+IDLE
+HOST
+HELP
+FORGET
+ESAY
+ECHO
+DOWN
+DEOP
+DELSERVER
+DEBUG
+CYCLE
+CTCP
+CSERV
+CORE
+CMDCHAR
+CLVL
+CLEARSHIT
+CHAT
+CHANNELS
+CHACCESS
+CCHAN
+BOOT
+BANLIST
+AWAY
+ADDSERVER
+ACCESS
+@ <channel> [-ops|-nonops] [pattern]
+@ [channel] [nick|mask [...]]
+@ <host>
+@ <password>
+@ <nick|userhost>
+@ <PORT port> | <SERVER host> | <SEND>
+@ [+minlevel] [-maxlevel] [#channel] [usermask] [-B] [-C]
+@ <handle> <modifiers [...]>
+@ <command>
+@ [channel] <text>
+@ [channel] <toggle> [0|1|on|off]
+@ <type> [servername]
+@ <channel> [channel]
+@ [channel] <nick|userhost>
+@ [seconds]
+@ <channel> <nick|userhost> <newlevel>
+@ <channel> <nick|userhost> <level> [expire] <reason>
+@ <handle> <password>
+@ [channel] <setting> <value>
+@ <servername> [port] [login] [ircname]
+@ <add|del> [channel] <to> <message>
+@ <channel> <message>
+@ <channel> [nick|channel]
+@ <channel> <nick|userhost>
+A Santa lives evil at NASA
+@ <channel> <pattern of words banned>
+@ <nick> [reason]
+@ [oldpassword] <newpassword>
+@ [channel] [nick|mask]
+@ <nick|channel> <message>
+@ <channel> <modes>
+@ [channel] <action>
+@ <UP|DOWN|ADD|DEL|PORT> <...>
+LINK PORT <linkport>
+LINK-PORT
+LINK DEL <entity>
+LINK-DEL
+LINK ADD <entity> <linkpass> <host> <linkport>
+LINK-ADD
+@ [number of commands]
+@ <channel> <"String to kick on"> <"kick reason">
+@ [channel] <nick> [reason]
+@ <channel> [key]
+@ [channel] [nick]
+@ [nick|channel]
+@ <nick>
+@ <ADD|DEL> <handle> <mask>
+@ [topic|command|level|pattern]
+Degas are we not drawn onward no In union drawn onward to new eras aged
+@ <channel>
+@ [channel] <message>
+@ <on|off>
+@ <raw_irc>
+@ [reason]
+@ [channel] <nick|pattern [...]>
+@ <servername> [port]
+@ <handle>
+@ <nick|channel> <request>
+@ [cmdchar]
+@ [=botnick] <command>
+@ <handle> <level>
+@ <command> [level]
+@ [nick]
+@ [channel]
+@ [channel] <nick|mask>
+@ [message]
+@ <host> [port]
+@ <handle> <channel> <nick|userhost> <level> [aop] [prot] [pass]
+@ [channel] [nick|userhost]
+Who do you want me look for?
+Illegal nick
+%s is me you idiot!
+Trying to find yourself %s?
+I have no memory of %s
+%s is right here moron!
+%s parted from %s %s ago
+%s signed off %s ago with message [%s]
+%s changed nicks to %s, %s ago
+%s was kicked by %s with message [%s] %s ago
+No help found on that topic.
+End of Help
+Help on %s
+Level needed: %i
+Commands available to you
+Level %3i
+(do_help) printing all level %i commands
+           
+Commands available at level %i
+Commands that match query %s
+(none)
+./help
+(do_help) helpfile search = '%s'
+*** %s was kicked by %s (%s)
+INVITE %s %s
+*** Joins: %s (%s)
+You are banned on this server
+Lame Control-Chars in UserId
++o %s
+%s%s
+none
+no_info
+NICK %s
+*** %s is now known as %s
+(on_msg) Public command (%s) ignored
+Use "VERIFY" to get verified first
+:%s[%i]: Executing %s[%i]
+Unknown
+[%s] %-10s %11s[%i] (*@%s)
+Squeeze me?
+:%s PRIVMSG %s :%s
+<%s> %s
+$MSG %s@%s %s
+[message] <%s> %s
+* %s %s
+STOP YELLING ALREADY!!!
+Get out you flooder!
+%s kicked from %s for flooding
+[message] * %s %s
+*** %s sets mode: %s
+Doh! This is revenge fucker!
+MODE %s
+*!*@*
+%s %i 
++%s-%s %s %s
+Immortality level must be between 0 and %i
+Can't change level to one higher than yours
+The level needed for that command is %i
+To change it, specify a level
+Can't change a level that is higher than yours
+The level was not changed
+Immortality level changed from %i to %i
+That command is not known
+./level
+%s %d
+Usage: %s%s
+You cant use Windows 2000, dont you know that?
+Usage: (missing)
+Unknown command: %s
+./session
+entity %s
+linkpass %s
+linkport %i
+link %s %s %s %i
+noseen
+nosignals
+noshellcmd
+hasonotice
+autolink
+nick %s
+login %s
+virtual %s
+wingate %s %i
+ircname %s
+modes %s
+service %s %s
+cmdchar %c
+userfile %s
+set %s %i
+set %s %s
+tog %s %c
+channel %s %s
+alias %s %s
+server %s %i %s
++l %s
+%s %s
+./%s.seen
+Killing mech: %s
+Saving the lists...
+Lists could not be saved to file %s
+SeenList could not be saved to file %s
+./level
+Levels could not be saved to %s
+Shutdown complete
+./r/quit
+QUIT :%s
+(signoff) Removing pipuser stuff...
+(signoff) Removing seenlist...
+(signoff) Removing userlist...
+(signoff) Removing lastcmd list...
+(signoff) Unlinking bot record from linked list...
+(signoff) All done.
+[CtS] Setting rejoin- and synced-status for all channels
+MODE %s +
+(parse_avoice) %s %s
+%s %s
+TOPIC %s :
+TOPIC %s :%s
+NICK %s
+./r/away
+away
+AWAY :%s
+*!*@*
+(none)
+C:%s AC:%i CS:%s:%i
+C:%s AC:%i CS:(not in serverlist)
+Saving Lists
+Session could not be saved to file %s
+[PSI] {%i} connection established (%s) [ASYNC]
+[PSI] Connecting via WinGate proxy...
+%s %i
+PASS :
+%s%s
+NICK %s
+USER %s . . :%s
+[PSI] {%i} errno = %i; closing pipeuser connection
+Connecting to host 
+*Connected
+[PSI] WinGate proxy active
+[PSI] {%i} errno = %i; closing server socket
+I have no knowledge of channel %s
+Service definition already exists.
+Error adding service.
+Service added successfully.
+Service definition specified doesn't exist!
+Error deleting service.
+Service deleted.
+LIST
+Services List:
+  LOGIN:
+    TO: %s, MSG: %s
+  NEEDOP for %s:
+LOGIN
+[Immortality stats for %s on %s]
+          Handle: %s
+ [BOT]
+      User level: %i%s
+  Recognized u@h: %s%s
+                  %s%s
+No password set
+        Verified: %s
+   (Protection toggled off)
+ Protected level: %-3i%s
+   (Auto-op is toggled off)
+      Auto Opped: %s%s
+  Partyline Echo: %s
+[Shitlist stats for %s on %s]
+   Shitlisted as: %s
+   Shitlisted by: %s
+      Shitted on: %s
+Shitlisted level: %i
+Shitlist expires: %s
+<No reason>
+ Shitlist reason: %s
+[End of UStats]
+The immortality level needed for that command is: %i
+Immortality Level for %s
+Channel: %s  Access: %i
+You have already been authorized
+You don't need a password to do commands
+No password given, not verified
+User record conflict
+You are now officially immortal
+%s %s
+Incorrect password, not authorized
+You are now mortal
+You are not verified
+Current time is: %s
+Uptime: %s
+Ontime: %s
+Current channel: %s
+(none)
++o %s
+-o %s
++v %s
+INVITE %s %s
+User(s) invited to %s
+You are already DCC chatting me
+User %s booted
+User %s is not connected
+ACTION %s
+Nice try, but I don't think so
+I have no DCC connection to %s
+Message sent to %s
+Invalid channel name
+Attempting the join of %s
+Leaving %s
+PART %s
+Nickname too long: %s
+NICK %s
+./r/quit
+I'll get you for this!!!
+Handle must be between 1 and %i chars in length
+Handle %s is already in use
+No nick or userhost specified
+No level specified
+Valid levels are from 0 thru %i
+Level must be less than or equal to yours on %s
+%s %s on %s is already a user
+%s has been added as %s on %s
+Password:
+Access level: %i  Auto-op: %s  Protect level: %i  %s %s
+Problem adding the user
+Unknown handle
+Deleting bot %s
+%s has a higher immortality level than you on %s
+User %s has been purged
+./level
+Levels could not be saved to %s
+Levels were written to %s
+Levels could not be read from %s
+Levels were read from %s
+ could not be
+Lists%s saved to file %s
+Lists%s read from file %s
+No nick specified
+Ban attempt of %s
+%s banned on %s
+Siteban attempt of %s
+%s sitebanned on %s
+Kickban attempt of %s
+Requested Kick
+%s kickbanned on %s
+Sitekickban attempt of %s
+%s sitekickbanned on %s
+Kick attempt of %s
+./r/kicks
+%s kicked from %s
+-ops
+-nonops
+I have no information on %s
+ (from memory)
+Users on %s%s
+%4i%c   %c %9s %s
+No matching users found
+No users found
+End of Userlist
+No reason specified
+%s is in my shitlist already for this channel
+%s is a God compared to you on %s
+*!*@*
+Problem shitting *!*@*, try again
+Valid levels are from 1 thru %i
+The user has been shitted as %s on %s
+The shitlist will expire: %s
+Problem shitting the user
+%s is not in my shit list on that channel
+The person who did this shitlist has a higher level than you
+User %s is no longer being shitted on %s
+Unknown user: %s
+access denied
+Level changed from %i to %i
+You have been unbanned on %s
+%s unbanned on %s
+TOPIC %s :%s
+Topic changed on %s
+spymsg
+Already redirecting messages to you
+Now redirecting messages to you
+statmsg
+(%s) Added to mech core
+No longer redirecting messages to you
+(%s) Removed from mech core
+Hostname exceeds maximum length
+Problem switching servers
+Trying new server: %s on port %i
+QUIT :Trying new server, brb...
+Switching servers...
+QUIT :Switching servers...
+Cycling channel %s
+Object must be a channel
+You don't have enough access on %s
+You are already spying on %s
+Now spying on %s
+(do_rspy) %s -%s->%s
+[RSPY] type=%s who=%s
+No longer spying on %s for you
+No longer spying on %s for %s
+You are not spying on %s
+Spy List
+%-12s %s
+End of List
+Set by
+Banlist on %s
+Ban pattern
+%30s
+%-30s   %s
+End of Banlist
+There are no active bans on %s
+Password must be at least %i characters long
+Old password is not correct
+New password has been set
+none
+Password for %s has been removed
+New password for %s has been set
+The level has been changed
+That user is not on any of my channels
+%s has been idle for %s
+SeenList could not be saved to file %s
+SeenList could not be loaded from file %s
+Channel %s is not in memory
+Channel %s is now forgotten
+Channel %s couldn't be forgotten
+Please put quotes ("'s) around the arguements
+Example: KS * "Fuck you" "No, fuck you %%n"
+I'm already kicking on "%s"
+*%s*
+Now kicking on "%s" on %s
+Specify a channel name or '*' for all
+No kicksay string specified
+I'm not kicking on that
+No longer kicking on %s
+[%s] %s[%i] has disconnected
+(process_incoming_chat) new user connecting
+[%s] %s[%i] has connected
+[%s] %s
+(parse_dcc_input) chat connected [ASYNC]
+(parse_dcc_input) connection timed out (%s)
+Use "VERIFY" to get verified first
+(dcc_connect) %s [%s,%s]
+DCC CHAT CHAT %s %i
+DCC CHAT CHAT %lu %i
+[CTCP] :%s[%i]: Requested Version Info
+./r/versions
+VERSION %s
+EnergyMech by ZmEu: v4.0.1
+[CTCP] :%s[%i]: Requested Finger Info
+FINGER %s
+[DCC] :%s[%i]: Requested DCC %s [%s]
+CHAT
+[CTCP] :%s[%i]: Requested Ping Info
+PING %s
+PING
+ACTION
+FINGER
+VERSION
+[CTCP] :%s[%i]: Unknown [%s]
+LN_PIPE_HASNICK
+LN_SAYNICK_SEND
+LN_DCCUSER
+LN_BOT
+LN_ENTITY
+LN_PASSWAIT
+LN_LINKDEAD
+LN_REMOTE
+LN_USER
+LN_UPLINK
+LN_CONNECTED
+LN_TRYING
+LN_UNKNOWN
+CN_NEXTSERV
+CN_BOTDIE
+CN_DISCONNECT
+CN_ONLINE
+CN_CONNECTED
+CN_TRYING
+CN_NOSOCK
+UNKNOWN
+%s; ---
+TRUE
+FALSE
+%s; used		%s
+%s; ident		%i
+%s; name		"%s"
+%s; pass		"%s"
+%s; realname		"%s"
+%s; usenum		%i
+%s; port		%i
+%s; err		%s%i
+%s; lastconnect	%s%s (%lu)
+%s; lastattempt	%s%s (%lu)
+%s; maxontime		%s (%lu)
+; VERSION		"%s"
+; SRCDATE		"%s"
+; BOTLOGIN		"%s"
+; BOTCLASS		"%s"
+; current		%.8x
+; backup		%.8x
+; executable		"%s"
+; configfile		"%s"
+> will
+  ; seen		%s
+  ; shellcmd		%s
+  ; signals		%s
+  ; onotice		%s
+  ; sessions		%s
+  ; autolink		%s
+; uptime		%s (%lu)
+; short_tv		%s (%is wait)
+; userident		%i
+; serverSIZE		%i
+> serverBASE		%.8x
+> botlist		%.8x
+  ; bot			%.8x
+  ; next		%.8x
+  ; connect		%s (%i)
+  ; sock		%i
+  ; ip			%s
+  > server		%i
+    ; Server		%.8x
+    
+  > nextserver		%i
+  ; nick		"%s"
+  ; wantnick		"%s"
+  ; login		"%s"
+  ; ircname		"%s"
+  ; cmdchar		'%c'
+  ; userlistSIZE	%i
+  > userlistBASE	%.8x
+    ; User		%.8x
+    ; used		%s
+USERLIST_USER
+USERLIST_KICKSAY
+USERLIST_SHIT
+(unknown)
+    ; type		%s (%i)
+    ; ident		%i
+    ; chan		"%s"
+    ; name		"%s"
+    ; pass		"%s"
+    > parm.umask	%.8x
+      ; next		%.8x
+      ; mask		"%s"
+      ; ---
+    ; whoadd		"%s"
+    ; reason		"%s"
+    ; parm.kicksay	"%s"
+    ; parm.shitmask	"%s"
+    ; time		%s
+    ; expire		%s
+    ; ---
+  > Channels		%.8x
+    ; channel		%.8x
+    > Chan->users
+      ; nick		"%s"
+      ; user@host	"%s@%s"
+  ; CurrentChan		%.8x
+  > ClientList		%.8x
+    ; Client		%.8x
+Tacocat
+  ; seenfile		"%s"
+  > SeenList		%.8x
+    ; Seen		%.8x
+    ; next		%.8x
+    ; nick		%.8x -> "%s"
+    ; userhost		%.8x -> "%s"
+    ; signoff		%.8x -> "%s"
+    ; kicker		%.8x -> "%s"
+    ; time		%s (%lu)
+    ; selector		%i
+  ; lastreset		%s (%lu)
+  ; lastping		%s (%lu)
+  ; lastrejoin		%s (%lu)
+  ; lastsave		%s (%lu)
+  ; laststatus		%s (%lu)
+  ; lastctcp		%s (%lu)
+  ; conntry		%s (%lu)
+  ; activity		%s (%lu)
+  ; uptime		%s (%lu)
+  ; ontime		%s (%lu)
+  ; ---
+; my_entity		"%s"
+; my_pass		"%s"
+; linkport		%i
+; linksock		%i
+; last_autolink		%s (%lu)
+; botlinkident		%i
+> botlinkBASE		%.8x
+  ; Link		%.8x
+  ; used		%s
+  ; ident		%i
+  ; linktype		%s (%i)
+  ; nodetype		%s (%i)
+  ; uplink		%i: "%s"
+  ; sendlink		%i: "%s"
+> linkconfBASE		%.8x
+%-4i: Ptr      = 0x%.8x
+	Unused
+	Ident    = %i
+	Name     = '%s'
+	Pass     = '%s'
+	Host     = '%s'
+	Port     = %i
+	AutoIdx  = %i
+(do_debug) init...
+debug.%lu
+Unable to write debug information to file
+(do_debug) all done.
+Debug information has been written to file
+*.net *.split
+Quit: 
+%-2.2d:%-2.2d:%-2.2d %s %-2.2d %d
+%i:%-2.2d %cm %s %s %d
+%-2.2d:%-2.2d
+%s %-2.2d
+%d d, %d h, %d m, %d s
+%d day%s %-2.2d:%-2.2d:%-2.2d
+No information found for %s
+Quit the damn mass modes
+Auto-Shit
+Get the fuck out mass moding lamer
+-o %s
+%s is Protected
+(is_localbot) PANIC: called with a NULL arg!
+*!*%s@%s
+-o+b %s %s
+A number is expected instead of a string
+Alias replacing original command (ignored)
+init: Alias replacing original command (ignored)
+Alias %s already exists (ignored)
+init: Alias %s already exists (ignored)
+Alias %s added.
+Could not find function %s.
++o %s
+$NEEDOP %s %s
+LinkEvents
+%lu  %s
+New Nick    %-10s -> %s
+$NICK %s %s %s
+adding
+deleting
+(link_dccuser) %s DCC user = '%s'
+$LINK USER %s %s %s
+Beeb
+$QUIT %s %s %s
+(remlink) Removing link...
+LC %s ( H:%s P:%i ) reset to LC_NOTRY (remlink)
+$QUIT %s
+$QUIT %s %s
+Removing    %-10s ( %.8x -- S:%i I:%i U:%i L:%i ) DCCUSER (%s)
+Removing    %-10s ( %.8x -- S:%i I:%i U:%i L:%i )
+(remlink) Link removed.
+%c%s
+$CMD $%s@%s %s %s
+(do_linkcmd) $CMD $%s@%s %s %s
+(null)
+(do_link) %s
+No entity name set, no linking possible
+--[Entity]-----[Password]-----[Host]--------------------------[Port]--
+none
+  %-11s  %-13s  %-30s  %s
+-- Total: %i known entities --
+Usage: LINK UP <entity>
+Entity "%s" is ME!
+Unknown entity "%s"
+Entry for "%s" is missing hostname
+Entity "%s" has no linkport!
+Entity "%s" is already linked!
+Trying to link to entity "%s"
+LINK-ADD
+Entity "%s" added
+LINK-DEL
+Entity "%s" removed
+Entity "%s" not found
+DOWN
+$MSG $ Forced delink of "%s" by %s[%i] @ %s
+Entity "%s" unlinked
+PORT
+LINK-PORT
+(do_linkcmd) linkport, ps = %s, port = %i
+Port number must be in the range 1-65535
+Changing linkport to %i
+<unknown>
+[LiW] N:%s B:%s
+Net Write   %-10s ( %.8x -- S:%i I:%i U:%i L:%i ): %s
+Write Error %-10s ( %.8x -- S:%i I:%i U:%i L:%i ): %s (%i)
+(newsocklink) Adding new link...
+(Link_addbot) entity = '%s' pass = '%s'
+(Link_addbot) entity already linked
+(Link_addbot) Authentication failed
+Link established to "%s"
+AUTH
+$LOGIN %s AUTH
+$LINK ENTITY %s
+$LINK BOT %s %s
+(Link_addbot) Link added = '%s'
+(Link_quit) removing :: entity = %s, bot = %s, nick = %s
+<%s> %s
+$MSG %s %s
+$LINK %s
+ENTITY
+USER
+(Link_link) adding new link :: entity = %s, type = %s, bot = %s, nick = %s
+energymech
+(do_linkcmd) Checking command '%s' (%i) ...
+$CMD %s %s %s
+(Link_reply) from,to,rest: %s %s %s
+[%s] %s
+$RPL %s %s %s
+INVITE %s %s
+$NI %s %s
+JOIN %s %s
+$K %s %s %s
+$K %s %s
+$VRFY %s %s
+$VRFY
+$NICK
+$NEEDOP
+$RPL
+$CMD
+$LINK
+$MSG
+$QUIT
+$LOGIN
+:%s 001 %s :Welcome to the Internet Relay Network %s
+:%s 002 %s %s
+:%s 003 %s %s
+:%s 004 %s %s
+:%s!%s NICK :%s
+NAMES %s
+:%s!%s JOIN %s
+NICK
+[PLI] {%i} Saving nick for pipeuser; %s
+PASS
+[PLI] {%i} No matching botnick found for pipeuser request
+[PLI] {%i} No such user: %s
+[PLI] {%i} User %s doesn't have global access
+[PLI] {%i} Access below 100 (%i) or password mismatch
+NOTICE %s :(%s) Pipe is already in use by %s
+[PLI] {%i} Link converted to pipeuser: %s
+Please enter your password.
+[PLI] Telnet login for %s (%s[%i])
+[PLI] Telnet login for %s (<NO MATCH>)
+[PLI] Passwait: Link->nick = %s, Link->uplink = %i
+%s!telnet@energymech
+[PLI] Making telnet %s[%i] -> %s
+[%s] %s[%i] has connected
+[%s] %s
+[PLI] Conversion done
+:%s NOTICE %s :%s: Illegal nick
+NICK %s
+PART %s
+PRIVMSG %s %s
+PRIVMSG
+PART
+JOIN
+QUIT
+%s %s
+[PPI] Closing connection to pipeuser
+Socket accept ( linksock:%i )
+accept() error; %s (%i)
+[PLI] Asynch connect
+$LOGIN %s %s
+Net Read    %-10s ( %.8x -- S:%i I:%i U:%i L:%i ): %s
+Link to "%s" failed
+[PLI] Timeout for '%s'; removing...
+Timeout for '%s' (0x%.8x); removing... ( S:%i )
+[PLI] Trying to autolink...
+LC %s ( H:%s P:%i ) reset to LC_NOTRY
+LC %s ( H:%s P:%i ) set to LC_LINKED
+LC %s ( H:%s P:%i ) set to LC_HASTRY
+Autolink attempt to %s ( H:%s P:%i )
+s!shell@energymech
+0!pipe@energymech
+Toggle for updating the +l user limit
+DYNAMIC
+Auto-voicing mode
+AVOICE
+Toggle for channel logging
+CHANLOG
+Toggle for making the bots idle time always low
+NOIDLE
+Set for setting the bot automatically away
+AAWAY
+Toggle for random CTCP FINGER finger replies
+Toggle for random CTCP VERSION replies
+Toggle for ignoring all CTCP requests
+CLOAK
+Toggle for ignoring wallops in spymsg
+Toggle seeing who does commands
+Toggle for kicking users that have control chars in there userid
+Toggle for allowing non-users dcc stuphs
+Toggle for kicking on banned words
+Toggle for the necessity of using the command char
+The modes to enforce
+Toggle for checking of massmodes
+MASS
+Toggle for mode enforcement
+ENFM
+Toggle for letting only users get opped
+Toggle for deopping those who get opped by a server
+Toggle for the kicking of those who are idle
+Toggle for kicking banned users rejoining after splits
+Toggle for auto-shitlisting
+Toggle for protection
+PROT
+Toggle for being able to use public commands
+Toggle for shit-kicking
+SHIT
+Toggle for auto-opping
+Toggle for CAPS kicking
+Toggle for topic enforcement
+Toggle for revenge kicking
+Delay between server reconnects
+CDELAY
+Server connection timeout
+CTIMEOUT
+Number of MODE -o that can be done at a time
+OPMODES
+Number of MODE -b that can be done at a time
+BANMODES
+Topic refresh delay in minutes (0 turns it off)
+Mass action level (Max userlevel that mass functions won't affect)
+Idle-kick time (How long users can be idle)
+Nick change level (How many nick changes allowed)
+Flood protection level (What to do with flooders)
+Flood level (How many lines count as a flood)
+Mass protection level (What to do with massmoders)
+Mass kick level (How many kicks count as a masskick)
+Mass ban level (How many +b's count as a massban)
+Mass deop level (How many -o's count as a massdeop)
+CAPS kick level (How many lines of CAPS are allowed)
+Erases old bans automatically, this sets how old they have to be
+Which bans to unban when ban-limit is reached
+(mech_exec) unable to stat executable
+(mech_exec) executable has been altered
+%s %i
+>(sighup)
+./msg
+(sig_child)
+(sigalrm)
+(sigpipe)
+(sigint)
+Lurking interrupted by luser ... er, owner. (SIGINT)
+(sigbus)
+Another one drives the bus! (SIGBUS)
+(sigsegv)
+Mary had a little signal segmentation fault (SIGSEGV)
+(sigterm)
+What have I done to deserve this?? aaaaaarrghhh! (SIGTERM)
+(sigusr1)
+QUIT :Switching servers... (SIGUSR1)
+(sigusr2)
+uptime.energymech.net
+/proc
+unknown
+%s %s %s
+port
+Port number must be in the range 1-65535
+server
+send
+init: Error: UserList for %s matches the userlist for %s
+             Bots can not share the same userlist, please specify a new one.
+init: Fatal: %s has no userlist, run ./genuser %s
+init: %d bot(s) have no userlist. EnergyMech NOT running.
+init: Running...
+./pid
+Started...
+Linksock active: %i ( S:%i )
+(doit) Linksocket is active (%i)
+(doit) CDELAY: %i/%i
+(doit) CTIMEOUT: %i/%i
+(doit) {%i} Connection timed out
+Please enter your handle.
+PRIVMSG * :0
+init: Error: Improper executable name
+init: Error: unable to stat executable
+./cfg
+Usage: %s [switches [args]]
+ -f <file>   read configuration from <file>
+ -c          make core file instead of coredebug/reset
+ -r <num>    run only for <num> seconds
+ -d          start mech in debug mode
+ -o <file>   write debug output to <file>
+ -h          show this help
+ -v          show EnergyMech version
+init: argument to -r' is missing
+init: runtime must be longer than 30 seconds
+init: No debugfile specified
+init: No configfile specified
+init: Using config file: %s
+init: Unknown option %s
+EnergyMech by ZmEu: %s, %s
+Compiled on Mar 31 2009 13:02:00
+(core only)
+Features: %s
+*no authorization*
+*k*lined*
+*connection*class*
+*different port*
+PART %s
+WHO %s
+MODE %s
+MODE %s b
+%s%c
+%s%s
+[CTCP Reply From %s] %s
+PING
+[LAG] %li second(s) lag from %s
+-%s:%s- %s
+[message] -%s- %s
+*** Parts: %s (%s)
+none
+PONG :%s
+NICK %s
+*** Quits: %s (%s)
+*** %s changes topic to "%s"
+!%s! %s
+WHOIS %s
+MODE %s %s
+SILENCE +*!*@*
+(parse_001) Nick desynch: %s != %s
+PRIVMSG %s :%s
+] %s
+[%s] %s
+Lusers status
+Users: 
+ Invisible: 
+ Servers: 
+IRC Operators 
+Unknown Connections: 
+Channels: 
+Clients: 
+ Servers: 
+End of Lusers
+Away            - %s
+%s@%s
+Whois Info for  - %s
+Address         - %s@%s
+IRCName         - %s
+Userhost: %s=%s@%s
+Server          - %s
+                  (%s)
+%s %s
+IRCop           - %s %s
+Idle            - %i minutes (%li seconds)
+Signed On       - %s
+Channels        - %s
+%s!%s@%s
+no_info
+NICK %s
+NICK %s
+USER %s . . :%s
+%s %s!%s
+ERROR
+WALLOPS
+INVITE
+QUIT
+NOTICE
+TOPIC
+KICK
+NICK
+MODE
+PART
+JOIN
+PRIVMSG
+[CbN] %s %i
+[CbN] Hostname missing!
+[CbN] IP Alias virtual host bound OK
+[CbN] WINGATE host resolved OK
+[CbN] unable to connect. errno = %i
+[SSo] {%i} %s
+[SSo] {%i} errno = %i
+PRIVMSG %s :%s
+MODE %s %s
+KICK %s %s :%s
+NOTICE %s :
+PRIVMSG %s :
+[StU] {%s} %s
+(send_to_user) ==> %s
+%s %s %s
+NOTICE %s :%s
+[StS] {%i} errno = %i
+[StS] {%i} %s
+[SoR] {%i} %s
+(readline) done reading lines
+(killsock) {%i} added killsocket
+(killsock) {%i} removing killsocket
+handle		%s
+mask		%s
+pass		%s
+prot		%i
+avoice
+echo
+shit		%s
+time		%li
+expire		%li
+kicksay		%s
+channel		%s
+access		%i
+who		%s
+reason		%s
+--- Channel ------- String ---------- Kick Reason ------
+%15s %s     %s
+--- End of kicksay list ---
+Invalid handle
+access denied
+Mask %s already exists for %s
+Problem adding %s (global mask)
+*!*@*.*
+Problem adding %s (invalid mask)
+Added mask %s to user %s
+Deleted mask %s from user %s
+(add_to_userlist) PANIC: never happen scenario
+NOMASK
+(do_userlist) mask=%s minlevel=%i maxlevel=%i botsonly=%s chanonly=%s
+Userlist for %s
+ User   : %-11s   [%3i/%s/%s/%s/P%d]   C:%s
+ Mask(s): %s
+          %s
+Total of %d entries
+End of Userlist
+telnet@energymech
+[GuL] (telnet user %s[%i]) "%s" != "%s"
+[MuL] %s == %i
+(get_protuseraccess) userhost = '%s', channel = '%s'
+(get_shituser) userhost = '%s', channel = '%s'
+------- Losers' Userhosts ----------- Channel - Lvl - Shitter
+  %-30s %12s  %3d %10s
+--------------------------------------------------------------
+GET THE HELL OUT!!!
+YOU ARE SHITLISTED!!!
+%s %s %s %li %i %s
+No such variable name
+Possible values are %i through %i
+Please specify a value
+Var: %s
+Value changed on all channels
+Problem finding the variable (Am I on %s ?)
+Value for %s: %i
+Value for %s: %s
+Value for %s: Now changed to %i
+Value: Now changed to %s
+No variable name specified to toggle
+Value on all channels has been toggled
+Value on all channels toggled to %s
+Problem finding the toggle (Am I on %s ?)
+(global)
+Value on %s: Now toggled to %s
+Configuration Report
+Global
+default
+(Channel:
+=%i 
+="%s" 
+End of Report
+(none)
+* %s [
+= %s [
+No Links
+$ver
+$set(
+$tog(
+$time
+$links
+$channels
+$access
+$nick
+./r/pickup
+PRIVMSG %s :%s
+(%s) %s
+./r/insult
+Core Information
+Current nick        %s (Wanted: %s)
+Current nick        %s
+Users in userlist   %i (%i Superuser%s, %i Bot%s)
+Active channels     %s
+                   %s
+Active channels     (none)
+Virtual host        %s (IP Alias)
+Virtual host        %s (IP Alias - Inactive)
+Virtual host        %s:%i (WinGate)
+Virtual host        %s:%i (WinGate - Inactive)
+Current Server      %s:%i
+Current Server      (not in serverlist)
+Server Ontime       %s
+Mode                +%s
+Entity Name         %s (Linkpass: %s)
+Entity Name         %s
+(Active)
+(Inactive)
+Linkport            %i %s
+Current Time        %s
+Started             %s
+Uptime              %s
+Version             %s (%s)
+(core only)
+Features            %s
+Command Char        %c
+End of Core
+(do_qshit) shitting %s
+%s is in my shitlist already for this channel
+Unable to shit %s, insufficient access
+Leave Lamer!
+The user has been shitted as %s on %s
+The shitlist will expire: %s
+Problem shitting the user
+NOTICE @%s :[Wallop/%s] %s
+NOTICE %s :[Wallop/%s] %s
+Sent wallop to %s
+[Rehash] from %s
+Saving Lists
+./level
+Levels could not be saved to %s
+Lists could not be saved to file %s
+SeenList could not be saved to file %s
+WHO %s
+Shitlist has been cleared
+PING
+PING %lu
+Partyline
+%s:%i
+(unknown server)
+(not connected)
+%-25s   %s
+* %-16s %3s   %s (idle %i min, %i sec)
+%-25s   (Linked; %s)
+* %s
+End of List
+Partyline echo is now On
+Partyline echo is now Off
+%s %s
+?*??
+[screwban_format] %s
+!@*?
+@-o+bb %s %s %s
+Last %i Commands
+./r/tsay
+TOPIC %s :%s
+Topic changed on %s
+Ban attempt of %s
+./r/kicks
+Out you go!
+./r/quit
+rehash!
+Hostname exceeds maximum length
+Attempting to add server %s to server list
+No servers in serverlist!
+No matching entries was found for %s:%i
+No matching entries was found for %s:*
+Server has been deleted: %s:%i
+Several entries for %s exists, please specify port also
+Port
+Serverlist
+Server Name
+%28s    
+Last Connect
+(no authorization)
+(K-lined)
+(connection class full)
+(connection timed out)
+(unable to connect)
+(use a different port)
+(never)
+ (current)
+ ago
+%-30s   %-5i   %s%s%s
+End of Serverlist
+AWAY
+No longer set /away
+AWAY :%s
+Now set /away
+STATS %s
+STATS %s %s
+WHOIS %s
+LUSERS
+Hasta la vista!
+Unknown user: %s
+Access denied (you have no access on %s)
+Access denied (%s has higher access than you)
+ECHO
+User %s has been modified
+User %s is unmodified
+Current commandchar is '%c'
+Commandchar set to '%c'
+Please specify a single character to be used as commandchar
+Hostnames cannot be longer than %i chars
+Virtual host has been set to %s
+Bot must reconnect for this change to take effect
+Port number must be in the range 1-65535
+WinGate has been set to %s:%i
+Shutdown initiated by %s[%i], flatlining ...
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuwvxuz0123456789+-
+DBG, LNE, SEE, LNK, TEL, PIP, DYN, ALS, WIN, SEF
+v4.0.1
+May 16th, 2009
+EnergyMech by ZmEu:
+ZmEu
+<NULL>
+I'm not on %s
+Couldn't open the file %s
+init: Warning:
+Invalid nickname: %s
+I'm not active on any channels
+Lists could not be saved to file %s
+I'm not opped on %s
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz{|}~_`abcdefghijklmnopqrstuvwxyz{|}~
+cfgfile.c
+/home/ts6/.mail/undernet/. /src/
+gcc2_compiled.
+int:t(0,1)=r(0,1);0020000000000;0017777777777;
+char:t(0,2)=r(0,2);0;127;
+long int:t(0,3)=r(0,1);0020000000000;0017777777777;
+unsigned int:t(0,4)=r(0,1);0000000000000;0037777777777;
+long unsigned int:t(0,5)=r(0,1);0000000000000;0037777777777;
+long long int:t(0,6)=r(0,1);01000000000000000000000;0777777777777777777777;
+long long unsigned int:t(0,7)=r(0,1);0000000000000;01777777777777777777777;
+short int:t(0,8)=r(0,8);-32768;32767;
+short unsigned int:t(0,9)=r(0,9);0;65535;
+signed char:t(0,10)=r(0,10);-128;127;
+unsigned char:t(0,11)=r(0,11);0;255;
+float:t(0,12)=r(0,1);4;0;
+double:t(0,13)=r(0,1);8;0;
+long double:t(0,14)=r(0,1);12;0;
+complex int:t(0,15)=s8real:(0,1),0,32;imag:(0,1),32,32;;
+complex float:t(0,16)=r(0,16);4;0;
+complex double:t(0,17)=r(0,17);8;0;
+complex long double:t(0,18)=r(0,18);12;0;
+void:t(0,19)=(0,19)
+config.h
+/usr/include/stdio.h
+/usr/include/sys/cdefs.h
+/usr/include/machine/ansi.h
+__int64_t:t(4,1)=(0,6)
+__uint64_t:t(4,2)=(0,7)
+__int8_t:t(4,3)=(0,10)
+__uint8_t:t(4,4)=(0,11)
+__int16_t:t(4,5)=(0,8)
+__uint16_t:t(4,6)=(0,9)
+__int32_t:t(4,7)=(0,1)
+__uint32_t:t(4,8)=(0,4)
+__intptr_t:t(4,9)=(0,1)
+__uintptr_t:t(4,10)=(0,4)
+__mbstate_t:t(4,11)=(4,12)=u128__mbstate8:(4,13)=ar(0,1);0;127;(0,2),0,1024;_mbstateL:(4,1),0,64;;
+size_t:t(2,1)=(0,4)
+fpos_t:t(2,2)=(4,1)
+__sbuf:T(2,3)=s8_base:(2,4)=*(0,11),0,32;_size:(0,1),32,32;;
+__sFILE:T(2,5)=s88_p:(2,4),0,32;_r:(0,1),32,32;_w:(0,1),64,32;_flags:(0,8),96,16;_file:(0,8),112,16;_bf:(2,3),128,64;_lbfsize:(0,1),192,32;_cookie:(2,6)=*(0,19),224,32;_close:(2,7)=*(2,8)=f(0,1),256,32;_read:(2,9)=*(2,10)=f(0,1),288,32;_seek:(2,11)=*(2,12)=f(2,2),320,32;_write:(2,13)=*(2,14)=f(0,1),352,32;_ub:(2,3),384,64;_up:(2,4),448,32;_ur:(0,1),480,32;_ubuf:(2,15)=ar(0,1);0;2;(0,11),512,24;_nbuf:(2,16)=ar(0,1);0;0;(0,11),536,8;_lb:(2,3),544,64;_blksize:(0,1),608,32;_offset:(2,2),640,64;;
+FILE:t(2,17)=(2,5)
+/usr/include/stdlib.h
+rune_t:t(5,1)=(0,1)
+wchar_t:t(5,2)=(0,1)
+div_t:t(5,3)=(5,4)=s8quot:(0,1),0,32;rem:(0,1),32,32;;
+ldiv_t:t(5,5)=(5,6)=s8quot:(0,3),0,32;rem:(0,3),32,32;;
+/usr/include/string.h
+/usr/include/stdarg.h
+va_list:t(7,1)=(7,2)=*(0,2)
+/usr/include/unistd.h
+/usr/include/sys/types.h
+/usr/include/sys/inttypes.h
+int8_t:t(10,1)=(4,3)
+int16_t:t(10,2)=(4,5)
+int32_t:t(10,3)=(4,7)
+int64_t:t(10,4)=(4,1)
+uint8_t:t(10,5)=(4,4)
+uint16_t:t(10,6)=(4,6)
+uint32_t:t(10,7)=(4,8)
+uint64_t:t(10,8)=(4,2)
+intptr_t:t(10,9)=(4,9)
+uintptr_t:t(10,10)=(4,10)
+/usr/include/machine/types.h
+_physadr:T(11,1)=s4r:(11,2)=ar(0,1);0;0;(0,1),0,32;;
+physadr:t(11,3)=(11,4)=*(11,1)
+label_t:T(11,5)=s24val:(11,6)=ar(0,1);0;5;(0,1),0,192;;
+label_t:t(11,7)=(11,5)
+vm_offset_t:t(11,8)=(0,4)
+vm_ooffset_t:t(11,9)=(4,1)
+vm_pindex_t:t(11,10)=(0,4)
+vm_size_t:t(11,11)=(0,4)
+register_t:t(11,12)=(4,7)
+u_register_t:t(11,13)=(4,8)
+intrmask_t:t(11,14)=(4,8)
+inthand2_t:t(11,15)=(11,16)=f(0,19)
+ointhand2_t:t(11,17)=(11,18)=f(0,19)
+u_char:t(9,1)=(0,11)
+u_short:t(9,2)=(0,9)
+u_int:t(9,3)=(0,4)
+u_long:t(9,4)=(0,5)
+ushort:t(9,5)=(0,9)
+uint:t(9,6)=(0,4)
+u_int8_t:t(9,7)=(4,4)
+u_int16_t:t(9,8)=(4,6)
+u_int32_t:t(9,9)=(4,8)
+u_int64_t:t(9,10)=(4,2)
+u_quad_t:t(9,11)=(9,10)
+quad_t:t(9,12)=(10,4)
+qaddr_t:t(9,13)=(9,14)=*(9,12)
+caddr_t:t(9,15)=(7,2)
+c_caddr_t:t(9,16)=(9,17)=*(0,2)
+v_caddr_t:t(9,18)=(9,19)=*(0,2)
+daddr_t:t(9,20)=(10,3)
+u_daddr_t:t(9,21)=(9,9)
+fixpt_t:t(9,22)=(9,9)
+gid_t:t(9,23)=(9,9)
+in_addr_t:t(9,24)=(9,9)
+in_port_t:t(9,25)=(9,8)
+ino_t:t(9,26)=(9,9)
+key_t:t(9,27)=(0,3)
+mode_t:t(9,28)=(9,8)
+nlink_t:t(9,29)=(9,8)
+off_t:t(9,30)=(4,1)
+pid_t:t(9,31)=(0,1)
+rlim_t:t(9,32)=(9,12)
+segsz_t:t(9,33)=(10,3)
+swblk_t:t(9,34)=(10,3)
+ufs_daddr_t:t(9,35)=(10,3)
+uid_t:t(9,36)=(9,9)
+dev_t:t(9,37)=(9,9)
+/usr/include/machine/endian.h
+clock_t:t(9,38)=(0,5)
+clockid_t:t(9,39)=(0,1)
+ssize_t:t(9,40)=(0,1)
+time_t:t(9,41)=(0,3)
+timer_t:t(9,42)=(0,1)
+fd_mask:t(9,43)=(0,5)
+fd_set:T(9,44)=s128fds_bits:(9,45)=ar(0,1);0;31;(9,43),0,1024;;
+fd_set:t(9,46)=(9,44)
+/usr/include/sys/unistd.h
+/usr/include/sys/_posix.h
+/usr/include/sys/socket.h
+/usr/include/machine/param.h
+sa_family_t:t(15,1)=(9,1)
+socklen_t:t(15,2)=(4,8)
+linger:T(15,3)=s8l_onoff:(0,1),0,32;l_linger:(0,1),32,32;;
+accept_filter_arg:T(15,4)=s256af_name:(15,5)=ar(0,1);0;15;(0,2),0,128;af_arg:(15,6)=ar(0,1);0;239;(0,2),128,1920;;
+sockaddr:T(15,7)=s16sa_len:(9,1),0,8;sa_family:(15,1),8,8;sa_data:(15,8)=ar(0,1);0;13;(0,2),16,112;;
+sockproto:T(15,9)=s4sp_family:(9,2),0,16;sp_protocol:(9,2),16,16;;
+sockaddr_storage:T(15,10)=s128ss_len:(9,1),0,8;ss_family:(15,1),8,8;__ss_pad1:(15,11)=ar(0,1);0;5;(0,2),16,48;__ss_align:(10,4),64,64;__ss_pad2:(15,12)=ar(0,1);0;111;(0,2),128,896;;
+msghdr:T(15,13)=s28msg_name:(2,6),0,32;msg_namelen:(15,2),32,32;msg_iov:(15,14)=*(15,15)=xsiovec:,64,32;msg_iovlen:(0,1),96,32;msg_control:(2,6),128,32;msg_controllen:(15,2),160,32;msg_flags:(0,1),192,32;;
+cmsghdr:T(15,16)=s12cmsg_len:(15,2),0,32;cmsg_level:(0,1),32,32;cmsg_type:(0,1),64,32;;
+cmsgcred:T(15,17)=s84cmcred_pid:(9,31),0,32;cmcred_uid:(9,36),32,32;cmcred_euid:(9,36),64,32;cmcred_gid:(9,23),96,32;cmcred_ngroups:(0,8),128,16;cmcred_groups:(15,18)=ar(0,1);0;15;(9,23),160,512;;
+osockaddr:T(15,19)=s16sa_family:(9,2),0,16;sa_data:(15,8),16,112;;
+omsghdr:T(15,20)=s24msg_name:(9,15),0,32;msg_namelen:(0,1),32,32;msg_iov:(15,14),64,32;msg_iovlen:(0,1),96,32;msg_accrights:(9,15),128,32;msg_accrightslen:(0,1),160,32;;
+sf_hdtr:T(15,21)=s16headers:(15,14),0,32;hdr_cnt:(0,1),32,32;trailers:(15,14),64,32;trl_cnt:(0,1),96,32;;
+/usr/include/sys/stat.h
+/usr/include/sys/time.h
+timeval:T(18,1)=s8tv_sec:(0,3),0,32;tv_usec:(0,3),32,32;;
+timespec:T(18,2)=s8tv_sec:(9,41),0,32;tv_nsec:(0,3),32,32;;
+timezone:T(18,3)=s8tz_minuteswest:(0,1),0,32;tz_dsttime:(0,1),32,32;;
+timecounter_get_t:t(18,4)=(18,5)=f(0,4)
+timecounter_pps_t:t(18,6)=(18,7)=f(0,19)
+timecounter:T(18,8)=s92tc_get_timecount:(18,9)=*(18,4),0,32;tc_poll_pps:(18,10)=*(18,6),32,32;tc_counter_mask:(0,4),64,32;tc_frequency:(9,9),96,32;tc_name:(7,2),128,32;tc_priv:(2,6),160,32;tc_adjustment:(10,4),192,64;tc_scale_micro:(9,9),256,32;tc_scale_nano_i:(9,9),288,32;tc_scale_nano_f:(9,9),320,32;tc_offset_count:(0,4),352,32;tc_offset_sec:(9,9),384,32;tc_offset_micro:(9,9),416,32;tc_offset_nano:(9,10),448,64;tc_microtime:(18,1),512,64;tc_nanotime:(18,2),576,64;tc_avail:(18,11)=*(18,8),640,32;tc_other:(18,11),672,32;tc_tweak:(18,11),704,32;;
+itimerval:T(18,12)=s16it_interval:(18,1),0,64;it_value:(18,1),64,64;;
+clockinfo:T(18,13)=s20hz:(0,1),0,32;tick:(0,1),32,32;tickadj:(0,1),64,32;stathz:(0,1),96,32;profhz:(0,1),128,32;;
+/usr/include/time.h
+tm:T(19,1)=s44tm_sec:(0,1),0,32;tm_min:(0,1),32,32;tm_hour:(0,1),64,32;tm_mday:(0,1),96,32;tm_mon:(0,1),128,32;tm_year:(0,1),160,32;tm_wday:(0,1),192,32;tm_yday:(0,1),224,32;tm_isdst:(0,1),256,32;tm_gmtoff:(0,3),288,32;tm_zone:(7,2),320,32;;
+ostat:T(17,1)=s64st_dev:(9,8),0,16;st_ino:(9,26),32,32;st_mode:(9,28),64,16;st_nlink:(9,29),80,16;st_uid:(9,8),96,16;st_gid:(9,8),112,16;st_rdev:(9,8),128,16;st_size:(10,3),160,32;st_atimespec:(18,2),192,64;st_mtimespec:(18,2),256,64;st_ctimespec:(18,2),320,64;st_blksize:(10,3),384,32;st_blocks:(10,3),416,32;st_flags:(9,9),448,32;st_gen:(9,9),480,32;;
+stat:T(17,2)=s96st_dev:(9,37),0,32;st_ino:(9,26),32,32;st_mode:(9,28),64,16;st_nlink:(9,29),80,16;st_uid:(9,36),96,32;st_gid:(9,23),128,32;st_rdev:(9,37),160,32;st_atimespec:(18,2),192,64;st_mtimespec:(18,2),256,64;st_ctimespec:(18,2),320,64;st_size:(9,30),384,64;st_blocks:(10,4),448,64;st_blksize:(9,9),512,32;st_flags:(9,9),544,32;st_gen:(9,9),576,32;st_lspare:(10,3),608,32;st_qspare:(17,3)=ar(0,1);0;1;(10,4),640,128;;
+nstat:T(17,4)=s96st_dev:(9,37),0,32;st_ino:(9,26),32,32;st_mode:(9,9),64,32;st_nlink:(9,9),96,32;st_uid:(9,36),128,32;st_gid:(9,23),160,32;st_rdev:(9,37),192,32;st_atimespec:(18,2),224,64;st_mtimespec:(18,2),288,64;st_ctimespec:(18,2),352,64;st_size:(9,30),416,64;st_blocks:(10,4),480,64;st_blksize:(9,9),544,32;st_flags:(9,9),576,32;st_gen:(9,9),608,32;st_qspare:(17,3),640,128;;
+/usr/include/sys/resource.h
+rusage:T(20,1)=s72ru_utime:(18,1),0,64;ru_stime:(18,1),64,64;ru_maxrss:(0,3),128,32;ru_ixrss:(0,3),160,32;ru_idrss:(0,3),192,32;ru_isrss:(0,3),224,32;ru_minflt:(0,3),256,32;ru_majflt:(0,3),288,32;ru_nswap:(0,3),320,32;ru_inblock:(0,3),352,32;ru_oublock:(0,3),384,32;ru_msgsnd:(0,3),416,32;ru_msgrcv:(0,3),448,32;ru_nsignals:(0,3),480,32;ru_nvcsw:(0,3),512,32;ru_nivcsw:(0,3),544,32;;
+orlimit:T(20,2)=s8rlim_cur:(10,3),0,32;rlim_max:(10,3),32,32;;
+rlimit:T(20,3)=s16rlim_cur:(9,32),0,64;rlim_max:(9,32),64,64;;
+loadavg:T(20,4)=s16ldavg:(20,5)=ar(0,1);0;2;(9,22),0,96;fscale:(0,3),96,32;;
+/usr/include/sys/wait.h
+wait:T(21,1)=u4w_status:(0,1),0,32;w_T:(21,2)=s4w_Termsig:(0,4),0,7;w_Coredump:(0,4),7,1;w_Retcode:(0,4),8,8;w_Filler:(0,4),16,16;;,0,32;w_S:(21,3)=s4w_Stopval:(0,4),0,8;w_Stopsig:(0,4),8,8;w_Filler:(0,4),16,16;;,0,32;;
+/usr/include/netinet/in.h
+in_addr:T(22,1)=s4s_addr:(9,24),0,32;;
+sockaddr_in:T(22,2)=s16sin_len:(9,1),0,8;sin_family:(9,1),8,8;sin_port:(9,2),16,16;sin_addr:(22,1),32,32;sin_zero:(22,3)=ar(0,1);0;7;(0,2),64,64;;
+ip_mreq:T(22,4)=s8imr_multiaddr:(22,1),0,32;imr_interface:(22,1),32,32;;
+/usr/include/netinet6/in6.h
+in6_addr:T(23,1)=s16__u6_addr:(23,2)=u16__u6_addr8:(23,3)=ar(0,1);0;15;(9,7),0,128;__u6_addr16:(23,4)=ar(0,1);0;7;(9,8),0,128;__u6_addr32:(23,5)=ar(0,1);0;3;(9,9),0,128;;,0,128;;
+sockaddr_in6:T(23,6)=s28sin6_len:(9,7),0,8;sin6_family:(9,7),8,8;sin6_port:(9,8),16,16;sin6_flowinfo:(9,9),32,32;sin6_addr:(23,1),64,128;sin6_scope_id:(9,9),192,32;;
+route_in6:T(23,7)=s32ro_rt:(23,8)=*(23,9)=xsrtentry:,0,32;ro_dst:(23,6),32,224;;
+ipv6_mreq:T(23,10)=s20ipv6mr_multiaddr:(23,1),0,128;ipv6mr_interface:(0,4),128,32;;
+in6_pktinfo:T(23,11)=s20ipi6_addr:(23,1),0,128;ipi6_ifindex:(0,4),128,32;;
+/usr/include/arpa/inet.h
+/usr/include/netdb.h
+hostent:T(25,1)=s20h_name:(7,2),0,32;h_aliases:(25,2)=*(7,2),32,32;h_addrtype:(0,1),64,32;h_length:(0,1),96,32;h_addr_list:(25,2),128,32;;
+netent:T(25,3)=s16n_name:(7,2),0,32;n_aliases:(25,2),32,32;n_addrtype:(0,1),64,32;n_net:(0,5),96,32;;
+servent:T(25,4)=s16s_name:(7,2),0,32;s_aliases:(25,2),32,32;s_port:(0,1),64,32;s_proto:(7,2),96,32;;
+protoent:T(25,5)=s12p_name:(7,2),0,32;p_aliases:(25,2),32,32;p_proto:(0,1),64,32;;
+addrinfo:T(25,6)=s32ai_flags:(0,1),0,32;ai_family:(0,1),32,32;ai_socktype:(0,1),64,32;ai_protocol:(0,1),96,32;ai_addrlen:(2,1),128,32;ai_canonname:(7,2),160,32;ai_addr:(25,7)=*(15,7),192,32;ai_next:(25,8)=*(25,6),224,32;;
+/usr/include/termios.h
+tcflag_t:t(26,1)=(0,4)
+cc_t:t(26,2)=(0,11)
+speed_t:t(26,3)=(0,4)
+termios:T(26,4)=s44c_iflag:(26,1),0,32;c_oflag:(26,1),32,32;c_cflag:(26,1),64,32;c_lflag:(26,1),96,32;c_cc:(26,5)=ar(0,1);0;19;(26,2),128,160;c_ispeed:(26,3),288,32;c_ospeed:(26,3),320,32;;
+/usr/include/sys/ttycom.h
+/usr/include/sys/ioccom.h
+winsize:T(27,1)=s8ws_row:(0,9),0,16;ws_col:(0,9),16,16;ws_xpixel:(0,9),32,16;ws_ypixel:(0,9),48,16;;
+/usr/include/sys/ttydefaults.h
+/usr/include/signal.h
+/usr/include/sys/signal.h
+__sighandler_t:t(31,1)=(11,18)
+sigval:T(31,2)=u4sigval_int:(0,1),0,32;sigval_ptr:(2,6),0,32;;
+sigevent:T(31,3)=s12sigev_notify:(0,1),0,32;__sigev_u:(31,4)=u4__sigev_signo:(0,1),0,32;__sigev_notify_kqueue:(0,1),0,32;;,32,32;sigev_value:(31,2),64,32;;
+__siginfo:T(31,5)=s64si_signo:(0,1),0,32;si_errno:(0,1),32,32;si_code:(0,1),64,32;si_pid:(0,1),96,32;si_uid:(0,4),128,32;si_status:(0,1),160,32;si_addr:(2,6),192,32;si_value:(31,2),224,32;si_band:(0,3),256,32;__spare__:(31,6)=ar(0,1);0;6;(0,1),288,224;;
+siginfo_t:t(31,7)=(31,5)
+__sigset:T(31,8)=s16__bits:(31,9)=ar(0,1);0;3;(0,4),0,128;;
+sigset_t:t(31,10)=(31,8)
+/usr/include/machine/signal.h
+sig_atomic_t:t(32,1)=(0,1)
+/usr/include/machine/trap.h
+osigset_t:t(32,2)=(0,4)
+osigcontext:T(32,3)=s84sc_onstack:(0,1),0,32;sc_mask:(32,2),32,32;sc_esp:(0,1),64,32;sc_ebp:(0,1),96,32;sc_isp:(0,1),128,32;sc_eip:(0,1),160,32;sc_efl:(0,1),192,32;sc_es:(0,1),224,32;sc_ds:(0,1),256,32;sc_cs:(0,1),288,32;sc_ss:(0,1),320,32;sc_edi:(0,1),352,32;sc_esi:(0,1),384,32;sc_ebx:(0,1),416,32;sc_edx:(0,1),448,32;sc_ecx:(0,1),480,32;sc_eax:(0,1),512,32;sc_gs:(0,1),544,32;sc_fs:(0,1),576,32;sc_trapno:(0,1),608,32;sc_err:(0,1),640,32;;
+sigcontext:T(32,4)=s276sc_mask:(31,10),0,128;sc_onstack:(0,1),128,32;sc_gs:(0,1),160,32;sc_fs:(0,1),192,32;sc_es:(0,1),224,32;sc_ds:(0,1),256,32;sc_edi:(0,1),288,32;sc_esi:(0,1),320,32;sc_ebp:(0,1),352,32;sc_isp:(0,1),384,32;sc_ebx:(0,1),416,32;sc_edx:(0,1),448,32;sc_ecx:(0,1),480,32;sc_eax:(0,1),512,32;sc_trapno:(0,1),544,32;sc_err:(0,1),576,32;sc_eip:(0,1),608,32;sc_cs:(0,1),640,32;sc_efl:(0,1),672,32;sc_esp:(0,1),704,32;sc_ss:(0,1),736,32;sc_fpregs:(32,5)=ar(0,1);0;27;(0,1),768,896;sc_spare:(32,6)=ar(0,1);0;16;(0,1),1664,544;;
+sigaction:T(31,11)=s24__sigaction_u:(31,12)=u4__sa_handler:(31,13)=*(11,18),0,32;__sa_sigaction:(31,14)=*(31,15)=f(0,19),0,32;;,0,32;sa_flags:(0,1),32,32;sa_mask:(31,10),64,128;;
+__siginfohandler_t:t(31,16)=(31,15)
+sig_t:t(31,17)=(31,18)=*(31,1)
+sigaltstack:T(31,19)=s12ss_sp:(7,2),0,32;ss_size:(2,1),32,32;ss_flags:(0,1),64,32;;
+stack_t:t(31,20)=(31,19)
+/usr/include/sys/ucontext.h
+/usr/include/machine/ucontext.h
+__mcontext:T(35,1)=s260mc_onstack:(0,1),0,32;mc_gs:(0,1),32,32;mc_fs:(0,1),64,32;mc_es:(0,1),96,32;mc_ds:(0,1),128,32;mc_edi:(0,1),160,32;mc_esi:(0,1),192,32;mc_ebp:(0,1),224,32;mc_isp:(0,1),256,32;mc_ebx:(0,1),288,32;mc_edx:(0,1),320,32;mc_ecx:(0,1),352,32;mc_eax:(0,1),384,32;mc_trapno:(0,1),416,32;mc_err:(0,1),448,32;mc_eip:(0,1),480,32;mc_cs:(0,1),512,32;mc_eflags:(0,1),544,32;mc_esp:(0,1),576,32;mc_ss:(0,1),608,32;mc_fpregs:(32,5),640,896;__spare__:(32,6),1536,544;;
+mcontext_t:t(35,2)=(35,1)
+__ucontext:T(34,1)=s324uc_sigmask:(31,10),0,128;uc_mcontext:(35,2),128,2080;uc_link:(34,2)=*(34,1),2208,32;uc_stack:(31,20),2240,96;__spare__:(34,3)=ar(0,1);0;7;(0,1),2336,256;;
+ucontext_t:t(34,4)=(34,1)
+sigvec:T(31,21)=s12sv_handler:(31,18),0,32;sv_mask:(0,1),32,32;sv_flags:(0,1),64,32;;
+sigstack:T(31,22)=s8ss_sp:(7,2),0,32;ss_onstack:(0,1),32,32;;
+/usr/include/ctype.h
+/usr/include/runetype.h
+_RuneEntry:t(37,1)=(37,2)=s16min:(5,1),0,32;max:(5,1),32,32;map:(5,1),64,32;types:(37,3)=*(0,5),96,32;;
+_RuneRange:t(37,4)=(37,5)=s8nranges:(0,1),0,32;ranges:(37,6)=*(37,1),32,32;;
+_RuneLocale:t(37,7)=(37,8)=s3156magic:(22,3),0,64;encoding:(37,9)=ar(0,1);0;31;(0,2),64,256;sgetrune:(37,10)=*(37,11)=f(5,1),320,32;sputrune:(37,12)=*(37,13)=f(0,1),352,32;invalid_rune:(5,1),384,32;runetype:(37,14)=ar(0,1);0;255;(0,5),416,8192;maplower:(37,15)=ar(0,1);0;255;(5,1),8608,8192;mapupper:(37,15),16800,8192;runetype_ext:(37,4),24992,64;maplower_ext:(37,4),25056,64;mapupper_ext:(37,4),25120,64;variable:(2,6),25184,32;variable_len:(0,1),25216,32;;
+/usr/include/fcntl.h
+flock:T(38,1)=s24l_start:(9,30),0,64;l_len:(9,30),64,64;l_pid:(9,31),128,32;l_type:(0,8),160,16;l_whence:(0,8),176,16;;
+/usr/include/errno.h
+text.h
+defines.h
+ :T(41,1)=eSETBT_VAR:0,SETAUB_VAR:1,SETCKL_VAR:2,SETMDL_VAR:3,SETMBL_VAR:4,SETMKL_VAR:5,SETMPL_VAR:6,SETFL_VAR:7,SETFPL_VAR:8,SETNCL_VAR:9,SETIKT_VAR:10,SETMAL_VAR:11,SETTR_VAR:12,SETBANMODES_VAR:13,SETOPMODES_VAR:14,SETCTIMEOUT_VAR:15,SETCDELAY_VAR:16,TOGRK_VAR:17,TOGTOP_VAR:18,TOGCK_VAR:19,TOGAOP_VAR:20,TOGSHIT_VAR:21,TOGPUB_VAR:22,TOGPROT_VAR:23,TOGAS_VAR:24,TOGABK_VAR:25,TOGIK_VAR:26,TOGSD_VAR:27,TOGSO_VAR:28,TOGENFM_VAR:29,TOGMASS_VAR:30,SETENFM_VAR:31,TOGCC_VAR:32,TOGKS_VAR:33,TOGDCC_VAR:34,TOGCTL_VAR:35,TOGSPY_VAR:36,TOGIWM_VAR:37,TOGCLOAK_VAR:38,TOGRV_VAR:39,TOGRF_VAR:40,SETAAWAY_VAR:41,TOGNOIDLE_VAR:42,TOGCHANLOG_VAR:43,SETAVOICE_VAR:44,TOGDYNAMIC_VAR:45,NULL_VAR:46,SIZE_VARS:47,;
+structs.h
+aDCC:T(42,1)=s1172next:(42,2)=*(42,1),0,32;sock:(0,1),32,32;sd:(42,3)=ar(0,1);0;511;(0,2),64,4096;flags:(0,1),4160,32;user:(4,13),4192,1024;rest:(42,3),5216,4096;inputcount:(0,1),9312,32;lasttime:(9,41),9344,32;;
+aDCC:t(42,4)=(42,1)
+aPipeUser:T(42,5)=s540sock:(0,1),0,32;sd:(42,3),32,4096;name:(15,5),4128,128;has_nick:(0,1),4256,1;lasttime:(9,41),4288,32;;
+aPipeUser:t(42,6)=(42,5)
+VarStruct:T(42,7)=s20type:(0,1),0,32;value:(0,1),32,32;strvalue:(7,2),64,32;min:(0,1),96,32;max:(0,1),128,32;;
+VarStruct:t(42,8)=(42,7)
+VarType:t(42,9)=(42,10)=ar(0,1);0;46;(42,8)
+aVarName:T(42,11)=s8name:(7,2),0,32;desc:(7,2),32,32;;
+aVarName:t(42,12)=(42,11)
+aTime:T(42,13)=s20next:(42,14)=*(42,13),0,32;prev:(42,14),32,32;name:(7,2),64,32;time:(9,41),96,32;num:(0,1),128,32;;
+aTime:t(42,15)=(42,13)
+aStrp:T(42,16)=s8next:(42,17)=*(42,16),0,32;p:(42,18)=ar(0,1);0;0;(0,2),32,8;;
+aStrp:t(42,19)=(42,16)
+aUser:T(42,20)=s76used:(0,2),0,8;ident:(0,1),32,32;name:(15,5),64,128;pass:(42,21)=ar(0,1);0;20;(0,2),192,168;chanp:(7,2),384,32;whoadd:(7,2),416,32;reason:(7,2),448,32;parm:(42,22)=u4umask:(42,23)=*(42,19),0,32;kicksay:(7,2),0,32;shitmask:(7,2),0,32;;,480,32;echo:(0,5),512,1;aop:(0,5),513,1;avoice:(0,5),514,1;prot:(0,5),515,3;access:(0,5),518,8;type:(0,5),526,3;time:(9,41),544,32;expire:(9,41),576,32;;
+aUser:t(42,24)=(42,20)
+aService:T(42,25)=s12to:(7,2),0,32;msg:(7,2),32,32;next:(42,26)=*(42,25),64,32;;
+aService:t(42,27)=(42,25)
+aBan:T(42,28)=s20next:(42,29)=*(42,28),0,32;prev:(42,29),32,32;banstring:(7,2),64,32;bannedby:(7,2),96,32;time:(9,41),128,32;;
+aBan:t(42,30)=(42,28)
+aChanUser:T(42,31)=s72next:(42,32)=*(42,31),0,32;flags:(0,5),32,32;floodnum:(0,1),64,32;bannum:(0,1),96,32;deopnum:(0,1),128,32;kicknum:(0,1),160,32;nicknum:(0,1),192,32;capsnum:(0,1),224,32;floodtime:(9,41),256,32;bantime:(9,41),288,32;deoptime:(9,41),320,32;kicktime:(9,41),352,32;nicktime:(9,41),384,32;capstime:(9,41),416,32;idletime:(9,41),448,32;nick:(7,2),480,32;host:(7,2),512,32;user:(42,33)=ar(0,1);0;1;(0,2),544,16;;
+aChanUser:t(42,34)=(42,31)
+aChan:T(42,35)=s1012next:(42,36)=*(42,35),0,32;name:(7,2),32,32;key:(7,2),64,32;topic:(7,2),96,32;limit:(0,1),128,32;kickedby:(7,2),160,32;banned:(42,37)=*(42,30),192,32;users:(42,38)=*(42,34),224,32;cacheuser:(42,38),256,32;Vars:(42,9),288,7520;avoice:(42,23),7808,32;last_voice:(9,41),7840,32;last_needop:(9,41),7872,32;last_topic:(9,41),7904,32;last_limit:(9,41),7936,32;private:(0,5),7968,1;secret:(0,5),7969,1;moderated:(0,5),7970,1;topprot:(0,5),7971,1;limitmode:(0,5),7972,1;invite:(0,5),7973,1;nomsg:(0,5),7974,1;keymode:(0,5),7975,1;hiddenkey:(0,5),7976,1;sync:(0,5),7977,1;whois:(0,5),7978,1;bot_is_op:(0,5),7979,1;active:(0,5),7980,2;pipeuser:(0,5),7982,1;rejoin:(0,5),7983,1;retry:(0,5),7984,1;ServicesList:(42,39)=*(42,27),8000,32;nextservice:(42,39),8032,32;lastservice:(9,41),8064,32;;
+aChan:t(42,40)=(42,35)
+aSeen:T(42,41)=s28next:(42,42)=*(42,41),0,32;userhost:(7,2),32,32;signoff:(7,2),64,32;kicker:(7,2),96,32;time:(9,41),128,32;selector:(0,1),160,32;nick:(42,43)=ar(0,1);0;3;(0,2),192,32;;
+aSeen:t(42,44)=(42,41)
+aMsgList:T(42,45)=s257used:(0,2),0,8;type:(4,13),8,1024;who:(4,13),1032,1024;;
+aMsgList:t(42,46)=(42,45)
+aServer:T(42,47)=s420used:(0,2),0,8;ident:(0,1),32,32;name:(4,13),64,1024;pass:(4,13),1088,1024;realname:(4,13),2112,1024;resolved:(0,5),3136,32;usenum:(0,1),3168,32;port:(0,1),3200,32;err:(0,1),3232,32;lastconnect:(9,41),3264,32;lastattempt:(9,41),3296,32;maxontime:(9,41),3328,32;;
+aServer:t(42,48)=(42,47)
+sockaddr_union:T(42,49)=u28sa:(15,7),0,128;sin:(22,2),0,128;sin6:(23,6),0,224;;
+aBot:T(42,50)=s3624next:(42,51)=*(42,50),0,32;connect:(0,1),32,32;sock:(0,1),64,32;ip:(42,49),96,224;ServerList:(42,52)=*(42,48),320,32;server:(0,1),352,32;nextserver:(0,1),384,32;sd:(42,3),416,4096;sendq:(42,23),4512,32;last_sendq:(9,41),4544,32;nick:(15,5),4576,128;wantnick:(15,5),4704,128;login:(15,5),4832,128;ircname:(4,13),4960,1024;vhost:(42,3),5984,4096;vhost_port:(0,1),10080,32;vhost_type:(0,1),10112,32;userhost:(4,13),10144,1024;modes:(37,9),11168,256;cmdchar:(0,2),11424,8;modes_to_send:(37,9),11432,256;signoff:(7,2),11712,32;from:(7,2),11744,32;sigmaster:(0,2),11776,1;away:(0,2),11777,1;pipeuser:(42,53)=*(42,6),11808,32;saved_002:(7,2),11840,32;saved_003:(7,2),11872,32;saved_004:(7,2),11904,32;DefaultVars:(42,9),11936,7520;userlistSIZE:(0,1),19456,32;userlistBASE:(42,54)=*(42,24),19488,32;Userfile:(42,55)=ar(0,1);0;1023;(0,2),19520,8192;msglistSIZE:(0,1),27712,32;msglistBASE:(42,56)=*(42,46),27744,32;Auths:(42,57)=*(42,15),27776,32;ParseList:(42,57),27808,32;Channels:(42,58)=*(42,40),27840,32;CurrentChan:(42,58),27872,32;ClientList:(42,59)=*(42,4),27904,32;seenfile:(7,2),27936,32;SeenList:(42,60)=*(42,44),27968,32;lastcmds:(42,61)=ar(0,1);0;19;(7,2),28000,640;ServicesList:(42,39),28640,32;lastreset:(9,41),28672,32;lastping:(9,41),28704,32;lastrejoin:(9,41),28736,32;lastsave:(9,41),28768,32;laststatus:(9,41),28800,32;lastctcp:(9,41),28832,32;conntry:(9,41),28864,32;activity:(9,41),28896,32;uptime:(9,41),28928,32;ontime:(9,41),28960,32;;
+aBot:t(42,62)=(42,50)
+aBotLink:T(42,63)=s596used:(0,2),0,8;ident:(0,1),32,32;linktype:(0,2),64,8;nodetype:(0,2),72,8;auth:(0,2),80,8;autolinked:(0,2),88,8;nick:(37,9),96,256;dccnick:(15,5),352,128;sd:(42,3),480,4096;bot:(42,64)=*(42,62),4576,32;sock:(0,1),4608,32;hasdata:(0,1),4640,32;uptime:(9,41),4672,32;uplink:(0,1),4704,32;sendlink:(0,1),4736,32;;
+aBotLink:t(42,65)=(42,63)
+aWillWont:T(42,66)=s4seen:(0,5),0,1;shellcmd:(0,5),1,1;signals:(0,5),2,1;onotice:(0,5),3,1;sessions:(0,5),4,1;autolink:(0,5),5,1;;
+aWillWont:t(42,67)=(42,66)
+aLinkConf:T(42,68)=s208used:(0,2),0,8;ident:(0,1),32,32;name:(37,9),64,256;pass:(37,9),320,256;host:(4,13),576,1024;port:(0,1),1600,32;autoidx:(0,1),1632,32;;
+aLinkConf:t(42,69)=(42,68)
+OnMsg:T(42,70)=s16name:(7,2),0,32;alias:(7,2),32,32;function:(42,71)=*(42,72)=f(0,19),64,32;flags:(0,1),96,32;;
+OnMsg:t(42,73)=(42,70)
+MLStub:T(42,74)=s8used:(0,2),0,8;ident:(0,1),32,32;;
+MLStub:t(42,75)=(42,74)
+aME:T(42,76)=s20area:(2,6),0,32;doer:(2,6),32,32;size:(0,5),64,32;when:(9,41),96,32;touch:(0,2),128,8;;
+aME:t(42,77)=(42,76)
+aMEA:T(42,78)=s4004next:(42,79)=*(42,78),0,32;mme:(42,80)=ar(0,1);0;199;(42,77),32,32000;;
+aMEA:t(42,81)=(42,78)
+aKillSock:T(42,82)=s12next:(42,83)=*(42,82),0,32;time:(9,41),32,32;sock:(0,1),64,32;;
+aKillSock:t(42,84)=(42,82)
+aTrivScore:T(42,85)=s32next:(42,86)=*(42,85),0,32;score_wk:(0,1),32,32;score_last_wk:(0,1),64,32;week_nr:(0,1),96,32;score_mo:(0,1),128,32;score_last_mo:(0,1),160,32;month_nr:(0,1),192,32;nick:(42,18),224,8;;
+aTrivScore:t(42,87)=(42,85)
+global.h
+mcmd.h
+cfg_linkconf:F(0,19)
+args:p(7,2)
+name:r(7,2)
+pass:r(7,2)
+host:r(7,2)
+ps:r(7,2)
+port:r(0,1)
+cfg_autolink:F(0,19)
+cfg_nosignals:F(0,19)
+cfg_hasonotice:F(0,19)
+cfg_noshellcmd:F(0,19)
+cfg_noseen:F(0,19)
+cfg_usersfile:F(0,19)
+fname:r(7,2)
+cfg_nickname:F(0,19)
+temp:r(42,64)
+nick:r(7,2)
+cfg_login:F(0,19)
+login:r(7,2)
+cfg_ircname:F(0,19)
+args:r(7,2)
+cfg_channel:F(0,19)
+channel:r(7,2)
+key:r(7,2)
+cfg_server:F(0,19)
+aport:r(7,2)
+ip:r(0,20)=*(0,1)
+cfg_sigmaster:F(0,19)
+fmt:r(7,2)
+cfg_enftopic:F(0,19)
+topic:r(7,2)
+cfg_cmdchar:F(0,19)
+cfg_set:F(0,19)
+var:r(0,21)=*(42,8)
+setname:r(7,2)
+value:r(7,2)
+which:r(0,1)
+num:r(0,1)
+cfg_tog:F(0,19)
+var:r(0,21)
+cfg_modes:F(0,19)
+tmp:r(7,2)
+cfg_virtual:F(0,19)
+cfg_wingate:F(0,19)
+ap:r(7,2)
+ip:r(0,20)
+cfg_linkport:F(0,19)
+cfg_linkpass:F(0,19)
+cfg_entity:F(0,19)
+cfg_addhandle:F(0,19)
+User:(42,24)
+cfg_addmask:F(0,19)
+User:r(42,54)
+mask:r(7,2)
+cfg_uchannel:F(0,19)
+cfg_access:F(0,19)
+as:r(7,2)
+level:r(0,1)
+cfg_aop:F(0,19)
+cfg_avoice:F(0,19)
+cfg_echo:F(0,19)
+cfg_prot:F(0,19)
+prot:r(0,1)
+cfg_passwd:F(0,19)
+cfg_addks:F(0,19)
+cfg_addshit:F(0,19)
+cfg_who:F(0,19)
+who:r(7,2)
+cfg_time:F(0,19)
+ts:r(7,2)
+cfg_reason:F(0,19)
+cfg_expire:F(0,19)
+cfg_alias:F(0,19)
+cfg_service:F(0,19)
+to:r(7,2)
+msg:r(7,2)
+servicesptr:r(0,22)=*(42,39)
+CommandStruct:T(0,23)=s12name:(7,2),0,32;function:(0,24)=*(0,25)=f(0,19),32,32;chop:(0,2),64,8;;
+aCommand:t(0,26)=(0,23)
+config_cmds:G(0,27)=ar(0,1);0;-1;(0,26)
+userlist_cmds:G(0,28)=ar(0,1);0;-1;(0,26)
+readuserlist_callback:F(0,1)
+line:p(7,2)
+Borrow or rob
+command:r(7,2)
+i:r(0,1)
+readuserlist:F(0,1)
+in:r(0,1)
+readcfgfile_callback:F(0,1)
+ntop_tmp:G(42,3)
+readcfgfile:F(0,19)
+bot:r(42,64)
+oc:(0,1)
+cfgChan:G(42,58)
+cfgUser:G(0,1)
+channel.c
+check_all_steal:F(0,19)
+Chan:r(42,58)
+get_idletime:F(0,1)
+nick:p(7,2)
+User:r(42,38)
+temp:r(0,1)
+show_idletimes:F(0,19)
+from:p(7,2)
+channel:p(7,2)
+seconds:p(0,1)
+seconds:r(0,1)
+ct:r(9,41)
+is_present:F(0,1)
+who:p(7,2)
+op_all_chan:F(0,19)
+CU:r(42,38)
+needop_via_msg:F(0,19)
+tmpserviceptr:r(42,39)
+cycled:r(0,1)
+check_shit:F(0,19)
+update_idletime:F(0,19)
+check_idlekick:F(0,19)
+timeout:r(9,41)
+check_mass:F(0,1)
+Chan:p(42,58)
+type:p(0,1)
+type:r(0,1)
+check_nickflood:F(0,1)
+ChanUser:r(42,38)
+pt:r(7,2)
+flag:(0,1)
+find_channel:F(42,58)
+name:p(7,2)
+active:p(0,1)
+active:r(0,1)
+delete_channel:F(0,1)
+l_list:p(0,20)=*(42,58)
+l_list:p(0,20)
+old:r(0,20)
+delete_all_channels:F(0,19)
+copy_channellist:F(0,19)
+c_list:p(42,58)
+join_channel:F(0,19)
+key:p(7,2)
+dojoin:p(0,1)
+reverse_topic:F(0,19)
+topic:p(7,2)
+reverse_mode:F(0,1)
+m:p(0,1)
+s:p(0,1)
+buffer:(0,21)=ar(0,1);0;99;(0,2)
+ptr:r(7,2)
+ptr2:r(7,2)
+mode:(0,2)
+sign:(0,2)
+cycle_channel:F(0,19)
+send_spymsg:F(0,19)
+format:p(7,2)
+pt:r(42,56)
+buf:(0,22)=ar(0,1);0;2047;(0,2)
+i:(0,1)
+send_statmsg:F(0,19)
+buf:(0,22)
+buf2:(0,22)
+send_global_statmsg:F(0,19)
+send_common_spy:F(0,19)
+send_spy:F(0,19)
+fchan:(42,55)
+log:r(0,1)
+stm:r(0,23)=*(19,1)
+set_enftopic:F(0,1)
+chan_modestr:F(7,2)
+modestr:V(42,3)
+do_channels:F(0,19)
+to:p(7,2)
+rest:p(7,2)
+cmdlevel:p(0,1)
+t1:(42,3)
+t2:(42,3)
+umode:(0,2)
+u:r(0,1)
+o:r(0,1)
+v:(0,1)
+rejoin_channels:F(0,19)
+show_names_on_channel:F(0,1)
+Blah:r(42,38)
+Dummy:r(42,58)
+buffer:(0,22)
+sendit:(0,1)
+find_nuh:F(7,2)
+usermode:F(0,1)
+num_banned:F(0,1)
+Ban:r(42,37)
+n:r(0,1)
+find_ban:F(42,37)
+b_list:p(0,24)=*(42,37)
+banstring:p(7,2)
+b_list:p(0,24)
+b_list:r(0,24)
+banstring:r(7,2)
+make_ban:F(0,19)
+thetime:p(9,41)
+thetime:r(9,41)
+New_ban:r(42,37)
+remove_ban:F(0,19)
+cptr:p(42,37)
+delete_ban:F(0,1)
+Dummy:r(42,37)
+delete_bans:F(0,19)
+old:r(42,37)
+tmp:r(42,37)
+channel_massmode:F(0,19)
+pattern:p(7,2)
+filtmode:p(0,1)
+mode:p(0,1)
+typechar:p(0,1)
+typechar:(0,2)
+Chan:(42,58)
+pat:(7,2)
+uh:r(7,2)
+burst:(42,55)
+deopstring:(42,55)
+dstring:(42,55)
+maxmode:(0,1)
+mal:(0,1)
+willdo:r(0,1)
+lvl:(0,1)
+ispat:(0,1)
+channel_massunbanfrom:F(0,1)
+seconds:p(9,41)
+Channel:r(42,58)
+unbanmode:(0,25)=ar(0,1);0;4;(0,2)
+unbanstring:(42,55)
+count:(0,1)
+channel_massunban:F(0,1)
+unbanmode:(0,26)=ar(0,1);0;4;(0,2)
+channel_unban:F(0,1)
+user:p(7,2)
+Channel:(42,58)
+unbanmode:(0,27)=ar(0,1);0;4;(0,2)
+find_chanuser:F(42,38)
+make_chanuser:F(42,38)
+host:p(7,2)
+user:r(7,2)
+new:r(42,38)
+remove_chanuser:F(0,1)
+CU:(42,38)
+u_list:r(0,28)=*(42,38)
+delete_chanusers:F(0,19)
+rem:(42,38)
+nxt:r(42,38)
+get_nuh:F(7,2)
+User:p(42,38)
+add_mode:F(0,19)
+mode:p(0,5)
+param:p(7,2)
+del_mode:F(0,19)
+mode:r(0,5)
+get_nuhbuf:S(4,13)
+com-ons.c
+mcmd:G(45,1)=ar(0,1);0;-1;(42,73)
+usage.h
+aUsageList:t(46,1)=(46,2)=s8command:(7,2),0,32;usage:(7,2),32,32;;
+ulist:G(46,3)=ar(0,1);0;-1;(46,1)
+do_seen:F(0,19)
+Seen:r(42,60)
+message:(42,3)
+chan:(7,2)
+c1:(0,11)
+c2:(0,11)
+print_help:F(0,19)
+len:p(0,1)
+line:r(7,2)
+lp:r(7,2)
+tl:r(0,1)
+do_help_callback:F(0,1)
+do_help:F(0,19)
+line:(42,3)
+level:(0,1)
+axs:(0,1)
+cur:(0,1)
+nxt:(0,1)
+ct:(0,1)
+ci:(0,1)
+on_kick:F(0,19)
+channel:(7,2)
+protnuh:r(7,2)
+on_join:F(0,19)
+sp:r(42,23)
+nx:r(42,23)
+ban:r(42,37)
+banmatch:r(0,1)
+avuser:(0,1)
+on_nick:F(0,19)
+newnick:p(7,2)
+from:r(7,2)
+tmp:r(42,57)
+newnuh:(4,13)
+isbot:(0,1)
+on_msg:F(0,19)
+msg:p(7,2)
+msg_copy:V(42,3)
+bl:r(0,21)=*(42,65)
+userclient:(42,59)
+Client:r(42,59)
+rest:r(7,2)
+has_cc:(0,1)
+pubcmd:(0,1)
+cmdlvl:r(0,1)
+mul:(0,1)
+j:r(0,1)
+_c:r(0,1)
+on_actionmsg:F(0,19)
+kicksay:r(42,54)
+userclient:r(42,59)
+auth:r(42,57)
+on_mode:F(0,19)
+unminmode:(42,55)
+unminparams:(42,55)
+unplusmode:(42,55)
+unplusparams:(42,55)
+nick:(7,2)
+parm:(7,2)
+nickuh:(7,2)
+chanchars:(7,2)
+params:(7,2)
+enfm:r(0,1)
+togprot:(0,1)
+on_public:F(0,19)
+triggers:r(42,54)
+temp:r(7,2)
+do_chaccess:F(0,19)
+oldlevel:r(0,1)
+newlevel:r(0,1)
+name:(7,2)
+level:r(7,2)
+level_needed:F(0,1)
+write_levelfile:F(0,1)
+f:r(0,1)
+dodeb:(0,1)
+read_levelfile_callback:F(0,1)
+level:p(7,2)
+read_levelfile:F(0,1)
+dodeb:r(0,1)
+usage:F(0,19)
+arg:p(7,2)
+arg:r(7,2)
+do_usage:F(0,19)
+cmd:r(7,2)
+dh_from:G(7,2)
+dh_rest:G(7,2)
+dh_j:G(0,1)
+dh_i:G(0,1)
+combot.c
+savesession:F(0,1)
+lc:r(0,20)=*(42,69)
+Vars:r(0,21)=*(42,8)
+CV:r(0,21)
+sp:r(42,52)
+bot:(42,64)
+j:(0,1)
+sf:(0,1)
+check_dynamic:F(0,19)
+cu:r(42,38)
+ascnum:(0,22)=ar(0,1);0;10;(0,2)
+wind:r(0,1)
+add_service:F(0,1)
+l_list:p(0,23)=*(42,39)
+l_list:p(0,23)
+l_list:r(0,23)
+delete_service:F(0,1)
+service:p(42,39)
+old:r(0,23)
+find_service:F(42,39)
+delete_all_services:F(0,19)
+ServicesList:p(42,39)
+add_bot:F(42,64)
+buffer:(42,55)
+signoff:F(0,19)
+reason:p(7,2)
+reason:r(7,2)
+sp:(42,23)
+spn:r(42,23)
+kill_all_bots:F(0,19)
+add_server:F(42,52)
+port:p(0,1)
+pass:p(7,2)
+new:(42,48)
+try_server:F(0,1)
+sp:p(42,52)
+connect_to_server:F(0,19)
+sptry:r(42,52)
+parse_avoice:F(0,19)
+end:(42,23)
+modes:(42,3)
+nicks:(42,3)
+max:(0,1)
+reset_botstate:F(0,19)
+ltime:(0,24)=*(19,1)
+chantemp:r(7,2)
+x:r(0,1)
+trvar:r(0,1)
+parse_server_input:F(0,19)
+linebuf:(42,3)
+res:r(7,2)
+sendpass:r(0,1)
+commands.c
+do_service:F(0,19)
+scmd:r(7,2)
+schan:r(7,2)
+sto:r(7,2)
+smsg:r(7,2)
+tmpchanptr:r(42,58)
+servicesptr:r(0,20)=*(42,39)
+do_stats:F(0,19)
+ump:r(42,23)
+Shit:(42,54)
+nuh:(7,2)
+authd:(0,1)
+do_access:F(0,19)
+chan:r(7,2)
+nuh:r(7,2)
+do_auth:F(0,19)
+tms:(0,21)=ar(0,1);0;255;(0,2)
+pwn:r(0,1)
+v:r(0,1)
+do_unverify:F(0,19)
+do_time:F(0,19)
+do_uptime:F(0,19)
+do_ontime:F(0,19)
+do_cchan:F(0,19)
+do_opme:F(0,19)
+cmdlevel:r(0,1)
+do_deopme:F(0,19)
+do_op:F(0,19)
+do_voice:F(0,19)
+do_deop:F(0,19)
+do_unvoice:F(0,19)
+do_invite:F(0,19)
+do_chat:F(0,19)
+do_boot:F(0,19)
+do_say:F(0,19)
+do_me:F(0,19)
+do_msg:F(0,19)
+do_do:F(0,19)
+do_join:F(0,19)
+do_part:F(0,19)
+do_nick:F(0,19)
+do_die:F(0,19)
+do_add:F(0,19)
+handle:(7,2)
+level:(7,2)
+aopa:(7,2)
+prota:r(7,2)
+uh:(7,2)
+passwd:(42,21)
+already:r(0,1)
+ulevel:(0,1)
+ip:r(0,22)=*(0,1)
+do_del:F(0,19)
+ulevel:r(0,1)
+do_savelevels:F(0,19)
+do_loadlevels:F(0,19)
+do_savelists:F(0,19)
+do_loadlists:F(0,19)
+do_ban:F(0,19)
+ul:(0,1)
+do_siteban:F(0,19)
+do_kickban:F(0,19)
+do_sitekickban:F(0,19)
+do_kick:F(0,19)
+do_showusers:F(0,19)
+pattern:(7,2)
+modechar:(0,2)
+thechar:(0,2)
+umode:r(0,1)
+ul:r(0,1)
+flags:(0,1)
+do_shit:F(0,19)
+aday:(7,2)
+uh2:r(7,2)
+whoshit:(0,23)=ar(0,1);0;254;(0,2)
+days:r(0,1)
+uaxs:r(0,1)
+shaxs:r(0,1)
+do_rshit:F(0,19)
+do_clvl:F(0,19)
+clev:r(7,2)
+flvl:r(0,1)
+tmp:r(42,54)
+do_unban:F(0,19)
+do_topic:F(0,19)
+do_spymsg:F(0,19)
+new:(42,46)
+do_statmsg:F(0,19)
+do_rspymsg:F(0,19)
+do_rstatmsg:F(0,19)
+do_server:F(0,19)
+server:r(7,2)
+ircname:r(7,2)
+do_nextserver:F(0,19)
+do_cycle:F(0,19)
+do_spy:F(0,19)
+where:r(7,2)
+do_rspy:F(0,19)
+who:(7,2)
+do_spylist:F(0,19)
+do_banlist:F(0,19)
+do_passwd:F(0,19)
+oldpass:(7,2)
+do_setpass:F(0,19)
+do_showidle:F(0,19)
+seconds:r(7,2)
+do_cslvl:F(0,19)
+newlevel:(0,1)
+do_alias:F(0,19)
+do_idle:F(0,19)
+do_saveall:F(0,19)
+do_loadall:F(0,19)
+do_names:F(0,19)
+do_forget:F(0,19)
+do_kicksay:F(0,19)
+new:(42,24)
+string:r(7,2)
+what:(7,2)
+do_rkicksay:F(0,19)
+dcc.c
+search_list:F(42,59)
+type:p(0,5)
+type:r(0,5)
+change_dccnick:F(0,19)
+olduser:p(7,2)
+newnuh:p(7,2)
+newnuh:r(7,2)
+add_client:F(0,19)
+new:p(42,59)
+new:r(42,59)
+delete_client:F(0,19)
+Client:p(0,20)=*(42,59)
+Client:p(0,20)
+Client:r(0,20)
+rem:r(42,59)
+ptr:(42,59)
+maxul:r(0,1)
+close_all_dcc:F(0,19)
+process_incoming_chat:F(0,19)
+Client:p(42,59)
+so:(42,49)
+bp:(7,2)
+size:(0,1)
+s:r(0,1)
+oc:r(0,1)
+parse_dcc_input:F(0,19)
+tmp:(42,3)
+maxul:(0,1)
+dcc_connect:F(0,19)
+sip:r(7,2)
+port:(7,2)
+ip_addr:(0,21)=ar(0,1);0;29;(0,2)
+ipl:(0,5)
+iport:(0,1)
+__X:r(9,4)
+dcc_chat:F(0,19)
+sz:(0,1)
+__X:r(9,2)
+send_chat:F(0,1)
+text:p(7,2)
+ctcp_version:F(0,19)
+st:r(7,2)
+ctcp_finger:F(0,19)
+ctcp_dcc:F(0,19)
+type:r(7,2)
+p:r(7,2)
+ctcp_ping:F(0,19)
+ctcp_commands:G(0,22)=ar(0,1);0;-1;(0,23)=s8name:(7,2),0,32;func:(0,24)=*(0,25)=f(0,19),32,32;;
+on_ctcp:F(0,19)
+mul:r(0,1)
+debug.c
+DEFstruct:T(0,20)=s8id:(0,1),0,32;idstr:(7,2),32,32;;
+DEFstruct:t(0,21)=(0,20)
+LNdefs:G(0,22)=ar(0,1);0;-1;(0,21)
+CNdefs:G(0,23)=ar(0,1);0;-1;(0,21)
+strdef:F(7,2)
+dtab:p(0,24)=*(0,21)
+num:p(0,1)
+dtab:p(0,24)
+dtab:r(0,24)
+atime:F(7,2)
+when:p(9,41)
+zp:r(7,2)
+debug_server:F(0,19)
+pad:p(7,2)
+pad:r(7,2)
+pl:(0,1)
+God A red nugget A fat egg under a dog
+debug_core:F(0,19)
+st:r(42,23)
+debug_links:F(0,19)
+lc:r(0,25)=*(42,69)
+bl:r(0,26)=*(42,65)
+bl2:r(0,26)
+do_debug:F(0,19)
+fname:(42,55)
+fd:r(0,1)
+backup_fd:r(0,1)
+backup_dodebug:(0,1)
+debug:F(0,19)
+function.c
+months:S(0,20)=ar(0,1);0;-1;(7,2)
+days:S(0,21)=ar(0,1);0;-1;(7,2)
+is_netsplit:F(0,1)
+quitmsg:p(7,2)
+quitmsg:r(7,2)
+dot1:r(0,1)
+dot2:r(0,1)
+spc:r(0,1)
+formatgreet:F(7,2)
+insert:p(7,2)
+format:r(7,2)
+insert:r(7,2)
+mem:V(42,3)
+dst:r(7,2)
+src:r(7,2)
+update_auths:F(0,19)
+cptr:r(42,57)
+nxt:r(42,57)
+MyMalloc:F(2,6)
+size:p(0,1)
+tmp:r(2,6)
+MyFree:F(0,19)
+mem:p(25,2)
+mem:r(25,2)
+mstrcpy:F(7,2)
+dest:p(25,2)
+src:p(7,2)
+dest:r(25,2)
+terminate:F(7,2)
+string:p(7,2)
+chars:p(7,2)
+chars:r(7,2)
+get_token:F(7,2)
+src:p(25,2)
+token_sep:p(7,2)
+src:r(25,2)
+token_sep:r(7,2)
+chop:F(7,2)
+Strcasecmp:F(0,1)
+s1:p(9,17)
+s2:p(9,17)
+p1:r(2,4)
+p2:r(2,4)
+ret:r(0,1)
+c1:r(0,11)
+Strcat:F(7,2)
+dst:p(7,2)
+getnick:F(7,2)
+nuh:p(7,2)
+nick:V(0,22)=ar(0,1);0;79;(0,2)
+tp:r(7,2)
+gethost:F(7,2)
+host:V(0,23)=ar(0,1);0;79;(0,2)
+getuh:F(7,2)
+uh:V(0,24)=ar(0,1);0;79;(0,2)
+time2str:F(7,2)
+btime:r(0,25)=*(19,1)
+time2away:F(7,2)
+btime:r(0,25)
+ampm:r(0,2)
+time2medium:F(7,2)
+time2small:F(7,2)
+idle2str:F(7,2)
+small:p(0,1)
+when:r(9,41)
+d:r(0,1)
+h:r(0,1)
+m:r(0,1)
+my_stristr:F(7,2)
+s1:p(7,2)
+s2:p(7,2)
+s1:r(7,2)
+s2:r(7,2)
+n1:(0,26)=ar(0,1);0;2047;(0,2)
+n2:(0,26)
+ptr1:r(7,2)
+ptr2:(7,2)
+save:(7,2)
+find_userhost:F(7,2)
+no_info:F(0,19)
+mass_action:F(0,19)
+fromuser:r(42,38)
+temp:(7,2)
+mpl:r(0,1)
+shit_action:F(0,1)
+Shit:r(42,54)
+prot_action:F(0,19)
+protnuh:p(7,2)
+ChanUser2:r(42,38)
+saveprotnuh:(42,3)
+banuh:r(7,2)
+is_localbot:F(0,1)
+get_channel:F(7,2)
+rest:p(25,2)
+rest:r(25,2)
+get_channel2:F(7,2)
+nick2uh:F(7,2)
+userhost:p(7,2)
+userhost:r(7,2)
+buffer:V(0,26)
+format_uh:F(7,2)
+banmask:V(4,13)
+tmpmask:(4,13)
+u:r(7,2)
+h:(7,2)
+deop_ban:F(0,19)
+deop_siteban:F(0,19)
+isnick:F(0,1)
+p:r(2,4)
+cluster:F(7,2)
+hostname:p(7,2)
+hostname:r(7,2)
+result:V(42,55)
+temphost:(0,27)=ar(0,1);0;254;(0,2)
+num:(0,2)
+numchar:F(0,1)
+ch:p(0,1)
+c:(0,2)
+right:F(7,2)
+capslevel:F(0,1)
+len:r(0,1)
+tot:r(0,1)
+pctab:G(0,28)=ar(0,1);0;64;(0,2)
+cipher:F(7,2)
+res:V(0,29)=ar(0,1);0;39;(0,2)
+B1a:(0,5)
+B2a:r(0,5)
+B3a:r(0,5)
+B4a:(0,5)
+B1b:r(0,5)
+Eleele
+B2b:r(0,5)
+B3b:r(0,5)
+B4b:(0,5)
+ptr:r(2,4)
+R1:(0,5)
+makepass:F(0,19)
+encoded:p(7,2)
+plain:p(7,2)
+encoded:r(7,2)
+passmatch:F(0,1)
+check_for_number:F(0,1)
+findstruct:F(7,2)
+base:p(7,2)
+sz:p(0,1)
+ident:p(0,1)
+sz:r(0,1)
+ident:r(0,1)
+s:r(0,30)=*(42,75)
+addstruct:F(7,2)
+base:p(25,2)
+new:p(7,2)
+num:p(0,31)=*(0,1)
+num:p(0,31)
+num:r(0,31)
+Atoi:F(0,31)
+res:V(0,1)
+neg:r(0,1)
+escape_string:F(7,2)
+pp:r(7,2)
+unescape_string:F(7,2)
+add_alias:F(0,19)
+data:p(7,2)
+org:(7,2)
+new:r(7,2)
+uhbuf:S(4,13)
+timebuf:S(42,3)
+idlestr:S(42,3)
+__escape_string__:G(0,26)
+link.c
+needop:F(0,19)
+wle:F(0,19)
+setbotnick:F(0,19)
+bot:p(42,64)
+link_dccuser:F(0,19)
+add_del:p(0,1)
+add_del:r(0,1)
+find_entity:F(0,20)=*(42,65)
+lntype:p(0,1)
+find_entity:F(0,20)
+lntype:r(0,1)
+bl:r(0,20)
+remlink:F(0,19)
+Link:p(0,20)
+from:p(0,20)
+lc:r(0,21)=*(42,69)
+bl2:r(0,20)
+bl3:r(0,20)
+olt:r(0,1)
+do_linkcmd:F(0,19)
+buf:(42,55)
+doer:r(7,2)
+addlinkconf:F(0,19)
+lc:r(0,21)
+new:(42,69)
+do_link:F(0,19)
+lc2:(0,21)
+valid:(0,1)
+new:(42,65)
+pass:(7,2)
+port:r(0,22)=*(0,1)
+link_write:F(0,19)
+Link:r(0,20)
+send_to_link:F(0,19)
+buf:(0,23)=ar(0,1);0;2047;(0,2)
+link_bcast:F(0,19)
+ExLink:p(0,20)
+buf:(0,23)
+newlinksock:F(0,19)
+newsock:p(0,1)
+newsock:r(0,1)
+checklinkpass:F(0,1)
+ent:p(7,2)
+ent:r(7,2)
+Link_addbot:F(0,19)
+entity:(7,2)
+Link_quit:F(0,19)
+bot:r(7,2)
+Link_msg:F(0,19)
+from:(7,2)
+Link_link:F(0,19)
+type:(7,2)
+Link_cmd:F(0,19)
+to:(7,2)
+Link_reply:F(0,19)
+tmp:(0,24)=ar(0,1);0;255;(0,2)
+tmp2:(42,55)
+botnick:(7,2)
+user:(7,2)
+m:(0,1)
+Link_needop:F(0,19)
+Link_needinvite:F(0,19)
+Link_needkey:F(0,19)
+key:(7,2)
+Link_nick:F(0,19)
+ent:(7,2)
+old:(7,2)
+new:(7,2)
+uplink:(0,1)
+Link_userverify:F(0,19)
+LinkCmdStruct:T(0,25)=s8name:(7,2),0,32;function:(0,26)=*(0,27)=f(0,19),32,32;;
+aLinkCmd:t(0,28)=(0,25)
+link_cmds:G(0,29)=ar(0,1);0;-1;(0,28)
+pipeuser_refresh:F(0,19)
+process_link_input:F(0,19)
+buf:p(7,2)
+PU:r(42,53)
+Client:(42,59)
+nuh:(4,13)
+cmd:(7,2)
+rest:(7,2)
+pu_user:F(0,19)
+pu_nick:F(0,19)
+pu_quit:F(0,19)
+pu_join:F(0,19)
+pu_part:F(0,19)
+pu_privmsg:F(0,19)
+dest:r(7,2)
+pucmd:G(0,30)=ar(0,1);0;-1;(0,31)=s8command:(7,2),0,32;func:(0,32)=*(0,33)=f(0,19),32,32;;
+parse_pipe_input:F(0,19)
+res:(7,2)
+parse_link_input:F(0,19)
+lc:(0,21)
+newS:r(0,1)
+blen:(0,1)
+lebuf:G(0,23)
+main.c
+__mx_opts:G(1,1)=ar(0,1);0;48;(0,2)
+VERSION:G(43,1)=ar(0,1);0;6;(0,2)
+SRCDATE:G(43,2)=ar(0,1);0;14;(0,2)
+BOTCLASS:G(43,3)=ar(0,1);0;19;(0,2)
+BOTLOGIN:G(43,4)=ar(0,1);0;4;(0,2)
+NULLSTR:G(43,5)=ar(0,1);0;6;(0,2)
+ERR_CHAN:G(43,6)=ar(0,1);0;13;(0,2)
+ERR_FILEOPEN:G(43,7)=ar(0,1);0;25;(0,2)
+ERR_INIT:G(43,8)=ar(0,1);0;14;(0,2)
+ERR_NICK:G(43,9)=ar(0,1);0;20;(0,2)
+ERR_NOCHANNELS:G(43,10)=ar(0,1);0;30;(0,2)
+ERR_NOSAVE:G(43,11)=ar(0,1);0;35;(0,2)
+ERR_NOTOPPED:G(43,12)=ar(0,1);0;19;(0,2)
+SHELLMASK:G(43,13)=ar(0,1);0;18;(0,2)
+PUMASK:G(43,14)=ar(0,1);0;17;(0,2)
+BinaryDefault:G(43,15)=ar(0,1);0;46;(42,8)
+VarName:G(43,16)=ar(0,1);0;46;(42,12)
+tolowertab:G(43,17)=ar(0,1);0;255;(0,11)
+attrtab:G(43,17)
+mech_exec:F(0,19)
+s:(17,2)
+matches:F(0,1)
+ma:p(7,2)
+na:p(7,2)
+m:r(2,4)
+n:r(2,4)
+mask:(2,4)
+wild:(0,1)
+q:(0,1)
+num_matches:F(0,1)
+spec:p(7,2)
+what:p(7,2)
+randstring_count:F(0,1)
+randstring_getline:F(0,1)
+randstring:F(7,2)
+file:p(7,2)
+file:r(7,2)
+sig_hup_callback:F(0,1)
+sig_hup:F(0,19)
+crap:p(0,1)
+sig_child:F(0,19)
+sig_alrm:F(0,19)
+sig_pipe:F(0,19)
+sig_int:F(0,19)
+sig_bus:F(0,19)
+sig_segv:F(0,19)
+sig_term:F(0,19)
+sig_usr1:F(0,19)
+sig_usr2:F(0,19)
+uptimeport:G(0,1)
+PackUp:T(0,20)=s36regnr:(0,1),0,32;pid:(0,1),32,32;type:(0,1),64,32;cookie:(0,5),96,32;uptime:(0,5),128,32;ontime:(0,5),160,32;now:(0,5),192,32;sysup:(0,5),224,32;string:(0,21)=ar(0,1);0;2;(0,2),256,24;;
+PackUp:t(0,22)=(0,20)
+init_uptime:F(0,1)
+send_uptime:F(0,19)
+st:(17,2)
+mem:(0,23)=*(0,22)
+len:(0,1)
+do_uset:F(0,19)
+doit:F(0,19)
+bl:r(0,24)=*(42,65)
+tv:(18,1)
+bot2:r(42,64)
+hisock:(0,1)
+uldie:r(0,1)
+res:r(0,1)
+regPack:(0,25)=s8regnr:(0,1),0,32;cookie:(0,5),32,32;;
+bad_exe:G(7,2)
+main:F(0,1)
+argc:p(0,1)
+argv:p(25,2)
+argc:r(0,1)
+argv:r(25,2)
+opt:r(7,2)
+ip:r(0,26)=*(0,1)
+versiononly:r(0,1)
+botlist:G(42,64)
+current:G(42,64)
+backup:G(42,64)
+executable:G(42,55)
+configfile:G(42,55)
+will:G(42,67)
+uptime:G(9,41)
+sigmaster:G(0,1)
+shell_cmd:G(0,1)
+need_dcc:G(0,1)
+mechbin:G(17,2)
+do_exec:G(0,1)
+do_fork:G(0,1)
+nummatch:G(0,1)
+makecore:G(0,1)
+respawn:G(0,1)
+killsocks:G(0,27)=*(42,84)
+CurrentChan:G(42,58)
+CurrentUser:G(42,54)
+CurrentShit:G(42,54)
+CurrentNick:G(4,13)
+userident:G(0,1)
+read_fds:G(9,46)
+write_fds:G(9,46)
+short_tv:G(0,1)
+now:G(9,41)
+lastsave:G(9,41)
+botlinkSIZE:G(0,1)
+botlinkBASE:G(0,24)
+linkconfSIZE:G(0,1)
+linkconfBASE:G(0,28)=*(42,69)
+my_entity:G(37,9)
+my_pass:G(37,9)
+linkport:G(0,1)
+linksock:G(0,1)
+last_autolink:G(9,41)
+botlinkident:G(0,1)
+LE:G(0,1)
+PUnick:G(7,2)
+serverBASE:G(42,52)
+serverSIZE:G(0,1)
+serverident:G(0,1)
+dodebug:G(0,1)
+debugbuf:G(0,29)=ar(0,1);0;2047;(0,2)
+lastline:G(42,55)
+debug_fd:G(0,1)
+debugfile:G(42,55)
+runtime:G(9,41)
+r_ct:G(0,1)
+r_str:G(7,2)
+shellmask:G(7,2)
+uptimehost:G(7,2)
+uptimesock:G(0,1)
+uptimecount:G(0,1)
+uptime_so:G(42,49)
+uptimecookie:G(0,5)
+uptimelast:G(9,41)
+upPack:G(0,22)
+parse.c
+parse_error:F(0,19)
+parse_invite:F(0,19)
+parse_join:F(0,19)
+copy:V(4,13)
+n:(7,2)
+parse_mode:F(0,19)
+tbuf:(37,9)
+tbuf2:(37,9)
+tbuf3:(37,9)
+themodes:r(7,2)
+aptr:(7,2)
+aptr2:r(7,2)
+modelen:(0,1)
+parse_notice:F(0,19)
+ping:r(0,1)
+parse_part:F(0,19)
+parse_ping:F(0,19)
+parse_privmsg:F(0,19)
+parse_quit:F(0,19)
+parse_topic:F(0,19)
+parse_wallops:F(0,19)
+parse_EOMOTD:F(0,19)
+parse_001:F(0,19)
+newnick:r(7,2)
+parse_002:F(0,19)
+parse_003:F(0,19)
+parse_004:F(0,19)
+parse_213:F(0,19)
+aVarX:r(42,57)
+parse_219:F(0,19)
+aVarX2:r(42,57)
+parse_243:F(0,19)
+parse_251:F(0,19)
+users:r(7,2)
+invusers:r(7,2)
+servers:r(7,2)
+c_users:(0,3)
+c_invusers:(0,3)
+tot_users:(0,3)
+c_servers:(0,3)
+parse_252:F(0,19)
+opers:r(7,2)
+c_opers:(0,3)
+parse_253:F(0,19)
+ucons:r(7,2)
+c_ucons:(0,3)
+parse_254:F(0,19)
+chans:r(7,2)
+c_chans:(0,3)
+parse_255:F(0,19)
+clients:r(7,2)
+c_clients:(0,1)
+c_servers:(0,1)
+parse_301:F(0,19)
+parse_311:F(0,19)
+parse_312:F(0,19)
+parse_313:F(0,19)
+operinfo:r(7,2)
+tbuf:(42,55)
+parse_315:F(0,19)
+parse_317:F(0,19)
+istr:r(7,2)
+signon:r(7,2)
+c_idle:(0,3)
+c_signon:r(0,3)
+min_idle:r(0,1)
+parse_318:F(0,19)
+parse_319:F(0,19)
+parse_324:F(0,19)
+parse_352:F(0,19)
+host:(7,2)
+mode:r(7,2)
+nuh:(42,3)
+parse_367:F(0,19)
+banstring:(7,2)
+banfrom:r(7,2)
+bantime:r(7,2)
+parse_401:F(0,19)
+parse_405:F(0,19)
+parse_433:F(0,19)
+s:r(7,2)
+randomstr:(0,21)=ar(0,1);0;4;(0,2)
+parse_451:F(0,19)
+parse_471:F(0,19)
+parse_473:F(0,19)
+parse_475:F(0,19)
+pFuncsA:G(0,22)=ar(0,1);0;-1;(0,23)=s12name:(7,2),0,32;flags:(0,1),32,32;func:(0,24)=*(0,25)=f(0,19),64,32;;
+pFuncsN:G(0,26)=ar(0,1);0;-1;(0,27)=s12num:(0,1),0,32;flags:(0,1),32,32;func:(0,24),64,32;;
+parseline:F(0,19)
+command:(7,2)
+socket.c
+get_ip:F(0,1)
+so:p(0,20)=*(42,49)
+so:p(0,20)
+so:r(0,20)
+hints:(25,6)
+ai:r(25,8)
+res:(25,8)
+error:r(0,1)
+SockOpts:F(0,1)
+family:p(0,1)
+pram:(0,1)
+SockListener:F(0,1)
+SockConnect:F(0,1)
+use_vhost:p(0,1)
+uv:r(0,1)
+send_to_socket:F(0,1)
+sock:p(0,1)
+sock:r(0,1)
+bigbuf:(0,21)=ar(0,1);0;2047;(0,2)
+pt:(7,2)
+sendprivmsg:F(0,19)
+buf:(0,21)
+sendmode:F(0,19)
+sendkick:F(0,19)
+send_ctcp_reply:F(0,19)
+send_ctcp:F(0,19)
+send_to_user:F(0,19)
+copy:(7,2)
+bk:r(42,64)
+tmp:(0,21)
+to_server:F(0,19)
+pop:r(7,2)
+args:(7,2)
+sockread:F(7,2)
+l:(0,1)
+readline:F(0,19)
+callback:p(0,22)=*(0,23)=f(0,1)
+callback:p(0,22)
+readbuf:(42,3)
+killsock:F(0,1)
+ks:(0,24)=*(42,84)
+ksnext:r(0,24)
+ksp:r(0,24)
+t:(18,1)
+rd:(9,46)
+wd:(9,46)
+bitbucket:(42,3)
+userlist.c
+saveuserlist:F(0,1)
+check_kicksay:F(42,54)
+find_kicksay:F(42,54)
+save:(42,54)
+best:(0,1)
+do_kslist:F(0,19)
+addmasktouser:F(0,19)
+User:p(42,54)
+mask:p(7,2)
+new:r(42,23)
+delmaskfromuser:F(0,19)
+pp:r(0,20)=*(42,23)
+ump:(42,23)
+do_host:F(0,19)
+incmd:(7,2)
+handle:r(7,2)
+add_to_userlist:F(42,54)
+handle:p(7,2)
+axs:p(0,1)
+aop:p(0,1)
+prot:p(0,1)
+chan:p(7,2)
+up:r(42,54)
+uid:r(0,1)
+sid:r(0,1)
+do_userlist:F(0,19)
+mask:(7,2)
+minlevel:(0,1)
+maxlevel:(0,1)
+botsonly:(0,1)
+chanonly:(0,1)
+show:r(0,1)
+cmdok:r(0,1)
+remove_user:F(0,19)
+nxt:r(42,23)
+find_handle:F(42,54)
+find_user:F(42,54)
+get_userlevel:F(0,1)
+max_userlevel:F(0,1)
+is_aop:F(0,1)
+is_avoice:F(0,1)
+is_user:F(0,1)
+get_protlevel:F(0,1)
+get_protuseraccess:F(0,1)
+get_shituser:F(42,54)
+verified:F(0,1)
+password_needed:F(0,1)
+dummy:r(42,54)
+correct_password:F(0,1)
+password:p(7,2)
+password:r(7,2)
+find_shit:F(42,54)
+save:r(42,54)
+add_to_shitlist:F(42,54)
+uh:p(7,2)
+level:p(0,1)
+when:p(0,1)
+expire:p(0,1)
+expire:r(0,1)
+do_shitlist:F(0,19)
+delete_shitlist:F(0,19)
+is_shitted:F(0,1)
+get_shitlevel:F(0,1)
+get_shitreason:F(7,2)
+res:V(42,3)
+crap:r(7,2)
+find_time:F(42,57)
+l_list:p(0,21)=*(42,57)
+l_list:p(0,21)
+l_list:r(0,21)
+user:r(42,57)
+make_time:F(42,57)
+new:r(42,57)
+remove_time:F(0,19)
+cptr:p(42,57)
+delete_time:F(0,19)
+uptime_time:F(0,19)
+write_seenlist:F(0,1)
+l_list:p(0,22)=*(42,60)
+filename:p(7,2)
+l_list:p(0,22)
+l_list:r(0,22)
+read_seenlist_callback:F(0,1)
+userhost:(7,2)
+kicker:r(7,2)
+timestr:r(7,2)
+selector:r(7,2)
+theselector:r(0,1)
+read_seenlist:F(0,1)
+delete_seen:F(0,19)
+Seen:(42,60)
+nxt:r(42,60)
+make_seen:F(42,60)
+kicker:p(7,2)
+selector:p(0,1)
+selector:r(0,1)
+pSeen:r(0,22)
+c2:r(0,11)
+vars.c
+get_int_varc:F(0,1)
+channel:p(42,58)
+which:p(0,1)
+channel:r(42,58)
+get_str_varc:F(7,2)
+get_int_var:F(0,1)
+get_str_var:F(7,2)
+set_str_varc:F(0,19)
+value:p(7,2)
+find_var_name:F(0,1)
+copy_vars:F(0,19)
+dst:p(0,20)=*(42,8)
+src:p(0,21)=*(42,8)
+dst:p(0,20)
+alula
+src:p(0,21)
+free_strvars:F(0,19)
+vars:p(0,20)
+find_var:F(0,20)
+do_set:F(0,19)
+var:r(0,20)
+temp:r(42,58)
+value:(7,2)
+which:(0,1)
+num:(0,1)
+do_toggle:F(0,19)
+setname:(7,2)
+ms:r(7,2)
+mode:r(0,1)
+do_report:F(0,19)
+Vars:(0,20)
+tempstr:(7,2)
+tempval:(0,1)
+xmech.c
+ec_access:F(0,19)
+pp:p(25,2)
+rp:p(25,2)
+pp:r(25,2)
+rp:r(25,2)
+ec_cc:F(0,19)
+ec_channels:F(0,19)
+ec_links:F(0,19)
+bl:r(0,20)=*(42,65)
+x:(0,1)
+y:(0,1)
+ec_time:F(0,19)
+ec_vars:F(0,19)
+sp:r(7,2)
+ec_on:F(0,19)
+ec_up:F(0,19)
+ec_ver:F(0,19)
+ecmd:G(0,21)=ar(0,1);0;-1;(0,22)=s12name:(7,2),0,32;len:(0,2),32,8;function:(0,23)=*(0,24)=f(0,19),64,32;;
+do_esay:F(0,19)
+res:(42,55)
+ptr:(7,2)
+rs:(7,2)
+ch:r(0,11)
+chp:(2,4)
+rlen:(0,1)
+subststrvar:F(7,2)
+res:V(42,55)
+rs:r(7,2)
+do_pickup:F(0,19)
+pickup:r(7,2)
+do_insult:F(0,19)
+insult:r(7,2)
+do_core:F(0,19)
+tmp:(42,55)
+u:(0,1)
+su:r(0,1)
+bu:r(0,1)
+do_cserv:F(0,19)
+do_qshit:F(0,19)
+whoshit:(0,25)=ar(0,1);0;639;(0,2)
+do_wall:F(0,19)
+do_mode:F(0,19)
+do_rehash2:F(0,19)
+do_clearshit:F(0,19)
+do_ctcp:F(0,19)
+target:r(7,2)
+do_whom:F(0,19)
+sps:(4,13)
+stt:(4,13)
+do_echo:F(0,19)
+do_vers:F(0,19)
+screwban_format:F(0,19)
+th:(0,26)=ar(0,1);0;4;(0,2)
+ii:(0,1)
+iii:r(0,1)
+iiii:r(0,1)
+deop_screwban:F(0,19)
+temp:(42,55)
+temp2:(42,55)
+do_last:F(0,19)
+thenum:r(7,2)
+do_randomtopic:F(0,19)
+do_screwban:F(0,19)
+yuck:r(7,2)
+do_reset:F(0,19)
+do_addserver:F(0,19)
+do_delserver:F(0,19)
+dp:(42,52)
+port:r(7,2)
+n:(0,1)
+iport:r(0,1)
+ip:r(0,27)=*(0,1)
+do_serverlist:F(0,19)
+last:r(7,2)
+do_away:F(0,19)
+do_servstats:F(0,19)
+serv:r(7,2)
+do_whois_irc:F(0,19)
+do_lusers:F(0,19)
+do_userhost:F(0,19)
+do_dcc_kill:F(0,19)
+do_user:F(0,19)
+doer:r(42,54)
+change:r(0,1)
+parms:(0,1)
+av:(0,1)
+ao:(0,1)
+pm:(0,1)
+ec:(0,1)
+do_cmdchar:F(0,19)
+do_virtual:F(0,19)
+vhost:r(7,2)
+do_wingate:F(0,19)
+wing:r(7,2)
+ip:r(0,27)
+do_shutdown:F(0,19)
+ec_tmp:G(42,55)
+trivia.c
+.symtab
+.strtab
+.shstrtab
+.interp
+.note.ABI-tag
+.hash
+.dynsym
+.dynstr
+.rel.bss
+.rel.plt
+.init
+.text
+.fini
+.rodata
+.data
+.eh_frame
+.dynamic
+.ctors
+.dtors
+.got
+.stab
+.stabstr
+crtstuff.c
+gcc2_compiled.
+__DTOR_LIST__
+completed.4
+__do_global_dtors_aux
+__EH_FRAME_BEGIN__
+fini_dummy
+object.11
+frame_dummy
+init_dummy
+force_to_data
+__CTOR_LIST__
+__do_global_ctors_aux
+__CTOR_END__
+__DTOR_END__
+__FRAME_END__
+cfgfile.c
+channel.c
+modestr.93
+get_nuhbuf
+com-ons.c
+msg_copy.39
+combot.c
+commands.c
+dcc.c
+debug.c
+function.c
+months
+days
+mem.21
+nick.52
+host.56
+uh.60
+timebuf
+idlestr
+uhbuf
+buffer.106
+banmask.110
+result.123
+res.136
+res.155
+link.c
+main.c
+parse.c
+copy.24
+socket.c
+userlist.c
+res.105
+vars.c
+xmech.c
+res.48
+trivia.c
+try_server
+read_levelfile_callback
+short_tv
+in6addr_any
+remove_ban
+pu_part
+delete_time
+do_lusers
+parse_wallops
+parse_219
+mcmd
+strcpy
+linkconfBASE
+send_uptime
+do_user
+readuserlist
+parse_311
+cfg_service
+ec_cc
+debugfile
+ec_vars
+mech_exec
+waitpid
+dcc_connect
+remove_chanuser
+is_netsplit
+do_msg
+channel_massunbanfrom
+parse_mode
+make_ban
+cfg_prot
+needop_via_msg
+cfg_nickname
+printf
+vsprintf
+prot_action
+lastline
+do_seen
+to_server
+do_kickban
+cfg_avoice
+send_to_user
+get_shitlevel
+Atoi
+cfg_wingate
+add_mode
+on_ctcp
+connect
+do_nextserver
+do_servstats
+do_showusers
+find_userhost
+do_unverify
+cfg_addks
+checklinkpass
+Strcat
+is_avoice
+CurrentChan
+strerror
+___toupper
+Link_needinvite
+parse_243
+read_fds
+do_dcc_kill
+BOTLOGIN
+cfg_who
+bad_exe
+do_spymsg
+snprintf
+kill_all_bots
+sigmaster
+do_echo
+get_shituser
+do_ban
+send_ctcp_reply
+serverBASE
+add_to_shitlist
+del_mode
+_DYNAMIC
+link_write
+linkport
+atol
+do_whois_irc
+cycle_channel
+dh_from
+Strcasecmp
+verified
+lebuf
+pu_quit
+debug_server
+dh_j
+sig_usr1
+ERR_NOCHANNELS
+reverse_topic
+do_fork
+pu_user
+Link_needop
+is_shitted
+ERR_FILEOPEN
+MyMalloc
+do_kicksay
+do_whom
+cfg_server
+cfg_access
+ctcp_version
+uptimecookie
+delmaskfromuser
+nummatch
+check_for_number
+numchar
+parse_invite
+my_entity
+usleep
+unescape_string
+do_say
+link_cmds
+getpid
+pu_privmsg
+ERR_CHAN
+get_str_varc
+do_insult
+uptimecount
+pu_join
+cfg_entity
+cfg_ircname
+shellmask
+parse_notice
+on_msg
+do_loadall
+usage
+do_mode
+do_savelevels
+sig_child
+parse_473
+LNdefs
+Link_msg
+do_screwban
+botlinkBASE
+ec_on
+formatgreet
+do_die
+do_del
+do_virtual
+strdef
+memcpy
+do_ontime
+execl
+Link_reply
+serverident
+cfg_hasonotice
+ctcp_finger
+readline
+update_idletime
+readuserlist_callback
+do_voice
+addmasktouser
+parse_004
+parse_error
+cfg_tog
+parse_401
+copy_channellist
+killsocks
+get_userlevel
+VarName
+ec_time
+isnick
+pFuncsA
+respawn
+sig_hup_callback
+pu_nick
+search_list
+parse_318
+attrtab
+recvfrom
+do_report
+randstring_count
+cfg_linkpass
+do_passwd
+print_help
+time2small
+ERR_INIT
+cfg_aop
+right
+get_ip
+on_nick
+get_str_var
+do_rstatmsg
+debug_fd
+socket
+select
+on_join
+randstring_getline
+get_int_varc
+parse_dcc_input
+killsock
+get_nuh
+level_needed
+time2away
+do_rehash2
+find_nuh
+parse_313
+delete_ban
+remlink
+delete_channel
+do_siteban
+parse_pipe_input
+parse_251
+sig_term
+NULLSTR
+do_core
+show_idletimes
+do_idle
+uptime_so
+debug
+do_linkcmd
+dh_rest
+find_var_name
+send_common_spy
+sendkick
+shell_cmd
+do_op
+do_join
+cfg_addshit
+channel_massmode
+last_autolink
+strncasecmp
+linkconfSIZE
+do_unban
+cluster
+bzero
+CurrentNick
+do_part
+do_uset
+connect_to_server
+freeaddrinfo
+ec_links
+do_sitekickban
+userident
+ec_channels
+do_spylist
+VERSION
+sig_segv
+_init
+send_spy
+usermode
+is_present
+pucmd
+do_wall
+send_spymsg
+time2medium
+_DefaultRuneLocale
+do_deop
+do_serverlist
+on_public
+link_bcast
+accept
+find_shit
+do_wingate
+init_uptime
+delete_seen
+uptimelast
+capslevel
+do_delserver
+parse_367
+parse_part
+BinaryDefault
+readcfgfile
+calloc
+find_kicksay
+pFuncsN
+do_cchan
+parse_319
+send_ctcp
+linksock
+r_str
+do_add
+do_cserv
+do_reset
+get_shitreason
+write
+write_levelfile
+serverSIZE
+sig_usr2
+cfg_usersfile
+check_idlekick
+environ
+ctime
+find_time
+do_auth
+find_entity
+parse_405
+shit_action
+on_actionmsg
+show_names_on_channel
+do_setpass
+bind
+parse_avoice
+do_saveall
+do_rspymsg
+cfgUser
+upPack
+copy_vars
+doit
+__deregister_frame_info
+channel_massunban
+add_bot
+parseline
+delete_shitlist
+setsockopt
+sig_pipe
+debug_links
+deop_siteban
+add_to_userlist
+ctcp_dcc
+do_cycle
+sockread
+do_me
+getnick
+uptimehost
+get_int_var
+do_ctcp
+correct_password
+BOTCLASS
+do_away
+do_set
+find_service
+parse_ping
+PUnick
+parse_252
+__progname
+do_kick
+_start
+do_shutdown
+strstr
+do_time
+find_ban
+config_cmds
+__error
+rand
+passmatch
+signal
+read
+runtime
+link_dccuser
+send_to_socket
+add_service
+___runetype
+do_boot
+tolowertab
+escape_string
+cipher
+strncmp
+do_addserver
+check_all_steal
+cfg_nosignals
+is_user
+parse_315
+current
+cfg_time
+cfg_alias
+strncpy
+unlink
+parse_privmsg
+delete_all_services
+strcasecmp
+change_dccnick
+sendto
+cfg_reason
+cfg_cmdchar
+read_seenlist_callback
+cfg_addhandle
+sendmode
+SRCDATE
+do_debug
+do_rspy
+make_chanuser
+need_dcc
+do_exec
+dcc_chat
+ERR_NICK
+ERR_NOTOPPED
+_CurrentRuneLocale
+do_usage
+Link_link
+on_mode
+reverse_mode
+get_channel2
+do_spy
+do_kslist
+do_last
+listen
+do_cmdchar
+update_auths
+do_host
+cfg_enftopic
+fork
+close_all_dcc
+sscanf
+__inet_ntoa
+do_pickup
+parse_475
+cfg_autolink
+num_banned
+parse_255
+__inet_ntop
+parse_link_input
+rejoin_channels
+send_statmsg
+check_nickflood
+parse_471
+ERR_NOSAVE
+dodebug
+sig_alrm
+make_time
+do_forget
+cfg_sigmaster
+do_rkicksay
+uptime
+remove_time
+__bss_start
+make_seen
+localtime
+cfg_passwd
+do_names
+cfg_set
+cfg_noshellcmd
+do_userhost
+main
+parse_253
+remove_user
+send_chat
+srand
+mstrcpy
+read_seenlist
+addstruct
+parse_433
+do_shit
+delete_service
+cfg_noseen
+no_info
+add_server
+add_client
+__escape_string__
+chan_modestr
+ctcp_ping
+getppid
+find_var
+time
+do_invite
+r_ct
+configfile
+sig_bus
+getuh
+ec_ver
+delete_chanusers
+do_showidle
+do_alias
+parse_254
+CurrentUser
+num_matches
+readcfgfile_callback
+__mx_opts
+SHELLMASK
+ntop_tmp
+cfg_echo
+get_token
+SockOpts
+uptimesock
+strcmp
+password_needed
+parse_324
+delete_all_channels
+executable
+get_idletime
+_fini
+do_chaccess
+check_dynamic
+do_link
+do_shitlist
+do_help_callback
+debug_core
+botlinkident
+do_uptime
+sprintf
+Link_needkey
+uptimeport
+atexit
+process_incoming_chat
+do_chat
+join_channel
+delete_bans
+do_unvoice
+pctab
+parse_213
+parse_topic
+parse_352
+addlinkconf
+delete_client
+find_user
+CurrentShit
+my_stristr
+do_deopme
+saveuserlist
+parse_312
+do_help
+check_mass
+check_shit
+get_protlevel
+parse_301
+ecmd
+do_banlist
+do_do
+deop_screwban
+dh_i
+subststrvar
+getaddrinfo
+do_clvl
+is_aop
+savesession
+stat
+reset_botstate
+send_global_statmsg
+debugbuf
+add_alias
+do_savelists
+randstring
+_edata
+_GLOBAL_OFFSET_TABLE_
+set_str_varc
+parse_317
+_end
+sig_hup
+is_localbot
+do_vers
+findstruct
+CNdefs
+op_all_chan
+parse_451
+parse_001
+my_pass
+do_access
+format_uh
+Link_quit
+time2str
+backup
+will
+matches
+parse_quit
+PUMASK
+exit
+parse_join
+Link_addbot
+Link_cmd
+do_stats
+do_userlist
+cfg_uchannel
+on_kick
+get_channel
+parse_EOMOTD
+do_cslvl
+ec_up
+botlinkSIZE
+atoi
+parse_003
+botlist
+atime
+deop_ban
+Link_userverify
+cfg_modes
+parse_server_input
+do_nick
+cfg_linkconf
+_exit
+get_protuseraccess
+nick2uh
+ctcp_commands
+cfgChan
+Link_nick
+write_fds
+userlist_cmds
+mass_action
+signoff
+do_randomtopic
+read_levelfile
+max_userlevel
+MyFree
+open
+do_server
+cfg_channel
+cfg_linkport
+makecore
+chop
+setbotnick
+do_clearshit
+send_to_link
+find_chanuser
+pipeuser_refresh
+do_toggle
+do_esay
+strchr
+find_channel
+setsid
+SockConnect
+cfg_login
+do_channels
+do_rshit
+free_strvars
+terminate
+channel_unban
+sendprivmsg
+do_service
+newlinksock
+do_loadlevels
+fcntl
+do_statmsg
+__register_frame_info
+ulist
+ec_tmp
+SockListener
+find_handle
+lastsave
+process_link_input
+close
+parse_002
+screwban_format
+do_topic
+cfg_virtual
+do_qshit
+write_seenlist
+gethost
+makepass
+do_opme
+idle2str
+sig_int
+uptime_time
+strpbrk
+mechbin
+do_loadlists
+cfg_expire
+___tolower
+cfg_addmask
+set_enftopic
+free
+ec_access
+needop
+getsockname
+check_kicksay

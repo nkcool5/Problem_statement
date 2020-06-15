@@ -1,0 +1,2304 @@
+/lib64/ld-linux-x86-64.so.2
+SUO%
+pIO)
+Q:1@
+%j	C
+G(f5~W
+J$$9
+>V-9
+Ic+v
+libpthread.so.0
+_ITM_deregisterTMCloneTable
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+wait
+__errno_location
+lseek64
+fcntl
+fork
+libc.so.6
+setuid
+globfree64
+strcpy
+__printf_chk
+strncmp
+strrchr
+__strdup
+perror
+__isoc99_sscanf
+__open64_2
+getpwuid
+glob64
+__isoc99_scanf
+signal
+strncpy
+setreuid
+__stack_chk_fail
+putchar
+realloc
+abort
+stdin
+_exit
+socketpair
+kill
+rewind
+strtok
+strtol
+feof
+execlp
+fgets
+getpwnam
+strlen
+strstr
+tcsetattr
+getpagesize
+dup2
+__fxstat64
+__fprintf_chk
+stdout
+fputc
+fseeko64
+fputs
+memcpy
+fclose
+rand
+__vsnprintf_chk
+setsockopt
+strcat
+__strncpy_chk
+__lxstat64
+__xstat64
+__ctype_b_loc
+getenv
+getservbyname
+stderr
+ioctl
+__snprintf_chk
+seteuid
+rcmd
+getuid
+readlink
+__strncat_chk
+usleep
+fwrite
+gettimeofday
+geteuid
+__memcpy_chk
+strchr
+__vfprintf_chk
+fdopen
+tcgetattr
+valloc
+__strcpy_chk
+__sprintf_chk
+uname
+fopen64
+_IO_getc
+__strcat_chk
+setbuf
+strerror
+__libc_start_main
+ferror
+snprintf
+write_xg1
+getnum
+fileopen64
+__libc_csu_fini
+usal_fprinterr
+usal_sprsense
+usal_errflush
+errmsgstr
+request_sense_b
+usal_sprintresult
+usal__sprinterr
+usal__open
+read_g1
+scsidev_open
+usal_cmd_status
+mmc_cap
+reserve_track
+usal_getbuf
+usal_printrdata
+scsi_flush_cache
+wait_unit_ready
+usal_smalloc
+outfile
+astolb
+read_session_offset
+astoll
+read_capacity
+recovery_needed
+_io_glflag
+_fcons64
+is_unknown_dev
+scsi_set_speed
+usal_remote
+read_disk_info
+cfg_open
+_nixwrite
+usal_freebuf
+_edata
+usal_sensemsg
+send_cue_sheet
+write_buffer
+qic02
+rols_getline
+scsi_get_speed
+read_dvd_structure
+is_mmc
+_io_add_my_flag
+print_capacity
+rols_fgetline
+_io_set_my_flag
+usal_sense_qual
+usal_printwdata
+getdev
+usal_settarget
+_badop
+usal_sprinterr
+mmc_check
+usal_close
+on_comerr
+_badfile
+Beeb
+usal_sense_key
+mode_sense_g0
+cdr_defaults
+cfg_get_next
+print_capabilities
+seterrno
+_niread
+geterrno
+usal_fprbytes
+scsi_cdr_write
+search
+usal_sprbytes
+astol
+usal_fprascii
+usal_havebus
+usal__errmsg
+usal_isatapi
+_badmode
+get_mode_params
+saved_av
+seek_g0
+usal_setnonstderrs
+usal_bufsize
+cfg_close
+getfiles
+mode_select_g0
+cfg_restart
+saved_av0
+__usal_times
+scsi_blank
+cdr_underrun
+scsi_load
+usal_sprintstatus
+usal_prbytes
+scsi_in_progress
+usal_getdmacnt
+usal_printresult
+__data_start
+usal_getresid
+scsi_load_unload
+usal_printerr
+seek_scsi
+usal_sense_code
+reserve_tr_rzone
+_cvmod
+_fl_max
+_io_myfl
+in_image
+fillbytes
+__gmon_start__
+read_master_cue
+usal_version
+read_buffer
+_IO_stdin_used
+write_xg0
+read_trackinfo
+read_rzone_info
+scsi_compliant
+usal_cmd_err
+astollb
+save_args
+read_B0
+usal_fileno
+mode_sense_sg0
+is_cddrive
+read_g0
+check_linux_26
+comerrno
+__libc_csu_init
+usal_prascii
+mmc_getval
+__usal_help
+usal_std_ops
+usal_sprintwdata
+_end
+usal_cmd
+saved_ac
+printinq
+usal_remote_ops
+cfg_get
+lba_to_msf
+rezero_unit
+do_inquiry
+usal_svtail
+_getargs
+usal_sense_table
+read_scsi
+from_bcd
+_io_get_my_flag
+scsi_start_stop_unit
+usal_vsetup
+scsi_format
+read_session_offset_philips
+__bss_start
+usal_sprintrdata
+usal_yes
+print_min_atip
+mode_select
+usal_dummy_ops
+file_addr
+usal_sprintcdb
+usal__close
+movebytes
+usal_printcdb
+set_progname
+readsecs
+raisecond
+read_toc_philips
+to_bcd
+scsi_close_tr_session
+test_unit_ready
+mode_sense_g1
+__roothandle
+read_cdtext
+scsidev_close
+scsi_prevent_removal
+read_tochdr
+usal_svhead
+filewrite
+sec_to_msf
+usal_fprsense
+get_progname
+allow_atapi
+astoi
+usal_initiator_id
+select_secsize
+blocksize
+streql
+usal_vhead
+read_subchannel
+write_xscsi
+usal_errfflush
+seek_g1
+scsi_set_streaming
+usal_printdev
+usal_fprintdev
+getllnum
+mode_select_g1
+read_header
+send_dvd_structure
+sense_secsize
+read_track_info
+usal_natname
+comexit
+usal_sfree
+getallargs
+mode_select_sg0
+request_sense
+errmsgno
+read_buff_cap
+mode_sense
+usal_prsense
+usal_settimeout
+set_mode_params
+usal_sprascii
+sg_open_excl
+usal_reset
+msf_to_lba
+read_track_info_philips
+usal_printstatus
+usal_open
+usal_vtail
+scsi_unload
+send_opc
+usal_printf
+read_toc
+write_xg5
+GLIBC_2.2.5
+GLIBC_2.3
+GLIBC_2.7
+GLIBC_2.14
+GLIBC_2.4
+GLIBC_2.3.4
+5n+"
+5]+"
+5L+"
+5;+"
+5*+"
+AUATUS
+D$ P1
+t$ H
+dH3<%(
+[]A\A]
+=Z4"
+UH-Hxb
+fffff.
+AWAV
+AUATUSH
+T$<dH
+d$$H
+d$$H
+Hc|$0H
+D9d$8
+D$4A
+[]A\A]A^A_
+T$8D
+AWAV
+AUATUS
+~(E1
+[]A\A]A^A_
+fff.
+AWAVA
+AUATA
+[]A\A]A^A_
+D$h1
+L$hdH3
+AWAVI
+AUATI
+L$0L
+D$ H
+|$0"
+|$1"
+[]A\A]A^A_
+tY<-tEH
+|$ H
+|$!1u
+TubH
+$$(H
+$$2H
+$$	H
+!t#H
+fff.
+AUATA
+[]A\A]
+[]A\A]
+_HdH
+AUATI
+[]A\A]
+AUATI
+[]A\A]
+ATUA
+ffffff.
+ATUA
+AVAUA
+ATUA
+[]A\A]A^
+AUATI
+[]A\A]
+AVAUA
+ATUA
+CYxHD
+CZxCD
+]A\A]A^
+ATUA
+[]A\
+AWAVI
+AUATI
+[]A\A]A^A_
+AWAVI
+AUAT
+Tacocat
+CX*H
+[]A\A]A^A_
+AWAVI
+AUATI
+A Santa lives evil at NASA
+[]A\A]A^A_
+ATUI
+[]A\
+ATUI
+[]A\
+ATU1
+ffffff.
+AVAUI
+ATUA
+[]A\A]A^
+AWAVI
+AUATM
+]A\A]A^A_
+AWAVE
+AUATA
+CYt	
+D$PD
+[]A\A]A^A_
+AWAVE
+AUATA
+CYt	
+[]A\A]A^A_
+AWAVE
+AUATA
+CYt	
+Ka@A
+[]A\A]A^A_
+AWAVI
+AUAT
+CYt	
+[]A\A]A^A_
+fffff.
+AUATI
+CXQH
+[]A\A]
+AWAVI
+AUATA
+[]A\A]A^A_
+ATUI
+CXSH
+ffff.
+ATUI
+CXSH
+ffffff.
+AWAVE
+AUATA
+[]A\A]A^A_
+AVAUI
+ATUA
+]A\A]A^
+AVAUI
+ATUA
+CXTH
+]A\A]A^
+fffff.
+AVAUI
+ATUA
+]A\A]A^
+fffff.
+AVAUA
+ATUA
+]A\A]A^
+AVAUI
+ATUA
+CXYH
+]A\A]A^
+AUATI
+CX]L
++C H
+[]A\A]
+AVAUI
+ATUI
+_HdH
+CX\L
+T$,I
+dH34%(
+ []A\A]A^
+AVAUI
+ATUI
+]A\A]A^
+AVAUA
+ATUH
+ []A\A]A^
+AWAVA
+AUATA
+CYuvA
+D$PP
+[]A\A]A^A_
+AWAVA
+AUATA
+CXUA
+CYuvA
+D$P_
+[]A\A]A^A_
+AVAUATUS
+[]A\A]A^
+AWAVI
+AUATA
+[]A\A]A^A_
+AWAVI
+Borrow or rob
+AUATA
+CXZH
+[]A\A]A^A_
+ffffff.
+fff.
+AUATUS
+dH34%(
+[]A\A]
+ATUI
+[]A\
+fff.
+AWAVM
+AUATI
+[]A\A]A^A_
+AWAVI
+AUATI
+[]A\A]A^A_
+ATU1
+dH34%(
+[]A\
+AUATUSH
+[]A\A]
+T$	A
+ffffff.
+D$81
+L$8dH3
+ffffff.
+AVAUI
+ATUI
+[]A\A]A^
+ffffff.
+AVAUI
+ATUI
+[]A\A]A^
+ffffff.
+fff.
+ATUH
+[]A\
+ATUI
+L$ H
+[]A\
+ATUI
+dH34%(
+[]A\
+ffff.
+AWAVM
+AUATM
+|$ H
+t$ H
+T$ L
+[]A\A]A^A_
+AWAV1
+AUATA
+gHdH
+L$PE
+D9d$
+[]A\A]A^A_
+D$4PL
+L$8L
+D$4H
+L$0H
+T$,H
+l$PA
+L$,E
+T$$E
+fffff.
+AVAUATUH
+[]A\A]A^
+fffff.
+gfff
+7c\"
+:mH)
+7c\"
+:mH)
+7c\"
+AWAVA
+AUATI
+dH34%(
+[]A\A]A^A_
+AWAVM
+AUATM
+D$hH
+|$`M
+([]A\A]A^A_
+ffff.
+AVAUE
+ATUI
+C(tFH
+[]A\A]A^
+[]A\A]A^
+fff.
+CHti
+fff.
+AWAVE
+AUATA
+d$0L
+t&Hct$
+D$(E
+d$0E
+[]A\A]A^A_
+Hct$
+t$ H
+Hct$
+L$ D
+D$ Hct$
+,t$H
+Hct$
+Hct$
+T$$E1
+D$,D
+D$ D
+Hct$
+ffffff.
+fffff.
+P(H9
+~KUSH
+P(H9
+ffff.
+AUATI
+USHc
+xwLc
+[]A\A]
+AUATA
+[]A\A]
+fff.
+ffff.
+fff.
+fff.
+AVAUHc
+ATU1
+xXLc
+[]A\A]A^
+]A\A]A^
+fff.
+ffffff.
+AUAT1
+[]A\A]
+AQHc
+]A\A]
+AUATI
+USHc
+xEHc
+x*Hc
+[]A\A]
+fffff.
+ffff.
+AVAUA
+ATUI
+u"[]A\A]A^
+]A\A]A^
+AUATH
+ USH
+ZYx*Lc
+[]A\A]
+fffff.
+AWAVA
+AUATI
+oHdH
+D$H1
+l$PH
+AWUIc
+uCA9
+~>Hc
+x#Hc
+L$HdH3
+X[]A\A]A^A_
+l$PI
+AVAUA
+ATUH
+[]A\A]A^
+t2xr1
+dH3<%(
+ffffff.
+fffff.
+k,[]A\
+fff.
+AUAT
+[]A\A]
+fffff.
+AVAUHc
+ATU1
+xsLc
+x5Hc
+[]A\A]A^
+]A\A]A^
+ffff.
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+D$ H
+x-Hc
+ffffff.
+[]A\
+ATUSH
+[]A\
+fffff.
+fff.
+AVAUA
+ATUH
+[]A\A]A^
+]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+nPATI
+t*[L
+]A\A]A^
+[]A\A]A^
+fff.
+D$X1
+L$XdH3
+AWAVI
+AUATA
+[]A\A]A^A_
+T$`D
+D;|$
+D$X1
+L$XdH3
+t4US
+t4US
+dH34%(
+fff.
+D$X1
+L$XdH3
+ATUSH
+[]A\
+[]A\
+[]A\
+AWAVA
+AUATI
+[]A\A]A^A_
+AUATI
+D$x1
+|$ I
+L$xdH3
+[]A\A]
+AUATA
+D$X1
+L$XdH3
+h[]A\A]
+AWAVI
+AUATI
+d$ H
+ATL)
+-eq!
+-3q!
+t'AUAT
+[]A\A]A^A_
+Illegal H
+evice sy
+ntaxH
+remote dH
+Cannot g
+@ host
+et conneH
+ction toH
+ remote H
+AUATA
+[]A\A]
+AWAVAUATI
+Hct$
+PAUH
+D$8P1
+t$0Lc
+|$,D
+D$(M
+RATPD
+L$D1
+D$8M
+|$4I
+[]A\A]A^A_
+|$@L
+D$@A
+t"Hc
+t"Hc
+ffff.
+fffff.
+ffff.
+ffff.
+fffff.
+ATUI
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+fff.
+AWAVAUATUSH
+Lcl$
+[]A\A]A^A_
+fffff.
+ATUH
+_HdH
+dH34%(
+[]A\
+d$@1
+D$G8iC
+D$01
+T$GH
+L$PH
+ffff.
+ffffff.
+AWAVI
+AUATUSH
+_HdH
+;w8t
+L$0H
+$$Ic
+l$,I
+L$,I
+D$,1
+dH3<%(
+[]A\A]A^A_
+D$$L
+L$0L
+ATUSH
+oHdH
+D$X1
+t$XdH34%(
+`[]A\
+D$	H
+D$ iE
+D$(1
+EP~#
+L$DD
+D$Df
+E(t#
+t:Hc
+t:Hc
+AWAVM
+AUATI
+D$H1
+T$0H
+D$8H
+T$,1
+L$,H
+\$,D
+L$<XZD
+|$HdH3<%(
+X[]A\A]A^A_
+fff.
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+D$ 9D$
+HcD$
+D$ 9D$
+D$ E
+_AXHcD$
+d$ 1
+L;t$ 
+D$(H
+H;D$
+D$(H
+AWAVAUATA
+T$pH
+[]A\A]A^A_
+T$pH
+\$0D
+Degas are we not drawn onward no In union drawn onward to new eras aged
+D$ H
+D$(H
+\$0A1
+9T$ u
+HcD$(I
+L$ fD
+QARL
+D$(E
+God A red nugget A fat egg under a dog
+D$ H
+|$ L
+\$(H
+l$0H
+\$(H
+:.u$
+l$@D
+|$(H
+\$0H
+l$8H
+D$HI
+|$(H
+HcD$(H
+D$0E
+L$01
+T$8D
+\$8H
+\$@H
+l$@H
+\$8H
+D$(L
+D$ t
+T$`1
+T$\1
+L$ ~9ASI
+\$@Q
+L$lD
+T$0D
+\$81
+D$ f
+AWAVE
+AUATA
+D$(1
+HcD$ 
+HcT$$
+D$ D9
+u	D9
+L$$Hc
+\$(dH3
+8[]A\A]A^A_
+D$0L
+L$4H
+t$,A
+D$(_AYL
+L$$D9
+fff.
+AWAV@
+AUATA
+D$h1
+L$hdH3
+x[]A\A]A^A_
+fffff.
+AWAVI
+AUATUSH
+t'AUAT
+dH34%(
+[]A\A]A^A_
+D$(L
+AXAY
+L$(L
+D$$H
+t$ XY
+AVAUI
+ATUH
+t(AVSE
+AXAY
+dH34%(
+[]A\A]A^
+AWAVI
+AUAT
+t$PD
+[]A\A]A^A_
+fff.
+fff.
+fff.
+ATUS
+[]A\
+AVAUI
+ATUI
+ []A\A]A^
+=i !
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+t$(H
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+T$0H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+AWAVI
+AUATUS
+D$(H
+D$0H
+T$8t
+L$(H
+L$@H
+L$@~
+@:t$Ju
+T$@H
+D$8E
+[]A\A]A^A_
+L$(H
+t7<,t3
+t$0H
+D$(E
+D$HH
+|$@A
+t$0H
+D8t$JH
+D$Pu
+St @
+<Lu6A
+<Lu*
+fff.
+AWAVAUATI
+D$h1
+<-tH
+|$hdH3<%(
+x[]A\A]A^A_
+\$(1
+D$PH
+D$XH
+D$`t
+D$PH
+T$(H
+T$,H
+D$(H
+D$PH
+t$HH
+T$(E
+D$PH
+D$PH
+L$ H
+|$(H
+t$`H
+D$PH
+t%<,t!
+T$XH
+te<,taD
+\$(H
+t$`H
+D$PH
+t%<,t!
+T$XH
+D$,H
+T$XH
+H;L$
+L$<E
+H;L$
+T$<H
+t$XH
+T$XH
+<SuaD
+D$(E
+L$(E
+D$<1
+<Cu+
+D$(H
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+ffffff.
+ATUH
+L$8L
+D$@L
+L$Ht7
+)D$P
+)L$`
+)T$p
+[]A\
+fff.
+AUATI
+[]A\A]
+]A\A]
+ATUI
+[]A\
+ w*H
+AUATI
+[]A\A]
+[]A\A]
+ffff.
+ATUI
+ugHc
+[]A\
+[]A\
+ATUI
+[]A\
+ATUA
+[]A\
+AVAUA
+ATUI
+]A\A]A^
+AWAVAUATA
+~fLc
+[]A\A]A^A_
+AWAVI
+AUATUSH
+ uO@
+[]A\A]A^A_
+[]A\A]A^A_
+fff.
+ffffff.
+AUATUS
+[]A\A]
+[]A\A]A^A_
+Usage: %s [options] image
+Options:
+	-help, -h	Print this help
+Cannot put tty into raw mode
+%c%c
+=[%x,%x,%d]
+/mnt
+kafka
+Warning - host_name requested
+Flag %x != %x
+[%d;%dH
+%3d 
+[%2d] 
+%5x 
+%8d 
+%02x/
+.             
+..            
+help,h,version,i*,dev*
+Bad Option: '%s'
+Linux
+1.1.11
+isodump %s (%s)
+Bad Argument: '%s'
+ISO-9660 image not specified
+Cannot open '%s'
+Stdin must be a tty
+Enter new search string:
+	-version	Print version info and exit
+	-i filename	Filename to read ISO-9660 image from
+	dev=target	SCSI target to use as CD/DVD-Recorder
+If neither -i nor dev= are speficied, <image> is needed.
+Cannot put tty into normal mode
+**BAD RRVERSION (%d) for %c%c
+Warning - mount point requested
+Reserved bit setting in symlink
+Incorrect length in symlink component
+ Zone, zone offset: %6lx %4.4lx  
+Only one of -i or dev= allowed
+Enter new starting block (in hex):
+                                     
+Read error on old image
+Seek error on old image
+Short read on old image
+%s%sCannot open SCSI driver.
+Cannot get SCSI I/O buffer.
+/etc/wodim.conf
+CDR_DEVICE
+%255s %10s %10s %80s
+CDR_SPEED
+CDR_FIFOSIZE
+CDR_MAXFIFOSIZE
+Bad default CDR_SPEED setting (%s).
+Bad CDR_SPEED environment (%s).
+Bad speed (%s) in the config, drive description.
+Bad CDR_FIFOSIZE environment (%s).
+Bad fifo size (%s) in the config, device description.
+Bad speed default setting (%s).
+Bad CDR_MAXFIFOSIZE setting (%s).
+  %s: %5d kB/s
+ (CD %3ux,
+ DVD %2ux)
+test unit ready
+rezero unit
+request_sense
+inquiry
+Inquiry Data   :
+read capacity
+Sectorsize: %ld Bytes
+medium load/unload
+prevent/allow medium removal
+start/stop unit
+set streaming
+scsi_set_streaming
+set cd speed
+qic 02
+write_g0
+write_g1
+write_g5
+seek_g0
+seek_g1
+flush cache
+read buffer
+write_buffer
+read subchannel
+read toc
+read header
+read disk info
+read track info
+reserve track
+reserve_track_rzone
+read dvd structure
+send dvd structure
+send opc
+close track/session
+read master cue
+send_cue_sheet
+read buffer cap
+BFree: %ld K BSize: %ld K
+blank unit
+scsi_format: preparing
+format unit
+scsi_format: running
+- [unable to fork()]
+Save
+Set 
+Mode Parameters
+mode select g0
+mode select g1
+mode sense g0
+Mode Sense Data
+mode sense g1
+Mode Sense Data (converted)
+Cannot read TOC header
+Cannot read CD-Text header
+CD-Text len: %d
+Cannot read CD-Text
+wctb
+cdtext.dat
+Cannot read TOC
+TOC data: 
+ENT: 
+B0: 
+B0 start: %ld
+B0 lout: %ld
+tocheader: 
+Session info too big.
+Density: 0x%X
+Blocks:  %ld
+Blocklen:%ld
+Pages: 
+0x%X 
+capacity_not_set
+read_g0
+read_g1
+Device type    : 
+Version        : %d
+Response Format: %d
+Capabilities   : 
+AENC 
+TERMIOP 
+RELADR 
+WBUS32 
+WBUS16 
+SYNC 
+LINKED 
+CMDQUE 
+SOFTRESET 
+Vendor_info    : '%.8s'
+Identification : '%.16s'
+Revision       : '%.4s'
+Device seems to be: 
+unknown
+Adaptec 4000/4010/4070
+Adaptec 4000
+Adaptec 4010
+Adaptec 4070
+Adaptec 5500
+Adaptec 4520A
+Adaptec 4525
+Emulex MD21
+Emulex MD23
+Generic NON CCS Disk
+Generic CCS Disk
+Sony SMO-C501
+Emulex MT02
+Sysgen SC4000
+Maxtor RXT800S
+Berthold HR-Scanner
+Microtek MS300A
+Generic CD-ROM
+Generic mmc CD-ROM
+Generic mmc CD-R
+Generic mmc CD-RW
+Generic mmc2 DVD-ROM
+Generic mmc2 DVD-R/DVD-RW
+Philips old CDD-521
+Philips CDD-521
+Philips CDD-522
+Kodak PCD-600
+Philips CDD-2000
+Philips CDD-2600
+Yamaha CDR-100
+Yamaha CDR-400
+Plasmon RF-4100
+Sony CDU-924S
+Ricoh RO-1060C
+Ricoh RO-1420C
+Teac CD-R50S
+Matsushita CW-7501
+Matsushita CW-7502
+Pioneer DW-S114X
+Pioneer DVD-R S101
+Missing Entry for dev %d
+caddy
+this
+Try to load media by hand.
+CD capabilities
+Inquiry Data   : 
+ADAPTEC ACB-5500        FAKE
+ADAPTEC ACB-40X0        FAKE
+ADAPTEC ACB-4000        FAKE
+ADAPTEC ACB-4010        FAKE
+ADAPTEC ACB-4070        FAKE
+EMULEX
+ADAPTEC
+ACB-4520
+ACB-4525
+SONY
+SYSGEN  SC4000          FAKE
+EMULEX  MT02            FAKE
+RXT-800S
+ACER
+CR-4020C
+CREATIVE
+CDR2000
+GRUNDIG
+CDR100IPW
+XR-W2001
+XR-W2010
+R2626
+MITSBISH
+MITSUMI
+OPTIMA
+CD-R 650
+PHILIPS
+KODAK
+CDD521/00
+CDD521/02
+CDD521
+CDD522
+PCD225
+KHSW/OB
+CDR-240
+CDD20
+CDD26
+C4324/C4325
+CD-Writer 6020
+PINNACLE
+RCD-1000
+RCD5020
+RCD5040
+RCD 4X4
+PIONEER
+CD-WO DW-S114X
+CD-WO DR-R504X
+DVD-R DVR-S101
+PLASMON
+RF4100
+CDR4220
+PLEXTOR
+CD-R   PX-R24CS
+RICOH
+RO1060C
+CD-R2004
+CD-R2006 
+CD-R2006PLUS
+CD-RW226
+CD-R4012
+SANYO
+CD-WO CRD-R24S
+CD-R   CDU92
+CD-R   CDU94
+TEAC
+CD-R55S
+TRAXDATA
+Traxdata
+CDR4120
+T.YUDEN
+CD-WO EW-50
+CDR-632P
+YAMAHA
+CDR10
+CDR200
+CDR400
+MATSHITA
+CD-R   CW-7501
+CD-R   CW-7502
+CDS615E
+BERTHOLD
+not 
+Drive capabilities, per
+ MMC-3
+ MMC-2
+ MMC
+ page 2A:
+read CD-R media
+  Does %s%s
+write CD-R media
+read CD-RW media
+write CD-RW media
+read DVD-ROM media
+read DVD-R media
+write DVD-R media
+read DVD-RAM media
+write DVD-RAM media
+support test writing
+read Mode 2 Form 1 blocks
+read Mode 2 Form 2 blocks
+read digital audio blocks
+read multi-session CDs
+read CD bar code
+read R-W subcode information
+return CD ISRC information
+support C2 error pointers
+deliver composite A/V data
+play audio CDs
+  %s: %d
+send digital data LSB-first
+Length of data in BCLKs
+  %s: %s
+Loading mechanism type
+  Is %s%s
+support changing side of disk
+Maximum read  speed
+Current read  speed
+Maximum write speed
+Current write speed
+Rotational control selected
+Buffer size in KB
+  Write speed # %d:
+CLV/PCAV
+reserved(2)
+reserved(3)
+tray
+pop-up
+disc changer
+cartridge changer
+reserved(6)
+reserved(7)
+24 (I2S)
+Capacity: %ld Blocks = %ld kBytes = %ld MBytes = %ld prMB
+scsi_format: post processing %d
+Formating in progress: 0.00 %% done.
+Formating in progress: %.2f %% done [%d].                           
+Formating in progress: 100.00 %% done.        
+Mode Parameters (un-converted)
+Cannot load media with %s drive!
+error: %d scb.chk: %d sense_count: %d sense.code: 0x%x
+restart non-streamed digital audio reads accurately
+support Buffer-Underrun-Free recording
+read fixed-packet CD media using Method 2
+return R-W subcode de-interleaved and error-corrected
+read raw P-W subcode data from lead in
+return CD media catalog number
+Number of volume control levels
+support individual volume control setting for each channel
+support independent mute setting for each channel
+support digital output on port 1
+support digital output on port 2
+set LRCK high for left-channel data
+have valid data on falling edge of clock
+support ejection of CD via START/STOP command
+lock media on power up via prevent jumper
+allow media to be locked in the drive via PREVENT/ALLOW command
+currently in a media-locked state
+have load-empty-slot-in-changer feature
+support Individual Disk Present feature
+Copy management revision supported
+  Number of supported write speeds: %d
+  ATIP start of lead in:  %ld (%02d:%02d/%02d)
+  ATIP start of lead out: %ld (%02d:%02d/%02d)
+Warning: controller creates hard SCSI failure when retrieving %s page.
+Warning: controller returns zero sized %s page.
+Warning: controller returns wrong size for %s page.
+Warning: controller returns wrong page %X for %s page (%X).
+Warning: controller does not support %s page.
+Warning: using default %s data.
+Mode Page  Data
+Cannot get %s data.
+Cannot get %s mask.
+Cannot get default %s data.
+Cannot get saved %s data.
+Mode Select Data
+No memory for SCSI structure
+HELP
+help
+REMOTE
+Invalid lun specifier '%s'
+Invalid lun specifier in '%s'
+scsidev: '%s'
+devname: '%s'
+usal__open(%s) %d,%d,%d
+Invalid bus or target specifier in '%s'
+Invalid target or lun specifier in '%s'
+Invalid value for bus, target or lun (%d,%d,%d)
+WARNING: device not valid, trying to use default target...
+scsibus: %d target: %d lun: %d
+Supported SCSI transports for this platform:
+Reserved
+ host adapter detected error
+alula
+status: 0x%x 
+(%s%s)
+ %02X
+CDB: 
+Write Data: 
+Received Data: 
+no error
+retryable error
+fatal error
+error: %d
+Sense Bytes:
+DMA overrun, 
+resid: %d
+Removable 
+not present 
+reserved 
+unsupported
+unsupported 
+vendor specific %d 
+Tape
+Printer
+Processor
+WORM
+Optical Storage
+Juke Box
+Communication
+IT8 1
+IT8 2
+Storage array
+Enclosure services
+Simple direct access
+Optical card r/w
+Bridging expander
+Object based storage
+Automation/Drive Interface
+Well known lun
+unknown/no device
+unit not present
+unknown device type 0x%x
+SCSI ALREADY RUNNING !!
+CHECK CONDITION
+CONDITION MET/GOOD
+BUSY
+INTERMEDIATE GOOD STATUS
+RESERVATION CONFLICT
+Sending %d (0x%X) bytes of data.
+Got %d (0x%X), expecting %d (0x%X) bytes of data.
+cmd finished after %ld.%03lds timeout %ds
+Executing '%s' command on Bus %d Target %d, Lun %d timeout %ds
+SCSI command name not set by caller
+cmd timeout after %ld.%03ld (%d) s
+Errno: %d (%s), %s scsi sendcmd: %s
+Currently running '%s' command.
+Cannot send SCSI cmd via ioctl
+ret < 0 errno: %d ux_errno: %d error: %d
+INTERMEDIATE CONDITION MET/GOOD
+REMOTE:rscsi@host:1,2,0
+rscsi@host:bus,target,lun
+REMOTE:
+Remote SCSI
+RSCSI
+Remote status(%s): %d '%s'.
+Protocol error (got %s).
+isatapi
+initiator id
+fileno
+havebus
+freebuf
+D%ld
+maxdma
+close
+sendcmd
+M%ld
+getbuf
+sndsize: %d
+rcvsize: %d
+version
+forked version from cdrkit
+/usr/sbin/netscsid
+shell
+shell/tcp: unknown service
+%.*s
+Unknown user: %s
+Cannot create socketpair.
+dup2 failed.
+setuid(%lld) failed.
+seteuid(%lld) failed.
+execlp '%s' failed.
+open
+Lost connection to remote host ??
+Warning: Using remote SCSI interface.
+Illegal value for busno, target or lun '%d,%d,%d'
+who are you? No passwd entry found.
+locuser: '%s' rscsiuser: '%s' host: '%s'
+rcmdsh: fork to lose parent failed.
+diagnostic failure on component 0x%X
+tagged overlapped commands, queue tag is 0x%X
+decompression exception short algorithm id of 0x%X
+%sSense Key: 0x%X %s%s, Segment %d
+Sense Code: 0x%02X Qual 0x%02X %s%s%s%s Fru 0x%X
+error refers to %s part, bit ptr %d %s field ptr %d
+logical unit is in process of becoming ready
+logical unit not ready, initializing cmd. required
+logical unit not ready, manual intervention required
+logical unit not ready, format in progress
+logical unit not ready, rebuild in progress
+logical unit not ready, recalculation in progress
+logical unit not ready, operation in progress
+logical unit not ready, long write in progress
+	logical unit not ready, self-test in progress
+asymmetric access code 3 (00-232) [proposed]
+asymmetric access code 1 (00-232) [proposed]
+asymmetric access code 2 (00-232) [proposed]
+auxiliary memory code 2 (99-148) [proposed]
+logical unit communication time-out
+logical unit communication parity error
+logical unit communication crc error (ultra-dma/32)
+warning - specified temperature exceeded
+warning - enclosure degraded
+write error - recovered with auto reallocation
+write error - auto reallocation failed
+write error - recommend reassignment
+compression check miscompare error
+data expansion occurred during compression
+Do nine men interpret Nine men I nod
+write error - recovery needed
+write error - recovery failed
+	write error - loss of streaming
+write error - padding blocks added
+auxiliary memory code 4 (99-148) [proposed]
+copy target device not reachable
+incorrect copy target device type
+copy target device data underrun
+copy target device data overrun
+unrecovered read error - auto reallocate failed
+data re-synchronization error
+unrecovered read error - recommend reassignment
+unrecovered read error - recommend rewrite the data
+cannot decompress using declared algorithm
+error reading upc/ean number
+read error - loss of streaming
+auxiliary memory code 3 (99-148) [proposed]
+filemark or setmark not found
+record not found - recommend reassignment
+record not found - data auto-reallocated
+mechanical positioning error
+positioning error detected by read of medium
+data sync error - data rewritten
+data sync error - recommend rewrite
+data sync error - data auto-reallocated
+data sync error - recommend reassignment
+recovered data with positive head offset
+recovered data with negative head offset
+recovered data with retries and/or circ applied
+recovered data using previous sector id
+recovered data without ecc - data auto-reallocated
+recovered data without ecc - recommend reassignment
+recovered data without ecc - recommend rewrite
+	recovered data without ecc - data rewritten
+recovered data with error corr. & retries applied
+recovered data - data auto-reallocated
+recovered data - recommend reassignment
+recovered data - recommend rewrite
+recovered data with ecc - data rewritten
+defect list error in primary list
+defect list error in grown list
+primary defect list not found
+access controls code 1 (99-314) [proposed]
+access controls code 2 (99-314) [proposed]
+access controls code 3 (99-314) [proposed]
+read type operation while in write capable state
+write type operation while in read capable state
+illegal command while in explicit address model
+illegal command while in implicit address model
+access controls code 5 (99-245) [proposed]
+ 	access controls code 6 (99-245) [proposed]
+access controls code 7 (99-245) [proposed]
+access controls code 8 (99-245) [proposed]
+invalid cdb field while in explicit block address model
+invalid cdb field while in implicit block address model
+threshold parameters not supported
+invalid release of persistent reservation
+unsupported target descriptor type code
+too many segment descriptors
+&	unsupported segment descriptor type code
+invalid operation for copy source or destination
+copy segment granularity violation
+logical unit software write protected
+import or export element accessed
+bus device reset function occurred
+transceiver mode changed to single-ended
+transceiver mode changed to lvd
+asymmetric access code 6 (00-232) [proposed]
+asymmetric access code 7 (00-232) [proposed]
+invalid combination of windows specified
+current program area is not empty
+current program area is empty
+illegal power condition request
+cannot read medium - unknown format
+cannot read medium - incompatible format
+cleaning cartridge installed
+cannot write medium - unknown format
+cannot write medium - incompatible format
+cannot format medium - incompatible medium
+cannot write - application code mismatch
+0	current session not fixated for append
+zoned formatting failed due to spare linking
+unsupported enclosure function
+enclosure services unavailable
+enclosure services transfer failure
+enclosure services transfer refused
+esn - power management class event
+esn - device busy class event
+medium not present - tray closed
+medium not present - tray open
+medium not present - loadable
+medium not present - medium auxiliary memory accessible
+tape position error at beginning-of-medium
+tape position error at end-of-medium
+tape or electronic vertical forms unit not ready
+failed to sense bottom-of-form
+read past beginning of medium
+position past beginning of medium
+medium destination element full
+medium magazine not accessible
+mechanical positioning or changer error
+logical unit failed self-test
+logical unit unable to update self-test log
+changed operating definition
+redundancy group created or modified
+volume set created or modified
+reported luns data has changed
+medium auxiliary memory accessible
+data phase crc error detected
+scsi parity error detected during st data phase
+information unit crc error detected
+asynchronous information protection error detected
+position error related to timing
+erase failure - incomplete erase operation detected
+insufficient reservation resources
+insufficient registration resources
+access controls code 4 (99-314) [proposed]
+auxiliary memory code 1 (99-148) [proposed]
+operator medium removal request
+operator selected write protect
+operator selected write permit
+media failure prediction threshold exceeded
+logical unit failure prediction threshold exceeded
+spare area exhaustion prediction threshold exceeded
+hardware impending failure general hard drive failure
+hardware impending failure drive error rate too high
+hardware impending failure data error rate too high
+hardware impending failure seek error rate too high
+hardware impending failure too many block reassigns
+hardware impending failure access times too high
+hardware impending failure start unit times too high
+hardware impending failure channel parametrics
+hardware impending failure controller detected
+hardware impending failure throughput performance
+hardware impending failure seek time performance
+hardware impending failure spin-up retry count
+hardware impending failure drive calibration retry count
+] controller impending failure general hard drive failure
+]!controller impending failure drive error rate too high
+]"controller impending failure data error rate too high
+]#controller impending failure seek error rate too high
+]$controller impending failure too many block reassigns
+]%controller impending failure access times too high
+]&controller impending failure start unit times too high
+]'controller impending failure channel parametrics
+](controller impending failure controller detected
+])controller impending failure throughput performance
+]*controller impending failure seek time performance
+]+controller impending failure spin-up retry count
+],controller impending failure drive calibration retry count
+]0data channel impending failure general hard drive failure
+]1data channel impending failure drive error rate too high
+]2data channel impending failure data error rate too high
+]3data channel impending failure seek error rate too high
+]4data channel impending failure too many block reassigns
+]5data channel impending failure access times too high
+]6data channel impending failure start unit times too high
+]7data channel impending failure channel parametrics
+]8data channel impending failure controller detected
+]9data channel impending failure throughput performance
+]:data channel impending failure seek time performance
+];data channel impending failure spin-up retry count
+]<data channel impending failure drive calibration retry count
+]@servo impending failure general hard drive failure
+]Aservo impending failure drive error rate too high
+]Bservo impending failure data error rate too high
+]Cservo impending failure seek error rate too high
+]Dservo impending failure too many block reassigns
+]Eservo impending failure access times too high
+]Fservo impending failure start unit times too high
+]Gservo impending failure channel parametrics
+]Hservo impending failure controller detected
+]Iservo impending failure throughput performance
+]Jservo impending failure seek time performance
+]Kservo impending failure spin-up retry count
+]Lservo impending failure drive calibration retry count
+]Pspindle impending failure general hard drive failure
+]Qspindle impending failure drive error rate too high
+]Rspindle impending failure data error rate too high
+]Sspindle impending failure seek error rate too high
+]Tspindle impending failure too many block reassigns
+]Uspindle impending failure access times too high
+]Vspindle impending failure start unit times too high
+]Wspindle impending failure channel parametrics
+]Xspindle impending failure controller detected
+]Yspindle impending failure throughput performance
+]Zspindle impending failure seek time performance
+][spindle impending failure spin-up retry count
+]\spindle impending failure drive calibration retry count
+]`firmware impending failure general hard drive failure
+]afirmware impending failure drive error rate too high
+]bfirmware impending failure data error rate too high
+]cfirmware impending failure seek error rate too high
+]dfirmware impending failure too many block reassigns
+]efirmware impending failure access times too high
+]ffirmware impending failure start unit times too high
+]gfirmware impending failure channel parametrics
+]hfirmware impending failure controller detected
+]ifirmware impending failure throughput performance
+]jfirmware impending failure seek time performance
+]kfirmware impending failure spin-up retry count
+]lfirmware impending failure drive calibration retry count
+failure prediction threshold exceeded (false)
+idle condition activated by timer
+standby condition activated by timer
+idle condition activated by command
+standby condition activated by command
+^Apower state change to active
+^Cpower state change to standby
+^Gpower state change to device control
+packet does not fit in available space
+automatic document feeder lift up
+document jam in automatic document feeder
+document miss feed automatic in document feeder
+configuration of incapable logical units failed
+modification of logical unit failed
+exchange of logical unit failed
+remove of logical unit failed
+attachment of logical unit failed
+creation of logical unit failed
+g	multiply assigned logical unit
+asymmetric access code 4 (00-232) [proposed]
+asymmetric access code 5 (00-232) [proposed]
+multiple logical unit failures
+copy protection key exchange failure - key not present
+copy protection key exchange failure - key not established
+read of scrambled sector without authentication
+media region code is mismatched to logical unit region
+drive region must be permanent/region reset count error
+session fixation error writing lead-in
+session fixation error writing lead-out
+session fixation error - incomplete track in session
+empty or partially written reserved track
+no more track reservations allowed
+power calibration area almost full
+power calibration area is full
+power calibration area error
+program memory area update failure
+invalid sense code 0x%X
+vendor unique sense code 0x%X
+no sense
+, deferred error
+ [No matching qualifier]
+illegal block length 
+end of medium 
+file mark detected 
+(valid) 
+(not valid) 
+(valid)
+(not valid)
+command
+Sense flags: Blk %d %s%s%s%s
+actual retry count %d
+operation %d%% done
+No Additional Sense
+Recovered Error
+Not Ready
+Medium Error
+Hardware Error
+Illegal Request
+Unit Attention
+Data Protect
+Blank Check
+Vendor Unique
+Copy Aborted
+Aborted Command
+Equal
+Volume Overflow
+Miscompare
+no write current
+excessive write errors
+unreachable copy target
+tracking servo failure
+focus servo failure
+spindle servo failure
+head select fault
+block not compressible
+third party device failure
+read retries exhausted
+error too long to correct
+multiple read errors
+l-ec uncorrectable error
+circ unrecovered error
+incomplete block read
+	no gap found
+miscorrected error
+de-compression crc error
+error reading isrc number
+record not found
+end-of-data not found
+block sequence error
+recovered data with retries
+recovered data with circ
+recovered data with l-ec
+recovered data with linking
+defect list not available
+grown defect list not found
+invalid element address
+invalid address for write
+cdb decryption error
+parameter not supported
+parameter value invalid
+data decryption error
+too many target descriptors
+unexpected inexact segment
+inline data length exceeded
+hardware write protected
+associated write protect
+persistent write protect
+permanent write protect
+conditional write protect
+power on occurred
+scsi bus reset occurred
+device internal reset
+mode parameters changed
+log parameters changed
+reservations preempted
+reservations released
+registrations preempted
+too many windows specified
+persistent prevent conflict
+cleaning failure
+medium not formatted
+format command failed
+defect list update failure
+esn - media class event
+slew failure
+paper jam
+failed to sense top-of-form
+reposition error
+;	read past end of medium
+position past end of medium
+medium source element empty
+end of medium reached
+medium magazine removed
+medium magazine inserted
+medium magazine locked
+medium magazine unlocked
+logical unit failure
+timeout on logical unit
+microcode has been changed
+inquiry data has changed
+component device attached
+device identifier changed
+redundancy group deleted
+spare created or modified
+?	spare deleted
+volume set deleted
+volume set deassigned
+volume set reassigned
+echo buffer overwritten
+medium loadable
+write append position error
+unload tape failure
+medium removal prevented
+system buffer full
+insufficient resources
+threshold condition met
+log counter at maximum
+log list codes exhausted
+spindles synchronized
+spindles not synchronized
+^Bpower state change to idle
+^Epower state change to sleep
+unable to acquire video
+out of focus
+invalid packet size
+add logical unit failed
+assign failure occurred
+parity/data mismatch
+redundancy level got better
+redundancy level got worse
+program memory area is full
+rma/pma is almost full
+disk not inserted
+load/unload failure
+spindle failure
+focus failure
+tracking failure
+bias magnet failure
+illegal function for medium type
+recoverable write error
+write error recovery failed
+defect list update failed
+defect list not available
+limited laser life
+laser focus coil over-current
+laser tracking coil over-current
+temperature alarm
+no additional sense information
+filemark detected
+end-of-partition/medium detected
+setmark detected
+beginning-of-partition/medium detected
+end-of-data detected
+i/o process terminated
+audio play operation in progress
+audio play operation paused
+audio play operation successfully completed
+audio play operation stopped due to error
+no current audio status to return
+operation in progress
+cleaning requested
+no index/sector signal
+no seek complete
+peripheral device write fault
+logical unit not ready, cause not reportable
+logical unit does not respond to selection
+no reference position found
+multiple peripheral devices selected
+logical unit communication failure
+track following error
+error log overflow
+warning
+write error
+error detected by third party temporary initiator
+id crc or ecc error
+unrecovered read error
+address mark not found for id field
+address mark not found for data field
+recorded entity not found
+random positioning error
+data synchronization mark error
+recovered data with no error correction applied
+recovered data with error correction applied
+defect list error
+parameter list length error
+synchronous data transfer error
+defect list not found
+miscompare during verify operation
+recovered id with ecc correction
+partial defect list transfer
+invalid command operation code
+logical block address out of range
+illegal function (use 20 00, 24 00, or 26 00)
+invalid field in cdb
+logical unit not supported
+invalid field in parameter list
+write protected
+not ready to ready change, medium may have changed
+power on, reset, or bus device reset occurred
+parameters changed
+copy cannot execute since host cannot disconnect
+command sequence error
+overwrite error on update in place
+insufficient time for operation
+commands cleared by another initiator
+incompatible medium installed
+medium format corrupted
+no defect spare location available
+tape length error
+enclosure failure
+enclosure services failure
+ribbon, ink, or toner failure
+rounded parameter
+event status notification
+saving parameters not supported
+medium not present
+sequential positioning error
+invalid bits in identify message
+logical unit has not self-configured yet
+target operating conditions have changed
+ram failure (should use 40 nn)
+diagnostic failure on component nn (80h-ffh)
+data path failure (should use 40 nn)
+power-on or self-test failure (should use 40 nn)
+message error
+internal target failure
+select or reselect failure
+unsuccessful soft reset
+scsi parity error
+initiator detected error message received
+invalid message error
+command phase error
+data phase error
+logical unit failed self-configuration
+tagged overlapped commands (nn = queue tag)
+overlapped commands attempted
+write append error
+erase failure
+cartridge fault
+media load or eject failed
+scsi to host system interface failure
+system resource failure
+unable to recover table-of-contents
+generation does not exist
+updated block read
+operator request or state change input
+log exception
+rpl status change
+failure prediction threshold exceeded
+low power condition on
+lamp failure
+video acquisition error
+scan head positioning error
+end of user area encountered on this track
+illegal mode for this track
+voltage fault
+automatic document feeder cover up
+configuration failure
+logical unit not configured
+data loss on logical unit
+informational, refer to log
+state change has occurred
+rebuild failure occurred
+recalculate failure occurred
+command to logical unit failed
+copy protection key exchange failure - authentication failure
+decompression exception short algorithm id of nn
+decompression exception long algorithm id
+session fixation error
+cd control error
+ECC error during verify
+interleave error
+bad format on drive
+self test failed
+defective track
+volume overflow
+set limit violation
+error counter overflow
+initiator detected error
+scsi parity error
+adapter parity error
+obsolete ATAPI driver in cdrkit
+NOT IMPELEMENTED: usalo_initiator_id
+ATA Packet specific SCSI transport
+Generic transport independent SCSI
+ATA Packet specific SCSI transport using sg interface
+ioctl(CDROM_SEND_PACKET) ret: %d
+DMA addr: 0x%8.8lX size: %d - using copy buffer
+Allocated DMA copy buffer, addr: 0x%8.8lX size: %ld
+usalo_send(%s) wrote %d bytes (expected %d).
+pack_len: %d, reply_len: %d pack_id: %d result: %d sense[0]: %02X
+host_status: %02X driver_status: %02X
+No remote SCSI transport available.
+Bus: %d Target: %d Lun: %d Chan: %d Ino: %d
+Target (%d,%d,%d): DMA max %d old max: %ld
+Looking for data for major:minor: %ld:%ld
+/sys/class/scsi_generic/*/device/block*/queue/max_sectors_kb
+/sys/block/*/device/block*/queue/max_sectors_kb
+ERROR: with link merging! base %s link %s, result of merging %i
+ERROR: with link reading! link %s, result of readlink %i
+EXAMPLE: /dev/scsi/host1/bus2/target3/lun4/cd
+EXAMPLE: /dev/ide/host0/bus0/target1/lun0/cd
+EXAMPLE: /dev/hda or /dev/sr0
+INFO: Bus: %d Target: %d Lun: %d Chan: %d Ino: %d
+ERROR: unknow subsystem (%s) in (%s)
+INFO: subsystem %s: h %i, b %i, t %i, l %i
+ERROR: this cdrom is already mapped %s(%d,%d,%d)
+INFO: /dev/%s, (host%d/bus%d/target%d/lun%d) will be mapped on the schilly bus No %d (%d,%d,%d)
+ERROR: in usalo_get_first_free_shillybus(...). Too many CDROMs, more than %i
+Increase MAX_SCHILLY_HOSTS in scsi-linux-ata.c and recompile!
+Linux sg driver version: %d.%d.%d
+SCSI Bus: %d (mapped from %d)
+Error trying to open %s exclusively (%s)... %s
+WARNING: %s seems to be mounted!
+Warning, sysfs is not mounted on /sys!
+It is recommended to mount sysfs to allow better device configuration
+WARNING: the ATAPI: method is considered deprecated on modern kernels!
+Eleele
+Mapping device specification to ATA: method now.
+To force the old ATAPI: method, replace ATAPI: with OLDATAPI:
+WARNING: the ATA: method is considered deprecated on modern kernels!
+Use --devices to display the native names.
+WARNING: the deprecated pseudo SCSI syntax found as device specification.
+Support for that may cease in the future versions of wodim. For now,
+the device will be mapped to a block device file where possible.
+Run "wodim --devices" for details.
+Warning: Using ATA Packet interface.
+Warning: The related Linux kernel interface code seems to be unmaintained.
+Warning: There is absolutely NO DMA, operations thus are slow.
+Illegal value for bus, target or lun '%d,%d,%d'
+try open(%s) return %i, errno %i, cancel
+try open(%s) return %i, errno %i
+DEVFS not detected, continuing with old dev
+errno (EACCESS), you don't have the needed rights for %s
+try open(%s) return %i, errno %i, trying next cdrom
+try open(%s) return %i errno %i calling sg_mapdev(...)
+INFO: scan_internal(...) failed
+BADID
+usalo_getbuf: %ld bytes
+None.
+ATAPI:1,2,0
+ATAPI:
+ATA:
+%d.%d.%d
+Cannot set SG_SET_TIMEOUT.
+ioctl ret: %d
+SCSI open usage error.
+/device/
+INFO: %s -> %s
+ERROR: unknown format
+scsi
+INFO: l1: 0x%lX l2: 0x%lX
+retrying in 1 second.
+giving up.
+/proc/mounts
+/dev/hd%c
+/dev/scd%d
+/dev/sg%d
+/sys/kernel
+OLDATAPI
+/dev/hd
+Cannot open '%s'
+SCSI unsupported with '%s'
+Bus: %d cookie: %X
+file (%d,%d,%d): %d
+/dev/cdroms/cdrom%i
+/dev/sr%i
+%s is not a cdrom, skipping
+INFO: do usalo_open openbydev
+Transport name:		%s
+Transport descr.:	%s
+Transp. layer ind.:	%s
+Target specifier:	%s
+Target example:		%s
+SCSI Bus scanning:	%ssupported
+Open via UNIX device:	%ssupported
+%s: 
+Error %d
+%s: %s. 
+getarg_bad_format
+Condition not caught: 
+any_other
+;*3$"
+Cdrkit
+1.1.11
+@(#)scsitransp.c	1.91 04/06/17 Copyright 1988,1995,2000-2004 J. Schilling
+cdrkit-team
+remote-1.18
+scsihack.c-1.44
+scsi-linux-ata.c-1.7
+scsi-linux-sg.c-1.86
+cdrkit-team
+#?*&+
+file_write_err
+bad_file_op
+bad_file_mode
+bad_file
+isodump
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got
+.got.plt
+.data
+.bss
+.gnu_debuglink

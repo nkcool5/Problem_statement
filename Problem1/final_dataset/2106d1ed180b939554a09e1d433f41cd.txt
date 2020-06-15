@@ -1,0 +1,1404 @@
+/lib64/ld-linux-x86-64.so.2
+libgtk-3.so.0
+g_object_new
+g_object_ref
+g_settings_get_boolean
+cairo_set_line_width
+g_cclosure_marshal_VOID__INT
+g_type_register_static
+cairo_scale
+g_settings_new
+cairo_show_text
+g_return_if_fail_warning
+g_io_error_quark
+g_param_spec_boolean
+g_value_get_int
+g_application_get_type
+g_error_free
+g_settings_set_enum
+cairo_move_to
+g_action_map_lookup_action
+g_log
+g_application_quit
+g_type_name
+g_cancellable_cancel
+g_file_delete
+cairo_rectangle
+cairo_set_source_rgba
+cairo_save
+cairo_set_source_rgb
+g_strdup
+cairo_reference
+pango_font_description_set_size
+g_value_set_boxed
+g_strdup_printf
+g_signal_new
+cairo_set_line_join
+g_settings_get_int
+g_variant_get_int32
+g_strsplit
+cairo_translate
+g_value_set_boolean
+g_value_get_boolean
+g_type_instance_get_private
+g_cancellable_new
+g_signal_connect_data
+g_action_map_add_action_entries
+g_once_init_enter
+g_slice_alloc0
+g_error_matches
+cairo_select_font_face
+pango_layout_get_size
+g_getenv
+g_static_resource_get_resource
+g_free
+_Jv_RegisterClasses
+cairo_line_to
+g_value_set_int
+g_quark_to_string
+g_object_set
+g_param_spec_boxed
+g_object_get
+g_object_class_install_property
+g_type_class_add_private
+g_object_notify
+gdk_rgba_get_type
+pango_layout_get_pixel_size
+g_static_resource_init
+g_clear_error
+cairo_destroy
+cairo_set_font_size
+g_static_resource_fini
+g_settings_set_int
+g_object_unref
+g_once_init_leave
+gdk_screen_get_default
+g_malloc0_n
+g_param_spec_int
+g_simple_action_set_enabled
+cairo_restore
+cairo_paint
+alula
+g_action_map_add_action
+g_type_class_peek_parent
+g_file_new_for_path
+g_malloc0
+g_dgettext
+g_settings_set_boolean
+_ITM_deregisterTMCloneTable
+g_assertion_message_expr
+g_object_ref_sink
+God A red nugget A fat egg under a dog
+cairo_stroke
+g_slice_free1
+pango_cairo_show_layout
+cairo_fill
+g_value_get_boxed
+cairo_fill_preserve
+pango_layout_set_font_description
+gdk_keyval_name
+__gmon_start__
+_ITM_registerTMCloneTable
+g_signal_emit_by_name
+g_signal_connect_object
+g_settings_get_enum
+g_strcmp0
+gtk_popover_set_position
+gtk_drawing_area_get_type
+gtk_popover_new
+gtk_label_get_type
+gtk_widget_set_margin_end
+gtk_widget_set_visible
+gtk_message_dialog_new
+gtk_window_present
+gtk_widget_set_valign
+gtk_image_get_type
+gtk_revealer_set_transition_type
+gtk_window_set_default_size
+gtk_container_add
+gtk_widget_show_all
+gtk_widget_set_events
+gtk_grid_new
+gtk_overlay_new
+gtk_box_pack_start
+gtk_button_new
+gtk_header_bar_set_show_close_button
+gtk_widget_create_pango_layout
+gtk_toggle_button_get_type
+gtk_label_set_use_markup
+gtk_grid_get_child_at
+gtk_toggle_button_new
+gtk_widget_hide
+gtk_label_new
+gtk_builder_new_from_resource
+gtk_revealer_set_reveal_child
+A Santa lives evil at NASA
+gtk_print_operation_new
+gtk_widget_destroy
+gtk_grid_attach
+gtk_stack_get_type
+gtk_application_set_accels_for_action
+gtk_dialog_get_type
+gtk_grid_set_row_spacing
+gtk_print_context_get_width
+gtk_spinner_start
+gtk_toggle_button_get_active
+gtk_dialog_get_header_bar
+gtk_widget_get_allocated_height
+gtk_header_bar_pack_end
+gtk_widget_set_size_request
+gtk_print_operation_set_n_pages
+gtk_widget_init_template
+gtk_print_context_get_height
+gtk_grid_get_type
+gtk_widget_get_type
+gtk_get_current_event_time
+gtk_button_set_focus_on_click
+gtk_style_context_add_provider_for_screen
+gtk_window_get_screen
+gtk_widget_grab_focus
+gtk_print_context_get_cairo_context
+gtk_overlay_add_overlay
+gtk_builder_get_object
+gtk_dialog_run
+gtk_css_provider_load_from_resource
+gtk_css_provider_new
+gtk_stack_set_visible_child_name
+gtk_window_set_titlebar
+gtk_grid_set_column_homogeneous
+gtk_grid_set_column_spacing
+gtk_widget_set_margin_start
+gtk_label_set_label
+gtk_revealer_new
+gtk_adjustment_get_value
+gtk_widget_set_halign
+gtk_spin_button_get_adjustment
+gtk_settings_get_default
+gtk_spinner_stop
+gtk_label_set_text
+gtk_application_window_get_type
+gtk_box_get_type
+gtk_print_operation_run
+gtk_widget_queue_draw
+gtk_header_bar_get_type
+gtk_stack_get_visible_child_name
+gtk_widget_get_visible
+gtk_widget_get_style
+gtk_adjustment_set_value
+gtk_application_add_window
+gtk_widget_set_sensitive
+gtk_drawing_area_new
+gtk_window_set_default_icon_name
+gtk_dialog_add_button
+gtk_widget_show
+gtk_widget_class_set_template_from_resource
+gtk_widget_class_bind_template_child_full
+gtk_widget_get_allocated_width
+gtk_spinner_new
+gtk_application_get_type
+gtk_show_uri
+gtk_container_remove
+gtk_button_get_type
+gtk_window_maximize
+gtk_widget_get_default_direction
+gtk_show_about_dialog
+gtk_window_set_transient_for
+gtk_grid_set_row_homogeneous
+gtk_toggle_button_set_active
+gtk_frame_set_shadow_type
+gtk_header_bar_set_title
+gtk_popover_set_modal
+gtk_aspect_frame_get_type
+libgdk-3.so.0
+g_timeout_add_seconds_full
+libpangocairo-1.0.so.0
+libpango-1.0.so.0
+libcairo.so.2
+cairo_text_extents
+g_warn_message
+g_strconcat
+g_memdup
+g_build_path
+g_file_query_exists
+g_value_get_double
+g_value_get_enum
+g_value_set_double
+g_value_set_enum
+g_enum_register_static
+g_boxed_type_register_static
+g_quark_from_string
+g_quark_from_static_string
+g_param_spec_double
+g_param_spec_enum
+g_cclosure_marshal_VOID__VOID
+g_source_set_name_by_id
+g_timer_new
+g_timer_destroy
+g_timer_start
+g_timer_elapsed
+g_source_remove
+g_realloc
+g_realloc_n
+g_boxed_free
+g_file_set_contents
+g_boxed_copy
+g_get_user_data_dir
+g_file_make_directory
+g_file_get_uri
+g_mutex_lock
+g_mutex_unlock
+g_idle_add_full
+g_malloc
+libqqwing.so.2
+_ZN6qqwing11SudokuBoard18getHiddenPairCountEv
+_ZN6qqwing11SudokuBoard13getGuessCountEv
+_ZN6qqwing11SudokuBoard17getBacktrackCountEv
+_ZN6qqwing11SudokuBoard14getSingleCountEv
+_ZN6qqwing11SudokuBoard24getBoxLineReductionCountEv
+_ZN6qqwing11SudokuBoard21getDifficultyAsStringB5cxx11Ev
+_ZN6qqwing11SudokuBoard5solveEv
+_ZN6qqwing11SudokuBoardD1Ev
+_ZN6qqwing11SudokuBoard16setRecordHistoryEb
+_ZN6qqwing11SudokuBoard22generatePuzzleSymmetryENS0_8SymmetryE
+_ZN6qqwing11SudokuBoard13getDifficultyEv
+_ZN6qqwing11SudokuBoard9getPuzzleEv
+_ZN6qqwing10getVersionB5cxx11Ev
+_ZN6qqwing11SudokuBoard21countSolutionsLimitedEv
+_ZN6qqwing11SudokuBoard13getGivenCountEv
+_ZN6qqwing11SudokuBoard9setPuzzleEPi
+_ZN6qqwing11SudokuBoard26getPointingPairTripleCountEv
+_ZN6qqwing11SudokuBoard13setPrintStyleENS0_10PrintStyleE
+_ZN6qqwing11SudokuBoard17getNakedPairCountEv
+_ZNKSt5ctypeIcE8do_widenEc
+_ZN6qqwing11SudokuBoard13setLogHistoryEb
+_ZN6qqwing11SudokuBoardC1Ev
+_ZN6qqwing11SudokuBoard20getHiddenSingleCountEv
+libgee-0.8.so.2
+g_simple_async_result_set_op_res_gpointer
+g_simple_async_result_complete
+g_get_num_processors
+g_simple_async_result_new
+g_thread_pool_new
+g_simple_async_result_set_from_error
+g_thread_pool_push
+g_simple_async_result_get_op_res_gpointer
+g_type_check_class_cast
+g_simple_async_result_get_type
+g_simple_async_result_propagate_error
+g_type_check_instance_cast
+g_simple_async_result_complete_in_idle
+g_thread_error_quark
+gee_map_get_read_only_view
+gee_collection_add_all
+gee_list_get
+gee_list_get_read_only_view
+gee_list_slice
+gee_collection_contains
+gee_hash_map_new
+gee_list_get_type
+gee_collection_add
+gee_abstract_map_set
+gee_map_set
+gee_abstract_collection_add
+gee_list_remove_at
+gee_hash_set_new
+gee_collection_get_size
+gee_collection_clear
+gee_array_list_get_type
+gee_list_set
+gee_map_get
+gee_collection_remove
+gee_array_list_new
+libjson-glib-1.0.so.0
+g_cancellable_set_error_if_cancelled
+json_builder_end_object
+json_generator_to_data
+json_builder_add_int_value
+json_reader_get_boolean_value
+json_builder_begin_object
+json_reader_is_value
+json_builder_set_member_name
+json_parser_get_root
+json_builder_add_double_value
+json_reader_count_elements
+json_reader_get_string_value
+json_reader_end_element
+json_reader_new
+json_builder_end_array
+json_reader_end_member
+json_parser_load_from_file
+json_node_get_type
+json_parser_new
+json_builder_begin_array
+json_reader_get_int_value
+json_reader_read_member
+json_builder_add_string_value
+json_reader_read_element
+json_builder_get_root
+json_builder_new
+json_builder_add_boolean_value
+json_generator_set_pretty
+json_generator_set_root
+json_reader_is_array
+json_reader_get_double_value
+json_generator_new
+libgio-2.0.so.0
+g_thread_pool_free
+g_application_run
+g_application_add_main_option_entries
+g_cancellable_connect
+g_settings_create_action
+g_simple_action_get_type
+Beeb
+libgobject-2.0.so.0
+g_type_class_get_instance_private_offset
+libglib-2.0.so.0
+g_variant_dict_contains
+g_timer_continue
+g_timer_stop
+libstdc++.so.6
+_ZNSt8ios_base4InitD1Ev
+__gxx_personality_v0
+_ZNSo3putEc
+_ZNKSt5ctypeIcE13_M_widen_initEv
+_ZdlPv
+_ZSt16__ostream_insertIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_PKS3_l
+_ZSt16__throw_bad_castv
+_ZNSt8ios_base4InitC1Ev
+_ZSt4cout
+_ZNSo5flushEv
+_ZNSolsEi
+libgcc_s.so.1
+_Unwind_Resume
+libc.so.6
+fflush
+setlocale
+srand
+dcngettext
+__stack_chk_fail
+bind_textdomain_codeset
+strtol
+__cxa_atexit
+__fprintf_chk
+stdout
+fputc
+stderr
+fwrite
+memmove
+bindtextdomain
+__libc_start_main
+_edata
+__bss_start
+coord_hash
+coord_equal
+GCC_3.0
+GLIBCXX_3.4.9
+CXXABI_1.3
+GLIBCXX_3.4.11
+GLIBCXX_3.4
+GLIBC_2.4
+GLIBC_2.3.4
+GLIBC_2.2.5
+ATUSH
+[]A\
+B(SH
+AVAU
+[]A\A]A^
+t;SH
+C([H
+C([H
+ATUSH
+[]A\
+t{USH
+t{USH
+tnUSH
+AUAT
+[]A\A]
+tsUSH
+C(E1
+C(E1
+C(E1
+C(E1
+tFUSH
+ATUSH
+@HA\H
+ATUH
+[]A\
+ATUH
+[]A\
+USt*
+AWAVAUATUSH
+j@E1
+C(E1
+C(E1
+D$(H
+D$ H
+[]A\A]A^A_
+8[]A\A]A^A_
+C(E1
+ATUI
+[]A\
+ATUSH
+]A\H
+StJH
+AUATUSH
+]A\A]
+AWAVAUATI
+D$(1
+D$ H
+D$@H
+D$@H
+\$ H
+D$(dH3
+8[]A\A]A^A_
+D$@H
+AUATUSH
+[]A\A]
+t3SH
+t;SH
+B(SH
+B(SH
+USt*
+AVAUA
+x uY
+[]A\A]A^
+AUATUS
+[]A\A]
+[]A\A]
+t[US
+AVAUATUSH
+[]A\A]A^
+[]A\A]A^
+]A\A]A^
+AWAVAUATUSH
+D$x1
+T$8I
+t$4H
+l$4D
+L$xdH3
+[]A\A]A^A_
+|$@1
+T$@H
+t$PH
+|$@H
+t$@L
+T$@H
+t$@H
+9D$(
+L$ Hc
+AUATUSH
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+t#SH
+t#SH
+AWAVAUATUSH
+D$H1
+D$HH
+D$HH
+T$@H
+T$ H
+D$HH
+D$HH
+D$HH
+D$HH
+D$HH
+D$HH
+D$HH
+D$HH
+D$HH
+L$HdH3
+X[]A\A]A^A_
+YD$ f
+D$(1
+;p(t
+D$(dH3
+;P,u
+AWAVAUATI
+D$81
+L$8dH3
+H[]A\A]A^A_
+E;t$
+L$ H
+ATUI
+[]A\H
+AVAUI
+ATUH
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+ []A\A]A^
+AUATI
+D$(1
+D$(dH3
+8[]A\A]
+AWAVAUATUSH
+D$H1
+L$0H
+t$ H
+t$HdH34%(
+X[]A\A]A^A_
+teATUI
+D$HH
+D$HH
+[]A\
+ttATUI
+D$HH
+D$HH
+AUATI
+[]A\A]
+AVAUI
+ATUH
+ []A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+AUATI
+[]A\A]
+[]A\A]
+AVAUATUSH
+ uEM
+]A\A]A^
+ATUSL
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+F0E1
+[]A\A]A^A_
+ATUSH
+[]A\
+[]A\
+[]A\
+tkAVA
+ATUH
+[]A\A]A^
+AWAVH
+AUATUSH
+\\$hH
+T$pH
+VUUUf
+D$HA
+\$hL
+D$hL
+D$@L
+d$@L
+D$@L
+|$@L
+t$`H
+Y\$HH
+D$@L
+XD$H
+XD$Xf
+XD$ 
+XD$0f
+XL$ 
+XL$0f
+D$PL
+XL$H
+|$(H
+D$8H
+HcD$ H
+T$01
+D$ H
+|$xH
+XD$h
+|$p1
+[]A\A]A^A_
+|$xH
+XD$h
+|$xH
+XD$h
+Degas are we not drawn onward no In union drawn onward to new eras aged
+ATUSH
+[]A\
+AUATUSH
+[]A\A]
+[]A\A]
+[]A\A]
+AWAVAUATUSH
+D9|$
+D9|$
+([]A\A]A^A_
+Hp9Hlt
+Pd;Pl
+H8Hc
+H8Hc
+AVAUA
+ATUE1
+;[]A\A]A^
+AUATI
+D$,I
+D$,I
+[]A\A]
+AWAVAUATUSH
+D;hh
+[]A\A]A^A_
+[]A\A]A^A_
+AUATUSH
+[]A\A]
+[]A\A]
+AUATUSH
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]H
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+Bd9Blt'1
+=iB!
+=;B!
+AVAUA
+ATUI
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+]A\A]A^
+ []A\A]A^
+AUATA
+[]A\A]
+[]A\A]
+[]A\A]
+[]A\A]
+([]A\A]
+=q=!
+5=+!
+=J=!
+=i<!
+=;<!
+AWAVA
+AUATUS
+D$81
+;Fh|
+;Nd|
+5D,!
+58,!
+l$0E1
+;Xd}8I
+D;`h}	I
+_HE1
+l$0E1
+;Xh}8I
+D;`d}	I
+d$0E1
+D9l$
+t$ L
+l$0E1
+D;bh
+D$ L
+t$0E1
+D9l$
+L$8dH3
+H[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUATUSH
+D$(1
+5f#!
+D$0H
+D$ H
+D9|$
+D9|$
+L$(dH3
+8[]A\A]A^A_
+t^USH
+AWAVAUATUSH
+D$x1
+D$xdH3
+[]A\A]A^A_
+A Mc
+T$(D
+L$ H
+L$ L
+T$(A
+AWAVAUATUSH
+([]A\A]A^A_
+AUATUSH
+[]A\A]
+[]A\A]
+[]A\A]1
+~gATUE1
+;Yh}1
+;Yh|
+D;ad|
+[]A\
+ATUStWH
+[]A\
+[]A\
+ATUStWH
+[]A\
+[]A\
+ATUSH
+[]A\
+AWAVAUATUSH
+D$81
+D$XH
+D$,E1
+D$0H
+Ic7H
+D;qd
+T$8dH3
+H[]A\A]A^A_
+AWAVAUATUSH
+ upH
+]A\A]A^A_
+AUATI
+[]A\A]
+} E1
+[]A\A]
+StRH
+t+SH
+ATUS
+[]A\
+E []A\H
+t+SH
+AVAUA
+ATUA
+{ E1
+[]A\A]A^1
+AUATA
+[]A\A]E1
+t+USH
+tlSH
+t(SH
+AVAUI
+ATUH
+ []A\A]A^
+]A\A]A^
+AUATI
+([]A\A]
+[]A\A]
+AWAVAUATUSH
+D$X1
+T$8H
+~ E1
+T$LH
+t$HL
+\$ L
+HcD$0H
+L$(H
+t$ L
+G0Mc
+Ic4$L
+L$4H
+d$PH
+|$8H
+\$PH
+D$XdH3
+h[]A\A]A^A_
+AWAVAUATUSH
+D$81
+L$8dH3
+H[]A\A]A^A_
+T$0H
+|$0H
+L$(9
+L$ D
+t>USH
+AVAU1
+ATUSH
+[]A\A]A^
+AWAVAUATUSH
+[]A\A]A^A_
+ATUH
+ []A\
+ATUH
+ []A\
+AWAV
+AUATI
+[]A\A]A^A_
+AWAVAUATUSH
+k|A9
+[]A\A]A^A_
+AWAVM
+AUATA
+[]A\A]A^A_
+ATUI
+AWAVAUATUSH
+([]A\A]A^A_
+AUATA
+D$X1
+L$XdH3
+h[]A\A]
+D$X1
+T$XdH3
+AUATUSH
+D$x1
+t$CL
+t$CL
+t$CL
+t$CL
+t$CL
+t$CL
+t$CL
+t$CL
+t$CL
+d$PH
+T$XH
+t$PH
+|$PI
+D$xdH3
+[]A\A]
+|$PI
+D$(1
+T$(dH3
+AWAVA
+AUATL
+[]A\A]A^A_
+gnome-sudoku.c
+window-width
+window-height
+window-is-maximized
+self != NULL
+event != NULL
+allocation != NULL
+highlighter
+show-warnings
+Sudoku
+translator-credits
+logo-icon-name
+program-name
+Tacocat
+website
+artists
+authors
+license-type
+copyright
+comments
+3.18.4
+help:gnome-sudoku
+destroy
+frame
+start_box
+Select Difficulty
+action != NULL
+_Resume
+_Pause
+%02d
+%02d
+%02d
+response
+can-focus
+_Quit
+Play _Again
+Create Puzzle
+tick
+paused-changed
+cell-changed
+completed
+Please enter a valid puzzle.
+_Back
+Play _Anyway
+res != NULL
+gnome-sudoku %s
+show-possible-values
+options != NULL
+org.gnome.sudoku
+notify::state
+<Primary>n
+app.new-game
+<Primary>p
+app.print
+<Primary>q
+app.quit
+<Primary>r
+app.reset
+<Primary>z
+app.undo
+<Primary><Shift>z
+app.redo
+app.help
+sudoku_app
+size-allocate
+window-state-event
+headerbar
+main_stack
+game_box
+undo_redo_box
+back_button
+clock_label
+Do nine men interpret Nine men I nod
+clock_image
+play_custom_game_button
+play_pause_button
+play_pause_label
+print-multiple
+pause
+play-custom-game
+XDG_CURRENT_DESKTOP
+Unity
+vbox
+/usr/share/locale
+UTF-8
+flags
+application-id
+Show release version
+start-game
+create-game
+back
+about
+file %s: line %d: uncaught error: %s (%s, %d)
+gnome-sudoku.vala:244: Failed to delete saved game: %s
+The popular Japanese logic puzzle
+Puzzles generated by QQwing %s
+https://wiki.gnome.org/Apps/Sudoku/
+Copyright 
+ 2005
+2008 Thomas M. Hinkle
+Copyright 
+ 2010
+2011 Robert Ancell
+Copyright 
+ 2014 Parin Porecha
+gnome-sudoku.vala:614: Unable to open help: %s
+Reset the board to its original state?
+Well done, you completed the puzzle in %d minutes!
+Well done, you completed the puzzle in %d minute!
+The puzzle you have entered is not a valid Sudoku.
+The puzzle you have entered has multiple solutions.
+Valid Sudoku puzzles have exactly one solution.
+gnome-sudoku.vala:472: Error: %s
+gnome-sudoku.vala:497: Error: %s
+/org/gnome/sudoku/ui/gnome-sudoku.css
+/org/gnome/sudoku/ui/gnome-sudoku.ui
+Robert Ancell <robert.ancell@gmail.com>
+Christopher Baines <cbaines8@gmail.com>
+Thomas M. Hinkle <Thomas_Hinkle@alumni.brown.edu>
+Parin Porecha <parinporecha@gmail.com>
+John Stowers <john.stowers@gmail.com>
+Show the possible values for each cell
+sudoku_real_handle_local_options
+sudoku_show_new_game_screen
+sudoku_tick_cb
+sudoku_paused_changed_cb
+sudoku_start_game
+sudoku_new_game_cb
+__lambda15_
+sudoku_start_game_cb
+__lambda19_
+sudoku_create_game_cb
+sudoku_reset_cb
+sudoku_set_headerbar_title
+sudoku_show_game_view
+sudoku_back_cb
+sudoku_undo_cb
+sudoku_redo_cb
+sudoku_print_cb
+sudoku_start_custom_game
+sudoku_play_custom_game_cb
+sudoku_toggle_pause_cb
+sudoku_print_multiple_cb
+sudoku_help_cb
+sudoku_about_cb
+sudoku_size_allocate_cb
+sudoku_window_state_event_cb
+/org/gnome/sudoku/ui/print-dialog.ui
+print-multiple-sudoku-difficulty
+file %s: line %d: unexpected error: %s (%s, %d)
+print-dialog.vala:159: Thread error: %s
+print-dialog.vala:164: Error: %s
+print-multiple-sudokus-to-print
+print_button
+print_box
+n_sudokus_button
+easy_radio_button
+medium_radio_button
+very_hard_radio_button
+print-dialog.c
+use-header-bar
+value-changed
+saver != NULL
+window != NULL
+gtk-dialogs-use-header
+PrintDialog
+__lambda22_
+print_dialog_real_response
+print_dialog_start_spinner_cb
+print_dialog_wrap_adjustment
+print_dialog_construct
+show-possibilities
+is-fixed
+selected
+background-color
+widget != NULL
+earmark-state-changed
+notify::visible
+focus-out-event
+*popover != NULL
+p != NULL
+number-picked
+*game != NULL
+c != NULL
+KP_0
+KP_1
+KP_2
+KP_3
+KP_4
+KP_5
+KP_6
+KP_7
+KP_8
+KP_9
+BackSpace
+Delete
+space
+Return
+KP_Enter
+Escape
+is-focus
+Sans
+Paused
+SudokuCellView
+property
+sudoku-view.c
+obey-child
+ratio
+draw
+focus-in-event
+notify::value
+Eleele
+SudokuView
+%s:%d: invalid %s id %u for "%s" of type '%s' in '%s'
+sudoku_view_set_highlighter
+sudoku_view_get_highlighter
+sudoku_view_set_show_possibilities
+sudoku_view_get_show_possibilities
+sudoku_view_set_show_warnings
+sudoku_view_get_show_warnings
+sudoku_view_clear
+sudoku_view_draw_board
+sudoku_view_set_selected
+________lambda14_
+sudoku_view_construct
+sudoku_cell_view_show_earmark_picker
+sudoku_cell_view_real_button_press_event
+__lambda10_
+sudoku_cell_view_destroy_popover
+sudoku_cell_view_show_number_picker
+sudoku_cell_view_create_earmark_picker
+sudoku_cell_view_real_key_press_event
+sudoku_cell_view_real_draw
+sudoku_cell_view_set_background_color
+sudoku_cell_view_get_background_color
+sudoku_cell_view_set_selected
+sudoku_cell_view_get_selected
+sudoku_cell_view_set_show_warnings
+sudoku_cell_view_get_show_warnings
+sudoku_cell_view_set_show_possibilities
+sudoku_cell_view_get_show_possibilities
+sudoku_cell_view_get_is_fixed
+sudoku_cell_view_set_value
+sudoku_cell_view_get_value
+sudoku_cell_view_clear
+sudoku_cell_view_cell_changed_cb
+sudoku_cell_view_hide_both_popovers
+sudoku_cell_view_focus_out_cb
+sudoku_cell_view_construct
+ffffff
+333333
+@n_param_values == 3
+<big>%d</big>
+margin
+clicked
+toggled
+Clear
+<big>%s</big>
+*board != NULL
+NumberPicker
+number_picked
+earmark_state_changed
+g_cclosure_user_marshal_VOID__INT_BOOLEAN
+number_picker_set_earmark
+number_picker_set_earmarks
+number_picker_set_clear_button_visibility
+number_picker_construct
+operation != NULL
+context != NULL
+cr != NULL
+sudoku_board != NULL
+Error printing file:
+sudoku-printer.c
+begin-print
+draw-page
+boards != NULL
+SudokuPrinter
+sudoku_printer_begin_print_cb
+sudoku_printer_draw_sudoku
+sudoku_printer_draw_page_cb
+sudoku_printer_construct
+sudoku_printer_print_sudoku
+(@333333
+"@coord != NULL
+a != NULL
+b != NULL
+block-rows
+block-cols
+filled
+coords != NULL
+n_earmarks > 0
+sudoku-board.c
+n_earmarks >= 0
+.save
+previous-played-time
+difficulty-category
+SudokuBoard
+House
+Coord
+!this.is_fixed[row, col]
+val > 0
+val <= max_val
+block != NULL
+cell != NULL
+Cell
+Unknown Difficulty
+Easy Difficulty
+Medium Difficulty
+Very Hard Difficulty
+Custom Puzzle
+input != NULL
+DifficultyCategory
+max-val
+broken
+size
+complete
+DIFFICULTY_CATEGORY_UNKNOWN
+unknown
+DIFFICULTY_CATEGORY_EASY
+easy
+DIFFICULTY_CATEGORY_MEDIUM
+medium
+DIFFICULTY_CATEGORY_HARD
+DIFFICULTY_CATEGORY_VERY_HARD
+very-hard
+DIFFICULTY_CATEGORY_CUSTOM
+custom
+HOUSE_ROW
+HOUSE_COLUMN
+column
+HOUSE_BLOCK
+block
+sudoku-board.vala:637: Could not parse difficulty level. Falling back to Easy difficulty
+difficulty_category_from_string
+difficulty_category_to_untranslated_string
+difficulty_category_to_string
+cell_equal
+cell_hash
+cell_init
+coord_equal
+coord_hash
+sudoku_board_get_complete
+sudoku_board_get_size
+sudoku_board_get_fixed
+sudoku_board_get_filled
+sudoku_board_get_broken
+sudoku_board_get_max_val
+sudoku_board_get_cols
+sudoku_board_get_rows
+sudoku_board_get_block_cols
+sudoku_board_get_block_rows
+sudoku_board_set_difficulty_category
+sudoku_board_get_difficulty_category
+sudoku_board_set_previous_played_time
+sudoku_board_get_previous_played_time
+sudoku_board_get_earmarks_string
+sudoku_board_is_finished
+sudoku_board_calculate_open_squares
+sudoku_board_get_cells
+sudoku_board_to_string
+sudoku_board_get_string
+sudoku_board_print
+sudoku_board_to_initial_state
+sudoku_board_block_contains
+sudoku_board_col_contains
+sudoku_board_row_contains
+sudoku_board_get_occurances
+sudoku_board_count_solutions_limited
+sudoku_board_remove_breakages_for
+sudoku_board_remove
+sudoku_board_get
+sudoku_board_set
+sudoku_board_mark_breakages_for
+sudoku_board_insert
+sudoku_board_get_block_for
+sudoku_board_get_possibilities_as_bool_array
+sudoku_board_get_possibilities
+sudoku_board_count_possibilities
+sudoku_board_is_possible
+sudoku_board_is_earmark_enabled
+sudoku_board_disable_all_earmarks
+sudoku_board_disable_earmark
+sudoku_board_enable_earmark
+sudoku_board_set_fixed
+sudoku_board_set_filled
+sudoku_board_clone
+sudoku_board_set_block_cols
+sudoku_board_set_block_rows
+sudoku_board_set_rows
+sudoku_board_set_cols
+sudoku_board_is_fully_filled
+sudoku_board_is_empty
+stack != NULL
+n_param_values == 5
+from != NULL
+to != NULL
+[gnome-sudoku] timeout_cb
+paused
+SudokuGameUndoItem
+timer != null
+SudokuGame
+paused_changed
+cell_changed
+sudoku-game.c
+GameMode
+GAME_MODE_PLAY
+play
+GAME_MODE_CREATE
+create
+timer != null && clock_timeout == 0
+g_cclosure_user_marshal_VOID__INT_INT_INT_INT
+sudoku_game_get_paused
+sudoku_game_resume_clock
+sudoku_game_set_paused
+sudoku_game_stop_clock
+sudoku_game_timeout_cb
+sudoku_game_start_clock
+sudoku_game_get_total_time_played
+sudoku_game_update_undo
+sudoku_game_cell_changed_cb
+sudoku_game_reset
+sudoku_game_redo
+sudoku_game_add_to_stack
+sudoku_game_apply_stack
+sudoku_game_undo
+sudoku_game_is_empty
+sudoku_game_remove
+sudoku_game_insert
+sudoku_game_construct
+sudoku_game_is_redostack_null
+sudoku_game_is_undostack_null
+difficulty_category
+time_elapsed
+cells
+position
+earmarks
+file_name != NULL
+sudoku-saver.vala:100: %s
+sudoku-saver.c
+file_path != NULL
+_tmp11_
+_tmp21_
+_tmp23_ == 2
+_tmp26_
+_tmp32_
+_tmp39_
+_tmp45_
+_tmp57_
+_tmp66_
+_tmp78_
+_tmp85_
+savefile
+finished
+sudoku-saver.vala:48: %s
+SudokuSaver
+sudoku-saver.vala:84: Failed to delete %s: %s
+sudoku_saver_add_game_to_finished
+sudoku_saver_create_file_for_game
+sudoku_saver_save_game
+sudoku_saver_parse_json_to_game
+sudoku_saver_get_savedgame
+worker != NULL
+SudokuGeneratorWorker
+sudoku-generator.c
+boards_list != NULL
+SudokuGenerator
+sudoku_generator_print_stats
+sudoku_generator_worker_construct
+__lambda5_
+sudoku_generator_generate_boards_async_co
+Could not generate puzzle of specified difficulty. I tried so hard. Please report at bugzilla.gnome.org.
+Number of Pointing Pairs/Triples: 
+Number of Box/Line Intersections: 
+Number of Givens: 
+Number of Singles: 
+Number of Hidden Singles: 
+Number of Naked Pairs: 
+Number of Hidden Pairs: 
+Number of Guesses: 
+Number of Backtracks: 
+Difficulty: 
+GVariant
+gtk/
+gnome-sudoku.css
+/* Pixel-perfect compatibility with games that have a Button without ButtonBox. */
+GtkButtonBox { -GtkButtonBox-child-internal-pad-x:0; }
+(uuay)gnome-sudoku.ui
+<?xml version="1.0" encoding="UTF-8"?>
+<interface><!-- interface-requires gtk+ 3.10 --><object class="GtkHeaderBar" id="headerbar"><property name="visible">True</property><property name="can_focus">False</property><property name="title" translatable="yes">Sudoku</property><child><object class="GtkBox" id="undo_redo_box"><property name="visible">True</property><property name="can_focus">False</property><property name="homogeneous">True</property><style><class name="raised"/><class name="linked"/></style><child><object class="GtkButton" id="undo_button"><property name="visible">True</property><property name="sensitive">False</property><property name="valign">center</property><property name="tooltip-text" translatable="yes">Undo your last action</property><property name="can_focus">True</property><property name="focus_on_click">False</property><property name="action-name">app.undo</property><style><class name="image-button"/></style><child><object class="GtkImage" id="undo_image"><property name="icon_name">edit-undo-symbolic</property><property name="visible">True</property><property name="icon_size">1</property></object></child></object></child><child><object class="GtkButton" id="redo_button"><property name="visible">True</property><property name="sensitive">False</property><property name="valign">center</property><property name="tooltip-text" translatable="yes">Redo your last action</property><property name="can_focus">True</property><property name="focus_on_click">False</property><property name="action-name">app.redo</property><style><class name="image-button"/></style><child><object class="GtkImage" id="redo_image"><property name="icon_name">edit-redo-symbolic</property><property name="visible">True</property><property name="icon_size">1</property></object></child></object></child></object></child><child><object class="GtkBox" id="timer_box"><property name="visible">True</property><property name="can_focus">False</property><property name="spacing">6</property><child><object class="GtkImage" id="clock_image"><property name="visible">True</property><property name="can_focus">False</property><property name="icon_name">preferences-system-time-symbolic</property><property name="icon_size">1</property></object></child><child><object class="GtkLabel" id="clock_label"><property name="visible">True</property><property name="can_focus">False</property><property name="halign">center</property></object></child></object><packing><property name="pack-type">end</property></packing></child><child><object class="GtkButton" id="back_button"><property name="visible">False</property><property name="halign">center</property><property name="valign">center</property><property name="tooltip-text" translatable="yes">Go back to the current game</property><property name="use_underline">True</property><property name="action-name">app.back</property><style><class name="image-button"/></style><child><object class="GtkImage" id="back_image"><property name="icon_name">go-previous-symbolic</property><property name="visible">True</property><property name="icon_size">1</property></object></child></object></child></object><object class="GtkApplicationWindow" id="sudoku_app"><property name="title" translatable="yes">Sudoku</property><child><object class="GtkBox" id="vbox"><property name="orientation">vertical</property><property name="visible">True</property><child><object class="GtkStack" id="main_stack"><property name="visible">True</property><property name="homogeneous">True</property><property name="margin">25</property><property name="expand">True</property><child><object class="GtkBox" id="start_box"><property name="orientation">vertical</property><property name="visible">True</property><property name="halign">center</property><property name="valign">center</property><property name="margin">0</property><property name="width-request">350</property><property name="height-request">350</property><child><object class="GtkButton" id="easy_button"><property name="visible">True</property><property name="use_underline">True</property><property name="label" translatable="yes">_Easy</property><property name="action-name">app.start-game</property><property name="action-target">1</property><!-- 1 corresponds to enum DifficultyCategory.EASY --></object><packing><property name="expand">True</property><property name="fill">True</property><property name="position">0</property></packing></child><child><object class="GtkButton" id="medium_button"><property name="visible">True</property><property name="use_underline">True</property><property name="label" translatable="yes">_Medium</property><property name="action-name">app.start-game</property><property name="action-target">2</property><!-- 2 corresponds to enum DifficultyCategory.MEDIUM --></object><packing><property name="expand">True</property><property name="fill">True</property><property name="position">1</property></packing></child><child><object class="GtkButton" id="hard_button"><property name="visible">True</property><property name="use_underline">True</property><property name="label" translatable="yes">_Hard</property><property name="action-name">app.start-game</property><property name="action-target">3</property><!-- 3 corresponds to enum DifficultyCategory.HARD --></object><packing><property name="expand">True</property><property name="fill">True</property><property name="position">2</property></packing></child><child><object class="GtkButton" id="very_hard_button"><property name="visible">True</property><property name="use_underline">True</property><property name="label" translatable="yes">_Very Hard</property><property name="action-name">app.start-game</property><property name="action-target">4</property><!-- 4 corresponds to enum DifficultyCategory.VERY_HARD --></object><packing><property name="expand">True</property><property name="fill">True</property><property name="position">3</property></packing></child><child><object class="GtkButton" id="create_game_button"><property name="visible">True</property><property name="use_underline">True</property><property name="margin_top">30</property><property name="label" translatable="yes">_Create your own puzzle</property><property name="action-name">app.create-game</property></object><packing><property name="expand">True</property><property name="fill">True</property><property name="position">5</property></packing></child></object><!-- End of start_box --><packing><property name="name">start_box</property></packing></child><child><object class="GtkAspectFrame" id="frame"><property name="visible">True</property><property name="shadow-type">GTK_SHADOW_NONE</property><property name="obey-child">false</property><property name="ratio">1.4</property><child><object class="GtkBox" id="game_box"><property name="visible">True</property><property name="spacing">25</property><child><object class="GtkButtonBox" id="controls_box"><property name="visible">True</property><property name="halign">end</property><property name="valign">end</property><property name="can_focus">False</property><property name="orientation">vertical</property><property name="spacing">6</property><child><object class="GtkButton" id="play_pause_button"><property name="visible">True</property><property name="can_focus">True</property><property name="receives_default">True</property><property name="action_name">app.pause</property><property name="use_underline">True</property><property name="width-request">120</property><property name="height-request">60</property><child><object class="GtkLabel" id="play_pause_label"><property name="visible">True</property><property name="can_focus">False</property><property name="margin">12</property><property name="label" translatable="yes">_Pause</property><property name="use_underline">True</property></object></child></object><packing><property name="expand">False</property><property name="fill">True</property><property name="pack_type">end</property><property name="position">0</property></packing></child><child><object class="GtkButton" id="clear_button"><property name="visible">True</property><property name="use_underline">True</property><property name="label" translatable="yes">_Clear Board</property><property name="halign">fill</property><property name="valign">center</property><property name="action-name">app.reset</property><property name="tooltip-text" translatable="yes">Reset the board to its original state</property><property name="width-request">120</property><property name="height-request">60</property></object><packing><property name="expand">True</property><property name="fill">True</property><property name="position">1</property></packing></child><child><object class="GtkButton" id="new_button"><property name="visible">True</property><property name="use_underline">True</property><property name="label" translatable="yes">_New Puzzle</property><property name="halign">fill</property><property name="valign">center</property><property name="action-name">app.new-game</property><property name="tooltip-text" translatable="yes">Start a new puzzle</property><property name="width-request">120</property><property name="height-request">60</property></object><packing><property name="expand">False</property><property name="fill">False</property><property name="position">2</property></packing></child><child><object class="GtkButton" id="play_custom_game_button"><property name="visible">False</property><property name="use_underline">True</property><property name="label" translatable="yes">_Start Playing</property><property name="halign">fill</property><property name="valign">center</property><property name="action-name">app.play-custom-game</property><property name="tooltip-text" translatable="yes">Start playing the custom puzzle you have created</property><property name="width-request">120</property><property name="height-request">60</property></object><packing><property name="expand">True</property><property name="fill">True</property><property name="position">3</property></packing></child></object><!-- End of controls_box --><packing><property name="expand">False</property><property name="fill">True</property><property name="pack-type">end</property><property name="padding">0</property></packing></child></object><!-- End of game_box --></child></object><!-- End of frame --><packing><property name="name">frame</property></packing></child></object><!-- End of main_stack --><packing><property name="pack-type">end</property></packing></child></object><!-- End of vbox --></child></object><!-- End of sudoku_app --></interface>
+(uuay)ui/
+print-dialog.ui
+<?xml version="1.0" encoding="UTF-8"?>
+<interface><requires lib="gtk+" version="3.12"/><!-- interface-naming-policy toplevel-contextual --><object class="GtkAdjustment" id="adjustment1"><property name="lower">1</property><property name="upper">100</property><property name="step_increment">1</property><property name="page_increment">10</property></object><template class="PrintDialog" parent="GtkDialog"><property name="title" translatable="yes">Print Multiple Puzzles</property><property name="can_focus">False</property><property name="resizable">False</property><property name="type_hint">dialog</property><property name="width_request">460</property><property name="expand">False</property><property name="modal">True</property><child type="action"><object class="GtkButton" id="cancelbutton1"><property name="label" translatable="yes">_Cancel</property><property name="visible">True</property><property name="can_focus">True</property><property name="can_default">True</property><property name="receives_default">False</property><property name="use_underline">True</property><property name="valign">center</property></object></child><child type="action"><object class="GtkButton" id="print_button"><property name="label" translatable="yes">_Print</property><property name="visible">True</property><property name="can_focus">True</property><property name="can_default">True</property><property name="receives_default">False</property><property name="use_underline">True</property><property name="valign">center</property></object></child><child internal-child="vbox"><object class="GtkBox"><property name="visible">True</property><property name="can_focus">False</property><property name="orientation">vertical</property><child><object class="GtkBox" id="print_box"><property name="visible">True</property><property name="can_focus">False</property><property name="border_width">12</property><property name="spacing">18</property><property name="margin">6</property><property name="orientation">vertical</property><child><object class="GtkBox"><property name="visible">True</property><property name="can_focus">False</property><property name="spacing">10</property><child><object class="GtkBox" id="number_label_box"><property name="visible">True</property><property name="width_request">150</property><child><object class="GtkLabel" id="number_label"><property name="visible">True</property><property name="can_focus">False</property><property name="label" translatable="yes">_Number of puzzles</property><property name="use_underline">True</property><property name="mnemonic_widget">n_sudokus_button</property><property name="valign">center</property><property name="halign">end</property></object><packing><property name="expand">True</property><property name="fill">True</property></packing></child></object></child><child><object class="GtkSpinButton" id="n_sudokus_button"><property name="visible">True</property><property name="can_focus">True</property><property name="halign">center</property><property name="primary_icon_activatable">False</property><property name="secondary_icon_activatable">False</property><property name="primary_icon_sensitive">True</property><property name="secondary_icon_sensitive">True</property><property name="adjustment">adjustment1</property><property name="climb_rate">1</property><property name="valign">center</property></object></child></object></child><child><object class="GtkBox" id="difficulty_box"><property name="visible">True</property><property name="can_focus">False</property><property name="spacing">10</property><child><object class="GtkBox" id="difficulty_label_box"><property name="visible">True</property><property name="width_request">150</property><child><object class="GtkLabel" id="difficulty_label"><property name="visible">True</property><property name="can_focus">False</property><property name="valign">start</property><property name="label" translatable="yes">Difficulty</property><property name="halign">end</property></object><packing><property name="expand">True</property><property name="fill">True</property></packing></child></object></child><child><object class="GtkBox" id="vbox2"><property name="visible">True</property><property name="orientation">vertical</property><property name="homogeneous">True</property><property name="halign">center</property><property name="valign">start</property><property name="events">GDK_POINTER_MOTION_MASK | GDK_POINTER_MOTION_HINT_MASK | GDK_BUTTON_PRESS_MASK | GDK_BUTTON_RELEASE_MASK</property><child><object class="GtkRadioButton" id="easy_radio_button"><property name="label" translatable="yes">_Easy</property><property name="visible">True</property><property name="can_focus">True</property><property name="receives_default">False</property><property name="events">GDK_POINTER_MOTION_MASK | GDK_POINTER_MOTION_HINT_MASK | GDK_BUTTON_PRESS_MASK | GDK_BUTTON_RELEASE_MASK</property><property name="use_underline">True</property><property name="draw_indicator">True</property></object><packing><property name="expand">True</property><property name="fill">True</property><property name="position">0</property></packing></child><child><object class="GtkRadioButton" id="medium_radio_button"><property name="label" translatable="yes">_Medium</property><property name="visible">True</property><property name="can_focus">True</property><property name="receives_default">False</property><property name="events">GDK_POINTER_MOTION_MASK | GDK_POINTER_MOTION_HINT_MASK | GDK_BUTTON_PRESS_MASK | GDK_BUTTON_RELEASE_MASK</property><property name="use_underline">True</property><property name="draw_indicator">True</property><property name="group">easy_radio_button</property></object><packing><property name="expand">True</property><property name="fill">True</property><property name="position">1</property></packing></child><child><object class="GtkRadioButton" id="hard_radio_button"><property name="label" translatable="yes">_Hard</property><property name="visible">True</property><property name="can_focus">True</property><property name="receives_default">False</property><property name="events">GDK_POINTER_MOTION_MASK | GDK_POINTER_MOTION_HINT_MASK | GDK_BUTTON_PRESS_MASK | GDK_BUTTON_RELEASE_MASK</property><property name="use_underline">True</property><property name="draw_indicator">True</property><property name="group">easy_radio_button</property></object><packing><property name="expand">True</property><property name="fill">True</property><property name="position">2</property></packing></child><child><object class="GtkRadioButton" id="very_hard_radio_button"><property name="label" translatable="yes">_Very Hard</property><property name="visible">True</property><property name="can_focus">True</property><property name="receives_default">False</property><property name="events">GDK_POINTER_MOTION_MASK | GDK_POINTER_MOTION_HINT_MASK | GDK_BUTTON_PRESS_MASK | GDK_BUTTON_RELEASE_MASK</property><property name="use_underline">True</property><property name="draw_indicator">True</property><property name="group">easy_radio_button</property></object><packing><property name="expand">True</property><property name="fill">True</property><property name="position">3</property></packing></child></object></child></object></child></object><packing><property name="expand">True</property><property name="fill">True</property><property name="position">1</property></packing></child></object></child><action-widgets><action-widget response="cancel">cancelbutton1</action-widget><action-widget response="ok" default="true">print_button</action-widget></action-widgets></template></interface>
+(uuay)menus.ui
+<?xml version="1.0" encoding="UTF-8"?>
+<interface><!-- interface-requires gtk+ 3.4 --><menu id="app-menu"><section><submenu><attribute name="label" translatable="yes">_Print</attribute><section><item><attribute name="label" translatable="yes">Print _Current Puzzle
+</attribute><attribute name="action">app.print</attribute></item><item><attribute name="label" translatable="yes">Print _Multiple Puzzles
+</attribute><attribute name="action">app.print-multiple</attribute></item></section></submenu></section><section><item><attribute name="label" translatable="yes">High_lighter</attribute><attribute name="action">app.highlighter</attribute></item><item><attribute name="label" translatable="yes">_Warnings</attribute><attribute name="action">app.show-warnings</attribute></item></section><section><!--
+https://bugzilla.gnome.org/show_bug.cgi?id=739418
+        <item>
+          <attribute name="label" translatable="yes">_Help</attribute>
+          <attribute name="action">app.help</attribute>
+        </item>
+--><item><attribute name="label" translatable="yes">_About</attribute><attribute name="action">app.about</attribute></item><item><attribute name="label" translatable="yes">_Quit</attribute><attribute name="action">app.quit</attribute></item></section></menu></interface>
+(uuay)org/
+sudoku/
+gnome/
+;*3$"
+zPLR
+20ca8f6a213badd9002b41f3008693beaf6cfb.debug
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+Borrow or rob
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.gresource.gnome_sudoku
+.eh_frame_hdr
+.eh_frame
+.gcc_except_table
+.init_array
+.fini_array
+.jcr
+.data.rel.ro
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink

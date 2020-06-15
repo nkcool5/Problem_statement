@@ -1,0 +1,1804 @@
+/lib64/ld-linux-x86-64.so.2
+ fUa
+libext2fs.so.2
+_ITM_deregisterTMCloneTable
+com_err
+__gmon_start__
+error_message
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+ext2fs_lookup
+ext2fs_block_alloc_stats2
+ext2fs_read_inode_full
+ext2fs_iblk_set
+ext2fs_file_open2
+ext2fs_block_iterate3
+_init
+ext2fs_block_bitmap_loc
+ext2fs_open_inode_scan
+ext2fs_get_rec_len
+ext2fs_dir_iterate2
+ext2fs_read_inode
+et_ext2_error_table
+ext2fs_extent_get
+ext2fs_read_bitmaps
+ext2fs_extent_node_split
+ext2fs_inode_has_valid_blocks2
+ext2fs_extent_delete
+ext2fs_set_data_io
+ext2fs_blocks_count_set
+ext2fs_file_read
+ext2fs_inode_table_loc
+ext2fs_get_pathname
+ext2fs_bmap2
+ext2fs_extent_get_info
+io_channel_read_blk64
+ext2fs_read_inode_bitmap
+ext2fs_file_acl_block_set
+ext2fs_blocks_count
+ext2fs_dir_iterate
+ext2fs_file_llseek
+ext2fs_bg_flags_test
+ext2fs_file_set_size2
+ext2fs_read_block_bitmap
+ext2fs_bg_free_inodes_count
+ext2fs_mmp_clear
+ext2fs_unlink
+ext2fs_extent_open
+ext2fs_write_inode_full
+ext2fs_file_acl_block
+ext2fs_extent_fix_parents
+unix_io_manager
+ext2fs_symlink
+ext2fs_file_open
+ext2fs_group_desc_csum_set
+ext2fs_inode_size_set
+ext2fs_file_close
+ext2fs_test_bit
+ext2fs_test_generic_bmap
+ext2fs_new_block2
+ext2fs_unmark_generic_bmap
+ext2fs_write_bitmaps
+ext2fs_mmp_write
+ext2fs_get_next_inode
+ext2fs_extent_replace
+ext2fs_mark_generic_bmap
+ext2fs_close_free
+ext2fs_extent_insert
+ext2fs_mmp_read
+ext2fs_write_new_inode
+ext2fs_inode_alloc_stats2
+ext2fs_new_inode
+ext2fs_inode_i_blocks
+ext2fs_write_inode_bitmap
+ext2fs_dirhash
+io_channel_write_blk64
+ext2fs_bg_free_blocks_count
+ext2fs_read_dir_block2
+ext2fs_group_desc
+ext2fs_file_write
+ext2fs_open
+ext2fs_link
+ext2fs_inode_bitmap_loc
+ext2fs_file_lseek
+ext2fs_extent_set_bmap
+ext2fs_inode_data_blocks2
+ext2fs_check_directory
+ext2fs_write_block_bitmap
+ext2fs_file_get_lsize
+ext2fs_file_flush
+ext2fs_extent_free
+ext2fs_bg_itable_unused
+ext2fs_bg_checksum
+ext2fs_expand_dir
+ext2fs_initialize
+ext2fs_punch
+ext2fs_mkdir
+ext2fs_extent_goto2
+ext2fs_bg_used_dirs_count
+ext2fs_namei
+_fini
+ext2fs_close_inode_scan
+ext2fs_write_inode
+libe2p.so.2
+e2p_string2feature
+e2p_feature2string
+e2p_string2hash
+e2p_edit_feature
+e2p_jrnl_string2feature
+e2p_jrnl_feature2string
+list_super2
+libss.so.2
+ss_execute_line
+ss_perror
+ss_set_prompt
+ss_delete_invocation
+ss_create_invocation
+ss_std_requests
+ss_add_request_table
+ss_get_prompt
+ss_safe_getenv
+ss_listen
+ss_get_readline
+ss_delete_request_table
+libcom_err.so.2
+add_error_table
+remove_error_table
+libblkid.so.1
+blkid_get_devname
+blkid_devno_to_devname
+libuuid.so.1
+uuid_clear
+uuid_unparse
+uuid_generate_time
+uuid_parse
+uuid_generate
+libc.so.6
+fflush
+strcpy
+fchmod
+__printf_chk
+exit
+_IO_putc
+fopen
+strncmp
+optind
+strrchr
+signal
+strncpy
+__stack_chk_fail
+putchar
+realloc
+stdin
+popen
+gmtime
+strtol
+isatty
+feof
+fgets
+calloc
+strlen
+memset
+__errno_location
+chdir
+memcmp
+asctime
+getopt
+strptime
+__fprintf_chk
+fchown
+stdout
+fputc
+fputs
+memcpy
+fclose
+strtoul
+malloc
+strcasecmp
+__strncpy_chk
+__ctype_b_loc
+optarg
+stderr
+__snprintf_chk
+__fxstat
+strncat
+strtoull
+pclose
+fwrite
+__memcpy_chk
+localtime
+strchr
+utime
+qsort
+__strcpy_chk
+__sprintf_chk
+__xstat
+access
+__strcat_chk
+setbuf
+strcmp
+strerror
+__libc_start_main
+_edata
+__bss_start
+_end
+BLKID_1.0
+UUID_1.0
+GLIBC_2.3
+GLIBC_2.14
+GLIBC_2.4
+GLIBC_2.2.5
+GLIBC_2.3.4
+AWAVAUATUS
+D$(1
+L$(dH3
+8[]A\A]A^A_
+T$ D
+ATUI
+D$(1
+D$(dH3
+0[]A\
+t$ H
+ uBH
+AWAVE1
+AUATI
+[]A\A]A^A_
+AWAVE
+AUATI
+D$x1
+L$ D
+D$DE
+D$xdH3
+[]A\A]A^A_
+|$0H
+L$(H
+PAVQAV
+D$0H
+t$8UPAVR
+t$(L
+AUATI
+[]A\A]
+AUATI
+[]A\A]
+AUATI
+[]A\A]
+ATUI
+[]A\
+K I9
+ATUI
+[]A\
+[]A\
+AWAVA
+AUATI
+USE1
+[]A\A]A^A_
+AUATI
+[]A\A]
+AWAVE1
+AUATE1
+([]A\A]A^A_
+au;H
+ZYt&H
+AWAVAUATA
+D$H1
+D$HdH3
+X[]A\A]A^A_
+9o0w
+t$@H
+\$@1
+ASAUU
+t$hATAWL
+L$hH
+T$DH
+AWAVI
+AUATA
+D$h1
+AQAP
+D$hdH3
+x[]A\A]A^A_
+W$f%
+L$01
+\$0H
+D$8M
+A[A\
+t$(H
+ATUA
+[]A\
+[]A\
+AVAUATUI
+[]A\A]A^
+D$lH
+AUAT
+Y^t(H
+[]A\A]
+AUAT
+Y^t(H
+[]A\A]
+[]A\
+d$81
+ZYt*H
+[]A\
+AUATI
+H;l$
+8?t7H
+([]A\A]
+ATUSH
+8?t,H
+ []A\
+AWAVA
+AUATA
+AYAZt,H
+[]A\A]A^A_
+Hc0H
+Hc0H
+d$ 1
+D$ H
+D$(fD
+@`@t*
+D$Nf
+T$Jf
+L$Hf
+t$LH
+D$ f%
+t0Hc
+AWAVAUATUS
+[]A\A]A^A_
+Degas are we not drawn onward no In union drawn onward to new eras aged
+l$ 1
+t$ L
+D$(w;I
+L$HH
+AUAT
+ZYusI
+[]A\A]
+[]A\A]
+ZYt'H
+@t_H
+Y^t'H
+D$ f%
+@t?H
+t$ 1
+D$:f
+D$:H
+AWAVAUATI
+[]A\A]A^A_
+[]A\A]A^A_
+D$ 1
+AWAV
+AUAT
+[]A\A]A^A_
+]A\A]A^A_
+[]A\A]A^A_
+AWAV
+AUATA
+[]A\A]A^A_
+[]A\A]A^A_
+[]A\A]A^A_
+D$(1
+D$(dH3
+D$ 1
+ZYt#H
+ []A\
+AUAT
+ZYuvI
+[]A\A]
+[]A\A]
+ATUH
+[]A\
+L$pH
+D$X1
+T$XdH3
+;<tY
+D$H1
+t$ 1
+DkD$
+QiT$
+\$HdH3
+AUATI
+[]A\A]
+AUATI
+[]A\A]
+AUATI
+ZYt*
+[]A\A]
+AWAVAUATUSH
+dH34%(
+[]A\A]A^A_
+AWAVAUATUS
+d$(I
+T$PH
+[]A\A]A^A_
+D$Pf%
+@t\f
+T$PH
+L$ 1
+|$@H
+>H98u
+AVAUATUH
+[]A\A]A^
+T$0H
+uHf.
+T$0H
+t$ H
+L$(E1
+t$0H
+H;D$ }5
+AWAVAUATI
+dH3<%(
+[A\A]A^A_]
+ZYf%
+        H
+AWAV
+AUAT
+t$(1
+T$ 1
+|$ H
+T$PH
+L$0A
+t$0H
+T$@H
+urE9
+L$PH
+L$R	
+L$TH	
+L$dH
+L$8H
+|$ H
+T$PH
+|$ H
+[]A\A]A^A_
+AUATI
+([]A\A]
+Hc0H
+Hc0H
+Hc0H
+Hc0H
+AWAVM
+AUATI
+[]A\A]A^A_
+AVAUA
+ATUH
+@t+H
+[]A\A]A^
+Hc0H
+ []A\A]A^
+Hc0H
+Hc0I
+Hc0H
+ATUH
+[]A\
+AVAUATUI
+;-#~!
+]A\A]A^1
+t	[]A\A]A^
+Hc0H
+]A\A]A^
+AVAU
+ZYt.H
+[]A\A]A^
+Hc0L
+~JHc
+=:{!
+AWAVAUATI
+=py!
+([]A\A]A^A_
+=.x!
+AVAUATUI
+~0D9
+[]A\A]A^
+=Au!
+ATUH
+[]A\
+=et!
+AVAUATUSH
+D$X1
+t$0E
+C H=
+D$XdH3
+`[]A\A]A^
+=gq!
+=[q!
+5cq!
+=<q!
+=_p!
+ZYt4H
+=.n!
+AWAV
+AUATUSH
+[]A\A]A^A_
+D;p0r;H
+=!l!
+ZYu~L
+%	k!
+[]A\
+[]A\
+[]A\
+D$ H
+[]A\1
+AVAUI
+ATUH
+[]A\A]A^
+AWAVA
+AUATUSH
+d$0t
+[]A\A]A^A_
+9L$ 
+L$01
+A\A]
+D$XD
+t~H;
+d$$H
+D9d$
+H;-wm!
+H;-bm!
+5rm!
+d$(E1
+D9l$
+T$(A
+AWAVE1
+AUATE1
+USE1
+=I^!
+-1^!
+[]A\A]A^A_
+=y]!
+-x\!
+N H)
+d$$H
+T$ H
+Hc0H
+Hc0H
+d$0H
+d$0L
+L$XI
+T$JI
+L$0I
+L$8I
+L$@I
+L$HI
+L$PI
+Hc0H
+AWAVAUATM
+ZYt?H
+[A\A]A^A_]
+=nb!
+5^a!
+5Ga!
+A9D$(
+8A;T$(
+D$ L
+=B`!
+5*`!
+AWAVI
+AUAT1
+=~_!
+T$81
+=:_!
+_AXu
+D$0E1
+t$(L
+D$8dH3
+H[]A\A]A^A_
+t$0H
+D$4PL
+D$0H
+L$(H
+AWAVAUATUSH
+U(E1
+D;}(
+IcT$
+[]A\A]A^A_
+[]A\
+=xY!
+=\Y!
+=@Y!
+=$Y!
+ATUE1
+D$(1
+suIH
+;-/N!
+D$(dH3
+0[]A\
+=	N!
+ []A\
+%JM!
+AUAT
+5-K!
+9X(w
+[]A\A]
+H;w0v
+w0H;w(s
+AWAVAUATA
+[]A\A]A^A_
+cu:H
+t$01
+T$0H
+D$@L
+=eI!
+W(H9
+L$`H
+D$dH
+D$@L
+HcD$d
+L$H+L$`H
+t$(f
+tuE1
+|$@H
+T$d;T$
+L9d$ tHHc
+L9d$ u
+t$(t
+|$@H
+L$@H
+L$XH
+D$xA
+|$hL
+D$pH
+|$hH
+D$pI
+D$xH
+|$ L
+L$xL
+D$dH
+HcL$dL
+D$PH
+L$H+L$`H
+max 
+|$8I
+O$PAPh
+O$PAPR
+Eleele
+w@VL
+HcO(H
+D$$I
+]A\f%
+D$ E
+<$h&
+ATUSx^H
+y8H9
+S8H9
+C@[1
+y@H9
+AVAUI
+ATUH
+[]A\A]A^
+=1>!
+ATUA
+[]A\
+%qF!
+t$`D
+L$ ~i
+D$`f%
+t$`H
+D$PtVH
+\$PH
+=!C!
+[]A\
+=XA!
+=7A!
+ZYudH
+5s@!
+=Y@!
+D$ 1
+=)>!
+D$01
+ZYuFH
+D$(dH3
+=9<!
+D$01
+ZYuq
+D$(dH3
+0[]A\
+AUAT
+D$01
+ZYuS
+D$(dH3
+8[]A\A]
+=39!
+D$ 1
+ZYu8
+=}8!
+ []A\
+=,8!
+=	.!
+=17!
+D$`1
+D$XdH3
+D$,PD
+L$D1
+L$PH
+D$ 1
+Y^t H
+ []A\
+=]5!
+AWAVAUATUS
+D$(1
+D$(dH3
+8[]A\A]A^A_
+=V*!
+=f)!
+T$ H
+t$ H
+t$ H
+L$ H
+D$(dH3
+[]A\A]A^A_
+L$ H
+L$ H
+AWAVE1
+AUATA
+Hct$
+L9t$
+[]A\A]A^A_
+L9t$
+ []A\
+fu)L
+=h$!
+%@$!
+[]A\
+==#!
+=c,!
+=6+!
+hqtA
+hlsA
+P8Hc
+[]A\
+hqtA
+hlsA
+AUATA
+[]A\A]
+E@I9
+C([1
+dH34%(
+ATUA
+[]A\
+AY[]A\
+AWAVAUATE1
+D9d$
+[]A\A]A^A_
+} AXAYH
+AVAUI
+ATUSL
+t$(H
+[]A\A]A^
+AWAVAUATI
+([]A\A]A^A_
+AUATL
+[]A\A]
+tVAUATI
+Mxt(
+L)`@H
+[]A\A]
+tVAUATI
+Mxt(
+[]A\A]
+ATUSH
+[]A\
+AUATUSH
+([]A\A]
+} XZH
+AVAUATUSH
+t$ E1
+|$ H
+t$ L
+[]A\A]A^
+|$PXZH
+ATUA
+[]A\
+ATUA
+[]A\
+t<Hc
+AVAULc
+ATUSH
+ []A\A]A^
+H;C(|%H
+ATUH
+[]A\
+AWAVAUATA
+|$ D
+T$$H
+D$@A
+|$:fD
+T$@H
+B`@t	
+D$@L
+[]A\A]A^A_
+|$HI
+D$ D
+D$8`Bb
+AUATUSH
+V8dH
+l$(L
+tKH;t$
+([]A\A]
+H;t$
+AWAVAUATUSHc
+([]A\A]A^A_
+E8`Bb
+GP@Bb
+D$81
+D$4'
+C`@Bb
+L$8dH3
+dH34%(
+dH34%(
+D$H1
+D$HdH3
+AWAVA
+AUATUSH
+[]A\A]A^A_
+[]A\A]A^A_A
+[]A\
+AWAVAUATA
+D$(L
+|$(A
+9APw
+t$4H
+[]A\A]A^A_
+[]A\A]A^A_
+L;d$
+,$D;hPr
+L$ D
+T$0L
+L$ D
+d$ A
+l$(L
+u?H9
+d$ H
+AWAVA
+AUATI
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVA
+AUATI
+D$(1
+\$(dH3
+8[]A\A]A^A_
+T$$L
+T$$A
+AWAVI
+AUAT
+[]A\A]A^A_
+D$TA
+([]A\A]A^A_
+D$TA
+t$TL
+T$\1
+t$XH
+l$XA
+t$XL
+ATUH
+S09C\
+[]A\
+[]A\
+AUATA
+U(9E\
+[]A\A]
+[]A\A]
+AVAUI
+ATUI
+|$P1
+t$pH
+]A\A]A^
+]A\A]A^
+t;ATUI
+[]A\
+AUATUSH
+taH9
+[]A\A]
+]A\A]
+]A\A]
+AUATI
+t$ L
+$$L9
+[]A\A]
+[]A\A]
+AUATI
+V H9
+[]A\A]
+ATUI
+[]A\
+t!H;r
+H;2t
+G8H9G0
+AWAVA
+AUATL
+[]A\A]A^A_
+Show debugfs parameters
+Open a filesystem
+Close the filesystem
+Set/print superblock features
+Mark the filesystem as dirty
+Show superblock statistics
+Do inode->name translation
+Do block->inode translation
+Change root directory
+Change working directory
+List directory
+Show inode information 
+Dump extents information 
+Dump blocks used by an inode 
+Create directory link
+Delete a directory link
+Create a directory
+Remove a directory
+Clear an inode's contents
+Clear an inode's in-use flag
+Set an inode's in-use flag
+Test an inode's in-use flag
+Clear a block's in-use flag
+Set a block's in-use flag
+Test a block's in-use flag
+Modify an inode by structure
+Find free block(s)
+Find free inode(s)
+Expand directory
+Create a special file
+List deleted inodes
+Undelete file
+Dump an inode out to a file
+Dump an inode out to stdout
+Set superblock value
+Set inode field
+Dump a hash-indexed directory
+Create a symbolic link
+Dump unused blocks
+Dump MMP information
+Set MMP value
+Dump contents of a block
+List quota
+Get quota
+inode_dump
+idump
+get_quota
+list_quota
+block_dump
+bdump
+zap_block
+extent_open
+set_mmp_value
+smmp
+dump_mmp
+supported_features
+set_current_time
+dump_unused
+imap
+punch
+truncate
+dirsearch
+dx_hash
+htree_dump
+htree
+set_block_group
+set_bg
+set_inode_field
+set_super_value
+rdump
+dump_inode
+write
+undelete
+undel
+list_deleted_inodes
+lsdel
+mknod
+expand
+print_working_directory
+find_free_inode
+find_free_block
+modify_inode
+testb
+setb
+freeb
+testi
+seti
+freei
+clri
+kill_file
+rmdir
+unlink
+filefrag
+dump_extents
+show_inode_info
+stat
+list_directory
+change_working_directory
+change_root_directory
+chroot
+icheck
+ncheck
+show_super_stats
+init_filesys
+dirty_filesys
+feature
+e2freefrag
+close_filesys
+open_filesys
+show_debugfs_params
+Report free space fragmentation
+Initialize a filesystem (DESTROYS DATA)
+Report fragmentation information for an inode
+Remove a file (unlink and kill_file, if appropriate)
+Deallocate an inode and its blocks
+Print current working directory
+Copy a file from your native filesystem
+Change the current directory on your native filesystem
+Recursively dump a directory to the native filesystem
+Set block group descriptor field
+Dump the contents of the journal
+Calculate the directory hash of a filename
+Search a directory for a particular filename
+Calculate the logical->physical block mapping for an inode
+Punch (or truncate) blocks from an inode by deallocating them
+Calculate the location of an inode
+Set current time to use when setting filesystem fields
+Print features supported by this version of e2fsprogs
+Open inode for extent manipulation
+Zap block: fill with 0, pattern, flip bits etc.
+Dump the inode structure in hex
+if you specify the superblock, you must also specify the block size
+The -d option is only valid when reading an e2image file
+opening read-only because of catastrophic mode
+while trying to close filesystem
+catastrophic mode - not reading inode or group bitmaps
+Level Entries %*s %*s Length Flags
+%2d/%2d %3d/%3d %*llu - %*llu %*llu%*s %6u
+%2d/%2d %3d/%3d %*llu - %*llu %*llu - %*llu %6u %s
+%s: Usage: open [-s superblock] [-b blocksize] [-d image_filename] [-c] [-i] [-f] [-e] [-D] [-w] <device>
+while trying to change native directory to %s
+ Group %2d: block bitmap at %llu, inode bitmap at %llu, inode table at %llu
+           %u free %s%s, %u free %s, %u used %s%s
+%sGeneration: %u    Version: 0x%08x:%08x
+%sGeneration: %u    Version: 0x%08x
+%sUser: %5d   Group: %5d   Size: 
+%sFile ACL: %d    Directory ACL: %d Translator: %d
+%sFile ACL: %llu    Directory ACL: %d
+%sLinks: %d   Blockcount: %llu
+%sFragment:  Address: %d    Number: %d    Size: %d
+Size of extra inode fields: %u
+invalid inode->i_extra_isize (%u)
+Extended attributes stored in inode body: 
+%sDevice major/minor number: %02d:%02d (hex %02x:%02x)
+do_stat: can't allocate buffer
+Usage: dump_extents [-n] [-l] file
+%s: does not uses extent block maps
+Warning: block %llu already clear
+Warning: block %llu already set
+while trying to get pathname of cwd
+while trying to get pathname of root
+Inode is not marked as deleted
+Usage: find_free_block [count [goal]]
+Usage: find_free_inode [dir] [mode]
+Usage: mknod <name> [p| [c|b] <major> <minor>]
+while trying to resolve filename
+while iterating over directory
+while mapping logical block %llu
+Inode table for group %lu is missing
+Inode %d is part of block group %lu
+	located at block %lu, offset 0x%04lx
+Couldn't parse argument as a time: %s
+while truncating inode %u from %llu to %llu
+Usage: %s [-b blocksize] [-s superblock] [-f cmd_file] [-R request] [-V] [[-w] [-c] device]
+while opening data source
+while opening filesystem
+while reading inode bitmap
+while reading block bitmap
+while setting data source
+ext2fs_write_inode_bitmap
+ext2fs_write_block_bitmap
+ext2fs_close
+\%03o
+%02x 
+Uninit
+Logical
+Physical
+%sEXTENTS:
+%s(ETB%d):%lld
+%s(%lld%s):%lld
+%s(%lld-%lld%s):%lld-%lld
+%llu 
+%30s    [%s] 
+Bad value - %s
+make_link
+unlink_file_by_name
+debugfs: %s
+(%lld):%llu
+(%lld-%lld):%llu-%llu
+(IND):%llu
+(DIND):%llu
+(TIND):%llu
+           [
+block size
+superblock block number
+iwfecb:s:d:D
+<native dir>
+Usage: %s %s
+Usage: close_filesys [-a]
+<device> <blocks>
+initialize
+blocks count
+while initializing filesystem
+cluster
+directories
+Directories:              %d
+%u unused %s
+Inode not init
+Block not init
+%sChecksum 0x%04x
+%s: Usage: show_super [-h]
+-clean
+bad type
+socket
+FIFO
+character special
+(New-style) 
+%sInode: %u   Type: %s    
+%sMode:  %04o   Flags: 0x%x
+%sLinks: %d   Blockcount: %u
+%s ctime: 0x%08x:%08x -- %s
+%s atime: 0x%08x:%08x -- %s
+%s mtime: 0x%08x:%08x -- %s
+%scrtime: 0x%08x:%08x -- %s
+%sctime: 0x%08x -- %s
+%satime: 0x%08x -- %s
+%smtime: 0x%08x -- %s
+%sdtime: 0x%08x -- %s
+invalid EA entry in inode
+ = "
+" (%u)
+%sFast_link_dest: %.*s
+%sBLOCKS:
+%sTOTAL: %lld
+regular
+block special
+<file> [num]
+length
+Warning: inode already clear
+Warning: inode already set
+Inode %u is marked in use
+Inode %u is not in use
+Block %llu marked in use
+Block %llu not in use
+Mode
+User ID
+Group ID
+Size
+Creation time
+Modification time
+Access time
+Deletion time
+Link count
+Block count high
+Block count
+0x%x
+File flags
+Generation
+File acl
+Directory acl
+High 32bits of size
+Translator Block
+Fragment address
+Direct Block #%d
+Double Indirect Block
+Triple Indirect Block
+Fragment number
+Fragment size
+NULL
+[pwd]   INODE: %6u  PATH: %s
+[root]  INODE: %6u  PATH: %s
+<source file> <dest_name>
+<inode_num> [dest_name]
+<pathname>
+Bad count - %s
+Bad goal - %s
+Free blocks found: 
+ext2fs_new_block
+Bad dir - %s
+Bad mode - %s
+ext2fs_new_inode
+Free inode found: %u
+<native file> <new file>
+The file '%s' already exists
+Allocated inode: %u
+while expanding directory
+copy_file
+can't allocate buffer
+can't allocate zero buffer
+<filename>
+ext2fs_mkdir
+file is a directory
+file is not a directory
+directory not empty
+--none--
+Open mode: read-%s
+Filesystem in use: %s
+ext2fs_expand_dir
+Unknown feature: %s
+Filesystem features:
+(none)
+<file> logical_blk
+logical block
+<file>
+while reading inode %d
+while allocating memory
+<time>
+Setting current time to %s
+Supported feature: %s
+Supported features:
+<file> start_blk [end_blk]
+<filename> <target>
+ext2fs_symlink
+reading MMP block.
+block_number: %llu
+update_interval: %d
+check_interval: %d
+sequence: %08x
+time: %lld -- %s
+node_name: %s
+device_name: %s
+magic: 0x%x
+allocating MMP buffer.
+debugfs
+17-May-2015
+1.42.13
+%s %s (%s)
+	Using %s
+iwcR:f:b:s:Vd:D
+creating invocation
+adding standard requests
+adding extra requests
+DEBUGFS_PAGER
+%s/%s
+__none__
+Filesystem not open
+Filesystem opened read/only
+Filesystem bitmaps not loaded
+GMT0
+%Y%m%d%H%M%S
+Bad %s - %s
+<block> [count]
+Invalid block number 0
+while reading inode %u
+while writing inode %u
+while creating inode %u
+/usr/bin
+pager
+more
+less
+Filesystem %s is still open.  Close it first.
+while calling ext2fs_get_pathname for inode #%u
+Usage: ncheck [-c] <inode number> ...
+while allocating inode number array
+while calling ext2_dir_iterate
+%u	%s/%.*s
+%u	<%u>/%.*s
+  <--- BAD FILETYPE
+Bad inode - %s
+while opening inode scan
+while starting inode scan
+Inode	Pathname
+while doing inode scan
+Usage: icheck <block number> ...
+while allocating inode info array
+while calling ext2fs_block_iterate
+while allocating block buffer
+Block	Inode number
+%llu	<block not found>
+%llu	%u
+/%u/%06o/%d/%d/%s/
+%lld/
+%2d-%s-%4d %02d:%02d
+%c%6u%c %6o (%d)  %5d  %5d   
+%5llu
+%c%u%c (%d) %s   
+Usage: ls [-l] [-d] [-p] file
+[secs]
+Bad time - %s
+ls_deleted_inodes
+while reallocating array
+%d deleted inodes found.
+while allocating deleted information storage
+while calling ext2fs_block_iterate2
+ Inode  Owner  Mode    Size      Blocks   Time deleted
+%6u %6d %6o %6llu %6lld/%6lld %s
+while changing ownership of %s
+while setting permissions of %s
+while creating symlink %s -> %s
+Usage: dump_inode [-p] <file> <output_file>
+while opening %s for dump_inode
+while closing %s for dump_inode
+<directory>... <native directory>
+while setting times of %s
+while opening ext2 file
+while reading ext2 file
+while writing file
+while closing ext2 file
+dump_file
+while allocating for symlink
+while opening symlink
+while reading symlink
+while closing symlink
+while opening %s
+while closing %s
+while making directory %s
+while dumping %s
+while statting %s
+%s is not a directory
+null
+random
+Invalid UUID format: %s
+Invalid hash algorithm: %s
+Superblock
+set_inode
+Inode
+Block group descriptor
+string
+unsigned integer
+UUID
+hash algorithm
+date/time
+unknown
+unsigned integer OR "calc"
+[%d]
+[_hi|_lo]
+	%-25s	%s
+calc
+Checksum set to 0x%04x
+while setting block map
+while clearing MMP block
+invalid field specifier: %s
+set_block_group_descriptor
+no MMP block allocated
+reading MMP block %llu.
+allocating MMP buffer
+magic
+nodename
+bdevname
+check_interval
+inode_table
+free_blocks_count
+free_inodes_count
+used_dirs_count
+exclude_bitmap
+block_bitmap_csum
+inode_bitmap_csum
+itable_unused
+checksum
+mode
+atime
+ctime
+mtime
+dtime
+links_count
+translator
+block[IND]
+block[DIND]
+block[TIND]
+generation
+file_acl
+dir_acl
+faddr
+Beeb
+fsize
+author
+ctime_extra
+mtime_extra
+atime_extra
+crtime
+crtime_extra
+first_data_block
+log_block_size
+log_cluster_size
+blocks_per_group
+clusters_per_group
+inodes_per_group
+wtime
+max_mnt_count
+state
+errors
+minor_rev_level
+lastcheck
+checkinterval
+creator_os
+def_resuid
+def_resgid
+first_ino
+inode_size
+block_group_nr
+feature_compat
+feature_incompat
+feature_ro_compat
+volume_name
+last_mounted
+algorithm_usage_bitmap
+prealloc_blocks
+prealloc_dir_blocks
+reserved_gdt_blocks
+journal_uuid
+journal_inum
+journal_dev
+last_orphan
+hash_seed
+def_hash_version
+jnl_backup_type
+desc_size
+default_mount_opts
+first_meta_bg
+mkfs_time
+jnl_blocks
+min_extra_isize
+want_extra_isize
+raid_stride
+mmp_interval
+mmp_block
+raid_stripe_width
+log_groups_per_flex
+kbytes_written
+snapshot_inum
+snapshot_id
+snapshot_r_blocks_count
+snapshot_list
+usr_quota_inum
+grp_quota_inum
+overhead_blocks
+backup_bgs
+error_count
+first_error_time
+first_error_ino
+first_error_block
+first_error_func
+first_error_line
+last_error_time
+last_error_ino
+last_error_block
+last_error_func
+last_error_line
+Error maximum size for %s is %d.
+Couldn't parse '%s' for field %s.
+Value '%s' exceeds field %s maximum %llu.
+64-bit field %s has a second 64-bit field
+defined; BUG?!?
+set physical->logical block map
+%s fields supported by the %s command:
+<field> <value>
+Tacocat
+	"set_super_value -l" will list the names of superblock fields
+	which can be set.
+<inode> <field> <value>
+	"set_inode_field -l" will list the names of the fields in an ext2 inode
+	which can be set.
+<bg number> <field> <value>
+	"set_block_group_descriptor -l" will list the names of the fields in a block group descriptor
+	which can be set.
+invalid block group number: %s
+block group number too big: %d
+<field> <value>
+	"set_mmp_value -l" will list the names of MMP fields
+	which can be set.
+while seeking in reading journal
+short read (read %u, expected %u) while reading journal
+Ext2 superblock header found.
+Journal superblock magic number invalid!
+Journal starts at block %u, transaction %u
+No magic number at block %u: end of journal.
+Found sequence %u (not %u) at block %u: end of journal.
+Found expected sequence %u, type %u (%s) at block %u
+Dumping descriptor block, sequence %u, at block %u:
+journal block %u (flags 0x%x)
+    (block bitmap for block %llu: block is %s)
+    (inode block for inode %u):
+Dumping revoke block, sequence %u, at block %u:
+Unexpected block type %u at block %u.
+Inode %u is at group %u, block %llu, offset %u
+no journal backup in super block
+Using external journal found at %s
+%s: Usage: logdump [-acs] [-b<block>] [-i<filespec>]
+	[-f<journal_file>] [output_file]
+while reading journal
+unrecognised type
+CLEAR
+	uuid=%s
+	blocksize=%d
+	journal data size %lu
+  FS block %u logged at 
+sequence %u, 
+    Blocks:  
+(%d+%u): %u 
+(%s): %u 
+DIND
+TIND
+    %04x:  
+%08x 
+  Revoke FS block %u
+ at block %u, sequence %u
+Bad block number - %s
+ab:ci:f:s
+while opening %s for logdump
+filesystem has no journal
+descriptor block
+commit block
+V1 superblock
+V2 superblock
+revoke table
+Reading directory block %llu, phys %llu
+while reading block %llu (%llu)
+while getting rec_len for block %lu
+Corrupted directory block (%llu)!
+Number of entries (count): %d
+Number of entries (limit): %d
+Entry #%d: Hash 0x%08x%s, block %u
+Entry #%d: Hash 0x%08x, block %u
+Couldn't allocate child block.
+Entry found at logical block %lld, phys %llu, offset %u
+Couldn't allocate htree buffer
+while mapping logical block 0
+usage: dx_hash [-h hash_alg] [-s hash_seed] filename
+Hash of %s is 0x%0x (minor 0x%0x)
+htree_dump_leaf_node
+htree_dump_leaf_inode
+while calculating hash
+%u 0x%08x-%08x (%d) %s   
+ (**)
+htree_dump_int_block
+while 	reading block %llu
+---------------------
+offset %u
+while reading block %lu
+search_dir_block
+Not a directory
+Not a hash-indexed directory
+do_htree_block
+Error reading root node
+Root node dump:
+	 Reserved zero: %u
+	 Hash Version: %d
+	 Info length: %d
+	 Indirect levels: %d
+	 Flags: %d
+h:s:
+while caclulating hash
+God A red nugget A fat egg under a dog
+Usage: dirsearch dir filename
+Couldn't allocate buffer
+While reading block
+Unused block %llu contains non-zero data:
+KMGTPEZY
+%s: bad chunk size '%s'
+Device: %s
+Blocksize: %u bytes
+Num. free extent: %lu
+Free Blocks
+Free extents
+Extent Size Range
+%s :  %12s  %12s  %7s
+Percent
+%5lu%c-
+usage: %s [-c chunksize in kb] [-h] device_name
+%s: chunk size must be a power of 2.
+%s: chunksize must be greater than or equal to filesystem blocksize.
+alula
+while closing the filesystem.
+Total blocks: %llu
+Do nine men interpret Nine men I nod
+Free blocks: %u (%0.1f%%)
+Chunksize: %lu bytes (%u blocks)
+Total chunks: %lu
+Free chunks: %lu (%0.1f%%)
+Min. free extent: %lu KB 
+Max. free extent: %lu KB
+Avg. free extent: %lu KB
+HISTOGRAM OF FREE EXTENT SIZES:
+%5lu%c...%7s  :  %12lu  %12lu  %6.2f%%
+Y@%4d %*lu %*llu %*llu %*lu
+%4d %*lu %*llu %*s %*lu
+ (dir)
+logical
+A Santa lives evil at NASA
+%4s %*s %*s %*s %*s
+expected
+physical
+ext2fs_block_iterate3
+%s: %d contiguous extents%s
+Usage: filefrag [-dvr] file
+ext2fs_dir_iterate2
+%s has %llu block(s), i_size is %llu
+Couldn't allocate memory for %s/%s
+Couldn't allocate dir_list for %s
+Current extent node
+Goto root extent
+Goto last leaf
+Goto first sibling
+Goto last sibling
+Goto next sibling
+Goto previous sibling
+Goto next leaf
+Goto previous leaf
+Goto next node
+Goto previous node
+Up node
+Down node
+Delete node
+Insert node
+Split node
+Fix parents
+Set block mapping
+Print extent info
+Close extent handle
+extent_close
+goto_block
+goto
+print_all
+replace_node
+replace
+set_bmap
+fix_parents
+fixp
+split_node
+split
+insert_node
+insert
+delete_node
+down_node
+down
+up_node
+previous
+prev
+next
+prev_leaf
+next_leaf
+prev_sibling
+prev_sib
+next_sibling
+next_sib
+last_sibling
+last_sib
+first_sibling
+first_sib
+last_leaf
+root_node
+current_node
+current
+Iterate over all nodes and print them
+Goto extent containing specified block
+Extent handle not open
+LEAF 
+UNINIT 
+2ND_VISIT 
+Current inode is %d
+No current inode
+while opening extent handle
+ (extent ino %d): 
+--uninit
+Usage: %s %s
+physical block
+usage: %s %s
+--after
+[--uninit] <lblk> <pblk>
+--leaf-only
+--reverse
+--reverse-leaf
+block [level]
+extent: lblk %llu--%llu, len %u, pblk %llu, flags: 
+[--uninit] <lblk> <len> <pblk>
+[--after] [--uninit] <lblk> <len> <pblk>
+[--leaf-only|--reverse|--reverse-leaf]
+Current handle location: %d/%d (max: %d, bytes %d), level %d/%d
+	max lblk: %llu, max pblk: %llu
+	max_len: %u, max_uninit_len: %u
+while trying to go to block %llu, level %d
+pattern
+offset
+b:f:l:o:p:
+while reading block %llu
+while write block %llu
+%04o  
+%02x
+The bit to flip must be within a %d block
+The fill pattern must be an 8-bit value
+The offset must be within a %d block
+The -o and -b options can not be mixed.
+The specified length is too bug
+Usage:	zap_block [-f file] [-o offset] [-l length] [-p pattern] block_num
+	zap_block [-f file] [-b bit] block_num
+Couldn't allocate block buffer
+Usage: block_dump [-f inode] block_num
+%8u   %8lld %8lld %8lld    %8lld %8lld %8lld
+while opening quota inode (type %d)
+while trying to load quota information
+Usage: list_quota <quota_type>
+%8s   %8s %8s %8s    %8s %8s %8s
+Usage: get_quota <quota_type> <id>
+Invalid quota type: %s
+Valid quota types are: 
+quota feature not enabled
+user id
+group id
+limit
+while scanning dquots
+couldn't read quota record
+user
+/build/e2fsprogs-Fbwc2X/e2fsprogs-1.42.13/lib/quota/mkquota.c
+[ERROR] %s:%d:%s:: Unable to allocate dquot
+[QUOTA WARNING] Usage inconsistent for ID %d:actual (%llu, %llu) != expected (%llu, %llu)
+[ERROR] %s:%d:%s:: Couldn't read bitmaps: %s
+[ERROR] %s:%d:%s:: Couldn't write bitmaps: %s
+[ERROR] %s:%d:%s:: Cannot initialize io on quotafile
+[ERROR] %s:%d:%s:: Cannot finish IO on new quotafile: %s
+[ERROR] %s:%d:%s:: Unable to allocate quota handle: %s
+[ERROR] %s:%d:%s:: Cannot close quotafile: %s
+[ERROR] %s:%d:%s:: Failed to allocate quota context
+[ERROR] %s:%d:%s:: Failed to allocate dictionary
+[ERROR] %s:%d:%s:: while opening inode scan. ret=%ld
+[ERROR] %s:%d:%s:: while getting next inode. ret=%ld
+[ERROR] %s:%d:%s:: Open quota file failed
+[ERROR] %s:%d:%s:: Unable to allocate quota handle
+[ERROR] %s:%d:%s:: Error scanning dquots
+[QUOTA WARNING] Missing quota entry ID %d
+quota_compare_and_update
+quota_update_limits
+quota_compute_usage
+get_dq
+quota_release_context
+quota_init_context
+quota_write_inode
+quota_remove_inode
+/build/e2fsprogs-Fbwc2X/e2fsprogs-1.42.13/lib/quota/quotaio.c
+[ERROR] %s:%d:%s:: ext2fs_file_llseek failed: %ld
+[ERROR] %s:%d:%s:: ext2fs_file_read failed: %ld
+[ERROR] %s:%d:%s:: ext2fs_file_write failed: %ld
+[ERROR] %s:%d:%s:: ex2fs_read_inode failed
+[ERROR] %s:%d:%s:: ext2fs_write_new_inode failed: %ld
+[ERROR] %s:%d:%s:: init_new_quota_inode failed
+[ERROR] %s:%d:%s:: ext2fs_file_open failed: %d
+[ERROR] %s:%d:%s:: qh_ops->new_io failed
+[ERROR] %s:%d:%s:: ext2fs_file_open failed: %s
+[ERROR] %s:%d:%s:: qh_ops->check_file failed
+[ERROR] %s:%d:%s:: qh_ops->init_io failed
+[ERROR] %s:%d:%s:: Failed to allocate dquot
+%s.%s
+aquota
+get_empty_dquot
+quota_inode_init_new
+quota_file_create
+quota_write_nomount
+quota_read_nomount
+quota_file_open
+/build/e2fsprogs-Fbwc2X/e2fsprogs-1.42.13/lib/quota/quotaio_v2.c
+[ERROR] %s:%d:%s:: Not Implemented.
+[ERROR] %s:%d:%s:: Your quota file is stored in wrong endianity
+v2_check_file
+v2_report
+/build/e2fsprogs-Fbwc2X/e2fsprogs-1.42.13/lib/quota/quotaio_tree.c
+[ERROR] %s:%d:%s:: Cannot write block (%u): %s
+[ERROR] %s:%d:%s:: Cannot read block %u: %s
+[ERROR] %s:%d:%s:: Illegal reference (%u >= %u) in %s quota file. Quota file is probably corrupted.
+Please run e2fsck (8) to fix it.
+[ERROR] %s:%d:%s:: Failed to allocate dqbuf
+[ERROR] %s:%d:%s:: Cannot allocate new quota block (out of disk space).
+[ERROR] %s:%d:%s:: Quota for id %u referenced but not present.
+[ERROR] %s:%d:%s:: Inserting already present quota entry (block %u).
+[ERROR] %s:%d:%s:: find_free_dqentry(): Data block full unexpectedly.
+[ERROR] %s:%d:%s:: Quota structure has offset to other block (%u) than it should (%u).
+[ERROR] %s:%d:%s:: Cannot write quota (id %u): %s
+[ERROR] %s:%d:%s:: Quota write failed (id %u): %s
+[ERROR] %s:%d:%s:: Cannot read quota structure for id %u: %s
+check_reference
+find_block_dqentry
+qtree_read_dquot
+free_dqentry
+write_blk
+find_free_dqentry
+read_blk
+get_free_dqblk
+getdqbuf
+do_insert_tree
+dq_insert_tree
+Borrow or rob
+qtree_write_dquot
+;*3$"
+debugfs
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.gnu_debuglink
